@@ -1,0 +1,3716 @@
+     Game of 4/1/2013 -- San Francisco at Los Angeles (D)
+
+  San Francisco      AB  R  H RBI    Los Angeles        AB  R  H RBI
+Pagan A, cf           4  0  2  0   Crawford C, lf        4  1  2  0   
+Scutaro M, 2b         4  0  0  0   Schumaker S, lf       0  0  0  0   
+Sandoval P, 3b        4  0  2  0   Ellis M, 2b           3  1  2  0   
+Posey B, c            3  0  0  0   Kemp M, cf            3  1  0  0   
+Pence H, rf           3  0  0  0   Gonzalez A, 1b        2  0  1  0   
+Belt B, 1b            3  0  0  0   Ethier A, rf          4  0  1  1   
+Torres A, lf          3  0  0  0   Cruz L, 3b            3  0  0  0   
+Crawford B, ss        3  0  0  0   Ellis A, c            4  0  0  1   
+Cain M, p             2  0  0  0   Sellers J, ss         4  0  0  0   
+Kontos G, p           0  0  0  0   Kershaw C, p          3  1  1  1   
+Casilla S, p          0  0  0  0                                      
+Affeldt J, p          0  0  0  0                                      
+Arias J, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        30  4  7  3
+
+San Francisco    000 000 000 --  0
+Los Angeles      000 000 04x --  4
+
+  San Francisco        IP  H  R ER BB SO
+Cain M                6.0  4  0  0  1  8
+Kontos G (L)*         1.0  3  3  3  0  0
+Casilla S+            0.0  0  1  1  1  0
+Affeldt J             1.0  0  0  0  1  1
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (W)         9.0  4  0  0  0  7
+  * Pitched to 3 batters in 8th
+  + Pitched to 1 batter in 8th
+
+LOB -- San Francisco 3, Los Angeles 7
+2B -- Ellis M, Crawford C
+HR -- Kershaw C
+CS -- Crawford C, Pagan A
+HBP -- by Cain M (Ellis M), by Affeldt J (Gonzalez A)
+WP -- Kershaw C, Casilla S
+T -- 2:25
+A -- 53136
+     Game of 4/2/2013 -- San Francisco at Los Angeles (N)
+
+  San Francisco      AB  R  H RBI    Los Angeles        AB  R  H RBI
+Pagan A, cf           4  0  2  0   Hairston J, lf        3  0  0  0   
+Scutaro M, 2b         4  0  1  0   Crawford C, ph        1  0  0  0   
+Sandoval P, 3b        3  0  0  0   Ellis M, 2b           4  0  0  0   
+Posey B, c            4  1  1  0   Kemp M, cf            3  0  0  0   
+Pence H, rf           4  0  2  0   Gonzalez A, 1b        3  0  0  0   
+Arias J, 1b           4  1  2  1   Cruz L, 3b-ss         3  0  0  0   
+Torres A, lf          4  1  1  0   Ethier A, rf          3  0  1  0   
+Crawford B, ss        4  0  0  0   Ellis A, c            3  0  1  0   
+Bumgarner M, p        3  0  1  1   Sellers J, ss         2  0  0  0   
+Romo S, p             0  0  0  0   Punto N, ph-3b        1  0  0  0   
+                                   Ryu H, p              2  0  0  0   
+                                   Belisario R, p        0  0  0  0   
+                                   Jansen K, p           0  0  0  0   
+                                   Rodriguez P, p        0  0  0  0   
+                                   Schumaker S, ph       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3 10  2                        29  0  2  0
+
+San Francisco    000 100 200 --  3
+Los Angeles      000 000 000 --  0
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (W)       8.0  2  0  0  0  6
+Romo S (S)            1.0  0  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H (L)             6.1 10  3  1  0  5
+Belisario R           0.2  0  0  0  0  0
+Jansen K              1.0  0  0  0  1  1
+Rodriguez P           1.0  0  0  0  0  1
+
+E -- Sellers J 2
+DP -- Los Angeles 4
+LOB -- San Francisco 5, Los Angeles 2
+2B -- Ethier A, Ellis A
+T -- 2:44
+A -- 45431
+     Game of 4/3/2013 -- San Francisco at Los Angeles (N)
+
+  San Francisco      AB  R  H RBI    Los Angeles        AB  R  H RBI
+Pagan A, cf           4  1  0  1   Crawford C, lf        4  1  3  0   
+Scutaro M, 2b         4  0  0  0   Schumaker S, 2b       2  0  0  0   
+Sandoval P, 3b        4  1  1  2   Howell J, p           0  0  0  0   
+Posey B, 1b-c         3  0  1  0   Punto N, ph           1  0  1  0   
+Pence H, rf           4  1  1  1   League B, p           0  0  0  0   
+Sanchez H, c          3  0  1  0   Kemp M, cf            4  1  0  0   
+Lopez J, p            0  0  0  0   Gonzalez A, 1b        4  0  0  0   
+Gaudin C, p           0  0  0  0   Ethier A, rf          5  0  1  0   
+Noonan N, ph          1  0  0  0   Cruz L, ss            4  0  0  1   
+Romo S, p             0  0  0  0   Uribe J, 3b           3  0  0  0   
+Blanco G, lf          3  1  1  0   Ellis A, c            3  0  1  0   
+Crawford B, ss        3  1  1  0   Beckett J, p          0  0  0  0   
+Lincecum T, p         2  0  0  1   Ellis M, ph-2b        2  1  1  0   
+Mijares J, p          0  0  0  0                                      
+Kontos G, p           0  0  0  0                                      
+Arias J, 1b           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  5  6  5                        32  3  7  1
+
+San Francisco    004 001 000 --  5
+Los Angeles      100 011 000 --  3
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (W)        5.0  3  2  0  7  4
+Mijares J*            0.0  2  1  1  0  0
+Kontos G              0.2  0  0  0  0  0
+Lopez J+              0.1  1  0  0  0  1
+Gaudin C              2.0  1  0  0  0  1
+Romo S (S)            1.0  0  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Beckett J (L)         6.0  6  5  3  1  4
+Howell J              2.0  0  0  0  0  1
+League B              1.0  0  0  0  0  0
+  * Pitched to 3 batters in 6th
+  + Pitched to 1 batter in 7th
+
+E -- Schumaker S, Posey B, Gonzalez A
+DP -- San Francisco 1, Los Angeles 3
+LOB -- San Francisco 1, Los Angeles 12
+2B -- Ellis A, Crawford B, Ethier A
+HR -- Sandoval P, Pence H
+SH -- Beckett J
+SF -- Cruz L
+HBP -- by Mijares J (Schumaker S)
+PB -- Sanchez H
+T -- 3:04
+A -- 52906
+     Game of 4/5/2013 -- Pittsburgh at Los Angeles (N)
+
+  Pittsburgh         AB  R  H RBI    Los Angeles        AB  R  H RBI
+Marte S, lf           4  0  0  0   Crawford C, lf        4  0  0  0   
+Walker N, 2b          4  0  0  0   Ellis M, 2b           3  1  1  0   
+McCutchen A, cf       3  0  1  0   Kemp M, cf            4  1  1  1   
+Alvarez P, 3b         3  0  0  0   Gonzalez A, 1b        4  0  2  1   
+Martin R, c           2  0  0  0   Cruz L, 3b            3  0  0  0   
+Jones G, 1b           3  0  1  0   Ethier A, rf          3  1  1  1   
+Snider T, rf          3  0  0  0   Ellis A, c            3  0  1  0   
+Barmes C, ss          2  0  0  0   Sellers J, ss         3  0  0  0   
+Harrison J, ph-ss     1  0  0  0   Greinke Z, p          2  0  1  0   
+Sanchez J, p          2  0  0  0   Rodriguez P, p        0  0  0  0   
+Gomez J, p            0  0  0  0   Punto N, ph           1  0  0  0   
+Tabata J, ph          1  0  0  0   Jansen K, p           0  0  0  0   
+                                   League B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  0  2  0                        30  3  7  3
+
+Pittsburgh       000 000 000 --  0
+Los Angeles      010 002 00x --  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Sanchez J (L)*        5.0  6  3  3  1  4
+Gomez J               3.0  1  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Greinke Z (W)         6.1  2  0  0  0  6
+Rodriguez P           0.2  0  0  0  0  1
+Jansen K              1.0  0  0  0  1  2
+League B (S)          1.0  0  0  0  0  1
+  * Pitched to 3 batters in 6th
+
+E -- Walker N
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 2, Los Angeles 4
+2B -- Ellis A, Kemp M, Gonzalez A
+HR -- Ethier A
+CS -- Crawford C, McCutchen A
+T -- 2:34
+A -- 40607
+     Game of 4/6/2013 -- Pittsburgh at Los Angeles (N)
+
+  Pittsburgh         AB  R  H RBI    Los Angeles        AB  R  H RBI
+Marte S, lf           4  0  2  0   Crawford C, lf        3  1  2  0   
+Walker N, 2b          2  0  0  0   Rodriguez P, p        0  0  0  0   
+McCutchen A, cf       4  0  0  0   Jansen K, p           0  0  0  0   
+Sanchez G, 1b         3  0  0  0   League B, p           0  0  0  0   
+Martin R, c           2  0  0  0   Ellis M, 2b           4  0  2  1   
+Alvarez P, 3b         3  0  0  0   Kemp M, cf            4  0  0  0   
+Tabata J, rf          2  0  0  0   Gonzalez A, 1b        3  0  2  0   
+Jones G, ph-rf        1  0  0  0   Ethier A, rf          3  0  1  0   
+Barmes C, ss          3  0  0  0   Ellis A, c            3  0  1  0   
+Burnett A, p          2  0  0  0   Cruz L, 3b            4  0  0  0   
+Hughes J, p           0  0  0  0   Sellers J, ss         4  0  0  0   
+Melancon M, p         0  0  0  0   Kershaw C, p          1  0  0  0   
+Watson T, p           0  0  0  0   Schumaker S, ph-lf    1  0  0  0   
+Snider T, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     27  0  2  0                        30  1  8  1
+
+Pittsburgh       000 000 000 --  0
+Los Angeles      001 000 00x --  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Burnett A (L)         5.1  4  1  1  4  9
+Hughes J              0.2  1  0  0  0  0
+Melancon M            1.0  2  0  0  0  0
+Watson T              1.0  1  0  0  1  2
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (W)         7.0  2  0  0  1  9
+Rodriguez P           0.1  0  0  0  0  1
+Jansen K              0.2  0  0  0  0  1
+League B (S)          1.0  0  0  0  1  0
+
+DP -- Pittsburgh 2
+LOB -- Pittsburgh 3, Los Angeles 10
+2B -- Gonzalez A
+SB -- Crawford C 2, Ellis M
+CS -- Martin R
+SH -- Walker N
+T -- 3:02
+A -- 39446
+     Game of 4/7/2013 -- Pittsburgh at Los Angeles (D)
+
+  Pittsburgh         AB  R  H RBI    Los Angeles        AB  R  H RBI
+Marte S, lf           4  1  2  0   Crawford C, lf        4  2  2  0   
+Walker N, 2b          4  0  0  0   Schumaker S, lf       1  0  0  0   
+McCutchen A, cf       4  1  1  2   Punto N, 2b-3b        2  2  2  0   
+Sanchez G, 1b         3  0  0  0   Kemp M, cf            2  1  1  1   
+McKenry M, c          3  0  0  0   Gonzalez A, 1b        4  0  3  4   
+Alvarez P, 3b         4  0  0  0   Hairston J, rf        4  0  1  0   
+Tabata J, rf          3  0  1  0   Uribe J, 3b           3  0  0  0   
+Barmes C, ss          1  0  0  0   Belisario R, p        0  0  0  0   
+McDonald J, ss        1  0  0  0   Hernandez R, ph       1  0  0  0   
+Jones G, ph-rf        1  0  0  0   Guerrier M, p         0  0  0  0   
+Locke J, p            2  0  0  0   Howell J, p           0  0  0  0   
+Snider T, ph          1  0  0  0   Federowicz T, c       3  0  0  0   
+Leroux C, p           0  0  0  0   Sellers J, ss         3  1  1  1   
+Grilli J, p           0  0  0  0   Ryu H, p              2  0  0  0   
+                                   Ellis M, 2b           2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  2                        31  6 11  6
+
+Pittsburgh       200 000 000 --  2
+Los Angeles      201 010 20x --  6
+
+  Pittsburgh           IP  H  R ER BB SO
+Locke J (L)           6.0  8  4  4  1  3
+Leroux C              1.1  2  2  2  2  1
+Grilli J              0.2  1  0  0  1  0
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H (W)             6.1  3  2  2  2  6
+Belisario R           1.2  1  0  0  0  0
+Guerrier M            0.1  0  0  0  1  0
+Howell J              0.2  0  0  0  0  2
+
+E -- Punto N
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 5, Los Angeles 7
+2B -- Kemp M, Crawford C
+HR -- McCutchen A, Sellers J
+SB -- Punto N
+SH -- Punto N
+SF -- Kemp M
+WP -- Ryu H
+T -- 2:57
+A -- 52053
+     Game of 4/15/2013 -- San Diego at Los Angeles (N)
+
+  San Diego          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Cabrera E, ss         3  1  1  0   Crawford C, lf        5  1  3  1   
+Venable W, rf         2  0  0  0   Ellis M, 2b-3b-2b     5  0  2  0   
+Denorfia C, ph-rf     1  0  1  1   Kemp M, cf            5  1  2  0   
+Alonso Y, 1b          4  0  1  0   Gonzalez A, 1b        4  0  1  1   
+Blanks K, lf          4  0  1  1   Ellis A, c            3  0  2  1   
+Gyorko J, 3b          4  0  1  0   Ethier A, rf          3  0  0  0   
+Amarista A, 2b        2  1  1  0   Cruz L, 3b-ss         3  1  1  0   
+Baker J, c            3  0  0  0   Sellers J, ss         3  0  0  0   
+Maybin C, cf          3  2  1  0   Schumaker S, ph-2b    1  0  0  0   
+Stults E, p           2  1  1  3   Wall J, p             0  0  0  0   
+Guzman J, ph          1  1  1  0   Billingsley C, p      1  0  0  0   
+Brach B, p            0  0  0  0   Punto N, ph           1  0  0  0   
+Gregerson L, p        0  0  0  0   Belisario R, p        0  0  0  0   
+Kotsay M, ph          1  0  0  0   Rodriguez P, p        0  0  0  0   
+Street H, p           0  0  0  0   Guerrier M, p         0  0  0  0   
+                                   Howell J, p           0  0  0  0   
+                                   Hairston J, 3b        1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  6  9  5                        35  3 12  3
+
+San Diego        030 000 201 --  6
+Los Angeles      001 110 000 --  3
+
+  San Diego            IP  H  R ER BB SO
+Stults E (W)          6.0  9  3  3  1  4
+Brach B               1.0  1  0  0  0  1
+Gregerson L           1.0  1  0  0  1  0
+Street H (S)          1.0  1  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Billingsley C         6.0  7  3  3  2  3
+Belisario R (L)*      0.0  1  2  2  2  0
+Rodriguez P           0.2  0  0  0  1  0
+Guerrier M            0.2  0  0  0  1  0
+Howell J              1.0  0  1  1  1  1
+Wall J                0.2  1  0  0  1  0
+  * Pitched to 3 batters in 7th
+
+E -- Kemp M
+DP -- San Diego 2, Los Angeles 3
+LOB -- San Diego 8, Los Angeles 9
+2B -- Gonzalez A, Alonso Y, Kemp M
+HR -- Stults E
+SH -- Venable W, Billingsley C, Amarista A, Cruz L
+SF -- Blanks K
+Balk -- Stults E
+T -- 3:29
+A -- 52136
+     Game of 4/16/2013 -- San Diego at Los Angeles (N)
+
+  San Diego          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Denorfia C, cf-rf     6  2  3  0   Crawford C, lf        3  0  1  0   
+Cabrera E, ss         4  0  0  0   League B, p           0  0  0  0   
+Alonso Y, 1b          4  2  3  2   Ellis M, 2b           3  0  0  1   
+Guzman J, lf          4  2  1  0   Kemp M, cf            3  0  0  0   
+Cashner A, p          0  0  0  0   Rodriguez P, p        0  0  0  0   
+Gyorko J, 3b          5  0  1  1   Jansen K, p           0  0  0  0   
+Blanks K, rf-lf       4  2  2  0   Hairston J, lf        1  1  1  0   
+Hundley N, c          3  1  2  2   Gonzalez A, 1b        3  0  0  0   
+Amarista A, 2b        5  0  3  4   Hernandez R, 1b       1  0  0  0   
+Marquis J, p          4  0  0  0   Ethier A, rf          3  0  0  0   
+Venable W, cf         1  0  0  0   Ellis A, c            4  0  1  0   
+                                   Uribe J, 3b           2  1  1  0   
+                                   Wall J, p             0  0  0  0   
+                                   Schumaker S, cf       1  0  0  0   
+                                   Sellers J, ss         2  0  0  0   
+                                   Punto N, ph           0  0  0  1   
+                                   Capuano C, p          0  0  0  0   
+                                   Guerrier M, p         1  0  0  0   
+                                   Cruz L, 3b            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  9 15  9                        30  2  4  2
+
+San Diego        401 012 001 --  9
+Los Angeles      001 000 001 --  2
+
+  San Diego            IP  H  R ER BB SO
+Marquis J (W)         7.2  3  1  1  1  5
+Cashner A             1.1  1  1  1  3  2
+
+  Los Angeles          IP  H  R ER BB SO
+Capuano C (L)*        2.0  5  5  5  2  0
+Guerrier M            2.0  2  0  0  1  0
+Wall J                2.0  5  3  3  0  3
+Rodriguez P           1.0  1  0  0  0  0
+Jansen K              1.0  1  0  0  0  2
+League B              1.0  1  1  1  0  0
+  * Pitched to 1 batter in 3rd
+
+LOB -- San Diego 10, Los Angeles 7
+2B -- Blanks K, Hundley N, Denorfia C, Alonso Y, Crawford C
+SB -- Cabrera E, Denorfia C
+SH -- Cabrera E
+SF -- Hundley N, Ellis M
+HBP -- by Marquis J (Sellers J), by League B (Blanks K)
+WP -- Capuano C, League B
+T -- 3:08
+A -- 35898
+     Game of 4/17/2013 -- San Diego at Los Angeles (N)
+
+  San Diego          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Denorfia C, cf        6  1  1  1   Crawford C, lf        5  1  1  0   
+Cabrera E, ss         4  2  3  1   Ellis M, 2b           5  0  2  0   
+Headley C, 3b         4  1  1  1   Ethier A, rf          3  1  1  0   
+Guzman J, lf          3  1  1  0   Gonzalez A, 1b        3  0  3  1   
+Brach B, p            0  0  0  0   Ellis A, c            3  0  2  0   
+Kotsay M, ph          1  0  1  1   Schumaker S, cf       3  0  0  0   
+Richard C, pr         0  0  0  0   Kemp M, ph-cf         1  0  0  1   
+Thatcher J, p         0  0  0  0   Punto N, 3b           4  0  0  0   
+Thayer D, p           0  0  0  0   Belisario R, p        0  0  0  0   
+Amarista A, ph-2b     1  0  0  0   Jansen K, p           0  0  0  0   
+Alonso Y, 1b          3  0  0  0   Cruz L, ph            1  0  0  0   
+Gyorko J, 2b          5  0  1  0   Sellers J, ss         3  0  1  0   
+Gregerson L, p        0  0  0  0   Kershaw C, p          2  0  0  0   
+Street H, p           0  0  0  0   Rodriguez P, p        0  0  0  0   
+Blanks K, rf-lf       3  1  2  2   Federowicz T, ph      1  0  0  0   
+Hundley N, c          4  0  1  0   Howell J, p           0  0  0  0   
+Ross T, p             2  0  1  0   Uribe J, 3b           1  0  0  0   
+Venable W, rf         3  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  7 13  6                        35  2 10  2
+
+San Diego        000 311 110 --  7
+Los Angeles      001 000 001 --  2
+
+  San Diego            IP  H  R ER BB SO
+Ross T                4.2  6  1  1  3  2
+Brach B (W)           1.1  0  0  0  1  0
+Thatcher J            0.1  2  0  0  0  0
+Thayer D              0.2  1  0  0  0  1
+Gregerson L           1.0  0  0  0  0  1
+Street H              1.0  1  1  1  2  1
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (L)         5.1  7  5  3  4  5
+Rodriguez P           0.2  0  0  0  0  2
+Howell J*             1.0  4  2  2  0  2
+Belisario R           1.0  2  0  0  1  1
+Jansen K              1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Punto N
+DP -- Los Angeles 1
+LOB -- San Diego 12, Los Angeles 14
+2B -- Cabrera E
+HR -- Cabrera E, Denorfia C, Blanks K
+SB -- Crawford C, Cabrera E, Venable W
+SF -- Gonzalez A, Kemp M
+HBP -- by Howell J (Blanks K), by Jansen K (Blanks K)
+WP -- Kershaw C
+T -- 3:47
+A -- 52393
+     Game of 4/26/2013 -- Milwaukee at Los Angeles (N)
+
+  Milwaukee          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Aoki N, rf            4  0  1  0   Crawford C, lf        4  2  2  2   
+Segura J, ss          5  0  2  2   Ellis M, 2b           3  1  1  0   
+Braun R, lf           5  1  1  1   Punto N, 2b           1  1  0  0   
+Lucroy J, c           4  0  2  0   Gonzalez A, 1b        4  0  2  3   
+Weeks R, 2b           3  0  0  0   Kemp M, cf            2  0  0  0   
+Gomez C, cf           4  0  1  0   Ethier A, rf          4  0  1  1   
+Betancourt Y, 3b      4  1  1  1   Ellis A, c            4  0  0  0   
+Gonzalez A, 1b        4  3  3  0   Uribe J, 3b           2  0  0  0   
+Burgos H, p           1  0  0  0   Belisario R, p        0  0  0  0   
+Schafer L, ph         0  0  0  0   Cruz L, ph-3b         1  1  1  0   
+Badenhop B, p         0  0  0  0   Sellers J, ss         4  2  2  0   
+Gonzalez M, p         0  0  0  0   Beckett J, p          2  0  0  0   
+Kintzler B, p         0  0  0  0   Guerrier M, p         0  0  0  0   
+Lalli B, ph           1  0  0  0   Rodriguez P, p        0  0  0  0   
+                                   Hairston J, 3b        1  0  0  1   
+                                   League B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5 11  4                        32  7  9  7
+
+Milwaukee        000 120 101 --  5
+Los Angeles      101 010 22x --  7
+
+  Milwaukee            IP  H  R ER BB SO
+Burgos H              6.0  4  3  3  2  3
+Badenhop B            0.1  1  1  1  0  0
+Gonzalez M (L)        0.2  1  1  1  2  0
+Kintzler B            1.0  3  2  2  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Beckett J             5.1  7  3  3  2  5
+Guerrier M*           0.2  1  1  0  0  0
+Rodriguez P           0.1  1  0  0  0  0
+Belisario R (W)       1.2  0  0  0  0  3
+League B (S)          1.0  2  1  1  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Kemp M, Hairston J 2, League B
+DP -- Los Angeles 2
+LOB -- Milwaukee 7, Los Angeles 7
+2B -- Gonzalez A 2, Sellers J
+HR -- Crawford C, Braun R, Betancourt Y
+SB -- Segura J
+CS -- Aoki N
+SH -- Burgos H, Schafer L, Hairston J
+HBP -- by Burgos H (Crawford C)
+WP -- League B
+T -- 3:16
+A -- 44930
+     Game of 4/27/2013 -- Milwaukee at Los Angeles (N)
+
+  Milwaukee          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Aoki N, rf            2  2  1  0   Crawford C, lf        5  0  0  0   
+Gomez C, cf           5  2  3  2   Ellis A, c            5  0  1  1   
+Braun R, lf           3  0  0  0   Ethier A, rf          4  1  1  1   
+Betancourt Y, 3b      5  0  2  1   Kemp M, cf            4  2  2  0   
+Weeks R, 2b           4  1  1  1   Schumaker S, 2b       4  0  1  0   
+Maldonado M, c        4  1  1  2   Hairston J, 1b-3b     4  0  1  0   
+Lalli B, 1b           4  0  0  0   Wall J, p             0  0  0  0   
+Gonzalez A, ss        4  0  0  0   Cruz L, ss            4  0  0  1   
+Peralta W, p          2  0  0  0   Uribe J, 3b           2  1  1  0   
+Segura J, ph          1  0  0  0   Rodriguez P, p        0  0  0  0   
+Gorzelanny T, p       0  0  0  0   Guerrier M, p         0  0  0  0   
+Axford J, p           0  0  0  0   Howell J, p           0  0  0  0   
+Davis K, ph           0  0  0  0   Punto N, 3b           0  0  0  0   
+Schafer L, ph         1  0  1  0   Magill M, p           1  0  0  0   
+Henderson J, p        0  0  0  0   Gonzalez A, 1b        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6  9  6                        35  4  7  3
+
+Milwaukee        002 000 220 --  6
+Los Angeles      001 101 010 --  4
+
+  Milwaukee            IP  H  R ER BB SO
+Peralta W (W)         6.0  6  3  3  1  2
+Gorzelanny T          1.0  0  0  0  0  0
+Axford J              1.0  1  1  1  0  1
+Henderson J (S)       1.0  0  0  0  1  0
+
+  Los Angeles          IP  H  R ER BB SO
+Magill M              6.2  4  2  2  2  7
+Rodriguez P*          0.0  1  1  1  0  0
+Guerrier M (L)        0.2  3  3  3  1  0
+Howell J              0.2  0  0  0  0  1
+Wall J                1.0  1  0  0  1  1
+  * Pitched to 1 batter in 7th
+
+E -- Gonzalez A, Schumaker S, Betancourt Y
+LOB -- Milwaukee 7, Los Angeles 7
+2B -- Hairston J
+HR -- Gomez C, Maldonado M, Ethier A
+SB -- Aoki N, Kemp M, Crawford C
+CS -- Braun R
+SH -- Magill M, Aoki N
+WP -- Peralta W
+T -- 3:19
+A -- 50224
+     Game of 4/28/2013 -- Milwaukee at Los Angeles (D)
+
+  Milwaukee          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Aoki N, rf            4  0  0  0   Crawford C, lf        4  2  2  2   
+Segura J, ss          4  0  1  0   Punto N, 2b           4  0  3  0   
+Braun R, lf           4  0  1  0   Gonzalez A, 1b        4  0  0  0   
+Lucroy J, c           3  0  0  0   Kemp M, cf            3  0  0  0   
+Weeks R, 2b           3  0  1  0   Ethier A, rf          3  0  0  0   
+Gomez C, cf           3  0  1  0   Hernandez R, c        3  0  0  0   
+Betancourt Y, 3b      3  0  0  0   Uribe J, 3b           3  0  1  0   
+Maldonado M, 1b       3  0  0  0   Sellers J, ss         3  0  0  0   
+Lohse K, p            2  0  0  0   Kershaw C, p          2  0  0  0   
+Davis K, ph           1  0  0  0   Hairston J, ph        1  0  0  0   
+Gonzalez M, p         0  0  0  0   League B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        30  2  6  2
+
+Milwaukee        000 000 000 --  0
+Los Angeles      100 010 00x --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Lohse K (L)           7.0  5  2  2  0  4
+Gonzalez M            1.0  1  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (W)         8.0  4  0  0  0 12
+League B (S)          1.0  0  0  0  0  0
+
+DP -- Los Angeles 1
+LOB -- Milwaukee 3, Los Angeles 4
+2B -- Weeks R, Gomez C
+HR -- Crawford C 2
+T -- 2:21
+A -- 49003
+     Game of 4/29/2013 -- Colorado at Los Angeles (N)
+
+  Colorado           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Fowler D, cf          3  1  2  2   Crawford C, lf        3  0  1  0   
+Young E, cf           1  0  0  0   Howell J, p           0  0  0  0   
+Pacheco J, 1b-c       5  1  2  2   Guerrier M, p         0  0  0  0   
+Gonzalez C, lf        6  1  3  0   Ramirez H, ph         1  0  0  0   
+Rosario W, c          4  3  3  3   Rodriguez P, p        0  0  0  0   
+Wheeler R, 1b         1  0  0  0   Punto N, 2b           0  0  0  0   
+Cuddyer M, rf         5  1  0  0   Ellis A, c            4  0  0  0   
+Arenado N, 3b         6  3  3  2   Gonzalez A, 1b        4  0  1  0   
+Rutledge J, 2b        5  1  2  1   Kemp M, cf            3  0  0  0   
+Herrera J, ss         6  0  1  0   Ethier A, rf          4  0  2  0   
+Chatwood T, p         4  1  3  2   Schumaker S, 2b-p     4  1  1  0   
+Ottavino A, p         1  0  0  0   Cruz L, 3b            4  0  0  0   
+Lopez W, p            0  0  0  0   Sellers J, ss         3  0  0  0   
+                                   Lilly T, p            0  0  0  0   
+                                   Uribe J, ph           1  0  0  0   
+                                   Wall J, p             0  0  0  0   
+                                   Hairston J, ph-lf     2  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     47 12 19 12                        33  2  6  2
+
+Colorado         401 520 000 -- 12
+Los Angeles      000 000 200 --  2
+
+  Colorado             IP  H  R ER BB SO
+Chatwood T (W)        6.0  5  0  0  0  5
+Ottavino A            2.0  1  2  0  0  4
+Lopez W               1.0  0  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Lilly T (L)           3.0  8  5  4  2  2
+Wall J                2.0  8  7  7  2  1
+Howell J              1.0  1  0  0  1  1
+Guerrier M            1.0  0  0  0  0  0
+Rodriguez P           1.0  0  0  0  0  2
+Schumaker S           1.0  2  0  0  1  0
+
+E -- Lilly T, Rutledge J
+DP -- Colorado 1
+LOB -- Colorado 14, Los Angeles 5
+2B -- Gonzalez C, Rosario W, Pacheco J
+HR -- Fowler D, Rosario W, Arenado N, Hairston J
+HBP -- by Chatwood T (Kemp M)
+WP -- Chatwood T
+T -- 3:22
+A -- 31570
+     Game of 4/30/2013 -- Colorado at Los Angeles (N)
+
+  Colorado           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Fowler D, cf          4  1  1  0   Hairston J, lf        5  2  3  1   
+Rutledge J, 2b        4  0  1  0   Punto N, 2b           5  1  2  1   
+Gonzalez C, lf        2  1  1  1   Kemp M, cf            5  0  2  1   
+Cuddyer M, rf         4  0  1  1   Gonzalez A, 1b        3  0  1  1   
+Pacheco J, 1b         4  0  0  0   Ramirez H, ss         4  1  2  1   
+Arenado N, 3b         4  0  0  0   Ethier A, rf          3  1  1  0   
+Torrealba Y, c        3  0  0  0   Ellis A, c            3  0  0  0   
+Herrera J, ss         2  0  0  0   Uribe J, 3b           3  1  1  0   
+Escalona E, p         0  0  0  0   Jansen K, p           0  0  0  0   
+Wheeler R, ph         1  0  0  0   Ryu H, p              3  0  1  1   
+Belisle M, p          0  0  0  0   Belisario R, p        0  0  0  0   
+Brothers R, p         0  0  0  0   Cruz L, 3b            1  0  0  0   
+de la Rosa J, p       1  0  0  0                                      
+Brignac R, ss         2  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        35  6 13  6
+
+Colorado         100 001 000 --  2
+Los Angeles      222 000 00x --  6
+
+  Colorado             IP  H  R ER BB SO
+de la Rosa J (L)      4.0 11  6  6  2  1
+Escalona E            2.0  1  0  0  0  3
+Belisle M             1.0  0  0  0  1  2
+Brothers R            1.0  1  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H (W)             6.0  3  2  2  2 12
+Belisario R           1.0  1  0  0  1  1
+Jansen K              2.0  1  0  0  0  0
+
+DP -- Colorado 1, Los Angeles 1
+LOB -- Colorado 5, Los Angeles 9
+2B -- Ethier A, Ramirez H, Cuddyer M
+HR -- Gonzalez C, Ramirez H
+SB -- Fowler D
+SF -- Gonzalez A
+T -- 3:02
+A -- 47602
+     Game of 5/1/2013 -- Colorado at Los Angeles (N)
+
+  Colorado           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Young E, rf           5  2  1  0   Punto N, 2b           5  1  1  0   
+Fowler D, cf          4  1  1  0   Ramirez H, ss         4  1  3  0   
+Gonzalez C, lf        3  1  2  2   Gonzalez A, 1b        4  1  1  2   
+Tulowitzki T, ss      4  1  2  2   Kemp M, cf            4  0  1  0   
+Cuddyer M, 1b         4  1  2  2   Ethier A, rf          3  0  0  0   
+Rosario W, c          5  0  0  0   Ellis A, c            4  0  1  0   
+Arenado N, 3b         4  0  1  0   Schumaker S, lf       3  0  0  0   
+Rutledge J, 2b        4  1  3  1   Guerra J, p           0  0  0  0   
+Nicasio J, p          0  0  0  0   Uribe J, 3b           3  0  0  0   
+Outman J, p           1  0  0  0   Belisario R, p        0  0  0  0   
+Wheeler R, ph         1  0  0  0   Howell J, p           0  0  0  0   
+Belisle M, p          0  0  0  0   Cruz L, 3b            1  0  0  0   
+Brothers R, p         0  0  0  0   Beckett J, p          1  0  0  0   
+Brignac R, ph         1  0  0  0   Sellers J, ph         1  0  0  0   
+Betancourt R, p       0  0  0  0   Guerrier M, p         0  0  0  0   
+                                   Rodriguez P, p        0  0  0  0   
+                                   Jansen K, p           0  0  0  0   
+                                   Hairston J, 3b-lf     2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 12  7                        35  3  8  2
+
+Colorado         300 200 200 --  7
+Los Angeles      201 000 000 --  3
+
+  Colorado             IP  H  R ER BB SO
+Nicasio J             4.0  5  3  3  2  6
+Outman J (W)          2.0  1  0  0  0  1
+Belisle M             1.0  2  0  0  0  0
+Brothers R            1.0  0  0  0  0  2
+Betancourt R          1.0  0  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Beckett J (L)         4.0  5  5  4  3  6
+Guerrier M            1.2  2  0  0  0  0
+Rodriguez P           0.2  0  0  0  0  2
+Jansen K*             0.0  2  2  2  0  0
+Belisario R           0.2  1  0  0  1  1
+Howell J              1.0  1  0  0  1  0
+Guerra J              1.0  1  0  0  1  2
+  * Pitched to 2 batters in 7th
+
+E -- Ramirez H, Arenado N
+DP -- Colorado 1, Los Angeles 1
+LOB -- Colorado 12, Los Angeles 7
+2B -- Tulowitzki T, Ramirez H, Rutledge J, Gonzalez C 2, Young E, Cuddyer M
+HR -- Gonzalez A
+SB -- Ramirez H
+SH -- Nicasio J 2
+SF -- Cuddyer M
+HBP -- by Beckett J (Fowler D)
+WP -- Nicasio J 2
+T -- 3:54
+A -- 32848
+     Game of 5/6/2013 -- Arizona at Los Angeles (N)
+
+  Arizona            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Pollock A, cf         5  1  2  1   Crawford C, lf        4  1  1  1   
+Gregorius D, ss       5  2  1  0   Punto N, 2b           3  1  1  0   
+Goldschmidt P, 1b     5  1  4  3   Guerra J, p           0  0  0  0   
+Ross C, lf            5  2  2  1   Gonzalez A, 1b        4  0  2  0   
+Montero M, c          5  0  2  1   Kemp M, cf            3  0  1  1   
+Prado M, 3b           4  0  2  0   Ethier A, rf          4  0  0  0   
+Parra G, rf           4  1  1  1   Ellis A, c            3  0  1  0   
+Wilson J, 2b          5  1  0  0   Uribe J, 3b           4  0  1  0   
+Cahill T, p           3  1  1  2   Gordon D, ss          3  0  0  0   
+Hinske E, ph          1  0  0  0   Capuano C, p          2  0  0  0   
+Reynolds M, p         0  0  0  0   Rodriguez P, p        0  0  0  0   
+Ziegler B, p          0  0  0  0   Guerrier M, p         0  0  0  0   
+                                   Schumaker S, ph-2b    1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42  9 15  9                        31  2  7  2
+
+Arizona          030 030 003 --  9
+Los Angeles      101 000 000 --  2
+
+  Arizona              IP  H  R ER BB SO
+Cahill T (W)          7.0  6  2  2  3  2
+Reynolds M            1.0  1  0  0  0  1
+Ziegler B             1.0  0  0  0  0  2
+
+  Los Angeles          IP  H  R ER BB SO
+Capuano C (L)*        4.0  8  6  5  2  2
+Rodriguez P           2.0  1  0  0  0  3
+Guerrier M            1.0  0  0  0  0  1
+Guerra J              2.0  6  3  3  0  2
+  * Pitched to 3 batters in 5th
+
+E -- Crawford C, Gregorius D
+DP -- Arizona 1, Los Angeles 1
+LOB -- Arizona 8, Los Angeles 6
+2B -- Pollock A
+3B -- Cahill T
+HR -- Crawford C, Goldschmidt P, Ross C
+SB -- Prado M
+SF -- Kemp M
+T -- 3:00
+A -- 30981
+     Game of 5/7/2013 -- Arizona at Los Angeles (N)
+
+  Arizona            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Parra G, cf           4  2  2  0   Crawford C, lf        5  0  1  0   
+Gregorius D, ss       4  1  3  0   Gordon D, ss          5  0  1  0   
+Goldschmidt P, 1b     4  1  1  3   Kemp M, cf            4  1  2  0   
+Montero M, c          5  0  0  0   Gonzalez A, 1b        4  0  1  0   
+Chavez E, 3b          4  1  2  1   Ethier A, rf          3  0  1  1   
+Ross C, rf            4  0  1  0   Hernandez R, c        4  0  0  0   
+Kubel J, lf           4  0  1  1   Schumaker S, 2b       3  1  0  0   
+Pennington C, 2b      2  0  1  0   League B, p           0  0  0  0   
+Prado M, ph-2b        0  0  0  0   Punto N, 3b-2b        3  1  2  2   
+McCarthy B, p         2  0  0  0   Beckett J, p          2  0  1  0   
+Sipp T, p             0  0  0  0   Howell J, p           0  0  0  0   
+Hinske E, ph          1  0  0  0   Sellers J, ph         0  0  0  0   
+Hernandez D, p        0  0  0  0   Jansen K, p           0  0  0  0   
+Putz J, p             0  0  0  0   Uribe J, 3b           1  0  0  0   
+Bell H, p             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  5 11  5                        34  3  9  3
+
+Arizona          110 010 002 --  5
+Los Angeles      110 000 100 --  3
+
+  Arizona              IP  H  R ER BB SO
+McCarthy B            6.1  8  3  3  1  3
+Sipp T                0.2  0  0  0  0  0
+Hernandez D (W)       1.0  1  0  0  1  0
+Putz J*               0.0  0  0  0  1  0
+Bell H (S)            1.0  0  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Beckett J             6.0  9  3  3  2  5
+Howell J              1.0  1  0  0  0  0
+Jansen K              1.0  0  0  0  2  2
+League B (L)          1.0  1  2  2  1  2
+  * Pitched to 1 batter in 9th
+
+DP -- Arizona 1, Los Angeles 1
+LOB -- Arizona 9, Los Angeles 8
+2B -- Parra G, Chavez E, Punto N, Kemp M
+HR -- Punto N, Goldschmidt P
+SB -- Chavez E
+CS -- Parra G
+SH -- Gregorius D, McCarthy B, Sellers J
+WP -- Bell H
+T -- 3:26
+A -- 33611
+     Game of 5/8/2013 -- Arizona at Los Angeles (N)
+
+  Arizona            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Pollock A, cf         4  0  1  0   Gordon D, ss          4  1  2  0   
+Gregorius D, ss       3  1  0  0   Punto N, 2b           4  1  1  1   
+Goldschmidt P, 1b     4  2  2  3   Kemp M, cf            4  0  1  0   
+Ross C, lf            4  0  2  0   Gonzalez A, 1b        2  0  1  1   
+Prado M, 3b           4  0  0  0   Cruz L, 3b            1  0  0  0   
+Nieves W, c           4  0  0  0   Schumaker S, ph       1  0  1  0   
+Parra G, rf           4  0  1  0   Ellis A, c            4  0  0  0   
+Wilson J, 2b          3  0  0  0   Ethier A, rf          4  0  1  0   
+Miley W, p            2  0  0  0   Uribe J, 3b-1b        3  0  0  0   
+Ziegler B, p          0  0  0  0   Crawford C, ph        1  0  0  0   
+Bell H, p             0  0  0  0   Herrera E, lf         3  0  1  0   
+                                   Kershaw C, p          2  0  0  0   
+                                   Federowicz T, ph      1  0  0  0   
+                                   Jansen K, p           0  0  0  0   
+                                   Belisario R, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        34  2  8  2
+
+Arizona          000 002 010 --  3
+Los Angeles      000 200 000 --  2
+
+  Arizona              IP  H  R ER BB SO
+Miley W (W)           7.2  7  2  2  0  4
+Ziegler B             0.1  0  0  0  0  1
+Bell H (S)            1.0  1  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C             7.0  5  2  1  1  4
+Jansen K (L)          1.0  1  1  1  0  2
+Belisario R           1.0  0  0  0  0  0
+
+E -- Kershaw C, Uribe J, Gordon D
+DP -- Los Angeles 2
+LOB -- Arizona 4, Los Angeles 5
+2B -- Pollock A, Parra G, Punto N, Gonzalez A, Schumaker S
+HR -- Goldschmidt P 2
+CS -- Gordon D
+SH -- Miley W
+T -- 2:35
+A -- 31512
+     Game of 5/10/2013 -- Miami at Los Angeles (N)
+
+  Miami              AB  R  H RBI    Los Angeles        AB  R  H RBI
+Pierre J, lf          4  0  2  1   Crawford C, lf        5  1  3  0   
+Hechavarria A, ss     4  0  0  0   Punto N, 3b           4  1  0  0   
+Polanco P, 3b         3  1  0  0   Gonzalez A, 1b        4  1  1  3   
+Ruggiano J, cf        2  0  0  0   Kemp M, cf            4  1  1  0   
+Dobbs G, 1b           4  0  0  0   Ethier A, rf          4  0  0  0   
+Ozuna M, rf           3  1  0  0   Ellis A, c            4  0  3  1   
+Dietrich D, 2b        4  1  1  3   Schumaker S, 2b       4  0  1  0   
+Brantly R, c          2  1  1  0   Gordon D, ss          3  0  0  0   
+Fernandez J, p        2  0  1  0   Magill M, p           1  0  0  0   
+Coghlan C, ph         1  1  1  0   Uribe J, ph           1  0  1  0   
+Dunn M, p             0  0  0  0   Howell J, p           0  0  0  0   
+Qualls C, p           0  0  0  0   Federowicz T, ph      1  0  0  0   
+Diaz M, ph            1  0  0  0   Belisario R, p        0  0  0  0   
+Cishek S, p           0  0  0  0   Rodriguez P, p        0  0  0  0   
+                                   Van Slyke S, ph       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  5  6  4                        36  4 10  4
+
+Miami            000 300 200 --  5
+Los Angeles      300 000 010 --  4
+
+  Miami                IP  H  R ER BB SO
+Fernandez J (W)       6.0  8  3  3  2  7
+Dunn M                1.0  0  0  0  0  1
+Qualls C              1.0  2  1  1  0  0
+Cishek S (S)          1.0  0  0  0  0  2
+
+  Los Angeles          IP  H  R ER BB SO
+Magill M              5.0  3  3  3  4  2
+Howell J              1.0  0  0  0  0  0
+Belisario R (L)*      1.0  3  2  2  1  0
+Rodriguez P           2.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+DP -- Los Angeles 2
+LOB -- Miami 4, Los Angeles 7
+2B -- Ellis A, Schumaker S, Coghlan C
+HR -- Gonzalez A, Dietrich D
+SB -- Crawford C, Kemp M
+CS -- Ruggiano J
+HBP -- by Magill M (Brantly R)
+WP -- Qualls C
+T -- 3:01
+A -- 41721
+     Game of 5/11/2013 -- Miami at Los Angeles (N)
+
+  Miami              AB  R  H RBI    Los Angeles        AB  R  H RBI
+Hechavarria A, ss     3  0  1  0   Crawford C, lf        5  0  1  0   
+Diaz M, lf            4  0  0  0   Guerrier M, p         0  0  0  0   
+Polanco P, 3b         4  0  2  0   Guerra J, p           0  0  0  0   
+Ruggiano J, cf        4  0  0  0   Gordon D, ss          4  1  1  1   
+Ozuna M, rf           4  0  0  0   Gonzalez A, 1b        4  1  2  0   
+Olivo M, c            2  1  1  1   Cruz L, 3b            1  0  0  0   
+Skipworth K, ph       1  0  0  0   Kemp M, cf            5  0  1  0   
+Dobbs G, 1b           3  0  0  0   Ethier A, rf          4  3  4  0   
+Green N, 2b           3  0  0  0   Ellis A, c            2  1  1  0   
+Slowey K, p           1  0  0  0   Schumaker S, 2b-lf    3  1  2  3   
+Rauch J, p            0  0  0  0   Uribe J, 3b-1b        2  0  2  2   
+Coghlan C, ph         1  0  1  0   Ryu H, p              1  0  0  0   
+Ramos A, p            0  0  0  0   Rodriguez P, p        0  0  0  0   
+Webb R, p             0  0  0  0   Punto N, ph-2b        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        32  7 14  6
+
+Miami            000 000 100 --  1
+Los Angeles      012 020 20x --  7
+
+  Miami                IP  H  R ER BB SO
+Slowey K (L)          4.2 11  5  5  3  0
+Rauch J               1.1  1  0  0  0  0
+Ramos A               1.0  2  2  1  1  2
+Webb R                1.0  0  0  0  1  1
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H (W)             6.2  5  1  1  3  3
+Rodriguez P           0.1  0  0  0  0  0
+Guerrier M            1.0  0  0  0  0  1
+Guerra J              1.0  0  0  0  0  1
+
+E -- Gonzalez A
+DP -- Miami 1, Los Angeles 1
+LOB -- Miami 6, Los Angeles 9
+2B -- Ethier A 2, Polanco P
+HR -- Gordon D, Olivo M
+SB -- Schumaker S
+SH -- Ellis A, Ryu H, Slowey K
+SF -- Uribe J
+PB -- Olivo M
+T -- 2:58
+A -- 42208
+     Game of 5/12/2013 -- Miami at Los Angeles (D)
+
+  Miami              AB  R  H RBI    Los Angeles        AB  R  H RBI
+Pierre J, lf          4  0  0  0   Crawford C, lf        4  1  2  1   
+Polanco P, 3b         4  0  0  0   Gordon D, ss          4  0  1  0   
+Ruggiano J, cf        4  1  2  1   Kemp M, cf            3  0  2  0   
+Ozuna M, rf           4  0  2  0   Ethier A, rf          3  0  0  1   
+Olivo M, c            4  0  1  0   Van Slyke S, 1b       4  1  2  2   
+Green N, 1b           3  1  0  0   Schumaker S, 2b       3  1  1  0   
+Dietrich D, 2b        4  1  2  0   Jansen K, p           1  0  0  0   
+Hechavarria A, ss     4  0  1  2   League B, p           0  0  0  0   
+Koehler T, p          2  0  0  0   Federowicz T, c       4  0  1  0   
+Webb R, p             0  0  0  0   Punto N, 3b-2b        2  1  1  1   
+Coghlan C, ph         1  0  0  0   Capuano C, p          2  0  0  0   
+Rauch J, p            0  0  0  0   Uribe J, 3b           1  1  1  0   
+Dunn M, p             0  0  0  0                                      
+Cishek S, p           0  0  0  0                                      
+Dobbs G, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        31  5 11  5
+
+Miami            000 001 002 --  3
+Los Angeles      010 100 30x --  5
+
+  Miami                IP  H  R ER BB SO
+Koehler T (L)         5.0  7  2  2  1  1
+Webb R                1.0  0  0  0  0  1
+Rauch J*              0.0  2  2  2  0  0
+Dunn M                1.0  2  1  1  1  0
+Cishek S              1.0  0  0  0  2  1
+
+  Los Angeles          IP  H  R ER BB SO
+Capuano C (W)         6.1  5  1  1  1  7
+Jansen K              1.2  0  0  0  0  4
+League B              1.0  3  2  2  0  0
+  * Pitched to 2 batters in 7th
+
+DP -- Miami 1
+LOB -- Miami 6, Los Angeles 9
+2B -- Schumaker S, Dietrich D, Hechavarria A
+HR -- Van Slyke S, Ruggiano J
+SB -- Gordon D
+SH -- Gordon D
+SF -- Punto N, Ethier A
+WP -- Capuano C
+T -- 2:48
+A -- 43959
+     Game of 5/13/2013 -- Washington at Los Angeles (N)
+
+  Washington         AB  R  H RBI    Los Angeles        AB  R  H RBI
+Span D, cf            5  1  2  0   Crawford C, lf        4  0  2  0   
+Lombardozzi S, lf     5  2  1  0   Gordon D, ss          4  1  1  0   
+Perez E, lf           0  0  0  0   Gonzalez A, 1b        4  0  2  0   
+Harper B, rf          1  2  1  0   Kemp M, cf            4  0  1  1   
+Bernadina R, rf       2  0  1  0   Ethier A, rf          4  0  1  0   
+Zimmerman R, 3b       4  0  1  3   Ellis A, c            4  1  1  0   
+LaRoche A, 1b         5  0  1  2   Schumaker S, 2b       4  0  0  1   
+Desmond I, ss         4  0  1  0   Punto N, 3b           3  0  1  0   
+Espinosa D, 2b        5  0  0  0   Belisario R, p        0  0  0  0   
+Suzuki K, c           5  0  1  0   Guerrier M, p         0  0  0  0   
+Zimmermann J, p       3  1  1  0   Van Slyke S, ph       1  0  0  0   
+Clippard T, p         0  0  0  0   Beckett J, p          0  0  0  0   
+Storen D, p           0  0  0  0   Cruz L, ph            1  0  0  0   
+                                   Guerra J, p           0  0  0  0   
+                                   Federowicz T, ph      1  0  0  0   
+                                   Howell J, p           0  0  0  0   
+                                   Uribe J, 3b           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 10  5                        35  2  9  2
+
+Washington       103 020 000 --  6
+Los Angeles      000 010 010 --  2
+
+  Washington           IP  H  R ER BB SO
+Zimmermann J (W)      7.2  9  2  2  0  5
+Clippard T            0.1  0  0  0  0  0
+Storen D              1.0  0  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Beckett J (L)         3.0  3  4  2  2  5
+Guerra J              2.0  2  2  1  2  1
+Howell J              2.0  3  0  0  1  2
+Belisario R           1.0  1  0  0  0  1
+Guerrier M            1.0  1  0  0  0  1
+
+E -- Gonzalez A, Suzuki K, Guerra J
+DP -- Washington 1
+LOB -- Washington 11, Los Angeles 6
+2B -- Zimmerman R, Crawford C
+3B -- Ellis A
+SB -- Gordon D, Crawford C
+PB -- Ellis A
+T -- 3:14
+A -- 32337
+     Game of 5/14/2013 -- Washington at Los Angeles (N)
+
+  Washington         AB  R  H RBI    Los Angeles        AB  R  H RBI
+Espinosa D, 2b        4  0  0  0   Crawford C, lf        4  0  0  0   
+Lombardozzi S, lf     4  0  0  0   Kemp M, cf            4  1  1  0   
+Mattheus R, p         0  0  0  0   Gonzalez A, 1b        3  0  0  0   
+Zimmerman R, 3b       4  0  3  0   Ethier A, rf          3  0  1  2   
+Desmond I, ss         4  0  1  0   Ellis A, c            3  0  0  0   
+LaRoche A, 1b         3  0  1  0   Schumaker S, 2b       3  0  1  0   
+Moore T, rf           4  0  0  0   Punto N, 3b           3  0  1  0   
+Ramos W, c            3  0  0  0   Uribe J, 3b           0  0  0  0   
+Perez E, cf-lf        3  0  0  0   Gordon D, ss          3  0  0  0   
+Haren D, p            2  0  0  0   Kershaw C, p          2  1  0  0   
+Span D, ph-cf         1  0  0  0   Jansen K, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  0  5  0                        28  2  4  2
+
+Washington       000 000 000 --  0
+Los Angeles      002 000 00x --  2
+
+  Washington           IP  H  R ER BB SO
+Haren D (L)           7.0  4  2  2  0  4
+Mattheus R            1.0  0  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (W)         8.2  5  0  0  1 11
+Jansen K (S)          0.1  0  0  0  0  1
+
+LOB -- Washington 6, Los Angeles 3
+HBP -- by Haren D (Kershaw C)
+WP -- Haren D
+Balk -- Kershaw C, Haren D
+T -- 2:21
+A -- 51729
+     Game of 5/15/2013 -- Washington at Los Angeles (N)
+
+  Washington         AB  R  H RBI    Los Angeles        AB  R  H RBI
+Span D, cf            4  0  1  0   Gordon D, ss          4  0  0  0   
+Lombardozzi S, lf     4  0  1  0   Punto N, 2b-3b        4  0  1  0   
+Perez E, pr-lf        0  0  0  0   Kemp M, cf            4  2  2  0   
+Zimmerman R, 3b       4  0  1  0   Gonzalez A, 1b        3  0  2  1   
+LaRoche A, 1b         4  1  1  1   Ellis A, c            3  0  1  0   
+Desmond I, ss         3  0  0  0   Ethier A, rf          2  1  2  0   
+Ramos W, c            2  0  2  0   Van Slyke S, lf       2  0  0  0   
+Suzuki K, pr-c        2  0  1  0   Crawford C, ph-lf     0  0  0  1   
+Espinosa D, 2b        4  0  1  0   Uribe J, 3b           3  0  0  0   
+Bernadina R, rf       4  0  1  0   Rodriguez P, p        0  0  0  0   
+Detwiler R, p         0  0  0  0   Jansen K, p           0  0  0  0   
+Stammen C, p          1  0  0  0   Federowicz T, ph      1  0  0  0   
+Moore T, ph           1  0  0  0   League B, p           0  0  0  0   
+Clippard T, p         0  0  0  0   Greinke Z, p          2  0  1  1   
+Storen D, p           0  0  0  0   Howell J, p           0  0  0  0   
+Harper B, ph          1  0  0  0   Guerrier M, p         0  0  0  0   
+                                   Schumaker S, 2b       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  9  1                        29  3  9  3
+
+Washington       000 100 000 --  1
+Los Angeles      110 000 01x --  3
+
+  Washington           IP  H  R ER BB SO
+Detwiler R (L)        3.0  6  2  2  2  0
+Stammen C             3.0  2  0  0  0  3
+Clippard T            1.0  0  0  0  0  2
+Storen D              1.0  1  1  1  2  0
+
+  Los Angeles          IP  H  R ER BB SO
+Greinke Z (W)         5.1  5  1  1  0  4
+Howell J              0.1  0  0  0  1  1
+Guerrier M            0.1  1  0  0  0  0
+Rodriguez P           0.2  0  0  0  1  2
+Jansen K              1.1  2  0  0  0  1
+League B (S)          1.0  1  0  0  0  0
+
+DP -- Washington 2
+LOB -- Washington 9, Los Angeles 8
+2B -- Kemp M, Ramos W
+HR -- LaRoche A
+SB -- Zimmerman R, Kemp M
+CS -- Span D
+SH -- Detwiler R, Ellis A
+SF -- Crawford C
+T -- 3:12
+A -- 36721
+     Game of 5/24/2013 -- St. Louis at Los Angeles (N)
+
+  St. Louis          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Carpenter M, 2b       5  1  1  0   Crawford C, lf        4  0  1  0   
+Beltran C, rf         2  2  0  0   Ellis M, 2b           3  0  0  0   
+Choate R, p           0  0  0  0   Howell J, p           0  0  0  0   
+Cruz T, ph-c          1  0  0  0   Rodriguez P, p        0  0  0  0   
+Holliday M, lf        4  0  0  0   Van Slyke S, ph       1  0  0  0   
+Boggs M, p            0  0  0  0   Gonzalez A, 1b        3  0  0  0   
+Craig A, 1b-lf        4  1  2  3   Kemp M, cf            3  0  0  0   
+Molina Y, c           2  0  0  1   Ethier A, rf          3  0  0  0   
+Maness S, p           0  0  0  0   Ellis A, c            3  0  0  0   
+Wigginton T, ph-1b    1  0  0  0   Punto N, ss           2  0  0  0   
+Jay J, cf             4  2  1  0   Guerrier M, p         0  0  0  0   
+Freese D, 3b          3  1  2  3   Schumaker S, 2b       1  0  1  0   
+Kozma P, ss           3  0  0  0   Uribe J, 3b           2  0  1  0   
+Lynn L, p             3  0  0  0   Capuano C, p          1  0  0  0   
+Robinson S, rf        1  0  0  0   Gordon D, ss          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  7  6  7                        28  0  3  0
+
+St. Louis        012 012 100 --  7
+Los Angeles      000 000 000 --  0
+
+  St. Louis            IP  H  R ER BB SO
+Lynn L (W)            6.0  2  0  0  1  9
+Choate R              1.0  0  0  0  0  1
+Maness S              1.0  1  0  0  0  0
+Boggs M               1.0  0  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Capuano C (L)*        5.0  6  6  5  3  4
+Guerrier M            1.1  0  1  1  2  1
+Howell J              1.2  0  0  0  1  2
+Rodriguez P           1.0  0  0  0  0  0
+  * Pitched to 2 batters in 6th
+
+E -- Gonzalez A, Punto N
+DP -- St. Louis 1
+LOB -- St. Louis 7, Los Angeles 2
+2B -- Freese D, Craig A, Uribe J
+HR -- Craig A, Freese D
+CS -- Crawford C
+SF -- Molina Y
+HBP -- by Guerrier M (Craig A)
+T -- 2:58
+A -- 45134
+     Game of 5/25/2013 -- St. Louis at Los Angeles (D)
+
+  St. Louis          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Carpenter M, 2b       5  1  1  0   Punto N, 3b           4  2  3  0   
+Beltran C, rf         4  0  0  0   Ellis M, 2b           4  1  1  1   
+Choate R, p           0  0  0  0   Gonzalez A, 1b        3  1  3  3   
+Boggs M, p            0  0  0  0   Kemp M, cf            3  0  0  0   
+Wigginton T, ph       1  0  0  0   Jansen K, p           0  0  0  0   
+Holliday M, lf        3  0  0  0   Uribe J, ph           1  0  1  1   
+Craig A, 1b           4  1  0  0   League B, p           0  0  0  0   
+Molina Y, c           4  1  3  1   Ethier A, rf          4  0  0  0   
+Freese D, 3b          3  0  1  1   Van Slyke S, lf       2  0  0  0   
+Jay J, cf             3  0  1  0   Belisario R, p        0  0  0  0   
+Kozma P, ss           4  0  1  1   Rodriguez P, p        0  0  0  0   
+Gast J, p             1  0  0  0   Schumaker S, cf       2  0  1  0   
+Kelly J, p            1  0  0  0   Ellis A, c            3  0  0  0   
+Martinez C, p         0  0  0  0   Gordon D, ss          4  0  1  0   
+Adams M, ph           1  0  0  0   Lilly T, p            2  0  0  0   
+Maness S, p           0  0  0  0   Crawford C, lf        2  1  0  0   
+Robinson S, rf        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  7  3                        34  5 10  5
+
+St. Louis        100 002 000 --  3
+Los Angeles      101 011 01x --  5
+
+  St. Louis            IP  H  R ER BB SO
+Gast J*               1.0  1  1  1  2  0
+Kelly J+              3.0  5  2  2  1  6
+Martinez C            1.0  0  0  0  0  2
+Maness S (L)          1.0  1  1  0  1  2
+Choate R              1.0  1  0  0  1  0
+Boggs M               1.0  2  1  1  2  0
+
+  Los Angeles          IP  H  R ER BB SO
+Lilly T               5.1  2  2  1  1  3
+Belisario R           0.1  3  1  1  1  0
+Rodriguez P (W)       1.0  0  0  0  0  0
+Jansen K              1.1  2  0  0  0  4
+League B (S)          1.0  0  0  0  0  1
+  * Pitched to 1 batter in 2nd
+  + Pitched to 2 batters in 5th
+
+E -- Punto N, Carpenter M
+DP -- St. Louis 1
+LOB -- St. Louis 8, Los Angeles 13
+2B -- Molina Y, Gonzalez A, Punto N, Freese D, Ellis M, Uribe J
+HR -- Gonzalez A
+HBP -- by Lilly T (Freese D), by Kelly J (Ellis M)
+T -- 3:30
+A -- 49368
+     Game of 5/26/2013 -- St. Louis at Los Angeles (D)
+
+  St. Louis          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Carpenter M, 1b-3b    4  0  2  1   Crawford C, lf        4  1  3  0   
+Jay J, cf             4  0  0  0   Ellis M, 2b           4  0  0  0   
+Rosenthal T, p        0  0  0  0   Gonzalez A, 1b        4  1  2  3   
+Adams M, ph           1  0  1  1   Ethier A, rf          3  0  1  0   
+Mujica E, p           0  0  0  0   Ellis A, c            3  0  0  0   
+Holliday M, lf        4  0  0  0   Schumaker S, cf       4  0  1  0   
+Craig A, rf           5  0  0  0   Uribe J, 3b           3  0  1  0   
+Molina Y, c           3  1  1  0   Punto N, ph-3b        1  0  0  0   
+Freese D, 3b          3  1  1  0   Gordon D, ss          3  0  1  0   
+Maness S, p           0  0  0  0   Kershaw C, p          3  1  1  0   
+Robinson S, cf        1  0  1  0   Belisario R, p        0  0  0  0   
+Descalso D, 2b        3  1  0  0   Kemp M, ph            1  0  0  0   
+Kozma P, ss           4  2  4  3   Guerrier M, p         0  0  0  0   
+Miller S, p           2  0  0  0   Rodriguez P, p        0  0  0  0   
+Wigginton T, 1b       2  0  0  0   Guerra J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 10  5                        33  3 10  3
+
+St. Louis        030 000 101 --  5
+Los Angeles      200 010 000 --  3
+
+  St. Louis            IP  H  R ER BB SO
+Miller S              5.1  7  3  3  1  3
+Maness S (W)          1.0  2  0  0  2  0
+Rosenthal T           1.2  1  0  0  0  2
+Mujica E (S)          1.0  0  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (L)         7.0  7  4  4  3  5
+Belisario R           1.0  1  0  0  0  0
+Guerrier M            0.1  1  1  1  1  0
+Rodriguez P*          0.0  1  0  0  0  0
+Guerra J              0.2  0  0  0  0  2
+  * Pitched to 1 batter in 9th
+
+DP -- St. Louis 2, Los Angeles 1
+LOB -- St. Louis 8, Los Angeles 9
+2B -- Freese D, Kozma P 3, Molina Y, Crawford C 2, Uribe J
+HR -- Gonzalez A
+CS -- Ethier A
+SH -- Ellis M
+HBP -- by Miller S (Ellis A), by Rosenthal T (Ethier A)
+T -- 3:15
+A -- 43244
+     Game of 5/27/2013 -- Anaheim at Los Angeles (N)
+
+  Anaheim            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Aybar E, ss           5  1  2  1   Punto N, ss           3  1  0  0   
+Trout M, cf           5  2  2  1   Ellis A, c            0  0  0  1   
+Pujols A, 1b          4  2  3  1   Ellis M, 2b           5  1  1  2   
+Nelson C, pr          0  0  0  0   Kemp M, cf            5  0  0  0   
+Trumbo M, lf          5  0  1  0   Gonzalez A, 1b        4  4  4  1   
+Hamilton J, rf        5  1  1  0   Van Slyke S, rf-lf    4  0  2  2   
+Kendrick H, 2b        4  0  3  2   Hernandez R, c        2  0  0  1   
+Callaspo A, 3b        2  0  1  0   Guerra J, p           0  0  0  0   
+Conger H, c           4  1  1  0   Belisario R, p        0  0  0  0   
+Coello R, p           0  0  0  0   Ethier A, ph-rf       0  0  0  0   
+Wilson C, p           1  0  0  0   Hairston J, lf        4  0  1  1   
+Kohn M, p             0  0  0  0   Jansen K, p           0  0  0  0   
+DeLaRosa D, p         0  0  0  0   League B, p           0  0  0  0   
+Iannetta C, c         1  0  0  0   Cruz L, 3b-ss         3  2  1  0   
+                                   Greinke Z, p          1  0  1  0   
+                                   Guerrier M, p         0  0  0  0   
+                                   Uribe J, ph-3b        3  0  3  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 14  5                        34  8 13  8
+
+Anaheim          201 300 100 --  7
+Los Angeles      010 141 10x --  8
+
+  Anaheim              IP  H  R ER BB SO
+Wilson C              4.2  9  6  6  0  4
+Kohn M                0.2  1  1  1  1  1
+DeLaRosa D            0.2  0  0  0  0  0
+Coello R (L)          2.0  3  1  1  1  4
+
+  Los Angeles          IP  H  R ER BB SO
+Greinke Z*            4.0 10  6  4  1  2
+Guerrier M            1.0  0  0  0  0  1
+Guerra J              1.1  2  1  1  1  2
+Belisario R (W)       0.2  0  0  0  0  0
+Jansen K              1.0  1  0  0  0  0
+League B (S)          1.0  1  0  0  0  0
+  * Pitched to 2 batters in 5th
+
+E -- Hernandez R, Gonzalez A, Cruz L
+DP -- Los Angeles 4
+LOB -- Anaheim 7, Los Angeles 7
+2B -- Pujols A 2, Gonzalez A 2, Van Slyke S 2, Kendrick H, Aybar E, Ellis M, Uribe J, Hamilton J
+3B -- Trout M
+SH -- Wilson C 2, Ellis A
+SF -- Pujols A, Hernandez R, Ellis A
+WP -- Greinke Z, Wilson C
+PB -- Hernandez R
+T -- 3:37
+A -- 49953
+     Game of 5/28/2013 -- Anaheim at Los Angeles (N)
+
+  Anaheim            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Aybar E, ss           4  0  0  0   Crawford C, lf        4  0  0  0   
+Trout M, cf           4  0  0  0   Ellis M, 2b           3  0  1  0   
+Pujols A, 1b          3  0  0  0   Gonzalez A, 1b        4  0  0  0   
+Trumbo M, rf          3  0  0  0   Ethier A, rf          4  0  1  0   
+Kendrick H, 2b        3  0  1  0   Kemp M, cf            2  1  1  0   
+Callaspo A, 3b        3  0  0  0   Schumaker S, cf       0  0  0  0   
+Iannetta C, c         3  0  1  0   Ellis A, c            3  0  1  1   
+Shuck J, lf           3  0  0  0   Uribe J, 3b           3  1  1  0   
+Blanton J, p          2  0  0  0   Cruz L, ss            3  1  1  2   
+DeLaRosa D, p         0  0  0  0   Ryu H, p              3  0  1  0   
+Harris B, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  0  2  0                        29  3  7  3
+
+Anaheim          000 000 000 --  0
+Los Angeles      000 021 00x --  3
+
+  Anaheim              IP  H  R ER BB SO
+Blanton J (L)         7.0  7  3  3  0  5
+DeLaRosa D            1.0  0  0  0  1  0
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H (W)             9.0  2  0  0  0  7
+
+DP -- Anaheim 1
+LOB -- Anaheim 2, Los Angeles 4
+2B -- Ryu H, Ethier A, Kemp M, Iannetta C
+HR -- Cruz L
+HBP -- by Blanton J (Kemp M)
+T -- 2:11
+A -- 46443
+     Game of 6/3/2013 -- San Diego at Los Angeles (N)
+
+  San Diego          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Cabrera E, ss         3  0  2  0   Puig Y, rf            4  0  2  0   
+Amarista A, cf        4  1  2  0   Punto N, 2b           4  0  1  0   
+Headley C, 3b         4  0  1  1   Gonzalez A, 1b        3  1  1  1   
+Gyorko J, 2b          4  0  2  0   Hernandez R, c        3  0  0  0   
+Denorfia C, lf-rf     2  0  0  0   Van Slyke S, lf       3  1  2  1   
+Blanks K, 1b-lf       4  0  1  0   Ethier A, cf          3  0  0  0   
+Venable W, rf         2  0  0  0   Hairston J, 3b        2  0  0  0   
+Guzman J, ph-1b       1  0  0  0   Moylan P, p           0  0  0  0   
+Hundley N, c          3  0  0  0   Rodriguez P, p        0  0  0  0   
+Stults E, p           2  0  0  0   Ellis M, ph           1  0  0  0   
+Kotsay M, ph          1  0  0  0   Jansen K, p           0  0  0  0   
+Stauffer T, p         0  0  0  0   League B, p           0  0  0  0   
+                                   Cruz L, ss            3  0  1  0   
+                                   Fife S, p             1  0  0  0   
+                                   Uribe J, 3b           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  8  1                        28  2  7  2
+
+San Diego        000 001 000 --  1
+Los Angeles      110 000 00x --  2
+
+  San Diego            IP  H  R ER BB SO
+Stults E (L)          7.0  6  2  2  0  3
+Stauffer T            1.0  1  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Fife S (W)            5.1  5  1  1  2  5
+Moylan P*             0.2  2  0  0  0  0
+Rodriguez P           1.0  0  0  0  0  0
+Jansen K              1.0  1  0  0  0  2
+League B (S)          1.0  0  0  0  1  0
+  * Pitched to 1 batter in 7th
+
+DP -- San Diego 2, Los Angeles 4
+LOB -- San Diego 5, Los Angeles 3
+2B -- Amarista A
+HR -- Gonzalez A, Van Slyke S
+SB -- Cabrera E 2
+SH -- Uribe J
+T -- 2:25
+A -- 37055
+     Game of 6/4/2013 -- San Diego at Los Angeles (N)
+
+  San Diego          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Denorfia C, cf-rf     5  1  2  2   Puig Y, rf            4  2  3  5   
+Cabrera E, ss         5  0  2  0   Ellis M, 2b           3  1  0  0   
+Headley C, 3b         5  0  0  0   Gonzalez A, 1b        4  0  2  0   
+Quentin C, lf         5  1  3  1   Ramirez H, ss         3  0  0  1   
+Gyorko J, 2b          4  0  0  0   Van Slyke S, lf       3  0  0  0   
+Grandal Y, c          3  1  0  0   Belisario R, p        0  0  0  0   
+Blanks K, rf          3  3  2  2   Howell J, p           0  0  0  0   
+Layne T, p            0  0  0  0   Punto N, ph           1  0  0  0   
+Guzman J, 1b          4  1  2  0   Jansen K, p           0  0  0  0   
+Richard C, p          2  0  1  1   League B, p           0  0  0  0   
+Ross T, p             1  0  0  0   Uribe J, 3b           2  1  1  0   
+Amarista A, cf        1  0  1  0   Guerrier M, p         0  0  0  0   
+                                   Ethier A, cf          2  0  0  0   
+                                   Schumaker S, cf-lf    3  1  1  0   
+                                   Federowicz T, c       4  2  2  2   
+                                   Lilly T, p            1  0  0  0   
+                                   Cruz L, 3b            2  2  1  1   
+                     -- -- -- --                        -- -- -- --
+                     38  7 13  6                        32  9 10  9
+
+San Diego        120 201 100 --  7
+Los Angeles      020 043 00x --  9
+
+  San Diego            IP  H  R ER BB SO
+Richard C             4.1  5  6  6  2  2
+Ross T (L)            2.1  4  3  3  1  4
+Layne T               1.1  1  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Lilly T*              4.0  6  5  4  2  3
+Guerrier M            1.0  1  0  0  0  1
+Belisario R           0.1  3  1  1  0  1
+Howell J (W)          1.2  2  1  1  0  1
+Jansen K              1.0  1  0  0  0  1
+League B (S)          1.0  0  0  0  0  2
+  * Pitched to 1 batter in 5th
+
+E -- Puig Y, Ross T
+DP -- San Diego 1, Los Angeles 2
+LOB -- San Diego 6, Los Angeles 3
+2B -- Puig Y, Gonzalez A, Guzman J, Cruz L
+HR -- Denorfia C, Blanks K, Federowicz T, Puig Y 2, Quentin C
+SB -- Cabrera E
+SF -- Ramirez H
+T -- 2:50
+A -- 37544
+     Game of 6/5/2013 -- San Diego at Los Angeles (N)
+
+  San Diego          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Denorfia C, cf-rf-lf  4  0  0  0   Puig Y, rf            4  0  0  0   
+Cabrera E, ss         5  1  3  0   Schumaker S, 2b       4  1  1  0   
+Headley C, 3b         3  1  1  0   Gonzalez A, 1b        4  0  1  1   
+Quentin C, lf         4  1  1  0   Ramirez H, ss         4  0  1  0   
+Gregerson L, p        0  0  0  0   Ethier A, cf          3  0  0  0   
+Gyorko J, 2b          3  2  1  2   Van Slyke S, lf       3  1  1  1   
+Blanks K, rf-1b       5  0  1  0   Uribe J, 3b           3  0  0  0   
+Guzman J, 1b          4  1  3  1   Belisario R, p        0  0  0  0   
+Venable W, pr-cf-rf   1  0  1  1   Rodriguez P, p        0  0  0  0   
+Grandal Y, c          3  0  1  2   Howell J, p           0  0  0  0   
+Marquis J, p          3  0  0  0   Ellis M, ph           1  0  0  0   
+Stauffer T, p         0  0  0  0   Federowicz T, c       3  0  1  0   
+Kotsay M, ph          1  0  0  0   Kershaw C, p          1  0  0  0   
+Thayer D, p           0  0  0  0   Hairston J, ph        1  0  0  0   
+Amarista A, ph-cf     1  0  0  0   Moylan P, p           0  0  0  0   
+                                   Punto N, ph-3b        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 12  6                        32  2  5  2
+
+San Diego        010 101 003 --  6
+Los Angeles      000 001 100 --  2
+
+  San Diego            IP  H  R ER BB SO
+Marquis J (W)         6.1  3  2  2  2  6
+Stauffer T            0.2  1  0  0  0  2
+Thayer D              1.0  0  0  0  0  1
+Gregerson L           1.0  1  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (L)         6.0  7  3  2  3  9
+Moylan P              1.0  1  0  0  0  1
+Belisario R           0.1  1  0  0  0  0
+Rodriguez P*          0.2  1  3  3  3  1
+Howell J              1.0  2  0  0  0  0
+  * Pitched to 3 batters in 9th
+
+E -- Ramirez H
+DP -- Los Angeles 1
+LOB -- San Diego 12, Los Angeles 5
+2B -- Guzman J, Schumaker S, Ramirez H
+HR -- Gyorko J, Van Slyke S
+SB -- Venable W, Cabrera E
+SF -- Gyorko J, Grandal Y
+T -- 3:37
+A -- 40040
+     Game of 6/6/2013 -- Atlanta at Los Angeles (N)
+
+  Atlanta            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Simmons A, ss         4  0  0  0   Puig Y, rf            4  1  2  4   
+Heyward J, rf         4  0  2  0   Punto N, ss           4  0  0  0   
+Upton J, lf           3  0  0  0   Gonzalez A, 1b        4  0  1  0   
+Freeman F, 1b         4  0  1  0   Van Slyke S, lf       3  1  1  0   
+McCann B, c           4  0  1  0   Ethier A, cf          3  0  1  0   
+Uggla D, 2b           4  0  1  0   Federowicz T, c       3  0  0  0   
+Pena R, 3b            4  0  1  0   Schumaker S, 2b       3  1  1  1   
+Upton B, cf           1  0  0  0   Cruz L, 3b            3  1  1  0   
+Hudson T, p           2  0  0  0   Greinke Z, p          2  0  0  0   
+Schafer J, ph         1  0  1  0   Jansen K, p           0  0  0  0   
+Gearrin C, p          0  0  0  0   Ramirez H, ph         0  1  0  0   
+Wood A, p             0  0  0  0   Guerrier M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  7  0                        29  5  7  5
+
+Atlanta          000 000 000 --  0
+Los Angeles      010 000 04x --  5
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (L)          7.0  4  1  1  0  5
+Gearrin C             0.1  3  4  4  1  1
+Wood A                0.2  0  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Greinke Z (W)         7.0  4  0  0  3  7
+Jansen K              1.0  2  0  0  0  1
+Guerrier M            1.0  1  0  0  0  2
+
+DP -- Atlanta 2, Los Angeles 2
+LOB -- Atlanta 7, Los Angeles 1
+2B -- Pena R, Ethier A
+HR -- Puig Y
+CS -- Upton J
+T -- 2:36
+A -- 44196
+     Game of 6/7/2013 -- Atlanta at Los Angeles (N)
+
+  Atlanta            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Simmons A, ss         5  0  1  0   Puig Y, rf            3  1  1  1   
+Heyward J, rf         5  0  1  0   Ellis M, 2b           4  0  0  0   
+Upton J, lf           5  0  1  0   Gonzalez A, 1b        4  0  0  0   
+Freeman F, 1b         4  1  3  0   Van Slyke S, lf       3  0  0  0   
+Gattis E, c           4  0  0  0   Hairston J, 3b        2  0  1  0   
+Johnson C, 3b         3  0  0  0   Jansen K, p           0  0  0  0   
+Pena R, 3b            1  0  0  0   Ramirez H, ph         1  0  0  0   
+Uggla D, 2b           3  0  1  1   League B, p           0  0  0  0   
+Upton B, cf           4  0  1  0   Ethier A, cf          4  0  1  0   
+Maholm P, p           3  0  0  0   Hernandez R, c        4  0  2  0   
+Walden J, p           0  0  0  0   Schumaker S, pr       0  1  0  0   
+Avilan L, p           0  0  0  0   Cruz L, ss            3  0  1  0   
+McCann B, ph          1  0  0  0   Ryu H, p              2  0  0  0   
+Varvaro A, p          0  0  0  0   Rodriguez P, p        0  0  0  0   
+                                   Uribe J, 3b           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  1  8  1                        31  2  6  1
+
+Atlanta          000 100 000 0 --  1
+Los Angeles      000 001 000 1 --  2
+  1 out when winning run was scored.
+
+  Atlanta              IP  H  R ER BB SO
+Maholm P              7.1  4  1  1  2  3
+Walden J              0.2  0  0  0  1  0
+Avilan L              1.0  0  0  0  0  1
+Varvaro A (L)         0.1  2  1  1  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H                 7.2  6  1  1  1  6
+Rodriguez P*          0.0  1  0  0  0  0
+Jansen K              1.1  0  0  0  0  2
+League B (W)          1.0  1  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Johnson C
+DP -- Atlanta 3
+LOB -- Atlanta 8, Los Angeles 5
+2B -- Freeman F, Heyward J
+HR -- Puig Y
+SH -- Cruz L
+WP -- Varvaro A 2
+PB -- Gattis E
+T -- 3:01
+A -- 47164
+     Game of 6/8/2013 -- Atlanta at Los Angeles (N)
+
+  Atlanta            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Simmons A, ss         5  0  3  0   Puig Y, rf            4  0  2  0   
+Heyward J, rf         3  0  1  0   Punto N, ss           4  1  1  0   
+Upton J, lf           2  0  0  0   Gonzalez A, 1b        3  0  0  0   
+Freeman F, 1b         4  0  1  0   Ethier A, cf          3  0  0  0   
+McCann B, c           4  0  0  0   Ramirez H, ph         1  0  1  1   
+Johnson C, 3b         4  0  1  0   Kershaw C, pr         0  0  0  0   
+Pena R, 3b            0  0  0  0   Moylan P, p           0  0  0  0   
+Uggla D, 2b           4  1  1  1   Van Slyke S, lf       3  0  0  0   
+Upton B, cf           3  0  1  0   Howell J, p           0  0  0  0   
+Medlen K, p           2  1  1  1   Guerrier M, p         0  0  0  0   
+Varvaro A, p          0  0  0  0   Hairston J, ph-lf     1  0  0  0   
+Avilan L, p           0  0  0  0   Schumaker , 2b-lf-cf  4  0  3  0   
+Walden J, p           0  0  0  0   Federowicz T, c       4  0  1  0   
+Schafer J, ph         1  0  0  0   Cruz L, 3b            3  0  0  0   
+Kimbrel C, p          0  0  0  0   Hernandez R, ph       1  0  0  0   
+                                   Fife S, p             2  0  0  0   
+                                   Ellis M, 2b           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  9  2                        35  1  8  1
+
+Atlanta          000 020 000 --  2
+Los Angeles      000 000 010 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Medlen K (W)          6.2  5  0  0  1  6
+Varvaro A             0.1  0  0  0  0  0
+Avilan L              0.2  1  1  0  0  0
+Walden J              0.1  1  0  0  0  0
+Kimbrel C (S)         1.0  1  0  0  0  2
+
+  Los Angeles          IP  H  R ER BB SO
+Fife S (L)            6.2  9  2  2  1  7
+Howell J              1.0  0  0  0  1  1
+Guerrier M            0.1  0  0  0  0  1
+Moylan P              1.0  0  0  0  1  1
+
+E -- Simmons A
+LOB -- Atlanta 8, Los Angeles 8
+2B -- Simmons A, Johnson C, Punto N
+HR -- Uggla D, Medlen K
+CS -- Simmons A
+SH -- Upton J, Medlen K
+WP -- Kimbrel C
+T -- 3:06
+A -- 52716
+     Game of 6/9/2013 -- Atlanta at Los Angeles (D)
+
+  Atlanta            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Simmons A, ss         5  0  1  0   Puig Y, rf-cf         5  0  3  0   
+Heyward J, rf         3  2  2  0   Punto N, ss-2b        4  1  1  0   
+Upton J, lf           3  2  0  0   Gonzalez A, 1b        2  0  1  0   
+Freeman F, 1b         5  1  2  3   Rodriguez P, p        0  0  0  0   
+Gattis E, c           3  0  0  1   Moylan P, p           0  0  0  0   
+Wood A, p             0  0  0  0   Hairston J, ph        1  0  0  0   
+Johnson R, ph         1  0  0  0   Van Slyke S, lf       4  0  0  0   
+Carpenter D, p        0  0  0  0   Cruz L, 3b-ss         4  0  1  0   
+Uggla D, 2b           2  2  2  4   Schumaker S, cf-rf    3  0  1  1   
+Pena R, 3b            3  0  0  0   Federowicz T, c       4  0  0  0   
+Johnson C, 3b         1  0  0  0   Ellis M, 2b           3  0  1  0   
+Schafer J, cf         4  0  0  0   Guerrier M, p         0  0  0  0   
+Minor M, p            2  1  0  0   Hernandez R, 1b       1  0  0  0   
+Laird G, c            1  0  0  0   Magill M, p           1  0  0  0   
+                                   Belisario R, p        1  0  0  0   
+                                   Uribe J, ph-3b        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  8  7  8                        35  1  8  1
+
+Atlanta          004 310 000 --  8
+Los Angeles      100 000 000 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Minor M (W)           6.0  6  1  1  3  6
+Wood A                2.0  1  0  0  0  3
+Carpenter D           1.0  1  0  0  1  1
+
+  Los Angeles          IP  H  R ER BB SO
+Magill M (L)          3.2  4  7  3  6  2
+Belisario R           2.1  2  1  1  0  2
+Guerrier M            1.0  0  0  0  1  1
+Rodriguez P           1.0  0  0  0  0  1
+Moylan P              1.0  1  0  0  0  1
+
+E -- Gonzalez A
+DP -- Los Angeles 1
+LOB -- Atlanta 6, Los Angeles 11
+2B -- Freeman F, Cruz L, Puig Y
+HR -- Uggla D 2
+SF -- Gattis E
+WP -- Minor M
+T -- 3:08
+A -- 39028
+     Game of 6/10/2013 -- Arizona at Los Angeles (N)
+
+  Arizona            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Pollock A, cf         5  0  0  0   Punto N, ss           5  0  0  0   
+Bloomquist W, 2b      5  0  2  2   Ellis M, 2b           4  2  3  1   
+Goldschmidt P, 1b     5  0  1  1   Gonzalez A, 1b        5  0  1  0   
+Ross C, lf            5  1  3  0   Puig Y, rf            4  0  3  0   
+Montero M, c          4  0  1  1   Hairston J, lf        4  1  3  1   
+Prado M, 3b           4  1  1  0   League B, p           0  0  0  0   
+Parra G, rf           3  1  2  0   Moylan P, p           0  0  0  0   
+Pennington C, ss      3  0  0  0   Ethier A, cf          4  0  1  0   
+Kubel J, ph           1  0  1  1   Uribe J, 3b           4  1  2  2   
+Wilson J, pr          0  1  0  0   Federowicz T, c       3  0  1  0   
+Bell H, p             0  0  0  0   Van Slyke S, pr       0  0  0  0   
+Miley W, p            2  0  0  0   Kershaw C, p          2  0  0  0   
+Nieves W, ph          0  0  0  0   Sellers J, ph         1  0  0  0   
+Brewer C, p           0  0  0  0   Jansen K, p           0  0  0  0   
+Sipp T, p             0  0  0  0   Schumaker S, lf       0  0  0  0   
+Gregorius D, ph-ss    0  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  5 11  5                        36  4 14  4
+
+Arizona          010 000 004 --  5
+Los Angeles      100 110 001 --  4
+
+  Arizona              IP  H  R ER BB SO
+Miley W               6.0  9  3  3  2  4
+Brewer C              1.2  3  0  0  0  1
+Sipp T (W)            0.1  0  0  0  0  0
+Bell H (S)            1.0  2  1  1  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C             7.0  6  1  1  2  5
+Jansen K              1.0  0  0  0  0  1
+League B (L)          0.2  4  4  4  1  1
+Moylan P              0.1  1  0  0  0  0
+
+E -- Prado M
+DP -- Arizona 4, Los Angeles 1
+LOB -- Arizona 8, Los Angeles 8
+2B -- Ross C, Uribe J, Parra G 2, Federowicz T
+HR -- Ellis M, Uribe J
+SH -- Schumaker S
+WP -- Kershaw C
+T -- 3:05
+A -- 38275
+     Game of 6/11/2013 -- Arizona at Los Angeles (N)
+
+  Arizona            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Parra G, cf           3  0  1  0   Schumaker S, lf       4  0  0  0   
+Bloomquist W, 2b      4  0  1  1   Punto N, 2b-ss        4  0  0  0   
+Goldschmidt P, 1b     4  0  0  0   Gonzalez A, 1b        3  1  1  0   
+Montero M, c          3  0  0  0   Puig Y, rf            2  1  0  0   
+Ross C, rf            3  1  0  0   Castellanos A, rf     1  0  0  0   
+Kubel J, lf           3  1  1  2   Ethier A, cf          3  2  2  2   
+Prado M, 3b           4  0  0  0   Uribe J, 3b           3  1  0  0   
+Gregorius D, ss       2  0  0  0   Federowicz T, c       4  0  2  3   
+Kennedy I, p          2  0  0  0   Cruz L, ss            3  0  0  0   
+Ziegler B, p          0  0  0  0   Jansen K, p           0  0  0  0   
+Pollock A, ph         1  1  1  0   Greinke Z, p          2  0  0  0   
+Hernandez D, p        0  0  0  0   Howell J, p           0  0  0  0   
+Paterson J, p         0  0  0  0   Guerrier M, p         0  0  0  0   
+                                   Ellis M, ph-2b        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  3  4  3                        29  5  5  5
+
+Arizona          000 020 010 --  3
+Los Angeles      000 002 03x --  5
+
+  Arizona              IP  H  R ER BB SO
+Kennedy I             6.1  4  2  2  2  6
+Ziegler B             0.2  0  0  0  0  0
+Hernandez D (L)       0.2  1  3  3  3  0
+Paterson J            0.1  0  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Greinke Z             7.0  2  2  2  2  5
+Howell J              0.1  1  1  1  1  0
+Guerrier M (W)        0.2  1  0  0  0  1
+Jansen K (S)          1.0  0  0  0  0  2
+
+DP -- Los Angeles 2
+LOB -- Arizona 4, Los Angeles 8
+2B -- Pollock A, Federowicz T
+HR -- Kubel J, Ethier A
+HBP -- by Greinke Z (Ross C), by Kennedy I (Puig Y), by Greinke Z (Montero M), by Kennedy I (Greinke Z), by Paterson J (Ellis M)
+T -- 3:05
+A -- 42844
+     Game of 6/12/2013 -- Arizona at Los Angeles (N)
+
+  Arizona            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Pollock A, cf         6  0  0  0   Punto N, ss           6  1  1  1   
+Parra G, rf           6  0  3  2   Ellis M, 2b           6  0  2  1   
+Goldschmidt P, 1b     6  1  2  0   Gonzalez A, 1b        5  0  1  1   
+Ross C, lf            7  2  4  0   Cruz L, pr            0  0  0  0   
+Montero M, c          6  2  4  1   Hairston J, lf        5  0  0  0   
+Prado M, 3b           4  1  2  2   League B, p           0  0  0  0   
+Gregorius D, ss       5  1  2  1   Federowicz T, ph      1  0  0  0   
+Pennington C, 2b      5  1  2  1   Uribe J, 3b           5  1  2  0   
+Corbin P, p           2  0  1  0   Ethier A, cf          5  0  1  0   
+Bloomquist W, ph      1  0  0  0   Hernandez R, c        4  1  1  2   
+Harris W, p           0  0  0  0   Castellanos A, rf     3  1  2  0   
+Sipp T, p             0  0  0  0   Withrow C, p          0  0  0  0   
+Ziegler B, p          0  0  0  0   Rodriguez P, p        0  0  0  0   
+Kubel J, ph           1  0  0  0   Jansen K, p           0  0  0  0   
+Hernandez D, p        0  0  0  0   Ramirez H, ph         1  0  0  0   
+Collmenter J, p       1  0  0  0   Howell J, p           0  0  0  0   
+Hinske E, ph          1  0  0  0   Belisario R, p        0  0  0  0   
+Bell H, p             0  0  0  0   Puig Y, rf            1  1  1  0   
+                                   Ryu H, p              1  1  1  1   
+                                   Schumaker S, rf-lf    2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     51  8 20  7                        45  6 12  6
+
+Arizona          000 300 100 004 --  8
+Los Angeles      000 040 000 002 --  6
+
+  Arizona              IP  H  R ER BB SO
+Corbin P              5.0  8  4  4  0  2
+Harris W              1.0  0  0  0  1  2
+Sipp T                0.1  0  0  0  0  0
+Ziegler B             0.2  0  0  0  0  0
+Hernandez D           2.0  1  0  0  0  1
+Collmenter J (W)      2.0  1  0  0  0  2
+Bell H                1.0  2  2  2  2  0
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H                 6.0 11  3  3  2  2
+Withrow C             0.2  3  1  1  1  1
+Rodriguez P           1.1  0  0  0  1  2
+Jansen K              1.0  0  0  0  0  2
+Howell J              1.1  1  0  0  0  1
+Belisario R (L)*      0.2  3  4  4  2  0
+League B              1.0  2  0  0  1  0
+  * Pitched to 4 batters in 12th
+
+DP -- Arizona 1, Los Angeles 4
+LOB -- Arizona 14, Los Angeles 7
+2B -- Uribe J, Castellanos A, Pennington C, Ross C, Prado M
+3B -- Ryu H
+HR -- Hernandez R
+SB -- Hernandez R
+CS -- Punto N
+SH -- Ryu H
+PB -- Montero M
+T -- 4:21
+A -- 41927
+     Game of 6/24/2013 -- San Francisco at Los Angeles (N)
+
+  San Francisco      AB  R  H RBI    Los Angeles        AB  R  H RBI
+Blanco G, cf          5  0  1  0   Ellis M, 2b           3  1  0  0   
+Scutaro M, 2b         5  0  1  0   Puig Y, rf            4  1  3  2   
+Posey B, c            3  0  1  0   Gonzalez A, 1b        4  0  0  0   
+Pence H, rf           3  0  2  0   Ramirez H, ss         4  0  1  1   
+Sandoval P, 3b        4  0  2  0   Hairston J, lf        4  0  0  0   
+Arias J, ss           1  1  0  0   Jansen K, p           0  0  0  0   
+Crawford B, ss        3  0  0  0   Ethier A, cf          3  0  0  0   
+Torres A, lf          4  0  1  1   Uribe J, 3b           3  0  1  0   
+Belt B, 1b            2  0  0  0   Rodriguez P, p        0  0  0  0   
+Bumgarner M, p        3  0  0  0   Schumaker S, lf       0  0  0  0   
+Kontos G, p           0  0  0  0   Ellis A, c            2  0  0  0   
+Lopez J, p            0  0  0  0   Ryu H, p              2  0  0  0   
+Rosario S, p          0  0  0  0   Belisario R, p        0  0  0  0   
+Abreu T, ph           1  0  0  0   Punto N, 3b           1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  8  1                        30  3  6  3
+
+San Francisco    010 000 000 --  1
+Los Angeles      100 000 02x --  3
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (L)*      7.0  5  3  2  1  5
+Kontos G+             0.0  1  0  0  0  0
+Lopez J               0.1  0  0  0  0  0
+Rosario S             0.2  0  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H                 6.2  8  1  1  4  2
+Belisario R           0.2  0  0  0  0  2
+Rodriguez P (W)       0.2  0  0  0  0  1
+Jansen K (S)          1.0  0  0  0  0  3
+  * Pitched to 2 batters in 8th
+  + Pitched to 1 batter in 8th
+
+E -- Bumgarner M
+DP -- Los Angeles 2
+LOB -- San Francisco 10, Los Angeles 5
+2B -- Torres A, Posey B, Punto N
+HR -- Puig Y
+SH -- Ellis M
+WP -- Lopez J, Jansen K
+T -- 3:03
+A -- 40994
+     Game of 6/25/2013 -- San Francisco at Los Angeles (N)
+
+  San Francisco      AB  R  H RBI    Los Angeles        AB  R  H RBI
+Blanco G, cf          4  0  0  0   Ellis M, 2b           4  1  2  2   
+Scutaro M, 2b         5  0  0  0   Puig Y, lf            4  0  0  0   
+Posey B, c            3  1  1  1   Gonzalez A, 1b        4  1  1  0   
+Sandoval P, 3b        4  0  0  0   Ramirez H, ss         4  1  2  2   
+Pence H, rf           4  2  2  0   Kemp M, cf            4  1  1  0   
+Belt B, 1b            4  2  3  2   Ethier A, rf          4  1  2  0   
+Torres A, lf          4  0  1  2   Federowicz T, c       4  1  2  1   
+Crawford B, ss        4  0  2  0   Punto N, 3b           4  0  1  0   
+Kickham M, p          2  0  0  0   Fife S, p             3  0  0  0   
+Dunning J, p          0  0  0  0   Howell J, p           0  0  0  0   
+Abreu T, ph           1  0  1  0   Belisario R, p        0  0  0  0   
+Kontos G, p           0  0  0  0   League B, p           0  0  0  0   
+Mijares J, p          0  0  0  0   Rodriguez P, p        0  0  0  0   
+Perez J, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5 10  5                        35  6 11  5
+
+San Francisco    000 110 102 --  5
+Los Angeles      002 004 00x --  6
+
+  San Francisco        IP  H  R ER BB SO
+Kickham M (L)         5.1  8  6  5  0  5
+Dunning J             0.2  1  0  0  0  1
+Kontos G              1.1  2  0  0  0  0
+Mijares J             0.2  0  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Fife S (W)            6.2  4  3  3  2  3
+Howell J              0.1  2  0  0  0  0
+Belisario R           1.0  0  0  0  0  1
+League B*             0.0  3  2  2  0  0
+Rodriguez P (S)       1.0  1  0  0  0  1
+  * Pitched to 3 batters in 9th
+
+E -- Dunning J, Sandoval P
+DP -- San Francisco 1
+LOB -- San Francisco 6, Los Angeles 5
+2B -- Federowicz T, Ethier A, Gonzalez A, Belt B
+HR -- Ellis M, Posey B, Ramirez H, Belt B
+CS -- Blanco G
+WP -- Fife S
+T -- 3:05
+A -- 47193
+     Game of 6/26/2013 -- San Francisco at Los Angeles (N)
+
+  San Francisco      AB  R  H RBI    Los Angeles        AB  R  H RBI
+Torres A, lf          4  0  0  0   Ellis M, 2b           4  1  1  0   
+Scutaro M, 2b         3  1  1  0   Puig Y, rf-lf         4  0  3  0   
+Posey B, 1b           4  1  3  2   Gonzalez A, 1b        4  0  2  0   
+Pence H, rf           4  0  0  0   Ramirez H, ss         3  1  2  1   
+Sandoval P, 3b        4  0  0  0   Ethier A, cf-rf       4  1  1  1   
+Perez J, cf           3  0  0  0   Ellis A, c            4  1  1  1   
+Belt B, ph            1  0  0  0   Uribe J, 3b           4  0  2  0   
+Sanchez H, c          3  0  1  0   Schumaker S, lf       4  0  0  0   
+Rosario S, p          0  0  0  0   Jansen K, p           0  0  0  0   
+Lopez J, p            0  0  0  0   Kershaw C, p          3  0  0  0   
+Dunning J, p          0  0  0  0   Kemp M, cf            0  0  0  0   
+Crawford B, ss        3  0  0  0                                      
+Lincecum T, p         2  0  0  0                                      
+Mijares J, p          0  0  0  0                                      
+Quiroz G, c           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  5  2                        34  4 12  3
+
+San Francisco    000 200 000 --  2
+Los Angeles      001 003 00x --  4
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (L)        5.1 10  4  4  1  4
+Mijares J             0.2  0  0  0  0  2
+Rosario S             0.2  2  0  0  0  0
+Lopez J               0.1  0  0  0  0  0
+Dunning J             1.0  0  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (W)*        8.0  4  2  2  1  7
+Jansen K (S)          1.0  1  0  0  0  2
+  * Pitched to 1 batter in 9th
+
+E -- Sandoval P, Uribe J, Crawford B
+DP -- San Francisco 2, Los Angeles 1
+LOB -- San Francisco 4, Los Angeles 7
+2B -- Puig Y, Ellis A
+HR -- Posey B
+SB -- Ramirez H, Ethier A
+WP -- Lincecum T
+T -- 2:45
+A -- 41721
+     Game of 6/27/2013 -- Philadelphia at Los Angeles (N)
+
+  Philadelphia       AB  R  H RBI    Los Angeles        AB  R  H RBI
+Revere B, cf          5  1  3  0   Schumaker S, 2b       3  0  0  0   
+Utley C, 2b           5  1  3  2   Howell J, p           0  0  0  0   
+Rollins J, ss         4  0  1  1   Belisario R, p        0  0  0  0   
+Howard R, 1b          4  0  0  0   Jansen K, p           0  0  0  0   
+Brown D, lf           4  1  1  1   Puig Y, rf            4  1  1  2   
+Young D, rf           4  0  4  0   Gonzalez A, 1b        4  1  1  0   
+Mayberry J, pr-rf     0  0  0  0   Kemp M, cf            4  2  2  1   
+Frandsen K, 3b        3  0  1  0   Ethier A, lf          4  0  1  2   
+Quintero H, c         3  0  0  0   Ellis A, c            2  1  0  1   
+Ruiz C, ph            1  0  0  0   Uribe J, 3b           4  1  1  0   
+Pettibone J, p        2  1  1  0   Punto N, ss-2b        2  0  1  0   
+Nix L, ph             1  0  0  0   Greinke Z, p          1  0  0  0   
+De Fratus J, p        0  0  0  0   Ramirez H, ph-ss      0  0  0  0   
+Bastardo A, p         0  0  0  0                                      
+Young M, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  4 14  4                        28  6  7  6
+
+Philadelphia     010 020 100 --  4
+Los Angeles      300 000 21x --  6
+
+  Philadelphia         IP  H  R ER BB SO
+Pettibone J           6.0  4  3  3  1  4
+De Fratus J (L)       0.2  2  2  2  2  1
+Bastardo A            1.1  1  1  1  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Greinke Z (W)         7.0 12  4  4  1  5
+Howell J              0.2  0  0  0  0  1
+Belisario R           0.1  1  0  0  0  1
+Jansen K (S)          1.0  1  0  0  0  0
+
+DP -- Los Angeles 3
+LOB -- Philadelphia 7, Los Angeles 4
+2B -- Utley C, Kemp M, Ethier A
+HR -- Brown D, Utley C
+SB -- Punto N, Kemp M 2
+CS -- Revere B
+SH -- Greinke Z, Punto N
+SF -- Ellis A
+T -- 2:54
+A -- 51037
+     Game of 6/28/2013 -- Philadelphia at Los Angeles (N)
+
+  Philadelphia       AB  R  H RBI    Los Angeles        AB  R  H RBI
+Young M, 3b           6  3  4  2   Ellis M, 2b           3  0  0  0   
+Utley C, 2b           3  3  2  0   Puig Y, rf            3  1  1  0   
+Frandsen K, ph-2b     2  1  1  0   Gonzalez A, 1b        2  0  0  0   
+Rollins J, ss         3  1  2  1   Van Slyke S, ph-1b    1  0  1  1   
+McDonald J, ph-ss     2  1  1  1   Ramirez H, ss         3  0  1  0   
+Brown D, lf           5  2  1  2   League B, p           0  0  0  0   
+Young D, rf           6  1  3  6   Schumaker S, p        1  0  0  0   
+Mayberry J, 1b        4  1  1  2   Kemp M, cf            3  0  0  0   
+Revere B, cf          6  0  2  1   Ethier A, lf          4  0  1  0   
+Ruiz C, c             4  2  1  0   Hairston J, 3b        2  0  1  0   
+Lannan J, p           4  1  3  1   Guerrier M, p         0  0  0  0   
+Nix L, ph             1  0  0  0   Uribe J, ph-3b        2  0  0  0   
+Aumont P, p           0  0  0  0   Federowicz T, c       3  0  0  0   
+Quintero H, ph        1  0  0  0   Capuano C, p          1  0  0  0   
+Savery J, p           0  0  0  0   Moylan P, p           0  0  0  0   
+                                   Punto N, 3b-ss        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     47 16 21 16                        30  1  5  1
+
+Philadelphia     330 114 310 -- 16
+Los Angeles      000 001 000 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Lannan J (W)          7.0  5  1  1  1  2
+Aumont P              1.0  0  0  0  1  1
+Savery J              1.0  0  0  0  2  1
+
+  Los Angeles          IP  H  R ER BB SO
+Capuano C (L)         3.2 10  7  5  1  4
+Moylan P              2.0  5  5  5  1  0
+Guerrier M            1.1  4  3  3  2  0
+League B              1.0  1  1  1  0  0
+Schumaker S           1.0  1  0  0  2  1
+
+E -- Gonzalez A, Mayberry J
+DP -- Philadelphia 1, Los Angeles 1
+LOB -- Philadelphia 11, Los Angeles 6
+2B -- Utley C, Young D, Ruiz C, Van Slyke S, Revere B
+HR -- Young M, Mayberry J
+HBP -- by League B (Ruiz C)
+WP -- League B
+T -- 3:11
+A -- 48828
+     Game of 6/29/2013 -- Philadelphia at Los Angeles (N)
+
+  Philadelphia       AB  R  H RBI    Los Angeles        AB  R  H RBI
+Young M, 3b           5  1  1  0   Ellis M, 2b           4  0  0  0   
+Utley C, 2b           5  2  2  2   Puig Y, rf            4  1  1  0   
+Rollins J, ss         5  0  1  0   Gonzalez A, 1b        3  1  1  0   
+Brown D, lf           5  0  2  0   Ramirez H, ss         4  2  3  3   
+Young D, rf           3  0  1  0   Kemp M, cf            3  0  0  0   
+Mayberry J, 1b        3  0  0  0   Van Slyke S, lf       2  0  0  0   
+Nix L, ph-1b          1  0  1  0   Ethier A, lf          0  0  0  0   
+Revere B, cf          3  0  3  0   Ellis A, c            4  0  1  1   
+Ruiz C, c             3  0  0  0   Uribe J, 3b           3  0  0  0   
+Lee C, p              3  0  0  0   Ryu H, p              2  0  0  0   
+Howard R, ph          0  0  0  0   Hairston J, ph        1  0  0  0   
+Frandsen K, ph        1  0  0  0   Rodriguez P, p        0  0  0  0   
+Ramirez J, p          0  0  0  0   Belisario R, p        0  0  0  0   
+Diekman J, p          0  0  0  0   Howell J, p           0  0  0  0   
+De Fratus J, p        0  0  0  0   Jansen K, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  3 11  2                        30  4  6  4
+
+Philadelphia     101 000 001 --  3
+Los Angeles      300 000 001 --  4
+  1 out when winning run was scored.
+
+  Philadelphia         IP  H  R ER BB SO
+Lee C                 7.0  4  3  3  3 10
+Ramirez J             0.2  0  0  0  0  0
+Diekman J             0.1  0  0  0  0  0
+De Fratus J (L)       0.1  2  1  1  1  1
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H                 7.0  7  2  2  3  6
+Rodriguez P           0.1  0  0  0  0  0
+Belisario R           0.1  2  0  0  1  0
+Howell J              0.1  0  0  0  0  0
+Jansen K (W)          1.0  2  1  1  0  1
+
+E -- Puig Y, Kemp M
+DP -- Philadelphia 1, Los Angeles 1
+LOB -- Philadelphia 11, Los Angeles 5
+2B -- Revere B 2, Ramirez H, Nix L
+3B -- Brown D
+HR -- Utley C 2, Ramirez H
+SB -- Ramirez H
+T -- 3:04
+A -- 52455
+     Game of 6/30/2013 -- Philadelphia at Los Angeles (D)
+
+  Philadelphia       AB  R  H RBI    Los Angeles        AB  R  H RBI
+Young M, 3b           4  0  1  0   Schumaker S, 2b       4  0  0  0   
+Utley C, 2b           4  1  1  0   Ellis M, ph-2b        1  0  0  0   
+Rollins J, ss         4  0  2  1   Puig Y, rf            5  2  4  0   
+Howard R, 1b          4  0  0  0   Gonzalez A, 1b        4  0  1  1   
+Brown D, lf           3  0  0  0   Ramirez H, ss         4  1  1  1   
+Young D, rf           3  0  0  0   Ethier A, lf          4  0  0  0   
+Revere B, cf          2  0  1  0   Kemp M, cf            4  2  2  1   
+Ruiz C, c             3  0  1  0   Ellis A, c            4  1  3  1   
+Kendrick K, p         0  0  0  0   Hairston J, 3b        2  0  1  1   
+Aumont P, p           0  0  0  0   Fife S, p             3  0  1  0   
+Diekman J, p          0  0  0  0   Dominguez J, p        0  0  0  0   
+De Fratus J, p        0  0  0  0   Van Slyke S, ph       1  0  1  1   
+Nix L, ph             1  0  0  0   Withrow C, p          0  0  0  0   
+                                   Rodriguez P, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  1  6  1                        36  6 14  6
+
+Philadelphia     000 000 001 --  1
+Los Angeles      000 310 02x --  6
+
+  Philadelphia         IP  H  R ER BB SO
+Kendrick K (L)        6.0 10  4  4  1  2
+Aumont P              1.0  1  0  0  0  1
+Diekman J             0.1  3  2  2  1  0
+De Fratus J           0.2  0  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Fife S (W)            7.0  4  0  0  1  5
+Dominguez J           1.0  0  0  0  0  1
+Withrow C             0.2  2  1  1  0  1
+Rodriguez P           0.1  0  0  0  0  1
+
+DP -- Los Angeles 3
+LOB -- Philadelphia 3, Los Angeles 8
+2B -- Young M, Gonzalez A, Puig Y, Ellis A
+3B -- Puig Y
+SB -- Puig Y 2, Ramirez H
+CS -- Revere B, Rollins J, Puig Y
+SH -- Kendrick K
+HBP -- by Fife S (Kendrick K)
+WP -- Fife S, De Fratus J
+Balk -- Kendrick K
+T -- 3:01
+A -- 42405
+     Game of 7/11/2013 -- Colorado at Los Angeles (N)
+
+  Colorado           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Fowler D, cf          4  0  0  0   Ellis M, 2b           4  0  3  4   
+Rutledge J, 2b        4  0  0  0   Puig Y, cf            4  0  2  0   
+Gonzalez C, lf        4  1  3  1   Ethier A, cf          0  0  0  1   
+Tulowitzki T, ss      4  0  0  0   Gonzalez A, 1b        5  0  2  0   
+Cuddyer M, rf         4  0  0  0   Ramirez H, ss         2  0  0  0   
+Rosario W, c          4  0  1  0   Van Slyke S, rf       5  0  1  0   
+Helton T, 1b          3  0  2  0   Uribe J, 3b           3  2  2  0   
+Arenado N, 3b         3  0  1  0   Hairston J, lf        3  2  2  1   
+Lopez W, p            0  0  0  0   Federowicz T, c       3  1  0  0   
+Outman J, p           0  0  0  0   Capuano C, p          3  0  0  0   
+Pomeranz D, p         1  0  0  0   Belisario R, p        0  0  0  0   
+Pacheco J, ph         1  0  0  0   Crawford C, ph        1  1  1  0   
+Corpas M, p           0  0  0  0   League B, p           0  0  0  0   
+LeMahieu D, 3b        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  7  1                        33  6 13  6
+
+Colorado         000 000 001 --  1
+Los Angeles      010 200 03x --  6
+
+  Colorado             IP  H  R ER BB SO
+Pomeranz D (L)        4.0  7  3  3  5  4
+Corpas M              2.1  2  0  0  1  1
+Lopez W*              0.2  2  2  1  0  0
+Outman J              1.0  2  1  1  1  2
+
+  Los Angeles          IP  H  R ER BB SO
+Capuano C (W)         6.1  6  0  0  0  8
+Belisario R           1.2  0  0  0  0  1
+League B              1.0  1  1  1  0  2
+  * Pitched to 2 batters in 8th
+
+E -- Tulowitzki T
+DP -- Colorado 3, Los Angeles 1
+LOB -- Colorado 5, Los Angeles 11
+2B -- Hairston J, Gonzalez A
+HR -- Gonzalez C
+SB -- Uribe J
+SF -- Ethier A
+T -- 3:13
+A -- 52740
+     Game of 7/12/2013 -- Colorado at Los Angeles (N)
+
+  Colorado           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Fowler D, cf          4  1  1  0   Schumaker S, lf       3  0  1  0   
+LeMahieu D, 2b        5  1  3  1   Hairston J, ph-lf     1  0  0  0   
+Gonzalez C, lf        4  0  0  0   Puig Y, rf            2  0  0  0   
+Tulowitzki T, ss      2  0  0  1   Van Slyke S, rf       2  0  0  0   
+Rosario W, c          4  0  1  1   Gonzalez A, 1b        4  0  1  0   
+Pacheco J, 1b         3  0  0  0   Ramirez H, ss         4  0  1  0   
+Brothers R, p         0  0  0  0   Ethier A, cf          3  0  1  0   
+Betancourt R, p       0  0  0  0   Ellis A, c            4  0  0  0   
+Blackmon C, rf        4  0  2  0   Ellis M, 2b           3  0  0  0   
+Arenado N, 3b         3  1  0  0   Uribe J, 3b           2  0  0  0   
+Nicasio J, p          2  0  0  0   Howell J, p           0  0  0  0   
+Helton T, 1b          1  0  0  0   Dominguez J, p        0  0  0  0   
+                                   Kershaw C, p          1  0  0  0   
+                                   Punto N, 3b           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  7  3                        29  0  4  0
+
+Colorado         200 010 000 --  3
+Los Angeles      000 000 000 --  0
+
+  Colorado             IP  H  R ER BB SO
+Nicasio J (W)         7.0  3  0  0  1  3
+Brothers R            1.0  0  0  0  1  1
+Betancourt R (S)      1.0  1  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (L)         7.0  6  3  3  1 10
+Howell J              0.1  1  0  0  0  1
+Dominguez J           1.2  0  0  0  2  2
+
+DP -- Colorado 1
+LOB -- Colorado 8, Los Angeles 6
+2B -- Blackmon C, Ramirez H
+SB -- Fowler D, Blackmon C
+SH -- Nicasio J, Kershaw C
+SF -- Tulowitzki T
+HBP -- by Nicasio J (Uribe J), by Dominguez J (Pacheco J)
+WP -- Betancourt R
+T -- 3:13
+A -- 50796
+     Game of 7/13/2013 -- Colorado at Los Angeles (D)
+
+  Colorado           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Fowler D, cf          4  0  0  0   Schumaker S, rf       4  1  1  0   
+LeMahieu D, 2b        4  0  0  0   Ellis M, 2b           2  0  0  0   
+Gonzalez C, lf        3  0  0  0   Punto N, pr-2b        0  0  0  0   
+Cuddyer M, rf         3  0  0  0   Gonzalez A, 1b        4  0  0  0   
+Helton T, 1b          2  0  1  0   Ramirez H, ss         3  0  1  1   
+Rutledge J, pr        0  0  0  0   Ethier A, cf          3  0  0  0   
+Pacheco J, 1b         0  0  0  0   Ellis A, c            3  0  1  0   
+Arenado N, 3b         3  0  0  0   Hairston J, lf        2  0  0  0   
+Torrealba Y, c        3  0  0  0   Van Slyke S, lf       0  0  0  0   
+Herrera J, ss         3  0  1  0   Uribe J, 3b           3  0  0  0   
+Chatwood T, p         2  0  0  0   Greinke Z, p          3  0  1  0   
+Blackmon C, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  0  2  0                        27  1  4  1
+
+Colorado         000 000 000 --  0
+Los Angeles      100 000 00x --  1
+
+  Colorado             IP  H  R ER BB SO
+Chatwood T (L)        8.0  4  1  1  2  4
+
+  Los Angeles          IP  H  R ER BB SO
+Greinke Z (W)         9.0  2  0  0  1  9
+
+E -- Pacheco J
+DP -- Colorado 2
+LOB -- Colorado 2, Los Angeles 5
+2B -- Schumaker S, Ellis A
+SB -- Greinke Z, Rutledge J
+CS -- Herrera J
+HBP -- by Chatwood T (Ellis M)
+T -- 2:17
+A -- 51992
+     Game of 7/14/2013 -- Colorado at Los Angeles (D)
+
+  Colorado           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Fowler D, cf          5  1  2  0   Schumaker S, rf-2b    4  0  2  0   
+LeMahieu D, 2b        4  0  0  0   Punto N, 2b           3  0  0  0   
+Gonzalez C, lf        2  1  1  0   Howell J, p           0  0  0  0   
+Tulowitzki T, ss      4  0  0  0   Uribe J, 3b           1  0  0  0   
+Cuddyer M, rf         5  1  2  3   Gonzalez A, 1b        4  0  1  1   
+Helton T, 1b          4  0  2  0   Ramirez H, ss         3  0  0  0   
+Rosario W, c          4  0  1  0   Ethier A, cf          3  0  0  0   
+Arenado N, 3b         4  0  0  0   Jansen K, p           0  0  0  0   
+Chacin J, p           2  0  2  0   Ellis A, c            4  0  0  0   
+Brothers R, p         0  0  0  0   Van Slyke S, lf-rf    4  0  2  0   
+Blackmon C, ph        1  0  1  0   Hairston J, 3b        3  0  0  0   
+Belisle M, p          0  0  0  0   Belisario R, p        0  0  0  0   
+Betancourt R, p       0  0  0  0   Rodriguez P, p        0  0  0  0   
+                                   Crawford C, lf        1  0  0  0   
+                                   Nolasco R, p          0  0  0  0   
+                                   Puig Y, ph-rf-cf      3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3 11  3                        33  1  6  1
+
+Colorado         100 020 000 --  3
+Los Angeles      000 010 000 --  1
+
+  Colorado             IP  H  R ER BB SO
+Chacin J (W)          6.0  6  1  1  3  6
+Brothers R            1.0  0  0  0  0  1
+Belisle M             1.0  0  0  0  0  0
+Betancourt R (S)      1.0  0  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Nolasco R (L)         5.0  8  3  3  3  4
+Howell J              1.0  1  0  0  1  0
+Belisario R           1.2  1  0  0  1  1
+Rodriguez P           0.1  0  0  0  0  0
+Jansen K              1.0  1  0  0  0  2
+
+DP -- Los Angeles 2
+LOB -- Colorado 11, Los Angeles 8
+2B -- Fowler D
+HR -- Cuddyer M
+SB -- Blackmon C, Gonzalez C
+CS -- Fowler D
+HBP -- by Nolasco R (Gonzalez C)
+T -- 3:16
+A -- 51402
+     Game of 7/25/2013 -- Cincinnati at Los Angeles (N)
+
+  Cincinnati         AB  R  H RBI    Los Angeles        AB  R  H RBI
+Choo S, cf            5  0  2  1   Crawford C, lf        5  1  1  0   
+Paul X, lf            2  1  1  1   Puig Y, rf            4  1  2  0   
+Heisey C, ph-lf       2  0  0  0   Gonzalez A, 1b        4  0  1  2   
+Votto J, 1b           4  0  1  0   Ramirez H, ss         4  0  2  0   
+Phillips B, 2b        2  1  0  0   Ethier A, cf          4  0  0  0   
+Bruce J, rf           4  1  1  2   Ellis A, c            4  0  0  0   
+Frazier T, 3b         4  1  2  0   Schumaker S, 2b       3  0  1  0   
+Mesoraco D, c         4  1  1  0   Ellis M, ph           1  0  1  0   
+Izturis C, ss         4  0  1  1   Hairston J, 3b        3  0  1  0   
+Latos M, p            3  0  0  0   Greinke Z, p          1  0  0  0   
+Parra M, p            0  0  0  0   Punto N, ph           1  0  0  0   
+Hannahan J, ph        0  0  0  0   Howell J, p           0  0  0  0   
+Chapman A, p          0  0  0  0   Marmol C, p           0  0  0  0   
+                                   Uribe J, ph           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5  9  5                        34  2  9  2
+
+Cincinnati       110 002 001 --  5
+Los Angeles      000 100 010 --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Latos M (W)           7.2  8  2  1  1  4
+Parra M               0.1  0  0  0  0  0
+Chapman A (S)         1.0  1  0  0  1  2
+
+  Los Angeles          IP  H  R ER BB SO
+Greinke Z (L)         7.0  6  4  4  1  4
+Howell J              1.0  1  0  0  1  2
+Marmol C              1.0  2  1  1  1  1
+
+E -- Choo S
+DP -- Cincinnati 1, Los Angeles 2
+LOB -- Cincinnati 6, Los Angeles 8
+2B -- Frazier T, Crawford C
+HR -- Paul X, Bruce J
+SB -- Ramirez H, Votto J
+SH -- Greinke Z
+HBP -- by Greinke Z (Phillips B)
+WP -- Greinke Z, Chapman A
+T -- 3:10
+A -- 53275
+     Game of 7/26/2013 -- Cincinnati at Los Angeles (N)
+
+  Cincinnati         AB  R  H RBI    Los Angeles        AB  R  H RBI
+Choo S, cf            4  0  0  0   Crawford C, lf        4  0  3  0   
+Heisey C, lf          4  0  1  0   Puig Y, rf            4  0  0  0   
+Hoover J, p           0  0  0  0   Gonzalez A, 1b        4  1  1  0   
+Votto J, 1b           4  0  1  0   Ramirez H, ss         4  1  2  2   
+Phillips B, 2b        4  1  1  0   Ethier A, cf          3  0  0  0   
+Bruce J, rf           4  0  1  1   Ellis A, c            1  0  0  0   
+Frazier T, 3b         3  0  0  0   Uribe J, 3b           3  0  0  0   
+Cozart Z, ss          3  0  0  0   Ellis M, 2b           3  0  1  0   
+Miller C, c           2  0  1  0   Kershaw C, p          2  0  0  0   
+Mesoraco D, ph-c      1  0  0  0   Jansen K, p           0  0  0  0   
+Bailey H, p           2  0  0  0                                      
+Robinson D, ph-lf     1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        28  2  7  2
+
+Cincinnati       000 000 100 --  1
+Los Angeles      000 002 00x --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Bailey H (L)          7.0  7  2  2  1  5
+Hoover J              1.0  0  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (W)         8.0  6  1  1  0  8
+Jansen K (S)          1.0  0  0  0  0  2
+
+DP -- Cincinnati 1, Los Angeles 1
+LOB -- Cincinnati 4, Los Angeles 5
+2B -- Votto J, Heisey C, Phillips B, Robinson D
+HR -- Ramirez H
+SB -- Ramirez H
+CS -- Puig Y
+SH -- Kershaw C
+HBP -- by Bailey H (Ellis A)
+WP -- Kershaw C
+T -- 2:33
+A -- 51841
+     Game of 7/27/2013 -- Cincinnati at Los Angeles (N)
+
+  Cincinnati         AB  R  H RBI    Los Angeles        AB  R  H RBI
+Choo S, cf            3  0  0  0   Schumaker S, lf       4  2  2  2   
+Heisey C, lf          3  0  1  0   Puig Y, rf            3  1  2  0   
+Votto J, 1b           4  0  0  0   Gonzalez A, 1b        4  0  2  1   
+Phillips B, 2b        3  0  0  0   Ramirez H, ss         4  0  1  1   
+Bruce J, rf           3  1  1  1   Ethier A, cf          3  0  0  0   
+Frazier T, 3b         3  0  0  0   Ellis A, c            4  0  1  0   
+Mesoraco D, c         3  0  0  0   Uribe J, 3b           3  0  1  0   
+Cozart Z, ss          3  0  0  0   Ellis M, 2b           3  1  1  0   
+Arroyo B, p           2  0  0  0   Ryu H, p              1  0  0  0   
+Simon A, p            0  0  0  0   Hairston J, ph        1  0  0  0   
+Paul X, ph            1  0  0  0   Belisario R, p        0  0  0  0   
+Ondrusek L, p         0  0  0  0   Rodriguez P, p        0  0  0  0   
+                                   Jansen K, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  1  2  1                        30  4 10  4
+
+Cincinnati       010 000 000 --  1
+Los Angeles      100 020 10x --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Arroyo B (L)          5.1  8  3  3  2  1
+Simon A               1.2  2  1  1  0  1
+Ondrusek L            1.0  0  0  0  0  2
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H (W)             7.0  2  1  1  1  9
+Belisario R           0.2  0  0  0  0  0
+Rodriguez P           0.1  0  0  0  0  0
+Jansen K (S)          1.0  0  0  0  0  0
+
+DP -- Cincinnati 1
+LOB -- Cincinnati 2, Los Angeles 5
+2B -- Ramirez H, Schumaker S
+3B -- Heisey C
+HR -- Bruce J, Schumaker S
+SB -- Puig Y
+SH -- Heisey C, Ryu H
+T -- 2:37
+A -- 52675
+     Game of 7/28/2013 -- Cincinnati at Los Angeles (D)
+
+  Cincinnati         AB  R  H RBI    Los Angeles        AB  R  H RBI
+Robinson D, cf        5  0  0  0   Ellis M, 2b           5  0  1  0   
+Heisey C, lf          5  0  0  0   Puig Y, rf            4  1  1  1   
+Votto J, 1b           4  0  2  0   Gonzalez A, 1b        4  0  0  0   
+Phillips B, 2b        4  0  0  0   Ramirez H, ss         4  0  1  0   
+Bruce J, rf           4  0  0  0   Hairston J, lf        2  0  0  0   
+Frazier T, 3b         3  0  0  0   Schumaker S, lf       1  0  0  0   
+Cozart Z, ss          3  0  0  0   Ethier A, cf          3  0  0  0   
+Paul X, ph            0  0  0  0   Uribe J, 3b           4  0  1  0   
+Partch C, p           0  0  0  0   Federowicz T, c       4  0  0  0   
+Mesoraco D, c         4  0  1  0   Capuano C, p          2  0  1  0   
+Cingrani T, p         1  0  0  0   Belisario R, p        0  0  0  0   
+Choo S, ph            0  0  0  0   Rodriguez P, p        0  0  0  0   
+Parra M, p            0  0  0  0   Jansen K, p           0  0  0  0   
+LeCure S, p           0  0  0  0   Punto N, ph           1  0  0  0   
+Izturis C, ss         1  0  0  0   League B, p           0  0  0  0   
+                                   Herrera E, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  0  3  0                        35  1  5  1
+
+Cincinnati       000 000 000 00 --  0
+Los Angeles      000 000 000 01 --  1
+  2 outs when winning run was scored.
+
+  Cincinnati           IP  H  R ER BB SO
+Cingrani T            7.0  1  0  0  1 11
+Parra M               0.2  0  0  0  0  2
+LeCure S              1.1  2  0  0  0  4
+Partch C (L)          1.2  2  1  1  1  3
+
+  Los Angeles          IP  H  R ER BB SO
+Capuano C             6.2  3  0  0  0  4
+Belisario R           0.2  0  0  0  1  1
+Rodriguez P           0.2  0  0  0  0  0
+Jansen K              1.0  0  0  0  0  0
+League B (W)          2.0  0  0  0  1  0
+
+DP -- Los Angeles 1
+LOB -- Cincinnati 5, Los Angeles 5
+2B -- Mesoraco D, Votto J, Uribe J
+HR -- Puig Y
+SB -- Choo S
+CS -- Puig Y
+SH -- Cingrani T, Schumaker S
+HBP -- by Rodriguez P (Choo S)
+WP -- Capuano C
+T -- 3:43
+A -- 48671
+     Game of 7/30/2013 -- New York at Los Angeles (N)
+
+  New York           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Gardner B, cf         4  0  1  0   Crawford C, lf        4  0  0  0   
+Jeter D, ss           4  0  0  0   Puig Y, rf            4  1  1  0   
+Cano R, 2b            4  0  1  0   Gonzalez A, 1b        4  0  1  0   
+Soriano A, lf         4  1  1  0   Ramirez H, ss         4  0  2  1   
+Overbay L, 1b         4  1  1  2   Ellis A, c            4  0  1  0   
+Suzuki I, rf          3  0  1  0   Ethier A, cf          4  1  1  0   
+Nix J, 3b             3  0  0  0   Uribe J, 3b           4  1  1  1   
+Stewart C, c          3  0  0  0   Ellis M, 2b           4  0  2  1   
+Pettitte A, p         2  0  0  0   Greinke Z, p          2  0  1  0   
+Wells V, ph           1  0  0  0   Hairston J, ph        1  0  0  0   
+Robertson D, p        0  0  0  0   Belisario R, p        0  0  0  0   
+Kelley S, p           0  0  0  0   Jansen K, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  5  2                        35  3 10  3
+
+New York         010 100 000 --  2
+Los Angeles      110 000 001 --  3
+  2 outs when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Pettitte A            7.0  8  2  2  0  3
+Robertson D           1.0  0  0  0  0  1
+Kelley S (L)          0.2  2  1  1  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Greinke Z             7.0  5  2  2  0  7
+Belisario R           1.0  0  0  0  0  0
+Jansen K (W)          1.0  0  0  0  0  2
+
+LOB -- New York 3, Los Angeles 6
+2B -- Puig Y, Ramirez H, Soriano A, Suzuki I
+HR -- Overbay L, Uribe J
+SB -- Ethier A
+WP -- Greinke Z
+T -- 2:46
+A -- 52447
+     Game of 7/31/2013 -- New York at Los Angeles (N)
+
+  New York           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Gardner B, cf         4  0  0  0   Crawford C, lf        4  0  0  0   
+Jeter D, ss           3  0  0  0   Belisario R, p        0  0  0  0   
+Nunez E, pr-ss        0  0  0  0   Rodriguez P, p        0  0  0  0   
+Cano R, 2b            4  1  0  0   League B, p           0  0  0  0   
+Soriano A, lf         4  0  1  0   Puig Y, rf            3  0  0  0   
+Wells V, rf           3  0  1  0   Gonzalez A, 1b        4  0  1  0   
+Suzuki I, ph-rf       0  1  0  0   Ramirez H, ss         4  0  0  0   
+Lillibridge B, 1b     3  0  1  0   Ethier A, cf          4  0  2  0   
+Overbay L, ph-1b      1  1  1  1   Ellis A, c            4  0  2  0   
+Nix J, 3b             4  0  0  0   Schumaker S, 2b-lf    2  0  0  0   
+Stewart C, c          4  0  1  0   Uribe J, 3b           3  0  1  0   
+Kuroda H, p           2  0  0  0   Kershaw C, p          2  0  0  0   
+Mesa M, ph            1  0  1  0   Ellis M, 2b           0  0  0  0   
+Logan B, p            0  0  0  0                                      
+Rivera M, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  1                        30  0  6  0
+
+New York         000 000 003 --  3
+Los Angeles      000 000 000 --  0
+
+  New York             IP  H  R ER BB SO
+Kuroda H              7.0  5  0  0  1  8
+Logan B (W)           1.0  1  0  0  1  0
+Rivera M (S)          1.0  0  0  0  0  2
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C             8.0  5  0  0  0  5
+Belisario R (L)       0.2  0  2  1  2  0
+Rodriguez P*          0.0  1  1  0  0  0
+League B              0.1  0  0  0  0  0
+  * Pitched to 2 batters in 9th
+
+E -- Ellis M
+DP -- New York 1
+LOB -- New York 5, Los Angeles 6
+CS -- Soriano A
+SH -- Kershaw C
+T -- 3:00
+A -- 53013
+     Game of 8/9/2013 -- Tampa Bay at Los Angeles (N)
+
+  Tampa Bay          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Rodriguez S, lf       3  1  1  0   Ellis M, 2b           4  2  3  1   
+Joyce M, ph-lf        2  0  0  0   Punto N, ss           5  1  2  1   
+Rodney F, p           0  0  0  0   Gonzalez A, 1b        5  1  1  1   
+Roberts R, 2b         5  0  2  0   Puig Y, cf            4  1  2  1   
+Longoria E, 3b        4  1  1  0   Hairston J, lf        3  1  0  0   
+Myers W, cf-rf        4  2  2  0   Uribe J, 3b           4  0  2  1   
+Zobrist B, rf-lf      5  1  1  1   Federowicz T, c       3  0  1  0   
+Escobar Y, ss         5  1  2  3   Crawford C, ph        1  0  0  0   
+Loney J, 1b           4  0  3  2   Ellis A, c            0  0  0  0   
+Molina J, c           2  0  0  0   Schumaker S, rf       4  1  2  1   
+Price D, p            3  0  0  0   Capuano C, p          1  0  0  0   
+Scott L, ph           1  0  0  0   Howell J, p           0  0  0  0   
+McGee J, p            0  0  0  0   Ethier A, ph          1  0  0  0   
+Lueke J, p            0  0  0  0   League B, p           0  0  0  0   
+Peralta J, p          0  0  0  0   Ramirez H, ph         1  0  0  0   
+Fuld S, cf            0  0  0  0   Marmol C, p           0  0  0  0   
+                                   Belisario R, p        0  0  0  0   
+                                   Gordon D, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 12  6                        37  7 13  6
+
+Tampa Bay        030 030 000 --  6
+Los Angeles      000 000 124 --  7
+  1 out when winning run was scored.
+
+  Tampa Bay            IP  H  R ER BB SO
+Price D               7.0  7  1  0  1  4
+McGee J               0.2  0  1  1  1  1
+Lueke J*              0.0  1  1  1  1  0
+Peralta J             0.1  1  0  0  0  0
+Rodney F (L)          0.1  4  4  3  1  1
+
+  Los Angeles          IP  H  R ER BB SO
+Capuano C             4.1 10  6  5  1  3
+Howell J              0.2  0  0  0  1  1
+League B              2.0  0  0  0  0  1
+Marmol C+             1.0  2  0  0  2  0
+Belisario R (W)       1.0  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+  + Pitched to 2 batters in 9th
+
+E -- Punto N, Longoria E, Rodney F
+DP -- Tampa Bay 2, Los Angeles 2
+LOB -- Tampa Bay 9, Los Angeles 9
+2B -- Roberts R, Uribe J, Longoria E, Schumaker S, Puig Y, Punto N, Gonzalez A
+3B -- Ellis M
+SB -- Escobar Y
+WP -- Price D
+T -- 3:55
+A -- 51083
+     Game of 8/10/2013 -- Tampa Bay at Los Angeles (D)
+
+  Tampa Bay          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Zobrist B, 2b         4  0  2  0   Crawford C, lf        4  1  1  0   
+Joyce M, rf           3  0  1  0   Punto N, ss           3  1  2  2   
+Rodriguez S, ph-rf    1  0  0  0   Gonzalez A, 1b        4  1  2  2   
+Longoria E, 3b        4  0  1  0   Puig Y, rf            2  0  0  0   
+Myers W, cf           4  0  0  0   Ethier A, cf          4  1  1  0   
+Loney J, 1b           3  0  0  0   Uribe J, 3b           4  0  2  0   
+Escobar Y, ss         4  0  0  0   Schumaker S, 2b       4  0  4  0   
+Johnson K, lf         4  0  0  0   Ellis A, c            3  0  0  1   
+Molina J, c           3  0  1  0   Greinke Z, p          2  1  0  0   
+Hernandez R, p        1  0  0  0   Howell J, p           0  0  0  0   
+Roberts R, ph         1  0  1  0   Withrow C, p          1  0  0  0   
+Wright J, p           0  0  0  0                                      
+Scott L, ph           1  0  0  0                                      
+Ramos C, p            0  0  0  0                                      
+Lueke J, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  0  6  0                        31  5 12  5
+
+Tampa Bay        000 000 000 --  0
+Los Angeles      202 100 00x --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Hernandez R (L)       4.0  8  5  5  1  3
+Wright J              2.0  2  0  0  2  1
+Ramos C               1.1  2  0  0  1  1
+Lueke J               0.2  0  0  0  0  2
+
+  Los Angeles          IP  H  R ER BB SO
+Greinke Z (W)         6.1  6  0  0  1  7
+Howell J              0.2  0  0  0  0  1
+Withrow C             2.0  0  0  0  0  1
+
+DP -- Tampa Bay 3
+LOB -- Tampa Bay 7, Los Angeles 7
+2B -- Joyce M, Crawford C, Longoria E
+HR -- Gonzalez A
+SB -- Gonzalez A
+CS -- Schumaker S
+SF -- Ellis A
+T -- 3:14
+A -- 52619
+     Game of 8/11/2013 -- Tampa Bay at Los Angeles (N)
+
+  Tampa Bay          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Rodriguez S, 1b-2b    4  0  0  0   Crawford C, lf        4  2  2  0   
+Myers W, cf           3  0  0  1   Ellis M, 2b           5  1  3  3   
+Longoria E, 3b        4  0  0  0   Gonzalez A, 1b        4  0  1  2   
+Zobrist B, rf         4  0  0  0   Hairston J, ph-1b     1  0  0  0   
+Escobar Y, ss         4  1  1  0   Puig Y, rf            3  1  1  0   
+Roberts R, 2b         2  0  0  0   Ethier A, cf          4  1  1  0   
+Ramos C, p            0  0  0  0   Ellis A, c            3  1  2  1   
+Joyce M, ph           1  0  0  0   Uribe J, 3b           3  0  1  0   
+Lobaton J, c          2  1  0  0   Gordon D, ss          4  0  2  0   
+Hellickson J, p       1  0  0  0   Kershaw C, p          4  2  1  2   
+Torres A, p           0  0  0  0   Marmol C, p           0  0  0  0   
+Fuld S, ph            1  0  1  1                                      
+Lueke J, p            0  0  0  0                                      
+Loney J, 1b           1  0  1  0                                      
+Bourgeois J, lf       3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  3  2                        35  8 14  8
+
+Tampa Bay        000 010 010 --  2
+Los Angeles      031 202 00x --  8
+
+  Tampa Bay            IP  H  R ER BB SO
+Hellickson J (L)      3.0  7  4  4  0  2
+Torres A              1.0  2  2  2  2  2
+Lueke J               2.0  3  2  2  0  2
+Ramos C               2.0  2  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (W)         8.0  3  2  1  2  8
+Marmol C              1.0  0  0  0  0  1
+
+E -- Gordon D 3, Crawford C
+DP -- Tampa Bay 1, Los Angeles 2
+LOB -- Tampa Bay 4, Los Angeles 7
+2B -- Ellis M, Puig Y, Gonzalez A
+3B -- Fuld S
+HR -- Ellis M
+SH -- Uribe J
+SF -- Ellis A, Myers W
+T -- 2:48
+A -- 52248
+     Game of 8/12/2013 -- New York at Los Angeles (N)
+
+  New York           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Young E, lf           5  0  2  0   Crawford C, lf        4  1  1  0   
+Lagares J, cf         5  0  0  0   Jansen K, p           0  0  0  0   
+Murphy D, 2b          4  0  0  0   Ellis M, 2b           4  1  1  0   
+Byrd M, rf            4  0  2  0   Gonzalez A, 1b        4  1  3  1   
+Davis I, 1b           3  1  1  0   Puig Y, rf            3  0  0  1   
+Flores W, 3b          4  1  1  0   Ethier A, cf          3  0  0  0   
+Buck J, c             4  0  2  1   Rodriguez P, p        0  0  0  0   
+Quintanilla O, ss     3  0  2  1   Hairston J, lf        0  0  0  0   
+Turner J, ph-ss       1  0  0  0   Ellis A, c            3  0  0  0   
+Mejia J, p            2  0  0  0   Uribe J, 3b           3  0  1  0   
+Baxter M, ph          0  0  0  0   Punto N, ss           3  1  1  1   
+Torres C, p           0  0  0  0   Nolasco R, p          2  0  1  0   
+Satin J, ph           1  0  0  0   Belisario R, p        0  0  0  0   
+                                   Schumaker S, cf       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  2 10  2                        30  4  8  3
+
+New York         020 000 000 --  2
+Los Angeles      000 003 10x --  4
+
+  New York             IP  H  R ER BB SO
+Mejia J (L)           6.0  6  3  2  0  4
+Torres C              2.0  2  1  1  0  2
+
+  Los Angeles          IP  H  R ER BB SO
+Nolasco R (W)         6.1  7  2  2  2  2
+Belisario R           0.1  1  0  0  0  1
+Rodriguez P           1.0  2  0  0  0  2
+Jansen K (S)          1.1  0  0  0  0  3
+
+E -- Ellis M, Lagares J
+DP -- New York 1, Los Angeles 2
+LOB -- New York 9, Los Angeles 3
+2B -- Byrd M
+HR -- Punto N
+SB -- Murphy D
+SF -- Puig Y
+T -- 2:49
+A -- 42915
+     Game of 8/13/2013 -- New York at Los Angeles (N)
+
+  New York           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Young E, lf           4  0  0  0   Crawford C, lf        3  0  0  0   
+Lagares J, cf         4  1  1  1   Ellis M, 2b           4  1  2  0   
+Murphy D, 2b          4  0  1  0   Gonzalez A, 1b        4  0  0  0   
+Byrd M, rf            4  0  1  0   Puig Y, rf            4  1  2  0   
+Satin J, 1b           3  1  1  0   Schumaker S, cf       3  0  0  0   
+Turner J, 3b          4  0  1  0   Ellis A, c            2  1  1  2   
+Buck J, c             3  0  1  1   Uribe J, 3b           3  1  2  0   
+Quintanilla O, ss     3  0  0  0   Punto N, ss           3  0  1  2   
+Davis I, ph           1  0  0  0   Ryu H, p              2  0  0  0   
+Harvey M, p           2  0  0  0   Gordon D, ph          1  0  0  0   
+Germen G, p           0  0  0  0   Belisario R, p        0  0  0  0   
+Baxter M, ph          1  0  1  0   Jansen K, p           0  0  0  0   
+Atchison S, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        29  4  8  4
+
+New York         100 000 001 --  2
+Los Angeles      000 022 00x --  4
+
+  New York             IP  H  R ER BB SO
+Harvey M (L)          6.0  8  4  4  2  3
+Germen G              1.0  0  0  0  0  2
+Atchison S            1.0  0  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H (W)             7.0  5  1  1  1  3
+Belisario R           1.0  1  0  0  0  1
+Jansen K (S)          1.0  1  1  1  1  0
+
+DP -- New York 3, Los Angeles 1
+LOB -- New York 6, Los Angeles 3
+2B -- Punto N
+HR -- Lagares J
+T -- 2:39
+A -- 46335
+     Game of 8/14/2013 -- New York at Los Angeles (N)
+
+  New York           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Lagares J, cf         6  0  0  0   Crawford C, lf        6  0  2  0   
+Murphy D, 2b          6  1  2  0   Puig Y, rf-cf         6  1  1  0   
+Satin J, 3b           3  1  1  0   Gonzalez A, 1b        6  1  3  1   
+Rice S, p             0  0  0  0   Ramirez H, ss         5  1  2  0   
+Flores W, ph          1  0  1  0   Schumaker S, cf       3  0  1  0   
+Mejia J, pr           0  0  0  0   Marmol C, p           1  0  0  0   
+Hawkins L, p          0  0  0  0   Rodriguez P, p        0  0  0  0   
+Baxter M, lf          1  0  0  0   Ellis M, 2b           4  1  1  1   
+Byrd M, rf            6  1  3  3   Hairston J, 3b-rf     4  0  1  1   
+Turner J, ss-3b       5  0  2  0   Federowicz T, c       3  0  0  0   
+Davis I, 1b           6  1  1  0   Ethier A, ph          1  1  1  2   
+Brown A, lf           5  0  3  1   Ellis A, c            1  0  0  0   
+Torres C, p           0  0  0  0   Capuano C, p          1  0  0  0   
+Feliciano P, p        0  0  0  0   Punto N, ph           0  0  0  0   
+Buck J, c             4  0  0  0   Withrow C, p          0  0  0  0   
+Gee D, p              3  0  1  0   Gordon D, ph          1  0  0  0   
+Quintanilla O, ss     2  0  0  0   League B, p           0  0  0  0   
+                                   Howell J, p           0  0  0  0   
+                                   Uribe J, 3b           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     48  4 14  4                        44  5 12  5
+
+New York         013 000 000 000 --  4
+Los Angeles      000 002 002 001 --  5
+  1 out when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Gee D                 6.0  7  2  2  1  4
+Rice S                2.0  0  0  0  0  1
+Hawkins L             1.0  3  2  2  0  0
+Torres C              2.0  0  0  0  1  1
+Feliciano P (L)       0.1  2  1  1  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Capuano C             5.0 10  4  4  2  3
+Withrow C             2.0  0  0  0  1  3
+League B              0.2  1  0  0  0  0
+Howell J              1.0  1  0  0  0  1
+Marmol C              2.0  1  0  0  0  3
+Rodriguez P (W)       1.1  1  0  0  0  2
+
+E -- Hairston J, Turner J
+DP -- New York 1, Los Angeles 2
+LOB -- New York 11, Los Angeles 9
+2B -- Brown A, Byrd M, Ramirez H, Davis I, Puig Y, Gonzalez A
+3B -- Gee D
+HR -- Byrd M, Ethier A
+SB -- Davis I
+SH -- Hairston J
+HBP -- by Gee D (Schumaker S)
+T -- 4:11
+A -- 44091
+     Game of 8/23/2013 -- Boston at Los Angeles (N)
+
+  Boston             AB  R  H RBI    Los Angeles        AB  R  H RBI
+Ellsbury J, cf        4  0  0  0   Crawford C, lf        3  1  2  0   
+Victorino S, rf       4  0  0  0   Puig Y, rf            3  0  0  0   
+Pedroia D, 2b         3  0  1  0   Gonzalez A, 1b        3  0  0  0   
+Ortiz D, 1b           3  0  0  0   Ramirez H, ss         3  1  1  2   
+Saltalamacchia J, c   3  0  0  0   Ethier A, cf          3  0  0  0   
+Nava D, lf            2  0  0  0   Uribe J, 3b           3  0  0  0   
+Drew S, ss            3  0  1  0   Ellis M, 2b           3  0  0  0   
+Middlebrooks W, 3b    3  0  0  0   Federowicz T, c       3  0  0  0   
+Lackey J, p           2  0  0  0   Nolasco R, p          2  0  0  0   
+Carp M, ph            1  0  0  0   Hairston J, ph        1  0  0  0   
+                                   Jansen K, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  0  2  0                        27  2  3  2
+
+Boston           000 000 000 --  0
+Los Angeles      000 200 00x --  2
+
+  Boston               IP  H  R ER BB SO
+Lackey J (L)          8.0  3  2  2  0  6
+
+  Los Angeles          IP  H  R ER BB SO
+Nolasco R (W)         8.0  2  0  0  0  6
+Jansen K (S)          1.0  0  0  0  0  2
+
+DP -- Los Angeles 1
+LOB -- Boston 2, Los Angeles 1
+HR -- Ramirez H
+SB -- Crawford C 2
+HBP -- by Nolasco R (Nava D)
+T -- 2:07
+A -- 50240
+     Game of 8/24/2013 -- Boston at Los Angeles (D)
+
+  Boston             AB  R  H RBI    Los Angeles        AB  R  H RBI
+Ellsbury J, cf        5  0  0  0   Puig Y, rf            3  1  2  0   
+Victorino S, rf       3  1  0  0   Ellis M, 2b           4  0  1  0   
+Pedroia D, 2b         4  1  2  0   League B, p           0  0  0  0   
+Napoli M, 1b          4  1  3  1   Rodriguez P, p        0  0  0  0   
+Gomes J, lf           3  1  1  3   Gonzalez A, 1b        4  0  1  2   
+Drew S, ss            3  0  1  0   Ramirez H, ss         2  0  0  0   
+Middlebrooks W, 3b    4  0  0  0   Ellis A, c            3  0  0  0   
+Uehara K, p           0  0  0  0   Ethier A, cf          4  0  1  0   
+Ross D, c             4  0  0  0   Uribe J, 3b           4  0  0  0   
+Lester J, p           3  0  0  0   Hairston J, lf-2b     4  0  0  0   
+Tazawa J, p           0  0  0  0   Ryu H, p              0  0  0  0   
+Breslow C, p          0  0  0  0   Punto N, ph           1  0  0  0   
+Bogaerts X, 3b        1  0  1  0   Marmol C, p           0  0  0  0   
+                                   Howell J, p           0  0  0  0   
+                                   Wilson B, p           0  0  0  0   
+                                   Crawford C, ph-lf     0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  8  4                        29  2  5  2
+
+Boston           400 000 000 --  4
+Los Angeles      000 000 020 --  2
+
+  Boston               IP  H  R ER BB SO
+Lester J (W)          7.1  3  1  1  4  6
+Tazawa J              0.1  1  1  1  0  1
+Breslow C*            0.0  1  0  0  1  0
+Uehara K (S)          1.1  0  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H (L)             5.0  5  4  4  0  7
+Marmol C              1.1  0  0  0  1  3
+Howell J              0.2  0  0  0  0  2
+Wilson B              1.0  2  0  0  1  1
+League B              0.1  1  0  0  0  0
+Rodriguez P           0.2  0  0  0  0  0
+  * Pitched to 2 batters in 8th
+
+E -- Napoli M
+DP -- Boston 3, Los Angeles 1
+LOB -- Boston 6, Los Angeles 6
+2B -- Drew S, Pedroia D, Gonzalez A
+HR -- Gomes J
+SB -- Gomes J
+SH -- Ryu H
+HBP -- by Ryu H (Victorino S)
+T -- 3:14
+A -- 48165
+     Game of 8/25/2013 -- Boston at Los Angeles (N)
+
+  Boston             AB  R  H RBI    Los Angeles        AB  R  H RBI
+Ellsbury J, cf        5  1  1  0   Crawford C, lf        4  0  1  0   
+Victorino S, rf       4  2  2  1   Punto N, 2b           4  0  0  0   
+Pedroia D, 2b         4  1  3  1   Gonzalez A, 1b        4  1  1  1   
+Napoli M, 1b          4  2  2  3   Ramirez H, ss         4  0  0  0   
+Gomes J, lf           4  0  0  0   Puig Y, rf            3  0  0  0   
+Middlebrooks W, 3b    4  1  1  0   Schumaker S, cf       3  0  1  0   
+Saltalamacchia J, c   3  1  1  2   Ellis A, c            2  0  0  0   
+Bogaerts X, ss        4  0  2  0   Uribe J, 3b           3  0  0  0   
+Peavy J, p            4  0  0  0   Capuano C, p          0  0  0  0   
+                                   Ethier A, ph          1  0  0  0   
+                                   Withrow C, p          0  0  0  0   
+                                   Marmol C, p           0  0  0  0   
+                                   Hairston J, ph        1  0  0  0   
+                                   League B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  8 12  7                        29  1  3  1
+
+Boston           101 102 102 --  8
+Los Angeles      000 100 000 --  1
+
+  Boston               IP  H  R ER BB SO
+Peavy J (W)           9.0  3  1  1  1  5
+
+  Los Angeles          IP  H  R ER BB SO
+Capuano C (L)         5.0  6  3  2  1  3
+Withrow C             2.0  3  3  3  1  1
+Marmol C              1.0  1  0  0  1  1
+League B              1.0  2  2  2  0  2
+
+E -- Schumaker S
+DP -- Los Angeles 1
+LOB -- Boston 6, Los Angeles 3
+2B -- Victorino S, Napoli M, Pedroia D
+HR -- Gonzalez A, Saltalamacchia J, Victorino S, Napoli M
+SB -- Ellsbury J
+SH -- Victorino S, Capuano C
+SF -- Pedroia D
+T -- 3:00
+A -- 44109
+     Game of 8/26/2013 -- Chicago at Los Angeles (N)
+
+  Chicago            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Castro S, ss          4  0  1  0   Crawford C, lf        4  0  1  2   
+Lake J, cf            4  0  1  0   Puig Y, rf            5  1  3  1   
+Rizzo A, 1b           4  1  1  0   Gonzalez A, 1b        5  0  0  0   
+Schierholtz N, rf     3  1  0  0   Ramirez H, ss         4  1  1  1   
+Bogusevic B, lf       4  0  1  2   Ethier A, cf          2  0  1  0   
+Murphy D, 3b          3  0  1  0   Ellis A, c            3  1  1  0   
+Castillo W, c         2  0  0  0   Ellis M, 2b           3  1  0  0   
+Barney D, 2b          3  0  0  0   Punto N, 3b           3  2  1  1   
+Arrieta J, p          2  0  0  0   Greinke Z, p          2  0  1  1   
+Villanueva C, p       0  0  0  0   Wilson B, p           0  0  0  0   
+Navarro D, ph         1  0  0  0                                      
+Bowden M, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        31  6  9  6
+
+Chicago          000 000 002 --  2
+Los Angeles      000 202 11x --  6
+
+  Chicago              IP  H  R ER BB SO
+Arrieta J (L)*        5.0  6  4  4  5  3
+Villanueva C          2.0  2  1  1  1  3
+Bowden M              1.0  1  1  1  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Greinke Z (W)         8.2  5  2  2  2  9
+Wilson B              0.1  0  0  0  0  1
+  * Pitched to 2 batters in 6th
+
+DP -- Los Angeles 1
+LOB -- Chicago 4, Los Angeles 9
+2B -- Puig Y, Crawford C, Ethier A, Punto N, Rizzo A, Bogusevic B
+HR -- Ramirez H, Puig Y
+SB -- Ellis M
+CS -- Castro S
+SH -- Greinke Z
+SF -- Crawford C
+HBP -- by Greinke Z (Schierholtz N)
+T -- 3:12
+A -- 40965
+     Game of 8/27/2013 -- Chicago at Los Angeles (N)
+
+  Chicago            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Castro S, ss          5  0  2  1   Crawford C, lf        4  0  0  0   
+Barney D, 2b          4  0  1  0   Puig Y, rf            5  0  2  0   
+Navarro D, c          4  1  2  1   Gonzalez A, 1b        4  0  0  0   
+Murphy D, 3b          3  0  1  0   Ramirez H, ss         4  2  3  0   
+Lake J, cf            4  0  0  0   Ellis M, 2b           3  0  0  0   
+Ransom C, 1b          3  1  1  0   Ethier A, cf          2  0  1  1   
+Bogusevic B, ph-lf    2  0  0  0   Uribe J, 3b           3  0  1  1   
+McDonald D, lf        2  0  0  0   Belisario R, p        0  0  0  0   
+Rizzo A, ph-1b        1  0  0  0   Schumaker S, ph       1  0  0  0   
+Gillespie C, rf       4  0  1  0   Marmol C, p           0  0  0  0   
+Wood T, p             4  1  1  0   Rodriguez P, p        0  0  0  0   
+Strop P, p            0  0  0  0   Ellis A, c            3  0  0  0   
+Gregg K, p            0  0  0  0   Kershaw C, p          2  0  0  0   
+                                   Wilson B, p           0  0  0  0   
+                                   Punto N, 3b           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3  9  2                        33  2  7  2
+
+Chicago          001 001 100 --  3
+Los Angeles      000 001 010 --  2
+
+  Chicago              IP  H  R ER BB SO
+Wood T (W)            7.0  5  1  0  2  6
+Strop P               1.0  2  1  1  0  1
+Gregg K (S)           1.0  0  0  0  1  0
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (L)         5.2  7  2  1  3  9
+Wilson B              0.1  0  0  0  0  0
+Belisario R           2.0  2  1  1  1  0
+Marmol C              0.1  0  0  0  1  1
+Rodriguez P           0.2  0  0  0  0  2
+
+E -- Ellis A, Wood T, Punto N
+DP -- Chicago 1, Los Angeles 1
+LOB -- Chicago 13, Los Angeles 9
+SB -- Puig Y
+HBP -- by Wood T (Ethier A), by Belisario R (Lake J), by Strop P (Ellis M)
+WP -- Wood T, Kershaw C
+T -- 3:26
+A -- 52326
+     Game of 8/28/2013 -- Chicago at Los Angeles (D)
+
+  Chicago            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Castro S, ss          3  0  0  0   Puig Y, rf            1  0  0  0   
+Barney D, 2b          4  0  0  0   Schumaker S, rf       1  0  1  1   
+Rizzo A, 1b           4  0  1  0   Crawford C, lf        4  0  0  0   
+Schierholtz N, rf     4  0  0  0   Ramirez H, ss         4  1  1  1   
+Bogusevic B, lf       3  0  0  0   Ethier A, cf          4  1  2  1   
+Lake J, cf            4  0  0  0   Hairston J, 1b        4  0  0  0   
+Castillo W, c         3  0  2  0   Ellis M, 2b           3  0  0  0   
+Ransom C, 3b          3  0  0  0   Uribe J, 3b           3  1  1  0   
+Jackson E, p          2  0  0  0   Federowicz T, c       3  1  1  0   
+Russell J, p          0  0  0  0   Nolasco R, p          3  0  0  0   
+Watkins L, ph         1  0  0  0   Jansen K, p           0  0  0  0   
+Parker B, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  3  0                        30  4  6  3
+
+Chicago          000 000 000 --  0
+Los Angeles      100 120 00x --  4
+
+  Chicago              IP  H  R ER BB SO
+Jackson E (L)         6.2  6  4  2  2  5
+Russell J             0.1  0  0  0  0  0
+Parker B              1.0  0  0  0  0  3
+
+  Los Angeles          IP  H  R ER BB SO
+Nolasco R (W)         8.0  3  0  0  1 11
+Jansen K              1.0  0  0  0  1  3
+
+E -- Ramirez H, Jackson E
+DP -- Chicago 1
+LOB -- Chicago 6, Los Angeles 4
+2B -- Castillo W
+HR -- Ramirez H, Ethier A
+SB -- Ramirez H
+T -- 2:55
+A -- 38851
+     Game of 8/30/2013 -- San Diego at Los Angeles (N)
+
+  San Diego          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Denorfia C, rf-lf     5  0  2  1   Puig Y, rf            5  1  4  1   
+Venable W, cf-rf      5  0  1  0   Crawford C, lf        4  1  0  0   
+Gyorko J, 2b          4  0  1  0   Ramirez H, ss         4  2  2  2   
+Alonso Y, 1b          3  0  1  0   Punto N, ph-ss        1  0  0  0   
+Fuentes R, ph-cf      1  0  0  0   Gonzalez A, 1b        4  2  2  4   
+Guzman J, lf-1b       4  1  1  0   Ellis A, c            4  1  1  1   
+Forsythe L, 3b        3  0  1  1   Ethier A, cf          4  0  1  0   
+Bass A, p             0  0  0  0   Ellis M, 2b           4  1  2  0   
+Kotsay M, ph          1  0  0  0   Uribe J, 3b           4  0  0  0   
+Hynes C, p            0  0  0  0   Ryu H, p              3  1  1  1   
+Hundley N, c          4  0  1  0   Marmol C, p           0  0  0  0   
+Cedeno R, ss          3  0  1  0   Rodriguez P, p        0  0  0  0   
+Stults E, p           1  0  0  0   Hairston J, ph        1  0  0  0   
+Amarista A, 3b        2  1  2  0   Volquez E, p          0  0  0  0   
+                                   League B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  2 11  2                        38  9 13  9
+
+San Diego        010 000 001 --  2
+Los Angeles      022 000 50x --  9
+
+  San Diego            IP  H  R ER BB SO
+Stults E (L)          5.1  8  4  4  0  3
+Bass A                1.2  5  5  5  1  0
+Hynes C               1.0  0  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H (W)             6.1  8  1  1  1  6
+Marmol C              0.1  0  0  0  0  0
+Rodriguez P           0.1  0  0  0  0  0
+Volquez E             1.0  1  0  0  0  0
+League B              1.0  2  1  1  0  0
+
+E -- Cedeno R, Ramirez H
+DP -- Los Angeles 1
+LOB -- San Diego 9, Los Angeles 6
+2B -- Forsythe L, Ryu H, Ramirez H 2, Puig Y, Ellis M, Gyorko J
+HR -- Gonzalez A 2, Ellis A
+SB -- Puig Y 2
+SH -- Stults E
+WP -- Ryu H
+T -- 3:05
+A -- 51769
+     Game of 8/31/2013 -- San Diego at Los Angeles (N)
+
+  San Diego          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Denorfia C, rf        3  0  0  0   Crawford C, lf        5  0  3  0   
+Venable W, cf         4  0  0  0   Jansen K, p           0  0  0  0   
+Gyorko J, 2b          4  0  3  0   Puig Y, rf            4  0  0  0   
+Guzman J, 1b          4  0  0  0   Gonzalez A, 1b        3  0  2  1   
+Blanks K, lf          4  0  2  0   Ramirez H, ss         4  0  0  0   
+Forsythe L, 3b        4  0  0  0   Ethier A, cf          3  0  2  0   
+Cedeno R, ss          4  1  2  1   Uribe J, 3b           4  0  2  0   
+Rivera R, c           3  0  1  0   Schumaker S, 2b-lf    4  1  2  0   
+Kotsay M, ph          1  0  0  0   Federowicz T, c       3  0  0  0   
+Cashner A, p          3  0  2  0   Capuano C, p          2  0  0  0   
+Vincent N, p          0  0  0  0   Hairston J, ph        1  1  1  0   
+Amarista A, ph        1  0  0  0   Wilson B, p           0  0  0  0   
+                                   Ellis M, ph-2b        1  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  1 10  1                        34  2 13  2
+
+San Diego        000 100 000 --  1
+Los Angeles      000 000 11x --  2
+
+  San Diego            IP  H  R ER BB SO
+Cashner A             7.0 10  1  1  3  7
+Vincent N (L)         1.0  3  1  1  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Capuano C             7.0  8  1  1  1  7
+Wilson B (W)          1.0  2  0  0  0  0
+Jansen K (S)          1.0  0  0  0  0  3
+
+E -- Forsythe L
+DP -- Los Angeles 1
+LOB -- San Diego 8, Los Angeles 12
+2B -- Gyorko J, Rivera R, Crawford C, Ethier A, Cashner A, Schumaker S
+HR -- Cedeno R
+CS -- Puig Y, Ellis M
+SH -- Federowicz T
+T -- 2:53
+A -- 53121
+     Game of 9/1/2013 -- San Diego at Los Angeles (D)
+
+  San Diego          AB  R  H RBI    Los Angeles        AB  R  H RBI
+Venable W, rf         3  0  0  0   Crawford C, lf        3  1  2  0   
+Amarista A, 3b        3  0  1  1   Ellis M, 2b           4  0  2  1   
+Denorfia C, ph        1  0  0  0   Gonzalez A, 1b        4  0  0  0   
+Stauffer T, p         0  0  0  0   Puig Y, rf            4  1  2  1   
+Gyorko J, 2b          4  0  0  0   Ethier A, cf          4  0  0  0   
+Blanks K, 1b          4  0  0  0   Uribe J, 3b           3  0  0  0   
+Kotsay M, lf          4  0  1  0   Ellis A, c            3  0  0  0   
+Hundley N, c          3  0  0  0   Punto N, ss           2  0  0  0   
+Cedeno R, ss          3  0  0  0   Greinke Z, p          2  0  1  0   
+Fuentes R, cf         2  1  1  0   Hairston J, ph        1  0  0  0   
+Ross T, p             1  0  0  0   Belisario R, p        0  0  0  0   
+Thayer D, p           0  0  0  0   Rodriguez P, p        0  0  0  0   
+Hynes C, p            0  0  0  0   Jansen K, p           0  0  0  0   
+Guzman J, ph          1  0  0  0                                      
+Forsythe L, 3b        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  1  3  1                        30  2  7  2
+
+San Diego        001 000 000 --  1
+Los Angeles      001 001 00x --  2
+
+  San Diego            IP  H  R ER BB SO
+Ross T                5.0  5  1  1  1 10
+Thayer D (L)          1.2  1  1  1  1  2
+Hynes C               0.1  0  0  0  0  0
+Stauffer T            1.0  1  0  0  0  2
+
+  Los Angeles          IP  H  R ER BB SO
+Greinke Z (W)         7.0  2  1  1  2  7
+Belisario R           0.1  1  0  0  0  0
+Rodriguez P           0.2  0  0  0  0  1
+Jansen K (S)          1.0  0  0  0  0  2
+
+LOB -- San Diego 4, Los Angeles 6
+2B -- Crawford C
+HR -- Puig Y
+SB -- Fuentes R, Greinke Z
+CS -- Puig Y
+SH -- Ross T
+WP -- Belisario R
+T -- 2:58
+A -- 52168
+     Game of 9/9/2013 -- Arizona at Los Angeles (N)
+
+  Arizona            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Eaton A, cf           4  0  0  0   Puig Y, rf            4  0  1  0   
+Hill A, 2b            4  0  0  0   Crawford C, lf        4  0  0  0   
+Goldschmidt P, 1b     4  0  0  0   Van Slyke S, ph-lf    1  0  1  0   
+Chavez E, 3b          3  0  1  0   Ramirez H, ss         3  3  2  1   
+Prado M, lf           4  1  1  0   Marmol C, p           0  0  0  0   
+Montero M, c          4  0  0  0   Jansen K, p           0  0  0  0   
+Parra G, rf           3  0  1  0   Gonzalez A, 1b        4  1  2  2   
+Gregorius D, ss       3  0  1  1   Ethier A, cf          4  1  1  1   
+Bell H, p             0  0  0  0   Uribe J, 3b           4  3  4  4   
+Thatcher J, p         0  0  0  0   Ellis M, 2b           3  0  0  0   
+Davidson M, ph        1  0  0  0   Federowicz T, c       4  0  1  0   
+Delgado R, p          1  0  0  0   Nolasco R, p          2  0  0  0   
+Langwell M, p         0  0  0  0   Howell J, p           0  0  0  0   
+Nieves W, ph          1  0  0  0   Punto N, ss           1  0  0  0   
+de la Rosa E, p       0  0  0  0                                      
+Roe C, p              0  0  0  0                                      
+Sipp T, p             0  0  0  0                                      
+Owings C, ss          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  4  1                        34  8 12  8
+
+Arizona          000 010 000 --  1
+Los Angeles      023 020 10x --  8
+
+  Arizona              IP  H  R ER BB SO
+Delgado R (L)         2.2  7  5  5  1  2
+Langwell M            1.1  0  0  0  0  2
+de la Rosa E          0.2  2  2  2  0  1
+Roe C                 1.1  0  0  0  0  2
+Sipp T                0.2  1  1  1  1  1
+Bell H                1.0  1  0  0  1  2
+Thatcher J            0.1  1  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Nolasco R (W)         6.2  3  1  0  1  6
+Howell J              0.1  0  0  0  0  0
+Marmol C              1.0  0  0  0  1  1
+Jansen K              1.0  1  0  0  1  0
+
+E -- Delgado R, Uribe J
+LOB -- Arizona 7, Los Angeles 6
+2B -- Ramirez H, Gregorius D, Chavez E, Gonzalez A
+HR -- Ethier A, Uribe J 3, Gonzalez A, Ramirez H
+SH -- Nolasco R
+WP -- Marmol C, Thatcher J
+T -- 2:59
+A -- 52410
+     Game of 9/10/2013 -- Arizona at Los Angeles (N)
+
+  Arizona            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Bloomquist W, lf      5  0  0  0   Puig Y, rf            4  0  0  1   
+Eaton A, cf           5  0  0  0   Crawford C, lf        5  0  0  0   
+Goldschmidt P, 1b     5  1  2  0   Ramirez H, ss         3  1  0  0   
+Prado M, 2b           4  0  1  0   Gonzalez A, 1b        4  0  3  0   
+Montero M, c          4  0  1  1   Gordon D, pr          0  0  0  0   
+Davidson M, 3b        4  0  0  0   Young M, 1b           0  0  0  0   
+Parra G, rf           3  1  0  0   Ethier A, cf          4  0  1  1   
+Gregorius D, ss       4  1  1  2   Uribe J, 3b           4  1  0  0   
+Cahill T, p           2  0  0  0   Ellis A, c            5  0  0  0   
+Hernandez D, p        0  0  0  0   Ellis M, 2b           5  2  2  0   
+Pollock A, ph         1  0  0  0   Volquez E, p          2  0  0  0   
+Harris W, p           0  0  0  0   Hairston J, ph        1  0  0  0   
+Nieves W, ph          1  0  0  0   Rodriguez P, p        0  0  0  0   
+Collmenter J, p       0  0  0  0   Belisario R, p        0  0  0  0   
+                                   Jansen K, p           0  0  0  0   
+                                   Schumaker S, ph       1  0  0  0   
+                                   Howell J, p           0  0  0  0   
+                                   Withrow C, p          0  0  0  0   
+                                   Van Slyke S, ph       1  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     38  3  5  3                        39  5  7  4
+
+Arizona          000 120 000 00 --  3
+Los Angeles      020 010 000 02 --  5
+  1 out when winning run was scored.
+
+  Arizona              IP  H  R ER BB SO
+Cahill T              6.0  4  3  1  4  2
+Hernandez D           1.0  0  0  0  1  1
+Harris W              2.0  0  0  0  0  2
+Collmenter J (L)      1.1  3  2  2  1  1
+
+  Los Angeles          IP  H  R ER BB SO
+Volquez E             6.0  4  3  3  1  5
+Rodriguez P           1.0  0  0  0  0  1
+Belisario R           1.0  0  0  0  0  0
+Jansen K              1.0  1  0  0  0  2
+Howell J              0.2  0  0  0  0  0
+Withrow C (W)         1.1  0  0  0  0  1
+
+E -- Montero M, Gregorius D
+DP -- Los Angeles 1
+LOB -- Arizona 3, Los Angeles 9
+2B -- Goldschmidt P, Ethier A
+HR -- Gregorius D, Van Slyke S
+SB -- Puig Y, Gordon D
+WP -- Volquez E 2, Cahill T, Hernandez D, Collmenter J
+T -- 3:35
+A -- 41867
+     Game of 9/11/2013 -- Arizona at Los Angeles (N)
+
+  Arizona            AB  R  H RBI    Los Angeles        AB  R  H RBI
+Pollock A, cf         4  1  2  0   Puig Y, rf            4  1  2  1   
+Bloomquist W, lf      5  1  3  0   Punto N, 2b           4  0  1  0   
+Ziegler B, p          0  0  0  0   Marmol C, p           0  0  0  0   
+Goldschmidt P, 1b     5  0  4  2   Garcia O, p           0  0  0  0   
+Prado M, 3b           5  0  0  0   Moylan P, p           0  0  0  0   
+Hill A, 2b            4  0  2  0   Ramirez H, ss         4  0  2  0   
+Parra G, rf           4  1  1  0   Gonzalez A, 1b        3  0  0  0   
+Owings C, ss          3  0  1  0   Young M, 3b           4  0  0  0   
+Gosewisch T, c        4  1  2  1   Van Slyke S, lf       4  0  0  0   
+Corbin P, p           3  0  0  0   Ellis A, c            4  0  1  0   
+Roe C, p              0  0  0  0   Schumaker S, cf       3  0  1  0   
+Hernandez D, p        0  0  0  0   Ryu H, p              2  0  1  0   
+Eaton A, ph-lf        0  0  0  0   League B, p           0  0  0  0   
+                                   Wilson B, p           0  0  0  0   
+                                   Ellis M, ph-2b        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4 15  3                        34  1  8  1
+
+Arizona          210 000 100 --  4
+Los Angeles      000 000 100 --  1
+
+  Arizona              IP  H  R ER BB SO
+Corbin P (W)          6.1  8  1  1  2  2
+Roe C                 0.2  0  0  0  0  0
+Hernandez D           1.0  0  0  0  0  1
+Ziegler B (S)         1.0  0  0  0  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H (L)             6.0 10  3  3  0  1
+League B              0.1  2  1  1  1  1
+Wilson B              0.2  1  0  0  0  0
+Marmol C              1.0  0  0  0  1  2
+Garcia O*             0.0  0  0  0  1  0
+Moylan P              1.0  2  0  0  0  0
+  * Pitched to 1 batter in 9th
+
+E -- Van Slyke S
+DP -- Arizona 1, Los Angeles 4
+LOB -- Arizona 9, Los Angeles 8
+2B -- Parra G, Gosewisch T 2, Ellis A, Ramirez H
+HR -- Puig Y
+SB -- Owings C
+CS -- Eaton A
+T -- 3:05
+A -- 40818
+     Game of 9/12/2013 -- San Francisco at Los Angeles (N)
+
+  San Francisco      AB  R  H RBI    Los Angeles        AB  R  H RBI
+Pagan A, cf           5  0  2  0   Puig Y, rf            4  0  1  1   
+Scutaro M, 2b         3  0  1  0   Crawford C, lf        5  1  1  0   
+Belt B, 1b            3  0  0  0   Ramirez H, ss         3  0  1  0   
+Posey B, c            4  0  0  0   Punto N, ss           1  0  0  0   
+Pence H, rf           5  1  1  1   Gonzalez A, 1b        4  0  1  1   
+Sandoval P, 3b        3  0  1  0   Ethier A, cf          4  0  1  0   
+Perez J, pr           0  1  0  0   Uribe J, 3b           4  1  1  0   
+Arias J, 3b           0  0  0  0   Ellis A, c            3  0  1  0   
+Crawford B, ss        4  0  0  0   Gordon D, pr          0  1  0  0   
+Blanco G, lf          4  0  3  1   Federowicz T, c       1  0  0  0   
+Cain M, p             3  0  0  0   Ellis M, 2b           3  0  1  1   
+Lopez J, p            0  0  0  0   Greinke Z, p          2  0  1  0   
+Rosario S, p          0  0  0  0   Howell J, p           0  0  0  0   
+Sanchez H, ph         1  0  1  0   Hairston J, ph        1  0  0  0   
+Peguero F, pr         0  0  0  0   Withrow C, p          0  0  0  0   
+Casilla S, p          0  0  0  0   Rodriguez P, p        0  0  0  0   
+Affeldt J, p          0  0  0  0   Belisario R, p        0  0  0  0   
+                                   Jansen K, p           0  0  0  0   
+                                   Young M, ph           1  0  0  0   
+                                   Wilson B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2  9  2                        36  3  9  3
+
+San Francisco    010 000 001 0 --  2
+Los Angeles      010 000 100 1 --  3
+  1 out when winning run was scored.
+
+  San Francisco        IP  H  R ER BB SO
+Cain M                7.0  6  2  1  1  5
+Lopez J               0.2  0  0  0  1  0
+Rosario S             0.1  0  0  0  0  0
+Casilla S             1.0  1  0  0  0  1
+Affeldt J (L)         0.1  2  1  1  0  0
+
+  Los Angeles          IP  H  R ER BB SO
+Greinke Z             6.0  4  1  1  2  5
+Howell J              1.0  1  0  0  0  2
+Withrow C*            0.0  1  0  0  1  0
+Rodriguez P           0.1  0  0  0  1  0
+Belisario R           0.2  0  0  0  0  0
+Jansen K              1.0  3  1  1  0  0
+Wilson B (W)          1.0  0  0  0  1  0
+  * Pitched to 2 batters in 8th
+
+E -- Cain M
+DP -- Los Angeles 2
+LOB -- San Francisco 9, Los Angeles 9
+2B -- Puig Y, Sanchez H
+HR -- Pence H
+SB -- Gordon D, Pagan A, Perez J
+CS -- Blanco G 2
+SH -- Ellis M, Belt B, Punto N
+PB -- Federowicz T
+T -- 3:53
+A -- 53393
+     Game of 9/13/2013 -- San Francisco at Los Angeles (N)
+
+  San Francisco      AB  R  H RBI    Los Angeles        AB  R  H RBI
+Pagan A, cf           4  0  1  0   Puig Y, rf-cf         5  0  1  0   
+Scutaro M, 2b         4  0  1  0   Punto N, ss           5  0  1  0   
+Posey B, c            4  0  0  0   Young M, 1b           3  1  2  0   
+Pence H, rf           4  2  2  1   Gonzalez A, ph-1b     2  0  0  0   
+Sandoval P, 3b        4  1  2  0   Uribe J, 3b           4  1  2  2   
+Casilla S, p          0  0  0  0   Van Slyke S, lf       2  0  0  0   
+Lopez J, p            0  0  0  0   Crawford C, ph-lf     1  0  0  0   
+Romo S, p             0  0  0  0   Ethier A, cf          3  0  1  0   
+Arias J, ss-3b        4  1  2  1   Gordon D, pr          0  0  0  0   
+Pill B, 1b            4  0  1  2   Marmol C, p           0  0  0  0   
+Perez J, lf           4  0  0  0   Ellis A, c            3  0  0  0   
+Bumgarner M, p        2  0  0  0   Ellis M, 2b           3  0  2  0   
+Sanchez H, ph         1  0  0  0   Kershaw C, p          1  0  0  0   
+Dunning J, p          0  0  0  0   Schumaker S, ph       1  0  0  0   
+Machi J, p            0  0  0  0   Withrow C, p          0  0  0  0   
+Crawford B, ss        0  0  0  0   Hairston J, rf        1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        34  2 10  2
+
+San Francisco    000 000 310 --  4
+Los Angeles      000 002 000 --  2
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (W)       6.0  5  2  2  2  6
+Dunning J             0.1  1  0  0  1  1
+Machi J               0.2  0  0  0  0  1
+Casilla S*            0.0  1  0  0  0  0
+Lopez J               0.2  1  0  0  0  0
+Romo S (S)            1.1  2  0  0  0  1
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (L)         7.0  8  3  2  0  6
+Withrow C             1.0  1  1  1  0  1
+Marmol C              1.0  0  0  0  0  2
+  * Pitched to 1 batter in 8th
+
+E -- Van Slyke S
+DP -- San Francisco 2, Los Angeles 1
+LOB -- San Francisco 4, Los Angeles 10
+2B -- Pagan A, Ethier A
+HR -- Uribe J, Pence H
+SH -- Kershaw C
+HBP -- by Bumgarner M (Ethier A)
+WP -- Kershaw C
+T -- 3:24
+A -- 52650
+     Game of 9/14/2013 -- San Francisco at Los Angeles (N)
+
+  San Francisco      AB  R  H RBI    Los Angeles        AB  R  H RBI
+Pagan A, cf           4  2  1  0   Puig Y, cf            1  2  1  0   
+Peguero F, lf-rf      2  0  1  0   Garcia O, p           0  0  0  0   
+Blanco G, lf-cf       4  3  3  1   Butera D, c           2  0  0  0   
+Kontos G, p           0  0  0  0   Crawford C, lf        1  0  0  0   
+Abreu T, ph           1  0  0  0   Buss N, ph-lf         3  0  1  0   
+Kickham M, p          0  0  0  0   Gonzalez A, 1b        3  0  1  2   
+Belt B, 1b            6  4  5  6   Gordon D, 2b          1  0  1  0   
+Posey B, c            3  2  1  0   Uribe J, 3b           3  0  0  0   
+Kieschnick R, lf      1  0  0  0   Hairston J, 1b        1  0  0  0   
+Pence H, rf           5  2  3  7   Ellis M, 2b           3  0  0  0   
+Arias J, 3b           1  0  0  0   Young M, 3b           1  0  0  0   
+Sandoval P, 3b        5  0  1  2   Schumaker S, rf-cf    3  0  2  0   
+Hembree H, p          0  0  0  0   Federowicz T, c       3  0  0  0   
+Perez J, cf           1  1  1  0   Moylan P, p           0  0  0  0   
+Crawford B, ss        2  0  0  1   League B, p           0  0  0  0   
+Adrianza E, ph-ss     3  1  1  1   Ellis A, ph           1  0  0  0   
+Noonan N, 2b          5  1  2  0   Punto N, ss           4  0  1  0   
+Lincecum T, p         4  2  2  0   Nolasco R, p          0  0  0  0   
+Monell J, c           2  1  1  1   Howell J, p           0  0  0  0   
+                                   Fife S, p             1  0  0  0   
+                                   Castellanos A, ph-rf  3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     49 19 22 19                        34  3  8  3
+
+San Francisco    341 040 232 -- 19
+Los Angeles      100 020 000 --  3
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (W)        6.0  5  3  3  2  6
+Hembree H             1.0  0  0  0  0  2
+Kontos G              1.0  1  0  0  0  0
+Kickham M             1.0  2  0  0  0  2
+
+  Los Angeles          IP  H  R ER BB SO
+Nolasco R (L)         1.1  7  7  5  3  0
+Howell J              0.2  0  0  0  0  1
+Fife S                3.0  6  5  5  1  2
+Garcia O*             1.0  1  2  2  3  1
+Moylan P              2.0  4  3  3  0  0
+League B              1.0  4  2  2  0  0
+  * Pitched to 3 batters in 7th
+
+E -- Uribe J, Puig Y, Young M
+DP -- San Francisco 1, Los Angeles 2
+LOB -- San Francisco 10, Los Angeles 7
+2B -- Pagan A, Sandoval P, Belt B, Perez J, Adrianza E, Punto N
+HR -- Pence H, Castellanos A, Belt B
+HBP -- by Lincecum T (Puig Y)
+WP -- Fife S
+T -- 3:26
+A -- 53062
+     Game of 9/15/2013 -- San Francisco at Los Angeles (D)
+
+  San Francisco      AB  R  H RBI    Los Angeles        AB  R  H RBI
+Blanco G, cf-lf       3  0  1  0   Gordon D, ss          4  1  2  0   
+Pill B, ph            1  1  1  1   Ellis M, 2b           4  1  2  0   
+Peguero F, lf         0  0  0  0   Gonzalez A, 1b        3  0  1  3   
+Scutaro M, 2b         2  0  0  0   Uribe J, 3b           4  0  1  0   
+Noonan N, 2b          1  0  0  0   Belisario R, p        0  0  0  0   
+Arias J, ph-2b        1  0  0  0   Puig Y, ph            1  0  0  0   
+Belt B, 1b            4  1  1  0   Schumaker S, cf       4  0  1  0   
+Pence H, rf           3  2  2  3   Hairston J, lf        4  0  0  0   
+Sandoval P, 3b        4  0  0  0   Ellis A, c            4  0  0  0   
+Sanchez H, c          4  0  1  0   Buss N, rf            4  0  1  0   
+Crawford B, ss        3  0  0  0   Volquez E, p          2  1  1  0   
+Perez J, lf           2  0  0  0   Howell J, p           0  0  0  0   
+Pagan A, ph-cf        2  0  0  0   Wilson B, p           0  0  0  0   
+Vogelsong R, p        2  0  0  0   Young M, ph           1  0  0  0   
+Monell J, ph          1  0  0  0   Rodriguez P, p        0  0  0  0   
+Machi J, p            0  0  0  0   Punto N, 3b           0  0  0  0   
+Casilla S, p          0  0  0  0                                      
+Romo S, p             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  4  6  4                        35  3  9  3
+
+San Francisco    010 002 010 --  4
+Los Angeles      000 030 000 --  3
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R           6.0  7  3  3  0  2
+Machi J (W)           1.0  0  0  0  2  1
+Casilla S             1.0  0  0  0  0  1
+Romo S (S)            1.0  2  0  0  1  1
+
+  Los Angeles          IP  H  R ER BB SO
+Volquez E             5.2  5  3  3  0  7
+Howell J              0.2  0  0  0  1  0
+Wilson B              0.2  0  0  0  0  1
+Rodriguez P (L)       0.2  1  1  1  0  0
+Belisario R           1.1  0  0  0  1  0
+
+E -- Machi J
+LOB -- San Francisco 4, Los Angeles 10
+2B -- Ellis M, Gonzalez A
+3B -- Uribe J
+HR -- Pence H 2, Pill B
+SB -- Blanco G, Gordon D
+SH -- Punto N
+HBP -- by Vogelsong R (Ellis M)
+WP -- Volquez E
+T -- 3:21
+A -- 47302
+     Game of 9/27/2013 -- Colorado at Los Angeles (N)
+
+  Colorado           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Blackmon C, cf        4  0  0  0   Puig Y, rf            3  1  0  0   
+LeMahieu D, 2b        4  0  1  0   Van Slyke S, rf-1b    0  0  0  0   
+Tulowitzki T, ss      3  0  1  0   Crawford C, lf        5  1  2  3   
+Corpas M, p           0  0  0  0   Capuano C, p          0  0  0  0   
+Boggs M, p            0  0  0  0   League B, p           0  0  0  0   
+Herrera J, ph         1  0  1  0   Kemp M, cf            4  2  0  0   
+Cuddyer M, rf         4  0  0  0   Gonzalez A, 1b        3  2  2  1   
+Arenado N, 3b         3  0  0  0   Castellanos A, rf     1  0  0  0   
+Helton T, 1b          3  0  0  0   Uribe J, 3b           4  2  3  2   
+Wheeler R, 1b         0  0  0  0   Ellis A, c            4  2  2  3   
+Culberson C, lf       2  0  1  0   Marmol C, p           0  0  0  0   
+Manship J, p          0  0  0  0   Buss N, lf            1  0  0  0   
+Rutledge J, ss        1  0  0  0   Ellis M, 2b           5  0  3  2   
+Pacheco J, c          3  0  0  0   Gordon D, ss          4  0  1  0   
+McHugh C, p           1  0  1  0   Kershaw C, p          3  1  1  0   
+Dickerson C, lf       2  0  0  0   Butera D, c           1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  5  0                        38 11 15 11
+
+Colorado         000 000 000 --  0
+Los Angeles      401 321 00x -- 11
+
+  Colorado             IP  H  R ER BB SO
+McHugh C (L)          4.0  9  8  8  1  3
+Manship J             1.2  5  3  3  2  1
+Corpas M              1.1  1  0  0  1  1
+Boggs M               1.0  0  0  0  1  0
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (W)         6.0  4  0  0  0  8
+Marmol C              1.0  0  0  0  0  1
+Capuano C             1.0  0  0  0  0  2
+League B              1.0  1  0  0  0  0
+
+E -- Blackmon C 2, Pacheco J
+DP -- Colorado 1
+LOB -- Colorado 4, Los Angeles 8
+2B -- Uribe J, Gordon D
+HR -- Gonzalez A, Crawford C, Ellis A
+SB -- Uribe J
+T -- 2:53
+A -- 52367
+     Game of 9/28/2013 -- Colorado at Los Angeles (N)
+
+  Colorado           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Blackmon C, rf        4  0  1  0   Schumaker S, cf       4  0  0  0   
+Culberson C, lf       4  0  0  0   Ellis A, c            4  0  0  0   
+Dickerson C, cf       4  0  0  0   Ramirez H, ss         3  0  1  0   
+Tulowitzki T, ss      4  1  1  0   Gordon D, pr-ss       0  0  0  0   
+Helton T, 1b          4  0  0  0   Gonzalez A, 1b        3  0  0  0   
+Arenado N, 3b         4  0  2  1   Uribe J, 3b           3  0  1  0   
+Pacheco J, c          3  0  1  0   Van Slyke S, lf       3  0  0  0   
+Herrera J, 2b         2  0  0  0   Young M, 2b           4  0  1  0   
+Nicasio J, p          2  0  0  0   Buss N, rf            3  0  0  0   
+Outman J, p           0  0  0  0   Ellis M, ph           1  0  0  0   
+Ottavino A, p         0  0  0  0   Greinke Z, p          2  0  0  0   
+Rutledge J, ph        1  0  0  0   Belisario R, p        0  0  0  0   
+Belisle M, p          0  0  0  0   Puig Y, ph            1  0  0  0   
+Bettis C, p           0  0  0  0   Rodriguez P, p        0  0  0  0   
+Brothers R, p         0  0  0  0   Wilson B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  5  1                        31  0  3  0
+
+Colorado         000 100 000 --  1
+Los Angeles      000 000 000 --  0
+
+  Colorado             IP  H  R ER BB SO
+Nicasio J (W)         5.1  3  0  0  1  7
+Outman J*             0.0  0  0  0  1  0
+Ottavino A            0.2  0  0  0  0  0
+Belisle M             1.0  0  0  0  0  2
+Bettis C              0.2  0  0  0  1  1
+Brothers R (S)        1.1  0  0  0  1  1
+
+  Los Angeles          IP  H  R ER BB SO
+Greinke Z (L)         6.0  4  1  1  0  7
+Belisario R           1.0  1  0  0  1  0
+Rodriguez P           1.0  0  0  0  0  2
+Wilson B              1.0  0  0  0  0  0
+  * Pitched to 1 batter in 6th
+
+E -- Herrera J
+LOB -- Colorado 5, Los Angeles 8
+2B -- Young M, Tulowitzki T, Arenado N, Uribe J
+WP -- Belisario R
+T -- 3:11
+A -- 52879
+     Game of 9/29/2013 -- Colorado at Los Angeles (D)
+
+  Colorado           AB  R  H RBI    Los Angeles        AB  R  H RBI
+Blackmon C, cf        4  1  2  1   Puig Y, rf            2  0  0  0   
+Rutledge J, 2b        4  0  1  0   Capuano C, p          0  0  0  0   
+Helton T, 1b          4  0  1  0   Butera D, 1b          1  0  0  0   
+Tulowitzki T, ss      4  0  1  1   Crawford C, lf        2  0  0  0   
+Cuddyer M, rf         5  0  1  0   Nolasco R, p          0  0  0  0   
+Arenado N, 3b         4  0  0  0   Castellanos A, ph-rf  2  0  0  0   
+Culberson C, lf       3  1  1  0   Young M, ss-3b        3  0  0  0   
+Pacheco J, c          4  0  2  0   Gonzalez A, 1b        3  0  0  0   
+Francis J, p          1  0  1  0   Withrow C, p          0  0  0  0   
+Herrera J, ph         1  0  1  0   Gordon D, ss          1  0  0  0   
+Oswalt R, p           0  0  0  0   Ellis M, 2b           3  1  1  0   
+Ottavino A, p         0  0  0  0   Uribe J, 3b           3  0  1  0   
+Wheeler R, ph         1  0  0  0   Wilson B, p           0  0  0  0   
+Bettis C, p           0  0  0  0   Howell J, p           0  0  0  0   
+Brothers R, p         0  0  0  0   Jansen K, p           0  0  0  0   
+                                   Buss N, ph            0  0  0  0   
+                                   Ellis A, c            2  0  1  0   
+                                   Federowicz T, c       2  0  0  0   
+                                   Schumaker S, cf       4  0  1  1   
+                                   Ryu H, p              1  0  0  0   
+                                   Van Slyke S, lf       2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2 11  2                        31  1  5  1
+
+Colorado         100 100 000 --  2
+Los Angeles      000 010 000 --  1
+
+  Colorado             IP  H  R ER BB SO
+Francis J (W)         5.0  3  1  1  2  6
+Oswalt R              1.0  0  0  0  0  1
+Ottavino A            1.0  0  0  0  0  2
+Bettis C              1.0  1  0  0  0  1
+Brothers R (S)        1.0  1  0  0  2  3
+
+  Los Angeles          IP  H  R ER BB SO
+Ryu H (L)             4.0  8  2  2  1  4
+Nolasco R             1.0  1  0  0  0  1
+Capuano C             1.0  2  0  0  0  1
+Withrow C             1.0  0  0  0  1  1
+Wilson B              0.1  0  0  0  1  1
+Howell J              0.2  0  0  0  0  0
+Jansen K              1.0  0  0  0  2  2
+
+DP -- Colorado 1, Los Angeles 2
+LOB -- Colorado 12, Los Angeles 7
+2B -- Francis J, Ellis A
+SB -- Rutledge J
+CS -- Van Slyke S
+SH -- Francis J
+PB -- Pacheco J
+T -- 3:08
+A -- 52396
+

@@ -1,8 +1,8 @@
 #! venv/bin/python 
 
+from datetime import date
+import retrosheet
 from data import Data as data
-import datetime
-date = datetime.date
 
 class Player(object):
     """
@@ -83,8 +83,16 @@ class Player(object):
         """
         date: date(year, month, day) | a date in the year
 
-        Returns: Boolean | True if player hot a hit on the given date, False otherwise
+        Returns: Boolean | True if player got a hit on the given date, False otherwise 
+            Assumes necessary retrosheet files have been extracted (done by simulation)
         """
+        # open relevant boxscore
+            # find out which team he is on
+                # -> need to make rosters
+            # open up that teams boxscore
+        # go to relevant lien in boxscore using given date
+        # go to relevant line in game by using player's name
+        # check the hit column. If its greater than 0, return True. Otherwise return false
         return False
     
     def get_index(self):
@@ -124,7 +132,8 @@ def main():
     assert p2.did_start(date(2012, 4, 15)) == True
 
     # Test: did_get_hit
-        ## WRITE TEST
+    assert p1.did_get_hit(date(2012, 5, 2)) == False
+    assert p1.did_get_hit(date(2012, 6, 15)) == True
 
     # Test: get_index
     assert p1.get_index() == 1

@@ -1,0 +1,914 @@
+     Game of 4/1/2013 -- Kansas City at Chicago (D)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Gordon A, lf          3  0  0  0   de Aza A, cf          4  0  0  0   
+Escobar A, ss         4  0  2  0   Keppinger J, 3b       4  0  1  0   
+Butler B, dh          3  0  1  0   Rios A, rf            3  0  2  0   
+Dyson J, pr           0  0  0  0   Dunn A, dh            4  0  0  0   
+Moustakas M, 3b       4  0  0  0   Konerko P, 1b         4  0  0  0   
+Perez S, c            4  0  1  0   Gillaspie C, 1b       0  0  0  0   
+Hosmer E, 1b          3  0  1  0   Viciedo D, lf         4  0  1  0   
+Cain L, cf            4  0  0  0   Ramirez A, ss         3  0  2  0   
+Francoeur J, rf       4  0  2  0   Flowers T, c          3  1  1  1   
+Getz C, 2b            3  0  0  0   Beckham G, 2b         3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  0  7  0                        32  1  8  1
+
+Kansas City      000 000 000 --  0
+Chicago          000 010 00x --  1
+
+  Kansas City          IP  H  R ER BB SO
+Shields J (L)         6.0  8  1  1  0  6
+Crow A                1.0  0  0  0  0  1
+Herrera K             1.0  0  0  0  1  2
+
+  Chicago              IP  H  R ER BB SO
+Sale C (W)            7.2  7  0  0  1  7
+Jones N*              0.0  0  0  0  1  0
+Thornton M            0.1  0  0  0  0  1
+Reed A (S)            1.0  0  0  0  1  1
+  * Pitched to 1 batter in 8th
+
+DP -- Chicago 2
+LOB -- Kansas City 8, Chicago 8
+HR -- Flowers T
+SB -- Escobar A, Rios A, Hosmer E
+WP -- Jones N
+T -- 2:38
+A -- 39012
+     Game of 4/3/2013 -- Kansas City at Chicago (D)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Gordon A, lf          4  1  1  0   de Aza A, cf          3  0  0  0   
+Escobar A, ss         4  0  1  0   Keppinger J, 3b       4  0  0  0   
+Butler B, dh          4  0  0  1   Rios A, rf            4  0  1  0   
+Moustakas M, 3b       4  0  1  0   Dunn A, dh            3  2  2  1   
+Perez S, c            4  0  1  0   Konerko P, 1b         4  0  1  0   
+Hosmer E, 1b          4  0  0  0   Gillaspie C, 1b       0  0  0  0   
+Cain L, cf            4  0  1  0   Viciedo D, lf         3  1  1  2   
+Francoeur J, rf       4  0  0  0   Wise D, lf            0  0  0  0   
+Getz C, 2b            2  1  0  0   Ramirez A, ss         3  1  1  1   
+Tejada M, ph-2b       0  0  0  0   Flowers T, c          3  1  2  1   
+                                   Beckham G, 2b         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  5  1                        29  5  8  5
+
+Kansas City      001 001 000 --  2
+Chicago          011 200 10x --  5
+
+  Kansas City          IP  H  R ER BB SO
+Santana E (L)         6.0  5  4  4  1  8
+Hochevar L            1.0  2  1  1  1  0
+Gutierrez J           1.0  1  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Peavy J (W)           6.0  4  2  1  0  6
+Crain J               0.1  1  0  0  0  1
+Veal D                0.1  0  0  0  1  0
+Lindstrom M           0.2  0  0  0  0  0
+Thornton M            0.2  0  0  0  0  0
+Reed A (S)            1.0  0  0  0  0  0
+
+E -- Ramirez A, Viciedo D, Wise D
+DP -- Kansas City 1
+LOB -- Kansas City 6, Chicago 3
+2B -- Gordon A, Moustakas M, Konerko P
+HR -- Dunn A, Flowers T, Viciedo D, Ramirez A
+SH -- de Aza A
+T -- 2:46
+A -- 14213
+     Game of 4/4/2013 -- Kansas City at Chicago (D)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Gordon A, lf          4  0  2  1   de Aza A, cf          5  0  1  1   
+Escobar A, ss         4  0  0  0   Keppinger J, 3b       4  0  0  0   
+Butler B, dh          4  0  0  0   Rios A, rf            4  0  2  0   
+Moustakas M, 3b       3  0  0  0   Dunn A, dh            4  0  0  0   
+Perez S, c            4  0  1  0   Konerko P, 1b         4  0  0  0   
+Hosmer E, 1b          2  1  0  0   Viciedo D, lf         4  0  0  0   
+Francoeur J, rf       3  1  1  0   Ramirez A, ss         4  0  0  0   
+Dyson J, cf           3  0  0  1   Flowers T, c          1  1  1  0   
+Getz C, 2b            3  1  1  1   Gillaspie C, pr       0  0  0  0   
+                                   Beckham G, 2b         4  0  4  0   
+                     -- -- -- --                        -- -- -- --
+                     30  3  5  3                        34  1  8  1
+
+Kansas City      000 030 000 --  3
+Chicago          000 010 000 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Guthrie J (W)         6.0  5  1  1  1  9
+Crow A                1.0  2  0  0  0  0
+Herrera K             1.0  0  0  0  0  2
+Holland G (S)         1.0  1  0  0  1  1
+
+  Chicago              IP  H  R ER BB SO
+Floyd G (L)           6.0  4  3  2  1  5
+Santiago H            3.0  1  0  0  1  2
+
+E -- de Aza A
+DP -- Kansas City 1, Chicago 2
+LOB -- Kansas City 3, Chicago 9
+2B -- Perez S, Gordon A
+HBP -- by Guthrie J (Flowers T), by Santiago H (Hosmer E)
+T -- 2:45
+A -- 15036
+     Game of 4/5/2013 -- Seattle at Chicago (N)
+
+  Seattle            AB  R  H RBI    Chicago            AB  R  H RBI
+Gutierrez F, cf       5  3  3  3   de Aza A, cf-lf       5  1  2  2   
+Saunders M, rf        2  1  1  1   Keppinger J, 3b       5  0  0  0   
+Morales K, 1b         5  0  2  2   Rios A, rf            4  2  1  2   
+Andino R, pr          0  1  0  0   Dunn A, dh            5  1  1  0   
+Smoak J, 1b           0  0  0  0   Konerko P, 1b         4  0  1  1   
+Morse M, dh           5  0  1  0   Gillaspie C, pr       0  0  0  0   
+Montero J, c          5  0  1  1   Viciedo D, lf         4  0  0  0   
+Seager K, 3b          4  0  1  0   Wise D, cf            1  0  1  1   
+Bay J, lf             4  1  1  0   Ramirez A, ss         4  1  2  0   
+Ackley D, 2b          4  1  0  0   Flowers T, c          5  1  1  0   
+Ryan B, ss            4  1  2  1   Beckham G, 2b         3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     38  8 12  8                        40  7 10  7
+
+Seattle          100 050 000 2 --  8
+Chicago          000 140 100 1 --  7
+
+  Seattle              IP  H  R ER BB SO
+Beavan B              5.0  6  5  5  0  2
+Capps C*              1.0  2  1  1  0  2
+Luetge L+             0.0  1  0  0  0  0
+Pryor S               2.0  0  0  0  0  0
+Loe K (W)             1.0  0  0  0  0  0
+Wilhelmsen T (S)      1.0  1  1  1  3  1
+
+  Chicago              IP  H  R ER BB SO
+Quintana J#           4.0  8  6  5  2  3
+Lindstrom M           2.1  0  0  0  0  2
+Veal D                0.2  0  0  0  1  0
+Crain J               1.0  0  0  0  0  1
+Jones N (L)           2.0  4  2  2  0  3
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 7th
+  # Pitched to 7 batters in 5th
+
+E -- Seager K, Quintana J
+DP -- Chicago 2
+LOB -- Seattle 4, Chicago 7
+2B -- Bay J, Gutierrez F, Flowers T, Morales K, Seager K
+3B -- Saunders M
+HR -- Gutierrez F, de Aza A, Rios A
+SB -- Rios A, Ryan B, Dunn A, Ramirez A
+CS -- Seager K
+SH -- Saunders M
+SF -- Beckham G
+WP -- Wilhelmsen T
+T -- 3:42
+A -- 15312
+     Game of 4/6/2013 -- Seattle at Chicago (D)
+
+  Seattle            AB  R  H RBI    Chicago            AB  R  H RBI
+Saunders M, cf        4  1  1  2   de Aza A, lf          3  1  1  1   
+Seager K, 3b          3  0  0  0   Wise D, cf            4  0  0  0   
+Morales K, dh         4  0  1  0   Rios A, rf            3  1  1  2   
+Bay J, pr             0  0  0  0   Dunn A, dh            4  0  1  0   
+Morse M, rf           3  0  1  0   Keppinger J, 1b       4  0  0  0   
+Ibanez R, lf          4  1  1  0   Gillaspie C, 3b       3  2  2  0   
+Smoak J, 1b           4  0  1  0   Ramirez A, ss         3  0  1  0   
+Ackley D, 2b          3  0  0  0   Gimenez H, c          1  0  0  1   
+Shoppach K, c         3  0  0  0   Beckham G, 2b         3  0  0  0   
+Gutierrez F, ph       1  0  0  0                                      
+Ryan B, ss            3  1  1  0                                      
+Montero J, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  2                        28  4  6  4
+
+Seattle          010 000 020 --  3
+Chicago          000 012 10x --  4
+
+  Seattle              IP  H  R ER BB SO
+Hernandez F (L)       6.1  6  4  4  2  3
+Furbush C             0.2  0  0  0  0  1
+Pryor S               1.0  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Axelrod D             5.2  3  1  0  2  3
+Veal D (W)            1.0  0  0  0  0  2
+Jones N*              0.1  1  1  1  0  0
+Thornton M            0.1  2  1  1  0  0
+Crain J               0.2  0  0  0  1  1
+Reed A (S)            1.0  0  0  0  0  2
+  * Pitched to 1 batter in 8th
+
+E -- Keppinger J, Seager K
+DP -- Seattle 1, Chicago 1
+LOB -- Seattle 6, Chicago 4
+2B -- Ibanez R, Ramirez A
+3B -- Gillaspie C
+HR -- Rios A, Saunders M
+SF -- Gimenez H, de Aza A
+WP -- Hernandez F
+PB -- Gimenez H
+T -- 3:07
+A -- 22461
+     Game of 4/7/2013 -- Seattle at Chicago (D)
+
+  Seattle            AB  R  H RBI    Chicago            AB  R  H RBI
+Gutierrez F, cf       5  0  0  0   de Aza A, cf          4  0  0  0   
+Bay J, lf             2  1  0  0   Ramirez A, ss         4  1  1  0   
+Saunders M, ph-rf     2  0  1  0   Rios A, rf            4  1  1  1   
+Morales K, dh         4  1  3  1   Dunn A, 1b            4  1  1  2   
+Morse M, rf-lf        5  1  1  2   Konerko P, dh         4  0  0  0   
+Montero J, c          4  0  0  0   Viciedo D, lf         4  1  1  1   
+Smoak J, 1b           3  0  1  0   Gillaspie C, 3b       3  0  1  0   
+Seager K, 3b          4  0  0  0   Flowers T, c          3  0  0  0   
+Andino R, 2b-ss       4  0  1  0   Beckham G, 2b         3  0  0  0   
+Ryan B, ss            3  0  0  0                                      
+Ackley D, ph-2b       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  3  7  3                        33  4  5  4
+
+Seattle          200 001 000 0 --  3
+Chicago          200 000 100 1 --  4
+  1 out when winning run was scored.
+
+  Seattle              IP  H  R ER BB SO
+Iwakuma H             8.0  4  3  3  0  3
+Perez O               0.1  0  0  0  0  0
+Capps C               0.1  0  0  0  0  2
+Luetge L              0.1  0  0  0  0  0
+Loe K (L)             0.1  1  1  1  0  0
+
+  Chicago              IP  H  R ER BB SO
+Sale C                7.0  5  3  3  2  7
+Lindstrom M           1.0  1  0  0  0  2
+Crain J               1.0  0  0  0  0  1
+Reed A (W)            1.0  1  0  0  1  1
+
+E -- Beckham G
+DP -- Seattle 1
+LOB -- Seattle 7, Chicago 1
+2B -- Ramirez A, Morales K, Andino R, Saunders M
+HR -- Morse M, Dunn A, Morales K, Rios A, Viciedo D
+WP -- Capps C
+T -- 2:52
+A -- 18708
+     Game of 4/20/2013 -- Minnesota at Chicago (D)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Dozier B, 2b          6  1  2  0   de Aza A, lf          5  1  1  1   
+Mauer J, c            4  0  2  0   Keppinger J, 2b-1b    5  0  0  0   
+Willingham J, lf      4  0  1  1   Rios A, rf            3  0  0  0   
+Morneau J, 1b         4  0  0  0   Dunn A, dh            4  0  0  0   
+Parmelee C, rf        3  0  1  0   Konerko P, 1b         4  0  2  0   
+Plouffe T, 3b         4  0  0  0   Greene T, pr-2b       0  0  0  0   
+Arcia O, dh           3  0  0  0   Gillaspie C, 3b       4  0  0  0   
+Doumit R, ph          1  1  1  0   Ramirez A, ss         4  0  1  0   
+Hicks A, cf           3  0  0  0   Danks J, cf           3  0  1  0   
+Florimon P, ss        3  0  0  0   Gimenez H, ph         1  0  0  0   
+Ramirez W, ph         1  0  0  0   Flowers T, c          2  0  1  0   
+Escobar E, ss         1  0  1  0   Tekotte B, pr         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  2  8  1                        35  1  6  1
+
+Minnesota        001 000 000 1 --  2
+Chicago          100 000 000 0 --  1
+
+  Minnesota            IP  H  R ER BB SO
+Worley V              7.0  5  1  1  2  7
+Burton J              1.0  0  0  0  0  2
+Duensing B            0.2  1  0  0  0  1
+Fien C (W)            0.1  0  0  0  0  1
+Perkins G (S)         1.0  0  0  0  1  2
+
+  Chicago              IP  H  R ER BB SO
+Peavy J               7.0  6  1  1  4  9
+Lindstrom M           0.1  0  0  0  1  0
+Veal D*               0.0  0  0  0  1  0
+Jones N               0.2  0  0  0  1  0
+Crain J               0.1  0  0  0  1  0
+Thornton M            0.2  0  0  0  0  0
+Santiago H (L)        1.0  2  1  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Ramirez A
+DP -- Minnesota 1
+LOB -- Minnesota 15, Chicago 7
+2B -- Parmelee C, Doumit R
+HR -- de Aza A
+CS -- Flowers T
+SH -- Plouffe T
+HBP -- by Thornton M (Parmelee C)
+T -- 3:34
+A -- 22417
+     Game of 4/21/2013 -- Minnesota at Chicago (D)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Carroll J, 2b         5  2  2  0   de Aza A, lf          4  2  2  0   
+Mauer J, dh           3  1  0  0   Keppinger J, 2b       3  0  0  2   
+Willingham J, lf      4  0  2  3   Rios A, rf            3  0  0  0   
+Morneau J, 1b         3  0  0  1   Konerko P, 1b         4  0  1  0   
+Doumit R, c           4  0  0  0   Dunn A, dh            4  1  1  1   
+Plouffe T, 3b         3  1  0  0   Ramirez A, ss         3  0  0  0   
+Arcia O, rf           3  0  0  0   Gillaspie C, 3b       3  0  0  0   
+Hicks A, cf           3  1  1  1   Flowers T, c          2  0  1  0   
+Escobar E, ss         4  0  1  0   Wise D, cf            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  6  5                        29  3  5  3
+
+Minnesota        000 001 400 --  5
+Chicago          000 101 100 --  3
+
+  Minnesota            IP  H  R ER BB SO
+Diamond S (W)         6.0  4  2  1  2  5
+Roenicke J            1.0  1  1  1  0  1
+Burton J              1.0  0  0  0  0  2
+Perkins G (S)         1.0  0  0  0  0  2
+
+  Chicago              IP  H  R ER BB SO
+Floyd G               6.0  3  1  1  3  6
+Lindstrom M (L)       0.2  2  3  3  1  1
+Veal D*               0.0  0  1  1  1  0
+Crain J               1.1  1  0  0  1  2
+Reed A                1.0  0  0  0  0  2
+  * Pitched to 1 batter in 7th
+
+E -- Diamond S
+DP -- Minnesota 2, Chicago 1
+LOB -- Minnesota 6, Chicago 2
+2B -- de Aza A, Willingham J
+HR -- Dunn A
+SB -- Hicks A
+CS -- Rios A
+SF -- Keppinger J
+WP -- Diamond S
+PB -- Flowers T
+T -- 2:59
+A -- 19587
+     Game of 4/22/2013 -- Cleveland at Chicago (N)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Brantley M, lf        3  1  1  0   de Aza A, lf          4  0  0  0   
+Kipnis J, 2b          3  0  0  0   Keppinger J, 2b       4  0  2  0   
+Cabrera A, ss         4  0  1  2   Rios A, rf            3  0  0  0   
+Swisher N, rf         3  0  0  0   Dunn A, dh            4  0  0  0   
+Giambi J, dh          4  1  1  0   Konerko P, 1b         4  0  0  0   
+Santana C, c          4  0  0  0   Gillaspie C, 3b       3  1  2  1   
+Reynolds M, 1b        3  0  0  0   Greene T, pr          0  0  0  0   
+Chisenhall L, 3b      4  0  2  1   Ramirez A, ss         4  1  0  0   
+Stubbs D, cf          4  1  1  0   Gimenez H, c          1  0  1  1   
+                                   Tekotte B, pr         0  0  0  0   
+                                   Flowers T, c          1  0  0  0   
+                                   Danks J, cf           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        30  2  5  2
+
+Cleveland        010 000 020 --  3
+Chicago          010 100 000 --  2
+
+  Cleveland            IP  H  R ER BB SO
+Masterson J (W)       7.0  4  2  2  4  5
+Pestano V             1.0  0  0  0  0  1
+Perez C (S)           1.0  1  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Axelrod D             6.0  3  1  1  2  4
+Crain J               1.0  0  0  0  0  1
+Thornton M (L)        1.0  2  2  1  2  1
+Jones N               1.0  1  0  0  0  1
+
+E -- Kipnis J, Thornton M
+DP -- Cleveland 1
+LOB -- Cleveland 6, Chicago 6
+2B -- Chisenhall L, Gimenez H
+HR -- Gillaspie C
+SB -- Kipnis J, Stubbs D, Cabrera A
+CS -- Brantley M
+HBP -- by Masterson J (Gimenez H)
+WP -- Masterson J
+T -- 2:48
+A -- 14950
+     Game of 4/24/2013 -- Cleveland at Chicago (D)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Brantley M, lf        4  1  2  0   de Aza A, lf          3  1  1  0   
+Kipnis J, 2b          4  0  1  1   Keppinger J, 2b-1b    4  1  2  1   
+Reynolds M, 1b        3  0  1  1   Rios A, rf            4  1  1  2   
+Swisher N, dh         3  0  0  0   Dunn A, 1b            1  0  0  0   
+Raburn R, rf          4  0  0  0   Greene T, pr-2b       0  0  0  0   
+Aviles M, ss          4  0  1  0   Konerko P, dh         3  0  0  0   
+Chisenhall L, 3b      3  0  0  0   Wise D, pr            0  0  0  0   
+Marson L, c           3  0  0  0   Gillaspie C, 3b       3  0  0  0   
+Stubbs D, cf          2  1  0  0   Ramirez A, ss         4  0  1  0   
+                                   Flowers T, c          3  0  0  0   
+                                   Tekotte B, cf         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        27  3  5  3
+
+Cleveland        000 002 000 --  2
+Chicago          100 020 00x --  3
+
+  Cleveland            IP  H  R ER BB SO
+McAllister Z (L)      5.2  5  3  3  5  4
+Hill R                0.2  0  0  0  0  2
+Shaw B*               0.2  0  0  0  1  0
+Hagadone N            0.1  0  0  0  0  1
+Smith J               0.2  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Quintana J (W)+       5.0  4  2  2  2  3
+Jones N               2.0  0  0  0  1  1
+Thornton M            0.2  0  0  0  0  0
+Crain J               0.1  0  0  0  0  1
+Reed A (S)            1.0  1  0  0  0  1
+  * Pitched to 2 batters in 8th
+  + Pitched to 3 batters in 6th
+
+DP -- Cleveland 2, Chicago 1
+LOB -- Cleveland 5, Chicago 7
+2B -- Reynolds M
+HR -- Rios A
+SB -- de Aza A, Kipnis J 2, Ramirez A
+SF -- Reynolds M
+HBP -- by Shaw B (Konerko P)
+T -- 3:02
+A -- 16765
+     Game of 4/25/2013 -- Tampa Bay at Chicago (N)
+
+  Tampa Bay          AB  R  H RBI    Chicago            AB  R  H RBI
+Jennings D, cf        3  1  0  0   de Aza A, lf          4  1  1  0   
+Roberts R, 2b         3  0  0  0   Keppinger J, 2b       4  1  2  1   
+Zobrist B, ss         4  0  0  0   Rios A, rf            2  2  1  0   
+Longoria E, 3b        4  0  1  1   Dunn A, dh            4  1  1  2   
+Rodriguez S, 1b       3  0  1  0   Konerko P, 1b         4  0  1  1   
+Loney J, ph           1  0  1  0   Gillaspie C, 3b       1  0  0  1   
+Duncan S, dh          3  0  0  0   Ramirez A, ss         4  0  1  0   
+Joyce M, ph           1  0  0  0   Flowers T, c          3  0  0  0   
+Johnson K, lf         4  0  0  0   Wise D, cf            3  0  0  0   
+Lobaton J, c          2  1  2  1                                      
+Molina J, ph          1  0  0  0                                      
+Fuld S, rf            2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        29  5  7  5
+
+Tampa Bay        100 100 000 --  2
+Chicago          300 002 00x --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Hellickson J (L)      6.0  5  5  5  4  8
+Wright J              1.0  2  0  0  0  1
+Gomes B               1.0  0  0  0  0  3
+
+  Chicago              IP  H  R ER BB SO
+Sale C (W)            7.0  4  2  2  4  7
+Lindstrom M           1.0  0  0  0  0  1
+Reed A (S)            1.0  1  0  0  0  1
+
+DP -- Chicago 1
+LOB -- Tampa Bay 6, Chicago 5
+2B -- de Aza A, Keppinger J, Ramirez A
+HR -- Lobaton J, Dunn A
+SF -- Gillaspie C
+T -- 2:52
+A -- 15056
+     Game of 4/26/2013 -- Tampa Bay at Chicago (N)
+
+  Tampa Bay          AB  R  H RBI    Chicago            AB  R  H RBI
+Joyce M, rf           5  1  2  2   de Aza A, lf          4  1  1  0   
+Jennings D, pr        0  0  0  0   Greene T, 2b          4  1  2  2   
+Roberts R, 2b         4  0  0  0   Rios A, rf            4  1  0  0   
+Zobrist B, ss         5  0  0  0   Dunn A, dh            4  0  2  1   
+Longoria E, 3b        4  1  2  1   Konerko P, 1b         4  0  1  0   
+Loney J, 1b           4  1  3  0   Gillaspie C, 3b       3  1  1  1   
+Rodriguez S, lf       3  0  1  0   Ramirez A, ss         3  0  0  0   
+Johnson K, dh         3  0  1  1   Gimenez H, c          3  1  1  1   
+Molina J, c           4  1  1  0   Danks J, cf           3  0  0  0   
+Fuld S, cf            4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4 10  4                        32  5  8  5
+
+Tampa Bay        001 200 001 --  4
+Chicago          000 131 00x --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Hernandez R (L)       6.0  8  5  5  0  5
+Wright J              1.0  0  0  0  0  0
+Gomes B               1.0  0  0  0  0  2
+
+  Chicago              IP  H  R ER BB SO
+Peavy J (W)           6.2  6  3  3  1  6
+Thornton M            0.1  0  0  0  0  0
+Crain J               1.0  2  0  0  0  1
+Reed A (S)            1.0  2  1  1  1  2
+
+LOB -- Tampa Bay 8, Chicago 3
+2B -- Loney J 2, Dunn A, Molina J
+HR -- Joyce M, Longoria E, Gimenez H, Greene T, Gillaspie C
+SB -- Johnson K, Rios A
+SH -- Rodriguez S
+PB -- Molina J
+T -- 2:47
+A -- 20008
+     Game of 4/27/2013 -- Tampa Bay at Chicago (N)
+
+  Tampa Bay          AB  R  H RBI    Chicago            AB  R  H RBI
+Jennings D, cf        6  1  1  1   de Aza A, lf          4  0  1  0   
+Joyce M, rf           5  2  1  0   Greene T, 2b          4  1  1  0   
+Zobrist B, ss         5  2  2  2   Rios A, rf            5  0  1  0   
+Longoria E, 3b        6  2  4  1   Dunn A, dh            4  2  1  1   
+Loney J, 1b           5  1  3  2   Konerko P, 1b         5  1  1  0   
+Duncan S, dh          6  0  1  0   Ramirez A, ss         4  0  2  1   
+Johnson K, 2b         5  1  4  2   Gillaspie C, 3b       4  0  2  1   
+Molina J, c           1  0  0  0   Flowers T, c          4  0  0  0   
+Lobaton J, pr-c       3  1  1  1   Danks J, cf           2  0  0  1   
+Fuld S, lf            4  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     46 10 19  9                        36  4  9  4
+
+Tampa Bay        201 011 212 -- 10
+Chicago          000 100 030 --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Moore M (W)           6.0  3  1  1  1  9
+McGee J               1.0  2  0  0  1  3
+Farnsworth K          0.1  3  3  3  2  0
+Peralta J             0.2  0  0  0  1  2
+Ramos C               1.0  1  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Floyd G (L)           2.2  2  2  2  2  1
+Santiago H            3.2 10  4  4  0  4
+Veal D                1.2  4  2  1  1  0
+Lindstrom M           1.0  3  2  2  1  2
+
+E -- Molina J, Ramirez A
+LOB -- Tampa Bay 14, Chicago 10
+2B -- Longoria E, Zobrist B
+3B -- Johnson K
+HR -- Zobrist B, Dunn A, Jennings D
+SB -- de Aza A, Fuld S, Johnson K
+HBP -- by Santiago H (Molina J)
+WP -- Veal D
+Balk -- Farnsworth K
+T -- 3:39
+A -- 25270
+     Game of 4/28/2013 -- Tampa Bay at Chicago (D)
+
+  Tampa Bay          AB  R  H RBI    Chicago            AB  R  H RBI
+Jennings D, cf        3  2  1  0   de Aza A, lf          4  1  1  0   
+Joyce M, rf           3  3  1  2   Greene T, 2b          3  0  0  0   
+Zobrist B, ss         5  1  3  2   Rios A, rf            4  1  1  0   
+Longoria E, 3b        4  0  1  1   Konerko P, dh         3  1  1  2   
+Loney J, 1b           5  0  0  0   Dunn A, 1b            2  0  1  1   
+Roberts R, 2b         4  0  0  0   Ramirez A, ss         4  0  1  0   
+Johnson K, dh         4  0  0  0   Gillaspie C, 3b       4  0  1  0   
+Lobaton J, c          4  1  1  1   Flowers T, c          3  0  0  0   
+Rodriguez S, lf       3  1  1  0   Wise D, cf            3  0  0  0   
+Fuld S, lf            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  8  8  6                        30  3  6  3
+
+Tampa Bay        001 002 032 --  8
+Chicago          102 000 000 --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Price D (W)           7.0  6  3  3  2  9
+Peralta J             1.0  0  0  0  1  1
+Rodney F              1.0  0  0  0  1  2
+
+  Chicago              IP  H  R ER BB SO
+Axelrod D             6.0  4  3  3  1  3
+Jones N (L)           1.1  2  3  1  2  1
+Thornton M            0.1  0  0  0  0  0
+Crain J               0.1  0  0  0  0  1
+Heath D               1.0  2  2  2  2  1
+
+E -- Gillaspie C, Rios A
+DP -- Tampa Bay 2
+LOB -- Tampa Bay 6, Chicago 4
+2B -- Jennings D, Longoria E
+HR -- Lobaton J, Konerko P, Joyce M
+SB -- Rios A, Ramirez A, de Aza A
+CS -- Jennings D
+WP -- Jones N
+T -- 3:09
+A -- 22677
+     Game of 5/10/2013 -- Anaheim at Chicago (N)
+
+  Anaheim            AB  R  H RBI    Chicago            AB  R  H RBI
+Shuck J, lf           4  1  1  1   de Aza A, cf          5  1  2  1   
+Trout M, cf           5  1  2  1   Keppinger J, 2b       5  0  1  0   
+Pujols A, dh          4  1  1  1   Rios A, rf            4  1  2  0   
+Trumbo M, 1b          4  0  1  1   Dunn A, 1b            3  1  0  0   
+Hamilton J, rf        5  0  0  0   Konerko P, dh         3  1  0  0   
+Kendrick H, 2b        4  0  1  0   Gillaspie C, 3b       4  0  0  0   
+Callaspo A, 3b        4  0  1  0   Viciedo D, lf         3  1  1  2   
+Conger H, c           3  2  1  0   Ramirez A, ss         3  0  0  0   
+Harris B, ss          4  2  3  1   Flowers T, c          3  0  1  1   
+                                   Wise D, ph            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 11  5                        34  5  7  4
+
+Anaheim          004 100 200 --  7
+Chicago          100 400 000 --  5
+
+  Anaheim              IP  H  R ER BB SO
+Enright B             3.1  4  5  5  2  2
+Lowe M                1.2  3  0  0  0  0
+Kohn M (W)            1.0  0  0  0  1  1
+DeLaRosa D            2.0  0  0  0  0  3
+Frieri E (S)          1.0  0  0  0  1  3
+
+  Chicago              IP  H  R ER BB SO
+Axelrod D (L)*        6.0  7  6  5  1  6
+Lindstrom M           1.0  2  1  1  2  1
+Jones N               2.0  2  0  0  0  2
+  * Pitched to 1 batter in 7th
+
+E -- de Aza A, Gillaspie C
+LOB -- Anaheim 7, Chicago 6
+2B -- Conger H, Pujols A, Rios A, Viciedo D
+HR -- de Aza A, Harris B
+CS -- Conger H
+SF -- Shuck J
+WP -- Enright B
+PB -- Flowers T
+T -- 3:35
+A -- 22638
+     Game of 5/11/2013 -- Anaheim at Chicago (N)
+
+  Anaheim            AB  R  H RBI    Chicago            AB  R  H RBI
+Callaspo A, 3b        3  1  1  0   de Aza A, cf          4  0  1  1   
+Trout M, cf           4  1  2  2   Ramirez A, ss         4  0  0  0   
+Pujols A, dh          4  1  1  0   Rios A, rf            4  0  1  0   
+Trumbo M, lf-1b       4  0  1  0   Konerko P, dh         4  1  1  0   
+Hamilton J, rf        4  0  1  0   Dunn A, 1b            4  0  0  0   
+Kendrick H, 2b        4  0  0  0   Viciedo D, lf         3  1  3  0   
+Harris B, ss          4  0  0  0   Wise D, pr            0  0  0  0   
+Iannetta C, c         2  0  1  0   Keppinger J, 3b       4  0  1  0   
+Jimenez L, 1b         3  0  0  0   Flowers T, c          4  0  0  0   
+Shuck J, lf           0  0  0  0   Greene T, 2b          3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     32  3  7  2                        34  2  8  2
+
+Anaheim          201 000 000 --  3
+Chicago          020 000 000 --  2
+
+  Anaheim              IP  H  R ER BB SO
+Williams J (W)        6.2  7  2  2  1  3
+Downs S               0.1  0  0  0  0  1
+Richards G            1.0  0  0  0  0  0
+Frieri E (S)          1.0  1  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Quintana J (L)        6.0  5  3  2  1  5
+Thornton M            1.0  1  0  0  0  0
+Crain J               2.0  1  0  0  1  3
+
+E -- de Aza A, Greene T, Dunn A
+DP -- Chicago 2
+LOB -- Anaheim 4, Chicago 6
+2B -- Hamilton J
+HR -- Trout M
+CS -- Trout M
+PB -- Flowers T
+T -- 2:58
+A -- 28774
+     Game of 5/12/2013 -- Anaheim at Chicago (N)
+
+  Anaheim            AB  R  H RBI    Chicago            AB  R  H RBI
+Callaspo A, 3b        4  0  0  0   de Aza A, cf          4  0  0  0   
+Trout M, cf           3  0  1  0   Ramirez A, ss         4  1  3  2   
+Pujols A, 1b          3  0  0  0   Rios A, rf            4  0  1  1   
+Trumbo M, lf          3  0  0  0   Konerko P, 1b         3  0  0  0   
+Hamilton J, rf        3  0  0  0   Viciedo D, dh         2  0  1  0   
+Kendrick H, 2b        3  0  0  0   Keppinger J, 3b       4  0  0  0   
+Harris B, ss          3  0  0  0   Wells C, lf           4  0  1  0   
+Iannetta C, c         3  0  0  0   Flowers T, c          3  1  1  0   
+Jimenez L, dh         3  0  0  0   Greene T, 2b          3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     28  0  1  0                        31  3  8  3
+
+Anaheim          000 000 000 --  0
+Chicago          000 000 30x --  3
+
+  Anaheim              IP  H  R ER BB SO
+Wilson C (L)          6.2  6  3  3  4  3
+Kohn M                0.1  1  0  0  0  1
+Coello R              1.0  1  0  0  0  2
+
+  Chicago              IP  H  R ER BB SO
+Sale C (W)            9.0  1  0  0  0  7
+
+E -- Ramirez A
+DP -- Chicago 1
+LOB -- Anaheim 1, Chicago 8
+2B -- Ramirez A, Wells C, Rios A
+SB -- Ramirez A 2, Trout M
+WP -- Wilson C
+T -- 2:32
+A -- 22088
+     Game of 5/20/2013 -- Boston at Chicago (N)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Ellsbury J, cf        4  0  0  0   de Aza A, cf          4  1  1  1   
+Victorino S, rf       3  0  1  0   Ramirez A, ss         4  1  1  1   
+Gomes J, lf           0  0  0  0   Rios A, rf            3  1  1  0   
+Pedroia D, 2b         4  0  1  0   Konerko P, 1b         3  1  0  0   
+Ortiz D, dh           3  1  0  0   Dunn A, dh            3  1  1  3   
+Napoli M, 1b          3  1  1  0   Viciedo D, lf         3  0  2  1   
+Nava D, lf-rf         4  0  0  0   Wells C, pr-lf        0  0  0  0   
+Middlebrooks W, 3b    4  0  1  2   Keppinger J, 3b       4  0  1  0   
+Drew S, ss            3  1  0  0   Flowers T, c          4  0  0  0   
+Saltalamacchia J, c   3  1  2  2   Greene T, 2b          4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  6  4                        32  6  8  6
+
+Boston           002 000 200 --  4
+Chicago          320 010 00x --  6
+
+  Boston               IP  H  R ER BB SO
+Lester J (L)          6.0  7  6  5  3  2
+Mortensen C           1.0  0  0  0  0  0
+Breslow C             1.0  1  0  0  1  0
+
+  Chicago              IP  H  R ER BB SO
+Axelrod D (W)         6.0  4  2  2  1  2
+Thornton M            1.0  1  2  2  2  1
+Crain J               1.0  0  0  0  1  0
+Reed A (S)            1.0  1  0  0  0  1
+
+E -- Middlebrooks W
+DP -- Boston 1, Chicago 2
+LOB -- Boston 4, Chicago 6
+2B -- Greene T, de Aza A, Ramirez A, Middlebrooks W, Keppinger J
+HR -- Dunn A, Saltalamacchia J
+SB -- Rios A, Ramirez A
+T -- 2:52
+A -- 21816
+     Game of 5/21/2013 -- Boston at Chicago (N)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Ellsbury J, cf        3  0  1  0   de Aza A, cf          3  0  0  0   
+Gomes J, lf           3  0  0  0   Ramirez A, ss         4  1  2  0   
+Carp M, ph-lf         1  0  0  0   Rios A, rf            4  0  2  1   
+Pedroia D, 2b         4  0  0  1   Konerko P, 1b         2  0  0  0   
+Ortiz D, dh           4  0  1  0   Dunn A, dh            4  0  0  0   
+Napoli M, 1b          4  0  1  0   Viciedo D, lf         3  1  1  0   
+Nava D, rf            3  0  1  0   Wells C, lf           0  0  0  0   
+Middlebrooks W, 3b    4  0  0  0   Keppinger J, 3b       3  1  1  2   
+Drew S, ss            3  0  0  0   Flowers T, c          3  0  1  0   
+Saltalamacchia J, c   2  1  0  0   Greene T, 2b          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  4  1                        29  3  7  3
+
+Boston           000 000 010 --  1
+Chicago          000 020 01x --  3
+
+  Boston               IP  H  R ER BB SO
+Doubront F (L)        6.0  5  2  2  2  3
+Wilson A              1.2  2  1  1  1  1
+Miller A              0.1  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Quintana J (W)        6.1  3  0  0  2  5
+Crain J               0.2  0  0  0  0  2
+Thornton M*           0.0  1  1  1  1  0
+Lindstrom M           1.0  0  0  0  0  0
+Reed A (S)            1.0  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+E -- Ramirez A
+DP -- Boston 2, Chicago 1
+LOB -- Boston 6, Chicago 5
+2B -- Flowers T, Rios A
+HR -- Keppinger J
+WP -- Lindstrom M
+T -- 2:45
+A -- 21984
+     Game of 5/22/2013 -- Boston at Chicago (N)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Ellsbury J, cf        3  1  2  0   de Aza A, cf          3  0  1  0   
+Gomes J, lf           4  2  1  0   Ramirez A, ss         3  0  0  0   
+Pedroia D, 2b         4  1  1  0   Rios A, rf            3  0  1  1   
+Ortiz D, dh           5  1  2  2   Dunn A, dh            4  0  0  0   
+Napoli M, 1b          2  1  1  0   Konerko P, 1b         4  1  2  1   
+Nava D, rf            4  0  1  2   Viciedo D, lf         4  0  0  0   
+Middlebrooks W, 3b    4  0  0  1   Gillaspie C, 3b       3  0  0  0   
+Drew S, ss            3  0  0  0   Keppinger J, 2b       3  0  1  0   
+Saltalamacchia J, c   4  0  1  0   Flowers T, c          3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  6  9  5                        30  2  6  2
+
+Boston           200 000 022 --  6
+Chicago          001 000 001 --  2
+
+  Boston               IP  H  R ER BB SO
+Buchholz C (W)        7.0  5  1  1  3  4
+Uehara K              1.0  0  0  0  0  2
+Bailey A              1.0  1  1  1  0  1
+
+  Chicago              IP  H  R ER BB SO
+Santiago H (L)        6.0  3  2  2  4  9
+Omogrosso B           1.1  4  2  1  1  0
+Jones N               1.0  1  2  2  2  2
+Veal D                0.2  1  0  0  1  0
+
+DP -- Boston 1, Chicago 2
+LOB -- Boston 10, Chicago 4
+2B -- Pedroia D
+HR -- Konerko P
+SB -- Ortiz D
+CS -- de Aza A, Rios A
+SF -- Middlebrooks W
+HBP -- by Santiago H (Gomes J)
+PB -- Flowers T
+T -- 3:15
+A -- 21298
+     Game of 5/24/2013 -- Miami at Chicago (N)
+
+  Miami              AB  R  H RBI    Chicago            AB  R  H RBI
+Hechavarria A, ss     4  0  2  0   de Aza A, cf          4  0  0  0   
+Polanco P, 3b         5  1  1  0   Ramirez A, ss         3  0  0  0   
+Dietrich D, 2b        5  1  1  2   Rios A, rf            5  1  1  0   
+Ozuna M, rf           5  1  1  0   Dunn A, dh            4  0  0  0   
+Ruggiano J, cf        5  0  1  0   Konerko P, 1b         5  0  3  1   
+Coghlan C, lf         3  0  0  0   Greene T, pr          0  1  0  0   
+Olivo M, dh           3  0  0  1   Viciedo D, lf         5  1  1  0   
+Green N, 1b           2  0  1  0   Gillaspie C, 3b       4  1  2  0   
+Mathis J, c           3  0  0  0   Keppinger J, 2b       5  0  2  2   
+                                   Gimenez H, c          3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  3  7  3                        38  4 10  4
+
+Miami            000 200 100 00 --  3
+Chicago          000 021 000 01 --  4
+  1 out when winning run was scored.
+
+  Miami                IP  H  R ER BB SO
+Koehler T             6.0  6  3  3  1  3
+Ramos A               1.2  0  0  0  1  3
+Dunn M                0.1  0  0  0  0  1
+Qualls C              2.0  1  0  0  1  0
+Webb R (L)            0.1  3  1  1  1  0
+
+  Chicago              IP  H  R ER BB SO
+Danks J*              6.0  4  3  3  0  5
+Lindstrom M           1.0  2  0  0  1  0
+Crain J               1.0  1  0  0  0  1
+Reed A                1.0  0  0  0  0  0
+Thornton M            1.1  0  0  0  1  0
+Jones N (W)           0.2  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Gimenez H
+DP -- Miami 2, Chicago 3
+LOB -- Miami 5, Chicago 9
+2B -- Gillaspie C, Ozuna M
+HR -- Dietrich D
+SB -- Ruggiano J, Hechavarria A
+SH -- Mathis J, de Aza A
+SF -- Olivo M
+HBP -- by Danks J (Green N), by Thornton M (Green N), by Qualls C (Gimenez H)
+WP -- Koehler T
+T -- 3:19
+A -- 20393
+     Game of 5/25/2013 -- Miami at Chicago (N)
+
+  Miami              AB  R  H RBI    Chicago            AB  R  H RBI
+Pierre J, lf          4  0  1  0   de Aza A, cf-lf       4  1  1  0   
+Polanco P, 3b         4  0  0  0   Ramirez A, ss         4  0  2  1   
+Dietrich D, 2b        4  1  1  1   Rios A, rf            4  0  0  0   
+Ozuna M, rf           4  0  1  0   Dunn A, dh            3  0  0  0   
+Coghlan C, dh         3  0  2  0   Konerko P, 1b         4  0  1  0   
+Ruggiano J, cf        4  0  0  0   Viciedo D, lf         3  0  0  0   
+Dobbs G, 1b           3  0  1  0   Wise D, cf            1  1  1  0   
+Hechavarria A, ss     2  0  0  0   Gillaspie C, 3b       4  0  3  1   
+Brantly R, c          3  0  0  0   Keppinger J, 2b       3  0  2  0   
+                                   Gimenez H, c          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  6  1                        33  2 10  2
+
+Miami            000 000 001 --  1
+Chicago          001 000 001 --  2
+  0 outs when winning run was scored.
+
+  Miami                IP  H  R ER BB SO
+Nolasco R             7.2  8  1  1  0  6
+Dunn M*               0.0  0  0  0  1  0
+Webb R (L)            0.1  2  1  1  0  0
+
+  Chicago              IP  H  R ER BB SO
+Peavy J (W)           9.0  6  1  1  2  5
+  * Pitched to 1 batter in 8th
+
+DP -- Chicago 1
+LOB -- Miami 5, Chicago 8
+2B -- Ramirez A, Dobbs G, Wise D
+HR -- Dietrich D
+CS -- Pierre J, Keppinger J
+WP -- Nolasco R, Dunn M
+Balk -- Peavy J
+T -- 2:41
+A -- 23705
+
