@@ -1,5 +1,6 @@
 #! venv/bin/python 
 
+from data import Data as data
 import datetime
 date = datetime.date
 
@@ -15,10 +16,6 @@ class Player(object):
             -> must capitalize first letter
         bat_ave: float[0, 1] | player's batting average
     """
-    root_dir = '/Users/faiyamrahman/programming/Python/beatthestreak' + \
-               '/top_m_players_strategy_simulation'
-    gl_2012_suffix = '/datasets/retrosheet_gamelog_2012.TXT'
-    r_id_suffix = '/datasets/retrosheet_ids.txt'
     
     def __init__(self, index, first_n, last_n, bat_ave):
         self.index = index
@@ -37,7 +34,7 @@ class Player(object):
         name = self.last_name + "," + self.first_name
         
         # Get list of possible ids
-        with open(Player.root_dir + Player.r_id_suffix, "r") as f:
+        with open(data.rootDir + data.rIdSuffix, "r") as f:
             possible_ids = [line.split(',')[2] for line in f if name in line]
 
         # Choose appropriate id
@@ -68,7 +65,7 @@ class Player(object):
             starting, umps officiating, and managers managing on the given day
         """
         date = self.convert_date(date)
-        with open(Player.root_dir + Player.gl_2012_suffix, "r") as f:
+        with open(data.rootDir + data.gl2012Suffix, "r") as f:
             list_of_games = [line.replace('"', '').split(',')[1:]
                                     for line in f if date in line]
         return [field for game in list_of_games
