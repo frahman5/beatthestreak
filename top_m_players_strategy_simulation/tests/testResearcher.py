@@ -22,7 +22,7 @@ class TestResearcher(unittest.TestCase):
             shutil.rmtree(file)
           else: 
             os.remove(file)
-
+    
     def test_get_participants(self):
     	self.assertEqual(r1.get_participants(date(2011,9,4)), 
         	             participants_2011_9_4)
@@ -46,9 +46,43 @@ class TestResearcher(unittest.TestCase):
         self.assertTrue(r1.did_start(date(2013, 8, 11), p2))
 
     def test_did_get_hit(self):
+    	# Edwin Jackon test
         self.assertFalse(r1.did_get_hit(date(2012, 5, 2), p1))
-        self.assertFalse(r1.did_get_hit(date(2012, 6, 15), p2))
+
+        # Jose Reyes Tests
         self.assertTrue(r1.did_get_hit(date(2012, 6, 16), p2))
+        self.assertTrue(r1.did_get_hit(date(2005, 4, 4), p2))
+        self.assertTrue(r1.did_get_hit(date(2003, 7, 12), p2))
+        self.assertFalse(r1.did_get_hit(date(2012, 6, 15), p2))
+        self.assertFalse(r1.did_get_hit(date(2008, 9, 21), p2))
+
+        # Alfonso Soriano Tests
+        self.assertTrue(r1.did_get_hit(date(2003, 3, 31), p3))
+        self.assertTrue(r1.did_get_hit(date(2009, 5, 12), p3))
+        self.assertFalse(r1.did_get_hit(date(2001, 9, 4), p3))
+        self.assertFalse(r1.did_get_hit(date(2007, 7, 20), p3))
+        self.assertFalse(r1.did_get_hit(date(2004, 9, 16), p3))
+
+        # Jorge Posada tests
+        self.assertTrue(r1.did_get_hit(date(2004, 8, 17), p4))
+        self.assertTrue(r1.did_get_hit(date(2010, 7, 11), p4))
+        self.assertFalse(r1.did_get_hit(date(1997, 5, 23), p4))
+        self.assertFalse(r1.did_get_hit(date(2000, 4, 30), p4))
+
+        # Manny Ramirez tests (traded in 2008. This test checks to see
+        # 	if did_get_hit works for players in a year they are traded)
+        self.assertTrue(r1.did_get_hit(date(1994, 7, 26), p5))
+        self.assertTrue(r1.did_get_hit(date(2008, 5, 22), p5))
+        self.assertTrue(r1.did_get_hit(date(2008, 8, 1), p5))
+        self.assertFalse(r1.did_get_hit(date(1995, 6, 30), p5))
+        self.assertFalse(r1.did_get_hit(date(2008, 7, 29), p5))
+        self.assertFalse(r1.did_get_hit(date(2008, 8, 31), p5))
+
+        # Double Header tests (its a hit iff player got a hit in first game)
+        self.assertFalse(r1.did_get_hit(date(1996, 9, 25), p4)) # T1, H2
+        self.assertFalse(r1.did_get_hit(date(2008, 9, 7), p2)) # T1, T2
+        self.assertTrue(r1.did_get_hit(date(2007, 7, 28), p2)) # H1, T2
+        self.assertTrue(r1.did_get_hit(date(2006, 6, 3), p2)) # H1, H2
 
     def tearDown(self):
         # Clean out zipped file folder afterwards

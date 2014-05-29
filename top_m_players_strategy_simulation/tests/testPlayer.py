@@ -6,7 +6,7 @@ from player import Player
 from g import *
 from data import Data
 
-@unittest.skip("Focus is not on Player right now")
+# @unittest.skip("Focus is not on Player right now")
 class testPlayer(unittest.TestCase):
     
     def setUp(self):

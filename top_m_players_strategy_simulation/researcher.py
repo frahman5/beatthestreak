@@ -80,6 +80,9 @@ class Researcher(object):
         player: an MLB player
 
         Produces True if player got a hit on the given date, False otherwise 
+            In the event that the player played in a double or triple header
+            on the given date, returns True if and only if the player got a hit
+            in the first game
         """
         # os.chdir(Data.get_event_files_path(date.year))
         team = self.find_home_team(date, player) # need home team's box score

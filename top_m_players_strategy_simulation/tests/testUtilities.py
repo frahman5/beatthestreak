@@ -5,7 +5,7 @@ import shutil
 from g import * # get global variables
 from data import Data
 
-@unittest.skip("Focus is not on Utilities right now")
+# @unittest.skip("Focus is not on Utilities right now")
 class TestUtilities(unittest.TestCase):
 
     def setUp(self):

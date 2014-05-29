@@ -31,3 +31,12 @@ class Data(object):
         """
         return self.rootDir + self.defaultDestUnzippedSuffix + \
                    "/events" + str(year)
+    
+    @classmethod
+    def get_retrosheet_id_path(self):
+        """
+        None -> string
+
+        Produces the filepath of the retrosheet ids filepath
+        """
+        return self.rootDir + self.rIdSuffix

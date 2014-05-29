@@ -2,10 +2,11 @@
 
 import urllib
 import os
+import shutil
 import zipfile
 import subprocess
 
-from data import Data as data
+from data import Data
 
 class Retrosheet(object):
     """
@@ -21,8 +22,8 @@ class Retrosheet(object):
         eventFileZipped: String | Path of zipped event file
         eventFileUnzipped: String | Path of directory of unzipped event files
     """
-    def __init__(self, season, destZipped=data.rootDir + data.defaultDestZippedSuffix, 
-                    destUnzipped=data.rootDir + data.defaultDestUnzippedSuffix):
+    def __init__(self, season, destZipped=Data.rootDir + Data.defaultDestZippedSuffix, 
+                    destUnzipped=Data.rootDir + Data.defaultDestUnzippedSuffix):
         self.season = str(season)
         self.destZipped = destZipped
         self.destUnzipped = destUnzipped
@@ -104,7 +105,7 @@ class Retrosheet(object):
         # If necessary event files are not present, go get them
         if not os.path.isdir(self.eventFileUnzipped):
             self.download_and_unzip(type='event')
-            
+
         #cwbox only works if team is lowercase
         defaultTeamPath = self.eventFileUnzipped + "/TEAM" + self.season
         functionalTeamPath = self.eventFileUnzipped + "/team" + self.season
@@ -130,6 +131,28 @@ class Retrosheet(object):
         os.chdir(self.destZipped)
         [os.remove(file) for file in os.listdir(os.getcwd()) 
             if file.endswith(".zip")]
+
+    def clean_all_files(self):
+        """
+        deletes all zipped and unzipped event and gamelog files
+        """
+        # Clean out zipped file folder afterwards
+        zippedFileFolder = Data.rootDir + Data.defaultDestZippedSuffix
+        os.chdir(zippedFileFolder)
+        for file in os.listdir(os.getcwd()): 
+          if os.path.isdir(file): 
+            shutil.rmtree(file)
+          else: 
+            os.remove(file) 
+
+        # Clean out unzipped file folder as well
+        unzippedFileFolder = Data.rootDir + Data.defaultDestUnzippedSuffix
+        os.chdir(unzippedFileFolder)
+        for file in os.listdir(os.getcwd()): 
+          if os.path.isdir(file): 
+            shutil.rmtree(file)
+          else: 
+            os.remove(file) 
 
     def get_season(self):
         return self.season

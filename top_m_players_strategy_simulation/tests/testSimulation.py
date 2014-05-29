@@ -1,6 +1,6 @@
 import unittest
 
-@unittest.skip("Focus is not in Simulation right now")
+# @unittest.skip("Focus is not in Simulation right now")
 class TestSimulation(unittest.TestCase):
 
     def setUp(self):

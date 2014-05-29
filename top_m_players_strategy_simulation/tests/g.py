@@ -6,11 +6,13 @@ from retrosheet import Retrosheet
 
 ## testPlayer variables
 p1BattingAve, p2BattingAve  = 0.267, 0.337
-p4 
+p3BattingAve, p4BattingAve = 0.271, 0.273
+p5BattingAve = 0.311
 p1 = Player(1, "Edwin", "Jackson", p1BattingAve, 2012)
 p2 = Player(2, "Jose", "Reyes", p2BattingAve, 2012)
-p3 = Player(1, "Edwin", "Jackson", p1BattingAve.267, 2011)
-p4 = Player(3, "Alfonso", "Soriano", )
+p3 = Player(3, "Alfonso", "Soriano", p3BattingAve, 2012)
+p4 = Player(4, "Jorge", "Posada", p4BattingAve, 2010)
+p5 = Player(5, "Manny", "Ramirez", p5BattingAve, 2010)
 
 ## testResearcher variables
 r1 = Researcher()
