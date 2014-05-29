@@ -30,29 +30,6 @@ class Player(object):
         self.id = self.set_retrosheet_id()
         self.bat_ave = bat_ave
         self.teams = self.set_teams(year)
-    
-    def did_start(self, date):
-        """
-        date: datetime.date(year, month, day) | a date in the year
-
-        Returns: Boolean | True if player started a game on the given date, False otherwise
-        """
-        researcher = Researcher()
-        return self.get_retrosheet_id() in researcher.get_participants(date)
-
-    def find_home_team(self, date):
-        """
-        date: datetime.date(year, month day) | a date in the year
-
-        Returns: String | three digit abbreviation for home team that played
-            a game including given player on given date
-        """
-        date = Utilities.convert_date(date)
-        with open(data.rootDir + data.gl2012Suffix, "r") as f:
-            list_of_games = [line.replace('"', '').split(',')
-                                    for line in f if date in line]
-        homeTeamList = [game[6] for game in list_of_games if self.id in game]
-        return homeTeamList[0]
 
     def did_get_hit(self, date):
         """
@@ -141,6 +118,12 @@ class Player(object):
     
     def get_name(self):
         return self.first_name + " " + self.last_name
+        
+    def get_last_name(self):
+        return self.last_name
+
+    def get_first_name(self):
+        return self.first_name
     
     def get_bat_ave(self):
         return self.bat_ave

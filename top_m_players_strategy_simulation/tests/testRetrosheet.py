@@ -3,6 +3,8 @@ import os
 from g import *
 from data import Data
 import shutil
+
+@unittest.skip("Focus is not in Retrosheet right now")
 class TestRetrosheet(unittest.TestCase):
 
     def setUp(self):

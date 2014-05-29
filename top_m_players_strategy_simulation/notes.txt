@@ -14,3 +14,8 @@ Notes:
 
 2) Future refactorings
 	- make a parent function called download_and_unzip. You never just used zipped files!
+			-> then replace all individual calls to download and unzip with the daddy function
+    - for any function that requires the event files or the gamelog files, have them
+      check if they exist and then download and unzip if necessary
+    - in gen_team_abbrevs, i dont think you actually need to rename the team file
+    - player should fetch his own batting average

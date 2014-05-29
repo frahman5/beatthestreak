@@ -31,8 +31,12 @@ class Retrosheet(object):
         self.eventFileUnzipped = self.destUnzipped + "/events" + self.season
         self.gamelogFileZipped = self.destZipped + "/rGamelog" + \
                                   self.season + ".zip"
-        self.gamelogFileUnzipped = self.destUnzipped + "gamelog"
-
+        self.gamelogFileUnzipped = self.destUnzipped + "/gamelog" + self.season
+    
+    def download_and_unzip(self, type='event'):
+        self.download(type=type)
+        self.unzip(type=type)
+        
     def download(self, type='event'):
         """
         downloads retrosheet files for self.season of type type
@@ -74,6 +78,10 @@ class Retrosheet(object):
             self.destUnzipped
         Stores boxscores in .txt files in self.destUnzipped
         """
+        # If necessary event files are not present, go get them
+        if not os.path.isdir(self.eventFileUnzipped):
+            self.download_and_unzip(type='event')
+
         teamAbbrevs = self.gen_team_abbrevs()
         callPrefix = ['cwbox', '-a', '-y', self.season]
 
@@ -93,6 +101,10 @@ class Retrosheet(object):
         Requires and assumes that play-by-play event files have been 
             unzipped to self.destUnzipped
         """
+        # If necessary event files are not present, go get them
+        if not os.path.isdir(self.eventFileUnzipped):
+            self.download_and_unzip(type='event')
+            
         #cwbox only works if team is lowercase
         defaultTeamPath = self.eventFileUnzipped + "/TEAM" + self.season
         functionalTeamPath = self.eventFileUnzipped + "/team" + self.season
