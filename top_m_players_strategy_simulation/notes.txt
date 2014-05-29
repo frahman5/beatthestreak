@@ -1,0 +1,13 @@
+Notes:
+
+1) How to extract all the retrosheet ids from a piece of text
+	-open python
+	
+	>>> file = open('TEXT_FILE_NAME', "rw")
+	>>> file_string_list = file.readlines()
+	>>> file.close()
+	>>> p = re.compile("[a-z]{5}[0-9]{3}")
+	>>> matches = [p.findall(string) for string in file_string]
+	>>> result = [participant for list in matches for participant in list]
+
+	-copy and paste result into your desired code

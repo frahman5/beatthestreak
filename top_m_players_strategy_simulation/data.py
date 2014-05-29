@@ -1,5 +1,3 @@
-#! venv/bin/python
-
 class Data(object):
 	"""
 	Holds relevant data that is central to multiple objects
@@ -9,6 +7,6 @@ class Data(object):
 	rootDir = '/Users/faiyamrahman/programming/Python/beatthestreak' + \
 		'/top_m_players_strategy_simulation'
 	gl2012Suffix = '/datasets/retrosheet/unzipped/rGamelog2012.txt'
-	rIdSuffix = '/datasets/retrosheet/unzipped/rIds.txt'
+	rIdSuffix = '/datasets/retrosheet/rId.txt'
 	defaultDestZippedSuffix = '/datasets/retrosheet/zipped'
 	defaultDestUnzippedSuffix = '/datasets/retrosheet/unzipped'

@@ -10,8 +10,8 @@ class Bot(object):
         streak_length: int[>=0] | length of bot's  active streak
         player: Player | player that bot bets on for a given day
         player_history: List | list of all the players this bot has bet on
-                                in a simulation in order from least recent
-                                to most recent day
+                               in a simulation in order from least recent
+                               to most recent day
     """
     def __init__(self, index):
         self.index = index
@@ -21,16 +21,19 @@ class Bot(object):
         
     def choose_player(self, player):
         """
+        Player -> None
         player: Player | the next player this bot will bet on 
         
-        Assign a player to this bot for a given day.
-        Update player_history accordingly
+        Assigns a player to this bot for a given day.
+        Updates player_history accordingly
         """
         self.player = player
         self.player_history.append(player)
         
     def incr_streak_length(self, amount=1):
         """
+        Int -> None
+
         Increment this bot's streak by amount
         """
         self.streak_length += amount
