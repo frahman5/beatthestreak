@@ -26,8 +26,12 @@ class Retrosheet(object):
         self.season = str(season)
         self.destZipped = destZipped
         self.destUnzipped = destUnzipped
-        self.eventFileZipped = self.destZipped + "/r" + self.season + "events.zip"
+        self.eventFileZipped = self.destZipped + "/r" + self.season + \
+                                 "events.zip"
         self.eventFileUnzipped = self.destUnzipped + "/events" + self.season
+        self.gamelogFileZipped = self.destZipped + "/rGamelog" + \
+                                  self.season + ".zip"
+        self.gamelogFileUnzipped = self.destUnzipped + "gamelog"
 
     def download(self, type='event'):
         """
@@ -36,12 +40,14 @@ class Retrosheet(object):
         type: String | Indicates which type of event file to download 
             (gamelog, event, id)
         """
-        # Check to see if we have the file
-        if os.path.isfile(self.eventFileZipped):
-            return
         if type == 'event':
+            if os.path.isfile(self.eventFileZipped): return
             url = 'http://www.retrosheet.org/events/' + self.season + "eve.zip"
             urllib.urlretrieve(url, filename=self.eventFileZipped)
+        if type == 'gamelog':
+            if os.path.isfile(self.gamelogFileZipped): return
+            url = 'http://retrosheet.org/gamelogs/' + 'gl' + self.season + ".zip"
+            urllib.urlretrieve(url, filename=self.gamelogFileZipped)
 
     def unzip(self, type='event'):
         """
@@ -50,10 +56,16 @@ class Retrosheet(object):
         type: String | Indicates which type of event file to unzip
             (gamelog, event, etc)
         """
-        if not os.path.isfile(self.eventFileZipped):
-            self.download()
-        zf = zipfile.ZipFile(self.eventFileZipped)
-        zf.extractall(path=self.eventFileUnzipped)
+        if type == 'event':
+            if not os.path.isfile(self.eventFileZipped):
+                self.download(type='event')
+            zf = zipfile.ZipFile(self.eventFileZipped)
+            zf.extractall(path=self.eventFileUnzipped)
+        if type == 'gamelog':
+            if not os.path.isfile(self.gamelogFileZipped):
+                self.download(type='gamelog')
+            zf = zipfile.ZipFile(self.gamelogFileZipped)
+            zf.extractall(path=self.gamelogFileUnzipped)
 
     def gen_boxscores(self):
         """
@@ -121,4 +133,10 @@ class Retrosheet(object):
 
     def get_event_file_unzipped(self):
         return self.eventFileUnzipped
+
+    def get_gamelog_file_zipped(self):
+        return self.gamelogFileZipped
+
+    def get_gamelog_file_unzipped(self):
+        return self.gamelogFileUnzipped
 

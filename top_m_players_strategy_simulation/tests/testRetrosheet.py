@@ -12,16 +12,28 @@ class TestRetrosheet(unittest.TestCase):
         for file in os.listdir(os.getcwd()): os.remove(file)
 
     def test_download(self):
-        r2013.download()
+        # test that we can download event files
+        r2013.download(type='event')
         self.assertTrue(os.path.isfile(r2013.get_event_file_zipped()))
 
+        # test that we can download gamelog files
+        r2013.download(type='gamelog')
+        self.assertTrue(os.path.isfile(r2013.get_gamelog_file_zipped()))
+
     def test_unzip(self):
-        r2013.download() # assume works
-        r2013.unzip()
+        # test that we can unzip event files
+        r2013.download(type='event') # assume works
+        r2013.unzip(type='event')
         self.assertTrue(os.path.isfile(r2013.get_event_file_unzipped() + \
                                            "/2013ANA.EVA"))
         self.assertTrue(os.path.isfile(r2013.get_event_file_unzipped() + \
                                            "/2013OAK.EVA"))
+
+        # test that we can unzip gamelog files
+        r2013.download(type='gamelog') # assume works
+        r2013.unzip(type='gamelog')
+        self.assertTrue(os.path.isfile(r2013.get_gamelog_file_unzipped() + \
+                                           "/GL2013.TXT"))
 
     def test_gen_team_abbrevs(self):
         r2013.download() # assume works
@@ -36,15 +48,20 @@ class TestRetrosheet(unittest.TestCase):
             self.assertTrue(os.path.isfile(r2013.get_dest_unzipped() + \
                               "/events2013/" + path))
 
-    # def test_clean_used_files(self):
-    #     # Are the files there before we begin?
-    #     for path in eventfiles2013:
-    #         self.assertTrue(os.path.isfile(r2013.get_dest_unzipped() + \
-    #                                       "/events2013/" + path))
-    #     r2013.clean_used_files()
-    #     for path in eventfiles2013:
-    #         self.assertFalse(os.path.isfile(r2013.get_dest_unzipped() + \
-    #                                         "/events2013/" + path))
+    def test_clean_used_files(self):
+        r2013.download() # assume works
+        r2013.unzip() # assume works 
+
+        # Are the files there before we begin?
+        for path in eventfiles2013:
+            self.assertTrue(os.path.isfile(r2013.get_dest_unzipped() + \
+                                          "/events2013/" + path))
+        # Clean 'em' out and check that theyre gone
+        r2013.clean_used_files()
+        for path in eventfiles2013:
+            self.assertFalse(os.path.isfile(r2013.get_dest_unzipped() + \
+                                            "/events2013/" + path))
+            
     def tearDown(self):
         # Clean out zipped file folder afterwards
         zippedFileFolder = Data.rootDir + Data.defaultDestZippedSuffix
@@ -55,7 +72,7 @@ class TestRetrosheet(unittest.TestCase):
           else: 
             os.remove(file) 
 
-        # Clean out unzipped file folder as well ##NEED TO LET IT HANDLE ALL FOLDERS
+        # Clean out unzipped file folder as well
         unzippedFileFolder = Data.rootDir + Data.defaultDestUnzippedSuffix
         os.chdir(unzippedFileFolder)
         for file in os.listdir(os.getcwd()): 

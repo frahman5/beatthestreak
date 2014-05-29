@@ -11,3 +11,6 @@ Notes:
 	>>> result = [participant for list in matches for participant in list]
 
 	-copy and paste result into your desired code
+
+2) Future refactorings
+	- make a parent function called download_and_unzip. You never just used zipped files!
