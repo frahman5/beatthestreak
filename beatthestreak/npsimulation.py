@@ -35,52 +35,35 @@ class NPSimulation(Simulation):
            refers to best batting averages
         year: year in which to consider batting averages
 
-        Produces the highest 3 digit float f such that
-        for all P players {p1, p2, .., pP}, 
-        pi_bat_ave >= f.
+        Produces the highest 3 digit float f such that for all P players 
+        {p1, p2, .., pP}, pi_bat_ave >= f.
         """ 
-        # minReqABs = 425 # minimum required at bats
+        minPA = 502
+        battingAverages = [0 for i in range(P)]
 
         # Since 1962 the season has been 162 games and 3.1 PAs per game, or 502
-        # pers season has been the min requirement for batting title contention.
+        # per season has been the min requirement for batting title contention.
         # This figure is altered for the strikeYears and years before 1962.
-        strikeYearsSince1962 = (1972, 1981, 1994, 1995)
-        if (year > 1962) and (year not in strikeYearsSince1962):
-            minPA = 502
-        else:
+        if (year <= 1962) or (year in (1972, 1981, 1994, 1995)):
             raise DifficultYearException("The years 1972, 1981, 1994, 1995 " + \
                 "had strikes, and the years before 1962 didn't have 162 games." + \
                 " Please simulate in another year") 
-        battingAverages = [0 for i in range(P)]
-        players = [('', 0) for i in range(P)] # debugging
 
-        # read in playerID and yearID columns from batting.csv, 
-        # then splice out all rows not corresponding to year year
+        #get series of unique playerIDs corresponding to given year
         df = pd.read_csv(Data.get_lahman_path("Batting"), 
                            usecols=['playerID', 'yearID', 'AB'])
         df = df[df.yearID == year]
-
-        # get series of unique playerIDs
         uniqueIDs = pd.Series(df.playerID.values.ravel()).unique()
 
-        # calculate all batting averages, and maintain sorted list
-        # of top P batting averages
-        i = 0
-        for lahmanID in uniqueIDs:
-            i += 1
-            if i % 200 == 0:
-                print i
+        # Calculate top P batting averages
+        for index, lahmanID in enumerate(uniqueIDs):
+            if index % 200 == 0: print index # progress tracker
             player = PlayerL(lahmanID, year)
             bat_ave = player.get_bat_ave()
             if  bat_ave > battingAverages[0]:
                 if Researcher.num_plate_appearances(year, player) >= minPA:
                     battingAverages[0] = bat_ave
-                    players[0] = (Researcher.name_from_lahman_id(lahmanID), bat_ave)
                     battingAverages.sort()
-                    players.sort(key=lambda duple: duple[1])
-        players.reverse()
-        for duple in players:
-            print "%s: %f" % (duple[0], duple[1])
         return round(battingAverages[0], 3)
 
     def get_min_bat_ave(self):

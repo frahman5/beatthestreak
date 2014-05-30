@@ -3,7 +3,8 @@ import os
 import tests
 
 from data import Data
-from tests import setup, teardown, r2013
+from tests import setup, teardown, r2013, eventfiles2013, boxscores2013, \
+    teamAbbrevs2013
 
 # @unittest.skip("Focus is not in Retrosheet right now")
 class TestRetrosheet(unittest.TestCase):

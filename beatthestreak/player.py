@@ -1,10 +1,11 @@
 import os
 import pandas as pd
 
-from datetime import date
+from datetime import date, datetime
 from data import Data
 from utilities import Utilities
 from retrosheet import Retrosheet
+from exception import NoPlayerException
 
 class PlayerL(object):
     """
@@ -59,9 +60,14 @@ class Player(PlayerL):
         last_name: string | Player's last name
             -> must capitalize first letter
         bat_ave: float[0, 1] | player's batting average
+        debut: string(mm/dd/yyyy) | date of player's debut
     """
     
-    def __init__(self, index, first_n, last_n, bat_ave_year):
+    def __init__(self, index, first_n, last_n, bat_ave_year, **kwargs):
+        if 'debut' in kwargs.keys():
+            self.debut = kwargs['debut']
+        else:
+            self.debut = None
         self.index = index
         self.first_name = first_n
         self.last_name = last_n
@@ -72,26 +78,28 @@ class Player(PlayerL):
     def __set_retrosheet_id(self):
         """
         Returns: string | retrosheet id of player
-            If player name has multiple ids, prompts user to choose one
         """
-        name = self.last_name + "," + self.first_name
-        
-        # Get list of possible ids
-        with open(Data.get_retrosheet_id_path(), "r") as f:
-            possible_ids = [line.split(',')[2] for line in f if name in line]
+        df = pd.read_csv(Data.get_retrosheet_id_path())
+        df = df[df.FIRST == self.first_name][df.LAST == self.last_name]
 
-        # Choose appropriate id
-        if len(possible_ids) == 1: return possible_ids[0]
-        else:
-            x = ""
-            while x not in possible_ids:
-                print ""
-                if x is not "": print "You mistyped. Please Try Again"
-                print "Multiple ids found: "
-                for id in possible_ids: print id
-                print "Choose one. Reference rId.txt if you are unsure."
-                x = str(raw_input())
-            return x
+        if len(df) == 0:
+            raise NoPlayerException("No player found with name %s" % \
+                    self.first_name + " " + self.last_name)
+        if len(df) == 1:
+            return df.ID.item()
+        # else len(df) > 1
+        i = 0
+        while self.debut not in df.DEBUT.values:
+            if i > 0: print "\nYou mistyped. Try again"
+            print "\nMultiple ids found. What was player's debut date? Options:"
+            for debut in df.DEBUT: print debut
+            self.debut = str(raw_input())
+            i += 1
+
+        for debut in df.DEBUT:
+            if datetime.strptime(debut, '%m/%d/%Y') == \
+                 datetime.strptime(self.debut, '%m/%d/%Y'):
+                return df[df.DEBUT == debut].ID.item()
         
     def get_retrosheet_id(self):
         return self.rId
