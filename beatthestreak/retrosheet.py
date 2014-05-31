@@ -22,17 +22,15 @@ class Retrosheet(object):
         eventFileZipped: String | Path of zipped event file
         eventFileUnzipped: String | Path of directory of unzipped event files
     """
-    def __init__(self, season, destZipped=Data.get_retrosheet_zipped_folder_path(), 
-                    destUnzipped=Data.get_retrosheet_unzipped_folder_path()):
+    def __init__(self, season):
         self.season = str(season)
-        self.destZipped = destZipped
-        self.destUnzipped = destUnzipped
-        self.eventFileZipped = self.destZipped + "/r" + self.season + \
-                                 "events.zip"
-        self.eventFileUnzipped = self.destUnzipped + "/events" + self.season
-        self.gamelogFileZipped = self.destZipped + "/rGamelog" + \
-                                  self.season + ".zip"
-        self.gamelogFileUnzipped = self.destUnzipped + "/gamelog" + self.season
+        self.destZipped = Data.get_retrosheet_zipped_folder_path()
+        self.destUnzipped = Data.get_retrosheet_unzipped_folder_path()
+        self.eventFileZipped = Data.get_zipped_event_files_path(season)
+        self.eventFileUnzipped = Data.get_unzipped_event_files_path(season)
+        self.gamelogFolderUnzipped = Data.get_unzipped_gamelog_folder_path(season)
+        self.gamelogFileZipped = Data.get_zipped_gamelog_path(season)
+        self.gamelogFileUnzipped = Data.get_unzipped_gamelog_path(season)
     
     def download_and_unzip(self, type='event'):
         self.download(type=type)
@@ -70,7 +68,7 @@ class Retrosheet(object):
             if not os.path.isfile(self.gamelogFileZipped):
                 self.download(type='gamelog')
             zf = zipfile.ZipFile(self.gamelogFileZipped)
-            zf.extractall(path=self.gamelogFileUnzipped)
+            zf.extractall(path=self.gamelogFolderUnzipped)
 
     def gen_boxscores(self):
         """
@@ -90,7 +88,7 @@ class Retrosheet(object):
         for team in teamAbbrevs:
             call = callPrefix + [self.season + team[0] + ".EV" + team[1]]
             print "team: %s, call: %s" % (team, call)
-            with open(self.season + team[0] + "B" + ".txt", "w+") as file:
+            with open(self.season+ team[0] + "B" + ".txt", "w+") as file:
                 subprocess.call(call, stdout=file)
 
     def gen_team_abbrevs(self):
@@ -116,10 +114,10 @@ class Retrosheet(object):
 
         To be used after necessary information has been extracted and parsed
         """
-        os.chdir(self.destUnzipped + "/events" + self.season)
+        os.chdir(self.destUnzipped + "/events" + str(self.season))
         [os.remove(file) for file in os.listdir(os.getcwd()) 
             if file.endswith(".EVA") or file.endswith(".EVN") or 
-            file.endswith("team" + self.season)]
+            file.endswith("team" + str(self.season))]
 
         os.chdir(self.destZipped)
         [os.remove(file) for file in os.listdir(os.getcwd()) 

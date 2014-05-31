@@ -1,7 +1,6 @@
-import os
-import shutil
 import unittest
 
+from datetime import date
 from data import Data
 from researcher import Researcher as R
 from tests import setup, teardown, date, p1, p2, p3, p4, p5
@@ -50,44 +49,44 @@ class TestResearcher(unittest.TestCase):
     #     self.assertTrue(R.did_start(date(2013, 5, 17), p1))
     #     self.assertTrue(R.did_start(date(2013, 8, 11), p2))
 
-    # def test_did_get_hit(self):
-    # 	# Edwin Jackon test
-    #     self.assertFalse(R.did_get_hit(date(2012, 5, 2), p1))
+    def test_did_get_hit(self):
+    	# Edwin Jackon test
+        self.assertFalse(R.did_get_hit(date(2012, 5, 2), p1))
 
-    #     # Jose Reyes Tests
-    #     self.assertTrue(R.did_get_hit(date(2012, 6, 16), p2))
-    #     self.assertTrue(R.did_get_hit(date(2005, 4, 4), p2))
-    #     self.assertTrue(R.did_get_hit(date(2003, 7, 12), p2))
-    #     self.assertFalse(R.did_get_hit(date(2012, 6, 15), p2))
-    #     self.assertFalse(R.did_get_hit(date(2008, 9, 21), p2))
+        # Jose Reyes Tests
+        self.assertTrue(R.did_get_hit(date(2012, 6, 16), p2))
+        self.assertTrue(R.did_get_hit(date(2005, 4, 4), p2))
+        self.assertTrue(R.did_get_hit(date(2003, 7, 12), p2))
+        self.assertFalse(R.did_get_hit(date(2012, 6, 15), p2))
+        self.assertFalse(R.did_get_hit(date(2008, 9, 21), p2))
 
-    #     # Alfonso Soriano Tests
-    #     self.assertTrue(R.did_get_hit(date(2003, 3, 31), p3))
-    #     self.assertTrue(R.did_get_hit(date(2009, 5, 12), p3))
-    #     self.assertFalse(R.did_get_hit(date(2001, 9, 4), p3))
-    #     self.assertFalse(R.did_get_hit(date(2007, 7, 20), p3))
-    #     self.assertFalse(R.did_get_hit(date(2004, 9, 16), p3))
+        # Alfonso Soriano Tests
+        self.assertTrue(R.did_get_hit(date(2003, 3, 31), p3))
+        self.assertTrue(R.did_get_hit(date(2009, 5, 12), p3))
+        self.assertFalse(R.did_get_hit(date(2001, 9, 4), p3))
+        self.assertFalse(R.did_get_hit(date(2007, 7, 20), p3))
+        self.assertFalse(R.did_get_hit(date(2004, 9, 16), p3))
 
-    #     # Jorge Posada tests
-    #     self.assertTrue(R.did_get_hit(date(2004, 8, 17), p4))
-    #     self.assertTrue(R.did_get_hit(date(2010, 7, 11), p4))
-    #     self.assertFalse(R.did_get_hit(date(1997, 5, 23), p4))
-    #     self.assertFalse(R.did_get_hit(date(2000, 4, 30), p4))
+        # Jorge Posada tests
+        self.assertTrue(R.did_get_hit(date(2004, 8, 17), p4))
+        self.assertTrue(R.did_get_hit(date(2010, 7, 11), p4))
+        self.assertFalse(R.did_get_hit(date(1997, 5, 23), p4))
+        self.assertFalse(R.did_get_hit(date(2000, 4, 30), p4))
 
-    #     # Manny Ramirez tests (traded in 2008. This test checks to see
-    #     # 	if did_get_hit works for players in a year they are traded)
-    #     self.assertTrue(R.did_get_hit(date(1994, 7, 26), p5))
-    #     self.assertTrue(R.did_get_hit(date(2008, 5, 22), p5))
-    #     self.assertTrue(R.did_get_hit(date(2008, 8, 1), p5))
-    #     self.assertFalse(R.did_get_hit(date(1995, 6, 30), p5))
-    #     self.assertFalse(R.did_get_hit(date(2008, 7, 29), p5))
-    #     self.assertFalse(R.did_get_hit(date(2008, 8, 31), p5))
+        # Manny Ramirez tests (traded in 2008. This test checks to see
+        # 	if did_get_hit works for players in a year they are traded)
+        self.assertTrue(R.did_get_hit(date(1994, 7, 26), p5))
+        self.assertTrue(R.did_get_hit(date(2008, 5, 22), p5))
+        self.assertTrue(R.did_get_hit(date(2008, 8, 1), p5))
+        self.assertFalse(R.did_get_hit(date(1995, 6, 30), p5))
+        self.assertFalse(R.did_get_hit(date(2008, 7, 29), p5))
+        self.assertFalse(R.did_get_hit(date(2008, 8, 31), p5))
 
-    #     # Double Header tests (its a hit iff player got a hit in first game)
-    #     self.assertFalse(R.did_get_hit(date(1996, 9, 25), p4)) # T1, H2
-    #     self.assertFalse(R.did_get_hit(date(2008, 9, 7), p2)) # T1, T2
-    #     self.assertTrue(R.did_get_hit(date(2007, 7, 28), p2)) # H1, T2
-    #     self.assertTrue(R.did_get_hit(date(2006, 6, 3), p2)) # H1, H2
+        # Double Header tests (its a hit iff player got a hit in first game)
+        self.assertFalse(R.did_get_hit(date(1996, 9, 25), p4)) # T1, H2
+        self.assertFalse(R.did_get_hit(date(2008, 9, 7), p2)) # T1, T2
+        self.assertTrue(R.did_get_hit(date(2007, 7, 28), p2)) # H1, T2
+        self.assertTrue(R.did_get_hit(date(2006, 6, 3), p2)) # H1, H2
 
     def test_num_at_bats(self):
         self.assertEqual(R.num_at_bats(2010, p1), 38) # traded from NL to AL
@@ -109,3 +108,7 @@ class TestResearcher(unittest.TestCase):
         self.assertEqual(R.name_from_lahman_id("soriaal01"), "Alfonso Soriano")
         self.assertEqual(R.name_from_lahman_id("posadjo01"), "Jorge Posada")
         self.assertEqual(R.name_from_lahman_id("ramirma02"), "Manuel Ramirez")
+
+    def test_get_opening_day(self):
+        self.assertEqual(R.get_opening_day(2010), date(2010,4,4))
+        self.assertEqual(R.get_opening_day(1992), date(1992, 4,6))

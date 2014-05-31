@@ -6,6 +6,7 @@ from data import Data
 from utilities import Utilities
 from retrosheet import Retrosheet
 from exception import NoPlayerException
+from researcher import Researcher
 
 class PlayerL(object):
     """
@@ -63,22 +64,74 @@ class Player(PlayerL):
         debut: string(mm/dd/yyyy) | date of player's debut
     """
     
-    def __init__(self, index, first_n, last_n, bat_ave_year, **kwargs):
+    def __init__(self, *args, **kwargs):
+        """
+        Can construct in multiple ways:
+        1) Player(index, firstN, lastN, batAveYear)
+            -> constructor will find retrosheet id, lahman id, batting ave, and
+            if necessary prompt the user for a debut date
+        2) Player(index, firstN, lastN, batAveYear, debut='mmddyyy')
+            -> same as above, except now with player debut date specified, 
+            there is almost no chance of ambiguity in retrieving a retrosheet id
+        3) Player(index, playerL = *playerLInstance*)
+            -> takes lahmanID and batting ave from lahmanId. 
+            Obtains name, and retrosheet_id on its own
+        """
+        # Type 3
+        if 'playerL' in kwargs.keys():
+            assert len(args) == 1
+            self.__init__from_playerL(args[0], kwargs['playerL'])
+            return
+
+        # Types 1 and 2
+        assert len(args) == 4
         if 'debut' in kwargs.keys():
             self.debut = kwargs['debut']
         else:
             self.debut = None
-        self.index = index
-        self.first_name = first_n
-        self.last_name = last_n
-        self.rId = self.__set_retrosheet_id()
+        self.index = args[0]
+        self.first_name = args[1]
+        self.last_name = args[2]
+        self.rId = self.__set_retrosheet_id(source='name')
         self.lId = self.__set_lahman_id()
-        self.bat_ave = self._set_bat_ave(bat_ave_year)
+        self.bat_ave = self._set_bat_ave(args[3])
 
-    def __set_retrosheet_id(self):
+    def __init__from_playerL(self, index, playerL):
+        """
+        playerL -> None
+
+        helper function for init. Initalizes the instance from a playerL
+        instance
+        """
+        self.index = index
+        self.lId = playerL.get_lahman_id()
+        name = Researcher.name_from_lahman_id(self.lId)
+        self.first_name, self.last_name = name.split()
+        self.rId = self.__set_retrosheet_id(source='lahmanID')
+        self.bat_ave = playerL.get_bat_ave()
+
+    def __eq__(self, other):
+        # technically, only need one. but dependability via redundancy :)
+        samerId = (self.rId == other.get_retrosheet_id())
+        samelId = (self.lId == other.get_lahman_id())
+        return samerId and samelId
+
+    def __str__(self):
+        return self.get_name() + ": %.3f" % self.bat_ave
+
+    def __repr__(self):
+        return self.__str__()
+
+    def __set_retrosheet_id(self, source='name'):
         """
         Returns: string | retrosheet id of player
         """
+        if source == 'name':
+            return self.fetch_retrosheet_id_from_name()
+        if source == 'lahmanID':
+            return self.fetch_retrosheet_id_from_lahman_ID()
+
+    def fetch_retrosheet_id_from_name(self):
         df = pd.read_csv(Data.get_retrosheet_id_path())
         df = df[df.FIRST == self.first_name][df.LAST == self.last_name]
 
@@ -91,7 +144,8 @@ class Player(PlayerL):
         i = 0
         while self.debut not in df.DEBUT.values:
             if i > 0: print "\nYou mistyped. Try again"
-            print "\nMultiple ids found. What was player's debut date? Options:"
+            print "\nMultiple ids found. What was " + \
+                "%s's debut date? Options:" % self.get_name()
             for debut in df.DEBUT: print debut
             self.debut = str(raw_input())
             i += 1
@@ -100,6 +154,11 @@ class Player(PlayerL):
             if datetime.strptime(debut, '%m/%d/%Y') == \
                  datetime.strptime(self.debut, '%m/%d/%Y'):
                 return df[df.DEBUT == debut].ID.item()
+
+    def fetch_retrosheet_id_from_lahman_ID(self):
+        df = pd.read_csv(Data.get_lahman_path("master"), 
+                usecols=['playerID', 'retroID'])
+        return df[df.playerID == self.lId].retroID.item()
         
     def get_retrosheet_id(self):
         return self.rId
@@ -112,6 +171,9 @@ class Player(PlayerL):
         # lone item remaining in column playerID
         return df[df.retroID == self.rId]['playerID'].item()
     
+    def set_index(self, index):
+        self.index = index
+
     def get_index(self):
         return self.index
     

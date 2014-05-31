@@ -55,11 +55,11 @@ class Researcher(object):
         date = Utilities.convert_date(date)
         
         # Make sure the gamelog is on the drive
-        if not os.path.isfile(Data.get_gamelog_path(year)):
+        if not os.path.isfile(Data.get_unzipped_gamelog_path(year)):
             r = Retrosheet(year)
             r.download_and_unzip(type='gamelog')
 
-        with open(Data.get_gamelog_path(year), "r") as f:
+        with open(Data.get_unzipped_gamelog_path(year), "r") as f:
             list_of_games = [line.replace('"', '').split(',')
                                     for line in f if date in line]
         homeTeamList = [game[6] for game in list_of_games 
@@ -90,8 +90,7 @@ class Researcher(object):
         """
         # os.chdir(Data.get_event_files_path(date.year))
         team = self.find_home_team(date, player) # need home team's box score
-        boxscore = Data.get_event_files_path(date.year) + "/" + str(date.year) + \
-                      team + "B.txt"
+        boxscore = Data.get_boxscore_file_path(date.year, team)
         lastName = player.get_last_name()
         firstName = player.get_first_name()
 
@@ -177,3 +176,21 @@ class Researcher(object):
         givenName = df.nameGiven.item()
         firstName = givenName.split()[0]
         return firstName + " " + lastName
+
+    @classmethod
+    def get_opening_day(self, year):
+        """
+        int -> date
+
+        Produces the date of opening day in year year
+        """
+        # check to make sure the gamelog is there
+        if not os.path.isfile(Data.get_unzipped_gamelog_path(year)):
+            R = Retrosheet(year)
+            R.download_and_unzip(type='gamelog')
+        with open(Data.get_unzipped_gamelog_path(year), "r") as f:
+            date_string = f.readline().split(',')[0]
+        year = int(date_string[1:5])
+        month = int(date_string[5:7])
+        day = int(date_string[7:9])
+        return date(year, month, day)

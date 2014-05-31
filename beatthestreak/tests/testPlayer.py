@@ -2,7 +2,7 @@ import unittest
 import os
 import shutil
 
-from player import Player
+from player import Player, PlayerL
 from tests import setup, teardown, p1, p2, p3, p4, p5, p1BattingAve, \
     p2BattingAve, p3BattingAve, p4BattingAve, p5BattingAve
 from data import Data
@@ -17,19 +17,34 @@ class testPlayer(unittest.TestCase):
     def tearDown(self):
         teardown()
 
-    # def test_get_and_set_retrosheet_id(self):
+    def test_get_and_set_retrosheet_id_and_init(self):
         # non MLB player name should raise exception
-        # self.assertRaises(NoPlayerException, Player, 0, "oogly", "boogly", 1999)
-        # # player with unique name should be initalized no problem
-        # self.assertEqual(p1.get_retrosheet_id(), "jacke001")
-        # # # player with non unique name should initalize sans problem if you
-        # # # provide a debut date
-        # self.assertEqual(p2.get_retrosheet_id(), "reyej001")
-        # # # player with non unique name should initalize with user
-        # # # help if you don't provide a debut date
-        # self.assertEqual(Player(0, "Jose", "Reyes", 2005).get_retrosheet_id(), "reyej001")
+        self.assertRaises(NoPlayerException, Player, 0, "oogly", "boogly", 1999)
+        # player with unique name should be initalized no problem
+        self.assertEqual(p1.get_retrosheet_id(), "jacke001")
+        # # player with non unique name should initalize sans problem if you
+        # # provide a debut date
+        self.assertEqual(p2.get_retrosheet_id(), "reyej001")
+        # # player with non unique name should initalize with user
+        # # help if you don't provide a debut date
+        self.assertEqual(Player(0, "Jose", "Reyes", 2005).get_retrosheet_id(), "reyej001")
+        ## player initalized from PlayerL should have write data
+        pL = Player(0, playerL=PlayerL("jacksed01", 2012))
+        self.assertEqual(
+            (pL.get_first_name(), pL.get_last_name(), pL.get_bat_ave(), 
+                pL.get_lahman_id(), pL.get_retrosheet_id()), 
+            (p1.get_first_name(), p1.get_last_name(), p1.get_bat_ave(), 
+            p1.get_lahman_id(), p1.get_retrosheet_id()))
         
-
+    def test_eq__(self):
+        # test that two similarly made-from-names players are equal
+        p1 = Player(0, "Jose", "Reyes", 2012, debut='6/10/2003')
+        p2 = Player(1, "Jose", "Reyes", 2010, debut='6/10/2003')
+        self.assertEqual(p1, p2)
+        # test that a player-from-name and player-from-playerL are equiv
+        p3 = PlayerL("reyesjo01", 2010)
+        p3 = Player(0, playerL=p3)
+        self.assertEqual(p1, p3)
     def test_get_and_set_lahman_id(self):
         self.assertEqual(p1.get_lahman_id(), "jacksed01")
         self.assertEqual(p2.get_lahman_id(), "reyesjo01")

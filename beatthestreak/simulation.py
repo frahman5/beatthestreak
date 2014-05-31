@@ -1,5 +1,6 @@
 from retrosheet import Retrosheet
 from utilities import Utilities
+from researcher import Researcher
 
 class Simulation(object):
     """
@@ -9,15 +10,17 @@ class Simulation(object):
             Leaderboard: List of highest performing bots
             Year: MLB Season (YYYY) in which to run the simulation
     """
-    def __init__(self, year):
+    def __init__(self, year, startDate='default'):
     	"""
     	int -> None
         year: 4 digit int indicating in which season to run the simulation
         """
         self.year = year
         self.leaderboard = []
+        if startDate == 'default':
+            self.date = Researcher.get_opening_day(year)
 
-    def initalize(self):
+    def setup(self):
     	"""
     	None -> None
     	Downloads and parses necessary retrosheet data for the simulation

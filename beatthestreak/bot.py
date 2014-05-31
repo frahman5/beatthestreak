@@ -19,16 +19,21 @@ class Bot(object):
         self.player = None
         self.player_history = []
         
-    def choose_player(self, player):
+    def assign_player(self, player, didGetHit):
         """
-        Player -> None
+        Player Bool -> None
         player: Player | the next player this bot will bet on 
+        didGetHit: bool | true if player got hit on date of assignment, false otherwise
         
         Assigns a player to this bot for a given day.
         Updates player_history accordingly
         """
         self.player = player
-        self.player_history.append(player)
+        self.player_history.append((player, didGetHit))
+        if didGetHit:
+            self.incr_streak_length()
+        else:
+            self.reset_streak()
         
     def incr_streak_length(self, amount=1):
         """
@@ -49,4 +54,7 @@ class Bot(object):
     
     def get_streak_length(self):
         return self.streak_length 
+
+    def reset_streak(self):
+        self.streak_length = 0
     

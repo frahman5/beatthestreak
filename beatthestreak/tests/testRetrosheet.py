@@ -36,8 +36,7 @@ class TestRetrosheet(unittest.TestCase):
         # test that we can unzip gamelog files
         r2013.download(type='gamelog') # assume works
         r2013.unzip(type='gamelog')
-        self.assertTrue(os.path.isfile(r2013.get_gamelog_file_unzipped() + \
-                                           "/GL2013.TXT"))
+        self.assertTrue(os.path.isfile(Data.get_unzipped_gamelog_path(2013)))
 
     def test_gen_team_abbrevs(self):
         r2013.download() # assume works

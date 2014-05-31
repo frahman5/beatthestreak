@@ -2,9 +2,11 @@ from simulation import Simulation
 import pandas as pd
 
 from data import Data
-from player import PlayerL
+from datetime import date
+from player import PlayerL, Player
 from researcher import Researcher
 from exception import DifficultYearException
+from bot import Bot
 
 class NPSimulation(Simulation):
     """
@@ -21,25 +23,63 @@ class NPSimulation(Simulation):
     
     NOTE: DESCRIBE STRATEGY IN DETAIL HERE
     """
-    def __init__(self, simYear, batAveYear, N, P):
-        Simulation.__init__(self, simYear)
-        self.num_robots = N
-        self.num_players = P
-        self.min_bat_ave = self.__calc_min_bat_ave(P, batAveYear)
+    def __init__(self, simYear, batAveYear, N, P, startDate='default'):
+        Simulation.__init__(self, simYear, startDate)
+        self.simYear = simYear
+        self.batAveYear = batAveYear
+        self.numBots = N
+        self.numPlayers = P
+        self.minBatAve = 0 # set later, upon setup of sim
+        self.players = [] # set later, upon setup of sim
+        self.bots = []
+        if startDate == 'default':
+            self.currentDate = Researcher.get_opening_day(simYear)
+        else:
+            assert type(startDate) == date
+            self.currentDate = startDate
+        self.isSetup = False
 
-    def __calc_min_bat_ave(self, P, year):
+    def setup(self):
+        if self.isSetup:
+            return
+        Simulation.setup(self)
+        self.bots = self.__create_bots()
+        self.players = self.__calc__players(self.batAveYear)
+        self.minBatAve = self.__set_min_bat_ave()
+        self.isSetup = True
+
+    def sim_next_day(self):
         """
-        int int -> float
-        P: an int representing the number of top players
-           participating in this simulation, where top
-           refers to best batting averages
-        year: year in which to consider batting averages
+        None -> None
 
-        Produces the highest 3 digit float f such that for all P players 
-        {p1, p2, .., pP}, pi_bat_ave >= f.
-        """ 
-        minPA = 502
-        battingAverages = [0 for i in range(P)]
+        Simulates the next day
+        """
+        activePlayers = [player for player in self.players if \
+             Researcher.did_start(self.currentDate, player)]
+        # tuples of of (player, True|False)
+        # final = [(player, Researcher.did_get_hit(self.currentDate, player)) \
+        #     for player in activePlayers]
+
+        # assign players to bots, auto-updating streak lengths and updating 
+        # player histories
+        mod_factor = len(activePlayers)
+        # [bot.assign_player(final[i % mod]) for i, bot in enumerate(self.bots)]
+        # [bot.assign_player(final[i % mod][0], final[i % mod][1]), for \
+        #     i, bot in enumerate(self.bots)]
+        # [bot.assign_player(final[i % mod][0], final[i % mod][1]), for \
+        #     i, bot in enumerate(self.bots)]
+        for i, bot in enumerate(self.bots):
+            player = activePlayers[i % mod_factor]
+            bot.assign_player(player, Researcher.did_get_hit(self.currentDate, player))
+        
+    def __calc__players(self, year):
+        """
+        None -> ListOfTuples(player, player.bat_ave)
+        Calculates the top P players with respect to batting average
+        in season self.batBatAveYear
+        """
+        minPA = 502 # minimum plate appearances to qualify for calculation
+        players = [("", 0) for i in range(self.numPlayers)]
 
         # Since 1962 the season has been 162 games and 3.1 PAs per game, or 502
         # per season has been the min requirement for batting title contention.
@@ -55,28 +95,66 @@ class NPSimulation(Simulation):
         df = df[df.yearID == year]
         uniqueIDs = pd.Series(df.playerID.values.ravel()).unique()
 
-        # Calculate top P batting averages
+        # Calculate top P players/batting averages
         for index, lahmanID in enumerate(uniqueIDs):
+            # if type(players[0][0]) == PlayerL:
+            #     break
             if index % 200 == 0: print index # progress tracker
             player = PlayerL(lahmanID, year)
             bat_ave = player.get_bat_ave()
-            if  bat_ave > battingAverages[0]:
+            if  bat_ave > players[0][1]:
                 if Researcher.num_plate_appearances(year, player) >= minPA:
-                    battingAverages[0] = bat_ave
-                    battingAverages.sort()
-        return round(battingAverages[0], 3)
+                    players[0] = (player, bat_ave)
+                    players.sort(key= lambda duple: duple[1])
+
+
+        players.reverse() # list is now from highest to lowest
+        # turn players into full blown players, and index accordingly. 
+        for index, tuple in enumerate(players):
+            players[index] = Player(index, playerL=tuple[0])
+        return players
+
+    def get_players(self):
+        return self.players
+
+    def __set_min_bat_ave(self):
+        """
+        Helper function for setup. Feeds off of __calc__players
+
+        Produces the highest 3 digit float f such that for all P players 
+        {p1, p2, .., pP}, pi_bat_ave >= f.
+        """ 
+        return self.players[-1].get_bat_ave()
 
     def get_min_bat_ave(self):
-        return self.min_bat_ave
+        return self.minBatAve
+
+    def __create_bots(self):
+        return [Bot(i) for i in range(self.numBots)]
+
+    def get_bots(self):
+        return self.bots
 
     def set_n(self, N):
-        self.num_robots = N
+        self.numRobots = N
 
     def get_n(self):
-        return self.num_robots
+        return self.numRobots
 
     def set_p(self, P):
-        self.num_players = P
+        self.numPlayers = P
 
     def get_p(self):
         return self.num_players
+
+    def set_date(self, date):
+        self.currentDate = date
+    
+    def get_date(self):
+        return self.currentDate
+    
+    def get_sim_year(self):
+        return self.simYear
+
+    def get_bat_year(self):
+        return self.batAveYear
