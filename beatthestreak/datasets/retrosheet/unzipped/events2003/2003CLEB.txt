@@ -1,0 +1,3366 @@
+     Game of 4/8/2003 -- Chicago at Cleveland (D)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Jimenez D, 2b         4  1  2  1   Bradley M, cf         5  1  2  0   
+Valentin J, ss        5  0  1  1   Vizquel O, ss         5  0  4  2   
+Thomas F, dh          3  0  0  1   Lawton M, lf          4  0  0  0   
+Ordonez M, rf         4  0  1  0   Burks E, dh           5  0  0  0   
+Konerko P, 1b         4  0  0  0   Garcia K, rf          5  1  1  0   
+Lee C, lf             4  0  0  0   Bard J, c             3  0  1  0   
+Crede J, 3b           4  2  2  0   Hafner T, 1b          3  0  0  0   
+Rowand A, cf          3  0  0  0   McDonald J, pr-3b     0  0  0  0   
+Alomar S, c           4  1  3  2   Blake C, 3b-1b        2  1  1  0   
+Olivo M, pr-c         0  1  0  0   Phillips B, 2b        4  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  5                        36  3  9  3
+
+Chicago          000 010 200 2 --  5
+Cleveland        010 010 100 0 --  3
+
+  Chicago              IP  H  R ER BB SO
+Colon B               6.0  6  2  2  3  6
+Gordon T              0.2  2  1  1  0  1
+Marte D*              1.1  0  0  0  1  1
+Koch B (W)            2.0  1  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Rodriguez R           6.0  4  1  1  1  5
+Santiago J            0.2  3  2  2  0  1
+Sadler C              0.1  0  0  0  0  0
+Riske D               1.0  0  0  0  1  0
+Baez D                1.0  0  0  0  0  0
+Paronto C (L)         1.0  2  2  2  1  0
+  * Pitched to 1 batter in 9th
+
+DP -- Chicago 1, Cleveland 2
+LOB -- Chicago 5, Cleveland 8
+2B -- Bard J, Jimenez D, Alomar S 2, Bradley M, Vizquel O 2, Blake C
+CS -- Bradley M
+SH -- Rowand A, Blake C
+SF -- Thomas F
+T -- 3:07
+A -- 42301
+     Game of 4/9/2003 -- Chicago at Cleveland (N)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Jimenez D, 2b         3  0  1  0   Bradley M, cf         3  1  1  1   
+Graffanino T, ss      3  0  1  0   Vizquel O, ss         2  1  1  1   
+Thomas F, dh          4  0  2  1   Lawton M, lf          2  0  0  0   
+Ordonez M, rf         4  0  1  0   Burks E, dh           3  0  1  0   
+Konerko P, 1b         3  1  1  1   Garcia K, rf          4  0  1  2   
+Lee C, lf             4  0  0  0   Spencer S, 1b         3  0  0  0   
+Crede J, 3b           4  0  0  0   McDonald J, 3b        1  0  0  0   
+Rowand A, cf          3  0  1  0   Bard J, c             4  0  0  0   
+Rios A, ph            1  0  0  0   Blake C, 3b-1b        3  1  1  0   
+Paul J, c             3  1  1  0   Phillips B, 2b        3  2  2  1   
+Daubach B, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        28  5  7  5
+
+Chicago          010 010 000 --  2
+Cleveland        210 100 10x --  5
+
+  Chicago              IP  H  R ER BB SO
+Garland J (L)*        6.0  6  5  5  4  2
+Wunsch K              0.2  0  0  0  1  0
+White R               1.1  1  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B (W)        6.0  7  2  2  2  2
+Santiago J            1.1  1  0  0  1  1
+Baez D (S)            1.2  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+E -- Crede J
+DP -- Cleveland 1
+LOB -- Chicago 7, Cleveland 6
+2B -- Graffanino T, Blake C, Thomas F, Phillips B
+HR -- Konerko P, Phillips B
+SB -- Phillips B
+CS -- Jimenez D, Blake C
+SF -- Bradley M, Vizquel O
+WP -- Anderson B
+T -- 2:25
+A -- 14841
+     Game of 4/10/2003 -- Chicago at Cleveland (N)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Jimenez D, 2b         4  0  0  0   Bradley M, cf         4  1  1  0   
+Valentin J, ss        3  1  0  0   Vizquel O, ss         4  0  0  0   
+Thomas F, dh          4  1  1  0   Lawton M, lf          4  1  0  0   
+Ordonez M, rf         5  2  2  2   Burks E, dh           4  0  3  1   
+Konerko P, 1b         5  1  1  0   Spencer S, rf         4  0  2  0   
+Daubach B, lf         4  0  0  0   Blake C, 3b           3  0  0  0   
+Rowand A, cf          0  0  0  0   Selby B, ph-3b        0  0  0  0   
+Crede J, 3b           4  1  1  1   Hafner T, 1b          3  0  0  1   
+Rios A, cf-lf         4  1  2  2   Bard J, c             3  0  0  0   
+Alomar S, c           3  0  3  2   Phillips B, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 10  7                        32  2  6  2
+
+Chicago          500 010 010 --  7
+Cleveland        000 001 010 --  2
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (W)         7.0  5  1  1  3  2
+Gordon T              0.1  1  1  1  2  1
+Marte D               1.2  0  0  0  1  2
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (L)           4.0  5  5  5  4  4
+Mulholland T          4.0  5  2  2  1  2
+Paronto C             1.0  0  0  0  0  1
+
+DP -- Chicago 1, Cleveland 1
+LOB -- Chicago 7, Cleveland 10
+2B -- Spencer S, Bradley M, Alomar S
+HR -- Ordonez M
+HBP -- by Buehrle M (Bradley M)
+T -- 2:25
+A -- 15916
+     Game of 4/11/2003 -- Kansas City at Cleveland (N)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+Tucker M, cf          4  0  0  0   Bradley M, cf         4  0  1  0   
+Randa J, 3b           4  0  1  0   Vizquel O, ss         4  0  1  0   
+Sweeney M, 1b         4  0  0  0   Lawton M, lf          4  0  1  0   
+Ibanez R, lf          3  0  0  0   Burks E, dh           4  0  1  0   
+Brown D, dh           2  1  1  0   Spencer S, rf         4  0  1  0   
+Relaford D, rf        3  0  0  0   Selby B, 3b           4  0  0  0   
+Mayne B, c            3  0  1  0   Hafner T, 1b          4  0  0  0   
+Berroa A, ss          2  0  1  1   Laker T, c            2  0  2  0   
+Febles C, 2b          3  0  0  0   McDonald J, 2b        2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     28  1  4  1                        32  0  8  0
+
+Kansas City      000 010 000 --  1
+Cleveland        000 000 000 --  0
+
+  Kansas City          IP  H  R ER BB SO
+Hernandez R (W)       7.0  7  0  0  2  4
+Grimsley J            1.0  0  0  0  0  1
+MacDougal M (S)       1.0  1  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (L)       6.0  3  1  1  1  3
+Traber B              2.1  0  0  0  0  2
+Santiago J            0.1  1  0  0  0  0
+Sadler C              0.1  0  0  0  0  0
+
+E -- Selby B
+DP -- Kansas City 1, Cleveland 2
+LOB -- Kansas City 3, Cleveland 7
+2B -- Mayne B, Laker T, Spencer S
+SB -- Lawton M
+CS -- Laker T
+SH -- Berroa A
+HBP -- by Traber B (Ibanez R)
+T -- 2:23
+A -- 17931
+     Game of 4/12/2003 -- Kansas City at Cleveland (D)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+Tucker M, cf          5  1  1  2   Bradley M, cf         5  1  2  1   
+Randa J, 3b           5  0  1  0   Vizquel O, ss         5  0  0  0   
+Harvey K, dh          4  1  1  0   Burks E, dh           4  0  1  0   
+Ibanez R, lf          4  1  2  2   Spencer S, rf         4  0  0  0   
+Berger B, rf          3  0  0  0   Lawton M, lf          2  0  1  0   
+Relaford D, 2b        2  1  2  0   Bard J, c             4  0  3  0   
+Lopez M, 1b           3  0  1  1   Blake C, 1b           2  0  0  0   
+Berroa A, ss          4  0  0  0   Hafner T, ph-1b       2  0  0  0   
+DiFelice M, c         4  1  1  0   Phillips B, 2b        4  1  1  1   
+                                   McDonald J, 3b        3  0  1  0   
+                                   Selby B, ph           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5  9  5                        35  2  9  2
+
+Kansas City      000 102 200 --  5
+Cleveland        110 000 000 --  2
+
+  Kansas City          IP  H  R ER BB SO
+George C (W)          5.1  7  2  2  1  3
+Grimsley J            0.2  0  0  0  0  1
+Lopez A               2.0  2  0  0  0  3
+Carrasco D (S)        1.0  0  0  0  1  0
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (L)        5.1  7  3  3  2  6
+Riske D               1.1  2  2  2  0  2
+Sadler C              1.1  0  0  0  1  3
+Paronto C             1.0  0  0  0  0  0
+
+E -- Berroa A, Vizquel O
+DP -- Kansas City 1, Cleveland 1
+LOB -- Kansas City 6, Cleveland 9
+2B -- Randa J, Lopez M, Relaford D
+HR -- Bradley M, Phillips B, Ibanez R, Tucker M
+SB -- Relaford D
+SH -- Lopez M
+HBP -- by George C (Lawton M)
+Balk -- Sabathia C
+T -- 2:38
+A -- 18168
+     Game of 4/13/2003 -- Kansas City at Cleveland (D)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+Tucker M, cf          4  0  1  0   Bradley M, cf         5  2  4  1   
+Randa J, dh           3  0  1  0   Vizquel O, ss         4  1  0  0   
+Ibanez R, lf          5  1  1  1   Burks E, dh           5  1  2  1   
+Harvey K, 1b          5  0  0  0   Spencer S, rf         4  1  2  1   
+Relaford D, ss        4  0  1  0   Lawton M, lf          5  0  1  0   
+Brown D, rf           4  0  1  0   Bard J, c             2  0  1  2   
+Lopez M, 3b           4  0  1  0   Blake C, 3b           4  0  1  0   
+Febles C, 2b          2  0  1  0   Hafner T, 1b          4  1  1  0   
+DiFelice M, c         4  0  2  0   Phillips B, 2b        4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  1  9  1                        37  6 13  5
+
+Kansas City      000 010 000 --  1
+Cleveland        300 001 02x --  6
+
+  Kansas City          IP  H  R ER BB SO
+May D (L)             4.0  7  3  3  1  3
+Wilson K              3.0  4  1  0  1  4
+Bukvich R             1.0  2  2  2  2  1
+
+  Cleveland            IP  H  R ER BB SO
+Rodriguez R (W)       7.0  8  1  1  2  4
+Santiago J            1.0  1  0  0  0  1
+Baez D                1.0  0  0  0  1  2
+
+E -- Hafner T, Ibanez R, Wilson K, DiFelice M
+DP -- Cleveland 1
+LOB -- Kansas City 12, Cleveland 11
+2B -- Blake C, Lopez M, Bradley M 2, Hafner T
+HR -- Ibanez R, Bradley M
+SB -- Tucker M
+SH -- Randa J
+HBP -- by Rodriguez R (Febles C)
+T -- 2:34
+A -- 19335
+     Game of 4/14/2003 -- Kansas City at Cleveland (N)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+Tucker M, cf          5  2  2  1   Bradley M, cf         4  2  2  1   
+Randa J, 3b           3  1  1  0   Vizquel O, ss         3  1  0  0   
+Lopez M, 3b           0  0  0  0   Burks E, dh           3  1  1  1   
+Sweeney M, 1b         5  1  2  4   Spencer S, rf         3  0  2  1   
+Ibanez R, lf          5  1  1  0   Lawton M, lf          3  0  1  1   
+Harvey K, dh          3  1  1  1   Bard J, c             4  0  1  0   
+Johnson R, pr         1  2  1  0   Blake C, 1b           4  0  1  0   
+Berger B, rf          5  1  1  0   McDonald J, 3b        4  0  0  0   
+Berroa A, ss          5  1  1  0   Phillips B, 2b        3  0  0  0   
+Mayne B, c            4  2  2  2                                      
+Febles C, 2b          5  0  3  3                                      
+                     -- -- -- --                        -- -- -- --
+                     41 12 15 11                        31  4  8  4
+
+Kansas City      011 030 124 -- 12
+Cleveland        003 000 100 --  4
+
+  Kansas City          IP  H  R ER BB SO
+Affeldt J (W)         5.0  5  3  2  2  2
+Carrasco D            2.0  1  1  1  1  0
+Grimsley J            1.0  1  0  0  0  1
+Bukvich R             1.0  1  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B (L)        6.2  8  6  6  1  4
+Riske D               1.0  1  2  2  1  3
+Sadler C*             0.0  1  0  0  1  0
+Paronto C             1.1  5  4  3  0  3
+  * Pitched to 3 batters in 8th
+
+E -- Affeldt J, Bradley M
+DP -- Kansas City 4
+LOB -- Kansas City 7, Cleveland 5
+2B -- Randa J, Berroa A, Sweeney M, Bradley M, Febles C
+HR -- Harvey K, Mayne B, Tucker M, Bradley M, Sweeney M
+SH -- Vizquel O
+HBP -- by Affeldt J (Spencer S), by Riske D (Harvey K), by Sadler C (Tucker M)
+T -- 2:52
+A -- 15875
+     Game of 4/15/2003 -- Baltimore at Cleveland (N)
+
+  Baltimore          AB  R  H RBI    Cleveland          AB  R  H RBI
+Hairston J, 2b        4  1  1  1   Bradley M, cf         5  3  3  0   
+Matthews G, cf        4  0  2  0   Garcia K, cf          0  0  0  0   
+Segui D, dh           3  1  2  0   Vizquel O, ss         5  1  2  1   
+Conine J, 1b          4  1  1  1   Burks E, dh           4  2  2  2   
+Gibbons J, rf         4  0  1  0   Spencer S, rf         4  1  3  1   
+Batista T, 3b         4  0  1  1   Lawton M, lf          3  1  2  3   
+Surhoff B, lf         4  0  2  0   Bard J, c             4  0  0  0   
+Cruz D, ss            4  0  1  0   Blake C, 3b-1b        4  0  1  0   
+Fordyce B, c          3  0  0  0   Hafner T, 1b          3  0  1  0   
+                                   McDonald J, pr-3b     1  0  0  0   
+                                   Phillips B, 2b        4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3 11  3                        37  8 14  7
+
+Baltimore        000 210 000 --  3
+Cleveland        000 430 01x --  8
+
+  Baltimore            IP  H  R ER BB SO
+Daal O (L)            4.1  9  7  7  0  2
+Hentgen P             3.2  5  1  1  0  4
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (W)           7.0  8  3  3  1  1
+Santiago J            1.0  2  0  0  0  0
+Baez D                1.0  1  0  0  0  1
+
+DP -- Cleveland 3
+LOB -- Baltimore 5, Cleveland 6
+2B -- Segui D, Conine J, Surhoff B, Burks E, Blake C, Bradley M, Spencer S, Hafner T
+3B -- Vizquel O
+HR -- Lawton M, Hairston J
+HBP -- by Daal O (Lawton M)
+WP -- Hentgen P
+T -- 2:26
+A -- 17015
+     Game of 4/16/2003 -- Baltimore at Cleveland (N)
+
+  Baltimore          AB  R  H RBI    Cleveland          AB  R  H RBI
+Hairston J, 2b        5  0  0  0   Bradley M, cf         4  0  1  0   
+Matthews G, cf        4  1  1  0   Vizquel O, ss         4  1  1  1   
+Segui D, dh           3  0  2  1   Garcia K, rf          4  0  1  0   
+Conine J, 1b          3  0  1  0   Spencer S, lf         4  1  1  0   
+Gibbons J, rf         3  1  0  0   Lawton M, dh          3  1  0  1   
+Batista T, 3b         3  0  0  1   Hafner T, 1b          4  0  1  1   
+Surhoff B, lf         4  0  0  0   Blake C, 3b           3  0  0  0   
+Mora M, ss            4  1  1  2   Selby B, ph           1  0  0  0   
+Gil G, c              3  0  1  0   Laker T, c            3  0  1  0   
+Morban J, pr          0  1  0  0   Phillips B, 2b        3  0  2  0   
+Fordyce B, c          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  4  6  4                        33  3  8  3
+
+Baltimore        010 000 021 --  4
+Cleveland        000 210 000 --  3
+
+  Baltimore            IP  H  R ER BB SO
+Helling R             7.0  8  3  3  1  4
+Groom B (W)           1.2  0  0  0  0  2
+Julio J (S)           0.1  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J           5.2  2  1  0  3  2
+Traber B              1.2  3  2  2  0  2
+Baez D (L)            1.2  1  1  1  2  0
+
+E -- Vizquel O
+DP -- Baltimore 2, Cleveland 1
+LOB -- Baltimore 7, Cleveland 4
+2B -- Conine J, Spencer S, Hafner T, Garcia K
+HR -- Vizquel O, Mora M
+WP -- Helling R, Traber B
+T -- 2:45
+A -- 15674
+     Game of 4/17/2003 -- Baltimore at Cleveland (N)
+
+  Baltimore          AB  R  H RBI    Cleveland          AB  R  H RBI
+Hairston J, 2b        5  0  2  2   Bradley M, cf         5  0  0  0   
+Mora M, cf-lf         4  1  0  0   Vizquel O, ss         6  0  1  0   
+Segui D, dh           4  1  2  0   Garcia K, rf          6  1  1  1   
+Surhoff B, ph         2  0  1  0   Spencer S, lf         5  1  1  0   
+Conine J, 1b          5  1  2  3   Lawton M, dh          4  1  0  0   
+Gibbons J, rf         5  0  1  0   Hafner T, 1b          5  1  2  3   
+Batista T, 3b         6  1  1  0   Bard J, c             3  0  1  0   
+Cordova M, lf         4  1  0  0   McDonald J, pr-3b     1  0  1  0   
+Matthews G, cf        0  0  0  0   Blake C, 3b           3  0  0  0   
+Cruz D, ss            5  0  1  0   Selby B, ph           1  0  1  0   
+Gil G, c              4  0  0  0   Laker T, c            1  0  0  0   
+Morban J, pr          0  1  0  0   Phillips B, 2b        5  0  1  0   
+Fordyce B, c          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     44  6 10  5                        45  4  9  4
+
+Baltimore        010 100 200 002 --  6
+Cleveland        030 001 000 000 --  4
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S              7.0  7  4  4  1  8
+Ryan B                1.1  0  0  0  1  2
+Ligtenberg K          0.1  1  0  0  2  1
+Groom B               1.1  0  0  0  0  0
+Roberts W (W)         1.0  1  0  0  0  0
+Julio J (S)           1.0  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C            7.0  7  4  4  3  2
+Santiago J            2.0  0  0  0  1  0
+Riske D               2.0  1  0  0  0  3
+Paronto C (L)         0.1  0  2  2  2  0
+Sadler C              0.2  2  0  0  0  2
+
+E -- Conine J, McDonald J
+DP -- Baltimore 1, Cleveland 2
+LOB -- Baltimore 9, Cleveland 9
+2B -- Phillips B, Hairston J, Bard J
+HR -- Conine J, Hafner T, Garcia K
+SB -- Lawton M, Cordova M
+SH -- Hairston J
+WP -- Ponson S, Sabathia C, Sadler C
+T -- 3:22
+A -- 17368
+     Game of 4/29/2003 -- Anaheim at Cleveland (N)
+
+  Anaheim            AB  R  H RBI    Cleveland          AB  R  H RBI
+Eckstein D, ss        5  1  1  0   Gerut J, cf           4  0  1  0   
+Johnson G, lf         0  0  0  0   Vizquel O, ss         4  0  1  0   
+Kennedy A, 2b         4  1  1  0   Garcia K, rf          4  0  0  0   
+Salmon T, rf          3  1  2  0   Burks E, dh           3  1  1  1   
+Owens E, cf           1  0  0  0   Lawton M, lf          4  0  2  0   
+Anderson G, lf        4  1  1  3   Bard J, c             4  0  0  0   
+Gil B, ss             1  0  0  0   Hafner T, 1b          2  0  0  0   
+Fullmer B, 1b         5  2  3  1   Blake C, 3b           3  0  2  0   
+Glaus T, dh           4  2  2  1   Phillips B, 2b        3  0  0  0   
+Wooten S, ph          1  0  0  0                                      
+Spiezio S, 3b         4  2  1  1                                      
+Molina B, c           4  0  0  0                                      
+Molina J, c           0  0  0  0                                      
+DaVanon J, cf-rf      3  0  2  3                                      
+                     -- -- -- --                        -- -- -- --
+                     39 10 13  9                        31  1  7  1
+
+Anaheim          022 021 300 -- 10
+Cleveland        000 100 000 --  1
+
+  Anaheim              IP  H  R ER BB SO
+Ortiz R (W)           9.0  7  1  1  2  0
+
+  Cleveland            IP  H  R ER BB SO
+Rodriguez R (L)       5.0  8  6  4  1  2
+Myette A              1.2  5  4  4  1  1
+Mulholland T          2.1  0  0  0  0  0
+
+E -- Blake C
+DP -- Anaheim 3, Cleveland 1
+LOB -- Anaheim 6, Cleveland 5
+2B -- Fullmer B, Gerut J, Lawton M, Glaus T, Spiezio S
+3B -- Fullmer B
+HR -- Anderson G, Burks E
+SB -- Spiezio S
+SF -- DaVanon J
+HBP -- by Myette A (Kennedy A)
+T -- 2:25
+A -- 16667
+     Game of 4/30/2003 -- Anaheim at Cleveland (N)
+
+  Anaheim            AB  R  H RBI    Cleveland          AB  R  H RBI
+Eckstein D, ss        5  0  2  0   Vizquel O, ss         3  1  1  0   
+Gil B, 2b             3  0  0  0   Lawton M, lf          4  1  1  2   
+Salmon T, rf          4  0  1  0   Burks E, dh           4  0  1  0   
+DaVanon J, rf         0  0  0  0   Spencer S, rf         4  0  0  0   
+Anderson G, lf        4  0  0  0   Blake C, 3b           2  0  0  0   
+Glaus T, 3b           3  2  2  0   Selby B, ph           1  0  0  0   
+Wooten S, 1b          3  2  2  1   Gerut J, cf           4  0  1  0   
+Spiezio S, ph-1b      1  0  0  0   Bard J, c             4  0  0  0   
+Fullmer B, dh         4  1  2  2   Hafner T, 1b          2  0  1  0   
+Molina B, c           4  1  2  2   Phillips B, 2b        3  0  0  0   
+Owens E, cf           4  0  2  1                                      
+                     -- -- -- --                        -- -- -- --
+                     35  6 13  6                        31  2  5  2
+
+Anaheim          020 202 000 --  6
+Cleveland        000 000 020 --  2
+
+  Anaheim              IP  H  R ER BB SO
+Washburn J (W)        8.0  5  2  2  2  1
+Donnelly B            1.0  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B (L)        6.0 10  6  6  1  1
+Santiago J            2.0  1  0  0  1  1
+Baez D                1.0  2  0  0  0  0
+
+DP -- Anaheim 1, Cleveland 3
+LOB -- Anaheim 4, Cleveland 5
+2B -- Salmon T, Wooten S, Gerut J, Glaus T, Hafner T
+HR -- Molina B, Fullmer B, Lawton M
+CS -- Owens E 2
+HBP -- by Washburn J (Blake C)
+T -- 2:14
+A -- 15761
+     Game of 5/2/2003 -- Texas at Cleveland (N)
+
+  Texas              AB  R  H RBI    Cleveland          AB  R  H RBI
+Everett C, lf         5  1  1  1   Lawton M, lf          4  2  2  0   
+Blalock H, 3b         4  1  0  1   Vizquel O, ss         2  2  0  0   
+Rodriguez A, ss       4  1  1  1   Burks E, dh           4  0  2  4   
+Palmeiro R, 1b        3  0  0  0   Garcia K, rf          4  0  0  0   
+Gonzalez J, rf        3  0  2  0   Bard J, c             3  0  0  0   
+Sierra R, dh          3  0  0  0   Gerut J, cf           3  1  1  1   
+Christenson R, cf     3  0  0  0   Hafner T, 1b          4  1  1  1   
+Lamb M, ph            1  0  0  0   Blake C, 1b           0  0  0  0   
+Diaz E, c             4  0  0  0   Selby B, 3b           3  0  0  0   
+Young M, 2b           3  2  2  0   McDonald J, 3b        0  0  0  0   
+                                   Phillips B, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  6  3                        30  6  6  6
+
+Texas            103 010 000 --  5
+Cleveland        010 012 02x --  6
+
+  Texas                IP  H  R ER BB SO
+Benoit J              5.1  3  4  4  1  6
+Garcia R*             0.0  1  0  0  0  0
+Fultz A               1.2  0  0  0  0  0
+Cordero F (L)         0.1  1  2  2  1  1
+Urbina U              0.2  1  0  0  2  1
+
+  Cleveland            IP  H  R ER BB SO
+Davis J+              4.0  4  5  2  3  5
+Traber B              3.2  1  0  0  0  5
+Elder D (W)           0.1  0  0  0  1  1
+Baez D (S)            1.0  1  0  0  0  1
+  * Pitched to 1 batter in 6th
+  + Pitched to 2 batters in 5th
+
+E -- Hafner T
+DP -- Cleveland 1
+LOB -- Texas 5, Cleveland 4
+2B -- Everett C, Gonzalez J, Burks E 2
+HR -- Rodriguez A, Gerut J, Hafner T
+WP -- Davis J 2, Traber B, Urbina U
+Balk -- Davis J
+PB -- Bard J
+T -- 2:52
+A -- 19823
+     Game of 5/3/2003 -- Texas at Cleveland (D)
+
+  Texas              AB  R  H RBI    Cleveland          AB  R  H RBI
+Young M, 2b           4  1  2  1   Lawton M, lf          3  2  2  3   
+Blalock H, 3b         4  1  1  0   Vizquel O, ss         4  0  0  0   
+Rodriguez A, ss       4  0  2  2   Burks E, dh           5  0  0  0   
+Palmeiro R, 1b        3  1  1  0   Spencer S, rf         4  0  1  0   
+Gonzalez J, dh        4  0  0  0   Gerut J, cf           4  0  1  1   
+Everett C, rf         4  1  2  1   Blake C, 3b-1b        3  0  1  0   
+Lamb M, lf            1  1  0  0   Hafner T, 1b          3  0  0  0   
+Sierra R, ph-lf       2  0  0  0   Phillips B, ph        0  0  0  0   
+Sadler D, lf          0  0  0  0   Selby B, ph-3b        1  0  0  0   
+Diaz E, c             4  0  1  0   Laker T, c            3  2  1  0   
+Christenson R, cf     4  1  2  2   Bard J, ph-c          1  0  1  0   
+                                   McDonald J, 2b        4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  6 11  6                        35  5  8  5
+
+Texas            040 000 200 --  6
+Cleveland        120 200 000 --  5
+
+  Texas                IP  H  R ER BB SO
+Van Poppel T          4.0  5  5  3  2  2
+Powell J (W)          2.0  2  0  0  0  1
+Dickey R              1.0  0  0  0  1  0
+Shouse B              0.1  0  0  0  1  0
+Cordero F             0.2  1  0  0  0  2
+Urbina U (S)          1.0  0  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J           5.2  7  4  4  2  3
+Sadler C              0.1  0  0  0  0  0
+Santiago J (L)        0.2  2  2  2  1  0
+Riske D               2.1  2  0  0  0  2
+
+E -- Rodriguez A, Blalock H
+DP -- Texas 1, Cleveland 3
+LOB -- Texas 5, Cleveland 7
+2B -- Palmeiro R, Everett C, Rodriguez A
+3B -- Everett C, McDonald J
+HR -- Lawton M
+SB -- Lamb M, Laker T
+CS -- Gerut J, Diaz E
+HBP -- by Westbrook J (Palmeiro R)
+T -- 2:57
+A -- 23030
+     Game of 5/4/2003 -- Texas at Cleveland (D)
+
+  Texas              AB  R  H RBI    Cleveland          AB  R  H RBI
+Young M, 2b           4  1  0  0   Lawton M, lf          3  1  0  0   
+Everett C, rf         3  0  1  1   Gerut J, cf           0  0  0  0   
+Rodriguez A, ss       3  0  1  0   Vizquel O, ss         4  1  1  0   
+Gonzalez J, dh        4  0  0  0   Burks E, dh           4  1  2  1   
+Sierra R, lf          4  0  1  0   Garcia K, cf-rf       4  0  1  1   
+Christenson R, cf     2  0  0  0   Spencer S, rf-lf      3  0  0  0   
+Palmeiro R, ph        1  0  0  0   Bard J, c             2  0  1  0   
+Teixeira M, 1b        3  0  1  0   Selby B, 3b           2  0  0  1   
+Diaz E, c             3  0  0  0   McDonald J, 3b        0  0  0  0   
+Sadler D, 3b          2  0  0  0   Blake C, 1b           3  0  0  0   
+                                   Phillips B, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  1  4  1                        28  3  5  3
+
+Texas            000 001 000 --  1
+Cleveland        000 300 00x --  3
+
+  Texas                IP  H  R ER BB SO
+Thomson J (L)         8.0  5  3  3  2  4
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        8.0  4  1  0  3  5
+Baez D (S)            1.0  0  0  0  1  1
+
+E -- Vizquel O
+DP -- Cleveland 2
+LOB -- Texas 5, Cleveland 4
+2B -- Rodriguez A
+SB -- Sadler D, Rodriguez A
+CS -- Christenson R
+SF -- Selby B
+T -- 2:11
+A -- 20866
+     Game of 5/13/2003 -- Seattle at Cleveland (N)
+
+  Seattle            AB  R  H RBI    Cleveland          AB  R  H RBI
+Suzuki I, rf          5  0  4  1   Lawton M, lf          4  0  1  1   
+Guillen C, ss         5  1  2  0   Vizquel O, ss         4  0  1  1   
+Boone B, 2b           4  1  1  0   Burks E, dh           3  0  1  0   
+Martinez E, dh        5  0  1  2   Bradley M, cf         3  0  0  0   
+Olerud J, 1b          5  2  2  0   Gerut J, rf           4  0  1  0   
+Cameron M, cf         3  2  2  0   Bard J, c             4  1  2  0   
+Winn R, lf            5  1  2  3   Broussard B, 1b       3  0  0  0   
+Cirillo J, 3b         5  1  3  2   Blake C, 3b           4  1  1  0   
+Wilson D, c           4  0  0  0   Phillips B, 2b        4  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     41  8 17  8                        33  3  9  2
+
+Seattle          200 420 000 --  8
+Cleveland        030 000 000 --  3
+
+  Seattle              IP  H  R ER BB SO
+Pineiro J (W)         6.0  9  3  3  3  3
+Carrara G             2.0  0  0  0  0  0
+Hasegawa S            1.0  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B (L)        4.0  9  6  6  1  2
+Riggan J              2.0  5  2  2  1  1
+Mulholland T          1.0  1  0  0  0  0
+Sadler C              1.0  2  0  0  0  1
+Boyd J                1.0  0  0  0  1  1
+
+E -- Cirillo J
+DP -- Seattle 3, Cleveland 2
+LOB -- Seattle 9, Cleveland 7
+2B -- Burks E, Bard J, Gerut J, Cameron M, Suzuki I, Cirillo J
+3B -- Winn R
+HBP -- by Pineiro J (Lawton M)
+T -- 2:50
+A -- 16721
+     Game of 5/14/2003 -- Seattle at Cleveland (N)
+
+  Seattle            AB  R  H RBI    Cleveland          AB  R  H RBI
+Suzuki I, rf          4  0  1  0   Lawton M, lf          4  0  1  2   
+Guillen C, ss         4  0  0  0   Vizquel O, ss         5  1  1  1   
+Martinez E, dh        3  1  1  1   Burks E, dh           5  0  1  2   
+Olerud J, 1b          4  0  0  0   Bradley M, cf         3  0  1  0   
+Cameron M, cf         2  1  1  0   Gerut J, cf           0  0  0  0   
+Winn R, lf            3  0  0  0   Spencer S, rf         4  0  0  0   
+McLemore M, 2b        2  0  0  0   Bard J, c             4  0  0  0   
+Cirillo J, 3b         3  0  1  0   Broussard B, 1b       4  2  3  1   
+Davis B, c            2  0  0  0   Blake C, 3b           4  2  1  0   
+                                   Phillips B, 2b        3  2  1  1   
+                     -- -- -- --                        -- -- -- --
+                     27  2  4  1                        36  7  9  7
+
+Seattle          100 010 000 --  2
+Cleveland        132 010 00x --  7
+
+  Seattle              IP  H  R ER BB SO
+Garcia F (L)          6.0  8  7  4  2  5
+Mateo J               1.0  1  0  0  0  2
+Rhodes A              0.2  0  0  0  0  0
+Sasaki K              0.1  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (W)           7.0  4  2  1  1  7
+Traber B              1.0  0  0  0  2  1
+Baez D                1.0  0  0  0  0  1
+
+E -- Olerud J, Guillen C, Davis B, Broussard B
+DP -- Cleveland 3
+LOB -- Seattle 2, Cleveland 8
+2B -- Burks E, Phillips B, Lawton M
+HR -- Martinez E, Broussard B
+SB -- Bradley M
+CS -- Cameron M
+HBP -- by Garcia F (Bradley M), by Davis J (Martinez E)
+WP -- Garcia F 2, Davis J
+PB -- Davis B
+T -- 2:29
+A -- 17324
+     Game of 5/15/2003 -- Seattle at Cleveland (N)
+
+  Seattle            AB  R  H RBI    Cleveland          AB  R  H RBI
+Suzuki I, rf          4  1  1  0   Lawton M, lf          4  0  1  0   
+Bloomquist W, lf      0  0  0  0   Vizquel O, ss         3  1  1  1   
+Guillen C, ss         4  2  1  0   McDonald J, ss        1  0  0  0   
+Boone B, 2b           4  2  1  0   Burks E, dh           4  0  1  0   
+Martinez E, dh        4  1  2  4   Spencer S, rf         3  0  1  0   
+Olerud J, 1b          4  1  1  0   Gerut J, cf           4  0  1  0   
+Cameron M, cf         3  1  1  0   Laker T, c            4  0  1  0   
+Winn R, lf-rf         4  1  1  2   Broussard B, 1b       4  0  0  0   
+Cirillo J, 3b         4  0  1  2   Blake C, 3b           3  0  1  0   
+Davis B, c            4  0  0  0   Phillips B, 2b        3  0  0  0   
+                                   Selby B, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  9  9  8                        34  1  7  1
+
+Seattle          304 000 020 --  9
+Cleveland        000 000 100 --  1
+
+  Seattle              IP  H  R ER BB SO
+Franklin R            3.0  2  0  0  0  2
+Carrara G (W)         3.0  3  0  0  2  0
+Mateo J               1.0  1  1  1  0  1
+Hasegawa S            1.0  1  0  0  0  1
+Nelson J              1.0  0  0  0  1  2
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (L)       2.1  5  7  7  5  2
+Mulholland T          1.0  2  0  0  2  0
+Riske D               1.2  0  0  0  0  3
+Boyd J                2.0  0  0  0  2  1
+Riggan J              2.0  2  2  2  0  1
+
+E -- Guillen C
+DP -- Seattle 1
+LOB -- Seattle 9, Cleveland 10
+2B -- Cameron M, Martinez E, Gerut J, Boone B, Spencer S
+HR -- Martinez E, Vizquel O
+SB -- Boone B
+SF -- Martinez E
+HBP -- by Franklin R (Lawton M)
+Balk -- Riggan J
+T -- 2:50
+A -- 17889
+     Game of 5/16/2003 -- Oakland at Cleveland (N)
+
+  Oakland            AB  R  H RBI    Cleveland          AB  R  H RBI
+Ellis M, 2b           4  0  0  0   Lawton M, lf          4  0  0  0   
+Hatteberg S, 1b       3  0  1  0   Vizquel O, ss         4  2  2  0   
+Chavez E, 3b          4  0  0  0   Burks E, dh           4  1  2  3   
+Tejada M, ss          4  1  1  1   Bradley M, cf         2  0  1  0   
+Durazo E, dh          4  0  0  0   Spencer S, 1b         3  0  1  0   
+Hernandez R, c        4  1  1  1   Broussard B, 1b       0  0  0  0   
+Byrnes E, cf          3  0  1  0   Bard J, c             3  0  0  0   
+Long T, rf            3  0  0  0   Blake C, 3b           2  0  0  0   
+Gant R, lf            2  0  0  0   Gerut J, rf           3  0  1  0   
+                                   Phillips B, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  2                        28  3  7  3
+
+Oakland          010 001 000 --  2
+Cleveland        000 002 01x --  3
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (L)          8.0  7  3  3  2  4
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C            7.0  4  2  2  2  8
+Traber B (W)          1.0  0  0  0  0  2
+Baez D (S)            1.0  0  0  0  0  2
+
+DP -- Oakland 2
+LOB -- Oakland 4, Cleveland 3
+HR -- Hernandez R, Tejada M, Burks E
+SB -- Vizquel O
+T -- 2:11
+A -- 22357
+     Game of 5/17/2003 -- Oakland at Cleveland (N)
+
+  Oakland            AB  R  H RBI    Cleveland          AB  R  H RBI
+Byrnes E, lf-cf       4  0  1  0   Lawton M, lf          4  1  1  1   
+Hatteberg S, 1b       3  0  0  0   Vizquel O, ss         3  0  0  1   
+Chavez E, 3b          4  0  1  0   Burks E, dh           3  0  1  0   
+Tejada M, ss          4  1  0  0   Bradley M, cf         2  0  0  0   
+Durazo E, dh          4  1  2  2   Spencer S, rf         4  0  0  0   
+Long T, rf            3  0  0  0   Bard J, c             3  2  2  1   
+Menechino F, 2b       3  0  0  0   Blake C, 3b-1b        3  0  1  0   
+Gant R, ph-lf         1  0  0  0   Broussard B, 1b       2  0  0  0   
+Singleton C, cf       2  0  0  0   Phillips B, ph-2b     0  1  0  0   
+Hernandez R, ph-c     1  0  0  0   McDonald J, 2b-3b     1  0  0  1   
+Johnson M, c          2  0  0  0                                      
+Ellis M, 2b           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  2                        25  4  5  4
+
+Oakland          000 001 010 --  2
+Cleveland        010 010 02x --  4
+
+  Oakland              IP  H  R ER BB SO
+Halama J              6.0  4  2  2  1  2
+Bradford C            1.0  0  0  0  0  1
+Rincon R (L)          1.0  1  2  1  3  1
+
+  Cleveland            IP  H  R ER BB SO
+Rodriguez R           6.0  3  1  1  3  3
+Sadler C              0.1  0  0  0  0  0
+Riske D               0.1  0  0  0  0  1
+Traber B*             0.0  0  0  0  2  0
+Boyd J                0.1  0  0  0  0  0
+Mulholland T (W)      1.0  1  1  1  0  0
+Baez D (S)            1.0  0  0  0  2  1
+  * Pitched to 2 batters in 7th
+
+E -- Vizquel O, Long T
+LOB -- Oakland 11, Cleveland 4
+2B -- Burks E, Blake C, Durazo E
+HR -- Bard J, Durazo E
+SB -- Byrnes E 2
+CS -- Burks E
+SH -- Johnson M, McDonald J, Vizquel O
+SF -- McDonald J
+HBP -- by Sadler C (Singleton C)
+T -- 2:41
+A -- 23958
+     Game of 5/18/2003 -- Oakland at Cleveland (D)
+
+  Oakland            AB  R  H RBI    Cleveland          AB  R  H RBI
+Byrnes E, cf-lf       4  1  1  2   Gerut J, rf           5  1  1  0   
+Hatteberg S, 1b       4  0  2  2   Vizquel O, ss         4  1  0  0   
+Tejada M, ss          4  0  0  1   Burks E, dh           4  3  2  1   
+Chavez E, 3b          5  0  1  0   Bradley M, cf         3  0  1  0   
+Durazo E, dh          4  1  1  0   Spencer S, lf         3  0  1  0   
+Hernandez R, c        4  1  1  0   Blake C, 1b           4  0  1  2   
+Ellis M, 2b           4  2  3  1   Laker T, c            4  0  0  0   
+Long T, rf            4  2  2  0   McDonald J, 3b        4  0  0  0   
+Gant R, lf            3  0  1  1   Phillips B, 2b        4  0  0  0   
+Singleton C, ph-cf    1  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     37  8 13  8                        35  5  6  3
+
+Oakland          000 000 035 --  8
+Cleveland        202 010 000 --  5
+
+  Oakland              IP  H  R ER BB SO
+Lilly T*              4.0  5  5  4  4  3
+Bradford C            2.0  1  0  0  0  5
+Mecir J               1.0  0  0  0  0  1
+Foulke K (W)          2.0  0  0  0  0  4
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B            7.1  5  3  3  2  2
+Boyd J                0.1  1  0  0  1  0
+Mulholland T          0.1  0  0  0  0  0
+Baez D (L)            0.1  5  5  5  0  0
+Sadler C              0.2  2  0  0  0  0
+  * Pitched to 2 batters in 5th
+
+E -- Ellis M 2, Hernandez R
+DP -- Cleveland 2
+LOB -- Oakland 6, Cleveland 7
+2B -- Gerut J, Burks E, Ellis M, Durazo E, Chavez E
+SB -- Burks E, Phillips B
+SF -- Byrnes E
+WP -- Lilly T
+Balk -- Bradford C
+T -- 2:58
+A -- 25421
+     Game of 5/19/2003 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Kingsale E, cf        4  1  1  0   Lawton M, lf          5  1  2  2   
+Santiago R, 2b        4  0  1  0   Vizquel O, ss         5  0  1  0   
+Higginson B, rf       4  2  2  0   Burks E, dh           4  0  0  0   
+Young D, lf           5  1  0  1   Bradley M, cf         4  3  3  0   
+Pena C, 1b            4  3  3  7   Gerut J, rf           4  1  2  4   
+Munson E, 3b          3  0  0  0   Bard J, c             4  0  1  1   
+Witt K, dh            4  1  1  1   McDonald J, pr-3b     0  1  0  0   
+Inge B, c             4  0  0  0   Blake C, 3b-1b        3  3  3  2   
+Infante O, ss         4  1  2  0   Broussard B, 1b       3  1  1  1   
+                                   Laker T, c            0  0  0  0   
+                                   Phillips B, 2b        4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  9 10  9                        36 10 14 10
+
+Detroit          015 001 200 --  9
+Cleveland        003 112 30x -- 10
+
+  Detroit              IP  H  R ER BB SO
+Knotts G              4.1  7  5  5  3  2
+Sparks S              1.2  3  2  2  1  0
+Walker J (L)          1.1  4  3  3  0  1
+Spurling C            0.2  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Davis J               6.0  7  7  2  2  3
+Traber B (W)          1.1  3  2  2  1  3
+Riske D (S)           1.2  0  0  0  0  3
+
+E -- Blake C, Broussard B, Phillips B
+DP -- Detroit 1, Cleveland 1
+LOB -- Detroit 5, Cleveland 6
+2B -- Broussard B, Bradley M 2, Blake C, Bard J
+3B -- Kingsale E
+HR -- Pena C 3, Gerut J, Witt K, Blake C
+SB -- Blake C, Lawton M, Higginson B, Munson E
+CS -- Inge B, Phillips B
+SH -- Kingsale E, Santiago R
+T -- 2:36
+A -- 16492
+     Game of 5/20/2003 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Kingsale E, cf        5  0  0  0   Lawton M, lf          3  0  1  0   
+Santiago R, 2b        4  0  1  0   McDonald J, ss        4  0  1  1   
+Higginson B, rf       4  1  3  0   Burks E, dh           4  0  0  0   
+Young D, lf           4  1  2  2   Bradley M, cf         4  0  1  0   
+Pena C, 1b            4  1  2  0   Gerut J, rf           4  0  0  0   
+Munson E, 3b          3  1  0  0   Bard J, c             4  1  1  1   
+Witt K, dh            3  0  2  1   Blake C, 3b           4  2  2  0   
+Monroe C, ph          1  0  1  0   Broussard B, 1b       4  0  1  0   
+Halter S, ss          3  0  1  1   Selby B, pr           0  1  0  0   
+Walbeck M, c          4  0  0  0   Phillips B, 2b        4  2  3  4   
+                     -- -- -- --                        -- -- -- --
+                     35  4 12  4                        35  6 10  6
+
+Detroit          020 002 000 --  4
+Cleveland        000 021 003 --  6
+  1 out when winning run was scored.
+
+  Detroit              IP  H  R ER BB SO
+Bernero A             6.0  5  3  3  1  5
+Roney M (L)           2.1  5  3  3  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J           6.0 10  4  4  1  1
+Phillips J            1.0  0  0  0  0  0
+Mulholland T          1.0  1  0  0  0  1
+Riske D (W)           1.0  1  0  0  0  1
+
+E -- Munson E, Kingsale E
+DP -- Detroit 1, Cleveland 1
+LOB -- Detroit 6, Cleveland 5
+2B -- Blake C, Higginson B
+HR -- Young D, Bard J, Phillips B
+CS -- Higginson B, Santiago R
+SH -- Halter S
+T -- 2:17
+A -- 15499
+     Game of 5/21/2003 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Torres A, cf          4  0  2  0   Lawton M, lf          4  1  2  1   
+Santiago R, 2b        3  0  0  0   Gerut J, rf           0  0  0  0   
+Higginson B, rf       4  0  0  0   Vizquel O, ss         3  1  1  1   
+Young D, dh           4  0  1  0   Burks E, dh           3  1  0  0   
+Monroe C, lf          4  0  1  0   Bradley M, cf         2  0  0  0   
+Pena C, 1b            3  0  1  0   Spencer S, rf-lf      3  0  2  2   
+Halter S, ss          4  0  0  0   Bard J, c             4  0  0  0   
+Munson E, 3b          4  0  1  0   Broussard B, 1b       3  0  1  0   
+Inge B, c             2  0  1  0   Blake C, 3b           3  0  0  0   
+                                   Phillips B, 2b        3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  0  7  0                        28  4  7  4
+
+Detroit          000 000 000 --  0
+Cleveland        003 100 00x --  4
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (L)       5.0  6  4  3  5  5
+German F              2.0  0  0  0  1  1
+Ledezma W             1.0  1  0  0  1  1
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        6.0  3  0  0  2  5
+Traber B*             1.0  2  0  0  0  1
+Boyd J                1.0  0  0  0  0  3
+Baez D                1.0  2  0  0  0  3
+  * Pitched to 1 batter in 8th
+
+E -- Munson E
+DP -- Detroit 2, Cleveland 1
+LOB -- Detroit 8, Cleveland 7
+2B -- Torres A, Broussard B, Lawton M, Inge B, Monroe C
+SB -- Bradley M, Spencer S
+CS -- Lawton M
+SH -- Santiago R
+T -- 2:23
+A -- 16534
+     Game of 5/22/2003 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Torres A, cf          5  0  0  0   Lawton M, lf          5  1  2  0   
+Santiago R, 2b        5  1  1  0   Vizquel O, ss         4  1  0  0   
+Higginson B, rf       5  1  2  0   Burks E, dh           4  0  1  1   
+Pena C, 1b            3  0  1  0   Bradley M, cf         4  0  0  0   
+Monroe C, lf          4  1  0  0   Gerut J, rf           3  0  0  1   
+Witt K, dh            2  0  1  0   Spencer S, 1b         3  0  0  0   
+Young D, ph           3  0  2  2   McDonald J, 3b        1  0  0  0   
+Kingsale E, pr        0  0  0  0   Blake C, 3b-1b        4  0  2  0   
+Munson E, 3b          3  0  0  1   Laker T, c            2  0  0  0   
+Halter S, ss          4  0  0  0   Selby B, pr           0  0  0  0   
+Inge B, c             4  0  0  0   Bard J, c             1  0  0  0   
+                                   Phillips B, 2b        4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  3  7  3                        35  2  5  2
+
+Detroit          000 002 000 01 --  3
+Cleveland        200 000 000 00 --  2
+
+  Detroit              IP  H  R ER BB SO
+Cornejo N             7.1  4  2  2  1  2
+Avery S               0.2  0  0  0  0  1
+Spurling C            0.2  0  0  0  0  0
+Walker J              0.1  0  0  0  0  1
+German F (W)          1.0  1  0  0  0  1
+Sparks S (S)          1.0  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Bere J                5.2  4  2  2  2  1
+Mulholland T          0.1  1  0  0  0  1
+Boyd J                2.0  0  0  0  1  1
+Riske D               1.0  0  0  0  1  2
+Baez D                1.0  0  0  0  0  1
+Phillips J (L)        1.0  2  1  1  1  1
+
+E -- Halter S
+DP -- Detroit 2
+LOB -- Detroit 8, Cleveland 4
+2B -- Witt K
+SB -- Blake C
+CS -- Phillips B, Pena C
+SH -- Laker T
+SF -- Gerut J, Munson E
+HBP -- by Spurling C (Burks E)
+T -- 3:06
+A -- 18347
+     Game of 5/30/2003 -- Chicago at Cleveland (N)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Jimenez D, 2b         4  1  1  0   Lawton M, lf          4  1  2  0   
+Lee C, lf             4  1  2  0   Vizquel O, ss         3  1  0  0   
+Thomas F, 1b          4  1  2  3   Burks E, dh           2  1  0  0   
+Ordonez M, rf         5  0  0  0   Bradley M, cf         4  2  2  2   
+Konerko P, dh         5  0  1  0   Gerut J, rf           3  1  1  0   
+Graffanino T, ss      4  0  1  0   Bard J, c             4  0  1  2   
+Crede J, 3b           3  0  0  0   Broussard B, 1b       3  1  1  2   
+Borchard J, cf        2  0  0  0   Blake C, 3b           3  0  0  0   
+Alomar S, c           2  0  0  0   Phillips B, 2b        3  0  0  0   
+Olivo M, pr-c         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  7  3                        29  7  7  6
+
+Chicago          201 000 000 --  3
+Cleveland        100 240 00x --  7
+
+  Chicago              IP  H  R ER BB SO
+Wright D (L)*         4.0  4  5  5  5  2
+Glover G              2.2  3  2  2  1  0
+Sanders D             1.0  0  0  0  0  1
+White R               0.1  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        5.0  3  3  3  3  4
+Boyd J                1.0  1  0  0  2  1
+Miceli D              1.0  1  0  0  0  2
+Riske D               1.0  1  0  0  1  1
+Baez D                1.0  1  0  0  0  2
+  * Pitched to 2 batters in 5th
+
+E -- Vizquel O
+DP -- Chicago 1
+LOB -- Chicago 11, Cleveland 4
+2B -- Thomas F, Bard J, Bradley M, Lawton M
+HR -- Thomas F, Broussard B
+SB -- Broussard B, Lee C 2
+SH -- Jimenez D
+WP -- Wright D
+PB -- Alomar S, Olivo M
+T -- 2:57
+A -- 24666
+     Game of 6/1/2003 -- Chicago at Cleveland (D)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Jimenez D, 2b         4  1  2  2   Lawton M, lf          5  1  2  0   
+Lee C, lf             4  1  1  0   Vizquel O, ss         5  1  2  0   
+Thomas F, 1b          4  0  1  1   Burks E, dh           4  1  2  0   
+Ordonez M, rf         5  0  0  0   Bradley M, cf         5  2  2  1   
+Valentin J, ss        3  1  2  0   Spencer S, rf         5  0  2  1   
+Konerko P, dh         4  0  0  0   Laker T, c            3  0  0  0   
+Borchard J, cf        3  0  1  1   Bard J, ph-c          0  0  0  1   
+Crede J, 3b           3  0  0  0   Broussard B, 1b       3  0  2  0   
+Rios A, ph            1  0  0  0   McDonald J, pr-3b     1  0  0  0   
+Graffanino T, 3b      0  0  0  0   Gerut J, ph           1  0  1  1   
+Olivo M, c            4  1  1  0   Blake C, 3b-1b        3  0  0  0   
+                                   Phillips B, 2b        4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  4                        39  5 13  4
+
+Chicago          011 000 020 0 --  4
+Cleveland        010 000 030 1 --  5
+  2 outs when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M             6.1  6  1  1  2  4
+Gordon T              1.0  4  3  3  0  1
+Marte D               1.2  0  0  0  0  1
+Koch B (L)            0.2  3  1  1  1  0
+
+  Cleveland            IP  H  R ER BB SO
+Davis J*              7.0  6  3  3  1  3
+Riske D               1.0  1  1  0  2  0
+Baez D                1.0  1  0  0  0  1
+Boyd J (W)            1.0  0  0  0  0  2
+  * Pitched to 1 batter in 8th
+
+E -- Davis J
+DP -- Chicago 2, Cleveland 1
+LOB -- Chicago 6, Cleveland 9
+2B -- Valentin J, Broussard B, Olivo M, Thomas F, Borchard J
+3B -- Jimenez D
+HR -- Jimenez D
+SB -- Valentin J, Lee C, Vizquel O
+SF -- Borchard J, Jimenez D, Bard J
+PB -- Laker T
+T -- 2:54
+A -- 22681
+     Game of 6/2/2003 -- Chicago at Cleveland (D)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Jimenez D, 2b         3  1  2  2   Lawton M, lf          3  1  2  0   
+Lee C, lf             4  0  0  0   Vizquel O, ss         3  2  1  0   
+Thomas F, dh          4  0  1  0   Burks E, dh           4  0  0  0   
+Ordonez M, rf         4  0  0  0   Bradley M, cf         3  1  1  2   
+Konerko P, 1b         3  0  0  0   Gerut J, rf           3  1  1  1   
+Graffanino T, ss      4  0  0  0   Broussard B, 1b       3  0  1  1   
+Crede J, 3b           3  0  0  0   Blake C, ph-1b        0  0  0  1   
+Valentin J, ph        1  0  0  0   Bard J, c             4  0  0  0   
+Borchard J, cf        4  1  1  0   McDonald J, 3b        3  0  1  0   
+Olivo M, c            3  0  2  0   Phillips B, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  6  2                        29  5  7  5
+
+Chicago          100 010 000 --  2
+Cleveland        000 103 01x --  5
+
+  Chicago              IP  H  R ER BB SO
+Colon B (L)           6.0  7  4  4  1  6
+Glover G              1.1  0  1  1  2  2
+Wunsch K*             0.0  0  0  0  1  0
+White R               0.2  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B (W)        6.0  5  2  2  2  2
+Westbrook J           0.1  1  0  0  1  0
+Boyd J                1.2  0  0  0  0  1
+Baez D (S)            1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Olivo M
+DP -- Chicago 1
+LOB -- Chicago 7, Cleveland 5
+2B -- Lawton M, Thomas F, Bradley M, Olivo M
+HR -- Jimenez D, Gerut J
+SB -- Vizquel O
+CS -- McDonald J
+SF -- Blake C
+T -- 2:40
+A -- 20892
+     Game of 6/10/2003 -- San Diego at Cleveland (N)
+
+  San Diego          AB  R  H RBI    Cleveland          AB  R  H RBI
+Matthews G, lf        5  0  0  0   Crisp C, cf           5  0  1  1   
+Kotsay M, cf          5  1  2  0   Vizquel O, ss         4  2  2  0   
+Loretta M, 2b         4  1  1  0   Gerut J, rf           4  1  1  0   
+White R, dh           4  1  2  1   Bradley M, dh         2  1  0  0   
+Buchanan B, 1b        4  2  3  2   Lawton M, lf          1  1  0  2   
+Nady X, rf            4  0  2  1   Broussard B, 1b       4  1  0  1   
+Burroughs S, 3b       3  0  0  1   Blake C, 3b           3  2  2  1   
+Bennett G, c          4  0  1  0   Bard J, c             4  0  0  0   
+Mendez D, ss          3  0  0  0   Phillips B, 2b        4  0  2  2   
+Hansen D, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  5 11  5                        31  8  8  7
+
+San Diego        400 010 000 --  5
+Cleveland        610 000 01x --  8
+
+  San Diego            IP  H  R ER BB SO
+Tollberg B (L)        0.1  2  6  3  3  0
+Linebrink S           3.1  3  1  1  2  4
+Matthews M            2.1  0  0  0  1  3
+Witasick J            1.0  0  0  0  0  2
+Herges M              1.0  3  1  1  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Traber B              4.2 11  5  5  1  2
+Westbrook J (W)       2.1  0  0  0  0  2
+Riske D               1.0  0  0  0  0  2
+Baez D (S)            1.0  0  0  0  0  1
+
+E -- Loretta M, Matthews G
+DP -- San Diego 1, Cleveland 1
+LOB -- San Diego 6, Cleveland 7
+2B -- Loretta M, Nady X 2, Kotsay M
+HR -- Buchanan B
+SB -- Vizquel O
+CS -- Blake C
+SF -- Lawton M
+HBP -- by Matthews M (Blake C)
+WP -- Linebrink S 2
+T -- 2:50
+A -- 19949
+     Game of 6/11/2003 -- San Diego at Cleveland (N)
+
+  San Diego          AB  R  H RBI    Cleveland          AB  R  H RBI
+Matthews G, cf        4  0  1  0   Crisp C, dh           4  0  0  0   
+Loretta M, 2b         4  0  2  0   Vizquel O, ss         3  1  0  0   
+White R, lf           4  1  1  0   Gerut J, rf           4  1  1  1   
+Klesko R, 1b          4  0  1  0   Bradley M, cf         4  1  2  0   
+Buchanan B, dh        4  1  1  2   Lawton M, lf          2  0  0  1   
+Nady X, rf            4  0  0  0   Broussard B, 1b       2  0  1  0   
+Burroughs S, 3b       4  0  2  0   Blake C, 3b           3  0  1  1   
+Bennett G, c          4  0  0  0   Bard J, c             2  0  0  0   
+Mendez D, ss          3  0  2  0   Phillips B, 2b        3  0  1  0   
+Hansen D, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  2 10  2                        27  3  6  3
+
+San Diego        000 000 020 --  2
+Cleveland        000 201 00x --  3
+
+  San Diego            IP  H  R ER BB SO
+Eaton A (L)           8.0  6  3  3  3  1
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        7.2 10  2  2  0  4
+Riske D               0.1  0  0  0  0  0
+Baez D (S)            1.0  0  0  0  0  0
+
+E -- Bennett G
+DP -- San Diego 1
+LOB -- San Diego 7, Cleveland 4
+2B -- Mendez D, Bradley M, Matthews G, White R
+HR -- Gerut J, Buchanan B
+CS -- Broussard B
+T -- 2:19
+A -- 17427
+     Game of 6/12/2003 -- San Diego at Cleveland (N)
+
+  San Diego          AB  R  H RBI    Cleveland          AB  R  H RBI
+Matthews G, rf-cf     5  0  2  2   Lawton M, dh          4  0  0  0   
+Kotsay M, cf          3  0  0  0   Crisp C, lf           4  1  1  0   
+Nady X, ph-rf         1  0  0  0   Gerut J, rf           4  1  1  1   
+Loretta M, 2b         4  0  1  3   Bradley M, cf         3  1  0  0   
+Klesko R, 1b          5  1  2  1   Broussard B, 1b       3  1  2  2   
+Burroughs S, 3b       5  0  0  0   Spencer S, ph-1b      1  0  1  0   
+White R, lf           5  2  2  1   Blake C, 3b           2  0  1  0   
+Hansen D, dh          1  2  0  0   Peralta J, 3b         1  0  0  0   
+Buchanan B, ph        0  0  0  0   Bard J, c             4  0  0  0   
+Bennett G, c          4  2  2  0   McDonald J, ss        4  0  2  0   
+Mendez D, ss          3  2  1  1   Phillips B, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  9 10  8                        33  4  8  3
+
+San Diego        000 045 000 --  9
+Cleveland        100 200 010 --  4
+
+  San Diego            IP  H  R ER BB SO
+Peavy J (W)           5.2  6  3  3  2  3
+Hackman L             1.1  0  0  0  0  1
+Orosco J              0.2  2  1  1  0  2
+Herges M              0.1  0  0  0  0  1
+Beck R                1.0  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (L)           5.1  7  7  5  3  2
+Miceli D              0.1  2  2  0  1  0
+Mulholland T          2.1  1  0  0  1  2
+Bierbrodt N           1.0  0  0  0  0  2
+
+E -- Bard J, Phillips B
+DP -- San Diego 1
+LOB -- San Diego 6, Cleveland 5
+2B -- McDonald J, Matthews G, Crisp C
+HR -- Gerut J, Broussard B, White R, Klesko R
+SB -- Bradley M, Crisp C
+CS -- Matthews G
+SH -- Phillips B
+SF -- Loretta M
+WP -- Orosco J
+T -- 2:53
+A -- 17983
+     Game of 6/13/2003 -- Los Angeles at Cleveland (N)
+
+  Los Angeles        AB  R  H RBI    Cleveland          AB  R  H RBI
+Izturis C, ss         4  0  1  0   Crisp C, lf           4  2  2  0   
+Lo Duca P, c          3  0  1  0   McDonald J, ss        4  1  1  0   
+Green S, rf           5  1  2  1   Broussard B, 1b       1  0  0  0   
+Jordan B, lf          5  1  0  0   Bradley M, cf         4  0  2  2   
+McGriff F, 1b         2  0  1  1   Spencer S, dh         4  0  2  1   
+Kinkade M, 1b         1  1  0  0   Gerut J, rf           4  0  0  0   
+Coomer R, dh          5  0  2  0   Blake C, 1b-3b        3  0  0  0   
+Romano J, pr          0  0  0  0   Laker T, c            3  0  1  0   
+Cabrera J, cf-2b      5  0  2  1   Lawton M, ph          1  0  0  0   
+Beltre A, 3b          5  1  1  0   Phillips B, 2b        4  0  1  0   
+Cora A, 2b            4  0  1  0   Peralta J, 3b-ss      3  0  0  0   
+Roberts D, pr-cf      1  0  0  0   Bard J, ph            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  4 11  3                        36  3  9  3
+
+Los Angeles      000 002 100 1 --  4
+Cleveland        000 102 000 0 --  3
+
+  Los Angeles          IP  H  R ER BB SO
+Perez O               6.0  6  3  3  1  6
+Mota G                2.0  1  0  0  0  1
+Quantrill P (W)       1.0  1  0  0  0  0
+Gagne E (S)           1.0  1  0  0  1  3
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B            6.0  5  2  0  1  3
+Boyd J*               0.0  1  1  1  0  0
+Miceli D              0.2  1  0  0  1  0
+Riske D               1.1  1  0  0  0  2
+Baez D                1.0  1  0  0  0  0
+Westbrook J (L)       1.0  2  1  1  0  0
+  * Pitched to 1 batter in 7th
+
+E -- McGriff F, Gerut J
+DP -- Los Angeles 2, Cleveland 1
+LOB -- Los Angeles 11, Cleveland 5
+2B -- Lo Duca P, Beltre A, Green S, Cora A, Cabrera J
+3B -- Izturis C
+SB -- Crisp C, Bradley M, McDonald J
+CS -- Blake C
+SH -- Izturis C
+HBP -- by Anderson B (Lo Duca P), by Westbrook J (Kinkade M)
+T -- 3:09
+A -- 23401
+     Game of 6/14/2003 -- Los Angeles at Cleveland (D)
+
+  Los Angeles        AB  R  H RBI    Cleveland          AB  R  H RBI
+Roberts D, cf         4  1  1  0   Lawton M, lf          3  0  0  0   
+Lo Duca P, 1b         5  0  1  0   Crisp C, dh           3  0  0  0   
+Green S, rf           5  0  0  0   Gerut J, rf           3  0  1  0   
+Jordan B, dh          2  1  2  0   Bradley M, cf         4  1  1  1   
+Kinkade M, lf         4  0  1  1   Broussard B, 1b       3  1  1  0   
+Cabrera J, 2b         3  1  0  0   Blake C, 3b           4  0  0  0   
+Beltre A, 3b          3  1  1  0   Bard J, c             3  0  2  1   
+Ross D, c             4  1  3  3   Phillips B, 2b        4  0  1  0   
+Izturis C, ss         4  0  1  1   Peralta J, ss         4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5 10  5                        31  2  6  2
+
+Los Angeles      011 102 000 --  5
+Cleveland        010 100 000 --  2
+
+  Los Angeles          IP  H  R ER BB SO
+Ashby A (W)           5.0  5  2  2  2  2
+Alvarez W (S)         4.0  1  0  0  2  6
+
+  Cleveland            IP  H  R ER BB SO
+Tallet B (L)          5.0  6  3  3  4  3
+Mulholland T          4.0  4  2  2  0  3
+
+E -- Izturis C
+DP -- Los Angeles 2, Cleveland 3
+LOB -- Los Angeles 7, Cleveland 7
+2B -- Jordan B, Broussard B, Kinkade M, Beltre A, Lo Duca P
+HR -- Bradley M, Ross D
+SB -- Jordan B
+SH -- Crisp C
+HBP -- by Mulholland T (Cabrera J)
+T -- 2:43
+A -- 25426
+     Game of 6/15/2003 -- Los Angeles at Cleveland (D)
+
+  Los Angeles        AB  R  H RBI    Cleveland          AB  R  H RBI
+Roberts D, cf         4  2  1  0   Lawton M, rf          4  0  1  0   
+Lo Duca P, c          5  0  2  0   Crisp C, lf           3  0  0  1   
+Green S, rf           4  0  1  3   Gerut J, dh           4  0  0  0   
+Jordan B, dh          3  0  1  1   Bradley M, cf         3  0  1  1   
+Kinkade M, lf-1b      3  0  1  0   Broussard B, 1b       4  0  1  0   
+Coomer R, 1b          4  0  0  0   Sorensen Z, pr        0  0  0  0   
+Romano J, lf          0  0  0  0   Blake C, 3b           4  0  0  0   
+Beltre A, 3b          4  0  0  0   Laker T, c            3  0  0  0   
+Cabrera J, 2b         2  1  0  0   Bard J, ph            0  0  0  0   
+Izturis C, ss         4  1  1  0   Phillips B, 2b        4  2  2  0   
+                                   Peralta J, ss         3  1  2  0   
+                                   Spencer S, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  4                        33  3  7  2
+
+Los Angeles      100 001 200 --  4
+Cleveland        001 000 020 --  3
+
+  Los Angeles          IP  H  R ER BB SO
+Nomo H (W)            7.0  2  1  1  1  8
+Quantrill P*          0.0  2  2  2  0  0
+Martin T              1.0  2  0  0  1  0
+Gagne E (S)           1.0  1  0  0  1  2
+
+  Cleveland            IP  H  R ER BB SO
+Traber B (L)          5.1  4  2  2  2  2
+Westbrook J           1.0  1  2  2  1  0
+Riske D               0.2  2  0  0  1  1
+Miceli D              2.0  0  0  0  1  2
+  * Pitched to 2 batters in 8th
+
+E -- Peralta J, Izturis C, Lo Duca P, Phillips B
+DP -- Los Angeles 1, Cleveland 2
+LOB -- Los Angeles 8, Cleveland 6
+2B -- Green S
+SB -- Roberts D, Blake C, Cabrera J
+CS -- Lo Duca P
+HBP -- by Westbrook J (Kinkade M)
+WP -- Traber B 2, Martin T
+T -- 2:58
+A -- 26786
+     Game of 6/24/2003 -- Kansas City at Cleveland (N)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+Relaford D, 2b        5  0  2  0   Crisp C, lf           4  1  0  0   
+Randa J, 3b           4  0  0  0   Lawton M, dh          3  0  1  0   
+Beltran C, dh         4  0  1  0   Bradley M, cf         4  0  0  0   
+Ibanez R, lf          5  0  0  0   Spencer S, rf         3  0  2  1   
+Harvey K, 1b          4  2  2  0   Blake C, 1b           4  0  1  0   
+Tucker M, cf          2  1  2  0   Gutierrez R, 3b       4  0  1  0   
+Berroa A, ss          3  0  1  1   Bard J, c             4  0  1  0   
+Guiel A, rf           3  0  0  1   McDonald J, ss        3  0  0  0   
+DiFelice M, c         4  0  3  1   Gerut J, ph           1  0  0  0   
+                                   Phillips B, 2b        3  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3 11  3                        33  1  8  1
+
+Kansas City      000 102 000 --  3
+Cleveland        100 000 000 --  1
+
+  Kansas City          IP  H  R ER BB SO
+George C (W)          5.2  7  1  1  3  3
+Grimsley J            0.1  0  0  0  0  0
+Lowe S                2.0  1  0  0  1  2
+MacDougal M (S)       1.0  0  0  0  2  1
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (L)           5.2  7  3  3  2  3
+Miceli D              0.2  1  0  0  1  0
+Mulholland T*         1.2  2  0  0  1  1
+Westbrook J           1.0  1  0  0  0  0
+  * Pitched to 2 batters in 9th
+
+E -- Relaford D, Crisp C
+DP -- Kansas City 2, Cleveland 1
+LOB -- Kansas City 10, Cleveland 11
+2B -- Relaford D, Phillips B, DiFelice M, Bard J
+SB -- Lawton M, Crisp C, Bradley M, Phillips B
+CS -- Lawton M
+SH -- Berroa A
+SF -- Guiel A
+WP -- Davis J
+T -- 2:58
+A -- 19638
+     Game of 6/25/2003 -- Kansas City at Cleveland (N)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+Relaford D, rf        4  0  2  1   Crisp C, dh           5  0  1  0   
+Randa J, 3b           5  0  1  0   Lawton M, lf          4  0  1  0   
+Beltran C, cf         4  0  0  0   Gerut J, rf           4  0  0  0   
+Harvey K, 1b          4  0  2  0   Bradley M, cf         3  1  2  0   
+Ibanez R, dh          4  1  2  0   Broussard B, 1b       4  0  1  0   
+Tucker M, lf          3  0  0  0   Blake C, 3b           4  0  1  0   
+Berroa A, ss          4  2  2  1   Gutierrez R, ss       3  0  0  1   
+Mayne B, c            4  0  0  0   Laker T, c            4  0  0  0   
+Febles C, 2b          4  0  2  1   Phillips B, 2b        4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3 11  3                        35  1  6  1
+
+Kansas City      000 000 010 2 --  3
+Cleveland        010 000 000 0 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Snyder K              7.1  6  1  1  2  5
+Grimsley J            0.2  0  0  0  0  0
+Gilfillan J (W)       1.0  0  0  0  0  1
+MacDougal M (S)       1.0  0  0  0  1  0
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B            8.0  7  1  1  1  2
+Baez D                1.0  0  0  0  0  0
+Riske D (L)           1.0  4  2  2  0  0
+
+E -- Gutierrez R, Harvey K
+DP -- Kansas City 1, Cleveland 4
+LOB -- Kansas City 5, Cleveland 8
+2B -- Bradley M, Lawton M, Ibanez R
+CS -- Harvey K
+SH -- Tucker M
+SF -- Gutierrez R
+T -- 2:33
+A -- 18527
+     Game of 6/26/2003 -- Kansas City at Cleveland (N)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+Guiel A, rf           4  2  1  2   Crisp C, lf           4  0  1  0   
+Randa J, 3b           4  0  0  0   Lawton M, rf          4  0  0  0   
+Beltran C, cf         4  0  1  0   Gerut J, dh           2  0  1  0   
+Ibanez R, dh          3  1  2  1   Spencer S, ph         1  0  0  0   
+Harvey K, 1b          4  0  1  0   Bradley M, cf         2  0  1  0   
+Tucker M, lf          4  0  1  1   Broussard B, 1b       2  0  0  0   
+Berroa A, ss          4  0  1  0   Gutierrez R, ph-3b    1  0  0  0   
+Mayne B, c            4  0  0  0   Blake C, 3b-1b        4  1  1  0   
+Febles C, 2b          4  1  2  0   Bard J, c             4  0  1  0   
+                                   McDonald J, ss        3  0  1  1   
+                                   Phillips B, 2b        4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        31  1  6  1
+
+Kansas City      100 020 010 --  4
+Cleveland        000 000 100 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Lima J (W)            7.0  5  1  1  3  2
+Walrond L             1.0  0  0  0  1  1
+MacDougal M (S)       1.0  1  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Rodriguez R (L)       6.0  5  3  3  0  4
+Boyd J                2.0  3  1  1  1  0
+Westbrook J           1.0  1  0  0  0  0
+
+E -- McDonald J 2
+DP -- Kansas City 1, Cleveland 2
+LOB -- Kansas City 6, Cleveland 8
+2B -- Bradley M, McDonald J
+HR -- Guiel A
+SB -- Febles C
+SF -- McDonald J
+HBP -- by Rodriguez R (Guiel A)
+WP -- Rodriguez R 2
+T -- 2:12
+A -- 17494
+     Game of 6/27/2003 -- Cincinnati at Cleveland (N)
+
+  Cincinnati         AB  R  H RBI    Cleveland          AB  R  H RBI
+Larkin B, ss          3  0  0  0   Crisp C, lf           4  0  1  0   
+Guillen J, rf         4  0  2  0   Lawton M, dh          4  0  1  0   
+Griffey K, dh         4  0  0  0   Bradley M, cf         3  1  1  0   
+Kearns A, cf          4  0  1  0   Gerut J, rf           4  1  1  1   
+Boone A, 3b           4  0  0  0   Broussard B, 1b       4  0  0  0   
+Casey S, 1b           3  0  1  0   Gutierrez R, 3b       2  1  1  1   
+Dunn A, lf            3  0  1  0   Laker T, c            3  0  0  0   
+LaRue J, c            4  0  1  0   McDonald J, ss        3  0  1  0   
+Castro J, 2b          2  0  0  0   Phillips B, 2b        3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     31  0  6  0                        30  3  7  3
+
+Cincinnati       000 000 000 --  0
+Cleveland        000 000 30x --  3
+
+  Cincinnati           IP  H  R ER BB SO
+Graves D (L)          7.0  6  3  2  2  3
+Heredia F             1.0  1  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Traber B (W)          7.0  5  0  0  1  5
+Riske D               1.0  1  0  0  0  2
+Baez D (S)            1.0  0  0  0  2  2
+
+E -- Castro J
+DP -- Cincinnati 2, Cleveland 1
+LOB -- Cincinnati 8, Cleveland 5
+2B -- Guillen J, Bradley M, Gerut J, Lawton M
+3B -- Crisp C
+SH -- Castro J
+WP -- Graves D, Baez D
+T -- 2:17
+A -- 29233
+     Game of 6/28/2003 -- Cincinnati at Cleveland (D)
+
+  Cincinnati         AB  R  H RBI    Cleveland          AB  R  H RBI
+Larkin B, ss          5  0  0  0   Crisp C, cf           4  0  0  0   
+Guillen J, lf-rf      4  0  1  0   Lawton M, lf          5  2  2  3   
+Griffey K, cf         4  0  0  0   Bradley M, dh         3  0  1  0   
+Kearns A, rf          3  0  0  0   Gerut J, rf           4  0  1  0   
+Taylor R, ph-lf       1  0  0  0   Broussard B, 1b       4  0  1  0   
+Boone A, 3b           4  1  1  0   Gutierrez R, 3b       3  0  1  0   
+Casey S, 1b           3  1  1  0   Martinez V, c         4  1  1  0   
+Dunn A, dh            2  2  1  0   McDonald J, ss        4  0  0  0   
+Stinnett K, c         2  0  0  0   Sorensen Z, 2b        1  0  0  0   
+Branyan R, ph         1  1  1  1   Phillips B, ph-2b     1  1  0  0   
+LaRue J, c            0  0  0  0                                      
+Olmedo R, 2b          4  0  3  4                                      
+                     -- -- -- --                        -- -- -- --
+                     33  5  8  5                        33  4  7  3
+
+Cincinnati       000 020 102 --  5
+Cleveland        100 000 300 --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Dempster R            6.1  4  2  2  4  4
+Heredia F             0.1  2  2  2  1  0
+Reitsma C (W)         1.1  1  0  0  0  1
+Williamson S (S)      1.0  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C            6.0  3  2  2  2  5
+Mulholland T*         0.0  1  1  1  0  0
+Westbrook J           1.0  1  0  0  0  0
+Riske D               1.0  0  0  0  0  2
+Baez D (L)            1.0  3  2  2  0  0
+  * Pitched to 2 batters in 7th
+
+DP -- Cleveland 1
+LOB -- Cincinnati 5, Cleveland 7
+2B -- Gerut J, Olmedo R, Guillen J, Martinez V, Gutierrez R, Dunn A, Branyan R
+HR -- Lawton M 2
+CS -- Bradley M
+SH -- Stinnett K
+HBP -- by Mulholland T (Dunn A)
+WP -- Sabathia C
+PB -- Stinnett K
+T -- 3:05
+A -- 31924
+     Game of 6/29/2003 -- Cincinnati at Cleveland (D)
+
+  Cincinnati         AB  R  H RBI    Cleveland          AB  R  H RBI
+Dunn A, dh            4  1  1  1   Crisp C, dh           3  1  0  0   
+Larkin B, ss          4  0  2  0   Lawton M, lf          2  0  0  0   
+Griffey K, cf         3  0  0  0   Bradley M, cf         4  0  0  0   
+Guillen J, rf         3  0  2  0   Gerut J, rf           3  0  1  0   
+Pena W, pr            0  0  0  0   Broussard B, 1b       2  1  0  0   
+Casey S, 1b           4  0  0  0   Gutierrez R, 3b       3  1  0  0   
+Branyan R, 3b         4  0  0  0   Martinez V, c         3  0  0  1   
+LaRue J, c            2  0  0  0   McDonald J, ss        2  0  1  0   
+Stinnett K, pr-c      1  0  0  0   Phillips B, 2b        3  0  2  1   
+Taylor R, lf          2  0  0  0                                      
+Castro J, 2b          3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        25  3  4  2
+
+Cincinnati       000 001 000 --  1
+Cleveland        100 200 00x --  3
+
+  Cincinnati           IP  H  R ER BB SO
+Haynes J (L)          6.0  3  3  0  5  2
+Reith B               2.0  1  0  0  2  1
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (W)           7.2  5  1  1  2  7
+Mulholland T          0.1  0  0  0  0  0
+Baez D (S)            1.0  0  0  0  0  1
+
+E -- Castro J, Haynes J
+DP -- Cincinnati 1, Cleveland 1
+LOB -- Cincinnati 6, Cleveland 6
+2B -- Larkin B
+3B -- Phillips B
+HR -- Dunn A
+SB -- Pena W
+CS -- Guillen J, Gerut J, McDonald J
+SH -- Gutierrez R
+HBP -- by Davis J (LaRue J), by Baez D (Guillen J)
+T -- 2:41
+A -- 28433
+     Game of 7/8/2003 -- New York at Cleveland (N)
+
+  New York           AB  R  H RBI    Cleveland          AB  R  H RBI
+Wilson E, 2b          4  0  0  0   Crisp C, lf           4  0  1  0   
+Zeile T, 3b           3  0  0  0   Lawton M, rf          3  2  1  1   
+Giambi J, 1b          3  0  0  0   Bradley M, cf         4  0  0  0   
+Posada J, dh          3  0  0  0   Gerut J, dh           4  1  1  1   
+Matsui H, cf          3  0  0  0   Blake C, 3b           4  1  3  1   
+Sierra R, rf          3  0  0  0   Broussard B, 1b       4  0  2  0   
+Flaherty J, c         3  0  1  0   Martinez V, c         4  0  1  1   
+Garcia K, lf          2  0  0  0   Gutierrez R, ss       4  0  0  0   
+Jeter D, ph           1  0  0  0   Phillips B, 2b        3  0  1  0   
+Almonte E, ss         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  0  1  0                        34  4 10  4
+
+New York         000 000 000 --  0
+Cleveland        200 000 02x --  4
+
+  New York             IP  H  R ER BB SO
+Weaver J (L)          7.2  8  4  4  1  4
+Hammond C             0.1  2  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Traber B (W)          9.0  1  0  0  0  5
+
+E -- Giambi J, Almonte E
+LOB -- New York 1, Cleveland 7
+2B -- Gerut J
+HR -- Lawton M
+CS -- Crisp C, Blake C
+T -- 2:11
+A -- 26540
+     Game of 7/9/2003 -- New York at Cleveland (N)
+
+  New York           AB  R  H RBI    Cleveland          AB  R  H RBI
+Soriano A, 2b         4  1  0  0   Crisp C, lf           4  0  2  1   
+Jeter D, ss           5  1  4  2   Lawton M, dh          4  0  0  1   
+Giambi J, 1b          4  1  0  0   Bradley M, cf         4  0  0  0   
+Williams B, cf        4  0  1  2   Blake C, 1b           4  0  0  0   
+Matsui H, lf          5  0  0  0   Gerut J, rf           4  0  2  0   
+Posada J, c           1  1  0  1   Martinez V, c         4  0  1  0   
+Sierra R, rf          4  0  2  1   Gutierrez R, ss       4  0  3  0   
+Garcia K, pr-rf       1  0  0  0   Phillips B, 2b        3  1  0  0   
+Mondesi R, dh         4  1  0  0   Peralta J, 3b         3  1  2  0   
+Zeile T, 3b           2  1  0  0                                      
+Ventura R, ph-3b      0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  6  7  6                        34  2 10  2
+
+New York         300 000 120 --  6
+Cleveland        000 000 020 --  2
+
+  New York             IP  H  R ER BB SO
+Wells D (W)           7.2  9  2  2  0  1
+Miceli D              0.2  1  0  0  0  0
+Rivera M              0.2  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (L)        7.0  5  4  2  6  6
+Boyd J                0.1  1  2  2  1  0
+Herrera A             0.1  0  0  0  1  0
+Cressend J            1.1  1  0  0  1  0
+
+E -- Gutierrez R
+DP -- New York 3, Cleveland 1
+LOB -- New York 10, Cleveland 5
+2B -- Sierra R, Jeter D, Peralta J, Gerut J
+WP -- Herrera A
+T -- 3:08
+A -- 25058
+     Game of 7/10/2003 -- New York at Cleveland (N)
+
+  New York           AB  R  H RBI    Cleveland          AB  R  H RBI
+Soriano A, 2b         5  0  2  0   Crisp C, dh           4  1  0  0   
+Jeter D, ss           3  1  2  0   Lawton M, lf          4  0  2  0   
+Giambi J, 1b          3  0  1  0   Bradley M, cf         4  0  0  0   
+Williams B, cf        4  0  0  0   Gerut J, rf           4  0  2  1   
+Matsui H, lf          4  0  0  1   Blake C, 3b-1b        4  1  3  0   
+Posada J, c           4  1  2  0   Broussard B, 1b       3  1  1  2   
+Sierra R, dh          3  0  0  0   Gutierrez R, ph-3b    1  0  0  0   
+Ventura R, 3b         2  0  0  0   Martinez V, c         3  0  0  0   
+Mondesi R, ph-rf      1  0  0  0   Phillips B, 2b        4  0  1  0   
+Garcia K, rf          2  0  0  0   Peralta J, ss         4  0  1  0   
+Zeile T, ph           0  0  0  0                                      
+Pride C, ph           1  0  0  0                                      
+Wilson E, 3b          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  1                        35  3 10  3
+
+New York         000 100 100 0 --  2
+Cleveland        020 000 000 1 --  3
+  0 outs when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Clemens R             7.0  7  2  2  2  6
+Hammond C             2.0  1  0  0  1  2
+Hitchcock S (L)       0.0  2  1  1  2  0
+
+  Cleveland            IP  H  R ER BB SO
+Davis J*              6.0  6  2  1  2  2
+Herrera A+            0.0  0  0  0  1  0
+Riske D               2.0  0  0  0  0  1
+Baez D                1.0  1  0  0  0  2
+Boyd J (W)            1.0  0  0  0  1  1
+  * Pitched to 2 batters in 7th
+  + Pitched to 1 batter in 7th
+
+E -- Davis J, Broussard B
+DP -- Cleveland 3
+LOB -- New York 7, Cleveland 10
+2B -- Lawton M 2, Jeter D, Phillips B
+HR -- Broussard B
+CS -- Martinez V
+HBP -- by Davis J (Giambi J), by Riske D (Jeter D)
+T -- 3:12
+A -- 30167
+     Game of 7/11/2003 -- Chicago at Cleveland (N)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Graffanino T, 2b      3  1  0  0   Crisp C, cf           4  1  2  1   
+Harris W, ph-2b       1  0  0  0   Lawton M, lf          1  1  0  0   
+Lee C, lf             4  0  0  1   Spencer S, ph-lf      3  1  2  2   
+Thomas F, dh          4  0  2  0   Bradley M, dh         4  1  1  0   
+Ordonez M, rf         5  1  3  1   Gerut J, rf           4  1  0  0   
+Everett C, cf         5  1  1  0   Blake C, 3b           2  2  0  1   
+Konerko P, 1b         4  0  1  1   Broussard B, 1b       4  3  4  5   
+Crede J, 3b           2  1  2  1   Laker T, c            4  1  1  2   
+Valentin J, ss        4  1  0  0   Gutierrez R, ss       4  0  1  0   
+Alomar S, c           4  0  1  1   Sorensen Z, ss        0  0  0  0   
+Olivo M, c            0  0  0  0   Phillips B, 2b        3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 10  5                        33 12 11 11
+
+Chicago          020 030 000 --  5
+Cleveland        015 020 22x -- 12
+
+  Chicago              IP  H  R ER BB SO
+Wright D (L)          2.1  4  6  5  4  2
+Glover G              1.2  1  0  0  2  0
+White R               2.0  3  2  2  0  2
+Sanders D             1.0  1  2  2  1  0
+Koch B                1.0  2  2  2  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B (W)        5.0  6  5  2  1  3
+Santiago J            1.1  2  0  0  1  0
+Boyd J                0.2  0  0  0  0  0
+Cressend J            2.0  2  0  0  1  4
+
+E -- Glover G, Gutierrez R
+DP -- Chicago 2
+LOB -- Chicago 9, Cleveland 4
+2B -- Konerko P, Broussard B, Ordonez M, Thomas F, Crisp C
+3B -- Crisp C
+HR -- Broussard B 2, Laker T, Spencer S
+SB -- Bradley M
+SF -- Crede J, Lee C
+T -- 2:50
+A -- 27712
+     Game of 7/12/2003, game 1 -- Chicago at Cleveland (D)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Graffanino T, ss      3  0  0  0   Crisp C, lf           5  1  3  0   
+Valentin J, ph-ss     2  0  0  0   Blake C, 3b           5  1  1  0   
+Alomar R, 2b          5  0  0  0   Bradley M, cf         3  1  1  2   
+Thomas F, dh          4  2  1  0   Spencer S, dh         5  1  1  0   
+Ordonez M, rf         5  1  2  0   Gerut J, rf           4  0  1  0   
+Lee C, lf             5  1  3  2   Martinez V, c         4  0  0  0   
+Konerko P, 1b         5  1  2  3   Broussard B, 1b       3  0  0  1   
+Rowand A, cf          2  0  0  0   Sorensen Z, 2b        3  0  1  0   
+Everett C, ph-cf      3  1  1  0   Peralta J, ss         4  0  0  0   
+Harris W, cf          0  0  0  0                                      
+Crede J, 3b           3  1  0  0                                      
+Alomar S, c           2  0  0  0                                      
+Daubach B, ph         0  0  0  0                                      
+Olivo M, pr-c         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40  7  9  5                        36  4  8  3
+
+Chicago          000 001 012 3 --  7
+Cleveland        200 100 010 0 --  4
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M             7.1  8  4  2  2  2
+Marte D (W)           1.2  0  0  0  1  2
+Gordon T (S)          1.0  0  0  0  1  3
+
+  Cleveland            IP  H  R ER BB SO
+Stanford J            6.0  4  1  1  2  1
+Boyd J                0.2  0  0  0  1  0
+Riske D               1.1  1  1  0  0  1
+Baez D                1.0  1  2  0  1  1
+Mulholland T (L)      1.0  3  3  3  0  1
+
+E -- Alomar R 2, Sorensen Z, Baez D
+DP -- Chicago 1
+LOB -- Chicago 8, Cleveland 7
+2B -- Bradley M, Sorensen Z, Lee C, Ordonez M
+HR -- Konerko P
+SB -- Gerut J, Bradley M
+CS -- Crisp C
+SH -- Olivo M
+SF -- Broussard B
+WP -- Riske D
+T -- 3:00
+A -- 24163
+     Game of 7/12/2003, game 2 -- Chicago at Cleveland (N)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Harris W, cf          4  1  0  0   Crisp C, lf           3  0  1  0   
+Alomar R, 2b          2  0  1  0   Blake C, 1b-3b        4  0  0  0   
+Lee C, lf             4  0  2  1   Bradley M, cf         3  1  1  0   
+Ordonez M, rf         4  0  0  0   Spencer S, rf         4  2  3  1   
+Everett C, dh         3  1  2  0   Gutierrez R, 3b       4  0  1  0   
+Daubach B, 1b         2  0  0  0   Broussard B, 1b       0  0  0  0   
+Valentin J, ss        4  0  1  1   Laker T, c            4  1  1  0   
+Crede J, 3b           2  0  0  0   Hafner T, dh          3  0  2  3   
+Konerko P, ph         1  0  0  0   Phillips B, 2b        3  0  0  0   
+Olivo M, c            3  0  0  0   Peralta J, ss         2  0  0  0   
+Thomas F, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  6  2                        30  4  9  4
+
+Chicago          001 000 001 --  2
+Cleveland        000 201 01x --  4
+
+  Chicago              IP  H  R ER BB SO
+Porzio M (L)          5.2  7  3  3  1  6
+White R               2.1  2  1  1  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (W)       5.0  3  1  1  5  2
+Herrera A             0.2  1  0  0  0  0
+Cressend J            1.1  0  0  0  0  2
+Riske D               1.0  0  0  0  1  0
+Baez D (S)            1.0  2  1  1  1  1
+
+DP -- Chicago 1, Cleveland 1
+LOB -- Chicago 8, Cleveland 5
+2B -- Lee C, Hafner T 2
+HR -- Spencer S
+SB -- Harris W
+CS -- Valentin J, Everett C
+SH -- Crisp C
+HBP -- by Porzio M (Peralta J)
+WP -- Baez D 2
+T -- 2:36
+A -- 27165
+     Game of 7/13/2003 -- Chicago at Cleveland (D)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Graffanino T, 2b-ss   5  2  3  3   Gerut J, rf           5  1  2  1   
+Rowand A, cf          5  1  3  0   Blake C, 3b           4  0  1  0   
+Thomas F, dh          5  0  0  0   Bradley M, cf         5  0  1  2   
+Ordonez M, rf         3  1  1  3   Spencer S, lf         5  0  1  0   
+Lee C, lf             4  1  0  0   Broussard B, 1b       3  0  0  0   
+Konerko P, 1b         4  0  3  0   Hafner T, dh          4  0  1  0   
+Harris W, pr-2b       1  1  0  0   Martinez V, c         3  1  1  0   
+Crede J, 3b           1  0  0  1   Peralta J, ss         3  1  1  0   
+Valentin J, ss        3  0  0  0   Phillips B, 2b        4  1  2  1   
+Everett C, ph         0  1  0  0                                      
+Daubach B, 1b         0  0  0  0                                      
+Olivo M, c            4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  7 11  7                        36  4 10  4
+
+Chicago          400 000 030 --  7
+Cleveland        001 030 000 --  4
+
+  Chicago              IP  H  R ER BB SO
+Garland J             4.2  6  4  4  2  5
+Sanders D             1.1  0  0  0  1  3
+Marte D (W)           2.0  2  0  0  1  3
+Gordon T (S)          1.0  2  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Traber B              6.0  8  4  4  3  6
+Betancourt R (L)      1.1  1  1  1  1  1
+Herrera A             0.2  2  2  2  1  1
+Mulholland T          1.0  0  0  0  0  1
+
+DP -- Cleveland 1
+LOB -- Chicago 8, Cleveland 9
+2B -- Graffanino T, Phillips B, Spencer S, Rowand A, Hafner T
+HR -- Ordonez M, Gerut J, Graffanino T
+SB -- Everett C, Harris W
+SH -- Crede J
+SF -- Crede J
+T -- 3:11
+A -- 26467
+     Game of 7/23/2003 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Sanchez A, cf         4  0  1  0   Crisp C, lf           4  1  2  0   
+Petrick B, lf         4  0  0  0   Blake C, 3b           3  0  0  0   
+Young D, dh           3  1  0  0   Gerut J, rf           3  0  1  1   
+Monroe C, rf          4  0  2  0   Bradley M, cf         1  1  0  0   
+Pena C, 1b            4  0  0  0   Broussard B, 1b       4  0  1  1   
+Halter S, 2b          4  0  1  1   Laker T, c            4  0  0  0   
+Munson E, 3b          3  0  0  0   Hafner T, dh          3  1  1  2   
+Walbeck M, c          2  0  1  0   Peralta J, ss         3  0  0  0   
+Santiago R, ss        3  0  0  0   McDonald J, 2b        2  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        27  4  7  4
+
+Detroit          000 100 000 --  1
+Cleveland        022 000 00x --  4
+
+  Detroit              IP  H  R ER BB SO
+Roney M (L)           7.0  6  4  4  3  2
+Walker J              1.0  1  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B (W)        7.0  5  1  1  3  4
+Riske D               1.0  0  0  0  0  2
+Baez D (S)            1.0  0  0  0  0  2
+
+DP -- Detroit 1, Cleveland 1
+LOB -- Detroit 6, Cleveland 5
+2B -- Monroe C, Broussard B
+HR -- Hafner T
+CS -- Bradley M
+SH -- Blake C
+SF -- Gerut J
+HBP -- by Roney M (McDonald J)
+WP -- Anderson B
+T -- 2:04
+A -- 21202
+     Game of 7/24/2003 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Sanchez A, cf         5  1  2  0   Crisp C, lf           5  0  1  0   
+Petrick B, lf         5  1  3  2   Blake C, 3b           5  2  2  1   
+Young D, 3b           5  1  2  2   Gerut J, rf           5  1  1  2   
+Monroe C, dh          5  1  2  2   Bradley M, cf         4  0  2  1   
+Pena C, 1b            3  0  0  0   Broussard B, 1b       4  0  2  0   
+Halter S, 2b          4  0  0  0   Martinez V, c         4  0  1  0   
+Walbeck M, c          4  0  1  0   Hafner T, dh          3  0  2  0   
+Santiago R, ss        4  1  1  0   Peralta J, ss         3  1  1  0   
+Torres A, rf          3  2  2  0   Ludwick R, ph         1  0  0  0   
+                                   Santos A, pr-2b       0  0  0  0   
+                                   McDonald J, 2b-ss     4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 13  6                        38  4 12  4
+
+Detroit          001 040 110 --  7
+Cleveland        100 000 300 --  4
+
+  Detroit              IP  H  R ER BB SO
+Cornejo N (W)         6.2  9  3  3  0  4
+Patterson D           0.1  1  1  1  0  1
+Walker J              0.1  1  0  0  1  0
+Mears C (S)           1.2  1  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (L)        6.1  9  6  5  2  3
+Betancourt R          0.2  1  0  0  1  1
+Stanford J            0.2  2  1  1  0  1
+Cressend J            1.1  1  0  0  0  1
+
+E -- Blake C
+DP -- Detroit 1
+LOB -- Detroit 7, Cleveland 8
+2B -- Blake C 2, Petrick B, Broussard B 2
+HR -- Monroe C, Gerut J
+SB -- Hafner T, Martinez V
+CS -- Walbeck M, Torres A
+T -- 2:48
+A -- 20857
+     Game of 7/25/2003 -- Minnesota at Cleveland (N)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, rf         5  1  3  0   Crisp C, dh           5  1  2  1   
+Rivas L, 2b           3  1  0  0   Blake C, 3b           4  1  0  0   
+Mientkiewicz D, 1b    5  1  3  2   Gerut J, lf           5  0  1  0   
+Hunter T, cf          5  1  2  2   Bradley M, cf         4  1  3  1   
+Pierzynski A, c       4  0  1  0   Ludwick R, rf         4  1  2  2   
+Jones J, lf           4  0  1  0   Martinez V, c         4  0  0  0   
+Morneau J, dh         4  0  0  1   Broussard B, 1b       3  1  0  0   
+Hocking D, 3b         4  0  0  0   Peralta J, ss         4  0  1  0   
+Guzman C, ss          3  2  1  0   Santos A, 2b          3  0  1  0   
+                                   Hafner T, ph          1  0  0  0   
+                                   McDonald J, 2b        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 11  5                        37  5 10  4
+
+Minnesota        000 120 201 --  6
+Cleveland        211 001 000 --  5
+
+  Minnesota            IP  H  R ER BB SO
+Rogers K              6.0  8  5  4  1  4
+Baldwin J             0.2  2  0  0  0  0
+Romero J              0.2  0  0  0  0  1
+Hawkins L (W)         0.2  0  0  0  0  1
+Guardado E (S)        1.0  0  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J           6.2  7  4  4  3  6
+Riske D               1.1  2  1  1  0  2
+Baez D (L)            1.0  2  1  1  0  1
+
+E -- Rogers K, Jones J, Gerut J
+DP -- Cleveland 1
+LOB -- Minnesota 7, Cleveland 7
+2B -- Crisp C, Bradley M, Ludwick R, Stewart S, Mientkiewicz D 2
+HR -- Ludwick R
+SB -- Guzman C
+SH -- Blake C
+T -- 3:05
+A -- 23444
+     Game of 7/26/2003 -- Minnesota at Cleveland (N)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, dh         4  0  1  0   Crisp C, lf           5  1  2  1   
+Rivas L, 2b           4  0  0  0   Blake C, 3b-1b        5  0  1  0   
+Mientkiewicz D, 1b    4  0  0  0   Gerut J, dh           5  1  3  4   
+Hunter T, cf          4  0  0  0   Bradley M, cf         5  1  2  0   
+LeCroy M, c           4  1  0  0   Hafner T, 1b          4  1  3  0   
+Jones J, lf           3  1  1  0   Sorensen Z, ph-2b     1  0  0  0   
+Prieto A, ph          1  0  0  0   Ludwick R, rf         4  1  2  1   
+Mohr D, rf            4  0  2  0   Martinez V, c         4  1  2  1   
+Gomez C, 3b           3  0  1  1   McDonald J, ss        4  1  1  0   
+Guzman C, ss          2  0  1  1   Santos A, 2b-3b       4  2  1  1   
+                     -- -- -- --                        -- -- -- --
+                     33  2  6  2                        41  9 17  8
+
+Minnesota        020 000 000 --  2
+Cleveland        080 000 01x --  9
+
+  Minnesota            IP  H  R ER BB SO
+Lohse K (L)           1.2  8  8  7  0  3
+Mays J                6.0  9  1  1  0  2
+Rincon J              0.1  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Traber B (W)          6.1  6  2  1  0  6
+Boyd J                1.2  0  0  0  1  1
+Betancourt R          1.0  0  0  0  0  1
+
+E -- Santos A, Mohr D, Lohse K, Mientkiewicz D
+DP -- Minnesota 1
+LOB -- Minnesota 5, Cleveland 8
+2B -- Bradley M, Hafner T, Mohr D
+3B -- Santos A
+HR -- Gerut J
+SB -- Guzman C
+T -- 2:28
+A -- 25077
+     Game of 7/27/2003 -- Minnesota at Cleveland (D)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, rf         7  1  2  0   Crisp C, lf           7  0  3  0   
+Rivas L, 2b           5  0  2  0   Blake C, 3b-1b        6  1  2  0   
+Mientkiewicz D, 1b    5  0  3  0   Gerut J, rf           6  0  1  0   
+Hunter T, cf          5  0  0  0   Bradley M, cf         4  1  1  0   
+Pierzynski A, c       5  1  1  0   Broussard B, 1b       3  0  1  0   
+Jones J, lf           4  0  2  1   Sorensen Z, pr-2b     1  0  0  0   
+Mohr D, lf            1  0  0  0   Laker T, c            5  0  3  1   
+Morneau J, ph         1  0  0  0   Hafner T, dh          3  0  0  0   
+Hocking D, lf         0  0  0  0   Ludwick R, ph         1  0  0  0   
+Sears T, dh           6  0  1  0   McDonald J, 2b        3  0  0  0   
+Gomez C, 3b           6  0  0  0   Martinez V, ph        0  0  0  1   
+Guzman C, ss          6  0  1  0   Santos A, 3b          2  0  0  0   
+                                   Peralta J, ss         6  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     51  2 12  1                        47  3 12  3
+
+Minnesota        001 001 000 000 00 --  2
+Cleveland        001 000 001 000 01 --  3
+  2 outs when winning run was scored.
+
+  Minnesota            IP  H  R ER BB SO
+Reed R                7.0  6  1  1  0  4
+Hawkins L             1.0  1  0  0  0  1
+Guardado E            1.0  0  1  0  2  1
+Romero J              0.2  1  0  0  2  1
+Rincon J (L)          4.0  4  1  1  3  1
+
+  Cleveland            IP  H  R ER BB SO
+Davis J               9.0 10  2  2  2  4
+Riske D               1.0  1  0  0  1  1
+Baez D                1.0  0  0  0  0  2
+Cressend J            2.0  1  0  0  0  1
+Betancourt R (W)      1.0  0  0  0  0  1
+
+E -- Guardado E
+DP -- Cleveland 1
+LOB -- Minnesota 11, Cleveland 16
+2B -- Blake C 2, Rivas L, Pierzynski A, Gerut J, Mientkiewicz D 2
+HR -- Peralta J
+CS -- Blake C
+SH -- Laker T 2, Rivas L, Broussard B, Blake C, Ludwick R
+SF -- Martinez V
+WP -- Davis J
+T -- 4:04
+A -- 24318
+     Game of 8/5/2003 -- Seattle at Cleveland (N)
+
+  Seattle            AB  R  H RBI    Cleveland          AB  R  H RBI
+Suzuki I, rf          4  1  3  0   Crisp C, lf           4  0  0  0   
+Sanchez R, ss         3  0  1  0   Blake C, 3b           4  0  0  0   
+Boone B, 2b           4  0  0  0   Gerut J, rf           4  0  0  0   
+Martinez E, dh        3  0  0  0   Bradley M, cf         4  0  0  0   
+Olerud J, 1b          3  0  0  1   Ludwick R, dh         4  0  0  0   
+Cameron M, cf         4  0  2  0   Martinez V, c         2  0  1  0   
+Winn R, lf            4  0  2  0   Hafner T, 1b          3  0  0  0   
+Wilson D, c           4  0  0  0   Peralta J, ss         2  1  1  1   
+Bloomquist W, 3b      4  1  2  0   Broussard B, ph       1  0  0  0   
+                                   Santos A, 2b          0  0  0  0   
+                                   McDonald J, 2b-ss     2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2 10  1                        30  1  3  1
+
+Seattle          101 000 000 --  2
+Cleveland        001 000 000 --  1
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (W)           7.0  3  1  1  1  5
+Nelson J              1.0  0  0  0  1  3
+Hasegawa S (S)        1.0  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (L)        8.0  9  2  2  2  4
+Riske D               1.0  1  0  0  0  2
+
+E -- Hafner T
+DP -- Cleveland 2
+LOB -- Seattle 7, Cleveland 4
+2B -- Winn R
+3B -- Suzuki I, Cameron M
+HR -- Peralta J
+SB -- Cameron M
+CS -- Bloomquist W
+SH -- Sanchez R
+T -- 2:37
+A -- 22300
+     Game of 8/6/2003 -- Seattle at Cleveland (N)
+
+  Seattle            AB  R  H RBI    Cleveland          AB  R  H RBI
+Suzuki I, rf          4  0  0  0   Crisp C, lf           5  2  3  2   
+Sanchez R, ss         4  2  2  0   Gerut J, rf           5  1  1  1   
+Boone B, 2b           4  2  1  2   Bradley M, cf         5  0  2  2   
+Martinez E, dh        4  1  2  1   Broussard B, 1b       4  1  2  0   
+Olerud J, 1b          4  1  1  3   Blake C, 3b           3  2  1  0   
+Cameron M, cf         4  0  1  0   Hafner T, dh          4  2  2  4   
+Davis B, c            4  0  0  0   Martinez V, c         4  1  1  0   
+Mabry J, lf           3  0  0  0   Peralta J, ss         4  0  2  0   
+McLemore M, 3b        3  0  1  0   McDonald J, 2b        4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  6  8  6                        38 10 15 10
+
+Seattle          000 204 000 --  6
+Cleveland        151 300 00x -- 10
+
+  Seattle              IP  H  R ER BB SO
+Pineiro J (L)         2.2 10  7  7  1  4
+Looper A              2.1  4  3  3  0  2
+Mateo J               2.0  1  0  0  0  2
+Soriano R             1.0  0  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (W)       5.2  8  6  6  0  2
+Cressend J            1.1  0  0  0  1  0
+Riske D               1.0  0  0  0  0  1
+Baez D                1.0  0  0  0  1  0
+
+E -- Peralta J
+DP -- Cleveland 2
+LOB -- Seattle 3, Cleveland 6
+2B -- Hafner T, Bradley M
+HR -- Crisp C, Boone B, Hafner T, Olerud J
+SB -- McDonald J, Cameron M, Broussard B
+HBP -- by Looper A (Blake C)
+T -- 2:43
+A -- 23282
+     Game of 8/7/2003 -- Seattle at Cleveland (N)
+
+  Seattle            AB  R  H RBI    Cleveland          AB  R  H RBI
+Suzuki I, rf          4  0  1  0   Crisp C, lf           4  0  0  0   
+Sanchez R, ss         4  0  2  0   Gerut J, rf           4  1  1  1   
+Boone B, 2b           4  0  0  0   Bradley M, cf         4  1  2  0   
+Martinez E, dh        3  0  1  0   Broussard B, 1b       4  0  1  1   
+Olerud J, 1b          3  0  1  0   Blake C, 3b           4  0  0  0   
+Cameron M, cf         3  0  1  0   Hafner T, dh          3  1  2  1   
+Winn R, lf            4  0  1  0   Martinez V, c         3  0  1  0   
+Wilson D, c           3  0  0  0   Peralta J, ss         3  0  1  0   
+Mabry J, ph           1  0  0  0   McDonald J, 2b        3  0  0  0   
+Bloomquist W, 3b      4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  0  7  0                        32  3  8  3
+
+Seattle          000 000 000 --  0
+Cleveland        000 110 01x --  3
+
+  Seattle              IP  H  R ER BB SO
+Garcia F (L)          6.1  6  2  2  0  7
+Mateo J               1.1  1  1  0  0  1
+Rhodes A              0.1  1  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Traber B (W)          7.0  5  0  0  2  5
+Riske D               1.0  1  0  0  0  0
+Baez D (S)            1.0  1  0  0  0  1
+
+E -- Mateo J
+DP -- Cleveland 1
+LOB -- Seattle 9, Cleveland 5
+2B -- Olerud J, Peralta J
+HR -- Gerut J, Hafner T
+SB -- Bradley M, Cameron M
+HBP -- by Traber B (Olerud J)
+T -- 2:17
+A -- 21141
+     Game of 8/8/2003 -- Anaheim at Cleveland (N)
+
+  Anaheim            AB  R  H RBI    Cleveland          AB  R  H RBI
+Eckstein D, ss        4  1  2  0   Crisp C, lf           3  1  1  1   
+DaVanon J, cf-rf      3  0  1  0   Gerut J, dh           4  0  0  0   
+Salmon T, rf          3  0  0  0   Bradley M, cf         4  0  0  0   
+Owens E, pr-cf        0  1  0  0   Ludwick R, rf         4  0  0  0   
+Anderson G, lf        4  1  1  3   Blake C, 3b           3  1  1  0   
+Spiezio S, 1b         4  1  2  0   Hafner T, 1b          3  0  1  1   
+Quinlan R, dh         4  1  1  1   Broussard B, 1b       0  0  0  0   
+Kennedy A, 2b         4  0  2  1   Martinez V, c         3  0  1  0   
+Molina J, c           1  0  0  0   Sorensen Z, pr        0  0  0  0   
+Wooten S, ph-c        2  0  0  0   Laker T, c            0  0  0  0   
+Amezaga A, 3b         3  0  0  0   Peralta J, ss         2  0  0  0   
+                                   McDonald J, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  9  5                        29  2  4  2
+
+Anaheim          000 000 005 --  5
+Cleveland        010 000 001 --  2
+
+  Anaheim              IP  H  R ER BB SO
+Washburn J (W)        8.0  3  1  1  2  7
+Donnelly B            1.0  1  1  1  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (L)           8.2  7  4  4  1  4
+Boyd J                0.1  2  1  1  0  0
+
+DP -- Cleveland 2
+LOB -- Anaheim 3, Cleveland 2
+2B -- Blake C, Spiezio S, Quinlan R
+HR -- Anderson G, Crisp C
+CS -- Peralta J, Kennedy A, Sorensen Z
+SH -- Molina J
+HBP -- by Davis J (Salmon T)
+T -- 2:28
+A -- 26175
+     Game of 8/9/2003, game 1 -- Anaheim at Cleveland (D)
+
+  Anaheim            AB  R  H RBI    Cleveland          AB  R  H RBI
+Eckstein D, ss        6  0  0  0   Crisp C, lf-cf        5  1  1  0   
+Owens E, cf           3  0  2  0   Gerut J, rf           4  0  1  1   
+DaVanon J, ph-cf      3  0  0  0   Bradley M, cf         5  0  0  0   
+Salmon T, rf          6  0  0  0   Ludwick R, lf         1  0  1  1   
+Anderson G, dh        6  1  1  0   Broussard B, 1b       4  0  2  0   
+Spiezio S, 1b         4  1  2  1   Blake C, 3b           4  0  0  0   
+Quinlan R, lf         5  0  1  0   Hafner T, dh          4  1  1  0   
+Wooten S, c           3  0  0  0   Laker T, c            3  0  0  0   
+Molina J, c           1  0  0  0   Bard J, ph-c          1  0  0  0   
+Kennedy A, 2b         5  0  2  0   Peralta J, ss         5  1  2  0   
+Amezaga A, 3b         5  0  1  0   McDonald J, 2b        4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     47  2  9  1                        40  3  8  2
+
+Anaheim          000 000 002 000 0 --  2
+Cleveland        000 001 100 000 1 --  3
+  1 out when winning run was scored.
+
+  Anaheim              IP  H  R ER BB SO
+Gregg K               6.0  4  1  1  2  6
+Rodriguez F           3.0  1  1  0  0  2
+Donnelly B            2.0  0  0  0  0  2
+Weber B (L)           1.1  3  1  1  3  0
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B            7.0  5  0  0  1  7
+Riske D               1.0  1  0  0  0  2
+Baez D                1.0  3  2  2  0  0
+Betancourt R          2.0  0  0  0  1  2
+Cressend J (W)        2.0  0  0  0  0  0
+
+E -- Salmon T, Amezaga A
+DP -- Anaheim 2
+LOB -- Anaheim 8, Cleveland 8
+2B -- Crisp C, Amezaga A, Spiezio S, Kennedy A
+SB -- Owens E, Broussard B
+CS -- Owens E, Gerut J
+SH -- Blake C, McDonald J
+HBP -- by Gregg K (Broussard B)
+WP -- Rodriguez F, Baez D
+PB -- Laker T
+T -- 3:30
+A -- 26391
+     Game of 8/9/2003, game 2 -- Anaheim at Cleveland (N)
+
+  Anaheim            AB  R  H RBI    Cleveland          AB  R  H RBI
+Owens E, cf           4  0  0  0   Crisp C, cf           3  1  0  0   
+Quinlan R, 1b         3  2  1  0   Blake C, 3b           4  0  1  2   
+Anderson G, lf        4  0  2  1   Gerut J, rf           3  0  0  0   
+Salmon T, dh          4  0  2  0   Broussard B, 1b       4  0  0  0   
+Spiezio S, 3b         3  0  1  1   Ludwick R, lf         4  0  1  0   
+DaVanon J, rf         4  0  1  0   Hafner T, dh          3  0  1  0   
+Kennedy A, 2b         3  0  0  0   Bard J, c             3  0  0  0   
+Molina J, c           3  0  0  0   Peralta J, ss         3  1  1  0   
+Eckstein D, ph        1  0  0  0   Santos A, 2b          2  1  2  1   
+Amezaga A, ss         4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        29  3  6  3
+
+Anaheim          100 010 000 --  2
+Cleveland        002 000 10x --  3
+
+  Anaheim              IP  H  R ER BB SO
+Shields S (L)         7.0  6  3  3  1  5
+Jones G               1.0  0  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Stanford J            4.1  7  2  2  1  2
+Boyd J (W)            2.2  0  0  0  2  0
+Riske D               1.0  0  0  0  0  0
+Baez D (S)            1.0  0  0  0  0  2
+
+DP -- Cleveland 1
+LOB -- Anaheim 7, Cleveland 5
+2B -- Hafner T, Anderson G, Blake C, Ludwick R
+3B -- Quinlan R
+HR -- Santos A
+SB -- Spiezio S, Crisp C
+SH -- Santos A
+HBP -- by Jones G (Gerut J)
+WP -- Boyd J, Jones G 2
+T -- 2:23
+A -- 20116
+     Game of 8/10/2003 -- Anaheim at Cleveland (D)
+
+  Anaheim            AB  R  H RBI    Cleveland          AB  R  H RBI
+Eckstein D, ss        3  0  1  0   Crisp C, cf           4  1  0  0   
+Figgins C, cf         3  0  1  0   Santos A, 2b          3  0  0  1   
+Anderson G, lf        4  0  1  0   Gerut J, rf           4  0  2  2   
+Spiezio S, 3b         4  0  1  0   Broussard B, 1b       3  0  0  0   
+Quinlan R, 1b         3  0  1  0   Ludwick R, lf         2  0  0  0   
+Molina B, c           4  0  0  0   Hafner T, dh          3  0  0  0   
+Wooten S, dh          4  0  1  0   Laker T, c            2  0  1  0   
+Kennedy A, 2b         4  0  1  0   Peralta J, 3b         2  1  1  0   
+Owens E, rf           2  1  1  0   Blake C, 3b           0  0  0  0   
+DaVanon J, ph         1  0  0  0   McDonald J, ss        2  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  8  0                        25  3  4  3
+
+Anaheim          001 000 000 --  1
+Cleveland        003 000 00x --  3
+
+  Anaheim              IP  H  R ER BB SO
+Lackey J (L)          7.0  4  3  0  2  6
+Glover G              1.0  0  0  0  1  1
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        5.2  4  1  1  4  7
+Cressend J            2.0  4  0  0  0  0
+Betancourt R (S)      1.1  0  0  0  0  1
+
+E -- Lackey J
+DP -- Anaheim 1, Cleveland 2
+LOB -- Anaheim 8, Cleveland 3
+2B -- Laker T, Gerut J
+CS -- Kennedy A, Peralta J
+SH -- McDonald J
+HBP -- by Lackey J (Peralta J)
+T -- 2:30
+A -- 23576
+     Game of 8/15/2003 -- Tampa Bay at Cleveland (N)
+
+  Tampa Bay          AB  R  H RBI    Cleveland          AB  R  H RBI
+Crawford C, lf        4  0  1  0   Gerut J, cf           3  0  1  0   
+Lugo J, ss            4  0  1  0   Blake C, 3b           4  0  0  0   
+Huff A, dh            4  0  1  0   Broussard B, 1b       3  0  1  0   
+Baldelli R, cf        3  0  0  0   Hafner T, dh          3  0  1  0   
+Lee T, 1b             4  0  0  0   Sorensen Z, pr        0  1  0  0   
+Rolls D, rf           3  0  1  0   Ludwick R, lf         3  0  0  0   
+Hall T, c             2  0  0  0   Crisp C, ph           0  0  0  0   
+Sandberg J, 3b        3  0  0  0   Escobar A, rf         4  0  0  0   
+Perez A, 2b           2  0  0  0   Bard J, c             4  0  2  1   
+                                   Peralta J, ss         2  0  0  0   
+                                   McDonald J, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  0  4  0                        29  1  5  1
+
+Tampa Bay        000 000 000 --  0
+Cleveland        000 000 001 --  1
+  1 out when winning run was scored.
+
+  Tampa Bay            IP  H  R ER BB SO
+Zambrano V            8.0  3  0  0  4  7
+Harper T (L)          0.1  2  1  1  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        9.0  4  0  0  3  9
+
+E -- Blake C, Lugo J
+DP -- Tampa Bay 1, Cleveland 2
+LOB -- Tampa Bay 5, Cleveland 8
+2B -- Broussard B
+SB -- Broussard B
+CS -- Bard J
+SH -- Crisp C
+WP -- Zambrano V
+T -- 2:09
+A -- 19679
+     Game of 8/16/2003 -- Tampa Bay at Cleveland (N)
+
+  Tampa Bay          AB  R  H RBI    Cleveland          AB  R  H RBI
+Crawford C, lf        5  0  2  0   Crisp C, cf           5  0  1  0   
+Lugo J, ss            5  1  2  0   Blake C, 3b           5  0  3  2   
+Baldelli R, cf        4  2  2  0   Gerut J, lf           4  0  1  0   
+Huff A, dh            5  0  2  2   Broussard B, 1b       3  0  0  0   
+Rolls D, rf-3b        4  0  0  0   Escobar A, rf         4  1  1  1   
+Lee T, 1b             4  0  1  0   Hafner T, dh          3  0  0  0   
+Hall T, c             4  1  1  0   Bard J, c             4  0  1  0   
+Sandberg J, 3b        3  1  2  2   Peralta J, ss         2  1  0  0   
+Tyner J, ph-rf        1  0  0  0   Santos A, 2b          4  1  2  0   
+Perez A, 2b           3  0  0  0                                      
+Anderson M, ph-2b     1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  5 12  4                        34  3  9  3
+
+Tampa Bay        220 000 100 --  5
+Cleveland        010 200 000 --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Gaudin C              3.2  6  3  3  3  0
+Malaska M (W)         1.1  0  0  0  0  2
+Backe B               2.0  2  0  0  1  1
+Colome J              1.0  0  0  0  1  2
+Carter L (S)          1.0  1  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (L)             6.0  8  4  3  1  5
+Cressend J            1.0  3  1  1  0  0
+Betancourt R          2.0  1  0  0  0  1
+
+E -- Blake C, Escobar A
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 9, Cleveland 9
+2B -- Lugo J, Huff A
+HR -- Sandberg J, Escobar A
+SB -- Lugo J, Baldelli R 2
+CS -- Santos A
+HBP -- by Cressend J (Rolls D)
+WP -- Lee C
+T -- 2:48
+A -- 23397
+     Game of 8/17/2003 -- Tampa Bay at Cleveland (D)
+
+  Tampa Bay          AB  R  H RBI    Cleveland          AB  R  H RBI
+Crawford C, lf        5  1  1  0   Crisp C, cf           6  0  1  0   
+Baldelli R, cf        6  0  2  1   Santos A, 3b          3  0  0  0   
+Huff A, rf            2  0  1  2   Broussard B, 1b       1  2  1  0   
+Tyner J, rf           1  0  0  0   Blake C, 1b-3b        4  0  0  0   
+Lee T, 1b             5  1  2  1   Ludwick R, lf         6  0  3  3   
+Martin A, dh          5  0  1  0   Escobar A, rf         5  1  1  0   
+Perez A, ph           1  0  0  0   Hafner T, dh          2  1  2  0   
+Rolls D, 3b           4  0  0  0   Anderson B, pr        0  0  0  0   
+Anderson M, 2b        4  1  1  0   Bard J, ph            0  0  0  0   
+Valentin J, c         3  1  0  0   Laker T, c            5  0  1  1   
+Sandberg J, ph        1  0  0  0   Peralta J, ss         5  0  2  0   
+Hall T, c             0  0  0  0   McDonald J, 2b        3  1  0  0   
+Lugo J, ss            5  0  1  0   Gerut J, ph           1  0  0  0   
+                                   Sorensen Z, 2b        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42  4  9  4                        42  5 11  4
+
+Tampa Bay        020 000 100 100 --  4
+Cleveland        010 110 000 101 --  5
+  1 out when winning run was scored.
+
+  Tampa Bay            IP  H  R ER BB SO
+Kennedy J             4.2  7  3  2  2  3
+Sosa J                5.1  2  1  1  2  8
+Colome J (L)          1.1  2  1  1  2  1
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J           6.0  7  2  2  3  1
+Betancourt R          0.2  0  1  1  2  0
+Baez D                1.1  0  0  0  0  3
+Riske D               2.0  1  1  1  1  3
+Mulholland T (W)      2.0  1  0  0  0  2
+
+E -- Rolls D
+DP -- Tampa Bay 2, Cleveland 1
+LOB -- Tampa Bay 10, Cleveland 10
+2B -- Escobar A, Laker T
+HR -- Lee T
+SB -- Blake C, Anderson M, Crawford C, Lee T
+SH -- Blake C
+SF -- Huff A 2
+T -- 4:06
+A -- 21097
+     Game of 8/18/2003 -- Tampa Bay at Cleveland (N)
+
+  Tampa Bay          AB  R  H RBI    Cleveland          AB  R  H RBI
+Crawford C, lf        7  0  2  2   Crisp C, cf           6  1  3  2   
+Lugo J, ss            6  3  3  3   Lawton M, dh          6  0  1  0   
+Baldelli R, cf        7  0  1  0   Gerut J, lf           6  1  2  0   
+Huff A, dh            5  0  0  0   Broussard B, 1b       5  0  1  0   
+Lee T, 1b             6  0  1  1   Ludwick R, rf         6  0  2  0   
+Rolls D, rf-3b        6  0  3  0   Blake C, 3b           3  1  1  1   
+Hall T, c             5  1  2  0   Bard J, c             3  0  1  0   
+Martin A, pr          0  1  0  0   McDonald J, pr-2b     2  1  0  0   
+Valentin J, c         0  0  0  0   Peralta J, ss         4  0  0  0   
+Sandberg J, 3b        2  0  0  0   Santos A, 2b          2  0  0  0   
+Tyner J, pr-rf        1  1  1  0   Hafner T, ph          0  0  0  0   
+Perez A, 2b           2  0  0  0   Laker T, ph-c         3  0  0  1   
+Anderson M, ph-2b     4  1  2  1                                      
+                     -- -- -- --                        -- -- -- --
+                     51  7 15  7                        46  4 11  4
+
+Tampa Bay        100 001 010 010 3 --  7
+Cleveland        100 000 200 010 0 --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Bell R                6.1  8  3  3  0  2
+Malaska M             1.0  2  0  0  0  1
+Backe B               2.0  0  0  0  0  3
+Carter L (W)          3.2  1  1  1  1  1
+
+  Cleveland            IP  H  R ER BB SO
+Traber B              5.1  6  2  2  1  3
+Cressend J            1.2  0  0  0  0  1
+Baez D                1.0  1  1  1  0  1
+Riske D               1.0  1  0  0  1  1
+Mulholland T (L)      4.0  7  4  4  1  0
+
+E -- Anderson M
+DP -- Tampa Bay 2, Cleveland 1
+LOB -- Tampa Bay 11, Cleveland 7
+2B -- Rolls D, Crisp C, Hall T 2
+3B -- Ludwick R
+HR -- Lugo J 2, Crisp C
+SB -- Crawford C
+CS -- Baldelli R, Gerut J, Broussard B
+SH -- Sandberg J, Peralta J
+SF -- Blake C, Lugo J
+HBP -- by Bell R (Blake C), by Cressend J (Hall T)
+T -- 4:04
+A -- 18685
+     Game of 8/19/2003 -- Minnesota at Cleveland (N)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, lf         5  0  2  1   Crisp C, cf           4  1  1  0   
+Rivas L, 2b           5  1  2  1   Blake C, 3b           4  1  4  2   
+Koskie C, 3b          4  1  1  0   Ludwick R, lf         4  0  1  0   
+Hocking D, pr-3b      0  0  0  0   Broussard B, 1b       4  0  0  0   
+LeCroy M, 1b          5  1  1  3   Escobar A, rf         4  0  1  0   
+Jones J, dh           4  1  3  0   Hafner T, dh          3  0  0  0   
+Ryan M, ph            1  0  0  0   Bard J, c             4  0  0  0   
+Hunter T, cf          4  0  0  0   Santos A, 2b          3  0  1  0   
+Pierzynski A, c       4  1  1  1   McDonald J, ss        3  0  0  0   
+Mohr D, rf            4  1  1  2                                      
+Guzman C, ss          4  2  3  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40  8 14  8                        33  2  8  2
+
+Minnesota        000 004 130 --  8
+Cleveland        000 020 000 --  2
+
+  Minnesota            IP  H  R ER BB SO
+Santana J (W)         8.0  8  2  2  1 10
+Balfour G             1.0  0  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (L)           6.2  9  5  4  1  2
+Cortes D              2.1  5  3  3  0  0
+
+E -- Davis J, Broussard B
+DP -- Minnesota 2, Cleveland 1
+LOB -- Minnesota 6, Cleveland 5
+2B -- Escobar A, Blake C, Jones J 2, Pierzynski A
+3B -- Crisp C, Rivas L
+HR -- Blake C, LeCroy M, Mohr D
+SB -- Ludwick R, Jones J
+CS -- Blake C
+WP -- Davis J
+T -- 2:29
+A -- 21239
+     Game of 8/20/2003 -- Minnesota at Cleveland (N)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, lf         4  1  0  1   Crisp C, cf           4  0  1  0   
+Rivas L, 2b           4  0  1  1   Lawton M, dh          4  1  1  0   
+Koskie C, 3b          4  0  0  0   Gerut J, lf           4  1  3  0   
+LeCroy M, 1b          3  0  1  1   Ludwick R, rf         4  1  2  3   
+Hocking D, 1b         0  0  0  0   Hafner T, 1b          4  0  1  0   
+Jones J, dh           4  0  0  0   Blake C, 3b           4  0  0  0   
+Hunter T, cf          4  1  1  0   Laker T, c            2  0  0  0   
+Pierzynski A, c       3  1  2  0   Bard J, c             2  0  0  0   
+Mohr D, rf            3  1  0  0   Peralta J, ss         3  0  0  0   
+Guzman C, ss          2  0  1  1   Escobar A, ph         1  0  0  0   
+                                   McDonald J, 2b        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  6  4                        35  3  9  3
+
+Minnesota        003 000 100 --  4
+Cleveland        300 000 000 --  3
+
+  Minnesota            IP  H  R ER BB SO
+Radke B (W)           7.0  8  3  3  0  4
+Romero J              0.2  0  0  0  0  0
+Hawkins L             0.1  1  0  0  0  0
+Guardado E (S)        1.0  0  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B (L)        7.0  5  4  1  2  5
+Betancourt R          2.0  1  0  0  0  1
+
+E -- McDonald J, Blake C, Gerut J
+DP -- Minnesota 1, Cleveland 2
+LOB -- Minnesota 4, Cleveland 5
+2B -- Gerut J, McDonald J, Ludwick R
+HR -- Ludwick R
+CS -- Hafner T
+SH -- Mohr D
+SF -- Guzman C
+T -- 2:35
+A -- 20197
+     Game of 8/26/2003 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Sanchez A, cf         4  0  1  0   Crisp C, cf           4  0  2  0   
+Klassen D, 3b         5  0  3  0   Vizquel O, ss         3  0  0  0   
+Higginson B, rf       5  0  0  0   Blake C, 3b           4  0  0  1   
+Young D, dh           3  1  1  1   Gerut J, lf           3  1  0  0   
+Monroe C, lf          4  1  1  1   Lawton M, dh          4  1  1  0   
+Pena C, 1b            4  1  1  0   Ludwick R, rf         4  1  3  1   
+Morris W, 2b          4  1  1  0   Broussard B, 1b       3  0  1  2   
+Inge B, c             4  1  2  1   Escobar A, ph         1  0  1  0   
+Santiago R, ss        4  0  2  1   Bard J, c             3  0  0  0   
+                                   McDonald J, 2b        2  1  1  0   
+                                   Santos A, 2b          2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 12  4                        33  4 10  4
+
+Detroit          010 400 000 --  5
+Cleveland        021 100 000 --  4
+
+  Detroit              IP  H  R ER BB SO
+Cornejo N (W)         7.1  9  4  4  1  0
+Walker J (S)          1.2  1  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Traber B (L)          4.0  9  5  4  0  3
+Cressend J            2.0  1  0  0  0  2
+Betancourt R          2.0  1  0  0  1  1
+Baez D                1.0  1  0  0  0  0
+
+E -- Bard J
+DP -- Detroit 3, Cleveland 2
+LOB -- Detroit 7, Cleveland 5
+2B -- Ludwick R 2, Pena C, Broussard B, Klassen D
+HR -- Monroe C, Young D
+SB -- Sanchez A
+SH -- Vizquel O, Sanchez A
+HBP -- by Cornejo N (Gerut J)
+T -- 2:31
+A -- 16972
+     Game of 8/27/2003 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Sanchez A, cf         5  1  1  0   Crisp C, cf           5  4  4  0   
+Klassen D, 3b         4  1  1  2   Vizquel O, ss         5  1  1  1   
+Witt K, ph            1  0  0  0   Gerut J, lf           4  2  2  4   
+Higginson B, rf       5  1  1  0   Ludwick R, rf         3  0  1  1   
+Young D, dh           3  1  2  2   Lawton M, dh          3  1  3  2   
+Monroe C, lf          4  1  2  1   Blake C, 3b           4  0  1  1   
+Pena C, 1b            3  1  1  1   Hafner T, 1b          3  0  0  0   
+Morris W, 2b          4  0  1  0   Broussard B, 1b       0  0  0  0   
+Inge B, c             4  1  1  1   Bard J, c             4  0  0  0   
+Santiago R, ss        4  0  0  0   Phillips B, 2b        1  1  0  0   
+                                   Santos A, ph-2b       2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 10  7                        34  9 12  9
+
+Detroit          010 050 010 --  7
+Cleveland        103 212 00x --  9
+
+  Detroit              IP  H  R ER BB SO
+Loux S                2.0  2  1  1  1  0
+Ledezma W             1.0  3  3  3  1  0
+Spurling C (L)        1.1  4  3  3  0  1
+German F              1.0  3  2  2  1  0
+Schmack B             1.2  0  0  0  0  0
+Patterson D           1.0  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Mulholland T          4.2  7  6  6  0  5
+Cressend J (W)        1.1  2  0  0  0  0
+Betancourt R          0.2  0  0  0  1  1
+Baez D                1.1  1  1  1  0  1
+Riske D (S)           1.0  0  0  0  0  1
+
+DP -- Detroit 1
+LOB -- Detroit 5, Cleveland 6
+2B -- Vizquel O, Gerut J, Monroe C, Blake C, Morris W
+HR -- Monroe C, Gerut J, Inge B, Klassen D, Young D, Pena C
+SB -- Crisp C
+CS -- Phillips B
+HBP -- by Mulholland T (Pena C), by Loux S (Hafner T), by Spurling C (Phillips B)
+T -- 2:41
+A -- 16457
+     Game of 8/28/2003 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Sanchez A, cf         3  1  1  0   Crisp C, cf           5  1  2  1   
+Petrick B, cf         1  0  0  0   Vizquel O, ss         3  2  1  0   
+Klassen D, 2b         3  0  0  0   Gerut J, lf           4  2  2  5   
+Higginson B, rf       4  0  1  1   Ludwick R, rf         4  0  1  0   
+Young D, dh           4  0  2  0   Lawton M, dh          4  1  1  0   
+Monroe C, lf          3  0  0  0   Blake C, 3b           3  0  1  0   
+Pena C, 1b            3  1  1  1   Broussard B, 1b       4  0  0  0   
+Inge B, c             3  0  0  0   Bard J, c             4  2  3  2   
+Halter S, 3b          3  1  1  1   Santos A, 2b          4  0  0  0   
+Santiago R, ss        3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  3  6  3                        35  8 11  8
+
+Detroit          011 010 000 --  3
+Cleveland        210 131 00x --  8
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (L)       4.2  9  7  5  1  1
+Schmack B             1.1  2  1  1  0  0
+German F              1.0  0  0  0  1  1
+Rodney F              1.0  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (W)             7.0  5  3  3  2  7
+Santiago J            2.0  1  0  0  0  1
+
+E -- Monroe C, Santiago R
+DP -- Detroit 1, Cleveland 3
+LOB -- Detroit 2, Cleveland 5
+2B -- Bard J, Crisp C
+HR -- Gerut J 2, Pena C, Bard J, Halter S
+SB -- Sanchez A, Crisp C
+CS -- Vizquel O
+T -- 2:03
+A -- 16282
+     Game of 8/29/2003 -- Toronto at Cleveland (N)
+
+  Toronto            AB  R  H RBI    Cleveland          AB  R  H RBI
+Johnson R, lf         4  1  2  1   Crisp C, cf           4  0  0  0   
+Bordick M, 2b         4  1  1  2   Blake C, 3b           4  0  0  0   
+Wells V, cf           5  1  1  0   Gerut J, lf           4  0  0  0   
+Delgado C, 1b         5  1  4  1   Ludwick R, rf         4  0  1  0   
+Kielty B, rf          5  0  0  0   Lawton M, dh          3  1  0  0   
+Phelps J, dh          4  1  2  2   Hafner T, 1b          3  1  2  0   
+Woodward C, ss        4  0  0  0   Bard J, c             3  1  1  3   
+Berg D, 3b            4  2  2  0   Peralta J, ss         2  0  0  0   
+Cash K, c             4  0  2  1   Santos A, 2b          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  7 14  7                        30  3  4  3
+
+Toronto          000 051 010 --  7
+Cleveland        030 000 000 --  3
+
+  Toronto              IP  H  R ER BB SO
+Escobar K (W)         8.0  4  3  3  2  4
+Kershner J            1.0  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (L)        6.0 10  6  6  2  6
+Cressend J            2.0  3  1  1  0  0
+Santiago J            1.0  1  0  0  0  0
+
+DP -- Toronto 1, Cleveland 1
+LOB -- Toronto 8, Cleveland 2
+2B -- Johnson R, Delgado C, Cash K
+HR -- Bard J, Bordick M, Phelps J
+SF -- Johnson R
+WP -- Cressend J
+T -- 2:24
+A -- 21008
+     Game of 8/30/2003 -- Toronto at Cleveland (N)
+
+  Toronto            AB  R  H RBI    Cleveland          AB  R  H RBI
+Johnson R, rf-lf      6  2  2  1   Crisp C, cf           4  0  1  1   
+Catalanotto F, lf     2  1  2  3   Vizquel O, ss         4  0  0  0   
+Kielty B, ph-rf       2  1  1  0   Gerut J, lf           4  2  2  0   
+Wells V, cf           6  1  2  0   Blake C, 3b           3  0  1  0   
+Delgado C, 1b         3  0  2  1   Lawton M, dh          4  0  0  2   
+Myers G, dh           2  0  0  0   Hafner T, 1b          3  0  0  0   
+Phelps J, ph          0  1  0  0   Bard J, c             3  1  1  0   
+Hinske E, 3b          4  1  1  0   Escobar A, rf         3  0  1  0   
+Hudson O, 2b          3  0  1  0   Phillips B, 2b        2  0  0  0   
+Bordick M, ph-2b      1  0  1  2                                      
+Woodward C, ss        5  1  3  2                                      
+Cash K, c             5  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  9 15  9                        30  3  6  3
+
+Toronto          010 004 040 --  9
+Cleveland        001 000 101 --  3
+
+  Toronto              IP  H  R ER BB SO
+Lidle C (W)           6.1  5  2  2  1  2
+Towers J (S)          2.2  1  1  1  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (L)       5.1  8  4  3  6  2
+Betancourt R          0.1  2  1  1  1  1
+Mulholland T          3.1  5  4  0  1  1
+
+E -- Hudson O, Blake C, Hafner T
+DP -- Toronto 3, Cleveland 3
+LOB -- Toronto 12, Cleveland 3
+2B -- Hinske E, Delgado C
+HR -- Catalanotto F
+SH -- Phillips B
+SF -- Delgado C
+HBP -- by Lidle C (Hafner T)
+WP -- Towers J
+T -- 2:50
+A -- 21806
+     Game of 8/31/2003 -- Toronto at Cleveland (D)
+
+  Toronto            AB  R  H RBI    Cleveland          AB  R  H RBI
+Johnson R, lf         3  1  1  0   Crisp C, dh           3  0  2  1   
+Bordick M, 2b-ss      3  1  2  1   Blake C, 3b           4  0  1  0   
+Wells V, cf           4  0  0  0   Gerut J, cf           3  0  0  0   
+Delgado C, dh         3  0  0  1   Ludwick R, lf         3  0  0  0   
+Phelps J, 1b          4  1  1  2   Escobar A, rf         4  1  2  1   
+Hudson O, 2b          0  0  0  0   Broussard B, 1b       4  0  0  0   
+Kielty B, rf          3  0  0  0   Laker T, c            4  1  2  0   
+Wilson T, c           3  0  0  0   Santos A, pr          0  1  0  0   
+Catalanotto F, ph-1b  1  0  1  0   Peralta J, ss         3  2  1  0   
+Woodward C, ss        3  1  1  0   Phillips B, 2b        3  0  1  1   
+Myers G, ph           1  0  0  0   Lawton M, ph          1  0  0  0   
+Cash K, c             0  0  0  0                                      
+Berg D, 3b            2  0  0  0                                      
+Hinske E, ph-3b       2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  6  4                        32  5  9  3
+
+Toronto          001 003 000 --  4
+Cleveland        021 000 002 --  5
+  0 outs when winning run was scored.
+
+  Toronto              IP  H  R ER BB SO
+Hendrickson M         4.1  7  3  3  2  3
+Walker P              3.1  1  0  0  1  1
+Kershner J (L)        0.1  1  2  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Traber B              5.2  5  4  4  0  3
+Cressend J            2.1  0  0  0  1  3
+Baez D (W)            1.0  1  0  0  0  0
+
+E -- Cash K, Catalanotto F
+LOB -- Toronto 5, Cleveland 7
+2B -- Woodward C, Bordick M
+HR -- Escobar A, Phelps J
+SB -- Crisp C 2
+CS -- Phillips B, Crisp C
+SH -- Peralta J
+SF -- Delgado C
+HBP -- by Traber B (Johnson R), by Traber B (Kielty B)
+WP -- Hendrickson M
+T -- 3:00
+A -- 20866
+     Game of 9/12/2003 -- Minnesota at Cleveland (N)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, lf         5  0  2  1   Crisp C, cf           4  0  2  0   
+Rivas L, 2b           3  0  0  0   Gerut J, lf           4  0  0  0   
+Ford L, ph            0  0  0  0   Blake C, 3b           4  0  0  0   
+Hocking D, 2b         1  0  0  0   Escobar A, rf         4  1  2  0   
+Mientkiewicz D, 1b    5  0  2  0   Broussard B, 1b       4  0  0  0   
+LeCroy M, dh          3  1  0  0   Martinez V, c         2  1  1  1   
+Koskie C, 3b          4  0  0  0   Hafner T, dh          3  1  2  0   
+Hunter T, cf          2  1  1  2   Peralta J, ss         2  1  1  3   
+Pierzynski A, c       4  0  0  0   Phillips B, 2b        2  0  0  0   
+Mohr D, rf            2  0  0  0                                      
+Jones J, ph-rf        1  0  0  0                                      
+Guzman C, ss          3  0  2  0                                      
+Ryan M, ph            1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        29  4  8  4
+
+Minnesota        000 200 001 --  3
+Cleveland        000 031 00x --  4
+
+  Minnesota            IP  H  R ER BB SO
+Rogers K (L)          5.2  6  4  4  1  3
+Orosco J*             0.0  0  0  0  0  0
+Rincon J              1.1  1  0  0  0  1
+Romero J              1.0  1  0  0  1  0
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        6.2  6  2  2  4  6
+Baez D                1.1  0  0  0  1  0
+Riske D (S)           1.0  2  1  1  0  0
+  * Pitched to 1 batter in 6th
+
+DP -- Minnesota 2, Cleveland 1
+LOB -- Minnesota 9, Cleveland 6
+2B -- Stewart S, Guzman C
+HR -- Hunter T, Peralta J
+SB -- Escobar A
+SH -- Phillips B
+HBP -- by Rogers K (Peralta J), by Orosco J (Hafner T)
+PB -- Martinez V
+T -- 3:10
+A -- 20679
+     Game of 9/13/2003 -- Minnesota at Cleveland (N)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, lf         4  0  1  0   Crisp C, cf           4  0  0  0   
+Rivas L, 2b           4  0  0  0   Blake C, 3b           4  0  1  0   
+Mientkiewicz D, 1b    3  0  1  0   Gerut J, lf           4  0  2  0   
+LeCroy M, dh          4  0  1  0   Escobar A, rf         4  0  1  0   
+Restovich M, pr       0  0  0  0   Broussard B, 1b       4  0  0  0   
+Koskie C, 3b          4  0  0  0   Martinez V, c         4  0  1  0   
+Hunter T, cf          4  1  1  1   Hafner T, dh          4  0  1  0   
+Jones J, rf           2  0  1  0   Peralta J, ss         3  0  0  0   
+Ford L, rf            1  0  0  0   Santos A, 2b          3  0  1  0   
+Mohr D, rf            0  0  0  0   LaRocca G, ph         1  0  0  0   
+Pierzynski A, c       3  0  0  0                                      
+Guzman C, ss          3  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        35  0  7  0
+
+Minnesota        000 001 100 --  2
+Cleveland        000 000 000 --  0
+
+  Minnesota            IP  H  R ER BB SO
+Lohse K (W)           7.1  6  0  0  1  9
+Hawkins L             0.2  1  0  0  0  0
+Guardado E (S)        1.0  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Stanford J (L)        7.0  4  2  2  1  6
+Betancourt R          2.0  2  0  0  0  3
+
+E -- Santos A, Guzman C
+DP -- Cleveland 2
+LOB -- Minnesota 4, Cleveland 9
+2B -- Mientkiewicz D
+HR -- Guzman C, Hunter T
+WP -- Lohse K
+T -- 2:22
+A -- 20440
+     Game of 9/14/2003 -- Minnesota at Cleveland (D)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, lf         4  1  1  0   Crisp C, cf           4  0  1  0   
+Rivas L, 2b           2  0  0  0   Gerut J, lf           4  1  2  1   
+Jones J, ph           1  0  0  0   Blake C, 3b           4  0  0  0   
+Hocking D, pr-2b      0  0  0  0   Escobar A, rf         4  0  1  0   
+Mientkiewicz D, 1b    4  1  2  3   Martinez V, dh        4  1  2  0   
+LeCroy M, dh          4  0  0  0   Hafner T, 1b          4  1  2  2   
+Cuddyer M, 3b         3  0  0  0   Bard J, c             4  0  0  0   
+Koskie C, 3b          1  1  1  0   Peralta J, ss         4  0  0  0   
+Pierzynski A, c       4  1  2  0   Phillips B, 2b        3  0  1  0   
+Mohr D, cf-rf         4  0  1  1                                      
+Ryan M, rf            2  0  1  1                                      
+Hunter T, cf          1  0  0  0                                      
+Guzman C, ss          2  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  5  8  5                        35  3  9  3
+
+Minnesota        000 012 011 --  5
+Cleveland        000 021 000 --  3
+
+  Minnesota            IP  H  R ER BB SO
+Milton E              5.0  5  2  2  0  2
+Reed R                0.1  3  1  1  0  1
+Romero J              0.2  0  0  0  0  1
+Rincon J (W)          1.0  0  0  0  0  1
+Hawkins L             1.0  1  0  0  0  2
+Guardado E (S)        1.0  0  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Lee C                 7.0  5  3  3  1  7
+Baez D (L)            1.0  1  1  1  0  0
+Cressend J            1.0  2  1  1  1  1
+
+DP -- Cleveland 1
+LOB -- Minnesota 5, Cleveland 5
+2B -- Pierzynski A 2, Hafner T
+HR -- Hafner T, Mientkiewicz D, Gerut J
+SB -- Mientkiewicz D
+CS -- Crisp C, Ryan M
+SH -- Stewart S
+HBP -- by Baez D (Hunter T), by Baez D (Guzman C)
+WP -- Hawkins L
+T -- 2:48
+A -- 19452
+     Game of 9/15/2003 -- Minnesota at Cleveland (N)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, lf         3  1  1  1   Crisp C, cf           4  1  2  0   
+Ford L, lf            0  0  0  0   Sorensen Z, ph        1  0  0  0   
+Rivas L, 2b           3  1  1  0   Blake C, 3b           3  2  2  0   
+Morneau J, ph         1  0  0  0   LaRocca G, ph         0  0  0  0   
+Hocking D, 2b         0  0  0  0   Hafner T, dh          4  1  0  1   
+Mientkiewicz D, 1b    4  1  0  0   Escobar A, rf         3  1  0  1   
+Jones J, dh           4  1  2  1   Martinez V, c         3  0  1  1   
+Restovich M, pr       1  1  1  0   Broussard B, 1b       2  0  0  1   
+Koskie C, 3b          3  2  1  1   Magruder C, lf        4  1  2  1   
+Hunter T, cf          5  2  2  5   Peralta J, ss         4  0  0  0   
+Pierzynski A, c       3  2  2  1   Phillips B, 2b        4  0  0  0   
+LeCroy M, ph-c        1  0  0  0                                      
+Ryan M, rf            5  1  1  2                                      
+Guzman C, ss          4  1  1  2                                      
+                     -- -- -- --                        -- -- -- --
+                     37 13 12 13                        32  6  7  5
+
+Minnesota        001 008 103 -- 13
+Cleveland        001 102 200 --  6
+
+  Minnesota            IP  H  R ER BB SO
+Santana J (W)*        5.0  4  4  3  4  6
+Balfour G+            1.0  3  2  2  0  0
+Orosco J              1.0  0  0  0  1  0
+Rincon J              1.0  0  0  0  0  2
+Pulido C              1.0  0  0  0  1  0
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (L)           5.2  6  7  7  3  2
+Betancourt R#         0.0  2  2  2  0  0
+Boyd J                1.1  2  1  1  0  0
+Lee D                 1.0  0  0  0  1  1
+Mulholland T          1.0  2  3  3  1  1
+  * Pitched to 2 batters in 6th
+  + Pitched to 2 batters in 7th
+  # Pitched to 2 batters in 6th
+
+E -- Santana J 2, Davis J, Koskie C
+DP -- Cleveland 1
+LOB -- Minnesota 4, Cleveland 7
+2B -- Pierzynski A, Stewart S, Martinez V, Hunter T, Blake C
+HR -- Magruder C, Guzman C, Hunter T
+SB -- Pierzynski A, Rivas L
+CS -- Blake C
+SF -- Broussard B, Escobar A
+HBP -- by Davis J (Pierzynski A), by Boyd J (Rivas L)
+WP -- Orosco J
+PB -- Martinez V
+T -- 3:21
+A -- 16967
+     Game of 9/16/2003 -- Kansas City at Cleveland (N)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+Berroa A, ss          5  3  5  1   Crisp C, cf           5  0  2  4   
+Beltran C, cf         3  1  1  0   Blake C, 3b           4  0  0  0   
+Sweeney M, dh         5  1  0  1   Gerut J, lf           5  0  0  0   
+Ibanez R, rf-lf       5  2  3  2   Escobar A, rf         5  1  1  1   
+Randa J, 3b           5  2  2  4   Martinez V, dh        4  2  1  0   
+White R, lf           5  2  2  3   Broussard B, 1b       4  1  0  0   
+Guiel A, rf           0  0  0  0   Bard J, c             3  2  3  1   
+Harvey K, 1b          5  0  1  1   Peralta J, ss         3  1  1  1   
+Lopez M, 2b           5  1  1  0   Phillips B, 2b        4  1  2  1   
+Mayne B, c            3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41 12 15 12                        37  8 10  8
+
+Kansas City      420 510 000 -- 12
+Cleveland        040 004 000 --  8
+
+  Kansas City          IP  H  R ER BB SO
+May D (W)             5.2  7  7  1  2  8
+Grimsley J            0.1  2  1  1  0  0
+Levine A              2.0  1  0  0  1  0
+Leskanic C            1.0  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Traber B (L)          1.2  7  6  6  1  1
+Lee D                 1.1  0  0  0  0  1
+Durbin C              1.1  6  6  1  1  4
+Santiago J            2.2  2  0  0  1  0
+Baez D                2.0  0  0  0  0  2
+
+E -- Bard J, Berroa A 2, Durbin C, Blake C, Peralta J
+DP -- Kansas City 1, Cleveland 3
+LOB -- Kansas City 5, Cleveland 5
+2B -- White R, Peralta J, Crisp C 2, Lopez M, Bard J
+3B -- Berroa A
+HR -- Randa J, Escobar A, White R
+SB -- Berroa A 2, Beltran C
+CS -- Blake C
+T -- 2:54
+A -- 16145
+     Game of 9/17/2003 -- Kansas City at Cleveland (N)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+Berroa A, ss          3  0  0  0   Crisp C, cf           3  0  0  1   
+Matos J, ss           0  0  0  0   Gerut J, lf           4  0  1  2   
+Beltran C, cf         4  0  1  0   Broussard B, 1b       4  1  0  0   
+DeJesus D, cf         0  0  0  0   Escobar A, rf         4  2  3  1   
+White R, dh           4  0  0  0   Magruder C, rf        1  0  1  0   
+Ibanez R, lf          3  1  1  0   Martinez V, c         5  1  1  1   
+Brown D, lf           0  0  0  0   Hafner T, dh          5  1  1  1   
+Randa J, 3b           3  0  0  0   LaRocca G, 3b         4  3  2  0   
+Patterson J, 3b       1  0  0  0   Peralta J, ss         4  0  2  2   
+Guiel A, rf           4  0  2  1   Phillips B, 2b        3  1  1  1   
+Harvey K, 1b          3  0  0  0                                      
+Relaford D, 2b        3  0  1  0                                      
+Mayne B, c            1  0  0  0                                      
+Sweeney M, ph         1  0  0  0                                      
+Prince T, c           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        37  9 12  9
+
+Kansas City      000 000 100 --  1
+Cleveland        111 012 30x --  9
+
+  Kansas City          IP  H  R ER BB SO
+Abbott P (L)          5.0  6  4  4  2  6
+Field N               0.2  2  2  2  1  1
+Lloyd G               0.2  2  2  0  0  0
+Wilson K              1.2  2  1  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (W)       6.1  4  1  1  2  4
+Cressend J            1.2  1  0  0  1  2
+Riske D               1.0  0  0  0  0  1
+
+E -- Relaford D, Wilson K
+DP -- Cleveland 2
+LOB -- Kansas City 6, Cleveland 9
+2B -- Peralta J, Ibanez R, Guiel A, Magruder C
+HR -- Hafner T, Escobar A
+SB -- Beltran C
+SF -- Crisp C
+HBP -- by Westbrook J (Mayne B), by Wilson K (Phillips B)
+T -- 2:48
+A -- 16363
+     Game of 9/18/2003 -- Kansas City at Cleveland (N)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+Berroa A, ss          3  0  0  1   Crisp C, cf           4  0  1  1   
+Beltran C, cf         4  1  2  0   Blake C, 3b           4  1  1  0   
+Sweeney M, dh         4  0  1  1   Gerut J, lf           4  0  1  0   
+Ibanez R, lf          4  0  2  1   Escobar A, rf         4  0  0  1   
+Randa J, 3b           3  0  1  0   Hafner T, dh          4  0  0  0   
+Harvey K, 1b          4  0  0  0   Martinez V, c         4  0  1  0   
+Guiel A, rf           4  0  0  0   Broussard B, 1b       2  1  1  0   
+Relaford D, 2b        4  1  1  0   Peralta J, ss         2  0  1  0   
+DiFelice M, c         3  1  1  0   Phillips B, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  3                        31  2  6  2
+
+Kansas City      102 000 000 --  3
+Cleveland        100 010 000 --  2
+
+  Kansas City          IP  H  R ER BB SO
+Lima J (W)            5.0  6  2  2  1  2
+Affeldt J             3.0  0  0  0  1  4
+Leskanic C (S)        1.0  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (L)        7.0  7  3  3  1  5
+Betancourt R          2.0  1  0  0  0  0
+
+E -- Gerut J
+DP -- Kansas City 2
+LOB -- Kansas City 6, Cleveland 4
+2B -- Randa J, Ibanez R
+3B -- Beltran C
+SB -- Ibanez R
+CS -- Ibanez R
+SF -- Berroa A
+HBP -- by Sabathia C (DiFelice M)
+T -- 2:09
+A -- 17275
+     Game of 9/19/2003 -- Boston at Cleveland (N)
+
+  Boston             AB  R  H RBI    Cleveland          AB  R  H RBI
+Jackson D, cf-2b      4  0  1  0   Crisp C, cf           4  0  0  0   
+Walker T, 2b          3  0  0  1   Blake C, 3b           4  0  0  0   
+Brown A, cf           0  0  0  0   Gerut J, lf           4  0  1  0   
+Garciaparra N, ss     4  1  3  1   Martinez V, c         3  0  1  0   
+Ramirez M, lf         3  0  1  0   Sorensen Z, pr        0  0  0  0   
+Ortiz D, dh           4  0  0  0   Hafner T, dh          3  0  0  0   
+Millar K, 1b          4  0  1  0   LaRocca G, pr         0  0  0  0   
+Varitek J, c          4  0  1  0   Broussard B, 1b       4  0  0  0   
+Merloni L, 3b         3  0  0  0   Magruder C, rf        1  0  0  0   
+Kapler G, rf          4  1  1  0   Peralta J, ss         3  0  1  0   
+                                   Phillips B, 2b        2  0  0  0   
+                                   Escobar A, ph         1  0  0  0   
+                                   Santos A, 2b          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        29  0  3  0
+
+Boston           002 000 000 --  2
+Cleveland        000 000 000 --  0
+
+  Boston               IP  H  R ER BB SO
+Burkett J (W)*        7.0  3  0  0  1  3
+Timlin M              1.0  0  0  0  0  2
+Kim B                 0.2  0  0  0  0  0
+Embree A (S)          0.1  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Stanford J (L)        7.0  6  2  2  1  4
+Baez D                1.0  2  0  0  1  2
+Boyd J                1.0  0  0  0  0  0
+  * Pitched to 2 batters in 8th
+
+E -- Walker T, Garciaparra N, Jackson D
+DP -- Boston 3, Cleveland 1
+LOB -- Boston 7, Cleveland 6
+2B -- Varitek J, Kapler G, Jackson D
+HR -- Garciaparra N
+CS -- Magruder C
+SF -- Walker T
+HBP -- by Burkett J (Magruder C), by Kim B (Martinez V), by Kim B (Hafner T)
+T -- 2:32
+A -- 20374
+     Game of 9/20/2003 -- Boston at Cleveland (N)
+
+  Boston             AB  R  H RBI    Cleveland          AB  R  H RBI
+Jackson D, 2b         4  1  1  0   Crisp C, cf           4  2  0  0   
+Merloni L, 3b         5  0  1  0   Blake C, 3b           5  2  3  3   
+Garciaparra N, ss     4  0  0  1   Gerut J, lf           5  0  2  0   
+Ramirez M, lf         3  1  1  0   Escobar A, rf         4  2  1  2   
+Ortiz D, dh           4  0  1  0   Hafner T, dh          3  0  0  0   
+Millar K, 1b          4  0  2  1   Martinez V, ph        0  2  0  0   
+Nixon T, rf           3  1  1  1   Broussard B, 1b       4  1  2  4   
+Varitek J, c          4  1  1  0   Bard J, c             5  1  2  3   
+Kapler G, cf          4  0  2  1   Peralta J, ss         4  1  2  0   
+                                   Santos A, 2b          3  1  1  0   
+                                   Phillips B, 2b        1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 10  4                        38 13 14 12
+
+Boston           010 001 200 --  4
+Cleveland        000 010 75x -- 13
+
+  Boston               IP  H  R ER BB SO
+Lowe D (L)            6.1  9  6  4  0  3
+Sauerbeck S           0.2  1  2  2  2  0
+Williamson S          0.2  3  5  5  2  1
+Lyon B                0.1  1  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Mulholland T          6.0  6  2  2  2  5
+Cressend J            0.1  4  2  2  0  0
+Lee D (W)             0.2  0  0  0  0  0
+Betancourt R          1.0  0  0  0  1  2
+Boyd J                1.0  0  0  0  0  0
+
+E -- Jackson D
+DP -- Cleveland 1
+LOB -- Boston 7, Cleveland 6
+2B -- Millar K, Varitek J, Blake C 2, Phillips B
+3B -- Broussard B
+HR -- Nixon T, Broussard B, Bard J
+SB -- Gerut J
+CS -- Kapler G
+HBP -- by Sauerbeck S (Broussard B)
+WP -- Lowe D, Williamson S 2
+T -- 2:51
+A -- 23242
+     Game of 9/21/2003 -- Boston at Cleveland (D)
+
+  Boston             AB  R  H RBI    Cleveland          AB  R  H RBI
+Damon J, cf           4  0  0  0   Crisp C, cf           4  0  0  0   
+Garciaparra N, ss     3  0  0  0   Blake C, 3b           4  0  0  0   
+Merloni L, 2b         0  0  0  0   Gerut J, lf           3  0  1  0   
+Walker T, 2b          3  1  0  0   Escobar A, rf         4  0  0  0   
+Jackson D, 2b-ss      0  0  0  0   Broussard B, 1b       3  0  0  0   
+Ramirez M, dh         4  1  1  1   Martinez V, c         3  0  1  0   
+Millar K, 1b          4  0  2  1   Sorensen Z, pr-ss     0  0  0  0   
+Mueller B, 3b         3  0  0  0   Magruder C, ph        1  0  0  0   
+Varitek J, c          4  0  1  0   Hafner T, dh          4  0  1  0   
+Nixon T, rf           3  0  0  0   Peralta J, ss         2  0  1  0   
+Kapler G, lf          2  0  0  0   Bard J, ph-c          0  0  0  0   
+                                   Phillips B, 2b        2  0  0  0   
+                                   Santos A, ph-2b       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  2                        31  0  4  0
+
+Boston           000 200 000 --  2
+Cleveland        000 000 000 --  0
+
+  Boston               IP  H  R ER BB SO
+Martinez P (W)        7.0  4  0  0  2 11
+Timlin M              1.0  0  0  0  1  0
+Kim B (S)             1.0  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (L)             7.0  3  2  2  2  7
+Baez D                1.0  0  0  0  0  1
+Riske D               1.0  1  0  0  0  2
+
+E -- Peralta J
+DP -- Cleveland 1
+LOB -- Boston 5, Cleveland 7
+2B -- Gerut J, Ramirez M
+SB -- Garciaparra N
+CS -- Millar K
+HBP -- by Lee C (Walker T), by Baez D (Garciaparra N)
+T -- 2:32
+A -- 27655
+
