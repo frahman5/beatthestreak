@@ -25,8 +25,8 @@ class TestSimulation(unittest.TestCase):
          Player(10, "Jose", "Vidro", 2002), Player(11, "Jason", "Giambi", 2002),
          Player(12, "Albert", "Pujols", 2002), Player(13, "Jeff", "Kent", 2002),
          Player(14, "Adam", "Kennedy", 2002), Player(15, "Jim", "Edmonds", 2002),
-         Player(16, "Nomar", "Garciaparra", 2002), Player(17, "Edgardo", "Alfonzo", 2002), 
-         Player(18, "Miguel", "Tejada", 2002), Player(19, "Bobby", "Abreu", 2002)] 
+         Player(16, "Nomar", "Garciaparra", 2002), Player(17, "Bobby", "Abreu", 2002), 
+         Player(18, "Edgardo", "Alfonzo", 2002), Player(19, "Miguel", "Tejada", 2002)] 
 
     def setUp(self):
         setup()
@@ -34,11 +34,11 @@ class TestSimulation(unittest.TestCase):
     def tearDown(self):
         teardown()
 
-    # def test_start_date_in_init(self):
-    #     npSim2010_1 = NPSimulation(2010, 2010, 100, 35)
-    #     self.assertEqual(self.npSim2010_1.get_date(), date(2010, 4, 4))
-    #     npSim2010WithStartDate = NPSimulation(2010, 2010, 100, 35, startDate=date(2010,6,7))
-    #     self.assertEqual(npSim2010WithStartDate.get_date(),date(2010,6,7))
+    def test_start_date_in_init(self):
+        npSim2010_1 = NPSimulation(2010, 2010, 100, 35)
+        self.assertEqual(self.npSim2010_1.get_date(), date(2010, 4, 4))
+        npSim2010WithStartDate = NPSimulation(2010, 2010, 100, 35, startDate=date(2010,6,7))
+        self.assertEqual(npSim2010WithStartDate.get_date(),date(2010,6,7))
 
     def test_setup(self):
         self.npSim2003_2002.setup() # sets up the simulation
@@ -73,9 +73,9 @@ class TestSimulation(unittest.TestCase):
     #     self.assertRaises(DifficultYearException, NPSimulation, 1981, 1981, 100, 35)
     #     self.assertRaises(DifficultYearException, NPSimulation, 1950, 1950, 42, 7)
 
-    # def test_get_year(self):
-        # self.assertEqual(self.npSim2010_1.get_year(), 2010)
-        # self.assertEqual(self.npSim2001_2.get_year(), 2001)
+    def test_get_year(self):
+        self.assertEqual(self.npSim2010_1.get_year(), 2010)
+        self.assertEqual(self.npSim2001_2.get_year(), 2001)
 
     def test_sim_next_day(self):
         p0, p1, p2, p3, p4, p5, p6, p7, p8, p9 = self.players2003_2002[0:10]
@@ -83,27 +83,40 @@ class TestSimulation(unittest.TestCase):
         bots = self.npSim2003_2002.get_bots()
         
         self.npSim2003_2002.setup() # assume works
-        ## check that first day works
+
+        ####### check that first day works
         self.npSim2003_2002.sim_next_day()
-        # check that bots are not empty
-        self.assertEqual(len(bots), 40)
-        # check that bots have correct players
-        for bot in bots:
-            self.assertEqual(bot.get_player(), p13) # p13 is the only ony who played on opening day
-        # # check that bots have correct streaks lengths
-        # for bot in bots:
-        #     self.assertEqual(bot.get_streak_length(), 1) # p13 got a hit on opening day
-        # # check that bots have correct player histories
-        # for bot in bots:
-        #     self.assertEqual([(p13,True)], bot.get_player_history())
-        # # check that date on simulation has updated
-        # self.assertEqual(self.npSim2003_2002.get_date(), date(2003, 3, 31))
+        self.assertEqual(len(bots), 40) # check that bots are not empty
+        self.assertEqual([bot.get_player() for bot in bots], [p14] * 40)
+        self.assertEqual([bot.get_streak_length() for bot in bots], [1] * 40)
+        self.assertEqual([bot.get_player_history() for bot in bots], [[(p14, True)]] * 40)
+        self.assertEqual(self.npSim2003_2002.get_date(), date(2003, 3, 31))
+        
+        print "finished checking first day in sim"
+        ######## check that an arbitrary day-May 14-works
+        self.npSim2003_2002.set_date(date(2003, 5, 14))
+        self.npSim2003_2002.sim_next_day()
 
-        ## write tests for two other arbitrary days
-            # one should account for when there are no games being played
+        botPlayers = [p0, p1, p2, p3, p4, p5, p6, p7, p8, p9, 
+                      p11, p12, p13, p15, p16, p17, p18, p19, p0, p1, 
+                      p2, p3, p4, p5, p6, p7, p8, p9, p11, p12, 
+                      p13, p15, p16, p17, p18, p19, p0, p1, p2, p3]
+        botStreaks = [2,0,2,2,2,2,0,0,2,0, 
+                      0,0,2,0,2,2,2,2,2,0,
+                      2,2,2,2,0,0,2,0,0,0,
+                      2,0,2,2,2,2,2,0,2,2]
+        bools = map(lambda x: x > 0, botStreaks) # helper to make player Histories
+        botPlayerHistories = [[(p14, True), duple] for duple in zip(botPlayers, bools)]
 
+        self.assertEqual(len(bots), 40) # check that bots are not empty
+        # can't check for strict equality of lists since algorithm may get
+        # players in different order
+        self.assertEqual([bot.get_player() for bot in bots], botPlayers)
+        self.assertEqual([bot.get_streak_length() for bot in bots], botStreaks)
+        self.assertEqual([bot.get_player_history() for bot in bots], 
+                         botPlayerHistories)
+        self.assertEqual(self.npSim2003_2002.get_date(), date(2003, 5, 15))
 
-        # check that an arbitrary date works
     # def test_set_n(self):
     #     pass
 

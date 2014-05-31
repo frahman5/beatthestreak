@@ -28,7 +28,7 @@ class testPlayer(unittest.TestCase):
         # # player with non unique name should initalize with user
         # # help if you don't provide a debut date
         self.assertEqual(Player(0, "Jose", "Reyes", 2005).get_retrosheet_id(), "reyej001")
-        ## player initalized from PlayerL should have write data
+        ## player initalized from PlayerL should have right data
         pL = Player(0, playerL=PlayerL("jacksed01", 2012))
         self.assertEqual(
             (pL.get_first_name(), pL.get_last_name(), pL.get_bat_ave(), 

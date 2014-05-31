@@ -87,7 +87,6 @@ class Retrosheet(object):
         os.chdir(self.destUnzipped + "/events" + self.season)
         for team in teamAbbrevs:
             call = callPrefix + [self.season + team[0] + ".EV" + team[1]]
-            print "team: %s, call: %s" % (team, call)
             with open(self.season+ team[0] + "B" + ".txt", "w+") as file:
                 subprocess.call(call, stdout=file)
 
@@ -123,28 +122,6 @@ class Retrosheet(object):
         [os.remove(file) for file in os.listdir(os.getcwd()) 
             if file.endswith(".zip")]
 
-    def clean_all_files(self):
-        """
-        deletes all zipped and unzipped event and gamelog files
-        """
-        # Clean out zipped file folder afterwards
-        zippedFileFolder = Data.get_retrosheet_zipped_folder_path()
-        os.chdir(zippedFileFolder)
-        for file in os.listdir(os.getcwd()):
-          if os.path.isdir(file):
-            shutil.rmtree(file)
-          else:
-            os.remove(file)
-
-        # Clean out unzipped file folder as well
-        unzippedFileFolder = Data.get_retrosheet_unzipped_folder_path()
-        os.chdir(unzippedFileFolder)
-        for file in os.listdir(os.getcwd()):
-          if os.path.isdir(file):
-            shutil.rmtree(file)
-          else:
-            os.remove(file)
-            
     def get_season(self):
         return self.season
 

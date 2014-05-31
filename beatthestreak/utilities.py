@@ -15,9 +15,9 @@ class Utilities(object):
         return date.isoformat().replace('-', '')
 
     @classmethod
-    def clean_all_files(self):
+    def clean_retrosheet_files(self):
         """
-        deletes all zipped and unzipped event and gamelog files
+        deletes all zipped and unzipped event and gamelog (retrosheet) files
         """
         # Clean out zipped file folder afterwards
         zippedFileFolder = Data.rootDir + Data.defaultDestZippedSuffix

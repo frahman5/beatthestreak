@@ -64,17 +64,3 @@ class TestRetrosheet(unittest.TestCase):
         for path in eventfiles2013:
             self.assertFalse(os.path.isfile(r2013.get_dest_unzipped() + \
                                             "/events2013/" + path))
-
-    def test_clean_all_files(self):
-        r2013.download_and_unzip() # assume works
-
-        r2013.clean_all_files()
-        # Is zipped folder clean?
-        zippedFileFolder = Data.get_retrosheet_zipped_folder_path()
-        os.chdir(zippedFileFolder)
-        self.assertEqual(os.listdir(os.getcwd()),[])
-
-        # is unzipped folder clean??
-        unzippedFileFolder = Data.get_retrosheet_unzipped_folder_path()
-        os.chdir(unzippedFileFolder)
-        self.assertEqual(os.listdir(os.getcwd()), [])

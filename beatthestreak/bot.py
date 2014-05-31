@@ -28,8 +28,10 @@ class Bot(object):
         Assigns a player to this bot for a given day.
         Updates player_history accordingly
         """
+        print "line 31"
         self.player = player
         self.player_history.append((player, didGetHit))
+        print "line 33"
         if didGetHit:
             self.incr_streak_length()
         else:

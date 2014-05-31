@@ -88,6 +88,7 @@ class Researcher(object):
             on the given date, returns True if and only if the player got a hit
             in the first game
         """
+        print player.get_name()
         # os.chdir(Data.get_event_files_path(date.year))
         team = self.find_home_team(date, player) # need home team's box score
         boxscore = Data.get_boxscore_file_path(date.year, team)
@@ -100,15 +101,19 @@ class Researcher(object):
             r.gen_boxscores()
         
         with open(boxscore, "r") as file: 
+            print "Researher.did_get_hit: line 103"
             line = ""
 
             # find this date's game's boxscore
             search = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
             while search not in line: line = file.readline()
+            print "Researher.did_get_hit: line 109"
 
             # find this player's line in the boxscore
             search = lastName + " " + firstName[0]
             while search not in line: line = file.readline()
+
+            print "Researher.did_get_hit: line 113"
 
             #find the index of this player's last name in the line
             info = line.split()
@@ -170,11 +175,10 @@ class Researcher(object):
         Produces the first and last name of the player with id lahmanID
         """
         df = pd.read_csv(Data.get_lahman_path("master"), 
-                            usecols=['playerID', 'nameLast', 'nameGiven'])
+                            usecols=['playerID', 'nameLast', 'nameFirst'])
         df = df[df.playerID == lahmanID]
         lastName = df.nameLast.item()
-        givenName = df.nameGiven.item()
-        firstName = givenName.split()[0]
+        firstName = df.nameFirst.item()
         return firstName + " " + lastName
 
     @classmethod
