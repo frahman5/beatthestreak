@@ -12,16 +12,14 @@ class NPSimulation(Simulation):
     """
     A BTS simulation using the NP strategy. 
 
-    NP Strategy denotes a number N of robots and a number P 
-    of MLB players. Each robot is a MLB BTS account and hence its own
-    individual participant in the contest. The P players represent the
-    P players with the highest batting averages for the time in consideration.
-    Top batting averages may be calculated with respect to the season in which
-    the simulation is being run, prior seasons, or player careers. 
-        -> NOTE: currently career batting ave calculations are unsupported
+    NP Strategy denotes a number N of robots and a number P of MLB players. 
 
-    
-    NOTE: DESCRIBE STRATEGY IN DETAIL HERE
+    Strategy: The Simulation initalizes N robots (accounts) and calculates the P
+    "best" players ordered by highest seasonal or career batting average. Each
+    day, it checks which of the P players are playing in a game and then assigns
+    the active ones to the bots in order from highest batting average to lowest, 
+    repeating the list of P players as many times as needed to assign a player
+    to every bot. 
     """
     def __init__(self, simYear, batAveYear, N, P, startDate='default'):
         Simulation.__init__(self, simYear, startDate)
@@ -54,25 +52,25 @@ class NPSimulation(Simulation):
 
         Simulates the next day
         """
-        print "at start of sim"
-        # import pdb
-        # pdb.set_trace()
         # which players were active?
         activePlayers = [player for player in self.players if \
              Researcher.did_start(self.currentDate, player)]
-        print "at line 63 in sim"
         # assign players to bots
         mod_factor = len(activePlayers)
         for i, bot in enumerate(self.bots):
             player = activePlayers[i % mod_factor]
-            print "current player: "
-            print player
             bot.assign_player(player, Researcher.did_get_hit(self.currentDate, player))
-        print "at line 69 in sim"
         # update the date
         self.incr_date()
-        print "finished sim"
-
+    
+    def simulate(self, numDays=max):
+        """
+        Simulates numDays number of days in self.simYear, starting on 
+        self.startDate. Reports back the number of bots who achieved streaks
+        of greater than 57, as well as their respective streak lengths. If no
+        bot reached 57 games, reports back the 5 best streaks, including
+        player histories
+        """
         
     def __calc__players(self, year):
         """

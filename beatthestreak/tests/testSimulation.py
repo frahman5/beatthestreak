@@ -65,13 +65,17 @@ class TestSimulation(unittest.TestCase):
         ## test that min_bat_ave is calculated and initalized correctly
         self.assertEqual(self.npSim2003_2002.get_min_bat_ave(), 0.308)
 
-    # def test_calc_and_get_min_bat_ave(self): 
-    #     self.assertEqual(npSim2010_1.get_min_bat_ave(), 0.290)
-    #     self.assertEqual(npSim2010_2.get_min_bat_ave(), 0.300)
-    #     self.assertEqual(npSim2001_1.get_min_bat_ave(), 0.266)
-    #     self.assertEqual(npSim2001_2.get_min_bat_ave(), 0.319)
-    #     self.assertRaises(DifficultYearException, NPSimulation, 1981, 1981, 100, 35)
-    #     self.assertRaises(DifficultYearException, NPSimulation, 1950, 1950, 42, 7)
+    def test_calc_and_get_min_bat_ave(self): 
+        self.npSim2010_1.setup()
+        self.npSim2010_2.setup()
+        self.npSim2001_1.setup()
+        self.npSim2001_2.setup()
+        self.assertEqual(self.npSim2010_1.get_min_bat_ave(), 0.290)
+        self.assertEqual(self.npSim2010_2.get_min_bat_ave(), 0.300)
+        self.assertEqual(self.npSim2001_1.get_min_bat_ave(), 0.266)
+        self.assertEqual(self.npSim2001_2.get_min_bat_ave(), 0.319)
+        self.assertRaises(DifficultYearException, NPSimulation, 1981, 1981, 100, 35)
+        self.assertRaises(DifficultYearException, NPSimulation, 1950, 1950, 42, 7)
 
     def test_get_year(self):
         self.assertEqual(self.npSim2010_1.get_year(), 2010)
@@ -92,7 +96,6 @@ class TestSimulation(unittest.TestCase):
         self.assertEqual([bot.get_player_history() for bot in bots], [[(p14, True)]] * 40)
         self.assertEqual(self.npSim2003_2002.get_date(), date(2003, 3, 31))
         
-        print "finished checking first day in sim"
         ######## check that an arbitrary day-May 14-works
         self.npSim2003_2002.set_date(date(2003, 5, 14))
         self.npSim2003_2002.sim_next_day()
@@ -116,15 +119,3 @@ class TestSimulation(unittest.TestCase):
         self.assertEqual([bot.get_player_history() for bot in bots], 
                          botPlayerHistories)
         self.assertEqual(self.npSim2003_2002.get_date(), date(2003, 5, 15))
-
-    # def test_set_n(self):
-    #     pass
-
-    # def test_get_n(self):
-    #     pass
-
-    # def test_set_p(self):
-    #     pass
-
-    # def test_get_p(self):
-    #     pass

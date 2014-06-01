@@ -48,7 +48,7 @@ class TestResearcher(unittest.TestCase):
         self.assertTrue(R.did_start(date(2013, 5, 17), p1))
         self.assertTrue(R.did_start(date(2013, 8, 11), p2))
     
-    @skip("time consuming")
+    # @skip("time consuming")
     def test_did_get_hit(self):
     	# Edwin Jackon test
         self.assertFalse(R.did_get_hit(date(2012, 5, 2), p1))
@@ -110,11 +110,12 @@ class TestResearcher(unittest.TestCase):
         self.assertEqual(R.num_plate_appearances(2008, p5), 654) # traded from BOS to LAD
 
     def test_name_from_lahman_id(self):
-        self.assertEqual(R.name_from_lahman_id("jacksed01"), "Edwin Jackson")
-        self.assertEqual(R.name_from_lahman_id("reyesjo01"), "Jose Reyes")
-        self.assertEqual(R.name_from_lahman_id("soriaal01"), "Alfonso Soriano")
-        self.assertEqual(R.name_from_lahman_id("posadjo01"), "Jorge Posada")
-        self.assertEqual(R.name_from_lahman_id("ramirma02"), "Manuel Ramirez")
+        self.assertEqual(R.name_from_lahman_id("jacksed01"), ("Edwin", "Jackson"))
+        self.assertEqual(R.name_from_lahman_id("reyesjo01"), ("Jose",  "Reyes"))
+        self.assertEqual(R.name_from_lahman_id("soriaal01"), ("Alfonso", "Soriano"))
+        self.assertEqual(R.name_from_lahman_id("posadjo01"), ("Jorge", "Posada"))
+        self.assertEqual(R.name_from_lahman_id("ramirma02"), ("Manny", "Ramirez"))
+        self.assertEqual(R.name_from_lahman_id("loducpa01"), ("Paul", "Lo Duca"))
 
     def test_get_opening_day(self):
         self.assertEqual(R.get_opening_day(2010), date(2010,4,4))

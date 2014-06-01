@@ -21,14 +21,12 @@ class Researcher(object):
         Produces a list of retrosheet ids corresponding to players starting, 
         umps officiating, and managers managing on the given day
         """
-        year = date.year
         dateRFormat = Utilities.convert_date(date) # date in yyyymmdd format
-        gamelogPath = Data.get_retrosheet_unzipped_folder_path() + \
-                            "/gamelog" + str(year) + "/GL" + str(year) + ".TXT"
+        gamelogPath = Data.get_unzipped_gamelog_path(date.year)
 
         # Make sure the gamelog is on the drive
         if not os.path.isfile(gamelogPath): 
-            rsheet = Retrosheet(year)
+            rsheet = Retrosheet(date.year)
             rsheet.download_and_unzip(type='gamelog')
             
         #extract all the games on the given date
@@ -88,8 +86,6 @@ class Researcher(object):
             on the given date, returns True if and only if the player got a hit
             in the first game
         """
-        print player.get_name()
-        # os.chdir(Data.get_event_files_path(date.year))
         team = self.find_home_team(date, player) # need home team's box score
         boxscore = Data.get_boxscore_file_path(date.year, team)
         lastName = player.get_last_name()
@@ -101,19 +97,15 @@ class Researcher(object):
             r.gen_boxscores()
         
         with open(boxscore, "r") as file: 
-            print "Researher.did_get_hit: line 103"
             line = ""
 
             # find this date's game's boxscore
             search = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
             while search not in line: line = file.readline()
-            print "Researher.did_get_hit: line 109"
 
             # find this player's line in the boxscore
             search = lastName + " " + firstName[0]
             while search not in line: line = file.readline()
-
-            print "Researher.did_get_hit: line 113"
 
             #find the index of this player's last name in the line
             info = line.split()
@@ -169,17 +161,15 @@ class Researcher(object):
     @classmethod
     def name_from_lahman_id(self, lahmanID):
         """
-        string -> string
+        string -> (string, string)
         lahmanID: the lahman ID of a MLB player
 
-        Produces the first and last name of the player with id lahmanID
+        Returns (firstName, lastName) for MLB player with id lahmanID
         """
         df = pd.read_csv(Data.get_lahman_path("master"), 
                             usecols=['playerID', 'nameLast', 'nameFirst'])
         df = df[df.playerID == lahmanID]
-        lastName = df.nameLast.item()
-        firstName = df.nameFirst.item()
-        return firstName + " " + lastName
+        return df.nameFirst.item(), df.nameLast.item()
 
     @classmethod
     def get_opening_day(self, year):
@@ -198,3 +188,7 @@ class Researcher(object):
         month = int(date_string[5:7])
         day = int(date_string[7:9])
         return date(year, month, day)
+
+    @classmethod
+    def get_closing_day(self,year):
+        pass

@@ -105,8 +105,7 @@ class Player(PlayerL):
         """
         self.index = index
         self.lId = playerL.get_lahman_id()
-        name = Researcher.name_from_lahman_id(self.lId)
-        self.first_name, self.last_name = name.split()
+        self.first_name, self.last_name = Researcher.name_from_lahman_id(self.lId)
         self.rId = self.__set_retrosheet_id(source='lahmanID')
         self.bat_ave = playerL.get_bat_ave()
 

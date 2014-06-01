@@ -1,3 +1,8 @@
+import os
+import shutil
+
+from data import Data
+
 class Utilities(object):
     """
     A container class for commonly used generic
@@ -20,7 +25,7 @@ class Utilities(object):
         deletes all zipped and unzipped event and gamelog (retrosheet) files
         """
         # Clean out zipped file folder afterwards
-        zippedFileFolder = Data.rootDir + Data.defaultDestZippedSuffix
+        zippedFileFolder = Data.get_retrosheet_zipped_folder_path()
         os.chdir(zippedFileFolder)
         for file in os.listdir(os.getcwd()): 
           if os.path.isdir(file): 
@@ -29,7 +34,7 @@ class Utilities(object):
             os.remove(file) 
 
         # Clean out unzipped file folder as well
-        unzippedFileFolder = Data.rootDir + Data.defaultDestUnzippedSuffix
+        unzippedFileFolder = Data.get_retrosheet_unzipped_folder_path()
         os.chdir(unzippedFileFolder)
         for file in os.listdir(os.getcwd()): 
           if os.path.isdir(file): 
