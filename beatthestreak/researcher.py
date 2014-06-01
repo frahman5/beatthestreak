@@ -52,10 +52,7 @@ class Researcher(object):
         year = date.year
         date = Utilities.convert_date(date)
         
-        # Make sure the gamelog is on the drive
-        if not os.path.isfile(Data.get_unzipped_gamelog_path(year)):
-            r = Retrosheet(year)
-            r.download_and_unzip(type='gamelog')
+        Utilities.ensure_gamelog_files_exist(year)
 
         with open(Data.get_unzipped_gamelog_path(year), "r") as f:
             list_of_games = [line.replace('"', '').split(',')
@@ -102,23 +99,22 @@ class Researcher(object):
             # find this date's game's boxscore
             search = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
             while search not in line: line = file.readline()
-
+            
             # find this player's line in the boxscore
             search = lastName + " " + firstName[0]
             while search not in line: line = file.readline()
-
+            
             #find the index of this player's last name in the line
             info = line.split()
             index = info.index(lastName)
             if info[index + 1] != firstName[0] + ",":
                 print "We had two lined up players with same last name!" 
+                print "player: %s" % player
                 print "Here's the line: %s" % (str(line))
                 index = info[index + 1:].index(lastName)
 
             # Player's hit count is 5 off his last name. 
-            return int(info[index+5]) > 0
-
-        #Make it work for a player who got traded. Test MUCH more robustly. 
+            return int(info[index+5]) > 0 
 
     @classmethod
     def num_at_bats(self, year, player):
@@ -178,10 +174,8 @@ class Researcher(object):
 
         Produces the date of opening day in year year
         """
-        # check to make sure the gamelog is there
-        if not os.path.isfile(Data.get_unzipped_gamelog_path(year)):
-            R = Retrosheet(year)
-            R.download_and_unzip(type='gamelog')
+        Utilities.ensure_gamelog_files_exist(year)
+
         with open(Data.get_unzipped_gamelog_path(year), "r") as f:
             date_string = f.readline().split(',')[0]
         year = int(date_string[1:5])
@@ -190,5 +184,18 @@ class Researcher(object):
         return date(year, month, day)
 
     @classmethod
-    def get_closing_day(self,year):
-        pass
+    def get_closing_day(self, year):
+       """
+       int -> date
+
+       Produces the date of closing day (of regular season) in year year
+       """
+       Utilities.ensure_gamelog_files_exist(year)
+ 
+       # get last element in first--date--column of gamelog file
+       df = pd.read_csv(Data.get_unzipped_gamelog_path(year), header=None)
+       date_string = str(df[0].ravel()[-1])
+       year = int(date_string[0:4])
+       month = int(date_string[4:6])
+       day = int(date_string[6:8])
+       return date(year, month, day)

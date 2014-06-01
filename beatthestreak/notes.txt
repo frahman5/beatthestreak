@@ -22,3 +22,5 @@ Notes:
     - in retrosheet, take out all the file path handling functions and data
     that are native to retrosheet and put in the equivalent ones from Data
     -make each test in testSimulation be independent of each other
+    -fold all the get_file_path functions into 2-3 smaller ones with
+    different options

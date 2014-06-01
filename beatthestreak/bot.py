@@ -9,31 +9,34 @@ class Bot(object):
         index: int[>=0] | bot number
         streak_length: int[>=0] | length of bot's  active streak
         player: Player | player that bot bets on for a given day
-        player_history: List | list of all the players this bot has bet on
-                               in a simulation in order from least recent
-                               to most recent day
+        history: ListOfTuples
+            Tuples = (Player, True|False, DateAssigned, StreakLength)
     """
     def __init__(self, index):
         self.index = index
         self.streak_length = 0
         self.player = None
-        self.player_history = []
+        self.history = []
+        self.max_streak_length = 0
         
-    def assign_player(self, player, didGetHit):
+    def assign_player(self, player, didGetHit, date):
         """
-        Player Bool -> None
+        Player Bool date -> None
         player: Player | the next player this bot will bet on 
         didGetHit: bool | true if player got hit on date of assignment, false otherwise
-        
+        date: date of assignment
+
         Assigns a player to this bot for a given day.
-        Updates player_history accordingly
+        Updates history accordingly
         """
         self.player = player
-        self.player_history.append((player, didGetHit))
         if didGetHit:
             self.incr_streak_length()
         else:
+            if self.streak_length > self.max_streak_length:
+                self.max_streak_length = self.streak_length
             self.reset_streak()
+        self.history.append((player, didGetHit, date, self.streak_length))
         
     def incr_streak_length(self, amount=1):
         """
@@ -49,12 +52,15 @@ class Bot(object):
     def get_player(self):
         return self.player
     
-    def get_player_history(self):
-        return self.player_history
+    def get_history(self):
+        return self.history
     
     def get_streak_length(self):
         return self.streak_length 
 
     def reset_streak(self):
         self.streak_length = 0
+
+    def get_max_streak_length(self):
+        return self.max_streak_length
     

@@ -1,0 +1,3464 @@
+     Game of 4/5/2013 -- Anaheim at Texas (D)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Trout M, lf           4  0  1  1   Kinsler I, 2b         5  0  2  1   
+Aybar E, ss           4  0  0  0   Andrus E, ss          4  0  0  0   
+Pujols A, 1b          3  0  0  0   Berkman L, dh         4  0  1  0   
+Hamilton J, rf        4  0  0  0   Beltre A, 3b          4  1  2  1   
+Trumbo M, dh          3  0  0  0   Cruz N, rf            4  1  3  0   
+Romine A, pr          0  0  0  0   Murphy D, lf          4  0  0  0   
+Kendrick H, 2b        4  0  2  0   Pierzynski A, c       4  0  3  1   
+Callaspo A, 3b        3  0  1  0   Gentry C, cf          3  1  1  0   
+Iannetta C, c         3  2  2  1   Moreland M, 1b        2  0  0  0   
+Bourjos P, cf         3  0  0  0   Baker J, ph-1b        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        35  3 12  3
+
+Anaheim          001 010 000 --  2
+Texas            010 000 11x --  3
+
+  Anaheim              IP  H  R ER BB SO
+Vargas J              5.2  8  1  1  2  4
+Jepsen K              0.1  0  0  0  0  0
+Richards G            1.0  2  1  1  0  1
+Downs S (L)           1.0  2  1  1  0  1
+
+  Texas                IP  H  R ER BB SO
+Holland D             7.0  6  2  2  1  5
+Scheppers T (W)       1.0  0  0  0  0  1
+Nathan J (S)          1.0  0  0  0  1  0
+
+DP -- Texas 1
+LOB -- Anaheim 4, Texas 11
+2B -- Cruz N, Trout M, Berkman L
+3B -- Pierzynski A
+HR -- Iannetta C, Beltre A
+SB -- Kendrick H, Gentry C
+CS -- Callaspo A
+SH -- Gentry C
+T -- 2:46
+A -- 48845
+     Game of 4/6/2013 -- Anaheim at Texas (D)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Trout M, lf           5  0  2  0   Kinsler I, 2b         4  1  1  1   
+Aybar E, ss           4  1  1  1   Andrus E, ss          4  1  1  0   
+Pujols A, dh          2  2  2  3   Berkman L, dh         3  0  1  0   
+Hamilton J, rf        4  1  0  0   Garcia L, ph          1  0  0  0   
+Trumbo M, 1b          5  2  2  2   Beltre A, 3b          4  0  1  0   
+Kendrick H, 2b        4  0  0  0   Murphy D, lf          4  0  1  1   
+Callaspo A, 3b        3  0  2  0   Cruz N, rf            4  1  1  1   
+Iannetta C, c         4  1  1  1   Pierzynski A, c       4  0  1  0   
+Bourjos P, cf         4  1  2  1   Moreland M, 1b        4  1  1  1   
+                                   Martin L, cf          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  8 12  8                        36  4  9  4
+
+Anaheim          410 002 100 --  8
+Texas            002 001 001 --  4
+
+  Anaheim              IP  H  R ER BB SO
+Hanson T (W)          6.0  6  3  3  0  4
+Burnett S             1.0  1  0  0  0  2
+Jepsen K              1.0  1  0  0  0  1
+Frieri E              1.0  1  1  1  0  2
+
+  Texas                IP  H  R ER BB SO
+Harrison M (L)        5.0  8  5  5  4  3
+Frasor J              0.2  2  2  2  0  0
+Ortiz J               2.0  2  1  0  1  1
+Ross R                1.1  0  0  0  1  0
+
+E -- Beltre A
+DP -- Texas 1
+LOB -- Anaheim 9, Texas 5
+2B -- Aybar E, Berkman L, Callaspo A, Trumbo M, Beltre A
+3B -- Murphy D
+HR -- Pujols A 2, Trumbo M, Moreland M, Kinsler I, Bourjos P, Cruz N
+SB -- Andrus E
+SH -- Callaspo A
+SF -- Aybar E, Iannetta C
+WP -- Hanson T 2
+T -- 3:00
+A -- 47201
+     Game of 4/7/2013 -- Anaheim at Texas (N)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Trout M, lf           4  1  0  0   Kinsler I, 2b         3  2  3  4   
+Aybar E, ss           4  1  1  0   Andrus E, ss          3  0  0  0   
+Pujols A, dh          3  0  1  0   Berkman L, dh         3  1  1  2   
+Hamilton J, rf        5  1  3  0   Beltre A, 3b          4  0  0  0   
+Trumbo M, 1b          4  0  2  2   Murphy D, lf          3  1  1  1   
+Kendrick H, 2b        4  0  0  0   Cruz N, rf            4  0  1  0   
+Callaspo A, 3b        4  0  2  0   Moreland M, 1b        4  1  1  0   
+Iannetta C, c         4  0  0  0   Soto G, c             3  1  1  0   
+Bourjos P, cf         3  0  1  0   Martin L, cf          3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3 10  2                        30  7  8  7
+
+Anaheim          200 010 000 --  3
+Texas            300 103 00x --  7
+
+  Anaheim              IP  H  R ER BB SO
+Weaver J (L)*         5.0  7  5  5  4  2
+Lowe M                0.1  1  2  2  1  0
+Richards G            0.2  0  0  0  0  1
+Williams J            2.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (W)         5.0  6  3  3  4  6
+Ross R                1.0  2  0  0  0  1
+Scheppers T           2.0  1  0  0  0  2
+Nathan J              1.0  1  0  0  0  1
+  * Pitched to 1 batter in 6th
+
+DP -- Anaheim 1, Texas 2
+LOB -- Anaheim 10, Texas 5
+2B -- Hamilton J, Soto G, Trumbo M
+HR -- Berkman L, Murphy D, Kinsler I
+SH -- Soto G
+HBP -- by Darvish Y (Aybar E)
+WP -- Lowe M
+PB -- Iannetta C
+T -- 3:01
+A -- 42034
+     Game of 4/8/2013 -- Tampa Bay at Texas (N)
+
+  Tampa Bay          AB  R  H RBI    Texas              AB  R  H RBI
+Jennings D, cf        4  1  0  0   Kinsler I, 2b         3  0  0  0   
+Fuld S, lf            3  0  0  0   Andrus E, ss          4  0  2  2   
+Rodriguez S, ph-lf    2  0  1  1   Berkman L, dh         1  1  0  0   
+Zobrist B, 2b-rf      4  1  1  0   Beltre A, 3b          4  0  1  1   
+Longoria E, 3b        3  1  3  0   Murphy D, lf          4  0  0  0   
+Joyce M, rf           3  0  1  0   Cruz N, rf            4  0  0  0   
+Duncan S, ph-1b       0  0  0  1   Pierzynski A, c       4  2  2  1   
+Escobar Y, ss         4  0  0  1   Moreland M, 1b        3  1  3  1   
+Loney J, 1b           2  0  0  0   Gentry C, cf          3  1  0  0   
+Roberts R, ph-1b-2b   2  0  0  0                                      
+Molina J, c           4  1  1  0                                      
+Johnson K, dh         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  7  3                        30  5  8  5
+
+Tampa Bay        010 000 021 --  4
+Texas            100 200 20x --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Hellickson J (L)      5.0  5  3  3  3  1
+Gomes B               1.0  0  0  0  0  0
+Ramos C*              0.0  2  2  2  0  0
+Farnsworth K          1.0  1  0  0  1  0
+Wright J              1.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Ogando A (W)          5.1  3  1  1  3  2
+Ortiz J               1.2  0  0  0  0  1
+Kirkman M             0.1  2  2  2  1  0
+Lowe D                0.2  0  0  0  1  1
+Nathan J (S)          1.0  2  1  1  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Kinsler I, Zobrist B
+DP -- Tampa Bay 2
+LOB -- Tampa Bay 8, Texas 5
+2B -- Beltre A
+HR -- Pierzynski A, Moreland M
+SB -- Gentry C, Molina J
+CS -- Kinsler I
+T -- 3:15
+A -- 27355
+     Game of 4/9/2013 -- Tampa Bay at Texas (N)
+
+  Tampa Bay          AB  R  H RBI    Texas              AB  R  H RBI
+Jennings D, cf        4  1  2  0   Kinsler I, 2b         4  1  2  0   
+Joyce M, rf           3  0  0  0   Andrus E, ss          4  1  1  2   
+Rodriguez S, ph-rf    1  0  0  0   Berkman L, dh         4  0  3  2   
+Zobrist B, 2b         4  0  0  1   Gentry C, pr          0  1  0  0   
+Longoria E, 3b        3  0  0  0   Beltre A, 3b          3  0  0  1   
+Loney J, 1b           4  0  1  0   Murphy D, lf          4  0  0  0   
+Duncan S, dh          4  0  0  0   Cruz N, rf            3  0  1  0   
+Escobar Y, ss         2  0  0  0   Pierzynski A, c       4  0  0  0   
+Molina J, c           2  0  0  0   Moreland M, 1b        4  0  1  0   
+Johnson K, lf         3  0  1  0   Martin L, cf          3  3  2  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        33  6 10  5
+
+Tampa Bay        001 000 000 --  1
+Texas            002 020 20x --  6
+
+  Tampa Bay            IP  H  R ER BB SO
+Hernandez R (L)       6.2  8  6  5  2  4
+McGee J               0.1  1  0  0  0  0
+Gomes B               1.0  1  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Tepesch N (W)         7.1  4  1  1  3  5
+Ross R                0.2  0  0  0  0  0
+Frasor J              1.0  0  0  0  0  0
+
+E -- Loney J
+DP -- Texas 1
+LOB -- Tampa Bay 5, Texas 8
+2B -- Jennings D 2, Berkman L
+SB -- Andrus E
+SH -- Andrus E
+HBP -- by Hernandez R (Kinsler I), by Hernandez R (Cruz N)
+WP -- Hernandez R
+T -- 2:44
+A -- 31398
+     Game of 4/10/2013 -- Tampa Bay at Texas (D)
+
+  Tampa Bay          AB  R  H RBI    Texas              AB  R  H RBI
+Jennings D, cf        4  1  1  0   Kinsler I, 2b         4  0  0  0   
+Rodriguez S, lf       3  0  0  0   Andrus E, ss          2  0  0  0   
+Fuld S, lf            0  0  0  0   Beltre A, 3b          3  0  1  0   
+Longoria E, dh        2  0  0  1   Cruz N, dh            3  0  0  0   
+Zobrist B, rf         4  0  2  1   Murphy D, lf          4  0  2  0   
+Duncan S, 1b          4  0  1  0   Baker J, rf           1  0  0  0   
+Loney J, 1b           0  0  0  0   Martin L, ph-rf       1  0  0  0   
+Escobar Y, ss         3  0  0  0   Moreland M, 1b        4  0  1  0   
+Roberts R, 3b         4  0  1  0   Soto G, c             3  0  0  0   
+Lobaton J, c          4  0  0  0   Pierzynski A, ph      1  0  0  0   
+Molina J, c           0  0  0  0   Gentry C, cf          3  0  1  0   
+Johnson K, 2b         3  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        29  0  5  0
+
+Tampa Bay        001 010 000 --  2
+Texas            000 000 000 --  0
+
+  Tampa Bay            IP  H  R ER BB SO
+Moore M (W)           5.1  1  0  0  6  5
+Ramos C               0.2  1  0  0  1  0
+McGee J               1.0  0  0  0  1  1
+Peralta J             1.0  2  0  0  0  0
+Rodney F (S)          1.0  1  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Holland D (L)         8.0  5  2  2  3  4
+Scheppers T           1.0  1  0  0  0  0
+
+E -- Beltre A
+DP -- Tampa Bay 3
+LOB -- Tampa Bay 7, Texas 10
+2B -- Zobrist B, Jennings D, Murphy D
+SB -- Gentry C
+CS -- Johnson K
+SH -- Escobar Y
+SF -- Longoria E
+WP -- Moore M 2
+T -- 2:51
+A -- 26643
+     Game of 4/19/2013 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Chavez E, cf          4  0  0  0   Kinsler I, 2b         5  0  1  1   
+Seager K, 3b          4  0  1  0   Andrus E, ss          5  0  0  0   
+Morales K, 1b         3  0  1  0   Berkman L, dh         3  1  1  0   
+Morse M, rf           3  0  0  0   Beltre A, 3b          3  1  1  0   
+Smoak J, dh           3  0  1  0   Cruz N, rf            4  1  1  0   
+Ibanez R, lf          3  0  0  0   Pierzynski A, c       4  1  1  2   
+Bay J, ph             1  0  1  0   Baker J, 1b           3  2  1  1   
+Shoppach K, c         3  0  0  0   Moreland M, 1b        0  0  0  0   
+Ackley D, 2b          3  0  0  0   Murphy D, lf          4  0  2  1   
+Ryan B, ph            1  0  0  0   Gentry C, cf          4  1  2  2   
+Andino R, ss          3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  5  0                        35  7 10  7
+
+Seattle          000 000 000 --  0
+Texas            010 060 00x --  7
+
+  Seattle              IP  H  R ER BB SO
+Saunders J (L)        4.2  9  7  7  3  0
+Noesi H               3.1  1  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (W)         7.0  3  0  0  3 10
+Ross R                1.0  1  0  0  0  3
+Kirkman M             1.0  1  0  0  0  0
+
+E -- Andino R, Kinsler I
+DP -- Texas 2
+LOB -- Seattle 8, Texas 7
+2B -- Murphy D, Seager K, Gentry C, Kinsler I
+3B -- Gentry C
+HR -- Baker J
+HBP -- by Ross R (Morales K)
+T -- 2:44
+A -- 36273
+     Game of 4/20/2013 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Gutierrez F, cf       4  0  1  0   Kinsler I, 2b         2  1  0  0   
+Seager K, 3b          3  0  2  0   Andrus E, ss          4  0  0  0   
+Morales K, dh         2  0  0  0   Berkman L, dh         3  0  1  2   
+Morse M, rf           4  0  0  0   Garcia L, pr          0  1  0  0   
+Smoak J, 1b           4  0  0  0   Beltre A, 3b          4  0  0  0   
+Ibanez R, lf          2  0  0  0   Pierzynski A, c       4  1  2  2   
+Bay J, ph-lf          1  0  0  0   Cruz N, rf            4  0  0  0   
+Montero J, c          3  0  1  0   Murphy D, lf          3  1  1  1   
+Ackley D, 2b          4  0  1  0   Moreland M, 1b        2  0  0  0   
+Ryan B, ss            3  0  0  0   Martin L, cf          3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        29  5  5  5
+
+Seattle          000 000 000 --  0
+Texas            000 100 13x --  5
+
+  Seattle              IP  H  R ER BB SO
+Maurer B (L)          6.2  2  2  2  3  2
+Furbush C*            0.1  1  1  1  0  0
+Medina Y              1.0  2  2  2  1  2
+
+  Texas                IP  H  R ER BB SO
+Tepesch N             1.2  2  0  0  0  3
+Lowe D (W)            4.0  0  0  0  0  1
+Ortiz J               1.0  1  0  0  1  1
+Scheppers T           1.1  2  0  0  2  1
+Frasor J              1.0  0  0  0  1  2
+  * Pitched to 1 batter in 8th
+
+DP -- Texas 2
+LOB -- Seattle 8, Texas 4
+HR -- Pierzynski A, Murphy D
+SB -- Kinsler I
+HBP -- by Lowe D (Morales K)
+WP -- Medina Y
+PB -- Montero J
+T -- 2:32
+A -- 43025
+     Game of 4/21/2013 -- Seattle at Texas (D)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Chavez E, cf          5  1  1  1   Kinsler I, 2b         4  1  2  1   
+Seager K, 3b          4  1  3  2   Andrus E, ss          4  1  1  0   
+Morales K, dh         5  0  0  0   Garcia L, ss          1  0  0  0   
+Morse M, rf           4  0  1  0   Berkman L, dh         3  2  1  0   
+Smoak J, 1b           4  0  0  0   Beltre A, 3b          4  1  1  2   
+Shoppach K, c         3  0  1  0   Baker J, 3b           1  0  1  1   
+Ackley D, 2b          3  0  1  0   Murphy D, lf          4  1  0  0   
+Bay J, lf             3  0  0  0   Cruz N, rf            4  2  2  4   
+Ryan B, ss            4  1  1  0   Moreland M, 1b        4  1  1  2   
+                                   Soto G, c             3  0  0  0   
+                                   Martin L, cf          4  2  2  1   
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        36 11 11 11
+
+Seattle          100 010 001 --  3
+Texas            001 252 01x -- 11
+
+  Seattle              IP  H  R ER BB SO
+Harang A (L)          4.2  8  8  8  2  5
+Beavan B              3.1  3  3  3  2  1
+
+  Texas                IP  H  R ER BB SO
+Grimm J (W)           6.0  6  2  1  1  9
+Kirkman M (S)         3.0  2  1  1  2  2
+
+E -- Kinsler I, Ryan B
+LOB -- Seattle 9, Texas 6
+2B -- Seager K, Shoppach K, Chavez E, Morse M
+3B -- Martin L
+HR -- Martin L, Moreland M, Cruz N, Beltre A, Seager K
+SH -- Ackley D
+HBP -- by Harang A (Kinsler I)
+WP -- Harang A
+T -- 3:07
+A -- 44599
+     Game of 4/30/2013 -- Chicago at Texas (N)
+
+  Chicago            AB  R  H RBI    Texas              AB  R  H RBI
+de Aza A, lf          3  0  0  0   Kinsler I, 2b         5  2  2  2   
+Wells C, lf           1  0  0  0   Andrus E, ss          5  1  2  1   
+Greene T, 2b          5  1  1  0   Berkman L, dh         3  1  1  0   
+Rios A, rf            5  1  1  1   Beltre A, 3b          4  1  1  2   
+Dunn A, 1b            4  1  1  1   Cruz N, rf            4  1  1  1   
+Konerko P, dh         5  0  1  1   Baker J, lf           4  1  2  1   
+Gillaspie C, 3b       3  0  1  0   Murphy D, lf          0  0  0  0   
+Ramirez A, ss         4  1  1  0   Soto G, c             3  1  0  0   
+Gimenez H, c          3  1  0  0   Moreland M, 1b        3  1  3  1   
+Wise D, cf            4  1  4  2   Gentry C, cf          2  1  0  0   
+                                   Martin L, ph-cf       2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 10  5                        35 10 12  8
+
+Chicago          200 002 110 --  6
+Texas            000 226 00x -- 10
+
+  Chicago              IP  H  R ER BB SO
+Quintana J            5.0  8  4  4  1  2
+Lindstrom M (L)       0.1  0  1  1  1  0
+Veal D*               0.0  1  1  1  0  0
+Jones N               0.2  3  4  4  1  1
+Heath D               2.0  0  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (W)         6.0  7  4  4  3  9
+Scheppers T           1.0  1  1  1  0  1
+Kirkman M             1.0  2  1  1  0  2
+Ross R                1.0  0  0  0  0  1
+  * Pitched to 1 batter in 6th
+
+E -- Greene T, de Aza A
+DP -- Chicago 1
+LOB -- Chicago 8, Texas 5
+2B -- Gillaspie C, Kinsler I, Moreland M, Wise D
+3B -- Greene T
+HR -- Cruz N, Baker J, Wise D, Beltre A, Dunn A
+SB -- Rios A
+HBP -- by Ross R (Dunn A)
+WP -- Jones N 2, Kirkman M
+T -- 3:16
+A -- 40646
+     Game of 5/1/2013 -- Chicago at Texas (N)
+
+  Chicago            AB  R  H RBI    Texas              AB  R  H RBI
+de Aza A, lf          4  2  2  2   Kinsler I, 2b         5  0  3  1   
+Keppinger J, 2b       4  0  0  0   Andrus E, ss          5  0  1  0   
+Rios A, rf            4  0  1  1   Berkman L, dh         4  0  2  0   
+Dunn A, dh            4  0  0  0   Beltre A, 3b          4  0  0  0   
+Konerko P, 1b         3  1  1  0   Cruz N, rf            3  0  0  0   
+Gillaspie C, 3b       4  1  2  1   Baker J, lf           3  1  1  1   
+Ramirez A, ss         3  0  1  0   Murphy D, lf          1  0  0  0   
+Flowers T, c          4  1  1  0   Moreland M, 1b        3  1  0  0   
+Wise D, cf            3  0  0  0   Soto G, c             3  0  1  0   
+                                   Martin L, ph          1  0  0  0   
+                                   Gentry C, cf          3  0  1  0   
+                                   Pierzynski A, ph      0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  8  4                        35  2  9  2
+
+Chicago          110 000 300 --  5
+Texas            020 000 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Sale C (W)            7.0  6  2  2  2  7
+Crain J               0.2  2  0  0  0  1
+Thornton M            0.1  0  0  0  0  0
+Reed A (S)            1.0  1  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Tepesch N (L)         6.2  8  5  5  2  4
+Frasor J              1.1  0  0  0  0  2
+Ortiz J               1.0  0  0  0  0  0
+
+DP -- Chicago 1, Texas 1
+LOB -- Chicago 3, Texas 9
+2B -- de Aza A, Konerko P
+HR -- Baker J, Gillaspie C, de Aza A
+HBP -- by Reed A (Pierzynski A)
+WP -- Sale C
+T -- 2:56
+A -- 34677
+     Game of 5/2/2013 -- Chicago at Texas (N)
+
+  Chicago            AB  R  H RBI    Texas              AB  R  H RBI
+de Aza A, cf          4  0  2  0   Kinsler I, 2b         3  0  1  0   
+Keppinger J, 2b       5  0  1  0   Andrus E, ss          3  0  0  0   
+Rios A, rf            4  0  0  0   Berkman L, dh         2  0  0  0   
+Dunn A, 1b            3  0  1  0   Garcia L, pr          0  0  0  0   
+Konerko P, dh         4  0  0  0   Beltre A, 3b          4  1  1  1   
+Gillaspie C, 3b       4  1  1  0   Cruz N, rf            2  0  0  0   
+Ramirez A, ss         4  1  2  0   Pierzynski A, c       4  0  0  0   
+Flowers T, c          4  1  1  3   Baker J, lf           3  0  0  0   
+Wells C, lf           3  0  0  0   Murphy D, lf          0  0  0  0   
+                                   Moreland M, 1b        3  0  0  0   
+                                   Gentry C, cf          2  0  0  0   
+                                   Martin L, ph-cf       2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        28  1  3  1
+
+Chicago          000 003 000 --  3
+Texas            010 000 000 --  1
+
+  Chicago              IP  H  R ER BB SO
+Santiago H (W)        5.1  2  1  1  2  6
+Lindstrom M*          0.2  0  0  0  2  0
+Thornton M            1.0  0  0  0  0  1
+Crain J               1.0  1  0  0  1  1
+Reed A (S)            1.0  0  0  0  2  3
+
+  Texas                IP  H  R ER BB SO
+Grimm J (L)           6.2  6  3  3  4  9
+Kirkman M             0.1  0  0  0  0  1
+Scheppers T           1.0  0  0  0  0  0
+Ross R                1.0  2  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+DP -- Chicago 2
+LOB -- Chicago 9, Texas 8
+2B -- Kinsler I
+HR -- Beltre A, Flowers T
+SB -- Ramirez A, Cruz N
+HBP -- by Santiago H (Moreland M)
+WP -- Grimm J, Lindstrom M
+T -- 2:53
+A -- 31199
+     Game of 5/3/2013 -- Boston at Texas (N)
+
+  Boston             AB  R  H RBI    Texas              AB  R  H RBI
+Ellsbury J, cf        4  0  2  0   Kinsler I, 2b         5  1  3  1   
+Victorino S, rf       4  0  1  0   Andrus E, ss          5  1  2  1   
+Pedroia D, 2b         4  0  0  0   Berkman L, dh         4  1  0  0   
+Ortiz D, dh           4  0  1  0   Beltre A, 3b          5  1  4  3   
+Napoli M, 1b          4  0  0  0   Cruz N, rf            4  0  2  1   
+Gomes J, lf           2  0  1  0   Pierzynski A, c       5  0  1  0   
+Middlebrooks W, 3b    3  0  0  0   Baker J, lf           2  1  1  0   
+Saltalamacchia J, c   3  0  0  0   Murphy D, lf          3  0  0  0   
+Ciriaco P, ss         3  0  1  0   Moreland M, 1b        4  2  3  0   
+                                   Gentry C, cf          2  0  1  1   
+                                   Martin L, ph-cf       1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  6  0                        40  7 18  7
+
+Boston           000 000 000 --  0
+Texas            010 510 00x --  7
+
+  Boston               IP  H  R ER BB SO
+Doubront F (L)        3.2 12  6  6  1  2
+Wilson A              2.2  5  1  1  1  1
+Mortensen C           1.2  1  0  0  1  1
+
+  Texas                IP  H  R ER BB SO
+Holland D (W)         8.0  6  0  0  1  9
+Lowe D                1.0  0  0  0  0  0
+
+E -- Ciriaco P, Middlebrooks W
+DP -- Boston 2, Texas 2
+LOB -- Boston 5, Texas 12
+2B -- Baker J, Beltre A, Kinsler I
+T -- 3:04
+A -- 42441
+     Game of 5/4/2013 -- Boston at Texas (N)
+
+  Boston             AB  R  H RBI    Texas              AB  R  H RBI
+Ellsbury J, cf        5  0  2  0   Kinsler I, 2b         5  1  1  1   
+Victorino S, rf       3  0  0  0   Andrus E, ss          4  0  1  0   
+Pedroia D, 2b         4  0  0  0   Berkman L, dh         4  0  1  0   
+Ortiz D, dh           4  1  1  0   Beltre A, 3b          3  1  1  0   
+Napoli M, 1b          3  0  1  0   Pierzynski A, c       4  1  1  0   
+Nava D, lf            3  0  1  1   Cruz N, rf            4  0  0  0   
+Saltalamacchia J, c   4  0  1  0   Moreland M, 1b        3  1  2  0   
+Middlebrooks W, 3b    4  0  1  0   Gentry C, cf          4  1  2  3   
+Drew S, ss            3  0  0  0   Martin L, lf          3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  7  1                        34  5 10  4
+
+Boston           010 000 000 --  1
+Texas            100 200 02x --  5
+
+  Boston               IP  H  R ER BB SO
+Lackey J (L)          5.0  6  3  3  3  4
+Miller A              1.0  1  0  0  0  0
+Tazawa J              1.0  1  0  0  0  3
+Uehara K              1.0  2  2  2  0  2
+
+  Texas                IP  H  R ER BB SO
+Ogando A (W)*         6.0  6  1  1  2  4
+Ross R                0.2  1  0  0  0  0
+Scheppers T           1.1  0  0  0  0  0
+Nathan J              1.0  0  0  0  0  2
+  * Pitched to 1 batter in 7th
+
+E -- Middlebrooks W 2
+DP -- Texas 1
+LOB -- Boston 9, Texas 8
+2B -- Ortiz D, Saltalamacchia J
+HR -- Kinsler I, Gentry C
+SB -- Ellsbury J, Andrus E
+CS -- Martin L
+HBP -- by Ogando A (Nava D), by Scheppers T (Napoli M)
+WP -- Ogando A
+T -- 2:55
+A -- 47173
+     Game of 5/5/2013 -- Boston at Texas (D)
+
+  Boston             AB  R  H RBI    Texas              AB  R  H RBI
+Ellsbury J, cf        5  0  0  0   Kinsler I, 2b         4  0  1  0   
+Nava D, rf-lf         4  0  0  0   Andrus E, ss          5  1  1  0   
+Pedroia D, 2b         3  1  1  0   Berkman L, dh         3  0  1  0   
+Ortiz D, dh           3  1  1  2   Beltre A, 3b          5  1  2  1   
+Napoli M, 1b          3  0  0  0   Cruz N, rf            3  1  1  2   
+Carp M, lf            4  0  0  0   Pierzynski A, c       4  0  0  0   
+Middlebrooks W, 3b    0  0  0  0   Baker J, lf           1  0  0  0   
+Ross D, c             2  1  1  1   Murphy D, pr-lf       1  0  1  0   
+Victorino S, pr-rf    0  0  0  0   Moreland M, 1b        4  1  1  1   
+Drew S, ss            4  0  1  0   Gentry C, cf          3  0  1  0   
+Ciriaco P, 3b         3  0  1  0   Martin L, ph          1  0  0  0   
+Saltalamacchia, ph-c  1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  5  3                        34  4  9  4
+
+Boston           210 000 000 --  3
+Texas            001 002 001 --  4
+  2 outs when winning run was scored.
+
+  Boston               IP  H  R ER BB SO
+Lester J              6.0  5  3  3  3  7
+Uehara K              1.0  1  0  0  1  1
+Tazawa J              0.1  0  0  0  0  0
+Miller A              0.2  1  0  0  0  2
+Mortensen C (L)       0.2  2  1  1  1  2
+
+  Texas                IP  H  R ER BB SO
+Darvish Y             7.0  4  3  3  2 14
+Kirkman M             0.2  0  0  0  2  1
+Frasor J              0.1  0  0  0  0  0
+Nathan J (W)          1.0  1  0  0  1  1
+
+LOB -- Boston 7, Texas 10
+2B -- Berkman L
+HR -- Ortiz D, Ross D, Moreland M, Cruz N
+SB -- Ciriaco P, Ross D, Gentry C, Pedroia D
+SH -- Kinsler I
+WP -- Mortensen C
+T -- 3:35
+A -- 46228
+     Game of 5/16/2013 -- Detroit at Texas (N)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Dirks A, lf           4  1  1  0   Kinsler I, 2b         4  2  1  0   
+Hunter T, rf          3  0  0  1   Andrus E, ss          3  1  1  1   
+Cabrera M, 3b         4  0  1  0   Berkman L, dh         3  0  0  1   
+Fielder P, 1b         3  0  1  0   Beltre A, 3b          3  2  0  1   
+Martinez V, dh        3  0  0  1   Cruz N, rf            4  1  1  1   
+Avila A, c            3  0  1  0   Moreland M, 1b        4  1  2  3   
+Peralta J, ss         4  1  1  1   Soto G, c             4  1  1  3   
+Kelly D, cf           4  1  1  1   Murphy D, lf          4  1  2  0   
+Infante O, 2b         4  1  1  0   Martin L, cf          4  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  7  4                        33 10 10 10
+
+Detroit          003 100 000 --  4
+Texas            107 010 10x -- 10
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (L)       2.2  6  8  8  2  3
+Downs D               2.2  2  1  1  1  3
+Reed E                2.2  2  1  1  0  1
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (W)         8.0  7  4  4  1  6
+Burns C               1.0  0  0  0  1  0
+
+E -- Fielder P
+DP -- Detroit 1
+LOB -- Detroit 5, Texas 3
+2B -- Cabrera M, Moreland M 2
+HR -- Kelly D, Soto G, Peralta J, Cruz N
+SB -- Martin L 2
+CS -- Martin L
+SF -- Hunter T, Martinez V
+HBP -- by Verlander J (Kinsler I)
+WP -- Darvish Y, Downs D
+T -- 3:18
+A -- 39778
+     Game of 5/17/2013 -- Detroit at Texas (N)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Dirks A, lf           5  1  2  0   Andrus E, ss          4  0  0  0   
+Garcia A, cf          0  0  0  0   Garcia L, 2b          4  0  1  0   
+Hunter T, rf          5  0  0  0   Berkman L, dh         4  0  2  0   
+Cabrera M, 3b         4  1  3  1   Beltre A, 3b          3  0  2  0   
+Fielder P, 1b         3  0  0  0   Cruz N, rf            4  0  1  0   
+Martinez V, dh        3  0  1  0   Moreland M, 1b        4  0  0  0   
+Avila A, c            2  0  0  1   Soto G, c             3  1  1  1   
+Peralta J, ss         3  0  0  0   Kinsler I, pr         0  0  0  0   
+Kelly D, cf-lf        4  0  0  0   Murphy D, lf          2  0  0  0   
+Santiago R, 2b        3  0  0  0   Baker J, ph-lf        2  0  0  0   
+Infante O, pr-2b      0  0  0  0   Martin L, cf          2  0  1  0   
+                                   Gentry C, ph-cf       2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        34  1  8  1
+
+Detroit          000 020 000 --  2
+Texas            000 010 000 --  1
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (W)        5.2  5  1  1  1  6
+Ortega J              0.2  1  0  0  0  1
+Smyly D               0.2  0  0  0  0  1
+Benoit J              1.0  2  0  0  0  0
+Valverde J (S)        1.0  0  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Tepesch N (L)         5.0  6  2  2  3  1
+Ortiz J               1.0  0  0  0  0  0
+Frasor J              0.1  0  0  0  1  0
+Ross R                2.0  0  0  0  1  1
+Burns C               0.2  0  0  0  0  1
+
+E -- Garcia L, Cabrera M
+DP -- Detroit 2
+LOB -- Detroit 10, Texas 8
+2B -- Cabrera M
+3B -- Martin L
+HR -- Soto G
+SF -- Avila A
+HBP -- by Tepesch N (Fielder P)
+Balk -- Porcello R
+T -- 3:11
+A -- 42778
+     Game of 5/18/2013 -- Detroit at Texas (N)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Dirks A, lf           4  0  0  0   Andrus E, ss          5  3  5  2   
+Hunter T, rf          4  1  2  1   Murphy D, lf          4  1  0  1   
+Cabrera M, 3b         4  0  1  0   Berkman L, dh         4  0  2  2   
+Fielder P, 1b         4  0  1  1   Beltre A, 3b          5  0  2  0   
+Martinez V, dh        3  0  1  0   Cruz N, rf            3  0  0  0   
+Avila A, c            4  0  0  0   Moreland M, 1b        3  1  1  1   
+Peralta J, ss         4  0  1  0   Chirinos R, c         4  1  1  0   
+Infante O, 2b         3  0  0  0   Martin L, cf          2  1  1  0   
+Garcia A, cf          3  1  1  0   Gentry C, ph-cf       1  0  1  0   
+                                   Garcia L, 2b          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        35  7 13  6
+
+Detroit          002 000 000 --  2
+Texas            132 001 00x --  7
+
+  Detroit              IP  H  R ER BB SO
+Sanchez A (L)         2.2  9  6  5  2  2
+Smyly D               3.1  2  1  1  1  2
+Coke P                2.0  2  0  0  1  2
+
+  Texas                IP  H  R ER BB SO
+Grimm J (W)           6.2  7  2  2  1  2
+Kirkman M             0.1  0  0  0  0  0
+Scheppers T           1.0  0  0  0  0  0
+Nathan J              1.0  0  0  0  0  0
+
+E -- Avila A, Sanchez A
+DP -- Detroit 2, Texas 1
+LOB -- Detroit 5, Texas 9
+2B -- Hunter T, Martinez V, Andrus E, Berkman L
+3B -- Andrus E
+HR -- Moreland M
+SB -- Andrus E 2, Martin L
+SH -- Martin L
+WP -- Smyly D
+PB -- Avila A
+T -- 2:59
+A -- 46782
+     Game of 5/19/2013 -- Detroit at Texas (N)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Infante O, 2b         5  2  2  0   Andrus E, ss          4  1  1  1   
+Hunter T, rf          5  1  1  0   Murphy D, lf          3  2  2  4   
+Cabrera M, 3b         4  4  4  5   Berkman L, dh         5  2  3  2   
+Fielder P, 1b         4  0  2  3   Beltre A, 3b          5  1  4  2   
+Martinez V, dh        5  0  0  0   Cruz N, rf            4  0  1  0   
+Tuiasosopo M, lf      1  0  0  0   Moreland M, 1b        4  0  2  2   
+Peralta J, ss         5  0  2  0   Soto G, c             5  1  3  0   
+Pena B, c             5  1  2  0   Gentry C, cf          2  1  1  0   
+Garcia A, cf          2  0  0  0   Martin L, ph-cf       3  2  1  0   
+Dirks A, ph-cf        3  0  0  0   Garcia L, 2b          3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  8 13  8                        38 11 18 11
+
+Detroit          003 013 010 --  8
+Texas            010 044 20x -- 11
+
+  Detroit              IP  H  R ER BB SO
+Fister D              4.2  9  5  5  1  3
+Downs D               0.1  0  0  0  0  0
+Ortega J (L)          1.0  5  4  4  2  0
+Coke P                0.2  2  2  2  0  0
+Reed E                1.1  2  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Holland D             4.2  8  4  4  3  6
+Lowe D                0.2  2  2  2  0  0
+Frasor J              0.1  0  1  1  1  1
+Kirkman M             0.1  1  0  0  0  0
+Ross R (W)            1.0  1  0  0  0  2
+Scheppers T           1.0  1  1  1  1  0
+Nathan J (S)          1.0  0  0  0  1  1
+
+E -- Cabrera M
+DP -- Detroit 2, Texas 1
+LOB -- Detroit 10, Texas 9
+2B -- Peralta J 2, Beltre A 2, Infante O, Fielder P 2, Soto G, Martin L
+HR -- Cabrera M 3, Murphy D
+SB -- Gentry C, Martin L
+CS -- Murphy D
+SH -- Garcia L
+SF -- Moreland M, Murphy D
+WP -- Holland D, Reed E
+T -- 3:46
+A -- 39638
+     Game of 5/20/2013 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Crisp C, cf           5  2  3  1   Andrus E, ss          4  0  0  0   
+Lowrie J, ss          6  0  3  0   Murphy D, lf          3  0  2  0   
+Cespedes Y, lf        3  1  1  1   Baker J, ph-lf        1  0  0  0   
+Moss B, 1b            3  1  1  1   Berkman L, dh         4  0  1  0   
+Freiman N, ph-1b      1  0  0  0   Beltre A, 3b          4  0  0  0   
+Donaldson J, 3b       5  0  2  1   Cruz N, rf            4  0  1  0   
+Smith S, dh           4  3  2  2   Moreland M, 1b        3  1  1  0   
+Young C, rf           5  1  2  1   Soto G, c             1  1  0  0   
+Norris D, c           5  0  0  0   Martin L, cf          3  0  1  0   
+Sogard E, 2b          5  1  1  1   Profar J, 2b          2  0  0  2   
+                     -- -- -- --                        -- -- -- --
+                     42  9 15  8                        29  2  6  2
+
+Oakland          010 040 301 --  9
+Texas            001 010 000 --  2
+
+  Oakland              IP  H  R ER BB SO
+Colon B (W)           7.0  6  2  2  2  3
+Blevins J             1.0  0  0  0  0  0
+Neshek P              1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Lindblom J (L)        4.2  7  4  4  2  4
+Ortiz J*              1.1  3  2  1  3  0
+Burns C               2.0  3  2  2  1  2
+Kirkman M             1.0  2  1  1  2  1
+  * Pitched to 1 batter in 7th
+
+E -- Murphy D
+DP -- Oakland 3
+LOB -- Oakland 15, Texas 3
+2B -- Martin L, Crisp C, Cespedes Y, Moss B, Moreland M, Lowrie J, Donaldson J
+HR -- Smith S
+SB -- Crisp C, Cespedes Y
+SF -- Profar J
+HBP -- by Burns C (Moss B)
+WP -- Burns C
+T -- 3:19
+A -- 31865
+     Game of 5/21/2013 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Jaso J, c             5  0  2  0   Andrus E, ss          4  0  0  0   
+Lowrie J, dh          2  0  1  0   Murphy D, lf          4  0  0  0   
+Montz L, ph           2  0  1  0   Berkman L, dh         3  0  0  0   
+Cespedes Y, lf        5  1  1  1   Beltre A, 3b          3  0  0  0   
+Moss B, 1b            3  0  0  0   Cruz N, rf            3  0  0  0   
+Donaldson J, 3b       2  0  0  0   Moreland M, 1b        3  0  0  0   
+Smith S, rf           3  0  1  0   Gentry C, cf          3  0  1  0   
+Young C, cf           4  0  0  0   Pierzynski A, c       3  0  1  0   
+Sogard E, 2b          3  0  1  0   Profar J, 2b          3  0  1  0   
+Rosales A, ss         4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  7  1                        29  0  3  0
+
+Oakland          001 000 000 --  1
+Texas            000 000 000 --  0
+
+  Oakland              IP  H  R ER BB SO
+Straily D (W)         7.0  2  0  0  0  5
+Doolittle S           1.0  1  0  0  0  2
+Balfour G (S)         1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (L)         6.0  5  1  1  3  5
+Ross R                0.2  2  0  0  0  1
+Scheppers T           1.1  0  0  0  1  2
+Cotts N               1.0  0  0  0  0  1
+
+E -- Andrus E
+DP -- Texas 2
+LOB -- Oakland 11, Texas 2
+2B -- Jaso J
+HR -- Cespedes Y
+CS -- Profar J
+HBP -- by Darvish Y (Lowrie J), by Scheppers T (Moss B)
+PB -- Pierzynski A
+T -- 2:53
+A -- 42510
+     Game of 5/22/2013 -- Oakland at Texas (D)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Crisp C, cf           4  1  1  0   Andrus E, ss          3  1  1  0   
+Jaso J, dh            2  0  0  0   Murphy D, lf          4  1  1  2   
+Montz L, ph           1  0  0  0   Berkman L, dh         3  0  0  0   
+Cespedes Y, lf        4  0  1  0   Beltre A, 3b          3  1  1  1   
+Moss B, 1b            3  0  0  1   Cruz N, rf            3  0  0  0   
+Donaldson J, 3b       4  0  0  0   Pierzynski A, c       3  0  0  0   
+Smith S, rf           3  0  0  0   Baker J, 1b           3  0  1  0   
+Norris D, c           4  0  2  0   Moreland M, 1b        0  0  0  0   
+Sogard E, 2b          3  0  0  0   Martin L, cf          3  0  1  0   
+Rosales A, ss         3  0  0  0   Garcia L, 2b          3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  4  1                        28  3  6  3
+
+Oakland          000 100 000 --  1
+Texas            300 000 00x --  3
+
+  Oakland              IP  H  R ER BB SO
+Parker J (L)          7.0  6  3  3  1  5
+Blevins J             1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Wolf R (W)*           5.0  3  1  1  2  3
+Cotts N               2.0  1  0  0  0  3
+Ross R                1.0  0  0  0  0  2
+Nathan J (S)          1.0  0  0  0  0  1
+  * Pitched to 2 batters in 6th
+
+E -- Andrus E
+DP -- Oakland 2
+LOB -- Oakland 6, Texas 2
+2B -- Cespedes Y, Norris D 2
+HR -- Murphy D, Beltre A
+CS -- Andrus E
+SF -- Moss B
+T -- 2:22
+A -- 42731
+     Game of 5/30/2013 -- Arizona at Texas (D)
+
+  Arizona            AB  R  H RBI    Texas              AB  R  H RBI
+Parra G, rf           5  1  1  0   Andrus E, ss          5  0  1  2   
+Gregorius D, ss       5  1  2  0   Murphy D, lf          5  2  2  1   
+Goldschmidt P, 1b     5  1  4  1   Berkman L, dh         5  0  1  0   
+Chavez E, 3b          0  0  0  0   Beltre A, 3b          4  1  2  1   
+Pennington C, ph-2b   5  1  2  0   Cruz N, rf            4  2  2  1   
+Prado M, 2b-3b        4  1  2  2   Moreland M, 1b        4  2  1  2   
+Montero M, c          4  0  1  0   Pierzynski A, c       4  1  1  1   
+Kubel J, dh           4  0  0  1   Profar J, 2b          4  1  3  0   
+Ross C, lf            4  0  0  0   Martin L, cf          4  0  2  1   
+Pollock A, cf         4  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40  5 14  4                        39  9 15  9
+
+Arizona          000 003 200 --  5
+Texas            024 120 00x --  9
+
+  Arizona              IP  H  R ER BB SO
+McCarthy B (L)        2.2  9  6  6  0  0
+Collmenter J          2.1  4  3  3  1  2
+Harris W              1.0  1  0  0  0  0
+Sipp T                1.0  1  0  0  0  1
+Reynolds M            1.0  0  0  0  1  1
+
+  Texas                IP  H  R ER BB SO
+Grimm J (W)           6.0  8  3  2  0  3
+Kirkman M             0.2  4  2  2  0  0
+Cotts N               1.1  0  0  0  0  2
+Ross R                1.0  2  0  0  0  1
+
+E -- Martin L
+DP -- Texas 1
+LOB -- Arizona 8, Texas 9
+2B -- Cruz N, Pierzynski A, Beltre A, Goldschmidt P
+HR -- Moreland M, Murphy D
+SB -- Parra G, Cruz N
+HBP -- by Collmenter J (Moreland M)
+WP -- Grimm J, Sipp T
+T -- 2:56
+A -- 30896
+     Game of 5/31/2013 -- Kansas City at Texas (N)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Gordon A, lf          4  0  0  0   Andrus E, ss          4  0  0  0   
+Escobar A, ss         4  0  2  1   Murphy D, lf          5  1  2  0   
+Cain L, cf            4  0  1  0   Berkman L, dh         5  1  2  0   
+Butler B, dh          4  1  1  0   Beltre A, 3b          4  2  4  2   
+Hosmer E, 1b          4  0  1  1   Cruz N, rf            4  1  1  3   
+Tejada M, 3b          3  0  1  0   Moreland M, 1b        4  1  1  0   
+Moustakas M, ph       1  0  0  0   Pierzynski A, c       4  1  2  0   
+Francoeur J, rf       3  0  0  0   Profar J, 2b          3  0  0  0   
+Lough D, ph           1  0  0  0   Martin L, cf          4  0  2  2   
+Moore A, c            3  1  1  0                                      
+Getz C, 2b            3  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  2  9  2                        37  7 14  7
+
+Kansas City      001 001 000 --  2
+Texas            004 002 10x --  7
+
+  Kansas City          IP  H  R ER BB SO
+Davis W (L)*          5.0 10  6  6  0  8
+Chen B                1.0  1  0  0  2  0
+Hochevar L            2.0  3  1  1  0  2
+
+  Texas                IP  H  R ER BB SO
+Holland D (W)         7.0  8  2  1  1  8
+Scheppers T           1.0  1  0  0  0  0
+Nathan J              1.0  0  0  0  0  1
+  * Pitched to 2 batters in 6th
+
+E -- Murphy D
+DP -- Kansas City 1, Texas 2
+LOB -- Kansas City 6, Texas 8
+2B -- Moore A, Pierzynski A, Martin L, Murphy D
+HR -- Cruz N, Beltre A
+SB -- Martin L, Getz C
+T -- 2:50
+A -- 37765
+     Game of 6/1/2013 -- Kansas City at Texas (D)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Gordon A, lf          4  0  0  0   Andrus E, ss          4  0  0  0   
+Escobar A, ss         5  1  1  0   Murphy D, lf          5  0  1  0   
+Hosmer E, 1b          5  1  3  0   Berkman L, dh         1  0  0  0   
+Butler B, dh          4  1  0  0   Baker J, ph           3  0  0  0   
+Moustakas M, 3b       5  0  0  0   Beltre A, 3b          4  1  1  0   
+Cain L, cf            4  0  2  0   Garcia L, 3b          0  0  0  0   
+Lough D, rf           4  1  1  1   Cruz N, rf            4  0  1  0   
+Francoeur J, pr-rf    0  0  0  0   Moreland M, 1b        3  0  1  1   
+Moore A, c            3  0  2  0   Pierzynski A, c       4  0  2  0   
+Kottaras G, ph-c      2  0  1  2   Profar J, 2b          4  0  0  0   
+Johnson E, 2b         5  0  1  0   Martin L, cf          1  0  0  0   
+                                   Gentry C, ph-cf       2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  4 11  3                        35  1  6  1
+
+Kansas City      000 010 000 3 --  4
+Texas            000 100 000 0 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Shields J             7.0  5  1  1  1  5
+Collins T             0.2  0  0  0  1  0
+Crow A (W)            1.1  1  0  0  1  0
+Holland G (S)         1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Tepesch N             6.1  7  1  0  0  2
+Cotts N*              0.2  1  0  0  1  1
+Scheppers T           1.0  0  0  0  1  1
+Nathan J              1.0  0  0  0  0  2
+Ross R (L)            1.0  3  3  3  1  3
+  * Pitched to 1 batter in 8th
+
+E -- Moore A, Martin L
+LOB -- Kansas City 11, Texas 7
+2B -- Pierzynski A, Kottaras G
+SB -- Johnson E, Martin L, Moore A, Hosmer E
+CS -- Pierzynski A
+HBP -- by Ross R (Lough D)
+PB -- Pierzynski A
+T -- 3:19
+A -- 36107
+     Game of 6/2/2013 -- Kansas City at Texas (D)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Gordon A, lf          4  1  2  0   Andrus E, ss          4  2  1  0   
+Escobar A, ss         3  0  0  0   Murphy D, lf          4  0  1  1   
+Hosmer E, 1b          4  0  0  1   Berkman L, dh         4  0  0  1   
+Butler B, dh          1  0  0  0   Cruz N, rf            3  0  2  0   
+Moustakas M, 3b       3  0  2  0   Moreland M, 1b        2  0  0  0   
+Cain L, cf            4  0  1  0   Baker J, 3b           3  0  0  0   
+Francoeur J, rf       4  0  0  0   Garcia L, 3b          0  0  0  0   
+Kottaras G, c         4  0  0  0   Soto G, c             1  0  0  0   
+Getz C, 2b            4  0  0  0   Pierzynski A, ph-c    1  0  0  0   
+                                   Gentry C, cf          2  0  0  0   
+                                   Martin L, ph-cf       1  0  0  0   
+                                   Profar J, 2b          3  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        28  3  6  3
+
+Kansas City      000 000 010 --  1
+Texas            100 000 02x --  3
+
+  Kansas City          IP  H  R ER BB SO
+Santana E             7.0  3  1  0  2  5
+Gutierrez J (L)       0.2  2  2  2  0  1
+Collins T             0.1  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Darvish Y             7.0  3  0  0  2  6
+Cotts N               0.1  1  1  1  0  0
+Scheppers T (W)       0.2  1  0  0  1  0
+Nathan J (S)          1.0  0  0  0  0  2
+
+E -- Escobar A, Kottaras G
+DP -- Kansas City 1, Texas 1
+LOB -- Kansas City 8, Texas 3
+2B -- Gordon A
+HR -- Profar J
+SB -- Cruz N, Andrus E
+CS -- Soto G, Profar J, Hosmer E
+SH -- Escobar A
+HBP -- by Darvish Y (Moustakas M)
+WP -- Darvish Y 2, Santana E
+T -- 2:37
+A -- 47567
+     Game of 6/10/2013 -- Cleveland at Texas (N)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Bourn M, cf           4  0  0  0   Andrus E, ss          5  1  2  0   
+Kipnis J, 2b          4  1  2  0   Murphy D, lf          3  0  0  0   
+Swisher N, rf         3  1  1  0   Berkman L, dh         4  1  2  2   
+Brantley M, lf        4  0  1  0   Beltre A, 3b          3  1  0  0   
+Santana C, 1b         4  0  1  3   Cruz N, rf            4  0  1  1   
+Reynolds M, 3b        4  0  0  0   Pierzynski A, c       4  2  2  0   
+Giambi J, dh          2  0  0  0   Baker J, 1b           2  1  1  2   
+Raburn R, pr          1  0  0  0   McGuiness C, 1b       1  0  0  0   
+Gomes Y, c            4  0  0  0   Gentry C, cf          4  0  1  1   
+Aviles M, ss          3  1  1  0   Profar J, 2b          3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        33  6 10  6
+
+Cleveland        003 000 000 --  3
+Texas            010 200 30x --  6
+
+  Cleveland            IP  H  R ER BB SO
+Kazmir S (L)*         6.0  8  4  4  2  5
+Hagadone N            0.2  1  1  1  0  0
+Allen C               0.1  1  1  1  1  0
+Pestano V             1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Lindblom J            6.0  5  3  3  1  6
+Ross R (W)            1.0  0  0  0  1  3
+Scheppers T           1.0  1  0  0  0  1
+Nathan J (S)          1.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Reynolds M
+DP -- Cleveland 1
+LOB -- Cleveland 5, Texas 7
+2B -- Santana C, Profar J, Cruz N
+HR -- Baker J, Berkman L
+HBP -- by Pestano V (Profar J)
+WP -- Hagadone N
+T -- 2:52
+A -- 33003
+     Game of 6/11/2013 -- Cleveland at Texas (N)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Stubbs D, cf          5  1  1  2   Andrus E, ss          3  0  1  0   
+Kipnis J, 2b          3  1  1  0   Murphy D, lf          4  0  1  1   
+Swisher N, 1b         5  0  1  1   Berkman L, dh         4  0  1  0   
+Raburn R, rf          4  1  1  0   Beltre A, 3b          4  0  0  0   
+Santana C, dh         3  0  1  0   Pierzynski A, c       3  1  2  1   
+Reynolds M, 3b        4  0  2  1   Cruz N, rf            3  0  1  0   
+McDonald J, 3b        0  0  0  0   McGuiness C, 1b       4  0  0  0   
+Brantley M, lf        3  0  1  0   Gentry C, cf          2  0  0  0   
+Gomes Y, c            4  1  1  0   Martin L, ph-cf       2  0  0  0   
+Aviles M, ss          4  1  2  0   Garcia L, 2b          1  0  0  0   
+                                   Profar J, ph-2b       1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5 11  4                        31  2  7  2
+
+Cleveland        000 130 100 --  5
+Texas            000 000 011 --  2
+
+  Cleveland            IP  H  R ER BB SO
+Kluber C (W)          8.0  6  1  1  3  3
+Smith J               1.0  1  1  1  1  2
+
+  Texas                IP  H  R ER BB SO
+Holland D (L)         4.1  9  4  4  1  4
+McClellan K           2.2  0  1  1  2  0
+Cotts N               1.0  1  0  0  0  0
+Frasor J              1.0  1  0  0  0  3
+
+E -- Andrus E, Holland D
+DP -- Cleveland 3, Texas 3
+LOB -- Cleveland 7, Texas 6
+2B -- Raburn R, Cruz N, Murphy D
+HR -- Pierzynski A
+SB -- Brantley M, Kipnis J, Aviles M
+HBP -- by Holland D (Kipnis J)
+WP -- McClellan K, Kluber C
+T -- 2:56
+A -- 45200
+     Game of 6/12/2013 -- Cleveland at Texas (N)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Bourn M, cf           4  1  2  0   Profar J, ss          5  0  3  1   
+Kipnis J, 2b          5  1  3  1   Murphy D, lf          5  0  0  0   
+Swisher N, 1b         4  0  0  0   Berkman L, dh         2  0  1  0   
+Brantley M, lf        4  1  2  1   Beltre A, 3b          2  0  1  0   
+Santana C, c          4  0  1  1   Pierzynski A, c       4  0  0  0   
+Reynolds M, 3b        4  0  0  0   Cruz N, rf            3  0  0  0   
+McDonald J, 3b        0  0  0  0   Baker J, 2b           4  0  0  0   
+Giambi J, dh          2  1  0  0   McGuiness C, 1b       4  0  1  0   
+Aviles M, ss          4  1  1  2   Martin L, cf          4  2  2  1   
+Stubbs D, rf          4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5 10  5                        33  2  8  2
+
+Cleveland        021 020 000 --  5
+Texas            001 000 001 --  2
+
+  Cleveland            IP  H  R ER BB SO
+Jimenez U (W)*        5.0  4  1  1  4  4
+Hill R                0.1  0  0  0  0  0
+Shaw B                1.1  2  0  0  0  1
+Hagadone N            0.1  0  0  0  0  0
+Smith J               1.0  0  0  0  1  3
+Pestano V             1.0  2  1  1  0  1
+
+  Texas                IP  H  R ER BB SO
+Tepesch N (L)         5.0  8  5  5  1  5
+Frasor J              1.0  0  0  0  0  0
+Ross R                1.0  1  0  0  0  2
+Wolf R                2.0  1  0  0  2  1
+  * Pitched to 2 batters in 6th
+
+DP -- Cleveland 2, Texas 1
+LOB -- Cleveland 8, Texas 9
+2B -- Santana C, Kipnis J, Stubbs D, Profar J
+HR -- Aviles M, Martin L, Kipnis J
+HBP -- by Tepesch N (Giambi J) 2
+T -- 3:08
+A -- 34248
+     Game of 6/13/2013 -- Toronto at Texas (N)
+
+  Toronto            AB  R  H RBI    Texas              AB  R  H RBI
+Cabrera M, lf         4  0  1  1   Andrus E, ss          4  0  1  0   
+Davis R, lf           0  0  0  0   Murphy D, lf          3  0  0  0   
+Bautista J, rf        3  1  0  0   Berkman L, dh         4  0  1  0   
+Encarnacion E, 1b     3  0  1  2   Beltre A, 3b          4  0  1  0   
+Lind A, dh            4  0  0  0   Pierzynski A, c       4  0  0  0   
+Rasmus C, cf          4  0  0  0   Cruz N, rf            3  1  2  1   
+Izturis M, 3b         4  0  1  0   McGuiness C, 1b       3  0  1  0   
+Arencibia J, c        4  0  0  0   Profar J, 2b          3  0  0  0   
+Bonifacio E, 2b       3  2  1  0   Martin L, cf          2  0  0  0   
+Kawasaki M, ss        1  0  0  0   Gentry C, cf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  3  4  3                        31  1  6  1
+
+Toronto          001 000 020 --  3
+Texas            010 000 000 --  1
+
+  Toronto              IP  H  R ER BB SO
+Rogers E (W)          7.0  5  1  1  1  1
+Delabar S             1.0  1  0  0  0  3
+Janssen C (S)         1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Darvish Y             7.0  3  1  1  2  9
+Cotts N (L)           0.2  0  1  0  0  0
+Scheppers T           0.1  1  1  1  1  1
+McClellan K           1.0  0  0  0  0  1
+
+E -- Beltre A
+DP -- Toronto 2, Texas 1
+LOB -- Toronto 4, Texas 4
+2B -- Izturis M, Encarnacion E
+HR -- Cruz N
+SB -- Bonifacio E
+SH -- Kawasaki M
+T -- 2:36
+A -- 32013
+     Game of 6/14/2013 -- Toronto at Texas (N)
+
+  Toronto            AB  R  H RBI    Texas              AB  R  H RBI
+Cabrera M, lf         4  0  0  1   Profar J, 2b-ss       4  0  1  0   
+Davis R, lf           0  0  0  1   Andrus E, ss          3  0  0  0   
+Bautista J, rf        5  0  0  0   Garcia L, 2b          1  0  1  0   
+Encarnacion E, dh     4  2  2  0   Berkman L, dh         4  0  1  0   
+Lind A, 1b            4  1  2  1   Beltre A, 3b          3  0  2  0   
+Rasmus C, cf          3  2  1  3   Cruz N, rf            2  0  0  0   
+Izturis M, 3b         4  0  2  1   Soto G, c             3  0  0  0   
+Arencibia J, c        4  1  1  1   McGuiness C, 1b       3  0  0  0   
+Bonifacio E, 2b       4  1  2  0   Gentry C, cf          3  0  0  0   
+Kawasaki M, ss        2  1  1  0   Martin L, lf          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  8 11  8                        29  0  5  0
+
+Toronto          000 410 111 --  8
+Texas            000 000 000 --  0
+
+  Toronto              IP  H  R ER BB SO
+Buehrle M (W)         7.0  4  0  0  1  7
+Loup A                1.0  0  0  0  0  1
+Oliver D              1.0  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Grimm J (L)           7.2 10  7  7  2  4
+McClellan K           1.1  1  1  1  0  1
+
+DP -- Toronto 3
+LOB -- Toronto 3, Texas 3
+2B -- Encarnacion E 2, Bonifacio E, Izturis M
+3B -- Kawasaki M
+HR -- Rasmus C, Arencibia J
+CS -- Bonifacio E
+SH -- Kawasaki M
+SF -- Davis R
+T -- 2:08
+A -- 37203
+     Game of 6/15/2013 -- Toronto at Texas (D)
+
+  Toronto            AB  R  H RBI    Texas              AB  R  H RBI
+Cabrera M, lf         4  0  0  0   Kinsler I, 2b         4  0  0  0   
+DeRosa M, 3b          1  0  0  0   Andrus E, ss          5  0  0  0   
+Bautista J, rf        4  1  2  0   Berkman L, dh         4  0  0  0   
+Davis R, pr-rf        0  0  0  0   Beltre A, 3b          4  0  2  0   
+Encarnacion E, dh     4  0  0  0   Pierzynski A, c       4  0  1  0   
+Lind A, 1b            4  2  2  2   Cruz N, rf            4  1  1  0   
+Rasmus C, cf          3  2  1  2   Murphy D, lf          3  0  1  0   
+Izturis M, 3b-2b      4  1  1  0   McGuiness C, 1b       4  0  1  0   
+Thole J, c            4  0  1  1   Martin L, cf          4  0  3  1   
+Bonifacio E, 2b-lf    4  0  0  0                                      
+Kawasaki M, ss        3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  6  8  5                        36  1  9  1
+
+Toronto          200 200 002 --  6
+Texas            000 001 000 --  1
+
+  Toronto              IP  H  R ER BB SO
+Dickey R (W)          5.2  7  1  1  3  3
+Wagner N              1.0  1  0  0  0  1
+Cecil B               1.1  0  0  0  0  1
+McGowan D             1.0  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Lindblom J (L)        6.0  5  4  4  0  2
+Ross R                1.2  0  0  0  1  1
+Frasor J              0.2  3  2  1  1  1
+Wolf R                0.2  0  0  0  0  0
+
+E -- Beltre A
+DP -- Texas 1
+LOB -- Toronto 4, Texas 11
+2B -- Martin L
+HR -- Lind A, Rasmus C
+SB -- Martin L
+T -- 2:55
+A -- 33121
+     Game of 6/16/2013 -- Toronto at Texas (D)
+
+  Toronto            AB  R  H RBI    Texas              AB  R  H RBI
+Cabrera M, lf         4  0  2  0   Profar J, 3b          4  0  1  0   
+Bonifacio E, pr-lf    1  1  0  0   Andrus E, ss          5  0  1  1   
+Bautista J, dh        4  1  1  1   Kinsler I, 2b         4  0  0  1   
+Thole J, ph           1  0  0  0   Beltre A, dh          5  0  1  0   
+Encarnacion E, 3b     3  1  1  0   Pierzynski A, c       4  0  2  0   
+Kawasaki M, ph-ss     1  0  0  0   Cruz N, rf            3  0  0  0   
+Lind A, 1b            5  1  3  3   Murphy D, lf          3  1  1  0   
+DeRosa M, 2b-3b       4  0  1  0   McGuiness C, 1b       4  0  1  0   
+Davis R, rf           4  0  1  0   Martin L, cf          3  1  1  0   
+Rasmus C, cf          4  2  1  1                                      
+Arencibia J, c        4  1  2  2                                      
+Izturis M, ss-2b      4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  7 12  7                        35  2  8  2
+
+Toronto          020 100 400 --  7
+Texas            000 000 002 --  2
+
+  Toronto              IP  H  R ER BB SO
+Wang C (W)            7.0  7  0  0  2  5
+Perez J               1.2  1  2  0  2  2
+Wagner N              0.1  0  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Holland D (L)*        6.0 10  4  4  0  6
+McClellan K           1.0  2  3  3  1  1
+Scheppers T           1.0  0  0  0  0  2
+Nathan J              1.0  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+E -- DeRosa M
+DP -- Toronto 1
+LOB -- Toronto 6, Texas 11
+2B -- Arencibia J, Martin L, Cabrera M
+HR -- Arencibia J, Rasmus C, Lind A
+T -- 2:54
+A -- 44052
+     Game of 6/17/2013 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Crisp C, cf           4  0  1  2   Profar J, dh          4  0  1  0   
+Jaso J, c             3  1  1  0   Andrus E, ss          5  0  0  0   
+Norris D, ph-c        2  0  0  0   Kinsler I, 2b         4  1  2  1   
+Cespedes Y, dh        4  1  0  0   Beltre A, 3b          4  2  2  0   
+Moss B, 1b            4  1  1  1   Pierzynski A, c       3  2  2  3   
+Donaldson J, 3b       3  1  0  0   Cruz N, rf            4  2  3  4   
+Smith S, lf           4  2  2  2   Murphy D, lf          4  0  1  0   
+Lowrie J, ss          3  1  2  1   McGuiness C, 1b       4  0  0  0   
+Reddick J, rf         4  0  0  0   Martin L, cf          3  1  1  0   
+Sogard E, 2b          1  0  0  1                                      
+Rosales A, ph-2b      1  0  0  0                                      
+Young C, ph           1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  7  8  7                        35  8 12  8
+
+Oakland          000 600 001 --  7
+Texas            021 130 10x --  8
+
+  Oakland              IP  H  R ER BB SO
+Straily D             4.2  8  6  6  1  1
+Chavez J (L)          1.2  2  2  2  0  2
+Blevins J             1.0  1  0  0  1  1
+Cook R                0.2  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Tepesch N             3.2  6  6  6  1  0
+Cotts N (W)           2.1  0  0  0  0  1
+Ross R                1.0  0  0  0  0  2
+Scheppers T           1.0  0  0  0  0  1
+Nathan J (S)          1.0  2  1  1  1  1
+
+E -- Reddick J
+LOB -- Oakland 4, Texas 6
+2B -- Martin L, Jaso J, Lowrie J, Murphy D, Pierzynski A, Cruz N, Profar J, Smith S
+HR -- Pierzynski A, Cruz N 2
+SB -- Martin L
+SF -- Sogard E, Crisp C
+HBP -- by Chavez J (Profar J)
+WP -- Straily D
+T -- 3:04
+A -- 30489
+     Game of 6/18/2013 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Crisp C, cf           5  0  0  0   Kinsler I, 2b         3  1  1  0   
+Jaso J, c             4  1  1  1   Profar J, ss          2  0  0  0   
+Lowrie J, ss          3  0  0  0   Pierzynski A, c       4  0  1  2   
+Cespedes Y, dh        3  0  0  0   Beltre A, 3b          4  0  0  0   
+Moss B, 1b            4  2  2  1   Berkman L, 1b         4  0  0  0   
+Donaldson J, 3b       3  1  1  1   Cruz N, dh            3  0  0  0   
+Smith S, lf           4  1  1  0   Murphy D, lf          3  0  0  0   
+Reddick J, rf         4  1  1  0   Gentry C, cf          2  0  0  0   
+Sogard E, 2b          4  0  1  1   Martin L, rf          3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6  7  4                        28  2  3  2
+
+Oakland          021 200 010 --  6
+Texas            002 000 000 --  2
+
+  Oakland              IP  H  R ER BB SO
+Parker J (W)          7.0  3  2  2  2  4
+Cook R                1.0  0  0  0  0  0
+Balfour G             1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (L)         6.0  6  5  4  2 10
+Ross R                1.0  0  0  0  0  1
+Ortiz J               2.0  1  1  1  0  1
+
+E -- Berkman L, Lowrie J
+LOB -- Oakland 5, Texas 4
+2B -- Smith S
+3B -- Moss B
+HR -- Moss B, Jaso J
+SB -- Reddick J, Martin L, Gentry C
+SH -- Profar J 2
+SF -- Donaldson J
+HBP -- by Ross R (Jaso J), by Parker J (Gentry C)
+WP -- Darvish Y
+Balk -- Darvish Y
+T -- 2:53
+A -- 37769
+     Game of 6/19/2013 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Young C, cf           5  1  2  3   Kinsler I, 2b         4  1  2  2   
+Lowrie J, ss          4  0  0  0   Andrus E, ss          4  0  0  0   
+Cespedes Y, dh        4  1  1  0   Cruz N, rf            5  0  3  2   
+Moss B, 1b            3  0  0  0   Beltre A, 3b          5  1  2  1   
+Donaldson J, 3b       3  0  1  1   Berkman L, dh         5  1  1  2   
+Smith S, lf           4  0  1  0   Pierzynski A, c       4  1  0  0   
+Reddick J, rf         3  1  0  0   Chirinos R, 1b        4  1  1  0   
+Norris D, c           2  0  0  0   Murphy D, lf          4  2  3  0   
+Jaso J, c             2  0  0  0   Martin L, cf          3  2  2  1   
+Sogard E, 2b          2  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  6  4                        38  9 14  8
+
+Oakland          000 030 010 --  4
+Texas            020 024 10x --  9
+
+  Oakland              IP  H  R ER BB SO
+Milone T (L)          5.1  8  6  6  1  1
+Otero D               0.1  4  2  2  0  0
+Chavez J              1.1  1  1  1  1  0
+Neshek P              1.0  1  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Grimm J (W)           5.0  3  3  3  3  3
+Frasor J              0.2  0  0  0  1  1
+Cotts N               1.1  1  0  0  1  2
+McClellan K           2.0  2  1  1  0  0
+
+LOB -- Oakland 6, Texas 9
+2B -- Beltre A, Murphy D, Cespedes Y
+HR -- Berkman L, Young C
+SB -- Martin L
+CS -- Sogard E
+SF -- Kinsler I
+HBP -- by Chavez J (Pierzynski A)
+WP -- Grimm J, Chavez J
+T -- 3:14
+A -- 39274
+     Game of 6/20/2013 -- Oakland at Texas (D)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Crisp C, cf           4  0  0  0   Kinsler I, dh         3  1  1  2   
+Jaso J, c             3  1  1  0   Andrus E, ss          3  0  1  0   
+Lowrie J, ss-2b       5  1  3  1   Cruz N, rf            4  0  0  0   
+Cespedes Y, dh        4  0  0  0   Beltre A, 3b          4  0  1  0   
+Moss B, 1b            5  1  2  0   Murphy D, lf          4  0  1  0   
+Donaldson J, 3b       5  0  3  0   Chirinos R, 1b        4  1  0  0   
+Smith S, lf           3  0  2  0   Soto G, c             2  1  1  1   
+Reddick J, rf         2  0  1  0   Pierzynski A, ph-c    1  1  1  0   
+Young C, ph-rf        1  0  0  1   Profar J, 2b          3  0  1  0   
+Sogard E, 2b          2  0  0  0   Martin L, cf          3  0  1  0   
+Rosales A, ph-ss      2  0  0  0   Gentry C, cf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3 12  2                        31  4  8  3
+
+Oakland          000 011 100 --  3
+Texas            000 011 20x --  4
+
+  Oakland              IP  H  R ER BB SO
+Griffin A             5.1  3  2  2  1  5
+Cook R                1.0  1  1  1  0  0
+Doolittle S (L)       0.2  3  1  1  0  0
+Blevins J             1.0  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Lindblom J*           5.0  8  2  2  2  2
+Ortiz J+              0.0  0  0  0  1  0
+Frasor J#             0.0  0  0  0  1  0
+Ross R                1.1  1  1  1  1  3
+Scheppers T (W)       1.2  1  0  0  2  1
+Nathan J (S)          1.0  2  0  0  0  2
+  * Pitched to 2 batters in 6th
+  + Pitched to 1 batter in 6th
+  # Pitched to 1 batter in 6th
+
+E -- Andrus E
+DP -- Texas 1
+LOB -- Oakland 13, Texas 5
+2B -- Moss B, Jaso J, Murphy D
+HR -- Soto G
+SB -- Kinsler I
+SH -- Andrus E
+WP -- Lindblom J, Griffin A, Cook R
+T -- 3:39
+A -- 30361
+     Game of 6/28/2013 -- Cincinnati at Texas (N)
+
+  Cincinnati         AB  R  H RBI    Texas              AB  R  H RBI
+Robinson D, lf        4  0  0  0   Kinsler I, 2b         3  0  0  0   
+Choo S, cf            4  0  0  0   Andrus E, dh          3  1  1  1   
+Votto J, 1b           4  0  1  0   Cruz N, rf            3  0  0  1   
+Phillips B, 2b        4  0  2  0   Beltre A, 3b          4  1  2  1   
+Bruce J, rf           4  0  2  0   Pierzynski A, c       4  0  0  0   
+Frazier T, 3b         4  0  1  0   Moreland M, 1b        3  0  1  0   
+Heisey C, dh          3  0  0  0   Profar J, ss          3  1  1  1   
+Mesoraco D, c         3  0  0  0   Murphy D, lf          3  1  1  0   
+Cozart Z, ss          3  0  2  0   Martin L, cf          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  0  8  0                        30  4  7  4
+
+Cincinnati       000 000 000 --  0
+Texas            120 010 00x --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Cueto J (L)           1.0  2  1  1  0  1
+Cingrani T            4.0  4  3  3  6  3
+Simon A               2.0  1  0  0  0  2
+LeCure S              1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Perez M (W)           6.2  6  0  0  1  3
+Frasor J              1.1  1  0  0  0  1
+Ross R                1.0  1  0  0  0  0
+
+DP -- Cincinnati 1, Texas 2
+LOB -- Cincinnati 7, Texas 8
+2B -- Cozart Z
+SB -- Andrus E, Murphy D, Martin L
+WP -- Perez M
+T -- 2:51
+A -- 41218
+     Game of 6/29/2013 -- Cincinnati at Texas (N)
+
+  Cincinnati         AB  R  H RBI    Texas              AB  R  H RBI
+Choo S, cf            4  2  3  1   Kinsler I, dh         5  1  0  1   
+Cozart Z, ss          5  1  1  1   Andrus E, ss          4  1  1  1   
+Votto J, 1b           5  0  2  0   Cruz N, rf            4  0  2  2   
+Phillips B, 2b        5  0  1  1   Beltre A, 3b          5  0  1  0   
+Bruce J, rf           4  0  0  0   Pierzynski A, c       4  0  0  0   
+Paul X, dh            3  0  1  1   Moreland M, 1b        5  0  0  0   
+Heisey C, ph          2  0  1  0   Profar J, 2b          5  0  0  0   
+Hannahan J, 3b        3  0  0  0   Beltre E, cf          3  1  0  0   
+Frazier T, ph-3b      1  1  0  0   Chirinos R, ph        1  0  0  0   
+Mesoraco D, c         5  1  1  2   Murphy D, lf          0  0  0  0   
+Robinson D, lf        5  1  1  0   Martin L, lf-cf       3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     42  6 11  6                        39  4  5  4
+
+Cincinnati       101 020 000 02 --  6
+Texas            003 001 000 00 --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Leake M               7.0  3  4  1  1  4
+LeCure S              1.0  1  0  0  0  0
+Parra M               1.1  0  0  0  0  1
+Hoover J (W)          0.2  1  0  0  1  0
+Chapman A (S)         1.0  0  0  0  1  1
+
+  Texas                IP  H  R ER BB SO
+Tepesch N*            4.0  6  4  3  2  7
+Wolf R                3.0  2  0  0  1  1
+Cotts N               1.2  2  0  0  0  3
+Nathan J              1.1  0  0  0  0  1
+McClellan K (L)       1.0  1  2  2  1  0
+  * Pitched to 3 batters in 5th
+
+E -- Profar J, Votto J 2, Cozart Z
+DP -- Cincinnati 1, Texas 1
+LOB -- Cincinnati 9, Texas 6
+2B -- Votto J, Cozart Z, Andrus E, Cruz N, Heisey C
+HR -- Choo S, Mesoraco D
+SB -- Martin L
+CS -- Choo S
+SH -- Cozart Z
+SF -- Cruz N
+HBP -- by McClellan K (Frazier T)
+T -- 3:54
+A -- 44397
+     Game of 6/30/2013 -- Cincinnati at Texas (D)
+
+  Cincinnati         AB  R  H RBI    Texas              AB  R  H RBI
+Choo S, cf            4  0  0  0   Kinsler I, 2b         4  0  0  0   
+Cozart Z, ss          3  1  0  0   Andrus E, ss          3  0  1  1   
+Votto J, 1b           3  1  2  0   Cruz N, dh            4  0  2  1   
+Phillips B, 2b        3  0  1  0   Beltre A, 3b          4  0  1  0   
+Bruce J, rf           3  0  2  1   Moreland M, 1b        2  0  0  0   
+Paul X, dh            3  0  0  0   Murphy D, lf          3  0  0  0   
+Heisey C, ph          0  0  0  1   Soto G, c             3  0  0  0   
+Frazier T, 3b         4  0  1  0   Pierzynski A, ph-c    1  0  0  0   
+Mesoraco D, c         4  0  0  0   Beltre E, cf          4  1  2  0   
+Robinson D, lf        3  0  0  0   Martin L, rf          4  2  2  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  6  2                        32  3  8  2
+
+Cincinnati       000 000 020 --  2
+Texas            000 020 10x --  3
+
+  Cincinnati           IP  H  R ER BB SO
+Latos M (L)           6.2  8  3  2  2  9
+Parra M               0.1  0  0  0  1  0
+Simon A               1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (W)         6.2  4  0  0  4  8
+Ross R                0.1  0  0  0  0  0
+Scheppers T*          0.0  2  2  2  1  0
+Cotts N               0.2  0  0  0  0  0
+Frasor J              0.1  0  0  0  0  0
+Nathan J (S)          1.0  0  0  0  0  1
+  * Pitched to 3 batters in 8th
+
+E -- Latos M
+DP -- Texas 1
+LOB -- Cincinnati 8, Texas 9
+2B -- Cruz N, Martin L
+SB -- Beltre E, Martin L
+SH -- Andrus E
+SF -- Bruce J, Heisey C
+WP -- Latos M
+T -- 3:16
+A -- 39078
+     Game of 7/2/2013 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Chavez E, rf          5  1  1  0   Kinsler I, 2b         4  0  1  0   
+Franklin N, 2b        5  2  2  0   Andrus E, ss          5  1  2  1   
+Ibanez R, lf          3  2  1  1   Cruz N, rf            4  0  2  0   
+Morales K, dh         5  2  3  6   Beltre E, pr-rf       0  0  0  0   
+Seager K, 3b          4  2  2  0   Beltre A, 3b          4  0  1  0   
+Smoak J, 1b           4  0  1  0   Chirinos R, 3b        0  0  0  0   
+Ackley D, cf          5  0  1  1   Pierzynski A, c       4  0  0  0   
+Zunino M, c           5  0  1  1   Moreland M, 1b        4  0  1  0   
+Miller B, ss          4  0  1  0   Profar J, dh          3  0  1  0   
+                                   Murphy D, lf          4  0  1  0   
+                                   Martin L, cf          4  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     40  9 13  9                        36  2 11  1
+
+Seattle          200 132 100 --  9
+Texas            001 000 100 --  2
+
+  Seattle              IP  H  R ER BB SO
+Saunders J (W)        6.2 10  2  1  1  5
+Medina Y              0.1  0  0  0  0  1
+Perez O               1.0  0  0  0  0  0
+Wilhelmsen T          1.0  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Grimm J (L)*          4.0  7  6  5  2  1
+Wolf R                3.0  5  3  3  1  0
+Lindblom J            2.0  1  0  0  0  3
+  * Pitched to 3 batters in 5th
+
+E -- Kinsler I, Franklin N
+DP -- Seattle 4
+LOB -- Seattle 8, Texas 9
+2B -- Seager K, Ackley D, Smoak J
+HR -- Ibanez R, Morales K 2
+SB -- Martin L
+HBP -- by Saunders J (Profar J), by Wolf R (Seager K)
+WP -- Wolf R
+PB -- Zunino M
+T -- 2:49
+A -- 39579
+     Game of 7/3/2013 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Bay J, rf             5  1  1  1   Kinsler I, 2b         4  1  1  1   
+Franklin N, 2b        5  0  0  0   Andrus E, ss          5  0  0  0   
+Ibanez R, lf          5  1  1  0   Cruz N, rf            5  0  1  0   
+Morales K, dh         3  0  1  0   Beltre A, 3b          4  0  2  0   
+Saunders M, pr        0  1  0  0   Pierzynski A, c       4  0  1  0   
+Seager K, 3b          5  1  3  2   Berkman L, dh         4  0  1  0   
+Smoak J, 1b           4  0  3  0   Moreland M, 1b        4  0  0  0   
+Ackley D, cf          4  0  0  0   Murphy D, lf          3  1  2  1   
+Zunino M, c           4  0  1  1   Martin L, cf          4  0  0  0   
+Miller B, ss          4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  4 10  4                        37  2  8  2
+
+Seattle          100 001 000 2 --  4
+Texas            000 020 000 0 --  2
+
+  Seattle              IP  H  R ER BB SO
+Hernandez F           7.0  7  2  2  2  7
+Medina Y              0.1  1  0  0  0  1
+Furbush C (W)         1.2  0  0  0  0  0
+Wilhelmsen T (S)      1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Holland D             6.0  7  2  2  2 10
+Cotts N               1.0  0  0  0  0  2
+Scheppers T           1.0  1  0  0  1  0
+Nathan J              1.0  0  0  0  0  2
+Ross R (L)            1.0  2  2  2  1  0
+
+DP -- Seattle 1, Texas 1
+LOB -- Seattle 9, Texas 7
+2B -- Cruz N, Beltre A
+HR -- Bay J, Murphy D, Kinsler I, Seager K
+SB -- Martin L
+T -- 3:07
+A -- 39468
+     Game of 7/4/2013 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Bay J, rf             4  0  1  0   Kinsler I, 2b         4  0  1  1   
+Ackley D, ph-cf       1  0  0  0   Murphy D, lf          4  0  0  0   
+Franklin N, 2b        5  1  2  0   Cruz N, rf            4  0  0  0   
+Ibanez R, lf          5  1  4  3   Beltre A, 3b          4  2  3  2   
+Morales K, dh         3  0  0  0   Pierzynski A, c       4  1  1  0   
+Seager K, 3b          5  1  3  0   Berkman L, dh         2  0  0  0   
+Smoak J, 1b           5  0  2  0   Beltre E, pr          0  1  0  0   
+Chavez E, cf-rf       3  0  1  0   Moreland M, 1b        3  1  1  1   
+Blanco H, c           4  0  0  0   Andrus E, ss          2  0  1  1   
+Saunders M, ph        1  0  0  0   Martin L, cf          3  0  1  0   
+Ryan B, ss            3  0  0  0                                      
+Miller B, ph-ss       1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40  4 14  3                        30  5  8  5
+
+Seattle          000 001 210 --  4
+Texas            010 000 40x --  5
+
+  Seattle              IP  H  R ER BB SO
+Iwakuma H (L)*        6.0  5  4  4  1  2
+Furbush C             0.1  1  1  0  0  0
+Farquhar D            1.0  2  0  0  0  0
+Perez O               0.2  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Perez M               5.1  8  1  0  2  4
+Frasor J              1.0  0  0  0  0  1
+Cotts N+              0.0  3  2  2  1  0
+Lindblom J (W)        0.2  0  0  0  1  1
+Scheppers T           1.0  2  1  0  0  2
+Nathan J (S)          1.0  1  0  0  0  2
+  * Pitched to 3 batters in 7th
+  + Pitched to 4 batters in 7th
+
+E -- Kinsler I, Franklin N, Andrus E
+DP -- Seattle 2, Texas 1
+LOB -- Seattle 13, Texas 3
+2B -- Smoak J, Seager K
+HR -- Beltre A 2, Ibanez R
+SF -- Andrus E
+T -- 3:13
+A -- 46476
+     Game of 7/5/2013 -- Houston at Texas (N)
+
+  Houston            AB  R  H RBI    Texas              AB  R  H RBI
+Altuve J, 2b          5  1  2  0   Kinsler I, 2b         2  2  1  0   
+Wallace B, 1b         3  1  0  0   Murphy D, lf          4  2  1  2   
+Castro J, c           4  2  3  1   Cruz N, rf            5  2  1  4   
+Carter C, lf          3  1  1  2   Beltre A, 3b          3  1  2  2   
+Pena C, dh            4  0  1  0   Pierzynski A, c       4  0  0  0   
+Martinez J, rf        4  0  2  1   Berkman L, dh         4  0  0  0   
+Barnes B, cf          4  0  0  0   Moreland M, 1b        3  1  1  0   
+Dominguez M, 3b       4  0  1  0   Andrus E, ss          4  1  1  0   
+Cedeno R, ss          3  0  0  0   Martin L, cf          4  1  2  1   
+Krauss M, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5 10  4                        33 10  9  9
+
+Houston          000 004 010 --  5
+Texas            240 310 00x -- 10
+
+  Houston              IP  H  R ER BB SO
+Harrell L (L)         3.2  5  9  7  6  3
+Oberholtzer B         3.1  3  1  1  0  2
+Blackley T            1.0  1  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Tepesch N (W)*        5.0  7  4  4  1  9
+Wolf R                3.0  3  1  0  1  0
+Frasor J              1.0  0  0  0  0  1
+  * Pitched to 4 batters in 6th
+
+E -- Wallace B, Moreland M
+DP -- Houston 1, Texas 3
+LOB -- Houston 5, Texas 7
+2B -- Castro J, Martinez J, Moreland M, Carter C
+3B -- Martin L
+HR -- Murphy D, Cruz N, Beltre A
+SB -- Altuve J, Andrus E
+HBP -- by Oberholtzer B (Pierzynski A)
+WP -- Blackley T
+T -- 3:12
+A -- 44232
+     Game of 7/6/2013 -- Houston at Texas (N)
+
+  Houston            AB  R  H RBI    Texas              AB  R  H RBI
+Altuve J, 2b          4  1  0  0   Kinsler I, 2b         4  0  2  0   
+Wallace B, 1b         2  2  2  0   Andrus E, ss          5  1  1  0   
+Castro J, c           5  2  2  3   Cruz N, rf            4  2  3  1   
+Pena C, dh            3  0  0  0   Beltre A, 3b          4  0  2  0   
+Krauss M, lf          4  1  3  2   Berkman L, dh         2  1  0  0   
+Cedeno R, ss          1  0  0  0   Chirinos R, ph        1  0  0  0   
+Paredes J, rf         5  0  1  0   Moreland M, 1b        3  0  0  1   
+Barnes B, cf          5  1  1  2   Soto G, c             4  1  1  3   
+Dominguez M, 3b       5  1  1  0   Profar J, lf          3  0  0  0   
+Elmore J, ss-lf       4  1  1  2   Martin L, cf          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 11  9                        34  5 10  5
+
+Houston          000 220 320 --  9
+Texas            000 004 100 --  5
+
+  Houston              IP  H  R ER BB SO
+Keuchel D*            5.0  6  2  2  1  4
+Clemens P             0.1  0  1  1  1  0
+Wright W              0.2  1  1  1  1  0
+Fields J              0.2  3  1  1  0  1
+Blackley T (W)        1.1  0  0  0  0  1
+Veras J               1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (L)+        6.0  6  5  5  4  6
+Ross R                1.0  2  2  2  0  2
+Scheppers T           0.1  3  2  2  0  0
+Lindblom J            1.2  0  0  0  1  2
+  * Pitched to 2 batters in 6th
+  + Pitched to 1 batter in 7th
+
+DP -- Houston 1
+LOB -- Houston 8, Texas 6
+2B -- Beltre A, Wallace B 2
+HR -- Barnes B, Soto G, Castro J, Cruz N, Elmore J
+SB -- Paredes J
+CS -- Kinsler I 2
+SF -- Moreland M
+HBP -- by Ross R (Wallace B)
+WP -- Ross R
+T -- 3:50
+A -- 44272
+     Game of 7/7/2013 -- Houston at Texas (D)
+
+  Houston            AB  R  H RBI    Texas              AB  R  H RBI
+Altuve J, 2b          4  0  1  0   Kinsler I, 2b         4  1  1  0   
+Wallace B, 1b         4  0  0  0   Andrus E, ss          2  1  1  0   
+Corporan C, c         4  1  1  0   Cruz N, rf            3  1  1  1   
+Pena C, dh            2  1  0  0   Beltre A, dh          4  1  1  1   
+Carter C, ph          1  0  0  0   Pierzynski A, c       4  1  1  3   
+Krauss M, lf          4  1  1  2   Profar J, 3b          3  0  0  0   
+Martinez J, rf        4  0  3  1   Murphy D, lf          3  0  1  0   
+Barnes B, cf          3  1  1  0   Chirinos R, 1b        3  0  0  0   
+Castro J, ph          1  0  0  0   Moreland M, 1b        0  0  0  0   
+Dominguez M, 3b       3  0  1  0   Martin L, cf          3  0  1  0   
+Elmore J, ss          2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  8  3                        29  5  7  5
+
+Houston          020 110 000 --  4
+Texas            301 010 00x --  5
+
+  Houston              IP  H  R ER BB SO
+Bedard E (L)          6.1  5  5  4  5  4
+Clemens P             0.2  2  0  0  0  1
+Wright W              1.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Grimm J*              4.0  6  4  3  2  2
+Burns C (W)           1.0  0  0  0  0  1
+Soria J               1.0  0  0  0  0  0
+Frasor J              1.0  1  0  0  0  2
+Cotts N               1.0  1  0  0  0  3
+Nathan J (S)          1.0  0  0  0  0  1
+  * Pitched to 3 batters in 5th
+
+E -- Grimm J, Profar J, Altuve J
+DP -- Houston 2, Texas 2
+LOB -- Houston 3, Texas 5
+HR -- Pierzynski A, Krauss M, Beltre A
+SB -- Altuve J 2
+CS -- Barnes B, Elmore J, Profar J
+WP -- Grimm J
+T -- 3:16
+A -- 36746
+     Game of 7/19/2013 -- Baltimore at Texas (N)
+
+  Baltimore          AB  R  H RBI    Texas              AB  R  H RBI
+McLouth N, lf         4  0  2  1   Kinsler I, 2b         4  0  2  0   
+Machado M, 3b         4  1  1  0   Andrus E, ss          5  0  2  0   
+Markakis N, rf        4  0  1  1   Pierzynski A, c       4  0  0  0   
+Jones A, cf           3  0  1  0   Beltre A, 3b          4  0  0  0   
+Davis C, 1b           4  0  0  0   Baker J, dh           4  1  2  0   
+Hardy J, ss           4  0  0  0   Moreland M, 1b        3  0  0  0   
+Wieters M, c          4  1  1  1   Gentry C, cf          1  0  1  1   
+Valencia D, dh        4  0  0  0   Murphy D, ph          1  0  1  0   
+Roberts B, 2b         2  1  0  0   Profar J, lf          4  0  1  0   
+                                   Martin L, rf          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        34  1  9  1
+
+Baltimore        011 010 000 --  3
+Texas            000 100 000 --  1
+
+  Baltimore            IP  H  R ER BB SO
+Chen W (W)            6.1  8  1  1  2  3
+O'Day D               1.2  0  0  0  0  2
+Johnson J (S)         1.0  1  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Holland D (L)         8.0  6  3  3  2  6
+Frasor J              1.0  0  0  0  0  1
+
+LOB -- Baltimore 5, Texas 10
+2B -- Andrus E, McLouth N, Markakis N, Kinsler I 2, Gentry C
+HR -- Wieters M
+SB -- Baker J
+SF -- Gentry C
+HBP -- by Johnson J (Kinsler I)
+T -- 2:56
+A -- 40068
+     Game of 7/20/2013 -- Baltimore at Texas (N)
+
+  Baltimore          AB  R  H RBI    Texas              AB  R  H RBI
+McLouth N, lf         5  2  2  0   Kinsler I, 2b         4  0  0  1   
+Machado M, 3b         5  0  2  1   Profar J, dh          5  0  2  0   
+Markakis N, rf        4  1  1  0   Cruz N, rf            5  0  1  0   
+Jones A, cf           5  1  2  2   Beltre A, 3b          5  1  2  0   
+Davis C, 1b           5  1  2  1   Pierzynski A, c       5  1  3  0   
+Wieters M, c          4  1  3  0   Moreland M, 1b        4  1  1  1   
+Hardy J, ss           4  1  2  0   Andrus E, ss          4  0  1  0   
+Urrutia H, dh         4  0  1  1   Murphy D, lf          4  1  3  2   
+Roberts B, 2b         4  0  2  2   Martin L, cf          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     40  7 17  7                        40  4 14  4
+
+Baltimore        214 000 000 --  7
+Texas            000 000 130 --  4
+
+  Baltimore            IP  H  R ER BB SO
+Gonzalez M (W)        6.2  8  1  1  0  3
+Hunter T              1.1  4  3  3  0  1
+Johnson J (S)         1.0  2  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Wolf R (L)*           2.0  9  7  7  2  2
+Ortiz J               3.2  5  0  0  0  1
+Burns C               1.1  2  0  0  0  0
+Ross R                1.0  0  0  0  0  1
+Scheppers T           1.0  1  0  0  0  2
+  * Pitched to 4 batters in 3rd
+
+E -- Andrus E, Roberts B
+DP -- Baltimore 1, Texas 4
+LOB -- Baltimore 8, Texas 10
+2B -- Davis C, Martin L
+3B -- McLouth N
+HR -- Jones A
+SB -- McLouth N
+SF -- Kinsler I
+T -- 3:00
+A -- 41660
+     Game of 7/21/2013 -- Baltimore at Texas (N)
+
+  Baltimore          AB  R  H RBI    Texas              AB  R  H RBI
+McLouth N, lf         4  0  2  0   Kinsler I, 2b         4  0  2  1   
+Machado M, 3b         4  0  1  1   Gentry C, cf          3  0  1  0   
+Markakis N, rf        4  0  0  0   Cruz N, dh            4  0  0  0   
+Jones A, cf           5  0  0  0   Beltre A, 3b          4  1  1  1   
+Davis C, 1b           4  1  1  0   Pierzynski A, c       4  0  0  0   
+Wieters M, c          4  2  2  1   Moreland M, 1b        3  0  0  0   
+Hardy J, ss           4  0  2  1   Profar J, ph          0  0  0  0   
+Valencia D, dh        3  0  0  0   Andrus E, ss          2  1  1  0   
+Urrutia H, ph         1  0  0  0   Murphy D, lf          4  0  1  0   
+Roberts B, 2b         4  1  2  1   Martin L, rf          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4 10  4                        31  2  6  2
+
+Baltimore        021 100 000 --  4
+Texas            000 010 001 --  2
+
+  Baltimore            IP  H  R ER BB SO
+Tillman C (W)*        8.0  6  2  2  3  7
+Matusz B              0.1  0  0  0  1  1
+O'Day D (S)           0.2  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Perez M (L)           6.1  9  4  4  1  5
+Cotts N               0.2  0  0  0  1  1
+Soria J               1.0  0  0  0  1  0
+Burns C               1.0  1  0  0  1  0
+  * Pitched to 1 batter in 9th
+
+E -- Andrus E, Burns C
+DP -- Baltimore 1
+LOB -- Baltimore 11, Texas 6
+2B -- Davis C, Wieters M, Hardy J, Kinsler I, Roberts B, Gentry C
+HR -- Beltre A
+CS -- Machado M
+SH -- McLouth N
+WP -- Perez M
+T -- 3:05
+A -- 39907
+     Game of 7/22/2013 -- New York at Texas (N)
+
+  New York           AB  R  H RBI    Texas              AB  R  H RBI
+Gardner B, cf         3  0  0  0   Kinsler I, 2b         3  1  0  0   
+Suzuki I, rf          4  0  1  0   Moreland M, 1b        4  0  0  0   
+Cano R, 2b            4  0  0  0   Cruz N, rf            4  1  2  1   
+Overbay L, 1b         4  0  2  0   Beltre A, 3b          4  0  1  1   
+Wells V, lf           2  0  0  0   Pierzynski A, dh      4  0  2  0   
+Hafner T, dh          2  0  0  0   Andrus E, ss          3  1  1  0   
+Nunez E, ss           3  0  0  0   Murphy D, lf          4  0  0  0   
+Stewart C, c          3  0  0  0   Soto G, c             3  0  1  1   
+Cruz L, 3b            3  0  0  0   Martin L, cf          2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     28  0  3  0                        31  3  8  3
+
+New York         000 000 000 --  0
+Texas            100 001 10x --  3
+
+  New York             IP  H  R ER BB SO
+Nova I (L)            7.0  7  3  3  3  4
+Chamberlain J         1.0  1  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (W)         6.1  2  0  0  2  4
+Ross R                0.2  0  0  0  0  0
+Scheppers T           1.0  0  0  0  0  1
+Nathan J (S)          1.0  1  0  0  0  1
+
+DP -- Texas 2
+LOB -- New York 4, Texas 8
+2B -- Soto G
+HR -- Cruz N
+SB -- Kinsler I, Andrus E 2
+CS -- Martin L
+HBP -- by Darvish Y (Gardner B), by Nova I (Martin L)
+T -- 2:43
+A -- 42058
+     Game of 7/23/2013 -- New York at Texas (N)
+
+  New York           AB  R  H RBI    Texas              AB  R  H RBI
+Gardner B, cf         4  0  1  0   Kinsler I, 2b         4  0  1  0   
+Suzuki I, rf          4  0  1  1   Profar J, 3b          2  0  0  0   
+Cano R, 2b            4  0  0  0   Cruz N, rf            4  1  0  0   
+Overbay L, 1b         4  0  0  0   Beltre A, dh          3  1  1  1   
+Wells V, dh           3  2  1  0   Pierzynski A, c       4  0  0  0   
+Nunez E, ss           4  1  2  1   Andrus E, ss          4  1  1  1   
+Lillibridge B, 3b     4  0  1  2   Moreland M, 1b        3  1  1  2   
+Mesa M, lf            4  1  1  0   Gentry C, cf          3  0  1  0   
+Romine A, c           3  1  1  1   Martin L, ph          1  0  0  0   
+Hafner T, ph          1  0  0  0   Beltre E, lf          2  0  1  0   
+Stewart C, c          0  0  0  0   Baker J, ph           0  0  0  0   
+                                   Murphy D, ph-lf       2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5  8  5                        32  4  6  4
+
+New York         002 100 002 --  5
+Texas            000 004 000 --  4
+
+  New York             IP  H  R ER BB SO
+Hughes P              5.2  4  3  0  3  1
+Logan B*              0.0  2  1  1  0  0
+Claiborne P           1.1  0  0  0  0  1
+Chamberlain J (W)     1.0  0  0  0  0  0
+Rivera M (S)          1.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Ogando A              5.0  6  3  3  0  2
+Wolf R                1.0  0  0  0  0  2
+Frasor J              1.0  0  0  0  0  1
+Cotts N               1.0  0  0  0  0  0
+Nathan J (L)          0.2  2  2  2  1  1
+Ross R                0.1  0  0  0  0  0
+  * Pitched to 2 batters in 6th
+
+E -- Lillibridge B
+DP -- New York 1, Texas 1
+LOB -- New York 4, Texas 5
+2B -- Kinsler I, Mesa M, Romine A, Beltre E, Wells V, Beltre A, Gentry C
+3B -- Nunez E
+HR -- Moreland M
+SB -- Lillibridge B
+SH -- Profar J
+WP -- Nathan J
+T -- 3:00
+A -- 42739
+     Game of 7/24/2013 -- New York at Texas (N)
+
+  New York           AB  R  H RBI    Texas              AB  R  H RBI
+Gardner B, cf         4  1  2  0   Kinsler I, 2b         4  1  1  0   
+Suzuki I, rf          4  0  1  0   Andrus E, ss          3  0  1  0   
+Cano R, 2b            4  0  2  1   Cruz N, rf            3  0  1  0   
+Overbay L, 1b         4  0  0  0   Beltre A, 3b          4  0  0  0   
+Wells V, dh           4  0  1  0   Pierzynski A, dh      4  1  2  2   
+Nunez E, ss           4  0  0  0   Baker J, lf           3  0  1  0   
+Lillibridge B, 3b     3  0  0  0   Murphy D, lf          1  1  1  1   
+Mesa M, lf            3  0  0  0   Moreland M, 1b        4  0  0  0   
+Stewart C, c          2  0  0  0   Soto G, c             3  0  1  0   
+Hafner T, ph          1  0  0  0   Gentry C, cf          3  0  1  0   
+Romine A, c           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        32  3  9  3
+
+New York         000 001 000 --  1
+Texas            100 001 01x --  3
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)*       6.0  8  2  2  1  2
+Kelley S              2.0  1  1  1  1  0
+
+  Texas                IP  H  R ER BB SO
+Garza M (W)           7.1  5  1  0  0  5
+Cotts N               1.1  0  0  0  0  1
+Nathan J (S)          0.1  1  0  0  0  0
+  * Pitched to 2 batters in 7th
+
+E -- Garza M, Beltre A
+DP -- Texas 1
+LOB -- New York 5, Texas 8
+2B -- Baker J
+HR -- Pierzynski A, Murphy D
+SB -- Gardner B, Suzuki I, Gentry C
+SH -- Andrus E
+T -- 2:43
+A -- 42360
+     Game of 7/25/2013 -- New York at Texas (D)
+
+  New York           AB  R  H RBI    Texas              AB  R  H RBI
+Suzuki I, rf          4  0  1  0   Kinsler I, 2b         4  0  1  0   
+Lillibridge B, 3b     4  0  1  1   Andrus E, dh          4  0  2  0   
+Cano R, dh            4  1  1  0   Cruz N, rf            3  0  0  0   
+Wells V, lf           3  0  1  0   Beltre A, 3b          4  0  1  0   
+Gardner B, cf         0  0  0  0   Pierzynski A, c       4  0  0  0   
+Nunez E, ss           4  0  1  1   Moreland M, 1b        4  0  0  0   
+Adams D, 2b           4  0  1  0   Profar J, ss          3  0  2  0   
+Overbay L, 1b         4  0  0  0   Murphy D, lf          3  0  0  0   
+Mesa M, cf-lf         3  0  1  0   Martin L, cf          3  0  1  0   
+Romine A, c           4  1  3  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  2 10  2                        32  0  7  0
+
+New York         000 001 010 --  2
+Texas            000 000 000 --  0
+
+  New York             IP  H  R ER BB SO
+Kuroda H (W)          7.0  6  0  0  1  3
+Robertson D           1.0  0  0  0  0  1
+Rivera M (S)          1.0  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Holland D (L)         7.1  8  2  2  1  2
+Scheppers T           0.2  1  0  0  0  0
+Soria J               1.0  1  0  0  1  1
+
+E -- Beltre A
+DP -- New York 1, Texas 1
+LOB -- New York 8, Texas 6
+2B -- Nunez E, Romine A 2, Lillibridge B, Cano R
+CS -- Mesa M, Kinsler I, Nunez E
+SH -- Suzuki I
+T -- 2:56
+A -- 35139
+     Game of 7/29/2013 -- Anaheim at Texas (N)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Aybar E, ss           4  1  0  0   Martin L, cf          4  1  1  0   
+Calhoun K, rf         5  0  1  0   Andrus E, ss          4  1  1  0   
+Trout M, cf           2  1  2  0   Kinsler I, 2b         3  0  1  2   
+Hamilton J, lf        4  0  2  2   Beltre A, 3b          4  0  2  0   
+Trumbo M, 1b          4  0  0  0   Pierzynski A, dh      4  1  1  1   
+Kendrick H, 2b        4  0  1  0   Cruz N, rf            3  0  1  0   
+Callaspo A, 3b        3  0  0  0   Murphy D, lf          4  0  0  0   
+Conger H, c           4  0  0  0   Soto G, c             4  1  2  1   
+Shuck J, dh           4  1  1  1   Moreland M, 1b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  7  3                        33  4  9  4
+
+Anaheim          000 030 000 --  3
+Texas            000 001 012 --  4
+  2 outs when winning run was scored.
+
+  Anaheim              IP  H  R ER BB SO
+Weaver J              7.0  5  1  1  1  6
+DeLaRosa D            1.0  1  1  0  0  0
+Frieri E (L)          0.2  3  2  2  0  0
+
+  Texas                IP  H  R ER BB SO
+Garza M               7.0  5  3  3  3  6
+Cotts N               1.0  2  0  0  1  2
+Frasor J (W)          1.0  0  0  0  0  2
+
+E -- Conger H
+DP -- Anaheim 1
+LOB -- Anaheim 8, Texas 5
+2B -- Trout M, Soto G
+HR -- Shuck J, Pierzynski A, Soto G
+SB -- Andrus E
+SF -- Kinsler I
+WP -- Garza M
+T -- 3:04
+A -- 36282
+     Game of 7/30/2013 -- Anaheim at Texas (N)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Aybar E, ss           6  1  1  1   Martin L, lf-cf       7  1  2  3   
+Cowgill C, rf-lf      6  2  2  1   Andrus E, ss          4  1  2  1   
+Trout M, cf           4  3  4  1   Kinsler I, 2b         5  3  2  1   
+Trumbo M, 1b          5  2  1  2   Beltre A, 3b          5  0  3  2   
+Kendrick H, 2b        3  1  2  2   Pierzynski A, dh      6  0  2  0   
+Hamilton J, dh        5  0  2  4   Cruz N, rf            3  1  2  1   
+Callaspo A, 3b        1  0  0  0   Beltre E, pr-rf       1  1  0  0   
+Field T, 3b           4  0  0  0   Baker J, 1b           4  1  1  0   
+Iannetta C, c         4  0  1  0   Moreland M, 1b        1  2  1  0   
+Calhoun K, pr-rf      1  1  0  0   Soto G, c             4  2  2  3   
+Shuck J, lf           4  1  2  0   Gentry C, cf          3  0  1  2   
+Conger H, c           1  0  1  0   Murphy D, ph-lf       3  2  1  0   
+                     -- -- -- --                        -- -- -- --
+                     44 11 16 11                        46 14 19 13
+
+Anaheim          201 010 340 0 -- 11
+Texas            203 100 131 3 -- 14
+  1 out when winning run was scored.
+
+  Anaheim              IP  H  R ER BB SO
+Wilson C              4.0 11  6  6  3  6
+Gutierrez J           1.0  0  0  0  1  1
+Kohn M                1.0  0  0  0  1  1
+Jepsen K              1.0  2  1  1  0  0
+DeLaRosa D            0.2  3  3  3  1  0
+Maronde N             0.2  0  0  0  0  2
+Frieri E              0.2  2  1  1  1  1
+Stange D (L)          0.1  1  3  3  2  0
+
+  Texas                IP  H  R ER BB SO
+Holland D             6.0  8  4  4  2  6
+Soria J               0.2  1  3  3  2  1
+Ross R                0.1  1  0  0  0  1
+Scheppers T           1.0  5  4  1  1  0
+Frasor J              1.0  1  0  0  0  0
+Nathan J (W)          1.0  0  0  0  2  1
+
+E -- Scheppers T
+DP -- Anaheim 1, Texas 1
+LOB -- Anaheim 11, Texas 13
+2B -- Andrus E, Baker J, Trout M, Hamilton J, Murphy D, Iannetta C, Conger H
+3B -- Kinsler I
+HR -- Trumbo M, Cowgill C, Soto G, Martin L
+SB -- Gentry C, Aybar E, Andrus E, Kinsler I
+SH -- Kendrick H
+WP -- Wilson C 2, Scheppers T
+Balk -- Holland D
+T -- 4:46
+A -- 36931
+     Game of 7/31/2013 -- Anaheim at Texas (N)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Aybar E, ss           3  0  1  0   Martin L, cf          4  0  2  0   
+Cowgill C, rf         3  0  0  0   Andrus E, ss          3  0  1  0   
+Calhoun K, ph-rf      1  0  0  0   Kinsler I, 2b         4  0  0  0   
+Trout M, cf           3  0  0  0   Beltre A, 3b          4  1  2  1   
+Trumbo M, 1b          4  0  0  0   Pierzynski A, dh      3  0  0  0   
+Kendrick H, 2b        4  0  1  0   Cruz N, rf            3  1  2  1   
+Hamilton J, lf        2  1  1  1   Murphy D, lf          3  0  0  0   
+Nelson C, 3b          4  0  0  0   Soto G, c             2  0  1  0   
+Iannetta C, c         3  0  0  0   Moreland M, 1b        3  0  1  0   
+Shuck J, dh           3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        29  2  9  2
+
+Anaheim          000 000 100 --  1
+Texas            010 000 001 --  2
+  0 outs when winning run was scored.
+
+  Anaheim              IP  H  R ER BB SO
+Williams J            7.2  8  1  1  2  1
+Kohn M (L)            0.1  1  1  1  0  0
+
+  Texas                IP  H  R ER BB SO
+Perez M               7.1  4  1  1  2  4
+Scheppers T           0.2  0  0  0  1  1
+Nathan J (W)          1.0  0  0  0  1  2
+
+E -- Aybar E
+DP -- Anaheim 1
+LOB -- Anaheim 7, Texas 5
+HR -- Cruz N, Hamilton J, Beltre A
+CS -- Soto G
+SH -- Aybar E
+T -- 2:30
+A -- 39391
+     Game of 8/1/2013 -- Arizona at Texas (N)
+
+  Arizona            AB  R  H RBI    Texas              AB  R  H RBI
+Parra G, rf           4  0  0  0   Martin L, cf-rf       5  0  1  2   
+Eaton A, cf           4  0  1  0   Andrus E, dh          4  1  1  0   
+Goldschmidt P, 1b     4  0  0  0   Kinsler I, 2b         3  1  1  0   
+Chavez E, 3b          3  0  1  0   Beltre A, 3b          4  0  0  0   
+Pennington C, 2b      1  0  0  0   Pierzynski A, c       4  1  3  3   
+Ross C, lf            4  1  2  0   Cruz N, rf            3  0  0  0   
+Prado M, 2b-3b        4  0  2  1   Gentry C, ph-cf       1  0  0  0   
+Kubel J, dh           4  0  0  0   Murphy D, lf          4  1  3  1   
+Gregorius D, ss       3  0  1  0   Profar J, ss          4  1  1  0   
+Gosewisch T, c        3  0  1  0   Moreland M, 1b        3  2  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  1  8  1                        35  7 11  7
+
+Arizona          000 000 001 --  1
+Texas            011 300 20x --  7
+
+  Arizona              IP  H  R ER BB SO
+Spruill Z (L)         4.0  7  5  5  0  3
+Collmenter J          2.0  1  0  0  0  2
+Sipp T                1.0  2  2  0  1  0
+Hernandez D           1.0  1  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (W)         7.0  5  0  0  0 14
+Cotts N               1.0  1  0  0  0  0
+Soria J               1.0  2  1  1  0  0
+
+E -- Sipp T
+DP -- Texas 1
+LOB -- Arizona 6, Texas 6
+2B -- Martin L, Andrus E, Murphy D
+HR -- Pierzynski A, Moreland M, Murphy D
+SB -- Ross C, Pierzynski A
+HBP -- by Spruill Z (Moreland M)
+T -- 2:47
+A -- 41569
+     Game of 8/13/2013 -- Milwaukee at Texas (N)
+
+  Milwaukee          AB  R  H RBI    Texas              AB  R  H RBI
+Aoki N, rf            4  0  0  0   Martin L, cf          4  0  2  0   
+Segura J, ss          4  1  2  0   Andrus E, ss          4  0  0  0   
+Lucroy J, c           3  0  1  0   Kinsler I, 2b         4  0  1  0   
+Ramirez A, 3b         3  0  0  0   Beltre A, 3b          3  0  0  0   
+Bianchi J, 3b         1  0  0  0   Pierzynski A, c       4  0  0  0   
+Gomez C, cf           3  0  1  0   Rios A, rf            4  0  1  0   
+Francisco J, 1b       3  0  0  0   Moreland M, 1b        2  1  2  1   
+Davis K, dh           4  1  1  1   Gentry C, ph-lf       2  0  1  0   
+Schafer L, lf         3  1  0  0   Profar J, dh          4  0  1  0   
+Gennett S, 2b         4  2  2  3   Murphy D, lf          2  0  0  0   
+                                   Baker J, ph-1b        1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  7  4                        34  1  9  1
+
+Milwaukee        001 020 110 --  5
+Texas            001 000 000 --  1
+
+  Milwaukee            IP  H  R ER BB SO
+Estrada M (W)         6.0  4  1  1  0  2
+Kintzler B            1.0  1  0  0  0  1
+Gonzalez M            0.1  3  0  0  0  1
+Wooten R              0.1  0  0  0  0  1
+Henderson J (S)       1.1  1  0  0  1  1
+
+  Texas                IP  H  R ER BB SO
+Ogando A (L)          6.1  6  4  4  2  3
+Cotts N               1.0  0  0  0  0  1
+Soria J               0.2  1  1  1  1  1
+Ross R                1.0  0  0  0  0  1
+
+E -- Gomez C
+DP -- Milwaukee 1, Texas 2
+LOB -- Milwaukee 4, Texas 7
+HR -- Gennett S 2, Moreland M, Davis K
+SB -- Segura J 2, Lucroy J
+CS -- Martin L
+HBP -- by Soria J (Gomez C)
+WP -- Estrada M, Soria J
+T -- 2:52
+A -- 38516
+     Game of 8/14/2013 -- Milwaukee at Texas (N)
+
+  Milwaukee          AB  R  H RBI    Texas              AB  R  H RBI
+Aoki N, rf            5  0  1  0   Martin L, cf          4  0  0  0   
+Segura J, ss          4  0  1  0   Andrus E, ss          3  0  2  2   
+Lucroy J, c           2  0  1  0   Kinsler I, 2b         4  1  2  2   
+Ramirez A, dh         3  1  0  0   Beltre A, dh          3  0  1  1   
+Gomez C, cf           4  1  2  0   Pierzynski A, c       3  0  1  0   
+Francisco J, 1b       4  2  2  4   Rios A, rf            4  0  1  0   
+Gennett S, 2b         4  0  2  0   Moreland M, 1b        2  0  0  0   
+Bianchi J, 3b         3  0  0  0   Gentry C, ph-lf       1  1  0  0   
+Schafer L, lf         4  0  0  0   Profar J, 3b          3  1  0  0   
+                                   Murphy D, lf          2  1  0  0   
+                                   Baker J, ph-1b        0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  9  4                        29  5  7  5
+
+Milwaukee        010 300 000 --  4
+Texas            101 000 30x --  5
+
+  Milwaukee            IP  H  R ER BB SO
+Thornburg T           6.0  5  2  1  3  2
+Gonzalez M*           0.0  0  2  2  2  0
+Axford J (L)          0.1  1  1  1  1  1
+Badenhop B            1.2  1  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Garza M               5.2  8  4  4  2  4
+Cotts N+              0.1  1  0  0  0  0
+Frasor J (W)          1.0  0  0  0  1  1
+Scheppers T           1.0  0  0  0  0  2
+Nathan J (S)          1.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+  + Pitched to 1 batter in 7th
+
+E -- Gennett S
+DP -- Milwaukee 1
+LOB -- Milwaukee 6, Texas 6
+2B -- Kinsler I, Gomez C
+HR -- Francisco J 2
+SB -- Rios A, Gentry C
+CS -- Andrus E, Aoki N
+HBP -- by Garza M (Ramirez A)
+Balk -- Thornburg T
+T -- 3:12
+A -- 37729
+     Game of 8/16/2013 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Miller B, ss          4  0  0  0   Martin L, cf          3  0  0  0   
+Franklin N, 2b        3  1  0  0   Andrus E, ss          2  0  0  0   
+Seager K, 3b          3  1  1  2   Kinsler I, 2b         3  1  0  0   
+Morales K, dh         4  0  0  0   Beltre A, 3b          2  0  2  0   
+Morse M, rf           4  0  0  0   Pierzynski A, c       4  0  1  1   
+Saunders M, rf-lf     0  0  0  0   Rios A, rf            4  0  1  0   
+Ibanez R, lf          3  0  0  0   Moreland M, 1b        4  0  0  0   
+Chavez E, rf          0  0  0  0   Profar J, dh          4  0  0  0   
+Smoak J, 1b           3  1  2  1   Murphy D, lf          2  0  0  0   
+Ackley D, cf          4  0  0  0   Gentry C, ph-lf       0  0  0  0   
+Quintero H, c         4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  4  3                        28  1  4  1
+
+Seattle          000 000 021 --  3
+Texas            000 100 000 --  1
+
+  Seattle              IP  H  R ER BB SO
+Iwakuma H (W)         7.0  4  1  1  3  8
+Perez O*              0.0  0  0  0  1  0
+Medina Y              0.2  0  0  0  1  1
+Furbush C             0.1  0  0  0  0  0
+Farquhar D (S)        1.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Holland D             7.0  2  0  0  3  6
+Cotts N (L)           0.2  1  2  2  1  1
+Scheppers T           1.1  1  1  1  0  2
+  * Pitched to 2 batters in 8th
+
+E -- Kinsler I
+LOB -- Seattle 6, Texas 7
+HR -- Seager K, Smoak J
+SB -- Rios A
+SH -- Andrus E
+HBP -- by Perez O (Martin L)
+PB -- Pierzynski A
+T -- 2:59
+A -- 37596
+     Game of 8/17/2013 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Miller B, 2b          4  1  2  0   Martin L, cf          4  1  1  2   
+Seager K, 3b          4  1  2  2   Andrus E, ss          4  1  1  1   
+Morales K, dh         4  0  0  0   Rosales A, ph-ss      1  0  0  1   
+Morse M, rf           4  0  0  0   Kinsler I, 2b         5  1  2  1   
+Ibanez R, lf          4  0  1  0   Beltre A, 3b          4  2  2  1   
+Smoak J, 1b           4  0  1  0   Baker J, ph-3b        1  0  0  0   
+Ackley D, cf          4  1  3  0   Rios A, rf            6  2  2  0   
+Ryan B, ss            4  0  1  1   Moreland M, 1b        2  3  1  1   
+Blanco H, c           2  0  0  0   Soto G, c             4  1  0  0   
+                                   Profar J, dh          4  2  2  2   
+                                   Murphy D, lf          3  1  2  2   
+                                   Gentry C, ph-lf       2  1  1  3   
+                     -- -- -- --                        -- -- -- --
+                     34  3 10  3                        40 15 14 14
+
+Seattle          111 000 000 --  3
+Texas            050 000 28x -- 15
+
+  Seattle              IP  H  R ER BB SO
+Hernandez F (L)       5.0  5  5  5  5  4
+Luetge L*             0.0  1  0  0  0  0
+Capps C               1.2  1  2  2  1  0
+Perez O               0.2  5  6  6  2  1
+Furbush C             0.2  2  2  1  0  1
+
+  Texas                IP  H  R ER BB SO
+Perez M (W)+          7.0  8  3  3  1  5
+Cotts N               1.0  0  0  0  0  1
+Wolf R                1.0  2  0  0  0  0
+  * Pitched to 3 batters in 6th
+  + Pitched to 1 batter in 8th
+
+E -- Ryan B 2
+DP -- Texas 2
+LOB -- Seattle 5, Texas 11
+2B -- Miller B, Murphy D, Ibanez R, Gentry C, Kinsler I
+HR -- Seager K
+SB -- Ackley D, Andrus E, Profar J
+CS -- Kinsler I
+SH -- Martin L
+HBP -- by Luetge L (Martin L)
+WP -- Capps C
+PB -- Soto G
+T -- 3:25
+A -- 44247
+     Game of 8/18/2013 -- Seattle at Texas (D)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Miller B, ss          5  0  0  0   Gentry C, cf-lf       3  2  1  0   
+Franklin N, 2b        3  1  0  0   Andrus E, dh          4  0  1  1   
+Seager K, 3b          4  1  1  1   Kinsler I, 2b         3  0  0  0   
+Morales K, dh         4  0  1  0   Beltre A, 3b          4  0  1  1   
+Smoak J, 1b           4  0  0  0   Pierzynski A, c       4  1  1  0   
+Saunders M, cf-rf     4  1  3  1   Rios A, rf            4  0  0  0   
+Ackley D, lf-cf       4  0  2  1   Moreland M, 1b        2  0  0  1   
+Chavez E, rf          3  1  1  1   Profar J, ss          3  0  1  0   
+Ibanez R, lf          0  0  0  0   Murphy D, lf          3  0  0  0   
+Quintero H, c         3  0  2  0   Martin L, cf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4 10  4                        30  3  5  3
+
+Seattle          000 011 011 --  4
+Texas            000 011 010 --  3
+
+  Seattle              IP  H  R ER BB SO
+Ramirez E             7.0  4  2  1  1  2
+Medina Y (W)          1.0  1  1  1  1  1
+Farquhar D (S)        1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Darvish Y             7.1  7  3  3  4  7
+Ross R                0.2  1  0  0  0  0
+Nathan J (L)          1.0  2  1  1  2  1
+
+E -- Seager K, Quintero H
+DP -- Seattle 1, Texas 1
+LOB -- Seattle 10, Texas 3
+2B -- Pierzynski A, Saunders M, Andrus E, Seager K
+SB -- Saunders M, Gentry C
+CS -- Andrus E
+SH -- Quintero H
+SF -- Moreland M
+WP -- Darvish Y
+T -- 3:00
+A -- 40832
+     Game of 8/19/2013 -- Houston at Texas (N)
+
+  Houston            AB  R  H RBI    Texas              AB  R  H RBI
+Grossman R, cf        5  1  1  2   Martin L, cf-rf       4  3  3  2   
+Wallace B, 1b         4  0  1  1   Andrus E, ss          4  3  2  1   
+Altuve J, 2b          3  0  1  0   Rosales A, ss         0  0  0  0   
+Gonzalez M, pr-2b     1  0  0  0   Kinsler I, dh         3  1  1  3   
+Castro J, dh-c        3  1  2  0   Beltre A, 3b          2  1  0  1   
+Carter C, lf          4  0  1  1   Baker J, 3b           1  0  0  0   
+Dominguez M, 3b       4  1  1  0   Pierzynski A, c       5  2  4  4   
+Corporan C, c         1  0  0  0   Rios A, rf            4  1  1  0   
+Elmore J, c-p         2  1  1  0   Gentry C, ph-cf       1  0  0  0   
+Hoes L, rf            4  1  1  1   Moreland M, 1b        5  1  1  2   
+Villar J, ss          4  0  0  0   Profar J, 2b          4  2  1  0   
+                                   Murphy D, lf          5  2  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  5                        38 16 14 14
+
+Houston          010 000 400 --  5
+Texas            20(11) 101 10x -- 16
+
+  Houston              IP  H  R ER BB SO
+Harrell L (L)         2.1  7  9  7  3  2
+LeBlanc W             2.2  5  5  1  2  1
+Humber P              2.0  2  2  2  0  0
+Elmore J              1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Garza M (W)           6.2  8  5  5  1  8
+Ross R                1.1  1  0  0  1  1
+Soria J               1.0  0  0  0  0  1
+
+E -- Villar J, Dominguez M
+DP -- Texas 1
+LOB -- Houston 5, Texas 5
+2B -- Castro J, Carter C, Moreland M, Murphy D, Pierzynski A, Profar J, Dominguez M, Grossman R, Wallace B
+HR -- Pierzynski A
+SB -- Andrus E 2, Beltre A
+SH -- Kinsler I
+SF -- Kinsler I
+WP -- Garza M
+T -- 3:06
+A -- 32113
+     Game of 8/20/2013 -- Houston at Texas (N)
+
+  Houston            AB  R  H RBI    Texas              AB  R  H RBI
+Grossman R, lf        4  0  2  0   Martin L, cf          4  0  0  0   
+Hoes L, rf            4  0  0  0   Andrus E, ss          3  1  1  0   
+Altuve J, 2b          4  0  0  0   Kinsler I, 2b         3  1  2  0   
+Castro J, c           4  0  1  0   Beltre A, dh          4  2  2  2   
+Carter C, 1b          3  1  0  0   Pierzynski A, c       3  0  0  0   
+Dominguez M, 3b       4  1  1  2   Rios A, rf            4  0  1  1   
+Stassi M, dh          3  0  2  0   Moreland M, 1b        3  0  0  0   
+Barnes B, cf          3  0  0  0   Profar J, 3b          2  0  0  0   
+Gonzalez M, ss        3  0  0  0   Murphy D, lf          2  0  0  0   
+                                   Gentry C, ph-lf       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        29  4  6  3
+
+Houston          020 000 000 --  2
+Texas            010 002 01x --  4
+
+  Houston              IP  H  R ER BB SO
+Cosart J (L)          6.0  4  3  3  3  3
+Chapman K             1.1  0  0  0  0  0
+Zeid J                0.2  2  1  1  1  1
+
+  Texas                IP  H  R ER BB SO
+Blackley T            4.0  3  2  2  1  2
+Frasor J              1.2  1  0  0  0  2
+Cotts N (W)           1.1  1  0  0  0  3
+Scheppers T           1.0  1  0  0  0  0
+Nathan J (S)          1.0  0  0  0  0  3
+
+E -- Frasor J
+DP -- Texas 1
+LOB -- Houston 4, Texas 5
+2B -- Beltre A
+HR -- Dominguez M, Beltre A
+SB -- Rios A, Kinsler I, Andrus E
+CS -- Profar J
+WP -- Blackley T, Cosart J, Zeid J
+T -- 3:05
+A -- 39009
+     Game of 8/21/2013 -- Houston at Texas (N)
+
+  Houston            AB  R  H RBI    Texas              AB  R  H RBI
+Grossman R, lf-cf     5  0  1  0   Martin L, cf          2  0  0  0   
+Hoes L, rf            4  0  2  0   Andrus E, ss          3  0  0  2   
+Altuve J, 2b          5  1  1  0   Kinsler I, 2b         4  1  2  1   
+Castro J, c           3  3  2  1   Beltre A, 3b          4  0  2  0   
+Carter C, 1b-lf       3  0  1  1   Pierzynski A, c       4  0  0  0   
+Dominguez M, 3b       2  0  0  0   Rios A, rf            3  0  1  0   
+Stassi M, dh          3  0  0  1   Baker J, 1b           2  0  0  0   
+Keuchel D, pr         0  0  0  0   Moreland M, 1b        1  0  1  0   
+Barnes B, cf          2  0  0  0   Rosales A, pr         0  1  0  0   
+Wallace B, ph-1b      1  0  0  0   Profar J, dh          3  0  0  0   
+Gonzalez M, ss        4  0  1  0   Gentry C, lf          3  3  1  1   
+                     -- -- -- --                        -- -- -- --
+                     32  4  8  3                        29  5  7  4
+
+Houston          010 000 120 --  4
+Texas            002 010 101 --  5
+  2 outs when winning run was scored.
+
+  Houston              IP  H  R ER BB SO
+Bedard E              4.1  5  3  2  4  2
+Martinez D            2.2  1  1  0  0  1
+Lo C (L)              1.2  1  1  1  2  0
+
+  Texas                IP  H  R ER BB SO
+Holland D*            6.0  4  2  2  3  5
+Soria J               1.0  0  0  0  1  0
+Scheppers T           0.2  3  2  2  1  0
+Frasor J              0.1  0  0  0  0  1
+Nathan J (W)          1.0  1  0  0  0  2
+  * Pitched to 3 batters in 7th
+
+E -- Grossman R, Gonzalez M
+DP -- Houston 2, Texas 2
+LOB -- Houston 8, Texas 7
+2B -- Gonzalez M
+HR -- Castro J, Gentry C
+SB -- Rios A
+CS -- Altuve J
+SH -- Martin L, Andrus E
+SF -- Andrus E
+HBP -- by Scheppers T (Dominguez M), by Scheppers T (Stassi M)
+WP -- Scheppers T 2
+T -- 3:22
+A -- 38699
+     Game of 8/30/2013 -- Minnesota at Texas (N)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Dozier B, 2b          3  1  0  0   Martin L, cf          3  0  0  0   
+Herrmann C, c         4  1  1  2   Andrus E, ss          4  0  0  0   
+Morneau J, 1b         4  1  1  1   Kinsler I, 2b         4  1  1  0   
+Willingham J, lf      3  0  1  0   Beltre A, 3b          4  0  0  0   
+Doumit R, dh          4  0  0  0   Pierzynski A, c       4  0  1  1   
+Plouffe T, 3b         3  0  1  0   Rios A, rf            3  0  1  0   
+Thomas C, cf          3  0  1  0   Moreland M, 1b        2  0  0  0   
+Mastroianni D, rf     3  0  0  0   Baker J, ph           1  0  0  0   
+Florimon P, ss        3  0  1  0   Profar J, dh          4  1  1  1   
+                                   Murphy D, lf          2  0  1  0   
+                                   Gentry C, ph-lf       1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  3  6  3                        32  2  6  2
+
+Minnesota        000 000 300 --  3
+Texas            001 100 000 --  2
+
+  Minnesota            IP  H  R ER BB SO
+Hendriks L (W)        6.0  5  2  1  3  2
+Duensing B            0.2  1  0  0  0  0
+Roenicke J            0.1  0  0  0  0  0
+Burton J              1.0  0  0  0  0  0
+Perkins G (S)         1.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (L)         6.2  3  3  3  2 11
+Cotts N               0.1  1  0  0  0  0
+Scheppers T           1.0  1  0  0  0  1
+Ross R                1.0  1  0  0  0  1
+
+E -- Herrmann C
+DP -- Minnesota 1, Texas 1
+LOB -- Minnesota 2, Texas 6
+2B -- Murphy D, Plouffe T
+3B -- Gentry C
+HR -- Profar J, Herrmann C, Morneau J
+SB -- Kinsler I, Rios A
+CS -- Florimon P
+T -- 2:45
+A -- 34815
+     Game of 8/31/2013 -- Minnesota at Texas (N)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Dozier B, 2b          4  1  2  1   Martin L, cf          5  0  1  1   
+Herrmann C, c         3  0  0  0   Andrus E, dh          1  0  1  0   
+Willingham J, lf      4  0  0  0   Rosales A, pr         3  1  1  0   
+Doumit R, dh          3  0  0  0   Kinsler I, 2b         4  0  1  0   
+Plouffe T, 3b         4  0  1  0   Beltre A, 3b          3  0  1  1   
+Bernier D, pr-3b      0  0  0  0   Pierzynski A, c       4  0  2  0   
+Colabello C, 1b       3  0  0  0   Rios A, rf            4  1  1  0   
+Thomas C, cf          3  0  2  0   Moreland M, 1b        3  0  0  0   
+Mastroianni D, rf     2  0  0  0   Baker J, ph           0  0  0  0   
+Florimon P, ss        3  0  0  0   Profar J, ss          4  0  1  0   
+                                   Murphy D, lf          3  0  0  0   
+                                   Gentry C, ph          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  1  5  1                        34  2  9  2
+
+Minnesota        100 000 000 --  1
+Texas            100 000 001 --  2
+  2 outs when winning run was scored.
+
+  Minnesota            IP  H  R ER BB SO
+Pelfrey M             7.0  6  1  1  0  7
+Fien C                1.0  1  0  0  0  2
+Thielbar C (L)        0.2  1  1  1  1  0
+Roenicke J*           0.0  0  0  0  1  0
+Duensing B            0.0  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Garza M               7.0  3  1  1  3  9
+Frasor J              1.0  1  0  0  0  0
+Nathan J (W)          1.0  1  0  0  0  2
+  * Pitched to 1 batter in 9th
+
+DP -- Texas 1
+LOB -- Minnesota 5, Texas 9
+2B -- Rios A
+HR -- Dozier B
+CS -- Herrmann C
+SH -- Mastroianni D
+SF -- Beltre A
+T -- 3:02
+A -- 36041
+     Game of 9/1/2013 -- Minnesota at Texas (D)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Presley A, cf         4  1  3  1   Martin L, cf          4  0  1  0   
+Mastroianni D, rf     3  0  1  0   Profar J, ss          4  0  0  0   
+Dozier B, 2b          4  0  1  0   Kinsler I, 2b         4  0  0  0   
+Willingham J, dh      4  0  2  0   Beltre A, dh          4  0  1  0   
+Plouffe T, 3b         4  0  1  0   Rios A, rf            4  0  1  0   
+Colabello C, 1b       4  0  1  0   Adduci J, lf          2  0  1  0   
+Thomas C, lf          3  1  0  0   Gentry C, ph          1  0  0  0   
+Pinto J, c            4  1  2  1   Baker J, 3b           3  0  0  0   
+Bernier D, ss         4  1  1  1   Moreland M, 1b        3  1  1  1   
+                                   Soto G, c             2  0  1  0   
+                                   Pierzynski A, ph-c    1  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  4 12  3                        32  2  7  2
+
+Minnesota        000 030 010 --  4
+Texas            001 000 010 --  2
+
+  Minnesota            IP  H  R ER BB SO
+Correia K (W)         7.0  5  1  1  1  2
+Burton J              1.0  2  1  1  0  0
+Perkins G (S)         1.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Blackley T (L)        4.1  8  3  3  0  4
+Feliz N               1.2  1  0  0  0  2
+Ortiz J*              1.0  1  1  1  0  1
+Soria J               1.0  1  0  0  0  2
+Ross R                1.0  1  0  0  1  0
+  * Pitched to 1 batter in 8th
+
+E -- Profar J
+DP -- Minnesota 2, Texas 2
+LOB -- Minnesota 5, Texas 4
+2B -- Dozier B, Soto G, Pinto J, Bernier D
+HR -- Moreland M, Pierzynski A
+SB -- Mastroianni D, Rios A, Martin L
+CS -- Presley A
+SH -- Mastroianni D
+WP -- Blackley T 2
+T -- 2:59
+A -- 36549
+     Game of 9/9/2013 -- Pittsburgh at Texas (N)
+
+  Pittsburgh         AB  R  H RBI    Texas              AB  R  H RBI
+Tabata J, lf          4  0  1  0   Kinsler I, 2b         4  0  0  0   
+Pie F, lf             0  0  0  0   Andrus E, ss          3  0  0  0   
+Walker N, 2b          4  0  0  0   Rios A, rf            3  0  1  0   
+McCutchen A, cf       4  0  2  0   Beltre A, 3b          4  0  1  0   
+Morneau J, 1b         4  0  0  0   Rosales A, pr         0  0  0  0   
+Marte S, pr           0  0  0  0   Pierzynski A, dh      4  0  1  0   
+Sanchez G, 1b         0  0  0  0   Moreland M, 1b        3  0  0  0   
+Byrd M, rf            3  1  1  0   Soto G, c             3  0  1  0   
+Alvarez P, 3b         3  0  1  1   Adduci J, lf          2  0  0  0   
+Martin R, c           2  0  0  0   Murphy D, lf          0  0  0  0   
+Jones G, dh           3  0  0  0   Gentry C, ph-lf       1  0  0  0   
+Barmes C, ss          3  0  1  0   Martin L, cf          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  6  1                        30  0  4  0
+
+Pittsburgh       000 000 100 --  1
+Texas            000 000 000 --  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Cole G (W)            7.0  3  0  0  2  9
+Watson T              1.0  0  0  0  0  0
+Melancon M (S)        1.0  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (L)         7.0  4  1  1  1  6
+Scheppers T           1.0  1  0  0  0  0
+Cotts N               0.2  1  0  0  0  0
+Soria J               0.1  0  0  0  0  1
+
+DP -- Texas 2
+LOB -- Pittsburgh 4, Texas 5
+2B -- Byrd M, Alvarez P
+3B -- McCutchen A
+SB -- Andrus E 2, Rios A
+CS -- Tabata J
+HBP -- by Darvish Y (Byrd M)
+WP -- Cole G
+T -- 2:24
+A -- 33243
+     Game of 9/10/2013 -- Pittsburgh at Texas (N)
+
+  Pittsburgh         AB  R  H RBI    Texas              AB  R  H RBI
+Harrison J, 2b        3  0  0  0   Kinsler I, 2b         5  1  2  2   
+Walker N, ph-2b       1  1  0  0   Andrus E, ss          5  0  2  0   
+Mercer J, ss          5  1  4  0   Rios A, rf            5  1  3  1   
+McCutchen A, cf       5  1  3  3   Beltre A, 3b          4  0  2  1   
+Byrd M, rf            5  1  1  0   Pierzynski A, c       4  0  1  0   
+Sanchez G, 1b         4  0  2  1   Beltre E, pr          0  0  0  0   
+Marte S, pr           0  0  0  0   Soto G, c             0  0  0  0   
+Pie F, lf             1  0  0  0   Baker J, 1b           4  0  1  0   
+Martin R, dh          5  0  1  0   Butler J, dh          1  1  0  0   
+Alvarez P, 3b         2  0  0  0   Murphy D, ph          1  0  0  0   
+Tabata J, lf          2  0  0  0   Gentry C, lf          3  0  1  0   
+Morneau J, ph-1b      0  0  0  0   Moreland M, ph        1  0  0  0   
+Sanchez T, c          4  1  1  0   Martin L, cf          4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 12  4                        37  4 13  4
+
+Pittsburgh       001 030 001 --  5
+Texas            000 010 012 --  4
+
+  Pittsburgh           IP  H  R ER BB SO
+Liriano F (W)         6.0  6  1  1  2  5
+Wilson J              1.0  0  0  0  1  1
+Grilli J              0.2  2  1  1  0  1
+Watson T              0.1  1  0  0  0  1
+Melancon M (S)        1.0  4  2  2  0  3
+
+  Texas                IP  H  R ER BB SO
+Perez M (L)*          5.0  9  4  4  2  2
+Ogando A              2.0  0  0  0  0  3
+Frasor J              1.0  1  0  0  1  0
+Ross R+               0.0  0  1  1  1  0
+Soria J               1.0  2  0  0  0  2
+  * Pitched to 1 batter in 6th
+  + Pitched to 1 batter in 9th
+
+E -- Pierzynski A, Gentry C
+DP -- Pittsburgh 2, Texas 1
+LOB -- Pittsburgh 10, Texas 9
+2B -- Mercer J 2, Sanchez T, Kinsler I, Beltre A, Rios A, Pierzynski A
+SB -- Rios A, Marte S
+CS -- Andrus E
+SH -- Tabata J
+WP -- Perez M
+T -- 3:20
+A -- 36313
+     Game of 9/11/2013 -- Pittsburgh at Texas (D)
+
+  Pittsburgh         AB  R  H RBI    Texas              AB  R  H RBI
+Tabata J, lf          5  0  1  1   Kinsler I, dh         5  0  2  1   
+Marte S, lf           0  0  0  0   Andrus E, ss          5  0  2  3   
+Walker N, 2b          5  0  1  1   Rios A, rf            4  0  0  0   
+Morneau J, 1b         5  2  4  0   Beltre A, 3b          4  0  1  0   
+Byrd M, rf            5  1  2  0   Pierzynski A, c       4  1  2  0   
+Alvarez P, 3b         3  1  1  1   Moreland M, 1b        3  0  0  0   
+Martin R, c           4  1  1  0   Adduci J, pr-1b       0  0  0  0   
+Jones G, dh           2  0  1  0   Profar J, 2b          4  1  1  0   
+Harrison J, ph        1  0  0  0   Murphy D, lf          3  2  1  1   
+Barmes C, ss          3  1  1  2   Martin L, cf          3  1  0  0   
+Pie F, cf             3  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  7 12  5                        35  5  9  5
+
+Pittsburgh       001 210 210 --  7
+Texas            000 002 300 --  5
+
+  Pittsburgh           IP  H  R ER BB SO
+Burnett A (W)         6.1  6  5  5  2  7
+Gomez J               0.1  2  0  0  0  0
+Morris B              0.2  1  0  0  1  0
+Mazzaro V             0.2  0  0  0  0  1
+Farnsworth K (S)      1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Garza M (L)           4.0  5  3  3  4  6
+Ortiz J               2.1  3  2  2  1  1
+Frasor J*             0.0  1  1  1  0  0
+Cotts N               0.2  0  0  0  0  0
+Scheppers T           1.0  2  1  1  0  2
+Ross R                1.0  1  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+DP -- Pittsburgh 1, Texas 1
+LOB -- Pittsburgh 8, Texas 6
+2B -- Alvarez P, Morneau J, Pierzynski A 2, Byrd M
+HR -- Barmes C
+SB -- Pie F
+SF -- Alvarez P
+WP -- Cotts N
+T -- 3:36
+A -- 30629
+     Game of 9/13/2013 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Crisp C, cf           4  1  1  1   Kinsler I, 2b         2  2  0  1   
+Donaldson J, 3b       3  2  2  3   Andrus E, ss          4  2  1  2   
+Lowrie J, ss          4  0  1  0   Rios A, rf            5  0  1  2   
+Cespedes Y, lf        4  1  1  3   Butler J, rf          0  0  0  0   
+Freiman N, 1b         2  0  1  0   Beltre A, 3b          4  1  3  1   
+Moss B, ph-1b-rf      3  1  1  1   Pierzynski A, c       2  1  0  1   
+Callaspo A, 2b        4  1  1  0   Moreland M, 1b        3  0  0  0   
+Sogard E, 2b          0  0  0  0   Rosales A, ph         0  0  0  0   
+Young C, rf           5  1  1  0   Beltre E, ph-lf       1  0  0  0   
+Barton D, 1b          0  0  0  0   Baker J, ph           1  0  0  0   
+Norris D, dh          4  1  3  0   Adduci J, lf-1b       3  1  1  0   
+Smith S, ph           1  0  0  0   Chirinos R, ph        1  0  1  0   
+Suzuki K, c           4  1  2  1   Murphy D, dh          1  0  0  0   
+                                   Gentry C, ph          1  0  0  0   
+                                   Profar J, ph          2  0  0  0   
+                                   Martin L, cf          4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     38  9 14  9                        34  8  8  8
+
+Oakland          301 221 000 --  9
+Texas            200 000 060 --  8
+
+  Oakland              IP  H  R ER BB SO
+Straily D (W)         5.2  2  2  2  4  4
+Blevins J             0.2  0  0  0  1  0
+Otero D               0.2  0  0  0  0  1
+Anderson B*           0.0  0  2  2  2  0
+Chavez J              0.2  2  2  2  0  2
+Cook R+               0.0  2  2  2  1  0
+Doolittle S (S)       1.1  2  0  0  0  3
+
+  Texas                IP  H  R ER BB SO
+Holland D (L)#        3.0  8  6  6  1  2
+Tepesch N**           1.0  3  2  2  3  0
+Wolf R                2.0  2  1  1  1  0
+Feliz N               1.0  1  0  0  1  1
+Blackley T            1.0  0  0  0  0  1
+Frasor J              0.2  0  0  0  1  0
+Scheppers T           0.1  0  0  0  0  0
+  * Pitched to 2 batters in 8th
+  + Pitched to 3 batters in 8th
+  # Pitched to 2 batters in 4th
+  ** Pitched to 4 batters in 5th
+
+E -- Donaldson J
+DP -- Texas 1
+LOB -- Oakland 10, Texas 9
+2B -- Donaldson J, Chirinos R
+HR -- Cespedes Y, Donaldson J, Moss B
+SB -- Norris D
+CS -- Crisp C
+SF -- Pierzynski A, Crisp C
+HBP -- by Straily D (Pierzynski A)
+PB -- Suzuki K
+T -- 4:09
+A -- 40180
+     Game of 9/14/2013 -- Oakland at Texas (D)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Crisp C, cf           4  0  0  0   Kinsler I, 2b         4  0  2  0   
+Donaldson J, 3b       3  1  1  0   Andrus E, ss          3  0  1  0   
+Lowrie J, ss          3  0  0  0   Rios A, rf            4  0  1  0   
+Moss B, lf            4  0  1  1   Beltre A, 3b          4  0  0  0   
+Cespedes Y, dh        4  0  0  0   Pierzynski A, dh      4  0  2  0   
+Barton D, 1b          4  0  1  0   Soto G, c             3  0  1  0   
+Reddick J, rf         3  0  0  0   Berkman L, ph         1  0  0  0   
+Vogt S, c             3  0  1  0   Moreland M, 1b        3  0  0  0   
+Suzuki K, c           0  0  0  0   Adduci J, pr          0  0  0  0   
+Sogard E, 2b          3  0  0  0   Gentry C, lf          3  0  0  0   
+                                   Murphy D, ph          1  0  0  0   
+                                   Martin L, cf          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  4  1                        33  0  7  0
+
+Oakland          100 000 000 --  1
+Texas            000 000 000 --  0
+
+  Oakland              IP  H  R ER BB SO
+Colon B (W)           8.0  7  0  0  1  7
+Balfour G (S)         1.0  0  0  0  1  1
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (L)         7.0  4  1  1  1 10
+Scheppers T           1.0  0  0  0  0  0
+Cotts N               1.0  0  0  0  1  1
+
+DP -- Oakland 1
+LOB -- Oakland 5, Texas 8
+2B -- Moss B, Soto G
+SB -- Kinsler I, Donaldson J, Andrus E
+T -- 3:02
+A -- 36067
+     Game of 9/15/2013 -- Oakland at Texas (D)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Crisp C, cf           5  1  2  0   Kinsler I, 2b         5  0  0  0   
+Young C, lf           4  1  2  1   Andrus E, ss          5  1  1  0   
+Lowrie J, ss          4  0  0  0   Rios A, rf            4  0  1  0   
+Sogard E, ss          0  0  0  0   Beltre A, 3b          4  0  2  0   
+Donaldson J, 3b       2  1  1  1   Pierzynski A, c       4  0  1  1   
+Norris D, c           4  0  1  0   Baker J, dh           2  0  0  0   
+Callaspo A, 2b        4  0  0  0   Profar J, ph          2  0  1  0   
+Freiman N, dh         2  0  0  0   Adduci J, 1b-lf       4  0  3  0   
+Weeks J, pr           0  0  0  0   Butler J, lf          2  0  1  0   
+Moss B, ph            0  1  0  0   Murphy D, ph-lf       1  0  0  0   
+Reddick J, rf         4  1  2  2   Rosales A, ph-1b      1  0  0  0   
+Barton D, 1b          4  0  0  0   Gentry C, cf          1  0  0  0   
+                                   Martin L, ph-cf       2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  8  4                        37  1 10  1
+
+Oakland          201 000 002 --  5
+Texas            100 000 000 --  1
+
+  Oakland              IP  H  R ER BB SO
+Milone T (W)          5.0  6  1  1  1  5
+Otero D               1.0  2  0  0  0  1
+Cook R                0.2  2  0  0  0  0
+Doolittle S           1.1  0  0  0  0  1
+Chavez J              1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Perez M (L)           6.1  7  3  3  2  3
+Ogando A              1.2  0  0  0  1  1
+Soria J               1.0  1  2  2  1  3
+
+E -- Adduci J
+DP -- Texas 3
+LOB -- Oakland 5, Texas 10
+2B -- Norris D
+HR -- Donaldson J, Young C, Reddick J
+SB -- Adduci J
+T -- 3:05
+A -- 42980
+     Game of 9/23/2013 -- Houston at Texas (N)
+
+  Houston            AB  R  H RBI    Texas              AB  R  H RBI
+Villar J, ss          4  0  0  0   Kinsler I, 2b         4  2  2  1   
+Altuve J, 2b          3  0  1  0   Profar J, 2b-ss       1  0  0  0   
+Elmore J, 2b          1  0  0  0   Andrus E, ss          4  2  3  1   
+Dominguez M, 3b       3  0  1  0   Adduci J, 1b          0  0  0  0   
+Gonzalez M, 3b        1  0  0  0   Rios A, rf            4  3  4  4   
+Carter C, dh          2  0  0  0   Beltre E, rf          1  0  0  0   
+Martinez J, ph        2  0  1  0   Beltre A, 3b          3  0  0  1   
+Laird B, 1b           4  0  0  0   Rosales A, 3b-2b      1  0  0  0   
+Hoes L, rf-lf         4  0  0  0   Pierzynski A, c       5  2  2  0   
+Crowe T, lf-cf        2  0  2  0   Moreland M, 1b        2  1  1  1   
+Corporan C, c         2  0  1  0   Chirinos R, 3b        1  0  0  0   
+Stassi M, c           1  0  0  0   Gentry C, lf          3  1  0  0   
+Barnes B, cf          2  0  0  0   Murphy D, dh          3  1  1  1   
+Paredes J, rf         1  0  0  0   Martin L, cf          4  0  1  3   
+                     -- -- -- --                        -- -- -- --
+                     32  0  6  0                        36 12 14 12
+
+Houston          000 000 000 --  0
+Texas            214 203 00x -- 12
+
+  Houston              IP  H  R ER BB SO
+Lyles J (L)           3.0  7  7  7  3  2
+Martinez D            3.0  7  5  4  0  2
+Lo C                  1.0  0  0  0  0  0
+Fields J              1.0  0  0  0  1  2
+
+  Texas                IP  H  R ER BB SO
+Holland D (W)         9.0  6  0  0  1  9
+
+E -- Dominguez M, Villar J
+LOB -- Houston 6, Texas 6
+2B -- Rios A, Kinsler I, Martin L, Pierzynski A
+3B -- Rios A
+HR -- Rios A
+SB -- Gentry C
+SF -- Beltre A, Moreland M
+WP -- Martinez D
+T -- 2:39
+A -- 33743
+     Game of 9/24/2013 -- Houston at Texas (N)
+
+  Houston            AB  R  H RBI    Texas              AB  R  H RBI
+Villar J, ss          5  0  0  0   Kinsler I, 2b         4  0  1  1   
+Altuve J, 2b          5  1  2  0   Andrus E, ss          4  0  0  0   
+Krauss M, lf-1b       3  0  1  0   Rios A, rf            4  0  1  0   
+Dominguez M, 3b       3  1  1  1   Beltre A, 3b          2  2  1  1   
+Carter C, dh          3  0  0  1   Pierzynski A, dh      4  0  0  0   
+Crowe T, rf           1  0  0  0   Soto G, c             3  0  2  1   
+Wallace B, 1b         2  0  0  0   Moreland M, 1b        3  0  1  0   
+Laird B, ph-1b        2  0  1  0   Gentry C, lf          2  1  1  0   
+Elmore J, pr-lf       0  0  0  0   Martin L, cf          2  0  1  0   
+Corporan C, c         4  0  0  0                                      
+Barnes B, cf          4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        28  3  8  3
+
+Houston          100 001 000 --  2
+Texas            000 111 00x --  3
+
+  Houston              IP  H  R ER BB SO
+Peacock B (L)         6.0  6  3  3  1  7
+Chapman K             0.2  1  0  0  0  0
+Zeid J                1.1  1  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Darvish Y             5.1  4  2  2  4  9
+Cotts N (W)           1.0  1  0  0  0  2
+Scheppers T           1.1  1  0  0  1  2
+Frasor J              0.1  0  0  0  0  0
+Nathan J (S)          1.0  0  0  0  0  2
+
+E -- Corporan C
+DP -- Houston 1
+LOB -- Houston 9, Texas 5
+HR -- Dominguez M, Beltre A
+SB -- Martin L, Crowe T, Rios A
+SH -- Martin L, Gentry C
+SF -- Carter C
+HBP -- by Zeid J (Beltre A)
+WP -- Cotts N 2, Scheppers T
+T -- 3:06
+A -- 42267
+     Game of 9/25/2013 -- Houston at Texas (N)
+
+  Houston            AB  R  H RBI    Texas              AB  R  H RBI
+Villar J, ss          4  0  0  0   Kinsler I, 2b         4  2  2  2   
+Altuve J, 2b          4  1  2  0   Andrus E, ss          5  0  1  1   
+Dominguez M, 3b       4  0  1  0   Rios A, rf            4  0  1  1   
+Carter C, 1b          4  1  2  1   Beltre A, 3b          4  0  1  0   
+Martinez J, lf        3  0  0  0   Pierzynski A, c       4  0  0  0   
+Crowe T, ph-lf        0  0  0  0   Baker J, dh           2  1  1  0   
+Laird B, dh           4  1  1  2   Murphy D, ph          0  0  0  0   
+Hoes L, rf            4  0  1  0   Moreland M, 1b        2  1  0  0   
+Clark C, c            3  0  1  0   Gentry C, lf          3  2  0  0   
+Paredes J, ph         1  0  0  0   Martin L, cf          4  1  1  3   
+Barnes B, cf          3  0  0  0                                      
+Krauss M, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        32  7  7  7
+
+Houston          000 300 000 --  3
+Texas            001 501 00x --  7
+
+  Houston              IP  H  R ER BB SO
+Keuchel D (L)         5.2  6  7  6  3  5
+Cruz R                1.1  1  0  0  1  1
+De Leon J             1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Perez M (W)           7.0  6  3  3  1  8
+Frasor J              1.0  1  0  0  1  1
+Soria J               1.0  1  0  0  0  3
+
+E -- Villar J, Perez M, Clark C
+LOB -- Houston 7, Texas 7
+2B -- Altuve J, Martin L, Beltre A
+HR -- Laird B, Kinsler I
+SB -- Gentry C, Andrus E
+HBP -- by Keuchel D (Gentry C)
+WP -- Keuchel D, Perez M, Cruz R, Soria J
+T -- 2:42
+A -- 43207
+     Game of 9/26/2013 -- Anaheim at Texas (N)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Shuck J, lf           4  2  2  0   Kinsler I, 2b         4  1  2  0   
+Cowgill C, lf         1  0  0  0   Andrus E, ss          3  1  1  0   
+Aybar E, ss           5  1  1  0   Rios A, rf            4  0  0  0   
+Trout M, cf           5  0  2  2   Beltre A, 3b          4  1  1  1   
+Hamilton J, dh        3  0  1  0   Pierzynski A, c       4  0  2  1   
+Kendrick H, 2b        5  0  1  0   Moreland M, 1b        3  0  0  1   
+Calhoun K, rf         5  1  2  0   Gentry C, lf          4  1  3  0   
+Trumbo M, 1b          5  0  3  1   Murphy D, dh          2  0  0  0   
+Iannetta C, c         3  0  1  0   Baker J, ph           0  0  0  0   
+Romine A, 3b          4  1  0  0   Rosales A, pr         0  1  0  0   
+                                   Profar J, ph          1  1  1  1   
+                                   Martin L, cf          3  0  2  2   
+                     -- -- -- --                        -- -- -- --
+                     40  5 13  3                        32  6 12  6
+
+Anaheim          130 000 100 --  5
+Texas            300 002 001 --  6
+  0 outs when winning run was scored.
+
+  Anaheim              IP  H  R ER BB SO
+Williams J            5.0  9  3  3  0  2
+Boshers B             0.2  1  1  1  0  1
+Rasmus C              0.1  1  1  1  1  0
+Gutierrez J           1.0  0  0  0  0  1
+DeLaRosa D            1.0  0  0  0  0  2
+Kohn M (L)            0.0  1  1  1  0  0
+
+  Texas                IP  H  R ER BB SO
+Garza M               5.1 11  4  1  2  3
+Ross R                0.2  0  0  0  0  0
+Scheppers T           1.0  2  1  1  0  0
+Cotts N*              1.0  0  0  0  1  0
+Nathan J (W)          1.0  0  0  0  0  2
+  * Pitched to 1 batter in 9th
+
+E -- Moreland M, Kinsler I 2, Beltre A, Romine A
+DP -- Anaheim 3, Texas 1
+LOB -- Anaheim 11, Texas 5
+2B -- Martin L
+3B -- Calhoun K
+HR -- Profar J
+SB -- Gentry C
+SH -- Andrus E
+SF -- Moreland M
+WP -- Nathan J
+T -- 3:22
+A -- 26198
+     Game of 9/27/2013 -- Anaheim at Texas (N)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Aybar E, ss           4  0  1  0   Kinsler I, 2b         2  2  0  0   
+Calhoun K, rf         3  1  2  1   Andrus E, ss          4  1  2  0   
+Trout M, dh           2  0  0  0   Rios A, rf            3  2  1  2   
+Hamilton J, cf        4  0  1  2   Beltre A, 3b          3  0  0  0   
+Kendrick H, 2b        4  0  1  0   Pierzynski A, c       3  0  1  2   
+Trumbo M, 1b          3  0  0  0   Baker J, dh           2  0  0  0   
+Conger H, c           4  0  1  0   Profar J, ph          1  0  0  0   
+Cowgill C, lf         3  0  0  0   Moreland M, 1b        3  0  1  0   
+Shuck J, ph           1  0  0  0   Gentry C, lf          4  0  1  0   
+Romine A, 3b          3  2  2  0   Martin L, cf          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  8  3                        29  5  7  4
+
+Anaheim          001 020 000 --  3
+Texas            102 000 20x --  5
+
+  Anaheim              IP  H  R ER BB SO
+Wilson C              6.0  4  3  3  4  6
+Gutierrez J (L)       0.2  1  2  2  1  1
+Boshers B*            0.0  1  0  0  0  0
+Rasmus C              1.0  1  0  0  0  1
+Brasier R             0.1  0  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Ogando A              5.1  8  3  3  3  4
+Frasor J              0.2  0  0  0  0  2
+Cotts N (W)           1.0  0  0  0  0  2
+Scheppers T           1.0  0  0  0  0  2
+Nathan J (S)          1.0  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+E -- Gutierrez J
+DP -- Anaheim 1, Texas 3
+LOB -- Anaheim 5, Texas 9
+SB -- Rios A 2, Martin L
+CS -- Calhoun K, Rios A
+SH -- Andrus E
+SF -- Calhoun K
+HBP -- by Wilson C (Beltre A), by Wilson C (Pierzynski A)
+WP -- Wilson C 3
+T -- 3:31
+A -- 37355
+     Game of 9/28/2013 -- Anaheim at Texas (D)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Aybar E, ss           5  3  3  0   Kinsler I, 2b         5  2  1  0   
+Cowgill C, lf         4  0  1  1   Andrus E, ss          4  1  1  0   
+Field T, 2b           0  0  0  0   Rios A, rf            3  1  1  1   
+Hamilton J, ph        1  0  1  0   Beltre A, 3b          4  0  1  0   
+Trout M, cf           1  0  0  2   Pierzynski A, c       4  1  1  1   
+Kendrick H, dh        5  0  1  1   Moreland M, 1b        3  0  1  0   
+Trumbo M, 1b          4  0  1  0   Gentry C, lf          4  1  2  1   
+Calhoun K, rf         4  0  1  0   Murphy D, dh          3  1  1  0   
+Iannetta C, c         2  0  0  0   Martin L, cf          2  0  1  0   
+Shuck J, ph-lf        1  0  0  0                                      
+Green G, 2b           3  0  0  0                                      
+Conger H, ph-c        1  0  0  0                                      
+Romine A, 3b          3  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        32  7 10  3
+
+Anaheim          101 020 000 --  4
+Texas            140 020 00x --  7
+
+  Anaheim              IP  H  R ER BB SO
+Richards G (L)        4.1  6  6  3  1  2
+Boshers B*            0.0  2  1  1  0  0
+Coello R              0.2  1  0  0  0  1
+Hanson T              3.0  1  0  0  1  1
+
+  Texas                IP  H  R ER BB SO
+Holland D             4.2  8  4  4  0  4
+Soria J (W)           1.1  0  0  0  2  2
+Ross R                1.0  0  0  0  1  2
+Scheppers T           1.0  0  0  0  0  0
+Nathan J (S)          1.0  1  0  0  1  2
+  * Pitched to 2 batters in 5th
+
+E -- Romine A, Richards G, Aybar E, Calhoun K, Cowgill C
+LOB -- Anaheim 9, Texas 7
+2B -- Aybar E 3, Gentry C, Kendrick H, Rios A, Hamilton J
+SB -- Gentry C, Martin L
+SH -- Andrus E, Martin L 2
+SF -- Trout M 2, Rios A
+WP -- Richards G 2
+T -- 3:18
+A -- 38635
+     Game of 9/29/2013 -- Anaheim at Texas (D)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Shuck J, dh           4  0  2  0   Kinsler I, 2b         4  0  1  1   
+Aybar E, ss           4  1  1  0   Andrus E, ss          4  0  0  0   
+Trout M, cf           3  1  1  1   Rios A, rf            4  0  1  0   
+Hamilton J, lf        4  0  1  1   Beltre A, 3b          4  2  2  1   
+Kendrick H, 2b        4  0  0  0   Pierzynski A, dh      4  1  2  0   
+Calhoun K, rf         3  0  1  0   Soto G, c             3  2  2  2   
+Trumbo M, 1b          3  0  0  0   Moreland M, 1b        4  0  0  0   
+Conger H, c           2  0  0  0   Gentry C, lf          3  1  2  2   
+Cowgill C, ph         1  0  0  0   Martin L, cf          2  0  0  0   
+Iannetta C, c         0  0  0  0                                      
+Romine A, 3b          3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  7  2                        32  6 10  6
+
+Anaheim          100 001 000 --  2
+Texas            000 021 12x --  6
+
+  Anaheim              IP  H  R ER BB SO
+Vargas J (L)          6.1  7  4  3  2  4
+Gutierrez J           0.1  1  0  0  0  0
+DeLaRosa D            0.1  0  0  0  0  0
+Frieri E              1.0  2  2  2  0  2
+
+  Texas                IP  H  R ER BB SO
+Darvish Y             5.2  4  2  2  2  8
+Cotts N (W)           0.1  1  0  0  0  1
+Ross R                1.0  1  0  0  0  2
+Scheppers T           1.0  1  0  0  0  0
+Nathan J              1.0  0  0  0  0  0
+
+E -- Vargas J
+DP -- Anaheim 1, Texas 3
+LOB -- Anaheim 4, Texas 5
+2B -- Rios A, Pierzynski A, Soto G
+HR -- Trout M, Beltre A, Soto G
+SB -- Calhoun K, Gentry C 2
+SH -- Martin L
+T -- 2:57
+A -- 40057
+     Game of 9/30/2013 -- Tampa Bay at Texas (N)
+
+  Tampa Bay          AB  R  H RBI    Texas              AB  R  H RBI
+Jennings D, cf        3  1  1  0   Kinsler I, 2b         4  0  2  1   
+Fuld S, cf-rf         1  1  1  0   Andrus E, ss          3  1  1  0   
+Myers W, rf           3  1  0  0   Rios A, rf            4  0  1  1   
+Kiermaier K, cf       0  0  0  0   Beltre A, 3b          4  0  1  0   
+Zobrist B, 2b         5  0  1  0   Pierzynski A, c       4  0  0  0   
+Longoria E, 3b        4  2  3  2   Cruz N, dh            4  0  0  0   
+Young D, dh           3  0  0  1   Moreland M, 1b        3  0  1  0   
+Rodriguez S, lf       2  0  0  0   Gentry C, lf          3  1  1  0   
+DeJesus D, ph-lf      2  0  1  1   Martin L, cf          3  0  0  0   
+Loney J, 1b           3  0  0  0                                      
+Escobar Y, ss         2  0  0  0                                      
+Molina J, c           4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  5  7  4                        32  2  7  2
+
+Tampa Bay        102 001 001 --  5
+Texas            001 001 000 --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Price D (W)           9.0  7  2  2  1  4
+
+  Texas                IP  H  R ER BB SO
+Perez M (L)           5.1  4  3  3  2  5
+Ogando A              0.2  2  1  1  2  0
+Frasor J              0.2  0  0  0  2  0
+Soria J               0.1  0  0  0  0  0
+Cotts N               1.0  0  0  0  1  1
+Scheppers T           1.0  1  1  0  0  2
+
+E -- Scheppers T
+LOB -- Tampa Bay 8, Texas 4
+2B -- Beltre A, Longoria E, DeJesus D, Rios A, Kinsler I
+HR -- Longoria E
+SB -- Andrus E, Fuld S
+CS -- Kinsler I
+SF -- Young D
+T -- 3:08
+A -- 42796
+

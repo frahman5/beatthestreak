@@ -2,6 +2,7 @@ import os
 import shutil
 
 from data import Data
+from retrosheet import Retrosheet
 
 class Utilities(object):
     """
@@ -41,3 +42,13 @@ class Utilities(object):
             shutil.rmtree(file)
           else: 
             os.remove(file) 
+
+    @classmethod
+    def ensure_gamelog_files_exist(self, year):
+        """
+        checks if gamelog files for year year are on drive. If not, 
+        downloads them
+        """
+        if not os.path.isfile(Data.get_unzipped_gamelog_path(year)):
+            R = Retrosheet(year)
+            R.download_and_unzip(type='gamelog')

@@ -26,13 +26,13 @@ class TestResearcher(unittest.TestCase):
     def tearDown(self):
         teardown()
     
-    def test_get_participants(self):
-    	self.assertEqual(R.get_participants(date(2011,9,4)), 
-        	             participants_2011_9_4)
-        self.assertEqual(R.get_participants(date(2012,3,28)), 
-        	             participants_2012_3_28)
-        self.assertEqual(R.get_participants(date(2013,6,7)), 
-        	             participants_2013_6_7)
+    # def test_get_participants(self):
+    # 	self.assertEqual(R.get_participants(date(2011,9,4)), 
+    #     	             participants_2011_9_4)
+    #     self.assertEqual(R.get_participants(date(2012,3,28)), 
+    #     	             participants_2012_3_28)
+    #     self.assertEqual(R.get_participants(date(2013,6,7)), 
+    #     	             participants_2013_6_7)
 
     def test_find_home_team(self):
     	self.assertEqual(R.find_home_team(date(2011, 8, 3), p1), "MIL")
@@ -40,83 +40,87 @@ class TestResearcher(unittest.TestCase):
         self.assertEqual(R.find_home_team(date(2012, 6, 15), p2), "TBA")
         self.assertEqual(R.find_home_team(date(2013, 9, 20), p2), "BOS")
 
-    def test_did_start(self):
-        self.assertFalse(R.did_start(date(2011, 7, 2), p1))
-        self.assertTrue(R.did_start(date(2011, 9, 14), p2))
-        self.assertFalse(R.did_start(date(2012, 4, 15), p1))
-        self.assertTrue(R.did_start(date(2012, 4, 15), p2))
-        self.assertTrue(R.did_start(date(2013, 5, 17), p1))
-        self.assertTrue(R.did_start(date(2013, 8, 11), p2))
+    # def test_did_start(self):
+    #     self.assertFalse(R.did_start(date(2011, 7, 2), p1))
+    #     self.assertTrue(R.did_start(date(2011, 9, 14), p2))
+    #     self.assertFalse(R.did_start(date(2012, 4, 15), p1))
+    #     self.assertTrue(R.did_start(date(2012, 4, 15), p2))
+    #     self.assertTrue(R.did_start(date(2013, 5, 17), p1))
+    #     self.assertTrue(R.did_start(date(2013, 8, 11), p2))
     
-    # @skip("time consuming")
-    def test_did_get_hit(self):
-    	# Edwin Jackon test
-        self.assertFalse(R.did_get_hit(date(2012, 5, 2), p1))
+    # # @skip("time consuming")
+    # def test_did_get_hit(self):
+    # 	# Edwin Jackon test
+    #     self.assertFalse(R.did_get_hit(date(2012, 5, 2), p1))
 
-        # Jose Reyes Tests
-        self.assertTrue(R.did_get_hit(date(2012, 6, 16), p2))
-        self.assertTrue(R.did_get_hit(date(2005, 4, 4), p2))
-        self.assertTrue(R.did_get_hit(date(2003, 7, 12), p2))
-        self.assertFalse(R.did_get_hit(date(2012, 6, 15), p2))
-        self.assertFalse(R.did_get_hit(date(2008, 9, 21), p2))
+    #     # Jose Reyes Tests
+    #     self.assertTrue(R.did_get_hit(date(2012, 6, 16), p2))
+    #     self.assertTrue(R.did_get_hit(date(2005, 4, 4), p2))
+    #     self.assertTrue(R.did_get_hit(date(2003, 7, 12), p2))
+    #     self.assertFalse(R.did_get_hit(date(2012, 6, 15), p2))
+    #     self.assertFalse(R.did_get_hit(date(2008, 9, 21), p2))
 
-        # Alfonso Soriano Tests
-        self.assertTrue(R.did_get_hit(date(2003, 3, 31), p3))
-        self.assertTrue(R.did_get_hit(date(2009, 5, 12), p3))
-        self.assertFalse(R.did_get_hit(date(2001, 9, 4), p3))
-        self.assertFalse(R.did_get_hit(date(2007, 7, 20), p3))
-        self.assertFalse(R.did_get_hit(date(2004, 9, 16), p3))
+    #     # Alfonso Soriano Tests
+    #     self.assertTrue(R.did_get_hit(date(2003, 3, 31), p3))
+    #     self.assertTrue(R.did_get_hit(date(2009, 5, 12), p3))
+    #     self.assertFalse(R.did_get_hit(date(2001, 9, 4), p3))
+    #     self.assertFalse(R.did_get_hit(date(2007, 7, 20), p3))
+    #     self.assertFalse(R.did_get_hit(date(2004, 9, 16), p3))
 
-        # Jorge Posada tests
-        self.assertTrue(R.did_get_hit(date(2004, 8, 17), p4))
-        self.assertTrue(R.did_get_hit(date(2010, 7, 11), p4))
-        self.assertFalse(R.did_get_hit(date(1997, 5, 23), p4))
-        self.assertFalse(R.did_get_hit(date(2000, 4, 30), p4))
+    #     # Jorge Posada tests
+    #     self.assertTrue(R.did_get_hit(date(2004, 8, 17), p4))
+    #     self.assertTrue(R.did_get_hit(date(2010, 7, 11), p4))
+    #     self.assertFalse(R.did_get_hit(date(1997, 5, 23), p4))
+    #     self.assertFalse(R.did_get_hit(date(2000, 4, 30), p4))
 
-        # Manny Ramirez tests (traded in 2008. This test checks to see
-        # 	if did_get_hit works for players in a year they are traded)
-        self.assertTrue(R.did_get_hit(date(1994, 7, 26), p5))
-        self.assertTrue(R.did_get_hit(date(2008, 5, 22), p5))
-        self.assertTrue(R.did_get_hit(date(2008, 8, 1), p5))
-        self.assertFalse(R.did_get_hit(date(1995, 6, 30), p5))
-        self.assertFalse(R.did_get_hit(date(2008, 7, 29), p5))
-        self.assertFalse(R.did_get_hit(date(2008, 8, 31), p5))
+    #     # Manny Ramirez tests (traded in 2008. This test checks to see
+    #     # 	if did_get_hit works for players in a year they are traded)
+    #     self.assertTrue(R.did_get_hit(date(1994, 7, 26), p5))
+    #     self.assertTrue(R.did_get_hit(date(2008, 5, 22), p5))
+    #     self.assertTrue(R.did_get_hit(date(2008, 8, 1), p5))
+    #     self.assertFalse(R.did_get_hit(date(1995, 6, 30), p5))
+    #     self.assertFalse(R.did_get_hit(date(2008, 7, 29), p5))
+    #     self.assertFalse(R.did_get_hit(date(2008, 8, 31), p5))
 
-        ## Larry Jones, from PlayerL, test. Tests to see if it works even if
-        ## the player has a nickname (Goes by Chipper instead of Larry)
-        pL = PlayerL('jonesch06', 2003)
-        pL = Player(0, playerL=pL)
-        self.assertTrue(R.did_get_hit(date(2003, 4, 19), pL))
-        self.assertFalse(R.did_get_hit(date(2003, 8, 28), pL))
+    #     ## Larry Jones, from PlayerL, test. Tests to see if it works even if
+    #     ## the player has a nickname (Goes by Chipper instead of Larry)
+    #     pL = PlayerL('jonesch06', 2003)
+    #     pL = Player(0, playerL=pL)
+    #     self.assertTrue(R.did_get_hit(date(2003, 4, 19), pL))
+    #     self.assertFalse(R.did_get_hit(date(2003, 8, 28), pL))
 
-        # Double Header tests (its a hit iff player got a hit in first game)
-        self.assertFalse(R.did_get_hit(date(1996, 9, 25), p4)) # T1, H2
-        self.assertFalse(R.did_get_hit(date(2008, 9, 7), p2)) # T1, T2
-        self.assertTrue(R.did_get_hit(date(2007, 7, 28), p2)) # H1, T2
-        self.assertTrue(R.did_get_hit(date(2006, 6, 3), p2)) # H1, H2
+    #     # Double Header tests (its a hit iff player got a hit in first game)
+    #     self.assertFalse(R.did_get_hit(date(1996, 9, 25), p4)) # T1, H2
+    #     self.assertFalse(R.did_get_hit(date(2008, 9, 7), p2)) # T1, T2
+    #     self.assertTrue(R.did_get_hit(date(2007, 7, 28), p2)) # H1, T2
+    #     self.assertTrue(R.did_get_hit(date(2006, 6, 3), p2)) # H1, H2
 
-    def test_num_at_bats(self):
-        self.assertEqual(R.num_at_bats(2010, p1), 38) # traded from NL to AL
-        self.assertEqual(R.num_at_bats(2006, p2), 647)
-        self.assertEqual(R.num_at_bats(2005, p3), 637)
-        self.assertEqual(R.num_at_bats(2001, p4), 484)
-        self.assertEqual(R.num_at_bats(2008, p5), 552) # traded from BOS to LAD
+    # def test_num_at_bats(self):
+    #     self.assertEqual(R.num_at_bats(2010, p1), 38) # traded from NL to AL
+    #     self.assertEqual(R.num_at_bats(2006, p2), 647)
+    #     self.assertEqual(R.num_at_bats(2005, p3), 637)
+    #     self.assertEqual(R.num_at_bats(2001, p4), 484)
+    #     self.assertEqual(R.num_at_bats(2008, p5), 552) # traded from BOS to LAD
 
-    def test_num_plate_appearances(self):
-        self.assertEqual(R.num_plate_appearances(2010, p1), 43) # traded from NL to AL
-        self.assertEqual(R.num_plate_appearances(2006, p2), 703)
-        self.assertEqual(R.num_plate_appearances(2005, p3), 682)
-        self.assertEqual(R.num_plate_appearances(2001, p4), 557)
-        self.assertEqual(R.num_plate_appearances(2008, p5), 654) # traded from BOS to LAD
+    # def test_num_plate_appearances(self):
+    #     self.assertEqual(R.num_plate_appearances(2010, p1), 43) # traded from NL to AL
+    #     self.assertEqual(R.num_plate_appearances(2006, p2), 703)
+    #     self.assertEqual(R.num_plate_appearances(2005, p3), 682)
+    #     self.assertEqual(R.num_plate_appearances(2001, p4), 557)
+    #     self.assertEqual(R.num_plate_appearances(2008, p5), 654) # traded from BOS to LAD
 
-    def test_name_from_lahman_id(self):
-        self.assertEqual(R.name_from_lahman_id("jacksed01"), ("Edwin", "Jackson"))
-        self.assertEqual(R.name_from_lahman_id("reyesjo01"), ("Jose",  "Reyes"))
-        self.assertEqual(R.name_from_lahman_id("soriaal01"), ("Alfonso", "Soriano"))
-        self.assertEqual(R.name_from_lahman_id("posadjo01"), ("Jorge", "Posada"))
-        self.assertEqual(R.name_from_lahman_id("ramirma02"), ("Manny", "Ramirez"))
-        self.assertEqual(R.name_from_lahman_id("loducpa01"), ("Paul", "Lo Duca"))
+    # def test_name_from_lahman_id(self):
+    #     self.assertEqual(R.name_from_lahman_id("jacksed01"), ("Edwin", "Jackson"))
+    #     self.assertEqual(R.name_from_lahman_id("reyesjo01"), ("Jose",  "Reyes"))
+    #     self.assertEqual(R.name_from_lahman_id("soriaal01"), ("Alfonso", "Soriano"))
+    #     self.assertEqual(R.name_from_lahman_id("posadjo01"), ("Jorge", "Posada"))
+    #     self.assertEqual(R.name_from_lahman_id("ramirma02"), ("Manny", "Ramirez"))
+    #     self.assertEqual(R.name_from_lahman_id("loducpa01"), ("Paul", "Lo Duca"))
 
     def test_get_opening_day(self):
         self.assertEqual(R.get_opening_day(2010), date(2010,4,4))
         self.assertEqual(R.get_opening_day(1992), date(1992, 4,6))
+
+    def test_get_closing_day(self):
+        self.assertEqual(R.get_closing_day(2010), date(2010,10,3))
+        self.assertEqual(R.get_closing_day(1992), date(1992, 10,4))
