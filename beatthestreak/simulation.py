@@ -36,7 +36,7 @@ class Simulation(object):
     	None -> None
     	Deletes residual files from the simulation
     	"""
-    	Utilities.clean_all_files()
+    	Utilities.clean_retrosheet_files()
 
     def set_year(self, year):
     	self.year = year

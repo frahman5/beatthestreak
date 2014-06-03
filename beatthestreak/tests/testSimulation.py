@@ -125,3 +125,12 @@ class TestSimulation(unittest.TestCase):
         self.assertEqual([bot.get_history() for bot in bots], 
                          botPlayerHistories)
         self.assertEqual(self.npSim2003_2002.get_date(), date(2003, 5, 15))
+
+    def test__calc_unique_bots(self):
+        sim = NPSimulation(2012, 2012, 50, 50)
+        sim.bots = sim._create_bots()
+        self.assertEqual(sim._calc_num_unique_bots(), 1)
+        sim.get_bots()[4].assign_player(
+            Player(0, "Manny", "Ramirez", 2010), date(2012, 9, 9), True)
+        self.assertEqual(sim._calc_num_unique_bots(), 2)
+

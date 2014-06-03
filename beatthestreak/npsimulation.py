@@ -5,6 +5,7 @@ import pandas as pd
 import sys
 
 from data import Data
+from pandas import DataFrame, Series, ExcelWriter
 from datetime import date, timedelta
 from player import PlayerL, Player
 from researcher import Researcher
@@ -28,8 +29,8 @@ class NPSimulation(Simulation):
     """
     def __init__(self, simYear, batAveYear, N, P, startDate='default'):
         Simulation.__init__(self, simYear, startDate)
-        self.simYear = self.check_year(simYear)
-        self.batAveYear = self.check_year(batAveYear)
+        self.simYear = self._check_year(simYear)
+        self.batAveYear = self._check_year(batAveYear)
         self.numBots = N
         self.numPlayers = P
         self.minBatAve = 0 # set later, upon setup
@@ -46,7 +47,7 @@ class NPSimulation(Simulation):
         if self.isSetup: 
             return
         Simulation.setup(self) # download and parse retrosheet data
-        self.bots = self.__create_bots() # create N bots
+        self.bots = self._create_bots() # create N bots
         self.players = self.__calc__players(self.batAveYear) # get P top players
         self.minBatAve = self.__set_min_bat_ave() # store resultant min bat ave
         self.isSetup = True
@@ -78,11 +79,16 @@ class NPSimulation(Simulation):
         # update the date
         self.incr_date()
     
-    def simulate(self, numDays='max'):
+    def simulate(self, numDays='max', anotherSim=False, resultsMethod='excel'):
         """
-        int|string -> None
+        int|string  bool string-> None
         numDays: 'max' if simulation should run to closing day, or an integer
-        if simulation should run for a certain window of days
+            if simulation should run for a certain window of days
+        anotherSim: indicates whether or not another simulation will be done 
+            using this object
+        resultsMethod: ('stdout', 'excel'). Indicates preferred method of results
+            output
+
 
         Simulates numDays number of days in self.simYear, starting on 
         self.startDate. Reports back the number of bots who achieved streaks
@@ -97,21 +103,108 @@ class NPSimulation(Simulation):
         self.setup()
         while True:
             if (numDays=='max') and (self.currentDate > lastDaySeason):
-                self.report_results(startDate)
+                self.report_results()
                 break
             if (type(numDays) == int) and elapsedDays >= numDays:
-                self.report_results(startDate)
+                self.report_results()
                 break
             self.sim_next_day()
             elapsedDays += 1
 
-        # get rid of update_best_bots. Just can do once at end. 
-    def report_results(self, startDate):
+        if not anotherSim:
+            self.close() # cleans up retrosheet files from harddrive
+        
+        print "Simulation over!"
+    #!!! TODO
+    def many_simulate(self, simYearRange, simMinBatRange, NRange, 
+        PRange):
         """
-        date ListOfBots-> None
-        date: starting date of the simulation
-        ListOfBots: list of bots with highest streak lengths
+        tupleOfInts tupleOfInts tupleOfInts tupleOfInts -> None
+        simYearRange: the years (inclusive) over which to run a simulation
+        simMinBatRange: the number of years (inclusive) over which to vary simYear - batAveYear
+        NRange: the integers over which to vary the number of bots
+        PRange: the integers over which to vary top player calculations
 
+        For each year in simYearRange, for each batAveYear that results from
+        subtracting a number in simMinBatRange from simYear, for each N in NRage, 
+        take a Pfrom P Range and run simulate. Report aggregate results in a csv
+        file.
+
+        e.g: sim.many_simulate((2010,2010), (0,1), (1,2), (1,2)) runs a simulate
+        for each 4-tuple (simYear, batAveYear, N, P) with numDays='max' below:
+            1) (2010, 2010, 1, 1)
+            2) (2010, 2010, 1, 2)
+            3) (2010, 2010, 2, 1)
+            4) (2010, 2010, 2, 2)
+            5) (2010, 2009, 1, 1)
+            6) (2010, 2009, 1, 2)
+            7) (2010, 20, 2, 1)
+            8) (2010, 2010, 2, 2)
+        """
+        pass
+
+    def report_results(self, method='excel'):
+        """
+        string -> None
+        method: string ('stdout', 'excel') indicating the output method for results
+
+        Reports simulation results
+        """
+        if method == 'stdout':
+            self._report_results_stdout()
+        if method == 'excel':
+            self._report_results_excel()
+
+    def _calc_num_unique_bots(self):
+        """
+        None -> int
+        Returns the number of bots with unique player histories
+        """
+        N = self.get_n()
+        numUnique = N
+        bots = self.get_bots()
+        for index, bot in enumerate(bots):
+            for j in range(index+1, N):
+                if bot == bots[j]:
+                    numUnique -= 1
+                    break
+        return numUnique
+        
+    def __calc__players(self, year):
+        """
+        None -> ListOfTuples(player, player.bat_ave)
+        Calculates the top P players with respect to batting average
+        in season self.batBatAveYear
+        """
+        minPA = 502 # minimum plate appearances to qualify for calculation
+        players = [("", 0) for i in range(self.numPlayers)]
+
+        #get series of unique playerIDs corresponding to given year
+        df = pd.read_csv(Data.get_lahman_path("Batting"), 
+                           usecols=['playerID', 'yearID', 'AB'])
+        df = df[df.yearID == year]
+        uniqueIDs = pd.Series(df.playerID.values.ravel()).unique()
+
+        # Calculate top P players/batting averages
+        for index, lahmanID in enumerate(uniqueIDs):
+            if type(players[0][0]) == PlayerL:
+                break
+            if index % 200 == 0: print index # progress tracker
+            player = PlayerL(lahmanID, year)
+            bat_ave = player.get_bat_ave()
+            if  bat_ave > players[0][1]:
+                if Researcher.num_plate_appearances(year, player) >= minPA:
+                    players[0] = (player, bat_ave)
+                    players.sort(key=lambda duple: duple[1])
+        players.reverse() # list is now from highest to lowest
+
+        # turn players into full blown players, and index accordingly. 
+        for index, tuple in enumerate(players):
+            players[index] = Player(index, playerL=tuple[0])
+        return players
+
+    def _report_results_stdout(self):
+        """
         Prints out results for the simulation. Includes:
             1) Simulation year, N value, P Values
             2) Simulation start and end dates
@@ -119,6 +212,7 @@ class NPSimulation(Simulation):
             4) 2-5 best bots/streaks, including player history (with date info
             included) over their best streaks
         """
+        startDate = self.get_bots()[0].get_history()[0][2]
         space5 = "     "
         space10 = "          "
         space12 = "            "
@@ -157,42 +251,129 @@ class NPSimulation(Simulation):
                 print str(day[3]).rjust(7)  # Streak length on given date
         print "****************************************************************"
 
-            
-        ## add in ensurit
-    def __calc__players(self, year):
+    def _report_results_excel(self):
         """
-        None -> ListOfTuples(player, player.bat_ave)
-        Calculates the top P players with respect to batting average
-        in season self.batBatAveYear
+
+        Produces results of a simulation in a csv file
         """
-        minPA = 502 # minimum plate appearances to qualify for calculation
-        players = [("", 0) for i in range(self.numPlayers)]
+        numTopBots = 2
+        startDate = self.get_bots()[0].get_history()[0][2]
+        endDate = self.get_bots()[0].get_history()[-1][2]
+        writer = ExcelWriter(Data.get_results_path(self.get_sim_year(), 
+            self.get_bat_year(), self.get_n(), self.get_p(), startDate, endDate))
 
-        #get series of unique playerIDs corresponding to given year
-        df = pd.read_csv(Data.get_lahman_path("Batting"), 
-                           usecols=['playerID', 'yearID', 'AB'])
-        df = df[df.yearID == year]
-        uniqueIDs = pd.Series(df.playerID.values.ravel()).unique()
+        # calculate best bots
+        self.get_bots().sort(key=lambda bot: bot.get_max_streak_length())
+        self.get_bots().reverse()
+        bestBots = self.get_bots()
 
-        # Calculate top P players/batting averages
-        for index, lahmanID in enumerate(uniqueIDs):
-            # if type(players[0][0]) == PlayerL:
-            #     break
-            if index % 200 == 0: print index # progress tracker
-            player = PlayerL(lahmanID, year)
-            bat_ave = player.get_bat_ave()
-            if  bat_ave > players[0][1]:
-                if Researcher.num_plate_appearances(year, player) >= minPA:
-                    players[0] = (player, bat_ave)
-                    players.sort(key=lambda duple: duple[1])
-        players.reverse() # list is now from highest to lowest
+        # report results for top performing bots
+        for bot in bestBots[0:numTopBots]:
+            self._report_bot_results_to_excel(bot, writer)
 
-        # turn players into full blown players, and index accordingly. 
-        for index, tuple in enumerate(players):
-            players[index] = Player(index, playerL=tuple[0])
-        return players
+        # report bots metadata
+        self._report_bots_metadata_results_excel(writer)
 
-    def check_year(self, year):
+        # report sim metadata
+        self._report_sim_metadata_results_excel(writer)
+
+        # save everthing to file
+        writer.save()
+
+    def _report_bot_results_to_excel(self, bot, writer):
+        """
+        bot ExcelWriter -> None
+        bot: the bot for which you want to report results
+        ExcelWriter: an excelWriter object
+
+        Outputs bot info results to excel buffer. Helper function for 
+        _report_results_excel
+        """
+        history = bot.get_history()
+        playerS = Series([event[0].get_name() for event in history], 
+            name='Player')
+        batAveS = Series([event[0].get_bat_ave() for event in history], 
+            name='Batting Average')
+        hitS = Series([event[1] for event in history], name='Hit')
+        dateS = Series([event[2] for event in history], name='Date')
+        streakS = Series([event[3] for event in history], 
+            name='Streak Length')
+
+        # construct dataframe to write to excel file
+        df = pd.concat([playerS, batAveS, hitS, dateS, streakS], axis=1)
+
+        # put df info on excel buffer
+        botIndexString = str(bot.get_index())
+        botLongestStreak = str(bot.get_max_streak_length())
+        df.to_excel(writer, index=False,
+            sheet_name='bot' + botIndexString + '-' + botLongestStreak)
+
+    def _report_bots_metadata_results_excel(self, writer):
+        """
+        writer -> None
+        """
+        enoughEmptyRows = ["" for i in range(self.get_n()-1)]
+        percentUniqueBots = round(
+            float(self._calc_num_unique_bots()) / float(self.get_n()), 4)
+        percentUniqueBotsString = "{0:.0f}%".format(100 * percentUniqueBots)
+
+        # takes advantage of fact that bots are already sorted by streak length
+        botS = Series([bot.get_index() for bot in self.get_bots()], name='Bot')
+        maxStreakS = Series([bot.get_max_streak_length() for bot in \
+            self.get_bots()], name='maxStreak')
+        aveStreakS = Series([maxStreakS.mean()] + enoughEmptyRows, 
+            name="aveMaxStreak")
+        uniqueBotS = Series([percentUniqueBotsString] + \
+            enoughEmptyRows, name='Unique Bots(%)')
+
+        # construct dataframe to write to excel file
+        df = pd.concat([botS, maxStreakS, aveStreakS, uniqueBotS], axis=1)
+
+        # put df info on excel buffer
+        df.to_excel(writer, index=False, sheet_name='Bots Meta')
+
+    def _report_sim_metadata_results_excel(self, writer):
+        """
+        writer -> None
+        """
+        # get number, percent of success
+        numSuccesses = 0
+        for bot in self.get_bots():
+            if bot.get_max_streak_length() >= 57:
+                numSuccesses += 1
+        percentSuccesses = round(
+            float(numSuccesses)/float(self.get_n()))
+        percentSuccessesString = "{0:.0f}%".format(100 * percentSuccesses)
+
+        yearS = Series([self.get_sim_year()], name='simYear')
+        batS = Series([self.get_bat_year()], name='batAveYear')
+        nS = Series([self.get_n()], name='N')
+        pS = Series([self.get_p()], name='P')
+        startDateS = Series([self.get_bots()[0].get_history()[0][2]], 
+            name='startDate')
+        endDateS = Series([self.get_bots()[0].get_history()[-1][2]], 
+            name='endDate')
+        successS = Series([numSuccesses], name='numSuccesses')
+        percentSuccessS = Series([percentSuccessesString], 
+            name='percentSuccesses')
+
+        # construct dataframe to write to excel file
+        df = pd.concat([yearS, batS, nS, pS, startDateS, endDateS, 
+            successS, percentSuccessS], axis=1)
+
+        # put df info on excel buffer
+        df.to_excel(writer, index=False, sheet_name='Sim Meta')
+
+    def __set_min_bat_ave(self):
+        """
+        Helper function for setup. Feeds off of __calc__players
+
+        Produces the highest 3 digit float f such that for all P players 
+        {p1, p2, .., pP}, pi_bat_ave >= f.
+        """ 
+        return self.players[-1].get_bat_ave()
+
+    def _check_year(self, year):
         """
         int -> None|int
         Produces an exception if year is before 1962 or a strike year (1972, 
@@ -211,19 +392,10 @@ class NPSimulation(Simulation):
     def get_players(self):
         return self.players
 
-    def __set_min_bat_ave(self):
-        """
-        Helper function for setup. Feeds off of __calc__players
-
-        Produces the highest 3 digit float f such that for all P players 
-        {p1, p2, .., pP}, pi_bat_ave >= f.
-        """ 
-        return self.players[-1].get_bat_ave()
-
     def get_min_bat_ave(self):
         return self.minBatAve
 
-    def __create_bots(self):
+    def _create_bots(self):
         return [Bot(i) for i in range(self.numBots)]
 
     def get_bots(self):
@@ -261,14 +433,17 @@ class NPSimulation(Simulation):
         return self.batAveYear
 
 
-def main(*args):
+def main(simYear, batAveYear, N, P):
     """
     run the simulation from the command line
     """
-    print args[0]
-    sim = NPSimulation(int(args[0][1]), int(args[0][2]), 
-        int(args[0][3]), int(args[0][4]))
+    sim = NPSimulation(simYear, batAveYear, N, P)
     sim.simulate()
 
 if __name__ == '__main__':
-    main(sys.argv)
+    """
+    Command line Usage:
+
+    ./npsimulation.py simYear batAveYear N P
+    """
+    main(int(sys.argv[1]), int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]))

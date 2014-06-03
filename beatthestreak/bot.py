@@ -18,6 +18,13 @@ class Bot(object):
         self.player = None
         self.history = []
         self.max_streak_length = 0
+
+    def __eq__(self, other):
+        if self.get_max_streak_length() != other.get_max_streak_length():
+            return False
+        if self.history != other.get_history():
+            return False
+        return True
         
     def assign_player(self, player, didGetHit, date):
         """

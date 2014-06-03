@@ -1,3 +1,5 @@
+import os
+
 class Data(object):
     """
     Holds relevant data that is central to multiple objects
@@ -8,6 +10,10 @@ class Data(object):
         '/beatthestreak'
     retrosheetZippedFolder = '/datasets/retrosheet/zipped'
     retrosheetUnzippedFolder = '/datasets/retrosheet/unzipped'
+
+    @classmethod
+    def get_root_dir(self):
+        return self.rootDir
 
     @classmethod
     def get_retrosheet_unzipped_folder_path(self):
@@ -109,3 +115,38 @@ class Data(object):
         """
         return self.rootDir + "/datasets/lahman/unzipped/lahman2013-csv/" + \
                   file + ".csv"
+
+    @classmethod
+    def get_results_folder(self,year):
+        """
+        int -> string
+        year: the year for which you want the results folder
+
+        Produces the filepath of the results folder containing simulations
+        for year year
+        """
+        # check results folder for year year is there
+        os.chdir(self.get_root_dir())
+        folder = os.getcwd() + '/results/' + str(year)
+        if not os.path.isdir(folder):
+            os.mkdir(folder)
+
+        return folder
+    @classmethod
+    def get_results_path(self, simYear, batAveYear, N, P, startDate, endDate):
+        """
+        int int int int date date -> string
+        simYear: year of simulation
+        batAveYear: year with respect to which batting averages are calculated
+        N: number of bots
+        P: number of top players
+        startDate: start date of simulation
+        endDate: end date of simulation
+
+        Produces the filepath of the results file containing the simulation with
+        simYear, batAveYear, N, P, startDate, endDate
+        """
+        return self.get_results_folder(simYear) + '/Sim' + str(simYear) + "," +\
+            "N" + str(N) + "," + "P" + str(P) + "," + str(startDate.month) + \
+            "." + str(startDate.day) + "-" + str(endDate.month) + "." + \
+            str(endDate.day) + ".xlsx"

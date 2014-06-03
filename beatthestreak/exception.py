@@ -9,3 +9,6 @@ class NoPlayerException(Exception):
 		self.errorMessage = errorMessage
 	def __str__(self):
 		return repr(self.errorMessage)
+
+class FileContentException(Exception):
+	pass

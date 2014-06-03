@@ -6,6 +6,7 @@ from datetime import date
 from data import Data
 from utilities import Utilities
 from retrosheet import Retrosheet
+from exception import FileContentException
 
 class Researcher(object):
     """
@@ -55,10 +56,17 @@ class Researcher(object):
         Utilities.ensure_gamelog_files_exist(year)
 
         with open(Data.get_unzipped_gamelog_path(year), "r") as f:
+            # get list of games played on this date
             list_of_games = [line.replace('"', '').split(',')
                                     for line in f if date in line]
+
+        # get the list of home teams from that game. 
+        # we check if date in game[0] because a game may have ended up in 
+        # in the list from some incomplete game thats being completed on a later
+        # date. See Lance Berkman, 2009-July-9th
         homeTeamList = [game[6] for game in list_of_games 
-                           if player.get_retrosheet_id() in game]
+                           if player.get_retrosheet_id() in game 
+                           and date in game[0]]
         return homeTeamList[0]
  
     @classmethod
@@ -94,17 +102,19 @@ class Researcher(object):
             r.gen_boxscores()
         
         with open(boxscore, "r") as file: 
-            line = ""
-
-            # find this date's game's boxscore
+            ## find this date's game in the boxscore
             search = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
-            while search not in line: line = file.readline()
-            
-            # find this player's line in the boxscore
+            errorMessage = "Date: {0} not in boxscore {1}.".format(date, 
+                boxscore) + "Player: {0}".format(player)
+            self._search_file(file, search, errorMessage=errorMessage)
+
+            ## find this player's line in the boxscore
             search = lastName + " " + firstName[0]
-            while search not in line: line = file.readline()
-            
-            #find the index of this player's last name in the line
+            errorMessage = "Player: {0} not in boxscore {1}.".format(player, 
+                boxscore) + "Date: {0}".format(date)
+            line = self._search_file(file, search, errorMessage=errorMessage)
+
+            ## see if he had a hit or not
             info = line.split()
             index = info.index(lastName)
             if info[index + 1] != firstName[0] + ",":
@@ -112,10 +122,29 @@ class Researcher(object):
                 print "player: %s" % player
                 print "Here's the line: %s" % (str(line))
                 index = info[index + 1:].index(lastName)
-
             # Player's hit count is 5 off his last name. 
             return int(info[index+5]) > 0 
 
+    @classmethod
+    def _search_file(self, file, search, errorMessage='Search File Error'):
+        """
+        file string string -> string
+        file: a file object to be searched
+        search: a string to search for in the file
+        errorMessage: the error Message to display if an exception is raised
+
+
+        Search the file for the string. If found, returns the line in which
+        the string was found. If not found, raises fileContentException
+        """
+        line = " "
+        while search not in line: 
+            start = file.tell()
+            line = file.readline()
+            end = file.tell()
+            if start == end:
+                raise FileContentException(errorMessage)
+        return line
     @classmethod
     def num_at_bats(self, year, player):
         """
