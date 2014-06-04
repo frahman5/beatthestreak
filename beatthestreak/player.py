@@ -2,11 +2,11 @@ import os
 import pandas as pd
 
 from datetime import date, datetime
-from data import Data
 from utilities import Utilities
 from retrosheet import Retrosheet
 from exception import NoPlayerException
 from researcher import Researcher
+from filepath import Filepath
 
 class PlayerL(object):
     """
@@ -33,7 +33,7 @@ class PlayerL(object):
         off to 3 decimal places
         """
         # Read in relevant columns from batting.csv
-        df = pd.read_csv(Data.get_lahman_path("batting"), 
+        df = pd.read_csv(Filepath.get_lahman_file("batting"), 
                          usecols=['playerID', 'yearID', 'AB', 'H'])
 
         # Getting batting stats for player in given year
@@ -52,7 +52,7 @@ class PlayerL(object):
 class Player(PlayerL):
     """
     A player representing a MLB athlete.
-    Data:
+    Filepath.
         index: int[>=0] | player index in a simulation
         rId: string | player's retrosheet id
         lId: string | player's lahman id
@@ -131,7 +131,7 @@ class Player(PlayerL):
             return self.fetch_retrosheet_id_from_lahman_ID()
 
     def fetch_retrosheet_id_from_name(self):
-        df = pd.read_csv(Data.get_retrosheet_id_path())
+        df = pd.read_csv(Filepath.get_retrosheet_file(folder='base', fileF='id'))
         df = df[df.FIRST == self.first_name][df.LAST == self.last_name]
 
         if len(df) == 0:
@@ -155,7 +155,7 @@ class Player(PlayerL):
                 return df[df.DEBUT == debut].ID.item()
 
     def fetch_retrosheet_id_from_lahman_ID(self):
-        df = pd.read_csv(Data.get_lahman_path("master"), 
+        df = pd.read_csv(Filepath.get_lahman_file("master"), 
                 usecols=['playerID', 'retroID'])
         return df[df.playerID == self.lId].retroID.item()
         
@@ -163,7 +163,7 @@ class Player(PlayerL):
         return self.rId
 
     def __set_lahman_id(self):
-        df = pd.read_csv(Data.get_lahman_path("master"), 
+        df = pd.read_csv(Filepath.get_lahman_file("master"), 
                          usecols=["playerID", "retroID"])
         
         # Chop the dataframe with retroId == self.rId, then get the 

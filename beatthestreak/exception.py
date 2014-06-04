@@ -1,14 +1,11 @@
 class DifficultYearException(Exception):
-	def __init__(self, errorMessage):
-		self.errorMessage = errorMessage
-	def __str__(self):
-		return repr(self.errorMessage)
+    pass
 
 class NoPlayerException(Exception):
-	def __init__(self, errorMessage):
-		self.errorMessage = errorMessage
-	def __str__(self):
-		return repr(self.errorMessage)
+    pass
 
 class FileContentException(Exception):
+	pass
+
+class BadFilepathException(Exception):
 	pass

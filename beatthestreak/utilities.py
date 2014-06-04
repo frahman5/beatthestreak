@@ -1,7 +1,6 @@
 import os
 import shutil
 
-from data import Data
 from retrosheet import Retrosheet
 
 class Utilities(object):

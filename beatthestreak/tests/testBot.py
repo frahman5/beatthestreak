@@ -2,7 +2,7 @@ import unittest
 
 from datetime import date
 
-from beatthestreak.data import Data
+from beatthestreak.filepath import Filepath
 from beatthestreak.bot import Bot
 from beatthestreak.player import Player
 from beatthestreak.tests import setup, teardown, p1, p2, p3, p4, p5

@@ -344,7 +344,7 @@ class NPSimulation(Simulation):
         batAveCol = 'batAve' + str(year) + 'Sorted'
         
         # get series of unique playerIDs corresponding to given year
-        df = pd.read_csv(Data.get_lahman_path("Batting"), 
+        df = pd.read_csv(Data.get_lahman_file("Batting"), 
                            usecols=['playerID', 'yearID', 'AB'])
         df = df[df.yearID == year]
         uniqueIDArray = pd.Series(df.playerID.values.ravel()).unique()

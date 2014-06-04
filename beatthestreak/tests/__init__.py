@@ -2,11 +2,12 @@ import os
 import shutil
 
 from datetime import date
+
 from beatthestreak.player import Player
-from utilities import Utilities
-from researcher import Researcher
-from retrosheet import Retrosheet
-from bot import Bot
+from beatthestreak.utilities import Utilities
+from beatthestreak.researcher import Researcher
+from beatthestreak.retrosheet import Retrosheet
+from beatthestreak.bot import Bot
 from beatthestreak.filepath import Filepath
 
 def setup():
@@ -24,6 +25,7 @@ def teardown():
 
     # Clean out unzipped file folder as well
     unzippedFileFolder = Filepath.get_retrosheet_folder(folder='unzipped')
+    print "unzipped File Folder: {0}".format(unzippedFileFolder)
     os.chdir(unzippedFileFolder)
     for file in os.listdir(os.getcwd()): 
       if os.path.isdir(file): 

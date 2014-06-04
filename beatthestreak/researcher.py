@@ -3,7 +3,7 @@ import re
 import pandas as pd
 
 from datetime import date
-from data import Data
+
 from utilities import Utilities
 from retrosheet import Retrosheet
 from exception import FileContentException
@@ -155,7 +155,7 @@ class Researcher(object):
         Produces the number of at bats that player had in year year
         """
         # get relevant columns from batting csv
-        df = pd.read_csv(Data.get_lahman_path("batting"), 
+        df = pd.read_csv(Data.get_lahman_file("batting"), 
                            usecols = ['playerID', 'yearID', 'AB'])
         # isolate info for player in year year
         df = df[df.playerID == player.get_lahman_id()][df.yearID == year]
@@ -172,7 +172,7 @@ class Researcher(object):
         Produces the number of plate appearances that player had in year year
         """
         # get relevant columns from batting csv
-        df = pd.read_csv(Data.get_lahman_path("batting"), 
+        df = pd.read_csv(Data.get_lahman_file("batting"), 
                 usecols = ['playerID', 'yearID', 'AB', 'BB', 'HBP', 'SH', 'SF'])
 
         # isolate info for player in year year
@@ -191,7 +191,7 @@ class Researcher(object):
 
         Returns (firstName, lastName) for MLB player with id lahmanID
         """
-        df = pd.read_csv(Data.get_lahman_path("master"), 
+        df = pd.read_csv(Data.get_lahman_file("master"), 
                             usecols=['playerID', 'nameLast', 'nameFirst'])
         df = df[df.playerID == lahmanID]
         return df.nameFirst.item(), df.nameLast.item()

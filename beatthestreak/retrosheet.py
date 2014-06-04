@@ -6,7 +6,7 @@ import shutil
 import zipfile
 import subprocess
 
-from data import Data
+from filepath import Filepath
 
 class Retrosheet(object):
     """
@@ -24,13 +24,18 @@ class Retrosheet(object):
     """
     def __init__(self, season):
         self.season = str(season)
-        self.destZipped = Data.get_retrosheet_zipped_folder_path()
-        self.destUnzipped = Data.get_retrosheet_unzipped_folder_path()
-        self.eventFileZipped = Data.get_zipped_event_files_path(season)
-        self.eventFileUnzipped = Data.get_unzipped_event_files_path(season)
-        self.gamelogFolderUnzipped = Data.get_unzipped_gamelog_folder_path(season)
-        self.gamelogFileZipped = Data.get_zipped_gamelog_path(season)
-        self.gamelogFileUnzipped = Data.get_unzipped_gamelog_path(season)
+        self.destZipped = Filepath.get_retrosheet_folder(folder='zipped')
+        self.destUnzipped = Filepath.get_retrosheet_folder(folder='unzipped')
+        self.eventFileZipped = Filepath.get_retrosheet_file(folder='zipped', 
+            fileF='event', year=season)
+        self.eventFileUnzipped = Filepath.get_retrosheet_folder(
+            folder='unzipped', subFolder='events', year=season)
+        self.gamelogFolderUnzipped = Filepath.get_retrosheet_folder(
+            folder='unzipped', subFolder='gamelog', year=season)
+        self.gamelogFileZipped = Filepath.get_retrosheet_file(
+            folder='zipped', fileF='gamelog', year=season)
+        self.gamelogFileUnzipped = Filepath.get_retrosheet_file(
+            folder='unzipped', fileF='gamelog', year=season)
     
     def download_and_unzip(self, type='event'):
         self.download(type=type)
