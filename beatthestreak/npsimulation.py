@@ -3,10 +3,13 @@
 from simulation import Simulation
 import pandas as pd
 import sys
+import os
 
 from data import Data
 from pandas import DataFrame, Series, ExcelWriter
 from datetime import date, timedelta
+from progressbar import ProgressBar
+from progressbar.widgets import Timer, Percentage
 from player import PlayerL, Player
 from researcher import Researcher
 from exception import DifficultYearException
@@ -110,38 +113,146 @@ class NPSimulation(Simulation):
                 break
             self.sim_next_day()
             elapsedDays += 1
-
-        if not anotherSim:
+        
+        if anotherSim:
+            self.set_setup(value=False)
+        else:
             self.close() # cleans up retrosheet files from harddrive
         
-        print "Simulation over!"
-    #!!! TODO
+        print "Simulation simYear: {1}, batAveYear: {2} ".format(
+            self.get_sim_year(), self.get_bat_year()) + \
+            "N: {1}, P: {2} over!".format(self.get_n(), self.get_p())
+
     def many_simulate(self, simYearRange, simMinBatRange, NRange, 
         PRange):
         """
         tupleOfInts tupleOfInts tupleOfInts tupleOfInts -> None
         simYearRange: the years (inclusive) over which to run a simulation
-        simMinBatRange: the number of years (inclusive) over which to vary simYear - batAveYear
-        NRange: the integers over which to vary the number of bots
-        PRange: the integers over which to vary top player calculations
+        simMinBatRange: the number of years (inclusive) over which to vary 
+        simYear - batAveYear
+        NRange: the integers (inclusive) over which to vary the number of bots
+        PRange: the integers (inclusive) over which to vary top player calculations
 
         For each year in simYearRange, for each batAveYear that results from
-        subtracting a number in simMinBatRange from simYear, for each N in NRage, 
-        take a Pfrom P Range and run simulate. Report aggregate results in a csv
+        subtracting a number in simMinBatRange from simYear, for each N in NRange, 
+        take a P from P Range and run simulate. Report aggregate results in a csv
         file.
 
-        e.g: sim.many_simulate((2010,2010), (0,1), (1,2), (1,2)) runs a simulate
-        for each 4-tuple (simYear, batAveYear, N, P) with numDays='max' below:
+        e.g: sim.many_simulate((2010,2010), (0,1), (1,2), (1,2)) runs a simulation
+        for each 4-tuple (simYear, batAveYear, N, P) with numDays='max' below. 
+        Reports results in an excel file
             1) (2010, 2010, 1, 1)
             2) (2010, 2010, 1, 2)
             3) (2010, 2010, 2, 1)
             4) (2010, 2010, 2, 2)
             5) (2010, 2009, 1, 1)
             6) (2010, 2009, 1, 2)
-            7) (2010, 20, 2, 1)
+            7) (2010, 2009, 2, 1)
             8) (2010, 2010, 2, 2)
         """
-        pass
+        simYearL, batAveYearL, NL, PL , minBatAveL = [], [], [], [], []
+        numSuccessL, percentSuccessL, numFailL, percentFailL = [], [], [], []
+
+        maxval = len(range(simYearRange[0], simYearRange[1] + 1)) * \
+                 len(range(simMinBatRange[0], simMinBatRange[1] + 1)) * \
+                 len(range(NRange[0], NRange[1] + 1)) * \
+                 len(range(PRange[0], PRange[1] + 1))
+        widgets = ['Running simulations with simYear:({0}, {1}), '.format(
+            simYearRange[0], simYearRange[1]) + 'simMinBatRange({0}, {1}'.format(
+                simMinBatRange[0], simMinBatRange[1]), + ' N:{0} , P: {1}'.format(
+                self.get_n(), self.get_p()), Timer(), ' ', Percentage()]
+        pbar = ProgressBar(maxval=maxval, widgets=widgets).start()
+        ## run all the simulations, saving results to file for those simulations
+        ## with progressbar
+        i = 0
+        for simYear in simYearRange:
+            for batAveYear in self._bat_years_ms(simYear, simMinBatRange):
+                for N in NRange:
+                    for P in PRange:
+                        # set sim parameters and simulate
+                        self.set_sim_year(simYear)
+                        self.set_bat_year(batAveYear)
+                        self.set_n(N)
+                        self.set_p(P)
+                        self.simulate(anotherSim=True)
+
+                        # record sim results for reporting
+                        simYearL.append(self.get_sim_year())
+                        batAveYearL.Append(self.get_bat_year())
+                        NL.append(self.get_n())
+                        PL.append(self.get_p())
+                        minBatAveL.append(self.get_min_bat_ave())
+                        numS, percS, numF, percF = self.calc_s_and_f()
+                        numSuccessL.append(numS)
+                        percentSuccessL.append(percS)
+                        numFailL.append(numF)
+                        percentFailL.append(percF)
+
+                        # update progress bar
+                        i += 1
+                        pbar.update(i)
+        pbar.finish()
+
+        ## report aggregate results
+        self._report_many_results_excel(simYearL, batAveYearL, NL, PL, 
+            minBatAveL, numSuccessL, percentSuccessL, numFailL, percentFailL, 
+            simYearRange, simMinBatRange, NRange, PRange)
+
+        self.close()
+
+    def calc_s_and_f(self):
+        """
+        None -> int float int float
+
+        Returns numSuccesses, percentSuccesses, numFailures, percentFailures
+        for a completed simulation (self). 
+        """
+        # calculate num_successes
+        numSuccesses = 0
+        for bot in self.get_bots():
+            if bot.get_max_streak_length() >= 57:
+                numSuccesses += 1
+
+        numFailures = self.get_n() - numSuccesses
+        percentSuccesses = round(float(numSuccesses)/float(self.get_n()), 3)
+        percentFailures = round(float(numFailures)/float(self.get_n()), 3)
+
+        return numSuccesses, percentSuccesses, numFailures, percentFailures
+
+    def _report_many_results_excel(simYearL, batAveYearL, NL, PL, 
+            minBatAveL, numSuccessL, percentSuccessL, numFailL, percentFailL, 
+            simYearRange, simMinBatRange, NRange, PRange):
+        """
+        list list list list list list list list list tupleOfInts
+            tupleOfInts tupleOfInts tupleOfInts -> None
+        simYearL: List of simulation years for mass simulation
+        batAveYearL: List of batting average years for mass simulation
+        NL: List of N values for mass simulation
+        PL: List of P values for mass simulation
+        minBatAveL: list of minBatAve values for mass simulation
+        numSuccessL: List of number of Successes for mass simulation
+        percentSuccessL: List of percent of successes for mass simulation
+        numFailL: list of number of failrues for mass simulation
+        percentFailL: list of percent failures for mass simulation
+        simYearRange: (lowest_sim_year, highest_sim_year)
+        simMinBatRange: (lowest simYear-batAveYear, highest simYear-batAveYear)
+        NRange: (lowest N, highest N)
+        PRange: (lowest P, highset P)
+
+        Reports mass simulation results to excel spreadsheet
+        """
+        # Create dataframe with results
+        d = {'Sim Year': simYearL, 'Bat Ave Year': batAveYearL, 'N': NL, 
+             'P': PL, 'Min Bat Ave': minBatAveL, 'Successes': numSuccessL, 
+             'Successes (%)': percentSuccessL, 'Failures': numFailL, 
+             'Failures (%)': percentFailL }
+        df = DataFrame(d)
+
+        # Write the info to an excel spreadsheet
+        writer = ExcelWriter(Data.get_mass_results_path(simYearRange, 
+            simMinBatRange, NRange, PRange))
+        df.to_excel(writer=writer, index=False, sheet_name='Meta')
+        writer.save()
 
     def report_results(self, method='excel'):
         """
@@ -154,6 +265,23 @@ class NPSimulation(Simulation):
             self._report_results_stdout()
         if method == 'excel':
             self._report_results_excel()
+
+    def _bat_years_ms(self, simYear, simMinBatRange):
+        """
+        int tupleOfInts -> generatorOfInts
+        simYear: year of simulation (four digit int)
+        simMinBatRange: a duple (minYearsToSubtractFromSimYear,
+                                 maxYearsToSubtractFromSimYear)
+        """
+        ## type checking 
+        assert (type(simYear) == int) and (simYear >= 1900)
+        assert (type(simMinBatRange) == tuple)
+        for item in simMinBatRange:
+            assert type(item) == int
+
+        ## logic 
+        return (simYear - difference for difference 
+            in range(simMinBatRange[0], simMinBatRange[1] + 1))
 
     def _calc_num_unique_bots(self):
         """
@@ -176,32 +304,74 @@ class NPSimulation(Simulation):
         Calculates the top P players with respect to batting average
         in season self.batBatAveYear
         """
-        minPA = 502 # minimum plate appearances to qualify for calculation
-        players = [("", 0) for i in range(self.numPlayers)]
+        assert type(year) == int
 
-        #get series of unique playerIDs corresponding to given year
+        minPA = 502 # minimum plate appearances to qualify for calculation
+        players = []
+
+        if not os.path.isfile(Data.get_persistent_bat_ave_file(year)):
+            self._construct_bat_ave_csv(year)
+
+        # get the data from csv
+        df = pd.DataFrame.from_csv(Data.get_persistent_bat_ave_file(year))
+
+        # calculate the top P players, with progressbar
+        widgets = \
+            ['    Calculating the top {0} players in year {1} from file '.format(
+            self.get_p(), self.get_bat_year()), Timer(), ' ', Percentage()]
+        pbar = ProgressBar(maxval=self.get_p(), widgets=widgets).start()
+
+        lenPlayers, P = 0, self.get_p()
+        for lahmanID, batAve, PA in df.itertuples():
+            if lenPlayers == P:
+                break
+            if PA >= minPA:
+                players.append(Player(lenPlayers, 
+                    playerL=PlayerL(lahmanID, year)))
+                lenPlayers += 1
+                pbar.update(lenPlayers)
+        pbar.finish()
+        return players
+
+    def _construct_bat_ave_csv(self, year):
+        """
+        year -> None
+
+        Produces a csv with lahmanIDs and corresponding batting averages
+        in year year, sorted by batting average column. Saves it to 
+        file. Helper function for _calc_players
+        """
+        batAveCol = 'batAve' + str(year) + 'Sorted'
+        
+        # get series of unique playerIDs corresponding to given year
         df = pd.read_csv(Data.get_lahman_path("Batting"), 
                            usecols=['playerID', 'yearID', 'AB'])
         df = df[df.yearID == year]
-        uniqueIDs = pd.Series(df.playerID.values.ravel()).unique()
+        uniqueIDArray = pd.Series(df.playerID.values.ravel()).unique()
+             # uniqueIDArray is of type ndarray
 
-        # Calculate top P players/batting averages
-        for index, lahmanID in enumerate(uniqueIDs):
-            if type(players[0][0]) == PlayerL:
-                break
-            if index % 200 == 0: print index # progress tracker
+        # calculate batting averages, plate appearances, with progressbar
+        widgets = ['     Creating batting average csv for year %s ' % year, 
+            Timer(), ' ', Percentage()]
+        pbar = ProgressBar(maxval=len(uniqueIDArray), widgets=widgets).start()
+
+        batAveList, plateAppearList = [], []
+        for index, lahmanID in enumerate(uniqueIDArray):
+            pbar.update(index) # progress tracker
             player = PlayerL(lahmanID, year)
-            bat_ave = player.get_bat_ave()
-            if  bat_ave > players[0][1]:
-                if Researcher.num_plate_appearances(year, player) >= minPA:
-                    players[0] = (player, bat_ave)
-                    players.sort(key=lambda duple: duple[1])
-        players.reverse() # list is now from highest to lowest
+            batAveList.append(player.get_bat_ave())
+            plateAppearList.append(
+                Researcher.num_plate_appearances(year, player))
+        pbar.finish()
 
-        # turn players into full blown players, and index accordingly. 
-        for index, tuple in enumerate(players):
-            players[index] = Player(index, playerL=tuple[0])
-        return players
+        # persist the data in a csv
+        batAveS = pd.Series(batAveList, name=batAveCol)
+        plateAppearS = pd.Series(plateAppearList, name='PA')
+        uniqueIDS = pd.Series(uniqueIDArray, name='lahmanID')
+        df = pd.concat([uniqueIDS, batAveS, plateAppearS], axis=1)
+        df.sort(columns=batAveCol, ascending=False, inplace=True)
+        df.to_csv(path_or_buf=Data.get_persistent_bat_ave_file(year), 
+            index=False)
 
     def _report_results_stdout(self):
         """
@@ -337,12 +507,8 @@ class NPSimulation(Simulation):
         writer -> None
         """
         # get number, percent of success
-        numSuccesses = 0
-        for bot in self.get_bots():
-            if bot.get_max_streak_length() >= 57:
-                numSuccesses += 1
-        percentSuccesses = round(
-            float(numSuccesses)/float(self.get_n()))
+        numSuccesses, perecentSuccesses, numFails, percentFails = \
+            self.calc_s_and_f()
         percentSuccessesString = "{0:.0f}%".format(100 * percentSuccesses)
 
         yearS = Series([self.get_sim_year()], name='simYear')
@@ -379,6 +545,7 @@ class NPSimulation(Simulation):
         Produces an exception if year is before 1962 or a strike year (1972, 
             1982, 1994, 1995) since 1962. Returns the given year otherwise.
         """
+        assert type(year) == int
         # Since 1962 the season has been 162 games and 3.1 PAs per game, or 502
         # per season has been the min requirement for batting title contention.
         # This figure is altered for the strikeYears and years before 1962.
@@ -426,24 +593,51 @@ class NPSimulation(Simulation):
         """
         self.currentDate += timedelta(days=num_days)
     
+    def set_sim_year(self, year):
+        self.simYear = year
+
     def get_sim_year(self):
         return self.simYear
+
+    def set_bat_year(self, year):
+        self.batAveYear = year
 
     def get_bat_year(self):
         return self.batAveYear
 
+    def set_setup(self, value=False):
+        self.isSetup = value
 
-def main(simYear, batAveYear, N, P):
+    def get_setup(self):
+        return self.isSetup
+
+def main(*args, many=False):
     """
     run the simulation from the command line
     """
-    sim = NPSimulation(simYear, batAveYear, N, P)
-    sim.simulate()
+    if not many:
+        sim = NPSimulation(int(args[0]), int(args[1]), int(args[2]), int(args[3]))
+        sim.simulate()
+    # else, run a mass simulation
+    simYearRange = (int(args[0]), int(args[1]))
+    simMinBatRange = (int(args[2]), int(args[3]))
+    NRange = (int(args[4]), int(args[5]))
+    PRange = (int(args[6]), int(args[7]))
+    sim = NPSimulation(0, 0, 0, 0)
+    sim.many_simulate(simYearRange, simMinBatRange, NRange, PRange)
 
 if __name__ == '__main__':
     """
     Command line Usage:
 
-    ./npsimulation.py simYear batAveYear N P
+    1) ./npsimulation.py simYear batAveYear N P
+       -> runs a single simulation with given parameters
+    2) ./npsimulation.py simYearRange[0], simYearRange[1] simMinBatRange[0]
+              simMinBatRange[1] NRange[0] NRange[1] PRange[0] PRange[1] -m
+       -> runs a mass simulation with given parameters
     """
+    if "-m" in sys.argv:
+        main(sys.argv, many=True)
+    else:
+        main(sys.argv)
     main(int(sys.argv[1]), int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]))

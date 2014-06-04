@@ -14,6 +14,10 @@ class Data(object):
     @classmethod
     def get_root_dir(self):
         return self.rootDir
+    
+    @classmethod
+    def get_retrosheet_folder_path(self):
+        return self.rootDir + '/datasets/retrosheet'
 
     @classmethod
     def get_retrosheet_unzipped_folder_path(self):
@@ -22,7 +26,29 @@ class Data(object):
 
         Produces the filepath of the retrosheet unzipped files folder
         """
-        return self.rootDir + self.retrosheetUnzippedFolder
+        return self.get_retrosheet_folder_path() + '/unzipped'
+
+    @classmethod
+    def get_retrosheet_persistent_folder(self):
+        """
+        None -> string
+
+        Produces the filepath of the retrosheet/persistent folder
+        """
+        return self.get_retrosheet_folder_path() + '/persistent'
+
+    @classmethod
+    def get_persistent_bat_ave_file(self, year):
+        """
+        int -> string
+
+        Produces the filepath of the file containing all batting 
+        averages in year year in sorted order, with associated
+        lahmanIDs
+        """
+        assert type(year) == int and year > 1900
+        return self.get_retrosheet_persistent_folder() + \
+            '/battingAverages' + str(year) + '.csv'
 
     @classmethod
     def get_retrosheet_zipped_folder_path(self):
@@ -31,7 +57,7 @@ class Data(object):
 
         Produces the filepath of the retrosheet zipped files folder
         """
-        return self.rootDir + self.retrosheetZippedFolder
+        return self.get_retrosheet_folder_path() + '/zipped'
 
     @classmethod
     def get_zipped_gamelog_path(self, year):
@@ -132,6 +158,8 @@ class Data(object):
             os.mkdir(folder)
 
         return folder
+
+
     @classmethod
     def get_results_path(self, simYear, batAveYear, N, P, startDate, endDate):
         """
@@ -150,3 +178,25 @@ class Data(object):
             "N" + str(N) + "," + "P" + str(P) + "," + str(startDate.month) + \
             "." + str(startDate.day) + "-" + str(endDate.month) + "." + \
             str(endDate.day) + ".xlsx"
+
+    @classmethod
+    def get_mass_results_path(self, simYearRange, simMinBatRange, NRange, PRange):
+        """
+        tupleOfInts tupleOfInts tupleOfInts tupleOfInts -> string
+
+        simYearRange: (lowest_sim_year, highest_sim_year)
+        simMinBatRange: (lowest simYear-batAveYear, highest simYear-batAveYear)
+        NRange: (lowest N, highest N)
+        PRange: (lowest P, highset P)
+
+        Produces the filepath for the results file for the mass simulation
+        with the given parameters
+        """
+        results = self.get_results_path()
+        if not os.path.isdir(results + '/mass'):
+            os.mkdir(results + '/mass')
+
+        return results + '/mass' + '/S{0}-{1}'.format(simYearRange[0], 
+            simYearRange[1]) + ',' + 'SMB{0}-{1}'.format(simMinBatRange[0], 
+            simMinBatRange[1]) + ',' + 'N{0}-{1}'.format(NRange[0], 
+            NRange[1]) + ',' + 'P{0}-{1}'.format(PRange[0], PRange[1]) + '.xlsx'

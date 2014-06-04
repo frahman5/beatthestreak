@@ -1,3 +1,7 @@
 Variables: lowerCamelCase
 functions: lower_underscored
 classes: UpperCamelCase
+
+Comments:
+	## : organizational comment
+	#  : comment about nearby lines
