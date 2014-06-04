@@ -1,32 +1,20 @@
 import os
 import shutil
 
-from data import Data
 from datetime import date
-from player import Player
+from beatthestreak.player import Player
 from utilities import Utilities
 from researcher import Researcher
 from retrosheet import Retrosheet
 from bot import Bot
+from beatthestreak.filepath import Filepath
 
 def setup():
-	# Clean out retrosheet zipped file folder of everything
-    zippedFileFolder = Data.get_retrosheet_zipped_folder_path()
-    os.chdir(zippedFileFolder)
-    for file in os.listdir(os.getcwd()): os.remove(file)
-
-    # Clean out unzipped file folder as well
-    unzippedFileFolder = Data.get_retrosheet_unzipped_folder_path()
-    os.chdir(unzippedFileFolder)
-    for file in os.listdir(os.getcwd()): 
-      if os.path.isdir(file): 
-        shutil.rmtree(file)
-      else: 
-        os.remove(file) 
+    teardown()
 
 def teardown():
     # Clean out zipped file folder afterwards
-    zippedFileFolder = Data.get_retrosheet_zipped_folder_path()
+    zippedFileFolder = Filepath.get_retrosheet_folder(folder='zipped')
     os.chdir(zippedFileFolder)
     for file in os.listdir(os.getcwd()): 
       if os.path.isdir(file): 
@@ -35,7 +23,7 @@ def teardown():
         os.remove(file) 
 
     # Clean out unzipped file folder as well
-    unzippedFileFolder = Data.get_retrosheet_unzipped_folder_path()
+    unzippedFileFolder = Filepath.get_retrosheet_folder(folder='unzipped')
     os.chdir(unzippedFileFolder)
     for file in os.listdir(os.getcwd()): 
       if os.path.isdir(file): 

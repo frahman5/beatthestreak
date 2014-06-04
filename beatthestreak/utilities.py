@@ -52,3 +52,12 @@ class Utilities(object):
         if not os.path.isfile(Data.get_unzipped_gamelog_path(year)):
             R = Retrosheet(year)
             R.download_and_unzip(type='gamelog')
+
+    @classmethod
+    def type_check(self, thing, typeC):
+        """
+        object type -> None
+
+        asserts type(object) == typeC
+        """
+        assert type(thing) == typeC
