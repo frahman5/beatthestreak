@@ -2,6 +2,7 @@ import datetime
 from retrosheet import Retrosheet
 from utilities import Utilities
 from researcher import Researcher
+from exception import DifficultYearException
 
 class Simulation(object):
     """
@@ -19,13 +20,14 @@ class Simulation(object):
         currentDate: date | startDate for simulation
         """
         assert type(year) == int
-        assert type(startDate) == str
+        assert (type(startDate) == str) or (type(startDate) == datetime.date)
 
         self.simYear = self._check_year(year)
         if startDate == 'default':
-            self.currentDate = Researcher.get_opening_day(simYear)
+            self.currentDate = Researcher.get_opening_day(year)
         else:
-            Researcher.check_date(startDate)
+            assert type(startDate) == datetime.date
+            Researcher.check_date(startDate, startDate.year)
             self.currentDate = startDate
 
     def _check_year(self, year):
@@ -52,9 +54,9 @@ class Simulation(object):
 
     	Downloads and parses necessary retrosheet data for the simulation
     	"""
-        retro = Retrosheet(self.year)
-        retro.download_and_unzip(type='event')
-        retro.download_and_unzip(type='gamelog')
+        retro = Retrosheet(self.simYear)
+        retro.download_and_unzip(typeT='event')
+        retro.download_and_unzip(typeT='gamelog')
         retro.gen_boxscores()
         retro.clean_used_files()
 
