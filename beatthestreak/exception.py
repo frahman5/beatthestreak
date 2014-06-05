@@ -9,3 +9,9 @@ class FileContentException(Exception):
 
 class BadFilepathException(Exception):
 	pass
+
+class BadDateException(Exception):
+	pass
+
+class NoRetrosheetTypeException(Exception):
+	pass

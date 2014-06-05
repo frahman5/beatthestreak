@@ -1,62 +1,74 @@
 import os
 import shutil
+import datetime
 
 from retrosheet import Retrosheet
+from filepath import Filepath
 
 class Utilities(object):
     """
-    A container class for commonly used generic
-    utility functions
+    A container class for commonly used generic utility functions
     """
     
     @classmethod
     def convert_date(self, date):
         """
-        date(year, month, day) -> string
-        date: date(year, month, day) | a date of the year
+        date -> string
+        date:  | a date of the year
         
         Produces date in retrosheet gamelog format "yyyymmdd""
         """
+        assert type(date) == datetime.date
+
         return date.isoformat().replace('-', '')
 
     @classmethod
     def clean_retrosheet_files(self):
         """
-        deletes all zipped and unzipped event and gamelog (retrosheet) files
+        deletes all zipped and unzipped event and gamelog (retrosheet) files.
+        Leaves files in the persistent folder alone
         """
-        # Clean out zipped file folder afterwards
-        zippedFileFolder = Data.get_retrosheet_zipped_folder_path()
-        os.chdir(zippedFileFolder)
-        for file in os.listdir(os.getcwd()): 
-          if os.path.isdir(file): 
-            shutil.rmtree(file)
-          else: 
-            os.remove(file) 
+        # Get zipped and unzipped folder names
+        zippedFileFolder = Filepath.get_retrosheet_folder(folder='zipped')
+        unzippedFileFolder = Filepath.get_retrosheet_folder(folder='unzipped')
 
-        # Clean out unzipped file folder as well
-        unzippedFileFolder = Data.get_retrosheet_unzipped_folder_path()
-        os.chdir(unzippedFileFolder)
-        for file in os.listdir(os.getcwd()): 
-          if os.path.isdir(file): 
-            shutil.rmtree(file)
-          else: 
-            os.remove(file) 
+        # Clean out all files in both folders
+        for folder in (zippedFileFolder, unzippedFileFolder):
+            os.chdir(folder)
+            for file in os.listdir(os.getcwd()): 
+              if os.path.isdir(file): 
+                shutil.rmtree(file)
+              else: 
+                os.remove(file) 
 
     @classmethod
     def ensure_gamelog_files_exist(self, year):
         """
-        checks if gamelog files for year year are on drive. If not, 
+        int -> None
+        year: int | year of interest
+
+        Checks if gamelog files for year year are on drive. If not, 
         downloads them
         """
-        if not os.path.isfile(Data.get_unzipped_gamelog_path(year)):
-            R = Retrosheet(year)
-            R.download_and_unzip(type='gamelog')
+        assert type(year) == int
+
+        if not os.path.isfile(Filepath.get_retrosheet_file(folder='unzipped', 
+            fileF='gamelog', year=year)):
+            Retrosheet(year).download_and_unzip(typeT='gamelog')
 
     @classmethod
-    def type_check(self, thing, typeC):
+    def ensure_boxscore_files_exist(self, year, team):
         """
-        object type -> None
+        int string -> None
+        year: int | year of interest
+        team: str | three letter abbreviation representing team of interest
 
-        asserts type(object) == typeC
+        Checks if gamelog files for year year are on drive. If not, 
+        downloads them
         """
-        assert type(thing) == typeC
+        assert type(year) == int
+        assert type(team) == str
+
+        if not os.path.isfile(Filepath.get_retrosheet_file(folder='unzipped',
+            fileF='boxscore', year=year, team=team)):
+            Retrosheet(year).gen_boxscores()

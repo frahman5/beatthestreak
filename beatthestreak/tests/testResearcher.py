@@ -1,11 +1,12 @@
 import unittest
 
 from datetime import date
-from data import Data
-from researcher import Researcher as R
-from tests import setup, teardown, date, p1, p2, p3, p4, p5
-from player import PlayerL, Player
-from exception import FileContentException
+
+from beatthestreak.filepath import Filepath
+from beatthestreak.researcher import Researcher as R
+from beatthestreak.tests import setup, teardown, p1, p2, p3, p4, p5
+from beatthestreak.player import PlayerL, Player
+from beatthestreak.exception import FileContentException, BadDateException
 
 participants_2012_3_28 = ["hallt901","nelsj901","hudsm901","belld901",
                           "wedge001","melvb001","wilht001","caria001",
@@ -29,18 +30,21 @@ class TestResearcher(unittest.TestCase):
     
     def test_get_participants(self):
     	self.assertEqual(R.get_participants(date(2011,9,4)), 
-        	             participants_2011_9_4)
+            participants_2011_9_4)
         self.assertEqual(R.get_participants(date(2012,3,28)), 
-        	             participants_2012_3_28)
+            participants_2012_3_28)
         self.assertEqual(R.get_participants(date(2013,6,7)), 
-        	             participants_2013_6_7)
+            participants_2013_6_7)
 
     def test_find_home_team(self):
-        Lance = Player(0, "Lance", "Berkman", 2008)
     	self.assertEqual(R.find_home_team(date(2011, 8, 3), p1), "MIL")
         self.assertEqual(R.find_home_team(date(2012, 5, 2), p1), "WAS")
         self.assertEqual(R.find_home_team(date(2012, 6, 15), p2), "TBA")
         self.assertEqual(R.find_home_team(date(2013, 9, 20), p2), "BOS")
+        
+        # find home team for a game that was suspended and resumed on
+        # a later date
+        Lance = Player(0, "Lance", "Berkman", 2008)
         self.assertEqual(R.find_home_team(date(2009, 7, 9), Lance), "HOU")
 
     def test_did_start(self):
@@ -118,7 +122,7 @@ class TestResearcher(unittest.TestCase):
 
     def test__search_file(self):
         import os
-        os.chdir(Data.get_root_dir() + "/tests/")
+        os.chdir(Filepath.get_root() + "/tests/")
         testFile = open("testResearcher.txt")
         self.assertIsNotNone(R._search_file(testFile, "Omega"))
         self.assertRaises(FileContentException, R._search_file, testFile, "fifty")
@@ -153,3 +157,7 @@ class TestResearcher(unittest.TestCase):
     def test_get_closing_day(self):
         self.assertEqual(R.get_closing_day(2010), date(2010,10,3))
         self.assertEqual(R.get_closing_day(1992), date(1992, 10,4))
+
+    def test_check_date(self):
+        self.assertRaises(BadDateException, R.check_date, date(2010, 3, 1), 
+            2010)

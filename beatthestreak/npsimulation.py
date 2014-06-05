@@ -1,15 +1,13 @@
-#! pyvenv/bin/python
-
-from simulation import Simulation
-import pandas as pd
 import sys
 import os
 
-from data import Data
-from pandas import DataFrame, Series, ExcelWriter
+from pandas import DataFrame, Series, ExcelWriter, to_csv, from_csv, to_excel
 from datetime import date, timedelta
 from progressbar import ProgressBar
 from progressbar.widgets import Timer, Percentage
+
+from filepath import FilePath
+from simulation import Simulation
 from player import PlayerL, Player
 from researcher import Researcher
 from exception import DifficultYearException
@@ -22,7 +20,7 @@ class NPSimulation(Simulation):
     NP Strategy denotes a number N of robots and a number P of MLB players. 
 
     Strategy: The Simulation initalizes N robots (accounts) and calculates the P
-    "best" players ordered by highest seasonal or career batting average. Each
+    "best" players ordered by highest seasonal batting average. Each
     day, it checks which of the P players are playing in a game and then assigns
     the active ones to the bots in order from highest batting average to lowest, 
     repeating the list of P players as many times as needed to assign a player
@@ -31,19 +29,15 @@ class NPSimulation(Simulation):
     Currently only handles regular season
     """
     def __init__(self, simYear, batAveYear, N, P, startDate='default'):
+
         Simulation.__init__(self, simYear, startDate)
         self.simYear = self._check_year(simYear)
         self.batAveYear = self._check_year(batAveYear)
         self.numBots = N
         self.numPlayers = P
-        self.minBatAve = 0 # set later, upon setup
-        self.players = [] # set later, upon setup
-        self.bots = []
-        if startDate == 'default':
-            self.currentDate = Researcher.get_opening_day(simYear)
-        else:
-            assert type(startDate) == date
-            self.currentDate = startDate
+        self.minBatAve = 0 # set upon setup
+        self.players = [] # set upon setup
+        self.bots = [] # set upon setup
         self.isSetup = False
 
     def setup(self):
@@ -313,7 +307,7 @@ class NPSimulation(Simulation):
             self._construct_bat_ave_csv(year)
 
         # get the data from csv
-        df = pd.DataFrame.from_csv(Data.get_persistent_bat_ave_file(year))
+        df = DataFrame.from_csv(Data.get_persistent_bat_ave_file(year))
 
         # calculate the top P players, with progressbar
         widgets = \
@@ -344,10 +338,10 @@ class NPSimulation(Simulation):
         batAveCol = 'batAve' + str(year) + 'Sorted'
         
         # get series of unique playerIDs corresponding to given year
-        df = pd.read_csv(Data.get_lahman_file("Batting"), 
+        df = read_csv(Data.get_lahman_file("Batting"), 
                            usecols=['playerID', 'yearID', 'AB'])
         df = df[df.yearID == year]
-        uniqueIDArray = pd.Series(df.playerID.values.ravel()).unique()
+        uniqueIDArray = Series(df.playerID.values.ravel()).unique()
              # uniqueIDArray is of type ndarray
 
         # calculate batting averages, plate appearances, with progressbar
@@ -365,10 +359,10 @@ class NPSimulation(Simulation):
         pbar.finish()
 
         # persist the data in a csv
-        batAveS = pd.Series(batAveList, name=batAveCol)
-        plateAppearS = pd.Series(plateAppearList, name='PA')
-        uniqueIDS = pd.Series(uniqueIDArray, name='lahmanID')
-        df = pd.concat([uniqueIDS, batAveS, plateAppearS], axis=1)
+        batAveS = Series(batAveList, name=batAveCol)
+        plateAppearS = Series(plateAppearList, name='PA')
+        uniqueIDS = Series(uniqueIDArray, name='lahmanID')
+        df = concat([uniqueIDS, batAveS, plateAppearS], axis=1)
         df.sort(columns=batAveCol, ascending=False, inplace=True)
         df.to_csv(path_or_buf=Data.get_persistent_bat_ave_file(year), 
             index=False)
@@ -470,7 +464,7 @@ class NPSimulation(Simulation):
             name='Streak Length')
 
         # construct dataframe to write to excel file
-        df = pd.concat([playerS, batAveS, hitS, dateS, streakS], axis=1)
+        df = concat([playerS, batAveS, hitS, dateS, streakS], axis=1)
 
         # put df info on excel buffer
         botIndexString = str(bot.get_index())
@@ -497,7 +491,7 @@ class NPSimulation(Simulation):
             enoughEmptyRows, name='Unique Bots(%)')
 
         # construct dataframe to write to excel file
-        df = pd.concat([botS, maxStreakS, aveStreakS, uniqueBotS], axis=1)
+        df = concat([botS, maxStreakS, aveStreakS, uniqueBotS], axis=1)
 
         # put df info on excel buffer
         df.to_excel(writer, index=False, sheet_name='Bots Meta')
@@ -524,7 +518,7 @@ class NPSimulation(Simulation):
             name='percentSuccesses')
 
         # construct dataframe to write to excel file
-        df = pd.concat([yearS, batS, nS, pS, startDateS, endDateS, 
+        df = concat([yearS, batS, nS, pS, startDateS, endDateS, 
             successS, percentSuccessS], axis=1)
 
         # put df info on excel buffer
@@ -538,23 +532,6 @@ class NPSimulation(Simulation):
         {p1, p2, .., pP}, pi_bat_ave >= f.
         """ 
         return self.players[-1].get_bat_ave()
-
-    def _check_year(self, year):
-        """
-        int -> None|int
-        Produces an exception if year is before 1962 or a strike year (1972, 
-            1982, 1994, 1995) since 1962. Returns the given year otherwise.
-        """
-        assert type(year) == int
-        # Since 1962 the season has been 162 games and 3.1 PAs per game, or 502
-        # per season has been the min requirement for batting title contention.
-        # This figure is altered for the strikeYears and years before 1962.
-        if (year <= 1962) or (year in (1972, 1981, 1994, 1995)):
-            raise DifficultYearException("The years 1972, 1981, 1994, 1995 " + \
-                "had strikes, and the years before 1962 didn't have 162 games." + \
-                " Please simulate in another year") 
-        else:
-            return year
 
     def get_players(self):
         return self.players
@@ -580,24 +557,12 @@ class NPSimulation(Simulation):
     def get_p(self):
         return self.numPlayers
 
-    def set_date(self, date):
-        self.currentDate = date
-    
-    def get_date(self):
-        return self.currentDate
-
     def incr_date(self, num_days=1):
         """
         int -> None
         increment self.currentDate by num_days
         """
         self.currentDate += timedelta(days=num_days)
-    
-    def set_sim_year(self, year):
-        self.simYear = year
-
-    def get_sim_year(self):
-        return self.simYear
 
     def set_bat_year(self, year):
         self.batAveYear = year

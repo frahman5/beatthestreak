@@ -2,11 +2,11 @@ import unittest
 import os
 import shutil
 
-from player import Player, PlayerL
-from tests import setup, teardown, p1, p2, p3, p4, p5, p1BattingAve, \
-    p2BattingAve, p3BattingAve, p4BattingAve, p5BattingAve
-from data import Data
-from exception import NoPlayerException
+from beatthestreak.player import Player, PlayerL
+from beatthestreak.tests import setup, teardown, p1, p2, p3, p4, p5, \
+     p1BattingAve, p2BattingAve, p3BattingAve, p4BattingAve, p5BattingAve
+from beatthestreak.filepath import Filepath
+from beatthestreak.exception import NoPlayerException
 
 # @unittest.skip("Focus is not on Player right now")
 class testPlayer(unittest.TestCase):
@@ -45,6 +45,11 @@ class testPlayer(unittest.TestCase):
         p3 = PlayerL("reyesjo01", 2010)
         p3 = Player(0, playerL=p3)
         self.assertEqual(p1, p3)
+
+    def test__repr__and__str__(self):
+        self.assertEqual(str(p1), "Edwin Jackson: 0.228")
+        self.assertEqual("%r" % p1, "Edwin Jackson: 0.228")
+        
     def test_get_and_set_lahman_id(self):
         self.assertEqual(p1.get_lahman_id(), "jacksed01")
         self.assertEqual(p2.get_lahman_id(), "reyesjo01")

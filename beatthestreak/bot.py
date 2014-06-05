@@ -26,7 +26,7 @@ class Bot(object):
         Bots are considered equal if they have the same maxStreakLength
         and identical player histories
         """
-        Utilities.type_check(other, Bot)
+        assert type(other) == Bot
 
         if self.get_max_streak_length() != other.get_max_streak_length():
             return False
@@ -45,9 +45,9 @@ class Bot(object):
         Assigns a player to this bot for a given day.
         Updates history accordingly
         """
-        Utilities.type_check(player, Player)
-        Utilities.type_check(didGetHit, bool)
-        Utilities.type_check(date, datetime.date)
+        assert type(player) == Player
+        assert type(didGetHit) == bool
+        assert type(date) == datetime.date
  
         # assign the player
         self.player = player
@@ -70,7 +70,7 @@ class Bot(object):
 
         Increment this bot's streak by amount
         """
-        Utilities.type_check(amount, int)
+        assert type(amount) == int
 
         self.streakLength += amount
         
@@ -90,7 +90,7 @@ class Bot(object):
         self.streakLength = 0
 
     def set_max_streak_length(self, amount):
-        Utilities.type_check(amount, int)
+        assert type(amount) == int
 
         self.maxStreakLength = amount
 

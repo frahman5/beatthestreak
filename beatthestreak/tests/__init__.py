@@ -25,7 +25,6 @@ def teardown():
 
     # Clean out unzipped file folder as well
     unzippedFileFolder = Filepath.get_retrosheet_folder(folder='unzipped')
-    print "unzipped File Folder: {0}".format(unzippedFileFolder)
     os.chdir(unzippedFileFolder)
     for file in os.listdir(os.getcwd()): 
       if os.path.isdir(file): 
