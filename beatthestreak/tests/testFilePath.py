@@ -74,25 +74,38 @@ class TestFilepath(unittest.TestCase):
             fileF='batAve', year=2005), self.rootDir + \
             '/datasets/retrosheet/persistent/battingAverages2005.csv')
 
-        # # test bad file path exception
-        # self.assertRaises(BadFilepathException, Filepath.get_retrosheet_file,
-        # folder='persistent', fileF='omega', year=2002)
-
     def test_get_lahman_file(self):
         # test master.csv
         self.assertEqual(Filepath.get_lahman_file("master"), 
             self.rootDir + '/datasets/lahman/unzipped/lahman2013-csv/master.csv')
 
     def test_get_results_folder(self):
+        # test in non-testing environment
         self.assertEqual(Filepath.get_results_folder(2005), 
             self.rootDir + '/results/2005')
+        # test for testing environment
+        self.assertEqual(Filepath.get_results_folder(2005, test=True), 
+            self.rootDir + '/tests/results/2005')
 
     def test_results_file(self):
+        # test in non-testing environment
         self.assertEqual(Filepath.get_results_file(2010, 2009, 50, 10, 
             date(2010, 4, 4), date(2010, 9, 30)), self.rootDir + \
             "/results/2010/Sim2010,batAve2009,N50,P10,4.4-9.30.xlsx")
 
+        # test for testing environment
+        self.assertEqual(Filepath.get_results_file(2010, 2009, 50, 10, 
+            date(2010, 4, 4), date(2010, 9, 30), test=True), self.rootDir + \
+            "/tests/results/2010/Sim2010,batAve2009,N50,P10,4.4-9.30.xlsx")
+
+
     def test_get_mass_results_file(self):
+        # test for non-testing environment
         self.assertEqual(Filepath.get_mass_results_file((2009, 2010), (0, 3), 
             (1, 100), (1, 100)), self.rootDir + '/results/mass/S2009-2010' + \
         ',SMB0-3,N1-100,P1-100.xlsx')
+
+        # test for testing environment
+        self.assertEqual(Filepath.get_mass_results_file((2009, 2010), (0, 3), 
+            (1, 100), (1, 100), test=True), self.rootDir + '/tests/results/' + \
+            'mass/S2009-2010,SMB0-3,N1-100,P1-100.xlsx')

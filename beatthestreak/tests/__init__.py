@@ -14,23 +14,26 @@ def setup():
     teardown()
 
 def teardown():
-    # Clean out zipped file folder afterwards
+    # get folders to clean
     zippedFileFolder = Filepath.get_retrosheet_folder(folder='zipped')
-    os.chdir(zippedFileFolder)
-    for file in os.listdir(os.getcwd()): 
-      if os.path.isdir(file): 
-        shutil.rmtree(file)
-      else: 
-        os.remove(file) 
-
-    # Clean out unzipped file folder as well
     unzippedFileFolder = Filepath.get_retrosheet_folder(folder='unzipped')
-    os.chdir(unzippedFileFolder)
-    for file in os.listdir(os.getcwd()): 
-      if os.path.isdir(file): 
-        shutil.rmtree(file)
-      else: 
-        os.remove(file) 
+    testsResultsFolders = (Filepath.get_results_folder(year=year, test=True) for 
+      year in range(1950, 2014))
+    for folder in (zippedFileFolder, unzippedFileFolder):
+      os.chdir(folder)
+      for file in os.listdir(os.getcwd()): 
+        if os.path.isdir(file): 
+          shutil.rmtree(file)
+        else: 
+          os.remove(file) 
+    for folder in testsResultsFolders:
+      os.chdir(folder)
+      for file in os.listdir(os.getcwd()): 
+        if os.path.isdir(file): 
+          shutil.rmtree(file)
+        else: 
+          os.remove(file) 
+
 
 ## testPlayer variables
 p1BattingAve, p2BattingAve  = 0.228, 0.287

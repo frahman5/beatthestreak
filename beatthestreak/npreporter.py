@@ -1,23 +1,26 @@
-from pandas import ExcelWriter, Series, Dataframe
+from pandas import ExcelWriter, Series, DataFrame
 from exception import InvalidResultsMethodException
 
 class NPReporter(object):
-	"""
+    """
     NPReporter initalizes with an instance of NPSimulation and is used
     to report simulation results
-	"""
-	outputMethods = ('excel', 'stdout')
+    """
+    
+    def __init__(self, npsim, Test=False):
+        """
+        NPSimulation bool -> None
+        npsim: NPSimulation | the simulation for which this reporter object will 
+           report results
+        Test: bool | Indicates whether or not this Reporter is reporting under
+           a testing framework. For debugging purposes
+        """
+        self.npsim = npsim
+        self.outputMethods = ('excel', 'stdout')
+        self.Test=Test
 
-    def __init__(self, npsim):
-    	"""
-    	NPSimulation -> None
-    	npsim is the simulation for which this reporter object will 
-    	report results
-    	"""
-    	self.npsim = npsim
-
-    def get_npsim():
-    	return self.npsim
+    def get_npsim(self):
+        return self.npsim
 
     def report_results(self, method='excel'):
         """
@@ -70,9 +73,14 @@ class NPReporter(object):
         df = DataFrame(d)
 
         # Write the info to an excel spreadsheet
-        writer = ExcelWriter(Filepath.get_mass_results_path(
-            kwargs['simYearRange'], kwargs['simMinBatRange'], 
-            kwargs['NRange'], kwargs['PRange']))
+        if self.Test == True: # debugging code
+            writer = ExcelWriter(Filepath.get_mass_results_file(
+                kwargs['simYearRange'], kwargs['simMinBatRange'], 
+                kwargs['NRange'], kwargs['PRange'], test=True))
+        else:
+            writer = ExcelWriter(Filepath.get_mass_results_file(
+                kwargs['simYearRange'], kwargs['simMinBatRange'], 
+                kwargs['NRange'], kwargs['PRange']))
         df.to_excel(writer=writer, index=False, sheet_name='Meta')
         writer.save()
 

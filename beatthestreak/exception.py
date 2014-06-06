@@ -18,3 +18,12 @@ class NoRetrosheetTypeException(Exception):
 
 class InvalidResultsMethodException(Exception):
 	pass
+
+class NotSuspendedGameException(Exception):
+	pass
+
+class SusGameDoesntFitCategoryException(Exception):
+	pass
+
+class BotUpdateException(Exception):
+	pass

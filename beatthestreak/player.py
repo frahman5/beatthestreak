@@ -80,10 +80,10 @@ class Player(PlayerL):
         2) Player(index, firstN, lastN, batAveYear)
             -> constructor will find retrosheet id, lahman id, batting ave, and
             if necessary prompt the user for a debut date
-        3) Player(index, firstN, lastN, batAveYear, debut='mmddyyy')
+        3) Player(index, firstN, lastN, batAveYear, debut='mm/dd/yyyy')
             -> same as above, except now with player debut date specified, 
             there is no chance of ambiguity in retrieving a retrosheet id
-
+            -> if debut was september 4th, 1990, do debut='9/4/1990'
         """
         # Type 1 construction
         if 'playerL' in kwargs.keys():

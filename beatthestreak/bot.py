@@ -2,7 +2,7 @@ import datetime
 
 from utilities import Utilities
 from player import Player
-
+from exception import BotUpdateException
 class Bot(object):
     """
     A robot representing an account on MLB.com for beat the streak
@@ -38,28 +38,40 @@ class Bot(object):
         """
         Player Bool date -> None
         player: Player | the next player this bot will bet on 
-        didGetHit: bool | true if player got hit on date of assignment, 
-            false otherwise
+        didGetHit: bool OR string | true if player got hit on date of assignment, 
+            false if player did not get hit on date of assignment, 'pass' if 
+            player played in an invalid, suspended game on date of assigment
         date: date | date of assignment
 
         Assigns a player to this bot for a given day.
         Updates history accordingly
         """
         assert type(player) == Player
-        assert type(didGetHit) == bool
+        assert (type(didGetHit) == bool) or (didGetHit == 'pass')
         assert type(date) == datetime.date
  
         # assign the player
         self.player = player
 
         # if he got a hit, increase the streak length
-        if didGetHit:
+        if didGetHit == True:
             self.incr_streak_length()
+
         # if he didn't, update maxStreakLength if need be and reset the streak
-        else:
+        elif didGetHit == False:
             if self.get_streak_length() > self.get_max_streak_length():
                 self.set_max_streak_length(self.get_streak_length())
             self.reset_streak()
+
+        # if this bot is getting a pass, leave the streak alone
+        elif didGetHit == 'pass':
+            pass 
+
+        # if none of the above occured, we have a problem
+        else:  # pragma: no cover
+            raise BotUpdateException("Update with player {0}".format(player) + \
+                ", didGetHit: {0}, date: {1}".format(didGetHit, date) + \
+                " was invalid")
 
         # update the history list
         self.history.append((player, didGetHit, date, self.streakLength))

@@ -49,22 +49,37 @@ class TestBot(unittest.TestCase):
         self.assertEqual(self.bot2.get_index(), 2)
 
     def test_update_history_and_get_player(self):
+        ## All three phases test that correct player and date were assigned 
+
+        # test that passing True for hitVal increases streak length by 1
+        self.assertEqual(self.bot1.get_streak_length(), 0) 
         self.bot1.update_history(p2, True, date(2003,3,3))
-        self.bot2.update_history(p4, False, date(2003,3,4))
+        self.assertEqual(self.bot1.get_player(), p2) # right player
+        self.assertEqual(self.bot1.get_streak_length(), 1) # right streak length
+        self.assertEqual(self.bot1.get_history()[0][2], date(2003, 3, 3)) # right date
 
-        self.assertNotEqual(self.bot1.get_player(), p4)
-        self.assertEqual(self.bot1.get_player(), p2)
-        self.assertNotEqual(self.bot2.get_player(), p2)
-        self.assertEqual(self.bot2.get_player(), p4)
+        # test that passing 'pass' for hitVal keeps streak length where it is
+        self.assertEqual(self.bot1.get_streak_length(), 1)
+        self.bot1.update_history(p3, 'pass', date(2003, 3, 4))
+        self.assertEqual(self.bot1.get_player(), p3) # right player
+        self.assertEqual(self.bot1.get_streak_length(), 1) # right streak length
+        self.assertEqual(self.bot1.get_history()[1][2], date(2003, 3, 4)) # right date
 
-    # def test_get_history(self):
-    #     bot3 = Bot(3)
-    #     bot3.update_history(p1, False, date(2003,3,3))
-    #     bot3.update_history(p3, True, date(2003,3,4))
-    #     bot3.update_history(p2, True, date(2003,3,5))
-    #     bot3.update_history(p4, False, date(2003,3,6))
+        # test that "pass" False for hitval resets streak length
+        self.assertEqual(self.bot1.get_streak_length(), 1)
+        self.bot1.update_history(p4, False, date(2003, 3, 5))
+        self.assertEqual(self.bot1.get_player(), p4) # right player
+        self.assertEqual(self.bot1.get_streak_length(), 0) # right streak length
+        self.assertEqual(self.bot1.get_history()[2][2], date(2003, 3, 5)) # right date
 
-    #     self.assertEqual(bot3.get_history(), [(p1, False, date(2003,3,3), 0),
-    #                     (p3, True, date(2003,3,4), 1), 
-    #                     (p2, True, date(2003,3,5), 2), 
-    #                     (p4, False, date(2003,3,6), 0)])
+    def test_get_history(self):
+        bot3 = Bot(3)
+        bot3.update_history(p1, False, date(2003,3,3))
+        bot3.update_history(p3, True, date(2003,3,4))
+        bot3.update_history(p2, True, date(2003,3,5))
+        bot3.update_history(p4, False, date(2003,3,6))
+
+        self.assertEqual(bot3.get_history(), [(p1, False, date(2003,3,3), 0),
+                        (p3, True, date(2003,3,4), 1), 
+                        (p2, True, date(2003,3,5), 2), 
+                        (p4, False, date(2003,3,6), 0)])

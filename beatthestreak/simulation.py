@@ -80,4 +80,3 @@ class Simulation(object):
     
     def get_date(self):
         return self.currentDate
-

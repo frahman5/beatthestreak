@@ -142,10 +142,12 @@ class Filepath(object):
                   fileF + ".csv"
 
     @classmethod
-    def get_results_folder(self,year):
+    def get_results_folder(self,year, test=False):
         """
-        int -> string
-        year: the year for which you want the results folder
+        int bool -> string
+        year: int | the year for which you want the results folder
+        test: bool | indicates whether or not this is being run 
+           from a test environment
 
         Returnsthe filepath of the results folder containing simulations
         for year year
@@ -154,22 +156,29 @@ class Filepath(object):
 
         # check results folder for year year is there
         os.chdir(self.get_root())
-        folder = os.getcwd() + '/results/' + str(year)
+
+        if test: # if its a test case, get the test results folder
+            folder = os.getcwd() + '/tests/results/' + str(year)
+        else: # otherwise get the production results folder
+            folder = os.getcwd() + '/results/' + str(year)
         if not os.path.isdir(folder): # pragma: no cover
             os.mkdir(folder)
 
         return folder
 
     @classmethod
-    def get_results_file(self, simYear, batAveYear, N, P, startDate, endDate):
+    def get_results_file(self, simYear, batAveYear, N, P, startDate, endDate, 
+           test=False):
         """
-        int int int int date date -> string
+        int int int int date date bool -> string
         simYear: int | year of simulation
         batAveYear: int | year with respect to which batting averages are calculated
         N: int | number of bots
         P: int | number of top players
         startDate: date | start date of simulation
         endDate: date | end date of simulation
+        test: bool | indicates whether or not this is being run under a test
+           environment
 
         Produces the filepath of the results file containing the simulation with
         simYear, batAveYear, N, P, startDate, endDate
@@ -179,20 +188,23 @@ class Filepath(object):
         assert type(startDate) == date
         assert type(endDate) == date
 
-        return self.get_results_folder(simYear) + '/Sim' + str(simYear) + "," +\
-            'batAve' + str(batAveYear) + "," + "N" + str(N) + "," + "P" + \
-            str(P) + "," + str(startDate.month) + "." + str(startDate.day) + \
-            "-" + str(endDate.month) + "." + str(endDate.day) + ".xlsx"
+        return self.get_results_folder(simYear, test=test) + '/Sim' + \
+            str(simYear) + "," + 'batAve' + str(batAveYear) + "," + "N" + \
+            str(N) + "," + "P" + str(P) + "," + str(startDate.month) + "." + \
+            str(startDate.day) + "-" + str(endDate.month) + "." + \
+            str(endDate.day) + ".xlsx"
 
     @classmethod
-    def get_mass_results_file(self, simYearRange, simMinBatRange, NRange, PRange):
+    def get_mass_results_file(self, simYearRange, simMinBatRange, NRange, PRange, 
+            test=False):
         """
-        tupleOfInts tupleOfInts tupleOfInts tupleOfInts -> string
+        tupleOfInts tupleOfInts tupleOfInts tupleOfInts bool -> string
 
         simYearRange: TupleOfInts | (lowest_sim_year, highest_sim_year)
         simMinBatRange: TupleOfInts | (lowest simYear-batAveYear, highest simYear-batAveYear)
         NRange: TupleOfInts | (lowest N, highest N)
         PRange: TupleOfInts | (lowest P, highset P)
+        Test: bool | Indicates whether or not this is for testing purposes
 
         Produces the filepath for the results file for the mass simulation
         with the given parameters
@@ -201,8 +213,11 @@ class Filepath(object):
             assert type(param[0]) == int
             assert type(param[1]) == int
             assert len(param) == 2
-            
-        results = self.get_root() + '/results'
+        
+        if test:
+            results = self.get_root() +'/tests/results'
+        else:
+            results = self.get_root() + '/results'
         if not os.path.isdir(results + '/mass'): # pragma: no cover
             os.mkdir(results + '/mass')
 

@@ -7,7 +7,8 @@ from datetime import date
 
 from utilities import Utilities
 from retrosheet import Retrosheet
-from exception import FileContentException, BadDateException
+from exception import FileContentException, BadDateException,\
+     NotSuspendedGameException, SusGameDoesntFitCategoryException
 from filepath import Filepath
 
 class Researcher(object):
@@ -19,6 +20,18 @@ class Researcher(object):
     type check that parameter because importing from player.py would cause
     a cyclical import error
     """
+    # regular expression for matching retrosheet ids
+    retroP = re.compile(r"""
+        [a-z]{2}        # first two letters of last name
+        [-a-z]{2}       # either 2 more letters of last name, or 1 more letter
+                        # of the last name if player has a 3-digit last name
+                        # (e.g lee), or 2 dashes if player has 2-digit last
+                        # name (e.g hu)
+        [a-z]{1}        # first letter of first name
+        [0-9]{3}        # three numbers indicating role and sequence. See
+                        # http://www.retrosheet.org/retroID.htm for more details
+        """, re.VERBOSE)
+
     @classmethod
     def did_get_hit(self, date, player):
         """
@@ -49,13 +62,13 @@ class Researcher(object):
             search = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
             errorMessage = "Date: {0} not in boxscore {1}.".format(date, 
                 boxscore) + "Player: {0}".format(player)
-            self._search_file(file, search, errorMessage=errorMessage)
+            self.__search_file(file, search, errorMessage=errorMessage)
 
             # find this player's line in the boxscore
             search = lastName + " " + firstName[0]
             errorMessage = "Player: {0} not in boxscore {1}.".format(player, 
                 boxscore) + "Date: {0}".format(date)
-            line = self._search_file(file, search, errorMessage=errorMessage)
+            line = self.__search_file(file, search, errorMessage=errorMessage)
 
             # see if he had a hit or not
             info = line.split()
@@ -175,13 +188,17 @@ class Researcher(object):
         gamelogPath = Filepath.get_retrosheet_file(folder='unzipped', 
             fileF='gamelog', year=date.year)
         with open(gamelogPath, "r") as f:
-            list_of_games = [line.replace('"', '').split(',')[1:]
-                                    for line in f if dateRFormat in line]
+            list_of_games = [
+                line.replace('"', '').split(',') # get a list of entries in line
+                for line in f                   # iterate through all lines in f
+                if dateRFormat in line[0:10]] 
+                   # by checking that the date is in the first 10 spots, we 
+                   # gaurd against taking participants that played on the date
+                   # a suspended game was completed. 
 
         # get the retrosheet ids from the games and return the list 
-        p = re.compile("[a-z]{5}[0-9]{3}")
         return [field for game in list_of_games for field in game 
-                    if re.match(p, field)]
+                    if re.match(self.retroP, field)]
 
     @classmethod
     def get_opening_day(self, year):
@@ -262,9 +279,132 @@ class Researcher(object):
             (date <= self.get_closing_day(year))):
             raise BadDateException("date {0} not in MLB {1} season".format(
                 date, year))
+
+    @classmethod
+    def get_sus_games_dict(self, year):
+        """
+        int -> dict
+        year: int | the year for which a simulation is being run
+
+        Produces a dictionary with key, value pair types::
+            datetime.date: (bool, TupleOfStrings)
+
+        where the keys are dates on which a suspended game was played, 
+              value[0] is True if the suspended game was valid, false otherwise,
+              and value[1] is a tuple of all the retrosheetIDS for players
+                 starting, managers managing, and umpires officiating in 
+                 the suspended game
+        """
+        d = {}
+
+        Utilities.ensure_gamelog_files_exist(year)
+
+        with open(Filepath.get_retrosheet_file(folder='unzipped', 
+            fileF= 'gamelog', year=year), "r") as f:
+            for gameLine in f:
+                if self.__is_game_suspended(gameLine):
+                    gameLineTuple = gameLine.replace('"', '').split(',')
+                    susDay = date(int(gameLine[1:5]), int(gameLine[5:7]), 
+                        int(gameLine[7:9]))
+                    d[susDay] = (self.__is_suspended_game_valid(gameLine), 
+                        tuple([item for item in gameLineTuple if 
+                            re.match(self.retroP, item)]))
+        return d
+
+
+    @classmethod
+    def __is_suspended_game_valid(self, game):
+        """
+        str -> bool
+        game: str | a single line from a retrosheet gamelog, which
+            provides information about a MLB game
+
+        Returns true if suspended game is "valid" and returns false 
+        if if not. Raises error if game is not suspended or none of the
+        below categories are met
+           Motivation for "validity"
+               If a suspended game is valid, it is eligible to either lenghthen
+               or end a bot's streak as per beatthestreak official rules. 
+               If a suspended game is invalid, bot's get a pass for date date, 
+               leaving their streak where it is. 
+           Definition for "validity"
+               A game is valid if:
+                   1) >= 5 innings were completed prior to suspension
+                   2) The game was suspended in the 5th inning and
+                      at the time of suspension, the visiting team trailed
+                        and >= 3 outs were completed in the 5th inning
+                   3) The game was suspended in the 5th inning and at the time
+                      of suspension, the game was tied and >= 3 outs were
+                      completed in the 5th inning
+                A game is invalid in the complementary cases:
+                   1) <= 4 innings were completed prior to suspension
+                   2) The game was suspended in the 5th inning and (at the time
+                      of suspension, the visiting team trailed and <= 2 outs
+                      were completed in the 5th inning) or (at the time of
+                      suspension, the home team trailed and <= 5 outs were 
+                      completed in the 5th inning)
+                   3) The game was suspended in the 5th inning and at the time 
+                      of suspension, the game was tied and <= 2 outs were 
+                      completed in the 5th inning. 
+        """
+        assert type(game) == str
+        
+        # Make sure its actually a suspended game
+        if not self.__is_game_suspended(game):
+            raise NotSuspendedGameException("The below game is not" + \
+                "a suspended game!\n{0}".format(game))
+
+        # sus Data is 'dateOfCompletion (dOC), parkOfCompletionID (pCID)
+        # vistorScoreAtTimeOfSuspension (vSS), homeScoreAtTimeOfSUspension (hSS), 
+        # lengthOfGameatTimeOfSUspension (numOutsSus)'
+        susData = game.split('"')[17]
+        susDataTuple = susData.split(',')
+        vSS = int(susDataTuple[2])
+        hSS = int(susDataTuple[3])
+        numOutsSus = int(susDataTuple[4])
+        
+        # Check for valid condition 1 and invalid condition 1
+        if numOutsSus >= 30: # >= 5 innings played
+            return True
+        if numOutsSus <= 24: # <= 4 innings played
+            return False
+
+        # Check for valid conditions 2 and 3 and invalid conditions 2 and 3
+        if numOutsSus in (25, 26): # <= two innings played in 5th
+            return False
+        if numOutsSus in (27, 28, 29):
+            if hSS < vSS: # If the home team was trailing
+                return False
+            else:         # if the visitors trailed or the game was tied
+                return True
+
+        # If the game somehow slipped through every condition, raise exception
+        raise SusGameDoesntFitCategoryException("The suspended game does not" +\
+            "fit any of the MLB Beatthestreak categories\n{0}".format(game)) # pragma: no cover (Can't think of a test case)
+
+    @classmethod
+    def __is_game_suspended(self, game):
+        """
+        str -> bool
+        game: str | a single line from a retrosheet gamelog, which
+            provides information about a MLB game
+
+        Returns true if game was suspended and false otherwise
+        """
+        assert type(game) == str
+        # column 14 contains a yyyymmdd date string if the game was suspended
+        # and completed on the date in column 14, and is empty otherwise
+        item14 = game.replace('"','').split(',')[13]
+        # p regex matches a yyyymmdd string
+        p = re.compile(r"""
+            [1-2]{1}[0-9]{3}       # yyyy
+            [0-1]{1}[1-9]{1}       # mm
+            [0-3]{1}[0-9]{1}       # dd
+            """,re.VERBOSE)
+        return re.match(p, item14)
             
     @classmethod
-    def _search_file(self, fileF, search, errorMessage='Search File Error'):
+    def __search_file(self, fileF, search, errorMessage='Search File Error'):
         """
         fileF string string -> string
         file: file| a file object to be searched

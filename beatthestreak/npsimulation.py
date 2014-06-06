@@ -1,5 +1,6 @@
 import sys
 import os
+import pandas as pd
 
 from pandas import DataFrame, Series, ExcelWriter
 from datetime import date, timedelta
@@ -38,13 +39,15 @@ class NPSimulation(Simulation):
         self.minBatAve = 0 # set upon setup
         self.players = [] # set upon setup
         self.bots = [] # set upon setup
-        self.isSetup = False
+        self.isSetup = False # # set upon setup
+        self.susGamesDict = {} # set upon setup
 
         self.outputMethods = ('stdout', 'excel')
 
     def setup(self):
         """
-        Downloads necessary retrosheet data, initalizes bots, players, minBatAve
+        Downloads necessary retrosheet data, initalizes bots, players, minBatAve, 
+        susGamesDict
         """
         if self.isSetup: 
             return
@@ -53,6 +56,7 @@ class NPSimulation(Simulation):
         self.bots = self._create_bots() # create N bots
         self.players = self.__calc__players(self.batAveYear) # create top P players
         self.minBatAve = self.__set_min_bat_ave() # store resultant min bat ave
+        self.susGamesDict = Researcher.get_sus_games_dict(self.get_sim_year())
         self.isSetup = True
 
     def sim_next_day(self):
@@ -63,27 +67,42 @@ class NPSimulation(Simulation):
         """
         today = self.get_date()
 
-        if self.get_date().day % 10 == 0: # progress indicator
+        # check if today featured a suspended game
+        suspGameToday = False
+        if today in self.susGamesDict.keys():
+            suspGameToday = True
+
+        # progress indicator
+        if self.get_date().day % 10 == 0: 
             print "Simming day: {0}".format(today) 
 
         # Retrieve list of players playing today
         activePlayers = [player for player in self.players if \
              Researcher.did_start(today, player)]
 
-        # assign players to bots
+        # assign players to bots and update histories
         mod_factor = len(activePlayers)
         if mod_factor == 0: # no activePlayers today
             self.incr_date()
             return 
         for i, bot in enumerate(self.bots):
             player = activePlayers[i % mod_factor]
-            bot.update_history(player, 
-                Researcher.did_get_hit(today, player), today)
+            if ( (suspGameToday) and \
+                 (player.get_retrosheet_id() 
+                    in self.susGamesDict[today][1]) and \
+                 (not self.susGamesDict[today][0]) ): # if the game was invalid:
+                hitVal = 'pass'
+            else:
+                hitVal = Researcher.did_get_hit(today, player)
+            # if player == Player(0, "Larry", "Walker", 2001):
+            #     print "Player: {0}, hitVal: {1}".format(player, hitVal)
+            bot.update_history(player, hitVal, today)
 
         # update the date
         self.incr_date()
     
-    def simulate(self, numDays='max', anotherSim=False, resultsMethod='excel'):
+    def simulate(self, numDays='max', anotherSim=False, resultsMethod='excel', 
+            test=False):
         """
         int|string  bool string-> None
         numDays: int|string | 'max' if simulation should run to closing day, 
@@ -92,6 +111,8 @@ class NPSimulation(Simulation):
             done using this object
         resultsMethod: TupleOfInts | Indicates preferred method of output
             -> must be in self.outputMethods
+        test: bool | indicates whether or not this is being run in a testing
+           environment. For debugging
 
 
         Simulates numDays number of days in self.simYear starting on 
@@ -100,9 +121,10 @@ class NPSimulation(Simulation):
         back a variable number of top bots, inluding their player histories. 
         """
         assert (type(numDays) == str) or (type(numDays) == int)
-        assert type(anotherSim) == True
+        assert type(anotherSim) == bool
         assert type(resultsMethod) == str
         assert resultsMethod in self.outputMethods
+        assert type(test) == bool
 
         # initalize relevant date variables and setup the simulation
         startDate = self.currentDate
@@ -113,6 +135,7 @@ class NPSimulation(Simulation):
         # simulate days until lastDate reached or elapsedDays equals numDays
         elapsedDays = 0
         while True:
+            # print "date: {}".format(self.get_date())
             if (numDays=='max') and (self.currentDate > lastDate):
                 Reporter.report_results(method=resultsMethod)
                 break
@@ -133,14 +156,17 @@ class NPSimulation(Simulation):
             self.get_sim_year(), self.get_bat_year()) + \
             "N: {1}, P: {2} over!".format(self.get_n(), self.get_p())
 
-    def mass_simulate(self, simYearRange, simMinBatRange, NRange, PRange):
+    def mass_simulate(self, simYearRange, simMinBatRange, NRange, PRange, 
+            Test=False):
         """
-        tupleOfInts tupleOfInts tupleOfInts tupleOfInts -> None
+        tupleOfInts tupleOfInts tupleOfInts tupleOfInts bool -> None
         simYearRange: the years (inclusive) over which to run simulation
         simMinBatRange: the number of years (inclusive) over which to vary 
             simYear - batAveYear
         NRange: the integers (inclusive) over which to vary the number of bots
         PRange: the integers (inclusive) over which to vary top player calculations
+        Test: bool | Indicates whether or not mass_simulate is being run 
+           under a test framework. For debugging purposes
 
         For each year in simYearRange, for each batAveYear that results from
         subtracting a number in simMinBatRange from simYear, for each N in NRange, 
@@ -160,8 +186,10 @@ class NPSimulation(Simulation):
             8) (2010, 2010, 2, 2)
         """
         for param in (simYearRange, simMinBatRange, NRange, PRange):
-            for item1, item2 in param:
-                assert type(item1) == type(item2) == int
+            assert len(param) == 2
+            for item in param:
+                assert type(item) == int
+        assert type(test) == bool
 
         # lists hold data that will later be written to .xlsxfile
         simYearL, batAveYearL, NL, PL , minBatAveL = [], [], [], [], []
@@ -172,10 +200,11 @@ class NPSimulation(Simulation):
                  len(range(simMinBatRange[0], simMinBatRange[1] + 1)) * \
                  len(range(NRange[0], NRange[1] + 1)) * \
                  len(range(PRange[0], PRange[1] + 1))
-        widgets = ['Running simulations with simYear:({0}, {1}), '.format(
-            simYearRange[0], simYearRange[1]) + 'simMinBatRange({0}, {1}'.format(
-                simMinBatRange[0], simMinBatRange[1]), + ' N:{0} , P: {1}'.format(
-                self.get_n(), self.get_p()), Timer(), ' ', Percentage()]
+        widgets = ['\nRunning simulations with simYear:({0}, {1}), '.format(
+            simYearRange[0], simYearRange[1]) + 'simMinBatRange({0}, {1}),'.format(
+                simMinBatRange[0], simMinBatRange[1]) + ' N:({0}, {1}),'.format(
+                NRange[0], NRange[1]) + ' P:({0}, {1}) '.format(
+                PRange[0], PRange[1]), Timer(), ' ', Percentage()]
         pbar = ProgressBar(maxval=maxval, widgets=widgets).start()
 
         # run all the simulations, saving individual simulation results to file
@@ -210,7 +239,7 @@ class NPSimulation(Simulation):
 
         # report aggregate results
         print "Reporting aggregate results to file"
-        Reporter = NPReporter(self)
+        Reporter = NPReporter(self, Test=Test)
         Reporter.report_mass_results_excel(
             simYearL=simYearL, batAveYearL=batAveYearL, NL=NL, PL=PL, 
             minBatAveL=minBatAveL, numSuccessL=numSuccessL, 
@@ -338,7 +367,7 @@ class NPSimulation(Simulation):
         batAveCol = 'batAve' + str(year) + 'Sorted'
         
         # get series of unique playerIDs corresponding to given year
-        df = read_csv(Filepath.get_lahman_file("Batting"), 
+        df = pd.read_csv(Filepath.get_lahman_file("Batting"), 
                            usecols=['playerID', 'yearID', 'AB'])
         df = df[df.yearID == year]
         uniqueIDArray = Series(df.playerID.values.ravel()).unique()
@@ -362,10 +391,10 @@ class NPSimulation(Simulation):
         batAveS = Series(batAveList, name=batAveCol)
         plateAppearS = Series(plateAppearList, name='PA')
         uniqueIDS = Series(uniqueIDArray, name='lahmanID')
-        df = concat([uniqueIDS, batAveS, plateAppearS], axis=1)
+        df = pd.concat([uniqueIDS, batAveS, plateAppearS], axis=1)
         df.sort(columns=batAveCol, ascending=False, inplace=True)
-        df.to_csv(path_or_buf=Filepath.get_retrosheet_file(folder='unzipped', 
-            subFolder='persistent', year=year), index=False)
+        df.to_csv(path_or_buf=Filepath.get_retrosheet_file(folder='persistent', 
+            fileF='batAve', year=year), index=False)
 
     def __set_min_bat_ave(self):
         """
