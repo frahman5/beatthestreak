@@ -311,7 +311,6 @@ class Researcher(object):
                             re.match(self.retroP, item)]))
         return d
 
-
     @classmethod
     def __is_suspended_game_valid(self, game):
         """

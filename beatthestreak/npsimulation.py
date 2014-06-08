@@ -7,6 +7,7 @@ from datetime import date, timedelta
 from progressbar import ProgressBar
 from progressbar.widgets import Timer, Percentage
 
+from beatthestreak import specialCasesD
 from filepath import Filepath
 from simulation import Simulation
 from player import PlayerL, Player
@@ -28,7 +29,23 @@ class NPSimulation(Simulation):
     repeating the list of P players as many times as needed to assign a player
     to every bot. 
 
-    Currently only handles regular season
+    Currently only handles regular season.
+
+    Special Cases:
+        Suspended Games: In the event that a game was suspended and resumed on 
+            a later date, NPSimulation recognizes it as a suspended game and
+            considers it valid or invalid according to official 2014 beatthestreak
+            rules. In the event that a game was suspended and NOT completed on
+            a later date, NPSimulation considers it a normal game, which departs
+            from official 2014 beatthestreak rules. This deviation only results 
+            in undue endings to streaks, not undue elongations of streaks, 
+            and is hence more conversative than beatthestreak rules.
+        Mulligans: All robots start out with a "mulligan." Given a bot b, 
+            the first time b reaches a streak length in [10,15] and chooses
+            a player that fails to get a hit, the streak will be preserved. 
+               [Note, as per offical MLB beatthestreak rules, bots need NOT
+               be setup with mulligans to start. They can claim a mulligan
+               at any point that its available.]
     """
     def __init__(self, simYear, batAveYear, N, P, startDate='default'):
         Simulation.__init__(self, simYear, startDate)
@@ -57,6 +74,8 @@ class NPSimulation(Simulation):
         self.players = self.__calc__players(self.batAveYear) # create top P players
         self.minBatAve = self.__set_min_bat_ave() # store resultant min bat ave
         self.susGamesDict = Researcher.get_sus_games_dict(self.get_sim_year())
+        for bot in self.bots:
+            bot.claim_mulligan() # claim your mulligan baby
         self.isSetup = True
 
     def sim_next_day(self):
@@ -87,16 +106,24 @@ class NPSimulation(Simulation):
             return 
         for i, bot in enumerate(self.bots):
             player = activePlayers[i % mod_factor]
-            if ( (suspGameToday) and \
-                 (player.get_retrosheet_id() 
-                    in self.susGamesDict[today][1]) and \
-                 (not self.susGamesDict[today][0]) ): # if the game was invalid:
-                hitVal = 'pass'
-            else:
-                hitVal = Researcher.did_get_hit(today, player)
-            # if player == Player(0, "Larry", "Walker", 2001):
-            #     print "Player: {0}, hitVal: {1}".format(player, hitVal)
-            bot.update_history(player, hitVal, today)
+
+            # Case 1: Unsuspended game (99.9% of games)
+            hitVal = Researcher.did_get_hit(today, player)
+            other = None
+
+            if suspGameToday: # Case 2: Suspended games, may need to ovveride
+                pRID = player.get_retrosheet_id()
+                susGameParticipants = self.susGamesDict[today][1]
+                if pRID in susGameParticipants:
+                    if self.susGamesDict[today][0]: # Case 2.1: Valid, Suspended
+                        # hitVal stays the same, other gets overriden
+                        other = specialCasesD['S']['V']
+                    elif not self.susGamesDict[today][0]: # Case 2.2: Invalid, Suspended
+                        # override both hitVal and other
+                        hitVal = 'pass'
+                        other = specialCasesD['S']['I']
+
+            bot.update_history(player, hitVal, today, other=other)
 
         # update the date
         self.incr_date()

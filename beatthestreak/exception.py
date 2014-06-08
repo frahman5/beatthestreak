@@ -27,3 +27,6 @@ class SusGameDoesntFitCategoryException(Exception):
 
 class BotUpdateException(Exception):
 	pass
+
+class MulliganException(Exception):
+	pass

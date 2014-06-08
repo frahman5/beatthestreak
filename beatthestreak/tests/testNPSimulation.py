@@ -63,16 +63,17 @@ class TestNPSimulation(unittest.TestCase):
         ## test that bots are successfully created
         bots = self.npSim2003_2002.get_bots()
         self.assertEqual(len(bots), 40)
-        for index, object in enumerate(bots):
-            self.assertEqual(type(object), Bot)
+        for index, thing in enumerate(bots):
             if index == len(bots)-1:
                 break
-            self.assertLessEqual(bots[index].get_index(), bots[index+1].get_index())
+            self.assertEqual(type(thing), Bot) # its a bot
+            self.assertLessEqual(bots[index].get_index(), bots[index+1].get_index()) 
+            self.assertTrue(thing.get_mulligan_status()) # has a mulligan
 
         ## test that min_bat_ave is calculated and initalized correctly
         self.assertEqual(self.npSim2003_2002.get_min_bat_ave(), 0.308)
 
-    # @unittest.skip("Too long")
+    @unittest.skip("Too long")
     def test_calc_and_get_min_bat_ave(self): 
         self.npSim2010_1.setup() 
         self.npSim2010_2.setup()
@@ -122,7 +123,7 @@ class TestNPSimulation(unittest.TestCase):
         self.assertEqual([bot.get_player() for bot in bots], [p14] * 40)
         self.assertEqual([bot.get_streak_length() for bot in bots], [1] * 40)
         self.assertEqual([bot.get_history() for bot in bots], 
-            [[(p14, True, date(2003, 3, 30), 1)]] * 40)
+            [[(p14, True, date(2003, 3, 30), 1, None)]] * 40)
         self.assertEqual(self.npSim2003_2002.get_date(), date(2003, 3, 31))
         
         ######## check that an arbitrary day-May 14-works (TEST 2)
@@ -141,8 +142,8 @@ class TestNPSimulation(unittest.TestCase):
         botDates = [date(2003, 5, 14)] * 40
 
         day2resultsRaw = zip(zip(botPlayers, bools), zip(botDates, botStreaks))
-        day2results = [(f[0], f[1], s[0], s[1]) for f, s in day2resultsRaw]
-        botPlayerHistories = [[(p14, True, date(2003, 3, 30), 1), day2] for \
+        day2results = [(f[0], f[1], s[0], s[1], None) for f, s in day2resultsRaw]
+        botPlayerHistories = [[(p14, True, date(2003, 3, 30), 1, None), day2] for \
              day2 in day2results]
              
         self.assertEqual(len(bots), 40) # check that bots are not empty
@@ -184,11 +185,11 @@ class TestNPSimulation(unittest.TestCase):
         bools = map(lambda x: x > 0, botStreaks)
         botDates = [date(2001, 7, 18)] * 15
         HistoriesRaw = zip(zip(botPlayers, bools), zip(botDates, botStreaks))
-        botPlayerHistories = [[(f[0], f[1], s[0], s[1])] for f, s in HistoriesRaw]
+        botPlayerHistories = [[(f[0], f[1], s[0], s[1], None)] for f, s in HistoriesRaw]
         # bot with luiz gongalez got a 'pass', not a boolean true or false
         botPlayerHistories[-1] = [(
             Player(14, "Luis", "Gonzalez", 2001, debut='9/4/1990'), 
-            'pass', date(2001,7,18), 1)] 
+            'pass', date(2001,7,18), 1, "Suspended, Invalid")] 
 
         self.assertEqual((len(bots)), 15) # check that bots are not empty
         self.assertEqual([bot.get_player() for bot in bots], botPlayers)

@@ -12,15 +12,17 @@ Notes:
 
 	-copy and paste result into your desired code
 
-2) Future refactorings
-    -create progress bars
-    	-> for calculation of batting averages
-    	-> for progress of entire simulation
-    - in testRetrosheet, change the below code to use the equivalent function
-    from Data
-    	r2013.get_gamelog_file_unzipped()
-    - in retrosheet, take out all the file path handling functions and data
-    that are native to retrosheet and put in the equivalent ones from Data
-    -make each test in testSimulation be independent of each other
-    -fold all the get_file_path functions into 2-3 smaller ones with
-    different options
+2) Variables that can be played with to optimize strategy
+   - Number of bots N
+   - Top P players P
+   - how those P players are distributed to bots N
+   - when a mulligan is claimed
+   - how players chosen
+       -> Top P global players modulo distribution?
+           -> Random distrubition?
+       -> Top P nightly players module distribution?
+           -> Random distribution?
+       -> Top P nightly players taking into accont opposing pitcher ERA
+           -> modulo distrubition?
+           -> random distrubiton?
+       
