@@ -1,6 +1,6 @@
 import datetime
 
-from beatthestreak import specialCasesD
+from config import specialCasesD
 from utilities import Utilities
 from player import Player
 from exception import BotUpdateException, MulliganException
@@ -134,6 +134,9 @@ class Bot(object):
     def get_mulligan_status(self):
         return self.hasMulligan
 
+    def has_used_mulligan(self):
+        return self.hasClaimedMulligan and (not self.hasMulligan)
+        
     def claim_mulligan(self):
         if not self.hasClaimedMulligan:
             self.hasMulligan = True

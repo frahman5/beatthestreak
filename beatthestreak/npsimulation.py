@@ -1,3 +1,5 @@
+#! pyvenv/bin/python
+
 import sys
 import os
 import pandas as pd
@@ -7,7 +9,7 @@ from datetime import date, timedelta
 from progressbar import ProgressBar
 from progressbar.widgets import Timer, Percentage
 
-from beatthestreak import specialCasesD
+from config import specialCasesD
 from filepath import Filepath
 from simulation import Simulation
 from player import PlayerL, Player
@@ -162,7 +164,6 @@ class NPSimulation(Simulation):
         # simulate days until lastDate reached or elapsedDays equals numDays
         elapsedDays = 0
         while True:
-            # print "date: {}".format(self.get_date())
             if (numDays=='max') and (self.currentDate > lastDate):
                 Reporter.report_results(method=resultsMethod)
                 break
@@ -179,9 +180,9 @@ class NPSimulation(Simulation):
             self.close() 
         
         # alert user that simulation is over
-        print "Simulation simYear: {1}, batAveYear: {2} ".format(
+        print "Simulation simYear: {0}, batAveYear: {1} ".format(
             self.get_sim_year(), self.get_bat_year()) + \
-            "N: {1}, P: {2} over!".format(self.get_n(), self.get_p())
+            "N: {0}, P: {1} over!".format(self.get_n(), self.get_p())
 
     def mass_simulate(self, simYearRange, simMinBatRange, NRange, PRange, 
             Test=False):
@@ -432,33 +433,19 @@ class NPSimulation(Simulation):
         """ 
         return self.players[-1].get_bat_ave()
 
-# def main(*args, many=False):
-#     """
-#     run the simulation from the command line
-#     """
-#     if not many:
-#         sim = NPSimulation(int(args[0]), int(args[1]), int(args[2]), int(args[3]))
-#         sim.simulate()
-#     # else, run a mass simulation
-#     simYearRange = (int(args[0]), int(args[1]))
-#     simMinBatRange = (int(args[2]), int(args[3]))
-#     NRange = (int(args[4]), int(args[5]))
-#     PRange = (int(args[6]), int(args[7]))
-#     sim = NPSimulation(0, 0, 0, 0)
-#     sim.many_simulate(simYearRange, simMinBatRange, NRange, PRange)
+def main(*args):
+    """
+    run a single simulation from the command line
+    """
+    sim = NPSimulation(int(args[0]), int(args[1]), int(args[2]), int(args[3]))
+    sim.simulate()
 
-# if __name__ == '__main__':
-#     """
-#     Command line Usage:
+if __name__ == '__main__':
+    """
+    Command line Usage:
 
-#     1) ./npsimulation.py simYear batAveYear N P
-#        -> runs a single simulation with given parameters
-#     2) ./npsimulation.py simYearRange[0], simYearRange[1] simMinBatRange[0]
-#               simMinBatRange[1] NRange[0] NRange[1] PRange[0] PRange[1] -m
-#        -> runs a mass simulation with given parameters
-#     """
-#     if "-m" in sys.argv:
-#         main(sys.argv, many=True)
-#     else:
-#         main(sys.argv)
-#     main(int(sys.argv[1]), int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]))
+    1) ./npsimulation.py simYear batAveYear N P
+       -> runs a single simulation with given parameters
+    """
+    main(*sys.argv[1:5])
+    # main(int(sys.argv[1]), int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]))

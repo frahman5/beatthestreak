@@ -1,5 +1,9 @@
-from pandas import ExcelWriter, Series, DataFrame
+from pandas import ExcelWriter, Series, DataFrame, concat
+from pandas.io.excel import _OpenpyxlWriter # for type checking
+
 from exception import InvalidResultsMethodException
+from filepath import Filepath
+from bot import Bot
 
 class NPReporter(object):
     """
@@ -137,6 +141,7 @@ class NPReporter(object):
         """
         Produces results of self.npsim in an excel file
         """
+        npsim = self.get_npsim()
         # Initalize variables
         numTopBots = 2 # number of top bot histories to report
         startDate = npsim.get_bots()[0].get_history()[0][2]
@@ -173,7 +178,7 @@ class NPReporter(object):
         _report_results_excel)
         """
         assert type(bot) == Bot
-        assert type(writer) == ExcelWriter
+        assert type(writer) == _OpenpyxlWriter
 
         # Create series corresponding to columns of csv
         history = bot.get_history()
@@ -185,9 +190,11 @@ class NPReporter(object):
         dateS = Series([event[2] for event in history], name='Date')
         streakS = Series([event[3] for event in history], 
             name='Streak Length')
+        otherS = Series([event[4] for event in history], 
+            name='Other')
 
         # construct dataframe to write to excel file
-        df = concat([playerS, batAveS, hitS, dateS, streakS], axis=1)
+        df = concat([playerS, batAveS, hitS, dateS, streakS, otherS], axis=1)
 
         # put df info on excel buffer
         botIndexString = str(bot.get_index())
@@ -201,19 +208,28 @@ class NPReporter(object):
         writer: ExcelWriter | ExcelWriter object containing buffer for eventual
            output .xlsx file
         """
-        assert type(writer) == ExcelWriter
+        assert type(writer) == _OpenpyxlWriter
 
         npsim = self.get_npsim()
 
+        # get percent unique bots
         percentUniqueBots = round(
             float(self.__calc_num_unique_bots()) / float(npsim.get_n()), 4)
         percentUniqueBotsString = "{0:.0f}%".format(100 * percentUniqueBots)
+        # get percent mulligans used
+        numMulUsed = 0
+        for bot in npsim.get_bots():
+            if bot.has_used_mulligan():
+                numMulUsed += 1
+        percentMulUsed = round(float(numMulUsed) / float(npsim.get_n()), 4)
+        percentMulUsedString = "{0:.0f}%".format(100 * percentMulUsed)
         # for constructing "one item columns"
         enoughEmptyRows = ["" for i in range(npsim.get_n()-1)] 
 
         # Create series that correspond to columns in output excel file
         # takes advantage of the fact that self.get_bots() is in sorted order
-        npsim.get_bots().sort(key=lambda bot: bot.get_max_streak_length()).reverse()
+        npsim.get_bots().sort(key=lambda bot: bot.get_max_streak_length(), 
+            reverse=True)
         botS = Series([bot.get_index() for bot in npsim.get_bots()], name='Bot')
         maxStreakS = Series([bot.get_max_streak_length() for bot in \
             npsim.get_bots()], name='maxStreak')
@@ -221,9 +237,12 @@ class NPReporter(object):
             name="aveMaxStreak")
         uniqueBotS = Series([percentUniqueBotsString] + \
             enoughEmptyRows, name='Unique Bots(%)')
+        percentMulUsedS = Series([percentMulUsedString] + \
+            enoughEmptyRows, name='Mul Used (%)')
 
         # construct dataframe to write to excel file
-        df = concat([botS, maxStreakS, aveStreakS, uniqueBotS], axis=1)
+        df = concat(
+            [botS, maxStreakS, aveStreakS, uniqueBotS, percentMulUsedS], axis=1)
 
         # put df info on excel buffer
         df.to_excel(writer, index=False, sheet_name='Bots Meta')
@@ -232,11 +251,12 @@ class NPReporter(object):
         """
         writer -> None
         """
-        assert type(writer) == ExcelWriter
+        npsim = self.get_npsim()
+        assert type(writer) == _OpenpyxlWriter
 
         # get number, percent of successes
         s_and_f = self.__calc_s_and_f()
-        numSuccesses, perecentSuccesses, numFails, percentFails = s_and_f
+        numSuccesses, percentSuccesses, numFails, percentFails = s_and_f
         percentSuccessesString = "{0:.0f}%".format(100 * percentSuccesses)
 
         # construct series that correspond to columns in output file

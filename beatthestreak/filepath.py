@@ -1,8 +1,7 @@
 import os
+import inspect
 
 from datetime import date
-
-import beatthestreak
 
 from exception import BadFilepathException
 
@@ -23,7 +22,10 @@ class Filepath(object):
 
     @classmethod
     def get_root(self):
-        return os.path.dirname(beatthestreak.__file__)
+        # inspect.stack()[0] is the last item to be placed on the stack, 
+        # which is the thing that called get_root. Since Filepath calls get_root,
+        #, inspect.stack[0][1] returns the path of filepath.py
+        return os.path.dirname(os.path.abspath(inspect.stack()[0][1]))
 
     @classmethod
     def get_datasets(self):
