@@ -29,17 +29,14 @@ class NPReporter(object):
         """
         None -> None
 
-        Reports simulation results in an excel file
-        """
-                """
         Produces results of self.npsim in an excel file
         """
         npsim = self.get_npsim()
         # Initalize variables
 
         numTopBots = 2 # number of top bot histories to report
-        startDate = npsim.get_bots()[0].get_history()[0][2]
-        endDate = npsim.get_bots()[0].get_history()[-1][2]
+        startDate = npsim.get_bots()[0].get_history()[0][4]
+        endDate = npsim.get_bots()[0].get_history()[-1][4]
         writer = ExcelWriter(Filepath.get_results_file(npsim.get_sim_year(), 
             npsim.get_bat_year(), npsim.get_n(), npsim.get_p(), startDate, endDate))
 
@@ -118,19 +115,25 @@ class NPReporter(object):
 
         # Create series corresponding to columns of csv
         history = bot.get_history()
-        playerS = Series([event[0].get_name() for event in history], 
-            name='Player')
-        batAveS = Series([event[0].get_bat_ave() for event in history], 
-            name='Batting Average')
-        hitS = Series([event[1] for event in history], name='Hit')
-        dateS = Series([event[2] for event in history], name='Date')
-        streakS = Series([event[3] for event in history], 
-            name='Streak Length')
-        otherS = Series([event[4] for event in history], 
+        player1S = Series([event[0].get_name() for event in history], 
+            name='Player1')
+        batAve1S = Series([event[0].get_bat_ave() for event in history], 
+            name='Batting Average1')
+        hit1S = Series([event[2] for event in history], name='Hit1')
+        player2S = Series([event[1].get_name() for event in history], 
+            name='Player2')
+        batAve2S = Series([event[1].get_bat_ave() for event in history], 
+            name='Batting Average2')
+        hit2S = Series([event[3] for event in history], name='Hit2')
+        dateS = Series([event[4] for event in history], name='Date')
+        streakS = Series([event[5] for event in history], 
+            name='Streak')
+        otherS = Series([event[6] for event in history], 
             name='Other')
 
         # construct dataframe to write to excel file
-        df = concat([playerS, batAveS, hitS, dateS, streakS, otherS], axis=1)
+        df = concat([player1S, batAve1S, hit1S, player2S, batAve2S, hit2S, 
+            dateS, streakS, otherS], axis=1)
 
         # put df info on excel buffer
         botIndexString = str(bot.get_index())
@@ -148,18 +151,19 @@ class NPReporter(object):
 
         npsim = self.get_npsim()
 
-        # get percent unique bots
+        ## Some bookeeping
+             # get percent unique bots
         percentUniqueBots = round(
             float(self.__calc_num_unique_bots()) / float(npsim.get_n()), 4)
         percentUniqueBotsString = "{0:.0f}%".format(100 * percentUniqueBots)
-        # get percent mulligans used
+            # get percent mulligans used
         numMulUsed = 0
         for bot in npsim.get_bots():
             if bot.has_used_mulligan():
                 numMulUsed += 1
         percentMulUsed = round(float(numMulUsed) / float(npsim.get_n()), 4)
         percentMulUsedString = "{0:.0f}%".format(100 * percentMulUsed)
-        # for constructing "one item columns"
+            # for constructing "one item columns"
         enoughEmptyRows = ["" for i in range(npsim.get_n()-1)] 
 
         # Create series that correspond to columns in output excel file
@@ -187,30 +191,39 @@ class NPReporter(object):
         """
         writer -> None
         """
-        npsim = self.get_npsim()
         assert type(writer) == _OpenpyxlWriter
+
+        npsim = self.get_npsim()       
 
         # get number, percent of successes
         s_and_f = self.__calc_s_and_f()
         numSuccesses, percentSuccesses, numFails, percentFails = s_and_f
         percentSuccessesString = "{0:.0f}%".format(100 * percentSuccesses)
+        # Find out if doubleDowns were used
+        doubleDown = False
+        for player2 in (event[1] for bot in npsim.get_bots() for 
+            event in bot.get_history()):
+            if player2 is not None:
+                doubleDown = True
+                break
 
         # construct series that correspond to columns in output file
         yearS = Series([npsim.get_sim_year()], name='simYear')
         batS = Series([npsim.get_bat_year()], name='batAveYear')
         nS = Series([npsim.get_n()], name='N')
         pS = Series([npsim.get_p()], name='P')
-        startDateS = Series([npsim.get_bots()[0].get_history()[0][2]], 
+        startDateS = Series([npsim.get_bots()[0].get_history()[0][4]], 
             name='startDate')
-        endDateS = Series([npsim.get_bots()[0].get_history()[-1][2]], 
+        endDateS = Series([npsim.get_bots()[0].get_history()[-1][4]], 
             name='endDate')
         successS = Series([numSuccesses], name='numSuccesses')
         percentSuccessS = Series([percentSuccessesString], 
             name='percentSuccesses')
+        doubleDownS = Series([doubleDown], name='DoubleDown?')
 
         # construct dataframe to write to excel file
         df = concat([yearS, batS, nS, pS, startDateS, endDateS, 
-            successS, percentSuccessS], axis=1)
+            successS, percentSuccessS, doubleDownS], axis=1)
 
         # put df info on excel buffer
         df.to_excel(writer, index=False, sheet_name='Sim Meta')

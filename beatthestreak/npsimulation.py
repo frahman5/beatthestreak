@@ -14,7 +14,7 @@ from filepath import Filepath
 from simulation import Simulation
 from player import PlayerL, Player
 from researcher import Researcher
-from exception import DifficultYearException, InvalidResultsMethodException
+from exception import DifficultYearException
 from bot import Bot
 from npreporter import NPReporter
 
@@ -45,7 +45,7 @@ class NPSimulation(Simulation):
         Mulligans: All robots start out with a "mulligan." Given a bot b, 
             the first time b reaches a streak length in [10,15] and chooses
             a player that fails to get a hit, the streak will be preserved. 
-               [Note, as per offical MLB beatthestreak rules, bots need NOT
+               [Note, offical MLB beatthestreak rules state bots need NOT
                be setup with mulligans to start. They can claim a mulligan
                at any point that its available.]
         Double Downs: On any given day, a bot is able to select two players. 
@@ -53,7 +53,12 @@ class NPSimulation(Simulation):
             can either increase by 2, increase by 1, stay where it is, or 
             reset to 0
     """
-    def __init__(self, simYear, batAveYear, N, P, startDate='default'):
+    def __init__(self, simYear, batAveYear, N, P, startDate='default', 
+            doubleDown=False):
+        # _check_year type checks simYear and batAveYear
+        assert type(N) == int
+        assert type(P) == int
+        
         Simulation.__init__(self, simYear, startDate)
         self.batAveYear = self._check_year(batAveYear)
         self.numBots = N
@@ -65,6 +70,8 @@ class NPSimulation(Simulation):
         self.isSetup = False # # set upon setup
         self.susGamesDict = {} # set upon setup
 
+        self.doubleDown = doubleDown
+        
     def setup(self):
         """
         Downloads necessary retrosheet data, initalizes bots, players, minBatAve, 
@@ -158,7 +165,7 @@ class NPSimulation(Simulation):
         # update the date
         self.incr_date()
 
-    def simulate(self, numDays='max', anotherSim=False, test=False, doubleDown=False):
+    def simulate(self, numDays='max', anotherSim=False, test=False):
         """
         int|string  bool string-> None
         numDays: int|string | 'max' if simulation should run to closing day, 
@@ -178,7 +185,6 @@ class NPSimulation(Simulation):
         assert (type(numDays) == str) or (type(numDays) == int)
         assert type(anotherSim) == bool
         assert type(test) == bool
-        assert type(doubleDown) == bool
 
         # initalize relevant date variables and setup the simulation
         startDate = self.currentDate
@@ -187,27 +193,29 @@ class NPSimulation(Simulation):
         self.setup()
  
          # initialize a progressbar for the simulation
-        if numDays == 'max':
-            maxval = (lastDate - startDate).days # num Days in season
-        else:
+        maxVal = (lastDate - startDate).days # num Days in season
+        if type(numDays) == int: 
             maxVal = numDays
         widgets = ['\nRunning simulation with simYear: {0}'.format(
             self.get_sim_year()) + ", batAveYear: {0}".format(
-            self.get_bat_year()) + " N: {0}, {P}: {1}. ".format(self.get_n(), 
+            self.get_bat_year()) + " N: {0}, P: {1}. ".format(self.get_n(), 
             self.get_p()), Timer(), ' ', Percentage()]
-        pbar = ProgressBar(maxval=maxval, widgets=widgets).start()
+        pbar = ProgressBar(maxval=maxVal, widgets=widgets).start()
 
         # simulate days until lastDate reached or elapsedDays equals numDays
         elapsedDays = 0
         while True:
-            if (numDays=='max') and (self.currentDate > lastDate):
+            if (numDays=='max') and (self.currentDate >= lastDate):
                 Reporter.report_results()
                 break
             if (type(numDays) == int) and elapsedDays >= numDays:
                 Reporter.report_results()
                 break
-            self.sim_next_day(doubleDown=doubleDown)
+            self.sim_next_day(doubleDown=self.doubleDown)
             elapsedDays += 1
+            # print "maxVal : {}".format(maxVal)
+            # print "elapsedDays: {}".format(elapsedDays)
+            # print "self.currentDate: {}".format(self.currentDate)
             pbar.update(elapsedDays)
         pbar.finish()
 
@@ -472,7 +480,12 @@ def main(*args):
     """
     run a single simulation from the command line
     """
-    sim = NPSimulation(int(args[0]), int(args[1]), int(args[2]), int(args[3]))
+    if args[1] == '-d':
+        sim = NPSimulation(int(args[2]), int(args[3]), int(args[4]), int(args[5]), 
+            doubleDown=True)
+    else:
+        sim = NPSimulation(int(args[1]), int(args[2]), int(args[3]), int(args[4]))
+
     sim.simulate()
 
 if __name__ == '__main__':
@@ -481,7 +494,8 @@ if __name__ == '__main__':
 
     1) ./npsimulation.py simYear batAveYear N P
        -> runs a single simulation with given parameters
+    2) ./npsimulation.py -d simYear batAveYear N P
+       -> runs a single simulation with given parameters using DoubleDown
     """
-    main(*sys.argv[1:5])
-    # main(int(sys.argv[1]), int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]))
+    main(*sys.argv)
     

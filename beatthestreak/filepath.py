@@ -1,5 +1,4 @@
 import os
-import inspect
 
 from datetime import date
 
@@ -22,10 +21,9 @@ class Filepath(object):
 
     @classmethod
     def get_root(self):
-        # inspect.stack()[0] is the last item to be placed on the stack, 
-        # which is the thing that called get_root. Since Filepath calls get_root,
-        #, inspect.stack[0][1] returns the path of filepath.py
-        return os.path.dirname(os.path.abspath(inspect.stack()[0][1]))
+        # had to hard code this because using inspect.stack()[0][1] and 
+        # importing beatthestreak caused all sorts of errors. 
+        return '/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak'
 
     @classmethod
     def get_datasets(self):
