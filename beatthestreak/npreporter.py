@@ -1,7 +1,6 @@
 from pandas import ExcelWriter, Series, DataFrame, concat
 from pandas.io.excel import _OpenpyxlWriter # for type checking
 
-from exception import InvalidResultsMethodException
 from filepath import Filepath
 from bot import Bot
 
@@ -26,27 +25,43 @@ class NPReporter(object):
     def get_npsim(self):
         return self.npsim
 
-    def report_results(self, method='excel'):
+    def report_results(self):
         """
-        string -> None
-        method: string | indicates the output method for results
-            -> must be in self.outputMethods
+        None -> None
 
-        Reports simulation results
+        Reports simulation results in an excel file
         """
-        assert type(method) == str
-        assert method in self.outputMethods
+                """
+        Produces results of self.npsim in an excel file
+        """
+        npsim = self.get_npsim()
+        # Initalize variables
 
-        if method == 'stdout':
-            self.__report_results_stdout()
-            return
-        if method == 'excel':
-            self.__report_results_excel()
-            return
-        else:
-            raise InvalidResultsMethodException("Method: {0}".format(method))
+        numTopBots = 2 # number of top bot histories to report
+        startDate = npsim.get_bots()[0].get_history()[0][2]
+        endDate = npsim.get_bots()[0].get_history()[-1][2]
+        writer = ExcelWriter(Filepath.get_results_file(npsim.get_sim_year(), 
+            npsim.get_bat_year(), npsim.get_n(), npsim.get_p(), startDate, endDate))
 
-    def report_mass_results_excel(**kwargs):
+        # calculate best bots
+        npsim.get_bots().sort(key=lambda bot: bot.get_max_streak_length())
+        npsim.get_bots().reverse()
+        bestBots = npsim.get_bots()
+
+        # report results for top performing bots
+        for bot in bestBots[0:numTopBots]:
+            self.__report_bot_results_to_excel(bot, writer)
+
+        # report bots metadata
+        self.__report_bots_metadata_results_excel(writer)
+
+        # report sim metadata
+        self.__report_sim_metadata_results_excel(writer)
+
+        # save everthing to file
+        writer.save()
+
+    def report_mass_results(**kwargs):
         """
         simYearL: List of simulation years for mass simulation
         batAveYearL: List of batting average years for mass simulation
@@ -86,85 +101,6 @@ class NPReporter(object):
                 kwargs['simYearRange'], kwargs['simMinBatRange'], 
                 kwargs['NRange'], kwargs['PRange']))
         df.to_excel(writer=writer, index=False, sheet_name='Meta')
-        writer.save()
-
-    def __report_results_stdout(self):
-        """
-        Prints out results for the simulation. Includes:
-            1) Simulation year, N value, P Values
-            2) Simulation start and end dates
-            3) Simulation batting ave calculation method and minimum value
-            4) 2-5 best bots/streaks, including player history (with date info
-            included) over their best streaks
-        """
-        npsim = self.get_npsim()
-        startDate = npsim.get_bots()[0].get_history()[0][2]
-        space5 = "     "
-        space10 = "          "
-        space12 = "            "
-
-        # calculate best bots
-        npsim.get_bots().sort(key=lambda bot: bot.get_max_streak_length())
-        npsim.get_bots().reverse()
-        bestBots = npsim.get_bots()
-
-        # print header
-        print "****************************************************************"
-        print "Simulation {0}. N: {1}, P: {2}, {3} to {4}".format(npsim.get_sim_year(), 
-            npsim.get_n(), npsim.get_p(), startDate, npsim.get_date())
-        
-        # print success/failure reporting
-        if bestBots[0].get_max_streak_length() >= 57:
-            num_successes = 0
-            while bestBots[num_successes].get_max_streak_length() >= 57:
-                num_successes += 1
-            print "     SUCCESS: {0} bot(s) beat the streak!".format(num_successes)
-        else:
-            print "     FAILURE: No bots beat the streak :("
-        
-        # Data report
-        print space5 + "Minimum Batting Average: {0}".format(npsim.get_min_bat_ave())
-        print space10 + "Calculation method: Seasonal, year {0}".format(npsim.get_bat_year())
-        print space5 + "Five best bots:"
-        for bot in bestBots[0:2]:
-            print space10 + "Bot {0}. Max Streak Length: {1}".format(bot.get_index(), 
-                bot.get_max_streak_length())
-            print space12 + "                  Player|  Hit  |    Date    | Streak_length"
-            for day in bot.get_history():
-                print space12 + str(day[0]).rjust(24), # player
-                print str(day[1]).rjust(7), # True|False for hit
-                print str(day[2]).rjust(12),# Date
-                print str(day[3]).rjust(7)  # Streak length on given date
-        print "****************************************************************"
-
-    def __report_results_excel(self):
-        """
-        Produces results of self.npsim in an excel file
-        """
-        npsim = self.get_npsim()
-        # Initalize variables
-        numTopBots = 2 # number of top bot histories to report
-        startDate = npsim.get_bots()[0].get_history()[0][2]
-        endDate = npsim.get_bots()[0].get_history()[-1][2]
-        writer = ExcelWriter(Filepath.get_results_file(npsim.get_sim_year(), 
-            npsim.get_bat_year(), npsim.get_n(), npsim.get_p(), startDate, endDate))
-
-        # calculate best bots
-        npsim.get_bots().sort(key=lambda bot: bot.get_max_streak_length())
-        npsim.get_bots().reverse()
-        bestBots = npsim.get_bots()
-
-        # report results for top performing bots
-        for bot in bestBots[0:numTopBots]:
-            self.__report_bot_results_to_excel(bot, writer)
-
-        # report bots metadata
-        self.__report_bots_metadata_results_excel(writer)
-
-        # report sim metadata
-        self.__report_sim_metadata_results_excel(writer)
-
-        # save everthing to file
         writer.save()
 
     def __report_bot_results_to_excel(self, bot, writer):

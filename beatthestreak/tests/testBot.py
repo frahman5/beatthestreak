@@ -114,6 +114,7 @@ class TestBot(unittest.TestCase):
         pF = Player(1, "Troy", "Glaus", 2001) # did not get a hit on testDate
         pP = Player(0, "Endy", "Chavez", 2001) # hot a pass on testDate
         susGamesDict2001 = Researcher.get_sus_games_dict(2001)
+        susGamesDict2011 = Researcher.get_sus_games_dict(2011)
         mulliganRange = [10, 11, 12, 13, 14, 15]
         outsideMulliganRange = [i for i in range(0,151) if i not in mulliganRange]
 
@@ -203,6 +204,16 @@ class TestBot(unittest.TestCase):
             self.assertEqual(botFalse.get_streak_length(), 0)
             self.assertFalse(botFalse.get_mulligan_status())   
             self.assertTrue(botFalse .has_used_mulligan())
+
+        ## Loose ends to get 100% test coverage
+        ## A mulligan eligble bot with a player who did not get a hit in a
+        ## suspended, valid game creates the correct "otherInfo"
+        Rafael = Player(0, "Rafael", "Furcal", 2010) # no hit in suspended, valid game
+        bot = Bot(0)
+        bot.claim_mulligan()
+        bot.incr_streak_length(amount=13)
+        bot.update_history(p1=Rafael, date=date(2011, 4, 8), susGamesDict=susGamesDict2011)
+        self.assertEqual(bot.get_history()[0][6], 'Suspended, Valid. Mulligan.')
 
     def test_update_history_double_down_no_mulligan(self):
         d1 = date(2001, 6, 15)

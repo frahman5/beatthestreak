@@ -65,8 +65,6 @@ class NPSimulation(Simulation):
         self.isSetup = False # # set upon setup
         self.susGamesDict = {} # set upon setup
 
-        self.outputMethods = ('stdout', 'excel')
-
     def setup(self):
         """
         Downloads necessary retrosheet data, initalizes bots, players, minBatAve, 
@@ -94,6 +92,7 @@ class NPSimulation(Simulation):
         Simulates the next day
         """
         assert type(doubleDown) == bool
+
         if doubleDown:
             self.__sim_next_day_double()
         else:
@@ -144,12 +143,12 @@ class NPSimulation(Simulation):
             self.incr_date()
             return 
         for i, bot in enumerate(self.bots):
-            if modFactor == 1:
+            if modFactor == 1: # can't double down if only 1 active player!
                 bot.update_history(p1=activePlayers[0], date=today, 
                     susGamesDict=self.susGamesDict)
                 continue
             # get player indices. Mod in p2Index accounts for odd Modfactor
-            p1Index = (i % 2) % modFactor
+            p1Index = (i * 2) % modFactor
             p2Index = (p1Index + 1) % modFactor 
             p1 = activePlayers[p1Index]
             p2 = activePlayers[p2Index]
@@ -159,16 +158,13 @@ class NPSimulation(Simulation):
         # update the date
         self.incr_date()
 
-    def simulate(self, numDays='max', anotherSim=False, resultsMethod='excel', 
-            test=False, doubleDown=False):
+    def simulate(self, numDays='max', anotherSim=False, test=False, doubleDown=False):
         """
         int|string  bool string-> None
         numDays: int|string | 'max' if simulation should run to closing day, 
             or an integer if simulation should run for a certain window of days
         anotherSim: bool | indicates whether or not another simulation will be 
             done using this object
-        resultsMethod: TupleOfInts | Indicates preferred method of output
-            -> must be in self.outputMethods
         test: bool | indicates whether or not this is being run in a testing
            environment. For debugging
         doubleDown | Indicates whether or not bots should double down every day
@@ -181,8 +177,6 @@ class NPSimulation(Simulation):
         """
         assert (type(numDays) == str) or (type(numDays) == int)
         assert type(anotherSim) == bool
-        assert type(resultsMethod) == str
-        assert resultsMethod in self.outputMethods
         assert type(test) == bool
         assert type(doubleDown) == bool
 
@@ -202,19 +196,21 @@ class NPSimulation(Simulation):
             self.get_bat_year()) + " N: {0}, {P}: {1}. ".format(self.get_n(), 
             self.get_p()), Timer(), ' ', Percentage()]
         pbar = ProgressBar(maxval=maxval, widgets=widgets).start()
+
         # simulate days until lastDate reached or elapsedDays equals numDays
         elapsedDays = 0
         while True:
             if (numDays=='max') and (self.currentDate > lastDate):
-                Reporter.report_results(method=resultsMethod)
+                Reporter.report_results()
                 break
             if (type(numDays) == int) and elapsedDays >= numDays:
-                Reporter.report_results(method=resultsMethod)
+                Reporter.report_results()
                 break
             self.sim_next_day(doubleDown=doubleDown)
             elapsedDays += 1
             pbar.update(elapsedDays)
         pbar.finish()
+
         # close up shop
         if anotherSim:
             self.set_setup(value=False)
@@ -307,7 +303,7 @@ class NPSimulation(Simulation):
         # report aggregate results
         print "Reporting aggregate results to file"
         Reporter = NPReporter(self, Test=Test)
-        Reporter.report_mass_results_excel(
+        Reporter.report_mass_results(
             simYearL=simYearL, batAveYearL=batAveYearL, NL=NL, PL=PL, 
             minBatAveL=minBatAveL, numSuccessL=numSuccessL, 
             percentSuccessL=percentSuccessL, numFailL=numFailL, 

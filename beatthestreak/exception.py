@@ -15,10 +15,7 @@ class BadDateException(Exception):
 
 class NoRetrosheetTypeException(Exception):
 	pass
-
-class InvalidResultsMethodException(Exception):
-	pass
-
+	
 class NotSuspendedGameException(Exception):
 	pass
 
