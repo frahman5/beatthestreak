@@ -99,6 +99,34 @@ class TestResearcher(unittest.TestCase):
         Lance = Player(0, "Lance", "Berkman", 2008)
         self.assertTrue(R.did_get_hit(date(2009, 7, 9), Lance))
 
+    def test_get_hit_info(self):
+        d1 = date(2013, 4, 15)
+        d2 = date(2001, 7, 18)
+        d3 = date(2010, 4, 16)
+        sGD2013 = R.get_sus_games_dict(2013) # assume works
+        sGD2001 = R.get_sus_games_dict(2001) # assume works
+        sGD2010 = R.get_sus_games_dict(2010) # assume works
+
+    	## Case 1 : (True, None); player got a hit on date d1
+    	Jose = Player(0, "Jose", "Altuve", 2013)
+    	self.assertEqual(R.get_hit_info(d1, Jose, sGD2013), (True, None))
+
+    	## Case 2: (False, None); player did not get a hit on date date
+    	Will = Player(1, "Will", "Venable", 2013)
+    	self.assertEqual(R.get_hit_info(d1, Will, sGD2013), (False, None))
+
+    	## Case 3: ('pass', 'Suspended, Invalid'); player played in a suspended, invalid game
+    	Mark = Player(2, "Mark", "Grace", 2001)
+    	self.assertEqual(R.get_hit_info(d2, Mark, sGD2001), ('pass', 'Suspended, Invalid.'))
+
+    	## Case 4: (True, 'Suspended, Valid'); player got a hit in a suspended, valid game
+    	Ben = Player(3, "Ben", "Zobrist", 2010)
+    	self.assertEqual(R.get_hit_info(d3, Ben, sGD2010), (True, 'Suspended, Valid.'))
+
+        ## Case 5 : (False, 'Suspended, Valid'); player did not get a hit in a suspended, valid game
+        Marco = Player(4, "Marco", "Scutaro", 2010)
+        self.assertEqual(R.get_hit_info(d3, Marco, sGD2010), (False, 'Suspended, Valid.'))
+
     def test_get_participants(self):
     	self.assertEqual(R.get_participants(date(2011,9,4)), 
             participants_2011_9_4)

@@ -17,6 +17,8 @@ Notes:
    - Top P players P
    - how those P players are distributed to bots N
    - when a mulligan is claimed
+   - when a bot doubles down or chooses a single player, or even if they
+       skip a day
    - how players chosen
        -> Top P global players modulo distribution?
            -> Random distrubition?
@@ -25,4 +27,7 @@ Notes:
        -> Top P nightly players taking into accont opposing pitcher ERA
            -> modulo distrubition?
            -> random distrubiton?
+
+3) Future refactorings:
+    -> install FellThroughExceptions on all appropriate functions
        

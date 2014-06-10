@@ -48,6 +48,10 @@ class NPSimulation(Simulation):
                [Note, as per offical MLB beatthestreak rules, bots need NOT
                be setup with mulligans to start. They can claim a mulligan
                at any point that its available.]
+        Double Downs: On any given day, a bot is able to select two players. 
+            Depending on the outcome of the players at bats, the bot's streak
+            can either increase by 2, increase by 1, stay where it is, or 
+            reset to 0
     """
     def __init__(self, simYear, batAveYear, N, P, startDate='default'):
         Simulation.__init__(self, simYear, startDate)
@@ -80,58 +84,83 @@ class NPSimulation(Simulation):
             bot.claim_mulligan() # claim your mulligan baby
         self.isSetup = True
 
-    def sim_next_day(self):
+    def sim_next_day(self, doubleDown=False):
         """
-        None -> None
+        Bool -> None
+        doubleDown: bool | Indicates whether or not bots should double down 
+           every day
+
 
         Simulates the next day
         """
+        assert type(doubleDown) == bool
+        if doubleDown:
+            self.__sim_next_day_double()
+        else:
+            self.__sim_next_day_single()
+       
+    def __sim_next_day_single(self):
+        """
+        None -> None
+
+        Simulates the next day without using doubleDown strategies
+        Helper function for sim_next_day
+        """
         today = self.get_date()
-
-        # check if today featured a suspended game
-        suspGameToday = False
-        if today in self.susGamesDict.keys():
-            suspGameToday = True
-
-        # progress indicator
-        if self.get_date().day % 10 == 0: 
-            print "Simming day: {0}".format(today) 
 
         # Retrieve list of players playing today
         activePlayers = [player for player in self.players if \
              Researcher.did_start(today, player)]
 
         # assign players to bots and update histories
-        mod_factor = len(activePlayers)
-        if mod_factor == 0: # no activePlayers today
+        modFactor = len(activePlayers)
+        if modFactor == 0: # no active players today
             self.incr_date()
-            return 
+            return
         for i, bot in enumerate(self.bots):
-            player = activePlayers[i % mod_factor]
-
-            # Case 1: Unsuspended game (99.9% of games)
-            hitVal = Researcher.did_get_hit(today, player)
-            other = None
-
-            if suspGameToday: # Case 2: Suspended games, may need to ovveride
-                pRID = player.get_retrosheet_id()
-                susGameParticipants = self.susGamesDict[today][1]
-                if pRID in susGameParticipants:
-                    if self.susGamesDict[today][0]: # Case 2.1: Valid, Suspended
-                        # hitVal stays the same, other gets overriden
-                        other = specialCasesD['S']['V']
-                    elif not self.susGamesDict[today][0]: # Case 2.2: Invalid, Suspended
-                        # override both hitVal and other
-                        hitVal = 'pass'
-                        other = specialCasesD['S']['I']
-
-            bot.update_history(player, hitVal, today, other=other)
+            player = activePlayers[i % modFactor]
+            bot.update_history(p1=player, date=today, 
+                susGamesDict=self.susGamesDict)
 
         # update the date
         self.incr_date()
-    
+
+    def __sim_next_day_double(self):
+        """
+        None -> None
+
+        Simulates the next day with doubleDown strategies
+        Helper function for sim_next_day
+        """
+        today = self.get_date()
+
+        # Retreve list of players playing today
+        activePlayers = [player for player in self.players if \
+            Researcher.did_start(today, player)]
+
+        # assign players to bots and update histories
+        modFactor = len(activePlayers)
+        if modFactor == 0: # no active Players today
+            self.incr_date()
+            return 
+        for i, bot in enumerate(self.bots):
+            if modFactor == 1:
+                bot.update_history(p1=activePlayers[0], date=today, 
+                    susGamesDict=self.susGamesDict)
+                continue
+            # get player indices. Mod in p2Index accounts for odd Modfactor
+            p1Index = (i % 2) % modFactor
+            p2Index = (p1Index + 1) % modFactor 
+            p1 = activePlayers[p1Index]
+            p2 = activePlayers[p2Index]
+            bot.update_history(p1=p1, p2=p2, date=today, 
+                susGamesDict=self.susGamesDict)
+
+        # update the date
+        self.incr_date()
+
     def simulate(self, numDays='max', anotherSim=False, resultsMethod='excel', 
-            test=False):
+            test=False, doubleDown=False):
         """
         int|string  bool string-> None
         numDays: int|string | 'max' if simulation should run to closing day, 
@@ -142,6 +171,7 @@ class NPSimulation(Simulation):
             -> must be in self.outputMethods
         test: bool | indicates whether or not this is being run in a testing
            environment. For debugging
+        doubleDown | Indicates whether or not bots should double down every day
 
 
         Simulates numDays number of days in self.simYear starting on 
@@ -154,6 +184,7 @@ class NPSimulation(Simulation):
         assert type(resultsMethod) == str
         assert resultsMethod in self.outputMethods
         assert type(test) == bool
+        assert type(doubleDown) == bool
 
         # initalize relevant date variables and setup the simulation
         startDate = self.currentDate
@@ -161,6 +192,16 @@ class NPSimulation(Simulation):
         Reporter = NPReporter(self)
         self.setup()
  
+         # initialize a progressbar for the simulation
+        if numDays == 'max':
+            maxval = (lastDate - startDate).days # num Days in season
+        else:
+            maxVal = numDays
+        widgets = ['\nRunning simulation with simYear: {0}'.format(
+            self.get_sim_year()) + ", batAveYear: {0}".format(
+            self.get_bat_year()) + " N: {0}, {P}: {1}. ".format(self.get_n(), 
+            self.get_p()), Timer(), ' ', Percentage()]
+        pbar = ProgressBar(maxval=maxval, widgets=widgets).start()
         # simulate days until lastDate reached or elapsedDays equals numDays
         elapsedDays = 0
         while True:
@@ -170,22 +211,18 @@ class NPSimulation(Simulation):
             if (type(numDays) == int) and elapsedDays >= numDays:
                 Reporter.report_results(method=resultsMethod)
                 break
-            self.sim_next_day()
+            self.sim_next_day(doubleDown=doubleDown)
             elapsedDays += 1
-        
+            pbar.update(elapsedDays)
+        pbar.finish()
         # close up shop
         if anotherSim:
             self.set_setup(value=False)
         else:
             self.close() 
-        
-        # alert user that simulation is over
-        print "Simulation simYear: {0}, batAveYear: {1} ".format(
-            self.get_sim_year(), self.get_bat_year()) + \
-            "N: {0}, P: {1} over!".format(self.get_n(), self.get_p())
 
     def mass_simulate(self, simYearRange, simMinBatRange, NRange, PRange, 
-            Test=False):
+            Test=False, doubleDown=False):
         """
         tupleOfInts tupleOfInts tupleOfInts tupleOfInts bool -> None
         simYearRange: the years (inclusive) over which to run simulation
@@ -195,6 +232,7 @@ class NPSimulation(Simulation):
         PRange: the integers (inclusive) over which to vary top player calculations
         Test: bool | Indicates whether or not mass_simulate is being run 
            under a test framework. For debugging purposes
+        doubleDown | Indicates whether or not bots should double down every day
 
         For each year in simYearRange, for each batAveYear that results from
         subtracting a number in simMinBatRange from simYear, for each N in NRange, 
@@ -218,6 +256,7 @@ class NPSimulation(Simulation):
             for item in param:
                 assert type(item) == int
         assert type(test) == bool
+        assert type(doubleDown) == bool
 
         # lists hold data that will later be written to .xlsxfile
         simYearL, batAveYearL, NL, PL , minBatAveL = [], [], [], [], []
@@ -246,7 +285,7 @@ class NPSimulation(Simulation):
                         self.set_bat_year(batAveYear)
                         self.set_n(N)
                         self.set_p(P)
-                        self.simulate(anotherSim=True)
+                        self.simulate(anotherSim=True, doubleDown=doubleDown)
 
                         # record sim metadata and results for later reporting
                         simYearL.append(self.get_sim_year())
@@ -449,3 +488,4 @@ if __name__ == '__main__':
     """
     main(*sys.argv[1:5])
     # main(int(sys.argv[1]), int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]))
+    

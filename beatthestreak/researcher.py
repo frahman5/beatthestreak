@@ -1,10 +1,11 @@
 import datetime
 import os
 import re
-import pandas as pd
 
+import pandas as pd
 from datetime import date
 
+from config import specialCasesD
 from utilities import Utilities
 from retrosheet import Retrosheet
 from exception import FileContentException, BadDateException,\
@@ -25,8 +26,8 @@ class Researcher(object):
         [a-z]{2}        # first two letters of last name
         [-a-z]{2}       # either 2 more letters of last name, or 1 more letter
                         # of the last name if player has a 3-digit last name
-                        # (e.g lee), or 2 dashes if player has 2-digit last
-                        # name (e.g hu)
+                        # (e.g lee) and a dash, or 2 dashes if player has 
+                        # 2-digit last name (e.g hu)
         [a-z]{1}        # first letter of first name
         [0-9]{3}        # three numbers indicating role and sequence. See
                         # http://www.retrosheet.org/retroID.htm for more details
@@ -80,6 +81,44 @@ class Researcher(object):
                 index = info[index + 1:].index(lastName)
             # Player's hit count is 5 off his last name. 
             return int(info[index+5]) > 0 
+
+    @classmethod
+    def get_hit_info(self, date, player, sGD):
+        """
+        date Player dict -> bool|string None|String
+           date: datetime.date | date of interest
+           player: Player | Player of interest
+           sGD: dict | A dictionary of suspended games in date.year, as defined
+              in get_sus_games_dict
+
+        Produces (hitResult, otherInfo) for player on given date. 
+        Possible values of (hitResult, otherInfo):
+            1) (True, None) # player got a hit on date date
+            2) (False, None) # player did not get a hit on date date
+            3) ('pass', 'Suspended, Invalid.'): # player played in a suspended, invalid game on date date
+            4) (True, 'Suspended, Valid.'): # player got a hit in a suspended, valid game on date date
+            5) (False, 'Suspended, Valid.'): # player did not get a hit in a suspended, valid game on date date
+
+        Technically, this should also account for case 6 below, but because it is exceedingly rare,
+        we do not account for it. This effectively makes our simulation slightly MORE conservative--i.e 
+        more likely to reset a streak--than it should be, making us confident that at the worst, 
+        playing for real should give us better results than our simulation
+            6) ('pass', 'Screwy ABs'): # player played in a valid game on date date but all his at bats were 
+                   either base on balls, hit batsman, defensive interference, defensive obstruction, 
+                   or sacrifice bunt
+        """
+        # type check arguments (can't typecheck player because importing 
+        # Player would cause circular imports)
+        assert type(date) == datetime.date
+        assert type(sGD) == dict
+
+        if date in sGD.keys() and player.get_retrosheet_id() in sGD[date][1]:
+            if sGD[date][0]: # Valid game
+                return self.did_get_hit(date, player), specialCasesD['S']['V']
+            else: # Invalid game
+                return 'pass', specialCasesD['S']['I']
+        else: # Normal game
+            return self.did_get_hit(date, player), None
 
     @classmethod
     def find_home_team(self, date, player):

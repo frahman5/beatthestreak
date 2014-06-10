@@ -30,3 +30,6 @@ class BotUpdateException(Exception):
 
 class MulliganException(Exception):
 	pass
+
+class FellThroughException(Exception):
+	pass
