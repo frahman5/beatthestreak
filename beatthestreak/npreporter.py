@@ -123,16 +123,16 @@ class NPReporter(object):
         batAve1S = Series([event[0].get_bat_ave() for event in history], 
             name='Batting Average1')
         hit1S = Series([event[2] for event in history], name='Hit1')
-        if npsim.get_double_down(): # if it was a double down simulation
-            player2S = Series([event[1].get_name() for event in history], 
-                name='Player2')
-            batAve2S = Series([event[1].get_bat_ave() for event in history], 
-                name='Batting Average2')
-            hit2S = Series([event[3] for event in history], name='Hit2')
-        else: # if it was a single down simulation
-            player2S = Series([None for event in history], name='Player2')
-            batAve2S = Series([None for event in history], name='Batting Average2')
-            hit2S = Series([None for event in history], name='Hit2')
+        # if npsim.get_double_down(): # if it was a double down simulation
+        player2S = Series([event[1].get_name() if event[1] else None 
+            for event in history], name='Player2')
+        batAve2S = Series([event[1].get_bat_ave() if event[1] else None
+            for event in history], name='Batting Average2')
+        hit2S = Series([event[3] for event in history], name='Hit2')
+        # else: # if it was a single down simulation
+        #     player2S = Series([None for event in history], name='Player2')
+        #     batAve2S = Series([None for event in history], name='Batting Average2')
+        #     hit2S = Series([None for event in history], name='Hit2')
         dateS = Series([event[4] for event in history], name='Date')
         streakS = Series([event[5] for event in history], 
             name='Streak')

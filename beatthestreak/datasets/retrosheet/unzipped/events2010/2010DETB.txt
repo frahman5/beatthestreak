@@ -1,0 +1,3326 @@
+     Game of 4/9/2010 -- Cleveland at Detroit (D)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Cabrera A, ss         4  0  2  0   Jackson A, cf         3  2  1  1   
+Sizemore G, cf        4  0  2  0   Damon J, lf           4  0  0  0   
+Choo S, rf            4  0  0  0   Kelly D, lf           0  0  0  0   
+Hafner T, dh          4  1  1  1   Ordonez M, rf         4  0  2  1   
+Peralta J, 3b         3  0  0  0   Cabrera M, 1b         3  0  0  0   
+Kearns A, lf          3  0  1  0   Guillen C, dh         3  0  0  0   
+Valbuena L, 2b        3  0  0  0   Inge B, 3b            4  0  2  0   
+Marte A, 1b           2  1  0  0   Laird G, c            4  1  0  0   
+Redmond M, c          3  0  1  1   Sizemore S, 2b        4  1  1  0   
+                                   Everett A, ss         3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  7  2                        32  5  7  2
+
+Cleveland        010 010 000 --  2
+Detroit          000 040 10x --  5
+
+  Cleveland            IP  H  R ER BB SO
+Huff D (L)            6.0  6  4  1  2  2
+Wright J              2.0  1  1  1  1  0
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (W)*       5.0  5  2  2  2  3
+Coke P+               1.0  0  0  0  2  1
+Zumaya J              2.0  1  0  0  0  1
+Valverde J (S)        1.0  1  0  0  0  1
+  * Pitched to 1 batter in 6th
+  + Pitched to 2 batters in 7th
+
+E -- Peralta J
+DP -- Detroit 3
+LOB -- Cleveland 5, Detroit 6
+2B -- Redmond M, Inge B, Ordonez M
+3B -- Sizemore G
+HR -- Hafner T
+SB -- Sizemore G, Jackson A
+CS -- Cabrera A
+WP -- Porcello R
+T -- 2:33
+A -- 45010
+     Game of 4/10/2010 -- Cleveland at Detroit (D)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Cabrera A, ss         4  1  1  0   Jackson A, cf         5  0  0  0   
+Sizemore G, cf        3  0  0  0   Damon J, lf           2  1  1  0   
+Choo S, rf            2  1  0  0   Kelly D, lf           0  0  0  0   
+Hafner T, dh          4  0  2  1   Ordonez M, rf         3  1  1  2   
+Peralta J, 3b         3  0  0  0   Cabrera M, 1b         3  1  1  0   
+LaPorta M, 1b         4  0  0  0   Guillen C, dh         2  1  0  0   
+Grudzielanek M, 2b    4  0  0  0   Inge B, 3b            3  0  2  1   
+Marson L, c           2  0  0  0   Avila A, c            1  0  0  0   
+Valbuena L, ph        1  0  0  0   Sizemore S, 2b        3  0  0  1   
+Brantley M, lf        3  0  0  0   Everett A, ss         4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  3  1                        26  4  6  4
+
+Cleveland        000 101 000 --  2
+Detroit          202 000 00x --  4
+
+  Cleveland            IP  H  R ER BB SO
+Talbot M (L)          5.0  6  4  4  5  1
+Sipp T*               1.0  0  0  0  1  1
+Smith J               1.0  0  0  0  3  1
+Lewis J               1.0  0  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (W)       5.0  1  1  1  2  5
+Thomas B              2.0  2  1  1  1  2
+Ni F                  0.2  0  0  0  0  1
+Perry R (S)           1.1  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+DP -- Cleveland 2
+LOB -- Cleveland 6, Detroit 9
+HR -- Ordonez M
+CS -- Everett A
+SF -- Sizemore S
+HBP -- by Sipp T (Avila A), by Ni F (Sizemore G), by Ni F (Choo S)
+WP -- Bonderman J, Thomas B
+T -- 3:01
+A -- 35332
+     Game of 4/11/2010 -- Cleveland at Detroit (D)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Cabrera A, ss         5  1  1  0   Jackson A, cf         4  1  2  0   
+Brantley M, cf        5  1  1  0   Kelly D, lf           4  0  2  0   
+Choo S, rf            3  2  1  1   Raburn R, ph-lf       1  0  0  0   
+Hafner T, dh          2  1  1  1   Ordonez M, rf         5  1  2  2   
+Peralta J, 3b         4  1  1  2   Cabrera M, 1b         3  2  3  1   
+LaPorta M, 1b         3  1  1  0   Guillen C, dh         6  2  2  1   
+Marte A, 1b           0  0  0  0   Inge B, 3b            6  0  1  1   
+Valbuena L, 2b        4  1  2  4   Santiago R, ss        4  2  2  0   
+Kearns A, lf          4  0  1  0   Laird G, c            4  0  1  0   
+Marson L, c           4  0  1  0   Damon J, ph           0  0  0  1   
+                                   Sizemore S, 2b        5  1  3  1   
+                     -- -- -- --                        -- -- -- --
+                     34  8 10  8                        42  9 18  7
+
+Cleveland        500 002 100 --  8
+Detroit          000 012 123 --  9
+  2 outs when winning run was scored.
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J           5.2  9  3  3  3  7
+Lewis J               1.0  2  1  1  2  0
+Laffey A*             0.0  0  0  0  1  0
+Smith J               0.1  0  0  0  0  0
+Perez R               0.2  4  2  2  0  0
+Perez C (L)           1.0  3  3  3  3  0
+
+  Detroit              IP  H  R ER BB SO
+Verlander J+          5.0  5  6  6  3  3
+Bonine E              3.0  4  2  2  0  0
+Coke P (W)            1.0  1  0  0  0  0
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 6th
+
+DP -- Cleveland 1, Detroit 2
+LOB -- Cleveland 3, Detroit 18
+2B -- Kearns A, Sizemore S, Guillen C
+HR -- Valbuena L, Peralta J, Choo S
+SB -- Jackson A
+SF -- Hafner T
+HBP -- by Westbrook J (Santiago R), by Westbrook J (Laird G)
+WP -- Perez C
+PB -- Marson L
+T -- 3:28
+A -- 26081
+     Game of 4/12/2010 -- Kansas City at Detroit (D)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+DeJesus D, rf         6  2  3  1   Jackson A, cf         5  1  2  0   
+Podsednik S, lf       5  2  4  3   Damon J, dh           3  0  0  0   
+Maier M, lf           0  0  0  0   Ordonez M, rf         5  0  0  1   
+Callaspo A, 3b        4  1  0  0   Cabrera M, 1b         4  1  1  0   
+Butler B, 1b          5  1  2  2   Guillen C, lf         3  2  2  1   
+Ankiel R, cf          4  0  0  1   Inge B, 3b            4  0  2  2   
+Guillen J, dh         5  1  2  2   Avila A, c            4  0  0  0   
+Kendall J, c          5  0  2  0   Raburn R, 2b          2  1  1  0   
+Betancourt Y, ss      4  1  2  0   Santiago R, ss        4  0  0  0   
+Getz C, 2b            3  2  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41 10 15  9                        34  5  8  4
+
+Kansas City      000 413 020 -- 10
+Detroit          002 102 000 --  5
+
+  Kansas City          IP  H  R ER BB SO
+Hochevar L (W)*       5.0  6  5  4  3  5
+Parrish J             2.0  0  0  0  0  1
+Farnsworth K          1.0  2  0  0  0  0
+Hughes D              1.0  0  0  0  1  0
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M (L)        5.0  9  5  2  2  3
+Thomas B              2.1  3  4  4  3  0
+Ni F                  1.2  3  1  0  0  3
+  * Pitched to 3 batters in 6th
+
+E -- Getz C, Cabrera M, Scherzer M, Raburn R, Avila A
+DP -- Kansas City 1, Detroit 3
+LOB -- Kansas City 9, Detroit 8
+2B -- Inge B 2, Betancourt Y, Butler B, Raburn R, DeJesus D, Kendall J
+HR -- Guillen J, Guillen C
+SB -- Podsednik S
+HBP -- by Hochevar L (Damon J), by Farnsworth K (Raburn R)
+WP -- Ni F
+T -- 3:26
+A -- 17058
+     Game of 4/13/2010 -- Kansas City at Detroit (D)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+DeJesus D, rf         5  1  1  1   Jackson A, cf         4  1  1  1   
+Podsednik S, lf       4  0  2  0   Damon J, lf           3  1  1  0   
+Butler B, 1b          4  1  2  0   Kelly D, lf           1  0  0  0   
+Guillen J, dh         4  2  2  1   Ordonez M, rf         4  1  1  0   
+Ankiel R, cf          5  1  1  0   Cabrera M, 1b         3  0  0  1   
+Callaspo A, 3b        5  0  2  2   Guillen C, dh         4  0  1  2   
+Kendall J, c          5  0  1  0   Inge B, 3b            3  1  1  0   
+Bloomquist W, 2b      4  0  0  0   Laird G, c            4  1  2  1   
+Getz C, 2b            1  0  0  0   Sizemore S, 2b        3  1  2  1   
+Betancourt Y, ss      4  0  2  1   Everett A, ss         2  0  0  0   
+                                   Santiago R, ph-ss     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  5 13  5                        32  6  9  6
+
+Kansas City      003 010 100 --  5
+Detroit          000 000 60x --  6
+
+  Kansas City          IP  H  R ER BB SO
+Bannister B           6.1  4  2  2  2  4
+Colon R               0.1  2  2  2  0  0
+Hughes D (L)*         0.0  1  2  2  1  0
+Cruz J                0.2  2  0  0  2  0
+Mendoza L             0.2  0  0  0  1  0
+
+  Detroit              IP  H  R ER BB SO
+Willis D              5.0  9  4  4  3  3
+Zumaya J (W)          2.0  3  1  0  0  1
+Perry R               1.0  1  0  0  0  1
+Valverde J (S)        1.0  0  0  0  0  0
+  * Pitched to 2 batters in 7th
+
+E -- Cabrera M
+LOB -- Kansas City 12, Detroit 9
+2B -- Guillen J, Laird G, Sizemore S, Jackson A, Guillen C
+HR -- DeJesus D, Guillen J
+SB -- Podsednik S
+SH -- Sizemore S
+WP -- Zumaya J
+T -- 3:03
+A -- 18414
+     Game of 4/14/2010 -- Kansas City at Detroit (D)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+DeJesus D, rf         4  1  2  2   Raburn R, cf          4  1  1  0   
+Podsednik S, lf       4  0  2  0   Damon J, lf           5  0  2  1   
+Ankiel R, cf          0  0  0  0   Ordonez M, rf         3  1  1  1   
+Butler B, 1b          3  0  1  2   Cabrera M, 1b         4  0  1  0   
+Guillen J, dh         4  2  3  1   Guillen C, dh         4  0  0  0   
+Callaspo A, 3b        5  0  2  0   Inge B, 3b            2  0  1  0   
+Maier M, cf-lf        4  0  0  0   Laird G, c            3  0  0  0   
+Kendall J, c          5  2  4  1   Sizemore S, 2b        3  0  0  0   
+Betancourt Y, ss      5  2  2  0   Everett A, ss         3  1  1  0   
+Getz C, 2b            5  0  1  0   Kelly D, ph           1  0  0  0   
+                                   Santiago R, ss        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  7 17  6                        32  3  7  2
+
+Kansas City      021 000 211 --  7
+Detroit          100 020 000 --  3
+
+  Kansas City          IP  H  R ER BB SO
+Davies K (W)          6.2  7  3  3  3  5
+Parrish J             1.0  0  0  0  2  1
+Soria J (S)           1.1  0  0  0  1  2
+
+  Detroit              IP  H  R ER BB SO
+Porcello R            6.0 10  3  3  0  2
+Perry R (L)           1.0  3  2  2  2  0
+Coke P                1.1  4  2  1  1  1
+Bonine E              0.2  0  0  0  0  0
+
+E -- Sizemore S
+DP -- Kansas City 2, Detroit 1
+LOB -- Kansas City 11, Detroit 9
+2B -- Cabrera M, DeJesus D, Inge B, Everett A, Damon J
+HR -- Ordonez M, Guillen J
+CS -- Getz C
+SH -- Podsednik S
+SF -- Butler B 2
+HBP -- by Davies K (Raburn R)
+WP -- Perry R
+T -- 2:50
+A -- 19262
+     Game of 4/27/2010 -- Minnesota at Detroit (N)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Span D, cf            4  0  1  0   Jackson A, cf         3  0  0  0   
+Casilla A, 3b         0  0  0  0   Damon J, dh           4  0  2  0   
+Hudson O, 2b          5  0  1  0   Ordonez M, rf         4  0  0  0   
+Mauer J, c            5  0  0  0   Cabrera M, 1b         4  0  1  0   
+Morneau J, 1b         3  0  0  0   Inge B, 3b            4  0  0  0   
+Young D, lf           0  0  0  0   Raburn R, lf          3  0  0  0   
+Cuddyer M, rf-1b-cf   5  1  0  0   Laird G, c            3  0  1  0   
+Kubel J, lf-rf        3  0  1  0   Sizemore S, 2b        3  0  1  0   
+Thome J, dh           1  1  1  0   Santiago R, ss        3  0  0  0   
+Hardy J, ss           4  0  1  0                                      
+Harris B, 3b-1b       3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  5  0                        31  0  5  0
+
+Minnesota        000 001 100 --  2
+Detroit          000 000 000 --  0
+
+  Minnesota            IP  H  R ER BB SO
+Liriano F (W)         8.0  4  0  0  1 10
+Rauch J (S)           1.0  1  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (L)       5.2  4  1  0  3  7
+Bonine E*             0.0  0  0  0  1  0
+Ni F                  2.2  1  1  0  2  3
+Perry R               0.2  0  0  0  1  0
+  * Pitched to 2 batters in 6th
+
+E -- Santiago R, Raburn R, Sizemore S
+DP -- Minnesota 1, Detroit 1
+LOB -- Minnesota 12, Detroit 5
+2B -- Kubel J, Hardy J, Cabrera M, Damon J
+3B -- Span D
+HBP -- by Bonine E (Harris B)
+WP -- Verlander J
+Balk -- Ni F
+T -- 2:51
+A -- 22008
+     Game of 4/28/2010 -- Minnesota at Detroit (N)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Span D, cf            4  0  1  1   Jackson A, cf         4  3  2  0   
+Hudson O, 2b          5  1  2  1   Damon J, dh           5  1  1  1   
+Mauer J, c            5  0  1  0   Ordonez M, rf         4  1  3  3   
+Thome J, dh           4  1  2  2   Cabrera M, 1b         4  1  0  1   
+Cuddyer M, 1b         4  1  1  0   Boesch B, lf          4  1  2  2   
+Kubel J, rf           4  1  3  1   Kelly D, lf           1  0  0  0   
+Young D, lf           4  1  1  0   Inge B, 3b            5  2  2  3   
+Hardy J, ss           4  0  1  0   Raburn R, 2b          3  1  1  1   
+Hughes L, 3b          4  1  1  1   Avila A, c            3  0  0  0   
+                                   Santiago R, ss        4  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 13  6                        37 11 13 11
+
+Minnesota        201 300 000 --  6
+Detroit          100 406 00x -- 11
+
+  Minnesota            IP  H  R ER BB SO
+Baker S*              4.0  9  5  5  3  5
+Burnett A             1.1  1  1  1  0  1
+Mahay R (L)+          0.0  0  1  0  0  0
+Neshek P#             0.0  0  2  2  1  0
+Crain J               2.2  3  2  2  0  2
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M            3.2 10  6  6  0  3
+Thomas B (W)          2.1  2  0  0  0  2
+Coke P                2.0  1  0  0  0  3
+Valverde J            1.0  0  0  0  1  0
+  * Pitched to 1 batter in 5th
+  + Pitched to 1 batter in 6th
+  # Pitched to 2 batters in 6th
+
+E -- Span D
+DP -- Minnesota 1, Detroit 1
+LOB -- Minnesota 6, Detroit 7
+2B -- Jackson A, Ordonez M, Cuddyer M, Boesch B 2, Hardy J, Inge B, Raburn R
+HR -- Thome J, Hughes L, Inge B
+CS -- Young D
+HBP -- by Neshek P (Cabrera M)
+WP -- Baker S
+T -- 3:08
+A -- 19900
+     Game of 4/29/2010 -- Minnesota at Detroit (D)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Span D, cf            4  0  0  0   Jackson A, cf         4  1  2  1   
+Hudson O, 2b          3  0  1  0   Damon J, dh           3  0  0  1   
+Cuddyer M, 1b         3  0  1  0   Ordonez M, rf         4  1  2  0   
+Thome J, dh           4  0  0  0   Cabrera M, 1b         3  0  0  0   
+Kubel J, rf           2  0  0  0   Boesch B, lf          2  0  0  0   
+Young D, lf           3  0  0  0   Kelly D, lf           1  0  1  1   
+Harris B, ss          3  0  1  0   Inge B, 3b            4  0  0  0   
+Hughes L, 3b          3  0  1  0   Laird G, c            3  0  1  0   
+Butera D, c           2  0  0  0   Sizemore S, 2b        3  1  1  0   
+Mauer J, ph-c         1  0  0  0   Everett A, ss         3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  0  4  0                        30  3  7  3
+
+Minnesota        000 000 000 --  0
+Detroit          100 010 01x --  3
+
+  Minnesota            IP  H  R ER BB SO
+Pavano C (L)          8.0  7  3  2  2  5
+
+  Detroit              IP  H  R ER BB SO
+Willis D (W)*         6.0  4  0  0  2  6
+Zumaya J              2.0  0  0  0  0  2
+Valverde J (S)        1.0  0  0  0  1  1
+  * Pitched to 1 batter in 7th
+
+E -- Butera D
+DP -- Detroit 3
+LOB -- Minnesota 4, Detroit 6
+2B -- Sizemore S, Ordonez M
+SB -- Jackson A, Ordonez M
+CS -- Hughes L
+SF -- Damon J
+T -- 2:18
+A -- 25595
+     Game of 4/30/2010 -- Anaheim at Detroit (N)
+
+  Anaheim            AB  R  H RBI    Detroit            AB  R  H RBI
+Aybar E, ss           5  1  1  0   Jackson A, cf         5  2  5  0   
+Abreu B, rf           5  2  3  0   Damon J, dh           4  2  3  2   
+Hunter T, cf          5  1  2  3   Ordonez M, rf         2  1  0  1   
+Matsui H, dh          4  1  1  1   Kelly D, lf           2  0  0  0   
+Morales K, 1b         4  1  1  0   Cabrera M, 1b         5  1  3  0   
+Rivera J, lf          3  0  1  1   Boesch B, lf-rf       5  1  1  4   
+Kendrick H, 2b        4  0  0  1   Inge B, 3b            4  1  2  0   
+Napoli M, c           3  0  1  0   Laird G, c            5  1  1  2   
+Wood B, 3b            4  0  0  0   Sizemore S, 2b        5  1  1  1   
+                                   Everett A, ss         4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 10  6                        41 10 16 10
+
+Anaheim          103 001 010 --  6
+Detroit          200 800 00x -- 10
+
+  Anaheim              IP  H  R ER BB SO
+Pineiro J (L)         3.1 10 10  9  1  1
+Palmer M              3.2  4  0  0  1  1
+Stokes B              1.0  2  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (W)        5.1  8  5  5  0  3
+Perry R               1.2  1  0  0  0  3
+Coke P                1.0  1  1  1  2  0
+Valverde J            1.0  0  0  0  0  1
+
+E -- Wood B, Morales K, Aybar E
+LOB -- Anaheim 6, Detroit 10
+2B -- Cabrera M, Abreu B 2, Damon J, Rivera J
+3B -- Damon J, Napoli M
+HR -- Hunter T, Laird G, Sizemore S, Boesch B
+SB -- Jackson A
+SF -- Ordonez M
+WP -- Palmer M, Coke P
+T -- 2:43
+A -- 31725
+     Game of 5/1/2010 -- Anaheim at Detroit (D)
+
+  Anaheim            AB  R  H RBI    Detroit            AB  R  H RBI
+Aybar E, ss           4  0  1  0   Jackson A, cf         5  1  1  0   
+Kendrick H, 2b        4  1  1  0   Damon J, lf           5  2  3  1   
+Abreu B, rf           4  0  0  0   Ordonez M, dh         3  0  0  0   
+Matsui H, dh          4  0  1  0   Cabrera M, 1b         3  0  1  1   
+Morales K, 1b         4  1  3  0   Inge B, 3b            3  0  0  1   
+Rivera J, lf          4  0  1  0   Raburn R, rf          4  0  2  0   
+Napoli M, c           4  0  2  0   Laird G, c            4  0  0  0   
+Wood B, 3b            3  0  2  1   Sizemore S, 2b        2  0  0  0   
+Willits R, cf         3  0  0  0   Everett A, ss         2  0  0  0   
+                                   Santiago R, ph-ss     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2 11  1                        32  3  7  3
+
+Anaheim          000 110 000 --  2
+Detroit          100 010 001 --  3
+  1 out when winning run was scored.
+
+  Anaheim              IP  H  R ER BB SO
+Kazmir S              6.0  5  2  1  4  7
+Jepsen K              1.0  0  0  0  0  0
+Rodney F              1.0  1  0  0  1  0
+Shields S (L)         0.1  1  1  1  0  0
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J           6.0 10  2  1  0  4
+Bonine E              1.1  1  0  0  0  2
+Ni F                  1.0  0  0  0  0  1
+Perry R (W)           0.2  0  0  0  0  0
+
+E -- Cabrera M 2, Raburn R, Aybar E, Napoli M
+DP -- Detroit 2
+LOB -- Anaheim 5, Detroit 10
+2B -- Napoli M 2, Raburn R, Damon J
+HR -- Damon J
+SB -- Everett A, Cabrera M, Laird G
+CS -- Aybar E, Abreu B
+SF -- Inge B
+T -- 2:57
+A -- 31042
+     Game of 5/2/2010 -- Anaheim at Detroit (D)
+
+  Anaheim            AB  R  H RBI    Detroit            AB  R  H RBI
+Aybar E, ss           4  0  1  1   Jackson A, cf         5  0  3  1   
+Abreu B, rf           4  0  1  0   Damon J, dh           5  0  0  0   
+Hunter T, cf          4  0  1  0   Ordonez M, rf         3  1  0  0   
+Matsui H, dh          4  0  0  0   Cabrera M, 1b         4  0  1  1   
+Morales K, 1b         3  0  0  0   Boesch B, lf          3  0  1  1   
+Kendrick H, 2b        3  0  0  0   Kelly D, lf           1  0  0  0   
+Napoli M, c           3  0  0  0   Inge B, 3b            4  0  1  0   
+Wood B, 3b            3  0  0  0   Avila A, c            3  2  2  0   
+Willits R, lf         2  0  0  0   Sizemore S, 2b        3  1  2  0   
+Izturis M, ph         1  1  1  0   Santiago R, ss        4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     31  1  4  1                        35  5 11  4
+
+Anaheim          000 000 001 --  1
+Detroit          000 041 00x --  5
+
+  Anaheim              IP  H  R ER BB SO
+Weaver J (L)          4.2  7  4  4  1  6
+Bulger J              1.1  3  1  1  0  1
+Stokes B              1.0  0  0  0  0  1
+Shields S             1.0  1  0  0  1  1
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (W)       8.1  3  1  1  0  7
+Valverde J            0.2  1  0  0  0  0
+
+E -- Shields S
+LOB -- Anaheim 3, Detroit 9
+2B -- Jackson A, Boesch B, Avila A
+SH -- Sizemore S
+WP -- Weaver J 2
+T -- 2:43
+A -- 25603
+     Game of 5/10/2010 -- New York at Detroit (N)
+
+  New York           AB  R  H RBI    Detroit            AB  R  H RBI
+Jeter D, ss           5  0  0  0   Jackson A, cf         4  0  0  1   
+Swisher N, rf         3  1  1  0   Damon J, dh           3  1  1  1   
+Teixeira M, 1b        5  1  1  2   Ordonez M, rf         4  1  1  0   
+Rodriguez A, 3b       4  1  2  0   Cabrera M, 1b         3  2  2  0   
+Cano R, 2b            3  1  1  0   Boesch B, lf          3  0  2  3   
+Posada J, c           2  0  1  0   Kelly D, lf           0  0  0  0   
+Cervelli F, pr-c      0  0  0  0   Inge B, 3b            4  0  0  0   
+Thames M, dh          4  0  1  1   Sizemore S, 2b        3  1  0  0   
+Gardner B, cf         3  0  0  1   Laird G, c            3  0  1  0   
+Winn R, lf            4  0  1  0   Everett A, ss         3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  8  4                        30  5  8  5
+
+New York         002 000 020 --  4
+Detroit          210 010 10x --  5
+
+  New York             IP  H  R ER BB SO
+Mitre S (L)           4.1  5  4  3  2  4
+Robertson D           1.2  2  0  0  1  2
+Logan B               1.0  1  1  1  2  0
+Chamberlain J         1.0  0  0  0  0  3
+
+  Detroit              IP  H  R ER BB SO
+Thomas B              3.0  3  2  2  3  0
+Bonine E (W)          2.1  2  0  0  2  1
+Zumaya J*             1.2  3  2  2  2  1
+Coke P                0.2  0  0  0  0  0
+Perry R               0.1  0  0  0  0  0
+Valverde J (S)        1.0  0  0  0  0  3
+  * Pitched to 4 batters in 8th
+
+E -- Rodriguez A
+DP -- New York 1, Detroit 1
+LOB -- New York 9, Detroit 7
+2B -- Cabrera M
+3B -- Boesch B
+HR -- Teixeira M, Damon J
+SB -- Everett A
+CS -- Rodriguez A
+SH -- Everett A
+WP -- Robertson D, Bonine E
+T -- 3:16
+A -- 34365
+     Game of 5/12/2010, game 1 -- New York at Detroit (D)
+
+  New York           AB  R  H RBI    Detroit            AB  R  H RBI
+Jeter D, ss           4  0  0  0   Jackson A, cf         4  1  1  0   
+Gardner B, cf         3  0  0  0   Damon J, lf           4  0  1  0   
+Teixeira M, 1b        4  0  0  0   Kelly D, lf           0  0  0  0   
+Rodriguez A, dh       4  0  0  0   Ordonez M, dh         4  1  0  1   
+Cano R, 2b            4  0  1  0   Cabrera M, 1b         3  0  1  0   
+Posada J, c           3  0  1  0   Boesch B, rf          3  0  1  1   
+Russo K, pr           0  0  0  0   Inge B, 3b            3  0  0  0   
+Swisher N, rf         4  0  1  0   Santiago R, 2b        2  0  0  0   
+Winn R, lf            1  0  1  0   Laird G, c            2  0  1  0   
+Pena R, 3b            3  0  0  0   Everett A, ss         3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        28  2  5  2
+
+New York         000 000 000 --  0
+Detroit          000 002 00x --  2
+
+  New York             IP  H  R ER BB SO
+Vazquez J (L)         7.0  5  2  2  2  7
+Logan B               1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (W)        7.0  4  0  0  3  2
+Perry R               1.0  0  0  0  0  1
+Valverde J (S)        1.0  0  0  0  1  1
+
+E -- Inge B
+DP -- New York 1, Detroit 1
+LOB -- New York 7, Detroit 4
+2B -- Posada J
+SB -- Gardner B
+T -- 2:15
+A -- 27376
+     Game of 5/12/2010, game 2 -- New York at Detroit (N)
+
+  New York           AB  R  H RBI    Detroit            AB  R  H RBI
+Jeter D, dh           4  2  0  0   Jackson A, cf         4  0  1  0   
+Gardner B, cf-lf-cf   5  2  3  1   Damon J, dh           3  0  0  0   
+Teixeira M, 1b        5  1  2  3   Ordonez M, rf         4  0  1  0   
+Rodriguez A, 3b       5  0  2  2   Cabrera M, 1b         4  0  1  0   
+Russo K, pr-3b        0  0  0  0   Boesch B, lf          4  0  2  0   
+Cano R, 2b            3  0  0  0   Avila A, c            4  0  0  0   
+Swisher N, rf         3  0  0  0   Kelly D, 3b           3  0  1  0   
+Winn R, lf            1  1  0  0   Santiago R, ss        3  0  0  0   
+Thames M, lf          3  0  0  0   Sizemore S, 2b        3  0  0  0   
+Golson G, cf-rf       2  0  1  0                                      
+Cervelli F, c         4  1  2  1                                      
+Pena R, ss            3  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  8 10  7                        32  0  6  0
+
+New York         101 000 006 --  8
+Detroit          000 000 000 --  0
+
+  New York             IP  H  R ER BB SO
+Hughes P (W)          7.0  5  0  0  1  8
+Chamberlain J         1.0  1  0  0  0  1
+Rivera M              1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (L)       7.0  5  2  2  1  7
+Coke P                1.1  2  4  4  1  2
+Figaro A              0.2  3  2  2  2  0
+
+E -- Santiago R
+DP -- New York 1
+LOB -- New York 8, Detroit 6
+2B -- Cabrera M, Cervelli F, Rodriguez A
+SB -- Gardner B, Jeter D
+HBP -- by Coke P (Cano R)
+WP -- Figaro A
+T -- 3:06
+A -- 28514
+     Game of 5/13/2010 -- New York at Detroit (D)
+
+  New York           AB  R  H RBI    Detroit            AB  R  H RBI
+Jeter D, ss           4  0  1  0   Jackson A, cf         4  0  0  0   
+Gardner B, cf         5  0  1  0   Damon J, dh           4  1  2  0   
+Teixeira M, dh        3  0  0  0   Ordonez M, rf         4  1  2  0   
+Rodriguez A, 3b       4  0  0  0   Cabrera M, 1b         4  2  2  3   
+Cano R, 2b            3  0  0  0   Boesch B, lf          3  2  2  1   
+Posada J, c           4  0  2  0   Kelly D, lf           1  0  0  0   
+Miranda J, 1b         3  0  0  0   Inge B, 3b            4  0  0  0   
+Winn R, lf-rf         3  0  0  0   Laird G, c            4  0  2  2   
+Golson G, rf          2  0  0  0   Sizemore S, 2b        3  0  0  0   
+Thames M, ph-lf       1  0  0  0   Everett A, ss         3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  0  4  0                        34  6 11  6
+
+New York         000 000 000 --  0
+Detroit          010 203 00x --  6
+
+  New York             IP  H  R ER BB SO
+Sabathia C (L)        6.0  9  6  6  0  4
+Nova I                2.0  2  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (W)       6.2  4  0  0  4  4
+Zumaya J              1.1  0  0  0  1  0
+Bonine E              1.0  0  0  0  0  1
+
+E -- Verlander J, Sizemore S
+DP -- New York 1
+LOB -- New York 11, Detroit 4
+2B -- Boesch B, Posada J, Cabrera M, Laird G
+HR -- Cabrera M, Boesch B
+HBP -- by Verlander J (Jeter D)
+PB -- Posada J
+T -- 2:38
+A -- 31130
+     Game of 5/14/2010 -- Boston at Detroit (N)
+
+  Boston             AB  R  H RBI    Detroit            AB  R  H RBI
+Scutaro M, ss         5  1  1  0   Jackson A, cf         4  1  1  0   
+Pedroia D, 2b         4  1  1  2   Damon J, dh           5  0  0  0   
+Martinez V, c         4  0  0  0   Ordonez M, rf         3  1  3  0   
+Youkilis K, 1b        3  1  1  0   Cabrera M, 1b         4  0  0  0   
+Drew J, rf            4  1  1  0   Boesch B, lf          4  0  1  1   
+Ortiz D, dh           4  2  2  4   Inge B, 3b            2  0  0  1   
+Beltre A, 3b          4  0  1  0   Sizemore S, 2b        3  0  0  0   
+Hermida J, lf         2  0  0  0   Laird G, c            3  0  0  0   
+Hall B, ph-lf         1  1  1  1   Santiago R, ss        2  0  0  0   
+McDonald D, cf        4  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  7 10  7                        30  2  5  2
+
+Boston           500 100 001 --  7
+Detroit          100 000 010 --  2
+
+  Boston               IP  H  R ER BB SO
+Buchholz C (W)        6.1  3  1  1  5  3
+Bard D                1.2  1  1  0  1  2
+Okajima H             1.0  1  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M (L)        5.0  6  6  6  2  1
+Thomas B              3.0  3  0  0  0  3
+Ni F                  1.0  1  1  1  0  0
+
+E -- Bard D
+DP -- Boston 1, Detroit 2
+LOB -- Boston 3, Detroit 9
+2B -- Youkilis K
+HR -- Pedroia D, Ortiz D 2, Hall B
+SF -- Inge B
+HBP -- by Bard D (Santiago R)
+WP -- Bard D
+T -- 2:57
+A -- 31732
+     Game of 5/15/2010 -- Boston at Detroit (N)
+
+  Boston             AB  R  H RBI    Detroit            AB  R  H RBI
+Scutaro M, ss         5  1  1  0   Jackson A, cf         5  0  0  0   
+Pedroia D, 2b         4  1  0  0   Wells C, lf           4  0  0  0   
+Martinez V, c         5  0  0  0   Damon J, ph-lf        2  0  0  0   
+Youkilis K, 1b        1  1  0  0   Ordonez M, rf         6  3  3  1   
+Ortiz D, dh           6  1  3  2   Cabrera M, 1b         4  2  1  0   
+Beltre A, 3b          5  1  2  0   Boesch B, dh          6  1  4  2   
+Drew J, rf            4  0  1  2   Inge B, 3b            3  0  1  2   
+Hall B, lf            4  1  1  2   Laird G, c            5  0  0  0   
+Hermida J, ph-lf      2  0  0  0   Avila A, ph           1  0  0  0   
+McDonald D, cf        4  0  0  0   Sizemore S, 2b        2  1  0  0   
+Lowell M, ph          1  0  1  0   Santiago R, ph-2b     1  0  0  1   
+Van Every J, pr-cf    1  0  0  0   Everett A, ss         4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     42  6  9  6                        43  7 10  7
+
+Boston           003 120 000 000 --  6
+Detroit          001 003 020 001 --  7
+  2 outs when winning run was scored.
+
+  Boston               IP  H  R ER BB SO
+Lester J              7.0  4  4  4  4 10
+Okajima H             0.2  3  2  2  1  1
+Papelbon J            2.1  1  0  0  0  2
+Delcarmen M (L)       1.1  1  1  1  1  1
+Schoeneweis S*        0.0  1  0  0  0  0
+Ramirez R             0.1  0  0  0  2  1
+
+  Detroit              IP  H  R ER BB SO
+Willis D              3.1  4  4  4  7  5
+Bonine E              3.0  3  2  2  3  1
+Perry R               1.1  0  0  0  1  1
+Coke P                1.0  0  0  0  0  1
+Zumaya J              2.1  2  0  0  1  2
+Valverde J (W)        1.0  0  0  0  0  0
+  * Pitched to 1 batter in 12th
+
+E -- Cabrera M
+DP -- Detroit 2
+LOB -- Boston 13, Detroit 11
+2B -- Drew J, Everett A, Beltre A, Inge B, Boesch B
+3B -- Boesch B
+HR -- Hall B, Ordonez M
+SH -- Scutaro M, Everett A
+SF -- Inge B
+T -- 4:35
+A -- 40742
+     Game of 5/16/2010 -- Boston at Detroit (D)
+
+  Boston             AB  R  H RBI    Detroit            AB  R  H RBI
+Scutaro M, ss         4  0  1  0   Damon J, lf           2  1  2  1   
+Hermida J, lf         4  0  1  1   Jackson A, cf         0  0  0  0   
+Drew J, rf            3  0  0  0   Santiago R, ss        4  1  1  2   
+Youkilis K, 1b        4  0  2  0   Ordonez M, dh         4  1  2  0   
+Ortiz D, dh           3  0  0  0   Cabrera M, 1b         3  1  0  0   
+Lowell M, 3b          4  0  0  0   Boesch B, rf          4  0  1  0   
+Varitek J, c          3  0  0  0   Wells C, rf           0  0  0  0   
+Hall B, 2b            4  0  0  0   Inge B, 3b            4  0  0  1   
+Van Every J, cf       2  1  1  0   Kelly D, cf-lf        4  1  2  0   
+McDonald D, ph-cf     2  0  2  0   Avila A, c            3  0  0  0   
+                                   Worth D, 2b           3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     33  1  7  1                        31  5  9  5
+
+Boston           001 000 000 --  1
+Detroit          021 200 00x --  5
+
+  Boston               IP  H  R ER BB SO
+Lackey J (L)          7.0  9  5  5  4  4
+Schoeneweis S         1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Galarraga A (W)       5.2  3  1  1  3  5
+Bonderman J           1.0  0  0  0  0  1
+Ni F                  0.1  2  0  0  1  1
+Perry R               1.0  1  0  0  0  1
+Valverde J            1.0  1  0  0  1  1
+
+DP -- Boston 1, Detroit 1
+LOB -- Boston 10, Detroit 6
+2B -- Van Every J, Hermida J
+HR -- Santiago R
+SB -- Damon J, Kelly D
+CS -- Damon J
+T -- 2:54
+A -- 35454
+     Game of 5/18/2010 -- Chicago at Detroit (D)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Pierre J, lf          4  2  1  2   Jackson A, cf         4  0  1  0   
+Vizquel O, 2b         5  0  2  1   Damon J, dh           5  1  1  1   
+Jones A, rf           3  0  1  0   Ordonez M, rf         1  0  0  0   
+Konerko P, 1b         4  0  1  1   Cabrera M, 1b         4  0  0  0   
+Rios A, cf            4  1  0  0   Boesch B, lf          4  1  2  0   
+Pierzynski A, c       4  1  1  0   Inge B, 3b            4  0  1  1   
+Quentin C, dh         4  1  3  2   Santiago R, 2b        4  0  0  0   
+Teahen M, 3b          3  1  1  0   Laird G, c            3  0  0  0   
+Nix J, ph-3b          1  0  0  0   Avila A, ph           1  0  0  0   
+Ramirez A, ss         4  0  0  0   Everett A, ss         3  0  1  0   
+                                   Kelly D, ph           1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6 10  6                        34  2  7  2
+
+Chicago          100 300 020 --  6
+Detroit          110 000 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Garcia F (W)          6.0  5  2  2  2  3
+Santos S              1.0  1  0  0  2  1
+Putz J                1.0  0  0  0  0  1
+Jenks B               1.0  1  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (L)        7.0  8  4  4  3  2
+Zumaya J              0.1  2  2  1  0  0
+Coke P                0.2  0  0  0  0  0
+Bonine E              1.0  0  0  0  0  1
+
+E -- Boesch B, Pierzynski A
+DP -- Detroit 1
+LOB -- Chicago 6, Detroit 9
+2B -- Boesch B, Pierre J, Jackson A, Pierzynski A, Quentin C
+HR -- Damon J
+SB -- Jones A, Boesch B
+CS -- Jones A
+WP -- Garcia F 2
+T -- 2:44
+A -- 28155
+     Game of 5/28/2010 -- Oakland at Detroit (N)
+
+  Oakland            AB  R  H RBI    Detroit            AB  R  H RBI
+Davis R, cf           5  1  2  0   Jackson A, cf         4  0  0  0   
+Barton D, 1b          4  0  1  0   Damon J, dh           4  0  1  0   
+Suzuki K, dh          4  1  1  1   Ordonez M, rf         4  1  1  0   
+Kouzmanoff K, 3b      4  0  0  0   Cabrera M, 1b         4  3  3  4   
+Rosales A, ss         4  1  1  0   Boesch B, lf          4  0  0  0   
+Fox J, lf             4  0  3  1   Guillen C, 2b         3  0  1  0   
+Patterson E, pr-lf    0  0  0  0   Inge B, 3b            4  0  1  0   
+Sweeney R, ph-rf      0  1  0  0   Avila A, c            3  0  0  0   
+Ellis M, 2b           4  0  3  0   Everett A, ss         2  0  0  0   
+Gross G, rf-lf        4  0  1  1   Santiago R, ph-ss     1  0  0  0   
+Powell L, c           3  1  2  2                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5 14  5                        33  4  7  4
+
+Oakland          101 100 002 --  5
+Detroit          200 100 001 --  4
+
+  Oakland              IP  H  R ER BB SO
+Sheets B              7.0  5  3  3  1  6
+Ziegler B (W)         1.0  1  0  0  0  0
+Bailey A (S)          1.0  1  1  1  0  0
+
+  Detroit              IP  H  R ER BB SO
+Willis D              5.1  9  3  3  4  5
+Galarraga A           1.2  1  0  0  0  0
+Coke P                0.2  2  0  0  0  0
+Perry R (L)           0.2  1  2  2  1  0
+Ni F*                 0.0  1  0  0  0  0
+Zumaya J              0.2  0  0  0  0  0
+  * Pitched to 1 batter in 9th
+
+E -- Avila A
+DP -- Oakland 1, Detroit 3
+LOB -- Oakland 13, Detroit 3
+2B -- Davis R, Guillen C, Barton D, Damon J, Rosales A
+HR -- Cabrera M 3, Powell L
+SB -- Patterson E
+SH -- Barton D
+SF -- Powell L
+HBP -- by Perry R (Ellis M)
+WP -- Willis D, Galarraga A
+T -- 2:43
+A -- 40210
+     Game of 5/29/2010 -- Oakland at Detroit (N)
+
+  Oakland            AB  R  H RBI    Detroit            AB  R  H RBI
+Davis R, cf           5  1  2  0   Jackson A, cf         4  0  2  0   
+Barton D, 1b          3  0  1  0   Damon J, dh           4  0  2  0   
+Sweeney R, rf         4  0  2  1   Ordonez M, rf         4  0  0  0   
+Suzuki K, c           5  0  0  0   Cabrera M, 1b         4  0  1  0   
+Cust J, dh            4  0  2  0   Raburn R, lf          3  0  0  0   
+Patterson E, pr       1  1  0  0   Guillen C, 2b         3  0  0  0   
+Kouzmanoff K, 3b      4  1  0  0   Inge B, 3b            3  0  0  0   
+Gross G, lf           3  1  0  0   Laird G, c            3  0  0  0   
+Ellis M, 2b           4  2  3  4   Everett A, ss         3  0  0  0   
+Pennington C, ss      2  0  0  1                                      
+                     -- -- -- --                        -- -- -- --
+                     35  6 10  6                        31  0  5  0
+
+Oakland          000 020 040 --  6
+Detroit          000 000 000 --  0
+
+  Oakland              IP  H  R ER BB SO
+Anderson B (W)        5.2  3  0  0  0  4
+Ziegler B             2.1  1  0  0  0  1
+Breslow C             1.0  1  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (L)        6.1  7  2  2  2  1
+Thomas B              1.0  1  3  3  3  0
+Bonine E              0.2  1  1  1  0  0
+Valverde J            1.0  1  0  0  1  2
+
+DP -- Oakland 1, Detroit 1
+LOB -- Oakland 9, Detroit 4
+2B -- Barton D, Damon J, Ellis M, Sweeney R, Jackson A
+3B -- Sweeney R, Davis R
+HR -- Ellis M
+SB -- Davis R
+SF -- Pennington C
+WP -- Porcello R
+T -- 2:35
+A -- 39750
+     Game of 5/30/2010 -- Oakland at Detroit (D)
+
+  Oakland            AB  R  H RBI    Detroit            AB  R  H RBI
+Davis R, cf           2  1  1  0   Jackson A, cf         5  2  1  0   
+Patterson E, ph       1  0  0  0   Damon J, dh           2  2  1  0   
+Barton D, 1b          4  1  1  2   Ordonez M, rf         4  1  2  2   
+Sweeney R, rf         4  0  0  0   Cabrera M, 1b         5  1  4  4   
+Kouzmanoff K, 3b      4  0  0  0   Raburn R, lf          3  0  0  0   
+Cust J, dh            3  0  1  0   Kelly D, ph-lf        2  0  1  0   
+Ellis M, 2b           2  0  0  0   Guillen C, 2b         5  1  1  1   
+Gross G, lf           2  0  0  0   Inge B, 3b            3  2  3  1   
+Fox J, ph-lf          2  0  0  0   Laird G, c            3  1  2  1   
+Powell L, c           4  0  1  0   Santiago R, ss        3  0  0  0   
+Pennington C, ss      3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  2                        35 10 15  9
+
+Oakland          000 000 200 --  2
+Detroit          111 101 05x -- 10
+
+  Oakland              IP  H  R ER BB SO
+Braden D (L)          6.0 11  5  5  1  5
+Mazzaro V             2.0  4  5  0  3  1
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M (W)        5.2  2  0  0  4 14
+Coke P                1.1  2  2  2  0  1
+Zumaya J (S)          2.0  0  0  0  1  2
+
+E -- Mazzaro V, Powell L
+DP -- Oakland 1
+LOB -- Oakland 8, Detroit 8
+2B -- Jackson A, Inge B 2, Cabrera M, Cust J
+HR -- Inge B, Guillen C, Barton D, Cabrera M
+SB -- Davis R, Pennington C
+SH -- Damon J, Laird G, Santiago R
+HBP -- by Scherzer M (Ellis M)
+T -- 2:43
+A -- 32510
+     Game of 5/31/2010 -- Oakland at Detroit (D)
+
+  Oakland            AB  R  H RBI    Detroit            AB  R  H RBI
+Davis R, cf           4  2  2  0   Kelly D, cf           1  0  1  0   
+Barton D, 1b          2  1  1  1   Jackson A, ph-cf      2  0  1  1   
+Sweeney R, rf         4  0  1  1   Damon J, dh           4  0  0  0   
+Suzuki K, c           4  1  1  0   Ordonez M, rf         4  0  0  0   
+Cust J, dh            4  0  0  0   Cabrera M, 1b         4  0  0  0   
+Kouzmanoff K, 3b      4  0  1  1   Boesch B, lf          1  0  0  0   
+Gross G, lf           4  0  2  0   Guillen C, 2b         4  0  0  0   
+Rosales A, 2b         4  0  0  0   Inge B, 3b            4  1  2  0   
+Pennington C, ss      3  0  0  0   Avila A, c            2  0  2  0   
+                                   Laird G, ph-c         2  0  0  0   
+                                   Santiago R, ss        2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  8  3                        30  1  7  1
+
+Oakland          200 000 110 --  4
+Detroit          000 000 100 --  1
+
+  Oakland              IP  H  R ER BB SO
+Cahill T (W)          6.1  5  1  1  4  3
+Blevins J             0.2  2  0  0  0  1
+Wuertz M              0.2  0  0  0  1  1
+Bailey A (S)          1.1  0  0  0  1  1
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (L)       7.0  6  3  3  1  8
+Perry R               1.0  1  1  1  1  0
+Ni F                  1.0  1  0  0  0  0
+
+E -- Cahill T
+DP -- Oakland 2, Detroit 2
+LOB -- Oakland 4, Detroit 9
+2B -- Barton D, Suzuki K, Gross G
+SB -- Davis R 2
+SH -- Kelly D
+T -- 2:48
+A -- 23641
+     Game of 6/1/2010 -- Cleveland at Detroit (N)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Crowe T, cf           5  0  1  0   Jackson A, cf         4  0  0  0   
+Choo S, rf            4  1  1  1   Damon J, lf           3  0  1  0   
+Kearns A, lf          3  0  0  0   Ordonez M, rf         4  0  0  0   
+Hafner T, dh          3  1  0  0   Cabrera M, 1b         4  1  2  0   
+Peralta J, 3b         4  0  2  0   Boesch B, dh          3  0  0  0   
+Branyan R, 1b         4  1  1  1   Guillen C, 2b         4  1  1  1   
+Grudzielanek M, 2b    4  0  2  1   Inge B, 3b            3  0  1  0   
+Marson L, c           4  0  0  0   Laird G, c            2  0  0  0   
+Donald J, ss          4  0  2  0   Kelly D, ph           0  0  0  0   
+                                   Avila A, c            1  0  1  1   
+                                   Santiago R, ss        4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  3                        32  2  6  2
+
+Cleveland        000 011 010 --  3
+Detroit          010 000 001 --  2
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (W)       7.2  5  1  1  1  1
+Perez C               0.1  0  0  0  0  0
+Wood K (S)            1.0  1  1  0  1  1
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (L)       8.0  9  3  3  2  1
+Bonine E              1.0  0  0  0  1  2
+
+E -- Donald J, Branyan R
+DP -- Cleveland 1, Detroit 1
+LOB -- Cleveland 9, Detroit 7
+2B -- Cabrera M, Damon J
+3B -- Donald J
+HR -- Branyan R, Choo S
+HBP -- by Westbrook J (Boesch B), by Bonderman J (Hafner T), by Westbrook J (Kelly D)
+T -- 2:35
+A -- 19446
+     Game of 6/2/2010 -- Cleveland at Detroit (N)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Crowe T, cf           4  0  0  0   Jackson A, cf         4  1  3  0   
+Choo S, rf            3  0  0  0   Damon J, lf           4  1  1  0   
+Kearns A, lf          3  0  0  0   Kelly D, lf           0  0  0  0   
+Hafner T, dh          3  0  0  0   Ordonez M, rf         4  0  1  1   
+Peralta J, 3b         3  0  0  0   Cabrera M, 1b         4  1  2  1   
+Branyan R, 1b         3  0  0  0   Boesch B, dh          3  0  1  0   
+Grudzielanek M, 2b    3  0  0  0   Guillen C, 2b         3  0  0  0   
+Redmond M, c          3  0  0  0   Inge B, 3b            3  0  0  0   
+Donald J, ss          3  0  1  0   Avila A, c            3  0  1  0   
+                                   Santiago R, ss        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  0  1  0                        31  3  9  2
+
+Cleveland        000 000 000 --  0
+Detroit          010 000 02x --  3
+
+  Cleveland            IP  H  R ER BB SO
+Carmona F (L)         8.0  9  3  2  0  3
+
+  Detroit              IP  H  R ER BB SO
+Galarraga A (W)       9.0  1  0  0  0  3
+
+E -- Choo S
+DP -- Cleveland 2
+LOB -- Cleveland 1, Detroit 4
+HR -- Cabrera M
+SB -- Jackson A
+T -- 1:44
+A -- 17738
+     Game of 6/3/2010 -- Cleveland at Detroit (D)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Crowe T, cf           5  0  1  0   Jackson A, cf         6  2  4  0   
+Choo S, rf            5  0  2  2   Raburn R, lf          3  1  1  1   
+Hafner T, dh          4  0  0  1   Kelly D, lf           0  1  0  0   
+Duncan S, ph          1  0  0  0   Ordonez M, rf         5  2  3  5   
+Peralta J, 3b         5  0  0  0   Cabrera M, 1b         2  2  1  2   
+Branyan R, 1b         4  1  1  0   Boesch B, dh          4  2  3  0   
+LaPorta M, lf         3  1  0  0   Guillen C, 2b         5  0  2  2   
+Valbuena L, 2b        4  1  2  0   Santiago R, 2b        0  0  0  0   
+Marson L, c           3  1  0  1   Inge B, 3b            5  0  2  1   
+Donald J, ss          4  2  1  1   Laird G, c            3  1  0  0   
+                                   Everett A, ss         5  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6  7  5                        38 12 17 11
+
+Cleveland        001 500 000 --  6
+Detroit          023 011 50x -- 12
+
+  Cleveland            IP  H  R ER BB SO
+Huff D*               3.0  6  5  5  2  0
+Lewis J               2.0  4  1  1  0  3
+Ambriz H (L)          1.0  2  1  1  1  1
+Sipp T                0.2  3  5  5  2  2
+Perez R               1.1  2  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Porcello R            5.1  7  6  3  1  2
+Thomas B (W)          0.2  0  0  0  0  0
+Zumaya J              1.0  0  0  0  0  0
+Bonine E              0.2  0  0  0  1  1
+Coke P                0.1  0  0  0  0  0
+Valverde J            1.0  0  0  0  0  2
+  * Pitched to 1 batter in 4th
+
+E -- Everett A, Inge B, Guillen C 2
+DP -- Cleveland 1
+LOB -- Cleveland 8, Detroit 10
+2B -- Guillen C 2, Choo S 2, Jackson A 3, Valbuena L, Ordonez M
+3B -- Ordonez M, Boesch B
+HR -- Ordonez M, Cabrera M
+SH -- Raburn R
+SF -- Cabrera M
+HBP -- by Porcello R (Branyan R), by Huff D (Laird G)
+WP -- Sipp T 2
+Balk -- Porcello R
+T -- 3:17
+A -- 28169
+     Game of 6/11/2010 -- Pittsburgh at Detroit (N)
+
+  Pittsburgh         AB  R  H RBI    Detroit            AB  R  H RBI
+McCutchen A, cf       4  1  2  1   Jackson A, cf         5  0  0  0   
+Walker N, 3b          3  0  0  0   Damon J, dh           4  0  2  0   
+Doumit R, 1b          4  0  0  0   Kelly D, lf           4  0  0  0   
+Jones G, rf           4  0  2  1   Cabrera M, 1b         4  0  0  0   
+Church R, dh          4  0  0  0   Boesch B, rf          4  2  2  1   
+Milledge L, lf        3  0  1  0   Guillen C, 2b         4  1  1  0   
+Iwamura A, 2b         2  1  0  0   Inge B, 3b            4  1  3  1   
+Cedeno R, ss          3  0  0  0   Avila A, c            3  1  3  2   
+Jaramillo J, c        3  0  0  0   Santiago R, ss        4  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        36  6 12  6
+
+Pittsburgh       001 000 010 --  2
+Detroit          000 303 00x --  6
+
+  Pittsburgh           IP  H  R ER BB SO
+Ohlendorf R (L)       6.0 10  6  6  0  6
+Eveland D             2.0  2  0  0  1  2
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (W)*      7.0  4  2  2  4  3
+Coke P                1.0  1  0  0  0  1
+Valverde J            1.0  0  0  0  1  2
+  * Pitched to 2 batters in 8th
+
+DP -- Detroit 1
+LOB -- Pittsburgh 7, Detroit 7
+2B -- McCutchen A 2, Guillen C, Inge B, Damon J
+HR -- Boesch B, Santiago R
+SB -- Jones G, Boesch B, Avila A
+SH -- Cedeno R
+PB -- Jaramillo J
+T -- 2:43
+A -- 33236
+     Game of 6/12/2010 -- Pittsburgh at Detroit (N)
+
+  Pittsburgh         AB  R  H RBI    Detroit            AB  R  H RBI
+Tabata J, lf          4  1  1  0   Jackson A, cf         5  0  2  0   
+Walker N, 2b          4  0  1  1   Damon J, dh           5  1  3  0   
+McCutchen A, cf       5  0  1  0   Raburn R, lf          3  0  0  0   
+Jones G, dh           4  2  2  1   Kelly D, lf           0  0  0  0   
+Doumit R, 1b          4  0  1  0   Cabrera M, 1b         4  1  1  0   
+Crosby B, 1b          0  0  0  0   Boesch B, rf          5  1  2  0   
+Church R, rf          4  0  1  1   Guillen C, 2b         5  1  2  1   
+LaRoche A, 3b         4  0  1  0   Inge B, 3b            3  0  1  0   
+Cedeno R, ss          4  0  1  0   Laird G, c            3  0  1  1   
+Jaramillo J, c        4  0  0  0   Worth D, ss           4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  3  9  3                        37  4 13  2
+
+Pittsburgh       010 100 010 0 --  3
+Detroit          010 000 200 1 --  4
+  0 outs when winning run was scored.
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P              6.0  8  1  1  3  2
+Meek E                1.0  2  2  0  0  1
+Hanrahan J            2.0  2  0  0  1  2
+Donnelly B (L)        0.0  1  1  1  0  0
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J           7.0  6  2  2  1  6
+Zumaya J              1.0  3  1  1  0  1
+Valverde J            1.0  0  0  0  0  3
+Coke P (W)            1.0  0  0  0  1  0
+
+E -- Maholm P, Doumit R
+DP -- Pittsburgh 2, Detroit 1
+LOB -- Pittsburgh 6, Detroit 11
+2B -- Church R, Worth D, Doumit R, Tabata J
+HR -- Jones G, Guillen C
+SB -- Jackson A 2, Tabata J
+CS -- Walker N, Laird G
+SF -- Laird G
+T -- 3:27
+A -- 34501
+     Game of 6/13/2010 -- Pittsburgh at Detroit (D)
+
+  Pittsburgh         AB  R  H RBI    Detroit            AB  R  H RBI
+Tabata J, lf          4  0  1  0   Jackson A, cf         0  0  0  0   
+Walker N, 2b          4  0  0  0   Raburn R, ph-lf       4  0  0  0   
+McCutchen A, cf       4  1  2  0   Santiago R, ss        4  0  0  0   
+Jones G, 1b           4  1  2  2   Damon J, dh           2  1  2  0   
+Doumit R, c           4  1  1  0   Cabrera M, 1b         4  1  1  3   
+Church R, rf          4  0  0  0   Boesch B, rf          4  0  1  0   
+Young D, dh           2  0  0  1   Inge B, 3b            3  0  1  0   
+LaRoche A, 3b         3  0  0  0   Avila A, c            3  1  1  1   
+Iwamura A, ph         1  0  0  0   Kelly D, lf-cf        3  0  0  0   
+Cedeno R, ss          3  0  1  0   Worth D, 2b           2  0  0  0   
+                                   Guillen C, ph-2b      1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        30  4  7  4
+
+Pittsburgh       010 100 001 --  3
+Detroit          000 000 13x --  4
+
+  Pittsburgh           IP  H  R ER BB SO
+Karstens J*           7.0  6  2  2  1  3
+Carrasco D            0.2  0  0  0  0  1
+Lopez J (L)+          0.0  0  1  1  1  0
+Dotel O               0.1  1  1  1  0  0
+
+  Detroit              IP  H  R ER BB SO
+Galarraga A           7.2  6  2  2  1  0
+Thomas B (W)          0.1  0  0  0  0  0
+Valverde J (S)        1.0  1  1  1  0  0
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 8th
+
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 5, Detroit 4
+2B -- Jones G, Doumit R
+HR -- Jones G, Avila A, Cabrera M
+SF -- Young D
+WP -- Carrasco D
+Balk -- Galarraga A
+T -- 2:33
+A -- 31243
+     Game of 6/15/2010 -- Washington at Detroit (N)
+
+  Washington         AB  R  H RBI    Detroit            AB  R  H RBI
+Guzman C, 2b          4  0  0  0   Raburn R, cf          4  2  2  4   
+Morgan N, cf          5  2  2  0   Kelly D, cf           0  0  0  0   
+Zimmerman R, 3b       3  0  0  1   Damon J, dh           5  0  0  0   
+Dunn A, dh            3  1  0  0   Ordonez M, rf         5  1  4  1   
+Willingham J, lf      3  0  2  1   Cabrera M, 1b         3  1  1  0   
+Rodriguez I, c        4  0  1  1   Boesch B, lf          4  0  0  0   
+Bernadina R, rf       3  0  1  0   Guillen C, 2b         4  0  1  2   
+Morse M, 1b           4  1  1  1   Inge B, 3b            4  1  1  0   
+Desmond I, ss         4  0  0  0   Laird G, c            4  1  3  0   
+                                   Worth D, ss           4  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  4                        37  7 12  7
+
+Washington       102 100 000 --  4
+Detroit          011 230 00x --  7
+
+  Washington           IP  H  R ER BB SO
+Lannan J (L)          4.1 10  7  6  4  1
+Walker T              2.2  1  0  0  0  0
+Burnett S             1.0  1  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M (W)        6.0  7  4  3  2  9
+Coke P                1.1  0  0  0  0  2
+Zumaya J              0.2  0  0  0  0  0
+Valverde J (S)        1.0  0  0  0  1  2
+
+E -- Laird G, Guzman C
+LOB -- Washington 7, Detroit 11
+2B -- Cabrera M, Ordonez M 2
+HR -- Morse M, Raburn R
+SB -- Morgan N 2
+SF -- Zimmerman R, Guillen C
+HBP -- by Valverde J (Bernadina R)
+T -- 2:57
+A -- 24821
+     Game of 6/16/2010 -- Washington at Detroit (N)
+
+  Washington         AB  R  H RBI    Detroit            AB  R  H RBI
+Morgan N, cf          4  0  0  0   Kelly D, cf           4  0  0  1   
+Guzman C, 2b          4  1  1  0   Damon J, dh           5  0  0  0   
+Dunn A, 1b            4  1  1  1   Ordonez M, rf         3  2  1  0   
+Zimmerman R, 3b       4  0  0  0   Cabrera M, 1b         3  2  1  0   
+Rodriguez I, c        4  0  2  1   Boesch B, lf          4  2  3  4   
+Bernadina R, rf       4  1  1  1   Guillen C, 2b         2  1  1  0   
+Harris W, lf          3  0  0  0   Inge B, 3b            2  1  0  1   
+Morse M, dh           3  0  2  0   Laird G, c            4  0  1  2   
+Desmond I, ss         2  0  0  0   Santiago R, ss        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  7  3                        30  8  7  8
+
+Washington       110 001 000 --  3
+Detroit          041 000 30x --  8
+
+  Washington           IP  H  R ER BB SO
+Hernandez L (L)       6.2  7  8  8  6  2
+Batista M             0.1  0  0  0  0  0
+Capps M               1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (W)       8.0  7  3  3  0 11
+Gonzalez E            1.0  0  0  0  0  0
+
+E -- Guzman C
+DP -- Detroit 1
+LOB -- Washington 3, Detroit 6
+2B -- Guillen C
+HR -- Dunn A, Bernadina R, Boesch B
+SB -- Bernadina R
+CS -- Rodriguez I
+SH -- Santiago R
+SF -- Kelly D
+HBP -- by Verlander J (Desmond I)
+T -- 2:26
+A -- 24767
+     Game of 6/17/2010 -- Washington at Detroit (D)
+
+  Washington         AB  R  H RBI    Detroit            AB  R  H RBI
+Guzman C, dh          4  1  2  1   Raburn R, 2b          4  0  2  0   
+Bernadina R, cf       4  0  0  0   Worth D, pr-2b        1  1  0  0   
+Zimmerman R, 3b       4  0  1  0   Santiago R, ss        4  3  4  1   
+Dunn A, 1b            4  1  2  2   Ordonez M, rf         5  1  3  1   
+Willingham J, lf      4  0  0  0   Cabrera M, 1b         5  1  2  3   
+Morse M, rf           4  0  1  0   Boesch B, lf          4  0  2  0   
+Kennedy A, 2b         4  0  0  0   Guillen C, dh         5  1  2  1   
+Desmond I, ss         4  1  1  0   Inge B, 3b            4  1  2  0   
+Nieves W, c           3  0  1  0   Avila A, c            4  0  2  2   
+Harris W, ph          1  0  0  0   Kelly D, cf           4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3  8  3                        40  8 19  8
+
+Washington       000 001 110 --  3
+Detroit          020 032 01x --  8
+
+  Washington           IP  H  R ER BB SO
+Atilano L (L)         4.1  9  5  5  1  1
+Storen D              0.2  1  0  0  0  1
+Slaten D              1.0  4  2  2  0  1
+Burnett S             1.0  2  0  0  0  0
+Clippard T            1.0  3  1  1  0  1
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (W)       7.0  5  2  2  0  7
+Ni F                  0.1  2  1  1  0  0
+Zumaya J              0.2  1  0  0  0  0
+Bonine E              1.0  0  0  0  0  1
+
+E -- Atilano L, Willingham J, Cabrera M
+DP -- Washington 2
+LOB -- Washington 6, Detroit 10
+2B -- Avila A, Cabrera M, Desmond I, Raburn R, Santiago R
+HR -- Dunn A
+SH -- Santiago R
+WP -- Storen D, Bonderman J
+PB -- Avila A
+T -- 2:44
+A -- 33630
+     Game of 6/18/2010 -- Arizona at Detroit (N)
+
+  Arizona            AB  R  H RBI    Detroit            AB  R  H RBI
+Johnson K, dh         4  1  1  0   Raburn R, cf          3  0  0  1   
+Drew S, ss            5  1  2  2   Damon J, dh           4  2  1  0   
+Upton J, rf           5  1  2  0   Ordonez M, rf         4  1  2  2   
+Montero M, c          4  1  1  1   Cabrera M, 1b         1  0  0  0   
+Young C, cf           5  0  1  2   Kelly D, 1b           1  0  0  1   
+LaRoche A, 1b         4  0  2  0   Boesch B, lf          3  1  0  0   
+Abreu T, 3b-2b        4  0  0  0   Guillen C, 2b         4  0  0  0   
+Parra G, lf           4  1  1  0   Inge B, 3b            4  2  3  1   
+Ojeda A, 2b           2  0  0  0   Avila A, c            3  1  1  1   
+Ryal R, ph-3b         1  0  0  0   Worth D, ss           3  0  2  1   
+                     -- -- -- --                        -- -- -- --
+                     38  5 10  5                        30  7  9  7
+
+Arizona          000 131 000 --  5
+Detroit          220 010 02x --  7
+
+  Arizona              IP  H  R ER BB SO
+Willis D              5.0  5  5  5  4  4
+Boyer B               2.0  1  0  0  0  0
+Qualls C (L)          1.0  3  2  2  1  1
+
+  Detroit              IP  H  R ER BB SO
+Galarraga A           4.1  7  4  4  2  2
+Thomas B              1.0  2  1  1  1  2
+Bonine E              2.0  1  0  0  0  1
+Coke P (W)            0.2  0  0  0  0  0
+Valverde J (S)        1.0  0  0  0  0  1
+
+E -- Cabrera M, Galarraga A
+DP -- Arizona 1
+LOB -- Arizona 9, Detroit 6
+2B -- Inge B, Worth D, Johnson K
+3B -- Inge B
+HR -- Ordonez M, Montero M
+SF -- Raburn R, Kelly D
+WP -- Willis D
+T -- 2:58
+A -- 37438
+     Game of 6/19/2010 -- Arizona at Detroit (N)
+
+  Arizona            AB  R  H RBI    Detroit            AB  R  H RBI
+Johnson K, 2b         4  0  0  0   Kelly D, cf           5  2  2  0   
+Drew S, ss            3  0  0  0   Damon J, dh           5  1  1  0   
+Upton J, rf           5  0  2  0   Ordonez M, rf         5  0  2  2   
+Montero M, dh         4  1  2  1   Cabrera M, 1b         4  1  1  1   
+Young C, cf           4  1  0  0   Boesch B, lf          4  0  1  0   
+LaRoche A, 1b         4  1  2  0   Guillen C, 2b         4  0  0  0   
+Reynolds M, 3b        3  2  2  2   Inge B, 3b            3  1  1  0   
+Parra G, lf           4  1  1  2   Avila A, c            4  0  2  2   
+Snyder C, c           3  0  1  1   Santiago R, ss        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6 10  6                        37  5 11  5
+
+Arizona          020 004 000 --  6
+Detroit          110 001 101 --  5
+
+  Arizona              IP  H  R ER BB SO
+Jackson E (W)         7.2  9  4  3  2  4
+Heilman A (S)         1.1  2  1  1  0  2
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (L)        5.1  8  5  4  1  4
+Ni F*                 0.0  1  1  1  0  0
+Gonzalez E            3.2  1  0  0  3  2
+  * Pitched to 1 batter in 6th
+
+E -- Reynolds M 2, Boesch B
+DP -- Arizona 1, Detroit 2
+LOB -- Arizona 6, Detroit 8
+2B -- Santiago R, LaRoche A, Damon J, Ordonez M
+3B -- Parra G
+HR -- Reynolds M, Montero M
+SH -- Santiago R
+SF -- Snyder C
+WP -- Jackson E, Heilman A
+T -- 2:50
+A -- 40681
+     Game of 6/20/2010 -- Arizona at Detroit (D)
+
+  Arizona            AB  R  H RBI    Detroit            AB  R  H RBI
+Drew S, ss            4  0  0  0   Kelly D, cf-lf        4  0  1  0   
+Abreu T, 2b           4  0  0  0   Damon J, dh           4  0  0  0   
+Upton J, rf           3  1  0  0   Ordonez M, rf         4  0  1  0   
+Montero M, c          4  0  1  0   Cabrera M, 1b         4  1  1  0   
+Young C, cf           3  0  1  1   Boesch B, lf          4  1  1  2   
+LaRoche A, dh         3  0  0  0   Jackson A, cf         0  0  0  0   
+Reynolds M, 3b        3  0  0  0   Guillen C, 2b         3  1  2  1   
+Parra G, lf           3  0  0  0   Inge B, 3b            3  0  0  0   
+Ryal R, 1b            3  0  2  0   Avila A, c            3  0  0  0   
+                                   Santiago R, ss        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        32  3  7  3
+
+Arizona          100 000 000 --  1
+Detroit          000 000 30x --  3
+
+  Arizona              IP  H  R ER BB SO
+Kennedy I (L)         6.2  6  3  3  0  5
+Gutierrez J           1.1  1  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M (W)        7.0  4  1  1  2  8
+Zumaya J              1.0  0  0  0  0  1
+Valverde J (S)        1.0  0  0  0  0  1
+
+E -- Abreu T
+DP -- Detroit 1
+LOB -- Arizona 4, Detroit 5
+2B -- Young C, Ordonez M
+HR -- Boesch B, Guillen C
+SB -- Young C
+T -- 2:35
+A -- 41417
+     Game of 7/2/2010 -- Seattle at Detroit (N)
+
+  Seattle            AB  R  H RBI    Detroit            AB  R  H RBI
+Suzuki I, dh          4  0  1  0   Jackson A, cf         4  0  1  2   
+Figgins C, 2b         4  0  2  0   Santiago R, ss        4  1  1  0   
+Branyan R, 1b         3  0  1  0   Damon J, dh           3  2  1  2   
+Kotchman C, 1b        1  0  0  0   Ordonez M, rf         4  0  1  0   
+Bradley M, rf         3  0  0  0   Boesch B, lf          4  1  3  1   
+Langerhans R, rf      0  0  0  0   Guillen C, 2b         4  0  0  0   
+Lopez J, 3b           3  0  0  0   Inge B, 3b            4  1  2  0   
+Gutierrez F, cf       3  1  1  1   Avila A, c            2  1  0  0   
+Wilson J, ss          3  0  0  0   Kelly D, 1b           4  1  1  2   
+Johnson R, c          2  0  0  0                                      
+Saunders M, lf        3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  1  5  1                        33  7 10  7
+
+Seattle          010 000 000 --  1
+Detroit          040 010 20x --  7
+
+  Seattle              IP  H  R ER BB SO
+Fister D (L)          4.2  6  5  5  3  5
+Cordero C             1.1  1  0  0  0  2
+White S               0.2  2  2  2  0  1
+Olson G               0.1  1  0  0  0  0
+League B              1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M (W)        8.0  3  1  1  2  7
+Coke P                1.0  2  0  0  1  1
+
+E -- Bradley M
+DP -- Seattle 1, Detroit 3
+LOB -- Seattle 4, Detroit 5
+2B -- Kelly D
+HR -- Gutierrez F, Damon J
+CS -- Inge B
+T -- 2:32
+A -- 32512
+     Game of 7/3/2010 -- Seattle at Detroit (N)
+
+  Seattle            AB  R  H RBI    Detroit            AB  R  H RBI
+Suzuki I, rf          4  0  1  0   Jackson A, cf         5  1  1  0   
+Figgins C, 2b         5  0  1  0   Raburn R, lf          4  1  2  0   
+Bradley M, dh         3  0  0  0   Kelly D, lf           0  0  0  0   
+Lopez J, 3b           4  0  1  0   Ordonez M, dh         4  1  1  1   
+Gutierrez F, cf       3  0  0  0   Cabrera M, 1b         2  2  1  0   
+Kotchman C, 1b        4  1  2  0   Boesch B, rf          4  1  2  0   
+Bard J, c             4  0  1  0   Guillen C, 2b         4  0  2  1   
+Saunders M, lf        3  0  1  1   Inge B, 3b            4  0  2  3   
+Wilson J, ss          2  0  0  0   Laird G, c            4  0  0  0   
+Branyan R, ph         1  0  0  0   Worth D, ss           4  0  0  0   
+Wilson J, ss          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  1  7  1                        35  6 11  5
+
+Seattle          000 000 100 --  1
+Detroit          000 240 00x --  6
+
+  Seattle              IP  H  R ER BB SO
+Vargas J (L)          4.1  8  6  6  2  3
+Sweeney B             2.2  2  0  0  0  2
+Pauley D              1.0  1  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (W)       7.0  7  1  1  1 10
+Perry R               1.0  0  0  0  1  1
+Valverde J            1.0  0  0  0  2  1
+
+E -- Saunders M
+LOB -- Seattle 10, Detroit 7
+2B -- Cabrera M, Raburn R, Ordonez M, Kotchman C, Inge B
+T -- 2:41
+A -- 32430
+     Game of 7/4/2010 -- Seattle at Detroit (D)
+
+  Seattle            AB  R  H RBI    Detroit            AB  R  H RBI
+Suzuki I, rf          5  1  1  0   Jackson A, cf         4  1  1  0   
+Langerhans R, rf      0  0  0  0   Damon J, dh           5  0  0  0   
+Figgins C, 2b         4  2  3  0   Ordonez M, rf         3  0  1  0   
+Branyan R, dh         5  2  2  3   Santiago R, 2b        2  0  1  0   
+Lopez J, 3b           5  0  2  1   Cabrera M, 1b         2  0  1  1   
+Gutierrez F, cf       5  1  2  1   Kelly D, 1b           1  0  1  0   
+Kotchman C, 1b        3  1  3  3   Boesch B, lf          4  0  2  0   
+Wilson J, ss          5  0  0  0   Raburn R, 2b-rf       4  0  0  0   
+Johnson R, c          5  1  1  0   Inge B, 3b            4  0  1  0   
+Saunders M, lf        4  0  1  0   Laird G, c            2  0  0  0   
+                                   Avila A, c            2  0  1  0   
+                                   Worth D, ss           4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     41  8 15  8                        37  1 10  1
+
+Seattle          003 040 010 --  8
+Detroit          100 000 000 --  1
+
+  Seattle              IP  H  R ER BB SO
+Lee C (W)             8.0  9  1  1  1 11
+League B              1.0  1  0  0  1  0
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (L)       5.0  9  7  7  2  4
+Thomas B              1.1  1  0  0  0  1
+Bonine E*             0.2  2  1  1  1  0
+Schlereth D           1.0  2  0  0  1  0
+Gonzalez E            1.0  1  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Laird G
+DP -- Detroit 1
+LOB -- Seattle 10, Detroit 11
+2B -- Boesch B, Lopez J, Worth D
+HR -- Branyan R, Kotchman C
+SB -- Gutierrez F, Suzuki I
+WP -- League B
+T -- 2:49
+A -- 24899
+     Game of 7/5/2010 -- Baltimore at Detroit (D)
+
+  Baltimore          AB  R  H RBI    Detroit            AB  R  H RBI
+Patterson C, lf       5  1  1  0   Jackson A, cf         6  1  2  1   
+Tejada M, 3b          5  1  1  1   Damon J, dh           6  2  3  0   
+Markakis N, rf        3  2  0  0   Ordonez M, rf         4  2  2  1   
+Wigginton T, dh       3  1  2  1   Kelly D, lf           1  0  0  0   
+Jones A, cf           5  0  1  0   Cabrera M, 1b         6  2  2  2   
+Wieters M, c          5  0  2  2   Boesch B, lf-rf       1  3  0  0   
+Fox J, 1b             5  2  3  1   Guillen C, 2b         4  1  3  3   
+Lugo J, 2b            4  1  3  1   Inge B, 3b            4  0  3  4   
+Moore S, ph           1  0  0  0   Avila A, c            5  0  1  1   
+Izturis C, ss         5  1  1  1   Santiago R, ss        5  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     41  9 14  7                        42 12 17 12
+
+Baltimore        151 000 002 --  9
+Detroit          530 020 20x -- 12
+
+  Baltimore            IP  H  R ER BB SO
+Millwood K            1.0  4  5  5  2  1
+Hendrickson M (L)     3.0  6  3  3  2  2
+Uehara K              1.0  3  2  2  1  1
+Albers M              1.1  3  2  2  1  2
+Hernandez D           1.2  1  0  0  1  3
+
+  Detroit              IP  H  R ER BB SO
+Oliver A              1.2  4  6  5  1  1
+Bonine E (W)          2.2  6  1  1  1  0
+Thomas B              1.2  0  0  0  0  0
+Perry R               1.0  1  0  0  0  1
+Coke P                1.0  0  0  0  0  2
+Valverde J            1.0  3  2  2  1  0
+
+E -- Ordonez M, Guillen C, Tejada M
+DP -- Detroit 1
+LOB -- Baltimore 9, Detroit 13
+2B -- Cabrera M 2, Inge B 2, Wigginton T, Damon J, Patterson C, Guillen C
+3B -- Lugo J, Jackson A
+HR -- Fox J
+SB -- Patterson C
+HBP -- by Oliver A (Wigginton T)
+WP -- Bonine E
+T -- 3:44
+A -- 26432
+     Game of 7/6/2010 -- Baltimore at Detroit (N)
+
+  Baltimore          AB  R  H RBI    Detroit            AB  R  H RBI
+Patterson C, dh       6  0  0  0   Kelly D, cf           4  0  1  0   
+Tejada M, 3b          5  1  2  0   Jackson A, ph-cf      2  1  1  0   
+Markakis N, rf        6  1  3  3   Damon J, dh           5  2  2  2   
+Wigginton T, 1b       6  0  2  0   Ordonez M, rf         4  0  1  0   
+Moore S, pr-1b        0  0  0  0   Cabrera M, 1b         5  2  3  2   
+Jones A, cf           4  1  2  0   Boesch B, lf          5  1  1  1   
+Wieters M, c          5  1  2  0   Guillen C, 2b         5  1  1  0   
+Pie F, lf             6  0  2  1   Inge B, 3b            5  0  2  1   
+Lugo J, 2b            5  0  3  1   Avila A, c            5  0  1  1   
+Izturis C, ss         5  1  1  0   Santiago R, ss        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     48  5 17  5                        43  7 13  7
+
+Baltimore        000 000 311 00 --  5
+Detroit          010 000 022 02 --  7
+  0 outs when winning run was scored.
+
+  Baltimore            IP  H  R ER BB SO
+Arrieta J             6.1  7  1  1  2  4
+Ohman W               0.1  0  0  0  0  0
+Berken J              0.2  3  2  2  0  2
+Simon A               1.2  1  2  2  2  2
+Hernandez D (L)       1.0  2  2  2  0  1
+
+  Detroit              IP  H  R ER BB SO
+Galarraga A           6.2 10  3  3  3  4
+Coke P*               0.0  1  0  0  0  0
+Gonzalez E            0.2  1  1  1  0  0
+Schlereth D           1.2  3  1  0  1  1
+Valverde J            1.0  1  0  0  1  0
+Perry R (W)           1.0  1  0  0  1  0
+  * Pitched to 1 batter in 7th
+
+E -- Santiago R 2
+DP -- Detroit 2
+LOB -- Baltimore 17, Detroit 10
+2B -- Wieters M
+3B -- Wieters M, Cabrera M, Inge B
+HR -- Markakis N, Cabrera M, Damon J
+SB -- Izturis C
+CS -- Jones A, Pie F
+HBP -- by Galarraga A (Jones A)
+T -- 3:56
+A -- 22532
+     Game of 7/7/2010 -- Baltimore at Detroit (N)
+
+  Baltimore          AB  R  H RBI    Detroit            AB  R  H RBI
+Lugo J, 2b            4  0  0  0   Jackson A, cf         4  1  1  0   
+Tejada M, 3b          3  0  0  0   Damon J, dh           4  0  1  0   
+Markakis N, rf        3  0  1  0   Ordonez M, rf         5  0  0  1   
+Wigginton T, 1b       4  0  0  0   Cabrera M, 1b         3  0  2  0   
+Jones A, cf           4  2  2  0   Boesch B, lf          3  1  1  0   
+Wieters M, c          3  0  1  1   Guillen C, 2b         4  1  1  1   
+Pie F, lf             4  0  1  0   Inge B, 3b            3  0  2  1   
+Bell J, dh            3  0  1  0   Laird G, c            4  0  1  0   
+Fox J, ph             1  0  0  0   Worth D, ss           4  1  2  1   
+Izturis C, ss         2  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  7  1                        34  4 11  4
+
+Baltimore        000 000 101 --  2
+Detroit          101 020 00x --  4
+
+  Baltimore            IP  H  R ER BB SO
+Bergesen B (L)*       6.0 11  4  4  3  3
+Albers M              2.0  0  0  0  1  0
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M (W)        7.0  6  1  1  2  6
+Weinhardt R+          1.0  1  1  1  0  0
+Coke P (S)            1.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+  + Pitched to 1 batter in 9th
+
+E -- Jackson A
+DP -- Detroit 2
+LOB -- Baltimore 6, Detroit 11
+2B -- Jackson A, Damon J, Boesch B, Inge B, Jones A
+3B -- Pie F, Jones A
+HR -- Worth D
+SH -- Damon J
+SF -- Wieters M
+HBP -- by Weinhardt R (Tejada M)
+T -- 2:22
+A -- 22837
+     Game of 7/9/2010 -- Minnesota at Detroit (N)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Span D, cf            5  0  1  0   Jackson A, cf         2  1  0  0   
+Hudson O, 2b          5  1  2  0   Raburn R, lf          3  1  0  0   
+Mauer J, c            3  1  1  0   Kelly D, pr-lf        0  0  0  0   
+Thome J, dh           2  0  1  0   Ordonez M, dh         4  2  3  3   
+Kubel J, rf           4  0  2  2   Cabrera M, 1b         3  0  1  1   
+Cuddyer M, 1b         4  1  2  0   Boesch B, rf          3  1  2  1   
+Young D, lf           4  0  1  0   Guillen C, 2b         4  0  2  2   
+Hardy J, ss           4  0  1  1   Inge B, 3b            4  0  0  0   
+Punto N, 3b           4  0  0  0   Laird G, c            3  1  1  0   
+                                   Worth D, ss           4  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3 11  3                        30  7 11  7
+
+Minnesota        000 101 001 --  3
+Detroit          250 000 00x --  7
+
+  Minnesota            IP  H  R ER BB SO
+Liriano F (L)         1.2  6  7  7  2  1
+Burnett A             3.1  3  0  0  0  1
+Duensing B            0.2  1  0  0  1  1
+Guerrier M            0.1  0  0  0  0  1
+Mijares J             1.0  0  0  0  0  2
+Crain J               1.0  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (W)       5.1  8  2  2  2  7
+Weinhardt R           1.2  0  0  0  0  2
+Coke P                1.0  0  0  0  1  0
+Perry R*              0.0  2  1  1  0  0
+Valverde J            1.0  1  0  0  0  1
+  * Pitched to 2 batters in 9th
+
+E -- Jackson A
+DP -- Minnesota 3, Detroit 1
+LOB -- Minnesota 8, Detroit 6
+2B -- Boesch B, Cuddyer M
+3B -- Guillen C
+SB -- Jackson A, Young D
+SH -- Jackson A
+SF -- Cabrera M
+HBP -- by Liriano F (Raburn R), by Liriano F (Boesch B)
+WP -- Guerrier M
+PB -- Laird G
+T -- 3:13
+A -- 42549
+     Game of 7/10/2010 -- Minnesota at Detroit (D)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Span D, cf            4  1  1  0   Jackson A, cf         3  1  1  0   
+Hudson O, 2b          4  0  3  2   Damon J, dh           4  1  1  3   
+Mauer J, c            4  0  0  0   Ordonez M, rf         4  2  1  1   
+Thome J, dh           4  0  0  0   Cabrera M, 1b         3  1  1  2   
+Kubel J, rf           4  1  1  0   Boesch B, lf          4  0  1  0   
+Cuddyer M, 1b         4  1  1  1   Kelly D, lf           0  0  0  0   
+Young D, lf           3  0  0  1   Guillen C, 2b         4  0  1  0   
+Hardy J, ss           3  0  0  0   Inge B, 3b            2  0  0  0   
+Punto N, 3b           2  1  0  0   Avila A, c            4  1  1  1   
+                                   Santiago R, ss        4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  6  4                        32  7  8  7
+
+Minnesota        002 100 100 --  4
+Detroit          211 030 00x --  7
+
+  Minnesota            IP  H  R ER BB SO
+Blackburn N (L)*      4.0  7  7  7  1  1
+Duensing B            1.0  1  0  0  2  1
+Slowey K              2.0  0  0  0  0  1
+Mahay R               1.0  0  0  0  1  1
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (W)       6.0  4  3  3  1  2
+Schlereth D+          0.0  1  1  1  0  0
+Weinhardt R           1.1  0  0  0  0  0
+Coke P                0.2  1  0  0  0  2
+Valverde J (S)        1.0  0  0  0  0  2
+  * Pitched to 3 batters in 5th
+  + Pitched to 1 batter in 7th
+
+DP -- Detroit 1
+LOB -- Minnesota 2, Detroit 5
+2B -- Jackson A, Span D, Guillen C, Santiago R, Boesch B, Kubel J
+HR -- Cabrera M, Avila A, Ordonez M, Cuddyer M, Damon J
+T -- 2:38
+A -- 41461
+     Game of 7/11/2010 -- Minnesota at Detroit (D)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Span D, cf            3  2  0  0   Jackson A, cf         4  0  0  0   
+Hudson O, 2b          4  1  1  0   Damon J, dh           4  1  2  1   
+Young D, lf           4  1  2  0   Ordonez M, rf         4  1  1  0   
+Thome J, dh           5  0  1  1   Cabrera M, 1b         3  0  1  1   
+Cuddyer M, 1b         3  1  2  2   Boesch B, lf          4  0  1  1   
+Kubel J, rf           4  1  2  1   Guillen C, 2b         4  0  0  0   
+Valencia D, 3b        4  0  1  1   Inge B, 3b            3  0  0  0   
+Hardy J, ss           0  0  0  0   Avila A, c            3  0  0  0   
+Punto N, ss-3b        4  0  1  0   Santiago R, ss        3  1  1  0   
+Butera D, c           3  0  0  1                                      
+                     -- -- -- --                        -- -- -- --
+                     34  6 10  6                        32  3  6  3
+
+Minnesota        200 020 020 --  6
+Detroit          000 000 210 --  3
+
+  Minnesota            IP  H  R ER BB SO
+Pavano C (W)          7.2  6  3  3  1  6
+Guerrier M            0.1  0  0  0  0  0
+Rauch J (S)           1.0  0  0  0  1  1
+
+  Detroit              IP  H  R ER BB SO
+Oliver A (L)          4.2  5  4  4  4  3
+Bonine E*             2.1  2  1  1  1  1
+Thomas B              2.0  3  1  1  1  0
+  * Pitched to 1 batter in 8th
+
+DP -- Minnesota 1, Detroit 2
+LOB -- Minnesota 9, Detroit 4
+2B -- Young D, Cuddyer M, Cabrera M, Valencia D, Santiago R
+SB -- Inge B
+CS -- Punto N
+SF -- Butera D
+HBP -- by Oliver A (Young D)
+WP -- Oliver A
+T -- 2:47
+A -- 39689
+     Game of 7/19/2010 -- Texas at Detroit (N)
+
+  Texas              AB  R  H RBI    Detroit            AB  R  H RBI
+Andrus E, ss          7  1  2  0   Jackson A, cf         6  0  2  0   
+Young M, 3b           6  2  2  0   Damon J, dh           5  1  1  1   
+Kinsler I, 2b         6  1  1  3   Ordonez M, rf         5  1  1  1   
+Guerrero V, dh        6  2  1  0   Cabrera M, 1b         6  2  3  3   
+Hamilton J, lf        6  1  4  1   Boesch B, lf          7  0  1  0   
+Cruz N, rf            6  1  3  4   Guillen C, 2b         7  0  1  0   
+Davis C, 1b           7  0  0  0   Inge B, 3b            1  1  1  0   
+Treanor M, c          5  0  2  0   Kelly D, 3b           5  0  0  0   
+Murphy D, ph          1  0  1  0   Avila A, c            4  0  1  1   
+Molina B, c           1  0  1  0   Raburn R, ph          1  0  0  0   
+Borbon J, cf          7  0  2  0   Laird G, c            2  0  0  0   
+                                   Santiago R, ss        6  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     58  8 19  8                        55  6 13  6
+
+Texas            203 000 100 000 02 --  8
+Detroit          111 020 010 000 00 --  6
+
+  Texas                IP  H  R ER BB SO
+Feldman S             5.0  7  5  5  2  1
+Nippert D             0.1  1  0  0  0  1
+O'Day D               0.2  0  0  0  1  0
+Ogando A              1.1  1  1  1  1  1
+Francisco F           1.2  1  0  0  0  1
+Harrison M (W)        4.0  2  0  0  4  4
+Feliz N (S)           1.0  1  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J           5.1  9  5  5  2  2
+Weinhardt R           2.2  4  1  1  0  1
+Valverde J            1.0  1  0  0  1  2
+Coke P                1.0  0  0  0  0  0
+Perry R               2.0  2  0  0  0  1
+Gonzalez E (L)        2.0  3  2  2  1  0
+
+E -- Kinsler I, Davis C, Jackson A 2, Young M
+DP -- Texas 2, Detroit 3
+LOB -- Texas 13, Detroit 16
+2B -- Jackson A
+3B -- Inge B
+HR -- Kinsler I, Cabrera M 2, Ordonez M, Cruz N
+SB -- Cruz N
+SF -- Kinsler I
+HBP -- by Feldman S (Inge B)
+WP -- Bonderman J, Harrison M
+T -- 4:53
+A -- 26626
+     Game of 7/20/2010 -- Texas at Detroit (N)
+
+  Texas              AB  R  H RBI    Detroit            AB  R  H RBI
+Andrus E, ss          4  1  2  1   Jackson A, cf         4  0  1  0   
+Young M, 3b           5  1  1  0   Damon J, lf           3  0  0  0   
+Kinsler I, 2b         5  2  2  3   Ordonez M, dh         4  0  0  0   
+Hamilton J, dh        4  2  3  2   Cabrera M, 1b         4  0  2  0   
+Cruz N, rf            5  0  1  1   Boesch B, rf          3  0  0  0   
+Murphy D, lf          4  1  1  1   Raburn R, 2b          3  0  0  0   
+Molina B, c           4  0  0  0   Avila A, c            3  0  0  0   
+Davis C, 1b           4  1  2  0   Kelly D, 3b           2  0  1  0   
+Borbon J, cf          2  0  1  0   Santiago R, ph-ss     0  0  0  0   
+                                   Worth D, ss-3b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  8 13  8                        29  0  4  0
+
+Texas            210 001 004 --  8
+Detroit          000 000 000 --  0
+
+  Texas                IP  H  R ER BB SO
+Hunter T (W)          7.0  3  0  0  2  3
+Oliver D              1.0  0  0  0  1  1
+Mathis D              1.0  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Galarraga A (L)       7.1  9  4  4  1  6
+Thomas B              1.0  1  1  1  0  1
+Fien C                0.2  3  3  3  0  0
+
+DP -- Texas 2
+LOB -- Texas 6, Detroit 5
+2B -- Hamilton J, Cabrera M, Davis C, Young M
+3B -- Kinsler I
+HR -- Murphy D, Kinsler I, Hamilton J
+SH -- Borbon J, Andrus E
+SF -- Hamilton J
+T -- 2:45
+A -- 27576
+     Game of 7/21/2010 -- Texas at Detroit (N)
+
+  Texas              AB  R  H RBI    Detroit            AB  R  H RBI
+Andrus E, ss          4  0  1  0   Jackson A, cf         4  1  3  0   
+Young M, 3b           3  0  1  0   Damon J, dh           3  0  1  0   
+Kinsler I, 2b         3  1  1  0   Ordonez M, rf         4  0  1  1   
+Guerrero V, dh        3  0  0  0   Worth D, 3b           0  0  0  0   
+Hamilton J, cf        4  0  0  1   Cabrera M, 1b         3  0  1  1   
+Cruz N, rf            4  0  1  0   Boesch B, lf-rf       4  0  0  0   
+Murphy D, lf          3  0  0  0   Guillen C, 2b         3  1  1  0   
+Molina B, c           2  0  0  0   Kelly D, 3b-lf        4  0  0  0   
+Davis C, 1b           3  0  0  0   Laird G, c            4  1  2  2   
+                                   Santiago R, ss        4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     29  1  4  1                        33  4 10  4
+
+Texas            000 000 001 --  1
+Detroit          020 000 20x --  4
+
+  Texas                IP  H  R ER BB SO
+Lewis C (L)           7.0  9  4  4  2  5
+Mathis D              1.0  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M (W)        7.0  4  0  0  3  5
+Coke P                1.0  0  0  0  0  2
+Valverde J            1.0  0  1  1  1  1
+
+E -- Lewis C, Boesch B, Cruz N
+DP -- Detroit 1
+LOB -- Texas 6, Detroit 8
+3B -- Young M
+HR -- Laird G
+CS -- Andrus E
+SF -- Cabrera M
+HBP -- by Valverde J (Guerrero V)
+WP -- Valverde J
+T -- 2:35
+A -- 28704
+     Game of 7/22/2010 -- Toronto at Detroit (D)
+
+  Toronto            AB  R  H RBI    Detroit            AB  R  H RBI
+Wise D, lf            5  0  2  0   Jackson A, cf         4  0  1  1   
+Escobar Y, ss         4  0  1  0   Damon J, lf           3  2  2  0   
+Bautista J, rf        4  0  1  0   Ordonez M, dh         3  1  1  0   
+Wells V, cf           3  0  1  0   Cabrera M, 1b         4  1  3  2   
+Lind A, dh            3  0  0  0   Raburn R, rf          4  0  1  1   
+Hill A, 2b            4  0  1  0   Sizemore S, 3b        4  0  0  0   
+Overbay L, 1b         4  1  1  0   Kelly D, 3b           0  0  0  0   
+Buck J, c             4  1  1  2   Laird G, c            3  0  0  1   
+Encarnacion E, 3b     4  0  1  0   Santiago R, 2b        3  1  1  0   
+                                   Worth D, ss           2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2  9  2                        30  5 10  5
+
+Toronto          020 000 000 --  2
+Detroit          000 110 03x --  5
+
+  Toronto              IP  H  R ER BB SO
+Romero R (L)*         7.0  7  3  3  4  3
+Camp S                1.0  3  2  2  0  1
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (W)       8.0  8  2  2  2  5
+Valverde J (S)        1.0  1  0  0  0  2
+  * Pitched to 1 batter in 8th
+
+E -- Sizemore S
+DP -- Toronto 3
+LOB -- Toronto 8, Detroit 6
+2B -- Bautista J, Overbay L, Hill A, Damon J, Cabrera M 2, Escobar Y
+3B -- Wise D
+HR -- Buck J
+SB -- Wells V
+CS -- Hill A, Worth D
+SF -- Laird G
+T -- 2:29
+A -- 34476
+     Game of 7/24/2010 -- Toronto at Detroit (N)
+
+  Toronto            AB  R  H RBI    Detroit            AB  R  H RBI
+Wise D, lf            5  2  2  0   Jackson A, cf         5  1  3  0   
+Escobar Y, ss         4  0  1  0   Raburn R, lf          4  0  0  0   
+Bautista J, rf        3  0  1  2   Ordonez M, dh         1  0  1  0   
+Wells V, cf           3  0  0  1   Santiago R, ph        2  0  1  0   
+Lind A, dh            2  0  0  0   Cabrera M, 1b         4  1  2  1   
+Hill A, 2b            4  0  0  0   Boesch B, rf          3  0  0  0   
+Overbay L, 1b         4  0  1  0   Guillen C, 2b         2  0  1  0   
+Buck J, c             4  0  0  0   Sizemore S, 2b        2  0  1  1   
+Encarnacion E, 3b     4  1  1  0   Laird G, c            4  0  1  0   
+                                   Kelly D, 3b           3  0  0  0   
+                                   Damon J, ph           1  0  0  0   
+                                   Worth D, ss           4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        35  2 10  2
+
+Toronto          101 010 000 --  3
+Detroit          001 001 000 --  2
+
+  Toronto              IP  H  R ER BB SO
+Marcum S (W)          5.2  8  2  2  1  5
+Frasor J              1.1  1  0  0  0  0
+Downs S               1.0  1  0  0  1  1
+Gregg K (S)           1.0  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (L)        6.0  5  3  3  4  0
+Weinhardt R*          1.0  0  0  0  0  0
+Thomas B+             1.0  1  0  0  0  0
+Perry R               1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 9th
+
+E -- Kelly D
+LOB -- Toronto 7, Detroit 8
+2B -- Encarnacion E, Cabrera M 2, Guillen C, Wise D
+SB -- Bautista J
+CS -- Jackson A, Wells V
+WP -- Porcello R
+T -- 2:58
+A -- 39391
+     Game of 7/25/2010, game 1 -- Toronto at Detroit (D)
+
+  Toronto            AB  R  H RBI    Detroit            AB  R  H RBI
+Wise D, lf            4  0  0  0   Jackson A, cf         5  2  3  0   
+Escobar Y, ss         4  0  2  0   Santiago R, 2b        3  0  1  0   
+Bautista J, rf        4  0  1  0   Raburn R, lf          4  0  1  1   
+Wells V, cf           4  2  2  1   Cabrera M, dh         3  0  1  1   
+Lind A, dh            4  0  1  0   Boesch B, rf          3  0  0  0   
+Hill A, 2b            4  0  0  0   Sizemore S, 3b        4  0  0  0   
+Overbay L, 1b         4  1  1  2   Larish J, 1b          4  0  1  0   
+Encarnacion E, 3b     4  1  1  0   Laird G, c            3  0  0  0   
+Molina J, c           3  1  1  2   Rhymes W, ph          1  0  0  0   
+                                   Worth D, ss           3  1  1  1   
+                                   Damon J, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  5                        34  3  8  3
+
+Toronto          000 002 102 --  5
+Detroit          000 002 010 --  3
+
+  Toronto              IP  H  R ER BB SO
+Cecil B               7.0  6  2  2  1  6
+Camp S                0.1  2  1  1  1  0
+Downs S (W)           0.2  0  0  0  1  2
+Gregg K (S)           1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Galarraga A           7.0  6  3  3  0  5
+Weinhardt R           1.0  1  0  0  0  0
+Valverde J (L)        1.0  2  2  2  0  3
+
+DP -- Toronto 1
+LOB -- Toronto 3, Detroit 7
+2B -- Bautista J, Jackson A, Raburn R, Lind A
+3B -- Jackson A
+HR -- Molina J, Worth D, Wells V, Overbay L
+WP -- Cecil B 2
+T -- 2:36
+A -- 38526
+     Game of 7/25/2010, game 2 -- Toronto at Detroit (N)
+
+  Toronto            AB  R  H RBI    Detroit            AB  R  H RBI
+Lewis F, lf           5  0  1  1   Jackson A, cf         4  2  2  0   
+Escobar Y, ss         5  0  1  0   Rhymes W, 2b          3  0  0  0   
+Bautista J, rf        4  1  2  1   Santiago R, ph-2b     0  1  0  0   
+Overbay L, 1b         4  0  1  0   Damon J, lf           4  1  2  1   
+Buck J, c             4  1  2  0   Cabrera M, 1b         4  1  2  1   
+Lind A, dh            4  0  1  0   Boesch B, rf          1  1  1  1   
+Encarnacion E, 3b     3  2  1  0   Larish J, dh          2  0  0  0   
+Wise D, cf            4  1  3  2   Raburn R, ph          2  0  1  3   
+McDonald J, 2b        3  0  1  1   Kelly D, 3b           0  0  0  0   
+Wells V, ph           1  0  0  0   Sizemore S, ph-3b     2  0  0  0   
+                                   Avila A, c            3  0  0  0   
+                                   Worth D, ss           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 13  5                        28  6  8  6
+
+Toronto          000 013 001 --  5
+Detroit          000 002 04x --  6
+
+  Toronto              IP  H  R ER BB SO
+Litsch J              5.1  5  2  2  3  3
+Tallet B              2.0  1  2  2  0  0
+Frasor J (L)          0.2  2  2  2  1  1
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J           5.2  8  4  4  1  6
+Thomas B*             0.0  1  0  0  0  0
+Bonine E              1.1  1  0  0  0  1
+Coke P (W)            1.0  2  0  0  0  0
+Valverde J (S)        1.0  1  1  1  0  2
+  * Pitched to 1 batter in 6th
+
+DP -- Toronto 2, Detroit 1
+LOB -- Toronto 6, Detroit 4
+2B -- Damon J, Cabrera M, Raburn R
+3B -- Lewis F, Jackson A
+HR -- Bautista J, Wise D
+SB -- Boesch B
+CS -- Escobar Y, Raburn R
+SF -- Boesch B
+HBP -- by Tallet B (Santiago R)
+T -- 2:51
+A -- 37093
+     Game of 8/3/2010, game 1 -- Chicago at Detroit (D)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Pierre J, lf          5  2  2  2   Jackson A, cf         4  0  3  1   
+Vizquel O, 3b         2  0  0  1   Damon J, dh           4  0  0  0   
+Viciedo D, 3b         1  1  1  1   Frazier J, lf         4  0  1  1   
+Rios A, cf            4  3  2  2   Cabrera M, 1b         3  0  0  0   
+Lillibridge B, cf     1  0  1  0   Kelly D, 1b           1  0  0  0   
+Konerko P, 1b         4  0  1  1   Peralta J, 3b         4  0  1  0   
+Quentin C, rf         4  1  1  0   Boesch B, rf          4  0  0  0   
+Kotsay M, dh          4  1  1  1   Raburn R, 2b          3  0  0  0   
+Castro R, ph          1  0  0  0   Laird G, c            3  1  1  0   
+Ramirez A, ss         5  3  4  2   Worth D, ss           3  1  2  0   
+Pierzynski A, c       4  0  1  0                                      
+Beckham G, 2b         3  1  1  2                                      
+                     -- -- -- --                        -- -- -- --
+                     38 12 15 12                        33  2  8  2
+
+Chicago          004 120 410 -- 12
+Detroit          001 000 010 --  2
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (W)         7.2  7  2  2  1  1
+Linebrink S           1.1  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (L)        4.1  8  7  7  2  1
+Gonzalez E            2.2  4  4  4  3  0
+Thomas B              2.0  3  1  1  0  1
+
+DP -- Chicago 1, Detroit 1
+LOB -- Chicago 6, Detroit 5
+2B -- Pierre J, Ramirez A
+HR -- Pierre J, Rios A, Viciedo D
+SB -- Pierre J, Rios A
+CS -- Pierzynski A
+SF -- Vizquel O, Beckham G
+T -- 2:25
+A -- 26141
+     Game of 8/3/2010, game 2 -- Chicago at Detroit (N)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Pierre J, lf          4  0  1  0   Jackson A, cf         4  2  1  0   
+Vizquel O, 3b         3  0  3  0   Rhymes W, 2b          4  1  1  1   
+Rios A, cf            4  0  0  0   Damon J, dh           5  1  3  2   
+Konerko P, dh         4  1  2  1   Cabrera M, 1b         3  0  0  0   
+Ramirez A, ss         4  0  1  0   Boesch B, rf          5  0  1  2   
+Kotsay M, 1b          4  0  0  0   Peralta J, 3b         4  0  0  0   
+Castro R, c           4  0  1  0   Raburn R, lf          4  1  1  0   
+Jones A, rf           3  0  0  0   Kelly D, lf           0  0  0  0   
+Beckham G, 2b         3  0  0  0   Avila A, c            4  1  2  1   
+                                   Santiago R, ss        3  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  8  1                        36  7 11  6
+
+Chicago          000 000 100 --  1
+Detroit          140 000 02x --  7
+
+  Chicago              IP  H  R ER BB SO
+Torres C (L)          6.0  9  5  5  5  4
+Linebrink S           1.0  0  0  0  0  1
+Pena T                1.0  2  2  1  0  0
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (W)       6.2  5  1  1  1  5
+Weinhardt R           1.1  2  0  0  0  0
+Perry R               1.0  1  0  0  0  1
+
+E -- Ramirez A, Pena T
+DP -- Detroit 2
+LOB -- Chicago 6, Detroit 10
+2B -- Avila A, Damon J, Boesch B
+HR -- Konerko P
+T -- 2:27
+A -- 24826
+     Game of 8/4/2010 -- Chicago at Detroit (N)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Pierre J, lf          5  1  1  0   Jackson A, cf         5  0  2  0   
+Vizquel O, 3b         3  0  1  0   Rhymes W, 2b          5  0  1  0   
+Rios A, cf            3  0  1  0   Damon J, dh           5  0  1  0   
+Konerko P, 1b         3  2  2  2   Cabrera M, 1b         3  1  1  0   
+Quentin C, rf         4  1  1  2   Boesch B, rf          3  0  0  0   
+Jones A, rf           0  0  0  0   Peralta J, ss         4  0  0  0   
+Kotsay M, dh          3  0  1  0   Inge B, 3b            4  0  3  1   
+Ramirez A, ss         4  0  0  0   Avila A, c            3  0  0  0   
+Pierzynski A, c       4  0  0  0   Raburn R, ph-lf       1  0  0  0   
+Beckham G, 2b         3  0  2  0   Kelly D, lf           3  0  2  0   
+                                   Frazier J, ph         1  0  0  0   
+                                   Laird G, c            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  9  4                        37  1 10  1
+
+Chicago          100 201 000 --  4
+Detroit          000 000 010 --  1
+
+  Chicago              IP  H  R ER BB SO
+Jackson E (W)*        7.0  9  1  1  1  6
+Putz J                0.1  1  0  0  1  0
+Thornton M            0.2  0  0  0  0  1
+Jenks B (S)           1.0  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Galarraga A (L)       7.2  8  4  4  5  1
+Bonine E              1.1  1  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Konerko P, Cabrera M, Jones A
+DP -- Chicago 1, Detroit 2
+LOB -- Chicago 6, Detroit 11
+HR -- Quentin C, Konerko P
+SB -- Kelly D
+CS -- Beckham G
+Balk -- Galarraga A
+T -- 2:51
+A -- 31770
+     Game of 8/5/2010 -- Chicago at Detroit (D)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Pierre J, lf          5  0  2  1   Jackson A, cf         4  0  0  0   
+Vizquel O, 3b         4  0  1  0   Rhymes W, 2b          3  0  1  0   
+Rios A, cf            5  0  0  0   Raburn R, ph-2b       3  1  1  3   
+Konerko P, dh         4  0  2  0   Damon J, dh           4  0  0  0   
+Lillibridge B, pr     1  2  1  0   Cabrera M, 1b         2  0  1  0   
+Quentin C, rf         4  0  1  0   Boesch B, rf          5  0  1  0   
+Jones A, rf           1  1  1  0   Peralta J, ss         5  0  1  0   
+Kotsay M, 1b          5  1  3  4   Inge B, 3b            5  0  0  0   
+Ramirez A, ss         4  1  0  0   Kelly D, lf           5  2  2  1   
+Castro R, c           5  1  1  0   Laird G, c            2  0  0  0   
+Beckham G, 2b         4  0  1  0   Santiago R, ph        0  1  0  0   
+                                   Avila A, c            1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     42  6 13  5                        39  4  8  4
+
+Chicago          000 020 002 02 --  6
+Detroit          000 000 103 00 --  4
+
+  Chicago              IP  H  R ER BB SO
+Garcia F              6.2  5  1  1  4  4
+Thornton M            0.2  0  0  0  2  1
+Putz J                0.2  0  0  0  0  0
+Jenks B               1.0  2  3  3  0  2
+Santos S (W)          2.0  1  0  0  1  2
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M            7.0  8  2  2  2  7
+Coke P                1.0  0  0  0  0  2
+Weinhardt R           1.0  2  2  2  0  1
+Valverde J (L)        2.0  3  2  2  0  1
+
+DP -- Chicago 2, Detroit 1
+LOB -- Chicago 5, Detroit 10
+2B -- Castro R
+3B -- Kotsay M
+HR -- Kelly D, Kotsay M, Raburn R
+SB -- Pierre J, Laird G, Vizquel O
+CS -- Pierre J 2, Konerko P
+HBP -- by Jenks B (Santiago R)
+WP -- Scherzer M
+T -- 3:18
+A -- 34156
+     Game of 8/6/2010 -- Anaheim at Detroit (N)
+
+  Anaheim            AB  R  H RBI    Detroit            AB  R  H RBI
+Abreu B, lf           3  0  0  0   Jackson A, cf         4  0  0  0   
+Aybar E, ss           4  0  2  0   Boesch B, rf          4  1  2  1   
+Callaspo A, 3b        4  1  1  0   Raburn R, lf          3  0  1  0   
+Hunter T, rf          3  1  1  2   Cabrera M, 1b         2  1  0  0   
+Willits R, rf         0  0  0  0   Peralta J, ss         2  0  1  0   
+Matsui H, dh          4  0  0  0   Damon J, dh           4  0  0  0   
+Izturis M, 2b         4  1  3  0   Inge B, 3b            4  0  0  0   
+Kendrick H, 1b        4  1  1  1   Avila A, c            3  0  0  0   
+Wilson B, c           3  0  1  0   Frazier J, ph         1  0  0  0   
+Bourjos P, cf         4  0  0  1   Rhymes W, 2b          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  9  4                        30  2  4  1
+
+Anaheim          220 000 000 --  4
+Detroit          001 100 000 --  2
+
+  Anaheim              IP  H  R ER BB SO
+Weaver J (W)          7.0  3  2  1  4  9
+Rodney F              1.0  1  0  0  0  0
+Fuentes B (S)         1.0  0  0  0  1  2
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (L)       7.0  7  4  4  2  2
+Perry R               2.0  2  0  0  0  2
+
+E -- Izturis M
+LOB -- Anaheim 5, Detroit 6
+2B -- Kendrick H
+HR -- Hunter T, Boesch B
+CS -- Izturis M, Abreu B
+SH -- Wilson B
+T -- 2:47
+A -- 35106
+     Game of 8/7/2010 -- Anaheim at Detroit (N)
+
+  Anaheim            AB  R  H RBI    Detroit            AB  R  H RBI
+Abreu B, lf           4  2  1  0   Jackson A, cf         4  1  1  0   
+Willits R, lf         0  0  0  0   Santiago R, ss        4  0  1  0   
+Aybar E, ss           5  1  2  1   Raburn R, rf-3b       3  0  0  1   
+Callaspo A, 3b-2b     4  1  3  1   Cabrera M, 1b         2  0  1  0   
+Matsui H, dh          2  2  0  0   Boesch B, rf          1  0  0  0   
+Izturis M, 2b         3  2  2  1   Peralta J, dh         4  0  0  0   
+Wood B, ph-3b         1  0  0  0   Inge B, 3b            2  0  0  0   
+Rivera J, rf          4  2  2  2   Kelly D, ph-1b        2  0  0  0   
+Napoli M, 1b          5  0  2  3   Frazier J, lf         3  0  1  0   
+Wilson B, c           5  0  1  1   Laird G, c            3  0  0  0   
+Bourjos P, cf         5  0  0  0   Rhymes W, 2b          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38 10 13  9                        31  1  4  1
+
+Anaheim          200 050 210 -- 10
+Detroit          100 000 000 --  1
+
+  Anaheim              IP  H  R ER BB SO
+Kazmir S (W)          5.0  3  1  0  1  3
+Rodriguez F           2.0  1  0  0  1  0
+Kohn M                1.0  0  0  0  0  1
+Jepsen K              1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (L)       4.1  4  4  4  4  5
+Thomas B*             0.0  1  2  2  1  0
+Bonine E+             1.2  6  3  2  1  0
+Gonzalez E            3.0  2  1  1  1  1
+  * Pitched to 2 batters in 5th
+  + Pitched to 3 batters in 7th
+
+E -- Kazmir S, Santiago R, Napoli M
+DP -- Detroit 3
+LOB -- Anaheim 8, Detroit 5
+2B -- Abreu B, Izturis M, Rivera J, Napoli M
+HR -- Aybar E
+WP -- Kazmir S, Bonderman J 2, Thomas B
+T -- 2:49
+A -- 38783
+     Game of 8/8/2010 -- Anaheim at Detroit (D)
+
+  Anaheim            AB  R  H RBI    Detroit            AB  R  H RBI
+Abreu B, dh           5  0  1  1   Rhymes W, 2b          4  2  3  2   
+Aybar E, ss           4  0  0  0   Damon J, dh           5  0  3  3   
+Callaspo A, 3b        4  1  0  0   Boesch B, rf          4  0  0  0   
+Izturis M, 2b         4  1  2  0   Jackson A, cf         1  0  1  1   
+Rivera J, rf          4  0  2  1   Cabrera M, 1b         5  0  1  0   
+Kendrick H, 1b        4  0  1  0   Peralta J, ss         5  1  1  0   
+Willits R, lf         4  1  2  0   Raburn R, lf-rf       4  2  2  0   
+Mathis J, c           4  0  1  1   Inge B, 3b            3  2  0  0   
+Bourjos P, cf         3  1  1  0   Avila A, c            1  1  1  2   
+                                   Kelly D, cf-lf        3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     36  4 10  3                        35  9 13  9
+
+Anaheim          000 102 100 --  4
+Detroit          000 033 03x --  9
+
+  Anaheim              IP  H  R ER BB SO
+Bell T (L)            5.1  9  6  4  2  4
+Kohn M                0.2  1  0  0  0  1
+Shields S             1.1  2  3  3  3  0
+Jepsen K              0.2  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (W)        6.0  8  3  2  0  4
+Weinhardt R           1.0  1  1  0  0  0
+Perry R               1.0  1  0  0  0  1
+Valverde J            1.0  0  0  0  1  1
+
+E -- Porcello R, Callaspo A, Raburn R
+LOB -- Anaheim 7, Detroit 8
+2B -- Raburn R, Rhymes W, Damon J, Bourjos P
+3B -- Izturis M
+SB -- Kendrick H
+CS -- Avila A
+SH -- Avila A
+HBP -- by Porcello R (Aybar E)
+WP -- Porcello R, Shields S, Jepsen K 2
+T -- 2:51
+A -- 32037
+     Game of 8/9/2010 -- Tampa Bay at Detroit (N)
+
+  Tampa Bay          AB  R  H RBI    Detroit            AB  R  H RBI
+Jaso J, c             5  1  3  1   Jackson A, cf         5  0  0  0   
+Zobrist B, 2b-1b      3  1  1  1   Santiago R, dh        4  1  1  0   
+Crawford C, lf        5  0  1  1   Raburn R, rf-lf       5  0  2  1   
+Longoria E, 3b        5  1  2  1   Cabrera M, 1b         3  0  0  0   
+Aybar W, dh           3  0  1  0   Guillen C, 2b         3  1  0  0   
+Johnson D, 1b         2  0  0  0   Peralta J, ss         3  0  0  0   
+Rodriguez S, ph-2b    1  0  0  0   Inge B, 3b            4  0  0  0   
+Joyce M, rf           3  1  1  2   Frazier J, lf         2  0  1  0   
+Upton B, cf           4  1  1  0   Boesch B, ph-rf       2  1  1  1   
+Bartlett J, ss        2  1  1  0   Laird G, c            2  0  2  1   
+                                   Damon J, ph           1  0  0  0   
+                                   Avila A, c            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  6 11  6                        34  3  7  3
+
+Tampa Bay        002 110 002 --  6
+Detroit          010 010 010 --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Price D (W)           5.0  5  2  2  4  9
+Qualls C              1.2  1  0  0  1  2
+Benoit J              1.1  1  1  1  0  1
+Soriano R (S)         1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Galarraga A (L)       5.0  5  4  4  4  1
+Thomas B              2.0  1  0  0  0  1
+Coke P                1.0  1  0  0  0  2
+Perry R               1.0  4  2  1  0  0
+
+DP -- Detroit 2
+LOB -- Tampa Bay 7, Detroit 9
+2B -- Jaso J, Laird G, Longoria E, Aybar W, Upton B
+HR -- Joyce M, Boesch B
+CS -- Zobrist B
+SH -- Bartlett J
+SF -- Zobrist B, Joyce M
+WP -- Price D
+PB -- Jaso J, Avila A
+T -- 3:13
+A -- 23932
+     Game of 8/10/2010 -- Tampa Bay at Detroit (N)
+
+  Tampa Bay          AB  R  H RBI    Detroit            AB  R  H RBI
+Jaso J, c             5  1  1  1   Jackson A, cf         4  0  2  0   
+Zobrist B, 2b         4  0  0  1   Damon J, dh           4  0  1  0   
+Crawford C, lf        4  2  1  0   Boesch B, rf          3  0  1  0   
+Longoria E, 3b        5  0  2  1   Cabrera M, 1b         3  0  0  0   
+Joyce M, rf           3  1  1  0   Guillen C, 2b         3  0  0  0   
+Aybar W, dh           3  0  0  1   Peralta J, ss         3  0  0  0   
+Johnson D, 1b         1  2  0  1   Inge B, 3b            3  0  0  0   
+Upton B, cf           4  1  1  1   Raburn R, lf          3  0  0  0   
+Bartlett J, ss        5  1  3  0   Avila A, c            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  8  9  6                        29  0  4  0
+
+Tampa Bay        000 010 115 --  8
+Detroit          000 000 000 --  0
+
+  Tampa Bay            IP  H  R ER BB SO
+Hellickson J (W)      7.0  3  0  0  0  7
+Benoit J              1.0  0  0  0  0  2
+Ekstrom M             1.0  1  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M (L)        7.0  4  2  1  4  2
+Coke P                1.0  2  1  1  1  1
+Weinhardt R           0.2  3  5  5  3  1
+Gonzalez E            0.1  0  0  0  2  0
+
+E -- Raburn R, Boesch B
+DP -- Tampa Bay 2, Detroit 1
+LOB -- Tampa Bay 10, Detroit 2
+2B -- Bartlett J, Joyce M, Longoria E, Jaso J
+SF -- Zobrist B
+WP -- Scherzer M, Coke P
+PB -- Avila A
+T -- 2:49
+A -- 26114
+     Game of 8/11/2010 -- Tampa Bay at Detroit (D)
+
+  Tampa Bay          AB  R  H RBI    Detroit            AB  R  H RBI
+Johnson D, 1b         4  0  0  0   Jackson A, cf         4  0  1  0   
+Zobrist B, 2b         3  0  0  0   Damon J, lf           4  0  1  0   
+Crawford C, lf        4  0  1  0   Kelly D, lf           0  0  0  0   
+Longoria E, 3b        4  1  1  0   Boesch B, rf          2  0  1  0   
+Joyce M, rf           3  0  2  1   Cabrera M, 1b         2  1  1  0   
+Aybar W, dh           4  0  0  0   Peralta J, ss         3  0  0  0   
+Upton B, cf           2  1  1  0   Guillen C, dh         4  0  0  0   
+Bartlett J, ss        4  0  0  0   Inge B, 3b            4  1  2  1   
+Shoppach K, c         1  0  1  0   Raburn R, 2b          4  1  2  2   
+Jaso J, ph            1  0  0  1   Santiago R, 2b        0  0  0  0   
+                                   Laird G, c            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  6  2                        30  3  8  3
+
+Tampa Bay        000 001 001 --  2
+Detroit          010 002 00x --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Garza M (L)           5.2  7  3  3  3  4
+Choate R*             0.1  0  0  0  0  0
+Qualls C              1.0  0  0  0  1  0
+Wheeler D             1.0  1  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (W)       6.0  6  1  1  3  7
+Perry R               1.2  0  0  0  2  0
+Valverde J (S)        1.1  0  1  0  1  0
+  * Pitched to 1 batter in 7th
+
+E -- Upton B, Laird G
+DP -- Tampa Bay 2, Detroit 2
+LOB -- Tampa Bay 8, Detroit 9
+2B -- Cabrera M, Shoppach K
+3B -- Longoria E
+HR -- Raburn R
+SB -- Crawford C, Upton B
+SH -- Zobrist B
+HBP -- by Garza M (Boesch B), by Choate R (Boesch B)
+T -- 3:11
+A -- 28815
+     Game of 8/20/2010 -- Cleveland at Detroit (N)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Crowe T, cf           4  0  0  0   Jackson A, cf         5  1  3  1   
+Cabrera A, ss         4  0  0  0   Rhymes W, 2b          5  1  2  1   
+Choo S, rf            4  0  1  0   Damon J, dh           5  0  0  0   
+Hafner T, dh          3  0  0  0   Cabrera M, 1b         5  0  2  1   
+Duncan S, lf          3  0  0  0   Boesch B, rf          4  0  1  0   
+Nix J, 3b             3  0  1  0   Peralta J, ss         4  0  0  0   
+LaPorta M, 1b         3  0  0  0   Inge B, 3b            3  2  3  0   
+Valbuena L, 2b        3  0  0  0   Kelly D, lf           4  2  4  1   
+Marson L, c           3  0  1  0   Laird G, c            2  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     30  0  3  0                        37  6 16  5
+
+Cleveland        000 000 000 --  0
+Detroit          220 100 01x --  6
+
+  Cleveland            IP  H  R ER BB SO
+Masterson J (L)       6.0 11  5  5  1  5
+Ambriz H              2.0  5  1  1  1  2
+
+  Detroit              IP  H  R ER BB SO
+Galarraga A (W)       7.0  3  0  0  0  8
+Perry R               1.0  0  0  0  0  0
+Coke P                1.0  0  0  0  0  0
+
+E -- Marson L
+DP -- Cleveland 1
+LOB -- Cleveland 3, Detroit 10
+2B -- Nix J, Inge B, Kelly D
+3B -- Inge B
+SB -- Jackson A
+SH -- Laird G
+T -- 2:30
+A -- 33936
+     Game of 8/21/2010 -- Cleveland at Detroit (N)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Crowe T, cf           4  0  1  0   Jackson A, cf         4  2  2  0   
+Cabrera A, ss         4  0  1  0   Rhymes W, 2b          3  0  0  0   
+Choo S, rf            4  1  0  0   Raburn R, lf          4  1  1  1   
+Hafner T, dh          4  0  2  1   Cabrera M, dh         2  1  1  0   
+Nix J, 3b             4  0  0  0   Boesch B, rf          4  0  2  1   
+Duncan S, lf          4  0  0  0   Peralta J, ss         4  0  1  0   
+LaPorta M, 1b         3  0  0  0   Inge B, 3b            2  0  0  1   
+Donald J, 2b          3  0  0  0   Avila A, c            3  0  0  0   
+Gimenez C, c          1  1  0  0   Kelly D, 1b           4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  1                        30  5  8  4
+
+Cleveland        101 000 000 --  2
+Detroit          200 120 00x --  5
+
+  Cleveland            IP  H  R ER BB SO
+Tomlin J (L)          6.0  7  5  5  2  2
+Germano J             1.0  0  0  0  0  0
+Smith J               1.0  1  0  0  2  0
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M (W)        7.0  4  2  1  2  8
+Coke P                1.0  0  0  0  0  0
+Valverde J (S)        1.0  0  0  0  0  1
+
+E -- Rhymes W, Boesch B, Gimenez C, Donald J
+DP -- Detroit 2
+LOB -- Cleveland 4, Detroit 7
+2B -- Jackson A 2, Raburn R, Cabrera M, Boesch B
+HR -- Kelly D
+SB -- Choo S
+SH -- Rhymes W
+SF -- Inge B
+WP -- Tomlin J
+T -- 2:29
+A -- 38088
+     Game of 8/22/2010 -- Cleveland at Detroit (D)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Crowe T, cf           4  0  1  0   Jackson A, cf         5  2  1  0   
+Cabrera A, ss         3  0  0  0   Rhymes W, 2b          5  3  4  1   
+Valbuena L, 2b        1  0  0  0   Damon J, dh           5  0  1  1   
+Choo S, rf            4  1  3  1   Cabrera M, 1b         3  2  1  1   
+Gimenez C, rf         0  0  0  0   Raburn R, lf          0  0  0  0   
+Hafner T, dh          4  0  1  0   Boesch B, rf          3  0  1  2   
+Nix J, 3b             4  0  0  0   Peralta J, ss         3  0  1  3   
+Marte A, 1b           3  0  0  0   Inge B, 3b            3  0  1  0   
+Duncan S, lf          4  0  0  0   Kelly D, lf-1b        4  0  0  0   
+Donald J, 2b-ss       4  0  1  0   Laird G, c            4  1  1  0   
+Marson L, c           3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  1  7  1                        35  8 11  8
+
+Cleveland        100 000 000 --  1
+Detroit          332 000 00x --  8
+
+  Cleveland            IP  H  R ER BB SO
+Gomez J (L)           3.0 10  8  5  3  1
+Herrmann F            2.0  1  0  0  0  2
+Perez R               1.0  0  0  0  0  1
+Sipp T                1.0  0  0  0  0  1
+Perez C               1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (W)       8.0  7  1  1  1  8
+Figaro A              1.0  0  0  0  0  1
+
+E -- Crowe T 2, Nix J
+LOB -- Cleveland 7, Detroit 7
+2B -- Rhymes W, Boesch B, Marson L
+HR -- Choo S
+SF -- Peralta J
+T -- 2:33
+A -- 35104
+     Game of 8/23/2010 -- Kansas City at Detroit (N)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+Blanco G, cf          4  2  2  1   Jackson A, cf         2  2  0  0   
+Kendall J, c          2  0  0  0   Rhymes W, 2b          4  2  2  0   
+Pena B, ph-c          2  0  0  0   Damon J, dh           4  2  2  1   
+Ka'aihue K, dh        4  0  1  1   Cabrera M, 1b         3  2  1  1   
+Butler B, 1b          4  0  2  1   Kelly D, 1b           0  0  0  0   
+Betemit W, 3b         3  0  0  0   Raburn R, lf          4  2  3  3   
+Aviles M, 3b          1  0  0  0   Peralta J, ss         2  1  2  3   
+Gordon A, lf          3  0  0  0   Santiago R, ph-ss     1  0  0  0   
+Miller J, lf          1  0  1  0   Inge B, 3b            3  1  1  3   
+Maier M, rf           4  1  2  0   Wells C, rf           2  0  0  0   
+Betancourt Y, ss      4  0  2  0   Boesch B, ph-rf       3  0  0  0   
+Getz C, 2b            4  0  1  0   Laird G, c            5  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     36  3 11  3                        33 12 12 12
+
+Kansas City      100 010 001 --  3
+Detroit          200 127 00x -- 12
+
+  Kansas City          IP  H  R ER BB SO
+Chen B (L)            4.1  5  5  5  5  2
+Chavez J              1.0  6  7  7  3  0
+Holland G             2.2  1  0  0  2  4
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (W)       6.0  8  2  2  0  3
+Thomas B              1.0  0  0  0  0  0
+Schlereth D           1.0  0  0  0  0  0
+Bonine E              1.0  3  1  1  0  0
+
+E -- Maier M 2
+DP -- Kansas City 1
+LOB -- Kansas City 8, Detroit 9
+2B -- Butler B, Peralta J, Blanco G, Rhymes W, Raburn R, Inge B
+SH -- Rhymes W, Kendall J
+SF -- Inge B, Blanco G
+WP -- Bonderman J, Chavez J
+T -- 2:50
+A -- 30552
+     Game of 8/24/2010 -- Kansas City at Detroit (N)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+Blanco G, cf          3  0  0  0   Jackson A, cf         5  2  2  1   
+Kendall J, c          4  0  0  0   Wells C, cf           0  0  0  0   
+Ka'aihue K, dh        4  1  1  1   Rhymes W, 2b          4  0  2  2   
+Butler B, 1b          4  0  1  0   Damon J, dh           3  0  1  0   
+Betemit W, 3b         3  0  0  0   Cabrera M, 1b         4  1  2  1   
+Gordon A, lf          2  0  0  0   Kelly D, pr-1b        0  0  0  0   
+Maier M, rf           3  0  0  0   Raburn R, lf          4  2  2  1   
+Betancourt Y, ss      3  0  0  0   Peralta J, ss-3b      5  1  3  0   
+Getz C, 2b            3  0  1  0   Inge B, 3b            4  1  1  1   
+                                   Santiago R, ss        0  0  0  0   
+                                   Boesch B, rf          4  2  2  2   
+                                   Avila A, c            3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     29  1  3  1                        36  9 16  9
+
+Kansas City      000 000 001 --  1
+Detroit          100 242 00x --  9
+
+  Kansas City          IP  H  R ER BB SO
+Davies K (L)          4.2 12  7  7  3  5
+Texeira K             2.1  3  2  2  0  1
+Hughes D              1.0  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (W)        7.0  2  0  0  1  4
+Schlereth D           1.0  0  0  0  1  1
+Perry R               1.0  1  1  1  0  0
+
+DP -- Kansas City 1, Detroit 1
+LOB -- Kansas City 3, Detroit 10
+2B -- Peralta J, Boesch B, Avila A, Jackson A, Rhymes W
+HR -- Raburn R, Ka'aihue K
+SB -- Jackson A
+SH -- Rhymes W
+SF -- Cabrera M, Inge B
+HBP -- by Davies K (Damon J)
+T -- 2:37
+A -- 29043
+     Game of 8/25/2010 -- Kansas City at Detroit (D)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+Blanco G, cf          6  0  0  0   Jackson A, cf         6  0  1  0   
+Aviles M, ss          6  1  1  0   Rhymes W, 2b          6  0  1  0   
+Bloomquist W, 3b      6  1  2  1   Damon J, dh           6  0  0  0   
+Butler B, dh          5  0  1  0   Cabrera M, 1b         4  0  1  0   
+Gordon A, pr          0  0  0  0   Boesch B, rf          5  1  1  0   
+Ka'aihue K, 1b        4  2  2  2   Raburn R, lf          5  1  1  0   
+Pena B, c             6  0  2  1   Inge B, 3b            4  0  0  0   
+Maier M, rf           5  0  2  0   Santiago R, ss        5  1  3  2   
+Miller J, lf          5  0  1  0   Laird G, c            5  0  2  1   
+Getz C, 2b            4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     47  4 11  4                        46  3 10  3
+
+Kansas City      000 000 120 001 --  4
+Detroit          030 000 000 000 --  3
+
+  Kansas City          IP  H  R ER BB SO
+O'Sullivan S          7.0  7  3  3  0  1
+Hughes D              0.1  0  0  0  0  0
+Chavez J              0.2  1  0  0  0  0
+Humber P (W)          3.0  2  0  0  2  2
+Soria J (S)           1.0  0  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Galarraga A           6.1  5  1  1  2  4
+Coke P                0.2  0  0  0  0  2
+Perry R               0.2  1  1  1  0  1
+Valverde J            0.1  2  1  1  0  0
+Thomas B              1.0  0  0  0  0  0
+Figaro A (L)          3.0  3  1  1  2  1
+
+E -- Bloomquist W
+DP -- Kansas City 1
+LOB -- Kansas City 11, Detroit 9
+2B -- Bloomquist W, Boesch B, Laird G, Ka'aihue K, Pena B, Cabrera M
+3B -- Santiago R
+HR -- Ka'aihue K, Bloomquist W
+SB -- Jackson A, Boesch B, Aviles M
+WP -- Valverde J, Figaro A
+Balk -- O'Sullivan S
+T -- 3:52
+A -- 31231
+     Game of 9/6/2010 -- Chicago at Detroit (D)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Pierre J, lf          5  0  1  1   Jackson A, cf         5  1  1  0   
+Vizquel O, ss-3b      5  0  1  0   Rhymes W, 2b          5  1  1  0   
+Quentin C, rf         4  0  0  0   Damon J, dh           4  0  2  1   
+Ramirez M, dh         5  1  3  0   Cabrera M, 1b         4  1  1  0   
+De Aza A, pr          0  1  0  0   Kelly D, lf           3  1  2  3   
+Teahen M, 3b-1b       4  1  0  0   Raburn R, ph-lf       1  0  0  0   
+Jones A, cf           3  1  2  0   Inge B, 3b            4  0  1  0   
+Lillibridge B, pr-cf  0  1  0  0   Boesch B, rf          3  0  1  0   
+Rios A, ph-cf         1  0  1  0   Wells C, ph-rf        1  0  0  0   
+Pierzynski A, c       5  0  2  3   Avila A, c            3  0  0  0   
+Kotsay M, 1b          3  0  2  0   Peralta J, ph-ss      1  0  0  0   
+Ramirez A, ph-ss      1  0  1  1   Santiago R, ss        4  0  0  0   
+Beckham G, 2b         5  0  0  0   St. Pierre M, c       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  5 13  5                        38  4  9  4
+
+Chicago          020 100 010 1 --  5
+Detroit          200 200 000 0 --  4
+
+  Chicago              IP  H  R ER BB SO
+Jackson E             7.1  9  4  4  1  6
+Sale C (W)            2.2  0  0  0  0  3
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M            7.1  9  4  4  2  6
+Coke P                0.1  0  0  0  0  0
+Perry R               1.1  1  0  0  0  1
+Valverde J (L)        1.0  3  1  1  0  1
+
+E -- Raburn R
+DP -- Chicago 1, Detroit 1
+LOB -- Chicago 10, Detroit 5
+2B -- Jackson A
+HR -- Kelly D
+SB -- Lillibridge B, Ramirez A
+HBP -- by Scherzer M (Jones A), by Valverde J (Ramirez A)
+WP -- Scherzer M
+T -- 3:00
+A -- 32924
+     Game of 9/7/2010 -- Chicago at Detroit (N)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Pierre J, lf          5  1  2  0   Jackson A, cf         4  1  1  0   
+Vizquel O, 2b         3  0  1  1   Rhymes W, 2b          4  1  1  0   
+Lillibridge B, 2b     1  0  0  0   Damon J, dh           5  1  2  2   
+Rios A, cf            3  0  0  0   Cabrera M, 1b         2  1  0  0   
+Ramirez M, dh         2  0  0  0   Raburn R, lf          2  0  1  0   
+De Aza A, pr          0  0  0  0   Kelly D, lf-1b        4  1  1  1   
+Teahen M, 3b          4  0  0  0   Boesch B, rf          3  1  2  1   
+Quentin C, rf         3  0  0  0   Wells C, rf           1  1  1  0   
+Morel B, ph           1  0  0  0   Peralta J, ss         4  1  3  2   
+Pierzynski A, c       3  0  2  0   Inge B, 3b            3  1  2  3   
+Flowers T, c          1  0  0  0   Avila A, c            3  0  0  0   
+Kotsay M, 1b          3  0  0  0                                      
+Viciedo D, ph         0  0  0  0                                      
+Ramirez A, ss         4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        35  9 14  9
+
+Chicago          001 000 000 --  1
+Detroit          204 000 03x --  9
+
+  Chicago              IP  H  R ER BB SO
+Garcia F (L)          2.0  3  2  2  0  0
+Harrell L             4.0  6  4  0  3  2
+Torres C              1.1  4  3  3  0  2
+Infante G             0.2  1  0  0  1  1
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (W)       7.0  5  1  1  1  7
+Weinhardt R           2.0  1  0  0  1  3
+
+E -- Kotsay M, Quentin C, Kelly D, Weinhardt R 2
+DP -- Chicago 1, Detroit 1
+LOB -- Chicago 9, Detroit 7
+2B -- Pierre J, Peralta J, Pierzynski A
+HR -- Damon J, Inge B
+SB -- Inge B
+CS -- Pierre J, Boesch B
+SH -- Rhymes W
+HBP -- by Verlander J (Ramirez M), by Weinhardt R (Ramirez M)
+WP -- Verlander J
+T -- 2:52
+A -- 24905
+     Game of 9/8/2010 -- Chicago at Detroit (N)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Pierre J, lf          4  0  0  0   Jackson A, cf         3  0  1  0   
+Vizquel O, 2b         4  1  2  1   Rhymes W, 2b          4  0  0  0   
+Rios A, cf            4  0  1  0   Raburn R, lf          4  2  2  0   
+Konerko P, 1b         4  0  1  0   Boesch B, dh          3  0  0  0   
+Ramirez M, dh         2  0  0  0   Wells C, rf           4  1  1  1   
+Teahen M, 3b          3  0  0  0   Peralta J, ss         3  1  1  0   
+Jones A, rf           3  0  0  0   Inge B, 3b            4  1  1  2   
+Pierzynski A, c       3  0  0  0   Kelly D, 1b           4  0  1  0   
+Ramirez A, ss         3  0  0  0   Avila A, c            3  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        32  5  8  5
+
+Chicago          000 100 000 --  1
+Detroit          000 410 00x --  5
+
+  Chicago              IP  H  R ER BB SO
+Danks J (L)           6.0  8  5  2  3  4
+Pena T                2.0  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (W)       8.0  3  1  1  1  8
+Coke P                1.0  1  0  0  0  0
+
+E -- Teahen M 2, Kelly D
+DP -- Chicago 2, Detroit 1
+LOB -- Chicago 3, Detroit 6
+2B -- Avila A, Raburn R
+HR -- Vizquel O
+T -- 2:04
+A -- 25995
+     Game of 9/9/2010 -- Chicago at Detroit (D)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Pierre J, lf          4  0  0  0   Jackson A, cf         4  1  0  0   
+Vizquel O, 2b-3b      3  1  2  0   Rhymes W, 2b          4  2  3  0   
+Rios A, cf            4  1  1  2   Damon J, dh           4  2  4  1   
+Konerko P, 1b         4  1  1  0   Raburn R, lf          4  0  2  2   
+Ramirez M, dh         4  0  0  0   Boesch B, rf          3  0  0  0   
+Quentin C, rf         3  0  0  0   Wells C, ph-rf        1  0  0  0   
+Castro R, c           3  0  0  0   Peralta J, ss         3  0  1  2   
+Ramirez A, ss         3  0  0  0   Kelly D, 1b           4  0  1  0   
+Morel B, 3b           2  0  0  0   Inge B, 3b            4  0  1  0   
+Kotsay M, ph          1  0  0  0   Avila A, c            4  1  1  0   
+Lillibridge B, 2b     0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  4  2                        35  6 13  5
+
+Chicago          000 200 100 --  3
+Detroit          202 100 10x --  6
+
+  Chicago              IP  H  R ER BB SO
+Floyd G (L)*          6.0 13  6  5  1  3
+Thornton M            1.0  0  0  0  0  1
+Santos S              1.0  0  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (W)        8.0  4  3  3  0  3
+Perry R (S)           1.0  0  0  0  1  0
+  * Pitched to 2 batters in 7th
+
+E -- Quentin C
+DP -- Chicago 1
+LOB -- Chicago 2, Detroit 7
+HR -- Rios A
+SF -- Peralta J
+WP -- Porcello R 2
+T -- 2:12
+A -- 29995
+     Game of 9/10/2010 -- Baltimore at Detroit (N)
+
+  Baltimore          AB  R  H RBI    Detroit            AB  R  H RBI
+Roberts B, 2b         3  0  0  1   Jackson A, cf         5  1  3  0   
+Wigginton T, 3b       4  0  1  0   Rhymes W, 2b          4  0  0  0   
+Lugo J, pr            0  1  0  0   Damon J, dh           4  1  1  0   
+Bell J, 3b            1  0  0  0   Cabrera M, 1b         3  1  2  3   
+Markakis N, rf        4  1  1  0   Raburn R, lf          4  0  2  0   
+Scott L, dh           3  1  1  0   Boesch B, rf          4  0  0  0   
+Wieters M, c          3  0  1  1   Peralta J, ss         4  0  1  0   
+Jones A, cf           3  1  1  1   Inge B, 3b            4  0  1  0   
+Pie F, lf             3  0  0  0   Avila A, c            4  0  0  0   
+Fox J, 1b             4  1  2  2                                      
+Patterson C, pr       0  1  0  0                                      
+Snyder B, 1b          0  0  0  0                                      
+Izturis C, ss         4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  6  8  5                        36  3 10  3
+
+Baltimore        010 020 021 --  6
+Detroit          100 002 000 --  3
+
+  Baltimore            IP  H  R ER BB SO
+Millwood K            6.0  8  3  2  1  3
+Hernandez D (W)       1.0  1  0  0  1  2
+Johnson J             1.0  1  0  0  0  0
+Uehara K (S)          1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Galarraga A           7.0  4  3  3  2  2
+Coke P (L)            0.2  2  2  2  1  0
+Weinhardt R*          0.1  2  1  1  0  0
+Schlereth D           1.0  0  0  0  0  0
+  * Pitched to 1 batter in 9th
+
+E -- Wieters M, Jackson A
+DP -- Detroit 2
+LOB -- Baltimore 5, Detroit 9
+2B -- Cabrera M, Raburn R, Fox J
+3B -- Jackson A
+HR -- Fox J, Cabrera M
+SH -- Rhymes W
+SF -- Wieters M, Roberts B
+HBP -- by Galarraga A (Jones A)
+WP -- Millwood K 2, Coke P
+T -- 2:53
+A -- 28575
+     Game of 9/11/2010 -- Baltimore at Detroit (N)
+
+  Baltimore          AB  R  H RBI    Detroit            AB  R  H RBI
+Roberts B, 2b         5  0  3  0   Jackson A, cf         5  0  1  0   
+Wigginton T, 1b       3  0  0  1   Raburn R, rf          4  0  2  0   
+Markakis N, rf        5  0  1  0   Damon J, dh           4  1  0  0   
+Scott L, dh           5  0  1  0   Cabrera M, 1b         4  1  2  0   
+Wieters M, c          5  1  2  0   Kelly D, lf           4  1  1  1   
+Jones A, cf           4  1  4  0   Peralta J, ss         4  0  2  2   
+Pie F, lf             5  1  3  2   Inge B, 3b            4  0  0  0   
+Bell J, 3b            5  1  1  0   Avila A, c            3  0  1  0   
+Izturis C, ss         4  1  1  2   Santiago R, 2b        4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  5 16  5                        36  3  9  3
+
+Baltimore        000 004 001 --  5
+Detroit          000 000 030 --  3
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J (W)         7.0  5  0  0  1  4
+Albers M              1.0  4  3  3  0  1
+Uehara K (S)          1.0  0  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M (L)        6.0 12  4  4  1  5
+Thomas B              2.2  4  1  1  1  0
+Perry R               0.1  0  0  0  0  0
+
+DP -- Detroit 1
+LOB -- Baltimore 12, Detroit 7
+2B -- Raburn R, Jones A, Pie F, Peralta J, Wieters M
+3B -- Izturis C
+SF -- Wigginton T
+WP -- Scherzer M
+T -- 2:42
+A -- 28139
+     Game of 9/12/2010 -- Baltimore at Detroit (D)
+
+  Baltimore          AB  R  H RBI    Detroit            AB  R  H RBI
+Roberts B, 2b         3  0  0  0   Rhymes W, 2b          3  1  1  0   
+Wigginton T, 3b       4  0  1  0   Raburn R, rf-lf       4  1  1  0   
+Markakis N, rf        4  0  1  0   Kelly D, lf           3  0  0  0   
+Scott L, dh           3  0  0  0   Jackson A, ph-cf      0  1  0  0   
+Jones A, cf           4  0  0  0   Cabrera M, 1b         4  1  1  3   
+Pie F, lf             4  1  1  0   Peralta J, ss         4  0  0  0   
+Fox J, c              3  1  1  1   Boesch B, dh          1  1  0  0   
+Andino R, ss          3  0  1  0   Inge B, 3b            4  1  2  2   
+Snyder B, 1b          3  0  0  0   Wells C, cf-rf        2  0  0  1   
+                                   Avila A, c            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  1                        28  6  5  6
+
+Baltimore        000 020 000 --  2
+Detroit          010 000 05x --  6
+
+  Baltimore            IP  H  R ER BB SO
+Tillman C             6.2  1  1  1  6  4
+Gonzalez M (L)*       0.1  2  2  2  0  0
+Hernandez D           0.2  1  2  2  1  1
+Simon A               0.1  1  1  1  0  0
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (W)       8.0  5  2  2  1 11
+Coke P                1.0  0  0  0  1  1
+  * Pitched to 2 batters in 8th
+
+DP -- Baltimore 1, Detroit 1
+LOB -- Baltimore 4, Detroit 5
+2B -- Raburn R, Cabrera M
+3B -- Fox J
+HR -- Inge B
+SB -- Boesch B 2, Pie F, Roberts B
+WP -- Verlander J
+Balk -- Verlander J
+T -- 2:44
+A -- 24170
+     Game of 9/20/2010 -- Kansas City at Detroit (N)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+Blanco G, cf          4  1  1  0   Rhymes W, 2b          5  1  1  2   
+Aviles M, 2b          5  0  2  0   Damon J, dh           3  1  1  0   
+Butler B, dh          5  0  1  0   Kelly D, cf-lf        4  1  1  0   
+Dyson J, pr           0  0  0  0   Cabrera M, 1b         4  1  1  1   
+Betemit W, 3b         5  0  3  1   Boesch B, rf          3  1  1  0   
+Ka'aihue K, 1b        4  0  1  0   Wells C, rf           1  0  1  0   
+Fields J, ph          1  0  0  0   Raburn R, lf          4  0  0  0   
+Pena B, c             4  1  2  0   Jackson A, cf         0  0  0  0   
+Gordon A, lf          4  1  1  0   Avila A, c            4  2  3  3   
+Betancourt Y, ss      4  1  4  3   Inge B, 3b            3  0  0  0   
+Maier M, rf           4  1  1  0   Santiago R, ss        4  0  2  1   
+                     -- -- -- --                        -- -- -- --
+                     40  5 16  4                        35  7 11  7
+
+Kansas City      000 050 000 --  5
+Detroit          013 002 01x --  7
+
+  Kansas City          IP  H  R ER BB SO
+Greinke Z (L)         6.0  8  6  5  2  3
+Chavez J              2.0  3  1  1  0  1
+
+  Detroit              IP  H  R ER BB SO
+Porcello R            5.1 12  5  5  0  2
+Thomas B (W)          1.2  2  0  0  1  1
+Schlereth D           1.0  1  0  0  0  3
+Perry R               0.1  1  0  0  0  0
+Coke P (S)            0.2  0  0  0  0  1
+
+E -- Betemit W
+DP -- Detroit 1
+LOB -- Kansas City 9, Detroit 6
+HR -- Betancourt Y, Rhymes W, Avila A
+CS -- Betancourt Y, Wells C
+T -- 2:43
+A -- 24382
+     Game of 9/21/2010 -- Kansas City at Detroit (N)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+Dyson J, cf           4  3  3  1   Jackson A, cf         4  0  0  1   
+Aviles M, 2b          6  1  3  3   Damon J, dh           5  0  0  0   
+Butler B, 1b          4  1  3  1   Raburn R, lf          4  1  1  1   
+Betemit W, 3b         4  1  1  0   Cabrera M, 1b         2  1  1  1   
+Ka'aihue K, dh        3  0  1  1   St. Pierre M, ph      1  0  0  0   
+Betancourt Y, ss      5  0  2  1   Wells C, rf           4  1  1  0   
+Gordon A, lf          4  1  0  0   Peralta J, ss         4  1  1  0   
+Miller J, rf          4  1  0  0   Sizemore S, 2b        2  1  1  0   
+May L, c              5  1  2  1   Rhymes W, ph-2b       1  1  1  1   
+                                   Inge B, 3b            4  0  2  1   
+                                   Laird G, c            3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  9 15  8                        34  6  9  5
+
+Kansas City      000 041 022 --  9
+Detroit          001 200 003 --  6
+
+  Kansas City          IP  H  R ER BB SO
+Chen B (W)            6.0  4  3  3  1  1
+Meche G               1.0  0  0  0  1  1
+Tejeda R              1.0  0  0  0  0  0
+Holland G             0.1  4  3  2  0  0
+Soria J (S)           0.2  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Galarraga A (L)       5.1  9  5  5  5  4
+Figaro A*             1.2  2  2  1  0  1
+Weinhardt R           1.0  1  0  0  0  0
+Bonine E              1.0  3  2  2  1  0
+  * Pitched to 2 batters in 8th
+
+E -- Galarraga A, Figaro A 2, Betemit W
+DP -- Detroit 1
+LOB -- Kansas City 11, Detroit 6
+2B -- Dyson J 2
+HR -- Raburn R, Cabrera M
+SB -- Dyson J
+CS -- Rhymes W
+SH -- Laird G, Dyson J
+SF -- Jackson A, Butler B
+HBP -- by Chen B (Raburn R)
+WP -- Galarraga A, Holland G
+PB -- Laird G
+T -- 3:07
+A -- 26178
+     Game of 9/22/2010 -- Kansas City at Detroit (N)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+Dyson J, cf           4  0  0  0   Jackson A, cf         4  1  1  0   
+Blanco G, lf          4  0  3  0   Rhymes W, 2b          4  0  0  0   
+Aviles M, 2b          4  1  0  0   Damon J, dh           4  0  1  1   
+Butler B, 1b          4  1  1  2   Cabrera M, 1b         3  1  1  0   
+Betemit W, 3b         4  0  0  0   Peralta J, ss         4  0  0  0   
+Ka'aihue K, dh        3  0  0  0   Raburn R, lf          3  1  2  0   
+Betancourt Y, ss      2  0  0  0   Boesch B, rf          3  1  1  2   
+Maier M, rf           2  0  0  0   Wells C, rf           0  0  0  0   
+May L, c              3  0  0  0   Inge B, 3b            3  0  1  1   
+                                   Avila A, c            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  2                        31  4  7  4
+
+Kansas City      000 000 002 --  2
+Detroit          000 030 01x --  4
+
+  Kansas City          IP  H  R ER BB SO
+Davies K (L)          8.0  7  4  4  1  6
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M (W)        7.2  2  0  0  2  8
+Perry R               0.1  0  0  0  0  1
+Coke P                1.0  2  2  2  0  1
+
+E -- Scherzer M
+DP -- Detroit 1
+LOB -- Kansas City 3, Detroit 4
+2B -- Blanco G, Boesch B, Damon J
+HR -- Butler B
+SB -- Blanco G, Jackson A
+WP -- Davies K
+T -- 2:20
+A -- 24678
+     Game of 9/24/2010 -- Minnesota at Detroit (N)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Span D, cf            4  1  2  0   Jackson A, cf         5  0  0  0   
+Hudson O, 2b          3  0  0  0   Sizemore S, 2b        3  1  1  0   
+Tolbert M, 2b         1  0  0  0   St. Pierre M, ph      1  0  0  0   
+Kubel J, dh           4  0  0  0   Rhymes W, 2b          0  0  0  0   
+Cuddyer M, 1b         4  0  1  1   Raburn R, lf          5  2  2  0   
+Young D, lf           4  0  0  0   Cabrera M, 1b         4  3  3  2   
+Valencia D, 3b        3  0  0  0   Kelly D, 1b           0  0  0  0   
+Morales J, c          3  0  0  0   Peralta J, ss         3  2  2  4   
+Revere B, rf          3  0  1  0   Wells C, rf           4  2  2  3   
+Casilla A, ss         1  0  0  0   Boesch B, dh          1  0  0  1   
+Plouffe T, ss         2  0  0  0   Damon J, ph           1  0  1  0   
+                                   Inge B, 3b            4  0  0  0   
+                                   Laird G, c            4  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  4  1                        35 10 13 10
+
+Minnesota        000 000 001 --  1
+Detroit          000 204 40x -- 10
+
+  Minnesota            IP  H  R ER BB SO
+Liriano F (L)*        3.0  4  2  2  1  4
+Manship J+            2.0  4  4  4  1  2
+Mijares J             1.0  0  0  0  0  1
+Burnett A             0.2  3  4  4  1  2
+Flores R              0.1  1  0  0  0  0
+Neshek P              1.0  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (W)       9.0  4  1  0  0 11
+  * Pitched to 3 batters in 4th
+  + Pitched to 4 batters in 6th
+
+E -- Peralta J, Rhymes W
+DP -- Minnesota 1
+LOB -- Minnesota 4, Detroit 5
+2B -- Sizemore S, Laird G, Damon J
+3B -- Wells C
+HR -- Cabrera M, Peralta J, Wells C
+SB -- Span D, Boesch B
+SF -- Boesch B
+T -- 2:49
+A -- 30083
+     Game of 9/25/2010 -- Minnesota at Detroit (N)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Span D, cf            7  2  4  1   Jackson A, cf         6  2  4  2   
+Hudson O, 2b          5  1  0  0   Kelly D, lf           3  1  2  2   
+Young D, lf           6  0  2  1   Raburn R, ph-lf       2  0  1  2   
+Cuddyer M, 1b         5  1  1  0   Laird G, c            1  0  0  0   
+Kubel J, dh           7  2  2  2   Damon J, dh           7  1  4  0   
+Valencia D, 3b        7  2  2  5   Cabrera M, 1b         6  2  2  2   
+Hardy J, ss           5  0  2  0   Peralta J, ss         7  0  2  1   
+Casilla A, pr-ss      0  0  0  0   Boesch B, rf          7  0  0  0   
+Repko J, rf           2  1  2  0   Inge B, 3b            6  1  1  1   
+Revere B, rf          3  0  0  0   Avila A, c            4  3  3  1   
+Butera D, c           5  1  1  0   Wells C, ph-lf        2  0  0  0   
+Morales J, ph-c       1  0  0  0   Santiago R, 2b        4  1  2  0   
+                                   Sizemore S, ph-2b     2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     53 10 16  9                        57 11 21 11
+
+Minnesota        500 050 000 000 0 -- 10
+Detroit          110 520 100 000 1 -- 11
+  1 out when winning run was scored.
+
+  Minnesota            IP  H  R ER BB SO
+Pavano C              4.0 11  7  7  0  2
+Perkins G             0.2  3  2  2  1  0
+Guerrier M            1.1  0  0  0  0  0
+Crain J               1.0  2  1  1  0  0
+Rauch J               1.0  1  0  0  0  2
+Fuentes B             2.0  1  0  0  0  1
+Mijares J             1.0  0  0  0  0  1
+Neshek P (L)*         1.0  2  1  1  0  3
+Flores R              0.1  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J+          4.0  9  7  7  2  2
+Bonine E              1.0  3  3  2  0  0
+Thomas B              2.0  1  0  0  0  1
+Perry R               2.1  0  0  0  0  0
+Coke P                1.2  1  0  0  0  1
+Weinhardt R           0.1  1  0  0  0  1
+Schlereth D (W)       1.2  1  0  0  2  3
+  * Pitched to 3 batters in 13th
+  + Pitched to 2 batters in 5th
+
+E -- Valencia D 2, Inge B, Boesch B
+DP -- Minnesota 1, Detroit 1
+LOB -- Minnesota 11, Detroit 13
+2B -- Young D, Span D
+3B -- Hardy J
+HR -- Valencia D 2, Avila A, Kelly D, Cabrera M, Kubel J
+SB -- Jackson A, Young D, Span D
+SH -- Hudson O
+SF -- Jackson A, Raburn R
+HBP -- by Bonderman J (Cuddyer M), by Bonine E (Repko J), by Perkins G (Inge B)
+WP -- Pavano C
+T -- 4:19
+A -- 34129
+     Game of 9/26/2010 -- Minnesota at Detroit (D)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Revere B, cf          4  0  1  0   Jackson A, cf         5  0  1  0   
+Hudson O, dh          4  0  1  0   Wells C, rf           3  1  1  0   
+Young D, lf           4  1  2  1   Raburn R, lf          4  0  1  0   
+Cuddyer M, 1b         4  0  0  0   Cabrera M, 1b         4  1  1  2   
+Kubel J, rf           4  0  0  0   Peralta J, dh         3  0  0  0   
+Valencia D, 3b        3  0  0  0   Inge B, 3b            3  1  1  0   
+Morales J, c          2  0  0  0   Sizemore S, 2b        3  1  1  0   
+Tolbert M, 2b         3  0  0  0   Damon J, ph           1  0  1  0   
+Punto N, ss           3  0  0  0   Rhymes W, 2b          0  0  0  0   
+                                   Santiago R, ss        2  1  1  3   
+                                   Laird G, c            4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  4  1                        32  5  8  5
+
+Minnesota        000 100 000 --  1
+Detroit          000 300 20x --  5
+
+  Minnesota            IP  H  R ER BB SO
+Duensing B (L)        6.2  7  5  5  4  3
+Rauch J               0.1  0  0  0  0  0
+Burnett A             1.0  1  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (W)        8.0  4  1  1  1  5
+Valverde J            1.0  0  0  0  0  1
+
+E -- Punto N
+LOB -- Minnesota 4, Detroit 8
+2B -- Jackson A, Inge B
+HR -- Young D, Santiago R, Cabrera M
+SB -- Hudson O
+SH -- Santiago R
+WP -- Porcello R
+T -- 2:15
+A -- 32021
+

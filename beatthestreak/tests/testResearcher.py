@@ -38,8 +38,12 @@ class TestResearcher(unittest.TestCase):
         # Edwin Jackon test
         self.assertFalse(R.did_get_hit(date(2012, 5, 2), p1))
 
-        # Jose Reyes Tests
+        # Jose Reyes Tests (and one Albert Pujols)
         self.assertTrue(R.did_get_hit(date(2012, 6, 16), p2))
+        Albert = Player(0, "Albert", "Pujols", 2012)
+        # tests following. If R looks up a hit on date d1, it can succesfully
+        # look up a hit for the first listed game on the gamelog for date d1 + 1 day
+        self.assertTrue(R.did_get_hit(date(2012, 6, 17), Albert))
         self.assertTrue(R.did_get_hit(date(2005, 4, 4), p2))
         self.assertTrue(R.did_get_hit(date(2003, 7, 12), p2))
         self.assertFalse(R.did_get_hit(date(2012, 6, 15), p2))
@@ -143,7 +147,13 @@ class TestResearcher(unittest.TestCase):
             participants_2007_5_2) # May 1st CHN @ PIT suspended game completed on May 2
 
     def test_find_home_team(self):
+    	Troy = Player(0, "Troy", "Tulowitzki", 2010)
     	self.assertEqual(R.find_home_team(date(2011, 8, 3), p1), "MIL")
+    	## tests that the function works when used on consecutive days
+    	## and on the second day the relevant game is the FIRST such game
+    	## listed in the gamelog on the date. Why? To test that the optimizations
+    	## in __get_list_of_games didn't screw everything up
+    	self.assertEqual(R.find_home_team(date(2011, 8, 4), Troy), "COL")
         self.assertEqual(R.find_home_team(date(2012, 5, 2), p1), "WAS")
         self.assertEqual(R.find_home_team(date(2012, 6, 15), p2), "TBA")
         self.assertEqual(R.find_home_team(date(2013, 9, 20), p2), "BOS")

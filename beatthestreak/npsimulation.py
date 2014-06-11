@@ -99,7 +99,6 @@ class NPSimulation(Simulation):
         Simulates the next day
         """
         assert type(doubleDown) == bool
-
         if doubleDown:
             self.__sim_next_day_double()
         else:
