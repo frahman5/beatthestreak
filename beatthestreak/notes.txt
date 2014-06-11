@@ -32,4 +32,7 @@ Notes:
     -> install FellThroughExceptions on all appropriate functions
     -> If putting up on github, test filepath.get_root() so that it returns
     the right stirng REGARDLESS of what the cwd is or which module is calling in
+    -> Update reporting to include
+        -> minPA
+        -> player choice method
        

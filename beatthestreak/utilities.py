@@ -63,8 +63,8 @@ class Utilities(object):
         year: int | year of interest
         team: str | three letter abbreviation representing team of interest
 
-        Checks if gamelog files for year year are on drive. If not, 
-        downloads them
+        Checks if boxscore files for year year are on drive. If not, 
+        generates them
         """
         assert type(year) == int
         assert type(team) == str

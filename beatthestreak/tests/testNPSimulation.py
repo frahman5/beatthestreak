@@ -1,7 +1,7 @@
 import unittest
 import os
 
-from datetime import date
+from datetime import date, timedelta
 
 from beatthestreak.tests import setup, teardown
 from beatthestreak.npsimulation import NPSimulation
@@ -9,6 +9,7 @@ from beatthestreak.exception import DifficultYearException
 from beatthestreak.player import Player
 from beatthestreak.bot import Bot
 from beatthestreak.filepath import Filepath
+from beatthestreak.researcher import Researcher
 
 
 class TestNPSimulation(unittest.TestCase):
@@ -40,14 +41,14 @@ class TestNPSimulation(unittest.TestCase):
     def tearDown(self):
         teardown()
 
-    @unittest.skip("Not Focus")
+    #@unittest.skip("Not Focus")
     def test_start_date_in_init(self):
         self.assertEqual(self.npSim2010_1.get_date(), date(2010, 4, 4))
         self.npSim2010WithStartDate = NPSimulation(
             2010, 2010, 100, 35, startDate=date(2010,6,7))
         self.assertEqual(self.npSim2010WithStartDate.get_date(),date(2010,6,7))
 
-    @unittest.skip("Too long")
+    #@unittest.skip("Too long")
     def test_setup(self):
         self.npSim2003_2002.setup() # sets up the simulation
 
@@ -74,7 +75,7 @@ class TestNPSimulation(unittest.TestCase):
         ## test that min_bat_ave is calculated and initalized correctly
         self.assertEqual(self.npSim2003_2002.get_min_bat_ave(), 0.308)
 
-    @unittest.skip("Too long")
+    #@unittest.skip("Too long")
     def test_calc_and_get_min_bat_ave(self): 
         self.npSim2010_1.setup() 
         self.npSim2010_2.setup()
@@ -86,32 +87,34 @@ class TestNPSimulation(unittest.TestCase):
         self.assertEqual(self.npSim2001_2.get_min_bat_ave(), 0.319)
         self.assertRaises(DifficultYearException, NPSimulation, 1981, 1981, 100, 35)
         self.assertRaises(DifficultYearException, NPSimulation, 1950, 1950, 42, 7)
-
-    @unittest.skip("Too long")
+## Have to test doubleDowns!!
+    #@unittest.skip("Too long")
     def test_simulate(self):
         # check that test results folder is empty
         self.assertEqual(os.listdir(Filepath.get_results_folder(
             year=2010, test=True)), [])
-        # Run the simulation
-        self.npSim2010_2.simulate(test=True)
+        # Run the simulation, shortened to save time
+        self.npSim2010_2.simulate(test=True, numDays=10)
         # Check that the results file is now there
-        self.assertTrue(os.path.isfile(Filepath.get_results_file(2010, test=True)))
-        
-        # Check that the simulation runs in non-test mode as well
-        self.npSim2010_2 = NPSimulation(2010, 2010, 100, 20)
-        self.npSim2010_2.simulate()
+        openingDay = Researcher.get_opening_day(2010)
+        closingDay = openingDay + timedelta(days=9)
+        self.assertTrue(os.path.isfile(Filepath.get_results_file(
+            2010, 2010, 100, 20, openingDay, closingDay, test=True)))
 
-    @unittest.skip("Too long")
+        print "Remember to test a doubleDown"
+
+    @unittest.skip("Not Yet")
     def test_mass_simulate(self):
         # just checks that it runs
         self.npSim2001_1.mass_simulate((2001, 2002), (1, 3), (1, 5), (1, 5), 
-            Test=True)
+            test=True)
 
-    @unittest.skip("Not Focus")
+    #@unittest.skip("Not Focus")
     def test_get_year(self):
         self.assertEqual(self.npSim2010_1.get_sim_year(), 2010)
         self.assertEqual(self.npSim2001_2.get_sim_year(), 2001)
 
+    #@unittest.skip("Not focus")
     def test_sim_next_day_without_double_down(self):
         p0, p1, p2, p3, p4, p5, p6, p7, p8, p9 = self.players2003_2002[0:10]
         p10, p11, p12, p13, p14, p15, p16, p17, p18, p19 = self.players2003_2002[10:20]
@@ -136,7 +139,7 @@ class TestNPSimulation(unittest.TestCase):
                       p11, p12, p13, p15, p16, p17, p18, p19, p0, p1, 
                       p2, p3, p4, p5, p6, p7, p8, p9, p11, p12, 
                       p13, p15, p16, p17, p18, p19, p0, p1, p2, p3]
-        BotPlayers = [(player, None) for player in botPlayersRaw]
+        botPlayers = [(player, None) for player in botPlayersRaw]
         botStreaks = [2,0,2,2,2,2,0,0,2,0, 
                       0,0,2,0,2,2,2,2,2,0,
                       2,2,2,2,0,0,2,0,0,0,
@@ -196,7 +199,7 @@ class TestNPSimulation(unittest.TestCase):
         # bot with luiz gongalez got a 'pass', not a boolean true or false
         botPlayerHistories[-1] = [(
             Player(14, "Luis", "Gonzalez", 2001, debut='9/4/1990'), None,
-            'pass', None, date(2001,7,18), 1, "Suspended, Invalid")] 
+            'pass', None, date(2001,7,18), 1, "Suspended, Invalid.")] 
 
         self.assertEqual((len(bots)), 15) # check that bots are not empty
         self.assertEqual([bot.get_players() for bot in bots], botPlayers)
@@ -223,11 +226,12 @@ class TestNPSimulation(unittest.TestCase):
             [[(p14, None, True, None, date(2003, 3, 30), 1, None)]] * 40)
         self.assertEqual(self.npSim2003_2002.get_date(), date(2003, 3, 31))
         
+        print "we get psat the first day"
         ######## check that an arbitrary day-May 14-works (TEST 2)
             # set date and simulate
         self.npSim2003_2002.set_date(date(2003, 5, 14))
-        self.npSim2003_2002.sim_next_day()
-            
+        self.npSim2003_2002.sim_next_day(doubleDown=True)
+        print "we simmed the seconnd day"
             # write down correct answers
         botPlayers = [
             (p0, p1), (p2, p3), (p4, p5), (p6, p7), (p8, p9), (p11, p12), 
@@ -245,14 +249,14 @@ class TestNPSimulation(unittest.TestCase):
                     0, 3, 3, 0]
         bools = [
             (True, False), (True, True), (True, True), (False, False), 
-            (True, False), (False. False), (True, False), (True, True), 
-            (True. True), (True, False), (True, True), (True, True), 
-            (False, False), (True, False), (False. False), (True, False), 
-            (True, True), (True. True), (True, False), (True, True), 
-            (True, True), (False, False), (True, False), (False. False), 
-            (True, False), (True, True), (True. True), (True, False), 
+            (True, False), (False, False), (True, False), (True, True), 
+            (True, True), (True, False), (True, True), (True, True), 
+            (False, False), (True, False), (False, False), (True, False), 
+            (True, True), (True, True), (True, False), (True, True), 
+            (True, True), (False, False), (True, False), (False, False), 
+            (True, False), (True, True), (True, True), (True, False), 
             (True, True), (True, True), (False, False), (True, False), 
-            (False. False), (True, False), (True, True), (True. True), 
+            (False, False), (True, False), (True, True), (True, True), 
             (True, False), (True, True), (True, True), (False, False)]
         botDates = [date(2003, 5, 14)] * 40
         day2resultsRaw = zip(zip(botPlayers, bools), zip(botDates, botStreaks))
@@ -261,15 +265,20 @@ class TestNPSimulation(unittest.TestCase):
         botPlayerHistories = [
             [(p14, None, True, None, date(2003, 3, 30), 1, None), day2] for \
               day2 in day2results]
-             
+        
+        print "we setup checks for day 2"
         self.assertEqual(len(bots), 40) # check that bots are not empty
+        print "len checks out"
+        for i in xrange(40):
+            print "{0}: {1}, {2}".format(i,bots[i].get_players(), botPlayers[i])
         self.assertEqual([bot.get_players() for bot in bots], botPlayers)
+        print "players checks out"
         self.assertEqual([bot.get_streak_length() for bot in bots], botStreaks)
         self.assertEqual([bot.get_history() for bot in bots], 
                          botPlayerHistories)
         self.assertEqual(self.npSim2003_2002.get_date(), date(2003, 5, 15))
 
-    @unittest.skip("Not focus")
+    #@unittest.skip("Not focus")
     def test_bat_years_ms(self):
         # private function
         sim = NPSimulation(2012, 2012, 50, 50)

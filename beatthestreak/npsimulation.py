@@ -131,6 +131,7 @@ class NPSimulation(Simulation):
         # update the date
         self.incr_date()
 
+    # @profile
     def __sim_next_day_double(self):
         """
         None -> None
@@ -161,10 +162,10 @@ class NPSimulation(Simulation):
             p2 = activePlayers[p2Index]
             bot.update_history(p1=p1, p2=p2, date=today, 
                 susGamesDict=self.susGamesDict)
-
         # update the date
         self.incr_date()
 
+    # @profile
     def simulate(self, numDays='max', anotherSim=False, test=False):
         """
         int|string  bool string-> None
@@ -204,26 +205,25 @@ class NPSimulation(Simulation):
 
         # simulate days until lastDate reached or elapsedDays equals numDays
         elapsedDays = 0
+        sim_next_day = self.sim_next_day
+        update_pbar = pbar.update
         while True:
             if (numDays=='max') and (self.currentDate >= lastDate):
-                Reporter.report_results()
+                Reporter.report_results(test=test)
                 break
             if (type(numDays) == int) and elapsedDays >= numDays:
-                Reporter.report_results()
+                Reporter.report_results(test=test)
                 break
-            self.sim_next_day(doubleDown=self.doubleDown)
+            sim_next_day(doubleDown=self.doubleDown)
             elapsedDays += 1
-            # print "maxVal : {}".format(maxVal)
-            # print "elapsedDays: {}".format(elapsedDays)
-            # print "self.currentDate: {}".format(self.currentDate)
-            pbar.update(elapsedDays)
+            update_pbar(elapsedDays)
         pbar.finish()
 
         # close up shop
         if anotherSim:
             self.set_setup(value=False)
-        else:
-            self.close() 
+        # else:
+        #     self.close() 
 
     def mass_simulate(self, simYearRange, simMinBatRange, NRange, PRange, 
             Test=False, doubleDown=False):
@@ -475,6 +475,9 @@ class NPSimulation(Simulation):
         {p1, p2, .., pP}, pi_bat_ave >= f.
         """ 
         return self.players[-1].get_bat_ave()
+
+    def get_double_down(self):
+        return self.doubleDown
 
 def main(*args):
     """

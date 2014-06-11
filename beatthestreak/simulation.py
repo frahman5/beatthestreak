@@ -55,9 +55,8 @@ class Simulation(object):
     	Downloads and parses necessary retrosheet data for the simulation
     	"""
         retro = Retrosheet(self.simYear)
-        retro.download_and_unzip(typeT='event')
-        retro.download_and_unzip(typeT='gamelog')
-        retro.gen_boxscores()
+        Utilities.ensure_gamelog_files_exist(self.simYear)
+        Utilities.ensure_boxscore_files_exist(self.simYear, 'HOU')
         retro.clean_used_files()
 
     def close(self):

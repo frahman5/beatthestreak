@@ -63,6 +63,7 @@ class Bot(object):
         elif not p2:
             self.__update_history_single_down(p1, date, susGamesDict)
 
+    # @profile
     def __update_history_double_down(self, p1, p2, date, susGamesDict):
         """
         Player Player date dict -> None

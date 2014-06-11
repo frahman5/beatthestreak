@@ -29,9 +29,12 @@ class Researcher(object):
           Has keys from 1963 to 2013, as this was written in 2014 and
           simulations before 1963 would have a different flavor since
           seasons were shorter
+        listOfGamesBuffer: a tuple of (date, liftOfGamesonDate)
+           holds the last calculated listOfGames tuple, prefixed by its date
     """
     openAndCloseDays = {1963: (datetime.date(1963, 4, 8), datetime.date(1963, 9, 29)), 1964: (datetime.date(1964, 4, 13), datetime.date(1964, 10, 4)), 1965: (datetime.date(1965, 4, 12), datetime.date(1965, 10, 3)), 1966: (datetime.date(1966, 4, 11), datetime.date(1966, 10, 2)), 1967: (datetime.date(1967, 4, 10), datetime.date(1967, 10, 1)), 1968: (datetime.date(1968, 4, 10), datetime.date(1968, 9, 29)), 1969: (datetime.date(1969, 4, 7), datetime.date(1969, 10, 2)), 1970: (datetime.date(1970, 4, 6), datetime.date(1970, 10, 1)), 1971: (datetime.date(1971, 4, 5), datetime.date(1971, 9, 30)), 1972: (datetime.date(1972, 4, 15), datetime.date(1972, 10, 4)), 1973: (datetime.date(1973, 4, 5), datetime.date(1973, 10, 1)), 1974: (datetime.date(1974, 4, 4), datetime.date(1974, 10, 2)), 1975: (datetime.date(1975, 4, 7), datetime.date(1975, 9, 28)), 1976: (datetime.date(1976, 4, 8), datetime.date(1976, 10, 3)), 1977: (datetime.date(1977, 4, 6), datetime.date(1977, 10, 2)), 1978: (datetime.date(1978, 4, 5), datetime.date(1978, 10, 2)), 1979: (datetime.date(1979, 4, 4), datetime.date(1979, 9, 30)), 1980: (datetime.date(1980, 4, 9), datetime.date(1980, 10, 6)), 1981: (datetime.date(1981, 4, 8), datetime.date(1981, 10, 5)), 1982: (datetime.date(1982, 4, 5), datetime.date(1982, 10, 3)), 1983: (datetime.date(1983, 4, 4), datetime.date(1983, 10, 2)), 1984: (datetime.date(1984, 4, 2), datetime.date(1984, 9, 30)), 1985: (datetime.date(1985, 4, 8), datetime.date(1985, 10, 6)), 1986: (datetime.date(1986, 4, 7), datetime.date(1986, 10, 5)), 1987: (datetime.date(1987, 4, 6), datetime.date(1987, 10, 4)), 1988: (datetime.date(1988, 4, 4), datetime.date(1988, 10, 2)), 1989: (datetime.date(1989, 4, 3), datetime.date(1989, 10, 1)), 1990: (datetime.date(1990, 4, 9), datetime.date(1990, 10, 3)), 1991: (datetime.date(1991, 4, 8), datetime.date(1991, 10, 6)), 1992: (datetime.date(1992, 4, 6), datetime.date(1992, 10, 4)), 1993: (datetime.date(1993, 4, 5), datetime.date(1993, 10, 3)), 1994: (datetime.date(1994, 4, 3), datetime.date(1994, 8, 11)), 1995: (datetime.date(1995, 4, 25), datetime.date(1995, 10, 2)), 1996: (datetime.date(1996, 3, 31), datetime.date(1996, 9, 29)), 1997: (datetime.date(1997, 4, 1), datetime.date(1997, 9, 28)), 1998: (datetime.date(1998, 3, 31), datetime.date(1998, 9, 28)), 1999: (datetime.date(1999, 4, 4), datetime.date(1999, 10, 4)), 2000: (datetime.date(2000, 3, 29), datetime.date(2000, 10, 1)), 2001: (datetime.date(2001, 4, 1), datetime.date(2001, 10, 7)), 2002: (datetime.date(2002, 3, 31), datetime.date(2002, 9, 29)), 2003: (datetime.date(2003, 3, 30), datetime.date(2003, 9, 28)), 2004: (datetime.date(2004, 3, 30), datetime.date(2004, 10, 3)), 2005: (datetime.date(2005, 4, 3), datetime.date(2005, 10, 2)), 2006: (datetime.date(2006, 4, 2), datetime.date(2006, 10, 1)), 2007: (datetime.date(2007, 4, 1), datetime.date(2007, 10, 1)), 2008: (datetime.date(2008, 3, 25), datetime.date(2008, 9, 30)), 2009: (datetime.date(2009, 4, 5), datetime.date(2009, 10, 6)), 2010: (datetime.date(2010, 4, 4), datetime.date(2010, 10, 3)), 2011: (datetime.date(2011, 3, 31), datetime.date(2011, 9, 28)), 2012: (datetime.date(2012, 3, 28), datetime.date(2012, 10, 3)), 2013: (datetime.date(2013, 3, 31), datetime.date(2013, 9, 30))}
-    
+    listOfGamesBuffer = (None, ())
+
     # regular expression for matching retrosheet ids
     retroP = re.compile(r"""
         [a-z]{2}        # first two letters of last name
@@ -146,23 +149,20 @@ class Researcher(object):
         assert type(date) == datetime.date
         self.check_date(date, date.year)
 
-        year = date.year
-        date = Utilities.convert_date(date)
-        Utilities.ensure_gamelog_files_exist(year)
+        Utilities.ensure_gamelog_files_exist(date.year)
+        dateRFormat = Utilities.convert_date(date)
         
         # get list of games played on this date
-        with open(Filepath.get_retrosheet_file(folder='unzipped', 
-            fileF='gamelog', year=year), "r") as f:
-            list_of_games = [line.replace('"', '').split(',') for line in f 
-                             if date in line]
+        listOfGames = self.__get_list_of_games(date)
 
         # Find the game that player played in, and get the home team
         # we check if date in game[0] because a game may have ended up in 
         # in the list from some incomplete game thats being completed on a later
         # date. See Lance Berkman, 2009-July-9th
-        homeTeamList = [game[6] for game in list_of_games  
+        homeTeamList = [game[6] for game in listOfGames  
                         if player.get_retrosheet_id() in game 
-                        and date in game[0]]
+                        and dateRFormat in game[0]]
+
         return homeTeamList[0]
 
     @classmethod
@@ -232,25 +232,40 @@ class Researcher(object):
         """
         assert type(date) == datetime.date
         self.check_date(date, date.year)
-        dateRFormat = Utilities.convert_date(date) # date in yyyymmdd format
-
         Utilities.ensure_gamelog_files_exist(date.year)
 
         # extract all the games on the given date
-        gamelogPath = Filepath.get_retrosheet_file(folder='unzipped', 
-            fileF='gamelog', year=date.year)
-        with open(gamelogPath, "r") as f:
-            list_of_games = [
+        listOfGames = self.__get_list_of_games(date)
+
+        # get the retrosheet ids from the games and return the list 
+        return [field for game in listOfGames for field in game 
+                    if re.match(self.retroP, field)]
+
+    @classmethod
+    def __get_list_of_games(self, date):
+        """
+        date -> tupleOfStrings
+
+        Helper function. Gets a list of the lines from the gamelog for date.year
+        and returns it
+        """
+        dateRFormat = Utilities.convert_date(date)
+
+        if self.listOfGamesBuffer[0] == date:
+            listOfGames = self.listOfGamesBuffer[1]
+            return listOfGames
+
+        with open(Filepath.get_retrosheet_file(folder='unzipped', 
+            fileF='gamelog', year=date.year), "r") as f:
+            listOfGames = tuple([
                 line.replace('"', '').split(',') # get a list of entries in line
                 for line in f                   # iterate through all lines in f
-                if dateRFormat in line[0:10]] 
+                if dateRFormat in line[0:10]])
                    # by checking that the date is in the first 10 spots, we 
                    # gaurd against taking participants that played on the date
                    # a suspended game was completed. 
-
-        # get the retrosheet ids from the games and return the list 
-        return [field for game in list_of_games for field in game 
-                    if re.match(self.retroP, field)]
+            self.listOfGamesBuffer = (date, listOfGames)
+        return listOfGames
 
     @classmethod
     def get_opening_day(self, year):

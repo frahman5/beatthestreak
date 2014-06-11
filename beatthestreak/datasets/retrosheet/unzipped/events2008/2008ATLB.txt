@@ -1,0 +1,3866 @@
+     Game of 3/31/2008 -- Pittsburgh at Atlanta (N)
+
+  Pittsburgh         AB  R  H RBI    Atlanta            AB  R  H RBI
+McLouth N, cf         5  2  3  4   Johnson K, 2b         2  1  1  0   
+Sanchez F, 2b         5  0  3  0   Prado M, 2b           3  1  0  0   
+Bay J, lf             6  1  0  0   Escobar Y, ss         4  2  3  3   
+LaRoche A, 1b         6  1  2  0   Jones C, 3b           6  1  2  3   
+Nady X, rf            7  4  4  4   Teixeira M, 1b        6  0  0  0   
+Doumit R, c           7  1  3  0   McCann B, c           6  1  2  3   
+Bautista J, 3b        5  1  1  2   Francoeur J, rf       5  1  1  1   
+Wilson J, ss          4  1  0  0   Kotsay M, cf          4  2  2  0   
+Snell I, p            1  0  0  0   Diaz M, lf            6  0  1  1   
+Morgan N, ph          1  1  1  0   Glavine T, p          1  1  0  0   
+Yates T, p            0  0  0  0   Resop C, p            0  0  0  0   
+Mientkiewicz D, ph    1  0  0  0   Ohman W, p            0  0  0  0   
+Grabow J, p           0  0  0  0   Moylan P, p           0  0  0  0   
+Gomez C, ph           0  0  0  0   Ring R, p             0  0  0  0   
+Marte D, p            0  0  0  0   Blanco G, ph          1  0  0  0   
+Capps M, p            0  0  0  0   Acosta M, p           0  0  0  0   
+Osoria F, p           1  0  0  0   Bennett J, p          0  0  0  0   
+                                   Gotay R, ph           0  1  0  0   
+                                   Soriano R, p          0  0  0  0   
+                                   Pena B, ph            1  0  0  0   
+                                   Boyer B, p            0  0  0  0   
+                                   Miller C, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     49 12 17 10                        46 11 12 11
+
+Pittsburgh       010 101 141 003 -- 12
+Atlanta          003 100 005 002 -- 11
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I               6.0  7  4  4  2  3
+Yates T               1.0  0  0  0  1  1
+Grabow J              1.0  0  0  0  0  1
+Marte D               0.1  0  2  2  2  1
+Capps M               0.2  2  3  3  2  0
+Osoria F (W)          3.0  3  2  2  1  1
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T             5.0  7  2  1  2  3
+Resop C               1.0  1  1  1  0  0
+Ohman W               0.1  1  1  0  0  0
+Moylan P              0.1  0  0  0  0  0
+Ring R                0.1  0  0  0  0  1
+Acosta M              0.2  3  4  4  1  1
+Bennett J             1.1  2  1  1  2  2
+Soriano R             1.0  1  0  0  1  1
+Boyer B (L)           2.0  2  3  3  1  3
+
+E -- Johnson K, Escobar Y, Jones C
+DP -- Pittsburgh 2, Atlanta 1
+LOB -- Pittsburgh 12, Atlanta 7
+2B -- LaRoche A, Bautista J, Nady X, Morgan N, Sanchez F, Kotsay M
+3B -- Escobar Y
+HR -- McCann B, Nady X 2, McLouth N, Francoeur J
+SH -- Snell I, McLouth N, Bautista J, Sanchez F
+WP -- Snell I, Acosta M, Bennett J
+T -- 4:28
+A -- 45269
+     Game of 4/2/2008 -- Pittsburgh at Atlanta (N)
+
+  Pittsburgh         AB  R  H RBI    Atlanta            AB  R  H RBI
+McLouth N, cf         4  0  1  0   Prado M, 2b           4  3  2  1   
+Sanchez F, 2b         4  1  2  0   Escobar Y, ss         4  1  2  3   
+Bay J, lf             2  1  1  0   Jones C, 3b           3  1  2  2   
+LaRoche A, 1b         4  0  0  0   Teixeira M, 1b        4  1  1  2   
+Nady X, rf            3  0  1  2   Francoeur J, rf       4  1  2  0   
+Doumit R, c           4  0  2  0   McCann B, c           3  1  1  0   
+Bautista J, 3b        4  0  0  0   Diaz M, lf            4  1  2  2   
+Wilson J, ss          4  0  0  0   Kotsay M, cf          4  1  0  0   
+Gorzelanny T, p       2  0  0  0   Jurrjens J, p         2  0  0  0   
+Gomez C, ph           1  0  0  0   Bennett J, p          0  0  0  0   
+Grabow J, p           0  0  0  0   Acosta M, p           0  0  0  0   
+Yates T, p            0  0  0  0   Pena B, ph            1  0  1  0   
+Marte D, p            0  0  0  0   Moylan P, p           0  0  0  0   
+Meek E, p             0  0  0  0   Ring R, p             0  0  0  0   
+Rivas L, ph           1  0  0  0   Resop C, p            0  0  0  0   
+                                   Gotay R, ph           1  0  0  0   
+                                   Ohman W, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        34 10 13 10
+
+Pittsburgh       000 002 000 --  2
+Atlanta          101 100 07x -- 10
+
+  Pittsburgh           IP  H  R ER BB SO
+Gorzelanny T (L)      6.0  6  3  3  3  3
+Grabow J              0.1  1  0  0  0  0
+Yates T*              0.2  0  1  1  1  1
+Marte D               0.1  4  4  4  0  0
+Meek E                0.2  2  2  2  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J (W)        5.1  7  2  2  1  5
+Bennett J             0.2  0  0  0  0  0
+Acosta M              1.0  0  0  0  0  0
+Moylan P              0.1  0  0  0  1  0
+Ring R                0.1  0  0  0  0  1
+Resop C               0.1  0  0  0  1  0
+Ohman W               1.0  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Sanchez F
+DP -- Pittsburgh 2, Atlanta 1
+LOB -- Pittsburgh 7, Atlanta 5
+2B -- McLouth N
+3B -- Prado M
+HR -- Diaz M, Teixeira M, Escobar Y
+SF -- Jones C
+T -- 2:57
+A -- 17893
+     Game of 4/3/2008 -- Pittsburgh at Atlanta (N)
+
+  Pittsburgh         AB  R  H RBI    Atlanta            AB  R  H RBI
+McLouth N, cf-lf      5  1  1  0   Prado M, 2b           4  0  1  0   
+Wilson J, ss          4  0  1  1   Escobar Y, ss         5  0  1  0   
+Snell I, pr           0  0  0  0   Jones C, 3b           5  1  3  0   
+Grabow J, p           0  0  0  0   Teixeira M, 1b        5  0  0  0   
+Yates T, p            0  0  0  0   Francoeur J, rf       5  1  1  0   
+Morgan N, ph-cf       0  1  0  0   Diaz M, lf            4  0  2  1   
+Sanchez F, 2b         3  0  0  1   Ring R, p             0  0  0  0   
+Rivas L, 2b-ss        1  0  0  0   Blanco G, lf          1  0  0  0   
+Bay J, lf             2  0  1  0   Kotsay M, cf          5  1  2  0   
+Capps M, p            0  0  0  0   Miller C, c           4  0  1  1   
+LaRoche A, 1b         5  0  0  0   McCann B, ph          1  0  0  0   
+Nady X, rf            4  0  1  1   Bennett J, p          1  0  0  0   
+Bautista J, 3b        4  1  1  0   Boyer B, p            1  0  0  0   
+Paulino R, c          4  0  1  1   Pena B, ph            1  0  0  0   
+Duke Z, p             2  0  0  0   Ohman W, p            0  0  0  0   
+Osoria F, p           0  0  0  0   Acosta M, p           0  0  0  0   
+Gomez C, ph-2b        2  1  0  0   Gotay R, ph           1  0  0  0   
+                                   Soriano R, p          0  0  0  0   
+                                   Resop C, p-lf-p       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4  6  4                        43  3 11  2
+
+Pittsburgh       001 100 100 1 --  4
+Atlanta          000 003 000 0 --  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z                5.2 10  3  2  1  1
+Osoria F              0.1  0  0  0  0  1
+Grabow J              2.0  0  0  0  0  3
+Yates T (W)           1.0  0  0  0  0  1
+Capps M (S)           1.0  1  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Bennett J             4.0  4  2  2  2  3
+Boyer B               2.0  0  0  0  0  3
+Ohman W               0.2  1  1  0  0  0
+Acosta M              1.1  0  0  0  1  1
+Soriano R             1.0  0  0  0  0  2
+Resop C (L)           0.1  0  0  0  2  0
+Ring R                0.1  0  0  0  0  1
+Resop C (L)           0.1  1  1  1  0  0
+
+E -- Wilson J, Prado M, Rivas L, Bautista J
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 9, Atlanta 11
+2B -- McLouth N, Bautista J, Paulino R, Prado M
+3B -- Kotsay M
+SH -- Rivas L
+HBP -- by Bennett J (Nady X)
+PB -- Miller C 2
+T -- 3:21
+A -- 19240
+     Game of 4/5/2008 -- New York at Atlanta (D)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Reyes J, ss           5  0  1  1   Escobar Y, ss         3  1  0  0   
+Castillo L, 2b        5  0  0  1   Kotsay M, cf          5  1  2  1   
+Wright D, 3b          4  0  0  0   Jones C, 3b           5  1  3  0   
+Beltran C, cf         4  1  2  0   Teixeira M, 1b        3  2  2  1   
+Delgado C, 1b         4  2  2  1   McCann B, c           3  2  1  1   
+Church R, rf          4  1  2  0   Francoeur J, rf       5  1  3  3   
+Pagan A, lf           3  1  1  2   Diaz M, lf            5  0  1  1   
+Schneider B, c        4  0  1  0   Prado M, 2b           3  1  1  0   
+Maine J, p            1  0  0  0   Hudson T, p           2  0  0  0   
+Clark B, ph           0  0  0  0   Gotay R, ph           1  1  1  0   
+Smith J, p            0  0  0  0   Moylan P, p           0  0  0  0   
+Schoeneweis S, p      0  0  0  0   Johnson K, ph         1  1  1  4   
+Chavez E, ph          1  0  1  0   Ring R, p             0  0  0  0   
+Sosa J, p             0  0  0  0   Soriano R, p          0  0  0  0   
+Figueroa N, p         0  0  0  0                                      
+Anderson M, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5 10  5                        36 11 15 11
+
+New York         010 020 020 --  5
+Atlanta          102 101 42x -- 11
+
+  New York             IP  H  R ER BB SO
+Maine J (L)           4.0  8  4  4  3  5
+Smith J               1.1  1  1  1  0  1
+Schoeneweis S         0.2  1  0  0  0  0
+Sosa J                1.0  3  4  4  1  2
+Figueroa N            1.0  2  2  2  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (W)          6.0  6  3  3  0  4
+Moylan P              1.0  2  0  0  0  0
+Ring R                1.0  2  2  2  0  0
+Soriano R             1.0  0  0  0  0  1
+
+LOB -- New York 6, Atlanta 8
+2B -- McCann B, Beltran C, Delgado C, Francoeur J
+HR -- Johnson K
+SB -- Prado M
+SH -- Escobar Y
+SF -- McCann B, Pagan A
+HBP -- by Hudson T (Clark B)
+T -- 3:27
+A -- 36130
+     Game of 4/6/2008 -- New York at Atlanta (D)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Reyes J, ss           4  0  0  0   Johnson K, 2b         4  0  1  0   
+Castillo L, 2b        4  0  0  0   Escobar Y, ss         4  0  1  1   
+Wright D, 3b          2  1  0  0   Jones C, 3b           3  1  0  0   
+Beltran C, cf         3  0  0  0   Teixeira M, 1b        4  1  1  2   
+Delgado C, 1b         4  0  2  0   Francoeur J, rf       4  0  1  0   
+Church R, rf          4  0  1  1   Diaz M, lf            3  0  2  0   
+Pagan A, lf           3  0  0  0   McCann B, c           3  0  1  0   
+Schneider B, c        4  0  1  0   Kotsay M, cf          3  1  1  0   
+Santana J, p          2  0  1  0   Smoltz J, p           0  0  0  0   
+Anderson M, ph        1  0  0  0   Gotay R, ph           1  0  0  0   
+Heilman A, p          0  0  0  0   Boyer B, p            0  0  0  0   
+                                   Ohman W, p            0  0  0  0   
+                                   Pena B, ph            1  0  0  0   
+                                   Moylan P, p           0  0  0  0   
+                                   Soriano R, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        30  3  8  3
+
+New York         000 000 001 --  1
+Atlanta          001 000 02x --  3
+
+  New York             IP  H  R ER BB SO
+Santana J (L)         7.0  7  1  1  0  3
+Heilman A             1.0  1  2  2  1  1
+
+  Atlanta              IP  H  R ER BB SO
+Smoltz J (W)          5.0  2  0  0  2  6
+Boyer B               1.0  0  0  0  0  2
+Ohman W               1.0  1  0  0  0  0
+Moylan P              1.0  1  0  0  0  0
+Soriano R (S)         1.0  1  1  1  2  1
+
+DP -- New York 1, Atlanta 1
+LOB -- New York 7, Atlanta 5
+2B -- Santana J, Kotsay M, Escobar Y, Francoeur J, McCann B
+HR -- Teixeira M
+SB -- Diaz M, Anderson M
+SH -- Smoltz J
+T -- 2:35
+A -- 39414
+     Game of 4/18/2008 -- Los Angeles at Atlanta (N)
+
+  Los Angeles        AB  R  H RBI    Atlanta            AB  R  H RBI
+Furcal R, ss          3  0  1  0   Johnson K, 2b         4  1  0  0   
+Kemp M, rf            3  0  0  0   Escobar Y, ss         4  1  1  0   
+Ethier A, lf          4  0  0  0   Jones C, 3b           5  2  3  4   
+Kent J, 2b            3  0  1  0   Teixeira M, 1b        5  1  1  0   
+Loney J, 1b           4  0  0  0   McCann B, c           4  1  2  0   
+Martin R, c           3  0  0  0   Francoeur J, rf       3  0  1  1   
+Jones A, cf           3  1  1  0   Kotsay M, cf          3  0  1  0   
+Garciaparra N, 3b     4  0  0  0   Blanco G, lf          3  0  2  1   
+Lowe D, p             2  0  1  0   Bennett J, p          1  0  0  0   
+Kuo H, p              0  0  0  0   Ohman W, p            0  0  0  0   
+Proctor S, p          0  0  0  0   Prado M, ph           1  0  0  0   
+Pierre J, ph          1  0  1  1   Carlyle B, p          0  0  0  0   
+Park C, p             0  0  0  0   Boyer B, p            1  0  0  0   
+Sweeney M, ph         1  0  0  0   Acosta M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        34  6 11  6
+
+Los Angeles      000 000 100 --  1
+Atlanta          020 030 10x --  6
+
+  Los Angeles          IP  H  R ER BB SO
+Lowe D (L)            4.1  8  5  3  4  2
+Kuo H                 0.2  0  0  0  0  1
+Proctor S             1.0  0  0  0  0  1
+Park C                2.0  3  1  1  2  0
+
+  Atlanta              IP  H  R ER BB SO
+Bennett J             4.2  2  0  0  3  4
+Ohman W (W)           1.1  1  0  0  0  1
+Carlyle B             0.2  1  1  1  1  0
+Boyer B               1.1  0  0  0  0  1
+Acosta M              1.0  1  0  0  0  1
+
+E -- Johnson K 2, Kent J, Martin R
+DP -- Los Angeles 2, Atlanta 1
+LOB -- Los Angeles 8, Atlanta 10
+2B -- McCann B, Furcal R, Jones A
+HR -- Jones C 2
+SB -- Johnson K, Pierre J
+CS -- Martin R
+HBP -- by Bennett J (Kent J)
+Balk -- Carlyle B
+PB -- Martin R
+T -- 3:03
+A -- 38250
+     Game of 4/19/2008 -- Los Angeles at Atlanta (D)
+
+  Los Angeles        AB  R  H RBI    Atlanta            AB  R  H RBI
+Furcal R, ss          4  0  2  0   Johnson K, 2b         3  1  0  0   
+Ethier A, lf          4  0  1  0   Escobar Y, ss         4  1  1  0   
+Kemp M, rf            4  0  1  0   Jones C, 3b           3  1  1  0   
+Kent J, 2b            4  0  1  0   Teixeira M, 1b        4  1  2  2   
+Loney J, 1b           4  0  0  0   McCann B, c           3  0  0  0   
+Garciaparra N, 3b     4  0  0  0   Francoeur J, rf       4  0  0  1   
+Jones A, cf           1  1  1  1   Kotsay M, cf          3  0  2  1   
+Bennett G, c          2  0  0  0   Blanco G, lf          4  0  2  0   
+Pierre J, ph          1  0  0  0   James C, p            1  0  0  0   
+Loaiza E, p           0  0  0  0   Pena B, ph            1  0  0  0   
+Billingsley C, p      1  0  1  0   Campillo J, p         1  0  0  0   
+Beimel J, p           0  0  0  0   Boyer B, p            0  0  0  0   
+Martin R, ph-c        1  0  0  0   Gotay R, ph           1  0  0  0   
+                                   Acosta M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  7  1                        32  4  8  4
+
+Los Angeles      010 000 000 --  1
+Atlanta          000 040 00x --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Billingsley C (L)     5.0  6  4  4  5  9
+Beimel J              1.0  1  0  0  0  1
+Loaiza E              2.0  1  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+James C (W)           5.0  4  1  1  1  2
+Campillo J            2.0  1  0  0  1  1
+Boyer B               1.0  1  0  0  0  1
+Acosta M (S)          1.0  1  0  0  0  0
+
+E -- Garciaparra N
+DP -- Atlanta 3
+LOB -- Los Angeles 5, Atlanta 9
+2B -- Teixeira M, Kemp M
+HR -- Jones A
+SH -- Billingsley C
+T -- 2:40
+A -- 40451
+     Game of 4/20/2008 -- Los Angeles at Atlanta (D)
+
+  Los Angeles        AB  R  H RBI    Atlanta            AB  R  H RBI
+Furcal R, ss          3  0  0  0   Johnson K, 2b         4  3  2  1   
+Pierre J, lf          5  0  1  0   Escobar Y, ss         4  0  0  0   
+Loney J, 1b           4  0  0  0   Jones C, 3b           3  0  2  0   
+Jones A, cf           4  0  0  0   Prado M, 3b           2  1  1  1   
+Ethier A, rf          2  0  1  0   Teixeira M, 1b        4  1  3  3   
+Martin R, c           4  1  1  1   Francoeur J, rf       5  1  3  0   
+DeWitt B, 3b          4  0  1  0   Kotsay M, cf          5  0  2  1   
+Hu C, 2b              4  0  1  0   Blanco G, lf          2  0  1  0   
+Kuroda H, p           2  0  0  0   Diaz M, ph-lf         2  0  0  0   
+Garciaparra N, ph     0  0  0  0   Miller C, c           3  0  0  0   
+Beimel J, p           0  0  0  0   McCann B, ph-c        1  0  0  0   
+Proctor S, p          0  0  0  0   Jurrjens J, p         3  0  0  0   
+Kemp M, ph            1  0  0  0   Boyer B, p            0  0  0  0   
+                                   Gotay R, ph           1  0  0  0   
+                                   Ohman W, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  5  1                        39  6 14  6
+
+Los Angeles      000 100 000 --  1
+Atlanta          001 010 04x --  6
+
+  Los Angeles          IP  H  R ER BB SO
+Kuroda H (L)          6.0  7  2  2  4  4
+Beimel J              0.1  2  0  0  0  0
+Proctor S             1.2  5  4  4  0  3
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J (W)        7.0  3  1  1  3  8
+Boyer B               1.0  1  0  0  1  1
+Ohman W               1.0  1  0  0  1  0
+
+E -- Johnson K, Martin R
+LOB -- Los Angeles 10, Atlanta 13
+2B -- Francoeur J 2, Jones C, Johnson K
+3B -- Prado M
+HR -- Martin R, Johnson K, Teixeira M
+SB -- Furcal R 2, Pierre J 2
+T -- 3:11
+A -- 36772
+     Game of 4/21/2008 -- Washington at Atlanta (N)
+
+  Washington         AB  R  H RBI    Atlanta            AB  R  H RBI
+Guzman C, ss          5  0  3  0   Prado M, 2b           5  1  2  2   
+Milledge L, cf        2  0  0  1   Escobar Y, ss         3  1  1  0   
+Zimmerman R, 3b       5  0  2  0   Jones C, 3b           3  0  1  1   
+Johnson N, 1b         4  0  0  0   Teixeira M, 1b        5  0  1  0   
+Kearns A, rf          4  1  2  0   Francoeur J, rf       5  0  1  1   
+Estrada J, c          4  0  2  0   McCann B, c           4  2  2  1   
+Pena W, lf            4  0  0  0   Diaz M, lf            4  2  3  0   
+Lopez F, 2b           3  1  1  0   Blanco G, cf          3  1  2  0   
+Chico M, p            1  0  0  0   Hudson T, p           1  0  0  2   
+Mackowiak R, ph       1  0  1  0   Ring R, p             0  0  0  0   
+Hanrahan J, p         0  0  0  0   Gotay R, ph           1  0  0  0   
+Harris W, ph          1  1  1  1   Carlyle B, p          0  0  0  0   
+Colome J, p           0  0  0  0   Acosta M, p           0  0  0  0   
+Boone A, ph           1  0  1  1                                      
+Cordero C, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3 13  3                        34  7 13  7
+
+Washington       000 000 210 --  3
+Atlanta          132 001 00x --  7
+
+  Washington           IP  H  R ER BB SO
+Chico M (L)           4.0  8  6  6  3  0
+Hanrahan J            2.0  4  1  1  0  3
+Colome J              1.0  1  0  0  0  3
+Cordero C             1.0  0  0  0  1  1
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (W)          6.2 10  2  1  2  3
+Ring R                0.1  0  0  0  0  0
+Carlyle B             1.0  2  1  1  1  1
+Acosta M              1.0  1  0  0  0  1
+
+E -- Teixeira M, Jones C
+DP -- Atlanta 1
+LOB -- Washington 11, Atlanta 10
+2B -- Prado M 2, Guzman C, Diaz M, Lopez F, Harris W
+HR -- McCann B
+SB -- Diaz M
+SH -- Milledge L, Escobar Y, Hudson T
+SF -- Jones C, Milledge L
+HBP -- by Acosta M (Milledge L)
+WP -- Cordero C
+T -- 2:50
+A -- 16706
+     Game of 4/22/2008 -- Washington at Atlanta (N)
+
+  Washington         AB  R  H RBI    Atlanta            AB  R  H RBI
+Lopez F, 2b           5  1  2  1   Johnson K, 2b         4  0  0  0   
+Guzman C, ss          5  0  0  1   Escobar Y, ss         4  0  2  0   
+Zimmerman R, 3b       5  0  1  2   Jones C, 3b           4  0  0  0   
+Johnson N, 1b         4  0  0  0   Teixeira M, 1b        4  0  0  0   
+Kearns A, rf          5  0  0  0   Francoeur J, rf       2  0  1  0   
+Milledge L, cf        4  2  2  0   McCann B, c           4  0  0  0   
+Harris W, lf          3  1  2  1   Diaz M, lf            4  0  2  0   
+Nieves W, c           4  1  2  0   Kotsay M, cf          4  0  0  0   
+Lannan J, p           3  0  0  0   Smoltz J, p           2  0  0  0   
+King R, p             0  0  0  0   Prado M, ph           0  0  0  0   
+Ayala L, p            0  0  0  0   Boyer B, p            0  0  0  0   
+Mackowiak R, ph       0  1  0  0   Ring R, p             0  0  0  0   
+Rauch J, p            0  0  0  0   Campillo J, p         0  0  0  0   
+                                   Resop C, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6  9  5                        32  0  5  0
+
+Washington       010 000 005 --  6
+Atlanta          000 000 000 --  0
+
+  Washington           IP  H  R ER BB SO
+Lannan J (W)          7.0  5  0  0  3  4
+King R                0.2  0  0  0  0  0
+Ayala L               0.1  0  0  0  0  0
+Rauch J               1.0  0  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Smoltz J (L)          7.0  5  1  1  0 10
+Boyer B               0.2  1  0  0  0  0
+Ring R                0.1  0  0  0  0  1
+Campillo J            0.1  2  5  1  2  1
+Resop C               0.2  1  0  0  1  0
+
+E -- Smoltz J, Campillo J
+LOB -- Washington 8, Atlanta 8
+2B -- Milledge L 2, Harris W, Zimmerman R
+Balk -- Ring R
+T -- 2:48
+A -- 23482
+     Game of 4/23/2008 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Ramirez H, ss         5  1  1  1   Johnson K, 2b         3  0  2  0   
+Uggla D, 2b           5  1  3  2   Escobar Y, ss         5  1  1  0   
+Hermida J, rf         5  1  1  0   Jones C, 3b           4  0  1  0   
+Willingham J, lf      4  1  1  1   Teixeira M, 1b        5  0  2  1   
+Jacobs M, 1b          3  1  1  3   Francoeur J, rf       5  0  1  0   
+Tankersley T, p       0  0  0  0   McCann B, c           5  0  2  0   
+Miller J, p           0  0  0  0   Diaz M, lf            4  1  2  1   
+Cantu J, 3b           3  0  0  0   Kotsay M, cf          4  0  1  0   
+Rabelo M, c           4  1  1  0   Bennett J, p          1  0  0  0   
+Amezaga A, cf         4  1  2  0   Gotay R, ph           1  0  0  0   
+Miller A, p           2  0  1  0   Carlyle B, p          0  0  0  0   
+Waechter D, p         0  0  0  0   Ohman W, p            0  0  0  0   
+Gonzalez L, ph        1  0  0  0   Boyer B, p            0  0  0  0   
+Lindstrom M, p        0  0  0  0   Prado M, ph           0  0  0  0   
+Helms W, 1b           1  0  0  0   Resop C, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 11  7                        37  2 12  2
+
+Florida          300 000 022 --  7
+Atlanta          110 000 000 --  2
+
+  Florida              IP  H  R ER BB SO
+Miller A (W)          5.0  9  2  1  2  0
+Waechter D            1.0  1  0  0  0  2
+Lindstrom M           1.0  1  0  0  0  0
+Tankersley T          1.0  0  0  0  1  0
+Miller J              1.0  1  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Bennett J (L)         6.0  5  3  3  1  4
+Carlyle B             0.2  1  0  0  0  1
+Ohman W               0.1  0  0  0  0  1
+Boyer B               1.0  2  2  1  0  1
+Resop C               1.0  3  2  2  0  2
+
+E -- Ramirez H, Amezaga A, Escobar Y, Cantu J
+DP -- Florida 1, Atlanta 1
+LOB -- Florida 5, Atlanta 13
+2B -- Hermida J
+3B -- Uggla D
+HR -- Ramirez H, Jacobs M, Diaz M
+SB -- Ramirez H, Johnson K
+SH -- Bennett J, Johnson K
+SF -- Jacobs M
+T -- 3:05
+A -- 19852
+     Game of 4/24/2008 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Ramirez H, ss         4  1  0  0   Johnson K, 2b         4  0  1  0   
+Uggla D, 2b           3  1  1  0   Escobar Y, ss         3  1  1  0   
+Hermida J, rf         4  1  1  0   Jones C, 3b           3  2  3  1   
+Willingham J, lf      4  1  3  4   Teixeira M, 1b        4  1  1  1   
+Jacobs M, 1b          3  0  0  0   McCann B, c           3  2  1  0   
+Ross C, cf            3  0  0  0   Francoeur J, rf       3  1  1  3   
+Amezaga A, ph-cf      1  0  0  0   Diaz M, lf            4  0  1  2   
+Helms W, 3b           3  0  1  0   Blanco G, cf          4  0  1  0   
+Rabelo M, c           3  0  0  0   James C, p            2  0  0  0   
+Badenhop B, p         1  0  0  0   Campillo J, p         0  0  0  0   
+Andino R, ph          1  0  0  0   Gotay R, ph           1  0  0  0   
+Kensing L, p          0  0  0  0   Acosta M, p           1  0  0  0   
+Waechter D, p         0  0  0  0                                      
+Gonzalez L, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  4  6  4                        32  7 10  7
+
+Florida          101 020 000 --  4
+Atlanta          510 000 01x --  7
+
+  Florida              IP  H  R ER BB SO
+Badenhop B (L)        5.0  8  6  6  1  0
+Kensing L             2.0  0  0  0  2  0
+Waechter D            1.0  2  1  1  0  1
+
+  Atlanta              IP  H  R ER BB SO
+James C (W)           5.0  5  4  4  5  3
+Campillo J            2.0  1  0  0  0  1
+Acosta M (S)          2.0  0  0  0  2  1
+
+E -- Kensing L
+DP -- Florida 1
+LOB -- Florida 8, Atlanta 5
+2B -- Francoeur J, Willingham J
+3B -- McCann B
+HR -- Jones C, Willingham J
+SB -- Ramirez H 2
+SH -- Badenhop B
+SF -- Francoeur J
+T -- 2:34
+A -- 19903
+     Game of 5/2/2008 -- Cincinnati at Atlanta (N)
+
+  Cincinnati         AB  R  H RBI    Atlanta            AB  R  H RBI
+Patterson C, cf       4  0  0  0   Johnson K, 2b         4  0  0  0   
+Keppinger J, ss       4  0  0  0   Escobar Y, ss         4  0  1  0   
+Griffey K, rf         4  0  1  0   Jones C, 3b           3  1  2  0   
+Phillips B, 2b        3  0  0  0   Teixeira M, 1b        3  0  0  0   
+Dunn A, lf            3  0  0  0   McCann B, c           4  1  1  2   
+Encarnacion E, 3b     3  0  1  0   Francoeur J, rf       3  0  1  0   
+Hatteberg S, 1b       3  0  0  0   Kotsay M, cf          3  0  1  0   
+Bako P, c             3  0  0  0   Blanco G, lf          3  0  0  0   
+Volquez E, p          2  0  1  0   Hudson T, p           2  0  0  0   
+Affeldt J, p          0  0  0  0                                      
+Votto J, ph           1  0  0  0                                      
+Bray B, p             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  3  0                        29  2  6  2
+
+Cincinnati       000 000 000 --  0
+Atlanta          000 200 00x --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Volquez E (L)         6.0  4  2  1  2  9
+Affeldt J             1.0  1  0  0  0  0
+Bray B                1.0  1  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (W)          9.0  3  0  0  0 10
+
+E -- Patterson C, Escobar Y
+LOB -- Cincinnati 3, Atlanta 6
+HR -- McCann B
+CS -- Francoeur J
+SH -- Hudson T
+T -- 2:21
+A -- 32057
+     Game of 5/3/2008 -- Cincinnati at Atlanta (N)
+
+  Cincinnati         AB  R  H RBI    Atlanta            AB  R  H RBI
+Freel R, cf-lf        4  1  1  0   Johnson K, 2b         4  2  2  0   
+Griffey K, rf         4  0  0  0   Escobar Y, ss         4  2  3  1   
+Phillips B, 2b        4  0  1  1   Jones C, 3b           4  1  2  1   
+Votto J, 1b           3  0  0  0   Prado M, pr-3b        0  0  0  0   
+Encarnacion E, 3b     3  0  0  0   Teixeira M, 1b        4  1  2  1   
+Dunn A, lf            3  0  0  0   McCann B, c           4  1  2  2   
+Lincoln M, p          0  0  0  0   Francoeur J, rf       5  1  2  1   
+Affeldt J, p          0  0  0  0   Kotsay M, cf          5  0  1  1   
+Burton J, p           0  0  0  0   Blanco G, lf          2  0  0  0   
+Cordero F, p          0  0  0  0   Diaz M, ph-lf         1  0  0  1   
+Valentin J, ph        1  0  0  0   Reyes J, p            2  0  0  0   
+Keppinger J, ss       3  0  2  0   Bennett J, p          0  0  0  0   
+Ross D, c             2  0  0  0   Ohman W, p            0  0  0  0   
+Belisle M, p          1  0  0  0   Campillo J, p         0  0  0  0   
+Bray B, p             0  0  0  0   Pena B, ph            2  1  1  0   
+Patterson C, cf       1  0  0  0   Boyer B, p            0  0  0  0   
+                                   Resop C, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  1  4  1                        37  9 15  8
+
+Cincinnati       000 001 000 --  1
+Atlanta          100 010 61x --  9
+
+  Cincinnati           IP  H  R ER BB SO
+Belisle M (L)         5.1  8  2  2  0  2
+Bray B                0.1  0  0  0  0  1
+Lincoln M             0.2  1  2  2  1  0
+Affeldt J*            0.0  2  3  3  1  0
+Burton J              0.2  2  1  1  0  0
+Cordero F             1.0  2  1  1  2  0
+
+  Atlanta              IP  H  R ER BB SO
+Reyes J (W)           5.1  4  1  1  3  5
+Bennett J             0.1  0  0  0  0  0
+Ohman W               0.1  0  0  0  0  1
+Campillo J            1.0  0  0  0  0  0
+Boyer B               1.0  0  0  0  0  1
+Resop C               1.0  0  0  0  0  0
+  * Pitched to 3 batters in 7th
+
+DP -- Atlanta 1
+LOB -- Cincinnati 5, Atlanta 10
+2B -- Escobar Y, Jones C, Johnson K 2, Francoeur J, McCann B, Kotsay M
+SB -- Freel R 2, Phillips B
+SH -- Belisle M, Johnson K
+SF -- Diaz M
+WP -- Belisle M, Cordero F
+T -- 2:58
+A -- 37969
+     Game of 5/4/2008 -- Cincinnati at Atlanta (D)
+
+  Cincinnati         AB  R  H RBI    Atlanta            AB  R  H RBI
+Freel R, cf           4  0  2  1   Johnson K, 2b         6  2  4  2   
+Griffey K, rf         5  0  0  0   Kotsay M, cf          4  3  3  3   
+Phillips B, 2b        5  1  2  0   Jones C, 3b           6  1  3  5   
+Votto J, 1b           3  1  1  1   Teixeira M, 1b        3  0  0  0   
+Encarnacion E, 3b     2  1  0  0   McCann B, c           4  1  2  1   
+Dunn A, lf            4  1  2  2   Francoeur J, rf       5  1  1  0   
+Keppinger J, ss       4  0  1  1   Blanco G, lf          6  2  2  1   
+Burton J, p           0  0  0  0   Prado M, ss           2  1  1  1   
+Bako P, c             3  2  2  1   Escobar Y, ss         1  0  0  0   
+Valentin J, ph-c      1  0  0  0   Glavine T, p          1  1  1  1   
+Arroyo B, p           0  0  0  0   Ring R, p             0  0  0  0   
+Fogg J, p             2  1  1  0   Pena B, ph            1  1  1  0   
+Bray B, p             0  0  0  0   Campillo J, p         0  0  0  0   
+Patterson C, ph       1  0  0  0   Diaz M, ph            1  1  1  0   
+Mercker K, p          0  0  0  0   Ohman W, p            0  0  0  0   
+Hairston J, ss        1  0  0  0   Reyes J, ph           1  0  0  0   
+                                   Boyer B, p            0  0  0  0   
+                                   Acosta M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7 11  6                        41 14 19 14
+
+Cincinnati       001 411 000 --  7
+Atlanta          071 041 01x -- 14
+
+  Cincinnati           IP  H  R ER BB SO
+Arroyo B (L)          1.1  7  7  7  1  0
+Fogg J*               2.2  6  5  5  2  3
+Bray B                1.0  2  0  0  1  1
+Mercker K             1.1  2  1  1  3  0
+Burton J              1.2  2  1  1  1  3
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T             4.2  7  6  6  5  3
+Ring R (W)            0.1  0  0  0  0  0
+Campillo J            1.0  2  1  1  0  0
+Ohman W               1.0  2  0  0  0  0
+Boyer B               1.0  0  0  0  0  0
+Acosta M              1.0  0  0  0  0  1
+  * Pitched to 4 batters in 5th
+
+E -- Votto J, Prado M
+DP -- Atlanta 1
+LOB -- Cincinnati 6, Atlanta 15
+2B -- Blanco G, Johnson K 3, Phillips B, Dunn A, McCann B, Freel R, Jones C
+HR -- Jones C, Bako P, Kotsay M
+CS -- Freel R, Votto J
+SH -- Kotsay M, Glavine T
+SF -- Prado M
+HBP -- by Burton J (Teixeira M)
+WP -- Campillo J
+T -- 3:16
+A -- 33750
+     Game of 5/6/2008 -- San Diego at Atlanta (N)
+
+  San Diego          AB  R  H RBI    Atlanta            AB  R  H RBI
+Giles B, rf           5  2  4  0   Johnson K, 2b         4  0  1  0   
+Iguchi T, 2b          5  1  2  1   Escobar Y, ss         4  1  2  0   
+Gonzalez A, 1b        5  0  1  2   Jones C, 3b           2  1  1  2   
+Kouzmanoff K, 3b      4  0  1  0   Teixeira M, 1b        4  0  0  0   
+Edmonds J, cf         4  0  0  0   McCann B, c           3  0  0  0   
+Greene K, ss          4  0  0  0   Francoeur J, rf       4  1  1  0   
+McAnulty P, lf        4  0  1  0   Kotsay M, cf          4  2  2  2   
+Bard J, c             3  0  1  0   Blanco G, lf          4  0  1  1   
+Young C, p            2  0  0  0   Jurrjens J, p         2  0  1  0   
+Huber J, ph           1  0  0  0   Norton G, ph          1  0  0  0   
+Cameron K, p          0  0  0  0   Ohman W, p            0  0  0  0   
+Rusch G, p            0  0  0  0   Boyer B, p            0  0  0  0   
+Clark T, ph           1  0  1  0   Acosta M, p           0  0  0  0   
+                                   Ring R, p             0  0  0  0   
+                                   Bennett J, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  3 11  3                        32  5  9  5
+
+San Diego        100 000 200 --  3
+Atlanta          022 100 00x --  5
+
+  San Diego            IP  H  R ER BB SO
+Young C (L)           5.0  9  5  5  2  4
+Cameron K             0.0  0  0  0  0  0
+Rusch G               3.0  0  0  0  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J (W)        6.0  7  1  1  1  8
+Ohman W               1.0  2  2  2  0  1
+Boyer B               1.0  0  0  0  0  2
+Acosta M              0.1  2  0  0  0  0
+Ring R                0.1  0  0  0  0  1
+Bennett J (S)         0.1  0  0  0  0  0
+
+DP -- San Diego 1
+LOB -- San Diego 10, Atlanta 6
+2B -- Giles B, Gonzalez A, Francoeur J, Blanco G
+3B -- Iguchi T
+HR -- Jones C, Kotsay M
+SB -- Escobar Y
+HBP -- by Jurrjens J (Kouzmanoff K)
+Balk -- Young C
+T -- 2:42
+A -- 21657
+     Game of 5/7/2008 -- San Diego at Atlanta (N)
+
+  San Diego          AB  R  H RBI    Atlanta            AB  R  H RBI
+Giles B, rf           4  0  0  0   Johnson K, 2b         3  0  1  1   
+Iguchi T, 2b          4  1  1  0   Escobar Y, ss         4  0  2  1   
+Gonzalez A, 1b        4  0  1  0   Jones C, 3b           4  0  2  0   
+Kouzmanoff K, 3b      4  1  2  0   Teixeira M, 1b        2  1  0  0   
+McAnulty P, lf        2  0  1  0   Francoeur J, rf       3  1  0  0   
+Hairston S, ph        1  0  0  0   McCann B, c           4  1  3  0   
+Edmonds J, cf         2  0  1  0   Diaz M, lf            4  1  1  0   
+Crabbe C, ph          1  0  0  0   Kotsay M, cf          3  1  1  1   
+Greene K, ss          4  0  0  0   Hudson T, p           2  0  0  0   
+Bard J, c             2  0  0  0   Norton G, ph          1  0  1  1   
+Wolf R, p             3  0  0  0   Boyer B, p            0  0  0  0   
+Thatcher J, p         0  0  0  0   Ohman W, p            0  0  0  0   
+Meredith C, p         0  0  0  0   Acosta M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  0                        30  5 11  4
+
+San Diego        010 001 000 --  2
+Atlanta          020 000 30x --  5
+
+  San Diego            IP  H  R ER BB SO
+Wolf R (L)*           6.0  8  5  5  4  1
+Thatcher J            1.0  2  0  0  0  0
+Meredith C            1.0  1  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (W)          7.0  6  2  2  3  3
+Boyer B               1.0  0  0  0  0  0
+Ohman W               0.1  0  0  0  0  1
+Acosta M              0.2  0  0  0  0  1
+  * Pitched to 3 batters in 7th
+
+E -- Jones C
+DP -- San Diego 4, Atlanta 2
+LOB -- San Diego 5, Atlanta 6
+2B -- Kouzmanoff K, Jones C, McCann B
+SB -- Iguchi T
+SF -- Johnson K
+Balk -- Hudson T
+T -- 2:22
+A -- 25194
+     Game of 5/8/2008 -- San Diego at Atlanta (D)
+
+  San Diego          AB  R  H RBI    Atlanta            AB  R  H RBI
+Giles B, rf           3  1  0  0   Infante O, 2b         3  0  1  0   
+Crabbe C, 2b          4  1  0  0   Johnson K, ph-2b      2  0  0  0   
+Gonzalez A, 1b        5  1  3  0   Escobar Y, ss         4  3  2  0   
+Kouzmanoff K, 3b      5  0  1  2   Jones C, 3b           5  0  1  0   
+Hairston S, cf        4  1  2  1   Teixeira M, 1b        4  0  1  1   
+Bell H, p             0  0  0  0   Francoeur J, rf       3  0  0  0   
+Thatcher J, p         0  0  0  0   Diaz M, lf            5  1  1  1   
+Greene K, ss          3  0  1  1   Kotsay M, cf          4  1  1  0   
+Huber J, lf           3  0  1  0   Miller C, c           3  0  0  0   
+Morton C, c           3  0  1  0   Reyes J, p            0  0  0  0   
+Bard J, ph-c          1  0  0  0   Carlyle B, p          0  0  0  0   
+Ledezma W, p          1  0  0  0   Campillo J, p         1  0  0  0   
+Estes S, p            1  0  0  0   Norton G, ph          1  0  1  2   
+Meredith C, p         0  0  0  0   Bennett J, p          0  0  0  0   
+Edmonds J, cf         1  0  0  0   Ring R, p             0  0  0  0   
+                                   Gotay R, ph           0  0  0  0   
+                                   Ohman W, p            0  0  0  0   
+                                   Acosta M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        35  5  8  4
+
+San Diego        200 020 000 --  4
+Atlanta          100 002 101 --  5
+  1 out when winning run was scored.
+
+  San Diego            IP  H  R ER BB SO
+Ledezma W             4.0  2  1  0  3  1
+Estes S               1.2  2  2  0  1  2
+Meredith C*           0.1  1  1  0  0  0
+Bell H                2.0  0  0  0  1  1
+Thatcher J (L)        0.1  3  1  1  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Reyes J               2.2  5  2  1  2  1
+Carlyle B             2.0  1  1  1  1  2
+Campillo J            1.1  2  1  1  1  1
+Bennett J             1.2  0  0  0  1  0
+Ring R                0.1  0  0  0  0  0
+Ohman W               0.2  1  0  0  0  1
+Acosta M (W)          0.1  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+E -- Teixeira M, Crabbe C 2, Greene K
+DP -- Atlanta 1
+LOB -- San Diego 9, Atlanta 12
+2B -- Kouzmanoff K, Gonzalez A, Greene K
+SB -- Kotsay M, Diaz M, Gotay R
+CS -- Giles B
+SH -- Ledezma W
+HBP -- by Bell H (Francoeur J)
+WP -- Bell H
+T -- 3:19
+A -- 28337
+     Game of 5/16/2008 -- Oakland at Atlanta (N)
+
+  Oakland            AB  R  H RBI    Atlanta            AB  R  H RBI
+Hannahan J, 3b        5  0  1  1   Escobar Y, ss         4  0  0  0   
+Crosby B, ss          4  0  3  0   Infante O, 2b         4  1  1  0   
+Cust J, lf            3  0  0  0   Jones C, 3b           3  1  2  0   
+Brown E, rf           4  0  0  0   Teixeira M, 1b        4  0  0  0   
+Barton D, 1b          4  0  1  0   Francoeur J, rf       4  1  1  1   
+Suzuki K, c           4  0  1  0   McCann B, c           4  0  3  1   
+Sweeney R, cf         4  1  2  0   Diaz M, lf            1  0  1  0   
+Murphy D, 2b          3  1  0  0   Kotsay M, ph-cf       2  0  1  1   
+Eveland D, p          1  0  1  0   Blanco G, cf-lf       3  0  0  0   
+Devine J, p           0  0  0  0   Jurrjens J, p         1  0  0  0   
+Sweeney M, ph         1  0  0  0   Gotay R, ph           0  0  0  0   
+Embree A, p           0  0  0  0   Ohman W, p            0  0  0  0   
+                                   Bennett J, p          0  0  0  0   
+                                   Glavine T, ph         1  0  0  0   
+                                   Acosta M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  9  1                        31  3  9  3
+
+Oakland          020 000 000 --  2
+Atlanta          000 002 01x --  3
+
+  Oakland              IP  H  R ER BB SO
+Eveland D             5.2  6  2  2  3  4
+Devine J              1.1  0  0  0  1  2
+Embree A (L)          1.0  3  1  1  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J            5.0  8  2  0  3  3
+Ohman W               1.0  0  0  0  2  2
+Bennett J             1.0  0  0  0  0  1
+Acosta M (W)          2.0  1  0  0  0  1
+
+E -- Jurrjens J
+DP -- Oakland 2, Atlanta 1
+LOB -- Oakland 10, Atlanta 8
+2B -- Sweeney R, McCann B 2, Crosby B, Kotsay M
+SB -- Blanco G
+CS -- Diaz M
+SH -- Eveland D
+T -- 3:02
+A -- 31004
+     Game of 5/17/2008 -- Oakland at Atlanta (N)
+
+  Oakland            AB  R  H RBI    Atlanta            AB  R  H RBI
+Hannahan J, 3b        5  0  1  0   Escobar Y, ss         4  0  1  1   
+Crosby B, ss          5  1  1  0   Kotsay M, cf          4  0  1  0   
+Cust J, lf            3  1  1  1   Stockman P, p         0  0  0  0   
+Davis R, cf           1  0  0  0   Jones C, 3b           4  0  0  0   
+Brown E, rf-lf        4  0  0  0   Teixeira M, 1b        4  1  2  0   
+Barton D, 1b          1  1  0  1   McCann B, c           4  0  1  0   
+Suzuki K, c           4  1  0  0   Francoeur J, rf       4  1  0  1   
+Sweeney R, cf-rf      3  1  2  3   Johnson K, 2b         4  1  1  1   
+Murphy D, 2b          4  0  1  0   Blanco G, lf-cf       2  1  0  1   
+Harden R, p           2  0  1  0   Hudson T, p           1  0  0  0   
+Sweeney M, ph         1  0  0  0   Gotay R, ph           1  0  1  0   
+Foulke K, p           0  0  0  0   Ring R, p             0  0  0  0   
+Street H, p           0  0  0  0   Resop C, p            0  0  0  0   
+                                   Norton G, ph-lf       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  7  5                        33  4  7  4
+
+Oakland          131 000 000 --  5
+Atlanta          000 010 003 --  4
+
+  Oakland              IP  H  R ER BB SO
+Harden R (W)          7.0  4  1  1  1  8
+Foulke K              1.0  0  0  0  1  2
+Street H              1.0  3  3  3  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (L)          5.0  5  5  5  5  3
+Ring R                0.2  2  0  0  0  0
+Resop C               2.1  0  0  0  1  2
+Stockman P            1.0  0  0  0  0  1
+
+E -- Johnson K
+DP -- Atlanta 2
+LOB -- Oakland 8, Atlanta 5
+2B -- Teixeira M
+3B -- Johnson K
+HR -- Cust J, Sweeney R
+SB -- Crosby B
+SH -- Harden R
+SF -- Blanco G
+T -- 2:49
+A -- 38324
+     Game of 5/18/2008 -- Oakland at Atlanta (D)
+
+  Oakland            AB  R  H RBI    Atlanta            AB  R  H RBI
+Davis R, cf           3  0  0  0   Escobar Y, ss         4  1  3  2   
+Sweeney R, ph-cf      2  0  0  0   Kotsay M, cf          4  0  1  0   
+Crosby B, ss          4  1  1  1   Jones C, 3b           3  1  1  0   
+Sweeney M, 1b         5  0  2  0   Teixeira M, 1b        4  1  1  0   
+Cust J, lf            5  0  2  0   McCann B, c           4  0  1  1   
+Brown E, rf           4  1  1  0   Francoeur J, rf       3  0  0  0   
+Hannahan J, 3b        3  0  1  1   Johnson K, 2b         3  1  1  0   
+Bowen R, c            4  0  2  0   Infante O, ph-2b      1  0  1  2   
+Petit G, 2b           3  0  2  0   Blanco G, lf          3  1  2  0   
+Duchscherer J, p      2  0  0  0   Reyes J, p            1  0  0  0   
+Thomas F, ph          1  0  0  0   Bennett J, p          0  0  0  0   
+Gaudin C, p           0  0  0  0   Norton G, ph          1  0  0  0   
+Barton D, ph          1  0  0  0   Boyer B, p            0  0  0  0   
+Embree A, p           0  0  0  0   Ohman W, p            0  0  0  0   
+                                   Acosta M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  2 11  2                        31  5 11  5
+
+Oakland          100 001 000 --  2
+Atlanta          120 000 02x --  5
+
+  Oakland              IP  H  R ER BB SO
+Duchscherer J (L)     5.0  7  3  3  2  2
+Gaudin C              2.0  1  0  0  0  1
+Embree A              1.0  3  2  2  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Reyes J (W)*          5.0  8  2  2  2  6
+Bennett J             2.0  2  0  0  0  1
+Boyer B               1.0  1  0  0  0  2
+Ohman W               0.1  0  0  0  0  1
+Acosta M              0.2  0  0  0  1  0
+  * Pitched to 2 batters in 6th
+
+DP -- Oakland 1
+LOB -- Oakland 11, Atlanta 6
+2B -- McCann B, Hannahan J, Petit G, Sweeney M, Teixeira M
+3B -- Bowen R, Infante O
+HR -- Crosby B
+SH -- Reyes J
+HBP -- by Duchscherer J (Francoeur J)
+T -- 2:47
+A -- 31025
+     Game of 5/20/2008, game 1 -- New York at Atlanta (D)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Reyes J, ss           4  0  1  0   Escobar Y, ss         4  0  2  1   
+Castillo L, 2b        4  1  1  1   Kotsay M, cf          5  1  1  0   
+Wright D, 3b          4  0  1  0   Jones C, 3b           4  2  1  0   
+Beltran C, cf         3  0  1  0   Teixeira M, 1b        3  1  3  1   
+Church R, rf          4  0  1  0   McCann B, c           4  1  2  3   
+Alou M, lf            4  0  1  0   Francoeur J, rf       3  0  0  0   
+Delgado C, 1b         4  0  0  0   Johnson K, 2b         3  1  1  1   
+Schneider B, c        3  0  0  0   Blanco G, lf          2  0  0  0   
+Maine J, p            2  0  0  0   Glavine T, p          1  0  0  0   
+Schoeneweis S, p      0  0  0  0   Gotay R, ph           1  0  1  0   
+Heilman A, p          0  0  0  0   Ohman W, p            0  0  0  0   
+Tatis F, ph           1  0  0  0   Boyer B, p            0  0  0  0   
+Wise M, p             0  0  0  0   Norton G, ph          1  0  0  0   
+                                   Acosta M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        31  6 11  6
+
+New York         100 000 000 --  1
+Atlanta          101 110 20x --  6
+
+  New York             IP  H  R ER BB SO
+Maine J (L)*          4.0  8  4  4  3  2
+Schoeneweis S         2.0  1  0  0  1  0
+Heilman A             1.0  1  2  2  1  0
+Wise M                1.0  1  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (W)         6.0  3  1  1  1  4
+Ohman W               1.1  0  0  0  0  3
+Boyer B               0.2  1  0  0  0  0
+Acosta M              1.0  2  0  0  0  0
+  * Pitched to 2 batters in 5th
+
+LOB -- New York 6, Atlanta 9
+2B -- Escobar Y, Johnson K
+HR -- Castillo L, McCann B
+SB -- Blanco G
+CS -- Escobar Y
+SH -- Glavine T
+SF -- Escobar Y, Johnson K
+WP -- Maine J
+T -- 2:44
+A -- 26873
+     Game of 5/20/2008, game 2 -- New York at Atlanta (N)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Reyes J, ss           4  0  2  1   Escobar Y, ss         5  1  2  0   
+Anderson M, lf        4  0  0  0   Infante O, cf-lf      4  1  1  0   
+Wright D, 3b          4  0  1  0   Jones C, 3b           4  1  2  1   
+Beltran C, cf         4  0  1  0   Teixeira M, 1b        2  1  1  1   
+Church R, rf          4  0  2  0   Johnson K, 2b         3  0  1  2   
+Easley D, 2b          4  0  0  0   Diaz M, lf            4  0  0  0   
+Delgado C, 1b         2  1  0  0   Acosta M, p           0  0  0  0   
+Castro R, c           3  1  1  1   Blanco G, rf          3  0  0  0   
+Vargas C, p           1  0  0  0   Miller C, c           4  1  1  0   
+Chavez E, ph          1  0  0  0   Campillo J, p         2  0  0  0   
+Feliciano P, p        0  0  0  0   Norton G, ph          1  0  0  0   
+Sanchez D, p          0  0  0  0   Bennett J, p          0  0  0  0   
+Alou M, ph            1  0  1  0   Boyer B, p            0  0  0  0   
+Wise M, p             0  0  0  0   Kotsay M, cf          1  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     32  2  8  2                        33  6  9  6
+
+New York         000 000 020 --  2
+Atlanta          103 000 02x --  6
+
+  New York             IP  H  R ER BB SO
+Vargas C (L)          5.0  5  4  4  2  1
+Feliciano P           1.0  0  0  0  0  1
+Sanchez D             1.0  2  0  0  1  0
+Wise M                1.0  2  2  2  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Campillo J (W)        6.0  3  0  0  0  7
+Bennett J             1.0  0  0  0  0  1
+Boyer B               0.2  2  2  2  1  1
+Acosta M (S)          1.1  3  0  0  0  0
+
+DP -- Atlanta 2
+LOB -- New York 4, Atlanta 8
+2B -- Jones C, Infante O, Castro R
+3B -- Johnson K
+HR -- Kotsay M
+CS -- Reyes J
+HBP -- by Feliciano P (Johnson K), by Feliciano P (Blanco G)
+T -- 2:30
+A -- 25590
+     Game of 5/21/2008 -- New York at Atlanta (N)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Reyes J, ss           4  1  2  0   Infante O, ss         4  1  1  0   
+Chavez E, rf          4  0  0  0   Kotsay M, cf          6  0  0  0   
+Wright D, 3b          4  1  2  1   Jones C, 3b           2  2  1  1   
+Beltran C, cf         4  1  2  1   Gotay R, pr-3b        1  1  0  0   
+Alou M, lf            1  0  0  0   Teixeira M, 1b        5  2  3  3   
+Anderson M, lf        3  0  0  0   McCann B, c           4  3  3  2   
+Delgado C, 1b         3  0  0  1   Francoeur J, rf       4  1  3  4   
+Schneider B, c        4  0  0  0   Johnson K, 2b         4  0  2  0   
+Castillo L, 2b        4  1  1  0   Blanco G, lf          3  0  0  1   
+Pelfrey M, p          2  0  0  0   Jurrjens J, p         3  0  0  0   
+Feliciano P, p        0  0  0  0   Norton G, ph          0  1  0  0   
+Tatis F, ph           1  0  0  0   Bennett J, p          0  0  0  0   
+Smith J, p            0  0  0  0   Diaz M, ph            1  0  1  0   
+Schoeneweis S, p      0  0  0  0   Resop C, p            0  0  0  0   
+Wagner B, p           0  0  0  0                                      
+Easley D, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  7  3                        37 11 14 11
+
+New York         001 000 120 --  4
+Atlanta          003 032 30x -- 11
+
+  New York             IP  H  R ER BB SO
+Pelfrey M (L)*        4.0  8  6  6  3  2
+Feliciano P           2.0  2  2  2  2  0
+Smith J               0.1  0  2  2  2  0
+Schoeneweis S         0.2  2  1  1  0  0
+Wagner B              1.0  2  0  0  1  1
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J (W)        7.0  5  2  1  2  1
+Bennett J             1.0  2  2  2  0  0
+Resop C               1.0  0  0  0  0  0
+  * Pitched to 4 batters in 5th
+
+E -- Johnson K, Chavez E, Jones C, Infante O
+DP -- Atlanta 1
+LOB -- New York 6, Atlanta 13
+2B -- McCann B, Teixeira M 2, Beltran C
+3B -- Francoeur J
+HR -- Jones C, Francoeur J
+SB -- Reyes J 2
+SF -- Blanco G
+HBP -- by Pelfrey M (Francoeur J), by Schoeneweis S (Jones C)
+T -- 3:14
+A -- 30335
+     Game of 5/22/2008 -- New York at Atlanta (N)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Reyes J, ss           4  0  1  0   Infante O, ss         4  1  1  1   
+Castillo L, 2b        4  0  1  0   Kotsay M, cf          4  1  2  0   
+Wright D, 3b          4  0  1  0   Jones C, 3b           4  0  2  1   
+Beltran C, cf         4  1  2  1   Teixeira M, 1b        4  1  2  1   
+Delgado C, 1b         4  1  1  1   Francoeur J, rf       4  0  0  0   
+Anderson M, lf        3  0  0  0   McCann B, c           4  0  1  0   
+Schneider B, c        3  0  0  0   Diaz M, lf            4  0  1  0   
+Chavez E, rf          3  0  1  0   Johnson K, 2b         4  1  3  1   
+Santana J, p          2  0  0  0   Hudson T, p           2  0  0  0   
+Church R, ph          1  0  1  0   Acosta M, p           0  0  0  0   
+Feliciano P, p        0  0  0  0   Ohman W, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  8  2                        34  4 12  4
+
+New York         020 000 000 --  2
+Atlanta          010 000 30x --  4
+
+  New York             IP  H  R ER BB SO
+Santana J (L)         7.0 12  4  3  0  1
+Feliciano P           1.0  0  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (W)          8.0  7  2  2  0  4
+Acosta M              0.2  1  0  0  0  0
+Ohman W (S)           0.1  0  0  0  0  0
+
+E -- Schneider B
+DP -- New York 2, Atlanta 3
+LOB -- New York 3, Atlanta 7
+2B -- Chavez E, Johnson K
+HR -- Beltran C, Delgado C
+SB -- Beltran C
+SH -- Hudson T
+WP -- Santana J
+T -- 2:21
+A -- 30348
+     Game of 5/23/2008 -- Arizona at Atlanta (N)
+
+  Arizona            AB  R  H RBI    Atlanta            AB  R  H RBI
+Young C, cf           5  1  2  3   Escobar Y, ss         4  0  0  0   
+Drew S, ss            5  1  2  1   Kotsay M, cf          4  0  1  0   
+Hudson O, 2b          4  0  0  0   Stockman P, p         0  0  0  0   
+Ojeda A, 2b           1  0  0  0   Jones C, 3b           1  0  1  0   
+Jackson C, 1b         4  2  1  1   Infante O, ph-3b      2  0  1  0   
+Upton J, rf           3  1  0  0   Teixeira M, 1b        3  0  0  0   
+Snyder C, c           3  1  1  2   Norton G, 1b          1  0  0  0   
+Scherzer M, p         0  0  0  0   Francoeur J, rf       4  0  0  0   
+Slaten D, p           0  0  0  0   McCann B, c           2  1  2  0   
+Byrnes E, lf          4  2  2  2   Ring R, p             0  0  0  0   
+Salazar J, lf         0  0  0  0   Blanco G, cf          1  0  0  0   
+Reynolds M, 3b        3  3  1  1   Diaz M, lf            3  0  0  0   
+Davis D, p            1  0  0  0   Johnson K, 2b         3  0  1  1   
+Hammock R, ph-c       1  0  0  0   Reyes J, p            1  0  0  0   
+                                   Gotay R, ph           1  0  0  0   
+                                   Resop C, p            0  0  0  0   
+                                   Miller C, c           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34 11  9 10                        31  1  6  1
+
+Arizona          500 212 010 -- 11
+Atlanta          010 000 000 --  1
+
+  Arizona              IP  H  R ER BB SO
+Davis D (W)           7.0  5  1  1  2  4
+Scherzer M            1.0  0  0  0  0  1
+Slaten D              1.0  1  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Reyes J (L)           5.0  6  8  7  3  4
+Resop C               2.0  2  2  2  1  1
+Ring R                1.0  1  1  1  0  0
+Stockman P            1.0  0  0  0  0  1
+
+E -- Upton J, Jones C, Diaz M, Slaten D
+DP -- Arizona 3, Atlanta 1
+LOB -- Arizona 3, Atlanta 6
+2B -- Snyder C
+HR -- Drew S, Byrnes E, Jackson C, Young C, Reynolds M
+SH -- Davis D 2
+HBP -- by Davis D (Diaz M), by Resop C (Reynolds M)
+T -- 2:33
+A -- 27263
+     Game of 5/24/2008 -- Arizona at Atlanta (D)
+
+  Arizona            AB  R  H RBI    Atlanta            AB  R  H RBI
+Young C, cf           3  0  0  0   Escobar Y, ss         4  0  1  1   
+Drew S, ss            4  0  0  0   Infante O, 2b         4  0  0  0   
+Hudson O, 2b          3  0  0  0   Jones C, 3b           4  1  2  0   
+Jackson C, 1b         4  0  1  0   Teixeira M, 1b        4  0  0  0   
+Upton J, rf           3  1  0  0   Francoeur J, rf       4  1  2  2   
+Byrnes E, lf          4  0  0  0   Diaz M, lf            3  0  0  0   
+Montero M, c          3  0  0  0   Ohman W, p            0  0  0  0   
+Reynolds M, 3b        4  0  1  0   Boyer B, p            0  0  0  0   
+Johnson R, p          1  0  0  0   Miller C, c           3  0  0  0   
+Ojeda A, ph           1  0  1  1   Blanco G, cf-lf       3  1  1  0   
+Pena T, p             0  0  0  0   Campillo J, p         1  0  0  0   
+Slaten D, p           0  0  0  0   Bennett J, p          1  0  1  0   
+Qualls C, p           0  0  0  0   Kotsay M, cf          1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  3  1                        32  3  8  3
+
+Arizona          000 000 100 --  1
+Atlanta          001 000 002 --  3
+  1 out when winning run was scored.
+
+  Arizona              IP  H  R ER BB SO
+Johnson R             6.0  5  1  1  0 10
+Pena T                2.0  1  0  0  0  0
+Slaten D (L)          0.1  1  1  1  0  0
+Qualls C              0.0  1  1  1  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Campillo J            4.0  2  0  0  0  3
+Bennett J             3.0  1  1  1  3  4
+Ohman W               0.1  0  0  0  0  0
+Boyer B (W)           1.2  0  0  0  1  1
+
+E -- Bennett J
+DP -- Arizona 1, Atlanta 1
+LOB -- Arizona 7, Atlanta 4
+3B -- Blanco G
+HR -- Francoeur J
+SH -- Johnson R
+T -- 2:39
+A -- 36263
+     Game of 5/25/2008 -- Arizona at Atlanta (D)
+
+  Arizona            AB  R  H RBI    Atlanta            AB  R  H RBI
+Young C, cf           4  2  2  2   Escobar Y, ss         3  0  1  1   
+Drew S, ss            6  1  1  0   Kotsay M, cf          3  0  0  0   
+Hudson O, 2b          5  1  3  1   Johnson K, 2b         4  1  1  0   
+Jackson C, 1b         2  1  2  0   Teixeira M, 1b        4  0  0  0   
+Upton J, rf           3  1  0  1   McCann B, c           3  1  1  0   
+Snyder C, c           2  1  0  1   Gotay R, ph           1  0  0  0   
+Byrnes E, lf          3  2  1  4   Miller C, c           0  0  0  0   
+Lyon B, p             0  0  0  0   Francoeur J, rf       4  1  1  0   
+Reynolds M, 3b        4  0  0  0   Blanco G, lf          4  0  1  0   
+Cruz J, p             0  0  0  0   Infante O, 3b         3  0  1  1   
+Qualls C, p           0  0  0  0   Glavine T, p          2  0  0  0   
+Salazar J, ph-lf      0  0  0  0   Stockman P, p         0  0  0  0   
+Owings M, p           3  0  0  0   Norton G, ph          1  0  0  0   
+Ojeda A, 3b           2  0  0  0   Ohman W, p            0  0  0  0   
+Burke C, pr-3b        0  0  0  0   Resop C, p            0  0  0  0   
+                                   Diaz M, ph            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  9  9  9                        33  3  6  2
+
+Arizona          200 040 021 --  9
+Atlanta          021 000 000 --  3
+
+  Arizona              IP  H  R ER BB SO
+Owings M (W)*         6.0  6  3  2  2  3
+Cruz J                1.0  0  0  0  1  3
+Qualls C              1.0  0  0  0  0  2
+Lyon B                1.0  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (L)         4.2  5  6  6  6  2
+Stockman P            2.1  1  0  0  2  4
+Ohman W               0.1  3  2  2  1  0
+Resop C               1.2  0  1  1  2  1
+  * Pitched to 1 batter in 7th
+
+E -- Upton J
+LOB -- Arizona 11, Atlanta 6
+2B -- Hudson O 3, Jackson C
+3B -- Jackson C
+HR -- Young C, Byrnes E
+SB -- Young C
+SF -- Snyder C, Young C
+T -- 3:24
+A -- 35628
+     Game of 5/26/2008 -- Arizona at Atlanta (D)
+
+  Arizona            AB  R  H RBI    Atlanta            AB  R  H RBI
+Young C, cf           5  0  0  0   Escobar Y, ss         5  1  2  0   
+Drew S, ss            5  1  2  0   Johnson K, 2b         4  0  1  0   
+Hudson O, 2b          3  1  1  2   Jones C, 3b           3  1  1  0   
+Tracy C, 1b           4  0  1  0   Teixeira M, 1b        4  0  2  4   
+Snyder C, c           4  1  2  0   McCann B, c           5  1  1  1   
+Byrnes E, lf          3  0  1  0   Francoeur J, rf       4  1  1  0   
+Scherzer M, p         0  0  0  0   Norton G, lf          2  1  0  0   
+Owings M, ph          1  0  0  0   Diaz M, lf            1  0  0  0   
+Gonzalez E, p         0  0  0  0   Blanco G, cf          3  1  3  0   
+Reynolds M, 3b        4  0  1  0   Jurrjens J, p         2  1  0  0   
+Salazar J, rf         3  0  2  1   Bennett J, p          0  0  0  0   
+Webb B, p             1  0  0  0   Gotay R, ph           1  0  1  1   
+Burke C, lf           2  0  0  0   Acosta M, p           0  0  0  0   
+                                   Reyes J, ph           0  0  0  0   
+                                   Boyer B, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3 10  3                        34  7 12  6
+
+Arizona          010 020 000 --  3
+Atlanta          230 020 00x --  7
+
+  Arizona              IP  H  R ER BB SO
+Webb B (L)            4.1 10  7  4  3  8
+Scherzer M            2.2  2  0  0  1  4
+Gonzalez E            1.0  0  0  0  1  1
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J            4.2  8  3  3  2  4
+Bennett J             0.1  0  0  0  0  0
+Acosta M (W)          2.0  0  0  0  0  2
+Boyer B               2.0  2  0  0  0  0
+
+E -- Reynolds M
+DP -- Arizona 1, Atlanta 1
+LOB -- Arizona 8, Atlanta 10
+2B -- Teixeira M, Snyder C, Reynolds M, Drew S
+HR -- Hudson O, McCann B
+SH -- Johnson K, Webb B, Reyes J
+T -- 3:07
+A -- 29635
+     Game of 6/2/2008 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Ramirez H, ss         5  0  0  0   Escobar Y, ss         5  2  3  3   
+Hermida J, rf         4  1  2  2   Infante O, 2b-lf      4  0  0  0   
+Gregg K, p            0  0  0  0   Jones C, 3b           4  0  2  0   
+Kensing L, p          0  0  0  0   Teixeira M, 1b        4  1  2  2   
+Cantu J, 3b           4  0  0  1   Francoeur J, rf       4  2  1  1   
+Jacobs M, 1b          4  0  0  0   McCann B, c           3  0  0  0   
+Uggla D, 2b           5  2  2  0   Jurrjens J, pr        0  0  0  0   
+Gonzalez L, lf        5  0  2  1   Miller C, c           0  0  0  0   
+Ross C, cf-rf         3  0  0  1   Norton G, lf          4  0  0  0   
+Treanor M, c          4  0  1  0   Smoltz J, p           0  0  0  0   
+Amezaga A, pr-cf      0  1  0  0   Anderson J, ph        1  0  0  0   
+Olsen S, p            1  0  0  0   Ohman W, p            0  0  0  0   
+Jones J, ph           0  0  0  0   Blanco G, cf          5  1  1  0   
+Pinto R, p            0  0  0  0   Reyes J, p            2  0  0  0   
+Lindstrom M, p        0  0  0  0   Acosta M, p           0  0  0  0   
+Nelson J, p           0  0  0  0   Gotay R, ph           1  0  0  0   
+Helms W, ph           1  1  1  0   Soriano R, p          0  0  0  0   
+Rabelo M, c           0  0  0  0   Johnson K, ph-2b      0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5  8  5                        37  7  9  6
+
+Florida          000 200 102 0 --  5
+Atlanta          011 010 011 2 --  7
+  0 outs when winning run was scored.
+
+  Florida              IP  H  R ER BB SO
+Olsen S               6.0  4  3  3  2  4
+Pinto R               1.0  2  0  0  1  2
+Lindstrom M           0.2  2  1  1  2  1
+Nelson J              0.1  0  0  0  0  0
+Gregg K               1.0  0  1  1  2  0
+Kensing L (L)         0.0  1  2  2  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Reyes J*              6.0  5  3  3  1  4
+Acosta M              1.0  0  0  0  1  1
+Soriano R             1.0  0  0  0  2  1
+Smoltz J              1.0  3  2  2  0  0
+Ohman W (W)           1.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Olsen S, Infante O
+LOB -- Florida 7, Atlanta 12
+2B -- Uggla D 2, Blanco G, Treanor M
+3B -- Hermida J
+HR -- Francoeur J, Teixeira M, Escobar Y
+SB -- Anderson J
+SH -- Olsen S
+SF -- Cantu J
+HBP -- by Olsen S (McCann B)
+WP -- Gregg K, Kensing L
+T -- 3:01
+A -- 20896
+     Game of 6/3/2008 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Ramirez H, ss         3  1  1  0   Escobar Y, ss         4  1  1  0   
+Hermida J, rf         4  0  1  0   Johnson K, 2b         3  1  0  0   
+Cantu J, 3b           3  0  1  1   Jones C, 3b           4  2  2  3   
+Jacobs M, 1b          4  1  1  0   Teixeira M, 1b        3  1  1  0   
+Uggla D, 2b           3  2  2  3   Norton G, lf          3  0  1  2   
+Gonzalez L, lf        4  0  0  0   Soriano R, p          0  0  0  0   
+Nelson J, p           0  0  0  0   Francoeur J, rf       4  0  0  0   
+Ross C, cf            4  0  0  0   Miller C, c           3  0  0  0   
+Treanor M, c          4  0  1  0   Infante O, ph-lf      0  0  0  0   
+Badenhop B, p         2  0  1  0   Blanco G, cf          3  0  1  0   
+Waechter D, p         1  0  0  0   Campillo J, p         1  0  0  0   
+Pinto R, p            0  0  0  0   Gotay R, ph           0  0  0  0   
+Lindstrom M, p        0  0  0  0   Bennett J, p          0  0  0  0   
+Tankersley T, p       0  0  0  0   Anderson J, ph        1  0  0  0   
+Jones J, lf           1  0  0  0   Ohman W, p            0  0  0  0   
+                                   McCann B, ph-c        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  8  4                        29  5  6  5
+
+Florida          110 200 000 --  4
+Atlanta          300 000 02x --  5
+
+  Florida              IP  H  R ER BB SO
+Badenhop B            5.0  3  3  3  5  3
+Waechter D            1.2  0  0  0  1  1
+Pinto R               0.1  0  0  0  0  0
+Lindstrom M (L)       0.1  3  2  2  1  1
+Tankersley T          0.1  0  0  0  1  1
+Nelson J              0.1  0  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Campillo J            4.0  6  4  4  1  3
+Bennett J             3.0  1  0  0  0  4
+Ohman W (W)           1.0  1  0  0  1  0
+Soriano R (S)         1.0  0  0  0  0  1
+
+E -- Jones C
+DP -- Atlanta 2
+LOB -- Florida 5, Atlanta 8
+2B -- Ramirez H, Cantu J, Teixeira M, Norton G
+HR -- Jones C, Uggla D 2
+CS -- Escobar Y
+SF -- Cantu J
+WP -- Pinto R
+T -- 2:59
+A -- 25476
+     Game of 6/4/2008 -- Florida at Atlanta (D)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Ramirez H, ss         3  3  2  3   Escobar Y, ss         3  1  1  1   
+Hermida J, rf         5  0  1  0   Johnson K, 2b         5  1  2  0   
+Helms W, 3b           4  0  1  0   Francoeur J, rf       5  0  2  1   
+Jacobs M, 1b          4  0  1  1   Teixeira M, 1b        4  0  0  0   
+Gonzalez L, lf        4  0  0  0   Norton G, lf          4  0  1  1   
+Ross C, cf            3  1  1  0   Ohman W, p            0  0  0  0   
+Rabelo M, c           4  1  2  2   Acosta M, p           0  0  0  0   
+Amezaga A, 2b         4  0  1  0   Ring R, p             0  0  0  0   
+Hendrickson M, p      2  0  0  0   McCann B, c           4  0  0  0   
+Jones J, ph           1  0  0  0   Infante O, 3b         4  1  1  0   
+Miller J, p           0  0  0  0   Anderson J, cf-lf     4  1  2  1   
+Cantu J, ph           1  1  1  0   Glavine T, p          0  0  0  0   
+Gregg K, p            0  0  0  0   Boyer B, p            0  0  0  0   
+                                   Blanco G, cf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6 10  6                        34  4  9  4
+
+Florida          101 000 004 --  6
+Atlanta          120 001 000 --  4
+
+  Florida              IP  H  R ER BB SO
+Hendrickson M         6.0  9  4  4  2  2
+Miller J (W)          2.0  0  0  0  0  1
+Gregg K (S)           1.0  0  0  0  1  1
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T             5.0  6  2  2  2  5
+Boyer B               2.1  0  0  0  1  2
+Ohman W               0.2  0  0  0  0  0
+Acosta M (L)          0.1  4  4  4  0  0
+Ring R                0.2  0  0  0  0  1
+
+DP -- Atlanta 1
+LOB -- Florida 6, Atlanta 8
+2B -- Johnson K, Amezaga A, Helms W, Infante O, Cantu J
+HR -- Ramirez H 2, Rabelo M
+SB -- Ramirez H
+SH -- Glavine T, Boyer B
+HBP -- by Glavine T (Ross C)
+T -- 3:00
+A -- 26917
+     Game of 6/5/2008 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Ramirez H, ss         4  2  1  1   Escobar Y, ss         5  2  2  1   
+Hermida J, rf         5  0  2  0   Johnson K, 2b         5  1  1  0   
+Cantu J, 3b           5  0  1  1   Jones C, 3b           5  1  4  1   
+Jacobs M, 1b          5  0  1  0   Teixeira M, 1b        5  1  3  1   
+Amezaga A, pr         0  0  0  0   McCann B, c           3  1  1  2   
+Uggla D, 2b           5  1  3  0   Francoeur J, rf       4  0  1  1   
+Gonzalez L, lf        5  0  1  0   Blanco G, cf          4  0  0  0   
+Treanor M, c          3  1  1  0   Anderson J, lf        3  1  1  0   
+Jones J, cf           3  1  1  1   Jurrjens J, p         2  0  0  0   
+Nolasco R, p          2  0  1  1   Ring R, p             0  0  0  0   
+Kensing L, p          0  0  0  0   Gotay R, ph           1  0  0  0   
+Helms W, ph           1  0  1  0   Bennett J, p          0  0  0  0   
+Nelson J, p           0  0  0  0   Soriano R, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  5 13  4                        37  7 13  6
+
+Florida          100 400 000 --  5
+Atlanta          102 121 00x --  7
+
+  Florida              IP  H  R ER BB SO
+Nolasco R (L)         5.2 12  7  7  3  2
+Kensing L             1.1  0  0  0  0  2
+Nelson J              1.0  1  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J (W)        6.0 11  5  5  2  4
+Ring R                1.0  0  0  0  0  1
+Bennett J             1.0  1  0  0  1  2
+Soriano R (S)         1.0  1  0  0  0  1
+
+E -- Hermida J, McCann B, Jacobs M
+DP -- Florida 1, Atlanta 1
+LOB -- Florida 10, Atlanta 9
+2B -- Gonzalez L, Francoeur J, Helms W, Jacobs M
+3B -- Anderson J
+HR -- Ramirez H, Escobar Y, McCann B, Jones C
+SB -- Uggla D, Ramirez H, Jones C
+SH -- Nolasco R
+T -- 2:53
+A -- 27238
+     Game of 6/6/2008 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Rollins J, ss         3  0  0  0   Escobar Y, ss         5  0  1  1   
+Victorino S, cf       3  2  2  1   Johnson K, 2b         3  0  1  0   
+Utley C, 2b           5  0  1  2   Jones C, 3b           3  0  2  0   
+Howard R, 1b          5  0  1  0   Teixeira M, 1b        3  1  1  0   
+Burrell P, lf         4  0  1  0   Francoeur J, rf       5  0  0  0   
+Lidge B, p            0  0  0  0   Carlyle B, p          0  0  0  0   
+Jenkins G, rf         3  0  1  0   McCann B, c           3  1  1  2   
+Bruntlett E, pr-rf    1  1  0  0   Infante O, lf         4  0  1  0   
+Feliz P, 3b           2  0  0  0   Anderson J, lf-rf     1  1  1  0   
+Coste C, c            4  0  1  0   Blanco G, cf          5  0  2  0   
+Moyer J, p            1  0  0  0   Hudson T, p           3  0  0  0   
+Durbin C, p           0  0  0  0   Ohman W, p            0  0  0  0   
+Romero J, p           0  0  0  0   Boyer B, p            0  0  0  0   
+Seanez R, p           0  0  0  0   Acosta M, p           0  0  0  0   
+Dobbs G, ph           1  0  0  0   Ring R, p             0  0  0  0   
+Madson R, p           0  0  0  0   Norton G, lf          1  0  0  0   
+Gordon T, p           0  0  0  0                                      
+Snelling C, ph        1  0  1  0                                      
+Taguchi S, pr-lf      0  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  4  8  3                        36  3 10  3
+
+Philadelphia     100 000 001 2 --  4
+Atlanta          000 002 000 1 --  3
+
+  Philadelphia         IP  H  R ER BB SO
+Moyer J               5.1  5  2  2  3  4
+Durbin C*             0.2  0  0  0  1  0
+Romero J              0.1  0  0  0  1  0
+Seanez R              0.2  0  0  0  0  0
+Madson R              1.0  1  0  0  1  1
+Gordon T (W)          1.0  1  0  0  1  1
+Lidge B (S)           1.0  3  1  1  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T              7.2  5  1  1  4  3
+Ohman W               0.2  0  0  0  0  1
+Boyer B               0.2  0  1  0  2  0
+Acosta M (L)          0.1  2  2  2  0  0
+Ring R                0.1  1  0  0  0  0
+Carlyle B             0.1  0  0  0  1  0
+  * Pitched to 1 batter in 7th
+
+E -- Johnson K
+DP -- Philadelphia 1, Atlanta 2
+LOB -- Philadelphia 8, Atlanta 13
+2B -- Jones C, Jenkins G, Johnson K, Snelling C, Utley C
+3B -- Victorino S 2, Infante O
+HR -- McCann B
+SB -- Bruntlett E, Blanco G
+CS -- Victorino S
+SH -- Moyer J, Johnson K, Rollins J
+HBP -- by Moyer J (McCann B), by Romero J (Teixeira M)
+T -- 3:36
+A -- 34074
+     Game of 6/7/2008 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Rollins J, ss         5  1  1  2   Escobar Y, ss         5  0  0  0   
+Victorino S, cf       4  1  0  0   Johnson K, 2b         4  1  1  0   
+Utley C, 2b           3  1  2  1   Jones C, 3b           3  1  1  2   
+Howard R, 1b          5  0  1  1   Teixeira M, 1b        3  0  0  0   
+Burrell P, lf         4  1  2  1   McCann B, c           3  0  0  0   
+Taguchi S, lf         0  0  0  0   Francoeur J, rf       4  0  2  0   
+Werth J, rf           4  0  2  0   Blanco G, cf          2  0  0  0   
+Feliz P, 3b           4  0  1  0   Anderson J, lf        3  0  1  0   
+Ruiz C, c             3  2  1  1   Reyes J, p            3  0  0  0   
+Kendrick K, p         1  0  0  0   Ring R, p             0  0  0  0   
+Madson R, p           1  0  0  0   Bennett J, p          0  0  0  0   
+Romero J, p           0  0  0  0   Stockman P, p         0  0  0  0   
+Gordon T, p           0  0  0  0   Norton G, ph          1  0  0  0   
+Dobbs G, ph           1  0  0  0                                      
+Lidge B, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  6 10  6                        31  2  5  2
+
+Philadelphia     000 011 022 --  6
+Atlanta          000 002 000 --  2
+
+  Philadelphia         IP  H  R ER BB SO
+Kendrick K            5.1  4  2  2  5  3
+Madson R              1.0  0  0  0  1  0
+Romero J (W)          0.2  0  0  0  0  0
+Gordon T              1.0  1  0  0  1  3
+Lidge B               1.0  0  0  0  0  3
+
+  Atlanta              IP  H  R ER BB SO
+Reyes J (L)           7.1  7  4  4  2  8
+Ring R*               0.0  1  0  0  0  0
+Bennett J             1.0  2  2  2  1  2
+Stockman P            0.2  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Howard R
+DP -- Philadelphia 1, Atlanta 2
+LOB -- Philadelphia 7, Atlanta 9
+2B -- Burrell P
+3B -- Utley C
+HR -- Ruiz C, Burrell P, Jones C, Rollins J
+SB -- Johnson K, Jones C
+CS -- Escobar Y
+HBP -- by Reyes J (Utley C), by Stockman P (Utley C)
+T -- 3:02
+A -- 43854
+     Game of 6/8/2008 -- Philadelphia at Atlanta (D)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Rollins J, ss         4  1  1  0   Anderson J, lf        5  0  1  1   
+Victorino S, cf       5  3  3  1   Blanco G, cf          3  0  0  0   
+Utley C, 2b           4  1  1  0   Escobar Y, ss         5  1  2  0   
+Howard R, 1b          5  0  3  4   Teixeira M, 1b        5  1  3  2   
+Burrell P, lf         3  0  0  0   Johnson K, 2b         3  0  0  0   
+Taguchi S, pr         0  0  0  0   Francoeur J, rf       4  0  1  0   
+Lidge B, p            0  0  0  0   Infante O, 3b         3  1  1  0   
+Jenkins G, rf         3  0  0  1   Miller C, c           3  0  0  0   
+Werth J, ph-rf        2  0  0  0   Gotay R, ph           1  0  0  0   
+Dobbs G, 3b           2  0  1  0   Boyer B, p            0  0  0  0   
+Feliz P, ph-3b        1  0  0  0   Acosta M, p           0  0  0  0   
+Coste C, c            4  0  1  0   Campillo J, p         1  0  1  0   
+Eaton A, p            2  0  0  0   Carlyle B, p          0  0  0  0   
+Durbin C, p           0  0  0  0   Norton G, ph          1  0  0  0   
+Bruntlett E, ph-lf    1  1  1  0   Ohman W, p            0  0  0  0   
+                                   McCann B, ph-c        1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6 11  6                        35  3 10  3
+
+Philadelphia     201 000 003 --  6
+Atlanta          200 100 000 --  3
+
+  Philadelphia         IP  H  R ER BB SO
+Eaton A               6.0  8  3  3  2  2
+Durbin C (W)          2.0  2  0  0  1  2
+Lidge B (S)           1.0  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Campillo J            5.1  7  3  3  3  2
+Carlyle B             0.2  0  0  0  1  1
+Ohman W               2.0  0  0  0  0  3
+Boyer B (L)           0.1  4  3  3  1  0
+Acosta M              0.2  0  0  0  1  0
+
+DP -- Philadelphia 1, Atlanta 1
+LOB -- Philadelphia 9, Atlanta 10
+2B -- Howard R 3, Escobar Y
+HR -- Teixeira M
+SB -- Victorino S
+SH -- Campillo J
+HBP -- by Eaton A (Blanco G)
+WP -- Carlyle B
+T -- 3:09
+A -- 33370
+     Game of 6/20/2008 -- Seattle at Atlanta (N)
+
+  Seattle            AB  R  H RBI    Atlanta            AB  R  H RBI
+Suzuki I, rf          3  2  1  0   Blanco G, cf          4  0  0  0   
+Lopez J, 2b           5  2  3  4   Escobar Y, ss         4  1  1  0   
+Ibanez R, lf          5  1  3  1   Ring R, p             0  0  0  0   
+Beltre A, 3b          4  0  2  3   Jones C, 3b           2  1  0  0   
+Sexson R, 1b          3  0  0  0   Johnson K, 2b         1  0  1  1   
+Green S, p            0  0  0  0   Teixeira M, 1b        3  0  0  0   
+Johjima K, ph         1  0  0  0   Infante O, lf-ss      3  0  2  1   
+Lowe M, p             0  0  0  0   McCann B, c           4  0  1  0   
+Batista M, p          0  0  0  0   Francoeur J, rf       3  0  0  0   
+Clement J, c          5  0  0  0   Gotay R, 2b-3b        4  0  2  0   
+Betancourt Y, ss      5  1  2  0   Campillo J, p         1  0  0  0   
+Bloomquist W, cf      4  2  2  0   Bennett J, p          0  0  0  0   
+Bedard E, p           1  0  1  0   Jones B, ph           1  0  0  0   
+Corcoran R, p         1  0  0  0   Ohman W, p            0  0  0  0   
+Rowland-Smith R, p    0  0  0  0   Carlyle B, p          0  0  0  0   
+Reed J, ph            1  1  1  1   Norton G, lf          0  0  0  0   
+Cairo M, 1b           1  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39 10 15  9                        30  2  7  2
+
+Seattle          000 001 351 -- 10
+Atlanta          000 100 010 --  2
+
+  Seattle              IP  H  R ER BB SO
+Bedard E              3.0  2  0  0  0  1
+Corcoran R            1.1  3  1  1  2  0
+Rowland-Smith R (W)   1.2  0  0  0  1  1
+Green S               1.0  0  0  0  0  0
+Lowe M                1.0  2  1  1  0  0
+Batista M             1.0  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Campillo J (L)        6.1  8  4  4  3  2
+Bennett J             0.2  2  0  0  0  1
+Ohman W               0.2  3  5  5  2  0
+Carlyle B             0.1  1  0  0  0  0
+Ring R                1.0  1  1  0  0  0
+
+E -- Infante O, Cairo M
+DP -- Seattle 4, Atlanta 3
+LOB -- Seattle 8, Atlanta 6
+2B -- Ibanez R 2, Betancourt Y 2, Lopez J 2, Beltre A, Reed J, Johnson K
+SB -- Bloomquist W
+SH -- Campillo J
+SF -- Beltre A
+HBP -- by Green S (Francoeur J)
+T -- 2:53
+A -- 40268
+     Game of 6/21/2008 -- Seattle at Atlanta (N)
+
+  Seattle            AB  R  H RBI    Atlanta            AB  R  H RBI
+Suzuki I, rf          5  1  2  0   Infante O, ss         5  1  3  0   
+Cairo M, 3b           4  0  0  0   Johnson K, 2b         4  1  1  0   
+Lopez J, 2b           4  1  0  0   Norton G, lf          5  1  2  1   
+Ibanez R, lf          3  1  0  0   Teixeira M, 1b        3  0  1  1   
+Reed J, cf            2  1  1  1   Francoeur J, rf       4  0  0  0   
+Sexson R, 1b          2  0  0  0   McCann B, c           4  0  2  1   
+Betancourt Y, ss      4  0  2  3   Gotay R, 3b           4  1  1  1   
+Johjima K, c          4  0  0  0   Blanco G, cf          3  1  0  0   
+Washburn J, p         2  0  0  0   Jurrjens J, p         2  0  0  0   
+Corcoran R, p         0  0  0  0   Escobar Y, ph         1  0  0  0   
+Clement J, ph         1  0  0  0   Acosta M, p           0  0  0  0   
+Green S, p            0  0  0  0   Jones C, ph           1  0  1  1   
+Rhodes A, p           0  0  0  0   Lillibridge B, pr     0  0  0  0   
+Vidro J, ph           1  0  0  0   Boyer B, p            0  0  0  0   
+Batista M, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  5  4                        36  5 11  5
+
+Seattle          300 000 010 --  4
+Atlanta          100 000 022 --  5
+  0 outs when winning run was scored.
+
+  Seattle              IP  H  R ER BB SO
+Washburn J            5.2  6  1  1  3  8
+Corcoran R            0.1  0  0  0  0  0
+Green S               1.2  2  2  1  0  2
+Rhodes A              0.1  1  0  0  0  1
+Batista M (L)         0.0  2  2  2  2  0
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J            6.0  3  3  0  2  4
+Acosta M              2.0  2  1  1  2  0
+Boyer B (W)           1.0  0  0  0  0  0
+
+E -- Infante O 2, Gotay R, Betancourt Y
+LOB -- Seattle 6, Atlanta 13
+2B -- Johnson K, Norton G 2, Infante O
+HR -- Gotay R
+SB -- Suzuki I 2, McCann B
+CS -- Betancourt Y
+SF -- Reed J
+HBP -- by Batista M (Francoeur J)
+WP -- Jurrjens J
+T -- 3:10
+A -- 47158
+     Game of 6/22/2008 -- Seattle at Atlanta (D)
+
+  Seattle            AB  R  H RBI    Atlanta            AB  R  H RBI
+Suzuki I, rf          5  1  0  0   Blanco G, cf          5  0  2  1   
+Bloomquist W, 2b      4  0  2  1   Infante O, ss         5  0  1  0   
+Ibanez R, lf          5  0  2  0   Johnson K, 2b         4  1  1  0   
+Vidro J, 1b           2  0  0  0   Teixeira M, 1b        4  3  3  4   
+Rowland-Smith R, p    0  0  0  0   McCann B, c           4  2  2  1   
+Lopez J, ph           1  0  0  0   Norton G, lf          4  1  2  0   
+Lowe M, p             0  0  0  0   Gotay R, 3b           3  0  1  2   
+Reed J, cf            4  0  0  0   Jones B, rf           4  1  1  0   
+Betancourt Y, ss      4  1  1  0   Hudson T, p           3  0  1  0   
+Clement J, c          3  1  2  2   Francoeur J, ph       1  0  0  0   
+Cairo M, 3b           3  0  0  0   Ohman W, p            0  0  0  0   
+Silva C, p            1  0  0  0   Gonzalez M, p         0  0  0  0   
+Burke J, ph           1  0  0  0                                      
+Dickey R, p           0  0  0  0                                      
+Sexson R, ph-1b       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  7  3                        37  8 14  8
+
+Seattle          000 000 003 --  3
+Atlanta          010 320 20x --  8
+
+  Seattle              IP  H  R ER BB SO
+Silva C (L)           4.0  9  4  4  0  1
+Dickey R              2.0  2  2  2  1  3
+Rowland-Smith R       1.0  3  2  2  1  2
+Lowe M                1.0  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (W)          7.0  4  0  0  4  2
+Ohman W               1.0  0  0  0  0  1
+Gonzalez M            1.0  3  3  2  0  1
+
+E -- Gotay R
+DP -- Seattle 1, Atlanta 1
+LOB -- Seattle 9, Atlanta 7
+2B -- Ibanez R, Norton G, Clement J
+HR -- Teixeira M 3, McCann B, Clement J
+HBP -- by Hudson T (Clement J)
+T -- 2:25
+A -- 30965
+     Game of 6/23/2008 -- Milwaukee at Atlanta (N)
+
+  Milwaukee          AB  R  H RBI    Atlanta            AB  R  H RBI
+Weeks R, 2b           4  1  3  0   Blanco G, cf          4  0  0  0   
+Hardy J, ss           4  1  1  1   Escobar Y, ss         4  0  0  0   
+Braun R, lf           4  0  2  1   Johnson K, 2b         4  1  2  0   
+Fielder P, 1b         4  0  0  0   Teixeira M, 1b        4  0  1  0   
+Hart C, rf            3  1  1  0   McCann B, c           3  0  0  0   
+Cameron M, cf         3  1  1  2   Infante O, 3b         3  0  1  0   
+Hall B, 3b            4  0  0  0   Francoeur J, rf       3  0  0  0   
+Kendall J, c          4  0  1  0   Bennett J, p          0  0  0  0   
+Sheets B, p           3  0  0  0   Jones B, lf-rf        3  0  0  0   
+                                   Reyes J, p            0  0  0  0   
+                                   Carlyle B, p          2  0  0  0   
+                                   Ring R, p             0  0  0  0   
+                                   Norton G, lf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  9  4                        31  1  4  0
+
+Milwaukee        022 000 000 --  4
+Atlanta          000 100 000 --  1
+
+  Milwaukee            IP  H  R ER BB SO
+Sheets B (W)          9.0  4  1  1  0  7
+
+  Atlanta              IP  H  R ER BB SO
+Reyes J (L)           2.1  6  4  4  2  1
+Carlyle B             4.1  2  0  0  1  4
+Ring R                0.1  0  0  0  0  0
+Bennett J             2.0  1  0  0  0  0
+
+E -- Kendall J
+DP -- Milwaukee 1, Atlanta 1
+LOB -- Milwaukee 7, Atlanta 3
+2B -- Weeks R, Hardy J, Braun R
+HR -- Cameron M
+SB -- Braun R, Weeks R
+SH -- Hardy J, Sheets B
+WP -- Reyes J
+T -- 2:14
+A -- 25661
+     Game of 6/24/2008 -- Milwaukee at Atlanta (N)
+
+  Milwaukee          AB  R  H RBI    Atlanta            AB  R  H RBI
+Weeks R, 2b           4  1  0  1   Blanco G, cf          4  0  0  0   
+Hardy J, ss           3  1  2  1   Escobar Y, ss         2  0  1  0   
+Braun R, lf           4  0  1  1   Gotay R, 3b           2  0  0  0   
+Fielder P, 1b         4  0  0  0   Johnson K, 2b         3  1  0  0   
+Hart C, rf            4  0  1  1   Teixeira M, 1b        4  2  2  2   
+Branyan R, 3b         4  0  1  0   McCann B, c           4  0  1  0   
+Cameron M, cf         4  0  0  0   Jurrjens J, pr        0  0  0  0   
+Kendall J, c          3  2  2  0   Infante O, 3b-ss      3  0  0  1   
+Bush D, p             1  0  0  0   Francoeur J, rf       4  0  2  0   
+Shouse B, p           0  0  0  0   Jones B, lf           3  0  0  0   
+Counsell C, ph        1  0  0  0   Morton C, p           1  0  0  0   
+Torres S, p           0  0  0  0   Norton G, ph          0  0  0  0   
+                                   Acosta M, p           0  0  0  0   
+                                   Jones C, ph           1  0  1  0   
+                                   Lillibridge B, pr     0  0  0  0   
+                                   Boyer B, p            0  0  0  0   
+                                   Miller C, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  7  4                        32  3  7  3
+
+Milwaukee        210 100 000 --  4
+Atlanta          000 000 102 --  3
+
+  Milwaukee            IP  H  R ER BB SO
+Bush D (W)            7.0  4  1  1  1  5
+Shouse B              1.0  1  0  0  0  0
+Torres S (S)          1.0  2  2  2  2  0
+
+  Atlanta              IP  H  R ER BB SO
+Morton C (L)          6.0  7  4  2  1  4
+Acosta M              2.0  0  0  0  1  1
+Boyer B               1.0  0  0  0  0  1
+
+E -- Escobar Y, Francoeur J 2, Fielder P, Infante O
+DP -- Milwaukee 2, Atlanta 1
+LOB -- Milwaukee 6, Atlanta 6
+2B -- Hardy J, Hart C, Teixeira M
+HR -- Teixeira M
+SB -- Kendall J
+SH -- Bush D 2, Infante O
+SF -- Weeks R
+WP -- Morton C
+T -- 2:31
+A -- 29224
+     Game of 6/25/2008 -- Milwaukee at Atlanta (D)
+
+  Milwaukee          AB  R  H RBI    Atlanta            AB  R  H RBI
+Weeks R, 2b           4  0  2  1   Blanco G, cf          4  1  2  1   
+Counsell C, ss        4  0  0  0   Gotay R, 3b           4  0  0  0   
+Braun R, lf           4  0  1  0   Johnson K, 2b         4  0  2  3   
+Fielder P, 1b         4  0  0  0   Teixeira M, 1b        3  0  0  0   
+Hart C, rf            4  0  1  0   McCann B, c           4  0  0  0   
+Branyan R, 3b         3  0  0  0   Infante O, ss         1  0  1  0   
+Hall B, ph            1  0  0  0   Lillibridge B, pr-ss  3  0  1  0   
+Cameron M, cf         3  1  1  0   Francoeur J, rf       3  0  1  0   
+Stetter M, p          0  0  0  0   Jones B, lf           3  1  1  0   
+Mota G, p             0  0  0  0   Jones C, ph           1  0  0  0   
+Rivera M, c           3  1  1  1   Gonzalez M, p         0  0  0  0   
+Suppan J, p           1  0  0  0   Campillo J, p         3  2  2  0   
+Kapler G, cf          1  0  0  0   Boyer B, p            0  0  0  0   
+                                   Norton G, lf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        33  4 10  4
+
+Milwaukee        002 000 000 --  2
+Atlanta          002 020 00x --  4
+
+  Milwaukee            IP  H  R ER BB SO
+Suppan J (L)          6.0  9  4  4  1  5
+Stetter M             1.2  1  0  0  1  2
+Mota G                0.1  0  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Campillo J (W)        7.0  4  2  2  0  6
+Boyer B               1.0  1  0  0  0  1
+Gonzalez M (S)        1.0  1  0  0  0  2
+
+E -- Campillo J
+DP -- Milwaukee 1
+LOB -- Milwaukee 4, Atlanta 7
+2B -- Infante O, Rivera M, Weeks R, Johnson K, Jones B, Hart C, Lillibridge B
+3B -- Weeks R
+SH -- Suppan J
+T -- 2:29
+A -- 34829
+     Game of 7/1/2008 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Rollins J, ss         4  1  2  0   Blanco G, lf          4  0  2  0   
+Victorino S, cf       5  1  2  4   Johnson K, 2b         3  0  0  0   
+Utley C, 2b           6  1  2  0   Jones C, 3b           3  0  1  0   
+Howard R, 1b          5  1  2  0   Teixeira M, 1b        4  0  0  1   
+Burrell P, lf         3  1  2  2   McCann B, c           4  0  2  0   
+Werth J, pr-lf        1  1  1  0   Kotsay M, cf          4  0  0  0   
+Jenkins G, rf         5  0  2  1   Francoeur J, rf       4  1  1  0   
+Feliz P, 3b           4  0  0  1   Lillibridge B, ss     4  1  1  0   
+Ruiz C, c             2  1  0  0   Morton C, p           0  0  0  0   
+Kendrick K, p         3  0  0  0   Carlyle B, p          1  0  0  0   
+Romero J, p           0  0  0  0   Infante O, ph         1  0  0  0   
+Taguchi S, ph         0  0  0  0   Acosta M, p           0  0  0  0   
+Gordon T, p           0  0  0  0   Norton G, ph          1  1  1  2   
+Dobbs G, ph           1  1  1  0   Ohman W, p            0  0  0  0   
+Lidge B, p            0  0  0  0   Boyer B, p            0  0  0  0   
+                                   Ring R, p             0  0  0  0   
+                                   Gotay R, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  8 14  8                        34  3  8  3
+
+Philadelphia     014 000 003 --  8
+Atlanta          000 000 300 --  3
+
+  Philadelphia         IP  H  R ER BB SO
+Kendrick K (W)*       6.0  7  3  3  2  2
+Romero J              1.0  0  0  0  2  0
+Gordon T              1.0  0  0  0  0  0
+Lidge B               1.0  1  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Morton C (L)+         2.0  8  5  5  1  1
+Carlyle B             3.0  1  0  0  0  5
+Acosta M              2.0  2  0  0  1  0
+Ohman W               1.0  0  0  0  2  2
+Boyer B               0.2  3  3  3  2  1
+Ring R                0.1  0  0  0  0  0
+  * Pitched to 3 batters in 7th
+  + Pitched to 6 batters in 3rd
+
+E -- Lillibridge B
+LOB -- Philadelphia 13, Atlanta 9
+2B -- McCann B, Jenkins G, Jones C, Norton G
+HR -- Burrell P, Victorino S
+SB -- Blanco G, Werth J
+SH -- Johnson K, Taguchi S, Rollins J
+SF -- Feliz P
+T -- 3:07
+A -- 29206
+     Game of 7/2/2008 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Rollins J, ss         4  2  3  1   Blanco G, lf          4  0  1  0   
+Victorino S, cf       5  0  0  0   Escobar Y, ss         5  0  1  0   
+Utley C, 2b           4  1  2  1   Jones C, 3b           4  1  1  1   
+Howard R, 1b          4  1  1  3   Teixeira M, 1b        3  1  1  0   
+Burrell P, lf         4  1  1  1   McCann B, c           3  0  0  0   
+Romero J, p           0  0  0  0   Johnson K, 2b         3  0  1  0   
+Madson R, p           0  0  0  0   Francoeur J, rf       4  0  0  0   
+Taguchi S, ph         1  0  0  0   Kotsay M, cf          4  0  0  0   
+Lidge B, p            0  0  0  0   Campillo J, p         1  0  0  0   
+Werth J, rf           4  0  1  0   Gotay R, ph           1  1  1  1   
+Feliz P, 3b           4  1  2  0   Bennett J, p          0  0  0  0   
+Coste C, c            4  0  2  1   Ohman W, p            0  0  0  0   
+Eaton A, p            2  0  1  0   Infante O, ph         1  0  0  0   
+Durbin C, p           0  0  0  0   Boyer B, p            0  0  0  0   
+Bruntlett E, lf       0  1  0  0   Ring R, p             0  0  0  0   
+                                   Norton G, ph          1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 13  7                        34  3  7  2
+
+Philadelphia     013 010 002 --  7
+Atlanta          000 011 010 --  3
+
+  Philadelphia         IP  H  R ER BB SO
+Eaton A (W)*          5.0  5  2  2  5  2
+Durbin C              2.0  0  0  0  0  1
+Romero J              0.2  1  1  1  1  1
+Madson R              0.1  0  0  0  0  1
+Lidge B               1.0  1  0  0  0  3
+
+  Atlanta              IP  H  R ER BB SO
+Campillo J (L)        5.0  8  5  5  2  0
+Bennett J             1.1  2  0  0  0  1
+Ohman W               0.2  0  0  0  0  0
+Boyer B+              1.0  1  1  1  1  0
+Ring R                1.0  2  1  1  1  1
+  * Pitched to 3 batters in 6th
+  + Pitched to 1 batter in 9th
+
+E -- Howard R 2
+DP -- Philadelphia 2, Atlanta 2
+LOB -- Philadelphia 7, Atlanta 10
+2B -- Utley C, Feliz P, Coste C, Teixeira M
+3B -- Rollins J
+HR -- Howard R, Burrell P, Gotay R, Jones C
+SB -- Rollins J, Werth J, Utley C
+SH -- Eaton A
+T -- 3:14
+A -- 30138
+     Game of 7/3/2008 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Rollins J, ss         3  0  1  0   Blanco G, cf          4  0  1  0   
+Victorino S, cf       4  0  0  0   Escobar Y, ss         4  0  1  0   
+Utley C, 2b           4  1  1  1   Jones C, 3b           4  1  1  0   
+Howard R, 1b          4  1  1  1   Teixeira M, 1b        4  0  0  0   
+Burrell P, lf         4  1  2  0   Infante O, lf         4  0  1  0   
+Werth J, lf           0  0  0  0   McCann B, c           3  0  1  1   
+Jenkins G, rf         4  0  0  0   Francoeur J, rf       4  0  0  0   
+Feliz P, 3b           4  1  3  2   Prado M, 2b           3  0  0  0   
+Ruiz C, c             4  0  0  0   Jurrjens J, p         1  0  0  0   
+Hamels C, p           3  0  0  0   Ohman W, p            0  0  0  0   
+Gordon T, p           0  0  0  0   Norton G, ph          1  0  0  0   
+                                   Gonzalez M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  8  4                        32  1  5  1
+
+Philadelphia     100 101 100 --  4
+Atlanta          000 000 001 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Hamels C (W)          8.2  5  1  1  2  7
+Gordon T (S)          0.1  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J (L)        7.0  8  4  4  1  6
+Ohman W               1.0  0  0  0  0  1
+Gonzalez M            1.0  0  0  0  0  1
+
+DP -- Atlanta 1
+LOB -- Philadelphia 4, Atlanta 6
+2B -- Escobar Y, Burrell P, Blanco G, Jones C, McCann B
+3B -- Rollins J
+HR -- Utley C, Howard R, Feliz P
+SB -- Rollins J
+T -- 2:21
+A -- 28805
+     Game of 7/4/2008 -- Houston at Atlanta (N)
+
+  Houston            AB  R  H RBI    Atlanta            AB  R  H RBI
+Erstad D, cf          4  2  1  0   Blanco G, lf          2  1  0  0   
+Loretta M, 2b         4  0  1  0   Escobar Y, ss         4  0  0  0   
+Berkman L, 1b         4  0  2  1   Jones C, 3b           4  1  2  1   
+Lee C, lf             2  0  1  0   Teixeira M, 1b        1  2  1  0   
+Tejada M, ss          4  0  0  0   McCann B, c           4  1  2  1   
+Blum G, 3b            3  0  0  0   Johnson K, 2b         4  1  1  2   
+Pence H, rf           4  0  1  0   Kotsay M, cf          3  0  1  1   
+Towles J, c           4  0  0  0   Perry J, rf           4  0  1  1   
+Moehler B, p          1  0  0  0   Hudson T, p           2  0  0  0   
+Newhan D, ph          1  0  0  0   Prado M, ph           1  0  0  0   
+Wright W, p           0  0  0  0   Boyer B, p            0  0  0  0   
+                                   Bennett J, p          0  0  0  0   
+                                   Gonzalez M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  1                        29  6  8  6
+
+Houston          000 001 010 --  2
+Atlanta          021 002 10x --  6
+
+  Houston              IP  H  R ER BB SO
+Moehler B (L)         6.0  6  5  5  3  1
+Wright W              2.0  2  1  1  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (W)          7.0  4  1  1  3  6
+Boyer B               0.1  2  1  1  0  0
+Bennett J             0.2  0  0  0  1  0
+Gonzalez M            1.0  0  0  0  0  2
+
+DP -- Houston 2, Atlanta 2
+LOB -- Houston 6, Atlanta 5
+2B -- Berkman L
+3B -- Perry J
+HR -- Johnson K
+SB -- Blanco G
+SF -- Kotsay M
+HBP -- by Wright W (Blanco G)
+WP -- Bennett J
+T -- 2:34
+A -- 48045
+     Game of 7/5/2008 -- Houston at Atlanta (N)
+
+  Houston            AB  R  H RBI    Atlanta            AB  R  H RBI
+Wigginton T, 3b       3  1  0  0   Blanco G, lf          4  0  1  0   
+Loretta M, 2b         4  1  3  4   Escobar Y, ss         4  0  1  0   
+Bourn M, cf           0  0  0  0   Jones C, 3b           4  0  0  0   
+Berkman L, 1b         4  0  0  0   Teixeira M, 1b        3  0  1  0   
+Lee C, lf             4  1  1  1   McCann B, c           3  1  1  1   
+Valverde J, p         0  0  0  0   Johnson K, 2b         3  0  0  0   
+Tejada M, ss          4  0  1  1   Kotsay M, cf          3  0  0  0   
+Pence H, rf           4  0  0  0   Perry J, rf           3  0  0  0   
+Abercrombie R, cf     3  0  0  0   Reyes J, p            1  0  0  0   
+Byrdak T, p           0  0  0  0   Acosta M, p           0  0  0  0   
+Brocail D, p          0  0  0  0   Prado M, ph           1  0  0  0   
+Newhan D, ph-2b       0  1  0  0   Carlyle B, p          0  0  0  0   
+Ausmus B, c           4  1  1  0   Norton G, ph          1  0  0  0   
+Sampson C, p          1  0  1  0   Bennett J, p          0  0  0  0   
+Erstad D, cf-lf       2  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  6  8  6                        30  1  4  1
+
+Houston          220 000 002 --  6
+Atlanta          000 010 000 --  1
+
+  Houston              IP  H  R ER BB SO
+Sampson C (W)         5.0  2  1  1  0  2
+Byrdak T              2.0  2  0  0  0  1
+Brocail D             1.0  0  0  0  0  0
+Valverde J            1.0  0  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Reyes J (L)           4.1  6  4  4  3  2
+Acosta M              1.2  0  0  0  0  2
+Carlyle B             2.0  0  0  0  0  2
+Bennett J             1.0  2  2  2  3  0
+
+DP -- Houston 1
+LOB -- Houston 7, Atlanta 2
+2B -- Loretta M 3
+HR -- McCann B
+SH -- Sampson C
+T -- 2:32
+A -- 37049
+     Game of 7/6/2008 -- Houston at Atlanta (D)
+
+  Houston            AB  R  H RBI    Atlanta            AB  R  H RBI
+Bourn M, cf           7  0  0  0   Blanco G, cf-lf       8  2  2  0   
+Loretta M, ss-2b      8  1  1  0   Escobar Y, ss         9  0  4  2   
+Pence H, rf           7  1  3  0   Jones C, 3b           5  3  3  2   
+Lee C, lf             8  1  2  1   Teixeira M, 1b        7  0  3  3   
+Erstad D, 1b          4  1  2  0   Infante O, lf         1  0  1  0   
+Geary G, p            0  0  0  0   Perry J, pr-rf        7  0  1  0   
+Abercrombie R, ph     1  0  0  0   Prado M, 2b           7  1  2  0   
+Towles J, c           0  0  0  0   Norton G, rf-lf       4  0  0  0   
+Wigginton T, 3b       8  1  3  4   Carlyle B, p          1  0  1  0   
+Newhan D, 2b          4  1  1  0   Acosta M, p           2  0  0  0   
+Valverde J, p         0  0  0  0   Jurrjens J, pr        0  0  0  0   
+Tejada M, ss          2  0  1  0   Ring R, p             0  0  0  0   
+Ausmus B, c           6  0  1  1   Miller C, c           3  0  0  0   
+Borkowski D, p        0  0  0  0   Johnson K, ph         0  1  0  0   
+Berkman L, ph         1  0  0  0   Gonzalez M, p         0  0  0  0   
+Byrdak T, p           1  0  0  0   Kotsay M, ph-cf       3  0  0  0   
+Rodriguez W, p        3  0  0  0   Morton C, p           2  0  0  0   
+Wright W, p           0  0  0  0   Gotay R, ph           1  0  0  0   
+Brocail D, p          0  0  0  0   Boyer B, p            0  0  0  0   
+Blum G, 2b-1b         3  0  1  0   Ohman W, p            0  0  0  0   
+                                   McCann B, ph-c        5  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     63  6 15  6                        65  7 17  7
+
+Houston          005 001 000 000 000 00 --  6
+Atlanta          102 000 120 000 000 01 --  7
+  0 outs when winning run was scored.
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W           5.1  7  3  3  2  8
+Wright W              1.1  1  1  1  1  3
+Brocail D             1.0  1  2  2  1  2
+Valverde J            1.1  1  0  0  1  0
+Geary G               3.0  1  0  0  2  2
+Borkowski D           2.0  1  0  0  1  1
+Byrdak T (L)          2.0  5  1  1  3  2
+
+  Atlanta              IP  H  R ER BB SO
+Morton C              6.0  8  6  6  2  2
+Boyer B               1.0  1  0  0  0  1
+Ohman W               1.0  1  0  0  0  0
+Gonzalez M            2.0  0  0  0  0  4
+Carlyle B             3.0  2  0  0  1  4
+Acosta M              3.0  2  0  0  1  0
+Ring R (W)            1.0  1  0  0  1  0
+
+E -- Prado M
+LOB -- Houston 14, Atlanta 21
+2B -- Infante O, Newhan D, Teixeira M, Tejada M
+3B -- Jones C
+HR -- Jones C, Wigginton T
+SB -- Tejada M
+CS -- Pence H
+SH -- Towles J 2, Bourn M
+WP -- Carlyle B
+T -- 5:35
+A -- 24169
+     Game of 7/18/2008 -- Washington at Atlanta (N)
+
+  Washington         AB  R  H RBI    Atlanta            AB  R  H RBI
+Harris W, cf          4  1  2  0   Blanco G, lf          3  1  0  0   
+Lo Duca P, 1b         5  0  1  2   Johnson K, 2b         4  0  1  1   
+Guzman C, ss          4  0  1  1   Jones C, 3b           3  1  1  0   
+Kearns A, rf          5  1  1  0   Teixeira M, 1b        2  2  1  0   
+Estrada J, c          4  0  0  0   McCann B, c           4  1  1  3   
+Belliard R, 2b        4  0  1  1   Francoeur J, rf       3  1  0  0   
+Casto K, 3b           4  1  1  0   Kotsay M, cf          4  0  1  1   
+Langerhans R, lf      4  2  2  1   Lillibridge B, ss     4  1  2  2   
+Redding T, p          0  0  0  0   Hudson T, p           2  0  1  0   
+Orr P, ph             1  0  1  0   Boyer B, p            0  0  0  0   
+Bergmann J, p         0  0  0  0   Ohman W, p            0  0  0  0   
+Flores J, ph          0  0  0  1   Prado M, ph           1  0  0  0   
+Manning C, p          0  0  0  0   Gonzalez M, p         0  0  0  0   
+Lopez F, ph           1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  6 11  6                        30  7  8  7
+
+Washington       002 001 201 --  6
+Atlanta          024 001 00x --  7
+
+  Washington           IP  H  R ER BB SO
+Redding T (L)         4.0  6  6  6  3  3
+Bergmann J            2.0  2  1  1  0  0
+Manning C             2.0  0  0  0  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (W)          6.2  9  5  5  1  2
+Boyer B               1.0  0  0  0  0  1
+Ohman W               0.1  0  0  0  0  1
+Gonzalez M (S)        1.0  2  1  1  0  0
+
+E -- Guzman C
+DP -- Washington 1
+LOB -- Washington 7, Atlanta 5
+2B -- Teixeira M, Lillibridge B, Casto K, McCann B, Kearns A, Harris W
+3B -- Langerhans R
+SB -- Lo Duca P, Johnson K 2
+SH -- Redding T, Hudson T
+SF -- Flores J
+HBP -- by Redding T (Francoeur J), by Gonzalez M (Guzman C)
+T -- 2:32
+A -- 39861
+     Game of 7/19/2008 -- Washington at Atlanta (N)
+
+  Washington         AB  R  H RBI    Atlanta            AB  R  H RBI
+Harris W, cf          5  3  3  2   Blanco G, cf          5  0  3  0   
+Lo Duca P, 1b         5  1  2  2   Prado M, 2b           4  0  0  0   
+Guzman C, ss          4  1  2  3   Jones C, 3b           4  0  1  1   
+Kearns A, rf          4  0  2  1   Teixeira M, 1b        3  0  1  0   
+Estrada J, c          4  0  1  0   McCann B, c           3  0  1  0   
+Rivera S, p           0  0  0  0   Francoeur J, rf       3  0  1  0   
+Ayala L, p            0  0  0  0   Norton G, lf          4  1  1  1   
+Lopez F, ph           1  0  0  0   Lillibridge B, ss     4  0  0  0   
+Rauch J, p            0  0  0  0   Jurrjens J, p         2  1  0  0   
+Belliard R, 2b        5  0  1  0   Carlyle B, p          0  0  0  0   
+Casto K, 3b           4  0  0  0   Ring R, p             0  0  0  0   
+Langerhans R, lf      3  2  2  0   Nunez V, p            0  0  0  0   
+Lannan J, p           2  0  0  0   Tavarez J, p          0  0  0  0   
+Orr P, ph             1  0  0  0   Gotay R, ph           1  0  0  0   
+Nieves W, c           1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  8 14  8                        33  2  8  2
+
+Washington       003 000 230 --  8
+Atlanta          000 010 001 --  2
+
+  Washington           IP  H  R ER BB SO
+Lannan J (W)          6.0  7  1  1  3  4
+Rivera S              1.0  0  0  0  0  1
+Ayala L               1.0  0  0  0  0  1
+Rauch J               1.0  1  1  1  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J (L)        6.1  8  5  5  1  5
+Carlyle B             0.2  3  0  0  0  1
+Ring R                0.1  2  3  3  1  1
+Nunez V               0.2  1  0  0  0  0
+Tavarez J             1.0  0  0  0  0  1
+
+E -- Kearns A, Belliard R
+DP -- Washington 1
+LOB -- Washington 8, Atlanta 8
+2B -- Lo Duca P, Langerhans R 2
+3B -- Guzman C, Harris W
+HR -- Norton G
+SB -- McCann B, Harris W
+CS -- Blanco G
+SF -- Kearns A, Guzman C
+HBP -- by Lannan J (Francoeur J)
+T -- 2:46
+A -- 43285
+     Game of 7/20/2008 -- Washington at Atlanta (D)
+
+  Washington         AB  R  H RBI    Atlanta            AB  R  H RBI
+Harris W, cf          3  1  2  5   Blanco G, lf          4  1  1  0   
+Lo Duca P, 1b         6  0  1  0   Johnson K, 2b         4  1  1  0   
+Guzman C, ss          5  1  0  0   Jones C, 3b           3  0  1  1   
+Colome J, p           0  0  0  0   Gotay R, ph-3b        2  0  0  0   
+Kearns A, rf          5  5  3  2   Teixeira M, 1b        4  2  3  3   
+Belliard R, 3b        3  1  1  0   Francoeur J, rf       4  0  1  0   
+Flores J, c           6  2  5  2   Kotsay M, cf          5  0  2  0   
+Lopez F, 2b-ss        4  3  3  3   Lillibridge B, ss     4  0  0  0   
+Langerhans R, lf      6  1  2  1   Miller C, c           4  1  1  0   
+Perez O, p            3  1  0  0   Reyes J, p            1  0  0  0   
+Estrada J, ph         1  0  0  0   Carlyle B, p          0  0  0  0   
+Shell S, p            1  0  0  0   Prado M, ph           1  1  1  2   
+Manning C, p          0  0  0  0   Nunez V, p            1  0  0  0   
+Hanrahan J, p         0  0  0  0   Norton G, ph          1  0  0  0   
+Orr P, ph-2b          1  0  0  0   Tavarez J, p          0  0  0  0   
+                                   Ring R, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     44 15 17 13                        38  6 11  6
+
+Washington       033 620 001 -- 15
+Atlanta          101 300 001 --  6
+
+  Washington           IP  H  R ER BB SO
+Perez O (W)           5.0  9  5  5  2  4
+Shell S               1.2  0  0  0  3  2
+Manning C             0.1  0  0  0  0  1
+Hanrahan J            1.0  0  0  0  0  1
+Colome J              1.0  2  1  1  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Reyes J (L)           2.1  7  6  6  4  1
+Carlyle B             1.2  5  6  6  1  0
+Nunez V               3.0  4  2  2  2  1
+Tavarez J             1.0  0  0  0  0  0
+Ring R                1.0  1  1  0  1  0
+
+E -- Francoeur J, Guzman C, Miller C, Johnson K, Lillibridge B
+DP -- Atlanta 1
+LOB -- Washington 12, Atlanta 11
+2B -- Francoeur J, Jones C, Kearns A, Lopez F
+HR -- Teixeira M 2, Kearns A, Harris W, Prado M
+SH -- Johnson K
+SF -- Lopez F
+HBP -- by Carlyle B (Guzman C)
+T -- 3:25
+A -- 29320
+     Game of 7/28/2008 -- St. Louis at Atlanta (N)
+
+  St. Louis          AB  R  H RBI    Atlanta            AB  R  H RBI
+Schumaker S, cf       4  1  1  0   Blanco G, lf-cf       4  1  0  0   
+Miles A, 2b           5  2  1  0   Escobar Y, ss         4  2  2  1   
+Pujols A, 1b          2  2  1  3   Teixeira M, 1b        4  0  2  1   
+Ryan B, ss            0  0  0  0   Kotsay M, cf          3  0  1  1   
+Ludwick R, rf         5  0  3  2   Carlyle B, p          0  0  0  0   
+Kennedy A, 1b         0  0  0  0   Ring R, p             0  0  0  0   
+Glaus T, 3b           5  1  0  1   Prado M, ph           0  0  0  0   
+Villone R, p          0  0  0  0   Tavarez J, p          0  0  0  0   
+Springer R, p         0  0  0  0   Johnson K, 2b         3  0  0  0   
+Flores R, p           0  0  0  0   Infante O, 3b         4  0  2  0   
+Molina Y, c           5  2  2  2   Francoeur J, rf       4  0  1  0   
+Mather J, lf-rf       5  2  3  2   Sammons C, c          4  0  1  0   
+Looper B, p           3  0  0  0   Morton C, p           1  0  0  0   
+Stavinoha N, ph-lf    2  0  0  0   Bennett J, p          0  0  0  0   
+Izturis C, ss-3b      4  2  2  1   Gotay R, ph           1  0  1  0   
+                                   Norton G, lf          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40 12 13 11                        34  3 10  3
+
+St. Louis        024 210 030 -- 12
+Atlanta          000 002 010 --  3
+
+  St. Louis            IP  H  R ER BB SO
+Looper B (W)          7.0  7  2  2  0  4
+Villone R             0.2  2  1  1  2  2
+Springer R            0.1  0  0  0  0  0
+Flores R              1.0  1  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Morton C (L)          3.2  7  8  8  4  1
+Bennett J             2.1  2  1  1  0  2
+Carlyle B             1.0  0  0  0  0  2
+Ring R                1.0  4  3  3  0  0
+Tavarez J             1.0  0  0  0  0  2
+
+E -- Escobar Y, Infante O
+DP -- St. Louis 3
+LOB -- St. Louis 6, Atlanta 6
+2B -- Molina Y, Mather J, Teixeira M 2, Escobar Y, Izturis C, Pujols A
+HR -- Mather J
+SF -- Pujols A
+WP -- Bennett J
+T -- 2:52
+A -- 28705
+     Game of 7/29/2008 -- St. Louis at Atlanta (N)
+
+  St. Louis          AB  R  H RBI    Atlanta            AB  R  H RBI
+Schumaker S, cf       4  0  1  0   Blanco G, lf          4  1  4  1   
+Stavinoha N, ph-lf    0  0  0  1   Escobar Y, ss         5  0  0  0   
+Mather J, lf-cf       5  0  1  0   Kotsay M, cf          5  0  1  0   
+Pujols A, 1b          4  3  2  1   Norton G, 1b          4  0  2  1   
+Ludwick R, rf         4  1  1  0   Infante O, 3b         5  0  0  0   
+Glaus T, 3b           3  0  0  1   Johnson K, 2b         3  1  1  0   
+Molina Y, c           5  1  3  2   Francoeur J, rf       3  1  1  1   
+Ryan B, 2b            5  1  2  1   Miller C, c           3  0  0  0   
+Wellemeyer T, p       2  0  0  0   Gotay R, ph           1  0  0  0   
+Ankiel R, ph          0  0  0  0   Sammons C, c          0  0  0  0   
+Pineiro J, pr         0  0  0  0   Campillo J, p         3  0  0  0   
+Franklin R, p         0  0  0  0   Soriano R, p          0  0  0  0   
+Miles A, ph           1  1  0  0   Prado M, ph           1  0  0  0   
+McClellan K, p        0  0  0  0   Gonzalez M, p         0  0  0  0   
+Izturis C, ss         4  1  1  1   Boyer B, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  8 11  7                        37  3  9  3
+
+St. Louis        010 001 015 --  8
+Atlanta          020 000 001 --  3
+
+  St. Louis            IP  H  R ER BB SO
+Wellemeyer T          6.0  8  2  2  1  5
+Franklin R (W)        2.0  1  0  0  2  1
+McClellan K           1.0  0  1  0  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Campillo J            7.0  7  2  2  1  5
+Soriano R (L)         1.0  1  1  0  1  0
+Gonzalez M            0.2  2  5  1  3  1
+Boyer B               0.1  1  0  0  0  0
+
+E -- Ryan B, Miller C, Norton G, Izturis C
+DP -- St. Louis 1, Atlanta 1
+LOB -- St. Louis 8, Atlanta 11
+2B -- Ryan B, Johnson K, Pujols A
+HR -- Pujols A
+SB -- Pujols A
+CS -- Kotsay M
+SF -- Stavinoha N
+WP -- Franklin R
+T -- 3:08
+A -- 29541
+     Game of 7/30/2008 -- St. Louis at Atlanta (N)
+
+  St. Louis          AB  R  H RBI    Atlanta            AB  R  H RBI
+Schumaker S, cf       3  0  1  0   Blanco G, cf          4  0  0  0   
+Stavinoha N, lf       0  0  0  0   Escobar Y, ss         2  1  1  0   
+Kennedy A, 2b         5  2  2  1   Kotchman C, 1b        5  0  0  0   
+Pujols A, 1b          3  1  1  1   Norton G, lf          5  0  2  0   
+Ludwick R, rf         4  0  2  1   Infante O, 3b         5  1  3  1   
+Glaus T, 3b           5  0  1  1   Johnson K, 2b         4  0  2  0   
+Molina Y, c           5  1  2  0   Francoeur J, rf       4  0  2  1   
+Mather J, lf-cf       5  2  2  2   Miller C, c           2  0  0  0   
+Carpenter C, p        1  0  0  0   Gotay R, ph           1  0  1  0   
+Looper B, ph          0  0  0  0   Ring R, p             0  0  0  0   
+Thompson B, p         1  0  0  0   Tavarez J, p          0  0  0  0   
+Springer R, p         0  0  0  0   Jurrjens J, p         3  0  0  0   
+Miles A, ph           1  0  0  0   Boyer B, p            0  0  0  0   
+McClellan K, p        0  0  0  0   Ohman W, p            0  0  0  0   
+Villone R, p          0  0  0  0   Kotsay M, ph          1  0  0  0   
+Izturis C, ss         4  1  1  1   Sammons C, c          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 12  7                        36  2 11  2
+
+St. Louis        000 020 122 --  7
+Atlanta          010 010 000 --  2
+
+  St. Louis            IP  H  R ER BB SO
+Carpenter C           4.0  5  1  1  2  2
+Thompson B (W)        2.2  3  1  1  2  1
+Springer R            0.1  0  0  0  0  0
+McClellan K           0.2  2  0  0  1  0
+Villone R (S)         1.1  1  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J (L)        7.0  7  3  3  3  4
+Boyer B               0.1  2  2  2  0  0
+Ohman W               0.2  0  0  0  0  0
+Ring R                0.1  0  1  1  1  0
+Tavarez J             0.2  3  1  1  1  0
+
+LOB -- St. Louis 9, Atlanta 14
+2B -- Schumaker S, Mather J, Kennedy A, Pujols A, Johnson K
+HR -- Mather J
+SB -- Kennedy A
+SH -- Escobar Y, Miller C, Looper B
+PB -- Miller C
+T -- 3:18
+A -- 35257
+     Game of 7/31/2008 -- St. Louis at Atlanta (N)
+
+  St. Louis          AB  R  H RBI    Atlanta            AB  R  H RBI
+Izturis C, 3b-ss      5  1  3  0   Blanco G, lf          5  0  1  0   
+Mather J, cf          4  2  1  0   Escobar Y, ss         5  1  2  1   
+Pujols A, 1b          4  0  1  2   Kotsay M, cf          5  1  2  1   
+Ludwick R, rf         2  0  1  1   Kotchman C, 1b        4  0  0  0   
+Stavinoha N, lf       3  1  1  0   Infante O, 3b         4  2  3  2   
+Miles A, 2b-3b        3  0  0  0   Johnson K, 2b         4  2  2  0   
+LaRue J, c            4  0  0  0   Francoeur J, rf       4  1  1  0   
+Pineiro J, p          3  0  1  1   Sammons C, c          4  2  3  3   
+Kennedy A, 2b         1  0  0  0   Hampton M, p          2  0  1  2   
+Ryan B, ss            3  0  0  0   Bennett J, p          1  0  0  0   
+Jimenez K, p          0  0  0  0   Soriano R, p          0  0  0  0   
+Molina Y, ph          1  0  0  0   Norton G, ph          0  0  0  0   
+                                   Gonzalez M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  8  4                        38  9 15  9
+
+St. Louis        200 110 000 --  4
+Atlanta          020 202 21x --  9
+
+  St. Louis            IP  H  R ER BB SO
+Pineiro J (L)         6.0 10  6  6  0  2
+Jimenez K             2.0  5  3  3  1  1
+
+  Atlanta              IP  H  R ER BB SO
+Hampton M             5.0  7  4  4  4  0
+Bennett J (W)         2.0  0  0  0  0  0
+Soriano R             1.0  0  0  0  0  1
+Gonzalez M            1.0  1  0  0  0  1
+
+DP -- St. Louis 1, Atlanta 2
+LOB -- St. Louis 7, Atlanta 6
+2B -- Pujols A, Kotsay M 2, Hampton M, Pineiro J, Blanco G, Infante O
+HR -- Infante O, Sammons C
+SB -- Izturis C
+HBP -- by Soriano R (Ludwick R)
+T -- 2:44
+A -- 40653
+     Game of 8/1/2008 -- Milwaukee at Atlanta (N)
+
+  Milwaukee          AB  R  H RBI    Atlanta            AB  R  H RBI
+Weeks R, 2b           4  1  2  1   Blanco G, lf          4  0  1  0   
+Hardy J, ss           4  1  0  1   Escobar Y, ss         4  0  1  0   
+Braun R, lf           5  0  1  1   Kotsay M, cf          4  0  1  0   
+Fielder P, 1b         5  1  1  1   Kotchman C, 1b        3  0  1  0   
+Hart C, rf            4  0  0  1   Infante O, 3b         4  0  0  0   
+Hall B, 3b            4  2  1  0   Johnson K, 2b         4  0  0  0   
+Cameron M, cf         3  1  1  2   Francoeur J, rf       3  0  0  0   
+Kendall J, c          3  2  1  0   Sammons C, c          2  0  1  0   
+Suppan J, p           1  0  0  0   James C, p            0  0  0  0   
+Kapler G, ph          1  1  1  1   Carlyle B, p          1  0  0  0   
+Shouse B, p           0  0  0  0   Norton G, ph          1  0  0  0   
+Mota G, p             0  0  0  0   Tavarez J, p          0  0  0  0   
+                                   Boyer B, p            0  0  0  0   
+                                   Prado M, ph           1  0  0  0   
+                                   Ring R, p             0  0  0  0   
+                                   Ohman W, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  9  8  8                        31  0  5  0
+
+Milwaukee        213 000 030 --  9
+Atlanta          000 000 000 --  0
+
+  Milwaukee            IP  H  R ER BB SO
+Suppan J (W)          7.0  5  0  0  3  1
+Shouse B              1.0  0  0  0  0  0
+Mota G                1.0  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+James C (L)           2.2  6  6  6  4  2
+Carlyle B             1.1  0  0  0  0  2
+Tavarez J             2.0  0  0  0  0  2
+Boyer B               1.0  0  0  0  0  1
+Ring R                1.0  2  3  2  1  1
+Ohman W               1.0  0  0  0  0  1
+
+E -- Infante O
+LOB -- Milwaukee 7, Atlanta 7
+2B -- Braun R, Hall B
+3B -- Weeks R
+HR -- Fielder P, Cameron M
+CS -- Escobar Y
+SH -- Suppan J
+SF -- Hart C
+HBP -- by Tavarez J (Cameron M), by Ring R (Cameron M)
+PB -- Sammons C
+T -- 2:44
+A -- 32238
+     Game of 8/2/2008 -- Milwaukee at Atlanta (D)
+
+  Milwaukee          AB  R  H RBI    Atlanta            AB  R  H RBI
+Weeks R, 2b           3  1  0  0   Blanco G, cf          3  1  0  0   
+Hall B, 3b            0  0  0  0   Prado M, 3b           4  0  2  0   
+Hardy J, ss           4  0  0  0   Escobar Y, ss         4  0  0  0   
+Braun R, lf           3  0  0  0   Infante O, lf         4  1  1  0   
+Fielder P, 1b         3  2  2  3   Kotchman C, 1b        4  0  1  1   
+Hart C, rf            4  1  1  0   Francoeur J, rf       4  0  0  0   
+Counsell C, 3b-2b     4  0  1  0   Johnson K, 2b         4  0  2  1   
+Cameron M, cf         4  0  0  0   Sammons C, c          4  0  1  0   
+Kendall J, c          4  0  1  1   Morton C, p           1  0  0  0   
+Sabathia C, p         3  0  0  0   Kotsay M, ph          1  0  0  0   
+Torres S, p           0  0  0  0   Soriano R, p          0  0  0  0   
+                                   Nunez V, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  5  4                        33  2  7  2
+
+Milwaukee        000 000 220 --  4
+Atlanta          100 000 001 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Sabathia C (W)        8.1  6  2  2  1  9
+Torres S (S)          0.2  1  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Morton C (L)          7.0  4  2  2  1  4
+Soriano R             1.0  1  2  2  1  0
+Nunez V               1.0  0  0  0  0  2
+
+LOB -- Milwaukee 4, Atlanta 6
+2B -- Kendall J, Infante O
+HR -- Fielder P 2
+SH -- Morton C
+HBP -- by Morton C (Fielder P)
+T -- 2:32
+A -- 42096
+     Game of 8/3/2008 -- Milwaukee at Atlanta (D)
+
+  Milwaukee          AB  R  H RBI    Atlanta            AB  R  H RBI
+Durham R, 2b          3  0  0  0   Blanco G, lf          1  1  1  0   
+Counsell C, ss        4  0  2  0   Escobar Y, ss         3  0  1  2   
+Braun R, lf           4  0  0  0   Kotsay M, cf          3  1  1  1   
+Fielder P, 1b         4  0  1  0   Kotchman C, 1b        3  1  1  0   
+Hart C, rf            4  0  1  0   Infante O, 3b         3  0  1  1   
+Branyan R, 3b         3  0  1  0   Johnson K, 2b         4  0  2  0   
+Hall B, ph            1  0  0  0   Francoeur J, rf       4  0  1  1   
+Kapler G, cf          4  0  2  0   Sammons C, c          4  0  0  0   
+Kendall J, c          4  0  0  0   Campillo J, p         2  1  0  0   
+Sheets B, p           2  0  0  0   Norton G, ph          0  1  0  0   
+Weeks R, ph           1  0  0  0   Bennett J, p          0  0  0  0   
+McClung S, p          0  0  0  0   Ohman W, p            0  0  0  0   
+Mota G, p             0  0  0  0   Gotay R, ph           1  0  0  0   
+                                   Gonzalez M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  0  7  0                        28  5  8  5
+
+Milwaukee        000 000 000 --  0
+Atlanta          200 010 11x --  5
+
+  Milwaukee            IP  H  R ER BB SO
+Sheets B (L)          6.0  6  3  2  3  4
+McClung S             1.1  2  2  2  3  0
+Mota G                0.2  0  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Campillo J (W)        7.0  6  0  0  0  6
+Bennett J             0.2  0  0  0  1  1
+Ohman W               0.1  0  0  0  0  0
+Gonzalez M            1.0  1  0  0  0  0
+
+E -- Branyan R, Campillo J
+DP -- Milwaukee 3
+LOB -- Milwaukee 8, Atlanta 7
+2B -- Kotsay M, Infante O, Fielder P, Johnson K, Blanco G
+SB -- Hart C 2
+CS -- Johnson K
+SH -- Escobar Y
+HBP -- by McClung S (Kotchman C)
+T -- 2:34
+A -- 29177
+     Game of 8/13/2008, game 1 -- Chicago at Atlanta (D)
+
+  Chicago            AB  R  H RBI    Atlanta            AB  R  H RBI
+Soriano A, lf         6  1  2  0   Blanco G, rf          4  0  1  0   
+Fukudome K, rf        4  0  0  0   Escobar Y, ss         4  0  1  0   
+Lee D, 1b             5  0  1  0   Jones C, 3b           3  0  1  0   
+Ramirez A, 3b         4  2  2  1   McCann B, c           3  1  1  0   
+Edmonds J, cf         3  3  2  3   Sammons C, c          1  0  0  0   
+Johnson R, ph-cf      1  0  0  0   Kotchman C, 1b        4  0  0  0   
+DeRosa M, 2b          3  3  2  1   Infante O, lf         4  1  3  1   
+Soto G, c             5  1  3  4   Kotsay M, cf          4  0  1  1   
+Howry B, p            0  0  0  0   Johnson K, 2b         3  0  0  0   
+Theriot R, ss         4  0  2  1   Bueno F, p            0  0  0  0   
+Marquis J, p          3  0  0  0   Boyer B, p            0  0  0  0   
+Cotts N, p            0  0  0  0   Gotay R, ph           1  0  0  0   
+Cedeno R, ph          1  0  0  0   Morton C, p           0  0  0  0   
+Samardzija J, p       0  0  0  0   Carlyle B, p          1  0  0  0   
+Blanco H, ph-c        1  0  0  0   Norton G, ph          1  0  0  0   
+                                   Nunez V, p            0  0  0  0   
+                                   Prado M, 2b           2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     40 10 14 10                        35  2  9  2
+
+Chicago          022 031 002 -- 10
+Atlanta          000 101 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Marquis J (W)         5.1  6  2  2  2  1
+Cotts N               0.2  0  0  0  0  1
+Samardzija J          2.0  2  0  0  0  2
+Howry B               1.0  1  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Morton C (L)          2.1  4  4  4  4  3
+Carlyle B             1.2  0  0  0  0  1
+Nunez V               2.0  5  4  4  1  1
+Bueno F               2.1  5  2  2  1  1
+Boyer B               0.2  0  0  0  0  0
+
+E -- McCann B
+DP -- Chicago 1, Atlanta 1
+LOB -- Chicago 9, Atlanta 9
+2B -- Soto G, Infante O, Kotsay M, Edmonds J, DeRosa M, Ramirez A, McCann B
+HR -- Edmonds J, Soto G
+SB -- DeRosa M
+HBP -- by Marquis J (Escobar Y)
+WP -- Nunez V
+T -- 3:24
+A -- 27220
+     Game of 8/13/2008, game 2 -- Chicago at Atlanta (N)
+
+  Chicago            AB  R  H RBI    Atlanta            AB  R  H RBI
+Soriano A, lf         4  1  1  1   Blanco G, cf          2  0  0  0   
+Theriot R, ss         4  2  2  0   Escobar Y, ss         3  0  2  0   
+Lee D, 1b             4  1  1  1   Kotchman C, 1b        4  0  0  0   
+Ramirez A, 3b         4  1  2  2   McCann B, c           4  0  0  0   
+Edmonds J, cf         3  1  0  1   Infante O, lf         3  0  0  0   
+Fontenot M, ph        1  0  0  1   Johnson K, 2b         4  0  0  0   
+Marshall S, p         0  0  0  0   Prado M, 3b           4  0  1  0   
+DeRosa M, 2b          4  0  1  0   Francoeur J, rf       3  0  0  0   
+Fukudome K, rf        5  0  2  2   Campillo J, p         0  0  0  0   
+Blanco H, c           3  1  0  0   Gotay R, ph           0  0  0  0   
+Harden R, p           1  0  0  0   Bennett J, p          0  0  0  0   
+Ward D, ph            1  0  0  0   Norton G, ph          1  0  0  0   
+Gaudin C, p           0  0  0  0   Ohman W, p            0  0  0  0   
+Cotts N, p            0  0  0  0   Gonzalez M, p         0  0  0  0   
+Wood K, p             0  0  0  0   Tavarez J, p          0  0  0  0   
+Johnson R, ph-cf      1  1  1  0   Sammons C, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  8 10  8                        29  0  3  0
+
+Chicago          400 100 003 --  8
+Atlanta          000 000 000 --  0
+
+  Chicago              IP  H  R ER BB SO
+Harden R (W)          5.0  2  0  0  5  2
+Gaudin C*             1.0  0  0  0  1  1
+Cotts N               1.0  1  0  0  0  1
+Wood K                1.0  0  0  0  0  1
+Marshall S            1.0  0  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Campillo J (L)        5.0  7  5  5  2  5
+Bennett J             2.0  1  0  0  0  1
+Ohman W               1.0  0  0  0  1  1
+Gonzalez M+           0.0  1  3  3  3  0
+Tavarez J             1.0  1  0  0  0  0
+  * Pitched to 1 batter in 7th
+  + Pitched to 4 batters in 9th
+
+E -- McCann B
+DP -- Atlanta 1
+LOB -- Chicago 8, Atlanta 9
+2B -- Soriano A, Ramirez A
+SB -- Theriot R, Fukudome K
+SH -- Harden R, Blanco G
+SF -- Ramirez A
+T -- 2:53
+A -- 33714
+     Game of 8/14/2008 -- Chicago at Atlanta (N)
+
+  Chicago            AB  R  H RBI    Atlanta            AB  R  H RBI
+Soriano A, lf         5  1  1  2   Escobar Y, ss         3  1  1  0   
+Fukudome K, rf        5  2  2  0   Blanco G, lf          1  0  0  0   
+Lee D, 1b             5  2  2  0   Prado M, 2b           5  1  2  1   
+Ramirez A, 3b         2  2  2  3   Jones C, 3b           5  0  1  1   
+Fontenot M, 2b        2  0  0  0   Infante O, lf-ss      5  1  1  0   
+Johnson R, cf         5  0  2  1   Kotchman C, 1b        5  1  1  0   
+Soto G, c             2  2  1  2   Francoeur J, rf       5  2  3  3   
+DeRosa M, 2b-3b       5  1  2  1   Kotsay M, cf          5  1  5  2   
+Theriot R, ss         3  1  2  1   Sammons C, c          4  0  0  0   
+Lilly T, p            1  0  0  0   Glavine T, p          0  0  0  0   
+Ward D, ph            0  0  0  1   Gotay R, ph           1  0  0  0   
+Howry B, p            0  0  0  0   Carlyle B, p          0  0  0  0   
+Marmol C, p           0  0  0  0   Tavarez J, p          0  0  0  0   
+Cedeno R, ph          1  0  0  0   Norton G, ph          1  0  0  0   
+Wood K, p             0  0  0  0   Boyer B, p            0  0  0  0   
+                                   Johnson K, ph         1  0  0  0   
+                                   Nunez V, p            0  0  0  0   
+                                   Ohman W, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36 11 14 11                        41  7 14  7
+
+Chicago          203 220 200 -- 11
+Atlanta          011 200 300 --  7
+
+  Chicago              IP  H  R ER BB SO
+Lilly T (W)           6.0  8  4  4  2  8
+Howry B               0.2  4  3  3  0  1
+Marmol C              1.1  0  0  0  0  2
+Wood K                1.0  2  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (L)         4.0  7  7  7  4  3
+Carlyle B             1.0  4  2  2  1  0
+Tavarez J             1.0  0  0  0  0  1
+Boyer B               1.0  2  2  2  2  1
+Nunez V               1.0  1  0  0  1  0
+Ohman W               1.0  0  0  0  0  1
+
+E -- Prado M
+DP -- Atlanta 1
+LOB -- Chicago 9, Atlanta 10
+2B -- Lee D, Prado M 2, Soto G, DeRosa M, Kotsay M, Johnson R
+3B -- Kotsay M
+HR -- Ramirez A, Soriano A, Kotsay M, Francoeur J
+CS -- Theriot R
+SH -- Lilly T 2
+SF -- Ward D
+HBP -- by Lilly T (Escobar Y)
+WP -- Boyer B
+Balk -- Lilly T
+T -- 3:10
+A -- 36365
+     Game of 8/15/2008 -- San Francisco at Atlanta (N)
+
+  San Francisco      AB  R  H RBI    Atlanta            AB  R  H RBI
+Roberts D, lf         5  1  2  0   Blanco G, lf          3  0  1  0   
+Winn R, rf            4  2  4  2   Kotsay M, cf          4  1  2  0   
+Lewis F, cf           4  2  2  0   Jones C, 3b           4  0  1  1   
+Molina B, c           5  0  4  2   McCann B, c           4  0  1  0   
+Ishikawa T, 1b        5  0  2  1   Infante O, ss         4  0  0  0   
+Velez E, 2b           3  0  1  0   Kotchman C, 1b        3  0  0  0   
+Burriss E, 2b         1  0  0  0   Francoeur J, rf       4  0  0  0   
+Rohlinger R, 3b       4  0  0  0   Johnson K, 2b         3  0  1  0   
+Ochoa I, ss           4  0  0  0   Jurrjens J, p         2  0  0  0   
+Cain M, p             3  0  0  0   Norton G, ph          1  0  0  0   
+Aurilia R, ph         1  0  0  0   Ohman W, p            0  0  0  0   
+Taschner J, p         0  0  0  0   Bennett J, p          0  0  0  0   
+Wilson B, p           0  0  0  0   Tavarez J, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  5 15  5                        32  1  6  1
+
+San Francisco    101 000 021 --  5
+Atlanta          000 001 000 --  1
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (W)            7.0  6  1  1  1  5
+Taschner J            1.0  0  0  0  0  1
+Wilson B              1.0  0  0  0  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J (L)        7.0  8  2  2  0  9
+Ohman W*              0.0  2  2  2  0  0
+Bennett J             1.0  2  0  0  1  1
+Tavarez J             1.0  3  1  1  1  1
+  * Pitched to 2 batters in 8th
+
+E -- Ishikawa T, Blanco G
+DP -- San Francisco 2
+LOB -- San Francisco 10, Atlanta 6
+2B -- Winn R 2, Kotsay M, Ishikawa T
+HR -- Winn R
+SB -- Lewis F, Roberts D, Velez E
+SF -- Winn R
+WP -- Jurrjens J, Cain M
+T -- 2:44
+A -- 30682
+     Game of 8/16/2008 -- San Francisco at Atlanta (N)
+
+  San Francisco      AB  R  H RBI    Atlanta            AB  R  H RBI
+Winn R, rf            4  0  2  0   Blanco G, cf          4  0  1  1   
+Velez E, rf           1  1  1  0   Escobar Y, ss         5  0  2  0   
+Ochoa I, ss           4  1  2  1   Jones C, 3b           3  2  1  1   
+Rowand A, cf          2  0  0  1   Carlyle B, p          0  0  0  0   
+Roberts D, lf         0  1  0  1   DeSalvo M, p          0  0  0  0   
+Molina B, c           2  0  0  0   Kotchman C, ph        1  0  0  0   
+Sadler B, p           1  0  0  0   Nunez V, p            0  0  0  0   
+Ishikawa T, ph-1b     1  0  0  0   Bennett J, p          0  0  0  0   
+Lewis F, lf-cf        4  0  2  0   McCann B, c           5  0  2  0   
+Aurilia R, 3b-1b      4  0  0  0   Infante O, lf         4  2  2  2   
+Walker T, p           0  0  0  0   Norton G, 1b          3  2  1  2   
+Vizquel O, ph         1  0  1  1   Johnson K, 2b         5  2  1  1   
+Sandoval P, 1b-c      5  0  3  0   Francoeur J, rf       5  2  4  2   
+Burriss E, 2b         3  1  2  1   Hampton M, p          2  0  1  1   
+Palmer M, p           1  0  0  0   Gotay R, ph           1  1  1  1   
+Hinshaw A, p          0  0  0  0   Prado M, 3b           1  0  0  0   
+Rohlinger R, 3b       3  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5 14  5                        39 11 16 11
+
+San Francisco    000 020 012 --  5
+Atlanta          024 212 00x -- 11
+
+  San Francisco        IP  H  R ER BB SO
+Palmer M (L)          2.1  7  6  6  4  0
+Hinshaw A             1.1  3  2  2  2  0
+Sadler B              3.1  5  3  3  1  2
+Walker T              1.0  1  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Hampton M (W)         6.0  7  2  2  2  4
+Carlyle B             1.0  1  0  0  0  0
+DeSalvo M             1.0  3  1  1  1  1
+Nunez V               0.1  3  2  2  2  0
+Bennett J             0.2  0  0  0  0  0
+
+DP -- Atlanta 3
+LOB -- San Francisco 11, Atlanta 13
+2B -- Francoeur J, Infante O, Ochoa I 2, Gotay R
+HR -- Norton G
+SH -- Ochoa I
+SF -- Roberts D
+HBP -- by Palmer M (Escobar Y), by Hinshaw A (Blanco G)
+WP -- Sadler B 2
+T -- 3:18
+A -- 41893
+     Game of 8/17/2008 -- San Francisco at Atlanta (D)
+
+  San Francisco      AB  R  H RBI    Atlanta            AB  R  H RBI
+Winn R, rf            3  1  1  0   Blanco G, lf          4  0  0  0   
+Burriss E, 2b         4  0  2  1   Escobar Y, ss         3  1  1  0   
+Lewis F, lf           3  0  1  0   Jones C, 3b           4  0  1  0   
+Molina B, c           4  0  1  0   Kotsay M, cf          4  0  1  1   
+Rowand A, cf          4  1  1  0   Kotchman C, 1b        2  0  0  0   
+Ishikawa T, 1b        4  1  2  2   Tavarez J, p          0  0  0  0   
+Wilson B, p           0  0  0  0   Infante O, ph         0  0  0  0   
+Rohlinger R, 3b       3  0  0  0   McCann B, ph          0  0  0  0   
+Vizquel O, ss         3  0  1  0   Jurrjens J, pr        0  0  0  0   
+Lincecum T, p         2  0  0  0   Carlyle B, p          0  0  0  0   
+Taschner J, p         0  0  0  0   Francoeur J, rf       4  0  0  0   
+Aurilia R, 1b         1  0  0  0   Johnson K, 2b         3  0  1  0   
+                                   Sammons C, c          4  0  0  0   
+                                   Morton C, p           1  0  0  0   
+                                   Norton G, 1b          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  9  3                        30  1  4  1
+
+San Francisco    020 010 000 --  3
+Atlanta          000 000 010 --  1
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (W)        7.2  3  1  1  4 10
+Taschner J*           0.0  1  0  0  0  0
+Wilson B (S)          1.1  0  0  0  2  2
+
+  Atlanta              IP  H  R ER BB SO
+Morton C (L)          6.0  7  3  3  2  6
+Tavarez J             2.0  2  0  0  0  2
+Carlyle B             1.0  0  0  0  2  1
+  * Pitched to 1 batter in 8th
+
+LOB -- San Francisco 8, Atlanta 9
+2B -- Burriss E, Rowand A, Escobar Y, Molina B
+3B -- Winn R
+HR -- Ishikawa T
+SB -- Blanco G, Burriss E
+CS -- Burriss E
+SH -- Burriss E, Morton C, Lincecum T, Vizquel O
+WP -- Lincecum T, Wilson B
+PB -- Sammons C
+T -- 3:04
+A -- 30503
+     Game of 8/18/2008 -- San Francisco at Atlanta (D)
+
+  San Francisco      AB  R  H RBI    Atlanta            AB  R  H RBI
+Roberts D, lf         3  1  1  0   Escobar Y, ss         4  0  1  0   
+Ochoa I, ss           3  1  0  0   Kotsay M, cf          3  0  0  0   
+Lewis F, rf           4  0  0  0   Jones C, 3b           4  0  1  0   
+Rowand A, cf          3  1  1  2   Infante O, lf         4  0  1  0   
+Ishikawa T, 1b        4  1  1  0   McCann B, c           4  0  1  0   
+Aurilia R, 3b         4  0  1  1   Francoeur J, rf       4  0  1  0   
+Sandoval P, c         4  0  2  1   Kotchman C, 1b        4  0  0  0   
+Burriss E, 2b         4  1  1  0   Prado M, 2b           4  0  1  0   
+Zito B, p             3  0  0  0   Campillo J, p         1  0  1  0   
+Yabu K, p             0  0  0  0   Ohman W, p            0  0  0  0   
+Velez E, ph           1  0  0  0   Norton G, ph          0  0  0  0   
+Romo S, p             0  0  0  0   Boyer B, p            0  0  0  0   
+                                   Nunez V, p            0  0  0  0   
+                                   Johnson K, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  7  4                        33  0  7  0
+
+San Francisco    300 001 100 --  5
+Atlanta          000 000 000 --  0
+
+  San Francisco        IP  H  R ER BB SO
+Zito B (W)            7.0  5  0  0  2  3
+Yabu K                1.0  2  0  0  0  2
+Romo S                1.0  0  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Campillo J (L)        6.2  7  5  5  1  2
+Ohman W               0.1  0  0  0  0  1
+Boyer B               1.0  0  0  0  0  2
+Nunez V               1.0  0  0  0  0  0
+
+E -- Rowand A, McCann B
+DP -- San Francisco 1
+LOB -- San Francisco 4, Atlanta 9
+2B -- Campillo J, Francoeur J
+3B -- Roberts D
+HR -- Rowand A
+SB -- Ishikawa T
+SH -- Campillo J
+SF -- Rowand A
+HBP -- by Campillo J (Ochoa I)
+PB -- Sandoval P
+T -- 2:33
+A -- 18113
+     Game of 8/26/2008 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Ramirez H, ss         4  1  1  0   Blanco G, cf          5  0  2  2   
+Gonzalez L, rf        4  1  1  1   Escobar Y, ss         3  1  1  2   
+Hermida J, rf         1  0  1  0   Jones C, 3b           5  1  1  1   
+Cantu J, 3b-1b        5  1  2  0   Infante O, lf         5  3  3  1   
+Willingham J, lf      3  2  0  0   Prado M, 1b           4  2  2  1   
+Nelson J, p           0  0  0  0   Francoeur J, rf       4  2  2  2   
+Gregg K, p            0  0  0  0   Johnson K, 2b         5  1  2  0   
+Uggla D, 2b           4  1  1  1   Sammons C, c          4  0  1  1   
+Jacobs M, 1b          4  1  2  2   Jurrjens J, p         1  0  0  0   
+Lindstrom M, p        0  0  0  0   Carlyle B, p          0  0  0  0   
+Rhodes A, p           0  0  0  0   Jones B, ph           1  0  0  0   
+Amezaga A, cf         1  1  1  0   Nunez V, p            0  0  0  0   
+Ross C, cf-lf         5  1  3  4   Norton G, ph          1  0  0  0   
+Baker J, c            3  0  0  0   Tavarez J, p          0  0  0  0   
+Olsen S, p            2  0  0  0   Bennett J, p          0  0  0  0   
+Hendrickson M, p      0  0  0  0   McCann B, ph          1  0  0  0   
+Helms W, 3b           2  0  0  0   Ohman W, p            0  0  0  0   
+                                   Kotsay M, ph          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 12  8                        39 10 14 10
+
+Florida          024 000 201 --  9
+Atlanta          300 001 024 -- 10
+  2 outs when winning run was scored.
+
+  Florida              IP  H  R ER BB SO
+Olsen S               5.1  5  4  4  3  3
+Hendrickson M         0.2  1  0  0  0  1
+Lindstrom M*          1.0  2  2  2  2  1
+Rhodes A              0.2  1  0  0  1  0
+Nelson J+             0.0  0  0  0  1  0
+Gregg K (L)           1.0  5  4  4  1  1
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J#           3.0  6  6  6  2  1
+Carlyle B             1.0  0  0  0  1  1
+Nunez V               2.0  1  0  0  1  1
+Tavarez J             1.0  1  2  2  1  2
+Bennett J             1.0  2  0  0  0  0
+Ohman W (W)           1.0  2  1  1  0  1
+  * Pitched to 2 batters in 8th
+  + Pitched to 1 batter in 8th
+  # Pitched to 1 batter in 4th
+
+DP -- Florida 1, Atlanta 1
+LOB -- Florida 9, Atlanta 11
+2B -- Jones C, Prado M 2, Gonzalez L, Jacobs M, Ross C
+3B -- Ramirez H
+HR -- Ross C, Jacobs M
+HBP -- by Jurrjens J (Willingham J) 2
+WP -- Olsen S
+T -- 3:31
+A -- 17539
+     Game of 8/27/2008 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Ramirez H, ss         4  0  2  2   Blanco G, cf          2  0  0  0   
+Lo Duca P, c          4  0  0  0   Escobar Y, ss         4  0  0  0   
+Gonzalez L, rf        2  0  1  0   Jones C, 3b           4  0  1  0   
+Hermida J, pr-rf      1  0  1  0   McCann B, c           4  0  0  0   
+Cantu J, 1b           4  0  1  0   Johnson K, 2b         3  1  1  0   
+Willingham J, lf      4  0  0  0   Prado M, 1b           4  0  0  1   
+Ross C, cf            4  0  1  0   Francoeur J, rf       3  0  2  0   
+Uggla D, 2b           3  3  2  1   Jones B, lf           2  0  0  0   
+Helms W, 3b           4  1  1  1   Hampton M, p          2  0  0  0   
+Johnson J, p          2  0  0  0   Norton G, ph          1  0  0  0   
+                                   Boyer B, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  9  4                        29  1  4  1
+
+Florida          001 020 001 --  4
+Atlanta          000 010 000 --  1
+
+  Florida              IP  H  R ER BB SO
+Johnson J (W)         9.0  4  1  1  3  8
+
+  Atlanta              IP  H  R ER BB SO
+Hampton M (L)         8.0  8  3  3  2  5
+Boyer B               1.0  1  1  1  0  1
+
+E -- Cantu J
+DP -- Florida 2, Atlanta 2
+LOB -- Florida 4, Atlanta 5
+2B -- Cantu J, Uggla D, Ross C, Gonzalez L
+3B -- Johnson K
+HR -- Uggla D
+SH -- Johnson J, Jones B
+T -- 2:16
+A -- 19755
+     Game of 8/28/2008 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Ramirez H, ss         3  0  0  0   Anderson J, cf        2  1  1  0   
+Gonzalez L, lf        4  0  2  1   Prado M, 1b           4  0  2  1   
+Waechter D, p         0  0  0  0   Jones C, 3b           3  1  2  0   
+Cantu J, 3b           3  0  0  0   McCann B, c           3  1  1  3   
+Jacobs M, 1b          3  0  0  0   Escobar Y, ss         3  0  0  0   
+Willingham J, ph      1  0  0  0   Johnson K, 2b         4  0  0  0   
+Ross C, cf-lf         4  0  0  0   Francoeur J, rf       4  0  1  0   
+Hermida J, rf         2  0  0  0   Jones B, lf           3  1  1  0   
+Uggla D, 2b           3  1  1  0   Tavarez J, p          0  0  0  0   
+Baker J, c            3  1  1  1   Bennett J, p          0  0  0  0   
+Sanchez A, p          1  0  0  0   Norton G, ph          1  0  0  0   
+Lo Duca P, ph         0  0  0  0   Gonzalez M, p         0  0  0  0   
+Kensing L, p          0  0  0  0   Morton C, p           2  0  0  0   
+Hendrickson M, p      0  0  0  0   Blanco G, ph-lf       1  0  0  0   
+Amezaga A, ph-cf      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  2  4  2                        30  4  8  4
+
+Florida          000 002 000 --  2
+Atlanta          010 030 00x --  4
+
+  Florida              IP  H  R ER BB SO
+Sanchez A (L)         5.0  5  4  4  5  2
+Kensing L             1.1  2  0  0  0  4
+Hendrickson M         0.2  0  0  0  0  0
+Waechter D            1.0  1  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Morton C (W)          6.0  4  2  2  2  3
+Tavarez J             1.0  0  0  0  1  3
+Bennett J             1.0  0  0  0  1  0
+Gonzalez M (S)        1.0  0  0  0  0  3
+
+E -- Sanchez A
+DP -- Florida 2, Atlanta 2
+LOB -- Florida 3, Atlanta 7
+2B -- Uggla D, Baker J, Gonzalez L
+HR -- McCann B
+SB -- Anderson J
+WP -- Tavarez J
+T -- 2:27
+A -- 20155
+     Game of 9/4/2008 -- Washington at Atlanta (N)
+
+  Washington         AB  R  H RBI    Atlanta            AB  R  H RBI
+Harris W, lf          3  0  0  0   Blanco G, cf-lf       4  0  0  1   
+Guzman C, ss          3  0  0  0   Johnson K, 2b         4  1  2  0   
+Zimmerman R, 3b       4  0  1  0   Jones C, 3b           1  0  1  0   
+Milledge L, cf        4  0  0  0   McCann B, c           3  0  1  1   
+Belliard R, 1b        3  0  3  0   Infante O, ss         4  0  0  0   
+Casto K, pr-1b        0  0  0  0   Kotchman C, 1b        3  1  0  0   
+Boone A, ph           1  0  0  0   Francoeur J, rf       3  0  0  0   
+Dukes E, rf           4  0  0  0   Jones B, lf           3  0  1  0   
+Hernandez A, 2b       3  0  0  0   Anderson J, pr-cf     0  0  0  0   
+Montz L, c            3  0  0  0   Parr J, p             1  0  0  0   
+Martis S, p           1  0  0  0   Gotay R, ph           1  0  0  0   
+Mock G, p             0  0  0  0   Bennett J, p          0  0  0  0   
+Manning C, p          0  0  0  0   Tavarez J, p          0  0  0  0   
+Shell S, p            0  0  0  0   Norton G, ph          0  0  0  0   
+Bernadina R, ph       1  0  1  0   Gonzalez M, p         0  0  0  0   
+Speigner L, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        27  2  5  2
+
+Washington       000 000 000 --  0
+Atlanta          001 100 00x --  2
+
+  Washington           IP  H  R ER BB SO
+Martis S (L)          5.0  4  2  2  5  2
+Mock G                1.1  1  0  0  1  1
+Manning C             0.1  0  0  0  0  1
+Shell S               0.1  0  0  0  0  0
+Speigner L            1.0  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Parr J (W)            6.0  2  0  0  3  3
+Bennett J             1.0  1  0  0  0  1
+Tavarez J             1.0  1  0  0  0  1
+Gonzalez M (S)        1.0  1  0  0  0  3
+
+E -- Montz L
+DP -- Atlanta 1
+LOB -- Washington 6, Atlanta 9
+2B -- Belliard R, Johnson K, Zimmerman R
+3B -- Johnson K
+CS -- Guzman C, Anderson J
+SF -- McCann B
+WP -- Parr J, Martis S
+T -- 2:31
+A -- 18708
+     Game of 9/5/2008 -- Washington at Atlanta (N)
+
+  Washington         AB  R  H RBI    Atlanta            AB  R  H RBI
+Harris W, lf          4  0  0  0   Anderson J, cf        5  2  2  0   
+Guzman C, ss          3  0  1  0   Johnson K, 2b         5  2  3  2   
+Gonzalez A, ss        1  0  0  0   Jones C, 3b           3  1  0  1   
+Zimmerman R, 3b       4  1  2  0   Carlyle B, p          0  0  0  0   
+Orr P, pr-3b          1  1  0  0   Dessens E, p          0  0  0  0   
+Casto K, 1b           5  1  3  0   Ridgway J, p          0  0  0  0   
+Langerhans R, rf      4  1  1  2   Norton G, ph          1  0  0  0   
+Bernadina R, cf       3  1  1  1   Julio J, p            0  0  0  0   
+Nieves W, c           3  0  0  1   McCann B, c           3  0  0  1   
+Bonifacio E, 2b       4  0  2  0   Sammons C, c          1  0  0  0   
+Manning C, p          0  0  0  0   Escobar Y, ss         3  1  1  0   
+Mock G, p             0  0  0  0   Kotchman C, 1b        4  1  2  1   
+Bergmann J, p         0  0  0  0   Francoeur J, rf       1  1  0  1   
+Estrada M, p          0  0  0  0   Blanco G, pr-lf       1  1  0  0   
+Boone A, ph           1  0  1  1   Jones B, lf-rf        4  0  1  3   
+Speigner L, p         0  0  0  0   Jurrjens J, p         2  1  1  0   
+Hernandez A, 2b       1  0  0  0   Gotay R, ph           0  0  0  0   
+                                   Prado M, 3b           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5 11  5                        34 10 10  9
+
+Washington       001 001 300 --  5
+Atlanta          107 110 00x -- 10
+
+  Washington           IP  H  R ER BB SO
+Bergmann J (L)        2.1  5  7  7  3  2
+Estrada M             2.2  3  3  2  2  1
+Speigner L            1.0  2  0  0  0  0
+Manning C             1.0  0  0  0  0  2
+Mock G                1.0  0  0  0  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J (W)        5.0  6  1  1  3  6
+Carlyle B             1.0  1  1  1  1  0
+Dessens E             1.0  3  3  3  1  0
+Ridgway J             1.0  0  0  0  0  1
+Julio J               1.0  1  0  0  0  0
+
+E -- Bonifacio E
+DP -- Atlanta 1
+LOB -- Washington 10, Atlanta 8
+2B -- Anderson J, Johnson K 2, Jones B
+3B -- Bernadina R, Langerhans R
+SH -- Bergmann J, Estrada M
+SF -- McCann B, Nieves W
+HBP -- by Estrada M (Francoeur J)
+T -- 2:55
+A -- 25064
+     Game of 9/6/2008 -- Washington at Atlanta (N)
+
+  Washington         AB  R  H RBI    Atlanta            AB  R  H RBI
+Harris W, lf          5  1  1  1   Anderson J, cf        4  0  0  0   
+Guzman C, ss          4  1  2  0   Johnson K, 2b         5  0  2  2   
+Zimmerman R, 3b       5  2  2  2   Jones C, 3b           4  0  1  0   
+Milledge L, cf        4  0  0  0   McCann B, c           4  1  0  0   
+Dukes E, rf           5  2  4  3   Escobar Y, ss         4  1  1  1   
+Boone A, 1b           5  0  0  0   Kotchman C, 1b        5  2  2  0   
+Bonifacio E, 2b       5  1  0  0   Jones B, rf           1  0  0  1   
+Nieves W, c           3  0  1  0   Infante O, ph-lf      3  0  0  0   
+Redding T, p          2  0  0  0   Blanco G, lf          2  0  1  1   
+Hernandez A, ph       1  0  1  1   Francoeur J, ph-rf    2  1  2  0   
+Hinckley M, p         0  0  0  0   Hampton M, p          2  0  1  0   
+Rivera S, p           0  0  0  0   Prado M, ph           1  0  0  0   
+Hanrahan J, p         0  0  0  0   Bennett J, p          0  0  0  0   
+Langerhans R, ph      1  1  1  1   Norton G, ph          0  0  0  0   
+Shell S, p            0  0  0  0   Lillibridge B, pr     0  0  0  0   
+                                   Gonzalez M, p         0  0  0  0   
+                                   Julio J, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  8 12  8                        37  5 10  5
+
+Washington       012 100 100 3 --  8
+Atlanta          020 100 002 0 --  5
+
+  Washington           IP  H  R ER BB SO
+Redding T             6.0  5  3  2  3  4
+Hinckley M            1.0  1  0  0  0  0
+Rivera S              1.0  1  0  0  0  1
+Hanrahan J (W)        1.0  3  2  2  2  2
+Shell S (S)           1.0  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Hampton M             7.0  8  5  4  1  5
+Bennett J             2.0  0  0  0  0  1
+Gonzalez M (L)        0.1  3  3  3  0  1
+Julio J               0.2  1  0  0  1  1
+
+E -- Dukes E 2, Jones C
+DP -- Washington 2, Atlanta 1
+LOB -- Washington 5, Atlanta 8
+2B -- Francoeur J, Johnson K, Zimmerman R
+3B -- Guzman C
+HR -- Dukes E 2, Harris W, Zimmerman R, Escobar Y, Langerhans R
+CS -- Dukes E
+SH -- Nieves W
+SF -- Jones B
+WP -- Julio J 2
+Balk -- Hinckley M
+T -- 2:53
+A -- 34369
+     Game of 9/7/2008 -- Washington at Atlanta (D)
+
+  Washington         AB  R  H RBI    Atlanta            AB  R  H RBI
+Hernandez A, 2b       3  1  0  0   Blanco G, cf-lf       5  2  2  1   
+Harris W, lf          7  1  1  0   Prado M, 1b           6  0  2  1   
+Zimmerman R, 3b       7  0  0  0   Carlyle B, p          0  0  0  0   
+Milledge L, cf        5  3  2  1   Bennett J, p          0  0  0  0   
+Dukes E, rf           7  0  1  3   Julio J, p            0  0  0  0   
+Boone A, 1b           5  0  3  0   Norton G, ph          1  0  0  0   
+Bernadina R, pr       0  0  0  0   Jones C, 3b           6  0  3  2   
+Rivera S, p           0  0  0  0   Lillibridge B, pr-3b  1  0  0  0   
+Bonifacio E, ph       1  0  0  0   Johnson K, 2b         5  0  1  0   
+Shell S, p            0  0  0  0   Parr J, ph            0  0  0  0   
+Perez O, ph           1  0  0  0   Escobar Y, ss         7  0  3  0   
+Hanrahan J, p         0  0  0  0   Francoeur J, rf       7  0  1  0   
+Montz L, c            6  1  0  0   Jones B, lf           3  1  1  0   
+Gonzalez A, ss        4  1  3  3   Anderson J, cf        3  0  1  0   
+Balester C, p         1  0  0  0   Miller C, c           4  0  0  0   
+Orr P, ph             1  0  0  0   Kotchman C, ph-1b     1  0  0  0   
+Manning C, p          0  0  0  0   Reyes J, p            1  1  1  0   
+Colome J, p           0  0  0  0   Gotay R, ph           1  0  0  0   
+Casto K, ph           0  0  0  0   Tavarez J, p          0  0  0  0   
+Guzman C, ph          1  0  0  0   Boyer B, p            0  0  0  0   
+Mock G, p             0  0  0  0   Ohman W, p            0  0  0  0   
+Hinckley M, p         0  0  0  0   Gonzalez M, p         0  0  0  0   
+Langerhans R, ph-1b   2  0  0  0   Infante O, ph         1  0  0  0   
+                                   Nunez V, p            0  0  0  0   
+                                   Ridgway J, p          0  0  0  0   
+                                   McCann B, ph-c        2  0  1  0   
+                                   Jurrjens J, pr        0  0  0  0   
+                                   Sammons C, c          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     51  7 10  7                        54  4 16  4
+
+Washington       010 000 120 000 03 --  7
+Atlanta          030 001 000 000 00 --  4
+
+  Washington           IP  H  R ER BB SO
+Balester C            6.0 11  4  4  2  3
+Manning C             0.1  0  0  0  1  0
+Colome J              0.2  0  0  0  0  0
+Mock G                1.0  0  0  0  0  2
+Hinckley M            1.0  0  0  0  0  0
+Rivera S              2.0  2  0  0  1  2
+Shell S (W)           2.0  2  0  0  0  2
+Hanrahan J (S)        1.0  1  0  0  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Reyes J               6.0  4  1  1  3  1
+Tavarez J             1.0  1  1  1  1  2
+Boyer B               0.2  2  2  2  1  1
+Ohman W               0.1  0  0  0  0  0
+Gonzalez M            1.0  0  0  0  1  1
+Nunez V               0.2  1  0  0  0  1
+Ridgway J             1.1  0  0  0  0  2
+Carlyle B             2.0  0  0  0  0  2
+Bennett J (L)         0.1  2  3  3  2  0
+Julio J               0.2  0  0  0  0  1
+
+E -- Escobar Y
+DP -- Washington 2
+LOB -- Washington 12, Atlanta 14
+2B -- Jones C, Gonzalez A, Boone A, McCann B, Dukes E, Escobar Y
+HR -- Milledge L, Gonzalez A
+SB -- Blanco G, Harris W
+CS -- Johnson K
+SH -- Balester C
+HBP -- by Hinckley M (Blanco G), by Nunez V (Gonzalez A)
+T -- 4:34
+A -- 30753
+     Game of 9/9/2008 -- Colorado at Atlanta (N)
+
+  Colorado           AB  R  H RBI    Atlanta            AB  R  H RBI
+Barmes C, 2b          5  0  0  0   Anderson J, cf        6  1  2  0   
+Taveras W, cf         5  0  0  0   Infante O, 2b         5  1  2  0   
+Holliday M, lf        4  1  2  0   Jones C, 3b           4  0  2  0   
+Hawpe B, rf           3  1  1  2   McCann B, c           5  1  2  1   
+Atkins G, 1b          4  1  1  1   Escobar Y, ss         4  0  1  0   
+Stewart I, 3b         3  0  0  0   Kotchman C, 1b        4  1  1  2   
+Iannetta C, c         4  1  1  1   Francoeur J, rf       5  0  2  1   
+Tulowitzki T, ss      3  0  0  0   Jones B, lf           4  0  1  0   
+Cook A, p             2  0  0  0   Blanco G, pr-lf       1  0  0  0   
+Smith S, ph           1  0  1  0   Campillo J, p         2  0  0  0   
+Fowler D, pr          0  0  0  0   Bennett J, p          0  0  0  0   
+Grilli J, p           0  0  0  0   Ohman W, p            0  0  0  0   
+Rusch G, p            0  0  0  0   Norton G, ph          1  0  0  0   
+Speier R, p           0  0  0  0   Gonzalez M, p         0  0  0  0   
+Corpas M, p           0  0  0  0   Tavarez J, p          0  0  0  0   
+Podsednik S, ph       1  0  0  0   Johnson K, ph         1  1  1  0   
+Buchholz T, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  6  4                        42  5 14  4
+
+Colorado         000 200 101 0 --  4
+Atlanta          300 001 000 1 --  5
+  2 outs when winning run was scored.
+
+  Colorado             IP  H  R ER BB SO
+Cook A                6.0  6  4  4  2  2
+Grilli J              0.1  2  0  0  0  0
+Rusch G               0.2  0  0  0  1  0
+Speier R              1.0  2  0  0  0  1
+Corpas M              1.0  2  0  0  0  0
+Buchholz T (L)        0.2  2  1  1  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Campillo J            6.1  5  3  3  3  3
+Bennett J             1.1  0  0  0  0  1
+Ohman W               0.1  0  0  0  0  0
+Gonzalez M            1.0  1  1  1  0  2
+Tavarez J (W)         1.0  0  0  0  0  1
+
+E -- Barmes C, Cook A, Stewart I
+DP -- Colorado 3, Atlanta 1
+LOB -- Colorado 4, Atlanta 12
+2B -- Kotchman C, Holliday M, Francoeur J, Anderson J
+HR -- Hawpe B, Iannetta C, Atkins G
+SB -- Anderson J, Jones C
+CS -- Infante O
+SH -- Campillo J
+Balk -- Buchholz T
+T -- 3:10
+A -- 21821
+     Game of 9/10/2008 -- Colorado at Atlanta (N)
+
+  Colorado           AB  R  H RBI    Atlanta            AB  R  H RBI
+Fowler D, cf          5  1  1  0   Anderson J, cf        5  1  2  2   
+Baker J, 2b           5  0  2  2   Johnson K, 2b         5  2  2  2   
+Holliday M, lf        4  0  1  0   Jones C, 3b           4  3  3  1   
+Hawpe B, rf           4  0  0  1   McCann B, c           5  1  3  1   
+Atkins G, 1b          5  0  1  0   Escobar Y, ss         4  0  1  1   
+Stewart I, 3b         4  1  1  1   Kotchman C, 1b        2  0  0  1   
+Iannetta C, c         3  2  1  0   Francoeur J, rf       4  1  1  0   
+Tulowitzki T, ss      4  1  3  0   Jones B, lf           4  1  1  1   
+Hernandez L, p        1  0  1  0   Blanco G, lf          0  0  0  0   
+Herges M, p           0  0  0  0   Parr J, p             2  0  1  0   
+Reynolds G, p         0  0  0  0   Gotay R, ph           1  0  0  0   
+Smith S, ph           0  0  0  0   Boyer B, p            0  0  0  0   
+Spilborghs R, ph      1  0  0  0   Ohman W, p            0  0  0  0   
+Vizcaino L, p         0  0  0  0   Bennett J, p          0  0  0  0   
+Register S, p         0  0  0  0   Norton G, ph          0  0  0  0   
+Koshansky J, ph       1  0  0  1   Tavarez J, p          0  0  0  0   
+Speier R, p           0  0  0  0   Julio J, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 11  5                        36  9 14  9
+
+Colorado         000 000 410 --  5
+Atlanta          100 120 50x --  9
+
+  Colorado             IP  H  R ER BB SO
+Hernandez L           4.1  8  4  4  3  1
+Herges M              0.2  0  0  0  1  0
+Reynolds G            1.0  0  0  0  0  2
+Vizcaino L (L)*       0.0  3  3  3  0  0
+Register S            1.0  3  2  2  1  1
+Speier R              1.0  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Parr J                6.0  5  0  0  0  5
+Boyer B+              0.0  2  3  3  1  0
+Ohman W               0.1  1  1  1  0  0
+Bennett J (W)         0.2  1  0  0  1  0
+Tavarez J             1.0  2  1  1  0  1
+Julio J               1.0  0  0  0  0  2
+  * Pitched to 3 batters in 7th
+  + Pitched to 3 batters in 7th
+
+E -- Escobar Y
+DP -- Colorado 2
+LOB -- Colorado 9, Atlanta 8
+2B -- Tulowitzki T, Parr J, Atkins G, Escobar Y, McCann B 2, Baker J, Jones B, Iannetta C
+HR -- Johnson K 2, Stewart I, Jones C
+SH -- Hernandez L
+SF -- Hawpe B
+T -- 3:05
+A -- 19693
+     Game of 9/11/2008 -- Colorado at Atlanta (N)
+
+  Colorado           AB  R  H RBI    Atlanta            AB  R  H RBI
+Taveras W, cf         4  1  2  0   Anderson J, cf        3  0  0  0   
+Baker J, 2b           5  1  1  0   Infante O, ph-lf      1  0  0  1   
+Holliday M, lf        4  1  3  2   Johnson K, 2b         4  1  1  0   
+Hawpe B, rf           5  1  1  1   Jones C, 3b           4  2  1  0   
+Atkins G, 1b          3  0  1  1   McCann B, c           2  2  1  1   
+Stewart I, 3b         4  0  0  0   Escobar Y, ss         3  2  3  3   
+Iannetta C, c         4  0  1  0   Kotchman C, 1b        3  0  1  1   
+Tulowitzki T, ss      4  0  2  0   Francoeur J, rf       4  0  0  0   
+Jimenez U, p          1  0  0  0   Blanco G, lf-cf       4  1  2  2   
+Koshansky J, ph       1  0  0  0   Jurrjens J, p         1  0  0  0   
+Rusch G, p            0  0  0  0   Prado M, ph           1  0  0  0   
+Herges M, p           0  0  0  0   Julio J, p            0  0  0  0   
+Grilli J, p           0  0  0  0   Norton G, ph          1  0  0  0   
+Fuentes B, p          0  0  0  0   Tavarez J, p          0  0  0  0   
+Spilborghs R, ph      1  0  0  0   Gonzalez M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4 11  4                        31  8  9  8
+
+Colorado         003 010 000 --  4
+Atlanta          020 015 00x --  8
+
+  Colorado             IP  H  R ER BB SO
+Jimenez U             5.0  5  3  2  4  6
+Rusch G (L)           0.2  3  4  4  1  1
+Herges M              0.1  1  1  1  0  0
+Grilli J              1.0  0  0  0  0  0
+Fuentes B             1.0  0  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J (W)        6.0  8  4  4  2 10
+Julio J               1.0  1  0  0  0  1
+Tavarez J             1.0  1  0  0  0  0
+Gonzalez M            1.0  1  0  0  1  2
+
+E -- Atkins G, Hawpe B
+DP -- Colorado 1, Atlanta 1
+LOB -- Colorado 9, Atlanta 7
+2B -- Tulowitzki T, Holliday M, Jones C, Blanco G, Iannetta C
+3B -- Johnson K
+HR -- Hawpe B, Escobar Y
+SB -- Taveras W, Holliday M, Blanco G
+SH -- Jurrjens J, Jimenez U
+SF -- Infante O
+HBP -- by Jimenez U (Kotchman C)
+T -- 2:50
+A -- 20039
+     Game of 9/16/2008 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Rollins J, ss         5  1  2  0   Anderson J, cf        4  1  0  1   
+Utley C, 2b           5  1  1  1   Prado M, 2b           2  1  0  0   
+Werth J, rf           4  3  3  2   Johnson K, ph-2b      2  1  1  2   
+Howard R, 1b          5  2  4  3   Jones C, 3b           2  1  1  0   
+Burrell P, lf         5  0  0  0   McCann B, c           5  0  3  2   
+Bruntlett E, lf       0  0  0  0   Infante O, lf-ss      5  0  1  0   
+Victorino S, cf       5  0  3  1   Kotchman C, 1b        4  0  1  2   
+Feliz P, 3b           4  0  0  0   Francoeur J, rf       4  1  1  0   
+Ruiz C, c             2  1  1  1   Lillibridge B, ss     2  1  0  0   
+Dobbs G, ph           0  0  0  0   Blanco G, ph-lf       2  0  0  0   
+Coste C, c            1  0  0  0   Parr J, p             2  0  0  0   
+Moyer J, p            2  0  0  0   Carlyle B, p          0  0  0  0   
+Durbin C, p           0  0  0  0   Norton G, ph          0  1  0  0   
+Eyre S, p             0  0  0  0   Ohman W, p            0  0  0  0   
+Stairs M, ph          1  0  0  0   Bennett J, p          0  0  0  0   
+Madson R, p           0  0  0  0   Tavarez J, p          0  0  0  0   
+Jenkins G, ph         1  0  0  0   Gonzalez M, p         0  0  0  0   
+Lidge B, p            0  0  0  0   Gotay R, ph           1  0  0  0   
+                                   Julio J, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  8 14  8                        35  7  8  7
+
+Philadelphia     003 100 220 --  8
+Atlanta          003 004 000 --  7
+
+  Philadelphia         IP  H  R ER BB SO
+Moyer J               5.2  6  6  6  4  6
+Durbin C*             0.0  1  1  1  1  0
+Eyre S                0.1  1  0  0  0  0
+Madson R (W)          2.0  0  0  0  0  3
+Lidge B (S)           1.0  0  0  0  3  1
+
+  Atlanta              IP  H  R ER BB SO
+Parr J                4.1 10  4  4  0  4
+Carlyle B             1.2  0  0  0  1  2
+Ohman W               0.1  2  2  2  0  0
+Bennett J             0.2  1  0  0  1  1
+Tavarez J             0.2  0  1  1  1  0
+Gonzalez M (L)        0.1  1  1  1  0  1
+Julio J               1.0  0  0  0  1  3
+  * Pitched to 2 batters in 6th
+
+E -- McCann B, Lillibridge B
+LOB -- Philadelphia 10, Atlanta 10
+2B -- Rollins J, Utley C, Victorino S
+3B -- Howard R
+HR -- Werth J, Ruiz C, Howard R
+SH -- Moyer J
+HBP -- by Moyer J (Anderson J)
+WP -- Moyer J
+T -- 3:41
+A -- 30319
+     Game of 9/17/2008 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Rollins J, ss         5  0  1  0   Prado M, lf           4  0  0  0   
+Utley C, 2b           3  1  0  0   Johnson K, 2b         4  0  1  0   
+Werth J, rf           4  1  2  0   Jones C, 3b           3  0  1  0   
+Howard R, 1b          3  1  1  1   McCann B, c           4  0  0  0   
+Burrell P, lf         4  0  1  0   Infante O, ss         4  0  0  0   
+Bruntlett E, pr-lf    1  1  0  0   Kotchman C, 1b        4  0  2  0   
+Victorino S, cf       4  1  3  0   Francoeur J, rf       4  1  2  0   
+Feliz P, 3b           3  0  0  1   Anderson J, cf        3  0  0  0   
+Ruiz C, c             3  0  1  2   Boyer B, p            0  0  0  0   
+Happ J, p             1  0  0  0   Norton G, ph          1  0  1  1   
+Jenkins G, ph         1  0  0  0   Jurrjens J, p         1  0  0  0   
+Durbin C, p           0  0  0  0   Escobar Y, ph         0  0  0  0   
+Romero J, p           0  0  0  0   Jones B, pr           0  0  0  0   
+Stairs M, ph          1  1  1  1   Nunez V, p            0  0  0  0   
+Condrey C, p          0  0  0  0   Blanco G, cf          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  6 10  5                        34  1  7  1
+
+Philadelphia     400 000 011 --  6
+Atlanta          000 000 001 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Happ J (W)            6.0  3  0  0  1  2
+Durbin C              1.2  2  0  0  1  1
+Romero J              0.1  0  0  0  0  0
+Condrey C             1.0  2  1  1  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J (L)        5.0  5  4  4  5  2
+Nunez V               2.1  3  1  1  1  2
+Boyer B               1.2  2  1  1  1  1
+
+E -- McCann B
+DP -- Atlanta 3
+LOB -- Philadelphia 8, Atlanta 8
+2B -- Kotchman C, Werth J
+HR -- Stairs M
+SB -- Werth J, Victorino S, Rollins J
+SH -- Happ J
+T -- 2:49
+A -- 32821
+     Game of 9/18/2008 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Rollins J, ss         3  0  0  0   Prado M, lf           5  0  1  0   
+Utley C, 2b           5  1  1  0   Johnson K, 2b         4  1  1  0   
+Werth J, rf           4  1  1  1   Jones C, 3b           3  1  1  0   
+Howard R, 1b          2  1  0  1   McCann B, c           3  0  1  1   
+Burrell P, lf         4  1  2  2   Lillibridge B, pr     0  0  0  0   
+Bruntlett E, pr-lf    0  0  0  0   Miller C, c           0  0  0  0   
+Victorino S, cf       3  0  1  0   Infante O, ss         4  0  1  0   
+Feliz P, 3b           3  0  1  0   Kotchman C, 1b        4  1  1  1   
+Ruiz C, c             4  0  1  0   Francoeur J, rf       4  0  1  0   
+Hamels C, p           2  0  0  0   Anderson J, cf        4  0  1  0   
+Iguchi T, ph          1  0  0  0   Hampton M, p          2  0  0  0   
+Madson R, p           0  0  0  0   Gotay R, ph           1  0  0  0   
+Romero J, p           0  0  0  0   Tavarez J, p          0  0  0  0   
+Stairs M, ph          1  0  0  0   Escobar Y, ph         1  0  0  0   
+Lidge B, p            0  0  0  0   Bennett J, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  7  4                        35  3  8  2
+
+Philadelphia     200 002 000 --  4
+Atlanta          110 000 100 --  3
+
+  Philadelphia         IP  H  R ER BB SO
+Hamels C (W)          6.0  6  2  2  2  5
+Madson R              1.0  1  1  0  1  2
+Romero J              1.0  1  0  0  0  0
+Lidge B (S)           1.0  0  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Hampton M (L)         7.0  6  4  2  2  1
+Tavarez J             1.0  1  0  0  1  1
+Bennett J             1.0  0  0  0  1  0
+
+E -- Anderson J, Jones C, Rollins J
+DP -- Atlanta 2
+LOB -- Philadelphia 7, Atlanta 9
+2B -- Werth J, McCann B, Ruiz C, Jones C, Victorino S
+HR -- Kotchman C, Burrell P
+SH -- Johnson K
+SF -- Howard R
+HBP -- by Hampton M (Rollins J)
+WP -- Madson R
+T -- 2:42
+A -- 39070
+     Game of 9/19/2008 -- New York at Atlanta (N)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Reyes J, ss           4  3  3  2   Prado M, lf-3b        5  0  2  0   
+Castillo L, 2b        4  0  1  0   Johnson K, 2b         4  0  1  0   
+Wright D, 3b          5  1  2  2   Jones C, 3b           3  0  0  0   
+Beltran C, cf         5  1  1  1   Blanco G, lf          0  0  0  0   
+Delgado C, 1b         5  1  2  1   Escobar Y, ph         0  0  0  0   
+Castro R, c           3  0  1  0   Norton G, ph          0  0  0  0   
+Reyes A, ph           0  1  0  0   Tavarez J, p          0  0  0  0   
+Schneider B, c        1  0  0  0   Nunez V, p            0  0  0  0   
+Church R, rf          4  0  0  0   Acosta M, p           0  0  0  0   
+Evans N, lf           2  1  1  1   McCann B, ph          1  0  0  0   
+Figueroa N, p         0  0  0  0   Infante O, ss         3  1  2  2   
+Rincon R, p           0  0  0  0   Kotchman C, 1b        4  0  0  0   
+Heilman A, p          0  0  0  0   Francoeur J, rf       3  1  1  0   
+Feliciano P, p        0  0  0  0   Sammons C, c          4  0  0  0   
+Murphy D, ph          1  1  1  2   Anderson J, cf        4  0  1  1   
+Stokes B, p           0  0  0  0   Reyes J, p            1  1  1  0   
+Perez O, p            3  0  0  0   Carlyle B, p          0  0  0  0   
+Chavez E, lf          1  0  0  0   Gotay R, ph           0  1  0  0   
+                                   Julio J, p            0  0  0  0   
+                                   Jones B, ph-lf        2  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 12  9                        34  5  8  3
+
+New York         103 100 040 --  9
+Atlanta          021 010 100 --  5
+
+  New York             IP  H  R ER BB SO
+Perez O               6.0  6  4  3  3  6
+Figueroa N*           0.0  1  1  0  0  0
+Rincon R              0.1  0  0  0  0  0
+Heilman A             0.1  0  0  0  1  1
+Feliciano P (W)       0.1  0  0  0  0  0
+Stokes B              2.0  1  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Reyes J               3.1  7  5  5  2  2
+Carlyle B             1.2  0  0  0  0  1
+Julio J               2.0  0  0  0  2  3
+Tavarez J (L)         0.2  5  4  1  0  1
+Nunez V               0.1  0  0  0  0  1
+Acosta M              1.0  0  0  0  0  2
+  * Pitched to 2 batters in 7th
+
+E -- Wright D, Reyes J, Church R, Johnson K
+DP -- Atlanta 1
+LOB -- New York 7, Atlanta 7
+2B -- Castro R, Wright D, Beltran C, Reyes J, Infante O, Murphy D
+HR -- Reyes J, Evans N
+SB -- Reyes J, Castillo L
+SH -- Reyes A
+SF -- Infante O
+T -- 3:25
+A -- 42803
+     Game of 9/20/2008 -- New York at Atlanta (N)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Reyes J, ss           4  0  0  0   Anderson J, cf        4  1  3  1   
+Murphy D, lf          4  0  0  0   Prado M, 3b           3  1  1  0   
+Wright D, 3b          4  0  2  0   Johnson K, 2b         4  1  1  1   
+Delgado C, 1b         4  0  1  0   McCann B, c           4  0  1  1   
+Beltran C, cf         4  1  1  0   Infante O, ss         4  0  1  0   
+Church R, rf          3  0  0  0   Kotchman C, 1b        3  0  1  1   
+Evans N, ph           1  0  0  0   Francoeur J, rf       4  0  1  0   
+Castillo L, 2b        2  0  1  0   Jones B, lf           3  1  0  0   
+Schneider B, c        1  1  0  0   Blanco G, lf          0  0  0  0   
+Castro R, ph-c        1  0  0  0   Campillo J, p         2  0  0  0   
+Martinez P, p         2  0  1  2   Gotay R, ph           1  0  0  0   
+Anderson M, ph        1  0  0  0   Ohman W, p            0  0  0  0   
+Schoeneweis S, p      0  0  0  0   Bennett J, p          0  0  0  0   
+Parnell B, p          0  0  0  0   Gonzalez M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        32  4  9  4
+
+New York         000 020 000 --  2
+Atlanta          300 001 00x --  4
+
+  New York             IP  H  R ER BB SO
+Martinez P (L)        6.0  9  4  4  3  7
+Schoeneweis S         1.1  0  0  0  0  1
+Parnell B             0.2  0  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Campillo J (W)        6.0  5  2  2  2  2
+Ohman W               0.1  1  0  0  0  0
+Bennett J             1.2  0  0  0  0  2
+Gonzalez M (S)        1.0  0  0  0  0  2
+
+DP -- New York 1, Atlanta 2
+LOB -- New York 4, Atlanta 7
+2B -- Johnson K, Prado M, Beltran C, Martinez P, Wright D
+SB -- Anderson J 2, Jones B
+T -- 2:38
+A -- 50124
+     Game of 9/21/2008 -- New York at Atlanta (D)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Reyes J, ss           5  0  0  0   Anderson J, cf        3  0  0  0   
+Murphy D, lf          5  0  0  0   Morton C, p           0  0  0  0   
+Wright D, 3b          3  3  2  2   Acosta M, p           0  0  0  0   
+Delgado C, 1b         5  2  4  3   Jones B, ph           0  0  0  0   
+Beltran C, cf         4  0  1  0   Julio J, p            0  0  0  0   
+Church R, rf          3  0  0  0   Escobar Y, ph         0  0  0  0   
+Easley D, ph          1  0  0  0   Jones C, ph           0  0  0  0   
+Castillo L, 2b        2  0  0  1   Gonzalez M, p         0  0  0  0   
+Schneider B, c        3  0  0  0   Prado M, 3b-1b        4  1  3  3   
+Pelfrey M, p          2  1  0  0   Johnson K, 2b         5  0  1  0   
+Stokes B, p           0  0  0  0   McCann B, c           3  0  0  0   
+Rincon R, p           0  0  0  0   Infante O, ss-3b      3  1  1  1   
+Anderson M, ph        1  0  1  0   Kotchman C, 1b        4  0  1  1   
+Schoeneweis S, p      0  0  0  0   Lillibridge B, pr-ss  0  1  0  0   
+Smith J, p            0  0  0  0   Francoeur J, rf       4  2  3  1   
+Feliciano P, p        0  0  0  0   Blanco G, lf-cf       3  1  0  0   
+Heilman A, p          0  0  0  0   Parr J, p             0  0  0  0   
+                                   Carlyle B, p          0  0  0  0   
+                                   Gotay R, ph           1  0  1  1   
+                                   Nunez V, p            0  0  0  0   
+                                   Norton G, ph-lf       1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6  8  6                        31  7 11  7
+
+New York         220 000 002 --  6
+Atlanta          110 000 14x --  7
+
+  New York             IP  H  R ER BB SO
+Pelfrey M*            6.0  6  3  3  3  2
+Stokes B              0.2  1  0  0  0  0
+Rincon R              0.1  0  0  0  0  0
+Schoeneweis S (L)     0.1  2  2  2  0  0
+Smith J+              0.0  1  1  1  0  0
+Feliciano P           0.1  0  1  1  1  0
+Heilman A             0.1  1  0  0  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Parr J                1.2  4  4  4  4  2
+Carlyle B             0.1  0  0  0  0  0
+Nunez V               2.0  0  0  0  0  3
+Morton C              2.0  0  0  0  3  1
+Acosta M              1.0  2  0  0  0  0
+Julio J (W)           1.0  1  0  0  0  2
+Gonzalez M (S)        1.0  1  2  2  1  3
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 8th
+
+DP -- New York 2, Atlanta 1
+LOB -- New York 9, Atlanta 8
+2B -- Delgado C, Francoeur J 2, Prado M 2, Infante O
+3B -- Francoeur J
+HR -- Wright D, Delgado C
+SB -- Lillibridge B
+SH -- Jones B
+SF -- Prado M
+HBP -- by Pelfrey M (Infante O)
+T -- 3:20
+A -- 49222
+

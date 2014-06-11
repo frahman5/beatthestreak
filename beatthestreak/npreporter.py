@@ -25,7 +25,7 @@ class NPReporter(object):
     def get_npsim(self):
         return self.npsim
 
-    def report_results(self):
+    def report_results(self, test=False):
         """
         None -> None
 
@@ -38,7 +38,8 @@ class NPReporter(object):
         startDate = npsim.get_bots()[0].get_history()[0][4]
         endDate = npsim.get_bots()[0].get_history()[-1][4]
         writer = ExcelWriter(Filepath.get_results_file(npsim.get_sim_year(), 
-            npsim.get_bat_year(), npsim.get_n(), npsim.get_p(), startDate, endDate))
+            npsim.get_bat_year(), npsim.get_n(), npsim.get_p(), startDate, 
+            endDate, test=test))
 
         # calculate best bots
         npsim.get_bots().sort(key=lambda bot: bot.get_max_streak_length())
@@ -113,6 +114,8 @@ class NPReporter(object):
         assert type(bot) == Bot
         assert type(writer) == _OpenpyxlWriter
 
+        npsim = self.get_npsim()
+
         # Create series corresponding to columns of csv
         history = bot.get_history()
         player1S = Series([event[0].get_name() for event in history], 
@@ -120,11 +123,16 @@ class NPReporter(object):
         batAve1S = Series([event[0].get_bat_ave() for event in history], 
             name='Batting Average1')
         hit1S = Series([event[2] for event in history], name='Hit1')
-        player2S = Series([event[1].get_name() for event in history], 
-            name='Player2')
-        batAve2S = Series([event[1].get_bat_ave() for event in history], 
-            name='Batting Average2')
-        hit2S = Series([event[3] for event in history], name='Hit2')
+        if npsim.get_double_down(): # if it was a double down simulation
+            player2S = Series([event[1].get_name() for event in history], 
+                name='Player2')
+            batAve2S = Series([event[1].get_bat_ave() for event in history], 
+                name='Batting Average2')
+            hit2S = Series([event[3] for event in history], name='Hit2')
+        else: # if it was a single down simulation
+            player2S = Series([None for event in history], name='Player2')
+            batAve2S = Series([None for event in history], name='Batting Average2')
+            hit2S = Series([None for event in history], name='Hit2')
         dateS = Series([event[4] for event in history], name='Date')
         streakS = Series([event[5] for event in history], 
             name='Streak')

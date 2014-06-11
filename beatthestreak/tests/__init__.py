@@ -14,18 +14,22 @@ def setup():
     teardown()
 
 def teardown():
+    ## To save time, we stopped cleaning the files, since we're pretty
+    ## confident that itll download if need be. We can also change this
+    ## to test it again. 
+    
     # get folders to clean
-    zippedFileFolder = Filepath.get_retrosheet_folder(folder='zipped')
-    unzippedFileFolder = Filepath.get_retrosheet_folder(folder='unzipped')
+    # zippedFileFolder = Filepath.get_retrosheet_folder(folder='zipped')
+    # unzippedFileFolder = Filepath.get_retrosheet_folder(folder='unzipped')
     testsResultsFolders = (Filepath.get_results_folder(year=year, test=True) for 
       year in range(1950, 2014))
-    for folder in (zippedFileFolder, unzippedFileFolder):
-      os.chdir(folder)
-      for file in os.listdir(os.getcwd()): 
-        if os.path.isdir(file): 
-          shutil.rmtree(file)
-        else: 
-          os.remove(file) 
+    # for folder in (zippedFileFolder, unzippedFileFolder):
+    #   os.chdir(folder)
+    #   for file in os.listdir(os.getcwd()): 
+    #     if os.path.isdir(file): 
+    #       shutil.rmtree(file)
+    #     else: 
+    #       os.remove(file) 
     for folder in testsResultsFolders:
       os.chdir(folder)
       for file in os.listdir(os.getcwd()): 
