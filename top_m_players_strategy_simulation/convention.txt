@@ -1,3 +1,0 @@
-Variables: lowerCamelCase
-functions: lower_underscored
-classes: UpperCamelCase

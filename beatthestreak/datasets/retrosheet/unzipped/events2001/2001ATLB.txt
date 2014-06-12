@@ -1,0 +1,3637 @@
+     Game of 4/3/2001 -- New York at Atlanta (D)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Agbayani B, lf        1  0  0  0   Furcal R, ss          5  2  2  1   
+Shinjo T, pr-lf       1  2  1  0   Veras Q, 2b           4  0  0  0   
+Alfonzo E, 2b         5  1  1  0   Jones A, cf           5  0  1  0   
+Ventura R, 3b         5  2  2  4   Jones C, 3b           4  0  2  1   
+Piazza M, c           5  1  1  2   Jordan B, rf          4  0  1  1   
+Zeile T, 1b           3  0  1  0   Lopez J, c            4  1  1  1   
+Payton J, cf          3  0  1  0   Surhoff B, lf         4  0  1  0   
+Hamilton D, rf        3  0  0  0   Helms W, 1b           3  0  0  0   
+Perez T, rf           1  0  0  0   Rocker J, p           0  0  0  0   
+Ordonez R, ss         3  0  0  0   Abbott K, ph          1  0  0  0   
+Leiter A, p           3  0  0  0   Ligtenberg K, p       0  0  0  0   
+Franco J, p           0  0  0  0   Glavine T, p          2  0  0  0   
+Wendell T, p          0  0  0  0   Martinez D, 1b        2  1  1  0   
+Cook D, p             0  0  0  0                                      
+Harris L, ph          1  0  0  0                                      
+Benitez A, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  6  7  6                        38  4  9  4
+
+New York         200 000 020 2 --  6
+Atlanta          100 000 120 0 --  4
+
+  New York             IP  H  R ER BB SO
+Leiter A              7.0  6  2  2  0  6
+Franco J*             0.0  2  2  2  0  0
+Wendell T             1.0  1  0  0  0  0
+Cook D (W)            1.0  0  0  0  0  1
+Benitez A (S)         1.0  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T             7.1  3  3  3  6  2
+Rocker J              1.2  2  1  1  0  2
+Ligtenberg K (L)      1.0  2  2  2  0  1
+  * Pitched to 3 batters in 8th
+
+DP -- New York 1, Atlanta 2
+LOB -- New York 4, Atlanta 5
+2B -- Alfonzo E, Surhoff B, Furcal R
+HR -- Piazza M, Lopez J, Ventura R 2
+SB -- Jones C
+CS -- Agbayani B 2
+HBP -- by Franco J (Veras Q)
+T -- 3:17
+A -- 42117
+     Game of 4/4/2001 -- New York at Atlanta (N)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Perez T, rf           3  1  1  0   Furcal R, ss          4  1  1  0   
+Agbayani B, ph        1  0  1  0   Veras Q, 2b           3  0  0  0   
+Relaford D, pr        0  0  0  0   Jones A, cf           3  0  0  0   
+Wall D, p             0  0  0  0   Jones C, 3b           4  0  1  2   
+Wendell T, p          0  0  0  0   Surhoff B, lf         4  0  1  0   
+Alfonzo E, 2b         3  0  0  0   Jordan B, rf          3  1  0  0   
+Ventura R, 3b         3  0  0  0   Lopez J, c            4  0  1  0   
+McEwing J, pr-3b      0  1  0  0   Brogna R, 1b          4  0  2  0   
+Piazza M, c           4  0  1  0   Millwood K, p         2  1  0  0   
+Zeile T, 1b           3  0  1  0   Valdes M, p           0  0  0  0   
+Payton J, cf          4  0  1  1   Martinez D, ph        1  0  0  0   
+Hamilton D, lf        3  0  1  0   Remlinger M, p        0  0  0  0   
+Pratt T, ph           1  0  0  0   Rocker J, p           0  0  0  0   
+Harris L, lf          0  0  0  0   Lockhart K, ph        1  0  0  1   
+Ordonez R, ss         3  0  0  0                                      
+Appier K, p           2  0  0  0                                      
+Cook D, p             0  0  0  0                                      
+Shinjo T, ph-rf       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  1                        33  3  6  3
+
+New York         000 001 001 --  2
+Atlanta          002 000 001 --  3
+  1 out when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Appier K              6.0  5  2  2  1  4
+Cook D                1.0  0  0  0  0  1
+Wall D (L)*           1.0  0  1  1  1  1
+Wendell T             0.1  1  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Millwood K            6.0  3  1  1  1  2
+Valdes M              1.0  1  0  0  0  0
+Remlinger M           1.0  1  0  0  0  0
+Rocker J (W)          1.0  1  1  1  2  1
+  * Pitched to 1 batter in 9th
+
+E -- Jones C, Furcal R
+DP -- Atlanta 1
+LOB -- New York 5, Atlanta 8
+2B -- Surhoff B, Brogna R
+HBP -- by Appier K (Veras Q)
+WP -- Appier K
+T -- 3:18
+A -- 27924
+     Game of 4/5/2001 -- New York at Atlanta (N)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Agbayani B, lf        3  1  1  0   Furcal R, ss          4  0  0  0   
+Perez T, rf           0  0  0  0   Veras Q, 2b           4  0  0  1   
+Alfonzo E, 2b         5  0  1  0   Jones A, cf           4  0  1  0   
+Ventura R, 3b         4  0  1  1   Jones C, 3b           3  0  0  0   
+Piazza M, c           5  0  1  1   Surhoff B, lf         3  0  0  0   
+Zeile T, 1b           4  2  1  0   Jordan B, rf          3  0  0  0   
+Payton J, cf          5  1  3  0   Lopez J, c            3  0  0  0   
+Shinjo T, rf-lf       4  2  1  1   Brogna R, 1b          3  0  1  0   
+Ordonez R, ss         5  0  2  2   Perez O, p            1  0  0  0   
+Reed R, p             4  1  2  2   Slusarski J, p        0  0  0  0   
+                                   Lockhart K, ph        1  1  1  0   
+                                   Seelbach C, p         0  0  0  0   
+                                   Martinez D, ph        1  0  0  0   
+                                   Marquis J, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  7 13  7                        30  1  3  1
+
+New York         031 002 001 --  7
+Atlanta          000 001 000 --  1
+
+  New York             IP  H  R ER BB SO
+Reed R (W)            9.0  3  1  1  0  3
+
+  Atlanta              IP  H  R ER BB SO
+Perez O (L)           4.0  8  4  3  2  3
+Slusarski J           2.0  4  2  2  0  0
+Seelbach C            2.0  0  0  0  1  2
+Marquis J             1.0  1  1  1  1  0
+
+E -- Veras Q, Jordan B
+LOB -- New York 10, Atlanta 2
+2B -- Zeile T, Jones A, Lockhart K, Payton J
+SB -- Alfonzo E, Agbayani B
+SH -- Agbayani B
+T -- 2:53
+A -- 34219
+     Game of 4/13/2001 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Glanville D, cf       3  0  0  0   Furcal R, ss          4  1  3  1   
+Rollins J, ss         3  0  1  0   Veras Q, 2b           5  0  2  0   
+Abreu B, rf           4  0  0  0   Jones A, cf           3  0  0  0   
+Rolen S, 3b           4  0  0  0   Jones C, 3b           2  0  1  0   
+Lieberthal M, c       4  1  2  0   Jordan B, rf          4  0  1  0   
+Lee T, 1b             4  0  0  0   Lopez J, c            3  0  1  1   
+Burrell P, lf         3  1  1  0   Surhoff B, lf         4  1  1  0   
+Anderson M, 2b        3  0  1  1   Helms W, 1b           3  2  2  2   
+Wolf R, p             0  0  0  0   Brogna R, 1b          1  0  0  0   
+Jordan K, ph          0  0  0  0   Glavine T, p          2  0  0  0   
+Oropesa E, p          0  0  0  0   Remlinger M, p        0  0  0  0   
+Michaels J, ph        1  0  1  1   Abbott K, ph          1  0  0  0   
+Gomes W, p            0  0  0  0   Rocker J, p           0  0  0  0   
+Cormier R, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  2  6  2                        32  4 11  4
+
+Philadelphia     000 000 200 --  2
+Atlanta          110 200 00x --  4
+
+  Philadelphia         IP  H  R ER BB SO
+Wolf R (L)            5.0  8  4  3  3  3
+Oropesa E             1.0  1  0  0  0  1
+Gomes W               1.0  1  0  0  1  0
+Cormier R             1.0  1  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (W)         6.2  5  2  2  5  5
+Remlinger M           1.1  1  0  0  0  1
+Rocker J (S)          1.0  0  0  0  0  0
+
+E -- Anderson M 2, Rollins J
+DP -- Philadelphia 2, Atlanta 3
+LOB -- Philadelphia 5, Atlanta 10
+2B -- Helms W
+HR -- Helms W
+SB -- Abbott K
+CS -- Abreu B, Furcal R
+SH -- Glavine T
+SF -- Furcal R
+T -- 2:50
+A -- 31017
+     Game of 4/14/2001 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Glanville D, cf       4  0  1  0   Furcal R, ss          5  0  1  0   
+Rollins J, ss         4  1  1  0   Helms W, 1b           4  0  1  0   
+Abreu B, rf           3  0  1  0   Jones A, cf           4  0  1  0   
+Rolen S, 3b           4  0  1  1   Jones C, 3b           2  0  0  0   
+Lieberthal M, c       3  0  0  0   Jordan B, rf          4  1  1  0   
+Lee T, 1b             2  0  0  0   Lopez J, c            4  0  1  0   
+Burrell P, lf         4  1  1  1   Surhoff B, lf         4  0  2  1   
+Anderson M, 2b        4  0  1  0   Lockhart K, 2b        3  0  1  0   
+Daal O, p             1  0  0  0   Millwood K, p         3  0  0  0   
+Newhan D, ph          1  0  0  0   Marquis J, p          0  0  0  0   
+Gomes W, p            0  0  0  0   Brogna R, ph          1  0  0  0   
+Jordan K, ph          1  0  0  0                                      
+Mesa J, p             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        34  1  8  1
+
+Philadelphia     100 001 000 --  2
+Atlanta          000 100 000 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Daal O (W)            6.0  6  1  1  2  4
+Gomes W               2.0  1  0  0  0  0
+Mesa J (S)            1.0  1  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Millwood K (L)        7.0  6  2  2  3  5
+Marquis J             2.0  0  0  0  1  0
+
+E -- Rolen S 2
+DP -- Philadelphia 1, Atlanta 1
+LOB -- Philadelphia 7, Atlanta 9
+2B -- Surhoff B
+3B -- Helms W
+HR -- Burrell P
+SB -- Rollins J
+SH -- Daal O, Lockhart K
+T -- 2:44
+A -- 35979
+     Game of 4/15/2001 -- Philadelphia at Atlanta (D)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Glanville D, cf       4  0  0  0   Furcal R, ss          4  0  1  1   
+Jordan K, 2b          4  0  1  0   Brogna R, 1b          4  0  0  0   
+Abreu B, rf           3  0  1  0   Surhoff B, lf         3  0  0  0   
+Rolen S, 3b           4  0  1  0   Jones C, 3b           3  0  1  0   
+Lieberthal M, c       3  0  0  0   Jordan B, rf          3  1  1  1   
+Burrell P, lf         4  0  0  0   Jones A, cf           3  1  2  1   
+Lee T, 1b             4  0  2  0   Lopez J, c            3  0  0  0   
+Perez T, ss           4  0  1  0   Lockhart K, 2b        3  0  0  0   
+Person R, p           2  0  0  0   Perez O, p            2  0  0  0   
+Bottalico R, p        0  0  0  0   Remlinger M, p        0  0  0  0   
+                                   Martinez D, ph        0  1  0  0   
+                                   Rocker J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  0  6  0                        28  3  5  3
+
+Philadelphia     000 000 000 --  0
+Atlanta          010 000 02x --  3
+
+  Philadelphia         IP  H  R ER BB SO
+Person R (L)          7.2  4  3  3  1  7
+Bottalico R           0.1  1  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Perez O (W)           7.0  4  0  0  3  4
+Remlinger M           1.0  1  0  0  0  1
+Rocker J (S)          1.0  1  0  0  0  1
+
+DP -- Philadelphia 1, Atlanta 1
+LOB -- Philadelphia 8, Atlanta 2
+2B -- Furcal R
+HR -- Jordan B, Jones A
+CS -- Jones C
+T -- 2:30
+A -- 24472
+     Game of 4/16/2001 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Castillo L, 2b        4  0  1  0   Furcal R, ss          4  0  0  0   
+Owens E, rf           4  1  1  0   Martinez D, lf        4  1  1  0   
+Floyd C, lf           4  1  2  0   Brogna R, 1b          4  1  3  2   
+Wilson P, cf          4  1  1  0   Jones C, 3b           4  0  2  1   
+Lowell M, 3b          4  0  1  2   Jordan B, rf          4  0  1  0   
+Johnson C, c          3  0  0  0   Jones A, cf           4  1  2  1   
+Lee D, 1b             4  0  0  0   Lockhart K, 2b        2  0  0  0   
+Gonzalez A, ss        3  0  1  0   Bako P, c             3  0  0  0   
+Penny B, p            2  0  0  0   Maddux G, p           1  0  0  0   
+McGuire R, ph         1  0  0  0   Rocker J, p           0  0  0  0   
+Almanza A, p          0  0  0  0   Surhoff B, ph         0  1  0  0   
+Miceli D, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  2                        30  4  9  4
+
+Florida          000 100 002 --  3
+Atlanta          100 001 101 --  4
+  1 out when winning run was scored.
+
+  Florida              IP  H  R ER BB SO
+Penny B               7.0  8  3  2  3  2
+Almanza A             1.0  0  0  0  1  1
+Miceli D (L)          0.1  1  1  1  2  0
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G              8.0  5  1  0  0  6
+Rocker J (W)          1.0  2  2  1  1  2
+
+E -- Owens E
+DP -- Florida 1, Atlanta 1
+LOB -- Florida 4, Atlanta 10
+2B -- Martinez D, Floyd C, Brogna R
+HR -- Jones A
+SH -- Maddux G 2, Furcal R
+WP -- Rocker J
+PB -- Johnson C, Bako P 2
+T -- 2:30
+A -- 24015
+     Game of 4/17/2001 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Castillo L, 2b        3  0  1  0   Furcal R, ss          3  0  0  0   
+Owens E, rf           4  1  2  0   Surhoff B, lf         2  1  0  0   
+Floyd C, lf           4  1  1  0   Brogna R, 1b          3  0  0  0   
+Wilson P, cf          4  0  1  1   Jones C, 3b           3  1  1  2   
+Lowell M, 3b          3  0  0  1   Valdes M, p           0  0  0  0   
+Johnson C, c          4  1  2  1   Jordan B, rf          4  0  1  0   
+Lee D, 1b             4  0  0  0   Jones A, cf           4  0  1  0   
+Alfonseca A, p        0  0  0  0   Lopez J, c            3  0  0  0   
+Gonzalez A, ss        4  0  0  0   Giles M, 2b           2  0  0  0   
+Nunez V, p            3  0  0  0   Lockhart K, ph-2b     2  0  1  0   
+Almanza A, p          0  0  0  0   Burkett J, p          2  0  1  0   
+Looper B, p           0  0  0  0   Martinez D, ph        1  0  0  0   
+McGuire R, 1b         0  0  0  0   Marquis J, p          0  0  0  0   
+                                   Helms W, 3b           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        30  2  5  2
+
+Florida          200 000 100 --  3
+Atlanta          200 000 000 --  2
+
+  Florida              IP  H  R ER BB SO
+Nunez V (W)*          7.0  4  2  2  4  5
+Almanza A             0.1  0  0  0  2  0
+Looper B              0.2  0  0  0  0  0
+Alfonseca A (S)       1.0  1  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (L)         7.0  6  3  2  0 11
+Marquis J             1.0  0  0  0  1  2
+Valdes M              1.0  1  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Marquis J
+DP -- Florida 1
+LOB -- Florida 5, Atlanta 7
+2B -- Jones A
+HR -- Jones C, Johnson C
+SB -- Castillo L, Floyd C
+CS -- Furcal R
+SF -- Lowell M
+WP -- Almanza A, Alfonseca A
+Balk -- Nunez V
+PB -- Lopez J
+T -- 2:50
+A -- 27522
+     Game of 4/18/2001 -- Florida at Atlanta (D)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Owens E, rf           3  0  0  0   Furcal R, ss          3  0  0  0   
+Berg D, 2b            4  0  0  0   Surhoff B, lf         3  1  0  0   
+Floyd C, lf           3  0  0  0   Brogna R, 1b          4  0  2  0   
+Wilson P, cf          3  0  0  0   Jones C, 3b           4  0  0  0   
+Lowell M, 3b          4  0  1  0   Helms W, pr-3b        0  0  0  0   
+Lee D, 1b             3  0  1  0   Jordan B, rf          3  0  1  1   
+Redmond M, c          2  0  1  0   Jones A, cf           3  0  1  0   
+Gonzalez A, ss        3  0  0  0   Lopez J, c            4  0  0  0   
+Dempster R, p         2  0  0  0   Lockhart K, 2b        3  0  1  0   
+Millar K, ph          1  0  0  0   Glavine T, p          1  0  0  0   
+Darensbourg V, p      0  0  0  0   Remlinger M, p        0  0  0  0   
+Bones R, p            0  0  0  0   Rocker J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  0  3  0                        28  1  5  1
+
+Florida          000 000 000 --  0
+Atlanta          100 000 00x --  1
+
+  Florida              IP  H  R ER BB SO
+Dempster R (L)        7.0  4  1  1  3  6
+Darensbourg V         0.1  0  0  0  0  0
+Bones R               0.2  1  0  0  1  1
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (W)         7.0  3  0  0  4  6
+Remlinger M           1.0  0  0  0  0  2
+Rocker J (S)          1.0  0  0  0  0  1
+
+E -- Furcal R, Berg D
+DP -- Atlanta 1
+LOB -- Florida 5, Atlanta 10
+2B -- Jordan B
+SB -- Floyd C
+CS -- Owens E
+SH -- Glavine T 2
+HBP -- by Dempster R (Jordan B)
+T -- 2:33
+A -- 30233
+     Game of 5/1/2001 -- Milwaukee at Atlanta (N)
+
+  Milwaukee          AB  R  H RBI    Atlanta            AB  R  H RBI
+Belliard R, 2b        4  0  0  0   Furcal R, ss          4  0  1  0   
+Houston T, 3b         4  1  2  1   Jones A, cf           4  0  0  0   
+Jenkins G, lf         2  0  2  0   Jones C, 3b           4  1  1  1   
+White D, lf           1  0  0  0   Surhoff B, lf         4  1  1  0   
+Sexson R, 1b          3  0  0  1   Jordan B, rf          4  0  1  0   
+Burnitz J, rf         3  1  1  1   Lopez J, c            4  1  2  2   
+Hammonds J, cf        4  0  0  0   Brogna R, 1b          4  0  0  0   
+Hernandez J, ss       4  1  1  0   Lockhart K, 2b        3  0  1  0   
+Casanova R, c         4  1  2  2   Millwood K, p         1  0  0  0   
+Haynes J, p           3  1  1  0   Giles M, ph           1  0  0  0   
+Fox C, p              0  0  0  0   Moss D, p             0  0  0  0   
+Weathers D, p         0  0  0  0   Martinez D, ph        1  0  0  0   
+Fernandez T, ph       0  0  0  0   Remlinger M, p        0  0  0  0   
+Leskanic C, p         0  0  0  0   Cabrera J, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  9  5                        34  3  7  3
+
+Milwaukee        001 210 010 --  5
+Atlanta          000 000 300 --  3
+
+  Milwaukee            IP  H  R ER BB SO
+Haynes J (W)          6.1  5  3  3  0  3
+Fox C                 0.2  1  0  0  0  1
+Weathers D            1.0  0  0  0  0  0
+Leskanic C (S)        1.0  1  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Millwood K (L)        6.0  7  4  4  3  4
+Moss D                1.0  0  0  0  0  2
+Remlinger M           1.0  1  1  1  0  1
+Cabrera J             1.0  1  0  0  1  1
+
+DP -- Atlanta 2
+LOB -- Milwaukee 5, Atlanta 4
+2B -- Houston T, Lockhart K
+3B -- Lopez J
+HR -- Casanova R, Houston T, Jones C, Lopez J, Burnitz J
+SF -- Sexson R
+WP -- Millwood K
+T -- 2:28
+A -- 24922
+     Game of 5/2/2001 -- Milwaukee at Atlanta (N)
+
+  Milwaukee          AB  R  H RBI    Atlanta            AB  R  H RBI
+Belliard R, 2b        3  0  0  0   Furcal R, ss          3  0  0  0   
+Houston T, 3b         4  0  0  0   Jones A, cf           4  0  1  0   
+White D, lf           3  0  1  0   Jones C, 3b           3  0  0  0   
+Sexson R, 1b          3  0  0  0   Surhoff B, lf         3  1  1  1   
+Burnitz J, rf         3  0  0  0   Jordan B, rf          3  0  1  0   
+Hammonds J, cf        3  0  0  0   Brogna R, 1b          3  0  0  0   
+Hernandez J, ss       3  0  1  0   Lockhart K, 2b        3  0  1  0   
+Blanco H, c           3  0  0  0   Bako P, c             2  0  0  0   
+Rigdon P, p           2  0  0  0   Maddux G, p           2  0  1  0   
+King R, p             0  0  0  0                                      
+Fernandez T, ph       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  0  2  0                        26  1  5  1
+
+Milwaukee        000 000 000 --  0
+Atlanta          010 000 00x --  1
+
+  Milwaukee            IP  H  R ER BB SO
+Rigdon P (L)          7.2  5  1  1  3  6
+King R                0.1  0  0  0  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)          9.0  2  0  0  1 14
+
+DP -- Milwaukee 1
+LOB -- Milwaukee 2, Atlanta 6
+2B -- White D
+HR -- Surhoff B
+CS -- Belliard R, Jones A
+SH -- Maddux G
+T -- 2:07
+A -- 24802
+     Game of 5/3/2001 -- Milwaukee at Atlanta (N)
+
+  Milwaukee          AB  R  H RBI    Atlanta            AB  R  H RBI
+Belliard R, 2b        5  1  2  0   Furcal R, ss          5  0  0  0   
+Houston T, 3b         5  1  1  2   Jones A, cf           5  0  1  0   
+White D, lf           4  0  0  0   Jones C, 3b           3  0  0  0   
+Sexson R, 1b          4  1  2  1   Surhoff B, lf         4  0  1  0   
+Burnitz J, rf         3  1  2  0   Jordan B, rf          3  0  3  0   
+Hammonds J, cf        4  0  3  2   Brogna R, 1b          3  0  1  0   
+Hernandez J, ss       3  0  0  0   Giles M, 2b           4  0  2  0   
+Blanco H, c           4  0  0  0   Bako P, c             3  0  0  0   
+Sheets B, p           1  1  0  0   Burkett J, p          2  0  0  0   
+Fernandez T, ph       1  0  0  0   Lockhart K, ph        1  0  0  0   
+Fox C, p              0  0  0  0   Ligtenberg K, p       0  0  0  0   
+Weathers D, p         0  0  0  0   Whiteside M, p        0  0  0  0   
+Echevarria A, ph      1  0  0  0   Martinez D, ph        1  0  1  0   
+DeJean M, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5 10  5                        34  0  9  0
+
+Milwaukee        004 000 010 --  5
+Atlanta          000 000 000 --  0
+
+  Milwaukee            IP  H  R ER BB SO
+Sheets B (W)          6.0  6  0  0  4  2
+Fox C                 1.2  2  0  0  0  3
+Weathers D            0.1  0  0  0  0  0
+DeJean M              1.0  1  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (L)         7.0  7  4  4  3  6
+Ligtenberg K          1.0  2  1  1  0  1
+Whiteside M           1.0  1  0  0  0  0
+
+DP -- Milwaukee 2
+LOB -- Milwaukee 6, Atlanta 11
+2B -- Houston T, Hammonds J, Belliard R
+HR -- Sexson R
+SB -- Hammonds J
+CS -- Burnitz J
+WP -- Burkett J
+T -- 2:43
+A -- 26411
+     Game of 5/4/2001 -- St. Louis at Atlanta (N)
+
+  St. Louis          AB  R  H RBI    Atlanta            AB  R  H RBI
+Vina F, 2b            5  1  1  0   Furcal R, ss          4  1  1  1   
+Polanco P, 3b         5  1  3  0   Jones A, cf           4  0  1  1   
+Edmonds J, cf         3  2  1  0   Jones C, 3b           4  0  0  0   
+Pujols A, 1b          2  0  0  1   Surhoff B, lf         4  0  1  0   
+Drew J, rf            3  0  1  1   Jordan B, rf          3  0  1  0   
+Renteria E, ss        4  0  2  2   Rocker J, p           0  0  0  0   
+Lankford R, lf        4  0  0  0   Brogna R, 1b          4  0  0  0   
+Stechschulte G, p     0  0  0  0   Lopez J, c            4  0  1  0   
+Robinson K, lf        0  0  0  0   Giles M, pr           0  0  0  0   
+Marrero E, c          4  0  0  0   Lockhart K, 2b        4  1  1  0   
+Hermanson D, p        2  0  0  0   Glavine T, p          1  0  0  0   
+Paquette C, ph-lf     2  0  0  0   Remlinger M, p        0  0  0  0   
+Veres D, p            0  0  0  0   Martinez D, ph        1  0  1  0   
+                                   Cabrera J, p          0  0  0  0   
+                                   Gilkey B, rf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  8  4                        34  2  7  2
+
+St. Louis        000 001 300 --  4
+Atlanta          100 000 100 --  2
+
+  St. Louis            IP  H  R ER BB SO
+Hermanson D (W)       6.0  4  1  1  2  3
+Stechschulte G        1.0  2  1  1  0  0
+Veres D (S)           2.0  1  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (L)         6.2  8  4  4  5  4
+Remlinger M           0.1  0  0  0  0  0
+Cabrera J             1.0  0  0  0  0  0
+Rocker J              1.0  0  0  0  2  0
+
+E -- Rocker J
+LOB -- St. Louis 11, Atlanta 7
+2B -- Jordan B, Drew J, Surhoff B
+SB -- Furcal R
+SF -- Pujols A
+WP -- Glavine T, Stechschulte G
+T -- 3:04
+A -- 40981
+     Game of 5/5/2001 -- St. Louis at Atlanta (N)
+
+  St. Louis          AB  R  H RBI    Atlanta            AB  R  H RBI
+Vina F, 2b            5  0  1  0   Furcal R, ss          5  2  3  1   
+Polanco P, 3b         5  1  0  0   Jones A, cf           5  0  1  1   
+Bonilla B, 1b         4  1  2  0   Jones C, 3b           2  1  1  1   
+Robinson K, pr        0  0  0  0   Jordan B, rf          5  0  3  0   
+Pujols A, lf          5  1  2  1   Lopez J, c            4  0  1  0   
+Paquette C, rf        3  1  1  1   Helms W, 1b           3  2  1  0   
+Edmonds J, ph-cf      1  0  0  0   Brogna R, 1b          1  0  0  0   
+Renteria E, ss        4  1  1  0   Gilkey B, lf          3  1  2  2   
+Drew J, cf-rf         2  0  1  2   Veras Q, 2b           4  0  0  0   
+Matheny M, c          2  0  1  0   Perez O, p            2  0  0  0   
+Ankiel R, p           2  0  0  0   Lockhart K, ph        1  0  0  0   
+Karnuth J, p          0  0  0  0   Remlinger M, p        0  0  0  0   
+Sutton L, ph          1  0  0  0   Surhoff B, ph         1  0  1  1   
+Timlin M, p           0  0  0  0   Cabrera J, p          0  0  0  0   
+Kline S, p            0  0  0  0   Rocker J, p           0  0  0  0   
+Lankford R, ph        0  0  0  0                                      
+Marrero E, ph         1  0  0  0                                      
+James M, p            0  0  0  0                                      
+Matthews M, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  4                        36  6 13  6
+
+St. Louis        400 001 000 --  5
+Atlanta          100 301 10x --  6
+
+  St. Louis            IP  H  R ER BB SO
+Ankiel R              3.2  5  4  4  3  6
+Karnuth J             1.1  2  0  0  2  0
+Timlin M (L)          1.2  3  2  2  0  3
+Kline S               0.1  2  0  0  0  0
+James M               0.2  1  0  0  0  0
+Matthews M            0.1  0  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Perez O               5.0  6  4  4  2  5
+Remlinger M (W)       2.0  1  1  1  1  3
+Cabrera J             0.2  1  0  0  1  0
+Rocker J (S)          1.1  1  0  0  0  2
+
+E -- Drew J
+LOB -- St. Louis 8, Atlanta 12
+2B -- Drew J, Jones A, Jordan B 2, Helms W
+HR -- Furcal R, Gilkey B, Jones C
+SH -- Matheny M
+HBP -- by James M (Lopez J)
+WP -- Ankiel R, Remlinger M
+T -- 3:37
+A -- 48543
+     Game of 5/6/2001 -- St. Louis at Atlanta (D)
+
+  St. Louis          AB  R  H RBI    Atlanta            AB  R  H RBI
+Vina F, 2b            4  0  2  0   Furcal R, ss          5  0  2  0   
+Paquette C, 1b        3  0  0  0   Jones A, cf           4  2  0  0   
+Bonilla B, ph-1b      1  1  1  0   Jones C, 3b           5  2  4  3   
+Edmonds J, cf         2  1  0  0   Jordan B, rf          5  1  1  1   
+Pujols A, 3b          3  1  1  3   Surhoff B, lf         3  0  1  0   
+Drew J, rf            3  0  0  0   Marquis J, p          0  0  0  0   
+Stechschulte G, p     0  0  0  0   Cabrera J, p          0  0  0  0   
+Matthews M, p         0  0  0  0   Lockhart K, ph-2b     2  1  1  0   
+Polanco P, ph         1  0  1  1   Lopez J, c            4  1  2  0   
+Renteria E, ss        5  1  1  1   Helms W, 1b           4  0  3  2   
+Lankford R, lf        5  0  1  0   Veras Q, 2b           3  0  1  1   
+Matheny M, c          3  0  0  0   Whiteside M, p        0  0  0  0   
+Kile D, p             2  0  0  0   Rocker J, p           0  0  0  0   
+Robinson K, ph-rf     1  1  0  0   Millwood K, p         0  0  0  0   
+                                   Martinez D, ph        1  0  0  0   
+                                   Moss D, p             1  0  0  0   
+                                   Gilkey B, lf          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  7  5                        39  7 15  7
+
+St. Louis        210 000 101 --  5
+Atlanta          012 010 30x --  7
+
+  St. Louis            IP  H  R ER BB SO
+Kile D                6.0 10  4  4  2  7
+Stechschulte G (L)    1.0  3  3  0  0  1
+Matthews M            1.0  2  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Millwood K            2.0  2  3  3  2  1
+Moss D*               3.0  1  0  0  3  3
+Marquis J+            1.0  1  1  1  2  1
+Cabrera J (W)         1.0  0  0  0  0  0
+Whiteside M           1.0  1  0  0  1  0
+Rocker J (S)          1.0  2  1  1  1  1
+  * Pitched to 1 batter in 6th
+  + Pitched to 3 batters in 7th
+
+E -- Furcal R, Helms W, Renteria E 2
+DP -- St. Louis 1, Atlanta 2
+LOB -- St. Louis 11, Atlanta 10
+2B -- Furcal R, Veras Q, Helms W 2, Polanco P
+HR -- Pujols A, Renteria E, Jones C 2
+SF -- Pujols A
+WP -- Moss D
+T -- 3:40
+A -- 44144
+     Game of 5/15/2001 -- Colorado at Atlanta (N)
+
+  Colorado           AB  R  H RBI    Atlanta            AB  R  H RBI
+Pierre J, cf          4  0  0  0   Furcal R, ss          4  0  2  0   
+Norton G, ph          1  1  1  0   Jones A, cf           4  1  1  0   
+Perez N, ss           5  0  0  0   Jones C, 3b           4  0  1  0   
+Walker L, rf          4  2  3  2   Jordan B, rf          4  0  1  1   
+Helton T, 1b          5  0  3  1   Lopez J, c            4  0  3  0   
+Cirillo J, 3b         3  0  0  0   Lockhart K, pr-2b     0  1  0  0   
+Walker T, 2b          3  0  0  0   Helms W, 1b           4  1  2  0   
+Shumpert T, ph-2b     1  0  0  0   Gilkey B, lf          3  1  1  0   
+Gant R, lf            3  0  1  0   Giles M, 2b           4  1  2  4   
+Mayne B, c            3  0  0  0   Rocker J, p           0  0  0  0   
+Hampton M, p          3  0  1  0   Burkett J, p          2  0  0  0   
+Myers M, p            0  0  0  0   Veras Q, ph           0  0  0  0   
+Little M, ph          1  0  0  0   Remlinger M, p        0  0  0  0   
+                                   Surhoff B, ph         1  0  0  0   
+                                   Bako P, c             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3  9  3                        34  5 13  5
+
+Colorado         000 001 011 --  3
+Atlanta          001 000 04x --  5
+
+  Colorado             IP  H  R ER BB SO
+Hampton M (L)         7.1 13  5  5  2  2
+Myers M               0.2  0  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J             7.0  6  1  1  1  7
+Remlinger M (W)       1.0  1  1  1  3  2
+Rocker J (S)          1.0  2  1  1  0  0
+
+E -- Jones C
+DP -- Colorado 1
+LOB -- Colorado 10, Atlanta 8
+2B -- Helton T 2, Jones A, Jordan B
+HR -- Walker L, Giles M
+CS -- Furcal R, Hampton M
+SH -- Furcal R
+WP -- Remlinger M
+T -- 2:54
+A -- 28921
+     Game of 5/16/2001 -- Colorado at Atlanta (D)
+
+  Colorado           AB  R  H RBI    Atlanta            AB  R  H RBI
+Little M, cf-lf       5  1  2  0   Veras Q, 2b           4  0  0  0   
+Perez N, ss           5  1  2  0   Jones A, cf           4  2  2  0   
+Walker L, rf          3  1  2  3   Jones C, 3b           4  2  2  3   
+Cirillo J, 3b         4  0  0  0   Jordan B, rf          4  0  1  0   
+Helton T, 1b          4  0  1  0   Surhoff B, lf         3  0  0  1   
+Gant R, lf            1  1  0  0   Lopez J, c            3  1  2  0   
+Davis K, p            0  0  0  0   Brogna R, 1b          2  1  2  0   
+Villone R, p          0  0  0  0   Helms W, ph-1b        2  0  0  0   
+Walker T, ph          1  0  0  0   Furcal R, ss          3  0  1  0   
+Wasdin J, p           0  0  0  0   Glavine T, p          1  0  0  0   
+Shumpert T, 2b        4  0  2  0   Martinez D, ph        1  0  1  2   
+Petrick B, c          3  0  1  1   Marquis J, p          0  0  0  0   
+Chacon S, p           2  0  0  0   Perez O, p            0  0  0  0   
+Pierre J, cf          1  0  1  0   Giles M, ph           1  0  0  0   
+Norton G, ph          1  0  0  0   Cabrera J, p          0  0  0  0   
+                                   Rocker J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4 11  4                        32  6 11  6
+
+Colorado         003 100 000 --  4
+Atlanta          000 022 02x --  6
+
+  Colorado             IP  H  R ER BB SO
+Chacon S*             5.0  6  3  3  1  5
+Davis K               0.2  2  1  1  0  0
+Villone R             1.1  0  0  0  0  2
+Wasdin J (L)          1.0  3  2  2  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T             5.0  7  4  4  1  2
+Marquis J             1.0  1  0  0  1  0
+Perez O               1.0  2  0  0  1  0
+Cabrera J (W)         1.0  0  0  0  0  1
+Rocker J (S)          1.0  1  0  0  0  2
+  * Pitched to 1 batter in 6th
+
+DP -- Colorado 2, Atlanta 2
+LOB -- Colorado 7, Atlanta 4
+2B -- Lopez J, Helton T, Martinez D, Jones A, Jones C, Jordan B
+HR -- Walker L, Jones C
+SF -- Petrick B
+WP -- Rocker J
+T -- 2:47
+A -- 32461
+     Game of 5/17/2001 -- Colorado at Atlanta (N)
+
+  Colorado           AB  R  H RBI    Atlanta            AB  R  H RBI
+Pierre J, cf          5  4  3  0   Veras Q, 2b           5  1  3  0   
+Perez N, ss           5  0  1  1   Jones A, cf           5  2  2  1   
+Helton T, 1b          4  3  3  3   Jones C, 3b           4  0  0  0   
+Cirillo J, 3b         5  1  2  2   Jordan B, rf          3  0  1  2   
+Walker T, 2b          5  0  3  2   Lopez J, c            4  0  0  0   
+Gant R, lf            4  0  0  0   Helms W, 1b           4  0  0  0   
+Mayne B, c            4  0  0  0   Gilkey B, lf          3  0  1  0   
+Little M, rf          3  0  0  0   Furcal R, ss          4  0  2  0   
+Neagle D, p           3  0  0  0   Smoltz J, p           1  0  0  0   
+White G, p            1  0  0  0   Ligtenberg K, p       0  0  0  0   
+Jimenez J, p          0  0  0  0   Brogna R, ph          1  0  1  0   
+                                   Seelbach C, p         0  0  0  0   
+                                   Surhoff B, ph         1  0  0  0   
+                                   Whiteside M, p        0  0  0  0   
+                                   Martinez D, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  8 12  8                        36  3 10  3
+
+Colorado         320 002 010 --  8
+Atlanta          002 010 000 --  3
+
+  Colorado             IP  H  R ER BB SO
+Neagle D (W)          6.0  8  3  3  0  4
+White G               2.0  1  0  0  1  1
+Jimenez J             1.0  1  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Smoltz J (L)          3.0  6  5  5  2  2
+Ligtenberg K          1.0  0  0  0  0  0
+Seelbach C            2.0  4  2  2  1  2
+Whiteside M           3.0  2  1  0  0  2
+
+E -- Whiteside M 2
+DP -- Colorado 1
+LOB -- Colorado 8, Atlanta 8
+2B -- Veras Q, Jordan B, Furcal R, Cirillo J
+HR -- Cirillo J, Jones A, Helton T
+SB -- Brogna R, Furcal R
+CS -- Walker T
+HBP -- by Smoltz J (Little M), by Neagle D (Gilkey B)
+WP -- Seelbach C
+T -- 3:15
+A -- 31221
+     Game of 5/18/2001 -- San Francisco at Atlanta (N)
+
+  San Francisco      AB  R  H RBI    Atlanta            AB  R  H RBI
+Benard M, cf          4  2  2  1   Veras Q, 2b           2  0  1  1   
+Aurilia R, ss         4  1  2  0   Jones A, cf           4  1  1  1   
+Bonds B, lf           3  1  1  1   Jones C, 3b           2  1  0  0   
+Kent J, 2b-1b         3  0  1  1   Jordan B, rf          4  0  0  0   
+Rios A, rf            3  0  0  1   Surhoff B, lf         4  0  1  0   
+Santiago B, c         4  0  0  0   Furcal R, ss          3  2  1  1   
+Snow J, 1b            1  1  1  1   Brogna R, 1b          4  0  0  0   
+Guzman E, 1b          1  0  0  0   Bako P, c             3  0  1  1   
+Fultz A, p            0  0  0  0   Lockhart K, ph        0  1  0  0   
+Rodriguez F, p        0  0  0  0   Maddux G, p           2  0  0  0   
+Davis E, ph           1  0  0  0   Gilkey B, ph          1  0  1  0   
+Nen R, p              0  0  0  0   Remlinger M, p        0  0  0  0   
+Davis R, 3b           4  0  0  0   Cabrera J, p          0  0  0  0   
+Gardner M, p          2  0  0  0   Martinez D, ph        1  1  1  0   
+Martinez R, 2b        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  5  7  5                        30  6  7  4
+
+San Francisco    120 010 010 --  5
+Atlanta          111 100 002 --  6
+  2 outs when winning run was scored.
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M             5.0  4  4  3  4  5
+Fultz A               2.0  1  0  0  0  3
+Rodriguez F           1.0  1  0  0  0  0
+Nen R (L)             0.2  1  2  2  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G              7.0  6  4  4  1  4
+Remlinger M           1.0  1  1  1  0  1
+Cabrera J (W)         1.0  0  0  0  0  1
+
+E -- Davis R
+DP -- San Francisco 1
+LOB -- San Francisco 3, Atlanta 5
+2B -- Aurilia R, Bako P
+HR -- Snow J, Benard M, Jones A, Furcal R, Bonds B
+SB -- Furcal R, Benard M, Veras Q, Martinez D
+CS -- Aurilia R
+SH -- Veras Q
+SF -- Rios A, Kent J, Veras Q
+HBP -- by Maddux G (Snow J)
+WP -- Nen R
+T -- 3:04
+A -- 34429
+     Game of 5/19/2001 -- San Francisco at Atlanta (N)
+
+  San Francisco      AB  R  H RBI    Atlanta            AB  R  H RBI
+Dunston S, cf         5  0  2  0   Veras Q, 2b           3  1  1  0   
+Aurilia R, ss         5  0  1  0   Furcal R, ss          4  0  0  0   
+Bonds B, lf           5  3  4  3   Jones A, cf           4  0  0  0   
+Kent J, 1b            5  1  2  0   Jones C, 3b           3  0  0  0   
+Santiago B, c         5  1  3  0   Martinez D, rf-lf     4  1  2  1   
+Davis E, rf           4  1  2  1   Lopez J, c            4  1  2  1   
+Davis R, 3b           3  0  0  0   Gilkey B, lf          3  0  1  1   
+Martinez R, 2b        4  0  2  1   Cabrera J, p          0  0  0  0   
+Jensen R, p           3  0  1  1   Remlinger M, p        0  0  0  0   
+Worrell T, p          1  0  0  0   Marquis J, p          0  0  0  0   
+Rodriguez F, p        0  0  0  0   Lockhart K, ph        1  0  0  0   
+Rios A, ph            1  0  0  0   Helms W, 1b           4  0  0  0   
+Nen R, p              0  0  0  0   Perez O, p            2  0  0  0   
+                                   Jordan B, rf          1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     41  6 17  6                        33  3  7  3
+
+San Francisco    011 000 211 --  6
+Atlanta          011 001 000 --  3
+
+  San Francisco        IP  H  R ER BB SO
+Jensen R              5.2  5  2  2  2  2
+Worrell T (W)         1.1  2  1  1  0  3
+Rodriguez F           1.0  0  0  0  0  2
+Nen R (S)             1.0  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Perez O               6.0 11  2  2  1  4
+Cabrera J (L)*        0.0  4  2  2  0  0
+Remlinger M           1.0  0  0  0  0  2
+Marquis J             2.0  2  2  2  1  1
+  * Pitched to 4 batters in 7th
+
+DP -- San Francisco 1
+LOB -- San Francisco 12, Atlanta 5
+2B -- Bonds B, Dunston S, Kent J, Jordan B
+HR -- Bonds B 3, Lopez J
+CS -- Kent J
+SH -- Davis R
+SF -- Martinez R
+T -- 3:11
+A -- 42789
+     Game of 5/20/2001 -- San Francisco at Atlanta (D)
+
+  San Francisco      AB  R  H RBI    Atlanta            AB  R  H RBI
+Benard M, cf          4  2  1  0   Veras Q, 2b           5  0  2  0   
+Aurilia R, ss         4  0  1  0   Furcal R, ss          5  1  1  0   
+Martinez R, ss        1  1  1  2   Jones A, cf           5  3  3  1   
+Bonds B, lf           2  2  2  2   Jordan B, rf          5  2  2  1   
+Davis E, rf           1  0  1  0   Martinez D, lf        4  1  1  2   
+Kent J, 2b            2  0  1  1   Lopez J, c            3  2  1  2   
+Guzman E, 2b          1  0  0  0   Brogna R, 1b          4  0  1  0   
+Snow J, 1b            2  1  0  0   Helms W, 3b           4  2  2  4   
+Dunston S, ph-1b      2  0  0  0   Burkett J, p          1  0  0  0   
+Davis R, 3b           3  0  1  0   Lockhart K, ph        1  0  1  0   
+Embree A, p           0  0  0  0   Ligtenberg K, p       0  0  0  0   
+Santiago B, ph        1  0  0  0   Maddux G, ph          1  0  0  0   
+Rios A, rf-lf         4  0  1  0   Remlinger M, p        0  0  0  0   
+Estalella B, c        4  0  1  1   Gilkey B, ph          1  0  0  0   
+Hernandez L, p        3  0  1  0   Cabrera J, p          0  0  0  0   
+Feliz P, 3b           1  0  0  0   Seelbach C, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6 11  6                        39 11 14 10
+
+San Francisco    111 000 102 --  6
+Atlanta          000 205 40x -- 11
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (L)       6.0  9  7  6  2  3
+Embree A              2.0  5  4  4  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J             5.0  8  3  3  4  5
+Ligtenberg K (W)      1.0  0  0  0  0  1
+Remlinger M           1.0  1  1  1  1  3
+Cabrera J             1.0  0  0  0  0  1
+Seelbach C            1.0  2  2  2  1  1
+
+E -- Davis R, Guzman E
+DP -- San Francisco 1, Atlanta 1
+LOB -- San Francisco 9, Atlanta 6
+2B -- Jordan B
+HR -- Bonds B 2, Helms W 2, Jones A, Jordan B, Lopez J, Martinez R
+SF -- Kent J
+T -- 3:20
+A -- 33696
+     Game of 5/25/2001 -- Pittsburgh at Atlanta (N)
+
+  Pittsburgh         AB  R  H RBI    Atlanta            AB  R  H RBI
+Kendall J, lf         4  0  1  0   Veras Q, 2b           4  1  1  0   
+Vander Wal J, rf      4  0  1  0   Furcal R, ss          4  0  1  1   
+Ramirez A, 3b         3  0  1  0   Jones A, cf           4  0  0  0   
+Giles B, cf           4  0  1  0   Jordan B, rf          3  0  0  0   
+Mackowiak R, 2b       4  0  0  0   Martinez D, lf        3  0  1  0   
+Young K, 1b           4  0  0  0   Helms W, 3b           3  0  0  0   
+Osik K, c             3  0  1  0   Brogna R, 1b          3  0  1  0   
+Nunez A, ss           3  0  1  0   Bako P, c             2  0  1  0   
+Ritchie T, p          3  0  1  0   Jones C, ph           1  0  0  0   
+                                   Lopez J, c            0  0  0  0   
+                                   Maddux G, p           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  0  7  0                        29  1  5  1
+
+Pittsburgh       000 000 000 --  0
+Atlanta          000 000 01x --  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Ritchie T (L)         8.0  5  1  1  1  4
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)          9.0  7  0  0  2  6
+
+DP -- Atlanta 1
+LOB -- Pittsburgh 7, Atlanta 5
+2B -- Bako P, Brogna R, Furcal R
+SB -- Kendall J, Osik K, Veras Q
+CS -- Kendall J, Vander Wal J
+T -- 2:07
+A -- 28120
+     Game of 5/26/2001 -- Pittsburgh at Atlanta (N)
+
+  Pittsburgh         AB  R  H RBI    Atlanta            AB  R  H RBI
+Kendall J, c          2  0  1  0   Veras Q, 2b           5  2  1  0   
+Brown E, cf           5  0  3  2   Furcal R, ss          5  0  1  0   
+Giles B, lf           5  0  0  0   Jones A, cf           5  1  3  3   
+Ramirez A, 3b         4  1  2  1   Jones C, 3b           4  0  0  0   
+Vander Wal J, rf      4  0  0  0   Remlinger M, p        0  0  0  0   
+Young K, 1b           3  0  0  0   Martinez D, ph        1  0  0  0   
+Williams M, p         0  0  0  0   Cabrera J, p          0  0  0  0   
+Wilson E, ss          4  0  0  0   Jordan B, rf          4  2  2  0   
+Meares P, 2b          4  2  2  0   Surhoff B, lf         4  2  3  3   
+Wengert D, p          0  0  0  0   Lopez J, c            4  2  2  1   
+Mulholland T, p       0  0  0  0   Brogna R, 1b          3  0  2  2   
+Nunez A, ph           1  0  0  0   Burkett J, p          3  0  0  0   
+Beimel J, p           0  0  0  0   Helms W, 3b           0  0  0  0   
+Mackowiak R, ph       1  0  0  0                                      
+Manzanillo J, p       0  0  0  0                                      
+Wehner J, 1b          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        38  9 14  9
+
+Pittsburgh       010 010 100 --  3
+Atlanta          024 110 01x --  9
+
+  Pittsburgh           IP  H  R ER BB SO
+Wengert D (L)         2.2  8  6  6  0  0
+Mulholland T          1.1  3  1  1  0  1
+Beimel J              2.0  2  1  1  1  3
+Manzanillo J          1.0  0  0  0  0  1
+Williams M            1.0  1  1  0  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (W)         6.2  5  3  2  3  8
+Remlinger M           1.1  1  0  0  0  1
+Cabrera J             1.0  2  0  0  1  0
+
+E -- Ramirez A 2, Furcal R, Williams M
+DP -- Pittsburgh 1, Atlanta 1
+LOB -- Pittsburgh 9, Atlanta 7
+2B -- Lopez J 2, Brogna R 2, Veras Q, Brown E, Surhoff B
+3B -- Surhoff B
+HR -- Ramirez A, Jones A, Surhoff B
+SB -- Furcal R
+CS -- Young K
+HBP -- by Burkett J (Kendall J)
+T -- 2:42
+A -- 40788
+     Game of 5/27/2001 -- Pittsburgh at Atlanta (D)
+
+  Pittsburgh         AB  R  H RBI    Atlanta            AB  R  H RBI
+Brown E, rf           2  0  0  0   Veras Q, 2b           4  0  2  0   
+Ramirez A, 3b         2  0  2  1   Furcal R, ss          5  0  3  1   
+Wilson E, ss-2b       5  0  1  1   Jones A, cf           5  1  1  0   
+Kendall J, lf         5  2  3  1   Jones C, 3b           5  1  1  0   
+Giles B, cf           3  0  2  0   Jordan B, rf          3  0  0  1   
+Young K, 1b           2  0  0  0   Surhoff B, lf         3  0  2  0   
+Vander Wal J, ph-rf   2  0  0  0   Lopez J, c            4  0  0  0   
+Meares P, 2b          2  0  0  1   Brogna R, 1b          3  0  1  1   
+Manzanillo J, p       0  0  0  0   Glavine T, p          1  0  0  0   
+Mackowiak R, ph       0  1  0  0   Cabrera J, p          0  0  0  0   
+Sauerbeck S, p        0  0  0  0   Martinez D, ph        1  1  1  0   
+Silva J, p            0  0  0  0   Ligtenberg K, p       0  0  0  0   
+Olivares O, ph        1  0  0  0   Marquis J, p          0  0  0  0   
+Williams M, p         0  0  0  0   Gilkey B, ph          1  0  0  0   
+Wehner J, 3b-rf-1b    4  0  0  0   Whiteside M, p        0  0  0  0   
+Osik K, c             4  2  2  2                                      
+Arroyo B, p           2  0  0  0                                      
+Nunez A, ss           2  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  6 12  6                        35  3 11  3
+
+Pittsburgh       000 101 220 --  6
+Atlanta          000 001 110 --  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Arroyo B (W)          5.2  6  1  1  1  1
+Manzanillo J          1.1  2  1  1  0  0
+Sauerbeck S           0.1  1  1  1  1  1
+Silva J               0.2  1  0  0  0  2
+Williams M (S)        1.0  1  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (L)         6.1  8  4  4  2  7
+Cabrera J             0.2  1  0  0  1  1
+Ligtenberg K          0.1  2  2  2  1  1
+Marquis J             0.2  1  0  0  0  0
+Whiteside M           1.0  0  0  0  1  0
+
+E -- Meares P
+DP -- Pittsburgh 1, Atlanta 1
+LOB -- Pittsburgh 9, Atlanta 10
+2B -- Giles B 2, Veras Q, Jones A, Wilson E, Martinez D, Osik K
+HR -- Kendall J, Osik K
+SB -- Furcal R, Young K
+CS -- Kendall J
+SH -- Glavine T
+SF -- Meares P, Jordan B
+HBP -- by Arroyo B (Brogna R)
+WP -- Sauerbeck S
+T -- 3:24
+A -- 35728
+     Game of 5/28/2001 -- Montreal at Atlanta (N)
+
+  Montreal           AB  R  H RBI    Atlanta            AB  R  H RBI
+Cabrera O, ss         4  1  2  0   Veras Q, 2b           3  1  1  2   
+Pride C, lf           3  0  1  0   Rocker J, p           0  0  0  0   
+Smith M, ph-lf        1  0  0  0   Furcal R, ss          4  1  2  1   
+Tatis F, 3b           4  0  0  0   Jones A, cf           4  1  1  1   
+Guerrero V, rf        3  0  0  0   Jones C, 3b           2  0  0  0   
+Stevens L, 1b         4  2  3  2   Jordan B, rf          3  0  1  1   
+Bradley M, cf         3  0  0  0   Surhoff B, lf         3  0  0  0   
+Blum G, 2b            3  0  2  0   Remlinger M, p        0  0  0  0   
+Scanlan B, p          0  0  0  0   Lockhart K, 2b        0  0  0  0   
+Peters C, p           0  0  0  0   Lopez J, c            3  0  1  0   
+Cubillan D, p         0  0  0  0   Helms W, 1b           3  2  1  0   
+Minor R, ph           1  0  0  0   Brogna R, 1b          0  0  0  0   
+Mota G, p             0  0  0  0   Smoltz J, p           1  0  0  0   
+Barrett M, c          3  0  2  1   Martinez D, lf        1  0  1  0   
+Yoshii M, p           2  0  0  0                                      
+Tracy A, ph           0  0  0  0                                      
+Mordecai M, ph-2b     1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3 10  3                        27  5  8  5
+
+Montreal         010 000 11 --  3
+Atlanta          003 000 11 --  5
+  1 out when game ended.
+
+  Montreal             IP  H  R ER BB SO
+Yoshii M (L)          6.0  5  3  3  1  5
+Scanlan B             0.1  1  1  1  0  0
+Peters C*             0.0  1  0  0  0  0
+Cubillan D            0.2  0  0  0  0  0
+Mota G                0.1  1  1  1  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Smoltz J (W)          6.2  8  2  2  0  5
+Remlinger M           1.0  2  1  1  2  2
+Rocker J (S)          0.1  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+DP -- Atlanta 1
+LOB -- Montreal 7, Atlanta 3
+2B -- Furcal R
+HR -- Stevens L, Furcal R
+SB -- Cabrera O
+SH -- Smoltz J
+SF -- Veras Q
+T -- 2:38
+A -- 24904
+     Game of 5/29/2001 -- Montreal at Atlanta (N)
+
+  Montreal           AB  R  H RBI    Atlanta            AB  R  H RBI
+Cabrera O, ss         4  0  1  1   Veras Q, 2b           3  3  2  0   
+Mordecai M, 2b        4  0  2  1   Furcal R, ss          3  0  1  0   
+Bradley M, cf         4  0  0  0   Jones A, cf           3  1  0  0   
+Guerrero V, rf        4  1  0  0   Jones C, 3b           3  2  2  5   
+Stevens L, 1b         4  1  1  2   Jordan B, rf          2  1  0  1   
+Tatis F, 3b           4  0  1  0   Lopez J, c            3  0  1  0   
+Smith M, lf           3  1  0  0   Gilkey B, lf          2  0  1  1   
+Barrett M, c          4  1  1  0   Surhoff B, ph-lf      1  0  0  0   
+Blank M, p            2  0  1  0   Helms W, 1b           3  0  1  0   
+Cubillan D, p         0  0  0  0   Brogna R, 1b          0  0  0  0   
+Tracy A, ph           1  0  0  0   Perez O, p            2  0  0  0   
+Strickland S, p       0  0  0  0   Lockhart K, ph        1  0  0  0   
+Scanlan B, p          0  0  0  0   Marquis J, p          0  0  0  0   
+                                   Martinez D, ph        1  0  0  0   
+                                   Rocker J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  7  4                        27  7  8  7
+
+Montreal         001 012 000 --  4
+Atlanta          012 030 10x --  7
+
+  Montreal             IP  H  R ER BB SO
+Blank M (L)           4.1  5  6  6  4  4
+Cubillan D            1.2  1  0  0  0  3
+Strickland S          1.0  1  1  1  2  1
+Scanlan B             1.0  1  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Perez O (W)           6.0  7  4  4  1  6
+Marquis J             2.0  0  0  0  0  1
+Rocker J (S)          1.0  0  0  0  0  1
+
+DP -- Montreal 2, Atlanta 1
+LOB -- Montreal 4, Atlanta 5
+2B -- Lopez J, Barrett M
+HR -- Jones C 2, Stevens L
+SB -- Veras Q 2
+SH -- Furcal R
+SF -- Gilkey B, Jordan B
+WP -- Perez O
+T -- 2:43
+A -- 26818
+     Game of 5/30/2001 -- Montreal at Atlanta (D)
+
+  Montreal           AB  R  H RBI    Atlanta            AB  R  H RBI
+Cabrera O, ss         5  0  1  1   Veras Q, 2b           4  0  1  0   
+Pride C, lf           5  0  3  1   Furcal R, ss          4  1  1  0   
+Bradley M, cf         4  0  1  0   Jones A, cf           4  2  2  2   
+Guerrero V, rf        3  0  0  0   Jones C, 3b           4  0  0  0   
+Stevens L, 1b         4  1  1  0   Jordan B, rf          4  0  2  0   
+Tatis F, 3b           4  1  1  0   Surhoff B, lf         4  0  1  1   
+Barrett M, c          4  1  1  0   Gilkey B, pr          0  0  0  0   
+Blum G, 2b            3  1  2  0   Brogna R, 1b          3  0  0  0   
+Vazquez J, p          1  0  0  0   Bako P, c             2  0  0  0   
+Minor R, ph           1  0  0  0   Lopez J, ph-c         2  0  0  0   
+Urbina U, p           0  0  0  0   Maddux G, p           2  0  0  0   
+                                   Martinez D, ph        1  0  0  0   
+                                   Remlinger M, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4 10  2                        34  3  7  3
+
+Montreal         020 200 000 --  4
+Atlanta          000 002 001 --  3
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (W)         8.0  5  2  2  0  9
+Urbina U (S)          1.0  2  1  1  1  2
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (L)          8.0 10  4  2  2  8
+Remlinger M           1.0  0  0  0  0  1
+
+E -- Jordan B, Furcal R
+LOB -- Montreal 7, Atlanta 5
+2B -- Bradley M, Pride C, Jones A
+HR -- Jones A
+SB -- Pride C, Blum G
+SH -- Vazquez J 2
+WP -- Maddux G
+T -- 2:34
+A -- 27936
+     Game of 6/15/2001 -- Boston at Atlanta (N)
+
+  Boston             AB  R  H RBI    Atlanta            AB  R  H RBI
+Offerman J, 2b        6  3  4  1   Veras Q, 2b           3  1  0  0   
+Nixon T, rf           5  1  2  2   Furcal R, ss          3  0  2  0   
+Everett C, cf         5  0  0  1   DeRosa M, ss          1  1  0  0   
+Ramirez M, lf         4  1  0  0   Jones A, cf           4  0  2  4   
+Daubach B, 1b         5  1  2  1   Jones C, 3b           4  0  1  0   
+Stynes C, 3b          5  2  4  1   Jordan B, rf          5  0  0  0   
+Lansing M, ss         4  1  0  0   Surhoff B, lf         4  0  0  0   
+Mirabelli D, c        1  0  0  0   Remlinger M, p        0  0  0  0   
+Bichette D, ph        1  0  1  1   Rocker J, p           0  0  0  0   
+Lewis D, pr           0  0  0  0   Lockhart K, ph        0  0  0  0   
+Hatteberg S, c        0  0  0  1   Cabrera J, p          0  0  0  0   
+Arrojo R, p           2  0  0  0   Brogna R, 1b          5  0  0  0   
+O'Leary T, ph         1  0  0  0   Bako P, c             1  1  0  0   
+Kim S, p              0  0  0  0   Martinez D, ph-lf     3  1  2  0   
+Pichardo H, p         0  0  0  0   Maddux G, p           1  0  1  0   
+Hillenbrand S, ph     1  0  0  0   Lopez J, ph-c         2  1  0  0   
+Schourek P, p         0  0  0  0                                      
+Beck R, p             1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  9 13  8                        36  5  8  4
+
+Boston           300 000 011 4 --  9
+Atlanta          002 000 300 0 --  5
+
+  Boston               IP  H  R ER BB SO
+Arrojo R              5.0  5  2  2  2  1
+Kim S*                1.0  1  2  2  1  0
+Pichardo H            1.0  1  1  0  0  0
+Schourek P            1.0  1  0  0  0  1
+Beck R (W)            2.0  0  0  0  3  2
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G              7.0  6  3  3  4  5
+Remlinger M           1.0  2  1  1  0  3
+Rocker J              1.0  1  1  1  0  1
+Cabrera J (L)         1.0  4  4  1  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Lansing M, Jones C
+LOB -- Boston 9, Atlanta 11
+2B -- Martinez D, Stynes C, Offerman J
+3B -- Stynes C, Offerman J
+SB -- Stynes C, Furcal R, Jones A
+CS -- Lansing M
+SH -- Maddux G, Veras Q 2
+SF -- Nixon T, Hatteberg S
+HBP -- by Maddux G (Mirabelli D), by Pichardo H (DeRosa M)
+PB -- Mirabelli D
+T -- 4:00
+A -- 48469
+     Game of 6/16/2001 -- Boston at Atlanta (N)
+
+  Boston             AB  R  H RBI    Atlanta            AB  R  H RBI
+Offerman J, 2b        4  0  1  0   Veras Q, 2b           4  0  0  0   
+Nixon T, rf           3  0  0  0   Marquis J, p          0  0  0  0   
+Everett C, cf         4  0  0  0   Surhoff B, lf         5  2  3  0   
+Ramirez M, lf         4  0  0  0   Jones A, cf           2  1  1  1   
+Daubach B, 1b         2  0  0  0   Jones C, 3b           5  2  2  1   
+Stynes C, 3b          3  0  0  0   Martinez D, rf        5  1  1  0   
+Pichardo H, p         0  0  0  0   Lopez J, c            4  1  1  2   
+Hatteberg S, c        3  0  0  0   Helms W, 1b           4  0  2  2   
+Lansing M, ss         3  0  1  0   DeRosa M, ss          3  0  0  0   
+Nomo H, p             2  0  0  0   Burkett J, p          2  0  0  0   
+Hillenbrand S, 3b     1  0  0  0   Lockhart K, ph-2b     1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     29  0  2  0                        35  8 11  6
+
+Boston           000 000 000 --  0
+Atlanta          000 220 22x --  8
+
+  Boston               IP  H  R ER BB SO
+Nomo H (L)            6.1  7  6  4  5  3
+Pichardo H            1.2  4  2  2  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (W)         8.0  2  0  0  1  8
+Marquis J             1.0  0  0  0  1  3
+
+E -- Stynes C 2
+DP -- Boston 1
+LOB -- Boston 4, Atlanta 9
+2B -- Surhoff B, Jones C
+3B -- Helms W
+SB -- Surhoff B 3, Jones C, Jones A
+SF -- Jones A
+WP -- Pichardo H
+T -- 2:58
+A -- 50524
+     Game of 6/17/2001 -- Boston at Atlanta (D)
+
+  Boston             AB  R  H RBI    Atlanta            AB  R  H RBI
+Offerman J, 1b        4  1  1  0   Veras Q, 2b           4  0  0  0   
+Stynes C, 2b          4  0  1  0   Surhoff B, lf         4  0  1  1   
+Everett C, cf         4  2  2  1   Jones A, cf           4  1  2  0   
+Ramirez M, lf         2  1  1  1   Jones C, 3b           4  0  1  0   
+Bichette D, rf        4  0  1  1   Martinez D, rf        3  1  1  0   
+Lewis D, rf           0  0  0  0   Lopez J, c            4  0  1  1   
+Hillenbrand S, 3b     3  0  0  1   Helms W, 1b           4  0  0  0   
+Lansing M, ss         3  0  0  0   DeRosa M, ss          3  0  3  0   
+Mirabelli D, c        4  0  1  0   Perez O, p            0  0  0  0   
+Castillo F, p         2  0  0  0   Brogna R, ph          1  0  0  0   
+Garces R, p           0  0  0  0   Ligtenberg K, p       0  0  0  0   
+Arrojo R, p           0  0  0  0   Lockhart K, ph        1  1  0  0   
+Lowe D, p             1  0  0  0   Cabrera J, p          0  0  0  0   
+                                   Gilkey B, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  7  4                        33  3  9  2
+
+Boston           200 020 000 --  4
+Atlanta          000 002 100 --  3
+
+  Boston               IP  H  R ER BB SO
+Castillo F (W)        5.2  4  2  2  1  2
+Garces R              0.1  1  0  0  0  0
+Arrojo R              0.2  2  1  1  0  0
+Lowe D (S)            2.1  2  0  0  0  3
+
+  Atlanta              IP  H  R ER BB SO
+Perez O (L)           5.0  6  4  4  3  6
+Ligtenberg K          2.0  1  0  0  1  3
+Cabrera J             2.0  0  0  0  3  1
+
+E -- Jones C, Everett C, Cabrera J
+DP -- Boston 3, Atlanta 1
+LOB -- Boston 10, Atlanta 6
+2B -- Ramirez M, Bichette D, Offerman J, Jones A
+SB -- DeRosa M, Jones A
+CS -- DeRosa M
+SH -- Castillo F, Stynes C
+SF -- Hillenbrand S
+HBP -- by Castillo F (Perez O), by Castillo F (DeRosa M)
+WP -- Garces R, Ligtenberg K
+T -- 3:23
+A -- 45362
+     Game of 6/18/2001 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Castillo L, 2b        4  0  2  2   Veras Q, 2b           5  1  3  0   
+Owens E, cf           5  1  2  0   Surhoff B, lf         4  1  0  0   
+Floyd C, lf           4  2  2  0   Jones A, cf           4  1  1  3   
+Lowell M, 3b          5  0  2  0   Jones C, 3b           4  2  2  1   
+Millar K, rf          4  1  1  1   Martinez D, rf        3  0  0  0   
+Lee D, 1b             3  2  1  1   Lopez J, c            4  1  2  1   
+Redmond M, c          3  1  1  0   Brogna R, 1b          3  0  0  0   
+Gonzalez A, ss        3  0  1  2   Helms W, ph-1b        1  0  0  0   
+Clement M, p          2  0  0  0   DeRosa M, ss          4  0  1  1   
+McGuire R, ph         1  0  0  0   Glavine T, p          2  0  0  0   
+Nunez V, p            0  0  0  0   Lockhart K, ph        1  0  0  0   
+Wilson P, ph          1  0  0  0   Remlinger M, p        0  0  0  0   
+Darensbourg V, p      0  0  0  0   Rocker J, p           0  0  0  0   
+Looper B, p           0  0  0  0   Gilkey B, ph          1  0  0  0   
+Alfonseca A, p        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  7 12  6                        36  6  9  6
+
+Florida          023 000 011 --  7
+Atlanta          500 010 000 --  6
+
+  Florida              IP  H  R ER BB SO
+Clement M             5.0  8  6  6  2  3
+Nunez V               2.0  0  0  0  0  0
+Darensbourg V         0.2  0  0  0  0  0
+Looper B (W)          0.1  0  0  0  0  1
+Alfonseca A (S)       1.0  1  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T             6.0  9  5  5  4  2
+Remlinger M           2.0  2  1  1  0  3
+Rocker J (L)          1.0  1  1  0  2  1
+
+E -- Castillo L, Gonzalez A, Lopez J
+DP -- Florida 1, Atlanta 1
+LOB -- Florida 8, Atlanta 5
+2B -- Jones C, DeRosa M, Millar K, Owens E
+HR -- Jones A, Jones C, Lee D
+CS -- Veras Q, Castillo L
+SF -- Millar K
+T -- 3:12
+A -- 28719
+     Game of 6/19/2001 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Castillo L, 2b        4  2  2  0   Veras Q, 2b           4  0  2  1   
+Owens E, cf           6  1  2  2   Surhoff B, lf         3  0  1  0   
+Floyd C, lf           3  3  2  4   Jones A, cf           4  0  1  0   
+McGuire R, ph-rf      2  0  1  0   Jones C, 3b           4  0  0  0   
+Lowell M, 3b          5  1  1  1   Bako P, c             0  0  0  0   
+Millar K, rf-lf       4  1  1  3   Martinez D, rf        3  1  1  0   
+Johnson C, c          4  1  1  0   Whiteside M, p        0  0  0  0   
+Lee D, 1b             5  1  3  1   Lockhart K, ph-3b     1  0  1  0   
+Gonzalez A, ss        5  1  2  1   Lopez J, c            2  0  0  1   
+Smith C, p            4  1  1  0   Ligtenberg K, p       0  0  0  0   
+Bones R, p            0  0  0  0   Helms W, 1b           4  0  0  0   
+Mabry J, ph           1  0  0  0   DeRosa M, ss          4  1  1  0   
+Miceli D, p           0  0  0  0   Marquis J, p          1  0  0  0   
+                                   Brogna R, ph          1  0  0  0   
+                                   Nelson J, p           0  0  0  0   
+                                   Gilkey B, rf          2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     43 12 16 12                        33  2  8  2
+
+Florida          302 105 001 -- 12
+Atlanta          010 000 100 --  2
+
+  Florida              IP  H  R ER BB SO
+Smith C (W)           7.0  7  2  2  2  4
+Bones R               1.0  1  0  0  0  0
+Miceli D              1.0  0  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Marquis J (L)         5.0  6  6  6  2  5
+Nelson J              1.0  4  5  5  1  0
+Whiteside M           2.0  3  0  0  0  2
+Ligtenberg K          1.0  3  1  1  1  2
+
+E -- DeRosa M, Lee D
+DP -- Florida 2
+LOB -- Florida 9, Atlanta 7
+2B -- Floyd C, Surhoff B, Gilkey B
+3B -- Martinez D
+HR -- Millar K, Gonzalez A, Floyd C
+SF -- Millar K, Lopez J
+WP -- Marquis J
+T -- 2:48
+A -- 31759
+     Game of 6/20/2001 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Castillo L, 2b        4  0  0  0   Veras Q, 2b           3  0  1  0   
+Mabry J, rf           4  1  2  1   Surhoff B, lf         3  1  0  1   
+Floyd C, lf           4  0  1  0   Jones A, cf           3  1  1  1   
+Lowell M, 3b          3  0  0  0   Jones C, 3b           4  1  2  1   
+Wilson P, cf          4  1  1  1   Martinez D, rf        4  0  1  0   
+Johnson C, c          3  0  0  0   Brogna R, 1b          4  1  3  2   
+Lee D, 1b             3  0  0  0   DeRosa M, ss          4  1  1  0   
+Gonzalez A, ss        3  0  0  0   Bako P, c             3  1  1  0   
+Burnett A, p          1  0  0  0   Maddux G, p           2  1  0  1   
+Owens E, ph           1  0  0  0   Remlinger M, p        0  0  0  0   
+Miceli D, p           0  0  0  0   Rocker J, p           0  0  0  0   
+Almanza A, p          0  0  0  0                                      
+McGuire R, ph         1  0  0  0                                      
+Darensbourg V, p      0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  2                        30  7 10  6
+
+Florida          000 011 000 --  2
+Atlanta          000 230 02x --  7
+
+  Florida              IP  H  R ER BB SO
+Burnett A (L)         5.0  6  5  3  1  1
+Miceli D              1.0  2  0  0  1  0
+Almanza A             1.0  0  0  0  0  1
+Darensbourg V         1.0  2  2  2  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)          7.0  3  2  2  1  7
+Remlinger M           1.0  1  0  0  0  2
+Rocker J              1.0  0  0  0  0  1
+
+E -- Gonzalez A 2
+DP -- Florida 1
+LOB -- Florida 4, Atlanta 4
+2B -- Jones A, Floyd C
+HR -- Wilson P, Mabry J, Brogna R
+SB -- Veras Q
+CS -- Martinez D
+SH -- Maddux G, Veras Q
+SF -- Surhoff B
+HBP -- by Maddux G (Lowell M)
+T -- 2:13
+A -- 28867
+     Game of 6/21/2001 -- Florida at Atlanta (D)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Castillo L, 2b        4  0  1  0   Veras Q, 2b           3  0  0  0   
+Owens E, rf           4  0  2  0   Surhoff B, lf         4  0  0  0   
+Floyd C, lf           4  0  1  0   Jones A, cf           4  0  0  0   
+Lowell M, 3b          4  0  1  0   Jones C, 3b           4  0  1  0   
+Wilson P, cf          4  1  1  0   Jordan B, rf          3  2  2  0   
+Millar K, 1b          2  0  1  0   Remlinger M, p        0  0  0  0   
+Alfonseca A, p        0  0  0  0   Rocker J, p           0  0  0  0   
+Johnson C, c          3  1  0  1   Lockhart K, ph        1  0  0  0   
+Berg D, ss            2  0  0  0   Brogna R, 1b          4  0  1  0   
+Mabry J, ph           1  0  0  0   DeRosa M, ss          2  0  0  1   
+Almanza A, p          0  0  0  0   Bako P, c             3  0  0  1   
+Looper B, p           0  0  0  0   Burkett J, p          2  0  1  0   
+Lee D, ph-1b          1  1  1  2   Cabrera J, p          0  0  0  0   
+Penny B, p            2  0  0  0   Martinez D, rf        1  0  1  0   
+Gonzalez A, ss        2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  3                        31  2  6  2
+
+Florida          000 010 002 --  3
+Atlanta          010 100 000 --  2
+
+  Florida              IP  H  R ER BB SO
+Penny B               6.0  4  2  2  1  4
+Almanza A             1.2  1  0  0  0  1
+Looper B (W)          0.1  0  0  0  0  0
+Alfonseca A (S)       1.0  1  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J             6.1  5  1  1  1  5
+Cabrera J             0.1  0  0  0  0  1
+Remlinger M           1.1  2  0  0  0  1
+Rocker J (L)          1.0  1  2  2  1  0
+
+DP -- Florida 1
+LOB -- Florida 6, Atlanta 4
+2B -- Wilson P
+HR -- Lee D
+SB -- Jordan B, Castillo L
+CS -- Owens E
+SH -- DeRosa M
+SF -- Johnson C
+T -- 2:41
+A -- 33359
+     Game of 6/28/2001 -- New York at Atlanta (N)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Payton J, cf          6  0  0  0   Furcal R, ss          5  0  1  1   
+McEwing J, 2b-lf      4  1  1  1   Helms W, 1b           2  0  0  0   
+Piazza M, c           2  0  1  0   Brogna R, ph-1b       1  0  0  0   
+Zeile T, 1b           4  0  0  0   Jones A, cf           4  1  0  0   
+Ventura R, 3b         4  1  1  0   Jones C, 3b           4  0  2  0   
+Agbayani B, lf        4  0  2  0   Jordan B, rf          4  0  0  0   
+Relaford D, pr-2b     1  0  1  0   Karsay S, p           0  0  0  0   
+Perez T, rf           3  0  0  1   Reed S, p             0  0  0  0   
+Ordonez R, ss         4  0  2  0   Lockhart K, ph        0  1  0  0   
+Hamilton D, ph        0  0  0  0   Gilkey B, lf          1  0  1  0   
+Velandia J, ss        0  0  0  0   Surhoff B, lf         2  1  0  0   
+Rusch G, p            3  0  2  0   Lopez J, c            5  2  2  5   
+Wendell T, p          0  0  0  0   DeRosa M, 2b          4  1  3  0   
+Harris L, ph          1  0  0  0   Glavine T, p          1  0  0  0   
+Franco J, p           0  0  0  0   Cabrera J, p          0  0  0  0   
+Cook D, p             0  0  0  0   Martinez D, rf        1  0  0  0   
+Johnson M, ph         1  0  0  0                                      
+Benitez A, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  2 10  2                        34  6  9  6
+
+New York         000 000 110 0 --  2
+Atlanta          000 000 200 4 --  6
+  1 out when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Rusch G*              6.0  8  2  2  1  3
+Wendell T             1.0  0  0  0  1  1
+Franco J              1.0  0  0  0  0  0
+Cook D                1.0  0  0  0  0  1
+Benitez A (L)         0.1  1  4  4  3  0
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T+            7.0  7  2  2  4  3
+Cabrera J             0.1  2  0  0  0  0
+Karsay S              1.2  0  0  0  2  1
+Reed S (W)            1.0  1  0  0  1  1
+  * Pitched to 4 batters in 7th
+  + Pitched to 1 batter in 8th
+
+DP -- New York 1, Atlanta 1
+LOB -- New York 14, Atlanta 9
+2B -- Ventura R, Piazza M
+HR -- McEwing J, Lopez J 2
+SB -- Jones A
+SH -- Glavine T 2, Brogna R, Perez T
+SF -- Perez T
+HBP -- by Rusch G (Helms W)
+WP -- Karsay S
+T -- 3:35
+A -- 40055
+     Game of 6/29/2001 -- New York at Atlanta (N)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+McEwing J, rf-lf      5  1  1  0   Furcal R, ss          4  1  3  0   
+Payton J, cf          5  1  2  0   Lockhart K, 2b        4  0  1  0   
+Piazza M, c           1  0  0  0   Jones A, cf           4  0  0  0   
+Pratt T, c            2  0  0  0   Jones C, 3b           2  0  0  0   
+Ventura R, 3b         4  1  0  0   Martinez D, rf        3  0  1  0   
+Zeile T, 1b           3  0  2  3   Jordan B, ph-rf       1  0  0  0   
+Agbayani B, lf        2  0  0  0   Surhoff B, lf         4  0  1  0   
+Perez T, pr-rf        0  0  0  0   Lopez J, c            4  0  1  0   
+Relaford D, 2b        3  0  1  0   Brogna R, 1b          4  0  0  0   
+Ordonez R, ss         4  0  0  0   Marquis J, p          2  0  0  0   
+Trachsel S, p         3  0  0  0   Veras Q, ph           1  0  0  0   
+Harris L, ph          1  0  0  0   Ligtenberg K, p       0  0  0  0   
+Wendell T, p          0  0  0  0   Helms W, ph           1  0  0  0   
+Cook D, p             0  0  0  0                                      
+Benitez A, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        34  1  7  0
+
+New York         102 000 000 --  3
+Atlanta          000 001 000 --  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        7.0  5  1  0  1  3
+Wendell T             0.1  2  0  0  1  0
+Cook D                0.2  0  0  0  0  1
+Benitez A (S)         1.0  0  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Marquis J (L)         7.0  6  3  2  4  1
+Ligtenberg K          2.0  0  0  0  1  1
+
+E -- Brogna R 2, Zeile T, Ventura R, Ligtenberg K
+DP -- New York 1, Atlanta 1
+LOB -- New York 9, Atlanta 8
+2B -- Relaford D, Martinez D, Payton J
+3B -- Zeile T
+SB -- Furcal R
+HBP -- by Marquis J (Relaford D)
+WP -- Trachsel S
+T -- 3:18
+A -- 48168
+     Game of 6/30/2001 -- New York at Atlanta (D)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+McEwing J, rf-ss      4  0  2  0   Furcal R, ss          4  0  1  1   
+Payton J, cf          4  0  0  1   Surhoff B, lf         4  0  1  0   
+Ventura R, 3b         4  0  0  0   Jones A, cf           4  2  2  0   
+White R, p            0  0  0  0   Jones C, 3b           4  1  2  0   
+Zeile T, 1b           4  1  2  0   Jordan B, rf          4  1  1  2   
+Agbayani B, lf        4  0  1  0   Helms W, 1b           3  0  0  0   
+Relaford D, 2b        3  0  2  1   DeRosa M, 2b          4  0  2  2   
+Pratt T, c            3  0  0  0   Bako P, c             4  1  1  0   
+Perez T, ph           0  0  0  0   Maddux G, p           3  0  0  0   
+Ordonez R, ss         2  0  0  0   Karsay S, p           0  0  0  0   
+Harris L, ph-3b       2  1  1  0                                      
+Leiter A, p           2  0  0  0                                      
+Johnson M, ph-rf      1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  9  2                        34  5 10  5
+
+New York         010 000 010 --  2
+Atlanta          210 002 00x --  5
+
+  New York             IP  H  R ER BB SO
+Leiter A (L)          7.0  9  5  3  0  4
+White R               1.0  1  0  0  1  1
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)          8.0  8  2  1  0  6
+Karsay S (S)          1.0  1  0  0  1  1
+
+E -- Bako P, Ventura R
+DP -- Atlanta 2
+LOB -- New York 6, Atlanta 6
+2B -- McEwing J, Jordan B, Bako P, Relaford D
+3B -- Jones C
+SB -- Agbayani B, McEwing J, Relaford D
+CS -- Furcal R
+SF -- Relaford D
+T -- 2:28
+A -- 49568
+     Game of 7/1/2001 -- New York at Atlanta (N)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+McEwing J, lf         4  0  2  0   Furcal R, ss          3  1  0  0   
+Perez T, rf           4  0  1  0   Lockhart K, 2b        4  0  0  0   
+Ventura R, 3b         4  1  2  1   Jones A, cf           4  0  2  1   
+Zeile T, 1b           3  0  1  0   Jones C, 3b           3  0  0  0   
+Payton J, cf          4  0  0  0   Jordan B, rf          4  0  0  0   
+Relaford D, 2b        3  1  0  0   Surhoff B, lf         4  0  1  0   
+Pratt T, c            2  0  0  0   Lopez J, c            2  0  0  0   
+Ordonez R, ss         4  0  0  0   Brogna R, 1b          3  0  0  0   
+Appier K, p           3  0  0  1   Burkett J, p          1  0  0  0   
+Harris L, ph          1  0  0  0   Veras Q, ph           1  0  1  0   
+Benitez A, p          0  0  0  0   Remlinger M, p        0  0  0  0   
+                                   Reed S, p             0  0  0  0   
+                                   Martinez D, ph        1  0  0  0   
+                                   Cabrera J, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        30  1  4  1
+
+New York         010 001 000 --  2
+Atlanta          000 000 001 --  1
+
+  New York             IP  H  R ER BB SO
+Appier K (W)          8.0  3  0  0  0  6
+Benitez A (S)         1.0  1  1  1  2  0
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (L)         6.0  6  2  2  3  7
+Remlinger M           1.0  0  0  0  0  1
+Reed S                1.0  0  0  0  1  2
+Cabrera J             1.0  0  0  0  0  2
+
+DP -- New York 1
+LOB -- New York 7, Atlanta 5
+HR -- Ventura R
+SB -- Relaford D 2
+CS -- McEwing J
+HBP -- by Appier K (Lopez J)
+WP -- Benitez A
+T -- 3:03
+A -- 37516
+     Game of 7/3/2001 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Glanville D, cf       5  1  1  1   Furcal R, ss          4  0  1  2   
+Rollins J, ss         5  0  0  0   Lockhart K, 2b        4  1  1  0   
+Abreu B, rf           5  1  1  2   Jones A, cf           5  2  1  0   
+Rolen S, 3b           4  1  1  0   Jones C, 3b           4  5  4  2   
+Perez T, ph           1  0  0  0   Jordan B, rf          4  1  2  2   
+Burrell P, lf         3  2  1  0   Surhoff B, lf         5  2  3  3   
+Lee T, 1b             4  1  3  1   Lopez J, c            5  1  1  1   
+Estrada J, c          4  1  1  1   Brogna R, 1b          4  1  1  2   
+Anderson M, 2b        4  0  2  1   Glavine T, p          1  0  0  0   
+Person R, p           2  0  1  1   Marquis J, p          0  0  0  0   
+Gomes W, p            0  0  0  0   Veras Q, ph           1  0  0  0   
+Vosberg E, p          0  0  0  0   Ligtenberg K, p       0  0  0  0   
+Santiago J, p         0  0  0  0   Martinez D, ph        1  0  0  0   
+Wolf R, p             0  0  0  0   Cabrera J, p          0  0  0  0   
+Telemaco A, p         0  0  0  0   Helms W, ph           1  1  1  2   
+Jordan K, ph          1  0  0  0   Remlinger M, p        0  0  0  0   
+                                   Whiteside M, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 11  7                        39 14 15 14
+
+Philadelphia     020 300 002 --  7
+Atlanta          010 103 81x -- 14
+
+  Philadelphia         IP  H  R ER BB SO
+Person R*             5.0  4  4  2  2  4
+Gomes W               0.2  2  1  1  0  0
+Vosberg E             0.1  0  0  0  0  0
+Santiago J (L)        0.1  6  6  6  0  0
+Wolf R+               0.0  2  2  2  2  0
+Telemaco A            1.2  1  1  1  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T             3.0  3  2  2  0  0
+Marquis J             2.0  3  3  3  2  2
+Ligtenberg K          1.0  2  0  0  0  0
+Cabrera J (W)         1.0  0  0  0  0  1
+Remlinger M           1.0  1  0  0  0  2
+Whiteside M           1.0  2  2  2  0  0
+  * Pitched to 2 batters in 6th
+  + Pitched to 4 batters in 7th
+
+E -- Rollins J
+DP -- Philadelphia 1
+LOB -- Philadelphia 6, Atlanta 6
+2B -- Lee T, Jordan B, Surhoff B, Jones C, Brogna R, Helms W
+HR -- Jones C 2, Abreu B
+HBP -- by Telemaco A (Jordan B)
+T -- 2:48
+A -- 34142
+     Game of 7/4/2001 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Glanville D, cf       5  0  3  0   Furcal R, ss          4  0  0  0   
+Rollins J, ss         4  0  0  0   Surhoff B, lf         4  0  1  1   
+Abreu B, rf           4  1  1  0   Jones A, cf           4  0  0  0   
+Rolen S, 3b           2  1  1  0   Jones C, 3b           4  0  0  0   
+Burrell P, lf         3  1  1  3   Jordan B, rf          3  0  0  0   
+Lee T, 1b             4  1  1  0   Ligtenberg K, p       0  0  0  0   
+Estrada J, c          4  0  1  0   Karsay S, p           0  0  0  0   
+Anderson M, 2b        4  0  2  1   Lopez J, c            3  0  1  0   
+Coggin D, p           3  0  0  0   Brogna R, 1b          2  0  0  0   
+Ward T, ph            1  0  0  0   Helms W, ph-1b        1  0  0  0   
+Cormier R, p          0  0  0  0   DeRosa M, 2b          3  1  1  0   
+Mesa J, p             0  0  0  0   Perez O, p            2  0  1  0   
+                                   Reed S, p             0  0  0  0   
+                                   Martinez D, rf        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4 10  4                        31  1  4  1
+
+Philadelphia     000 004 000 --  4
+Atlanta          001 000 000 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Coggin D (W)          7.0  3  1  1  0  6
+Cormier R             1.0  0  0  0  0  0
+Mesa J (S)            1.0  1  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Perez O (L)           5.1  8  4  4  2  5
+Reed S                1.2  0  0  0  2  1
+Ligtenberg K*         1.0  2  0  0  0  1
+Karsay S              1.0  0  0  0  0  1
+  * Pitched to 1 batter in 9th
+
+E -- Brogna R, Furcal R
+DP -- Atlanta 2
+LOB -- Philadelphia 8, Atlanta 3
+2B -- Glanville D
+HR -- Burrell P
+SB -- Glanville D, Abreu B
+SH -- Rollins J
+T -- 2:52
+A -- 46579
+     Game of 7/5/2001 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Glanville D, cf       5  0  0  0   Furcal R, ss          3  3  2  1   
+Rollins J, ss         4  2  2  0   Surhoff B, lf         5  1  2  1   
+Abreu B, rf           4  0  2  0   Jones A, cf           4  1  2  2   
+Rolen S, 3b           2  0  1  2   Jones C, 3b           3  1  1  1   
+Jordan K, 3b          0  1  0  0   Brogna R, 1b          0  0  0  0   
+Lee T, 1b             4  1  2  0   Jordan B, rf          4  2  3  4   
+Burrell P, lf         4  0  1  1   Helms W, 1b-3b        4  0  0  0   
+Anderson M, 2b        3  0  0  0   DeRosa M, 2b          4  0  1  0   
+Perez T, ph           1  1  1  1   Bako P, c             4  1  1  0   
+Estrada J, c          4  0  1  0   Maddux G, p           3  0  0  0   
+Chen B, p             1  0  0  0   Remlinger M, p        0  0  0  0   
+Telemaco A, p         0  0  0  0   Cabrera J, p          0  0  0  0   
+Ward T, ph            1  0  0  0   Martinez D, ph        1  0  0  0   
+Wolf R, p             1  0  0  0   Moore T, p            0  0  0  0   
+Hunter B, ph          0  0  0  1   Karsay S, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5 10  5                        35  9 12  9
+
+Philadelphia     100 001 003 --  5
+Atlanta          115 100 01x --  9
+
+  Philadelphia         IP  H  R ER BB SO
+Chen B (L)*           2.0  7  7  7  1  2
+Telemaco A            2.0  2  1  1  2  0
+Wolf R                4.0  3  1  1  0  6
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)          6.0  7  2  2  0  5
+Remlinger M           1.0  0  0  0  0  1
+Cabrera J             1.0  0  0  0  0  0
+Moore T               0.1  2  3  3  1  0
+Karsay S              0.2  1  0  0  0  0
+  * Pitched to 5 batters in 3rd
+
+DP -- Philadelphia 1
+LOB -- Philadelphia 5, Atlanta 5
+2B -- Furcal R, Bako P
+HR -- Jordan B 2
+SB -- Rollins J 2, Furcal R 2
+CS -- Abreu B
+SF -- Rolen S, Hunter B
+WP -- Chen B, Moore T
+T -- 2:46
+A -- 32031
+     Game of 7/12/2001 -- Baltimore at Atlanta (N)
+
+  Baltimore          AB  R  H RBI    Atlanta            AB  R  H RBI
+Anderson B, rf        4  1  1  0   Lockhart K, 2b        3  0  1  0   
+Roberts B, 2b         4  1  1  0   Veras Q, ph-2b        1  0  0  0   
+Segui D, 1b           4  1  2  1   Surhoff B, lf         4  1  1  1   
+Conine J, lf          3  0  0  1   Jones A, cf           4  1  1  1   
+Richard C, cf         4  0  2  1   Jones C, 3b           4  1  1  1   
+Mora M, ss            4  1  2  0   Caminiti K, 1b        3  1  3  1   
+Ripken C, 3b          4  0  1  0   Brogna R, 1b          0  0  0  0   
+Hairston J, pr        0  0  0  0   Helms W, ph-1b        1  0  0  0   
+Lunar F, c            3  0  0  0   Jordan B, rf          4  1  1  0   
+Batista T, ph         0  0  0  0   Bako P, c             2  1  0  0   
+Ponson S, p           2  0  0  0   Lopez J, ph-c         0  0  0  0   
+Gibbons J, ph         1  1  1  2   DeRosa M, ss          4  0  2  2   
+Ryan B, p             0  0  0  0   Maddux G, p           3  0  1  0   
+Paronto C, p          0  0  0  0   Martinez D, ph        1  0  0  0   
+                                   Karsay S, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5 10  5                        34  6 11  6
+
+Baltimore        200 100 200 --  5
+Atlanta          111 002 01x --  6
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S              6.0  9  5  5  1  2
+Ryan B (L)            1.2  1  1  0  0  2
+Paronto C             0.1  1  0  0  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)          8.0  9  5  5  0  3
+Karsay S (S)          1.0  1  0  0  0  1
+
+E -- Caminiti K, Lunar F
+DP -- Baltimore 1, Atlanta 2
+LOB -- Baltimore 2, Atlanta 6
+2B -- Roberts B, DeRosa M, Richard C, Mora M
+HR -- Surhoff B, Jones A, Jones C, Caminiti K, Gibbons J
+SB -- Jordan B
+SF -- Conine J
+T -- 2:23
+A -- 44465
+     Game of 7/13/2001 -- Baltimore at Atlanta (N)
+
+  Baltimore          AB  R  H RBI    Atlanta            AB  R  H RBI
+Hairston J, 2b        4  0  0  0   Veras Q, 2b           3  3  1  0   
+Roberts B, ss         4  0  0  0   Cabrera J, p          0  0  0  0   
+Segui D, 1b           4  0  0  0   Surhoff B, lf         4  2  2  1   
+Conine J, rf          3  0  0  0   Jones A, cf           4  1  1  3   
+Batista T, 3b         4  0  1  0   Jones C, 3b           3  0  1  1   
+Mora M, cf            3  0  0  0   Caminiti K, 1b        3  0  0  0   
+Kinkade M, lf         2  1  0  0   Helms W, 1b           1  0  1  1   
+Fordyce B, c          2  0  1  1   Jordan B, rf          4  0  0  0   
+Towers J, p           2  0  0  0   Lopez J, c            4  0  1  0   
+Mills A, p            0  0  0  0   DeRosa M, ss          4  1  1  0   
+Ripken C, ph          1  0  1  0   Glavine T, p          0  0  0  0   
+Trombley M, p         0  0  0  0   Martinez D, ph        1  0  0  0   
+                                   Remlinger M, p        0  0  0  0   
+                                   Lockhart K, ph-2b     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  1  3  1                        32  7  8  6
+
+Baltimore        001 000 000 --  1
+Atlanta          300 020 20x --  7
+
+  Baltimore            IP  H  R ER BB SO
+Towers J (L)          6.1  6  7  5  2  2
+Mills A               0.2  1  0  0  1  1
+Trombley M            1.0  1  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (W)         7.0  2  1  1  4  4
+Remlinger M           1.0  1  0  0  0  2
+Cabrera J             1.0  0  0  0  0  0
+
+E -- Roberts B 2, Mora M
+DP -- Baltimore 1
+LOB -- Baltimore 5, Atlanta 6
+2B -- Fordyce B, Batista T, Surhoff B, Ripken C, Lopez J
+CS -- Jones C, Conine J
+SH -- Glavine T
+HBP -- by Towers J (Veras Q)
+WP -- Towers J
+T -- 2:42
+A -- 44461
+     Game of 7/14/2001 -- Baltimore at Atlanta (N)
+
+  Baltimore          AB  R  H RBI    Atlanta            AB  R  H RBI
+Hairston J, 2b        5  0  0  0   Lockhart K, 2b        3  0  0  0   
+Trombley M, p         0  0  0  0   Helms W, ph           1  0  0  0   
+Groom B, p            0  0  0  0   Surhoff B, lf         4  0  1  0   
+Mora M, cf            5  0  1  0   Reed S, p             0  0  0  0   
+Richard C, rf         4  0  1  0   Ligtenberg K, p       0  0  0  0   
+Conine J, 1b          4  0  1  0   Jones A, cf           4  0  0  0   
+Gibbons J, lf         4  0  1  0   Jones C, 3b           4  0  0  0   
+Anderson B, lf        0  0  0  0   Caminiti K, 1b        4  0  1  0   
+Batista T, ss         3  2  1  1   Jordan B, rf          4  1  3  0   
+Ripken C, 3b          3  2  2  3   Lopez J, c            4  0  0  0   
+Lunar F, c            4  0  0  0   DeRosa M, ss          2  0  0  0   
+Roberts W, p          2  0  1  0   Burkett J, p          2  0  1  1   
+Ryan B, p             0  0  0  0   Remlinger M, p        0  0  0  0   
+Roberts B, ph-2b      1  0  0  0   Martinez D, ph-lf     2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  4                        34  1  6  1
+
+Baltimore        000 102 010 --  4
+Atlanta          010 000 000 --  1
+
+  Baltimore            IP  H  R ER BB SO
+Roberts W (W)         6.2  5  1  1  3  5
+Ryan B                0.1  0  0  0  0  0
+Trombley M            1.0  0  0  0  0  1
+Groom B (S)           1.0  1  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (L)         6.0  6  3  2  4  6
+Remlinger M           1.0  1  0  0  0  3
+Reed S                1.0  1  1  1  0  2
+Ligtenberg K          1.0  0  0  0  0  0
+
+E -- Lopez J, Roberts B
+LOB -- Baltimore 9, Atlanta 9
+2B -- Gibbons J
+HR -- Batista T, Ripken C 2
+SB -- Richard C 2
+SH -- Roberts W
+T -- 2:55
+A -- 50069
+     Game of 7/15/2001 -- Tampa Bay at Atlanta (D)
+
+  Tampa Bay          AB  R  H RBI    Atlanta            AB  R  H RBI
+Rolls D, cf           5  0  1  0   Lockhart K, 2b        3  0  1  1   
+Winn R, rf            4  1  1  1   Surhoff B, lf         4  0  0  0   
+Vaughn G, lf          3  1  0  0   Jones A, cf           4  0  0  0   
+Tyner J, lf           0  0  0  0   Jones C, 3b           3  0  0  0   
+McGriff F, 1b         4  3  3  4   Brogna R, 1b          1  0  1  0   
+Cox S, 1b             1  0  1  0   Caminiti K, 1b        2  0  0  0   
+Johnson R, 3b         4  1  1  0   Moore T, p            1  0  1  0   
+Flaherty J, c         5  1  1  2   Martinez D, ph        1  0  0  0   
+Abernathy B, 2b       4  2  4  1   Ligtenberg K, p       0  0  0  0   
+Martinez F, 2b        1  0  0  0   Jordan B, rf          4  1  1  0   
+Sheets A, ss          4  0  1  1   Lopez J, c            4  0  1  0   
+Lopez A, p            4  0  0  0   DeRosa M, ss          3  0  2  0   
+Phelps T, p           0  0  0  0   Garcia J, ss          1  0  0  0   
+Zambrano V, p         0  0  0  0   Perez O, p            0  0  0  0   
+                                   Helms W, 1b-3b        2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  9 13  9                        33  1  8  1
+
+Tampa Bay        014 021 100 --  9
+Atlanta          000 010 000 --  1
+
+  Tampa Bay            IP  H  R ER BB SO
+Lopez A (W)           7.0  7  1  1  0  4
+Phelps T              1.0  1  0  0  0  0
+Zambrano V            1.0  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Perez O (L)           4.1  7  7  7  3  4
+Moore T               3.2  5  2  2  1  1
+Ligtenberg K          1.0  1  0  0  1  3
+
+E -- Lopez J, Johnson R, Phelps T
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 8, Atlanta 7
+2B -- Abernathy B 2, Johnson R, Moore T
+HR -- McGriff F 2
+SB -- Vaughn G, Winn R
+CS -- Lockhart K
+SH -- Perez O
+SF -- Lockhart K
+T -- 2:45
+A -- 31753
+     Game of 7/16/2001 -- Tampa Bay at Atlanta (N)
+
+  Tampa Bay          AB  R  H RBI    Atlanta            AB  R  H RBI
+Winn R, cf            4  2  3  1   Lockhart K, 2b        2  0  1  0   
+Grieve B, rf          4  1  2  3   Helms W, ph-1b        2  0  1  0   
+Vaughn G, lf          5  0  2  0   Surhoff B, lf         4  0  1  1   
+Tyner J, lf           0  0  0  0   Jones A, cf           4  2  3  0   
+McGriff F, 1b         4  2  1  1   Jones C, 3b           4  1  2  1   
+Huff A, 3b            4  0  1  0   Caminiti K, 1b        2  0  0  0   
+Flaherty J, c         5  0  1  0   Remlinger M, p        0  0  0  0   
+Abernathy B, 2b       4  0  0  0   Karsay S, p           0  0  0  0   
+Sheets A, ss          4  0  0  0   Martinez D, ph        1  0  0  0   
+Creek D, p            0  0  0  0   Jordan B, rf          3  1  2  3   
+Zambrano V, p         0  0  0  0   Lopez J, c            4  0  0  0   
+Yan E, p              0  0  0  0   DeRosa M, ss          4  1  0  0   
+Rupe R, p             3  1  1  0   Marquis J, p          1  0  0  0   
+Phelps T, p           0  0  0  0   Reed S, p             0  0  0  0   
+Martinez F, ss        1  0  0  0   Brogna R, ph          1  0  0  0   
+                                   Cabrera J, p          0  0  0  0   
+                                   Garcia J, ph-2b       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 11  5                        33  5 10  5
+
+Tampa Bay        100 040 001 --  6
+Atlanta          010 102 100 --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Rupe R                5.2  6  4  4  2  1
+Phelps T              0.2  0  1  0  0  0
+Creek D               0.1  1  0  0  0  1
+Zambrano V (W)        1.1  2  0  0  1  1
+Yan E (S)             1.0  1  0  0  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Marquis J             4.1  7  5  4  3  5
+Reed S                0.2  0  0  0  0  0
+Cabrera J             2.0  3  0  0  0  3
+Remlinger M           1.0  0  0  0  1  1
+Karsay S (L)          1.0  1  1  1  0  0
+
+E -- Jones C, Abernathy B
+DP -- Tampa Bay 2, Atlanta 1
+LOB -- Tampa Bay 9, Atlanta 9
+2B -- Rupe R, Jones A
+HR -- Winn R, Jones C, Grieve B, Jordan B, McGriff F
+SB -- Lockhart K, Jordan B
+SH -- Garcia J, Surhoff B
+SF -- Jordan B
+HBP -- by Rupe R (Lockhart K)
+T -- 3:20
+A -- 26197
+     Game of 7/17/2001 -- Tampa Bay at Atlanta (N)
+
+  Tampa Bay          AB  R  H RBI    Atlanta            AB  R  H RBI
+Winn R, cf            4  0  1  0   Lockhart K, 2b        3  0  0  0   
+Grieve B, rf          4  0  1  0   Surhoff B, lf         3  1  1  1   
+Vaughn G, lf          4  0  1  0   Jones A, cf           4  1  1  2   
+McGriff F, 1b         4  0  1  0   Jones C, 3b           3  1  2  1   
+Huff A, 3b            4  0  0  0   Jordan B, rf          4  0  1  0   
+Flaherty J, c         3  0  0  0   Caminiti K, 1b        3  0  0  0   
+Abernathy B, 2b       3  0  1  0   Bako P, c             2  0  0  0   
+Martinez F, ss        3  0  0  0   DeRosa M, ss          3  0  0  0   
+Wilson P, p           0  0  0  0   Maddux G, p           3  1  1  0   
+Sturtze T, p          2  0  1  0                                      
+Sheets A, ss          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  0  6  0                        28  4  6  4
+
+Tampa Bay        000 000 000 --  0
+Atlanta          000 103 00x --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Sturtze T (L)         6.0  6  4  4  2  3
+Wilson P              2.0  0  0  0  1  2
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)          9.0  6  0  0  0  9
+
+DP -- Atlanta 1
+LOB -- Tampa Bay 5, Atlanta 4
+HR -- Jones C, Jones A
+CS -- Surhoff B
+SH -- Lockhart K
+T -- 2:03
+A -- 32287
+     Game of 7/20/2001 -- Montreal at Atlanta (N)
+
+  Montreal           AB  R  H RBI    Atlanta            AB  R  H RBI
+Bergeron P, cf        5  0  1  0   Giles M, 2b           4  0  0  0   
+Vidro J, 2b           4  3  3  0   Surhoff B, lf         3  0  2  0   
+Guerrero V, rf        5  0  1  0   Gilkey B, ph-lf       1  0  1  0   
+Stevens L, 1b         2  1  0  0   Jones A, cf           4  0  0  0   
+Cabrera O, ss         5  1  3  2   Jones C, 3b           4  1  2  0   
+Blum G, 3b            3  0  1  1   Jordan B, rf          4  0  0  0   
+Barrett M, c          5  0  1  1   Caminiti K, 1b        4  1  1  0   
+Wilkerson B, lf       3  1  1  0   Lopez J, c            4  1  2  3   
+Thurman M, p          3  0  0  0   DeRosa M, ss          4  0  0  0   
+Ducey R, ph           1  0  1  1   Millwood K, p         1  0  0  0   
+Lloyd G, p            0  0  0  0   Garcia J, ph          1  0  0  0   
+Urbina U, p           0  0  0  0   Ligtenberg K, p       0  0  0  0   
+                                   Cabrera J, p          0  0  0  0   
+                                   Martinez D, ph        1  0  0  0   
+                                   Reed S, p             0  0  0  0   
+                                   Marquis J, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6 12  5                        35  3  8  3
+
+Montreal         012 010 110 --  6
+Atlanta          020 100 000 --  3
+
+  Montreal             IP  H  R ER BB SO
+Thurman M (W)         7.0  6  3  3  0  3
+Lloyd G               1.0  2  0  0  0  0
+Urbina U (S)          1.0  0  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Millwood K (L)        5.0  7  4  3  3  6
+Ligtenberg K          1.0  0  0  0  1  2
+Cabrera J             1.0  2  1  1  2  0
+Reed S                1.0  3  1  1  1  0
+Marquis J             1.0  0  0  0  0  0
+
+E -- Stevens L
+DP -- Montreal 1, Atlanta 1
+LOB -- Montreal 11, Atlanta 5
+2B -- Caminiti K, Jones C, Surhoff B, Guerrero V
+3B -- Wilkerson B
+HR -- Lopez J
+SB -- Cabrera O, Wilkerson B
+CS -- Ducey R
+HBP -- by Reed S (Vidro J)
+PB -- Lopez J
+T -- 2:50
+A -- 32842
+     Game of 7/21/2001 -- Montreal at Atlanta (N)
+
+  Montreal           AB  R  H RBI    Atlanta            AB  R  H RBI
+Bergeron P, cf        3  0  1  0   Giles M, 2b           4  0  1  0   
+Vidro J, 2b           4  0  0  0   Surhoff B, lf         4  0  0  0   
+Guerrero V, rf        4  0  1  0   Jones A, cf           4  0  0  0   
+Smith M, lf           3  0  0  0   Jones C, 3b           4  0  1  0   
+Stevens L, 1b         3  1  2  0   Jordan B, rf          4  1  1  1   
+Cabrera O, ss         4  0  1  1   Caminiti K, 1b        4  0  0  0   
+Barrett M, c          4  0  1  0   Lopez J, c            3  0  2  0   
+Mordecai M, 3b        4  0  0  0   Garcia J, pr          0  0  0  0   
+Munoz B, p            2  0  0  0   Bako P, c             1  0  0  0   
+Stewart S, p          0  0  0  0   DeRosa M, ss          4  1  2  1   
+Strickland S, p       0  0  0  0   Perez O, p            1  0  1  0   
+Ducey R, ph           0  0  0  0   Ligtenberg K, p       0  0  0  0   
+Reames B, p           0  0  0  0   Lockhart K, ph        1  0  0  0   
+Wilkerson B, ph       1  0  0  0   Remlinger M, p        0  0  0  0   
+Lloyd G, p            0  0  0  0   Reed S, p             0  0  0  0   
+                                   Martinez D, ph        1  0  1  0   
+                                   Karsay S, p           0  0  0  0   
+                                   Cabrera J, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        35  2  9  2
+
+Montreal         010 000 000 0 --  1
+Atlanta          000 000 100 1 --  2
+  0 outs when winning run was scored.
+
+  Montreal             IP  H  R ER BB SO
+Munoz B*              6.0  6  1  1  0  0
+Stewart S             0.1  0  0  0  0  0
+Strickland S          0.2  2  0  0  0  1
+Reames B              2.0  0  0  0  0  3
+Lloyd G (L)           0.0  1  1  1  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Perez O               4.1  3  1  1  0  3
+Ligtenberg K          0.2  0  0  0  0  1
+Remlinger M           1.0  1  0  0  0  1
+Reed S                1.0  1  0  0  1  0
+Karsay S              2.0  1  0  0  1  1
+Cabrera J (W)         1.0  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Barrett M
+DP -- Montreal 1, Atlanta 2
+LOB -- Montreal 5, Atlanta 6
+2B -- Cabrera O, Barrett M
+HR -- Jordan B, DeRosa M
+SB -- Martinez D
+SH -- Smith M
+HBP -- by Perez O (Bergeron P)
+T -- 2:51
+A -- 46363
+     Game of 7/22/2001 -- Montreal at Atlanta (D)
+
+  Montreal           AB  R  H RBI    Atlanta            AB  R  H RBI
+Bergeron P, cf        4  0  1  0   Giles M, 2b           5  0  1  0   
+Vidro J, 2b           4  0  0  0   Surhoff B, lf         4  2  3  0   
+Guerrero V, rf        4  1  2  1   Jones C, 3b           2  1  0  0   
+Stevens L, 1b         4  0  0  0   Jordan B, rf          4  2  3  3   
+Cabrera O, ss         4  0  1  0   Caminiti K, 1b        3  0  1  1   
+Blum G, 3b            4  1  1  0   Helms W, pr-1b        1  1  0  1   
+Barrett M, c          4  0  1  0   Jones A, cf           4  1  1  0   
+Ducey R, lf           0  0  0  0   Bako P, c             4  1  3  0   
+Wilkerson B, lf       3  0  1  1   DeRosa M, ss          4  0  2  2   
+Mattes T, p           2  0  2  0   Maddux G, p           3  0  0  1   
+Yoshii M, p           0  0  0  0   Gilkey B, ph          1  0  0  0   
+Smith M, ph           1  0  0  0   Smoltz J, p           0  0  0  0   
+Eischen J, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  2  9  2                        35  8 14  8
+
+Montreal         100 000 100 --  2
+Atlanta          310 003 10x --  8
+
+  Montreal             IP  H  R ER BB SO
+Mattes T (L)          5.1 10  7  7  1  4
+Yoshii M              0.2  0  0  0  0  0
+Eischen J             2.0  4  1  1  1  3
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)          8.0  9  2  2  0  7
+Smoltz J              1.0  0  0  0  0  1
+
+E -- Maddux G, DeRosa M, Stevens L
+DP -- Montreal 2
+LOB -- Montreal 6, Atlanta 5
+2B -- Cabrera O, Jordan B, DeRosa M
+HR -- Guerrero V, Jordan B
+SB -- Bako P
+CS -- Wilkerson B, Cabrera O
+SF -- Wilkerson B
+T -- 2:25
+A -- 29082
+     Game of 7/23/2001 -- Cincinnati at Atlanta (N)
+
+  Cincinnati         AB  R  H RBI    Atlanta            AB  R  H RBI
+Guerrero W, 2b-ss     5  0  1  0   Giles M, 2b           5  1  2  0   
+Castro J, ss          0  0  0  0   Surhoff B, lf         3  0  0  1   
+Dunn A, rf-lf         4  1  2  0   Jones C, 3b           5  1  1  0   
+Griffey K, cf         5  1  1  1   Jordan B, rf          4  0  1  1   
+Casey S, 1b           4  0  2  1   Caminiti K, 1b        4  0  1  0   
+Rivera R, pr-rf       1  0  1  0   Garcia J, pr          0  0  0  0   
+Boone A, 3b           2  1  0  0   Bako P, c             0  0  0  0   
+Young D, lf-1b        4  1  1  0   Jones A, cf           4  0  2  0   
+LaRue J, c            4  1  2  0   Lopez J, c            3  1  1  0   
+Reese P, ss           3  0  0  0   Martinez D, ph-1b     1  0  0  0   
+Walker T, ph-2b       1  0  1  2   DeRosa M, ss          4  1  2  0   
+Dessens E, p          1  0  0  0   Glavine T, p          1  0  1  1   
+Clark B, ph           1  0  1  0   Remlinger M, p        0  0  0  0   
+Sullivan S, p         0  0  0  0   Cabrera J, p          0  0  0  0   
+Cromer D, ph          0  0  0  1   Lockhart K, ph        1  0  1  0   
+Graves D, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5 12  5                        35  4 12  3
+
+Cincinnati       000 000 050 --  5
+Atlanta          110 010 010 --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E             6.0  7  3  3  0  4
+Sullivan S (W)        1.0  1  0  0  0  1
+Graves D (S)          2.0  4  1  1  1  1
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T*            7.0  7  1  1  1  2
+Remlinger M (L)       0.1  3  4  2  1  0
+Cabrera J             1.2  2  0  0  1  0
+  * Pitched to 1 batter in 8th
+
+E -- Jones C, Bako P
+DP -- Atlanta 2
+LOB -- Cincinnati 9, Atlanta 8
+2B -- DeRosa M, Jones A, Jones C, Lockhart K
+3B -- Griffey K
+SB -- Guerrero W, Rivera R
+CS -- Rivera R, Garcia J
+SH -- Dessens E, Glavine T 2
+SF -- Surhoff B, Cromer D
+HBP -- by Glavine T (Boone A)
+WP -- Graves D
+Balk -- Graves D
+T -- 3:00
+A -- 37052
+     Game of 7/24/2001 -- Cincinnati at Atlanta (N)
+
+  Cincinnati         AB  R  H RBI    Atlanta            AB  R  H RBI
+Walker T, 2b          3  1  1  0   Giles M, 2b           4  0  3  2   
+Dunn A, rf            6  2  2  1   DeRosa M, ss          4  0  0  0   
+Griffey K, cf         4  3  2  0   Jones C, 3b           3  0  1  0   
+Rivera R, pr-cf       1  0  0  0   Helms W, ph-3b        1  0  0  0   
+Casey S, 1b           4  2  2  1   Jordan B, rf          3  0  0  0   
+Boone A, 3b           4  1  1  3   Caminiti K, 1b        4  0  0  0   
+Young D, lf           3  1  1  2   Jones A, cf           4  1  2  1   
+MacRae S, p           0  0  0  0   Gilkey B, lf          4  1  1  0   
+LaRue J, c            5  0  2  3   Bako P, c             3  0  0  0   
+Castro J, ss          4  0  0  1   Burkett J, p          1  0  0  0   
+Brower J, p           3  0  0  0   Smoltz J, p           0  0  0  0   
+Cromer D, ph          1  0  0  0   Martinez D, ph        1  1  1  0   
+Sullivan S, p         0  0  0  0   Ligtenberg K, p       0  0  0  0   
+Clark B, lf           1  1  1  0   Reed S, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 11 12 11                        32  3  8  3
+
+Cincinnati       400 030 211 -- 11
+Atlanta          020 000 100 --  3
+
+  Cincinnati           IP  H  R ER BB SO
+Brower J (W)          6.0  6  2  2  2  1
+Sullivan S            1.0  2  1  1  0  0
+MacRae S              2.0  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (L)         6.0  6  7  4  4  5
+Smoltz J              1.0  2  2  0  1  0
+Ligtenberg K          1.0  1  1  1  2  0
+Reed S                1.0  3  1  1  0  1
+
+E -- Caminiti K, DeRosa M
+DP -- Cincinnati 1
+LOB -- Cincinnati 10, Atlanta 5
+2B -- Dunn A, Casey S 2, Giles M, Boone A, Griffey K, Clark B
+3B -- Giles M
+HR -- Young D, Jones A
+CS -- Jones A
+SH -- Burkett J
+SF -- Castro J, Boone A
+T -- 2:47
+A -- 34955
+     Game of 7/25/2001 -- Cincinnati at Atlanta (D)
+
+  Cincinnati         AB  R  H RBI    Atlanta            AB  R  H RBI
+Walker T, 2b          4  1  1  0   Giles M, 2b           5  1  1  0   
+Dunn A, rf            4  0  1  1   Martinez D, lf        5  0  0  0   
+Griffey K, cf         3  0  0  0   Jones C, 3b           5  2  4  1   
+Casey S, 1b           4  0  1  0   Jordan B, rf          5  2  2  3   
+Young D, 3b           3  0  0  0   Jones A, cf           2  3  0  0   
+LaRue J, c            3  0  1  0   Helms W, 1b           4  0  0  0   
+Reese P, ss           4  0  1  0   DeRosa M, ss          4  2  3  2   
+Clark B, lf           3  1  0  0   Bako P, c             4  1  2  4   
+Acevedo J, p          1  0  0  0   Millwood K, p         3  0  2  1   
+Mercado H, p          0  0  0  0   Garcia J, pr          0  0  0  0   
+Nichting C, p         0  0  0  0   Reed S, p             0  0  0  0   
+Guerrero W, ph        1  1  1  0   Remlinger M, p        0  0  0  0   
+Fernandez O, p        0  0  0  0   Lockhart K, ph        1  0  1  0   
+Cromer D, ph          1  0  0  0   Karsay S, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  6  1                        38 11 15 11
+
+Cincinnati       002 000 100 --  3
+Atlanta          000 304 13x -- 11
+
+  Cincinnati           IP  H  R ER BB SO
+Acevedo J (L)         5.1  7  6  6  2  3
+Mercado H*            0.0  3  1  1  0  0
+Nichting C            0.2  0  0  0  0  0
+Fernandez O           2.0  5  4  4  1  2
+
+  Atlanta              IP  H  R ER BB SO
+Millwood K (W)        6.0  2  2  0  5  5
+Reed S                0.2  2  1  1  0  1
+Remlinger M           1.1  2  0  0  0  2
+Karsay S              1.0  0  0  0  0  1
+  * Pitched to 3 batters in 6th
+
+E -- DeRosa M, Young D, Griffey K
+DP -- Cincinnati 1
+LOB -- Cincinnati 7, Atlanta 6
+2B -- Jones C 2, Reese P, Casey S, Bako P
+3B -- Bako P
+HR -- Jones C, Jordan B
+CS -- Reese P, LaRue J
+SH -- Acevedo J
+WP -- Millwood K, Acevedo J
+T -- 3:03
+A -- 37015
+     Game of 8/7/2001 -- Houston at Atlanta (N)
+
+  Houston            AB  R  H RBI    Atlanta            AB  R  H RBI
+Biggio C, 2b          5  1  2  1   Giles M, 2b           4  1  1  3   
+Lugo J, ss            4  0  1  0   Surhoff B, lf         4  1  1  0   
+Ward D, ph            1  0  0  0   Jones C, 3b           3  0  1  0   
+Bagwell J, 1b         4  0  0  0   Jordan B, rf          4  2  2  2   
+Berkman L, lf         3  1  1  0   Caminiti K, 1b        3  0  0  0   
+Alou M, rf            4  1  2  0   Helms W, 1b           0  0  0  0   
+Hidalgo R, cf         4  1  3  1   Jones A, cf           2  0  0  0   
+Castilla V, 3b        4  1  1  2   Sanchez R, ss         3  1  1  1   
+Ausmus B, c           4  0  1  0   Bako P, c             3  1  0  0   
+Mlicki D, p           1  0  0  0   Maddux G, p           0  0  0  0   
+Lopez M, ph           1  0  0  0   Martinez D, ph        1  0  0  0   
+Cruz N, p             0  0  0  0   Reed S, p             0  0  0  0   
+Dotel O, p            0  0  0  0   Smoltz J, p           0  0  0  0   
+Merced O, ph          1  0  0  0   Karsay S, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 11  4                        27  6  6  6
+
+Houston          100 400 000 --  5
+Atlanta          012 003 00x --  6
+
+  Houston              IP  H  R ER BB SO
+Mlicki D              5.0  4  3  3  3  1
+Cruz N (L)            2.0  2  3  3  2  2
+Dotel O               1.0  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)          6.0 11  5  4  0  3
+Reed S                1.0  0  0  0  1  1
+Smoltz J              1.0  0  0  0  0  0
+Karsay S (S)          1.0  0  0  0  0  1
+
+E -- Giles M
+DP -- Houston 2, Atlanta 1
+LOB -- Houston 6, Atlanta 5
+2B -- Castilla V
+HR -- Jordan B, Giles M
+SH -- Mlicki D
+SF -- Sanchez R
+HBP -- by Mlicki D (Jones A), by Mlicki D (Maddux G)
+T -- 2:44
+A -- 35648
+     Game of 8/8/2001 -- Houston at Atlanta (N)
+
+  Houston            AB  R  H RBI    Atlanta            AB  R  H RBI
+Biggio C, 2b          6  0  1  0   Giles M, 2b           6  0  2  0   
+Lugo J, ss            5  0  0  1   Surhoff B, lf         5  0  0  0   
+Bagwell J, 1b         5  0  0  0   Jones C, 3b           5  1  4  0   
+Berkman L, lf         5  0  0  0   Jordan B, rf          5  0  3  0   
+Alou M, rf            2  1  2  0   Gilkey B, rf          0  0  0  0   
+Ward D, rf            2  0  1  0   Caminiti K, 1b        5  0  1  1   
+Hidalgo R, cf         5  0  2  0   Jones A, cf           4  0  1  0   
+Castilla V, 3b        5  0  1  1   Lopez J, c            5  0  0  0   
+Ausmus B, c           5  1  1  0   Bako P, c             0  0  0  0   
+Reynolds S, p         2  0  0  0   Sanchez R, ss         5  0  1  0   
+Villone R, p          0  0  0  0   Glavine T, p          3  0  0  0   
+Vizcaino J, ph        1  0  1  0   Karsay S, p           0  0  0  0   
+Williams M, p         0  0  0  0   Lockhart K, ph        1  0  0  0   
+Merced O, ph          1  0  0  0   Cabrera J, p          0  0  0  0   
+Jackson M, p          0  0  0  0   Helms W, ph           0  0  0  0   
+Eusebio T, ph         1  0  1  0                                      
+Wagner B, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     45  2 10  2                        44  1 12  1
+
+Houston          010 000 000 001 --  2
+Atlanta          000 100 000 000 --  1
+
+  Houston              IP  H  R ER BB SO
+Reynolds S            5.1  8  1  1  0  2
+Villone R             1.2  0  0  0  0  1
+Williams M            2.0  1  0  0  1  0
+Jackson M (W)         2.0  3  0  0  0  1
+Wagner B (S)          1.0  0  0  0  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T             9.0  7  1  1  1  3
+Karsay S              1.0  0  0  0  0  1
+Cabrera J (L)         2.0  3  1  1  1  3
+
+E -- Giles M
+DP -- Houston 3, Atlanta 1
+LOB -- Houston 10, Atlanta 9
+2B -- Alou M 2, Giles M
+CS -- Jones C
+SF -- Lugo J
+T -- 3:34
+A -- 31201
+     Game of 8/9/2001 -- Houston at Atlanta (N)
+
+  Houston            AB  R  H RBI    Atlanta            AB  R  H RBI
+Biggio C, 2b          4  1  2  0   Giles M, 2b           4  0  0  0   
+Vizcaino J, ss        5  2  3  1   Surhoff B, lf         3  0  1  0   
+Bagwell J, 1b         4  1  2  0   Gilkey B, lf          2  0  0  0   
+Berkman L, lf         2  0  0  2   Jones C, 3b           4  0  2  0   
+Hidalgo R, cf         4  0  0  1   Jordan B, rf          3  1  1  0   
+Merced O, rf          5  0  1  1   Caminiti K, 1b        4  1  2  1   
+Castilla V, 3b        5  0  0  0   Helms W, pr-1b        0  0  0  0   
+Ausmus B, c           4  2  3  0   Jones A, cf           4  2  2  1   
+Oswalt R, p           3  0  0  0   Lopez J, c            4  1  2  3   
+Cruz N, p             0  0  0  0   Sanchez R, ss         1  0  1  0   
+Ward D, ph            1  0  1  1   DeRosa M, ss          3  0  0  0   
+Dotel O, p            0  0  0  0   Burkett J, p          2  0  0  0   
+                                   Reed S, p             0  0  0  0   
+                                   Lockhart K, ph        1  0  0  0   
+                                   Smoltz J, p           0  0  0  0   
+                                   Ligtenberg K, p       0  0  0  0   
+                                   Martinez D, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 12  6                        36  5 11  5
+
+Houston          200 011 011 --  6
+Atlanta          030 002 000 --  5
+
+  Houston              IP  H  R ER BB SO
+Oswalt R              5.1  9  5  5  1  3
+Cruz N                1.2  1  0  0  1  0
+Dotel O (W)           2.0  1  0  0  0  3
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J             5.2  9  4  4  3  3
+Reed S                0.1  0  0  0  0  0
+Smoltz J              1.0  0  0  0  0  2
+Ligtenberg K (L)      2.0  3  2  1  1  2
+
+E -- Hidalgo R, Giles M, Caminiti K, Jones C
+DP -- Houston 2
+LOB -- Houston 10, Atlanta 6
+2B -- Bagwell J, Ausmus B 3, Jones A
+HR -- Caminiti K, Lopez J
+SB -- Bagwell J
+SF -- Hidalgo R, Berkman L
+WP -- Ligtenberg K
+T -- 3:04
+A -- 30499
+     Game of 8/10/2001 -- Arizona at Atlanta (N)
+
+  Arizona            AB  R  H RBI    Atlanta            AB  R  H RBI
+Womack T, ss          5  1  1  1   Giles M, 2b           4  0  2  0   
+Spivey J, 2b          4  1  2  1   Martinez D, lf        4  0  0  0   
+Gonzalez L, lf        4  1  1  0   Jones C, 3b           4  0  1  0   
+Grace M, 1b           4  2  2  0   Jordan B, rf          4  0  1  0   
+Williams M, 3b        5  0  1  2   Caminiti K, 1b        2  0  0  0   
+Finley S, cf          4  1  1  1   Jones A, cf           4  0  0  0   
+Sanders R, rf         5  1  0  0   Lopez J, c            3  0  1  0   
+Miller D, c           3  0  1  0   DeRosa M, ss          3  0  1  0   
+DiFelice M, c         0  0  0  0   Millwood K, p         2  0  0  0   
+Schilling C, p        4  0  0  0   Lockhart K, ph        0  0  0  0   
+Brohawn T, p          0  0  0  0   Gilkey B, ph          1  0  0  0   
+Morgan M, p           0  0  0  0   Cabrera J, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7  9  5                        31  0  6  0
+
+Arizona          001 103 002 --  7
+Atlanta          000 000 000 --  0
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)*      7.0  6  0  0  1  6
+Brohawn T             1.2  0  0  0  1  1
+Morgan M              0.1  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Millwood K (L)        8.0  6  5  2  4  6
+Cabrera J             1.0  3  2  2  1  1
+  * Pitched to 2 batters in 8th
+
+E -- DeRosa M 2, Caminiti K, Spivey J
+DP -- Arizona 3
+LOB -- Arizona 9, Atlanta 6
+2B -- Grace M, Finley S
+SB -- Womack T, Sanders R
+CS -- Giles M
+WP -- Millwood K, Brohawn T
+T -- 2:47
+A -- 40101
+     Game of 8/11/2001 -- Arizona at Atlanta (D)
+
+  Arizona            AB  R  H RBI    Atlanta            AB  R  H RBI
+Womack T, ss          5  0  1  0   Giles M, 2b           4  1  0  0   
+Spivey J, 2b          5  0  1  0   Martinez D, lf        4  0  2  1   
+Gonzalez L, lf        5  1  2  0   Jones C, 3b           3  0  1  0   
+Grace M, 1b           4  0  1  0   Jordan B, rf          4  0  1  0   
+Williams M, 3b        4  0  1  1   Caminiti K, 1b        4  0  0  0   
+Finley S, cf          2  1  1  0   Jones A, cf           4  0  0  0   
+Sanders R, rf         4  0  0  0   Lopez J, c            4  0  1  0   
+Miller D, c           4  1  2  0   DeRosa M, ss          3  0  0  0   
+Batista M, p          1  0  0  0   Marquis J, p          2  0  0  0   
+Dellucci D, ph        1  0  0  0   Remlinger M, p        0  0  0  0   
+Witt B, p             0  0  0  0   Lockhart K, ph        0  0  0  0   
+Brohawn T, p          0  0  0  0   Sanchez R, ph         1  0  0  0   
+Counsell C, ph        1  0  0  0   Reed S, p             0  0  0  0   
+Prinz B, p            0  0  0  0   Karsay S, p           0  0  0  0   
+Kim B, p              0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  3  9  1                        33  1  5  1
+
+Arizona          100 002 000 --  3
+Atlanta          000 010 000 --  1
+
+  Arizona              IP  H  R ER BB SO
+Batista M (W)         5.0  5  1  0  1  4
+Witt B                1.1  0  0  0  0  1
+Brohawn T             0.2  0  0  0  0  0
+Prinz B               1.0  0  0  0  0  1
+Kim B (S)             1.0  0  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Marquis J (L)         6.0  6  3  1  4  2
+Remlinger M           1.0  2  0  0  0  1
+Reed S                1.0  1  0  0  0  0
+Karsay S              1.0  0  0  0  0  1
+
+E -- Womack T, Marquis J
+LOB -- Arizona 11, Atlanta 6
+2B -- Gonzalez L, Williams M, Miller D, Martinez D
+CS -- Miller D
+SH -- Batista M
+Balk -- Marquis J
+T -- 3:04
+A -- 48367
+     Game of 8/12/2001 -- Arizona at Atlanta (D)
+
+  Arizona            AB  R  H RBI    Atlanta            AB  R  H RBI
+Counsell C, ss        5  2  2  0   Lockhart K, 2b        3  0  0  0   
+Spivey J, 2b          5  3  5  0   Giles M, ph-2b        1  0  0  0   
+Gonzalez L, lf        5  1  2  1   Martinez D, lf-rf     3  0  1  1   
+Dellucci D, lf        0  0  0  0   Jones C, 3b           3  0  0  0   
+Grace M, 1b           4  1  2  4   Jordan B, rf          3  0  1  0   
+Durazo E, 1b          0  0  0  0   Ligtenberg K, p       0  0  0  0   
+Williams M, 3b        5  1  2  3   Cabrera J, p          0  0  0  0   
+Finley S, cf          4  1  2  1   Caminiti K, ph        1  0  0  0   
+Bautista D, rf        5  0  1  0   Jones A, cf           4  0  1  0   
+Miller D, c           2  0  0  0   Helms W, 1b           4  0  0  0   
+DiFelice M, c         1  0  0  0   Bako P, c             4  0  0  0   
+Lopez A, p            4  0  0  0   DeRosa M, ss          3  1  1  0   
+Swindell G, p         0  0  0  0   Maddux G, p           1  0  0  0   
+Bell J, ph            1  0  0  0   Gilkey B, ph-lf       2  0  1  0   
+Morgan M, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  9 16  9                        32  1  5  1
+
+Arizona          103 011 030 --  9
+Atlanta          000 000 010 --  1
+
+  Arizona              IP  H  R ER BB SO
+Lopez A (W)           7.0  2  0  0  2  3
+Swindell G            1.0  2  1  1  0  1
+Morgan M              1.0  1  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (L)          6.0 12  6  6  2  7
+Ligtenberg K          2.0  4  3  3  0  2
+Cabrera J             1.0  0  0  0  0  0
+
+DP -- Atlanta 1
+LOB -- Arizona 9, Atlanta 6
+2B -- Williams M, Gilkey B, Martinez D, Jones A
+HR -- Finley S, Williams M
+SB -- Spivey J, Counsell C, Bautista D
+SF -- Grace M
+HBP -- by Maddux G (Miller D)
+WP -- Ligtenberg K
+T -- 2:40
+A -- 34702
+     Game of 8/21/2001 -- San Diego at Atlanta (N)
+
+  San Diego          AB  R  H RBI    Atlanta            AB  R  H RBI
+Jackson D, 2b         5  0  0  0   Giles M, 2b           1  0  0  0   
+Kotsay M, cf          4  0  0  0   Lockhart K, 2b        4  0  0  0   
+Klesko R, 1b          5  1  3  0   Surhoff B, lf         5  0  1  0   
+Magadan D, 3b         5  0  1  0   Jones C, 3b           4  1  2  0   
+Lankford R, lf        4  2  2  0   Jordan B, rf          5  0  0  0   
+Trammell B, rf        5  0  2  1   Caminiti K, 1b        2  0  0  0   
+Hoffman T, p          0  0  0  0   Helms W, pr-1b        1  0  0  0   
+Davis B, c            2  0  0  1   Jones A, cf           3  0  0  0   
+Jimenez D, ss         5  0  2  1   Lopez J, c            0  0  0  0   
+Jarvis K, p           1  0  0  0   Bako P, c             3  0  1  1   
+McElroy C, p          1  0  0  0   Sanchez R, ss         3  0  0  0   
+Seanez R, p           0  0  0  0   Burkett J, p          2  0  0  0   
+Henderson R, ph       0  0  0  0   Gilkey B, ph          0  0  0  0   
+Nunez J, p            0  0  0  0   Remlinger M, p        0  0  0  0   
+Darr M, rf            0  0  0  0   Smoltz J, p           0  0  0  0   
+                                   DeRosa M, ph          1  0  0  0   
+                                   Karsay S, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  3 10  3                        34  1  4  1
+
+San Diego        010 000 000 2 --  3
+Atlanta          000 001 000 0 --  1
+
+  San Diego            IP  H  R ER BB SO
+Jarvis K              5.2  3  1  1  4  5
+McElroy C             1.1  0  0  0  2  0
+Seanez R              1.0  0  0  0  0  1
+Nunez J (W)           1.0  0  0  0  0  1
+Hoffman T (S)         1.0  1  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J             7.0  5  1  1  1  7
+Remlinger M           1.0  1  0  0  0  1
+Smoltz J              1.0  1  0  0  1  2
+Karsay S (L)          1.0  3  2  2  2  0
+
+E -- Klesko R
+DP -- San Diego 1
+LOB -- San Diego 11, Atlanta 9
+2B -- Magadan D, Surhoff B, Jones C, Klesko R, Lankford R, Trammell B
+SB -- Davis B
+SH -- Jarvis K
+SF -- Davis B
+HBP -- by Smoltz J (Davis B)
+T -- 3:16
+A -- 26756
+     Game of 8/22/2001 -- San Diego at Atlanta (N)
+
+  San Diego          AB  R  H RBI    Atlanta            AB  R  H RBI
+Jackson D, 2b         4  0  0  0   Giles M, 2b           5  1  2  0   
+Kotsay M, cf          4  2  2  1   Surhoff B, lf         4  1  1  1   
+Klesko R, 1b          4  1  1  2   Jones C, 3b           4  2  2  2   
+Magadan D, 3b         3  0  0  0   Jordan B, rf          3  1  1  2   
+Henderson R, ph       1  0  0  0   Caminiti K, 1b        3  0  1  0   
+Lankford R, lf        4  0  0  0   Helms W, pr-1b        1  0  0  0   
+Trammell B, rf        3  0  0  0   Jones A, cf           4  0  1  0   
+Davis B, c            2  0  0  0   Sanchez R, ss         4  1  2  0   
+Jimenez D, ss         3  0  0  0   Bako P, c             4  0  0  0   
+Tollberg B, p         2  0  0  0   Maddux G, p           4  0  2  1   
+McElroy C, p          0  0  0  0   Remlinger M, p        0  0  0  0   
+Fikac J, p            0  0  0  0                                      
+Gwynn T, ph           1  0  0  0                                      
+Lundquist D, p        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  3  3                        36  6 12  6
+
+San Diego        002 000 001 --  3
+Atlanta          301 010 01x --  6
+
+  San Diego            IP  H  R ER BB SO
+Tollberg B (L)*       6.0 10  5  5  0  3
+McElroy C             0.2  0  0  0  1  0
+Fikac J               0.1  0  0  0  0  0
+Lundquist D           1.0  2  1  1  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)+         8.0  3  3  3  1  3
+Remlinger M (S)       1.0  0  0  0  0  2
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 9th
+
+E -- Caminiti K
+LOB -- San Diego 2, Atlanta 7
+2B -- Giles M, Caminiti K, Sanchez R
+HR -- Jordan B, Klesko R, Jones C, Surhoff B, Kotsay M
+SB -- Lankford R, Sanchez R, Giles M
+T -- 2:19
+A -- 22787
+     Game of 8/23/2001 -- San Diego at Atlanta (N)
+
+  San Diego          AB  R  H RBI    Atlanta            AB  R  H RBI
+Jackson D, 2b         3  1  0  0   Giles M, 2b           4  0  1  0   
+Kotsay M, cf          4  0  2  0   Surhoff B, lf         4  1  2  0   
+Klesko R, 1b          2  0  0  1   Jones C, 3b           1  1  0  0   
+Nevin P, 3b           4  0  1  0   Jordan B, rf          3  1  1  1   
+Lankford R, lf        4  0  0  0   Caminiti K, 1b        3  0  1  1   
+Trammell B, rf        4  0  0  0   Helms W, 1b           1  0  0  0   
+Davis B, c            4  1  1  0   Jones A, cf           3  0  1  0   
+Jimenez D, ss         3  0  1  0   Lopez J, c            1  0  0  0   
+Lawrence B, p         2  0  1  1   Sanchez R, ss         3  0  0  0   
+Henderson R, ph       1  0  0  0   Millwood K, p         2  0  0  0   
+Fikac J, p            0  0  0  0   Martinez D, ph        1  0  0  0   
+Nunez J, p            0  0  0  0   Karsay S, p           0  0  0  0   
+Seanez R, p           0  0  0  0   Smoltz J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        26  3  6  2
+
+San Diego        011 000 000 --  2
+Atlanta          200 001 00x --  3
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (L)        6.0  4  3  2  2  2
+Fikac J*              1.0  2  0  0  0  0
+Nunez J               0.1  0  0  0  1  0
+Seanez R              0.2  0  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Millwood K (W)        7.0  6  2  2  1  5
+Karsay S              1.0  0  0  0  1  2
+Smoltz J (S)          1.0  0  0  0  0  3
+  * Pitched to 1 batter in 8th
+
+E -- Lankford R
+DP -- San Diego 2
+LOB -- San Diego 5, Atlanta 5
+2B -- Surhoff B 2, Kotsay M
+SB -- Kotsay M, Jackson D, Klesko R
+SH -- Lopez J
+SF -- Klesko R, Jordan B
+HBP -- by Lawrence B (Lopez J)
+T -- 2:43
+A -- 26043
+     Game of 8/24/2001 -- Los Angeles at Atlanta (N)
+
+  Los Angeles        AB  R  H RBI    Atlanta            AB  R  H RBI
+Beltre A, 3b          4  0  0  0   Lockhart K, 2b        4  0  1  0   
+Grudzielanek M, 2b    4  0  1  0   Surhoff B, lf         4  1  1  0   
+Green S, rf           4  1  2  1   Jones C, 3b           4  0  1  0   
+Sheffield G, lf       3  1  0  0   Jordan B, rf          3  0  1  1   
+LoDuca P, 1b          4  1  3  0   Caminiti K, 1b        4  0  0  0   
+Grissom M, cf         4  1  1  3   Jones A, cf           3  0  0  0   
+Reboulet J, ss        2  0  0  0   Lopez J, c            4  0  1  0   
+Kreuter C, c          4  0  0  0   Sanchez R, ss         2  0  0  0   
+Park C, p             3  0  0  0   Glavine T, p          2  0  0  0   
+                                   Reed S, p             0  0  0  0   
+                                   Martinez D, ph        1  0  0  0   
+                                   Ligtenberg K, p       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  7  4                        31  1  5  1
+
+Los Angeles      100 300 000 --  4
+Atlanta          000 001 000 --  1
+
+  Los Angeles          IP  H  R ER BB SO
+Park C (W)            9.0  5  1  1  2  7
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (L)         7.0  6  4  4  3  2
+Reed S                1.0  1  0  0  0  1
+Ligtenberg K          1.0  0  0  0  0  1
+
+DP -- Atlanta 2
+LOB -- Los Angeles 4, Atlanta 6
+2B -- LoDuca P
+HR -- Green S, Grissom M
+SF -- Jordan B
+WP -- Park C
+T -- 2:43
+A -- 35451
+     Game of 8/25/2001 -- Los Angeles at Atlanta (N)
+
+  Los Angeles        AB  R  H RBI    Atlanta            AB  R  H RBI
+Beltre A, 3b          5  1  1  0   Giles M, 2b           4  1  2  1   
+Grudzielanek M, 2b    4  1  1  0   Surhoff B, lf         4  1  1  0   
+Green S, rf           5  2  3  3   Jones C, 3b           3  0  2  0   
+Sheffield G, lf       4  2  2  1   Helms W, 3b           1  0  0  0   
+LoDuca P, c           5  1  1  1   Jordan B, rf          3  0  0  0   
+Hansen D, 1b          3  0  0  1   Ligtenberg K, p       0  0  0  0   
+Grissom M, cf         4  0  1  2   Reed S, p             0  0  0  0   
+Cora A, ss            4  0  0  0   Karsay S, p           0  0  0  0   
+Prokopec L, p         3  1  1  0   DeRosa M, ph          1  1  1  1   
+Herges M, p           0  0  0  0   Caminiti K, 1b        5  1  1  1   
+Goodwin T, ph         1  0  0  0   Jones A, cf           4  2  2  3   
+Trombley M, p         0  0  0  0   Lopez J, c            5  1  2  1   
+Williams J, p         0  0  0  0   Sanchez R, ss         4  0  1  0   
+Shaw J, p             0  0  0  0   Marquis J, p          2  0  0  0   
+                                   Cabrera J, p          0  0  0  0   
+                                   Martinez D, ph        1  0  0  0   
+                                   Gilkey B, rf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 10  8                        38  7 12  7
+
+Los Angeles      010 060 001 --  8
+Atlanta          020 000 005 --  7
+
+  Los Angeles          IP  H  R ER BB SO
+Prokopec L (W)        6.2  9  2  2  2  3
+Herges M              0.1  0  0  0  0  1
+Trombley M            1.0  0  0  0  1  2
+Williams J            0.1  2  4  4  2  0
+Shaw J (S)            0.2  1  1  1  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Marquis J (L)*        4.0  6  7  3  2  2
+Cabrera J             3.0  3  0  0  0  2
+Ligtenberg K          1.0  0  0  0  0  1
+Reed S                0.2  1  1  1  1  0
+Karsay S              0.1  0  0  0  0  0
+  * Pitched to 6 batters in 5th
+
+E -- Caminiti K, Sanchez R, LoDuca P
+DP -- Los Angeles 1
+LOB -- Los Angeles 8, Atlanta 10
+2B -- Jones A, Sheffield G, Lopez J, DeRosa M
+HR -- Sheffield G, Green S, Jones A
+SB -- Jones C
+SF -- Hansen D
+HBP -- by Marquis J (Grudzielanek M), by Herges M (Jordan B)
+PB -- LoDuca P
+T -- 3:26
+A -- 48225
+     Game of 8/26/2001 -- Los Angeles at Atlanta (D)
+
+  Los Angeles        AB  R  H RBI    Atlanta            AB  R  H RBI
+Beltre A, 3b          5  0  1  0   Giles M, 2b           3  3  2  1   
+Grudzielanek M, 2b    5  0  1  0   Jones A, cf           5  2  3  4   
+Green S, rf           5  1  1  1   Jones C, 3b           3  0  0  0   
+Sheffield G, lf       4  1  2  0   Lockhart K, 3b        2  0  0  0   
+LoDuca P, c           4  0  1  0   Jordan B, rf          5  1  3  0   
+Karros E, 1b          4  0  1  0   Surhoff B, lf         4  1  2  0   
+Grissom M, cf         3  0  0  0   Lopez J, c            3  1  2  1   
+Cora A, ss            2  0  1  0   Helms W, 1b           4  0  2  1   
+Gagne E, p            3  0  1  0   DeRosa M, ss          4  1  1  2   
+Carrara G, p          0  0  0  0   Burkett J, p          2  0  0  0   
+Hansen D, ph          1  0  0  0   Martinez D, ph        1  0  0  0   
+Mulholland T, p       0  0  0  0   Remlinger M, p        0  0  0  0   
+                                   Karsay S, p           0  0  0  0   
+                                   Gilkey B, ph          1  0  0  0   
+                                   Smoltz J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  2  9  1                        37  9 15  9
+
+Los Angeles      000 110 000 --  2
+Atlanta          001 022 22x --  9
+
+  Los Angeles          IP  H  R ER BB SO
+Gagne E (L)           5.1  9  5  5  3  7
+Carrara G             1.2  4  2  2  0  1
+Mulholland T          1.0  2  2  2  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (W)         6.0  6  2  2  3  4
+Remlinger M           1.0  2  0  0  0  0
+Karsay S              1.0  1  0  0  0  1
+Smoltz J              1.0  0  0  0  0  1
+
+DP -- Los Angeles 2
+LOB -- Los Angeles 10, Atlanta 7
+2B -- Gagne E, Karros E, Cora A
+HR -- Giles M, Green S, Jones A 2, DeRosa M
+WP -- Burkett J, Gagne E
+T -- 2:43
+A -- 34469
+     Game of 8/27/2001 -- Los Angeles at Atlanta (D)
+
+  Los Angeles        AB  R  H RBI    Atlanta            AB  R  H RBI
+Beltre A, 3b          4  2  3  0   Giles M, 2b           3  0  1  0   
+Reboulet J, 2b        2  1  0  0   Jones A, cf           4  0  1  0   
+Green S, rf           4  0  1  0   Jones C, 3b           4  0  0  0   
+Sheffield G, lf       4  1  1  3   Jordan B, rf          4  0  2  0   
+LoDuca P, c           3  0  1  1   Surhoff B, lf         4  0  2  0   
+Karros E, 1b          4  0  0  0   Sanchez R, ss         4  1  1  0   
+Grissom M, cf         4  0  0  0   Helms W, 1b           3  1  1  0   
+Cora A, ss            4  0  1  0   Caminiti K, ph        1  0  0  0   
+Adams T, p            2  0  0  0   Bako P, c             2  0  1  2   
+Aven B, ph            1  0  0  0   Lockhart K, ph        1  0  0  0   
+Herges M, p           0  0  0  0   Maddux G, p           2  0  0  0   
+Hansen D, ph          1  0  0  0   Martinez D, ph        1  0  0  0   
+Shaw J, p             0  0  0  0   Remlinger M, p        0  0  0  0   
+                                   Cabrera J, p          0  0  0  0   
+                                   Ligtenberg K, p       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  4                        33  2  9  2
+
+Los Angeles      100 000 030 --  4
+Atlanta          000 020 000 --  2
+
+  Los Angeles          IP  H  R ER BB SO
+Adams T (W)           7.0  8  2  2  2  8
+Herges M              1.0  1  0  0  0  1
+Shaw J (S)            1.0  0  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G              7.0  5  1  1  0  7
+Remlinger M (L)       0.2  1  2  2  1  0
+Cabrera J             0.1  1  1  1  1  1
+Ligtenberg K          1.0  0  0  0  0  1
+
+E -- Giles M
+DP -- Los Angeles 2, Atlanta 1
+LOB -- Los Angeles 5, Atlanta 6
+2B -- Bako P, Surhoff B, Jordan B
+HR -- Sheffield G
+SB -- Surhoff B, Green S
+CS -- Cora A, Jones A
+SH -- Reboulet J
+T -- 2:37
+A -- 26038
+     Game of 8/28/2001 -- Montreal at Atlanta (N)
+
+  Montreal           AB  R  H RBI    Atlanta            AB  R  H RBI
+Raines T, lf          2  3  2  0   Giles M, 2b           4  0  0  0   
+Smith M, lf           1  0  0  0   Jones A, cf           3  0  0  0   
+Vidro J, 2b           4  2  3  3   Gilkey B, rf          1  0  0  0   
+Guerrero V, rf        4  0  0  0   Jones C, 3b           4  0  2  0   
+Cabrera O, ss         4  0  1  0   Jordan B, rf-cf       3  0  2  0   
+Blum G, 3b            4  1  1  1   Surhoff B, lf         3  0  0  0   
+Stevens L, 1b         4  1  2  1   Lopez J, c            3  0  1  0   
+Barrett M, c          4  0  0  0   Helms W, 1b           3  0  0  0   
+Bergeron P, cf        4  0  0  0   Sanchez R, ss         3  0  0  0   
+Vazquez J, p          4  0  0  0   Millwood K, p         2  0  0  0   
+                                   Caminiti K, ph        1  0  0  0   
+                                   Ligtenberg K, p       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7  9  5                        30  0  5  0
+
+Montreal         202 210 000 --  7
+Atlanta          000 000 000 --  0
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (W)         9.0  5  0  0  0  7
+
+  Atlanta              IP  H  R ER BB SO
+Millwood K (L)        8.0  9  7  6  1  5
+Ligtenberg K          1.0  0  0  0  0  1
+
+E -- Helms W
+DP -- Montreal 2, Atlanta 2
+LOB -- Montreal 2, Atlanta 3
+2B -- Raines T, Vidro J
+HR -- Vidro J, Blum G, Stevens L
+WP -- Millwood K 2
+T -- 2:23
+A -- 23131
+     Game of 8/29/2001 -- Montreal at Atlanta (N)
+
+  Montreal           AB  R  H RBI    Atlanta            AB  R  H RBI
+Mordecai M, 3b        4  1  1  0   Giles M, 2b           3  0  2  0   
+Vidro J, 2b           4  0  0  0   Jones A, cf           4  0  0  0   
+Guerrero V, rf        4  1  2  0   Jones C, 3b           4  0  0  0   
+Cabrera O, ss         4  1  2  2   Jordan B, rf          3  1  1  0   
+Blum G, lf            3  0  1  0   Surhoff B, lf         4  0  0  0   
+Stevens L, 1b         4  0  0  1   Lopez J, c            4  2  1  1   
+Barrett M, c          4  0  2  0   Helms W, 1b           4  1  2  3   
+Bergeron P, cf        4  0  0  0   Sanchez R, ss         3  1  1  0   
+Armas T, p            2  0  0  0   Glavine T, p          2  0  0  0   
+Raines T, ph          1  0  0  0   Karsay S, p           0  0  0  0   
+Reames B, p           0  0  0  0   Smoltz J, p           0  0  0  0   
+Eischen J, p          0  0  0  0                                      
+Cubillan D, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        31  5  7  4
+
+Montreal         300 000 000 --  3
+Atlanta          000 032 00x --  5
+
+  Montreal             IP  H  R ER BB SO
+Armas T (L)           6.0  6  5  3  2  4
+Reames B              1.0  1  0  0  0  0
+Eischen J             0.1  0  0  0  0  0
+Cubillan D            0.2  0  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (W)         7.0  6  3  3  1  6
+Karsay S              1.0  1  0  0  0  1
+Smoltz J (S)          1.0  1  0  0  0  1
+
+E -- Mordecai M, Guerrero V
+DP -- Atlanta 1
+LOB -- Montreal 5, Atlanta 5
+2B -- Lopez J, Helms W
+3B -- Cabrera O
+HR -- Helms W
+SB -- Cabrera O, Guerrero V
+SH -- Glavine T
+WP -- Armas T 2
+T -- 2:35
+A -- 22327
+     Game of 8/30/2001 -- Montreal at Atlanta (N)
+
+  Montreal           AB  R  H RBI    Atlanta            AB  R  H RBI
+Raines T, lf          3  1  1  0   Lockhart K, 2b        4  0  1  0   
+Vidro J, 2b           4  1  2  0   Jones A, cf           4  0  1  0   
+Guerrero V, rf        4  1  2  1   Jones C, 3b           4  0  0  0   
+Cabrera O, ss         3  0  0  1   Jordan B, rf          3  1  2  1   
+Blum G, 3b            1  0  0  0   Surhoff B, lf         3  1  1  1   
+Mordecai M, 3b        1  1  1  0   Lopez J, c            4  0  0  0   
+Stevens L, 1b         4  0  1  0   Helms W, 1b           4  0  1  0   
+Barrett M, c          3  0  1  1   Sanchez R, ss         3  0  1  0   
+Bergeron P, cf        3  0  0  0   Marquis J, p          2  0  0  0   
+Ohka T, p             2  0  0  0   Caminiti K, ph        1  0  0  0   
+Eischen J, p          0  0  0  0   Karsay S, p           0  0  0  0   
+Pride C, ph           1  0  0  0   Remlinger M, p        0  0  0  0   
+Reames B, p           0  0  0  0                                      
+Smith M, ph           1  0  0  0                                      
+Strickland S, p       0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  4  8  3                        32  2  7  2
+
+Montreal         000 300 001 --  4
+Atlanta          020 000 000 --  2
+
+  Montreal             IP  H  R ER BB SO
+Ohka T (W)            5.2  6  2  2  1  5
+Eischen J             0.1  0  0  0  0  1
+Reames B              2.0  1  0  0  0  3
+Strickland S (S)      1.0  0  0  0  1  1
+
+  Atlanta              IP  H  R ER BB SO
+Marquis J (L)         7.0  5  3  3  3  2
+Karsay S              1.0  2  0  0  0  0
+Remlinger M           1.0  1  1  1  0  0
+
+E -- Jones A
+DP -- Montreal 2, Atlanta 2
+LOB -- Montreal 5, Atlanta 5
+2B -- Stevens L, Mordecai M
+HR -- Jordan B, Surhoff B
+SH -- Barrett M
+SF -- Cabrera O
+HBP -- by Remlinger M (Bergeron P)
+T -- 2:24
+A -- 22725
+     Game of 8/31/2001 -- Chicago at Atlanta (N)
+
+  Chicago            AB  R  H RBI    Atlanta            AB  R  H RBI
+Young E, 2b           5  1  3  1   Giles M, 2b           3  0  0  0   
+Mueller B, 3b         3  0  1  1   Jones A, cf           5  0  0  0   
+Sosa S, rf            4  0  1  0   Jones C, 3b           3  0  1  0   
+McGriff F, 1b         3  1  1  1   Jordan B, rf          2  0  0  0   
+Mahay R, p            0  0  0  0   Gilkey B, rf          1  0  0  0   
+Tucker M, cf-lf       5  0  0  0   Surhoff B, lf         2  1  1  0   
+Gutierrez R, ss       5  2  2  1   Lopez J, c            4  1  2  2   
+Stairs M, lf          2  1  1  2   Helms W, 1b           4  0  0  0   
+Patterson C, pr-cf    1  1  0  0   Sanchez R, ss         4  0  2  0   
+Hundley T, c          4  1  2  1   Burkett J, p          1  0  0  0   
+Machado R, c          1  0  0  0   Ligtenberg K, p       0  0  0  0   
+Cruz J, p             3  0  0  0   Lockhart K, ph        1  0  0  0   
+Weathers D, p         0  0  0  0   Reed S, p             0  0  0  0   
+DeShields D, ph       1  1  1  1   Cabrera J, p          0  0  0  0   
+Van Poppel T, p       0  0  0  0   Caminiti K, ph        1  0  0  0   
+Coomer R, ph-1b       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  8 12  8                        31  2  6  2
+
+Chicago          100 202 030 --  8
+Atlanta          000 101 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Cruz J (W)            6.0  4  2  2  3  1
+Weathers D            1.0  0  0  0  0  1
+Van Poppel T          1.0  1  0  0  1  2
+Mahay R               1.0  1  0  0  1  2
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (L)         5.2  7  5  5  4  7
+Ligtenberg K          1.1  1  0  0  0  0
+Reed S                1.0  4  3  3  2  1
+Cabrera J             1.0  0  0  0  0  1
+
+LOB -- Chicago 10, Atlanta 9
+2B -- Surhoff B, Hundley T, Mueller B, Jones C
+3B -- Gutierrez R
+HR -- Stairs M, Lopez J
+SB -- Young E 2, DeShields D
+CS -- Jones C
+SH -- Burkett J
+HBP -- by Burkett J (Sosa S), by Cruz J (Jordan B)
+T -- 3:06
+A -- 37045
+     Game of 9/1/2001 -- Chicago at Atlanta (D)
+
+  Chicago            AB  R  H RBI    Atlanta            AB  R  H RBI
+Young E, 2b           4  1  2  0   Giles M, 2b           4  1  1  0   
+Mueller B, 3b         4  1  1  0   Martinez D, ph        0  0  0  0   
+Sosa S, rf            2  2  1  2   Garcia J, pr          0  0  0  0   
+McGriff F, 1b         4  0  1  0   Franco J, 1b          4  0  0  0   
+White R, lf           2  1  1  0   Jones C, 3b           4  1  2  2   
+Tucker M, lf          1  0  0  0   Jordan B, rf          4  0  2  0   
+Gutierrez R, ss       4  0  2  2   Surhoff B, lf         4  0  0  0   
+Patterson C, cf       3  0  0  1   Jones A, cf           4  1  1  0   
+Girardi J, c          4  0  1  0   Sanchez R, ss         3  0  2  0   
+Tavarez J, p          2  0  0  0   Lockhart K, ph        0  0  0  0   
+DeShields D, ph       1  0  0  0   Bako P, c             2  0  0  1   
+Fassero J, p          0  0  0  0   Lopez J, ph-c         2  0  0  0   
+Farnsworth K, p       0  0  0  0   Maddux G, p           2  0  1  0   
+Stairs M, ph          0  0  0  0   Gilkey B, ph          1  0  0  0   
+Cruz J, pr            0  0  0  0   Seanez R, p           0  0  0  0   
+Gordon T, p           0  0  0  0   Karsay S, p           0  0  0  0   
+                                   Caminiti K, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  5  9  5                        35  3  9  3
+
+Chicago          200 120 000 --  5
+Atlanta          100 110 000 --  3
+
+  Chicago              IP  H  R ER BB SO
+Tavarez J (W)         5.0  8  3  3  1  1
+Fassero J             2.0  0  0  0  0  2
+Farnsworth K          1.0  1  0  0  0  1
+Gordon T (S)          1.0  0  0  0  2  2
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (L)          7.0  9  5  5  2  6
+Seanez R              1.0  0  0  0  0  1
+Karsay S              1.0  0  0  0  1  1
+
+E -- Patterson C
+DP -- Chicago 1, Atlanta 2
+LOB -- Chicago 6, Atlanta 8
+2B -- Young E, Mueller B, Gutierrez R
+3B -- Giles M, Jordan B
+HR -- Sosa S, Jones C
+SB -- Young E
+SH -- Mueller B
+SF -- Patterson C
+HBP -- by Maddux G (White R), by Karsay S (Young E)
+T -- 2:48
+A -- 45842
+     Game of 9/2/2001 -- Chicago at Atlanta (D)
+
+  Chicago            AB  R  H RBI    Atlanta            AB  R  H RBI
+Young E, 2b           4  0  0  2   Giles M, 2b           5  0  2  0   
+Mueller B, 3b         4  0  0  0   Franco J, 1b          4  1  2  1   
+Sosa S, rf            4  0  1  0   Jones C, 3b           4  1  1  2   
+McGriff F, 1b         4  0  0  0   Jordan B, rf          3  1  1  0   
+Hundley T, c          4  2  2  2   Surhoff B, lf         4  1  1  0   
+Gutierrez R, ss       4  0  1  0   Jones A, cf           3  1  1  2   
+Tucker M, cf-lf       3  2  1  0   Lopez J, c            4  0  2  1   
+DeShields D, lf       2  0  0  0   Smoltz J, p           0  0  0  0   
+Mahay R, p            0  0  0  0   DeRosa M, ss          3  1  1  1   
+Tapani K, p           1  0  1  0   Sanchez R, ss         0  0  0  0   
+Patterson C, cf       1  0  0  0   Millwood K, p         3  1  1  0   
+                                   Bako P, c             1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  6  4                        34  7 12  7
+
+Chicago          001 110 001 --  4
+Atlanta          015 000 01x --  7
+
+  Chicago              IP  H  R ER BB SO
+Tapani K (L)          6.0 10  6  6  4  4
+Mahay R               2.0  2  1  1  1  1
+
+  Atlanta              IP  H  R ER BB SO
+Millwood K (W)        7.0  3  3  3  2  6
+Smoltz J (S)          2.0  3  1  1  0  1
+
+DP -- Chicago 1, Atlanta 1
+LOB -- Chicago 3, Atlanta 8
+2B -- Jordan B, Tucker M, Giles M
+HR -- Jones C, Jones A, Hundley T 2, DeRosa M
+SB -- Tucker M
+CS -- Giles M
+SH -- Tapani K
+WP -- Tapani K
+T -- 2:34
+A -- 45165
+     Game of 9/28/2001 -- New York at Atlanta (N)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Lawton M, rf          5  0  1  0   Giles M, 2b           3  0  0  0   
+Alfonzo E, 2b         4  0  1  0   Franco J, 1b          4  1  1  1   
+Piazza M, c           3  0  1  0   Jones C, 3b           3  0  0  0   
+Shinjo T, lf          4  1  1  0   Jordan B, rf          4  2  3  0   
+Zeile T, 1b           4  1  1  2   Surhoff B, lf         4  0  0  0   
+Payton J, cf          4  0  1  0   Jones A, cf           4  1  1  2   
+McEwing J, 3b         3  0  2  0   Lopez J, c            3  1  2  2   
+Relaford D, ph-3b     1  0  0  0   Sanchez R, ss         4  0  0  0   
+Ordonez R, ss         3  0  0  0   Glavine T, p          1  0  0  0   
+Harris L, ph          1  0  0  0   Seanez R, p           0  0  0  0   
+Trachsel S, p         3  0  0  0   Martinez D, ph        1  0  0  0   
+Roberts G, p          0  0  0  0   Karsay S, p           0  0  0  0   
+Perez T, ph           1  1  1  1   Smoltz J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3  9  3                        31  5  7  5
+
+New York         020 000 001 --  3
+Atlanta          020 002 10x --  5
+
+  New York             IP  H  R ER BB SO
+Trachsel S (L)        7.0  6  5  5  3  8
+Roberts G             1.0  1  0  0  1  3
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (W)         6.0  8  2  2  1  3
+Seanez R              1.0  0  0  0  1  2
+Karsay S              1.0  0  0  0  0  1
+Smoltz J (S)          1.0  1  1  1  0  0
+
+E -- Jones C, Zeile T
+DP -- Atlanta 1
+LOB -- New York 8, Atlanta 6
+HR -- Zeile T, Lopez J, Jones A, Franco J, Perez T
+CS -- Jones C
+T -- 3:11
+A -- 43664
+     Game of 9/29/2001 -- New York at Atlanta (D)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Lawton M, rf          4  0  1  0   Giles M, 2b           5  1  1  2   
+Alfonzo E, 2b         4  1  0  0   Franco J, 1b          4  1  2  1   
+Piazza M, c           4  1  1  3   Garcia J, pr          0  1  0  0   
+Ventura R, 3b         2  0  0  0   Jones C, lf           2  0  1  0   
+Shinjo T, lf          3  0  1  0   Aldridge C, lf        0  0  0  0   
+Zeile T, 1b           3  0  0  0   DeRosa M, ph          1  0  0  0   
+Payton J, cf          4  2  2  0   Surhoff B, lf         0  0  0  0   
+Ordonez R, ss         3  1  1  0   Helms W, ph           0  1  0  0   
+Leiter A, p           3  0  1  1   Jordan B, rf          5  1  1  4   
+McEwing J, ph         1  0  0  0   Jones A, cf           4  1  1  0   
+Benitez A, p          0  0  0  0   Caminiti K, 3b        4  0  1  0   
+Franco J, p           0  0  0  0   Lopez J, c            3  1  1  1   
+                                   Sanchez R, ss         3  0  0  0   
+                                   Martinez D, ph        1  0  0  0   
+                                   Burkett J, p          2  0  0  0   
+                                   Ligtenberg K, p       0  0  0  0   
+                                   Gilkey B, ph          0  0  0  0   
+                                   Betemit W, pr         0  0  0  0   
+                                   Perez O, p            0  0  0  0   
+                                   Lockhart K, ph        0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  5  7  4                        34  8  8  8
+
+New York         004 001 000 --  5
+Atlanta          100 000 007 --  8
+  2 outs when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Leiter A              8.0  4  1  1  3  6
+Benitez A (L)         0.2  3  5  5  2  1
+Franco J              0.0  1  2  2  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J             5.2  7  5  5  6  5
+Ligtenberg K          1.1  0  0  0  1  0
+Perez O (W)           2.0  0  0  0  0  2
+
+E -- Shinjo T, Ventura R
+DP -- New York 2, Atlanta 2
+LOB -- New York 6, Atlanta 6
+2B -- Piazza M, Giles M
+HR -- Franco J, Jordan B
+CS -- Shinjo T
+WP -- Burkett J
+PB -- Piazza M
+T -- 3:13
+A -- 46180
+     Game of 9/30/2001 -- New York at Atlanta (D)
+
+  New York           AB  R  H RBI    Atlanta            AB  R  H RBI
+Lawton M, rf          4  1  0  0   Lockhart K, 2b        5  0  0  0   
+Alfonzo E, 2b         5  3  3  3   Martinez D, 1b        4  1  0  0   
+Piazza M, c           5  2  4  1   Jones C, 3b           4  2  3  0   
+Escobar A, pr         0  0  0  0   Jordan B, rf          4  2  2  4   
+Wilson V, c           0  0  0  0   Surhoff B, lf         4  1  2  1   
+Ventura R, 3b         4  1  1  1   Jones A, cf           4  0  0  0   
+Shinjo T, lf          5  1  1  1   Lopez J, c            3  0  0  0   
+Zeile T, 1b           4  1  0  0   Bako P, c             1  0  1  0   
+Payton J, cf          4  0  1  0   Sanchez R, ss         4  0  1  1   
+Relaford D, ss        3  0  0  1   Millwood K, p         1  0  0  0   
+Ordonez R, ss         0  0  0  0   Caminiti K, ph        1  0  0  0   
+Appier K, p           2  0  1  0   Ligtenberg K, p       0  0  0  0   
+Perez T, ph           1  0  0  0   Seanez R, p           0  0  0  0   
+Riggan J, p           0  0  0  0   Betemit W, ph         0  0  0  0   
+Harris L, ph          0  0  0  0   Garcia J, pr          0  0  0  0   
+McEwing J, ph         0  0  0  1   Karsay S, p           0  0  0  0   
+Roberts G, p          0  0  0  0   Reed S, p             0  0  0  0   
+Gonzalez D, p         0  0  0  0   Perez O, p            0  0  0  0   
+Benitez A, p          0  0  0  0   Spooneybarger T, p    0  0  0  0   
+                                   Franco J, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  9 11  8                        36  6  9  6
+
+New York         301 000 050 --  9
+Atlanta          000 012 030 --  6
+
+  New York             IP  H  R ER BB SO
+Appier K (W)          6.0  6  3  3  0  4
+Riggan J              1.0  0  0  0  1  1
+Roberts G*            0.0  2  3  3  1  0
+Gonzalez D            1.0  1  0  0  0  1
+Benitez A (S)         1.0  0  0  0  0  3
+
+  Atlanta              IP  H  R ER BB SO
+Millwood K (L)        5.0  4  4  4  1  4
+Ligtenberg K          1.0  1  0  0  0  1
+Seanez R              1.0  1  0  0  0  1
+Karsay S+             0.0  4  4  3  0  0
+Reed S                0.1  0  1  0  1  0
+Perez O               0.2  0  0  0  0  0
+Spooneybarger T       1.0  1  0  0  1  1
+  * Pitched to 3 batters in 8th
+  + Pitched to 4 batters in 8th
+
+E -- Piazza M, Lopez J
+LOB -- New York 6, Atlanta 5
+2B -- Jones C, Jordan B, Piazza M
+HR -- Alfonzo E 2, Piazza M, Jordan B
+SB -- Surhoff B, Payton J
+SF -- Relaford D, McEwing J
+T -- 3:34
+A -- 42677
+     Game of 10/2/2001 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Rollins J, ss         4  0  1  0   Giles M, 2b           3  0  1  1   
+Anderson M, 2b        4  1  2  0   Franco J, 1b          4  0  0  0   
+Abreu B, rf           4  1  2  2   Jones C, lf           4  0  1  0   
+Rolen S, 3b           3  1  1  1   Jordan B, rf          4  0  0  0   
+Lee T, 1b             4  0  0  0   Jones A, cf           4  0  0  0   
+Glanville D, cf       4  0  1  0   Caminiti K, 3b        3  0  0  0   
+Burrell P, lf         3  0  0  0   Sanchez R, ss         3  1  0  0   
+Estrada J, c          3  0  0  0   Bako P, c             3  0  1  0   
+Wolf R, p             3  0  0  0   Maddux G, p           1  0  0  0   
+Mesa J, p             0  0  0  0   Gilkey B, ph          1  0  0  0   
+                                   Smoltz J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  7  3                        30  1  3  1
+
+Philadelphia     000 200 001 --  3
+Atlanta          000 010 000 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Wolf R (W)            8.0  3  1  0  1  5
+Mesa J (S)            1.0  0  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (L)          8.0  6  2  2  0  5
+Smoltz J              1.0  1  1  1  0  1
+
+E -- Rolen S
+DP -- Philadelphia 1, Atlanta 1
+LOB -- Philadelphia 3, Atlanta 4
+HR -- Abreu B, Rolen S
+CS -- Rollins J
+HBP -- by Wolf R (Maddux G), by Maddux G (Rolen S)
+T -- 2:16
+A -- 30739
+     Game of 10/3/2001 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Rollins J, ss         5  0  2  0   Giles M, 2b           4  2  1  1   
+Anderson M, 2b        5  0  0  0   Franco J, 1b          5  1  2  2   
+Abreu B, rf           4  1  1  0   Jones C, 3b           4  1  1  0   
+Rolen S, 3b           4  1  2  1   Jordan B, rf          4  1  2  0   
+Lee T, 1b             4  0  2  1   Surhoff B, lf         3  1  0  0   
+Glanville D, cf       4  0  1  0   Jones A, cf           4  1  3  3   
+Burrell P, lf         3  1  2  1   Sanchez R, ss         4  0  1  1   
+Estrada J, c          3  0  0  0   Bako P, c             4  1  2  1   
+Figueroa N, p         0  0  0  0   Glavine T, p          2  0  1  0   
+Politte C, p          0  0  0  0   Seanez R, p           0  0  0  0   
+Perez T, ph           1  0  1  0   Karsay S, p           1  0  0  0   
+Person R, p           2  0  0  0   Smoltz J, p           0  0  0  0   
+Santiago J, p         0  0  0  0                                      
+Pratt T, c            1  0  0  0                                      
+Hunter B, ph          1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  3 12  3                        35  8 13  8
+
+Philadelphia     000 012 000 --  3
+Atlanta          220 040 00x --  8
+
+  Philadelphia         IP  H  R ER BB SO
+Person R (L)          4.1  9  7  7  2  4
+Santiago J            0.2  2  1  1  0  1
+Figueroa N            2.0  1  0  0  0  2
+Politte C             1.0  1  0  0  0  2
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (W)         6.0  8  3  2  2  5
+Seanez R              1.0  0  0  0  0  3
+Karsay S*             1.0  3  0  0  0  1
+Smoltz J              1.0  1  0  0  0  1
+  * Pitched to 2 batters in 9th
+
+E -- Giles M, Surhoff B
+DP -- Philadelphia 1, Atlanta 1
+LOB -- Philadelphia 9, Atlanta 6
+2B -- Rollins J, Franco J, Jordan B, Sanchez R
+HR -- Giles M, Burrell P
+CS -- Glanville D
+SH -- Glavine T
+T -- 2:47
+A -- 27431
+     Game of 10/4/2001 -- Philadelphia at Atlanta (N)
+
+  Philadelphia       AB  R  H RBI    Atlanta            AB  R  H RBI
+Rollins J, ss         4  0  0  0   Giles M, 2b           3  1  1  1   
+Anderson M, 2b        4  1  2  0   Franco J, 1b          4  1  1  0   
+Abreu B, rf           4  1  2  1   Jones C, 3b           2  2  2  2   
+Rolen S, 3b           3  0  1  1   Jordan B, rf          4  1  2  2   
+Lee T, 1b             4  0  0  0   Surhoff B, lf         4  0  1  1   
+Glanville D, cf       4  0  0  0   Jones A, cf           4  0  1  0   
+Burrell P, lf         4  0  1  0   Sanchez R, ss         4  0  0  0   
+Pratt T, c            2  0  1  0   Bako P, c             3  1  1  0   
+Taylor R, pr          0  0  0  0   Burkett J, p          1  0  0  0   
+Estrada J, c          1  0  0  0   Remlinger M, p        0  0  0  0   
+Duckworth B, p        2  0  0  0   Lockhart K, ph        1  0  0  0   
+Cook D, p             0  0  0  0   Seanez R, p           0  0  0  0   
+Bottalico R, p        0  0  0  0   Karsay S, p           0  0  0  0   
+Perez T, ph           1  0  1  0   Smoltz J, p           0  0  0  0   
+Cormier R, p          0  0  0  0                                      
+Santiago J, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        30  6  9  6
+
+Philadelphia     100 001 000 --  2
+Atlanta          310 000 20x --  6
+
+  Philadelphia         IP  H  R ER BB SO
+Duckworth B (L)       4.1  6  4  4  3  2
+Cook D                0.2  0  0  0  0  0
+Bottalico R           1.0  0  0  0  1  1
+Cormier R             1.0  2  2  2  0  1
+Santiago J            1.0  1  0  0  0  1
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (W)         5.2  6  2  2  0  4
+Remlinger M           0.1  0  0  0  0  0
+Seanez R              1.0  1  0  0  1  0
+Karsay S              1.0  1  0  0  0  1
+Smoltz J              1.0  0  0  0  0  1
+
+DP -- Philadelphia 2, Atlanta 2
+LOB -- Philadelphia 6, Atlanta 5
+2B -- Abreu B 2, Jones C, Burrell P, Bako P
+HR -- Jordan B
+SH -- Burkett J
+HBP -- by Burkett J (Rolen S)
+T -- 2:48
+A -- 32283
+     Game of 10/5/2001 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Berg D, 2b            4  0  2  0   Giles M, 2b           3  3  1  4   
+Lee D, 1b             3  1  1  0   Franco J, 1b          5  3  3  2   
+Floyd C, lf           3  1  1  0   Jones C, 3b           5  3  2  5   
+Darensbourg V, p      0  0  0  0   Jordan B, rf          5  2  2  1   
+Wilson P, cf          4  1  2  3   Surhoff B, lf         2  1  1  1   
+Lowell M, 3b          3  0  0  0   Jones A, cf           2  2  0  1   
+Millar K, rf          4  0  0  0   Sanchez R, ss         5  2  2  3   
+Johnson C, c          2  0  0  0   Bako P, c             3  3  2  1   
+Castro R, c           2  0  0  0   Millwood K, p         2  1  0  1   
+Gonzalez A, ss        3  0  0  0   Caminiti K, ph        1  0  0  0   
+Dempster R, p         0  0  0  0   Ligtenberg K, p       0  0  0  0   
+Baez B, p             1  0  0  0   Martinez D, ph        1  0  1  1   
+Acevedo J, p          0  0  0  0   Reed S, p             0  0  0  0   
+Gulan M, ph           1  0  0  0                                      
+Neal B, p             0  0  0  0                                      
+Bones R, p            0  0  0  0                                      
+Mabry J, ph-p-lf      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  6  3                        34 20 14 20
+
+Florida          300 000 000 --  3
+Atlanta          (10)05 000 05x -- 20
+
+  Florida              IP  H  R ER BB SO
+Dempster R (L)        0.2  1  7  7  6  1
+Baez B                1.2  7  8  8  2  3
+Acevedo J             1.2  1  0  0  1  0
+Neal B                2.0  1  0  0  0  2
+Bones R               1.0  0  0  0  0  1
+Mabry J               0.1  3  5  5  3  0
+Darensbourg V         0.2  1  0  0  0  0
+
+  Atlanta              IP  H  R ER BB SO
+Millwood K (W)        6.0  4  3  3  3  2
+Ligtenberg K          2.0  2  0  0  0  2
+Reed S                1.0  0  0  0  0  1
+
+DP -- Florida 2, Atlanta 2
+LOB -- Florida 4, Atlanta 4
+2B -- Jordan B, Bako P
+3B -- Jones C
+HR -- Wilson P, Jones C, Giles M
+SF -- Surhoff B, Jones A
+WP -- Dempster R, Acevedo J
+T -- 3:04
+A -- 29299
+     Game of 10/6/2001 -- Florida at Atlanta (N)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Berg D, 2b            4  0  1  0   DeRosa M, ss-lf       5  2  0  0   
+Lee D, 1b             4  1  1  0   Lockhart K, 2b        3  1  1  1   
+Floyd C, lf           3  2  1  1   Caminiti K, 3b        4  0  1  0   
+Wilson P, cf          4  0  2  1   Surhoff B, lf         4  0  1  0   
+Lowell M, 3b          3  0  1  1   Garcia J, pr-ss       0  0  0  0   
+Millar K, rf          4  0  1  0   Gilkey B, rf          3  1  2  2   
+Johnson C, c          4  0  0  0   Helms W, 1b           4  1  2  3   
+Fox A, ss             3  0  1  0   Perez E, c            4  0  1  0   
+Beckett J, p          1  0  0  0   Spooneybarger T, p    0  0  0  0   
+Gulan M, ph           1  0  0  0   Aldridge C, cf        4  0  0  0   
+Nunez V, p            0  0  0  0   Marquis J, p          2  2  0  0   
+Mabry J, ph           1  0  0  0   Torrealba S, ph-c     1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  8  3                        34  7  9  6
+
+Florida          000 001 020 --  3
+Atlanta          005 000 20x --  7
+
+  Florida              IP  H  R ER BB SO
+Beckett J (L)         6.0  5  5  0  2  7
+Nunez V               2.0  4  2  0  1  1
+
+  Atlanta              IP  H  R ER BB SO
+Marquis J (W)         8.0  7  3  3  2  2
+Spooneybarger T       1.0  1  0  0  0  2
+
+E -- Millar K, Berg D 2
+DP -- Florida 1, Atlanta 2
+LOB -- Florida 6, Atlanta 6
+2B -- Lockhart K
+3B -- Floyd C
+HR -- Helms W
+SH -- Beckett J
+HBP -- by Marquis J (Lowell M)
+Balk -- Marquis J
+T -- 2:18
+A -- 31826
+     Game of 10/7/2001 -- Florida at Atlanta (D)
+
+  Florida            AB  R  H RBI    Atlanta            AB  R  H RBI
+Berg D, 2b            4  0  0  0   Giles M, 2b           3  0  0  0   
+Lee D, 1b             4  1  0  0   Cabrera J, p          0  0  0  0   
+Floyd C, lf           5  1  1  0   Betemit W, ph         1  0  0  0   
+Wilson P, cf          0  1  0  0   Spooneybarger T, p    0  0  0  0   
+Owens E, cf           3  0  1  0   Aldridge C, rf        0  0  0  0   
+Lowell M, 3b          5  0  2  3   Franco J, 1b          2  0  1  0   
+Millar K, rf          3  0  0  0   Helms W, 1b           2  1  1  1   
+Fox A, ss             4  1  1  0   Jones C, 3b           2  0  1  0   
+Redmond M, c          3  0  1  0   Caminiti K, 3b        2  0  0  0   
+Burnett A, p          2  0  0  0   Jordan B, rf          2  0  0  0   
+Mabry J, ph           0  0  0  1   Martinez D, rf        2  1  1  0   
+Darensbourg V, p      0  0  0  0   Sobkowiak S, p        0  0  0  0   
+Looper B, p           0  0  0  0   Surhoff B, lf         2  0  0  0   
+                                   DeRosa M, ss          1  0  0  0   
+                                   Jones A, cf           3  0  1  1   
+                                   Sanchez R, ss         2  0  0  0   
+                                   Ligtenberg K, p       0  0  0  0   
+                                   Lockhart K, 2b        2  0  0  0   
+                                   Perez E, c            3  0  2  0   
+                                   Garcia J, pr          0  0  0  0   
+                                   Torrealba S, c        1  0  0  0   
+                                   Moss D, p             0  0  0  0   
+                                   Gilkey B, lf          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  6  4                        32  2  7  2
+
+Florida          200 000 011 --  4
+Atlanta          000 011 000 --  2
+
+  Florida              IP  H  R ER BB SO
+Burnett A (W)         7.0  6  2  2  1  8
+Darensbourg V         1.0  0  0  0  0  1
+Looper B (S)          1.0  1  0  0  1  0
+
+  Atlanta              IP  H  R ER BB SO
+Moss D                4.0  1  2  2  6  3
+Ligtenberg K          1.0  0  0  0  0  0
+Cabrera J             2.0  1  0  0  1  1
+Spooneybarger T (L)   1.0  2  1  1  0  0
+Sobkowiak S           1.0  2  1  1  0  0
+
+E -- Moss D, Lowell M, Caminiti K
+DP -- Florida 1
+LOB -- Florida 11, Atlanta 6
+2B -- Lowell M, Martinez D, Floyd C
+HR -- Helms W
+SB -- Wilson P 2
+SH -- Burnett A
+SF -- Jones A, Mabry J
+T -- 2:53
+A -- 26102
+

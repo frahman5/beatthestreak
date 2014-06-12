@@ -1,0 +1,3320 @@
+     Game of 4/1/1996 -- Boston at Texas (D)
+
+  Boston             AB  R  H RBI    Texas              AB  R  H RBI
+Cordero W, 2b         4  1  2  0   Hamilton D, cf        5  0  0  0   
+Valentin J, ss        4  0  0  0   Rodriguez I, c        4  2  0  0   
+Vaughn M, 1b          4  0  3  2   Clark W, 1b           3  1  2  1   
+Canseco J, dh         4  0  1  0   Gonzalez J, rf        4  0  1  1   
+Stanley M, c          4  0  0  0   Tettleton M, dh       3  0  0  0   
+Greenwell M, lf       4  0  0  0   Greer R, lf           2  1  0  0   
+Naehring T, 3b        4  1  1  1   Worthington C, 3b     2  1  1  2   
+O'Leary T, rf         4  0  0  0   McLemore M, 2b        2  0  1  1   
+Hosey D, cf           3  1  1  0   Elster K, ss          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        28  5  5  5
+
+Boston           000 001 011 --  3
+Texas            110 020 01x --  5
+
+  Boston               IP  H  R ER BB SO
+Clemens R (L)         5.0  3  4  2  6  5
+Maddux M*             2.0  1  1  1  2  1
+Suppan J              1.0  1  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Hill K (W)            8.2  8  3  3  0  7
+Vosberg E (S)         0.1  0  0  0  0  0
+  * Pitched to 2 batters in 8th
+
+E -- Greenwell M, Valentin J
+DP -- Boston 1
+LOB -- Boston 5, Texas 9
+2B -- Clark W, Gonzalez J, Cordero W
+HR -- Worthington C, Naehring T
+SH -- Elster K
+SF -- Worthington C
+T -- 2:41
+A -- 40484
+     Game of 4/3/1996 -- Boston at Texas (N)
+
+  Boston             AB  R  H RBI    Texas              AB  R  H RBI
+Cordero W, 2b         4  0  0  0   Hamilton D, cf        5  1  1  0   
+Valentin J, ss        4  0  1  0   Rodriguez I, c        5  2  4  1   
+Vaughn M, 1b          4  0  0  0   Clark W, 1b           4  1  1  0   
+Canseco J, dh         4  0  0  0   Gonzalez J, rf        2  2  1  2   
+Stanley M, c          4  0  0  0   Tettleton M, dh       5  1  3  2   
+Greenwell M, lf       3  1  1  0   Greer R, lf           2  0  0  0   
+Naehring T, 3b        2  1  0  0   Worthington C, 3b     3  0  0  1   
+O'Leary T, rf         2  0  1  0   McLemore M, 2b        2  0  0  1   
+Hosey D, cf           3  0  1  1   Elster K, ss          5  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  1                        33  7 11  7
+
+Boston           000 020 000 --  2
+Texas            300 400 00x --  7
+
+  Boston               IP  H  R ER BB SO
+Gordon T (L)          3.1  7  6  6  5  1
+Moyer J               3.2  4  1  1  5  3
+Pennington B          1.0  0  0  0  1  1
+
+  Texas                IP  H  R ER BB SO
+Pavlik R (W)          6.0  4  2  2  2  8
+Cook D                1.0  0  0  0  0  0
+Heredia G             2.0  0  0  0  0  1
+
+E -- Rodriguez I
+DP -- Texas 1
+LOB -- Boston 3, Texas 14
+2B -- Rodriguez I
+3B -- Gonzalez J
+SB -- Valentin J, Tettleton M
+SF -- Worthington C
+PB -- Rodriguez I
+T -- 2:55
+A -- 24483
+     Game of 4/4/1996 -- Boston at Texas (N)
+
+  Boston             AB  R  H RBI    Texas              AB  R  H RBI
+O'Leary T, rf         4  1  1  0   Hamilton D, cf        4  2  2  1   
+Valentin J, ss        3  0  0  0   Rodriguez I, c        4  2  2  0   
+Vaughn M, 1b          4  0  0  0   Stillwell K, 2b       1  0  0  0   
+Canseco J, dh         3  0  1  1   Clark W, 1b           3  2  2  2   
+Cordero W, 2b         4  0  1  0   Buford D, rf          1  0  1  0   
+Greenwell M, lf       4  0  1  0   Gonzalez J, rf        4  1  2  4   
+Stanley M, c          2  0  1  0   Valle D, c            0  0  0  0   
+Delgado A, c          1  0  0  0   Tettleton M, dh       3  1  0  0   
+Naehring T, 3b        3  0  0  0   Palmer D, 3b          5  2  0  0   
+Hosey D, cf           3  1  1  0   Greer R, lf           5  1  3  2   
+                                   McLemore M, 2b        3  2  3  1   
+                                   Worthington C, 1b     0  0  0  0   
+                                   Elster K, ss          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  1                        37 13 16 10
+
+Boston           001 000 010 --  2
+Texas            022 140 40x -- 13
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (L)       4.2  9  7  5  5  4
+Doherty J             1.1  1  2  0  2  1
+Stanton M             0.1  4  4  4  1  0
+Suppan J              0.2  1  0  0  1  0
+Slocumb H             1.0  1  0  0  1  1
+
+  Texas                IP  H  R ER BB SO
+Gross K (W)           7.0  4  1  1  4  4
+Whiteside M           1.0  2  1  1  0  0
+Brandenburg M         1.0  0  0  0  0  1
+
+E -- Cordero W 3, Stanley M
+DP -- Boston 1, Texas 1
+LOB -- Boston 6, Texas 14
+2B -- Stanley M, Greer R, Canseco J
+3B -- Hosey D
+HR -- Gonzalez J
+SB -- Rodriguez I, McLemore M
+CS -- Canseco J, Valentin J
+SH -- Elster K
+SF -- Hamilton D, McLemore M
+HBP -- by Doherty J (Gonzalez J)
+WP -- Gross K, Slocumb H
+PB -- Stanley M
+T -- 3:01
+A -- 18086
+     Game of 4/6/1996 -- New York at Texas (N)
+
+  New York           AB  R  H RBI    Texas              AB  R  H RBI
+Boggs W, 3b           3  0  2  0   Hamilton D, cf        4  1  2  0   
+Duncan M, 2b          4  0  1  1   Rodriguez I, c        3  0  0  0   
+O'Neill P, rf         4  1  2  0   Clark W, 1b           3  0  0  0   
+Martinez T, 1b        3  0  1  0   Gonzalez J, rf        4  1  2  1   
+Williams B, cf        3  0  0  1   Tettleton M, dh       2  1  0  0   
+James D, dh           3  0  0  0   Frazier L, pr         0  0  0  0   
+Leyritz J, ph         1  0  0  0   Palmer D, 3b          4  1  1  1   
+Williams G, lf        2  0  0  0   Greer R, lf           4  0  2  0   
+Sierra R, ph          1  0  0  0   McLemore M, 2b        3  0  2  1   
+Girardi J, c          4  0  1  0   Elster K, ss          2  0  0  1   
+Jeter D, ss           2  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  7  2                        29  4  9  4
+
+New York         001 001 000 --  2
+Texas            030 010 00x --  4
+
+  New York             IP  H  R ER BB SO
+Key J (L)             5.0  8  4  4  3  4
+Rivera M              2.0  1  0  0  0  2
+Wickman B             1.0  0  0  0  1  2
+
+  Texas                IP  H  R ER BB SO
+Witt B (W)*           6.0  6  2  2  3  5
+Heredia G             0.2  0  0  0  1  0
+Cook D                1.1  0  0  0  1  2
+Henneman M (S)        1.0  1  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+DP -- New York 2, Texas 2
+LOB -- New York 7, Texas 6
+3B -- Hamilton D
+SB -- Williams B, Frazier L
+SF -- Elster K, Williams B
+WP -- Key J, Henneman M 2
+T -- 2:48
+A -- 35510
+     Game of 4/7/1996, game 1 -- New York at Texas (D)
+
+  New York           AB  R  H RBI    Texas              AB  R  H RBI
+Boggs W, 3b           5  0  1  0   Hamilton D, cf        4  2  1  0   
+Williams B, cf        3  0  0  0   Rodriguez I, c        5  0  2  0   
+O'Neill P, rf         4  0  2  0   Clark W, 1b           4  1  2  2   
+Sierra R, dh          4  1  1  0   Gonzalez J, rf        1  0  0  0   
+Martinez T, 1b        4  0  0  0   Newson W, rf          1  2  0  0   
+Leyritz J, c          5  0  1  1   Tettleton M, dh       3  1  1  3   
+James D, lf           3  1  1  0   Palmer D, 3b          4  0  0  0   
+Duncan M, 2b          4  0  1  0   Greer R, lf           4  0  1  1   
+Jeter D, ss           4  0  1  0   McLemore M, 2b        3  0  0  0   
+                                   Elster K, ss          3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     36  2  8  1                        32  7  8  7
+
+New York         000 101 000 --  2
+Texas            110 030 11x --  7
+
+  New York             IP  H  R ER BB SO
+Gooden D (L)          5.0  5  5  5  4  7
+Hutton M              3.0  3  2  1  2  4
+
+  Texas                IP  H  R ER BB SO
+Hill K (W)            5.1  6  2  2  4  4
+Cook D                0.2  0  0  0  1  1
+Heredia G             2.1  2  0  0  1  2
+Vosberg E             0.2  0  0  0  0  1
+
+E -- Jeter D, McLemore M, Hutton M
+DP -- New York 1
+LOB -- New York 13, Texas 9
+2B -- Clark W, Leyritz J
+HR -- Elster K, Tettleton M
+SB -- Rodriguez I, Jeter D, James D, Newson W, Greer R, Hamilton D
+SF -- Clark W
+HBP -- by Gooden D (Gonzalez J)
+PB -- Leyritz J
+T -- 2:57
+A -- 0
+     Game of 4/7/1996, game 2 -- New York at Texas (N)
+
+  New York           AB  R  H RBI    Texas              AB  R  H RBI
+Boggs W, 3b           4  0  1  0   Hamilton D, cf        4  1  2  0   
+Girardi J, c          4  0  1  0   McLemore M, 2b        3  0  1  0   
+O'Neill P, rf         4  0  0  0   Clark W, 1b           3  0  0  0   
+Sierra R, dh          3  0  0  0   Tettleton M, dh       3  1  1  0   
+Martinez T, 1b        4  0  1  0   Newson W, rf          3  2  2  2   
+Williams B, cf        4  1  2  1   Palmer D, 3b          4  0  1  1   
+James D, lf           3  0  1  0   Greer R, lf           4  0  1  1   
+Jeter D, ss           2  0  0  0   Stillwell K, ss       4  0  0  0   
+Fox A, 2b             3  0  0  0   Elster K, ss          0  0  0  0   
+                                   Valle D, c            2  0  0  0   
+                                   Rodriguez I, ph-c     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  6  1                        31  4  8  4
+
+New York         010 000 000 --  1
+Texas            010 000 03x --  4
+
+  New York             IP  H  R ER BB SO
+Cone D                7.0  4  1  1  2  7
+Howe S (L)            0.2  2  3  3  1  0
+Nelson J              0.1  2  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Pavlik R (W)          8.0  5  1  1  1  6
+Vosberg E (S)         1.0  1  0  0  0  0
+
+LOB -- New York 5, Texas 7
+2B -- Girardi J, Tettleton M, Martinez T
+HR -- Williams B, Newson W
+SB -- Hamilton D
+SH -- McLemore M
+HBP -- by Pavlik R (Jeter D)
+WP -- Cone D
+T -- 2:52
+A -- 36248
+     Game of 4/15/1996 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Young E, cf           2  1  0  0   Hamilton D, cf        4  0  0  0   
+Battle A, lf          5  0  0  0   Buford D, rf          4  1  1  0   
+Gates B, 2b           4  0  0  1   Clark W, 1b           4  0  1  0   
+Berroa G, rf          5  1  2  1   Tettleton M, dh       3  2  1  1   
+Stairs M, rf          0  0  0  0   Rodriguez I, c        4  0  2  2   
+Munoz P, dh           5  1  2  1   Greer R, lf           2  0  0  0   
+Steinbach T, c        4  2  1  1   Worthington C, 3b     2  0  0  0   
+Giambi J, 1b          5  2  2  1   McLemore M, 2b        4  0  0  0   
+Brosius S, 3b         5  1  3  1   Elster K, ss          4  0  1  0   
+Bordick M, ss         4  0  2  2                                      
+                     -- -- -- --                        -- -- -- --
+                     39  8 12  8                        31  3  6  3
+
+Oakland          120 000 500 --  8
+Texas            201 000 000 --  3
+
+  Oakland              IP  H  R ER BB SO
+Wojciechowski S       1.2  3  2  2  3  0
+Small A               3.2  2  1  1  1  3
+Mohler M (W)          3.2  1  0  0  2  5
+
+  Texas                IP  H  R ER BB SO
+Oliver D              5.1  6  3  3  3  4
+Heredia G (L)         1.1  5  5  5  2  1
+Cook D                2.1  1  0  0  0  3
+
+E -- Elster K, Gates B
+DP -- Oakland 1
+LOB -- Oakland 10, Texas 7
+2B -- Berroa G, Rodriguez I 2, Bordick M, Munoz P 2
+HR -- Steinbach T, Tettleton M
+SB -- Buford D
+CS -- Hamilton D
+HBP -- by Oliver D (Gates B)
+WP -- Mohler M 2
+T -- 3:12
+A -- 19312
+     Game of 4/16/1996 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Battle A, cf          5  1  2  2   Hamilton D, cf        4  1  3  0   
+Gates B, 2b           5  0  0  0   Buford D, rf          4  1  1  0   
+Giambi J, 1b          2  0  1  0   Clark W, 1b           4  1  1  1   
+Lovullo T, ph-1b      0  0  0  0   Tettleton M, dh       3  1  2  0   
+Plantier P, lf        3  0  0  0   Rodriguez I, c        3  1  1  1   
+Stairs M, rf          3  0  0  0   Greer R, lf           4  0  2  2   
+Steinbach T, c        3  0  1  0   Worthington C, 3b     3  0  1  1   
+Williams G, dh        3  0  0  0   McLemore M, 2b        3  0  0  0   
+Wojciechowski S, pr   0  0  0  0   Elster K, ss          4  0  1  0   
+Brosius S, 3b         4  2  2  0                                      
+Bordick M, ss         2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  3  6  2                        32  5 12  5
+
+Oakland          000 020 100 --  3
+Texas            301 010 00x --  5
+
+  Oakland              IP  H  R ER BB SO
+Johns D (L)           4.1  8  5  5  5  2
+Wengert D             2.2  3  0  0  1  1
+Groom B               1.0  1  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Witt B (W)*           6.0  6  3  2  5  1
+Helling R             1.1  0  0  0  3  0
+Brandenburg M         0.2  0  0  0  0  0
+Henneman M (S)        1.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Brosius S, Rodriguez I
+DP -- Oakland 1, Texas 3
+LOB -- Oakland 8, Texas 9
+2B -- Greer R, Tettleton M 2, Brosius S, Clark W, Steinbach T
+HR -- Battle A
+SB -- Buford D, Greer R, Rodriguez I
+CS -- Hamilton D
+WP -- Helling R
+T -- 2:59
+A -- 20948
+     Game of 4/17/1996 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Young E, cf           4  1  2  0   Hamilton D, cf        4  3  1  1   
+Gates B, 2b           3  0  0  0   Rodriguez I, c        5  2  3  3   
+Bournigal R, ph-2b    1  0  0  0   Clark W, 1b           3  0  1  2   
+Giambi J, 1b          2  0  1  0   Valle D, 1b           1  0  0  0   
+Lovullo T, ph-1b      1  0  0  0   Gonzalez J, rf        4  0  1  2   
+Berroa G, dh          3  0  1  1   Newson W, ph-rf       0  0  0  0   
+Munoz P, rf           4  0  0  0   Tettleton M, dh       4  1  0  0   
+Steinbach T, c        3  0  0  0   Palmer D, 3b          5  1  3  2   
+Williams G, c         1  0  0  0   Greer R, lf           3  2  1  0   
+Plantier P, lf        3  0  0  0   Stillwell K, 2b       4  2  2  0   
+Brosius S, 3b         2  0  0  0   Elster K, ss          2  1  1  2   
+Bordick M, ss         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        35 12 13 12
+
+Oakland          000 001 000 --  1
+Texas            250 001 40x -- 12
+
+  Oakland              IP  H  R ER BB SO
+Reyes C (L)           5.1 11  8  8  2  3
+Briscoe J             1.2  2  4  4  2  0
+Corsi J               1.0  0  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Hill K (W)            9.0  4  1  1  3  9
+
+E -- Gates B
+DP -- Oakland 1
+LOB -- Oakland 6, Texas 6
+2B -- Elster K, Rodriguez I 2, Palmer D, Giambi J, Stillwell K
+HR -- Palmer D
+SF -- Clark W, Berroa G, Elster K
+T -- 2:22
+A -- 24120
+     Game of 4/19/1996 -- Baltimore at Texas (N)
+
+  Baltimore          AB  R  H RBI    Texas              AB  R  H RBI
+Anderson B, cf        3  1  1  1   Hamilton D, cf        6  4  4  0   
+Ripken B, ph          1  0  1  0   Rodriguez I, c        2  1  1  1   
+Alomar R, 2b          4  0  1  1   Valle D, ph-c         3  2  1  1   
+Huson J, ph           0  0  0  0   Clark W, 1b           3  3  2  3   
+Palmeiro R, 1b        4  2  2  0   Buford D, pr-rf       0  1  0  0   
+Zaun G, ph            1  0  0  0   Gonzalez J, rf        5  2  2  6   
+Bonilla B, dh         5  1  2  0   Worthington C, pr-1b  0  1  0  0   
+Ripken C, ss          3  1  1  1   Tettleton M, dh       2  3  0  2   
+Surhoff B, 3b         3  1  0  1   Palmer D, 3b          4  3  2  5   
+Devereaux M, lf-rf    4  1  1  2   Stillwell K, pr-3b    0  1  0  0   
+Hoiles C, c           4  0  0  0   Greer R, lf           5  1  3  2   
+Tarasco T, rf         3  0  1  0   McLemore M, 2b        2  2  1  1   
+Hammonds J, ph-lf     1  0  0  0   Elster K, ss          6  2  3  5   
+                     -- -- -- --                        -- -- -- --
+                     36  7 10  6                        38 26 19 26
+
+Baltimore        100 500 100 --  7
+Texas            510 030 1(16)x -- 26
+
+  Baltimore            IP  H  R ER BB SO
+Mercker K (L)         4.1  7  8  8  2  2
+Myers J               1.0  3  1  1  1  0
+McDowell R            1.2  1  1  1  2  0
+Benitez A*            0.0  1  3  3  2  0
+Orosco J              0.1  6  8  8  2  0
+Alexander M           0.2  1  5  5  4  0
+
+  Texas                IP  H  R ER BB SO
+Pavlik R              3.2  6  6  6  3  4
+Cook D (W)            3.0  2  1  1  0  4
+Heredia G             1.0  1  0  0  0  0
+Vosberg E (S)         1.1  1  0  0  1  0
+  * Pitched to 3 batters in 8th
+
+DP -- Baltimore 1, Texas 1
+LOB -- Baltimore 6, Texas 5
+2B -- Greer R 2, Clark W, Devereaux M, Alomar R, Elster K, Palmeiro R, Gonzalez J
+3B -- Rodriguez I
+HR -- Anderson B, Gonzalez J, Clark W, Palmer D 2, Elster K
+SB -- Hamilton D
+CS -- McLemore M
+SF -- McLemore M, Tettleton M, Greer R
+HBP -- by Mercker K (Clark W)
+WP -- Pavlik R, Benitez A
+T -- 4:15
+A -- 41184
+     Game of 4/20/1996 -- Baltimore at Texas (N)
+
+  Baltimore          AB  R  H RBI    Texas              AB  R  H RBI
+Anderson B, cf        4  2  2  3   Hamilton D, cf        4  1  1  0   
+Alomar R, 2b          2  0  1  0   Rodriguez I, c        5  3  3  2   
+Palmeiro R, 1b        4  0  1  0   Clark W, 1b           3  2  2  4   
+Bonilla B, rf         4  0  0  0   Gonzalez J, rf        4  1  1  2   
+Ripken C, ss          3  0  1  0   Tettleton M, dh       3  0  1  0   
+Surhoff B, 3b         4  0  0  0   Palmer D, 3b          3  0  0  0   
+Devereaux M, dh       4  0  0  0   Greer R, lf           4  0  1  0   
+Hammonds J, lf        4  0  1  0   McLemore M, 2b        4  1  1  0   
+Zaun G, c             4  1  1  0   Elster K, ss          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        32  8 10  8
+
+Baltimore        100 000 200 --  3
+Texas            302 201 00x --  8
+
+  Baltimore            IP  H  R ER BB SO
+Haynes J (L)          4.0  6  7  7  4  7
+Sackinsky B           4.0  4  1  1  1  2
+
+  Texas                IP  H  R ER BB SO
+Gross K (W)           7.1  7  3  3  4  2
+Heredia G             1.2  0  0  0  0  2
+
+DP -- Texas 1
+LOB -- Baltimore 7, Texas 6
+2B -- McLemore M, Rodriguez I, Hammonds J
+HR -- Anderson B 2, Clark W, Gonzalez J, Rodriguez I
+SB -- Anderson B, Alomar R
+SH -- Elster K
+WP -- Gross K
+T -- 2:36
+A -- 45358
+     Game of 4/21/1996 -- Baltimore at Texas (D)
+
+  Baltimore          AB  R  H RBI    Texas              AB  R  H RBI
+Anderson B, cf        4  1  1  1   Hamilton D, cf        5  0  1  1   
+Alomar R, 2b          4  1  1  0   Rodriguez I, c        5  1  2  0   
+Palmeiro R, 1b        5  2  3  3   Clark W, 1b           4  1  1  0   
+Bonilla B, dh         5  0  0  0   Gonzalez J, rf        4  0  0  0   
+Ripken C, ss          4  0  2  0   Tettleton M, dh       2  2  0  0   
+Devereaux M, rf       2  0  0  0   Palmer D, 3b          4  3  4  6   
+Tarasco T, ph-rf      1  0  0  0   McLemore M, 2b        4  0  2  0   
+Hoiles C, c           4  1  2  2   Buford D, lf          1  1  0  1   
+Hammonds J, lf        4  1  1  0   Newson W, ph          1  0  0  0   
+Ripken B, 3b          2  0  0  0   Greer R, lf           0  0  0  0   
+Huson J, ph-3b        2  0  1  0   Elster K, ss          3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     37  6 11  6                        33  9 11  9
+
+Baltimore        110 001 003 --  6
+Texas            004 102 20x --  9
+
+  Baltimore            IP  H  R ER BB SO
+Wells D (L)           5.2  9  7  6  2  1
+McDowell R            1.1  2  2  2  1  1
+Myers J               1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Oliver D (W)*         5.0  5  3  3  2  3
+Brandenburg M         1.1  4  0  0  0  3
+Cook D                0.2  0  0  0  0  1
+Heredia G             1.0  0  0  0  0  0
+Helling R             1.0  2  3  3  1  2
+  * Pitched to 1 batter in 6th
+
+E -- Hoiles C
+LOB -- Baltimore 7, Texas 5
+2B -- Palmeiro R, Elster K
+3B -- Palmer D, McLemore M
+HR -- Anderson B, Hoiles C, Palmer D 2, Palmeiro R
+SB -- Buford D
+SF -- Elster K, Buford D
+T -- 3:11
+A -- 39456
+     Game of 4/22/1996 -- Chicago at Texas (N)
+
+  Chicago            AB  R  H RBI    Texas              AB  R  H RBI
+Phillips T, lf        5  1  2  1   Hamilton D, cf        4  1  1  0   
+Martinez D, cf-rf     6  2  2  0   Valle D, c            0  0  0  0   
+Thomas F, 1b          3  1  0  1   Rodriguez I, c        4  1  3  1   
+Baines H, dh          5  2  3  4   Worthington C, 1b     0  0  0  0   
+Ventura R, 3b         5  2  2  2   Clark W, 1b           4  0  1  2   
+Tartabull D, rf       5  2  4  2   Buford D, cf          1  0  1  0   
+Lewis D, cf           0  0  0  0   Gonzalez J, rf        3  1  2  0   
+Karkovice R, c        3  1  0  0   Newson W, rf          1  0  0  0   
+Durham R, 2b          5  0  1  2   Tettleton M, dh       4  0  0  0   
+Guillen O, ss         5  1  2  0   Palmer D, 3b          5  1  2  0   
+                                   Greer R, lf           4  0  0  1   
+                                   McLemore M, 2b        4  0  2  0   
+                                   Elster K, ss          3  0  0  0   
+                                   Stillwell K, ph-ss    1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42 12 16 12                        38  4 12  4
+
+Chicago          500 004 021 -- 12
+Texas            000 021 100 --  4
+
+  Chicago              IP  H  R ER BB SO
+Fernandez A (W)       5.2  9  3  2  3 10
+Karchner M (S)        3.1  3  1  1  1  2
+
+  Texas                IP  H  R ER BB SO
+Witt B (L)            5.2 11  9  9  4  5
+Helling R             3.1  5  3  3  0  2
+
+E -- Tartabull D
+LOB -- Chicago 8, Texas 12
+2B -- Martinez D, Baines H, Tartabull D 2, Rodriguez I, McLemore M
+3B -- Durham R, Guillen O 2
+HR -- Baines H, Ventura R 2, Tartabull D
+SF -- Thomas F, Greer R
+WP -- Karchner M
+T -- 3:11
+A -- 22348
+     Game of 4/23/1996 -- Chicago at Texas (D)
+
+  Chicago            AB  R  H RBI    Texas              AB  R  H RBI
+Phillips T, lf        5  2  3  2   Hamilton D, cf        5  1  1  0   
+Martinez D, cf        3  0  0  0   Rodriguez I, c        4  1  1  2   
+Mouton L, ph          1  0  1  0   Buford D, pr          0  0  0  0   
+Lewis D, cf           0  0  0  0   Clark W, 1b           3  0  0  0   
+Thomas F, 1b          4  0  2  1   Gonzalez J, rf        5  0  1  1   
+Baines H, dh          3  1  1  2   Tettleton M, dh       3  0  1  0   
+Ventura R, 3b         4  0  0  0   Palmer D, 3b          4  1  2  0   
+Tartabull D, rf       4  0  0  0   Greer R, lf           4  1  1  0   
+Kreuter C, c          5  1  1  0   McLemore M, 2b        4  0  1  1   
+Karkovice R, c        0  0  0  0   Elster K, ss          3  1  1  1   
+Munoz J, 2b           4  1  2  0   Newson W, ph          1  0  0  0   
+Durham R, 2b          0  0  0  0   Stillwell K, ss       0  0  0  0   
+Guillen O, ss         4  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6 11  6                        36  5  9  5
+
+Chicago          200 400 000 --  6
+Texas            000 050 000 --  5
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J (W)         5.0  6  5  3  2  6
+Magrane J*            1.0  2  0  0  1  1
+McCaskill K           2.0  1  0  0  0  2
+Hernandez R (S)       1.0  0  0  0  2  0
+
+  Texas                IP  H  R ER BB SO
+Hill K (L)            5.2 10  6  6  3  4
+Vosberg E             3.1  1  0  0  3  1
+  * Pitched to 1 batter in 7th
+
+E -- Baldwin J
+DP -- Chicago 1, Texas 1
+LOB -- Chicago 10, Texas 9
+2B -- Phillips T, Guillen O, Thomas F, Rodriguez I, Mouton L
+HR -- Baines H
+WP -- Hill K, Baldwin J
+T -- 3:14
+A -- 29123
+     Game of 4/30/1996 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Cora J, 2b            5  0  3  3   Hamilton D, cf        3  0  0  0   
+Sojo L, ss            6  0  2  0   Buford D, ph-cf       1  0  0  0   
+Griffey Jr. K, cf     4  1  2  0   Rodriguez I, c        4  0  0  0   
+Martinez E, dh        6  1  3  1   Clark W, 1b           3  0  0  0   
+Buhner J, rf          5  1  3  0   Gonzalez J, rf        4  0  1  0   
+Sorrento P, 1b        5  2  1  2   Newson W, dh          3  0  1  0   
+Strange D, 3b         4  1  1  0   Palmer D, 3b          4  0  1  0   
+Wilson D, c           5  2  2  1   Greer R, lf           4  0  0  0   
+Amaral R, lf          4  0  2  1   McLemore M, 2b        3  0  0  0   
+                                   Elster K, ss          3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     44  8 19  8                        32  0  4  0
+
+Seattle          031 100 300 --  8
+Texas            000 000 000 --  0
+
+  Seattle              IP  H  R ER BB SO
+Bosio C (W)           6.0  4  0  0  2  1
+Davis T               1.1  0  0  0  0  2
+Wells B               1.2  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Gross K (L)           3.2  9  5  5  2  1
+Brandenburg M         3.1  7  3  0  0  4
+Vosberg E             1.0  2  0  0  0  0
+Heredia G             1.0  1  0  0  1  1
+
+E -- Elster K, Sorrento P, Palmer D
+LOB -- Seattle 14, Texas 7
+2B -- Martinez E, Griffey Jr. K, Wilson D, Sojo L, Buhner J 2
+HR -- Sorrento P
+CS -- Sojo L
+SH -- Amaral R
+SF -- Cora J
+T -- 2:57
+A -- 27272
+     Game of 5/1/1996 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Amaral R, lf-1b       4  0  0  0   Buford D, cf          2  1  1  0   
+Sojo L, 2b-ss         5  0  1  0   Tettleton M, ph       0  0  0  0   
+Griffey Jr. K, cf     5  0  1  0   Hamilton D, pr-cf     0  0  0  0   
+Martinez E, dh        2  2  2  1   Rodriguez I, c        5  1  1  3   
+Buhner J, rf          3  0  0  0   Clark W, 1b           4  1  1  1   
+Jordan R, 1b          3  1  2  0   Gonzalez J, rf        4  0  2  0   
+Sorrento P, 1b        1  0  1  0   Palmer D, dh-3b       4  0  0  0   
+Diaz A, pr-lf         0  0  0  0   Worthington C, 3b     2  0  1  0   
+Davis R, 3b           3  1  0  0   McLemore M, pr-2b     1  0  0  0   
+Wilson D, c           4  0  1  2   Greer R, lf           3  0  2  0   
+Sheets A, ss          2  0  0  1   Elster K, ss          4  1  1  0   
+Cora J, ph-2b         1  0  0  0   Stillwell K, 2b-3b    4  1  1  1   
+                                   Henneman M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  8  4                        33  5 10  5
+
+Seattle          031 000 000 --  4
+Texas            220 000 10x --  5
+
+  Seattle              IP  H  R ER BB SO
+Johnson R             2.0  6  4  4  1  3
+Carmona R             3.2  2  0  0  3  3
+Jackson M (L)         1.1  2  1  1  1  0
+Davis T               0.2  0  0  0  1  0
+Charlton N            0.1  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Oliver D              5.0  5  4  4  3  2
+Russell J (W)         3.0  3  0  0  0  2
+Henneman M (S)        1.0  0  0  0  1  0
+
+E -- Stillwell K
+DP -- Seattle 1, Texas 1
+LOB -- Seattle 8, Texas 10
+2B -- Stillwell K, Sojo L, Gonzalez J
+HR -- Rodriguez I, Martinez E, Clark W
+SB -- Hamilton D
+SF -- Sheets A
+HBP -- by Oliver D (Davis R)
+T -- 2:52
+A -- 31775
+     Game of 5/7/1996 -- Toronto at Texas (N)
+
+  Toronto            AB  R  H RBI    Texas              AB  R  H RBI
+Nixon O, cf           3  0  0  0   Hamilton D, cf        4  2  3  0   
+Cedeno D, 2b          4  0  0  0   Rodriguez I, c        4  1  1  0   
+Delgado C, 1b         4  0  0  0   Clark W, 1b           4  1  1  3   
+Carter J, lf          4  1  1  0   Gonzalez J, rf        1  0  0  0   
+Sprague E, 3b         3  0  1  1   Buford D, rf          3  0  1  1   
+Samuel J, dh          4  0  0  0   Newson W, dh          3  0  0  0   
+Perez R, rf           2  0  1  0   Palmer D, 3b          3  0  0  0   
+Green S, ph-rf        1  0  0  0   Greer R, lf           3  0  1  1   
+O'Brien C, c          3  0  1  0   McLemore M, 2b        4  0  0  0   
+Gonzalez A, ss        3  0  1  0   Elster K, ss          3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        32  5  8  5
+
+Toronto          010 000 000 --  1
+Texas            000 002 30x --  5
+
+  Toronto              IP  H  R ER BB SO
+Guzman J (L)          7.0  8  5  5  3  7
+Bohanon B             1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Oliver D (W)          7.0  4  1  1  1  5
+Russell J             2.0  1  0  0  1  2
+
+E -- Palmer D
+LOB -- Toronto 5, Texas 6
+3B -- Carter J
+HR -- Clark W
+CS -- Nixon O
+T -- 2:30
+A -- 23005
+     Game of 5/8/1996 -- Toronto at Texas (N)
+
+  Toronto            AB  R  H RBI    Texas              AB  R  H RBI
+Nixon O, cf           4  0  1  0   Hamilton D, cf        4  2  3  0   
+Cedeno D, 2b          5  1  2  0   Rodriguez I, c        4  2  1  0   
+Delgado C, dh         3  0  1  0   Clark W, 1b           2  0  1  2   
+Carter J, lf          4  0  0  0   Tettleton M, dh       3  0  1  2   
+Sprague E, 3b         4  0  2  1   Newson W, rf          3  0  0  0   
+Olerud J, 1b          3  0  1  0   Buford D, ph-rf       1  0  0  0   
+Samuel J, ph-rf       1  0  0  0   Palmer D, 3b          3  0  0  0   
+Green S, rf           3  0  0  0   Greer R, lf           4  0  1  0   
+Crespo F, ph-1b       1  0  0  0   Stillwell K, 2b       4  0  1  0   
+Martinez A, c         3  1  1  0   Elster K, ss          3  0  0  0   
+O'Brien C, ph         0  0  0  0                                      
+Gonzalez A, ss        4  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     35  2  9  2                        31  4  8  4
+
+Toronto          000 010 010 --  2
+Texas            101 000 20x --  4
+
+  Toronto              IP  H  R ER BB SO
+Hanson E (L)          6.1  7  4  3  4  6
+Castillo T            0.1  0  0  0  0  0
+Crabtree T            1.1  1  0  0  1  1
+
+  Texas                IP  H  R ER BB SO
+Witt B (W)*           7.0  8  2  2  1  9
+Cook D+               0.0  0  0  0  0  0
+Heredia G             0.1  1  0  0  0  0
+Vosberg E             0.2  0  0  0  0  2
+Henneman M (S)        1.0  0  0  0  1  2
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 8th
+
+E -- Hanson E
+LOB -- Toronto 9, Texas 9
+2B -- Gonzalez A, Olerud J
+CS -- Nixon O
+SF -- Tettleton M
+HBP -- by Cook D (Delgado C)
+T -- 2:56
+A -- 20694
+     Game of 5/9/1996 -- Toronto at Texas (N)
+
+  Toronto            AB  R  H RBI    Texas              AB  R  H RBI
+Nixon O, cf           3  0  1  0   Hamilton D, cf        4  1  2  1   
+Cedeno D, 2b          5  0  1  0   Rodriguez I, c        4  0  1  0   
+Delgado C, dh         5  1  1  0   Clark W, 1b           3  0  1  0   
+Carter J, lf          3  2  1  0   Tettleton M, dh       4  0  0  0   
+Sprague E, 3b         4  1  1  0   Newson W, rf          2  0  0  0   
+Olerud J, 1b          4  1  2  3   Buford D, ph-rf       2  0  0  0   
+Green S, rf           3  0  2  1   Palmer D, 3b          4  0  0  0   
+Martinez A, c         4  0  0  0   Greer R, lf           4  1  2  0   
+Gonzalez A, ss        4  0  1  0   McLemore M, 2b        3  0  0  0   
+                                   Elster K, ss          3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  5 10  4                        33  2  7  2
+
+Toronto          000 003 200 --  5
+Texas            000 001 100 --  2
+
+  Toronto              IP  H  R ER BB SO
+Quantrill P (W)       5.1  5  1  1  0  3
+Bohanon B             0.1  0  0  0  1  1
+Risley B              1.1  2  1  1  0  2
+Crabtree T            1.0  0  0  0  0  1
+Timlin M (S)          1.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Hill K (L)            6.0  8  3  3  2  4
+Cook D                1.0  1  2  2  3  1
+Heredia G             2.0  1  0  0  0  0
+
+DP -- Toronto 1, Texas 1
+LOB -- Toronto 10, Texas 5
+2B -- Olerud J, Greer R, Gonzalez A
+HR -- Hamilton D
+SH -- Nixon O
+HBP -- by Cook D (Olerud J)
+WP -- Hill K
+T -- 3:01
+A -- 34451
+     Game of 5/10/1996 -- Detroit at Texas (N)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Curtis C, cf-lf       5  1  2  0   Hamilton D, cf        4  1  2  1   
+Lewis M, 2b           4  0  2  0   Rodriguez I, c        4  0  1  1   
+Fryman T, 3b          4  0  1  0   Clark W, 1b           3  1  1  1   
+Fielder C, 1b         4  0  0  0   Tettleton M, dh       4  0  0  0   
+Nieves M, rf          3  0  1  1   Newson W, rf          3  0  1  1   
+Higginson B, lf       4  0  0  0   Buford D, pr-rf       0  1  0  0   
+Bartee K, cf          0  0  0  0   Palmer D, 3b          3  0  0  1   
+Williams E, dh        3  0  1  0   Greer R, lf           3  2  1  0   
+Flaherty J, c         4  1  2  0   McLemore M, 2b        2  1  1  0   
+Trammell A, ss        3  0  0  0   Elster K, ss          2  0  1  1   
+Pride C, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  2  9  1                        28  6  8  6
+
+Detroit          100 000 100 --  2
+Texas            210 000 21x --  6
+
+  Detroit              IP  H  R ER BB SO
+Lima J (L)*           6.0  7  5  5  2  0
+Veres R               2.0  1  1  1  3  2
+
+  Texas                IP  H  R ER BB SO
+Pavlik R (W)          6.2  9  2  2  2  4
+Russell J             1.1  0  0  0  0  1
+Brandenburg M         0.1  0  0  0  1  1
+Henneman M (S)        0.2  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Greer R, McLemore M
+DP -- Texas 1
+LOB -- Detroit 9, Texas 6
+2B -- Newson W, Fryman T, McLemore M
+3B -- Lewis M
+SB -- Elster K, Buford D
+SH -- Elster K
+SF -- Elster K, Palmer D
+WP -- Pavlik R
+T -- 2:48
+A -- 31426
+     Game of 5/11/1996 -- Detroit at Texas (N)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Curtis C, cf          5  2  3  0   Hamilton D, cf        4  0  2  0   
+Lewis M, 2b           3  1  2  1   Faneyte R, cf         0  0  0  0   
+Fryman T, 3b          5  1  3  3   Rodriguez I, c        5  2  1  0   
+Fielder C, 1b         5  0  1  0   Clark W, 1b           5  2  2  1   
+Nieves M, rf          3  1  0  0   Valle D, 1b           0  0  0  0   
+Pride C, lf           5  1  2  1   Tettleton M, dh       4  3  3  3   
+Williams E, dh        5  1  1  1   Palmer D, 3b          4  1  0  0   
+Parent M, c           4  0  2  1   Worthington C, 3b     0  0  0  0   
+Gomez C, ss           4  0  0  0   Greer R, lf           5  1  4  5   
+                                   McLemore M, 2b        5  0  2  0   
+                                   Buford D, rf          5  1  2  0   
+                                   Elster K, ss          5  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     39  7 14  7                        42 11 18 10
+
+Detroit          100 101 013 --  7
+Texas            440 101 01x -- 11
+
+  Detroit              IP  H  R ER BB SO
+Aldred S (L)          1.1  6  8  7  2  0
+Christopher M         2.2  4  1  0  0  4
+Williams B            3.0  5  1  1  1  1
+Olson G               1.0  3  1  1  0  2
+
+  Texas                IP  H  R ER BB SO
+Gross K (W)           6.1  9  3  3  2  8
+Heredia G             2.2  5  4  4  2  1
+
+E -- Rodriguez I, Curtis C, Lewis M
+DP -- Detroit 1, Texas 2
+LOB -- Detroit 9, Texas 10
+2B -- Curtis C 2, Lewis M, Buford D, Parent M 2, Fryman T, McLemore M, Elster K
+HR -- Greer R, Pride C, Tettleton M 2, Williams E, Fryman T
+SB -- Pride C
+WP -- Aldred S, Olson G
+T -- 3:12
+A -- 42732
+     Game of 5/12/1996 -- Detroit at Texas (D)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Curtis C, cf-lf       4  0  0  0   Hamilton D, cf        4  0  0  0   
+Lewis M, 2b           4  1  2  0   McLemore M, 2b        4  0  1  0   
+Fryman T, 3b          5  1  1  0   Clark W, 1b           4  0  0  0   
+Fielder C, 1b         3  0  0  0   Tettleton M, dh       4  1  1  0   
+Nieves M, rf          3  1  1  1   Greer R, lf           4  1  1  0   
+Williams E, dh        2  1  1  1   Palmer D, 3b          3  1  1  2   
+Bautista D, lf        3  1  0  0   Newson W, rf          3  0  0  1   
+Bartee K, cf          0  0  0  0   Valle D, c            3  0  1  0   
+Flaherty J, c         4  0  2  3   Stillwell K, ss       3  0  0  0   
+Trammell A, ss        3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  5  7  5                        32  3  5  3
+
+Detroit          030 020 000 --  5
+Texas            000 010 200 --  3
+
+  Detroit              IP  H  R ER BB SO
+Lira F (W)            6.1  5  3  3  0  1
+Veres R               1.1  0  0  0  0  1
+Myers M (S)           1.1  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Oliver D (L)*         4.0  6  5  5  3  4
+Brandenburg M+        4.0  1  0  0  2  3
+Russell J             1.0  0  0  0  0  0
+  * Pitched to 2 batters in 5th
+  + Pitched to 1 batter in 9th
+
+LOB -- Detroit 7, Texas 2
+2B -- Nieves M, Flaherty J, Greer R, Valle D
+HR -- Palmer D
+SH -- Curtis C
+SF -- Nieves M, Williams E
+WP -- Lira F
+T -- 2:35
+A -- 35677
+     Game of 5/13/1996 -- Kansas City at Texas (N)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Roberts B, 2b         2  0  1  1   McLemore M, 2b        4  2  2  2   
+Paquette C, 3b        2  0  0  0   Rodriguez I, c        4  1  2  0   
+Goodwin T, lf         4  1  1  0   Clark W, 1b           4  1  2  1   
+Lockhart K, 3b-2b     2  1  1  0   Tettleton M, dh       5  0  2  0   
+Damon J, cf           4  1  2  1   Greer R, lf           4  1  3  2   
+Hamelin B, dh         3  1  3  1   Palmer D, 3b          5  0  1  0   
+Tucker M, rf          2  1  0  1   Newson W, rf          4  1  2  1   
+Offerman J, 1b        4  0  1  2   Faneyte R, cf         0  0  0  0   
+Howard D, ss          4  0  0  0   Buford D, cf-rf       4  1  1  0   
+Fasano S, c           3  1  1  0   Elster K, ss          4  0  0  1   
+Stynes C, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  6 10  6                        38  7 15  7
+
+Kansas City      031 020 000 --  6
+Texas            000 400 03x --  7
+
+  Kansas City          IP  H  R ER BB SO
+Appier K              0.2  1  0  0  2  1
+Valera J              3.0  7  4  4  0  1
+Jacome J              1.0  1  0  0  1  1
+Pugh T                2.1  3  0  0  0  2
+Montgomery J (L)      1.0  3  3  3  1  3
+
+  Texas                IP  H  R ER BB SO
+Witt B*               4.0  8  6  6  4  2
+Cook D (W)            4.0  2  0  0  0  1
+Henneman M (S)        1.0  0  0  0  0  1
+  * Pitched to 3 batters in 5th
+
+DP -- Kansas City 1, Texas 2
+LOB -- Kansas City 4, Texas 11
+2B -- Offerman J, Hamelin B, Greer R 2, Buford D, Rodriguez I
+3B -- Lockhart K
+HR -- McLemore M
+CS -- Roberts B
+SF -- Tucker M, Hamelin B
+Balk -- Appier K
+T -- 3:18
+A -- 22981
+     Game of 5/14/1996 -- Kansas City at Texas (N)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Roberts B, 2b         4  0  0  0   Hamilton D, cf        4  0  1  1   
+Goodwin T, lf         3  0  0  0   Faneyte R, ph-cf      1  0  0  0   
+Vitiello J, 1b        1  0  1  0   Rodriguez I, c        5  0  1  1   
+Lockhart K, 3b        4  0  2  0   Clark W, 1b           4  1  1  0   
+Damon J, cf           2  0  0  0   Buford D, lf          1  0  1  0   
+Stynes C, ph          1  0  0  0   Tettleton M, dh       4  3  3  2   
+Hamelin B, dh         3  0  0  0   Valle D, ph           1  0  0  0   
+Tucker M, rf          3  0  0  0   Greer R, lf           3  2  2  0   
+Offerman J, 1b        2  0  0  0   Stillwell K, 3b       0  0  0  0   
+Norman L, lf          1  0  0  0   Palmer D, 3b          4  2  3  4   
+Howard D, ss          2  0  1  0   Worthington C, 1b     0  0  0  0   
+Paquette C, ss        1  0  0  0   Newson W, rf          4  1  2  1   
+Fasano S, c           3  0  0  0   McLemore M, 2b        3  0  0  0   
+                                   Elster K, ss          3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        37 10 15 10
+
+Kansas City      000 000 000 --  0
+Texas            053 101 00x -- 10
+
+  Kansas City          IP  H  R ER BB SO
+Gubicza M (L)         4.0 12  9  9  3  2
+Magnante M            2.0  2  1  0  0  2
+Jacome J              1.0  0  0  0  0  2
+Pichardo H            1.0  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Hill K (W)            9.0  4  0  0  3  5
+
+DP -- Kansas City 2
+LOB -- Kansas City 6, Texas 6
+2B -- Newson W, Palmer D
+HR -- Tettleton M 2, Palmer D
+PB -- Fasano S
+T -- 2:18
+A -- 28999
+     Game of 5/15/1996 -- Kansas City at Texas (N)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Roberts B, 2b         4  1  3  1   Hamilton D, cf        5  0  2  0   
+Goodwin T, lf         4  0  1  0   Rodriguez I, c        4  0  1  0   
+Lockhart K, 3b        4  0  0  0   Clark W, 1b           4  0  1  0   
+Vitiello J, dh        4  1  1  0   Tettleton M, dh       4  0  2  0   
+Damon J, cf           4  0  0  0   Palmer D, 3b          4  0  0  0   
+Offerman J, 1b        4  0  0  0   Greer R, lf           4  1  2  1   
+MacFarlane M, c       4  0  1  1   McLemore M, 2b        4  0  1  0   
+Tucker M, rf          4  1  1  0   Buford D, rf          3  0  0  0   
+Paquette C, ss        3  0  1  0   Stillwell K, ph       1  0  1  0   
+Howard D, ss          1  0  0  0   Elster K, ss          3  0  0  0   
+                                   Newson W, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3  8  2                        37  1 10  1
+
+Kansas City      001 110 000 --  3
+Texas            000 000 001 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Haney C (W)           7.2  8  0  0  0  4
+Montgomery J (S)      1.1  2  1  1  0  1
+
+  Texas                IP  H  R ER BB SO
+Pavlik R (L)          9.0  8  3  2  0  8
+
+E -- Pavlik R, Palmer D
+DP -- Texas 1
+LOB -- Kansas City 6, Texas 9
+2B -- Rodriguez I, Vitiello J, Tettleton M, Roberts B
+HR -- Greer R
+CS -- Roberts B
+WP -- Haney C 2
+T -- 2:34
+A -- 26881
+     Game of 5/27/1996 -- Cleveland at Texas (N)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Lofton K, cf          4  0  2  1   Hamilton D, cf        5  0  3  1   
+Franco J, 1b          4  0  0  0   Rodriguez I, c        4  0  0  0   
+Baerga C, 2b          4  1  1  1   Clark W, 1b           3  0  0  0   
+Belle A, lf           4  0  1  0   Tettleton M, dh       4  1  1  1   
+Murray E, dh          3  0  1  0   Palmer D, 3b          3  1  1  1   
+Thome J, 3b           3  0  0  0   Newson W, rf          3  0  0  0   
+Ramirez M, rf         3  0  0  0   McLemore M, 2b        3  0  0  0   
+Alomar Jr. S, c       3  1  1  0   Frazier L, lf         4  0  2  0   
+Vizquel O, ss         3  0  0  0   Elster K, ss          3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        32  3  8  3
+
+Cleveland        100 000 010 --  2
+Texas            010 000 011 --  3
+  2 outs when winning run was scored.
+
+  Cleveland            IP  H  R ER BB SO
+McDowell J (L)        8.2  8  3  3  4  4
+
+  Texas                IP  H  R ER BB SO
+Pavlik R (W)          9.0  6  2  2  0  5
+
+DP -- Cleveland 1
+LOB -- Cleveland 2, Texas 8
+2B -- Hamilton D
+HR -- Baerga C, Tettleton M, Palmer D
+SB -- Elster K, Frazier L
+SH -- Elster K
+T -- 2:40
+A -- 46521
+     Game of 5/28/1996 -- Cleveland at Texas (N)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Lofton K, cf          2  0  0  0   Hamilton D, cf        3  1  1  0   
+Kirby W, cf           2  0  0  0   Buford D, cf          0  0  0  0   
+Franco J, 1b          3  0  1  0   Rodriguez I, c        4  3  2  3   
+Leius S, 3b           2  0  0  0   Valle D, c            0  0  0  0   
+Baerga C, 2b          5  1  2  0   Clark W, 1b           5  1  2  0   
+Belle A, lf           3  1  1  1   Tettleton M, dh       3  2  2  0   
+Burnitz J, lf         0  1  0  0   Faneyte R, ph         1  0  0  0   
+Murray E, dh          4  0  0  0   Palmer D, 3b          4  2  2  4   
+Ramirez M, rf         3  0  1  1   Gonzales R, 3b        1  0  0  0   
+Alomar Jr. S, c       3  0  1  0   Newson W, rf          5  1  2  1   
+Pena T, c             1  0  1  1   McLemore M, 2b        3  0  0  0   
+Espinoza A, 3b-1b     4  0  1  0   Frazier L, lf         2  0  1  2   
+Vizquel O, ss         3  0  1  0   Elster K, ss          4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  3                        35 11 13 11
+
+Cleveland        000 100 020 --  3
+Texas            511 220 00x -- 11
+
+  Cleveland            IP  H  R ER BB SO
+Hershiser O (L)       1.2  8  6  6  1  1
+Embree A*             2.1  5  5  5  3  2
+Poole J               1.0  0  0  0  0  1
+Plunk E               2.0  0  0  0  2  0
+Assenmacher P         1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Oliver D (W)          7.0  5  1  1  3  3
+Vosberg E             1.0  4  2  2  1  1
+Heredia G             1.0  0  0  0  0  0
+  * Pitched to 3 batters in 5th
+
+E -- Clark W
+DP -- Cleveland 2
+LOB -- Cleveland 9, Texas 7
+2B -- Palmer D, Hamilton D
+HR -- Rodriguez I 2, Elster K, Belle A, Palmer D
+HBP -- by Hershiser O (Rodriguez I)
+T -- 2:43
+A -- 35727
+     Game of 5/29/1996 -- Cleveland at Texas (N)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Lofton K, cf          5  0  0  0   Hamilton D, cf        4  0  1  0   
+Franco J, 1b          5  1  2  2   Rodriguez I, c        3  2  3  0   
+Baerga C, 2b          3  0  1  0   Clark W, 1b           3  1  0  0   
+Belle A, lf           4  1  1  0   Tettleton M, dh       4  0  2  3   
+Thome J, 3b           4  1  1  1   Greer R, pr           0  1  0  0   
+Murray E, dh          3  0  1  0   Palmer D, 3b          4  1  1  0   
+Burnitz J, rf         4  0  1  1   McLemore M, 2b        4  0  1  1   
+Alomar Jr. S, c       4  0  1  0   Buford D, rf          2  0  1  0   
+Vizquel O, ss         3  1  1  0   Frazier L, ph-lf      1  0  1  0   
+                                   Faneyte R, lf         1  0  0  0   
+                                   Newson W, ph-rf       1  0  0  0   
+                                   Elster K, ss          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        31  5 10  4
+
+Cleveland        100 002 100 --  4
+Texas            200 000 03x --  5
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B            6.0  5  2  2  2  1
+Tavarez J (L)         1.2  4  3  3  0  1
+Assenmacher P*        0.0  1  0  0  2  0
+Plunk E               0.1  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Witt B                6.0  7  3  3  1  7
+Russell J             0.2  2  1  1  0  0
+Cook D (W)            1.1  0  0  0  0  2
+Henneman M (S)        1.0  0  0  0  1  0
+  * Pitched to 3 batters in 8th
+
+DP -- Cleveland 2, Texas 1
+LOB -- Cleveland 7, Texas 7
+2B -- Tettleton M
+3B -- Thome J
+HR -- Franco J
+SB -- Buford D, Hamilton D, Vizquel O
+SH -- Faneyte R
+HBP -- by Russell J (Baerga C)
+WP -- Tavarez J
+PB -- Rodriguez I, Alomar Jr. S
+T -- 3:07
+A -- 35893
+     Game of 5/31/1996 -- Minnesota at Texas (N)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Knoblauch C, 2b       3  0  2  1   Hamilton D, cf        4  1  2  2   
+Becker R, cf          3  0  0  0   Rodriguez I, c        5  0  1  0   
+Coomer R, ph-rf       1  0  0  0   Clark W, 1b           5  1  1  0   
+Molitor P, dh         4  0  0  0   Tettleton M, dh       3  1  1  1   
+Cordova M, lf         4  1  1  0   Palmer D, 3b          2  2  0  0   
+Myers G, c            4  0  0  1   Greer R, lf           4  1  2  2   
+Hollins D, 3b         3  0  0  0   Newson W, rf          3  0  2  2   
+Kelly R, rf-cf        3  0  1  0   Buford D, ph-rf       1  0  0  0   
+Stahoviak S, 1b       3  0  1  0   McLemore M, 2b        4  1  0  0   
+Meares P, ss          3  1  2  0   Elster K, ss          3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  7  2                        34  7 10  7
+
+Minnesota        011 000 000 --  2
+Texas            016 000 00x --  7
+
+  Minnesota            IP  H  R ER BB SO
+Rodriguez F (L)       2.1  6  7  7  3  1
+Aldred S              4.2  4  0  0  2  3
+Bennett E             1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Hill K (W)            7.1  7  2  1  2  3
+Cook D                0.1  0  0  0  0  1
+Russell J             1.1  0  0  0  0  0
+
+E -- Knoblauch C, Greer R
+DP -- Minnesota 1, Texas 2
+LOB -- Minnesota 4, Texas 8
+2B -- Meares P
+SB -- Elster K
+WP -- Aldred S
+T -- 2:56
+A -- 32861
+     Game of 6/1/1996 -- Minnesota at Texas (N)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Knoblauch C, 2b       5  3  5  0   Hamilton D, cf        5  1  2  0   
+Becker R, cf          5  2  2  2   Rodriguez I, c        5  1  2  1   
+Molitor P, dh         5  1  2  3   Clark W, 1b           5  1  2  3   
+Cordova M, lf         5  0  2  2   Gonzalez J, rf        4  0  0  0   
+Myers G, c            4  0  0  0   Gonzales R, ss        0  0  0  0   
+Hollins D, 3b         2  1  1  0   Tettleton M, dh       4  0  2  0   
+Kelly R, rf           3  0  0  0   Frazier L, pr         0  0  0  0   
+Hale C, ph            1  0  1  0   Palmer D, 3b          3  0  1  0   
+Durant M, pr          0  1  0  0   Greer R, lf           4  1  1  1   
+Reboulet J, rf        0  0  0  0   McLemore M, 2b        4  1  3  0   
+Stahoviak S, 1b       4  1  1  1   Elster K, ss          2  0  0  0   
+Meares P, ss          4  0  1  1   Newson W, ph          0  0  0  0   
+                                   Buford D, ph-rf       2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 15  9                        38  5 13  5
+
+Minnesota        102 000 006 --  9
+Texas            000 000 050 --  5
+
+  Minnesota            IP  H  R ER BB SO
+Radke B*              7.0  7  2  2  0  2
+Guardado E            0.1  1  1  1  0  0
+Naulty D+             0.0  1  1  1  0  0
+Milchin M (W)         0.2  2  1  1  1  1
+Hansell G             1.0  2  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Pavlik R              8.0  8  3  3  2  0
+Henneman M (L)        1.0  7  6  6  0  1
+  * Pitched to 2 batters in 8th
+  + Pitched to 1 batter in 8th
+
+DP -- Minnesota 2, Texas 2
+LOB -- Minnesota 4, Texas 7
+2B -- Becker R, Tettleton M
+HR -- Greer R, Clark W, Molitor P
+SB -- Knoblauch C, Hollins D
+CS -- Molitor P
+WP -- Pavlik R
+T -- 3:11
+A -- 43413
+     Game of 6/2/1996 -- Minnesota at Texas (D)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Knoblauch C, 2b       3  1  1  0   Hamilton D, cf        4  2  1  0   
+Reboulet J, rf        3  0  1  1   McLemore M, 2b        3  2  2  2   
+Becker R, ph-cf       1  0  0  0   Clark W, 1b           5  0  2  2   
+Molitor P, dh         5  0  2  0   Gonzalez J, rf        4  1  2  1   
+Cordova M, lf         5  1  1  0   Buford D, rf          1  0  0  0   
+Hollins D, 3b         5  1  1  2   Tettleton M, dh       3  0  0  0   
+Coomer R, 1b          1  1  1  0   Frazier L, pr         0  0  0  0   
+Stahoviak S, ph-1b    2  1  1  0   Palmer D, 3b          3  0  0  0   
+Kelly R, cf-rf        5  1  3  0   Greer R, lf           4  0  0  0   
+Meares P, ss          4  0  1  1   Valle D, c            3  0  0  0   
+Durant M, c           5  0  1  1   Gonzales R, ss        4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 13  5                        34  5  8  5
+
+Minnesota        020 010 003 --  6
+Texas            002 200 100 --  5
+
+  Minnesota            IP  H  R ER BB SO
+Mahomes P             4.0  5  4  4  5  2
+Bennett E             1.1  0  0  0  1  1
+Milchin M             1.0  1  1  1  1  1
+Naulty D              1.0  1  0  0  0  1
+Guardado E (W)        1.2  1  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Oliver D*             4.0  4  3  2  5  4
+Brandenburg M         2.2  3  0  0  1  3
+Cook D                1.0  1  0  0  0  3
+Russell J (L)         1.0  4  3  3  0  1
+Heredia G             0.1  1  0  0  0  0
+  * Pitched to 2 batters in 5th
+
+E -- McLemore M
+DP -- Minnesota 1, Texas 2
+LOB -- Minnesota 12, Texas 10
+2B -- Hamilton D, Clark W, Knoblauch C, Molitor P
+HR -- McLemore M, Gonzalez J, Hollins D
+WP -- Russell J
+T -- 3:37
+A -- 33809
+     Game of 6/7/1996 -- Toronto at Texas (N)
+
+  Toronto            AB  R  H RBI    Texas              AB  R  H RBI
+Brumfield J, cf       4  2  1  0   Hamilton D, cf        5  1  3  1   
+Cedeno D, 2b          5  2  2  1   Rodriguez I, c        4  2  2  0   
+Delgado C, 1b         5  1  4  4   Clark W, 1b           4  2  3  1   
+Carter J, lf          4  0  0  1   Gonzales R, pr-1b     1  1  0  0   
+Sprague E, 3b         4  1  1  1   Gonzalez J, rf        5  0  1  0   
+Olerud J, dh          4  0  0  0   Buford D, rf          0  0  0  0   
+Green S, rf           3  0  0  0   Tettleton M, dh       3  2  0  0   
+Perez R, ph-rf        1  0  1  0   Palmer D, 3b          4  1  2  3   
+Martinez A, c         4  0  1  0   Greer R, lf           3  0  2  3   
+Perez T, ss           4  1  1  0   McLemore M, 2b        2  1  0  0   
+                                   Elster K, ss          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 11  7                        34 10 13  8
+
+Toronto          003 001 300 --  7
+Texas            500 212 00x -- 10
+
+  Toronto              IP  H  R ER BB SO
+Janzen M (L)          5.0  8  8  8  6  2
+Ware J                3.0  5  2  2  3  0
+
+  Texas                IP  H  R ER BB SO
+Pavlik R (W)*         6.0 10  7  7  1  4
+Heredia G             0.2  0  0  0  0  1
+Vosberg E             0.1  0  0  0  0  0
+Russell J             1.0  1  0  0  0  0
+Henneman M (S)        1.0  0  0  0  0  1
+  * Pitched to 4 batters in 7th
+
+E -- Palmer D, Perez T
+DP -- Toronto 1
+LOB -- Toronto 6, Texas 10
+2B -- Delgado C 2, Clark W 2, Palmer D, Brumfield J, Hamilton D
+3B -- Martinez A
+HR -- Delgado C, Sprague E
+SB -- McLemore M
+SF -- Greer R, Carter J
+Balk -- Ware J
+T -- 3:02
+A -- 40046
+     Game of 6/8/1996 -- Toronto at Texas (N)
+
+  Toronto            AB  R  H RBI    Texas              AB  R  H RBI
+Brumfield J, cf       4  0  0  0   Hamilton D, cf        4  0  0  0   
+Gonzalez A, ss        4  0  1  0   Rodriguez I, c        4  1  1  0   
+Samuel J, rf          4  0  0  0   Greer R, lf           3  1  1  1   
+Carter J, 1b          4  0  1  0   Gonzalez J, dh        4  0  0  0   
+Sprague E, dh         4  0  1  0   Frazier L, pr         0  0  0  0   
+O'Brien C, c          3  0  0  0   Tettleton M, 1b       3  0  0  0   
+Perez R, lf           4  0  0  0   Palmer D, 3b          3  0  2  1   
+Cedeno D, 2b          3  0  2  0   Newson W, rf          3  0  1  0   
+Perez T, 3b           3  0  0  0   McLemore M, 2b        2  0  0  0   
+                                   Elster K, ss          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  0  5  0                        28  2  5  2
+
+Toronto          000 000 000 --  0
+Texas            100 000 01x --  2
+
+  Toronto              IP  H  R ER BB SO
+Guzman J (L)          5.0  3  1  1  3  5
+Castillo T            2.0  1  0  0  1  1
+Crabtree T            1.0  1  1  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Oliver D (W)          9.0  5  0  0  0  4
+
+E -- McLemore M, Tettleton M, Cedeno D
+DP -- Toronto 1, Texas 1
+LOB -- Toronto 7, Texas 8
+2B -- Greer R, Palmer D
+SH -- McLemore M
+HBP -- by Oliver D (O'Brien C)
+T -- 2:30
+A -- 43439
+     Game of 6/9/1996 -- Toronto at Texas (D)
+
+  Toronto            AB  R  H RBI    Texas              AB  R  H RBI
+Brumfield J, cf       3  0  0  0   Hamilton D, cf        5  0  1  1   
+Cedeno D, 2b          5  1  1  0   McLemore M, 2b        5  1  4  2   
+Delgado C, dh         5  0  0  0   Greer R, lf           4  1  1  1   
+Carter J, lf          4  1  2  1   Gonzalez J, dh        3  1  3  3   
+Sprague E, 3b         2  1  0  0   Tettleton M, 1b       4  0  0  0   
+Olerud J, 1b          4  1  0  0   Palmer D, 3b          4  0  0  0   
+Green S, rf           3  1  2  3   Newson W, rf          4  0  0  0   
+Perez R, ph-rf        1  0  0  0   Valle D, c            2  1  1  0   
+O'Brien C, c          2  1  1  2   Rodriguez I, c        2  1  1  0   
+Gonzalez A, ss        3  0  0  0   Gonzales R, ss        4  3  3  0   
+                     -- -- -- --                        -- -- -- --
+                     32  6  6  6                        37  8 14  7
+
+Toronto          100 202 010 --  6
+Texas            005 101 01x --  8
+
+  Toronto              IP  H  R ER BB SO
+Hanson E (L)*         6.0 12  7  6  2  8
+Crabtree T            2.0  2  1  0  0  4
+
+  Texas                IP  H  R ER BB SO
+Witt B (W)            5.2  5  5  5  5  5
+Cook D                2.0  1  1  1  1  2
+Russell J             0.1  0  0  0  0  0
+Henneman M (S)        1.0  0  0  0  0  0
+  * Pitched to 2 batters in 7th
+
+E -- Valle D, Green S, Sprague E, Gonzalez A, Cedeno D
+DP -- Toronto 3
+LOB -- Toronto 6, Texas 7
+2B -- Carter J, Rodriguez I
+HR -- Gonzalez J, Green S, O'Brien C
+SB -- Brumfield J, Carter J
+SF -- O'Brien C
+T -- 3:08
+A -- 41605
+     Game of 6/10/1996 -- Milwaukee at Texas (N)
+
+  Milwaukee          AB  R  H RBI    Texas              AB  R  H RBI
+Cirillo J, 3b-1b      3  1  1  0   Hamilton D, cf        3  1  2  3   
+Vina F, 2b            3  1  0  0   Rodriguez I, c        4  1  2  2   
+Seitzer K, 1b         4  0  1  0   Greer R, lf           5  0  1  0   
+Loretta M, 3b         0  0  0  0   Gonzalez J, dh        5  0  1  1   
+Nilsson D, rf         4  1  2  1   Tettleton M, 1b       5  2  2  0   
+Vaughn G, lf          4  0  2  2   Palmer D, 3b          4  0  0  0   
+Jaha J, dh            3  0  0  0   McLemore M, 2b        4  2  3  0   
+Valentin J, ss        3  0  0  0   Buford D, rf          3  1  2  0   
+Koslofski K, ph       1  0  0  0   Elster K, ss          2  1  1  2   
+Listach P, cf         4  0  2  0                                      
+Matheny M, c          3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  8  3                        35  8 14  8
+
+Milwaukee        000 002 001 --  3
+Texas            222 000 20x --  8
+
+  Milwaukee            IP  H  R ER BB SO
+Givens B (L)          2.2  8  6  6  4  2
+Potts M               4.0  5  2  2  1  2
+Burrows T             1.1  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Gross K (W)*          8.0  7  3  3  1  4
+Brandenburg M         1.0  1  0  0  1  0
+  * Pitched to 1 batter in 9th
+
+DP -- Texas 2
+LOB -- Milwaukee 5, Texas 9
+2B -- Hamilton D, Vaughn G, Buford D, Nilsson D
+3B -- Greer R
+SB -- Buford D, McLemore M 2
+CS -- McLemore M
+SF -- Hamilton D
+HBP -- by Gross K (Vina F)
+WP -- Gross K
+T -- 3:05
+A -- 43275
+     Game of 6/11/1996 -- Milwaukee at Texas (N)
+
+  Milwaukee          AB  R  H RBI    Texas              AB  R  H RBI
+Listach P, ss-lf      5  2  2  0   Hamilton D, cf        4  0  0  0   
+Vina F, 2b            5  4  3  0   Buford D, cf          1  0  0  0   
+Seitzer K, dh         5  1  2  0   Rodriguez I, c        4  1  2  1   
+Levis J, ph           1  0  0  0   Valle D, c            1  0  0  0   
+Nilsson D, rf         3  3  2  3   Greer R, lf           5  0  2  0   
+Mieske M, rf          2  0  0  0   Gonzalez J, dh        5  0  2  0   
+Vaughn G, lf          4  2  1  1   Tettleton M, 1b       5  0  0  0   
+Loretta M, ss         1  0  1  2   Newson W, rf          4  0  0  0   
+Jaha J, 1b            6  1  4  4   McLemore M, 2b        3  1  2  0   
+Cirillo J, 3b         5  0  3  2   Frazier L, 2b         1  0  1  0   
+Koslofski K, cf       5  0  1  1   Gonzales R, 3b        4  1  3  2   
+Matheny M, c          5  1  1  1   Elster K, ss          4  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     47 14 20 14                        41  4 14  3
+
+Milwaukee        420 302 003 -- 14
+Texas            100 003 000 --  4
+
+  Milwaukee            IP  H  R ER BB SO
+McDonald B (W)        5.2 12  4  4  0  3
+Garcia R (S)          3.1  2  0  0  0  3
+
+  Texas                IP  H  R ER BB SO
+Hill K (L)            3.2  8  9  9  3  1
+Heredia G             2.1  6  2  2  0  2
+Vosberg E             2.0  3  0  0  0  4
+Brandenburg M         1.0  3  3  1  0  2
+
+E -- Elster K, Frazier L
+DP -- Texas 1
+LOB -- Milwaukee 10, Texas 10
+2B -- Nilsson D, Jaha J, Gonzalez J
+3B -- Greer R
+HR -- Gonzales R, Matheny M
+HBP -- by Hill K (Vina F)
+WP -- McDonald B
+Balk -- Hill K
+T -- 3:35
+A -- 33519
+     Game of 6/12/1996 -- Milwaukee at Texas (D)
+
+  Milwaukee          AB  R  H RBI    Texas              AB  R  H RBI
+Listach P, ss-lf      4  0  0  0   Buford D, cf          5  1  1  4   
+Vina F, 2b            5  1  1  0   Rodriguez I, dh       2  0  1  0   
+Seitzer K, dh         3  1  2  0   Frazier L, ph         2  0  0  0   
+Nilsson D, rf         4  2  0  0   Greer R, lf           5  1  1  0   
+Vaughn G, lf          3  1  1  2   Palmer D, 3b          4  3  3  1   
+Loretta M, ss         1  0  0  0   Tettleton M, 1b       4  3  2  3   
+Jaha J, 1b            5  0  1  1   McLemore M, 2b        5  1  2  0   
+Cirillo J, 3b         4  1  3  1   Valle D, c            4  2  1  1   
+Koslofski K, cf       4  0  1  1   Newson W, rf          3  1  0  1   
+Levis J, c            2  0  0  0   Elster K, ss          3  1  1  2   
+Mieske M, ph          1  0  0  0                                      
+Matheny M, c          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6  9  5                        37 13 12 12
+
+Milwaukee        020 003 010 --  6
+Texas            013 063 00x -- 13
+
+  Milwaukee            IP  H  R ER BB SO
+Miranda A (L)         4.1  7  6  4  3  4
+Wickander K           2.2  4  7  6  4  4
+Boze M                1.0  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Pavlik R (W)          5.1  5  5  4  3  3
+Cook D                1.2  1  0  0  1  2
+Russell J             1.0  2  1  1  0  0
+Heredia G             1.0  1  0  0  0  0
+
+E -- Jaha J, Listach P, McLemore M
+LOB -- Milwaukee 9, Texas 7
+2B -- Greer R, Palmer D, Cirillo J 2
+3B -- Cirillo J, Koslofski K
+HR -- Vaughn G, Tettleton M 2, Buford D
+HBP -- by Cook D (Listach P)
+WP -- Miranda A, Wickander K
+T -- 3:09
+A -- 34842
+     Game of 6/21/1996 -- Boston at Texas (N)
+
+  Boston             AB  R  H RBI    Texas              AB  R  H RBI
+Frye J, 2b            4  1  1  0   Hamilton D, cf        4  1  1  1   
+Valentin J, ss        4  0  2  0   Rodriguez I, c        4  1  2  1   
+Vaughn M, 1b          5  1  1  1   Greer R, lf           5  1  3  1   
+Canseco J, dh         4  1  2  1   Gonzalez J, dh        5  3  3  4   
+Naehring T, 3b        3  1  1  1   Tettleton M, 1b       2  2  1  0   
+Selby B, ph           1  0  0  0   Gonzales R, ph-3b     1  0  0  0   
+Jefferson R, lf       2  0  1  0   Palmer D, 3b          4  1  2  3   
+Malave J, ph-lf       1  0  1  0   Valle D, ph-1b        1  0  0  0   
+Haselman B, c         4  0  0  0   Newson W, rf          5  1  1  0   
+O'Leary T, rf         2  0  0  1   McLemore M, 2b        3  2  2  2   
+Delgado A, ph-rf      1  0  1  0   Elster K, ss          3  2  2  2   
+Tinsley L, cf         4  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4 12  4                        37 14 17 14
+
+Boston           100 002 100 --  4
+Texas            050 303 21x -- 14
+
+  Boston               IP  H  R ER BB SO
+Minchey N (L)         2.2  9  5  5  2  2
+Eshelman V            4.1  7  8  8  2  5
+Garces R              1.0  1  1  1  0  1
+
+  Texas                IP  H  R ER BB SO
+Hill K (W)            7.0  9  4  4  4  4
+Vosberg E             1.0  3  0  0  0  0
+Heredia G             1.0  0  0  0  1  0
+
+E -- Eshelman V
+DP -- Boston 2, Texas 2
+LOB -- Boston 10, Texas 5
+2B -- Newson W, Greer R, Valentin J, Rodriguez I
+3B -- Frye J, Elster K
+HR -- Palmer D, Canseco J, Gonzalez J 2, Vaughn M
+SB -- McLemore M
+CS -- Tinsley L, McLemore M
+SF -- Rodriguez I, O'Leary T, Hamilton D
+PB -- Haselman B
+T -- 2:58
+A -- 40726
+     Game of 6/22/1996 -- Boston at Texas (N)
+
+  Boston             AB  R  H RBI    Texas              AB  R  H RBI
+Frye J, 2b            4  0  1  0   Hamilton D, cf        4  0  1  0   
+Valentin J, ss        4  0  0  0   Rodriguez I, c        4  1  2  4   
+Vaughn M, 1b          4  0  2  0   Greer R, lf           5  1  1  3   
+Canseco J, dh         3  0  0  0   Gonzalez J, dh        4  0  2  0   
+Naehring T, 3b        4  0  0  0   Palmer D, 3b          3  1  2  0   
+Jefferson R, lf       3  1  1  0   Tettleton M, 1b       4  0  0  0   
+Stanley M, c          3  1  1  2   Buford D, rf          0  0  0  0   
+O'Leary T, rf         3  0  1  0   Newson W, rf          3  1  0  0   
+Tinsley L, cf         3  0  0  0   Gonzales R, ph-1b     1  0  0  0   
+                                   McLemore M, 2b        3  3  2  1   
+                                   Elster K, ss          2  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        33  8 10  8
+
+Boston           020 000 000 --  2
+Texas            001 034 00x --  8
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (L)       5.1  6  8  5  4  4
+Gunderson E           1.2  3  0  0  0  0
+Hudson J              1.0  1  0  0  1  1
+
+  Texas                IP  H  R ER BB SO
+Pavlik R (W)          9.0  6  2  2  1  7
+
+E -- Frye J
+DP -- Boston 2, Texas 2
+LOB -- Boston 3, Texas 7
+2B -- Palmer D, Rodriguez I
+3B -- Rodriguez I
+HR -- Stanley M, Greer R
+SB -- Hamilton D, McLemore M
+HBP -- by Wakefield T (Rodriguez I)
+WP -- Gunderson E
+PB -- Stanley M
+T -- 2:42
+A -- 46444
+     Game of 6/23/1996 -- Boston at Texas (N)
+
+  Boston             AB  R  H RBI    Texas              AB  R  H RBI
+Frye J, 2b            3  2  1  0   Hamilton D, cf        4  0  2  1   
+Valentin J, ss        4  1  3  2   Rodriguez I, c        5  0  1  0   
+Vaughn M, 1b          5  0  2  0   Clark W, 1b           4  0  1  0   
+Canseco J, dh         4  0  3  3   Buford D, rf          0  0  0  0   
+Naehring T, 3b        4  0  1  1   Stillwell K, ph       0  0  0  0   
+Stanley M, c          5  0  0  0   Gonzalez J, dh        5  2  2  1   
+Malave J, rf          3  0  0  0   Greer R, lf           4  1  0  0   
+Jefferson R, ph-lf    2  0  0  0   Palmer D, 3b          5  0  4  0   
+Tinsley L, cf         0  0  0  0   Newson W, rf          3  0  1  1   
+Delgado A, lf-rf-lf   5  1  1  0   Tettleton M, ph       1  0  0  0   
+O'Leary T, cf-rf      3  2  1  0   Gonzales R, 1b        1  0  0  0   
+                                   McLemore M, 2b        3  0  0  0   
+                                   Elster K, ss          3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     38  6 12  6                        38  4 12  4
+
+Boston           100 200 030 --  6
+Texas            000 012 100 --  4
+
+  Boston               IP  H  R ER BB SO
+Sele A                5.2  9  3  3  3  5
+Hudson J              0.1  0  0  0  0  0
+Stanton M (W)         1.2  2  1  1  1  1
+Slocumb H (S)         1.1  1  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Oliver D              5.0  8  3  3  3  6
+Brandenburg M         1.2  1  0  0  1  1
+Cook D (L)            0.2  1  2  2  1  1
+Russell J             0.2  2  1  1  0  0
+Henneman M            1.0  0  0  0  0  1
+
+LOB -- Boston 11, Texas 12
+2B -- Hamilton D, Palmer D
+HR -- Gonzalez J
+SF -- Canseco J
+T -- 3:25
+A -- 39399
+     Game of 6/24/1996 -- Baltimore at Texas (N)
+
+  Baltimore          AB  R  H RBI    Texas              AB  R  H RBI
+Anderson B, cf        3  0  1  1   Hamilton D, cf        5  1  2  0   
+Polonia L, dh         3  0  0  0   McLemore M, 2b        2  1  1  1   
+Devereaux M, ph       2  0  2  2   Clark W, 1b           4  0  1  1   
+Alomar R, 2b          5  3  3  0   Gonzalez J, rf        4  0  0  0   
+Palmeiro R, 1b        4  0  0  0   Tettleton M, dh       4  0  0  0   
+Bonilla B, rf         5  0  1  1   Palmer D, 3b          4  1  2  0   
+Ripken C, ss          4  2  3  2   Greer R, lf           4  0  1  1   
+Surhoff B, 3b         4  1  1  1   Valle D, c            2  0  0  0   
+Hoiles C, c           4  1  1  1   Newson W, ph          1  0  1  0   
+Smith M, lf           4  1  1  0   Gonzales R, ss        0  0  0  0   
+                                   Elster K, ss          3  0  0  0   
+                                   Rodriguez I, ph-c     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 13  8                        34  3  8  3
+
+Baltimore        010 105 001 --  8
+Texas            000 001 200 --  3
+
+  Baltimore            IP  H  R ER BB SO
+Mussina M (W)         6.2  6  3  3  4  5
+McDowell R            1.1  2  0  0  0  0
+Myers R               1.0  0  0  0  1  2
+
+  Texas                IP  H  R ER BB SO
+Witt B (L)            5.2  8  6  6  2  3
+Heredia G*            0.0  1  1  1  0  0
+Vosberg E             1.1  2  0  0  1  0
+Brandenburg M         2.0  2  1  1  0  0
+  * Pitched to 1 batter in 6th
+
+LOB -- Baltimore 7, Texas 10
+2B -- Alomar R 2, Palmer D
+3B -- Anderson B, McLemore M, Bonilla B
+HR -- Ripken C
+CS -- Alomar R, Anderson B
+SF -- Clark W
+HBP -- by Witt B (Anderson B)
+PB -- Hoiles C
+T -- 3:39
+A -- 39701
+     Game of 6/25/1996 -- Baltimore at Texas (N)
+
+  Baltimore          AB  R  H RBI    Texas              AB  R  H RBI
+Anderson B, cf        3  2  2  1   Hamilton D, cf        4  0  0  0   
+Alomar R, 2b          4  0  0  0   Rodriguez I, c        4  2  2  2   
+Palmeiro R, 1b        4  0  1  0   Clark W, 1b           4  0  1  0   
+Bonilla B, rf         4  0  1  1   Gonzalez J, rf        3  1  1  0   
+Ripken C, ss          4  0  2  0   Palmer D, 3b          3  0  0  0   
+Surhoff B, 3b         3  0  0  0   Tettleton M, dh       3  1  1  0   
+Devereaux M, lf       4  0  1  0   Greer R, lf           2  1  1  1   
+Polonia L, dh         3  0  0  0   McLemore M, 2b        4  0  1  0   
+Zaun G, c             3  0  0  0   Elster K, ss          2  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        29  5  8  5
+
+Baltimore        100 000 010 --  2
+Texas            011 200 10x --  5
+
+  Baltimore            IP  H  R ER BB SO
+Wells D (L)           6.2  8  5  5  4  1
+Mills A               1.1  0  0  0  1  3
+
+  Texas                IP  H  R ER BB SO
+Gross K (W)           8.1  7  2  2  1  5
+Henneman M (S)        0.2  0  0  0  0  0
+
+DP -- Baltimore 2, Texas 2
+LOB -- Baltimore 5, Texas 6
+2B -- Bonilla B, Gonzalez J, Anderson B, Ripken C
+HR -- Rodriguez I 2, Anderson B
+SB -- Anderson B
+SF -- Greer R
+HBP -- by Gross K (Anderson B)
+T -- 2:54
+A -- 41685
+     Game of 6/26/1996 -- Baltimore at Texas (N)
+
+  Baltimore          AB  R  H RBI    Texas              AB  R  H RBI
+Anderson B, cf        4  1  1  0   Hamilton D, cf        3  0  2  2   
+Polonia L, lf         2  1  1  0   Rodriguez I, c        4  1  0  0   
+Devereaux M, ph-lf    2  0  0  0   Clark W, 1b           4  0  0  0   
+Alomar R, 2b          5  0  0  0   Gonzalez J, rf        3  1  1  3   
+Palmeiro R, 1b        4  2  2  3   Palmer D, 3b          2  0  0  0   
+Bonilla B, rf         3  1  0  0   Gonzales R, 3b        3  1  1  0   
+Ripken C, ss          2  0  0  0   Tettleton M, dh       4  0  1  1   
+Surhoff B, 3b         3  0  1  0   Greer R, lf           3  0  0  0   
+Hoiles C, c           3  0  0  0   McLemore M, 2b        3  2  2  0   
+Smith M, dh           4  0  1  2   Elster K, ss          3  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  6  5                        32  6  9  6
+
+Baltimore        300 002 000 --  5
+Texas            010 001 13x --  6
+
+  Baltimore            IP  H  R ER BB SO
+Coppinger R*          5.0  6  2  2  2  3
+Rhodes A              0.2  0  0  0  3  1
+McDowell R+           1.1  2  3  3  2  0
+Orosco J (L)          0.2  0  1  1  1  0
+Mills A               0.1  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Hill K                5.2  5  5  5  5  6
+Cook D (W)            2.1  1  0  0  1  1
+Henneman M (S)        1.0  0  0  0  0  0
+  * Pitched to 1 batter in 6th
+  + Pitched to 2 batters in 8th
+
+E -- Elster K
+DP -- Texas 1
+LOB -- Baltimore 8, Texas 11
+2B -- McLemore M, Elster K, Gonzales R, Gonzalez J
+HR -- Palmeiro R
+SB -- McLemore M
+SH -- Hamilton D
+HBP -- by Hill K (Polonia L), by Cook D (Ripken C)
+PB -- Hoiles C, Rodriguez I
+T -- 3:32
+A -- 38984
+     Game of 7/4/1996 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Amaral R, cf          3  1  2  1   Hamilton D, cf        5  2  3  0   
+Strange D, ph         0  0  0  0   Rodriguez I, c        5  0  1  0   
+Martinez M, ph-cf     2  0  1  0   Greer R, lf           4  1  2  2   
+Rodriguez A, ss       5  1  1  1   Gonzalez J, dh        4  0  1  0   
+Martinez E, dh-3b     4  1  2  0   Tettleton M, 1b       2  1  0  0   
+Buhner J, rf          5  1  2  1   Palmer D, 3b          4  1  1  3   
+Hunter B, lf          4  0  0  0   Newson W, rf          4  0  1  0   
+Wilson D, c           4  2  1  0   McLemore M, 2b        3  0  0  0   
+Sojo L, 3b            4  0  1  0   Elster K, ss          4  0  0  0   
+Bragg D, ph           0  0  0  0                                      
+Marzano J, ph         0  1  0  1                                      
+Ayala B, p            0  0  0  0                                      
+Sorrento P, 1b        5  1  1  4                                      
+Sheets A, 2b          2  1  0  0                                      
+Cora J, ph-2b         2  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40  9 13  8                        35  5  9  5
+
+Seattle          002 002 005 --  9
+Texas            000 010 400 --  5
+
+  Seattle              IP  H  R ER BB SO
+Meacham R             6.1  7  2  2  4  3
+Guetterman L*         0.0  1  1  0  0  0
+Carmona R (W)         1.2  1  2  0  0  1
+Ayala B               1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Oliver D              5.2  6  4  3  4  4
+Brandenburg M         1.2  2  0  0  1  1
+Vosberg E             0.1  0  0  0  0  0
+Russell J             0.1  0  0  0  0  0
+Henneman M (L)        0.1  2  3  3  1  0
+Cook D+               0.0  2  2  2  0  0
+Whiteside M           0.2  1  0  0  0  1
+  * Pitched to 1 batter in 7th
+  + Pitched to 3 batters in 9th
+
+E -- McLemore M, Carmona R
+DP -- Seattle 2
+LOB -- Seattle 12, Texas 8
+2B -- Newson W, Hamilton D 2, Cora J
+HR -- Palmer D, Sorrento P
+SB -- Amaral R
+SH -- Hunter B
+HBP -- by Meacham R (Tettleton M), by Cook D (Marzano J)
+WP -- Oliver D, Whiteside M
+T -- 3:31
+A -- 46668
+     Game of 7/5/1996 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Cora J, 2b            5  0  0  0   Hamilton D, cf        4  0  0  0   
+Rodriguez A, ss       5  1  1  0   Rodriguez I, c        4  0  0  0   
+Martinez E, dh        4  2  3  1   Greer R, lf           3  1  1  0   
+Buhner J, rf          5  1  1  2   Gonzalez J, rf        4  1  2  2   
+Sorrento P, 1b        4  1  3  0   Tettleton M, dh       4  1  1  1   
+Wilson D, c           5  0  2  1   Palmer D, 3b          4  0  1  0   
+Sojo L, 3b            4  0  1  0   McLemore M, 2b        4  0  0  0   
+Bragg D, lf           3  1  1  1   Gonzales R, 1b        3  0  1  0   
+Amaral R, cf          4  0  3  1   Elster K, ss          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 15  6                        32  3  6  3
+
+Seattle          011 100 102 --  6
+Texas            100 000 002 --  3
+
+  Seattle              IP  H  R ER BB SO
+Hitchcock S (W)       8.1  6  3  3  2  9
+Jackson M             0.2  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Witt B (L)*           8.0 14  6  6  3  8
+Heredia G             1.0  1  0  0  0  0
+  * Pitched to 2 batters in 9th
+
+DP -- Seattle 1, Texas 2
+LOB -- Seattle 10, Texas 4
+2B -- Gonzalez J, Martinez E, Gonzales R, Rodriguez A
+HR -- Bragg D, Buhner J, Gonzalez J, Tettleton M
+SB -- Amaral R
+SH -- Sojo L
+T -- 2:53
+A -- 46397
+     Game of 7/6/1996 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Cora J, 2b            2  1  0  0   Hamilton D, cf        4  0  1  0   
+Rodriguez A, ss       5  1  2  4   Rodriguez I, c        4  0  1  0   
+Martinez E, dh        3  3  3  3   Greer R, lf           4  2  2  1   
+Sorrento P, 1b        5  0  0  0   Gonzalez J, dh        4  1  1  0   
+Buhner J, rf          5  1  1  1   Tettleton M, 1b       4  1  1  0   
+Wilson D, c           1  1  0  0   Palmer D, 3b          4  0  1  2   
+Marzano J, c          2  0  0  0   Newson W, rf          3  1  1  2   
+Strange D, 3b         4  1  1  0   McLemore M, 2b        4  0  1  0   
+Bragg D, lf           3  0  0  1   Elster K, ss          4  0  0  0   
+Amaral R, cf          4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  9  8  9                        35  5  9  5
+
+Seattle          001 700 001 --  9
+Texas            010 200 110 --  5
+
+  Seattle              IP  H  R ER BB SO
+Wagner M (W)          7.0  7  4  4  0  3
+Ayala B               2.0  2  1  1  0  3
+
+  Texas                IP  H  R ER BB SO
+Gross K (L)           3.1  7  8  8  3  3
+Brandenburg M         4.2  0  0  0  2  6
+Whiteside M           1.0  1  1  1  0  1
+
+E -- Sorrento P
+LOB -- Seattle 5, Texas 4
+2B -- Strange D, Gonzalez J
+3B -- Tettleton M, McLemore M
+HR -- Martinez E 3, Buhner J, Rodriguez A, Newson W, Greer R
+SF -- Newson W, Bragg D
+HBP -- by Gross K (Wilson D)
+T -- 2:39
+A -- 46458
+     Game of 7/7/1996 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Cora J, 2b            5  0  1  1   Hamilton D, cf        5  0  0  0   
+Rodriguez A, ss       4  1  0  0   Rodriguez I, c        4  2  3  1   
+Martinez E, dh        4  0  0  1   Greer R, lf           2  1  0  0   
+Sorrento P, 1b        5  0  2  1   Gonzalez J, dh        3  2  2  1   
+Buhner J, rf          5  0  0  0   Tettleton M, 1b       4  0  1  2   
+Hunter B, lf          4  0  1  0   Gonzales R, pr-1b     0  0  0  0   
+Strange D, 3b         2  1  1  0   Palmer D, 3b          3  1  0  1   
+Marzano J, c          2  0  1  0   Newson W, rf          4  1  2  2   
+Amaral R, cf          3  1  2  0   McLemore M, 2b        4  0  0  0   
+                                   Elster K, ss          4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        33  8  9  7
+
+Seattle          000 000 102 --  3
+Texas            020 030 30x --  8
+
+  Seattle              IP  H  R ER BB SO
+Wells B (L)           5.0  6  5  5  2  5
+Suzuki M              1.1  2  3  3  2  1
+Minor B               1.2  1  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Hill K (W)            7.2  5  1  0  5  7
+Russell J             1.1  3  2  2  0  0
+
+E -- Wells B
+LOB -- Seattle 11, Texas 5
+2B -- Rodriguez I, Strange D, Hunter B
+3B -- Rodriguez I
+HR -- Newson W, Gonzalez J
+HBP -- by Hill K (Rodriguez A), by Hill K (Marzano J)
+PB -- Rodriguez I
+T -- 2:40
+A -- 36933
+     Game of 7/15/1996 -- California at Texas (N)
+
+  California         AB  R  H RBI    Texas              AB  R  H RBI
+Erstad D, cf          4  2  2  2   McLemore M, 2b        5  2  2  0   
+Velarde R, 2b-3b      3  1  1  1   Rodriguez I, c        5  2  2  1   
+Snow J, 1b            4  0  0  1   Greer R, cf           5  1  3  1   
+Salmon T, rf          4  1  2  0   Gonzalez J, rf        4  1  2  2   
+Davis C, dh           4  1  1  0   Tettleton M, dh       2  1  0  0   
+Anderson G, lf        5  2  2  2   Palmer D, 3b          2  0  1  2   
+Wallach T, 3b         2  1  0  0   Gonzales R, pr-3b     1  0  0  0   
+Palmeiro O, ph        1  0  1  2   Stillwell K, ph       1  0  0  0   
+Hudler R, 2b          0  0  0  0   Clark W, 1b           4  0  0  0   
+Fabregas J, c         3  2  2  1   Newson W, lf          4  0  0  1   
+Easley D, ss          3  0  0  0   Elster K, ss          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33 10 11  9                        37  7 11  7
+
+California       000 130 600 -- 10
+Texas            430 000 000 --  7
+
+  California           IP  H  R ER BB SO
+Hancock R*            1.0  7  7  7  3  0
+Holtz M               3.0  2  0  0  0  3
+Schmidt J (W)         2.0  1  0  0  0  1
+McElroy C             1.2  1  0  0  2  1
+Percival T (S)        1.1  0  0  0  1  2
+
+  Texas                IP  H  R ER BB SO
+Witt B+               4.0  6  4  4  2  1
+Cook D                2.2  3  3  3  1  2
+Brandenburg M (L)     0.1  2  3  3  3  1
+Heredia G             2.0  0  0  0  0  0
+  * Pitched to 4 batters in 2nd
+  + Pitched to 4 batters in 5th
+
+DP -- California 1, Texas 2
+LOB -- California 5, Texas 10
+2B -- McLemore M, Greer R, Salmon T, Palmeiro O
+3B -- Erstad D
+SF -- Erstad D, Velarde R, Snow J
+HBP -- by Holtz M (Palmer D)
+T -- 3:32
+A -- 45655
+     Game of 7/16/1996 -- California at Texas (N)
+
+  California         AB  R  H RBI    Texas              AB  R  H RBI
+Erstad D, cf          4  1  0  0   McLemore M, 2b        2  0  0  0   
+Velarde R, 2b         3  0  0  0   Buford D, cf          4  1  0  0   
+Salmon T, rf          2  0  1  0   Greer R, lf           4  3  3  2   
+Davis C, dh           4  0  1  1   Gonzalez J, rf        3  1  1  0   
+Anderson G, lf        4  0  0  0   Tettleton M, dh       4  0  2  1   
+Snow J, 1b            4  0  0  0   Clark W, 1b           3  0  0  0   
+Arias G, 3b           4  0  1  0   Stillwell K, 3b       1  0  0  0   
+Borders P, c          3  0  0  0   Gonzales R, 3b-1b     2  1  0  0   
+Palmeiro O, ph        1  0  0  0   Valle D, c            3  0  1  2   
+DiSarcina G, ss       3  1  2  1   Elster K, ss          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  5  2                        29  6  7  5
+
+California       001 010 000 --  2
+Texas            022 010 01x --  6
+
+  California           IP  H  R ER BB SO
+Abbott J (L)          7.0  5  5  5  5  3
+James M               1.0  2  1  0  1  1
+
+  Texas                IP  H  R ER BB SO
+Oliver D (W)          7.0  5  2  2  2  5
+Russell J (S)         2.0  0  0  0  1  1
+
+E -- Erstad D
+DP -- California 1
+LOB -- California 6, Texas 5
+2B -- Gonzalez J, Valle D, Greer R
+HR -- DiSarcina G, Greer R
+SB -- Greer R
+CS -- McLemore M
+WP -- Abbott J, James M
+Balk -- Oliver D
+T -- 2:42
+A -- 34680
+     Game of 7/17/1996 -- California at Texas (N)
+
+  California         AB  R  H RBI    Texas              AB  R  H RBI
+Erstad D, cf          4  0  0  0   McLemore M, 2b        4  1  1  0   
+Velarde R, ph         1  0  0  0   Rodriguez I, c        4  1  1  0   
+Hudler R, 2b          4  1  2  0   Greer R, lf           2  2  1  1   
+Snow J, 1b            4  0  1  0   Gonzalez J, rf        3  1  2  3   
+Salmon T, rf          3  1  2  1   Tettleton M, dh       2  0  0  1   
+Davis C, dh           3  0  1  0   Palmer D, 3b          4  1  2  2   
+Anderson G, lf        4  0  1  1   Gonzales R, 1b        4  0  0  0   
+Arias G, 3b           3  0  0  0   Buford D, cf          3  0  1  0   
+Palmeiro O, ph        1  0  0  0   Elster K, ss          3  1  0  0   
+Fabregas J, c         4  1  2  0                                      
+DiSarcina G, ss       4  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3 11  2                        29  7  8  7
+
+California       101 000 001 --  3
+Texas            201 011 20x --  7
+
+  California           IP  H  R ER BB SO
+Finley C (L)          6.1  6  7  6  6  4
+Schmidt J             1.2  2  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Hill K (W)            8.2 11  3  2  2  4
+Vosberg E             0.1  0  0  0  0  0
+
+E -- Gonzales R
+DP -- California 1, Texas 2
+LOB -- California 7, Texas 7
+2B -- McLemore M, Gonzalez J
+HR -- Gonzalez J, Palmer D
+CS -- Snow J, Hudler R
+SF -- Greer R, Tettleton M
+WP -- Schmidt J
+Balk -- Vosberg E
+PB -- Fabregas J
+T -- 3:01
+A -- 44220
+     Game of 7/18/1996 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Herrera J, rf         4  0  1  1   Hamilton D, cf        5  1  1  0   
+Bournigal R, 2b-ss    6  0  3  2   Rodriguez I, c        5  1  2  0   
+Giambi J, lf          5  0  0  0   Greer R, lf           6  0  1  1   
+Mashore D, lf         1  0  0  0   Gonzalez J, dh        3  1  2  1   
+McGwire M, 1b         4  0  0  0   Palmer D, 3b          4  1  2  1   
+Berroa G, dh          5  0  0  0   Newson W, rf          3  0  1  0   
+Brosius S, 3b         4  2  3  1   Buford D, ph-rf       1  0  0  0   
+Williams G, c         2  0  0  0   Stillwell K, ph-2b    1  0  0  0   
+Stairs M, ph          1  0  1  0   McLemore M, 2b-rf     4  0  0  0   
+Batista T, pr-2b      1  1  0  0   Gonzales R, 1b        4  0  0  1   
+Young E, cf           5  1  2  0   Elster K, ss          5  0  1  0   
+Bordick M, ss         3  0  0  0                                      
+Steinbach T, ph-c     2  1  2  1                                      
+                     -- -- -- --                        -- -- -- --
+                     43  5 12  5                        41  4 10  4
+
+Oakland          000 100 102 01 --  5
+Texas            100 002 001 00 --  4
+
+  Oakland              IP  H  R ER BB SO
+Wengert D             7.0  8  3  3  3  3
+Mohler M              1.1  2  1  1  2  1
+Taylor B              0.2  0  0  0  0  1
+Reyes C (W)           1.0  0  0  0  0  1
+Groom B               0.2  0  0  0  1  0
+VanPoppel T (S)       0.1  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Pavlik R              8.1  9  4  3  5  6
+Cook D                0.1  0  0  0  0  0
+Russell J             1.1  1  0  0  0  0
+Brandenburg M (L)     1.0  2  1  1  0  0
+
+E -- Palmer D, Williams G
+DP -- Texas 2
+LOB -- Oakland 11, Texas 12
+2B -- Rodriguez I, Elster K, Bournigal R, Steinbach T 2, Greer R
+HR -- Brosius S, Gonzalez J
+SB -- McLemore M
+SH -- Herrera J
+SF -- Palmer D, Gonzales R
+WP -- Pavlik R
+PB -- Williams G
+T -- 3:47
+A -- 28585
+     Game of 7/19/1996 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Herrera J, rf         5  0  0  0   Hamilton D, cf        5  0  0  0   
+Batista T, 2b         5  1  1  0   Rodriguez I, c        5  2  2  3   
+Giambi J, lf          5  2  2  2   Greer R, lf           5  0  2  0   
+Mashore D, lf         0  0  0  0   Gonzalez J, dh        3  1  1  1   
+McGwire M, 1b         4  2  2  3   Palmer D, 3b          3  0  0  0   
+Berroa G, dh          4  1  1  0   McLemore M, 2b        3  0  1  0   
+Brosius S, 3b         3  2  2  0   Gonzales R, 1b        1  1  0  0   
+Steinbach T, c        3  1  2  2   Newson W, ph          1  0  0  0   
+Young E, cf           4  0  0  0   Stillwell K, 1b       2  0  1  0   
+Bordick M, ss         4  0  1  2   Buford D, rf          4  2  3  0   
+                                   Elster K, ss          4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     37  9 11  9                        36  6 11  5
+
+Oakland          010 440 000 --  9
+Texas            003 111 000 --  6
+
+  Oakland              IP  H  R ER BB SO
+Johns D               4.1  5  5  5  5  2
+Reyes C (W)*          0.2  1  1  1  1  2
+Corsi J               2.1  4  0  0  0  3
+Groom B+              0.2  1  0  0  0  0
+Taylor B (S)          1.0  0  0  0  1  3
+
+  Texas                IP  H  R ER BB SO
+Helling R (L)#        4.0  9  8  8  1  5
+Heredia G             4.0  2  1  1  0  2
+Henneman M            1.0  0  0  0  0  1
+  * Pitched to 1 batter in 6th
+  + Pitched to 1 batter in 9th
+  # Pitched to 3 batters in 5th
+
+DP -- Oakland 1
+LOB -- Oakland 3, Texas 10
+2B -- Brosius S 2, Giambi J, Elster K, McLemore M
+3B -- Bordick M
+HR -- Rodriguez I, McGwire M 2, Gonzalez J, Giambi J
+SF -- Steinbach T
+WP -- Reyes C, Taylor B
+T -- 3:30
+A -- 37455
+     Game of 7/20/1996 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Herrera J, rf         4  0  0  0   Hamilton D, cf        5  1  2  1   
+Young E, ph           1  0  1  0   Rodriguez I, c        5  1  1  0   
+Bournigal R, 2b       5  0  0  0   Greer R, lf           5  0  2  1   
+Giambi J, lf          5  0  3  1   Gonzalez J, dh        4  0  0  0   
+McGwire M, 1b         3  1  1  1   Palmer D, 3b          4  2  2  1   
+Berroa G, dh          3  1  3  1   Stevens L, 1b         4  1  3  1   
+Brosius S, 3b         4  1  1  0   McLemore M, 2b        4  2  2  0   
+Steinbach T, c        4  0  2  0   Newson W, rf          3  1  2  1   
+Mashore D, cf         3  0  0  0   Elster K, ss          2  0  1  1   
+Stairs M, ph          1  0  1  0                                      
+Bordick M, ss         4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  4 13  3                        36  8 15  6
+
+Oakland          011 002 000 --  4
+Texas            000 106 10x --  8
+
+  Oakland              IP  H  R ER BB SO
+Telgheder D*          5.0  9  4  4  1  2
+VanPoppel T (L)       0.1  3  3  3  0  0
+Reyes C               1.1  3  1  1  1  1
+Mohler M              1.1  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Witt B (W)+           8.0 12  4  4  2  6
+Vosberg E             0.1  0  0  0  0  0
+Henneman M            0.2  1  0  0  0  1
+  * Pitched to 3 batters in 6th
+  + Pitched to 1 batter in 9th
+
+E -- VanPoppel T
+DP -- Oakland 1, Texas 3
+LOB -- Oakland 8, Texas 8
+2B -- Giambi J, Palmer D, Rodriguez I, Greer R, McLemore M, Stairs M
+3B -- Stevens L 2
+HR -- McGwire M, Palmer D, Berroa G
+SH -- Elster K
+SF -- Elster K
+WP -- VanPoppel T
+T -- 2:58
+A -- 46052
+     Game of 7/21/1996 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Mashore D, rf-lf      5  3  4  2   Hamilton D, cf        5  0  0  0   
+Bournigal R, 2b       4  1  1  0   Rodriguez I, c        5  2  3  0   
+Brosius S, 3b         3  2  3  4   Greer R, lf           5  2  5  2   
+McGwire M, 1b         4  0  1  0   Gonzalez J, dh        5  1  1  2   
+Berroa G, dh          5  1  1  1   Palmer D, 3b          4  0  1  0   
+Steinbach T, c        5  2  2  3   Stevens L, 1b         4  2  3  2   
+Giambi J, lf          5  1  2  1   McLemore M, 2b        4  0  1  0   
+Herrera J, rf         0  0  0  0   Newson W, rf          4  0  0  0   
+Young E, cf           5  0  1  0   Valle D, ph           1  0  1  0   
+Bordick M, ss         5  1  1  0   Stillwell K, pr       0  0  0  0   
+                                   Elster K, ss          5  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     41 11 16 11                        42  8 16  8
+
+Oakland          003 311 102 -- 11
+Texas            300 220 100 --  8
+
+  Oakland              IP  H  R ER BB SO
+Chouinard B           4.1  8  7  7  3  3
+Groom B (W)           1.1  3  0  0  0  1
+Corsi J               2.0  3  1  1  0  0
+Taylor B*             0.1  1  0  0  0  0
+Mohler M (S)          1.0  1  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Oliver D              4.0  8  6  3  2  4
+Brandenburg M (L)+    2.0  4  3  3  0  1
+Whiteside M           3.0  4  2  2  2  2
+  * Pitched to 1 batter in 9th
+  + Pitched to 1 batter in 7th
+
+E -- Palmer D
+DP -- Oakland 1, Texas 1
+LOB -- Oakland 9, Texas 10
+2B -- Berroa G, Greer R
+HR -- Greer R, Gonzalez J, Steinbach T 2, Brosius S, Elster K, Giambi J, Stevens L, Mashore D
+SH -- Bournigal R 2
+WP -- Oliver D
+T -- 3:23
+A -- 36039
+     Game of 7/30/1996 -- New York at Texas (N)
+
+  New York           AB  R  H RBI    Texas              AB  R  H RBI
+Boggs W, 3b           2  1  1  0   Hamilton D, cf        5  3  3  2   
+Williams B, cf        3  0  0  0   Rodriguez I, c        3  2  2  4   
+Williams G, cf        1  0  0  0   Buford D, ph-lf       2  0  0  0   
+O'Neill P, rf         4  1  1  2   Greer R, lf           4  1  1  4   
+Martinez T, 1b        3  0  0  0   Gonzales R, ph-3b     1  0  0  0   
+Aldrete M, 1b         1  0  1  0   Gonzalez J, rf        5  3  5  2   
+Strawberry D, dh      4  0  0  0   Newson W, rf          0  0  0  0   
+Sierra R, lf          4  0  0  0   Tettleton M, dh       4  1  0  0   
+Duncan M, 2b          2  0  0  0   Palmer D, 3b          4  2  2  0   
+Howard M, 2b          1  0  0  0   Valle D, c            1  0  1  0   
+Leyritz J, c          3  0  1  0   Stevens L, 1b         5  0  2  2   
+Jeter D, ss           2  0  1  0   McLemore M, 2b        5  1  2  1   
+Fox A, ss             1  0  0  0   Elster K, ss          5  2  3  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        44 15 21 15
+
+New York         200 000 000 --  2
+Texas            406 040 10x -- 15
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        2.2 10 10 10  1  5
+Mecir J               2.1  6  4  4  1  2
+Wickman B             1.0  2  0  0  0  0
+Polley D              1.0  1  1  1  0  1
+Nelson J              1.0  2  0  0  1  2
+
+  Texas                IP  H  R ER BB SO
+Witt B (W)            9.0  5  2  2  2  9
+
+DP -- New York 1, Texas 1
+LOB -- New York 4, Texas 8
+2B -- Palmer D, Rodriguez I, Gonzalez J, Stevens L, Aldrete M
+HR -- O'Neill P, Rodriguez I, Gonzalez J 2, Greer R
+T -- 2:37
+A -- 39637
+     Game of 7/31/1996 -- New York at Texas (N)
+
+  New York           AB  R  H RBI    Texas              AB  R  H RBI
+Jeter D, ss           5  0  2  0   Hamilton D, cf        3  1  0  0   
+Girardi J, c          5  0  1  0   Rodriguez I, c        3  3  2  2   
+O'Neill P, rf         4  1  1  0   Greer R, lf           3  0  1  0   
+Williams B, cf        4  1  1  0   Gonzalez J, rf        4  1  2  4   
+Martinez T, 1b        3  0  0  0   Tettleton M, dh       5  0  1  1   
+Sierra R, dh          4  0  2  0   Palmer D, 3b          3  1  1  1   
+Duncan M, 3b          4  0  3  2   Stevens L, 1b         4  0  0  0   
+Williams G, lf        3  0  0  0   McLemore M, 2b        3  0  1  0   
+Boggs W, ph           1  0  0  0   Gonzales R, ss        2  3  1  0   
+Howard M, 2b          3  0  1  0                                      
+Strawberry D, ph      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  2 11  2                        30  9  9  8
+
+New York         000 200 000 --  2
+Texas            003 021 21x --  9
+
+  New York             IP  H  R ER BB SO
+Key J (L)             5.1  6  6  6  4  7
+Wickman B             1.1  2  2  2  3  0
+Polley D              0.2  1  1  1  1  1
+Nelson J              0.2  0  0  0  2  2
+
+  Texas                IP  H  R ER BB SO
+Oliver D (W)          7.0  9  2  2  0  4
+Cook D                0.2  1  0  0  1  1
+Russell J             0.1  0  0  0  0  1
+Patterson D           1.0  1  0  0  0  1
+
+E -- Gonzales R, Stevens L, Duncan M
+DP -- New York 3, Texas 1
+LOB -- New York 9, Texas 8
+2B -- Girardi J, Duncan M 2
+HR -- Gonzalez J, Rodriguez I, Palmer D
+SH -- Hamilton D
+PB -- Rodriguez I
+T -- 3:03
+A -- 30645
+     Game of 8/1/1996 -- New York at Texas (N)
+
+  New York           AB  R  H RBI    Texas              AB  R  H RBI
+Boggs W, 3b           4  0  0  0   Hamilton D, cf        5  1  2  0   
+Williams B, cf        5  0  0  0   Rodriguez I, c        4  0  1  0   
+O'Neill P, rf         3  0  2  0   Valle D, pr-c         0  1  0  0   
+Fielder C, dh         5  1  1  0   Greer R, lf           4  2  3  1   
+Martinez T, 1b        4  2  2  0   Gonzalez J, rf        4  1  2  3   
+Strawberry D, lf      3  3  2  1   Tettleton M, dh       3  0  0  1   
+Williams G, lf        0  0  0  0   Palmer D, 3b          4  0  0  0   
+Duncan M, 2b          2  0  1  1   Stevens L, 1b         4  0  1  0   
+Fox A, 2b             1  0  0  0   McLemore M, 2b        3  0  0  0   
+Girardi J, c          4  0  3  4   Elster K, ss          4  0  0  0   
+Jeter D, ss           4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  6 11  6                        35  5  9  5
+
+New York         020 003 010 --  6
+Texas            000 200 030 --  5
+
+  New York             IP  H  R ER BB SO
+Rogers K (W)          5.2  4  2  2  0  3
+Rivera M              1.2  5  3  3  0  0
+Wetteland J (S)       1.2  0  0  0  1  2
+
+  Texas                IP  H  R ER BB SO
+Hill K (L)            7.0  9  5  5  3  3
+Stanton M             1.0  1  1  1  1  1
+Heredia G             1.0  1  0  0  0  1
+
+E -- Rodriguez I
+DP -- Texas 1
+LOB -- New York 7, Texas 5
+2B -- Girardi J, Duncan M, Gonzalez J, O'Neill P
+HR -- Gonzalez J
+SB -- Strawberry D 2, McLemore M
+CS -- Girardi J
+SF -- Duncan M, Tettleton M
+T -- 3:01
+A -- 34855
+     Game of 8/2/1996 -- Chicago at Texas (N)
+
+  Chicago            AB  R  H RBI    Texas              AB  R  H RBI
+Martinez D, rf        6  1  1  0   Hamilton D, cf        3  0  1  0   
+Durham R, 2b          4  3  1  0   Buford D, cf          1  0  0  0   
+Thomas F, 1b          3  2  2  1   McLemore M, 2b        2  0  1  0   
+Snopek C, pr-3b       0  0  0  0   Stillwell K, 2b       2  0  0  0   
+Baines H, dh          5  2  4  4   Greer R, lf           4  0  0  0   
+Ventura R, 3b-1b      5  0  3  2   Gonzalez J, rf        2  0  0  0   
+Mouton L, lf          4  0  1  2   Gonzales R, ss        1  0  0  0   
+Lewis D, cf           4  0  0  0   Palmer D, 3b          4  0  0  0   
+Karkovice R, c        5  0  0  0   Tettleton M, dh       3  0  1  0   
+Guillen O, ss         5  1  2  0   Stevens L, 1b         2  0  0  0   
+                                   Elster K, ss          2  0  0  0   
+                                   Newson W, ph-rf       1  0  0  0   
+                                   Valle D, c            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  9 14  9                        30  0  3  0
+
+Chicago          410 004 000 --  9
+Texas            000 000 000 --  0
+
+  Chicago              IP  H  R ER BB SO
+Fernandez A (W)       9.0  3  0  0  1  8
+
+  Texas                IP  H  R ER BB SO
+Pavlik R (L)*         4.0  7  5  5  2  4
+Patterson D           2.0  4  4  0  2  0
+Cook D                2.0  2  0  0  0  0
+Henneman M            1.0  1  0  0  0  2
+  * Pitched to 2 batters in 5th
+
+E -- Palmer D, Guillen O
+DP -- Texas 1
+LOB -- Chicago 10, Texas 5
+2B -- Ventura R, Durham R, Baines H
+HBP -- by Pavlik R (Lewis D), by Fernandez A (Stevens L)
+T -- 2:46
+A -- 36299
+     Game of 8/3/1996 -- Chicago at Texas (N)
+
+  Chicago            AB  R  H RBI    Texas              AB  R  H RBI
+Martinez D, cf-lf     6  0  1  0   Hamilton D, cf        4  1  1  1   
+Durham R, 2b          4  2  3  3   Greer R, lf           5  2  2  2   
+Thomas F, 1b          4  1  1  0   Gonzalez J, rf        5  1  1  1   
+Baines H, dh          4  0  1  0   Tettleton M, dh       4  0  1  2   
+Ventura R, 3b         4  1  0  0   Palmer D, 3b          4  0  1  0   
+Tartabull D, rf       4  1  1  2   Stevens L, 1b         4  0  1  1   
+Mouton L, lf          4  1  3  2   Elster K, ss          5  2  1  1   
+Lewis D, pr-cf        0  1  0  0   Stillwell K, 2b       4  2  1  0   
+Karkovice R, c        5  3  3  1   Valle D, c            4  1  3  1   
+Guillen O, ss         5  1  3  2   Rodriguez I, ph       1  0  1  0   
+                                   Buford D, pr          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40 11 16 10                        40  9 13  9
+
+Chicago          400 220 012 -- 11
+Texas            020 000 610 --  9
+
+  Chicago              IP  H  R ER BB SO
+Andujar L*            6.0  6  5  4  2  0
+Thomas L+             0.0  1  2  2  0  0
+Simas B               1.0  2  1  1  1  1
+Karchner M            0.1  2  1  1  0  0
+Hernandez R (W)       1.2  2  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Gross K               3.1  5  6  6  6  3
+Cook D                1.0  0  0  0  0  1
+Heredia G             2.2  5  2  2  0  2
+Vosberg E             1.0  2  1  1  1  0
+Russell J (L)         0.1  2  2  2  0  0
+Stanton M             0.2  2  0  0  0  0
+  * Pitched to 3 batters in 7th
+  + Pitched to 2 batters in 7th
+
+E -- Mouton L, Stillwell K, Thomas F
+DP -- Texas 3
+LOB -- Chicago 10, Texas 10
+2B -- Tartabull D, Karkovice R, Greer R
+HR -- Elster K, Durham R
+SB -- Durham R
+SF -- Tettleton M
+HBP -- by Heredia G (Mouton L), by Thomas L (Hamilton D)
+WP -- Gross K
+Balk -- Vosberg E
+T -- 3:37
+A -- 46481
+     Game of 8/4/1996 -- Chicago at Texas (N)
+
+  Chicago            AB  R  H RBI    Texas              AB  R  H RBI
+Martinez D, cf        3  1  1  0   Hamilton D, cf        5  1  3  1   
+Durham R, 2b          4  0  1  0   Rodriguez I, c        4  0  1  0   
+Thomas F, 1b          3  0  1  0   Greer R, lf           4  1  1  0   
+Martin N, ss          1  1  1  0   Palmer D, 3b          4  0  1  0   
+Baines H, dh          4  2  3  4   Clark W, 1b           5  0  0  0   
+Ventura R, 3b-1b      4  0  0  0   Tettleton M, dh       4  3  3  3   
+Tartabull D, rf       3  0  0  0   Newson W, rf          2  1  0  0   
+Snopek C, 3b          1  0  0  0   McLemore M, 2b        4  1  1  1   
+Mouton L, lf-rf       4  0  1  1   Elster K, ss          4  2  2  3   
+Borders P, c          4  0  1  0                                      
+Guillen O, ss-lf      4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5 10  5                        36  9 12  8
+
+Chicago          000 000 140 --  5
+Texas            032 003 10x --  9
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J (L)         5.2  8  7  7  2  4
+Sirotka M             1.0  3  2  2  2  0
+Darwin J              1.1  1  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Witt B (W)            7.1  9  4  4  1  3
+Vosberg E             1.2  1  1  1  0  2
+
+E -- Ventura R
+DP -- Texas 2
+LOB -- Chicago 4, Texas 8
+2B -- Elster K, Baines H, Tettleton M, Guillen O
+3B -- Hamilton D
+HR -- Tettleton M 2, Elster K, Baines H
+SB -- Hamilton D
+CS -- Tettleton M
+WP -- Sirotka M
+T -- 2:32
+A -- 32854
+     Game of 8/5/1996 -- Chicago at Texas (N)
+
+  Chicago            AB  R  H RBI    Texas              AB  R  H RBI
+Durham R, 2b          4  3  3  1   Hamilton D, cf        5  0  0  0   
+Martin N, dh          4  3  3  2   Rodriguez I, c        4  0  1  0   
+Thomas F, 1b          5  0  2  1   Greer R, lf           5  1  2  0   
+Tartabull D, rf       4  0  0  2   Palmer D, 3b          5  0  2  0   
+Lewis D, lf           2  0  1  1   Clark W, 1b           5  0  2  1   
+Mouton L, lf-rf       5  1  2  1   Tettleton M, dh       2  1  0  0   
+Snopek C, ss          3  2  2  0   McLemore M, 2b        5  1  1  0   
+Guillen O, ph-ss      2  0  1  1   Buford D, rf          3  1  1  0   
+Ventura R, 3b         6  2  2  3   Newson W, ph-rf       1  0  0  0   
+Karkovice R, c        4  1  0  0   Elster K, ss          2  1  1  4   
+Martinez D, cf        5  3  3  3                                      
+                     -- -- -- --                        -- -- -- --
+                     44 15 19 15                        37  5 10  5
+
+Chicago          143 003 004 -- 15
+Texas            000 400 100 --  5
+
+  Chicago              IP  H  R ER BB SO
+Alvarez W (W)         6.2  8  5  5  4  4
+Thomas L              0.1  0  0  0  0  0
+Karchner M            1.2  2  0  0  1  0
+Darwin J              0.1  0  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Oliver D (L)          2.1  7  8  8  2  1
+Heredia G*            2.2  4  3  3  1  4
+Russell J             2.0  2  0  0  2  0
+Stanton M             2.0  6  4  4  1  1
+  * Pitched to 3 batters in 6th
+
+E -- Thomas F
+DP -- Chicago 1
+LOB -- Chicago 10, Texas 11
+2B -- Durham R 2, Snopek C, Clark W
+3B -- Greer R
+HR -- Martin N, Ventura R, Elster K, Martinez D
+SF -- Durham R, Guillen O
+PB -- Rodriguez I
+T -- 3:31
+A -- 29973
+     Game of 8/12/1996 -- Detroit at Texas (N)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Pride C, dh           3  0  1  0   Hamilton D, cf        4  2  4  3   
+Easley D, 2b          4  0  0  0   Rodriguez I, c        5  0  0  1   
+Fryman T, 3b          4  0  0  0   Greer R, lf           2  1  1  2   
+Sierra R, rf          4  0  0  0   Gonzalez J, rf        4  1  1  0   
+Higginson B, lf       4  0  1  0   Clark W, 1b           4  0  2  1   
+Clark T, 1b           4  0  1  0   Palmer D, 3b          3  0  0  0   
+Cedeno A, ss          3  0  1  0   Tettleton M, dh       3  0  1  0   
+Ausmus B, c           3  0  1  0   McLemore M, 2b        3  2  0  0   
+Bartee K, cf          3  0  0  0   Elster K, ss          4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  0  5  0                        32  7 10  7
+
+Detroit          000 000 000 --  0
+Texas            202 201 00x --  7
+
+  Detroit              IP  H  R ER BB SO
+Williams B (L)        6.0  8  7  7  4  2
+Eischen J             2.0  2  0  0  2  0
+
+  Texas                IP  H  R ER BB SO
+Hill K (W)            9.0  5  0  0  1  4
+
+DP -- Detroit 2
+LOB -- Detroit 6, Texas 7
+2B -- Hamilton D, Clark T, Pride C
+3B -- Gonzalez J
+HR -- Greer R, Hamilton D
+T -- 2:33
+A -- 25210
+     Game of 8/13/1996 -- Detroit at Texas (N)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Pride C, dh           2  1  1  0   Hamilton D, cf        4  1  2  0   
+Easley D, ss          3  0  2  1   Rodriguez I, c        5  1  1  0   
+Fryman T, 3b          3  0  0  0   Greer R, lf           4  0  1  1   
+Sierra R, rf          2  0  0  0   Gonzalez J, rf        4  0  1  1   
+Higginson B, lf       4  1  0  0   Buford D, pr-rf       0  1  0  0   
+Clark T, 1b           4  0  2  0   Clark W, 1b           4  1  1  1   
+Lewis M, 2b           2  0  0  1   Palmer D, 3b          4  1  1  0   
+Ausmus B, c           3  0  0  0   Tettleton M, dh       3  0  2  2   
+Bartee K, cf          3  0  0  0   Stillwell K, pr       0  1  0  0   
+                                   McLemore M, 2b        3  0  0  0   
+                                   Elster K, ss          3  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     26  2  5  2                        34  6  9  6
+
+Detroit          010 010 000 --  2
+Texas            101 001 03x --  6
+
+  Detroit              IP  H  R ER BB SO
+Olivares O (L)        7.1  8  5  5  2  8
+Myers M*              0.0  1  1  1  1  0
+Lima J                0.2  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Pavlik R (W)          7.0  5  2  2  4  4
+Russell J             1.0  0  0  0  1  0
+Stanton M             1.0  0  0  0  0  0
+  * Pitched to 2 batters in 8th
+
+E -- Fryman T
+DP -- Texas 1
+LOB -- Detroit 5, Texas 8
+2B -- Hamilton D 2, Greer R, Rodriguez I, Tettleton M
+HR -- Clark W
+SB -- Tettleton M
+CS -- Clark T
+SH -- Lewis M, Easley D, Elster K
+SF -- Lewis M
+WP -- Pavlik R 2, Myers M
+T -- 2:52
+A -- 31331
+     Game of 8/14/1996 -- Detroit at Texas (N)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Pride C, lf           3  2  2  1   Hamilton D, cf        4  1  0  0   
+Williams E, ph        1  0  0  0   Rodriguez I, c        5  0  1  1   
+Nevin P, lf           0  0  0  0   Greer R, lf           2  0  0  0   
+Lewis M, 2b           4  0  2  1   Gonzalez J, rf        2  1  1  1   
+Fryman T, 3b          4  0  0  1   Clark W, 1b           3  1  2  1   
+Sierra R, dh          4  0  0  0   Palmer D, 3b          4  0  0  0   
+Higginson B, rf       3  0  0  0   Tettleton M, dh       3  1  0  0   
+Clark T, 1b           5  0  2  0   McLemore M, 2b        2  1  0  0   
+Cedeno A, ss          4  0  1  0   Elster K, ss          4  0  2  2   
+Ausmus B, c           4  1  2  0                                      
+Bartee K, cf          2  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  3                        29  5  6  5
+
+Detroit          120 001 000 --  4
+Texas            113 000 00x --  5
+
+  Detroit              IP  H  R ER BB SO
+VanPoppel T (L)       5.0  6  5  5  5  0
+Cummings J            2.0  0  0  0  2  0
+Lewis R               1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Witt B (W)*           5.0  8  4  3  4  4
+Cook D                0.1  0  0  0  0  1
+Gross K               2.0  1  0  0  1  1
+Stanton M             0.1  0  0  0  0  1
+Russell J             0.1  0  0  0  0  0
+Henneman M (S)        1.0  0  0  0  1  1
+  * Pitched to 2 batters in 6th
+
+LOB -- Detroit 11, Texas 9
+2B -- Pride C, Clark W, Clark T, Ausmus B
+HR -- Gonzalez J
+SB -- Hamilton D, McLemore M, Elster K, Clark W
+CS -- Pride C
+SH -- Bartee K
+SF -- Clark W, Fryman T
+HBP -- by VanPoppel T (Gonzalez J)
+PB -- Rodriguez I
+T -- 3:18
+A -- 33942
+     Game of 8/16/1996 -- Kansas City at Texas (N)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Offerman J, 1b-ss     4  0  2  2   McLemore M, 2b        4  0  1  1   
+Goodwin T, cf         2  0  0  0   Rodriguez I, c        4  0  1  0   
+Lockhart K, 2b        3  0  1  0   Greer R, lf           5  0  1  0   
+Young K, ph-1b        1  0  0  0   Gonzalez J, rf        3  1  1  1   
+Hamelin B, dh         3  0  1  0   Clark W, 1b           4  1  1  0   
+Paquette C, 3b-ss-3b  4  0  1  0   Palmer D, 3b          4  2  2  0   
+Tucker M, lf          3  1  1  1   Tettleton M, dh       2  0  0  1   
+Sweeney M, c          4  1  1  0   Buford D, cf          3  1  2  1   
+Damon J, rf           3  1  0  0   Hamilton D, ph-cf     0  0  0  0   
+Howard D, ss          1  0  0  0   Elster K, ss          3  0  1  1   
+Randa J, 3b-2b        3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  7  3                        32  5 10  5
+
+Kansas City      000 020 001 --  3
+Texas            013 000 01x --  5
+
+  Kansas City          IP  H  R ER BB SO
+Haney C (L)           7.1 10  5  5  2  3
+Huisman R             0.1  0  0  0  3  0
+Jacome J              0.1  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Burkett J (W)         7.1  5  2  2  4  4
+Stanton M             0.1  1  0  0  0  0
+Russell J             0.1  0  0  0  0  0
+Henneman M (S)        1.0  1  1  1  0  3
+
+DP -- Texas 2
+LOB -- Kansas City 6, Texas 10
+2B -- Elster K, Clark W, Buford D, Lockhart K, Offerman J
+HR -- Gonzalez J, Tucker M
+SH -- Goodwin T, Tettleton M
+SF -- Tettleton M
+T -- 3:00
+A -- 32053
+     Game of 8/17/1996 -- Kansas City at Texas (N)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Offerman J, ss-1b     5  0  2  0   Hamilton D, cf        4  1  1  0   
+Goodwin T, cf         5  0  2  0   McLemore M, 2b        4  0  0  0   
+Lockhart K, 2b        5  0  0  0   Greer R, lf           4  0  3  0   
+Hamelin B, 1b         4  1  1  0   Gonzalez J, rf        4  0  1  1   
+Howard D, ss          1  0  0  0   Clark W, 1b           4  0  1  0   
+Paquette C, 3b        5  2  3  0   Palmer D, 3b          4  0  0  0   
+Tucker M, lf          4  1  3  0   Tettleton M, dh       3  0  0  0   
+MacFarlane M, c       3  0  2  0   Elster K, ss          3  0  0  0   
+Damon J, rf           2  0  0  2   Valle D, c            3  0  0  0   
+Sweeney M, dh         3  0  2  2                                      
+                     -- -- -- --                        -- -- -- --
+                     37  4 15  4                        33  1  6  1
+
+Kansas City      000 200 020 --  4
+Texas            000 100 000 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Belcher T (W)         9.0  6  1  1  0  5
+
+  Texas                IP  H  R ER BB SO
+Hill K (L)            7.1 13  4  4  2  4
+Vosberg E             1.2  2  0  0  0  0
+
+E -- Paquette C
+DP -- Kansas City 1
+LOB -- Kansas City 10, Texas 5
+2B -- Gonzalez J, Greer R, Offerman J, Tucker M, Sweeney M
+CS -- Goodwin T
+SF -- Damon J 2
+T -- 2:31
+A -- 41855
+     Game of 8/18/1996 -- Kansas City at Texas (N)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Offerman J, 2b        5  0  1  0   Hamilton D, cf        3  0  1  0   
+Randa J, 3b           3  0  1  1   Rodriguez I, c        5  1  2  0   
+Paquette C, lf        4  0  2  0   Greer R, lf           4  1  1  0   
+MacFarlane M, c       3  0  1  0   Buford D, pr-lf       0  0  0  0   
+Sweeney M, dh         4  0  1  0   Gonzalez J, rf        5  2  3  1   
+Young K, 1b           4  1  1  0   Valle D, 1b           0  0  0  0   
+Tucker M, rf          3  1  1  0   Clark W, 1b           4  3  3  4   
+Norman L, cf          3  1  0  0   Gonzales R, 1b-3b     1  0  0  0   
+Howard D, ss          4  0  2  2   Palmer D, 3b          4  1  2  2   
+                                   Newson W, ph-rf       1  0  1  0   
+                                   Tettleton M, dh       4  0  1  1   
+                                   McLemore M, 2b        4  1  2  0   
+                                   Elster K, ss          5  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     33  3 10  3                        40 10 17 10
+
+Kansas City      000 030 000 --  3
+Texas            420 013 00x -- 10
+
+  Kansas City          IP  H  R ER BB SO
+Appier K (L)          2.2  6  6  6  3  1
+Granger J*            1.1  3  1  1  1  0
+Bluma J               1.1  4  3  3  0  1
+Huisman R             1.2  2  0  0  1  1
+Pichardo H            1.0  2  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Oliver D              4.2  7  3  3  2  3
+Gross K (W)           4.1  3  0  0  0  4
+  * Pitched to 2 batters in 5th
+
+DP -- Kansas City 1, Texas 1
+LOB -- Kansas City 7, Texas 11
+2B -- Randa J, Clark W, Howard D, Rodriguez I, Gonzalez J, Newson W
+HR -- Palmer D, Elster K, Clark W
+SB -- Gonzalez J
+CS -- Tucker M
+SF -- Randa J
+HBP -- by Oliver D (Norman L)
+T -- 2:57
+A -- 30480
+     Game of 8/30/1996 -- Cleveland at Texas (N)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Lofton K, cf          3  0  0  0   Hamilton D, cf        4  2  3  0   
+Vizquel O, ss         3  0  0  0   Rodriguez I, c        4  1  2  2   
+Thome J, 3b           4  1  1  1   Greer R, lf           3  0  0  1   
+Belle A, lf           4  0  0  0   Gonzalez J, rf        4  2  2  2   
+Ramirez M, rf         4  0  0  0   Clark W, 1b           2  0  0  0   
+Franco J, 1b          4  0  1  0   Palmer D, 3b          3  0  0  0   
+Giles B, dh           4  2  2  1   Tettleton M, dh       4  0  0  0   
+Alomar Jr. S, c       3  0  0  0   McLemore M, 2b        3  0  1  0   
+Burnitz J, ph         1  0  0  0   Elster K, ss          3  0  1  0   
+Vizcaino J, 2b        4  0  3  1                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  7  3                        30  5  9  5
+
+Cleveland        001 100 100 --  3
+Texas            301 000 10x --  5
+
+  Cleveland            IP  H  R ER BB SO
+Ogea C (L)            6.0  6  4  4  4  5
+Shuey P               2.0  3  1  1  0  1
+
+  Texas                IP  H  R ER BB SO
+Pavlik R (W)          6.1  7  3  3  1  4
+Stanton M             0.2  0  0  0  1  1
+Russell J (S)         2.0  0  0  0  0  0
+
+DP -- Cleveland 1
+LOB -- Cleveland 6, Texas 6
+2B -- Hamilton D, Giles B
+HR -- Rodriguez I, Gonzalez J 2, Giles B, Thome J
+CS -- Clark W
+SF -- Greer R
+T -- 2:49
+A -- 40383
+     Game of 8/31/1996 -- Cleveland at Texas (N)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Lofton K, cf          4  0  1  1   Hamilton D, cf        4  0  1  1   
+Vizcaino J, 2b        4  0  1  0   Rodriguez I, c        3  2  1  0   
+Franco J, dh          4  0  0  0   Greer R, lf           3  1  2  0   
+Belle A, lf           4  1  1  1   Gonzalez J, dh        4  0  2  2   
+Ramirez M, rf         4  0  3  0   Clark W, 1b           4  0  0  1   
+Thome J, 3b           4  0  0  0   Palmer D, 3b          3  1  1  1   
+Alomar Jr. S, c       2  1  1  1   Newson W, rf          4  2  1  1   
+Pena T, c             1  0  0  0   McLemore M, 2b        4  0  0  0   
+Kent J, 1b            3  0  1  0   Elster K, ss          2  0  0  0   
+Vizquel O, ss         3  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  9  3                        31  6  8  6
+
+Cleveland        001 000 011 --  3
+Texas            022 011 00x --  6
+
+  Cleveland            IP  H  R ER BB SO
+McDowell J (L)        5.2  7  6  6  3  4
+Tavarez J             1.1  1  0  0  0  1
+Mesa J                1.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Oliver D (W)          8.1  9  3  3  0  7
+Vosberg E (S)         0.2  0  0  0  0  0
+
+DP -- Cleveland 1, Texas 1
+LOB -- Cleveland 3, Texas 5
+3B -- Lofton K
+HR -- Palmer D, Newson W, Alomar Jr. S, Belle A
+SB -- Rodriguez I
+CS -- Ramirez M 2
+HBP -- by McDowell J (Elster K)
+T -- 2:32
+A -- 46319
+     Game of 9/1/1996 -- Cleveland at Texas (D)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Lofton K, cf          5  2  2  1   Hamilton D, cf        5  0  2  0   
+Seitzer K, dh         5  1  4  1   Rodriguez I, c        5  0  0  0   
+Thome J, 3b           4  1  1  1   Greer R, lf           3  0  1  1   
+Belle A, lf           4  1  1  0   Gonzalez J, rf        5  0  0  0   
+Giles B, pr-lf        0  0  0  0   Clark W, 1b           4  1  1  1   
+Ramirez M, rf         5  0  1  0   Palmer D, 3b          4  0  2  0   
+Franco J, 1b          4  1  1  4   Tettleton M, dh       3  0  1  0   
+Wilson N, ph          1  0  0  0   Elster K, ss          3  0  0  0   
+Kent J, 1b            0  0  0  0   Stillwell K, 2b       3  0  1  0   
+Alomar Jr. S, c       4  1  2  1   Buford D, ph          0  1  0  0   
+Vizquel O, ss         4  0  2  0                                      
+Vizcaino J, 2b        4  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40  8 16  8                        35  2  8  2
+
+Cleveland        101 050 010 --  8
+Texas            010 000 001 --  2
+
+  Cleveland            IP  H  R ER BB SO
+Nagy C (W)            7.2  7  1  1  3  8
+Plunk E               0.1  0  0  0  0  1
+Assenmacher P         1.0  1  1  1  1  0
+
+  Texas                IP  H  R ER BB SO
+Burkett J (L)         5.0 10  7  7  1  5
+Gross K               3.0  5  1  1  0  1
+Henneman M            1.0  1  0  0  0  1
+
+E -- Franco J
+DP -- Texas 1
+LOB -- Cleveland 7, Texas 11
+2B -- Seitzer K 2, Alomar Jr. S, Thome J, Hamilton D, Belle A
+3B -- Vizcaino J
+HR -- Clark W, Franco J, Alomar Jr. S
+SF -- Thome J, Greer R
+T -- 2:54
+A -- 46084
+     Game of 9/2/1996 -- Minnesota at Texas (N)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Knoblauch C, 2b       3  1  1  2   Hamilton D, cf        4  0  0  0   
+Becker R, cf          5  1  2  0   Rodriguez I, c        5  2  2  0   
+Molitor P, dh         4  0  1  1   Greer R, lf           3  0  0  0   
+Walker T, 3b          4  0  0  0   Gonzalez J, rf        4  1  3  1   
+Reboulet J, 3b        0  0  0  0   Clark W, 1b           5  0  2  1   
+Kelly R, lf           4  0  0  0   Palmer D, 3b          4  0  1  0   
+Lawton M, rf          3  1  0  0   Tettleton M, dh       3  1  1  1   
+Coomer R, 1b          3  2  2  0   Newson W, pr          0  0  0  0   
+Walbeck M, c          3  1  2  2   McLemore M, 2b        3  0  1  0   
+Meares P, ss          4  0  3  0   Elster K, ss          5  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     33  6 11  5                        36  4 11  4
+
+Minnesota        120 101 100 --  6
+Texas            001 110 010 --  4
+
+  Minnesota            IP  H  R ER BB SO
+Aguilera R (W)        5.0  8  3  3  5  2
+Robertson R           0.1  0  0  0  2  0
+Trombley M*           1.2  2  1  1  1  3
+Guardado E (S)        2.0  1  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Hill K (L)+           6.0 10  6  6  5  2
+Stanton M             1.1  0  0  0  0  1
+Russell J             0.2  1  0  0  1  0
+Vosberg E             1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+  + Pitched to 2 batters in 7th
+
+E -- Rodriguez I
+DP -- Minnesota 2, Texas 3
+LOB -- Minnesota 7, Texas 14
+2B -- Palmer D, Tettleton M, Elster K, Gonzalez J 2, Coomer R, Rodriguez I
+3B -- Becker R
+HR -- Knoblauch C
+SB -- Walker T 2, Walbeck M
+CS -- Meares P
+SF -- Knoblauch C
+WP -- Robertson R
+T -- 3:17
+A -- 24786
+     Game of 9/3/1996 -- Minnesota at Texas (N)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Knoblauch C, 2b       5  0  0  0   Hamilton D, cf        3  1  1  1   
+Becker R, cf          3  1  2  0   Rodriguez I, c        4  0  0  0   
+Molitor P, dh         5  0  1  0   Greer R, lf           3  0  0  0   
+Walker T, 3b          4  1  1  0   Gonzalez J, rf        4  1  0  0   
+Cordova M, lf         5  2  3  2   Clark W, 1b           4  2  2  1   
+Stahoviak S, 1b       3  1  1  3   Palmer D, 3b          3  2  1  0   
+Coomer R, ph-1b-rf    1  0  0  0   Tettleton M, dh       3  2  3  4   
+Walbeck M, ph         1  0  0  0   Buford D, pr          0  0  0  0   
+Lawton M, rf          2  0  0  0   McLemore M, 2b        3  1  2  3   
+Reboulet J, ph        0  0  0  0   Elster K, ss          2  0  0  0   
+Hale C, ph-1b         2  0  0  0                                      
+Meares P, ss          4  1  3  0                                      
+Myers G, c            4  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     39  7 12  6                        29  9  9  9
+
+Minnesota        002 030 020 --  7
+Texas            412 001 01x --  9
+
+  Minnesota            IP  H  R ER BB SO
+Rodriguez F (L)       3.0  6  7  7  4  2
+Parra J               3.0  1  1  1  1  1
+Stevens D             2.0  2  1  1  0  0
+
+  Texas                IP  H  R ER BB SO
+Witt B (W)            5.0  8  5  5  3  2
+Gross K               1.2  2  0  0  0  0
+Stanton M             0.1  0  0  0  0  0
+Russell J             1.0  2  2  1  1  0
+Henneman M (S)        1.0  0  0  0  0  0
+
+E -- Elster K
+DP -- Texas 1
+LOB -- Minnesota 9, Texas 3
+2B -- Tettleton M, Hamilton D, McLemore M
+3B -- Meares P
+HR -- Cordova M, Stahoviak S, Tettleton M
+SH -- Elster K
+SF -- McLemore M
+T -- 2:59
+A -- 28401
+     Game of 9/4/1996 -- Minnesota at Texas (N)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Knoblauch C, 2b       1  2  1  0   Hamilton D, cf        5  0  1  0   
+Reboulet J, ph-3b     3  0  0  0   Rodriguez I, c        5  1  1  1   
+Becker R, cf          5  1  1  2   Greer R, lf           2  0  1  2   
+Molitor P, dh         5  2  3  1   Buford D, lf          1  0  1  0   
+Walker T, 3b-2b       4  0  2  1   Gonzalez J, rf        4  1  2  1   
+Cordova M, lf         4  1  1  0   Clark W, 1b           3  1  0  0   
+Lawton M, rf          4  0  1  0   Palmer D, 3b          4  1  2  2   
+Walbeck M, c          4  0  0  0   Tettleton M, dh       2  0  0  0   
+Stahoviak S, 1b       4  1  2  3   Elster K, ss          3  1  0  0   
+Meares P, ss          4  0  0  0   Gonzales R, 2b        3  1  1  0   
+                                   Newson W, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 11  7                        33  6  9  6
+
+Minnesota        421 000 000 --  7
+Texas            060 000 000 --  6
+
+  Minnesota            IP  H  R ER BB SO
+Miller T              1.1  4  5  5  2  0
+Robertson R (W)       5.1  4  1  1  3  1
+Trombley M (S)        2.1  1  0  0  0  4
+
+  Texas                IP  H  R ER BB SO
+Pavlik R              1.1  7  6  6  0  0
+Heredia G (L)         6.2  4  1  1  0  4
+Gross K               1.0  0  0  0  0  0
+
+DP -- Minnesota 2
+LOB -- Minnesota 5, Texas 5
+2B -- Molitor P
+3B -- Molitor P, Greer R
+HR -- Becker R, Gonzalez J, Palmer D, Stahoviak S
+HBP -- by Pavlik R (Knoblauch C)
+WP -- Trombley M
+PB -- Rodriguez I
+T -- 2:40
+A -- 29744
+     Game of 9/12/1996 -- Milwaukee at Texas (N)
+
+  Milwaukee          AB  R  H RBI    Texas              AB  R  H RBI
+Vina F, 2b            6  4  5  3   Hamilton D, cf        3  0  2  0   
+Cirillo J, 3b         5  0  0  1   Buford D, cf          1  1  1  1   
+Loretta M, 3b         1  0  0  0   Rodriguez I, c        3  0  0  0   
+Nilsson D, dh         4  1  1  0   Valle D, c            1  0  1  1   
+Stinnett K, ph-c      1  0  0  0   Clark W, 1b           3  0  0  0   
+Jaha J, 1b            3  2  2  2   Frazier L, lf         1  0  0  0   
+Unroe T, 1b           1  0  0  0   Gonzalez J, rf        3  0  0  0   
+Valentin J, ss        5  2  2  1   Newson W, rf          1  0  0  0   
+Newfield M, lf        4  2  3  1   Tettleton M, dh       3  0  0  0   
+Banks B, lf           1  0  0  0   Brown K, ph           1  0  0  0   
+Burnitz J, rf         4  2  2  4   Palmer D, 3b          2  0  0  0   
+Dunn T, ph-rf         1  1  1  0   Voigt J, 3b           2  1  1  0   
+Williams G, cf        5  0  1  1   Stevens L, lf-1b      4  1  2  2   
+Levis J, c            4  1  1  1   McLemore M, 2b        2  0  0  0   
+Reyes A, p            0  0  0  0   Stillwell K, 2b       2  1  1  0   
+                                   Elster K, ss          2  0  1  0   
+                                   Gonzales R, ss        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     45 15 18 14                        36  4  9  4
+
+Milwaukee        641 000 103 -- 15
+Texas            000 000 022 --  4
+
+  Milwaukee            IP  H  R ER BB SO
+McDonald B (W)        8.0  7  2  2  0  7
+Reyes A               1.0  2  2  2  0  1
+
+  Texas                IP  H  R ER BB SO
+Hill K (L)            1.1  8  8  7  1  1
+Cook D                0.2  3  2  2  0  0
+Whiteside M           7.0  7  5  5  1  1
+
+E -- Clark W
+DP -- Texas 1
+LOB -- Milwaukee 5, Texas 5
+2B -- Jaha J, Newfield M, Valentin J, Burnitz J, Williams G, Buford D, Valle D, Levis J
+3B -- Vina F
+HR -- Jaha J, Vina F 2, Stevens L
+T -- 2:54
+A -- 41303
+     Game of 9/13/1996 -- Milwaukee at Texas (N)
+
+  Milwaukee          AB  R  H RBI    Texas              AB  R  H RBI
+Vina F, 2b            5  1  0  0   Hamilton D, cf        4  0  1  0   
+Cirillo J, 3b         5  1  2  0   Rodriguez I, c        4  0  1  1   
+Nilsson D, dh         4  1  2  1   Clark W, 1b           3  0  2  1   
+Jaha J, 1b            5  1  3  2   Gonzalez J, rf        4  0  0  0   
+Valentin J, ss        3  1  1  2   Tettleton M, dh       4  0  0  0   
+Newfield M, lf        4  0  2  0   Palmer D, 3b          4  1  1  1   
+Mieske M, lf          0  0  0  0   Stevens L, lf         2  0  0  0   
+Burnitz J, rf         4  0  1  0   Buford D, ph-lf       1  0  0  0   
+Williams G, cf        3  0  0  0   Stillwell K, ph       1  0  0  0   
+Levis J, c            3  1  0  0   McLemore M, 2b        3  1  1  0   
+                                   Elster K, ss          3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6 11  5                        33  3  7  3
+
+Milwaukee        003 001 011 --  6
+Texas            001 110 000 --  3
+
+  Milwaukee            IP  H  R ER BB SO
+D'Amico J (W)         6.0  7  3  3  0  3
+Villone R             1.2  0  0  0  1  1
+Wickman B             0.1  0  0  0  0  0
+Fetters M (S)         1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Witt B (L)*           7.0  8  5  2  2  9
+Russell J             1.0  1  0  0  0  0
+Vosberg E             1.0  2  1  1  0  1
+  * Pitched to 1 batter in 8th
+
+E -- McLemore M, Gonzalez J
+DP -- Texas 3
+LOB -- Milwaukee 7, Texas 4
+2B -- Jaha J, Clark W, Newfield M, Cirillo J
+HR -- Jaha J, Palmer D, Valentin J
+SB -- Burnitz J
+CS -- Cirillo J, Nilsson D
+SF -- Valentin J
+HBP -- by Russell J (Williams G)
+WP -- Witt B
+T -- 3:00
+A -- 39235
+     Game of 9/14/1996 -- Milwaukee at Texas (N)
+
+  Milwaukee          AB  R  H RBI    Texas              AB  R  H RBI
+Vina F, 2b            5  2  1  1   Hamilton D, cf        5  1  2  1   
+Cirillo J, 3b         5  2  3  3   Rodriguez I, c        5  0  0  1   
+Nilsson D, 1b         4  2  1  2   Clark W, 1b           4  1  1  1   
+Unroe T, 1b           0  0  0  0   Gonzalez J, rf        4  0  1  1   
+Jaha J, dh            2  0  1  0   Tettleton M, dh       3  0  1  0   
+Valentin J, ss        4  0  0  0   Palmer D, 3b          4  0  0  0   
+Newfield M, lf        5  1  3  2   McLemore M, 2b        4  2  2  0   
+Burnitz J, rf         4  0  1  0   Buford D, lf          3  1  1  2   
+Williams G, cf        5  0  0  0   Stillwell K, ph       0  0  0  0   
+Levis J, c            4  1  1  0   Elster K, ss          3  1  1  0   
+                                   Stevens L, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 11  8                        36  6  9  6
+
+Milwaukee        202 003 100 --  8
+Texas            000 100 041 --  6
+
+  Milwaukee            IP  H  R ER BB SO
+Karl S (W)*           7.0  7  5  4  1  6
+Jones D               1.0  1  0  0  0  3
+Fetters M (S)         1.0  1  1  1  1  0
+
+  Texas                IP  H  R ER BB SO
+Pavlik R (L)          5.1  8  7  7  5  2
+Cook D                2.2  3  1  1  2  3
+Stanton M             1.0  0  0  0  0  1
+  * Pitched to 4 batters in 8th
+
+E -- Valentin J 2, Cirillo J
+DP -- Milwaukee 3
+LOB -- Milwaukee 11, Texas 5
+2B -- Newfield M 2, Cirillo J, Elster K
+HR -- Nilsson D, Clark W, Cirillo J, Buford D
+HBP -- by Cook D (Burnitz J)
+T -- 3:03
+A -- 45901
+     Game of 9/15/1996 -- Milwaukee at Texas (D)
+
+  Milwaukee          AB  R  H RBI    Texas              AB  R  H RBI
+Vina F, 2b            5  0  1  0   Hamilton D, cf        4  0  1  0   
+Cirillo J, 3b         4  0  2  1   McLemore M, 2b        4  2  2  1   
+Nilsson D, dh         4  0  0  0   Clark W, 1b           3  2  2  0   
+Jaha J, 1b            3  0  0  0   Gonzalez J, rf        4  0  1  2   
+Newfield M, lf        4  1  2  0   Tettleton M, dh       3  1  2  2   
+Mieske M, rf          3  0  1  0   Frazier L, pr         0  0  0  0   
+Levis J, ph           1  0  1  0   Palmer D, 3b          3  1  0  0   
+Dunn T, rf            0  0  0  0   Newson W, lf          3  0  1  0   
+Williams G, cf        3  0  2  0   Voigt J, ph           1  0  0  0   
+Burnitz J, ph-cf      1  0  0  0   Buford D, lf          0  0  0  0   
+Loretta M, ss         4  1  1  0   Valle D, c            4  0  2  1   
+Matheny M, c          3  0  0  0   Elster K, ss          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2 10  1                        32  6 11  6
+
+Milwaukee        001 100 000 --  2
+Texas            010 003 02x --  6
+
+  Milwaukee            IP  H  R ER BB SO
+Garcia R (L)          5.1  6  3  3  3  4
+Wickman B*            1.2  4  3  3  0  1
+Miranda A             1.0  1  0  0  0  3
+
+  Texas                IP  H  R ER BB SO
+Oliver D (W)          7.0  9  2  2  1  4
+Russell J             0.2  1  0  0  0  0
+Vosberg E (S)         1.1  0  0  0  0  2
+  * Pitched to 3 batters in 8th
+
+E -- Matheny M
+DP -- Milwaukee 2, Texas 2
+LOB -- Milwaukee 8, Texas 5
+2B -- Valle D, Cirillo J, Gonzalez J
+HR -- McLemore M, Tettleton M
+SB -- Loretta M, Hamilton D
+HBP -- by Oliver D (Matheny M)
+WP -- Oliver D
+T -- 2:52
+A -- 45941
+     Game of 9/26/1996 -- California at Texas (N)
+
+  California         AB  R  H RBI    Texas              AB  R  H RBI
+Erstad D, cf          4  1  1  0   Hamilton D, cf        4  1  1  1   
+Velarde R, 3b-2b      4  0  0  0   Rodriguez I, c        4  1  2  1   
+Salmon T, rf          4  0  2  2   Greer R, lf           3  1  1  1   
+Davis C, dh           4  0  0  0   Gonzalez J, rf        4  0  0  0   
+Hudler R, 2b          3  2  2  1   Clark W, 1b           3  0  1  1   
+Arias G, 3b           0  0  0  0   Palmer D, 3b          4  0  0  0   
+Edmonds J, ph         1  0  1  0   Tettleton M, dh       4  0  0  0   
+Anderson G, lf        3  1  1  2   McLemore M, 2b        3  3  1  0   
+Snow J, 1b            4  0  0  0   Elster K, ss          4  0  2  1   
+Fabregas J, c         3  0  0  0                                      
+Greene T, ph          0  0  0  0                                      
+Howell J, ph          0  0  0  0                                      
+Palmeiro O, pr        0  0  0  0                                      
+DiSarcina G, ss       4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  5  8  5                        33  6  8  5
+
+California       021 000 110 --  5
+Texas            004 101 00x --  6
+
+  California           IP  H  R ER BB SO
+Abbott J (L)          8.0  8  6  3  1  5
+
+  Texas                IP  H  R ER BB SO
+Burkett J (W)         7.2  7  5  5  0  3
+Vosberg E             0.1  0  0  0  0  0
+Stanton M             0.2  1  0  0  0  0
+Henneman M (S)        0.1  0  0  0  1  0
+
+E -- Erstad D, Velarde R 2
+LOB -- California 4, Texas 6
+2B -- Rodriguez I, Clark W, DiSarcina G
+3B -- Elster K
+HR -- Anderson G, Hudler R
+SB -- Erstad D, McLemore M
+SH -- Anderson G
+SF -- Greer R, Clark W
+PB -- Fabregas J
+T -- 2:55
+A -- 33895
+     Game of 9/27/1996 -- California at Texas (N)
+
+  California         AB  R  H RBI    Texas              AB  R  H RBI
+Velarde R, 2b         6  0  0  0   Hamilton D, cf        6  0  0  0   
+Snow J, 1b            7  0  1  0   Rodriguez I, c        4  1  0  0   
+Edmonds J, cf         6  1  2  0   Greer R, lf           6  0  2  1   
+Davis C, dh           7  1  1  0   Gonzalez J, rf        6  0  1  1   
+Salmon T, rf          5  2  2  1   Clark W, 1b           6  0  1  0   
+Anderson G, lf        7  0  6  3   Palmer D, 3b          7  1  2  1   
+DiSarcina G, ss       6  0  0  0   Tettleton M, dh       5  0  2  0   
+Fabregas J, c         3  0  1  0   Frazier L, pr         0  0  0  0   
+Palmeiro O, pr        0  0  0  0   McLemore M, 2b        6  0  1  0   
+Greene T, c           3  0  0  0   Elster K, ss          2  1  0  0   
+Arias G, 3b           1  0  0  0   Newson W, ph          1  0  0  0   
+Erstad D, ph          1  0  0  0   Gil B, ss             0  0  0  0   
+Schofield D, 3b       2  0  1  0   Stevens L, ph         1  0  0  0   
+                                   Gonzales R, ss        1  0  0  0   
+                                   Stillwell K, ph       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     54  4 14  4                        52  3  9  3
+
+California       000 010 100 000 002 --  4
+Texas            001 010 000 000 001 --  3
+
+  California           IP  H  R ER BB SO
+Dickson J             7.2  7  2  2  4  3
+James M*              1.1  1  0  0  1  2
+Percival T            2.0  0  0  0  0  3
+Holtz M               0.2  0  0  0  1  1
+Harris P (W)          3.0  1  1  1  4  3
+Gohr G (S)            0.1  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Hill K                7.0  6  2  2  1  7
+Russell J             0.1  1  0  0  1  0
+Cook D                0.2  0  0  0  1  0
+Patterson D           0.2  1  0  0  1  1
+Vosberg E             1.2  0  0  0  0  0
+Henneman M            1.2  1  0  0  0  1
+Stanton M             1.0  1  0  0  1  1
+Whiteside M (L)       2.0  4  2  2  1  1
+  * Pitched to 1 batter in 10th
+
+DP -- California 1, Texas 3
+LOB -- California 12, Texas 15
+2B -- Greer R, Snow J
+HR -- Salmon T, Palmer D
+SB -- Greer R
+CS -- Anderson G
+SH -- Arias G
+SF -- Greer R
+WP -- Hill K, Harris P 2
+T -- 5:08
+A -- 46764
+     Game of 9/28/1996 -- California at Texas (D)
+
+  California         AB  R  H RBI    Texas              AB  R  H RBI
+Erstad D, rf          5  0  1  0   Buford D, cf          3  1  1  1   
+Schofield D, 2b       4  1  1  0   Frazier L, lf         3  0  1  0   
+Salmon T, dh          5  0  2  2   Ortiz L, dh           5  1  2  1   
+Arias G, 3b           4  1  1  1   Stevens L, 1b         2  0  0  0   
+Pritchett C, 1b       4  0  1  0   Voigt J, rf           4  0  0  0   
+Greene T, c           3  0  0  0   Gonzales R, 3b        4  1  0  0   
+Fabregas J, c         1  0  1  0   Stillwell K, 2b       2  1  1  0   
+Palmeiro O, cf-lf     4  0  2  0   Gil B, ss             3  0  2  1   
+Turner C, lf          2  0  0  0   Brown K, c            1  0  0  1   
+Edmonds J, ph-cf      1  0  0  0                                      
+Eenhoorn R, ss        3  1  1  0                                      
+Davis C, ph           1  0  0  0                                      
+DiSarcina G, ss       0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  3 10  3                        27  4  7  4
+
+California       000 001 200 --  3
+Texas            100 111 00x --  4
+
+  California           IP  H  R ER BB SO
+Finley C (L)          5.1  7  4  3  6  5
+Grimsley J            0.2  0  0  0  1  1
+Ellis R               2.0  0  0  0  3  1
+
+  Texas                IP  H  R ER BB SO
+Oliver D (W)          6.0  5  1  1  2  4
+Alberro J             1.0  3  2  2  0  0
+Vosberg E             0.1  2  0  0  0  0
+Heredia G (S)         1.2  0  0  0  0  2
+
+E -- Arias G, Gil B
+LOB -- California 9, Texas 11
+2B -- Frazier L, Stillwell K
+3B -- Ortiz L, Salmon T
+HR -- Ortiz L, Buford D, Arias G
+CS -- Gil B, Frazier L, Palmeiro O
+SH -- Stillwell K
+SF -- Brown K
+WP -- Finley C
+T -- 3:00
+A -- 45651
+     Game of 9/29/1996 -- California at Texas (D)
+
+  California         AB  R  H RBI    Texas              AB  R  H RBI
+Erstad D, cf          3  1  1  0   Stillwell K, 2b       4  1  2  1   
+Palmeiro O, lf        3  0  0  0   Buford D, cf          3  0  0  0   
+Salmon T, rf          3  1  0  0   Greer R, lf           2  0  0  0   
+Howell J, dh          4  0  1  1   Voigt J, lf           1  0  0  0   
+Pritchett C, 1b       4  1  0  1   Gonzalez J, rf        2  0  0  0   
+Arias G, 3b           4  0  2  1   Stevens L, 1b         2  0  0  0   
+Eenhoorn R, ss        4  0  1  0   Clark W, 1b           2  0  1  0   
+Fabregas J, c         2  0  0  0   Gonzales R, 3b        1  0  0  0   
+Greene T, c           2  0  1  0   Palmer D, 3b          1  0  0  0   
+Schofield D, 2b       3  0  1  0   Newson W, rf          3  1  1  1   
+Edmonds J, ph         1  0  0  0   Tettleton M, dh       3  0  0  0   
+                                   Valle D, c            1  0  0  0   
+                                   Brown K, ph-c         2  1  0  0   
+                                   Elster K, ss          2  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        29  4  5  4
+
+California       000 003 000 --  3
+Texas            100 102 00x --  4
+
+  California           IP  H  R ER BB SO
+Springer D (L)        8.0  5  4  4  5  8
+
+  Texas                IP  H  R ER BB SO
+Pavlik R              3.1  2  0  0  1  2
+Cook D                0.2  0  0  0  0  1
+Witt B (W)            5.0  5  3  3  2  5
+
+E -- Eenhoorn R
+DP -- California 1, Texas 1
+LOB -- California 6, Texas 8
+2B -- Arias G 2
+HR -- Stillwell K, Newson W, Elster K
+SB -- Greer R
+HBP -- by Springer D (Elster K), by Springer D (Brown K)
+T -- 2:35
+A -- 45434
+

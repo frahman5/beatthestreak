@@ -1,0 +1,3741 @@
+     Game of 4/4/2005 -- Milwaukee at Pittsburgh (D)
+
+  Milwaukee          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Clark B, cf           3  3  1  2   Lawton M, rf          4  2  3  0   
+Spivey J, 2b          5  0  1  0   Wilson J, ss          4  0  1  1   
+Overbay L, 1b         4  0  1  1   Redman T, cf          4  0  1  0   
+Lee C, lf             4  1  1  0   Bay J, lf             4  0  2  1   
+Jenkins G, rf         5  1  1  0   Ward D, 1b            3  0  0  0   
+Cirillo J, 3b         3  2  2  2   Wilson C, ph-1b       1  0  0  0   
+Moeller C, c          4  1  1  0   Wigginton T, 3b       4  0  0  0   
+Hardy J, ss           4  1  1  2   Castillo J, 2b        3  0  0  0   
+Sheets B, p           3  0  0  0   Vogelsong R, p        0  0  0  0   
+Magruder C, ph        1  0  0  0   Hill B, ph            1  0  0  0   
+Phelps T, p           0  0  0  0   Santiago B, c         4  0  2  0   
+Wise M, p             0  0  0  0   Perez O, p            2  0  0  0   
+                                   White R, p            0  0  0  0   
+                                   Sanchez F, 2b         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  9  9  7                        36  2  9  2
+
+Milwaukee        011 115 000 --  9
+Pittsburgh       100 010 000 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Sheets B (W)          7.0  8  2  2  0  6
+Phelps T              1.0  1  0  0  0  1
+Wise M                1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Perez O (L)*          5.0  5  6  6  3  6
+White R               1.0  3  3  2  1  1
+Vogelsong R           3.0  1  0  0  0  1
+  * Pitched to 2 batters in 6th
+
+E -- Redman T, Wilson J
+LOB -- Milwaukee 5, Pittsburgh 7
+2B -- Cirillo J, Wilson J, Lee C
+3B -- Santiago B
+HR -- Cirillo J
+SB -- Clark B 2
+HBP -- by Perez O (Clark B)
+WP -- Perez O
+T -- 2:52
+A -- 38016
+     Game of 4/6/2005 -- Milwaukee at Pittsburgh (D)
+
+  Milwaukee          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Clark B, cf           5  1  1  0   Lawton M, rf          5  0  0  0   
+Obermueller W, p      0  0  0  0   Wilson J, ss          2  0  0  0   
+Phelps T, p           0  0  0  0   Bay J, lf             4  1  2  0   
+Helms W, ph           1  0  0  0   Wilson C, 1b          3  0  1  0   
+De La Rosa J, p       0  0  0  0   Wigginton T, 3b       4  0  1  0   
+Spivey J, 2b          5  3  3  1   Redman T, cf          4  1  1  2   
+Overbay L, 1b         3  1  0  0   Castillo J, 2b        1  0  0  0   
+Lee C, lf             5  2  2  4   Mackowiak R, 2b       3  0  0  0   
+Jenkins G, rf         4  0  1  1   Santiago B, c         4  0  1  0   
+Miller D, c           3  2  2  0   Wells K, p            0  0  0  0   
+Branyan R, 3b         4  0  2  2   Sanchez F, ph         1  0  0  0   
+Hardy J, ss           4  1  1  0   Grabow J, p           0  0  0  0   
+Davis D, p            3  0  0  0   Meadows B, p          0  0  0  0   
+Magruder C, ph-cf     2  0  1  1   Hill B, ph            1  0  1  0   
+                                   Gonzalez M, p         0  0  0  0   
+                                   Torres S, p           0  0  0  0   
+                                   Ross D, ph            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 10 13  9                        32  2  7  2
+
+Milwaukee        400 112 101 -- 10
+Pittsburgh       000 002 000 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Davis D (W)           6.0  4  2  2  2  5
+Obermueller W         1.2  3  0  0  0  0
+Phelps T              0.1  0  0  0  0  0
+De La Rosa J          1.0  0  0  0  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (L)           5.0  6  6  6  5  3
+Grabow J              1.0  4  2  2  0  1
+Meadows B             1.0  1  1  1  0  0
+Gonzalez M            1.0  0  0  0  0  2
+Torres S              1.0  2  1  1  0  1
+
+E -- Magruder C
+DP -- Milwaukee 2
+LOB -- Milwaukee 9, Pittsburgh 8
+2B -- Spivey J 2, Lee C, Branyan R 2, Bay J, Hardy J, Magruder C
+HR -- Spivey J, Lee C, Redman T
+HBP -- by Wells K (Miller D), by Davis D (Wells K), by Grabow J (Overbay L), by Obermueller W (Wilson J)
+WP -- Wells K, Meadows B
+T -- 2:53
+A -- 12077
+     Game of 4/15/2005 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hairston J, cf        3  1  2  0   Lawton M, rf          4  0  2  1   
+Patterson C, ph       1  0  0  0   Mesa J, p             0  0  0  0   
+Perez N, 2b           3  1  1  2   Wilson J, ss          4  0  0  0   
+Garciaparra N, ss     3  0  0  0   Bay J, cf-lf          4  0  1  0   
+Ramirez A, 3b         4  0  0  0   Mackowiak R, 2b       3  2  2  1   
+Lee D, 1b             3  1  1  0   Ward D, 1b            4  2  2  0   
+Dubois J, lf          3  1  1  2   Wilson C, lf-rf       4  0  0  0   
+Hollandsworth, ph-lf  0  0  0  0   Hill B, 3b            4  2  2  2   
+Burnitz J, rf         3  1  1  0   Ross D, c             4  2  3  3   
+Fox C, p              0  0  0  0   Perez O, p            2  0  0  0   
+Barrett M, c          3  0  0  1   Meadows B, p          0  0  0  0   
+Zambrano C, p         3  0  1  0   Redman T, ph          0  0  0  0   
+Wuertz M, p           0  0  0  0   Wigginton T, ph       1  0  0  0   
+Remlinger M, p        0  0  0  0   Torres S, p           0  0  0  0   
+Macias J, rf          1  0  0  0   Duffy C, ph-cf        1  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     30  5  7  5                        35  8 13  8
+
+Chicago          020 021 000 --  5
+Pittsburgh       020 011 13x --  8
+
+  Chicago              IP  H  R ER BB SO
+Zambrano C*           6.0  6  5  5  2  5
+Wuertz M+             0.0  1  0  0  0  0
+Remlinger M (L)#      1.0  3  2  2  0  0
+Fox C                 1.0  3  1  1  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Perez O               6.0  7  5  5  4  6
+Meadows B             1.0  0  0  0  0  0
+Torres S (W)          1.0  0  0  0  0  0
+Mesa J (S)            1.0  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 7th
+  # Pitched to 2 batters in 8th
+
+E -- Ross D
+DP -- Pittsburgh 1
+LOB -- Chicago 5, Pittsburgh 5
+2B -- Lee D, Hill B 2, Ward D, Duffy C
+3B -- Burnitz J
+HR -- Dubois J, Ross D 2, Perez N, Mackowiak R
+CS -- Mackowiak R, Hairston J
+SH -- Perez N
+SF -- Barrett M
+HBP -- by Torres S (Hollandsworth T)
+T -- 2:37
+A -- 29256
+     Game of 4/16/2005 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Patterson C, cf       4  1  1  0   Lawton M, rf          4  1  1  1   
+Perez N, 2b           4  0  2  1   Wilson J, ss          5  0  2  0   
+Garciaparra N, ss     3  1  1  0   Bay J, cf             4  1  0  0   
+Ramirez A, 3b         4  1  1  3   Mackowiak R, 2b-3b    3  0  2  1   
+Burnitz J, rf         3  0  0  0   Ward D, 1b            4  0  1  1   
+Lee D, 1b             4  0  0  0   Wilson C, lf          3  0  1  0   
+Hollandsworth T, lf   4  0  2  0   Wigginton T, 3b       3  0  0  0   
+Fox C, p              0  0  0  0   Torres S, p           0  0  0  0   
+Hawkins L, p          0  0  0  0   Hill B, ph            0  0  0  0   
+Barrett M, c          3  0  0  0   Gonzalez M, p         0  0  0  0   
+Dempster R, p         2  0  0  0   Ross D, c             4  0  0  0   
+Fontenot M, ph        0  1  0  0   Wells K, p            2  1  1  0   
+Rusch G, p            0  0  0  0   Sanchez F, 2b         2  0  0  0   
+Macias J, lf          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  7  4                        34  3  8  3
+
+Chicago          003 000 100 --  4
+Pittsburgh       101 010 000 --  3
+
+  Chicago              IP  H  R ER BB SO
+Dempster R (W)        6.0  6  3  3  3  5
+Rusch G               1.2  1  0  0  2  1
+Fox C                 0.1  0  0  0  0  1
+Hawkins L (S)         1.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (L)           6.1  6  4  4  4  6
+Torres S              1.2  1  0  0  0  0
+Gonzalez M            1.0  0  0  0  0  1
+
+E -- Macias J
+DP -- Chicago 1
+LOB -- Chicago 6, Pittsburgh 9
+2B -- Garciaparra N, Perez N
+3B -- Hollandsworth T
+HR -- Ramirez A, Lawton M
+SB -- Burnitz J
+SH -- Patterson C
+WP -- Torres S
+T -- 2:46
+A -- 34783
+     Game of 4/17/2005 -- Chicago at Pittsburgh (D)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Patterson C, cf       5  1  0  0   Lawton M, rf          4  1  2  0   
+Hairston J, 2b        3  1  1  0   Wilson J, ss          4  0  1  1   
+Garciaparra N, ss     3  1  1  1   Bay J, lf             3  0  1  1   
+Ramirez A, 3b         2  1  1  0   Mackowiak R, 2b-3b    4  0  0  0   
+Lee D, 1b             4  0  3  3   Wilson C, 1b          4  0  1  0   
+Burnitz J, rf         4  0  0  0   Redman T, cf          3  0  0  0   
+Hollandsworth T, lf   3  0  0  0   Wigginton T, 3b       3  0  0  0   
+Blanco H, c           4  0  0  0   Torres S, p           0  0  0  0   
+Maddux G, p           2  0  1  0   Grabow J, p           0  0  0  0   
+Dubois J, ph          1  0  0  0   Ward D, ph            1  0  0  0   
+Wuertz M, p           0  0  0  0   Ross D, c             3  0  0  0   
+Remlinger M, p        0  0  0  0   Redman M, p           2  1  1  0   
+Fox C, p              0  0  0  0   Sanchez F, 2b         1  0  0  0   
+Macias J, ph          0  0  0  0                                      
+Hawkins L, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  4  7  4                        32  2  6  2
+
+Chicago          000 101 020 --  4
+Pittsburgh       002 000 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Maddux G              6.0  5  2  2  0  3
+Wuertz M (W)          1.0  1  0  0  0  0
+Remlinger M           0.2  0  0  0  0  0
+Fox C                 0.1  0  0  0  1  0
+Hawkins L (S)         1.0  0  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M (L)          7.1  6  4  3  2  1
+Torres S*             0.0  1  0  0  1  0
+Grabow J              1.2  0  0  0  1  2
+  * Pitched to 2 batters in 8th
+
+E -- Wigginton T, Wilson C, Ramirez A
+DP -- Chicago 2, Pittsburgh 2
+LOB -- Chicago 6, Pittsburgh 5
+2B -- Lawton M, Bay J, Ramirez A
+SH -- Hairston J
+SF -- Garciaparra N
+T -- 2:32
+A -- 20416
+     Game of 4/18/2005 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Eckstein D, ss        3  1  1  1   Lawton M, rf          3  0  0  0   
+Nunez A, ph-ss        1  0  0  0   Wilson J, ss          4  0  0  0   
+Grudzielanek M, 2b    5  1  2  0   Bay J, cf             2  0  0  0   
+Pujols A, 1b          4  1  0  0   Wilson C, lf          4  0  1  0   
+Rolen S, 3b           4  1  0  0   Ward D, 1b            2  1  0  0   
+Edmonds J, cf         3  2  1  2   Sanchez F, 2b         3  0  1  0   
+Sanders R, lf         5  1  1  0   Wigginton T, 3b       3  0  0  0   
+Taguchi S, rf         5  1  3  3   Ross D, c             3  0  0  0   
+Molina Y, c           5  2  3  0   Williams D, p         2  0  0  0   
+Mulder M, p           3  0  0  0   White R, p            0  0  0  0   
+Walker L, ph          1  1  1  1   Mackowiak R, ph       1  0  0  0   
+Cedeno R, ph          1  0  1  3   Meadows B, p          0  0  0  0   
+Journell J, p         0  0  0  0   Vogelsong R, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40 11 13 10                        27  1  2  0
+
+St. Louis        020 000 009 -- 11
+Pittsburgh       000 010 000 --  1
+
+  St. Louis            IP  H  R ER BB SO
+Mulder M (W)          8.0  2  1  0  3  2
+Journell J            1.0  0  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D (L)        6.0  6  2  2  2  6
+White R               2.0  0  0  0  0  0
+Meadows B             0.1  4  6  6  2  0
+Vogelsong R           0.2  3  3  3  1  1
+
+E -- Molina Y
+DP -- St. Louis 1
+LOB -- St. Louis 8, Pittsburgh 3
+2B -- Grudzielanek M, Wilson C, Walker L, Cedeno R
+3B -- Taguchi S
+HR -- Edmonds J
+HBP -- by Williams D (Eckstein D)
+WP -- Meadows B
+T -- 2:37
+A -- 11220
+     Game of 4/19/2005 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Grudzielanek M, 2b    4  3  1  0   Lawton M, rf          4  0  1  0   
+Walker L, rf          4  0  1  2   Wilson J, ss          4  0  0  0   
+Reyes A, p            0  0  0  0   Bay J, cf             4  0  0  0   
+Mabry J, ph           1  0  0  0   Mackowiak R, 2b       3  0  0  0   
+Flores R, p           0  0  0  0   Wilson C, lf          4  0  0  0   
+Pujols A, 1b          5  0  3  2   Ward D, 1b            4  1  2  1   
+Rolen S, 3b           5  0  0  1   Hill B, 3b            3  0  1  0   
+Edmonds J, cf         4  1  1  1   Cota H, c             3  0  1  0   
+Sanders R, lf         5  0  2  0   Fogg J, p             1  0  0  0   
+Nunez A, ss           4  2  4  0   Duffy C, ph           1  0  0  0   
+Molina Y, c           5  1  2  1   Grabow J, p           0  0  0  0   
+Morris M, p           3  0  0  0   Meadows B, p          0  0  0  0   
+Cedeno R, ph          1  0  0  0   Wigginton T, ph       1  0  0  0   
+King R, p             0  0  0  0   Vogelsong R, p        0  0  0  0   
+Taguchi S, rf         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42  7 14  7                        32  1  5  1
+
+St. Louis        040 110 010 --  7
+Pittsburgh       010 000 000 --  1
+
+  St. Louis            IP  H  R ER BB SO
+Morris M (W)          6.0  4  1  1  1  7
+King R                1.0  1  0  0  0  0
+Reyes A               1.0  0  0  0  0  3
+Flores R              1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J (L)            5.0  8  6  2  3  3
+Grabow J              1.0  0  0  0  0  1
+Meadows B             1.0  2  0  0  0  1
+Vogelsong R           2.0  4  1  1  2  0
+
+E -- Fogg J, Ward D
+DP -- Pittsburgh 1
+LOB -- St. Louis 13, Pittsburgh 5
+2B -- Pujols A 2, Sanders R, Molina Y
+3B -- Cota H
+HR -- Edmonds J, Ward D
+SB -- Lawton M
+T -- 2:31
+A -- 12285
+     Game of 4/25/2005 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Taveras W, cf         4  0  0  0   Lawton M, rf          3  0  1  1   
+Biggio C, 2b          4  0  1  0   Sanchez F, 2b         4  0  0  0   
+Bagwell J, 1b         3  0  1  0   Bay J, lf             4  1  1  0   
+Wheeler D, p          0  0  0  0   Mackowiak R, cf       4  0  1  0   
+Lane J, rf            3  0  0  0   Hill B, 3b            3  0  0  1   
+Ensberg M, 3b         4  0  1  0   Wilson C, 1b          1  1  1  0   
+Burke C, lf           4  0  1  0   Cota H, c             2  0  0  0   
+Bruntlett E, ss       3  0  0  0   Wilson J, ss          3  0  2  0   
+Chavez R, c           3  0  1  0   Perez O, p            3  0  0  0   
+Oswalt R, p           2  0  0  0   White R, p            0  0  0  0   
+Lamb M, ph-1b         1  0  0  0   Mesa J, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  5  0                        27  2  6  2
+
+Houston          000 000 000 --  0
+Pittsburgh       000 100 10x --  2
+
+  Houston              IP  H  R ER BB SO
+Oswalt R (L)          7.0  6  2  2  3  6
+Wheeler D             1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Perez O (W)           7.2  4  0  0  2  9
+White R               0.1  0  0  0  0  0
+Mesa J (S)            1.0  1  0  0  0  2
+
+DP -- Houston 1
+LOB -- Houston 7, Pittsburgh 6
+2B -- Bay J, Biggio C
+CS -- Ensberg M
+SF -- Hill B, Lawton M
+HBP -- by Perez O (Bruntlett E)
+T -- 2:17
+A -- 8413
+     Game of 4/27/2005 -- Houston at Pittsburgh (D)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Everett A, ss         3  0  1  0   Lawton M, rf          3  1  1  0   
+Biggio C, 2b          4  0  0  0   Sanchez F, 2b         4  0  1  0   
+Bagwell J, 1b         3  0  1  0   Bay J, lf             4  0  3  1   
+Lidge B, p            0  0  0  0   Wilson C, 1b          3  0  0  0   
+Lamb M, rf-1b         4  0  1  0   Mackowiak R, cf       3  0  0  0   
+Lane J, lf            4  0  0  0   Wigginton T, 3b       3  1  1  0   
+Ensberg M, 3b         4  0  0  0   Hill B, ph-3b         1  0  0  0   
+Ausmus B, c           2  0  1  0   Ross D, c             3  0  0  0   
+Taveras W, cf         3  0  0  0   Wilson J, ss          4  0  2  1   
+Pettitte A, p         2  0  0  0   Wells K, p            2  0  1  0   
+Burke C, ph           1  0  0  0   Amezaga A, ph         1  0  0  0   
+Franco J, p           0  0  0  0   White R, p            0  0  0  0   
+Wheeler D, p          0  0  0  0   Mesa J, p             0  0  0  0   
+Scott L, rf           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        31  2  9  2
+
+Houston          000 000 000 --  0
+Pittsburgh       110 000 00x --  2
+
+  Houston              IP  H  R ER BB SO
+Pettitte A (L)        6.0  9  2  2  1  3
+Franco J              0.2  0  0  0  0  0
+Wheeler D             0.1  0  0  0  0  0
+Lidge B               1.0  0  0  0  2  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (W)           7.0  4  0  0  1  4
+White R               1.0  0  0  0  0  1
+Mesa J (S)            1.0  0  0  0  0  1
+
+DP -- Houston 2
+LOB -- Houston 6, Pittsburgh 9
+2B -- Lamb M, Ausmus B, Wigginton T
+3B -- Wilson J, Bay J
+SB -- Taveras W
+CS -- Everett A
+HBP -- by Wells K (Ausmus B), by White R (Everett A), by Lidge B (Wilson C)
+WP -- Lidge B
+T -- 2:34
+A -- 13426
+     Game of 4/29/2005 -- San Francisco at Pittsburgh (N)
+
+  San Francisco      AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Ellison J, rf         5  1  3  0   Lawton M, rf          4  1  1  0   
+Vizquel O, ss         4  1  1  1   Mackowiak R, 2b       4  0  0  0   
+Alfonzo E, 3b         5  0  1  1   White R, p            0  0  0  0   
+Alou M, lf            1  0  0  0   Bay J, lf             4  1  1  0   
+Feliz P, 1b           3  0  0  0   Ward D, 1b            3  0  1  1   
+Durham R, 2b          4  0  2  0   Redman T, cf          3  0  0  1   
+Grissom M, cf         4  0  0  0   Hill B, 3b            3  0  0  0   
+Matheny M, c          3  1  1  1   Wilson J, ss          3  0  0  0   
+Tomko B, p            4  0  0  0   Ross D, c             3  0  1  0   
+                                   Redman M, p           2  0  0  0   
+                                   Meadows B, p          0  0  0  0   
+                                   Sanchez F, ph-2b      1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  3                        30  2  4  2
+
+San Francisco    200 001 000 --  3
+Pittsburgh       000 200 000 --  2
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B (W)           9.0  4  2  2  1  7
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M (L)          6.0  7  3  3  3  3
+Meadows B             2.0  1  0  0  2  3
+White R               1.0  0  0  0  0  1
+
+DP -- Pittsburgh 1
+LOB -- San Francisco 9, Pittsburgh 3
+2B -- Vizquel O, Durham R, Lawton M, Ward D, Ross D
+HR -- Matheny M
+SH -- Vizquel O
+SF -- Redman T
+WP -- Meadows B
+T -- 2:29
+A -- 24209
+     Game of 4/30/2005 -- San Francisco at Pittsburgh (N)
+
+  San Francisco      AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Ellison J, rf         5  2  2  0   Lawton M, rf          4  1  2  0   
+Vizquel O, ss         3  1  2  1   Wilson J, ss          3  0  0  0   
+Cruz D, 2b            4  2  2  2   Bay J, cf             4  1  1  1   
+Alou M, lf            4  1  2  1   Wilson C, lf          2  0  0  0   
+Feliz P, 3b           4  0  1  1   Ward D, 1b            5  1  1  1   
+Christiansen J, p     0  0  0  0   Sanchez F, 2b         4  1  2  1   
+Brower J, p           0  0  0  0   Wigginton T, 3b       3  0  0  1   
+Grissom M, cf         4  0  0  0   White R, p            0  0  0  0   
+Snow J, 1b            3  1  0  0   Ross D, ph            0  0  0  0   
+Matheny M, c          4  0  2  1   Redman T, ph          1  0  0  0   
+Lowry N, p            2  0  0  0   Torres S, p           0  0  0  0   
+Walker T, p           0  0  0  0   Gonzalez M, p         0  0  0  0   
+Tucker M, ph          1  0  0  0   Hill B, ph            1  0  0  0   
+Fassero J, p          0  0  0  0   Cota H, c             3  1  1  1   
+Levine A, p           0  0  0  0   Williams D, p         2  1  1  0   
+Eyre S, p             0  0  0  0   Mackowiak R, 3b       2  0  1  0   
+Herges M, p           0  0  0  0                                      
+Alfonzo E, 3b         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  7 11  6                        34  6  9  5
+
+San Francisco    201 003 100 --  7
+Pittsburgh       002 110 101 --  6
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N               4.1  6  4  4  3  2
+Walker T (W)          0.2  0  0  0  0  0
+Fassero J             1.0  0  0  0  1  1
+Levine A*             0.0  0  1  1  2  0
+Eyre S                0.2  0  0  0  1  0
+Herges M              0.2  0  0  0  0  0
+Christiansen J        0.1  1  0  0  0  0
+Brower J (S)          1.1  2  1  1  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D (L)+       5.0  6  5  5  1  4
+White R               2.0  4  2  2  1  1
+Torres S              1.0  0  0  0  0  0
+Gonzalez M            1.0  1  0  0  0  0
+  * Pitched to 2 batters in 7th
+  + Pitched to 2 batters in 6th
+
+E -- Cruz D, Bay J
+DP -- San Francisco 1, Pittsburgh 1
+LOB -- San Francisco 3, Pittsburgh 10
+2B -- Vizquel O, Alou M, Bay J, Ellison J, Ward D
+3B -- Sanchez F
+HR -- Cruz D, Cota H
+SB -- Lawton M
+CS -- Feliz P
+SH -- Wilson J 2
+WP -- Eyre S
+T -- 3:14
+A -- 23972
+     Game of 5/1/2005 -- San Francisco at Pittsburgh (D)
+
+  San Francisco      AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Ellison J, cf         3  1  1  0   Lawton M, rf          4  0  0  0   
+Vizquel O, ss         4  0  1  0   Sanchez F, 2b         4  0  1  0   
+Cruz D, 2b            4  2  2  0   Bay J, lf             2  1  0  0   
+Alou M, lf            3  3  3  3   Ward D, 1b            4  2  2  3   
+Alfonzo E, 3b         5  0  1  1   Mackowiak R, cf       3  0  0  0   
+Christiansen J, p     0  0  0  0   Wilson C, ph          1  0  0  0   
+Walker T, p           0  0  0  0   Hill B, 3b            3  0  1  0   
+Eyre S, p             0  0  0  0   Cota H, c             4  0  1  0   
+Snow J, 1b            0  0  0  0   Wilson J, ss          4  0  1  0   
+Niekro L, 1b          5  1  2  3   Perez O, p            1  0  0  0   
+Brower J, p           0  0  0  0   Redman T, ph          1  0  0  0   
+Tucker M, rf          5  0  0  0   Vogelsong R, p        0  0  0  0   
+Torrealba Y, c        4  1  1  0   Wigginton T, ph       1  0  0  0   
+Hennessey B, p        3  0  1  1   Grabow J, p           0  0  0  0   
+Feliz P, ph-3b        2  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  8 13  8                        32  3  6  3
+
+San Francisco    102 120 110 --  8
+Pittsburgh       200 001 000 --  3
+
+  San Francisco        IP  H  R ER BB SO
+Hennessey B (W)       7.0  5  3  3  2  6
+Christiansen J        0.1  0  0  0  0  0
+Walker T              0.2  0  0  0  0  0
+Eyre S                0.2  0  0  0  1  0
+Brower J              0.1  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Perez O (L)           5.0  7  6  6  5  1
+Vogelsong R           2.0  3  1  1  0  0
+Grabow J              2.0  3  1  1  2  0
+
+DP -- San Francisco 1, Pittsburgh 2
+LOB -- San Francisco 10, Pittsburgh 5
+2B -- Torrealba Y, Niekro L, Feliz P
+HR -- Ward D 2, Alou M, Niekro L
+SB -- Bay J, Alou M
+T -- 2:40
+A -- 22100
+     Game of 5/13/2005 -- Milwaukee at Pittsburgh (N)
+
+  Milwaukee          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Clark B, cf           4  0  1  0   Lawton M, rf          5  1  0  0   
+Spivey J, 2b          5  0  0  0   Sanchez F, ss         4  0  0  0   
+Jenkins G, rf         5  0  1  1   Bay J, cf             4  1  1  2   
+Lee C, lf             5  1  1  0   Ward D, 1b            4  0  2  0   
+Overbay L, 1b         3  2  2  1   Castillo J, 2b        4  1  2  0   
+Hall B, ss            3  0  1  0   Wigginton T, 3b       3  0  0  0   
+Turnbow D, p          0  0  0  0   Mesa J, p             0  0  0  0   
+Branyan R, 3b         0  0  0  0   Restovich M, lf       2  0  0  0   
+Moeller C, c          3  0  1  1   Mackowiak R, ph       1  0  0  0   
+Capuano C, p          2  0  0  1   Cota H, c             4  0  2  1   
+Cirillo J, ph         0  1  0  0   Wells K, p            2  0  1  0   
+Hardy J, ss           0  0  0  0   White R, p            0  0  0  0   
+                                   Redman T, ph          0  0  0  0   
+                                   Torres S, p           0  0  0  0   
+                                   Gonzalez M, p         0  0  0  0   
+                                   Hill B, 3b            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  4  7  4                        34  3  8  3
+
+Milwaukee        000 201 001 --  4
+Pittsburgh       002 100 000 --  3
+
+  Milwaukee            IP  H  R ER BB SO
+Capuano C (W)         8.0  7  3  3  3  6
+Turnbow D (S)         1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K               6.0  6  3  3  4  4
+White R               1.0  0  0  0  0  1
+Torres S              0.2  0  0  0  1  0
+Gonzalez M            0.1  0  0  0  1  1
+Mesa J (L)            1.0  1  1  1  1  1
+
+DP -- Milwaukee 1, Pittsburgh 1
+LOB -- Milwaukee 9, Pittsburgh 7
+2B -- Overbay L, Castillo J, Jenkins G, Cota H
+HR -- Bay J
+SB -- Lee C, Hall B 2
+SH -- Clark B
+SF -- Capuano C
+HBP -- by Wells K (Moeller C)
+T -- 2:58
+A -- 23845
+     Game of 5/14/2005 -- Milwaukee at Pittsburgh (N)
+
+  Milwaukee          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Clark B, cf           4  0  0  0   Lawton M, rf          5  0  1  0   
+Spivey J, 2b          4  0  2  0   Wilson J, ss          3  0  1  0   
+Jenkins G, rf         4  0  0  0   Bay J, lf             3  0  0  0   
+Lee C, lf             3  0  1  0   Ward D, 1b            4  1  2  0   
+Overbay L, 1b         3  0  0  0   Mackowiak R, 3b       2  1  1  0   
+Miller D, c           3  0  1  0   Castillo J, 2b        4  0  2  2   
+Cirillo J, 3b         3  0  0  0   Redman T, cf          4  0  1  0   
+Hardy J, ss           3  0  0  0   Ross D, c             3  0  0  0   
+Santos V, p           1  0  0  0   Redman M, p           3  0  1  0   
+Santana J, p          1  0  0  0                                      
+De La Rosa J, p       0  0  0  0                                      
+Obermueller W, p      0  0  0  0                                      
+Hall B, ph            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        31  2  9  2
+
+Milwaukee        000 000 000 --  0
+Pittsburgh       000 020 00x --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Santos V (L)*         4.0  7  2  2  4  2
+Santana J             2.0  0  0  0  0  1
+De La Rosa J          1.0  1  0  0  0  0
+Obermueller W         1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M (W)          9.0  4  0  0  0  5
+  * Pitched to 3 batters in 5th
+
+DP -- Milwaukee 1, Pittsburgh 1
+LOB -- Milwaukee 3, Pittsburgh 11
+2B -- Wilson J, Miller D, Lawton M, Mackowiak R, Castillo J, Ward D
+SH -- Mackowiak R
+HBP -- by Santos V (Bay J)
+T -- 2:19
+A -- 21772
+     Game of 5/15/2005 -- Milwaukee at Pittsburgh (D)
+
+  Milwaukee          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Clark B, cf           4  0  2  0   Lawton M, rf          4  1  1  0   
+Spivey J, 2b          5  0  1  0   Wilson J, ss          3  0  0  0   
+Jenkins G, rf         5  1  1  1   Bay J, lf             4  0  0  0   
+Lee C, lf             4  0  1  0   Ward D, 1b            4  1  3  2   
+Overbay L, 1b         4  0  1  0   Mackowiak R, 3b       3  1  0  0   
+Miller D, c           3  1  1  0   Castillo J, 2b        4  1  1  0   
+Cirillo J, 3b         4  0  3  0   Redman T, cf          3  0  1  1   
+Hardy J, ss           4  0  0  0   Ross D, c             2  0  0  1   
+Glover G, p           2  0  1  1   Williams D, p         2  0  0  0   
+Magruder C, ph        1  0  1  0   Torres S, p           0  0  0  0   
+Wise M, p             0  0  0  0   Grabow J, p           0  0  0  0   
+Branyan R, ph         1  0  0  0   Sanchez F, ph         1  0  0  0   
+                                   White R, p            0  0  0  0   
+                                   Mesa J, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  2 12  2                        30  4  6  4
+
+Milwaukee        010 010 000 --  2
+Pittsburgh       010 210 00x --  4
+
+  Milwaukee            IP  H  R ER BB SO
+Glover G (L)          5.0  6  4  4  1  6
+Wise M                3.0  0  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D (W)        5.1  9  2  2  1  6
+Torres S              1.0  1  0  0  0  0
+Grabow J              0.2  0  0  0  0  0
+White R               1.0  2  0  0  0  1
+Mesa J (S)            1.0  0  0  0  1  0
+
+E -- Glover G, Lee C, Spivey J
+DP -- Pittsburgh 1
+LOB -- Milwaukee 10, Pittsburgh 5
+2B -- Spivey J, Miller D, Clark B, Lee C, Cirillo J, Lawton M
+HR -- Ward D, Jenkins G
+SH -- Wilson J
+SF -- Ross D
+T -- 2:30
+A -- 15134
+     Game of 5/17/2005 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hairston J, 2b        5  2  2  0   Lawton M, rf          4  0  0  0   
+Perez N, ss           4  0  2  0   Wilson J, ss          4  0  0  0   
+Lee D, 1b             4  2  4  4   Bay J, lf             2  1  1  1   
+Burnitz J, rf         4  0  2  0   Ward D, 1b            4  0  0  0   
+Ramirez A, 3b         4  0  1  0   Mackowiak R, 3b-cf    4  1  2  1   
+Patterson C, cf       4  0  1  0   Castillo J, 2b        4  0  2  0   
+Dubois J, lf          4  0  0  0   Redman T, cf          3  1  1  0   
+Hollandsworth T, lf   0  0  0  0   Gonzalez M, p         0  0  0  0   
+Barrett M, c          4  0  1  0   Mesa J, p             0  0  0  0   
+Prior M, p            3  0  0  0   Sanchez F, ph         1  0  0  0   
+Macias J, ph          1  0  0  0   Cota H, c             3  0  1  1   
+Hawkins L, p          0  0  0  0   Fogg J, p             2  0  0  0   
+Ohman W, p            0  0  0  0   Hill B, 3b            1  0  0  0   
+Dempster R, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  4 13  4                        32  3  7  3
+
+Chicago          000 010 102 --  4
+Pittsburgh       010 002 000 --  3
+
+  Chicago              IP  H  R ER BB SO
+Prior M               7.0  7  3  3  1  6
+Hawkins L             0.1  0  0  0  1  0
+Ohman W (W)           0.2  0  0  0  0  0
+Dempster R (S)        1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J                6.2 10  2  2  1  3
+Gonzalez M            1.1  1  0  0  1  1
+Mesa J (L)            1.0  2  2  2  0  0
+
+DP -- Chicago 1, Pittsburgh 1
+LOB -- Chicago 10, Pittsburgh 4
+2B -- Lee D, Cota H, Hairston J
+HR -- Bay J, Mackowiak R, Lee D 2
+SH -- Perez N
+SF -- Lee D
+T -- 2:26
+A -- 19701
+     Game of 5/18/2005 -- Chicago at Pittsburgh (D)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hairston J, 2b        3  0  1  0   Lawton M, rf          3  0  0  1   
+Perez N, ss           2  0  1  1   Wilson J, ss          4  1  3  0   
+Lee D, 1b             4  0  0  0   Bay J, cf             3  0  0  0   
+Burnitz J, rf         3  0  0  0   Ward D, 1b            3  0  1  1   
+Barrett M, c          4  1  2  0   Castillo J, 2b        4  0  0  0   
+Blanco H, c           0  0  0  0   Wigginton T, 3b       3  1  0  0   
+Patterson C, cf       3  1  0  0   Restovich M, lf       3  0  2  0   
+Dubois J, lf          2  0  0  0   Redman T, ph          1  0  1  0   
+Hollandsworth, ph-lf  1  0  1  1   Cota H, c             1  0  0  0   
+Macias J, 3b          3  0  1  1   Mackowiak R, ph       0  0  0  0   
+Rusch G, p            2  0  0  0   Wells K, p            3  0  0  0   
+Hawkins L, p          0  0  0  0   Mesa J, p             0  0  0  0   
+Grieve B, ph          0  0  0  0   Sanchez F, ph         1  0  0  0   
+Fontenot M, pr        0  1  0  0                                      
+Bartosh C, p          0  0  0  0                                      
+Wuertz M, p           0  0  0  0                                      
+Ramirez A, ph         1  0  0  0                                      
+Dempster R, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  3  6  3                        29  2  7  2
+
+Chicago          000 000 012 --  3
+Pittsburgh       110 000 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Rusch G               6.0  4  2  2  6  7
+Hawkins L             1.0  1  0  0  0  0
+Bartosh C*            0.0  1  0  0  0  0
+Wuertz M (W)          1.0  0  0  0  0  1
+Dempster R (S)        1.0  1  0  0  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K               8.0  4  1  1  3  6
+Mesa J (L)            1.0  2  2  2  2  1
+  * Pitched to 1 batter in 8th
+
+E -- Hairston J
+DP -- Chicago 4, Pittsburgh 2
+LOB -- Chicago 6, Pittsburgh 9
+2B -- Perez N, Restovich M, Barrett M, Redman T
+3B -- Wilson J
+SB -- Hairston J
+CS -- Burnitz J
+SF -- Ward D, Lawton M, Perez N, Macias J
+HBP -- by Wells K (Hairston J)
+T -- 2:37
+A -- 21142
+     Game of 5/20/2005 -- Colorado at Pittsburgh (N)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Barmes C, ss          5  0  1  0   Lawton M, rf          5  1  2  3   
+Gonzalez L, 2b        5  0  1  0   Wilson J, ss          5  1  3  0   
+Helton T, 1b          3  0  0  0   Bay J, lf             5  0  0  0   
+Wilson P, cf          4  0  1  0   Ward D, 1b            3  2  0  0   
+Atkins G, 3b          3  2  2  1   Castillo J, 2b        5  2  1  1   
+Greene T, c           4  0  2  0   Mackowiak R, 3b       2  2  1  3   
+Holliday M, lf        4  1  1  1   Redman T, cf          4  1  4  1   
+Mohr D, rf            2  0  0  0   Ross D, c             4  0  0  0   
+Relaford D, ph-rf     2  0  1  0   Redman M, p           2  0  0  0   
+Wright J, p           2  0  0  0   Meadows B, p          0  0  0  0   
+Kim B, p              0  0  0  0   Grabow J, p           0  0  0  0   
+Sullivan C, ph        1  1  1  1   Hill B, ph            1  0  1  1   
+Carvajal M, p         0  0  0  0   White R, p            0  0  0  0   
+Hawpe B, ph           0  0  0  1   Torres S, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 10  4                        36  9 12  9
+
+Colorado         000 010 111 --  4
+Pittsburgh       000 300 60x --  9
+
+  Colorado             IP  H  R ER BB SO
+Wright J (L)*         6.0  6  4  3  3  4
+Kim B                 1.0  5  5  5  1  2
+Carvajal M            1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M (W)          6.1  4  2  2  2  6
+Meadows B             0.1  0  0  0  0  1
+Grabow J              0.1  0  0  0  0  0
+White R               1.0  4  1  1  0  0
+Torres S              1.0  2  1  1  0  0
+  * Pitched to 1 batter in 7th
+
+E -- Wright J 2
+LOB -- Colorado 7, Pittsburgh 8
+2B -- Greene T, Wilson J, Relaford D
+3B -- Wilson J
+HR -- Mackowiak R, Atkins G, Lawton M, Sullivan C
+CS -- Gonzalez L
+SF -- Hawpe B
+HBP -- by Kim B (Mackowiak R)
+T -- 2:55
+A -- 31656
+     Game of 5/21/2005 -- Colorado at Pittsburgh (N)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Barmes C, ss          5  0  0  0   Lawton M, rf          4  1  1  1   
+Gonzalez L, 1b        2  1  1  0   Wilson J, ss          4  0  1  1   
+Atkins G, 3b          3  0  0  0   Bay J, lf             4  0  0  0   
+Greene T, c           3  0  0  0   Ward D, 1b            4  1  1  0   
+Wilson P, cf          1  1  0  1   Castillo J, 2b        3  1  2  0   
+Holliday M, lf        3  1  2  2   Mackowiak R, 3b       3  2  1  0   
+Mohr D, rf            2  0  0  0   Redman T, cf          2  2  2  2   
+Sullivan C, ph-rf     1  0  0  0   Cota H, c             4  1  2  4   
+Miles A, ph-2b        1  0  0  0   White R, p            0  0  0  0   
+Relaford D, 2b-rf     4  0  0  0   Gonzalez M, p         0  0  0  0   
+Jennings J, p         2  0  0  0   Perez O, p            2  0  1  0   
+Neal B, p             0  0  0  0   Wigginton T, ph       1  0  0  0   
+Hawpe B, ph           1  0  0  0   Meadows B, p          0  0  0  0   
+Cortes D, p           0  0  0  0   Torres S, p           0  0  0  0   
+Carvajal M, p         0  0  0  0   Ross D, c             1  0  0  0   
+Closser J, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  3  3  3                        32  8 11  8
+
+Colorado         000 200 010 --  3
+Pittsburgh       051 020 00x --  8
+
+  Colorado             IP  H  R ER BB SO
+Jennings J (L)        4.1  9  8  8  4  2
+Neal B                1.2  0  0  0  0  0
+Cortes D              1.0  2  0  0  0  1
+Carvajal M            1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Perez O (W)           5.0  2  2  2  4  8
+Meadows B             2.0  0  0  0  0  2
+Torres S              0.1  0  1  1  3  0
+White R               0.1  1  0  0  0  0
+Gonzalez M (S)        1.1  0  0  0  0  1
+
+DP -- Colorado 1
+LOB -- Colorado 7, Pittsburgh 6
+2B -- Cota H, Ward D, Mackowiak R, Redman T, Castillo J
+3B -- Lawton M
+HR -- Holliday M
+SH -- Wilson J
+SF -- Redman T, Wilson P
+T -- 2:37
+A -- 37504
+     Game of 5/22/2005 -- Colorado at Pittsburgh (D)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Sullivan C, cf        5  0  0  0   Redman T, cf          4  0  0  0   
+Barmes C, ss          5  0  0  0   Wilson J, ss          4  1  0  0   
+Helton T, 1b          3  1  0  0   Bay J, lf             2  1  1  0   
+Holliday M, lf        5  1  2  0   Ward D, 1b            4  0  1  1   
+Hawpe B, rf           3  1  2  0   Castillo J, 2b        4  1  2  1   
+Atkins G, 3b          2  1  0  1   Restovich M, rf       3  0  0  0   
+Relaford D, 2b        3  0  1  2   Wigginton T, 3b       4  0  0  0   
+Closser J, c          3  0  1  0   Cota H, c             4  0  1  1   
+Kennedy J, p          4  0  1  0   Fogg J, p             1  0  0  0   
+Fuentes B, p          0  0  0  0   Sanchez F, ph         1  0  1  0   
+                                   Grabow J, p           0  0  0  0   
+                                   Torres S, p           0  0  0  0   
+                                   Hill B, ph            1  0  0  0   
+                                   Vogelsong R, p        0  0  0  0   
+                                   Ross D, ph            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  3                        33  3  6  3
+
+Colorado         000 220 000 --  4
+Pittsburgh       100 000 002 --  3
+
+  Colorado             IP  H  R ER BB SO
+Kennedy J (W)         8.1  5  3  2  2  6
+Fuentes B (S)         0.2  1  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J (L)            5.0  5  4  3  5  4
+Grabow J              2.0  1  0  0  0  1
+Torres S              1.0  1  0  0  0  0
+Vogelsong R           1.0  0  0  0  0  1
+
+E -- Barmes C 2, Redman T
+DP -- Colorado 1, Pittsburgh 1
+LOB -- Colorado 9, Pittsburgh 6
+2B -- Hawpe B, Castillo J
+3B -- Bay J
+SB -- Sullivan C
+SF -- Relaford D
+HBP -- by Fogg J (Atkins G)
+WP -- Grabow J
+T -- 2:38
+A -- 20853
+     Game of 5/30/2005 -- Florida at Pittsburgh (D)
+
+  Florida            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Pierre J, cf          5  1  1  0   Sanchez F, 3b         6  0  1  1   
+Castillo L, 2b        4  0  2  0   Lawton M, rf          3  0  0  0   
+Cabrera M, lf         4  0  1  2   Bay J, cf-lf          2  0  1  0   
+Delgado C, 1b         3  0  0  0   Restovich M, lf       2  0  0  0   
+Encarnacion J, rf     4  0  0  0   Mackowiak R, ph-cf    2  0  0  0   
+Lowell M, 3b          4  0  1  0   Ward D, 1b            4  1  1  0   
+Jones T, p            0  0  0  0   Castillo J, 2b        4  1  2  0   
+Gonzalez A, ss        4  0  1  0   Ross D, c             5  0  1  1   
+Treanor M, c          3  1  1  0   Wilson J, ss          4  1  2  0   
+Leiter A, p           2  0  0  0   Redman M, p           2  0  0  0   
+Bump N, p             0  0  0  0   Hill B, ph            1  0  0  0   
+Conine J, ph          1  0  0  0   Meadows B, p          0  0  0  0   
+Riedling J, p         0  0  0  0   Gonzalez M, p         0  0  0  0   
+Perisho M, p          0  0  0  0   Redman T, ph          0  0  0  0   
+Mecir J, p            0  0  0  0   White R, p            0  0  0  0   
+Easley D, 3b          0  0  0  0   Wigginton T, ph       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  7  2                        35  3  8  2
+
+Florida          101 000 000 0 --  2
+Pittsburgh       010 000 010 1 --  3
+  2 outs when winning run was scored.
+
+  Florida              IP  H  R ER BB SO
+Leiter A              5.0  4  1  1  5  4
+Bump N                1.0  1  0  0  1  0
+Riedling J            0.2  0  0  0  1  0
+Perisho M*            0.1  0  1  0  1  1
+Mecir J               1.0  1  0  0  1  0
+Jones T (L)           1.2  2  1  1  1  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M              6.0  4  2  2  2  5
+Meadows B             1.2  2  0  0  0  1
+Gonzalez M            0.1  0  0  0  0  1
+White R (W)           2.0  1  0  0  1  0
+  * Pitched to 1 batter in 8th
+
+E -- Gonzalez A
+DP -- Florida 2, Pittsburgh 1
+LOB -- Florida 7, Pittsburgh 14
+2B -- Ward D, Ross D, Treanor M, Cabrera M, Castillo J, Wilson J
+SB -- Pierre J, Bay J
+SH -- Easley D
+SF -- Cabrera M
+HBP -- by Jones T (Lawton M)
+WP -- Jones T
+T -- 3:23
+A -- 17379
+     Game of 5/31/2005 -- Florida at Pittsburgh (N)
+
+  Florida            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Pierre J, cf          4  0  0  0   Lawton M, rf          2  1  0  1   
+Castillo L, 2b        4  0  1  0   Sanchez F, 3b         3  0  1  2   
+Cabrera M, lf         4  1  1  1   Bay J, lf             3  1  1  0   
+Delgado C, 1b         4  2  2  1   Ward D, 1b            4  1  1  2   
+Encarnacion J, rf     4  1  2  1   Mackowiak R, cf       3  0  0  0   
+Lowell M, 3b          3  0  0  1   Castillo J, 2b        4  0  0  0   
+Gonzalez A, ss        4  0  1  0   Cota H, c             4  1  1  0   
+Treanor M, c          3  0  1  0   Wilson J, ss          4  1  3  0   
+Burnett A, p          2  0  0  0   Perez O, p            0  0  0  0   
+Harris L, ph          1  0  0  0   Redman T, ph          1  0  0  0   
+Bump N, p             0  0  0  0   Meadows B, p          0  0  0  0   
+Riedling J, p         0  0  0  0   Gonzalez M, p         0  0  0  0   
+                                   Hill B, ph            1  0  0  0   
+                                   Mesa J, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  8  4                        29  5  7  5
+
+Florida          000 202 000 --  4
+Pittsburgh       001 020 20x --  5
+
+  Florida              IP  H  R ER BB SO
+Burnett A             6.0  4  3  0  2  2
+Bump N (L)            1.0  2  2  2  1  2
+Riedling J            1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Perez O               6.0  7  4  4  0  6
+Meadows B (W)         1.0  1  0  0  0  0
+Gonzalez M            1.0  0  0  0  0  0
+Mesa J (S)            1.0  0  0  0  0  0
+
+E -- Castillo J, Treanor M, Castillo L
+DP -- Florida 1, Pittsburgh 1
+LOB -- Florida 3, Pittsburgh 7
+2B -- Gonzalez A, Sanchez F, Encarnacion J, Treanor M
+HR -- Delgado C, Encarnacion J, Cabrera M, Ward D
+SH -- Perez O 2
+SF -- Lawton M, Lowell M
+HBP -- by Burnett A (Sanchez F)
+T -- 2:19
+A -- 12553
+     Game of 6/1/2005 -- Florida at Pittsburgh (N)
+
+  Florida            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Castillo L, 2b        2  0  1  0   Lawton M, rf          4  0  1  2   
+Easley D, ph-2b       1  0  0  0   Restovich M, rf       0  0  0  0   
+Pierre J, cf          3  0  1  0   Sanchez F, 3b         5  0  0  0   
+Conine J, ph-rf       1  0  0  0   Bay J, lf             5  1  2  0   
+Cabrera M, lf         3  0  1  0   Ward D, 1b            3  2  2  0   
+Delgado C, 1b         4  1  1  0   Castillo J, 2b        5  1  2  0   
+Encarnacion J, rf-cf  4  0  0  0   Mackowiak R, cf       4  2  2  5   
+Lo Duca P, c          4  0  1  0   Cota H, c             4  1  1  0   
+Lowell M, 3b          4  0  1  1   Wilson J, ss          4  2  4  0   
+Gonzalez A, ss        3  0  1  0   Fogg J, p             1  0  0  0   
+Moehler B, p          2  0  0  0   Redman T, ph          1  0  1  2   
+Smith T, p            0  0  0  0   Torres S, p           1  0  0  0   
+Dillon J, ph          1  0  0  0                                      
+Mota G, p             0  0  0  0                                      
+Perisho M, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  7  1                        37  9 15  9
+
+Florida          010 000 000 --  1
+Pittsburgh       010 022 40x --  9
+
+  Florida              IP  H  R ER BB SO
+Moehler B (L)         5.1 10  5  5  2  1
+Smith T               0.2  0  0  0  0  1
+Mota G                1.0  4  4  4  1  2
+Perisho M             1.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J (W)            6.0  5  1  1  2  2
+Torres S (S)          3.0  2  0  0  0  0
+
+DP -- Florida 1, Pittsburgh 1
+LOB -- Florida 6, Pittsburgh 8
+2B -- Ward D, Wilson J, Bay J
+3B -- Wilson J
+HR -- Mackowiak R
+SB -- Pierre J, Redman T, Bay J
+CS -- Castillo L
+SH -- Fogg J
+PB -- Cota H
+T -- 2:35
+A -- 15487
+     Game of 6/2/2005 -- Florida at Pittsburgh (N)
+
+  Florida            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Castillo L, 2b        5  0  1  1   Sanchez F, 3b         4  1  2  0   
+Conine J, rf          5  0  1  1   Redman T, cf          4  1  3  1   
+Pierre J, pr-cf       0  0  0  0   Bay J, lf             4  0  0  1   
+Delgado C, 1b         3  1  2  1   Wigginton T, 1b       3  0  1  0   
+Cabrera M, lf         5  1  3  0   Castillo J, 2b        3  0  0  1   
+Encarnacion J, cf-rf  4  0  1  0   Restovich M, rf       4  0  1  0   
+Lo Duca P, c          5  0  0  0   Ross D, c             3  0  1  0   
+Easley D, 3b          5  2  2  1   Lawton M, ph          1  0  0  0   
+Gonzalez A, ss        3  1  1  0   Wilson J, ss          4  1  1  0   
+Willis D, p           4  1  2  1   Williams D, p         1  0  0  0   
+Jones T, p            0  0  0  0   Meadows B, p          0  0  0  0   
+                                   Grabow J, p           0  0  0  0   
+                                   Hill B, ph            1  0  0  0   
+                                   Vogelsong R, p        0  0  0  0   
+                                   Mackowiak R, ph       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 13  5                        33  3  9  3
+
+Florida          110 002 110 --  6
+Pittsburgh       001 001 010 --  3
+
+  Florida              IP  H  R ER BB SO
+Willis D (W)          8.0  9  3  3  2  3
+Jones T (S)           1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D (L)        6.0  8  4  4  2  4
+Meadows B             1.0  2  1  0  0  1
+Grabow J              1.0  2  1  1  1  0
+Vogelsong R           1.0  1  0  0  0  0
+
+E -- Wilson J
+DP -- Florida 2, Pittsburgh 1
+LOB -- Florida 10, Pittsburgh 6
+2B -- Easley D, Willis D
+3B -- Cabrera M, Redman T
+HR -- Delgado C, Easley D
+SB -- Pierre J
+SH -- Williams D
+HBP -- by Williams D (Delgado C)
+T -- 2:23
+A -- 15105
+     Game of 6/3/2005 -- Atlanta at Pittsburgh (N)
+
+  Atlanta            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Orr P, 2b             5  0  2  1   Lawton M, rf          4  0  0  0   
+Johnson K, lf         5  0  1  0   Sanchez F, 3b         4  2  2  0   
+Jones C, 3b           4  0  0  0   Bay J, lf             2  1  1  0   
+LaRoche A, 1b         3  0  1  0   Mackowiak R, cf       4  0  0  0   
+Furcal R, pr          0  0  0  0   Ward D, 1b            2  0  1  1   
+Pena B, c             0  0  0  0   Castillo J, 2b        3  0  1  2   
+Estrada J, c          3  0  1  0   Cota H, c             3  0  0  0   
+Franco J, ph-1b       1  0  0  0   Wilson J, ss          3  0  1  0   
+Jones A, cf           4  0  1  0   Wells K, p            3  0  0  0   
+Langerhans R, rf      4  1  1  0   Gonzalez M, p         0  0  0  0   
+Betemit W, ss         4  0  2  0   Mesa J, p             0  0  0  0   
+Hudson T, p           1  0  0  0                                      
+Giles M, ph           1  0  0  0                                      
+Bernero A, p          0  0  0  0                                      
+Jordan B, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  1  9  1                        28  3  6  3
+
+Atlanta          000 000 001 --  1
+Pittsburgh       000 102 00x --  3
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (L)          7.0  6  3  3  3  4
+Bernero A             1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (W)           7.2  6  0  0  2  7
+Gonzalez M            0.1  0  0  0  0  0
+Mesa J (S)            1.0  3  1  1  0  1
+
+E -- Ward D
+DP -- Atlanta 1
+LOB -- Atlanta 10, Pittsburgh 4
+2B -- Sanchez F
+CS -- Wilson J
+PB -- Cota H
+T -- 2:25
+A -- 27643
+     Game of 6/4/2005 -- Atlanta at Pittsburgh (N)
+
+  Atlanta            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Furcal R, ss          4  0  0  0   Lawton M, rf          3  0  3  0   
+Giles M, 2b           4  0  2  0   Sanchez F, 3b         4  0  1  0   
+Jordan B, rf          4  1  0  0   Bay J, lf             3  0  1  0   
+Franco J, 1b          3  0  1  1   Mackowiak R, cf       2  0  0  0   
+Orr P, pr             0  0  0  0   Ward D, 1b            4  0  0  0   
+Reitsma C, p          0  0  0  0   Castillo J, 2b        4  0  1  0   
+Jones A, cf           3  0  0  0   Ross D, c             2  0  0  0   
+Estrada J, c          3  0  0  0   Hill B, ph            1  0  0  0   
+Betemit W, 3b         4  0  1  0   Wilson J, ss          4  0  0  0   
+Johnson K, lf         2  0  0  0   Redman M, p           2  0  0  0   
+Jones C, ph           1  0  0  0   Redman T, ph          1  0  0  0   
+Langerhans R, lf      0  0  0  0   Gonzalez M, p         0  0  0  0   
+Davies K, p           3  0  1  0                                      
+Foster J, p           0  0  0  0                                      
+LaRoche A, 1b         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        30  0  6  0
+
+Atlanta          000 000 001 --  1
+Pittsburgh       000 000 000 --  0
+
+  Atlanta              IP  H  R ER BB SO
+Davies K              7.2  6  0  0  4  5
+Foster J (W)          0.1  0  0  0  1  0
+Reitsma C (S)         1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M              8.0  3  0  0  1  3
+Gonzalez M (L)        1.0  2  1  1  2  1
+
+E -- Ross D
+DP -- Atlanta 2, Pittsburgh 2
+LOB -- Atlanta 6, Pittsburgh 8
+2B -- Bay J, Sanchez F, Franco J
+CS -- Lawton M
+WP -- Redman M
+T -- 2:18
+A -- 33649
+     Game of 6/5/2005 -- Atlanta at Pittsburgh (D)
+
+  Atlanta            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Furcal R, ss          3  0  0  0   Lawton M, rf          4  2  3  1   
+Giles M, 2b           3  0  0  0   Sanchez F, 3b         3  1  0  0   
+Jones C, 3b           3  0  0  0   Bay J, lf             2  0  0  1   
+Orr P, 3b             0  0  0  0   Ward D, 1b            3  1  2  0   
+Franco J, 1b          4  0  0  0   Castillo J, 2b        4  0  1  1   
+Jones A, cf           4  0  0  0   Mackowiak R, cf       4  1  3  2   
+Jordan B, rf          4  0  2  0   Cota H, c             3  0  1  0   
+Estrada J, c          4  1  1  0   Wilson J, ss          3  0  1  0   
+Langerhans R, lf      3  1  2  2   Perez O, p            3  0  0  0   
+Greisinger S, p       2  0  0  0   White R, p            0  0  0  0   
+Bernero A, p          0  0  0  0   Doumit R, ph          1  0  0  0   
+Betemit W, ph         1  0  0  0   Mesa J, p             0  0  0  0   
+Sosa J, p             0  0  0  0                                      
+Colon R, p            0  0  0  0                                      
+LaRoche A, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  5  2                        30  5 11  5
+
+Atlanta          000 020 000 --  2
+Pittsburgh       100 012 10x --  5
+
+  Atlanta              IP  H  R ER BB SO
+Greisinger S          5.0  7  2  2  1  2
+Bernero A (L)         1.0  2  2  2  1  0
+Sosa J                1.0  1  1  0  2  1
+Colon R               1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Perez O (W)           7.0  4  2  2  3  7
+White R               1.0  0  0  0  0  2
+Mesa J (S)            1.0  1  0  0  1  2
+
+E -- Sosa J
+DP -- Atlanta 1
+LOB -- Atlanta 7, Pittsburgh 8
+2B -- Wilson J, Langerhans R, Lawton M, Ward D
+HR -- Langerhans R, Lawton M, Mackowiak R
+SH -- Sanchez F, Wilson J
+SF -- Bay J
+WP -- Perez O
+T -- 2:37
+A -- 28717
+     Game of 6/6/2005 -- Baltimore at Pittsburgh (N)
+
+  Baltimore          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Newhan D, cf          5  1  1  0   Lawton M, rf          2  1  2  1   
+Gomez C, 2b           4  0  1  0   Redman T, cf          3  0  2  1   
+Mora M, 3b            4  1  3  0   Bay J, lf             4  0  0  0   
+Tejada M, ss          2  1  2  2   Ward D, 1b            4  0  2  0   
+Sosa S, rf            4  0  0  0   Castillo J, 2b        4  0  0  0   
+Palmeiro R, 1b        3  0  0  1   Mackowiak R, 3b       4  1  1  0   
+Surhoff B, lf         4  1  1  1   Cota H, c             4  1  1  0   
+Fasano S, c           3  0  1  0   Wilson J, ss          3  0  1  1   
+Ponson S, p           2  0  0  0   Fogg J, p             1  0  0  0   
+Calzado N, ph         1  0  0  0   Grabow J, p           0  0  0  0   
+Kline S, p            0  0  0  0   Doumit R, ph          1  0  0  0   
+Julio J, p            0  0  0  0   Torres S, p           0  0  0  0   
+Gibbons J, ph         1  0  0  0   Gonzalez M, p         0  0  0  0   
+Ryan B, p             0  0  0  0   White R, p            0  0  0  0   
+                                   Restovich M, ph       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  9  4                        31  3  9  3
+
+Baltimore        200 100 010 --  4
+Pittsburgh       000 020 100 --  3
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S              6.0  7  2  2  2  4
+Kline S               0.2  2  1  1  0  0
+Julio J (W)           1.1  0  0  0  0  2
+Ryan B (S)            1.0  0  0  0  0  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J                5.1  8  3  3  1  1
+Grabow J              1.2  0  0  0  1  3
+Torres S (L)          0.1  1  1  0  1  0
+Gonzalez M            0.2  0  0  0  0  1
+White R               1.0  0  0  0  0  0
+
+E -- Ward D, Cota H
+DP -- Baltimore 2, Pittsburgh 1
+LOB -- Baltimore 6, Pittsburgh 6
+2B -- Lawton M, Tejada M, Cota H, Mora M
+HR -- Tejada M, Surhoff B, Lawton M
+SH -- Redman T, Fogg J
+SF -- Wilson J, Palmeiro R
+T -- 2:37
+A -- 15860
+     Game of 6/7/2005 -- Baltimore at Pittsburgh (N)
+
+  Baltimore          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Nivar R, cf           4  0  1  0   Lawton M, rf          2  1  0  0   
+Roberts B, ph         1  0  0  0   Doumit R, c           4  0  1  0   
+Gomez C, 2b           5  0  0  0   Cota H, c             0  0  0  0   
+Mora M, 3b            4  1  1  1   Mackowiak R, 3b       3  2  2  0   
+Tejada M, ss          4  1  2  0   Bay J, lf             2  1  1  0   
+Sosa S, rf            3  1  2  1   Ward D, 1b            4  1  2  4   
+Surhoff B, lf         4  0  2  0   Castillo J, 2b        4  0  0  0   
+Gibbons J, 1b         3  0  1  1   Redman T, cf          4  0  0  0   
+Reed S, p             0  0  0  0   Wilson J, ss          3  1  1  1   
+Kline S, p            0  0  0  0   Williams D, p         1  0  0  0   
+Newhan D, ph          0  0  0  0   Vogelsong R, p        1  0  0  0   
+Julio J, p            0  0  0  0   Hill B, ph            1  0  0  0   
+Fasano S, c           4  2  2  2   Meadows B, p          0  0  0  0   
+Penn H, p             1  0  0  0   Restovich M, ph       1  0  0  0   
+Parrish J, p          0  0  0  0   Mesa J, p             0  0  0  0   
+Palmeiro R, 1b        2  0  0  0                                      
+Calzado N, pr         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5 11  5                        30  6  7  5
+
+Baltimore        011 111 000 --  5
+Pittsburgh       000 002 04x --  6
+
+  Baltimore            IP  H  R ER BB SO
+Penn H                5.1  3  2  2  3  0
+Parrish J*            0.0  1  0  0  0  0
+Reed S                1.0  0  0  0  0  0
+Kline S               0.2  0  0  0  1  0
+Julio J (L)           1.0  3  4  4  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D            4.1  7  4  4  2  1
+Vogelsong R           2.2  2  1  1  0  0
+Meadows B (W)         1.0  2  0  0  1  2
+Mesa J (S)            1.0  0  0  0  0  0
+  * Pitched to 1 batter in 6th
+
+E -- Ward D
+DP -- Pittsburgh 4
+LOB -- Baltimore 6, Pittsburgh 6
+2B -- Doumit R, Tejada M 2, Ward D, Surhoff B
+HR -- Sosa S, Fasano S 2, Mora M, Ward D, Wilson J
+CS -- Wilson J
+HBP -- by Reed S (Wilson J)
+WP -- Parrish J
+T -- 2:35
+A -- 21422
+     Game of 6/8/2005 -- Baltimore at Pittsburgh (N)
+
+  Baltimore          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Newhan D, cf          5  0  1  0   Lawton M, rf          4  2  2  0   
+Mora M, 3b            3  0  1  0   Redman T, cf          4  2  3  1   
+Tejada M, ss          4  1  1  1   Bay J, lf             2  2  0  0   
+Palmeiro R, 1b        4  0  0  0   Mackowiak R, 3b       4  0  3  4   
+Surhoff B, lf         4  0  1  0   Ward D, 1b            4  0  0  0   
+Gomez C, 2b           3  0  1  0   Castillo J, 2b        4  0  0  0   
+Gibbons J, rf         4  0  1  0   Cota H, c             4  0  1  0   
+Fasano S, c           3  0  0  0   Wilson J, ss          3  0  1  0   
+Roberts B, ph         1  0  1  0   Wells K, p            3  0  0  0   
+Chen B, p             2  0  1  0   Gonzalez M, p         0  0  0  0   
+Nivar R, ph           0  0  0  0   White R, p            0  0  0  0   
+Williams T, p         0  0  0  0                                      
+Ryan B, p             0  0  0  0                                      
+Sosa S, ph            1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  1  9  1                        32  6 10  5
+
+Baltimore        000 000 010 --  1
+Pittsburgh       300 000 03x --  6
+
+  Baltimore            IP  H  R ER BB SO
+Chen B (L)            6.0  6  3  3  1  2
+Williams T*           1.0  3  3  3  1  0
+Ryan B                1.0  1  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (W)+          7.0  7  1  1  2  4
+Gonzalez M            1.0  0  0  0  0  1
+White R               1.0  2  0  0  0  0
+  * Pitched to 3 batters in 8th
+  + Pitched to 1 batter in 8th
+
+DP -- Baltimore 2, Pittsburgh 2
+LOB -- Baltimore 9, Pittsburgh 4
+2B -- Lawton M 2, Redman T, Gomez C, Mackowiak R, Roberts B
+3B -- Mackowiak R
+HR -- Tejada M
+HBP -- by Wells K (Nivar R)
+WP -- Ryan B
+T -- 2:32
+A -- 37438
+     Game of 6/10/2005 -- Tampa Bay at Pittsburgh (N)
+
+  Tampa Bay          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Crawford C, lf        4  0  2  0   Lawton M, rf          3  1  0  0   
+Lugo J, ss            3  0  0  0   Redman T, cf          3  3  2  0   
+Perez E, 1b           3  0  0  0   Mackowiak R, 3b       3  1  2  0   
+Lee T, ph-1b          1  0  0  0   Bay J, lf             2  2  2  3   
+Huff A, rf            4  1  1  0   Ward D, 1b            2  0  1  3   
+Hollins D, cf         4  0  2  0   Castillo J, 2b        3  0  0  1   
+Cantu J, 3b           4  1  2  1   Ross D, c             4  0  0  0   
+Hall T, c             4  0  1  1   Wilson J, ss          4  0  0  0   
+Green N, 2b           3  0  1  0   Redman M, p           3  0  0  0   
+Nomo H, p             2  0  0  0   Grabow J, p           0  0  0  0   
+Gonzalez A, ph        1  0  0  0   White R, p            1  0  0  0   
+Miller T, p           0  0  0  0                                      
+Carter L, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  9  2                        28  7  7  7
+
+Tampa Bay        000 000 200 --  2
+Pittsburgh       200 030 20x --  7
+
+  Tampa Bay            IP  H  R ER BB SO
+Nomo H (L)            6.0  4  5  5  4  2
+Miller T              0.2  3  2  2  0  1
+Carter L              1.1  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M (W)          7.0  8  2  2  0  2
+Grabow J              0.1  0  0  0  1  0
+White R               1.2  1  0  0  0  1
+
+DP -- Pittsburgh 3
+LOB -- Tampa Bay 5, Pittsburgh 5
+2B -- Cantu J, Ward D
+3B -- Crawford C, Redman T, Bay J
+CS -- Crawford C
+SF -- Bay J, Castillo J, Ward D
+HBP -- by Nomo H (Redman T)
+T -- 2:25
+A -- 27517
+     Game of 6/11/2005 -- Tampa Bay at Pittsburgh (N)
+
+  Tampa Bay          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Crawford C, lf        4  0  2  1   Sanchez F, 3b         2  2  1  1   
+Lugo J, ss            4  1  2  0   Hill B, ph-3b         2  1  0  0   
+Perez E, 1b           3  0  0  0   Mackowiak R, cf       6  3  3  1   
+Huff A, rf            4  0  0  0   Bay J, lf             3  3  2  1   
+Hollins D, cf         4  0  1  1   Restovich M, lf       2  1  1  1   
+Cantu J, 3b           3  0  1  0   Doumit R, rf          5  3  3  3   
+Gardner L, p          0  0  0  0   Ward D, 1b            5  1  2  4   
+Hall T, c             2  0  0  0   Castillo J, 2b        5  2  3  5   
+Orvella C, p          0  0  0  0   Cota H, c             6  1  2  1   
+Gonzalez A, 3b        1  0  0  0   Wilson J, ss          5  1  2  1   
+Green N, 2b           3  1  1  0   Perez O, p            4  0  1  0   
+Kazmir S, p           1  0  0  0   Meadows B, p          0  0  0  0   
+Johnson C, c          2  0  0  0   Redman T, ph          1  0  0  0   
+                                   Torres S, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  7  2                        46 18 20 18
+
+Tampa Bay        000 000 110 --  2
+Pittsburgh       300 063 15x -- 18
+
+  Tampa Bay            IP  H  R ER BB SO
+Kazmir S (L)          4.2  8  9  9  3  7
+Orvella C             1.1  5  3  2  0  1
+Gardner L             2.0  7  6  1  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Perez O (W)           7.0  5  1  1  1 10
+Meadows B             1.0  2  1  1  0  0
+Torres S              1.0  0  0  0  0  0
+
+E -- Perez E, Huff A, Gonzalez A
+DP -- Pittsburgh 3
+LOB -- Tampa Bay 3, Pittsburgh 10
+2B -- Doumit R, Bay J, Mackowiak R, Green N
+3B -- Doumit R
+HR -- Castillo J
+SF -- Ward D
+HBP -- by Kazmir S (Doumit R)
+T -- 2:57
+A -- 31113
+     Game of 6/12/2005 -- Tampa Bay at Pittsburgh (D)
+
+  Tampa Bay          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Crawford C, lf        6  1  0  0   Sanchez F, 3b-ss      6  0  1  0   
+Lugo J, ss            7  1  2  0   Lawton M, rf          6  1  4  1   
+Sanchez A, rf         6  2  2  0   Bay J, lf             5  1  2  0   
+Cantu J, 2b           6  0  2  1   Doumit R, c           5  0  2  1   
+Lee T, 1b             6  0  1  2   Mackowiak R, cf       5  0  0  1   
+Taylor R, cf          3  1  2  0   Castillo J, 2b        6  0  1  0   
+Carter L, p           0  0  0  0   Ward D, 1b            4  1  0  0   
+Huff A, ph            1  0  0  0   Wilson J, ss          2  1  0  0   
+Miller T, p           0  0  0  0   Hill B, 3b            3  0  0  0   
+Nunez F, p            0  0  0  0   Fogg J, p             2  0  0  0   
+Green N, ph           0  1  0  0   Grabow J, p           0  0  0  0   
+Orvella C, p          0  0  0  0   Torres S, p           0  0  0  0   
+Hall T, c             5  0  2  2   Redman T, ph          1  0  1  0   
+Gonzalez A, 3b        5  1  1  2   White R, p            0  0  0  0   
+Hendrickson M, p      3  0  1  0   Gonzalez M, p         0  0  0  0   
+Harper T, p           0  0  0  0   Cota H, ph            1  1  1  1   
+Hollins D, cf         3  0  2  0   Mesa J, p             0  0  0  0   
+                                   Restovich M, ph       1  0  0  0   
+                                   Meadows B, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     51  7 15  7                        47  5 12  4
+
+Tampa Bay        300 000 200 000 2 --  7
+Pittsburgh       200 000 201 000 0 --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Hendrickson M         5.0  6  2  2  0  2
+Harper T              1.2  1  2  2  1  1
+Carter L              2.1  3  1  1  0  1
+Miller T              0.1  1  0  0  2  0
+Nunez F (W)           2.2  0  0  0  0  1
+Orvella C (S)         1.0  1  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J                6.1 11  4  4  2  5
+Grabow J              0.1  0  1  1  1  0
+Torres S              0.1  1  0  0  0  0
+White R               1.0  1  0  0  0  0
+Gonzalez M            1.0  0  0  0  0  1
+Mesa J                2.0  0  0  0  0  2
+Meadows B (L)         2.0  2  2  2  1  1
+
+E -- Fogg J
+DP -- Tampa Bay 2, Pittsburgh 1
+LOB -- Tampa Bay 10, Pittsburgh 9
+2B -- Lee T, Doumit R 2, Taylor R, Lawton M, Hollins D 2, Castillo J
+HR -- Cota H, Gonzalez A
+SB -- Crawford C 2, Sanchez A, Taylor R
+SH -- Doumit R, Hall T
+HBP -- by Harper T (Wilson J)
+T -- 4:04
+A -- 23240
+     Game of 6/20/2005 -- Washington at Pittsburgh (N)
+
+  Washington         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Wilkerson B, cf       3  0  1  2   Lawton M, rf          2  0  0  0   
+Byrd M, lf            4  0  0  0   Redman T, cf          4  1  1  0   
+Church R, ph-lf       1  0  1  1   Bay J, lf             4  0  1  0   
+Guillen J, rf         5  2  2  2   Ward D, 1b            4  1  3  0   
+Johnson N, 1b         4  0  1  0   Mackowiak R, 3b       4  1  2  1   
+Castilla V, 3b        4  0  0  0   Castillo J, 2b        4  1  0  0   
+Spivey J, 2b          3  2  2  0   Wilson J, ss          4  0  2  2   
+Schneider B, c        4  1  3  0   Ross D, c             2  0  0  0   
+Guzman C, ss          4  2  2  2   Doumit R, ph-c        2  0  1  0   
+Hernandez L, p        1  0  0  0   Redman M, p           2  0  0  0   
+Majewski G, p         0  0  0  0   Hill B, ph            1  0  0  1   
+Baerga C, ph          1  0  0  0   Torres S, p           0  0  0  0   
+Cordero C, p          0  0  0  0   Cota H, ph            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  7 12  7                        34  4 10  4
+
+Washington       120 210 001 --  7
+Pittsburgh       100 000 300 --  4
+
+  Washington           IP  H  R ER BB SO
+Hernandez L (W)       7.0  8  4  2  1  2
+Majewski G            1.0  1  0  0  0  2
+Cordero C (S)         1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M (L)          7.0 10  6  6  1  6
+Torres S              2.0  2  1  1  2  0
+
+E -- Castilla V
+DP -- Washington 4, Pittsburgh 3
+LOB -- Washington 5, Pittsburgh 5
+2B -- Johnson N, Guzman C, Ward D
+3B -- Guzman C
+HR -- Guillen J 2
+CS -- Guzman C
+SH -- Hernandez L 2
+HBP -- by Hernandez L (Lawton M)
+T -- 2:40
+A -- 21893
+     Game of 6/21/2005 -- Washington at Pittsburgh (N)
+
+  Washington         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Wilkerson B, cf       3  3  1  1   Lawton M, rf          5  2  3  5   
+Byrd M, lf            3  1  1  0   Hill B, 3b            3  3  2  0   
+Church R, ph-lf       2  0  1  0   Bay J, lf             5  2  3  1   
+Guillen J, rf         4  0  2  2   Ward D, 1b            5  0  1  3   
+Blanco T, ph          1  0  0  0   Mackowiak R, cf       3  0  0  1   
+Johnson N, 1b         4  0  1  0   Castillo J, 2b        4  0  2  1   
+Castilla V, 3b        3  0  0  1   Cota H, c             3  0  0  0   
+Spivey J, 2b          3  0  1  0   Gonzalez M, p         0  0  0  0   
+Schneider B, c        4  0  2  0   Redman T, ph          0  1  0  0   
+Guzman C, ss          4  0  0  0   Mesa J, p             0  0  0  0   
+Drese R, p            1  0  0  0   Wilson J, ss          4  1  1  0   
+Carrasco H, p         0  0  0  0   Perez O, p            0  0  0  0   
+Cordero W, ph         1  0  0  0   Grabow J, p           0  0  0  0   
+Hughes T, p           0  0  0  0   White R, p            0  0  0  0   
+Ayala L, p            0  0  0  0   Ross D, c             2  2  2  0   
+Carroll J, ph         1  0  1  0                                      
+Majewski G, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4 10  4                        34 11 14 11
+
+Washington       102 000 100 --  4
+Pittsburgh       202 100 24x -- 11
+
+  Washington           IP  H  R ER BB SO
+Drese R (L)*          3.0  8  5  5  2  0
+Carrasco H            2.0  0  0  0  0  2
+Hughes T              1.0  0  0  0  0  0
+Ayala L               1.0  3  2  2  2  0
+Majewski G            1.0  3  4  4  2  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Perez O (W)           5.0  5  3  3  3  6
+Grabow J              1.0  2  0  0  0  1
+White R               0.1  1  1  1  1  1
+Gonzalez M            1.2  1  0  0  1  0
+Mesa J                1.0  1  0  0  0  1
+  * Pitched to 1 batter in 4th
+
+DP -- Washington 2, Pittsburgh 1
+LOB -- Washington 10, Pittsburgh 6
+2B -- Guillen J, Hill B, Bay J, Wilson J, Ross D, Lawton M, Ward D, Church R
+HR -- Wilkerson B, Lawton M
+CS -- Lawton M
+SH -- Drese R, Perez O
+SF -- Castilla V
+T -- 3:12
+A -- 26006
+     Game of 6/22/2005 -- Washington at Pittsburgh (D)
+
+  Washington         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Wilkerson B, cf       4  0  0  0   Lawton M, rf          4  1  2  1   
+Carroll J, 3b         4  1  0  0   Redman T, cf          4  1  1  0   
+Guillen J, rf         5  2  4  2   Bay J, lf             4  1  1  2   
+Johnson N, 1b         3  1  1  0   Ward D, 1b            4  0  1  0   
+Church R, lf          3  1  1  1   Mackowiak R, 3b       4  1  1  1   
+Spivey J, 2b          2  0  2  0   Doumit R, c           3  0  0  0   
+Schneider B, c        4  0  1  1   White R, p            0  0  0  0   
+Guzman C, ss          4  0  0  0   Castillo J, 2b        4  0  1  0   
+Patterson J, p        3  0  0  0   Wilson J, ss          3  0  0  0   
+Carrasco H, p         0  0  0  0   Fogg J, p             2  0  0  0   
+Baerga C, ph          1  0  1  0   Hill B, ph            0  0  0  0   
+Blanco T, pr          0  0  0  0   Meadows B, p          0  0  0  0   
+Cordero C, p          0  0  0  0   Gonzalez M, p         0  0  0  0   
+                                   Cota H, c             1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5 10  4                        33  4  7  4
+
+Washington       201 010 010 --  5
+Pittsburgh       310 000 000 --  4
+
+  Washington           IP  H  R ER BB SO
+Patterson J           6.1  7  4  4  2  4
+Carrasco H (W)        1.2  0  0  0  0  1
+Cordero C (S)         1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J                7.0  7  4  4  2  7
+Meadows B*            0.0  1  0  0  0  0
+Gonzalez M (L)        1.0  1  1  1  2  0
+White R               1.0  1  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+DP -- Pittsburgh 2
+LOB -- Washington 7, Pittsburgh 5
+2B -- Church R, Spivey J
+HR -- Guillen J 2, Bay J, Mackowiak R, Lawton M
+CS -- Guillen J
+SH -- Wilson J
+HBP -- by Fogg J (Carroll J), by Fogg J (Spivey J)
+T -- 2:59
+A -- 24064
+     Game of 7/4/2005 -- Philadelphia at Pittsburgh (D)
+
+  Philadelphia       AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Rollins J, ss         4  1  1  0   Lawton M, rf          4  0  0  0   
+Martinez R, ph-ss     2  0  1  0   Hill B, 3b            0  0  0  0   
+Michaels J, cf-rf     4  3  2  1   Sanchez F, 3b-2b      4  0  1  0   
+Abreu B, rf           4  2  2  5   Bay J, lf             3  0  0  0   
+Chavez E, cf          2  0  1  0   Restovich M, lf       1  0  0  0   
+Burrell P, lf         5  1  3  2   Ward D, 1b            3  0  1  0   
+Utley C, 2b           6  1  2  0   Castillo J, 2b        2  1  2  0   
+Bell D, 3b            6  1  2  1   Vogelsong R, p        1  0  1  0   
+Howard R, 1b          4  2  2  1   Torres S, p           0  0  0  0   
+Fultz A, p            0  0  0  0   Cota H, ph            1  0  0  0   
+Worrell T, p          0  0  0  0   White R, p            0  0  0  0   
+Lieberthal M, c       1  1  1  0   Mackowiak , cf-3b-rf  4  0  1  1   
+Lidle C, p            3  0  1  0   Doumit R, c           3  0  0  0   
+Perez T, ph-1b        1  0  0  0   Wilson J, ss          4  0  0  0   
+                                   Williams D, p         1  0  0  0   
+                                   Redman T, cf          3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     42 12 18 10                        34  1  7  1
+
+Philadelphia     004 060 101 -- 12
+Pittsburgh       010 000 000 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Lidle C (W)           7.0  7  1  1  0  6
+Fultz A               1.0  0  0  0  1  0
+Worrell T             1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D (L)*       4.0  8  8  8  2  5
+Vogelsong R           3.1  8  3  3  2  3
+Torres S              0.2  0  0  0  0  1
+White R               1.0  2  1  1  1  1
+  * Pitched to 4 batters in 5th
+
+E -- Lawton M, Redman T
+DP -- Pittsburgh 1
+LOB -- Philadelphia 12, Pittsburgh 8
+2B -- Mackowiak R, Bell D, Ward D, Vogelsong R, Burrell P
+3B -- Bell D
+HR -- Abreu B
+SH -- Lidle C
+SF -- Howard R
+HBP -- by Vogelsong R (Lieberthal M), by Lidle C (Doumit R), by Torres S (Lieberthal M)
+T -- 3:12
+A -- 37259
+     Game of 7/5/2005 -- Philadelphia at Pittsburgh (N)
+
+  Philadelphia       AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Rollins J, ss         4  0  0  0   Lawton M, rf          4  1  1  1   
+Lofton K, cf          3  0  0  0   Sanchez F, 3b         4  0  0  0   
+Abreu B, rf           3  0  0  0   Bay J, lf             4  1  3  2   
+Burrell P, lf         4  0  0  0   Mackowiak R, cf       3  0  0  0   
+Utley C, 2b           3  0  2  0   Castillo J, 2b        4  0  0  0   
+Howard R, 1b          4  0  0  0   Ward D, 1b            4  0  1  0   
+Bell D, 3b            3  0  1  0   Cota H, c             3  0  1  0   
+Pratt T, c            3  0  0  0   Wilson J, ss          4  0  2  0   
+Lieber J, p           0  0  0  0   Wells K, p            2  1  1  0   
+Geary G, p            1  0  0  0                                      
+Chavez E, ph          1  0  1  0                                      
+Madson R, p           0  0  0  0                                      
+Cormier R, p          0  0  0  0                                      
+Perez T, ph           1  0  0  0                                      
+Urbina U, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        32  3  9  3
+
+Philadelphia     000 000 000 --  0
+Pittsburgh       000 030 00x --  3
+
+  Philadelphia         IP  H  R ER BB SO
+Lieber J              1.0  1  0  0  1  0
+Geary G               3.0  3  0  0  0  4
+Madson R (L)          2.0  4  3  3  0  0
+Cormier R             1.0  1  0  0  0  0
+Urbina U              1.0  0  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (W)           9.0  4  0  0  3 12
+
+E -- Wilson J
+DP -- Pittsburgh 2
+LOB -- Philadelphia 6, Pittsburgh 8
+2B -- Wells K, Lawton M, Bay J
+HR -- Bay J
+SH -- Wells K
+T -- 2:24
+A -- 13442
+     Game of 7/6/2005 -- Philadelphia at Pittsburgh (N)
+
+  Philadelphia       AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Michaels J, cf-lf     5  0  1  1   Lawton M, rf          4  0  2  0   
+Bell D, 3b            5  0  0  0   Redman T, cf          4  0  1  0   
+Abreu B, rf           3  0  0  0   Bay J, lf             3  0  0  0   
+Burrell P, lf         4  1  1  0   Mackowiak R, 3b       3  0  0  0   
+Madson R, p           0  0  0  0   Castillo J, 2b        4  0  1  0   
+Urbina U, p           0  0  0  0   Ward D, 1b            4  0  0  0   
+Chavez E, ph          1  0  0  0   Ross D, c             2  0  0  0   
+Wagner B, p           0  0  0  0   White R, p            0  0  0  0   
+Utley C, 2b           2  1  1  0   Grabow J, p           0  0  0  0   
+Howard R, 1b          3  1  0  0   Torres S, p           0  0  0  0   
+Lieberthal M, c       3  1  1  1   Restovich M, ph       1  0  0  0   
+Perez T, ss           4  1  1  1   Wilson J, ss          4  0  1  0   
+Padilla V, p          2  0  0  0   Redman M, p           1  0  0  0   
+Lofton K, ph-cf       1  0  1  0   Cota H, c             1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  6  3                        31  0  5  0
+
+Philadelphia     001 000 400 --  5
+Pittsburgh       000 000 000 --  0
+
+  Philadelphia         IP  H  R ER BB SO
+Padilla V (W)         6.0  4  0  0  4  2
+Madson R              1.0  1  0  0  0  0
+Urbina U              1.0  0  0  0  0  2
+Wagner B              1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M (L)*         6.0  3  4  3  3  4
+White R               1.0  1  1  0  2  0
+Grabow J              1.0  1  0  0  0  0
+Torres S              1.0  1  0  0  1  0
+  * Pitched to 3 batters in 7th
+
+E -- Bell D, Ward D
+DP -- Philadelphia 1
+LOB -- Philadelphia 8, Pittsburgh 8
+2B -- Lieberthal M, Wilson J, Redman T, Lawton M 2, Burrell P, Perez T
+SF -- Lieberthal M
+WP -- White R
+PB -- Lieberthal M
+T -- 2:34
+A -- 19961
+     Game of 7/7/2005 -- Philadelphia at Pittsburgh (N)
+
+  Philadelphia       AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Michaels J, cf        5  0  2  0   Lawton M, rf          3  0  1  0   
+Bell D, 3b            4  0  1  0   Sanchez F, 2b-3b      4  0  0  0   
+Abreu B, rf           4  1  1  0   Bay J, lf             2  0  0  0   
+Burrell P, lf         4  0  1  0   Mackowiak R, 3b-cf    2  1  1  0   
+Utley C, 2b           4  0  1  1   Redman T, cf          4  0  0  0   
+Lieberthal M, c       4  0  1  0   Mesa J, p             0  0  0  0   
+Howard R, 1b          4  0  1  0   Ward D, 1b            3  0  0  0   
+Rollins J, pr         0  0  0  0   Cota H, c             3  1  1  2   
+Perez T, ss           3  0  1  0   Wilson J, ss          3  0  0  0   
+Myers B, p            2  0  0  0   Duke Z, p             2  0  0  0   
+Fultz A, p            0  0  0  0   Doumit R, ph          1  0  1  0   
+Martinez R, ph        0  0  0  0   Grabow J, p           0  0  0  0   
+Worrell T, p          0  0  0  0   White R, p            0  0  0  0   
+Cormier R, p          0  0  0  0   Castillo J, 2b        0  0  0  0   
+Lofton K, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  1  9  1                        27  2  4  2
+
+Philadelphia     000 000 010 --  1
+Pittsburgh       000 200 00x --  2
+
+  Philadelphia         IP  H  R ER BB SO
+Myers B (L)           5.0  3  2  2  5  3
+Fultz A               1.0  0  0  0  0  1
+Worrell T             1.1  1  0  0  0  1
+Cormier R             0.2  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (W)            7.0  6  0  0  1  8
+Grabow J              0.1  1  1  1  0  1
+White R               0.2  1  0  0  0  1
+Mesa J (S)            1.0  1  0  0  0  1
+
+LOB -- Philadelphia 9, Pittsburgh 6
+2B -- Bell D, Lieberthal M, Mackowiak R, Michaels J, Lawton M, Perez T, Abreu B
+3B -- Michaels J
+HR -- Cota H
+SB -- Lawton M
+CS -- Doumit R
+SH -- Perez T
+T -- 2:35
+A -- 20942
+     Game of 7/8/2005 -- New York at Pittsburgh (N)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Reyes J, ss           4  2  1  0   Lawton M, rf          3  0  1  3   
+Cameron M, rf         5  0  0  0   Sanchez F, 3b         5  0  1  0   
+Beltran C, cf         5  0  1  0   Bay J, lf             5  0  1  0   
+Floyd C, lf           5  0  0  1   Mackowiak R, cf       5  1  0  0   
+Wright D, 3b          4  1  1  0   Castillo J, 2b        5  1  1  0   
+Anderson M, 1b        3  0  1  0   Ward D, 1b            4  1  2  0   
+Offerman J, ph-1b     1  1  1  0   Doumit R, c           4  0  0  0   
+Castro R, c           4  1  2  2   Cota H, c             1  0  1  1   
+Cairo M, 2b           4  0  1  1   Wilson J, ss          3  2  1  0   
+Zambrano V, p         3  0  0  0   Fogg J, p             1  0  0  0   
+Daubach B, ph         1  0  1  0   Torres S, p           0  0  0  0   
+Heilman A, p          0  0  0  0   Hill B, ph            1  0  1  0   
+Looper B, p           0  0  0  0   Grabow J, p           0  0  0  0   
+                                   Meadows B, p          0  0  0  0   
+                                   Redman T, ph          1  1  1  2   
+                                   Mesa J, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  5  9  4                        38  6 10  6
+
+New York         100 001 102 0 --  5
+Pittsburgh       000 001 004 1 --  6
+  2 outs when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Zambrano V            8.0  5  1  1  1  4
+Heilman A             0.2  2  3  3  1  0
+Looper B (L)          1.0  3  2  1  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J                7.0  5  3  2  1  3
+Torres S              1.0  0  0  0  0  0
+Grabow J              0.1  2  2  2  0  0
+Meadows B             0.2  2  0  0  0  0
+Mesa J (W)            1.0  0  0  0  0  0
+
+E -- Castillo J, Anderson M, Reyes J, Sanchez F, Cairo M
+DP -- New York 2
+LOB -- New York 5, Pittsburgh 8
+2B -- Anderson M, Bay J, Wilson J, Daubach B, Lawton M
+HR -- Castro R
+CS -- Reyes J
+SH -- Fogg J
+SF -- Lawton M
+Balk -- Fogg J
+T -- 2:54
+A -- 32563
+     Game of 7/9/2005 -- New York at Pittsburgh (N)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Reyes J, ss           5  1  1  0   Sanchez F, 3b         5  1  3  1   
+Cameron M, rf         5  1  1  2   Doumit R, rf          2  0  0  1   
+Beltran C, cf         4  1  1  0   Mackowiak R, cf       2  1  1  0   
+Floyd C, lf           4  1  3  1   Bay J, cf-lf          4  0  0  0   
+Piazza M, c           3  0  1  0   Wilson C, 1b          4  1  1  0   
+Wright D, 3b          4  0  0  0   Castillo J, 2b        5  1  1  2   
+Woodward C, 1b        3  0  1  0   Cota H, c             4  3  3  2   
+Bell H, p             0  0  0  0   Restovich M, lf-rf    1  2  0  0   
+Graves D, p           0  0  0  0   Wilson J, ss          4  2  3  5   
+Ring R, p             0  0  0  0   Williams D, p         1  0  0  0   
+Offerman J, ph        1  0  1  1   Hill B, ph            1  0  0  0   
+Koo D, p              0  0  0  0   Snell I, p            0  0  0  0   
+Cairo M, 2b           4  0  0  0   Lawton M, ph          1  0  0  0   
+Ishii K, p            2  0  0  0   Torres S, p           0  0  0  0   
+Anderson M, 1b        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4  9  4                        34 11 12 11
+
+New York         000 021 010 --  4
+Pittsburgh       002 101 70x -- 11
+
+  New York             IP  H  R ER BB SO
+Ishii K (L)           5.2  6  4  4  3  5
+Bell H                0.2  3  4  4  1  0
+Graves D*             0.0  2  3  3  1  0
+Ring R                0.2  1  0  0  0  1
+Koo D                 1.0  0  0  0  0  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D (W)        6.0  6  3  3  1  5
+Snell I               1.0  0  0  0  1  0
+Torres S              2.0  3  1  1  0  2
+  * Pitched to 3 batters in 7th
+
+LOB -- New York 7, Pittsburgh 6
+2B -- Sanchez F, Cota H
+HR -- Cota H, Cameron M, Floyd C, Wilson J
+SH -- Williams D
+SF -- Doumit R
+T -- 2:48
+A -- 36708
+     Game of 7/10/2005 -- New York at Pittsburgh (D)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Reyes J, ss           5  2  4  1   Lawton M, rf          3  0  1  0   
+Cameron M, rf         5  0  2  2   Mackowiak R, 3b       4  0  2  1   
+Beltran C, cf         4  1  1  2   Bay J, cf             4  0  0  0   
+Floyd C, lf           4  0  0  0   Ward D, 1b            4  0  0  0   
+Looper B, p           0  0  0  0   Wilson C, lf          4  0  0  0   
+Anderson M, 1b        4  0  1  0   Castillo J, 2b        4  0  1  0   
+Wright D, 3b          4  0  1  0   Cota H, c             4  0  0  0   
+Castro R, c           4  1  1  0   Wilson J, ss          3  0  0  0   
+Cairo M, 2b           4  1  2  1   Wells K, p            1  0  1  0   
+Martinez P, p         2  1  1  0   Hill B, ph            1  1  1  0   
+Hernandez R, p        0  0  0  0   Vogelsong R, p        0  0  0  0   
+Offerman J, ph        1  0  0  0   Meadows B, p          0  0  0  0   
+Williams G, lf        0  0  0  0   Doumit R, ph          1  0  0  0   
+                                   White R, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 13  6                        33  1  6  1
+
+New York         200 031 000 --  6
+Pittsburgh       000 010 000 --  1
+
+  New York             IP  H  R ER BB SO
+Martinez P (W)        7.0  5  1  1  1  9
+Hernandez R           1.0  0  0  0  0  2
+Looper B              1.0  1  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (L)           5.0  9  5  5  2  2
+Vogelsong R           1.0  2  1  1  0  2
+Meadows B             1.0  0  0  0  0  1
+White R               2.0  2  0  0  0  2
+
+E -- Castillo J
+DP -- Pittsburgh 3
+LOB -- New York 7, Pittsburgh 6
+2B -- Cameron M, Castro R, Cairo M
+HR -- Beltran C
+SB -- Cairo M, Reyes J
+SH -- Martinez P
+T -- 2:36
+A -- 26551
+     Game of 7/18/2005 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Taveras W, cf         5  1  2  0   Duffy C, cf           5  1  2  0   
+Biggio C, 2b          5  0  0  0   Lawton M, rf          3  0  1  0   
+Burns M, p            0  0  0  0   Vogelsong R, p        0  0  0  0   
+Lamb M, ph-3b         0  0  0  1   Meadows B, p          0  0  0  0   
+Berkman L, 1b         5  0  3  2   Bay J, lf             2  0  0  0   
+Palmeiro O, lf        0  0  0  0   Mackowiak R, 3b-1b    3  0  0  0   
+Ensberg M, 3b         3  1  1  0   Castillo J, 2b        4  0  1  1   
+Harville C, p         0  0  0  0   Ward D, 1b            3  0  0  0   
+Lane J, rf            6  3  3  0   Torres S, p           0  0  0  0   
+Everett A, ss         3  2  1  0   Restovich M, rf       0  0  0  0   
+Gallo M, p            0  0  0  0   Redman T, ph-rf       1  0  0  0   
+Vizcaino J, 2b-1b     1  0  0  0   Doumit R, c           4  0  0  0   
+Burke C, lf-2b        4  2  3  2   Wilson J, ss          3  0  2  0   
+Quintero H, c         4  2  2  4   Williams D, p         0  0  0  0   
+Backe B, p            3  0  2  1   Sanchez F, 3b         2  0  0  0   
+Bruntlett E, ss       2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41 11 17 10                        30  1  6  1
+
+Houston          000 401 204 -- 11
+Pittsburgh       100 000 000 --  1
+
+  Houston              IP  H  R ER BB SO
+Backe B (W)           6.0  3  1  1  6  6
+Gallo M               1.0  1  0  0  0  0
+Burns M               1.0  1  0  0  0  0
+Harville C            1.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D (L)*       5.0 10  5  4  1  5
+Torres S              2.0  3  2  2  1  1
+Vogelsong R           1.2  4  4  4  4  1
+Meadows B             0.1  0  0  0  0  0
+  * Pitched to 2 batters in 6th
+
+E -- Doumit R, Duffy C
+DP -- Houston 2, Pittsburgh 1
+LOB -- Houston 12, Pittsburgh 9
+2B -- Backe B, Quintero H, Ensberg M, Berkman L, Lane J
+3B -- Backe B
+CS -- Taveras W
+SH -- Williams D, Quintero H
+HBP -- by Williams D (Ensberg M), by Vogelsong R (Taveras W)
+PB -- Doumit R
+T -- 3:08
+A -- 17590
+     Game of 7/19/2005, game 1 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Taveras W, cf         5  0  2  2   Duffy C, cf           5  0  2  0   
+Biggio C, 2b          4  0  0  1   Hill B, 3b            5  0  0  0   
+Bruntlett E, ss       0  0  0  0   Lawton M, rf          2  0  0  0   
+Berkman L, rf         5  2  2  0   Meadows B, p          0  0  0  0   
+Springer R, p         0  0  0  0   Restovich M, ph       1  0  1  0   
+Burns M, p            0  0  0  0   Torres S, p           0  0  0  0   
+Ensberg M, 3b         4  2  3  2   Ward D, ph            1  0  0  0   
+Lamb M, 1b            5  0  1  0   Bay J, lf             4  1  1  0   
+Palmeiro O, lf        4  2  3  0   Mackowiak R, 1b       4  0  0  0   
+Vizcaino J, ss-2b     5  1  2  2   Castillo J, 2b        4  0  2  0   
+Ausmus B, c           4  2  0  1   Wilson J, ss          3  0  0  1   
+Astacio E, p          2  0  1  0   Doumit R, c           3  2  2  2   
+Gallo M, p            0  0  0  0   Snell I, p            1  0  0  0   
+Qualls C, p           0  0  0  0   Redman T, ph-rf       3  0  0  0   
+Lane J, ph-rf         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  9 14  8                        36  3  8  3
+
+Houston          122 000 031 --  9
+Pittsburgh       000 011 010 --  3
+
+  Houston              IP  H  R ER BB SO
+Astacio E (W)         6.0  5  2  2  2  5
+Gallo M               0.2  2  0  0  0  0
+Qualls C              0.1  0  0  0  1  0
+Springer R            1.0  1  1  1  0  2
+Burns M               1.0  0  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I (L)           5.0 10  5  5  1  3
+Meadows B             2.0  0  0  0  1  2
+Torres S              2.0  4  4  2  1  0
+
+E -- Wilson J, Hill B, Torres S, Lamb M
+DP -- Pittsburgh 3
+LOB -- Houston 8, Pittsburgh 10
+2B -- Berkman L 2, Palmeiro O, Taveras W
+3B -- Ensberg M
+HR -- Doumit R 2
+CS -- Taveras W
+SH -- Astacio E
+SF -- Wilson J, Biggio C
+HBP -- by Snell I (Ausmus B)
+PB -- Doumit R
+T -- 2:55
+A -- 0
+     Game of 7/19/2005, game 2 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Biggio C, 2b          4  2  2  0   Duffy C, cf           4  2  1  0   
+Lidge B, p            0  0  0  0   Sanchez F, 3b         4  0  2  0   
+Bruntlett E, cf-ss    4  1  1  3   Lawton M, rf          4  0  0  0   
+Berkman L, 1b         3  1  2  2   Bay J, lf             4  1  2  1   
+Ensberg M, 3b         3  0  0  1   Ward D, 1b            3  0  0  0   
+Lane J, rf-lf         3  0  1  0   White R, p            0  0  0  0   
+Everett A, ss         4  0  0  0   Redman T, ph          1  0  0  0   
+Wheeler D, p          0  0  0  0   Mesa J, p             0  0  0  0   
+Palmeiro O, rf        0  0  0  0   Castillo J, 2b        4  0  0  1   
+Burke C, lf-2b        4  1  2  0   Cota H, c             3  1  1  0   
+Quintero H, c         4  1  2  0   Doumit R, ph          1  0  0  0   
+Ausmus B, c           0  0  0  0   Wilson J, ss          3  0  2  0   
+Rodriguez W, p        2  0  0  0   Redman M, p           2  0  0  0   
+Qualls C, p           0  0  0  0   Mackowiak R, 1b       2  0  0  0   
+Taveras W, cf         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  6 10  6                        35  4  8  2
+
+Houston          004 020 000 --  6
+Pittsburgh       100 110 100 --  4
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)*      6.0  7  4  2  1  6
+Qualls C              1.0  0  0  0  0  1
+Wheeler D             1.0  0  0  0  0  1
+Lidge B (S)           1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M (L)          6.0  8  6  6  3  3
+White R               2.0  1  0  0  0  0
+Mesa J                1.0  1  0  0  0  0
+  * Pitched to 2 batters in 7th
+
+E -- Rodriguez W, Berkman L
+DP -- Houston 1, Pittsburgh 2
+LOB -- Houston 4, Pittsburgh 5
+2B -- Bay J 2, Sanchez F
+3B -- Bruntlett E
+HR -- Berkman L
+SH -- Rodriguez W
+SF -- Ensberg M
+Balk -- Redman M, Rodriguez W
+T -- 2:25
+A -- 20552
+     Game of 7/20/2005 -- Houston at Pittsburgh (D)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Taveras W, cf         3  0  0  0   Duffy C, cf           5  0  2  0   
+Bruntlett E, cf       2  0  0  0   Sanchez F, 3b-2b      4  0  3  0   
+Palmeiro O, lf        5  1  1  0   Lawton M, rf          5  0  2  0   
+Berkman L, rf         3  2  3  2   Bay J, lf             4  0  1  0   
+Lane J, rf            0  0  0  0   Doumit R, c           2  0  0  0   
+Ensberg M, 3b         4  1  1  1   Castillo J, 2b        3  0  0  0   
+Lamb M, 1b            5  1  1  3   Grabow J, p           0  0  0  0   
+Everett A, ss         5  1  1  0   Redman T, ph          1  0  0  0   
+Burke C, 2b           4  1  3  0   Meadows B, p          0  0  0  0   
+Ausmus B, c           4  1  1  0   Ward D, 1b            4  0  0  0   
+Pettitte A, p         3  0  1  1   Wilson J, ss          4  0  1  0   
+Vizcaino J, ph        1  0  1  1   Fogg J, p             1  0  0  0   
+Springer R, p         0  0  0  0   Hill B, 3b            2  0  0  0   
+Harville C, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  8 13  8                        35  0  9  0
+
+Houston          100 004 210 --  8
+Pittsburgh       000 000 000 --  0
+
+  Houston              IP  H  R ER BB SO
+Pettitte A (W)        7.0  5  0  0  1  7
+Springer R            1.0  2  0  0  1  0
+Harville C            1.0  2  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J (L)            6.2  9  7  7  2  4
+Grabow J              1.1  3  1  1  1  2
+Meadows B             1.0  1  0  0  0  1
+
+DP -- Houston 1, Pittsburgh 1
+LOB -- Houston 7, Pittsburgh 12
+2B -- Burke C, Palmeiro O, Berkman L, Lawton M
+HR -- Berkman L, Lamb M
+HBP -- by Pettitte A (Doumit R)
+T -- 2:39
+A -- 19769
+     Game of 7/21/2005 -- Colorado at Pittsburgh (N)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Gonzalez L, 2b        4  0  1  0   Duffy C, cf           5  1  1  0   
+Atkins G, 3b          5  0  2  0   Sanchez F, 3b         4  0  0  0   
+Helton T, 1b          4  0  1  0   Lawton M, rf          4  1  1  0   
+Byrnes E, rf          3  0  0  0   Bay J, lf             4  2  3  2   
+Holliday M, lf        5  1  2  0   Castillo J, 2b        4  2  2  1   
+Mohr D, cf            4  0  2  0   Ward D, 1b            2  1  2  1   
+Relaford D, ss        4  0  1  0   Cota H, c             4  1  2  3   
+Ardoin D, c           4  0  1  0   Wilson J, ss          4  0  2  1   
+Francis J, p          1  0  0  0   Duke Z, p             2  0  0  0   
+Garabito E, ph        1  0  0  0   White R, p            0  0  0  0   
+Carvajal M, p         0  0  0  0   Redman T, ph          1  0  0  0   
+Piedra J, ph          1  0  0  0   Torres S, p           0  0  0  0   
+Cortes D, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  1 10  0                        34  8 13  8
+
+Colorado         000 001 000 --  1
+Pittsburgh       520 000 10x --  8
+
+  Colorado             IP  H  R ER BB SO
+Francis J (L)         5.0 11  7  7  2  4
+Carvajal M            2.0  2  1  1  1  1
+Cortes D              1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (W)            7.0  8  1  0  4  5
+White R               1.0  2  0  0  0  0
+Torres S              1.0  0  0  0  1  1
+
+E -- Ardoin D, Wilson J
+DP -- Colorado 2, Pittsburgh 1
+LOB -- Colorado 13, Pittsburgh 5
+HR -- Bay J
+T -- 2:33
+A -- 22492
+     Game of 7/22/2005 -- Colorado at Pittsburgh (N)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Sullivan C, cf        5  1  1  0   Duffy C, cf           4  0  1  0   
+Miles A, 2b           4  1  1  0   Doumit R, ph          0  0  0  0   
+Helton T, 1b          4  2  2  2   Redman T, pr-cf       1  0  0  0   
+Holliday M, lf        4  1  3  1   Lawton M, rf          4  1  1  1   
+Atkins G, 3b          4  0  1  2   Bay J, lf             4  1  2  1   
+Cortes D, p           0  0  0  0   Eldred B, 1b          5  0  1  0   
+Piedra J, rf          3  0  0  0   Mackowiak R, 3b       5  0  1  1   
+Mohr D, rf            2  0  0  0   Mesa J, p             0  0  0  0   
+Gonzalez L, ss-3b     4  0  1  0   Castillo J, 2b        4  0  2  0   
+Closser J, c          3  0  0  0   Cota H, c             5  0  2  0   
+Miceli D, p           0  0  0  0   Wilson J, ss          5  0  0  0   
+Byrnes E, ph          1  0  0  0   Wells K, p            2  0  1  0   
+Fuentes B, p          0  0  0  0   Ward D, ph            1  0  1  0   
+Relaford D, ss        0  0  0  0   Restovich M, pr       0  0  0  0   
+Wright J, p           2  0  0  0   Grabow J, p           0  0  0  0   
+Garabito E, ph        1  0  0  0   White R, p            0  0  0  0   
+DeJean M, p           0  0  0  0   Sanchez F, ph-3b      2  1  1  0   
+Ardoin D, c           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  5  9  5                        42  3 13  3
+
+Colorado         000 102 000 2 --  5
+Pittsburgh       000 002 001 0 --  3
+
+  Colorado             IP  H  R ER BB SO
+Wright J              6.0  7  2  2  1  4
+DeJean M              1.0  2  0  0  0  2
+Miceli D              1.0  0  0  0  1  1
+Fuentes B (W)         1.0  2  1  1  1  3
+Cortes D (S)          1.0  2  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K               7.0  5  3  3  1  7
+Grabow J              1.0  0  0  0  0  0
+White R               1.0  1  0  0  0  0
+Mesa J (L)            1.0  3  2  2  1  0
+
+E -- Cota H
+LOB -- Colorado 7, Pittsburgh 13
+2B -- Atkins G, Bay J
+HR -- Holliday M, Helton T
+SB -- Mackowiak R, Lawton M, Bay J, Gonzalez L, Holliday M
+SH -- Miles A
+HBP -- by Wells K (Holliday M), by Fuentes B (Doumit R)
+T -- 3:00
+A -- 35262
+     Game of 7/23/2005 -- Colorado at Pittsburgh (N)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Gonzalez L, 2b        4  0  0  0   Lawton M, rf          4  1  0  0   
+Mohr D, cf            3  0  1  2   Sanchez F, 3b         4  0  2  0   
+Closser J, c          0  0  0  0   Bay J, lf             4  1  1  1   
+Helton T, 1b          4  0  0  0   Eldred B, 1b          2  1  1  1   
+Holliday M, lf        2  0  0  0   Redman T, cf          3  1  1  0   
+Atkins G, 3b          4  0  0  0   Doumit R, c           4  0  1  2   
+Byrnes E, rf          3  0  1  0   Castillo J, 2b        3  0  0  0   
+Relaford D, ss        4  1  1  0   Wilson J, ss          3  0  0  1   
+Ardoin D, c           2  0  0  1   Williams D, p         2  1  1  0   
+Sullivan C, ph-cf     2  1  0  0   Torres S, p           0  0  0  0   
+Kim B, p              1  0  0  0   Duffy C, ph           1  0  0  0   
+Piedra J, ph          0  1  0  0   White R, p            0  0  0  0   
+Williams R, p         0  0  0  0   Grabow J, p           0  0  0  0   
+Miceli D, p           0  0  0  0   Mesa J, p             1  0  0  0   
+Miles A, ph           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  3  3  3                        31  5  7  5
+
+Colorado         000 010 020 --  3
+Pittsburgh       200 020 01x --  5
+
+  Colorado             IP  H  R ER BB SO
+Kim B (L)             7.0  7  4  4  3  6
+Williams R            0.1  0  1  0  3  1
+Miceli D              0.2  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D (W)        6.0  1  1  1  3  1
+Torres S              1.0  0  0  0  0  2
+White R               0.1  1  2  1  1  0
+Grabow J              0.1  0  0  0  0  1
+Mesa J (S)            1.1  1  0  0  1  1
+
+E -- Castillo J, Atkins G
+DP -- Colorado 1, Pittsburgh 1
+LOB -- Colorado 7, Pittsburgh 8
+2B -- Relaford D, Williams D, Bay J, Mohr D
+SB -- Lawton M, Byrnes E
+SH -- Gonzalez L
+HBP -- by Williams D (Holliday M), by Mesa J (Miles A)
+WP -- Williams D
+T -- 2:44
+A -- 37778
+     Game of 7/24/2005 -- Colorado at Pittsburgh (D)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Gonzalez L, 2b        4  0  3  0   Duffy C, cf           4  0  1  0   
+Mohr D, rf            4  0  0  0   Sanchez F, 3b         4  0  2  0   
+Helton T, 1b          4  0  1  0   Bay J, lf             3  0  1  0   
+Holliday M, lf        4  0  0  0   Eldred B, 1b          4  0  0  0   
+Atkins G, 3b          4  0  2  0   Redman T, rf          4  1  1  0   
+Byrnes E, cf          4  0  0  0   Castillo J, 2b        3  1  1  1   
+Closser J, c          3  0  1  0   Cota H, c             2  0  0  1   
+Machado A, ss         2  0  0  0   Wilson J, ss          3  1  1  0   
+Chacon S, p           2  0  0  0   Redman M, p           3  0  1  1   
+Miles A, ph           1  0  0  0   Mesa J, p             0  0  0  0   
+Cortes D, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  0  7  0                        30  3  8  3
+
+Colorado         000 000 000 --  0
+Pittsburgh       020 100 00x --  3
+
+  Colorado             IP  H  R ER BB SO
+Chacon S (L)          7.0  8  3  3  1  5
+Cortes D              1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M (W)          8.0  6  0  0  1  5
+Mesa J (S)            1.0  1  0  0  0  0
+
+DP -- Pittsburgh 2
+LOB -- Colorado 6, Pittsburgh 6
+2B -- Duffy C, Redman T, Bay J
+3B -- Wilson J
+HR -- Castillo J
+SH -- Castillo J
+SF -- Cota H
+T -- 2:00
+A -- 18523
+     Game of 8/2/2005 -- San Diego at Pittsburgh (N)
+
+  San Diego          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Roberts D, cf         4  1  2  1   Duffy C, cf           4  0  1  1   
+Randa J, 3b           6  1  2  1   Mackowiak R, 3b       4  0  1  1   
+Klesko R, lf          4  1  1  0   Bay J, lf             4  1  2  1   
+Jackson D, pr-lf      2  1  1  1   Ward D, 1b            4  0  1  0   
+Giles B, rf           2  2  0  0   Gerut J, rf           4  0  2  0   
+Nady X, rf            0  0  0  0   Castillo J, 2b        3  0  0  0   
+Sweeney M, 1b         3  2  2  2   Cota H, c             4  0  0  0   
+Loretta M, 2b         4  1  2  2   Wilson J, ss          4  1  1  0   
+Olivo M, c            0  0  0  0   Wells K, p            1  0  0  0   
+Fick R, c             3  0  0  1   Snell I, p            0  0  0  0   
+Breslow C, p          0  0  0  0   Redman T, ph          1  1  1  0   
+Eaton A, p            0  0  0  0   Meadows B, p          0  0  0  0   
+Greene K, ss          5  1  2  2   Torres S, p           0  0  0  0   
+Peavy J, p            3  1  2  1   Restovich M, ph       1  0  0  0   
+Young E, ph-2b        2  0  1  0   White R, p            0  0  0  0   
+                                   Vogelsong R, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38 11 15 11                        34  3  9  3
+
+San Diego        020 310 050 -- 11
+Pittsburgh       000 120 000 --  3
+
+  San Diego            IP  H  R ER BB SO
+Peavy J (W)           7.0  7  3  3  0  9
+Breslow C             1.0  2  0  0  0  1
+Eaton A               1.0  0  0  0  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (L)           3.2  4  5  5  5  2
+Snell I               1.1  3  1  1  1  0
+Meadows B             1.0  1  0  0  0  0
+Torres S              1.0  0  0  0  1  1
+White R               0.2  5  5  5  2  0
+Vogelsong R           1.1  2  0  0  0  1
+
+E -- Mackowiak R, Cota H, Castillo J
+DP -- San Diego 2, Pittsburgh 2
+LOB -- San Diego 10, Pittsburgh 5
+2B -- Peavy J, Roberts D, Wilson J, Duffy C, Gerut J, Mackowiak R, Randa J
+HR -- Bay J
+SB -- Sweeney M, Greene K
+CS -- Roberts D, Fick R
+SF -- Fick R
+WP -- Vogelsong R
+PB -- Cota H
+T -- 3:16
+A -- 23624
+     Game of 8/3/2005 -- San Diego at Pittsburgh (N)
+
+  San Diego          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Young E, lf           4  1  2  4   Duffy C, cf           5  1  2  0   
+Jackson D, cf         4  1  1  0   Sanchez F, 3b         4  1  0  0   
+Otsuka A, p           0  0  0  0   Gerut J, rf           3  1  1  1   
+Randa J, 3b           5  0  0  0   Mackowiak R, ph-rf    1  1  0  0   
+Giles B, rf           4  0  0  0   Bay J, lf             3  3  1  2   
+Loretta M, 2b         4  1  1  0   Castillo J, 2b        5  1  1  0   
+Nady X, 1b            3  0  0  0   Eldred B, 1b          4  1  4  3   
+Greene K, ss          4  1  2  2   Doumit R, c           3  0  1  2   
+Olivo M, c            4  3  3  1   Wilson J, ss          4  0  0  0   
+Park C, p             1  1  0  0   Williams D, p         2  0  0  0   
+Hensley C, p          1  0  0  0   Redman T, ph          1  0  0  0   
+Linebrink S, p        0  0  0  0   Meadows B, p          0  0  0  0   
+Sweeney M, ph         1  0  1  0   Torres S, p           0  0  0  0   
+Roberts D, pr-cf      0  0  0  0   Ward D, ph            1  0  0  0   
+                                   Mesa J, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  8 10  7                        36  9 10  8
+
+San Diego        101 033 000 --  8
+Pittsburgh       302 020 101 --  9
+  2 outs when winning run was scored.
+
+  San Diego            IP  H  R ER BB SO
+Park C                4.1  8  7  5  3  1
+Hensley C             1.2  0  0  0  0  1
+Linebrink S           2.0  1  1  1  1  0
+Otsuka A (L)          0.2  1  1  1  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D            5.0  4  5  3  2  1
+Meadows B             1.0  4  3  3  0  2
+Torres S              2.0  1  0  0  0  0
+Mesa J (W)            1.0  1  0  0  0  0
+
+E -- Williams D 2, Giles B, Doumit R
+DP -- Pittsburgh 1
+LOB -- San Diego 4, Pittsburgh 7
+2B -- Castillo J, Eldred B 3, Loretta M
+HR -- Olivo M, Bay J, Young E, Greene K
+SB -- Olivo M
+SH -- Park C, Young E
+HBP -- by Park C (Eldred B)
+WP -- Williams D
+T -- 2:39
+A -- 23274
+     Game of 8/4/2005 -- San Diego at Pittsburgh (D)
+
+  San Diego          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Roberts D, cf         6  0  2  2   Duffy C, cf           4  2  3  0   
+Jackson D, 3b         6  0  0  0   Redman T, rf          5  1  3  0   
+Eaton A, p            0  0  0  0   Bay J, lf             3  0  0  1   
+Young E, lf-2b        5  1  1  0   Eldred B, 1b          3  0  0  0   
+Giles B, rf-lf        5  3  3  0   Vogelsong R, p        0  0  0  0   
+Loretta M, 2b-3b      4  3  3  2   Doumit R, ph          1  0  1  2   
+Nady X, 1b            4  1  2  2   Torres S, p           0  0  0  0   
+Breslow C, p          0  0  0  0   Sanchez F, ph         0  1  0  0   
+Quantrill P, p        0  0  0  0   Mackowiak R, 3b       5  1  2  3   
+Fick R, ph-rf         1  1  1  1   Castillo J, 2b        5  0  0  0   
+Greene K, ss          4  1  1  3   Cota H, c             5  1  2  0   
+Olivo M, c            4  1  1  1   Wilson J, ss          4  1  2  0   
+Lawrence B, p         3  0  0  0   Redman M, p           1  0  0  0   
+Sweeney M, 1b         0  1  0  0   Snell I, p            0  0  0  0   
+                                   Restovich M, ph       1  0  0  0   
+                                   Ward D, 1b            2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42 12 14 11                        39  7 13  6
+
+San Diego        043 000 014 -- 12
+Pittsburgh       010 000 204 --  7
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (W)        6.1  8  3  2  0  3
+Breslow C             0.1  0  0  0  1  1
+Quantrill P           1.1  2  0  0  0  1
+Eaton A               1.0  3  4  4  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M (L)          2.1  7  7  6  1  0
+Snell I               2.2  1  0  0  0  1
+Vogelsong R           2.0  1  0  0  1  2
+Torres S              2.0  5  5  5  2  1
+
+E -- Wilson J, Roberts D, Greene K
+DP -- San Diego 1
+LOB -- San Diego 8, Pittsburgh 9
+2B -- Duffy C, Cota H 2, Giles B 2, Nady X, Redman T, Fick R
+HR -- Greene K, Olivo M, Mackowiak R
+SB -- Loretta M
+SF -- Bay J
+HBP -- by Redman M (Olivo M), by Lawrence B (Duffy C)
+WP -- Torres S
+T -- 2:46
+A -- 21739
+     Game of 8/5/2005 -- Los Angeles at Pittsburgh (N)
+
+  Los Angeles        AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Izturis C, ss         5  1  2  2   Redman T, cf          4  0  1  1   
+Robles O, 3b          5  2  1  1   Vogelsong R, p        0  0  0  0   
+Bradley M, cf         5  1  2  0   Sanchez F, 3b         5  0  0  0   
+Kent J, 2b            5  2  1  1   Bay J, lf             4  1  1  0   
+Ledee R, rf           5  2  3  2   Mackowiak R, rf       4  1  1  0   
+Saenz O, 1b           5  1  3  6   Eldred B, 1b          5  2  2  1   
+Valentin J, lf        4  1  1  0   Castillo J, 2b        4  0  0  1   
+Broxton J, p          0  0  0  0   Doumit R, c           3  1  2  1   
+Dessens E, p          0  0  0  0   Wilson J, ss          3  1  1  0   
+Schmoll S, p          1  0  0  0   Fogg J, p             2  0  0  0   
+Navarro D, c          4  1  1  0   White R, p            0  0  0  0   
+Lowe D, p             2  0  0  0   Ward D, ph            1  0  1  0   
+Repko J, ph-lf        2  1  1  0   Grabow J, p           0  0  0  0   
+                                   Duffy C, ph-cf        1  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     43 12 15 12                        36  6  9  5
+
+Los Angeles      010 301 502 -- 12
+Pittsburgh       010 011 120 --  6
+
+  Los Angeles          IP  H  R ER BB SO
+Lowe D (W)            6.0  5  3  2  2  5
+Broxton J             1.0  1  1  1  1  2
+Dessens E             0.1  2  2  1  1  0
+Schmoll S (S)         1.2  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J (L)*           6.0  8  8  4  0  2
+White R               1.0  4  2  2  0  2
+Grabow J              1.0  0  0  0  1  0
+Vogelsong R           1.0  3  2  2  0  1
+  * Pitched to 3 batters in 7th
+
+E -- Eldred B, Kent J, Wilson J, Bradley M, Sanchez F, Repko J
+DP -- Pittsburgh 2
+LOB -- Los Angeles 5, Pittsburgh 8
+2B -- Doumit R, Mackowiak R, Ledee R, Saenz O
+HR -- Kent J, Eldred B, Saenz O, Ledee R
+SB -- Wilson J
+SF -- Redman T
+T -- 3:03
+A -- 37318
+     Game of 8/6/2005 -- Los Angeles at Pittsburgh (N)
+
+  Los Angeles        AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Izturis C, ss         5  0  2  0   Sanchez F, 3b         5  2  3  1   
+Repko J, lf           4  1  0  0   Duffy C, cf           5  3  4  1   
+Choi H, ph            1  0  0  0   Bay J, lf             5  0  2  3   
+Bradley M, cf         5  2  2  0   Eldred B, 1b          5  1  1  1   
+Kent J, 1b            3  0  1  0   Castillo J, 2b        4  0  2  2   
+Saenz O, 3b           5  1  3  3   Restovich M, rf       3  0  0  0   
+Perez A, 2b           3  0  1  1   Mackowiak R, ph-rf    0  0  0  0   
+Edwards M, rf         4  0  1  0   Cota H, c             4  0  0  0   
+Navarro D, c          4  0  2  0   Wilson J, ss          4  2  2  1   
+Perez O, p            3  0  0  0   Duke Z, p             3  0  0  0   
+Carrara G, p          0  0  0  0   Torres S, p           0  0  0  0   
+Ledee R, ph           1  0  0  0   Grabow J, p           0  0  0  0   
+Alvarez W, p          0  0  0  0   Doumit R, ph          1  1  1  0   
+                                   Mesa J, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  4 12  4                        39  9 15  9
+
+Los Angeles      100 020 010 --  4
+Pittsburgh       130 101 21x --  9
+
+  Los Angeles          IP  H  R ER BB SO
+Perez O (L)           6.0  9  6  5  0  6
+Carrara G             1.0  3  2  2  1  0
+Alvarez W             1.0  3  1  1  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (W)            7.1 10  4  4  2  6
+Torres S*             0.0  1  0  0  0  0
+Grabow J              0.2  0  0  0  0  2
+Mesa J                1.0  1  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Saenz O 2
+DP -- Los Angeles 2
+LOB -- Los Angeles 10, Pittsburgh 7
+2B -- Bradley M 2, Wilson J, Bay J, Eldred B, Castillo J
+3B -- Sanchez F
+HR -- Wilson J, Saenz O
+SB -- Castillo J, Bay J 2
+SF -- Perez A
+T -- 2:55
+A -- 38579
+     Game of 8/7/2005 -- Los Angeles at Pittsburgh (D)
+
+  Los Angeles        AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Izturis C, ss         5  1  1  0   Redman T, cf          4  0  0  0   
+Robles O, 3b          5  1  1  0   Sanchez F, 3b         4  1  1  0   
+Bradley M, cf         5  1  1  1   Bay J, lf             3  1  1  0   
+Kent J, 2b            3  1  0  1   Mackowiak R, rf       4  1  1  1   
+Ledee R, rf-lf        3  1  2  1   Ward D, 1b            4  1  2  1   
+Choi H, 1b            4  0  2  2   Doumit R, c           4  0  2  1   
+Valentin J, lf        1  0  0  0   Castillo J, 2b        4  0  1  1   
+Brazoban Y, p         0  0  0  0   Wilson J, ss          4  0  1  0   
+Schmoll S, p          0  0  0  0   Snell I, p            0  0  0  0   
+Navarro D, c          4  0  0  0   Vogelsong R, p        1  0  0  0   
+Weaver J, p           4  1  1  0   Restovich M, ph       1  0  0  0   
+Repko J, rf           0  0  0  0   Meadows B, p          0  0  0  0   
+                                   Eldred B, ph          1  0  0  0   
+                                   Torres S, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6  8  5                        34  4  9  4
+
+Los Angeles      006 000 000 --  6
+Pittsburgh       000 000 103 --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Weaver J (W)          8.0  5  1  1  0  4
+Brazoban Y            0.2  4  3  3  1  0
+Schmoll S (S)         0.1  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I (L)*          2.0  7  6  6  2  3
+Vogelsong R           4.0  0  0  0  3  0
+Meadows B             2.0  1  0  0  0  1
+Torres S              1.0  0  0  0  0  0
+  * Pitched to 7 batters in 3rd
+
+DP -- Los Angeles 1, Pittsburgh 1
+LOB -- Los Angeles 6, Pittsburgh 4
+2B -- Doumit R, Castillo J
+WP -- Snell I
+T -- 2:37
+A -- 25860
+     Game of 8/22/2005 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Eckstein D, ss        5  1  2  0   Sanchez F, 3b-2b      3  0  0  1   
+Walker L, rf          5  0  3  0   Duffy C, cf           3  0  0  0   
+Pujols A, 1b          5  0  0  0   Bay J, lf             4  0  0  0   
+Edmonds J, cf         3  1  0  0   Eldred B, 1b          4  0  0  0   
+Nunez A, 3b           4  1  3  1   Doumit R, c           4  0  0  0   
+Taguchi S, lf         4  0  1  1   Castillo J, 2b        1  0  0  0   
+Luna H, 2b            4  0  2  1   Mackowiak R, 3b       2  0  0  0   
+Molina Y, c           4  0  0  0   Restovich M, rf       3  1  2  0   
+Mulder M, p           4  0  1  0   Wilson J, ss          3  0  1  0   
+Isringhausen J, p     0  0  0  0   Fogg J, p             0  0  0  0   
+                                   Redman T, ph          0  0  0  0   
+                                   Meadows B, p          0  0  0  0   
+                                   Ward D, ph            1  0  0  0   
+                                   Grabow J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  3 12  3                        28  1  3  1
+
+St. Louis        102 000 000 --  3
+Pittsburgh       001 000 000 --  1
+
+  St. Louis            IP  H  R ER BB SO
+Mulder M (W)          8.0  3  1  1  2  3
+Isringhausen J (S)    1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J (L)            5.0 11  3  3  2  4
+Meadows B             3.0  1  0  0  0  3
+Grabow J              1.0  0  0  0  0  0
+
+E -- Nunez A, Eldred B, Eckstein D
+DP -- St. Louis 2, Pittsburgh 2
+LOB -- St. Louis 10, Pittsburgh 4
+2B -- Walker L
+SH -- Fogg J
+SF -- Sanchez F
+T -- 2:19
+A -- 23751
+     Game of 8/23/2005 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Eckstein D, ss        4  0  1  0   Duffy C, cf           4  2  2  0   
+Edmonds J, cf         2  0  1  0   McLouth N, rf         5  2  2  2   
+King R, p             0  0  0  0   Bay J, lf             5  0  2  0   
+Mabry J, rf           1  0  0  0   Restovich M, pr-lf    0  1  0  0   
+Pujols A, 1b          3  0  1  0   Ward D, 1b            4  1  1  1   
+Taguchi S, lf-cf      3  0  0  0   Mackowiak R, 2b       3  1  0  0   
+Thompson B, pr        0  0  0  0   Sanchez F, 2b         1  0  0  0   
+Seabol S, rf-2b       4  0  0  0   Doumit R, c           2  3  1  1   
+Nunez A, 3b           3  0  0  0   Wigginton T, 3b       4  0  2  3   
+Luna H, 2b            3  0  0  0   Wilson J, ss          4  0  3  2   
+Eldred C, p           0  0  0  0   Duke Z, p             1  0  1  0   
+Walker L, ph          1  0  0  0   Torres S, p           2  0  1  0   
+Molina Y, c           2  0  1  0   White R, p            0  0  0  0   
+Rodriguez J, lf       2  0  1  0   Redman T, ph          1  0  1  1   
+Marquis J, p          1  0  0  0   Grabow J, p           0  0  0  0   
+Flores R, p           0  0  0  0   Eldred B, ph          1  0  0  0   
+Tavarez J, p          0  0  0  0   Vogelsong R, p        0  0  0  0   
+Diaz E, ph-c          2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  5  0                        37 10 16 10
+
+St. Louis        000 000 000 --  0
+Pittsburgh       401 200 12x -- 10
+
+  St. Louis            IP  H  R ER BB SO
+Marquis J (L)*        3.0  8  7  7  3  2
+Flores R              1.0  0  0  0  0  3
+Tavarez J             1.0  2  0  0  0  0
+King R                1.0  0  0  0  0  1
+Eldred C              2.0  6  3  3  2  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z                2.0  0  0  0  0  2
+Torres S (W)          3.2  3  0  0  1  2
+White R               1.1  0  0  0  1  0
+Grabow J              1.0  1  0  0  0  1
+Vogelsong R           1.0  1  0  0  1  2
+  * Pitched to 2 batters in 4th
+
+DP -- St. Louis 1, Pittsburgh 1
+LOB -- St. Louis 8, Pittsburgh 11
+2B -- Edmonds J
+3B -- Wigginton T
+HR -- McLouth N
+SF -- Ward D, Wilson J
+HBP -- by Marquis J (Doumit R), by Vogelsong R (Taguchi S)
+WP -- Marquis J, Vogelsong R
+T -- 3:01
+A -- 23948
+     Game of 8/24/2005 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Eckstein D, ss        5  1  3  2   Duffy C, cf           3  1  0  0   
+Walker L, rf          5  1  2  1   McLouth N, rf         4  0  1  0   
+Pujols A, 1b          5  2  2  1   Bay J, lf             3  0  0  0   
+Edmonds J, cf         4  1  0  0   Eldred B, 1b          4  1  0  0   
+Nunez A, 3b           5  0  0  0   Mackowiak R, 2b       4  1  3  2   
+Rodriguez J, lf       4  2  2  3   Doumit R, c           3  0  0  0   
+Taguchi S, lf         0  0  0  0   Wigginton T, 3b       3  0  0  1   
+Mabry J, ph-lf        1  0  1  0   Wilson J, ss          3  0  0  0   
+Molina Y, c           4  0  1  1   Wells K, p            0  0  0  0   
+Luna H, 2b            3  1  1  0   Vogelsong R, p        1  0  0  0   
+Carpenter C, p        3  0  0  0   Redman T, ph          1  0  0  0   
+Reyes A, p            0  0  0  0   Gonzalez M, p         0  0  0  0   
+                                   White R, p            0  0  0  0   
+                                   Ward D, ph            1  0  0  0   
+                                   Mesa J, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  8 12  8                        30  3  4  3
+
+St. Louis        500 010 011 --  8
+Pittsburgh       100 100 100 --  3
+
+  St. Louis            IP  H  R ER BB SO
+Carpenter C (W)       8.0  4  3  3  2  4
+Reyes A               1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (L)           0.2  6  5  5  2  1
+Vogelsong R           4.1  3  1  1  1  4
+Gonzalez M            2.0  0  0  0  0  2
+White R               1.0  1  1  1  1  1
+Mesa J                1.0  2  1  1  0  0
+
+E -- McLouth N
+DP -- St. Louis 1
+LOB -- St. Louis 8, Pittsburgh 2
+2B -- Mackowiak R
+3B -- Mackowiak R, Eckstein D
+HR -- Rodriguez J, Pujols A
+SB -- Luna H
+WP -- Carpenter C
+T -- 2:29
+A -- 21506
+     Game of 8/25/2005 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Eckstein D, ss        3  1  0  0   Duffy C, cf           5  1  2  0   
+Edmonds J, cf         4  3  3  2   Sanchez F, 2b         5  0  2  1   
+Pujols A, 1b          4  2  3  1   Bay J, lf             5  0  0  0   
+Molina Y, c           4  0  2  1   Ward D, 1b            4  0  1  0   
+Taguchi S, lf         4  0  1  1   Mackowiak R, rf-3b    4  2  2  0   
+Rodriguez J, rf       5  0  1  1   Doumit R, c           4  0  1  0   
+Mabry J, rf           0  0  0  0   Wigginton T, 3b       3  0  3  1   
+Seabol S, 3b          3  0  0  0   Meadows B, p          0  0  0  0   
+Nunez A, 3b           2  0  1  0   Eldred B, ph          1  0  0  0   
+Luna H, 2b            4  0  2  0   Gonzalez M, p         0  0  0  0   
+Morris M, p           3  0  0  0   Wilson J, ss          4  0  1  1   
+Walker L, ph          1  0  0  0   Williams D, p         2  0  0  0   
+Flores R, p           0  0  0  0   McLouth N, rf         2  0  0  0   
+Tavarez J, p          0  0  0  0                                      
+Isringhausen J, p     0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6 13  6                        39  3 12  3
+
+St. Louis        200 010 201 --  6
+Pittsburgh       100 001 010 --  3
+
+  St. Louis            IP  H  R ER BB SO
+Morris M (W)          7.0  9  2  2  0  2
+Flores R              0.1  2  1  1  0  0
+Tavarez J             0.1  1  0  0  0  1
+Isringhausen J (S)    1.1  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D (L)*       6.0  8  5  5  2  5
+Meadows B             2.0  3  0  0  1  0
+Gonzalez M            1.0  2  1  1  1  2
+  * Pitched to 2 batters in 7th
+
+E -- Wigginton T
+DP -- Pittsburgh 3
+LOB -- St. Louis 10, Pittsburgh 9
+2B -- Molina Y, Edmonds J, Doumit R
+3B -- Duffy C
+HR -- Edmonds J, Pujols A
+HBP -- by Williams D (Edmonds J), by Williams D (Eckstein D)
+T -- 2:40
+A -- 24626
+     Game of 8/26/2005 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Lopez F, ss           5  1  1  0   McLouth N, rf         4  0  0  0   
+Aurilia R, 2b         5  0  1  0   Sanchez F, 2b         4  0  1  0   
+Griffey K, cf         5  2  2  3   Bay J, lf             3  0  1  0   
+Pena W, rf            4  0  1  0   Eldred B, 1b          4  0  1  0   
+Casey S, 1b           4  1  1  0   Mackowiak R, cf-3b    4  1  2  0   
+Dunn A, lf            4  2  2  2   Wigginton T, 3b       3  0  1  1   
+LaRue J, c            4  0  1  0   Grabow J, p           0  0  0  0   
+Encarnacion E, 3b     4  0  0  0   Meadows B, p          0  0  0  0   
+Harang A, p           3  0  1  1   Ward D, ph            1  0  0  0   
+Belisle M, p          0  0  0  0   Torres S, p           0  0  0  0   
+Holbert A, ph         1  0  1  0   Wilson J, ss          3  0  1  0   
+Standridge J, p       0  0  0  0   Cota H, c             4  0  1  0   
+                                   Redman M, p           1  0  0  0   
+                                   Redman T, cf          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 11  6                        33  1  8  1
+
+Cincinnati       013 000 200 --  6
+Pittsburgh       010 000 000 --  1
+
+  Cincinnati           IP  H  R ER BB SO
+Harang A (W)          7.0  7  1  1  1  5
+Belisle M             1.0  1  0  0  0  2
+Standridge J          1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M (L)          6.0  9  4  4  0  4
+Grabow J              1.0  1  2  1  0  0
+Meadows B             1.0  0  0  0  0  0
+Torres S              1.0  1  0  0  0  1
+
+E -- Wigginton T, Grabow J
+DP -- Pittsburgh 1
+LOB -- Cincinnati 6, Pittsburgh 8
+2B -- Dunn A, Mackowiak R, Wigginton T, Holbert A
+3B -- Bay J
+HR -- Griffey K 2, Dunn A
+SB -- Aurilia R, Lopez F
+CS -- Wigginton T
+SH -- Redman M
+HBP -- by Harang A (Wilson J)
+WP -- Harang A
+T -- 2:55
+A -- 28788
+     Game of 8/27/2005 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Lopez F, ss           5  0  0  1   Sanchez F, 2b         5  0  3  0   
+Aurilia R, 2b         5  0  2  1   Redman T, cf          4  0  1  0   
+Holbert A, pr         0  0  0  0   Bay J, lf             5  1  0  0   
+Weathers D, p         0  0  0  0   Eldred B, 1b          4  0  0  0   
+Pena W, ph            1  0  1  1   Cota H, c             1  0  1  1   
+Mercker K, p          0  0  0  0   Doumit R, c           4  1  2  1   
+Griffey K, cf         4  0  2  0   Mesa J, p             0  0  0  0   
+Dunn A, lf            5  0  1  0   Mackowiak R, ph       1  0  0  0   
+Casey S, 1b           5  1  1  0   Wigginton T, 3b       3  0  1  0   
+Kearns A, rf          2  1  0  0   Restovich M, rf       3  0  0  0   
+Valentin J, c         3  1  2  0   Wilson J, ss          4  0  1  0   
+Encarnacion E, 3b     3  0  0  1   Fogg J, p             2  0  0  0   
+Milton E, p           3  0  0  0   Grabow J, p           0  0  0  0   
+Cruz J, ph            0  0  0  0   Torres S, p           0  0  0  0   
+Olmedo R, pr-2b       1  1  0  0   McLouth N, ph         1  0  0  0   
+                                   Gonzalez M, p         0  0  0  0   
+                                   White R, p            0  0  0  0   
+                                   Ward D, 1b            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4  9  4                        38  2  9  2
+
+Cincinnati       000 000 001 3 --  4
+Pittsburgh       000 100 000 1 --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Milton E              8.0  6  1  1  1  7
+Weathers D (W)        1.0  1  0  0  1  0
+Mercker K (S)         1.0  2  1  1  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J                5.1  4  0  0  4  2
+Grabow J*             0.0  0  0  0  1  0
+Torres S              1.2  0  0  0  0  2
+Gonzalez M            0.1  1  0  0  0  0
+White R               0.2  0  0  0  0  1
+Mesa J (L)            2.0  4  4  4  3  3
+  * Pitched to 1 batter in 6th
+
+E -- Encarnacion E
+DP -- Cincinnati 2, Pittsburgh 1
+LOB -- Cincinnati 14, Pittsburgh 9
+2B -- Dunn A, Aurilia R, Cota H
+HR -- Doumit R
+SB -- Sanchez F
+SF -- Lopez F
+HBP -- by Fogg J (Kearns A), by Mesa J (Encarnacion E)
+T -- 3:31
+A -- 23109
+     Game of 8/28/2005 -- Cincinnati at Pittsburgh (D)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Lopez F, ss           4  1  1  2   Sanchez F, 2b         4  0  2  0   
+LaRue J, c            5  0  0  0   Mackowiak R, cf-3b    5  0  1  0   
+Griffey K, cf         4  1  2  1   Bay J, lf             2  1  1  0   
+Dunn A, lf            2  1  0  1   Wilson C, rf          4  0  1  1   
+Casey S, 1b           4  1  1  2   Eldred B, 1b          3  0  0  0   
+Kearns A, rf          5  0  0  0   Wigginton T, 3b       2  0  0  0   
+Encarnacion E, 3b     5  2  2  0   Gonzalez M, p         0  0  0  0   
+Olmedo R, 2b          1  1  0  0   Meadows B, p          0  0  0  0   
+Hudson L, p           2  0  0  0   Ward D, ph            1  0  1  0   
+Aurilia R, ph         1  0  0  0   Grabow J, p           0  0  0  0   
+Standridge J, p       0  0  0  0   Wilson J, ss          4  0  0  0   
+Shackelford B, p      0  0  0  0   Cota H, c             4  1  2  1   
+Belisle M, p          0  0  0  0   Wells K, p            1  0  0  0   
+Cruz J, ph            1  0  1  1   Redman T, cf          2  0  0  0   
+Coffey T, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  7  7  7                        32  2  8  2
+
+Cincinnati       000 100 222 --  7
+Pittsburgh       100 000 100 --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Hudson L (W)          6.0  3  1  1  4  7
+Standridge J          0.1  2  1  1  0  0
+Shackelford B*        0.0  1  0  0  0  0
+Belisle M             0.2  0  0  0  0  1
+Coffey T (S)          2.0  2  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (L)           6.2  4  3  2  3  5
+Gonzalez M            0.1  0  0  0  2  0
+Meadows B             1.0  2  2  2  1  1
+Grabow J              1.0  1  2  2  1  2
+  * Pitched to 1 batter in 7th
+
+E -- Wigginton T 2, Wilson C
+DP -- Cincinnati 1
+LOB -- Cincinnati 9, Pittsburgh 9
+2B -- Wilson C, Cota H, Griffey K, Lopez F, Encarnacion E, Cruz J
+HR -- Griffey K, Cota H, Casey S
+SB -- Bay J 2, Sanchez F
+CS -- Sanchez F
+SH -- Wells K, Olmedo R
+SF -- Lopez F
+HBP -- by Hudson L (Eldred B)
+WP -- Wells K
+T -- 2:52
+A -- 23495
+     Game of 9/2/2005 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hairston J, lf        5  1  1  2   Sanchez F, 2b         5  0  2  1   
+Perez N, ss           5  1  3  0   Mackowiak R, cf-rf    5  0  2  1   
+Walker T, 2b          4  1  3  1   Bay J, lf             4  1  2  0   
+Garciaparra N, 3b     4  1  1  3   Wilson C, rf          3  0  0  0   
+Burnitz J, rf         4  0  0  0   Grabow J, p           0  0  0  0   
+Barrett M, c          4  1  1  1   Ward D, ph-1b         1  0  0  0   
+Dempster R, p         1  0  0  0   Doumit R, c           4  0  1  1   
+McClain S, 1b         3  1  1  0   Eldred B, 1b          4  0  0  0   
+Patterson C, cf       4  1  2  0   Gonzalez M, p         0  0  0  0   
+Maddux G, p           2  0  0  0   Meadows B, p          0  0  0  0   
+Wuertz M, p           0  0  0  0   Wigginton T, 3b       4  0  0  0   
+Murton M, ph          1  0  0  0   Wilson J, ss          4  1  3  0   
+Williamson S, p       0  0  0  0   Fogg J, p             1  0  0  0   
+Novoa R, p            0  0  0  0   Torres S, p           0  0  0  0   
+Blanco H, c           0  0  0  0   McLouth N, ph         1  1  1  0   
+                                   White R, p            0  0  0  0   
+                                   Redman T, cf          2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 12  7                        38  3 12  3
+
+Chicago          001 003 003 --  7
+Pittsburgh       000 002 010 --  3
+
+  Chicago              IP  H  R ER BB SO
+Maddux G (W)*         5.0  5  2  2  0  6
+Wuertz M              1.0  0  0  0  0  3
+Williamson S          1.0  2  0  0  0  2
+Novoa R               0.2  2  1  1  0  2
+Dempster R (S)        1.1  3  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J (L)            5.1  8  4  4  0  2
+Torres S              0.2  0  0  0  0  0
+White R               0.2  1  0  0  0  0
+Grabow J              1.1  0  0  0  0  0
+Gonzalez M+           0.0  1  2  2  1  0
+Meadows B             1.0  2  1  1  2  0
+  * Pitched to 4 batters in 6th
+  + Pitched to 2 batters in 9th
+
+E -- Mackowiak R, Doumit R
+LOB -- Chicago 8, Pittsburgh 8
+2B -- Perez N, Bay J, Doumit R
+HR -- Garciaparra N, Barrett M
+SB -- Bay J, Perez N
+SH -- Blanco H
+SF -- Garciaparra N
+WP -- Wuertz M, Williamson S
+T -- 2:59
+A -- 24976
+     Game of 9/3/2005 -- Chicago at Pittsburgh (D)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hairston J, cf-lf     3  3  1  1   McLouth N, cf         3  2  1  1   
+Cedeno R, ss          4  1  2  1   Sanchez F, 2b         3  1  0  0   
+Lee D, 1b             3  0  1  1   Bay J, lf             3  1  1  1   
+McClain S, 1b         0  0  0  0   Mackowiak R, 3b       3  0  0  0   
+Garciaparra N, 3b     3  0  0  1   Wilson C, rf          4  0  2  3   
+Macias J, 3b          1  0  0  0   Doumit R, c           4  0  0  0   
+Burnitz J, rf         5  0  1  1   Eldred B, 1b          4  0  0  0   
+Murton M, lf          5  1  2  1   Wilson J, ss          4  1  2  0   
+Van Buren J, p        0  0  0  0   Williams D, p         0  0  0  0   
+Walker T, 2b          4  0  1  0   Restovich M, ph       1  0  0  0   
+Perez N, 2b           1  0  0  0   Vogelsong R, p        0  0  0  0   
+Blanco H, c           5  3  3  1   Meadows B, p          0  0  0  0   
+Zambrano C, p         4  1  2  1   Ward D, ph            1  0  0  0   
+Ohman W, p            0  0  0  0   Gonzalez M, p         0  0  0  0   
+Patterson C, ph-cf    1  0  0  0   White R, p            0  0  0  0   
+                                   Redman T, ph          1  0  0  0   
+                                   Torres S, p           0  0  0  0   
+                                   Wigginton T, ph       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  9 13  8                        32  5  6  5
+
+Chicago          220 210 200 --  9
+Pittsburgh       100 010 030 --  5
+
+  Chicago              IP  H  R ER BB SO
+Zambrano C (W)        7.2  5  5  5  4  9
+Ohman W               0.1  0  0  0  0  1
+Van Buren J           1.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D (L)        2.0  5  4  4  2  1
+Vogelsong R           2.0  2  2  2  1  0
+Meadows B             1.0  2  1  1  0  1
+Gonzalez M            2.0  3  2  2  0  2
+White R               1.0  0  0  0  0  0
+Torres S              1.0  1  0  0  0  1
+
+E -- Garciaparra N, Mackowiak R
+DP -- Chicago 1, Pittsburgh 1
+LOB -- Chicago 9, Pittsburgh 5
+2B -- Burnitz J, Blanco H, Hairston J, Cedeno R, Zambrano C, Wilson J, McLouth N, Wilson C
+HR -- Murton M, Blanco H
+SF -- Lee D, McLouth N
+HBP -- by Vogelsong R (Hairston J), by Vogelsong R (Cedeno R)
+PB -- Blanco H
+T -- 2:50
+A -- 22909
+     Game of 9/4/2005 -- Chicago at Pittsburgh (D)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hairston J, lf        4  0  0  0   Sanchez F, 2b         3  0  1  0   
+Perez N, ss           4  1  2  0   Mackowiak R, cf       3  0  0  0   
+Lee D, 1b             4  0  1  0   Eldred B, ph          1  0  0  0   
+Burnitz J, rf         4  0  1  1   Grabow J, p           0  0  0  0   
+Garciaparra N, 3b     4  1  2  1   Mesa J, p             0  0  0  0   
+Walker T, 2b          2  0  1  0   Bay J, lf             3  0  0  0   
+Barrett M, c          3  0  0  0   Wilson C, rf          4  0  1  0   
+Patterson C, cf       4  0  0  0   Ward D, 1b            3  0  1  0   
+Williams J, p         3  0  0  0   Wigginton T, 3b       3  0  1  0   
+Ohman W, p            0  0  0  0   Cota H, c             3  0  0  0   
+Novoa R, p            0  0  0  0   Wilson J, ss          3  0  0  0   
+Dempster R, p         0  0  0  0   Wells K, p            2  0  0  0   
+                                   Torres S, p           0  0  0  0   
+                                   White R, p            0  0  0  0   
+                                   Redman T, ph-cf       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        29  0  4  0
+
+Chicago          010 001 000 --  2
+Pittsburgh       000 000 000 --  0
+
+  Chicago              IP  H  R ER BB SO
+Williams J (W)        7.1  4  0  0  2  5
+Ohman W               0.1  0  0  0  0  1
+Novoa R               0.1  0  0  0  0  0
+Dempster R (S)        1.0  0  0  0  0  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (L)*          5.0  6  2  2  1  1
+Torres S              2.0  0  0  0  1  1
+White R               1.0  0  0  0  0  2
+Grabow J              0.1  1  0  0  0  0
+Mesa J                0.2  0  0  0  0  1
+  * Pitched to 3 batters in 6th
+
+DP -- Chicago 1, Pittsburgh 2
+LOB -- Chicago 6, Pittsburgh 6
+2B -- Walker T, Burnitz J, Garciaparra N
+HR -- Garciaparra N
+SH -- Wigginton T
+HBP -- by Williams J (Bay J), by Wells K (Barrett M)
+WP -- Novoa R
+T -- 2:32
+A -- 23204
+     Game of 9/6/2005 -- Arizona at Pittsburgh (N)
+
+  Arizona            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Clayton R, ss         6  0  1  1   Sanchez F, 2b         5  0  2  0   
+Cintron A, 2b         6  1  1  0   Wilson J, ss          6  0  1  0   
+Gonzalez L, lf        5  0  0  0   Bay J, lf             6  0  1  0   
+Glaus T, 3b           3  0  1  1   Wilson C, rf          6  0  2  0   
+Jackson C, 1b         4  1  2  0   White R, p            0  0  0  0   
+Tracy C, rf           4  1  0  0   Mackowiak R, cf-3b    6  0  2  0   
+Terrero L, cf         3  0  1  1   Eldred B, 1b          4  1  2  1   
+Stinnett K, c         2  0  0  0   Torres S, p           0  0  0  0   
+McCracken Q, ph       0  0  0  0   Mesa J, p             0  0  0  0   
+Snyder C, c           1  1  1  0   McLouth N, ph-cf      2  0  0  0   
+Vazquez J, p          2  0  0  0   Doumit R, c           5  0  2  0   
+Clark T, ph           1  0  0  0   Wigginton T, 3b       3  1  2  1   
+Medders B, p          0  0  0  0   Redman T, ph-cf       2  0  0  0   
+Worrell T, p          0  0  0  0   Grabow J, p           0  0  0  0   
+Green S, ph           1  0  0  0   Restovich M, rf       1  0  0  0   
+Valverde J, p         0  0  0  0   Maholm P, p           3  0  1  0   
+Green A, ph           1  0  0  0   Ward D, 1b            1  0  0  0   
+Groom B, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  4  7  3                        50  2 15  2
+
+Arizona          000 100 100 002 --  4
+Pittsburgh       010 100 000 000 --  2
+
+  Arizona              IP  H  R ER BB SO
+Vazquez J             6.0 12  2  2  1  4
+Medders B             2.0  1  0  0  0  3
+Worrell T             1.0  1  0  0  0  0
+Valverde J (W)        2.0  0  0  0  1  4
+Groom B (S)           1.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P              7.0  5  2  2  2  2
+Torres S              2.0  0  0  0  1  3
+Mesa J                1.0  0  0  0  0  0
+Grabow J (L)          1.1  1  2  0  1  2
+White R               0.2  1  0  0  0  1
+
+E -- Stinnett K, Doumit R
+DP -- Arizona 1, Pittsburgh 1
+LOB -- Arizona 7, Pittsburgh 15
+2B -- Cintron A, Glaus T, Jackson C
+HR -- Eldred B, Wigginton T
+SB -- Bay J, Wilson J
+CS -- Terrero L, Glaus T
+SH -- McCracken Q, Terrero L
+HBP -- by Maholm P (Jackson C), by Mesa J (Terrero L), by Valverde J (Doumit R)
+PB -- Doumit R 2, Snyder C
+T -- 3:45
+A -- 11186
+     Game of 9/7/2005 -- Arizona at Pittsburgh (N)
+
+  Arizona            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Counsell C, 2b        5  0  2  1   McLouth N, cf         4  1  1  0   
+Clayton R, ss         5  0  1  0   Wilson J, ss          5  0  2  1   
+Jackson C, 1b         4  1  1  0   Bay J, lf             4  0  0  0   
+Valverde J, p         0  0  0  0   Ward D, 1b            4  1  1  1   
+Glaus T, 3b           2  0  0  0   Wilson C, rf          4  0  0  0   
+Green S, rf           4  1  2  1   Doumit R, c           4  0  1  0   
+Terrero L, cf         5  0  0  0   Sanchez F, 2b         3  0  0  0   
+Green A, lf           3  2  1  1   Gonzalez M, p         0  0  0  0   
+Snyder C, c           3  0  0  0   Eldred B, ph          1  0  0  0   
+Webb B, p             2  0  1  1   White R, p            0  0  0  0   
+McCracken Q, ph       1  0  1  0   Wigginton T, 3b       4  0  2  0   
+Worrell T, p          0  0  0  0   Redman M, p           0  0  0  0   
+Clark T, 1b           0  0  0  0   Vogelsong R, p        1  0  0  0   
+                                   Redman T, ph          0  0  0  0   
+                                   Meadows B, p          0  0  0  0   
+                                   Mackowiak R, 2b       2  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        36  2  9  2
+
+Arizona          021 001 000 --  4
+Pittsburgh       001 001 000 --  2
+
+  Arizona              IP  H  R ER BB SO
+Webb B (W)            7.0  7  2  2  1  4
+Worrell T             1.0  1  0  0  0  2
+Valverde J (S)        1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M (L)          2.1  5  3  3  2  3
+Vogelsong R           2.2  1  0  0  1  2
+Meadows B             1.2  1  1  0  2  0
+Gonzalez M            1.1  1  0  0  1  2
+White R               1.0  1  0  0  1  0
+
+E -- Clayton R, Wigginton T
+LOB -- Arizona 11, Pittsburgh 9
+2B -- Green A, Jackson C, Wilson J, McCracken Q, Doumit R, Clayton R
+HR -- Ward D
+SB -- Green S
+CS -- Counsell C
+SH -- McLouth N, Webb B
+WP -- Vogelsong R
+T -- 2:57
+A -- 12066
+     Game of 9/8/2005 -- Arizona at Pittsburgh (D)
+
+  Arizona            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Counsell C, 2b        6  2  3  0   McLouth N, cf         5  2  3  1   
+Cintron A, ss         4  0  0  0   Wilson J, ss          6  1  2  2   
+Clayton R, ss         1  0  0  0   Bay J, lf             3  1  1  2   
+Green S, rf           4  1  2  0   Ward D, 1b            3  0  0  0   
+Clark T, 1b           6  2  2  5   Grabow J, p           0  0  0  0   
+Glaus T, 3b           5  0  1  0   Torres S, p           0  0  0  0   
+Tracy C, lf           5  1  3  0   Redman T, ph          1  0  0  0   
+Worrell T, p          0  0  0  0   Mesa J, p             0  0  0  0   
+Lyon B, p             0  0  0  0   Doumit R, ph          1  0  0  0   
+Ortiz R, ph           0  0  0  0   Gonzalez M, p         0  0  0  0   
+Stinnett K, c         0  0  0  0   Wigginton T, ph       0  0  0  0   
+Terrero L, cf         6  1  1  2   White R, p            0  0  0  0   
+Snyder C, c           3  0  0  0   Wilson C, rf          5  2  1  1   
+Jackson C, ph         1  0  0  0   Mackowiak R, 3b       4  1  1  0   
+Groom B, p            0  0  0  0   Sanchez F, 2b         4  1  1  0   
+Nippert D, p          1  0  0  0   Cota H, c             6  0  2  2   
+McCracken Q, ph       1  0  1  0   Fogg J, p             2  0  0  0   
+Aquino G, p           0  0  0  0   Meadows B, p          0  0  0  0   
+Cormier L, p          0  0  0  0   Eldred B, 1b          2  0  0  0   
+Green A, ph           1  0  0  0                                      
+Medders B, p          0  0  0  0                                      
+Gonzalez L, lf        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     45  7 13  7                        42  8 11  8
+
+Arizona          200 002 003 000 --  7
+Pittsburgh       001 021 012 001 --  8
+  1 out when winning run was scored.
+
+  Arizona              IP  H  R ER BB SO
+Nippert D             5.0  5  3  3  2  2
+Aquino G              1.0  2  1  1  1  1
+Cormier L             1.0  0  0  0  0  0
+Medders B             1.0  1  1  1  2  1
+Worrell T             1.0  1  2  1  0  0
+Lyon B                2.0  0  0  0  3  0
+Groom B (L)           0.1  2  1  1  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J                5.1  7  3  3  2  4
+Meadows B             0.1  2  1  1  0  0
+Grabow J              1.1  1  0  0  2  1
+Torres S              1.0  0  0  0  0  1
+Mesa J                1.0  2  3  3  1  1
+Gonzalez M            2.0  0  0  0  1  3
+White R (W)           1.0  1  0  0  0  0
+
+E -- Glaus T
+DP -- Arizona 2, Pittsburgh 2
+LOB -- Arizona 10, Pittsburgh 11
+2B -- Counsell C, Green S, McLouth N 2, Cota H, Glaus T
+HR -- Clark T 2, Terrero L, Wilson C, Bay J
+SB -- Wilson J
+SH -- Cintron A, McLouth N, Ortiz R, Sanchez F
+HBP -- by Nippert D (Sanchez F)
+T -- 3:52
+A -- 10984
+     Game of 9/16/2005, game 1 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Freel R, 2b           4  2  1  0   McLouth N, cf         3  0  0  0   
+Lopez F, ss           5  0  5  2   Furmaniak J, ph       0  1  0  0   
+Dunn A, lf-1b         1  0  0  2   Redman T, cf          0  0  0  0   
+Pena W, cf            5  1  0  0   Wilson J, ss          4  1  3  0   
+Casey S, 1b           3  0  0  0   Bay J, lf             4  0  1  1   
+Denorfia C, lf        2  2  2  0   Wilson C, rf          1  0  0  1   
+Kearns A, rf          5  1  2  3   Eldred B, 1b          4  0  0  0   
+LaRue J, c            5  0  0  0   Cota H, c             4  0  1  0   
+Encarnacion E, 3b     4  1  1  1   Sanchez F, 2b         4  0  2  0   
+Claussen B, p         3  1  1  0   Bautista J, 3b        4  0  1  0   
+Belisle M, p          0  0  0  0   Duke Z, p             1  0  0  0   
+                                   Meadows B, p          0  0  0  0   
+                                   Restovich M, ph       1  0  0  0   
+                                   White R, p            0  0  0  0   
+                                   Wigginton T, ph       1  0  0  0   
+                                   Capps M, p            0  0  0  0   
+                                   Fogg J, p             0  0  0  0   
+                                   Mesa J, p             0  0  0  0   
+                                   Ward D, ph            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  8 12  8                        32  2  8  2
+
+Cincinnati       001 010 114 --  8
+Pittsburgh       000 000 020 --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Claussen B (W)*       7.0  6  1  1  2  6
+Belisle M             2.0  2  1  1  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (L)            4.0  5  1  1  2  4
+Meadows B             1.0  1  1  0  0  2
+White R               2.0  1  1  0  1  0
+Capps M               1.0  2  1  1  0  2
+Fogg J+               0.0  1  2  2  0  0
+Mesa J                1.0  2  2  2  0  0
+  * Pitched to 1 batter in 8th
+  + Pitched to 2 batters in 9th
+
+E -- Meadows B, Wilson J
+DP -- Cincinnati 1, Pittsburgh 2
+LOB -- Cincinnati 8, Pittsburgh 7
+2B -- Kearns A, Cota H, Wilson J, Lopez F
+HR -- Kearns A
+SB -- Lopez F 2, Denorfia C, Freel R
+SH -- Claussen B
+SF -- Dunn A, Wilson C
+HBP -- by Claussen B (Wilson C), by Fogg J (Freel R)
+WP -- White R
+T -- 3:03
+A -- 0
+     Game of 9/16/2005, game 2 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Freel R, lf           5  0  0  1   Redman T, cf          5  1  1  0   
+Lopez F, ss           3  1  1  0   Torres S, p           0  0  0  0   
+Aurilia R, 3b         4  1  2  0   Wilson J, ss          4  1  3  1   
+Dunn A, 1b            4  0  0  0   Mackowiak R, rf       3  0  0  0   
+Kearns A, rf          3  0  0  0   Wilson C, ph-rf       1  1  0  0   
+Valentin J, c         3  1  2  2   Bay J, lf             4  1  2  1   
+Weathers D, p         0  0  0  0   Doumit R, c           4  0  1  0   
+Denorfia C, cf        3  1  0  0   Ward D, 1b            3  0  3  1   
+Olmedo R, 2b          4  0  2  1   Sanchez F, ph-2b      2  0  1  1   
+Ortiz R, p            2  0  0  0   Bautista J, 3b        3  1  1  0   
+Shackelford B, p      0  0  0  0   Furmaniak J, 2b       2  0  0  0   
+Standridge J, p       0  0  0  0   Eldred B, ph-1b       1  0  1  0   
+Mercker K, p          0  0  0  0   Wells K, p            2  0  0  0   
+LaRue J, c            1  0  0  0   Vogelsong R, p        0  0  0  0   
+                                   Wigginton T, ph       1  0  0  0   
+                                   Grabow J, p           0  0  0  0   
+                                   McLouth N, ph-cf      1  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     32  4  7  4                        36  5 13  5
+
+Cincinnati       200 200 000 --  4
+Pittsburgh       001 100 012 --  5
+  0 outs when winning run was scored.
+
+  Cincinnati           IP  H  R ER BB SO
+Ortiz R               6.0  9  2  2  1  5
+Shackelford B         0.1  0  0  0  1  0
+Standridge J          0.1  0  0  0  1  1
+Mercker K             0.2  1  1  1  1  0
+Weathers D (L)        0.2  3  2  2  2  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K               5.0  6  4  4  4  4
+Vogelsong R           1.0  0  0  0  0  1
+Grabow J              2.0  0  0  0  0  3
+Torres S (W)          1.0  1  0  0  0  0
+
+E -- Denorfia C
+DP -- Cincinnati 1, Pittsburgh 1
+LOB -- Cincinnati 6, Pittsburgh 13
+2B -- Ward D, Redman T, Bay J, Aurilia R, Eldred B
+SH -- Ortiz R
+WP -- Wells K 2
+T -- 2:42
+A -- 22715
+     Game of 9/17/2005 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Freel R, lf           4  0  3  0   Sanchez F, 2b         4  1  1  1   
+Lopez F, ss           4  0  0  0   Wilson J, ss          3  1  1  1   
+Aurilia R, 2b         3  0  0  0   Bay J, lf             4  1  3  2   
+Dunn A, 1b            4  0  1  0   Mackowiak R, 3b       4  0  0  0   
+Kearns A, rf          3  0  0  0   Eldred B, 1b          4  0  0  0   
+Pena W, cf            4  0  0  0   Wilson C, rf          3  0  1  0   
+Valentin J, c         4  0  0  0   Doumit R, c           3  0  0  0   
+Encarnacion E, 3b     2  0  0  0   McLouth N, cf         3  1  1  0   
+Harang A, p           2  0  0  0   Maholm P, p           2  0  0  0   
+Denorfia C, ph        0  0  0  0   Torres S, p           0  0  0  0   
+Hancock J, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        30  4  7  4
+
+Cincinnati       000 000 000 --  0
+Pittsburgh       201 010 00x --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Harang A (L)          6.0  7  4  4  0  5
+Hancock J             2.0  0  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (W)          8.0  4  0  0  4  8
+Torres S              1.0  0  0  0  0  1
+
+E -- Doumit R, Pena W
+DP -- Cincinnati 1, Pittsburgh 1
+LOB -- Cincinnati 7, Pittsburgh 4
+2B -- Freel R, McLouth N
+HR -- Sanchez F, Bay J
+SB -- Wilson J
+CS -- Freel R
+SH -- Maholm P
+SF -- Wilson J
+WP -- Harang A 2
+T -- 2:15
+A -- 31174
+     Game of 9/18/2005 -- Cincinnati at Pittsburgh (D)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Freel R, 2b-lf        5  2  1  1   Sanchez F, 2b         4  2  3  2   
+Aurilia R, ss-2b      4  1  3  0   Wilson J, ss          4  2  2  1   
+Dunn A, 1b            4  1  1  0   Bay J, lf             4  1  1  1   
+Kearns A, rf          4  1  0  1   Wilson C, rf          5  0  0  0   
+LaRue J, c            2  1  1  3   Eldred B, 1b          4  1  3  1   
+Pena W, cf            3  0  1  1   Cota H, c             5  1  1  1   
+Lopez F, ss           1  0  0  0   Bautista J, 3b        3  1  0  1   
+Denorfia C, lf-cf     5  0  1  0   Gonzalez M, p         0  0  0  0   
+Holbert A, 3b         4  1  1  0   McLouth N, cf         3  0  0  0   
+Milton E, p           0  0  0  0   Perez O, p            1  0  1  2   
+Hudson L, p           1  0  0  0   Bullington B, p       0  0  0  0   
+Valentin J, ph        1  0  0  0   Redman T, ph          1  0  0  0   
+Belisle M, p          0  0  0  0   Meadows B, p          0  0  0  0   
+Coffey T, p           0  0  0  0   Furmaniak J, ph       1  0  1  0   
+Encarnacion E, ph     1  0  1  0   Vogelsong R, p        0  0  0  0   
+                                   Grabow J, p           0  0  0  0   
+                                   Wigginton T, 3b       0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7 10  6                        35  9 12  9
+
+Cincinnati       320 200 000 --  7
+Pittsburgh       600 000 03x --  9
+
+  Cincinnati           IP  H  R ER BB SO
+Milton E              0.2  6  6  6  2  0
+Hudson L              5.1  2  0  0  1  5
+Belisle M (L)*        1.0  3  3  3  1  1
+Coffey T              1.0  1  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Perez O               2.2  5  5  4  5  3
+Bullington B          1.1  1  2  2  1  1
+Meadows B             2.0  1  0  0  0  2
+Vogelsong R           0.2  1  0  0  0  1
+Grabow J              0.1  0  0  0  0  0
+Gonzalez M (W)        2.0  2  0  0  2  2
+  * Pitched to 3 batters in 8th
+
+E -- Eldred B, Sanchez F, Bautista J
+DP -- Pittsburgh 1
+LOB -- Cincinnati 12, Pittsburgh 9
+2B -- Pena W, Dunn A, Eldred B, Aurilia R
+3B -- Sanchez F
+HR -- LaRue J
+SB -- Freel R, Perez O, Wilson J
+SH -- Hudson L, Sanchez F
+SF -- Pena W
+HBP -- by Bullington B (LaRue J), by Hudson L (Eldred B), by Hudson L (McLouth N)
+T -- 3:17
+A -- 21320
+     Game of 9/19/2005 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Biggio C, 2b          4  0  1  0   Redman T, cf          5  2  3  1   
+Vizcaino J, ss        4  0  0  0   Wilson J, ss          5  2  3  1   
+Lamb M, 1b            3  0  1  0   Bay J, lf             4  1  3  1   
+Berkman L, rf         2  0  0  0   Mackowiak R, rf       4  0  2  2   
+Ensberg M, 3b         4  0  1  0   Eldred B, 1b          4  0  0  1   
+Lane J, lf            4  0  1  0   Doumit R, c           4  0  1  0   
+Bruntlett E, cf       4  0  0  0   Sanchez F, 3b         5  2  3  1   
+Ausmus B, c           3  0  0  0   Furmaniak J, 2b       4  0  0  0   
+Clemens R, p          1  0  0  0   Snell I, p            4  0  0  0   
+Springer R, p         0  0  0  0   Mesa J, p             0  0  0  0   
+Bagwell J, ph         1  0  0  0                                      
+Burns M, p            0  0  0  0                                      
+Astacio E, p          0  0  0  0                                      
+Palmeiro O, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  4  0                        39  7 15  7
+
+Houston          000 000 000 --  0
+Pittsburgh       001 104 01x --  7
+
+  Houston              IP  H  R ER BB SO
+Clemens R (L)         5.2 11  6  4  1  5
+Springer R            0.1  0  0  0  0  1
+Burns M               1.0  1  0  0  0  1
+Astacio E             1.0  3  1  1  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I (W)           8.0  3  0  0  3  5
+Mesa J                1.0  1  0  0  1  1
+
+E -- Biggio C, Eldred B
+LOB -- Houston 9, Pittsburgh 12
+2B -- Sanchez F 2, Mackowiak R, Doumit R
+3B -- Wilson J
+HR -- Sanchez F
+SB -- Bay J
+SH -- Clemens R
+SF -- Eldred B
+HBP -- by Clemens R (Mackowiak R), by Astacio E (Doumit R)
+WP -- Clemens R
+T -- 2:44
+A -- 13865
+     Game of 9/20/2005 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Biggio C, 2b          5  0  0  0   Sanchez F, 2b         5  0  2  0   
+Wheeler D, p          0  0  0  0   Wilson J, ss          5  1  0  0   
+Lamb M, 1b            0  0  0  0   Bay J, cf-lf          2  2  1  0   
+Bruntlett E, cf-2b    4  0  0  0   Wilson C, rf          5  0  3  2   
+Ensberg M, 3b         4  1  1  1   Eldred B, 1b          4  1  1  1   
+Berkman L, 1b         5  1  2  0   Cota H, c             5  0  2  1   
+Lidge B, p            0  0  0  0   Bautista J, 3b        3  0  1  0   
+Lane J, rf            3  2  2  0   Redman T, ph-cf       1  0  0  0   
+Burke C, lf           2  0  0  0   Restovich M, lf       2  0  0  0   
+Everett A, ss         4  3  3  1   Mackowiak , ph-cf-3b  2  0  1  0   
+Ausmus B, c           3  0  3  4   Gorzelanny T, p       1  0  0  0   
+Pettitte A, p         3  0  0  0   Fogg J, p             0  0  0  0   
+Qualls C, p           0  0  0  0   McLouth N, ph         1  0  0  0   
+Bagwell J, ph         1  0  1  1   White R, p            0  0  0  0   
+Gipson C, cf          0  0  0  0   Capps M, p            0  0  0  0   
+                                   Ward D, ph            1  0  0  0   
+                                   Torres S, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  7 12  7                        37  4 11  4
+
+Houston          010 310 020 --  7
+Pittsburgh       011 000 101 --  4
+
+  Houston              IP  H  R ER BB SO
+Pettitte A (W)        5.1  7  2  2  2  5
+Qualls C              1.2  2  1  1  1  0
+Wheeler D             1.0  1  0  0  1  0
+Lidge B               1.0  1  1  1  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Gorzelanny T (L)      4.1  7  5  5  2  2
+Fogg J                1.2  1  0  0  1  0
+White R               1.1  3  2  2  1  0
+Capps M               0.2  1  0  0  0  0
+Torres S              1.0  0  0  0  0  2
+
+E -- Everett A
+DP -- Pittsburgh 2
+LOB -- Houston 6, Pittsburgh 12
+2B -- Ausmus B 2, Wilson C 2
+HR -- Eldred B, Ensberg M
+CS -- Ausmus B
+SH -- Burke C 2, Gorzelanny T
+T -- 3:16
+A -- 12927
+     Game of 9/21/2005 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Taveras W, cf         6  2  3  0   Sanchez F, 2b         5  3  3  1   
+Biggio C, 2b          1  2  0  0   Wilson J, ss          4  0  3  1   
+Burke C, 2b-lf        2  0  0  0   Bay J, lf             5  0  1  1   
+Ensberg M, 3b         3  3  2  0   Mackowiak R, 3b       4  1  1  0   
+Berkman L, rf         4  1  2  5   Wigginton T, ph-3b    1  0  0  0   
+Wheeler D, p          0  0  0  0   Wilson C, rf          4  1  1  0   
+Gallo M, p            0  0  0  0   Eldred B, 1b          5  1  1  1   
+Astacio E, p          0  0  0  0   Doumit R, c           5  1  3  3   
+Lamb M, 1b            5  2  3  3   McLouth N, cf         4  1  2  0   
+Lane J, lf-rf         5  2  3  1   Wells K, p            0  0  0  0   
+Everett A, ss         5  0  1  0   Bautista J, ph        1  0  0  0   
+Ausmus B, c           5  0  1  0   Vogelsong R, p        1  0  0  0   
+Oswalt R, p           3  0  0  0   Ward D, ph            1  0  0  0   
+Bagwell J, ph         1  0  0  0   Meadows B, p          0  0  0  0   
+Springer R, p         0  0  0  0   Capps M, p            0  0  0  0   
+Gipson C, lf          0  0  0  0   Redman T, ph          1  0  0  0   
+Vizcaino J, ph-2b     1  0  0  1   White R, p            0  0  0  0   
+                                   Cota H, ph            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41 12 15 10                        42  8 15  7
+
+Houston          440 001 102 -- 12
+Pittsburgh       001 210 211 --  8
+
+  Houston              IP  H  R ER BB SO
+Oswalt R (W)          6.0  9  4  3  2  6
+Springer R            1.0  2  2  2  0  1
+Wheeler D             0.2  2  1  1  0  1
+Gallo M               0.1  0  0  0  0  1
+Astacio E             1.0  2  1  1  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (L)           2.0  5  8  7  3  2
+Vogelsong R           3.0  4  0  0  0  1
+Meadows B             2.0  3  2  2  0  2
+Capps M               1.0  0  0  0  0  0
+White R               1.0  3  2  0  0  0
+
+E -- Mackowiak R, Ensberg M, Eldred B, Doumit R
+DP -- Pittsburgh 1
+LOB -- Houston 7, Pittsburgh 10
+2B -- Sanchez F, Bay J, Ensberg M, Wilson J, Lamb M
+3B -- Wilson C
+HR -- Berkman L, Lamb M, Lane J, Doumit R, Sanchez F, Eldred B
+SB -- Taveras W, Ausmus B
+SH -- Wilson J
+SF -- Berkman L
+HBP -- by Capps M (Burke C)
+T -- 3:04
+A -- 16266
+     Game of 9/22/2005 -- Houston at Pittsburgh (D)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Taveras W, cf         3  2  1  0   Sanchez F, 3b         4  0  1  0   
+Burke C, lf           2  0  0  0   Wilson J, ss          4  0  0  0   
+Ensberg M, 3b         4  0  0  0   Bay J, lf             4  0  0  0   
+Berkman L, 1b         2  0  2  2   Mackowiak R, cf       4  0  1  0   
+Lane J, rf            2  0  0  0   Wilson C, rf          3  1  1  1   
+Bruntlett E, 2b       4  0  1  0   Ward D, 1b            4  0  1  0   
+Lidge B, p            0  0  0  0   Doumit R, c           3  0  0  0   
+Everett A, ss         4  0  0  0   Furmaniak J, 2b       3  0  0  0   
+Ausmus B, c           4  0  1  0   Duke Z, p             1  0  0  0   
+Backe B, p            3  0  0  0   McLouth N, ph         1  0  0  0   
+Qualls C, p           0  0  0  0   Grabow J, p           0  0  0  0   
+Vizcaino J, 2b        1  0  0  0   Gonzalez M, p         0  0  0  0   
+                                   Redman T, ph          1  0  1  0   
+                                   Torres S, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  2  5  2                        32  1  5  1
+
+Houston          101 000 000 --  2
+Pittsburgh       000 010 000 --  1
+
+  Houston              IP  H  R ER BB SO
+Backe B (W)           7.0  2  1  1  0  6
+Qualls C              0.2  2  0  0  0  0
+Lidge B (S)           1.1  1  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (L)            6.0  5  2  2  3  1
+Grabow J              1.0  0  0  0  0  3
+Gonzalez M            1.0  0  0  0  2  2
+Torres S              1.0  0  0  0  0  1
+
+LOB -- Houston 7, Pittsburgh 5
+2B -- Taveras W
+HR -- Wilson C
+CS -- Berkman L
+SH -- Burke C 2
+HBP -- by Backe B (Wilson C)
+T -- 2:30
+A -- 12587
+     Game of 9/30/2005 -- Milwaukee at Pittsburgh (N)
+
+  Milwaukee          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Clark B, cf           4  0  0  0   Sanchez F, 2b         4  1  2  1   
+Hardy J, ss           5  0  1  0   Wilson J, ss          4  0  1  0   
+Overbay L, 1b         5  0  0  0   Bay J, lf             3  0  0  0   
+Lee C, lf             4  2  3  0   Wilson C, rf          4  2  1  0   
+Jenkins G, rf         2  2  1  2   Eldred B, 1b          5  1  0  0   
+Hall B, 2b            3  0  0  0   Cota H, c             5  1  3  3   
+Cirillo J, 3b         4  1  0  1   Bautista J, 3b        3  0  0  0   
+Miller D, c           4  1  2  3   Grabow J, p           0  0  0  0   
+Davis D, p            2  0  0  0   Vogelsong R, p        0  0  0  0   
+Branyan R, ph         0  0  0  0   Ward D, ph            1  0  0  0   
+Helms W, ph           0  0  0  0   Meadows B, p          0  0  0  0   
+Lehr J, p             1  0  0  0   Gorzelanny T, p       0  0  0  0   
+Eveland D, p          0  0  0  0   Torres S, p           0  0  0  0   
+Davis K, p            0  0  0  0   Redman T, ph          1  0  0  0   
+Santana J, p          0  0  0  0   McLouth N, cf         3  0  0  0   
+Fielder P, ph         1  0  0  0   Perez O, p            2  0  0  0   
+Turnbow D, p          0  0  0  0   White R, p            0  0  0  0   
+                                   Mackowiak R, 3b       1  0  0  0   
+                                   Wigginton T, ph-3b    0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6  7  6                        36  5  7  4
+
+Milwaukee        000 002 400 --  6
+Pittsburgh       300 110 000 --  5
+
+  Milwaukee            IP  H  R ER BB SO
+Davis D               5.0  7  5  2  2  8
+Lehr J (W)            2.0  0  0  0  1  3
+Eveland D             0.1  0  0  0  1  0
+Davis K               0.1  0  0  0  2  0
+Santana J             0.1  0  0  0  0  1
+Turnbow D (S)         1.0  0  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Perez O*              5.0  1  2  2  7  4
+White R               0.1  0  0  0  0  0
+Grabow J              1.0  2  2  2  1  2
+Vogelsong R (L)       0.2  1  2  0  0  1
+Meadows B             0.1  1  0  0  0  0
+Gorzelanny T          0.2  1  0  0  0  1
+Torres S              1.0  1  0  0  0  1
+  * Pitched to 4 batters in 6th
+
+E -- Cirillo J 2, Perez O, Mackowiak R
+LOB -- Milwaukee 12, Pittsburgh 11
+2B -- Sanchez F, Cota H 2
+HR -- Jenkins G, Miller D
+SB -- Wilson J, Wilson C, Mackowiak R
+CS -- Bay J
+SF -- Miller D
+HBP -- by Perez O (Jenkins G), by Davis D (McLouth N)
+WP -- Lehr J
+T -- 3:36
+A -- 20922
+     Game of 10/1/2005 -- Milwaukee at Pittsburgh (N)
+
+  Milwaukee          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Clark B, cf           3  0  0  0   Sanchez F, 3b         4  1  2  1   
+Weeks R, 2b           4  1  1  0   Wilson J, ss          4  0  0  0   
+Overbay L, 1b         3  0  1  0   Bay J, lf             1  1  0  1   
+Lee C, lf             4  0  0  0   Wilson C, rf          3  1  2  1   
+Jenkins G, rf         3  0  2  0   Doumit R, c           4  0  1  0   
+Hall B, ss            4  0  0  0   Eldred B, 1b          3  0  0  0   
+Branyan R, 3b         2  0  1  0   McLouth N, cf         4  1  2  1   
+Miller D, c           4  0  1  0   Furmaniak J, 2b       4  0  2  1   
+Ohka T, p             2  0  0  0   Wells K, p            2  0  0  0   
+Capellan J, p         0  0  0  0   Grabow J, p           0  0  0  0   
+                                   Redman T, ph          0  1  0  0   
+                                   Gonzalez M, p         0  0  0  0   
+                                   Mackowiak R, ph       1  0  0  0   
+                                   Torres S, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  1  6  0                        30  5  9  5
+
+Milwaukee        100 000 000 --  1
+Pittsburgh       001 010 12x --  5
+
+  Milwaukee            IP  H  R ER BB SO
+Ohka T (L)            7.1  8  5  5  5  4
+Capellan J            0.2  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (W)           6.2  6  1  0  4  2
+Grabow J              0.1  0  0  0  0  0
+Gonzalez M            1.0  0  0  0  0  0
+Torres S              1.0  0  0  0  1  0
+
+E -- Bay J, Miller D
+DP -- Milwaukee 1, Pittsburgh 3
+LOB -- Milwaukee 7, Pittsburgh 7
+2B -- Weeks R, Wilson C, Jenkins G, Sanchez F 2, Miller D, McLouth N
+3B -- Furmaniak J
+CS -- Weeks R, Eldred B
+SF -- Bay J
+HBP -- by Wells K (Clark B)
+WP -- Ohka T
+T -- 2:41
+A -- 17261
+     Game of 10/2/2005 -- Milwaukee at Pittsburgh (D)
+
+  Milwaukee          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Clark B, cf           4  1  2  0   Sanchez F, 2b-3b      4  0  1  0   
+Hardy J, ss           3  0  3  0   Wilson J, ss          4  0  2  0   
+Overbay L, 1b         4  0  1  0   Bay J, lf             1  0  1  0   
+Lee C, lf             4  0  1  1   Restovich M, pr-lf    2  0  0  0   
+Cruz N, lf            0  0  0  0   Mackowiak R, ph-lf    1  0  0  0   
+Jenkins G, rf         4  0  0  0   Wilson C, rf          3  1  1  1   
+Hall B, 3b            3  0  2  0   Eldred B, 1b          3  0  0  0   
+Weeks R, 2b           3  0  0  0   Paulino R, c          3  1  2  0   
+Moeller C, c          3  0  0  0   Bautista J, 3b        4  0  1  0   
+Fielder P, ph         1  0  0  0   Torres S, p           0  0  0  0   
+Capuano C, p          2  0  0  0   McLouth N, cf         3  1  1  2   
+Lehr J, p             0  0  0  0   Duke Z, p             2  0  0  0   
+Helms W, ph           1  0  0  0   Redman T, ph          1  0  0  0   
+Glover G, p           0  0  0  0   Gonzalez M, p         0  0  0  0   
+                                   Furmaniak J, 2b       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  9  1                        31  3  9  3
+
+Milwaukee        100 000 000 --  1
+Pittsburgh       000 300 00x --  3
+
+  Milwaukee            IP  H  R ER BB SO
+Capuano C (L)         5.1  7  3  3  3  3
+Lehr J                0.2  0  0  0  0  0
+Glover G              2.0  2  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (W)            7.0  8  1  1  1  3
+Gonzalez M            1.1  1  0  0  0  2
+Torres S (S)          0.2  0  0  0  0  2
+
+DP -- Milwaukee 2, Pittsburgh 3
+LOB -- Milwaukee 7, Pittsburgh 7
+2B -- Bay J, Hall B, Bautista J, Wilson J
+HR -- Wilson C, McLouth N
+SH -- Hardy J
+HBP -- by Gonzalez M (Hall B)
+T -- 2:38
+A -- 23008
+

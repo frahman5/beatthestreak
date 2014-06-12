@@ -1,0 +1,3410 @@
+     Game of 4/12/2004 -- Minnesota at Cleveland (D)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, lf         4  0  0  0   Lawton M, lf          4  1  1  1   
+Rivas L, 2b           4  1  1  0   Vizquel O, ss         3  1  2  0   
+Mientkiewicz D, 1b    3  0  1  0   Gerut J, rf           4  0  0  0   
+Offerman J, dh        3  1  0  0   Blake C, 3b           3  1  1  0   
+Cuddyer M, 3b         4  1  2  1   Hafner T, dh          3  1  1  4   
+Jones J, rf           4  0  2  2   Martinez V, c         4  0  0  0   
+Ford L, cf            3  0  0  0   Broussard B, 1b       4  0  0  0   
+Blanco H, c           3  0  0  0   Belliard R, 2b        3  1  1  0   
+Punto N, ph           0  0  0  0   Crisp C, cf           3  1  2  1   
+Guzman C, ss          4  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  8  3                        31  6  8  6
+
+Minnesota        000 200 001 --  3
+Cleveland        004 100 10x --  6
+
+  Minnesota            IP  H  R ER BB SO
+Lohse K (L)           6.0  7  5  5  2  2
+Pulido C              2.0  1  1  1  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (W)             6.0  5  2  2  4  1
+Cressend J            1.0  1  0  0  0  0
+Betancourt R          1.0  0  0  0  0  1
+Riske D               1.0  2  1  1  1  1
+
+E -- Crisp C
+DP -- Cleveland 4
+LOB -- Minnesota 7, Cleveland 4
+2B -- Blake C, Belliard R, Jones J
+HR -- Hafner T, Lawton M
+SB -- Crisp C
+CS -- Crisp C
+HBP -- by Lohse K (Hafner T)
+T -- 2:39
+A -- 42424
+     Game of 4/14/2004 -- Minnesota at Cleveland (N)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, lf         4  0  1  2   Lawton M, lf          5  1  2  2   
+Punto N, 2b           5  0  2  0   Vizquel O, ss         5  0  2  1   
+Mientkiewicz D, 1b    5  1  2  0   Gerut J, rf           3  0  0  0   
+Koskie C, 3b          5  1  1  1   Blake C, 3b           4  2  2  0   
+Offerman J, dh        4  1  0  0   Hafner T, dh          3  0  1  0   
+Jones J, rf           4  1  1  1   Martinez V, c         4  1  1  1   
+Ryan M, cf            3  1  1  0   Broussard B, 1b       3  0  1  2   
+Ford L, cf            1  0  1  1   Belliard R, 2b        3  0  0  0   
+Blanco H, c           4  3  4  3   McDonald J, 2b        1  1  0  0   
+Guzman C, ss          4  2  2  1   Crisp C, cf           4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39 10 15  9                        35  6 10  6
+
+Minnesota        003 020 131 -- 10
+Cleveland        010 011 003 --  6
+
+  Minnesota            IP  H  R ER BB SO
+Silva C (W)*          5.0  7  3  3  2  1
+Fultz A               2.0  0  0  0  0  0
+Romero J              1.0  0  0  0  1  1
+Nathan J              0.2  3  3  3  2  0
+Rincon J (S)          0.1  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+D'Amico J (L)         6.2  9  6  5  0  3
+Stewart S             0.2  2  3  3  1  1
+Westbrook J           1.2  4  1  1  0  0
+  * Pitched to 2 batters in 6th
+
+E -- Blake C, Silva C, Vizquel O, Lawton M
+DP -- Minnesota 2, Cleveland 3
+LOB -- Minnesota 4, Cleveland 7
+2B -- Guzman C, Crisp C, Blanco H 2, Stewart S, Mientkiewicz D
+3B -- Guzman C
+HR -- Blanco H, Koskie C, Martinez V
+CS -- Blanco H
+SF -- Stewart S
+T -- 2:54
+A -- 14237
+     Game of 4/15/2004 -- Minnesota at Cleveland (N)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, dh         3  0  1  0   Lawton M, lf          4  0  0  0   
+Rivas L, 2b           5  0  0  0   Vizquel O, ss         4  0  1  0   
+Mientkiewicz D, 1b    1  0  0  0   Gerut J, rf           3  0  1  0   
+Offerman J, 1b        3  1  1  0   Blake C, 3b           4  0  1  0   
+Koskie C, 3b          3  1  2  2   Hafner T, dh          4  0  0  0   
+Cuddyer M, lf         4  0  1  0   Martinez V, c         4  0  0  0   
+Jones J, rf           4  1  1  1   Broussard B, 1b       2  0  1  0   
+Ford L, cf            4  0  2  0   Escobar A, cf         3  0  0  0   
+Blanco H, c           3  0  1  0   McDonald J, 2b        2  0  0  0   
+Guzman C, ss          3  0  0  0   Belliard R, ph-2b     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  9  3                        31  0  4  0
+
+Minnesota        000 100 011 --  3
+Cleveland        000 000 000 --  0
+
+  Minnesota            IP  H  R ER BB SO
+Radke B (W)           8.0  4  0  0  1  5
+Nathan J (S)          1.0  0  0  0  1  2
+
+  Cleveland            IP  H  R ER BB SO
+Stanford J (L)        6.0  5  1  1  1  3
+Cressend J            2.0  2  1  1  0  2
+Riske D               1.0  2  1  1  2  0
+
+E -- Martinez V, Rivas L
+DP -- Minnesota 1, Cleveland 2
+LOB -- Minnesota 8, Cleveland 6
+2B -- Offerman J, Cuddyer M
+HR -- Koskie C, Jones J
+SB -- Koskie C 2, Ford L, Gerut J
+CS -- Gerut J
+SH -- Guzman C
+HBP -- by Stanford J (Koskie C)
+T -- 2:35
+A -- 15105
+     Game of 4/16/2004 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Sanchez A, cf         4  1  1  0   Lawton M, lf          3  1  2  1   
+Vina F, 2b            4  0  2  0   Crisp C, ph-cf        1  0  0  0   
+Rodriguez I, c        3  1  2  2   Vizquel O, ss         5  1  2  0   
+White R, lf           4  0  1  1   Gerut J, rf           5  3  5  3   
+Monroe C, rf          4  0  0  0   Blake C, 3b           4  1  1  1   
+Guillen C, ss         3  0  1  0   Hafner T, dh          4  0  2  0   
+Pena C, 1b            3  0  0  0   Martinez V, c         4  1  3  3   
+Shelton C, dh         4  0  0  0   Broussard B, 1b       3  0  0  0   
+Inge B, 3b            4  1  1  0   Merloni L, 1b         1  0  0  0   
+                                   Escobar A, cf-lf      5  2  2  0   
+                                   Belliard R, 2b        4  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  3                        39 10 19  9
+
+Detroit          000 100 020 --  3
+Cleveland        200 115 01x -- 10
+
+  Detroit              IP  H  R ER BB SO
+Cornejo N (L)*        5.0 14  8  8  2  1
+Urbina U              1.0  2  1  1  2  2
+Walker J              1.0  2  0  0  1  0
+Patterson D           1.0  1  1  1  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        6.0  4  1  1  3  5
+Durbin C              2.0  3  2  2  0  1
+Betancourt R          1.0  1  0  0  0  2
+  * Pitched to 4 batters in 6th
+
+E -- Monroe C
+DP -- Detroit 2, Cleveland 1
+LOB -- Detroit 6, Cleveland 11
+2B -- Vina F, Gerut J 3, Rodriguez I, Escobar A
+HR -- Gerut J, Martinez V
+HBP -- by Cornejo N (Lawton M)
+Balk -- Cornejo N
+T -- 2:46
+A -- 18507
+     Game of 4/17/2004 -- Detroit at Cleveland (D)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Sanchez A, cf         4  2  2  0   Belliard R, 2b        5  0  3  0   
+Vina F, 2b            3  0  1  1   Merloni L, 1b         4  0  2  0   
+Rodriguez I, c        5  1  2  1   Broussard B, ph       1  0  0  0   
+White R, lf           5  1  2  2   Gerut J, rf           5  1  1  0   
+Pena C, 1b            4  1  0  0   Blake C, 3b           4  0  0  0   
+Higginson B, rf       4  0  0  0   Hafner T, dh          4  0  1  0   
+Norton G, dh          4  0  0  0   Escobar A, lf         2  0  1  0   
+Munson E, 3b          3  0  2  1   Lawton M, ph-lf       0  0  0  1   
+Inge B, pr-3b         2  1  2  0   Laker T, c            3  0  2  0   
+Infante O, ss         4  0  1  1   Martinez V, ph-c      0  0  0  0   
+                                   Crisp C, cf           4  0  0  0   
+                                   McDonald J, ss        3  0  1  0   
+                                   Vizquel O, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 12  6                        36  1 11  1
+
+Detroit          100 003 020 --  6
+Cleveland        000 000 010 --  1
+
+  Detroit              IP  H  R ER BB SO
+Maroth M (W)          7.1 10  1  1  1  7
+Levine A              1.2  1  0  0  1  0
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (L)           5.1  5  4  3  4  4
+Stewart S             1.2  3  0  0  1  2
+Lee D                 2.0  4  2  0  0  2
+
+E -- Laker T, Davis J, Lee D, Inge B
+DP -- Detroit 1
+LOB -- Detroit 12, Cleveland 11
+2B -- Belliard R, Rodriguez I
+SB -- Sanchez A, Inge B
+SH -- Sanchez A
+SF -- Infante O, Lawton M
+PB -- Laker T
+T -- 2:54
+A -- 18955
+     Game of 4/18/2004 -- Detroit at Cleveland (D)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Sanchez A, cf         4  1  2  1   Lawton M, lf          3  4  2  4   
+Vina F, pr-2b         1  1  0  0   Vizquel O, ss         4  0  1  1   
+Guillen C, ss         5  2  3  4   Gerut J, rf           5  0  2  2   
+Rodriguez I, c        4  0  1  1   Hafner T, dh          3  0  1  1   
+White R, dh           4  0  1  0   Martinez V, c         5  0  1  0   
+Monroe C, lf          2  0  0  0   Belliard R, 2b        4  1  2  0   
+Munson E, ph-3b       2  0  1  0   Broussard B, 1b       3  1  1  1   
+Higginson B, rf       4  0  0  0   Merloni L, 3b         4  0  0  0   
+Norton G, 1b          2  0  0  0   Blake C, 3b           0  0  0  0   
+Pena C, ph-1b         2  1  1  1   Crisp C, cf           3  3  2  0   
+Inge B, 3b-lf         4  1  1  0                                      
+Infante O, 2b-cf      3  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  7 11  7                        34  9 12  9
+
+Detroit          000 003 310 --  7
+Cleveland        101 303 01x --  9
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (L)       5.1  8  7  7  3  6
+Colyer S              0.2  2  1  1  1  0
+Knotts G              0.1  1  0  0  1  0
+Patterson D           1.0  1  1  1  1  0
+Walker J              0.2  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (W)             5.1  6  3  3  0  6
+Cressend J            1.0  4  3  3  1  2
+Betancourt R          1.2  1  1  1  0  2
+Riske D (S)           1.0  0  0  0  0  0
+
+E -- Munson E, Vina F
+DP -- Detroit 2
+LOB -- Detroit 4, Cleveland 8
+2B -- Infante O, Vizquel O, Guillen C, Crisp C 2, Hafner T, Sanchez A
+HR -- Lawton M 2, Broussard B, Guillen C, Pena C
+SB -- Guillen C
+CS -- Infante O
+HBP -- by Bonderman J (Lawton M)
+T -- 3:01
+A -- 19240
+     Game of 4/19/2004 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Vina F, 2b            5  1  0  0   Belliard R, 2b        4  2  3  0   
+Guillen C, ss         4  2  1  0   Vizquel O, ss         3  1  1  1   
+Rodriguez I, c        5  2  2  1   McDonald J, ph        1  0  0  0   
+White R, dh           5  2  2  3   Lawton M, lf          4  0  1  2   
+Pena C, 1b            4  0  0  1   Blake C, 3b           4  1  1  1   
+Higginson B, rf       3  0  1  2   Hafner T, dh          4  0  0  0   
+Norton G, lf          0  1  0  0   Martinez V, c         2  0  1  0   
+Monroe C, lf-rf       4  1  0  0   Escobar A, rf         3  0  0  0   
+Munson E, 3b          3  0  0  0   Broussard B, 1b       4  0  1  0   
+Infante O, 3b         1  1  1  0   Crisp C, cf           3  0  0  0   
+Inge B, cf            4  0  1  3                                      
+                     -- -- -- --                        -- -- -- --
+                     38 10  8 10                        32  4  8  4
+
+Detroit          400 000 060 -- 10
+Cleveland        100 100 200 --  4
+
+  Detroit              IP  H  R ER BB SO
+Robertson N           6.2  5  3  3  4  8
+Walker J*             0.0  2  1  1  0  0
+Levine A (W)          1.1  0  0  0  0  1
+Urbina U              1.0  1  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+D'Amico J+            0.0  3  4  3  2  0
+Westbrook J           7.0  0  0  0  0  7
+Betancourt R (L)      0.1  3  3  3  0  0
+Stewart S             0.2  2  3  0  1  1
+Lee D                 1.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+  + Pitched to 6 batters in 1st
+
+E -- Vizquel O, Monroe C, Belliard R, Blake C
+DP -- Detroit 1
+LOB -- Detroit 4, Cleveland 7
+2B -- Belliard R 3, Vizquel O, Inge B
+HR -- Blake C, White R
+SH -- Vizquel O, Crisp C
+T -- 2:53
+A -- 13650
+     Game of 4/20/2004 -- Kansas City at Cleveland (N)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+Graffanino T, 2b      6  2  1  0   Belliard R, 2b        3  0  1  0   
+Beltran C, cf         2  4  1  0   McDonald J, 2b        1  0  0  0   
+Sweeney M, dh         6  2  4  2   Vizquel O, ss         4  0  0  0   
+Gonzalez J, rf        4  2  2  2   Lawton M, lf-rf       3  1  2  1   
+Lopez M, lf           1  0  0  0   Blake C, 3b           4  0  0  0   
+Stairs M, lf          4  2  2  6   Hafner T, dh          3  1  1  0   
+Thompson R, pr-rf     1  0  0  0   Martinez V, c         4  2  2  0   
+Randa J, 3b           3  1  0  0   Escobar A, rf         1  0  1  2   
+Santiago B, c         5  0  1  0   Merloni L, lf         3  1  1  0   
+Harvey K, 1b          5  1  2  2   Broussard B, 1b       4  0  0  1   
+Blanco A, ss          3  1  1  2   Crisp C, cf           4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     40 15 14 14                        34  5  9  5
+
+Kansas City      510 104 400 -- 15
+Cleveland        020 200 010 --  5
+
+  Kansas City          IP  H  R ER BB SO
+Anderson B (W)        6.0  7  4  2  2  2
+Grimsley J            1.0  0  0  0  1  0
+Sullivan S            1.0  1  1  1  0  1
+Field N               1.0  1  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Durbin C (L)          1.1  7  6  6  1  3
+Robertson J           5.1  4  8  5  4  2
+Lee D                 1.1  2  1  1  2  1
+Laker T               1.0  1  0  0  1  0
+
+E -- Blake C, Gonzalez J, Vizquel O
+DP -- Kansas City 2, Cleveland 2
+LOB -- Kansas City 8, Cleveland 5
+2B -- Stairs M, Martinez V, Escobar A, Gonzalez J
+HR -- Stairs M, Harvey K, Lawton M
+SB -- Beltran C 3, Sweeney M
+HBP -- by Durbin C (Beltran C), by Robertson J (Blanco A)
+WP -- Robertson J, Lee D, Grimsley J
+T -- 3:02
+A -- 13563
+     Game of 4/22/2004 -- Kansas City at Cleveland (D)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+Graffanino T, 2b      5  0  1  0   Belliard R, 2b        3  1  1  1   
+Beltran C, cf         4  1  1  0   Vizquel O, ss         4  1  1  1   
+Randa J, 3b           4  1  1  0   Gerut J, rf           3  1  0  0   
+Gonzalez J, dh        4  0  0  1   Blake C, 3b           4  0  1  1   
+Thompson R, pr        0  0  0  0   Lawton M, lf          4  0  0  0   
+Stairs M, rf          5  0  1  0   Martinez V, c         4  0  1  1   
+Harvey K, 1b          4  0  4  1   Escobar A, cf         1  1  1  0   
+Guiel A, lf           4  1  0  0   Crisp C, pr-cf        1  0  0  0   
+Stinnett K, c         4  1  2  1   Hafner T, dh          2  1  0  0   
+Blanco A, ss          4  0  1  1   Merloni L, 1b         2  0  0  0   
+                                   Broussard B, 1b       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  4 11  4                        28  5  5  4
+
+Kansas City      000 002 110 --  4
+Cleveland        002 000 03x --  5
+
+  Kansas City          IP  H  R ER BB SO
+Affeldt J             7.0  2  2  0  2  4
+Grimsley J (L)*       0.0  1  3  3  2  0
+Carrasco D            1.0  2  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+D'Amico J             5.1  6  2  2  0  4
+Stewart S             0.2  1  0  0  0  1
+Cressend J            1.0  2  1  1  2  1
+Betancourt R (W)      1.0  2  1  1  0  2
+Riske D (S)           1.0  0  0  0  1  2
+  * Pitched to 3 batters in 8th
+
+E -- Blanco A, Martinez V
+DP -- Kansas City 1
+LOB -- Kansas City 10, Cleveland 5
+2B -- Harvey K, Belliard R, Randa J, Escobar A, Martinez V
+3B -- Blanco A
+HR -- Stinnett K
+SB -- Graffanino T, Guiel A
+SH -- Merloni L
+HBP -- by Affeldt J (Hafner T)
+T -- 2:46
+A -- 15720
+     Game of 4/30/2004 -- Baltimore at Cleveland (N)
+
+  Baltimore          AB  R  H RBI    Cleveland          AB  R  H RBI
+Roberts B, 2b         5  1  1  0   Lawton M, lf          5  2  4  1   
+Mora M, 3b            3  0  1  0   Vizquel O, ss         3  2  2  3   
+Bautista J, 3b        0  0  0  0   McDonald J, ss        0  0  0  0   
+Tejada M, ss          3  0  0  0   Gerut J, rf           3  1  1  0   
+Lopez L, ss           0  0  0  0   Blake C, 3b           3  1  0  0   
+Palmeiro R, 1b        3  0  0  1   Hafner T, dh          5  1  2  4   
+Matos L, cf           4  1  2  1   Martinez V, c         5  0  1  1   
+Gibbons J, dh         4  0  1  0   Belliard R, 2b        4  1  1  1   
+McDonald D, rf        3  0  1  0   Broussard B, 1b       4  1  2  0   
+Bigbie L, lf          3  0  1  0   Escobar A, cf         4  2  2  0   
+Osik K, c             4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        36 11 15 10
+
+Baltimore        100 000 010 --  2
+Cleveland        420 102 20x -- 11
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S (L)          3.2  9  7  6  2  1
+Bauer R               2.0  2  2  2  1  1
+Parrish J             1.1  3  2  2  2  1
+Groom B               1.0  1  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (W)             7.0  5  1  1  4  5
+Stewart S             1.0  1  1  1  0  1
+Tadano K              1.0  1  0  0  0  0
+
+DP -- Baltimore 2, Cleveland 1
+LOB -- Baltimore 8, Cleveland 8
+2B -- Hafner T 2, Escobar A, Vizquel O, Broussard B 2
+HR -- Matos L
+SB -- Roberts B, Lawton M
+SF -- Palmeiro R, Vizquel O
+HBP -- by Ponson S (Blake C)
+PB -- Osik K 2
+T -- 2:44
+A -- 18782
+     Game of 5/1/2004 -- Baltimore at Cleveland (D)
+
+  Baltimore          AB  R  H RBI    Cleveland          AB  R  H RBI
+Roberts B, 2b         5  0  1  0   Belliard R, 2b        6  0  1  0   
+Mora M, 3b            6  1  2  2   Vizquel O, ss         6  0  0  0   
+Tejada M, ss          6  0  2  0   Gerut J, rf           4  0  1  0   
+Palmeiro R, 1b        5  0  1  0   Blake C, 3b           4  1  1  0   
+Matos L, cf           6  0  0  0   Lawton M, lf          6  1  2  0   
+Gibbons J, dh         5  0  0  0   Escobar A, cf         5  0  0  0   
+Surhoff B, lf         4  0  2  0   Merloni L, 1b         4  1  2  1   
+Bigbie L, pr-lf       1  0  1  0   Hafner T, dh          4  0  1  0   
+McDonald D, rf        4  1  0  0   Crisp C, pr           1  0  1  1   
+Osik K, c             5  0  1  0   Laker T, c            4  0  0  1   
+                                   Martinez V, ph-c      1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     47  2 10  2                        45  3 10  3
+
+Baltimore        000 001 010 000 0 --  2
+Cleveland        010 100 000 000 1 --  3
+  1 out when winning run was scored.
+
+  Baltimore            IP  H  R ER BB SO
+Bedard E              5.0  5  2  2  3  1
+Lopez R               3.1  1  0  0  0  2
+Ryan B                1.2  1  0  0  1  2
+DeJean M (L)          2.1  3  1  1  3  1
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C            7.0  4  1  1  0  1
+White R               1.0  1  1  1  1  0
+Betancourt R          1.0  0  0  0  0  1
+Cressend J            1.1  2  0  0  1  0
+Stewart S*            0.2  1  0  0  1  1
+Durbin C (W)          2.0  2  0  0  0  3
+  * Pitched to 1 batter in 12th
+
+DP -- Cleveland 2
+LOB -- Baltimore 9, Cleveland 13
+2B -- Surhoff B
+HR -- Mora M
+SB -- McDonald D
+CS -- Crisp C
+SH -- Escobar A
+WP -- Bedard E
+T -- 4:07
+A -- 17275
+     Game of 5/3/2004 -- Boston at Cleveland (N)
+
+  Boston             AB  R  H RBI    Cleveland          AB  R  H RBI
+Damon J, cf           4  1  1  0   Lawton M, lf          4  0  0  0   
+Mueller B, 3b         3  0  0  0   Vizquel O, ss         4  0  0  0   
+Ortiz D, dh           5  0  1  1   Gerut J, rf           4  1  1  0   
+Ramirez M, lf         3  0  0  0   Martinez V, c         4  1  3  2   
+Daubach B, 1b         5  0  1  0   Hafner T, dh          3  0  2  0   
+Varitek J, c          4  0  2  0   Belliard R, 2b        3  0  0  0   
+Millar K, rf          3  0  1  0   Broussard B, 1b       3  0  0  0   
+Crespo C, ss          0  0  0  0   Blake C, 3b           3  0  1  0   
+Bellhorn M, 2b        4  0  1  0   Escobar A, cf         2  0  0  0   
+Reese P, ss           2  0  1  0                                      
+McCarty D, ph-rf      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  1  8  1                        30  2  7  2
+
+Boston           000 000 100 --  1
+Cleveland        200 000 00x --  2
+
+  Boston               IP  H  R ER BB SO
+Schilling C (L)       7.0  7  2  2  1  6
+Embree A              1.0  0  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (W)       6.0  6  0  0  2  3
+Riske D               0.1  0  1  1  2  1
+White R               1.2  1  0  0  1  4
+Betancourt R (S)      1.0  1  0  0  1  1
+
+E -- Vizquel O, Martinez V
+DP -- Cleveland 1
+LOB -- Boston 13, Cleveland 5
+2B -- Varitek J, Daubach B, Martinez V, Ortiz D
+HR -- Martinez V
+SB -- Reese P, Damon J
+SH -- Reese P
+T -- 2:52
+A -- 16285
+     Game of 5/4/2004 -- Boston at Cleveland (N)
+
+  Boston             AB  R  H RBI    Cleveland          AB  R  H RBI
+Damon J, cf           4  1  1  3   Lawton M, lf          5  1  3  0   
+Bellhorn M, 2b        4  0  1  0   Vizquel O, ss         4  2  2  1   
+Ortiz D, dh           5  0  0  0   Gerut J, rf           5  1  1  1   
+Ramirez M, lf         5  1  2  1   Martinez V, c         4  0  2  2   
+Varitek J, c          4  1  1  0   Hafner T, dh          4  0  2  0   
+Daubach B, rf         4  1  2  0   Belliard R, 2b        3  1  1  0   
+McCarty D, 1b         3  1  0  0   Broussard B, 1b       3  1  0  0   
+Mueller B, 3b         4  0  2  0   Blake C, 3b           4  1  1  1   
+Reese P, ss           3  0  1  0   Escobar A, cf         4  0  0  0   
+Kapler G, ph          1  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6 11  5                        36  7 12  5
+
+Boston           000 101 004 --  6
+Cleveland        200 500 00x --  7
+
+  Boston               IP  H  R ER BB SO
+Lowe D (L)*           5.0 10  7  2  2  2
+DiNardo L             2.0  0  0  0  1  0
+Timlin M              0.2  1  0  0  0  1
+Malaska M             0.1  1  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (W)           6.0  6  2  2  2  3
+Tadano K              2.1  4  4  4  1  2
+Stewart S             0.1  1  0  0  0  0
+Betancourt R (S)      0.1  0  0  0  0  1
+  * Pitched to 1 batter in 6th
+
+E -- Mueller B 2
+DP -- Boston 2, Cleveland 1
+LOB -- Boston 7, Cleveland 8
+2B -- Vizquel O, Gerut J, Lawton M, Daubach B
+HR -- Ramirez M, Damon J
+SB -- Lawton M
+T -- 2:50
+A -- 16070
+     Game of 5/5/2004 -- Boston at Cleveland (N)
+
+  Boston             AB  R  H RBI    Cleveland          AB  R  H RBI
+Damon J, cf           5  0  0  0   Lawton M, lf          4  1  2  1   
+Bellhorn M, 2b        5  1  1  0   Vizquel O, ss         5  1  2  2   
+Ortiz D, dh           5  2  2  4   Gerut J, rf           4  2  2  0   
+Ramirez M, lf         3  2  1  0   Martinez V, c         3  0  0  2   
+Varitek J, c          4  1  2  1   Hafner T, dh          3  0  0  0   
+Millar K, rf          4  1  2  1   Belliard R, 2b        4  0  1  0   
+McCarty D, 1b         1  0  0  0   Broussard B, 1b       4  1  2  0   
+Daubach B, 1b         4  0  0  0   Blake C, 3b           4  0  0  0   
+Kapler G, rf          0  0  0  0   Escobar A, cf         4  0  1  0   
+Mueller B, 3b         3  1  2  3                                      
+Reese P, ss           4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  9 11  9                        35  5 10  5
+
+Boston           104 003 001 --  9
+Cleveland        211 100 000 --  5
+
+  Boston               IP  H  R ER BB SO
+Kim B                 3.1  6  5  4  1  2
+Malaska M             0.2  1  0  0  1  0
+Arroyo B (W)          2.0  1  0  0  0  3
+Embree A              1.0  0  0  0  0  0
+Williamson S          1.0  1  0  0  0  3
+Foulke K              1.0  1  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+D'Amico J (L)*        5.0  7  7  7  2  3
+Riske D               2.0  1  1  1  1  3
+Cressend J            2.0  3  1  1  1  3
+  * Pitched to 2 batters in 6th
+
+E -- Kim B, Bellhorn M, Millar K
+DP -- Boston 1
+LOB -- Boston 6, Cleveland 8
+2B -- Lawton M, Ramirez M
+3B -- Gerut J
+HR -- Ortiz D 2, Vizquel O, Mueller B
+SB -- Escobar A, Vizquel O
+SF -- Martinez V, Lawton M
+HBP -- by Kim B (Gerut J)
+T -- 3:17
+A -- 17370
+     Game of 5/6/2004 -- Boston at Cleveland (N)
+
+  Boston             AB  R  H RBI    Cleveland          AB  R  H RBI
+Bellhorn M, 2b        5  1  2  1   Lawton M, lf          4  1  1  1   
+Kapler G, cf-lf       4  0  1  0   Crisp C, lf           0  0  0  0   
+Ortiz D, 1b           3  0  0  0   Vizquel O, ss         4  1  2  0   
+Damon J, pr-cf        0  1  0  0   Gerut J, rf           4  0  1  0   
+Ramirez M, dh         4  1  2  2   Martinez V, c         4  0  0  1   
+Varitek J, c          4  0  0  0   Hafner T, dh          4  0  0  0   
+Millar K, rf          4  0  4  0   Belliard R, 2b        3  0  1  0   
+McCarty D, lf-1b      4  1  0  0   Broussard B, 1b       3  0  0  0   
+Mueller B, 3b         4  0  0  0   Merloni L, 3b         3  0  0  0   
+Reese P, ss           4  1  2  1   Escobar A, cf         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 11  4                        31  2  5  2
+
+Boston           000 002 210 --  5
+Cleveland        200 000 000 --  2
+
+  Boston               IP  H  R ER BB SO
+Martinez P (W)        7.0  4  2  2  3  8
+Embree A              1.0  1  0  0  0  1
+Foulke K (S)          1.0  0  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (L)        6.2  8  4  4  0  0
+White R               1.1  3  1  1  1  1
+Riske D               1.0  0  0  0  0  2
+
+E -- Gerut J
+DP -- Boston 1, Cleveland 2
+LOB -- Boston 5, Cleveland 5
+2B -- Bellhorn M 2, Reese P
+3B -- Reese P
+HR -- Lawton M, Ramirez M
+SB -- Damon J
+CS -- Ramirez M
+WP -- White R
+T -- 2:37
+A -- 26825
+     Game of 5/14/2004 -- Tampa Bay at Cleveland (N)
+
+  Tampa Bay          AB  R  H RBI    Cleveland          AB  R  H RBI
+Crawford C, lf        4  1  1  0   Lawton M, lf          3  1  1  0   
+Lugo J, ss            5  2  3  5   Vizquel O, ss         4  1  2  2   
+Huff A, 3b            4  0  0  0   Gerut J, rf           5  1  1  3   
+Baldelli R, cf        4  0  1  0   Martinez V, c         5  0  1  0   
+Martinez T, dh        5  1  2  1   Hafner T, dh          5  0  1  0   
+Cruz J, rf            4  0  1  0   Belliard R, 2b        5  1  3  0   
+Fick R, 1b            5  0  1  0   Broussard B, 1b       4  1  1  0   
+Hall T, c             5  1  1  1   Blake C, 3b           4  1  1  1   
+Blum G, 2b            4  2  2  0   Escobar A, cf         3  2  2  2   
+                     -- -- -- --                        -- -- -- --
+                     40  7 12  7                        38  8 13  8
+
+Tampa Bay        100 400 002 0 --  7
+Cleveland        312 000 010 1 --  8
+  0 outs when winning run was scored.
+
+  Tampa Bay            IP  H  R ER BB SO
+Abbott P              2.2  5  6  6  4  1
+Gaudin C              2.1  3  0  0  0  1
+Miller T              2.0  1  0  0  0  1
+Harper T              1.0  2  1  1  0  1
+Carter L (L)          1.0  2  1  1  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Davis J               6.0  8  5  5  1  3
+Stewart S             0.2  0  0  0  1  0
+Riske D               1.1  0  0  0  1  2
+Betancourt R          1.0  3  2  2  0  0
+White R (W)           1.0  1  0  0  0  0
+
+E -- Cruz J, Hall T
+DP -- Cleveland 2
+LOB -- Tampa Bay 7, Cleveland 9
+2B -- Lugo J 2, Blum G, Belliard R, Cruz J
+HR -- Gerut J, Lugo J, Blake C
+SB -- Lawton M, Baldelli R
+SF -- Vizquel O
+HBP -- by Davis J (Baldelli R), by Abbott P (Lawton M)
+WP -- Abbott P
+Balk -- Davis J
+PB -- Hall T
+T -- 3:13
+A -- 19796
+     Game of 5/15/2004 -- Tampa Bay at Cleveland (D)
+
+  Tampa Bay          AB  R  H RBI    Cleveland          AB  R  H RBI
+Crawford C, lf        5  1  1  0   Lawton M, lf          4  3  2  1   
+Lugo J, ss            5  1  2  1   Belliard R, 2b        3  3  1  0   
+Huff A, 3b            4  1  2  2   Gerut J, rf           3  2  2  1   
+Baldelli R, cf        5  1  2  1   Martinez V, c         3  1  2  5   
+Martinez T, 1b        4  0  1  0   Hafner T, dh          3  0  0  0   
+Cruz J, rf            4  1  1  1   Merloni L, ph         0  0  0  1   
+Fick R, dh            2  0  0  1   Blake C, 3b           3  0  0  0   
+Blum G, 2b            4  0  0  0   Broussard B, 1b       2  0  1  1   
+Fordyce B, c          3  1  1  0   Crisp C, cf           4  0  0  0   
+Cummings M, ph        0  1  0  0   McDonald J, ss        5  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 10  6                        30  9  8  9
+
+Tampa Bay        012 100 102 --  7
+Cleveland        242 000 10x --  9
+
+  Tampa Bay            IP  H  R ER BB SO
+Zambrano V (L)        1.1  4  6  6  7  1
+Harper T              2.2  3  2  2  2  1
+Carter L              2.2  1  1  1  2  1
+Miller T              1.1  0  0  0  1  0
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (W)       6.1  8  5  5  2  4
+Bartosh C             1.2  0  0  0  0  3
+Jimenez J             1.0  2  2  2  1  0
+
+E -- Baldelli R
+LOB -- Tampa Bay 6, Cleveland 13
+2B -- Belliard R, Martinez V 2, Huff A, Baldelli R, Gerut J, Broussard B, Fordyce B, Lugo J
+HR -- Lawton M, Cruz J
+SB -- Crawford C
+SH -- Crisp C
+SF -- Martinez V, Fick R
+HBP -- by Harper T (Broussard B), by Miller T (Merloni L)
+WP -- Westbrook J, Carter L
+Balk -- Westbrook J
+T -- 2:55
+A -- 18040
+     Game of 5/16/2004 -- Tampa Bay at Cleveland (D)
+
+  Tampa Bay          AB  R  H RBI    Cleveland          AB  R  H RBI
+Rolls D, lf           4  0  0  0   Lawton M, lf          4  2  2  0   
+Blum G, 3b            4  0  1  0   Belliard R, 2b        5  1  0  0   
+Baldelli R, cf        4  0  3  0   Gerut J, rf           1  2  0  0   
+Huff A, dh            4  0  1  0   Martinez V, c         4  2  2  0   
+Lugo J, ss            4  0  0  0   Hafner T, dh          5  2  3  4   
+Cruz J, rf            2  0  0  0   Blake C, 3b           3  0  0  0   
+Martinez T, 1b        3  0  1  0   Broussard B, 1b       5  0  2  4   
+Hall T, c             3  0  0  0   Escobar A, cf         4  1  1  0   
+Sanchez R, 2b         3  0  0  0   McDonald J, ss        5  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  6  0                        36 10 10  8
+
+Tampa Bay        000 000 000 --  0
+Cleveland        000 062 02x -- 10
+
+  Tampa Bay            IP  H  R ER BB SO
+Waechter D (L)        4.1  4  6  0  4  5
+Sosa J                1.2  2  2  2  4  3
+Gaudin C              1.0  1  0  0  0  2
+Baez D                1.0  3  2  2  1  3
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        7.0  5  0  0  2  6
+Miller M              2.0  1  0  0  0  5
+
+E -- Martinez T, Baldelli R
+DP -- Cleveland 2
+LOB -- Tampa Bay 6, Cleveland 11
+2B -- Blum G, Hafner T 3, Baldelli R
+3B -- Escobar A
+SB -- Lawton M 2
+CS -- Baldelli R
+T -- 2:45
+A -- 19499
+     Game of 5/17/2004 -- Chicago at Cleveland (N)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Uribe J, 2b           4  0  0  0   Lawton M, lf          4  2  3  2   
+Rowand A, cf          4  1  1  0   Crisp C, cf           0  0  0  0   
+Ordonez M, rf         2  0  1  0   Vizquel O, ss         5  1  3  0   
+Gload R, ph-rf        1  1  1  1   McDonald J, pr-ss     0  0  0  0   
+Thomas F, dh          2  0  0  1   Gerut J, rf           5  0  0  0   
+Lee C, lf             3  0  1  0   Martinez V, c         5  1  3  3   
+Perez T, ph-lf        1  0  0  0   Hafner T, dh          4  0  1  2   
+Valentin J, ss        3  0  0  0   Belliard R, 2b        5  0  2  0   
+Konerko P, 1b         3  0  1  0   Broussard B, 1b       3  0  2  0   
+Crede J, 3b           4  0  0  0   Blake C, 3b           5  1  1  0   
+Olivo M, c            3  0  0  0   Escobar A, cf-lf      3  2  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        39  7 16  7
+
+Chicago          100 000 010 --  2
+Cleveland        320 020 00x --  7
+
+  Chicago              IP  H  R ER BB SO
+Diaz F (L)            4.1  9  6  6  3  2
+Jackson M             1.2  3  1  1  0  2
+Politte C             1.0  2  0  0  0  1
+Koch B                1.0  2  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (W)             5.0  2  1  1  3  3
+Jimenez J             2.0  2  0  0  0  2
+White R               1.0  1  1  1  1  1
+Riske D               1.0  0  0  0  1  0
+
+E -- Olivo M 2, Valentin J
+DP -- Chicago 1, Cleveland 2
+LOB -- Chicago 6, Cleveland 13
+2B -- Martinez V, Broussard B, Blake C, Escobar A
+HR -- Gload R
+HBP -- by Jackson M (Broussard B)
+Balk -- Jackson M
+T -- 2:46
+A -- 15617
+     Game of 5/18/2004 -- Chicago at Cleveland (N)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Harris W, cf          4  0  1  1   Lawton M, lf          3  0  0  0   
+Uribe J, 2b           4  0  0  0   Vizquel O, ss         4  1  1  0   
+Ordonez M, rf         2  0  0  0   Gerut J, rf           4  0  3  0   
+Thomas F, dh          4  1  1  0   Martinez V, c         3  0  0  1   
+Lee C, lf             3  1  1  0   Hafner T, dh          4  1  1  0   
+Valentin J, ss        4  1  1  0   Blake C, 3b           4  0  0  0   
+Konerko P, 1b         4  1  2  2   Broussard B, 1b       4  0  0  0   
+Crede J, 3b           4  0  0  0   Merloni L, 2b         4  0  2  0   
+Olivo M, c            3  0  1  1   Escobar A, cf         3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  7  4                        33  2  7  1
+
+Chicago          000 400 000 --  4
+Cleveland        010 000 010 --  2
+
+  Chicago              IP  H  R ER BB SO
+Garland J (W)         7.0  5  1  1  1  6
+Marte D               1.0  2  1  1  0  1
+Koch B (S)            1.0  0  0  0  0  3
+
+  Cleveland            IP  H  R ER BB SO
+Durbin C (L)          3.2  6  4  4  3  2
+Miller M              2.1  0  0  0  0  2
+Riske D               1.2  1  0  0  0  0
+Stewart S             0.1  0  0  0  0  0
+Betancourt R          1.0  0  0  0  0  1
+
+E -- Valentin J
+DP -- Chicago 1
+LOB -- Chicago 4, Cleveland 6
+2B -- Hafner T, Thomas F, Gerut J
+SB -- Gerut J, Lawton M
+CS -- Ordonez M
+SF -- Martinez V
+T -- 2:18
+A -- 15298
+     Game of 5/19/2004 -- Chicago at Cleveland (N)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Harris W, 2b          4  0  2  0   Belliard R, 2b        3  1  1  0   
+Rowand A, cf          1  0  1  0   Vizquel O, ss         3  0  1  0   
+Uribe J, 3b-2b        5  1  1  0   McDonald J, ss        1  0  0  0   
+Ordonez M, rf         4  2  1  0   Gerut J, rf           4  0  0  1   
+Crede J, 3b           2  1  0  0   Martinez V, dh        2  2  1  1   
+Thomas F, dh          4  2  3  5   Escobar A, lf         3  0  0  0   
+Lee C, lf             6  2  2  2   Merloni L, 3b         3  0  2  0   
+Valentin J, ss        4  2  1  1   Broussard B, 1b       4  0  0  0   
+Konerko P, 1b         5  1  2  4   Laker T, c            4  0  1  0   
+Gload R, cf-rf        5  2  3  2   Crisp C, cf           4  0  0  0   
+Alomar S, c           4  2  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     44 15 18 14                        31  3  6  2
+
+Chicago          005 102 160 -- 15
+Cleveland        101 010 000 --  3
+
+  Chicago              IP  H  R ER BB SO
+Schoeneweis S (W)     6.0  5  3  3  5  6
+Takatsu S             1.0  0  0  0  1  0
+Adkins J              1.0  1  0  0  0  1
+Wunsch K              1.0  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (L)           2.2  8  5  5  1  2
+White R               3.0  3  3  1  1  0
+Jimenez J             1.2  4  4  3  1  2
+Bartosh C             0.2  3  3  3  1  1
+Stewart S             1.0  0  0  0  0  1
+
+E -- Uribe J, Laker T, Gerut J
+DP -- Chicago 2
+LOB -- Chicago 8, Cleveland 8
+2B -- Thomas F 2, Lee C, Valentin J, Merloni L, Konerko P
+HR -- Martinez V, Gload R
+SB -- Uribe J
+SH -- Uribe J, Harris W
+HBP -- by Takatsu S (Martinez V)
+WP -- Schoeneweis S
+PB -- Laker T
+T -- 3:04
+A -- 17205
+     Game of 5/25/2004 -- Seattle at Cleveland (N)
+
+  Seattle            AB  R  H RBI    Cleveland          AB  R  H RBI
+Suzuki I, rf          6  0  1  0   Belliard R, 2b        5  1  1  0   
+Spiezio S, 3b         5  1  1  0   Vizquel O, ss         3  1  1  0   
+Boone B, 2b           6  1  0  0   Gerut J, rf           4  1  1  0   
+Ibanez R, lf          6  2  3  1   Martinez V, c         3  0  1  2   
+Martinez E, dh        6  0  2  2   Hafner T, dh          4  0  0  1   
+Olerud J, 1b          3  0  3  2   Blake C, 3b           5  1  1  1   
+Bloomquist, pr-1b-ss  1  0  1  0   Broussard B, 1b       4  0  0  0   
+Wilson D, c           5  0  0  0   Merloni L, ph         1  0  0  0   
+Aurilia R, ss         3  0  0  0   Escobar A, lf         5  0  0  0   
+Hansen D, ph-1b       2  0  0  0   Crisp C, cf           4  0  2  0   
+Winn R, cf            5  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     48  5 12  5                        38  4  7  4
+
+Seattle          200 000 020 001 --  5
+Cleveland        100 003 000 000 --  4
+
+  Seattle              IP  H  R ER BB SO
+Franklin R            6.0  6  4  4  2  1
+Villone R             2.0  1  0  0  1  0
+Hasegawa S            2.0  0  0  0  0  2
+Myers M (W)           1.0  0  0  0  0  1
+Guardado E (S)        1.0  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Davis J               7.0  6  2  2  1  4
+Miller M              0.2  1  2  2  1  0
+Riske D               0.1  1  0  0  0  1
+Betancourt R          2.0  0  0  0  0  0
+Jimenez J (L)         1.2  3  1  1  0  1
+Stewart S*            0.0  1  0  0  0  0
+White R               0.1  0  0  0  0  0
+  * Pitched to 1 batter in 12th
+
+E -- Spiezio S
+DP -- Seattle 2
+LOB -- Seattle 9, Cleveland 4
+2B -- Martinez E, Gerut J, Ibanez R, Olerud J, Bloomquist W
+HR -- Blake C
+SB -- Bloomquist W
+CS -- Crisp C
+SF -- Martinez V, Hafner T
+HBP -- by Villone R (Gerut J)
+T -- 3:43
+A -- 15349
+     Game of 5/26/2004 -- Seattle at Cleveland (N)
+
+  Seattle            AB  R  H RBI    Cleveland          AB  R  H RBI
+Suzuki I, rf          5  1  4  2   Belliard R, 2b        5  0  1  0   
+Bloomquist W, 3b      5  1  1  0   Vizquel O, ss         4  0  1  0   
+Martinez E, dh        5  1  1  2   Gerut J, rf           3  0  1  0   
+Ibanez R, lf          4  2  1  1   Martinez V, c         4  1  1  1   
+Cabrera J, 2b         5  0  1  2   Hafner T, dh          3  1  1  1   
+Olerud J, 1b          5  0  2  0   Blake C, 3b           3  1  1  1   
+Wilson D, c           4  0  1  0   Merloni L, 1b         4  0  1  0   
+Aurilia R, ss         4  0  0  0   Escobar A, lf         3  0  0  0   
+Winn R, cf            3  2  2  0   Lawton M, ph          1  0  0  0   
+                                   Crisp C, cf           4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     40  7 13  7                        34  3  8  3
+
+Seattle          001 011 301 --  7
+Cleveland        000 000 102 --  3
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (W)           7.0  4  1  1  0  5
+Putz J*               1.0  4  2  2  1  2
+Guardado E (S)        1.0  0  0  0  0  3
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (L)        6.2 11  6  6  1  5
+White R               0.1  0  0  0  0  1
+Durbin C              1.0  1  0  0  1  1
+Bartosh C             1.0  1  1  1  0  2
+  * Pitched to 4 batters in 9th
+
+DP -- Seattle 1
+LOB -- Seattle 8, Cleveland 7
+2B -- Suzuki I, Cabrera J
+3B -- Winn R
+HR -- Ibanez R, Suzuki I, Blake C, Martinez E, Martinez V, Hafner T
+SB -- Suzuki I, Crisp C
+HBP -- by Moyer J (Hafner T), by Moyer J (Gerut J)
+WP -- Sabathia C
+T -- 2:48
+A -- 16007
+     Game of 5/27/2004 -- Seattle at Cleveland (N)
+
+  Seattle            AB  R  H RBI    Cleveland          AB  R  H RBI
+Suzuki I, rf          5  0  1  1   Lawton M, lf          5  1  1  0   
+Spiezio S, 3b         5  0  0  0   Vizquel O, ss         3  2  1  0   
+Martinez E, dh        5  2  3  2   Gerut J, cf           5  2  3  1   
+Ibanez R, lf          4  0  0  0   Martinez V, c         3  1  1  1   
+Boone B, 2b           4  1  1  0   Hafner T, dh          3  2  1  2   
+Olerud J, 1b          2  1  1  0   Belliard R, 2b        4  1  3  1   
+Cabrera J, ss         4  0  2  2   Broussard B, 1b       2  0  0  1   
+Wilson D, c           4  0  0  0   Blake C, 3b           4  0  2  2   
+Winn R, cf            2  1  0  0   Escobar A, rf         3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5  8  5                        32  9 13  8
+
+Seattle          001 210 100 --  5
+Cleveland        402 200 01x --  9
+
+  Seattle              IP  H  R ER BB SO
+Meche G (L)           3.1 10  8  8  3  0
+Mateo J               3.2  2  0  0  1  1
+Villone R             1.0  1  1  1  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (W)       5.0  7  4  4  4  2
+White R               1.2  1  1  1  0  0
+Bartosh C             0.1  0  0  0  0  0
+Betancourt R          1.0  0  0  0  0  2
+Jimenez J             1.0  0  0  0  0  0
+
+E -- Suzuki I, Ibanez R
+LOB -- Seattle 7, Cleveland 6
+2B -- Martinez V, Hafner T, Gerut J, Belliard R, Lawton M, Vizquel O
+HR -- Martinez E
+CS -- Blake C, Escobar A
+SH -- Vizquel O
+SF -- Broussard B
+HBP -- by Meche G (Hafner T)
+WP -- Villone R
+T -- 2:43
+A -- 17272
+     Game of 5/28/2004 -- Oakland at Cleveland (N)
+
+  Oakland            AB  R  H RBI    Cleveland          AB  R  H RBI
+Byrnes E, cf-lf       4  0  1  0   Belliard R, 2b        3  0  0  0   
+Kielty B, lf          4  0  2  0   Vizquel O, ss         4  0  0  0   
+Kotsay M, ph-cf       1  0  1  0   Lawton M, lf          3  0  2  0   
+Chavez E, 3b          4  0  1  0   Martinez V, c         4  0  0  0   
+Dye J, rf             3  0  0  0   Blake C, 3b           2  1  1  1   
+Hatteberg S, 1b       4  0  0  0   Gerut J, cf           3  0  0  0   
+Durazo E, dh          4  0  1  0   Merloni L, 1b         3  0  0  0   
+Miller D, c           3  0  0  0   Hafner T, dh          1  0  1  0   
+McMillon B, ph        1  0  0  0   Crisp C, pr           0  0  0  0   
+Melhuse A, c          0  0  0  0   Escobar A, rf         2  0  0  0   
+Crosby B, ss          2  0  1  0                                      
+Scutaro M, 2b         3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  0  8  0                        25  1  4  1
+
+Oakland          000 000 000 --  0
+Cleveland        000 000 001 --  1
+  0 outs when winning run was scored.
+
+  Oakland              IP  H  R ER BB SO
+Zito B                8.0  3  0  0  5  7
+Mecir J (L)           0.0  1  1  1  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Lee C                 6.1  4  0  0  5  8
+Betancourt R          1.1  2  0  0  2  1
+Miller M              0.1  0  0  0  0  0
+Jimenez J (W)         1.0  2  0  0  0  0
+
+DP -- Oakland 1, Cleveland 1
+LOB -- Oakland 14, Cleveland 7
+2B -- Scutaro M, Crosby B
+HR -- Blake C
+SB -- Chavez E, Lawton M
+CS -- Blake C
+SH -- Scutaro M, Escobar A
+HBP -- by Zito B (Hafner T)
+WP -- Zito B
+Balk -- Zito B
+T -- 2:51
+A -- 19257
+     Game of 5/29/2004 -- Oakland at Cleveland (N)
+
+  Oakland            AB  R  H RBI    Cleveland          AB  R  H RBI
+Kotsay M, cf          4  1  3  0   Lawton M, lf          4  2  0  1   
+Byrnes E, lf          4  1  1  0   Vizquel O, ss         3  2  2  0   
+Chavez E, 3b          3  1  1  3   Gerut J, cf           4  0  1  2   
+Dye J, rf             5  1  1  0   Blake C, 3b           2  1  0  0   
+Hatteberg S, 1b       4  1  1  1   Hafner T, dh          3  1  3  3   
+Durazo E, dh          4  0  1  2   Belliard R, 2b        4  0  0  0   
+Melhuse A, c          3  0  0  0   Broussard B, 1b       4  0  0  0   
+Crosby B, ss          4  0  1  0   Laker T, c            2  0  0  0   
+Scutaro M, 2b         3  1  0  0   Martinez V, ph-c      2  0  1  1   
+                                   Escobar A, rf         3  2  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6  9  6                        31  8  8  7
+
+Oakland          210 030 000 --  6
+Cleveland        200 012 03x --  8
+
+  Oakland              IP  H  R ER BB SO
+Harden R*             5.0  2  5  3  6  4
+Bradford C            0.2  1  0  0  1  0
+Rincon R              1.0  1  0  0  2  0
+Duchscherer J         0.2  1  1  1  1  1
+Rhodes A (L)          0.2  3  2  2  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Dawley J              4.0  4  3  3  5  4
+Pote L                2.0  3  3  3  1  4
+Riske D (W)           2.0  1  0  0  0  1
+Jimenez J (S)         1.0  1  0  0  0  2
+  * Pitched to 2 batters in 6th
+
+E -- Melhuse A, Kotsay M, Crosby B
+DP -- Oakland 2, Cleveland 2
+LOB -- Oakland 7, Cleveland 10
+2B -- Chavez E, Durazo E, Hafner T, Kotsay M
+3B -- Escobar A
+SF -- Hafner T
+WP -- Rincon R
+PB -- Melhuse A
+T -- 3:16
+A -- 26441
+     Game of 5/30/2004 -- Oakland at Cleveland (D)
+
+  Oakland            AB  R  H RBI    Cleveland          AB  R  H RBI
+Kotsay M, cf          4  0  3  1   Lawton M, lf          4  1  2  0   
+Byrnes E, lf          4  0  0  0   Vizquel O, ss         4  1  2  1   
+McMillon B, ph        1  0  0  0   Gerut J, rf           4  1  2  0   
+Kielty B, lf          0  0  0  0   Martinez V, c         4  0  2  1   
+Chavez E, 3b          4  0  1  0   Hafner T, dh          3  0  2  1   
+Dye J, rf             4  0  0  0   Belliard R, 2b        4  0  0  0   
+Hatteberg S, 1b       4  0  1  0   Broussard B, 1b       3  0  1  0   
+Durazo E, dh          2  1  1  0   Merloni L, ph         1  0  1  0   
+Miller D, c           1  0  1  0   McDonald J, pr        0  1  0  0   
+Melhuse A, c          2  0  0  0   Blake C, 3b           4  0  0  0   
+Crosby B, ss          3  1  2  1   Crisp C, cf           3  0  1  0   
+Scutaro M, 2b         3  1  1  0   Escobar A, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3 10  2                        35  4 13  3
+
+Oakland          010 000 002 --  3
+Cleveland        001 000 012 --  4
+  2 outs when winning run was scored.
+
+  Oakland              IP  H  R ER BB SO
+Hudson T              8.0 11  2  2  1  3
+Rhodes A (L)          0.2  2  2  2  1  1
+
+  Cleveland            IP  H  R ER BB SO
+Davis J               6.1  6  1  1  3  5
+Bartosh C             0.1  0  0  0  0  0
+Betancourt R          1.1  2  0  0  1  1
+Jimenez J*            0.0  2  2  2  1  0
+White R (W)           1.0  0  0  0  0  0
+  * Pitched to 3 batters in 9th
+
+E -- Martinez V, Blake C, Vizquel O
+DP -- Oakland 3, Cleveland 4
+LOB -- Oakland 9, Cleveland 8
+2B -- Kotsay M, Vizquel O 2, Hafner T
+CS -- Kotsay M, Durazo E
+SH -- Vizquel O, Scutaro M
+HBP -- by Davis J (Miller D)
+WP -- Betancourt R, Rhodes A
+T -- 3:08
+A -- 24005
+     Game of 6/1/2004 -- Texas at Cleveland (N)
+
+  Texas              AB  R  H RBI    Cleveland          AB  R  H RBI
+Young E, cf-lf        5  0  0  0   Lawton M, lf          4  2  2  0   
+Young M, ss           6  1  3  1   Vizquel O, ss         6  0  1  0   
+Soriano A, 2b         5  1  1  0   Gerut J, cf           5  1  0  0   
+Teixeira M, 1b        4  0  0  0   Martinez V, c         6  1  1  3   
+Allen C, lf           3  1  1  2   Hafner T, dh          6  0  1  1   
+Dellucci D, ph-lf     2  0  0  0   Belliard R, 2b        5  1  1  0   
+Nix L, cf             0  0  0  0   Broussard B, 1b       3  0  1  0   
+Blalock H, 3b         4  0  1  0   Merloni L, ph-1b      2  0  0  0   
+Perry H, dh           5  0  1  1   Blake C, 3b           4  0  2  0   
+Matthews G, rf        4  1  0  0   Escobar A, rf         3  0  0  0   
+Barajas R, c          5  2  2  2                                      
+                     -- -- -- --                        -- -- -- --
+                     43  6  9  6                        44  5  9  4
+
+Texas            001 310 000 001 --  6
+Cleveland        100 013 000 000 --  5
+
+  Texas                IP  H  R ER BB SO
+Drese R               6.1  8  5  5  0  5
+Mahay R               1.2  0  0  0  1  1
+Powell J              0.2  1  0  0  0  0
+Shouse B              1.1  0  0  0  0  0
+Francisco F           0.2  0  0  0  2  1
+Ramirez E (W)         0.1  0  0  0  1  0
+Cordero F (S)         1.0  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C            6.0  6  5  5  3  6
+Riske D               1.0  1  0  0  1  3
+Betancourt R          1.0  1  0  0  0  3
+Jimenez J             2.0  0  0  0  0  0
+Bartosh C             1.0  0  0  0  0  2
+White R (L)           1.0  1  1  1  0  0
+
+E -- Blalock H
+DP -- Texas 1, Cleveland 1
+LOB -- Texas 5, Cleveland 9
+2B -- Allen C, Young M, Martinez V, Hafner T
+HR -- Barajas R 2
+SH -- Escobar A
+HBP -- by Drese R (Gerut J)
+T -- 3:42
+A -- 17136
+     Game of 6/2/2004 -- Texas at Cleveland (D)
+
+  Texas              AB  R  H RBI    Cleveland          AB  R  H RBI
+Young M, ss           4  0  2  0   Lawton M, lf          5  0  0  0   
+Blalock H, 3b         5  1  2  1   Vizquel O, ss         5  0  1  0   
+Soriano A, 2b         5  0  1  0   Gerut J, cf           4  1  2  1   
+Fullmer B, dh         4  0  0  0   Martinez V, c         3  0  2  0   
+Teixeira M, 1b        4  2  2  0   McDonald J, pr        0  1  0  0   
+Nix L, cf             3  1  1  0   Laker T, c            0  0  0  0   
+Young E, lf           3  0  0  0   Hafner T, dh          4  1  0  0   
+Matthews G, rf        2  1  2  3   Blake C, 3b           4  0  3  1   
+Huckaby K, c          4  0  0  0   Broussard B, 1b       4  0  1  1   
+                                   Merloni L, 2b         3  0  0  0   
+                                   Escobar A, rf         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5 10  4                        34  3  9  3
+
+Texas            020 001 002 --  5
+Cleveland        000 000 120 --  3
+
+  Texas                IP  H  R ER BB SO
+Dickey R              6.2  6  1  0  2  7
+Shouse B              1.0  2  2  2  0  2
+Almanzar C (W)        0.1  1  0  0  0  0
+Cordero F (S)         1.0  0  0  0  2  2
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J           7.0  8  3  2  3  1
+White R               1.0  0  0  0  0  0
+Betancourt R (L)      1.0  2  2  2  0  0
+
+E -- Merloni L, Soriano A
+DP -- Texas 1, Cleveland 2
+LOB -- Texas 7, Cleveland 8
+2B -- Teixeira M, Matthews G, Blake C
+3B -- Martinez V
+HR -- Gerut J, Matthews G, Blalock H
+SB -- Gerut J, Young M
+CS -- Blake C
+SH -- Young E
+SF -- Matthews G
+WP -- Dickey R
+T -- 2:49
+A -- 18098
+     Game of 6/8/2004 -- Florida at Cleveland (N)
+
+  Florida            AB  R  H RBI    Cleveland          AB  R  H RBI
+Pierre J, cf          3  0  1  0   Belliard R, 2b        5  1  1  0   
+Castillo L, 2b        5  0  2  0   Vizquel O, ss         3  0  2  2   
+Lowell M, 3b          5  0  0  0   Lawton M, lf          4  1  1  0   
+Cabrera M, rf         3  2  1  1   Martinez V, c         5  1  3  1   
+Conine J, 1b-lf       4  1  1  0   Blake C, 3b           4  0  1  0   
+Easley D, dh          5  2  2  3   Hafner T, dh          4  0  0  0   
+Gonzalez A, ss        5  1  3  1   Merloni L, 1b         2  0  1  0   
+Redmond M, c          4  0  1  1   Broussard B, ph-1b    2  0  0  0   
+Nunez A, lf           3  1  1  1   Escobar A, rf         3  1  1  0   
+Choi H, ph-1b         1  0  0  0   Crisp C, cf           3  1  1  0   
+                                   Gerut J, cf           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 12  7                        35  5 11  3
+
+Florida          001 101 013 --  7
+Cleveland        200 100 110 --  5
+
+  Florida              IP  H  R ER BB SO
+Willis D*             5.0  8  3  1  1  5
+Borland T             1.1  1  1  1  0  2
+Perisho M             1.0  1  1  1  3  2
+Bump N (W)            0.2  1  0  0  0  1
+Benitez A (S)         1.0  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Lee C+                6.0  7  3  2  3  4
+Miller M              1.0  0  0  0  1  1
+Betancourt R          0.1  3  1  1  0  0
+Bartosh C             0.2  0  0  0  0  1
+Jimenez J (L)         1.0  2  3  3  1  1
+  * Pitched to 1 batter in 6th
+  + Pitched to 2 batters in 7th
+
+E -- Willis D, Redmond M, Blake C
+DP -- Florida 1, Cleveland 2
+LOB -- Florida 9, Cleveland 10
+2B -- Conine J, Martinez V, Crisp C, Easley D
+HR -- Nunez A, Gonzalez A, Cabrera M, Easley D
+SB -- Crisp C, Vizquel O, Lawton M
+CS -- Lawton M
+SH -- Vizquel O
+HBP -- by Willis D (Vizquel O), by Willis D (Hafner T)
+WP -- Lee C
+T -- 3:27
+A -- 21252
+     Game of 6/9/2004 -- Florida at Cleveland (N)
+
+  Florida            AB  R  H RBI    Cleveland          AB  R  H RBI
+Pierre J, cf          4  0  0  0   Lawton M, lf          5  1  2  0   
+Castillo L, 2b        3  0  1  0   Vizquel O, ss         3  0  0  0   
+Mordecai M, 2b        1  0  0  0   McDonald J, ss        1  0  0  0   
+Lowell M, dh          4  0  0  0   Gerut J, rf           4  2  3  1   
+Cabrera M, rf         3  1  1  1   Martinez V, c         3  2  1  0   
+Nunez A, rf           1  0  0  0   Hafner T, dh          3  2  2  2   
+Choi H, 1b            3  0  2  0   Blake C, 3b           4  1  2  2   
+Easley D, 3b          3  0  0  0   Broussard B, 1b       4  0  2  2   
+Conine J, lf          2  0  1  0   Belliard R, 2b        2  0  1  1   
+Harris L, lf          1  0  0  0   Crisp C, cf           4  0  0  0   
+Gonzalez A, ss        3  0  1  0                                      
+Redmond M, c          2  0  0  0                                      
+Treanor M, c          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  1  6  1                        33  8 13  8
+
+Florida          000 000 100 --  1
+Cleveland        005 030 00x --  8
+
+  Florida              IP  H  R ER BB SO
+Burnett A (L)         4.1 12  8  8  2  3
+Howard B              1.2  0  0  0  0  3
+Oliver D              2.0  1  0  0  1  2
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (W)       8.0  6  1  1  0  4
+Pote L                1.0  0  0  0  0  1
+
+E -- Mordecai M
+DP -- Florida 1, Cleveland 2
+LOB -- Florida 3, Cleveland 6
+2B -- Choi H, Broussard B 2, Lawton M, Hafner T, Castillo L
+HR -- Blake C, Cabrera M
+CS -- Lawton M
+SH -- Vizquel O
+SF -- Belliard R
+WP -- Westbrook J
+T -- 2:23
+A -- 17072
+     Game of 6/10/2004 -- Florida at Cleveland (N)
+
+  Florida            AB  R  H RBI    Cleveland          AB  R  H RBI
+Pierre J, cf          4  0  1  1   Lawton M, lf          4  0  1  0   
+Castillo L, 2b        3  0  3  0   Vizquel O, ss         4  0  0  0   
+Lowell M, 3b          5  0  0  0   Gerut J, cf           4  0  0  0   
+Cabrera M, rf         5  0  0  0   Martinez V, c         3  1  2  1   
+Nunez A, rf           0  0  0  0   Laker T, pr           0  0  0  0   
+Choi H, 1b            4  0  0  0   Hafner T, dh          4  0  1  0   
+Conine J, lf          5  1  1  0   Blake C, 3b           3  0  0  0   
+Harris L, dh          5  1  2  0   Broussard B, 1b       3  0  0  0   
+Gonzalez A, ss        4  2  2  2   Belliard R, 2b        3  0  0  0   
+Redmond M, c          4  0  3  1   Escobar A, rf         3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  4 12  4                        31  1  4  1
+
+Florida          010 002 010 --  4
+Cleveland        010 000 000 --  1
+
+  Florida              IP  H  R ER BB SO
+Pavano C (W)          8.2  4  1  1  1  7
+Benitez A (S)         0.1  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (L)           7.0  9  3  3  2  4
+White R               0.2  2  1  1  0  1
+Bartosh C*            0.0  1  0  0  1  0
+Riske D               1.1  0  0  0  1  2
+  * Pitched to 2 batters in 8th
+
+E -- Blake C, Broussard B
+DP -- Cleveland 1
+LOB -- Florida 12, Cleveland 4
+2B -- Redmond M 2, Pierre J, Martinez V
+HR -- Martinez V, Gonzalez A
+SB -- Castillo L
+T -- 2:31
+A -- 19113
+     Game of 6/11/2004 -- Cincinnati at Cleveland (N)
+
+  Cincinnati         AB  R  H RBI    Cleveland          AB  R  H RBI
+Freel R, cf           3  0  1  0   Lawton M, lf          5  1  2  0   
+LaRue J, c            6  0  1  0   Vizquel O, ss         4  0  0  0   
+Casey S, 1b           5  0  1  0   Gerut J, rf           5  0  0  1   
+Griffey K, dh         5  1  3  0   Blake C, 3b           5  2  1  0   
+Jimenez D, 2b         3  2  0  0   Hafner T, dh          3  2  1  0   
+Dunn A, lf            4  1  1  0   Belliard R, 2b        5  1  3  2   
+Larson B, 3b          4  0  0  1   Broussard B, 1b       3  0  1  1   
+Pena W, rf            5  1  1  1   Merloni L, ph         0  0  0  1   
+Lopez F, ss           5  0  2  2   Laker T, c            5  0  0  0   
+                                   Crisp C, cf           4  0  4  1   
+                     -- -- -- --                        -- -- -- --
+                     40  5 10  4                        39  6 12  6
+
+Cincinnati       030 020 000 00 --  5
+Cleveland        100 101 200 01 --  6
+  2 outs when winning run was scored.
+
+  Cincinnati           IP  H  R ER BB SO
+Wilson P              5.2  8  3  2  2  4
+Matthews M            1.0  0  2  2  1  0
+Riedling J            1.1  3  0  0  1  1
+Jones T               2.0  0  0  0  1  1
+Norton P (L)          0.2  1  1  1  3  1
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C            5.0  7  5  3  4  7
+White R               1.0  0  0  0  0  0
+Bartosh C             0.2  1  0  0  1  0
+Miller M              1.1  0  0  0  1  1
+Jimenez J             1.0  1  0  0  0  0
+Riske D (W)           2.0  1  0  0  0  5
+
+E -- Laker T 2, Lopez F, Blake C, LaRue J
+DP -- Cincinnati 3, Cleveland 2
+LOB -- Cincinnati 9, Cleveland 14
+2B -- Lopez F, Crisp C, Griffey K 2, Belliard R
+SB -- Jimenez D
+CS -- Lawton M, Freel R
+SH -- Vizquel O 2
+SF -- Gerut J, Larson B
+HBP -- by Wilson P (Broussard B), by Matthews M (Hafner T)
+WP -- Norton P
+T -- 3:49
+A -- 27308
+     Game of 6/12/2004 -- Cincinnati at Cleveland (N)
+
+  Cincinnati         AB  R  H RBI    Cleveland          AB  R  H RBI
+Freel R, rf           3  0  0  0   Lawton M, lf          4  1  1  1   
+Lopez F, ss           5  0  0  0   Vizquel O, ss         4  0  1  0   
+Casey S, 1b           4  1  1  0   Gerut J, rf           4  0  1  0   
+Griffey K, cf         4  1  0  0   Blake C, 3b           3  1  0  0   
+Jimenez D, 2b         2  2  2  0   Hafner T, dh          3  3  2  0   
+Dunn A, lf            5  1  3  1   Belliard R, 2b        3  2  2  2   
+Cruz J, dh            5  0  2  3   Broussard B, 1b       4  1  1  0   
+Hummel T, pr          0  0  0  0   Crisp C, cf           4  0  1  4   
+Larson B, 3b          3  1  0  0   Martinez S, c         2  0  0  0   
+LaRue J, c            4  1  2  3   Merloni L, ph         0  0  0  1   
+                                   Laker T, c            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7 10  7                        32  8  9  8
+
+Cincinnati       000 320 002 --  7
+Cleveland        000 110 24x --  8
+
+  Cincinnati           IP  H  R ER BB SO
+Van Poppel T*         6.0  7  4  4  1  3
+Matthews M            0.1  0  0  0  0  0
+Jones T               1.1  0  1  1  1  1
+Norton P (L)+         0.0  0  1  1  1  0
+Graves D              0.1  2  2  2  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Elarton S             5.0  4  5  5  6  4
+White R               0.2  1  0  0  1  0
+Bartosh C             0.2  2  0  0  1  2
+Miller M              0.2  0  0  0  0  0
+Betancourt R (W)      1.0  0  0  0  0  0
+Jimenez J (S)         1.0  3  2  2  0  0
+  * Pitched to 3 batters in 7th
+  + Pitched to 1 batter in 8th
+
+DP -- Cincinnati 1, Cleveland 1
+LOB -- Cincinnati 10, Cleveland 4
+2B -- Casey S, Hafner T 2, Belliard R, Gerut J, Crisp C, Jimenez D, Dunn A
+HR -- LaRue J, Lawton M
+SB -- Jimenez D, Freel R, Crisp C
+CS -- LaRue J
+SF -- Merloni L
+HBP -- by Elarton S (Larson B)
+PB -- Martinez S
+T -- 2:58
+A -- 42101
+     Game of 6/13/2004 -- Cincinnati at Cleveland (D)
+
+  Cincinnati         AB  R  H RBI    Cleveland          AB  R  H RBI
+Freel R, 2b           3  2  2  0   Lawton M, lf          3  2  2  2   
+Jimenez D, ss         1  0  0  0   Vizquel O, ss         4  2  1  2   
+Lopez F, pr-ss        2  0  0  0   Gerut J, rf           5  0  1  0   
+Casey S, 1b           3  2  1  1   Blake C, 3b           4  0  0  1   
+Griffey K, cf         3  2  1  1   Hafner T, dh          3  1  1  0   
+Pena W, rf            3  1  1  4   McDonald J, pr        0  0  0  0   
+Cruz J, ph-rf         2  0  0  0   Belliard R, 2b        4  1  2  0   
+Dunn A, lf            4  0  0  0   Broussard B, 1b       3  1  0  1   
+Larson B, 3b          4  0  1  1   Crisp C, cf           4  2  2  3   
+LaRue J, dh           4  0  1  0   Laker T, c            5  1  1  1   
+Valentin J, c         4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  8  8  7                        35 10 10 10
+
+Cincinnati       401 200 100 --  8
+Cleveland        100 105 30x -- 10
+
+  Cincinnati           IP  H  R ER BB SO
+Lidle C               5.1  7  6  6  4  2
+Reith B (L)           1.0  2  3  3  3  1
+Matthews M            0.2  1  1  1  0  1
+Riedling J            1.0  0  0  0  3  0
+
+  Cleveland            IP  H  R ER BB SO
+Lee C                 3.2  6  7  7  5  4
+Tadano K              2.1  1  0  0  0  2
+Bartosh C*            0.0  0  1  1  2  0
+Miller M (W)          1.0  1  0  0  0  0
+Riske D               1.0  0  0  0  0  0
+Jimenez J (S)         1.0  0  0  0  1  0
+  * Pitched to 2 batters in 7th
+
+E -- Casey S 2
+DP -- Cleveland 1
+LOB -- Cincinnati 6, Cleveland 11
+2B -- Gerut J, LaRue J, Casey S, Hafner T, Larson B, Laker T
+HR -- Pena W, Griffey K, Crisp C, Vizquel O, Lawton M
+SB -- Freel R, Gerut J
+CS -- Lawton M
+WP -- Lee C, Lidle C
+T -- 3:31
+A -- 31235
+     Game of 6/14/2004 -- Baltimore at Cleveland (D)
+
+  Baltimore          AB  R  H RBI    Cleveland          AB  R  H RBI
+Roberts B, 2b         3  0  0  0   Belliard R, 2b        5  1  1  1   
+Mora M, 3b            2  0  1  0   Crisp C, cf           5  1  1  2   
+Leon J, ph-3b         2  0  0  0   Lawton M, lf          3  2  1  0   
+Tejada M, ss          2  0  0  0   Broussard B, 1b       1  0  0  0   
+Lopez L, ph-ss        2  0  0  0   Martinez V, dh        2  2  1  0   
+Palmeiro R, 1b        1  0  0  0   Hafner T, ph          1  1  1  1   
+Hairston J, rf        2  0  0  0   Blake C, 3b           5  1  2  3   
+Lopez J, c            2  0  0  0   Merloni L, 1b-lf      4  1  2  2   
+Machado R, c          1  0  0  0   Gerut J, rf           3  1  1  2   
+Surhoff B, rf-1b      3  0  2  0   Laker T, c            4  2  1  2   
+Gibbons J, dh         3  0  0  0   McDonald J, ss        4  2  4  1   
+Matos L, cf           3  0  0  0                                      
+Bigbie L, lf          3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  0  4  0                        37 14 15 14
+
+Baltimore        000 000 000 --  0
+Cleveland        017 060 00x -- 14
+
+  Baltimore            IP  H  R ER BB SO
+DuBose E (L)          2.2  6  8  8  4  1
+Bauer R               1.2  7  6  6  3  2
+Rodriguez E           2.2  1  0  0  2  0
+DeJean M              1.0  1  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (W)       9.0  4  0  0  2  4
+
+DP -- Baltimore 2, Cleveland 2
+LOB -- Baltimore 4, Cleveland 9
+2B -- Martinez V, Merloni L 2, Laker T, Belliard R, Lawton M, Gerut J, McDonald J, Surhoff B
+HBP -- by Bauer R (Merloni L)
+WP -- DuBose E
+T -- 2:33
+A -- 19340
+     Game of 6/25/2004 -- Colorado at Cleveland (N)
+
+  Colorado           AB  R  H RBI    Cleveland          AB  R  H RBI
+Miles A, 2b           6  0  1  0   Belliard R, 2b        5  0  1  0   
+Clayton R, ss         6  1  2  2   Vizquel O, ss         4  0  1  0   
+Helton T, 1b          5  2  3  0   Lawton M, lf          4  0  0  0   
+Wilson P, cf          5  0  0  0   Martinez V, c         5  0  0  0   
+Walker L, rf          4  4  4  5   Hafner T, dh          3  1  0  0   
+Castilla V, 3b        5  0  0  1   Blake C, 3b           3  2  1  1   
+Burnitz J, dh         6  1  1  0   Gerut J, rf           3  2  2  0   
+Holliday M, lf        4  1  3  1   Crisp C, cf           4  2  0  2   
+Johnson C, c          3  1  1  1   Broussard B, 1b       4  1  2  5   
+Sweeney M, ph         1  0  0  0                                      
+Greene T, c           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     45 10 15 10                        35  8  7  8
+
+Colorado         010 106 000 2 -- 10
+Cleveland        040 103 000 0 --  8
+
+  Colorado             IP  H  R ER BB SO
+Fassero J             6.0  6  8  7  2  3
+Jarvis K              1.0  1  0  0  1  0
+Lopez J               1.0  0  0  0  0  0
+Reed S (W)            1.0  0  0  0  0  1
+Chacon S (S)          1.0  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Davis J               5.1  8  5  5  1  7
+Betancourt R          0.1  2  3  3  2  0
+Bartosh C*            0.0  0  0  0  1  0
+Miller M              0.1  0  0  0  1  0
+White R               1.0  0  0  0  1  1
+Riske D               2.0  3  0  0  1  4
+Jimenez J (L)         1.0  2  2  2  0  1
+  * Pitched to 1 batter in 6th
+
+E -- Clayton R, Vizquel O
+DP -- Colorado 1, Cleveland 1
+LOB -- Colorado 12, Cleveland 2
+2B -- Gerut J, Walker L, Broussard B
+3B -- Gerut J
+HR -- Walker L 3, Blake C, Broussard B
+SB -- Vizquel O, Clayton R
+SH -- Vizquel O
+HBP -- by Fassero J (Hafner T)
+WP -- Betancourt R
+T -- 3:29
+A -- 22642
+     Game of 6/26/2004 -- Colorado at Cleveland (N)
+
+  Colorado           AB  R  H RBI    Cleveland          AB  R  H RBI
+Gonzalez L, 2b-lf     4  0  0  0   Belliard R, 2b        5  0  4  0   
+Clayton R, ss         6  0  2  1   Vizquel O, ss         5  0  0  1   
+Helton T, 1b          4  1  2  1   Lawton M, lf          5  0  1  1   
+Wilson P, cf          6  0  0  0   Martinez V, dh        6  0  0  0   
+Walker L, dh          4  0  2  0   Blake C, 3b           6  1  3  0   
+Castilla V, 3b        4  0  1  1   Gerut J, rf           5  1  1  0   
+Holliday M, lf        2  0  0  0   Merloni L, 1b         3  0  2  1   
+Burnitz J, ph-rf      2  0  0  0   Broussard B, ph-1b    3  0  2  1   
+Miles A, 2b           1  0  0  0   Crisp C, cf           4  1  1  0   
+Greene T, c           4  1  2  0   Laker T, c            4  1  3  0   
+Hocking D, rf-lf-rf   4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  3 10  3                        46  4 17  4
+
+Colorado         000 000 120 000 --  3
+Cleveland        011 000 100 001 --  4
+  1 out when winning run was scored.
+
+  Colorado             IP  H  R ER BB SO
+Kennedy J             7.0 11  3  3  2  1
+Kroon M               0.1  1  0  0  0  1
+Harikkala T           2.2  3  0  0  2  1
+Reed S (L)            1.1  2  1  1  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C            1.0  0  0  0  0  0
+Tadano K              6.0  4  1  1  1  9
+White R               3.0  5  2  0  1  0
+Robertson J (W)       2.0  1  0  0  2  2
+
+E -- Greene T, Belliard R
+DP -- Colorado 3, Cleveland 2
+LOB -- Colorado 10, Cleveland 14
+2B -- Blake C, Belliard R 2, Greene T, Helton T, Broussard B
+SB -- Merloni L, Blake C
+SH -- Hocking D, Laker T, Gonzalez L 2, Vizquel O
+SF -- Helton T
+T -- 3:43
+A -- 29124
+     Game of 6/27/2004 -- Colorado at Cleveland (D)
+
+  Colorado           AB  R  H RBI    Cleveland          AB  R  H RBI
+Miles A, 2b           3  0  1  0   Lawton M, lf          4  1  2  2   
+Clayton R, ss         3  0  0  0   Vizquel O, ss         4  0  1  0   
+Helton T, 1b          3  1  1  0   Hafner T, dh          4  0  1  0   
+Walker L, rf          4  0  0  0   McDonald J, pr        0  0  0  0   
+Castilla V, 3b        4  0  1  1   Martinez V, c         3  2  2  1   
+Holliday M, lf        3  0  0  0   Gerut J, rf           4  0  1  0   
+Burnitz J, ph         1  0  0  0   Blake C, 3b           4  1  1  0   
+Sweeney M, dh         4  1  1  0   Broussard B, 1b       4  0  2  2   
+Johnson C, c          0  0  0  0   Belliard R, 2b        3  1  0  0   
+Greene T, c           2  1  1  2   Crisp C, cf           3  0  0  0   
+Hocking D, cf         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  3  5  3                        33  5 10  5
+
+Colorado         000 020 001 --  3
+Cleveland        010 001 21x --  5
+
+  Colorado             IP  H  R ER BB SO
+Jennings J (L)        7.1 10  5  5  2  4
+Lopez J               0.1  0  0  0  0  0
+Dohmann S             0.1  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Elarton S             6.0  2  2  2  3  4
+Miller M (W)          1.0  0  0  0  0  2
+Riske D               1.0  1  0  0  0  2
+Jimenez J (S)         1.0  2  1  1  0  1
+
+DP -- Colorado 1, Cleveland 2
+LOB -- Colorado 4, Cleveland 6
+2B -- Martinez V 2, Broussard B, Sweeney M, Lawton M, Hafner T, Castilla V
+HR -- Greene T
+HBP -- by Elarton S (Johnson C)
+Balk -- Jennings J
+PB -- Martinez V
+T -- 2:36
+A -- 27252
+     Game of 7/5/2004 -- Texas at Cleveland (N)
+
+  Texas              AB  R  H RBI    Cleveland          AB  R  H RBI
+Young E, lf           5  1  1  0   Belliard R, 2b        5  0  0  0   
+Young M, ss           5  2  2  0   Vizquel O, ss         3  2  2  0   
+Soriano A, 2b         5  2  1  2   Lawton M, lf          5  0  0  0   
+Teixeira M, 1b        3  3  2  2   Martinez V, c         4  1  1  1   
+Mench K, dh           5  0  2  1   Blake C, 3b           4  0  1  1   
+Blalock H, 3b         3  0  1  2   Hafner T, dh          2  1  1  1   
+Matthews G, rf        4  0  1  1   Merloni L, 1b         4  1  2  1   
+Barajas R, c          4  0  0  0   Gerut J, rf           4  0  0  0   
+Conti J, cf           4  0  1  0   Crisp C, cf           4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     38  8 11  8                        35  5  8  5
+
+Texas            303 200 000 --  8
+Cleveland        200 012 000 --  5
+
+  Texas                IP  H  R ER BB SO
+Rogers K (W)          5.1  7  5  5  2  2
+Almanzar C            1.2  0  0  0  1  1
+Shouse B              1.0  1  0  0  0  0
+Cordero F (S)         1.0  0  0  0  1  0
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (L)        3.0  8  6  6  1  4
+Jimenez J             4.0  3  2  0  1  4
+Howry B               2.0  0  0  0  0  3
+
+E -- Soriano A, Crisp C
+DP -- Texas 1, Cleveland 1
+LOB -- Texas 6, Cleveland 8
+2B -- Mench K, Vizquel O, Merloni L 2
+HR -- Soriano A
+SB -- Hafner T
+CS -- Conti J
+HBP -- by Sabathia C (Blalock H), by Rogers K (Hafner T)
+T -- 2:48
+A -- 25363
+     Game of 7/6/2004 -- Texas at Cleveland (N)
+
+  Texas              AB  R  H RBI    Cleveland          AB  R  H RBI
+Young E, lf           4  0  0  0   Belliard R, 2b        4  0  1  2   
+Young M, dh           3  0  2  0   Vizquel O, ss         3  0  1  0   
+Soriano A, 2b         4  0  0  0   Lawton M, lf          4  0  0  0   
+Teixeira M, 1b        3  1  2  1   Martinez V, c         3  1  0  0   
+Mench K, rf           4  0  1  0   Blake C, 3b           3  1  1  0   
+Blalock H, 3b         4  0  1  0   Merloni L, 1b         3  1  2  0   
+Matthews G, cf        4  0  0  0   Broussard B, 1b       0  0  0  0   
+Barajas R, c          1  0  0  0   Hafner T, dh          3  1  2  2   
+Ardoin D, c           1  0  0  0   Crisp C, cf           3  0  0  0   
+Alexander M, ss       3  0  0  0   Little M, rf          1  0  0  0   
+                                   Gerut J, ph-rf        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  6  1                        29  4  7  4
+
+Texas            000 000 100 --  1
+Cleveland        010 200 10x --  4
+
+  Texas                IP  H  R ER BB SO
+Bierbrodt N (L)       3.1  1  3  3  7  2
+Wasdin J              3.1  5  1  1  1  1
+Shouse B              0.2  1  0  0  1  0
+Brocail D             0.2  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (W)             6.2  4  1  1  2  5
+Miller M              0.1  0  0  0  1  1
+Wickman B             1.0  1  0  0  0  1
+Riske D (S)           1.0  1  0  0  0  2
+
+E -- Alexander M
+DP -- Cleveland 2
+LOB -- Texas 7, Cleveland 10
+2B -- Teixeira M, Merloni L, Hafner T, Mench K
+HR -- Teixeira M
+SB -- Vizquel O
+CS -- Young M, Vizquel O
+HBP -- by Lee C (Barajas R)
+WP -- Bierbrodt N
+T -- 2:49
+A -- 16796
+     Game of 7/7/2004 -- Texas at Cleveland (N)
+
+  Texas              AB  R  H RBI    Cleveland          AB  R  H RBI
+Young M, ss           4  1  2  2   Lawton M, lf          4  3  1  1   
+Blalock H, 3b         4  0  0  0   Vizquel O, ss         5  3  3  1   
+Soriano A, 2b         5  1  2  1   Hafner T, dh          4  0  1  2   
+Fullmer B, dh         5  2  3  2   Martinez V, c         4  1  1  2   
+Teixeira M, 1b        5  1  1  2   Blake C, 3b           5  0  2  1   
+Dellucci D, lf        3  2  1  0   Gerut J, rf           5  0  0  1   
+Matthews G, rf        5  1  3  2   Belliard R, 2b        4  1  1  0   
+Barajas R, c          5  1  2  0   Broussard B, 1b       3  0  2  0   
+Conti J, cf           4  0  0  0   Crisp C, cf           4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  9 14  9                        38  8 11  8
+
+Texas            111 001 410 --  9
+Cleveland        200 301 002 --  8
+
+  Texas                IP  H  R ER BB SO
+Drese R               4.0  6  5  4  4  0
+Mahay R (W)           2.1  1  1  1  0  4
+Francisco F           1.2  1  0  0  0  2
+Cordero F (S)         1.0  3  2  2  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Davis J               5.2  7  4  4  4  6
+Robertson J (L)       0.2  2  3  3  1  1
+White R               0.2  2  1  1  0  0
+Howry B               2.0  3  1  1  0  2
+
+E -- Davis J
+LOB -- Texas 9, Cleveland 8
+2B -- Hafner T, Fullmer B, Matthews G
+HR -- Fullmer B, Lawton M, Teixeira M, Matthews G, Soriano A
+SB -- Broussard B, Dellucci D
+CS -- Conti J
+HBP -- by Drese R (Broussard B)
+WP -- Davis J
+Balk -- Cordero F
+PB -- Barajas R
+T -- 3:12
+A -- 18499
+     Game of 7/8/2004 -- Texas at Cleveland (D)
+
+  Texas              AB  R  H RBI    Cleveland          AB  R  H RBI
+Young M, ss           5  1  1  1   Lawton M, lf          3  0  1  0   
+Blalock H, 3b         5  0  1  1   Little M, ph-lf       1  0  0  0   
+Soriano A, 2b         5  1  1  0   Vizquel O, ss         2  0  1  0   
+Alexander M, 2b       0  0  0  0   McDonald J, ph-ss     1  0  0  0   
+Fullmer B, dh         5  0  0  0   Hafner T, dh          3  0  0  0   
+Teixeira M, 1b        4  2  1  0   Martinez V, c         4  0  0  0   
+Dellucci D, lf        4  3  3  5   Blake C, 3b           4  0  0  0   
+Conti J, cf           0  0  0  0   Broussard B, 1b       4  0  0  0   
+Matthews G, cf-rf     4  1  1  0   Belliard R, 2b        3  0  1  0   
+Mench K, rf-lf        3  2  2  2   Gerut J, rf           3  0  0  0   
+Ardoin D, c           3  0  1  1   Crisp C, cf           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38 10 11 10                        31  0  3  0
+
+Texas            120 200 050 -- 10
+Cleveland        000 000 000 --  0
+
+  Texas                IP  H  R ER BB SO
+Rodriguez R (W)       9.0  3  0  0  2  6
+
+  Cleveland            IP  H  R ER BB SO
+Elarton S (L)         4.0  5  5  5  2  1
+Tadano K              3.1  5  5  5  2  4
+Bartosh C             0.2  1  0  0  0  0
+White R               1.0  0  0  0  0  0
+
+E -- Soriano A
+LOB -- Texas 5, Cleveland 6
+2B -- Teixeira M, Mench K, Dellucci D, Vizquel O, Belliard R
+HR -- Young M, Mench K, Dellucci D 2
+SB -- Lawton M
+WP -- Tadano K
+T -- 2:26
+A -- 24914
+     Game of 7/9/2004 -- Oakland at Cleveland (N)
+
+  Oakland            AB  R  H RBI    Cleveland          AB  R  H RBI
+Kotsay M, cf          2  1  2  2   Lawton M, lf          3  1  1  0   
+Byrnes E, lf          4  0  1  0   Vizquel O, ss         4  2  2  1   
+Chavez E, 3b          3  1  2  1   Hafner T, dh          5  1  1  1   
+Dye J, rf             5  0  0  0   Martinez V, c         3  0  0  0   
+Hatteberg S, 1b       3  0  1  1   Blake C, 3b-1b        4  0  0  0   
+Durazo E, dh          4  0  0  0   Broussard B, 1b       3  0  0  0   
+Crosby B, ss          4  0  0  0   McDonald J, pr-3b     0  0  0  0   
+Melhuse A, c          4  1  1  0   Merloni L, ph         1  0  1  2   
+Scutaro M, 2b         4  1  2  0   Belliard R, 2b        4  0  1  1   
+                                   Gerut J, rf           4  1  0  0   
+                                   Little M, cf          2  0  0  0   
+                                   Crisp C, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  9  4                        34  5  6  5
+
+Oakland          121 000 000 --  4
+Cleveland        000 010 013 --  5
+  2 outs when winning run was scored.
+
+  Oakland              IP  H  R ER BB SO
+Saarloos K            6.2  2  1  0  3  3
+Rincon R              1.0  0  1  0  0  1
+Mecir J               0.1  1  0  0  2  0
+Dotel O (L)           0.2  3  3  3  2  2
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J           6.1  8  4  4  4  2
+Miller M              0.1  0  0  0  0  0
+Bartosh C             0.1  0  0  0  0  1
+Wickman B             1.0  1  0  0  2  0
+Howry B (W)           1.0  0  0  0  1  1
+
+E -- Crosby B, Hatteberg S
+DP -- Cleveland 2
+LOB -- Oakland 11, Cleveland 11
+2B -- Scutaro M, Chavez E, Lawton M, Hatteberg S, Byrnes E, Hafner T
+SB -- Vizquel O 2, Durazo E
+SF -- Hatteberg S
+HBP -- by Westbrook J (Byrnes E), by Saarloos K (Little M)
+T -- 3:10
+A -- 24325
+     Game of 7/10/2004 -- Oakland at Cleveland (N)
+
+  Oakland            AB  R  H RBI    Cleveland          AB  R  H RBI
+Kotsay M, cf          6  1  4  3   Belliard R, 2b        5  0  0  0   
+Byrnes E, lf          6  1  1  0   Vizquel O, ss         4  1  1  0   
+Chavez E, 3b          4  3  3  0   Lawton M, lf          3  1  0  0   
+Dye J, rf             4  1  1  2   Blake C, 3b           3  1  0  0   
+Hatteberg S, 1b       5  2  1  0   Gerut J, ph           1  0  0  0   
+Kielty B, dh          3  0  1  2   Merloni L, 1b         4  1  1  1   
+Durazo E, ph          3  1  2  5   Hafner T, dh          4  3  4  4   
+Crosby B, ss          4  2  1  0   Laker T, c            3  0  1  1   
+Melhuse A, c          5  3  2  3   Crisp C, cf           4  0  3  1   
+Scutaro M, 2b         6  2  3  1   Little M, rf          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     46 16 19 16                        35  7 11  7
+
+Oakland          012 007 024 -- 16
+Cleveland        000 501 010 --  7
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          6.2  9  6  6  3  9
+Duchscherer J         1.1  2  1  1  0  1
+Bradford C            1.0  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C            5.0  5  3  3  4  5
+White R (L)           0.2  3  4  4  1  1
+Miller M*             0.0  1  2  2  1  0
+Bartosh C             0.1  2  1  1  0  1
+Robertson J           3.0  8  6  6  2  1
+  * Pitched to 2 batters in 6th
+
+E -- Mulder M, Byrnes E
+DP -- Oakland 1
+LOB -- Oakland 11, Cleveland 6
+2B -- Chavez E, Kielty B, Hafner T, Melhuse A, Kotsay M
+3B -- Kotsay M
+HR -- Durazo E, Hafner T, Melhuse A
+SB -- Crosby B, Vizquel O
+CS -- Crisp C
+SH -- Vizquel O
+SF -- Laker T
+WP -- Mulder M 2
+T -- 3:15
+A -- 28448
+     Game of 7/11/2004 -- Oakland at Cleveland (D)
+
+  Oakland            AB  R  H RBI    Cleveland          AB  R  H RBI
+Kotsay M, cf          4  1  2  0   Belliard R, 2b        4  1  1  0   
+Kielty B, lf-rf       3  0  0  0   Crisp C, cf           4  2  3  2   
+McLemore M, ph        0  0  0  0   Lawton M, lf          4  1  1  0   
+Chavez E, 3b          5  0  1  1   Martinez V, c         4  0  2  0   
+Dye J, rf             4  0  2  0   Blake C, 3b           2  0  1  0   
+Byrnes E, pr-lf       0  0  0  0   Hafner T, dh          4  0  1  2   
+Durazo E, dh          4  0  1  0   Merloni L, 1b         3  0  0  0   
+Karros E, 1b          3  0  1  0   Broussard B, 1b       1  0  0  0   
+Hatteberg S, ph-1b    1  0  0  0   Gerut J, rf           0  0  0  0   
+Crosby B, ss          4  0  0  0   McDonald J, ss        3  0  0  0   
+Miller D, c           3  0  0  0                                      
+Scutaro M, 2b         4  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  1  9  1                        29  4  9  4
+
+Oakland          001 000 000 --  1
+Cleveland        000 101 02x --  4
+
+  Oakland              IP  H  R ER BB SO
+Zito B (L)            7.0  6  2  2  4  6
+Dotel O               1.0  3  2  2  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (W)             7.0  6  1  1  3  5
+Wickman B             1.0  2  0  0  0  1
+Riske D (S)           1.0  1  0  0  1  0
+
+DP -- Cleveland 1
+LOB -- Oakland 11, Cleveland 6
+2B -- Chavez E, Crisp C, Blake C, Scutaro M
+HR -- Crisp C
+CS -- Gerut J, Crisp C
+HBP -- by Dotel O (Blake C)
+T -- 2:55
+A -- 24622
+     Game of 7/21/2004 -- Chicago at Cleveland (N)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Rowand A, cf          5  1  3  1   Belliard R, 2b        3  0  0  0   
+Valentin J, ss        5  1  1  2   McDonald J, 2b        0  0  0  0   
+Ordonez M, rf         2  2  2  0   Vizquel O, ss         3  0  1  0   
+Perez T, pr-rf        2  0  1  1   Lawton M, lf          3  0  0  0   
+Lee C, lf             4  3  3  4   Martinez V, c         2  0  0  0   
+Gload R, lf           2  0  0  0   Laker T, c            1  0  1  0   
+Everett C, dh         4  1  1  1   Blake C, 3b           3  0  0  0   
+Konerko P, 1b         4  1  3  1   Hafner T, dh          3  0  0  0   
+Crede J, 3b           4  1  2  1   Merloni L, 1b         3  0  0  0   
+Harris W, ph-2b       1  0  0  0   Gerut J, rf           3  0  0  0   
+Uribe J, 2b-3b        3  1  0  1   Crisp C, cf           2  0  0  0   
+Burke J, c            5  3  3  1   Sizemore G, cf        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41 14 19 13                        27  0  2  0
+
+Chicago          302 060 102 -- 14
+Cleveland        000 000 000 --  0
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (W)         9.0  2  0  0  0  4
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (L)*            4.0  9  7  7  2  4
+Robertson J           0.2  4  4  4  0  0
+Howry B               2.1  3  1  1  0  4
+Miller M              2.0  3  2  2  0  1
+  * Pitched to 2 batters in 5th
+
+DP -- Chicago 2, Cleveland 2
+LOB -- Chicago 8, Cleveland 0
+2B -- Rowand A, Konerko P, Burke J 2
+HR -- Lee C 2, Valentin J
+SF -- Konerko P, Uribe J
+HBP -- by Lee C (Everett C), by Robertson J (Ordonez M), by Miller M (Uribe J), by Miller M (Valentin J)
+T -- 2:31
+A -- 21922
+     Game of 7/22/2004 -- Chicago at Cleveland (N)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Rowand A, cf          4  1  1  0   Lawton M, lf          4  0  1  0   
+Harris W, 2b          3  2  1  0   Crisp C, lf           0  0  0  0   
+Lee C, lf             4  0  0  0   Vizquel O, ss         3  0  1  0   
+Konerko P, 1b         4  0  0  1   Hafner T, dh          4  0  1  0   
+Everett C, dh         3  0  2  2   Martinez V, c         3  0  1  0   
+Crede J, 3b           4  0  2  0   Blake C, 3b           4  0  0  0   
+Perez T, rf           3  0  1  0   Broussard B, 1b       3  0  1  0   
+Uribe J, ss           3  0  0  0   Gerut J, rf           4  0  1  0   
+Davis B, c            3  0  1  0   Belliard R, 2b        4  0  0  0   
+Gload R, ph           1  0  0  0   Sizemore G, cf        3  0  0  0   
+Burke J, c            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  8  3                        32  0  6  0
+
+Chicago          000 102 000 --  3
+Cleveland        000 000 000 --  0
+
+  Chicago              IP  H  R ER BB SO
+Garcia F (W)*         7.0  5  0  0  3  9
+Politte C             1.0  1  0  0  0  0
+Takatsu S (S)         1.0  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (L)        7.0  7  3  3  1  7
+Betancourt R          1.0  0  0  0  0  2
+Riske D               1.0  1  0  0  2  0
+  * Pitched to 1 batter in 8th
+
+E -- Uribe J
+DP -- Chicago 1, Cleveland 1
+LOB -- Chicago 6, Cleveland 8
+2B -- Perez T, Rowand A, Gerut J
+SB -- Lawton M, Davis B
+SH -- Perez T
+T -- 2:31
+A -- 23168
+     Game of 7/23/2004 -- Kansas City at Cleveland (N)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+DeJesus D, cf         4  0  0  0   Lawton M, lf          3  0  1  0   
+Graffanino T, 2b      4  1  2  0   Crisp C, lf           2  0  1  0   
+Sweeney M, 1b         5  1  3  1   Vizquel O, ss         4  0  1  0   
+Stairs M, rf          5  0  1  1   Hafner T, dh          4  1  1  0   
+Harvey K, dh          5  0  1  0   McDonald J, pr        0  0  0  0   
+Berroa A, ss          5  0  2  0   Martinez V, c         5  0  1  1   
+Relaford D, 3b        4  0  0  0   Gerut J, rf           5  0  1  0   
+Mateo R, lf           5  0  2  0   Blake C, 3b           3  0  0  0   
+Buck J, c             4  0  0  0   Broussard B, 1b       4  1  4  1   
+Brown D, ph           1  0  0  0   Merloni L, 2b         4  1  0  0   
+Castillo A, c         0  0  0  0   Sizemore G, cf        4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     42  2 11  2                        38  3 11  3
+
+Kansas City      100 010 000 00 --  2
+Cleveland        001 001 000 01 --  3
+  1 out when winning run was scored.
+
+  Kansas City          IP  H  R ER BB SO
+Wood M                6.2  8  2  2  0  3
+Cerda J*              1.1  2  0  0  0  1
+Sullivan S            0.2  0  0  0  1  0
+Reyes D               1.1  0  0  0  0  1
+Field N (L)           0.1  1  1  1  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Elarton S             6.0  6  2  2  2  5
+Miller M              1.0  1  0  0  0  2
+Betancourt R          1.0  1  0  0  0  0
+Wickman B             1.0  0  0  0  0  2
+Riske D               1.0  2  0  0  0  1
+White R (W)           1.0  1  0  0  0  2
+  * Pitched to 1 batter in 9th
+
+E -- Cerda J, Berroa A
+DP -- Kansas City 2, Cleveland 1
+LOB -- Kansas City 10, Cleveland 9
+2B -- Broussard B 2, Sizemore G, Hafner T, Martinez V, Berroa A
+HR -- Sweeney M, Broussard B
+CS -- Blake C
+SH -- Vizquel O, Blake C, Relaford D
+HBP -- by Wood M (Blake C), by Reyes D (Hafner T)
+T -- 3:27
+A -- 26504
+     Game of 7/24/2004, game 1 -- Kansas City at Cleveland (D)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+DeJesus D, cf         4  1  0  0   Crisp C, lf           5  2  1  1   
+Graffanino T, 2b      4  1  1  2   Vizquel O, ss         3  1  1  1   
+Sweeney M, dh         4  0  3  0   McDonald J, ph-ss     2  0  1  0   
+Stairs M, rf          2  0  0  0   Belliard R, 2b        5  1  2  3   
+Mateo R, rf           2  0  1  0   Martinez V, dh        5  2  3  1   
+Harvey K, 1b          4  0  0  0   Blake C, 3b           4  1  1  0   
+Brown D, lf           4  0  1  0   Merloni L, 1b         4  1  2  1   
+Berroa A, ss          2  0  0  0   Gerut J, rf           4  1  1  2   
+Bautista J, 3b        1  0  0  0   Laker T, c            4  1  1  1   
+Relaford D, 3b-ss     3  0  0  0   Sizemore G, cf        3  0  1  0   
+Castillo A, c         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  6  2                        39 10 14 10
+
+Kansas City      000 000 002 --  2
+Cleveland        082 000 00x -- 10
+
+  Kansas City          IP  H  R ER BB SO
+George C (L)          3.0 11 10 10  2  1
+Camp S                5.0  3  0  0  0  5
+
+  Cleveland            IP  H  R ER BB SO
+Durbin C (W)          9.0  6  2  1  0  3
+
+E -- Berroa A, Blake C
+DP -- Cleveland 1
+LOB -- Kansas City 4, Cleveland 7
+2B -- Belliard R, Crisp C, Vizquel O, Sweeney M 2, Sizemore G
+HR -- Graffanino T
+SB -- Sweeney M
+WP -- Durbin C
+T -- 2:07
+A -- 18873
+     Game of 7/24/2004, game 2 -- Kansas City at Cleveland (N)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+DeJesus D, cf         5  0  1  1   Crisp C, cf-lf        4  0  0  0   
+Graffanino T, 2b      4  1  2  1   Vizquel O, ss         4  1  2  1   
+Sweeney M, 1b         5  0  1  0   Belliard R, 2b        3  0  1  1   
+Stairs M, rf          4  0  1  0   Martinez V, c         4  0  1  0   
+Harvey K, dh          4  0  1  1   McDonald J, pr        0  1  0  0   
+Randa J, 3b           3  0  0  0   Hafner T, dh          4  0  1  0   
+Berroa A, ss          4  0  0  0   Blake C, 3b           3  0  0  0   
+Mateo R, lf           3  2  1  0   Lawton M, ph          0  0  0  0   
+Buck J, c             3  0  1  0   Laker T, pr           0  1  0  0   
+                                   Broussard B, 1b       3  1  1  1   
+                                   Merloni L, lf         3  0  1  0   
+                                   Sizemore G, pr-cf     1  0  1  1   
+                                   Gerut J, rf           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        31  4  8  4
+
+Kansas City      100 001 010 --  3
+Cleveland        000 000 112 --  4
+  2 outs when winning run was scored.
+
+  Kansas City          IP  H  R ER BB SO
+Anderson B            6.0  2  0  0  0  4
+Reyes D               1.0  2  1  1  0  1
+Bukvich R*            1.0  2  2  2  2  1
+Cerda J               0.2  0  0  0  0  0
+Sullivan S (L)+       0.0  0  1  1  1  0
+Seanez R              0.0  2  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Tadano K              5.0  5  1  1  5  2
+Howry B               2.0  2  1  1  0  1
+Miller M (W)          2.0  1  1  1  0  5
+  * Pitched to 1 batter in 9th
+  + Pitched to 1 batter in 9th
+
+E -- Merloni L, Berroa A
+DP -- Kansas City 2
+LOB -- Kansas City 11, Cleveland 5
+2B -- Graffanino T 2, Stairs M, Hafner T, Mateo R, Belliard R
+SH -- Gerut J
+HBP -- by Miller M (Mateo R)
+Balk -- Reyes D, Miller M
+PB -- Buck J
+T -- 2:54
+A -- 27865
+     Game of 7/25/2004 -- Kansas City at Cleveland (D)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+DeJesus D, cf         4  0  1  0   Gerut J, rf           4  1  2  0   
+Graffanino T, 2b      4  0  1  0   Vizquel O, ss         3  0  1  0   
+Sweeney M, dh         4  0  0  0   Hafner T, dh          3  1  1  1   
+Stairs M, rf          4  1  1  0   Blake C, 3b           4  1  2  0   
+Harvey K, 1b          4  0  1  0   Broussard B, 1b       3  1  0  0   
+Randa J, 3b           4  0  2  1   Belliard R, 2b        4  0  1  2   
+Berroa A, ss          3  0  0  0   Crisp C, lf           4  0  0  1   
+Brown D, lf           3  0  0  0   Sizemore G, cf        3  1  1  1   
+Buck J, c             1  0  0  0   Laker T, c            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  6  1                        31  5  8  5
+
+Kansas City      000 100 000 --  1
+Cleveland        400 000 10x --  5
+
+  Kansas City          IP  H  R ER BB SO
+Greinke Z (L)         6.2  8  5  5  1  3
+Field N               1.1  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (W)       9.0  6  1  0  2  3
+
+E -- Vizquel O, Buck J
+DP -- Cleveland 2
+LOB -- Kansas City 5, Cleveland 5
+2B -- Gerut J, Blake C, Harvey K
+HR -- Sizemore G
+SH -- Vizquel O
+T -- 2:09
+A -- 23540
+     Game of 7/26/2004 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Infante O, 2b         6  1  2  1   Belliard R, 2b        4  2  1  0   
+Guillen C, ss         4  2  2  4   Vizquel O, ss         3  0  1  0   
+Smith J, ph-ss        1  0  0  0   McDonald J, ss        2  1  1  1   
+Rodriguez I, c        4  0  0  0   Lawton M, lf          3  0  0  0   
+DiFelice M, c         1  0  0  0   Sizemore G, cf        1  0  1  1   
+Young D, 1b           3  2  2  0   Martinez V, c         5  0  2  1   
+Shelton C, 1b         1  0  0  0   Blake C, 3b           4  0  0  0   
+White R, dh           4  2  1  2   Hafner T, dh          4  0  1  0   
+Munson E, ph          0  0  0  0   Merloni L, 1b         3  1  1  1   
+Thames M, lf          5  2  3  2   Gerut J, rf           4  0  0  0   
+Higginson B, rf       4  1  1  1   Crisp C, cf-lf        4  0  0  0   
+Inge B, 3b            5  2  4  2                                      
+Logan N, cf           4  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42 13 17 12                        37  4  8  4
+
+Detroit          600 061 000 -- 13
+Cleveland        001 100 200 --  4
+
+  Detroit              IP  H  R ER BB SO
+Maroth M (W)          7.0  8  4  4  1  3
+Yan E                 2.0  0  0  0  1  1
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (L)             0.2  6  6  6  1  2
+White R               3.2  5  3  3  1  0
+Miller M              1.2  4  4  4  1  1
+Howry B               2.0  0  0  0  0  3
+Riske D               1.0  2  0  0  0  0
+
+E -- Guillen C, Smith J
+DP -- Cleveland 2
+LOB -- Detroit 6, Cleveland 9
+2B -- Guillen C, White R, Thames M, Inge B
+3B -- Infante O, McDonald J
+HR -- Thames M, Merloni L, Guillen C
+HBP -- by Maroth M (Belliard R), by Howry B (Munson E)
+WP -- Miller M, Maroth M
+T -- 3:00
+A -- 18359
+     Game of 7/27/2004 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Infante O, 2b         5  0  0  0   Crisp C, lf           5  2  3  5   
+Guillen C, ss         4  0  0  0   Vizquel O, ss         5  0  2  1   
+Rodriguez I, c        4  1  1  0   Lawton M, dh          5  1  1  0   
+Young D, 1b           1  3  0  0   Martinez V, c         4  0  0  0   
+White R, dh           4  1  2  3   Broussard B, 1b       5  1  1  1   
+Thames M, lf          4  1  1  0   Blake C, 3b           5  2  3  1   
+Higginson B, rf       3  0  2  3   Gerut J, rf           3  1  2  0   
+Inge B, 3b            4  0  0  0   Belliard R, 2b        3  2  1  0   
+Logan N, cf           4  0  2  0   Sizemore G, cf        1  1  0  1   
+                     -- -- -- --                        -- -- -- --
+                     33  6  8  6                        36 10 13  9
+
+Detroit          013 001 010 --  6
+Cleveland        052 011 10x -- 10
+
+  Detroit              IP  H  R ER BB SO
+Knotts G (L)          2.1  7  7  7  3  3
+Patterson D           2.1  2  1  1  2  0
+Bonderman J           1.1  2  1  1  0  2
+Walker J              1.0  2  1  1  0  0
+Urbina U              1.0  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        6.0  6  5  5  3  3
+Betancourt R          1.0  1  0  0  0  1
+Riske D               1.0  1  1  1  1  1
+Wickman B             1.0  0  0  0  0  3
+
+E -- Gerut J, Rodriguez I
+DP -- Detroit 1
+LOB -- Detroit 5, Cleveland 8
+2B -- Thames M, Blake C 2, Logan N, Vizquel O
+HR -- Crisp C, White R, Broussard B
+SB -- Lawton M
+CS -- Logan N
+SF -- Higginson B
+HBP -- by Knotts G (Sizemore G)
+WP -- Knotts G
+PB -- Martinez V
+T -- 3:04
+A -- 19090
+     Game of 7/28/2004 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Smith J, 2b           4  2  2  1   Belliard R, 2b        4  0  0  1   
+Guillen C, ss         4  2  2  2   Vizquel O, ss         4  2  1  0   
+Rodriguez I, c        4  0  1  0   Lawton M, lf          5  0  2  1   
+Young D, dh           3  0  0  1   Martinez V, c         4  1  2  0   
+White R, lf           4  0  1  0   Blake C, 3b           4  1  3  3   
+Pena C, 1b            4  0  0  0   Merloni L, 1b         4  0  0  0   
+Thames M, rf          4  0  0  0   Broussard B, 1b       0  0  0  0   
+Munson E, 3b          2  0  0  0   Gerut J, rf           4  1  1  0   
+Logan N, cf           3  0  0  0   Crisp C, dh           3  0  1  0   
+                                   Sizemore G, cf        2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  6  4                        34  5 11  5
+
+Detroit          000 202 000 --  4
+Cleveland        101 001 20x --  5
+
+  Detroit              IP  H  R ER BB SO
+Robertson N           6.0  9  3  2  3  4
+Walker J (L)          1.0  2  2  2  0  1
+Yan E                 1.0  0  0  0  2  0
+
+  Cleveland            IP  H  R ER BB SO
+Elarton S (W)         7.0  6  4  4  1  5
+Betancourt R          1.0  0  0  0  0  0
+Wickman B (S)         1.0  0  0  0  0  0
+
+E -- Guillen C
+DP -- Detroit 2
+LOB -- Detroit 3, Cleveland 10
+2B -- Vizquel O
+HR -- Smith J, Guillen C, Blake C
+SB -- Sizemore G
+SF -- Young D
+T -- 2:32
+A -- 23213
+     Game of 8/10/2004 -- Toronto at Cleveland (N)
+
+  Toronto            AB  R  H RBI    Cleveland          AB  R  H RBI
+Rios A, rf            4  0  1  0   Lawton M, rf          4  0  2  0   
+Hudson O, 2b          4  0  2  0   Vizquel O, ss         4  0  0  0   
+Wells V, cf           3  0  0  0   Hafner T, dh          4  0  0  0   
+Delgado C, 1b         4  0  1  0   Martinez V, c         4  0  0  0   
+Hinske E, 3b          4  0  0  0   Broussard B, 1b       3  1  2  0   
+Catalanotto F, dh     3  0  0  0   Blake C, 3b           4  1  1  0   
+Zaun G, c             2  0  1  0   Crisp C, lf           2  0  1  0   
+Gross G, lf           3  0  0  0   Belliard R, 2b        3  0  2  2   
+Woodward C, ss        3  0  0  0   Sizemore G, cf        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        31  2  8  2
+
+Toronto          000 000 000 --  0
+Cleveland        020 000 00x --  2
+
+  Toronto              IP  H  R ER BB SO
+Bush D (L)            7.0  8  2  2  0  7
+Ligtenberg K          1.0  0  0  0  1  0
+
+  Cleveland            IP  H  R ER BB SO
+Durbin C (W)          7.0  4  0  0  3  7
+Howry B               1.0  1  0  0  0  0
+Wickman B (S)         1.0  0  0  0  0  1
+
+DP -- Cleveland 2
+LOB -- Toronto 6, Cleveland 7
+2B -- Lawton M, Belliard R, Delgado C
+3B -- Hudson O
+SH -- Crisp C
+T -- 2:18
+A -- 19942
+     Game of 8/11/2004 -- Toronto at Cleveland (N)
+
+  Toronto            AB  R  H RBI    Cleveland          AB  R  H RBI
+Johnson R, lf         4  1  1  0   Lawton M, rf          4  1  1  1   
+Hudson O, 2b          4  0  2  0   Gerut J, pr-rf        0  0  0  0   
+Wells V, cf           4  0  0  0   Vizquel O, ss         3  1  1  0   
+Delgado C, 1b         4  0  1  1   Hafner T, dh          1  0  0  0   
+Menechino F, 3b       4  1  1  0   Martinez V, c         4  0  2  1   
+Rios A, rf            2  0  1  0   Broussard B, 1b       3  0  0  0   
+Gomez C, ss           3  0  0  0   Blake C, 3b           4  0  1  0   
+Catalanotto F, ph     1  0  0  0   Crisp C, lf           3  1  1  0   
+Hinske E, pr          0  0  0  0   Belliard R, 2b        3  0  1  0   
+Woodward C, dh        4  0  1  1   Sizemore G, cf        2  0  0  1   
+Cash K, c             2  0  0  0                                      
+Zaun G, ph-c          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        27  3  7  3
+
+Toronto          000 011 000 --  2
+Cleveland        001 011 00x --  3
+
+  Toronto              IP  H  R ER BB SO
+Miller J              4.1  4  2  2  4  1
+Frederick K (L)       1.2  2  1  1  0  0
+Speier J              1.2  1  0  0  2  2
+Chulk V               0.1  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        7.0  5  2  2  2  5
+Howry B               1.0  1  0  0  1  1
+Wickman B (S)         1.0  1  0  0  0  1
+
+E -- Belliard R
+DP -- Toronto 2, Cleveland 2
+LOB -- Toronto 7, Cleveland 11
+2B -- Blake C, Belliard R, Martinez V
+HR -- Lawton M
+CS -- Vizquel O
+SF -- Sizemore G
+HBP -- by Miller J (Broussard B), by Frederick K (Hafner T), by Speier J (Sizemore G), by Speier J (Lawton M)
+PB -- Cash K
+T -- 2:44
+A -- 23696
+     Game of 8/12/2004 -- Toronto at Cleveland (N)
+
+  Toronto            AB  R  H RBI    Cleveland          AB  R  H RBI
+Johnson R, lf         3  1  1  0   Belliard R, 2b        3  1  1  0   
+Hudson O, 2b          4  1  1  1   Crisp C, lf           4  2  1  1   
+Wells V, cf           3  0  0  0   Lawton M, rf          1  1  0  0   
+Delgado C, 1b         2  0  1  1   Blake C, 3b           2  1  0  1   
+Menechino F, dh       3  0  0  0   Phelps J, 1b          3  0  1  0   
+Catalanotto F, ph     1  0  0  0   Broussard B, ph-1b    1  1  1  4   
+Hinske E, 3b          4  0  0  0   Hafner T, dh          3  0  1  0   
+Rios A, rf            4  0  0  0   Laker T, c            4  0  0  0   
+Woodward C, ss        4  0  0  0   Sizemore G, cf        4  0  1  0   
+Cash K, c             3  0  0  0   McDonald J, ss        4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  3  2                        29  6  7  6
+
+Toronto          001 010 000 --  2
+Cleveland        000 010 50x --  6
+
+  Toronto              IP  H  R ER BB SO
+Lilly T               6.2  5  2  2  5  5
+Ligtenberg K (L)*     0.0  0  3  3  3  0
+Chulk V               0.1  1  1  1  0  1
+Frasor J              1.0  1  0  0  1  1
+
+  Cleveland            IP  H  R ER BB SO
+Lee C                 6.0  3  2  2  3  8
+Riske D (W)           1.0  0  0  0  1  0
+Betancourt R          2.0  0  0  0  0  0
+  * Pitched to 3 batters in 7th
+
+E -- McDonald J
+DP -- Toronto 2
+LOB -- Toronto 6, Cleveland 8
+2B -- McDonald J
+HR -- Hudson O, Crisp C, Broussard B
+WP -- Lee C
+T -- 2:41
+A -- 22734
+     Game of 8/13/2004 -- Minnesota at Cleveland (N)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, lf         4  0  1  0   Lawton M, lf          4  1  1  0   
+Guzman C, ss          4  0  0  0   Vizquel O, ss         5  2  4  1   
+Ford L, dh            4  0  3  0   Hafner T, dh          3  1  2  1   
+Morneau J, 1b         4  0  0  0   Martinez V, c         4  1  1  2   
+Hunter T, cf          3  0  2  0   Blake C, 3b           4  1  1  0   
+Jones J, rf           4  1  1  1   Broussard B, 1b       4  1  2  3   
+Cuddyer M, 3b         4  1  2  0   Belliard R, 2b        4  0  0  0   
+Blanco H, c           3  0  1  1   Gerut J, rf           4  0  0  0   
+Bowen R, c            0  0  0  0   Crisp C, cf           4  1  2  1   
+LeCroy M, ph          1  0  0  0                                      
+Rivas L, 2b           3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  2 10  2                        36  8 13  8
+
+Minnesota        010 100 000 --  2
+Cleveland        510 200 00x --  8
+
+  Minnesota            IP  H  R ER BB SO
+Silva C (L)           2.0  6  6  6  1  0
+Guerrier M            1.2  3  2  2  2  1
+Roa J                 4.0  4  0  0  2  3
+Crain J               0.1  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Elarton S (W)         7.0  7  2  2  1  4
+Miller M              1.0  1  0  0  0  1
+White R               1.0  2  0  0  0  1
+
+E -- Blanco H, Bowen R
+DP -- Minnesota 1, Cleveland 3
+LOB -- Minnesota 6, Cleveland 9
+2B -- Martinez V, Blanco H, Hafner T, Ford L, Vizquel O, Crisp C, Hunter T
+HR -- Broussard B, Jones J, Crisp C
+T -- 2:40
+A -- 30101
+     Game of 8/14/2004 -- Minnesota at Cleveland (N)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, lf         4  1  3  1   Lawton M, lf          4  0  0  0   
+Guzman C, ss          4  0  0  0   Vizquel O, ss         4  2  2  0   
+Ford L, dh            3  0  1  0   Hafner T, dh          3  2  1  2   
+Morneau J, 1b         4  0  0  0   Martinez V, c         4  1  1  3   
+Hunter T, cf          4  0  1  0   Blake C, 3b           4  1  2  1   
+Jones J, rf           4  0  2  0   Broussard B, 1b       3  1  0  0   
+Koskie C, 3b          3  0  1  0   Belliard R, 2b        4  0  2  1   
+Cuddyer M, 2b         4  0  0  0   Gerut J, rf           3  0  0  0   
+Blanco H, c           2  0  0  0   Crisp C, cf           3  0  0  0   
+LeCroy M, ph-c        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  8  1                        32  7  8  7
+
+Minnesota        000 001 000 --  1
+Cleveland        400 030 00x --  7
+
+  Minnesota            IP  H  R ER BB SO
+Lohse K (L)           5.0  7  7  7  2  3
+Romero J              2.0  1  0  0  0  2
+Rincon J              1.0  0  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (W)       7.0  5  1  1  2  4
+Betancourt R          1.0  2  0  0  0  1
+Howry B               1.0  1  0  0  0  1
+
+DP -- Cleveland 2
+LOB -- Minnesota 7, Cleveland 3
+2B -- Belliard R, Jones J
+3B -- Blake C
+HR -- Hafner T, Blake C, Martinez V, Stewart S
+SB -- Vizquel O
+T -- 2:31
+A -- 40942
+     Game of 8/15/2004 -- Minnesota at Cleveland (D)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, dh         4  0  0  0   Belliard R, 2b        4  1  0  0   
+Jones J, rf           4  0  1  0   Vizquel O, ss         5  0  1  0   
+Hunter T, cf          5  0  0  0   Lawton M, rf          5  0  0  0   
+Morneau J, 1b         4  0  2  0   Blake C, 3b           5  0  2  0   
+Cuddyer M, 1b         0  0  0  0   Hafner T, dh          3  0  0  0   
+Ford L, lf            2  2  1  0   Phelps J, 1b          3  1  1  0   
+Koskie C, 3b          5  2  3  2   Broussard B, 1b       1  0  1  0   
+Guzman C, ss          5  0  0  0   Crisp C, lf           3  0  1  0   
+Bowen R, c            1  0  0  0   Sizemore G, cf        3  0  0  1   
+Offerman J, ph        1  0  1  2   Laker T, c            3  0  1  0   
+Blanco H, c           2  0  1  0   Martinez V, ph-c      0  0  0  0   
+Rivas L, 2b           5  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  4  9  4                        35  2  7  1
+
+Minnesota        000 002 000 2 --  4
+Cleveland        110 000 000 0 --  2
+
+  Minnesota            IP  H  R ER BB SO
+Mulholland T          8.0  6  2  1  1  2
+Romero J              0.2  1  0  0  1  0
+Rincon J (W)          0.1  0  0  0  0  0
+Nathan J (S)          1.0  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Durbin C              5.0  2  0  0  4  2
+Betancourt R          0.2  3  2  2  0  0
+Miller M              1.1  1  0  0  1  1
+Howry B               1.0  1  0  0  0  0
+Wickman B             1.0  0  0  0  0  0
+White R (L)           1.0  2  2  2  0  0
+
+E -- Mulholland T, Koskie C, Belliard R
+DP -- Minnesota 1, Cleveland 1
+LOB -- Minnesota 11, Cleveland 8
+2B -- Blake C, Morneau J, Koskie C, Offerman J, Blanco H
+HR -- Koskie C
+SB -- Offerman J
+CS -- Jones J
+SH -- Crisp C
+SF -- Sizemore G
+HBP -- by Mulholland T (Hafner T), by Durbin C (Ford L), by White R (Ford L)
+T -- 3:15
+A -- 38019
+     Game of 8/23/2004 -- New York at Cleveland (N)
+
+  New York           AB  R  H RBI    Cleveland          AB  R  H RBI
+Williams B, cf        4  1  2  0   Crisp C, cf           5  0  1  0   
+Jeter D, ss           4  0  2  1   Vizquel O, ss         4  0  0  0   
+Wilson E, pr-2b       0  1  0  0   Lawton M, lf          3  0  0  0   
+Sheffield G, rf-3b    2  2  1  2   Martinez V, c         4  0  0  0   
+Rodriguez A, 3b-ss    5  0  1  0   Hafner T, dh          3  1  2  0   
+Posada J, c           4  0  1  0   McDonald J, pr        0  1  0  0   
+Matsui H, lf          3  1  0  0   Blake C, 3b           4  1  2  1   
+Sierra R, dh          4  0  1  1   Broussard B, 1b       4  0  0  0   
+Clark T, 1b           4  1  1  2   Belliard R, 2b        4  1  2  2   
+Cairo M, 2b           3  0  0  0   Gerut J, rf           3  0  1  1   
+Lofton K, ph-rf       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  6  9  6                        34  4  8  4
+
+New York         120 000 012 --  6
+Cleveland        020 100 010 --  4
+
+  New York             IP  H  R ER BB SO
+Mussina M             5.0  4  3  3  3  6
+Quantrill P           2.0  2  0  0  0  0
+Gordon T (W)          1.0  2  1  1  0  2
+Rivera M (S)          1.0  0  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Lee C                 6.0  6  3  3  3  4
+Betancourt R          0.2  0  0  0  1  2
+Miller M              0.1  0  0  0  0  0
+Howry B               1.0  2  1  1  1  0
+Wickman B (L)         1.0  1  2  2  0  0
+
+DP -- New York 1, Cleveland 1
+LOB -- New York 7, Cleveland 6
+2B -- Williams B, Blake C, Posada J, Hafner T
+3B -- Gerut J
+HR -- Clark T, Sheffield G
+SB -- Lawton M
+CS -- Williams B
+HBP -- by Wickman B (Jeter D)
+T -- 3:15
+A -- 33172
+     Game of 8/24/2004 -- New York at Cleveland (N)
+
+  New York           AB  R  H RBI    Cleveland          AB  R  H RBI
+Williams B, dh        5  0  0  0   Crisp C, lf           4  1  2  2   
+Jeter D, ss           4  2  2  1   Vizquel O, ss         4  1  2  0   
+Sheffield G, rf       5  0  0  0   Hafner T, dh          3  1  0  0   
+Rodriguez A, 3b       5  0  3  0   Martinez V, c         3  0  1  2   
+Matsui H, lf          5  1  2  1   Broussard B, 1b       4  0  1  0   
+Posada J, c           3  1  1  1   Blake C, 3b           3  0  0  0   
+Olerud J, 1b          2  1  2  1   Gerut J, rf           3  1  1  0   
+Wilson E, pr-2b       1  0  1  0   Belliard R, 2b        4  0  0  0   
+Cairo M, 2b           2  0  1  0   Sizemore G, cf        3  0  0  0   
+Sierra R, ph          0  0  0  0   Lawton M, ph          1  0  0  0   
+Clark T, 1b           0  0  0  0                                      
+Lofton K, cf          3  0  0  1                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5 12  5                        32  4  7  4
+
+New York         100 102 001 --  5
+Cleveland        004 000 000 --  4
+
+  New York             IP  H  R ER BB SO
+Vazquez J             7.0  6  4  4  3  4
+Gordon T (W)          1.0  1  0  0  1  0
+Rivera M (S)          1.0  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Elarton S             6.0  9  4  4  1  5
+Miller M              0.2  1  0  0  0  0
+Betancourt R          0.1  0  0  0  0  0
+Howry B               1.0  0  0  0  2  0
+Wickman B (L)         0.2  1  1  1  2  1
+Riske D               0.1  1  0  0  0  0
+
+DP -- New York 2
+LOB -- New York 11, Cleveland 5
+2B -- Martinez V, Matsui H, Cairo M, Olerud J, Rodriguez A
+3B -- Broussard B
+HR -- Jeter D, Crisp C, Posada J
+SB -- Jeter D 2, Matsui H
+SH -- Cairo M
+SF -- Olerud J, Lofton K
+WP -- Vazquez J
+Balk -- Vazquez J
+T -- 3:18
+A -- 31729
+     Game of 8/25/2004 -- New York at Cleveland (N)
+
+  New York           AB  R  H RBI    Cleveland          AB  R  H RBI
+Williams B, cf        5  1  2  1   Lawton M, lf          5  1  1  0   
+Jeter D, ss           4  0  1  0   Vizquel O, ss         4  0  1  1   
+Sheffield G, rf       2  0  0  0   Hafner T, dh          3  0  1  1   
+Rodriguez A, 3b       4  0  0  0   Martinez V, c         4  0  1  0   
+Matsui H, lf          4  1  1  0   Broussard B, 1b       3  0  1  0   
+Posada J, c           4  0  0  0   McDonald J, pr-3b     0  1  0  0   
+Olerud J, 1b          4  0  0  0   Blake C, 3b-1b        0  1  0  0   
+Wilson E, 2b          3  0  1  1   Gerut J, rf           3  0  0  0   
+Lofton K, dh          4  1  1  0   Belliard R, 2b        2  0  0  1   
+                                   Crisp C, cf           4  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     34  3  6  2                        28  4  7  4
+
+New York         010 000 200 --  3
+Cleveland        101 000 02x --  4
+
+  New York             IP  H  R ER BB SO
+Hernandez O           6.0  5  2  2  4  2
+Quantrill P           1.0  1  0  0  0  0
+Gordon T (L)          1.0  1  2  2  2  0
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J*          6.0  6  3  1  2  3
+Miller M              0.2  0  0  0  1  0
+Riske D (W)           1.1  0  0  0  0  1
+Betancourt R (S)      1.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Posada J, Belliard R, Blake C, Crisp C, Miller M
+DP -- New York 1, Cleveland 2
+LOB -- New York 8, Cleveland 9
+2B -- Jeter D, Lawton M, Matsui H, Williams B 2, Vizquel O, Broussard B, Hafner T
+SB -- Gerut J, Crisp C
+CS -- Broussard B
+SH -- Jeter D, Gerut J
+SF -- Belliard R
+HBP -- by Hernandez O (Blake C)
+T -- 3:09
+A -- 30605
+     Game of 8/26/2004 -- Chicago at Cleveland (N)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Rowand A, cf          5  2  2  1   Belliard R, 2b        4  2  2  2   
+Alomar R, 2b          4  2  1  0   Vizquel O, ss         4  2  2  2   
+Harris W, 2b          1  0  0  0   Lawton M, lf          5  0  1  1   
+Konerko P, 1b         5  3  3  3   Martinez V, c         4  0  1  1   
+Everett C, dh         5  1  2  4   Blake C, 3b           5  0  1  0   
+Gload R, lf           4  2  3  2   Broussard B, 1b       5  1  1  1   
+Davis B, c            5  1  1  2   Phelps J, dh          4  2  3  1   
+Valentin J, ss        5  0  1  0   Crisp C, cf           4  1  2  1   
+Uribe J, 3b           5  2  3  2   Gerut J, rf           3  1  1  0   
+Borchard J, rf        3  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42 14 16 14                        38  9 14  9
+
+Chicago          600 350 000 -- 14
+Cleveland        210 410 010 --  9
+
+  Chicago              IP  H  R ER BB SO
+Stewart J             3.1  7  6  6  2  3
+Cotts N (W)*          2.2  4  2  2  1  0
+Politte C             2.0  2  1  1  0  2
+Jackson M             1.0  1  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Durbin C (L)          0.2  5  6  6  2  1
+White R+              3.1  7  5  5  1  4
+Cabrera F             2.0  3  3  2  1  2
+Miller M              1.0  0  0  0  0  1
+Riske D               2.0  1  0  0  0  3
+  * Pitched to 1 batter in 7th
+  + Pitched to 2 batters in 5th
+
+E -- Lawton M
+DP -- Chicago 2
+LOB -- Chicago 6, Cleveland 6
+2B -- Vizquel O, Martinez V, Gload R, Phelps J, Uribe J, Konerko P, Rowand A
+3B -- Belliard R, Vizquel O
+HR -- Everett C, Davis B, Crisp C, Belliard R, Uribe J, Broussard B, Phelps J
+SF -- Vizquel O, Gload R
+WP -- Riske D
+T -- 3:20
+A -- 30049
+     Game of 8/27/2004 -- Chicago at Cleveland (N)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Rowand A, cf          5  0  2  0   Lawton M, rf          3  2  2  0   
+Alomar R, 2b          5  0  0  0   Vizquel O, ss         2  1  0  1   
+Konerko P, 1b         3  1  0  0   Hafner T, dh          4  0  0  0   
+Everett C, dh         3  1  1  0   Blake C, 3b           4  0  0  0   
+Uribe J, ss           4  1  1  2   Broussard B, 1b       3  1  1  0   
+Gload R, lf           4  0  2  1   Crisp C, lf           2  1  2  2   
+Burke J, c            2  0  1  0   Belliard R, 2b        3  1  1  3   
+Perez T, ph           1  0  0  0   Sizemore G, cf        3  0  0  0   
+Crede J, 3b           3  0  0  0   Laker T, c            3  0  0  0   
+Harris W, ph          1  0  1  0                                      
+Borchard J, rf        4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  3                        27  6  6  6
+
+Chicago          000 300 000 --  3
+Cleveland        500 010 00x --  6
+
+  Chicago              IP  H  R ER BB SO
+Grilli J (L)          5.0  5  6  5  3  3
+Adkins J              1.1  1  0  0  0  1
+Marte D               1.0  0  0  0  0  3
+Takatsu S             0.2  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        6.0  5  3  3  2 11
+Betancourt R          1.0  1  0  0  0  1
+Howry B               1.0  1  0  0  0  0
+Wickman B (S)         1.0  2  0  0  0  0
+
+E -- Belliard R, Grilli J
+LOB -- Chicago 8, Cleveland 2
+2B -- Burke J, Rowand A, Borchard J
+3B -- Uribe J
+HR -- Belliard R
+SB -- Rowand A
+CS -- Crisp C
+SH -- Crisp C
+SF -- Vizquel O
+HBP -- by Sabathia C (Everett C)
+T -- 2:34
+A -- 30527
+     Game of 8/28/2004 -- Chicago at Cleveland (N)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Rowand A, cf          1  1  0  0   Lawton M, lf          5  0  1  0   
+Uribe J, 2b           4  1  2  1   Vizquel O, ss         4  0  1  0   
+Konerko P, 1b         4  1  1  3   Hafner T, dh          4  1  1  0   
+Everett C, dh         3  0  0  0   Martinez V, c         4  0  1  0   
+Gload R, lf           3  1  1  0   Blake C, 3b           4  1  2  2   
+Davis B, c            4  0  1  0   Broussard B, 1b       4  1  1  1   
+Valentin J, ss        4  0  1  0   Belliard R, 2b        4  0  0  0   
+Crede J, 3b           3  1  2  1   Gerut J, rf           3  0  1  0   
+Borchard J, rf        4  0  0  0   Crisp C, cf           4  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     30  5  8  5                        36  3 10  3
+
+Chicago          000 041 000 --  5
+Cleveland        000 001 002 --  3
+
+  Chicago              IP  H  R ER BB SO
+Contreras J (W)       6.2  6  1  1  1  6
+Marte D               1.1  0  0  0  0  2
+Adkins J              0.1  2  2  2  0  1
+Takatsu S (S)         0.2  2  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (L)             5.2  8  5  5  3  2
+Tadano K              2.1  0  0  0  1  2
+Guthrie J             1.0  0  0  0  0  1
+
+E -- Rowand A, Contreras J
+DP -- Cleveland 4
+LOB -- Chicago 4, Cleveland 7
+2B -- Crede J, Davis B, Blake C
+HR -- Konerko P, Blake C, Broussard B
+SB -- Broussard B, Valentin J
+CS -- Gerut J, Crisp C
+HBP -- by Lee C (Rowand A), by Guthrie J (Crede J)
+T -- 2:40
+A -- 37374
+     Game of 8/29/2004 -- Chicago at Cleveland (D)
+
+  Chicago            AB  R  H RBI    Cleveland          AB  R  H RBI
+Harris W, cf          4  0  1  0   Crisp C, cf           4  0  1  1   
+Uribe J, 2b           4  0  0  0   Vizquel O, ss         4  0  0  0   
+Konerko P, 1b         3  0  0  0   Lawton M, lf          3  1  1  0   
+Gload R, lf           2  0  0  0   Martinez V, c         3  1  1  0   
+Valentin J, ss        3  0  0  0   Hafner T, dh          4  3  3  3   
+Perez T, dh           3  0  0  0   Blake C, 3b           4  2  3  4   
+Davis B, c            2  0  0  0   Broussard B, 1b       3  0  1  0   
+Borchard J, rf        3  0  0  0   Belliard R, 2b        4  1  1  1   
+Crede J, 3b           3  0  1  0   Gerut J, rf           4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     27  0  2  0                        33  9 12  9
+
+Chicago          000 000 000 --  0
+Cleveland        030 201 03x --  9
+
+  Chicago              IP  H  R ER BB SO
+Garland J (L)         7.0  9  6  6  1  3
+Jackson M*            0.0  3  3  3  1  0
+Cotts N               1.0  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Elarton S (W)         9.0  2  0  0  1  6
+  * Pitched to 4 batters in 8th
+
+E -- Valentin J
+DP -- Chicago 4, Cleveland 2
+LOB -- Chicago 2, Cleveland 3
+2B -- Gerut J, Hafner T, Blake C
+HR -- Blake C 2, Belliard R, Hafner T
+HBP -- by Cotts N (Broussard B), by Elarton S (Davis B)
+T -- 1:56
+A -- 32834
+     Game of 9/3/2004 -- Anaheim at Cleveland (N)
+
+  Anaheim            AB  R  H RBI    Cleveland          AB  R  H RBI
+Eckstein D, ss        3  3  2  0   Crisp C, cf           4  0  1  0   
+Erstad D, 1b          4  1  2  0   Vizquel O, ss         4  1  1  0   
+Guerrero V, rf        5  1  0  0   Lawton M, lf          3  2  2  2   
+Anderson G, cf        4  2  3  3   Martinez V, c         5  0  2  1   
+Guillen J, lf         4  1  1  0   Hafner T, dh          4  1  2  2   
+DaVanon J, lf         0  0  0  1   Broussard B, 1b       3  0  0  0   
+Glaus T, dh           5  1  1  1   Blake C, 3b           3  0  1  0   
+Kennedy A, 2b         4  0  0  0   Gerut J, rf           4  1  1  0   
+Molina B, c           4  1  3  3   Belliard R, 2b        4  0  0  0   
+Figgins C, 3b         4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37 10 13  8                        34  5 10  5
+
+Anaheim          000 321 202 -- 10
+Cleveland        000 002 300 --  5
+
+  Anaheim              IP  H  R ER BB SO
+Escobar K (W)         6.2  8  4  4  4  2
+Donnelly B            0.1  2  1  1  0  0
+Rodriguez F           1.0  0  0  0  1  1
+Percival T            1.0  0  0  0  1  0
+
+  Cleveland            IP  H  R ER BB SO
+Elarton S (L)         6.0 10  6  6  0  4
+Guthrie J             0.1  0  2  2  2  0
+Bartosh C*            0.0  1  0  0  0  0
+Miller M              1.2  1  0  0  0  1
+Betancourt R          1.0  1  2  2  2  1
+  * Pitched to 1 batter in 7th
+
+DP -- Anaheim 2, Cleveland 2
+LOB -- Anaheim 5, Cleveland 8
+2B -- Figgins C, Eckstein D, Gerut J, Lawton M
+HR -- Molina B, Anderson G, Glaus T, Hafner T
+SB -- Erstad D
+CS -- Crisp C
+SF -- DaVanon J
+Balk -- Betancourt R
+T -- 3:15
+A -- 20994
+     Game of 9/4/2004 -- Anaheim at Cleveland (N)
+
+  Anaheim            AB  R  H RBI    Cleveland          AB  R  H RBI
+Eckstein D, ss        4  0  0  1   Belliard R, 2b        4  0  1  0   
+Erstad D, 1b          4  0  0  1   Vizquel O, ss         4  0  1  0   
+Guerrero V, rf        5  1  2  0   Martinez V, c         4  0  0  0   
+Anderson G, cf        5  1  3  1   Hafner T, dh          4  0  1  0   
+Glaus T, dh           3  1  1  0   Phelps J, 1b          2  1  1  0   
+Kotchman C, ph        1  0  1  1   Broussard B, ph-1b    2  0  0  0   
+DaVanon J, lf         4  1  0  0   Lawton M, lf          2  0  0  0   
+Kennedy A, 2b         3  1  1  0   Ludwick R, rf         2  0  0  0   
+Molina B, c           3  1  0  0   Gerut J, ph-rf        1  0  0  0   
+Figgins C, 3b         3  0  1  0   Crisp C, cf           3  0  2  1   
+                                   McDonald J, 3b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6  9  4                        31  1  6  1
+
+Anaheim          000 210 021 --  6
+Cleveland        010 000 000 --  1
+
+  Anaheim              IP  H  R ER BB SO
+Washburn J (W)        5.0  2  1  1  1  6
+Shields S             3.0  3  0  0  0  2
+Percival T            1.0  1  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (L)           5.0  4  3  1  3  3
+Riske D               0.2  1  0  0  1  0
+Miller M              1.0  1  0  0  1  0
+Bartosh C             0.1  0  0  0  0  0
+Howry B               1.0  1  2  1  1  0
+Wickman B             1.0  2  1  1  0  0
+
+E -- Phelps J, Broussard B
+DP -- Anaheim 2, Cleveland 1
+LOB -- Anaheim 10, Cleveland 4
+2B -- Phelps J, Glaus T, Kennedy A
+3B -- Anderson G
+SB -- Anderson G, Eckstein D 2, Kotchman C, Guerrero V
+SH -- Figgins C
+SF -- Erstad D
+WP -- Davis J
+T -- 3:02
+A -- 23786
+     Game of 9/5/2004 -- Anaheim at Cleveland (N)
+
+  Anaheim            AB  R  H RBI    Cleveland          AB  R  H RBI
+Eckstein D, ss        4  0  0  0   Lawton M, lf          4  0  0  0   
+Erstad D, 1b          4  0  1  0   Vizquel O, ss         3  0  0  0   
+Guerrero V, rf        4  0  2  0   Hafner T, dh          3  1  1  0   
+Anderson G, cf        4  0  1  0   Martinez V, c         4  0  0  0   
+Glaus T, dh           4  1  1  1   Broussard B, 1b       4  0  0  0   
+DaVanon J, lf         2  1  1  0   Blake C, 3b           3  0  0  0   
+Kennedy A, 2b         4  0  0  0   Crisp C, cf           2  0  0  0   
+Molina B, c           3  0  0  0   Gerut J, rf           3  0  0  0   
+Figgins C, 3b         3  0  1  1   McDonald J, 2b        2  0  0  0   
+                                   Belliard R, ph-2b     1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        29  1  2  0
+
+Anaheim          000 020 000 --  2
+Cleveland        000 001 000 --  1
+
+  Anaheim              IP  H  R ER BB SO
+Lackey J (W)          7.1  2  1  0  3  5
+Rodriguez F (S)       1.2  0  0  0  0  3
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (L)       8.0  6  2  2  1  3
+Miller M              0.2  1  0  0  1  2
+Betancourt R          0.1  0  0  0  0  0
+
+E -- Kennedy A
+DP -- Cleveland 2
+LOB -- Anaheim 5, Cleveland 4
+2B -- Figgins C, Hafner T, Belliard R
+HR -- Glaus T
+SB -- DaVanon J, Guerrero V
+T -- 2:33
+A -- 26208
+     Game of 9/14/2004 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Higginson B, rf       5  1  1  0   Crisp C, cf           5  0  0  0   
+Thames M, ph-rf       1  0  0  0   Vizquel O, ss         4  0  0  0   
+Infante O, ss         6  2  3  1   Lawton M, lf          3  1  2  0   
+Rodriguez I, c        4  2  2  0   Martinez V, c         4  1  2  2   
+Young D, dh           5  2  4  5   Hafner T, dh          4  1  2  0   
+Monroe C, lf          5  1  1  1   Blake C, 3b           4  0  2  0   
+Pena C, 1b            4  1  1  0   Broussard B, 1b       4  0  0  0   
+Inge B, 3b            3  1  1  2   Belliard R, 2b        3  0  0  1   
+Smith J, 2b           3  1  2  1   Gerut J, rf           3  0  0  0   
+Raburn R, ph-2b       1  0  0  0                                      
+Logan N, cf           5  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     42 11 16 11                        34  3  8  3
+
+Detroit          113 301 101 -- 11
+Cleveland        010 002 000 --  3
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (W)       5.2  6  3  3  4  7
+Ledezma W             1.0  2  0  0  1  1
+Ennis J               1.1  0  0  0  0  2
+German F              1.0  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Denney K (L)          3.1 10  8  8  2  1
+White R               0.2  0  0  0  0  1
+Guthrie J             3.0  2  2  2  2  1
+Davis J               1.0  2  0  0  0  3
+Bartosh C             1.0  2  1  1  0  2
+
+DP -- Detroit 1
+LOB -- Detroit 9, Cleveland 9
+2B -- Young D, Blake C, Rodriguez I, Smith J, Higginson B
+3B -- Monroe C
+HR -- Smith J, Young D, Infante O, Martinez V, Inge B
+SF -- Inge B
+T -- 2:54
+A -- 16489
+     Game of 9/15/2004 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Higginson B, rf       3  0  0  0   Belliard R, 2b        4  1  2  1   
+Infante O, ss         4  0  1  0   Crisp C, cf           4  1  2  0   
+Rodriguez I, c        5  1  1  1   Lawton M, lf          3  1  1  0   
+Young D, dh           3  1  0  0   Martinez V, c         3  0  2  1   
+Monroe C, lf          4  0  1  0   Vizquel O, pr-ss      0  0  0  0   
+Pena C, 1b            3  1  1  1   Blake C, 3b           4  0  2  0   
+Inge B, 3b            3  0  1  1   Phelps J, dh          3  0  0  0   
+Smith J, 2b           4  0  1  0   Hafner T, ph          0  1  0  0   
+Logan N, cf           3  0  0  0   Merloni L, 1b         3  0  0  0   
+Thames M, ph          1  0  0  0   Broussard B, 1b       1  1  1  2   
+                                   Ludwick R, rf         4  0  1  1   
+                                   McDonald J, ss        3  0  0  0   
+                                   Laker T, ph-c         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        33  5 11  5
+
+Detroit          000 101 010 --  3
+Cleveland        000 002 03x --  5
+
+  Detroit              IP  H  R ER BB SO
+Maroth M              7.0  8  2  2  1  5
+Yan E (L)             1.0  3  3  3  2  0
+
+  Cleveland            IP  H  R ER BB SO
+Elarton S             5.0  3  1  1  3  1
+Riske D               1.0  1  1  1  1  1
+Betancourt R          1.0  0  0  0  0  3
+Howry B (W)           1.0  1  1  1  1  1
+Wickman B (S)         1.0  1  0  0  1  2
+
+E -- Inge B 2, Belliard R
+DP -- Detroit 3, Cleveland 1
+LOB -- Detroit 9, Cleveland 7
+2B -- Infante O, Martinez V, Belliard R, Broussard B, Ludwick R
+HR -- Pena C, Belliard R, Rodriguez I
+WP -- Riske D
+T -- 2:58
+A -- 15411
+     Game of 9/16/2004 -- Detroit at Cleveland (N)
+
+  Detroit            AB  R  H RBI    Cleveland          AB  R  H RBI
+Infante O, ss         5  1  1  2   Crisp C, cf           5  0  2  1   
+Inge B, c             4  0  2  0   Vizquel O, ss         5  0  0  0   
+Monroe C, rf          4  0  0  0   Lawton M, lf          3  1  1  0   
+Young D, dh           4  0  1  0   Martinez V, c         4  0  1  1   
+Pena C, 1b            4  0  0  0   Hafner T, dh          4  1  1  1   
+Thames M, lf          2  2  0  0   Blake C, 3b           3  1  1  0   
+Munson E, 3b          4  2  2  2   Broussard B, 1b       4  1  2  1   
+Raburn R, 2b          3  1  1  1   Ludwick R, rf         2  0  0  0   
+Smith J, 2b           1  0  0  0   Belliard R, 2b        4  0  0  0   
+Logan N, cf           3  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     34  6  8  6                        34  4  8  4
+
+Detroit          020 030 001 --  6
+Cleveland        000 211 000 --  4
+
+  Detroit              IP  H  R ER BB SO
+Knotts G              4.2  6  3  3  3  1
+Colyer S              0.1  0  0  0  0  0
+Novoa R               0.2  0  1  1  1  0
+Walker J (W)          2.0  2  0  0  0  1
+Levine A              0.1  0  0  0  0  0
+Yan E (S)             1.0  0  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (L)        5.0  6  5  5  1  5
+Davis J               1.0  0  0  0  0  0
+Miller M              1.1  1  0  0  0  0
+Riske D               0.1  0  0  0  0  1
+Bartosh C             1.0  0  1  1  1  2
+Betancourt R          0.1  1  0  0  0  1
+
+E -- Infante O, Monroe C
+DP -- Detroit 1
+LOB -- Detroit 4, Cleveland 8
+2B -- Young D, Blake C, Broussard B, Munson E, Raburn R, Martinez V, Inge B
+3B -- Logan N
+HR -- Munson E, Hafner T, Infante O
+CS -- Crisp C
+SH -- Logan N
+HBP -- by Novoa R (Ludwick R)
+T -- 3:02
+A -- 15943
+     Game of 9/17/2004 -- Kansas City at Cleveland (N)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+DeJesus D, cf         4  0  3  3   Crisp C, cf           4  1  2  0   
+Berroa A, ss          5  0  1  1   Vizquel O, ss         5  0  0  0   
+Nunez A, rf           4  1  1  1   Lawton M, lf          4  1  1  0   
+Stairs M, lf          4  0  0  0   Martinez V, c         3  1  1  0   
+Gomez A, pr-lf        0  0  0  0   Hafner T, dh          2  1  1  0   
+Randa J, 3b           4  1  2  0   Merloni L, pr         0  0  0  0   
+Pickering C, dh       4  1  1  0   Blake C, 3b           3  0  1  4   
+Harvey K, 1b          5  2  1  0   Broussard B, 1b       3  0  0  0   
+Buck J, c             4  0  1  0   Belliard R, 2b        4  0  0  0   
+Gotay R, 2b           4  1  2  1   Gerut J, rf           0  0  0  0   
+                                   Ludwick R, rf         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 12  6                        30  4  6  4
+
+Kansas City      030 100 110 --  6
+Cleveland        300 000 010 --  4
+
+  Kansas City          IP  H  R ER BB SO
+Wood M (W)            6.0  5  3  3  4  4
+Reyes D               1.1  1  1  1  2  1
+Camp S                0.2  0  0  0  0  0
+Affeldt J (S)         1.0  0  0  0  1  2
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (L)       5.0  7  4  3  3  3
+White R               2.0  2  1  1  1  2
+Miller M              1.0  2  1  1  0  1
+Bartosh C             0.2  1  0  0  1  0
+Riske D               0.1  0  0  0  0  0
+
+E -- Blake C, Gotay R
+DP -- Kansas City 2, Cleveland 2
+LOB -- Kansas City 10, Cleveland 7
+2B -- Blake C
+3B -- Hafner T, Gotay R
+HR -- Nunez A
+SB -- DeJesus D
+CS -- Gerut J
+SF -- Blake C
+Balk -- Wood M
+T -- 3:07
+A -- 14347
+     Game of 9/18/2004 -- Kansas City at Cleveland (N)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+DeJesus D, cf         5  0  0  0   Crisp C, cf           4  0  0  0   
+Berroa A, ss          5  1  3  1   Lawton M, lf          3  0  0  0   
+Nunez A, rf           4  1  1  1   Belliard R, 2b        3  0  0  0   
+Harvey K, 1b          4  0  2  1   Martinez V, c         4  0  1  0   
+Stairs M, 1b          0  0  0  0   Blake C, 3b           3  1  1  0   
+Randa J, 3b           3  2  0  0   Hafner T, dh          2  0  0  0   
+Buck J, dh            4  2  2  2   Phelps J, 1b          4  0  2  0   
+Relaford D, lf        4  0  0  0   Ludwick R, rf         4  0  0  0   
+Castillo A, c         3  0  0  0   McDonald J, ss        3  0  0  0   
+Murphy D, 2b          4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  7  9  5                        30  1  4  0
+
+Kansas City      000 400 120 --  7
+Cleveland        010 000 000 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Gobble J (W)          7.0  2  1  1  5  5
+Carrasco D            1.0  0  0  0  0  0
+MacDougal M           1.0  2  0  0  0  2
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (L)             4.0  4  4  4  2  6
+Guthrie J             2.2  3  1  1  0  3
+Davis J               1.1  2  2  1  0  2
+White R               1.0  0  0  0  0  1
+
+E -- Relaford D
+LOB -- Kansas City 4, Cleveland 7
+2B -- Berroa A 2, Nunez A, Blake C, Harvey K, Buck J, Martinez V
+HR -- Buck J
+SB -- Murphy D
+CS -- Lawton M
+WP -- Davis J
+PB -- Martinez V
+T -- 2:53
+A -- 17848
+     Game of 9/19/2004 -- Kansas City at Cleveland (D)
+
+  Kansas City        AB  R  H RBI    Cleveland          AB  R  H RBI
+DeJesus D, cf         3  0  2  0   Lawton M, rf          4  1  2  1   
+Brown D, lf           1  0  0  0   Vizquel O, ss         4  1  1  1   
+Berroa A, ss          4  0  0  0   Hafner T, dh          5  2  3  1   
+Pickering C, 1b       1  0  0  0   Blake C, 3b           5  0  1  0   
+Nunez A, rf           3  0  1  0   Broussard B, 1b       4  2  2  3   
+Stairs M, 1b          3  1  1  1   Crisp C, lf           3  0  0  0   
+Guerrero W, ss        0  0  0  0   Sizemore G, cf        4  0  1  1   
+Randa J, dh           4  0  0  0   Bard J, c             3  2  2  0   
+Relaford D, 3b        4  0  0  0   Phillips B, 2b        4  0  1  0   
+Buck J, c             3  0  1  0                                      
+Phillips P, c         0  1  0  0                                      
+Gotay R, 2b           4  1  2  0                                      
+Gomez A, lf-cf        4  0  3  2                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3 10  3                        36  8 13  7
+
+Kansas City      010 000 002 --  3
+Cleveland        005 011 10x --  8
+
+  Kansas City          IP  H  R ER BB SO
+Bautista D (L)*       4.0  8  6  6  2  2
+George C              2.0  2  1  1  1  2
+Kinney M              1.0  2  1  1  1  1
+Serrano J             1.0  1  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Denney K (W)          5.0  6  1  1  1  6
+Riske D               1.0  0  0  0  2  2
+Betancourt R          1.0  1  0  0  0  0
+Howry B               1.0  1  0  0  0  1
+Wickman B             1.0  2  2  2  0  2
+  * Pitched to 2 batters in 5th
+
+E -- Gotay R, Gomez A
+DP -- Kansas City 1, Cleveland 1
+LOB -- Kansas City 9, Cleveland 8
+2B -- Gotay R, Phillips B, Hafner T 2, Bard J, Lawton M, Gomez A
+3B -- Broussard B
+HR -- Stairs M, Broussard B
+CS -- DeJesus D
+SH -- DeJesus D
+HBP -- by Wickman B (Phillips P)
+WP -- Bautista D
+PB -- Buck J
+T -- 3:01
+A -- 16745
+     Game of 9/23/2004 -- Minnesota at Cleveland (N)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, dh         4  0  2  2   Lawton M, rf          3  1  1  0   
+Ford L, rf            5  0  2  2   Vizquel O, ss         5  0  1  0   
+Hunter T, cf          5  0  0  0   Hafner T, dh          5  1  1  0   
+LeCroy M, 1b          5  1  2  0   Blake C, 3b           3  2  1  0   
+Koskie C, 3b          4  0  1  0   Broussard B, 1b       4  0  1  1   
+Restovich M, lf       4  2  2  0   Crisp C, lf           4  1  3  2   
+Offerman J, ph        1  1  1  0   Sizemore G, cf        4  2  2  2   
+Guzman C, ss          5  2  2  0   Bard J, c             3  2  2  3   
+Rivas L, 2b           2  0  1  2   Phillips B, 2b        3  0  1  1   
+Kubel J, ph           1  1  0  0                                      
+Ojeda A, 2b           0  0  0  0                                      
+Morneau J, ph         1  0  1  1                                      
+Blanco H, c           2  0  0  0                                      
+Jones J, ph           1  0  0  0                                      
+Borders P, c          0  0  0  0                                      
+Tiffee T, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  7 14  7                        34  9 13  9
+
+Minnesota        000 023 011 --  7
+Cleveland        200 320 11x --  9
+
+  Minnesota            IP  H  R ER BB SO
+Durbin J (L)*         3.0  7  5  5  4  2
+Guerrier M+           2.0  2  2  2  1  2
+Fultz A               2.2  4  2  2  1  5
+Rincon J              0.1  0  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (W)             5.2  8  5  5  3  7
+Riske D               1.1  3  0  0  0  1
+Davis J               1.0  1  1  0  0  1
+Betancourt R (S)      1.0  2  1  1  0  1
+  * Pitched to 5 batters in 4th
+  + Pitched to 1 batter in 6th
+
+E -- Broussard B
+DP -- Minnesota 3
+LOB -- Minnesota 11, Cleveland 7
+2B -- Bard J, Phillips B, Guzman C, Blake C, Koskie C, Crisp C
+HR -- Sizemore G, Bard J
+SB -- Ford L
+CS -- Rivas L
+SF -- Rivas L
+WP -- Durbin J, Davis J, Betancourt R
+T -- 2:58
+A -- 18053
+     Game of 9/24/2004 -- Minnesota at Cleveland (N)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, lf         5  1  2  1   Crisp C, lf           2  0  0  0   
+Jones J, rf           4  2  2  2   Vizquel O, ss         2  0  0  0   
+Ford L, cf            5  0  3  3   Blake C, 3b           4  1  1  1   
+Morneau J, 1b         5  1  2  0   Martinez V, c         4  1  1  0   
+Koskie C, 3b          4  0  1  0   Phelps J, 1b          4  0  2  1   
+Cuddyer M, 3b         0  0  0  0   Ludwick R, rf         3  0  0  0   
+Kubel J, dh           5  0  1  0   Young E, dh           2  0  0  0   
+Guzman C, ss          4  1  0  1   Hafner T, ph          2  0  0  0   
+Ojeda A, 2b           5  2  2  0   Sizemore G, cf        3  0  0  0   
+Blanco H, c           4  1  2  1   Phillips B, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  8 15  8                        29  2  4  2
+
+Minnesota        001 500 110 --  8
+Cleveland        000 100 010 --  2
+
+  Minnesota            IP  H  R ER BB SO
+Santana J (W)         6.0  2  1  1  4  6
+Crain J               1.0  0  0  0  0  0
+Rincon J              1.0  1  1  1  0  3
+Nathan J              1.0  1  0  0  0  1
+
+  Cleveland            IP  H  R ER BB SO
+Denney K (L)          3.2  8  6  6  2  4
+Guthrie J             2.2  4  1  1  1  1
+Robbins J             1.1  3  1  1  0  0
+Cabrera F             1.1  0  0  0  0  1
+
+E -- Ludwick R
+DP -- Minnesota 1, Cleveland 1
+LOB -- Minnesota 9, Cleveland 6
+2B -- Ford L, Phelps J 2, Kubel J
+HR -- Jones J, Blake C
+CS -- Crisp C
+SH -- Vizquel O
+HBP -- by Santana J (Ludwick R)
+WP -- Denney K, Guthrie J
+T -- 3:13
+A -- 16253
+     Game of 9/25/2004 -- Minnesota at Cleveland (N)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Stewart S, lf         2  0  0  0   Lawton M, rf          4  0  0  0   
+Offerman J, ph        0  0  0  0   Vizquel O, ss         2  0  0  0   
+Restovich M, pr-lf    0  1  0  0   Hafner T, dh          3  0  0  0   
+Jones J, dh           4  0  1  2   Phelps J, ph          1  1  1  1   
+Ford L, cf            4  0  0  0   Martinez V, c         3  0  0  0   
+Morneau J, 1b         4  1  3  1   Merloni L, pr         0  1  0  0   
+Koskie C, 3b          3  0  0  0   Bard J, c             0  0  0  0   
+Kubel J, rf           4  0  1  0   Broussard B, 1b       3  1  0  0   
+Cuddyer M, 2b         3  0  0  0   Crisp C, lf           4  2  3  3   
+Ojeda A, ss           2  1  1  0   Belliard R, 2b        3  0  1  1   
+Hunter T, ph          1  0  0  0   Sizemore G, cf        2  0  0  0   
+Borders P, c          2  0  0  0   Peralta J, 3b         4  0  0  0   
+LeCroy M, ph          1  0  0  0                                      
+Blanco H, c           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  3  6  3                        29  5  5  5
+
+Minnesota        000 010 020 --  3
+Cleveland        000 010 13x --  5
+
+  Minnesota            IP  H  R ER BB SO
+Radke B               7.0  3  2  2  3  6
+Romero J (L)          0.2  2  3  3  3  0
+Balfour G             0.1  0  0  0  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Elarton S             7.0  2  1  1  3  3
+Howry B (W)           1.0  2  2  2  1  1
+Wickman B (S)         1.0  2  0  0  1  1
+
+E -- Borders P
+DP -- Cleveland 2
+LOB -- Minnesota 5, Cleveland 7
+2B -- Jones J, Crisp C
+HR -- Morneau J, Crisp C, Phelps J
+SB -- Vizquel O, Crisp C, Ojeda A
+HBP -- by Romero J (Sizemore G)
+T -- 2:31
+A -- 23541
+     Game of 9/26/2004 -- Minnesota at Cleveland (D)
+
+  Minnesota          AB  R  H RBI    Cleveland          AB  R  H RBI
+Kubel J, lf           4  0  0  0   Lawton M, rf          3  0  0  0   
+Jones J, rf           5  2  2  2   Vizquel O, ss         4  0  1  0   
+Ford L, cf            4  1  1  0   Peralta J, ss         0  0  0  0   
+Morneau J, 1b         5  0  2  2   Blake C, 3b           3  0  1  0   
+Koskie C, dh          4  0  0  1   Phelps J, dh          4  0  1  0   
+Cuddyer M, 3b         3  0  0  0   Broussard B, 1b       4  0  1  0   
+Guzman C, ss          4  1  1  0   Crisp C, lf           4  2  2  0   
+Ojeda A, 2b           2  1  0  0   Bard J, c             3  0  0  0   
+Blanco H, c           3  1  2  1   Sizemore G, cf        4  0  3  2   
+                                   McDonald J, 2b        2  0  0  0   
+                                   Belliard R, ph-2b     2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6  8  6                        33  2  9  2
+
+Minnesota        003 110 001 --  6
+Cleveland        010 000 001 --  2
+
+  Minnesota            IP  H  R ER BB SO
+Silva C (W)           7.0  8  1  1  2  1
+Rincon J              1.0  0  0  0  1  2
+Nathan J              1.0  1  1  1  0  0
+
+  Cleveland            IP  H  R ER BB SO
+Cruceta F (L)         3.2  5  4  4  3  5
+White R               2.1  2  1  1  0  0
+Bartosh C             1.1  0  0  0  0  2
+Davis J               1.2  1  1  0  2  1
+
+E -- Peralta J
+DP -- Minnesota 3
+LOB -- Minnesota 8, Cleveland 7
+2B -- Blanco H, Ford L, Sizemore G
+SB -- Crisp C, Jones J, Cuddyer M
+SF -- Blanco H, Koskie C
+WP -- Cruceta F, Nathan J
+T -- 2:36
+A -- 22091
+

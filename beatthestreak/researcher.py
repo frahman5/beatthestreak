@@ -61,7 +61,6 @@ class Researcher(object):
             on the given date, returns True if and only if the player got a hit
             in the first game
         """
-        assert type(date) == datetime.date
         self.check_date(date, date.year)
 
         # Ensure that boxscores are on the drive
@@ -90,10 +89,7 @@ class Researcher(object):
             # see if he had a hit or not
             info = line.split()
             index = info.index(lastName)
-            if info[index + 1] != firstName[0] + ",":
-                print "We had two lined up players with same last name!" 
-                print "player: %s" % player
-                print "Here's the line: %s" % (str(line))
+            if info[index + 1] != firstName[0] + ",": # two players with same last name on SAME li
                 index = info[index + 1:].index(lastName)
             # Player's hit count is 5 off his last name. 
             return int(info[index+5]) > 0 
@@ -125,7 +121,7 @@ class Researcher(object):
         """
         # type check arguments (can't typecheck player because importing 
         # Player would cause circular imports)
-        assert type(date) == datetime.date
+        self.check_date(date, date.year)
         assert type(sGD) == dict
 
         if date in sGD.keys() and player.get_retrosheet_id() in sGD[date][1]:
@@ -147,7 +143,6 @@ class Researcher(object):
         Produces a three digit abbreviation for the home team that played
             a game involving given player on given date
         """
-        assert type(date) == datetime.date
         self.check_date(date, date.year)
 
         Utilities.ensure_gamelog_files_exist(date.year)
@@ -175,10 +170,9 @@ class Researcher(object):
 
         Returns: True if player started a game on the given date, False otherwise
         """
-        assert type(date) == datetime.date
         self.check_date(date, date.year)
 
-        return player.get_retrosheet_id() in self.get_participants(date)
+        return player.get_retrosheet_id() in self.__get_participants(date)
   
     @classmethod
     def num_at_bats(self, year, player):
@@ -223,15 +217,15 @@ class Researcher(object):
         return PA
 
     @classmethod
-    def get_participants(self, date):
+    # @profile
+    def __get_participants(self, date):
         """
-        date -> ListOfStrings   
+        date -> GeneratorOfStrings  
         date: date | a date of the year
 
-        Produces a list of retrosheet ids corresponding to players starting, 
+        Produces a generator of retrosheet ids corresponding to players starting, 
         umps officiating, and managers managing on the given day
         """
-        assert type(date) == datetime.date
         self.check_date(date, date.year)
         Utilities.ensure_gamelog_files_exist(date.year)
 
@@ -239,8 +233,8 @@ class Researcher(object):
         listOfGames = self.__get_list_of_games(date)
 
         # get the retrosheet ids from the games and return the list 
-        return [field for game in listOfGames for field in game 
-                    if re.match(self.retroP, field)]
+        return (field for game in listOfGames for field in game 
+                    if re.match(self.retroP, field))
 
     @classmethod
     def __get_list_of_games(self, date):
@@ -250,6 +244,8 @@ class Researcher(object):
         Helper function. Gets a list of the lines from the gamelog for date.year
         and returns it. Assumes date has been checked
         """
+        self.check_date(date, date.year)
+
         if self.listOfGamesBuffer[0] == date:
             listOfGames = self.listOfGamesBuffer[1]
             return listOfGames

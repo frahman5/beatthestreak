@@ -88,7 +88,7 @@ class NPSimulation(Simulation):
         for bot in self.bots:
             bot.claim_mulligan() # claim your mulligan baby
         self.isSetup = True
-
+    
     def sim_next_day(self, doubleDown=False):
         """
         Bool -> None
@@ -196,10 +196,10 @@ class NPSimulation(Simulation):
         maxVal = (lastDate - startDate).days # num Days in season
         if type(numDays) == int: 
             maxVal = numDays
-        widgets = ['\nRunning simulation with simYear: {0}'.format(
+        widgets = ['\nSIM: simYear: {0}'.format(
             self.get_sim_year()) + ", batAveYear: {0}".format(
             self.get_bat_year()) + " N: {0}, P: {1}. ".format(self.get_n(), 
-            self.get_p()), Timer(), ' ', Percentage()]
+            self.get_p()),  ' ', Percentage()]
         pbar = ProgressBar(maxval=maxVal, widgets=widgets).start()
 
         # simulate days until lastDate reached or elapsedDays equals numDays
@@ -404,7 +404,7 @@ class NPSimulation(Simulation):
         # Initialize a progressbar
         widgets = \
             ['    Calculating the top {0} players in year {1} from file '.format(
-            self.get_p(), self.get_bat_year()), Timer(), ' ', Percentage()]
+            self.get_p(), self.get_bat_year()), Percentage()]
         pbar = ProgressBar(maxval=self.get_p(), widgets=widgets).start()
 
         # Construct a list of the top P players

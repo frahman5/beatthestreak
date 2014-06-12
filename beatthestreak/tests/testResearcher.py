@@ -132,18 +132,18 @@ class TestResearcher(unittest.TestCase):
         self.assertEqual(R.get_hit_info(d3, Marco, sGD2010), (False, 'Suspended, Valid.'))
 
     def test_get_participants(self):
-    	self.assertEqual(R.get_participants(date(2011,9,4)), 
+    	self.assertEqual(list(R._Researcher__get_participants(date(2011,9,4))), 
             participants_2011_9_4)
-        self.assertEqual(R.get_participants(date(2012,3,28)), 
+        self.assertEqual(list(R._Researcher__get_participants(date(2012,3,28))), 
             participants_2012_3_28)
-        self.assertEqual(R.get_participants(date(2013,6,7)), 
+        self.assertEqual(list(R._Researcher__get_participants(date(2013,6,7))), 
             participants_2013_6_7)
 
-        # Given a suspended game s1 that was started on date d1 and completed on
-        # date d2, get_participants(d2) should NOT return players from d1
-        self.assertEqual(R.get_participants(date(2009, 7, 9)), 
+        # # Given a suspended game s1 that was started on date d1 and completed on
+        # # date d2, get_participants(d2) should NOT return players from d1
+        self.assertEqual(list(R._Researcher__get_participants(date(2009, 7, 9))), 
             participants_2009_7_9) # May 5th HOU @ WAS susp game completed on July 9th
-        self.assertEqual(R.get_participants(date(2007, 5, 2)), 
+        self.assertEqual(list(R._Researcher__get_participants(date(2007, 5, 2))), 
             participants_2007_5_2) # May 1st CHN @ PIT suspended game completed on May 2
 
     def test_find_home_team(self):
