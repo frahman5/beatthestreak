@@ -72,6 +72,7 @@ class NPSimulation(Simulation):
 
         self.doubleDown = doubleDown
         
+    @profile
     def setup(self):
         """
         Downloads necessary retrosheet data, initalizes bots, players, minBatAve, 
@@ -88,7 +89,7 @@ class NPSimulation(Simulation):
         for bot in self.bots:
             bot.claim_mulligan() # claim your mulligan baby
         self.isSetup = True
-    
+    # @profile
     def sim_next_day(self, doubleDown=False):
         """
         Bool -> None
@@ -381,7 +382,7 @@ class NPSimulation(Simulation):
 
         return (simYear - difference for difference 
             in range(simMinBatRange[0], simMinBatRange[1] + 1))
-  
+    @profile
     def __calc__players(self, year):
         """
         int -> ListOfTuples(player, player.bat_ave)
@@ -401,24 +402,17 @@ class NPSimulation(Simulation):
             fileF='batAve', year=year)):
             self.__construct_bat_ave_csv(year)
 
-        # Initialize a progressbar
-        widgets = \
-            ['    Calculating the top {0} players in year {1} from file '.format(
-            self.get_p(), self.get_bat_year()), Percentage()]
-        pbar = ProgressBar(maxval=self.get_p(), widgets=widgets).start()
-
         # Construct a list of the top P players
         df = DataFrame.from_csv(Filepath.get_retrosheet_file(folder='persistent', 
             fileF='batAve', year=year))
         lenPlayers, P = 0, self.get_p()
+        append = players.append
         for lahmanID, batAve, PA in df.itertuples():
             if lenPlayers == P: # we've got all the players
                 break
             if PA >= minPA: # make sure the player has enough plate appearances
-                players.append(Player(lenPlayers, playerL=PlayerL(lahmanID, year)))
+                append(Player(lenPlayers, playerL=PlayerL(lahmanID, year)))
                 lenPlayers += 1
-                pbar.update(lenPlayers)
-        pbar.finish() # kill the progressbar
 
         return players
 
