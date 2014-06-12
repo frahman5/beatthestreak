@@ -146,21 +146,21 @@ class NPSimulation(Simulation):
 
         # assign players to bots and update histories
         modFactor = len(activePlayers)
+        sGD = self.susGamesDict
         if modFactor == 0: # no active Players today
             self.incr_date()
             return 
         for i, bot in enumerate(self.bots):
             if modFactor == 1: # can't double down if only 1 active player!
                 bot.update_history(p1=activePlayers[0], date=today, 
-                    susGamesDict=self.susGamesDict)
+                    susGamesDict=sGD)
                 continue
             # get player indices. Mod in p2Index accounts for odd Modfactor
             p1Index = (i * 2) % modFactor
             p2Index = (p1Index + 1) % modFactor 
             p1 = activePlayers[p1Index]
             p2 = activePlayers[p2Index]
-            bot.update_history(p1=p1, p2=p2, date=today, 
-                susGamesDict=self.susGamesDict)
+            bot.update_history(p1=p1, p2=p2, date=today, susGamesDict=sGD)
         # update the date
         self.incr_date()
 

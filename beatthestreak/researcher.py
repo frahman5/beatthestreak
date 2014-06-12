@@ -32,9 +32,15 @@ class Researcher(object):
         listOfGamesBuffer: a tuple of (date, liftOfGamesonDate, lastPos)
            holds the last calculated listOfGames tuple, prefixed by its date, 
            and postFixed by the last viewed position on the gamelog file
+        boxscoreBuffer: a list of [year, {keys: (value1, value2)}] where:
+           year: the year in which the last boxscore was viewed
+           keys: three letter team abbrevations a la retrosheet
+           value1: the last date checked for the given team
+           value2: the last byte viewed in the boxscore for given team
     """
     openAndCloseDays = {1963: (datetime.date(1963, 4, 8), datetime.date(1963, 9, 29)), 1964: (datetime.date(1964, 4, 13), datetime.date(1964, 10, 4)), 1965: (datetime.date(1965, 4, 12), datetime.date(1965, 10, 3)), 1966: (datetime.date(1966, 4, 11), datetime.date(1966, 10, 2)), 1967: (datetime.date(1967, 4, 10), datetime.date(1967, 10, 1)), 1968: (datetime.date(1968, 4, 10), datetime.date(1968, 9, 29)), 1969: (datetime.date(1969, 4, 7), datetime.date(1969, 10, 2)), 1970: (datetime.date(1970, 4, 6), datetime.date(1970, 10, 1)), 1971: (datetime.date(1971, 4, 5), datetime.date(1971, 9, 30)), 1972: (datetime.date(1972, 4, 15), datetime.date(1972, 10, 4)), 1973: (datetime.date(1973, 4, 5), datetime.date(1973, 10, 1)), 1974: (datetime.date(1974, 4, 4), datetime.date(1974, 10, 2)), 1975: (datetime.date(1975, 4, 7), datetime.date(1975, 9, 28)), 1976: (datetime.date(1976, 4, 8), datetime.date(1976, 10, 3)), 1977: (datetime.date(1977, 4, 6), datetime.date(1977, 10, 2)), 1978: (datetime.date(1978, 4, 5), datetime.date(1978, 10, 2)), 1979: (datetime.date(1979, 4, 4), datetime.date(1979, 9, 30)), 1980: (datetime.date(1980, 4, 9), datetime.date(1980, 10, 6)), 1981: (datetime.date(1981, 4, 8), datetime.date(1981, 10, 5)), 1982: (datetime.date(1982, 4, 5), datetime.date(1982, 10, 3)), 1983: (datetime.date(1983, 4, 4), datetime.date(1983, 10, 2)), 1984: (datetime.date(1984, 4, 2), datetime.date(1984, 9, 30)), 1985: (datetime.date(1985, 4, 8), datetime.date(1985, 10, 6)), 1986: (datetime.date(1986, 4, 7), datetime.date(1986, 10, 5)), 1987: (datetime.date(1987, 4, 6), datetime.date(1987, 10, 4)), 1988: (datetime.date(1988, 4, 4), datetime.date(1988, 10, 2)), 1989: (datetime.date(1989, 4, 3), datetime.date(1989, 10, 1)), 1990: (datetime.date(1990, 4, 9), datetime.date(1990, 10, 3)), 1991: (datetime.date(1991, 4, 8), datetime.date(1991, 10, 6)), 1992: (datetime.date(1992, 4, 6), datetime.date(1992, 10, 4)), 1993: (datetime.date(1993, 4, 5), datetime.date(1993, 10, 3)), 1994: (datetime.date(1994, 4, 3), datetime.date(1994, 8, 11)), 1995: (datetime.date(1995, 4, 25), datetime.date(1995, 10, 2)), 1996: (datetime.date(1996, 3, 31), datetime.date(1996, 9, 29)), 1997: (datetime.date(1997, 4, 1), datetime.date(1997, 9, 28)), 1998: (datetime.date(1998, 3, 31), datetime.date(1998, 9, 28)), 1999: (datetime.date(1999, 4, 4), datetime.date(1999, 10, 4)), 2000: (datetime.date(2000, 3, 29), datetime.date(2000, 10, 1)), 2001: (datetime.date(2001, 4, 1), datetime.date(2001, 10, 7)), 2002: (datetime.date(2002, 3, 31), datetime.date(2002, 9, 29)), 2003: (datetime.date(2003, 3, 30), datetime.date(2003, 9, 28)), 2004: (datetime.date(2004, 3, 30), datetime.date(2004, 10, 3)), 2005: (datetime.date(2005, 4, 3), datetime.date(2005, 10, 2)), 2006: (datetime.date(2006, 4, 2), datetime.date(2006, 10, 1)), 2007: (datetime.date(2007, 4, 1), datetime.date(2007, 10, 1)), 2008: (datetime.date(2008, 3, 25), datetime.date(2008, 9, 30)), 2009: (datetime.date(2009, 4, 5), datetime.date(2009, 10, 6)), 2010: (datetime.date(2010, 4, 4), datetime.date(2010, 10, 3)), 2011: (datetime.date(2011, 3, 31), datetime.date(2011, 9, 28)), 2012: (datetime.date(2012, 3, 28), datetime.date(2012, 10, 3)), 2013: (datetime.date(2013, 3, 31), datetime.date(2013, 9, 30))}
     listOfGamesBuffer = (None, (), 0)
+    boxscoreBuffer = [None, {}]
 
     # regular expression for matching retrosheet ids
     retroP = re.compile(r"""
@@ -78,23 +84,28 @@ class Researcher(object):
             search = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
             errorMessage = "Date: {0} not in boxscore {1}.".format(date, 
                 boxscore) + "Player: {0}".format(player)
-            self.__search_file(file, search, errorMessage=errorMessage)
+            self.__search_boxscore(file, search, date, team, 
+                errorMessage=errorMessage, typeT=0)
 
             # find this player's line in the boxscore
             search = lastName + " " + firstName[0]
             errorMessage = "Player: {0} not in boxscore {1}.".format(player, 
                 boxscore) + "Date: {0}".format(date)
-            line = self.__search_file(file, search, errorMessage=errorMessage)
+            line = self.__search_boxscore(file, search, date, team, 
+                errorMessage=errorMessage, typeT=1)
+            
+        # see if he had a hit or not
+        info = line.split()
+        index = info.index(lastName)
+        if info[index + 1] != firstName[0] + ",": # two players with same last name on SAME li
+            index = info[index + 1:].index(lastName)
+        # Player's hit count is 5 off his last name. 
+        return int(info[index+5]) > 0 
 
-            # see if he had a hit or not
-            info = line.split()
-            index = info.index(lastName)
-            if info[index + 1] != firstName[0] + ",": # two players with same last name on SAME li
-                index = info[index + 1:].index(lastName)
-            # Player's hit count is 5 off his last name. 
-            return int(info[index+5]) > 0 
+
 
     @classmethod
+    # @profile
     def get_hit_info(self, date, player, sGD):
         """
         date Player dict -> bool|string None|String
@@ -499,30 +510,53 @@ class Researcher(object):
             """,re.VERBOSE)
         return re.match(p, item14)
            
-    @classmethod 
-    def __search_file(self, fileF, search, errorMessage='Search File Error'):
+    @classmethod
+    def __search_boxscore(self, fileF, search, date, team, 
+            errorMessage='Search File Error', typeT=None):
         """
-        fileF string string -> string
-        file: file| a file object to be searched
+        file string string -> string
+        fileF: file| a file object to be searched
         search: string | a string to search for in the file
+        date: datetime.date | date for which we are searching boxscore
+        team: team| the team's boxscore we are searching
         errorMessage: stirng | the error Message to display if 
             an exception is raised
+        typeT: int | 0 if searching for a date, 1 if searching for a player
 
 
-        Searches the file for the string. If found, returns the line in which
+        Searches the boxscore in year date.year and team team
+        for the string. If found, returns the line in which
         the string was found. If not found, raises fileContentException
         """
         assert type(fileF) == file
         assert type(search) == str
+        self.check_date(date, date.year)
+        assert type(team) == str
         assert type(errorMessage) == str
+        assert (typeT == 0) or (typeT == 1)
 
+        # If its a player, the file should already have been seeked all the
+        # way to the correct date, so we don't do any fileseeking.
+        if typeT == 0: # indicates its a date search
+            startSeekPos = 0
+            ## Go to last viewed place on team's boxscore
+            if self.boxscoreBuffer[0] == date.year:
+                if team in self.boxscoreBuffer[1].keys():
+                    if date > self.boxscoreBuffer[1][team][0]:
+                        startSeekPos = self.boxscoreBuffer[1][team][1]
+            else:
+               self.boxscoreBuffer = [date.year, {}]
+            fileF.seek(startSeekPos)
+
+        # Get the line
         line = " "
-        while search not in line: 
-            start = fileF.tell()
+        while search not in line:
+            startPos = fileF.tell()
             line = fileF.readline()
-            end = fileF.tell()
+            lastPos = fileF.tell()
             # if we keep scrolling and the file position doesn't change, 
             # the search item was not in the file
-            if start == end: 
+            if startPos == lastPos: #pragma: no cover
                 raise FileContentException(errorMessage)
+        self.boxscoreBuffer[1][team] = (date, lastPos)
         return line

@@ -43,6 +43,7 @@ class Bot(object):
             return False
         return True
         
+    # @profile
     def update_history(self, p1=None, p2=None, date=None, susGamesDict=None):
         """
         Player Player(optional) date dict -> None

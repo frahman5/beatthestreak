@@ -36,6 +36,8 @@ class TestResearcher(unittest.TestCase):
     # @unittest.skip("Too long")
     def test_did_get_hit(self):
         # Edwin Jackon test
+        # import pdb
+        # pdb.set_trace()
         self.assertFalse(R.did_get_hit(date(2012, 5, 2), p1))
 
         # Jose Reyes Tests (and one Albert Pujols)
@@ -206,14 +208,6 @@ class TestResearcher(unittest.TestCase):
     	self.assertDictEqual(R.get_sus_games_dict(2001), sGD2001)
     	self.assertDictEqual(R.get_sus_games_dict(2011), sGD2011)
 
-    def test__search_file(self):
-        os.chdir(Filepath.get_root() + "/tests/")
-        testFile = open("testResearcher.txt")
-        self.assertIsNotNone(R._Researcher__search_file(testFile, "Omega"))
-        self.assertRaises(FileContentException, R._Researcher__search_file, 
-           testFile, "fifty")
-        testFile.close()
-
     def test_num_at_bats(self):
         self.assertEqual(R.num_at_bats(2010, p1), 38) # traded from NL to AL
         self.assertEqual(R.num_at_bats(2006, p2), 647)
@@ -247,6 +241,8 @@ class TestResearcher(unittest.TestCase):
     def test_check_date(self):
         self.assertRaises(BadDateException, R.check_date, date(2010, 3, 1), 
             2010)
+        self.assertRaises(BadDateException, R.check_date, date(1950, 3, 7), 
+        	1950)
 
     def test_is_game_suspended(self):
         ## The first four lines of testResearcher_is_game_suspended.txt 
