@@ -172,7 +172,7 @@ class Researcher(object):
         """
         self.check_date(date, date.year)
 
-        return player.get_retrosheet_id() in self.__get_participants(date)
+        return player.get_retrosheet_id() in self.__get_participants_superset(date)
   
     @classmethod
     def num_at_bats(self, year, player):
@@ -218,12 +218,13 @@ class Researcher(object):
 
     @classmethod
     # @profile
-    def __get_participants(self, date):
+    def __get_participants_superset(self, date):
         """
         date -> GeneratorOfStrings  
         date: date | a date of the year
 
-        Produces a generator of retrosheet ids corresponding to players starting, 
+        Produces a generator of strings that is a STRICT SUPERSET of
+        the retrosheet ids corresponding to players starting, 
         umps officiating, and managers managing on the given day
         """
         self.check_date(date, date.year)
@@ -233,8 +234,10 @@ class Researcher(object):
         listOfGames = self.__get_list_of_games(date)
 
         # get the retrosheet ids from the games and return the list 
+        # return (field for game in listOfGames for field in game 
+        #             if re.match(self.retroP, field))
         return (field for game in listOfGames for field in game 
-                    if re.match(self.retroP, field))
+                    if len(field) == 8)
 
     @classmethod
     def __get_list_of_games(self, date):
