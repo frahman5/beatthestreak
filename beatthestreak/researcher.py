@@ -37,10 +37,17 @@ class Researcher(object):
            keys: three letter team abbrevations a la retrosheet
            value1: the last date checked for the given team
            value2: the last byte viewed in the boxscore for given team
+        playerInfoBuffer: a tuple of (date, ListOfTuples) where
+           date: the date for which player Infos are being stored
+           ListOfTuples: Tuples of type (player, hitVal, otherInfo) which store
+              a player, his hitVal on the given date and any miscellaneous
+              info about his hitVal
+
     """
     openAndCloseDays = {1963: (datetime.date(1963, 4, 8), datetime.date(1963, 9, 29)), 1964: (datetime.date(1964, 4, 13), datetime.date(1964, 10, 4)), 1965: (datetime.date(1965, 4, 12), datetime.date(1965, 10, 3)), 1966: (datetime.date(1966, 4, 11), datetime.date(1966, 10, 2)), 1967: (datetime.date(1967, 4, 10), datetime.date(1967, 10, 1)), 1968: (datetime.date(1968, 4, 10), datetime.date(1968, 9, 29)), 1969: (datetime.date(1969, 4, 7), datetime.date(1969, 10, 2)), 1970: (datetime.date(1970, 4, 6), datetime.date(1970, 10, 1)), 1971: (datetime.date(1971, 4, 5), datetime.date(1971, 9, 30)), 1972: (datetime.date(1972, 4, 15), datetime.date(1972, 10, 4)), 1973: (datetime.date(1973, 4, 5), datetime.date(1973, 10, 1)), 1974: (datetime.date(1974, 4, 4), datetime.date(1974, 10, 2)), 1975: (datetime.date(1975, 4, 7), datetime.date(1975, 9, 28)), 1976: (datetime.date(1976, 4, 8), datetime.date(1976, 10, 3)), 1977: (datetime.date(1977, 4, 6), datetime.date(1977, 10, 2)), 1978: (datetime.date(1978, 4, 5), datetime.date(1978, 10, 2)), 1979: (datetime.date(1979, 4, 4), datetime.date(1979, 9, 30)), 1980: (datetime.date(1980, 4, 9), datetime.date(1980, 10, 6)), 1981: (datetime.date(1981, 4, 8), datetime.date(1981, 10, 5)), 1982: (datetime.date(1982, 4, 5), datetime.date(1982, 10, 3)), 1983: (datetime.date(1983, 4, 4), datetime.date(1983, 10, 2)), 1984: (datetime.date(1984, 4, 2), datetime.date(1984, 9, 30)), 1985: (datetime.date(1985, 4, 8), datetime.date(1985, 10, 6)), 1986: (datetime.date(1986, 4, 7), datetime.date(1986, 10, 5)), 1987: (datetime.date(1987, 4, 6), datetime.date(1987, 10, 4)), 1988: (datetime.date(1988, 4, 4), datetime.date(1988, 10, 2)), 1989: (datetime.date(1989, 4, 3), datetime.date(1989, 10, 1)), 1990: (datetime.date(1990, 4, 9), datetime.date(1990, 10, 3)), 1991: (datetime.date(1991, 4, 8), datetime.date(1991, 10, 6)), 1992: (datetime.date(1992, 4, 6), datetime.date(1992, 10, 4)), 1993: (datetime.date(1993, 4, 5), datetime.date(1993, 10, 3)), 1994: (datetime.date(1994, 4, 3), datetime.date(1994, 8, 11)), 1995: (datetime.date(1995, 4, 25), datetime.date(1995, 10, 2)), 1996: (datetime.date(1996, 3, 31), datetime.date(1996, 9, 29)), 1997: (datetime.date(1997, 4, 1), datetime.date(1997, 9, 28)), 1998: (datetime.date(1998, 3, 31), datetime.date(1998, 9, 28)), 1999: (datetime.date(1999, 4, 4), datetime.date(1999, 10, 4)), 2000: (datetime.date(2000, 3, 29), datetime.date(2000, 10, 1)), 2001: (datetime.date(2001, 4, 1), datetime.date(2001, 10, 7)), 2002: (datetime.date(2002, 3, 31), datetime.date(2002, 9, 29)), 2003: (datetime.date(2003, 3, 30), datetime.date(2003, 9, 28)), 2004: (datetime.date(2004, 3, 30), datetime.date(2004, 10, 3)), 2005: (datetime.date(2005, 4, 3), datetime.date(2005, 10, 2)), 2006: (datetime.date(2006, 4, 2), datetime.date(2006, 10, 1)), 2007: (datetime.date(2007, 4, 1), datetime.date(2007, 10, 1)), 2008: (datetime.date(2008, 3, 25), datetime.date(2008, 9, 30)), 2009: (datetime.date(2009, 4, 5), datetime.date(2009, 10, 6)), 2010: (datetime.date(2010, 4, 4), datetime.date(2010, 10, 3)), 2011: (datetime.date(2011, 3, 31), datetime.date(2011, 9, 28)), 2012: (datetime.date(2012, 3, 28), datetime.date(2012, 10, 3)), 2013: (datetime.date(2013, 3, 31), datetime.date(2013, 9, 30))}
     listOfGamesBuffer = (None, (), 0)
     boxscoreBuffer = [None, {}]
+    playerInfoBuffer = [None, []]
 
     # regular expression for matching retrosheet ids
     retroP = re.compile(r"""
@@ -69,40 +76,40 @@ class Researcher(object):
         """
         self.check_date(date, date.year)
 
-        # Ensure that boxscores are on the drive
+        ## Ensure that boxscores are on the drive
         team = self.find_home_team(date, player) 
         Utilities.ensure_boxscore_files_exist(date.year, team)
 
-        # Get home team's box score and player's first and last names
+        ## Get home team's box score and player's first and last names
         boxscore = Filepath.get_retrosheet_file(folder='unzipped', 
             fileF='boxscore', year=date.year, team=team)
         lastName = player.get_last_name()
         firstName = player.get_first_name()
         
+        ## get the line with this player's info from the boxscore
+        searchD = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
+        eD = "Date: {0} not in boxscore {1}. Player: {2}".format(date, 
+                boxscore, player)
+        searchP = lastName + " " + firstName[0]
+        eP = "Player: {0} not in boxscore {1}. Date: {2}".format(player, 
+                boxscore, date)
         with open(boxscore, "r") as file: 
             # find this date's game in the boxscore
-            search = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
-            errorMessage = "Date: {0} not in boxscore {1}.".format(date, 
-                boxscore) + "Player: {0}".format(player)
-            self.__search_boxscore(file, search, date, team, 
-                errorMessage=errorMessage, typeT=0)
+            self.__search_boxscore(file, searchD, date, team, 
+                errorMessage=eD, typeT=0)
 
             # find this player's line in the boxscore
-            search = lastName + " " + firstName[0]
-            errorMessage = "Player: {0} not in boxscore {1}.".format(player, 
-                boxscore) + "Date: {0}".format(date)
-            line = self.__search_boxscore(file, search, date, team, 
-                errorMessage=errorMessage, typeT=1)
+            line = self.__search_boxscore(file, searchP, date, team, 
+                errorMessage=eP, typeT=1)
             
-        # see if he had a hit or not
+        ## see if he had a hit or not
         info = line.split()
         index = info.index(lastName)
-        if info[index + 1] != firstName[0] + ",": # two players with same last name on SAME li
+        if info[index + 1] != firstName[0] + ",": # two players with same last name on SAME line
             index = info[index + 1:].index(lastName)
         # Player's hit count is 5 off his last name. 
+        
         return int(info[index+5]) > 0 
-
-
 
     @classmethod
     # @profile
@@ -135,13 +142,30 @@ class Researcher(object):
         self.check_date(date, date.year)
         assert type(sGD) == dict
 
+        playerInfoBuffer = self.playerInfoBuffer
+        # print "buffer date: {0}, date: {1}".format(playerInfoBuffer[0], date)
+        ## Check if its on the buffer
+        if playerInfoBuffer[0] == date:
+            for info in playerInfoBuffer[1]:
+                if player == info[0]:
+                    return info[1], info[2]
+                    break
+        else:
+            self.playerInfoBuffer = [date, []]
+
         if date in sGD.keys() and player.get_retrosheet_id() in sGD[date][1]:
             if sGD[date][0]: # Valid game
-                return self.did_get_hit(date, player), specialCasesD['S']['V']
+                hitVal, otherInfo = self.did_get_hit(date, player), specialCasesD['S']['V']
+                # return self.did_get_hit(date, player), specialCasesD['S']['V']
             else: # Invalid game
-                return 'pass', specialCasesD['S']['I']
+                hitVal, otherInfo = 'pass', specialCasesD['S']['I']
+                # return 'pass', specialCasesD['S']['I']
         else: # Normal game
-            return self.did_get_hit(date, player), None
+            hitVal, otherInfo = self.did_get_hit(date, player), None
+            # playerInfoBuffer[1].append(player, hitVal, otherInfo)
+            # return self.did_get_hit(date, player), None
+        playerInfoBuffer[1].append((player, hitVal, otherInfo))
+        return hitVal, otherInfo
 
     @classmethod
     # @profile
