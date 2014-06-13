@@ -49,6 +49,7 @@ class TestBot(unittest.TestCase):
             susGamesDict=sGD2010)   # didn't get a hit
         self.assertFalse(self.bot1 == self.bot2)
 
+   
     def test_incr_streak_length_and_get_streak_length(self):
         for i in range(4):
             self.bot1.incr_streak_length()
@@ -70,13 +71,43 @@ class TestBot(unittest.TestCase):
         self.assertEqual(self.bot1.get_index(), 1)
         self.assertEqual(self.bot2.get_index(), 2)
 
+    def test_update_history_copy(self):
+
+        ## Single Down
+        d1 = date(2003, 7, 1) # Jose Reyes (p2) got a hit on this date
+        susGamesDict2003 = Researcher.get_sus_games_dict(2003)
+        self.assertEqual(self.bot1.get_streak_length(), 0) 
+        self.bot1.update_history(p1=p2, date=d1, susGamesDict=susGamesDict2003)
+        self.assertEqual(self.bot1.get_history()[0], 
+            (p2, None, True, None, d1, 1, None))
+        bot = Bot(0)
+        self.assertEqual(bot.get_history(), [])
+        bot.update_history(bot=self.bot1)
+        self.assertEqual(bot.get_history()[-1], 
+            (p2, None, True, None, d1, 1, None))
+    
+        ## Double Down
+        d1 = date(2001, 6, 15)
+        sGD2001 = Researcher.get_sus_games_dict(2001)
+             # two players that got hits on d1
+        pH1 = Player("Derek", "Jeter", 2001)
+        pH2 = Player("Rafael", "Furcal", 2001)
+
+        self.bot1.update_history(p1=pH1, p2=pH2, date=d1, susGamesDict = sGD2001)
+        self.assertEqual(self.bot1.get_history()[-1], (pH1, pH2, True, True, 
+            d1, 3, None))
+        bot.update_history(bot=self.bot1)
+        self.assertEqual(bot.get_history()[-1], (pH1, pH2, True, True, 
+            d1, 3, None))
+
+
     def test_update_history_single_down_no_mulligan(self):
 
         # test that passing True for hitVal increases streak length by 1
         d1 = date(2003, 7, 1) # Jose Reyes (p2) got a hit on this date
         susGamesDict2003 = Researcher.get_sus_games_dict(2003)
         self.assertEqual(self.bot1.get_streak_length(), 0) 
-        self.bot1.update_history(p1=p2, date=d1, susGamesDict={})
+        self.bot1.update_history(p1=p2, date=d1, susGamesDict=susGamesDict2003)
         self.assertEqual(self.bot1.get_history()[0], 
             (p2, None, True, None, d1, 1, None))
         self.assertEqual(self.bot1.get_players(), (p2,None)) # right players

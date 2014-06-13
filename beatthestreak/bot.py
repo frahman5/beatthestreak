@@ -5,6 +5,7 @@ from utilities import Utilities
 from player import Player
 from exception import BotUpdateException, MulliganException
 from researcher import Researcher
+
 class Bot(object):
     """
     A robot representing an account on MLB.com for beat the streak
@@ -29,6 +30,7 @@ class Bot(object):
         self.maxStreakLength = 0
         self.hasMulligan = False
         self.hasClaimedMulligan = False
+        self.lastHistory = ()
 
     def __eq__(self, other):
         """
@@ -42,9 +44,10 @@ class Bot(object):
         if self.get_history() != other.get_history():
             return False
         return True
-        
-    @profile
-    def update_history(self, p1=None, p2=None, date=None, susGamesDict=None):
+
+    # @profile
+    def update_history(self, p1=None, p2=None, date=None, susGamesDict=None, 
+           bot=None):
         """
         Player Player(optional) date dict -> None
             p1 : Player | player to assign to bot in case of single or double Down
@@ -52,19 +55,36 @@ class Bot(object):
             date : datetime.date | date of assignment of players
             susGamesDict : dict | dictionary of suspended games as defined in 
                 Researcher.
-        """
-        # type check arguments
-        assert type(p1) == Player
-        assert type(date) == datetime.date
-        assert type(susGamesDict) == dict
-        assert (not p2) or (type(p2) == Player)
+            bot: Bot | OPTIONAL. A bot from which to copy the last history item. 
 
-        if p2:
+        Updates history in one of three ways:
+            1) Given p1, date, susGamesDict: updates history as a single down 
+            2) Given p1, p2, date, susGamesDict: updates history as a double down
+            3) Given bot: copies the given bot's last history tuple
+
+        """
+        # type checking done in helper functions
+
+        if bot: # update type 3
+            for param in (p1, p2, date, susGamesDict):
+                assert param is None
+            self.__update_history_from_bot(bot)
+        elif p2: # update type 2
+            assert bot is None
             self.__update_history_double_down(p1, p2, date, susGamesDict)
-        elif not p2:
+        elif not p2: # update type 1
+            assert bot is None
             self.__update_history_single_down(p1, date, susGamesDict)
 
-    @profile
+    def __update_history_from_bot(self, otherBot): 
+        """
+        bot -> None
+
+        Copies the last history item from the given bot into self's history
+        """
+        self.history.append(otherBot.get_last_history())
+
+    # @profile
     def __update_history_double_down(self, p1, p2, date, susGamesDict):
         """
         Player Player date dict -> None
@@ -128,8 +148,10 @@ class Bot(object):
             otherInfo1, otherInfo2,mulligan=mulliganUsed)
 
         # update history list
-        self.history.append((p1, p2, hitVal1, hitVal2, date, 
-                            self.get_streak_length(), otherInfo))
+        hist = (p1, p2, hitVal1, hitVal2, date, 
+                            self.get_streak_length(), otherInfo)
+        self.history.append(hist)
+        self.set_last_history(hist)
         
     def __update_history_single_down(self, p1, date, susGamesDict):
         """
@@ -182,9 +204,11 @@ class Bot(object):
                 ", other: {0} was invalid".format(other))
 
         # update history list
-        self.history.append((p1, None, hitVal, None, date, 
-                            self.get_streak_length(), otherInfo))
-        
+        hist = (p1, None, hitVal, None, date, 
+                            self.get_streak_length(), otherInfo)
+        self.history.append(hist)
+        self.set_last_history(hist)
+
     def __concat_other_infos(self, otherInfo1, otherInfo2, mulligan=False):
         """
         None|String None|String bool -> string|None
@@ -267,3 +291,12 @@ class Bot(object):
         else:
             raise MulliganException("Bot {0} has ".format(self.get_index()) + \
                 "its mulligan. Can only claim one mulligan per bot!")
+
+    def get_last_history(self):
+        return self.lastHistory
+
+    def set_last_history(self, history):
+        assert type(history) == tuple
+        assert len(history) == 7
+
+        self.lastHistory = history

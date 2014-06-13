@@ -3,6 +3,7 @@
 import sys
 import os
 import pandas as pd
+import datetime
 
 from pandas import DataFrame, Series, ExcelWriter
 from datetime import date, timedelta
@@ -32,6 +33,11 @@ class NPSimulation(Simulation):
     to every bot. 
 
     Currently only handles regular season.
+
+    Notable Data:
+        botHistoryBuffer: [date, ListOBots] where date is the date
+        for which the buffer is buffering and ListOfBots is a list
+        of bots that have received unique updates on the given date
 
     Special Cases:
         Suspended Games: In the event that a game was suspended and resumed on 
@@ -71,8 +77,9 @@ class NPSimulation(Simulation):
         self.susGamesDict = {} # set upon setup
 
         self.doubleDown = doubleDown
-        
-    # @profile
+        self.botHistoryBuffer = [None, []]
+        # self.copy = 0
+
     def setup(self):
         """
         Downloads necessary retrosheet data, initalizes bots, players, minBatAve, 
@@ -89,7 +96,7 @@ class NPSimulation(Simulation):
         for bot in self.bots:
             bot.claim_mulligan() # claim your mulligan baby
         self.isSetup = True
-    @profile
+
     def sim_next_day(self, doubleDown=False):
         """
         Bool -> None
@@ -117,7 +124,8 @@ class NPSimulation(Simulation):
         # Retrieve list of players playing today
         activePlayers = [player for player in self.players if \
              Researcher.did_start(today, player)]
-
+        
+        sGD = self.susGamesDict
         # assign players to bots and update histories
         modFactor = len(activePlayers)
         if modFactor == 0: # no active players today
@@ -125,13 +133,16 @@ class NPSimulation(Simulation):
             return
         for i, bot in enumerate(self.bots):
             player = activePlayers[i % modFactor]
-            bot.update_history(p1=player, date=today, 
-                susGamesDict=self.susGamesDict)
-
+            # Check if the desired info is on the buffer
+            copyBot = self.__check_update_buffer(p1=player, p2=None, date=today)
+            if copyBot:
+                bot.update_history(bot=copyBot)
+            else: # if its not, then update normally
+                bot.update_history(p1=player, date=today, susGamesDict=sGD)
+                self.botHistoryBuffer[1].append(bot)
         # update the date
         self.incr_date()
 
-    @profile
     def __sim_next_day_double(self):
         """
         None -> None
@@ -153,19 +164,57 @@ class NPSimulation(Simulation):
             return 
         for i, bot in enumerate(self.bots):
             if modFactor == 1: # can't double down if only 1 active player!
-                bot.update_history(p1=activePlayers[0], date=today, 
-                    susGamesDict=sGD)
+                p1 = activePlayers[0]
+                # Check if desired info is on the buffer
+                copyBot = self.__check_update_buffer(p1=p1, p2=None, date=today)
+                if copyBot:
+                    bot.update_history(bot=copyBot)
+                else: # if its not, update normally
+                    bot.update_history(p1=activePlayers[0], date=today, 
+                        susGamesDict=sGD)
+                    self.botHistoryBuffer[1].append(bot)
                 continue
+                
+            ## Else double Down!
             # get player indices. Mod in p2Index accounts for odd Modfactor
             p1Index = (i * 2) % modFactor
             p2Index = (p1Index + 1) % modFactor 
             p1 = activePlayers[p1Index]
             p2 = activePlayers[p2Index]
-            bot.update_history(p1=p1, p2=p2, date=today, susGamesDict=sGD)
+
+            # Check if the desired info is on the buffer
+            copyBot = self.__check_update_buffer(p1=p1, p2=p2, date=today)
+            if copyBot:
+                bot.update_history(bot=copyBot)
+            else: # if its not, then update normally
+                bot.update_history(p1=p1, p2=p2, date=today, susGamesDict=sGD)
+                self.botHistoryBuffer[1].append(bot)
+
         # update the date
         self.incr_date()
 
-    @profile
+    def __check_update_buffer(self, p1=None, p2=None, date=None):
+        """
+        player player date -> bot
+
+        checks the bot update buffer to see if a bot has been assigned p1, p2
+        on date date. If so, returns the bot. Else, returns None and
+        updates the buffer if necessary
+        """
+        assert type(p1) == Player
+        assert (p2 is None) or (type(p2)) == Player
+        assert type(date) == datetime.date
+
+        if self.botHistoryBuffer[0] == date:
+            for bot in self.botHistoryBuffer[1]:
+                if bot.get_players() == (p1, p2):
+                    # self.copy += 1
+                    return bot
+        else:
+           self.botHistoryBuffer = [date, []] 
+        return None
+
+    # @profile
     def simulate(self, numDays='max', anotherSim=False, test=False):
         """
         int|string  bool string-> None
@@ -225,6 +274,7 @@ class NPSimulation(Simulation):
             self.set_setup(value=False)
         # else:
         #     self.close() 
+        # print "numCopies saved: {0}".format(self.copy)
 
     def mass_simulate(self, simYearRange, simMinBatRange, NRange, PRange, 
             Test=False, doubleDown=False):
