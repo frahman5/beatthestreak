@@ -6,7 +6,7 @@ from datetime import date
 from beatthestreak.filepath import Filepath
 from beatthestreak.researcher import Researcher as R
 from beatthestreak.tests import setup, teardown, p1, p2, p3, p4, p5
-from beatthestreak.player import PlayerL, Player
+from beatthestreak.player import Player
 from beatthestreak.exception import FileContentException, BadDateException, \
     NotSuspendedGameException, SusGameDoesntFitCategoryException
 
@@ -42,7 +42,7 @@ class TestResearcher(unittest.TestCase):
 
         # Jose Reyes Tests (and one Albert Pujols)
         self.assertTrue(R.did_get_hit(date(2012, 6, 16), p2))
-        Albert = Player(0, "Albert", "Pujols", 2012)
+        Albert = Player("Albert", "Pujols", 2012)
         # tests following. If R looks up a hit on date d1, it can succesfully
         # look up a hit for the first listed game on the gamelog for date d1 + 1 day
         self.assertTrue(R.did_get_hit(date(2012, 6, 17), Albert))
@@ -73,24 +73,23 @@ class TestResearcher(unittest.TestCase):
         self.assertFalse(R.did_get_hit(date(2008, 7, 29), p5))
         self.assertFalse(R.did_get_hit(date(2008, 8, 31), p5))
 
-        ## Larry Jones, from PlayerL, test. Tests to see if it works even if
+        ## Larry Jones, from Player, test. Tests to see if it works even if
         ## the player has a nickname (Goes by Chipper instead of Larry)
-        pL = PlayerL('jonesch06', 2003)
-        pL = Player(0, playerL=pL)
+        pL = Player('jonesch06', 2003)
         self.assertTrue(R.did_get_hit(date(2003, 4, 19), pL))
         self.assertFalse(R.did_get_hit(date(2003, 8, 28), pL))
 
         # Test Miguel Cabrera, Asdrubal Cabrera, Delmon Young, Michael Young.
         # Checks for proper answer when the functional line of the boxscore
         # has two players with the same last name
-        MC1 = Player(0, "Miguel", "Cabrera", 2012)
-        MC2 = Player(1, "Asdrubal", "Cabrera", 2012)
+        MC1 = Player("Miguel", "Cabrera", 2012)
+        MC2 = Player("Asdrubal", "Cabrera", 2012)
         dateMC = date(2012, 9, 5)
         self.assertTrue(R.did_get_hit(dateMC, MC1))
         self.assertFalse(R.did_get_hit(dateMC, MC2))
 
-        MY1 = Player(2, "Michael", "Young", 2012)
-        MY2 = Player(3, "Delmon", "Young", 2012)
+        MY1 = Player("Michael", "Young", 2012)
+        MY2 = Player("Delmon", "Young", 2012)
         dateMY = date(2012, 6, 26)
         self.assertTrue(R.did_get_hit(dateMY, MY1))
         self.assertFalse(R.did_get_hit(dateMY, MY2))
@@ -102,7 +101,7 @@ class TestResearcher(unittest.TestCase):
         self.assertTrue(R.did_get_hit(date(2006, 6, 3), p2)) # H1, H2
 
         # Lance Berkman tests
-        Lance = Player(0, "Lance", "Berkman", 2008)
+        Lance = Player("Lance", "Berkman", 2008)
         self.assertTrue(R.did_get_hit(date(2009, 7, 9), Lance))
 
     def test_get_hit_info(self):
@@ -114,23 +113,23 @@ class TestResearcher(unittest.TestCase):
         sGD2010 = R.get_sus_games_dict(2010) # assume works
 
     	## Case 1 : (True, None); player got a hit on date d1
-    	Jose = Player(0, "Jose", "Altuve", 2013)
+    	Jose = Player("Jose", "Altuve", 2013)
     	self.assertEqual(R.get_hit_info(d1, Jose, sGD2013), (True, None))
 
     	## Case 2: (False, None); player did not get a hit on date date
-    	Will = Player(1, "Will", "Venable", 2013)
+    	Will = Player("Will", "Venable", 2013)
     	self.assertEqual(R.get_hit_info(d1, Will, sGD2013), (False, None))
 
     	## Case 3: ('pass', 'Suspended, Invalid'); player played in a suspended, invalid game
-    	Mark = Player(2, "Mark", "Grace", 2001)
+    	Mark = Player("Mark", "Grace", 2001)
     	self.assertEqual(R.get_hit_info(d2, Mark, sGD2001), ('pass', 'Suspended, Invalid.'))
 
     	## Case 4: (True, 'Suspended, Valid'); player got a hit in a suspended, valid game
-    	Ben = Player(3, "Ben", "Zobrist", 2010)
+    	Ben = Player("Ben", "Zobrist", 2010)
     	self.assertEqual(R.get_hit_info(d3, Ben, sGD2010), (True, 'Suspended, Valid.'))
 
         ## Case 5 : (False, 'Suspended, Valid'); player did not get a hit in a suspended, valid game
-        Marco = Player(4, "Marco", "Scutaro", 2010)
+        Marco = Player("Marco", "Scutaro", 2010)
         self.assertEqual(R.get_hit_info(d3, Marco, sGD2010), (False, 'Suspended, Valid.'))
 
     def test_get_participants_superset(self):
@@ -149,7 +148,7 @@ class TestResearcher(unittest.TestCase):
         	R._Researcher__get_participants_superset(date(2007, 5, 2)))) # May 1st CHN @ PIT suspended game completed on May 2
 
     def test_find_home_team(self):
-    	Troy = Player(0, "Troy", "Tulowitzki", 2010)
+    	Troy = Player("Troy", "Tulowitzki", 2010)
     	self.assertEqual(R.find_home_team(date(2011, 8, 3), p1), "MIL")
     	## tests that the function works when used on consecutive days
     	## and on the second day the relevant game is the FIRST such game
@@ -171,13 +170,13 @@ class TestResearcher(unittest.TestCase):
         # Adrian played in a game on 4/16 that was suspended and finished
         # on 4/17. He started on 4/16 and pinch ran on 4/17. Thus 
         # he should show up as NOT HAVING started on the 17th, and started on the 16th
-        Adrian = Player(1, "Adrian", "Beltre", 2010)
+        Adrian = Player("Adrian", "Beltre", 2010)
         self.assertFalse(R.did_start(date(2010, 4, 17), Adrian))
         self.assertTrue(R.did_start(date(2010, 4, 16), Adrian))
 
         # Craig started on the 07/30 but only pinch hit on 7/31. Thus he should
         # show up as NOT having started on the 31st, and starting on the 30th
-        Craig = Player(2, "Craig", "Biggio", 2004)
+        Craig = Player("Craig", "Biggio", 2004)
         self.assertFalse(R.did_start(date(2004, 7, 31), Craig))
         self.assertTrue(R.did_start(date(2004, 7, 3), Craig))
 

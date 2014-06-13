@@ -12,7 +12,7 @@ from progressbar.widgets import Timer, Percentage
 from config import specialCasesD
 from filepath import Filepath
 from simulation import Simulation
-from player import PlayerL, Player
+from player import Player
 from researcher import Researcher
 from exception import DifficultYearException
 from bot import Bot
@@ -72,7 +72,7 @@ class NPSimulation(Simulation):
 
         self.doubleDown = doubleDown
         
-    @profile
+    # @profile
     def setup(self):
         """
         Downloads necessary retrosheet data, initalizes bots, players, minBatAve, 
@@ -89,7 +89,7 @@ class NPSimulation(Simulation):
         for bot in self.bots:
             bot.claim_mulligan() # claim your mulligan baby
         self.isSetup = True
-    # @profile
+    @profile
     def sim_next_day(self, doubleDown=False):
         """
         Bool -> None
@@ -131,7 +131,7 @@ class NPSimulation(Simulation):
         # update the date
         self.incr_date()
 
-    # @profile
+    @profile
     def __sim_next_day_double(self):
         """
         None -> None
@@ -165,7 +165,7 @@ class NPSimulation(Simulation):
         # update the date
         self.incr_date()
 
-    # @profile
+    @profile
     def simulate(self, numDays='max', anotherSim=False, test=False):
         """
         int|string  bool string-> None
@@ -207,6 +207,7 @@ class NPSimulation(Simulation):
         elapsedDays = 0
         sim_next_day = self.sim_next_day
         update_pbar = pbar.update
+        doubleDown = self.doubleDown
         while True:
             if (numDays=='max') and (self.currentDate >= lastDate):
                 Reporter.report_results(test=test)
@@ -214,7 +215,7 @@ class NPSimulation(Simulation):
             if (type(numDays) == int) and elapsedDays >= numDays:
                 Reporter.report_results(test=test)
                 break
-            sim_next_day(doubleDown=self.doubleDown)
+            sim_next_day(doubleDown=doubleDown)
             elapsedDays += 1
             update_pbar(elapsedDays)
         pbar.finish()
@@ -382,7 +383,7 @@ class NPSimulation(Simulation):
 
         return (simYear - difference for difference 
             in range(simMinBatRange[0], simMinBatRange[1] + 1))
-    @profile
+    # @profile
     def __calc__players(self, year):
         """
         int -> ListOfTuples(player, player.bat_ave)
@@ -411,7 +412,7 @@ class NPSimulation(Simulation):
             if lenPlayers == P: # we've got all the players
                 break
             if PA >= minPA: # make sure the player has enough plate appearances
-                append(Player(lenPlayers, playerL=PlayerL(lahmanID, year)))
+                append(Player(lahmanID, year))
                 lenPlayers += 1
 
         return players
@@ -445,7 +446,7 @@ class NPSimulation(Simulation):
         # calculate batting averages and plate appearances
         batAveList, plateAppearList = [], []
         for index, lahmanID in enumerate(uniqueIDArray):
-            player = PlayerL(lahmanID, year)
+            player = Player(lahmanID, year)
             batAveList.append(player.get_bat_ave())
             plateAppearList.append(Researcher.num_plate_appearances(year, player))
             pbar.update(index)

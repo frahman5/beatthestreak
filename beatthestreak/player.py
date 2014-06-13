@@ -9,58 +9,10 @@ from exception import NoPlayerException
 from researcher import Researcher
 from filepath import Filepath
 
-class PlayerL(object):
-    """
-    An MLB athlete with limited data.
-    Data:
-        lId: string | player's lahman id
-        bat_ave: [float[0,1]] | player's batting average for some year
-
-    Purpose: Batting averages must be calculated often, but you don't need
-    a full blown player to do that. This object houses the batting average
-    calculation methods without the extra fluff
-    """
-
-    def __init__(self, lahmanID, batAveYear):
-        assert type(lahmanID) == str
-        assert type(batAveYear) == int
-
-        self.lId = lahmanID
-        self.batAve = self._set_bat_ave(batAveYear)
- 
-    def _set_bat_ave(self, year):
-        """
-        int -> float
-        year: int | year as a 4 digit int
-
-        Produces the season batting average of self in year year, rounded
-        off to 3 decimal places
-        """
-        assert type(year) == int
-
-        # Read in relevant columns from batting.csv
-        df = pd.read_csv(Filepath.get_lahman_file("batting"), 
-                         usecols=['playerID', 'yearID', 'AB', 'H'])
-
-        # Getting batting stats for player in given year
-        lId = self.get_lahman_id()
-        batting_stats_df = df[df.playerID == lId][df.yearID == year]
-
-        # Sum over all the hits and divide by the sum over all at-bats
-        #   accounts for players who were traded mid season via summing
-        return round(sum(batting_stats_df.H) / sum(batting_stats_df.AB), 3)
-
-    def get_bat_ave(self):
-        return self.batAve
-
-    def get_lahman_id(self):
-        return self.lId
-
-class Player(PlayerL):
+class Player(object):
     """
     An MLB athlete.
     Attributes:
-        index: int[>=0] | player index in a simulation
         rId: string | player's retrosheet id
         lId: string | player's lahman id
         firstName: string | Player's first name
@@ -69,48 +21,49 @@ class Player(PlayerL):
             -> Capitalized First letter
         batAve: float[0, 1] | player's batting average
         debut: string(mm/dd/yyyy) | date of player's debut
-    """
-    
+    """ 
     def __init__(self, *args, **kwargs):
         """
         Can construct in multiple ways:
-        1) Player(index, playerL = *playerLInstance*)
-            -> takes lahmanID and batting ave from lahmanId. 
-            Obtains name, and retrosheet_id on its own
-        2) Player(index, firstN, lastN, batAveYear)
+        1) Player(lahmanID, batAveYear)
+            -> takes lahmanID and batAveYear. Obtains name, retrosheetID and
+            batting average on its own
+        2) Player(firstN, lastN, batAveYear)
             -> constructor will find retrosheet id, lahman id, batting ave, and
             if necessary prompt the user for a debut date
-        3) Player(index, firstN, lastN, batAveYear, debut='mm/dd/yyyy')
+        3) Player(firstN, lastN, batAveYear, debut='mm/dd/yyyy')
             -> same as above, except now with player debut date specified, 
             there is no chance of ambiguity in retrieving a retrosheet id
             -> if debut was september 4th, 1990, do debut='9/4/1990'
         """
         # Type 1 construction
-        if 'playerL' in kwargs.keys():
-            # make sure we have an index
-            assert len(args) == 1 
-            assert type(args[0]) == int
-            # initialize
-            self.__init__from_playerL(args[0], kwargs['playerL'])
+        if len(args) == 2: 
+            assert type(args[0]) == str # lahman ID
+            assert type(args[1]) == int # batAveYear
+            self.lId = args[0]
+            self.firstName, self.lastName = Researcher.name_from_lahman_id(args[0])
+            self.rId = self.__set_retrosheet_id(source='lahmanID')
+            self.batAve = self._set_bat_ave(args[1])
+            self.debut = None
             return
 
-        # Types 2 and 3 construction
-        assert len(args) == 4
-        assert type(args[0]) == int
-        assert type(args[1]) == str
-        assert type(args[2]) == str
-        assert type(args[3]) == int
+        # else Types 2 and 3 construction
+        assert len(args) == 3
+        assert type(args[0]) == str # first name
+        assert type(args[1]) == str # last name
+        assert type(args[2]) == int # batAveYear
 
         if 'debut' in kwargs.keys():
             self.debut = kwargs['debut']
         else:
             self.debut = None
-        self.index = args[0]
-        self.firstName = args[1]
-        self.lastName = args[2]
+
+        self.firstName = args[0]
+        self.lastName = args[1]
         self.rId = self.__set_retrosheet_id(source='name')
         self.lId = self.__set_lahman_id()
-        self.batAve = self._set_bat_ave(args[3])
+        self.batAve = self._set_bat_ave(args[2])
+        
 
     def __eq__(self, other):
         # technically, only need one. but dependability via redundancy :)
@@ -124,23 +77,6 @@ class Player(PlayerL):
     def __repr__(self):
         return self.__str__()
 
-    def __init__from_playerL(self, index, playerL):
-        """
-        int playerL -> None
-        index: int | player index in a simulation
-        playerL: playerL | a playerL instance that is essentially a subclass
-            of self
-
-        Helper function for init. Initalizes self from a playerL instance
-        """
-        assert type(index) == int
-        assert type(playerL) == PlayerL
-
-        self.index = index
-        self.lId = playerL.get_lahman_id()
-        self.firstName, self.lastName = Researcher().name_from_lahman_id(self.lId)
-        self.rId = self.__set_retrosheet_id(source='lahmanID')
-        self.batAve = playerL.get_bat_ave()
 
     def __set_retrosheet_id(self, source='name'):
         """
@@ -215,9 +151,6 @@ class Player(PlayerL):
     def get_retrosheet_id(self):
         return self.rId
 
-    def get_index(self):
-        return self.index
-    
     def get_name(self):
         return self.firstName + " " + self.lastName
 
@@ -235,5 +168,30 @@ class Player(PlayerL):
 
         self.debut = debut
 
+    def get_bat_ave(self):
+        return self.batAve
 
+    def get_lahman_id(self):
+        return self.lId
 
+    def _set_bat_ave(self, year):
+        """
+        int -> float
+        year: int | year as a 4 digit int
+
+        Produces the season batting average of self in year year, rounded
+        off to 3 decimal places
+        """
+        assert type(year) == int
+
+        # Read in relevant columns from batting.csv
+        df = pd.read_csv(Filepath.get_lahman_file("batting"), 
+                         usecols=['playerID', 'yearID', 'AB', 'H'])
+
+        # Getting batting stats for player in given year
+        lId = self.get_lahman_id()
+        batting_stats_df = df[df.playerID == lId][df.yearID == year]
+
+        # Sum over all the hits and divide by the sum over all at-bats
+        #   accounts for players who were traded mid season via summing
+        return round(sum(batting_stats_df.H) / sum(batting_stats_df.AB), 3)

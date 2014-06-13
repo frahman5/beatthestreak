@@ -15,19 +15,19 @@ from beatthestreak.researcher import Researcher
 class TestNPSimulation(unittest.TestCase):
 
     players2003_2002 = \
-        [Player(0, "Barry", "Bonds", 2002), Player(1, "Manny", "Ramirez", 2002), 
-         Player(2, "Mike", "Sweeney", 2002), Player(3, "Larry", "Walker", 2002), 
-         Player(4, "Vladimir", "Guerrero", 2002), Player(5, "Bernie", "Williams", 2002, debut='7/7/1991'), 
-         Player(6, "Todd", "Helton", 2002),Player(7, "Chipper", "Jones", 2002), 
-         Player(8, "Ichiro", "Suzuki", 2002), Player(9, "Magglio", "Ordonez", 2002),
-         Player(10, "Jose", "Vidro", 2002), Player(11, "Albert", "Pujols", 2002),
-         Player(12, "Jason", "Giambi", 2002),Player(13, "Jeff", "Kent", 2002),
-         Player(14, "Adam", "Kennedy", 2002), Player(15, "Jim", "Edmonds", 2002),
-         Player(16, "Nomar", "Garciaparra", 2002), Player(17, "Bobby", "Abreu", 2002), 
-         Player(18, "Miguel", "Tejada", 2002), Player(19, "Edgardo", "Alfonzo", 2002)]
+        [Player("Barry", "Bonds", 2002), Player("Manny", "Ramirez", 2002), 
+         Player("Mike", "Sweeney", 2002), Player("Larry", "Walker", 2002), 
+         Player("Vladimir", "Guerrero", 2002), Player("Bernie", "Williams", 2002, debut='7/7/1991'), 
+         Player("Todd", "Helton", 2002),Player("Chipper", "Jones", 2002), 
+         Player("Ichiro", "Suzuki", 2002), Player("Magglio", "Ordonez", 2002),
+         Player("Jose", "Vidro", 2002), Player("Albert", "Pujols", 2002),
+         Player("Jason", "Giambi", 2002),Player("Jeff", "Kent", 2002),
+         Player("Adam", "Kennedy", 2002), Player("Jim", "Edmonds", 2002),
+         Player("Nomar", "Garciaparra", 2002), Player("Bobby", "Abreu", 2002), 
+         Player("Miguel", "Tejada", 2002), Player("Edgardo", "Alfonzo", 2002)]
 
     players_2001_2001_N15_P16 = \
-        [Player(0, "Ichiro", "Suzuki", 2001), Player(1, "Larry", "Walker", 2001), 
+        [Player("Ichiro", "Suzuki", 2001), Player("Larry", "Walker", 2001), 
         ]
     def setUp(self):
         setup()
@@ -193,14 +193,14 @@ class TestNPSimulation(unittest.TestCase):
         npsim2001.sim_next_day()
         
         botPlayersRaw = [
-            Player(0, "Ichiro", "Suzuki", 2001), Player(1, "Larry", "Walker", 2001), 
-            Player(2, "Jason", "Giambi", 2001), Player(3, "Todd", "Helton", 2001), 
-            Player(4, "Roberto", "Alomar", 2001), Player(5, "Moises", "Alou", 2001), 
-            Player(6, "Lance", "Berkman", 2001), Player(7, "Bret", "Boone", 2001), 
-            Player(8, "Chipper", "Jones", 2001), Player(9, "Frank", "Catalanotto", 2001),
-            Player(10, "Albert", "Pujols", 2001), Player(11, "Barry", "Bonds", 2001), 
-            Player(12, "Sammy", "Sosa", 2001), Player(13, "Juan", "Pierre", 2001), 
-            Player(14, "Luis", "Gonzalez", 2001, debut='9/4/1990')]
+            Player("Ichiro", "Suzuki", 2001), Player("Larry", "Walker", 2001), 
+            Player("Jason", "Giambi", 2001), Player("Todd", "Helton", 2001), 
+            Player("Roberto", "Alomar", 2001), Player("Moises", "Alou", 2001), 
+            Player("Lance", "Berkman", 2001), Player("Bret", "Boone", 2001), 
+            Player("Chipper", "Jones", 2001), Player("Frank", "Catalanotto", 2001),
+            Player("Albert", "Pujols", 2001), Player("Barry", "Bonds", 2001), 
+            Player("Sammy", "Sosa", 2001), Player("Juan", "Pierre", 2001), 
+            Player("Luis", "Gonzalez", 2001, debut='9/4/1990')]
         botPlayers = [(player, None) for player in botPlayersRaw]
         botStreaks = [2, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 2, 1]
         bools = map(lambda x: x > 0, botStreaks)
@@ -210,7 +210,7 @@ class TestNPSimulation(unittest.TestCase):
             for f, s in HistoriesRaw]
         # bot with luiz gongalez got a 'pass', not a boolean true or false
         botPlayerHistories[-1] = [(
-            Player(14, "Luis", "Gonzalez", 2001, debut='9/4/1990'), None,
+            Player("Luis", "Gonzalez", 2001, debut='9/4/1990'), None,
             'pass', None, date(2001,7,18), 1, "Suspended, Invalid.")] 
 
         self.assertEqual((len(bots)), 15) # check that bots are not empty

@@ -27,7 +27,7 @@ class testNPReporter(unittest.TestCase):
 
 	    # change one bot so that its different
 	    sim.get_bots()[4].update_history(
-	        p1=Player(0, "Manny", "Ramirez", 2010), date=date(2009, 9, 9), 
+	        p1=Player("Manny", "Ramirez", 2010), date=date(2009, 9, 9), 
 	        susGamesDict=sGD2012)
 	    # should now be 2 "unique" bots
 	    self.assertEqual(reporter._NPReporter__calc_num_unique_bots(), 2)

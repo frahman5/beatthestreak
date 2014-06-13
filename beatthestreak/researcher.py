@@ -18,7 +18,7 @@ class Researcher(object):
     A MLB researcher that that look up facts about MLB events 
     (games, seasons, teams, etc)
 
-    Note: functions with a Player or PlayerL instance as a parameter DO NOT 
+    Note: functions with a Player instance as a parameter DO NOT 
     type check that parameter because importing from player.py would cause
     a cyclical import error
 
@@ -212,9 +212,9 @@ class Researcher(object):
     @classmethod
     def num_at_bats(self, year, player):
         """
-        int PlayerL -> int
+        int Player -> int
         year: int | the year of interest
-        PlayerL: PlayerL | A basic player-lahman object of interest
+        Player: Player | A player object of interest
 
         Produces the number of at bats that player had in year year
         """
@@ -231,9 +231,9 @@ class Researcher(object):
     @classmethod
     def num_plate_appearances(self, year, player):
         """
-        int PlayerL -> int
+        int Player -> int
         year: int | the year of interest
-        PlayerL: int| A basic player-lahman object of interest
+        Player: int| A player object of interest
 
         Returns the number of plate appearances that player had in year year
         """

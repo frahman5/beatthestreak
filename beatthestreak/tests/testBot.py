@@ -21,8 +21,8 @@ class TestBot(unittest.TestCase):
         teardown()
     
     def test_bot_equality(self):
-        manny = Player(0, "Manny", "Ramirez", 2010)
-        alfonso = Player(1, "Alfonso", "Soriano", 2010)
+        manny = Player("Manny", "Ramirez", 2010)
+        alfonso = Player("Alfonso", "Soriano", 2010)
         sGD2010 = Researcher.get_sus_games_dict(2010)
 
         # empty bots are equal
@@ -86,7 +86,7 @@ class TestBot(unittest.TestCase):
         # test that passing 'pass' for hitVal keeps streak length where it is
         # and other gets updated correctly
         d2 = date(2001, 6, 15)
-        Endy = Player(0, "Endy", "Chavez", 2001) # played in suspended, invalid game on d2
+        Endy = Player("Endy", "Chavez", 2001) # played in suspended, invalid game on d2
         susGamesDict2001 = Researcher.get_sus_games_dict(2001)
         suspInvalidOtherS = 'Suspended, Invalid.'
         self.assertEqual(self.bot1.get_streak_length(), 1)
@@ -110,9 +110,9 @@ class TestBot(unittest.TestCase):
 
     def test_update_history_single_down_with_mulligan(self):
         testDate = date(2001, 6, 15)
-        pT = Player(0, "Tom", "Goodwin", 2001) # got a hit on testDate
-        pF = Player(1, "Troy", "Glaus", 2001) # did not get a hit on testDate
-        pP = Player(0, "Endy", "Chavez", 2001) # hot a pass on testDate
+        pT = Player("Tom", "Goodwin", 2001) # got a hit on testDate
+        pF = Player("Troy", "Glaus", 2001) # did not get a hit on testDate
+        pP = Player("Endy", "Chavez", 2001) # hot a pass on testDate
         susGamesDict2001 = Researcher.get_sus_games_dict(2001)
         susGamesDict2011 = Researcher.get_sus_games_dict(2011)
         mulliganRange = [10, 11, 12, 13, 14, 15]
@@ -208,7 +208,7 @@ class TestBot(unittest.TestCase):
         ## Loose ends to get 100% test coverage
         ## A mulligan eligble bot with a player who did not get a hit in a
         ## suspended, valid game creates the correct "otherInfo"
-        Rafael = Player(0, "Rafael", "Furcal", 2010) # no hit in suspended, valid game
+        Rafael = Player("Rafael", "Furcal", 2010) # no hit in suspended, valid game
         bot = Bot(0)
         bot.claim_mulligan()
         bot.incr_streak_length(amount=13)
@@ -222,14 +222,14 @@ class TestBot(unittest.TestCase):
         random.seed()
 
         # two players that got hits on d1
-        pH1 = Player(0, "Derek", "Jeter", 2001)
-        pH2 = Player(1, "Rafael", "Furcal", 2001)
+        pH1 = Player("Derek", "Jeter", 2001)
+        pH2 = Player("Rafael", "Furcal", 2001)
         # two players that did not get hits on d1
-        pF1 = Player(2, "Rickey", "Henderson", 2001)
-        pF2 = Player(3, "Shane", "Halter", 2001)
+        pF1 = Player("Rickey", "Henderson", 2001)
+        pF2 = Player("Shane", "Halter", 2001)
         # two players that got passes on d1
-        pP1 = Player(4, "Endy", "Chavez", 2001) # played in suspended, invalid game on d1
-        pP2 = Player(5, "Mark", "Loretta", 2001) #played in suspended, invalid game on d1
+        pP1 = Player("Endy", "Chavez", 2001) # played in suspended, invalid game on d1
+        pP2 = Player("Mark", "Loretta", 2001) #played in suspended, invalid game on d1
 
         ## Case 1: p1 Hit, p2 No Hit : Streak ups 2 (maxStreak may change)
         bot = Bot(10)
@@ -419,14 +419,14 @@ class TestBot(unittest.TestCase):
         outsideMulliganRange = [i for i in range(0,151) if i not in mulliganRange]
 
         # two players that got hits on d1
-        pH1 = Player(0, "Derek", "Jeter", 2001)
-        pH2 = Player(1, "Rafael", "Furcal", 2001)
+        pH1 = Player("Derek", "Jeter", 2001)
+        pH2 = Player("Rafael", "Furcal", 2001)
         # two players that did not get hits on d1
-        pF1 = Player(2, "Rickey", "Henderson", 2001)
-        pF2 = Player(3, "Shane", "Halter", 2001)
+        pF1 = Player("Rickey", "Henderson", 2001)
+        pF2 = Player("Shane", "Halter", 2001)
         # two players that got passes on d1
-        pP1 = Player(4, "Endy", "Chavez", 2001) # played in suspended, invalid game on d1
-        pP2 = Player(5, "Mark", "Loretta", 2001) #played in suspended, invalid game on d1
+        pP1 = Player("Endy", "Chavez", 2001) # played in suspended, invalid game on d1
+        pP2 = Player("Mark", "Loretta", 2001) #played in suspended, invalid game on d1
 
         # initalize pseudo-random number generator
         random.seed()

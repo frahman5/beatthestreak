@@ -43,11 +43,11 @@ def teardown():
 p1BattingAve, p2BattingAve  = 0.228, 0.287
 p3BattingAve, p4BattingAve = 0.262, 0.248
 p5BattingAve = 0.332 
-p1 = Player(1, "Edwin", "Jackson", 2012)
-p2 = Player(2, "Jose", "Reyes", 2012, debut='6/10/2003')
-p3 = Player(3, "Alfonso", "Soriano", 2012)
-p4 = Player(4, "Jorge", "Posada", 2010)
-p5 = Player(5, "Manny", "Ramirez", 2008) # season he got traded 
+p1 = Player("Edwin", "Jackson", 2012)
+p2 = Player("Jose", "Reyes", 2012, debut='6/10/2003')
+p3 = Player("Alfonso", "Soriano", 2012)
+p4 = Player("Jorge", "Posada", 2010)
+p5 = Player("Manny", "Ramirez", 2008) # season he got traded 
 
 ## testRetrosheet variables
 r2011 = Retrosheet(2011)

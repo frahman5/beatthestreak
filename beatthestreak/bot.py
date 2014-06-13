@@ -43,7 +43,7 @@ class Bot(object):
             return False
         return True
         
-    # @profile
+    @profile
     def update_history(self, p1=None, p2=None, date=None, susGamesDict=None):
         """
         Player Player(optional) date dict -> None
@@ -64,7 +64,7 @@ class Bot(object):
         elif not p2:
             self.__update_history_single_down(p1, date, susGamesDict)
 
-    # @profile
+    @profile
     def __update_history_double_down(self, p1, p2, date, susGamesDict):
         """
         Player Player date dict -> None
