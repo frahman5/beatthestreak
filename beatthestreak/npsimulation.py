@@ -78,7 +78,8 @@ class NPSimulation(Simulation):
 
         self.doubleDown = doubleDown
         self.botHistoryBuffer = [None, []]
-        # self.copy = 0
+
+        self.didNotRepeatSetup = False
 
     def setup(self):
         """
@@ -86,6 +87,7 @@ class NPSimulation(Simulation):
         susGamesDict
         """
         if self.isSetup: 
+            self.didNotRepeatSetup = True # for testing
             return
 
         Simulation.setup(self) # download and parse retrosheet data
@@ -128,8 +130,9 @@ class NPSimulation(Simulation):
         sGD = self.susGamesDict
         # assign players to bots and update histories
         modFactor = len(activePlayers)
-        if modFactor == 0: # no active players today
-            self.incr_date()
+        # no active players today
+        if modFactor == 0: # pragma: no cover
+            self.incr_date() 
             return
         for i, bot in enumerate(self.bots):
             player = activePlayers[i % modFactor]
@@ -159,8 +162,9 @@ class NPSimulation(Simulation):
         # assign players to bots and update histories
         modFactor = len(activePlayers)
         sGD = self.susGamesDict
-        if modFactor == 0: # no active Players today
-            self.incr_date()
+        # no active Players today
+        if modFactor == 0: # pragma: no cover
+            self.incr_date() 
             return 
         for i, bot in enumerate(self.bots):
             if modFactor == 1: # can't double down if only 1 active player!
@@ -208,7 +212,6 @@ class NPSimulation(Simulation):
         if self.botHistoryBuffer[0] == date:
             for bot in self.botHistoryBuffer[1]:
                 if bot.get_players() == (p1, p2):
-                    # self.copy += 1
                     return bot
         else:
            self.botHistoryBuffer = [date, []] 
@@ -258,7 +261,7 @@ class NPSimulation(Simulation):
         update_pbar = pbar.update
         doubleDown = self.doubleDown
         while True:
-            if (numDays=='max') and (self.currentDate >= lastDate):
+            if (numDays=='max') and (self.currentDate >= lastDate): # pragma: no cover
                 Reporter.report_results(test=test)
                 break
             if (type(numDays) == int) and elapsedDays >= numDays:
@@ -270,11 +273,8 @@ class NPSimulation(Simulation):
         pbar.finish()
 
         # close up shop
-        if anotherSim:
+        if anotherSim: # pragma: no cover
             self.set_setup(value=False)
-        # else:
-        #     self.close() 
-        # print "numCopies saved: {0}".format(self.copy)
 
     def mass_simulate(self, simYearRange, simMinBatRange, NRange, PRange, 
             Test=False, doubleDown=False):
@@ -384,14 +384,8 @@ class NPSimulation(Simulation):
     def get_bots(self):
         return self.bots
 
-    def set_n(self, N):
-        self.numBots = N
-
     def get_n(self):
         return self.numBots
-
-    def set_p(self, P):
-        self.numPlayers = P
 
     def get_p(self):
         return self.numPlayers
@@ -403,7 +397,7 @@ class NPSimulation(Simulation):
         """
         self.currentDate += timedelta(days=num_days)
 
-    def set_bat_year(self, year):
+    def set_bat_year(self, year): # delete
         self.batAveYear = year
 
     def get_bat_year(self):
@@ -412,8 +406,24 @@ class NPSimulation(Simulation):
     def set_setup(self, value=False):
         self.isSetup = value
 
-    def get_setup(self):
-        return self.isSetup
+    def set_sim_year(self, simYear):
+        assert type(simYear) == int
+        self.simYear = simYear
+
+    def set_bat_year(self, batYear):
+        assert type(batAveYear) == int
+        self.batAveYear == batAveYear
+
+    def set_n(self, N):
+        assert type(N) == int
+        self.numBots = N
+
+    def set_p(self, P):
+        assert type(P) == int
+        self.numPlayers = P
+
+
+
 
     def __bat_years_ms(self, simYear, simMinBatRange):
         """
@@ -451,7 +461,7 @@ class NPSimulation(Simulation):
         # already been constructed, if not construct it
         if not os.path.isfile(Filepath.get_retrosheet_file(folder='persistent', 
             fileF='batAve', year=year)):
-            self.__construct_bat_ave_csv(year)
+            self.__construct_bat_ave_csv(year) # pragma: no cover
 
         # Construct a list of the top P players
         df = DataFrame.from_csv(Filepath.get_retrosheet_file(folder='persistent', 
@@ -467,7 +477,7 @@ class NPSimulation(Simulation):
 
         return players
 
-    def __construct_bat_ave_csv(self, year):
+    def __construct_bat_ave_csv(self, year): # pragma: no cover
         """
         int -> None
         year: int | the year for which the csv file should be constructed
@@ -520,10 +530,7 @@ class NPSimulation(Simulation):
         """ 
         return self.players[-1].get_bat_ave()
 
-    def get_double_down(self):
-        return self.doubleDown
-
-def main(*args):
+def main(*args): # pragma: no cover
     """
     run a single simulation from the command line
     """
@@ -535,7 +542,7 @@ def main(*args):
 
     sim.simulate()
 
-if __name__ == '__main__':
+if __name__ == '__main__': # pragma: no cover
     """
     Command line Usage:
 

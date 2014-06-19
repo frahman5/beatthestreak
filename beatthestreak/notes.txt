@@ -25,24 +25,25 @@ Notes:
     -> install FellThroughExceptions on all appropriate functions
     -> If putting up on github, test filepath.get_root() so that it returns
     the right stirng REGARDLESS of what the cwd is or which module is calling in
+    -> create a single source of truth for update logic in bot
 
 3) ToDo before starting mass simulations
     -> Achieve 100% line-coverage and logical coverage of all modules
-        -> testBot
+        -> testBot | DONE
             -> lastHistory element and update_history buffer
                 -> logical testing must occur in NPSimulation
         -> tsetFilePath | DONE
         -> testNPReporter
         -> testNPSimulation
-        -> testPlayer
+        -> testPlayer | DONE
         -> testResearcher | DONE
         -> testRetrosheet | DONE
              -> 95% test coverage is acceptable, because stragglers are
              lines that just check for existing files
         -> testUtilities | DONE
-        -> Buffers that need Checking: 
-            -> bot: lastHistory
-            -> NPSimulation: botHistory Buffer
+        -> Buffers that need Checking: |DONE
+            -> bot: lastHistory | DONE
+            -> NPSimulation: botHistory Buffer | DONE
             -> Researcher: | DONE
                 -> listOfGamesBuffer | DONE
                 -> boxscoreBuffer | DONE
@@ -52,4 +53,8 @@ Notes:
         -> player choice method
         -> update file names
     -> Get mass_simulate working
+
+4) ToDo if decide to speedup:
+     -> Perhaps remove unnecessary attributes, like player from bot. It's
+        redundant since that information is stored in the history tuples
        

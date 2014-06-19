@@ -49,7 +49,6 @@ class TestBot(unittest.TestCase):
             susGamesDict=sGD2010)   # didn't get a hit
         self.assertFalse(self.bot1 == self.bot2)
 
-   
     def test_incr_streak_length_and_get_streak_length(self):
         for i in range(4):
             self.bot1.incr_streak_length()
@@ -72,34 +71,183 @@ class TestBot(unittest.TestCase):
         self.assertEqual(self.bot2.get_index(), 2)
 
     def test_update_history_copy(self):
+        # test for single downs
+        self.__t_update_history_copy_single_down()
+        # test for double downs
+        self.__t_update_history_copy_double_down()
 
-        ## Single Down
-        d1 = date(2003, 7, 1) # Jose Reyes (p2) got a hit on this date
-        susGamesDict2003 = Researcher.get_sus_games_dict(2003)
-        self.assertEqual(self.bot1.get_streak_length(), 0) 
-        self.bot1.update_history(p1=p2, date=d1, susGamesDict=susGamesDict2003)
-        self.assertEqual(self.bot1.get_history()[0], 
-            (p2, None, True, None, d1, 1, None))
+            
+
+    def __t_update_history_copy_single_down(self):
+        d1 = date(2001, 6, 15)
+        d2 = date(2004, 7, 15)
+             # players that got hits on d2
+        pH1 = Player("Shannon", "Stewart", 2004)
+             # two players that did not get hits on d1
+        pN1 = Player("Bobby", "Higginson", 2001)
+        pN2 = Player("Steve", "Cox", 2001)
+             ## players that played in suspended, invalid games on d1
+        pP1 = Player("Endy", "Chavez", 2001) 
+
+        sGD2001 = Researcher.get_sus_games_dict(2001)
+        sGD2004 = Researcher.get_sus_games_dict(2004)
         bot = Bot(0)
-        self.assertEqual(bot.get_history(), [])
+        ## In all cases: check that bot that is updating has correct
+        ## history tuple, players, streak length, mulligan status, 
+        ## lastHistory, and make sure the source bot and destination bot
+        ## start out with different streak lengths
+        ## In every test case, we first make a bot to be copied, and then copy
+        ## copy his history
+
+        ## Case 1: Hit
+        self.assertEqual(self.bot1.get_streak_length(), 0) 
+        self.bot1.update_history(p1=pH1, date=d2, susGamesDict=sGD2004)
+        self.assertEqual(self.bot1.get_history()[0], 
+            (pH1, None, True, None, d2, 1, None))
+        bot.incr_streak_length(10) 
         bot.update_history(bot=self.bot1)
         self.assertEqual(bot.get_history()[-1], 
-            (p2, None, True, None, d1, 1, None))
+            (pH1, None, True, None, d2, 11, None))
+        self.assertEqual((pH1, None), bot.get_players())
+        self.assertEqual(11, bot.get_streak_length())
+        self.assertFalse(bot.get_mulligan_status())
+        ## Case 2: Not Hit (no Mulligan)
+        self.assertEqual(self.bot1.get_streak_length(), 1) 
+        self.bot1.update_history(p1=pN1, date=d1, susGamesDict=sGD2001)
+        self.assertEqual(self.bot1.get_history()[-1], 
+            (pN1, None, False, None, d1, 0, None))
+        bot.update_history(bot=self.bot1)
+        self.assertEqual(bot.get_history()[-1], 
+            (pN1, None, False, None, d1, 0, None))
+        self.assertEqual((pN1, None), bot.get_players())
+        self.assertEqual(0, bot.get_streak_length())
+        self.assertFalse(bot.get_mulligan_status())
+        ## Case 3: Not Hit (Mulligan)
+        for mulStreak in range(10, 16):
+            bot = Bot(0)
+            self.assertEqual(self.bot1.get_streak_length(), 0) 
+            self.bot1.update_history(p1=pN2, date=d1, susGamesDict=sGD2001)
+            self.assertEqual(self.bot1.get_history()[-1], 
+                (pN2, None, False, None, d1, 0, None))
+            bot.incr_streak_length(amount=mulStreak)
+            bot.claim_mulligan()
+            bot.update_history(bot=self.bot1)
+            self.assertEqual(bot.get_history()[-1], 
+                (pN2, None, False, None, d1, mulStreak, 'Mulligan.'))
+            self.assertEqual((pN2, None), bot.get_players())
+            self.assertEqual(mulStreak, bot.get_streak_length())
+            self.assertFalse(bot.get_mulligan_status())
+            self.assertTrue(bot.has_used_mulligan())
+        ## Case 4: Pass
+        self.assertEqual(self.bot1.get_streak_length(), 0) 
+        self.bot1.update_history(p1=pP1, date=d1, susGamesDict=sGD2001)
+        self.assertEqual(self.bot1.get_history()[-1], 
+            (pP1, None, 'pass', None, d1, 0, 'Suspended, Invalid.'))
+        bot.update_history(bot=self.bot1)
+        self.assertEqual(bot.get_history()[-1], 
+            (pP1, None, 'pass', None, d1, 15, 'Suspended, Invalid.'))
+        self.assertEqual((pP1, None), bot.get_players())
+        self.assertEqual(15, bot.get_streak_length())
+        self.assertFalse(bot.get_mulligan_status())
     
-        ## Double Down
+    def __t_update_history_copy_double_down(self):
         d1 = date(2001, 6, 15)
-        sGD2001 = Researcher.get_sus_games_dict(2001)
              # two players that got hits on d1
         pH1 = Player("Derek", "Jeter", 2001)
         pH2 = Player("Rafael", "Furcal", 2001)
+             # two players that did not get hits on d1
+        pN1 = Player("Bobby", "Higginson", 2001)
+        pN2 = Player("Steve", "Cox", 2001)
+             ## two players that played in suspended, invalid games on d1
+        pP1 = Player("Endy", "Chavez", 2001) 
+        pP2 = Player("Mark", "Loretta", 2001) 
 
-        self.bot1.update_history(p1=pH1, p2=pH2, date=d1, susGamesDict = sGD2001)
+        sGD2001 = Researcher.get_sus_games_dict(2001)
+        bot = Bot(0)
+        ## In all cases: check that bot that is updating has correct
+        ## history tuple, players, streak length, mulligan status, 
+        ## lastHistory, and make sure the source bot and destination bot
+        ## start out with different streak lengths
+        ## In every test case, we first make a bot to be copied, and then copy
+        ## copy his history
+
+        ## Case 1: Hit Hit
+        self.assertEqual(self.bot1.get_streak_length(), 0) 
+        self.bot1.update_history(p1=pH1, p2=pH2, date=d1, susGamesDict=sGD2001)
         self.assertEqual(self.bot1.get_history()[-1], (pH1, pH2, True, True, 
-            d1, 3, None))
+            d1, 2, None))
+        bot.incr_streak_length(amount=10)
         bot.update_history(bot=self.bot1)
         self.assertEqual(bot.get_history()[-1], (pH1, pH2, True, True, 
-            d1, 3, None))
+            d1, 12, None))
+        self.assertEqual((pH1, pH2), bot.get_players())
+        self.assertEqual(12, bot.get_streak_length())
+        self.assertFalse(bot.get_mulligan_status())
+        ## Case 2: Hit Pass
+        self.assertEqual(self.bot1.get_streak_length(), 2) 
+        self.bot1.update_history(p1=pH1, p2=pP2, date=d1, susGamesDict=sGD2001)
+        self.assertEqual(self.bot1.get_history()[-1], (pH1, pP2, True, 'pass', 
+            d1, 3, 'Suspended, Invalid.'))
+        bot.update_history(bot=self.bot1)
+        self.assertEqual(bot.get_history()[-1], (pH1, pP2, True, 'pass', 
+            d1, 13, 'Suspended, Invalid.'))
+        self.assertEqual((pH1, pP2), bot.get_players())
+        self.assertEqual(13, bot.get_streak_length())
+        self.assertFalse(bot.get_mulligan_status())
+        ## Case 3: Pass Hit
+        self.assertEqual(self.bot1.get_streak_length(), 3) 
+        self.bot1.update_history(p1=pP1, p2=pH2, date=d1, susGamesDict=sGD2001)
+        self.assertEqual(self.bot1.get_history()[-1], (pP1, pH2, 'pass', True,
+            d1, 4, 'Suspended, Invalid.'))
+        bot.update_history(bot=self.bot1)
+        self.assertEqual(bot.get_history()[-1], (pP1, pH2, 'pass', True, 
+            d1, 14, 'Suspended, Invalid.'))
+        self.assertEqual((pP1, pH2), bot.get_players())
+        self.assertEqual(14, bot.get_streak_length())
+        self.assertFalse(bot.get_mulligan_status())
+        ## Case 4: Pass Pass
+        self.assertEqual(self.bot1.get_streak_length(), 4) 
+        self.bot1.update_history(p1=pP1, p2=pP2, date=d1, susGamesDict=sGD2001)
+        self.assertEqual(self.bot1.get_history()[-1], (pP1, pP2, 'pass', 'pass',
+            d1, 4, 'Suspended, Invalid. Suspended, Invalid.'))
+        bot.update_history(bot=self.bot1)
+        self.assertEqual(bot.get_history()[-1], (pP1, pP2, 'pass', 'pass', 
+            d1, 14, 'Suspended, Invalid. Suspended, Invalid.'))
+        self.assertEqual((pP1, pP2), bot.get_players())
+        self.assertEqual(14, bot.get_streak_length())
+        self.assertFalse(bot.get_mulligan_status())
 
+        ## By this point, we're pretty confident that the history tuple
+        ## gets updated correctly, so we'll just check other items to make the
+        ## testsuite more readable
+
+        ## Case 5: Hit NoHit, NoHit Hit, Pass NoHit,
+        ##           NoHit Pass, NoHit NoHit (no Mulligan)
+        for p1, p2 in ((pH1, pN1), (pN2, pH2), (pP1, pN1), (pN1, pP2), 
+                       (pN1, pN2)):
+            self.bot1.incr_streak_length(amount=10)
+            bot.incr_streak_length(amount=15)
+            self.bot1.update_history(p1=p1, p2=p2, date=d1, susGamesDict=sGD2001)
+            bot.update_history(bot=self.bot1)
+            self.assertEqual((p1, p2), bot.get_players())
+            self.assertEqual(0, bot.get_streak_length())
+            self.assertFalse(bot.get_mulligan_status())
+        ## Case 6: Hit NoHit, NoHit Hit, Pass NoHit,
+        ##           NoHit Pass, NoHit NoHit (With Mulligan)
+        for mulStreak in range(10, 16):
+            for p1, p2 in ((pH1, pN1), (pN2, pH2), (pP1, pN1), 
+                           (pN1, pP2), (pN1, pN2)):
+                bot = Bot(0)
+                bot.claim_mulligan()
+                self.bot1.incr_streak_length(amount=mulStreak+7)
+                bot.incr_streak_length(amount=mulStreak)
+                self.bot1.update_history(p1=p1, p2=p2, date=d1, 
+                                        susGamesDict=sGD2001)
+                bot.update_history(bot=self.bot1)
+                self.assertEqual((p1, p2), bot.get_players())
+                self.assertEqual(mulStreak, bot.get_streak_length())
+                self.assertFalse(bot.get_mulligan_status())
+                self.assertTrue(bot.has_used_mulligan())
 
     def test_update_history_single_down_no_mulligan(self):
 

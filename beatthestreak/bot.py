@@ -15,7 +15,7 @@ class Bot(object):
         players: TupleOfPlayers | If bot is playing a double down, will be a 
            tuple of length 2. Otherwise, a tuple of length 1
         history: ListOfTuples
-            Tuples = (Player1, Player1HitVal, Player2, Player2HitVal, DateAssigned, StreakLengthOnDate, other)
+            Tuples = (Player1, Player2, Player1HitVal, Player2HitVal, DateAssigned, StreakLengthOnDate, other)
         maxStreakLength: int[>=0] | length of bot's longest streak
         hasMulligan: bool | indicates whether or not the Bot has "mulligan", 
            or free pass if his streak would have ended length in [10,15]
@@ -80,9 +80,82 @@ class Bot(object):
         """
         bot -> None
 
-        Copies the last history item from the given bot into self's history
+        Copies all but the streakLength item from otherBot's last history, 
+        Updates assigned players
+        Updates streak length 
+        Updates last_history
         """
-        self.history.append(otherBot.get_last_history())
+        otherHistory = otherBot.get_last_history()
+
+        p1, p2, hitVal1, hitVal2 = otherHistory[0:4]
+        date = otherHistory[4]
+        otherInfo = otherHistory[6]
+
+        # update players (same for single and downDown)
+        self.players = p1, p2
+
+        ## Update streakLength, maxStreakLength, and otherInfo if needbe
+        ## Is it a single down?
+        if None in (hitVal1, hitVal2):
+            hitVal = [hitVal for hitVal in (hitVal1, hitVal2) 
+                      if hitVal is not None][0]
+            # Case 1: Player got a hit
+            if hitVal == True:
+                self.incr_streak_length()
+            # Case 2: No Hit
+            elif hitVal == False: 
+                # Case 2.1: Mulligan time
+                if (self.get_mulligan_status() and \
+                    self.get_streak_length() in (10, 11, 12, 13, 14, 15)):
+                    if otherInfo:
+                        otherInfo = otherInfo + ' ' + specialCasesD['M']
+                    else:
+                        otherInfo = specialCasesD['M']
+                    self.hasMulligan = False 
+                # Case 2.2: Not Mulligan Time
+                else:
+                    self.reset_streak()
+            # Case 3: Pass
+            elif hitVal == 'pass':
+                pass
+            # Case 4: None of the above, houston we have a problem!!
+            else: # pragma: no cover
+                raise BotUpdateException("Copy Update from bot with history" + \
+                "{} failed".format(otherHistory))
+        else: ## else handle the doubledown cases
+            mulliganUsed = False # local indicator of mulligan use
+                 # get unordered collection of hitVals
+            hitVals = set([hitVal1, hitVal2]) 
+                 # Case 1: Two hits
+            if hitVals == set([True, True]): 
+                self.incr_streak_length(amount=2)
+                 # Case 2: Two passes
+            elif hitVals == set(['pass', 'pass']):
+                pass
+                 # Case 3 : One hit, one pass
+            elif hitVals == set([True, 'pass']): 
+                self.incr_streak_length(amount=1)
+                 # Case 4: One no hit + one of (Hit, No hit, Pass)
+            elif False in hitVals:
+                    # Case 4.1: Mulligan time
+                if (self.get_mulligan_status() and \
+                    self.get_streak_length() in (10, 11, 12, 13, 14, 15)):
+                    self.hasMulligan = False
+                    mulliganUsed = True 
+                    # Case 4.2: Not Mulligan time
+                else:
+                    self.reset_streak()
+                # Case 5: None of the above--houston we have a problem!
+            else: # pragma: no cover
+                raise BotUpdateException("Copy Update from bot with history" + \
+                    "{} failed".format(otherHistory))
+            # finalize otherInfo 
+            if otherInfo and mulliganUsed:
+                otherInfo = otherInfo + ' ' + specialCasesD['M']
+
+        # update history tuple and lastHistory
+        self.set_last_history((p1, p2, hitVal1, hitVal2, 
+                             date, self.get_streak_length(), otherInfo))
 
     def __update_history_double_down(self, p1, p2, date, susGamesDict):
         """
@@ -142,14 +215,13 @@ class Bot(object):
                 ", didGetHit: {0}, date: {1}".format(didGetHit, date) + \
                 ", other: {0} was invalid".format(other))
 
-        # finalize otherInfo (unless it gets updated due to a mulligan use)
+        # finalize otherInfo 
         otherInfo = self.__concat_other_infos(
             otherInfo1, otherInfo2,mulligan=mulliganUsed)
 
         # update history list
         hist = (p1, p2, hitVal1, hitVal2, date, 
                             self.get_streak_length(), otherInfo)
-        self.history.append(hist)
         self.set_last_history(hist)
         
     def __update_history_single_down(self, p1, date, susGamesDict):
@@ -205,7 +277,6 @@ class Bot(object):
         # update history list
         hist = (p1, None, hitVal, None, date, 
                             self.get_streak_length(), otherInfo)
-        self.history.append(hist)
         self.set_last_history(hist)
 
     def __concat_other_infos(self, otherInfo1, otherInfo2, mulligan=False):
@@ -295,7 +366,12 @@ class Bot(object):
         return self.lastHistory
 
     def set_last_history(self, history):
+        """
+        Updates the lastHistory Buffer and puts the tuple in
+        self.history as well
+        """
         assert type(history) == tuple
         assert len(history) == 7
 
         self.lastHistory = history
+        self.history.append(history)

@@ -27,8 +27,7 @@ class TestNPSimulation(unittest.TestCase):
          Player("Miguel", "Tejada", 2002), Player("Edgardo", "Alfonzo", 2002)]
 
     players_2001_2001_N15_P16 = \
-        [Player("Ichiro", "Suzuki", 2001), Player("Larry", "Walker", 2001), 
-        ]
+        [Player("Ichiro", "Suzuki", 2001), Player("Larry", "Walker", 2001)  ]
     def setUp(self):
         setup()
         self.npSim2010_1 = NPSimulation(2010, 2010, 100, 35)
@@ -51,6 +50,7 @@ class TestNPSimulation(unittest.TestCase):
     # @unittest.skip("Too long")
     def test_setup(self):
         self.npSim2003_2002.setup() # sets up the simulation
+        self.npSim2003_2002.setup() # to check that repeat setups don't happen
 
         ## test that players are successfully created
         simPlayers = self.npSim2003_2002.get_players()
