@@ -1,0 +1,3711 @@
+     Game of 4/8/1996 -- Philadelphia at Pittsburgh (N)
+
+  Philadelphia       AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Dykstra L, cf         5  2  3  1   Brumfield J, cf       4  0  1  0   
+Morandini M, 2b       5  1  2  1   Johnson M, ph         0  0  0  0   
+Santiago B, c         4  1  1  0   Martin A, lf          5  0  1  0   
+Zeile T, 3b           3  0  0  1   Merced O, rf          3  0  0  0   
+Incaviglia P, lf      2  1  1  0   King J, 1b            4  0  0  0   
+Frey S, p             0  0  0  0   Hayes C, 3b           4  1  2  0   
+Springer R, p         1  0  0  0   Bell J, ss            4  1  1  0   
+Leiper D, p           0  0  0  0   Garcia C, 2b          4  0  1  1   
+Bottalico R, p        1  0  0  0   Kendall J, c          3  0  0  0   
+Whiten M, rf          4  1  2  3   Clark D, ph           1  1  1  1   
+Schall G, 1b          3  0  1  0   Neagle D, p           2  0  1  0   
+Stocker K, ss         3  0  0  0   Wagner P, p           0  0  0  0   
+Fernandez S, p        2  0  0  0   Liriano N, ph         1  0  1  0   
+Tinsley L, ph-lf      2  0  0  0   Christiansen J, p     0  0  0  0   
+                                   Kingery M, ph         1  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     35  6 10  6                        36  3  9  3
+
+Philadelphia     200 003 001 --  6
+Pittsburgh       000 000 003 --  3
+
+  Philadelphia         IP  H  R ER BB SO
+Fernandez S (W)       5.0  4  0  0  0  2
+Frey S                0.1  0  0  0  1  0
+Springer R            2.0  2  0  0  0  2
+Leiper D              0.1  0  0  0  0  1
+Bottalico R           1.1  3  3  3  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D (L)          5.1  5  5  5  3  8
+Wagner P              2.2  3  0  0  1  3
+Christiansen J        1.0  2  1  1  1  2
+
+DP -- Pittsburgh 1
+LOB -- Philadelphia 8, Pittsburgh 8
+2B -- Incaviglia P, Hayes C 2, Liriano N
+3B -- Morandini M, Clark D
+HR -- Whiten M, Dykstra L
+SB -- Dykstra L
+SF -- Zeile T
+HBP -- by Bottalico R (Johnson M)
+WP -- Neagle D
+T -- 3:04
+A -- 41416
+     Game of 4/10/1996 -- Philadelphia at Pittsburgh (D)
+
+  Philadelphia       AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Dykstra L, cf         3  1  1  0   Kingery M, cf         5  0  1  0   
+Morandini M, 2b       4  2  1  0   Martin A, lf          4  1  0  0   
+Eisenreich J, lf      4  1  2  1   Merced O, rf          4  3  4  0   
+Zeile T, 3b           5  1  1  0   King J, 1b            4  2  3  5   
+Whiten M, rf          4  1  2  0   Hayes C, 3b           4  0  0  0   
+Santiago B, c         5  1  1  3   Bell J, ss            3  0  1  1   
+Schall G, 1b          2  0  1  2   Garcia C, 2b          4  0  0  0   
+Stocker K, ss         4  0  0  0   Kendall J, c          3  0  1  0   
+Grace M, p            3  0  1  0   Clark D, ph           1  0  0  0   
+Borland T, p          0  0  0  0   Osik K, c             0  0  0  0   
+Jordan K, ph          1  0  0  0   Ericks J, p           1  0  0  0   
+Leiper D, p           0  0  0  0   Hancock L, p          0  0  0  0   
+Springer R, p         0  0  0  0   Liriano N, ph         1  0  0  0   
+Bottalico R, p        0  0  0  0   Christiansen J, p     0  0  0  0   
+                                   Cordova F, p          0  0  0  0   
+                                   Johnson M, ph         1  0  0  0   
+                                   Plesac D, p           0  0  0  0   
+                                   Brumfield J, ph       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7 10  6                        36  6 10  6
+
+Philadelphia     310 000 300 --  7
+Pittsburgh       202 001 010 --  6
+
+  Philadelphia         IP  H  R ER BB SO
+Grace M (W)           6.0  8  5  5  0  2
+Borland T             1.0  0  0  0  0  0
+Leiper D*             0.0  1  1  1  1  0
+Springer R            1.0  1  0  0  1  3
+Bottalico R (S)       1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Ericks J              3.2  6  4  2  2  5
+Hancock L             1.1  1  0  0  1  0
+Christiansen J (L)    1.1  2  2  2  1  2
+Cordova F             0.2  1  1  1  1  0
+Plesac D              2.0  0  0  0  1  3
+  * Pitched to 2 batters in 8th
+
+E -- Kendall J, Hayes C
+DP -- Philadelphia 1, Pittsburgh 2
+LOB -- Philadelphia 8, Pittsburgh 5
+2B -- Schall G, Dykstra L, Merced O, King J
+HR -- King J 2, Santiago B
+SB -- Dykstra L, Morandini M 2, Whiten M
+CS -- Dykstra L
+HBP -- by Hancock L (Schall G)
+T -- 2:45
+A -- 7075
+     Game of 4/11/1996 -- Montreal at Pittsburgh (D)
+
+  Montreal           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Grudzielanek M, ss    6  0  1  0   Brumfield J, cf       4  0  0  0   
+Lansing M, 2b         5  0  2  0   Kingery M, ph-cf      1  0  0  0   
+White R, cf           6  1  2  2   Martin A, lf          4  2  3  0   
+Alou M, lf            5  0  1  1   Merced O, rf          6  1  2  0   
+Rojas M, p            0  0  0  0   King J, 1b            4  1  1  2   
+Veres D, p            0  0  0  0   Hayes C, 3b           4  0  1  1   
+Obando S, rf          5  0  0  0   Bell J, ss            5  1  2  0   
+Rodriguez H, 1b       5  0  0  0   Garcia C, 2b          4  0  1  0   
+Webster L, c          3  2  2  0   Miceli D, p           0  0  0  0   
+Andrews S, 3b         4  2  2  2   Clark D, ph           1  0  0  0   
+Cormier R, p          0  0  0  0   Cordova F, p          0  0  0  0   
+Silvestri D, ph       1  0  0  0   Osik K, c             3  0  0  0   
+Manuel B, p           0  0  0  0   Johnson M, ph         1  0  0  0   
+Stankiewicz A, ph     0  0  0  0   Smith Z, p            2  0  0  0   
+Fletcher D, ph        1  0  1  1   Lieber J, p           0  0  0  0   
+Dyer M, p             0  0  0  0   Plesac D, p           0  0  0  0   
+Scott T, p            0  0  0  0   Liriano N, 2b         2  0  0  0   
+Santangelo F, ph-lf   1  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42  6 11  6                        41  5 10  3
+
+Montreal         000 000 212 01 --  6
+Pittsburgh       100 300 010 00 --  5
+
+  Montreal             IP  H  R ER BB SO
+Cormier R             4.0  6  4  4  1  5
+Manuel B              2.0  1  0  0  1  2
+Dyer M                1.2  2  1  0  1  2
+Scott T               0.1  0  0  0  0  0
+Rojas M (W)           2.0  1  0  0  1  3
+Veres D (S)           1.0  0  0  0  2  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Smith Z               6.2  4  2  2  3  4
+Lieber J              1.0  3  1  1  0  1
+Plesac D              1.0  2  2  2  2  3
+Miceli D              1.1  0  0  0  0  3
+Cordova F (L)         1.0  2  1  1  0  0
+
+E -- Smith Z, Alou M, Rodriguez H
+DP -- Montreal 2, Pittsburgh 1
+LOB -- Montreal 9, Pittsburgh 10
+2B -- Webster L 2, Andrews S, Fletcher D
+3B -- White R
+HR -- Andrews S
+SB -- Martin A, Garcia C 3
+CS -- Lansing M
+SH -- Cormier R
+SF -- King J
+WP -- Cormier R
+T -- 3:50
+A -- 8084
+     Game of 4/12/1996 -- Montreal at Pittsburgh (N)
+
+  Montreal           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Grudzielanek M, ss    5  2  3  0   Brumfield J, cf       4  1  1  0   
+Lansing M, 2b         4  2  1  0   Martin A, lf          4  0  1  1   
+Stankiewicz A, 2b     0  0  0  0   Merced O, rf          4  0  0  0   
+White R, cf           5  2  2  3   King J, 1b            3  1  1  0   
+Alou M, lf            5  1  3  4   Hayes C, 3b           4  1  1  1   
+Santangelo F, pr-lf   0  1  0  0   Bell J, ss            2  0  1  1   
+Rodriguez H, 1b       5  2  2  3   Garcia C, 2b          2  0  0  0   
+Fletcher D, c         4  1  2  0   Hancock L, p          0  0  0  0   
+Spehr T, c            0  0  0  0   Johnson M, ph         1  0  0  0   
+Obando S, rf          4  1  1  1   Christiansen J, p     0  0  0  0   
+Andrews S, 3b         5  0  0  1   Clark D, ph           1  0  0  0   
+Rueter K, p           3  1  0  0   Kendall J, c          4  0  1  0   
+Dyer M, p             0  0  0  0   Darwin D, p           1  0  0  0   
+Daal O, p             1  0  0  0   Wehner J, 2b          2  0  0  0   
+Scott T, p            1  0  0  0   Liriano N, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42 13 14 12                        33  3  6  3
+
+Montreal         000 612 040 -- 13
+Pittsburgh       000 000 210 --  3
+
+  Montreal             IP  H  R ER BB SO
+Rueter K (W)          6.0  1  0  0  1  2
+Dyer M                0.1  3  2  2  0  0
+Daal O                1.1  2  1  1  1  3
+Scott T               1.1  0  0  0  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Darwin D (L)          5.0  8  7  1  1  2
+Hancock L             2.0  1  2  2  1  3
+Christiansen J        2.0  5  4  4  0  4
+
+E -- Martin A, Kendall J, Brumfield J
+LOB -- Montreal 6, Pittsburgh 6
+2B -- Grudzielanek M, Alou M, Hayes C, Bell J, Rodriguez H, Brumfield J
+HR -- Rodriguez H, Alou M
+HBP -- by Darwin D (Fletcher D), by Darwin D (Lansing M)
+WP -- Darwin D, Christiansen J 2
+T -- 2:54
+A -- 13087
+     Game of 4/13/1996 -- Montreal at Pittsburgh (D)
+
+  Montreal           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Grudzielanek M, ss    5  0  2  0   Brumfield J, cf       4  1  1  0   
+Lansing M, 2b         4  0  3  0   Martin A, lf          4  1  0  0   
+Stankiewicz A, pr-2b  1  1  0  0   Wehner J, rf          4  0  2  1   
+White R, cf           3  1  1  2   King J, 1b            4  1  2  2   
+Alou M, lf            4  0  1  0   Hayes C, 3b           4  1  1  0   
+Rodriguez H, 1b       4  0  1  0   Bell J, ss            4  1  1  1   
+Fletcher D, c         4  0  0  0   Garcia C, 2b          4  3  3  2   
+Veres D, p            0  0  0  0   Kendall J, c          4  0  1  1   
+Obando S, rf          4  1  2  1   Wagner P, p           3  0  0  0   
+Andrews S, 3b         2  0  0  0   Lieber J, p           0  0  0  0   
+Manuel B, p           0  0  0  0   Plesac D, p           0  0  0  0   
+Santangelo F, ph      0  0  0  0   Johnson M, ph         1  1  1  2   
+Daal O, p             0  0  0  0   Miceli D, p           0  0  0  0   
+Webster L, c          1  0  0  0                                      
+Fassero J, p          1  0  0  0                                      
+Silvestri D, 3b       3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  3 10  3                        36  9 12  9
+
+Montreal         000 000 021 --  3
+Pittsburgh       010 220 13x --  9
+
+  Montreal             IP  H  R ER BB SO
+Fassero J (L)*        4.0  8  5  4  1  3
+Manuel B              2.0  0  0  0  0  3
+Daal O                1.0  1  1  1  0  2
+Veres D               1.0  3  3  3  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Wagner P (W)          7.0  5  0  0  2  7
+Lieber J              0.1  3  2  2  0  0
+Plesac D              0.2  0  0  0  0  1
+Miceli D              1.0  2  1  1  0  1
+  * Pitched to 4 batters in 5th
+
+E -- Grudzielanek M, Andrews S
+DP -- Pittsburgh 1
+LOB -- Montreal 8, Pittsburgh 5
+2B -- Hayes C, Rodriguez H, Brumfield J, Lansing M
+3B -- Kendall J
+HR -- Garcia C, King J, White R, Bell J, Johnson M, Obando S
+SB -- King J, Wehner J, Alou M
+CS -- Wehner J
+SH -- Martin A
+Balk -- Fassero J
+PB -- Webster L
+T -- 2:42
+A -- 13834
+     Game of 4/14/1996 -- Montreal at Pittsburgh (D)
+
+  Montreal           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Grudzielanek M, ss    5  1  2  0   Kingery M, cf         3  0  0  0   
+Lansing M, 2b         4  1  1  0   Martin A, lf          4  1  1  0   
+White R, cf           4  0  0  1   Merced O, rf          4  1  2  1   
+Alou M, lf-rf         4  0  2  1   King J, 3b            4  0  1  0   
+Segui D, 1b           4  0  0  0   Johnson M, 1b         3  1  1  0   
+Obando S, rf          3  0  0  0   Bell J, ss            3  1  0  0   
+Dyer M, p             0  0  0  0   Garcia C, 2b          4  1  2  2   
+Rojas M, p            0  0  0  0   Kendall J, c          4  0  1  1   
+Silvestri D, ph       1  0  0  0   Neagle D, p           3  0  0  0   
+Webster L, c          3  0  1  0                                      
+Andrews S, 3b         4  0  2  0                                      
+Martinez P, p         2  0  0  0                                      
+Santangelo F, lf      2  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  2 10  2                        32  5  8  4
+
+Montreal         100 001 000 --  2
+Pittsburgh       000 410 00x --  5
+
+  Montreal             IP  H  R ER BB SO
+Martinez P (L)        5.0  6  5  4  3  4
+Dyer M                2.0  2  0  0  0  0
+Rojas M               1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D (W)          9.0 10  2  1  1 10
+
+E -- Bell J, Obando S
+DP -- Pittsburgh 1
+LOB -- Montreal 8, Pittsburgh 6
+2B -- Grudzielanek M, Andrews S, Martin A, Lansing M
+SB -- Alou M, King J, Lansing M, Garcia C, Santangelo F
+CS -- Alou M
+WP -- Dyer M
+T -- 2:35
+A -- 12797
+     Game of 4/24/1996 -- Florida at Pittsburgh (N)
+
+  Florida            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Veras Q, 2b           4  0  1  1   Kingery M, cf         5  1  1  0   
+Abbott K, ss          4  1  1  0   Martin A, lf          4  1  2  1   
+Sheffield G, rf       4  1  1  2   King J, 1b            4  0  2  2   
+Conine J, lf          4  0  1  0   Merced O, rf          4  1  0  0   
+Pendleton T, 3b       3  0  1  0   Bell J, ss            4  1  3  1   
+Colbrunn G, 1b        4  0  2  0   Liriano N, 2b         3  1  0  0   
+Johnson C, c          3  1  1  0   Hayes C, 3b           3  0  1  1   
+Tavarez J, cf         4  0  1  0   Kendall J, c          3  0  1  1   
+Rapp P, p             2  0  0  0   Neagle D, p           3  1  1  0   
+Adamson J, p          0  0  0  0   Lieber J, p           0  0  0  0   
+Weathers D, p         0  0  0  0   Johnson M, ph         1  0  0  0   
+Dawson A, ph          1  0  0  0   Miceli D, p           0  0  0  0   
+Mathews T, p          0  0  0  0                                      
+Nen R, p              0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  9  3                        34  6 11  6
+
+Florida          000 100 011 --  3
+Pittsburgh       003 001 02x --  6
+
+  Florida              IP  H  R ER BB SO
+Rapp P (L)            5.1  7  4  4  0  1
+Adamson J             0.1  0  0  0  0  0
+Weathers D            1.1  1  0  0  1  1
+Mathews T             0.1  3  2  2  1  1
+Nen R                 0.2  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D (W)          7.2  6  2  2  2  6
+Lieber J              0.1  0  0  0  0  0
+Miceli D              1.0  3  1  1  0  1
+
+DP -- Pittsburgh 2
+LOB -- Florida 5, Pittsburgh 7
+2B -- King J, Bell J 2, Tavarez J, Kendall J
+3B -- Abbott K
+HR -- Sheffield G
+CS -- Colbrunn G
+HBP -- by Weathers D (Kendall J)
+T -- 2:40
+A -- 9812
+     Game of 4/25/1996 -- Florida at Pittsburgh (D)
+
+  Florida            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Veras Q, 2b           2  2  1  3   Brumfield J, cf       5  1  1  0   
+Orsulak J, cf         2  0  0  0   Martin A, lf          5  0  2  1   
+Dawson A, ph          1  0  0  0   King J, 1b            4  0  0  0   
+Tavarez J, cf         1  0  1  0   Merced O, rf          4  0  0  0   
+Conine J, lf          4  0  0  1   Bell J, ss            2  0  1  0   
+Sheffield G, rf       3  0  1  0   Wehner J, 2b          3  0  1  0   
+Colbrunn G, 1b        4  0  1  0   Hayes C, 3b           3  0  0  0   
+Abbott K, ss          4  0  0  0   Osik K, c             2  0  0  0   
+Nen R, p              0  0  0  0   Cordova F, p          0  0  0  0   
+Johnson C, c          2  0  0  0   Kingery M, ph         1  0  0  0   
+Arias A, 3b           4  1  2  0   Hope J, p             1  0  0  0   
+Leiter A, p           3  1  0  0   Liriano N, ph         1  0  1  0   
+Grebeck C, ss         1  0  0  0   Hancock L, p          0  0  0  0   
+                                   Kendall J, c          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  6  4                        32  1  6  1
+
+Florida          100 030 000 --  4
+Pittsburgh       000 000 001 --  1
+
+  Florida              IP  H  R ER BB SO
+Leiter A (W)          7.2  4  0  0  7  5
+Nen R (S)             1.1  2  1  1  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Hope J (L)            5.0  3  4  3  3  4
+Hancock L             1.1  1  0  0  2  2
+Cordova F             2.2  2  0  0  1  5
+
+E -- Hope J, Osik K, Arias A
+DP -- Florida 2, Pittsburgh 1
+LOB -- Florida 8, Pittsburgh 11
+2B -- Martin A 2, Arias A, Sheffield G
+HR -- Veras Q
+SB -- Veras Q 2, Sheffield G
+SF -- Conine J
+T -- 2:48
+A -- 8315
+     Game of 4/26/1996 -- New York at Pittsburgh (N)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Johnson L, cf         4  0  0  1   Kingery M, cf         5  1  2  1   
+Vizcaino J, 2b        4  0  1  1   Martin A, lf          5  1  2  2   
+Gilkey B, lf          4  2  2  1   King J, 1b            5  2  1  2   
+Huskey B, rf          4  0  0  0   Merced O, rf          3  2  1  2   
+Jones C, 1b           4  1  2  2   Bell J, ss            3  0  0  0   
+Kent J, 3b            4  0  0  0   Liriano N, 2b         4  1  1  1   
+Hundley T, c          3  1  0  0   Hayes C, 3b           4  1  1  1   
+Ordonez R, ss         2  1  1  0   Osik K, c             3  1  2  1   
+Alfonzo E, ss         2  0  1  0   Plesac D, p           0  0  0  0   
+Isringhausen J, p     1  1  1  1   Smith Z, p            1  1  0  0   
+Bogar T, ph           1  0  1  0   Christiansen J, p     1  0  0  0   
+Minor B, p            0  0  0  0   Johnson M, ph         1  0  1  0   
+Roberson K, ph        1  0  0  0   Lieber J, p           0  0  0  0   
+MacDonald B, p        0  0  0  0   Kendall J, c          1  0  0  0   
+Mayne B, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  6  9  6                        36 10 11 10
+
+New York         003 002 010 --  6
+Pittsburgh       222 220 00x -- 10
+
+  New York             IP  H  R ER BB SO
+Isringhausen J (L)    4.0  8  8  6  2  3
+Minor B               2.0  2  2  2  1  3
+MacDonald B           2.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Smith Z               2.0  0  0  0  0  2
+Christiansen J (W)    3.0  4  3  2  1  2
+Lieber J              2.2  5  3  3  0  3
+Plesac D              1.1  0  0  0  0  3
+
+E -- Hayes C, Kent J, Huskey B
+LOB -- New York 4, Pittsburgh 5
+2B -- Martin A, Osik K
+3B -- Osik K
+HR -- King J, Merced O, Hayes C, Jones C, Gilkey B
+SF -- Johnson L
+T -- 2:33
+A -- 13185
+     Game of 4/27/1996 -- New York at Pittsburgh (N)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Johnson L, cf         5  0  1  1   Liriano N, 2b         5  0  0  0   
+Vizcaino J, 2b        4  2  2  0   Martin A, cf-lf       5  1  2  0   
+Gilkey B, lf          4  1  1  1   Merced O, rf          4  1  1  0   
+Roberson K, rf        4  2  1  3   Johnson M, 1b         3  0  1  0   
+Brogna R, 1b          4  0  3  0   Bell J, ss            3  1  0  1   
+Bogar T, pr-1b        1  1  0  0   Clark D, lf           2  1  2  1   
+Hundley T, c          4  0  2  1   Kingery M, cf         1  0  0  0   
+Kent J, 3b            5  0  1  0   Hayes C, 3b           4  0  2  1   
+Franco J, p           0  0  0  0   Kendall J, c          3  0  0  1   
+Ordonez R, ss         4  1  2  1   Darwin D, p           2  0  0  0   
+Wilson P, p           2  0  0  0   Brumfield J, ph       1  0  0  0   
+Everett C, ph         1  0  0  0   Plesac D, p           0  0  0  0   
+Henry D, p            0  0  0  0   Miceli D, p           0  0  0  0   
+Jones C, ph           1  0  0  0   King J, ph            0  0  0  0   
+Mlicki D, p           0  0  0  0                                      
+Alfonzo E, 3b         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  7 13  7                        33  4  8  4
+
+New York         100 011 013 --  7
+Pittsburgh       300 100 000 --  4
+
+  New York             IP  H  R ER BB SO
+Wilson P              6.0  6  4  4  2  3
+Henry D               1.0  1  0  0  0  0
+Mlicki D (W)          1.0  0  0  0  0  1
+Franco J (S)          1.0  1  0  0  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Darwin D              7.0  8  3  3  0  6
+Plesac D              0.2  3  1  1  0  0
+Miceli D (L)          1.1  2  3  3  2  1
+
+E -- Kingery M
+LOB -- New York 9, Pittsburgh 7
+2B -- Hundley T 2, Brogna R
+3B -- Vizcaino J, Clark D, Ordonez R
+HR -- Roberson K
+SH -- Bell J
+SF -- Kendall J, Hundley T
+HBP -- by Darwin D (Roberson K)
+T -- 3:01
+A -- 16698
+     Game of 4/28/1996 -- New York at Pittsburgh (D)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Johnson L, cf         5  1  2  1   Garcia C, 2b          5  1  2  2   
+Vizcaino J, 2b        5  0  1  0   Martin A, lf          5  0  1  0   
+Gilkey B, lf          4  2  2  0   King J, 1b            4  0  0  0   
+Roberson K, rf        4  1  1  1   Merced O, rf          3  1  0  0   
+Brogna R, 1b          4  0  1  2   Bell J, ss            4  1  2  2   
+Hundley T, c          4  0  1  1   Kingery M, cf         4  0  0  0   
+Kent J, 3b            4  2  2  1   Hayes C, 3b           4  2  2  1   
+Ordonez R, ss         4  1  2  0   Kendall J, c          3  0  1  0   
+Jones B, p            2  0  0  0   Johnson M, ph         0  0  0  0   
+Henry D, p            0  0  0  0   Wagner P, p           1  0  0  0   
+Franco J, p           0  0  0  0   Hancock L, p          0  0  0  0   
+                                   Liriano N, ph         0  0  0  0   
+                                   Boever J, p           0  0  0  0   
+                                   Clark D, ph           0  0  0  0   
+                                   Brumfield J, ph       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 12  6                        34  5  8  5
+
+New York         000 013 111 --  7
+Pittsburgh       002 000 003 --  5
+
+  New York             IP  H  R ER BB SO
+Jones B (W)           8.1  7  5  5  2  5
+Henry D*              0.0  0  0  0  1  0
+Franco J (S)          0.2  1  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Wagner P (L)          6.1  8  5  5  1  9
+Hancock L             1.2  2  1  1  0  1
+Boever J              1.0  2  1  1  0  0
+  * Pitched to 1 batter in 9th
+
+DP -- Pittsburgh 1
+LOB -- New York 5, Pittsburgh 6
+2B -- Johnson L, Kent J
+HR -- Hayes C, Garcia C, Kent J, Bell J
+SB -- Gilkey B
+SH -- Wagner P, Jones B 2
+WP -- Wagner P, Boever J
+PB -- Kendall J
+T -- 2:37
+A -- 27706
+     Game of 5/3/1996 -- Los Angeles at Pittsburgh (N)
+
+  Los Angeles        AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Fonville C, cf-lf     5  1  0  0   Liriano N, 2b         5  0  0  0   
+Gagne G, ss           5  1  1  2   Martin A, lf          5  1  1  0   
+Piazza M, c           4  2  2  2   King J, 1b            4  0  2  1   
+Guthrie M, p          0  0  0  0   Clark D, rf           2  0  1  0   
+Karros E, 1b          5  1  2  3   Bell J, ss            3  0  0  0   
+Mondesi R, rf         5  1  1  1   Kingery M, cf         2  0  0  0   
+DeShields D, 2b       5  1  1  0   Brumfield J, ph-cf    2  0  1  0   
+Blowers M, 3b         4  2  1  1   Hayes C, 3b           4  0  2  0   
+Hernandez C, c        0  0  0  0   Osik K, c             4  0  2  0   
+Hollandsworth T, lf   2  0  2  0   Darwin D, p           1  0  0  0   
+Cedeno R, ph-cf       1  1  0  0   Aude R, ph            1  0  0  0   
+Park C, p             2  0  1  1   Christiansen J, p     0  0  0  0   
+Eischen J, p          1  0  0  0   Boever J, p           0  0  0  0   
+Osuna A, p            0  0  0  0   Johnson M, ph         1  0  0  0   
+Hansen D, ph          0  0  0  0   Miceli D, p           0  0  0  0   
+Busch M, ph-3b        1  0  0  0   Hancock L, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40 10 11 10                        34  1  9  1
+
+Los Angeles      110 000 008 -- 10
+Pittsburgh       100 000 000 --  1
+
+  Los Angeles          IP  H  R ER BB SO
+Park C (W)            5.0  5  1  1  3  3
+Eischen J             1.1  3  0  0  1  2
+Osuna A               1.2  1  0  0  0  2
+Guthrie M             1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Darwin D (L)          6.0  6  2  2  1  5
+Christiansen J        1.0  0  0  0  0  0
+Boever J              1.0  0  0  0  0  0
+Miceli D              0.1  1  3  1  1  0
+Hancock L             0.2  4  5  5  0  1
+
+E -- Hayes C
+DP -- Los Angeles 1
+LOB -- Los Angeles 5, Pittsburgh 11
+2B -- Hayes C, Karros E
+HR -- Piazza M, Karros E, Mondesi R
+SB -- DeShields D 2
+SH -- Darwin D
+Balk -- Park C
+T -- 3:06
+A -- 18268
+     Game of 5/4/1996 -- Los Angeles at Pittsburgh (N)
+
+  Los Angeles        AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Fonville C, cf        4  0  1  1   Cummings M, rf        4  2  2  1   
+Gagne G, ss           3  0  1  0   Martin A, cf-lf       4  1  1  0   
+Piazza M, c           4  0  0  0   King J, 2b            4  0  4  4   
+Karros E, 1b          3  0  1  0   Clark D, lf           2  0  0  0   
+Mondesi R, rf         4  1  1  1   Kingery M, cf         0  0  0  0   
+DeShields D, 2b       4  0  1  0   Brumfield J, ph-cf    0  0  0  0   
+Blowers M, 3b         4  0  0  0   Bell J, ss            4  0  1  1   
+Hollandsworth T, lf   2  1  0  0   Johnson M, 1b         4  0  0  0   
+Candiotti T, p        1  0  0  0   Hayes C, 3b           4  2  2  1   
+Bruske J, p           0  0  0  0   Kendall J, c          4  1  2  0   
+Radinsky S, p         0  0  0  0   Wagner P, p           4  1  1  0   
+Thompson M, ph        1  0  0  0                                      
+Guthrie M, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        34  7 13  7
+
+Los Angeles      001 000 001 --  2
+Pittsburgh       100 030 21x --  7
+
+  Los Angeles          IP  H  R ER BB SO
+Candiotti T (L)       5.0  9  4  4  1  2
+Bruske J*             1.0  2  2  2  0  0
+Radinsky S            1.0  1  0  0  1  1
+Guthrie M             1.0  1  1  1  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Wagner P (W)          9.0  5  2  2  3 11
+  * Pitched to 2 batters in 7th
+
+DP -- Los Angeles 2
+LOB -- Los Angeles 5, Pittsburgh 6
+2B -- Cummings M, King J 3, Fonville C, Bell J
+HR -- Hayes C, Mondesi R
+SB -- Mondesi R
+CS -- DeShields D
+SH -- Candiotti T
+SF -- Cummings M
+WP -- Wagner P
+PB -- Piazza M 2
+T -- 2:48
+A -- 20321
+     Game of 5/5/1996 -- Los Angeles at Pittsburgh (D)
+
+  Los Angeles        AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Fonville C, lf        4  0  2  0   Cummings M, rf        4  1  1  1   
+Gagne G, ss           3  0  1  0   Martin A, lf          3  1  1  0   
+Piazza M, c           4  0  0  0   King J, 2b            4  0  1  1   
+Karros E, 1b          4  0  0  0   Johnson M, 1b         4  1  1  0   
+Mondesi R, rf         4  1  0  0   Bell J, ss            3  1  1  0   
+DeShields D, 2b       3  0  2  0   Kingery M, cf         3  0  0  0   
+Busch M, 3b           3  1  1  1   Hayes C, 3b           3  0  2  2   
+Thompson M, ph        0  0  0  0   Kendall J, c          3  0  0  0   
+Blowers M, ph         1  0  0  0   Neagle D, p           2  0  0  0   
+Cedeno R, cf          3  0  2  1   Brumfield J, ph       1  0  0  0   
+Valdes I, p           2  0  1  0   Cordova F, p          0  0  0  0   
+Worrell T, p          0  0  0  0   Plesac D, p           0  0  0  0   
+Castro J, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  9  2                        30  4  7  4
+
+Los Angeles      020 000 000 --  2
+Pittsburgh       000 011 11x --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Valdes I (L)          7.0  6  3  3  0  7
+Worrell T             1.0  1  1  1  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D (W)          7.0  8  2  0  2  2
+Cordova F*            1.0  1  0  0  0  0
+Plesac D (S)          1.0  0  0  0  1  0
+  * Pitched to 1 batter in 9th
+
+E -- Hayes C, Gagne G
+DP -- Pittsburgh 3
+LOB -- Los Angeles 7, Pittsburgh 4
+2B -- Busch M, Cedeno R, Fonville C
+HR -- Cummings M
+SB -- Martin A, King J
+CS -- DeShields D, Martin A
+SH -- Valdes I, Bell J
+T -- 2:30
+A -- 19206
+     Game of 5/6/1996 -- Los Angeles at Pittsburgh (D)
+
+  Los Angeles        AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Fonville C, cf-lf     5  1  0  0   Cummings M, rf        4  0  0  0   
+Mondesi R, rf         4  2  1  3   Brumfield J, ph       1  0  0  0   
+Piazza M, c           4  1  2  2   Martin A, lf          5  0  0  0   
+Karros E, 1b          4  0  0  0   King J, 2b            5  1  2  0   
+DeShields D, 2b       4  0  0  0   Johnson M, 1b         4  2  2  2   
+Hollandsworth T, lf   4  1  1  0   Wehner J, ph          1  0  0  0   
+Cedeno R, cf          0  0  0  0   Bell J, ss            3  0  2  0   
+Blowers M, 3b         3  1  2  0   Kingery M, cf         4  1  1  0   
+Gagne G, ss           2  2  2  3   Hayes C, 3b           3  0  1  0   
+Nomo H, p             2  0  0  0   Kendall J, c          4  0  2  2   
+Osuna A, p            0  0  0  0   Hope J, p             2  0  1  0   
+Radinsky S, p         1  0  0  0   Christiansen J, p     0  0  0  0   
+                                   Liriano N, ph         1  0  0  0   
+                                   Lieber J, p           0  0  0  0   
+                                   Clark D, ph           1  0  0  0   
+                                   Boever J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  8  8  8                        38  4 11  4
+
+Los Angeles      003 002 003 --  8
+Pittsburgh       000 200 020 --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Nomo H (W)*           7.0  8  4  4  2  5
+Osuna A               0.2  2  0  0  0  0
+Radinsky S (S)        1.1  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Hope J (L)            5.1  4  5  5  3  3
+Christiansen J        1.2  0  0  0  1  1
+Lieber J              1.0  1  0  0  0  0
+Boever J              1.0  3  3  3  0  1
+  * Pitched to 2 batters in 8th
+
+DP -- Pittsburgh 1
+LOB -- Los Angeles 3, Pittsburgh 9
+2B -- Kendall J, King J
+HR -- Mondesi R, Piazza M, Johnson M, Gagne G
+SB -- Bell J, Hope J
+SH -- Nomo H
+T -- 2:50
+A -- 9415
+     Game of 5/8/1996, game 1 -- San Diego at Pittsburgh (N)
+
+  San Diego          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Henderson R, lf       4  1  1  0   Brumfield J, cf       4  1  1  0   
+Finley S, cf          3  1  1  0   Martin A, lf          2  0  0  1   
+Newfield M, rf        3  1  0  0   King J, 2b            4  0  0  0   
+Caminiti K, 3b        4  2  2  4   Johnson M, 1b         4  0  0  0   
+Joyner W, 1b          3  0  0  0   Bell J, ss            4  0  1  0   
+Reed J, 2b            4  0  0  0   Cummings M, rf        4  1  2  0   
+Cedeno A, ss          4  0  0  0   Hayes C, 3b           4  1  2  1   
+Johnson B, c          4  0  1  0   Kendall J, c          4  1  1  2   
+Tewksbury B, p        3  0  0  0   May D, p              1  0  0  0   
+Florie B, p           0  0  0  0   Kingery M, ph         1  0  0  0   
+Shipley C, ph         1  0  1  0   Hancock L, p          0  0  0  0   
+Gwynn C, pr           0  0  0  0   Aude R, ph            1  0  1  0   
+Hoffman T, p          0  0  0  0   Plesac D, p           0  0  0  0   
+                                   Clark D, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  6  4                        34  4  8  4
+
+San Diego        203 000 000 --  5
+Pittsburgh       010 001 200 --  4
+
+  San Diego            IP  H  R ER BB SO
+Tewksbury B (W)       6.2  6  4  4  0  2
+Florie B              1.1  2  0  0  1  1
+Hoffman T (S)         1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+May D (L)             5.0  4  5  5  3  3
+Hancock L             2.0  1  0  0  0  1
+Plesac D              2.0  1  0  0  1  2
+
+E -- Kendall J
+LOB -- San Diego 5, Pittsburgh 5
+2B -- Hayes C, Brumfield J
+HR -- Caminiti K 2, Kendall J
+SB -- Henderson R 2, Finley S, Martin A
+SF -- Martin A
+Balk -- Tewksbury B
+T -- 2:09
+A -- 0
+     Game of 5/8/1996, game 2 -- San Diego at Pittsburgh (N)
+
+  San Diego          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Henderson R, lf       3  1  1  0   Brumfield J, cf       3  1  2  0   
+Finley S, cf          4  2  3  3   Wehner J, lf          3  0  1  0   
+Gwynn T, rf           3  0  0  0   Martin A, ph-lf       1  0  0  0   
+Caminiti K, 3b        4  0  0  0   King J, 2b            4  0  0  0   
+Joyner W, 1b          4  0  0  0   Aude R, 1b            3  0  1  1   
+Lopez L, ss           4  0  2  0   Johnson M, 1b         0  1  0  0   
+Reed J, 2b            3  0  0  0   Bell J, ss            3  0  0  0   
+Newfield M, ph        1  0  0  0   Cummings M, rf        4  1  1  0   
+Ausmus B, c           3  0  0  0   Hayes C, 3b           2  1  1  0   
+Valenzuela F, p       1  0  0  0   Osik K, c             3  0  1  2   
+Gwynn C, ph           1  0  0  0   Clark D, ph           1  0  1  1   
+Blair W, p            0  0  0  0   Kendall J, c          0  0  0  0   
+Livingstone S, ph     1  0  0  0   Darwin D, p           3  0  0  0   
+Sanders S, p          0  0  0  0   Christiansen J, p     0  0  0  0   
+Bochtler D, p         0  0  0  0   Liriano N, ph         1  0  0  0   
+                                   Cordova F, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        31  4  8  4
+
+San Diego        100 000 020 --  3
+Pittsburgh       021 000 01x --  4
+
+  San Diego            IP  H  R ER BB SO
+Valenzuela F          5.0  6  3  3  3  4
+Blair W               2.0  1  0  0  0  2
+Sanders S (L)         0.1  0  1  1  1  0
+Bochtler D            0.2  1  0  0  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Darwin D              7.2  5  2  2  1  6
+Christiansen J (W)    0.1  1  1  1  1  0
+Cordova F (S)         1.0  0  0  0  0  1
+
+E -- Cordova F
+DP -- San Diego 1, Pittsburgh 1
+LOB -- San Diego 4, Pittsburgh 8
+2B -- Osik K, Finley S, Brumfield J
+HR -- Finley S 2
+SB -- Hayes C, Brumfield J
+CS -- Gwynn T
+WP -- Valenzuela F, Sanders S
+Balk -- Darwin D
+T -- 2:52
+A -- 8508
+     Game of 5/9/1996 -- San Diego at Pittsburgh (N)
+
+  San Diego          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Henderson R, lf       4  2  1  0   Cummings M, rf        4  0  0  0   
+Worrell T, p          0  0  0  0   Martin A, lf          4  0  3  0   
+Finley S, cf          5  2  2  0   King J, 2b            4  0  0  0   
+Gwynn T, rf           4  2  2  2   Hancock L, p          0  0  0  0   
+Caminiti K, 3b        3  0  1  0   Johnson M, 1b         4  1  2  1   
+Joyner W, 1b          4  1  2  2   Bell J, ss            3  0  0  0   
+Newfield M, ph        1  0  0  0   Kingery M, cf         4  0  3  0   
+Livingstone S, 1b     0  0  0  0   Hayes C, 3b           3  0  0  0   
+Reed J, 2b            2  0  1  1   Wehner J, 3b          1  0  0  0   
+Cedeno A, ss          4  0  1  1   Kendall J, c          3  0  1  0   
+Ausmus B, c           3  0  1  0   Wagner P, p           2  0  0  0   
+Ashby A, p            3  0  0  0   Boever J, p           0  0  0  0   
+Gwynn C, ph-lf        1  0  0  0   Liriano N, ph-2b      1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  7 11  6                        33  1  9  1
+
+San Diego        301 000 300 --  7
+Pittsburgh       000 100 000 --  1
+
+  San Diego            IP  H  R ER BB SO
+Ashby A (W)           7.0  8  1  1  0  3
+Worrell T             2.0  1  0  0  1  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Wagner P (L)          6.0  7  4  4  5  1
+Boever J              2.0  4  3  2  1  1
+Hancock L             1.0  0  0  0  0  1
+
+E -- Kingery M
+DP -- San Diego 2, Pittsburgh 1
+LOB -- San Diego 7, Pittsburgh 6
+2B -- Joyner W, Martin A, Kingery M
+HR -- Johnson M
+SB -- Gwynn T
+CS -- Reed J, Martin A
+SF -- Reed J
+T -- 2:38
+A -- 10863
+     Game of 5/10/1996 -- San Francisco at Pittsburgh (N)
+
+  San Francisco      AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Javier S, cf          4  0  0  0   Cummings M, rf        5  0  0  0   
+Thompson R, 2b        5  2  3  0   Martin A, lf          5  2  2  0   
+Bonds B, lf           5  1  2  2   King J, 2b            5  1  1  0   
+Williams M, 3b        5  1  1  1   Johnson M, 1b         5  1  2  4   
+Carreon M, 1b         5  0  0  0   Bell J, ss            3  0  0  0   
+Hill G, rf            5  1  3  2   Kingery M, cf         4  0  0  0   
+Beck R, p             0  0  0  0   Hayes C, 3b           4  0  0  0   
+Decker S, c           3  0  1  0   Kendall J, c          3  0  2  0   
+Aurilia R, ss         4  0  1  0   Neagle D, p           2  0  0  0   
+Leiter M, p           2  0  0  0   Liriano N, ph         1  0  0  0   
+Hall M, ph            1  0  0  0   Lieber J, p           0  0  0  0   
+Delucia R, p          0  0  0  0   Clark D, ph           1  0  0  0   
+Benard M, rf          0  0  0  0   Cordova F, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  5 11  5                        38  4  7  4
+
+San Francisco    210 010 000 1 --  5
+Pittsburgh       100 003 000 0 --  4
+
+  San Francisco        IP  H  R ER BB SO
+Leiter M              8.0  7  4  4  1  8
+Delucia R (W)         1.0  0  0  0  0  1
+Beck R (S)            1.0  0  0  0  0  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D              6.0  8  4  4  2  4
+Lieber J              3.0  1  0  0  1  2
+Cordova F (L)         1.0  2  1  1  1  1
+
+E -- Kendall J, Thompson R
+DP -- Pittsburgh 1
+LOB -- San Francisco 9, Pittsburgh 6
+2B -- Johnson M, Thompson R, King J, Hill G
+HR -- Bonds B, Hill G, Johnson M
+SB -- Martin A, Hill G, Javier S
+SH -- Leiter M
+HBP -- by Leiter M (Kendall J)
+T -- 2:58
+A -- 17611
+     Game of 5/11/1996 -- San Francisco at Pittsburgh (N)
+
+  San Francisco      AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Javier S, cf          4  1  2  1   Brumfield J, cf       5  1  1  1   
+Thompson R, 2b        5  1  1  1   Plesac D, p           0  0  0  0   
+Bonds B, lf           4  3  1  1   Liriano N, ph         1  1  1  0   
+Williams M, 3b        5  2  1  3   Martin A, lf          6  0  2  1   
+Carreon M, 1b         6  2  3  2   King J, 2b            4  2  1  1   
+Hill G, rf            4  1  2  0   Johnson M, 1b         3  0  1  1   
+Lampkin T, c          5  1  2  1   Bell J, ss            3  0  1  2   
+Aurilia R, ss         2  0  0  0   Cummings M, rf        4  1  2  1   
+VanLandingham B, p    2  1  1  0   Wilkins M, p          0  0  0  0   
+Juden J, p            0  0  0  0   Clark D, rf           0  0  0  0   
+Creek D, p            1  0  0  0   Hayes C, 3b           5  0  0  0   
+McCarty D, ph         0  0  0  1   Kendall J, c          3  1  1  0   
+Dewey M, p            0  0  0  0   Hope J, p             0  0  0  0   
+                                   Hancock L, p          0  0  0  0   
+                                   Aude R, ph            1  0  0  0   
+                                   Christiansen J, p     0  0  0  0   
+                                   Kingery M, ph-rf-cf   2  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38 12 13 10                        37  7 10  7
+
+San Francisco    301 400 040 -- 12
+Pittsburgh       000 203 011 --  7
+
+  San Francisco        IP  H  R ER BB SO
+VanLandingham B (W)   5.0  5  2  2  5  4
+Juden J               0.2  2  3  0  2  1
+Creek D               1.1  0  0  0  1  0
+Dewey M               2.0  3  2  2  2  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Hope J (L)            3.1  6  6  5  3  1
+Hancock L             0.2  1  2  1  3  1
+Christiansen J        2.0  1  0  0  1  2
+Wilkins M             1.1  4  4  4  1  2
+Plesac D              1.2  1  0  0  0  2
+
+E -- Hayes C, King J, Williams M
+LOB -- San Francisco 11, Pittsburgh 14
+2B -- Hill G, Martin A, Carreon M 3, VanLandingham B, Brumfield J, Johnson M, Liriano N
+HR -- Williams M, Cummings M, Bonds B
+SB -- Javier S, Hill G
+SH -- VanLandingham B, Hope J, Javier S
+SF -- McCarty D
+HBP -- by Hope J (Thompson R)
+T -- 3:19
+A -- 16591
+     Game of 5/12/1996 -- San Francisco at Pittsburgh (D)
+
+  San Francisco      AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Javier S, cf          5  0  2  1   Brumfield J, cf       4  0  1  0   
+Scarsone S, 2b        5  1  2  0   Wehner J, 3b          4  0  0  0   
+Bonds B, lf           4  0  1  1   King J, 2b            4  0  1  0   
+Williams M, 3b        5  0  2  0   Aude R, 1b            4  0  2  0   
+McCarty D, 1b         5  1  0  0   Bell J, ss            3  1  0  0   
+Hill G, rf            5  3  4  1   Osik K, lf            4  1  1  1   
+Decker S, c           4  1  1  0   Cummings M, rf        3  0  0  0   
+Aurilia R, ss         4  0  1  0   Kendall J, c          2  0  1  1   
+Watson A, p           3  1  2  4   Smith Z, p            2  0  1  0   
+                                   Lieber J, p           0  0  0  0   
+                                   Hayes C, ph           1  0  0  0   
+                                   Cordova F, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  7 15  7                        31  2  7  2
+
+San Francisco    110 002 030 --  7
+Pittsburgh       020 000 000 --  2
+
+  San Francisco        IP  H  R ER BB SO
+Watson A (W)          9.0  7  2  2  1  8
+
+  Pittsburgh           IP  H  R ER BB SO
+Smith Z (L)           5.1  9  4  4  0  2
+Lieber J              1.2  1  0  0  1  1
+Cordova F             2.0  5  3  3  2  4
+
+DP -- San Francisco 1, Pittsburgh 1
+LOB -- San Francisco 10, Pittsburgh 5
+2B -- Bonds B, Osik K, Scarsone S, Watson A
+HR -- Hill G
+SB -- King J
+CS -- Brumfield J
+SH -- Watson A, Cummings M
+SF -- Kendall J
+WP -- Cordova F
+T -- 2:34
+A -- 17132
+     Game of 5/24/1996 -- Atlanta at Pittsburgh (N)
+
+  Atlanta            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Grissom M, cf         5  1  1  0   Garcia C, ss          5  0  3  1   
+Smith D, rf           5  1  3  2   Martin A, lf          5  0  1  0   
+Jones C, 3b           5  0  3  1   King J, 2b-3b         5  0  0  0   
+McGriff F, 1b         5  0  0  0   Merced O, rf          1  1  0  0   
+Klesko R, lf          3  1  2  0   Johnson M, 1b         4  1  2  1   
+Lopez J, c            5  1  2  0   Hayes C, 3b           4  0  1  1   
+Blauser J, ss         4  0  1  0   Cordova F, p          0  0  0  0   
+Belliard R, 2b        1  0  0  0   Cummings M, cf        3  0  1  0   
+Houston T, ph         1  0  0  0   Plesac D, p           0  0  0  0   
+McMichael G, p        0  0  0  0   Miceli D, p           0  0  0  0   
+Mordecai M, ph        0  0  0  0   Christiansen J, p     0  0  0  0   
+Clontz B, p           0  0  0  0   Liriano N, 2b         1  0  0  0   
+Wohlers M, p          0  0  0  0   Kendall J, c          3  0  1  0   
+Smoltz J, p           2  0  0  0   Clark D, ph           1  1  1  0   
+Walton J, ph          0  0  0  0   Darwin D, p           2  0  0  0   
+Graffanino T, pr-2b   1  1  1  1   Kingery M, cf         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 13  4                        36  3 10  3
+
+Atlanta          000 000 320 --  5
+Pittsburgh       000 200 001 --  3
+
+  Atlanta              IP  H  R ER BB SO
+Smoltz J (W)          6.0  6  2  2  3  3
+McMichael G           1.0  0  0  0  0  1
+Clontz B              1.0  1  0  0  0  2
+Wohlers M (S)         1.0  3  1  1  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Darwin D (L)          6.2  9  3  2  3  8
+Plesac D*             0.1  1  1  1  0  1
+Miceli D              1.0  3  1  1  1  2
+Christiansen J        0.1  0  0  0  1  1
+Cordova F             0.2  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- McGriff F, Cummings M
+DP -- Atlanta 1, Pittsburgh 3
+LOB -- Atlanta 10, Pittsburgh 9
+2B -- Johnson M 2, Hayes C, Clark D
+SB -- Belliard R, Jones C
+CS -- Jones C
+WP -- Smoltz J
+T -- 3:04
+A -- 20238
+     Game of 5/25/1996 -- Atlanta at Pittsburgh (N)
+
+  Atlanta            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Grissom M, cf         4  1  2  0   Garcia C, 2b          3  1  0  0   
+Blauser J, ss         3  1  1  1   Martin A, lf          3  0  0  1   
+Jones C, 3b           4  0  1  0   King J, 1b            2  0  0  0   
+McGriff F, 1b         4  0  2  1   Merced O, rf          3  2  2  0   
+Walton J, rf          4  0  0  0   Bell J, ss            3  1  2  2   
+Klesko R, lf          4  0  1  0   Hayes C, 3b           4  0  0  0   
+Perez E, c            3  0  1  0   Cummings M, cf        4  0  2  2   
+Belliard R, pr        0  0  0  0   Kendall J, c          4  1  2  0   
+Lopez J, c            1  0  0  0   Neagle D, p           2  0  0  0   
+Graffanino T, 2b      4  0  0  0   Wehner J, ph          0  1  0  0   
+Avery S, p            3  0  0  0   Plesac D, p           0  0  0  0   
+Bielecki M, p         0  0  0  0   Liriano N, ph         1  0  0  0   
+Borbon P, p           0  0  0  0   Cordova F, p          0  0  0  0   
+Smith D, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  2  8  2                        29  6  8  5
+
+Atlanta          001 010 000 --  2
+Pittsburgh       010 200 30x --  6
+
+  Atlanta              IP  H  R ER BB SO
+Avery S (L)           6.2  8  6  6  5  2
+Bielecki M            0.1  0  0  0  1  1
+Borbon P              1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D (W)          7.0  8  2  2  1 10
+Plesac D              1.0  0  0  0  0  1
+Cordova F             1.0  0  0  0  0  1
+
+E -- Garcia C
+DP -- Atlanta 2
+LOB -- Atlanta 7, Pittsburgh 6
+2B -- Jones C, Cummings M, Grissom M, Merced O, Bell J
+HR -- Blauser J
+SB -- Merced O
+CS -- Grissom M
+SF -- Martin A
+WP -- Avery S
+PB -- Lopez J
+T -- 2:20
+A -- 29273
+     Game of 5/26/1996 -- Atlanta at Pittsburgh (D)
+
+  Atlanta            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Grissom M, cf         5  2  3  3   Garcia C, 2b          3  1  0  0   
+Smith D, rf           5  0  2  0   Martin A, lf          7  1  2  0   
+Dye J, rf             2  0  0  0   King J, 1b            6  0  1  1   
+Jones C, 3b           6  0  2  1   Merced O, rf          6  0  2  1   
+McGriff F, 1b         5  0  0  0   Bell J, ss            4  0  0  0   
+Klesko R, lf          4  0  0  0   Hayes C, 3b           6  0  1  0   
+Walton J, lf          1  0  0  0   Cummings M, cf        6  0  2  0   
+Lopez J, c            5  2  2  2   Osik K, c             3  0  2  0   
+Blauser J, ss         4  0  1  0   Clark D, ph           1  1  1  1   
+McMichael G, p        0  0  0  0   Kendall J, c          1  0  0  0   
+Wohlers M, p          0  0  0  0   Wagner P, p           2  0  0  0   
+Clontz B, p           0  0  0  0   Christiansen J, p     0  0  0  0   
+Houston T, ph         1  0  1  0   Kingery M, ph         1  0  0  0   
+Wade T, p             0  0  0  0   Wilkins M, p          0  0  0  0   
+Perez E, ph           0  0  0  0   Johnson M, ph         1  0  0  0   
+Lemke M, pr           0  0  0  0   Plesac D, p           0  0  0  0   
+Bielecki M, p         0  0  0  0   Cordova F, p          0  0  0  0   
+Graffanino T, 2b      6  1  0  0   Liriano N, ph         1  0  0  0   
+Maddux G, p           2  0  0  0   Miceli D, p           0  0  0  0   
+Belliard R, ss        1  0  0  0   Wehner J, ph          1  0  1  0   
+Mordecai M, ph-ss     2  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     49  6 11  6                        49  3 12  3
+
+Atlanta          010 001 100 000 3 --  6
+Pittsburgh       100 000 011 000 0 --  3
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G              7.0  6  1  0  0  5
+McMichael G           0.2  2  1  1  1  0
+Wohlers M             1.1  1  1  1  1  3
+Clontz B              1.0  1  0  0  0  1
+Wade T (W)            2.0  1  0  0  3  1
+Bielecki M (S)        1.0  1  0  0  1  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Wagner P              6.1  9  3  3  2  5
+Christiansen J        0.2  0  0  0  0  0
+Wilkins M             2.0  0  0  0  0  2
+Plesac D              0.1  0  0  0  0  1
+Cordova F             1.2  1  0  0  1  2
+Miceli D (L)          2.0  1  3  2  4  1
+
+E -- Smith D, McGriff F, Wohlers M, Miceli D
+DP -- Pittsburgh 1
+LOB -- Atlanta 13, Pittsburgh 15
+2B -- Martin A, Houston T, Wehner J
+HR -- Lopez J 2, Clark D, Grissom M
+SB -- Jones C, Grissom M 2, McGriff F, Hayes C
+SH -- Maddux G, Grissom M, Kendall J
+HBP -- by Wohlers M (Garcia C)
+WP -- Maddux G, Wohlers M, Wilkins M, Cordova F
+T -- 4:27
+A -- 33085
+     Game of 5/27/1996 -- Houston at Pittsburgh (D)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hunter B, cf          4  1  2  0   Garcia C, 2b          4  0  1  1   
+Biggio C, 2b          3  2  3  2   Martin A, lf          3  0  0  0   
+Bagwell J, 1b         3  1  1  1   King J, 1b            4  1  2  0   
+Bell D, rf            4  0  0  0   Merced O, rf          3  1  0  0   
+Berry S, 3b           4  0  0  0   Bell J, ss            4  0  1  0   
+Spiers B, 3b          0  0  0  0   Hayes C, 3b           3  0  1  2   
+Miller O, ss          3  1  0  0   Cummings M, cf        4  0  0  0   
+Mouton J, lf          4  0  1  1   Kendall J, c          3  0  0  0   
+Knorr R, c            4  0  0  0   Clark D, ph           1  0  0  0   
+Kile D, p             4  0  0  0   Smith Z, p            1  0  0  0   
+                                   Kingery M, ph         1  1  1  0   
+                                   Lieber J, p           0  0  0  0   
+                                   Liriano N, ph         1  0  0  0   
+                                   Wilkins M, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  7  4                        32  3  6  3
+
+Houston          400 010 000 --  5
+Pittsburgh       000 210 000 --  3
+
+  Houston              IP  H  R ER BB SO
+Kile D (W)            9.0  6  3  3  2 10
+
+  Pittsburgh           IP  H  R ER BB SO
+Smith Z (L)           5.0  6  5  3  1  2
+Lieber J              2.0  1  0  0  1  2
+Wilkins M             2.0  0  0  0  0  0
+
+E -- King J, Martin A
+DP -- Pittsburgh 1
+LOB -- Houston 4, Pittsburgh 5
+2B -- Bagwell J, King J, Biggio C, Hayes C, Kingery M, Garcia C
+3B -- Biggio C, Mouton J
+HR -- Biggio C
+CS -- Garcia C, Miller O
+HBP -- by Kile D (Martin A), by Wilkins M (Miller O)
+T -- 2:20
+A -- 8906
+     Game of 5/28/1996 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hunter B, cf          4  1  2  0   Garcia C, 2b          3  0  0  0   
+Biggio C, 2b          4  2  4  2   Martin A, lf          3  0  0  0   
+Bagwell J, 1b         4  0  2  0   King J, 1b            4  0  0  0   
+Bell D, rf            3  0  1  1   Merced O, rf          4  1  1  1   
+Berry S, 3b           4  0  0  0   Bell J, ss            4  1  1  0   
+Spiers B, 3b          0  0  0  0   Hayes C, 3b           3  2  3  2   
+Simms M, lf           3  0  0  0   Wehner J, cf          3  1  1  0   
+Swindell G, p         0  0  0  0   Kendall J, c          4  1  2  2   
+Gutierrez R, ss       4  1  1  0   Ruebel M, p           2  0  0  0   
+Knorr R, c            3  0  0  0   Kingery M, ph         1  0  0  0   
+May D, ph             1  0  0  0   Miceli D, p           0  0  0  0   
+Hampton M, p          1  0  0  0   Liriano N, ph         1  0  0  0   
+Mouton J, ph          1  0  0  0   Cordova F, p          0  0  0  0   
+Hernandez X, p        0  0  0  0                                      
+Cangelosi J, ph-lf    1  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     33  5 11  4                        32  6  8  5
+
+Houston          100 100 021 --  5
+Pittsburgh       010 001 04x --  6
+
+  Houston              IP  H  R ER BB SO
+Hampton M             4.0  4  1  1  2  5
+Hernandez X           3.0  1  1  1  1  3
+Swindell G (L)        1.0  3  4  3  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Ruebel M              7.0  5  2  2  2  1
+Miceli D (W)          1.0  2  2  2  1  2
+Cordova F (S)         1.0  4  1  1  0  1
+
+E -- Hunter B
+DP -- Pittsburgh 2
+LOB -- Houston 7, Pittsburgh 6
+2B -- Bagwell J, Biggio C, Gutierrez R
+3B -- Hunter B, Kendall J
+HR -- Merced O, Hayes C
+SH -- Hunter B
+SF -- Biggio C
+HBP -- by Miceli D (Cangelosi J)
+WP -- Miceli D
+T -- 2:39
+A -- 7182
+     Game of 5/29/1996 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hunter B, cf          4  1  0  0   Garcia C, ss          5  0  2  1   
+Knorr R, c            1  0  0  0   Martin A, lf          5  0  1  0   
+Biggio C, 2b          4  2  1  0   Cordova F, p          0  0  0  0   
+Bagwell J, 1b         5  3  4  5   King J, 2b-1b         4  0  1  0   
+Bell D, rf            5  0  1  0   Merced O, rf          5  1  2  0   
+May D, lf             3  0  1  0   Johnson M, 1b         3  1  1  0   
+Cangelosi J, ph-lf    2  0  1  0   Wehner J, ph-2b       1  0  0  0   
+Miller O, 3b          5  0  2  1   Liriano N, ph         1  0  1  0   
+Gutierrez R, ss       5  1  1  0   Hayes C, 3b           3  0  0  1   
+Wilkins R, c          3  0  3  1   Cummings M, cf        5  1  2  0   
+Mouton J, pr-cf       1  0  1  0   Kendall J, c          4  0  2  1   
+Wall D, p             0  0  0  0   Darwin D, p           3  1  2  1   
+Morman A, p           0  0  0  0   Wilkins M, p          0  0  0  0   
+Spiers B, ph          1  0  0  0   Plesac D, p           0  0  0  0   
+Hartgraves D, p       0  0  0  0   Clark D, ph-lf        1  0  0  0   
+Berry S, ph           1  0  0  0                                      
+Jones T, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40  7 15  7                        40  4 14  4
+
+Houston          000 111 202 --  7
+Pittsburgh       030 001 000 --  4
+
+  Houston              IP  H  R ER BB SO
+Wall D*               4.0  9  3  3  1  1
+Morman A (W)          2.0  1  1  1  1  1
+Hartgraves D          1.0  1  0  0  1  1
+Jones T (S)           2.0  3  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Darwin D (L)          6.2  8  5  5  1  5
+Wilkins M             0.1  1  0  0  0  0
+Plesac D              1.0  2  0  0  0  2
+Cordova F             1.0  4  2  2  0  2
+  * Pitched to 2 batters in 5th
+
+DP -- Houston 1
+LOB -- Houston 9, Pittsburgh 12
+2B -- Johnson M, Darwin D, Bagwell J, Merced O, Kendall J
+HR -- Bagwell J 2, Darwin D
+SB -- Hunter B 2
+SH -- Wall D 2
+WP -- Darwin D
+T -- 2:56
+A -- 11679
+     Game of 5/31/1996 -- Colorado at Pittsburgh (N)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Young E, 2b           3  1  0  0   Garcia C, 2b          4  0  1  2   
+Burks E, lf           4  1  1  2   Martin A, lf          5  1  2  0   
+Bichette D, rf        4  1  2  0   King J, 1b            4  1  1  1   
+Walker L, cf          4  0  1  1   Merced O, rf          4  1  3  2   
+Galarraga A, 1b       4  1  1  1   Bell J, ss            4  1  1  0   
+Castilla V, 3b        4  0  0  0   Hayes C, 3b           3  1  1  0   
+Owens J, c            3  0  0  0   Kingery M, cf         3  1  1  0   
+Vanderwal J, ph       1  0  0  0   Wehner J, ph-cf       1  1  1  2   
+Weiss W, ss           4  0  1  0   Kendall J, c          4  1  2  0   
+Reynoso A, p          1  0  0  0   Neagle D, p           3  0  0  0   
+Castellano P, ph      1  0  0  0   Plesac D, p           0  0  0  0   
+Farmer M, p           0  0  0  0   Cordova F, p          0  0  0  0   
+McCracken Q, ph       1  0  0  0                                      
+Habyan J, p           0  0  0  0                                      
+Munoz M, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  6  4                        35  8 13  7
+
+Colorado         010 000 030 --  4
+Pittsburgh       121 010 03x --  8
+
+  Colorado             IP  H  R ER BB SO
+Reynoso A (L)         4.0  7  4  4  0  4
+Farmer M              3.0  3  1  1  0  1
+Habyan J              0.1  1  2  2  1  0
+Munoz M               0.2  2  1  1  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D (W)          7.2  5  4  4  1  7
+Plesac D*             0.0  1  0  0  0  0
+Cordova F (S)         1.1  0  0  0  0  2
+  * Pitched to 1 batter in 8th
+
+E -- Owens J 2, Garcia C, Galarraga A
+LOB -- Colorado 4, Pittsburgh 6
+2B -- Hayes C, Bell J
+3B -- Wehner J
+HR -- Galarraga A, Merced O, King J, Burks E
+SB -- Martin A, Garcia C, Merced O, Walker L
+CS -- Martin A
+SH -- Cordova F
+WP -- Plesac D, Habyan J
+T -- 2:33
+A -- 26640
+     Game of 6/1/1996 -- Colorado at Pittsburgh (N)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Young E, 2b           4  1  0  0   Garcia C, 2b          4  0  0  0   
+Burks E, lf           4  0  1  0   Martin A, lf          4  0  1  0   
+Bichette D, rf        4  0  1  2   King J, 3b-1b         4  0  2  0   
+Walker L, cf          2  0  0  0   Merced O, rf          4  0  2  0   
+Galarraga A, 1b       2  0  0  0   Johnson M, 1b         2  0  1  0   
+Reed J, c             3  0  0  0   Hayes C, ph-3b        1  0  0  0   
+Castellano P, ph      1  0  0  0   Bell J, ss            4  0  0  0   
+Painter L, p          0  0  0  0   Kingery M, cf         2  0  1  0   
+Ruffin B, p           0  0  0  0   Wehner J, ph          1  0  0  0   
+Castilla V, 3b        4  0  0  0   Kendall J, c          4  0  1  0   
+Weiss W, ss           3  0  0  0   Wagner P, p           1  0  0  0   
+Ritz K, p             1  1  0  0   Cummings M, ph        1  0  0  0   
+McCracken Q, ph       1  0  0  0   Wilkins M, p          0  0  0  0   
+Reed S, p             0  0  0  0   Christiansen J, p     0  0  0  0   
+Owens J, c            1  0  1  0   Miceli D, p           0  0  0  0   
+                                   Liriano N, ph         1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  3  2                        33  0  9  0
+
+Colorado         002 000 000 --  2
+Pittsburgh       000 000 000 --  0
+
+  Colorado             IP  H  R ER BB SO
+Ritz K (W)            6.0  5  0  0  3  2
+Reed S                1.0  1  0  0  0  1
+Painter L             0.1  2  0  0  0  0
+Ruffin B (S)          1.2  1  0  0  0  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Wagner P (L)          7.0  1  2  2  5 10
+Wilkins M             0.1  1  0  0  1  1
+Christiansen J        0.1  0  0  0  0  1
+Miceli D              1.1  1  0  0  0  0
+
+E -- Kendall J
+LOB -- Colorado 9, Pittsburgh 10
+SB -- Galarraga A, Merced O, Burks E
+CS -- King J
+SH -- Wagner P
+HBP -- by Wagner P (Galarraga A), by Wilkins M (Galarraga A)
+WP -- Wagner P, Ruffin B
+T -- 3:01
+A -- 15633
+     Game of 6/2/1996 -- Colorado at Pittsburgh (D)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Young E, 2b           5  0  0  0   Garcia C, 2b          4  2  3  0   
+McCracken Q, cf       5  0  1  0   Kingery M, cf         2  1  0  0   
+Bichette D, rf        5  1  2  0   King J, 1b            3  0  1  2   
+Galarraga A, 1b       4  0  2  1   Merced O, rf          4  0  0  0   
+Burks E, lf           3  1  2  0   Hayes C, 3b           3  0  0  0   
+Castilla V, 3b        3  0  0  0   Clark D, lf           3  0  0  1   
+Owens J, c            4  0  1  1   Kendall J, c          0  0  0  0   
+Weiss W, ss           3  0  0  0   Bell J, ss            3  0  0  0   
+Freeman M, p          2  0  0  0   Osik K, c             2  0  0  0   
+Castellano P, ph      1  0  0  0   Martin A, ph          2  1  1  1   
+Holmes D, p           0  0  0  0   Cordova F, p          0  0  0  0   
+Painter L, p          0  0  0  0   Smith Z, p            2  0  0  0   
+Habyan J, p           0  0  0  0   Johnson M, ph         1  0  1  0   
+                                   Wehner J, pr-lf       0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2  8  2                        29  5  6  4
+
+Colorado         001 000 010 --  2
+Pittsburgh       000 100 04x --  5
+
+  Colorado             IP  H  R ER BB SO
+Freeman M             7.0  3  1  1  1  8
+Holmes D (L)*         0.0  3  3  3  0  0
+Painter L             0.2  0  1  1  3  1
+Habyan J              0.1  0  0  0  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Smith Z (W)           8.0  8  2  2  4  8
+Cordova F (S)         1.0  0  0  0  0  2
+  * Pitched to 3 batters in 8th
+
+LOB -- Colorado 10, Pittsburgh 6
+2B -- Bichette D, Galarraga A
+3B -- Owens J
+HR -- Martin A
+SB -- Burks E 2, Galarraga A, Garcia C
+SF -- King J
+WP -- Painter L, Habyan J
+Balk -- Smith Z
+T -- 2:38
+A -- 26745
+     Game of 6/3/1996 -- Colorado at Pittsburgh (D)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Young E, 2b           3  1  1  0   Garcia C, 2b          5  2  4  1   
+Burks E, lf           3  1  2  1   Martin A, lf          5  0  1  2   
+Walker L, cf          4  0  0  0   King J, 1b            5  1  1  2   
+Galarraga A, 1b       3  0  0  1   Merced O, rf          5  0  1  0   
+Bichette D, rf        4  0  1  0   Plesac D, p           0  0  0  0   
+Castilla V, 3b        3  0  1  0   Hayes C, 3b           3  0  1  0   
+Weiss W, ss           4  0  1  0   Kingery M, cf         2  1  1  0   
+Owens J, c            4  0  0  0   Bell J, ss            4  1  2  1   
+Swift B, p            2  0  1  0   Kendall J, c          4  1  0  0   
+Farmer M, p           0  0  0  0   Ruebel M, p           3  0  1  0   
+Castellano P, ph      1  0  0  0   Lieber J, p           0  0  0  0   
+Reed S, p             0  0  0  0   Clark D, ph           0  0  0  0   
+Holmes D, p           0  0  0  0   Wehner J, pr-rf       0  1  0  0   
+Munoz M, p            0  0  0  0                                      
+Bates J, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        36  7 12  6
+
+Colorado         200 000 000 --  2
+Pittsburgh       001 121 02x --  7
+
+  Colorado             IP  H  R ER BB SO
+Swift B               3.1  5  2  2  1  1
+Farmer M (L)          2.2  5  3  3  1  0
+Reed S                1.0  0  0  0  1  1
+Holmes D              0.2  2  2  2  1  1
+Munoz M               0.1  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Ruebel M (W)          7.0  5  2  2  2  4
+Lieber J              1.0  1  0  0  0  1
+Plesac D              1.0  1  0  0  0  0
+
+E -- Castilla V
+DP -- Colorado 1, Pittsburgh 1
+LOB -- Colorado 7, Pittsburgh 9
+2B -- Burks E, Bichette D, Young E, Hayes C, Garcia C, Merced O, Castilla V
+3B -- Kingery M, Bell J
+HR -- King J
+SB -- Burks E
+SF -- Galarraga A
+HBP -- by Ruebel M (Young E)
+WP -- Farmer M, Holmes D
+T -- 2:41
+A -- 8120
+     Game of 6/13/1996 -- Florida at Pittsburgh (N)
+
+  Florida            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+White D, cf           5  0  2  3   Garcia C, 2b          5  0  2  1   
+Renteria E, ss        5  0  0  0   Martin A, cf-lf       5  0  0  0   
+Conine J, lf          4  0  1  0   King J, 1b            3  0  1  0   
+Sheffield G, rf       3  1  1  1   Merced O, rf          4  1  1  0   
+Colbrunn G, 1b        4  0  1  0   Hayes C, 3b           3  0  0  0   
+Pendleton T, 3b       3  0  1  0   Clark D, lf           3  1  1  1   
+Powell J, p           0  0  0  0   Kingery M, cf         1  0  1  0   
+Perez Y, p            0  0  0  0   Bell J, ss            3  0  0  0   
+Tavarez J, ph         1  0  0  0   Kendall J, c          2  1  0  0   
+Natal B, c            0  0  0  0   Smith Z, p            2  0  0  0   
+Johnson C, c          3  0  0  0   Liriano N, ph         1  0  1  1   
+Orsulak J, ph         1  1  1  0   Wilkins M, p          0  0  0  0   
+Nen R, p              0  0  0  0   Cordova F, p          0  0  0  0   
+Abbott K, 2b          4  2  3  0   Johnson M, ph         1  0  0  0   
+Weathers D, p         2  0  0  0                                      
+Arias A, 3b           1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4 11  4                        33  3  7  3
+
+Florida          000 100 012 --  4
+Pittsburgh       000 100 200 --  3
+
+  Florida              IP  H  R ER BB SO
+Weathers D            6.1  6  3  3  2  1
+Powell J              0.1  0  0  0  1  1
+Perez Y (W)           1.1  1  0  0  0  0
+Nen R (S)             1.0  0  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Smith Z               7.0  5  1  1  0  5
+Wilkins M             1.0  3  1  1  1  1
+Cordova F (L)         1.0  3  2  2  1  0
+
+E -- Garcia C
+DP -- Florida 1, Pittsburgh 2
+LOB -- Florida 7, Pittsburgh 8
+2B -- King J, Merced O, Clark D, Abbott K
+HR -- Sheffield G
+SH -- Bell J
+HBP -- by Weathers D (Kendall J)
+WP -- Powell J
+T -- 2:39
+A -- 15083
+     Game of 6/14/1996 -- Florida at Pittsburgh (N)
+
+  Florida            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+White D, cf           4  1  1  1   Garcia C, ss          3  0  1  2   
+Renteria E, ss        4  0  1  0   Martin A, cf-lf       4  0  2  0   
+Conine J, lf-1b       2  1  2  0   King J, 1b            5  1  2  3   
+Sheffield G, rf       4  1  1  2   Merced O, rf          3  0  0  0   
+Colbrunn G, 1b        4  0  1  0   Hayes C, 3b           4  0  1  0   
+Nen R, p              0  0  0  0   Wehner J, pr-3b       0  0  0  0   
+Pendleton T, 3b       4  0  0  0   Clark D, lf           4  0  1  0   
+Johnson C, c          4  1  2  0   Plesac D, p           0  0  0  0   
+Abbott K, 2b          4  0  1  1   Liriano N, 2b         4  1  1  0   
+Burkett J, p          3  0  0  0   Kendall J, c          4  2  2  0   
+Perez Y, p            0  0  0  0   Ruebel M, p           0  0  0  0   
+Mathews T, p          0  0  0  0   Morel R, p            1  0  0  0   
+Orsulak J, lf         1  0  0  0   Lieber J, p           0  0  0  0   
+                                   Johnson M, ph         1  0  0  0   
+                                   Miceli D, p           0  0  0  0   
+                                   Kingery M, cf         0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        33  5 10  5
+
+Florida          310 000 000 --  4
+Pittsburgh       021 000 002 --  5
+  1 out when winning run was scored.
+
+  Florida              IP  H  R ER BB SO
+Burkett J             6.2  6  3  3  2  3
+Perez Y               0.1  0  0  0  0  0
+Mathews T             0.2  2  0  0  0  0
+Nen R (L)             0.2  2  2  2  2  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Ruebel M*             1.0  5  4  4  0  0
+Morel R               4.0  3  0  0  1  4
+Lieber J              2.0  0  0  0  0  3
+Miceli D              1.0  0  0  0  1  1
+Plesac D (W)          1.0  1  0  0  0  0
+  * Pitched to 2 batters in 2nd
+
+E -- Garcia C 2, Johnson C
+DP -- Pittsburgh 3
+LOB -- Florida 5, Pittsburgh 9
+2B -- Johnson C, Abbott K
+HR -- White D, Sheffield G, King J
+SB -- Martin A
+CS -- Conine J, Colbrunn G
+SH -- Morel R, Garcia C
+T -- 2:37
+A -- 26494
+     Game of 6/15/1996 -- Florida at Pittsburgh (N)
+
+  Florida            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Tavarez J, cf         5  1  2  0   Garcia C, 2b          5  1  2  0   
+Renteria E, ss        4  0  0  1   Martin A, lf          5  1  1  1   
+Conine J, lf          4  1  1  0   King J, 1b            4  3  2  2   
+Sheffield G, rf       1  1  0  0   Merced O, rf          2  2  2  1   
+Orsulak J, rf         2  2  2  0   Wehner J, rf          1  0  0  0   
+Colbrunn G, 1b        4  0  1  1   Hayes C, 3b           3  1  2  4   
+Mathews T, p          0  0  0  0   Kingery M, cf         5  0  0  0   
+White D, ph           1  1  1  3   Bell J, ss            5  2  2  2   
+Pendleton T, 3b       5  1  3  2   Osik K, c             3  2  3  1   
+Johnson C, c          3  0  2  1   Darwin D, p           3  0  0  0   
+Natal B, c            1  0  0  0   Johnson M, ph         1  0  1  1   
+Abbott K, 2b          3  0  0  0   Wilkins M, p          0  0  0  0   
+Powell J, p           0  0  0  0   Christiansen J, p     0  0  0  0   
+Morman R, ph-1b       2  0  0  0   Cordova F, p          0  0  0  0   
+Rapp P, p             1  0  1  0                                      
+Miller K, p           0  0  0  0                                      
+Grebeck C, ph         1  0  0  0                                      
+Mantei M, p           0  0  0  0                                      
+Arias A, 2b           2  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  8 14  8                        37 12 15 12
+
+Florida          000 101 015 --  8
+Pittsburgh       250 005 00x -- 12
+
+  Florida              IP  H  R ER BB SO
+Rapp P (L)            1.2  5  6  6  2  3
+Miller K              1.1  3  1  1  1  1
+Mantei M              2.1  3  2  2  1  1
+Powell J              1.2  4  3  3  0  0
+Mathews T             1.0  0  0  0  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Darwin D (W)          6.0  6  2  2  3  1
+Wilkins M             2.0  2  1  1  1  0
+Christiansen J        0.1  6  5  5  0  0
+Cordova F             0.2  0  0  0  0  1
+
+DP -- Florida 1, Pittsburgh 1
+LOB -- Florida 9, Pittsburgh 7
+2B -- Garcia C, Merced O 2, Pendleton T 2, Bell J 2, Hayes C, Johnson C, Orsulak J, Arias A, White D
+HR -- King J
+SB -- Tavarez J, Sheffield G
+SF -- Hayes C, Renteria E
+WP -- Powell J
+Balk -- Darwin D
+T -- 3:07
+A -- 15596
+     Game of 6/16/1996 -- Florida at Pittsburgh (D)
+
+  Florida            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+White D, cf           5  1  1  1   Garcia C, 2b          5  1  2  1   
+Renteria E, ss        5  1  2  1   Martin A, lf          4  0  0  0   
+Conine J, lf          5  1  3  0   Miceli D, p           0  0  0  0   
+Sheffield G, rf       5  0  3  1   King J, 3b-1b         4  0  1  0   
+Colbrunn G, 1b        5  0  1  0   Merced O, rf          4  0  1  0   
+Arias A, 3b           4  0  1  0   Johnson M, 1b         3  0  1  0   
+Johnson C, c          3  0  0  0   Hayes C, ph-3b        1  0  0  0   
+Abbott K, 2b          4  1  1  0   Bell J, ss            4  0  2  0   
+Grebeck C, 2b         0  0  0  0   Kingery M, cf         4  0  1  0   
+Brown K, p            2  0  0  0   Kendall J, c          4  1  2  0   
+Tavarez J, ph         1  0  0  0   Neagle D, p           1  0  0  0   
+Perez Y, p            0  0  0  0   Lieber J, p           0  0  0  0   
+Mathews T, p          0  0  0  0   Clark D, ph-lf        2  0  1  0   
+Nen R, p              0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  4 12  3                        36  2 11  1
+
+Florida          001 010 200 --  4
+Pittsburgh       000 020 000 --  2
+
+  Florida              IP  H  R ER BB SO
+Brown K (W)           7.0  9  2  1  0  3
+Perez Y*              0.0  1  0  0  0  0
+Mathews T             1.0  0  0  0  0  0
+Nen R (S)             1.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D (L)          6.1 10  4  2  1  3
+Lieber J              0.2  0  0  0  0  0
+Miceli D              2.0  2  0  0  0  2
+  * Pitched to 1 batter in 8th
+
+E -- Bell J, King J, Brown K, Martin A
+DP -- Florida 2, Pittsburgh 1
+LOB -- Florida 10, Pittsburgh 8
+2B -- Renteria E, Garcia C, Abbott K, Clark D
+HR -- White D
+SB -- Kingery M
+SH -- Brown K, Neagle D
+WP -- Brown K
+PB -- Johnson C
+T -- 2:36
+A -- 28120
+     Game of 6/17/1996 -- New York at Pittsburgh (D)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Johnson L, cf         5  3  3  3   Garcia C, 2b          4  2  2  0   
+Vizcaino J, 2b        6  0  2  1   Cordova F, p          0  0  0  0   
+Gilkey B, lf          5  0  3  1   Martin A, lf-cf       5  1  1  1   
+Hundley T, c          5  1  0  0   King J, 1b-3b         4  0  1  0   
+Kent J, 3b            5  1  2  2   Merced O, rf          4  0  2  0   
+Brogna R, 1b          5  0  1  0   Hayes C, 3b           3  0  1  2   
+Everett C, rf         3  0  0  0   Wilkins M, p          0  0  0  0   
+Martinez P, p         0  0  0  0   Plesac D, p           0  0  0  0   
+Byrd P, p             0  0  0  0   Liriano N, 2b         1  0  0  0   
+Tomberlin A, ph       1  0  0  0   Bell J, ss            5  0  0  0   
+Mlicki D, p           0  0  0  0   Wehner J, cf          3  1  1  0   
+Franco J, p           0  0  0  0   Clark D, ph-lf        2  0  1  0   
+Ordonez R, ss         5  1  2  0   Kendall J, c          5  1  2  1   
+Clark M, p            2  1  1  0   Loaiza E, p           0  0  0  0   
+Jones C, rf           2  0  0  0   Morel R, p            1  0  0  0   
+                                   Kingery M, ph         1  0  0  0   
+                                   Christiansen J, p     0  0  0  0   
+                                   Johnson M, ph-1b      3  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     44  7 14  7                        41  6 12  6
+
+New York         330 000 000 1 --  7
+Pittsburgh       001 000 500 0 --  6
+
+  New York             IP  H  R ER BB SO
+Clark M*              6.0  8  3  3  2  1
+Martinez P+           0.0  1  3  1  1  0
+Byrd P                2.0  1  0  0  0  2
+Mlicki D (W)          1.0  0  0  0  1  1
+Franco J (S)          1.0  2  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Loaiza E              2.0  7  6  5  0  2
+Morel R               3.0  3  0  0  1  0
+Christiansen J        2.0  2  0  0  0  2
+Wilkins M             0.2  0  0  0  0  1
+Plesac D              0.1  0  0  0  2  2
+Cordova F (L)         2.0  2  1  1  0  4
+  * Pitched to 2 batters in 7th
+  + Pitched to 3 batters in 7th
+
+E -- King J, Hundley T, Ordonez R, Brogna R
+DP -- New York 2
+LOB -- New York 11, Pittsburgh 9
+2B -- Johnson L, Vizcaino J, Merced O, Garcia C, Gilkey B, Wehner J
+3B -- Hayes C
+HR -- Kent J, Johnson L, Johnson M
+SB -- Martin A, Johnson L 2, Vizcaino J 2
+CS -- Merced O
+SH -- Clark M
+WP -- Plesac D
+T -- 3:12
+A -- 11002
+     Game of 6/19/1996, game 1 -- New York at Pittsburgh (N)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Johnson L, cf         4  0  0  0   Garcia C, 2b          4  1  1  0   
+Vizcaino J, 2b        4  0  0  0   Martin A, lf          4  0  1  0   
+Gilkey B, lf          4  0  1  0   King J, 1b            4  0  0  0   
+Kent J, 3b            4  2  2  0   Merced O, rf          4  1  2  1   
+Hundley T, c          3  1  0  0   Hayes C, 3b           3  2  2  0   
+Everett C, rf         3  0  0  0   Kingery M, cf         3  2  2  1   
+Huskey B, 1b          2  0  0  2   Bell J, ss            3  0  1  1   
+Bogar T, 1b           1  0  0  0   Kendall J, c          4  0  1  2   
+Ordonez R, ss         4  1  1  1   Smith Z, p            1  0  0  0   
+Isringhausen J, p     3  1  2  2   Morel R, p            0  0  0  0   
+Henry D, p            0  0  0  0   Liriano N, ph         1  0  0  0   
+Jones C, ph           1  0  0  0   Wilkins M, p          0  0  0  0   
+                                   Johnson M, ph         1  0  0  0   
+                                   Plesac D, p           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  6  5                        33  6 10  5
+
+New York         010 400 000 --  5
+Pittsburgh       200 002 02x --  6
+
+  New York             IP  H  R ER BB SO
+Isringhausen J (L)    7.1  9  6  5  3  6
+Henry D               0.2  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Smith Z               4.1  6  5  1  0  1
+Morel R               0.2  0  0  0  1  0
+Wilkins M             2.0  0  0  0  0  1
+Plesac D (W)          2.0  0  0  0  0  1
+
+E -- Hayes C, Isringhausen J 2
+DP -- New York 1
+LOB -- New York 4, Pittsburgh 6
+2B -- Kent J 2, Ordonez R, Gilkey B
+HR -- Merced O, Isringhausen J
+SB -- Garcia C
+SF -- Huskey B
+HBP -- by Smith Z (Everett C)
+WP -- Isringhausen J
+T -- 2:13
+A -- 0
+     Game of 6/19/1996, game 2 -- New York at Pittsburgh (N)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Johnson L, cf         4  1  1  1   Liriano N, 2b         4  0  1  0   
+Alfonzo E, 2b         4  0  1  0   Miceli D, p           0  0  0  0   
+Gilkey B, lf          4  1  1  2   Wehner J, cf          0  0  0  0   
+Kent J, 3b            5  1  3  0   King J, ph            1  0  0  0   
+Hundley T, c          4  0  1  0   Martin A, cf-lf       4  0  1  0   
+Everett C, rf         2  0  1  0   Merced O, rf          4  0  1  0   
+Jones C, pr-rf        3  1  2  1   Johnson M, 1b         4  1  1  0   
+Huskey B, 1b          4  1  2  0   Hayes C, 3b           3  1  0  0   
+Bogar T, ss           2  0  0  0   Clark D, lf           4  1  1  3   
+Brogna R, ph          1  0  0  0   Cordova F, p          0  0  0  0   
+Ordonez R, ss         1  0  0  0   Bell J, ss            3  0  1  0   
+Person R, p           2  0  0  0   Osik K, c             4  0  1  0   
+Tomberlin A, ph       0  0  0  0   Ruebel M, p           2  0  1  0   
+Byrd P, p             0  0  0  0   Lieber J, p           0  0  0  0   
+Mayne B, ph           1  0  0  0   Garcia C, ph-2b       2  0  0  0   
+Mlicki D, p           0  0  0  0                                      
+Franco J, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  5 12  4                        35  3  8  3
+
+New York         000 002 003 --  5
+Pittsburgh       000 300 000 --  3
+
+  New York             IP  H  R ER BB SO
+Person R              5.0  5  3  3  2  7
+Byrd P                2.0  2  0  0  1  2
+Mlicki D (W)          1.0  0  0  0  0  0
+Franco J (S)          1.0  1  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Ruebel M              5.0  5  0  0  4  2
+Lieber J              2.0  3  2  2  0  3
+Miceli D              1.0  0  0  0  0  0
+Cordova F (L)         1.0  4  3  3  1  0
+
+E -- Merced O
+LOB -- New York 12, Pittsburgh 9
+2B -- Johnson M, Bell J, Kent J 2
+HR -- Clark D, Gilkey B
+SB -- Everett C 2, Johnson L, Huskey B
+CS -- Johnson L
+SH -- Alfonzo E
+HBP -- by Lieber J (Tomberlin A)
+T -- 3:06
+A -- 20108
+     Game of 7/1/1996 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Bullett S, cf         3  0  1  0   Garcia C, 2b          4  0  0  0   
+McRae B, ph-cf        1  0  0  0   Martin A, lf          3  2  2  0   
+Sandberg R, 2b        4  0  1  0   King J, 1b            4  1  4  1   
+Grace M, 1b           4  1  2  0   Merced O, rf          4  1  2  2   
+Sosa S, rf            4  0  2  0   Hayes C, 3b           4  0  1  0   
+Gonzalez L, lf        3  0  1  0   Kingery M, cf         3  0  1  1   
+Shumpert T, ph        1  0  0  0   Bell J, ss            4  0  0  0   
+Magadan D, 3b         2  0  0  0   Kendall J, c          3  0  0  0   
+Servais S, c          3  0  0  0   Darwin D, p           2  0  1  0   
+Hernandez J, ss       3  0  0  0   Liriano N, ph         1  0  0  0   
+Navarro J, p          2  0  0  0   Plesac D, p           0  0  0  0   
+Glanville D, ph       1  0  1  0                                      
+Myers R, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  1  8  0                        32  4 11  4
+
+Chicago          000 100 000 --  1
+Pittsburgh       300 010 00x --  4
+
+  Chicago              IP  H  R ER BB SO
+Navarro J (L)         7.0 11  4  4  1  3
+Myers R               1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Darwin D (W)          7.0  6  1  1  1  4
+Plesac D (S)          2.0  2  0  0  0  0
+
+E -- Bell J
+DP -- Chicago 2, Pittsburgh 4
+LOB -- Chicago 4, Pittsburgh 6
+2B -- Hayes C, Glanville D
+3B -- Martin A
+SB -- Sosa S
+SF -- Kingery M
+WP -- Navarro J
+T -- 2:21
+A -- 15910
+     Game of 7/2/1996 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+McRae B, cf           5  2  2  0   Garcia C, 2b-ss       5  1  1  0   
+Glanville D, cf       2  0  0  0   Martin A, lf          3  0  2  0   
+Sandberg R, 2b        5  2  4  4   Wehner J, lf-3b       2  0  0  0   
+Bullett S, rf         2  0  0  0   King J, 1b            5  0  1  2   
+Grace M, 1b           4  2  2  2   Merced O, rf          5  1  2  0   
+Sturtze T, p          0  0  0  0   Hayes C, 3b           4  0  0  0   
+Bottenfield K, p      0  0  0  0   Christiansen J, p     0  0  0  0   
+Sosa S, rf            5  1  1  0   Liriano N, 2b         1  0  1  0   
+Shumpert T, 2b        1  0  1  0   Kingery M, cf         3  2  1  0   
+Gonzalez L, lf        5  1  0  0   Bell J, ss            4  0  1  2   
+Gomez L, 3b           4  3  2  1   Cordova F, p          0  0  0  0   
+Houston T, c          5  2  4  4   Kendall J, c          4  1  2  0   
+Myers R, p            0  0  0  0   Wagner P, p           0  0  0  0   
+Magadan D, 1b         1  0  1  0   Lieber J, p           1  0  0  0   
+Hernandez J, ss       4  1  2  2   Johnson M, ph         1  0  1  0   
+Telemaco A, p         4  1  2  1   Morel R, p            0  0  0  0   
+Hubbard M, ph-c       2  0  1  1   Miceli D, p           0  0  0  0   
+                                   Clark D, ph-lf        2  2  2  3   
+                     -- -- -- --                        -- -- -- --
+                     49 15 22 15                        40  7 14  7
+
+Chicago          015 205 101 -- 15
+Pittsburgh       000 002 230 --  7
+
+  Chicago              IP  H  R ER BB SO
+Telemaco A (W)        6.0  8  2  2  1  3
+Myers R               1.0  3  2  2  0  1
+Sturtze T             1.0  2  3  3  1  0
+Bottenfield K         1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Wagner P (L)          2.2  8  6  6  2  3
+Lieber J              2.1  4  2  2  2  0
+Morel R               1.0  5  5  5  1  0
+Miceli D              1.0  1  1  1  1  1
+Christiansen J        1.0  1  0  0  1  1
+Cordova F             1.0  3  1  1  0  2
+
+DP -- Chicago 1
+LOB -- Chicago 14, Pittsburgh 8
+2B -- Hernandez J, McRae B, Sandberg R, Houston T 2, Kendall J, Bell J, Garcia C
+3B -- Sandberg R
+HR -- Gomez L, Clark D
+SB -- Sandberg R, Martin A, Sosa S
+WP -- Wagner P, Morel R
+Balk -- Myers R
+T -- 3:09
+A -- 13241
+     Game of 7/3/1996 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+McRae B, cf           4  0  1  0   Garcia C, 2b          4  1  0  0   
+Sandberg R, 2b        4  0  1  0   Martin A, lf          4  1  2  2   
+Grace M, 1b           4  1  1  0   King J, 1b            4  1  1  1   
+Sosa S, rf            4  0  1  1   Merced O, rf          4  0  2  0   
+Gomez L, 3b           3  1  2  0   Hayes C, 3b           2  0  1  0   
+Gonzalez L, lf        3  0  0  0   Kingery M, cf         4  0  0  0   
+Shumpert T, ph        1  0  0  0   Bell J, ss            4  0  0  0   
+Servais S, c          4  0  2  1   Kendall J, c          2  0  1  0   
+Houston T, pr         0  0  0  0   Neagle D, p           2  0  0  0   
+Hernandez J, ss       4  0  0  0   Plesac D, p           0  0  0  0   
+Castillo F, p         2  0  0  0                                      
+Bottenfield K, p      0  0  0  0                                      
+Patterson B, p        0  0  0  0                                      
+Glanville D, ph       0  0  0  0                                      
+Wendell T, p          0  0  0  0                                      
+Hubbard M, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        30  3  7  3
+
+Chicago          100 000 001 --  2
+Pittsburgh       000 003 00x --  3
+
+  Chicago              IP  H  R ER BB SO
+Castillo F (L)        5.1  4  3  2  1  3
+Bottenfield K         1.1  2  0  0  1  0
+Patterson B           0.1  0  0  0  0  1
+Wendell T             1.0  1  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D (W)          8.0  6  1  1  2  4
+Plesac D (S)          1.0  2  1  1  0  2
+
+E -- Hernandez J, Gomez L, McRae B
+DP -- Chicago 2, Pittsburgh 1
+LOB -- Chicago 7, Pittsburgh 7
+2B -- Grace M, Sandberg R, Hayes C, Merced O, Gomez L
+HR -- Martin A, King J
+SB -- Garcia C, Merced O
+CS -- Garcia C
+SH -- Neagle D
+T -- 2:49
+A -- 22157
+     Game of 7/4/1996 -- St. Louis at Pittsburgh (D)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Clayton R, ss         5  0  2  0   Garcia C, 2b          4  0  0  0   
+Lankford R, cf        3  3  1  0   Martin A, cf          4  0  2  0   
+Mejia M, cf           1  0  0  0   King J, 1b            4  1  1  1   
+Gant R, lf            4  0  1  0   Merced O, rf          3  0  2  0   
+Jordan B, rf          4  3  2  4   Clark D, lf           4  0  1  0   
+Mabry J, 1b           4  0  3  0   Hayes C, 3b           4  0  1  0   
+Gaetti G, 3b          3  0  1  1   Bell J, ss            3  0  0  0   
+Pagnozzi T, c         4  1  1  1   Osik K, c             3  0  0  0   
+Bell D, 2b            4  0  0  0   Dessens E, p          0  0  0  0   
+Benes A, p            3  0  0  0   Kingery M, ph         1  0  0  0   
+Smith O, ph           1  0  0  0   Wilkins M, p          0  0  0  0   
+Mathews T, p          0  0  0  0   Liriano N, ph         1  0  0  0   
+Fossas T, p           0  0  0  0   Morel R, p            0  0  0  0   
+Parrett J, p          0  0  0  0   Wehner J, ph          1  0  1  0   
+                                   Miceli D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 11  6                        32  1  8  1
+
+St. Louis        202 021 000 --  7
+Pittsburgh       000 000 100 --  1
+
+  St. Louis            IP  H  R ER BB SO
+Benes A (W)           7.0  6  1  1  1  5
+Mathews T             1.0  1  0  0  0  0
+Fossas T              0.2  1  0  0  0  1
+Parrett J             0.1  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Dessens E (L)         3.0  8  4  4  0  2
+Wilkins M             3.0  1  3  2  1  3
+Morel R               2.0  2  0  0  0  1
+Miceli D              1.0  0  0  0  0  1
+
+E -- Osik K
+DP -- St. Louis 3
+LOB -- St. Louis 5, Pittsburgh 5
+2B -- Lankford R, Merced O
+HR -- Jordan B, Pagnozzi T, King J
+SB -- Lankford R 2, Martin A, Clark D, Merced O
+CS -- Clayton R
+SH -- Gant R
+SF -- Gaetti G
+WP -- Wilkins M 2
+T -- 2:46
+A -- 23321
+     Game of 7/5/1996 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Clayton R, ss         5  0  1  0   Liriano N, 2b         4  0  1  0   
+Lankford R, cf        5  2  2  0   Martin A, cf          5  0  0  0   
+Gant R, lf            3  1  0  0   King J, 3b            3  1  1  0   
+Jordan B, rf          4  2  2  2   Merced O, rf          4  1  1  2   
+Gaetti G, 3b-1b       4  1  2  3   Johnson M, 1b         4  2  3  2   
+Mabry J, 1b           4  1  1  0   Clark D, lf           4  0  0  0   
+Honeycutt R, p        0  0  0  0   Bell J, ss            4  0  1  0   
+Eckersley D, p        0  0  0  0   Kendall J, c          4  0  1  0   
+Fossas T, p           0  0  0  0   Smith Z, p            1  0  0  0   
+Pagnozzi T, c         4  0  2  2   Morel R, p            0  0  0  0   
+Bell D, 2b-3b         4  0  1  0   Kingery M, ph         1  0  0  0   
+Stottlemyre T, p      3  0  0  0   Lieber J, p           0  0  0  0   
+Alicea L, 2b          0  0  0  0   Wehner J, ph          1  0  0  0   
+                                   Christiansen J, p     0  0  0  0   
+                                   Hayes C, ph           1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 11  7                        36  4  9  4
+
+St. Louis        103 300 000 --  7
+Pittsburgh       000 003 010 --  4
+
+  St. Louis            IP  H  R ER BB SO
+Stottlemyre T (W)     6.2  6  3  3  2  5
+Honeycutt R           1.1  1  1  1  0  1
+Eckersley D           0.2  2  0  0  0  0
+Fossas T (S)          0.1  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Smith Z (L)           3.2  8  7  7  3  3
+Morel R               1.1  1  0  0  0  0
+Lieber J              2.0  1  0  0  0  2
+Christiansen J        2.0  1  0  0  1  2
+
+E -- Clayton R, Johnson M
+LOB -- St. Louis 7, Pittsburgh 7
+2B -- Johnson M, Pagnozzi T, Jordan B, Bell D
+HR -- Merced O, Johnson M 2
+SB -- Gant R, Lankford R, Pagnozzi T, Jordan B, Clayton R
+CS -- Bell D
+SF -- Gaetti G
+T -- 2:42
+A -- 18759
+     Game of 7/6/1996 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Smith O, ss           5  1  2  1   Kingery M, cf         5  0  1  0   
+Lankford R, cf        4  3  2  0   Martin A, lf          4  0  2  0   
+Gant R, lf            5  0  1  2   King J, 2b            5  1  1  0   
+Jordan B, rf          2  0  0  0   Merced O, rf          2  1  0  0   
+McGee W, ph-rf        1  0  0  0   Hayes C, 3b           4  2  2  2   
+Mabry J, 1b           5  2  5  2   Johnson M, 1b         4  0  1  0   
+Gaetti G, 3b          4  1  2  1   Bell J, ss            4  1  1  2   
+Pagnozzi T, c         5  0  0  0   Cordova F, p          0  0  0  0   
+Alicea L, 2b          5  1  2  0   Kendall J, c          4  0  0  0   
+Benes A, p            2  1  1  0   Darwin D, p           2  0  1  0   
+Sweeney M, ph         1  0  1  2   Wilkins M, p          0  0  0  0   
+Petkovsek M, p        1  0  1  0   Liriano N, ph         1  0  0  0   
+Clayton R, ph         1  0  0  0   Plesac D, p           0  0  0  0   
+Mathews T, p          0  0  0  0   Garcia C, ss          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  9 17  8                        36  5  9  4
+
+St. Louis        000 222 210 --  9
+Pittsburgh       000 300 020 --  5
+
+  St. Louis            IP  H  R ER BB SO
+Benes A (W)           5.0  5  3  1  2  5
+Petkovsek M           3.0  3  2  2  1  2
+Mathews T             1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Darwin D (L)          6.0 10  6  6  0  5
+Wilkins M             1.0  2  2  1  0  0
+Plesac D              1.0  3  1  1  0  2
+Cordova F             1.0  2  0  0  0  2
+
+E -- Pagnozzi T, Alicea L, Smith O, Martin A
+DP -- St. Louis 2, Pittsburgh 1
+LOB -- St. Louis 9, Pittsburgh 7
+2B -- Hayes C, Lankford R, Gant R, Darwin D, Alicea L
+HR -- Bell J
+SB -- Martin A, Gaetti G
+SH -- Jordan B
+SF -- Gaetti G
+HBP -- by Darwin D (Jordan B), by Wilkins M (Lankford R)
+T -- 3:03
+A -- 19144
+     Game of 7/7/1996 -- St. Louis at Pittsburgh (D)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Clayton R, ss         4  0  1  0   Garcia C, 2b          5  2  3  0   
+Lankford R, cf        3  0  0  0   Martin A, lf          4  2  3  1   
+Mejia M, ph-cf        1  0  0  0   King J, 1b            4  2  2  2   
+Gant R, lf            2  0  0  0   Merced O, rf          4  1  1  1   
+Jordan B, rf          3  0  0  0   Hayes C, 3b           3  1  1  3   
+Sweeney M, ph         1  0  0  0   Wehner J, ph-3b       1  0  0  0   
+Mabry J, 1b           4  0  0  0   Kingery M, cf         4  0  2  1   
+Gaetti G, 3b          3  1  1  0   Bell J, ss            4  0  2  0   
+Parrett J, p          0  0  0  0   Osik K, c             4  0  0  0   
+Eckersley D, p        0  0  0  0   Miceli D, p           1  0  0  0   
+Sheaffer D, c         3  1  1  0   Lieber J, p           2  0  0  0   
+Alicea L, 2b          2  0  1  2   Plesac D, p           0  0  0  0   
+Morgan M, p           1  0  0  0   Clark D, ph           1  0  0  0   
+Mathews T, p          0  0  0  0   Cordova F, p          0  0  0  0   
+Bell D, 3b            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  2  4  2                        37  8 14  8
+
+St. Louis        001 010 000 --  2
+Pittsburgh       300 050 00x --  8
+
+  St. Louis            IP  H  R ER BB SO
+Morgan M (L)          4.1 12  8  8  0  4
+Mathews T             1.2  1  0  0  0  3
+Parrett J             1.0  1  0  0  0  2
+Eckersley D           1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Miceli D              4.0  2  1  1  1  4
+Lieber J (W)          3.0  2  1  1  1  2
+Plesac D              1.0  0  0  0  0  2
+Cordova F             1.0  0  0  0  0  0
+
+DP -- St. Louis 1, Pittsburgh 1
+LOB -- St. Louis 3, Pittsburgh 5
+2B -- Gaetti G, Kingery M, Martin A
+3B -- Garcia C, Sheaffer D, Hayes C, Kingery M
+HR -- King J
+SH -- Morgan M
+SF -- Alicea L
+PB -- Sheaffer D
+T -- 2:06
+A -- 16255
+     Game of 7/18/1996 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Howard T, lf          5  0  1  0   Garcia C, 2b          5  2  2  0   
+Greene W, 3b          4  0  1  0   Martin A, cf-lf       5  1  2  3   
+Larkin B, ss          2  2  1  1   King J, 1b            4  1  1  0   
+Davis E, cf           3  0  0  0   Merced O, rf          4  0  1  2   
+Sanders R, rf         3  1  1  0   Clark D, lf           2  1  1  1   
+Morris H, 1b          4  0  2  2   Plesac D, p           0  0  0  0   
+Boone B, 2b           4  0  1  0   Cordova F, p          0  0  0  0   
+Oliver J, c           3  0  0  0   Hayes C, 3b           4  0  2  1   
+Taubensee E, ph       1  0  0  0   Bell J, ss            3  0  0  0   
+Jarvis K, p           2  0  0  0   Kendall J, c          4  1  1  0   
+Ruffin J, p           0  0  0  0   Lieber J, p           2  1  1  1   
+Shaw J, p             0  0  0  0   Wilkins M, p          0  1  0  0   
+Branson J, ph         1  0  0  0   Wehner J, cf          1  0  0  0   
+Smith L, p            0  0  0  0                                      
+Harris L, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        34  8 11  8
+
+Cincinnati       000 102 000 --  3
+Pittsburgh       010 052 00x --  8
+
+  Cincinnati           IP  H  R ER BB SO
+Jarvis K (L)          4.2  8  6  6  2  2
+Ruffin J              1.0  3  2  2  2  2
+Shaw J                0.1  0  0  0  1  1
+Smith L               2.0  0  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Lieber J (W)          5.1  6  3  3  2  2
+Wilkins M             0.2  0  0  0  0  1
+Plesac D              2.0  1  0  0  1  4
+Cordova F             1.0  0  0  0  0  0
+
+DP -- Pittsburgh 1
+LOB -- Cincinnati 7, Pittsburgh 7
+2B -- Martin A, Hayes C, Lieber J, King J, Morris H, Merced O
+HR -- Larkin B, Martin A
+SB -- Howard T
+CS -- Bell J
+HBP -- by Lieber J (Larkin B)
+T -- 2:38
+A -- 12669
+     Game of 7/19/1996 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Howard T, lf-cf       4  2  1  0   Garcia C, 2b          4  0  0  0   
+Larkin B, ss          4  4  4  1   Martin A, cf          4  1  2  0   
+Carrasco H, p         0  0  0  0   King J, 1b            4  0  0  1   
+Ruffin J, p           0  0  0  0   Merced O, rf          4  0  1  0   
+Morris H, 1b          4  1  2  2   Clark D, lf           4  0  1  0   
+Sanders R, rf         5  1  2  2   Hayes C, 3b           3  1  1  0   
+Greene W, 3b          2  2  0  1   Bell J, ss            4  0  1  0   
+Davis E, cf           4  0  2  1   Encarnacion A, c      4  0  0  0   
+Owens E, lf           1  0  0  0   Wagner P, p           1  0  0  1   
+Taubensee E, c        4  0  0  1   Peters C, p           0  0  0  0   
+Branson J, 2b-ss      5  0  3  2   Liriano N, ph         1  0  0  0   
+Burba D, p            3  1  1  1   Dessens E, p          0  0  0  0   
+Harris L, 2b          1  0  0  0   Kingery M, ph         1  0  1  0   
+                                   Parris S, p           0  0  0  0   
+                                   Johnson M, ph         1  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     37 11 15 11                        35  3  8  3
+
+Cincinnati       014 211 020 -- 11
+Pittsburgh       110 000 001 --  3
+
+  Cincinnati           IP  H  R ER BB SO
+Burba D (W)           7.0  6  2  2  3  1
+Carrasco H            1.0  1  0  0  0  2
+Ruffin J              1.0  1  1  1  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Wagner P (L)          2.1  4  5  5  3  2
+Peters C              2.2  4  3  3  0  2
+Dessens E             2.0  3  1  1  0  0
+Parris S              2.0  4  2  2  0  2
+
+E -- Sanders R, Encarnacion A, Morris H
+DP -- Pittsburgh 1
+LOB -- Cincinnati 7, Pittsburgh 9
+2B -- Martin A, Branson J, Larkin B
+3B -- Branson J
+HR -- Burba D, Johnson M
+SB -- Larkin B, Merced O, Howard T
+SH -- Burba D
+SF -- King J, Taubensee E, Greene W
+HBP -- by Wagner P (Morris H), by Peters C (Howard T)
+T -- 3:00
+A -- 17153
+     Game of 7/20/1996 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Harris L, lf-rf       5  1  1  0   Garcia C, 2b          4  1  1  0   
+Larkin B, ss          4  2  1  0   Martin A, cf          5  0  2  1   
+Morris H, 1b          4  2  2  3   King J, 1b            4  1  1  2   
+Sanders R, rf         4  0  0  0   Merced O, rf          4  0  1  0   
+Anthony E, rf         1  0  0  0   Johnson M, lf         5  0  0  0   
+Owens E, lf           0  0  0  0   Hayes C, 3b           3  0  1  0   
+Greene W, 3b          5  1  1  0   Bell J, ss            4  0  2  0   
+Taubensee E, c        5  2  3  0   Kendall J, c          3  0  0  0   
+Howard T, cf          4  0  2  2   Wilkins M, p          0  0  0  0   
+Branson J, 2b         4  1  2  1   Clark D, ph           1  0  0  0   
+Salkeld R, p          3  0  0  0   Dessens E, p          0  0  0  0   
+Service S, p          0  0  0  0   Miceli D, p           1  0  0  0   
+Brantley J, p         0  0  0  0   Kingery M, ph         1  0  1  0   
+                                   Morel R, p            0  0  0  0   
+                                   Encarnacion A, c      2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  9 12  6                        37  3 10  3
+
+Cincinnati       110 005 110 --  9
+Pittsburgh       001 000 200 --  3
+
+  Cincinnati           IP  H  R ER BB SO
+Salkeld R (W)         6.2  8  3  3  2  5
+Service S             1.1  0  0  0  1  1
+Brantley J            1.0  2  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Miceli D (L)          5.0  5  2  2  2  9
+Morel R               1.2  6  6  4  2  0
+Wilkins M             1.1  1  1  1  0  3
+Dessens E             1.0  0  0  0  0  1
+
+E -- Greene W, Martin A, Kendall J, Johnson M
+LOB -- Cincinnati 8, Pittsburgh 11
+2B -- Taubensee E 2, Martin A, Kingery M, Encarnacion A
+3B -- Howard T
+HR -- King J, Morris H
+SB -- Larkin B
+SF -- Howard T
+WP -- Miceli D 2
+T -- 3:11
+A -- 26378
+     Game of 7/21/1996 -- Cincinnati at Pittsburgh (D)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Owens E, lf           5  0  1  0   Garcia C, 2b          2  1  2  0   
+Morris H, 1b          5  0  1  0   Clark D, pr-lf        2  1  0  0   
+Larkin B, ss          4  0  0  0   Martin A, lf-cf       4  1  1  2   
+Davis E, cf           4  1  1  0   King J, 1b-3b         4  0  2  1   
+Sanders R, rf         4  2  2  1   Merced O, rf          4  0  0  0   
+Boone B, 2b           3  0  0  1   Hayes C, 3b           4  1  1  1   
+Oliver J, c           4  1  1  0   Plesac D, p           0  0  0  0   
+Branson J, 3b         3  0  1  0   Bell J, ss            4  0  0  0   
+Smiley J, p           2  0  1  0   Wehner J, cf-2b       3  0  0  0   
+Sabo C, ph            1  0  0  0   Kendall J, c          3  1  1  0   
+Shaw J, p             0  0  0  0   Neagle D, p           3  1  1  0   
+Howard T, ph          1  0  1  2   Cordova F, p          0  0  0  0   
+                                   Johnson M, 1b         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4  9  4                        33  6  8  4
+
+Cincinnati       000 000 103 --  4
+Pittsburgh       102 100 20x --  6
+
+  Cincinnati           IP  H  R ER BB SO
+Smiley J (L)          7.0  8  6  4  0  6
+Shaw J                1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D (W)          7.2  5  1  1  1  1
+Cordova F             0.2  3  3  3  0  0
+Plesac D (S)          0.2  1  0  0  1  0
+
+E -- Smiley J
+LOB -- Cincinnati 7, Pittsburgh 3
+2B -- Garcia C, Branson J, Davis E
+3B -- King J
+HR -- Martin A, Hayes C, Sanders R
+T -- 2:17
+A -- 23117
+     Game of 7/23/1996 -- Montreal at Pittsburgh (N)
+
+  Montreal           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Grudzielanek M, ss    4  0  2  0   Liriano N, 2b         4  0  1  0   
+Lansing M, 2b         4  0  0  0   Martin A, lf          4  0  0  0   
+Floyd C, lf           4  1  2  0   King J, 1b            3  2  1  0   
+Alou M, rf            3  0  0  1   Merced O, rf          4  0  1  0   
+Fletcher D, c         4  0  0  0   Hayes C, 3b           3  1  1  1   
+Rodriguez H, 1b       2  0  1  0   Bell J, ss            3  1  1  0   
+White R, cf           4  0  1  0   Allensworth J, cf     2  0  0  0   
+Andrews S, 3b         4  0  1  0   Kingery M, ph-cf      2  1  1  4   
+Martinez P, p         1  0  0  0   Kendall J, c          3  0  0  0   
+Benitez Y, ph         1  0  0  0   Lieber J, p           3  0  1  0   
+Daal O, p             0  0  0  0   Plesac D, p           0  0  0  0   
+Santangelo F, ph      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  7  1                        31  5  7  5
+
+Montreal         000 100 000 --  1
+Pittsburgh       000 104 00x --  5
+
+  Montreal             IP  H  R ER BB SO
+Martinez P (L)        6.0  7  5  5  3  6
+Daal O                2.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Lieber J (W)          7.0  6  1  1  2  4
+Plesac D              2.0  1  0  0  0  2
+
+LOB -- Montreal 8, Pittsburgh 5
+2B -- Rodriguez H, White R
+3B -- Floyd C
+HR -- Kingery M
+SB -- Bell J, Floyd C, King J
+SH -- Martinez P
+SF -- Alou M
+T -- 2:19
+A -- 10292
+     Game of 7/24/1996 -- Montreal at Pittsburgh (N)
+
+  Montreal           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Grudzielanek M, ss    5  1  2  0   Allensworth J, cf     5  0  2  2   
+Lansing M, 2b         4  2  1  0   Martin A, lf          4  2  2  1   
+Floyd C, lf           3  1  1  0   King J, 1b-2b         3  1  1  0   
+Alou M, rf            3  0  0  2   Merced O, rf          4  0  1  2   
+White R, cf           4  0  2  2   Hayes C, 3b           4  0  0  0   
+Rodriguez H, 1b       3  0  0  0   Bell J, ss            4  0  0  0   
+Andrews S, 3b         4  0  0  0   Wehner J, 2b          2  0  1  0   
+Spehr T, c            4  0  0  0   Johnson M, ph-1b      1  1  1  0   
+Cormier R, p          3  0  1  0   Encarnacion A, c      4  1  2  0   
+Dyer M, p             0  0  0  0   Peters C, p           1  0  0  0   
+Daal O, p             0  0  0  0   Liriano N, ph         1  0  0  0   
+Scott T, p            0  0  0  0   Wilkins M, p          0  0  0  0   
+Fletcher D, ph        0  0  0  0   Clark D, ph           1  0  0  0   
+Stankiewicz A, pr     0  0  0  0   Ericks J, p           0  0  0  0   
+Rojas M, p            0  0  0  0   Kingery M, ph         1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  4                        35  5 11  5
+
+Montreal         101 020 000 --  4
+Pittsburgh       201 000 101 --  5
+  1 out when winning run was scored.
+
+  Montreal             IP  H  R ER BB SO
+Cormier R             6.0  5  3  3  1  1
+Dyer M                0.1  2  1  1  0  0
+Daal O                0.2  1  0  0  0  2
+Scott T               1.0  1  0  0  0  0
+Rojas M (L)           0.1  2  1  1  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Peters C              5.0  5  4  3  3  1
+Wilkins M             2.0  1  0  0  0  1
+Ericks J (W)          2.0  1  0  0  1  0
+
+E -- Hayes C
+DP -- Pittsburgh 2
+LOB -- Montreal 7, Pittsburgh 7
+2B -- Encarnacion A, Lansing M, Wehner J, Grudzielanek M
+3B -- Merced O
+HR -- Martin A
+SB -- Floyd C, King J
+CS -- Wehner J
+SH -- Floyd C
+WP -- Peters C 2, Rojas M
+T -- 2:46
+A -- 19219
+     Game of 7/25/1996 -- Philadelphia at Pittsburgh (N)
+
+  Philadelphia       AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Otero R, cf           4  0  0  0   Allensworth J, cf     3  1  2  0   
+Morandini M, 2b       4  0  0  0   Martin A, lf          3  1  2  1   
+Jefferies G, 1b       4  1  1  1   King J, 2b            5  2  2  2   
+Zeile T, 3b           3  1  0  0   Merced O, rf          5  1  3  3   
+Eisenreich J, rf      4  1  1  0   Johnson M, 1b         3  0  0  0   
+Santiago B, c         4  1  3  3   Hayes C, 3b           4  0  0  0   
+Incaviglia P, lf      2  0  0  0   Bell J, ss            3  0  0  0   
+Stocker K, ss         2  0  0  0   Kendall J, c          4  1  2  0   
+Springer R, p         2  0  0  0   Miceli D, p           2  0  0  0   
+Borland T, p          0  0  0  0   Liriano N, ph         0  0  0  0   
+Frey S, p             0  0  0  0   May D, p              0  0  0  0   
+Amaro R, ph           1  0  0  0   Wilkins M, p          0  0  0  0   
+Ryan K, p             0  0  0  0   Plesac D, p           1  0  0  0   
+                                   Cordova F, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  4  5  4                        33  6 11  6
+
+Philadelphia     020 101 000 --  4
+Pittsburgh       002 031 00x --  6
+
+  Philadelphia         IP  H  R ER BB SO
+Springer R (L)        4.1  7  5  5  2  3
+Borland T             1.0  1  1  1  2  1
+Frey S                0.2  0  0  0  1  0
+Ryan K                2.0  3  0  0  2  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Miceli D (W)          6.0  4  4  4  2  3
+May D                 0.1  0  0  0  0  0
+Wilkins M             0.1  1  0  0  1  1
+Plesac D              1.1  0  0  0  0  0
+Cordova F (S)         1.0  0  0  0  0  0
+
+DP -- Philadelphia 2
+LOB -- Philadelphia 2, Pittsburgh 10
+2B -- Eisenreich J, King J, Merced O, Santiago B
+HR -- Santiago B, Merced O, Jefferies G
+SB -- Allensworth J, Merced O
+CS -- Stocker K
+WP -- Miceli D
+T -- 2:48
+A -- 12163
+     Game of 7/26/1996 -- Philadelphia at Pittsburgh (N)
+
+  Philadelphia       AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Otero R, cf           5  0  1  2   Allensworth J, cf     3  0  1  1   
+Morandini M, 2b       5  0  2  0   Martin A, lf          5  0  0  0   
+Jefferies G, 1b       5  0  2  0   King J, 2b-1b         3  1  1  0   
+Zeile T, 3b           4  0  0  0   Merced O, rf          4  1  1  2   
+Santiago B, c         3  2  2  1   Johnson M, 1b         3  0  0  0   
+Incaviglia P, lf      4  0  1  0   Wehner J, pr-2b       0  1  0  0   
+Martinez M, rf        4  1  3  0   Hayes C, 3b           3  2  1  0   
+Stocker K, ss         3  1  1  1   Bell J, ss            1  1  1  1   
+Schilling C, p        2  0  1  0   Kendall J, c          3  1  1  2   
+Lieberthal M, ph      1  0  0  0   Neagle D, p           3  0  1  1   
+Bottalico R, p        0  0  0  0   Ericks J, p           0  0  0  0   
+                                   Kingery M, ph         1  0  0  0   
+                                   Plesac D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4 13  4                        29  7  7  7
+
+Philadelphia     000 021 010 --  4
+Pittsburgh       200 011 03x --  7
+
+  Philadelphia         IP  H  R ER BB SO
+Schilling C           7.0  5  4  4  6  3
+Bottalico R (L)       1.0  2  3  3  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D              7.0 11  3  3  1  2
+Ericks J (W)          1.0  2  1  1  1  1
+Plesac D (S)          1.0  0  0  0  0  1
+
+DP -- Philadelphia 1, Pittsburgh 2
+LOB -- Philadelphia 8, Pittsburgh 7
+2B -- Morandini M, Santiago B, Bell J, Kendall J, Allensworth J
+HR -- Merced O, Santiago B
+CS -- Jefferies G
+SH -- Schilling C, Hayes C, Bell J
+T -- 2:34
+A -- 17239
+     Game of 7/27/1996 -- Philadelphia at Pittsburgh (N)
+
+  Philadelphia       AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Otero R, cf           5  1  1  0   Allensworth J, cf     4  1  0  0   
+Morandini M, 2b       5  0  3  0   Wehner J, 2b          4  0  2  0   
+Jefferies G, 1b       3  1  0  0   King J, 1b            3  0  0  0   
+Zeile T, 3b           4  0  2  1   Merced O, rf          4  0  0  1   
+Eisenreich J, lf      4  0  2  1   Hayes C, 3b           4  0  0  0   
+Santiago B, c         4  0  1  0   Clark D, lf           4  0  1  0   
+Martinez M, rf        3  0  0  0   Bell J, ss            4  0  0  0   
+Stocker K, ss         4  0  0  0   Kendall J, c          3  0  1  0   
+Mulholland T, p       4  0  0  0   Parris S, p           1  0  0  0   
+                                   Dessens E, p          0  0  0  0   
+                                   May D, p              0  0  0  0   
+                                   Morel R, p            0  0  0  0   
+                                   Liriano N, ph         1  0  1  0   
+                                   Wilkins M, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  2  9  2                        32  1  5  1
+
+Philadelphia     101 000 000 --  2
+Pittsburgh       001 000 000 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Mulholland T (W)      9.0  5  1  1  2  5
+
+  Pittsburgh           IP  H  R ER BB SO
+Parris S (L)          4.2  6  2  2  2  5
+Dessens E             1.1  1  0  0  0  0
+May D                 0.2  2  0  0  1  1
+Morel R               0.1  0  0  0  0  0
+Wilkins M             2.0  0  0  0  1  3
+
+E -- Santiago B, Parris S
+DP -- Philadelphia 1
+LOB -- Philadelphia 11, Pittsburgh 6
+2B -- Santiago B
+SB -- Martinez M
+T -- 2:38
+A -- 23121
+     Game of 7/28/1996 -- Philadelphia at Pittsburgh (N)
+
+  Philadelphia       AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Otero R, cf           5  1  1  1   Allensworth J, cf     4  0  1  1   
+Morandini M, 2b       4  1  0  0   Martin A, lf          5  2  4  3   
+Jefferies G, 1b       4  2  2  4   King J, 2b            5  0  0  0   
+Zeile T, 3b           4  1  2  2   Merced O, rf          5  4  3  4   
+Eisenreich J, rf      3  0  1  0   Johnson M, 1b         5  2  4  0   
+Santiago B, c         4  0  1  0   Hayes C, 3b           5  1  1  2   
+Incaviglia P, lf      3  1  0  0   Bell J, ss            4  1  2  1   
+Stocker K, ss         4  1  2  0   Kendall J, c          4  1  1  1   
+Munoz B, p            0  0  0  0   Lieber J, p           0  0  0  0   
+Amaro R, ph           1  1  1  1   May D, p              0  0  0  0   
+Mimbs M, p            0  0  0  0   Wehner J, ph          1  1  1  0   
+Borland T, p          1  0  0  0   Dessens E, p          1  0  0  0   
+Frey S, p             0  0  0  0   Ericks J, p           0  0  0  0   
+Martinez M, ph        1  0  0  0   Liriano N, ph         1  0  0  0   
+Blazier R, p          0  0  0  0   Cordova F, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  8 10  8                        40 12 17 12
+
+Philadelphia     000 800 000 --  8
+Pittsburgh       203 300 40x -- 12
+
+  Philadelphia         IP  H  R ER BB SO
+Munoz B               3.0  8  5  5  1  0
+Mimbs M               0.2  4  3  3  0  0
+Borland T (L)         2.2  4  4  1  0  1
+Frey S                0.2  1  0  0  1  1
+Blazier R             1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Lieber J              3.2  7  6  6  1  3
+May D                 0.1  2  2  2  0  0
+Dessens E             2.0  1  0  0  0  1
+Ericks J (W)          1.0  0  0  0  2  1
+Cordova F             2.0  0  0  0  0  2
+
+E -- Zeile T
+DP -- Philadelphia 1, Pittsburgh 2
+LOB -- Philadelphia 4, Pittsburgh 6
+2B -- Hayes C, Zeile T, Martin A
+HR -- Merced O 2, Zeile T, Jefferies G
+SB -- Martin A 2, Eisenreich J, Jefferies G
+CS -- Bell J
+SH -- Munoz B
+HBP -- by May D (Morandini M)
+T -- 3:00
+A -- 15189
+     Game of 8/6/1996 -- Los Angeles at Pittsburgh (N)
+
+  Los Angeles        AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Curtis C, cf          2  1  1  0   Allensworth J, cf     5  0  0  0   
+DeShields D, 2b       4  1  2  0   Martin A, lf          4  0  1  0   
+Piazza M, c           4  1  1  2   King J, 2b            4  0  2  0   
+Karros E, 1b          4  0  1  1   Johnson M, 1b         4  0  0  0   
+Hollandsworth T, lf   4  0  1  0   Liriano N, ss         4  0  3  0   
+Mondesi R, rf         4  0  0  0   Wehner J, 3b          4  1  1  0   
+Hansen D, 3b          3  0  2  0   Beamon T, rf          4  0  0  0   
+Castro J, pr-3b       1  0  0  0   Kendall J, c          4  0  3  1   
+Gagne G, ss           3  0  0  0   Parris S, p           1  0  0  0   
+Astacio P, p          2  0  0  0   Wainhouse D, p        0  0  0  0   
+Worrell T, p          0  0  0  0   Kingery M, ph         1  0  0  0   
+                                   Morel R, p            0  0  0  0   
+                                   Clark D, ph           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  8  3                        35  1 10  1
+
+Los Angeles      000 201 000 --  3
+Pittsburgh       000 000 001 --  1
+
+  Los Angeles          IP  H  R ER BB SO
+Astacio P (W)         8.2 10  1  1  0  5
+Worrell T (S)         0.1  0  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Parris S (L)          6.2  7  3  3  3  5
+Wainhouse D           0.1  0  0  0  0  1
+Morel R               2.0  1  0  0  0  1
+
+DP -- Los Angeles 1, Pittsburgh 2
+LOB -- Los Angeles 5, Pittsburgh 9
+2B -- Liriano N, Hansen D, Kendall J 2
+HR -- Piazza M
+SB -- DeShields D
+CS -- Hollandsworth T
+SH -- Parris S, Astacio P
+WP -- Parris S
+T -- 2:26
+A -- 11824
+     Game of 8/7/1996 -- Los Angeles at Pittsburgh (N)
+
+  Los Angeles        AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Curtis C, cf          4  1  2  0   Liriano N, ss         4  1  2  3   
+Kirby W, lf           4  0  0  0   Wilkins M, p          1  0  0  0   
+Piazza M, c           3  0  1  1   Martin A, lf          5  1  1  0   
+Prince T, ph-c        1  0  1  0   King J, 2b            4  2  2  2   
+Karros E, 1b          4  0  0  0   Johnson M, 1b         4  1  1  2   
+Hollandsworth T, rf   4  0  0  0   Clark D, rf           5  1  1  2   
+DeShields D, 2b       4  0  1  0   Hayes C, 3b           4  1  2  0   
+Castro J, 2b          0  0  0  0   Kingery M, cf         4  2  3  0   
+Busch M, 3b           4  1  2  1   Kendall J, c          3  2  2  2   
+Gagne G, ss           4  0  3  0   Lieber J, p           2  0  0  0   
+Martinez R, p         1  0  0  0   Beamon T, ph          0  0  0  0   
+Park C, p             0  0  0  0   Wehner J, ph          1  1  0  0   
+Radinsky S, p         0  0  0  0   Bell J, ss            1  0  1  1   
+Parker R, ph          1  0  0  0                                      
+Bruske J, p           0  0  0  0                                      
+Dreifort D, p         0  0  0  0                                      
+Ashley B, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  2 10  2                        38 12 15 12
+
+Los Angeles      110 000 000 --  2
+Pittsburgh       300 013 50x -- 12
+
+  Los Angeles          IP  H  R ER BB SO
+Martinez R (L)        5.0  6  4  4  1  4
+Park C                0.1  2  3  3  1  0
+Radinsky S            0.2  1  0  0  0  0
+Bruske J              1.0  6  5  5  0  2
+Dreifort D            1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Lieber J (W)          6.0  6  2  2  1  4
+Wilkins M (S)         3.0  4  0  0  0  1
+
+E -- Kirby W
+DP -- Pittsburgh 1
+LOB -- Los Angeles 8, Pittsburgh 5
+2B -- Curtis C, Liriano N, Martin A, Kendall J
+3B -- Liriano N
+HR -- Johnson M, Busch M, Clark D
+SB -- Gagne G, Kendall J, Johnson M, Martin A
+SH -- Martinez R
+SF -- King J
+T -- 2:47
+A -- 12232
+     Game of 8/8/1996 -- San Diego at Pittsburgh (N)
+
+  San Diego          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Finley S, cf          6  2  2  0   Liriano N, ss         4  0  0  0   
+Gwynn T, rf           3  0  1  0   Martin A, lf          4  0  1  0   
+Henderson R, rf-lf    2  2  1  1   King J, 2b            4  0  0  0   
+Caminiti K, 3b        5  3  3  1   Johnson M, 1b         3  1  1  0   
+Livingstone S, 3b     0  0  0  0   Clark D, rf           4  1  1  1   
+Vaughn G, lf          4  1  1  1   Hayes C, 3b           4  0  0  0   
+Bergman S, p          0  0  0  0   Kingery M, cf         3  0  1  1   
+Cianfrocco A, 1b      6  1  3  3   Kendall J, c          4  1  1  0   
+Johnson B, c          5  2  3  1   Peters C, p           1  0  0  0   
+Gomez C, ss           4  0  2  0   Morel R, p            0  0  0  0   
+Reed J, 2b            5  0  1  1   Beamon T, ph          1  0  0  0   
+Sanders S, p          2  0  1  1   Wainhouse D, p        0  0  0  0   
+Veras D, p            0  0  0  0   Wehner J, ph          1  0  1  1   
+Dascenzo D, ph-rf     1  1  1  0   Ruebel M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     43 12 19  9                        33  3  6  3
+
+San Diego        021 122 013 -- 12
+Pittsburgh       010 100 100 --  3
+
+  San Diego            IP  H  R ER BB SO
+Sanders S (W)         7.0  6  3  3  2  7
+Veras D               1.0  0  0  0  0  2
+Bergman S             1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Peters C (L)*         4.0 10  5  5  0  3
+Morel R               1.0  1  1  1  2  1
+Wainhouse D           2.0  4  2  2  1  1
+Ruebel M              2.0  4  4  1  2  3
+  * Pitched to 1 batter in 5th
+
+E -- Liriano N
+DP -- Pittsburgh 1
+LOB -- San Diego 11, Pittsburgh 5
+2B -- Johnson B, Kingery M, Johnson M, Wehner J, Caminiti K, Henderson R
+3B -- Cianfrocco A
+HR -- Clark D, Caminiti K
+SB -- Finley S 2, Caminiti K
+SH -- Sanders S 2
+WP -- Peters C, Ruebel M
+PB -- Kendall J 2
+T -- 2:50
+A -- 8388
+     Game of 8/9/1996 -- San Diego at Pittsburgh (N)
+
+  San Diego          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Finley S, cf          5  0  0  0   Allensworth J, cf     4  1  2  1   
+Gwynn T, rf           4  1  2  0   Martin A, lf          2  0  0  0   
+Henderson R, pr-rf    1  0  0  0   Wehner J, 2b          3  0  0  0   
+Caminiti K, 3b        3  0  1  1   Johnson M, ph-1b      0  0  0  0   
+Vaughn G, lf          3  1  1  1   King J, 1b-2b         3  0  1  0   
+Joyner W, 1b          3  1  1  0   Hayes C, 3b           4  0  0  0   
+Flaherty J, c         4  0  0  0   Bell J, ss            4  0  0  0   
+Shipley C, 2b         4  0  1  0   Beamon T, rf          2  0  0  0   
+Hoffman T, p          0  0  0  0   Cordova F, p          0  0  0  0   
+Gomez C, ss           4  1  1  1   Clark D, ph           1  0  0  0   
+Valenzuela F, p       3  0  2  1   Encarnacion A, c      3  0  0  0   
+Bochtler D, p         0  0  0  0   Miceli D, p           1  0  0  0   
+Reed J, 2b            1  0  0  0   Liriano N, ph         1  0  0  0   
+                                   Ericks J, p           0  0  0  0   
+                                   Kingery M, rf         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        29  1  3  1
+
+San Diego        100 300 000 --  4
+Pittsburgh       001 000 000 --  1
+
+  San Diego            IP  H  R ER BB SO
+Valenzuela F (W)      7.2  3  1  1  4  5
+Bochtler D*           0.0  0  0  0  1  0
+Hoffman T (S)         1.1  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Miceli D (L)          5.0  7  4  4  2  3
+Ericks J              2.0  2  0  0  1  1
+Cordova F             2.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+DP -- San Diego 1
+LOB -- San Diego 7, Pittsburgh 6
+2B -- King J, Gomez C, Valenzuela F, Gwynn T
+3B -- Caminiti K
+HR -- Allensworth J, Vaughn G
+SB -- Shipley C, Martin A 2
+CS -- Caminiti K
+WP -- Bochtler D
+T -- 2:40
+A -- 30066
+     Game of 8/10/1996 -- San Diego at Pittsburgh (N)
+
+  San Diego          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Henderson R, rf       5  1  4  0   Allensworth J, cf     3  0  0  0   
+Dascenzo D, cf        3  0  0  0   Liriano N, ph         1  0  1  0   
+Cianfrocco A, ph      1  0  1  1   Martin A, lf          5  0  0  0   
+Finley S, pr-cf       1  1  1  1   King J, 2b            5  1  1  0   
+Caminiti K, 3b        3  0  0  0   Johnson M, 1b         3  1  2  1   
+Vaughn G, lf          4  1  1  2   Clark D, rf           3  0  0  0   
+Joyner W, 1b          5  1  1  0   Plesac D, p           0  0  0  0   
+Flaherty J, c         4  0  1  0   Wilkins M, p          0  0  0  0   
+Gomez C, ss           3  0  1  1   Hayes C, 3b           4  0  1  0   
+Reed J, 2b            3  0  0  0   Bell J, ss            3  0  1  1   
+Veras D, p            0  0  0  0   Kendall J, c          4  0  2  0   
+Livingstone S, ph     1  0  0  0   Neagle D, p           2  0  1  0   
+Hermanson D, p        0  0  0  0   Kingery M, rf         1  0  0  0   
+Tewksbury B, p        2  0  0  0                                      
+Shipley C, 2b         2  2  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6 12  5                        34  2  9  2
+
+San Diego        000 020 022 --  6
+Pittsburgh       000 002 000 --  2
+
+  San Diego            IP  H  R ER BB SO
+Tewksbury B*          6.0  8  2  2  1  4
+Veras D (W)           2.0  0  0  0  1  3
+Hermanson D           1.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D              7.0  6  2  2  1  3
+Plesac D (L)+         0.0  3  2  1  1  0
+Wilkins M             2.0  3  2  2  2  2
+  * Pitched to 1 batter in 7th
+  + Pitched to 4 batters in 8th
+
+E -- Caminiti K, Kendall J
+DP -- San Diego 1, Pittsburgh 1
+LOB -- San Diego 8, Pittsburgh 10
+2B -- King J, Flaherty J, Finley S
+HR -- Vaughn G
+SB -- Johnson M, Joyner W, Allensworth J, Finley S
+CS -- Henderson R
+SH -- Neagle D
+SF -- Bell J
+HBP -- by Tewksbury B (Allensworth J)
+WP -- Tewksbury B
+Balk -- Tewksbury B
+T -- 2:48
+A -- 21902
+     Game of 8/11/1996 -- San Diego at Pittsburgh (D)
+
+  San Diego          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Finley S, cf          5  3  3  0   Allensworth J, cf     5  0  1  0   
+Gwynn T, rf           4  0  2  2   Beamon T, ph          1  0  0  0   
+Dascenzo D, pr-rf     1  0  0  0   Liriano N, 2b         6  0  1  0   
+Joyner W, 1b          4  1  1  2   Johnson M, 1b         4  0  1  0   
+Vaughn G, lf          2  2  1  0   Cordova F, p          0  0  0  0   
+Livingstone S, 3b     3  0  1  1   Clark D, rf           3  2  2  0   
+Bergman S, p          0  0  0  0   Kingery M, lf         3  1  2  1   
+Henderson R, ph       1  0  0  0   Ericks J, p           0  0  0  0   
+Blair W, p            0  0  0  0   King J, 1b            1  1  0  0   
+Cianfrocco A, ph      1  0  0  0   Bell J, ss            5  1  2  2   
+Bochtler D, p         0  0  0  0   Kendall J, c          5  0  2  1   
+Hoffman T, p          0  0  0  0   Wehner J, 3b          4  0  2  0   
+Shipley C, 2b         5  0  1  2   Hayes C, ph           1  0  0  1   
+Johnson B, c          4  0  0  0   Parris S, p           2  0  0  0   
+Gomez C, ss           4  0  1  0   Ruebel M, p           0  0  0  0   
+Worrell T, p          2  0  0  0   Martin A, lf          1  0  1  0   
+Caminiti K, 3b        2  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  7 10  7                        41  5 14  5
+
+San Diego        100 110 400 --  7
+Pittsburgh       003 000 002 --  5
+
+  San Diego            IP  H  R ER BB SO
+Worrell T*            5.0 12  3  3  2  3
+Bergman S (W)         1.0  0  0  0  1  1
+Blair W               2.0  1  0  0  0  2
+Bochtler D+           0.0  0  2  1  1  0
+Hoffman T (S)         1.0  1  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Parris S (L)          6.1  7  4  3  1  5
+Ruebel M#             0.0  1  3  0  0  0
+Ericks J              1.2  1  0  0  1  0
+Cordova F             1.0  1  0  0  1  0
+  * Pitched to 2 batters in 6th
+  + Pitched to 2 batters in 9th
+  # Pitched to 3 batters in 7th
+
+E -- Liriano N 2, Caminiti K 2
+DP -- San Diego 1, Pittsburgh 1
+LOB -- San Diego 8, Pittsburgh 15
+2B -- Gwynn T, Kingery M, Kendall J, Vaughn G, Johnson M, Joyner W, Bell J
+SH -- Parris S
+SF -- Joyner W
+WP -- Bergman S
+T -- 3:11
+A -- 27227
+     Game of 8/13/1996 -- San Francisco at Pittsburgh (N)
+
+  San Francisco      AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Benard M, cf          3  1  0  0   Allensworth J, cf     5  2  2  5   
+McCarty D, ph-lf      2  0  0  0   Martin A, lf          4  0  1  0   
+Jones D, cf           0  0  0  0   King J, 2b            5  0  1  2   
+Mueller B, 3b         5  1  3  2   Johnson M, 1b         4  0  0  0   
+Hill G, rf            6  3  3  0   Kingery M, rf         4  0  0  0   
+Bonds B, lf-cf-lf     3  1  1  1   Cordova F, p          0  0  0  0   
+Lampkin T, c          5  2  3  3   Liriano N, ph         0  1  0  0   
+Aurilia R, ss         6  1  1  0   Hayes C, 3b           5  1  2  0   
+Wilson D, 1b          4  1  1  0   Bell J, ss            5  2  1  2   
+Canizaro J, 2b        3  0  1  0   Kendall J, c          4  2  1  0   
+Wilkins R, ph         1  1  1  4   Lieber J, p           2  1  1  0   
+Scarsone S, 2b        0  0  0  0   Ruebel M, p           0  0  0  0   
+Gardner M, p          2  0  1  1   Wehner J, ph          1  1  1  1   
+Bautista J, p         0  0  0  0   Wilkins M, p          0  0  0  0   
+Decker S, ph          1  1  1  0   Plesac D, p           0  0  0  0   
+Creek D, p            0  0  0  0   Clark D, rf           0  0  0  0   
+Batiste K, ph         0  0  0  1                                      
+Dewey M, p            1  0  0  0                                      
+Poole J, p            0  0  0  0                                      
+Beck R, p             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42 12 16 12                        39 10 10 10
+
+San Francisco    000 112 161 -- 12
+Pittsburgh       002 402 002 -- 10
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M             3.2  7  6  5  1  1
+Bautista J            1.1  0  0  0  0  0
+Creek D               1.0  2  2  2  0  2
+Dewey M (W)           1.2  0  0  0  1  2
+Poole J*              0.0  0  0  0  1  0
+Beck R (S)            1.1  1  2  2  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Lieber J              5.2  8  4  1  5  1
+Ruebel M              0.1  0  0  0  0  1
+Wilkins M             0.2  3  1  1  0  0
+Plesac D (L)+         0.1  2  4  4  2  0
+Cordova F             2.0  3  3  3  2  2
+  * Pitched to 1 batter in 8th
+  + Pitched to 4 batters in 8th
+
+E -- Canizaro J 2, King J, Hayes C
+LOB -- San Francisco 13, Pittsburgh 7
+2B -- Hayes C, Hill G, Lampkin T, Bonds B
+HR -- Allensworth J 2, Wehner J, Wilkins R, Bell J
+CS -- Benard M, Lampkin T
+SF -- Batiste K
+HBP -- by Gardner M (Kendall J)
+WP -- Beck R
+PB -- Kendall J
+T -- 3:35
+A -- 11378
+     Game of 8/14/1996 -- San Francisco at Pittsburgh (N)
+
+  San Francisco      AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Jones D, cf           4  1  2  1   Allensworth J, cf     4  0  1  0   
+Aurilia R, ss         4  0  1  1   Martin A, lf          4  0  0  0   
+Bonds B, lf           3  0  0  0   King J, 1b-2b         2  0  0  0   
+Hill G, rf            4  0  1  0   Hayes C, 3b           5  1  2  0   
+McCarty D, 1b         3  0  0  0   Clark D, rf           4  0  0  0   
+Wilkins R, ph-1b      1  0  0  0   Bell J, ss            3  1  2  1   
+Batiste K, 3b         4  1  1  0   Wehner J, 2b          3  1  2  1   
+Scarsone S, 2b        2  0  0  0   Ericks J, p           0  0  0  0   
+Mueller B, ph         1  0  0  0   Osik K, c             4  1  2  1   
+Decker S, c           3  1  1  1   Peters C, p           2  0  1  1   
+Wilson D, ph          1  0  0  0   Johnson M, 1b         0  0  0  0   
+Estes S, p            1  0  0  0                                      
+Lampkin T, ph         1  0  0  0                                      
+Dewey M, p            0  0  0  0                                      
+Scott T, p            0  0  0  0                                      
+Poole J, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        31  4 10  4
+
+San Francisco    000 020 010 --  3
+Pittsburgh       010 210 00x --  4
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (L)           6.0  9  4  4  3  2
+Dewey M               1.0  1  0  0  2  1
+Scott T               0.2  0  0  0  2  0
+Poole J               0.1  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Peters C (W)          7.1  6  3  3  2  4
+Ericks J (S)          1.2  0  0  0  0  3
+
+DP -- San Francisco 1
+LOB -- San Francisco 5, Pittsburgh 13
+2B -- Hill G, Osik K, Batiste K, Aurilia R
+3B -- Jones D
+SB -- Hayes C 2, Bell J
+CS -- Clark D
+SH -- Estes S, Peters C, Allensworth J
+HBP -- by Scott T (Johnson M)
+T -- 2:44
+A -- 20340
+     Game of 8/27/1996 -- Atlanta at Pittsburgh (N)
+
+  Atlanta            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Grissom M, cf         4  0  2  0   Allensworth J, cf     3  0  0  1   
+Jones A, rf           3  1  2  1   Martin A, lf          4  1  3  1   
+Jones C, ss           4  0  0  0   King J, 2b            4  0  1  0   
+McGriff F, 1b         4  0  0  0   Clark D, rf           4  0  0  0   
+Pendleton T, 3b       4  0  0  0   Johnson M, 1b         3  0  1  0   
+Dye J, lf             4  1  1  1   Hayes C, 3b           3  0  0  0   
+Lopez J, c            3  0  0  0   Garcia C, ss          3  1  1  0   
+Lemke M, 2b           3  0  0  0   Bell J, ss            0  0  0  0   
+Smoltz J, p           2  0  1  0   Kendall J, c          3  1  1  0   
+Mordecai M, ph        1  0  0  0   Neagle D, p           1  0  0  0   
+Hartgraves D, p       0  0  0  0   Plesac D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        28  3  7  2
+
+Atlanta          011 000 000 --  2
+Pittsburgh       000 120 00x --  3
+
+  Atlanta              IP  H  R ER BB SO
+Smoltz J (L)          7.0  7  3  3  0  6
+Hartgraves D          1.0  0  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D (W)          8.0  6  2  2  1  6
+Plesac D (S)          1.0  0  0  0  0  1
+
+E -- Smoltz J, Dye J, Pendleton T
+DP -- Atlanta 1
+LOB -- Atlanta 4, Pittsburgh 4
+2B -- Jones A, Martin A, Johnson M
+HR -- Dye J, Jones A
+SB -- Martin A
+CS -- Martin A, Grissom M
+SH -- Neagle D 2, Allensworth J
+T -- 2:11
+A -- 14603
+     Game of 8/28/1996 -- Atlanta at Pittsburgh (N)
+
+  Atlanta            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Grissom M, cf         1  1  0  0   Allensworth J, cf     3  1  0  0   
+Jones A, cf           3  1  2  0   Wainhouse D, p        0  0  0  0   
+Pendleton T, 3b       5  1  2  4   Osik K, ph            0  0  0  0   
+Jones C, ss           3  1  1  0   Garcia C, 2b          5  0  0  0   
+McGriff F, 1b         4  1  2  1   King J, 1b            4  0  1  0   
+Klesko R, lf          5  2  2  3   Hayes C, 3b           3  0  1  1   
+Smith D, rf           4  0  0  0   Bell J, ss            4  0  0  0   
+Clontz B, p           0  0  0  0   Clark D, rf           4  1  1  1   
+Borowski J, p         0  0  0  0   Kendall J, c          4  0  1  0   
+Polonia L, ph         1  0  0  0   Wehner J, lf          3  1  1  0   
+Hartgraves D, p       0  0  0  0   Loaiza E, p           0  0  0  0   
+Wohlers M, p          0  0  0  0   Ruebel M, p           0  0  0  0   
+Perez E, c            4  1  1  0   Liriano N, ph         1  0  0  0   
+Lemke M, 2b           4  1  2  0   Morel R, p            0  0  0  0   
+Wade T, p             3  0  0  0   Kingery M, ph-cf      1  1  1  2   
+McMichael G, p        0  0  0  0                                      
+Dye J, rf             1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  9 13  8                        32  4  6  4
+
+Atlanta          330 002 100 --  9
+Pittsburgh       100 100 200 --  4
+
+  Atlanta              IP  H  R ER BB SO
+Wade T (W)            5.1  5  2  2  2  5
+McMichael G           0.2  0  0  0  0  1
+Clontz B              1.0  1  2  2  1  0
+Borowski J            1.0  0  0  0  0  1
+Hartgraves D          0.2  0  0  0  2  0
+Wohlers M             0.1  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Loaiza E (L)          1.1  5  6  6  2  1
+Ruebel M              3.2  1  0  0  2  2
+Morel R               2.0  5  3  3  0  1
+Wainhouse D           2.0  2  0  0  0  3
+
+E -- Allensworth J
+DP -- Pittsburgh 1
+LOB -- Atlanta 6, Pittsburgh 7
+2B -- Pendleton T, Lemke M, Jones A, Dye J
+3B -- King J
+HR -- Klesko R 2, Clark D, Kingery M
+SH -- Ruebel M
+T -- 2:28
+A -- 14591
+     Game of 8/29/1996 -- Atlanta at Pittsburgh (D)
+
+  Atlanta            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Jones A, cf           5  0  0  0   Allensworth J, cf     4  0  0  0   
+Pendleton T, 3b       4  0  1  1   Martin A, lf          4  1  2  0   
+McMichael G, p        0  0  0  0   King J, 1b            4  0  1  0   
+Borowski J, p         0  0  0  0   Hayes C, 3b           4  0  1  0   
+Wohlers M, p          0  0  0  0   Liriano N, 2b         3  0  0  0   
+Jones C, ss-3b        4  1  1  2   Kingery M, rf         3  0  0  0   
+McGriff F, 1b         4  1  1  0   Plesac D, p           0  0  0  0   
+Klesko R, lf          4  0  2  0   Miceli D, p           0  0  0  0   
+Dye J, rf             4  1  2  2   Kendall J, ph         1  0  1  1   
+Perez E, c            2  0  0  0   Bell J, ss            4  0  0  0   
+Lopez J, c            2  0  0  0   Osik K, c             3  0  1  0   
+Lemke M, 2b           3  1  0  0   Lieber J, p           2  0  0  0   
+Maddux G, p           1  0  1  0   Clark D, rf           1  0  1  0   
+Polonia L, ph         1  1  1  0                                      
+Belliard R, ss        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  5                        33  1  7  1
+
+Atlanta          001 000 130 --  5
+Pittsburgh       000 000 001 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)          7.0  4  0  0  0  3
+McMichael G           1.0  1  0  0  0  1
+Borowski J            0.2  2  1  1  1  1
+Wohlers M (S)         0.1  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Lieber J (L)          7.2  7  5  5  1  1
+Plesac D              0.1  2  0  0  0  0
+Miceli D              1.0  0  0  0  0  0
+
+DP -- Atlanta 1
+LOB -- Atlanta 5, Pittsburgh 6
+HR -- Dye J, Jones C
+SH -- Maddux G
+PB -- Lopez J
+T -- 2:12
+A -- 12101
+     Game of 8/30/1996 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hunter B, cf          6  2  2  0   Allensworth J, cf     4  0  1  0   
+Biggio C, 2b          4  3  3  0   Martin A, lf          4  0  0  0   
+Spiers B, ph-2b       0  0  0  0   King J, 1b            4  0  1  0   
+Bagwell J, 1b         5  3  4  2   Clark D, rf           4  0  1  0   
+Simms M, ph-1b        1  0  0  0   Liriano N, 3b         4  0  0  0   
+Bell D, rf            4  1  2  1   Garcia C, 2b          4  0  1  0   
+Berry S, 3b           4  0  3  6   Bell J, ss            4  0  2  0   
+Gutierrez R, ss       1  0  0  0   Kendall J, c          3  0  1  0   
+Eusebio T, c          5  0  1  0   Peters C, p           1  0  0  0   
+Mouton J, lf          5  0  0  0   Wainhouse D, p        0  0  0  0   
+Miller O, ss-3b       4  0  0  1   Kingery M, ph         1  0  0  0   
+Wall D, p             5  1  2  0   Morel R, p            0  0  0  0   
+                                   Miceli D, p           0  0  0  0   
+                                   Johnson M, ph         1  0  0  0   
+                                   Ruebel M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     44 10 17 10                        34  0  7  0
+
+Houston          102 015 100 -- 10
+Pittsburgh       000 000 000 --  0
+
+  Houston              IP  H  R ER BB SO
+Wall D (W)            9.0  7  0  0  0  4
+
+  Pittsburgh           IP  H  R ER BB SO
+Peters C (L)          4.1  8  4  4  2  2
+Wainhouse D           0.2  0  0  0  0  1
+Morel R               0.1  5  5  5  1  1
+Miceli D              1.2  3  1  1  2  1
+Ruebel M              2.0  1  0  0  1  0
+
+LOB -- Houston 14, Pittsburgh 7
+2B -- Kendall J, Bagwell J 2, Clark D
+SB -- Berry S 2, Bell D
+HBP -- by Miceli D (Miller O)
+T -- 2:44
+A -- 24619
+     Game of 8/31/1996 -- Houston at Pittsburgh (D)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hunter B, cf          5  0  2  0   Allensworth J, cf     5  1  3  2   
+Biggio C, 2b          4  0  1  0   Martin A, lf          5  1  3  0   
+Bagwell J, 1b         3  2  1  0   Garcia C, 2b          4  0  1  1   
+Bell D, rf            4  2  1  1   King J, 1b-3b         2  0  0  0   
+Spiers B, 3b          3  0  1  0   Kendall J, c          5  1  1  1   
+Mouton J, lf          4  1  1  0   Bell J, ss            3  0  1  0   
+Miller O, ss          2  0  0  0   Kingery M, rf         3  0  1  0   
+Brocail D, p          0  0  0  0   Wilkins M, p          0  0  0  0   
+Olson G, p            0  0  0  0   Johnson M, ph-1b      2  0  0  0   
+Berry S, ph           1  0  1  2   Wehner J, 3b          4  0  0  0   
+Hernandez X, p        0  0  0  0   Ericks J, p           0  0  0  0   
+May D, ph             0  0  0  0   Liriano N, ph         1  0  0  0   
+Kile D, pr            0  0  0  0   Cordova F, p          2  0  0  0   
+Hudek J, p            0  0  0  0   Clark D, rf           2  1  1  0   
+Manwaring K, c        3  0  0  0                                      
+Eusebio T, ph-c       1  0  1  2                                      
+Hampton M, p          1  0  0  0                                      
+Gutierrez R, ss       3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  5  9  5                        38  4 11  4
+
+Houston          000 000 203 --  5
+Pittsburgh       001 001 011 --  4
+
+  Houston              IP  H  R ER BB SO
+Hampton M             4.0  5  1  1  2  0
+Brocail D             1.2  3  1  1  2  1
+Olson G               0.1  0  0  0  1  0
+Hernandez X (W)       2.0  2  1  1  0  4
+Hudek J (S)           1.0  1  1  1  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Cordova F             5.0  1  0  0  0  8
+Wilkins M             2.0  3  2  2  2  0
+Ericks J (L)          2.0  5  3  3  1  2
+
+E -- Hunter B
+LOB -- Houston 5, Pittsburgh 13
+2B -- Martin A 2, Bell J, Hunter B, Bagwell J, Bell D
+HR -- Allensworth J, Kendall J
+SB -- Spiers B, Martin A, Clark D, Mouton J
+CS -- Hunter B
+HBP -- by Brocail D (Bell J)
+T -- 3:22
+A -- 27559
+     Game of 9/1/1996 -- Houston at Pittsburgh (D)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hunter B, cf          5  0  1  0   Allensworth J, cf     4  1  1  2   
+Biggio C, 2b          5  1  1  0   Martin A, lf          3  2  1  1   
+Bagwell J, 1b         4  0  1  1   King J, 2b-3b         3  1  1  1   
+Bell D, rf            2  1  0  0   Johnson M, 1b         3  1  0  0   
+Berry S, 3b           3  0  0  1   Liriano N, 3b         4  0  1  3   
+Eusebio T, c          3  1  1  1   Wilkins M, p          0  0  0  0   
+Mouton J, lf          2  1  0  0   Bell J, ss            0  0  0  0   
+Miller O, ss          4  1  1  2   Kingery M, rf         4  1  1  0   
+Darwin D, p           3  0  0  0   Garcia C, ss-2b       4  2  2  1   
+Morman A, p           0  0  0  0   Kendall J, c          3  1  1  0   
+Olson G, p            0  0  0  0   Schmidt J, p          1  0  0  0   
+Holt C, p             0  0  0  0   Wainhouse D, p        1  0  0  0   
+Abreu B, ph           0  0  0  0   Beamon T, ph          0  0  0  0   
+Simms M, ph           1  0  0  0   Wehner J, ph-3b       2  0  0  1   
+                                   Plesac D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  5  5                        32  9  8  9
+
+Houston          000 040 010 --  5
+Pittsburgh       111 000 60x --  9
+
+  Houston              IP  H  R ER BB SO
+Darwin D (L)*         6.0  6  6  6  1  4
+Morman A              0.1  0  0  0  0  0
+Olson G               0.2  2  3  3  2  2
+Holt C                1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Schmidt J             4.2  4  4  4  4  2
+Wainhouse D (W)       2.1  0  0  0  1  1
+Wilkins M             1.0  1  1  1  1  0
+Plesac D              1.0  0  0  0  0  1
+  * Pitched to 3 batters in 7th
+
+E -- Miller O
+LOB -- Houston 6, Pittsburgh 3
+2B -- Miller O, Bagwell J, Liriano N
+HR -- King J, Garcia C, Martin A
+SB -- King J, Allensworth J 2, Martin A, Bell D
+CS -- Wehner J
+HBP -- by Darwin D (Kendall J)
+T -- 2:41
+A -- 14144
+     Game of 9/2/1996 -- Colorado at Pittsburgh (D)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Young E, 2b           5  0  0  0   Allensworth J, cf     4  0  0  0   
+Holmes D, p           0  0  0  0   Martin A, lf          5  1  1  0   
+Weiss W, ss           5  2  2  1   King J, 2b            3  0  1  0   
+Burks E, cf-lf        5  0  0  0   Johnson M, 1b         3  1  1  1   
+Galarraga A, 1b       5  2  1  0   Kingery M, rf         3  0  1  1   
+Walker L, rf          2  1  1  0   Ruebel M, p           0  0  0  0   
+Bichette D, lf        2  1  1  4   Ericks J, p           0  0  0  0   
+Perez N, 2b           0  0  0  0   Liriano N, ph         1  0  0  0   
+Castilla V, 3b        4  1  1  1   Morel R, p            0  0  0  0   
+Reed J, c             3  0  1  0   Garcia C, 3b          4  0  1  0   
+Ritz K, p             3  1  1  1   Bell J, ss            3  0  0  0   
+McCracken Q, ph-cf    0  0  0  0   Osik K, c             4  0  0  0   
+                                   Loaiza E, p           1  0  0  0   
+                                   Beamon T, ph-rf       3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  8  8  7                        34  3  6  2
+
+Colorado         003 100 040 --  8
+Pittsburgh       200 010 000 --  3
+
+  Colorado             IP  H  R ER BB SO
+Ritz K (W)            7.0  5  3  2  3  3
+Holmes D              2.0  1  0  0  1  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Loaiza E (L)          5.0  5  4  4  1  3
+Ruebel M              2.1  1  3  2  1  1
+Ericks J              0.2  2  1  1  1  0
+Morel R               1.0  0  0  0  0  0
+
+E -- Reed J, Castilla V, King J
+LOB -- Colorado 5, Pittsburgh 8
+2B -- Galarraga A, Weiss W, Reed J
+HR -- Castilla V, Ritz K, Weiss W, Bichette D
+SB -- Martin A, Johnson M, Reed J, Weiss W
+CS -- Walker L
+SF -- Bichette D
+HBP -- by Ruebel M (Walker L) 2
+WP -- Ritz K
+T -- 2:40
+A -- 9513
+     Game of 9/4/1996 -- Colorado at Pittsburgh (N)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Young E, 2b           4  1  1  0   Allensworth J, cf     3  0  1  1   
+Weiss W, ss           4  0  2  1   Martin A, lf          4  1  1  1   
+Burks E, cf           4  0  0  0   King J, 2b            3  1  0  0   
+Galarraga A, 1b       4  0  2  0   Johnson M, 1b         3  1  1  2   
+Walker L, rf          4  0  0  0   Garcia C, 3b          3  1  1  0   
+Bichette D, lf        4  1  1  0   Beamon T, rf          3  0  1  1   
+Castilla V, 3b        4  0  2  0   Bell J, ss            2  0  0  0   
+Reed J, c             4  0  1  1   Kendall J, c          3  1  1  0   
+Thompson M, p         2  0  0  0   Lieber J, p           1  0  0  0   
+Leskanic C, p         0  0  0  0   Plesac D, p           0  0  0  0   
+Vanderwal J, ph       1  0  0  0                                      
+Holmes D, p           0  0  0  0                                      
+Anthony E, ph         0  0  0  0                                      
+Echevarria A, ph      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  2  9  2                        25  5  6  5
+
+Colorado         000 001 001 --  2
+Pittsburgh       001 200 11x --  5
+
+  Colorado             IP  H  R ER BB SO
+Thompson M (L)        6.1  5  4  4  3  3
+Leskanic C            0.2  0  0  0  0  1
+Holmes D              1.0  1  1  1  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Lieber J (W)          8.2  9  2  2  0  5
+Plesac D (S)          0.1  0  0  0  0  0
+
+E -- Bell J
+DP -- Colorado 1, Pittsburgh 1
+LOB -- Colorado 7, Pittsburgh 1
+2B -- Allensworth J, Kendall J, Reed J
+3B -- Garcia C
+HR -- Johnson M, Martin A
+SB -- Martin A, Young E, Burks E
+CS -- Allensworth J, Beamon T, Bell J
+SH -- Lieber J
+SF -- Allensworth J
+T -- 2:28
+A -- 10081
+     Game of 9/17/1996 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Goodwin C, cf         3  1  2  0   Allensworth J, cf     4  0  1  1   
+Mitchell K, ph        1  0  0  0   Martin A, lf          4  0  1  1   
+Mottola C, rf         0  0  0  0   King J, 1b            3  1  2  0   
+Harris L, 3b          3  0  0  0   Merced O, rf          3  1  1  1   
+Morris H, 1b          3  0  1  0   Garcia C, 2b          4  0  0  0   
+Davis E, lf-cf        4  1  1  0   Bell J, ss            3  0  2  1   
+Howard T, rf          4  0  2  1   Kendall J, c          4  0  0  0   
+Shaw J, p             0  0  0  0   Wehner J, 3b          3  3  3  0   
+Boone B, 2b           4  0  2  0   Cordova F, p          1  0  0  1   
+Branson J, ss         4  0  1  0   Womack T, ph          0  0  0  0   
+Oliver J, c           4  1  1  1   Miceli D, p           0  0  0  0   
+Smiley J, p           2  0  0  0   Ruebel M, p           0  0  0  0   
+Service S, p          0  0  0  0   Ericks J, p           0  0  0  0   
+Remlinger M, p        0  0  0  0                                      
+Greene W, ph          0  0  0  0                                      
+Owens E, ph-lf        0  0  0  0                                      
+Taubensee E, ph       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3 10  2                        29  5 10  5
+
+Cincinnati       100 000 110 --  3
+Pittsburgh       001 210 10x --  5
+
+  Cincinnati           IP  H  R ER BB SO
+Smiley J (L)          6.2  9  5  4  1  4
+Service S*            0.0  0  0  0  1  0
+Remlinger M           0.1  0  0  0  0  0
+Shaw J                1.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Cordova F (W)         7.0  8  2  1  0  2
+Miceli D+             0.0  1  1  1  0  0
+Ruebel M              0.1  0  0  0  2  0
+Ericks J (S)          1.2  1  0  0  0  3
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 8th
+
+E -- Kendall J, Howard T
+DP -- Pittsburgh 2
+LOB -- Cincinnati 6, Pittsburgh 5
+2B -- Wehner J, King J, Merced O, Allensworth J, Davis E, Martin A, Bell J
+HR -- Oliver J
+SB -- Goodwin C
+CS -- Allensworth J
+SH -- Cordova F, Womack T
+SF -- Bell J
+HBP -- by Ruebel M (Harris L)
+T -- 2:25
+A -- 7551
+     Game of 9/18/1996 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Goodwin C, cf         2  0  1  0   Allensworth J, cf     4  1  1  1   
+Owens E, ph-lf        1  0  0  0   Martin A, lf          5  1  3  1   
+Morris H, 1b          4  1  2  0   King J, 2b            4  0  0  0   
+Larkin B, ss          5  1  0  0   Merced O, rf          4  1  3  2   
+Davis E, lf-cf        2  1  1  1   Johnson M, 1b         3  0  0  0   
+Taubensee E, c        3  0  1  1   Garcia C, 3b          3  0  1  0   
+Boone B, 2b           4  0  0  0   Plesac D, p           0  0  0  0   
+Branson J, 3b         2  0  0  0   Bell J, ss            3  0  1  1   
+Mottola C, rf         4  0  0  0   Kendall J, c          4  2  2  0   
+Morgan M, p           2  0  0  0   Schmidt J, p          2  0  0  0   
+Harris L, ph          1  0  0  0   Wehner J, 3b          0  0  0  0   
+Carrasco H, p         0  0  0  0                                      
+Remlinger M, p        0  0  0  0                                      
+Shaw J, p             0  0  0  0                                      
+Oliver J, ph          1  0  0  0                                      
+Service S, p          0  0  0  0                                      
+Martinez P, p         0  0  0  0                                      
+Spradlin J, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  5  2                        32  5 11  5
+
+Cincinnati       201 000 000 --  3
+Pittsburgh       002 110 01x --  5
+
+  Cincinnati           IP  H  R ER BB SO
+Morgan M (L)          5.0  7  4  3  3  2
+Carrasco H            1.0  1  0  0  0  0
+Remlinger M           0.1  0  0  0  1  0
+Shaw J                0.2  1  0  0  0  0
+Service S             0.2  1  1  1  0  0
+Martinez P*           0.0  1  0  0  0  0
+Spradlin J            0.1  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Schmidt J (W)         7.0  4  3  2  8  4
+Plesac D (S)          2.0  1  0  0  1  1
+  * Pitched to 1 batter in 8th
+
+E -- Kendall J, King J, Branson J
+DP -- Cincinnati 1, Pittsburgh 2
+LOB -- Cincinnati 10, Pittsburgh 10
+2B -- Davis E, Kendall J
+SB -- Goodwin C 2, Morris H, Kendall J, Martin A
+SH -- Schmidt J, Wehner J
+SF -- Allensworth J
+WP -- Schmidt J, Spradlin J
+T -- 2:53
+A -- 7924
+     Game of 9/19/1996 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Goodwin C, cf         4  1  1  0   Allensworth J, cf     3  1  1  1   
+Boone B, 2b           5  0  0  0   Martin A, lf          2  1  1  1   
+Larkin B, ss          3  2  3  2   King J, 2b            2  1  0  0   
+Davis E, lf           4  0  1  0   Merced O, rf          4  0  2  1   
+Morris H, 1b          3  1  1  1   Johnson M, 1b         2  0  0  0   
+Greene W, 3b          3  0  0  0   Garcia C, 3b          4  1  1  1   
+Mottola C, rf         3  0  1  0   Bell J, ss            4  1  2  1   
+Howard T, ph-rf       1  0  0  0   Osik K, c             4  1  1  0   
+Oliver J, c           3  0  2  0   Loaiza E, p           2  0  0  0   
+Taubensee E, ph-c     1  0  0  0   Peters C, p           0  0  0  0   
+Lyons C, p            2  0  0  0   Liriano N, ph         1  0  1  1   
+Perez E, ph           1  0  0  0   Dessens E, p          0  0  0  0   
+Pugh T, p             0  0  0  0   Ruebel M, p           0  0  0  0   
+Remlinger M, p        0  0  0  0   Wilkins M, p          0  0  0  0   
+Sullivan S, p         0  0  0  0   Beamon T, ph          1  0  0  0   
+Brantley J, p         0  0  0  0   Ericks J, p           0  0  0  0   
+Harris L, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  3                        29  6  9  6
+
+Cincinnati       012 010 000 --  4
+Pittsburgh       300 102 00x --  6
+
+  Cincinnati           IP  H  R ER BB SO
+Lyons C               5.0  5  4  4  4  4
+Pugh T (L)            0.1  4  2  2  0  0
+Remlinger M           1.1  0  0  0  1  0
+Sullivan S            0.1  0  0  0  0  0
+Brantley J            1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Loaiza E              4.1  8  4  4  3  3
+Peters C (W)          1.2  1  0  0  0  1
+Dessens E             0.2  0  0  0  1  1
+Ruebel M              0.2  0  0  0  0  0
+Wilkins M             0.2  0  0  0  0  1
+Ericks J (S)          1.0  0  0  0  0  2
+
+DP -- Cincinnati 3, Pittsburgh 2
+LOB -- Cincinnati 7, Pittsburgh 6
+2B -- Larkin B 2, Oliver J, Garcia C, Bell J
+HR -- Larkin B
+SB -- Allensworth J, Martin A, Goodwin C, Davis E
+CS -- Martin A
+HBP -- by Lyons C (Johnson M), by Remlinger M (Johnson M)
+T -- 2:48
+A -- 10188
+     Game of 9/20/1996 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Bullett S, cf         3  0  1  0   Allensworth J, cf     4  1  2  0   
+Timmons O, ph-rf      0  1  0  0   Martin A, lf          4  1  1  1   
+Jennings R, rf        3  0  0  0   Liriano N, 3b         3  1  2  0   
+Sandberg R, ph        1  1  1  0   Wehner J, pr-3b       0  0  0  0   
+Kieschnick B, lf      0  0  0  0   Merced O, rf          4  0  0  1   
+Brown B, 1b           3  1  1  1   Johnson M, 1b         5  0  2  1   
+Gomez L, ph-3b        1  0  0  0   Garcia C, 2b          3  1  1  0   
+Gonzalez L, lf        3  0  0  0   Bell J, ss            3  1  2  2   
+McRae B, ph           1  0  1  2   Kendall J, c          2  0  0  0   
+Bottenfield K, p      0  0  0  0   Lieber J, p           2  1  1  0   
+Patterson B, p        0  0  0  0   Beamon T, ph          1  0  0  0   
+Magadan D, 3b-1b      4  0  0  0   Plesac D, p           0  0  0  0   
+Houston T, c          3  1  2  0   Ericks J, p           0  0  0  0   
+Hubbard M, ph         1  0  0  0                                      
+Hernandez J, ss       3  0  0  0                                      
+Haney T, 2b           3  0  0  0                                      
+Grace M, ph           1  0  0  0                                      
+Foster K, p           2  0  1  1                                      
+Telemaco A, p         0  0  0  0                                      
+Casian L, p           0  0  0  0                                      
+Bullinger J, p        0  0  0  0                                      
+Glanville D, ph-cf    1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  4                        31  6 11  5
+
+Chicago          000 110 020 --  4
+Pittsburgh       022 001 01x --  6
+
+  Chicago              IP  H  R ER BB SO
+Foster K (L)          4.2  9  4  4  3  2
+Telemaco A            0.2  1  1  0  0  0
+Casian L              1.0  0  0  0  1  2
+Bullinger J           0.2  0  0  0  2  0
+Bottenfield K         0.1  1  1  1  0  1
+Patterson B           0.2  0  0  0  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Lieber J (W)          7.0  5  2  2  1  4
+Plesac D              1.0  2  2  2  1  2
+Ericks J (S)          1.0  0  0  0  0  2
+
+E -- Hernandez J, Magadan D
+DP -- Chicago 1
+LOB -- Chicago 4, Pittsburgh 11
+2B -- Foster K, Liriano N, Johnson M, Lieber J, Martin A
+3B -- Allensworth J
+HR -- Bell J, Brown B
+SB -- Hernandez J, Liriano N, Houston T, Sandberg R, Timmons O, Martin A
+CS -- Bullett S, Allensworth J
+SH -- Lieber J
+SF -- Martin A
+HBP -- by Foster K (Kendall J)
+PB -- Kendall J
+T -- 2:46
+A -- 19285
+     Game of 9/21/1996 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+McRae B, cf           4  0  0  0   Allensworth J, cf     2  1  0  0   
+Jennings R, rf        3  0  2  1   Martin A, lf          4  0  0  0   
+Telemaco A, p         0  0  0  0   King J, 2b            4  1  1  1   
+Haney T, ph           1  0  0  0   Merced O, rf          4  2  2  1   
+Bottenfield K, p      0  0  0  0   Beamon T, rf          0  0  0  0   
+Grace M, 1b           4  1  1  0   Johnson M, 1b         3  2  1  0   
+Brown B, 1b           0  0  0  0   Garcia C, 3b          3  0  1  2   
+Magadan D, 3b         2  1  1  0   Bell J, ss            4  1  2  3   
+Hernandez J, ph-2b    1  0  0  0   Osik K, c             3  0  0  0   
+Houston T, 2b         3  0  2  0   Loiselle R, p         2  0  0  0   
+Gomez L, ph-3b        1  0  0  0   Peters C, p           1  1  1  0   
+Kieschnick B, lf      2  0  1  0   Wilkins M, p          0  0  0  0   
+Glanville D, ph-lf    2  0  1  1                                      
+Servais S, c          4  0  0  0                                      
+Sanchez R, ss         4  1  1  0                                      
+Swartzbaugh D, p      1  0  0  0                                      
+Myers R, p            0  0  0  0                                      
+Bullett S, ph-rf      2  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3 10  2                        30  8  8  7
+
+Chicago          000 111 000 --  3
+Pittsburgh       025 000 10x --  8
+
+  Chicago              IP  H  R ER BB SO
+Swartzbaugh D (L)     2.1  5  6  6  2  2
+Myers R               1.2  1  1  1  1  1
+Telemaco A            2.0  1  0  0  0  1
+Bottenfield K         2.0  1  1  0  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Loiselle R (W)*       5.0  9  3  2  1  3
+Peters C              3.0  1  0  0  0  0
+Wilkins M             1.0  0  0  0  0  0
+  * Pitched to 2 batters in 6th
+
+E -- Garcia C, Allensworth J, Magadan D
+DP -- Chicago 3, Pittsburgh 4
+LOB -- Chicago 5, Pittsburgh 2
+2B -- Garcia C, King J, Grace M, Peters C
+HR -- Bell J
+WP -- Loiselle R 2
+T -- 2:27
+A -- 23619
+     Game of 9/22/1996 -- Chicago at Pittsburgh (D)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+McRae B, cf           4  0  1  0   Womack T, cf          4  1  2  2   
+Jennings R, rf        3  0  1  1   Allensworth J, cf     0  0  0  0   
+Myers R, p            0  0  0  0   Martin A, lf          5  2  2  2   
+Casian L, p           0  0  0  0   King J, 2b            5  1  2  1   
+Haney T, 3b           1  0  0  0   Merced O, rf          3  2  2  0   
+Brown B, 1b           4  0  0  0   Beamon T, rf          0  0  0  0   
+Gonzalez L, lf        3  0  0  0   Johnson M, 1b         4  1  2  0   
+Magadan D, 3b         2  1  0  0   Garcia C, 3b          5  1  1  1   
+Gomez L, ph-3b        1  0  1  0   Bell J, ss            4  2  2  4   
+Adams T, p            0  0  0  0   Osik K, c             3  1  1  0   
+Wendell T, p          0  0  0  0   Cordova F, p          2  0  0  0   
+Timmons O, ph         1  0  0  0   Liriano N, ph         1  0  0  0   
+Patterson B, p        0  0  0  0   Ruebel M, p           1  0  0  0   
+Sandberg R, 2b        3  0  1  0   Boever J, p           1  0  0  0   
+Shumpert T, 2b        1  0  1  0                                      
+Houston T, c          2  1  2  0                                      
+Servais S, ph-c       2  0  0  0                                      
+Sanchez R, ss         3  0  0  1                                      
+Castillo F, p         1  0  0  0                                      
+Campbell M, p         0  0  0  0                                      
+Kieschnick B, ph-rf   1  1  1  1                                      
+Glanville D, ph-rf    1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  9  3                        38 11 14 10
+
+Chicago          010 020 000 --  3
+Pittsburgh       520 020 02x -- 11
+  0 outs when game ended.
+
+  Chicago              IP  H  R ER BB SO
+Castillo F (L)        1.2  8  7  7  1  2
+Campbell M            2.1  0  0  0  2  2
+Myers R               0.2  1  2  2  2  0
+Casian L*             0.1  2  0  0  1  1
+Adams T               0.1  0  0  0  0  1
+Wendell T             1.2  0  0  0  0  1
+Patterson B           1.0  3  2  2  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Cordova F (W)         5.0  5  3  3  1  3
+Ruebel M              2.2  4  0  0  0  1
+Boever J              0.1  0  0  0  0  0
+  * Pitched to 3 batters in 6th
+
+E -- Houston T, Casian L
+LOB -- Chicago 7, Pittsburgh 10
+2B -- Martin A, King J 2, Johnson M 2, Houston T, Kieschnick B, Jennings R, Womack T, Gomez L, Shumpert T
+HR -- Bell J, Martin A
+SB -- Martin A, King J
+T -- 2:50
+A -- 27472
+     Game of 9/23/1996 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+McRae B, cf           4  0  1  0   Allensworth J, cf     2  0  0  0   
+Jennings R, rf        4  1  1  0   Liriano N, ph         1  0  1  1   
+Adams T, p            0  0  0  0   Wehner J, pr          0  0  0  0   
+Glanville D, lf       0  0  0  0   Martin A, lf          4  0  1  0   
+Brown B, 1b           4  1  1  0   King J, 2b            3  0  0  0   
+Sandberg R, 2b        4  1  2  1   Merced O, rf          5  0  0  0   
+Gonzalez L, lf        4  1  1  3   Johnson M, 1b         4  0  0  0   
+Wendell T, p          0  0  0  0   Garcia C, 3b          4  0  1  0   
+Patterson B, p        0  0  0  0   Bell J, ss            2  2  0  0   
+Houston T, 3b         3  0  1  0   Kendall J, c          2  1  1  1   
+Hernandez J, pr-3b    1  0  0  0   Schmidt J, p          3  0  1  1   
+Servais S, c          4  0  1  0   Womack T, ph          0  0  0  0   
+Sanchez R, ss         4  0  1  0                                      
+Trachsel S, p         2  0  0  0                                      
+Bullett S, ph-rf      2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4  9  4                        30  3  5  3
+
+Chicago          000 301 000 --  4
+Pittsburgh       020 000 001 --  3
+
+  Chicago              IP  H  R ER BB SO
+Trachsel S (W)        6.0  4  2  2  5  4
+Adams T               2.0  0  0  0  1  2
+Wendell T             0.1  1  1  1  1  0
+Patterson B (S)       0.2  0  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Schmidt J (L)         9.0  9  4  4  0 11
+
+E -- Kendall J
+LOB -- Chicago 6, Pittsburgh 10
+2B -- Martin A
+3B -- Kendall J
+HR -- Gonzalez L
+SB -- Garcia C, Jennings R, McRae B
+CS -- Martin A
+SH -- Womack T
+HBP -- by Schmidt J (McRae B), by Wendell T (Kendall J)
+T -- 2:55
+A -- 7684
+     Game of 9/24/1996 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Smith O, ss           4  0  0  0   Allensworth J, cf     4  0  1  0   
+Lankford R, cf        5  1  3  1   Martin A, lf          4  0  1  0   
+Gant R, lf            4  1  1  0   King J, 2b            3  1  2  1   
+Jordan B, rf          4  1  1  2   Merced O, rf          3  0  0  0   
+Gaetti G, 3b          5  2  2  1   Johnson M, 1b         2  0  1  0   
+Mabry J, 1b           4  1  1  0   Wehner J, ph          0  0  0  0   
+Pagnozzi T, c         4  0  1  0   Womack T, ph          1  0  0  0   
+Alicea L, 2b          4  1  3  2   Garcia C, 3b          4  0  1  0   
+Benes A, p            2  0  0  0   Bell J, ss            4  0  2  0   
+McGee W, ph           1  0  0  0   Kendall J, c          4  0  0  0   
+Petkovsek M, p        0  0  0  0   Loaiza E, p           2  0  0  0   
+Sweeney M, ph         0  0  0  0   Peters C, p           0  0  0  0   
+Sheaffer D, ph        1  0  0  0   Sveum D, ph           1  0  0  0   
+Mathews T, p          0  0  0  0   Wilkins M, p          0  0  0  0   
+Honeycutt R, p        0  0  0  0   Ruebel M, p           0  0  0  0   
+Eckersley D, p        0  0  0  0   Wainhouse D, p        0  0  0  0   
+                                   Liriano N, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 12  6                        33  1  8  1
+
+St. Louis        000 000 232 --  7
+Pittsburgh       001 000 000 --  1
+
+  St. Louis            IP  H  R ER BB SO
+Benes A (W)           6.0  5  1  1  3  2
+Petkovsek M           1.0  0  0  0  0  0
+Mathews T             0.2  1  0  0  0  2
+Honeycutt R           0.1  0  0  0  0  0
+Eckersley D           1.0  2  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Loaiza E (L)          6.1  4  2  2  2  4
+Peters C              0.2  2  0  0  1  0
+Wilkins M             0.1  4  3  3  1  1
+Ruebel M*             0.2  1  1  1  0  0
+Wainhouse D           1.0  1  1  0  0  0
+  * Pitched to 1 batter in 9th
+
+E -- Loaiza E, Garcia C
+DP -- St. Louis 2
+LOB -- St. Louis 9, Pittsburgh 8
+2B -- King J, Bell J, Alicea L 2, Gaetti G, Lankford R
+3B -- Allensworth J
+HR -- King J, Gaetti G, Jordan B
+SB -- Alicea L
+SF -- Jordan B
+PB -- Pagnozzi T
+T -- 3:00
+A -- 8611
+     Game of 9/25/1996 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Alicea L, 2b          6  1  1  0   Allensworth J, cf     5  1  2  0   
+Gallego M, ss         5  0  1  0   Martin A, lf          2  2  0  0   
+Young D, 1b           4  1  0  0   King J, 2b            4  0  0  0   
+Clayton R, pr         0  1  0  0   Merced O, rf          4  1  2  4   
+Mabry J, 1b           0  0  0  0   Johnson M, 1b         4  0  0  0   
+Sweeney M, rf         3  1  0  0   Garcia C, 3b          3  2  1  0   
+Bailey C, p           0  0  0  0   Ericks J, p           0  0  0  0   
+McGee W, ph           0  0  0  1   Liriano N, ph         1  0  0  0   
+Mathews T, p          0  0  0  0   Miceli D, p           0  0  0  0   
+Bell D, 3b            5  2  2  1   Bell J, ss            5  0  0  1   
+Bradshaw T, lf        6  2  4  3   Kendall J, c          5  0  1  1   
+Difelice M, c         5  0  2  1   Lieber J, p           1  0  0  0   
+Mejia M, cf-rf        5  0  1  0   Morel R, p            0  0  0  0   
+Benes A, p            2  0  0  0   Womack T, ph          1  1  1  0   
+Smith O, ph           1  0  0  0   Dessens E, p          0  0  0  0   
+Ludwick E, p          0  0  0  0   Sveum D, ph           1  0  0  0   
+Lankford R, ph-cf     1  0  0  0   Plesac D, p           0  0  0  0   
+                                   Boever J, p           0  0  0  0   
+                                   Wehner J, 3b          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     43  8 11  6                        38  7  7  6
+
+St. Louis        113 010 100 01 --  8
+Pittsburgh       200 221 000 00 --  7
+
+  St. Louis            IP  H  R ER BB SO
+Benes A               5.0  5  6  6  4  3
+Ludwick E             2.0  1  1  0  0  4
+Bailey C (W)          3.0  1  0  0  1  2
+Mathews T (S)         1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Lieber J              4.1  9  6  4  1  4
+Morel R               0.2  0  0  0  0  0
+Dessens E             1.0  0  0  0  0  0
+Plesac D              0.2  2  1  1  1  1
+Boever J              1.1  0  0  0  2  0
+Ericks J              2.0  0  0  0  0  3
+Miceli D (L)          1.0  0  1  0  1  0
+
+E -- Kendall J, Bell J 2, King J, Ludwick E
+DP -- St. Louis 1
+LOB -- St. Louis 10, Pittsburgh 5
+2B -- Bradshaw T, Difelice M, Womack T
+SB -- Alicea L, Mejia M, Sweeney M, Martin A, Kendall J, Bell D, Clayton R
+CS -- Merced O
+SH -- Gallego M
+SF -- McGee W
+HBP -- by Benes A (Martin A), by Ludwick E (Garcia C), by Boever J (Sweeney M)
+WP -- Benes A 2
+T -- 3:42
+A -- 20022
+

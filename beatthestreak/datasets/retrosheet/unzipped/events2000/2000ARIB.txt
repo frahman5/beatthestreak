@@ -1,0 +1,3701 @@
+     Game of 4/4/2000 -- Philadelphia at Arizona (N)
+
+  Philadelphia       AB  R  H RBI    Arizona            AB  R  H RBI
+Glanville D, cf       5  0  0  0   Womack T, ss          4  0  1  0   
+Gant R, lf            3  0  0  0   Bell J, 2b            4  1  1  0   
+Rolen S, 3b           4  1  1  1   Gonzalez L, lf        4  1  1  2   
+Lieberthal M, c       4  0  1  0   Durazo E, 1b          4  0  0  0   
+Jordan K, 2b          3  1  0  0   Finley S, cf          4  2  4  1   
+Brogna R, 1b          4  0  0  0   Lee T, rf             4  1  1  0   
+Sefcik K, rf          3  0  0  0   Harris L, 3b          3  0  0  0   
+Ducey R, ph           0  1  0  0   Miller D, c           3  1  2  3   
+Relaford D, ss        4  1  3  2   Johnson R, p          2  0  0  0   
+Ashby A, p            1  0  0  0   Springer R, p         0  0  0  0   
+Arias A, ph           1  0  0  0   Plesac D, p           0  0  0  0   
+Schrenk S, p          0  0  0  0   Holmes D, p           0  0  0  0   
+Miller T, p           0  0  0  0                                      
+Abreu B, ph           1  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     33  4  6  4                        32  6 10  6
+
+Philadelphia     000 001 102 --  4
+Arizona          030 003 00x --  6
+
+  Philadelphia         IP  H  R ER BB SO
+Ashby A (L)           6.0  8  6  6  0  1
+Schrenk S             1.0  1  0  0  0  0
+Miller T              1.0  1  0  0  0  2
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         8.2  4  3  2  2 10
+Springer R*           0.0  1  1  1  1  0
+Plesac D+             0.0  1  0  0  0  0
+Holmes D (S)          0.1  0  0  0  0  0
+  * Pitched to 2 batters in 9th
+  + Pitched to 1 batter in 9th
+
+E -- Womack T
+DP -- Philadelphia 1
+LOB -- Philadelphia 6, Arizona 3
+2B -- Lieberthal M, Miller D
+HR -- Miller D, Rolen S, Gonzalez L, Finley S, Relaford D
+SH -- Ashby A, Johnson R
+T -- 2:24
+A -- 44298
+     Game of 4/5/2000 -- Philadelphia at Arizona (N)
+
+  Philadelphia       AB  R  H RBI    Arizona            AB  R  H RBI
+Glanville D, cf       5  0  2  0   Womack T, ss          5  1  1  0   
+Gant R, lf            5  0  1  0   Bell J, 2b            3  0  1  1   
+Abreu B, rf           3  0  0  0   Gonzalez L, lf        4  2  2  0   
+Rolen S, 3b           4  1  2  1   Durazo E, 1b          3  2  1  0   
+Brogna R, 1b          4  1  1  0   Finley S, cf          5  1  2  2   
+Lieberthal M, c       4  1  1  0   Lee T, rf             2  3  1  2   
+Prince T, c           0  0  0  0   Harris L, 3b          4  2  1  4   
+Morandini M, 2b       4  0  1  1   Stinnett K, c         4  0  2  2   
+Relaford D, ss        4  0  0  0   Stottlemyre T, p      1  0  0  0   
+Byrd P, p             0  0  0  0   Gilkey B, ph          1  0  0  0   
+Telemaco A, p         0  0  0  0   Morgan M, p           1  0  1  0   
+Ducey R, ph           0  0  0  0                                      
+Miller T, p           0  0  0  0                                      
+Sefcik K, ph          1  0  0  0                                      
+Aldred S, p           0  0  0  0                                      
+Gomes W, p            0  0  0  0                                      
+Bullinger K, p        0  0  0  0                                      
+Arias A, ph           1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  2                        33 11 12 11
+
+Philadelphia     030 000 000 --  3
+Arizona          602 000 12x -- 11
+
+  Philadelphia         IP  H  R ER BB SO
+Byrd P (L)            0.2  3  6  6  4  0
+Telemaco A            2.1  2  2  2  3  3
+Miller T              2.0  0  0  0  1  1
+Aldred S              1.0  1  0  0  0  1
+Gomes W               1.0  3  1  1  0  0
+Bullinger K           1.0  3  2  2  0  1
+
+  Arizona              IP  H  R ER BB SO
+Stottlemyre T (W)     5.0  6  3  3  3  4
+Morgan M (S)          4.0  3  0  0  0  2
+
+E -- Stottlemyre T
+DP -- Philadelphia 1, Arizona 2
+LOB -- Philadelphia 8, Arizona 8
+2B -- Gonzalez L, Stinnett K, Rolen S
+3B -- Womack T
+HR -- Harris L, Rolen S, Lee T
+SB -- Glanville D, Abreu B
+SF -- Bell J, Lee T
+T -- 2:53
+A -- 29291
+     Game of 4/6/2000 -- Philadelphia at Arizona (N)
+
+  Philadelphia       AB  R  H RBI    Arizona            AB  R  H RBI
+Glanville D, cf       5  1  2  0   Womack T, ss          5  0  0  0   
+Gant R, lf            5  0  1  0   Bell J, 2b            4  1  2  1   
+Schrenk S, p          0  0  0  0   Gonzalez L, lf        3  0  1  0   
+Abreu B, rf           4  0  1  1   Durazo E, 1b          4  0  1  0   
+Rolen S, 3b           5  0  2  1   Frias H, pr           0  1  0  0   
+Lieberthal M, c       5  0  1  0   Finley S, cf          3  1  1  0   
+Brogna R, 1b          4  0  0  0   Lee T, rf             4  0  1  0   
+Jordan K, 2b          5  0  0  0   Harris L, 3b          4  0  1  2   
+Relaford D, ss        1  0  0  0   Miller D, c           4  0  0  0   
+Arias A, ss           3  0  0  0   Daal O, p             3  0  0  0   
+Person R, p           1  0  0  0   Kim B, p              0  0  0  0   
+Sefcik K, ph          1  0  0  0   Dellucci D, ph        1  0  0  0   
+Aldred S, p           0  0  0  0   Springer R, p         0  0  0  0   
+Morandini M, ph       1  1  1  0                                      
+Gomes W, p            0  0  0  0                                      
+Ducey R, ph-lf        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  2  8  2                        35  3  7  3
+
+Philadelphia     000 000 020 00 --  2
+Arizona          011 000 000 01 --  3
+  2 outs when winning run was scored.
+
+  Philadelphia         IP  H  R ER BB SO
+Person R              5.0  4  2  2  4  5
+Aldred S              2.0  1  0  0  0  0
+Gomes W               2.0  2  0  0  0  0
+Schrenk S (L)         1.2  0  1  1  3  2
+
+  Arizona              IP  H  R ER BB SO
+Daal O                7.2  6  2  2  1  5
+Kim B                 2.1  1  0  0  0  3
+Springer R (W)        1.0  1  0  0  1  0
+
+DP -- Philadelphia 2
+LOB -- Philadelphia 8, Arizona 8
+2B -- Rolen S
+HR -- Bell J
+SB -- Harris L
+SF -- Harris L
+T -- 3:03
+A -- 28774
+     Game of 4/7/2000 -- Pittsburgh at Arizona (N)
+
+  Pittsburgh         AB  R  H RBI    Arizona            AB  R  H RBI
+Kendall J, c          5  1  1  0   Womack T, ss          4  0  0  0   
+Meares P, ss          4  2  2  0   Bell J, 2b            4  0  0  0   
+Giles B, rf           5  1  0  1   Gonzalez L, lf        4  1  4  0   
+Vander Wal J, 1b      3  0  2  0   Durazo E, 1b          3  0  0  0   
+Young K, ph-1b        2  1  2  2   Colbrunn G, ph        1  0  1  1   
+Cordero W, lf         5  1  2  2   Finley S, cf          4  1  1  1   
+Morris W, 2b          3  0  1  1   Lee T, rf             2  0  0  0   
+Ramirez A, 3b         4  0  0  0   Gilkey B, ph          1  0  0  0   
+Hermansen C, cf       2  0  0  0   Harris L, 3b          3  0  0  0   
+Christiansen J, p     0  0  0  0   Holmes D, p           0  0  0  0   
+Aven B, ph            1  0  1  1   Swindell G, p         0  0  0  0   
+Silva J, p            0  0  0  0   Frias H, ph           1  0  0  0   
+Sauerbeck S, p        0  0  0  0   Stinnett K, c         3  0  0  0   
+Ritchie T, p          2  0  0  0   Reynoso A, p          2  0  0  0   
+Brown A, cf           2  1  1  0   Plesac D, p           0  0  0  0   
+                                   Klassen D, 3b         1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 12  7                        33  2  7  2
+
+Pittsburgh       000 000 061 --  7
+Arizona          010 000 001 --  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Ritchie T*            6.0  4  1  1  0  3
+Christiansen J (W)    1.0  0  0  0  1  0
+Silva J               1.0  1  0  0  0  0
+Sauerbeck S           1.0  2  1  1  0  2
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (L)+        7.0  7  3  3  2  4
+Plesac D#             0.0  0  1  0  0  0
+Holmes D              1.0  3  2  2  0  0
+Swindell G            1.0  2  1  1  0  1
+  * Pitched to 1 batter in 7th
+  + Pitched to 3 batters in 8th
+  # Pitched to 1 batter in 8th
+
+E -- Lee T, Durazo E
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 7, Arizona 5
+2B -- Gonzalez L 3, Vander Wal J, Brown A, Cordero W, Aven B, Meares P
+HR -- Finley S
+SF -- Morris W
+T -- 2:37
+A -- 32536
+     Game of 4/8/2000 -- Pittsburgh at Arizona (D)
+
+  Pittsburgh         AB  R  H RBI    Arizona            AB  R  H RBI
+Kendall J, c          4  0  1  0   Frias H, ss           4  2  1  0   
+Meares P, ss          4  2  1  1   Bell J, 2b            4  1  2  1   
+Giles B, rf           5  1  2  2   Gonzalez L, lf        4  1  2  2   
+Young K, 1b           5  1  2  0   Colbrunn G, 1b        2  1  1  0   
+Cordero W, lf         4  0  1  1   Finley S, cf          5  1  1  0   
+Morris W, 2b          2  1  1  0   Gilkey B, rf          4  0  1  2   
+Sojo L, 3b            4  0  2  0   Klassen D, 3b         3  0  2  1   
+Hermansen C, cf       4  0  1  1   Springer R, p         0  0  0  0   
+Anderson J, p         2  0  0  0   Durazo E, ph          1  0  0  0   
+Wilkins M, p          0  0  0  0   Swindell G, p         0  0  0  0   
+Aven B, ph            1  0  0  0   Miller D, c           4  0  2  0   
+Peters C, p           0  0  0  0   Anderson B, p         2  0  0  0   
+Brown A, ph           1  0  1  0   Harris L, 3b          2  0  0  0   
+Christiansen J, p     0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5 12  5                        35  6 12  6
+
+Pittsburgh       012 001 100 --  5
+Arizona          101 030 001 --  6
+  2 outs when winning run was scored.
+
+  Pittsburgh           IP  H  R ER BB SO
+Anderson J            4.1  8  5  5  2  2
+Wilkins M             0.2  1  0  0  0  0
+Peters C              3.0  2  0  0  0  2
+Christiansen J (L)    0.2  1  1  1  3  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B            5.1  8  4  4  2  2
+Springer R            2.2  2  1  1  1  1
+Swindell G (W)        1.0  2  0  0  0  1
+
+E -- Klassen D
+DP -- Pittsburgh 1, Arizona 3
+LOB -- Pittsburgh 8, Arizona 10
+2B -- Bell J, Finley S, Young K, Miller D
+HR -- Giles B, Gonzalez L, Bell J, Meares P
+SB -- Morris W, Miller D, Klassen D
+CS -- Kendall J
+SH -- Gonzalez L
+SF -- Gilkey B
+HBP -- by Anderson B (Meares P)
+T -- 2:51
+A -- 33298
+     Game of 4/9/2000 -- Pittsburgh at Arizona (D)
+
+  Pittsburgh         AB  R  H RBI    Arizona            AB  R  H RBI
+Kendall J, c          4  0  2  0   Womack T, ss          4  0  1  0   
+Meares P, ss          4  0  1  0   Bell J, 2b            3  0  1  0   
+Giles B, rf           4  0  0  0   Gonzalez L, lf        4  0  0  0   
+Young K, 1b           4  0  1  0   Durazo E, 1b          2  0  0  0   
+Cordero W, lf         3  0  0  0   Finley S, cf          3  1  1  0   
+Brown A, cf           3  0  0  0   Lee T, rf             2  0  1  0   
+Ramirez A, 3b         3  0  0  0   Harris L, 3b          2  0  0  1   
+Williams M, p         0  0  0  0   Miller D, c           2  0  0  0   
+Benjamin M, 2b        3  0  1  0   Johnson R, p          3  0  0  0   
+Schmidt J, p          1  0  0  0                                      
+Sojo L, 3b            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        25  1  4  1
+
+Pittsburgh       000 000 000 --  0
+Arizona          000 000 10x --  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Schmidt J (L)         7.0  4  1  1  4  5
+Williams M            1.0  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         9.0  5  0  0  0 13
+
+DP -- Arizona 1
+LOB -- Pittsburgh 4, Arizona 5
+2B -- Kendall J
+SB -- Lee T
+CS -- Kendall J, Lee T
+SH -- Schmidt J
+SF -- Harris L
+WP -- Schmidt J
+T -- 2:21
+A -- 34204
+     Game of 4/17/2000 -- Colorado at Arizona (N)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Hunter B, cf-lf       6  1  2  0   Frias H, ss-2b        3  0  1  0   
+Lansing M, 2b         5  1  2  0   Bell J, 2b            4  1  2  0   
+Walker L, rf          5  3  1  1   Klassen D, ss         0  0  0  0   
+Cirillo J, 3b         4  2  2  1   Gonzalez L, lf        4  0  0  0   
+Helton T, 1b          5  1  2  3   Durazo E, 1b          2  0  0  0   
+Manto J, 1b           0  0  0  0   Colbrunn G, ph-1b     1  0  0  0   
+Shumpert T, lf        5  1  2  2   Finley S, cf          4  0  2  1   
+Myers M, p            0  0  0  0   Kim B, p              0  0  0  0   
+Jimenez J, p          0  0  0  0   Lee T, rf-cf          4  0  0  0   
+Perez N, ss           4  0  0  1   Harris L, 3b          4  0  2  0   
+Servais S, c          3  0  2  0   Stinnett K, c         4  0  0  0   
+Yoshii M, p           4  0  2  1   Daal O, p             2  0  0  0   
+Goodwin T, cf         1  0  0  0   Morgan M, p           0  0  0  0   
+                                   Gilkey B, ph          1  0  1  0   
+                                   Springer R, p         0  0  0  0   
+                                   Fox A, rf             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42  9 15  9                        33  1  8  1
+
+Colorado         500 003 010 --  9
+Arizona          000 001 000 --  1
+
+  Colorado             IP  H  R ER BB SO
+Yoshii M (W)          7.0  7  1  1  2  2
+Myers M               1.0  0  0  0  0  1
+Jimenez J             1.0  1  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Daal O (L)            5.1 13  8  7  2  2
+Morgan M              1.2  0  0  0  0  0
+Springer R            1.0  1  1  1  1  1
+Kim B                 1.0  1  0  0  0  1
+
+E -- Lansing M, Harris L, Colbrunn G
+DP -- Colorado 2, Arizona 1
+LOB -- Colorado 11, Arizona 7
+2B -- Shumpert T, Cirillo J
+3B -- Shumpert T
+SB -- Frias H, Hunter B
+SF -- Perez N
+HBP -- by Daal O (Cirillo J)
+T -- 2:42
+A -- 33743
+     Game of 4/18/2000 -- Colorado at Arizona (N)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Goodwin T, cf         4  0  0  0   Womack T, ss          5  1  3  2   
+Lansing M, 2b         4  1  1  0   Bell J, 2b            4  1  2  1   
+Walker L, rf          3  0  0  0   Gonzalez L, lf        5  1  1  2   
+Cirillo J, 3b         3  0  1  1   Colbrunn G, 1b        3  0  1  0   
+Helton T, 1b          4  0  1  0   Finley S, cf          4  1  0  0   
+Bragg D, lf           3  0  0  0   Gilkey B, rf          3  1  1  2   
+Shumpert T, ph        1  0  0  0   Lee T, ph-rf          0  0  0  0   
+Perez N, ss           3  0  1  0   Miller D, c           3  0  1  0   
+Mayne B, c            2  0  0  0   Klassen D, 3b         3  1  2  0   
+Karl S, p             1  0  0  0   Reynoso A, p          3  0  1  0   
+Myers M, p            0  0  0  0   Harris L, ph          1  1  0  0   
+Ledesma A, ph         1  0  0  0   Swindell G, p         0  0  0  0   
+Belinda S, p          0  0  0  0                                      
+Dipoto J, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  1  4  1                        34  7 12  7
+
+Colorado         000 100 000 --  1
+Arizona          000 200 05x --  7
+
+  Colorado             IP  H  R ER BB SO
+Karl S (L)            6.2  9  2  2  3  3
+Myers M               0.1  0  0  0  0  1
+Belinda S             0.2  1  3  0  1  0
+Dipoto J              0.1  2  2  2  0  1
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (W)         8.0  3  1  1  2  2
+Swindell G            1.0  1  0  0  1  0
+
+E -- Karl S, Belinda S
+DP -- Colorado 2, Arizona 1
+LOB -- Colorado 5, Arizona 9
+2B -- Bell J 2, Lansing M, Perez N, Klassen D
+3B -- Womack T
+HR -- Gilkey B, Gonzalez L
+SB -- Womack T
+CS -- Womack T
+SH -- Karl S, Miller D, Klassen D
+WP -- Karl S
+T -- 2:50
+A -- 30275
+     Game of 4/19/2000 -- Colorado at Arizona (N)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Goodwin T, cf         4  1  2  1   Womack T, ss          5  2  3  3   
+Lansing M, 2b         4  1  2  0   Bell J, 2b            5  1  1  0   
+Walker L, rf          5  1  4  1   Gonzalez L, lf        4  1  1  0   
+Cirillo J, 3b         5  0  0  0   Durazo E, 1b          3  1  2  1   
+Helton T, 1b          3  2  1  0   Colbrunn G, ph-1b     1  0  0  0   
+Shumpert T, lf        4  1  2  4   Finley S, cf          4  1  2  2   
+Perez N, ss           4  0  0  1   Lee T, rf             4  0  1  0   
+Petrick B, c          4  1  1  0   Fox A, 3b             4  0  1  1   
+Tavarez J, p          0  0  0  0   Stinnett K, c         4  0  1  0   
+Astacio P, p          1  0  0  0   Frias H, pr           0  1  0  0   
+Jimenez J, p          1  0  0  0   Miller D, c           0  0  0  0   
+White G, p            0  0  0  0   Anderson B, p         2  1  1  0   
+Mayne B, c            1  0  0  0   Springer R, p         0  0  0  0   
+Hunter B, pr          0  0  0  0   Harris L, ph          1  0  0  0   
+                                   Plesac D, p           0  0  0  0   
+                                   Morgan M, p           0  0  0  0   
+                                   Gilkey B, ph          0  0  0  0   
+                                   Swindell G, p         0  0  0  0   
+                                   Kim B, p              0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 12  7                        37  8 13  7
+
+Colorado         001 104 100 --  7
+Arizona          002 002 31x --  8
+
+  Colorado             IP  H  R ER BB SO
+Astacio P             5.1  9  4  4  0  1
+Jimenez J*            0.2  2  2  2  0  1
+White G               1.1  1  1  1  0  2
+Tavarez J (L)         0.2  1  1  0  1  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B            5.1  8  6  5  1  2
+Springer R            0.2  0  0  0  0  0
+Plesac D              1.0  3  1  1  0  1
+Morgan M (W)          1.0  0  0  0  0  1
+Swindell G            0.1  0  0  0  0  0
+Kim B (S)             0.2  1  0  0  1  0
+  * Pitched to 2 batters in 7th
+
+E -- Bell J 2, Cirillo J
+DP -- Colorado 1, Arizona 3
+LOB -- Colorado 6, Arizona 6
+2B -- Finley S, Petrick B, Stinnett K, Helton T, Gonzalez L
+3B -- Shumpert T 2
+HR -- Womack T, Finley S
+SB -- Goodwin T
+CS -- Hunter B
+SH -- Astacio P, Goodwin T
+PB -- Petrick B 2
+T -- 3:00
+A -- 31237
+     Game of 4/20/2000 -- Colorado at Arizona (N)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Hunter B, cf          3  0  0  0   Womack T, ss          4  0  1  0   
+Lansing M, 2b         4  0  0  0   Bell J, 2b            3  1  0  0   
+Walker L, rf          3  0  0  0   Gonzalez L, lf        2  0  0  0   
+Cirillo J, 3b         2  0  0  0   Durazo E, 1b          3  0  1  0   
+Ledesma A, ph-3b      2  0  0  0   Finley S, cf          3  1  1  0   
+Helton T, 1b          4  0  1  0   Lee T, rf             3  1  1  0   
+Shumpert T, lf        3  0  0  0   Miller D, c           3  0  0  0   
+Perez N, ss           3  0  2  0   Fox A, 3b             3  0  0  0   
+Petrick B, c          3  0  1  0   Johnson R, p          4  0  1  1   
+Arrojo R, p           0  0  0  0                                      
+Bohanon B, p          1  0  0  0                                      
+Manto J, ph           0  0  0  0                                      
+Dipoto J, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  0  4  0                        28  3  5  1
+
+Colorado         000 000 000 --  0
+Arizona          100 002 00x --  3
+
+  Colorado             IP  H  R ER BB SO
+Arrojo R (L)*         1.0  1  1  0  2  1
+Bohanon B             6.0  4  2  1  6  3
+Dipoto J              1.0  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         9.0  4  0  0  3  8
+  * Pitched to 2 batters in 2nd
+
+E -- Arrojo R
+DP -- Colorado 1, Arizona 1
+LOB -- Colorado 5, Arizona 9
+2B -- Helton T, Petrick B
+SB -- Womack T
+SH -- Bohanon B
+PB -- Petrick B 2
+T -- 2:26
+A -- 34458
+     Game of 4/21/2000 -- San Francisco at Arizona (N)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Benard M, cf-rf       4  3  3  4   Womack T, ss          4  0  2  0   
+Mueller B, 3b         4  1  2  1   Morgan M, p           0  0  0  0   
+Bonds B, lf           3  1  1  0   Gilkey B, ph          1  0  0  0   
+Rios A, pr-lf         2  1  1  1   Swindell G, p         0  0  0  0   
+Kent J, 2b            5  1  3  5   Bell J, 2b            5  1  1  1   
+Crespo F, 2b          0  0  0  0   Gonzalez L, lf        5  1  3  0   
+Snow J, 1b            4  1  1  0   Durazo E, 1b          4  1  2  1   
+Burks E, rf           3  0  0  0   Finley S, cf          4  1  2  0   
+Murray C, cf          0  0  0  0   Lee T, rf             5  0  1  1   
+Aurilia R, ss         5  1  2  0   Stinnett K, c         4  1  1  1   
+Embree A, p           0  0  0  0   Harris L, 3b          2  0  0  0   
+Johnstone J, p        0  0  0  0   Plesac D, p           0  0  0  0   
+Mirabelli D, c        4  0  0  0   Colbrunn G, ph        1  0  0  0   
+Ortiz R, p            3  2  2  0   Frias H, ss           1  0  0  0   
+Martinez R, ss        1  0  1  0   Stottlemyre T, p      1  0  0  0   
+                                   Springer R, p         0  0  0  0   
+                                   Fox A, 3b             1  0  0  1   
+                                   Klassen D, ph-3b      1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38 11 16 11                        39  5 12  5
+
+San Francisco    103 320 200 -- 11
+Arizona          010 001 201 --  5
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (W)           7.0 10  4  4  4  5
+Embree A              1.0  0  0  0  0  1
+Johnstone J           1.0  2  1  1  0  1
+
+  Arizona              IP  H  R ER BB SO
+Stottlemyre T (L)     3.2  8  7  7  3  1
+Springer R            1.0  1  2  1  3  1
+Plesac D              1.1  1  0  0  2  1
+Morgan M              2.0  4  2  2  1  1
+Swindell G            1.0  2  0  0  0  1
+
+E -- Durazo E, Murray C
+DP -- Arizona 2
+LOB -- San Francisco 10, Arizona 11
+2B -- Kent J, Gonzalez L 2, Ortiz R, Womack T, Durazo E 2, Rios A, Lee T
+HR -- Mueller B, Stinnett K, Benard M, Kent J, Bell J
+CS -- Womack T, Kent J
+SH -- Mueller B
+T -- 3:07
+A -- 40929
+     Game of 4/22/2000 -- San Francisco at Arizona (D)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Murray C, cf          2  1  0  0   Frias H, ss           4  0  0  0   
+Mueller B, 3b         4  2  1  0   Durazo E, ph          1  0  0  0   
+Bonds B, lf           4  2  1  2   Bell J, 2b            3  2  1  0   
+Kent J, 2b            5  1  1  2   Gonzalez L, lf        4  2  1  2   
+Burks E, rf           3  2  1  1   Colbrunn G, 1b        3  1  2  1   
+Davis R, 1b           2  0  1  0   Finley S, cf          4  1  1  2   
+Snow J, 1b            2  0  0  0   Gilkey B, rf          3  0  0  0   
+Aurilia R, ss         3  0  2  1   Kim B, p              0  0  0  0   
+Mirabelli D, c        2  0  0  1   Harris L, ph          1  0  0  1   
+Rueter K, p           3  0  0  0   Mantei M, p           0  0  0  0   
+Benard M, ph          1  0  0  0   Miller D, c           3  0  1  0   
+Johnstone J, p        0  0  0  0   Stinnett K, pr-c      1  0  0  0   
+Fultz A, p            0  0  0  0   Klassen D, 3b         3  0  0  0   
+Nen R, p              0  0  0  0   Fox A, ph             1  0  0  0   
+                                   Daal O, p             2  0  0  0   
+                                   Lee T, rf             2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  8  7  7                        35  6  7  6
+
+San Francisco    012 002 300 --  8
+Arizona          202 000 020 --  6
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (W)          7.0  4  4  4  2  6
+Johnstone J*          0.0  2  2  2  1  0
+Fultz A               1.0  0  0  0  0  1
+Nen R (S)             1.0  1  0  0  1  3
+
+  Arizona              IP  H  R ER BB SO
+Daal O (L)            6.0  5  5  3  5  3
+Kim B                 2.0  2  3  2  2  1
+Mantei M              1.0  0  0  0  1  1
+  * Pitched to 3 batters in 8th
+
+E -- Davis R, Bell J, Frias H 2
+DP -- Arizona 2
+LOB -- San Francisco 7, Arizona 6
+2B -- Colbrunn G 2, Burks E, Kent J, Miller D, Aurilia R, Lee T
+HR -- Gonzalez L, Bonds B, Finley S
+SB -- Burks E
+CS -- Davis R
+SH -- Mirabelli D
+SF -- Burks E
+HBP -- by Kim B (Mueller B)
+T -- 2:53
+A -- 45659
+     Game of 4/23/2000 -- San Francisco at Arizona (D)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Benard M, cf-lf       5  2  2  0   Womack T, ss          5  1  1  0   
+Mueller B, 3b         4  1  1  2   Bell J, 2b            4  0  0  0   
+Bonds B, lf           5  2  3  2   Gonzalez L, lf        4  2  2  2   
+Embree A, p           0  0  0  0   Durazo E, 1b          4  3  2  2   
+Kent J, 2b            5  2  2  1   Finley S, cf          4  1  1  0   
+Snow J, 1b            5  1  1  1   Lee T, rf             5  0  2  2   
+Burks E, rf           3  1  1  0   Stinnett K, c         4  0  1  0   
+Aurilia R, ss         4  2  2  3   Fox A, 3b             4  0  1  1   
+Estalella B, c        3  1  2  2   Reynoso A, p          0  0  0  0   
+Nathan J, p           2  0  0  0   Anderson B, p         1  0  0  0   
+Fultz A, p            0  0  0  0   Frias H, ph           0  0  0  0   
+Davis R, ph           1  0  0  0   Morgan M, p           0  0  0  0   
+Johnstone J, p        0  0  0  0   Gilkey B, ph          1  0  0  0   
+Murray C, cf          0  0  0  0   Swindell G, p         0  0  0  0   
+                                   Harris L, ph          1  0  1  0   
+                                   Plesac D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37 12 14 11                        37  7 11  7
+
+San Francisco    800 010 012 -- 12
+Arizona          400 020 001 --  7
+
+  San Francisco        IP  H  R ER BB SO
+Nathan J (W)          5.0  7  6  6  3  0
+Fultz A               2.0  1  0  0  0  0
+Johnstone J           1.0  2  0  0  0  2
+Embree A              1.0  1  1  1  1  1
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (L)*        0.0  6  7  7  1  0
+Anderson B            4.0  3  1  1  0  1
+Morgan M              2.0  1  1  1  1  1
+Swindell G            2.0  2  1  1  0  2
+Plesac D              1.0  2  2  2  0  0
+  * Pitched to 7 batters in 1st
+
+DP -- San Francisco 1, Arizona 2
+LOB -- San Francisco 2, Arizona 9
+2B -- Snow J, Womack T, Durazo E, Fox A, Lee T
+HR -- Mueller B, Estalella B, Durazo E, Kent J, Gonzalez L, Aurilia R, Bonds B
+SB -- Harris L, Fox A
+SH -- Nathan J, Mueller B
+HBP -- by Nathan J (Stinnett K), by Fultz A (Finley S)
+Balk -- Anderson B
+T -- 3:09
+A -- 35879
+     Game of 5/5/2000 -- San Diego at Arizona (N)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Jackson D, ss         3  0  1  0   Frias H, ss           5  1  1  1   
+Owens E, rf           4  1  1  0   Bell J, 2b            3  0  0  0   
+Roskos J, lf          4  0  0  0   Gonzalez L, lf        4  0  0  0   
+Nevin P, 3b           3  0  0  1   Colbrunn G, 1b        3  1  1  1   
+Sprague E, 1b         4  1  2  2   Finley S, cf          3  1  1  0   
+Boone B, 2b           3  0  0  0   Gilkey B, rf          4  0  0  0   
+Hernandez C, c        4  0  0  0   Miller D, c           3  1  2  1   
+Rivera R, cf          4  0  0  0   Klassen D, 3b         4  1  1  1   
+Hitchcock S, p        1  0  0  0   Johnson R, p          3  0  2  1   
+Gomez C, ph           1  1  1  0                                      
+Palacios V, p         0  0  0  0                                      
+Gonzalez W, ph        1  0  0  0                                      
+Almanzar C, p         0  0  0  0                                      
+Walker K, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  5  3                        32  5  8  5
+
+San Diego        000 002 001 --  3
+Arizona          121 000 01x --  5
+
+  San Diego            IP  H  R ER BB SO
+Hitchcock S (L)       5.0  4  4  4  2  1
+Palacios V            1.0  1  0  0  1  2
+Almanzar C            1.0  0  0  0  0  0
+Walker K              1.0  3  1  1  0  1
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         9.0  5  3  1  3 11
+
+E -- Nevin P, Frias H 2
+DP -- San Diego 1, Arizona 2
+LOB -- San Diego 5, Arizona 8
+2B -- Jackson D
+HR -- Frias H, Miller D, Klassen D, Colbrunn G, Sprague E
+SB -- Bell J
+HBP -- by Hitchcock S (Finley S), by Hitchcock S (Johnson R)
+T -- 2:28
+A -- 42297
+     Game of 5/6/2000 -- San Diego at Arizona (D)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Martin A, lf          4  0  0  0   Womack T, ss          5  2  2  0   
+Jackson D, ss         3  0  0  0   Bell J, 2b            5  0  2  2   
+Owens E, rf           4  0  0  0   Gonzalez L, lf        3  0  0  1   
+Nevin P, 3b           4  1  2  0   Durazo E, 1b          4  1  2  2   
+Sprague E, 1b         4  3  4  2   Finley S, cf          2  2  1  1   
+Boone B, 2b           4  1  2  3   Lee T, rf             3  1  0  0   
+Gonzalez W, c         4  0  0  0   Stinnett K, c         4  1  2  1   
+Rivera R, cf          4  0  0  0   Fox A, 3b             4  2  1  0   
+Lopez R, p            1  0  0  0   Anderson B, p         2  1  1  1   
+Walker K, p           1  0  0  0   Colbrunn G, ph        1  0  1  2   
+Palacios V, p         0  0  0  0   Kim B, p              0  0  0  0   
+Roskos J, ph          1  0  0  0   Springer R, p         0  0  0  0   
+Whisenant M, p        0  0  0  0                                      
+Myers R, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  5  8  5                        33 10 12 10
+
+San Diego        010 300 001 --  5
+Arizona          060 200 20x -- 10
+
+  San Diego            IP  H  R ER BB SO
+Lopez R (L)           1.2  6  6  6  2  0
+Walker K              2.1  3  2  2  1  1
+Palacios V            2.0  1  0  0  1  0
+Whisenant M           1.0  2  2  2  1  0
+Myers R               1.0  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (W)        7.0  7  4  4  1  1
+Kim B                 1.0  0  0  0  0  3
+Springer R            1.0  1  1  1  0  1
+
+DP -- Arizona 1
+LOB -- San Diego 3, Arizona 6
+2B -- Finley S, Sprague E, Colbrunn G
+HR -- Sprague E 2, Durazo E, Boone B
+SB -- Boone B
+CS -- Womack T
+SF -- Anderson B, Finley S
+T -- 2:43
+A -- 36827
+     Game of 5/7/2000 -- San Diego at Arizona (D)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Martin A, lf          4  1  2  0   Womack T, ss          5  2  2  1   
+Rivera R, lf          1  0  0  0   Bell J, 2b            2  1  1  0   
+Jackson D, ss         4  0  0  0   Gonzalez L, lf        3  1  2  2   
+Gomez C, ss           0  0  0  0   Durazo E, 1b          4  1  1  0   
+Klesko R, rf          3  0  1  1   Finley S, cf          3  0  1  3   
+Nevin P, 3b           4  0  1  0   Lee T, rf             4  1  1  1   
+Wall D, p             0  0  0  0   Miller D, c           4  0  1  1   
+Sprague E, 1b         4  0  0  0   Harris L, 3b          4  1  1  0   
+Boone B, 2b           3  0  1  0   Stottlemyre T, p      2  1  1  0   
+Owens E, cf           4  0  2  0   Swindell G, p         0  0  0  0   
+Hernandez C, c        3  0  1  0   Gilkey B, ph          1  0  0  0   
+Clement M, p          2  0  0  0   Padilla V, p          0  0  0  0   
+Almanzar C, p         0  0  0  0                                      
+DeHaan K, ph          0  0  0  0                                      
+Roskos J, ph          1  0  0  0                                      
+Whisenant M, p        0  0  0  0                                      
+Magadan D, 3b         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  1  8  1                        32  8 11  8
+
+San Diego        001 000 000 --  1
+Arizona          100 070 00x --  8
+
+  San Diego            IP  H  R ER BB SO
+Clement M (L)         4.2  9  8  8  5  1
+Almanzar C            0.1  1  0  0  0  0
+Whisenant M           2.0  1  0  0  0  1
+Wall D                1.0  0  0  0  1  1
+
+  Arizona              IP  H  R ER BB SO
+Stottlemyre T (W)     5.2  7  1  1  2  7
+Swindell G            1.1  0  0  0  0  1
+Padilla V             2.0  1  0  0  0  3
+
+DP -- San Diego 1
+LOB -- San Diego 9, Arizona 8
+2B -- Miller D, Womack T, Gonzalez L
+SB -- Martin A, Owens E
+CS -- Martin A
+SF -- Finley S
+HBP -- by Stottlemyre T (Boone B), by Almanzar C (Bell J)
+WP -- Clement M 2
+T -- 2:51
+A -- 38060
+     Game of 5/8/2000 -- Los Angeles at Arizona (N)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+Santangelo F, cf-lf   2  0  0  1   Womack T, ss          6  2  2  1   
+Grudzielanek M, 2b    5  0  0  0   Bell J, 2b            6  2  3  0   
+Green S, rf           3  1  1  0   Frias H, pr-2b        0  0  0  0   
+Hollandsworth T, cf   2  0  0  0   Gonzalez L, lf        6  3  3  1   
+Sheffield G, lf       3  1  1  0   Durazo E, 1b          4  1  0  1   
+Mills A, p            1  0  0  0   Finley S, cf          5  2  2  2   
+Karros E, 1b          3  1  1  0   Lee T, rf             4  3  3  4   
+Beltre A, 3b          4  2  2  3   Stinnett K, c         4  1  1  1   
+Hundley T, c          3  1  1  2   Fox A, 3b             5  1  4  4   
+Kreuter C, c          0  0  0  0   Daal O, p             3  0  2  1   
+Vizcaino J, ss        4  0  0  0   Gilkey B, ph          1  0  0  0   
+Park C, p             1  0  0  0   Plesac D, p           0  0  0  0   
+Herges M, p           1  0  0  0   Springer R, p         0  0  0  0   
+Berroa G, rf          1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  7  7  6                        44 15 20 15
+
+Los Angeles      020 201 110 --  7
+Arizona          500 550 00x -- 15
+
+  Los Angeles          IP  H  R ER BB SO
+Park C (L)            3.1  9  8  8  2  2
+Herges M              1.2  8  7  7  2  0
+Mills A               3.0  3  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Daal O (W)            7.0  6  6  6  2  1
+Plesac D              1.0  1  1  0  1  0
+Springer R            1.0  0  0  0  2  0
+
+E -- Fox A
+DP -- Arizona 1
+LOB -- Los Angeles 5, Arizona 10
+2B -- Bell J 2, Sheffield G, Lee T, Stinnett K, Green S, Gonzalez L, Karros E
+3B -- Berroa G
+HR -- Beltre A, Hundley T, Womack T, Finley S, Fox A
+SH -- Daal O
+SF -- Santangelo F
+WP -- Mills A
+T -- 2:56
+A -- 33338
+     Game of 5/9/2000 -- Los Angeles at Arizona (N)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+Hollandsworth T, cf   7  1  2  2   Womack T, ss          6  1  2  0   
+Grudzielanek M, 2b    6  1  1  0   Bell J, 2b            6  3  3  0   
+Hershiser O, p        0  0  0  0   Gonzalez L, lf        4  2  1  2   
+Sheffield G, lf       4  2  2  1   Colbrunn G, 1b        3  0  0  0   
+Green S, rf           3  2  2  0   Durazo E, ph-1b       2  1  1  0   
+Karros E, 1b          4  0  1  1   Finley S, cf          5  0  2  3   
+Hundley T, c          5  0  2  2   Lee T, rf             4  0  1  0   
+Beltre A, 3b          6  0  1  1   Kim B, p              0  0  0  0   
+Cora A, ss            6  1  3  0   Frias H, ph           0  0  0  0   
+Perez C, p            3  0  0  0   Padilla V, p          0  0  0  0   
+Berroa G, ph          0  0  0  0   Stinnett K, ph        0  1  0  0   
+Adams T, p            0  0  0  0   Miller D, c           6  2  2  5   
+Shaw J, p             0  0  0  0   Klassen D, 3b         5  1  2  0   
+Hansen D, ph          1  0  0  0   Reynoso A, p          1  0  0  0   
+Osuna A, p            0  0  0  0   Springer R, p         0  0  0  0   
+Vizcaino J, ph-2b     1  0  1  0   Gilkey B, ph          1  0  0  0   
+                                   Morgan M, p           0  0  0  0   
+                                   Harris L, ph          1  0  0  0   
+                                   Swindell G, p         0  0  0  0   
+                                   Fox A, rf             2  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     46  7 15  7                        46 11 15 11
+
+Los Angeles      302 010 000 001 --  7
+Arizona          210 000 021 005 -- 11
+  1 out when winning run was scored.
+
+  Los Angeles          IP  H  R ER BB SO
+Perez C               7.0  6  3  3  0  2
+Adams T               1.0  3  2  2  1  1
+Shaw J                1.0  2  1  1  0  0
+Osuna A               2.0  1  0  0  1  3
+Hershiser O (L)       0.1  3  5  5  1  0
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A             4.1  7  6  6  4  1
+Springer R            0.2  1  0  0  0  0
+Morgan M              2.0  1  0  0  2  2
+Swindell G            1.1  2  0  0  2  2
+Kim B                 1.2  1  0  0  0  4
+Padilla V (W)         2.0  3  1  1  1  1
+
+DP -- Los Angeles 2, Arizona 3
+LOB -- Los Angeles 13, Arizona 7
+2B -- Green S, Grudzielanek M, Klassen D, Finley S
+3B -- Bell J
+HR -- Hollandsworth T, Sheffield G, Gonzalez L, Miller D 2
+SB -- Green S 2, Hollandsworth T, Sheffield G
+SF -- Karros E, Finley S
+HBP -- by Perez C (Gonzalez L), by Hershiser O (Stinnett K)
+WP -- Perez C
+PB -- Hundley T
+T -- 4:12
+A -- 32326
+     Game of 5/10/2000 -- Los Angeles at Arizona (N)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+Santangelo F, cf      4  0  1  0   Womack T, ss          5  0  1  1   
+Hollandsworth, ph-cf  1  0  0  0   Bell J, 2b            3  1  2  0   
+Grudzielanek M, 2b    3  0  0  0   Gonzalez L, lf        3  0  3  1   
+Green S, rf           4  0  3  0   Durazo E, 1b          4  0  0  0   
+Sheffield G, lf       4  0  0  0   Finley S, cf          3  0  1  0   
+Karros E, 1b          4  0  1  0   Gilkey B, rf          4  0  0  0   
+Beltre A, 3b          4  0  0  0   Kim B, p              0  0  0  0   
+Hundley T, c          4  1  1  1   Stinnett K, c         4  0  0  0   
+Vizcaino J, ss        4  0  3  0   Fox A, 3b             4  1  1  0   
+Brown K, p            2  0  0  0   Johnson R, p          3  0  0  0   
+Hansen D, ph          1  0  0  0   Lee T, rf             1  0  1  0   
+Adams T, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  1  9  1                        34  2  9  2
+
+Los Angeles      010 000 000 --  1
+Arizona          000 000 101 --  2
+  0 outs when winning run was scored.
+
+  Los Angeles          IP  H  R ER BB SO
+Brown K               8.0  6  1  1  3  6
+Adams T (L)           0.0  3  1  1  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R             8.0  8  1  1  1 13
+Kim B (W)             1.0  1  0  0  0  3
+
+E -- Beltre A, Kim B
+LOB -- Los Angeles 9, Arizona 11
+2B -- Finley S, Vizcaino J, Karros E, Gonzalez L
+HR -- Hundley T
+CS -- Green S
+SH -- Brown K
+WP -- Johnson R
+T -- 3:01
+A -- 43345
+     Game of 5/23/2000 -- Pittsburgh at Arizona (N)
+
+  Pittsburgh         AB  R  H RBI    Arizona            AB  R  H RBI
+Morris W, 2b          4  0  1  0   Womack T, ss          4  1  1  0   
+Kendall J, c          3  1  2  0   Bell J, 2b            5  1  2  1   
+Cordero W, lf         3  0  1  1   Gonzalez L, lf        3  2  3  1   
+Giles B, cf           4  0  1  0   Williams M, 3b        4  1  2  0   
+Young K, 1b           4  0  0  0   Finley S, cf          2  1  2  4   
+Aven B, rf            3  0  1  0   Colbrunn G, 1b        4  0  1  0   
+Manzanillo J, p       0  0  0  0   Miller D, c           3  0  0  0   
+Meares P, ss          3  0  0  0   Gilkey B, rf          3  0  0  0   
+Benjamin M, 3b        3  0  1  0   Mantei M, p           0  0  0  0   
+Anderson J, p         2  0  0  0   Anderson B, p         3  0  0  0   
+Loiselle R, p         0  0  0  0   Lee T, ph-rf          1  0  0  0   
+Brown A, rf           1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  8  1                        32  6 11  6
+
+Pittsburgh       100 000 000 --  1
+Arizona          300 030 00x --  6
+
+  Pittsburgh           IP  H  R ER BB SO
+Anderson J (L)        4.1  7  6  6  2  2
+Loiselle R            1.2  3  0  0  1  1
+Manzanillo J          2.0  1  0  0  1  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (W)        8.0  8  1  1  0  3
+Mantei M              1.0  0  0  0  1  0
+
+DP -- Pittsburgh 2, Arizona 3
+LOB -- Pittsburgh 4, Arizona 8
+2B -- Gonzalez L, Colbrunn G
+3B -- Kendall J, Bell J
+HR -- Finley S
+SF -- Cordero W, Finley S
+HBP -- by Anderson J (Womack T)
+T -- 2:17
+A -- 31726
+     Game of 5/24/2000 -- Pittsburgh at Arizona (N)
+
+  Pittsburgh         AB  R  H RBI    Arizona            AB  R  H RBI
+Morris W, 2b          4  0  0  0   Womack T, ss          4  1  1  1   
+Kendall J, c          4  0  1  0   Bell J, 2b            3  1  0  0   
+Cordero W, lf         3  1  0  0   Gonzalez L, lf        4  1  2  1   
+Giles B, cf           3  2  3  2   Williams M, 3b        4  0  1  0   
+Young K, 1b           4  1  1  0   Finley S, cf          4  1  2  2   
+Vander Wal J, rf      3  1  1  3   Durazo E, 1b          3  1  0  0   
+Meares P, ss          4  0  0  0   Morgan M, p           0  0  0  0   
+Sojo L, 3b            4  0  2  0   Kim B, p              0  0  0  0   
+Benjamin M, pr        0  0  0  0   Lee T, rf             3  0  1  1   
+Schmidt J, p          3  0  0  0   Gilkey B, rf          1  0  0  0   
+Wallace J, p          0  0  0  0   Stinnett K, c         3  0  0  0   
+Silva J, p            0  0  0  0   Stottlemyre T, p      2  0  1  1   
+Sauerbeck S, p        0  0  0  0   Harris L, ph          1  1  1  0   
+Christiansen J, p     0  0  0  0   Colbrunn G, 1b        1  0  0  0   
+Cruz I, ph            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  5  8  5                        33  6  9  6
+
+Pittsburgh       030 000 020 --  5
+Arizona          020 000 40x --  6
+
+  Pittsburgh           IP  H  R ER BB SO
+Schmidt J (L)         6.1  7  5  5  3  7
+Wallace J*            0.0  1  1  1  0  0
+Silva J               0.1  1  0  0  0  1
+Sauerbeck S           0.1  0  0  0  0  0
+Christiansen J        1.0  0  0  0  0  2
+
+  Arizona              IP  H  R ER BB SO
+Stottlemyre T (W)     7.0  6  3  3  2  1
+Morgan M              0.1  1  2  2  1  0
+Kim B (S)             1.2  1  0  0  0  3
+  * Pitched to 1 batter in 7th
+
+DP -- Arizona 1
+LOB -- Pittsburgh 4, Arizona 6
+2B -- Gonzalez L, Giles B, Harris L, Finley S
+HR -- Vander Wal J, Giles B
+SB -- Kendall J
+CS -- Benjamin M
+T -- 2:54
+A -- 30462
+     Game of 5/25/2000 -- Pittsburgh at Arizona (N)
+
+  Pittsburgh         AB  R  H RBI    Arizona            AB  R  H RBI
+Benjamin M, 2b        5  0  0  0   Womack T, ss          4  1  1  1   
+Kendall J, c          4  2  1  0   Bell J, 2b            3  2  2  0   
+Cordero W, lf         4  0  1  0   Gonzalez L, lf        5  0  2  1   
+Giles B, cf           5  1  3  1   Williams M, 3b        4  1  1  0   
+Young K, 1b           3  1  2  1   Finley S, cf          3  1  2  2   
+Aven B, rf            4  1  1  3   Durazo E, 1b          3  0  1  1   
+Meares P, ss          3  0  1  0   Colbrunn G, ph-1b     1  0  0  0   
+Sojo L, 3b            4  0  0  0   Fox A, rf             4  0  1  1   
+Benson K, p           2  0  0  0   Miller D, c           3  1  1  0   
+Sauerbeck S, p        0  0  0  0   Daal O, p             2  0  0  0   
+Brown A, ph           1  0  0  0   Frias H, ph           1  1  1  0   
+Williams M, p         0  0  0  0   Morgan M, p           0  0  0  0   
+                                   Plesac D, p           0  0  0  0   
+                                   Springer R, p         1  0  0  0   
+                                   Mantei M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  5                        34  7 12  6
+
+Pittsburgh       000 030 101 --  5
+Arizona          201 002 20x --  7
+
+  Pittsburgh           IP  H  R ER BB SO
+Benson K (L)*         6.0  9  6  5  4  7
+Sauerbeck S           1.0  2  1  1  1  1
+Williams M            1.0  1  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Daal O (W)            6.0  6  3  3  4  1
+Morgan M              0.1  1  1  1  0  0
+Plesac D              0.1  0  0  0  0  0
+Springer R            1.1  1  0  0  0  2
+Mantei M (S)          1.0  1  1  1  1  0
+  * Pitched to 1 batter in 7th
+
+E -- Womack T, Aven B, Springer R
+DP -- Pittsburgh 1, Arizona 1
+LOB -- Pittsburgh 9, Arizona 8
+2B -- Finley S, Young K, Womack T, Fox A, Giles B
+3B -- Williams M
+HR -- Aven B
+SB -- Womack T
+CS -- Fox A
+HBP -- by Daal O (Meares P)
+T -- 2:49
+A -- 30759
+     Game of 5/26/2000 -- Milwaukee at Arizona (N)
+
+  Milwaukee          AB  R  H RBI    Arizona            AB  R  H RBI
+Belliard R, 2b        2  0  0  0   Womack T, ss          5  0  2  1   
+Lopez L, pr-2b        2  0  0  0   Bell J, 2b            4  1  1  1   
+Loretta M, ss         4  0  1  1   Gonzalez L, lf        4  0  0  0   
+Mouton J, lf-rf       4  0  1  0   Williams M, 3b        3  1  0  0   
+Woodard S, p          0  0  0  0   Finley S, cf          3  1  0  0   
+Hayes C, 1b           4  1  1  0   Durazo E, 1b          2  2  1  0   
+Hernandez J, 3b-lf    3  0  0  0   Ward T, rf            4  1  1  1   
+Mouton L, rf          2  0  1  0   Stinnett K, c         4  2  2  4   
+Berry S, 3b           2  0  0  0   Johnson R, p          3  1  2  1   
+Grissom M, cf         4  0  0  0   Swindell G, p         0  0  0  0   
+Blanco H, c           2  1  0  0   Gilkey B, ph          1  0  0  0   
+Burnitz J, rf         0  0  0  0   Springer R, p         0  0  0  0   
+Snyder J, p           1  0  0  0   Plesac D, p           0  0  0  0   
+Ramirez H, p          1  0  1  0                                      
+Casanova R, ph-c      1  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        33  9  9  8
+
+Milwaukee        000 000 011 --  2
+Arizona          602 001 00x --  9
+
+  Milwaukee            IP  H  R ER BB SO
+Snyder J (L)          3.0  6  8  8  4  1
+Ramirez H             4.0  3  1  1  1  0
+Woodard S             1.0  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         7.0  3  0  0  1  8
+Swindell G            1.0  2  1  1  1  1
+Springer R            0.2  1  1  1  3  1
+Plesac D              0.1  0  0  0  0  0
+
+DP -- Arizona 1
+LOB -- Milwaukee 8, Arizona 5
+2B -- Hayes C
+HR -- Stinnett K
+WP -- Snyder J
+T -- 2:27
+A -- 34846
+     Game of 5/27/2000 -- Milwaukee at Arizona (D)
+
+  Milwaukee          AB  R  H RBI    Arizona            AB  R  H RBI
+Belliard R, 2b        2  2  0  0   Womack T, ss          5  2  2  0   
+Loretta M, ss         3  0  2  1   Bell J, 2b            5  0  1  1   
+Burnitz J, rf         3  0  0  1   Gonzalez L, lf        3  1  1  1   
+Sweeney M, lf         3  0  2  1   Durazo E, 1b          2  1  1  0   
+Mouton J, ph-lf       1  0  0  0   Colbrunn G, ph-1b     1  0  0  0   
+Hernandez J, 3b       3  0  0  0   Finley S, cf          4  1  1  3   
+Grissom M, cf         4  0  1  0   Ward T, rf            5  1  2  0   
+Barker K, 1b          3  0  0  0   Fox A, 3b             5  1  3  0   
+De Los Santos V, p    0  0  0  0   Miller D, c           3  0  1  0   
+Weathers D, p         0  0  0  0   Reynoso A, p          2  0  1  0   
+Lopez L, ph           1  0  0  0   Gilkey B, ph          1  0  0  0   
+Blanco H, c           4  0  0  0   Morgan M, p           0  0  0  0   
+Bere J, p             2  1  1  0   Frias H, ph           1  0  1  2   
+Acevedo J, p          0  0  0  0   Plesac D, p           0  0  0  0   
+Hayes C, 1b           1  0  0  0   Kim B, p              0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  3  6  3                        37  7 14  7
+
+Milwaukee        100 020 000 --  3
+Arizona          100 021 21x --  7
+
+  Milwaukee            IP  H  R ER BB SO
+Bere J                4.2  7  3  3  4  3
+Acevedo J (L)         0.2  3  1  1  0  1
+De Los Santos V       1.1  3  2  2  1  2
+Weathers D            1.1  1  1  1  0  0
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (W)         6.0  6  3  2  2  2
+Morgan M              1.0  0  0  0  1  0
+Plesac D              0.1  0  0  0  0  0
+Kim B (S)             1.2  0  0  0  0  3
+
+E -- Fox A
+DP -- Milwaukee 1, Arizona 2
+LOB -- Milwaukee 5, Arizona 12
+2B -- Sweeney M 2, Womack T
+3B -- Bere J
+HR -- Finley S, Gonzalez L
+SH -- Loretta M
+SF -- Burnitz J
+HBP -- by Weathers D (Colbrunn G)
+Balk -- De Los Santos V
+T -- 3:24
+A -- 35163
+     Game of 5/28/2000 -- Milwaukee at Arizona (D)
+
+  Milwaukee          AB  R  H RBI    Arizona            AB  R  H RBI
+Belliard R, 2b        5  0  1  0   Womack T, ss          5  1  2  0   
+Loretta M, ss         5  0  0  0   Bell J, 2b            5  1  1  0   
+Burnitz J, rf         5  2  3  1   Gonzalez L, lf        2  0  0  0   
+Hayes C, 1b           4  2  3  0   Williams M, 3b        4  0  0  0   
+Hernandez J, 3b       5  0  2  0   Finley S, cf          5  1  1  0   
+Grissom M, cf         4  0  2  3   Durazo E, 1b          4  0  2  2   
+Mouton J, lf          5  0  0  0   Fox A, pr             0  0  0  0   
+Blanco H, c           4  0  0  0   Ward T, rf            5  0  1  1   
+Wright J, p           2  0  0  0   Stinnett K, c         3  0  1  0   
+Berry S, ph           1  0  0  0   Anderson B, p         3  0  0  0   
+Woodard S, p          0  0  0  0   Kim B, p              0  0  0  0   
+Sweeney M, ph         1  0  0  0   Harris L, ph          1  0  0  0   
+Wickman B, p          0  0  0  0   Mantei M, p           0  0  0  0   
+                                   Swindell G, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  4 11  4                        37  3  8  3
+
+Milwaukee        010 100 010 01 --  4
+Arizona          012 000 000 00 --  3
+
+  Milwaukee            IP  H  R ER BB SO
+Wright J              6.0  7  3  3  2  5
+Woodard S             3.0  0  0  0  1  3
+Wickman B (W)         2.0  1  0  0  0  2
+
+  Arizona              IP  H  R ER BB SO
+Anderson B            7.2  9  3  3  0  7
+Kim B                 1.1  0  0  0  0  3
+Mantei M              1.0  0  0  0  0  1
+Swindell G (L)        1.0  2  1  1  1  1
+
+DP -- Milwaukee 2, Arizona 2
+LOB -- Milwaukee 6, Arizona 7
+2B -- Hayes C, Finley S, Ward T, Grissom M
+HR -- Burnitz J
+SB -- Fox A
+CS -- Womack T, Gonzalez L
+SF -- Grissom M
+HBP -- by Wright J (Durazo E), by Woodard S (Gonzalez L), by Woodard S (Williams M)
+WP -- Woodard S
+T -- 3:37
+A -- 35121
+     Game of 5/29/2000 -- St. Louis at Arizona (D)
+
+  St. Louis          AB  R  H RBI    Arizona            AB  R  H RBI
+Vina F, 2b            5  0  1  2   Womack T, ss          4  0  3  0   
+Renteria E, ss        4  0  1  1   Bell J, 2b            4  0  0  0   
+Edmonds J, cf         3  0  0  0   Gonzalez L, lf        4  0  2  0   
+McGwire M, 1b         3  0  1  0   Durazo E, 1b          4  0  0  0   
+Lankford R, lf        2  1  0  0   Finley S, cf          4  0  1  0   
+Paquette C, 3b        4  0  0  0   Ward T, rf            4  0  0  0   
+Drew J, rf            3  1  0  0   Fox A, 3b             3  0  0  0   
+Matheny M, c          4  1  2  0   Swindell G, p         0  0  0  0   
+Stephenson G, p       1  0  0  0   Miller D, c           3  0  0  0   
+                                   Stottlemyre T, p      2  0  0  0   
+                                   Springer R, p         0  0  0  0   
+                                   Frias H, 3b           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  3  5  3                        33  0  6  0
+
+St. Louis        001 000 200 --  3
+Arizona          000 000 000 --  0
+
+  St. Louis            IP  H  R ER BB SO
+Stephenson G (W)      9.0  6  0  0  0  8
+
+  Arizona              IP  H  R ER BB SO
+Stottlemyre T (L)     5.1  2  1  1  3  4
+Springer R            1.2  1  2  2  3  2
+Swindell G            2.0  2  0  0  0  0
+
+LOB -- St. Louis 7, Arizona 6
+2B -- Womack T
+SB -- Lankford R
+CS -- Renteria E
+SH -- Stephenson G 2
+T -- 2:51
+A -- 47014
+     Game of 5/30/2000 -- St. Louis at Arizona (N)
+
+  St. Louis          AB  R  H RBI    Arizona            AB  R  H RBI
+Vina F, 2b            4  0  0  0   Womack T, ss          3  0  0  1   
+Renteria E, ss        5  0  2  1   Bell J, 2b            4  0  2  0   
+Edmonds J, cf         5  1  1  0   Gonzalez L, lf        3  0  2  0   
+McGwire M, 1b         2  2  0  0   Colbrunn G, 1b        4  0  0  0   
+Davis E, rf           3  1  2  0   Finley S, cf          2  0  0  0   
+Dunston S, lf         4  1  3  4   Gilkey B, rf          4  0  0  0   
+Drew J, lf            0  0  0  0   Stinnett K, c         4  0  0  0   
+Paquette C, 3b        4  0  1  0   Frias H, 3b           4  0  0  0   
+Matheny M, c          3  1  1  1   Daal O, p             2  1  1  0   
+Ankiel R, p           3  0  0  0   Morgan M, p           0  0  0  0   
+Morris M, p           0  0  0  0   Fox A, ph             1  0  0  0   
+                                   Plesac D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  6 10  6                        31  1  5  1
+
+St. Louis        000 014 001 --  6
+Arizona          000 001 000 --  1
+
+  St. Louis            IP  H  R ER BB SO
+Ankiel R (W)          6.0  3  1  0  2  5
+Morris M (S)          3.0  2  0  0  1  1
+
+  Arizona              IP  H  R ER BB SO
+Daal O (L)            6.2  7  5  5  3  4
+Morgan M              1.1  1  0  0  0  1
+Plesac D              1.0  2  1  1  0  1
+
+E -- Matheny M, Colbrunn G
+DP -- Arizona 1
+LOB -- St. Louis 6, Arizona 7
+2B -- Edmonds J
+3B -- Dunston S
+HR -- Dunston S
+SH -- Vina F, Morris M
+SF -- Matheny M, Womack T
+Balk -- Ankiel R
+T -- 2:23
+A -- 36180
+     Game of 5/31/2000 -- St. Louis at Arizona (N)
+
+  St. Louis          AB  R  H RBI    Arizona            AB  R  H RBI
+Polanco P, 2b-3b      4  0  2  0   Womack T, ss          4  0  1  1   
+Renteria E, ss        3  0  2  0   Bell J, 2b            2  1  0  1   
+Dunston S, lf         4  0  1  1   Gonzalez L, lf        3  1  1  0   
+McGwire M, 1b         4  1  1  1   Williams M, 3b        4  0  2  0   
+Davis E, rf           3  0  1  0   Finley S, cf          4  2  2  0   
+Vina F, ph-2b         1  0  0  0   Colbrunn G, 1b        4  0  1  1   
+Paquette C, 3b-rf     1  0  0  0   Ward T, rf            3  1  1  1   
+Edmonds J, ph         1  0  0  0   Miller D, c           3  1  0  0   
+Matheny M, c          3  0  0  0   Johnson R, p          2  0  0  0   
+Lankford R, ph        1  0  0  0   Kim B, p              0  0  0  0   
+Drew J, cf            4  0  2  0                                      
+Hentgen P, p          3  1  1  0                                      
+Matthews M, p         0  0  0  0                                      
+Thompson M, p         0  0  0  0                                      
+Veres D, p            0  0  0  0                                      
+Howard T, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2 10  2                        29  6  8  4
+
+St. Louis        000 010 010 --  2
+Arizona          100 200 21x --  6
+
+  St. Louis            IP  H  R ER BB SO
+Hentgen P (L)         6.1  6  5  5  2  4
+Matthews M*           0.0  1  0  0  0  0
+Thompson M            0.2  0  0  0  1  1
+Veres D               1.0  1  1  1  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         7.2  9  2  2  3 10
+Kim B (S)             1.1  1  0  0  0  3
+  * Pitched to 1 batter in 7th
+
+E -- Colbrunn G
+DP -- Arizona 2
+TP -- Arizona 1
+LOB -- St. Louis 7, Arizona 5
+2B -- Polanco P, Davis E, Williams M, Finley S
+HR -- McGwire M
+SB -- Ward T, Womack T
+CS -- Drew J
+SH -- Johnson R
+SF -- Ward T, Bell J
+WP -- Hentgen P, Veres D
+T -- 2:48
+A -- 39761
+     Game of 6/1/2000 -- St. Louis at Arizona (N)
+
+  St. Louis          AB  R  H RBI    Arizona            AB  R  H RBI
+Vina F, 2b            3  0  1  0   Womack T, ss          4  0  0  0   
+Polanco P, ss         4  0  0  0   Bell J, 2b            4  0  1  0   
+Dunston S, 1b         4  0  0  0   Gonzalez L, lf        4  1  1  1   
+Edmonds J, cf         4  0  1  0   Williams M, 3b        4  1  1  1   
+Lankford R, lf        3  0  1  0   Finley S, cf          3  1  2  1   
+Paquette C, 3b        3  0  1  0   Colbrunn G, 1b        3  1  1  0   
+Drew J, rf            4  0  0  0   Ward T, rf            3  0  0  0   
+Matheny M, c          2  0  0  0   Stinnett K, c         3  0  1  1   
+Renteria E, ph        1  0  0  0   Reynoso A, p          1  0  0  0   
+Benes A, p            0  0  0  0   Frias H, ph           0  0  0  0   
+Benes A, p            2  0  0  0   Padilla V, p          0  0  0  0   
+Radinsky S, p         0  0  0  0   Mantei M, p           0  0  0  0   
+Slocumb H, p          0  0  0  0                                      
+Howard T, ph          1  0  0  0                                      
+Marrero E, pr-c       0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  4  0                        29  4  7  4
+
+St. Louis        000 000 000 --  0
+Arizona          010 101 10x --  4
+
+  St. Louis            IP  H  R ER BB SO
+Benes A (L)           6.1  6  4  4  2  4
+Radinsky S*           0.0  0  0  0  1  0
+Slocumb H             0.2  0  0  0  0  1
+Benes A               1.0  1  0  0  1  1
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (W)         7.0  4  0  0  0  4
+Padilla V             1.0  0  0  0  0  2
+Mantei M              1.0  0  0  0  2  1
+  * Pitched to 1 batter in 7th
+
+E -- Paquette C, Colbrunn G
+DP -- St. Louis 2, Arizona 1
+LOB -- St. Louis 7, Arizona 6
+2B -- Stinnett K
+HR -- Williams M, Finley S, Gonzalez L
+SH -- Reynoso A
+HBP -- by Reynoso A (Vina F)
+T -- 2:56
+A -- 37131
+     Game of 6/9/2000 -- Anaheim at Arizona (N)
+
+  Anaheim            AB  R  H RBI    Arizona            AB  R  H RBI
+Erstad D, cf-lf       3  0  0  0   Womack T, ss          3  1  1  0   
+Stocker K, ss         4  0  0  0   Bell J, 2b            4  1  1  1   
+Vaughn M, 1b          4  0  2  0   Gonzalez L, lf        4  1  2  2   
+Salmon T, rf          4  0  0  0   Williams M, 3b        3  0  1  0   
+Glaus T, 3b           3  1  1  1   Finley S, cf          3  1  1  0   
+Molina B, c           4  0  0  0   Ward T, rf            3  0  0  0   
+Clemente E, lf        2  0  0  0   Lee T, 1b             4  0  1  0   
+Palmeiro O, ph        1  0  1  0   Stinnett K, c         3  0  0  0   
+Holtz M, p            0  0  0  0   Johnson R, p          2  0  0  0   
+Pote L, p             0  0  0  0   Frias H, ph           1  0  1  0   
+Gil B, 2b             2  0  0  0   Padilla V, p          0  0  0  0   
+Kennedy A, ph-2b      1  0  0  0   Plesac D, p           0  0  0  0   
+Cooper B, p           1  0  0  0   Gilkey B, ph          1  0  0  0   
+Spiezio S, ph         1  0  1  0   Kim B, p              0  0  0  0   
+Weaver E, p           0  0  0  0                                      
+Anderson G, cf        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        31  4  8  3
+
+Anaheim          010 000 000 --  1
+Arizona          000 040 00x --  4
+
+  Anaheim              IP  H  R ER BB SO
+Cooper B (L)          5.0  6  4  3  3  1
+Weaver E              1.0  1  0  0  0  0
+Holtz M               1.2  1  0  0  1  2
+Pote L                0.1  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         6.0  3  1  1  1  8
+Padilla V             1.0  1  0  0  0  1
+Plesac D              1.0  0  0  0  0  1
+Kim B (S)             1.0  1  0  0  0  0
+
+E -- Stinnett K, Vaughn M 2, Bell J
+DP -- Anaheim 1, Arizona 1
+LOB -- Anaheim 5, Arizona 8
+2B -- Finley S, Palmeiro O
+3B -- Womack T
+HR -- Glaus T, Gonzalez L
+SB -- Erstad D, Frias H
+CS -- Gonzalez L, Glaus T
+HBP -- by Cooper B (Womack T), by Johnson R (Erstad D)
+T -- 2:45
+A -- 39468
+     Game of 6/10/2000 -- Anaheim at Arizona (D)
+
+  Anaheim            AB  R  H RBI    Arizona            AB  R  H RBI
+Erstad D, lf          4  0  1  2   Womack T, ss          4  1  2  0   
+Palmeiro O, lf        0  0  0  0   Bell J, 2b            3  0  0  0   
+Gil B, ss             5  1  1  1   Counsell C, ph-2b     1  0  0  0   
+Vaughn M, 1b          5  1  1  0   Gonzalez L, lf        4  1  4  3   
+Salmon T, rf          5  2  2  2   Williams M, 3b        3  0  0  0   
+Pote L, p             0  0  0  0   Swindell G, p         0  0  0  0   
+Holtz M, p            0  0  0  0   Lee T, ph             1  0  0  0   
+Fyhrie M, p           0  0  0  0   Mantei M, p           0  0  0  0   
+Anderson G, cf        5  2  2  1   Finley S, cf          4  0  1  0   
+Glaus T, 3b           3  1  0  0   Colbrunn G, 1b        4  0  0  0   
+Spiezio S, 3b         1  0  0  0   Bautista D, rf        2  0  0  0   
+Walbeck M, c          5  2  2  1   Springer R, p         0  0  0  0   
+Kennedy A, 2b         4  1  3  1   Frias H, ph-3b        2  0  0  0   
+Washburn J, p         1  0  1  2   Miller D, c           3  0  0  0   
+Clemente E, rf        0  0  0  0   Daal O, p             0  0  0  0   
+                                   Gilkey B, ph          1  0  0  0   
+                                   Morgan M, p           0  0  0  0   
+                                   Ward T, rf            1  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38 10 13 10                        33  3  7  3
+
+Anaheim          033 301 000 -- 10
+Arizona          000 000 120 --  3
+
+  Anaheim              IP  H  R ER BB SO
+Washburn J (W)        7.0  5  1  1  0  6
+Pote L                0.2  2  2  2  1  0
+Holtz M               0.1  0  0  0  0  0
+Fyhrie M              1.0  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Daal O (L)            3.0  7  6  6  3  2
+Morgan M              2.0  4  3  3  1  1
+Springer R            2.0  2  1  1  0  0
+Swindell G            1.0  0  0  0  0  0
+Mantei M              1.0  0  0  0  0  3
+
+DP -- Anaheim 1
+LOB -- Anaheim 7, Arizona 4
+2B -- Gonzalez L 2, Walbeck M, Erstad D, Salmon T, Womack T
+HR -- Gil B, Salmon T, Anderson G, Gonzalez L
+SB -- Womack T
+SH -- Washburn J 2
+T -- 2:30
+A -- 35213
+     Game of 6/11/2000 -- Anaheim at Arizona (D)
+
+  Anaheim            AB  R  H RBI    Arizona            AB  R  H RBI
+Erstad D, lf          4  0  2  0   Womack T, ss          4  1  2  0   
+Gil B, ss             4  0  1  0   Bell J, 2b            3  0  1  0   
+Vaughn M, 1b          4  0  0  0   Gonzalez L, lf        3  0  0  0   
+Salmon T, rf          4  0  1  0   Williams M, 3b        4  0  0  1   
+Anderson G, cf        4  1  1  1   Finley S, cf          2  0  0  0   
+Glaus T, 3b           4  0  1  0   Colbrunn G, 1b        4  1  1  1   
+Molina B, c           4  1  1  0   Lee T, 1b             0  0  0  0   
+Kennedy A, 2b         2  0  0  0   Bautista D, rf        3  1  1  1   
+Schoeneweis S, p      3  0  1  1   Miller D, c           3  0  1  0   
+Levine A, p           0  0  0  0   Reynoso A, p          2  0  0  0   
+                                   Plesac D, p           0  0  0  0   
+                                   Gilkey B, ph          1  0  0  0   
+                                   Kim B, p              0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        29  3  6  3
+
+Anaheim          010 000 100 --  2
+Arizona          000 100 20x --  3
+
+  Anaheim              IP  H  R ER BB SO
+Schoeneweis S (L)*    7.0  6  3  3  3  4
+Levine A              1.0  0  0  0  1  0
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A             6.2  8  2  2  1  2
+Plesac D (W)          0.1  0  0  0  0  1
+Kim B (S)             2.0  0  0  0  0  5
+  * Pitched to 3 batters in 8th
+
+DP -- Anaheim 1, Arizona 1
+LOB -- Anaheim 5, Arizona 6
+2B -- Erstad D, Gil B, Molina B
+HR -- Anderson G, Colbrunn G, Bautista D
+SB -- Womack T
+T -- 2:29
+A -- 36349
+     Game of 6/19/2000 -- San Diego at Arizona (N)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Owens E, rf           4  0  1  0   Womack T, ss          5  0  1  0   
+Rivera R, cf          4  1  1  0   Bell J, 2b            3  1  0  0   
+Sprague E, 1b         4  0  1  0   Gonzalez L, lf        3  1  2  0   
+Nevin P, 3b           4  1  2  2   Williams M, 3b        4  0  1  0   
+Boone B, 2b           4  0  0  0   Finley S, cf          4  0  1  2   
+Hernandez C, c        3  0  0  0   Colbrunn G, 1b        1  0  0  0   
+Jackson D, lf         1  0  1  0   Lee T, rf             4  0  0  1   
+Gomez C, ss           3  0  0  0   Miller D, c           4  0  0  0   
+Spencer S, p          2  0  0  0   Johnson R, p          2  0  1  0   
+Reyes C, p            0  0  0  0   Counsell C, ph        1  0  0  0   
+Martin A, ph          1  0  0  0   Padilla V, p          0  0  0  0   
+Whiteside M, p        0  0  0  0   Bautista D, ph        1  1  1  0   
+Kolb B, p             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  6  2                        32  3  7  3
+
+San Diego        000 101 000 --  2
+Arizona          000 000 021 --  3
+  2 outs when winning run was scored.
+
+  San Diego            IP  H  R ER BB SO
+Spencer S             5.0  3  0  0  3  2
+Reyes C               2.0  1  0  0  0  1
+Whiteside M           0.1  2  2  2  1  1
+Kolb B (L)            1.1  1  1  1  4  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R             7.0  6  2  2  2  8
+Padilla V (W)         2.0  0  0  0  0  2
+
+DP -- Arizona 1
+LOB -- San Diego 3, Arizona 12
+2B -- Owens E, Jackson D, Nevin P
+HR -- Nevin P
+SB -- Jackson D
+CS -- Owens E, Bell J
+HBP -- by Reyes C (Colbrunn G)
+WP -- Kolb B 2
+Balk -- Johnson R
+T -- 2:48
+A -- 37336
+     Game of 6/20/2000 -- San Diego at Arizona (N)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Owens E, rf-lf        4  0  0  0   Womack T, ss          4  0  0  0   
+Martin A, lf          3  0  0  0   Bell J, 2b            3  0  0  0   
+Sprague E, ph         0  0  0  0   Counsell C, 2b        1  0  0  0   
+DeHaan K, pr-rf       0  0  0  0   Gonzalez L, lf        3  0  1  0   
+Klesko R, 1b          4  2  3  2   Williams M, 3b        3  0  0  0   
+Nevin P, 3b           4  0  1  0   Finley S, cf          3  0  1  0   
+Hernandez C, c        4  0  0  0   Colbrunn G, 1b        4  0  0  0   
+Boone B, 2b           4  1  1  0   Lee T, rf             3  1  0  0   
+Rivera R, cf          3  0  0  1   Stinnett K, c         3  0  0  0   
+Jackson D, ss         3  0  2  0   Stottlemyre T, p      1  0  0  0   
+Tollberg B, p         2  0  0  0   Plesac D, p           0  0  0  0   
+Magadan D, ph         1  0  0  0   Bautista D, ph        1  0  0  0   
+Walker K, p           0  0  0  0   Mantei M, p           0  0  0  0   
+Hoffman T, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  7  3                        29  1  2  0
+
+San Diego        000 111 000 --  3
+Arizona          000 010 000 --  1
+
+  San Diego            IP  H  R ER BB SO
+Tollberg B (W)        7.0  1  1  0  3  7
+Walker K              1.0  0  0  0  0  0
+Hoffman T (S)         1.0  1  0  0  1  2
+
+  Arizona              IP  H  R ER BB SO
+Stottlemyre T (L)     7.2  6  3  2  0 10
+Plesac D              0.1  0  0  0  1  1
+Mantei M              1.0  1  0  0  0  2
+
+E -- Stinnett K, Boone B
+LOB -- San Diego 4, Arizona 6
+2B -- Nevin P, Gonzalez L
+HR -- Klesko R 2
+SB -- Boone B, Jackson D, DeHaan K
+SH -- Stottlemyre T
+SF -- Rivera R
+T -- 2:30
+A -- 30011
+     Game of 6/21/2000 -- San Diego at Arizona (N)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Owens E, rf           3  3  2  2   Womack T, ss          6  1  4  1   
+Rivera R, cf          3  1  0  0   Counsell C, 3b        4  0  1  0   
+Magadan D, ph         1  0  0  0   Gonzalez L, lf        5  2  1  1   
+Sprague E, 1b         3  1  1  0   Finley S, cf          3  3  2  0   
+Klesko R, ph          1  1  1  2   Colbrunn G, 1b        2  0  0  0   
+Nevin P, 3b           4  1  1  1   Morgan M, p           1  0  0  0   
+Hernandez C, c        3  0  0  1   Gilkey B, ph          1  0  1  0   
+Whiteside M, p        0  0  0  0   Padilla V, p          0  0  0  0   
+DeHaan K, ph          1  0  0  0   Kim B, p              0  0  0  0   
+Boone B, 2b           3  0  1  2   Lee T, rf-1b          4  2  3  3   
+Jackson D, lf         3  0  0  0   Miller D, c           4  2  2  2   
+Reyes C, p            0  0  0  0   Frias H, 2b           3  1  0  0   
+Almanzar C, p         0  0  0  0   Daal O, p             2  0  1  2   
+Gonzalez W, c         1  0  0  0   Bautista D, rf        3  0  1  1   
+Gomez C, ss           4  0  1  0                                      
+Meadows B, p          1  0  0  0                                      
+Kolb B, p             1  1  0  0                                      
+Martin A, lf          2  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  8  8  8                        38 11 16 10
+
+San Diego        200 220 002 --  8
+Arizona          303 013 01x -- 11
+
+  San Diego            IP  H  R ER BB SO
+Meadows B*            2.0  6  6  5  2  1
+Kolb B+               2.0  1  0  0  2  1
+Reyes C (L)#          1.0  3  3  3  2  0
+Almanzar C            1.1  2  1  1  3  1
+Whiteside M           1.2  4  1  1  0  1
+
+  Arizona              IP  H  R ER BB SO
+Daal O**              4.0  4  6  4  3  2
+Morgan M (W)          3.0  2  0  0  1  1
+Padilla V             1.0  1  0  0  0  1
+Kim B                 1.0  1  2  1  0  3
+  * Pitched to 4 batters in 3rd
+  + Pitched to 1 batter in 5th
+  # Pitched to 2 batters in 6th
+  ** Pitched to 2 batters in 5th
+
+E -- Nevin P, Womack T, Sprague E, Lee T
+DP -- San Diego 3, Arizona 1
+LOB -- San Diego 6, Arizona 13
+2B -- Sprague E, Nevin P
+3B -- Womack T 2, Martin A
+HR -- Owens E, Miller D, Klesko R
+SB -- Womack T
+CS -- Owens E
+SF -- Boone B
+HBP -- by Daal O (Hernandez C), by Daal O (Owens E), by Meadows B (Colbrunn G)
+T -- 3:09
+A -- 33003
+     Game of 6/23/2000 -- Colorado at Arizona (N)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Goodwin T, cf         4  0  0  0   Womack T, ss          2  0  0  0   
+Lansing M, 2b         4  0  0  0   Bell J, 2b            4  0  0  0   
+Walker L, lf          2  0  1  0   Gonzalez L, lf        3  0  0  0   
+Cirillo J, 3b         3  0  0  0   Williams M, 3b        4  1  1  0   
+Helton T, 1b          3  0  0  0   Finley S, cf          3  0  1  0   
+Hammonds J, rf        3  0  1  0   Colbrunn G, 1b        1  0  0  1   
+Servais S, c          3  0  0  0   Lee T, 1b             1  0  0  0   
+Perez N, ss           3  0  0  0   Miller D, c           4  0  0  0   
+Tavarez J, p          0  0  0  0   Bautista D, rf        2  1  1  1   
+Bohanon B, p          2  0  0  0   Anderson B, p         3  0  2  0   
+Belinda S, p          0  0  0  0   Kim B, p              0  0  0  0   
+Myers M, p            0  0  0  0                                      
+Shumpert T, ss        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  0  2  0                        27  2  5  2
+
+Colorado         000 000 000 --  0
+Arizona          000 001 10x --  2
+
+  Colorado             IP  H  R ER BB SO
+Bohanon B (L)         6.1  5  2  1  4  4
+Belinda S             0.2  0  0  0  1  1
+Myers M               0.2  0  0  0  0  0
+Tavarez J             0.1  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (W)        8.0  2  0  0  1  1
+Kim B (S)             1.0  0  0  0  0  3
+
+E -- Hammonds J
+LOB -- Colorado 2, Arizona 8
+2B -- Anderson B
+HR -- Bautista D
+CS -- Hammonds J
+SH -- Womack T
+SF -- Colbrunn G
+T -- 2:16
+A -- 37089
+     Game of 6/24/2000 -- Colorado at Arizona (N)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Goodwin T, cf         4  1  1  1   Womack T, ss          4  0  1  0   
+Hunter B, lf          4  2  2  0   Bell J, 2b            4  0  1  0   
+Lansing M, 2b         4  0  1  1   Gonzalez L, lf        4  0  0  0   
+Cirillo J, 3b         3  0  0  1   Durazo E, 1b          3  0  0  0   
+Hammonds J, rf        3  0  1  0   Finley S, cf          4  0  1  0   
+Shumpert T, 1b        2  0  0  0   Lee T, rf             3  0  0  0   
+Helton T, 1b          1  0  0  0   Bautista D, ph        1  0  1  0   
+Servais S, c          3  0  0  0   Stinnett K, c         3  0  1  0   
+Perez N, ss           3  0  0  0   Frias H, ph           1  0  0  0   
+Yoshii M, p           1  1  1  0   Counsell C, 3b        3  0  2  0   
+White G, p            1  0  0  0   Johnson R, p          1  0  0  0   
+Bragg D, ph           1  0  0  0   Williams M, ph        1  0  0  0   
+Myers M, p            0  0  0  0   Springer R, p         0  0  0  0   
+Jimenez J, p          0  0  0  0   Swindell G, p         0  0  0  0   
+                                   Mantei M, p           0  0  0  0   
+                                   Colbrunn G, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  4  6  3                        33  0  7  0
+
+Colorado         000 130 000 --  4
+Arizona          000 000 000 --  0
+
+  Colorado             IP  H  R ER BB SO
+Yoshii M (W)          5.2  5  0  0  1  4
+White G               2.1  1  0  0  0  1
+Myers M               0.1  0  0  0  0  0
+Jimenez J             0.2  1  0  0  1  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (L)         7.0  5  4  3  2  6
+Springer R            0.2  1  0  0  0  0
+Swindell G            0.1  0  0  0  0  0
+Mantei M              1.0  0  0  0  1  1
+
+E -- Counsell C, Shumpert T
+DP -- Colorado 1
+LOB -- Colorado 5, Arizona 9
+2B -- Goodwin T, Bautista D
+SB -- Womack T, Hunter B 2, Hammonds J, Yoshii M
+CS -- Goodwin T, Perez N
+SH -- Yoshii M, Johnson R
+SF -- Cirillo J
+HBP -- by Johnson R (Shumpert T)
+WP -- Johnson R
+Balk -- Yoshii M
+T -- 3:06
+A -- 42559
+     Game of 6/25/2000 -- Colorado at Arizona (N)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Goodwin T, cf         5  0  1  0   Womack T, ss          5  1  2  2   
+Lansing M, 2b         4  0  1  0   Bell J, 2b            5  2  3  0   
+Walker L, lf          3  2  1  0   Gonzalez L, lf        5  2  3  1   
+Hammonds J, rf        3  0  2  1   Durazo E, 1b          4  1  1  3   
+Helton T, 1b          3  0  0  0   Bautista D, ph-rf     1  0  0  0   
+Cirillo J, 3b         3  1  1  1   Finley S, cf          3  0  1  1   
+Mayne B, c            4  0  1  0   Lee T, rf-1b          4  0  1  1   
+Perez N, ss           4  0  0  0   Miller D, c           3  1  1  0   
+Astacio P, p          1  0  0  0   Counsell C, 3b        3  1  0  0   
+Karl S, p             1  0  1  0   Stottlemyre T, p      0  0  0  0   
+Melhuse A, ph         1  0  0  0   Anderson B, ph        0  0  0  0   
+DeJean M, p           0  0  0  0   Morgan M, p           2  0  1  0   
+Myers M, p            0  0  0  0   Swindell G, p         0  0  0  0   
+Bragg D, ph           0  0  0  1   Frias H, ph           1  0  1  0   
+                                   Plesac D, p           0  0  0  0   
+                                   Padilla V, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  8  3                        36  8 14  8
+
+Colorado         100 001 001 --  3
+Arizona          600 101 00x --  8
+
+  Colorado             IP  H  R ER BB SO
+Astacio P (L)*        3.0  9  7  7  4  5
+Karl S                3.0  4  1  1  0  0
+DeJean M              1.0  1  0  0  0  0
+Myers M               1.0  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Stottlemyre T         1.0  2  1  1  0  0
+Morgan M (W)+         4.0  3  1  1  3  0
+Swindell G            2.0  1  0  0  0  1
+Plesac D              1.0  0  0  0  0  1
+Padilla V             1.0  2  1  1  0  1
+  * Pitched to 2 batters in 4th
+  + Pitched to 2 batters in 6th
+
+E -- Counsell C
+DP -- Arizona 1
+LOB -- Colorado 7, Arizona 9
+2B -- Goodwin T
+3B -- Walker L
+HR -- Durazo E
+SB -- Womack T
+CS -- Gonzalez L
+SF -- Finley S, Cirillo J, Bragg D
+T -- 2:47
+A -- 35887
+     Game of 6/26/2000 -- Houston at Arizona (N)
+
+  Houston            AB  R  H RBI    Arizona            AB  R  H RBI
+Lugo J, ss            4  0  1  0   Womack T, ss          5  0  0  0   
+Biggio C, 2b          4  0  1  0   Bell J, 2b            4  0  0  0   
+Bagwell J, 1b         4  0  0  0   Gonzalez L, lf        3  1  1  1   
+Berkman L, rf         4  1  2  1   Durazo E, 1b          2  0  0  0   
+Alou M, lf            3  0  0  0   Bautista D, ph-rf     1  0  1  0   
+Eusebio T, c          3  0  0  0   Finley S, cf          4  2  1  0   
+Truby C, 3b           3  0  1  0   Lee T, rf             3  0  1  0   
+Barker G, cf          3  0  0  0   Cabrera A, ph-1b      1  1  1  2   
+Dotel O, p            2  0  0  0   Klassen D, 3b         4  2  2  2   
+Valdes M, p           0  0  0  0   Miller D, c           3  0  1  1   
+Ward D, ph            1  0  0  0   Reynoso A, p          2  0  0  0   
+Perez Y, p            0  0  0  0   Kim B, p              0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        32  6  8  6
+
+Houston          000 010 000 --  1
+Arizona          000 013 02x --  6
+
+  Houston              IP  H  R ER BB SO
+Dotel O (L)           6.0  6  4  4  3 13
+Valdes M              1.0  0  0  0  0  1
+Perez Y               1.0  2  2  2  2  0
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (W)         7.1  5  1  1  0  2
+Kim B (S)             1.2  0  0  0  0  4
+
+DP -- Arizona 1
+LOB -- Houston 3, Arizona 7
+2B -- Finley S, Miller D, Bautista D
+HR -- Berkman L, Klassen D, Gonzalez L, Cabrera A
+SB -- Lee T, Barker G
+WP -- Dotel O
+PB -- Eusebio T
+T -- 2:44
+A -- 31388
+     Game of 6/27/2000 -- Houston at Arizona (N)
+
+  Houston            AB  R  H RBI    Arizona            AB  R  H RBI
+Lugo J, ss            4  2  0  0   Womack T, ss          5  0  1  0   
+Biggio C, 2b          5  1  1  0   Bell J, 2b            3  0  0  0   
+Bagwell J, 1b         4  3  3  2   Swindell G, p         0  0  0  0   
+Ward D, 1b            1  0  0  0   Mantei M, p           0  0  0  0   
+Hidalgo R, cf-rf      4  2  2  1   Colbrunn G, ph        1  0  0  0   
+Alou M, lf            5  2  4  4   Morgan M, p           0  0  0  0   
+Barker G, cf          0  0  0  0   Gonzalez L, lf        4  0  0  0   
+Berkman L, rf-lf      2  1  0  0   Finley S, cf          4  0  0  0   
+Meluskey M, c         5  1  3  4   Cabrera A, 1b         3  1  2  0   
+Eusebio T, c          0  0  0  0   Lee T, rf             2  0  0  0   
+Truby C, 3b           4  0  0  0   Springer R, p         0  0  0  0   
+Elarton S, p          4  0  0  0   Frias H, 2b           2  1  1  0   
+Mieske M, ph          1  0  0  0   Klassen D, 3b         3  1  0  0   
+Cabrera J, p          0  0  0  0   Stinnett K, c         4  0  2  3   
+                                   Daal O, p             1  1  1  1   
+                                   Bautista D, rf        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39 12 13 11                        35  4  8  4
+
+Houston          001 044 030 -- 12
+Arizona          001 000 003 --  4
+
+  Houston              IP  H  R ER BB SO
+Elarton S (W)         8.0  5  1  1  1  3
+Cabrera J             1.0  3  3  3  1  0
+
+  Arizona              IP  H  R ER BB SO
+Daal O (L)            4.1  6  5  4  5  2
+Springer R            1.0  3  4  4  1  1
+Swindell G            1.2  1  0  0  0  2
+Mantei M              1.0  2  3  2  1  0
+Morgan M              1.0  1  0  0  0  1
+
+E -- Daal O, Finley S, Stinnett K, Mantei M, Frias H
+DP -- Arizona 1
+LOB -- Houston 9, Arizona 6
+2B -- Bagwell J, Hidalgo R, Alou M, Meluskey M, Frias H, Stinnett K
+3B -- Cabrera A
+HR -- Daal O
+SB -- Lugo J
+HBP -- by Daal O (Biggio C), by Daal O (Hidalgo R)
+T -- 3:01
+A -- 30115
+     Game of 6/28/2000 -- Houston at Arizona (N)
+
+  Houston            AB  R  H RBI    Arizona            AB  R  H RBI
+Lugo J, ss            4  0  1  1   Womack T, ss          4  1  1  1   
+Biggio C, 2b          3  0  1  0   Bell J, 2b            4  0  1  1   
+Bagwell J, 1b         4  0  0  0   Gonzalez L, lf        4  1  1  0   
+Hidalgo R, cf         4  0  2  0   Finley S, cf          3  2  2  2   
+Alou M, lf            4  1  1  0   Cabrera A, 1b         3  0  1  1   
+Mieske M, rf          3  0  0  0   Lee T, rf             4  0  0  0   
+Eusebio T, c          4  0  1  1   Miller D, c           4  1  2  0   
+Truby C, 3b           4  1  2  0   Klassen D, 3b         3  1  1  0   
+Lima J, p             2  0  0  0   Anderson B, p         3  0  1  0   
+Slusarski J, p        0  0  0  0   Padilla V, p          0  0  0  0   
+Meluskey M, ph        1  0  0  0   Kim B, p              0  0  0  0   
+Henry D, p            0  0  0  0                                      
+Ward D, ph            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        32  6 10  5
+
+Houston          000 000 011 --  2
+Arizona          000 102 30x --  6
+
+  Houston              IP  H  R ER BB SO
+Lima J (L)*           6.0  8  5  5  1  4
+Slusarski J           1.0  2  1  1  0  1
+Henry D               1.0  0  0  0  0  2
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (W)        7.2  6  1  1  1  5
+Padilla V             0.2  2  1  1  1  2
+Kim B (S)             0.2  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Hidalgo R
+DP -- Houston 1
+LOB -- Houston 7, Arizona 4
+2B -- Finley S, Klassen D, Lugo J
+HR -- Finley S
+SB -- Womack T
+CS -- Finley S
+SF -- Cabrera A
+T -- 2:30
+A -- 29540
+     Game of 6/29/2000 -- Houston at Arizona (N)
+
+  Houston            AB  R  H RBI    Arizona            AB  R  H RBI
+Lugo J, ss            4  0  1  0   Womack T, ss          5  0  0  0   
+Biggio C, 2b          2  1  0  0   Bell J, 2b            4  1  1  1   
+Bagwell J, 1b         4  0  1  0   Gonzalez L, lf        3  1  1  0   
+Hidalgo R, cf         2  0  0  0   Finley S, cf          3  1  1  3   
+Alou M, lf            4  0  2  1   Colbrunn G, 1b        3  0  1  0   
+Mieske M, rf          2  0  0  0   Bautista D, rf        1  1  1  0   
+Berkman L, ph         1  0  0  0   Lee T, rf-1b          4  1  1  1   
+Eusebio T, c          3  0  0  0   Klassen D, 3b         4  1  1  1   
+Meluskey M, ph        1  0  0  0   Miller D, c           3  1  2  0   
+Truby C, 3b           3  0  1  0   Johnson R, p          3  0  0  0   
+Reynolds S, p         3  0  0  0   Conti J, ph           1  0  1  1   
+Valdes M, p           0  0  0  0   Mantei M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  1  5  1                        34  7 10  7
+
+Houston          000 100 000 --  1
+Arizona          004 000 03x --  7
+
+  Houston              IP  H  R ER BB SO
+Reynolds S (L)        7.2  8  6  6  2  6
+Valdes M              0.1  2  1  1  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         8.0  5  1  1  4 13
+Mantei M              1.0  0  0  0  0  2
+
+DP -- Arizona 1
+LOB -- Houston 6, Arizona 6
+2B -- Miller D 2, Bell J, Truby C, Lee T
+HR -- Finley S
+SB -- Lugo J, Bagwell J
+CS -- Lugo J
+HBP -- by Johnson R (Hidalgo R), by Valdes M (Miller D)
+T -- 2:41
+A -- 31518
+     Game of 6/30/2000 -- Cincinnati at Arizona (N)
+
+  Cincinnati         AB  R  H RBI    Arizona            AB  R  H RBI
+Larkin B, ss          5  0  2  0   Womack T, ss          5  1  1  0   
+Young D, lf           5  0  1  0   Bell J, 2b            3  2  1  2   
+Ochoa A, pr-lf        0  0  0  0   Gonzalez L, lf        4  1  1  0   
+Griffey K, cf         4  0  0  0   Finley S, cf          2  0  0  0   
+Bichette D, rf        4  3  3  0   Cabrera A, 1b         4  0  1  0   
+Casey S, 1b           4  1  2  0   Padilla V, p          0  0  0  0   
+Boone A, 3b           3  1  2  2   Lee T, rf-1b          4  0  1  0   
+Taubensee E, c        4  0  0  1   Klassen D, 3b         3  0  0  0   
+Santiago B, c         0  0  0  0   Counsell C, ph        1  0  1  0   
+Reese P, 2b           2  0  0  0   Stinnett K, c         4  0  0  0   
+Harnisch P, p         3  0  1  2   Morgan M, p           1  0  1  0   
+Sullivan S, p         0  0  0  0   Conti J, ph           0  0  0  0   
+Morris H, ph          1  0  0  0   Swindell G, p         0  0  0  0   
+Reyes D, p            0  0  0  0   Frias H, ph           1  0  0  0   
+Graves D, p           0  0  0  0   Mantei M, p           0  0  0  0   
+                                   Bautista D, rf        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5 11  5                        33  4  7  2
+
+Cincinnati       010 300 010 --  5
+Arizona          200 000 020 --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Harnisch P (W)        6.0  5  2  2  3  5
+Sullivan S            1.0  0  0  0  0  2
+Reyes D               0.1  1  2  2  1  1
+Graves D (S)          1.2  1  0  0  0  2
+
+  Arizona              IP  H  R ER BB SO
+Morgan M (L)          5.0  8  4  4  2  0
+Swindell G            2.0  0  0  0  0  0
+Mantei M              1.0  2  1  1  1  1
+Padilla V             1.0  1  0  0  0  1
+
+E -- Stinnett K
+DP -- Cincinnati 1
+LOB -- Cincinnati 7, Arizona 6
+2B -- Bichette D, Larkin B
+HR -- Bell J
+SB -- Bichette D, Boone A, Reese P
+CS -- Ochoa A
+SF -- Boone A
+WP -- Reyes D, Graves D
+Balk -- Graves D
+T -- 2:51
+A -- 38197
+     Game of 7/1/2000 -- Cincinnati at Arizona (D)
+
+  Cincinnati         AB  R  H RBI    Arizona            AB  R  H RBI
+Larkin B, ss          3  0  1  0   Womack T, ss          3  1  0  0   
+Tucker M, lf-cf       4  1  1  2   Bell J, 2b            5  3  3  0   
+Griffey K, cf         1  1  0  0   Gonzalez L, lf        3  3  2  2   
+Ochoa A, ph-lf        2  0  0  1   Finley S, cf          5  1  1  3   
+Bichette D, rf        4  1  1  2   Cabrera A, 1b         3  1  3  3   
+Casey S, 1b           4  0  0  0   Bautista D, pr-rf     2  0  1  0   
+Boone A, 3b           4  1  1  1   Lee T, rf-1b          4  0  0  0   
+Santiago B, c         3  0  0  0   Miller D, c           4  0  1  1   
+Taubensee E, ph       1  0  0  0   Counsell C, 3b        3  0  0  0   
+Reese P, 2b           1  0  1  0   Reynoso A, p          1  0  0  0   
+Stynes C, pr-2b       2  1  1  0   Springer R, p         1  0  0  0   
+Fernandez O, p        1  0  0  0   Plesac D, p           0  0  0  0   
+Aybar M, p            0  1  0  0   Padilla V, p          1  0  1  0   
+Reyes D, p            0  0  0  0   Kim B, p              0  0  0  0   
+Morris H, ph          1  0  0  0                                      
+Dessens E, p          0  0  0  0                                      
+Young D, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  6  6  6                        35  9 12  9
+
+Cincinnati       200 130 000 --  6
+Arizona          205 200 00x --  9
+
+  Cincinnati           IP  H  R ER BB SO
+Fernandez O (L)       2.1  7  7  7  2  1
+Aybar M               2.1  3  2  2  1  0
+Reyes D               1.1  1  0  0  1  0
+Dessens E             2.0  1  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A             4.1  5  6  6  1  0
+Springer R (W)*       1.2  1  0  0  0  0
+Plesac D              0.2  0  0  0  1  0
+Padilla V             1.1  0  0  0  0  0
+Kim B (S)             1.0  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Bichette D
+DP -- Arizona 1
+LOB -- Cincinnati 3, Arizona 8
+2B -- Bell J, Reese P, Gonzalez L, Cabrera A
+3B -- Bell J, Tucker M
+HR -- Bichette D, Finley S, Boone A
+SH -- Reynoso A
+HBP -- by Reynoso A (Griffey K), by Reynoso A (Reese P), by Aybar M (Womack T)
+WP -- Fernandez O, Aybar M
+T -- 3:08
+A -- 39385
+     Game of 7/2/2000 -- Cincinnati at Arizona (D)
+
+  Cincinnati         AB  R  H RBI    Arizona            AB  R  H RBI
+Stynes C, 2b          5  3  3  0   Womack T, ss          3  0  1  0   
+Larkin B, ss          4  3  4  0   Frias H, ss           2  0  1  1   
+Castro J, ss          2  0  0  0   Bell J, 2b            3  0  0  0   
+Griffey K, cf         4  1  1  2   Counsell C, 2b        1  0  0  0   
+Tucker M, cf          1  0  0  0   Gonzalez L, lf        3  0  1  0   
+Bichette D, rf        4  3  2  1   Swindell G, p         0  0  0  0   
+Boone A, 3b           5  3  3  5   Miller D, ph-1b       0  0  0  0   
+Young D, 1b           3  0  0  0   Colbrunn G, 1b        4  0  0  0   
+Morris H, ph-1b       3  0  2  1   Plesac D, p           0  0  0  0   
+Ochoa A, lf           5  1  3  3   Mantei M, p           0  0  0  0   
+Santiago B, c         4  0  0  1   Finley S, cf          1  1  1  1   
+Larkin A, p           0  0  0  0   Springer R, p         0  0  0  0   
+Neagle D, p           4  0  2  1   Lee T, ph-rf          2  0  0  0   
+Taubensee E, ph-c     1  0  0  0   Bautista D, rf-cf     4  0  0  0   
+                                   Klassen D, 3b         3  1  1  0   
+                                   Stinnett K, c         4  0  3  0   
+                                   Daal O, p             0  0  0  0   
+                                   Morgan M, p           1  0  1  0   
+                                   Conti J, rf-lf        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     45 14 20 14                        34  2  9  2
+
+Cincinnati       520 250 000 -- 14
+Arizona          000 100 100 --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Neagle D (W)          7.0  8  2  2  2  5
+Larkin A              2.0  1  0  0  0  2
+
+  Arizona              IP  H  R ER BB SO
+Daal O (L)            1.1  7  7  7  3  2
+Morgan M              3.0  9  5  5  0  3
+Springer R            1.2  3  2  2  1  3
+Swindell G            1.0  1  0  0  0  0
+Plesac D              1.0  0  0  0  1  1
+Mantei M              1.0  0  0  0  0  1
+
+E -- Miller D
+DP -- Cincinnati 2, Arizona 2
+LOB -- Cincinnati 10, Arizona 8
+2B -- Larkin B 2, Ochoa A, Neagle D
+HR -- Boone A, Finley S
+HBP -- by Neagle D (Finley S), by Springer R (Tucker M)
+WP -- Springer R
+T -- 3:12
+A -- 39841
+     Game of 7/3/2000 -- Cincinnati at Arizona (D)
+
+  Cincinnati         AB  R  H RBI    Arizona            AB  R  H RBI
+Stynes C, 2b          4  1  1  0   Womack T, ss          5  0  1  1   
+Reese P, 2b           0  0  0  0   Bell J, 2b            5  0  1  0   
+Larkin B, ss          4  0  1  0   Gonzalez L, lf        3  0  1  0   
+Griffey K, cf         4  0  0  0   Finley S, cf          4  0  1  0   
+Bichette D, rf        3  0  1  1   Lee T, 1b             3  0  0  0   
+Boone A, 3b           4  0  0  0   Padilla V, p          0  0  0  0   
+Young D, 1b           4  1  2  0   Counsell C, ph        1  0  1  0   
+Ochoa A, lf           4  1  2  1   Kim B, p              0  0  0  0   
+Santiago B, c         4  0  1  1   Conti J, rf           4  0  1  0   
+Parris S, p           3  0  0  0   Miller D, c           3  1  1  0   
+Sullivan S, p         0  0  0  0   Klassen D, 3b         4  1  1  0   
+Morris H, ph          1  0  0  0   Anderson B, p         2  0  0  0   
+Graves D, p           0  0  0  0   Colbrunn G, 1b        1  0  1  1   
+                                   Frias H, pr           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        35  2  9  2
+
+Cincinnati       100 010 100 --  3
+Arizona          000 000 101 --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Parris S (W)          6.2  7  1  1  2  6
+Sullivan S            1.1  1  0  0  0  1
+Graves D (S)          1.0  1  1  1  1  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (L)        6.1  8  3  2  0  6
+Padilla V             1.2  0  0  0  0  0
+Kim B                 1.0  0  0  0  0  0
+
+E -- Klassen D, Womack T
+LOB -- Cincinnati 6, Arizona 9
+2B -- Larkin B
+3B -- Finley S
+HR -- Ochoa A
+CS -- Miller D
+SF -- Bichette D
+PB -- Santiago B
+T -- 2:45
+A -- 38287
+     Game of 7/13/2000 -- Texas at Arizona (N)
+
+  Texas              AB  R  H RBI    Arizona            AB  R  H RBI
+Alicea L, 2b          5  0  2  2   Womack T, ss          5  1  1  0   
+Wetteland J, p        0  0  0  0   Bell J, 2b            4  2  3  4   
+Greer R, lf           4  1  1  0   Gonzalez L, lf        5  0  0  0   
+Rodriguez I, c        4  0  0  0   Williams M, 3b        4  0  1  0   
+Palmeiro R, 1b        3  1  0  0   Finley S, cf          4  0  1  0   
+Curtis C, rf          3  0  0  0   Durazo E, 1b          4  0  1  0   
+Catalanotto F, ph-2b  1  1  1  1   Kim B, p              0  0  0  0   
+Kapler G, cf          3  0  0  0   Plesac D, p           0  0  0  0   
+Segui D, ph           1  0  1  2   Counsell C, ph        1  0  1  0   
+Green S, pr-cf        0  1  0  0   Miller D, c           4  0  2  0   
+Lamb M, 3b            3  1  1  0   Lee T, rf-1b          4  1  1  0   
+Clayton R, ss         4  0  0  0   Anderson B, p         2  0  0  0   
+Helling R, p          2  0  0  0   Conti J, ph-rf        0  0  0  0   
+Davis D, p            0  0  0  0                                      
+Sheldon S, ph         1  1  1  1                                      
+Cordero F, p          0  0  0  0                                      
+Venafro M, p          0  0  0  0                                      
+Zimmerman J, p        0  0  0  0                                      
+Martinez D, ph-rf     0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  6  7  6                        37  4 11  4
+
+Texas            000 000 015 --  6
+Arizona          001 020 010 --  4
+
+  Texas                IP  H  R ER BB SO
+Helling R*            6.0  7  3  3  4  3
+Davis D               1.0  0  0  0  0  3
+Cordero F             0.1  2  1  1  1  1
+Venafro M             0.1  0  0  0  0  0
+Zimmerman J (W)       0.1  1  0  0  0  0
+Wetteland J (S)       1.0  1  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Anderson B            8.0  4  1  1  0  6
+Kim B (L)             0.2  3  5  5  3  2
+Plesac D              0.1  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+LOB -- Texas 5, Arizona 12
+2B -- Finley S, Williams M
+3B -- Segui D
+HR -- Bell J 2, Sheldon S
+SH -- Anderson B
+HBP -- by Kim B (Palmeiro R)
+T -- 3:01
+A -- 32541
+     Game of 7/14/2000 -- Texas at Arizona (N)
+
+  Texas              AB  R  H RBI    Arizona            AB  R  H RBI
+Catalanotto F, 2b     4  0  0  0   Womack T, ss          5  1  1  0   
+Greer R, lf           4  0  0  0   Bell J, 2b            5  1  2  2   
+Palmeiro R, 1b        4  0  0  0   Gonzalez L, lf        3  1  2  0   
+Rodriguez I, c        4  0  0  0   Williams M, 3b        3  1  1  0   
+Martinez D, rf        4  0  2  0   Finley S, cf          4  1  2  4   
+Lamb M, 3b            4  0  0  0   Colbrunn G, 1b        4  0  0  0   
+Kapler G, cf          3  0  2  0   Lee T, 1b             0  0  0  0   
+Clayton R, ss         3  1  1  1   Miller D, c           4  1  2  0   
+Rogers K, p           2  0  1  0   Bautista D, rf        4  0  0  0   
+Green S, ph           1  0  0  0   Reynoso A, p          3  0  0  0   
+Crabtree T, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        35  6 10  6
+
+Texas            001 000 000 --  1
+Arizona          001 031 10x --  6
+
+  Texas                IP  H  R ER BB SO
+Rogers K (L)          7.0 10  6  5  2  7
+Crabtree T            1.0  0  0  0  1  0
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (W)         9.0  6  1  1  0  5
+
+E -- Rodriguez I
+LOB -- Texas 5, Arizona 8
+2B -- Bell J
+3B -- Womack T, Finley S
+HR -- Clayton R, Finley S
+T -- 2:29
+A -- 34415
+     Game of 7/15/2000 -- Texas at Arizona (D)
+
+  Texas              AB  R  H RBI    Arizona            AB  R  H RBI
+Alicea L, 2b-ss       6  0  2  1   Womack T, ss          5  1  0  0   
+Green S, rf-cf        5  1  0  0   Bell J, 2b            5  0  1  0   
+Curtis C, lf-rf       4  1  1  0   Swindell G, p         0  0  0  0   
+Segui D, 1b           5  1  1  0   Durazo E, ph          0  0  0  0   
+Haselman B, c         5  1  2  2   Anderson B, pr        0  0  0  0   
+Kapler G, cf          3  0  0  0   Gonzalez L, lf        5  1  2  1   
+Greer R, ph-lf        2  0  0  1   Williams M, 3b        5  1  3  2   
+Clayton R, ss         2  0  0  0   Frias H, pr-2b        1  0  0  0   
+Palmeiro R, ph        0  0  0  0   Finley S, cf          4  0  2  0   
+Catalanotto F, 2b     1  0  0  0   Colbrunn G, 1b        3  0  0  0   
+Sheldon S, 3b         3  1  1  0   Lee T, 1b             2  0  0  0   
+Lamb M, ph-3b         2  1  2  1   Miller D, c           4  1  2  0   
+Perisho M, p          2  0  0  0   Bautista D, rf        2  1  2  0   
+Cordero F, p          0  0  0  0   Conti J, ph-rf        2  0  0  0   
+Dransfeldt K, ph      1  0  1  1   Johnson R, p          2  0  1  2   
+Davis D, p            0  0  0  0   Padilla V, p          0  0  0  0   
+Rodriguez I, ph       1  0  0  0   Counsell C, ph-2b-3b  2  0  0  0   
+Venafro M, p          0  0  0  0                                      
+Zimmerman J, p        0  0  0  0                                      
+Martinez D, ph        1  0  0  0                                      
+Wetteland J, p        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     43  6 10  6                        42  5 13  5
+
+Texas            000 100 130 01 --  6
+Arizona          100 202 000 00 --  5
+
+  Texas                IP  H  R ER BB SO
+Perisho M             5.2  9  5  5  2  5
+Cordero F             0.1  1  0  0  0  0
+Davis D               1.0  0  0  0  0  0
+Venafro M             0.2  1  0  0  0  1
+Zimmerman J (W)       2.1  1  0  0  2  4
+Wetteland J (S)       1.0  1  0  0  1  1
+
+  Arizona              IP  H  R ER BB SO
+Johnson R             7.1  7  5  5  3 12
+Padilla V             1.2  1  0  0  1  0
+Swindell G (L)        2.0  2  1  1  0  1
+
+E -- Perisho M 2, Haselman B, Lamb M
+DP -- Texas 3
+LOB -- Texas 8, Arizona 11
+2B -- Curtis C, Haselman B 2, Bautista D, Johnson R, Dransfeldt K, Williams M
+3B -- Alicea L
+HR -- Williams M
+SB -- Womack T, Finley S
+CS -- Finley S
+SH -- Johnson R
+SF -- Gonzalez L
+T -- 3:39
+A -- 37856
+     Game of 7/16/2000 -- Seattle at Arizona (D)
+
+  Seattle            AB  R  H RBI    Arizona            AB  R  H RBI
+Henderson R, lf       5  1  3  1   Womack T, ss          5  1  1  0   
+McLemore M, 2b        2  1  0  0   Bell J, 2b            4  0  0  1   
+Cameron M, cf         5  1  1  1   Gonzalez L, lf        3  0  2  1   
+Olerud J, 1b          2  0  0  0   Williams M, 3b        4  0  1  0   
+Javier S, rf          3  0  1  2   Finley S, cf          4  0  0  0   
+Mabry J, 3b           2  1  1  0   Durazo E, 1b          2  1  1  0   
+Martinez E, ph        1  0  0  0   Colbrunn G, ph-1b     1  0  0  0   
+Rhodes A, p           0  0  0  0   Miller D, c           4  0  1  0   
+Sasaki K, p           0  0  0  0   Conti J, rf           3  0  1  1   
+Oliver J, c           4  1  1  2   Bautista D, ph        1  0  0  0   
+Guillen C, ss         4  0  0  0   Figueroa N, p         2  1  1  0   
+Abbott P, p           2  0  1  0   Daal O, p             0  0  0  0   
+Buhner J, ph          1  0  0  0   Frias H, ph           1  0  0  0   
+Mesa J, p             0  0  0  0   Springer R, p         0  0  0  0   
+Bell D, 3b            1  1  1  0   Plesac D, p           0  0  0  0   
+                                   Morgan M, p           0  0  0  0   
+                                   Mantei M, p           0  0  0  0   
+                                   Counsell C, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  6  9  6                        35  3  8  3
+
+Seattle          000 300 021 --  6
+Arizona          010 020 000 --  3
+
+  Seattle              IP  H  R ER BB SO
+Abbott P              6.0  8  3  3  2  3
+Mesa J (W)            1.0  0  0  0  0  0
+Rhodes A              1.0  0  0  0  0  2
+Sasaki K (S)          1.0  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Figueroa N            5.1  6  3  3  2  2
+Daal O                0.2  0  0  0  0  1
+Springer R (L)*       1.0  1  2  2  1  1
+Plesac D+             0.0  0  0  0  2  0
+Morgan M              1.0  0  0  0  0  2
+Mantei M              1.0  2  1  1  2  0
+  * Pitched to 3 batters in 8th
+  + Pitched to 2 batters in 8th
+
+E -- Abbott P
+DP -- Arizona 1
+LOB -- Seattle 8, Arizona 7
+2B -- Henderson R, Durazo E, Cameron M, Bell D
+3B -- Conti J, Henderson R
+HR -- Oliver J
+SB -- McLemore M
+CS -- Cameron M, Henderson R
+SH -- McLemore M
+SF -- Javier S
+T -- 3:15
+A -- 34144
+     Game of 7/17/2000 -- Seattle at Arizona (N)
+
+  Seattle            AB  R  H RBI    Arizona            AB  R  H RBI
+Henderson R, lf       3  0  0  0   Womack T, ss          4  2  2  2   
+Bell D, 2b            4  0  1  0   Bell J, 2b            5  0  3  2   
+Cameron M, cf         4  0  0  0   Gonzalez L, lf        4  1  1  0   
+Olerud J, 1b          3  0  0  0   Williams M, 3b        4  0  2  0   
+Buhner J, rf          4  0  1  0   Cabrera A, rf         3  1  1  2   
+Mabry J, 3b           3  0  2  0   Colbrunn G, 1b        4  1  1  0   
+Martinez E, ph        1  0  0  0   Miller D, c           4  1  1  0   
+Wilson D, c           4  0  0  0   Bautista D, cf        2  1  1  1   
+Guillen C, ss         2  0  0  0   Guzman G, p           3  0  0  0   
+Ramsay R, p           0  0  0  0   Frias H, ph           1  0  1  0   
+Halama J, p           1  0  1  0   Swindell G, p         0  0  0  0   
+Gipson C, ss          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        34  7 13  7
+
+Seattle          000 000 000 --  0
+Arizona          001 310 11x --  7
+
+  Seattle              IP  H  R ER BB SO
+Halama J (L)          6.1 12  6  6  0  5
+Ramsay R              1.2  1  1  1  1  2
+
+  Arizona              IP  H  R ER BB SO
+Guzman G (W)          8.0  4  0  0  3  9
+Swindell G            1.0  1  0  0  0  0
+
+E -- Guillen C
+DP -- Arizona 1
+LOB -- Seattle 7, Arizona 7
+2B -- Williams M, Miller D, Womack T, Gonzalez L, Buhner J
+3B -- Bell J
+HR -- Cabrera A
+CS -- Womack T
+SH -- Halama J
+SF -- Bautista D, Cabrera A, Womack T
+T -- 2:40
+A -- 35504
+     Game of 7/18/2000 -- Seattle at Arizona (N)
+
+  Seattle            AB  R  H RBI    Arizona            AB  R  H RBI
+Henderson R, lf       5  1  1  2   Womack T, ss          3  0  1  1   
+Sasaki K, p           0  0  0  0   Bell J, 2b            3  0  1  0   
+McLemore M, 2b        4  0  0  0   Gonzalez L, lf        3  0  1  0   
+Martinez E, 1b        4  0  2  1   Williams M, 3b        4  0  0  0   
+Gipson C, pr-rf       0  0  0  0   Finley S, cf          4  1  1  0   
+Ibanez R, ph-rf       0  0  0  0   Cabrera A, rf         3  0  0  0   
+Buhner J, rf          4  0  0  0   Padilla V, p          0  0  0  0   
+Olerud J, 1b          0  0  0  1   Plesac D, p           0  0  0  0   
+Cameron M, cf         5  0  0  0   Kim B, p              0  0  0  0   
+Bell D, 3b            4  1  3  0   Morgan M, p           0  0  0  0   
+Oliver J, c           4  0  0  0   Counsell C, ph        1  0  0  0   
+Guillen C, ss         4  2  3  0   Durazo E, 1b          2  0  0  1   
+Garcia F, p           2  0  2  0   Miller D, c           2  1  0  0   
+Rhodes A, p           0  0  0  0   Anderson B, p         2  0  1  0   
+Javier S, ph-lf       0  1  0  0   Bautista D, rf        1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 11  4                        28  2  6  2
+
+Seattle          002 000 003 --  5
+Arizona          000 010 010 --  2
+
+  Seattle              IP  H  R ER BB SO
+Garcia F*             7.0  5  2  1  2  3
+Rhodes A (W)          1.0  1  0  0  0  0
+Sasaki K (S)          1.0  0  0  0  0  2
+
+  Arizona              IP  H  R ER BB SO
+Anderson B            7.0  7  2  0  0  1
+Padilla V (L)         1.1  4  3  2  2  2
+Plesac D              0.1  0  0  0  0  1
+Kim B+                0.0  0  0  0  2  0
+Morgan M              0.1  0  0  0  0  0
+  * Pitched to 2 batters in 8th
+  + Pitched to 2 batters in 9th
+
+E -- Williams M, Oliver J, Miller D
+DP -- Seattle 2, Arizona 1
+LOB -- Seattle 9, Arizona 4
+2B -- Bell D, Martinez E
+SB -- Finley S
+CS -- McLemore M, Javier S
+SH -- Garcia F, Bell J
+SF -- Durazo E, Womack T
+T -- 2:51
+A -- 32090
+     Game of 7/19/2000 -- St. Louis at Arizona (N)
+
+  St. Louis          AB  R  H RBI    Arizona            AB  R  H RBI
+Vina F, 2b            4  0  0  0   Womack T, ss          4  1  2  0   
+Renteria E, ss        3  1  1  0   Bell J, 2b            3  0  0  0   
+Edmonds J, cf         4  1  1  0   Gonzalez L, lf        3  0  0  1   
+Tatis F, 3b           4  1  1  1   Williams M, 3b        4  1  1  0   
+Lankford R, lf        3  0  1  1   Finley S, cf          4  1  1  0   
+Paquette C, rf        3  0  0  1   Durazo E, 1b          4  1  2  2   
+Polanco P, ph         1  0  0  0   Cabrera A, rf         3  0  1  0   
+Perez E, 1b           4  0  1  0   Swindell G, p         0  0  0  0   
+Matheny M, c          3  0  1  0   Mantei M, p           0  0  0  0   
+Dunston S, ph         1  0  0  0   Miller D, c           2  0  1  0   
+Stephenson G, p       1  0  0  0   Reynoso A, p          2  0  0  0   
+Richard C, ph         0  0  0  0   Springer R, p         0  0  0  0   
+Davis E, ph           1  0  0  0   Bautista D, rf        1  0  1  0   
+Morris M, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        30  4  9  3
+
+St. Louis        000 003 000 --  3
+Arizona          100 300 00x --  4
+
+  St. Louis            IP  H  R ER BB SO
+Stephenson G (L)      6.0  7  4  3  1  4
+Morris M              2.0  2  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (W)*        5.0  6  3  3  2  3
+Springer R            1.0  0  0  0  0  1
+Swindell G            2.0  0  0  0  0  0
+Mantei M (S)          1.0  0  0  0  0  1
+  * Pitched to 4 batters in 6th
+
+E -- Renteria E
+DP -- St. Louis 1
+LOB -- St. Louis 5, Arizona 5
+2B -- Womack T, Perez E, Durazo E 2, Finley S, Lankford R
+SH -- Bell J, Stephenson G
+SF -- Gonzalez L
+T -- 2:40
+A -- 37119
+     Game of 7/20/2000 -- St. Louis at Arizona (D)
+
+  St. Louis          AB  R  H RBI    Arizona            AB  R  H RBI
+Polanco P, 2b         4  0  0  0   Womack T, ss          4  1  2  2   
+Renteria E, ss        4  1  1  0   Counsell C, 3b        3  0  0  0   
+Dunston S, cf         3  0  1  0   Gonzalez L, lf        3  0  1  0   
+Lankford R, lf        0  0  0  0   Finley S, cf          3  0  0  0   
+Tatis F, 3b           4  0  1  0   Durazo E, 1b          3  0  0  0   
+Davis E, rf           3  0  0  1   Cabrera A, rf         3  0  0  0   
+Veres D, p            0  0  0  0   Bautista D, rf        0  0  0  0   
+Paquette C, lf-rf     4  0  1  0   Stinnett K, c         3  0  0  0   
+Perez E, 1b           3  1  1  1   Frias H, 2b           2  2  1  1   
+Matheny M, c          3  0  0  0   Johnson R, p          2  0  0  0   
+Kile D, p             2  0  1  0   Bell J, ph            0  0  0  0   
+Edmonds J, cf         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  6  2                        26  3  4  3
+
+St. Louis        000 001 001 --  2
+Arizona          000 001 002 --  3
+  1 out when winning run was scored.
+
+  St. Louis            IP  H  R ER BB SO
+Kile D                8.0  3  1  1  0  9
+Veres D (L)           0.1  1  2  2  1  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         9.0  6  2  2  1 11
+
+DP -- St. Louis 1, Arizona 1
+LOB -- St. Louis 4, Arizona 0
+2B -- Dunston S, Paquette C
+HR -- Perez E, Frias H, Womack T
+CS -- Womack T
+SH -- Dunston S, Bell J
+SF -- Davis E
+T -- 2:15
+A -- 40937
+     Game of 8/1/2000 -- Atlanta at Arizona (N)
+
+  Atlanta            AB  R  H RBI    Arizona            AB  R  H RBI
+Furcal R, ss          4  0  0  0   Womack T, ss          3  0  0  0   
+Jones A, cf           4  1  2  2   Colbrunn G, ph        1  0  0  0   
+Jones C, 3b           4  1  2  0   Bell J, 2b            2  1  0  0   
+Jordan B, rf          4  1  1  2   Gonzalez L, lf        4  1  1  1   
+Galarraga A, 1b       4  0  1  0   Williams M, 3b        3  0  0  1   
+Surhoff B, lf         4  0  1  0   Finley S, cf          3  0  1  0   
+Lopez J, c            3  0  0  0   Cabrera A, 1b         3  0  0  0   
+Lockhart K, 2b        4  0  0  0   Conti J, rf           3  0  0  0   
+Millwood K, p         2  0  0  0   Miller D, c           3  0  0  0   
+Joyner W, ph          1  0  1  0   Reynoso A, p          2  0  0  0   
+Lombard G, pr         0  1  0  0   Swindell G, p         0  0  0  0   
+Ligtenberg K, p       0  0  0  0   Ruffin J, p           0  0  0  0   
+Bonilla B, ph         1  0  0  0   Bautista D, ph        0  0  0  0   
+Rocker J, p           0  0  0  0                                      
+Remlinger M, p        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  4                        27  2  2  2
+
+Atlanta          000 000 040 --  4
+Arizona          000 000 200 --  2
+
+  Atlanta              IP  H  R ER BB SO
+Millwood K (W)        7.0  2  2  2  1  4
+Ligtenberg K          1.0  0  0  0  0  1
+Rocker J              0.1  0  0  0  2  0
+Remlinger M (S)       0.2  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A             7.1  6  2  2  0  5
+Swindell G (L)*       0.0  1  1  1  0  0
+Ruffin J              1.2  1  1  1  0  2
+  * Pitched to 1 batter in 8th
+
+E -- Conti J
+DP -- Atlanta 1
+LOB -- Atlanta 5, Arizona 2
+2B -- Surhoff B, Gonzalez L, Jones C
+HR -- Jones A, Jordan B
+SF -- Williams M
+HBP -- by Reynoso A (Lopez J)
+T -- 2:36
+A -- 35138
+     Game of 8/2/2000 -- Atlanta at Arizona (N)
+
+  Atlanta            AB  R  H RBI    Arizona            AB  R  H RBI
+Furcal R, ss          4  0  1  0   Womack T, ss          3  1  0  0   
+Jones A, cf           4  0  2  0   Bell J, 2b            4  1  1  1   
+Jones C, 3b           4  0  0  0   Gonzalez L, lf        3  0  1  0   
+Joyner W, 1b          4  0  0  0   Williams M, 3b        4  0  1  1   
+Jordan B, rf          3  0  1  0   Finley S, cf          3  0  1  0   
+Surhoff B, lf         4  0  1  0   Cabrera A, 1b         3  0  1  0   
+Lockhart K, 2b        3  0  1  0   Conti J, rf           3  0  0  0   
+Bako P, c             3  0  0  0   Miller D, c           3  0  1  0   
+Maddux G, p           2  0  0  0   Schilling C, p        3  0  0  0   
+Lombard G, ph         1  0  0  0                                      
+Kamieniecki S, p      0  0  0  0                                      
+Mulholland T, p       0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  0  6  0                        29  2  6  2
+
+Atlanta          000 000 000 --  0
+Arizona          002 000 00x --  2
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (L)          6.0  5  2  2  2  5
+Kamieniecki S         1.0  1  0  0  0  1
+Mulholland T          1.0  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       9.0  6  0  0  1  4
+
+E -- Bell J, Womack T
+DP -- Atlanta 1, Arizona 2
+LOB -- Atlanta 6, Arizona 5
+2B -- Bell J, Cabrera A
+SB -- Womack T
+T -- 2:15
+A -- 40643
+     Game of 8/3/2000 -- Atlanta at Arizona (N)
+
+  Atlanta            AB  R  H RBI    Arizona            AB  R  H RBI
+Furcal R, 2b          4  1  1  0   Womack T, ss          4  1  1  1   
+Jones A, cf           4  0  2  0   Bell J, 2b            4  2  2  0   
+Jones C, 3b           4  1  2  0   Gonzalez L, lf        4  2  3  5   
+Jordan B, rf          4  1  3  3   Williams M, 3b        5  1  1  0   
+Galarraga A, 1b       4  0  1  0   Finley S, cf          3  1  1  0   
+Lopez J, c            4  0  0  0   Cabrera A, 1b         3  0  0  0   
+Surhoff B, lf         4  0  0  0   Conti J, rf           4  1  3  2   
+Weiss W, ss           3  0  0  0   Miller D, c           4  0  0  0   
+Ashby A, p            2  0  0  0   Anderson B, p         1  0  0  0   
+Mulholland T, p       0  0  0  0   Ruffin J, p           0  0  0  0   
+Belinda S, p          0  0  0  0   Colbrunn G, ph        1  0  0  0   
+Joyner W, ph          1  1  1  1   Mantei M, p           0  0  0  0   
+Rocker J, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4 10  4                        33  8 11  8
+
+Atlanta          000 300 010 --  4
+Arizona          301 130 00x --  8
+
+  Atlanta              IP  H  R ER BB SO
+Ashby A (L)*          4.0  8  7  6  2  3
+Mulholland T          2.0  3  1  1  0  0
+Belinda S             1.0  0  0  0  0  2
+Rocker J              1.0  0  0  0  2  1
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (W)        5.2  8  3  3  0  2
+Ruffin J              2.1  2  1  1  0  0
+Mantei M              1.0  0  0  0  0  2
+  * Pitched to 2 batters in 5th
+
+E -- Galarraga A
+DP -- Atlanta 1, Arizona 2
+LOB -- Atlanta 3, Arizona 8
+2B -- Jordan B, Gonzalez L, Williams M, Jones C
+HR -- Gonzalez L 2, Jordan B, Joyner W
+SB -- Womack T 4, Conti J, Gonzalez L
+CS -- Jones C
+SH -- Anderson B 2
+HBP -- by Mulholland T (Cabrera A)
+PB -- Lopez J
+T -- 2:46
+A -- 35441
+     Game of 8/4/2000 -- New York at Arizona (N)
+
+  New York           AB  R  H RBI    Arizona            AB  R  H RBI
+Bordick M, ss         4  1  1  0   Womack T, ss          4  0  2  0   
+Bell D, rf            5  2  1  0   Bell J, 2b            4  0  1  1   
+Alfonzo E, 2b         4  0  2  0   Gonzalez L, lf        4  0  0  0   
+Piazza M, c           5  0  2  2   Williams M, 3b        4  0  0  0   
+Zeile T, 1b           4  0  0  0   Finley S, cf          4  0  2  0   
+Agbayani B, lf        2  1  1  0   Cabrera A, 1b         4  0  0  0   
+Trammell B, lf        2  0  0  1   Conti J, rf           3  0  0  0   
+Payton J, cf          5  2  2  0   Stinnett K, c         3  1  1  0   
+McEwing J, 3b         3  0  2  2   Johnson R, p          1  0  0  0   
+Reed R, p             2  0  0  0   Springer R, p         1  0  0  0   
+Cook D, p             0  0  0  0   Plesac D, p           0  0  0  0   
+                                   Ryan R, ph            1  0  0  0   
+                                   Morgan M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6 11  5                        33  1  6  1
+
+New York         010 400 001 --  6
+Arizona          000 000 010 --  1
+
+  New York             IP  H  R ER BB SO
+Reed R (W)            7.2  6  1  1  0  4
+Cook D (S)            1.1  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (L)         3.2  8  5  2  2  5
+Springer R            3.1  0  0  0  0  4
+Plesac D              1.0  1  0  0  0  0
+Morgan M              1.0  2  1  1  1  1
+
+E -- Womack T
+LOB -- New York 10, Arizona 5
+2B -- Payton J, McEwing J, Agbayani B
+SB -- Bell J, Womack T
+SH -- Reed R 2
+SF -- McEwing J
+HBP -- by Springer R (Agbayani B)
+WP -- Johnson R
+T -- 2:49
+A -- 41832
+     Game of 8/5/2000 -- New York at Arizona (N)
+
+  New York           AB  R  H RBI    Arizona            AB  R  H RBI
+Harris L, lf          3  2  2  0   Womack T, ss          5  1  3  0   
+Trammell B, ph-lf     2  0  0  0   Bell J, 2b            4  0  0  0   
+McEwing J, lf         0  0  0  0   Gonzalez L, lf        4  0  0  1   
+Bell D, rf            5  1  3  1   Williams M, 3b        4  0  1  0   
+Alfonzo E, 2b         5  0  3  2   Finley S, cf          4  1  3  1   
+Piazza M, c           3  0  1  1   Cabrera A, 1b         4  0  1  0   
+Pratt T, c            1  1  0  0   Conti J, rf           4  0  1  0   
+Ventura R, 3b         5  1  1  2   Miller D, c           3  0  2  0   
+Zeile T, 1b           5  0  1  0   Guzman G, p           1  0  0  0   
+Payton J, cf          5  0  2  0   Ryan R, ph            1  0  0  0   
+Bordick M, ss         3  0  1  0   Swindell G, p         0  0  0  0   
+Jones B, p            1  1  0  0   Colbrunn G, ph        1  0  0  0   
+White R, p            1  0  0  0   Ruffin J, p           0  0  0  0   
+                                   Plesac D, p           0  0  0  0   
+                                   Counsell C, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 14  6                        36  2 11  2
+
+New York         200 200 200 --  6
+Arizona          100 001 000 --  2
+
+  New York             IP  H  R ER BB SO
+Jones B (W)           6.0  8  2  2  2  1
+White R (S)           3.0  3  0  0  0  2
+
+  Arizona              IP  H  R ER BB SO
+Guzman G (L)          4.0  8  4  4  2  6
+Swindell G            2.0  2  0  0  0  2
+Ruffin J              2.1  3  2  2  1  1
+Plesac D              0.2  1  0  0  0  2
+
+DP -- New York 1
+LOB -- New York 10, Arizona 10
+2B -- Womack T, Finley S, Bell D
+HR -- Finley S, Ventura R
+CS -- Payton J
+SH -- Jones B
+SF -- Gonzalez L
+T -- 3:10
+A -- 41656
+     Game of 8/6/2000 -- New York at Arizona (D)
+
+  New York           AB  R  H RBI    Arizona            AB  R  H RBI
+Bordick M, ss         4  2  2  2   Womack T, ss          5  0  1  2   
+Bell D, rf            4  1  2  0   Bell J, 2b            4  0  1  0   
+Alfonzo E, 2b         3  1  2  1   Gonzalez L, lf        4  1  1  0   
+Ventura R, 3b         4  0  0  1   Williams M, 3b        5  2  3  2   
+Cook D, p             0  0  0  0   Finley S, cf          5  1  1  0   
+Wendell T, p          0  0  0  0   Colbrunn G, 1b        4  2  2  3   
+Abbott K, ph          1  0  0  0   Miller D, c           3  1  1  0   
+Agbayani B, lf        5  0  1  0   Bautista D, rf        2  2  2  2   
+Payton J, cf          5  0  4  1   Reynoso A, p          2  0  0  0   
+Franco M, 1b          5  0  1  0   Springer R, p         0  0  0  0   
+Pratt T, c            3  0  1  0   Swindell G, p         0  0  0  0   
+Rusch G, p            1  0  0  0   Cabrera A, ph         0  0  0  0   
+Trammell B, ph        1  0  0  0   Morgan M, p           0  0  0  0   
+Mahomes P, p          0  0  0  0   Mantei M, p           0  0  0  0   
+Harris L, ph-3b       2  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  5 13  5                        34  9 12  9
+
+New York         001 000 202 --  5
+Arizona          012 201 30x --  9
+
+  New York             IP  H  R ER BB SO
+Rusch G (L)           4.0  7  5  5  2  4
+Mahomes P             2.0  2  1  1  0  0
+Cook D                1.0  3  3  3  2  1
+Wendell T             1.0  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (W)         6.1  7  3  3  3  5
+Springer R            0.1  0  0  0  1  0
+Swindell G            0.1  0  0  0  0  0
+Morgan M              1.2  6  2  2  1  0
+Mantei M (S)          0.1  0  0  0  0  1
+
+DP -- Arizona 1
+LOB -- New York 11, Arizona 8
+2B -- Colbrunn G, Williams M, Bell D
+HR -- Williams M, Bautista D, Bordick M, Colbrunn G
+CS -- Payton J
+SH -- Reynoso A
+SF -- Bautista D
+HBP -- by Wendell T (Gonzalez L)
+T -- 3:11
+A -- 39641
+     Game of 8/7/2000 -- Montreal at Arizona (N)
+
+  Montreal           AB  R  H RBI    Arizona            AB  R  H RBI
+Bergeron P, cf        4  0  1  2   Womack T, ss          4  0  1  1   
+Vidro J, 2b           4  0  0  0   Bell J, 2b            3  1  1  0   
+Tracy A, 3b           4  0  1  0   Gonzalez L, lf        3  1  1  0   
+Guerrero V, rf        3  0  1  0   Williams M, 3b        4  0  2  0   
+Stevens L, 1b         4  0  1  0   Finley S, cf          4  1  0  0   
+Blum G, ss            4  0  1  0   Colbrunn G, 1b        4  0  1  1   
+Widger C, c           4  1  1  0   Miller D, c           4  1  1  1   
+Guerrero W, lf        3  1  1  0   Bautista D, rf        3  1  1  1   
+Santana J, p          0  0  0  0   Schilling C, p        3  0  1  0   
+Seguignol F, ph       1  0  0  0                                      
+Moore T, p            1  0  1  0                                      
+Jones T, lf           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        32  5  9  4
+
+Montreal         000 200 000 --  2
+Arizona          200 003 00x --  5
+
+  Montreal             IP  H  R ER BB SO
+Moore T (L)           5.2  8  5  1  2  2
+Santana J             2.1  1  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       9.0  8  2  2  1  5
+
+E -- Widger C
+DP -- Montreal 1, Arizona 1
+LOB -- Montreal 6, Arizona 7
+2B -- Tracy A, Widger C, Williams M, Miller D
+SB -- Bautista D, Womack T 2
+SH -- Moore T, Schilling C
+HBP -- by Moore T (Gonzalez L)
+PB -- Widger C
+T -- 2:19
+A -- 31526
+     Game of 8/8/2000 -- Montreal at Arizona (N)
+
+  Montreal           AB  R  H RBI    Arizona            AB  R  H RBI
+Jones T, cf-lf        6  0  1  0   Womack T, ss          4  0  1  0   
+Vidro J, 2b           5  2  3  0   Bell J, 2b            4  0  0  0   
+Blum G, ss            5  1  2  1   Gonzalez L, lf        4  0  1  0   
+Guerrero V, rf        5  3  3  4   Williams M, 3b        4  1  2  0   
+Stevens L, 1b         3  1  1  2   Finley S, cf          1  2  0  0   
+Seguignol F, lf       3  0  0  0   Conti J, ph-cf        1  0  0  0   
+Bergeron P, cf        2  0  1  0   Colbrunn G, 1b        4  0  3  1   
+Mordecai M, 3b        4  2  3  0   Stinnett K, c         3  0  1  1   
+Webster L, c          3  0  1  1   Bautista D, rf        3  0  1  1   
+Downs S, p            2  0  0  0   Ruffin J, p           0  0  0  0   
+Lira F, p             1  0  0  0   Ryan R, ph            1  0  0  0   
+Tracy A, ph           1  0  1  1   Anderson B, p         2  0  0  0   
+Kline S, p            0  0  0  0   Springer R, p         0  0  0  0   
+Guerrero W, ph        1  0  0  0   Plesac D, p           0  0  0  0   
+Telford A, p          0  0  0  0   Cabrera A, rf         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  9 16  9                        33  3  9  3
+
+Montreal         003 030 201 --  9
+Arizona          010 200 000 --  3
+
+  Montreal             IP  H  R ER BB SO
+Downs S*              3.0  5  3  3  3  0
+Lira F (W)            3.0  3  0  0  0  0
+Kline S               2.0  1  0  0  0  2
+Telford A             1.0  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (L)        4.1  7  6  6  3  4
+Springer R+           1.2  3  1  1  0  4
+Plesac D              0.1  1  1  1  1  0
+Ruffin J              2.2  5  1  1  1  2
+  * Pitched to 4 batters in 4th
+  + Pitched to 1 batter in 7th
+
+E -- Cabrera A
+DP -- Montreal 3
+LOB -- Montreal 11, Arizona 6
+2B -- Mordecai M 2, Blum G
+3B -- Vidro J, Guerrero V
+HR -- Guerrero V 2, Stevens L
+SB -- Womack T
+CS -- Bergeron P
+SF -- Stevens L
+T -- 3:05
+A -- 33113
+     Game of 8/9/2000 -- Montreal at Arizona (N)
+
+  Montreal           AB  R  H RBI    Arizona            AB  R  H RBI
+Guerrero W, lf        4  0  2  0   Womack T, ss          4  0  1  1   
+Bergeron P, cf        1  0  0  0   Bautista D, cf        3  0  0  0   
+Vidro J, 2b           5  0  2  0   Gonzalez L, lf        4  0  2  0   
+Seguignol F, 1b       4  0  1  0   Williams M, 3b        4  0  0  0   
+Strickland S, p       0  0  0  0   Colbrunn G, 1b        4  1  2  0   
+Schneider B, c        1  0  0  0   Conti J, rf           4  1  1  1   
+Guerrero V, rf        4  1  2  1   Counsell C, 2b        4  1  1  0   
+Blum G, ss-1b-3b      4  1  3  0   Stinnett K, c         3  0  1  1   
+Mordecai M, 3b        3  0  0  0   Johnson R, p          2  0  0  0   
+Stevens L, ph-1b      1  1  0  0   Ryan R, ph            1  0  0  0   
+Webster L, c          4  1  2  1   Guzman G, p           0  0  0  0   
+Telford A, p          0  0  0  0   Swindell G, p         0  0  0  0   
+Jones T, cf-lf        4  0  3  2                                      
+Vazquez J, p          2  0  0  0                                      
+De La Rosa T, ph-ss   1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  4 15  4                        33  3  8  3
+
+Montreal         000 200 020 --  4
+Arizona          000 030 000 --  3
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J             6.0  7  3  3  1  6
+Strickland S (W)      1.2  1  0  0  0  1
+Telford A (S)         1.1  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Johnson R             7.0 11  2  2  1 11
+Guzman G (L)*         0.0  2  2  2  0  0
+Swindell G            2.0  2  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+DP -- Montreal 2, Arizona 1
+LOB -- Montreal 8, Arizona 4
+2B -- Webster L, Gonzalez L 2, Colbrunn G, Conti J, Counsell C
+HR -- Guerrero V
+SB -- Womack T, Guerrero W, De La Rosa T
+T -- 3:08
+A -- 33500
+     Game of 8/18/2000 -- Chicago at Arizona (N)
+
+  Chicago            AB  R  H RBI    Arizona            AB  R  H RBI
+Young E, 2b           4  0  1  0   Womack T, ss          5  1  2  3   
+Greene W, 3b          0  0  0  0   Frias H, pr-ss        0  0  0  0   
+Gutierrez R, ss       3  0  0  0   Bell J, 2b            5  1  1  0   
+Meyers C, 3b-2b       1  0  0  0   Gonzalez L, lf        4  1  1  0   
+Sosa S, rf            4  2  3  2   Counsell C, ph-3b     1  0  0  0   
+Grace M, 1b           3  0  0  0   Williams M, 3b        1  2  0  0   
+Brown B, 1b           1  0  0  0   Conti J, ph-rf        1  0  0  0   
+White R, lf           3  0  0  0   Finley S, cf          4  1  1  2   
+Rain S, p             0  0  0  0   Dellucci D, ph-lf     1  0  1  0   
+Nieves J, ph          1  0  0  0   Colbrunn G, 1b        3  2  3  3   
+Reed J, c             4  0  0  0   Durazo E, ph-1b       1  0  0  0   
+Buford D, cf          3  0  0  0   Miller D, c           3  1  0  0   
+Huson J, 3b-ss        3  0  0  0   Bautista D, rf-cf     4  1  2  3   
+Quevedo R, p          1  0  1  0   Schilling C, p        4  1  1  0   
+Farnsworth K, p       1  0  1  0                                      
+Matthews G, lf        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  6  2                        37 11 12 11
+
+Chicago          000 100 001 --  2
+Arizona          063 101 00x -- 11
+
+  Chicago              IP  H  R ER BB SO
+Quevedo R (L)         3.0  7  9  9  3  3
+Farnsworth K          3.0  3  2  1  1  3
+Rain S                2.0  2  0  0  0  3
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       9.0  6  2  2  0 10
+
+E -- Gutierrez R
+LOB -- Chicago 4, Arizona 7
+2B -- Farnsworth K
+3B -- Bautista D
+HR -- Finley S, Colbrunn G, Womack T, Sosa S 2
+SF -- Colbrunn G
+T -- 2:35
+A -- 44440
+     Game of 8/19/2000 -- Chicago at Arizona (N)
+
+  Chicago            AB  R  H RBI    Arizona            AB  R  H RBI
+Young E, 2b           3  0  0  0   Womack T, ss          4  1  1  1   
+Gutierrez R, ss       4  1  3  0   Dellucci D, rf        4  1  2  0   
+Sosa S, rf            4  1  1  2   Springer R, p         0  0  0  0   
+Brown B, rf           0  0  0  0   Stinnett K, c         0  0  0  0   
+Grace M, 1b           4  0  0  0   Gonzalez L, lf        5  1  3  2   
+White R, lf           4  1  1  0   Williams M, 3b        5  1  2  1   
+Buford D, cf          3  0  0  0   Frias H, pr-2b        0  0  0  0   
+Worrell T, p          0  0  0  0   Finley S, cf          3  3  2  2   
+Meyers C, ph          1  0  0  0   Durazo E, 1b          5  2  2  0   
+Nieves J, 3b          3  0  1  1   Miller D, c           4  2  2  4   
+Girardi J, c          3  0  1  0   Swindell G, p         0  0  0  0   
+Lieber J, p           1  0  0  0   Counsell C, 2b-3b     4  0  1  1   
+Van Poppel T, p       1  0  0  0   Anderson B, p         2  0  0  0   
+Matthews G, cf        1  0  0  0   Conti J, ph-rf        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  7  3                        37 11 15 11
+
+Chicago          010 002 000 --  3
+Arizona          038 000 00x -- 11
+
+  Chicago              IP  H  R ER BB SO
+Lieber J (L)          2.2 10  9  9  2  2
+Van Poppel T          3.1  3  2  2  1  0
+Worrell T             2.0  2  0  0  1  2
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (W)        7.0  7  3  3  0  2
+Springer R            1.0  0  0  0  1  0
+Swindell G            1.0  0  0  0  0  1
+
+DP -- Arizona 1
+LOB -- Chicago 3, Arizona 9
+2B -- Gutierrez R, Gonzalez L
+3B -- Gonzalez L
+HR -- Miller D, Finley S, Sosa S
+SH -- Anderson B
+SF -- Counsell C
+HBP -- by Lieber J (Womack T)
+WP -- Van Poppel T
+Balk -- Anderson B
+T -- 2:33
+A -- 47404
+     Game of 8/20/2000 -- Chicago at Arizona (D)
+
+  Chicago            AB  R  H RBI    Arizona            AB  R  H RBI
+Young E, 2b           4  0  0  0   Womack T, ss          5  0  1  0   
+Gutierrez R, ss       2  1  0  0   Bell J, 2b            3  0  1  0   
+Sosa S, rf            4  1  1  3   Gonzalez L, lf        4  1  1  0   
+White R, lf           3  0  1  0   Williams M, 3b        3  1  0  0   
+Grace M, 1b           3  0  0  0   Finley S, cf          3  2  2  0   
+Girardi J, c          4  0  0  0   Colbrunn G, 1b        4  1  3  3   
+Buford D, cf          3  1  1  0   Miller D, c           3  0  0  0   
+Nieves J, 3b          3  0  1  1   Bautista D, rf        4  0  2  2   
+Garibay D, p          2  1  0  0   Johnson R, p          3  0  0  0   
+Rain S, p             0  0  0  0                                      
+Meyers C, ph          1  0  0  0                                      
+Farnsworth K, p       0  0  0  0                                      
+Worrell T, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  4  4  4                        32  5 10  5
+
+Chicago          004 000 000 --  4
+Arizona          000 104 00x --  5
+
+  Chicago              IP  H  R ER BB SO
+Garibay D             5.1  5  4  4  3  4
+Rain S (L)            0.2  2  1  1  1  2
+Farnsworth K          1.0  1  0  0  1  1
+Worrell T             1.0  2  0  0  0  2
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         9.0  4  4  4  3 13
+
+DP -- Chicago 1, Arizona 2
+LOB -- Chicago 2, Arizona 8
+2B -- Buford D, Colbrunn G 2
+HR -- Sosa S
+CS -- Womack T
+HBP -- by Johnson R (Grace M)
+T -- 2:38
+A -- 43636
+     Game of 8/21/2000 -- Milwaukee at Arizona (N)
+
+  Milwaukee          AB  R  H RBI    Arizona            AB  R  H RBI
+Mouton J, cf          6  2  2  1   Womack T, ss-rf       5  0  0  0   
+Loretta M, ss         5  2  3  3   Bell J, 2b            3  0  1  1   
+Lopez L, pr-ss        1  1  0  0   Kim B, p              0  0  0  0   
+Jenkins G, lf         5  2  2  0   Cabrera A, ph-lf      1  0  0  0   
+Echevarria A, ph-lf   1  0  0  0   Gonzalez L, lf        5  0  1  1   
+Sexson R, 1b          3  3  2  2   Mantei M, p           0  0  0  0   
+Sweeney M, ph-1b      1  0  0  0   Williams M, 3b        3  1  1  0   
+Burnitz J, rf         5  2  3  2   Finley S, cf          4  2  3  1   
+Houston T, 3b         6  2  2  5   Colbrunn G, 1b        4  2  1  0   
+Belliard R, 2b        4  2  2  0   Miller D, c           4  1  2  2   
+Blanco H, c           3  0  1  0   Stinnett K, c         1  0  0  0   
+Casanova R, c         1  0  1  0   Bautista D, rf        3  1  1  2   
+Snyder J, p           2  0  0  0   Swindell G, p         0  0  0  0   
+De Los Santos V, p    0  0  0  0   Counsell C, 2b        2  0  1  0   
+Grissom M, ph         1  0  1  2   Reynoso A, p          0  0  0  0   
+Stull E, p            2  0  0  0   Springer R, p         0  0  0  0   
+Roque R, p            0  0  0  0   Dellucci D, ph        1  0  0  0   
+                                   Morgan M, p           0  0  0  0   
+                                   Conti J, ph           1  1  1  1   
+                                   Plesac D, p           0  0  0  0   
+                                   Frias H, ss           2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     46 16 19 15                        39  8 13  8
+
+Milwaukee        080 033 200 -- 16
+Arizona          020 500 001 --  8
+
+  Milwaukee            IP  H  R ER BB SO
+Snyder J              3.2  8  7  7  1  4
+De Los Santos V       0.1  1  0  0  1  0
+Stull E (W)           4.0  3  0  0  2  2
+Roque R               1.0  1  1  1  1  0
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (L)         1.2  7  6  6  0  1
+Springer R            0.1  2  2  2  0  0
+Morgan M              2.0  0  0  0  0  2
+Plesac D              1.0  2  3  0  2  1
+Swindell G            1.1  7  5  5  2  4
+Kim B                 1.2  1  0  0  0  2
+Mantei M              1.0  0  0  0  1  0
+
+E -- Womack T
+DP -- Milwaukee 1, Arizona 1
+LOB -- Milwaukee 8, Arizona 9
+2B -- Finley S, Miller D 2, Jenkins G, Burnitz J, Belliard R, Mouton J, Loretta M, Casanova R
+3B -- Finley S
+HR -- Houston T 2, Loretta M, Sexson R
+SB -- Mouton J, Sexson R, Jenkins G
+T -- 3:34
+A -- 31752
+     Game of 8/22/2000 -- Milwaukee at Arizona (N)
+
+  Milwaukee          AB  R  H RBI    Arizona            AB  R  H RBI
+Mouton J, cf          4  0  0  0   Womack T, ss          4  1  1  0   
+Loretta M, ss         2  1  1  0   Bell J, 2b            4  0  2  2   
+Jenkins G, lf         3  1  1  0   Morgan M, p           0  0  0  0   
+Sexson R, 1b          3  1  1  3   Gonzalez L, lf        4  0  0  0   
+Burnitz J, rf         4  0  1  0   Williams M, 3b        4  0  0  0   
+Houston T, 3b         4  1  2  1   Finley S, cf          4  0  1  0   
+Belliard R, 2b        4  0  0  0   Colbrunn G, 1b        3  1  1  0   
+Blanco H, c           4  0  1  0   Miller D, c           4  0  1  1   
+D'Amico J, p          4  0  1  0   Conti J, pr           0  0  0  0   
+Leskanic C, p         0  0  0  0   Bautista D, rf        4  1  2  0   
+                                   Guzman G, p           1  0  0  0   
+                                   Dellucci D, ph        1  0  0  0   
+                                   Plesac D, p           0  0  0  0   
+                                   Springer R, p         0  0  0  0   
+                                   Counsell C, ph-2b     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  8  4                        34  3  8  3
+
+Milwaukee        003 100 000 --  4
+Arizona          001 000 011 --  3
+
+  Milwaukee            IP  H  R ER BB SO
+D'Amico J (W)         8.2  6  3  3  1  5
+Leskanic C (S)        0.1  2  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Guzman G (L)          5.0  6  4  4  2  5
+Plesac D              1.0  0  0  0  0  0
+Springer R            2.0  2  0  0  1  3
+Morgan M              1.0  0  0  0  0  2
+
+DP -- Arizona 3
+LOB -- Milwaukee 6, Arizona 6
+2B -- Bell J 2, Colbrunn G
+3B -- Finley S
+HR -- Sexson R, Houston T
+SH -- Counsell C
+HBP -- by Guzman G (Jenkins G), by Guzman G (Mouton J)
+T -- 2:51
+A -- 31057
+     Game of 8/23/2000 -- Milwaukee at Arizona (N)
+
+  Milwaukee          AB  R  H RBI    Arizona            AB  R  H RBI
+Grissom M, cf         5  1  1  0   Womack T, ss          5  0  1  0   
+Loretta M, ss         4  2  1  1   Bell J, 2b            4  0  1  0   
+Jenkins G, lf         4  1  1  1   Gonzalez L, lf        3  0  1  1   
+Sexson R, 1b          3  2  2  2   Williams M, 3b        5  1  2  0   
+Burnitz J, rf         4  0  1  0   Finley S, cf          4  1  1  0   
+Hayes C, 3b           4  0  1  2   Colbrunn G, 1b        4  1  2  1   
+Casanova R, c         3  1  0  0   Miller D, c           4  0  1  0   
+Lopez L, 2b           3  1  1  1   Bautista D, rf        2  1  1  2   
+Haynes J, p           3  0  0  0   Schilling C, p        2  0  1  1   
+King R, p             0  0  0  0   Dellucci D, ph        0  1  0  0   
+Acevedo J, p          0  0  0  0   Kim B, p              0  0  0  0   
+Sweeney M, ph         1  0  1  1   Frias H, ph           1  0  0  0   
+Mouton J, pr          0  0  0  0   Mantei M, p           0  0  0  0   
+Leskanic C, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  8  9  8                        34  5 11  5
+
+Milwaukee        000 301 121 --  8
+Arizona          010 101 110 --  5
+
+  Milwaukee            IP  H  R ER BB SO
+Haynes J (W)          6.1  8  4  4  3  5
+King R                0.1  0  0  0  0  0
+Acevedo J             1.1  2  1  1  0  1
+Leskanic C (S)        1.0  1  0  0  1  0
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (L)       7.0  7  5  5  1  3
+Kim B                 1.0  1  2  2  1  2
+Mantei M              1.0  1  1  1  1  0
+
+E -- Haynes J
+DP -- Milwaukee 2
+LOB -- Milwaukee 3, Arizona 8
+2B -- Gonzalez L, Sexson R, Jenkins G, Williams M
+HR -- Loretta M, Lopez L, Sexson R, Bautista D
+SH -- Lopez L
+SF -- Bautista D, Gonzalez L
+WP -- Mantei M
+Balk -- Kim B
+T -- 3:03
+A -- 29954
+     Game of 9/1/2000 -- Florida at Arizona (N)
+
+  Florida            AB  R  H RBI    Arizona            AB  R  H RBI
+Castillo L, 2b        5  2  3  1   Womack T, ss          4  3  2  0   
+Smith M, rf           6  1  1  0   Bell J, 2b            4  2  3  3   
+Floyd C, lf           5  0  3  2   Gonzalez L, lf        5  0  1  2   
+Alfonseca A, p        0  0  0  0   Colbrunn G, 1b        6  0  3  2   
+Wilson P, cf          6  1  2  0   Finley S, cf          5  0  0  0   
+Lowell M, 3b          5  2  3  4   Williams M, 3b        5  0  1  0   
+Lee D, 1b             5  1  0  0   Bautista D, rf        5  0  1  0   
+Gonzalez A, ss        5  1  1  0   Miller D, c           2  0  0  0   
+Darensbourg V, p      0  0  0  0   Reynoso A, p          0  0  0  0   
+Berg D, ss            0  0  0  0   Plesac D, p           0  0  0  0   
+Castro R, c           2  0  1  0   Morgan M, p           0  0  0  0   
+Smith C, pr           0  0  0  0   Counsell C, ph        1  1  1  0   
+Redmond M, c          1  0  0  0   Kim B, p              0  0  0  0   
+Sanchez J, p          2  0  0  0   Dellucci D, ph        1  0  1  0   
+Kotsay M, ph          0  0  0  0   Mantei M, p           0  0  0  0   
+Millar K, ph          0  0  0  1   Mieske M, ph          1  0  0  0   
+Bones R, p            0  0  0  0   Swindell G, p         0  0  0  0   
+Almanza A, p          0  0  0  0   Anderson B, p         1  0  0  0   
+Looper B, p           0  0  0  0   Stinnett K, c         3  0  0  0   
+Rodriguez H, ph       1  0  1  0   Ryan R, ph            0  0  0  0   
+Miceli D, p           0  0  0  0   Frias H, pr           0  1  0  0   
+Fox A, ss-lf          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     44  8 15  8                        43  7 13  7
+
+Florida          301 002 000 02 --  8
+Arizona          102 010 200 01 --  7
+
+  Florida              IP  H  R ER BB SO
+Sanchez J             5.0  4  4  4  2  1
+Bones R               1.1  2  1  1  0  0
+Almanza A*            0.0  1  1  1  0  0
+Looper B              0.2  2  0  0  0  0
+Miceli D              1.0  2  0  0  0  0
+Darensbourg V (W)     2.0  2  0  0  0  2
+Alfonseca A (S)       1.0  0  1  1  2  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B            4.1  9  4  4  1  0
+Reynoso A             1.0  1  2  2  2  0
+Plesac D              1.0  0  0  0  1  1
+Morgan M              0.2  1  0  0  0  1
+Kim B                 1.0  1  0  0  2  2
+Mantei M              2.0  1  0  0  1  2
+Swindell G (L)        1.0  2  2  2  0  2
+  * Pitched to 1 batter in 7th
+
+E -- Castro R
+DP -- Arizona 2
+LOB -- Florida 10, Arizona 9
+2B -- Floyd C, Colbrunn G, Gonzalez A, Womack T, Dellucci D
+HR -- Lowell M 2, Bell J
+SB -- Womack T, Castillo L
+CS -- Wilson P, Williams M
+SH -- Bell J
+SF -- Gonzalez L
+Balk -- Anderson B
+PB -- Redmond M
+T -- 4:13
+A -- 31791
+     Game of 9/2/2000 -- Florida at Arizona (N)
+
+  Florida            AB  R  H RBI    Arizona            AB  R  H RBI
+Castillo L, 2b        5  1  1  1   Womack T, ss          4  0  1  0   
+Kotsay M, rf          4  1  3  2   Counsell C, ph        1  0  0  0   
+Rodriguez H, lf       4  0  1  0   Bell J, 2b            2  1  0  0   
+Smith M, lf           1  1  1  0   Cabrera A, ph         1  0  0  0   
+Wilson P, cf          5  2  3  4   Gonzalez L, lf        4  0  2  0   
+Lowell M, 3b          4  1  2  0   Colbrunn G, 1b        4  0  2  0   
+Lee D, 1b             5  2  3  2   Finley S, cf          4  0  1  0   
+Gonzalez A, ss        5  1  2  0   Williams M, 3b        4  0  0  1   
+Redmond M, c          5  1  1  1   Bautista D, rf        3  0  0  0   
+Dempster R, p         3  0  0  0   Springer R, p         0  0  0  0   
+Bones R, p            0  0  0  0   Ryan R, ph            1  0  1  0   
+                                   Barajas R, c          0  0  0  0   
+                                   Miller D, c           4  0  1  0   
+                                   Holmes D, p           0  0  0  0   
+                                   Schilling C, p        2  0  0  0   
+                                   Swindell G, p         0  0  0  0   
+                                   Dellucci D, rf        2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     41 10 17 10                        36  1  9  1
+
+Florida          000 033 103 -- 10
+Arizona          000 100 000 --  1
+
+  Florida              IP  H  R ER BB SO
+Dempster R (W)        8.0  8  1  0  1  9
+Bones R               1.0  1  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (L)       6.0 10  6  6  0  3
+Swindell G            0.2  2  1  1  0  1
+Springer R            1.1  1  0  0  0  0
+Holmes D              1.0  4  3  3  0  0
+
+E -- Dempster R, Lee D
+DP -- Florida 2, Arizona 1
+LOB -- Florida 7, Arizona 10
+2B -- Kotsay M 2, Lowell M
+3B -- Castillo L, Womack T
+HR -- Wilson P 2, Lee D
+SH -- Dempster R
+SF -- Kotsay M
+HBP -- by Dempster R (Bell J), by Holmes D (Lowell M)
+T -- 2:33
+A -- 38422
+     Game of 9/3/2000 -- Florida at Arizona (D)
+
+  Florida            AB  R  H RBI    Arizona            AB  R  H RBI
+Castillo L, 2b        5  1  2  1   Womack T, ss          3  1  2  2   
+Kotsay M, rf          5  0  0  0   Bell J, 2b            4  0  2  3   
+Floyd C, lf           4  2  2  0   Gonzalez L, lf        5  1  3  1   
+Aybar M, p            0  0  0  0   Colbrunn G, 1b        5  0  2  0   
+Wilson P, cf          5  1  3  1   Finley S, cf          4  2  3  2   
+Lowell M, 3b          3  0  1  2   Williams M, 3b        5  1  1  0   
+Lee D, 1b             4  0  1  1   Bautista D, rf        5  2  2  1   
+Fox A, ss             3  1  0  0   Stinnett K, c         4  0  1  1   
+Almanza A, p          0  0  0  0   Stottlemyre T, p      1  2  1  0   
+Looper B, p           0  0  0  0   Morgan M, p           0  0  0  0   
+Millar K, lf          1  0  0  0   Plesac D, p           0  0  0  0   
+Castro R, c           3  0  1  0   Dellucci D, ph        1  0  1  0   
+Rodriguez H, ph       1  0  0  0   Kim B, p              0  0  0  0   
+Redmond M, c          0  0  0  0   Ryan R, ph            0  1  0  0   
+Burnett A, p          3  0  0  0   Swindell G, p         0  0  0  0   
+Berg D, ss            1  0  1  0   Mantei M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  5 11  5                        37 10 18 10
+
+Florida          111 020 000 --  5
+Arizona          002 300 50x -- 10
+
+  Florida              IP  H  R ER BB SO
+Burnett A (L)         6.1 12  6  6  4  2
+Almanza A*            0.0  2  2  2  0  0
+Looper B              0.2  3  2  2  0  1
+Aybar M               1.0  1  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Stottlemyre T         4.2  8  5  4  2  5
+Morgan M              1.0  1  0  0  0  2
+Plesac D              0.1  0  0  0  0  1
+Kim B (W)             1.0  1  0  0  0  2
+Swindell G            1.0  1  0  0  0  0
+Mantei M              1.0  0  0  0  1  1
+  * Pitched to 2 batters in 7th
+
+E -- Burnett A, Womack T
+LOB -- Florida 11, Arizona 9
+2B -- Stottlemyre T, Finley S 2, Dellucci D
+3B -- Bautista D
+HR -- Finley S
+SB -- Fox A, Floyd C, Wilson P 2, Womack T, Castillo L
+CS -- Wilson P, Stinnett K
+SF -- Bell J
+HBP -- by Kim B (Lowell M), by Kim B (Fox A), by Looper B (Ryan R)
+T -- 3:19
+A -- 36039
+     Game of 9/11/2000 -- Los Angeles at Arizona (N)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+Goodwin T, cf         5  1  1  1   Womack T, ss          5  0  0  0   
+Grudzielanek M, 2b    4  2  1  0   Bell J, 2b            4  0  0  0   
+Sheffield G, lf       4  1  2  2   Guzman G, p           0  0  0  0   
+LoDuca P, lf          0  0  0  0   Swindell G, p         0  0  0  0   
+Green S, rf           4  2  1  1   Dellucci D, ph        1  0  1  0   
+Karros E, 1b          5  0  2  1   Gonzalez L, lf        4  0  1  0   
+Hundley T, c          4  0  2  0   Colbrunn G, 1b        2  0  0  0   
+Beltre A, 3b          3  0  1  1   Finley S, cf          2  0  0  0   
+Cora A, ss            5  0  0  0   Williams M, 3b        4  1  1  0   
+Gagne E, p            3  0  1  0   Ryan R, rf            2  0  0  0   
+Adams T, p            0  0  0  0   Springer R, p         0  0  0  0   
+Osuna A, p            0  0  0  0   Counsell C, ph-2b     1  0  0  0   
+Hansen D, ph          0  0  0  0   Stinnett K, c         2  0  1  1   
+Fetters M, p          0  0  0  0   Frias H, ph           1  1  1  0   
+Shaw J, p             0  0  0  0   Reynoso A, p          1  0  0  0   
+                                   Conti J, rf           3  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     37  6 11  6                        32  3  6  3
+
+Los Angeles      100 040 001 --  6
+Arizona          000 000 102 --  3
+
+  Los Angeles          IP  H  R ER BB SO
+Gagne E (W)           6.0  1  0  0  4  7
+Adams T*              0.0  2  1  1  1  0
+Osuna A               1.0  0  0  0  0  2
+Fetters M             1.0  0  0  0  2  1
+Shaw J                1.0  3  2  2  0  1
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (L)         4.1  8  5  5  3  0
+Springer R            2.2  2  0  0  0  2
+Guzman G              1.1  1  1  1  2  1
+Swindell G            0.2  0  0  0  1  0
+  * Pitched to 3 batters in 7th
+
+E -- Womack T
+DP -- Los Angeles 1
+LOB -- Los Angeles 11, Arizona 9
+2B -- Sheffield G 2, Hundley T, Grudzielanek M, Beltre A, Karros E, Williams M, Frias H
+HR -- Goodwin T, Conti J
+SB -- Green S 2
+SH -- Beltre A
+T -- 3:28
+A -- 37589
+     Game of 9/12/2000 -- Los Angeles at Arizona (N)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+Goodwin T, cf         4  0  1  0   Womack T, ss-rf       4  0  0  0   
+Cora A, ss            4  0  0  0   Counsell C, 3b        2  1  1  0   
+Sheffield G, lf       4  1  1  0   Bell J, ph-2b         1  0  0  0   
+Green S, rf           4  0  1  0   Gonzalez L, lf        2  1  1  1   
+Karros E, 1b          3  0  1  1   Colbrunn G, 1b        4  0  0  0   
+Hundley T, c          3  1  0  0   Finley S, cf          3  0  1  0   
+Beltre A, 3b          4  1  1  0   Mieske M, pr          0  1  0  0   
+Branson J, 2b         4  0  1  0   Williams M, 3b        0  0  0  0   
+Prokopec L, p         1  0  0  0   Conti J, rf           2  0  0  0   
+Williams J, p         0  0  0  0   Bautista D, ph-rf-cf  1  0  0  0   
+Hansen D, ph          1  1  1  3   Frias H, 2b-3b-ss     4  1  2  0   
+Masaoka O, p          0  0  0  0   Stinnett K, c         3  1  0  0   
+Herges M, p           0  0  0  0   Dellucci D, ph        1  0  1  1   
+                                   Miller D, c           0  0  0  0   
+                                   Schilling C, p        3  0  2  1   
+                                   Kim B, p              0  0  0  0   
+                                   Ryan R, ph            1  0  0  0   
+                                   Mantei M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  7  4                        31  5  8  3
+
+Los Angeles      000 100 300 --  4
+Arizona          000 220 01x --  5
+
+  Los Angeles          IP  H  R ER BB SO
+Prokopec L            4.1  6  4  1  1  3
+Williams J            1.2  1  0  0  0  1
+Masaoka O (L)*        1.0  0  1  1  0  1
+Herges M              1.0  1  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Schilling C           7.0  6  4  4  1  6
+Kim B (W)             1.0  1  0  0  0  0
+Mantei M (S)          1.0  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Cora A, Branson J
+DP -- Los Angeles 2
+LOB -- Los Angeles 4, Arizona 7
+2B -- Sheffield G, Frias H 2, Schilling C, Gonzalez L
+HR -- Hansen D
+SB -- Counsell C
+SH -- Prokopec L, Bautista D
+SF -- Karros E
+HBP -- by Prokopec L (Counsell C), by Prokopec L (Gonzalez L), by Masaoka O (Finley S)
+T -- 2:40
+A -- 32102
+     Game of 9/13/2000 -- Los Angeles at Arizona (N)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+Goodwin T, cf         4  0  1  0   Womack T, ss          4  0  0  0   
+Grudzielanek M, 2b    4  0  0  0   Bell J, 2b            4  1  1  1   
+Green S, rf           3  1  1  0   Gonzalez L, lf        4  0  1  0   
+Sheffield G, lf       4  0  0  0   Colbrunn G, 1b        4  1  1  1   
+Karros E, 1b          4  0  0  0   Dellucci D, rf        2  0  1  0   
+Beltre A, 3b          3  1  2  2   Conti J, rf           1  1  1  0   
+Hundley T, c          3  0  1  0   Williams M, 3b        4  0  1  0   
+LoDuca P, pr-c        0  0  0  0   Bautista D, cf        4  0  2  0   
+Hansen D, ph          1  0  0  0   Stinnett K, c         3  0  0  0   
+Kreuter C, c          0  0  0  0   Counsell C, ph        0  0  0  0   
+Cora A, ss            2  0  0  0   Anderson B, p         2  0  0  0   
+Elster K, ph          1  0  0  0   Mantei M, p           0  0  0  0   
+Branson J, ss         0  0  0  0   Plesac D, p           0  0  0  0   
+Brown K, p            2  0  0  0   Ryan R, ph            1  0  1  1   
+Leyritz J, ph         0  0  0  0                                      
+Bocachica H, pr       0  0  0  0                                      
+Adams T, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        33  3  9  3
+
+Los Angeles      000 000 011 --  2
+Arizona          000 002 001 --  3
+  2 outs when winning run was scored.
+
+  Los Angeles          IP  H  R ER BB SO
+Brown K               7.0  6  2  2  1  4
+Adams T (L)           1.2  3  1  1  1  2
+
+  Arizona              IP  H  R ER BB SO
+Anderson B            8.0  4  1  1  1  6
+Mantei M              0.2  1  1  1  1  1
+Plesac D (W)          0.1  0  0  0  0  1
+
+DP -- Los Angeles 1, Arizona 1
+LOB -- Los Angeles 5, Arizona 7
+2B -- Gonzalez L, Bautista D, Hundley T
+HR -- Bell J, Colbrunn G, Beltre A
+SB -- Green S
+SH -- Anderson B
+HBP -- by Anderson B (Leyritz J)
+Balk -- Anderson B
+T -- 2:39
+A -- 34526
+     Game of 9/15/2000 -- Atlanta at Arizona (N)
+
+  Atlanta            AB  R  H RBI    Arizona            AB  R  H RBI
+Furcal R, 2b          4  0  2  0   Bautista D, cf        4  1  1  0   
+Jones A, cf           3  0  1  0   Bell J, 2b            4  1  2  1   
+Jones C, 3b           3  1  2  1   Gonzalez L, lf        2  0  1  1   
+Galarraga A, 1b       4  0  0  0   Colbrunn G, 1b        3  0  0  0   
+Jordan B, rf          4  0  1  0   Williams M, 3b        4  0  0  0   
+Lopez J, c            4  0  1  0   Cabrera A, rf         3  0  2  0   
+Sanders R, lf         3  0  0  0   Conti J, pr-rf        0  0  0  0   
+Bonilla B, ph         1  0  0  0   Miller D, c           4  0  2  0   
+Weiss W, ss           3  0  0  0   Frias H, ss           4  0  0  0   
+Joyner W, ph          0  0  0  0   Womack T, ss          0  0  0  0   
+Lombard G, pr         0  0  0  0   Johnson R, p          2  0  0  0   
+Glavine T, p          3  0  0  0   Mieske M, ph          1  0  0  0   
+Ligtenberg K, p       0  0  0  0   Kim B, p              0  0  0  0   
+Mulholland T, p       0  0  0  0   Mantei M, p           0  0  0  0   
+Lockhart K, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  7  1                        31  2  8  2
+
+Atlanta          000 001 000 --  1
+Arizona          000 010 10x --  2
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (L)         7.0  7  2  2  1  7
+Ligtenberg K          0.2  0  0  0  1  0
+Mulholland T          0.1  1  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         7.0  7  1  1  0 13
+Kim B                 1.0  0  0  0  2  3
+Mantei M (S)          1.0  0  0  0  1  0
+
+DP -- Atlanta 1
+LOB -- Atlanta 8, Arizona 9
+3B -- Bautista D
+HR -- Jones C, Bell J
+SB -- Furcal R, Jones A, Lombard G
+CS -- Furcal R
+HBP -- by Glavine T (Colbrunn G), by Glavine T (Gonzalez L)
+WP -- Mantei M
+T -- 3:02
+A -- 39774
+     Game of 9/16/2000 -- Atlanta at Arizona (D)
+
+  Atlanta            AB  R  H RBI    Arizona            AB  R  H RBI
+Furcal R, ss          4  2  1  3   Womack T, ss          3  2  1  2   
+Jones A, cf           6  0  2  0   Bautista D, cf-lf     5  1  2  2   
+Jones C, 3b           3  1  2  1   Gonzalez L, lf        4  0  0  0   
+Helms W, pr-3b        1  0  0  0   Barajas R, c          1  1  1  2   
+Jordan B, rf          3  2  2  0   Colbrunn G, 1b        5  0  1  1   
+Lombard G, rf         1  0  0  0   Dellucci D, rf        2  0  1  0   
+Galarraga A, 1b       5  1  2  2   Springer R, p         0  0  0  0   
+Lopez J, c            5  1  2  1   Holmes D, p           0  0  0  0   
+Hubbard M, c          0  0  0  0   Ryan R, ph            1  0  0  0   
+Sanders R, lf         4  3  2  4   Klassen D, 3b         2  0  0  0   
+Lockhart K, 2b        3  1  0  0   Williams M, 3b        3  1  1  0   
+Burkett J, p          4  1  1  1   Guzman G, p           0  0  0  0   
+Remlinger M, p        0  0  0  0   Cabrera A, ph-rf      2  0  0  0   
+Surhoff B, ph         1  0  0  0   Counsell C, 2b        4  2  2  0   
+Kamieniecki S, p      0  0  0  0   Stinnett K, c         3  0  2  1   
+Mulholland T, p       0  0  0  0   Morgan M, p           0  0  0  0   
+Rocker J, p           0  0  0  0   Mieske M, ph          1  1  1  0   
+                                   Stottlemyre T, p      1  0  0  0   
+                                   Conti J, rf-cf        3  2  2  2   
+                     -- -- -- --                        -- -- -- --
+                     40 12 14 12                        40 10 14 10
+
+Atlanta          025 040 010 -- 12
+Arizona          120 000 106 -- 10
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (W)         6.2  8  4  4  1  2
+Remlinger M           1.1  0  0  0  0  1
+Kamieniecki S*        0.0  5  5  5  0  0
+Mulholland T+         0.0  1  1  1  0  0
+Rocker J (S)          1.0  0  0  0  0  3
+
+  Arizona              IP  H  R ER BB SO
+Stottlemyre T (L)     3.0  5  7  7  2  1
+Springer R            1.2  3  4  4  3  3
+Holmes D              1.1  3  0  0  0  0
+Guzman G              2.0  3  1  1  1  3
+Morgan M              1.0  0  0  0  0  1
+  * Pitched to 5 batters in 9th
+  + Pitched to 1 batter in 9th
+
+DP -- Arizona 2
+LOB -- Atlanta 8, Arizona 5
+2B -- Jones C, Dellucci D, Jones A, Conti J, Bautista D, Lopez J, Counsell C
+3B -- Conti J, Womack T
+HR -- Sanders R 2, Furcal R, Galarraga A, Barajas R
+SB -- Womack T, Jones C, Sanders R
+SF -- Womack T
+HBP -- by Stottlemyre T (Jordan B)
+WP -- Stottlemyre T
+Balk -- Stottlemyre T
+T -- 3:30
+A -- 41470
+     Game of 9/17/2000 -- Atlanta at Arizona (D)
+
+  Atlanta            AB  R  H RBI    Arizona            AB  R  H RBI
+Furcal R, ss          5  0  2  0   Womack T, ss          4  0  0  0   
+Jones A, cf           5  3  3  1   Bell J, 2b            4  0  0  0   
+Jones C, 3b           3  1  1  0   Gonzalez L, lf        4  0  1  0   
+Joyner W, 1b          4  0  2  2   Colbrunn G, 1b        4  1  2  1   
+DeRosa M, pr          0  1  0  0   Finley S, cf          2  0  0  0   
+Galarraga A, 1b       1  0  0  0   Cabrera A, ph         1  0  0  0   
+Jordan B, rf          4  1  1  0   Williams M, 3b        4  0  0  0   
+Lopez J, c            4  1  3  2   Dellucci D, rf        3  0  1  0   
+Sanders R, lf         5  0  1  1   Kim B, p              0  0  0  0   
+Lockhart K, 2b        4  0  2  1   Morgan M, p           0  0  0  0   
+Millwood K, p         2  0  1  0   Swindell G, p         0  0  0  0   
+Bonilla B, ph         1  0  0  0   Stinnett K, c         3  0  0  0   
+Remlinger M, p        0  0  0  0   Schilling C, p        1  0  0  0   
+Mulholland T, p       0  0  0  0   Conti J, rf           0  0  0  0   
+                                   Mieske M, ph-rf       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 16  7                        31  1  4  1
+
+Atlanta          101 000 050 --  7
+Arizona          010 000 000 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Millwood K (W)        7.0  4  1  1  1  5
+Remlinger M           1.0  0  0  0  0  0
+Mulholland T          1.0  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (L)       7.0  9  2  2  2  3
+Kim B*                0.0  3  5  5  2  0
+Morgan M+             0.0  2  0  0  0  0
+Swindell G            2.0  2  0  0  0  1
+  * Pitched to 5 batters in 8th
+  + Pitched to 2 batters in 8th
+
+E -- Joyner W, Jones C 2
+DP -- Atlanta 1, Arizona 2
+LOB -- Atlanta 9, Arizona 5
+2B -- Lopez J
+3B -- Jones A
+HR -- Colbrunn G, Jones A
+SB -- Womack T
+CS -- Womack T, Furcal R
+SH -- Millwood K, Schilling C
+T -- 3:01
+A -- 38364
+     Game of 9/29/2000 -- San Francisco at Arizona (N)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Benard M, cf          5  0  1  1   Bautista D, rf        4  0  1  0   
+Davis R, 3b           4  0  1  0   Gonzalez L, lf        5  0  1  1   
+Mueller B, pr-3b      1  0  0  0   Colbrunn G, 1b        5  0  1  0   
+Bonds B, lf           4  0  0  0   Finley S, cf          3  0  0  0   
+Kent J, 2b            3  1  2  0   Williams M, 3b        3  2  3  1   
+Burks E, rf           3  0  0  0   Counsell C, ss        4  0  2  0   
+Snow J, 1b            4  1  1  0   Bell J, 2b            4  0  0  0   
+Aurilia R, ss         4  1  2  3   Stinnett K, c         3  0  1  0   
+Estalella B, c        1  1  0  0   Frias H, ph           0  1  0  0   
+Hernandez L, p        3  0  0  0   Anderson B, p         2  0  0  0   
+Lowery T, ph          1  0  0  0   Springer R, p         0  0  0  0   
+Nen R, p              0  0  0  0   Dellucci D, ph        1  0  0  0   
+                                   Swindell G, p         0  0  0  0   
+                                   Ryan R, ph            0  0  0  0   
+                                   Conti J, pr           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  4                        34  3  9  2
+
+San Francisco    001 102 000 --  4
+Arizona          010 100 001 --  3
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       8.0  9  2  1  2  3
+Nen R (S)             1.0  0  1  1  2  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (L)        6.2  7  4  4  5  2
+Springer R            0.1  0  0  0  0  0
+Swindell G            2.0  0  0  0  0  2
+
+E -- Kent J
+DP -- San Francisco 1, Arizona 1
+LOB -- San Francisco 7, Arizona 9
+2B -- Benard M, Colbrunn G, Aurilia R, Davis R, Bautista D
+3B -- Kent J
+HR -- Williams M, Aurilia R
+CS -- Counsell C
+SH -- Bautista D
+T -- 2:47
+A -- 38435
+     Game of 9/30/2000 -- San Francisco at Arizona (N)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Benard M, cf          4  0  0  0   Counsell C, 2b        4  2  2  0   
+Mueller B, 3b         2  0  0  0   Bautista D, cf        4  1  2  1   
+Bonds B, lf           3  0  1  0   Gonzalez L, lf        4  1  2  3   
+Kent J, 2b            4  0  1  0   Williams M, 3b        4  0  1  0   
+Snow J, 1b            4  0  0  0   Dellucci D, rf        3  0  1  0   
+Aurilia R, ss         3  0  1  0   Conti J, rf           1  0  1  0   
+Rios A, rf            3  0  0  0   Cabrera A, 1b         4  0  1  0   
+Mirabelli D, c        2  0  0  0   Frias H, ss           3  0  0  0   
+Crespo F, ph          1  0  0  0   Barajas R, c          4  0  0  0   
+Servais S, c          0  0  0  0   Guzman G, p           2  0  0  0   
+Gardner M, p          2  0  1  0   Mieske M, ph          1  1  1  1   
+Minor D, ph           1  1  1  1   Plesac D, p           0  0  0  0   
+Embree A, p           0  0  0  0                                      
+Johnstone J, p        0  0  0  0                                      
+Henry D, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  1  5  1                        34  5 11  5
+
+San Francisco    000 000 010 --  1
+Arizona          001 000 04x --  5
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M             7.0  6  1  1  0  5
+Embree A (L)*         0.0  2  2  2  0  0
+Johnstone J           0.1  3  2  2  0  0
+Henry D               0.2  0  0  0  1  0
+
+  Arizona              IP  H  R ER BB SO
+Guzman G (W)          8.0  5  1  1  2  5
+Plesac D              1.0  0  0  0  1  2
+  * Pitched to 2 batters in 8th
+
+DP -- Arizona 2
+LOB -- San Francisco 4, Arizona 6
+2B -- Bonds B, Counsell C
+3B -- Bautista D
+HR -- Minor D, Mieske M, Gonzalez L
+CS -- Dellucci D
+T -- 2:36
+A -- 42794
+     Game of 10/1/2000 -- San Francisco at Arizona (D)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Benard M, lf          3  3  2  0   Counsell C, ss        3  1  0  0   
+Rios A, lf            1  1  0  0   Bautista D, cf        5  1  3  0   
+Mueller B, 3b         4  1  1  0   Gonzalez L, lf        4  1  2  1   
+Davis R, 3b           2  0  1  0   Klassen D, pr         0  0  0  0   
+Kent J, 1b            2  2  2  0   Williams M, 3b        5  1  2  3   
+Crespo F, ph-1b       2  1  1  2   Dellucci D, rf        4  0  0  0   
+Burks E, rf           4  1  2  4   Colbrunn G, 1b        2  0  0  0   
+Lowery T, rf          1  0  0  0   Bell J, 2b            4  0  1  0   
+Aurilia R, ss         3  1  0  0   Stinnett K, c         3  0  0  0   
+Melo J, 2b            1  0  0  0   Johnson R, p          1  0  0  0   
+Murray C, cf          4  1  1  4   Holmes D, p           0  0  0  0   
+Martinez R, 2b-ss     2  0  1  0   Conti J, ph           1  0  0  0   
+Estalella B, c        4  0  0  0   Morgan M, p           0  0  0  0   
+Fultz A, p            0  0  0  0   Frias H, ph           1  0  0  0   
+Bonds B, ph           1  0  0  0   Kim B, p              0  0  0  0   
+Henry D, p            0  0  0  0   Springer R, p         0  0  0  0   
+Rodriguez F, p        0  0  0  0   Ryan R, ph            1  0  0  0   
+Del Toro M, p         0  0  0  0                                      
+Ortiz R, p            4  0  1  0                                      
+Servais S, c          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39 11 12 10                        34  4  8  4
+
+San Francisco    102 600 002 -- 11
+Arizona          400 000 000 --  4
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (W)           6.0  5  4  4  2  2
+Fultz A               1.0  2  0  0  0  0
+Henry D               1.0  0  0  0  1  1
+Rodriguez F           0.1  1  0  0  1  1
+Del Toro M            0.2  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (L)         3.1  7  9  8  5  5
+Holmes D              0.2  0  0  0  0  0
+Morgan M              2.0  3  0  0  0  3
+Kim B*                2.0  1  1  1  3  1
+Springer R            1.0  1  1  1  0  2
+  * Pitched to 1 batter in 9th
+
+E -- Counsell C
+LOB -- San Francisco 12, Arizona 9
+2B -- Bell J, Gonzalez L
+3B -- Burks E
+HR -- Williams M, Murray C, Crespo F
+SB -- Benard M, Aurilia R
+SF -- Burks E
+HBP -- by Ortiz R (Stinnett K), by Ortiz R (Gonzalez L), by Johnson R (Benard M), by Morgan M (Martinez R)
+WP -- Johnson R
+T -- 3:29
+A -- 41483
+

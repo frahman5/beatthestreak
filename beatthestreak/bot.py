@@ -15,12 +15,14 @@ class Bot(object):
         players: TupleOfPlayers | If bot is playing a double down, will be a 
            tuple of length 2. Otherwise, a tuple of length 1
         history: ListOfTuples
-            Tuples = (Player, True|False, DateAssigned, StreakLengthOnDate, other)
+            Tuples = (Player1, Player1HitVal, Player2, Player2HitVal, DateAssigned, StreakLengthOnDate, other)
         maxStreakLength: int[>=0] | length of bot's longest streak
         hasMulligan: bool | indicates whether or not the Bot has "mulligan", 
            or free pass if his streak would have ended length in [10,15]
         hasClaimedMulligan: bool | indicates whether or not this Bot has 
            claimed a mulligan before. Can only claim a mulligan once
+        lastHistory: Tuple | same structure as a history tuple. Holds the
+           last entered History item, for speedups
     """
     def __init__(self, index):
         self.index = index
@@ -45,7 +47,6 @@ class Bot(object):
             return False
         return True
 
-    # @profile
     def update_history(self, p1=None, p2=None, date=None, susGamesDict=None, 
            bot=None):
         """
@@ -58,21 +59,20 @@ class Bot(object):
             bot: Bot | OPTIONAL. A bot from which to copy the last history item. 
 
         Updates history in one of three ways:
-            1) Given p1, date, susGamesDict: updates history as a single down 
+            1) Given bot: copies the given bot's last history tuple
             2) Given p1, p2, date, susGamesDict: updates history as a double down
-            3) Given bot: copies the given bot's last history tuple
-
+            3) Given p1, date, susGamesDict: updates history as a single down 
         """
         # type checking done in helper functions
 
-        if bot: # update type 3
+        if bot: # update type 1
             for param in (p1, p2, date, susGamesDict):
                 assert param is None
             self.__update_history_from_bot(bot)
         elif p2: # update type 2
             assert bot is None
             self.__update_history_double_down(p1, p2, date, susGamesDict)
-        elif not p2: # update type 1
+        elif not p2: # update type 3
             assert bot is None
             self.__update_history_single_down(p1, date, susGamesDict)
 
@@ -84,7 +84,6 @@ class Bot(object):
         """
         self.history.append(otherBot.get_last_history())
 
-    # @profile
     def __update_history_double_down(self, p1, p2, date, susGamesDict):
         """
         Player Player date dict -> None
@@ -93,7 +92,7 @@ class Bot(object):
             date : date on which to assign player
             susGamesDict: dictionary of suspended games as defined in Researcher
 
-        Updates bot history with a doubble_down play on date date for players
+        Updates bot history with a double_down play on date date for players
         p1 and p2. Updates streakLength, maxStreakLength (if need be), and includes
         "other" column in history if need be
         """

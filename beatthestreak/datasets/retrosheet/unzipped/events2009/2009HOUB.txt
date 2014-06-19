@@ -1,0 +1,3711 @@
+     Game of 4/6/2009 -- Chicago at Houston (N)
+
+  Chicago            AB  R  H RBI    Houston            AB  R  H RBI
+Soriano A, lf         5  1  2  1   Matsui K, 2b          3  0  1  0   
+Fukudome K, cf        4  0  0  0   Rodriguez I, c        4  0  0  0   
+Gregg K, p            0  0  0  0   Berkman L, 1b         2  0  1  0   
+Lee D, 1b             4  0  0  0   Lee C, lf             4  0  0  0   
+Bradley M, rf         3  0  0  0   Tejada M, ss          4  2  3  0   
+Ramirez A, 3b         4  1  1  1   Blum G, 3b            3  0  1  0   
+Fontenot M, 2b        4  2  3  0   Pence H, rf           3  0  0  1   
+Soto G, c             4  0  1  0   Bourn M, cf           4  0  2  1   
+Theriot R, ss         2  0  1  1   Oswalt R, p           1  0  0  0   
+Zambrano C, p         3  0  0  0   Erstad D, ph          0  0  0  0   
+Heilman A, p          0  0  0  0   Michaels J, ph        1  0  0  0   
+Cotts N, p            0  0  0  0   Geary G, p            0  0  0  0   
+Marmol C, p           0  0  0  0   Smith J, ph           1  0  0  0   
+Hoffpauir M, ph       1  0  1  1                                      
+Gathright J, cf       0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        30  2  8  2
+
+Chicago          110 100 001 --  4
+Houston          000 000 101 --  2
+
+  Chicago              IP  H  R ER BB SO
+Zambrano C (W)*       6.0  5  1  1  3  6
+Heilman A             0.2  1  0  0  0  0
+Cotts N               0.1  0  0  0  0  0
+Marmol C              1.0  0  0  0  1  0
+Gregg K (S)           1.0  2  1  1  0  0
+
+  Houston              IP  H  R ER BB SO
+Oswalt R (L)          7.0  7  3  3  1  2
+Geary G               2.0  2  1  1  1  2
+  * Pitched to 2 batters in 7th
+
+DP -- Chicago 2, Houston 1
+LOB -- Chicago 6, Houston 7
+2B -- Fontenot M
+HR -- Soriano A, Ramirez A
+CS -- Tejada M
+SH -- Oswalt R
+SF -- Theriot R, Pence H
+WP -- Geary G
+T -- 2:39
+A -- 43827
+     Game of 4/7/2009 -- Chicago at Houston (N)
+
+  Chicago            AB  R  H RBI    Houston            AB  R  H RBI
+Soriano A, lf         5  1  1  1   Matsui K, 2b          4  0  1  0   
+Gregg K, p            0  0  0  0   Rodriguez I, c        4  1  1  0   
+Theriot R, ss         3  1  2  0   Berkman L, 1b         4  0  1  0   
+Heilman A, p          0  0  0  0   Lee C, lf             4  0  0  0   
+Cotts N, p            0  0  0  0   Valverde J, p         0  0  0  0   
+Fukudome K, cf        0  0  0  0   Byrdak T, p           0  0  0  0   
+Lee D, 1b             3  0  1  1   Brocail D, p          0  0  0  0   
+Bradley M, rf         4  0  0  0   Michaels J, ph        1  0  0  0   
+Ramirez A, 3b         4  0  1  0   Tejada M, ss          3  0  1  0   
+Johnson R, cf-lf      3  0  1  0   Blum G, 3b            4  1  2  0   
+Soto G, c             1  0  0  0   Keppinger J, pr-3b    1  0  1  1   
+Hill K, c             2  0  0  0   Pence H, rf           3  1  2  1   
+Fontenot M, 2b        4  0  0  0   Bourn M, cf           4  0  1  1   
+Dempster R, p         2  0  0  0   Rodriguez W, p        2  0  0  0   
+Guzman A, p           0  0  0  0   Sampson C, p          0  0  0  0   
+Miles A, ph-ss        2  0  0  0   Smith J, ph           1  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                                   Erstad D, lf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  6  2                        36  3 10  3
+
+Chicago          001 000 010 0 --  2
+Houston          000 011 000 1 --  3
+  1 out when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Dempster R            6.0  6  2  2  3  5
+Guzman A              1.0  0  0  0  0  2
+Heilman A*            1.0  1  0  0  2  0
+Cotts N (L)+          1.0  2  1  1  0  1
+Gregg K               0.1  1  0  0  1  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W           6.0  4  1  1  3  4
+Sampson C             1.0  0  0  0  0  0
+Hawkins L             1.0  2  1  1  0  1
+Valverde J            1.0  0  0  0  0  2
+Byrdak T              0.2  0  0  0  0  2
+Brocail D (W)         0.1  0  0  0  0  0
+  * Pitched to 2 batters in 9th
+  + Pitched to 2 batters in 10th
+
+E -- Theriot R, Tejada M
+DP -- Chicago 1, Houston 2
+LOB -- Chicago 5, Houston 11
+2B -- Theriot R
+3B -- Matsui K
+HR -- Pence H, Soriano A
+SB -- Matsui K
+CS -- Matsui K, Theriot R
+HBP -- by Rodriguez W (Soto G)
+T -- 3:18
+A -- 31121
+     Game of 4/8/2009 -- Chicago at Houston (N)
+
+  Chicago            AB  R  H RBI    Houston            AB  R  H RBI
+Soriano A, lf         5  2  2  0   Matsui K, 2b          5  1  1  1   
+Fukudome K, cf        5  4  4  1   Keppinger J, 3b       5  1  2  1   
+Guzman A, p           0  0  0  0   Berkman L, 1b         4  1  1  1   
+Lee D, 1b             6  1  1  1   Lee C, lf             4  0  1  0   
+Bradley M, rf         2  2  0  0   Tejada M, ss          4  1  1  0   
+Ramirez A, 3b         6  1  4  4   Pence H, rf           4  1  2  1   
+Fontenot M, 2b        5  1  2  4   Rodriguez I, c        4  1  2  2   
+Theriot R, ss         4  0  2  1   Bourn M, cf           4  0  1  0   
+Hill K, c             5  0  1  0   Moehler B, p          0  0  0  0   
+Lilly T, p            3  0  0  0   Ortiz R, p            2  0  0  0   
+Hoffpauir M, ph       1  0  0  0   Sampson C, p          0  0  0  0   
+Patton D, p           0  0  0  0   Smith J, ph           1  0  0  0   
+Marmol C, p           0  0  0  0   Geary G, p            0  0  0  0   
+Gathright J, ph-cf    1  0  0  0   Wright W, p           0  0  0  0   
+                                   Brocail D, p          0  0  0  0   
+                                   Erstad D, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     43 11 16 11                        38  6 11  6
+
+Chicago          440 020 001 -- 11
+Houston          002 211 000 --  6
+
+  Chicago              IP  H  R ER BB SO
+Lilly T (W)           5.0  8  5  5  0  3
+Patton D              2.0  1  1  1  0  2
+Marmol C              1.0  1  0  0  0  0
+Guzman A              1.0  1  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Moehler B (L)         1.2  8  7  7  1  1
+Ortiz R               3.0  4  3  3  4  6
+Sampson C             1.1  1  0  0  0  0
+Geary G               1.0  1  0  0  0  1
+Wright W              1.0  1  0  0  0  1
+Brocail D             1.0  1  1  1  1  0
+
+E -- Tejada M
+DP -- Houston 1
+LOB -- Chicago 12, Houston 5
+2B -- Lee D, Rodriguez I, Fukudome K, Ramirez A, Lee C, Soriano A, Pence H
+HR -- Fontenot M, Keppinger J, Berkman L, Rodriguez I, Matsui K, Pence H, Fukudome K
+SB -- Fukudome K, Soriano A
+HBP -- by Moehler B (Bradley M)
+T -- 3:14
+A -- 30047
+     Game of 4/17/2009 -- Cincinnati at Houston (N)
+
+  Cincinnati         AB  R  H RBI    Houston            AB  R  H RBI
+Taveras W, cf         3  0  0  0   Bourn M, cf           3  0  0  0   
+Dickerson C, lf       4  0  1  0   Tejada M, ss          4  0  2  0   
+Votto J, 1b           4  0  2  0   Berkman L, 1b         1  0  0  1   
+Phillips B, 2b        3  0  0  0   Lee C, lf             4  0  0  0   
+Bruce J, rf           4  0  1  0   Valverde J, p         0  0  0  0   
+Encarnacion E, 3b     3  1  1  0   Pence H, rf           3  0  0  0   
+Hernandez R, c        3  1  1  2   Blum G, 3b            4  0  1  0   
+Gonzalez A, ss        4  0  1  0   Rodriguez I, c        4  0  1  0   
+Cueto J, p            2  0  0  0   Smith J, 2b           4  0  0  0   
+Lincoln M, p          0  0  0  0   Oswalt R, p           1  1  0  0   
+McDonald D, ph        1  0  0  0   Geary G, p            0  0  0  0   
+Herrera D, p          0  0  0  0   Michaels J, ph        0  0  0  0   
+Masset N, p           0  0  0  0   Hawkins L, p          0  0  0  0   
+Nix L, ph             1  0  0  0   Erstad D, lf          0  0  0  0   
+Cordero F, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        28  1  4  1
+
+Cincinnati       000 000 002 --  2
+Houston          000 010 000 --  1
+
+  Cincinnati           IP  H  R ER BB SO
+Cueto J               4.2  2  1  1  6  3
+Lincoln M             1.1  0  0  0  0  0
+Herrera D             0.2  0  0  0  1  0
+Masset N (W)          1.1  0  0  0  0  0
+Cordero F (S)         1.0  2  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Oswalt R              6.0  5  0  0  3  4
+Geary G               1.0  0  0  0  0  0
+Hawkins L             1.0  1  0  0  0  0
+Valverde J (L)        1.0  1  2  2  1  1
+
+DP -- Cincinnati 2
+LOB -- Cincinnati 7, Houston 7
+2B -- Encarnacion E, Votto J
+HR -- Hernandez R
+CS -- Dickerson C, Bourn M
+WP -- Cueto J
+T -- 3:01
+A -- 32268
+     Game of 4/18/2009 -- Cincinnati at Houston (N)
+
+  Cincinnati         AB  R  H RBI    Houston            AB  R  H RBI
+Taveras W, cf         4  0  0  0   Bourn M, cf           5  1  1  0   
+Hairston J, lf        4  0  1  0   Tejada M, ss          4  2  1  0   
+Votto J, 1b           4  0  1  0   Berkman L, 1b         4  1  0  0   
+Phillips B, 2b        2  0  0  0   Lee C, lf             3  2  3  1   
+Encarnacion E, 3b     2  0  0  0   Sampson C, p          0  0  0  0   
+Nix L, rf             3  0  0  0   Michaels J, ph        1  0  0  0   
+Burton J, p           0  0  0  0   Fulchino J, p         0  0  0  0   
+Herrera D, p          0  0  0  0   Pence H, rf           4  0  2  1   
+Hernandez R, c        2  0  0  0   Blum G, 3b            4  1  3  3   
+Janish P, ss          0  0  0  0   Rodriguez I, c        4  0  2  2   
+Gonzalez A, ss        3  0  0  0   Smith J, 2b           4  0  0  0   
+Hanigan R, c          0  0  0  0   Rodriguez W, p        3  0  0  0   
+Harang A, p           2  0  0  0   Erstad D, ph-lf       1  0  1  0   
+Dickerson C, rf       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     27  0  2  0                        37  7 13  7
+
+Cincinnati       000 000 000 --  0
+Houston          200 010 40x --  7
+
+  Cincinnati           IP  H  R ER BB SO
+Harang A (L)*         6.0 10  5  5  1  6
+Burton J              1.0  3  2  2  1  3
+Herrera D             1.0  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)       7.0  2  0  0  2 10
+Sampson C             1.0  0  0  0  1  0
+Fulchino J            1.0  0  0  0  0  0
+  * Pitched to 2 batters in 7th
+
+E -- Phillips B
+DP -- Houston 2
+LOB -- Cincinnati 3, Houston 9
+2B -- Lee C, Blum G, Rodriguez I
+SB -- Tejada M, Pence H, Bourn M
+HBP -- by Harang A (Tejada M)
+WP -- Harang A
+T -- 2:26
+A -- 30141
+     Game of 4/19/2009 -- Cincinnati at Houston (D)
+
+  Cincinnati         AB  R  H RBI    Houston            AB  R  H RBI
+Taveras W, cf         2  0  1  1   Bourn M, cf           4  2  1  0   
+Dickerson C, lf       4  0  0  0   Tejada M, ss          5  0  3  1   
+Votto J, 1b           4  0  0  0   Berkman L, 1b         3  0  1  0   
+Phillips B, 2b        4  0  0  0   Lee C, lf             2  0  0  1   
+Encarnacion E, 3b     3  0  0  0   Pence H, rf           3  0  1  0   
+Nix L, rf             2  0  2  0   Blum G, 3b            3  0  0  0   
+Hairston J, ph-rf     1  1  1  0   Matsui K, pr-2b       1  0  0  0   
+Hernandez R, c        4  1  1  0   Smith J, 2b-3b        3  0  0  0   
+Gonzalez A, ss        3  1  0  0   Quintero H, c         3  0  0  0   
+Volquez E, p          2  0  0  0   Michaels J, ph        1  0  0  0   
+Owings M, ph          1  0  1  2   Sampson C, p          0  0  0  0   
+Bruce J, pr           0  0  0  0   Paulino F, p          2  0  1  0   
+Rhodes A, p           0  0  0  0   Erstad D, ph          1  0  0  0   
+Weathers D, p         0  0  0  0   Byrdak T, p           0  0  0  0   
+McDonald D, ph        1  1  1  0   Geary G, p            0  0  0  0   
+Cordero F, p          0  0  0  0   Fulchino J, p         0  0  0  0   
+                                   Rodriguez I, ph-c     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  7  3                        32  2  7  2
+
+Cincinnati       000 000 301 --  4
+Houston          001 000 001 --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Volquez E (W)         6.0  4  1  1  5  7
+Rhodes A              1.0  1  0  0  0  1
+Weathers D            1.0  1  0  0  1  1
+Cordero F (S)         1.0  1  1  1  2  1
+
+  Houston              IP  H  R ER BB SO
+Paulino F             6.0  3  0  0  2  6
+Byrdak T*             0.0  0  1  1  1  0
+Geary G (L)           1.0  2  2  1  0  1
+Fulchino J            1.0  1  0  0  0  1
+Sampson C             1.0  1  1  1  0  0
+  * Pitched to 1 batter in 7th
+
+E -- Volquez E, Dickerson C, Geary G, Votto J
+DP -- Cincinnati 2, Houston 2
+LOB -- Cincinnati 7, Houston 13
+2B -- Nix L, Owings M
+3B -- McDonald D
+SH -- Gonzalez A, Smith J
+SF -- Taveras W, Lee C
+HBP -- by Paulino F (Dickerson C), by Geary G (Taveras W)
+T -- 3:19
+A -- 29372
+     Game of 4/20/2009 -- Cincinnati at Houston (N)
+
+  Cincinnati         AB  R  H RBI    Houston            AB  R  H RBI
+Taveras W, cf         5  2  2  0   Matsui K, 2b          3  0  1  0   
+Hairston J, lf        4  0  0  0   Tejada M, ss          3  0  0  0   
+Votto J, 1b           5  1  2  2   Berkman L, 1b         4  1  1  1   
+Phillips B, 2b        4  0  0  0   Lee C, lf             3  1  1  1   
+Encarnacion E, 3b     4  0  2  2   Pence H, rf           4  1  2  0   
+McDonald D, rf        2  0  1  0   Blum G, 3b            4  0  3  0   
+Dickerson C, ph-rf    0  0  0  0   Rodriguez I, c        4  0  1  1   
+Hanigan R, c          4  0  1  0   Smith J, pr           0  0  0  0   
+Janish P, ss          3  1  2  0   Bourn M, cf           4  0  1  0   
+Arroyo B, p           1  0  0  0   Hampton M, p          1  0  0  0   
+Nix L, ph             1  0  0  0   Geary G, p            0  0  0  0   
+Rhodes A, p           0  0  0  0   Byrdak T, p           0  0  0  0   
+Cordero F, p          0  0  0  0   Hawkins L, p          0  0  0  0   
+                                   Michaels J, ph        1  0  1  0   
+                                   Valverde J, p         0  0  0  0   
+                                   Erstad D, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4 10  4                        32  3 11  3
+
+Cincinnati       200 000 200 --  4
+Houston          010 002 000 --  3
+
+  Cincinnati           IP  H  R ER BB SO
+Arroyo B (W)          7.0  9  3  3  0  2
+Rhodes A              1.0  1  0  0  2  1
+Cordero F (S)         1.0  1  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Hampton M             6.1  8  3  3  1  5
+Geary G (L)*          0.0  1  1  1  1  0
+Byrdak T              0.2  1  0  0  0  1
+Hawkins L             1.0  0  0  0  1  1
+Valverde J            1.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+DP -- Cincinnati 2, Houston 1
+LOB -- Cincinnati 8, Houston 6
+2B -- Votto J, Michaels J
+HR -- Berkman L, Lee C
+CS -- Rodriguez I
+SH -- Arroyo B 2, Hampton M, Matsui K
+HBP -- by Hawkins L (Janish P)
+T -- 2:53
+A -- 23308
+     Game of 4/21/2009 -- Los Angeles at Houston (N)
+
+  Los Angeles        AB  R  H RBI    Houston            AB  R  H RBI
+Furcal R, ss          4  1  0  0   Matsui K, 2b          2  2  1  2   
+Hudson O, 2b          4  2  2  0   Tejada M, ss          5  1  2  3   
+Ramirez M, lf         4  2  2  3   Berkman L, 1b         4  0  1  1   
+Ethier A, rf          2  0  0  0   Lee C, lf             4  1  2  2   
+Loney J, 1b           5  0  0  1   Hawkins L, p          0  0  0  0   
+Martin R, c           5  0  2  1   Blum G, 3b            0  0  0  0   
+Kemp M, cf            4  0  2  0   Pence H, rf           4  0  0  0   
+Blake C, 3b           2  0  0  0   Michaels J, cf-lf     3  0  1  0   
+Troncoso R, p         0  0  0  0   Rodriguez I, c        3  3  2  0   
+Pierre J, ph          1  0  0  0   Keppinger J, 3b       3  1  2  0   
+Belisario R, p        0  0  0  0   Valverde J, p         0  0  0  0   
+Kershaw C, p          1  0  0  0   Ortiz R, p            1  0  0  0   
+Mota G, p             0  0  0  0   Wright W, p           0  0  0  0   
+Loretta M, 3b         2  0  0  0   Erstad D, ph          1  0  0  0   
+                                   Fulchino J, p         0  0  0  0   
+                                   Bourn M, cf           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5  8  5                        30  8 11  8
+
+Los Angeles      300 000 200 --  5
+Houston          103 201 01x --  8
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (L)         4.1  8  6  6  2  3
+Mota G                1.0  1  1  1  1  0
+Troncoso R            1.2  0  0  0  0  2
+Belisario R           1.0  2  1  1  0  0
+
+  Houston              IP  H  R ER BB SO
+Ortiz R (W)           5.0  3  3  3  5  2
+Wright W              1.0  1  0  0  0  1
+Fulchino J            1.0  2  2  2  1  0
+Hawkins L             1.0  1  0  0  0  0
+Valverde J (S)        1.0  1  0  0  1  2
+
+E -- Valverde J
+DP -- Houston 2
+LOB -- Los Angeles 10, Houston 6
+2B -- Tejada M, Michaels J
+3B -- Kemp M
+HR -- Lee C, Ramirez M
+SB -- Matsui K
+CS -- Michaels J
+SH -- Ortiz R, Rodriguez I, Bourn M
+SF -- Matsui K
+HBP -- by Ortiz R (Blake C), by Mota G (Keppinger J)
+T -- 3:34
+A -- 26360
+     Game of 4/22/2009 -- Los Angeles at Houston (N)
+
+  Los Angeles        AB  R  H RBI    Houston            AB  R  H RBI
+Furcal R, ss          5  0  1  0   Matsui K, 2b          4  0  1  0   
+Hudson O, 2b          5  0  1  0   Tejada M, ss          4  0  1  0   
+Ramirez M, lf         4  1  1  1   Berkman L, 1b         3  2  1  1   
+Ethier A, rf          4  2  3  1   Lee C, lf             4  2  2  0   
+Loney J, 1b           4  0  1  1   Bourn M, cf           0  0  0  0   
+Martin R, c           3  1  0  0   Pence H, rf           4  2  2  2   
+Kemp M, cf            4  0  0  0   Michaels J, cf        3  0  2  2   
+Blake C, 3b           4  1  2  2   Sampson C, p          0  0  0  0   
+Wolf R, p             3  0  1  0   Blum G, ph-3b         0  0  0  0   
+Belisario R, p        0  0  0  0   Rodriguez I, c        4  0  1  1   
+Pierre J, ph          1  0  0  0   Keppinger J, 3b       4  0  1  0   
+                                   Hawkins L, p          0  0  0  0   
+                                   Oswalt R, p           2  0  0  0   
+                                   Erstad D, cf-lf       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 10  5                        33  6 11  6
+
+Los Angeles      000 004 010 --  5
+Houston          000 202 02x --  6
+
+  Los Angeles          IP  H  R ER BB SO
+Wolf R                7.0  8  4  4  1  6
+Belisario R (L)       1.0  3  2  2  1  0
+
+  Houston              IP  H  R ER BB SO
+Oswalt R              6.0  8  4  4  1  6
+Sampson C (W)         2.0  2  1  1  0  1
+Hawkins L (S)         1.0  0  0  0  0  1
+
+E -- Furcal R
+DP -- Los Angeles 2
+LOB -- Los Angeles 6, Houston 5
+2B -- Ethier A, Michaels J 2, Loney J, Pence H
+HR -- Pence H, Ramirez M, Ethier A, Blake C, Berkman L
+SB -- Pence H
+WP -- Belisario R
+T -- 2:46
+A -- 26725
+     Game of 4/23/2009 -- Los Angeles at Houston (N)
+
+  Los Angeles        AB  R  H RBI    Houston            AB  R  H RBI
+Furcal R, ss          3  1  1  0   Matsui K, 2b          3  0  0  0   
+Hudson O, 2b          4  0  2  0   Tejada M, ss          4  0  2  0   
+Ramirez M, lf         4  0  2  1   Berkman L, 1b         4  0  0  0   
+Ethier A, rf          4  0  0  0   Lee C, lf             4  0  0  0   
+Martin R, c           4  0  0  0   Blum G, 3b            3  0  0  0   
+Loney J, 1b           4  0  1  0   Smith J, pr           0  0  0  0   
+Kemp M, cf            3  1  1  0   Erstad D, rf          4  0  1  0   
+Blake C, 3b           4  0  1  1   Rodriguez I, c        2  0  0  0   
+Billingsley C, p      3  0  0  0   Bourn M, cf           2  0  1  0   
+Broxton J, p          0  0  0  0   Rodriguez W, p        0  0  0  0   
+                                   Michaels J, ph        0  0  0  0   
+                                   Geary G, p            0  0  0  0   
+                                   Pence H, ph           1  0  0  0   
+                                   Wright W, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        27  0  4  0
+
+Los Angeles      100 000 100 --  2
+Houston          000 000 000 --  0
+
+  Los Angeles          IP  H  R ER BB SO
+Billingsley C (W)     7.1  3  0  0  2  5
+Broxton J (S)         1.2  1  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (L)       6.0  5  1  1  2  4
+Geary G               2.0  2  1  1  0  1
+Wright W              1.0  1  0  0  0  0
+
+E -- Furcal R
+DP -- Los Angeles 3, Houston 1
+LOB -- Los Angeles 6, Houston 6
+2B -- Tejada M, Hudson O, Blake C
+SB -- Bourn M
+CS -- Rodriguez I
+SH -- Rodriguez W, Matsui K
+HBP -- by Billingsley C (Michaels J), by Broxton J (Blum G)
+WP -- Broxton J
+T -- 2:53
+A -- 26081
+     Game of 4/24/2009 -- Milwaukee at Houston (N)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Weeks R, 2b           5  2  2  1   Matsui K, 2b          4  0  1  0   
+Hart C, rf            4  1  1  1   Bourn M, cf           3  1  2  0   
+Braun R, lf           3  1  1  1   Berkman L, 1b         4  0  0  0   
+Fielder P, 1b         4  0  1  1   Lee C, lf             3  1  1  2   
+Cameron M, cf         4  0  2  1   Fulchino J, p         0  0  0  0   
+Hardy J, ss           4  0  3  0   Keppinger J, ph       1  0  0  0   
+Hall B, 3b            4  0  0  0   Tejada M, ss          3  0  0  0   
+Kendall J, c          4  1  1  0   Pence H, rf           3  0  1  0   
+Gallardo Y, p         3  0  0  0   Blum G, 3b            3  0  0  0   
+                                   Quintero H, c         1  0  0  0   
+                                   Rodriguez I, c        2  0  0  0   
+                                   Paulino F, p          2  0  0  0   
+                                   Erstad D, lf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5 11  5                        30  2  5  2
+
+Milwaukee        000 040 100 --  5
+Houston          000 200 000 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Gallardo Y (W)        9.0  5  2  2  0  7
+
+  Houston              IP  H  R ER BB SO
+Paulino F (L)         6.0 10  4  4  0  4
+Fulchino J            3.0  1  1  1  0  1
+
+DP -- Milwaukee 1
+LOB -- Milwaukee 5, Houston 2
+2B -- Cameron M
+HR -- Lee C, Weeks R
+SB -- Bourn M
+SH -- Bourn M, Gallardo Y
+HBP -- by Paulino F (Braun R)
+T -- 2:14
+A -- 25316
+     Game of 4/25/2009 -- Milwaukee at Houston (N)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Weeks R, 2b           6  0  1  0   Matsui K, 2b          5  0  1  2   
+Hart C, rf            5  2  2  0   Bourn M, cf           6  1  2  1   
+Braun R, lf           6  1  4  1   Berkman L, 1b         3  2  0  0   
+Fielder P, 1b         5  3  3  3   Lee C, lf             4  1  1  2   
+Cameron M, cf         4  1  1  0   Valverde J, p         0  0  0  0   
+Hardy J, ss           4  1  0  0   Keppinger J, ph-3b    0  0  0  0   
+Hall B, 3b            6  1  3  4   Tejada M, ss          6  0  0  0   
+Kendall J, c          4  0  1  1   Pence H, rf           5  0  1  0   
+Suppan J, p           1  0  0  0   Blum G, 3b            3  2  2  0   
+Counsell C, ph        1  0  1  0   Geary G, p            0  0  0  0   
+Stetter M, p          0  0  0  0   Smith J, ph           1  0  0  0   
+McClung S, p          0  0  0  0   Rodriguez I, c        2  0  0  0   
+Nelson B, ph          1  0  0  0   Towles J, c           3  1  1  1   
+Coffey T, p           0  0  0  0   Hampton M, p          2  0  1  1   
+Villanueva C, p       1  0  1  0   Michaels J, ph        1  0  0  0   
+DiFelice M, p         0  0  0  0   Sampson C, p          0  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                                   Erstad D, ph-lf       3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     44  9 17  9                        44  8 10  7
+
+Milwaukee        000 103 022 01 --  9
+Houston          000 310 031 00 --  8
+
+  Milwaukee            IP  H  R ER BB SO
+Suppan J              6.0  4  4  3  4  6
+Stetter M             0.2  0  0  0  1  1
+McClung S             0.1  0  0  0  0  1
+Coffey T              1.0  4  3  3  0  0
+Villanueva C          1.2  1  1  0  3  2
+DiFelice M (W)        1.1  1  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Hampton M             6.0  8  4  4  3  4
+Sampson C             1.0  1  0  0  0  2
+Hawkins L             1.0  3  2  2  1  1
+Valverde J            1.0  2  2  2  0  2
+Geary G (L)           2.0  3  1  1  2  2
+
+E -- Weeks R, Hall B
+DP -- Houston 3
+LOB -- Milwaukee 10, Houston 13
+2B -- Blum G, Matsui K, Hart C 2, Bourn M
+HR -- Fielder P 2, Lee C, Bourn M, Hall B
+SB -- Pence H, Hall B
+SH -- Suppan J, Keppinger J
+SF -- Kendall J
+HBP -- by Villanueva C (Berkman L)
+PB -- Kendall J
+T -- 4:23
+A -- 31355
+     Game of 4/26/2009 -- Milwaukee at Houston (D)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Weeks R, 2b           3  0  1  0   Bourn M, cf           3  1  1  0   
+Counsell C, ss        4  0  1  0   Keppinger J, 2b       4  0  1  0   
+Braun R, lf           4  0  0  0   Berkman L, 1b         4  0  0  0   
+Fielder P, 1b         3  1  0  0   Lee C, lf             3  0  1  1   
+Cameron M, cf         3  1  2  1   Hawkins L, p          0  0  0  0   
+Nelson B, rf          4  0  0  0   Valverde J, p         0  0  0  0   
+Hall B, 3b            3  0  1  0   Tejada M, ss          4  0  0  0   
+Kendall J, c          3  0  2  1   Pence H, rf           3  0  1  0   
+Parra M, p            2  0  0  0   Rodriguez I, c        4  1  1  1   
+Hardy J, ph           1  0  0  0   Blum G, 3b            4  0  2  0   
+McClung S, p          0  0  0  0   Ortiz R, p            1  1  0  0   
+Hart C, ph            1  0  0  0   Wright W, p           0  0  0  0   
+DiFelice M, p         0  0  0  0   Sampson C, p          0  0  0  0   
+Stetter M, p          0  0  0  0   Smith J, ph           1  0  0  0   
+                                   Brocail D, p          0  0  0  0   
+                                   Erstad D, lf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  7  2                        32  3  7  2
+
+Milwaukee        010 100 000 --  2
+Houston          002 100 00x --  3
+
+  Milwaukee            IP  H  R ER BB SO
+Parra M (L)           5.0  5  3  1  3  4
+McClung S             2.0  1  0  0  1  0
+DiFelice M            0.2  1  0  0  0  1
+Stetter M             0.1  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Ortiz R (W)           5.0  4  2  2  4  3
+Wright W              0.2  1  0  0  0  0
+Sampson C             0.1  0  0  0  0  0
+Brocail D             1.0  1  0  0  2  2
+Hawkins L             1.0  1  0  0  0  1
+Valverde J (S)        1.0  0  0  0  1  1
+
+E -- Ortiz R, Weeks R, Kendall J
+LOB -- Milwaukee 11, Houston 9
+2B -- Keppinger J, Cameron M 2
+HR -- Rodriguez I
+CS -- Weeks R, Pence H, Kendall J
+SH -- Counsell C
+HBP -- by Ortiz R (Kendall J)
+T -- 3:26
+A -- 27690
+     Game of 5/6/2009 -- Chicago at Houston (N)
+
+  Chicago            AB  R  H RBI    Houston            AB  R  H RBI
+Soriano A, lf         5  1  1  0   Matsui K, 2b          5  0  2  0   
+Theriot R, ss         5  0  0  0   Bourn M, cf           4  1  1  0   
+Bradley M, rf         5  1  1  0   Berkman L, 1b         3  1  1  2   
+Gregg K, p            0  0  0  0   Lee C, lf             3  0  1  0   
+Ramirez A, 3b         4  1  2  1   Tejada M, ss          4  0  0  0   
+Soto G, c             3  1  0  0   Pence H, rf           4  1  2  0   
+Johnson R, cf-rf      3  2  1  3   Blum G, 3b            3  0  0  0   
+Hoffpauir M, 1b       4  0  1  0   Rodriguez I, c        4  0  0  0   
+Miles A, 2b           3  0  1  0   Hampton M, p          2  0  1  1   
+Harden R, p           4  0  1  0   Arias A, p            0  0  0  0   
+Marmol C, p           0  0  0  0   Erstad D, ph          1  0  0  0   
+Gathright J, cf       0  0  0  0   Wright W, p           0  0  0  0   
+                                   Fulchino J, p         0  0  0  0   
+                                   Michaels J, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6  8  4                        34  3  8  3
+
+Chicago          400 001 100 --  6
+Houston          000 100 020 --  3
+
+  Chicago              IP  H  R ER BB SO
+Harden R (W)*         7.0  8  3  3  3  4
+Marmol C              1.0  0  0  0  0  0
+Gregg K (S)           1.0  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Hampton M (L)         5.1  7  5  3  4  4
+Arias A               1.2  1  1  1  0  3
+Wright W              1.0  0  0  0  0  2
+Fulchino J            1.0  0  0  0  0  0
+  * Pitched to 3 batters in 8th
+
+E -- Blum G
+DP -- Chicago 1, Houston 1
+LOB -- Chicago 7, Houston 7
+2B -- Miles A, Pence H, Hoffpauir M
+3B -- Johnson R
+HR -- Ramirez A, Berkman L
+WP -- Harden R, Arias A
+PB -- Rodriguez I 2
+T -- 2:49
+A -- 29415
+     Game of 5/7/2009 -- Chicago at Houston (N)
+
+  Chicago            AB  R  H RBI    Houston            AB  R  H RBI
+Soriano A, lf         5  2  2  3   Matsui K, 2b          3  1  0  1   
+Theriot R, ss         4  2  2  0   Tejada M, ss          5  1  4  2   
+Fukudome K, cf-rf     4  2  1  0   Berkman L, 1b         5  0  0  0   
+Ramirez A, 3b         4  1  3  1   Lee C, lf             3  0  1  0   
+Fox C, p              0  0  0  0   Pence H, rf           4  0  1  0   
+Gregg K, p            0  0  0  0   Michaels J, cf        2  1  0  0   
+Hoffpauir M, 1b       4  0  2  1   Rodriguez I, c        4  1  1  1   
+Bradley M, rf         4  0  1  1   Keppinger J, 3b       4  0  0  1   
+Gathright J, cf       1  0  1  0   Ortiz R, p            1  0  0  0   
+Fontenot M, 2b-3b     3  0  0  2   Byrdak T, p           0  0  0  0   
+Soto G, c             5  0  1  0   Blum G, ph            1  0  0  0   
+Lilly T, p            3  0  0  0   Sampson C, p          0  0  0  0   
+Heilman A, p          0  0  0  0   Bourn M, ph           1  0  0  0   
+Marmol C, p           0  0  0  0   Wright W, p           0  0  0  0   
+Miles A, ph-2b        1  1  1  0   Paulino F, p          0  0  0  0   
+                                   Arias A, p            0  0  0  0   
+                                   Erstad D, ph          1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 14  8                        34  5  8  5
+
+Chicago          102 100 004 --  8
+Houston          200 000 003 --  5
+
+  Chicago              IP  H  R ER BB SO
+Lilly T (W)           6.0  4  2  2  3  5
+Heilman A             1.0  0  0  0  0  2
+Marmol C              1.0  1  0  0  0  3
+Fox C                 0.1  2  3  3  1  0
+Gregg K               0.2  1  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Ortiz R (L)           2.1  6  3  3  3  1
+Byrdak T              1.2  1  1  1  0  1
+Sampson C             3.0  0  0  0  0  1
+Wright W              0.2  2  0  0  0  2
+Paulino F             0.2  5  4  4  2  1
+Arias A               0.2  0  0  0  0  0
+
+E -- Berkman L, Ramirez A
+DP -- Chicago 1, Houston 2
+LOB -- Chicago 9, Houston 7
+2B -- Tejada M 2, Hoffpauir M, Theriot R
+3B -- Rodriguez I, Erstad D
+HR -- Tejada M, Soriano A 2
+SB -- Michaels J
+SF -- Fontenot M, Matsui K
+T -- 3:17
+A -- 28625
+     Game of 5/8/2009 -- San Diego at Houston (N)
+
+  San Diego          AB  R  H RBI    Houston            AB  R  H RBI
+Eckstein D, 2b        4  0  1  0   Matsui K, 2b          3  1  1  0   
+Giles B, rf           4  0  0  0   Bourn M, cf           3  0  0  0   
+Hairston S, cf        4  0  1  0   Pence H, rf           4  0  2  2   
+Gonzalez A, 1b        4  0  0  0   Lee C, lf             4  0  2  0   
+Headley C, lf         4  0  0  0   Hawkins L, p          0  0  0  0   
+Kouzmanoff K, 3b      3  0  0  0   Tejada M, ss          4  0  0  0   
+Hundley N, c          3  0  2  0   Blum G, 3b            2  0  0  0   
+Rodriguez L, ss       3  0  1  0   Erstad D, 1b          3  0  0  0   
+Gaudin C, p           2  0  0  0   Rodriguez I, c        2  1  0  0   
+Gonzalez E, ph        1  0  0  0   Rodriguez W, p        3  0  0  0   
+Meredith C, p         0  0  0  0   Michaels J, lf        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  0  5  0                        28  2  5  2
+
+San Diego        000 000 000 --  0
+Houston          000 020 00x --  2
+
+  San Diego            IP  H  R ER BB SO
+Gaudin C (L)          7.0  5  2  2  3  5
+Meredith C            1.0  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)       8.0  5  0  0  0  7
+Hawkins L (S)         1.0  0  0  0  0  1
+
+E -- Gaudin C
+DP -- San Diego 1
+LOB -- San Diego 5, Houston 6
+2B -- Hairston S, Rodriguez L, Lee C
+CS -- Blum G
+HBP -- by Gaudin C (Rodriguez I)
+T -- 2:19
+A -- 28139
+     Game of 5/9/2009 -- San Diego at Houston (N)
+
+  San Diego          AB  R  H RBI    Houston            AB  R  H RBI
+Giles B, rf           5  0  0  0   Matsui K, 2b          4  0  0  0   
+Eckstein D, 2b        5  1  2  2   Bourn M, cf           2  2  1  0   
+Hairston S, cf        4  0  1  0   Pence H, rf           2  2  0  0   
+Gonzalez A, 1b        4  1  1  0   Lee C, lf             4  0  3  2   
+Headley C, lf         3  0  1  2   Keppinger J, 3b       0  0  0  0   
+Kouzmanoff K, 3b      3  0  0  0   Tejada M, ss          2  0  1  2   
+Hundley N, c          4  0  1  0   Blum G, 3b-1b         3  0  0  0   
+Rodriguez L, ss       3  0  1  0   Erstad D, 1b-lf       4  1  1  0   
+Gregerson L, p        0  0  0  0   Towles J, c           3  0  0  0   
+Meredith C, p         0  0  0  0   Moehler B, p          2  0  0  0   
+Mujica E, p           0  0  0  0   Michaels J, ph        1  0  0  0   
+Gerut J, ph           1  0  0  0   Geary G, p            0  0  0  0   
+Correia K, p          1  1  1  0   Arias A, p            0  0  0  0   
+Burke C, ss           2  1  2  0   Wright W, p           0  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 10  4                        27  5  6  4
+
+San Diego        000 001 030 --  4
+Houston          000 002 12x --  5
+
+  San Diego            IP  H  R ER BB SO
+Correia K             6.0  4  2  2  3  4
+Gregerson L (L)*      1.0  1  3  3  2  1
+Meredith C            0.1  1  0  0  1  0
+Mujica E              0.2  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Moehler B             7.0  5  1  1  1  6
+Geary G               0.1  2  2  2  0  0
+Arias A               0.1  0  0  0  0  1
+Wright W+             0.0  1  1  1  0  0
+Hawkins L (W)         1.1  2  0  0  0  0
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 8th
+
+DP -- Houston 1
+LOB -- San Diego 7, Houston 6
+2B -- Lee C, Correia K, Eckstein D, Erstad D, Burke C 2, Headley C
+SB -- Bourn M, Headley C 2, Kouzmanoff K
+CS -- Bourn M
+SH -- Correia K, Towles J
+SF -- Tejada M
+HBP -- by Hawkins L (Kouzmanoff K)
+WP -- Gregerson L, Meredith C
+T -- 3:08
+A -- 29141
+     Game of 5/10/2009 -- San Diego at Houston (D)
+
+  San Diego          AB  R  H RBI    Houston            AB  R  H RBI
+Gerut J, rf           5  1  2  1   Matsui K, 2b          4  2  1  0   
+Eckstein D, 2b        1  1  0  0   Bourn M, cf           5  1  1  0   
+Rodriguez L, ss       2  1  1  0   Pence H, rf           3  3  1  0   
+Gonzalez A, 1b        4  1  1  2   Lee C, lf             4  2  3  4   
+Headley C, lf         4  1  2  2   Blum G, 1b            0  0  0  0   
+Hairston S, cf        4  0  1  0   Tejada M, ss          5  2  3  4   
+Kouzmanoff K, 3b      2  0  0  0   Erstad D, 1b-lf       5  0  1  0   
+Perdomo L, p          0  0  0  0   Rodriguez I, c        4  1  4  2   
+Giles B, ph           1  0  1  0   Keppinger J, 3b       5  0  1  0   
+Moreno E, p           0  0  0  0   Oswalt R, p           3  1  1  0   
+Sanchez D, p          0  0  0  0   Byrdak T, p           0  0  0  0   
+Blanco H, ph          0  0  0  0   Arias A, p            0  0  0  0   
+Lopez A, p            0  0  0  0   Michaels J, ph        1  0  0  0   
+Hundley N, c          2  0  0  0   Sampson C, p          1  0  0  0   
+Burke C, ss-2b        4  0  1  0                                      
+Geer J, p             1  0  0  0                                      
+Gonzalez E, 3b        3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  5  9  5                        40 12 16 10
+
+San Diego        000 202 100 --  5
+Houston          320 400 03x -- 12
+
+  San Diego            IP  H  R ER BB SO
+Geer J (L)*           3.0  7  7  5  3  0
+Perdomo L             2.0  4  2  0  1  0
+Moreno E              1.0  1  0  0  0  2
+Sanchez D             1.0  0  0  0  0  0
+Lopez A               1.0  4  3  3  0  0
+
+  Houston              IP  H  R ER BB SO
+Oswalt R (W)          6.0  6  4  4  2  4
+Byrdak T              0.1  1  1  1  1  0
+Arias A               0.2  0  0  0  0  0
+Sampson C             2.0  2  0  0  1  0
+  * Pitched to 2 batters in 4th
+
+E -- Burke C 2, Matsui K
+DP -- San Diego 1, Houston 4
+LOB -- San Diego 6, Houston 9
+2B -- Hairston S, Lee C
+3B -- Rodriguez I, Pence H
+HR -- Tejada M, Headley C, Gonzalez A, Gerut J, Lee C, Rodriguez I
+SB -- Matsui K, Bourn M
+HBP -- by Oswalt R (Eckstein D), by Geer J (Matsui K)
+WP -- Perdomo L, Oswalt R
+T -- 2:57
+A -- 30023
+     Game of 5/19/2009 -- Milwaukee at Houston (N)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Hart C, rf            4  0  0  0   Matsui K, 2b          5  1  1  0   
+Hall B, 3b            4  0  1  0   Bourn M, cf           4  0  2  0   
+Braun R, lf           2  2  0  0   Berkman L, 1b         3  0  0  0   
+Fielder P, 1b         3  2  1  1   Lee C, lf             3  0  0  0   
+Cameron M, cf         4  0  0  0   Tejada M, ss          3  0  1  0   
+Hardy J, ss           4  0  2  2   Pence H, rf           4  0  3  0   
+Rivera M, c           4  0  1  0   Blum G, 3b            4  0  0  0   
+McGehee C, 2b         2  0  0  1   Rodriguez I, c        4  0  0  0   
+Bush D, p             2  0  1  0   Hampton M, p          1  0  0  0   
+Villanueva C, p       0  0  0  0   Ortiz R, p            1  1  1  1   
+Coffey T, p           0  0  0  0   Erstad D, ph          1  0  0  0   
+Gamel M, ph           1  0  0  0   Fulchino J, p         0  0  0  0   
+Hoffman T, p          0  0  0  0   Michaels J, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  4  6  4                        34  2  8  1
+
+Milwaukee        000 202 000 --  4
+Houston          100 010 000 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Bush D (W)            6.0  7  2  2  1  2
+Villanueva C          1.0  0  0  0  0  2
+Coffey T              1.0  1  0  0  0  1
+Hoffman T (S)         1.0  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Hampton M             4.0  3  2  2  3  4
+Ortiz R (L)           2.0  3  2  2  2  2
+Fulchino J            3.0  0  0  0  0  0
+
+DP -- Milwaukee 1, Houston 2
+LOB -- Milwaukee 5, Houston 8
+2B -- Matsui K, Fielder P, Bourn M
+HR -- Ortiz R
+SB -- Matsui K
+SF -- McGehee C
+HBP -- by Bush D (Lee C), by Bush D (Tejada M)
+T -- 2:41
+A -- 29343
+     Game of 5/20/2009 -- Milwaukee at Houston (N)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Hart C, rf            5  0  1  1   Matsui K, 2b          5  0  1  0   
+Hall B, 3b            5  0  0  0   Bourn M, cf           3  1  0  0   
+Braun R, lf           4  0  1  0   Berkman L, 1b         2  1  1  1   
+Fielder P, 1b         4  0  1  0   Lee C, lf             4  1  1  0   
+Cameron M, cf         4  1  2  1   Arias A, p            0  0  0  0   
+Hardy J, ss           4  1  1  0   Sampson C, p          0  0  0  0   
+McGehee C, 2b         3  1  2  0   Pence H, rf           3  1  2  2   
+Kendall J, c          3  1  0  0   Tejada M, ss          4  2  2  2   
+Gallardo Y, p         2  0  0  0   Blum G, 3b            4  0  0  0   
+McClung S, p          0  0  0  0   Rodriguez I, c        4  0  0  0   
+Rivera M, ph          1  0  0  0   Rodriguez W, p        3  0  1  1   
+Julio J, p            0  0  0  0   Erstad D, lf          0  0  0  0   
+Gamel M, ph           1  0  1  2                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4  9  4                        32  6  8  6
+
+Milwaukee        000 100 003 --  4
+Houston          112 002 00x --  6
+
+  Milwaukee            IP  H  R ER BB SO
+Gallardo Y (L)*       5.0  7  6  6  2  3
+McClung S             1.0  1  0  0  0  2
+Julio J               2.0  0  0  0  3  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)       7.0  6  1  1  1  5
+Arias A+              1.0  2  3  3  1  2
+Sampson C (S)         1.0  1  0  0  0  1
+  * Pitched to 2 batters in 6th
+  + Pitched to 3 batters in 9th
+
+DP -- Milwaukee 1
+LOB -- Milwaukee 7, Houston 7
+2B -- Berkman L, McGehee C, Matsui K, Tejada M, Gamel M
+3B -- Pence H
+HR -- Tejada M, Cameron M
+WP -- Julio J
+T -- 2:43
+A -- 27160
+     Game of 5/21/2009 -- Milwaukee at Houston (N)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Counsell C, 2b-3b     5  1  3  0   Bourn M, cf           4  0  0  0   
+Hardy J, ss           4  1  1  0   Keppinger J, 2b       5  0  0  0   
+Braun R, lf           4  1  2  1   Berkman L, 1b         2  0  1  0   
+Fielder P, 1b         5  0  1  2   Erstad D, 1b          1  0  0  0   
+Cameron M, cf         5  0  2  0   Lee C, lf             3  1  1  0   
+Hart C, rf            5  0  3  1   Pence H, rf           4  1  2  2   
+Hall B, 3b            3  0  0  0   Tejada M, ss          4  1  2  1   
+McClung S, p          0  0  0  0   Blum G, 3b            3  0  2  0   
+Gamel M, ph           0  0  0  0   Smith J, pr           0  0  0  0   
+Villanueva C, p       0  0  0  0   Rodriguez I, c        4  0  2  0   
+Coffey T, p           0  0  0  0   Oswalt R, p           2  0  0  0   
+Hoffman T, p          0  0  0  0   Fulchino J, p         0  0  0  0   
+Kendall J, c          4  0  1  0   Byrdak T, p           0  0  0  0   
+Suppan J, p           2  1  0  0   Sampson C, p          0  0  0  0   
+Iribarren H, 2b       2  0  0  0   Wright W, p           0  0  0  0   
+                                   Arias A, p            0  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                                   Matsui K, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  4 13  4                        33  3 10  3
+
+Milwaukee        000 010 300 --  4
+Houston          020 100 000 --  3
+
+  Milwaukee            IP  H  R ER BB SO
+Suppan J*             5.0  8  3  3  4  2
+McClung S (W)         1.0  0  0  0  0  0
+Villanueva C          1.0  0  0  0  0  2
+Coffey T              1.0  0  0  0  0  0
+Hoffman T (S)         1.0  2  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Oswalt R              6.1 10  3  3  1  7
+Fulchino J (L)+       0.0  0  1  1  0  0
+Byrdak T#             0.0  1  0  0  0  0
+Sampson C             0.2  1  0  0  1  0
+Wright W              0.1  1  0  0  0  1
+Arias A               0.2  0  0  0  0  1
+Hawkins L             1.0  0  0  0  0  2
+  * Pitched to 2 batters in 6th
+  + Pitched to 1 batter in 7th
+  # Pitched to 1 batter in 7th
+
+DP -- Milwaukee 2, Houston 1
+LOB -- Milwaukee 11, Houston 8
+2B -- Kendall J, Hart C
+3B -- Braun R
+HR -- Pence H, Tejada M
+SH -- Oswalt R
+HBP -- by Fulchino J (Braun R)
+WP -- Oswalt R
+T -- 3:18
+A -- 25037
+     Game of 5/22/2009 -- Texas at Houston (N)
+
+  Texas              AB  R  H RBI    Houston            AB  R  H RBI
+Kinsler I, 2b         5  0  0  0   Bourn M, cf           5  1  3  1   
+Young M, 3b           4  1  3  1   Matsui K, 2b          4  1  1  0   
+Hamilton J, cf        5  0  1  0   Sampson C, p          0  0  0  0   
+Jones A, 1b           4  0  1  1   Hawkins L, p          0  0  0  0   
+Wilson C, p           0  0  0  0   Erstad D, ph          1  0  0  0   
+O'Day D, p            0  0  0  0   Berkman L, 1b         5  1  2  3   
+Blalock H, ph         1  0  0  0   Lee C, lf             4  0  2  0   
+Francisco F, p        0  0  0  0   Michaels J, pr-lf     1  0  0  0   
+Cruz N, rf            3  1  1  1   Pence H, rf           4  0  1  0   
+Murphy D, lf          5  1  1  0   Tejada M, ss          4  1  1  0   
+Saltalamacchia J, c   4  1  1  2   Keppinger J, 3b-2b    3  1  0  0   
+Andrus E, ss          5  2  4  1   Quintero H, c         2  0  0  0   
+Holland D, p          2  0  0  0   Blum G, ph-3b         2  0  1  1   
+Jennings J, p         0  0  0  0   Paulino F, p          1  0  0  0   
+Davis C, 1b           2  0  0  0   Wright W, p           0  0  0  0   
+                                   Maysonet E, ph        1  0  0  0   
+                                   Ortiz R, p            0  0  0  0   
+                                   Rodriguez I, ph-c     2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  6 12  6                        39  5 11  5
+
+Texas            002 102 000 1 --  6
+Houston          000 003 200 0 --  5
+
+  Texas                IP  H  R ER BB SO
+Holland D             5.2  5  3  3  0  4
+Jennings J            1.0  2  2  2  1  1
+Wilson C              0.2  3  0  0  0  1
+O'Day D (W)           1.2  0  0  0  0  0
+Francisco F (S)       1.0  1  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Paulino F             5.1  7  4  4  2  3
+Wright W              0.2  2  1  1  0  0
+Ortiz R               1.0  1  0  0  1  1
+Sampson C             2.0  0  0  0  0  2
+Hawkins L (L)         1.0  2  1  1  1  2
+
+DP -- Texas 2, Houston 1
+LOB -- Texas 9, Houston 5
+2B -- Tejada M
+HR -- Andrus E, Saltalamacchia J, Berkman L, Cruz N
+SB -- Bourn M, Andrus E
+SH -- Holland D
+T -- 3:17
+A -- 36017
+     Game of 5/23/2009 -- Texas at Houston (D)
+
+  Texas              AB  R  H RBI    Houston            AB  R  H RBI
+Vizquel O, 2b         5  1  2  0   Bourn M, cf           4  0  0  0   
+Murphy D, lf          4  0  1  0   Tejada M, ss          4  1  2  1   
+Hamilton J, cf        4  1  1  0   Berkman L, 1b         4  0  0  0   
+Cruz N, rf            4  2  2  4   Lee C, lf             4  0  1  0   
+Blalock H, 3b         4  1  3  1   Pence H, rf           3  1  2  0   
+Davis C, 1b           4  0  0  0   Blum G, 3b            4  1  1  2   
+Saltalamacchia J, c   4  0  1  0   Rodriguez I, c        4  0  0  0   
+Andrus E, ss          4  1  1  0   Matsui K, 2b          3  0  0  0   
+Feldman S, p          2  0  0  0   Moehler B, p          1  0  0  0   
+O'Day D, p            0  0  0  0   Byrdak T, p           0  0  0  0   
+Guardado E, p         0  0  0  0   Maysonet E, ph        1  0  0  0   
+Byrd M, ph            1  0  0  0   Wright W, p           0  0  0  0   
+Wilson C, p           0  0  0  0   Erstad D, ph          0  0  0  0   
+                                   Fulchino J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6 11  5                        32  3  6  3
+
+Texas            000 312 000 --  6
+Houston          100 000 200 --  3
+
+  Texas                IP  H  R ER BB SO
+Feldman S (W)         6.2  5  3  3  2  5
+O'Day D               0.1  0  0  0  1  1
+Guardado E            1.0  0  0  0  0  0
+Wilson C (S)          1.0  1  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Moehler B (L)*        5.0  9  6  6  0  4
+Byrdak T              1.0  0  0  0  0  1
+Wright W              1.0  0  0  0  0  2
+Fulchino J            2.0  2  0  0  0  2
+  * Pitched to 2 batters in 6th
+
+E -- Lee C, Feldman S
+LOB -- Texas 4, Houston 5
+2B -- Hamilton J, Blalock H, Murphy D
+HR -- Tejada M, Cruz N 2, Blalock H, Blum G
+CS -- Pence H
+SH -- Feldman S
+T -- 2:48
+A -- 36019
+     Game of 5/24/2009 -- Texas at Houston (D)
+
+  Texas              AB  R  H RBI    Houston            AB  R  H RBI
+Kinsler I, 2b         5  1  1  1   Bourn M, cf           5  0  0  0   
+Young M, 3b           4  1  1  0   Tejada M, ss          4  0  4  0   
+Hamilton J, cf        4  2  3  1   Berkman L, 1b         4  0  0  0   
+Cruz N, rf            5  0  2  1   Lee C, lf             4  0  0  0   
+Byrd M, lf            3  0  1  1   Pence H, rf           4  0  1  0   
+Davis C, 1b           4  0  1  0   Blum G, 3b            3  0  1  0   
+Saltalamacchia J, c   4  1  1  1   Maysonet E, 3b        1  0  0  0   
+Andrus E, ss          3  0  1  0   Matsui K, 2b          3  0  0  0   
+McCarthy B, p         4  0  0  0   Quintero H, c         4  0  2  0   
+                                   Hampton M, p          1  0  1  0   
+                                   Michaels J, ph        1  0  0  0   
+                                   Ortiz R, p            1  0  0  0   
+                                   Erstad D, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 11  5                        36  0  9  0
+
+Texas            103 100 000 --  5
+Houston          000 000 000 --  0
+
+  Texas                IP  H  R ER BB SO
+McCarthy B (W)        9.0  9  0  0  1  6
+
+  Houston              IP  H  R ER BB SO
+Hampton M (L)         5.0  8  5  5  1  0
+Ortiz R               4.0  3  0  0  2  1
+
+LOB -- Texas 8, Houston 10
+2B -- Byrd M, Hamilton J, Young M, Tejada M, Andrus E
+HR -- Hamilton J, Kinsler I, Saltalamacchia J
+SB -- Cruz N, Tejada M
+CS -- Cruz N
+SF -- Byrd M
+T -- 2:37
+A -- 36749
+     Game of 6/1/2009 -- Colorado at Houston (N)
+
+  Colorado           AB  R  H RBI    Houston            AB  R  H RBI
+Spilborghs R, cf      5  0  0  0   Bourn M, cf           4  0  1  0   
+Barmes C, 2b          4  0  2  0   Tejada M, ss          4  1  2  0   
+Helton T, 1b          4  1  1  1   Pence H, rf           3  2  1  0   
+Atkins G, 3b          3  0  1  0   Lee C, lf             3  1  3  2   
+Hawpe B, rf           4  0  1  0   Berkman L, 1b         3  0  1  2   
+Smith S, lf           4  0  3  0   Rodriguez I, c        3  0  1  0   
+Tulowitzki T, ss      4  0  0  0   Keppinger J, 3b       3  0  0  0   
+Torrealba Y, c        3  0  0  0   Maysonet E, 2b        3  0  0  0   
+Cook A, p             2  0  0  0   Oswalt R, p           2  0  1  0   
+Murton M, ph          1  0  0  0   Erstad D, ph          1  0  0  0   
+Fogg J, p             0  0  0  0   Sampson C, p          0  0  0  0   
+Embree A, p           0  0  0  0   Hawkins L, p          0  0  0  0   
+Stewart I, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  1  8  1                        29  4 10  4
+
+Colorado         000 010 000 --  1
+Houston          100 102 00x --  4
+
+  Colorado             IP  H  R ER BB SO
+Cook A (L)            6.0  9  4  4  1  2
+Fogg J                1.0  0  0  0  0  1
+Embree A              1.0  1  0  0  1  1
+
+  Houston              IP  H  R ER BB SO
+Oswalt R (W)          7.0  6  1  1  2  8
+Sampson C             1.0  2  0  0  0  0
+Hawkins L (S)         1.0  0  0  0  0  1
+
+DP -- Colorado 2
+LOB -- Colorado 9, Houston 4
+2B -- Barmes C
+HR -- Helton T, Lee C
+CS -- Bourn M, Tejada M
+SF -- Berkman L
+WP -- Cook A
+T -- 2:31
+A -- 24016
+     Game of 6/2/2009 -- Colorado at Houston (N)
+
+  Colorado           AB  R  H RBI    Houston            AB  R  H RBI
+Fowler D, cf          5  0  1  0   Bourn M, cf           4  1  2  0   
+Barmes C, 2b          5  0  0  0   Tejada M, ss          6  1  4  3   
+Helton T, 1b          4  1  1  0   Pence H, rf           4  0  0  0   
+Hawpe B, rf           3  1  1  1   Lee C, lf             4  0  0  0   
+Atkins G, 3b          4  0  0  0   Berkman L, 1b         4  0  2  0   
+Street H, p           0  0  0  0   Blum G, 3b            2  0  1  0   
+Spilborghs R, ph      1  0  0  0   Kata M, pr-2b         1  0  0  0   
+Fogg J, p             0  0  0  0   Maysonet E, 2b-3b     5  0  2  0   
+Smith S, lf           5  0  1  1   Quintero H, c         2  0  0  0   
+Tulowitzki T, ss      2  0  0  0   Erstad D, ph          1  0  0  0   
+Quintanilla O, ss     3  0  1  0   Fulchino J, p         0  0  0  0   
+Phillips P, c         3  0  1  0   Byrdak T, p           0  0  0  0   
+Jimenez U, p          2  0  1  0   Michaels J, ph        1  0  0  0   
+Murton M, ph          1  0  1  0   Arias A, p            0  0  0  0   
+Flores R, p           0  0  0  0   Hawkins L, p          0  0  0  0   
+Peralta J, p          0  0  0  0   Keppinger J, ph       1  0  0  0   
+Corpas M, p           0  0  0  0   Ortiz R, p            0  0  0  0   
+Stewart I, ph-3b      2  0  0  0   Paulino F, p          2  0  0  0   
+                                   Rodriguez I, ph-c     3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     40  2  8  2                        40  3 12  3
+
+Colorado         000 200 000 00 --  2
+Houston          000 010 001 01 --  3
+  1 out when winning run was scored.
+
+  Colorado             IP  H  R ER BB SO
+Jimenez U             6.0  7  1  1  4  4
+Flores R              0.1  0  0  0  0  0
+Peralta J             0.2  0  0  0  0  1
+Corpas M              1.0  2  0  0  0  3
+Street H              1.0  2  1  0  2  0
+Fogg J (L)            1.1  1  1  1  0  1
+
+  Houston              IP  H  R ER BB SO
+Paulino F             6.0  5  2  2  1  7
+Fulchino J            1.0  2  0  0  0  1
+Byrdak T              1.0  0  0  0  1  0
+Arias A               1.0  0  0  0  2  2
+Hawkins L             1.0  0  0  0  1  1
+Ortiz R (W)           1.0  1  0  0  0  1
+
+E -- Street H
+DP -- Colorado 3
+LOB -- Colorado 11, Houston 13
+2B -- Helton T, Hawpe B, Bourn M
+HR -- Tejada M
+SB -- Bourn M, Murton M
+SH -- Bourn M, Phillips P
+WP -- Paulino F
+PB -- Phillips P
+T -- 3:55
+A -- 24041
+     Game of 6/3/2009 -- Colorado at Houston (N)
+
+  Colorado           AB  R  H RBI    Houston            AB  R  H RBI
+Fowler D, cf          5  1  1  0   Bourn M, cf           4  2  2  0   
+Barmes C, ss          4  0  2  0   Tejada M, ss          5  1  1  0   
+Helton T, 1b          3  0  1  1   Pence H, rf           5  2  4  3   
+Hawpe B, rf           2  1  2  0   Lee C, lf             4  1  2  0   
+Atkins G, 3b          4  0  0  0   Erstad D, lf          0  0  0  0   
+Smith S, lf           4  1  1  0   Berkman L, 1b         3  0  1  1   
+Stewart I, 2b         4  1  2  3   Rodriguez I, c        4  0  1  1   
+Phillips P, c         3  0  0  0   Blum G, 3b            4  0  2  0   
+Spilborghs R, ph      1  0  0  0   Maysonet E, 2b        2  0  0  0   
+Marquis J, p          3  0  0  0   Sampson C, p          0  0  0  0   
+Flores R, p           0  0  0  0   Moehler B, p          2  0  0  0   
+Peralta J, p          0  0  0  0   Michaels J, ph        1  0  0  0   
+Corpas M, p           0  0  0  0   Byrdak T, p           0  0  0  0   
+Murton M, ph          0  0  0  0   Keppinger J, 2b       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  9  4                        35  6 13  5
+
+Colorado         000 031 000 --  4
+Houston          300 000 21x --  6
+
+  Colorado             IP  H  R ER BB SO
+Marquis J (L)*        6.0 10  5  4  4  2
+Flores R+             0.0  1  0  0  0  0
+Peralta J             1.0  0  0  0  0  1
+Corpas M              1.0  2  1  1  0  2
+
+  Houston              IP  H  R ER BB SO
+Moehler B             6.0  7  4  4  1  2
+Byrdak T (W)          1.0  0  0  0  0  1
+Sampson C (S)         2.0  2  0  0  2  1
+  * Pitched to 2 batters in 7th
+  + Pitched to 1 batter in 7th
+
+E -- Pence H, Peralta J
+DP -- Colorado 1, Houston 2
+LOB -- Colorado 6, Houston 10
+2B -- Fowler D, Helton T
+3B -- Pence H
+HR -- Stewart I, Pence H
+SB -- Bourn M
+SH -- Maysonet E
+SF -- Helton T
+WP -- Moehler B
+PB -- Phillips P
+T -- 2:49
+A -- 22032
+     Game of 6/4/2009 -- Colorado at Houston (N)
+
+  Colorado           AB  R  H RBI    Houston            AB  R  H RBI
+Spilborghs R, cf-lf   4  2  2  2   Bourn M, cf           5  0  2  1   
+Barmes C, ss          4  1  2  1   Tejada M, ss          5  0  0  0   
+Helton T, 1b          4  1  2  1   Pence H, rf           4  0  0  0   
+Murton M, lf          5  0  1  2   Lee C, lf             4  1  1  0   
+Grilli J, p           0  0  0  0   Berkman L, 1b         3  1  1  0   
+Embree A, p           0  0  0  0   Rodriguez I, c        4  0  1  1   
+Hawpe B, rf           5  1  1  1   Blum G, 3b            3  0  0  0   
+Atkins G, 3b          4  2  2  3   Maysonet E, 2b        4  1  2  1   
+Quintanilla O, 2b     1  0  0  0   Rodriguez W, p        0  0  0  0   
+Stewart I, 2b-3b      5  1  3  0   Kata M, ph            1  0  0  0   
+Bellorin E, c         4  1  1  0   Ortiz R, p            0  0  0  0   
+Hammel J, p           3  0  0  0   Erstad D, ph          0  0  0  0   
+Fowler D, ph-cf       0  1  0  0   Backe B, p            0  0  0  0   
+                                   Michaels J, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 10 14 10                        34  3  7  3
+
+Colorado         004 120 030 -- 10
+Houston          001 000 110 --  3
+
+  Colorado             IP  H  R ER BB SO
+Hammel J (W)          7.0  4  2  2  2  4
+Grilli J              1.0  2  1  1  1  1
+Embree A              1.0  1  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (L)       5.0 10  7  7  2  7
+Ortiz R               2.0  1  0  0  0  1
+Backe B               2.0  3  3  3  2  0
+
+E -- Atkins G
+LOB -- Colorado 7, Houston 8
+2B -- Spilborghs R, Bourn M, Stewart I, Berkman L
+3B -- Barmes C
+HR -- Atkins G 2, Spilborghs R, Hawpe B
+CS -- Barmes C
+SH -- Rodriguez W
+SF -- Spilborghs R
+T -- 2:47
+A -- 26671
+     Game of 6/5/2009 -- Pittsburgh at Houston (N)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+McCutchen A, cf       4  0  0  0   Bourn M, cf           4  2  2  0   
+Morgan N, lf          3  0  0  0   Keppinger J, ss       3  1  0  1   
+Sanchez F, 2b         4  0  0  0   Pence H, rf           3  1  2  1   
+Chavez J, p           0  0  0  0   Lee C, lf             5  1  2  4   
+LaRoche A, 1b         4  0  1  0   Berkman L, 1b         2  1  1  0   
+Young D, rf           4  1  2  0   Blum G, 3b            3  0  0  0   
+Hinske E, 3b          4  0  1  0   Maysonet E, 2b        3  1  1  0   
+Jaramillo J, c        3  0  0  0   Quintero H, c         3  1  2  2   
+Wilson J, ss          3  0  1  1   Hampton M, p          2  1  1  1   
+Karstens J, p         2  0  1  0   Kata M, ph            1  0  0  0   
+Meek E, p             0  0  0  0   Fulchino J, p         0  0  0  0   
+Burnett S, p          0  0  0  0                                      
+Vazquez R, ph-2b      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        29  9 11  9
+
+Pittsburgh       000 010 000 --  1
+Houston          002 007 00x --  9
+
+  Pittsburgh           IP  H  R ER BB SO
+Karstens J (L)        5.2  9  6  6  4  2
+Meek E                0.1  2  3  3  2  0
+Burnett S             1.0  0  0  0  0  0
+Chavez J              1.0  0  0  0  1  0
+
+  Houston              IP  H  R ER BB SO
+Hampton M (W)         7.0  5  1  1  0  5
+Fulchino J            2.0  1  0  0  1  1
+
+DP -- Pittsburgh 2, Houston 1
+LOB -- Pittsburgh 5, Houston 7
+2B -- Bourn M 2, Berkman L
+3B -- Quintero H
+HR -- Lee C
+SB -- Berkman L, Bourn M
+SF -- Keppinger J, Pence H, Hampton M
+HBP -- by Burnett S (Quintero H)
+T -- 2:35
+A -- 26222
+     Game of 6/6/2009 -- Pittsburgh at Houston (N)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+McCutchen A, cf       5  0  1  2   Bourn M, cf           5  0  0  0   
+Morgan N, lf          5  0  0  0   Tejada M, ss          5  2  3  0   
+Sanchez F, 2b         5  0  1  0   Pence H, rf           4  2  2  2   
+LaRoche A, 1b         4  1  2  0   Lee C, lf             4  0  2  2   
+LaRoche A, 3b         4  2  2  0   Berkman L, 1b         3  0  0  0   
+Capps M, p            0  0  0  0   Rodriguez I, c        4  0  1  0   
+Moss B, rf            4  2  1  1   Keppinger J, 3b       4  0  1  0   
+Jaramillo J, c        3  1  1  1   Maysonet E, 2b        4  0  1  0   
+Wilson J, ss          4  0  2  1   Oswalt R, p           2  0  0  0   
+Maholm P, p           3  0  1  1   Michaels J, ph        1  0  0  0   
+Young D, ph           1  0  0  0   Byrdak T, p           0  0  0  0   
+Grabow J, p           0  0  0  0   Sampson C, p          0  0  0  0   
+Vazquez R, 3b         0  0  0  0   Hawkins L, p          0  0  0  0   
+                                   Erstad D, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 11  6                        37  4 10  4
+
+Pittsburgh       033 000 000 --  6
+Houston          201 010 000 --  4
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (W)          7.0  8  4  4  1  4
+Grabow J              1.0  1  0  0  1  0
+Capps M (S)           1.0  1  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Oswalt R (L)          6.0  9  6  6  1  3
+Byrdak T              1.0  0  0  0  2  1
+Sampson C             1.0  1  0  0  0  1
+Hawkins L             1.0  1  0  0  0  0
+
+E -- Maysonet E, Keppinger J
+LOB -- Pittsburgh 8, Houston 8
+2B -- Lee C, LaRoche A, Moss B, Wilson J 2, Tejada M, Jaramillo J
+3B -- Pence H
+HR -- Pence H
+SB -- Morgan N
+CS -- LaRoche A, Morgan N
+T -- 2:45
+A -- 26099
+     Game of 6/7/2009 -- Pittsburgh at Houston (D)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+McCutchen A, cf       5  0  3  1   Bourn M, cf           4  0  2  0   
+Morgan N, lf          4  0  1  2   Tejada M, ss          4  0  1  1   
+Sanchez F, 2b         4  0  1  0   Pence H, rf           3  1  0  0   
+LaRoche A, 1b         3  0  0  0   Lee C, lf             3  0  1  1   
+LaRoche A, 3b         4  1  1  0   Erstad D, pr-lf       0  1  0  0   
+Moss B, rf            4  0  1  0   Berkman L, 1b         4  1  2  0   
+Jaramillo J, c        3  1  1  1   Blum G, 3b            4  1  1  0   
+Vazquez R, ss         4  1  1  0   Keppinger J, 2b       4  1  2  1   
+Snell I, p            2  0  1  0   Quintero H, c         4  0  3  2   
+Young D, ph           1  0  1  0   Paulino F, p          0  0  0  0   
+Jackson S, p          0  0  0  0   Ortiz R, p            2  0  0  0   
+Chavez J, p           0  0  0  0   Byrdak T, p           0  0  0  0   
+Hinske E, ph          1  1  1  0   Fulchino J, p         0  0  0  0   
+                                   Kata M, ph            1  1  0  0   
+                                   Sampson C, p          0  0  0  0   
+                                   Michaels J, ph        1  0  1  1   
+                                   Hawkins L, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 12  4                        34  6 13  6
+
+Pittsburgh       010 000 201 --  4
+Houston          010 011 12x --  6
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I               6.0  8  3  3  1  3
+Jackson S (L)         1.1  3  3  3  2  1
+Chavez J              0.2  2  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Paulino F             1.2  3  1  1  0  4
+Ortiz R               4.1  4  0  0  1  3
+Byrdak T*             0.0  2  2  2  1  0
+Fulchino J (W)        1.0  1  0  0  1  0
+Sampson C             1.0  0  0  0  0  1
+Hawkins L (S)         1.0  2  1  1  0  1
+  * Pitched to 3 batters in 7th
+
+E -- Vazquez R
+DP -- Pittsburgh 3, Houston 3
+LOB -- Pittsburgh 8, Houston 7
+2B -- Jaramillo J, Blum G, Keppinger J, Quintero H, Berkman L, Michaels J, Hinske E
+SB -- Pence H
+CS -- Lee C
+SF -- Morgan N
+WP -- Paulino F
+T -- 3:17
+A -- 25729
+     Game of 6/9/2009 -- Chicago at Houston (N)
+
+  Chicago            AB  R  H RBI    Houston            AB  R  H RBI
+Soriano A, lf         5  1  1  0   Bourn M, cf           4  0  0  0   
+Theriot R, ss         5  0  0  0   Tejada M, ss          4  0  2  0   
+Fukudome K, cf        4  1  2  2   Pence H, rf           4  0  1  0   
+Lee D, 1b             3  2  2  1   Lee C, lf             4  0  0  0   
+Bradley M, rf         6  0  0  0   Berkman L, 1b         4  1  2  1   
+Fontenot M, 3b        5  2  4  1   Rodriguez I, c        4  0  0  0   
+Soto G, c             5  0  3  1   Keppinger J, 3b       3  0  0  0   
+Blanco A, 2b          4  0  2  2   Maysonet E, 2b        3  0  0  0   
+Lilly T, p            4  1  1  0   Moehler B, p          0  0  0  0   
+Heilman A, p          0  0  0  0   Backe B, ph-p         0  0  0  0   
+Fox J, ph             1  0  1  0   Kata M, ph            1  0  0  0   
+Marshall S, p         0  0  0  0   Arias A, p            0  0  0  0   
+                                   Erstad D, ph          1  0  0  0   
+                                   Byrdak T, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42  7 16  7                        32  1  5  1
+
+Chicago          311 002 000 --  7
+Houston          000 000 001 --  1
+
+  Chicago              IP  H  R ER BB SO
+Lilly T (W)           6.2  3  0  0  2  4
+Heilman A             1.1  1  0  0  0  2
+Marshall S            1.0  1  1  1  0  0
+
+  Houston              IP  H  R ER BB SO
+Moehler B (L)         3.0  8  5  5  2  3
+Backe B               3.0  6  2  2  3  4
+Arias A               2.0  1  0  0  1  1
+Byrdak T              1.0  1  0  0  2  1
+
+E -- Maysonet E
+DP -- Houston 1
+LOB -- Chicago 16, Houston 6
+2B -- Soriano A, Fukudome K, Pence H, Lee D, Blanco A, Fontenot M, Fox J
+3B -- Lilly T
+HR -- Fontenot M, Berkman L
+T -- 3:13
+A -- 29669
+     Game of 6/10/2009 -- Chicago at Houston (N)
+
+  Chicago            AB  R  H RBI    Houston            AB  R  H RBI
+Soriano A, lf         3  0  0  0   Bourn M, cf           3  0  1  0   
+Theriot R, ss         4  0  2  0   Tejada M, ss          4  1  1  0   
+Bradley M, rf         4  0  1  0   Pence H, rf           2  1  0  0   
+Lee D, 1b             4  0  1  0   Lee C, lf             4  0  2  0   
+Johnson R, cf         3  0  0  0   Berkman L, 1b         3  0  0  0   
+Fukudome K, ph-cf     1  0  0  0   Blum G, 3b            4  0  1  2   
+Soto G, c             3  1  1  1   Kata M, 2b            3  0  0  0   
+Scales B, 3b          3  0  1  0   Sampson C, p          0  0  0  0   
+Fontenot M, ph-3b     1  0  0  0   Quintero H, c         3  0  0  0   
+Miles A, 2b           4  0  1  0   Rodriguez W, p        2  0  0  0   
+Zambrano C, p         3  0  0  0   Keppinger J, 2b       1  0  0  0   
+Guzman A, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  7  1                        29  2  5  2
+
+Chicago          010 000 000 --  1
+Houston          000 000 101 --  2
+  1 out when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Zambrano C            8.0  3  1  1  2  3
+Guzman A (L)          0.1  2  1  1  2  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W           7.0  5  1  1  2  6
+Sampson C (W)         2.0  2  0  0  0  2
+
+DP -- Chicago 1, Houston 1
+LOB -- Chicago 7, Houston 6
+HR -- Soto G
+T -- 2:24
+A -- 29840
+     Game of 6/11/2009 -- Chicago at Houston (D)
+
+  Chicago            AB  R  H RBI    Houston            AB  R  H RBI
+Soriano A, lf         5  0  1  0   Bourn M, cf           6  1  1  0   
+Theriot R, ss         4  0  0  0   Tejada M, ss          6  0  1  0   
+Marmol C, p           0  0  0  0   Pence H, rf           5  1  0  0   
+Johnson R, ph         1  0  0  0   Lee C, lf             2  0  0  1   
+Gregg K, p            0  0  0  0   Michaels J, lf        3  0  0  0   
+Scales B, 2b          1  0  0  0   Berkman L, 1b         4  0  2  0   
+Fukudome K, cf        5  0  0  0   Blum G, 3b            6  0  3  1   
+Lee D, 1b             4  1  1  1   Rodriguez I, c        5  0  0  0   
+Hoffpauir M, rf       5  0  1  0   Keppinger J, 2b       5  0  1  0   
+Fontenot M, 3b        4  0  1  0   Ortiz R, p            2  0  2  0   
+Hill K, c             3  0  0  0   Byrdak T, p           0  0  0  0   
+Bradley M, ph         1  0  1  0   Arias A, p            0  0  0  0   
+Soto G, c             1  0  0  0   Erstad D, ph          1  0  0  0   
+Blanco A, 2b-ss       4  0  0  0   Sampson C, p          0  0  0  0   
+Dempster R, p         1  0  1  0   Hawkins L, p          0  0  0  0   
+Miles A, ph-2b        3  0  0  0   Kata M, ph            1  0  1  0   
+Ascanio J, p          0  0  0  0   Fulchino J, p         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42  1  6  1                        47  2 11  2
+
+Chicago          000 000 001 000 0 --  1
+Houston          100 000 000 000 1 --  2
+  2 outs when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Dempster R            7.0  7  1  1  0  4
+Marmol C              2.0  0  0  0  1  1
+Gregg K               2.0  3  0  0  0  1
+Ascanio J (L)         1.2  1  1  1  2  2
+
+  Houston              IP  H  R ER BB SO
+Ortiz R               5.1  3  0  0  3  5
+Byrdak T              0.1  0  0  0  0  1
+Arias A               1.1  0  0  0  1  1
+Sampson C             1.0  0  0  0  0  1
+Hawkins L             2.0  2  1  1  1  1
+Fulchino J (W)        3.0  1  0  0  0  2
+
+E -- Blanco A
+DP -- Chicago 1, Houston 2
+LOB -- Chicago 8, Houston 11
+2B -- Bourn M, Berkman L
+HR -- Lee D
+SB -- Pence H
+CS -- Keppinger J
+SH -- Blanco A
+SF -- Lee C
+T -- 4:08
+A -- 34250
+     Game of 6/23/2009 -- Kansas City at Houston (N)
+
+  Kansas City        AB  R  H RBI    Houston            AB  R  H RBI
+DeJesus D, lf         2  0  0  0   Bourn M, cf           4  0  1  0   
+Bloomquist W, ss-rf   4  0  0  0   Keppinger J, 3b       3  0  0  0   
+Butler B, 1b          4  1  2  1   Pence H, rf           4  1  1  0   
+Guillen J, rf         4  1  1  0   Lee C, lf             4  0  1  0   
+Pena T, ss            0  0  0  0   Tejada M, ss          4  0  3  1   
+Teahen M, 3b          4  0  1  0   Erstad D, 1b          3  0  0  0   
+Callaspo A, 2b        3  0  1  0   Berkman L, ph         1  0  1  0   
+Olivo M, c            4  0  1  1   Rodriguez I, c        4  0  1  0   
+Greinke Z, p          3  0  0  0   Matsui K, 2b          4  0  2  0   
+Jacobs M, ph          1  0  0  0   Ortiz R, p            1  0  0  0   
+Soria J, p            0  0  0  0   Kata M, ph            1  0  0  0   
+Maier M, cf           3  0  0  0   Arias A, p            0  0  0  0   
+                                   Byrdak T, p           0  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                                   Michaels J, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        34  1 10  1
+
+Kansas City      011 000 000 --  2
+Houston          100 000 000 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Greinke Z (W)         8.0  8  1  1  0  5
+Soria J (S)           1.0  2  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Ortiz R (L)           7.0  5  2  2  2  4
+Arias A               1.0  0  0  0  1  2
+Byrdak T              0.1  0  0  0  0  1
+Hawkins L             0.2  1  0  0  0  1
+
+DP -- Kansas City 1, Houston 1
+LOB -- Kansas City 6, Houston 8
+2B -- Butler B, Olivo M
+HR -- Butler B
+SH -- Ortiz R, Keppinger J
+T -- 2:49
+A -- 30049
+     Game of 6/24/2009 -- Kansas City at Houston (N)
+
+  Kansas City        AB  R  H RBI    Houston            AB  R  H RBI
+DeJesus D, lf         6  0  3  1   Bourn M, cf           5  0  0  0   
+Callaspo A, 2b        6  0  1  0   Keppinger J, 3b       3  0  0  0   
+Butler B, 1b          5  0  0  0   Tejada M, ss          4  0  0  0   
+Guillen J, rf         6  0  0  0   Lee C, lf             3  0  1  0   
+Teahen M, 3b          5  1  2  0   Michaels J, lf        2  0  0  0   
+Pena B, c             4  1  2  1   Berkman L, 1b         5  0  0  0   
+Soria J, p            0  0  0  0   Pence H, rf           4  0  0  0   
+Bale J, p             0  0  0  0   Rodriguez I, c        4  1  2  0   
+Hernandez L, ss       2  0  0  0   Matsui K, 2b          3  1  1  0   
+Hulett T, ph          1  0  1  1   Oswalt R, p           1  0  0  0   
+Pena T, ss            0  0  0  0   Erstad D, ph          1  1  1  2   
+Bloomquist W, ph-ss   2  0  0  0   Sampson C, p          0  0  0  0   
+Maier M, cf           4  1  1  0   Hawkins L, p          0  0  0  0   
+Hochevar L, p         3  0  0  0   Maysonet E, ph        0  0  0  0   
+Farnsworth K, p       0  0  0  0   Valverde J, p         0  0  0  0   
+Wright J, p           0  0  0  0   Byrdak T, p           0  0  0  0   
+Jacobs M, ph          1  0  1  0   Kata M, ph            1  0  1  1   
+Colon R, p            0  0  0  0   Fulchino J, p         0  0  0  0   
+Olivo M, c            1  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     46  4 12  4                        36  3  6  3
+
+Kansas City      000 001 001 11 --  4
+Houston          000 002 000 10 --  3
+
+  Kansas City          IP  H  R ER BB SO
+Hochevar L            7.0  3  2  2  1  4
+Farnsworth K*         0.0  1  0  0  0  0
+Wright J              1.0  0  0  0  1  1
+Colon R               1.0  0  0  0  0  0
+Soria J (W)           1.0  2  1  1  1  1
+Bale J (S)            1.0  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Oswalt R              6.0  7  1  1  2  8
+Sampson C             1.0  0  0  0  0  0
+Hawkins L             1.0  0  0  0  0  0
+Valverde J            1.0  2  1  0  1  0
+Byrdak T              1.0  1  1  1  0  2
+Fulchino J (L)        1.0  2  1  1  0  2
+  * Pitched to 1 batter in 8th
+
+E -- Keppinger J, Pena T, Berkman L
+LOB -- Kansas City 12, Houston 6
+2B -- Teahen M, DeJesus D
+3B -- Maier M
+HR -- Erstad D, Pena B, Olivo M
+SH -- Maysonet E, Matsui K
+HBP -- by Hochevar L (Tejada M)
+T -- 3:35
+A -- 28602
+     Game of 6/25/2009 -- Kansas City at Houston (D)
+
+  Kansas City        AB  R  H RBI    Houston            AB  R  H RBI
+DeJesus D, lf         3  1  0  0   Bourn M, cf           4  0  0  0   
+Bloomquist W, ss      4  0  1  0   Keppinger J, 3b       4  0  1  0   
+Callaspo A, 2b        4  1  1  0   Tejada M, ss          4  0  0  0   
+Guillen J, rf         4  2  1  0   Lee C, lf             2  3  1  0   
+Jacobs M, 1b          4  0  0  0   Valverde J, p         0  0  0  0   
+Teahen M, 3b          4  0  2  2   Berkman L, 1b         4  2  3  4   
+Olivo M, c            4  0  0  0   Pence H, rf           4  0  0  0   
+Maier M, cf           2  0  1  0   Matsui K, 2b          2  0  0  1   
+Hulett T, ph          1  0  0  0   Quintero H, c         3  0  1  0   
+Bannister B, p        3  0  0  0   Moehler B, p          1  0  0  0   
+Cruz J, p             0  0  0  0   Kata M, ph            1  0  0  0   
+Colon R, p            0  0  0  0   Wright W, p           0  0  0  0   
+Butler B, ph          1  0  0  0   Sampson C, p          0  0  0  0   
+                                   Erstad D, ph          0  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                                   Michaels J, lf        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  6  2                        29  5  6  5
+
+Kansas City      010 210 000 --  4
+Houston          020 102 00x --  5
+
+  Kansas City          IP  H  R ER BB SO
+Bannister B (L)       6.0  6  5  5  2  3
+Cruz J                1.0  0  0  0  1  1
+Colon R               1.0  0  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Moehler B             5.0  5  4  1  2  3
+Wright W (W)          1.1  1  0  0  0  4
+Sampson C             0.2  0  0  0  0  1
+Hawkins L             1.0  0  0  0  0  1
+Valverde J (S)        1.0  0  0  0  0  1
+
+E -- Keppinger J, Tejada M, Quintero H, Bloomquist W
+DP -- Kansas City 1, Houston 1
+LOB -- Kansas City 5, Houston 4
+2B -- Guillen J, Lee C, Teahen M
+HR -- Berkman L 2
+SB -- Berkman L
+CS -- Erstad D
+SF -- Matsui K
+T -- 2:45
+A -- 32048
+     Game of 6/26/2009 -- Detroit at Houston (N)
+
+  Detroit            AB  R  H RBI    Houston            AB  R  H RBI
+Granderson C, cf      3  1  0  0   Bourn M, cf           3  0  2  0   
+Polanco P, 2b         5  1  1  3   Keppinger J, 3b       4  1  1  1   
+Dolsi F, p            0  0  0  0   Tejada M, ss          4  1  2  2   
+Cabrera M, 1b         4  1  2  1   Lee C, lf             5  0  0  0   
+Thames M, lf          2  0  1  0   Hawkins L, p          0  0  0  0   
+Anderson J, pr-lf-rf  1  0  0  0   Berkman L, 1b         1  0  1  0   
+Inge B, 3b            4  0  2  0   Pence H, rf           4  0  1  1   
+Ordonez M, rf         4  0  0  0   Rodriguez I, c        4  1  1  0   
+Zumaya J, p           0  0  0  0   Matsui K, 2b          3  1  1  0   
+Santiago R, 2b        0  0  0  0   Rodriguez W, p        2  0  0  0   
+Raburn R, ph          1  0  0  0   Kata M, ph            1  0  1  1   
+Laird G, c            3  0  2  0   Arias A, p            0  0  0  0   
+Everett A, ss         3  1  1  0   Byrdak T, p           0  0  0  0   
+Verlander J, p        1  0  0  0   Sampson C, p          0  0  0  0   
+Robertson N, p        0  0  0  0   Erstad D, ph-lf       0  1  0  0   
+Miner Z, p            0  0  0  0                                      
+Kelly D, lf           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  9  4                        31  5 10  5
+
+Detroit          130 000 000 --  4
+Houston          002 001 02x --  5
+
+  Detroit              IP  H  R ER BB SO
+Verlander J           5.1  7  3  3  4  6
+Robertson N*          0.0  1  0  0  0  0
+Miner Z               1.1  1  0  0  0  0
+Zumaya J (L)          0.2  1  2  2  3  0
+Dolsi F               0.2  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W           6.0  7  4  4  4  3
+Arias A               1.1  1  0  0  2  0
+Byrdak T              0.1  0  0  0  1  1
+Sampson C (W)         0.1  0  0  0  0  0
+Hawkins L (S)         1.0  1  0  0  0  0
+  * Pitched to 1 batter in 6th
+
+DP -- Detroit 1, Houston 1
+LOB -- Detroit 11, Houston 11
+2B -- Everett A, Tejada M, Rodriguez I
+HR -- Cabrera M, Polanco P
+SB -- Anderson J
+SH -- Verlander J 2, Matsui K, Everett A
+SF -- Tejada M
+Balk -- Verlander J
+T -- 3:24
+A -- 33052
+     Game of 6/27/2009 -- Detroit at Houston (N)
+
+  Detroit            AB  R  H RBI    Houston            AB  R  H RBI
+Granderson C, cf      3  0  0  0   Bourn M, cf           4  1  3  1   
+Raburn R, ph          1  0  0  0   Keppinger J, 3b       3  1  0  1   
+Polanco P, 2b         4  0  0  0   Tejada M, ss          3  1  1  0   
+Cabrera M, 1b         4  0  1  0   Lee C, lf             4  0  2  1   
+Thames M, lf          3  0  1  0   Berkman L, 1b         4  1  2  2   
+Kelly D, rf-3b        3  0  0  0   Pence H, rf           4  1  1  1   
+Inge B, 3b            3  0  0  0   Matsui K, 2b          4  2  2  2   
+Dolsi F, p            0  0  0  0   Quintero H, c         4  1  1  0   
+Laird G, c            0  0  0  0   Paulino F, p          2  0  0  0   
+Ryan D, c             3  0  0  0   Fulchino J, p         0  0  0  0   
+Santiago R, ss        3  1  1  1   Erstad D, ph          1  0  1  0   
+Figaro A, p           2  0  0  0   Wright W, p           0  0  0  0   
+Anderson J, rf        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  3  1                        33  8 13  8
+
+Detroit          001 000 000 --  1
+Houston          115 001 00x --  8
+
+  Detroit              IP  H  R ER BB SO
+Figaro A (L)          6.0 10  8  7  2  5
+Dolsi F               2.0  3  0  0  1  0
+
+  Houston              IP  H  R ER BB SO
+Paulino F (W)         7.0  3  1  1  0  9
+Fulchino J            1.0  0  0  0  0  0
+Wright W              1.0  0  0  0  0  2
+
+DP -- Detroit 2
+LOB -- Detroit 2, Houston 6
+2B -- Berkman L, Pence H, Erstad D
+HR -- Santiago R, Matsui K
+SB -- Bourn M, Berkman L
+SH -- Paulino F
+HBP -- by Figaro A (Tejada M)
+PB -- Ryan D
+T -- 2:16
+A -- 37123
+     Game of 6/28/2009 -- Detroit at Houston (D)
+
+  Detroit            AB  R  H RBI    Houston            AB  R  H RBI
+Granderson C, cf      4  1  3  1   Bourn M, cf           4  1  1  0   
+Polanco P, 2b         3  0  1  0   Keppinger J, ss       3  1  1  0   
+Cabrera M, 1b         4  0  0  0   Berkman L, 1b         3  0  0  1   
+Thames M, lf          3  0  0  0   Lee C, lf             3  0  1  0   
+Anderson J, pr-lf     0  1  0  0   Erstad D, lf          0  0  0  0   
+Inge B, 3b            4  2  2  2   Kata M, ph            1  0  0  0   
+Ordonez M, rf         4  0  0  0   Blum G, 3b            3  1  1  0   
+Laird G, c            3  0  1  1   Michaels J, pr        0  0  0  0   
+Everett A, ss         3  0  0  0   Pence H, rf           4  0  1  1   
+Jackson E, p          2  0  0  0   Rodriguez I, c        4  0  0  0   
+Kelly D, ph           0  0  0  0   Matsui K, 2b          3  0  1  1   
+Raburn R, ph          1  0  0  0   Ortiz R, p            3  0  0  0   
+Seay B, p             0  0  0  0   Byrdak T, p           0  0  0  0   
+Rodney F, p           0  0  0  0   Valverde J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  7  4                        31  3  6  3
+
+Detroit          000 011 002 --  4
+Houston          000 200 100 --  3
+
+  Detroit              IP  H  R ER BB SO
+Jackson E             7.0  5  3  3  0  5
+Seay B (W)            1.0  0  0  0  0  0
+Rodney F (S)          1.0  1  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Ortiz R               7.1  6  2  2  0  5
+Byrdak T              0.2  0  0  0  0  2
+Valverde J (L)        1.0  1  2  2  1  1
+
+DP -- Detroit 1, Houston 2
+LOB -- Detroit 2, Houston 4
+2B -- Pence H, Laird G, Matsui K
+3B -- Bourn M
+HR -- Granderson C, Inge B
+CS -- Granderson C
+SF -- Berkman L
+HBP -- by Jackson E (Keppinger J), by Ortiz R (Polanco P), by Jackson E (Blum G)
+T -- 2:31
+A -- 34041
+     Game of 7/6/2009 -- Pittsburgh at Houston (N)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+McCutchen A, cf       2  0  0  0   Bourn M, cf           4  1  1  0   
+Wilson J, ss          3  0  1  0   Tejada M, ss          4  1  2  2   
+Young D, lf           4  0  0  0   Berkman L, 1b         2  1  1  0   
+Jones G, rf           4  1  1  0   Lee C, lf             4  0  1  0   
+LaRoche A, 3b         4  0  0  0   Blum G, 3b            3  0  1  2   
+Pearce S, 1b          3  0  0  0   Pence H, rf           4  0  1  0   
+Diaz R, c             3  0  2  1   Matsui K, 2b          3  0  0  0   
+Vazquez R, 2b         3  0  0  0   Quintero H, c         4  0  0  0   
+Vasquez V, p          2  0  0  0   Hampton M, p          1  1  0  0   
+Chavez J, p           0  0  0  0   Erstad D, ph          1  0  1  0   
+Salazar J, ph         1  0  0  0   Hawkins L, p          0  0  0  0   
+Meek E, p             0  0  0  0   Valverde J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  1  4  1                        30  4  8  4
+
+Pittsburgh       000 000 100 --  1
+Houston          200 020 00x --  4
+
+  Pittsburgh           IP  H  R ER BB SO
+Vasquez V (L)         6.0  7  4  4  3  2
+Chavez J              1.0  1  0  0  1  0
+Meek E                1.0  0  0  0  1  3
+
+  Houston              IP  H  R ER BB SO
+Hampton M (W)         7.0  3  1  1  3  3
+Hawkins L             1.0  0  0  0  0  0
+Valverde J (S)        1.0  1  0  0  0  3
+
+E -- Berkman L
+DP -- Pittsburgh 1, Houston 2
+LOB -- Pittsburgh 4, Houston 7
+2B -- Tejada M 2, Jones G
+3B -- Blum G, Erstad D
+PB -- Quintero H
+T -- 2:38
+A -- 26834
+     Game of 7/7/2009 -- Pittsburgh at Houston (N)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+McCutchen A, cf       5  1  2  1   Bourn M, cf           4  1  0  1   
+Wilson J, ss          4  1  2  3   Tejada M, ss          5  0  2  0   
+Moss B, rf            4  0  0  0   Berkman L, 1b         4  1  1  1   
+LaRoche A, 1b         4  0  0  0   Lee C, lf             4  0  2  0   
+Jones G, lf           3  1  2  0   Pence H, rf           4  0  1  1   
+LaRoche A, 3b         3  1  0  0   Rodriguez I, c        4  0  3  0   
+Vazquez R, 2b         3  1  0  0   Matsui K, 2b          2  1  1  0   
+Jaramillo J, c        4  0  0  0   Keppinger J, 3b       3  0  0  0   
+Maholm P, p           2  0  0  0   Moehler B, p          2  0  0  0   
+Young D, ph           1  1  1  1   Byrdak T, p           0  0  0  0   
+Hanrahan J, p         0  0  0  0   Sampson C, p          0  0  0  0   
+Grabow J, p           0  0  0  0   Erstad D, ph          1  0  0  0   
+Salazar J, ph         1  0  0  0   Arias A, p            0  0  0  0   
+Capps M, p            0  0  0  0   Kata M, ph            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6  7  5                        34  3 10  3
+
+Pittsburgh       002 000 400 --  6
+Houston          001 001 100 --  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (W)          6.0  6  2  2  2  2
+Hanrahan J            0.1  1  1  1  1  0
+Grabow J              1.2  3  0  0  1  0
+Capps M (S)           1.0  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Moehler B (L)         6.1  3  4  4  2  4
+Byrdak T*             0.0  0  1  0  1  0
+Sampson C             0.2  3  1  0  0  0
+Arias A               2.0  1  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Tejada M, Berkman L
+DP -- Pittsburgh 3, Houston 1
+LOB -- Pittsburgh 4, Houston 8
+2B -- McCutchen A, Tejada M
+HR -- Wilson J
+SB -- Jones G 2
+T -- 2:39
+A -- 27142
+     Game of 7/8/2009 -- Pittsburgh at Houston (D)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+McCutchen A, cf       4  0  0  0   Bourn M, cf           3  2  2  1   
+Wilson J, ss          4  0  0  0   Tejada M, ss          5  0  2  1   
+Young D, lf           4  0  1  0   Berkman L, 1b         4  1  2  2   
+Jones G, rf           4  0  1  0   Lee C, lf             4  0  2  1   
+LaRoche A, 3b         3  0  1  0   Blum G, 3b            4  0  1  0   
+LaRoche A, 1b         3  0  1  0   Pence H, rf           4  0  1  0   
+Diaz R, c             3  0  0  0   Matsui K, 2b          4  1  2  0   
+Vazquez R, 2b         2  0  1  0   Quintero H, c         3  0  1  0   
+Morton C, p           1  0  0  0   Rodriguez W, p        4  1  0  0   
+Pearce S, ph          1  0  0  0                                      
+Jackson S, p          0  0  0  0                                      
+Meek E, p             0  0  0  0                                      
+Moss B, ph            1  0  0  0                                      
+Karstens J, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        35  5 13  5
+
+Pittsburgh       000 000 000 --  0
+Houston          002 300 00x --  5
+
+  Pittsburgh           IP  H  R ER BB SO
+Morton C (L)          4.0 10  5  5  1  3
+Jackson S             2.0  1  0  0  1  1
+Meek E                1.0  0  0  0  0  3
+Karstens J            1.0  2  0  0  1  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)       9.0  5  0  0  1 11
+
+DP -- Pittsburgh 1, Houston 2
+LOB -- Pittsburgh 4, Houston 9
+2B -- Berkman L 2, Lee C, Quintero H
+3B -- Bourn M
+SB -- Matsui K, Pence H, Bourn M
+T -- 2:36
+A -- 29243
+     Game of 7/9/2009 -- Washington at Houston (N)
+
+  Washington         AB  R  H RBI    Houston            AB  R  H RBI
+Morgan N, cf          5  0  0  0   Bourn M, cf           5  2  2  1   
+Johnson N, 1b         4  2  2  0   Tejada M, ss          4  1  1  1   
+Zimmerman R, 3b       5  2  2  1   Berkman L, 1b         4  3  2  3   
+Dunn A, lf            4  0  1  1   Lee C, lf             5  0  3  0   
+Willingham J, rf      3  0  1  0   Pence H, rf           4  0  2  2   
+Guzman C, ss          4  0  0  0   Rodriguez I, c        5  1  1  0   
+MacDougal M, p        0  0  0  0   Blum G, 3b            4  1  2  0   
+Bard J, c             3  0  1  2   Keppinger J, 2b       4  1  2  2   
+Hernandez A, 2b       3  0  1  0   Ortiz R, p            1  0  0  0   
+Lannan J, p           1  0  1  0   Fulchino J, p         0  0  0  0   
+Bergmann J, p         0  0  0  0   Kata M, ph            1  0  0  0   
+Burnett S, p          0  0  0  0   Arias A, p            0  0  0  0   
+Gonzalez A, ss        0  0  0  0   Michaels J, ph        1  0  0  0   
+                                   Byrdak T, p           0  0  0  0   
+                                   Sampson C, p          0  0  0  0   
+                                   Matsui K, ph          1  0  1  0   
+                                   Valverde J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  9  4                        39  9 16  9
+
+Washington       202 000 000 --  4
+Houston          101 004 03x --  9
+
+  Washington           IP  H  R ER BB SO
+Lannan J (L)*         5.0 11  5  5  1  2
+Bergmann J            0.1  2  1  1  0  1
+Burnett S             1.2  0  0  0  0  2
+MacDougal M           1.0  3  3  3  1  0
+
+  Houston              IP  H  R ER BB SO
+Ortiz R               3.0  6  4  4  2  1
+Fulchino J            1.0  1  0  0  0  1
+Arias A (W)           2.0  1  0  0  1  2
+Byrdak T              1.0  0  0  0  0  0
+Sampson C             1.0  0  0  0  0  1
+Valverde J            1.0  1  0  0  1  2
+  * Pitched to 3 batters in 6th
+
+E -- Rodriguez I
+DP -- Houston 1
+LOB -- Washington 8, Houston 9
+2B -- Dunn A, Lannan J, Lee C, Blum G, Willingham J, Rodriguez I
+3B -- Keppinger J, Bourn M
+HR -- Berkman L
+CS -- Pence H
+SH -- Lannan J 2
+HBP -- by Ortiz R (Willingham J), by MacDougal M (Tejada M)
+WP -- Ortiz R
+T -- 3:01
+A -- 25490
+     Game of 7/10/2009 -- Washington at Houston (N)
+
+  Washington         AB  R  H RBI    Houston            AB  R  H RBI
+Morgan N, cf          5  1  3  0   Bourn M, cf           5  1  2  3   
+MacDougal M, p        0  0  0  0   Tejada M, ss          5  1  2  0   
+Guzman C, ss          5  0  1  2   Berkman L, 1b         4  0  0  0   
+Johnson N, 1b         4  0  1  1   Lee C, lf             5  1  3  1   
+Dunn A, lf            4  1  2  0   Pence H, rf           4  0  1  0   
+Beimel J, p           0  0  0  0   Rodriguez I, c        4  1  1  0   
+Kearns A, rf          0  0  0  0   Blum G, 3b            4  1  3  1   
+Willingham J, rf-lf   3  1  1  1   Matsui K, 2b          2  1  1  0   
+Bard J, c             4  0  0  0   Oswalt R, p           2  0  0  0   
+Gonzalez A, 2b-3b     4  1  1  0   Sampson C, p          0  0  0  0   
+Harris W, 3b-lf-cf    3  1  2  1   Byrdak T, p           0  0  0  0   
+Olsen S, p            2  0  0  0   Arias A, p            0  0  0  0   
+Belliard R, ph        1  0  0  0   Keppinger J, ph       0  0  0  1   
+Burnett S, p          0  0  0  0   Fulchino J, p         0  0  0  0   
+Bergmann J, p         0  0  0  0                                      
+Hernandez A, 2b       0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5 11  5                        35  6 13  6
+
+Washington       000 100 400 --  5
+Houston          011 200 011 --  6
+  2 outs when winning run was scored.
+
+  Washington           IP  H  R ER BB SO
+Olsen S               6.0  9  4  4  2  1
+Burnett S             0.2  0  0  0  1  1
+Bergmann J            0.1  0  0  0  0  1
+Beimel J (L)          1.1  3  2  2  1  1
+MacDougal M           0.1  1  0  0  2  0
+
+  Houston              IP  H  R ER BB SO
+Oswalt R*             6.0  5  3  3  1  6
+Sampson C             0.2  4  2  2  0  1
+Byrdak T              0.2  0  0  0  0  1
+Arias A               0.2  0  0  0  0  0
+Fulchino J (W)        1.0  2  0  0  0  0
+  * Pitched to 2 batters in 7th
+
+E -- Harris W
+DP -- Washington 2
+LOB -- Washington 6, Houston 11
+2B -- Johnson N, Dunn A, Willingham J, Blum G
+HR -- Lee C, Bourn M
+SB -- Morgan N 2, Bourn M
+CS -- Bourn M
+SH -- Oswalt R, Hernandez A
+SF -- Keppinger J
+HBP -- by Arias A (Willingham J)
+WP -- Byrdak T, MacDougal M
+T -- 3:05
+A -- 33085
+     Game of 7/11/2009 -- Washington at Houston (N)
+
+  Washington         AB  R  H RBI    Houston            AB  R  H RBI
+Morgan N, cf          4  1  1  1   Bourn M, cf           3  2  1  0   
+Kearns A, ph-rf       1  0  0  0   Tejada M, ss          4  0  1  1   
+Guzman C, ss          5  0  2  1   Byrdak T, p           0  0  0  0   
+Hernandez A, ph-2b    1  0  1  0   Berkman L, 1b         4  0  1  1   
+Johnson N, 1b         6  2  3  2   Lee C, lf             4  0  0  0   
+Willingham J, rf-lf   5  3  3  4   Blum G, 3b            4  0  2  0   
+Dunn A, lf            4  2  3  2   Pence H, rf           4  0  0  0   
+Harris W, lf-cf       0  0  0  0   Matsui K, 2b          4  0  2  0   
+Bard J, c             4  1  1  0   Quintero H, c         3  0  1  0   
+Belliard R, 3b        5  1  2  0   Fulchino J, p         0  0  0  0   
+Gonzalez A, 2b-ss     5  2  4  2   Keppinger J, ss       1  0  1  0   
+Stammen C, p          4  1  1  1   Hampton M, p          1  0  0  0   
+                                   Paulino F, p          1  0  0  0   
+                                   Coste C, c            2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     44 13 21 13                        35  2  9  2
+
+Washington       200 313 400 -- 13
+Houston          101 000 000 --  2
+
+  Washington           IP  H  R ER BB SO
+Stammen C (W)         9.0  9  2  2  1  2
+
+  Houston              IP  H  R ER BB SO
+Hampton M (L)         3.2  9  5  5  1  1
+Paulino F             2.1  6  4  4  2  3
+Fulchino J            1.0  5  4  4  0  1
+Byrdak T              2.0  1  0  0  0  3
+
+DP -- Washington 1, Houston 2
+LOB -- Washington 9, Houston 7
+2B -- Willingham J, Gonzalez A 2, Tejada M, Stammen C, Dunn A
+3B -- Hernandez A
+HR -- Johnson N, Willingham J 2, Dunn A
+SB -- Bourn M 3, Matsui K
+SH -- Stammen C
+SF -- Morgan N
+T -- 2:54
+A -- 30052
+     Game of 7/12/2009 -- Washington at Houston (D)
+
+  Washington         AB  R  H RBI    Houston            AB  R  H RBI
+Morgan N, cf          5  0  1  0   Bourn M, cf           4  1  0  0   
+Johnson N, 1b         4  0  2  0   Tejada M, ss          4  0  1  1   
+Zimmerman R, 3b       5  0  0  0   Berkman L, 1b         1  1  0  0   
+Dunn A, lf            4  0  0  0   Lee C, lf             4  0  2  0   
+Willingham J, rf      3  0  1  0   Blum G, 3b            3  1  0  0   
+Gonzalez A, ss        4  0  2  0   Pence H, rf           4  1  1  0   
+Hernandez A, 2b       4  0  0  0   Rodriguez I, c        4  0  0  0   
+Nieves W, c           4  0  4  0   Matsui K, 2b          3  1  2  3   
+Zimmermann J, p       2  0  1  0   Moehler B, p          1  0  0  0   
+Beimel J, p           0  0  0  0   Arias A, p            0  0  0  0   
+Guzman C, ph          1  0  0  0   Valverde J, p         0  0  0  0   
+Clippard T, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  0 11  0                        28  5  6  4
+
+Washington       000 000 000 --  0
+Houston          100 000 31x --  5
+
+  Washington           IP  H  R ER BB SO
+Zimmermann J (L)      6.1  5  4  3  3  6
+Beimel J              0.2  0  0  0  0  1
+Clippard T            1.0  1  1  1  1  0
+
+  Houston              IP  H  R ER BB SO
+Moehler B (W)         6.1  7  0  0  2  2
+Arias A               1.1  3  0  0  1  1
+Valverde J (S)        1.1  1  0  0  0  1
+
+E -- Gonzalez A
+DP -- Washington 1, Houston 1
+LOB -- Washington 13, Houston 5
+2B -- Nieves W, Lee C 2, Johnson N
+HR -- Matsui K
+SB -- Morgan N
+SH -- Moehler B, Zimmermann J
+HBP -- by Zimmermann J (Blum G)
+Balk -- Clippard T
+T -- 3:04
+A -- 28680
+     Game of 7/20/2009 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Schumaker S, 2b       3  0  1  0   Bourn M, cf           4  0  0  0   
+Stavinoha N, lf       3  0  0  0   Tejada M, ss          4  1  1  0   
+Rasmus C, ph-lf       1  0  0  0   Berkman L, 1b         2  1  1  0   
+Pujols A, 1b          3  0  1  0   Lee C, lf             2  1  1  3   
+Ludwick R, rf         4  1  1  0   Blum G, 3b            3  0  0  0   
+Ankiel R, cf          4  1  2  0   Pence H, rf           3  0  1  0   
+Molina Y, c           4  0  1  2   Rodriguez I, c        3  0  1  0   
+DeRosa M, 3b          4  0  2  0   Matsui K, 2b          3  0  0  0   
+Lohse K, p            3  0  0  0   Moehler B, p          2  0  0  0   
+McClellan K, p        0  0  0  0   Wright W, p           0  0  0  0   
+Thurston J, ph        1  0  1  0   Fulchino J, p         0  0  0  0   
+Ryan B, ss            3  0  0  0   Hawkins L, p          0  0  0  0   
+Duncan C, ph          1  0  0  0   Kata M, ph            1  0  0  0   
+                                   Valverde J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  9  2                        27  3  5  3
+
+St. Louis        000 200 000 --  2
+Houston          000 300 00x --  3
+
+  St. Louis            IP  H  R ER BB SO
+Lohse K (L)           7.0  5  3  3  2  5
+McClellan K           1.0  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Moehler B (W)         6.1  6  2  2  2  5
+Wright W              0.1  0  0  0  0  0
+Fulchino J            0.1  0  0  0  0  0
+Hawkins L             1.0  2  0  0  0  1
+Valverde J (S)        1.0  1  0  0  0  1
+
+DP -- St. Louis 1, Houston 2
+LOB -- St. Louis 7, Houston 2
+2B -- Berkman L, Ankiel R, Schumaker S, Rodriguez I
+HR -- Lee C
+WP -- Hawkins L
+T -- 2:35
+A -- 36437
+     Game of 7/21/2009 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Schumaker S, 2b       4  1  1  0   Bourn M, cf           4  3  2  0   
+Stavinoha N, lf       3  0  0  1   Matsui K, 2b          3  0  0  0   
+Pujols A, 1b          4  1  1  0   Paronto C, p          0  0  0  0   
+Ludwick R, rf         4  1  2  3   Wright W, p           0  0  0  0   
+DeRosa M, 3b          4  2  2  2   Michaels J, ph-lf     1  0  0  0   
+Rasmus C, cf          4  0  0  0   Tejada M, ss          3  1  2  3   
+LaRue J, c            3  0  1  0   Lee C, lf             5  1  1  4   
+Wellemeyer T, p       2  0  0  0   Arias A, p            0  0  0  0   
+Kinney J, p           0  0  0  0   Blum G, 3b            3  2  1  1   
+Walters P, p          1  0  0  0   Pence H, rf           4  2  2  2   
+Reyes D, p            0  0  0  0   Coste C, 1b           4  0  1  1   
+Motte J, p            0  0  0  0   Quintero H, c         4  1  0  0   
+Thurston J, ph        1  0  0  0   Rodriguez W, p        3  1  1  0   
+Ryan B, ss            3  1  1  0   Keppinger J, 2b       1  0  1  0   
+Ankiel R, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  6  8  6                        35 11 11 11
+
+St. Louis        010 000 050 --  6
+Houston          021 110 51x -- 11
+
+  St. Louis            IP  H  R ER BB SO
+Wellemeyer T (L)      4.1  7  5  4  1  4
+Kinney J              0.2  0  0  0  0  2
+Walters P*            2.0  4  6  5  2  2
+Reyes D+              0.0  0  0  0  0  0
+Motte J               1.0  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)       7.0  4  1  1  0  5
+Paronto C             0.1  3  4  4  1  0
+Wright W              0.2  1  1  1  0  0
+Arias A               1.0  0  0  0  0  0
+  * Pitched to 2 batters in 8th
+  + Pitched to 1 batter in 8th
+
+E -- Wellemeyer T, Ryan B, Reyes D
+LOB -- St. Louis 4, Houston 5
+2B -- Ludwick R, Coste C, Rodriguez W, Ryan B
+HR -- DeRosa M 2, Pence H, Lee C, Blum G, Ludwick R
+SB -- Bourn M, Tejada M
+SH -- Matsui K
+SF -- Stavinoha N, Tejada M
+HBP -- by Rodriguez W (LaRue J)
+WP -- Reyes D
+PB -- Quintero H
+T -- 2:53
+A -- 33140
+     Game of 7/22/2009 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Schumaker S, 2b-lf    4  0  1  0   Bourn M, cf           4  1  1  0   
+Rasmus C, cf          4  0  1  0   Matsui K, 2b          4  0  2  1   
+Pujols A, 1b          4  0  0  0   Tejada M, ss          5  0  2  1   
+Ludwick R, rf         4  1  2  0   Lee C, lf             4  0  1  1   
+Ankiel R, lf          4  0  1  0   Blum G, 3b            4  0  0  0   
+Franklin R, p         0  0  0  0   Pence H, rf           4  0  0  0   
+DeRosa M, 3b          3  2  1  1   Rodriguez I, c        3  2  2  0   
+Molina Y, c           3  0  1  1   Coste C, 1b           4  0  2  1   
+Ryan B, ss            2  0  1  1   Oswalt R, p           2  0  0  0   
+Carpenter C, p        3  0  0  0   Berkman L, ph         1  0  1  0   
+Thurston J, 2b        0  0  0  0   Kata M, pr            0  0  0  0   
+                                   Byrdak T, p           0  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                                   Valverde J, p         0  0  0  0   
+                                   Keppinger J, ph       1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  8  3                        36  4 12  4
+
+St. Louis        000 010 200 --  3
+Houston          000 001 102 --  4
+  2 outs when winning run was scored.
+
+  St. Louis            IP  H  R ER BB SO
+Carpenter C           8.0  8  2  2  2  5
+Franklin R (L)        0.2  4  2  2  0  0
+
+  Houston              IP  H  R ER BB SO
+Oswalt R              7.0  7  3  3  1  4
+Byrdak T              0.2  0  0  0  0  0
+Hawkins L             0.1  0  0  0  0  0
+Valverde J (W)        1.0  1  0  0  0  2
+
+DP -- St. Louis 1, Houston 2
+LOB -- St. Louis 3, Houston 9
+2B -- Schumaker S, Rodriguez I, Coste C
+HR -- DeRosa M
+SB -- Bourn M
+CS -- Ankiel R
+SH -- Matsui K
+SF -- Ryan B
+T -- 2:28
+A -- 37619
+     Game of 7/24/2009 -- New York at Houston (N)
+
+  New York           AB  R  H RBI    Houston            AB  R  H RBI
+Pagan A, cf           5  1  1  0   Bourn M, cf           5  0  2  0   
+Castillo L, 2b        4  1  3  1   Matsui K, 2b          5  1  1  0   
+Wright D, 3b          3  0  1  1   Tejada M, ss          4  0  2  0   
+Francoeur J, rf       4  0  1  1   Lee C, lf             4  0  1  1   
+Tatis F, lf           5  0  1  0   Pence H, rf           4  1  1  0   
+Murphy D, 1b          4  0  1  0   Rodriguez I, c        4  1  2  0   
+Santos O, c           4  1  3  1   Coste C, 1b           3  0  1  2   
+Berroa A, ss          4  1  1  0   Keppinger J, 3b       2  1  1  0   
+Santana J, p          1  0  0  0   Hampton M, p          3  1  1  2   
+Stokes B, p           0  0  0  0   Fulchino J, p         0  0  0  0   
+Sullivan C, ph        1  0  1  0   Arias A, p            0  0  0  0   
+Feliciano P, p        0  0  0  0   Blum G, ph            1  0  0  0   
+Parnell B, p          0  0  0  0   Hawkins L, p          0  0  0  0   
+                                   Valverde J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 13  4                        35  5 12  5
+
+New York         100 021 000 --  4
+Houston          100 220 00x --  5
+
+  New York             IP  H  R ER BB SO
+Santana J (L)         6.2 12  5  5  3  3
+Stokes B              0.1  0  0  0  1  0
+Feliciano P           0.2  0  0  0  0  0
+Parnell B             0.1  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Hampton M (W)         5.2  8  4  4  4  7
+Fulchino J            0.1  0  0  0  0  0
+Arias A               1.0  3  0  0  0  0
+Hawkins L             1.0  2  0  0  0  0
+Valverde J (S)        1.0  0  0  0  0  0
+
+E -- Berroa A
+DP -- New York 1, Houston 3
+LOB -- New York 10, Houston 11
+2B -- Keppinger J, Castillo L, Coste C
+HR -- Hampton M, Santos O
+SB -- Bourn M
+SH -- Santana J
+HBP -- by Arias A (Francoeur J), by Parnell B (Tejada M)
+T -- 2:58
+A -- 42967
+     Game of 7/25/2009 -- New York at Houston (N)
+
+  New York           AB  R  H RBI    Houston            AB  R  H RBI
+Pagan A, cf           5  2  2  0   Bourn M, cf           3  1  1  0   
+Castillo L, 2b        4  2  2  1   Matsui K, 2b          4  0  1  0   
+Wright D, 3b          3  2  1  1   Tejada M, ss          3  0  0  0   
+Murphy D, 1b          5  1  2  1   Maysonet E, ss        1  0  0  0   
+Francoeur J, rf       4  1  2  4   Lee C, lf             2  0  0  0   
+Sullivan C, lf        4  1  1  1   Michaels J, lf        1  1  1  0   
+Santos O, c           4  1  2  1   Rodriguez I, c        3  0  1  1   
+Cora A, ss            4  0  0  0   Wright W, p           0  0  0  0   
+Niese J, p            3  0  0  0   Blum G, ph            1  0  0  0   
+Tatis F, ph           1  0  0  0   Pence H, rf           4  1  1  2   
+Green S, p            0  0  0  0   Coste C, 1b           4  0  2  0   
+Rodriguez F, p        0  0  0  0   Keppinger J, 3b       4  0  0  0   
+                                   Ortiz R, p            1  0  0  0   
+                                   Byrdak T, p           0  0  0  0   
+                                   Kata M, ph            1  0  1  0   
+                                   Paronto C, p          0  0  0  0   
+                                   Quintero H, c         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37 10 12  9                        33  3  8  3
+
+New York         300 132 001 -- 10
+Houston          100 000 002 --  3
+
+  New York             IP  H  R ER BB SO
+Niese J (W)           7.0  4  1  1  2  3
+Green S               1.0  1  0  0  0  1
+Rodriguez F           1.0  3  2  2  0  2
+
+  Houston              IP  H  R ER BB SO
+Ortiz R (L)           4.1  5  6  6  4  3
+Byrdak T              0.2  1  1  1  0  1
+Paronto C             2.0  4  2  2  0  1
+Wright W              2.0  2  1  1  0  2
+
+DP -- New York 2, Houston 1
+LOB -- New York 5, Houston 5
+2B -- Murphy D 2, Pagan A
+HR -- Francoeur J, Santos O, Wright D, Pence H
+SF -- Francoeur J
+WP -- Niese J, Ortiz R
+PB -- Rodriguez I
+T -- 2:58
+A -- 43302
+     Game of 7/26/2009 -- New York at Houston (D)
+
+  New York           AB  R  H RBI    Houston            AB  R  H RBI
+Pagan A, cf           5  2  1  1   Bourn M, cf           4  0  0  0   
+Castillo L, 2b        4  2  2  2   Matsui K, 2b          3  1  0  0   
+Wright D, 3b          5  2  2  2   Tejada M, ss          4  1  1  1   
+Murphy D, 1b          5  0  1  0   Lee C, lf             4  1  3  1   
+Francoeur J, rf       4  0  1  2   Blum G, 3b            4  0  2  1   
+Sullivan C, lf        5  0  1  0   Pence H, rf           4  0  2  0   
+Schneider B, c        3  0  1  0   Rodriguez I, c        4  0  0  0   
+Cora A, ss            4  2  2  0   Coste C, 1b           3  0  1  0   
+Hernandez L, p        3  0  1  0   Moehler B, p          1  0  0  0   
+Reed J, ph            1  0  1  1   Wright W, p           0  0  0  0   
+Feliciano P, p        0  0  0  0   Kata M, ph            1  0  1  0   
+Green S, p            0  0  0  0   Fulchino J, p         0  0  0  0   
+                                   Michaels J, ph        1  0  0  0   
+                                   Arias A, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  8 13  8                        33  3 10  3
+
+New York         003 200 012 --  8
+Houston          300 000 000 --  3
+
+  New York             IP  H  R ER BB SO
+Hernandez L (W)       7.0  8  3  3  1  7
+Feliciano P           0.2  0  0  0  0  1
+Green S (S)           1.1  2  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Moehler B (L)         4.2  8  5  5  2  2
+Wright W              0.1  0  0  0  0  1
+Fulchino J            2.0  0  0  0  0  1
+Arias A               2.0  5  3  3  0  2
+
+E -- Rodriguez I
+DP -- New York 2, Houston 1
+LOB -- New York 7, Houston 4
+2B -- Tejada M, Lee C, Blum G, Wright D
+3B -- Castillo L, Pagan A, Reed J
+SB -- Matsui K, Cora A, Sullivan C, Kata M
+CS -- Pence H
+SF -- Francoeur J
+T -- 2:52
+A -- 34642
+     Game of 8/3/2009 -- San Francisco at Houston (N)
+
+  San Francisco      AB  R  H RBI    Houston            AB  R  H RBI
+Velez E, lf           5  1  2  0   Bourn M, cf           4  1  2  0   
+Sanchez F, 2b         5  1  1  0   Matsui K, 2b          4  1  1  2   
+Sandoval P, 3b        5  1  3  1   Pence H, rf           4  1  1  0   
+Molina B, c           4  0  1  1   Lee C, lf             4  0  3  1   
+Garko R, 1b           2  0  2  1   Valverde J, p         0  0  0  0   
+Lewis F, pr           0  0  0  0   Tejada M, ss          4  0  0  0   
+Bowker J, 1b          0  0  0  0   Blum G, 1b            3  1  1  1   
+Rowand A, cf          4  0  0  0   Rodriguez I, c        3  0  0  0   
+Renteria E, ss        4  0  2  0   Keppinger J, 3b       3  0  0  0   
+Winn R, rf            3  0  0  0   Hampton M, p          2  0  0  0   
+Cain M, p             2  0  0  0   Sampson C, p          0  0  0  0   
+Ishikawa T, ph        1  0  0  0   Kata M, ph            1  0  0  0   
+                                   Arias A, p            0  0  0  0   
+                                   Michaels J, lf        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3 11  3                        32  4  8  4
+
+San Francisco    101 000 001 --  3
+Houston          000 012 01x --  4
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (L)            8.0  8  4  4  0  5
+
+  Houston              IP  H  R ER BB SO
+Hampton M (W)         6.0  8  2  1  2  6
+Sampson C             1.0  0  0  0  0  1
+Arias A               1.0  1  0  0  0  0
+Valverde J (S)        1.0  2  1  1  0  1
+
+E -- Renteria E, Hampton M
+DP -- San Francisco 1
+LOB -- San Francisco 10, Houston 4
+2B -- Renteria E, Lee C, Sandoval P
+3B -- Bourn M, Pence H
+HR -- Blum G, Matsui K
+SB -- Bourn M
+SH -- Cain M
+SF -- Molina B
+HBP -- by Hampton M (Garko R)
+T -- 2:34
+A -- 29835
+     Game of 8/4/2009 -- San Francisco at Houston (N)
+
+  San Francisco      AB  R  H RBI    Houston            AB  R  H RBI
+Velez E, lf           6  1  3  1   Bourn M, cf           2  0  0  0   
+Sanchez F, 2b         4  1  1  1   Michaels J, cf        1  0  0  0   
+Sandoval P, 3b        3  2  2  1   Matsui K, 2b          4  0  1  0   
+Uribe J, 3b           1  0  0  0   Pence H, rf           4  0  1  0   
+Molina B, c           5  1  3  2   Lee C, lf             3  1  1  0   
+Garko R, 1b           4  1  1  0   Tejada M, ss          4  0  1  0   
+Miller J, p           0  0  0  0   Coste C, 1b-c         4  0  0  1   
+Joaquin W, p          0  0  0  0   Keppinger J, 3b       4  0  2  0   
+Winn R, rf            4  2  2  0   Quintero H, c         2  0  0  0   
+Rowand A, cf          5  0  2  3   Wright W, p           0  0  0  0   
+Renteria E, ss        4  0  1  0   Blum G, ph            0  0  0  0   
+Sanchez J, p          3  0  1  0   Byrdak T, p           0  0  0  0   
+Ishikawa T, 1b        1  0  0  0   Paulino F, p          1  0  0  0   
+                                   Brocail D, p          0  0  0  0   
+                                   Kata M, 1b            2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  8 16  8                        31  1  6  1
+
+San Francisco    112 012 010 --  8
+Houston          000 000 001 --  1
+
+  San Francisco        IP  H  R ER BB SO
+Sanchez J (W)*        7.0  4  0  0  3  8
+Miller J              1.0  0  0  0  0  1
+Joaquin W             1.0  2  1  1  0  1
+
+  Houston              IP  H  R ER BB SO
+Paulino F (L)         4.1  9  5  5  2  2
+Brocail D             0.2  2  0  0  0  1
+Wright W              3.0  5  3  3  1  1
+Byrdak T              1.0  0  0  0  1  2
+  * Pitched to 2 batters in 8th
+
+DP -- San Francisco 2, Houston 2
+LOB -- San Francisco 11, Houston 6
+2B -- Molina B, Rowand A, Velez E, Lee C
+HR -- Sanchez F, Sandoval P
+SB -- Bourn M
+CS -- Pence H
+SH -- Sanchez J
+HBP -- by Paulino F (Garko R)
+T -- 2:49
+A -- 29747
+     Game of 8/5/2009 -- San Francisco at Houston (D)
+
+  San Francisco      AB  R  H RBI    Houston            AB  R  H RBI
+Velez E, lf           5  1  1  0   Matsui K, 2b          5  0  1  1   
+Winn R, rf            5  1  1  0   Keppinger J, 3b       4  1  1  1   
+Sanchez F, 2b         5  1  3  0   Pence H, rf           5  1  2  2   
+Sandoval P, 3b        4  2  3  2   Lee C, lf             5  0  2  0   
+Garko R, 1b           4  1  2  2   Tejada M, ss          5  0  1  0   
+Romo S, p             0  0  0  0   Blum G, 1b            3  1  1  0   
+Affeldt J, p          0  0  0  0   Rodriguez I, c        4  1  1  0   
+Bowker J, ph          1  0  1  1   Michaels J, cf        4  1  1  2   
+Howry B, p            0  0  0  0   Moehler B, p          2  0  1  0   
+Wilson B, p           0  0  0  0   Byrdak T, p           0  0  0  0   
+Rowand A, cf          5  1  1  0   Sampson C, p          0  0  0  0   
+Renteria E, ss        3  1  0  0   Kata M, ph            1  1  1  0   
+Whiteside E, c        4  1  1  4   Fulchino J, p         0  0  0  0   
+Martinez J, p         2  1  0  0   Arias A, p            0  0  0  0   
+Lewis F, ph           1  0  0  0   Coste C, ph           1  0  0  0   
+Medders B, p          0  0  0  0                                      
+Ishikawa T, ph-1b     1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40 10 13  9                        39  6 12  6
+
+San Francisco    002 005 102 -- 10
+Houston          030 000 102 --  6
+
+  San Francisco        IP  H  R ER BB SO
+Martinez J (W)        5.0  7  3  3  0  4
+Medders B             2.0  2  1  1  0  0
+Romo S                0.1  1  0  0  0  0
+Affeldt J             0.2  0  0  0  1  1
+Howry B               0.2  2  2  2  0  2
+Wilson B              0.1  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Moehler B (L)         6.0  9  7  6  1  5
+Byrdak T              0.2  1  1  1  0  1
+Sampson C             0.1  1  0  0  0  1
+Fulchino J            1.0  0  0  0  0  1
+Arias A               1.0  2  2  2  0  1
+
+E -- Tejada M
+LOB -- San Francisco 5, Houston 8
+2B -- Sandoval P, Michaels J, Lee C 2, Rowand A
+3B -- Garko R, Bowker J
+HR -- Whiteside E, Pence H
+SB -- Matsui K
+CS -- Sandoval P
+HBP -- by Arias A (Sandoval P), by Howry B (Keppinger J)
+WP -- Moehler B, Arias A
+T -- 3:05
+A -- 31710
+     Game of 8/7/2009 -- Milwaukee at Houston (N)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Lopez F, 2b           5  1  2  0   Matsui K, 2b          4  0  0  0   
+Counsell C, 3b        3  0  1  0   Tejada M, ss          4  1  2  1   
+Braun R, lf           5  0  2  1   Pence H, rf           4  0  0  0   
+Fielder P, 1b         2  0  0  0   Lee C, lf             4  1  2  0   
+Cameron M, cf         2  0  0  0   Blum G, 3b            3  0  2  0   
+Catalanotto F, rf     4  0  0  0   Rodriguez I, c        4  1  0  0   
+Hardy J, ss           4  1  1  0   Erstad D, 1b          2  1  1  1   
+Kendall J, c          4  1  2  2   Michaels J, cf        3  2  2  4   
+Villanueva C, p       2  0  0  0   Norris B, p           2  0  0  0   
+DiFelice M, p         0  0  0  0   Kata M, ph            1  0  0  0   
+Gerut J, ph           1  0  0  0   Sampson C, p          0  0  0  0   
+Vargas C, p           0  0  0  0   Byrdak T, p           0  0  0  0   
+McGehee C, ph         1  0  0  0   Fulchino J, p         0  0  0  0   
+Colome J, p           0  0  0  0   Valverde J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  3                        31  6  9  6
+
+Milwaukee        000 020 100 --  3
+Houston          010 023 00x --  6
+
+  Milwaukee            IP  H  R ER BB SO
+Villanueva C (L)      5.1  6  4  4  1  2
+DiFelice M            0.2  1  2  2  1  0
+Vargas C              1.0  0  0  0  0  0
+Colome J              1.0  2  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Norris B (W)          6.0  3  2  2  5  7
+Sampson C             0.2  3  1  1  0  2
+Byrdak T*             0.0  0  0  0  1  0
+Fulchino J            1.1  1  0  0  0  2
+Valverde J (S)        1.0  1  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+DP -- Milwaukee 1, Houston 1
+LOB -- Milwaukee 9, Houston 3
+2B -- Braun R, Erstad D, Lee C
+HR -- Kendall J, Michaels J 2, Tejada M
+T -- 2:38
+A -- 34691
+     Game of 8/8/2009 -- Milwaukee at Houston (N)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Lopez F, 2b           3  2  1  1   Matsui K, 2b          4  0  2  1   
+Cameron M, cf         5  0  2  0   Keppinger J, 3b       3  0  1  0   
+Burns M, p            0  0  0  0   Byrdak T, p           0  0  0  0   
+Braun R, lf           6  0  2  2   Erstad D, ph          1  0  0  0   
+Fielder P, 1b         6  2  3  3   Arias A, p            0  0  0  0   
+McGehee C, 3b         6  1  2  1   Pence H, rf           4  0  0  1   
+Hall B, rf            4  1  1  1   Lee C, lf             5  1  2  1   
+Hardy J, ss           3  2  1  0   Tejada M, ss          5  0  0  0   
+Rivera M, c           4  2  2  3   Rodriguez I, c        4  2  2  0   
+Parra M, p            2  1  0  0   Michaels J, cf        4  1  2  0   
+Vargas C, p           0  0  0  0   Coste C, 1b           4  0  2  2   
+Smith C, p            0  0  0  0   Hampton M, p          0  0  0  0   
+Gerut J, ph-cf        1  1  0  0   Kata M, ph            1  0  0  0   
+                                   Bazardo Y, p          0  0  0  0   
+                                   Wright W, p           1  1  0  0   
+                                   Blum G, ph-3b         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40 12 14 11                        37  5 11  5
+
+Milwaukee        125 001 201 -- 12
+Houston          010 012 100 --  5
+
+  Milwaukee            IP  H  R ER BB SO
+Parra M (W)           5.1  8  4  3  3  4
+Vargas C              1.2  1  1  1  0  1
+Smith C               1.0  2  0  0  0  0
+Burns M               1.0  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Hampton M (L)         2.0  5  3  3  2  0
+Bazardo Y             1.0  3  5  3  3  2
+Wright W              3.0  2  1  1  2  3
+Byrdak T              2.0  1  2  2  1  3
+Arias A               1.0  3  1  0  0  0
+
+E -- Bazardo Y, Lopez F, Coste C
+DP -- Milwaukee 1, Houston 1
+LOB -- Milwaukee 11, Houston 9
+2B -- Rodriguez I, McGehee C, Rivera M, Fielder P, Lopez F
+HR -- Fielder P, Lee C
+SH -- Parra M 2
+SF -- Matsui K
+WP -- Wright W
+T -- 3:28
+A -- 35216
+     Game of 8/9/2009 -- Milwaukee at Houston (D)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Lopez F, 2b           4  0  1  0   Bourn M, cf           3  0  1  0   
+Cameron M, cf         5  0  1  0   Matsui K, 2b          4  0  0  0   
+Braun R, lf           5  0  1  0   Tejada M, ss          4  0  0  0   
+Fielder P, 1b         4  0  1  0   Lee C, lf             3  1  0  0   
+McGehee C, 3b         4  0  0  0   Blum G, 3b            4  1  2  2   
+Hall B, rf            3  0  1  0   Michaels J, rf        2  0  1  0   
+Catalanotto F, ph     0  0  0  0   Erstad D, 1b          3  0  1  0   
+Coffey T, p           0  0  0  0   Quintero H, c         2  0  0  0   
+Hardy J, ss           3  0  1  0   Rodriguez W, p        2  0  1  0   
+Counsell C, ph-ss     1  0  0  0   Kata M, ph            1  0  0  0   
+Kendall J, c          2  0  0  0   Fulchino J, p         0  0  0  0   
+Gallardo Y, p         2  0  0  0   Valverde J, p         0  0  0  0   
+Gerut J, rf           1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  0  7  0                        28  2  6  2
+
+Milwaukee        000 000 000 --  0
+Houston          000 200 00x --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Gallardo Y (L)        7.0  6  2  2  4  4
+Coffey T              1.0  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)       7.0  5  0  0  2  3
+Fulchino J            0.2  1  0  0  1  0
+Valverde J (S)        1.1  1  0  0  0  2
+
+E -- Bourn M
+DP -- Milwaukee 1, Houston 2
+LOB -- Milwaukee 12, Houston 6
+2B -- Michaels J, Hardy J, Erstad D
+HR -- Blum G
+HBP -- by Rodriguez W (Kendall J), by Valverde J (Kendall J)
+WP -- Rodriguez W, Gallardo Y
+T -- 2:40
+A -- 32262
+     Game of 8/18/2009 -- Florida at Houston (N)
+
+  Florida            AB  R  H RBI    Houston            AB  R  H RBI
+Coghlan C, lf         4  0  0  1   Bourn M, cf           4  0  1  0   
+Gload R, 1b           5  0  0  0   Tejada M, ss          4  0  0  0   
+Ramirez H, ss         5  1  3  0   Berkman L, 1b         4  1  1  0   
+Cantu J, 3b           4  1  1  1   Lee C, lf             3  1  1  2   
+Helms W, 3b           0  0  0  0   Blum G, 3b            3  0  0  0   
+Baker J, c            3  1  1  1   Pence H, rf           3  0  0  0   
+Uggla D, 2b           4  2  2  1   Matsui K, 2b          3  0  0  0   
+Ross C, cf            3  0  1  0   Coste C, c            3  0  0  0   
+Hermida J, rf         4  1  3  2   Norris B, p           1  0  0  0   
+Nolasco R, p          3  0  0  0   Byrdak T, p           0  0  0  0   
+                                   Erstad D, ph          1  0  0  0   
+                                   Gervacio S, p         0  0  0  0   
+                                   Arias A, p            0  0  0  0   
+                                   Michaels J, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6 11  6                        30  2  3  2
+
+Florida          000 203 010 --  6
+Houston          200 000 000 --  2
+
+  Florida              IP  H  R ER BB SO
+Nolasco R (W)         9.0  3  2  2  0 10
+
+  Houston              IP  H  R ER BB SO
+Norris B (L)          5.2  9  5  5  1  4
+Byrdak T              0.1  0  0  0  0  0
+Gervacio S            2.0  1  1  1  1  2
+Arias A               1.0  1  0  0  0  0
+
+DP -- Houston 1
+LOB -- Florida 7, Houston 1
+2B -- Berkman L, Baker J
+HR -- Lee C, Uggla D, Cantu J, Hermida J
+SB -- Ramirez H
+SH -- Nolasco R
+SF -- Baker J
+HBP -- by Norris B (Ross C)
+T -- 2:25
+A -- 30189
+     Game of 8/19/2009 -- Florida at Houston (N)
+
+  Florida            AB  R  H RBI    Houston            AB  R  H RBI
+Coghlan C, lf         5  2  3  0   Bourn M, cf           4  2  3  1   
+Gload R, 1b           4  0  1  1   Keppinger J, 3b       4  1  1  1   
+Ramirez H, ss         4  1  1  0   Berkman L, 1b         3  1  2  1   
+Cantu J, 3b           4  0  1  1   Lee C, lf             4  0  1  0   
+Baker J, c            4  0  0  0   Tejada M, ss          4  0  1  1   
+Uggla D, 2b           5  0  2  1   Pence H, rf           3  0  1  0   
+Ross C, cf            4  0  2  0   Matsui K, 2b          4  0  0  0   
+Hermida J, rf         2  0  0  0   Valverde J, p         0  0  0  0   
+West S, p             2  0  0  0   Quintero H, c         4  1  1  1   
+Sanchez G, ph         1  0  0  0   Bazardo Y, p          2  0  0  0   
+Sanches B, p          0  0  0  0   Byrdak T, p           0  0  0  0   
+Bonifacio E, ph       1  0  1  0   Gervacio S, p         0  0  0  0   
+Pinto R, p            0  0  0  0   Fulchino J, p         0  0  0  0   
+Calero K, p           0  0  0  0   Michaels J, ph        1  1  1  0   
+Helms W, ph           0  0  0  0   Hawkins L, p          0  0  0  0   
+                                   Maysonet E, 2b        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3 11  3                        33  6 11  5
+
+Florida          200 001 000 --  3
+Houston          300 100 20x --  6
+
+  Florida              IP  H  R ER BB SO
+West S (L)            4.0  6  4  3  0  2
+Sanches B             2.0  1  0  0  2  1
+Pinto R               1.0  3  2  2  0  0
+Calero K              1.0  1  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Bazardo Y             4.2  6  2  2  4  1
+Byrdak T*             0.0  0  0  0  1  0
+Gervacio S (W)        0.1  0  0  0  0  1
+Fulchino J            2.0  4  1  1  1  1
+Hawkins L             1.0  1  0  0  0  0
+Valverde J (S)        1.0  0  0  0  2  2
+  * Pitched to 1 batter in 5th
+
+E -- Baker J 2, Cantu J, Keppinger J
+DP -- Florida 3, Houston 1
+LOB -- Florida 16, Houston 5
+2B -- Berkman L, Tejada M, Gload R, Michaels J
+3B -- Coghlan C, Bourn M
+HR -- Quintero H
+SB -- Bourn M 2, Pence H 2
+CS -- Ross C
+HBP -- by Bazardo Y (Gload R), by Valverde J (Helms W)
+T -- 3:23
+A -- 30101
+     Game of 8/20/2009 -- Florida at Houston (N)
+
+  Florida            AB  R  H RBI    Houston            AB  R  H RBI
+Coghlan C, lf         4  0  1  0   Bourn M, cf           3  0  0  0   
+Bonifacio E, cf       3  1  1  0   Tejada M, ss          4  1  1  0   
+Ramirez H, ss         4  0  1  0   Berkman L, 1b         4  0  2  0   
+Paulino R, c          2  0  0  0   Lee C, lf             4  1  1  2   
+Baker J, ph           1  0  0  0   Blum G, 3b            3  0  0  0   
+Uggla D, 2b           4  0  0  1   Pence H, rf           3  1  1  1   
+Ross C, rf            3  0  0  0   Matsui K, 2b          3  0  0  0   
+Helms W, 3b           3  0  1  0   Quintero H, c         3  1  1  0   
+Sanchez G, 1b         3  0  0  0   Rodriguez W, p        3  0  1  1   
+Johnson J, p          2  0  0  0   Valverde J, p         0  0  0  0   
+Martinez C, p         0  0  0  0                                      
+Hermida J, ph         1  0  0  0                                      
+Lindstrom M, p        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        30  4  7  4
+
+Florida          100 000 000 --  1
+Houston          000 310 00x --  4
+
+  Florida              IP  H  R ER BB SO
+Johnson J (L)         4.1  7  4  4  1  2
+Martinez C            2.2  0  0  0  0  2
+Lindstrom M           1.0  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)*      8.0  4  1  0  2  7
+Valverde J (S)        1.0  0  0  0  0  2
+  * Pitched to 2 batters in 9th
+
+E -- Tejada M
+DP -- Florida 1, Houston 1
+LOB -- Florida 4, Houston 3
+2B -- Berkman L, Quintero H, Rodriguez W
+HR -- Lee C, Pence H
+CS -- Ramirez H
+T -- 2:23
+A -- 30039
+     Game of 8/21/2009 -- Arizona at Houston (N)
+
+  Arizona            AB  R  H RBI    Houston            AB  R  H RBI
+Drew S, ss            4  0  0  0   Bourn M, cf           3  0  1  0   
+Parra G, cf           4  0  0  0   Tejada M, ss          4  0  0  0   
+Reynolds M, 3b        4  0  1  0   Berkman L, 1b         4  0  2  0   
+Montero M, c          4  0  0  0   Lee C, lf             3  0  0  0   
+Tracy C, 1b           4  0  1  0   Valverde J, p         0  0  0  0   
+Ryal R, pr            0  0  0  0   Blum G, 3b            4  0  0  0   
+Roberts R, 2b         4  0  0  0   Pence H, rf           2  1  0  0   
+Oeltjen T, lf         3  0  1  0   Keppinger J, 2b       3  0  1  1   
+Romero A, rf          3  0  1  0   Coste C, c            3  0  1  0   
+Petit Y, p            2  0  0  0   Oswalt R, p           2  0  0  0   
+Gutierrez J, p        0  0  0  0   Erstad D, ph          1  0  1  0   
+Ojeda A, ph           1  0  0  0   Hawkins L, p          0  0  0  0   
+Rauch J, p            0  0  0  0   Michaels J, lf        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  0  4  0                        29  1  6  1
+
+Arizona          000 000 000 --  0
+Houston          000 010 00x --  1
+
+  Arizona              IP  H  R ER BB SO
+Petit Y (L)           6.0  4  1  1  2  4
+Gutierrez J           1.0  2  0  0  1  0
+Rauch J               1.0  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Oswalt R (W)          7.0  3  0  0  0  2
+Hawkins L             1.0  0  0  0  0  2
+Valverde J (S)        1.0  1  0  0  0  2
+
+E -- Reynolds M, Keppinger J, Tejada M, Petit Y
+DP -- Arizona 2
+LOB -- Arizona 6, Houston 7
+2B -- Reynolds M, Keppinger J
+SB -- Pence H
+WP -- Gutierrez J
+T -- 2:20
+A -- 30032
+     Game of 8/22/2009 -- Arizona at Houston (N)
+
+  Arizona            AB  R  H RBI    Houston            AB  R  H RBI
+Romero A, rf          4  1  1  0   Bourn M, cf           4  1  1  0   
+Roberts R, lf-2b      4  1  2  0   Tejada M, ss          4  1  2  0   
+Parra G, cf           4  0  1  1   Berkman L, 1b         3  0  0  0   
+Reynolds M, 3b        3  0  0  1   Lee C, lf             2  1  2  1   
+Allen B, 1b           4  0  1  0   Blum G, 3b            4  1  2  1   
+Snyder C, c           2  0  0  0   Pence H, rf           4  0  0  0   
+Zavada C, p           0  0  0  0   Matsui K, 2b          4  0  1  1   
+Vasquez E, p          0  0  0  0   Coste C, c            3  0  0  0   
+Tracy C, ph           1  0  0  0   Moehler B, p          2  0  0  0   
+Ryal R, 2b            2  0  0  0   Byrdak T, p           1  0  0  0   
+Montero M, ph-c       2  0  1  0   Gervacio S, p         0  0  0  0   
+Ojeda A, ss           4  0  2  0   Fulchino J, p         0  0  0  0   
+Scherzer M, p         2  0  0  0   Hawkins L, p          0  0  0  0   
+Oeltjen T, lf         2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        31  4  8  3
+
+Arizona          200 000 000 --  2
+Houston          020 020 00x --  4
+
+  Arizona              IP  H  R ER BB SO
+Scherzer M (L)        5.0  7  4  4  2  7
+Zavada C              2.0  0  0  0  0  1
+Vasquez E             1.0  1  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Moehler B (W)         5.2  6  2  2  2  3
+Byrdak T              1.2  1  0  0  0  2
+Gervacio S            0.1  0  0  0  0  1
+Fulchino J            0.1  0  0  0  0  0
+Hawkins L (S)         1.0  1  0  0  0  1
+
+E -- Romero A
+DP -- Houston 1
+LOB -- Arizona 7, Houston 6
+2B -- Ojeda A 2, Blum G, Matsui K
+SB -- Roberts R
+SF -- Lee C
+WP -- Hawkins L
+PB -- Montero M
+T -- 2:53
+A -- 39412
+     Game of 8/23/2009 -- Arizona at Houston (D)
+
+  Arizona            AB  R  H RBI    Houston            AB  R  H RBI
+Oeltjen T, cf         5  0  1  0   Bourn M, cf           5  0  2  0   
+Roberts R, 2b         5  2  4  1   Tejada M, ss          5  1  2  0   
+Tracy C, 3b           4  1  2  0   Berkman L, 1b         4  1  2  2   
+Montero M, c          4  1  1  1   Lee C, lf             5  0  1  1   
+Allen B, 1b           4  0  1  1   Blum G, 3b            5  0  0  0   
+Parra G, lf           4  1  1  0   Michaels J, rf        4  1  1  1   
+Romero A, rf          4  1  1  1   Matsui K, 2b          4  0  2  0   
+Ojeda A, ss           5  1  2  2   Quintero H, c         3  1  2  1   
+Garland J, p          2  0  1  1   Norris B, p           0  0  0  0   
+Gutierrez J, p        0  0  0  0   Paulino F, p          1  0  0  0   
+Haren D, ph           0  0  0  0   Maysonet E, ph        1  1  1  0   
+Rauch J, p            0  0  0  0   Arias A, p            0  0  0  0   
+Qualls C, p           0  0  0  0   Pence H, ph           1  0  0  0   
+                                   Fulchino J, p         0  0  0  0   
+                                   Byrdak T, p           0  0  0  0   
+                                   Erstad D, ph          1  0  0  0   
+                                   Gervacio S, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 14  7                        39  5 13  5
+
+Arizona          510 000 010 --  7
+Houston          000 031 001 --  5
+
+  Arizona              IP  H  R ER BB SO
+Garland J (W)         6.0 10  4  4  1  4
+Gutierrez J           1.0  0  0  0  1  1
+Rauch J               1.0  1  0  0  0  3
+Qualls C (S)          1.0  2  1  1  0  1
+
+  Houston              IP  H  R ER BB SO
+Norris B (L)*         1.0  6  6  6  3  1
+Paulino F             4.0  2  0  0  0  3
+Arias A               1.0  2  0  0  0  2
+Fulchino J            1.2  4  1  1  1  1
+Byrdak T              0.1  0  0  0  1  0
+Gervacio S            1.0  0  0  0  0  0
+  * Pitched to 2 batters in 2nd
+
+DP -- Arizona 1, Houston 2
+LOB -- Arizona 10, Houston 9
+2B -- Roberts R, Bourn M, Berkman L, Oeltjen T, Quintero H, Matsui K, Tejada M
+HR -- Quintero H, Michaels J
+SB -- Matsui K
+SH -- Garland J, Haren D
+Balk -- Fulchino J
+PB -- Quintero H, Montero M
+T -- 3:20
+A -- 30612
+     Game of 9/4/2009 -- Philadelphia at Houston (N)
+
+  Philadelphia       AB  R  H RBI    Houston            AB  R  H RBI
+Rollins J, ss         4  0  1  0   Bourn M, cf           4  0  1  0   
+Walker T, p           0  0  0  0   Matsui K, 2b          5  0  2  2   
+Taschner J, p         0  0  0  0   Berkman L, 1b         4  0  1  0   
+Victorino S, cf       4  0  1  0   Lee C, lf             4  1  2  1   
+Utley C, 2b           3  0  1  0   Tejada M, ss          4  1  1  0   
+Howard R, 1b          4  0  0  0   Pence H, rf           3  2  2  2   
+Werth J, rf           4  0  1  0   Keppinger J, 3b       3  1  1  0   
+Francisco B, lf       4  0  1  0   Maysonet E, 3b        1  0  0  0   
+Feliz P, 3b           4  0  0  0   Quintero H, c         4  1  1  0   
+Ruiz C, c             4  0  3  0   Rodriguez W, p        3  1  1  2   
+Lee C, p              1  0  0  0   Byrdak T, p           0  0  0  0   
+Moyer J, p            1  0  0  0   Boone A, ph           0  0  0  0   
+Cairo M, ph-ss        1  0  0  0   Brocail D, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  0  8  0                        35  7 12  7
+
+Philadelphia     000 000 000 --  0
+Houston          042 010 00x --  7
+
+  Philadelphia         IP  H  R ER BB SO
+Lee C (L)             3.0  9  6  6  0  3
+Moyer J               3.0  1  1  1  1  2
+Walker T              1.2  0  0  0  0  1
+Taschner J            0.1  2  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)       7.0  7  0  0  0  7
+Byrdak T              1.0  0  0  0  0  2
+Brocail D             1.0  1  0  0  0  0
+
+DP -- Houston 1
+LOB -- Philadelphia 9, Houston 7
+2B -- Rodriguez W, Matsui K, Victorino S
+HR -- Pence H, Lee C
+HBP -- by Moyer J (Bourn M), by Rodriguez W (Cairo M), by Byrdak T (Utley C), by Walker T (Boone A)
+T -- 2:35
+A -- 30043
+     Game of 9/5/2009 -- Philadelphia at Houston (N)
+
+  Philadelphia       AB  R  H RBI    Houston            AB  R  H RBI
+Victorino S, cf       5  0  0  0   Bourn M, cf           5  0  2  0   
+Lidge B, p            0  0  0  0   Matsui K, 2b          5  0  1  2   
+Werth J, rf-cf        4  0  0  0   Berkman L, 1b         2  1  0  0   
+Rollins J, ss         5  1  1  0   Lee C, lf             4  0  1  0   
+Howard R, 1b          3  1  1  1   Tejada M, ss          4  1  1  0   
+Ibanez R, lf          4  1  1  0   Pence H, rf           4  1  2  3   
+Feliz P, 3b           4  0  2  1   Blum G, 3b            3  0  1  0   
+Cairo M, 2b           4  1  2  0   Maysonet E, pr        0  0  0  0   
+Bako P, c             2  0  1  0   Coste C, c            4  0  1  0   
+Francisco B, ph       1  0  1  1   Towles J, pr          0  1  0  0   
+Park C, p             0  0  0  0   Oswalt R, p           1  0  0  0   
+Stairs M, ph          0  0  0  0   Byrdak T, p           0  0  0  0   
+Myers B, p            0  0  0  0   Fulchino J, p         0  0  0  0   
+Bruntlett E, rf       0  0  0  0   Erstad D, ph          1  0  0  0   
+Blanton J, p          2  0  0  0   Hawkins L, p          0  0  0  0   
+Ruiz C, ph-c          2  0  1  1   Valverde J, p         0  0  0  0   
+                                   Michaels J, ph        0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4 10  4                        33  5  9  5
+
+Philadelphia     000 000 220 --  4
+Houston          021 000 002 --  5
+  2 outs when winning run was scored.
+
+  Philadelphia         IP  H  R ER BB SO
+Blanton J             6.0  6  3  3  1  5
+Park C                1.0  1  0  0  0  0
+Myers B               1.0  0  0  0  1  0
+Lidge B (L)           0.2  2  2  2  2  1
+
+  Houston              IP  H  R ER BB SO
+Oswalt R              6.1  4  2  2  2  8
+Byrdak T*             0.0  1  0  0  0  0
+Fulchino J            0.2  1  0  0  0  0
+Hawkins L             1.0  4  2  2  1  1
+Valverde J (W)        1.0  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+DP -- Houston 1
+LOB -- Philadelphia 8, Houston 7
+2B -- Cairo M
+3B -- Howard R
+HR -- Pence H
+SB -- Bourn M
+CS -- Berkman L
+SH -- Oswalt R
+T -- 2:50
+A -- 35195
+     Game of 9/6/2009 -- Philadelphia at Houston (D)
+
+  Philadelphia       AB  R  H RBI    Houston            AB  R  H RBI
+Rollins J, ss         5  1  1  1   Bourn M, cf           4  2  2  0   
+Werth J, cf           4  1  1  1   Matsui K, 2b          4  1  1  0   
+Utley C, 2b           4  0  1  0   Berkman L, 1b         3  0  1  1   
+Howard R, 1b          4  0  1  0   Lee C, lf             4  1  1  2   
+Ibanez R, lf          4  0  2  0   Tejada M, ss          4  0  4  1   
+Francisco B, rf       4  1  1  1   Pence H, rf           3  0  0  0   
+Feliz P, 3b           4  0  0  0   Blum G, 3b            4  0  0  0   
+Ruiz C, c             4  0  1  0   Towles J, c           3  0  0  0   
+Hamels C, p           2  0  0  0   Valverde J, p         0  0  0  0   
+Cairo M, ph           1  0  1  0   Norris B, p           2  0  0  0   
+Durbin C, p           0  0  0  0   Boone A, ph           1  0  0  0   
+Stairs M, ph          0  0  0  0   Gervacio S, p         0  0  0  0   
+Bruntlett E, pr       0  0  0  0   Wright W, p           0  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                                   Quintero H, c         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3  9  3                        32  4  9  4
+
+Philadelphia     100 100 010 --  3
+Houston          001 030 00x --  4
+
+  Philadelphia         IP  H  R ER BB SO
+Hamels C (L)          6.0  8  4  4  2  6
+Durbin C              2.0  1  0  0  1  1
+
+  Houston              IP  H  R ER BB SO
+Norris B (W)          6.0  6  2  2  0  6
+Gervacio S            0.2  1  0  0  0  1
+Wright W              0.1  0  0  0  0  0
+Hawkins L             1.0  2  1  1  0  1
+Valverde J (S)        1.0  0  0  0  1  0
+
+DP -- Philadelphia 1
+LOB -- Philadelphia 7, Houston 7
+2B -- Ruiz C, Tejada M 2
+HR -- Rollins J, Francisco B, Werth J
+SB -- Bourn M 2
+T -- 2:43
+A -- 34754
+     Game of 9/7/2009 -- Philadelphia at Houston (D)
+
+  Philadelphia       AB  R  H RBI    Houston            AB  R  H RBI
+Rollins J, ss         4  0  1  0   Bourn M, cf           3  0  1  1   
+Victorino S, cf       5  1  1  0   Matsui K, 2b          3  0  0  0   
+Utley C, 2b           4  0  0  0   Berkman L, 1b         4  0  0  0   
+Howard R, 1b          4  1  3  2   Lee C, lf             4  0  0  0   
+Ibanez R, lf          3  1  1  1   Tejada M, ss          3  2  1  0   
+Werth J, rf           2  0  1  0   Pence H, rf           3  2  2  3   
+Feliz P, 3b           3  0  0  0   Blum G, 3b            4  0  1  0   
+Ruiz C, c             3  0  0  0   Valverde J, p         0  0  0  0   
+Stairs M, ph          1  0  0  0   Coste C, c            2  0  0  0   
+Bako P, c             0  0  0  0   Erstad D, ph          0  0  0  0   
+Moyer J, p            2  0  0  0   Byrdak T, p           0  0  0  0   
+Cairo M, ph           1  0  0  0   Fulchino J, p         0  0  0  0   
+Park C, p             0  0  0  0   Maysonet E, 3b        0  0  0  0   
+Eyre S, p             0  0  0  0   Moehler B, p          2  0  0  0   
+Myers B, p            0  0  0  0   Gervacio S, p         0  0  0  0   
+Francisco B, ph       1  0  0  0   Wright W, p           0  0  0  0   
+                                   Michaels J, ph        0  0  0  0   
+                                   Quintero H, c         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        28  4  5  4
+
+Philadelphia     100 200 000 --  3
+Houston          020 000 20x --  4
+
+  Philadelphia         IP  H  R ER BB SO
+Moyer J               6.0  3  2  2  1  4
+Park C (L)            0.1  2  2  2  3  0
+Eyre S                0.2  0  0  0  0  1
+Myers B               1.0  0  0  0  1  0
+
+  Houston              IP  H  R ER BB SO
+Moehler B             5.2  5  3  3  3  2
+Gervacio S            0.2  0  0  0  1  0
+Wright W (W)          0.2  1  0  0  0  1
+Byrdak T              0.1  1  0  0  0  1
+Fulchino J            0.2  0  0  0  1  2
+Valverde J (S)        1.0  0  0  0  0  1
+
+E -- Wright W
+DP -- Houston 1
+LOB -- Philadelphia 8, Houston 6
+2B -- Werth J, Rollins J, Tejada M, Pence H
+HR -- Pence H, Howard R, Ibanez R
+SB -- Victorino S
+SH -- Matsui K
+T -- 3:15
+A -- 29040
+     Game of 9/8/2009 -- Atlanta at Houston (N)
+
+  Atlanta            AB  R  H RBI    Houston            AB  R  H RBI
+McLouth N, cf         3  1  1  1   Bourn M, cf           3  0  0  0   
+Prado M, 2b           3  0  1  0   Matsui K, 2b          3  0  0  0   
+Jones C, 3b           3  0  0  0   Berkman L, 1b         4  0  1  0   
+McCann B, c           4  0  0  0   Lee C, lf             3  0  1  0   
+Anderson G, lf        4  0  0  0   Tejada M, ss          4  1  1  0   
+Gorecki R, lf         0  0  0  0   Pence H, rf           4  0  2  1   
+Escobar Y, ss         3  0  0  0   Blum G, 3b            3  0  1  0   
+LaRoche A, 1b         4  1  1  1   Quintero H, c         2  0  0  0   
+Church R, rf          4  0  0  0   Maysonet E, ph        0  0  0  0   
+Vazquez J, p          3  0  2  0   Coste C, c            1  0  1  0   
+Gonzalez M, p         0  0  0  0   Manzella T, pr        0  0  0  0   
+Soriano R, p          0  0  0  0   Paulino F, p          1  0  0  0   
+                                   Michaels J, ph        0  0  0  0   
+                                   Byrdak T, p           0  0  0  0   
+                                   Erstad D, ph          1  0  0  0   
+                                   Brocail D, p          0  0  0  0   
+                                   Fulchino J, p         0  0  0  0   
+                                   Boone A, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        30  1  7  1
+
+Atlanta          010 010 000 --  2
+Houston          000 000 001 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Vazquez J (W)         7.0  3  0  0  4  9
+Gonzalez M            1.0  1  0  0  0  0
+Soriano R (S)         1.0  3  1  1  0  0
+
+  Houston              IP  H  R ER BB SO
+Paulino F (L)         6.0  4  2  2  3  6
+Byrdak T              1.0  1  0  0  0  0
+Brocail D             1.0  0  0  0  0  1
+Fulchino J            1.0  0  0  0  1  1
+
+DP -- Atlanta 2
+LOB -- Atlanta 6, Houston 8
+3B -- Tejada M
+HR -- LaRoche A, McLouth N
+SH -- Matsui K, Maysonet E
+WP -- Paulino F
+T -- 2:33
+A -- 26081
+     Game of 9/9/2009 -- Atlanta at Houston (N)
+
+  Atlanta            AB  R  H RBI    Houston            AB  R  H RBI
+McLouth N, cf         4  0  1  0   Bourn M, cf           4  0  0  0   
+Prado M, 2b           3  0  0  0   Matsui K, 2b          4  1  2  0   
+Jones C, 3b           4  0  0  0   Berkman L, 1b         4  1  2  0   
+Escobar Y, ss         2  1  0  0   Lee C, lf             3  0  1  0   
+McCann B, c           4  0  0  0   Tejada M, ss          4  0  1  2   
+Diaz M, rf            3  0  2  1   Pence H, rf           3  0  0  0   
+LaRoche A, 1b         3  0  0  0   Blum G, 3b            1  0  1  0   
+Infante O, lf         3  0  0  0   Johnson C, ph-3b      2  0  0  0   
+Hanson T, p           3  0  0  0   Quintero H, c         2  0  0  0   
+Soriano R, p          0  0  0  0   Erstad D, ph          1  0  0  0   
+                                   Coste C, c            0  0  0  0   
+                                   Rodriguez W, p        2  0  1  0   
+                                   Wright W, p           0  0  0  0   
+                                   Michaels J, ph        1  0  0  0   
+                                   Valverde J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  1  3  1                        31  2  8  2
+
+Atlanta          010 000 000 --  1
+Houston          000 000 002 --  2
+  1 out when winning run was scored.
+
+  Atlanta              IP  H  R ER BB SO
+Hanson T              8.0  5  0  0  0  7
+Soriano R (L)         0.1  3  2  2  1  1
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W           7.0  3  1  1  2  6
+Wright W              1.0  0  0  0  0  2
+Valverde J (W)        1.0  0  0  0  0  2
+
+DP -- Atlanta 2
+LOB -- Atlanta 4, Houston 5
+2B -- Berkman L
+SB -- Berkman L
+SH -- Prado M
+T -- 2:13
+A -- 22392
+     Game of 9/10/2009 -- Atlanta at Houston (N)
+
+  Atlanta            AB  R  H RBI    Houston            AB  R  H RBI
+McLouth N, cf         4  2  2  1   Bourn M, cf           5  1  2  1   
+Escobar Y, ss         5  3  3  0   Matsui K, 2b          4  2  2  0   
+Jones C, 3b           4  2  1  1   Berkman L, 1b         4  1  2  3   
+McCann B, c           5  2  4  2   Lee C, lf             3  0  1  1   
+Anderson G, lf        4  0  2  3   Maysonet E, pr        0  0  0  0   
+Gorecki R, lf         0  0  0  0   Tejada M, ss          5  0  0  0   
+LaRoche A, 1b         5  0  1  1   Pence H, rf           4  2  3  0   
+Church R, rf          2  0  1  0   Johnson C, 3b         4  1  1  0   
+Diaz M, ph-rf         3  0  0  1   Coste C, c            4  0  1  0   
+Johnson K, 2b         4  0  2  0   Oswalt R, p           0  0  0  0   
+Lowe D, p             3  0  0  0   Sadler B, p           1  0  0  0   
+O'Flaherty E, p       1  0  0  0   Wright W, p           0  0  0  0   
+Moylan P, p           0  0  0  0   Boone A, ph           1  0  0  0   
+Conrad B, ph          1  0  0  0   Lopez W, p            0  0  0  0   
+Gonzalez M, p         0  0  0  0   Erstad D, ph          1  0  0  0   
+                                   Gervacio S, p         0  0  0  0   
+                                   Byrdak T, p           0  0  0  0   
+                                   Michaels J, ph        1  0  1  1   
+                                   Brocail D, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  9 16  9                        37  7 13  6
+
+Atlanta          330 210 000 --  9
+Houston          103 100 020 --  7
+
+  Atlanta              IP  H  R ER BB SO
+Lowe D (W)            5.2  9  5  5  2  5
+O'Flaherty E          1.0  0  0  0  1  1
+Moylan P              1.1  3  2  1  0  0
+Gonzalez M (S)        1.0  1  0  0  1  1
+
+  Houston              IP  H  R ER BB SO
+Oswalt R (L)          2.0 10  6  6  1  5
+Sadler B              1.1  2  2  2  1  2
+Wright W              0.2  1  0  0  0  0
+Lopez W               2.0  1  1  1  1  1
+Gervacio S            1.0  1  0  0  1  1
+Byrdak T              1.0  0  0  0  0  2
+Brocail D             1.0  1  0  0  1  0
+
+E -- Jones C 2
+DP -- Atlanta 3, Houston 1
+LOB -- Atlanta 11, Houston 7
+2B -- Escobar Y, McCann B, Johnson K
+HR -- McLouth N, Berkman L
+SB -- Matsui K 2, Bourn M, Escobar Y
+SF -- Anderson G
+T -- 3:11
+A -- 26552
+     Game of 9/11/2009 -- Pittsburgh at Houston (N)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+McCutchen A, cf       4  0  0  0   Bourn M, cf           4  1  1  1   
+Young D, 2b           2  0  0  0   Matsui K, 2b          4  2  3  2   
+Jones G, 1b           4  0  2  0   Maysonet E, 2b        0  0  0  0   
+Milledge L, lf        4  0  1  0   Berkman L, 1b         2  2  2  2   
+Doumit R, c           4  0  2  0   Lee C, lf             4  1  1  3   
+Moss B, rf            4  0  0  0   Hawkins L, p          0  0  0  0   
+LaRoche A, 3b         4  1  1  1   Quintero H, c         0  0  0  0   
+Cedeno R, ss          3  0  1  0   Tejada M, ss          3  0  1  0   
+Morton C, p           2  0  0  0   Bazardo Y, p          0  0  0  0   
+Walker N, ph          1  0  0  0   Pence H, rf           4  1  1  0   
+Hanrahan J, p         0  0  0  0   Johnson C, 3b         4  0  0  0   
+Chavez J, p           0  0  0  0   Towles J, c           2  1  0  0   
+Veal D, p             0  0  0  0   Manzella T, ph-ss     1  0  1  0   
+                                   Norris B, p           2  0  0  0   
+                                   Gervacio S, p         0  0  0  0   
+                                   Michaels J, ph-lf     1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  7  1                        31  9 11  8
+
+Pittsburgh       000 010 000 --  1
+Houston          102 000 60x --  9
+
+  Pittsburgh           IP  H  R ER BB SO
+Morton C (L)          6.0  6  3  3  2  3
+Hanrahan J            0.1  1  3  0  2  1
+Chavez J              0.2  2  3  0  1  0
+Veal D                1.0  2  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Norris B (W)          6.0  6  1  1  1  7
+Gervacio S            1.0  0  0  0  0  1
+Hawkins L             1.0  1  0  0  1  0
+Bazardo Y             1.0  0  0  0  0  3
+
+E -- Doumit R
+DP -- Pittsburgh 2, Houston 2
+LOB -- Pittsburgh 6, Houston 4
+2B -- Jones G, Berkman L, Pence H, Matsui K
+HR -- Berkman L, LaRoche A, Lee C
+SB -- Matsui K
+CS -- Pence H
+SF -- Bourn M
+WP -- Morton C 2
+T -- 2:46
+A -- 31302
+     Game of 9/12/2009 -- Pittsburgh at Houston (N)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+McCutchen A, cf       5  0  0  0   Bourn M, cf           4  0  0  0   
+LaRoche A, 3b         5  0  1  1   Matsui K, 2b          3  1  1  0   
+Jones G, rf-1b        4  0  1  0   Berkman L, 1b         2  1  0  0   
+Doumit R, c           3  0  0  0   Lee C, lf             3  1  1  2   
+Milledge L, lf        4  0  2  0   Tejada M, ss          3  1  1  2   
+Pearce S, 1b          3  0  1  0   Pence H, rf           3  0  1  0   
+Moss B, ph-rf         1  0  1  0   Keppinger J, 3b       3  0  0  0   
+Cedeno R, ss          4  1  2  0   Coste C, c            3  0  0  0   
+Vazquez R, 2b         2  1  1  1   Moehler B, p          1  0  0  0   
+Ohlendorf R, p        2  0  0  0   Erstad D, ph          1  0  0  0   
+Hanrahan J, p         0  0  0  0   Fulchino J, p         0  0  0  0   
+Chavez J, p           0  0  0  0   Hawkins L, p          0  0  0  0   
+Young D, ph           1  0  0  0   Michaels J, ph        1  0  0  0   
+                                   Valverde J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  9  2                        27  4  4  4
+
+Pittsburgh       000 020 000 --  2
+Houston          000 200 20x --  4
+
+  Pittsburgh           IP  H  R ER BB SO
+Ohlendorf R (L)       6.1  4  4  4  1  3
+Hanrahan J            0.2  0  0  0  0  0
+Chavez J              1.0  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Moehler B             6.0  7  2  2  3  4
+Fulchino J (W)        1.0  0  0  0  0  1
+Hawkins L             1.0  2  0  0  0  0
+Valverde J (S)        1.0  0  0  0  0  0
+
+LOB -- Pittsburgh 9, Houston 0
+2B -- Vazquez R
+HR -- Lee C, Tejada M
+SB -- Matsui K, Cedeno R
+CS -- Pence H
+SH -- Ohlendorf R
+T -- 2:32
+A -- 35213
+     Game of 9/13/2009 -- Pittsburgh at Houston (D)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+McCutchen A, cf       4  1  1  0   Bourn M, cf           3  0  1  0   
+LaRoche A, 3b         4  0  1  0   Matsui K, 2b          4  0  1  0   
+Jones G, 1b           3  0  1  1   Fulchino J, p         0  0  0  0   
+Doumit R, c           4  1  2  1   Berkman L, 1b         4  1  1  1   
+Moss B, rf            4  0  1  0   Lee C, lf             4  0  1  0   
+Milledge L, lf        4  0  1  0   Manzella T, pr        0  0  0  0   
+Cedeno R, ss          4  0  1  0   Tejada M, ss          4  0  2  0   
+Vazquez R, 2b         3  0  1  0   Pence H, rf           4  0  0  0   
+Maholm P, p           2  0  0  0   Johnson C, 3b         3  0  0  0   
+Young D, ph           1  0  0  0   Quintero H, c         2  0  1  0   
+Capps M, p            0  0  0  0   Keppinger J, ph-2b    1  0  1  0   
+                                   Paulino F, p          1  0  0  0   
+                                   Wright W, p           0  0  0  0   
+                                   Michaels J, ph        0  0  0  0   
+                                   Brocail D, p          0  0  0  0   
+                                   Gervacio S, p         0  0  0  0   
+                                   Byrdak T, p           0  0  0  0   
+                                   Blum G, ph            1  0  0  0   
+                                   Coste C, c            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  9  2                        31  1  8  1
+
+Pittsburgh       100 000 010 --  2
+Houston          000 000 001 --  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (W)          8.0  6  0  0  2  2
+Capps M (S)           1.0  2  1  1  0  0
+
+  Houston              IP  H  R ER BB SO
+Paulino F (L)         5.0  6  1  1  1  7
+Wright W              1.0  0  0  0  0  1
+Brocail D             0.1  1  0  0  1  0
+Gervacio S            0.2  0  0  0  0  1
+Byrdak T              1.0  1  1  1  0  0
+Fulchino J            1.0  1  0  0  0  0
+
+DP -- Pittsburgh 3
+LOB -- Pittsburgh 7, Houston 5
+2B -- McCutchen A, Bourn M
+HR -- Doumit R, Berkman L
+SB -- Bourn M
+SH -- Maholm P
+T -- 2:29
+A -- 34405
+     Game of 9/21/2009 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Lugo J, 2b            3  0  1  1   Bourn M, cf           4  0  0  0   
+Rasmus C, ph-cf       1  0  0  0   Tejada M, ss          4  1  1  1   
+Ryan B, ss            5  0  1  1   Berkman L, 1b         4  1  2  1   
+Pujols A, 1b          5  1  2  0   Lee C, lf             4  0  0  0   
+Holliday M, lf        4  1  2  1   Blum G, 3b            4  1  1  0   
+Ludwick R, rf         4  1  1  0   Pence H, rf           4  0  0  0   
+DeRosa M, 3b          4  2  3  4   Matsui K, 2b          2  0  0  0   
+LaRue J, c            4  1  2  0   Quintero H, c         3  0  2  1   
+Schumaker S, cf-2b    4  1  3  0   Rodriguez W, p        1  0  0  0   
+Lohse K, p            2  0  0  0   Boone A, ph           1  0  0  0   
+Motte J, p            0  0  0  0   Paronto C, p          0  0  0  0   
+Greene K, ph          1  0  0  0   Gervacio S, p         0  0  0  0   
+McClellan K, p        0  0  0  0   Keppinger J, ph       1  0  0  0   
+                                   Lopez W, p            0  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 15  7                        32  3  6  3
+
+St. Louis        321 001 000 --  7
+Houston          100 011 000 --  3
+
+  St. Louis            IP  H  R ER BB SO
+Lohse K (W)           6.0  5  3  3  1  4
+Motte J               1.0  1  0  0  0  2
+McClellan K           2.0  0  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (L)       5.0  9  6  6  0  5
+Paronto C             1.0  3  1  1  0  1
+Gervacio S            1.0  2  0  0  0  0
+Lopez W               1.0  1  0  0  0  0
+Hawkins L             1.0  0  0  0  0  0
+
+DP -- St. Louis 1, Houston 1
+LOB -- St. Louis 5, Houston 3
+2B -- Pujols A 2, DeRosa M, Blum G
+HR -- Tejada M, DeRosa M 2, Berkman L
+CS -- Ludwick R
+SH -- Lohse K
+SF -- Lugo J
+T -- 2:19
+A -- 34705
+     Game of 9/22/2009 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Schumaker S, 2b-lf    5  1  1  1   Bourn M, cf           4  1  2  0   
+Rasmus C, cf          4  3  3  1   Tejada M, ss          4  1  3  1   
+Pujols A, 1b          4  0  2  1   Berkman L, 1b         3  0  0  0   
+LaRue J, c            0  0  0  0   Lee C, lf             4  0  1  0   
+Holliday M, lf        3  1  1  0   Blum G, 3b            2  0  1  1   
+Miller T, p           0  0  0  0   Pence H, rf           4  0  1  0   
+Wellemeyer T, p       1  0  0  0   Keppinger J, 2b       4  0  0  0   
+Ankiel R, rf          5  2  2  0   Towles J, c           4  0  0  0   
+DeRosa M, 3b          5  2  2  2   Bazardo Y, p          1  0  0  0   
+Molina Y, c-1b        5  1  2  2   Wright W, p           0  0  0  0   
+Lugo J, ss            4  1  0  1   Erstad D, ph          1  0  0  0   
+Pineiro J, p          2  0  1  1   Brocail D, p          0  0  0  0   
+Thurston J, ph-2b     1  0  1  0   Byrdak T, p           0  0  0  0   
+                                   Johnson C, ph         1  0  0  0   
+                                   Paronto C, p          0  0  0  0   
+                                   Valverde J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 11 15  9                        32  2  8  2
+
+St. Louis        003 310 121 -- 11
+Houston          000 100 010 --  2
+
+  St. Louis            IP  H  R ER BB SO
+Pineiro J (W)         7.0  5  1  1  2  4
+Miller T              0.1  2  1  1  0  1
+Wellemeyer T          1.2  1  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Bazardo Y (L)         3.2  6  6  6  2  2
+Wright W              1.1  2  1  1  1  1
+Brocail D             1.0  0  0  0  0  0
+Byrdak T              1.0  1  1  1  1  1
+Paronto C             1.0  4  2  2  0  0
+Valverde J            1.0  2  1  1  0  0
+
+DP -- St. Louis 2, Houston 1
+LOB -- St. Louis 6, Houston 6
+2B -- Tejada M 2, Blum G, Molina Y
+3B -- Ankiel R
+HR -- Rasmus C, Molina Y
+SH -- Pineiro J
+SF -- Blum G
+T -- 2:43
+A -- 32644
+     Game of 9/23/2009 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Schumaker S, 2b       3  0  0  0   Bourn M, cf           3  1  0  0   
+Rasmus C, cf          4  0  1  0   Tejada M, ss          4  1  2  1   
+Pujols A, 1b          4  0  1  0   Berkman L, 1b         3  0  0  0   
+Holliday M, lf        4  0  1  0   Lee C, lf             3  0  2  2   
+Ludwick R, rf         3  0  2  0   Valverde J, p         0  0  0  0   
+DeRosa M, 3b          4  0  0  0   Blum G, 3b            4  0  0  0   
+Molina Y, c           4  0  2  0   Pence H, rf           3  0  0  0   
+Lugo J, ss            4  0  0  0   Matsui K, 2b          2  1  1  0   
+Smoltz J, p           1  0  0  0   Towles J, c           2  0  0  0   
+Ankiel R, ph          1  0  0  0   Keppinger J, ph       1  0  0  0   
+Hawksworth B, p       0  0  0  0   Quintero H, c         0  0  0  0   
+Reyes D, p            0  0  0  0   Norris B, p           2  0  1  0   
+Franklin R, p         0  0  0  0   Fulchino J, p         0  0  0  0   
+                                   Erstad D, ph          1  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                                   Michaels J, lf        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  0  7  0                        28  3  6  3
+
+St. Louis        000 000 000 --  0
+Houston          001 001 01x --  3
+
+  St. Louis            IP  H  R ER BB SO
+Smoltz J (L)          6.0  5  2  2  0  5
+Hawksworth B          1.0  0  0  0  1  1
+Reyes D*              0.0  0  1  1  1  0
+Franklin R            1.0  1  0  0  1  3
+
+  Houston              IP  H  R ER BB SO
+Norris B (W)          6.0  6  0  0  2  3
+Fulchino J            1.0  0  0  0  0  3
+Hawkins L             1.0  1  0  0  0  0
+Valverde J (S)        1.0  0  0  0  1  2
+  * Pitched to 1 batter in 8th
+
+DP -- Houston 2
+LOB -- St. Louis 8, Houston 6
+2B -- Matsui K, Tejada M
+SH -- Matsui K
+SF -- Lee C
+WP -- Franklin R
+T -- 2:44
+A -- 38732
+     Game of 9/25/2009 -- Cincinnati at Houston (N)
+
+  Cincinnati         AB  R  H RBI    Houston            AB  R  H RBI
+Stubbs D, cf          6  2  2  1   Bourn M, cf           4  0  1  0   
+Burton J, p           0  0  0  0   Tejada M, ss          4  1  1  0   
+Janish P, ss          3  2  2  1   Berkman L, 1b         4  1  2  2   
+Sutton D, ph-ss-2b    2  0  1  0   Lee C, lf             4  0  1  0   
+Votto J, 1b           4  1  2  4   Pence H, rf           4  0  0  0   
+Barker K, ph-1b       1  0  0  0   Matsui K, 2b          4  2  2  1   
+Phillips B, 2b        5  0  1  0   Keppinger J, 3b       4  0  1  0   
+Rosales A, pr-ss      0  0  0  0   Coste C, c            3  0  1  1   
+Bruce J, rf           4  2  2  1   Moehler B, p          0  0  0  0   
+Balentien W, lf       5  1  2  2   Wright W, p           1  0  0  0   
+Francisco J, 3b       5  1  3  1   Manzella T, ph        1  0  0  0   
+Hanigan R, c          3  0  1  0   Lopez W, p            0  0  0  0   
+Tatum C, ph-c         1  0  0  0   Johnson C, ph         1  0  0  0   
+Maloney M, p          3  1  1  0   Byrdak T, p           0  0  0  0   
+Viola P, p            0  0  0  0   Paronto C, p          0  0  0  0   
+Ramirez R, p          0  0  0  0   Erstad D, ph          1  0  0  0   
+Taveras W, ph-cf      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     43 10 17 10                        35  4  9  4
+
+Cincinnati       151 012 000 -- 10
+Houston          010 000 120 --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Maloney M (W)         7.0  6  2  2  0  4
+Viola P               0.1  2  2  2  0  0
+Ramirez R             0.2  1  0  0  0  0
+Burton J              1.0  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Moehler B (L)         2.1  8  7  7  1  2
+Wright W              2.2  3  1  1  1  3
+Lopez W               2.0  6  2  0  0  1
+Byrdak T              1.0  0  0  0  1  1
+Paronto C             1.0  0  0  0  0  1
+
+E -- Francisco J, Matsui K, Keppinger J
+DP -- Cincinnati 1, Houston 2
+LOB -- Cincinnati 10, Houston 5
+2B -- Votto J, Bruce J, Coste C, Lee C
+HR -- Votto J, Matsui K, Bruce J, Berkman L
+SF -- Coste C
+HBP -- by Lopez W (Hanigan R)
+T -- 2:58
+A -- 37710
+     Game of 9/26/2009 -- Cincinnati at Houston (N)
+
+  Cincinnati         AB  R  H RBI    Houston            AB  R  H RBI
+Stubbs D, cf          4  0  0  0   Bourn M, cf           3  1  1  0   
+Janish P, ss          5  0  0  0   Tejada M, ss          4  1  4  2   
+Votto J, 1b           4  3  3  0   Berkman L, 1b         3  0  1  0   
+Phillips B, 2b        5  1  1  0   Lee C, lf             4  0  0  0   
+Bruce J, rf           3  3  2  3   Blum G, 3b            4  0  0  0   
+Francisco J, 3b       5  1  2  2   Pence H, rf           4  1  1  1   
+Nix L, lf             2  2  1  3   Matsui K, 2b          4  0  0  0   
+Miller C, c           4  0  2  2   Quintero H, c         1  0  0  0   
+Lehr J, p             3  0  0  0   Erstad D, ph          1  0  0  0   
+Owings M, p           0  0  0  0   Coste C, c            1  0  0  0   
+Herrera D, p          0  0  0  0   Paulino F, p          1  0  0  0   
+Barker K, ph          1  0  1  0   Maysonet E, ph        1  1  1  0   
+Masset N, p           0  0  0  0   Brocail D, p          0  0  0  0   
+Burton J, p           0  0  0  0   Byrdak T, p           0  0  0  0   
+                                   Michaels J, ph        0  0  0  0   
+                                   Gervacio S, p         0  0  0  0   
+                                   Fulchino J, p         0  0  0  0   
+                                   Keppinger J, ph       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36 10 12 10                        32  4  8  3
+
+Cincinnati       023 030 002 -- 10
+Houston          011 020 000 --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Lehr J (W)            5.0  6  4  4  2  4
+Owings M              1.1  0  0  0  1  0
+Herrera D             0.2  0  0  0  0  1
+Masset N              1.0  2  0  0  0  1
+Burton J              1.0  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Paulino F (L)         5.0  9  8  8  4  3
+Brocail D             1.0  0  0  0  0  0
+Byrdak T              1.0  0  0  0  1  1
+Gervacio S            1.0  1  0  0  0  3
+Fulchino J            1.0  2  2  2  0  1
+
+DP -- Cincinnati 3, Houston 1
+LOB -- Cincinnati 5, Houston 5
+2B -- Votto J 3, Bruce J, Miller C, Barker K
+HR -- Nix L, Pence H, Tejada M, Bruce J
+SB -- Bourn M
+CS -- Bruce J, Michaels J
+SF -- Nix L
+HBP -- by Lehr J (Quintero H)
+T -- 2:46
+A -- 39476
+     Game of 9/27/2009 -- Cincinnati at Houston (D)
+
+  Cincinnati         AB  R  H RBI    Houston            AB  R  H RBI
+Stubbs D, cf          4  0  0  0   Bourn M, cf           4  1  1  0   
+Barker K, ph          1  0  0  0   Tejada M, ss          3  0  1  0   
+Janish P, ss          4  0  1  0   Berkman L, 1b         3  0  0  1   
+Votto J, 1b           4  0  1  0   Lee C, lf             4  0  0  1   
+Phillips B, 2b        4  1  1  0   Michaels J, lf        0  0  0  0   
+Gomes J, lf           4  1  2  1   Pence H, rf           4  0  2  0   
+McDonald D, rf        3  0  1  0   Blum G, 3b            2  0  0  0   
+Bruce J, ph-rf        1  0  0  0   Maysonet E, 2b        3  0  0  0   
+Hernandez R, c        4  0  2  1   Valverde J, p         0  0  0  0   
+Rosales A, 3b         2  0  1  0   Quintero H, c         3  1  1  1   
+Francisco J, ph       0  0  0  0   Rodriguez W, p        2  1  1  0   
+Cueto J, p            3  0  1  0   Fulchino J, p         0  0  0  0   
+Masset N, p           0  0  0  0   Keppinger J, ph       1  0  0  0   
+Nix L, ph             1  0  0  0   Hawkins L, p          0  0  0  0   
+                                   Matsui K, 2b          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2 10  2                        29  3  6  3
+
+Cincinnati       000 002 000 --  2
+Houston          002 100 00x --  3
+
+  Cincinnati           IP  H  R ER BB SO
+Cueto J (L)           7.1  6  3  3  5  5
+Masset N              0.2  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)       6.0  9  2  2  1  9
+Fulchino J            1.0  0  0  0  0  2
+Hawkins L             1.0  1  0  0  0  0
+Valverde J (S)        1.0  0  0  0  1  0
+
+E -- Rosales A
+DP -- Cincinnati 2, Houston 2
+LOB -- Cincinnati 8, Houston 7
+2B -- Gomes J 2, Tejada M, Pence H
+HR -- Quintero H
+WP -- Cueto J
+T -- 2:25
+A -- 37595
+

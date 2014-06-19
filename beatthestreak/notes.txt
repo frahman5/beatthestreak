@@ -1,18 +1,6 @@
 Notes:
 
-1) How to extract all the retrosheet ids from a piece of text
-	-open python
-	
-	>>> file = open('TEXT_FILE_NAME', "rw")
-	>>> file_string_list = file.readlines()
-	>>> file.close()
-	>>> p = re.compile("[a-z]{5}[0-9]{3}")
-	>>> matches = [p.findall(string) for string in file_string]
-	>>> result = [participant for list in matches for participant in list]
-
-	-copy and paste result into your desired code
-
-2) Variables that can be played with to optimize strategy
+1) Variables that can be played with to optimize strategy
    - Number of bots N
    - Top P players P
    - how those P players are distributed to bots N
@@ -21,18 +9,40 @@ Notes:
        skip a day
    - how players chosen
        -> Top P global players modulo distribution?
-           -> Random distrubition?
-       -> Top P nightly players module distribution?
-           -> Random distribution?
-       -> Top P nightly players taking into accont opposing pitcher ERA
+           -> module distrubition?
+           -> random distributon?
+       -> Top P nightly players modulo distribution?
+           -> module distrubition?
+           -> random distributon?
+       -> Top P global players filtered by opposing pitcher ERA modulo?
+           -> module distrubition?
+           -> random distributon?
+       -> Top P nightly players taking into accuont opposing pitcher ERA
            -> modulo distrubition?
            -> random distrubiton?
 
-3) Future refactorings:
+2) Future refactorings:
     -> install FellThroughExceptions on all appropriate functions
     -> If putting up on github, test filepath.get_root() so that it returns
     the right stirng REGARDLESS of what the cwd is or which module is calling in
-    -> Update reporting to include
-        -> minPA
+
+3) ToDo before starting mass simulations
+    -> Achieve 100% line-coverage and logical coverage of all modules
+        -> testBot
+            -> lastHistory element and update_history buffer
+                -> logical testing must occur in NPSimulation
+        -> tsetFilePath | DONE
+        -> testNPReporter
+        -> testNPSimulation
+        -> testPlayer
+        -> testResearcher
+        -> testRetrosheet | DONE
+             -> 95% test coverage is acceptable, because stragglers are
+             lines that just check for existing files
+        -> testUtilities | DONE
+    -> Updating reporting
+        -> include minPA
         -> player choice method
+        -> update file names
+    -> Get mass_simulate working
        

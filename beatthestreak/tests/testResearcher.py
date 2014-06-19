@@ -34,6 +34,7 @@ class TestResearcher(unittest.TestCase):
         teardown()
     
     # @unittest.skip("Too long")
+    @unittest.skip("Not Focus")
     def test_did_get_hit(self):
         # Edwin Jackon test
         # import pdb
@@ -104,10 +105,12 @@ class TestResearcher(unittest.TestCase):
         Lance = Player("Lance", "Berkman", 2008)
         self.assertTrue(R.did_get_hit(date(2009, 7, 9), Lance))
 
+    # @unittest.skip("Not Focus")
     def test_get_hit_info(self):
-        d1 = date(2013, 4, 15)
+        d1 = date(2012, 4, 15)
         d2 = date(2001, 7, 18)
         d3 = date(2010, 4, 16)
+        d4 = date(2012, 7, 3)
         sGD2013 = R.get_sus_games_dict(2013) # assume works
         sGD2001 = R.get_sus_games_dict(2001) # assume works
         sGD2010 = R.get_sus_games_dict(2010) # assume works
@@ -118,7 +121,7 @@ class TestResearcher(unittest.TestCase):
 
     	## Case 2: (False, None); player did not get a hit on date date
     	Will = Player("Will", "Venable", 2013)
-    	self.assertEqual(R.get_hit_info(d1, Will, sGD2013), (False, None))
+    	self.assertEqual(R.get_hit_info(d4, Will, sGD2013), (False, None))
 
     	## Case 3: ('pass', 'Suspended, Invalid'); player played in a suspended, invalid game
     	Mark = Player("Mark", "Grace", 2001)
@@ -132,6 +135,7 @@ class TestResearcher(unittest.TestCase):
         Marco = Player("Marco", "Scutaro", 2010)
         self.assertEqual(R.get_hit_info(d3, Marco, sGD2010), (False, 'Suspended, Valid.'))
 
+    @unittest.skip("Not Focus")
     def test_get_participants_superset(self):
     	self.assertTrue(set(participants_2011_9_4).issubset(
     		set(R._Researcher__get_participants_superset(date(2011,9,4)))))
@@ -147,6 +151,7 @@ class TestResearcher(unittest.TestCase):
         self.assertTrue(set(participants_2007_5_2).issubset(
         	R._Researcher__get_participants_superset(date(2007, 5, 2)))) # May 1st CHN @ PIT suspended game completed on May 2
 
+    @unittest.skip("Not Focus")
     def test_find_home_team(self):
     	Troy = Player("Troy", "Tulowitzki", 2010)
     	self.assertEqual(R.find_home_team(date(2011, 8, 3), p1), "MIL")
@@ -159,6 +164,7 @@ class TestResearcher(unittest.TestCase):
         self.assertEqual(R.find_home_team(date(2012, 6, 15), p2), "TBA")
         self.assertEqual(R.find_home_team(date(2013, 9, 20), p2), "BOS")
 
+    @unittest.skip("Not Focus")
     def test_did_start(self):
         self.assertFalse(R.did_start(date(2011, 7, 2), p1))
         self.assertTrue(R.did_start(date(2011, 9, 14), p2))
@@ -180,6 +186,7 @@ class TestResearcher(unittest.TestCase):
         self.assertFalse(R.did_start(date(2004, 7, 31), Craig))
         self.assertTrue(R.did_start(date(2004, 7, 3), Craig))
 
+    @unittest.skip("Not Focus")
     def test_get_sus_Games_dict(self):
     	participants_2001_6_15_s = (
     		"welkt901","cedeg901","iassd901","hudsm901","muset101","loped001",
@@ -207,6 +214,7 @@ class TestResearcher(unittest.TestCase):
     	self.assertDictEqual(R.get_sus_games_dict(2001), sGD2001)
     	self.assertDictEqual(R.get_sus_games_dict(2011), sGD2011)
 
+    @unittest.skip("Not Focus")
     def test_num_at_bats(self):
         self.assertEqual(R.num_at_bats(2010, p1), 38) # traded from NL to AL
         self.assertEqual(R.num_at_bats(2006, p2), 647)
@@ -214,6 +222,7 @@ class TestResearcher(unittest.TestCase):
         self.assertEqual(R.num_at_bats(2001, p4), 484)
         self.assertEqual(R.num_at_bats(2008, p5), 552) # traded from BOS to LAD
 
+    @unittest.skip("Not Focus")
     def test_num_plate_appearances(self):
         self.assertEqual(R.num_plate_appearances(2010, p1), 43) # traded from NL to AL
         self.assertEqual(R.num_plate_appearances(2006, p2), 703)
@@ -221,6 +230,7 @@ class TestResearcher(unittest.TestCase):
         self.assertEqual(R.num_plate_appearances(2001, p4), 557)
         self.assertEqual(R.num_plate_appearances(2008, p5), 654) # traded from BOS to LAD
 
+    @unittest.skip("Not Focus")
     def test_name_from_lahman_id(self):
         self.assertEqual(R.name_from_lahman_id("jacksed01"), ("Edwin", "Jackson"))
         self.assertEqual(R.name_from_lahman_id("reyesjo01"), ("Jose",  "Reyes"))
@@ -229,20 +239,24 @@ class TestResearcher(unittest.TestCase):
         self.assertEqual(R.name_from_lahman_id("ramirma02"), ("Manny", "Ramirez"))
         self.assertEqual(R.name_from_lahman_id("loducpa01"), ("Paul", "Lo Duca"))
 
+    @unittest.skip("Not Focus")
     def test_get_opening_day(self):
         self.assertEqual(R.get_opening_day(2010), date(2010,4,4))
         self.assertEqual(R.get_opening_day(1992), date(1992, 4,6))
 
+    @unittest.skip("Not Focus")
     def test_get_closing_day(self):
         self.assertEqual(R.get_closing_day(2010), date(2010,10,3))
         self.assertEqual(R.get_closing_day(1992), date(1992, 10,4))
 
+    @unittest.skip("Not Focus")
     def test_check_date(self):
         self.assertRaises(BadDateException, R.check_date, date(2010, 3, 1), 
             2010)
         self.assertRaises(BadDateException, R.check_date, date(1950, 3, 7), 
         	1950)
 
+    @unittest.skip("Not Focus")
     def test_is_game_suspended(self):
         ## The first four lines of testResearcher_is_game_suspended.txt 
         ## are the gamelog lines for the below four games
@@ -263,6 +277,7 @@ class TestResearcher(unittest.TestCase):
 
         testFile.close()
 
+    @unittest.skip("Not Focus")
     def test_is_suspended_game_valid(self):
         ## The first four lines of testResearcher_is_suspended_game_valid.txt
         ## are the gamelog lines for the below four games

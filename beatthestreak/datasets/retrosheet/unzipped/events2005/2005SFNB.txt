@@ -1,0 +1,3684 @@
+     Game of 4/5/2005 -- Los Angeles at San Francisco (D)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Izturis C, ss         4  1  2  1   Durham R, 2b          4  1  1  0   
+Choi H, 1b            3  0  0  0   Vizquel O, ss         3  0  2  0   
+Perez A, ph-2b        1  0  0  0   Snow J, 1b            3  0  1  0   
+Drew J, rf            4  0  0  0   Alou M, rf-lf         4  0  0  0   
+Kent J, 2b-1b         3  0  1  0   Feliz P, lf           4  1  1  0   
+Bradley M, cf         4  1  1  0   Eyre S, p             0  0  0  0   
+Valentin J, 3b        3  0  0  0   Ellison J, rf         0  0  0  0   
+Ledee R, lf           3  0  1  0   Alfonzo E, 3b         4  2  3  2   
+Phillips J, c         2  0  0  1   Grissom M, cf         4  0  1  0   
+Lowe D, p             3  0  0  0   Matheny M, c          4  0  0  0   
+Carrara G, p          0  0  0  0   Schmidt J, p          2  0  0  0   
+Wunsch K, p           0  0  0  0   Tucker M, ph-rf       2  0  1  0   
+                                   Benitez A, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        34  4 10  2
+
+Los Angeles      110 000 000 --  2
+San Francisco    000 200 11x --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Lowe D (L)            7.0  8  3  2  2  6
+Carrara G             0.1  2  1  1  0  0
+Wunsch K              0.2  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J (W)         7.0  4  2  2  2  9
+Eyre S                1.0  0  0  0  0  2
+Benitez A (S)         1.0  1  0  0  0  0
+
+E -- Valentin J, Carrara G
+DP -- San Francisco 1
+LOB -- Los Angeles 4, San Francisco 9
+2B -- Vizquel O, Alfonzo E
+HR -- Izturis C, Alfonzo E
+SB -- Kent J, Vizquel O
+CS -- Durham R
+SF -- Phillips J
+HBP -- by Lowe D (Durham R)
+T -- 2:28
+A -- 42788
+     Game of 4/6/2005 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Izturis C, ss         5  0  0  0   Vizquel O, ss         3  0  1  0   
+Repko J, lf-rf-cf     5  0  2  0   Cruz D, 2b            5  0  0  0   
+Drew J, rf            5  0  0  0   Feliz P, lf           4  1  2  1   
+Schmoll S, p          0  0  0  0   Alou M, rf            2  0  0  0   
+Ledee R, rf           0  0  0  0   Tucker M, rf-cf       3  0  0  0   
+Kent J, 2b            4  3  2  0   Alfonzo E, 3b         5  0  2  0   
+Bradley M, cf         5  2  2  1   Grissom M, cf         2  0  1  1   
+Brazoban Y, p         0  0  0  0   Herges M, p           0  0  0  0   
+Carlyle B, p          0  0  0  0   Ellison J, ph         1  0  0  0   
+Saenz O, 1b           4  3  3  3   Fassero J, p          0  0  0  0   
+Phillips J, c         5  1  2  2   Snow J, 1b            4  1  2  0   
+Valentin J, 3b        4  1  3  4   Matheny M, c          3  1  1  2   
+Perez O, p            3  0  0  0   Rueter K, p           2  0  0  0   
+Sanchez D, p          1  0  0  0   Walker T, p           0  0  0  0   
+Grabowski J, lf       0  0  0  0   Christiansen J, p     0  0  0  0   
+                                   Torcato T, rf         2  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41 10 14 10                        36  4  9  4
+
+Los Angeles      020 005 300 -- 10
+San Francisco    000 100 003 --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Perez O (W)           5.0  6  1  1  3  2
+Sanchez D             2.0  0  0  0  1  1
+Schmoll S             1.0  0  0  0  0  0
+Brazoban Y            0.1  3  3  2  1  0
+Carlyle B             0.2  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (L)          5.0  3  2  2  2  4
+Walker T*             0.0  4  4  4  0  0
+Christiansen J        1.0  2  1  1  0  1
+Herges M              2.0  5  3  3  0  0
+Fassero J             1.0  0  0  0  0  0
+  * Pitched to 4 batters in 6th
+
+E -- Rueter K, Alfonzo E, Valentin J, Izturis C
+DP -- Los Angeles 1, San Francisco 1
+LOB -- Los Angeles 6, San Francisco 10
+2B -- Phillips J, Grissom M, Bradley M, Saenz O
+3B -- Bradley M, Valentin J
+HR -- Valentin J, Matheny M
+SB -- Vizquel O
+T -- 3:07
+A -- 42433
+     Game of 4/7/2005 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Izturis C, ss         4  0  2  1   Durham R, 2b          4  0  1  0   
+Repko J, lf           4  1  0  0   Vizquel O, ss         4  0  0  0   
+Drew J, rf            4  1  0  0   Snow J, 1b            4  0  0  0   
+Kent J, 2b            4  2  3  1   Feliz P, lf           4  0  1  0   
+Bradley M, cf         4  0  1  0   Alfonzo E, 3b         2  0  0  0   
+Valentin J, 3b        0  1  0  2   Grissom M, cf         3  0  1  0   
+Phillips J, c         5  1  1  1   Brower J, p           0  0  0  0   
+Choi H, 1b            4  0  0  0   Herges M, p           0  0  0  0   
+Weaver J, p           4  0  1  1   Cruz D, ph            1  0  0  0   
+Wunsch K, p           0  0  0  0   Tucker M, rf          3  0  0  0   
+                                   Matheny M, c          3  0  1  0   
+                                   Tomko B, p            1  0  0  0   
+                                   Torcato T, ph         1  0  1  0   
+                                   Fassero J, p          0  0  0  0   
+                                   Ellison J, cf         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  6  8  6                        31  0  5  0
+
+Los Angeles      000 103 002 --  6
+San Francisco    000 000 000 --  0
+
+  Los Angeles          IP  H  R ER BB SO
+Weaver J (W)          8.0  5  0  0  1  2
+Wunsch K              1.0  0  0  0  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B (L)           6.0  7  4  3  4  4
+Fassero J             1.2  0  0  0  1  1
+Brower J              0.2  1  2  2  3  0
+Herges M              0.2  0  0  0  0  2
+
+E -- Grissom M, Valentin J
+DP -- Los Angeles 2, San Francisco 1
+LOB -- Los Angeles 11, San Francisco 6
+2B -- Izturis C, Matheny M, Kent J
+SB -- Valentin J, Repko J
+SF -- Valentin J
+HBP -- by Tomko B (Kent J), by Brower J (Repko J)
+WP -- Tomko B
+T -- 2:45
+A -- 40536
+     Game of 4/8/2005 -- Colorado at San Francisco (N)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Barmes C, ss          5  0  0  0   Durham R, 2b          3  1  0  0   
+Gonzalez L, 2b-3b     4  1  1  0   Vizquel O, ss         5  0  2  2   
+Helton T, 1b          3  1  1  1   Niekro L, 1b          5  1  1  0   
+Wilson P, cf          4  1  0  0   Christiansen J, p     0  0  0  0   
+Holliday M, lf        5  1  1  2   Feliz P, lf           4  2  2  1   
+Fuentes B, p          0  0  0  0   Alfonzo E, 3b         4  2  3  3   
+Dohmann S, p          0  0  0  0   Grissom M, cf         5  1  1  3   
+Greene T, c           4  2  2  3   Matheny M, c          3  1  2  0   
+Baker J, 3b           3  1  1  0   Ellison J, rf         3  1  2  1   
+Speier R, p           0  0  0  0   Tucker M, ph-rf       1  1  0  0   
+Sullivan C, lf        0  0  0  0   Lowry N, p            2  0  0  0   
+Restovich M, rf       2  0  0  0   Brower J, p           0  0  0  0   
+Hawpe B, ph-rf        2  1  2  1   Eyre S, p             0  0  0  0   
+Francis J, p          2  0  1  0   Walker T, p           0  0  0  0   
+Kim B, p              0  0  0  0   Snow J, ph-1b         1  0  1  0   
+Miles A, ph-2b        1  0  0  1                                      
+                     -- -- -- --                        -- -- -- --
+                     35  8  9  8                        36 10 14 10
+
+Colorado         000 000 800 --  8
+San Francisco    210 120 013 -- 10
+  0 outs when winning run was scored.
+
+  Colorado             IP  H  R ER BB SO
+Francis J*            4.0  8  6  6  3  2
+Kim B                 2.0  0  0  0  1  0
+Speier R              2.0  4  1  1  0  2
+Fuentes B (L)+        0.0  1  2  2  1  0
+Dohmann S             0.0  1  1  1  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N#              6.0  4  2  2  3  2
+Brower J              0.2  1  2  2  1  0
+Eyre S**              0.0  2  3  3  0  0
+Walker T              1.1  2  1  1  0  1
+Christiansen J (W)    1.0  0  0  0  0  0
+  * Pitched to 2 batters in 5th
+  + Pitched to 2 batters in 9th
+  # Pitched to 2 batters in 7th
+  ** Pitched to 3 batters in 7th
+
+E -- Ellison J
+DP -- Colorado 1
+LOB -- Colorado 6, San Francisco 8
+2B -- Feliz P, Vizquel O, Hawpe B
+HR -- Ellison J, Alfonzo E, Greene T, Grissom M
+SH -- Miles A
+SF -- Alfonzo E
+HBP -- by Eyre S (Wilson P)
+T -- 3:05
+A -- 37015
+     Game of 4/9/2005 -- Colorado at San Francisco (D)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Miles A, 2b           3  0  0  0   Durham R, 2b          3  0  0  0   
+Barmes C, ss          4  1  1  0   Vizquel O, ss         3  1  1  0   
+Helton T, 1b          3  0  1  0   Snow J, 1b            3  0  1  0   
+Wilson P, cf          3  0  1  1   Feliz P, lf           4  1  1  0   
+Holliday M, lf        4  1  1  0   Benitez A, p          0  0  0  0   
+Hawpe B, rf           3  0  1  0   Alfonzo E, 3b         3  1  0  0   
+Gonzalez L, 3b        3  0  0  0   Tucker M, rf          4  1  1  4   
+Closser J, c          3  0  0  0   Grissom M, cf         4  0  1  0   
+Wright J, p           3  0  1  0   Torrealba Y, c        2  0  0  0   
+Fuentes B, p          0  0  0  0   Williams J, p         2  0  0  0   
+Dohmann S, p          0  0  0  0   Torcato T, ph         1  0  0  0   
+                                   Eyre S, p             0  0  0  0   
+                                   Ellison J, lf         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  2  6  1                        29  4  5  4
+
+Colorado         000 010 001 --  2
+San Francisco    000 000 04x --  4
+
+  Colorado             IP  H  R ER BB SO
+Wright J              7.1  3  1  1  4  3
+Fuentes B             0.1  0  0  0  0  0
+Dohmann S (L)         0.1  2  3  3  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Williams J            7.0  5  1  1  1  5
+Eyre S (W)            1.0  0  0  0  0  0
+Benitez A (S)         1.0  1  1  1  0  0
+
+E -- Miles A
+DP -- Colorado 1, San Francisco 1
+LOB -- Colorado 3, San Francisco 6
+2B -- Helton T, Barmes C
+HR -- Tucker M
+SB -- Vizquel O 2
+SH -- Miles A
+SF -- Wilson P
+T -- 2:20
+A -- 37993
+     Game of 4/10/2005 -- Colorado at San Francisco (D)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Miles A, 2b           5  1  1  1   Ellison J, rf-lf      3  1  2  0   
+Sullivan C, cf        5  0  1  0   Vizquel O, ss         5  2  1  1   
+Helton T, 1b          2  0  0  0   Cruz D, 2b            5  1  2  1   
+Gonzalez L, 1b        2  1  2  1   Feliz P, lf           5  2  2  2   
+Holliday M, lf        4  0  0  0   Tucker M, rf          0  0  0  0   
+Hawpe B, rf           3  0  0  1   Alfonzo E, 3b         4  2  2  0   
+Baker J, 3b           3  0  0  0   Grissom M, cf         3  1  2  2   
+Carvajal M, p         0  0  0  0   Niekro L, 1b          3  0  1  1   
+Restovich M, ph       1  0  1  1   Snow J, 1b            0  0  0  0   
+Lopez J, p            0  0  0  0   Matheny M, c          4  1  1  2   
+Barmes C, ss          4  1  2  0   Schmidt J, p          3  1  2  1   
+Closser J, c          3  0  2  0   Fassero J, p          0  0  0  0   
+Kennedy J, p          2  0  0  0   Torcato T, ph         1  0  0  0   
+Seay B, p             0  0  0  0   Christiansen J, p     0  0  0  0   
+Amezaga A, 3b         2  1  1  0   Brower J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4 10  4                        36 11 15 10
+
+Colorado         000 001 111 --  4
+San Francisco    110 170 01x -- 11
+
+  Colorado             IP  H  R ER BB SO
+Kennedy J (L)         4.1 10  9  8  1  3
+Seay B                0.2  2  1  1  1  1
+Carvajal M            2.0  1  0  0  0  0
+Lopez J               1.0  2  1  1  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J (W)         6.0  2  1  0  3  7
+Fassero J             1.0  3  1  1  0  0
+Christiansen J        0.2  3  1  1  0  1
+Brower J              1.1  2  1  1  0  1
+
+E -- Kennedy J, Cruz D, Barmes C
+DP -- Colorado 2, San Francisco 1
+LOB -- Colorado 9, San Francisco 6
+2B -- Feliz P, Vizquel O, Matheny M, Cruz D
+SB -- Ellison J
+SH -- Ellison J
+SF -- Niekro L, Hawpe B
+HBP -- by Kennedy J (Alfonzo E)
+WP -- Kennedy J
+Balk -- Seay B
+T -- 2:36
+A -- 38588
+     Game of 4/20/2005 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Counsell C, 2b        1  1  0  0   Durham R, 2b          3  0  0  1   
+Clayton R, ss         4  1  0  0   Vizquel O, ss         4  0  1  0   
+Gonzalez L, lf        4  0  1  1   Niekro L, 1b          4  0  1  0   
+Glaus T, 3b           2  0  0  1   Feliz P, lf           4  0  1  0   
+Green S, rf           4  0  0  0   Alfonzo E, 3b         3  0  2  0   
+Lyon B, p             0  0  0  0   Grissom M, cf         4  0  1  0   
+Tracy C, 1b           4  0  1  0   Tucker M, rf          4  0  1  0   
+McCracken Q, cf       3  0  0  0   Matheny M, c          4  1  1  0   
+Snyder C, c           3  0  0  0   Lowry N, p            1  0  1  0   
+Vazquez J, p          2  0  1  0   Ellison J, ph         1  0  0  0   
+Bruney B, p           0  0  0  0   Christiansen J, p     0  0  0  0   
+Terrero L, rf         1  0  0  0   Torcato T, ph         1  0  1  0   
+                                   Eyre S, p             0  0  0  0   
+                                   Brower J, p           0  0  0  0   
+                                   Cruz D, ph            1  0  1  0   
+                                   Torrealba Y, pr       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  2  3  2                        34  1 11  1
+
+Arizona          002 000 000 --  2
+San Francisco    000 000 001 --  1
+
+  Arizona              IP  H  R ER BB SO
+Vazquez J (W)         7.0  8  0  0  2  2
+Bruney B              0.2  1  0  0  1  0
+Lyon B (S)            1.1  2  1  1  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N (L)           6.0  2  2  1  5  4
+Christiansen J        1.0  0  0  0  1  0
+Eyre S                1.1  1  0  0  0  1
+Brower J              0.2  0  0  0  0  2
+
+E -- Niekro L
+DP -- Arizona 3, San Francisco 1
+LOB -- Arizona 7, San Francisco 10
+2B -- Gonzalez L, Feliz P, Tracy C, Matheny M
+SH -- McCracken Q
+SF -- Glaus T, Durham R
+WP -- Bruney B
+T -- 2:45
+A -- 36955
+     Game of 4/21/2005 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Counsell C, 2b        5  0  0  0   Durham R, 2b          3  2  1  0   
+McCracken Q, cf       6  0  1  0   Vizquel O, ss         5  0  0  0   
+Gonzalez L, lf        6  1  2  0   Niekro L, 1b          6  2  2  2   
+Glaus T, 3b           6  0  1  0   Feliz P, lf           5  0  1  1   
+Green S, rf           5  1  2  0   Alfonzo E, 3b         4  0  0  0   
+Tracy C, 1b           4  1  1  3   Tucker M, rf          4  0  1  0   
+Cintron A, ss         4  0  3  0   Walker T, p           0  0  0  0   
+Cormier L, p          0  0  0  0   Cruz D, ph            1  0  1  1   
+Clark T, ph           1  0  0  0   Grissom M, cf         4  0  0  0   
+Gosling M, p          0  0  0  0   Matheny M, c          4  0  0  0   
+Snyder C, c           4  0  0  0   Torrealba Y, pr-c     0  0  0  0   
+Hairston S, ph        1  0  0  0   Schmidt J, p          2  0  0  0   
+Hill K, c             0  0  0  0   Torcato T, ph         1  0  0  0   
+Ortiz R, p            3  0  0  0   Fassero J, p          0  0  0  0   
+Bruney B, p           0  0  0  0   Benitez A, p          0  0  0  0   
+Clayton R, ss         2  0  1  0   Snow J, ph            1  0  0  0   
+                                   Brower J, p           0  0  0  0   
+                                   Christiansen J, p     0  0  0  0   
+                                   Herges M, p           0  0  0  0   
+                                   Eyre S, p             0  0  0  0   
+                                   Ellison J, rf         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     47  3 11  3                        41  4  6  4
+
+Arizona          000 300 000 000 0 --  3
+San Francisco    000 002 010 000 1 --  4
+  0 outs when winning run was scored.
+
+  Arizona              IP  H  R ER BB SO
+Ortiz R               7.0  3  2  2  2  2
+Bruney B              1.0  0  1  1  2  0
+Cormier L             2.0  0  0  0  1  1
+Gosling M (L)         2.0  3  1  1  3  0
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J             7.0  6  3  3  1  5
+Fassero J             1.0  1  0  0  0  0
+Benitez A             1.0  1  0  0  0  0
+Brower J              0.2  1  0  0  0  0
+Christiansen J        0.1  0  0  0  0  0
+Herges M              0.1  1  0  0  1  0
+Eyre S                0.2  0  0  0  0  0
+Walker T (W)          2.0  1  0  0  0  1
+
+E -- Glaus T
+DP -- San Francisco 3
+LOB -- Arizona 7, San Francisco 11
+2B -- Glaus T, Cintron A, Green S, Feliz P
+HR -- Tracy C, Niekro L
+SB -- Counsell C
+SH -- Grissom M
+SF -- Feliz P
+WP -- Ortiz R
+T -- 3:46
+A -- 34824
+     Game of 4/22/2005 -- Milwaukee at San Francisco (N)
+
+  Milwaukee          AB  R  H RBI    San Francisco      AB  R  H RBI
+Clark B, cf           3  0  0  0   Vizquel O, ss         4  0  1  0   
+Miller D, c           4  1  2  0   Cruz D, 2b            4  0  0  0   
+Moeller C, c          1  0  0  0   Snow J, 1b            4  0  0  0   
+Jenkins G, rf         3  1  0  0   Feliz P, lf           4  1  1  0   
+Lee C, lf             4  0  2  1   Alfonzo E, 3b         3  0  0  1   
+Overbay L, 1b         4  1  1  0   Alou M, rf            3  0  0  0   
+Spivey J, 2b          3  2  1  2   Walker T, p           0  0  0  0   
+Cirillo J, 3b         4  1  2  2   Grissom M, cf         3  0  1  0   
+Hardy J, ss           3  0  1  1   Matheny M, c          3  0  1  0   
+Santos V, p           3  0  0  0   Rueter K, p           2  0  1  0   
+                                   Herges M, p           0  0  0  0   
+                                   Tucker M, rf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  6  9  6                        31  1  5  1
+
+Milwaukee        030 000 030 --  6
+San Francisco    010 000 000 --  1
+
+  Milwaukee            IP  H  R ER BB SO
+Santos V (W)          9.0  5  1  1  0  4
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (L)*         7.0  7  5  5  4  1
+Herges M              0.2  2  1  1  1  0
+Walker T              1.1  0  0  0  3  2
+  * Pitched to 2 batters in 8th
+
+E -- Alou M
+DP -- Milwaukee 1, San Francisco 3
+LOB -- Milwaukee 9, San Francisco 3
+2B -- Cirillo J 2, Rueter K, Grissom M, Matheny M
+3B -- Feliz P
+HR -- Spivey J
+SB -- Clark B
+SH -- Santos V
+HBP -- by Walker T (Clark B)
+WP -- Walker T
+T -- 2:19
+A -- 36994
+     Game of 4/23/2005 -- Milwaukee at San Francisco (D)
+
+  Milwaukee          AB  R  H RBI    San Francisco      AB  R  H RBI
+Clark B, cf           5  0  2  0   Durham R, 2b          4  0  1  0   
+Hardy J, ss           4  1  0  0   Cruz D, ss            4  0  0  0   
+Jenkins G, rf         4  0  2  0   Vizquel O, ss         0  0  0  0   
+Lee C, lf             4  0  1  1   Niekro L, 1b          4  0  1  0   
+Overbay L, 1b         4  0  1  0   Snow J, 1b            0  0  0  0   
+Spivey J, 2b          4  0  0  0   Feliz P, lf           4  1  2  0   
+Branyan R, 3b         2  1  2  1   Ellison J, pr-lf      0  1  0  0   
+Cirillo J, ph-3b      0  0  0  0   Alfonzo E, 3b         3  1  1  0   
+Moeller C, c          3  0  0  0   Alou M, rf            3  1  1  0   
+Miller D, ph-c        1  0  0  0   Grissom M, cf         3  0  1  2   
+Capuano C, p          2  0  0  0   Torrealba Y, c        4  2  3  2   
+Wise M, p             0  0  0  0   Tomko B, p            3  0  1  2   
+Hall B, ph            0  0  0  0   Christiansen J, p     0  0  0  0   
+Bottalico R, p        0  0  0  0   Brower J, p           0  0  0  0   
+Magruder C, ph        1  0  0  0   Eyre S, p             0  0  0  0   
+Adams M, p            0  0  0  0   Benitez A, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        32  6 11  6
+
+Milwaukee        001 100 000 --  2
+San Francisco    001 400 01x --  6
+
+  Milwaukee            IP  H  R ER BB SO
+Capuano C (L)         5.2  9  5  5  1  3
+Wise M                0.1  0  0  0  0  1
+Bottalico R           1.0  0  0  0  0  0
+Adams M               1.0  2  1  1  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B (W)           6.1  8  2  2  2  3
+Christiansen J        0.1  0  0  0  0  0
+Brower J*             0.0  0  0  0  1  0
+Eyre S                0.2  0  0  0  1  0
+Benitez A (S)         1.2  0  0  0  1  3
+  * Pitched to 1 batter in 7th
+
+E -- Hardy J
+DP -- Milwaukee 2
+LOB -- Milwaukee 11, San Francisco 5
+2B -- Torrealba Y
+HR -- Torrealba Y, Branyan R
+SB -- Ellison J
+SH -- Hardy J
+SF -- Grissom M
+WP -- Adams M
+T -- 2:59
+A -- 37341
+     Game of 4/24/2005 -- Milwaukee at San Francisco (D)
+
+  Milwaukee          AB  R  H RBI    San Francisco      AB  R  H RBI
+Clark B, cf           5  0  1  0   Durham R, 2b          4  1  0  0   
+Miller D, c           5  0  1  0   Vizquel O, ss         5  1  3  1   
+Turnbow D, p          0  0  0  0   Snow J, 1b            4  0  3  1   
+Jenkins G, rf         5  2  2  0   Feliz P, lf           4  1  1  1   
+Lee C, lf             5  3  3  4   Alfonzo E, 3b         5  0  1  1   
+Overbay L, 1b         4  1  2  0   Alou M, rf            4  1  1  1   
+Spivey J, 2b          4  0  0  0   Tucker M, cf          2  0  0  0   
+De La Rosa J, p       0  0  0  0   Matheny M, c          4  0  0  0   
+Adams M, p            0  0  0  0   Williams J, p         1  0  0  0   
+Phelps T, p           0  0  0  0   Ellison J, ph         1  1  1  0   
+Moeller C, c          0  0  0  0   Fassero J, p          0  0  0  0   
+Cirillo J, 3b-2b      3  1  1  2   Niekro L, ph          1  0  1  0   
+Hardy J, ss           3  1  1  0   Herges M, p           0  0  0  0   
+Glover G, p           2  0  0  0   Brower J, p           0  0  0  0   
+Hall B, ph            1  0  1  1   Cruz D, ph            0  0  0  0   
+Bottalico R, p        0  0  0  0   Christiansen J, p     0  0  0  0   
+Branyan R, 3b         1  0  1  1   Grissom M, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 13  8                        36  5 11  5
+
+Milwaukee        022 021 010 --  8
+San Francisco    100 120 100 --  5
+
+  Milwaukee            IP  H  R ER BB SO
+Glover G (W)          5.0  7  4  4  2  1
+Bottalico R           1.0  1  0  0  1  0
+De La Rosa J          0.2  2  1  1  0  1
+Adams M               0.2  0  0  0  3  0
+Phelps T              0.1  1  0  0  0  0
+Turnbow D (S)         1.1  0  0  0  1  2
+
+  San Francisco        IP  H  R ER BB SO
+Williams J (L)        5.0  9  6  6  0  5
+Fassero J             1.0  2  1  1  0  1
+Herges M              1.0  1  0  0  1  0
+Brower J              1.0  1  1  1  1  1
+Christiansen J        1.0  0  0  0  0  0
+
+E -- Alfonzo E
+DP -- Milwaukee 1, San Francisco 1
+LOB -- Milwaukee 6, San Francisco 13
+2B -- Vizquel O, Jenkins G, Hardy J, Niekro L, Miller D, Alfonzo E
+3B -- Vizquel O, Ellison J
+HR -- Lee C 2, Alou M
+SB -- Snow J, Vizquel O
+SH -- Hardy J
+SF -- Feliz P
+HBP -- by Turnbow D (Matheny M)
+T -- 3:14
+A -- 36604
+     Game of 4/25/2005 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Blum G, ss            5  1  2  3   Durham R, 2b          5  1  1  0   
+Loretta M, 2b         4  1  2  1   Vizquel O, ss         5  0  3  1   
+Giles B, rf           4  0  1  0   Snow J, 1b            5  1  1  1   
+Nevin P, 1b           4  0  1  1   Alou M, rf            3  0  1  0   
+Klesko R, lf          4  0  1  0   Alfonzo E, 3b         3  0  1  1   
+Hyzdu A, lf           0  0  0  0   Feliz P, lf           3  0  1  0   
+Hernandez R, c        5  0  0  0   Grissom M, cf         4  0  0  0   
+Nady X, cf            4  1  1  0   Matheny M, c          4  1  2  0   
+Burroughs S, 3b       3  2  1  0   Lowry N, p            1  0  0  0   
+Williams W, p         4  0  0  0   Levine A, p           0  0  0  0   
+Linebrink S, p        0  0  0  0   Tucker M, ph          1  0  0  0   
+Hoffman T, p          0  0  0  0   Walker T, p           0  0  0  0   
+                                   Eyre S, p             0  0  0  0   
+                                   Brower J, p           0  0  0  0   
+                                   Niekro L, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5  9  5                        35  3 10  3
+
+San Diego        120 002 000 --  5
+San Francisco    100 020 000 --  3
+
+  San Diego            IP  H  R ER BB SO
+Williams W (W)        7.0  8  3  3  2  7
+Linebrink S           1.0  1  0  0  1  0
+Hoffman T (S)         1.0  1  0  0  0  3
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N (L)           5.1  8  5  4  2  5
+Levine A              0.2  1  0  0  0  0
+Walker T              1.2  0  0  0  4  2
+Eyre S                0.1  0  0  0  0  1
+Brower J              1.0  0  0  0  0  1
+
+E -- Durham R
+DP -- San Diego 1
+LOB -- San Diego 12, San Francisco 9
+2B -- Nevin P, Alfonzo E
+HR -- Blum G
+SH -- Lowry N
+HBP -- by Lowry N (Burroughs S)
+WP -- Walker T 2
+T -- 2:48
+A -- 35655
+     Game of 4/26/2005 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Roberts D, cf         5  0  1  0   Vizquel O, ss         4  2  0  0   
+Loretta M, 2b         5  0  0  0   Snow J, 1b            5  2  4  2   
+Giles B, rf           3  1  1  0   Alfonzo E, 3b         3  0  1  1   
+Klesko R, lf          3  0  1  1   Tucker M, rf          0  0  0  0   
+Hyzdu A, lf           1  0  1  0   Alou M, rf-lf         3  1  0  0   
+Hernandez R, c        4  1  1  1   Feliz P, lf-3b        4  0  1  2   
+Blum G, ss-3b         5  0  1  0   Durham R, 2b          3  0  1  1   
+Sweeney M, 1b         3  1  2  1   Grissom M, cf         4  0  0  0   
+Ojeda M, ph           0  1  0  0   Benitez A, p          0  0  0  0   
+Otsuka A, p           0  0  0  0   Matheny M, c          3  0  0  0   
+Burroughs S, 3b       3  0  1  0   Schmidt J, p          3  0  0  0   
+Nevin P, ph-1b        1  1  1  2   Eyre S, p             0  0  0  0   
+Eaton A, p            3  0  0  0   Ellison J, cf         1  1  1  0   
+Reyes D, p            0  0  0  0                                      
+Linebrink S, p        0  0  0  0                                      
+Garcia J, ph-ss       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  5 10  5                        33  6  8  6
+
+San Diego        010 001 120 --  5
+San Francisco    001 010 31x --  6
+
+  San Diego            IP  H  R ER BB SO
+Eaton A*              6.0  5  3  2  3  6
+Reyes D+              0.0  0  1  0  0  0
+Linebrink S           1.0  1  1  0  1  0
+Otsuka A (L)          1.0  2  1  1  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J             6.2  8  3  3  4  7
+Eyre S#               0.1  0  1  1  1  1
+Benitez A (W)         2.0  2  1  1  0  1
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 7th
+  # Pitched to 1 batter in 8th
+
+E -- Alfonzo E, Sweeney M 2, Hernandez R
+DP -- San Francisco 1
+LOB -- San Diego 10, San Francisco 9
+2B -- Giles B, Snow J 2, Durham R, Roberts D, Alfonzo E, Klesko R
+3B -- Snow J
+HR -- Sweeney M, Hernandez R, Nevin P
+SB -- Vizquel O, Ellison J, Hyzdu A
+SH -- Alfonzo E
+HBP -- by Eaton A (Durham R)
+WP -- Eaton A
+T -- 2:56
+A -- 36063
+     Game of 4/27/2005 -- San Diego at San Francisco (D)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Roberts D, cf         3  1  2  0   Vizquel O, ss         4  1  1  1   
+Loretta M, 2b         4  0  1  1   Snow J, 1b            4  0  0  0   
+Giles B, rf           4  0  1  1   Niekro L, ph-1b       1  0  0  0   
+Nevin P, 1b           4  1  1  0   Durham R, 2b          4  1  1  2   
+Klesko R, lf          4  0  0  0   Alou M, lf            4  1  1  0   
+Hernandez R, c        3  0  1  1   Feliz P, 3b           4  1  1  3   
+Hammond C, p          0  0  0  0   Tucker M, rf          4  0  1  0   
+Garcia J, ph          0  0  0  0   Ellison J, cf         3  3  3  0   
+Sweeney M, ph         1  0  0  0   Torrealba Y, c        3  2  2  1   
+Nady X, 3b            4  0  0  0   Rueter K, p           1  1  1  0   
+Blum G, ss            3  1  1  0   Levine A, p           2  0  0  0   
+Redding T, p          1  0  0  0   Christiansen J, p     0  0  0  0   
+Reyes D, p            0  0  0  0   Brower J, p           0  0  0  0   
+Hyzdu A, ph           1  0  0  0                                      
+May D, p              0  0  0  0                                      
+Ojeda M, c            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        34 10 11  7
+
+San Diego        000 010 020 --  3
+San Francisco    000 603 10x -- 10
+
+  San Diego            IP  H  R ER BB SO
+Redding T (L)         3.1  6  6  5  3  0
+Reyes D               1.2  0  0  0  1  0
+May D                 1.1  5  4  3  2  1
+Hammond C             1.2  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (W)          5.2  4  1  1  1  0
+Levine A              1.2  3  2  2  0  2
+Christiansen J        1.0  0  0  0  0  0
+Brower J              0.2  0  0  0  0  0
+
+E -- Redding T, Nevin P
+DP -- San Diego 2
+LOB -- San Diego 4, San Francisco 7
+2B -- Vizquel O, Nevin P, Torrealba Y, Roberts D
+3B -- Ellison J
+HR -- Feliz P
+SB -- Torrealba Y, Ellison J
+CS -- Roberts D
+SH -- Rueter K
+T -- 2:26
+A -- 38376
+     Game of 5/6/2005 -- Washington at San Francisco (N)
+
+  Washington         AB  R  H RBI    San Francisco      AB  R  H RBI
+Wilkerson B, cf-lf    4  2  3  1   Vizquel O, ss         4  0  1  0   
+Carroll J, 2b         3  2  1  1   Cruz D, 2b            5  1  2  1   
+Guillen J, rf         3  0  0  0   Snow J, 1b            3  0  0  0   
+Church R, pr-rf       1  0  1  3   Alou M, rf            3  1  0  0   
+Castilla V, 3b        5  0  1  2   Feliz P, lf           4  1  2  0   
+Johnson N, 1b         4  0  2  1   Alfonzo E, 3b         4  0  1  1   
+Hammonds J, lf        4  0  0  0   Grissom M, cf         3  0  1  0   
+Chavez E, pr-cf       1  1  0  0   Matheny M, c          3  0  0  1   
+Guzman C, ss          4  2  1  0   Lowry N, p            0  0  0  0   
+Bennett G, c          5  1  2  1   Walker T, p           0  0  0  0   
+Ohka T, p             2  0  0  0   Niekro L, ph          0  0  0  0   
+Rauch J, p            1  0  0  0   Ellison J, pr         0  0  0  0   
+Baerga C, ph          0  1  0  0   Christiansen J, p     0  0  0  0   
+Ayala L, p            0  0  0  0   Brower J, p           0  0  0  0   
+Cordero C, p          0  0  0  0   Eyre S, p             0  0  0  0   
+                                   Levine A, p           0  0  0  0   
+                                   Tucker M, ph          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  9 11  9                        29  3  7  3
+
+Washington       004 000 050 --  9
+San Francisco    021 000 000 --  3
+
+  Washington           IP  H  R ER BB SO
+Ohka T                4.0  4  3  3  3  0
+Rauch J (W)           3.0  0  0  0  4  2
+Ayala L               1.0  1  0  0  0  1
+Cordero C             1.0  2  0  0  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N (L)           6.2  8  4  4  2  7
+Walker T              0.1  0  0  0  0  0
+Christiansen J        0.1  1  2  2  1  0
+Brower J*             0.0  1  1  1  0  0
+Eyre S+               0.0  0  2  2  2  0
+Levine A              1.2  1  0  0  1  0
+  * Pitched to 1 batter in 8th
+  + Pitched to 2 batters in 8th
+
+DP -- Washington 2, San Francisco 1
+LOB -- Washington 8, San Francisco 10
+2B -- Feliz P, Bennett G, Church R
+HR -- Cruz D
+SB -- Johnson N
+SH -- Lowry N, Vizquel O
+SF -- Matheny M
+HBP -- by Walker T (Guillen J)
+T -- 3:08
+A -- 40425
+     Game of 5/7/2005 -- Washington at San Francisco (D)
+
+  Washington         AB  R  H RBI    San Francisco      AB  R  H RBI
+Wilkerson B, lf-cf    3  0  0  2   Ellison J, cf         5  1  1  0   
+Carroll J, 2b         4  2  3  0   Vizquel O, ss         4  1  1  0   
+Johnson N, 1b         3  2  1  2   Snow J, 1b            3  2  0  0   
+Castilla V, 3b        5  1  0  0   Alou M, rf            4  2  1  4   
+Church R, rf-cf       6  1  4  4   Feliz P, lf           5  1  3  1   
+Cordero C, p          0  0  0  0   Alfonzo E, 3b         4  0  1  2   
+Schneider B, c        5  1  3  1   Cruz D, 2b            3  0  1  0   
+Guzman C, ss          4  1  1  0   Matheny M, c          4  1  2  1   
+Chavez E, cf          0  1  0  0   Schmidt J, p          0  0  0  0   
+Day Z, p              1  0  0  0   Fassero J, p          1  0  0  0   
+Carrasco H, p         0  0  0  0   Tucker M, ph          1  0  0  0   
+Baerga C, ph          1  0  0  0   Christiansen J, p     0  0  0  0   
+Majewski G, p         0  0  0  0   Herges M, p           0  0  0  0   
+Ayala L, p            0  0  0  0   Eyre S, p             0  0  0  0   
+Hammonds J, ph-lf     0  1  0  0   Niekro L, ph          1  0  0  0   
+Patterson J, p        1  0  0  0   Accardo J, p          0  0  0  0   
+Guillen J, ph-rf      4  1  2  2   Brower J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37 11 14 11                        35  8 10  8
+
+Washington       000 700 004 -- 11
+San Francisco    004 040 000 --  8
+
+  Washington           IP  H  R ER BB SO
+Patterson J           3.0  4  4  4  2  2
+Day Z                 1.1  2  4  4  1  1
+Carrasco H            0.2  2  0  0  1  0
+Majewski G            2.0  2  0  0  0  0
+Ayala L (W)           1.0  0  0  0  0  1
+Cordero C (S)         1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J             3.2  6  6  6  6  3
+Fassero J             1.1  3  1  1  0  1
+Christiansen J        1.0  2  0  0  1  0
+Herges M              1.0  1  0  0  1  0
+Eyre S                1.0  0  0  0  0  1
+Accardo J (L)         0.2  1  3  3  2  0
+Brower J              0.1  1  1  1  1  0
+
+DP -- Washington 1
+LOB -- Washington 13, San Francisco 6
+2B -- Johnson N, Guillen J, Alfonzo E, Church R
+HR -- Alou M
+SB -- Vizquel O, Wilkerson B
+CS -- Carroll J
+SH -- Carroll J, Schmidt J
+SF -- Wilkerson B 2
+HBP -- by Day Z (Alou M)
+WP -- Schmidt J, Accardo J
+T -- 3:27
+A -- 40220
+     Game of 5/8/2005 -- Washington at San Francisco (D)
+
+  Washington         AB  R  H RBI    San Francisco      AB  R  H RBI
+Wilkerson B, cf-lf    5  0  1  0   Vizquel O, ss         6  1  3  3   
+Carroll J, 2b         6  1  4  0   Alfonzo E, 3b         5  0  2  1   
+Guillen J, rf         4  1  1  2   Tucker M, cf          3  0  1  0   
+Castilla V, 3b        3  0  0  0   Walker T, p           0  0  0  0   
+Johnson N, 1b         5  0  2  0   Eyre S, p             0  0  0  0   
+Hammonds J, lf        4  0  0  0   Grissom M, ph         1  0  0  0   
+Chavez E, pr-cf       2  0  0  0   Brower J, p           0  0  0  0   
+Guzman C, ss          5  0  0  0   Christiansen J, p     0  0  0  0   
+Bennett G, c          6  0  2  0   Alou M, rf            4  0  1  0   
+Loaiza E, p           3  1  0  0   Feliz P, lf           4  0  1  0   
+Majewski G, p         0  0  0  0   Niekro L, 1b          5  0  1  0   
+Carrasco H, p         0  0  0  0   Torrealba Y, c        4  1  1  0   
+Davis J, ph           1  0  1  0   Cruz D, 2b            5  1  1  0   
+Ayala L, p            0  0  0  0   Rueter K, p           1  0  0  0   
+Rauch J, p            1  0  0  0   Herges M, p           0  0  0  0   
+                                   Durham R, ph          1  0  0  0   
+                                   Ellison J, cf         2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     45  3 11  2                        41  4 12  4
+
+Washington       100 010 100 000 0 --  3
+San Francisco    001 010 010 000 1 --  4
+  0 outs when winning run was scored.
+
+  Washington           IP  H  R ER BB SO
+Loaiza E              7.2  9  3  3  1  1
+Majewski G*           0.0  0  0  0  2  0
+Carrasco H            0.1  0  0  0  0  1
+Ayala L               1.0  1  0  0  0  0
+Rauch J (L)           3.0  2  1  1  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K              7.0  7  3  2  3  2
+Herges M              1.0  1  0  0  0  1
+Walker T              1.1  2  0  0  1  1
+Eyre S                1.2  0  0  0  1  2
+Brower J              0.2  1  0  0  1  1
+Christiansen J (W)    1.1  0  0  0  0  0
+  * Pitched to 2 batters in 8th
+
+E -- Tucker M
+DP -- Washington 3, San Francisco 1
+LOB -- Washington 11, San Francisco 6
+2B -- Tucker M, Bennett G, Cruz D, Alfonzo E, Vizquel O
+HR -- Guillen J
+SB -- Carroll J
+CS -- Wilkerson B, Vizquel O, Chavez E
+SH -- Rueter K, Torrealba Y, Guillen J
+SF -- Guillen J
+WP -- Rauch J
+T -- 4:00
+A -- 36903
+     Game of 5/9/2005 -- Pittsburgh at San Francisco (N)
+
+  Pittsburgh         AB  R  H RBI    San Francisco      AB  R  H RBI
+Lawton M, rf          4  0  0  0   Ellison J, rf         4  1  1  0   
+Redman T, cf          4  0  1  0   Vizquel O, ss         4  0  1  1   
+Bay J, lf             4  0  2  0   Niekro L, 1b          3  0  0  1   
+Ward D, 1b            4  0  0  0   Alfonzo E, 3b         4  0  0  0   
+Castillo J, 2b        4  1  1  0   Durham R, 2b          4  0  1  0   
+Mackowiak R, 3b       4  0  1  0   Feliz P, lf           3  0  1  0   
+Ross D, c             3  0  0  0   Grissom M, cf         3  0  1  0   
+Wilson J, ss          2  0  0  0   Matheny M, c          2  0  0  0   
+Redman M, p           3  0  1  1   Tomko B, p            2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        29  2  6  2
+
+Pittsburgh       010 000 000 --  1
+San Francisco    002 000 00x --  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M (L)          8.0  6  2  2  2  1
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B (W)           9.0  6  1  1  1  7
+
+DP -- San Francisco 1
+LOB -- Pittsburgh 5, San Francisco 6
+2B -- Bay J, Vizquel O
+SF -- Niekro L
+WP -- Redman M
+T -- 1:49
+A -- 34037
+     Game of 5/10/2005 -- Pittsburgh at San Francisco (N)
+
+  Pittsburgh         AB  R  H RBI    San Francisco      AB  R  H RBI
+Lawton M, rf          4  1  2  0   Ellison J, rf         4  0  2  0   
+Wilson J, ss          4  1  1  0   Vizquel O, ss         3  0  0  0   
+Bay J, cf-lf          4  1  1  3   Alfonzo E, 3b         4  0  0  0   
+Ward D, 1b            4  0  0  0   Feliz P, lf           4  0  2  0   
+Castillo J, 2b        4  1  1  1   Durham R, 2b          4  1  1  0   
+Wigginton T, 3b       4  0  1  0   Niekro L, 1b          4  1  1  2   
+Cota H, c             3  1  1  1   Grissom M, cf         2  0  0  0   
+Sadler R, lf          2  0  0  0   Matheny M, c          3  0  0  0   
+Mackowiak R, ph-cf    1  0  0  0   Fassero J, p          1  0  0  0   
+Williams D, p         2  0  0  0   Rueter K, ph          0  0  0  0   
+Sanchez F, ph         1  0  0  0   Brower J, p           0  0  0  0   
+Meadows B, p          0  0  0  0   Herges M, p           0  0  0  0   
+Gonzalez M, p         0  0  0  0   Eyre S, p             0  0  0  0   
+Redman T, ph          1  0  0  0   Accardo J, p          0  0  0  0   
+Mesa J, p             0  0  0  0   Tucker M, ph          0  0  0  0   
+                                   Cruz D, ph            1  0  0  0   
+                                   Levine A, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5  7  5                        30  2  6  2
+
+Pittsburgh       000 003 101 --  5
+San Francisco    000 020 000 --  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D (W)        6.0  5  2  2  1  1
+Meadows B             1.0  0  0  0  0  0
+Gonzalez M            1.0  1  0  0  0  2
+Mesa J (S)            1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Fassero J             5.0  1  0  0  0  2
+Brower J (L)          1.0  3  3  3  0  3
+Herges M              0.1  2  1  1  0  0
+Eyre S                0.1  0  0  0  1  0
+Accardo J             1.1  0  0  0  0  0
+Levine A              1.0  1  1  1  0  0
+
+E -- Vizquel O, Eyre S
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 4, San Francisco 4
+2B -- Wigginton T, Ellison J
+HR -- Niekro L, Bay J, Castillo J, Cota H
+CS -- Lawton M
+SH -- Vizquel O, Rueter K, Cota H
+T -- 2:12
+A -- 35668
+     Game of 5/11/2005 -- Pittsburgh at San Francisco (D)
+
+  Pittsburgh         AB  R  H RBI    San Francisco      AB  R  H RBI
+Lawton M, rf          4  0  0  0   Vizquel O, ss         3  0  0  0   
+Wilson J, ss          4  1  1  0   Tucker M, rf          4  0  1  0   
+Bay J, cf-lf          4  1  1  0   Feliz P, 3b           3  0  0  0   
+Ward D, 1b            4  1  1  2   Alou M, lf            4  1  2  0   
+Castillo J, 2b        4  2  2  1   Durham R, 2b          4  0  2  0   
+Wigginton T, 3b       4  1  1  2   Niekro L, 1b          3  0  0  1   
+Cota H, c             4  0  0  0   Ellison J, cf         4  1  2  0   
+Sadler R, lf          3  1  2  1   Torrealba Y, c        4  0  0  0   
+Mackowiak R, ph-cf    1  0  1  1   Lowry N, p            2  0  0  1   
+Fogg J, p             3  0  0  0   Grissom M, ph         1  0  0  0   
+Gonzalez M, p         0  0  0  0   Munter S, p           0  0  0  0   
+White R, p            0  0  0  0   Walker T, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7  9  7                        32  2  7  2
+
+Pittsburgh       001 000 303 --  7
+San Francisco    001 100 000 --  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Fogg J (W)            7.0  5  2  2  1  2
+Gonzalez M            0.2  0  0  0  1  0
+White R (S)           1.1  2  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N (L)           7.0  4  4  4  0  7
+Munter S              1.0  1  0  0  0  1
+Walker T              1.0  4  3  3  0  0
+
+E -- Wigginton T
+DP -- Pittsburgh 2
+LOB -- Pittsburgh 1, San Francisco 6
+2B -- Ellison J, Tucker M, Wilson J, Bay J
+HR -- Sadler R, Wigginton T, Ward D
+SF -- Niekro L
+T -- 2:21
+A -- 39200
+     Game of 5/20/2005 -- Oakland at San Francisco (N)
+
+  Oakland            AB  R  H RBI    San Francisco      AB  R  H RBI
+Kotsay M, cf          5  0  1  0   Ellison J, cf         5  0  0  0   
+Byrnes E, lf          4  1  1  0   Vizquel O, ss         3  1  1  0   
+Kendall J, c          5  1  0  0   Snow J, 1b            5  0  0  0   
+Chavez E, 3b          5  2  2  1   Alou M, rf            5  1  2  2   
+Kielty B, rf          4  3  4  0   Durham R, 2b          3  2  1  0   
+Street H, p           0  0  0  0   Feliz P, lf-3b        4  0  1  1   
+Hatteberg S, 1b       3  0  1  1   Alfonzo E, 3b         3  0  3  1   
+Ginter K, 2b          1  1  1  5   Accardo J, p          0  0  0  0   
+Saarloos K, p         0  0  0  0   Matheny M, c          3  0  0  0   
+Thomas C, rf          0  0  0  0   Rueter K, p           3  0  1  0   
+Scutaro M, ss         2  0  1  1   Munter S, p           0  0  0  0   
+Blanton J, p          2  0  0  0   Christiansen J, p     0  0  0  0   
+Yabu K, p             1  0  0  0   Brower J, p           0  0  0  0   
+Ellis M, 2b           1  0  1  0   Tucker M, lf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  8 12  8                        35  4  9  4
+
+Oakland          010 101 500 --  8
+San Francisco    000 030 100 --  4
+
+  Oakland              IP  H  R ER BB SO
+Blanton J             4.2  7  3  3  4  0
+Yabu K (W)            2.0  2  1  1  2  1
+Saarloos K            1.1  0  0  0  0  1
+Street H              1.0  0  0  0  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (L)          6.1  8  4  4  4  0
+Munter S*             0.0  0  1  0  0  0
+Christiansen J        0.1  1  2  2  1  0
+Brower J              0.1  1  1  1  0  0
+Accardo J             2.0  2  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+E -- Ginter K, Blanton J, Alfonzo E
+DP -- Oakland 1, San Francisco 4
+LOB -- Oakland 7, San Francisco 11
+2B -- Kotsay M, Kielty B, Ellis M
+HR -- Alou M, Ginter K
+SB -- Vizquel O
+SF -- Ginter K 2, Hatteberg S
+HBP -- by Rueter K (Byrnes E)
+WP -- Blanton J
+T -- 3:00
+A -- 42701
+     Game of 5/21/2005 -- Oakland at San Francisco (N)
+
+  Oakland            AB  R  H RBI    San Francisco      AB  R  H RBI
+Kotsay M, cf          3  0  0  0   Ellison J, cf         3  1  1  0   
+Byrnes E, lf          3  0  0  0   Vizquel O, ss         4  1  1  0   
+Kendall J, c          4  0  0  0   Snow J, 1b            4  1  3  1   
+Chavez E, 3b          4  1  1  0   Alou M, rf            4  0  1  1   
+Kielty B, rf          4  1  1  0   Durham R, 2b          3  0  2  1   
+Hatteberg S, 1b       3  0  1  1   Walker T, p           0  0  0  0   
+Ginter K, 2b          4  0  0  0   Feliz P, lf           4  0  0  0   
+Ellis M, ss           3  0  1  1   Alfonzo E, 3b         4  0  1  0   
+Haren D, p            2  0  1  0   Matheny M, c          3  0  1  0   
+Rincon R, p           0  0  0  0   Fassero J, p          2  0  0  0   
+Watson M, ph          0  0  0  0   Tucker M, ph          0  0  0  0   
+Scutaro M, ph         1  0  0  0   Christiansen J, p     0  0  0  0   
+Cruz J, p             0  0  0  0   Herges M, p           0  0  0  0   
+                                   Eyre S, p             0  0  0  0   
+                                   Dallimore B, 2b       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        31  3 10  3
+
+Oakland          010 100 000 --  2
+San Francisco    300 000 00x --  3
+
+  Oakland              IP  H  R ER BB SO
+Haren D (L)           6.1 10  3  3  3  4
+Rincon R              0.2  0  0  0  0  0
+Cruz J                1.0  0  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Fassero J (W)         6.0  5  2  2  1  4
+Christiansen J        0.1  0  0  0  0  0
+Herges M              0.2  0  0  0  0  0
+Eyre S                0.1  0  0  0  1  0
+Walker T (S)          1.2  0  0  0  1  2
+
+E -- Kendall J, Chavez E
+DP -- Oakland 3, San Francisco 1
+LOB -- Oakland 5, San Francisco 8
+2B -- Alou M, Ellis M, Durham R, Haren D, Matheny M
+SB -- Ellison J 2, Alfonzo E, Kielty B
+CS -- Hatteberg S
+SF -- Durham R
+T -- 2:33
+A -- 43069
+     Game of 5/22/2005 -- Oakland at San Francisco (N)
+
+  Oakland            AB  R  H RBI    San Francisco      AB  R  H RBI
+Kotsay M, cf          3  0  1  0   Ellison J, cf         4  1  0  0   
+Byrnes E, lf          3  0  1  0   Cruz D, ss            3  1  1  0   
+Watson M, ph-lf       1  0  0  0   Walker T, p           0  0  0  0   
+Street H, p           0  0  0  0   Niekro L, 1b          4  0  1  0   
+Kendall J, c          4  1  3  0   Alou M, rf            4  1  2  2   
+Chavez E, 3b          4  0  1  0   Feliz P, lf           3  0  0  0   
+Kielty B, rf          4  0  2  1   Alfonzo E, 3b         2  0  0  0   
+Durazo E, 1b          4  0  0  0   Dallimore B, 2b       3  0  0  0   
+Ginter K, 2b          3  0  0  0   Matheny M, c          3  0  1  0   
+Scutaro M, ss         3  0  0  0   Lowry N, p            2  0  1  0   
+Zito B, p             3  0  0  0   Munter S, p           0  0  0  0   
+Thomas C, lf          0  0  0  0   Christiansen J, p     0  0  0  0   
+                                   Tucker M, ph          1  0  0  0   
+                                   Vizquel O, ss         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  8  1                        29  3  6  2
+
+Oakland          000 100 000 --  1
+San Francisco    000 002 01x --  3
+
+  Oakland              IP  H  R ER BB SO
+Zito B (L)            7.1  6  3  2  2  4
+Street H              0.2  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N (W)*          7.0  7  1  1  2  4
+Munter S              0.2  1  0  0  0  0
+Christiansen J        0.1  0  0  0  0  0
+Walker T (S)          1.0  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Ginter K 2
+DP -- Oakland 2, San Francisco 3
+LOB -- Oakland 6, San Francisco 4
+2B -- Niekro L, Lowry N, Kielty B
+HR -- Alou M
+T -- 2:27
+A -- 42452
+     Game of 5/24/2005 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Izturis C, ss         3  0  1  0   Ellison J, cf         4  0  0  0   
+Drew J, rf            3  0  0  0   Vizquel O, ss         4  0  1  0   
+Choi H, 1b            3  0  0  1   Snow J, 1b            3  0  1  0   
+Kent J, 2b            4  0  0  0   Alou M, rf            4  0  1  0   
+Bradley M, cf         4  0  1  0   Durham R, 2b          4  2  2  0   
+Ledee R, lf           4  0  0  0   Feliz P, lf           4  0  0  0   
+Phillips J, c         3  1  0  0   Alfonzo E, 3b         3  1  3  1   
+Perez A, 3b           4  1  2  0   Matheny M, c          2  1  1  3   
+Weaver J, p           1  0  1  1   Schmidt J, p          2  1  1  1   
+Edwards M, ph         0  1  0  0   Fassero J, p          0  0  0  0   
+Houlton D, p          0  0  0  0   Tucker M, ph          1  0  1  0   
+Repko J, ph           1  0  1  0   Christiansen J, p     0  0  0  0   
+Sanchez D, p          0  0  0  0   Brower J, p           0  0  0  0   
+Wunsch K, p           0  0  0  0   Eyre S, p             0  0  0  0   
+Carrara G, p          0  0  0  0   Walker T, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  3  6  2                        31  5 11  5
+
+Los Angeles      010 020 000 --  3
+San Francisco    011 300 00x --  5
+
+  Los Angeles          IP  H  R ER BB SO
+Weaver J (L)          4.0  8  5  5  1  1
+Houlton D             2.0  1  0  0  0  1
+Sanchez D             0.2  1  0  0  0  1
+Wunsch K              0.1  0  0  0  0  1
+Carrara G             1.0  1  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J (W)         5.0  5  3  3  3  7
+Fassero J             2.0  1  0  0  0  1
+Christiansen J        0.1  0  0  0  0  0
+Brower J              0.1  0  0  0  0  1
+Eyre S                0.2  0  0  0  0  1
+Walker T (S)          0.2  0  0  0  0  1
+
+E -- Ellison J
+DP -- Los Angeles 2
+LOB -- Los Angeles 5, San Francisco 4
+2B -- Durham R 2, Snow J, Perez A
+HR -- Schmidt J, Matheny M
+SB -- Izturis C, Bradley M
+CS -- Vizquel O
+SH -- Izturis C
+SF -- Choi H
+HBP -- by Sanchez D (Matheny M)
+Balk -- Schmidt J
+T -- 2:39
+A -- 39226
+     Game of 5/25/2005 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Izturis C, ss         4  0  2  1   Ellison J, cf         4  1  2  1   
+Choi H, 1b            4  0  0  0   Vizquel O, ss         2  1  1  1   
+Bradley M, cf         4  0  0  0   Cruz D, 2b            4  0  1  1   
+Kent J, 2b            4  0  0  0   Alou M, rf            4  2  2  3   
+Drew J, rf            4  1  1  1   Alfonzo E, 3b         4  2  2  0   
+Werth J, lf           2  0  0  0   Feliz P, lf           4  2  2  4   
+Carlyle B, p          0  0  0  0   Niekro L, 1b          4  1  1  0   
+Robles O, ph-3b       2  0  1  0   Matheny M, c          4  1  1  0   
+Phillips J, c         4  0  1  0   Tomko B, p            2  0  0  0   
+Perez A, 3b           2  1  0  0   Dallimore B, ph       1  0  0  0   
+Erickson S, p         0  0  0  0   Munter S, p           0  0  0  0   
+Alvarez W, p          0  0  0  0                                      
+Ledee R, lf           2  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        33 10 12 10
+
+Los Angeles      011 000 000 --  2
+San Francisco    420 003 10x -- 10
+
+  Los Angeles          IP  H  R ER BB SO
+Alvarez W (L)         3.0  7  6  6  0  1
+Carlyle B             3.0  4  3  3  1  3
+Erickson S            2.0  1  1  1  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B (W)           8.0  5  2  2  1  5
+Munter S              1.0  1  0  0  0  0
+
+DP -- Los Angeles 1
+LOB -- Los Angeles 5, San Francisco 2
+2B -- Alfonzo E, Cruz D, Izturis C
+HR -- Alou M 2, Feliz P 2, Drew J
+SH -- Tomko B, Alvarez W
+SF -- Vizquel O
+T -- 2:19
+A -- 38778
+     Game of 5/26/2005 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Izturis C, ss         5  0  0  0   Tucker M, cf-lf       5  1  1  0   
+Werth J, lf           4  0  2  1   Vizquel O, ss         5  1  3  1   
+Bradley M, cf         4  0  0  0   Snow J, 1b            4  0  1  0   
+Kent J, 2b            4  1  1  0   Ellison J, pr-cf      1  1  0  0   
+Saenz O, 1b           4  0  0  0   Alou M, rf            2  0  0  0   
+Drew J, rf            1  2  0  0   Durham R, 2b          4  0  0  0   
+Perez A, 3b           4  2  4  3   Alfonzo E, 3b         4  0  2  2   
+Bako P, c             3  0  0  0   Feliz P, lf-1b        4  0  1  0   
+Phillips J, c         0  0  0  0   Walker T, p           0  0  0  0   
+Penny B, p            3  0  0  0   Munter S, p           0  0  0  0   
+Brazoban Y, p         0  0  0  0   Torrealba Y, c        4  0  0  0   
+Ledee R, ph           1  1  1  2   Rueter K, p           2  0  1  0   
+Gagne E, p            0  0  0  0   Herges M, p           0  0  0  0   
+                                   Cruz D, ph            1  1  1  1   
+                                   Christiansen J, p     0  0  0  0   
+                                   Niekro L, 1b          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  6  8  6                        37  4 10  4
+
+Los Angeles      020 100 003 --  6
+San Francisco    000 000 031 --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Penny B               7.1  6  2  2  1  4
+Brazoban Y (W)        0.2  2  1  1  1  1
+Gagne E (S)           1.0  2  1  1  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K              7.1  5  3  3  3  2
+Herges M              0.2  0  0  0  0  0
+Christiansen J (L)*   0.0  0  1  1  1  0
+Walker T              0.2  3  2  2  1  0
+Munter S              0.1  0  0  0  0  0
+  * Pitched to 1 batter in 9th
+
+LOB -- Los Angeles 5, San Francisco 8
+2B -- Kent J, Snow J, Tucker M, Vizquel O
+HR -- Perez A, Cruz D
+CS -- Werth J
+T -- 2:35
+A -- 40147
+     Game of 5/27/2005 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Roberts D, cf         5  1  1  1   Tucker M, cf          4  0  2  0   
+Blum G, 3b            4  2  2  2   Vizquel O, ss         4  0  0  0   
+Klesko R, lf          2  1  0  0   Eyre S, p             0  0  0  0   
+Nady X, lf            1  0  0  0   Snow J, 1b            4  0  0  0   
+Giles B, rf           5  2  3  3   Alou M, rf            3  1  1  0   
+Nevin P, 1b           5  0  3  3   Ellison J, rf         1  0  0  0   
+Hernandez R, c        5  0  0  0   Durham R, 2b          4  2  2  1   
+Greene K, ss          5  1  3  0   Alfonzo E, 3b         4  0  1  1   
+Jackson D, 2b         4  1  2  0   Feliz P, lf           3  0  0  0   
+Lawrence B, p         4  1  1  0   Matheny M, c          2  0  0  1   
+                                   Hennessey B, p        0  0  0  0   
+                                   Brower J, p           1  0  0  0   
+                                   Niekro L, ph          1  0  0  0   
+                                   Herges M, p           0  0  0  0   
+                                   Christiansen J, p     0  0  0  0   
+                                   Cruz D, ph            1  0  0  0   
+                                   Munter S, p           0  0  0  0   
+                                   Dallimore B, ss       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  9 15  9                        32  3  6  3
+
+San Diego        301 140 000 --  9
+San Francisco    010 200 000 --  3
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (W)        9.0  6  3  3  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Hennessey B (L)       2.1  7  4  4  3  0
+Brower J              1.2  2  1  1  1  1
+Herges M              2.0  5  4  4  0  1
+Christiansen J        1.0  0  0  0  0  0
+Munter S              1.0  0  0  0  0  0
+Eyre S                1.0  1  0  0  0  2
+
+DP -- San Francisco 1
+LOB -- San Diego 10, San Francisco 3
+2B -- Giles B 2, Nevin P, Blum G, Greene K
+HR -- Durham R, Giles B
+SB -- Tucker M
+SH -- Lawrence B
+SF -- Matheny M, Roberts D
+T -- 2:42
+A -- 36735
+     Game of 5/28/2005 -- San Diego at San Francisco (D)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Roberts D, cf         3  0  0  0   Ellison J, cf         4  0  2  0   
+Blum G, 3b            5  1  2  0   Vizquel O, ss         3  1  0  0   
+Giles B, rf           2  1  0  0   Snow J, 1b            3  0  0  0   
+Nevin P, 1b           4  1  1  3   Alou M, rf            4  1  2  2   
+Hernandez R, c        4  2  3  1   Durham R, 2b          4  1  1  0   
+Greene K, ss          4  0  1  0   Alfonzo E, 3b         3  0  1  0   
+Nady X, lf            4  0  1  1   Feliz P, lf           4  0  1  0   
+Jackson D, 2b         4  0  0  0   Matheny M, c          4  0  1  1   
+Stauffer T, p         2  0  1  0   Torrealba Y, pr       0  0  0  0   
+Ojeda M, ph           1  0  0  0   Lowry N, p            2  0  0  0   
+Seanez R, p           0  0  0  0   Niekro L, ph          1  0  0  0   
+Linebrink S, p        0  0  0  0   Fassero J, p          0  0  0  0   
+Sweeney M, ph         1  0  0  0   Walker T, p           0  0  0  0   
+Hoffman T, p          0  0  0  0   Christiansen J, p     0  0  0  0   
+                                   Tucker M, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5  9  5                        33  3  8  3
+
+San Diego        000 100 130 --  5
+San Francisco    100 100 001 --  3
+
+  San Diego            IP  H  R ER BB SO
+Stauffer T            6.0  6  2  2  2  2
+Seanez R (W)          1.0  0  0  0  0  3
+Linebrink S           1.0  0  0  0  0  1
+Hoffman T (S)         1.0  2  1  1  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N               7.0  5  2  2  1  5
+Fassero J (L)         0.1  1  2  2  1  1
+Walker T              0.2  2  1  1  0  1
+Christiansen J        1.0  1  0  0  1  0
+
+DP -- San Diego 2
+LOB -- San Diego 6, San Francisco 6
+2B -- Ellison J, Greene K, Hernandez R
+HR -- Hernandez R, Alou M, Nevin P
+SB -- Ellison J, Durham R
+CS -- Roberts D
+SH -- Roberts D
+HBP -- by Hoffman T (Alfonzo E)
+T -- 2:43
+A -- 41311
+     Game of 5/29/2005 -- San Diego at San Francisco (D)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Roberts D, cf         5  0  1  1   Ellison J, cf         5  2  3  2   
+Blum G, 3b            5  2  2  0   Vizquel O, ss         4  1  1  0   
+Klesko R, lf          5  0  1  0   Snow J, 1b            3  1  2  0   
+Giles B, rf           5  1  4  1   Feliz P, ph           1  0  0  0   
+Sweeney M, 1b         3  0  0  0   Hawkins L, p          0  0  0  0   
+Hernandez R, c        5  2  2  1   Walker T, p           0  0  0  0   
+Greene K, ss          5  3  3  2   Torrealba Y, c        1  0  0  0   
+Jackson D, 2b         5  1  2  2   Alou M, rf            4  0  2  2   
+Eaton A, p            3  0  0  0   Durham R, 2b          4  0  0  0   
+Ojeda M, ph           1  0  0  0   Alfonzo E, 3b         4  0  0  0   
+Seanez R, p           0  0  0  0   Tucker M, lf          3  0  0  0   
+Hammond C, p          0  0  0  0   Matheny M, c          3  1  1  1   
+Fick R, ph            1  0  1  1   Fassero J, p          0  0  0  0   
+Hoffman T, p          0  0  0  0   Schmidt J, p          2  0  0  0   
+                                   Brower J, p           0  0  0  0   
+                                   Eyre S, p             0  0  0  0   
+                                   Niekro L, ph-1b       2  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     43  9 16  8                        36  6 10  6
+
+San Diego        101 130 003 --  9
+San Francisco    100 200 300 --  6
+
+  San Diego            IP  H  R ER BB SO
+Eaton A               6.0  5  3  3  1  4
+Seanez R*             0.0  3  3  3  0  0
+Hammond C (W)         2.0  1  0  0  0  0
+Hoffman T (S)         1.0  1  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J             4.1  8  6  4  2  2
+Brower J              1.2  3  0  0  1  1
+Eyre S                1.0  1  0  0  0  1
+Hawkins L             1.0  0  0  0  0  1
+Walker T (L)          0.1  4  3  3  0  1
+Fassero J             0.2  0  0  0  1  0
+  * Pitched to 3 batters in 7th
+
+E -- Durham R 2
+LOB -- San Diego 11, San Francisco 6
+2B -- Blum G, Roberts D, Niekro L, Alou M, Greene K, Ellison J
+HR -- Ellison J, Greene K
+SB -- Blum G, Giles B 2, Greene K
+CS -- Jackson D, Fick R
+SH -- Vizquel O
+HBP -- by Eaton A (Matheny M)
+T -- 3:27
+A -- 41923
+     Game of 6/7/2005 -- Kansas City at San Francisco (N)
+
+  Kansas City        AB  R  H RBI    San Francisco      AB  R  H RBI
+Berroa A, ss          5  3  3  0   Ellison J, cf         4  1  2  0   
+DeJesus D, cf         4  2  1  1   Cruz D, ss            4  0  1  0   
+Sweeney M, 1b         5  1  1  1   Snow J, 1b            4  0  1  1   
+Brown E, rf           4  0  2  2   Alou M, rf            3  0  0  0   
+Long T, lf            5  1  3  2   Levine A, p           0  0  0  0   
+Graffanino T, 2b      4  1  2  2   Niekro L, ph          1  0  0  0   
+Teahen M, 3b          4  0  1  0   Durham R, 2b          4  0  0  0   
+Buck J, c             4  0  0  0   Alfonzo E, 3b         3  0  0  0   
+Carrasco D, p         4  0  0  0   Feliz P, lf           3  0  1  0   
+                                   Matheny M, c          3  0  0  0   
+                                   Rueter K, p           1  0  0  0   
+                                   Brower J, p           1  0  0  0   
+                                   Tucker M, rf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  8 13  8                        32  1  5  1
+
+Kansas City      212 020 100 --  8
+San Francisco    100 000 000 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Carrasco D (W)        9.0  5  1  1  0  3
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (L)          4.1  9  7  5  1  0
+Brower J              2.2  2  1  1  1  3
+Levine A              2.0  2  0  0  0  1
+
+E -- Ellison J, Durham R
+LOB -- Kansas City 7, San Francisco 4
+2B -- Ellison J, Teahen M
+3B -- DeJesus D, Berroa A, Long T
+HR -- Graffanino T
+CS -- Long T
+SF -- Brown E
+T -- 2:15
+A -- 37037
+     Game of 6/8/2005 -- Kansas City at San Francisco (N)
+
+  Kansas City        AB  R  H RBI    San Francisco      AB  R  H RBI
+Berroa A, ss          5  2  2  0   Ellison J, cf         3  0  1  0   
+DeJesus D, cf         4  0  2  0   Cruz D, ss            4  0  0  0   
+Graffanino T, 1b      4  2  2  1   Snow J, 1b            3  0  2  0   
+Brown E, rf           3  0  0  0   Alou M, rf            3  0  1  0   
+Diaz M, lf            3  0  2  2   Feliz P, lf           4  0  0  0   
+Long T, pr-lf         0  0  0  0   Durham R, 2b          4  1  1  1   
+Teahen M, 3b          3  0  0  0   Alfonzo E, 3b         3  0  1  0   
+Gotay R, 2b           3  0  1  0   Matheny M, c          3  0  0  0   
+Castillo A, c         4  0  0  0   Fassero J, p          2  0  0  0   
+Hernandez R, p        3  0  0  0   Munter S, p           0  0  0  0   
+Wood M, p             0  0  0  0   Tucker M, ph          1  0  0  0   
+McEwing J, ph         0  0  0  0   Christiansen J, p     0  0  0  0   
+Stairs M, ph          1  0  0  0   Hawkins L, p          0  0  0  0   
+Affeldt J, p          0  0  0  0   Eyre S, p             0  0  0  0   
+MacDougal M, p        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  4  9  3                        30  1  6  1
+
+Kansas City      210 010 000 --  4
+San Francisco    000 100 000 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Hernandez R (W)*      6.0  4  1  1  4  3
+Wood M                1.0  0  0  0  0  0
+Affeldt J             1.0  2  0  0  0  1
+MacDougal M (S)       1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Fassero J (L)         5.0  6  4  4  3  1
+Munter S              2.0  2  0  0  0  0
+Christiansen J        0.2  1  0  0  1  0
+Hawkins L             0.1  0  0  0  0  0
+Eyre S                1.0  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+DP -- Kansas City 3, San Francisco 1
+LOB -- Kansas City 8, San Francisco 6
+2B -- Diaz M
+3B -- Graffanino T, Gotay R
+HR -- Durham R
+SH -- DeJesus D
+SF -- Diaz M
+WP -- Fassero J
+T -- 2:50
+A -- 36578
+     Game of 6/9/2005 -- Kansas City at San Francisco (D)
+
+  Kansas City        AB  R  H RBI    San Francisco      AB  R  H RBI
+Berroa A, ss          5  0  1  0   Tucker M, rf          4  3  3  1   
+DeJesus D, cf         4  1  0  1   Vizquel O, ss         4  1  2  1   
+Graffanino T, 1b      5  0  2  1   Niekro L, 1b          5  0  2  3   
+Brown E, rf           5  1  2  1   Alou M, lf            5  0  2  0   
+Burgos A, p           0  0  0  0   Durham R, 2b          4  1  1  0   
+Diaz M, lf            2  1  0  0   Alfonzo E, 3b         4  1  1  1   
+Long T, ph-lf-rf      1  0  0  0   Grissom M, cf         2  0  0  0   
+Teahen M, 3b          5  1  3  1   Ellison J, cf         0  0  0  0   
+Buck J, c             4  1  2  0   Torrealba Y, c        4  1  1  0   
+Stairs M, ph          1  0  0  0   Walker T, p           0  0  0  0   
+McEwing J, 2b         3  0  1  0   Lowry N, p            2  1  1  0   
+Nunez L, p            0  0  0  0   Munter S, p           0  0  0  0   
+Stemle S, p           0  0  0  0   Feliz P, ph           1  1  1  2   
+Costa S, ph-lf        2  1  1  0   Eyre S, p             0  0  0  0   
+Lima J, p             1  0  0  0   Hawkins L, p          0  0  0  0   
+Gotay R, ph-2b        1  1  1  2   Matheny M, c          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  7 13  6                        36  9 14  8
+
+Kansas City      000 004 120 --  7
+San Francisco    100 035 00x --  9
+
+  Kansas City          IP  H  R ER BB SO
+Lima J                5.0  6  4  3  0  4
+Nunez L (L)           1.0  6  5  5  1  0
+Stemle S              1.0  0  0  0  1  1
+Burgos A              1.0  2  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N               5.1  6  3  3  2  7
+Munter S (W)          0.2  2  1  1  0  0
+Eyre S*               0.0  1  1  1  1  0
+Hawkins L             1.2  3  2  2  1  2
+Walker T (S)          1.1  1  0  0  1  2
+  * Pitched to 2 batters in 7th
+
+E -- Brown E, Teahen M
+DP -- Kansas City 1
+LOB -- Kansas City 12, San Francisco 7
+2B -- Tucker M 2, Teahen M, Lowry N, Gotay R, Durham R, Torrealba Y, Feliz P
+CS -- Vizquel O, Ellison J
+SH -- Vizquel O, Lima J, Grissom M
+HBP -- by Walker T (Gotay R)
+WP -- Munter S
+T -- 3:13
+A -- 38956
+     Game of 6/10/2005 -- Cleveland at San Francisco (N)
+
+  Cleveland          AB  R  H RBI    San Francisco      AB  R  H RBI
+Sizemore G, cf        5  2  3  1   Ellison J, cf         4  0  0  0   
+Cora A, ss            5  0  1  1   Vizquel O, ss         4  0  0  0   
+Crisp C, lf           5  0  1  2   Feliz P, lf           4  0  0  0   
+Broussard B, 1b       5  0  0  0   Alou M, rf            3  2  2  1   
+Martinez V, c         4  1  1  0   Niekro L, 1b          3  0  1  1   
+Belliard R, 2b        4  1  1  0   Cruz D, 2b            4  0  1  0   
+Gerut J, rf           4  3  3  1   Alfonzo E, 3b         3  0  0  0   
+Boone A, 3b           3  2  2  2   Matheny M, c          2  0  0  0   
+Sabathia C, p         3  0  1  2   Tomko B, p            1  0  0  0   
+Hafner T, ph          1  1  1  1   Christiansen J, p     0  0  0  0   
+Howry B, p            0  0  0  0   Grissom M, ph         1  0  1  0   
+                                   Levine A, p           0  0  0  0   
+                                   Eyre S, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 10 14 10                        29  2  5  2
+
+Cleveland        020 001 205 -- 10
+San Francisco    000 101 000 --  2
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        8.0  5  2  2  2  6
+Howry B               1.0  0  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B (L)           7.0  7  5  5  1  2
+Christiansen J        1.0  0  0  0  0  2
+Levine A              0.2  6  5  5  0  0
+Eyre S                0.1  1  0  0  0  0
+
+DP -- Cleveland 1, San Francisco 1
+LOB -- Cleveland 3, San Francisco 4
+2B -- Martinez V, Niekro L, Sizemore G, Gerut J, Sabathia C
+3B -- Gerut J, Boone A
+HR -- Alou M
+CS -- Niekro L
+SH -- Tomko B
+WP -- Sabathia C
+T -- 2:16
+A -- 37102
+     Game of 6/11/2005 -- Cleveland at San Francisco (N)
+
+  Cleveland          AB  R  H RBI    San Francisco      AB  R  H RBI
+Sizemore G, cf        4  2  2  2   Tucker M, rf          4  1  1  0   
+Crisp C, lf           5  0  1  0   Vizquel O, ss         4  1  1  0   
+Broussard B, 1b       5  0  1  0   Snow J, 1b            5  0  0  0   
+Martinez V, c         3  1  0  2   Alou M, lf            4  1  2  1   
+Gerut J, rf           3  1  2  1   Durham R, 2b          4  1  3  1   
+Belliard R, 2b        4  2  3  2   Feliz P, 3b           4  1  1  0   
+Boone A, 3b           4  0  0  0   Ellison J, cf         4  1  3  2   
+Peralta J, ss         3  1  0  0   Torrealba Y, c        3  0  0  1   
+Davis J, p            2  0  0  0   Schmidt J, p          1  0  0  0   
+Hernandez J, ph       1  0  1  0   Grissom M, ph         1  0  1  0   
+Howry B, p            0  0  0  0   Brower J, p           0  0  0  0   
+Wickman B, p          0  0  0  0   Niekro L, ph          1  0  0  0   
+                                   Taschner J, p         0  0  0  0   
+                                   Christiansen J, p     0  0  0  0   
+                                   Alfonzo E, ph         0  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     34  7 10  7                        35  6 12  6
+
+Cleveland        110 400 100 --  7
+San Francisco    000 300 003 --  6
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (W)           7.0  9  3  3  1  5
+Howry B*              1.0  3  3  3  0  0
+Wickman B (S)         1.0  0  0  0  2  1
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J (L)         5.0  6  6  6  3  7
+Brower J              2.0  3  1  1  1  1
+Taschner J            1.0  1  0  0  0  0
+Christiansen J        1.0  0  0  0  0  0
+  * Pitched to 3 batters in 9th
+
+E -- Feliz P
+DP -- Cleveland 3
+LOB -- Cleveland 6, San Francisco 6
+2B -- Gerut J, Belliard R, Sizemore G, Hernandez J, Ellison J
+HR -- Belliard R
+SB -- Tucker M 2, Vizquel O
+CS -- Durham R, Crisp C
+SH -- Davis J
+SF -- Martinez V, Alfonzo E
+WP -- Schmidt J, Davis J
+T -- 2:45
+A -- 39961
+     Game of 6/12/2005 -- Cleveland at San Francisco (D)
+
+  Cleveland          AB  R  H RBI    San Francisco      AB  R  H RBI
+Sizemore G, cf        3  0  2  1   Ellison J, cf         4  1  1  0   
+Crisp C, lf           4  0  0  0   Vizquel O, ss         4  0  0  0   
+Belliard R, 2b        3  1  0  0   Niekro L, 1b          3  0  1  1   
+Martinez V, c         4  1  1  0   Alou M, rf            3  1  1  0   
+Hernandez J, 1b       4  1  1  1   Durham R, 2b          3  0  0  0   
+Boone A, 3b           3  0  0  0   Alfonzo E, 3b         4  0  1  0   
+Blake C, rf           4  1  2  3   Cruz D, 3b            0  0  0  0   
+Peralta J, ss         3  1  1  0   Feliz P, lf           4  0  0  0   
+Lee C, p              3  0  0  0   Matheny M, c          4  1  1  1   
+Miller M, p           0  0  0  0   Rueter K, p           2  0  0  0   
+Wickman B, p          0  0  0  0   Eyre S, p             0  0  0  0   
+                                   Grissom M, ph         1  0  0  0   
+                                   Fassero J, p          0  0  0  0   
+                                   Tucker M, ph          1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  5  7  5                        33  3  6  2
+
+Cleveland        001 400 000 --  5
+San Francisco    000 002 100 --  3
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (W)             7.0  5  3  1  1  4
+Miller M              1.0  0  0  0  2  0
+Wickman B (S)         1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (L)          6.0  6  5  5  4  2
+Eyre S                1.0  1  0  0  0  1
+Fassero J             2.0  0  0  0  0  0
+
+E -- Peralta J 2
+DP -- Cleveland 1, San Francisco 2
+LOB -- Cleveland 3, San Francisco 7
+2B -- Alou M, Ellison J
+3B -- Peralta J
+HR -- Blake C, Matheny M
+CS -- Sizemore G
+SF -- Niekro L
+T -- 2:20
+A -- 41500
+     Game of 6/20/2005 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Counsell C, 2b        4  1  1  0   Ellison J, cf         5  1  2  0   
+Clayton R, ss         4  1  3  1   Vizquel O, ss         5  1  2  0   
+Gonzalez L, lf        3  0  1  0   Snow J, 1b            3  1  1  1   
+Glaus T, 3b           4  0  0  1   Alou M, lf            5  0  1  1   
+Clark T, 1b           4  0  1  1   Durham R, 2b          5  2  3  0   
+Green S, rf           4  0  0  0   Linden T, rf          4  1  1  1   
+McCracken Q, cf       5  0  2  0   Feliz P, 3b           3  1  2  3   
+Snyder C, c           3  0  0  0   Matheny M, c          3  1  2  2   
+Vazquez J, p          2  0  1  0   Lowry N, p            1  0  0  0   
+Aquino G, p           0  0  0  0   Munter S, p           0  0  0  0   
+Tracy C, ph           1  1  1  0   Eyre S, p             0  0  0  0   
+Cormier L, p          0  0  0  0   Taschner J, p         0  0  0  0   
+Hairston S, ph        1  0  0  0   Walker T, p           0  0  0  0   
+Medders B, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3 10  3                        34  8 14  8
+
+Arizona          000 000 201 --  3
+San Francisco    101 002 40x --  8
+
+  Arizona              IP  H  R ER BB SO
+Vazquez J (L)*        5.0 10  4  4  1  5
+Aquino G              1.0  1  0  0  0  1
+Cormier L             1.0  3  4  4  2  2
+Medders B             1.0  0  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N (W)           5.2  6  0  0  2  3
+Munter S+             0.1  2  2  2  1  0
+Eyre S                2.0  1  0  0  1  1
+Taschner J            0.1  0  1  1  2  1
+Walker T              0.2  1  0  0  1  1
+  * Pitched to 3 batters in 6th
+  + Pitched to 3 batters in 7th
+
+E -- Alou M
+DP -- Arizona 1, San Francisco 1
+LOB -- Arizona 13, San Francisco 9
+2B -- Vizquel O, Durham R, Linden T, Tracy C, Clark T
+HR -- Feliz P, Matheny M
+SH -- Lowry N, Munter S
+SF -- Matheny M, Glaus T
+WP -- Vazquez J 2
+T -- 3:49
+A -- 38891
+     Game of 6/21/2005 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Counsell C, 2b        4  1  1  0   Ellison J, cf         4  0  1  0   
+Clayton R, ss         4  1  1  0   Vizquel O, ss         5  1  2  0   
+Gonzalez L, lf        4  2  2  1   Snow J, 1b            5  0  1  0   
+Green S, rf           4  1  2  2   Alou M, lf            5  1  2  0   
+Cintron A, 3b         4  0  1  0   Durham R, 2b          3  1  0  0   
+Tracy C, 1b           3  1  2  2   Feliz P, 3b           5  0  3  1   
+Cruz J, cf            3  0  0  0   Linden T, rf          3  1  1  2   
+Valverde J, p         0  0  0  0   Matheny M, c          2  0  0  1   
+Clark T, ph           1  0  0  0   Tomko B, p            3  0  0  0   
+Cormier L, p          0  0  0  0   Niekro L, ph          1  0  0  0   
+Bruney B, p           0  0  0  0   Christiansen J, p     0  0  0  0   
+Snyder C, c           4  0  0  0   Fassero J, p          0  0  0  0   
+Vargas C, p           2  0  0  0                                      
+McCracken Q, cf       2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  6  9  5                        36  4 10  4
+
+Arizona          300 003 000 --  6
+San Francisco    012 010 000 --  4
+
+  Arizona              IP  H  R ER BB SO
+Vargas C (W)          5.0  8  4  4  3  5
+Valverde J            2.0  2  0  0  1  3
+Cormier L             1.0  0  0  0  0  0
+Bruney B (S)          1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B (L)           7.0  8  6  6  1  3
+Christiansen J        1.0  1  0  0  1  0
+Fassero J             1.0  0  0  0  0  1
+
+DP -- San Francisco 1
+LOB -- Arizona 4, San Francisco 11
+2B -- Clayton R, Feliz P 2, Gonzalez L, Green S
+HR -- Linden T, Tracy C
+CS -- Vizquel O
+HBP -- by Vargas C (Linden T), by Vargas C (Matheny M)
+WP -- Valverde J
+T -- 2:56
+A -- 37942
+     Game of 6/22/2005 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Counsell C, 2b        4  0  0  0   Durham R, 2b          3  1  1  1   
+Cintron A, ss         4  0  0  0   Vizquel O, ss         3  1  1  1   
+Gonzalez L, lf        4  0  2  0   Niekro L, 1b          4  0  0  0   
+Green S, rf           3  0  0  0   Alou M, lf            3  1  3  1   
+Glaus T, 3b           4  0  0  0   Feliz P, 3b           4  0  1  0   
+Tracy C, 1b           4  0  1  0   Linden T, rf          4  0  1  0   
+Cruz J, cf            3  0  0  0   Ellison J, cf         4  0  1  1   
+Stinnett K, c         2  0  1  0   Matheny M, c          4  1  1  0   
+Halsey B, p           1  0  0  0   Schmidt J, p          2  0  0  0   
+Aquino G, p           0  0  0  0   Eyre S, p             0  0  0  0   
+McCracken Q, ph       1  0  1  0   Walker T, p           0  0  0  0   
+Medders B, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        31  4  9  4
+
+Arizona          000 000 000 --  0
+San Francisco    010 000 30x --  4
+
+  Arizona              IP  H  R ER BB SO
+Halsey B (L)          6.1  8  4  3  3  3
+Aquino G              0.2  1  0  0  0  1
+Medders B             1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J (W)*        8.0  5  0  0  2 10
+Eyre S                0.1  0  0  0  0  1
+Walker T              0.2  0  0  0  0  2
+  * Pitched to 1 batter in 9th
+
+E -- Glaus T
+DP -- Arizona 1, San Francisco 1
+LOB -- Arizona 6, San Francisco 7
+2B -- Tracy C
+CS -- Green S
+SH -- Halsey B, Schmidt J
+T -- 2:29
+A -- 36349
+     Game of 6/23/2005 -- Arizona at San Francisco (D)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Counsell C, 2b        3  1  1  1   Durham R, 2b          3  0  0  0   
+Clayton R, ss         4  1  1  0   Cruz D, 2b            1  0  0  0   
+Gonzalez L, lf        5  1  2  1   Vizquel O, ss         3  0  0  0   
+Glaus T, 3b           4  1  2  2   Snow J, 1b            4  1  2  0   
+Clark T, 1b           5  0  1  1   Alou M, lf            3  1  1  0   
+Green S, rf           3  1  1  0   Feliz P, 3b           2  0  1  1   
+McCracken Q, cf       4  1  2  1   Linden T, rf          4  0  0  0   
+Snyder C, c           4  1  1  0   Ellison J, cf         4  0  1  1   
+Webb B, p             2  0  0  0   Torrealba Y, c        4  0  2  0   
+Cintron A, ph         1  0  1  1   Rueter K, p           2  0  0  0   
+Cormier L, p          0  0  0  0   Munter S, p           0  0  0  0   
+                                   Tucker M, ph          1  0  0  0   
+                                   Christiansen J, p     0  0  0  0   
+                                   Puffer B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7 12  7                        31  2  7  2
+
+Arizona          100 010 131 --  7
+San Francisco    000 100 100 --  2
+
+  Arizona              IP  H  R ER BB SO
+Webb B (W)            7.0  7  2  2  0  2
+Cormier L             2.0  0  0  0  3  3
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (L)          6.2  7  3  3  4  4
+Munter S              0.1  0  0  0  0  0
+Christiansen J        0.1  4  3  3  0  0
+Puffer B              1.2  1  1  1  1  0
+
+E -- Glaus T, Alou M
+DP -- Arizona 2, San Francisco 2
+LOB -- Arizona 9, San Francisco 6
+2B -- Snow J, Glaus T, Snyder C
+3B -- Green S
+HR -- Glaus T
+SB -- Clayton R, Alou M
+SH -- Webb B, McCracken Q
+SF -- Feliz P, Counsell C
+T -- 2:36
+A -- 39739
+     Game of 7/4/2005 -- Cincinnati at San Francisco (D)
+
+  Cincinnati         AB  R  H RBI    San Francisco      AB  R  H RBI
+Lopez F, ss           5  0  1  0   Tucker M, rf          4  3  3  1   
+Aurilia R, 2b         3  1  1  0   Vizquel O, ss         5  0  1  1   
+Casey S, 1b           5  1  1  0   Snow J, 1b            4  1  3  2   
+Griffey K, cf         4  2  2  1   Feliz P, ph           1  1  1  0   
+Pena W, rf            5  2  2  3   Alou M, lf            4  1  2  2   
+Dunn A, lf            3  2  1  0   Durham R, 2b          5  1  1  2   
+Encarnacion E, 3b     4  2  2  0   Cruz D, 3b            5  1  1  1   
+LaRue J, c            3  1  2  6   Ellison J, cf         5  0  0  0   
+Ramirez E, p          2  0  0  0   Torrealba Y, c        3  2  1  0   
+Coffey T, p           0  0  0  0   Rueter K, p           0  0  0  0   
+Romano J, ph          1  0  0  0   Accardo J, p          0  0  0  0   
+Wagner R, p           1  0  0  0   Taschner J, p         0  0  0  0   
+Weathers D, p         0  0  0  0   Hawkins L, p          0  0  0  0   
+Randa J, ph           1  0  0  0   Sanchez A, ph         1  0  0  0   
+Mercker K, p          0  0  0  0   Munter S, p           0  0  0  0   
+Belisle M, p          0  0  0  0   Eyre S, p             0  0  0  0   
+                                   Niekro L, ph          1  0  0  0   
+                                   Christiansen J, p     0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37 11 12 10                        38 10 13  9
+
+Cincinnati       013 304 000 -- 11
+San Francisco    420 111 001 -- 10
+
+  Cincinnati           IP  H  R ER BB SO
+Ramirez E             3.2  8  7  7  2  0
+Coffey T              0.1  0  0  0  0  1
+Wagner R (W)          2.0  3  2  2  1  2
+Weathers D            2.0  0  0  0  0  1
+Mercker K*            0.0  2  1  1  0  0
+Belisle M (S)         1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K              4.0  9  7  7  4  2
+Accardo J (L)         1.2  1  2  2  1  2
+Taschner J+           0.0  0  1  1  1  0
+Hawkins L             0.1  1  1  1  1  1
+Munter S              1.0  0  0  0  0  0
+Eyre S                1.0  0  0  0  0  2
+Christiansen J        1.0  1  0  0  0  1
+  * Pitched to 2 batters in 9th
+  + Pitched to 1 batter in 6th
+
+E -- Durham R, Pena W, Ramirez E
+DP -- San Francisco 1
+LOB -- Cincinnati 8, San Francisco 6
+2B -- Tucker M 2, Alou M 2, Dunn A, Vizquel O, LaRue J, Snow J, Feliz P
+HR -- Durham R, Griffey K, LaRue J, Pena W, Cruz D
+SH -- Rueter K 2, LaRue J
+SF -- LaRue J
+PB -- Torrealba Y
+T -- 3:24
+A -- 40333
+     Game of 7/5/2005 -- Cincinnati at San Francisco (N)
+
+  Cincinnati         AB  R  H RBI    San Francisco      AB  R  H RBI
+Lopez F, ss           5  0  1  0   Sanchez A, rf         3  0  1  0   
+Aurilia R, 2b         5  1  1  0   Tucker M, ph-rf       2  0  0  0   
+Casey S, 1b           5  1  4  0   Vizquel O, ss         4  1  1  0   
+Griffey K, cf         5  2  1  1   Niekro L, 1b          4  1  1  2   
+Randa J, 3b           3  1  2  1   Alou M, lf            4  0  0  0   
+Pena W, rf            5  1  3  2   Feliz P, 3b           3  0  1  0   
+Dunn A, lf            5  1  1  2   Cruz D, 2b            3  0  0  0   
+LaRue J, c            3  0  0  0   Fassero J, p          0  0  0  0   
+Milton E, p           3  0  0  0   Taschner J, p         0  0  0  0   
+Mercker K, p          0  0  0  0   Snow J, ph            1  1  1  0   
+Encarnacion E, ph     0  0  0  0   Matheny M, c          4  0  1  0   
+Weathers D, p         0  0  0  0   Ellison J, cf         3  1  1  0   
+Belisle M, p          0  0  0  0   Lowry N, p            2  0  0  1   
+                                   Durham R, 2b          2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  7 13  6                        35  4  8  3
+
+Cincinnati       030 001 201 --  7
+San Francisco    210 000 001 --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Milton E (W)          6.1  6  3  3  1  3
+Mercker K             0.2  1  0  0  0  1
+Weathers D            1.0  0  0  0  0  2
+Belisle M             1.0  1  1  1  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N (L)           6.0  8  4  4  2  7
+Fassero J             2.0  3  2  2  1  1
+Taschner J            1.0  2  1  1  1  0
+
+DP -- San Francisco 1
+LOB -- Cincinnati 9, San Francisco 6
+2B -- Randa J, Ellison J, Griffey K
+HR -- Niekro L, Dunn A
+SB -- Ellison J
+WP -- Milton E, Fassero J, Belisle M 2
+T -- 2:51
+A -- 36254
+     Game of 7/6/2005 -- Cincinnati at San Francisco (N)
+
+  Cincinnati         AB  R  H RBI    San Francisco      AB  R  H RBI
+Lopez F, ss           4  1  0  0   Sanchez A, rf         5  0  2  2   
+Dunn A, lf            4  0  1  2   Vizquel O, ss         3  0  1  0   
+Randa J, 3b           4  0  1  0   Snow J, 1b            4  0  0  0   
+Griffey K, cf         3  0  1  0   Feliz P, 3b           4  1  2  0   
+Casey S, 1b           4  0  1  0   Tucker M, lf          3  1  0  0   
+Aurilia R, 2b         4  0  1  0   Cruz D, 2b            4  2  3  1   
+Pena W, rf            4  0  0  0   Matheny M, c          4  1  1  1   
+LaRue J, c            3  0  1  0   Ellison J, cf         2  2  1  1   
+Hudson L, p           2  1  1  0   Correia K, p          1  0  0  0   
+Shackelford B, p      0  0  0  0   Niekro L, ph          1  0  1  2   
+Olmedo R, ph          1  0  1  0   Hawkins L, p          0  0  0  0   
+Standridge J, p       0  0  0  0   Alou M, ph            0  0  0  0   
+Coffey T, p           0  0  0  0   Eyre S, p             0  0  0  0   
+Mercker K, p          0  0  0  0   Munter S, p           0  0  0  0   
+Cruz J, ph            1  0  0  0   Torrealba Y, ph       1  0  0  0   
+                                   Walker T, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        32  7 11  7
+
+Cincinnati       002 000 000 --  2
+San Francisco    000 041 02x --  7
+
+  Cincinnati           IP  H  R ER BB SO
+Hudson L (L)          4.1  6  4  4  1  1
+Shackelford B         0.2  0  0  0  1  2
+Standridge J          1.0  2  1  1  2  2
+Coffey T              1.2  2  2  2  1  0
+Mercker K             0.1  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Correia K (W)         5.0  5  2  2  4  2
+Hawkins L             1.0  2  0  0  0  2
+Eyre S                1.0  1  0  0  0  1
+Munter S              1.0  0  0  0  0  1
+Walker T              1.0  0  0  0  0  1
+
+E -- Aurilia R, Lopez F
+DP -- Cincinnati 1, San Francisco 1
+LOB -- Cincinnati 9, San Francisco 6
+2B -- Olmedo R, Matheny M, Sanchez A
+3B -- Niekro L
+CS -- Sanchez A
+WP -- Correia K
+PB -- Matheny M
+T -- 2:55
+A -- 33666
+     Game of 7/7/2005 -- Cincinnati at San Francisco (N)
+
+  Cincinnati         AB  R  H RBI    San Francisco      AB  R  H RBI
+Lopez F, ss           5  0  1  0   Ellison J, cf         4  0  0  0   
+Aurilia R, 2b         4  0  0  0   Vizquel O, ss         4  0  1  0   
+Casey S, 1b           4  0  1  0   Snow J, 1b            3  0  0  0   
+Griffey K, cf         3  1  2  0   Alou M, lf            4  0  0  0   
+Randa J, 3b           4  0  2  1   Tucker M, rf          3  1  1  0   
+Dunn A, lf            3  0  0  0   Cruz D, 2b            3  0  1  0   
+Pena W, rf            4  0  0  0   Feliz P, 3b           3  2  1  0   
+Valentin J, c         4  0  1  0   Matheny M, c          3  2  2  4   
+Harang A, p           2  0  0  0   Tomko B, p            2  0  0  0   
+Olmedo R, ph          1  0  1  0   Christiansen J, p     0  0  0  0   
+Wagner R, p           0  0  0  0   Munter S, p           0  0  0  0   
+Shackelford B, p      0  0  0  0   Eyre S, p             0  0  0  0   
+Cruz J, ph            1  0  0  0   Niekro L, ph          1  0  1  1   
+                                   Hawkins L, p          0  0  0  0   
+                                   Walker T, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  1  8  1                        30  5  7  5
+
+Cincinnati       000 100 000 --  1
+San Francisco    000 030 20x --  5
+
+  Cincinnati           IP  H  R ER BB SO
+Harang A (L)          6.0  4  3  2  1  8
+Wagner R              1.0  3  2  2  0  0
+Shackelford B         1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B (W)*          5.0  6  1  1  2  4
+Christiansen J        0.1  0  0  0  0  1
+Munter S+             0.2  1  0  0  0  0
+Eyre S                1.0  0  0  0  0  0
+Hawkins L             1.0  0  0  0  0  0
+Walker T              1.0  1  0  0  0  0
+  * Pitched to 3 batters in 6th
+  + Pitched to 1 batter in 7th
+
+E -- Dunn A, Tucker M, Lopez F
+DP -- Cincinnati 1, San Francisco 1
+LOB -- Cincinnati 9, San Francisco 2
+2B -- Griffey K, Matheny M, Niekro L
+3B -- Randa J
+HR -- Matheny M
+CS -- Cruz D, Vizquel O
+T -- 2:50
+A -- 35543
+     Game of 7/8/2005 -- St. Louis at San Francisco (N)
+
+  St. Louis          AB  R  H RBI    San Francisco      AB  R  H RBI
+Eckstein D, ss        4  0  2  0   Durham R, 2b          4  0  0  0   
+Edmonds J, cf         3  1  1  0   Vizquel O, ss         3  0  1  0   
+Pujols A, 1b          3  0  0  0   Feliz P, lf           4  1  1  1   
+Walker L, rf          3  1  2  2   Alou M, rf            3  0  1  0   
+Rolen S, 3b           4  0  1  0   Niekro L, 1b          4  0  1  0   
+Sanders R, lf         4  1  1  1   Cruz D, 3b            4  0  0  0   
+Grudzielanek M, 2b    4  0  0  0   Matheny M, c          4  0  2  0   
+Diaz E, c             4  0  1  0   Ellison J, cf         3  0  1  0   
+Mulder M, p           3  0  0  0   Tucker M, ph          1  0  0  0   
+Reyes A, p            0  0  0  0   Schmidt J, p          0  0  0  0   
+Mabry J, ph           0  0  0  0   Dallimore B, ph       1  0  0  0   
+Taguchi S, ph         1  0  0  0   Accardo J, p          0  0  0  0   
+Isringhausen J, p     0  0  0  0   Taschner J, p         0  0  0  0   
+                                   Sanchez A, ph         1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  3                        32  1  8  1
+
+St. Louis        200 100 000 --  3
+San Francisco    000 000 010 --  1
+
+  St. Louis            IP  H  R ER BB SO
+Mulder M (W)          7.0  4  0  0  1  1
+Reyes A               1.0  2  1  1  1  1
+Isringhausen J (S)    1.0  2  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J (L)         7.0  5  3  3  4  5
+Accardo J             1.1  2  0  0  0  0
+Taschner J            0.2  1  0  0  1  1
+
+E -- Eckstein D
+DP -- St. Louis 1, San Francisco 1
+LOB -- St. Louis 9, San Francisco 9
+2B -- Edmonds J, Matheny M
+HR -- Walker L, Sanders R, Feliz P
+CS -- Vizquel O, Eckstein D
+SH -- Schmidt J 2
+HBP -- by Mulder M (Vizquel O), by Schmidt J (Eckstein D)
+T -- 2:44
+A -- 41405
+     Game of 7/9/2005 -- St. Louis at San Francisco (D)
+
+  St. Louis          AB  R  H RBI    San Francisco      AB  R  H RBI
+Eckstein D, ss        4  0  1  0   Ellison J, cf         4  0  0  0   
+Taguchi S, lf         4  0  0  0   Vizquel O, ss         3  0  0  0   
+Pujols A, 1b          3  0  1  0   Snow J, 1b            3  0  0  0   
+Edmonds J, cf         2  0  0  0   Alou M, lf            3  1  2  0   
+Rolen S, 3b           3  0  0  0   Durham R, 2b          3  1  2  0   
+Mabry J, rf           3  0  0  0   Tucker M, rf          3  0  1  1   
+Grudzielanek M, 2b    3  0  1  0   Feliz P, 3b           3  0  1  0   
+Mahoney M, c          2  0  0  0   Torrealba Y, c        2  0  0  0   
+Nunez A, ph           1  0  0  0   Hennessey B, p        2  0  0  0   
+Diaz E, c             0  0  0  0   Hawkins L, p          0  0  0  0   
+Morris M, p           2  0  0  0   Niekro L, ph          1  0  0  0   
+Sanders R, ph         1  0  0  0   Walker T, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  0  3  0                        27  2  6  1
+
+St. Louis        000 000 000 --  0
+San Francisco    000 020 00x --  2
+
+  St. Louis            IP  H  R ER BB SO
+Morris M (L)          8.0  6  2  2  0  3
+
+  San Francisco        IP  H  R ER BB SO
+Hennessey B (W)       7.0  3  0  0  1  2
+Hawkins L             1.0  0  0  0  0  0
+Walker T (S)          1.0  0  0  0  0  1
+
+DP -- St. Louis 2, San Francisco 2
+LOB -- St. Louis 2, San Francisco 2
+2B -- Feliz P
+SH -- Torrealba Y
+T -- 1:59
+A -- 42423
+     Game of 7/10/2005 -- St. Louis at San Francisco (N)
+
+  St. Louis          AB  R  H RBI    San Francisco      AB  R  H RBI
+Eckstein D, ss        4  0  0  0   Sanchez A, rf         5  1  3  1   
+Edmonds J, cf         3  0  1  0   Vizquel O, ss         5  0  3  0   
+Pujols A, 1b          4  0  1  0   Niekro L, 1b          5  0  2  1   
+Sanders R, lf         4  1  2  0   Alou M, lf            3  0  0  0   
+Rolen S, 3b           3  0  0  1   Durham R, 2b          3  0  0  0   
+Walker L, rf          3  1  1  0   Feliz P, 3b           4  1  1  0   
+Taguchi S, ph-rf      1  0  0  0   Matheny M, c          4  0  1  0   
+Grudzielanek M, 2b    4  1  2  0   Ellison J, cf         4  1  2  0   
+Diaz E, c             4  1  1  2   Lowry N, p            1  0  0  0   
+Suppan J, p           3  0  2  1   Snow J, ph            0  0  0  0   
+King R, p             0  0  0  0   Cruz D, ph            1  0  0  1   
+Tavarez J, p          0  0  0  0   Munter S, p           0  0  0  0   
+Nunez A, ph           1  0  0  0   Eyre S, p             0  0  0  0   
+Isringhausen J, p     0  0  0  0   Tucker M, ph          1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4 10  4                        36  3 13  3
+
+St. Louis        040 000 000 --  4
+San Francisco    100 000 200 --  3
+
+  St. Louis            IP  H  R ER BB SO
+Suppan J (W)          6.1  9  3  3  1  1
+King R                0.1  2  0  0  0  0
+Tavarez J             1.1  0  0  0  1  1
+Isringhausen J (S)    1.0  2  0  0  0  3
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N (L)           7.0  8  4  4  2  6
+Munter S              1.0  1  0  0  0  0
+Eyre S                1.0  1  0  0  0  0
+
+E -- Sanchez A
+DP -- St. Louis 2, San Francisco 2
+LOB -- St. Louis 5, San Francisco 9
+2B -- Diaz E, Matheny M, Ellison J
+3B -- Sanders R
+SB -- Pujols A, Sanders R
+CS -- Edmonds J, Niekro L
+SH -- Lowry N
+T -- 2:52
+A -- 41925
+     Game of 7/18/2005 -- Atlanta at San Francisco (N)
+
+  Atlanta            AB  R  H RBI    San Francisco      AB  R  H RBI
+Furcal R, ss          4  1  1  0   Tucker M, rf          4  0  0  0   
+Johnson K, lf         3  0  0  1   Vizquel O, ss         2  0  0  0   
+Giles M, 2b           4  1  1  0   Snow J, 1b            4  0  1  0   
+Jones A, cf           4  2  2  4   Alou M, lf            2  0  0  0   
+Jones C, 3b           4  1  1  1   Durham R, 2b          3  0  1  0   
+Brower J, p           0  0  0  0   Cruz D, 2b            1  0  0  0   
+Kolb D, p             0  0  0  0   Feliz P, 3b           4  1  1  0   
+LaRoche A, 1b         4  0  1  0   Matheny M, c          4  0  3  0   
+Estrada J, c          4  0  0  0   Ellison J, cf         4  0  1  1   
+Langerhans R, rf      2  0  0  0   Correia K, p          1  0  0  0   
+Sosa J, p             0  0  0  0   Shabala A, ph         1  0  0  0   
+Orr P, ph             1  1  1  0   Rueter K, p           1  0  0  0   
+Foster J, p           0  0  0  0   Sanchez A, ph         1  0  0  0   
+Betemit W, 3b         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  6  7  6                        32  1  7  1
+
+Atlanta          302 000 100 --  6
+San Francisco    000 001 000 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Sosa J (W)            6.0  6  1  1  4  4
+Foster J              1.0  0  0  0  0  0
+Brower J              1.0  0  0  0  0  0
+Kolb D                1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Correia K (L)         4.0  6  5  5  2  0
+Rueter K              5.0  1  1  1  0  0
+
+DP -- Atlanta 2
+LOB -- Atlanta 3, San Francisco 8
+2B -- Matheny M, LaRoche A, Feliz P
+HR -- Jones A 2, Jones C
+SB -- Furcal R
+SH -- Sosa J 2
+SF -- Johnson K
+WP -- Rueter K 2
+T -- 2:16
+A -- 42277
+     Game of 7/19/2005 -- Atlanta at San Francisco (N)
+
+  Atlanta            AB  R  H RBI    San Francisco      AB  R  H RBI
+Furcal R, ss          4  0  1  0   Ellison J, cf         5  0  3  2   
+Johnson K, lf         5  1  1  0   Vizquel O, ss         3  0  2  0   
+Giles M, 2b           4  0  1  0   Niekro L, 1b          3  0  1  0   
+Jones A, cf           4  1  1  1   Snow J, 1b            0  0  0  0   
+Jones C, 3b           2  1  0  0   Alou M, lf            4  1  2  0   
+Betemit W, 3b         1  0  0  0   Matheny M, c          4  1  1  0   
+LaRoche A, 1b         3  1  2  2   Feliz P, 3b           4  1  2  3   
+Estrada J, c          4  0  1  1   Cruz D, 2b            4  1  0  0   
+Langerhans R, rf      3  0  0  0   Tucker M, rf          4  1  1  0   
+Ramirez H, p          3  0  1  0   Schmidt J, p          1  0  0  0   
+Gryboski K, p         0  0  0  0   Sanchez A, ph         1  0  0  0   
+Franco J, ph          1  0  0  0   Hawkins L, p          0  0  0  0   
+Kolb D, p             0  0  0  0   Walker T, p           0  0  0  0   
+Foster J, p           0  0  0  0   Torrealba Y, ph       0  0  0  0   
+Powell J, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  8  4                        33  5 12  5
+
+Atlanta          100 101 001 --  4
+San Francisco    001 000 301 --  5
+  2 outs when winning run was scored.
+
+  Atlanta              IP  H  R ER BB SO
+Ramirez H             7.1 10  4  4  0  0
+Gryboski K            0.2  0  0  0  1  0
+Kolb D (L)            0.1  1  1  1  0  0
+Foster J              0.1  0  0  0  0  1
+Powell J              0.0  1  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J             7.0  7  3  3  2 10
+Hawkins L             1.0  0  0  0  0  1
+Walker T (W)          1.0  1  1  1  2  2
+
+E -- Furcal R
+DP -- Atlanta 2, San Francisco 1
+LOB -- Atlanta 7, San Francisco 6
+2B -- Giles M, Tucker M, Jones A, Alou M
+HR -- Feliz P, LaRoche A
+SB -- Furcal R
+CS -- Alou M
+SH -- Schmidt J, Vizquel O
+WP -- Walker T
+T -- 2:37
+A -- 42494
+     Game of 7/20/2005 -- Atlanta at San Francisco (D)
+
+  Atlanta            AB  R  H RBI    San Francisco      AB  R  H RBI
+Furcal R, ss          4  0  0  0   Sanchez A, cf         4  0  1  0   
+Johnson K, lf         4  1  1  0   Vizquel O, ss         4  0  1  0   
+Giles M, 2b           4  0  0  0   Snow J, 1b            4  0  0  0   
+Jones A, cf           3  0  0  0   Feliz P, 3b           4  1  1  1   
+Jones C, 3b           4  0  0  0   Durham R, 2b          4  0  2  0   
+Reitsma C, p          0  0  0  0   Tucker M, rf          4  0  1  0   
+Franco J, 1b          3  1  1  0   Shabala A, lf         3  0  0  0   
+Francoeur J, rf       3  2  3  2   Fassero J, p          0  0  0  0   
+McCann B, c           3  0  0  0   Christiansen J, p     0  0  0  0   
+Smoltz J, p           3  0  1  1   Torrealba Y, c        3  0  0  0   
+Betemit W, 3b         0  0  0  0   Lowry N, p            2  0  1  0   
+                                   Ellison J, lf         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  6  3                        33  1  7  1
+
+Atlanta          020 001 100 --  4
+San Francisco    000 100 000 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Smoltz J (W)          8.0  6  1  1  0  7
+Reitsma C (S)         1.0  1  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N (L)           7.0  6  4  3  2  7
+Fassero J             1.0  0  0  0  0  1
+Christiansen J        1.0  0  0  0  0  1
+
+E -- Shabala A
+DP -- San Francisco 2
+LOB -- Atlanta 2, San Francisco 5
+2B -- Sanchez A, Franco J, Johnson K, Smoltz J, Durham R
+HR -- Francoeur J, Feliz P
+CS -- Jones A, Sanchez A
+T -- 2:19
+A -- 42371
+     Game of 7/22/2005 -- Florida at San Francisco (N)
+
+  Florida            AB  R  H RBI    San Francisco      AB  R  H RBI
+Pierre J, cf          5  0  1  0   Ellison J, cf         4  0  0  0   
+Castillo L, 2b        5  0  1  0   Vizquel O, ss         3  1  0  0   
+Delgado C, 1b         4  2  1  0   Niekro L, 1b          3  0  0  0   
+Cabrera M, lf         3  2  3  2   Alou M, rf-lf         3  3  2  0   
+Lo Duca P, c          4  0  3  1   Durham R, 2b          3  2  2  2   
+Encarnacion J, rf     3  0  0  1   Alfonzo E, 3b         3  1  1  2   
+Lowell M, 3b          4  1  1  1   Hawkins L, p          0  0  0  0   
+Gonzalez A, ss        4  0  1  0   Walker T, p           0  0  0  0   
+Willis D, p           2  0  1  0   Feliz P, lf-3b        4  1  3  3   
+Valdez I, p           0  0  0  0   Matheny M, c          4  0  0  0   
+Conine J, ph          1  0  0  0   Tomko B, p            1  0  0  0   
+Riedling J, p         0  0  0  0   Sanchez A, ph         1  0  0  0   
+Aguila C, ph          1  0  0  0   Eyre S, p             0  0  0  0   
+Messenger R, p        0  0  0  0   Munter S, p           0  0  0  0   
+                                   Tucker M, rf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 12  5                        30  8  8  7
+
+Florida          211 000 100 --  5
+San Francisco    034 010 00x --  8
+
+  Florida              IP  H  R ER BB SO
+Willis D (L)          3.0  6  7  7  2  2
+Valdez I              2.0  2  1  1  1  0
+Riedling J            2.0  0  0  0  2  1
+Messenger R           1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B (W)           6.0 10  4  4  1  2
+Eyre S                0.2  1  1  1  0  1
+Munter S              0.1  1  0  0  1  0
+Hawkins L             1.0  0  0  0  0  0
+Walker T (S)          1.0  0  0  0  0  0
+
+E -- Cabrera M
+DP -- San Francisco 2
+LOB -- Florida 7, San Francisco 5
+2B -- Cabrera M, Delgado C
+HR -- Cabrera M, Lowell M, Feliz P
+SB -- Ellison J
+SH -- Tomko B
+SF -- Encarnacion J, Alfonzo E
+WP -- Valdez I, Riedling J
+T -- 2:42
+A -- 39876
+     Game of 7/23/2005 -- Florida at San Francisco (N)
+
+  Florida            AB  R  H RBI    San Francisco      AB  R  H RBI
+Pierre J, cf          5  2  3  1   Sanchez A, cf         3  0  0  0   
+Castillo L, 2b        3  1  1  1   Cruz D, ss            1  0  1  1   
+Delgado C, 1b         4  2  2  2   Vizquel O, ss         3  0  0  0   
+Conine J, ph-1b       2  0  0  0   Alfonzo E, 3b         1  0  0  0   
+Cabrera M, lf         3  3  2  2   Snow J, 1b            3  0  0  0   
+Aguila C, lf          2  1  2  0   Torrealba Y, ph       1  0  0  0   
+Lo Duca P, c          4  2  2  1   Fassero J, p          0  0  0  0   
+Treanor M, c          1  1  0  0   Alou M, lf            2  0  0  0   
+Encarnacion J, rf     6  2  3  2   Ellison J, ph-cf      2  0  0  0   
+Lowell M, 3b          5  1  3  3   Durham R, 2b          4  1  1  1   
+Easley D, ss          2  0  1  1   Feliz P, 3b-lf        4  1  1  0   
+Beckett J, p          3  0  0  1   Tucker M, rf          3  0  1  1   
+Mecir J, p            0  0  0  0   Matheny M, c          3  1  2  0   
+Harris L, ph          1  1  1  1   Hennessey B, p        1  0  0  0   
+Mota G, p             0  0  0  0   Rueter K, p           1  0  0  0   
+Messenger R, p        0  0  0  0   Christiansen J, p     0  0  0  0   
+                                   Niekro L, ph-1b       1  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     41 16 20 15                        33  4  7  4
+
+Florida          300 054 040 -- 16
+San Francisco    020 000 020 --  4
+
+  Florida              IP  H  R ER BB SO
+Beckett J (W)         6.0  4  2  2  0  7
+Mecir J               1.0  0  0  0  0  1
+Mota G                1.0  3  2  2  0  0
+Messenger R           1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Hennessey B (L)       4.1  9  8  8  4  1
+Rueter K              3.1  8  8  7  3  0
+Christiansen J        0.1  2  0  0  0  0
+Fassero J             1.0  1  0  0  0  1
+
+E -- Sanchez A
+DP -- Florida 1, San Francisco 2
+LOB -- Florida 8, San Francisco 2
+2B -- Cabrera M, Encarnacion J, Feliz P, Lowell M, Delgado C, Aguila C, Harris L, Matheny M, Niekro L, Cruz D
+HR -- Durham R, Delgado C, Cabrera M
+SB -- Pierre J
+CS -- Pierre J
+SH -- Castillo L
+SF -- Beckett J, Easley D
+WP -- Hennessey B
+T -- 2:34
+A -- 43017
+     Game of 7/24/2005 -- Florida at San Francisco (D)
+
+  Florida            AB  R  H RBI    San Francisco      AB  R  H RBI
+Pierre J, cf          2  0  1  0   Ellison J, cf         3  1  2  0   
+Castillo L, 2b        5  0  0  0   Alfonzo E, 3b         4  0  2  1   
+Delgado C, 1b         4  0  1  0   Niekro L, 1b          4  0  0  0   
+Aguila C, lf          0  0  0  0   Munter S, p           0  0  0  0   
+Cabrera M, lf         4  1  2  1   Alou M, rf-lf         3  0  3  0   
+Conine J, 1b          0  0  0  0   Durham R, 2b          4  0  0  0   
+Lo Duca P, c          3  1  0  0   Feliz P, lf-1b        4  0  1  0   
+Encarnacion J, rf     4  1  1  2   Cruz D, ss            3  0  0  0   
+Lowell M, 3b          3  0  0  0   Torrealba Y, c        3  0  0  0   
+Easley D, ss          1  0  0  0   Correia K, p          2  0  0  0   
+Burnett A, p          2  1  1  1   Eyre S, p             0  0  0  0   
+Mecir J, p            0  0  0  0   Tucker M, ph-rf       1  0  0  0   
+Harris L, ph          1  0  1  0                                      
+Jones T, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  4  7  4                        31  1  8  1
+
+Florida          011 002 000 --  4
+San Francisco    001 000 000 --  1
+
+  Florida              IP  H  R ER BB SO
+Burnett A (W)         7.1  7  1  0  1  4
+Mecir J               0.2  0  0  0  0  0
+Jones T (S)           1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Correia K (L)         6.1  5  4  4  2  5
+Eyre S                1.2  1  0  0  0  1
+Munter S              1.0  1  0  0  2  1
+
+E -- Easley D, Cabrera M, Lowell M
+DP -- Florida 4, San Francisco 1
+LOB -- Florida 7, San Francisco 5
+HR -- Cabrera M, Burnett A, Encarnacion J
+SB -- Pierre J
+SH -- Burnett A, Pierre J, Easley D
+HBP -- by Burnett A (Alou M), by Correia K (Easley D), by Correia K (Lo Duca P)
+T -- 2:29
+A -- 42019
+     Game of 8/2/2005 -- Colorado at San Francisco (N)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Sullivan C, cf        5  0  0  0   Vizquel O, ss         2  2  0  0   
+Quintanilla O, ss     5  1  2  1   Winn R, cf            4  1  1  0   
+Holliday M, lf        4  1  1  2   Snow J, 1b            4  0  1  3   
+Atkins G, 3b          3  0  0  0   Alou M, lf            0  0  0  0   
+Bigbie L, rf          4  0  0  0   Alfonzo E, ph-3b      2  0  0  0   
+Shealy R, 1b          4  1  2  0   Durham R, 2b          4  0  1  0   
+Gonzalez L, 2b        3  0  2  0   Feliz P, 3b-lf        3  0  1  0   
+Closser J, c          4  1  2  1   Tucker M, rf          3  0  0  0   
+Fuentes B, p          0  0  0  0   Ellison J, ph         0  0  0  0   
+Wright J, p           2  0  0  0   Haad Y, c             3  0  0  0   
+DeJean M, p           0  0  0  0   Cruz D, ph            1  0  0  0   
+Piedra J, ph          1  0  0  0   Tomko B, p            2  0  0  0   
+Ardoin D, c           0  0  0  0   Munter S, p           0  0  0  0   
+                                   Niekro L, ph          1  0  0  0   
+                                   Eyre S, p             0  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                                   Knoedler J, ph        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        29  3  4  3
+
+Colorado         010 030 000 --  4
+San Francisco    002 010 000 --  3
+
+  Colorado             IP  H  R ER BB SO
+Wright J (W)          6.0  3  3  3  6  2
+DeJean M              2.0  0  0  0  0  1
+Fuentes B (S)         1.0  1  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B (L)           6.0  8  4  1  3  4
+Munter S              1.0  0  0  0  0  0
+Eyre S                1.0  1  0  0  0  1
+Hawkins L             1.0  0  0  0  0  1
+
+E -- Haad Y
+DP -- Colorado 1
+LOB -- Colorado 7, San Francisco 8
+2B -- Closser J, Snow J, Gonzalez L, Feliz P
+3B -- Quintanilla O, Closser J
+HR -- Holliday M
+SB -- Vizquel O
+CS -- Gonzalez L
+SH -- Ellison J
+HBP -- by Fuentes B (Knoedler J)
+WP -- Tomko B 2
+Balk -- Wright J
+T -- 2:36
+A -- 39349
+     Game of 8/3/2005 -- Colorado at San Francisco (N)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Sullivan C, cf        5  0  0  0   Vizquel O, ss         4  1  1  0   
+Quintanilla O, ss     3  0  0  0   Winn R, cf            4  0  1  0   
+Holliday M, lf        4  0  0  0   Snow J, 1b            3  0  1  0   
+Atkins G, 3b          4  0  1  0   Feliz P, lf-3b        3  0  0  1   
+Bigbie L, rf          4  1  2  0   Durham R, 2b          4  0  1  0   
+Shealy R, 1b          4  1  1  1   Tucker M, rf          3  1  1  0   
+Gonzalez L, 2b        3  1  1  1   Cruz D, ph            1  0  0  0   
+Ardoin D, c           2  0  0  0   Alfonzo E, 3b         3  0  1  1   
+Piedra J, ph          1  0  0  0   Ellison J, pr-lf      0  0  0  0   
+Fuentes B, p          0  0  0  0   Haad Y, c             3  0  0  0   
+Kim B, p              3  0  1  0   Hennessey B, p        2  0  0  0   
+Miceli D, p           0  0  0  0   Hawkins L, p          0  0  0  0   
+Closser J, ph-c       1  0  1  1   Niekro L, ph          1  0  0  0   
+                                   Walker T, p           0  0  0  0   
+                                   Eyre S, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  7  3                        31  2  6  2
+
+Colorado         020 000 001 --  3
+San Francisco    100 000 100 --  2
+
+  Colorado             IP  H  R ER BB SO
+Kim B                 7.0  5  2  2  1  4
+Miceli D (W)          1.0  1  0  0  0  1
+Fuentes B (S)         1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Hennessey B           7.0  5  2  2  2  4
+Hawkins L             1.0  0  0  0  0  1
+Walker T (L)          0.2  2  1  0  0  1
+Eyre S                0.1  0  0  0  0  1
+
+E -- Haad Y
+LOB -- Colorado 7, San Francisco 4
+2B -- Snow J, Durham R
+3B -- Tucker M
+HR -- Shealy R, Gonzalez L
+CS -- Ellison J
+SF -- Feliz P
+WP -- Eyre S
+T -- 2:32
+A -- 36239
+     Game of 8/4/2005 -- Colorado at San Francisco (D)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Quintanilla O, ss     5  1  2  0   Vizquel O, ss         4  1  1  0   
+Gonzalez L, 2b        4  1  1  0   Winn R, cf            4  2  3  0   
+Holliday M, lf        5  0  1  0   Tucker M, rf          3  1  1  0   
+Atkins G, 3b          4  0  1  2   Feliz P, lf           3  1  1  3   
+Bigbie L, rf          3  1  2  0   Durham R, 2b          4  1  1  1   
+Shealy R, 1b          4  0  1  1   Niekro L, 1b          4  0  1  2   
+Mohr D, cf            4  0  0  0   Alfonzo E, 3b         4  0  1  0   
+Closser J, c          3  1  2  1   Matheny M, c          4  0  0  0   
+Acevedo J, p          2  0  0  0   Correia K, p          1  0  1  0   
+Miles A, ph           1  0  0  0   Christiansen J, p     0  0  0  0   
+DeJean M, p           0  0  0  0   Munter S, p           0  0  0  0   
+Miceli D, p           0  0  0  0   Cruz D, ph            2  0  0  0   
+Williams R, p         0  0  0  0   Walker T, p           0  0  0  0   
+Piedra J, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4 10  4                        33  6 10  6
+
+Colorado         200 000 110 --  4
+San Francisco    100 000 05x --  6
+
+  Colorado             IP  H  R ER BB SO
+Acevedo J             6.0  3  1  1  2  3
+DeJean M              1.0  0  0  0  0  0
+Miceli D (L)          0.1  5  5  5  0  0
+Williams R            0.2  2  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Correia K             6.0  5  2  2  3  6
+Christiansen J        1.0  1  1  1  0  0
+Munter S (W)          1.0  2  1  1  0  1
+Walker T (S)          1.0  2  0  0  0  2
+
+DP -- San Francisco 1
+LOB -- Colorado 8, San Francisco 6
+2B -- Atkins G, Holliday M, Winn R, Niekro L
+3B -- Winn R, Closser J
+HR -- Closser J
+SB -- Bigbie L
+SF -- Feliz P
+T -- 2:38
+A -- 40721
+     Game of 8/5/2005 -- Houston at San Francisco (N)
+
+  Houston            AB  R  H RBI    San Francisco      AB  R  H RBI
+Taveras W, cf         4  0  1  0   Vizquel O, ss         4  0  0  0   
+Biggio C, 2b          2  0  0  0   Winn R, cf            3  3  2  0   
+Berkman L, rf         3  0  0  0   Niekro L, 1b          3  1  2  2   
+Ensberg M, 3b         4  0  0  0   Feliz P, lf           3  0  1  1   
+Lamb M, 1b            3  0  1  0   Durham R, 2b          4  0  1  0   
+Palmeiro O, lf        3  0  0  0   Alfonzo E, 3b         4  0  1  0   
+Everett A, ss         3  0  0  0   Ellison J, rf         4  0  0  0   
+Ausmus B, c           3  0  1  0   Matheny M, c          3  0  1  0   
+Pettitte A, p         1  0  0  0   Schmidt J, p          3  0  0  0   
+Burke C, ph           1  0  0  0   Hawkins L, p          0  0  0  0   
+Burns M, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     27  0  3  0                        31  4  8  3
+
+Houston          000 000 000 --  0
+San Francisco    201 000 01x --  4
+
+  Houston              IP  H  R ER BB SO
+Pettitte A (L)        7.0  7  3  3  1  8
+Burns M               1.0  1  1  1  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J (W)         8.0  3  0  0  3  5
+Hawkins L             1.0  0  0  0  0  1
+
+E -- Everett A
+DP -- Houston 1, San Francisco 1
+LOB -- Houston 4, San Francisco 6
+2B -- Winn R
+HR -- Niekro L
+CS -- Taveras W
+SH -- Pettitte A
+HBP -- by Burns M (Winn R)
+T -- 2:19
+A -- 39686
+     Game of 8/6/2005 -- Houston at San Francisco (D)
+
+  Houston            AB  R  H RBI    San Francisco      AB  R  H RBI
+Taveras W, cf         4  0  1  0   Vizquel O, ss         4  0  1  1   
+Springer R, p         0  0  0  0   Winn R, cf            4  0  0  0   
+Biggio C, 2b          4  0  0  0   Snow J, 1b            4  0  0  0   
+Berkman L, 1b         2  1  1  0   Feliz P, lf           4  0  1  0   
+Ensberg M, 3b         3  1  1  2   Durham R, 2b          4  2  3  0   
+Lane J, rf            4  0  1  0   Tucker M, rf          4  0  0  0   
+Everett A, ss         4  0  0  0   Alfonzo E, 3b         4  1  2  2   
+Burke C, lf-cf        3  0  0  0   Matheny M, c          4  2  3  1   
+Lamb M, ph            1  0  0  0   Lowry N, p            1  0  0  0   
+Ausmus B, c           3  0  0  0   Hawkins L, p          0  0  0  0   
+Oswalt R, p           2  0  0  0   Niekro L, ph          0  0  0  0   
+Palmeiro O, ph-lf     1  0  0  0   Walker T, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  2                        33  5 10  4
+
+Houston          000 000 002 --  2
+San Francisco    031 000 01x --  5
+
+  Houston              IP  H  R ER BB SO
+Oswalt R (L)          7.0  9  4  3  1  4
+Springer R            1.0  1  1  1  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N (W)           7.0  1  0  0  3  8
+Hawkins L             1.0  1  0  0  0  2
+Walker T              1.0  2  2  2  0  1
+
+E -- Biggio C
+LOB -- Houston 5, San Francisco 8
+HR -- Matheny M, Ensberg M
+SB -- Durham R
+SH -- Lowry N 2
+T -- 2:27
+A -- 41959
+     Game of 8/7/2005 -- Houston at San Francisco (D)
+
+  Houston            AB  R  H RBI    San Francisco      AB  R  H RBI
+Taveras W, cf         5  1  2  2   Winn R, cf            3  1  1  0   
+Burke C, lf           3  2  2  0   Cruz D, ss            2  0  1  0   
+Berkman L, 1b         4  1  1  1   Niekro L, 1b          4  0  0  0   
+Ensberg M, 3b         4  1  1  1   Feliz P, lf           4  0  0  1   
+Lidge B, p            0  0  0  0   Durham R, 2b          3  0  0  0   
+Lane J, rf            5  1  2  4   Alfonzo E, 3b         4  0  1  0   
+Vizcaino J, 2b        4  0  0  0   Ellison J, rf         3  0  2  0   
+Everett A, ss         4  0  1  0   Matheny M, c          4  0  0  0   
+Ausmus B, c           4  1  1  0   Cooper B, p           2  0  1  0   
+Clemens R, p          2  0  0  0   Tucker M, ph          1  0  0  0   
+Biggio C, ph          1  0  0  0   Eyre S, p             0  0  0  0   
+Wheeler D, p          0  0  0  0   Fassero J, p          0  0  0  0   
+Bruntlett E, ph-3b    1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  8 11  8                        30  1  6  1
+
+Houston          100 000 043 --  8
+San Francisco    100 000 000 --  1
+
+  Houston              IP  H  R ER BB SO
+Clemens R (W)         7.0  6  1  0  2  4
+Wheeler D             1.0  0  0  0  1  2
+Lidge B               1.0  0  0  0  1  2
+
+  San Francisco        IP  H  R ER BB SO
+Cooper B              7.0  4  1  1  2  3
+Eyre S (L)            0.2  3  4  4  1  0
+Fassero J             1.1  4  3  3  1  1
+
+E -- Lane J, Alfonzo E
+DP -- Houston 2, San Francisco 2
+LOB -- Houston 6, San Francisco 7
+2B -- Burke C 2, Lane J, Winn R, Berkman L, Bruntlett E
+HR -- Lane J
+SB -- Ellison J
+SH -- Ellison J
+T -- 2:40
+A -- 42947
+     Game of 8/22/2005 -- Philadelphia at San Francisco (N)
+
+  Philadelphia       AB  R  H RBI    San Francisco      AB  R  H RBI
+Rollins J, ss         4  0  0  0   Winn R, cf            4  0  1  0   
+Michaels J, cf        4  0  2  0   Vizquel O, ss         3  1  1  0   
+Abreu B, rf           4  0  2  0   Snow J, 1b            4  1  1  1   
+Burrell P, lf         3  0  0  0   Alou M, lf            4  1  1  3   
+Utley C, 2b           3  0  0  0   Durham R, 2b          3  0  2  0   
+Bell D, 3b            3  0  0  0   Feliz P, 3b           4  0  0  0   
+Martinez R, 1b        3  0  0  0   Tucker M, rf          3  1  2  0   
+Lieberthal M, c       3  0  1  0   Matheny M, c          4  1  1  0   
+Lieber J, p           2  0  0  0   Lowry N, p            1  0  0  1   
+Perez T, ph           1  0  0  0   Hawkins L, p          0  0  0  0   
+Fultz A, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        30  5  9  5
+
+Philadelphia     000 000 000 --  0
+San Francisco    004 001 00x --  5
+
+  Philadelphia         IP  H  R ER BB SO
+Lieber J (L)          7.0  9  5  5  1  4
+Fultz A               1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N (W)           8.2  5  0  0  1  6
+Hawkins L             0.1  0  0  0  0  1
+
+DP -- Philadelphia 1, San Francisco 2
+LOB -- Philadelphia 4, San Francisco 6
+2B -- Matheny M, Snow J, Tucker M, Michaels J
+HR -- Alou M
+SB -- Vizquel O
+SH -- Lowry N
+SF -- Lowry N
+HBP -- by Lieber J (Vizquel O), by Fultz A (Tucker M)
+T -- 2:13
+A -- 38947
+     Game of 8/23/2005 -- Philadelphia at San Francisco (N)
+
+  Philadelphia       AB  R  H RBI    San Francisco      AB  R  H RBI
+Rollins J, ss         5  0  1  1   Winn R, cf            4  1  1  0   
+Cormier R, p          0  0  0  0   Vizquel O, ss         3  0  1  1   
+Lofton K, cf          4  1  2  0   Snow J, 1b            2  0  0  0   
+Utley C, 2b           5  2  1  1   Haad Y, ph            1  0  0  0   
+Abreu B, rf           6  1  1  0   Alou M, lf            3  0  0  1   
+Burrell P, lf         4  2  3  2   Durham R, 2b          3  0  0  0   
+Chavez E, lf          0  0  0  0   Tucker M, rf          3  0  0  0   
+Howard R, 1b          5  3  4  3   Feliz P, 3b           3  0  0  0   
+Bell D, 3b            4  0  1  1   Matheny M, c          3  0  0  0   
+Lieberthal M, c       5  0  1  1   Tomko B, p            0  0  0  0   
+Padilla V, p          4  0  1  1   Cruz D, ph            1  0  0  0   
+Perez T, ph-ss        1  1  1  0   Fassero J, p          0  0  0  0   
+                                   Linden T, ph          1  1  1  0   
+                                   Christiansen J, p     0  0  0  0   
+                                   Accardo J, p          0  0  0  0   
+                                   Niekro L, ph          1  0  0  0   
+                                   Cooper B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     43 10 16 10                        28  2  3  2
+
+Philadelphia     023 000 401 -- 10
+San Francisco    100 001 000 --  2
+
+  Philadelphia         IP  H  R ER BB SO
+Padilla V (W)         8.0  3  2  2  0  3
+Cormier R             1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B (L)           3.0  8  5  5  1  2
+Fassero J             3.0  1  0  0  1  4
+Christiansen J        0.1  4  4  3  1  0
+Accardo J             1.2  1  0  0  0  2
+Cooper B              1.0  2  1  1  1  0
+
+E -- Feliz P
+LOB -- Philadelphia 12, San Francisco 2
+2B -- Winn R, Burrell P, Howard R, Lofton K, Linden T, Vizquel O, Rollins J
+3B -- Utley C
+HR -- Howard R
+SB -- Rollins J 2
+SH -- Vizquel O
+SF -- Alou M, Burrell P
+HBP -- by Padilla V (Snow J), by Accardo J (Lofton K)
+T -- 2:43
+A -- 37892
+     Game of 8/24/2005 -- Philadelphia at San Francisco (N)
+
+  Philadelphia       AB  R  H RBI    San Francisco      AB  R  H RBI
+Rollins J, ss         4  1  1  1   Winn R, cf            5  1  1  0   
+Lofton K, cf          5  1  3  0   Vizquel O, ss         4  0  1  0   
+Utley C, 2b           4  2  2  1   Snow J, 1b            3  1  1  0   
+Abreu B, rf           5  0  3  2   Feliz P, ph           1  0  0  0   
+Burrell P, lf         2  0  0  0   Alou M, lf            2  1  2  0   
+Urbina U, p           0  0  0  0   Durham R, 2b          4  0  1  2   
+Wagner B, p           0  0  0  0   Alfonzo E, 3b         3  0  0  1   
+Howard R, 1b          5  0  0  1   Linden T, rf          4  0  1  0   
+Bell D, 3b            5  1  3  0   Matheny M, c          4  1  2  0   
+Lieberthal M, c       4  1  1  0   Hennessey B, p        1  0  0  0   
+Lidle C, p            3  1  1  1   Christiansen J, p     0  0  0  0   
+Tejeda R, p           0  0  0  0   Tucker M, ph          1  0  0  0   
+Perez T, ph           1  0  0  0   Hawkins L, p          0  0  0  0   
+Madson R, p           0  0  0  0   Eyre S, p             0  0  0  0   
+Chavez E, lf          1  0  0  0   Cruz D, ph            1  0  0  0   
+                                   Benitez A, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  7 14  6                        33  4  9  3
+
+Philadelphia     130 011 010 --  7
+San Francisco    211 000 000 --  4
+
+  Philadelphia         IP  H  R ER BB SO
+Lidle C               4.0  7  4  4  1  2
+Tejeda R (W)          2.0  0  0  0  1  3
+Madson R              1.0  1  0  0  2  0
+Urbina U              1.0  1  0  0  0  2
+Wagner B (S)          1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Hennessey B (L)       5.0 10  5  5  2  3
+Christiansen J        1.0  1  1  0  1  1
+Hawkins L             1.0  1  0  0  0  0
+Eyre S                1.0  2  1  1  1  1
+Benitez A             1.0  0  0  0  0  0
+
+E -- Alou M 2, Christiansen J
+DP -- Philadelphia 1, San Francisco 1
+LOB -- Philadelphia 11, San Francisco 8
+2B -- Lieberthal M, Utley C
+3B -- Alou M
+SB -- Winn R, Lofton K, Vizquel O, Linden T
+SH -- Hennessey B
+SF -- Alfonzo E, Rollins J, Utley C
+WP -- Lidle C
+T -- 3:13
+A -- 36812
+     Game of 8/26/2005 -- New York at San Francisco (N)
+
+  New York           AB  R  H RBI    San Francisco      AB  R  H RBI
+Reyes J, ss           4  0  1  0   Winn R, cf            4  0  1  0   
+Cairo M, 2b           4  0  1  0   Vizquel O, ss         4  0  1  0   
+Beltran C, cf         4  0  1  0   Feliz P, lf-3b        4  0  0  0   
+Floyd C, lf           4  0  1  0   Alou M, rf-lf         4  0  0  0   
+Wright D, 3b          4  1  2  1   Durham R, 2b          4  0  0  0   
+Jacobs M, 1b          4  0  0  0   Alfonzo E, 3b         3  0  1  0   
+Looper B, p           0  0  0  0   Linden T, pr-rf       0  0  0  0   
+Diaz V, rf            3  0  0  0   Snow J, 1b            2  0  0  0   
+Castro R, c           3  0  1  0   Matheny M, c          3  0  0  0   
+Trachsel S, p         3  0  0  0   Correia K, p          1  0  0  0   
+Woodward C, 1b        0  0  0  0   Tucker M, ph          0  0  0  0   
+                                   Eyre S, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  7  1                        29  0  3  0
+
+New York         010 000 000 --  1
+San Francisco    000 000 000 --  0
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        8.0  2  0  0  2  6
+Looper B (S)          1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Correia K (L)         8.0  7  1  1  0  7
+Eyre S                1.0  0  0  0  0  2
+
+E -- Durham R
+DP -- San Francisco 2
+LOB -- New York 5, San Francisco 5
+2B -- Vizquel O
+HR -- Wright D
+SB -- Beltran C, Winn R
+SH -- Snow J
+T -- 2:27
+A -- 39591
+     Game of 8/27/2005 -- New York at San Francisco (D)
+
+  New York           AB  R  H RBI    San Francisco      AB  R  H RBI
+Reyes J, ss           4  1  1  0   Winn R, cf            4  0  0  0   
+Matsui K, 2b          4  0  0  1   Vizquel O, ss         4  0  1  0   
+Beltran C, cf         4  0  1  0   Niekro L, 1b          4  0  0  0   
+Floyd C, lf           3  0  0  0   Benitez A, p          0  0  0  0   
+Wright D, 3b          4  0  1  0   Alou M, lf            2  0  0  0   
+Jacobs M, 1b          3  0  0  0   Alfonzo E, 3b         2  1  1  0   
+Diaz V, rf            4  0  1  0   Cruz D, 2b            3  1  1  0   
+DiFelice M, c         1  0  0  0   Linden T, rf          3  0  1  1   
+Offerman J, ph        0  0  0  0   Matheny M, c          3  0  1  1   
+Glavine T, p          2  0  0  0   Schmidt J, p          2  0  0  0   
+Anderson M, ph        0  0  0  0   Eyre S, p             0  0  0  0   
+Padilla J, p          0  0  0  0   Tucker M, ph          1  0  0  0   
+Woodward C, ph        1  0  0  0   Snow J, 1b            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        28  2  5  2
+
+New York         000 100 000 --  1
+San Francisco    020 000 00x --  2
+
+  New York             IP  H  R ER BB SO
+Glavine T (L)         6.0  4  2  2  0  3
+Padilla J             2.0  1  0  0  2  1
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J (W)         7.0  3  1  1  5  4
+Eyre S                1.0  0  0  0  0  1
+Benitez A (S)         1.0  1  0  0  1  1
+
+DP -- New York 1, San Francisco 1
+LOB -- New York 8, San Francisco 4
+2B -- Cruz D, Matheny M, Diaz V
+3B -- Reyes J
+T -- 2:36
+A -- 42180
+     Game of 8/28/2005 -- New York at San Francisco (D)
+
+  New York           AB  R  H RBI    San Francisco      AB  R  H RBI
+Reyes J, ss           4  0  0  0   Winn R, cf            4  1  2  0   
+Cairo M, 1b           3  0  0  0   Vizquel O, ss         4  0  0  0   
+Beltran C, cf         4  1  1  0   Snow J, 1b            4  1  2  2   
+Wright D, 3b          4  0  1  0   Alou M, lf            3  0  0  0   
+Woodward C, lf        4  0  1  0   Durham R, 2b          3  1  1  0   
+Diaz V, rf            4  0  1  0   Feliz P, 3b           4  1  1  2   
+Castro R, c           3  0  0  0   Linden T, rf          4  0  1  0   
+Matsui K, 2b          4  0  2  0   Matheny M, c          4  0  1  0   
+Benson K, p           1  0  0  0   Lowry N, p            3  0  1  0   
+Offerman J, ph        1  0  0  0   Benitez A, p          0  0  0  0   
+Bell H, p             0  0  0  0                                      
+Anderson M, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  0                        33  4  9  4
+
+New York         000 001 000 --  1
+San Francisco    000 003 10x --  4
+
+  New York             IP  H  R ER BB SO
+Benson K (L)          6.0  7  3  3  2  2
+Bell H                2.0  2  1  1  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N (W)           8.0  5  1  1  1  6
+Benitez A (S)         1.0  1  0  0  0  2
+
+LOB -- New York 8, San Francisco 7
+2B -- Winn R, Matheny M, Beltran C
+HR -- Snow J, Feliz P
+SB -- Winn R
+SH -- Benson K
+HBP -- by Lowry N (Cairo M)
+WP -- Lowry N
+T -- 2:36
+A -- 41659
+     Game of 8/29/2005 -- Colorado at San Francisco (N)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Sullivan C, cf        4  0  0  0   Winn R, cf            4  0  0  0   
+Gonzalez L, 2b        4  0  0  0   Vizquel O, ss         4  0  1  0   
+Helton T, 1b          3  1  0  0   Snow J, 1b            4  0  0  0   
+Holliday M, lf        4  1  2  1   Alou M, lf            4  1  2  1   
+Atkins G, 3b          3  0  2  0   Durham R, 2b          3  0  0  0   
+Mohr D, rf            4  0  0  0   Feliz P, 3b           4  0  2  0   
+Quintanilla O, ss     3  0  2  0   Linden T, rf          2  0  0  0   
+Ardoin D, c           4  0  0  0   Matheny M, c          3  0  0  0   
+Kim B, p              3  0  0  0   Cain M, p             1  0  0  0   
+DeJean M, p           0  0  0  0   Niekro L, ph          1  0  0  0   
+Piedra J, ph          1  0  1  0   Accardo J, p          0  0  0  0   
+Fuentes B, p          0  0  0  0   Cruz D, ph            1  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  1                        31  1  5  1
+
+Colorado         010 100 000 --  2
+San Francisco    000 100 000 --  1
+
+  Colorado             IP  H  R ER BB SO
+Kim B (W)             7.0  5  1  1  0  6
+DeJean M              1.0  0  0  0  0  0
+Fuentes B (S)         1.0  0  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (L)            5.0  3  2  2  4  2
+Accardo J             2.0  2  0  0  0  1
+Hawkins L             2.0  2  0  0  1  2
+
+DP -- San Francisco 1
+LOB -- Colorado 9, San Francisco 5
+2B -- Piedra J
+HR -- Holliday M, Alou M
+SH -- Linden T
+HBP -- by Kim B (Durham R)
+T -- 2:27
+A -- 36433
+     Game of 8/30/2005 -- Colorado at San Francisco (N)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Sullivan C, cf        3  0  0  0   Winn R, cf            4  0  1  1   
+Gonzalez L, 2b        4  1  1  1   Chavez A, ss          4  0  0  0   
+Helton T, 1b          4  2  3  1   Snow J, 1b            4  0  2  0   
+Holliday M, lf        4  0  1  1   Alou M, rf-lf         4  0  1  0   
+Atkins G, 3b          4  0  1  0   Feliz P, lf-3b        3  1  1  0   
+Miles A, pr           0  0  0  0   Durham R, 2b          4  2  3  1   
+Mohr D, rf            4  0  1  0   Alfonzo E, 3b         4  1  2  1   
+Quintanilla O, ss     4  0  1  0   Benitez A, p          0  0  0  0   
+Ardoin D, c           3  0  0  0   Haad Y, c             3  0  0  0   
+Closser J, ph         0  0  0  0   Ellison J, ph-rf      1  0  0  0   
+Cook A, p             2  0  0  0   Hennessey B, p        2  0  1  0   
+Piedra J, ph          0  0  0  0   Linden T, ph          1  0  0  0   
+Cortes D, p           0  0  0  0   Taschner J, p         0  0  0  0   
+DeJean M, p           0  0  0  0   Matheny M, c          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  8  3                        34  4 11  3
+
+Colorado         100 101 000 --  3
+San Francisco    010 000 12x --  4
+
+  Colorado             IP  H  R ER BB SO
+Cook A                6.0  7  1  1  0  3
+Cortes D              1.0  2  1  1  0  0
+DeJean M (L)          1.0  2  2  2  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Hennessey B           7.0  7  3  3  2  7
+Taschner J (W)        1.0  0  0  0  0  1
+Benitez A (S)         1.0  1  0  0  0  1
+
+DP -- Colorado 2, San Francisco 2
+LOB -- Colorado 4, San Francisco 7
+2B -- Durham R 2, Winn R
+3B -- Holliday M
+HR -- Helton T, Gonzalez L
+SB -- Winn R
+CS -- Miles A
+T -- 2:31
+A -- 36439
+     Game of 8/31/2005 -- Colorado at San Francisco (D)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Sullivan C, cf        5  0  2  0   Ellison J, cf         4  0  1  0   
+Miles A, 2b           5  1  3  1   Linden T, rf          4  1  2  1   
+Helton T, 1b          4  0  0  0   Durham R, 2b          4  1  1  1   
+Holliday M, lf        5  0  2  0   Alou M, lf            4  1  1  1   
+Atkins G, 3b          4  0  1  1   Feliz P, 3b           3  0  0  0   
+Mohr D, rf            5  1  0  0   Niekro L, 1b          3  1  1  0   
+Quintanilla O, ss     3  0  1  0   Matheny M, c          3  1  2  2   
+Closser J, c          3  1  2  1   Chavez A, ss          2  0  0  0   
+Francis J, p          2  0  0  0   Vizquel O, ss         0  0  0  0   
+Wright J, p           0  0  0  0   Correia K, p          0  0  0  0   
+Piedra J, ph          1  0  0  0   Fassero J, p          1  0  0  0   
+Dohmann S, p          0  0  0  0   Winn R, ph            0  0  0  0   
+                                   Tomko B, p            0  0  0  0   
+                                   Snow J, ph            0  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                                   Eyre S, p             0  0  0  0   
+                                   Benitez A, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  3 11  3                        28  5  8  5
+
+Colorado         100 100 010 --  3
+San Francisco    020 101 10x --  5
+
+  Colorado             IP  H  R ER BB SO
+Francis J (L)         6.0  6  4  4  1  4
+Wright J              1.0  2  1  1  1  0
+Dohmann S             1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Correia K             2.0  4  1  1  2  2
+Fassero J (W)         3.0  2  1  0  2  3
+Tomko B               2.0  3  0  0  0  2
+Hawkins L             0.2  2  1  1  0  0
+Eyre S                0.1  0  0  0  0  0
+Benitez A (S)         1.0  0  0  0  0  2
+
+E -- Chavez A
+DP -- Colorado 2, San Francisco 1
+LOB -- Colorado 12, San Francisco 2
+2B -- Atkins G, Closser J
+3B -- Niekro L
+HR -- Alou M, Matheny M, Durham R, Linden T
+CS -- Ellison J
+SH -- Quintanilla O, Chavez A
+T -- 2:32
+A -- 36508
+     Game of 9/8/2005 -- Chicago at San Francisco (N)
+
+  Chicago            AB  R  H RBI    San Francisco      AB  R  H RBI
+Hairston J, cf-lf     5  0  0  0   Winn R, cf            5  1  2  1   
+Cedeno R, ss          5  1  3  0   Vizquel O, ss         3  1  1  0   
+Lee D, 1b             5  1  1  0   Snow J, 1b            1  0  0  1   
+Garciaparra N, 3b     5  1  2  3   Alou M, lf            3  0  1  0   
+Barrett M, c          3  1  2  2   Durham R, 2b          4  0  2  1   
+Burnitz J, rf         4  0  0  0   Alfonzo E, 3b         4  0  0  0   
+Perez N, 2b           4  0  0  0   Linden T, rf          4  0  0  0   
+Murton M, lf          2  0  1  0   Matheny M, c          4  0  0  0   
+Patterson C, pr-cf    0  0  0  0   Lowry N, p            3  1  1  0   
+Zambrano C, p         2  1  2  0   Walker T, p           0  0  0  0   
+Walker T, ph          1  0  0  0   Taschner J, p         0  0  0  0   
+Novoa R, p            0  0  0  0   Kinney M, p           0  0  0  0   
+Dempster R, p         0  0  0  0   Ortmeier D, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 11  5                        32  3  7  3
+
+Chicago          300 000 200 --  5
+San Francisco    100 020 000 --  3
+
+  Chicago              IP  H  R ER BB SO
+Zambrano C (W)        7.0  6  3  3  3  6
+Novoa R               1.0  1  0  0  0  1
+Dempster R (S)        1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N (L)           6.2 10  5  5  1  4
+Walker T*             0.0  0  0  0  1  0
+Taschner J            0.1  0  0  0  0  1
+Kinney M              2.0  1  0  0  1  0
+  * Pitched to 1 batter in 7th
+
+LOB -- Chicago 8, San Francisco 7
+2B -- Winn R, Garciaparra N
+3B -- Lee D
+HR -- Barrett M, Winn R
+SH -- Zambrano C, Vizquel O
+SF -- Snow J
+T -- 2:44
+A -- 37042
+     Game of 9/9/2005 -- Chicago at San Francisco (N)
+
+  Chicago            AB  R  H RBI    San Francisco      AB  R  H RBI
+Hairston J, lf        4  0  1  0   Winn R, cf            4  0  2  0   
+Perez N, ss           3  0  0  0   Vizquel O, ss         3  0  0  1   
+Lee D, 1b             4  1  1  1   Snow J, 1b            4  0  0  0   
+Burnitz J, rf         4  0  0  0   Alou M, lf            3  1  0  0   
+Garciaparra N, 3b     3  0  0  0   Durham R, 2b          4  0  2  0   
+Walker T, 2b          3  0  0  0   Feliz P, 3b           4  0  1  0   
+Barrett M, c          3  0  0  0   Ortmeier D, rf        3  0  1  1   
+Patterson C, cf       3  0  0  0   Matheny M, c          3  0  0  0   
+Williams J, p         2  0  0  0   Cain M, p             3  1  1  0   
+Macias J, ph          1  0  0  0                                      
+Wuertz M, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  2  1                        31  2  7  2
+
+Chicago          000 100 000 --  1
+San Francisco    001 001 00x --  2
+
+  Chicago              IP  H  R ER BB SO
+Williams J (L)        7.0  7  2  1  2  1
+Wuertz M              1.0  0  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (W)            9.0  2  1  1  1  8
+
+E -- Perez N, Garciaparra N
+DP -- Chicago 1
+LOB -- Chicago 3, San Francisco 7
+2B -- Winn R, Cain M
+HR -- Lee D
+SB -- Vizquel O
+WP -- Cain M
+T -- 2:06
+A -- 39936
+     Game of 9/10/2005 -- Chicago at San Francisco (D)
+
+  Chicago            AB  R  H RBI    San Francisco      AB  R  H RBI
+Patterson C, cf       5  0  0  0   Winn R, cf            4  1  2  0   
+Hairston J, lf        4  2  2  0   Vizquel O, ss         3  0  0  0   
+Lee D, 1b             5  1  2  1   Snow J, 1b            4  1  1  1   
+Burnitz J, rf         4  0  1  2   Alou M, lf            3  0  2  0   
+McClain S, 3b         5  0  0  0   Durham R, 2b          4  0  1  0   
+Walker T, 2b          4  0  1  0   Feliz P, 3b           2  0  0  1   
+Ohman W, p            0  0  0  0   Ortmeier D, rf        3  0  0  0   
+Novoa R, p            0  0  0  0   Haad Y, c             2  0  0  0   
+Dempster R, p         0  0  0  0   Niekro L, ph          0  0  0  0   
+Cedeno R, ss          0  0  0  0   Knoedler J, c         1  0  0  0   
+Perez N, ss           3  1  1  0   Hennessey B, p        2  0  0  0   
+Blanco H, c           4  1  3  2   Taschner J, p         0  0  0  0   
+Prior M, p            3  0  0  0   Linden T, ph          1  0  0  0   
+Macias J, 2b          1  0  1  0   Accardo J, p          0  0  0  0   
+                                   Walker T, p           0  0  0  0   
+                                   Alfonzo E, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  5 11  5                        30  2  6  2
+
+Chicago          000 022 100 --  5
+San Francisco    200 000 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Prior M (W)           6.2  5  2  2  3  7
+Ohman W               0.2  0  0  0  1  0
+Novoa R               0.2  1  0  0  1  2
+Dempster R (S)        1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Hennessey B (L)*      6.0  9  5  5  1  1
+Taschner J            1.0  0  0  0  0  2
+Accardo J             1.0  2  0  0  0  1
+Walker T              1.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Haad Y
+DP -- Chicago 1
+LOB -- Chicago 9, San Francisco 8
+2B -- Snow J, Winn R, Lee D 2
+HR -- Blanco H
+CS -- Vizquel O
+SF -- Feliz P
+HBP -- by Hennessey B (Hairston J), by Hennessey B (Cedeno R), by Prior M (Niekro L)
+T -- 3:01
+A -- 42013
+     Game of 9/11/2005 -- Chicago at San Francisco (D)
+
+  Chicago            AB  R  H RBI    San Francisco      AB  R  H RBI
+Hairston J, cf-lf     4  1  1  0   Winn R, cf            4  1  2  0   
+Perez N, ss           4  0  1  1   Vizquel O, ss         4  0  1  0   
+Lee D, 1b             3  0  0  0   Durham R, 2b          3  0  0  0   
+Burnitz J, rf         4  0  0  0   Ellison J, pr         0  0  0  0   
+Garciaparra N, 3b     4  1  2  0   Chavez A, 2b          0  0  0  0   
+Walker T, 2b          4  0  1  1   Alou M, lf            3  1  2  1   
+Dempster R, p         0  0  0  0   Ramirez J, rf         1  0  0  0   
+Barrett M, c          3  0  0  0   Feliz P, 3b           4  0  1  0   
+Murton M, lf          2  1  1  1   Niekro L, 1b          4  0  0  0   
+Williamson S, p       0  0  0  0   Matheny M, c          4  0  1  0   
+Macias J, ph-2b       1  0  0  0   Linden T, rf-lf       3  0  0  0   
+Rusch G, p            2  0  0  0   Tomko B, p            1  0  0  0   
+Wuertz M, p           0  0  0  0   Ortmeier D, ph        1  0  0  0   
+Patterson C, ph-cf    2  0  0  0   Hawkins L, p          0  0  0  0   
+                                   Eyre S, p             0  0  0  0   
+                                   Snow J, ph            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        33  2  7  1
+
+Chicago          010 010 010 --  3
+San Francisco    100 001 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Rusch G               5.1  7  2  2  1  4
+Wuertz M (W)          1.2  0  0  0  0  1
+Williamson S          1.0  0  0  0  0  2
+Dempster R (S)        1.0  0  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B               7.0  3  2  2  1  5
+Hawkins L (L)         0.2  2  1  1  1  1
+Eyre S                1.1  1  0  0  1  3
+
+E -- Vizquel O
+LOB -- Chicago 6, San Francisco 7
+2B -- Winn R, Hairston J, Perez N
+3B -- Walker T
+HR -- Murton M
+SB -- Winn R
+SH -- Tomko B
+HBP -- by Williamson S (Durham R)
+WP -- Wuertz M, Williamson S 2
+T -- 2:37
+A -- 41052
+     Game of 9/12/2005 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Roberts D, cf         3  1  1  0   Winn R, cf            4  0  1  0   
+Loretta M, 2b         3  1  0  0   Vizquel O, ss         4  0  0  0   
+Giles B, rf           2  1  1  0   Snow J, 1b            4  0  2  0   
+Sweeney M, 1b         2  0  0  1   Ellison J, pr-lf      0  0  0  0   
+Nady X, ph            0  0  0  0   Bonds B, lf           4  1  1  0   
+Klesko R, ph-1b       1  0  0  0   Feliz P, 1b           0  0  0  0   
+Randa J, 3b           4  0  1  1   Durham R, 2b          3  2  3  2   
+Hernandez R, c        4  0  2  0   Alfonzo E, 3b         4  1  3  0   
+Johnson B, lf         3  0  0  0   Linden T, rf          4  0  0  0   
+Greene K, ss          3  0  0  0   Matheny M, c          4  0  1  1   
+Eaton A, p            2  0  0  0   Correia K, p          0  0  0  0   
+Young E, ph           1  0  0  0   Kinney M, p           2  0  0  0   
+Seanez R, p           0  0  0  0   Niekro L, ph          1  0  0  0   
+Otsuka A, p           0  0  0  0   Taschner J, p         0  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                                   Knoedler J, ph        1  0  1  0   
+                                   Benitez A, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  3  5  2                        35  4 12  3
+
+San Diego        300 000 000 --  3
+San Francisco    020 200 00x --  4
+
+  San Diego            IP  H  R ER BB SO
+Eaton A (L)           6.0 10  4  4  0  4
+Seanez R              1.0  1  0  0  2  1
+Otsuka A              1.0  1  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Correia K             0.1  2  3  3  2  0
+Kinney M (W)          5.2  3  0  0  3  3
+Taschner J            1.1  0  0  0  0  0
+Hawkins L             0.2  0  0  0  0  0
+Benitez A (S)         1.0  0  0  0  0  1
+
+DP -- San Diego 1, San Francisco 3
+LOB -- San Diego 5, San Francisco 9
+2B -- Bonds B, Alfonzo E
+HR -- Durham R
+SB -- Ellison J
+CS -- Giles B
+SF -- Sweeney M
+HBP -- by Correia K (Loretta M)
+WP -- Correia K
+PB -- Hernandez R
+T -- 2:38
+A -- 39095
+     Game of 9/13/2005 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Young E, lf           4  1  3  1   Winn R, cf            4  1  0  0   
+Klesko R, ph          1  0  0  0   Vizquel O, ss         5  0  2  0   
+Loretta M, 2b         5  0  0  0   Feliz P, 1b-lf        5  1  2  1   
+Randa J, 3b           4  0  2  0   Bonds B, lf           2  0  1  0   
+Giles B, rf           4  1  1  1   Ellison J, pr-rf      1  1  0  0   
+Hernandez R, c        4  0  2  1   Durham R, 2b          3  1  2  1   
+Nady X, 1b            3  0  2  0   Alfonzo E, 3b         4  1  2  0   
+Hensley C, p          0  0  0  0   Ortmeier D, rf        3  0  0  0   
+Hammond C, p          0  0  0  0   Niekro L, ph-1b       1  0  1  1   
+Sweeney M, ph         1  0  0  0   Matheny M, c          4  0  2  2   
+Cassidy S, p          0  0  0  0   Lowry N, p            2  0  1  0   
+Greene K, ss          4  0  0  0   Linden T, ph          1  0  1  0   
+Johnson B, cf         1  1  0  0   Eyre S, p             0  0  0  0   
+Roberts D, ph         1  0  0  0   Knoedler J, ph        1  0  0  0   
+Lawrence B, p         1  0  0  0   Hawkins L, p          0  0  0  0   
+Breslow C, p          0  0  0  0   Benitez A, p          0  0  0  0   
+Fick R, 1b            2  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4 11  4                        36  5 14  5
+
+San Diego        210 000 001 --  4
+San Francisco    110 110 10x --  5
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (L)*       4.0  8  4  4  2  4
+Breslow C             0.1  1  0  0  0  0
+Hensley C             2.0  3  1  1  1  0
+Hammond C             0.2  1  0  0  0  0
+Cassidy S             1.0  1  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N (W)           6.0  9  3  3  2  2
+Eyre S                1.0  1  0  0  0  1
+Hawkins L             1.0  0  0  0  0  0
+Benitez A (S)         1.0  1  1  1  0  2
+  * Pitched to 2 batters in 5th
+
+E -- Greene K, Johnson B
+DP -- San Diego 2, San Francisco 2
+LOB -- San Diego 7, San Francisco 11
+2B -- Giles B, Young E, Durham R, Matheny M 2
+HR -- Fick R
+SB -- Young E 2
+CS -- Feliz P, Randa J
+SH -- Lawrence B
+SF -- Durham R
+WP -- Lawrence B
+T -- 2:48
+A -- 37216
+     Game of 9/14/2005 -- San Diego at San Francisco (D)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Roberts D, cf         3  1  0  0   Winn R, cf            5  1  1  1   
+Loretta M, 2b         4  1  0  0   Vizquel O, ss         5  0  1  0   
+Hernandez R, c        6  1  4  0   Niekro L, 1b          3  0  1  0   
+Giles B, rf           4  2  3  2   Ramirez J, pr         0  1  0  0   
+Randa J, 3b           5  0  0  0   Ellison J, rf         1  0  0  0   
+Fick R, 1b            4  0  0  0   Durham R, 2b          3  1  0  0   
+Johnson B, lf         2  0  0  0   Alfonzo E, 3b         3  0  1  0   
+Sweeney M, ph         1  0  0  1   Bonds B, ph           1  0  0  0   
+Jackson D, lf         0  0  0  0   Chavez A, 3b          1  0  0  0   
+Burroughs S, ph       1  0  1  2   Feliz P, lf-1b        4  1  1  2   
+Seanez R, p           0  0  0  0   Matheny M, c          4  0  2  1   
+Hoffman T, p          0  0  0  0   Linden T, rf-lf       3  0  0  0   
+Alexander M, ss       2  0  0  0   Cain M, p             2  0  0  0   
+McAnulty P, ph        1  0  0  0   Taschner J, p         0  0  0  0   
+Greene K, ss          1  0  0  0   Accardo J, p          0  0  0  0   
+Williams W, p         3  0  0  0   Ortmeier D, ph        1  0  0  0   
+Linebrink S, p        0  0  0  0   Walker T, p           0  0  0  0   
+Klesko R, ph          0  0  0  0   Eyre S, p             0  0  0  0   
+Otsuka A, p           0  0  0  0   Benitez A, p          0  0  0  0   
+Nady X, lf            1  0  0  0   Clark D, ph           0  0  0  0   
+                                   Hawkins L, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  5  8  5                        36  4  7  4
+
+San Diego        001 001 002 1 --  5
+San Francisco    001 000 030 0 --  4
+
+  San Diego            IP  H  R ER BB SO
+Williams W            5.1  5  1  1  2  3
+Linebrink S           1.2  0  0  0  0  0
+Otsuka A              1.0  2  3  3  2  1
+Seanez R (W)          1.0  0  0  0  1  1
+Hoffman T (S)         1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Cain M                6.0  3  2  2  6  2
+Taschner J            0.2  1  0  0  1  0
+Accardo J             0.1  0  0  0  0  0
+Walker T              0.2  0  0  0  2  1
+Eyre S                0.1  0  0  0  0  0
+Benitez A             1.0  2  2  2  2  1
+Hawkins L (L)         1.0  2  1  1  1  0
+
+E -- Cain M
+DP -- San Diego 1
+LOB -- San Diego 15, San Francisco 7
+2B -- Feliz P, Hernandez R, Burroughs S
+HR -- Winn R
+SB -- Jackson D
+T -- 3:26
+A -- 38477
+     Game of 9/15/2005 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Aybar W, 3b           5  0  2  3   Winn R, cf            4  0  2  0   
+Robles O, ss          4  0  1  0   Vizquel O, ss         4  0  0  0   
+Kent J, 2b            5  1  0  0   Alfonzo E, 3b         3  0  0  0   
+Saenz O, 1b           3  0  0  0   Cooper B, p           0  0  0  0   
+Phillips J, ph-1b     2  0  0  0   Clark D, ph           1  0  0  0   
+Cruz J, rf            4  2  1  1   Bonds B, lf           3  0  0  0   
+Navarro D, c          5  2  2  1   Ortmeier D, rf        0  0  0  0   
+Edwards M, lf         4  1  3  1   Durham R, 2b          3  0  1  0   
+Schmoll S, p          0  0  0  0   Feliz P, 1b-3b        3  1  1  1   
+Werth J, cf-lf        4  1  1  1   Matheny M, c          3  0  0  0   
+Lowe D, p             3  0  1  0   Haad Y, c             0  0  0  0   
+Repko J, cf           0  0  0  0   Linden T, rf-lf       2  0  0  0   
+                                   Hennessey B, p        0  0  0  0   
+                                   Fassero J, p          2  0  0  0   
+                                   Niekro L, 1b          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  7 11  7                        29  1  4  1
+
+Los Angeles      023 200 000 --  7
+San Francisco    010 000 000 --  1
+
+  Los Angeles          IP  H  R ER BB SO
+Lowe D (W)            8.0  4  1  1  1  4
+Schmoll S             1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Hennessey B (L)       2.2  6  5  3  3  2
+Fassero J             3.1  5  2  2  2  2
+Cooper B              3.0  0  0  0  0  0
+
+E -- Vizquel O
+DP -- Los Angeles 2
+LOB -- Los Angeles 10, San Francisco 2
+2B -- Edwards M, Navarro D, Winn R
+3B -- Cruz J
+HR -- Feliz P
+T -- 2:33
+A -- 39820
+     Game of 9/16/2005 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Aybar W, 3b           4  0  2  0   Winn R, cf            4  2  4  1   
+Choi H, 1b            5  0  2  0   Vizquel O, ss         4  0  2  2   
+Robles O, ss          5  0  0  0   Feliz P, 3b           4  0  0  0   
+Kent J, 2b            4  1  2  0   Bonds B, lf           3  1  1  1   
+Cruz J, rf            5  1  1  0   Ramirez J, rf         0  0  0  0   
+Sanchez D, p          0  0  0  0   Durham R, 2b          3  0  0  0   
+Edwards M, lf         3  0  0  0   Niekro L, 1b          4  0  0  0   
+Repko J, ph-cf        1  0  0  0   Ellison J, rf         3  0  0  0   
+Navarro D, c          3  1  2  0   Eyre S, p             0  0  0  0   
+Werth J, cf           3  1  1  1   Hawkins L, p          0  0  0  0   
+Ledee R, ph           1  0  1  2   Benitez A, p          0  0  0  0   
+Jackson E, pr         0  0  0  0   Alfonzo E, ph         0  0  0  0   
+Brazoban Y, p         0  0  0  0   Clark D, pr           0  1  0  0   
+Grabowski J, rf       0  0  0  0   Matheny M, c          3  0  0  0   
+Penny B, p            2  0  1  1   Tomko B, p            1  1  0  0   
+Myrow B, ph           1  0  0  0   Linden T, rf-lf       2  0  1  1   
+Carrara G, p          0  0  0  0                                      
+Valentin J, ph-lf     1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  4 12  4                        31  5  8  5
+
+Los Angeles      000 020 020 --  4
+San Francisco    200 020 001 --  5
+  1 out when winning run was scored.
+
+  Los Angeles          IP  H  R ER BB SO
+Penny B               6.0  5  4  4  3  5
+Carrara G             1.0  2  0  0  0  0
+Brazoban Y            1.0  0  0  0  0  1
+Sanchez D (L)         0.1  1  1  1  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B               6.2  8  2  2  1  6
+Eyre S                0.2  3  2  2  0  0
+Hawkins L             0.2  1  0  0  1  2
+Benitez A (W)         1.0  0  0  0  0  0
+
+DP -- San Francisco 1
+LOB -- Los Angeles 10, San Francisco 6
+2B -- Navarro D, Winn R, Vizquel O
+3B -- Werth J
+HR -- Winn R, Bonds B
+SB -- Vizquel O
+SH -- Matheny M
+HBP -- by Tomko B (Navarro D)
+T -- 2:54
+A -- 42962
+     Game of 9/17/2005 -- Los Angeles at San Francisco (D)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Aybar W, 3b           3  1  1  1   Winn R, cf            4  1  1  1   
+Robles O, ss          3  0  0  0   Vizquel O, ss         3  0  1  1   
+Kent J, 2b            3  0  0  0   Alfonzo E, 3b         4  0  1  0   
+Ledee R, lf           3  0  0  0   Benitez A, p          0  0  0  0   
+Perez A, ph           0  0  0  0   Durham R, 2b          3  0  0  0   
+Werth J, lf           0  0  0  0   Feliz P, 1b-3b        3  0  0  0   
+Saenz O, 1b           4  0  1  0   Matheny M, c          3  0  0  0   
+Jackson E, pr         0  0  0  0   Linden T, lf          3  0  1  0   
+Cruz J, rf            4  0  0  0   Walker T, p           0  0  0  0   
+Navarro D, c          4  0  1  0   Niekro L, 1b          0  0  0  0   
+Repko J, cf           2  0  0  0   Ortmeier D, rf        2  1  0  0   
+Weaver J, p           3  0  0  0   Schmidt J, p          1  0  0  0   
+                                   Accardo J, p          1  0  1  0   
+                                   Eyre S, p             0  0  0  0   
+                                   Ellison J, lf         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  1  3  1                        27  2  5  2
+
+Los Angeles      001 000 000 --  1
+San Francisco    001 000 01x --  2
+
+  Los Angeles          IP  H  R ER BB SO
+Weaver J (L)          8.0  5  2  2  0  4
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J             5.0  2  1  1  4  6
+Accardo J             2.0  0  0  0  0  0
+Eyre S                0.2  0  0  0  1  0
+Walker T (W)          0.1  0  0  0  0  0
+Benitez A (S)         1.0  1  0  0  0  0
+
+E -- Winn R, Kent J
+DP -- Los Angeles 1, San Francisco 1
+LOB -- Los Angeles 6, San Francisco 4
+2B -- Alfonzo E
+HR -- Aybar W, Winn R
+CS -- Perez A
+SH -- Vizquel O, Ellison J
+HBP -- by Weaver J (Ortmeier D)
+T -- 2:28
+A -- 42864
+     Game of 9/18/2005 -- Los Angeles at San Francisco (D)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Aybar W, 3b           5  0  0  0   Winn R, cf            4  1  3  2   
+Robles O, ss          4  1  1  1   Vizquel O, ss         1  1  0  0   
+Perez A, 2b           4  0  1  0   Feliz P, 1b-3b        4  0  1  0   
+Kent J, 1b            4  0  1  0   Bonds B, lf           3  1  2  2   
+Cruz J, rf            4  1  3  1   Ellison J, rf         0  0  0  0   
+Navarro D, c          3  1  1  0   Alou M, rf            4  0  1  0   
+Edwards M, lf         4  0  1  1   Linden T, lf          0  0  0  0   
+Werth J, cf           2  0  0  0   Durham R, 2b          4  0  0  0   
+Dessens E, p          1  0  0  0   Alfonzo E, 3b         4  0  1  0   
+Phillips J, ph        1  0  1  0   Benitez A, p          0  0  0  0   
+Houlton D, p          0  0  0  0   Matheny M, c          3  1  1  1   
+Myrow B, ph           1  0  1  0   Lowry N, p            2  1  1  0   
+Osoria F, p           0  0  0  0   Kinney M, p           0  0  0  0   
+Kuo H, p              0  0  0  0   Clark D, ph           1  0  0  0   
+Brazoban Y, p         0  0  0  0   Taschner J, p         0  0  0  0   
+Ledee R, ph           1  0  0  0   Walker T, p           0  0  0  0   
+                                   Niekro L, 1b          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3 10  3                        30  5 10  5
+
+Los Angeles      001 101 000 --  3
+San Francisco    003 001 01x --  5
+
+  Los Angeles          IP  H  R ER BB SO
+Dessens E             4.0  6  3  3  1  1
+Houlton D             1.0  1  0  0  1  0
+Osoria F (L)          2.0  2  1  1  0  0
+Kuo H*                0.0  1  1  1  0  0
+Brazoban Y            1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Lowry N               5.0  5  2  2  2  5
+Kinney M (W)          1.0  4  1  1  0  0
+Taschner J            1.0  0  0  0  0  0
+Walker T              1.0  1  0  0  0  0
+Benitez A (S)         1.0  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Feliz P
+DP -- Los Angeles 2, San Francisco 1
+LOB -- Los Angeles 8, San Francisco 5
+2B -- Alou M, Lowry N, Feliz P, Navarro D, Cruz J
+HR -- Robles O, Winn R, Cruz J, Matheny M, Bonds B
+SB -- Winn R
+CS -- Perez A
+SH -- Vizquel O, Navarro D
+SF -- Bonds B
+HBP -- by Kinney M (Werth J)
+T -- 2:28
+A -- 42659
+     Game of 9/30/2005 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Gonzalez L, lf        4  0  1  0   Winn R, cf            4  2  4  2   
+Green A, 2b           3  2  2  1   Vizquel O, ss         4  0  1  0   
+Tracy C, rf           4  2  1  2   Niekro L, 1b          3  0  1  0   
+Glaus T, 3b           4  1  1  0   Durham R, ph          1  0  0  0   
+Snyder C, c           1  0  0  0   Hawkins L, p          0  0  0  0   
+Green S, cf           4  1  2  0   Fassero J, p          0  0  0  0   
+Cintron A, ss-3b      5  0  2  4   Walker T, p           0  0  0  0   
+Jackson C, 1b         4  1  1  0   Alou M, lf            4  0  1  0   
+Worrell T, p          1  0  0  0   Alfonzo E, 2b         2  1  1  0   
+Valverde J, p         0  0  0  0   Chavez A, 2b          2  0  1  0   
+Stinnett K, c         3  0  0  0   Feliz P, 3b           4  0  1  0   
+Clark T, ph-1b        1  0  0  0   Linden T, rf          4  0  1  0   
+Vargas C, p           1  0  1  0   Matheny M, c          4  0  2  0   
+McCracken Q, ph       1  0  1  0   Cain M, p             2  0  0  0   
+Villarreal O, p       0  0  0  0   Eyre S, p             0  0  0  0   
+Clayton R, ph-ss      1  0  0  0   Snow J, ph-1b         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 12  7                        36  3 13  2
+
+Arizona          200 000 113 --  7
+San Francisco    111 000 000 --  3
+
+  Arizona              IP  H  R ER BB SO
+Vargas C              6.0 10  3  3  0  3
+Villarreal O (W)      1.0  1  0  0  2  0
+Worrell T             1.2  2  0  0  0  1
+Valverde J (S)        0.1  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Cain M                6.1  6  3  3  2  3
+Eyre S                0.2  1  0  0  0  0
+Hawkins L (L)         0.1  3  1  1  0  0
+Fassero J             1.1  1  3  3  2  1
+Walker T              0.1  1  0  0  0  1
+
+DP -- Arizona 3, San Francisco 1
+LOB -- Arizona 9, San Francisco 8
+2B -- Alfonzo E, Niekro L, Winn R, Matheny M, Green S, Cintron A
+HR -- Tracy C, Winn R 2
+SB -- Linden T, Alfonzo E, Green S
+SF -- Green A
+HBP -- by Eyre S (Gonzalez L)
+T -- 3:17
+A -- 38893
+     Game of 10/1/2005 -- Arizona at San Francisco (D)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Counsell C, 2b        5  1  2  0   Winn R, cf            5  0  1  0   
+Gonzalez L, lf        5  0  1  0   Vizquel O, ss         3  0  2  0   
+Tracy C, rf           4  0  1  0   Niekro L, 1b          3  1  1  1   
+Clark T, 1b           2  0  0  1   Ramirez J, pr         0  0  0  0   
+Glaus T, 3b           5  0  0  0   Snow J, 1b            1  0  0  0   
+Green S, cf           4  1  0  0   Durham R, 2b          5  0  1  0   
+Clayton R, ss         5  0  4  1   Feliz P, 3b           5  0  1  0   
+Snyder C, c           2  0  0  0   Linden T, lf          3  0  0  0   
+McCracken Q, ph       1  0  0  0   Ellison J, rf         4  0  0  0   
+Stinnett K, c         2  0  0  0   Haad Y, c             3  0  0  0   
+Vazquez J, p          3  0  0  0   Matheny M, ph-c       1  0  0  0   
+Jackson C, ph         0  0  0  0   Hennessey B, p        2  0  1  0   
+Worrell T, p          0  0  0  0   Ortmeier D, ph        1  0  0  0   
+Medders B, p          0  0  0  0   Taschner J, p         0  0  0  0   
+Valverde J, p         0  0  0  0   Eyre S, p             0  0  0  0   
+                                   Alou M, ph            1  0  0  0   
+                                   Benitez A, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  2  8  2                        37  1  7  1
+
+Arizona          100 000 000 01 --  2
+San Francisco    100 000 000 00 --  1
+
+  Arizona              IP  H  R ER BB SO
+Vazquez J             8.0  7  1  1  3  4
+Worrell T             1.0  0  0  0  0  0
+Medders B (W)         1.0  0  0  0  0  0
+Valverde J (S)        1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Hennessey B           7.0  4  1  1  2  3
+Taschner J            1.2  2  0  0  2  2
+Eyre S                1.1  1  0  0  0  0
+Benitez A (L)         1.0  1  1  1  1  1
+
+DP -- Arizona 1, San Francisco 1
+LOB -- Arizona 9, San Francisco 7
+2B -- Gonzalez L, Winn R, Clayton R
+HR -- Niekro L
+SB -- Counsell C, Clayton R 2
+CS -- Clayton R
+SH -- Vizquel O
+SF -- Clark T
+T -- 3:26
+A -- 38772
+     Game of 10/2/2005 -- Arizona at San Francisco (D)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+McCracken Q, lf       4  0  2  0   Vizquel O, ss         3  0  0  0   
+Green A, 2b           4  0  0  0   Snow J, 1b            1  0  1  0   
+Tracy C, rf           4  1  1  0   Niekro L, pr-1b       3  1  1  0   
+Glaus T, 3b           4  0  1  1   Winn R, cf            4  0  2  1   
+Green S, cf           4  0  0  0   Ramirez J, pr-cf      0  0  0  0   
+Cintron A, ss         4  0  0  0   Durham R, 2b          3  0  0  0   
+Jackson C, 1b         3  0  1  0   Chavez A, 2b          1  0  1  1   
+Hill K, c             3  0  0  0   Alou M, lf            3  1  2  1   
+Webb B, p             2  0  1  0   Ellison J, pr-lf      1  0  0  0   
+Counsell C, ph        1  0  0  0   Feliz P, 3b           4  0  0  0   
+Aquino G, p           0  0  0  0   Ortmeier D, rf        3  0  1  0   
+                                   Knoedler J, c         4  0  0  0   
+                                   Tomko B, p            3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        33  3  9  3
+
+Arizona          000 001 000 --  1
+San Francisco    011 000 10x --  3
+
+  Arizona              IP  H  R ER BB SO
+Webb B (L)            7.0  9  3  2  1  5
+Aquino G              1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B (W)           9.0  6  1  1  0  4
+
+E -- Webb B
+LOB -- Arizona 5, San Francisco 8
+2B -- Tracy C
+3B -- Winn R
+HR -- Alou M
+SB -- Ortmeier D
+SH -- Vizquel O
+T -- 1:55
+A -- 40239
+
