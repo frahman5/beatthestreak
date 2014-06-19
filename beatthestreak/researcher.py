@@ -26,7 +26,8 @@ class Researcher(object):
        openAndCloseDays: a dictionary with key pair values:
           key: year as 4 digit int, value: (closingDay, openingDay) 
              where both values in value are of type datetime.date
-          Has keys from 1963 to 2013, as this was written in 2014 and
+          Has keys from 1963 to 2012, as this was written in 2014 but 2013
+          retrosheet boxscores aren't functional yet and
           simulations before 1963 would have a different flavor since
           seasons were shorter
         listOfGamesBuffer: a tuple of (date, liftOfGamesonDate, lastPos)
@@ -37,7 +38,7 @@ class Researcher(object):
            keys: three letter team abbrevations a la retrosheet
            value1: the last date checked for the given team
            value2: the last byte viewed in the boxscore for given team
-        playerInfoBuffer: a tuple of (date, ListOfTuples) where
+        playerInfoBuffer: a list of [date, ListOfTuples] where
            date: the date for which player Infos are being stored
            ListOfTuples: Tuples of type (player, hitVal, otherInfo) which store
               a player, his hitVal on the given date and any miscellaneous
@@ -48,6 +49,10 @@ class Researcher(object):
     listOfGamesBuffer = (None, (), 0)
     boxscoreBuffer = [None, {}]
     playerInfoBuffer = [None, []]
+    playerUsedBuffer = False # for testing
+    type1SeekPosUsed = None # for testing boxscoreBuffer date searches
+    logSeekPosUsed = None # for testing listOfGames Buffer
+    logUsedBuffer = None
 
     # regular expression for matching retrosheet ids
     retroP = re.compile(r"""
@@ -137,34 +142,27 @@ class Researcher(object):
                    either base on balls, hit batsman, defensive interference, defensive obstruction, 
                    or sacrifice bunt
         """
-        # type check arguments (can't typecheck player because importing 
-        # Player would cause circular imports)
+        # type check arguments 
         self.check_date(date, date.year)
         assert type(sGD) == dict
 
-        playerInfoBuffer = self.playerInfoBuffer
-        # print "buffer date: {0}, date: {1}".format(playerInfoBuffer[0], date)
         ## Check if its on the buffer
-        if playerInfoBuffer[0] == date:
-            for info in playerInfoBuffer[1]:
-                if player == info[0]:
+        if self.playerInfoBuffer[0] == date:
+            for info in self.playerInfoBuffer[1]:
+                if player == info[0]: ## Buffer unused in tests
+                    self.playerUsedBuffer = True # for testing
                     return info[1], info[2]
-                    break
         else:
             self.playerInfoBuffer = [date, []]
 
         if date in sGD.keys() and player.get_retrosheet_id() in sGD[date][1]:
             if sGD[date][0]: # Valid game
                 hitVal, otherInfo = self.did_get_hit(date, player), specialCasesD['S']['V']
-                # return self.did_get_hit(date, player), specialCasesD['S']['V']
             else: # Invalid game
                 hitVal, otherInfo = 'pass', specialCasesD['S']['I']
-                # return 'pass', specialCasesD['S']['I']
         else: # Normal game
             hitVal, otherInfo = self.did_get_hit(date, player), None
-            # playerInfoBuffer[1].append(player, hitVal, otherInfo)
-            # return self.did_get_hit(date, player), None
-        playerInfoBuffer[1].append((player, hitVal, otherInfo))
+        self.playerInfoBuffer[1].append((player, hitVal, otherInfo))
         return hitVal, otherInfo
 
     @classmethod
@@ -284,8 +282,10 @@ class Researcher(object):
         """
         self.check_date(date, date.year)
 
+        # If it's on the buffer, go get it
         if self.listOfGamesBuffer[0] == date:
             listOfGames = self.listOfGamesBuffer[1]
+            self.logUsedBuffer = True # for testing
             return listOfGames
 
         ## else construct it
@@ -294,11 +294,13 @@ class Researcher(object):
         dateRFormat = Utilities.convert_date(date)
         # go to the last viewed place on the file
         if self.listOfGamesBuffer[0] and \
-               self.listOfGamesBuffer[0].year == date.year and \
-               self.listOfGamesBuffer[0] < date:
+           self.listOfGamesBuffer[0].year == date.year and \
+           self.listOfGamesBuffer[0] < date: # buffer is of use
             startSeekPos = self.listOfGamesBuffer[2]
         else:
             startSeekPos = 0
+        self.logSeekPosUsed = startSeekPos # for testing
+
         f = open(Filepath.get_retrosheet_file(folder='unzipped', 
              fileF='gamelog', year=date.year))
         f.seek(startSeekPos)
@@ -313,7 +315,8 @@ class Researcher(object):
                 # This way, when we search for the next day, instead of starting
                 # back at zero we start back at the same place we started on
                 # for this day
-                self.listOfGamesBuffer = (date, (), self.listOfGamesBuffer[2])
+                listOfGames = ()
+                self.listOfGamesBuffer = (date, listOfGames, self.listOfGamesBuffer[2]) ## not tested in tests
                 break
             elif dateRFormat in line[0:10]: # === elif a game today
                 recordedGame = True
@@ -323,6 +326,7 @@ class Researcher(object):
                 self.listOfGamesBuffer = (date, listOfGames, lastPos)
                 break
             lastPos = f.tell()
+            
         f.close()
 
         return listOfGames
@@ -566,12 +570,13 @@ class Researcher(object):
             ## Go to last viewed place on team's boxscore
             if self.boxscoreBuffer[0] == date.year:
                 if team in self.boxscoreBuffer[1].keys():
-                    if date > self.boxscoreBuffer[1][team][0]:
-                        startSeekPos = self.boxscoreBuffer[1][team][1]
+                    teamInfo = self.boxscoreBuffer[1][team]
+                    if date > teamInfo[0]:
+                        startSeekPos = teamInfo[1]
             else:
                self.boxscoreBuffer = [date.year, {}]
             fileF.seek(startSeekPos)
-
+            self.type1SeekPosUsed = startSeekPos # for testing
         # Get the line
         line = " "
         while search not in line:
@@ -580,7 +585,7 @@ class Researcher(object):
             lastPos = fileF.tell()
             # if we keep scrolling and the file position doesn't change, 
             # the search item was not in the file
-            if startPos == lastPos: #pragma: no cover
+            if startPos == lastPos: # pragma: no cover
                 raise FileContentException(errorMessage)
         self.boxscoreBuffer[1][team] = (date, lastPos)
         return line

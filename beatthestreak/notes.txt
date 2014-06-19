@@ -35,11 +35,18 @@ Notes:
         -> testNPReporter
         -> testNPSimulation
         -> testPlayer
-        -> testResearcher
+        -> testResearcher | DONE
         -> testRetrosheet | DONE
              -> 95% test coverage is acceptable, because stragglers are
              lines that just check for existing files
         -> testUtilities | DONE
+        -> Buffers that need Checking: 
+            -> bot: lastHistory
+            -> NPSimulation: botHistory Buffer
+            -> Researcher: | DONE
+                -> listOfGamesBuffer | DONE
+                -> boxscoreBuffer | DONE
+                -> playerInfoBuffer | DONE
     -> Updating reporting
         -> include minPA
         -> player choice method

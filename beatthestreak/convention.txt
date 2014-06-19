@@ -8,3 +8,7 @@ Comments:
 
 Years:
     If 11111 shows up for a year somehwere, its an error
+
+Tests:
+    Any line of code used explicitly for testing MUST
+    be marked with '# for testing'
