@@ -6,6 +6,7 @@ import datetime
 import pandas as pd
 from datetime import date, timedelta
 
+from cresearcher import finish_did_get_hit
 from config import specialCasesD
 from utilities import Utilities
 from retrosheet import Retrosheet
@@ -91,30 +92,36 @@ class Researcher(object):
         lastName = player.get_last_name()
         firstName = player.get_first_name()
         
-        ## get the line with this player's info from the boxscore
-        searchD = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
-        eD = "Date: {0} not in boxscore {1}. Player: {2}".format(date, 
-                boxscore, player)
-        searchP = lastName + " " + firstName[0]
-        eP = "Player: {0} not in boxscore {1}. Date: {2}".format(player, 
-                boxscore, date)
-        with open(boxscore, "r") as file: 
-            # find this date's game in the boxscore
-            self.__search_boxscore(file, searchD, date, team, 
-                errorMessage=eD, typeT=0)
+        # Invoke CResearcher helper function
 
-            # find this player's line in the boxscore
-            line = self.__search_boxscore(file, searchP, date, team, 
-                errorMessage=eP, typeT=1)
+        hit_count = finish_did_get_hit((date=date, firstName=firstName, 
+                                        lastName=lastName, boxscore=boxscore))
+        return hit_count > 0
+
+        # ## get the line with this player's info from the boxscore
+        # searchD = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
+        # eD = "Date: {0} not in boxscore {1}. Player: {2}".format(date, 
+        #         boxscore, player)
+        # searchP = lastName + " " + firstName[0]
+        # eP = "Player: {0} not in boxscore {1}. Date: {2}".format(player, 
+        #         boxscore, date)
+        # with open(boxscore, "r") as file: 
+        #     # find this date's game in the boxscore
+        #     self.__search_boxscore(file, searchD, date, team, 
+        #         errorMessage=eD, typeT=0)
+
+        #     # find this player's line in the boxscore
+        #     line = self.__search_boxscore(file, searchP, date, team, 
+        #         errorMessage=eP, typeT=1)
             
-        ## see if he had a hit or not
-        info = line.split()
-        index = info.index(lastName)
-        if info[index + 1] != firstName[0] + ",": # two players with same last name on SAME line
-            index = info[index + 1:].index(lastName)
-        # Player's hit count is 5 off his last name. 
+        # ## see if he had a hit or not
+        # info = line.split()
+        # index = info.index(lastName)
+        # if info[index + 1] != firstName[0] + ",": # two players with same last name on SAME line
+        #     index = info[index + 1:].index(lastName)
+        # # Player's hit count is 5 off his last name. 
         
-        return int(info[index+5]) > 0 
+        # return int(info[index+5]) > 0 
 
     @classmethod
     # @profile

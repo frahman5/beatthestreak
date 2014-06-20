@@ -82,9 +82,9 @@ Notes:
                                   -> 100% of time in Researcher.get_hit_info 
                                       ->96.4% of time in Researcher.did_get_hit
                                          ->89% of time in __search_boxscore
-              Function: Researcher.did_get_hit
-                  Approximate time usage: 7.93 * .65 * .692 * .985 * .964 
-                      -> 3.387 seconds. Let's cut that to 0.001
+              Function: Researcher.__search_boxscore
+                  Approximate time usage: 7.93 * .65 * .692 * .985 * .964  * .894
+                      -> 3.028 seconds. Let's cut that to 0.001
          -> 2) Adapt testing code for that function/helpers
          -> 3) Code until tests pass
      -> Try removing unnecessary attributes from objects (like player, from bot)
