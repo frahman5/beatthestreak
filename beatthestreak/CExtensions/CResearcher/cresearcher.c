@@ -6,6 +6,13 @@
 
 #define MAXLINE 80 // boxscore line lengths seem to be < 80. MUST CHECK
 
+/* Left to do 
+    -> test | DONE
+    -> install error handling
+    -> test for speed
+    -> divide into seperate functions if so desired
+    -> test for speed
+    -> determine if you want to install hash-based lookups for increased performance */
 /* did_get_hit method */
 static PyObject *cresearcher_finish_did_get_hit(
           PyObject *self, PyObject *args, PyObject *kwargs) {
@@ -48,20 +55,7 @@ static PyObject *cresearcher_finish_did_get_hit(
         fgets(line, MAXLINE, fp);
         foundIt = strstr(line, searchD);
     }
-    printf("line with searchD: %s\n", foundIt);
 
-/* UPON RETURN:
-    -> Raise an error if the malloc fails`| DONE
-    -> search the file for searchP and print the line | DONE
-    -> get the player hit info (using appropriate logic)
-    -> return and test
-    -> install error handling
-    -> test for speed
-    -> divide into seperate functions if so desired
-    -> test for speed
-    -> determine if you want to install hash-based lookups for increased performance */
-    /* Construct the searchP string */
-    /* Add two: one for traling \0 and one for " " */
     char *searchP = (char *) malloc(strlen(firstName) + strlen(lastName) + 2);
     if (searchP) {
         strcat(searchP, lastName);
@@ -77,22 +71,20 @@ static PyObject *cresearcher_finish_did_get_hit(
         fgets(line, MAXLINE, fp);
         foundIt2 = strstr(line, searchP);
     }
-    printf("line with searchP: %s\n", foundIt2);
     
     /* get the player hit info
        number of hits player had is third number from the left in 
        the returned string */
-    int *numHits = get_third_num_in_string(foundIt2);
-
+    int numHits = get_third_num_in_string(foundIt2);
+    assert (numHits != -1); // make sure we didn't have an error
     //close the file and free searchP
     free(searchP);
     fclose(fp);
 
+    // printf("player: %s %s, numHits: %d\n", firstName, lastName, numHits);
     //return player hit info
-
-    // install error handling
-    
-    return Py_BuildValue("i", 0);
+    if (numHits > 0) { return Py_True; } 
+    else { return Py_False; }
 }
 
 // char const* docString= 
@@ -122,6 +114,7 @@ void initcresearcher(void) {
        Returns a pointer to the new module object */
     Py_InitModule("cresearcher", cresearcherMethods);
 }
+
 
 
 

@@ -91,37 +91,53 @@ class Researcher(object):
             fileF='boxscore', year=date.year, team=team)
         lastName = player.get_last_name()
         firstName = player.get_first_name()
+
+        ## get the line with this player's info from the boxscore
+        searchD = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
+        eD = "Date: {0} not in boxscore {1}. Player: {2}".format(date, 
+                boxscore, player)
+        searchP = lastName + " " + firstName[0]
+        eP = "Player: {0} not in boxscore {1}. Date: {2}".format(player, 
+                boxscore, date)
+        with open(boxscore, "r") as file: 
+            # find this date's game in the boxscore
+            self.__search_boxscore(file, searchD, date, team, 
+                errorMessage=eD, typeT=0)
+
+            # find this player's line in the boxscore
+            line = self.__search_boxscore(file, searchP, date, team, 
+                errorMessage=eP, typeT=1)
+            
+        ## see if he had a hit or not
+        info = line.split()
+        index = info.index(lastName)
+        if info[index + 1] != firstName[0] + ",": # two players with same last name on SAME line
+            index = info[index + 1:].index(lastName)
+        # Player's hit count is 5 off his last name. 
+        
+        return int(info[index+5]) > 0 
+
+    @classmethod
+    def c_did_get_hit(self, date, player):
+        """
+        Exactly the same as did_get_hit, except invokes a helper functions 
+        written in C
+        """
+        self.check_date(date, date.year)
+
+        ## Ensure that boxscores are on the drive
+        team = self.find_home_team(date, player) 
+        Utilities.ensure_boxscore_files_exist(date.year, team)
+
+        ## Get home team's box score and player's first and last names
+        boxscore = Filepath.get_retrosheet_file(folder='unzipped', 
+            fileF='boxscore', year=date.year, team=team)
+        lastName = player.get_last_name()
+        firstName = player.get_first_name()
         
         # Invoke CResearcher helper function
-
-        hit_count = finish_did_get_hit(date=date, firstName=firstName, 
+        return finish_did_get_hit(date=date, firstName=firstName, 
                                         lastName=lastName, boxscore=boxscore)
-        return hit_count > 0
-
-        # ## get the line with this player's info from the boxscore
-        # searchD = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
-        # eD = "Date: {0} not in boxscore {1}. Player: {2}".format(date, 
-        #         boxscore, player)
-        # searchP = lastName + " " + firstName[0]
-        # eP = "Player: {0} not in boxscore {1}. Date: {2}".format(player, 
-        #         boxscore, date)
-        # with open(boxscore, "r") as file: 
-        #     # find this date's game in the boxscore
-        #     self.__search_boxscore(file, searchD, date, team, 
-        #         errorMessage=eD, typeT=0)
-
-        #     # find this player's line in the boxscore
-        #     line = self.__search_boxscore(file, searchP, date, team, 
-        #         errorMessage=eP, typeT=1)
-            
-        # ## see if he had a hit or not
-        # info = line.split()
-        # index = info.index(lastName)
-        # if info[index + 1] != firstName[0] + ",": # two players with same last name on SAME line
-        #     index = info[index + 1:].index(lastName)
-        # # Player's hit count is 5 off his last name. 
-        
-        # return int(info[index+5]) > 0 
 
     @classmethod
     # @profile
