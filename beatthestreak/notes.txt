@@ -72,7 +72,21 @@ Notes:
         -> Make the results reporting work | DONE
 
 4) Necessary speedups in order for mass simulation to be viable
-     -> Move most critical function to C
+     -> Move most critical function to C (using -d 2010 2009 20 20 benchmark)
+         -> 1) Determine which is most critical function 
+                 -> 65% of simulate time: sim_next_day
+                   -> 100% of sim_next_day time: sim_next_day_double
+                         -> 29% of time in Researcher.did_start
+                         -> 69.2% of time in bot.update_history
+                             -> 98.5% of time in update_history_double_down
+                                  -> 100% of time in Researcher.get_hit_info 
+                                      ->96.4% of time in Researcher.did_get_hit
+                                         ->89% of time in __search_boxscore
+              Function: Researcher.did_get_hit
+                  Approximate time usage: 7.93 * .65 * .692 * .985 * .964 
+                      -> 3.387 seconds. Let's cut that to 0.001
+         -> 2) Adapt testing code for that function/helpers
+         -> 3) Code until tests pass
      -> Try removing unnecessary attributes from objects (like player, from bot)
      -> Consider running multiple N with the same P in parallel
 4.1) Do one "code cleanup" for every optimization you do

@@ -47,6 +47,7 @@ class Bot(object):
             return False
         return True
 
+    # @profile
     def update_history(self, p1=None, p2=None, date=None, susGamesDict=None, 
            bot=None):
         """
@@ -76,6 +77,7 @@ class Bot(object):
             assert bot is None
             self.__update_history_single_down(p1, date, susGamesDict)
 
+    # @profile
     def __update_history_from_bot(self, otherBot): 
         """
         bot -> None
@@ -157,6 +159,7 @@ class Bot(object):
         self.set_last_history((p1, p2, hitVal1, hitVal2, 
                              date, self.get_streak_length(), otherInfo))
 
+    # @profile
     def __update_history_double_down(self, p1, p2, date, susGamesDict):
         """
         Player Player date dict -> None

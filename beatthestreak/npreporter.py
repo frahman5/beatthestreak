@@ -1,4 +1,4 @@
-`from pandas import ExcelWriter, Series, DataFrame, concat
+from pandas import ExcelWriter, Series, DataFrame, concat
 from pandas.io.excel import _OpenpyxlWriter # for type checking
 
 from filepath import Filepath

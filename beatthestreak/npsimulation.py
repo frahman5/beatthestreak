@@ -100,7 +100,8 @@ class NPSimulation(Simulation):
         for bot in self.bots:
             bot.claim_mulligan() # claim your mulligan baby
         self.isSetup = True
-
+ 
+    # @profile
     def sim_next_day(self, doubleDown=False):
         """
         Bool -> None
@@ -148,6 +149,7 @@ class NPSimulation(Simulation):
         # update the date
         self.incr_date()
 
+    # @profile
     def __sim_next_day_double(self):
         """
         None -> None
