@@ -94,8 +94,8 @@ class Researcher(object):
         
         # Invoke CResearcher helper function
 
-        hit_count = finish_did_get_hit((date=date, firstName=firstName, 
-                                        lastName=lastName, boxscore=boxscore))
+        hit_count = finish_did_get_hit(date=date, firstName=firstName, 
+                                        lastName=lastName, boxscore=boxscore)
         return hit_count > 0
 
         # ## get the line with this player's info from the boxscore

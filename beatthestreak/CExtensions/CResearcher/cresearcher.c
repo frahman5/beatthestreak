@@ -2,10 +2,13 @@
 
 #include "Python.h" /* also imports stdlib, stdio, string, errno */
 #include "datetime.h" 
+#include "crhelper.h"
+
+#define MAXLINE 80 // boxscore line lengths seem to be < 80. MUST CHECK
 
 /* did_get_hit method */
-static PyObject* cresearcher_finish_did_get_hit(
-          PyObject* self, PyObject* args, PyObject* kwargs) {
+static PyObject *cresearcher_finish_did_get_hit(
+          PyObject *self, PyObject *args, PyObject *kwargs) {
     
     /* Get the keyword values into local variables */
     PyDateTime_Date* d;
@@ -17,19 +20,79 @@ static PyObject* cresearcher_finish_did_get_hit(
                                      &firstName, &lastName, &boxscore))
         return NULL; 
 
-    /* check that we extracted it correctly */
-    int year = PyDateTime_GET_YEAR(d);
-    int month = PyDateTime_GET_MONTH(d);
-    int day = PyDateTime_GET_DAY(d);
-    printf("The year is: %d\n", year);
-    printf("The month is %d\n", month);
-    printf("The day is %d\n", day);
+    //open the file
+    FILE *fp;
+    fp = fopen(boxscore, "r");
+    assert(fp != NULL);
 
-    printf("The firstname is %s\n", firstName);
-    printf("The lastname is %s\n", lastName);
-    printf("The boxscore path is %s\n", boxscore);  
+    /* Construct the searchD string */
+    char *backslash = "/";
+    char searchD[11]; // ten digit mm/dd/yyyy plus space for the sentinel
 
-    return Py_False;
+    char monthS[3]; // 2 digit month plus space for the sentinel
+    sprintf(monthS, "%d", PyDateTime_GET_MONTH(d));
+    char dayS[3];   // 2 digit day plus space for the sentinel
+    sprintf(dayS, "%d", PyDateTime_GET_DAY(d));
+    char yearS[5];   // 4 digit year plus space for the sentinel
+    sprintf(yearS, "%d", PyDateTime_GET_YEAR(d));
+
+    char *helperArray[] = {monthS, backslash, dayS, backslash, yearS};
+    for (int i=0; i < 5; i++) {
+        strcat(searchD, helperArray[i]);
+    }
+
+    /* Search for the line with searchD and print that line */
+    char line[MAXLINE];
+    char *foundIt = NULL;
+    while (!foundIt) {
+        fgets(line, MAXLINE, fp);
+        foundIt = strstr(line, searchD);
+    }
+    printf("line with searchD: %s\n", foundIt);
+
+/* UPON RETURN:
+    -> Raise an error if the malloc fails`| DONE
+    -> search the file for searchP and print the line | DONE
+    -> get the player hit info (using appropriate logic)
+    -> return and test
+    -> install error handling
+    -> test for speed
+    -> divide into seperate functions if so desired
+    -> test for speed
+    -> determine if you want to install hash-based lookups for increased performance */
+    /* Construct the searchP string */
+    /* Add two: one for traling \0 and one for " " */
+    char *searchP = (char *) malloc(strlen(firstName) + strlen(lastName) + 2);
+    if (searchP) {
+        strcat(searchP, lastName);
+        strcat(searchP, " ");   
+        strncat(searchP, firstName, 1); // get the first letter of firstName
+        printf("searchP : %s\n", searchP);
+    } else {
+        printf("Malloc failed");
+        return 0; // returning a non-python value raises an error
+    }
+    char *foundIt2 = NULL;
+    while (!foundIt2) {
+        fgets(line, MAXLINE, fp);
+        foundIt2 = strstr(line, searchP);
+    }
+    printf("line with searchP: %s\n", foundIt2);
+    
+    /* get the player hit info
+       number of hits player had is third number from the left in 
+       the returned string */
+    int *numHits = get_third_num_in_string(foundIt2);
+
+    //close the file and free searchP
+    free(searchP);
+    fclose(fp);
+
+    //return player hit info
+
+    // install error handling
+    
+    return Py_BuildValue("i", 0);
 }
 
 // char const* docString= 
@@ -60,13 +123,7 @@ void initcresearcher(void) {
     Py_InitModule("cresearcher", cresearcherMethods);
 }
 
-/* Will need to import datetime.date from python */
-/* How do I play nicely with player objects? */
-/* Excess Notes: "hi" is a string literal 
-     C compiler automatically allocates sufficient space in memory
-     Type of this expression is 'const char *' */
 
-/* ALL functions must return PyObject* */
 
 /* On References: 
    An important situation where this arises is in objects that are passed as 
@@ -74,9 +131,5 @@ void initcresearcher(void) {
     the call mechanism guarantees to hold a reference to every argument for the
     duration of the call. */
 
-/*ToDo:
--make did_get_hit return a bool | DONE
--get datetime in here | DONE
--get player names in here | DONE
--read CPython API intro
-*/
+/* Good Refactors:
+-> figure out max line length of boxscores */
