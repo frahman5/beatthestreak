@@ -10,7 +10,7 @@ class NPReporter(object):
     to report simulation results
     """
     
-    def __init__(self, npsim, Test=False):
+    def __init__(self, npsim, test=False):
         """
         NPSimulation bool -> None
         npsim: NPSimulation | the simulation for which this reporter object will 
@@ -20,26 +20,35 @@ class NPReporter(object):
         """
         self.npsim = npsim
         self.outputMethods = ('excel', 'stdout')
-        self.Test=Test
+        self.test=test
+        self.selMethods = {1: 'N globalSeasonBatAveP minPA serial  deterministic static'}
 
     def get_npsim(self):
         return self.npsim
 
-    def report_results(self, test=False):
+    def report_results(self, test=False, method=None):
         """
-        None -> None
+        bool String -> None
+        test: bool | True if a test run, false otherwise
+        method: int | the index of player selection method used in the simulationm
 
         Produces results of self.npsim in an excel file
         """
+        assert type(test) == bool
+        assert type(method) == int
+
         npsim = self.get_npsim()
         # Initalize variables
 
         numTopBots = 2 # number of top bot histories to report
-        startDate = npsim.get_bots()[0].get_history()[0][4]
+        firstBot = npsim.get_bots()[0]
+        firstBotHist = firstBot.get_history()
+        firstTuple = firstBotHist[0]
+        startDate = firstTuple[4]
         endDate = npsim.get_bots()[0].get_history()[-1][4]
         writer = ExcelWriter(Filepath.get_results_file(npsim.get_sim_year(), 
             npsim.get_bat_year(), npsim.get_n(), npsim.get_p(), startDate, 
-            endDate, test=test))
+            endDate, npsim.minPA, method, npsim.doubleDown,test=test))
 
         # calculate best bots
         npsim.get_bots().sort(key=lambda bot: bot.get_max_streak_length())
@@ -54,12 +63,12 @@ class NPReporter(object):
         self.__report_bots_metadata_results_excel(writer)
 
         # report sim metadata
-        self.__report_sim_metadata_results_excel(writer)
+        self.__report_sim_metadata_results_excel(writer, method=method)
 
         # save everthing to file
         writer.save()
 
-    def report_mass_results(**kwargs):
+    def report_mass_results(self, **kwargs):
         """
         simYearL: List of simulation years for mass simulation
         batAveYearL: List of batting average years for mass simulation
@@ -79,18 +88,40 @@ class NPReporter(object):
         """
         npsim = self.get_npsim()
         for item in kwargs.itervalues():
-            assert type(item) == list
+            assert (type(item) == list) or (type(item) == tuple)
 
-        # Create dataframe with results
-        d = {'Sim Year': kwargs['simYearL'], 'Bat Ave Year': kwargs['batAveYearL'], 
-             'N': kwargs['NL'], 'P': kwargs['PL'], 'Min Bat Ave': kwargs['minBatAveL'], 
-             'Successes': kwargs['numSuccessL'], 
-             'Successes (%)': kwargs['percentSuccessL'], 
-             'Failures': kwargs['numFailL'], 'Failures (%)': kwargs['percentFailL'] }
-        df = DataFrame(d)
+        # Create series corresponding to columns of csv
+        simYearS = Series(kwargs['simYearL'], name='Sim Year')
+        batAveYearS = Series(kwargs['batAveYearL'], name='Bat Ave Year')
+        nS = Series(kwargs['NL'], name='N')
+        pS = Series(kwargs['PL'], name='P')
+        minBatAveS = Series(kwargs['minBatAveL'], name='Min Bat Ave')
+        successesS = Series(kwargs['numSuccessL'], name='Successes')
+        perSuccessS = Series(kwargs['percentSuccessL'], 
+                             name='Successes (1=100%)')
+        failureS = Series(kwargs['numFailL'], name='Failures')
+        perFailureS = Series(kwargs['percentFailL'], name='Failures (%) (1=100%)')
+        minPAS = Series(kwargs['minPAL'], name='min PA')
+        methodL = [self.selMethods[methodIndex] for methodIndex 
+            in kwargs['methodL']]
+        methodS = Series(methodL, name='Method')
+        oneStreakS = Series(kwargs['oneStreakL'], name='1 Streak')
+        twoStreakS = Series(kwargs['twoStreakL'], name='2 Streak')
+        threeStreakS = Series(kwargs['threeStreakL'], name='3 Streak')
+        fourStreakS = Series(kwargs['fourStreakL'], name='4 Streak')
+        fiveStreakS = Series(kwargs['fiveStreakL'], name='5 Streak')
+        doubleDownS = Series(kwargs['doubleDownL'], name='DoubleDown?')
+        startDateS = Series(kwargs['startDateL'], name='start date')
+        endDateS = Series(kwargs['endDateL'], name='end date')
+
+        # construct dataframe to write to excel file
+        df = concat([simYearS, batAveYearS, nS, pS, minBatAveS, successesS, 
+                     perSuccessS, failureS, perFailureS, doubleDownS, oneStreakS, 
+                     twoStreakS, threeStreakS, fourStreakS, fiveStreakS, 
+                     startDateS, endDateS, minPAS, methodS], axis=1)
 
         # Write the info to an excel spreadsheet
-        if self.Test == True: # debugging code
+        if self.test == True: # debugging code
             writer = ExcelWriter(Filepath.get_mass_results_file(
                 kwargs['simYearRange'], kwargs['simMinBatRange'], 
                 kwargs['NRange'], kwargs['PRange'], test=True))
@@ -98,7 +129,7 @@ class NPReporter(object):
             writer = ExcelWriter(Filepath.get_mass_results_file(
                 kwargs['simYearRange'], kwargs['simMinBatRange'], 
                 kwargs['NRange'], kwargs['PRange']))
-        df.to_excel(writer=writer, index=False, sheet_name='Meta')
+        df.to_excel(writer, index=False, sheet_name='Meta')
         writer.save()
 
     def __report_bot_results_to_excel(self, bot, writer):
@@ -123,16 +154,11 @@ class NPReporter(object):
         batAve1S = Series([event[0].get_bat_ave() for event in history], 
             name='Batting Average1')
         hit1S = Series([event[2] for event in history], name='Hit1')
-        # if npsim.get_double_down(): # if it was a double down simulation
         player2S = Series([event[1].get_name() if event[1] else None 
             for event in history], name='Player2')
         batAve2S = Series([event[1].get_bat_ave() if event[1] else None
             for event in history], name='Batting Average2')
         hit2S = Series([event[3] for event in history], name='Hit2')
-        # else: # if it was a single down simulation
-        #     player2S = Series([None for event in history], name='Player2')
-        #     batAve2S = Series([None for event in history], name='Batting Average2')
-        #     hit2S = Series([None for event in history], name='Hit2')
         dateS = Series([event[4] for event in history], name='Date')
         streakS = Series([event[5] for event in history], 
             name='Streak')
@@ -195,25 +221,23 @@ class NPReporter(object):
         # put df info on excel buffer
         df.to_excel(writer, index=False, sheet_name='Bots Meta')
 
-    def __report_sim_metadata_results_excel(self, writer):
+    def __report_sim_metadata_results_excel(self, writer, method=None):
         """
-        writer -> None
+        writer method -> None
+        writer: file-like object used to write to an excel file
+        method: int | the index of player selection method used in the simulation
         """
         assert type(writer) == _OpenpyxlWriter
+        assert type(method) == int
 
         npsim = self.get_npsim()       
 
         # get number, percent of successes
-        s_and_f = self.__calc_s_and_f()
+        s_and_f = self.calc_s_and_f()
         numSuccesses, percentSuccesses, numFails, percentFails = s_and_f
         percentSuccessesString = "{0:.0f}%".format(100 * percentSuccesses)
         # Find out if doubleDowns were used
-        doubleDown = False
-        for player2 in (event[1] for bot in npsim.get_bots() for 
-            event in bot.get_history()):
-            if player2 is not None:
-                doubleDown = True
-                break
+        doubleDown = npsim.doubleDown
 
         # construct series that correspond to columns in output file
         yearS = Series([npsim.get_sim_year()], name='simYear')
@@ -228,10 +252,12 @@ class NPReporter(object):
         percentSuccessS = Series([percentSuccessesString], 
             name='percentSuccesses')
         doubleDownS = Series([doubleDown], name='DoubleDown?')
+        minPAS = Series([npsim.minPA], name='minPA')
+        methodS = Series([self.selMethods[method]], name='Method')
 
         # construct dataframe to write to excel file
         df = concat([yearS, batS, nS, pS, startDateS, endDateS, 
-            successS, percentSuccessS, doubleDownS], axis=1)
+            successS, percentSuccessS, doubleDownS, minPAS, methodS], axis=1)
 
         # put df info on excel buffer
         df.to_excel(writer, index=False, sheet_name='Sim Meta')
@@ -256,7 +282,7 @@ class NPReporter(object):
 
         return numUnique
 
-    def __calc_s_and_f(self):
+    def calc_s_and_f(self):
         """
         None -> int float int float
 

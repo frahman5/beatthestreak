@@ -90,13 +90,13 @@ class TestFilepath(unittest.TestCase):
     def test_results_file(self):
         # test in non-testing environment
         self.assertEqual(Filepath.get_results_file(2010, 2009, 50, 10, 
-            date(2010, 4, 4), date(2010, 9, 30)), self.rootDir + \
-            "/results/2010/Sim2010,batAve2009,N50,P10,4.4-9.30.xlsx")
+            date(2010, 4, 4), date(2010, 9, 30), 500, 2, True), self.rootDir + \
+            "/results/2010/Sim2010,batAve2009,N50,P10,4.4-9.30,mPA=500,sM=2,dDown=True.xlsx")
 
         # test for testing environment
         self.assertEqual(Filepath.get_results_file(2010, 2009, 50, 10, 
-            date(2010, 4, 4), date(2010, 9, 30), test=True), self.rootDir + \
-            "/tests/results/2010/Sim2010,batAve2009,N50,P10,4.4-9.30.xlsx")
+            date(2010, 4, 4), date(2010, 9, 30), 200, 1, False, test=True), self.rootDir + \
+            "/tests/results/2010/Sim2010,batAve2009,N50,P10,4.4-9.30,mPA=200,sM=1,dDown=False.xlsx")
 
 
     def test_get_mass_results_file(self):

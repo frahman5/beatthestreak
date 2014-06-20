@@ -27,8 +27,8 @@ Notes:
     the right stirng REGARDLESS of what the cwd is or which module is calling in
     -> create a single source of truth for update logic in bot
 
-3) ToDo before starting mass simulations
-    -> Achieve 100% line-coverage and logical coverage of all modules
+3) ToDo before starting mass simulations | DONE
+    -> Achieve 100% line-coverage and logical coverage of all modules | DONE
         -> testBot | DONE
             -> lastHistory element and update_history buffer
                 -> logical testing must occur in NPSimulation
@@ -44,17 +44,43 @@ Notes:
         -> Buffers that need Checking: |DONE
             -> bot: lastHistory | DONE
             -> NPSimulation: botHistory Buffer | DONE
-            -> Researcher: | DONE
+            -> Researcherwq: | DONE
                 -> listOfGamesBuffer | DONE
                 -> boxscoreBuffer | DONE
                 -> playerInfoBuffer | DONE
-    -> Updating reporting
-        -> include minPA
+    -> Updating reporting 
+        -> include minPA | DONE
+             -> in single simulation reporting | DONE
+             -> in mass simulation reporting | DONE
         -> player choice method
-        -> update file names
-    -> Get mass_simulate working
+            -> in single simulation reporting | DONE
+            -> in mass simulation reporting | DONE
+        --> Accomodate varying minPA, player selection method | DONE
+              -> easiest way: filenames include mPA=???, sM=1
+              -> adjust single simulations
+        -> Include Top 5 streaks in ...
+             -> single simulation | Done
+             -> mass simulation | DONE
+        -> Include DoubleDown info in mass simulate reporting
+    -> Get mass_simulate working | DONE
+        -> Make it update startDate every time around | DONE
+        -> Make the progress bar tell you which individual simulation its running | DONE
+        -> Make it treat bounds as RANGES, not endpoints | DONE
+            -> Make it to batAveYears correctly | DONE
+                -> currently its either not reporting the bataveYear correctly
+                on excel file titles or its actually doing the wrong simulations
+        -> Make the results reporting work | DONE
 
-4) ToDo if decide to speedup:
-     -> Perhaps remove unnecessary attributes, like player from bot. It's
-        redundant since that information is stored in the history tuples
-       
+4) Necessary speedups in order for mass simulation to be viable
+     -> Move most critical function to C
+     -> Try removing unnecessary attributes from objects (like player, from bot)
+     -> Consider running multiple N with the same P in parallel
+4.1) Do one "code cleanup" for every optimization you do
+     -> Have simulations for the same year all report to the same excel file
+     -> Clean up the startDate attribute
+          Should NOT be an initialization factor. SHOULD be a parameter tp
+          simulate and mass_simulate
+5) ToDo after some mass simulations already done:
+     -> Make it read results from indiv sim files if the indiv sim
+           has already been done
+     -> Allow yourself to var minPA as well as singleDown and DoubleDown

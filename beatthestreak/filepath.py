@@ -168,7 +168,7 @@ class Filepath(object):
 
     @classmethod
     def get_results_file(self, simYear, batAveYear, N, P, startDate, endDate, 
-           test=False):
+           minPA, selectionMethodNumber, doubleDown, test=False):
         """
         int int int int date date bool -> string
         simYear: int | year of simulation
@@ -177,13 +177,17 @@ class Filepath(object):
         P: int | number of top players
         startDate: date | start date of simulation
         endDate: date | end date of simulation
+        minPA: int | minimum number of plate appearances
+        selectionMethodNumber: int | selection method number. 
+            Reference: PlayerChoiceMethods.txt
+        doubleDown: bool | indicates whether or not doubleDown was used
         test: bool | indicates whether or not this is being run under a test
            environment
 
         Produces the filepath of the results file containing the simulation with
         simYear, batAveYear, N, P, startDate, endDate
         """
-        for param in (simYear, batAveYear, N, P):
+        for param in (simYear, batAveYear, N, P, minPA, selectionMethodNumber):
             assert type(param) == int
         assert type(startDate) == date
         assert type(endDate) == date
@@ -192,7 +196,8 @@ class Filepath(object):
             str(simYear) + "," + 'batAve' + str(batAveYear) + "," + "N" + \
             str(N) + "," + "P" + str(P) + "," + str(startDate.month) + "." + \
             str(startDate.day) + "-" + str(endDate.month) + "." + \
-            str(endDate.day) + ".xlsx"
+            str(endDate.day) + "," + "mPA=" + str(minPA) + ',' + 'sM=' + \
+            str(selectionMethodNumber) + ",dDown=" + str(doubleDown) + ".xlsx"
 
     @classmethod
     def get_mass_results_file(self, simYearRange, simMinBatRange, NRange, PRange, 

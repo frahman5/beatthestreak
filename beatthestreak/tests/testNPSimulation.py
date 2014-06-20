@@ -100,7 +100,8 @@ class TestNPSimulation(unittest.TestCase):
         openingDay = Researcher.get_opening_day(2010)
         closingDay = openingDay + timedelta(days=9)
         self.assertTrue(os.path.isfile(Filepath.get_results_file(
-            2010, 2010, 100, 20, openingDay, closingDay, test=True)))
+            2010, 2010, 100, 20, openingDay, closingDay, 
+            502, 1, False, test=True)))
 
         ## DoubleDOwn
         # check that test results folder is empty
@@ -113,7 +114,8 @@ class TestNPSimulation(unittest.TestCase):
         openingDay = Researcher.get_opening_day(2009)
         closingDay = openingDay + timedelta(days=9)
         self.assertTrue(os.path.isfile(Filepath.get_results_file(
-            2009, 2008, 20, 20, openingDay, closingDay, test=True)))
+            2009, 2008, 20, 20, openingDay, closingDay, 
+            502, 1, True, test=True)))
 
     @unittest.skip("Not Yet")
     def test_mass_simulate(self):
@@ -289,4 +291,4 @@ class TestNPSimulation(unittest.TestCase):
         # private function
         sim = NPSimulation(2012, 2012, 50, 50)
         for index, year in enumerate(sim._NPSimulation__bat_years_ms(2012, (0, 3))):
-            self.assertTrue(year == (2012, 2011, 2010, 2009)[index])
+            self.assertTrue(year == (2009, 2010, 2011, 2012)[index])

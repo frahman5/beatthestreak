@@ -18,7 +18,7 @@ class TestUtilities(unittest.TestCase):
     def test_convert_date(self):
         self.assertEqual(Utilities.convert_date(date(2012, 4, 15)),"20120415")
 
-    @skip("Don't want to delete retrosheet files!")
+    @unittest.skip("Don't want to delete retrosheet files!")
     def test_clean_retrosheet_files(self):
         r2013.download_and_unzip() # assume works
 

@@ -1,5 +1,4 @@
 #! pyvenv/bin/python
-
 import sys
 import os
 import pandas as pd
@@ -60,7 +59,7 @@ class NPSimulation(Simulation):
             reset to 0
     """
     def __init__(self, simYear, batAveYear, N, P, startDate='default', 
-            doubleDown=False):
+            doubleDown=False, minPA=502):
         # _check_year type checks simYear and batAveYear
         assert type(N) == int
         assert type(P) == int
@@ -69,6 +68,8 @@ class NPSimulation(Simulation):
         self.batAveYear = self._check_year(batAveYear)
         self.numBots = N
         self.numPlayers = P
+        self.startDate = startDate
+        self.minPA = minPA
 
         self.minBatAve = 0 # set upon setup
         self.players = [] # set upon setup
@@ -78,6 +79,7 @@ class NPSimulation(Simulation):
 
         self.doubleDown = doubleDown
         self.botHistoryBuffer = [None, []]
+        self.method = 1 # see NPReporter self.selMethods for what "1" means
 
         self.didNotRepeatSetup = False
 
@@ -92,7 +94,7 @@ class NPSimulation(Simulation):
 
         Simulation.setup(self) # download and parse retrosheet data
         self.bots = self._create_bots() # create N bots
-        self.players = self.__calc__players(self.batAveYear) # create top P players
+        self.players = self.__calc__players(self.batAveYear, self.minPA) # create top P players
         self.minBatAve = self.__set_min_bat_ave() # store resultant min bat ave
         self.susGamesDict = Researcher.get_sus_games_dict(self.get_sim_year())
         for bot in self.bots:
@@ -218,16 +220,18 @@ class NPSimulation(Simulation):
         return None
 
     # @profile
-    def simulate(self, numDays='max', anotherSim=False, test=False):
+    def simulate(self, numDays='max', anotherSim=False, test=False, prbar=True):
         """
-        int|string  bool string-> None
+        int|string  bool bool bool -> datetime.date datetime.date
         numDays: int|string | 'max' if simulation should run to closing day, 
             or an integer if simulation should run for a certain window of days
         anotherSim: bool | indicates whether or not another simulation will be 
             done using this object
         test: bool | indicates whether or not this is being run in a testing
            environment. For debugging
-        doubleDown | Indicates whether or not bots should double down every day
+        prbar: indicates whether or not to display a progressbar
+
+        returns startDate, lastDate (for reporting purposes)
 
 
         Simulates numDays number of days in self.simYear starting on 
@@ -239,45 +243,57 @@ class NPSimulation(Simulation):
         assert type(anotherSim) == bool
         assert type(test) == bool
 
-        # initalize relevant date variables and setup the simulation
+        ## initalize relevant date variables and setup the simulation
+        if self.startDate == 'default':
+            self.currentDate = Researcher.get_opening_day(self.simYear)
+        else:
+            assert type(self.startDate) == datetime.date
+            Researcher.check_date(self.startDate, startDate.year)
+            self.currentDate = self.startDate
         startDate = self.currentDate
+        self.currentDate = startDate
         lastDate = Researcher.get_closing_day(self.simYear)
         Reporter = NPReporter(self)
         self.setup()
  
-         # initialize a progressbar for the simulation
-        maxVal = (lastDate - startDate).days # num Days in season
-        if type(numDays) == int: 
-            maxVal = numDays
-        widgets = ['\nSIM: simYear: {0}'.format(
-            self.get_sim_year()) + ", batAveYear: {0}".format(
-            self.get_bat_year()) + " N: {0}, P: {1}. ".format(self.get_n(), 
-            self.get_p()),  ' ', Percentage()]
-        pbar = ProgressBar(maxval=maxVal, widgets=widgets).start()
+        if prbar:
+             # initialize a progressbar for the simulation
+            maxVal = (lastDate - startDate).days # num Days in season
+            if type(numDays) == int: 
+                maxVal = numDays
+            widgets = ['\nSIM: simYear: {0}'.format(
+                self.get_sim_year()) + ", batAveYear: {0}".format(
+                self.get_bat_year()) + " N: {0}, P: {1}. ".format(self.get_n(), 
+                self.get_p()),  ' ', Percentage()]
+            pbar = ProgressBar(maxval=maxVal, widgets=widgets).start()
+            update_pbar = pbar.update
 
         # simulate days until lastDate reached or elapsedDays equals numDays
         elapsedDays = 0
         sim_next_day = self.sim_next_day
-        update_pbar = pbar.update
         doubleDown = self.doubleDown
         while True:
             if (numDays=='max') and (self.currentDate >= lastDate): # pragma: no cover
-                Reporter.report_results(test=test)
+                Reporter.report_results(test=test, method=self.method)
                 break
             if (type(numDays) == int) and elapsedDays >= numDays:
-                Reporter.report_results(test=test)
+                Reporter.report_results(test=test, method=self.method)
                 break
             sim_next_day(doubleDown=doubleDown)
             elapsedDays += 1
-            update_pbar(elapsedDays)
-        pbar.finish()
+            if prbar:
+                update_pbar(elapsedDays)
+        if prbar:
+            pbar.finish()
 
         # close up shop
         if anotherSim: # pragma: no cover
             self.set_setup(value=False)
 
+        return startDate, lastDate
+
     def mass_simulate(self, simYearRange, simMinBatRange, NRange, PRange, 
-            Test=False, doubleDown=False):
+            test=False):
         """
         tupleOfInts tupleOfInts tupleOfInts tupleOfInts bool -> None
         simYearRange: the years (inclusive) over which to run simulation
@@ -287,12 +303,11 @@ class NPSimulation(Simulation):
         PRange: the integers (inclusive) over which to vary top player calculations
         Test: bool | Indicates whether or not mass_simulate is being run 
            under a test framework. For debugging purposes
-        doubleDown | Indicates whether or not bots should double down every day
 
         For each year in simYearRange, for each batAveYear that results from
         subtracting a number in simMinBatRange from simYear, for each N in NRange, 
         take a P from P Range and run simulate. Report aggregate results in an 
-        excel file.
+        excel file. By default varies over doubleDown=True and doubleDown=False
 
         e.g: sim.many_simulate((2010,2010),(0,1), (1,2), (1,2)) runs a simulation
         for each 4-tuple (simYear, batAveYear, N, P) with numDays='max' below. 
@@ -306,68 +321,102 @@ class NPSimulation(Simulation):
             7) (2010, 2009, 2, 1)
             8) (2010, 2010, 2, 2)
         """
+        numSims = 0
         for param in (simYearRange, simMinBatRange, NRange, PRange):
             assert len(param) == 2
             for item in param:
                 assert type(item) == int
         assert type(test) == bool
-        assert type(doubleDown) == bool
+
 
         # lists hold data that will later be written to .xlsxfile
         simYearL, batAveYearL, NL, PL , minBatAveL = [], [], [], [], []
         numSuccessL, percentSuccessL, numFailL, percentFailL = [], [], [], []
+        minPAL, methodL, oneStreakL, twoStreakL, threeStreakL, = [], [], [], [], []
+        fourStreakL, fiveStreakL, doubleDownL = [], [], []
+        startDateL, endDateL = [], []
 
         # initialize a progressbar for the simulation
         maxval = len(range(simYearRange[0], simYearRange[1] + 1)) * \
                  len(range(simMinBatRange[0], simMinBatRange[1] + 1)) * \
                  len(range(NRange[0], NRange[1] + 1)) * \
-                 len(range(PRange[0], PRange[1] + 1))
-        widgets = ['\nRunning simulations with simYear:({0}, {1}), '.format(
+                 len(range(PRange[0], PRange[1] + 1)) * 2
+        widgets = ['\nMassSim: simYear:({0}, {1}), '.format(
             simYearRange[0], simYearRange[1]) + 'simMinBatRange({0}, {1}),'.format(
                 simMinBatRange[0], simMinBatRange[1]) + ' N:({0}, {1}),'.format(
                 NRange[0], NRange[1]) + ' P:({0}, {1}) '.format(
                 PRange[0], PRange[1]), Timer(), ' ', Percentage()]
         pbar = ProgressBar(maxval=maxval, widgets=widgets).start()
 
+        Reporter = NPReporter(self, test=test)
         # run all the simulations, saving individual simulation results to file
         i = 0
-        for simYear in simYearRange:
+        for simYear in xrange(simYearRange[0], simYearRange[1]+1):
             for batAveYear in self.__bat_years_ms(simYear, simMinBatRange):
-                for N in NRange:
-                    for P in PRange:
-                        # set sim parameters and simulate
-                        self.set_sim_year(simYear)
-                        self.set_bat_year(batAveYear)
-                        self.set_n(N)
-                        self.set_p(P)
-                        self.simulate(anotherSim=True, doubleDown=doubleDown)
+                for N in xrange(NRange[0], NRange[1]+1):
+                    for P in xrange(PRange[0], PRange[1]+1):
+                        for doubleDown in (True, False):
+                            numSims += 1
+                            # set sim parameters and simulate
+                            self.set_sim_year(simYear)
+                            self.set_bat_year(batAveYear)
+                            self.set_n(N)
+                            self.set_p(P)
+                            self.doubleDown = doubleDown
+                            print '\n    CurSim: {} {}'.format(self.simYear, 
+                                self.batAveYear) + ' {} {} '.format(self.numBots, 
+                                self.numPlayers) + ' dDown: {}'.format(self.doubleDown)
+                            startDate, endDate = self.simulate(anotherSim=True, prbar=False)
 
-                        # record sim metadata and results for later reporting
-                        simYearL.append(self.get_sim_year())
-                        batAveYearL.Append(self.get_bat_year())
-                        NL.append(self.get_n())
-                        PL.append(self.get_p())
-                        minBatAveL.append(self.get_min_bat_ave())
-                        numS, percS, numF, percF = self.calc_s_and_f()
-                        numSuccessL.append(numS)
-                        percentSuccessL.append(percS)
-                        numFailL.append(numF)
-                        percentFailL.append(percF)
+                            # get 5 top streaks
+                            self.get_bots().sort(key=lambda bot: bot.get_max_streak_length(), 
+                                reverse=True)
+                            fiveTopStreaks = [bot.get_max_streak_length() for bot 
+                                in self.get_bots()][0:5]
+                            if len(fiveTopStreaks) < 5: ## less than 5 bots!
+                                for i in range(5):
+                                    fiveTopStreaks.append('N/A')
+                                    
+                            # record sim metadata and results for later reporting
+                            simYearL.append(self.get_sim_year())
+                            batAveYearL.append(self.get_bat_year())
+                            NL.append(self.get_n())
+                            PL.append(self.get_p())
+                            minBatAveL.append(self.get_min_bat_ave())
+                            numS, percS, numF, percF = Reporter.calc_s_and_f()
+                            numSuccessL.append(numS)
+                            percentSuccessL.append(percS)
+                            numFailL.append(numF)
+                            percentFailL.append(percF)
+                            minPAL.append(self.minPA)
+                            methodL.append(self.method)
+                            oneStreakL.append(fiveTopStreaks[0])
+                            twoStreakL.append(fiveTopStreaks[1])
+                            threeStreakL.append(fiveTopStreaks[2])
+                            fourStreakL.append(fiveTopStreaks[3])
+                            fiveStreakL.append(fiveTopStreaks[4])
+                            doubleDownL.append(self.doubleDown)
+                            startDateL.append(startDate)
+                            endDateL.append(endDate)
 
-                        # update progress bar
-                        i += 1
-                        pbar.update(i)
+                            # update progress bar
+                            i += 1
+                            pbar.update(i)
         pbar.finish() # kill the progress bar after the simulation ends
 
         # report aggregate results
         print "Reporting aggregate results to file"
-        Reporter = NPReporter(self, Test=Test)
         Reporter.report_mass_results(
             simYearL=simYearL, batAveYearL=batAveYearL, NL=NL, PL=PL, 
             minBatAveL=minBatAveL, numSuccessL=numSuccessL, 
             percentSuccessL=percentSuccessL, numFailL=numFailL, 
-            percentFailL=percentFailL, simYearRange=simYearRange, 
-            simMinBatRange=simMinBatRange, NRange=NRange, PRange=PRange)
+            percentFailL=percentFailL, oneStreakL=oneStreakL, 
+            twoStreakL=twoStreakL, threeStreakL=threeStreakL, 
+            fourStreakL=fourStreakL, fiveStreakL=fiveStreakL, 
+            minPAL=minPAL, methodL=methodL, doubleDownL=doubleDownL,
+            startDateL=startDateL, endDateL=endDateL,
+            simYearRange=simYearRange, simMinBatRange=simMinBatRange, 
+            NRange=NRange, PRange=PRange)
 
         # close up shop
         self.close()
@@ -397,8 +446,9 @@ class NPSimulation(Simulation):
         """
         self.currentDate += timedelta(days=num_days)
 
-    def set_bat_year(self, year): # delete
-        self.batAveYear = year
+    def set_bat_year(self, batAveYear): # delete
+        assert type(batAveYear) == int
+        self.batAveYear = batAveYear
 
     def get_bat_year(self):
         return self.batAveYear
@@ -410,10 +460,6 @@ class NPSimulation(Simulation):
         assert type(simYear) == int
         self.simYear = simYear
 
-    def set_bat_year(self, batYear):
-        assert type(batAveYear) == int
-        self.batAveYear == batAveYear
-
     def set_n(self, N):
         assert type(N) == int
         self.numBots = N
@@ -421,9 +467,6 @@ class NPSimulation(Simulation):
     def set_p(self, P):
         assert type(P) == int
         self.numPlayers = P
-
-
-
 
     def __bat_years_ms(self, simYear, simMinBatRange):
         """
@@ -442,19 +485,19 @@ class NPSimulation(Simulation):
             assert type(item) == int
 
         return (simYear - difference for difference 
-            in range(simMinBatRange[0], simMinBatRange[1] + 1))
+            in range(simMinBatRange[1], simMinBatRange[0]-1, -1))
     # @profile
-    def __calc__players(self, year):
+    def __calc__players(self, year, minPA):
         """
-        int -> ListOfTuples(player, player.bat_ave)
+        int int -> ListOfTuples(player, player.bat_ave)
 
-        Calculates the top P players with respect to batting average
-        in season year
+        Calculates the top P players with at least minPA plate appearances
+        with respect to batting average in season year
         """
         self._check_year(year)
 
         # set initial variables
-        minPA = 502 # minimum plate appearances to qualify for calculation
+        minPA = minPA # minimum plate appearances to qualify for calculation
         players = []
 
         # check if the file with batting Averages for year year has
@@ -532,15 +575,74 @@ class NPSimulation(Simulation):
 
 def main(*args): # pragma: no cover
     """
-    run a single simulation from the command line
+    run a single or mass simulation from the command line
     """
-    if args[1] == '-d':
-        sim = NPSimulation(int(args[2]), int(args[3]), int(args[4]), int(args[5]), 
-            doubleDown=True)
-    else:
-        sim = NPSimulation(int(args[1]), int(args[2]), int(args[3]), int(args[4]))
+    import re
+    # see what special options the user wants
+    options = [arg for arg in args if '-' in arg]
 
-    sim.simulate()
+    # Set to default values, only changed if options included them
+    massSim = False
+    doubleDown = False
+    minPA = 502
+
+    # doubleDown?
+    if '-d' in options:
+        doubleDown = True
+        print "If you're doing a mass simulation, then -d does nothing,"
+        print "Mass simulation varies over single and double down by default"
+    # non-standard minPA value?
+    pMinPA = re.compile('-m=[1-9][0-9]+')
+    matches = [pMinPA.match(option) for option in options if pMinPA.match(option)]
+    if len(matches) == 1:
+        minPA = int(matches[0].string[3:])
+    elif len(matches) != 0:
+        print "can only use the -m option once!"
+        return
+    # is it a normal or mass simulation?
+    if '-M' in options:
+        massSim = True
+    if massSim:
+        # make sure last four arguments are simYearLow-simYearHigh, 
+        # batAveYearLow-batAveYearHigh, nLow-nHigh, pLow, pHigh
+        numDashNumP = re.compile('[0-9]+-[0-9]+')
+        for arg in args[-4:]:
+            if numDashNumP.match(arg) == None:
+                print "ERROR: Invalid arg: {}".format(arg)
+        # get args and run simulation
+        firstNumP = re.compile('^[0-9]+')
+        lastNumP = re.compile('[0-9]+$')
+        simYearLow = int(re.findall(firstNumP, args[-4] )[0])
+        simYearHigh = int(re.findall(lastNumP, args[-4] )[0])
+        smbLow = int(re.findall(firstNumP, args[-3] )[0])
+        smbHigh = int(re.findall(lastNumP, args[-3] )[0])
+        nLow = int(re.findall(firstNumP, args[-2] )[0])
+        nHigh = int(re.findall(lastNumP, args[-2] )[0])
+        pLow = int(re.findall(firstNumP, args[-1] )[0])
+        pHigh = int(re.findall(lastNumP, args[-1] )[0])
+        print "Mass Simming with sYR: {}-{}, smbR: {}-{}".format(simYearLow, 
+            simYearHigh, smbLow, smbHigh) + \
+            " nR: {}-{}, pR: {}-{}".format(nLow, nHigh, pLow, pHigh)
+        print "Options: doubleDown: {}".format(doubleDown) 
+        sim = NPSimulation(simYearLow, simYearHigh, nLow, pLow, 
+                           doubleDown=doubleDown) 
+        sim.mass_simulate((simYearLow, simYearHigh), 
+                          (smbLow, smbHigh), 
+                          (nLow, nHigh), (pLow, pHigh))
+    else: # do a single simulation
+        # make sure last four arguments are simYear, batAveYear, N, P
+        for arg in args[-4:]:
+            try:  
+                int(arg)
+            except ValueError as e:
+                print e.message
+                return
+        sim = NPSimulation(int(args[-4]), int(args[-3]), int(args[-2]), 
+                           int(args[-1]), doubleDown=doubleDown, minPA=minPA)
+        print "Simming with simYear: {}, batAveYear: {}, N: {}, P: {}".format(
+                int(args[-4]), int(args[-3]), int(args[-2]), int(args[-1]), minPA)
+        print "Options: DoubleDown: {}, minPA: {}".format(doubleDown, minPA)
+        sim.simulate()
 
 if __name__ == '__main__': # pragma: no cover
     """
@@ -550,6 +652,9 @@ if __name__ == '__main__': # pragma: no cover
        -> runs a single simulation with given parameters
     2) ./npsimulation.py -d simYear batAveYear N P
        -> runs a single simulation with given parameters using DoubleDown
+    3) ./npsimulation.py -d -m=minPA simYear batAveYear N P
+       -> runs a single simulation with given parameters using doubleDown
+       and minPA = minPA
     """
     main(*sys.argv)
     
