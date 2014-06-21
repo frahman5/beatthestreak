@@ -93,21 +93,34 @@ static PyObject *cresearcher_finish_did_get_hit(
     return (numHits > 0) ? Py_True : Py_False;
 }
 
-// char const* docString= 
-// "PyDateTime_date char* char* char* -> int\
-
-//     date: PyDateTIME_date | the date for which we are finishing the did_get_hit search\
-//     firstName: char* | first name of player we are searching for\
-//     lastName: char* | last name of player we are searching for\
-//     boxscore: char* | filepath of boxscore file for player on date\
-
-// Searches the boxscore for the player's boxscore line and\
-// returns the number of hits he had on the given date";
+const char *docString= 
+"PyDateTime_date char* char* char* -> int\
+\n\
+    date: PyDateTIME_date | the date for which we are finishing the did_get_hit search\
+    firstName: char* | first name of player we are searching for\
+    lastName: char* | last name of player we are searching for\
+    boxscore: char* | filepath of boxscore file for player on date\
+\n\
+Searches the boxscore for the player's boxscore line and\
+returns the number of hits he had on the given date";
 
 /* Declares the methods in the module */
 static PyMethodDef cresearcherMethods[] = {
-    {"finish_did_get_hit", (PyCFunction)cresearcher_finish_did_get_hit, 
-      METH_KEYWORDS, "FILL IN LATER"}, 
+    {"finish_did_get_hit", 
+    (PyCFunction)cresearcher_finish_did_get_hit, 
+    METH_KEYWORDS, 
+"datetime.date str str str -> int\
+\n\
+    date: datetime.date | the date for which we are finishing the did_get_hit search\n\
+    firstName: str | first name of player we are searching for\n\
+    lastName: str | last name of player we are searching for\n\
+    boxscore: str | filepath of boxscore file for player on date\n\
+\n\
+Searches the boxscore for the player's boxscore line and\n\
+returns True if he got a hit, False if not, and an Exception if appropriate\n\
+\n\
+Example Usage: finish_did_get_hit(date=d1, firstName=n1, lastname=n2, boxscore=b1)\n\
+where the above variables are set appropriately"},
     {NULL, NULL, 0, NULL} /* sentinel */
 };
 

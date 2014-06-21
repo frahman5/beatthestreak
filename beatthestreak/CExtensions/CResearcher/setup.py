@@ -3,6 +3,6 @@ from distutils.core import setup, Extension
 CResearcher = Extension('cresearcher', 
                          sources=['cresearcher.c', 'crhelper.c'])
 
-setup(name='CResearcher', version='0.1', 
-      description='This is just to get it to fail tests', 
+setup(name='CResearcher', version='1.0', 
+      description='Fully Functional finish_did_get_hit to speedup simulations', 
       ext_modules = [CResearcher])

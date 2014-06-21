@@ -119,8 +119,8 @@ Notes:
                               -> 84.5% of time in c.did_get_hit
                                  -> 65.2% pf time in finish_did_get_hit
                   Approximate time usage:
-                      Raw: 3.63 * .46 * 1 * .70 * .97 * 944 * .845 * .652 = 0.162
-                      Percent: 58.9%
+                      Raw: 3.63 * .46 * 1 * .70 * .97 * 944 * .845 * .652 = 0.904
+                      Percent: 24.9%
 
 
      -> Try removing unnecessary attributes from objects (like player, from bot)
