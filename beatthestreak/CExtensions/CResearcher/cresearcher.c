@@ -3,17 +3,9 @@
 #include "Python.h" /* also imports stdlib, stdio, string, errno */
 #include "datetime.h"   /* PyDatetime support */
 #include "crhelper.h"   /* get_third_num_in_string */
-#include <errno.h>      /* errno */
-#include <stdlib.h>     /* exit, EXIT_SUCCESS, EXIT_FAILURE */
 
 #define MAXLINE 80 // boxscore line lengths seem to be < 80. MUST CHECK
 
-/* Left to do 
-    -> install error handling | DONE
-    -> test for speed
-    -> divide into seperate functions if so desired
-    -> test for speed
-    -> determine if you want to install hash-based lookups for increased performance */
 /* did_get_hit method */
 static PyObject *cresearcher_finish_did_get_hit(
           PyObject *self, PyObject *args, PyObject *kwargs) {
@@ -30,8 +22,7 @@ static PyObject *cresearcher_finish_did_get_hit(
     }
 
     //open the file
-    FILE *fp;
-    fp = fopen(boxscore, "r");
+    FILE *fp = fopen(boxscore, "r");
     if (fp == NULL) {
         return PyErr_Format(PyExc_IOError, "Could not open boxscore\n");
     }
@@ -39,17 +30,17 @@ static PyObject *cresearcher_finish_did_get_hit(
     /* Get month day year. dont initalize month, day, year buffers because 
     they get printed to right away */
     char monthS[3]; // 2 digit month plus space for the sentinel
-    sprintf(monthS, "%d", PyDateTime_GET_MONTH(d));
     char dayS[3];   // 2 digit day plus space for the sentinel
-    sprintf(dayS, "%d", PyDateTime_GET_DAY(d));
     char yearS[5];   // 4 digit year plus space for the sentinel
+    sprintf(monthS, "%d", PyDateTime_GET_MONTH(d));
+    sprintf(dayS, "%d", PyDateTime_GET_DAY(d));
     sprintf(yearS, "%d", PyDateTime_GET_YEAR(d));
 
     /* Create the searchD string. We strcpy the first string to assure
        that we don't concat onto garbage on the strcats */
     char *backslash = "/";
     char searchD[11]; // ten digit mm/dd/yyyy plus space for the sentinel
-    char *helperArray[] = {monthS, backslash, dayS, backslash, yearS};
+    char *helperArray[] = { monthS, backslash, dayS, backslash, yearS};
     strcpy(searchD, helperArray[0]);
     for (int i=1; i < 5; i++) {
         strcat(searchD, helperArray[i]);
