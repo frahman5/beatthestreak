@@ -46,26 +46,11 @@ static PyObject *cresearcher_finish_did_get_hit(
         strcat(searchD, helperArray[i]);
     }
 
-    /* Search for the line with searchD and print that line */
-    char line[MAXLINE]; 
-    char lineCheck[MAXLINE];
-    char *foundIt = NULL;
-    while (!foundIt) {
-        strcpy(lineCheck, line);
-        fgets(line, MAXLINE, fp);
-        foundIt = strstr(line, searchD);
-        if (strcmp(line, lineCheck) == 0) {
-            PyErr_Format(PyExc_EOFError, 
-                "Reached end of boxcore on date search: %s\n", searchD);
-            return NULL;
-        }   
-    }
-  
-    unsigned long len = strlen(firstName) + strlen(lastName) + 3;
+    /* Create the searchP string. We strcpy the first string so we don't
+       concat onto garbage when we call strcat. The plus 2 is for breathing room*/
+    unsigned long len = strlen(firstName) + strlen(lastName) + 2;
     char *searchP = (char *) malloc(len);
     if (searchP) {
-        /* strcpy the first string to ensure we don't concat onto garbage
-           on the strcats */
         strcpy(searchP, lastName);
         strcat(searchP, " ");   
         strncat(searchP, firstName, 1); // get the first letter of firstName
@@ -73,21 +58,26 @@ static PyObject *cresearcher_finish_did_get_hit(
         return PyErr_Format(PyExc_SystemError, 
             "Malloc for searchP with len %lu failed", len );
     }
-    char *foundIt2 = NULL;
-    while (!foundIt2) {
-        strcpy(lineCheck, line);
-        fgets(line, MAXLINE, fp);
-        foundIt2 = strstr(line, searchP);
-        if (strcmp(line, lineCheck) == 0) {
-            return PyErr_Format(PyExc_EOFError, 
-                "Reached end of boxcore on player line search: %s\n", searchP);
-        }
+
+    char *foundIt;
+    int success = -1; // search_boxscore returns 1 on success and 0 on failure
+    /* Search for the line with searchD */
+    success = _search_boxscore(fp, &foundIt, searchD);
+    if (success == 0) { // reached end of file
+        return PyErr_Format(PyExc_EOFError, 
+                "Reached end of boxcore on date search: %s\n", searchD);
+    }
+    /* Search for line with searchP */
+    success = _search_boxscore(fp, &foundIt, searchP);
+    if (success == 0) { //reached end of file
+        return PyErr_Format(PyExc_EOFError, 
+            "Reached end of boxscore on player search: %s\n", searchP);
     }
     
     /* get the player hit info
        number of hits player had is third number from the left in 
        the returned string */
-    int numHits = get_third_num_in_string(foundIt2);
+    int numHits = get_third_num_in_string(foundIt);
     if (numHits == -1) { // make sure we didn't have an error
         return PyErr_Format(PyExc_IndexError, 
             "Could not find three numbers in boxscore %s on date %s and\
@@ -99,8 +89,7 @@ static PyObject *cresearcher_finish_did_get_hit(
     fclose(fp);
 
     //return player hit info
-    if (numHits > 0) { return Py_True; } 
-    else { return Py_False; }
+    return (numHits > 0) ? Py_True : Py_False;
 }
 
 // char const* docString= 

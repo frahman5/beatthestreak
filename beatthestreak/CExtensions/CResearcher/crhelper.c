@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "crhelper.h"
 #include <string.h>
+#include <stdlib.h> /* exit */
 // #include "python.h"
 #define MAXLINE 130
 
@@ -40,8 +41,12 @@ int get_third_num_in_string(char *bsline) {
     return -1; // function should always return a positive value
 }
 
-void _search_boxscore(FILE *fp, char **foundIt, char *search) {
-    printf("*********NEW CALL***********\n");
+int _search_boxscore(FILE *fp, char **foundIt, char *search) {
+    /* Searches file fp for string search and stores the first occurence of
+    it and the remainder of the line in *foundIt. Puts "\0" in foundIt if 
+    it was not found 
+
+    Returns if successful and 0 otherwise*/
     char line[MAXLINE]; 
     char lineCheck[MAXLINE];
 
@@ -49,12 +54,10 @@ void _search_boxscore(FILE *fp, char **foundIt, char *search) {
     while (strstr(line, search) == NULL) {
         strcpy(lineCheck, line);
         fgets(line, MAXLINE, fp);
-        printf("next line: %s", line);
-        if (strcmp(line, lineCheck) == 0) {
-            printf("END OF FILE..\n");
-            *foundIt = "\0";
+        if (strcmp(line, lineCheck) == 0) { 
+            return 0;
         }
     }
     *foundIt = strstr(line, search);
-    printf("Reached end of function, here's foundIt: %sEND\n", *foundIt);
+    return 1;
 }
