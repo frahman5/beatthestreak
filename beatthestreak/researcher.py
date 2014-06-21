@@ -221,6 +221,7 @@ class Researcher(object):
         return homeTeamList[0]
 
     @classmethod
+    # @profile
     def did_start(self, date, player):
         """
         date Player -> bool
@@ -231,6 +232,10 @@ class Researcher(object):
         """
         self.check_date(date, date.year)
 
+        # rId = player.get_retrosheet_id()
+        # part_superset = self.__get_participants_superset(date)
+        # print part_superset
+        # return rId in part_superset
         return player.get_retrosheet_id() in self.__get_participants_superset(date)
   
     @classmethod
@@ -295,8 +300,8 @@ class Researcher(object):
         # get the retrosheet ids from the games and return the list 
         # return (field for game in listOfGames for field in game 
         #             if re.match(self.retroP, field))
-        return (field for game in listOfGames for field in game 
-                    if len(field) == 8)
+        return set((field for game in listOfGames for field in game 
+                    if len(field)))
 
     @classmethod
     def __get_list_of_games(self, date):

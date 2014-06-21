@@ -72,7 +72,7 @@ Notes:
         -> Make the results reporting work | DONE
 
 4) Necessary speedups in order for mass simulation to be viable
-     -> Move most critical function to C (using -d 2010 2009 20 20 benchmark)
+     -> Move most critical function to C (using -d 2010 2009 20 20 benchmark) |
          -> 1) Determine which is most critical function 
                  -> 65% of simulate time: sim_next_day
                    -> 100% of sim_next_day time: sim_next_day_double
@@ -87,6 +87,16 @@ Notes:
                       -> 3.028 seconds. Let's cut that to 0.001
          -> 2) Adapt testing code for that function/helpers
          -> 3) Code until tests pass
+     -> Fix the next most time consuming part
+        1) Which part?
+              48% of simulate time: sim_next_day
+                 -> 100% of sim_next_day: sim_next_day_double
+                    -> 61% of sim_next_day_double: did_start
+                       -> 88% of that time is spent seeing if the rId is in the
+                          player_superset for the given day:
+            Code : rId in player_superset:
+                Approximate time usage: 6.15 * .48 * 1 * .61 * .88 
+                     > 1.585 seconds. Let's cut that to 0.001
      -> Try removing unnecessary attributes from objects (like player, from bot)
      -> Consider running multiple N with the same P in parallel
      -> See if player's are redundantly calculating batting averages

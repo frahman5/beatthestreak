@@ -221,7 +221,7 @@ class NPSimulation(Simulation):
            self.botHistoryBuffer = [date, []] 
         return None
 
-    # @profile
+    # @profile 
     def simulate(self, numDays='max', anotherSim=False, test=False, prbar=True):
         """
         int|string  bool bool bool -> datetime.date datetime.date
@@ -292,6 +292,7 @@ class NPSimulation(Simulation):
         if anotherSim: # pragma: no cover
             self.set_setup(value=False)
 
+        # print ("simulation over!");
         return startDate, lastDate
 
     def mass_simulate(self, simYearRange, simMinBatRange, NRange, PRange, 

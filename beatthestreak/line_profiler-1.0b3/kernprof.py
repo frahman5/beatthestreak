@@ -8,8 +8,8 @@ import os
 import sys
 
 
-# Guard the import of cProfile such that 2.4 people without lsprof can still use
-# this script.
+Guard the import of cProfile such that 2.4 people without lsprof can still use
+this script.
 try:
     from cProfile import Profile
 except ImportError:
@@ -17,6 +17,7 @@ except ImportError:
         from lsprof import Profile
     except ImportError:
         from profile import Profile
+# from profile import Profile
 
 
 CO_GENERATOR = 0x0020

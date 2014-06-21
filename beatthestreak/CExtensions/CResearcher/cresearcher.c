@@ -58,7 +58,6 @@ static PyObject *cresearcher_finish_did_get_hit(
         return PyErr_Format(PyExc_SystemError, 
             "Malloc for searchP with len %lu failed", len );
     }
-
     char *foundIt;
     int success = -1; // search_boxscore returns 1 on success and 0 on failure
     /* Search for the line with searchD */
@@ -67,12 +66,14 @@ static PyObject *cresearcher_finish_did_get_hit(
         return PyErr_Format(PyExc_EOFError, 
                 "Reached end of boxcore on date search: %s\n", searchD);
     }
+
     /* Search for line with searchP */
     success = _search_boxscore(fp, &foundIt, searchP);
     if (success == 0) { //reached end of file
         return PyErr_Format(PyExc_EOFError, 
             "Reached end of boxscore on player search: %s\n", searchP);
     }
+    
     
     /* get the player hit info
        number of hits player had is third number from the left in 
@@ -84,9 +85,9 @@ static PyObject *cresearcher_finish_did_get_hit(
  player %s", boxscore, searchD, searchP);    
     }
 
-    //close the file and free searchP
-    free(searchP);
+    //close the file
     fclose(fp);
+    free(searchP);
 
     //return player hit info
     return (numHits > 0) ? Py_True : Py_False;
@@ -105,7 +106,7 @@ static PyObject *cresearcher_finish_did_get_hit(
 
 /* Declares the methods in the module */
 static PyMethodDef cresearcherMethods[] = {
-    {"finish_did_get_hit", cresearcher_finish_did_get_hit, 
+    {"finish_did_get_hit", (PyCFunction)cresearcher_finish_did_get_hit, 
       METH_KEYWORDS, "FILL IN LATER"}, 
     {NULL, NULL, 0, NULL} /* sentinel */
 };
