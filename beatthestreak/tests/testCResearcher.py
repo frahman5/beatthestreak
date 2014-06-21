@@ -74,11 +74,11 @@ class TestCResearcher(unittest.TestCase):
         self.assertTrue(R.c_did_get_hit(date(2009, 7, 9), Lance))
 
         # To check that function safely exits on errors
-        print ("\nShould get two lines of safe exits")
-        finish_did_get_hit(date=date(2012, 6, 5), firstName='Faiyam', 
-                   lastName='Rahman', boxscore='ooglyboogly.asdfx')
-        finish_did_get_hit(date=date(2012, 6, 5), firstName='Faiyam', 
-                   lastName='Rahman', boxscore=Filepath.get_retrosheet_file(
+        self.assertRaises(IOError, finish_did_get_hit, date=date(2012, 6, 5), 
+            firstName='Faiyam', lastName='Rahman', boxscore='ooglyboogly.asdfx')
+        self.assertRaises(EOFError, finish_did_get_hit, date=date(2012, 6, 5), 
+            firstName='Faiyam', lastName='Rahman', 
+            boxscore=Filepath.get_retrosheet_file(
                     folder='unzipped', fileF='boxscore', year=2012, 
                     team='NYN'))
 

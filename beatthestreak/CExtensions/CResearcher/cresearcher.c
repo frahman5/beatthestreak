@@ -26,22 +26,18 @@ static PyObject *cresearcher_finish_did_get_hit(
     char* keywords[] = {"date", "firstName", "lastName", "boxscore", NULL}; 
     if (!PyArg_ParseTupleAndKeywords(args, kwargs, "Osss", keywords, &d, 
                                      &firstName, &lastName, &boxscore)){
-        puts("Problem with keyword arguments");
-        // raises an exception on its own
+        return NULL; // raises an exception on its own
     }
 
     //open the file
     FILE *fp;
     fp = fopen(boxscore, "r");
     if (fp == NULL) {
-        puts("Opening boxscore file failed");
-        return PyExc_IOError;
+        return PyErr_Format(PyExc_IOError, "Could not open boxscore\n");
     }
 
-    /* Construct the searchD string */
-    char *backslash = "/";
-    char searchD[11]; // ten digit mm/dd/yyyy plus space for the sentinel
-
+    /* Get month day year. dont initalize month, day, year buffers because 
+    they get printed to right away */
     char monthS[3]; // 2 digit month plus space for the sentinel
     sprintf(monthS, "%d", PyDateTime_GET_MONTH(d));
     char dayS[3];   // 2 digit day plus space for the sentinel
@@ -49,13 +45,18 @@ static PyObject *cresearcher_finish_did_get_hit(
     char yearS[5];   // 4 digit year plus space for the sentinel
     sprintf(yearS, "%d", PyDateTime_GET_YEAR(d));
 
+    /* Create the searchD string. We strcpy the first string to assure
+       that we don't concat onto garbage on the strcats */
+    char *backslash = "/";
+    char searchD[11]; // ten digit mm/dd/yyyy plus space for the sentinel
     char *helperArray[] = {monthS, backslash, dayS, backslash, yearS};
-    for (int i=0; i < 5; i++) {
+    strcpy(searchD, helperArray[0]);
+    for (int i=1; i < 5; i++) {
         strcat(searchD, helperArray[i]);
     }
 
     /* Search for the line with searchD and print that line */
-    char line[MAXLINE];
+    char line[MAXLINE]; 
     char lineCheck[MAXLINE];
     char *foundIt = NULL;
     while (!foundIt) {
@@ -63,20 +64,23 @@ static PyObject *cresearcher_finish_did_get_hit(
         fgets(line, MAXLINE, fp);
         foundIt = strstr(line, searchD);
         if (strcmp(line, lineCheck) == 0) {
-            PyErr_SetString(PyExc_EOFError, "Reached end of boxcore on date search\n");
-            // printf("Reached end of boxscore with no result on search for date\n");
+            PyErr_Format(PyExc_EOFError, 
+                "Reached end of boxcore on date search: %s\n", searchD);
             return NULL;
         }   
     }
-
-    char *searchP = (char *) malloc(strlen(firstName) + strlen(lastName) + 2);
+  
+    unsigned long len = strlen(firstName) + strlen(lastName) + 3;
+    char *searchP = (char *) malloc(len);
     if (searchP) {
-        strcat(searchP, lastName);
+        /* strcpy the first string to ensure we don't concat onto garbage
+           on the strcats */
+        strcpy(searchP, lastName);
         strcat(searchP, " ");   
         strncat(searchP, firstName, 1); // get the first letter of firstName
     } else {
-        printf("Malloc failed");
-        exit(EXIT_FAILURE);
+        return PyErr_Format(PyExc_SystemError, 
+            "Malloc for searchP with len %lu failed", len );
     }
     char *foundIt2 = NULL;
     while (!foundIt2) {
@@ -84,9 +88,8 @@ static PyObject *cresearcher_finish_did_get_hit(
         fgets(line, MAXLINE, fp);
         foundIt2 = strstr(line, searchP);
         if (strcmp(line, lineCheck) == 0) {
-            PyErr_SetString(PyExc_EOFError, "Reached end of boxcore on player line search\n");
-            // printf("Reached end of boxscore with no result on search for player line\n");
-            return NULL;
+            return PyErr_Format(PyExc_EOFError, 
+                "Reached end of boxcore on player line search: %s\n", searchP);
         }
     }
     
@@ -95,7 +98,9 @@ static PyObject *cresearcher_finish_did_get_hit(
        the returned string */
     int numHits = get_third_num_in_string(foundIt2);
     if (numHits == -1) { // make sure we didn't have an error
-        return PyExc_IndexError;
+        return PyErr_Format(PyExc_IndexError, 
+            "Could not find three numbers in boxscore %s on date %s and\
+ player %s", boxscore, searchD, searchP);    
     }
 
     //close the file and free searchP

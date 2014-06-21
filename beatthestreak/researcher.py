@@ -138,8 +138,6 @@ class Researcher(object):
         # Invoke CResearcher helper function
         retVal = finish_did_get_hit(date=date, firstName=firstName, 
                                         lastName=lastName, boxscore=boxscore)
-        print "retVal: {}".format(retVal)
-        print "type(retVal): {0}".format(type(retVal))
         if type(retVal) == Exception:
             raise retVal
         return retVal
