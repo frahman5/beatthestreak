@@ -44,6 +44,8 @@ class Researcher(object):
            ListOfTuples: Tuples of type (player, hitVal, otherInfo) which store
               a player, his hitVal on the given date and any miscellaneous
               info about his hitVal
+        partSupersetBuffer: a list of [date, set] where the set is the group
+           of participants on date date
 
     """
     openAndCloseDays = {1963: (datetime.date(1963, 4, 8), datetime.date(1963, 9, 29)), 1964: (datetime.date(1964, 4, 13), datetime.date(1964, 10, 4)), 1965: (datetime.date(1965, 4, 12), datetime.date(1965, 10, 3)), 1966: (datetime.date(1966, 4, 11), datetime.date(1966, 10, 2)), 1967: (datetime.date(1967, 4, 10), datetime.date(1967, 10, 1)), 1968: (datetime.date(1968, 4, 10), datetime.date(1968, 9, 29)), 1969: (datetime.date(1969, 4, 7), datetime.date(1969, 10, 2)), 1970: (datetime.date(1970, 4, 6), datetime.date(1970, 10, 1)), 1971: (datetime.date(1971, 4, 5), datetime.date(1971, 9, 30)), 1972: (datetime.date(1972, 4, 15), datetime.date(1972, 10, 4)), 1973: (datetime.date(1973, 4, 5), datetime.date(1973, 10, 1)), 1974: (datetime.date(1974, 4, 4), datetime.date(1974, 10, 2)), 1975: (datetime.date(1975, 4, 7), datetime.date(1975, 9, 28)), 1976: (datetime.date(1976, 4, 8), datetime.date(1976, 10, 3)), 1977: (datetime.date(1977, 4, 6), datetime.date(1977, 10, 2)), 1978: (datetime.date(1978, 4, 5), datetime.date(1978, 10, 2)), 1979: (datetime.date(1979, 4, 4), datetime.date(1979, 9, 30)), 1980: (datetime.date(1980, 4, 9), datetime.date(1980, 10, 6)), 1981: (datetime.date(1981, 4, 8), datetime.date(1981, 10, 5)), 1982: (datetime.date(1982, 4, 5), datetime.date(1982, 10, 3)), 1983: (datetime.date(1983, 4, 4), datetime.date(1983, 10, 2)), 1984: (datetime.date(1984, 4, 2), datetime.date(1984, 9, 30)), 1985: (datetime.date(1985, 4, 8), datetime.date(1985, 10, 6)), 1986: (datetime.date(1986, 4, 7), datetime.date(1986, 10, 5)), 1987: (datetime.date(1987, 4, 6), datetime.date(1987, 10, 4)), 1988: (datetime.date(1988, 4, 4), datetime.date(1988, 10, 2)), 1989: (datetime.date(1989, 4, 3), datetime.date(1989, 10, 1)), 1990: (datetime.date(1990, 4, 9), datetime.date(1990, 10, 3)), 1991: (datetime.date(1991, 4, 8), datetime.date(1991, 10, 6)), 1992: (datetime.date(1992, 4, 6), datetime.date(1992, 10, 4)), 1993: (datetime.date(1993, 4, 5), datetime.date(1993, 10, 3)), 1994: (datetime.date(1994, 4, 3), datetime.date(1994, 8, 11)), 1995: (datetime.date(1995, 4, 25), datetime.date(1995, 10, 2)), 1996: (datetime.date(1996, 3, 31), datetime.date(1996, 9, 29)), 1997: (datetime.date(1997, 4, 1), datetime.date(1997, 9, 28)), 1998: (datetime.date(1998, 3, 31), datetime.date(1998, 9, 28)), 1999: (datetime.date(1999, 4, 4), datetime.date(1999, 10, 4)), 2000: (datetime.date(2000, 3, 29), datetime.date(2000, 10, 1)), 2001: (datetime.date(2001, 4, 1), datetime.date(2001, 10, 7)), 2002: (datetime.date(2002, 3, 31), datetime.date(2002, 9, 29)), 2003: (datetime.date(2003, 3, 30), datetime.date(2003, 9, 28)), 2004: (datetime.date(2004, 3, 30), datetime.date(2004, 10, 3)), 2005: (datetime.date(2005, 4, 3), datetime.date(2005, 10, 2)), 2006: (datetime.date(2006, 4, 2), datetime.date(2006, 10, 1)), 2007: (datetime.date(2007, 4, 1), datetime.date(2007, 10, 1)), 2008: (datetime.date(2008, 3, 25), datetime.date(2008, 9, 30)), 2009: (datetime.date(2009, 4, 5), datetime.date(2009, 10, 6)), 2010: (datetime.date(2010, 4, 4), datetime.date(2010, 10, 3)), 2011: (datetime.date(2011, 3, 31), datetime.date(2011, 9, 28)), 2012: (datetime.date(2012, 3, 28), datetime.date(2012, 10, 3))}
@@ -53,7 +55,9 @@ class Researcher(object):
     playerUsedBuffer = False # for testing
     type1SeekPosUsed = None # for testing boxscoreBuffer date searches
     logSeekPosUsed = None # for testing listOfGames Buffer
-    logUsedBuffer = None
+    logUsedBuffer = None # for testing
+    psUsedBuffer = False # for testing
+    partSupersetBuffer = [None, set([])]
 
     # regular expression for matching retrosheet ids
     retroP = re.compile(r"""
@@ -232,11 +236,11 @@ class Researcher(object):
         """
         self.check_date(date, date.year)
 
-        # rId = player.get_retrosheet_id()
-        # part_superset = self.__get_participants_superset(date)
+        rId = player.get_retrosheet_id()
+        part_superset = self.__get_participants_superset(date)
         # print part_superset
-        # return rId in part_superset
-        return player.get_retrosheet_id() in self.__get_participants_superset(date)
+        return rId in part_superset
+        # return player.get_retrosheet_id() in self.__get_participants_superset(date)
   
     @classmethod
     def num_at_bats(self, year, player):
@@ -287,11 +291,21 @@ class Researcher(object):
         date -> GeneratorOfStrings  
         date: date | a date of the year
 
-        Produces a generator of strings that is a STRICT SUPERSET of
+        Produces a set of strings that is a STRICT SUPERSET of
         the retrosheet ids corresponding to players starting, 
         umps officiating, and managers managing on the given day
         """
         self.check_date(date, date.year)
+
+        # If its on the buffer, go get it
+        if self.partSupersetBuffer[0] == date:
+            self.psUsedBuffer = True # for testing
+            return self.partSupersetBuffer[1]
+        else:
+            self.psUsedBuffer = False # for testing
+            self.partSupersetBuffer[0] = date
+
+        # else construct it
         Utilities.ensure_gamelog_files_exist(date.year)
 
         # extract all the games on the given date
@@ -300,8 +314,10 @@ class Researcher(object):
         # get the retrosheet ids from the games and return the list 
         # return (field for game in listOfGames for field in game 
         #             if re.match(self.retroP, field))
-        return set((field for game in listOfGames for field in game 
+        answer = set((field for game in listOfGames for field in game 
                     if len(field)))
+        self.partSupersetBuffer[1] = answer
+        return answer
 
     @classmethod
     def __get_list_of_games(self, date):

@@ -268,6 +268,17 @@ class TestResearcher(unittest.TestCase):
         self.assertTrue(set(participants_2007_5_2).issubset(
           R._Researcher__get_participants_superset(date(2007, 5, 2)))) # May 1st CHN #@ PIT suspended game completed on May 2
 
+    def test_get_participants_superset_buffer(self):
+        # Check 1: if its not on the buffer, you get the right thing
+        R.partSupersetBuffer = [None, set({})]
+        self.assertTrue(set(participants_2011_9_4).issubset(
+          set(R._Researcher__get_participants_superset(date(2011,9,4)))))
+
+        # Check 2: if its on the buffer, you go get it from the buffer
+        self.assertFalse(R.psUsedBuffer)
+        self.assertTrue(set(participants_2011_9_4).issubset(
+          set(R._Researcher__get_participants_superset(date(2011,9,4)))))
+        self.assertTrue(R.psUsedBuffer)
     #@unittest.skip("Not Focus")
     def test_find_home_team(self):
         Troy = Player("Troy", "Tulowitzki", 2010)
@@ -301,6 +312,7 @@ class TestResearcher(unittest.TestCase):
         ## CHECK 1: Not on buffer and last byte checked is of no use
             ## CHECK 1.1: If date slot is None, startSeekPos is 0 and buffer
             ## is updated with new date, listOfGames and lastByteChecked
+        R.partSupersetBuffer = [None, set([])]
         R.logUsedBuffer = False
         R.listOfGamesBuffer = (None, (), 0)
         R.find_home_team(d1, Edwin)
@@ -314,6 +326,7 @@ class TestResearcher(unittest.TestCase):
             ## Check 1.2: If date slot is not none but it's a different year, 
             ## startSeekPos is 0 and buffer is updated with new date, 
             ## listOfGames and lastByteChecked
+        R.partSupersetBuffer = [None, set([])]
         R.logUsedBuffer = False
         R.find_home_team(d2, Troy)
             # we didn't use the buffer
@@ -326,6 +339,7 @@ class TestResearcher(unittest.TestCase):
             ## Check 1.2: If date slot is not none, its the same year, but
             ## the date is before the date on file,  then startSeekPos is 0
             ## and buffer is updated with new date, listOfGames, and lastByteChecked
+        R.partSupersetBuffer = [None, set([])]
         R.logUsedBuffer = False
         R.find_home_team(d3, Troy)
             # we didn't use the buffer
@@ -341,6 +355,7 @@ class TestResearcher(unittest.TestCase):
              ## greater then last date checked etc) then startseekPos is 
              ## lastByteChecked, date is updated, it returns a () 
              ## and the last byte checked remains unchanged
+        R.partSupersetBuffer = [None, set([])]
         R.logUsedBuffer = False
         R.did_start(d4, Alfonso) 
             # we didn't use the buffer
@@ -354,6 +369,7 @@ class TestResearcher(unittest.TestCase):
              ## than last date checked etc), then startSeekPos is lastByteCHecked,
              ## date is updated, it returns the correct listOfGames, and
              ## updates the last byte checked
+        R.partSupersetBuffer = [None, set([])]
         R.logUsedBuffer = False
         R.did_start(d5, Troy)
             # we didn't use the buffer
@@ -365,6 +381,7 @@ class TestResearcher(unittest.TestCase):
         self.assertEqual(R.listOfGamesBuffer[2], 1487561)
 
         ## CHECK 3: If it's on the buffer, we get it from the buffer
+        R.partSupersetBuffer = [None, set([])]
         R.logUsedBuffer = False
         R.did_start(d5, Alfonso)
           # we got it from the buffer

@@ -83,6 +83,7 @@ class NPSimulation(Simulation):
 
         self.didNotRepeatSetup = False
 
+    # @profile
     def setup(self):
         """
         Downloads necessary retrosheet data, initalizes bots, players, minBatAve, 
@@ -292,7 +293,6 @@ class NPSimulation(Simulation):
         if anotherSim: # pragma: no cover
             self.set_setup(value=False)
 
-        # print ("simulation over!");
         return startDate, lastDate
 
     def mass_simulate(self, simYearRange, simMinBatRange, NRange, PRange, 
@@ -518,7 +518,9 @@ class NPSimulation(Simulation):
             if lenPlayers == P: # we've got all the players
                 break
             if PA >= minPA: # make sure the player has enough plate appearances
-                append(Player(lahmanID, year))
+                player = Player(lahmanID, year, batAve=batAve)
+                append(player)
+                # append(Player(lahmanID, year))
                 lenPlayers += 1
 
         return players

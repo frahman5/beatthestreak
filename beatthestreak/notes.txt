@@ -71,7 +71,7 @@ Notes:
                 on excel file titles or its actually doing the wrong simulations
         -> Make the results reporting work | DONE
 
-4) Necessary speedups in order for mass simulation to be viable
+4) Necessary speedups in order for mass simulation to be viable (Using -d 2010 2009 20 20 benchmark)
      -> Move most critical function to C (using -d 2010 2009 20 20 benchmark) |
          -> 1) Determine which is most critical function 
                  -> 65% of simulate time: sim_next_day
@@ -97,6 +97,20 @@ Notes:
             Code : rId in player_superset:
                 Approximate time usage: 6.15 * .48 * 1 * .61 * .88 
                      > 1.585 seconds. Let's cut that to 0.001
+                ToDo: 
+                   1) Fix tests for list_of_games_buffer (just reset the participants buffer) | DONE
+                   2) test part_superset_buffer | DONE
+      -> Next part:
+        1) Which part?
+              51.8% of simulate time: setup
+                 -> 98.4% of setup time: __calc__players(self.batAveYear, self.minPA)
+                    --> 99.8% of that time is spent initializing player objects
+                       -> 62% of that time: set_bat_ave
+                 Approximate time usage: 
+                     Raw: 5.67 * .518 * .984 * .998: 1.792
+                     Percent: .316
+
+
      -> Try removing unnecessary attributes from objects (like player, from bot)
      -> Consider running multiple N with the same P in parallel
      -> See if player's are redundantly calculating batting averages

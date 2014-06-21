@@ -28,6 +28,9 @@ class Player(object):
         1) Player(lahmanID, batAveYear)
             -> takes lahmanID and batAveYear. Obtains name, retrosheetID and
             batting average on its own
+        1a) Player(lahmanID, batAveYear, batAve=INT)
+            -> takes lahmanId, batAveYear, batAve. Obtains name, retrosheetID
+            on its own. 
         2) Player(firstN, lastN, batAveYear)
             -> constructor will find retrosheet id, lahman id, batting ave, and
             if necessary prompt the user for a debut date
@@ -36,14 +39,17 @@ class Player(object):
             there is no chance of ambiguity in retrieving a retrosheet id
             -> if debut was september 4th, 1990, do debut='9/4/1990'
         """
-        # Type 1 construction
+        # Type 1, 1a construction
         if len(args) == 2: 
             assert type(args[0]) == str # lahman ID
             assert type(args[1]) == int # batAveYear
             self.lId = args[0]
             self.firstName, self.lastName = Researcher.name_from_lahman_id(args[0])
             self.rId = self.__set_retrosheet_id(source='lahmanID')
-            self.batAve = self._set_bat_ave(args[1])
+            if 'batAve' in kwargs.keys():
+                self.batAve = kwargs['batAve']
+            else:
+                self.batAve = self._set_bat_ave(args[1])
             self.debut = None
             return
 
@@ -63,7 +69,6 @@ class Player(object):
         self.rId = self.__set_retrosheet_id(source='name')
         self.lId = self.__set_lahman_id()
         self.batAve = self._set_bat_ave(args[2])
-        
 
     def __eq__(self, other):
         # technically, only need one. but dependability via redundancy :)
