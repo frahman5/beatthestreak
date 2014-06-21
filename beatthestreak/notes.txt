@@ -89,6 +89,7 @@ Notes:
          -> 3) Code until tests pass
      -> Try removing unnecessary attributes from objects (like player, from bot)
      -> Consider running multiple N with the same P in parallel
+     -> See if player's are redundantly calculating batting averages
 4.1) Do one "code cleanup" for every optimization you do
      -> Have simulations for the same year all report to the same excel file
      -> Clean up the startDate attribute
@@ -98,3 +99,6 @@ Notes:
      -> Make it read results from indiv sim files if the indiv sim
            has already been done
      -> Allow yourself to var minPA as well as singleDown and DoubleDown
+
+TODO UPON RETURN: edit get_third_num_in_string function to not count things like 2b
+  -> Also put tests in did_get_hit for players in EVERY position

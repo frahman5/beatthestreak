@@ -4,6 +4,8 @@ from beatthestreak.tests import p1, p2, p3, p4, p5
 
 from beatthestreak.researcher import Researcher as R
 from beatthestreak.player import Player
+from beatthestreak.filepath import Filepath
+from cresearcher import finish_did_get_hit
 
 class TestCResearcher(unittest.TestCase):
 
@@ -70,3 +72,18 @@ class TestCResearcher(unittest.TestCase):
         # Lance Berkman tests
         Lance = Player("Lance", "Berkman", 2008)
         self.assertTrue(R.c_did_get_hit(date(2009, 7, 9), Lance))
+
+        # To check that function safely exits on errors
+        print ("\nShould get two lines of safe exits")
+        finish_did_get_hit(date=date(2012, 6, 5), firstName='Faiyam', 
+                   lastName='Rahman', boxscore='ooglyboogly.asdfx')
+        finish_did_get_hit(date=date(2012, 6, 5), firstName='Faiyam', 
+                   lastName='Rahman', boxscore=Filepath.get_retrosheet_file(
+                    folder='unzipped', fileF='boxscore', year=2012, 
+                    team='NYN'))
+
+        # Debugging an EOFError
+        Eric = Player("Erick", "Aybar", 2010)
+        Miguel = Player("Miguel", "Cabrera", 2010)
+        self.assertFalse(R.c_did_get_hit(date(2010, 9, 4), Eric))
+        self.assertTrue(R.c_did_get_hit(date(2010, 4, 23), Miguel))

@@ -33,6 +33,7 @@ class TestUtilities(unittest.TestCase):
         os.chdir(unzippedFileFolder)
         self.assertEqual(os.listdir(os.getcwd()), [])
 
+    @unittest.skip("Don't want to delete files")
     def test_ensure_gamelog_files_exist(self):
         # gamelog files should be nonexistant before hand
         self.assertFalse(os.path.isfile(Filepath.get_retrosheet_file(
@@ -44,6 +45,7 @@ class TestUtilities(unittest.TestCase):
         self.assertTrue(os.path.isfile(Filepath.get_retrosheet_file(
             folder='unzipped', fileF='gamelog', year=2010)))
 
+    @unittest.skip("Don't want to delete files")
     def test_ensure_boxscore_files_exist(self):
         # boxscore files should be nonexistant before hand
         self.assertFalse(os.path.isfile(Filepath.get_retrosheet_file(

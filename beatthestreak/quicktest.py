@@ -10,9 +10,10 @@ Jose = Player("Jose", "Reyes", 2012, debut='6/10/2003')
 
 print R.did_get_hit(date(2012, 6, 16), Jose) # name in first half of boxscore line
 R.did_get_hit(date(2012, 6, 5), Jose)  # name in second half of boxscore line
-finish_did_get_hit(date=date(2012, 6, 16), 
-                   firstName="Faiyam",   
-                   lastName="Rahman", 
-                   boxscore=Filepath.get_retrosheet_file(
-                      folder='unzipped', fileF='boxscore', 
-                      year=2012, team='TBA'))
+finish_did_get_hit(date=date(2012, 6, 5), firstName='Faiyam', 
+                   lastName='Rahman', boxscore='ooglyboogly.asdfx')
+finish_did_get_hit(date=date(2012, 6, 5), firstName='Faiyam', 
+                   lastName='Rahman', boxscore=Filepath.get_retrosheet_file(
+                    folder='unzipped', fileF='boxscore', year=2012, 
+                    team='NYN'))
+

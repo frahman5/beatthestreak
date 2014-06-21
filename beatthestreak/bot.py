@@ -214,9 +214,9 @@ class Bot(object):
                 self.reset_streak()
         # Case 5: None of the above--houston we have a problem!
         else: # pragma: no cover
-            raise BotUpdateException("Update with player {0}".format(player) + \
-                ", didGetHit: {0}, date: {1}".format(didGetHit, date) + \
-                ", other: {0} was invalid".format(other))
+            raise BotUpdateException("Update with players {0} {1}".format(p1, p2) + \
+                ", hitVals: {0} {1}, date: {2}".format(hitVal1, hitVal2, date) + \
+                ", other: {0} {1} was invalid".format(otherInfo1, otherInfo2))
 
         # finalize otherInfo 
         otherInfo = self.__concat_other_infos(

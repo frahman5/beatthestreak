@@ -1,14 +1,15 @@
 /* C analogues of select functions from Researcher.py */
 
 #include "Python.h" /* also imports stdlib, stdio, string, errno */
-#include "datetime.h" 
-#include "crhelper.h"
+#include "datetime.h"   /* PyDatetime support */
+#include "crhelper.h"   /* get_third_num_in_string */
+#include <errno.h>      /* errno */
+#include <stdlib.h>     /* exit, EXIT_SUCCESS, EXIT_FAILURE */
 
 #define MAXLINE 80 // boxscore line lengths seem to be < 80. MUST CHECK
 
 /* Left to do 
-    -> test | DONE
-    -> install error handling
+    -> install error handling | DONE
     -> test for speed
     -> divide into seperate functions if so desired
     -> test for speed
@@ -24,13 +25,18 @@ static PyObject *cresearcher_finish_did_get_hit(
     char* boxscore;
     char* keywords[] = {"date", "firstName", "lastName", "boxscore", NULL}; 
     if (!PyArg_ParseTupleAndKeywords(args, kwargs, "Osss", keywords, &d, 
-                                     &firstName, &lastName, &boxscore))
-        return NULL; 
+                                     &firstName, &lastName, &boxscore)){
+        puts("Problem with keyword arguments");
+        // raises an exception on its own
+    }
 
     //open the file
     FILE *fp;
     fp = fopen(boxscore, "r");
-    assert(fp != NULL);
+    if (fp == NULL) {
+        puts("Opening boxscore file failed");
+        return PyExc_IOError;
+    }
 
     /* Construct the searchD string */
     char *backslash = "/";
@@ -50,10 +56,17 @@ static PyObject *cresearcher_finish_did_get_hit(
 
     /* Search for the line with searchD and print that line */
     char line[MAXLINE];
+    char lineCheck[MAXLINE];
     char *foundIt = NULL;
     while (!foundIt) {
+        strcpy(lineCheck, line);
         fgets(line, MAXLINE, fp);
         foundIt = strstr(line, searchD);
+        if (strcmp(line, lineCheck) == 0) {
+            PyErr_SetString(PyExc_EOFError, "Reached end of boxcore on date search\n");
+            // printf("Reached end of boxscore with no result on search for date\n");
+            return NULL;
+        }   
     }
 
     char *searchP = (char *) malloc(strlen(firstName) + strlen(lastName) + 2);
@@ -61,27 +74,34 @@ static PyObject *cresearcher_finish_did_get_hit(
         strcat(searchP, lastName);
         strcat(searchP, " ");   
         strncat(searchP, firstName, 1); // get the first letter of firstName
-        printf("searchP : %s\n", searchP);
     } else {
         printf("Malloc failed");
-        return 0; // returning a non-python value raises an error
+        exit(EXIT_FAILURE);
     }
     char *foundIt2 = NULL;
     while (!foundIt2) {
+        strcpy(lineCheck, line);
         fgets(line, MAXLINE, fp);
         foundIt2 = strstr(line, searchP);
+        if (strcmp(line, lineCheck) == 0) {
+            PyErr_SetString(PyExc_EOFError, "Reached end of boxcore on player line search\n");
+            // printf("Reached end of boxscore with no result on search for player line\n");
+            return NULL;
+        }
     }
     
     /* get the player hit info
        number of hits player had is third number from the left in 
        the returned string */
     int numHits = get_third_num_in_string(foundIt2);
-    assert (numHits != -1); // make sure we didn't have an error
+    if (numHits == -1) { // make sure we didn't have an error
+        return PyExc_IndexError;
+    }
+
     //close the file and free searchP
     free(searchP);
     fclose(fp);
 
-    // printf("player: %s %s, numHits: %d\n", firstName, lastName, numHits);
     //return player hit info
     if (numHits > 0) { return Py_True; } 
     else { return Py_False; }

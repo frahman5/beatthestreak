@@ -136,8 +136,13 @@ class Researcher(object):
         firstName = player.get_first_name()
         
         # Invoke CResearcher helper function
-        return finish_did_get_hit(date=date, firstName=firstName, 
+        retVal = finish_did_get_hit(date=date, firstName=firstName, 
                                         lastName=lastName, boxscore=boxscore)
+        print "retVal: {}".format(retVal)
+        print "type(retVal): {0}".format(type(retVal))
+        if type(retVal) == Exception:
+            raise retVal
+        return retVal
 
     @classmethod
     # @profile
@@ -180,11 +185,11 @@ class Researcher(object):
 
         if date in sGD.keys() and player.get_retrosheet_id() in sGD[date][1]:
             if sGD[date][0]: # Valid game
-                hitVal, otherInfo = self.did_get_hit(date, player), specialCasesD['S']['V']
+                hitVal, otherInfo = self.c_did_get_hit(date, player), specialCasesD['S']['V']
             else: # Invalid game
                 hitVal, otherInfo = 'pass', specialCasesD['S']['I']
         else: # Normal game
-            hitVal, otherInfo = self.did_get_hit(date, player), None
+            hitVal, otherInfo = self.c_did_get_hit(date, player), None
         self.playerInfoBuffer[1].append((player, hitVal, otherInfo))
         return hitVal, otherInfo
 

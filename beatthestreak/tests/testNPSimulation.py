@@ -1,4 +1,4 @@
-import unittest
+# import unittest
 import os
 
 from datetime import date, timedelta
@@ -75,7 +75,7 @@ class TestNPSimulation(unittest.TestCase):
         ## test that min_bat_ave is calculated and initalized correctly
         self.assertEqual(self.npSim2003_2002.get_min_bat_ave(), 0.308)
 
-    # @unittest.skip("Too long")
+    @unittest.skip("Too long")
     def test_calc_and_get_min_bat_ave(self): 
         self.npSim2010_1.setup() 
         self.npSim2010_2.setup()
