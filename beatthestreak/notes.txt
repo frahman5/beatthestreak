@@ -109,6 +109,18 @@ Notes:
                  Approximate time usage: 
                      Raw: 5.67 * .518 * .984 * .998: 1.792
                      Percent: .316
+      -> Next part:
+        1) Which part?
+               46% of simulate time in sim_next_day
+                  -> 100% of sim_next_day in sim_next_day_double_down
+                      -> 70% of time in bot.update_history
+                         -? 97% of time in __update_history_double_down
+                            -> 94.4% of time in get_hit_info
+                              -> 84.5% of time in c.did_get_hit
+                                 -> 65.2% pf time in finish_did_get_hit
+                  Approximate time usage:
+                      Raw: 3.63 * .46 * 1 * .70 * .97 * 944 * .845 * .652 = 0.162
+                      Percent: 58.9%
 
 
      -> Try removing unnecessary attributes from objects (like player, from bot)

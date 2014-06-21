@@ -1,4 +1,4 @@
-import datetime
+# import datetime
 import os
 import re
 import datetime
@@ -122,6 +122,7 @@ class Researcher(object):
         return int(info[index+5]) > 0 
 
     @classmethod
+    @profile
     def c_did_get_hit(self, date, player):
         """
         Exactly the same as did_get_hit, except invokes a helper functions 
@@ -141,7 +142,7 @@ class Researcher(object):
         
         # Invoke CResearcher helper function
         retVal = finish_did_get_hit(date=date, firstName=firstName, 
-                                        lastName=lastName, boxscore=boxscore)
+                    lastName=lastName, boxscore=boxscore)
         if type(retVal) == Exception:
             raise retVal
         return retVal
