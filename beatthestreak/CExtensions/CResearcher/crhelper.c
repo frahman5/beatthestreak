@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "crhelper.h"
+#include <string.h>
+// #include "python.h"
+#define MAXLINE 130
 
 int get_third_num_in_string(char *bsline) {
     /* char *string -> int *num
@@ -35,4 +38,23 @@ int get_third_num_in_string(char *bsline) {
         }
     printf("Reached the end of the input string and did not find three numbers!\n");
     return -1; // function should always return a positive value
+}
+
+void _search_boxscore(FILE *fp, char **foundIt, char *search) {
+    printf("*********NEW CALL***********\n");
+    char line[MAXLINE]; 
+    char lineCheck[MAXLINE];
+
+    fgets(line, MAXLINE, fp);
+    while (strstr(line, search) == NULL) {
+        strcpy(lineCheck, line);
+        fgets(line, MAXLINE, fp);
+        printf("next line: %s", line);
+        if (strcmp(line, lineCheck) == 0) {
+            printf("END OF FILE..\n");
+            *foundIt = "\0";
+        }
+    }
+    *foundIt = strstr(line, search);
+    printf("Reached end of function, here's foundIt: %sEND\n", *foundIt);
 }
