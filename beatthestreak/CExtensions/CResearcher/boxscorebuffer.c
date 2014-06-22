@@ -38,7 +38,16 @@ struct boxData *findBoxscore(const char*boxscore) {
     return bD;
 }
 
+void deleteTable() {
+    struct boxData *currentBox, *tmp;
+
+    HASH_ITER(hh, boxHashTable, currentBox, tmp) {
+        HASH_DEL(boxHashTable, currentBox);     /* delete; users advances to next */
+        free(currentBox);                       /* free the pointer */
+    }
+}
 /* Notes:
     1) HashTable keys must NOT be modified while in use
     2) When declaring the hashtable, you MUST initalize it to NULL
-    */
+    3) If experiencing errors, check if you are trying to add
+       non-unique keys */

@@ -30,11 +30,16 @@ void test_structure_boxscore_buffer() {
     /* Tests that the hash table and basic structure of the boxscore
     buffer works */
 
+    /* Test adding, finding, counting, and deleting */
+    assert (HASH_COUNT(boxHashTable) == 0);
     addBoxscore("boxscore1", 10);
+    assert (HASH_COUNT(boxHashTable) == 1);
     struct boxData *boxData1 = findBoxscore("boxscore1");
-
     assert (boxData1->boxscore == "boxscore0");
     assert (boxData1->lastViewedByte == 10);
+
+    deleteTable();
+    assert (HASH_COUNT(boxHashTable) == 0);
 }
 void test_get_third_num_in_string() {
     /* test get_third_num_in_string */
