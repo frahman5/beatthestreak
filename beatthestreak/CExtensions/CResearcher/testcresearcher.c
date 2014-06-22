@@ -1,9 +1,42 @@
 #include <assert.h>
 #include <stdio.h>
-#include "crhelper.h"
 #include <string.h>
 
+#include "crhelper.h"
+#include "boxscoreBuffer.h"
+
+void test_get_third_num_in_string();
+
+int test__search_boxscore();
+
+void test_boxscore_buffer();
+
 int main() {
+    test_get_third_num_in_string();
+    test__search_boxscore();
+}
+
+
+void test_functionality_boxscore_buffer() {
+    /* tests that boxscore buffer is functional */
+    /* CHECK 1: If a team's info is not on the buffer, then startSeekPos
+       is 0 and boxscore buffer is updated */
+        /* ## Check 1.1: If it's a new year, startSeekPos = 0 and boxscore 
+        ## buffer is set to [year, {'team': lastByteChecked}] */
+
+}
+
+void test_structure_boxscore_buffer() {
+    /* Tests that the hash table and basic structure of the boxscore
+    buffer works */
+
+    addBoxscore("boxscore1", 10);
+    struct boxData *boxData1 = findBoxscore("boxscore1");
+
+    assert (boxData1->boxscore == "boxscore0");
+    assert (boxData1->lastViewedByte == 10);
+}
+void test_get_third_num_in_string() {
     /* test get_third_num_in_string */
     char *testString1 = " Jose Reyes 5 6 8 10";
     char *testString2 = "asdfasdfasccc 78 sergserg 56 srgserg 90 sergserg 21 srgserg 54";
@@ -36,7 +69,9 @@ int main() {
     assert (get_third_num_in_string(testString14) == 1);
     assert (get_third_num_in_string(testString15) == 1);
 
+}
 
+int test__search_boxscore() {
     /* test _search_boxscore
         A;; searchD searchP pairs are as they would in the function call, 
             a searchD search followed by a searchP call */
@@ -101,3 +136,4 @@ datasets/retrosheet/unzipped/events2012/2012NYNB.txt", "r");
     printf("All tests passed!\n");
     return 1;
 }
+

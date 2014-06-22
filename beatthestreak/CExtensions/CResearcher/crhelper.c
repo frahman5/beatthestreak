@@ -3,8 +3,9 @@
 #include "crhelper.h"
 #include <string.h>
 #include <stdlib.h> /* exit */
-// #include "python.h"
-#define MAXLINE 130
+
+#define MAXLINE 80
+
 
 int get_third_num_in_string(char *bsline) {
     /* char *string -> int *num
