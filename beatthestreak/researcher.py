@@ -122,7 +122,7 @@ class Researcher(object):
         return int(info[index+5]) > 0 
 
     @classmethod
-    @profile
+    # @profile
     def c_did_get_hit(self, date, player):
         """
         Exactly the same as did_get_hit, except invokes a helper functions 

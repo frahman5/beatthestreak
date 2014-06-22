@@ -24,30 +24,140 @@ int main() {
 
 void test_functionality_boxscore_buffer() {
     /* tests that boxscore buffer is functional */
-    /* CHECK 1: If a team's info is not on the buffer, then startSeekPos
-       is 0 and boxscore buffer is updated */
-        /* ## Check 1.1: If it's a new year, startSeekPos = 0 and boxscore 
-        ## buffer is set to [year, {'team': lastByteChecked}] */
-    // Put 2010 on the buffer and clear the hashTable
+
+    /****** CHECK 1: If a team's info is not on the buffer, then startSeekPos
+            is 0 and boxscore buffer is updated *********/
+
+        /* Check 1.1: If it's a new year, startSeekPos = 0 and boxscore 
+            buffer is set to [year, {'team': lastByteChecked}] */
+       // Put 2010 on the buffer and clear the hashTable
     bufferYear = 2010;
     deleteTable();
-    /* Run the finish_did_get_portion of R.did_get_hit(date(2012, 6, 17), 
+        /* Run the finish_did_get_portion of R.did_get_hit(date(2012, 6, 17), 
         Player("Albert", "Pujols")) */
     char *boxscore1 = "/Users/faiyamrahman/programming/Python/beatthestreak/\
 beatthestreak/datasets/retrosheet/unzipped/events2012/2012ANAB.txt";
     FILE *fp = fopen(boxscore1, "r");
     char *foundIt;
-    char *searchD = "6/17/2012";
-    char *searchP = "Pujols A";
+    char searchD[] = "6/17/2012";
+    char searchP[] = "Pujols A";
     _search_boxscore(fp, &foundIt, searchD, boxscore1);
+    assert (seekPosUsed == 0); // we only do seeking on date searches
     _search_boxscore(fp, &foundIt, searchP, boxscore1);
     /* Check that the buffer has the right values */
     assert (bufferYear == 2012);
     struct boxData *boxData1 = findBoxscore(boxscore1);
     assert (strcmp(boxData1->boxscore, boxscore1) == 0);
-    // assert (boxData1->lastViewedByte == ???); // determine right value
-    assert (seekPosUsed == 0);
+    assert (boxData1->month = 6);
+    assert (boxData1->day = 17);
+    assert (boxData1->lastViewedByte == 53216);
     fclose(fp);
+
+       /* Check 1.2: If its the same year but the team's boxscore has not
+           yet been opened, startSeekPos = 0 and team is added to 
+           boxscoreBuffer[1].keys */
+
+        /* Run the __search_boxscore portion of R.did_get_hit(date(2012, 6, 15),
+        Player("Jose", "Reyes", 2012, debut="6/10/2003")) */
+    char *boxscore2 = "/Users/faiyamrahman/programming/Python/beatthestreak/\
+beatthestreak/datasets/retrosheet/unzipped/events2012/2012TBAB.txt";
+    fp = fopen(boxscore2, "r");
+    char *foundIt2;
+    char searchD2[] = "6/15/2012";
+    char searchP2[] = "Reyes J";
+    _search_boxscore(fp, &foundIt2, searchD2, boxscore2);
+    assert (seekPosUsed == 0);
+    _search_boxscore(fp, &foundIt2, searchP2, boxscore2);
+    /* Check that the buffer has the right values */
+    assert (bufferYear == 2012);
+       // first added boxscore
+    assert (strcmp(boxData1->boxscore, boxscore1) == 0);
+    assert (boxData1->month = 6);
+    assert (boxData1->day = 17);
+    assert (boxData1->lastViewedByte == 53216);
+       // newly added boxscore
+    struct boxData *boxData2 = findBoxscore(boxscore2);
+    assert (strcmp(boxData2->boxscore, boxscore2) == 0);
+    assert (boxData2->month == 6);
+    assert (boxData2->day == 15);
+    assert (boxData2->lastViewedByte == 57626);
+    fclose(fp);
+
+    /**** CHECK 2: if a team's boxscore info is on the buffer, then their
+          info is examined on the buffer *****/
+        
+        /* Check 2.1: If date is GREATER than date on buffer, startSeekPos 
+           = boxscoreBuffer[1][team][1] and buffer's last byte checked 
+          is updated */
+         /* Run the __search_boxscore portion of R.did_get_hit(date(2012, 8, 9), 
+          Player("Colby", "Rasmus", 2012) */
+char *boxscore3 = boxscore2;
+    fp = fopen(boxscore3, "r");
+    char *foundIt3;
+    char searchD3[] = "8/9/2012";
+    char searchP3[] = "Rasmus C";
+    _search_boxscore(fp, &foundIt3, searchD3, boxscore3);
+    assert (seekPosUsed == 57626);
+    _search_boxscore(fp, &foundIt3, searchP3, boxscore3);
+     /* Check that the buffer has the right values */
+    assert (bufferYear == 2012);
+        // first added boxscore
+    assert (strcmp(boxData1->boxscore, boxscore1) == 0);
+    assert (boxData1->month = 6);
+    assert (boxData1->day = 17);
+    assert (boxData1->lastViewedByte == 53216);
+        // second added boxscore
+    assert (strcmp(boxData2->boxscore, boxscore2) == 0);
+    assert (boxData2->month == 8);
+    assert (boxData2->day == 9);
+    assert (boxData2->lastViewedByte == 101668);
+    fclose(fp);
+
+       /* CHECK 2.2: if date is less than date on buffer, startSeekPos = 0
+          and last byte checked is updated */
+    char *boxscore4= boxscore3;
+    fp = fopen(boxscore4, "r");
+    char *foundIt4;
+    char searchD4[] = "6/15/2012";
+    char searchP4[] = "Reyes J";
+    _search_boxscore(fp, &foundIt4, searchD4, boxscore4);
+    assert (seekPosUsed == 0); // boxscore used correctly?
+    _search_boxscore(fp, &foundIt4, searchP4, boxscore4);
+        // check boxscore updated correctly
+    assert (bufferYear == 2012);
+        // first added boxscore
+    assert (strcmp(boxData1->boxscore, boxscore1) == 0);
+    assert (boxData1->month = 6);
+    assert (boxData1->day = 17);
+    assert (boxData1->lastViewedByte = 53216);
+        // second added boxscore
+    assert (strcmp(boxData2->boxscore, boxscore2) == 0);
+    assert (boxData2->month == 6);
+    assert (boxData2->day == 15);
+    assert (boxData2->lastViewedByte == 57626);
+    fclose(fp);
+
+    /* Check 2.3: If date is EQUAL to date on buffer, startSeekPos = 0
+             and last byte checked is the SAME */
+    fp = fopen(boxscore4, "r");
+    _search_boxscore(fp, &foundIt4, searchD4, boxscore4);
+    assert (seekPosUsed == 0); // boxscore used correctly?
+    _search_boxscore(fp, &foundIt4, searchP4, boxscore4);
+        // check boxscore updated correctly
+    assert (bufferYear == 2012);
+        // first added boxscore
+    assert (strcmp(boxData1->boxscore, boxscore1) == 0);
+    assert (boxData1->month = 6);
+    assert (boxData1->day = 17);
+    assert (boxData1->lastViewedByte = 53216);
+        // second added boxscore
+    assert (strcmp(boxData2->boxscore, boxscore2) == 0);
+    assert (boxData2->month == 6);
+    assert (boxData2->day == 15);
+    assert (boxData2->lastViewedByte == 57626);
+    fclose(fp);
+
+    deleteTable();
 
 }
 
@@ -56,12 +166,13 @@ void test_structure_boxscore_buffer() {
     buffer works */
 
     /* Test adding, finding, counting, and deleting */
+    deleteTable();
     assert (HASH_COUNT(boxHashTable) == 0);
-    addBoxscore("boxscore1", 10, 5, 3);
+    addReplaceBoxscore("boxscore1", 10L, 5, 3);
     assert (HASH_COUNT(boxHashTable) == 1);
     struct boxData *boxData1 = findBoxscore("boxscore1");
     assert (boxData1->boxscore == "boxscore1");
-    assert (boxData1->lastViewedByte == 10);
+    assert (boxData1->lastViewedByte == 10L);
     assert (boxData1->month == 5);
     assert (boxData1->day == 3);
 
@@ -69,9 +180,18 @@ void test_structure_boxscore_buffer() {
     assert (HASH_COUNT(boxHashTable) == 0);
 
     /* test that we can retrieve and set the boxscorebuffer year */
-    assert (bufferYear == 1);
-    bufferYear = 2012;
-    assert (bufferYear == 2012);
+    bufferYear = 7;
+    assert (bufferYear == 7);
+
+    /* test replacing an item */
+    addReplaceBoxscore("boxscore1", 55L, 7, 2);
+    assert(HASH_COUNT(boxHashTable) == 1);
+    assert (boxData1->boxscore == "boxscore1");
+    assert (boxData1->lastViewedByte == 55L);
+    assert (boxData1->month == 7);
+    assert (boxData1->day == 2);
+
+    deleteTable(); //free memory
 }
 void test_get_third_num_in_string() {
     /* test get_third_num_in_string */

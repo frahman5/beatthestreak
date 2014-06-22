@@ -1,7 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
+#include <stdio.h>   /* FILE, ftell, fseek */
+#include <string.h>  /* strcpy, strstr */
+#include <ctype.h>  /* isdigit */
 #include <stdlib.h> /* exit */
 
 #include "crhelper.h"
@@ -52,19 +51,73 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
 
     Returns if successful and 0 otherwise*/
 
-    int startSeekPos;
-    if (isdigit(search[0])) { // indicates its a date search
-        startSeekPos = 0;
-        // Go to last viewed place on team's boxscore
-        char bufferYearString[5];
-        sprintf(bufferYearString, "%d", bufferYear);   
-        if (strstr(search, bufferYearString)){ // if bufferYear in search
-            struct boxData *bD = findBoxscore(boxscore);
-            if (bD) {// is the boxscore in the buffer?
-            }
-        }
+    long startSeekPos = -1L; // -1 indicates it wasnt used
+    int updateMonth;
+    int updateDay;
 
+    // indicates its a date search
+    if (isdigit(search[0])) { 
+
+        // get the month, day and year out of of the search string
+        char monthS[3];
+        char dayS[3];
+        char yearS[5];
+
+        int i = 0;
+        int j = 0;
+        while (isdigit(search[i])) {
+            monthS[j++] = search[i++];
+        }
+        monthS[j] = '\0'; /* sentinel */
+        i++;  // move past the backslash 
+
+        j = 0;
+        while (isdigit(search[i])) {
+            dayS[j++] = search[i++];
+        }
+        dayS[j] = '\0'; /* sentinel */
+        i++; // move past the backslash
+
+        j = 0;
+        while (isdigit(search[i])) {
+            yearS[j++] = search[i++];
+        }
+        yearS[j] = '\0'; /* sentinel */
+
+        int monthInt = atoi(monthS);
+        int dayInt = atoi(dayS);
+        updateMonth = monthInt; // for updating the buffer
+        updateDay = dayInt;
+        int yearInt = atoi(yearS);
+
+        startSeekPos = 0;
+        // Go to last viewed place on team's boxscore 
+        // if bufferYear in search -- MAJOR IF
+        if (yearInt == bufferYear){ 
+            struct boxData *bD = findBoxscore(boxscore);
+            // is the boxscore in the buffer?
+            if (bD) {
+                // is the current lookUp date after the last looked up date?
+                if ((monthInt > bD->month) ||
+                    ((monthInt == bD->month) & (dayInt > bD->day)) ) { 
+                    startSeekPos = bD->lastViewedByte;
+                }
+            }
+        // MAJOR ELSE: reset the buffer
+        } else {
+            bufferYear = yearInt; // reset the year
+            deleteTable(); // delete the hastable
+        }
+        // seek to the most recently viewed byte or 0
+        fseek(fp, startSeekPos, SEEK_SET);
+        // for testing : say we used the buffer
     }
+    // for testing
+    seekPosUsed = startSeekPos;
+
+    printHashTable(); // DEBUGGING
+    // printf("seekPosUsed: %ld\n", seekPosUsed); 
+
     char line[MAXLINE]; 
     char lineCheck[MAXLINE];
 
@@ -77,5 +130,11 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
         }
     }
     *foundIt = strstr(line, search);
+
+    // update the buffer, but only on date searches
+    if (isdigit(search[0])) { 
+        addReplaceBoxscore(boxscore, ftell(fp), updateMonth, updateDay); 
+    }
+    
     return 1;
 }
