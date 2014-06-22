@@ -1,8 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "crhelper.h"
 #include <string.h>
+#include <ctype.h>
 #include <stdlib.h> /* exit */
+
+#include "crhelper.h"
+#include "boxscoreBuffer.h"
 
 #define MAXLINE 80
 
@@ -42,12 +45,26 @@ int get_third_num_in_string(char *bsline) {
     return -1; // function should always return a positive value
 }
 
-int _search_boxscore(FILE *fp, char **foundIt, char *search) {
+int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
     /* Searches file fp for string search and stores the first occurence of
     it and the remainder of the line in *foundIt. Puts "\0" in foundIt if 
     it was not found 
 
     Returns if successful and 0 otherwise*/
+
+    int startSeekPos;
+    if (isdigit(search[0])) { // indicates its a date search
+        startSeekPos = 0;
+        // Go to last viewed place on team's boxscore
+        char bufferYearString[5];
+        sprintf(bufferYearString, "%d", bufferYear);   
+        if (strstr(search, bufferYearString)){ // if bufferYear in search
+            struct boxData *bD = findBoxscore(boxscore);
+            if (bD) {// is the boxscore in the buffer?
+            }
+        }
+
+    }
     char line[MAXLINE]; 
     char lineCheck[MAXLINE];
 

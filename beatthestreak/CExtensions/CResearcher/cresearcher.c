@@ -1,4 +1,4 @@
-
+/* C analogues of select functions from Researcher.py */
 
 #include "Python.h" /* also imports stdlib, stdio, string, errno */
 #include "datetime.h"   /* PyDatetime support */
@@ -61,14 +61,14 @@ static PyObject *cresearcher_finish_did_get_hit(
     char *foundIt;
     int success = -1; // search_boxscore returns 1 on success and 0 on failure
     /* Search for the line with searchD */
-    success = _search_boxscore(fp, &foundIt, searchD);
+    success = _search_boxscore(fp, &foundIt, searchD, boxscore);
     if (success == 0) { // reached end of file
         return PyErr_Format(PyExc_EOFError, 
                 "Reached end of boxcore on date search: %s\n", searchD);
     }
 
     /* Search for line with searchP */
-    success = _search_boxscore(fp, &foundIt, searchP);
+    success = _search_boxscore(fp, &foundIt, searchP, boxscore);
     if (success == 0) { //reached end of file
         return PyErr_Format(PyExc_EOFError, 
             "Reached end of boxscore on player search: %s\n", searchP);

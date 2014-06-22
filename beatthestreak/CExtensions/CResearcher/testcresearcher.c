@@ -39,8 +39,8 @@ beatthestreak/datasets/retrosheet/unzipped/events2012/2012ANAB.txt";
     char *foundIt;
     char *searchD = "6/17/2012";
     char *searchP = "Pujols A";
-    _search_boxscore(fp, &foundIt, searchD);
-    _search_boxscore(fp, &foundIt, searchP);
+    _search_boxscore(fp, &foundIt, searchD, boxscore1);
+    _search_boxscore(fp, &foundIt, searchP, boxscore1);
     /* Check that the buffer has the right values */
     assert (bufferYear == 2012);
     struct boxData *boxData1 = findBoxscore(boxscore1);
@@ -57,11 +57,13 @@ void test_structure_boxscore_buffer() {
 
     /* Test adding, finding, counting, and deleting */
     assert (HASH_COUNT(boxHashTable) == 0);
-    addBoxscore("boxscore1", 10);
+    addBoxscore("boxscore1", 10, 5, 3);
     assert (HASH_COUNT(boxHashTable) == 1);
     struct boxData *boxData1 = findBoxscore("boxscore1");
     assert (boxData1->boxscore == "boxscore1");
     assert (boxData1->lastViewedByte == 10);
+    assert (boxData1->month == 5);
+    assert (boxData1->day == 3);
 
     deleteTable();
     assert (HASH_COUNT(boxHashTable) == 0);
@@ -126,45 +128,45 @@ int test__search_boxscore() {
     char *answerP3 = "Marte S, lf           3  0  0  0   Tejada R, ss          4  1  1  0   \n";
 
     // TEST 1
-    FILE *bs1 = fopen(
-        "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak/\
-datasets/retrosheet/unzipped/events2012/2012NYNB.txt", "r");
+    char *bs1Path = "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak/\
+datasets/retrosheet/unzipped/events2012/2012NYNB.txt";
+    FILE *bs1 = fopen(bs1Path, "r");
     if (bs1 == NULL) { 
         printf("failed opening the boxscore\n");
         return 0;
     }
     char *foundIt;
-    _search_boxscore(bs1, &foundIt, searchD1);
+    _search_boxscore(bs1, &foundIt, searchD1, bs1Path);
     assert (strcmp(foundIt, answerD1) == 0);
-    _search_boxscore(bs1, &foundIt, searchP1);
+    _search_boxscore(bs1, &foundIt, searchP1, bs1Path);
     assert (strcmp(foundIt, answerP1) == 0);
     fclose(bs1);
 
     // TEST 2
-    FILE *bs2 = fopen(
-        "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak/\
-datasets/retrosheet/unzipped/events2012/2012NYNB.txt", "r");
+    char *bs2Path = "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak/\
+datasets/retrosheet/unzipped/events2012/2012NYNB.txt";
+    FILE *bs2 = fopen(bs2Path, "r");
     if (bs2 == NULL) { 
         printf("failed opening the boxscore\n");
         return 0;
     }
-    _search_boxscore(bs2, &foundIt, searchD2);
+    _search_boxscore(bs2, &foundIt, searchD2, bs2Path);
     assert (strcmp(foundIt, answerD2) == 0);
-    _search_boxscore(bs2, &foundIt, searchP2);
+    _search_boxscore(bs2, &foundIt, searchP2, bs2Path);
     assert (strcmp(foundIt, answerP2) == 0);
     fclose(bs2);    
 
     // Test 3
-    FILE *bs3 = fopen(
-        "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak/\
-datasets/retrosheet/unzipped/events2012/2012NYNB.txt", "r");
+    char *bs3Path = "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak/\
+datasets/retrosheet/unzipped/events2012/2012NYNB.txt";
+    FILE *bs3 = fopen(bs3Path, "r");
     if (bs3 == NULL) { 
         printf("failed opening the boxscore\n");
         return 0;
     }
-    _search_boxscore(bs3, &foundIt, searchD3);
+    _search_boxscore(bs3, &foundIt, searchD3, bs3Path);
     assert (strcmp(foundIt, answerD3) == 0);
-    _search_boxscore(bs3, &foundIt, searchP3);
+    _search_boxscore(bs3, &foundIt, searchP3, bs3Path);
     assert (strcmp(foundIt, answerP3) == 0);
     fclose(bs3);
 

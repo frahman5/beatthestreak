@@ -2,13 +2,15 @@
 #include <stdlib.h> /* exit, EXIT_FAILURE */
 #include <stdio.h>
 
-/* ******  Create a hash table and global boxscore buffer  **************/
 /* A hashtable with string keys and int values */
 struct boxData {
     const char *boxscore;       /* key:  boxscore's filepath as a string */
-    int lastViewedByte;         /* value: last viewed byte on boxscore */
+    int lastViewedByte;         /* value1: last viewed byte on boxscore */
+    int month;                  /* value2: month of last date checked */
+    int day;                    /* value3: day of last date checked */
     UT_hash_handle hh;          /* makes this struct hashable */
 };
+
 
 int bufferYear = 1;
 struct boxData *boxHashTable = NULL;        /* pointer to Global Hash Table */
@@ -16,13 +18,16 @@ int seekPosUsed = -1; // for testing
 
 /* *************** Utility functions for hashTable ***********/
 /* Add an item to a hash */
-void addBoxscore(const char*boxscore, int lastViewedByte) {
+void addBoxscore(const char*boxscore, int lastViewedByte, 
+    int month, int day) {
     struct boxData *bD;
 
     bD = malloc(sizeof(struct boxData));
     if (bD) {
         bD->boxscore = boxscore;
         bD->lastViewedByte = lastViewedByte;
+        bD->month = month;
+        bD->day = day;
         /* HASH_ADD_STR(hashTable, nameOfKeyField, pointertoStructAdded) */
         HASH_ADD_STR( boxHashTable, boxscore, bD);
            /* name of field as parameter? It's a macro thing */
@@ -34,6 +39,8 @@ void addBoxscore(const char*boxscore, int lastViewedByte) {
 }
 
 struct boxData *findBoxscore(const char*boxscore) {
+    /* Returns a pointer to the boxData with key boxscore if its in the hash table, 
+    or NULL if its not in it */
     struct boxData *bD;
     /* HASH_FIND_STR(hashTable, pointer to key, output struct) */
 
