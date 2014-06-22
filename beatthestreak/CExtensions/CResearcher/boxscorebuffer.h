@@ -7,8 +7,9 @@ struct boxData {
     UT_hash_handle hh;          /* makes this struct hashable */
 };
 
-/* Global hash table */
-struct boxData *boxHashTable;
+/* Global boxscoreBuffer */
+int bufferYear; /* year for which we are maintaining a buffer */
+struct boxData *boxHashTable; /* hash table for the year */
 
 /* Add an item to a hash */
 void addBoxscore(const char*boxscore, int lastViewedByte);

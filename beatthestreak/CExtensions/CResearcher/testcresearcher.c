@@ -40,6 +40,11 @@ void test_structure_boxscore_buffer() {
 
     deleteTable();
     assert (HASH_COUNT(boxHashTable) == 0);
+
+    /* test that we can retrieve and set the boxscorebuffer year */
+    assert (bufferYear == 1);
+    bufferYear = 2012;
+    assert (bufferYear == 2012);
 }
 void test_get_third_num_in_string() {
     /* test get_third_num_in_string */
