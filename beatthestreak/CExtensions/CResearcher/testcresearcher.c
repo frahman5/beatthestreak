@@ -9,11 +9,16 @@ void test_get_third_num_in_string();
 
 int test__search_boxscore();
 
-void test_boxscore_buffer();
+void test_structure_boxscore_buffer();
+
+void test_functionality_boxscore_buffer();
 
 int main() {
     test_get_third_num_in_string();
     test__search_boxscore();
+    test_structure_boxscore_buffer();
+    test_functionality_boxscore_buffer();
+    printf("All tests passed!\n");
 }
 
 
@@ -23,6 +28,26 @@ void test_functionality_boxscore_buffer() {
        is 0 and boxscore buffer is updated */
         /* ## Check 1.1: If it's a new year, startSeekPos = 0 and boxscore 
         ## buffer is set to [year, {'team': lastByteChecked}] */
+    // Put 2010 on the buffer and clear the hashTable
+    bufferYear = 2010;
+    deleteTable();
+    /* Run the finish_did_get_portion of R.did_get_hit(date(2012, 6, 17), 
+        Player("Albert", "Pujols")) */
+    char *boxscore1 = "/Users/faiyamrahman/programming/Python/beatthestreak/\
+beatthestreak/datasets/retrosheet/unzipped/events2012/2012ANAB.txt";
+    FILE *fp = fopen(boxscore1, "r");
+    char *foundIt;
+    char *searchD = "6/17/2012";
+    char *searchP = "Pujols A";
+    _search_boxscore(fp, &foundIt, searchD);
+    _search_boxscore(fp, &foundIt, searchP);
+    /* Check that the buffer has the right values */
+    assert (bufferYear == 2012);
+    struct boxData *boxData1 = findBoxscore(boxscore1);
+    assert (strcmp(boxData1->boxscore, boxscore1) == 0);
+    // assert (boxData1->lastViewedByte == ???); // determine right value
+    assert (seekPosUsed == 0);
+    fclose(fp);
 
 }
 
@@ -35,7 +60,7 @@ void test_structure_boxscore_buffer() {
     addBoxscore("boxscore1", 10);
     assert (HASH_COUNT(boxHashTable) == 1);
     struct boxData *boxData1 = findBoxscore("boxscore1");
-    assert (boxData1->boxscore == "boxscore0");
+    assert (boxData1->boxscore == "boxscore1");
     assert (boxData1->lastViewedByte == 10);
 
     deleteTable();
@@ -143,7 +168,7 @@ datasets/retrosheet/unzipped/events2012/2012NYNB.txt", "r");
     assert (strcmp(foundIt, answerP3) == 0);
     fclose(bs3);
 
-    printf("All tests passed!\n");
+    
     return 1;
 }
 

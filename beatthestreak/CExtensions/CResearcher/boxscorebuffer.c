@@ -12,7 +12,7 @@ struct boxData {
 
 int bufferYear = 1;
 struct boxData *boxHashTable = NULL;        /* pointer to Global Hash Table */
-
+int seekPosUsed = -1; // for testing
 
 /* *************** Utility functions for hashTable ***********/
 /* Add an item to a hash */

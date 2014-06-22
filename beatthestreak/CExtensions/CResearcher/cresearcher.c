@@ -1,4 +1,4 @@
-/* C analogues of select functions from Researcher.py */
+
 
 #include "Python.h" /* also imports stdlib, stdio, string, errno */
 #include "datetime.h"   /* PyDatetime support */
