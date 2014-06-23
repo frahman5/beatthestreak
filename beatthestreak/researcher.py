@@ -58,6 +58,7 @@ class Researcher(object):
     logUsedBuffer = None # for testing
     psUsedBuffer = False # for testing
     partSupersetBuffer = [None, set([])]
+    debugList = [] # for debugging
 
     # regular expression for matching retrosheet ids
     retroP = re.compile(r"""
@@ -141,6 +142,9 @@ class Researcher(object):
         firstName = player.get_first_name()
         
         # Invoke CResearcher helper function
+        searchD = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
+        searchP = lastName + " " + firstName[0]
+        debugList.append((boxscore,searchD, searchP))
         retVal = finish_did_get_hit(date=date, firstName=firstName, 
                     lastName=lastName, boxscore=boxscore)
         if type(retVal) == Exception:

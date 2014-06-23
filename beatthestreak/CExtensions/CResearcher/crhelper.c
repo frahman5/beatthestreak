@@ -45,11 +45,12 @@ int get_third_num_in_string(char *bsline) {
 }
 
 int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
+    printf("search boxscore called\n");
     /* Searches file fp for string search and stores the first occurence of
     it and the remainder of the line in *foundIt. Puts "\0" in foundIt if 
     it was not found 
 
-    Returns if successful and 0 otherwise*/
+    Returns 1 if successful and 0 otherwise*/
 
     long startSeekPos = -1L; // -1 indicates it wasnt used
     int updateMonth;
@@ -115,7 +116,7 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
     // for testing
     seekPosUsed = startSeekPos;
 
-    printHashTable(); // DEBUGGING
+    // printHashTable(); // DEBUGGING
     // printf("seekPosUsed: %ld\n", seekPosUsed); 
 
     char line[MAXLINE]; 
@@ -133,7 +134,11 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
 
     // update the buffer, but only on date searches
     if (isdigit(search[0])) { 
+        printf("*********BEFORE ADDING TO BOXSCORE *********");
+        printHashTable();
         addReplaceBoxscore(boxscore, ftell(fp), updateMonth, updateDay); 
+        printf("*********AFTER ADDING TO BOXSCORE *********");
+        printHashTable();
     }
     
     return 1;

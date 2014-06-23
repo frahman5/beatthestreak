@@ -163,35 +163,65 @@ char *boxscore3 = boxscore2;
 
 void test_structure_boxscore_buffer() {
     /* Tests that the hash table and basic structure of the boxscore
-    buffer works */
+        buffer works */
+    struct boxData *bD;
 
-    /* Test adding, finding, counting, and deleting */
+    /* Test that we can retrieve and set the boxscorebuffer year */
+    bufferYear = 7;
+    assert (bufferYear == 7);
+
+    /* Test..... */
     deleteTable();
     assert (HASH_COUNT(boxHashTable) == 0);
+        /* adding */
     addReplaceBoxscore("boxscore1", 10L, 5, 3);
     assert (HASH_COUNT(boxHashTable) == 1);
+        /* finding */
     struct boxData *boxData1 = findBoxscore("boxscore1");
     assert (boxData1->boxscore == "boxscore1");
     assert (boxData1->lastViewedByte == 10L);
     assert (boxData1->month == 5);
     assert (boxData1->day == 3);
-
-    deleteTable();
-    assert (HASH_COUNT(boxHashTable) == 0);
-
-    /* test that we can retrieve and set the boxscorebuffer year */
-    bufferYear = 7;
-    assert (bufferYear == 7);
-
-    /* test replacing an item */
+        /* replacing an already hashed key */
     addReplaceBoxscore("boxscore1", 55L, 7, 2);
-    assert(HASH_COUNT(boxHashTable) == 1);
+    assert(HASH_COUNT(boxHashTable) == 1); 
+      // also do a manual count to guard against nonunique keys
+    int i = 0;
+    for (bD=boxHashTable; bD != NULL; bD=bD->hh.next) { i++; }
+    assert (i == 1);
     assert (boxData1->boxscore == "boxscore1");
     assert (boxData1->lastViewedByte == 55L);
     assert (boxData1->month == 7);
     assert (boxData1->day == 2);
+        /* deleting */
+    deleteTable(); // frees memory
+    assert (HASH_COUNT(boxHashTable) == 0);
 
-    deleteTable(); //free memory
+    /* Another test to gaurd against nonunique keys. Motivated by a bug */
+    char *bs2 = "/Users/faiyamrahman/programming/Python/beatthestreak/\
+beatthestreak/datasets/retrosheet/unzipped/events2010/2010ANAB.txt";
+    char *bs3 = "/Users/faiyamrahman/programming/Python/beatthestreak/\
+beatthestreak/datasets/retrosheet/unzipped/events2010/2010ANAB.txt";
+    printf("\n\nBefore first addition:");
+    printHashTable();
+    addReplaceBoxscore(bs2, 48L, 4, 4);
+    printf("After first addition:");
+    printHashTable();
+    assert (HASH_COUNT(boxHashTable) == 1);
+       // manual count
+    i = 0;
+    for (bD=boxHashTable; bD != NULL; bD=bD->hh.next) { i++; }
+    assert (i == 1);
+    addReplaceBoxscore(bs3, 50L, 4, 5);
+    printf("\nAfter second addition:");
+    printHashTable();
+    assert (HASH_COUNT(boxHashTable) == 1);
+       // manual count
+    i = 0;
+    for (bD=boxHashTable; bD != NULL; bD=bD->hh.next) { i++; }
+    assert (i == 1);
+
+
 }
 void test_get_third_num_in_string() {
     /* test get_third_num_in_string */

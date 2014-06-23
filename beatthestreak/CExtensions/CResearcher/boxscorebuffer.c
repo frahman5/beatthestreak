@@ -61,9 +61,12 @@ void printHashTable() {
     char *indent8 = "        ";
     
     printf("\n********** HASHTABLE *********\n");
+    int i = 0;
     for (bD=boxHashTable; bD != NULL; bD=bD->hh.next) {
+        i++;
+        printf("Item Num: %d\n", i);
         printf(
-            "%sboxscore: %s\n%slastViewedByte: %ld\n%smonth: %d\n%sday: %d\n", 
+            "%sboxscore: START%sEND\n%slastViewedByte: %ld\n%smonth: %d\n%sday: %d\n", 
             indent4, bD->boxscore, indent8, bD->lastViewedByte, 
             indent8, bD->month, indent8, bD->day);
     }

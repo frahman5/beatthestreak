@@ -276,6 +276,7 @@ class NPSimulation(Simulation):
         sim_next_day = self.sim_next_day
         doubleDown = self.doubleDown
         while True:
+            print "************** DAY: {0} **************".format(elapsedDays)
             if (numDays=='max') and (self.currentDate >= lastDate): # pragma: no cover
                 Reporter.report_results(test=test, method=self.method)
                 break
@@ -286,8 +287,29 @@ class NPSimulation(Simulation):
             elapsedDays += 1
             if prbar:
                 update_pbar(elapsedDays)
+            if elapsedDays == 2:
+                break
         if prbar:
             pbar.finish()
+        with open('CExtensions/CResearcher/debug/debug1.c', "w") as f:
+            f.write("#include <stdio.h>")
+            f.write("""#include "crhelper.h" """)
+            f.write("\n")
+            f.write("FILE *fp;")
+            f.write("char *foundIt;")
+            f.write("char *searchD;")
+            f.write("char *searhcP;")
+            f.write("char *boxscore;")
+            for boxscore, searchD, searchP in Researcher.debugList:
+                f.write("fp = fopen({});".format(boxscore))
+                f.write("""searchD="{}";""".format(searchD))
+                f.write("""seachP="{}";""".format(searchP))
+                f.write("_search_boxscore(fp, &foundIt, searchD, boxscore);")
+                f.write("_search_boxscore(fp, &foundIt, searchP, boxscore);")
+                f.write("fclose(fp);")
+
+
+
 
         # close up shop
         if anotherSim: # pragma: no cover
