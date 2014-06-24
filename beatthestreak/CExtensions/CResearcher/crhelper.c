@@ -49,8 +49,10 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
 
     Returns 0 if successful and -1 otherwise */
     long startSeekPos = -1L;                // -1 indicates it wasnt used
-    int updateMonth;
-    int updateDay;
+    // int updateMonth;
+    // int updateDay;
+    int monthInt;
+    int dayInt;
 
     // indicates its a date search
     if (isdigit(search[0])) { 
@@ -81,10 +83,12 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
         }
         yearS[j] = '\0'; /* sentinel */
 
-        int monthInt = atoi(monthS);
-        int dayInt = atoi(dayS);
-        updateMonth = monthInt; // for updating the buffer
-        updateDay = dayInt;
+        // int monthInt = atoi(monthS);
+        // int dayInt = atoi(dayS);
+        monthInt = atoi(monthS);
+        dayInt = atoi(dayS);
+        // updateMonth = monthInt; // for updating the buffer
+        // updateDay = dayInt;
         int yearInt = atoi(yearS);
 
         startSeekPos = 0;
@@ -129,7 +133,8 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
 
     // update the buffer, but only on date searches
     if (isdigit(search[0])) { 
-        addReplaceBoxscore(boxscore, ftell(fp), updateMonth, updateDay); 
+        // addReplaceBoxscore(boxscore, ftell(fp), updateMonth, updateDay); 
+        addReplaceBoxscore(boxscore, ftell(fp), monthInt, dayInt); 
     }
     
     return 0;
