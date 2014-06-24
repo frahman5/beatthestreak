@@ -1,6 +1,6 @@
 /* C analogues of select functions from Researcher.py */
-
-#include "Python.h" /* also imports stdlib, stdio, string, errno */
+#include "Python.h"
+// #include "Python.h" /* also imports stdlib, stdio, string, errno */
 #include "datetime.h"   /* PyDatetime support */
 #include "crhelper.h"   /* get_third_num_in_string, _search_boxscore */
 
@@ -68,7 +68,7 @@ static PyObject *cresearcher_finish_did_get_hit(
     }
     char *foundIt;
     int success = -1; // search_boxscore returns 0 on success and -1 on failure
-    
+
     /* Search for the line with searchD */
     success = _search_boxscore(fp, &foundIt, searchD, boxscore);
     if (success == -1) { // reached end of file

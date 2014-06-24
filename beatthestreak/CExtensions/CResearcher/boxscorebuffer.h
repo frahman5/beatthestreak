@@ -17,7 +17,7 @@ extern struct boxData *boxHashTable; /* hash table for the year */
 extern long seekPosUsed;
 
 /* Add or edit an item to a hash */
-void addReplaceBoxscore(char* boxscore, long lastViewedByte, 
+int addReplaceBoxscore(char* boxscore, long lastViewedByte, 
     int month, int day);
 /* Retrieve an item from the has */
 struct boxData *findBoxscore(const char*boxscore);

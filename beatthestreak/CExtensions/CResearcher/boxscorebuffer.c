@@ -1,28 +1,30 @@
-
-#include "boxscorebuffer.h"
+/* A cache for remembering the most recently viewed place on team boxscores */
+#include "boxscorebuffer.h" // also imports python.h
 #include <stdlib.h> /* exit, EXIT_FAILURE */
-#include <stdio.h>
+#include <stdio.h> /* fprintf, printf, etc */
 
 int bufferYear = 1;
 struct boxData *boxHashTable = NULL;        /* pointer to Global Hash Table */
-long seekPosUsed = -1L;           /* for testing. Nonnegative int if buffer used, -1 if never set */
+long seekPosUsed = -1L;                     /* for testing. Nonnegative int if buffer used, -1 if never set */
 
 /* *************** Utility functions for hashTable ***********/
+
 /* If a key is not in the table, add it. Otherwise edit the existing
-   entry in the hash */
-void addReplaceBoxscore(char *boxscore, long lastViewedByte, 
+   entry in the hash. Return 0 if successful, else -1 */
+int addReplaceBoxscore(char *boxscore, long lastViewedByte, 
     int month, int day) {
-    // printf("ADDREPLACEBOXSCORE: %p\n", boxscore);
     struct boxData *bD;
 
     // We need to dynamically allocate space for the hash table key, so
     // hash table keys are independent of eachother. 
     char *updateBoxscore = (char *) malloc(strlen(boxscore) + 1);
     if (!updateBoxscore) {
-        exit(EXIT_FAILURE);
+        return -1;
     } else {
         strcpy(updateBoxscore, boxscore);
     }
+
+    /* Add or Replace the hash element */
     HASH_FIND_STR(boxHashTable, boxscore, bD);
     if (bD == NULL) {
             bD = (struct boxData *) malloc(sizeof(struct boxData));
@@ -31,18 +33,17 @@ void addReplaceBoxscore(char *boxscore, long lastViewedByte,
             bD->lastViewedByte = lastViewedByte;
             bD->month = month;
             bD->day = day;
-             // HASH_ADD_STR(hashTable, nameOfKeyField, pointertoStructAdded) 
             HASH_ADD_STR( boxHashTable, boxscore, bD);
                /* name of field as parameter? It's a macro thing */
         } else {
-            printf("bD allocation failed\n");
-            exit(EXIT_FAILURE);
+            return -1;
         }
     } else {
         bD->lastViewedByte = lastViewedByte;
         bD->month = month;
         bD->day = day;
     }
+    return 0;
 }
 
 struct boxData *findBoxscore(const char*boxscore) {

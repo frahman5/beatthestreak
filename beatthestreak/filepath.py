@@ -187,7 +187,8 @@ class Filepath(object):
         Produces the filepath of the results file containing the simulation with
         simYear, batAveYear, N, P, startDate, endDate
         """
-        for param in (simYear, batAveYear, N, P, minPA, selectionMethodNumber):
+        for param in (simYear, batAveYear, N, P):
+        # for param in (simYear, batAveYear, N, P, minPA, selectionMethodNumber):
             assert type(param) == int
         assert type(startDate) == date
         assert type(endDate) == date

@@ -22,15 +22,17 @@ class Player(object):
         batAve: float[0, 1] | player's batting average
         debut: string(mm/dd/yyyy) | date of player's debut
     """ 
+    # @profile
     def __init__(self, *args, **kwargs):
         """
         Can construct in multiple ways:
         1) Player(lahmanID, batAveYear)
             -> takes lahmanID and batAveYear. Obtains name, retrosheetID and
             batting average on its own
-        1a) Player(lahmanID, batAveYear, batAve=INT)
-            -> takes lahmanId, batAveYear, batAve. Obtains name, retrosheetID
-            on its own. 
+        1a) Player(lahmanID, batAveYear, batAve=INT, firstName=firstName,  
+                   lastName=lastName, retrosheetID=retrosheetID)
+            -> takes lahmanId, batAveYear, batAve, firstName, lastName. Obtains
+               retrosheetID on its own. PREDOMINANT INIT USED IN SIMULATIONS
         2) Player(firstN, lastN, batAveYear)
             -> constructor will find retrosheet id, lahman id, batting ave, and
             if necessary prompt the user for a debut date
@@ -44,12 +46,19 @@ class Player(object):
             assert type(args[0]) == str # lahman ID
             assert type(args[1]) == int # batAveYear
             self.lId = args[0]
-            self.firstName, self.lastName = Researcher.name_from_lahman_id(args[0])
-            self.rId = self.__set_retrosheet_id(source='lahmanID')
+            ## Check if its type 1a
             if 'batAve' in kwargs.keys():
+                assert 'firstName' in kwargs.keys()
+                assert 'lastName' in kwargs.keys()
+                assert 'retrosheetID' in kwargs.keys()
                 self.batAve = kwargs['batAve']
-            else:
+                self.firstName = kwargs['firstName']
+                self.lastName = kwargs['lastName']
+                self.rId = kwargs['retrosheetID']
+            else: 
+                self.firstName, self.lastName = Researcher.name_from_lahman_id(self.lId)
                 self.batAve = self._set_bat_ave(args[1])
+                self.rId = self.__set_retrosheet_id(source='lahmanID')
             self.debut = None
             return
 

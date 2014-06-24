@@ -149,7 +149,7 @@ class NPSimulation(Simulation):
                 self.botHistoryBuffer[1].append(bot)
         # update the date
         self.incr_date()
-
+ 
     # @profile
     def __sim_next_day_double(self):
         """
@@ -547,17 +547,21 @@ class NPSimulation(Simulation):
             fileF='batAve', year=year))
         lenPlayers, P = 0, self.get_p()
         append = players.append
-        for lahmanID, batAve, PA in df.itertuples():
+        for lahmanID, firstName, lastName, retrosheetID, batAve, PA in df.itertuples():
             if lenPlayers == P: # we've got all the players
                 break
             if PA >= minPA: # make sure the player has enough plate appearances
-                player = Player(lahmanID, year, batAve=batAve)
+                player = Player(lahmanID, year, batAve=batAve, 
+                                firstName=firstName, lastName=lastName, 
+                                retrosheetID=retrosheetID)
                 append(player)
                 # append(Player(lahmanID, year))
                 lenPlayers += 1
 
         return players
-
+    
+    # we don't cover this in test coverage because we don't want to have
+    # to continually construct bat_avs_csvs. 
     def __construct_bat_ave_csv(self, year): # pragma: no cover
         """
         int -> None
@@ -584,20 +588,29 @@ class NPSimulation(Simulation):
             Timer(), ' ', Percentage()]
         pbar = ProgressBar(maxval=len(uniqueIDArray), widgets=widgets).start()
 
-        # calculate batting averages and plate appearances
+        # calculate batting averages, firstName, lastName, retrosheetID and plate appearances
         batAveList, plateAppearList = [], []
+        firstNameList, lastNameList = [], []
+        retrosheetIDList = []
         for index, lahmanID in enumerate(uniqueIDArray):
             player = Player(lahmanID, year)
             batAveList.append(player.get_bat_ave())
             plateAppearList.append(Researcher.num_plate_appearances(year, player))
+            firstNameList.append(player.get_first_name())
+            lastNameList.append(player.get_last_name())
+            retrosheetIDList.append(player.get_retrosheet_id())
             pbar.update(index)
         pbar.finish() # kill the proress bar
 
         # Write the data to csv
         batAveS = Series(batAveList, name=batAveCol)
+        firstNameS = Series(firstNameList, name='FirstName')
+        lastNameS = Series(lastNameList, name='LastName')
+        retrosheetIDS = Series(retrosheetIDList, name='RetrosheetID')
         plateAppearS = Series(plateAppearList, name='PA')
         uniqueIDS = Series(uniqueIDArray, name='lahmanID')
-        df = pd.concat([uniqueIDS, batAveS, plateAppearS], axis=1)
+        df = pd.concat([uniqueIDS, firstNameS, lastNameS, 
+                        retrosheetIDS, batAveS, plateAppearS], axis=1)
         df.sort(columns=batAveCol, ascending=False, inplace=True)
         df.to_csv(path_or_buf=Filepath.get_retrosheet_file(folder='persistent', 
             fileF='batAve', year=year), index=False)
@@ -640,6 +653,9 @@ def main(*args): # pragma: no cover
     # is it a normal or mass simulation?
     if '-M' in options:
         massSim = True
+    # is it a test or a full run?
+    if '-t' in options:
+        test=True
     if massSim:
         # make sure last four arguments are simYearLow-simYearHigh, 
         # batAveYearLow-batAveYearHigh, nLow-nHigh, pLow, pHigh
@@ -666,7 +682,7 @@ def main(*args): # pragma: no cover
                            doubleDown=doubleDown) 
         sim.mass_simulate((simYearLow, simYearHigh), 
                           (smbLow, smbHigh), 
-                          (nLow, nHigh), (pLow, pHigh))
+                          (nLow, nHigh), (pLow, pHigh), test=test)
     else: # do a single simulation
         # make sure last four arguments are simYear, batAveYear, N, P
         for arg in args[-4:]:
@@ -680,7 +696,7 @@ def main(*args): # pragma: no cover
         print "Simming with simYear: {}, batAveYear: {}, N: {}, P: {}".format(
                 int(args[-4]), int(args[-3]), int(args[-2]), int(args[-1]), minPA)
         print "Options: DoubleDown: {}, minPA: {}".format(doubleDown, minPA)
-        sim.simulate()
+        sim.simulate(test=True)
 
 if __name__ == '__main__': # pragma: no cover
     """
@@ -693,6 +709,9 @@ if __name__ == '__main__': # pragma: no cover
     3) ./npsimulation.py -d -m=minPA simYear batAveYear N P
        -> runs a single simulation with given parameters using doubleDown
        and minPA = minPA
+
+    Auxiliary options: 
+        -t : indicates results should be printed to test results folder
     """
     main(*sys.argv)
     

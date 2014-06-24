@@ -121,6 +121,26 @@ Notes:
                   Approximate time usage:
                       Raw: 3.63 * .46 * 1 * .70 * .97 * 944 * .845 * .652 = 0.904
                       Percent: 24.9%
+      -> Next part:
+        1) Which part?
+              31.4% of sim time in setup
+                  95% of time self.__calc_players
+                     99.7% of time in play __init__
+                        50.9% in name_from_lahman_id
+                           -> 15.1% of total time
+                        49.1% in set_retrosheet_id 
+                           -> 14.6% of total time
+              25% in report_results
+              44.5% in sim_next_day 
+                  100% in sim_double_down
+                      62%in update_history
+                         96% in update_history_double_down
+                             78.9% in c_did_get_hit
+                                 45% in finish_did_get_hit
+                                    -> 9% of total time
+                                 34.4% in find_home_team
+                                    -> 7.2% of total time
+
 
 
      -> Try removing unnecessary attributes from objects (like player, from bot)
@@ -128,6 +148,9 @@ Notes:
      -> See if player's are redundantly calculating batting averages
 4.1) Do one "code cleanup" for every optimization you do
      -> Have simulations for the same year all report to the same excel file
+         -> SEVERELY slowed down the simulation (200% slowdown on benchmark -d 2010 2009 20 20)
+         -> Instead, write a aggregate_results function that will combine
+            all the individual sim results at the end (Or maybe not, this info wil lbe in mass_simulate results file)
      -> Clean up the startDate attribute
           Should NOT be an initialization factor. SHOULD be a parameter tp
           simulate and mass_simulate
@@ -135,6 +158,3 @@ Notes:
      -> Make it read results from indiv sim files if the indiv sim
            has already been done
      -> Allow yourself to var minPA as well as singleDown and DoubleDown
-
-TODO UPON RETURN: edit get_third_num_in_string function to not count things like 2b
-  -> Also put tests in did_get_hit for players in EVERY position

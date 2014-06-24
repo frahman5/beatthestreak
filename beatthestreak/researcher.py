@@ -428,6 +428,7 @@ class Researcher(object):
        return date(year, month, day)
 
     @classmethod
+    # @profile
     def name_from_lahman_id(self, lahmanID):
         """
         string -> (string, string)

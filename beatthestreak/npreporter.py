@@ -1,5 +1,9 @@
+import os
+import pandas as pd
+
 from pandas import ExcelWriter, Series, DataFrame, concat
-from pandas.io.excel import _OpenpyxlWriter # for type checking
+from pandas.io.excel import _OpenpyxlWriter, read_excel 
+from openpyxl import load_workbook
 
 from filepath import Filepath
 from bot import Bot
@@ -55,6 +59,9 @@ class NPReporter(object):
         npsim.get_bots().reverse()
         bestBots = npsim.get_bots()
 
+        # report sim metadata
+        self.__report_sim_metadata_results_excel(writer, method=method)
+        
         # report results for top performing bots
         for bot in bestBots[0:numTopBots]:
             self.__report_bot_results_to_excel(bot, writer)
@@ -62,8 +69,6 @@ class NPReporter(object):
         # report bots metadata
         self.__report_bots_metadata_results_excel(writer)
 
-        # report sim metadata
-        self.__report_sim_metadata_results_excel(writer, method=method)
 
         # save everthing to file
         writer.save()
@@ -223,7 +228,7 @@ class NPReporter(object):
 
     def __report_sim_metadata_results_excel(self, writer, method=None):
         """
-        writer method -> None
+        writer string method -> None
         writer: file-like object used to write to an excel file
         method: int | the index of player selection method used in the simulation
         """
@@ -248,6 +253,7 @@ class NPReporter(object):
             name='startDate')
         endDateS = Series([npsim.get_bots()[0].get_history()[-1][4]], 
             name='endDate')
+        
         successS = Series([numSuccesses], name='numSuccesses')
         percentSuccessS = Series([percentSuccessesString], 
             name='percentSuccesses')
@@ -257,7 +263,8 @@ class NPReporter(object):
 
         # construct dataframe to write to excel file
         df = concat([yearS, batS, nS, pS, startDateS, endDateS, 
-            successS, percentSuccessS, doubleDownS, minPAS, methodS], axis=1)
+                     successS, percentSuccessS, doubleDownS, 
+                     minPAS, methodS], axis=1)
 
         # put df info on excel buffer
         df.to_excel(writer, index=False, sheet_name='Sim Meta')

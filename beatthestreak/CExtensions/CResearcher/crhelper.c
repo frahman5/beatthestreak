@@ -3,7 +3,7 @@
 #include <ctype.h>  /* isdigit */
 #include <stdlib.h> /* exit */
 
-#include "crhelper.h"
+#include "crhelper.h" // also imports python.h
 #include "boxscoreBuffer.h" /* Hash Table support */
 
 #define MAXLINE 80
@@ -49,10 +49,9 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
 
     Returns 0 if successful and -1 otherwise */
     long startSeekPos = -1L;                // -1 indicates it wasnt used
-    // int updateMonth;
-    // int updateDay;
     int monthInt;
     int dayInt;
+    int yearInt;
 
     // indicates its a date search
     if (isdigit(search[0])) { 
@@ -83,13 +82,9 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
         }
         yearS[j] = '\0'; /* sentinel */
 
-        // int monthInt = atoi(monthS);
-        // int dayInt = atoi(dayS);
         monthInt = atoi(monthS);
         dayInt = atoi(dayS);
-        // updateMonth = monthInt; // for updating the buffer
-        // updateDay = dayInt;
-        int yearInt = atoi(yearS);
+        yearInt = atoi(yearS);
 
         startSeekPos = 0;
         // Go to last viewed place on team's boxscore 
@@ -132,9 +127,11 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
     *foundIt = strstr(line, search);
 
     // update the buffer, but only on date searches
-    if (isdigit(search[0])) { 
-        // addReplaceBoxscore(boxscore, ftell(fp), updateMonth, updateDay); 
-        addReplaceBoxscore(boxscore, ftell(fp), monthInt, dayInt); 
+    if (isdigit(search[0])) {  
+        int success = addReplaceBoxscore(boxscore, ftell(fp), monthInt, dayInt); 
+        if (success == -1) {
+            return -1;
+        }
     }
     
     return 0;
