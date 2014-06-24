@@ -319,8 +319,10 @@ class Researcher(object):
         # get the retrosheet ids from the games and return the list 
         # return (field for game in listOfGames for field in game 
         #             if re.match(self.retroP, field))
-        answer = set((field for game in listOfGames for field in game 
-                    if len(field)))
+        # answer = set((field for game in listOfGames for field in game 
+        #             if len(field) == 8))
+        answer = {field for game in listOfGames for field in game
+                    if len(field) == 8}
         self.partSupersetBuffer[1] = answer
         return answer
 
