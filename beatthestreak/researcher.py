@@ -142,9 +142,9 @@ class Researcher(object):
         firstName = player.get_first_name()
         
         # Invoke CResearcher helper function
-        searchD = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
-        searchP = lastName + " " + firstName[0]
-        debugList.append((boxscore,searchD, searchP))
+        # searchD = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
+        # searchP = lastName + " " + firstName[0]
+        # self.debugList.append((boxscore,searchD, searchP))
         retVal = finish_did_get_hit(date=date, firstName=firstName, 
                     lastName=lastName, boxscore=boxscore)
         if type(retVal) == Exception:

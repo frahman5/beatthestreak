@@ -242,6 +242,8 @@ class NPSimulation(Simulation):
         of greater than 57, as well as their respective streak lengths. Reports
         back a variable number of top bots, inluding their player histories. 
         """
+        # import pdb
+        # pdb.set_trace()
         assert (type(numDays) == str) or (type(numDays) == int)
         assert type(anotherSim) == bool
         assert type(test) == bool
@@ -276,7 +278,7 @@ class NPSimulation(Simulation):
         sim_next_day = self.sim_next_day
         doubleDown = self.doubleDown
         while True:
-            print "************** DAY: {0} **************".format(elapsedDays)
+            # print "************** DAY: {0} **************".format(elapsedDays)
             if (numDays=='max') and (self.currentDate >= lastDate): # pragma: no cover
                 Reporter.report_results(test=test, method=self.method)
                 break
@@ -287,26 +289,35 @@ class NPSimulation(Simulation):
             elapsedDays += 1
             if prbar:
                 update_pbar(elapsedDays)
-            if elapsedDays == 2:
-                break
+            # if self.currentDate == date(2010, 4, 10):
+            # # if elapsedDays == 100: # debugging
+            #     break
         if prbar:
             pbar.finish()
-        with open('CExtensions/CResearcher/debug/debug1.c', "w") as f:
-            f.write("#include <stdio.h>")
-            f.write("""#include "crhelper.h" """)
-            f.write("\n")
-            f.write("FILE *fp;")
-            f.write("char *foundIt;")
-            f.write("char *searchD;")
-            f.write("char *searhcP;")
-            f.write("char *boxscore;")
-            for boxscore, searchD, searchP in Researcher.debugList:
-                f.write("fp = fopen({});".format(boxscore))
-                f.write("""searchD="{}";""".format(searchD))
-                f.write("""seachP="{}";""".format(searchP))
-                f.write("_search_boxscore(fp, &foundIt, searchD, boxscore);")
-                f.write("_search_boxscore(fp, &foundIt, searchP, boxscore);")
-                f.write("fclose(fp);")
+        # debugging code
+        # with open(Filepath.get_root() + '/CExtensions/CResearcher/debug1.c', "w") as f:
+        #     f.write("#include <stdio.h>\n")
+        #     f.write("""#include "crhelper.h"\n\n""")
+        #     f.write("/************ DECLARATIONS FOR BOXSCORE CALLS *********/\n")
+        #     f.write("FILE *fp = NULL;\n")
+        #     f.write("char *foundIt;\n")
+        #     f.write("char *searchD;\n")
+        #     f.write("char *searchP;\n")
+        #     f.write("char *boxscore;\n\n")
+        #     f.write("int main() {\n")
+        #     i = 0
+        #     tab = "    "
+        #     for boxscore, searchD, searchP in Researcher.debugList:
+        #         f.write("{0}/* Call num: {1} */\n".format(tab, i))
+        #         f.write("""{0}fp = fopen("{1}", "r");\n""".format(tab, boxscore))
+        #         f.write("""{0}searchD="{1}";\n""".format(tab, searchD))
+        #         f.write("""{0}searchP="{1}";\n""".format(tab, searchP))
+        #         f.write("""{0}boxscore="{1}";\n""".format(tab, boxscore))
+        #         f.write("{0}_search_boxscore(fp, &foundIt, searchD, boxscore);\n".format(tab))
+        #         f.write("{0}_search_boxscore(fp, &foundIt, searchP, boxscore);\n".format(tab))
+        #         f.write("{0}fclose(fp);\n\n".format(tab))
+        #         i += 1
+        #     f.write("}")
 
 
 

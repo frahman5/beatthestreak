@@ -178,7 +178,7 @@ void test_structure_boxscore_buffer() {
     assert (HASH_COUNT(boxHashTable) == 1);
         /* finding */
     struct boxData *boxData1 = findBoxscore("boxscore1");
-    assert (boxData1->boxscore == "boxscore1");
+    assert (strcmp(boxData1->boxscore, "boxscore1") == 0);
     assert (boxData1->lastViewedByte == 10L);
     assert (boxData1->month == 5);
     assert (boxData1->day == 3);
@@ -189,7 +189,7 @@ void test_structure_boxscore_buffer() {
     int i = 0;
     for (bD=boxHashTable; bD != NULL; bD=bD->hh.next) { i++; }
     assert (i == 1);
-    assert (boxData1->boxscore == "boxscore1");
+    assert (strcmp(boxData1->boxscore,"boxscore1") == 0);
     assert (boxData1->lastViewedByte == 55L);
     assert (boxData1->month == 7);
     assert (boxData1->day == 2);
@@ -202,19 +202,19 @@ void test_structure_boxscore_buffer() {
 beatthestreak/datasets/retrosheet/unzipped/events2010/2010ANAB.txt";
     char *bs3 = "/Users/faiyamrahman/programming/Python/beatthestreak/\
 beatthestreak/datasets/retrosheet/unzipped/events2010/2010ANAB.txt";
-    printf("\n\nBefore first addition:");
-    printHashTable();
+    // printf("\n\nBefore first addition:");
+    // printHashTable(0);
     addReplaceBoxscore(bs2, 48L, 4, 4);
-    printf("After first addition:");
-    printHashTable();
+    // printf("After first addition:");
+    // printHashTable(0);
     assert (HASH_COUNT(boxHashTable) == 1);
        // manual count
     i = 0;
     for (bD=boxHashTable; bD != NULL; bD=bD->hh.next) { i++; }
     assert (i == 1);
     addReplaceBoxscore(bs3, 50L, 4, 5);
-    printf("\nAfter second addition:");
-    printHashTable();
+    // printf("\nAfter second addition:");
+    // printHashTable(0);
     assert (HASH_COUNT(boxHashTable) == 1);
        // manual count
     i = 0;

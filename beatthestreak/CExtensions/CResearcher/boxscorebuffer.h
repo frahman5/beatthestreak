@@ -17,11 +17,11 @@ extern struct boxData *boxHashTable; /* hash table for the year */
 extern long seekPosUsed;
 
 /* Add or edit an item to a hash */
-void addReplaceBoxscore(const char*boxscore, long lastViewedByte, 
+void addReplaceBoxscore(char* boxscore, long lastViewedByte, 
     int month, int day);
 /* Retrieve an item from the has */
 struct boxData *findBoxscore(const char*boxscore);
 /* Delete the entirety of the hash table */
 void deleteTable();
 /* print the contents of the hash table -- for debugging */
-void printHashTable();
+void printHashTable(int printBoxscore) ;

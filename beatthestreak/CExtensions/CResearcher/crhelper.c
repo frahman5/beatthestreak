@@ -4,23 +4,21 @@
 #include <stdlib.h> /* exit */
 
 #include "crhelper.h"
-#include "boxscoreBuffer.h"
+#include "boxscoreBuffer.h" /* Hash Table support */
 
 #define MAXLINE 80
 
-
 int get_third_num_in_string(char *bsline) {
-    /* char *string -> int *num
-       Returns the the third int in the string bsline. Assumes bslines has
-       at least 3 numbers in it. Helper function for finish_did_get_hit
+    /* Helper function for finish_did_get_hit
 
+       Returns the the third int in the string bsline.
        If three numbers not found in string, returns -1 
 
        Ints are only counted if there are followed by
        white space. e.g: 2 is counted but 2b is not. */
 
     int numNums = 0;
-    char num[3]; // handles 1-2two digits number strings e.g 57, 5
+    char num[3]; // handles 1-2 digit number strings e.g 57, 5
 
     while (bsline++ != '\0') {
         // scroll until we see a digit
@@ -40,19 +38,17 @@ int get_third_num_in_string(char *bsline) {
         // If it's the third number, then return it as an int
         if (numNums == 3) { return atoi(num); }
         }
-    printf("Reached the end of the input string and did not find three numbers!\n");
-    return -1; // function should always return a positive value
-}
 
+    // If we failed, return a -1
+    return -1;
+}
 int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
-    printf("search boxscore called\n");
     /* Searches file fp for string search and stores the first occurence of
     it and the remainder of the line in *foundIt. Puts "\0" in foundIt if 
     it was not found 
 
-    Returns 1 if successful and 0 otherwise*/
-
-    long startSeekPos = -1L; // -1 indicates it wasnt used
+    Returns 0 if successful and -1 otherwise */
+    long startSeekPos = -1L;                // -1 indicates it wasnt used
     int updateMonth;
     int updateDay;
 
@@ -99,7 +95,7 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
             // is the boxscore in the buffer?
             if (bD) {
                 // is the current lookUp date after the last looked up date?
-                if ((monthInt > bD->month) ||
+                if ( (monthInt > bD->month) ||
                     ((monthInt == bD->month) & (dayInt > bD->day)) ) { 
                     startSeekPos = bD->lastViewedByte;
                 }
@@ -107,17 +103,16 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
         // MAJOR ELSE: reset the buffer
         } else {
             bufferYear = yearInt; // reset the year
-            deleteTable(); // delete the hastable
+            if (boxHashTable) {
+                deleteTable(); // delete the hastable
+            }
+            
         }
         // seek to the most recently viewed byte or 0
         fseek(fp, startSeekPos, SEEK_SET);
-        // for testing : say we used the buffer
     }
     // for testing
     seekPosUsed = startSeekPos;
-
-    // printHashTable(); // DEBUGGING
-    // printf("seekPosUsed: %ld\n", seekPosUsed); 
 
     char line[MAXLINE]; 
     char lineCheck[MAXLINE];
@@ -127,19 +122,15 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
         strcpy(lineCheck, line);
         fgets(line, MAXLINE, fp);
         if (strcmp(line, lineCheck) == 0) { 
-            return 0;
+            return -1; // we reached the end the of the file
         }
     }
     *foundIt = strstr(line, search);
 
     // update the buffer, but only on date searches
     if (isdigit(search[0])) { 
-        printf("*********BEFORE ADDING TO BOXSCORE *********");
-        printHashTable();
         addReplaceBoxscore(boxscore, ftell(fp), updateMonth, updateDay); 
-        printf("*********AFTER ADDING TO BOXSCORE *********");
-        printHashTable();
     }
     
-    return 1;
+    return 0;
 }

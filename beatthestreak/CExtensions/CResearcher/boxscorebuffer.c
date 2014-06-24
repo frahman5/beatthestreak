@@ -1,3 +1,4 @@
+
 #include "boxscorebuffer.h"
 #include <stdlib.h> /* exit, EXIT_FAILURE */
 #include <stdio.h>
@@ -9,19 +10,28 @@ long seekPosUsed = -1L;           /* for testing. Nonnegative int if buffer used
 /* *************** Utility functions for hashTable ***********/
 /* If a key is not in the table, add it. Otherwise edit the existing
    entry in the hash */
-void addReplaceBoxscore(const char*boxscore, long lastViewedByte, 
+void addReplaceBoxscore(char *boxscore, long lastViewedByte, 
     int month, int day) {
+    // printf("ADDREPLACEBOXSCORE: %p\n", boxscore);
     struct boxData *bD;
 
+    // We need to dynamically allocate space for the hash table key, so
+    // hash table keys are independent of eachother. 
+    char *updateBoxscore = (char *) malloc(strlen(boxscore) + 1);
+    if (!updateBoxscore) {
+        exit(EXIT_FAILURE);
+    } else {
+        strcpy(updateBoxscore, boxscore);
+    }
     HASH_FIND_STR(boxHashTable, boxscore, bD);
     if (bD == NULL) {
-            bD = malloc(sizeof(struct boxData));
+            bD = (struct boxData *) malloc(sizeof(struct boxData));
         if (bD) {
-            bD->boxscore = boxscore;
+            bD->boxscore = updateBoxscore;
             bD->lastViewedByte = lastViewedByte;
             bD->month = month;
             bD->day = day;
-            /* HASH_ADD_STR(hashTable, nameOfKeyField, pointertoStructAdded) */
+             // HASH_ADD_STR(hashTable, nameOfKeyField, pointertoStructAdded) 
             HASH_ADD_STR( boxHashTable, boxscore, bD);
                /* name of field as parameter? It's a macro thing */
         } else {
@@ -48,14 +58,16 @@ struct boxData *findBoxscore(const char*boxscore) {
 void deleteTable() {
     /* Removes all hash elements from the hash Table and 
        frees up associated memory */
+    // printf("delete table called\n");    
     struct boxData *currentBox, *tmp;
 
     HASH_ITER(hh, boxHashTable, currentBox, tmp) {
         HASH_DEL(boxHashTable, currentBox);     /* delete; users advances to next */
+        free(currentBox->boxscore);             /* free the hash table key */
         free(currentBox);                       /* free the pointer */
     }
 }
-void printHashTable() {
+void printHashTable(int printBoxscore) {
     struct boxData *bD;
     char *indent4 = "    ";
     char *indent8 = "        ";
@@ -64,11 +76,19 @@ void printHashTable() {
     int i = 0;
     for (bD=boxHashTable; bD != NULL; bD=bD->hh.next) {
         i++;
-        printf("Item Num: %d\n", i);
-        printf(
+        if (printBoxscore) {
+            printf("Item Num: %d: ", i);
+            printf("%sboxscore: START%sEND\n%slastViewedByte: %ld\n%sboxscoreAddy: %p\n", 
+                indent4, bD->boxscore, indent8, bD->lastViewedByte, 
+                indent8, (bD->boxscore));
+        }
+        else {
+            printf("Item Num: %d\n", i);    
+            printf(
             "%sboxscore: START%sEND\n%slastViewedByte: %ld\n%smonth: %d\n%sday: %d\n", 
             indent4, bD->boxscore, indent8, bD->lastViewedByte, 
             indent8, bD->month, indent8, bD->day);
+        }
     }
 }
 /* Notes:
