@@ -232,3 +232,14 @@ class Filepath(object):
             simMinBatRange[1]) + ',' + 'N{0}-{1}'.format(NRange[0], 
             NRange[1]) + ',' + 'P{0}-{1}'.format(PRange[0], PRange[1]) + '.xlsx'
 
+    @classmethod
+    def get_player_hit_info_csv_file(self, lahmanID, year):
+        """
+        string int -> string
+        lahmanID: str | lahmanID of the player of interest
+        year: int | year of interest
+
+        Returns the pathname for the player_hit_info_csv_file of the player with
+        lahmanID in year year 
+        """
+        return self.get_datasets() + '/playerInfo/{0}/{1}.txt'.format(year, lahmanID)

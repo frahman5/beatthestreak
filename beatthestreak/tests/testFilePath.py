@@ -98,6 +98,9 @@ class TestFilepath(unittest.TestCase):
             date(2010, 4, 4), date(2010, 9, 30), 200, 1, False, test=True), self.rootDir + \
             "/tests/results/2010/Sim2010,batAve2009,N50,P10,4.4-9.30,mPA=200,sM=1,dDown=False.xlsx")
 
+    def test_get_player_hit_info_csv_file(self):
+        self.assertEqual(Filepath.get_player_hit_info_csv_file("mahompa01", 2002), 
+                         self.rootDir + "/datasets/playerInfo/2002/mahompa01.txt")
 
     def test_get_mass_results_file(self):
         # test for non-testing environment

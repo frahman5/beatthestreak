@@ -449,6 +449,50 @@ class Researcher(object):
         return df.nameFirst.item(), df.nameLast.item()
 
     @classmethod
+    def create_player_hit_info_csv(self, player, year):
+        """
+        Player int -> None
+
+        Produces a csv of hitVals for player player in year year. 
+
+        Structure of csv:
+
+        date, hitVal, otherInfo
+        dv1, hv1, ov1, 
+        dv2, hv2, ov2,
+        ....
+        """
+        assert type(year) == int
+        curDate = self.get_opening_day(year)
+        endDate = self.get_closing_day(year)
+        dateL, hitValL, otherInfoL = [], [], []
+        sGD = self.get_sus_games_dict(year)
+
+        # Construct dataframe
+        while curDate != endDate:
+            if self.did_start(curDate, player):
+                dateL.append('{0}/{1}/{2}'.format(curDate.month, 
+                                                  curDate.day, curDate.year))
+                hitVal, otherInfo = self.get_hit_info(curDate, player, sGD)
+                if not otherInfo:
+                    otherInfo = "n/a"
+                hitValL.append(hitVal)
+                otherInfoL.append(otherInfo)
+            curDate += timedelta(days=1)
+        dateS = pd.Series(dateL, name="date")
+        hitValS = pd.Series(hitValL, name="hitVal")
+        otherInfoS = pd.Series(otherInfoL, name="otherInfoL")
+        df = pd.concat([dateS, hitValS, otherInfoS], axis=1)
+
+        # write dataframe to csv
+        filePath = Filepath.get_player_hit_info_csv_file(
+                      player.get_lahman_id(), year)
+        if not os.path.isfile(filePath):
+            fileF = open(filePath, "w")
+            fileF.close()
+        df.to_csv(filePath, index=False)
+
+    @classmethod
     # @profile
     def check_date(self, date, year):
         """

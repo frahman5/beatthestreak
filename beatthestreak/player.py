@@ -91,7 +91,6 @@ class Player(object):
     def __repr__(self):
         return self.__str__()
 
-
     def __set_retrosheet_id(self, source='name'):
         """
         int -> string

@@ -1,7 +1,9 @@
 import unittest
 import os
+import datetime
 
 from datetime import date
+from pandas import DataFrame, to_datetime
 
 from beatthestreak.filepath import Filepath
 from beatthestreak.researcher import Researcher as R
@@ -526,7 +528,7 @@ class TestResearcher(unittest.TestCase):
         self.assertTrue(R._Researcher__is_suspended_game_valid(line))
 
         ## Cases with <= 4 innings played (Invalid)
-        line = testFile.readline() # June 15th 2001, KCA #@ MIL
+        line = testFile.readline() # June 15th 2001, KCA @ MIL
         self.assertFalse(R._Researcher__is_suspended_game_valid(line))
 
         line = testFile.readline() # July 18th 2001, ARI #@ SDN
@@ -557,3 +559,41 @@ class TestResearcher(unittest.TestCase):
             R._Researcher__is_suspended_game_valid, line)
 
         testFile.close()
+
+    def test_create_player_hit_info_csv(self):        
+        ## Test 1
+        ## Create a player hit info csv and check all the vals
+        Derek = Player("Derek", "Jeter", 2010)
+        R.create_player_hit_info_csv(Derek, 2006)
+        sGD2006 = R.get_sus_games_dict(2006)
+
+        df = DataFrame.from_csv(Filepath.get_player_hit_info_csv_file(
+                                Derek.get_lahman_id(), 2006))
+        for date, hitVal, otherInfo in df.itertuples():
+            datetimeDate = datetime.date(date.year, date.month, date.day)
+            if otherInfo == 'n/a':
+                otherInfo = None
+            if hitVal == 'True':
+                hitVal = True
+            if hitVal == 'False':
+                hitVal = False
+            self.assertEqual( (hitVal, otherInfo), 
+                               R.get_hit_info(datetimeDate, Derek, sGD2006))
+
+        ## Test 2
+        ## Create a player hit info csv and check all vals
+        Endy = Player("Endy", "Chavez", 2001)
+        R.create_player_hit_info_csv(Endy, 2001)
+        sGD2001 = R.get_sus_games_dict(2001)
+        df = DataFrame.from_csv(Filepath.get_player_hit_info_csv_file(
+                                Endy.get_lahman_id(), 2001))
+        for date, hitVal, otherInfo in df.itertuples():
+            datetimeDate = datetime.date(date.year, date.month, date.day)
+            if otherInfo == 'n/a':
+                otherInfo = None
+            if hitVal == 'True':
+                hitVal = True
+            if hitVal == 'False':
+                hitVal = False
+            self.assertEqual( (hitVal, otherInfo), 
+                               R.get_hit_info(datetimeDate, Endy, sGD2001))
