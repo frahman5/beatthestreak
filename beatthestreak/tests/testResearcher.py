@@ -177,19 +177,19 @@ class TestResearcher(unittest.TestCase):
 
         ## Case 3: ('pass', 'Suspended, Invalid'); player played in a suspended, invalid game
         Mark = Player("Mark", "Grace", 2001)
-        self.assertEqual(R.get_hit_info(d2, Mark, sGD2001), ('pass', 'Suspended, Invalid.'))
+        self.assertEqual(R.get_hit_info(d2, Mark, sGD2001), ('pass', 'Suspended-Invalid.'))
 
         ## Case 4: (True, 'Suspended, Valid'); player got a hit in a suspended, valid game
         Ben = Player("Ben", "Zobrist", 2010)
-        self.assertEqual(R.get_hit_info(d3, Ben, sGD2010), (True, 'Suspended, Valid.'))
+        self.assertEqual(R.get_hit_info(d3, Ben, sGD2010), (True, 'Suspended-Valid.'))
 
         ## Case 5 : (False, 'Suspended, Valid'); player did not get a hit in a suspended, valid game
         Marco = Player("Marco", "Scutaro", 2010)
-        self.assertEqual(R.get_hit_info(d3, Marco, sGD2010), (False, 'Suspended, Valid.'))
+        self.assertEqual(R.get_hit_info(d3, Marco, sGD2010), (False, 'Suspended-Valid.'))
 
         ## Case 6: Get the player hit info from the playerInfoBuffer
-        self.assertEqual(R.get_hit_info(d3, Ben, sGD2010), (True, 'Suspended, Valid.'))
-        self.assertEqual(R.get_hit_info(d3, Marco, sGD2010), (False, 'Suspended, Valid.'))
+        self.assertEqual(R.get_hit_info(d3, Ben, sGD2010), (True, 'Suspended-Valid.'))
+        self.assertEqual(R.get_hit_info(d3, Marco, sGD2010), (False, 'Suspended-Valid.'))
 
     #@unittest.skip("Not Focus")
     def test_player_info_buffer(self):
@@ -230,7 +230,7 @@ class TestResearcher(unittest.TestCase):
         R.playerInfoBuffer = [d1, []] # reset the buffer
         R.playerUsedBuffer = False # rest buffer use indicator
         self.assertFalse(R.playerUsedBuffer)
-        self.assertEqual(R.get_hit_info(d2, Mark, sGD2001), ('pass', 'Suspended, Invalid.'))
+        self.assertEqual(R.get_hit_info(d2, Mark, sGD2001), ('pass', 'Suspended-Invalid.'))
         self.assertFalse(R.playerUsedBuffer) # buffer use indicator should still be false
            ## CHECK 3.2: Nonempty buffer, on same date as previous hit info lookup
         self.assertEqual(R.get_hit_info(d2, Sammy, sGD2012), (False, None))
@@ -238,7 +238,7 @@ class TestResearcher(unittest.TestCase):
 
         ## Check 4: If date on buffer does not match current date, buffer is updated
         self.assertEqual(R.playerInfoBuffer, # should be d2 after Check 3
-            [d2, [(Mark, 'pass', 'Suspended, Invalid.'), (Sammy, False, None)]]) 
+            [d2, [(Mark, 'pass', 'Suspended-Invalid.'), (Sammy, False, None)]]) 
         R.get_hit_info(d1, Jose, sGD2012)
         self.assertEqual(R.playerInfoBuffer, # should now be d1
             [d1, [(Jose, True, None)]]) 
@@ -248,13 +248,13 @@ class TestResearcher(unittest.TestCase):
             ## Check 5.1: New Date
         self.assertEqual(R.playerInfoBuffer, # buffer on d1 with Jose
             [d1, [(Jose, True, None)]]) 
-        self.assertEqual(R.get_hit_info(d3, Marco, sGD2010), (False, 'Suspended, Valid.'))
+        self.assertEqual(R.get_hit_info(d3, Marco, sGD2010), (False, 'Suspended-Valid.'))
         self.assertEqual(R.playerInfoBuffer, # buffer on d3 with Marco
-            [d3, [(Marco, False, 'Suspended, Valid.')]])
+            [d3, [(Marco, False, 'Suspended-Valid.')]])
             ## Check 5.2 Same Date
-        self.assertEqual(R.get_hit_info(d3, Ben, sGD2010), (True, 'Suspended, Valid.'))
+        self.assertEqual(R.get_hit_info(d3, Ben, sGD2010), (True, 'Suspended-Valid.'))
         self.assertEqual(R.playerInfoBuffer, # buffer on d3 with Marco and Ben
-            [d3, [(Marco, False, 'Suspended, Valid.'), (Ben, True, 'Suspended, Valid.')]])
+            [d3, [(Marco, False, 'Suspended-Valid.'), (Ben, True, 'Suspended-Valid.')]])
 
     #@unittest.skip("Not Focus")
     def test_get_participants_superset(self):

@@ -5,7 +5,7 @@
 #include "crhelper.h"   /* get_third_num_in_string, _search_boxscore */
 #include "playerInfoCache.h"
 
-#define finishDidGetHitDocString "datetime.date string string string -> bool\
+#define cfinishDidGetHitDocString "datetime.date string string string -> bool\
 \n\
     date: datetime.date | the date for which we are finishing the did_get_hit search\n\
     firstName: string | first name of player we are searching for\n\
@@ -40,7 +40,7 @@ where the above variables are set appropriately"
 \n\
     Relies on player Hit Info csv's located in results/playerInfo"
 /* Return Py_True if player got a hit, Py_False otherwise */
-static PyObject *finish_did_get_hit(
+static PyObject *cfinish_did_get_hit(
           PyObject *self, PyObject *args, PyObject *kwargs) {
     
     /* Get the keyword values into local variables */
@@ -53,6 +53,7 @@ static PyObject *finish_did_get_hit(
                                      keywords, &d, &firstName, &lastName, &boxscore)){
         return NULL; // ParseTupleAndKeywords sets the exception for me
     }
+    printf("name: %s %s\n", firstName, lastName);
 
     /* open the file */ 
     FILE *fp = fopen(boxscore, "r");
@@ -148,34 +149,43 @@ static PyObject *cget_hit_info(PyObject *self, PyObject *args,
     /* Get month, day, year. */
     char monthS[3];         // 2 digit month plus space for the sentinel
     char dayS[3];           // 2 digit day plus space for the sentinel
-    char yearS[5];          // 4 digit year plus space for the sentinel
+    char yearS[5];          // 4 digit year plus space for sentinel
     sprintf(monthS, "%d", PyDateTime_GET_MONTH(d));
     sprintf(dayS, "%d", PyDateTime_GET_DAY(d));
     sprintf(yearS, "%d", PyDateTime_GET_YEAR(d));
 
     /* Get the date string */
     char *backslash = "/";
-    char date[11];       // ten digit mm/dd/yyyy plus space for the sentinel
-    char *helperArray[] = { monthS, backslash, dayS, backslash, yearS };
+    char date[7];       // 5 digit mm/dd/ plus space for the sentinel and 1 breathing spot
     /* strcpy the first string so we don't concat onto garbage during strcats */
-    strcpy(date, helperArray[0]);
-    for (int i = 1; i < 5; i++) { strcat(date, helperArray[i]); }
+    strcpy(date, monthS);
+    strcat(date, backslash);
+    strcat(date, dayS);
 
     /* Check if the cache is for this year or not */
     int yearInt = atoi(yearS);
     if (playerInfoCacheYear != yearInt) {
         playerInfoCacheYear = yearInt;
-        deletePlayerInfoCache();
+        if (deletePlayerInfoCache() == -1) {
+            return NULL;
+        }
     }
 
     /* Get the player's info, or add it if its not there yet */
-    struct playerDateData *pDD = findPlayerDateData(lahmanID, date);
+    struct playerDateData *pDD;
+    pDD = findPlayerDateData(lahmanID, date);
     if (!pDD) {
-        addPlayerDateData(lahmanID); // should raise error if the key is already in there
+        // should raise error if the key is already in there
+        // should set error if there is one
+        if (addPlayerDateData(lahmanID) == -1) {
+            return NULL;
+        } 
+        printf("we got the player's info\n");
+        pDD = findPlayerDateData(lahmanID, date);
+        if (!pDD) {}
     }
 
     // else
-    char *formatString;
     char *hitVal = pDD->hitVal;
     char *otherInfo = pDD->otherInfo;
     // this will return None to the interpreter
@@ -194,8 +204,8 @@ static PyObject *cget_hit_info(PyObject *self, PyObject *args,
 }
 /* Declares the methods in the module */
 static PyMethodDef cresearcherMethods[] = {
-    { "finish_did_get_hit", (PyCFunction) finish_did_get_hit, 
-      METH_KEYWORDS, finishDidGetHitDocString }, 
+    { "cfinish_did_get_hit", (PyCFunction) cfinish_did_get_hit, 
+      METH_KEYWORDS, cfinishDidGetHitDocString }, 
     { "cget_hit_info", (PyCFunction) cget_hit_info, 
       METH_KEYWORDS, cgetHitInfoDocString },     
     { NULL, NULL, 0, NULL} /* sentinel */

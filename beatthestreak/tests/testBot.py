@@ -142,10 +142,10 @@ class TestBot(unittest.TestCase):
         self.assertEqual(self.bot1.get_streak_length(), 0) 
         self.bot1.update_history(p1=pP1, date=d1, susGamesDict=sGD2001)
         self.assertEqual(self.bot1.get_history()[-1], 
-            (pP1, None, 'pass', None, d1, 0, 'Suspended, Invalid.'))
+            (pP1, None, 'pass', None, d1, 0, 'Suspended-Invalid.'))
         bot.update_history(bot=self.bot1)
         self.assertEqual(bot.get_history()[-1], 
-            (pP1, None, 'pass', None, d1, 15, 'Suspended, Invalid.'))
+            (pP1, None, 'pass', None, d1, 15, 'Suspended-Invalid.'))
         self.assertEqual((pP1, None), bot.get_players())
         self.assertEqual(15, bot.get_streak_length())
         self.assertFalse(bot.get_mulligan_status())
@@ -187,10 +187,10 @@ class TestBot(unittest.TestCase):
         self.assertEqual(self.bot1.get_streak_length(), 2) 
         self.bot1.update_history(p1=pH1, p2=pP2, date=d1, susGamesDict=sGD2001)
         self.assertEqual(self.bot1.get_history()[-1], (pH1, pP2, True, 'pass', 
-            d1, 3, 'Suspended, Invalid.'))
+            d1, 3, 'Suspended-Invalid.'))
         bot.update_history(bot=self.bot1)
         self.assertEqual(bot.get_history()[-1], (pH1, pP2, True, 'pass', 
-            d1, 13, 'Suspended, Invalid.'))
+            d1, 13, 'Suspended-Invalid.'))
         self.assertEqual((pH1, pP2), bot.get_players())
         self.assertEqual(13, bot.get_streak_length())
         self.assertFalse(bot.get_mulligan_status())
@@ -198,10 +198,10 @@ class TestBot(unittest.TestCase):
         self.assertEqual(self.bot1.get_streak_length(), 3) 
         self.bot1.update_history(p1=pP1, p2=pH2, date=d1, susGamesDict=sGD2001)
         self.assertEqual(self.bot1.get_history()[-1], (pP1, pH2, 'pass', True,
-            d1, 4, 'Suspended, Invalid.'))
+            d1, 4, 'Suspended-Invalid.'))
         bot.update_history(bot=self.bot1)
         self.assertEqual(bot.get_history()[-1], (pP1, pH2, 'pass', True, 
-            d1, 14, 'Suspended, Invalid.'))
+            d1, 14, 'Suspended-Invalid.'))
         self.assertEqual((pP1, pH2), bot.get_players())
         self.assertEqual(14, bot.get_streak_length())
         self.assertFalse(bot.get_mulligan_status())
@@ -209,10 +209,10 @@ class TestBot(unittest.TestCase):
         self.assertEqual(self.bot1.get_streak_length(), 4) 
         self.bot1.update_history(p1=pP1, p2=pP2, date=d1, susGamesDict=sGD2001)
         self.assertEqual(self.bot1.get_history()[-1], (pP1, pP2, 'pass', 'pass',
-            d1, 4, 'Suspended, Invalid. Suspended, Invalid.'))
+            d1, 4, 'Suspended-Invalid. Suspended-Invalid.'))
         bot.update_history(bot=self.bot1)
         self.assertEqual(bot.get_history()[-1], (pP1, pP2, 'pass', 'pass', 
-            d1, 14, 'Suspended, Invalid. Suspended, Invalid.'))
+            d1, 14, 'Suspended-Invalid. Suspended-Invalid.'))
         self.assertEqual((pP1, pP2), bot.get_players())
         self.assertEqual(14, bot.get_streak_length())
         self.assertFalse(bot.get_mulligan_status())
@@ -267,7 +267,7 @@ class TestBot(unittest.TestCase):
         d2 = date(2001, 6, 15)
         Endy = Player("Endy", "Chavez", 2001) # played in suspended, invalid game on d2
         susGamesDict2001 = Researcher.get_sus_games_dict(2001)
-        suspInvalidOtherS = 'Suspended, Invalid.'
+        suspInvalidOtherS = 'Suspended-Invalid.'
         self.assertEqual(self.bot1.get_streak_length(), 1)
         self.bot1.update_history(p1=Endy,  date=d2, susGamesDict=susGamesDict2001) #p3 got a pass
         self.assertEqual(self.bot1.get_history()[1], 
@@ -392,7 +392,7 @@ class TestBot(unittest.TestCase):
         bot.claim_mulligan()
         bot.incr_streak_length(amount=13)
         bot.update_history(p1=Rafael, date=date(2011, 4, 8), susGamesDict=susGamesDict2011)
-        self.assertEqual(bot.get_history()[0][6], 'Suspended, Valid. Mulligan.')
+        self.assertEqual(bot.get_history()[0][6], 'Suspended-Valid. Mulligan.')
 
     def test_update_history_double_down_no_mulligan(self):
         d1 = date(2001, 6, 15)
@@ -465,8 +465,8 @@ class TestBot(unittest.TestCase):
             # update the history and check that it updated correctly
             bot.update_history(p1=pP1, p2=pP2, date=d1, susGamesDict=sGD2001)
             self.assertEqual(bot.get_history()[i], # right history
-                (pP1, pP2, 'pass', 'pass', d1, startLen, 'Suspended, Invalid.' +\
-                    ' Suspended, Invalid.'))
+                (pP1, pP2, 'pass', 'pass', d1, startLen, 'Suspended-Invalid.' +\
+                    ' Suspended-Invalid.'))
             self.assertEqual(bot.get_streak_length(), startLen) # right streak length
             self.assertEqual(bot.get_players(), (pP1, pP2)) # right players
             self.assertEqual(bot.get_max_streak_length(), maxStreak)
@@ -526,7 +526,7 @@ class TestBot(unittest.TestCase):
             # update the history and check that it updated correctly
             bot.update_history(p1=pH2, p2=pP1, date=d1, susGamesDict=sGD2001)
             self.assertEqual(bot.get_history()[i], # right history
-                (pH2, pP1, True, 'pass', d1, startLen+1, 'Suspended, Invalid.'))
+                (pH2, pP1, True, 'pass', d1, startLen+1, 'Suspended-Invalid.'))
             self.assertEqual(bot.get_streak_length(), startLen + 1) # right streak length
             self.assertEqual(bot.get_players(), (pH2, pP1)) # right players
             self.assertEqual(bot.get_max_streak_length(), maxStreak)
@@ -546,7 +546,7 @@ class TestBot(unittest.TestCase):
             # update the history and check that it updated correctly
             bot.update_history(p1=pP2, p2=pH1, date=d1, susGamesDict=sGD2001)
             self.assertEqual(bot.get_history()[i], # right history
-                (pP2, pH1, 'pass', True, d1, startLen+1, 'Suspended, Invalid.'))
+                (pP2, pH1, 'pass', True, d1, startLen+1, 'Suspended-Invalid.'))
             self.assertEqual(bot.get_streak_length(), startLen + 1) # right streak length
             self.assertEqual(bot.get_players(), (pP2, pH1)) # right players
             self.assertEqual(bot.get_max_streak_length(), maxStreak)
@@ -566,7 +566,7 @@ class TestBot(unittest.TestCase):
             # update the history and check that it updated correctly
             bot.update_history(p1=pF1, p2=pP1, date=d1, susGamesDict=sGD2001)
             self.assertEqual(bot.get_history()[i], # right history
-                (pF1, pP1, False, 'pass', d1, 0, 'Suspended, Invalid.'))
+                (pF1, pP1, False, 'pass', d1, 0, 'Suspended-Invalid.'))
             self.assertEqual(bot.get_streak_length(), 0) # right streak length
             self.assertEqual(bot.get_players(), (pF1, pP1)) # right players
             self.assertEqual(bot.get_max_streak_length(), maxStreak)
@@ -586,7 +586,7 @@ class TestBot(unittest.TestCase):
             # update the history and check that it updated correctly
             bot.update_history(p1=pP2, p2=pF2, date=d1, susGamesDict=sGD2001)
             self.assertEqual(bot.get_history()[i], # right history
-                (pP2, pF2, 'pass', False, d1, 0, 'Suspended, Invalid.'))
+                (pP2, pF2, 'pass', False, d1, 0, 'Suspended-Invalid.'))
             self.assertEqual(bot.get_streak_length(), 0) # right streak length
             self.assertEqual(bot.get_players(), (pP2, pF2)) # right players
             self.assertEqual(bot.get_max_streak_length(), maxStreak)

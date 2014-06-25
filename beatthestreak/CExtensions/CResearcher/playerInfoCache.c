@@ -1,5 +1,6 @@
 #include <string.h>
 #include <stdio.h>
+#include "Python.h" // comment out to compile with gcc
 #include "playerInfoCache.h"
 
 #define pInfoDir "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak\
@@ -13,8 +14,19 @@ struct playerDateData *playerInfoCache = NULL; /* Hash Table for the year */
 /* delete the cache and free any items on the heap that were either in or 
    pointed to by the cache */
 int deletePlayerInfoCache() {
-    // free the hashkey
-    // free the hashBucket itself
+    /* Removes all hash elements from the hash Table and 
+       frees up associated memory */   
+    struct playerDateData *curBucket, *tmp;
+
+    HASH_ITER(hh, playerInfoCache, curBucket, tmp) {
+        HASH_DEL(playerInfoCache, curBucket);   /* delete; advances to next */
+        if (!curBucket) {
+            PyErr_SetString(PyExc_LookupError, "HASH_ITER failed while deleting playerInfoCache");
+            return -1;
+        }
+        free((void *) curBucket->lIdDashDate);  /* free the hash table key */
+        free(curBucket);                        /* free the pointer */
+    }
     return 0;
 }
 /* Retrieve an item from the hash */
@@ -54,9 +66,14 @@ int addPlayerDateData(char *lahmanID) {
     sprintf(filePathSuffix, "/%d/%s.txt", playerInfoCacheYear, lahmanID);
     strcpy(filePath, pInfoDir);
     strcat(filePath, filePathSuffix);
-    printf("filePath for jeter in 2006: %s\n", filePath);
+    printf("filePath: %s\n", filePath);
     FILE *fp = fopen(filePath, "r");
+    if (!fp) {
+        PyErr_SetString(PyExc_IOError, "could not open file\n"); // comment out to compile with gcc
+        return -1;
+    }
 
+    printf("We opened the file\n");
     /** Iterate through file, add a seperate bucket for each row in the file */
     /* we ignore the top line, which is column header*/
     fgets(line, MAXLINE, fp); 
@@ -73,6 +90,7 @@ int addPlayerDateData(char *lahmanID) {
         // printf("%sEND\n", hitVal);
         // printf("%sEND\n", otherInfo);
         // 3: 1 for the sentinel, 1 for a dash, 1 for breathing room
+        printf("We extract the values from file\n");
         char *hashKey = (char *) malloc(strlen(lahmanID) + strlen(date) + 3);
         if (!hashKey) {
             fclose(fp);
@@ -82,6 +100,7 @@ int addPlayerDateData(char *lahmanID) {
             strcat(hashKey, "-");
             strcat(hashKey, date);
         }
+        printf("We create the hashKey\n");
         HASH_FIND_STR(playerInfoCache, hashKey, pDD);
         if (pDD) {
             fclose(fp);
@@ -95,8 +114,8 @@ int addPlayerDateData(char *lahmanID) {
                 return -1;
             }
             pDD->lIdDashDate = hashKey;
-            pDD->hitVal = hitVal;
-            pDD->otherInfo = otherInfo;
+            strcpy(pDD->hitVal, hitVal);
+            strcpy(pDD->otherInfo, otherInfo);
             HASH_ADD_STR(playerInfoCache, lIdDashDate, pDD);
         }
         // printPlayerInfoCache();
@@ -104,7 +123,6 @@ int addPlayerDateData(char *lahmanID) {
     fclose(fp);
     return 0;
 }
-
 /* Mostly for debugging */
 void printPlayerInfoCache() {
     struct playerDateData *pD;

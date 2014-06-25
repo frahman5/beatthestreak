@@ -96,6 +96,7 @@ class NPSimulation(Simulation):
         Simulation.setup(self) # download and parse retrosheet data
         self.bots = self._create_bots() # create N bots
         self.players = self.__calc__players(self.batAveYear, self.minPA) # create top P players
+        self.__initalize_player_hit_info_csvs() # initalize their hit info csv's
         self.minBatAve = self.__set_min_bat_ave() # store resultant min bat ave
         self.susGamesDict = Researcher.get_sus_games_dict(self.get_sim_year())
         for bot in self.bots:
@@ -560,6 +561,15 @@ class NPSimulation(Simulation):
 
         return players
     
+    def __initalize_player_hit_info_csvs(self):
+        """
+        For each player in self.players, assures that the player hit info 
+        csv has been written 
+        """
+        simYear = self.simYear
+        for player in self.players:
+            Researcher.create_player_hit_info_csv(player, simYear)
+
     # we don't cover this in test coverage because we don't want to have
     # to continually construct bat_avs_csvs. 
     def __construct_bat_ave_csv(self, year): # pragma: no cover

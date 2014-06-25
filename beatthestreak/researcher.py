@@ -6,7 +6,7 @@ import datetime
 import pandas as pd
 from datetime import date, timedelta
 
-from cresearcher import finish_did_get_hit
+from cresearcher import cfinish_did_get_hit
 from config import specialCasesD
 from utilities import Utilities
 from retrosheet import Retrosheet
@@ -145,7 +145,7 @@ class Researcher(object):
         # searchD = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
         # searchP = lastName + " " + firstName[0]
         # self.debugList.append((boxscore,searchD, searchP))
-        retVal = finish_did_get_hit(date=date, firstName=firstName, 
+        retVal = cfinish_did_get_hit(date=date, firstName=firstName, 
                     lastName=lastName, boxscore=boxscore)
         if type(retVal) == Exception:
             raise retVal
@@ -197,6 +197,7 @@ class Researcher(object):
                 hitVal, otherInfo = 'pass', specialCasesD['S']['I']
         else: # Normal game
             hitVal, otherInfo = self.c_did_get_hit(date, player), None
+        self.debugList.append((date, player))
         self.playerInfoBuffer[1].append((player, hitVal, otherInfo))
         return hitVal, otherInfo
 
@@ -463,6 +464,12 @@ class Researcher(object):
         ....
         """
         assert type(year) == int
+        # check if its already there:
+        filePath = Filepath.get_player_hit_info_csv_file(
+                      player.get_lahman_id(), year)
+        if os.path.isfile(filePath):
+            return 
+
         curDate = self.get_opening_day(year)
         endDate = self.get_closing_day(year)
         dateL, hitValL, otherInfoL = [], [], []
@@ -470,9 +477,12 @@ class Researcher(object):
 
         # Construct dataframe
         while curDate != endDate:
+            # print "we get into while loop"
             if self.did_start(curDate, player):
                 dateL.append('{0}/{1}'.format(curDate.month, curDate.day))
                 hitVal, otherInfo = self.get_hit_info(curDate, player, sGD)
+                # if player.get_lahman_id() == "youngmi02":
+                    # print "We get the hitVal and other Info"
                 if not otherInfo:
                     otherInfo = "n/a"
                 hitValL.append(hitVal)

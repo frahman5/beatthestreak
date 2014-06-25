@@ -5,7 +5,7 @@ from beatthestreak.tests import p1, p2, p3, p4, p5
 from beatthestreak.researcher import Researcher as R
 from beatthestreak.player import Player
 from beatthestreak.filepath import Filepath
-from cresearcher import finish_did_get_hit, cget_hit_info
+from cresearcher import cfinish_did_get_hit, cget_hit_info
 
 class TestCResearcher(unittest.TestCase):
 
@@ -74,9 +74,9 @@ class TestCResearcher(unittest.TestCase):
         self.assertTrue(R.c_did_get_hit(date(2009, 7, 9), Lance))
 
         # To check that function safely exits on errors
-        self.assertRaises(IOError, finish_did_get_hit, date=date(2012, 6, 5), 
+        self.assertRaises(IOError, cfinish_did_get_hit, date=date(2012, 6, 5), 
             firstName='Faiyam', lastName='Rahman', boxscore='ooglyboogly.asdfx')
-        self.assertRaises(EOFError, finish_did_get_hit, date=date(2012, 6, 5), 
+        self.assertRaises(EOFError, cfinish_did_get_hit, date=date(2012, 6, 5), 
             firstName='Faiyam', lastName='Rahman', 
             boxscore=Filepath.get_retrosheet_file(
                     folder='unzipped', fileF='boxscore', year=2012, 
@@ -144,8 +144,6 @@ class TestCResearcher(unittest.TestCase):
             [2012, {'ANA': (d1, 53499), 'TBA': (d2, 57767)}])
         self.assertEqual(R.type1SeekPosUsed, 0)  
 
-
-
     def test_c_cget_hit_info(self):
         d1 = date(2012, 4, 15)
         d2 = date(2001, 7, 18)
@@ -154,31 +152,30 @@ class TestCResearcher(unittest.TestCase):
 
         ## Case 1 : (True, None); player got a hit on date d1
         Jose = Player("Jose", "Altuve", 2012)
-        self.assertEqual(cget_hit_info(date=d1, lahmanId=Jose.get_lahman_id()), 
+        R.create_player_hit_info_csv(Jose, 2012)
+        self.assertEqual(cget_hit_info(date=d1, lahmanID=Jose.get_lahman_id()), 
                                        (True, None))
 
         ## Case 2: (False, None); player did not get a hit on date date
         Will = Player("Will", "Venable", 2012)
-        self.assertEqual(cget_hit_info(date=d4, lahmanId=Will.get_lahman_id()), 
+        R.create_player_hit_info_csv(Will, 2012)
+        self.assertEqual(cget_hit_info(date=d4, lahmanID=Will.get_lahman_id()), 
                                         (False, None))
 
         ## Case 3: ('pass', 'Suspended, Invalid'); player played in a suspended, invalid game
         Mark = Player("Mark", "Grace", 2001)
-        self.assertEqual(cget_hit_info(date=d2, lahmanId=Mark.get_lahman_id()), 
-                                        ('pass', 'Suspended, Invalid.'))
+        R.create_player_hit_info_csv(Mark, 2001)
+        self.assertEqual(cget_hit_info(date=d2, lahmanID=Mark.get_lahman_id()), 
+                                        ('pass', 'Suspended-Invalid.'))
 
         ## Case 4: (True, 'Suspended, Valid'); player got a hit in a suspended, valid game
         Ben = Player("Ben", "Zobrist", 2010)
-        self.assertEqual(cget_hit_info(date=d3, lahmanId=Ben.get_lahman_id()), 
-                                        (True, 'Suspended, Valid.'))
+        R.create_player_hit_info_csv(Ben, 2010)
+        self.assertEqual(cget_hit_info(date=d3, lahmanID=Ben.get_lahman_id()), 
+                                        (True, 'Suspended-Valid.'))
 
         ## Case 5 : (False, 'Suspended, Valid'); player did not get a hit in a suspended, valid game
         Marco = Player("Marco", "Scutaro", 2010)
-        self.assertEqual(cget_hit_info(date=d3, lahmanId=Marco.get_lahman_id()), 
-                                        (False, 'Suspended, Valid.'))
-
-        ## Case 6: Get the player hit info from the playerInfoBuffer
-        self.assertEqual(cget_hit_info(date=d3, lahmanId=Ben.get_lahman_id()), 
-                                        (True, 'Suspended, Valid.'))
-        self.assertEqual(cget_hit_info(date=d3, lahmanId=Marco.get_lahman_id()), 
-                                        (False, 'Suspended, Valid.'))
+        R.create_player_hit_info_csv(Marco, 2010)
+        self.assertEqual(cget_hit_info(date=d3, lahmanID=Marco.get_lahman_id()), 
+                                        (False, 'Suspended-Valid.'))

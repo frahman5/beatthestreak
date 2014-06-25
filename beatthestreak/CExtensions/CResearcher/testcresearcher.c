@@ -6,6 +6,8 @@
 #include "boxscoreBuffer.h"
 #include "playerInfoCache.h"
 
+#define ARRAY_SIZE(array) sizeof(array)/sizeof(array[0])
+
 void test_get_third_num_in_string();
 
 int test__search_boxscore();
@@ -339,6 +341,42 @@ datasets/retrosheet/unzipped/events2012/2012NYNB.txt";
 
 void test_structure_playerInfo_cache() {
     /* Tests that the hash table and basic structure of the playerInfoCache works */
+    char *MarkLorettaDates2001[] = 
+        {"5/19", "5/20", "5/22", "5/23", "5/24", "5/25", "5/28", "5/29", "5/30", 
+        "5/31", "6/1", "6/2", "6/3", "6/5", "6/6", "6/8", "6/9", "6/10", "6/12", 
+        "6/13", "6/14", "6/15", "6/17", "6/18", "6/19", "6/22", "6/23", "6/24", 
+        "6/25", "6/26", "6/27", "6/29", "6/30", "7/1", "7/3", "7/4", "7/5", 
+        "7/6", "7/7", "7/13", "7/14", "7/15", "7/16", "7/18", "7/19", "7/20", 
+        "7/21", "7/23", "7/24", "7/25", "7/27", "7/28", "7/29", "7/31", "8/1", 
+        "8/2", "8/3", "8/4", "8/9", "8/10", "8/11", "8/12", "8/14", "8/15", 
+        "8/16", "8/17", "8/18", "8/19", "8/20", "8/22", "8/23", "8/24", "8/25", 
+        "8/26", "8/27", "8/28", "8/29", "8/31", "9/1", "9/2", "9/3", "9/4", 
+        "9/5", "9/6", "9/7", "9/8", "9/9", "9/10", "9/17", "9/18", "9/21", 
+        "9/22", "9/25", "9/26", "9/27", "9/29"};
+    char *MarkLorettaHitVals2001[] = 
+        {"False", "True", "True", "True", "True", "True", "True", "True", 
+        "True", "True", "True", "True", "True", "True", "True", "True", "True", 
+        "False", "True", "False", "True", "pass", "True", "True", "True", 
+        "False", "True", "True", "True", "False", "False", "True", "True", 
+        "True", "True", "False", "True", "False", "True", "True", "True", 
+        "False", "False", "True", "True", "True", "True", "True", "True", 
+        "True", "True", "True", "True", "False", "False", "True", "True", 
+        "False", "True", "True", "True", "True", "True", "True", "False", 
+        "True", "True", "True", "False", "True", "True", "True", "True", 
+        "True", "True", "True", "True", "True", "True", "True", "True", 
+        "True", "False", "True", "True", "True", "True", "True", "True", 
+        "False", "True", "True", "True", "True", "False", "True"};
+    char *MarkLorettaOtherInfos2001[] = 
+        {"n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", 
+        "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", 
+        "n/a", "Suspended-Invalid.", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a",
+         "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a",
+        "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a",
+        "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a",
+        "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", 
+        "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", 
+        "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", 
+        "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a"};
 
     /* Test that we can retrieve and set the playerInfoCacheyear */
     playerInfoCacheYear = 7;
@@ -351,52 +389,32 @@ void test_structure_playerInfo_cache() {
     assert (HASH_COUNT(playerInfoCache) == 0);
     //     /* adding */
     playerInfoCacheYear = 2006;
-    assert (addPlayerDateData("jeterde01") == 0); // should add Derek Jeter's hitInfos from 2006
-    printPlayerInfoCache();
+    assert (addPlayerDateData("jeterde01") == 0); // should add Derek Jeter"s hitInfos from 2006
+    // printPlayerInfoCache();
     assert (HASH_COUNT(playerInfoCache) == 149);
         /* finding */
     struct playerDateData *pD = findPlayerDateData("jeterde01", "6/28");
-    printf("pd hitVal: %s\n", pD->hitVal);
     assert (strcmp(pD->lIdDashDate, "jeterde01-6/28") == 0);
     assert (strcmp(pD->hitVal, "True") == 0);
     assert (strcmp(pD->otherInfo, "n/a") == 0);
-//         /* replacing an already hashed key */
-//     addReplaceBoxscore("boxscore1", 55L, 7, 2);
-//     assert(HASH_COUNT(boxHashTable) == 1); 
-//       // also do a manual count to guard against nonunique keys
-//     int i = 0;
-//     for (bD=boxHashTable; bD != NULL; bD=bD->hh.next) { i++; }
-//     assert (i == 1);
-//     assert (strcmp(boxData1->boxscore,"boxscore1") == 0);
-//     assert (boxData1->lastViewedByte == 55L);
-//     assert (boxData1->month == 7);
-//     assert (boxData1->day == 2);
-//         /* deleting */
-//     deleteTable(); // frees memory
-//     assert (HASH_COUNT(boxHashTable) == 0);
-
-//     /* Another test to gaurd against nonunique keys. Motivated by a bug */
-//     char *bs2 = "/Users/faiyamrahman/programming/Python/beatthestreak/\
-// beatthestreak/datasets/retrosheet/unzipped/events2010/2010ANAB.txt";
-//     char *bs3 = "/Users/faiyamrahman/programming/Python/beatthestreak/\
-// beatthestreak/datasets/retrosheet/unzipped/events2010/2010ANAB.txt";
-//     // printf("\n\nBefore first addition:");
-//     // printHashTable(0);
-//     addReplaceBoxscore(bs2, 48L, 4, 4);
-//     // printf("After first addition:");
-//     // printHashTable(0);
-//     assert (HASH_COUNT(boxHashTable) == 1);
-//        // manual count
-//     i = 0;
-//     for (bD=boxHashTable; bD != NULL; bD=bD->hh.next) { i++; }
-//     assert (i == 1);
-//     addReplaceBoxscore(bs3, 50L, 4, 5);
-//     // printf("\nAfter second addition:");
-//     // printHashTable(0);
-//     assert (HASH_COUNT(boxHashTable) == 1);
-//        // manual count
-//     i = 0;
-//     for (bD=boxHashTable; bD != NULL; bD=bD->hh.next) { i++; }
-//     assert (i == 1);
+        /* finding on steroids: make sure EVERY elem of the hash table fpr
+           a player is correct */
+    playerInfoCacheYear = 2001;
+       // includes a suspended game
+    addPlayerDateData("loretma01"); // should add Mark Loretta's hitInfos from 2001
+    assert (ARRAY_SIZE(MarkLorettaDates2001) == 96);
+    assert (ARRAY_SIZE(MarkLorettaHitVals2001) == 96);
+    assert (ARRAY_SIZE(MarkLorettaOtherInfos2001) == 96);
+    struct playerDateData *pD1;
+    for (int i = 0; i < 96; i++) {
+        pD1 = findPlayerDateData("loretma01", MarkLorettaDates2001[i]);
+        // printf("pD->otherInfo: %s, otherInfo: %s\n", pD1->otherInfo, MarkLorettaOtherInfos2001[i]);
+        
+        assert (strcmp(pD1->hitVal, MarkLorettaHitVals2001[i]) == 0);
+        assert (strcmp(pD1->otherInfo, MarkLorettaOtherInfos2001[i]) == 0);
+    }
+        /* test delete */
+    deletePlayerInfoCache();
+    assert (HASH_COUNT(playerInfoCache) == 0);
 
 }

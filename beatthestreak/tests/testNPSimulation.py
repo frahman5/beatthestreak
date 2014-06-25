@@ -213,7 +213,7 @@ class TestNPSimulation(unittest.TestCase):
         # bot with luiz gongalez got a 'pass', not a boolean true or false
         botPlayerHistories[-1] = [(
             Player("Luis", "Gonzalez", 2001, debut='9/4/1990'), None,
-            'pass', None, date(2001,7,18), 1, "Suspended, Invalid.")] 
+            'pass', None, date(2001,7,18), 1, "Suspended-Invalid.")] 
 
         self.assertEqual((len(bots)), 15) # check that bots are not empty
         self.assertEqual([bot.get_players() for bot in bots], botPlayers)

@@ -4,8 +4,8 @@
     /* A hashtable with string keys and string values */
 struct playerDateData {
     const char *lIdDashDate;    /* key:  lahmanID + date (e.g: jeterde01-4/3)*/
-    char *hitVal;
-    char *otherInfo;
+    char hitVal[8];             /* value1: hitval is one of ("True", "Pass", "False") */
+    char otherInfo[21];         /* value2: otherInfo is one of ("n/a", "Suspended, Valid.", "Suspended, Invalid."") */
     UT_hash_handle hh;          /* makes this struct hashable */
 };
 

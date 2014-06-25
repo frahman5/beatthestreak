@@ -64,7 +64,7 @@ void deleteTable() {
 
     HASH_ITER(hh, boxHashTable, currentBox, tmp) {
         HASH_DEL(boxHashTable, currentBox);     /* delete; users advances to next */
-        free(currentBox->boxscore);             /* free the hash table key */
+        free((void *)currentBox->boxscore);             /* free the hash table key */
         free(currentBox);                       /* free the pointer */
     }
 }
