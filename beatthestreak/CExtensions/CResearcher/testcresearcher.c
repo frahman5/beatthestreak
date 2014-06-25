@@ -4,6 +4,7 @@
 
 #include "crhelper.h"
 #include "boxscoreBuffer.h"
+#include "playerInfoCache.h"
 
 void test_get_third_num_in_string();
 
@@ -13,11 +14,14 @@ void test_structure_boxscore_buffer();
 
 void test_functionality_boxscore_buffer();
 
+void test_structure_playerInfo_cache();
+
 int main() {
     test_get_third_num_in_string();
     test__search_boxscore();
     test_structure_boxscore_buffer();
     test_functionality_boxscore_buffer();
+    test_structure_playerInfo_cache();
     printf("All tests passed!\n");
 }
 
@@ -221,7 +225,6 @@ beatthestreak/datasets/retrosheet/unzipped/events2010/2010ANAB.txt";
     for (bD=boxHashTable; bD != NULL; bD=bD->hh.next) { i++; }
     assert (i == 1);
 
-
 }
 void test_get_third_num_in_string() {
 
@@ -334,3 +337,66 @@ datasets/retrosheet/unzipped/events2012/2012NYNB.txt";
     return 1;
 }
 
+void test_structure_playerInfo_cache() {
+    /* Tests that the hash table and basic structure of the playerInfoCache works */
+
+    /* Test that we can retrieve and set the playerInfoCacheyear */
+    playerInfoCacheYear = 7;
+    assert (playerInfoCacheYear == 7);
+    playerInfoCacheYear = 809;
+    assert (playerInfoCacheYear == 809);
+
+    /* Test..... */
+    deletePlayerInfoCache();
+    assert (HASH_COUNT(playerInfoCache) == 0);
+    //     /* adding */
+    playerInfoCacheYear = 2006;
+    assert (addPlayerDateData("jeterde01") == 0); // should add Derek Jeter's hitInfos from 2006
+    printPlayerInfoCache();
+    assert (HASH_COUNT(playerInfoCache) == 149);
+        /* finding */
+    struct playerDateData *pD = findPlayerDateData("jeterde01", "6/28");
+    printf("pd hitVal: %s\n", pD->hitVal);
+    assert (strcmp(pD->lIdDashDate, "jeterde01-6/28") == 0);
+    assert (strcmp(pD->hitVal, "True") == 0);
+    assert (strcmp(pD->otherInfo, "n/a") == 0);
+//         /* replacing an already hashed key */
+//     addReplaceBoxscore("boxscore1", 55L, 7, 2);
+//     assert(HASH_COUNT(boxHashTable) == 1); 
+//       // also do a manual count to guard against nonunique keys
+//     int i = 0;
+//     for (bD=boxHashTable; bD != NULL; bD=bD->hh.next) { i++; }
+//     assert (i == 1);
+//     assert (strcmp(boxData1->boxscore,"boxscore1") == 0);
+//     assert (boxData1->lastViewedByte == 55L);
+//     assert (boxData1->month == 7);
+//     assert (boxData1->day == 2);
+//         /* deleting */
+//     deleteTable(); // frees memory
+//     assert (HASH_COUNT(boxHashTable) == 0);
+
+//     /* Another test to gaurd against nonunique keys. Motivated by a bug */
+//     char *bs2 = "/Users/faiyamrahman/programming/Python/beatthestreak/\
+// beatthestreak/datasets/retrosheet/unzipped/events2010/2010ANAB.txt";
+//     char *bs3 = "/Users/faiyamrahman/programming/Python/beatthestreak/\
+// beatthestreak/datasets/retrosheet/unzipped/events2010/2010ANAB.txt";
+//     // printf("\n\nBefore first addition:");
+//     // printHashTable(0);
+//     addReplaceBoxscore(bs2, 48L, 4, 4);
+//     // printf("After first addition:");
+//     // printHashTable(0);
+//     assert (HASH_COUNT(boxHashTable) == 1);
+//        // manual count
+//     i = 0;
+//     for (bD=boxHashTable; bD != NULL; bD=bD->hh.next) { i++; }
+//     assert (i == 1);
+//     addReplaceBoxscore(bs3, 50L, 4, 5);
+//     // printf("\nAfter second addition:");
+//     // printHashTable(0);
+//     assert (HASH_COUNT(boxHashTable) == 1);
+//        // manual count
+//     i = 0;
+//     for (bD=boxHashTable; bD != NULL; bD=bD->hh.next) { i++; }
+//     assert (i == 1);
+
+}

@@ -471,8 +471,7 @@ class Researcher(object):
         # Construct dataframe
         while curDate != endDate:
             if self.did_start(curDate, player):
-                dateL.append('{0}/{1}/{2}'.format(curDate.month, 
-                                                  curDate.day, curDate.year))
+                dateL.append('{0}/{1}'.format(curDate.month, curDate.day))
                 hitVal, otherInfo = self.get_hit_info(curDate, player, sGD)
                 if not otherInfo:
                     otherInfo = "n/a"
@@ -481,7 +480,7 @@ class Researcher(object):
             curDate += timedelta(days=1)
         dateS = pd.Series(dateL, name="date")
         hitValS = pd.Series(hitValL, name="hitVal")
-        otherInfoS = pd.Series(otherInfoL, name="otherInfoL")
+        otherInfoS = pd.Series(otherInfoL, name="otherInfo")
         df = pd.concat([dateS, hitValS, otherInfoS], axis=1)
 
         # write dataframe to csv

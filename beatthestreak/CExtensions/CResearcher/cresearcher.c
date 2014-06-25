@@ -3,8 +3,9 @@
 // #include "Python.h" /* also imports stdlib, stdio, string, errno */
 #include "datetime.h"   /* PyDatetime support */
 #include "crhelper.h"   /* get_third_num_in_string, _search_boxscore */
+#include "playerInfoCache.h"
 
-#define finishDidGetHitDocString "datetime.time string string string -> bool\
+#define finishDidGetHitDocString "datetime.date string string string -> bool\
 \n\
     date: datetime.date | the date for which we are finishing the did_get_hit search\n\
     firstName: string | first name of player we are searching for\n\
@@ -16,8 +17,30 @@ Searches the boxscore for the player's boxscore line and returns True if he had 
 Example Usage: finish_did_get_hit(date=d1, firstName=n1, lastname=n2, boxscore=b1)\n\
 where the above variables are set appropriately"
 
+#define cgetHitInfoDocString "datetime.date string -> string|bool, string|None\
+\n\
+        lahmanID: string | lahmanID of player of interest\n\
+        date: datetime.date | date of interest\n\
+\n\
+    Produces (hitResult, otherInfo) for player on given date.\n\
+    Possible values of (hitResult, otherInfo):\n\
+        1) (True, None) # player got a hit on date date\n\
+        2) (False, None) # player did not get a hit on date date\n\
+        3) ('pass', 'Suspended, Invalid.'): # player played in a suspended, invalid game on date date\n\
+        4) (True, 'Suspended, Valid.'): # player got a hit in a suspended, valid game on date date\n\
+        5) (False, 'Suspended, Valid.'): # player did not get a hit in a suspended, valid game on date date\n\
+\n\
+    Technically, this should also account for case 6 below, but because it is exceedingly rare,\n\
+    we do not account for it. This effectively makes our simulation slightly MORE conservative--i.e \n\
+    more likely to reset a streak--than it should be, making us confident that at the worst, \n\
+    playing for real should give us better results than our simulation\n\
+        6) ('pass', 'Screwy ABs'): # player played in a valid game on date date but all his at bats were \n\
+               either base on balls, hit batsman, defensive interference, defensive obstruction, \n\
+               or sacrifice bunt\n\
+\n\
+    Relies on player Hit Info csv's located in results/playerInfo"
 /* Return Py_True if player got a hit, Py_False otherwise */
-static PyObject *cresearcher_finish_did_get_hit(
+static PyObject *finish_did_get_hit(
           PyObject *self, PyObject *args, PyObject *kwargs) {
     
     /* Get the keyword values into local variables */
@@ -109,10 +132,72 @@ static PyObject *cresearcher_finish_did_get_hit(
     return (numHits > 0) ? Py_True : Py_False;
 }
 
+/* Returns hitVal, otherInfo for player with lahmanID on given date */
+static PyObject *cget_hit_info(PyObject *self, PyObject *args, 
+                               PyObject *kwargs) {
+
+    /* Get the keyword values into local variables */
+    PyDateTime_Date* d;
+    char* lahmanID;
+    char* keywords[] = {"date", "lahmanID", NULL}; 
+    if (!PyArg_ParseTupleAndKeywords(args, kwargs, "Os:finish_did_get_hit", 
+                                     keywords, &d, &lahmanID)) {
+        return NULL; // ParseTupleAndKeywords sets the exception for me
+    }
+
+    /* Get month, day, year. */
+    char monthS[3];         // 2 digit month plus space for the sentinel
+    char dayS[3];           // 2 digit day plus space for the sentinel
+    char yearS[5];          // 4 digit year plus space for the sentinel
+    sprintf(monthS, "%d", PyDateTime_GET_MONTH(d));
+    sprintf(dayS, "%d", PyDateTime_GET_DAY(d));
+    sprintf(yearS, "%d", PyDateTime_GET_YEAR(d));
+
+    /* Get the date string */
+    char *backslash = "/";
+    char date[11];       // ten digit mm/dd/yyyy plus space for the sentinel
+    char *helperArray[] = { monthS, backslash, dayS, backslash, yearS };
+    /* strcpy the first string so we don't concat onto garbage during strcats */
+    strcpy(date, helperArray[0]);
+    for (int i = 1; i < 5; i++) { strcat(date, helperArray[i]); }
+
+    /* Check if the cache is for this year or not */
+    int yearInt = atoi(yearS);
+    if (playerInfoCacheYear != yearInt) {
+        playerInfoCacheYear = yearInt;
+        deletePlayerInfoCache();
+    }
+
+    /* Get the player's info, or add it if its not there yet */
+    struct playerDateData *pDD = findPlayerDateData(lahmanID, date);
+    if (!pDD) {
+        addPlayerDateData(lahmanID); // should raise error if the key is already in there
+    }
+
+    // else
+    char *formatString;
+    char *hitVal = pDD->hitVal;
+    char *otherInfo = pDD->otherInfo;
+    // this will return None to the interpreter
+    if (strcmp(otherInfo, "n/a") == 0) { otherInfo = NULL; }
+    if (strcmp(hitVal, "pass") == 0) {
+        return Py_BuildValue("ss", hitVal, otherInfo);
+    } else {
+        if (strcmp(hitVal, "True") == 0) {
+            return Py_BuildValue("Os", Py_True, otherInfo);
+        }
+        else {
+            assert (strcmp(hitVal, "False") == 0);
+            return Py_BuildValue("Os", Py_False, otherInfo);
+        }
+    }
+}
 /* Declares the methods in the module */
 static PyMethodDef cresearcherMethods[] = {
-    { "finish_did_get_hit", (PyCFunction) cresearcher_finish_did_get_hit, 
-      METH_KEYWORDS, finishDidGetHitDocString },     
+    { "finish_did_get_hit", (PyCFunction) finish_did_get_hit, 
+      METH_KEYWORDS, finishDidGetHitDocString }, 
+    { "cget_hit_info", (PyCFunction) cget_hit_info, 
+      METH_KEYWORDS, cgetHitInfoDocString },     
     { NULL, NULL, 0, NULL} /* sentinel */
 };
 

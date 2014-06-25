@@ -570,7 +570,7 @@ class TestResearcher(unittest.TestCase):
         df = DataFrame.from_csv(Filepath.get_player_hit_info_csv_file(
                                 Derek.get_lahman_id(), 2006))
         for date, hitVal, otherInfo in df.itertuples():
-            datetimeDate = datetime.date(date.year, date.month, date.day)
+            datetimeDate = datetime.date(2006, date.month, date.day)
             if otherInfo == 'n/a':
                 otherInfo = None
             if hitVal == 'True':
@@ -588,7 +588,7 @@ class TestResearcher(unittest.TestCase):
         df = DataFrame.from_csv(Filepath.get_player_hit_info_csv_file(
                                 Endy.get_lahman_id(), 2001))
         for date, hitVal, otherInfo in df.itertuples():
-            datetimeDate = datetime.date(date.year, date.month, date.day)
+            datetimeDate = datetime.date(2001, date.month, date.day)
             if otherInfo == 'n/a':
                 otherInfo = None
             if hitVal == 'True':

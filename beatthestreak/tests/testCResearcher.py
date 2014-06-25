@@ -5,7 +5,7 @@ from beatthestreak.tests import p1, p2, p3, p4, p5
 from beatthestreak.researcher import Researcher as R
 from beatthestreak.player import Player
 from beatthestreak.filepath import Filepath
-from cresearcher import finish_did_get_hit
+from cresearcher import finish_did_get_hit, cget_hit_info
 
 class TestCResearcher(unittest.TestCase):
 
@@ -143,3 +143,42 @@ class TestCResearcher(unittest.TestCase):
         self.assertEqual(R.boxscoreBuffer, 
             [2012, {'ANA': (d1, 53499), 'TBA': (d2, 57767)}])
         self.assertEqual(R.type1SeekPosUsed, 0)  
+
+
+
+    def test_c_cget_hit_info(self):
+        d1 = date(2012, 4, 15)
+        d2 = date(2001, 7, 18)
+        d3 = date(2010, 4, 16)
+        d4 = date(2012, 7, 3)
+
+        ## Case 1 : (True, None); player got a hit on date d1
+        Jose = Player("Jose", "Altuve", 2012)
+        self.assertEqual(cget_hit_info(date=d1, lahmanId=Jose.get_lahman_id()), 
+                                       (True, None))
+
+        ## Case 2: (False, None); player did not get a hit on date date
+        Will = Player("Will", "Venable", 2012)
+        self.assertEqual(cget_hit_info(date=d4, lahmanId=Will.get_lahman_id()), 
+                                        (False, None))
+
+        ## Case 3: ('pass', 'Suspended, Invalid'); player played in a suspended, invalid game
+        Mark = Player("Mark", "Grace", 2001)
+        self.assertEqual(cget_hit_info(date=d2, lahmanId=Mark.get_lahman_id()), 
+                                        ('pass', 'Suspended, Invalid.'))
+
+        ## Case 4: (True, 'Suspended, Valid'); player got a hit in a suspended, valid game
+        Ben = Player("Ben", "Zobrist", 2010)
+        self.assertEqual(cget_hit_info(date=d3, lahmanId=Ben.get_lahman_id()), 
+                                        (True, 'Suspended, Valid.'))
+
+        ## Case 5 : (False, 'Suspended, Valid'); player did not get a hit in a suspended, valid game
+        Marco = Player("Marco", "Scutaro", 2010)
+        self.assertEqual(cget_hit_info(date=d3, lahmanId=Marco.get_lahman_id()), 
+                                        (False, 'Suspended, Valid.'))
+
+        ## Case 6: Get the player hit info from the playerInfoBuffer
+        self.assertEqual(cget_hit_info(date=d3, lahmanId=Ben.get_lahman_id()), 
+                                        (True, 'Suspended, Valid.'))
+        self.assertEqual(cget_hit_info(date=d3, lahmanId=Marco.get_lahman_id()), 
+                                        (False, 'Suspended, Valid.'))

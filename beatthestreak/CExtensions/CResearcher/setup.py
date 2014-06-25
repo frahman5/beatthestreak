@@ -4,10 +4,9 @@ CResearcher = Extension('cresearcher',
                          include_dirs = ['uthash-master/src'],
                          sources=['cresearcher.c', 
                                   'crhelper.c', 
-                                  'boxscorebuffer.c'])
+                                  'boxscorebuffer.c', 
+                                  'playerInfoCache.c'])
 
-setup(name='CResearcher', version='1.1', 
-      description='Fully Functional finish_did_get_hit to speedup simulations.' + \
-          " Now includes a hashTable data structure to speed things up even" + \
-          " more.", 
+setup(name='CResearcher', version='2.0', 
+      description='Now includes cget_hit_info function',
       ext_modules = [CResearcher])
