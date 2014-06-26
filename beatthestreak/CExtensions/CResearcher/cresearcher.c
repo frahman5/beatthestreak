@@ -44,16 +44,15 @@ static PyObject *cfinish_did_get_hit(
           PyObject *self, PyObject *args, PyObject *kwargs) {
     
     /* Get the keyword values into local variables */
-    PyDateTime_Date* d;
-    char* firstName;
-    char* lastName;
+    PyDateTime_Date *d;
+    char *firstName;
+    char *lastName;
     char *boxscore;
-    char* keywords[] = {"date", "firstName", "lastName", "boxscore", NULL}; 
+    char *keywords[] = {"date", "firstName", "lastName", "boxscore", NULL}; 
     if (!PyArg_ParseTupleAndKeywords(args, kwargs, "Osss:finish_did_get_hit", 
                                      keywords, &d, &firstName, &lastName, &boxscore)){
         return NULL; // ParseTupleAndKeywords sets the exception for me
     }
-    printf("name: %s %s\n", firstName, lastName);
 
     /* open the file */ 
     FILE *fp = fopen(boxscore, "r");
@@ -62,12 +61,13 @@ static PyObject *cfinish_did_get_hit(
     }
 
     /* Get month, day,  year. */
-    char monthS[3];         // 2 digit month plus space for the sentinel
-    char dayS[3];           // 2 digit day plus space for the sentinel
-    char yearS[5];          // 4 digit year plus space for the sentinel
+    char monthS[4];         // 2 digit month plus space for the sentinel and one for writeoff
+    char dayS[4];           // 2 digit day plus space for the sentinel and one for writeoff
+    char yearS[6];          // 4 digit year plus space for the sentinel and one for writeoff
     sprintf(monthS, "%d", PyDateTime_GET_MONTH(d));
     sprintf(dayS, "%d", PyDateTime_GET_DAY(d));
     sprintf(yearS, "%d", PyDateTime_GET_YEAR(d));
+    // printf("In finish_did_get_hit: months: %s\n", monthS);
 
     /* Create the searchD string */
     char *backslash = "/";
@@ -90,6 +90,7 @@ static PyObject *cfinish_did_get_hit(
         return PyErr_Format(PyExc_SystemError, 
                             "Malloc for searchP with len %lu failed", len );
     }
+    // printf("In cfinish_did_get_hit: searchP: %s\n", searchP);
     char *foundIt;
     int success = -1; // search_boxscore returns 0 on success and -1 on failure
 
@@ -129,8 +130,15 @@ static PyObject *cfinish_did_get_hit(
     fclose(fp);
     free(searchP);
 
-    //return player hit info
-    return (numHits > 0) ? Py_True : Py_False;
+    /* return player hit info. Calling function now owns a reference to
+       Py_True or Py_False */
+    if (numHits > 0) { 
+        Py_INCREF(Py_True);
+        return Py_True;
+    } else {
+        Py_INCREF(Py_False);
+        return Py_False;
+    }
 }
 
 /* Returns hitVal, otherInfo for player with lahmanID on given date */
@@ -141,7 +149,7 @@ static PyObject *cget_hit_info(PyObject *self, PyObject *args,
     PyDateTime_Date* d;
     char* lahmanID;
     char* keywords[] = {"date", "lahmanID", NULL}; 
-    if (!PyArg_ParseTupleAndKeywords(args, kwargs, "Os:finish_did_get_hit", 
+    if (!PyArg_ParseTupleAndKeywords(args, kwargs, "Os:cget_hit_info", 
                                      keywords, &d, &lahmanID)) {
         return NULL; // ParseTupleAndKeywords sets the exception for me
     }

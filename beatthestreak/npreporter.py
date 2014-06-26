@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 from pandas import ExcelWriter, Series, DataFrame, concat
-from pandas.io.excel import _OpenpyxlWriter, read_excel 
+from pandas.io.excel import read_excel 
 from openpyxl import load_workbook
 
 from filepath import Filepath
@@ -25,7 +25,7 @@ class NPReporter(object):
         self.npsim = npsim
         self.outputMethods = ('excel', 'stdout')
         self.test=test
-        self.selMethods = {1: 'N globalSeasonBatAveP minPA serial  deterministic static'}
+        self.selMethods = {1: 'N globalSeasonBatAveP minPA serial deterministic static'}
 
     def get_npsim(self):
         return self.npsim
@@ -148,7 +148,6 @@ class NPReporter(object):
         _report_results_excel)
         """
         assert type(bot) == Bot
-        assert type(writer) == _OpenpyxlWriter
 
         npsim = self.get_npsim()
 
@@ -186,8 +185,6 @@ class NPReporter(object):
         writer: ExcelWriter | ExcelWriter object containing buffer for eventual
            output .xlsx file
         """
-        assert type(writer) == _OpenpyxlWriter
-
         npsim = self.get_npsim()
 
         ## Some bookeeping
@@ -232,7 +229,6 @@ class NPReporter(object):
         writer: file-like object used to write to an excel file
         method: int | the index of player selection method used in the simulation
         """
-        assert type(writer) == _OpenpyxlWriter
         assert type(method) == int
 
         npsim = self.get_npsim()       

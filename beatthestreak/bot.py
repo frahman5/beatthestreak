@@ -5,6 +5,7 @@ from utilities import Utilities
 from player import Player
 from exception import BotUpdateException, MulliganException
 from researcher import Researcher
+from cresearcher import cget_hit_info
 
 class Bot(object):
     """
@@ -184,8 +185,10 @@ class Bot(object):
 
         # update assigned players and get their hit information
         self.players = (p1, p2)
-        hitVal1, otherInfo1 = Researcher.get_hit_info(date, p1, susGamesDict)
-        hitVal2, otherInfo2 = Researcher.get_hit_info(date, p2, susGamesDict)
+        # hitVal1, otherInfo1 = Researcher.get_hit_info(date, p1, susGamesDict)
+        # hitVal2, otherInfo2 = Researcher.get_hit_info(date, p2, susGamesDict)
+        hitVal1, otherInfo1 = cget_hit_info(date, p1.get_lahman_id())
+        hitVal2, otherInfo2 = cget_hit_info(date, p2.get_lahman_id())
         assert otherInfo1 in otherInfoVals
         assert otherInfo2 in otherInfoVals
 
@@ -248,7 +251,8 @@ class Bot(object):
 
         # update assigned player and get his hit information
         self.players = (p1, None)
-        hitVal, otherInfo = Researcher.get_hit_info(date, p1, susGamesDict)
+        # hitVal, otherInfo = Researcher.get_hit_info(date, p1, susGamesDict)
+        hitVal, otherInfo = cget_hit_info(date, p1.get_lahman_id())
         assert otherInfo in otherInfoVals
 
         ## Update streak length and max streak length

@@ -13,8 +13,8 @@ class TestFilepath(unittest.TestCase):
     """
 
     def setUp(self):
-        self.rootDir = '/Users/faiyamrahman/programming/Python/beatthestreak' + \
-        '/beatthestreak'
+        # self.rootDir = '/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak'
+        self.rootDir = '/home/vagrant/programming/Python/beatthestreak'
         setup()
         
     def tearDown(self):

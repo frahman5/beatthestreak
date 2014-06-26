@@ -3,8 +3,9 @@
 #include "Python.h" // comment out to compile with gcc
 #include "playerInfoCache.h"
 
-#define pInfoDir "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak\
-/datasets/playerInfo"
+// #define pInfoDir "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak\
+// /datasets/playerInfo"
+#define pInfoDir "/home/vagrant/programming/Python/beatthestreak/datasets/playerInfo"
 #define MAXLINE 40 // much more than we need for adding player Data
 
 int playerInfoCacheYear = -1; /* year for which we are maintaining a buffer */
@@ -69,6 +70,7 @@ int addPlayerDateData(char *lahmanID) {
     printf("filePath: %s\n", filePath);
     FILE *fp = fopen(filePath, "r");
     if (!fp) {
+        printf("file: %s\n", filePath);
         PyErr_SetString(PyExc_IOError, "could not open file\n"); // comment out to compile with gcc
         return -1;
     }

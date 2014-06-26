@@ -197,7 +197,7 @@ class Researcher(object):
                 hitVal, otherInfo = 'pass', specialCasesD['S']['I']
         else: # Normal game
             hitVal, otherInfo = self.c_did_get_hit(date, player), None
-        self.debugList.append((date, player))
+        # self.debugList.append((date, player))
         self.playerInfoBuffer[1].append((player, hitVal, otherInfo))
         return hitVal, otherInfo
 
@@ -419,10 +419,13 @@ class Researcher(object):
 
        Utilities.ensure_gamelog_files_exist(year)
  
+       # import pdb
+       # pdb.set_trace()
        # get last element in first column (the date column) of gamelog file
        df = pd.read_csv(Filepath.get_retrosheet_file(folder='unzipped', 
           fileF='gamelog', year=year), header=None)
-       date_string = str(df[0].ravel()[-1])
+       # date_string = str(df[0].ravel()[-1])
+       date_string = '20101003' #debugging on linux
 
        # format and return the date
        year = int(date_string[0:4])
