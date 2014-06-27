@@ -24,7 +24,7 @@ class NPReporter(object):
         """
         self.npsim = npsim
         self.outputMethods = ('excel', 'stdout')
-        self.test=test
+        self.test = test
         self.selMethods = {1: 'N globalSeasonBatAveP minPA serial deterministic static'}
 
     def get_npsim(self):

@@ -81,7 +81,7 @@ class NPSimulation(Simulation):
         self.botHistoryBuffer = [None, []]
         self.method = 1 # see NPReporter self.selMethods for what "1" means
 
-        self.didNotRepeatSetup = False
+        # self.didNotRepeatSetup = False
 
     # @profile
     def setup(self):
@@ -90,7 +90,7 @@ class NPSimulation(Simulation):
         susGamesDict
         """
         if self.isSetup: 
-            self.didNotRepeatSetup = True # for testing
+            # self.didNotRepeatSetup = True # for testing
             return
 
         Simulation.setup(self) # download and parse retrosheet data

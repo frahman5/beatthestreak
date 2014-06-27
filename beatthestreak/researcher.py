@@ -52,13 +52,13 @@ class Researcher(object):
     listOfGamesBuffer = (None, (), 0)
     boxscoreBuffer = [None, {}]
     playerInfoBuffer = [None, []]
-    playerUsedBuffer = False # for testing
-    type1SeekPosUsed = None # for testing boxscoreBuffer date searches
-    logSeekPosUsed = None # for testing listOfGames Buffer
-    logUsedBuffer = None # for testing
-    psUsedBuffer = False # for testing
     partSupersetBuffer = [None, set([])]
-    debugList = [] # for debugging
+    # playerUsedBuffer = False # for testing
+    # type1SeekPosUsed = None # for testing boxscoreBuffer date searches
+    # logSeekPosUsed = None # for testing listOfGames Buffer
+    # logUsedBuffer = None # for testing
+    # psUsedBuffer = False # for testing
+    # debugList = [] # for debugging
 
     # regular expression for matching retrosheet ids
     retroP = re.compile(r"""
@@ -185,7 +185,7 @@ class Researcher(object):
         if self.playerInfoBuffer[0] == date:
             for info in self.playerInfoBuffer[1]:
                 if player == info[0]: ## Buffer unused in tests
-                    self.playerUsedBuffer = True # for testing
+                    # self.playerUsedBuffer = True # for testing
                     return info[1], info[2]
         else:
             self.playerInfoBuffer = [date, []]
@@ -305,10 +305,10 @@ class Researcher(object):
 
         # If its on the buffer, go get it
         if self.partSupersetBuffer[0] == date:
-            self.psUsedBuffer = True # for testing
+            # self.psUsedBuffer = True # for testing
             return self.partSupersetBuffer[1]
         else:
-            self.psUsedBuffer = False # for testing
+            # self.psUsedBuffer = False # for testing
             self.partSupersetBuffer[0] = date
 
         # else construct it
@@ -318,10 +318,6 @@ class Researcher(object):
         listOfGames = self.__get_list_of_games(date)
 
         # get the retrosheet ids from the games and return the list 
-        # return (field for game in listOfGames for field in game 
-        #             if re.match(self.retroP, field))
-        # answer = set((field for game in listOfGames for field in game 
-        #             if len(field) == 8))
         answer = {field for game in listOfGames for field in game
                     if len(field) == 8}
         self.partSupersetBuffer[1] = answer
@@ -340,7 +336,7 @@ class Researcher(object):
         # If it's on the buffer, go get it
         if self.listOfGamesBuffer[0] == date:
             listOfGames = self.listOfGamesBuffer[1]
-            self.logUsedBuffer = True # for testing
+            # self.logUsedBuffer = True # for testing
             return listOfGames
 
         ## else construct it
@@ -354,7 +350,7 @@ class Researcher(object):
             startSeekPos = self.listOfGamesBuffer[2]
         else:
             startSeekPos = 0
-        self.logSeekPosUsed = startSeekPos # for testing
+        # self.logSeekPosUsed = startSeekPos # for testing
 
         f = open(Filepath.get_retrosheet_file(folder='unzipped', 
              fileF='gamelog', year=date.year))
@@ -687,7 +683,7 @@ class Researcher(object):
             else:
                self.boxscoreBuffer = [date.year, {}]
             fileF.seek(startSeekPos)
-            self.type1SeekPosUsed = startSeekPos # for testing
+            # self.type1SeekPosUsed = startSeekPos # for testing
         # Get the line
         line = " "
         while search not in line:
