@@ -100,7 +100,7 @@ class TestResearcher(unittest.TestCase):
         Lance = Player("Lance", "Berkman", 2008)
         self.assertTrue(R.did_get_hit(date(2009, 7, 9), Lance))
 
-    #@unittest.skip("Not Focus")
+    @unittest.skip("Buffers have been thoroughly tested")
     def test_boxscore_buffer(self):
         d1 = date(2012, 6, 17)
         d2 = date(2012, 6, 15)
@@ -191,7 +191,7 @@ class TestResearcher(unittest.TestCase):
         self.assertEqual(R.get_hit_info(d3, Ben, sGD2010), (True, 'Suspended-Valid.'))
         self.assertEqual(R.get_hit_info(d3, Marco, sGD2010), (False, 'Suspended-Valid.'))
 
-    #@unittest.skip("Not Focus")
+    @unittest.skip("We get our hit info from cresearcher now")
     def test_player_info_buffer(self):
         d1 = date(2012, 4, 15)
         d2 = date(2001, 7, 18)
@@ -270,6 +270,7 @@ class TestResearcher(unittest.TestCase):
         self.assertTrue(set(participants_2007_5_2).issubset(
           R._Researcher__get_participants_superset(date(2007, 5, 2)))) # May 1st CHN #@ PIT suspended game completed on May 2
 
+    @unittest.skip("Buffer thoroughly tested")
     def test_get_participants_superset_buffer(self):
         # Check 1: if its not on the buffer, you get the right thing
         R.partSupersetBuffer = [None, set({})]
@@ -296,7 +297,7 @@ class TestResearcher(unittest.TestCase):
         self.assertEqual(R.find_home_team(date(2012, 6, 15), p2), "TBA")
         self.assertEqual(R.find_home_team(date(2012, 9, 21), p2), "NYN")
 
-    # #@unittest.skip("Not Focus")
+    @unittest.skip("Buffer thoroughly tested")
     def test_list_of_games_buffer(self):
         # Note: We only check the length of listOfGame, because checking 
         # exact output would be unseemly and frankly, unecessary

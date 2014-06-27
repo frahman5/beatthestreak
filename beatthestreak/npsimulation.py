@@ -75,7 +75,7 @@ class NPSimulation(Simulation):
         self.players = [] # set upon setup
         self.bots = [] # set upon setup
         self.isSetup = False # # set upon setup
-        self.susGamesDict = {} # set upon setup
+        # self.susGamesDict = {} # set upon setup
 
         self.doubleDown = doubleDown
         self.botHistoryBuffer = [None, []]
@@ -98,7 +98,7 @@ class NPSimulation(Simulation):
         self.players = self.__calc__players(self.batAveYear, self.minPA) # create top P players
         self.__initalize_player_hit_info_csvs() # initalize their hit info csv's
         self.minBatAve = self.__set_min_bat_ave() # store resultant min bat ave
-        self.susGamesDict = Researcher.get_sus_games_dict(self.get_sim_year())
+        # self.susGamesDict = Researcher.get_sus_games_dict(self.get_sim_year())
         for bot in self.bots:
             bot.claim_mulligan() # claim your mulligan baby
         self.isSetup = True
@@ -265,7 +265,6 @@ class NPSimulation(Simulation):
         sim_next_day = self.sim_next_day
         doubleDown = self.doubleDown
         while True:
-            # print "************** DAY: {0} **************".format(elapsedDays)
             if (numDays=='max') and (self.currentDate >= lastDate): # pragma: no cover
                 Reporter.report_results(test=test, method=self.method)
                 break
@@ -276,9 +275,6 @@ class NPSimulation(Simulation):
             elapsedDays += 1
             if prbar:
                 update_pbar(elapsedDays)
-            # if self.currentDate == date(2010, 4, 10):
-            # # if elapsedDays == 100: # debugging
-            #     break
         if prbar:
             pbar.finish()
         # debugging code
@@ -316,14 +312,17 @@ class NPSimulation(Simulation):
         return startDate, lastDate
 
     def mass_simulate(self, simYearRange, simMinBatRange, NRange, PRange, 
-            test=False):
+            minPARange, test=False):
         """
-        tupleOfInts tupleOfInts tupleOfInts tupleOfInts bool -> None
+        tupleOfInts tupleOfInts tupleOfInts tupleOfInts tupleOfInts bool -> None
         simYearRange: the years (inclusive) over which to run simulation
         simMinBatRange: the number of years (inclusive) over which to vary 
             simYear - batAveYear
         NRange: the integers (inclusive) over which to vary the number of bots
         PRange: the integers (inclusive) over which to vary top player calculations
+        minPARange: the inters (inclusive) over which to vary the minimum number
+           of plate appearances that a player must have had to qualify for the competition. 
+           We only iterate over every 5th PA.
         Test: bool | Indicates whether or not mass_simulate is being run 
            under a test framework. For debugging purposes
 
@@ -344,8 +343,7 @@ class NPSimulation(Simulation):
             7) (2010, 2009, 2, 1)
             8) (2010, 2010, 2, 2)
         """
-        # numSims = 0
-        for param in (simYearRange, simMinBatRange, NRange, PRange):
+        for param in (simYearRange, simMinBatRange, NRange, PRange, minPARange):
             assert len(param) == 2
             for item in param:
                 assert type(item) == int
@@ -360,15 +358,19 @@ class NPSimulation(Simulation):
         startDateL, endDateL = [], []
 
         # initialize a progressbar for the simulation
+        minPARange = self.__get_min_pa_range(minPARange[0], minPARange[1])
         maxval = len(range(simYearRange[0], simYearRange[1] + 1)) * \
                  len(range(simMinBatRange[0], simMinBatRange[1] + 1)) * \
                  len(range(NRange[0], NRange[1] + 1)) * \
-                 len(range(PRange[0], PRange[1] + 1)) * 2
+                 len(range(PRange[0], PRange[1] + 1)) * \
+                 len(minPARange) * 2
+        print maxval
         widgets = ['\nMassSim: simYear:({0}, {1}), '.format(
             simYearRange[0], simYearRange[1]) + 'simMinBatRange({0}, {1}),'.format(
                 simMinBatRange[0], simMinBatRange[1]) + ' N:({0}, {1}),'.format(
                 NRange[0], NRange[1]) + ' P:({0}, {1}) '.format(
-                PRange[0], PRange[1]), Timer(), ' ', Percentage()]
+                PRange[0], PRange[1]) + 'minPA:({0}, {1}) '.format(
+                minPARange[0], minPARange[1]), Timer(), ' ', Percentage()]
         pbar = ProgressBar(maxval=maxval, widgets=widgets).start()
 
         Reporter = NPReporter(self, test=test)
@@ -378,60 +380,58 @@ class NPSimulation(Simulation):
             for batAveYear in self.__bat_years_ms(simYear, simMinBatRange):
                 for N in xrange(NRange[0], NRange[1]+1):
                     for P in xrange(PRange[0], PRange[1]+1):
-                        for doubleDown in (True, False):
-                            # numSims += 1
-                            # set sim parameters and simulate
-                            self.set_sim_year(simYear)
-                            self.set_bat_year(batAveYear)
-                            self.set_n(N)
-                            self.set_p(P)
-                            self.doubleDown = doubleDown
-                            # print '\n    CurSim: {} {}'.format(self.simYear, 
-                            #     self.batAveYear) + ' {} {} '.format(self.numBots, 
-                            #     self.numPlayers) + ' dDown: {}'.format(self.doubleDown)
-                            startDate, endDate = self.simulate(anotherSim=True, prbar=False)
+                        for minPA in self.__get_min_pa_range(minPARange[0], minPARange[1]):
+                            for doubleDown in (True, False):
+                                # set sim parameters and simulate
+                                self.set_sim_year(simYear)
+                                self.set_bat_year(batAveYear)
+                                self.set_n(N)
+                                self.set_p(P)
+                                self.doubleDown = doubleDown
+                                self.minPA = minPA
+                                startDate, endDate = self.simulate(anotherSim=True, prbar=False)
 
-                            # get 5 top streaks
-                            self.get_bots().sort(key=lambda bot: bot.get_max_streak_length(), 
-                                reverse=True)
-                            fiveTopStreaks = [bot.get_max_streak_length() for bot 
-                                in self.get_bots()][0:5]
-                            fiveTopStreakNums = [elem for elem in fiveTopStreaks] # for calcuating average
-                            while len(fiveTopStreaks) < 5:
-                                fiveTopStreaks.append('N/A')
-                                    
-                            # record sim metadata and results for later reporting
-                            simYearL.append(self.get_sim_year())
-                            batAveYearL.append(self.get_bat_year())
-                            NL.append(self.get_n())
-                            PL.append(self.get_p())
-                            minBatAveL.append(self.get_min_bat_ave())
-                            numS, percS, numF, percF = Reporter.calc_s_and_f()
-                            numSuccessL.append(numS)
-                            percentSuccessL.append(percS)
-                            numFailL.append(numF)
-                            percentFailL.append(percF)
-                            minPAL.append(self.minPA)
-                            methodL.append(self.method)
-                            oneS, twoS, threeS, fourS, fiveS = fiveTopStreaks
-                            oneStreakL.append(oneS)
-                            twoStreakL.append(twoS)
-                            threeStreakL.append(threeS)
-                            fourStreakL.append(fourS)
-                            fiveStreakL.append(fiveS)
-                            topStreakAveL.append(float(sum(fiveTopStreakNums))/len(fiveTopStreakNums))
-                            # oneStreakL.append(fiveTopStreaks[0])
-                            # twoStreakL.append(fiveTopStreaks[1])
-                            # threeStreakL.append(fiveTopStreaks[2])
-                            # fourStreakL.append(fiveTopStreaks[3])
-                            # fiveStreakL.append(fiveTopStreaks[4])
-                            doubleDownL.append(self.doubleDown)
-                            startDateL.append(startDate)
-                            endDateL.append(endDate)
+                                # get 5 top streaks
+                                self.get_bots().sort(key=lambda bot: bot.get_max_streak_length(), 
+                                    reverse=True)
+                                fiveTopStreaks = [bot.get_max_streak_length() for bot 
+                                    in self.get_bots()][0:5]
+                                fiveTopStreakNums = [elem for elem in fiveTopStreaks] # for calcuating average
+                                while len(fiveTopStreaks) < 5:
+                                    fiveTopStreaks.append('N/A')
+                                        
+                                # record sim metadata and results for later reporting
+                                simYearL.append(self.get_sim_year())
+                                batAveYearL.append(self.get_bat_year())
+                                NL.append(self.get_n())
+                                PL.append(self.get_p())
+                                minBatAveL.append(self.get_min_bat_ave())
+                                numS, percS, numF, percF = Reporter.calc_s_and_f()
+                                numSuccessL.append(numS)
+                                percentSuccessL.append(percS)
+                                numFailL.append(numF)
+                                percentFailL.append(percF)
+                                minPAL.append(self.minPA)
+                                methodL.append(self.method)
+                                oneS, twoS, threeS, fourS, fiveS = fiveTopStreaks
+                                oneStreakL.append(oneS)
+                                twoStreakL.append(twoS)
+                                threeStreakL.append(threeS)
+                                fourStreakL.append(fourS)
+                                fiveStreakL.append(fiveS)
+                                topStreakAveL.append(float(sum(fiveTopStreakNums))/len(fiveTopStreakNums))
+                                # oneStreakL.append(fiveTopStreaks[0])
+                                # twoStreakL.append(fiveTopStreaks[1])
+                                # threeStreakL.append(fiveTopStreaks[2])
+                                # fourStreakL.append(fiveTopStreaks[3])
+                                # fiveStreakL.append(fiveTopStreaks[4])
+                                doubleDownL.append(self.doubleDown)
+                                startDateL.append(startDate)
+                                endDateL.append(endDate)
 
-                            # update progress bar
-                            i += 1
-                            pbar.update(i)
+                                # update progress bar
+                                i += 1
+                                pbar.update(i)
         pbar.finish() # kill the progress bar after the simulation ends
 
         # report aggregate results
@@ -626,6 +626,18 @@ class NPSimulation(Simulation):
         {p1, p2, .., pP}, pi_bat_ave >= f.
         """ 
         return self.players[-1].get_bat_ave()
+
+    def __get_min_pa_range(self, minPALow, minPAHigh):
+        """
+        int int -> tuple
+
+        Returns a tuple that contains:
+           minPALow, MinPALow + 5, minPALow + 10, ..., miNPAHigh)
+        """
+        preAnswer = [x for x in range(minPALow, minPAHigh, 5)]
+        if preAnswer[-1] != minPAHigh:
+            preAnswer.append(minPAHigh)
+        return tuple(preAnswer)
 
 def main(*args): # pragma: no cover
     """

@@ -54,9 +54,6 @@ class Bot(object):
             p1 : Player | player to assign to bot in case of single or double Down
             p2 : Player | OPTIONAL : 2nd player to assign, in case of double Down
             date : datetime.date | date of assignment of players
-            susGamesDict : dict | dictionary of suspended games as defined in 
-                Researcher.
-            bot: Bot | OPTIONAL. A bot from which to copy the last history item. 
 
         Updates history in one of two ways:
             1) Given p1, p2, date: updates history as a double down
@@ -190,6 +187,7 @@ class Bot(object):
                             self.get_streak_length(), otherInfo)
         self.history.append(hist)
 
+    # @profile
     def __concat_other_infos(self, otherInfo1, otherInfo2, mulligan=False):
         """
         None|String None|String bool -> string|None
@@ -200,9 +198,10 @@ class Bot(object):
         Produces a otherInfo string or None to be used in the outcome of a 
         update_history function call
         """
-        assert (not otherInfo1) or (type(otherInfo1) == str)
-        assert (not otherInfo2) or (type(otherInfo2) == str)
-        assert type(mulligan) == bool
+        ## commented out bceause it was a speed clog
+        # assert (not otherInfo1) or (type(otherInfo1) == str)
+        # assert (not otherInfo2) or (type(otherInfo2) == str)
+        # assert type(mulligan) == bool
 
         # Concatenate otherInfos
         if (not otherInfo1) and (not otherInfo2): # both None

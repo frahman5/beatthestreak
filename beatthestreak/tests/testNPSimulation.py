@@ -292,3 +292,21 @@ class TestNPSimulation(unittest.TestCase):
         sim = NPSimulation(2012, 2012, 50, 50)
         for index, year in enumerate(sim._NPSimulation__bat_years_ms(2012, (0, 3))):
             self.assertTrue(year == (2009, 2010, 2011, 2012)[index])
+    def test__get_min_pa_range(self):
+        # private function
+        sim = NPSimulation(2012, 2012, 50, 50)
+
+        ## Case 1: Upper bound is < lower bound + 5
+        g = sim._NPSimulation__get_min_pa_range(5, 9)
+        self.assertEqual( set(sim._NPSimulation__get_min_pa_range(5,9)), 
+                          set([5,9]))
+
+        ## Case 2: Upper bound is > lower bound, not exactly a multiple of 5 away
+        g = sim._NPSimulation__get_min_pa_range(100, 111)
+        self.assertEqual( set(sim._NPSimulation__get_min_pa_range(100, 111)), 
+                          set([100, 105, 110, 111]))
+
+        ## case 3: Upper bound is > lower bound, exactly a multiple of 5 away
+        g = sim._NPSimulation__get_min_pa_range(104, 129)
+        self.assertEqual( set(sim._NPSimulation__get_min_pa_range(104, 129)), 
+                          set([104, 109, 114, 119, 124, 129]))

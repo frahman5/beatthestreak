@@ -29,7 +29,6 @@ class testNPReporter(unittest.TestCase):
         manny = Player("Manny", "Ramirez", 2010)
         Researcher.create_player_hit_info_csv(manny, 2009)
         sim.get_bots()[4].update_history(
-            p1=manny, date=date(2009, 9, 9), 
-            susGamesDict=sGD2012)
+            p1=manny, date=date(2009, 9, 9))
         # should now be 2 "unique" bots
         self.assertEqual(reporter._NPReporter__calc_num_unique_bots(), 2)
