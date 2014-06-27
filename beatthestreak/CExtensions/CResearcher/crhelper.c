@@ -40,6 +40,7 @@ int get_third_num_in_string(char *bsline) {
         }
 
     // If we failed, return a -1
+    PyErr_SetString(PyExc_ValueError, "Could not find three numbers in string\n");
     return -1;
 }
 int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
@@ -48,70 +49,70 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
     it was not found 
 
     Returns 0 if successful and -1 otherwise */
-    // long startSeekPos = -1L;                // -1 indicates it wasnt used
-    // int monthInt;
-    // int dayInt;
-    // int yearInt;
+    long startSeekPos = -1L;                // -1 indicates it wasnt used
+    int monthInt;
+    int dayInt;
+    int yearInt;
 
     // indicates its a date search
-    // if (isdigit(search[0])) { 
+    if (isdigit(search[0])) { 
 
-    //     // get the month, day and year out of of the search string
-    //     char monthS[3];
-    //     char dayS[3];
-    //     char yearS[5];
+        // get the month, day and year out of of the search string
+        char monthS[3];
+        char dayS[3];
+        char yearS[5];
 
-    //     int i = 0;
-    //     int j = 0;
-    //     while (isdigit(search[i])) {
-    //         monthS[j++] = search[i++];
-    //     }
-    //     monthS[j] = '\0'; /* sentinel */
-    //     i++;  // move past the backslash 
+        int i = 0;
+        int j = 0;
+        while (isdigit(search[i])) {
+            monthS[j++] = search[i++];
+        }
+        monthS[j] = '\0'; /* sentinel */
+        i++;  // move past the backslash 
 
-    //     j = 0;
-    //     while (isdigit(search[i])) {
-    //         dayS[j++] = search[i++];
-    //     }
-    //     dayS[j] = '\0'; /* sentinel */
-    //     i++; // move past the backslash
+        j = 0;
+        while (isdigit(search[i])) {
+            dayS[j++] = search[i++];
+        }
+        dayS[j] = '\0'; /* sentinel */
+        i++; // move past the backslash
 
-    //     j = 0;
-    //     while (isdigit(search[i])) {
-    //         yearS[j++] = search[i++];
-    //     }
-    //     yearS[j] = '\0'; /* sentinel */
+        j = 0;
+        while (isdigit(search[i])) {
+            yearS[j++] = search[i++];
+        }
+        yearS[j] = '\0'; /* sentinel */
 
-        // monthInt = atoi(monthS);
-        // dayInt = atoi(dayS);
-        // yearInt = atoi(yearS);
+        monthInt = atoi(monthS);
+        dayInt = atoi(dayS);
+        yearInt = atoi(yearS);
 
-    //     startSeekPos = 0;
-    //     // Go to last viewed place on team's boxscore 
-    //     // if bufferYear in search -- MAJOR IF
-    //     if (yearInt == bufferYear){ 
-    //         struct boxData *bD = findBoxscore(boxscore);
-    //         // is the boxscore in the buffer?
-    //         if (bD) {
-    //             // is the current lookUp date after the last looked up date?
-    //             if ( (monthInt > bD->month) ||
-    //                 ((monthInt == bD->month) & (dayInt > bD->day)) ) { 
-    //                 startSeekPos = bD->lastViewedByte;
-    //             }
-    //         }
-    //     // MAJOR ELSE: reset the buffer
-    //     } else {
-    //         bufferYear = yearInt; // reset the year
-    //         if (boxHashTable) {
-    //             deleteTable(); // delete the hastable
-    //         }
+        startSeekPos = 0;
+        // Go to last viewed place on team's boxscore 
+        // if bufferYear in search -- MAJOR IF
+        if (yearInt == bufferYear){ 
+            struct boxData *bD = findBoxscore(boxscore);
+            // is the boxscore in the buffer?
+            if (bD) {
+                // is the current lookUp date after the last looked up date?
+                if ( (monthInt > bD->month) ||
+                    ((monthInt == bD->month) & (dayInt > bD->day)) ) { 
+                    startSeekPos = bD->lastViewedByte;
+                }
+            }
+        // MAJOR ELSE: reset the buffer
+        } else {
+            bufferYear = yearInt; // reset the year
+            if (boxHashTable) {
+                deleteTable(); // delete the hastable
+            }
             
-    //     }
-    //     // seek to the most recently viewed byte or 0
-    //     fseek(fp, startSeekPos, SEEK_SET);
-    // }
-    // // for testing
-    // seekPosUsed = startSeekPos;
+        }
+        // seek to the most recently viewed byte or 0
+        fseek(fp, startSeekPos, SEEK_SET);
+    }
+    // for testing
+    seekPosUsed = startSeekPos;
 
     char line[MAXLINE]; 
     char lineCheck[MAXLINE];
@@ -121,18 +122,21 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
         strcpy(lineCheck, line);
         fgets(line, MAXLINE, fp);
         if (strcmp(line, lineCheck) == 0) { 
-            return -1; // we reached the end the of the file
+            PyErr_SetString(PyExc_EOFError, 
+                "Reached end of boxscore without finding search string\n");
+            return -1;
         }
     }
     *foundIt = strstr(line, search);
 
-    // // update the buffer, but only on date searches
-    // if (isdigit(search[0])) {  
-    //     int success = addReplaceBoxscore(boxscore, ftell(fp), monthInt, dayInt); 
-    //     if (success == -1) {
-    //         return -1;
-    //     }
-    // }
+    // update the buffer, but only on date searches
+    if (isdigit(search[0])) {  
+        int success = addReplaceBoxscore(boxscore, ftell(fp), monthInt, dayInt); 
+        if (success == -1) {
+            // error set in addReplaceBoxscore
+            return -1;
+        }
+    }
     
     return 0;
 }

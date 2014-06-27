@@ -96,11 +96,10 @@ static PyObject *cfinish_did_get_hit(
 
     /* Search for the line with searchD */
     success = _search_boxscore(fp, &foundIt, searchD, boxscore);
-    if (success == -1) { // reached end of file
+    if (success == -1) {
         fclose(fp);
         free(searchP);
-        return PyErr_Format(PyExc_EOFError, 
-                "Reached end of boxcore on date search: %s\n", searchD);
+        return NULL;
     }
 
     /* Search for line with searchP */
@@ -108,9 +107,7 @@ static PyObject *cfinish_did_get_hit(
     if (success == -1) { // reached end of file
         fclose(fp);
         free(searchP);
-        return PyErr_Format(PyExc_EOFError, 
-                            "Reached end of boxscore on player search: %s\n", 
-                            searchP);
+        return NULL;
     }
     
     
@@ -121,9 +118,7 @@ static PyObject *cfinish_did_get_hit(
     if (numHits == -1) {        // make sure we didn't have an error
         fclose(fp);
         free(searchP);
-        return PyErr_Format(PyExc_IndexError, 
-                            "Could not find three numbers in boxscore %s on date %s and\
- player %s", boxscore, searchD, searchP);    
+        return NULL;  
     }
 
     // close the file, free the memory
@@ -188,9 +183,11 @@ static PyObject *cget_hit_info(PyObject *self, PyObject *args,
         if (addPlayerDateData(lahmanID) == -1) {
             return NULL;
         } 
-        printf("we got the player's info\n");
+        // printf("we got the player's info\n");
         pDD = findPlayerDateData(lahmanID, date);
-        if (!pDD) {}
+        if (!pDD) {
+            return NULL;
+        }
     }
 
     // else

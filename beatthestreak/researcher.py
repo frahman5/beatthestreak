@@ -424,8 +424,8 @@ class Researcher(object):
        # get last element in first column (the date column) of gamelog file
        df = pd.read_csv(Filepath.get_retrosheet_file(folder='unzipped', 
           fileF='gamelog', year=year), header=None)
-       # date_string = str(df[0].ravel()[-1])
-       date_string = '20101003' #debugging on linux
+       date_string = str(df[0].ravel()[-1])
+       # date_string = '20101003' #debugging on linux
 
        # format and return the date
        year = int(date_string[0:4])

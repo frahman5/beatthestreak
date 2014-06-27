@@ -24,6 +24,8 @@ class TestBot(unittest.TestCase):
         manny = Player("Manny", "Ramirez", 2010)
         alfonso = Player("Alfonso", "Soriano", 2010)
         sGD2010 = Researcher.get_sus_games_dict(2010)
+        Researcher.create_player_hit_info_csv(manny, 2010)
+        Researcher.create_player_hit_info_csv(alfonso, 2010)
 
         # empty bots are equal
         self.assertEqual(self.bot1, self.bot2) 
@@ -88,6 +90,12 @@ class TestBot(unittest.TestCase):
         pN2 = Player("Steve", "Cox", 2001)
              ## players that played in suspended, invalid games on d1
         pP1 = Player("Endy", "Chavez", 2001) 
+
+        # Get player hit info csv's
+        Researcher.create_player_hit_info_csv(pH1, 2004)
+        for player in (pN1, pN2, pP1):
+            Researcher.create_player_hit_info_csv(player, 2001)
+
 
         sGD2001 = Researcher.get_sus_games_dict(2001)
         sGD2004 = Researcher.get_sus_games_dict(2004)
@@ -252,6 +260,7 @@ class TestBot(unittest.TestCase):
     def test_update_history_single_down_no_mulligan(self):
 
         # test that passing True for hitVal increases streak length by 1
+        Researcher.create_player_hit_info_csv(p2, 2003)
         d1 = date(2003, 7, 1) # Jose Reyes (p2) got a hit on this date
         susGamesDict2003 = Researcher.get_sus_games_dict(2003)
         self.assertEqual(self.bot1.get_streak_length(), 0) 
@@ -266,6 +275,7 @@ class TestBot(unittest.TestCase):
         # and other gets updated correctly
         d2 = date(2001, 6, 15)
         Endy = Player("Endy", "Chavez", 2001) # played in suspended, invalid game on d2
+        Researcher.create_player_hit_info_csv(Endy, 2001)
         susGamesDict2001 = Researcher.get_sus_games_dict(2001)
         suspInvalidOtherS = 'Suspended-Invalid.'
         self.assertEqual(self.bot1.get_streak_length(), 1)
@@ -278,6 +288,7 @@ class TestBot(unittest.TestCase):
 
 
         # test that passing False for hitval resets streak length
+        Researcher.create_player_hit_info_csv(p4, 2003)
         d3 = date(2003, 4, 13) # Jorge Posada (p4) didn't get a hit on this date
         self.assertEqual(self.bot1.get_streak_length(), 1)
         self.bot1.update_history(p1=p4,  date=d3, susGamesDict=susGamesDict2003) #p4 got a False
@@ -292,6 +303,9 @@ class TestBot(unittest.TestCase):
         pT = Player("Tom", "Goodwin", 2001) # got a hit on testDate
         pF = Player("Troy", "Glaus", 2001) # did not get a hit on testDate
         pP = Player("Endy", "Chavez", 2001) # hot a pass on testDate
+        Researcher.create_player_hit_info_csv(pT, 2001)
+        Researcher.create_player_hit_info_csv(pF, 2001)
+        Researcher.create_player_hit_info_csv(pP, 2001)
         susGamesDict2001 = Researcher.get_sus_games_dict(2001)
         susGamesDict2011 = Researcher.get_sus_games_dict(2011)
         mulliganRange = [10, 11, 12, 13, 14, 15]
@@ -388,6 +402,7 @@ class TestBot(unittest.TestCase):
         ## A mulligan eligble bot with a player who did not get a hit in a
         ## suspended, valid game creates the correct "otherInfo"
         Rafael = Player("Rafael", "Furcal", 2010) # no hit in suspended, valid game
+        Researcher.create_player_hit_info_csv(Rafael, 2011)
         bot = Bot(0)
         bot.claim_mulligan()
         bot.incr_streak_length(amount=13)
@@ -409,6 +424,10 @@ class TestBot(unittest.TestCase):
         # two players that got passes on d1
         pP1 = Player("Endy", "Chavez", 2001) # played in suspended, invalid game on d1
         pP2 = Player("Mark", "Loretta", 2001) #played in suspended, invalid game on d1
+
+        ## Create player hit info csv's
+        for player in (pH1, pH2, pF1, pF2, pP1, pP2):
+            Researcher.create_player_hit_info_csv(player, 2001)
 
         ## Case 1: p1 Hit, p2 No Hit : Streak ups 2 (maxStreak may change)
         bot = Bot(10)

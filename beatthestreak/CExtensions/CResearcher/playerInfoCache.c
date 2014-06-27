@@ -3,9 +3,9 @@
 #include "Python.h" // comment out to compile with gcc
 #include "playerInfoCache.h"
 
-// #define pInfoDir "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak\
-// /datasets/playerInfo"
-#define pInfoDir "/home/vagrant/programming/Python/beatthestreak/datasets/playerInfo"
+#define pInfoDir "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak\
+/datasets/playerInfo"
+// #define pInfoDir "/home/vagrant/programming/Python/beatthestreak/datasets/playerInfo"
 #define MAXLINE 40 // much more than we need for adding player Data
 
 int playerInfoCacheYear = -1; /* year for which we are maintaining a buffer */
@@ -67,52 +67,50 @@ int addPlayerDateData(char *lahmanID) {
     sprintf(filePathSuffix, "/%d/%s.txt", playerInfoCacheYear, lahmanID);
     strcpy(filePath, pInfoDir);
     strcat(filePath, filePathSuffix);
-    printf("filePath: %s\n", filePath);
+    // printf("filePath: %s\n", filePath);
     FILE *fp = fopen(filePath, "r");
     if (!fp) {
-        printf("file: %s\n", filePath);
+        // printf("file: %s\n", filePath);
         PyErr_SetString(PyExc_IOError, "could not open file\n"); // comment out to compile with gcc
         return -1;
     }
 
-    printf("We opened the file\n");
     /** Iterate through file, add a seperate bucket for each row in the file */
     /* we ignore the top line, which is column header*/
     fgets(line, MAXLINE, fp); 
        // fgets returns NULL upon EOF
-    // int i = 0;
     while (fgets(line, MAXLINE, fp)) {
-        // if (i++ == 5) {
-        //     return 0;
-        // }
         date = strtok(line, ",");
         hitVal = strtok(NULL, ",");
         otherInfo = strtok(NULL, ",\n");
-        // printf("%sEND\n", date);
-        // printf("%sEND\n", hitVal);
-        // printf("%sEND\n", otherInfo);
+
         // 3: 1 for the sentinel, 1 for a dash, 1 for breathing room
-        printf("We extract the values from file\n");
+        // printf("We extract the values from file\n");
         char *hashKey = (char *) malloc(strlen(lahmanID) + strlen(date) + 3);
         if (!hashKey) {
             fclose(fp);
+            PyErr_SetString(PyExc_SyntaxError, "Failed to allocate hashKey on the heap\n");
             return -1;
         } else {
             strcpy(hashKey, lahmanID);
             strcat(hashKey, "-");
             strcat(hashKey, date);
         }
-        printf("We create the hashKey\n");
+        // printf("We create the hashKey\n");
         HASH_FIND_STR(playerInfoCache, hashKey, pDD);
         if (pDD) {
             fclose(fp);
             free(hashKey);
+            PyErr_SetString(PyExc_ValueError, "Tried to add Player's hit info\
+to the player info hash table >= 1 times.\n");
             return -1; // we should never encounter this!
         } else {
             pDD = (struct playerDateData *) malloc(sizeof(struct playerDateData));
             if (!pDD) {
                 fclose(fp);
                 free(hashKey);
+                PyErr_SetString(PyExc_SystemError, 
+                    "Failed to allocate playerDateData on the heap\n");
                 return -1;
             }
             pDD->lIdDashDate = hashKey;

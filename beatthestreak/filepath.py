@@ -23,8 +23,8 @@ class Filepath(object):
     def get_root(self):
         # had to hard code this because using inspect.stack()[0][1] and 
         # importing beatthestreak caused all sorts of errors. 
-        # return '/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak'
-        return '/home/vagrant/programming/Python/beatthestreak'
+        return '/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak'
+        # return '/home/vagrant/programming/Python/beatthestreak'
 
     @classmethod
     def get_datasets(self):
