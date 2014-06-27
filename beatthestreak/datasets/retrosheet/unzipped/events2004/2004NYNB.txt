@@ -1,0 +1,3792 @@
+     Game of 4/12/2004 -- Atlanta at New York (D)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Wise D, lf            5  1  1  0   Matsui K, ss          4  1  2  2   
+DeRosa M, 3b          2  0  0  0   Gutierrez R, 2b       4  0  0  1   
+Cruz J, p             0  0  0  0   Spencer S, rf         4  1  2  1   
+Nitkowski C, p        0  0  0  0   Zeile T, 1b           5  2  3  0   
+Gryboski K, p         0  0  0  0   Cameron M, cf         5  1  2  2   
+LaRoche A, ph-1b      2  0  1  0   Phillips J, c         5  1  2  1   
+Giles M, 2b           4  0  1  0   Wigginton T, 3b       4  2  1  0   
+Drew J, rf            3  2  1  1   McEwing J, lf         2  1  0  1   
+Perez E, ph           1  0  1  1   Moreno O, p           0  0  0  0   
+Jones A, cf           5  1  2  0   Roberts G, p          0  0  0  0   
+Franco J, 1b          3  1  0  1   Wheeler D, p          0  0  0  0   
+Reitsma C, p          0  0  0  0   Looper B, p           0  0  0  0   
+Estrada J, c          4  1  1  3   Trachsel S, p         3  1  1  2   
+Garcia J, ss          4  0  1  0   Duncan J, ph-lf       1  0  0  0   
+Hampton M, p          1  0  1  0                                      
+Alfonseca A, p        0  0  0  0                                      
+Hessman M, ph-3b      3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6 10  6                        37 10 13 10
+
+Atlanta          000 001 041 --  6
+New York         124 210 00x -- 10
+
+  Atlanta              IP  H  R ER BB SO
+Hampton M (L)         2.2  9  7  7  2  2
+Alfonseca A           1.1  3  2  2  1  1
+Cruz J                1.0  1  1  0  1  0
+Nitkowski C           1.0  0  0  0  0  1
+Gryboski K            1.0  0  0  0  2  0
+Reitsma C             1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        6.0  4  1  1  2  3
+Moreno O              1.0  0  0  0  0  1
+Roberts G             1.0  3  4  4  1  1
+Wheeler D             0.1  3  1  1  0  1
+Looper B (S)          0.2  0  0  0  0  0
+
+E -- Hessman M, Wheeler D
+DP -- Atlanta 1, New York 1
+LOB -- Atlanta 8, New York 9
+2B -- Trachsel S, Matsui K, Cameron M, Spencer S
+HR -- Drew J, Estrada J
+SB -- Giles M
+HBP -- by Trachsel S (DeRosa M)
+WP -- Hampton M, Trachsel S
+T -- 3:08
+A -- 53666
+     Game of 4/14/2004 -- Atlanta at New York (N)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Wise D, lf            5  2  2  0   Matsui K, ss          3  0  1  1   
+DeRosa M, 3b          4  1  2  1   Valent E, rf          4  0  0  0   
+Giles M, 2b           3  1  1  0   Spencer S, lf         4  0  1  0   
+LaRoche A, 1b         4  1  1  1   Piazza M, 1b          4  0  1  0   
+Jones A, cf           4  1  1  2   Cameron M, cf         4  0  0  0   
+Estrada J, c          3  0  0  0   Phillips J, c         4  0  1  0   
+Marrero E, rf         3  0  0  1   Wigginton T, 3b       4  1  2  0   
+Garcia J, ss          4  0  2  1   Gutierrez R, 2b       4  0  2  0   
+Thomson J, p          3  0  0  0   Yates T, p            1  0  0  0   
+Reitsma C, p          0  0  0  0   Seo J, p              0  0  0  0   
+                                   Duncan J, ph          1  0  0  0   
+                                   Wheeler D, p          0  0  0  0   
+                                   Zeile T, ph           1  0  0  0   
+                                   Franco J, p           0  0  0  0   
+                                   Roberts G, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  6  9  6                        34  1  8  1
+
+Atlanta          105 000 000 --  6
+New York         000 010 000 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Thomson J (W)         8.0  7  1  1  0  7
+Reitsma C             1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Yates T (L)           2.1  6  6  5  2  2
+Seo J                 2.2  1  0  0  0  1
+Wheeler D             2.0  1  0  0  0  2
+Franco J              1.0  1  0  0  0  1
+Roberts G             1.0  0  0  0  2  0
+
+E -- Piazza M
+DP -- New York 1
+LOB -- Atlanta 8, New York 7
+2B -- Jones A, Wigginton T, Phillips J
+3B -- Wise D
+SH -- Thomson J
+SF -- Jones A, Marrero E, Matsui K
+HBP -- by Yates T (Estrada J)
+WP -- Franco J
+PB -- Estrada J
+T -- 2:39
+A -- 15894
+     Game of 4/15/2004 -- Atlanta at New York (N)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+DeRosa M, 3b          3  0  1  0   Matsui K, ss          2  2  1  0   
+Giles M, 2b           3  0  1  0   Gutierrez R, 2b       4  0  1  0   
+Jones C, lf           4  0  0  0   Spencer S, rf-lf      3  0  1  2   
+Jones A, cf           3  0  0  0   Piazza M, c           4  0  2  0   
+Franco J, 1b          3  0  0  0   Wilson V, pr-c        0  1  0  0   
+Marrero E, rf         3  0  1  0   Phillips J, 1b        3  1  0  0   
+Perez E, c            3  0  1  0   Wigginton T, 3b       4  0  0  0   
+Garcia J, ss          3  0  0  0   McEwing J, lf         3  0  1  0   
+Ramirez H, p          2  0  0  0   Garcia K, ph-rf       1  0  1  1   
+Wise D, ph            1  0  0  0   Duncan J, cf          4  0  1  1   
+Alfonseca A, p        0  0  0  0   Leiter A, p           1  0  1  0   
+Nitkowski C, p        0  0  0  0   Weathers D, p         0  0  0  0   
+                                   Zeile T, ph           1  0  0  0   
+                                   Moreno O, p           0  0  0  0   
+                                   Cameron M, ph         1  0  0  0   
+                                   Looper B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  0  4  0                        31  4  9  4
+
+Atlanta          000 000 000 --  0
+New York         101 000 02x --  4
+
+  Atlanta              IP  H  R ER BB SO
+Ramirez H (L)         7.0  6  2  2  4  1
+Alfonseca A           0.2  1  2  2  1  0
+Nitkowski C           0.1  2  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Leiter A (W)          5.1  3  0  0  3  2
+Weathers D            1.2  1  0  0  1  1
+Moreno O              1.0  0  0  0  0  0
+Looper B              1.0  0  0  0  0  2
+
+DP -- Atlanta 2, New York 2
+LOB -- Atlanta 5, New York 8
+2B -- Gutierrez R, Leiter A
+SB -- Giles M
+CS -- DeRosa M
+Balk -- Ramirez H
+T -- 2:55
+A -- 33212
+     Game of 4/16/2004 -- Pittsburgh at New York (N)
+
+  Pittsburgh         AB  R  H RBI    New York           AB  R  H RBI
+Redman T, cf          5  1  1  1   Matsui K, ss          5  1  1  0   
+Wilson J, ss          4  1  2  1   Garcia K, rf          4  1  1  0   
+Kendall J, c          3  1  0  1   Spencer S, lf         4  0  1  0   
+Mondesi R, rf         4  0  1  1   Piazza M, c           4  1  1  0   
+Mackowiak R, lf       3  0  0  1   Cameron M, cf         3  2  2  1   
+Wilson C, 1b          4  1  1  1   Phillips J, 1b        3  0  0  0   
+Nunez A, 3b           4  1  1  0   Duncan J, pr          0  0  0  0   
+Grabow J, p           0  0  0  0   Moreno O, p           0  0  0  0   
+Torres S, p           0  0  0  0   Stanton M, p          0  0  0  0   
+Mesa J, p             0  0  0  0   Weathers D, p         0  0  0  0   
+Castillo J, 2b        4  1  1  1   Valent E, ph          1  1  1  3   
+Wells K, p            1  0  0  0   Wheeler D, p          0  0  0  0   
+Hill B, ph            0  1  0  0   Wigginton T, 3b       4  0  0  0   
+Stynes C, 3b          1  0  1  0   Gutierrez R, 2b       4  0  1  2   
+                                   Glavine T, p          2  0  0  0   
+                                   Zeile T, ph-1b        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  7  8  7                        36  6  8  6
+
+Pittsburgh       000 000 070 --  7
+New York         020 000 040 --  6
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (W)           7.0  4  2  2  1  6
+Grabow J*             0.0  2  2  2  0  0
+Torres S              1.0  2  2  2  0  0
+Mesa J (S)            1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Glavine T             7.0  1  0  0  1  2
+Moreno O (L)+         0.0  3  3  3  0  0
+Stanton M#            0.0  1  2  2  1  0
+Weathers D            1.0  2  2  2  0  0
+Wheeler D             1.0  1  0  0  0  0
+  * Pitched to 2 batters in 8th
+  + Pitched to 3 batters in 8th
+  # Pitched to 2 batters in 8th
+
+E -- Matsui K, Nunez A
+DP -- New York 1
+LOB -- Pittsburgh 4, New York 4
+2B -- Cameron M
+3B -- Spencer S
+HR -- Valent E
+SB -- Duncan J, Nunez A
+SH -- Wells K
+SF -- Mackowiak R
+HBP -- by Weathers D (Kendall J)
+Balk -- Wheeler D
+T -- 2:55
+A -- 18554
+     Game of 4/17/2004 -- Pittsburgh at New York (D)
+
+  Pittsburgh         AB  R  H RBI    New York           AB  R  H RBI
+Redman T, cf          4  1  2  0   Matsui K, ss          4  0  0  0   
+Wilson J, ss          3  0  0  0   Gutierrez R, 2b       3  0  0  0   
+Kendall J, c          3  0  1  1   Valent E, ph          1  0  0  0   
+Mondesi R, rf         4  0  0  0   Looper B, p           0  0  0  0   
+Mackowiak R, 3b-lf    3  0  2  0   Spencer S, lf         4  0  0  0   
+Simon R, 1b           4  0  0  0   Piazza M, 1b          3  1  0  0   
+Davis J, pr           0  0  0  0   Cameron M, cf         3  0  0  0   
+Mesa J, p             0  0  0  0   Wigginton T, 3b       3  0  1  1   
+Wilson C, lf-1b       4  0  3  0   Garcia K, rf          3  0  1  0   
+Castillo J, 2b        4  1  1  1   Wilson V, c           3  0  2  0   
+Perez O, p            3  0  1  0   Trachsel S, p         2  0  0  0   
+Meadows B, p          0  0  0  0   Duncan J, ph          0  0  0  0   
+Johnston M, p         0  0  0  0   McEwing J, 2b         0  0  0  0   
+Torres S, p           0  0  0  0                                      
+Stynes C, 3b          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2 10  2                        29  1  4  1
+
+Pittsburgh       000 010 010 --  2
+New York         000 000 100 --  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Perez O               6.2  2  1  1  2  6
+Meadows B (W)         0.2  2  0  0  0  1
+Johnston M            0.1  0  0  0  0  0
+Torres S              0.1  0  0  0  0  1
+Mesa J (S)            1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S (L)        8.0  8  2  2  1  5
+Looper B              1.0  2  0  0  0  0
+
+DP -- New York 3
+LOB -- Pittsburgh 6, New York 4
+2B -- Wilson C 2, Redman T
+HR -- Castillo J
+SH -- Wilson J, Duncan J
+SF -- Kendall J
+Balk -- Perez O
+T -- 2:38
+A -- 40172
+     Game of 4/18/2004 -- Pittsburgh at New York (D)
+
+  Pittsburgh         AB  R  H RBI    New York           AB  R  H RBI
+Redman T, cf          6  1  2  0   Matsui K, ss          3  0  2  0   
+Wilson J, ss          5  0  2  0   Zeile T, 3b           2  0  2  1   
+Kendall J, c          5  2  3  1   Garcia K, rf          4  0  1  0   
+Mondesi R, rf         4  1  3  0   Piazza M, c           4  0  0  0   
+Simon R, 1b           4  1  1  0   Cameron M, cf         4  0  0  0   
+Mackowiak R, lf       0  0  0  0   Phillips J, 1b        4  0  0  0   
+Wilson C, lf-1b       5  2  3  2   Spencer S, lf         4  1  1  0   
+Hill B, 2b            4  1  1  1   McEwing J, 2b         3  0  0  0   
+Grabow J, p           0  0  0  0   Seo J, p              1  0  0  0   
+Boehringer B, p       0  0  0  0   Wheeler D, p          0  0  0  0   
+Boyd J, p             0  0  0  0   Duncan J, ph          0  0  0  0   
+Stynes C, 3b          4  0  2  2   Roberts G, p          0  0  0  0   
+Benson K, p           0  0  0  0   Valent E, ph          1  0  0  0   
+Castillo J, 2b        1  0  0  0   Franco J, p           0  0  0  0   
+                                   Stanton M, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 17  6                        30  1  6  1
+
+Pittsburgh       100 150 010 --  8
+New York         000 010 000 --  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Benson K (W)          7.0  6  1  1  2  5
+Grabow J              0.1  0  0  0  2  0
+Boehringer B          0.2  0  0  0  0  0
+Boyd J                1.0  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Seo J (L)             4.1 10  7  7  2  2
+Wheeler D             0.2  1  0  0  0  1
+Roberts G             2.0  3  0  0  1  0
+Franco J              1.0  3  1  1  0  0
+Stanton M             1.0  0  0  0  0  0
+
+DP -- Pittsburgh 2, New York 2
+LOB -- Pittsburgh 11, New York 6
+2B -- Matsui K, Mondesi R, Simon R
+HR -- Wilson C
+SB -- Wilson J
+SH -- Benson K 4
+HBP -- by Seo J (Hill B)
+WP -- Wheeler D
+T -- 2:55
+A -- 44345
+     Game of 4/19/2004 -- Montreal at New York (N)
+
+  Montreal           AB  R  H RBI    New York           AB  R  H RBI
+Sledge T, cf          5  0  1  0   Matsui K, ss          4  0  0  0   
+Vidro J, 2b           5  0  2  0   Garcia K, rf          3  1  1  1   
+Cabrera O, ss         4  0  1  0   Zeile T, 1b           3  0  0  0   
+Batista T, 3b         5  0  1  0   Piazza M, c           3  1  2  0   
+Wilkerson B, 1b-rf    3  0  1  0   Wilson V, pr-c        0  0  0  0   
+Cepicky M, lf         4  0  1  0   Cameron M, cf         3  1  1  0   
+Rivera J, rf          3  1  1  0   Valent E, lf          4  0  1  0   
+Biddle R, p           0  0  0  0   Wigginton T, 3b       3  1  1  2   
+Schneider B, c        4  0  1  0   Gutierrez R, 2b       4  0  1  1   
+Ohka T, p             1  0  1  0   Yates T, p            2  0  1  0   
+Calloway R, ph        1  0  0  0   Franco J, p           0  0  0  0   
+Kim S, p              0  0  0  0   Duncan J, ph          1  0  0  0   
+Carroll J, ph         1  0  0  0   Stanton M, p          0  0  0  0   
+Cordero C, p          0  0  0  0   Phillips J, ph        1  0  0  0   
+Fox A, 1b             1  0  0  0   Looper B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  1 10  0                        31  4  8  4
+
+Montreal         000 010 000 --  1
+New York         021 100 00x --  4
+
+  Montreal             IP  H  R ER BB SO
+Ohka T (L)            4.0  6  4  3  1  3
+Kim S                 2.0  1  0  0  1  1
+Cordero C             1.0  1  0  0  1  2
+Biddle R              1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Yates T (W)           5.2  5  1  1  3  1
+Franco J              0.1  0  0  0  0  0
+Stanton M             2.0  2  0  0  0  2
+Looper B (S)          1.0  3  0  0  0  0
+
+E -- Ohka T, Zeile T
+DP -- Montreal 1, New York 1
+LOB -- Montreal 12, New York 8
+2B -- Piazza M, Gutierrez R, Cameron M
+HR -- Garcia K, Wigginton T
+SB -- Ohka T
+SF -- Wigginton T
+HBP -- by Kim S (Zeile T)
+T -- 2:56
+A -- 14002
+     Game of 4/20/2004 -- Montreal at New York (N)
+
+  Montreal           AB  R  H RBI    New York           AB  R  H RBI
+Wilkerson B, cf       4  0  1  0   Matsui K, ss          4  1  1  0   
+Diaz E, c             4  1  1  0   Garcia K, rf          4  0  1  0   
+Biddle R, p           0  0  0  0   Zeile T, 1b           4  0  1  0   
+Vidro J, 2b           4  1  2  1   Piazza M, c           3  0  1  1   
+Cabrera O, ss         4  0  2  0   Cameron M, cf         4  0  0  0   
+Rivera J, rf          4  0  2  1   Valent E, lf          3  0  0  0   
+Batista T, 3b         3  0  0  0   Wigginton T, 3b       3  0  0  0   
+Lopez L, 1b           4  0  0  0   Gutierrez R, 2b       3  0  0  0   
+Sledge T, lf          4  0  0  0   Leiter A, p           2  0  0  0   
+Day Z, p              3  0  0  0   Phillips J, ph        1  0  0  0   
+Ayala L, p            0  0  0  0   Weathers D, p         0  0  0  0   
+Carroll J, ph         1  0  0  0   Franco J, p           0  0  0  0   
+Schneider B, c        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  2  8  2                        31  1  4  1
+
+Montreal         000 001 010 --  2
+New York         100 000 000 --  1
+
+  Montreal             IP  H  R ER BB SO
+Day Z (W)             7.0  4  1  1  2  5
+Ayala L               1.0  0  0  0  0  1
+Biddle R (S)          1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Leiter A              7.0  5  1  1  2  4
+Weathers D (L)        1.0  2  1  1  0  0
+Franco J              1.0  1  0  0  0  0
+
+E -- Wigginton T
+LOB -- Montreal 9, New York 5
+2B -- Garcia K, Zeile T
+HR -- Vidro J
+SB -- Cabrera O
+HBP -- by Leiter A (Diaz E)
+T -- 2:43
+A -- 14513
+     Game of 4/21/2004 -- Montreal at New York (N)
+
+  Montreal           AB  R  H RBI    New York           AB  R  H RBI
+Wilkerson B, cf       4  1  1  0   Matsui K, ss          4  0  0  0   
+Cabrera O, ss         4  1  1  1   Zeile T, 3b           3  0  0  0   
+Vidro J, 2b           1  0  0  1   Garcia K, rf          4  0  1  0   
+Batista T, 3b         4  0  3  0   Piazza M, c           4  0  2  0   
+Rivera J, rf          4  0  0  0   Cameron M, cf         2  1  0  0   
+Sledge T, 1b          4  0  0  0   Phillips J, 1b        3  0  0  0   
+Calloway R, lf        4  0  0  0   Spencer S, lf         4  0  2  0   
+Schneider B, c        4  0  0  0   McEwing J, 2b         4  0  2  1   
+Hernandez L, p        3  0  1  0   Glavine T, p          1  0  0  0   
+Ayala L, p            0  0  0  0   Valent E, ph          1  0  1  0   
+Lopez L, ph           1  0  0  0   Stanton M, p          0  0  0  0   
+Biddle R, p           0  0  0  0   Wilson V, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  6  2                        31  1  8  1
+
+Montreal         000 020 000 --  2
+New York         010 000 000 --  1
+
+  Montreal             IP  H  R ER BB SO
+Hernandez L (W)       7.2  7  1  1  3  6
+Ayala L               0.1  0  0  0  0  1
+Biddle R (S)          1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Glavine T (L)         7.0  5  2  1  2  3
+Stanton M             2.0  1  0  0  0  1
+
+E -- McEwing J, Cameron M
+DP -- Montreal 1
+LOB -- Montreal 7, New York 8
+2B -- Piazza M, Wilkerson B, Spencer S, Garcia K
+CS -- Valent E
+SH -- Glavine T
+SF -- Vidro J
+HBP -- by Hernandez L (Cameron M)
+T -- 2:34
+A -- 23565
+     Game of 4/22/2004 -- Montreal at New York (D)
+
+  Montreal           AB  R  H RBI    New York           AB  R  H RBI
+Wilkerson B, cf       2  0  0  0   Matsui K, ss          3  1  0  0   
+Cabrera O, ss         4  0  1  0   Garcia K, rf          4  0  1  0   
+Vidro J, 2b           4  0  0  0   Spencer S, lf         3  1  1  0   
+Batista T, 3b         4  1  1  0   Piazza M, 1b          3  0  2  1   
+Cepicky M, rf         3  0  1  0   Wilson V, pr-c        0  1  0  0   
+Calloway R, lf        4  0  0  0   Phillips J, c-1b      3  0  0  1   
+Sledge T, 1b          3  0  0  0   Cameron M, cf         4  0  1  1   
+Rivera J, ph          1  0  0  0   Gutierrez R, 3b       4  0  0  0   
+Schneider B, c        4  1  1  1   McEwing J, 2b         4  0  0  0   
+Patterson J, p        2  0  1  0   Trachsel S, p         3  0  1  0   
+Fox A, ph             1  0  0  0   Franco J, p           0  0  0  0   
+Bentz C, p            0  0  0  0   Valent E, ph          0  0  0  0   
+Fikac J, p            0  0  0  0   Looper B, p           0  0  0  0   
+Ayala L, p            0  0  0  0                                      
+Cordero C, p          0  0  0  0                                      
+Carroll J, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  5  1                        31  3  6  3
+
+Montreal         000 000 101 --  2
+New York         001 000 20x --  3
+
+  Montreal             IP  H  R ER BB SO
+Patterson J           6.0  3  1  1  3  5
+Bentz C (L)*          0.0  1  2  2  1  0
+Fikac J               0.1  1  0  0  0  0
+Ayala L               0.2  1  0  0  0  0
+Cordero C             1.0  0  0  0  2  0
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        7.0  4  1  1  3  5
+Franco J              1.0  0  0  0  0  0
+Looper B (S)          1.0  1  1  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Batista T, Gutierrez R, Spencer S
+DP -- New York 1
+LOB -- Montreal 7, New York 12
+2B -- Piazza M 2, Spencer S, Cameron M
+HR -- Schneider B
+HBP -- by Patterson J (Spencer S) 2
+T -- 2:56
+A -- 15062
+     Game of 5/4/2004 -- San Francisco at New York (N)
+
+  San Francisco      AB  R  H RBI    New York           AB  R  H RBI
+Dallimore B, 3b-2b    4  0  0  0   Matsui K, ss          5  1  3  1   
+Snow J, 1b            4  0  0  0   Zeile T, 3b           5  0  0  0   
+Grissom M, cf         4  1  1  0   Piazza M, c           3  0  1  0   
+Hammonds J, lf        4  0  1  0   Wilson V, pr-c        1  0  1  0   
+Alfonzo E, 2b         3  0  1  0   Garcia K, rf          5  1  1  0   
+Aardsma D, p          0  0  0  0   Spencer S, lf         4  1  1  0   
+Tucker M, rf          3  1  1  0   Phillips J, 1b        3  1  2  2   
+Cruz D, ss            3  0  1  1   Cameron M, cf         4  1  3  2   
+Torrealba Y, c        3  0  1  1   Garcia D, 2b          3  1  1  0   
+Tomko B, p            2  0  0  0   Trachsel S, p         4  0  1  0   
+Brower J, p           0  0  0  0   Weathers D, p         0  0  0  0   
+Feliz P, 3b           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        37  6 14  5
+
+San Francisco    010 001 000 --  2
+New York         001 004 10x --  6
+
+  San Francisco        IP  H  R ER BB SO
+Tomko B (L)           5.2  9  5  0  2  2
+Brower J              1.1  4  1  1  1  0
+Aardsma D             1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        8.0  5  2  1  4  2
+Weathers D            1.0  1  0  0  0  0
+
+E -- Piazza M, Garcia D, Alfonzo E 2
+DP -- San Francisco 2, New York 1
+LOB -- San Francisco 8, New York 10
+2B -- Grissom M, Cruz D, Spencer S, Torrealba Y
+HR -- Cameron M
+SH -- Cruz D, Tomko B
+T -- 2:54
+A -- 30532
+     Game of 5/5/2004 -- San Francisco at New York (N)
+
+  San Francisco      AB  R  H RBI    New York           AB  R  H RBI
+Dallimore B, 2b       3  0  1  1   Matsui K, ss          5  0  1  1   
+Snow J, 1b            3  0  0  0   Zeile T, 3b           4  0  1  0   
+Grissom M, cf         4  0  0  0   McEwing J, pr-3b      1  1  0  0   
+Hammonds J, lf        4  1  1  0   Piazza M, c           4  1  1  1   
+Alfonzo E, 3b         4  0  1  1   Wilson V, c           0  0  0  0   
+Tucker M, rf          4  0  1  0   Garcia K, rf          4  1  2  0   
+Torrealba Y, c        3  0  0  0   Spencer S, lf         4  1  2  3   
+Perez N, ss           2  1  2  0   Phillips J, 1b        2  1  0  0   
+Williams J, p         0  0  0  0   Cameron M, cf         3  2  1  2   
+Walker T, p           0  0  0  0   Garcia D, 2b          2  1  1  0   
+Cruz D, ph            1  0  0  0   Seo J, p              2  0  1  0   
+Rodriguez F, p        0  0  0  0   Bottalico R, p        0  0  0  0   
+Eyre S, p             0  0  0  0   Franco J, p           0  0  0  0   
+Herges M, p           0  0  0  0   Duncan J, ph          1  0  0  0   
+Aardsma D, p          0  0  0  0   Weathers D, p         0  0  0  0   
+                                   Valent E, ph          1  0  1  0   
+                                   Moreno O, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  2  6  2                        33  8 11  7
+
+San Francisco    010 010 000 --  2
+New York         110 000 06x --  8
+
+  San Francisco        IP  H  R ER BB SO
+Williams J            5.0  4  2  1  1  4
+Walker T              1.0  1  0  0  0  0
+Rodriguez F (L)       1.2  1  1  1  0  2
+Eyre S*               0.0  1  1  1  0  0
+Herges M+             0.0  2  3  3  1  0
+Aardsma D             0.1  2  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Seo J                 4.1  6  2  2  1  1
+Bottalico R           1.2  0  0  0  0  0
+Franco J              1.0  0  0  0  1  1
+Weathers D (W)        1.0  0  0  0  0  1
+Moreno O              1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+  + Pitched to 3 batters in 8th
+
+E -- Williams J, Matsui K
+DP -- San Francisco 1, New York 1
+LOB -- San Francisco 4, New York 6
+2B -- Hammonds J, Garcia D, Perez N
+HR -- Piazza M, Spencer S, Cameron M
+CS -- Dallimore B
+SH -- Williams J 2
+SF -- Dallimore B
+HBP -- by Williams J (Garcia D), by Williams J (Phillips J), by Aardsma D (Garcia D)
+T -- 2:49
+A -- 19974
+     Game of 5/6/2004 -- San Francisco at New York (N)
+
+  San Francisco      AB  R  H RBI    New York           AB  R  H RBI
+Perez N, ss           5  0  0  0   Matsui K, ss          5  0  0  0   
+Alfonzo E, 3b         5  0  2  0   Zeile T, 3b           5  0  1  0   
+Grissom M, cf         5  0  3  0   Piazza M, c           3  1  1  1   
+Bonds B, lf           3  0  0  0   Garcia K, rf          4  1  1  1   
+Feliz P, 1b           5  1  1  1   Spencer S, lf         4  0  1  0   
+Hammonds J, rf        4  0  0  0   Phillips J, 1b        4  0  0  0   
+Brower J, p           0  0  0  0   McEwing J, cf         4  0  1  0   
+Dallimore B, 2b       4  0  1  0   Garcia D, 2b          3  0  0  0   
+Torrealba Y, c        3  0  0  0   Leiter A, p           2  0  0  0   
+Schmidt J, p          2  0  0  0   Valent E, ph          1  0  0  0   
+Cruz D, ph            1  0  0  0   Looper B, p           0  0  0  0   
+Walker T, p           0  0  0  0   Gutierrez R, ph       1  0  0  0   
+Rodriguez F, p        0  0  0  0   Stanton M, p          0  0  0  0   
+Tucker M, rf          0  0  0  0   Weathers D, p         0  0  0  0   
+Mohr D, ph-rf         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  1  7  1                        36  2  5  2
+
+San Francisco    000 000 100 00 --  1
+New York         000 000 100 01 --  2
+  2 outs when winning run was scored.
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J             7.0  3  1  1  3 10
+Walker T              1.0  0  0  0  0  0
+Rodriguez F           1.0  1  0  0  0  1
+Brower J (L)          1.2  1  1  1  0  3
+
+  New York             IP  H  R ER BB SO
+Leiter A              8.0  5  1  1  0  6
+Looper B              2.0  0  0  0  1  2
+Stanton M             0.2  2  0  0  1  1
+Weathers D (W)        0.1  0  0  0  0  1
+
+DP -- San Francisco 1
+LOB -- San Francisco 7, New York 5
+HR -- Feliz P, Garcia K, Piazza M
+SB -- Garcia D
+CS -- Grissom M
+SH -- Torrealba Y
+T -- 3:30
+A -- 23314
+     Game of 5/7/2004 -- Milwaukee at New York (N)
+
+  Milwaukee          AB  R  H RBI    New York           AB  R  H RBI
+Podsednik S, cf       5  2  2  0   Matsui K, ss          4  1  1  0   
+Counsell C, ss        5  1  2  1   Garcia D, 2b          3  0  0  0   
+Ginter K, 2b          3  1  1  2   Moreno O, p           0  0  0  0   
+Jenkins G, lf         5  1  0  0   Stanton M, p          0  0  0  0   
+Overbay L, 1b         4  1  3  2   Phillips J, 1b        1  0  0  0   
+Clark B, rf           5  0  0  0   Piazza M, c           4  0  2  1   
+Helms W, 3b           4  0  2  0   Zeile T, 1b-3b        4  0  1  1   
+Moeller C, c          4  0  0  0   Garcia K, rf          4  0  0  0   
+Davis D, p            3  0  0  0   Wigginton T, 3b       3  0  0  0   
+Ford B, p             0  0  0  0   Wheeler D, p          0  0  0  0   
+Grieve B, ph          1  1  1  1   Wilson V, ph          0  1  0  0   
+Burba D, p            0  0  0  0   Valent E, lf          4  1  1  0   
+                                   McEwing J, cf         3  2  2  3   
+                                   Glavine T, p          1  0  1  0   
+                                   Gutierrez R, ph-2b    3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  7 11  6                        34  5  8  5
+
+Milwaukee        004 000 111 --  7
+New York         000 002 003 --  5
+
+  Milwaukee            IP  H  R ER BB SO
+Davis D (W)           6.2  6  2  2  1  5
+Ford B                0.1  0  0  0  0  1
+Burba D               2.0  2  3  3  1  2
+
+  New York             IP  H  R ER BB SO
+Glavine T (L)         6.0  6  4  4  3  4
+Moreno O              0.1  2  1  1  0  0
+Stanton M             0.2  1  0  0  0  0
+Wheeler D             2.0  2  2  1  0  3
+
+E -- Garcia D, Wigginton T, Wheeler D
+DP -- Milwaukee 1, New York 1
+LOB -- Milwaukee 8, New York 4
+2B -- Counsell C, Overbay L 2
+HR -- Ginter K, Overbay L, Grieve B, McEwing J
+SB -- Podsednik S
+CS -- Helms W
+T -- 2:59
+A -- 27841
+     Game of 5/8/2004 -- Milwaukee at New York (D)
+
+  Milwaukee          AB  R  H RBI    New York           AB  R  H RBI
+Podsednik S, cf       5  0  1  1   Matsui K, ss          5  1  0  0   
+Counsell C, ss        4  1  0  0   Garcia D, 2b          4  1  0  0   
+Ginter K, 2b          5  1  1  0   Piazza M, 1b          2  0  0  0   
+Jenkins G, lf         5  2  2  0   Garcia K, rf          4  1  1  1   
+Overbay L, 1b         4  1  3  4   Valent E, lf          2  1  1  1   
+Helms W, 3b           5  0  2  0   Cameron M, cf         3  0  0  0   
+Grieve B, rf          2  0  2  1   Wigginton T, 3b       3  0  0  1   
+Clark B, ph-rf        2  1  1  0   Wilson V, c           3  0  0  0   
+Bennett G, c          3  0  0  0   Yates T, p            1  0  0  0   
+Hernandez A, p        3  0  0  0   Gutierrez R, ph       0  0  0  0   
+Kinney M, p           0  0  0  0   Franco J, p           0  0  0  0   
+Hall B, ph            1  0  0  0   Phillips J, ph        1  0  0  0   
+Vizcaino L, p         0  0  0  0   Stanton M, p          0  0  0  0   
+Kolb D, p             0  0  0  0   Bottalico R, p        0  0  0  0   
+                                   Zeile T, ph           1  0  0  0   
+                                   Moreno O, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 12  6                        29  4  2  3
+
+Milwaukee        011 030 010 --  6
+New York         000 120 010 --  4
+
+  Milwaukee            IP  H  R ER BB SO
+Hernandez A           4.1  0  3  2  7  4
+Kinney M (W)          2.2  1  0  0  1  4
+Vizcaino L            1.0  1  1  1  1  0
+Kolb D (S)            1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Yates T (L)           5.0  8  5  5  4  5
+Franco J              1.0  0  0  0  0  1
+Stanton M             1.0  0  0  0  0  1
+Bottalico R           1.0  2  1  1  0  1
+Moreno O              1.0  2  0  0  0  3
+
+E -- Helms W
+LOB -- Milwaukee 10, New York 8
+2B -- Jenkins G, Grieve B, Valent E
+HR -- Overbay L
+SB -- Clark B, Podsednik S
+SF -- Wigginton T
+T -- 3:18
+A -- 29212
+     Game of 5/9/2004 -- Milwaukee at New York (D)
+
+  Milwaukee          AB  R  H RBI    New York           AB  R  H RBI
+Podsednik S, cf       5  0  2  2   Valent E, lf          4  1  1  1   
+Counsell C, ss        6  1  1  0   McEwing J, ss-2b      4  0  1  0   
+Ginter K, 2b          6  0  1  0   Zeile T, 3b-1b        5  1  1  0   
+Jenkins G, lf         5  0  1  1   Garcia K, rf          6  0  1  0   
+Overbay L, 1b         4  0  2  0   Phillips J, 1b        3  1  2  0   
+Helms W, 3b           5  1  1  0   Matsui K, pr-ss       2  1  1  1   
+Grieve B, rf          2  1  0  0   Cameron M, cf         5  0  0  0   
+Burba D, p            0  0  0  0   Wilson V, c           5  1  2  0   
+Vizcaino L, p         0  0  0  0   Garcia D, 2b          2  0  1  2   
+Hall B, ph            1  0  0  0   Piazza M, ph          0  0  0  0   
+Ford B, p             0  0  0  0   Seo J, pr             0  1  0  0   
+Moeller C, c          4  2  1  0   Looper B, p           0  0  0  0   
+Santos V, p           2  0  0  0   Gutierrez R, ph       1  0  1  0   
+Kieschnick B, p       1  0  1  0   Wheeler D, p          0  0  0  0   
+Durrington T, pr      0  0  0  0   Trachsel S, p         3  0  0  0   
+Bennett J, p          0  0  0  0   Franco J, p           0  0  0  0   
+Clark B, ph-rf        2  0  1  2   Weathers D, p         0  0  0  0   
+                                   Stanton M, p          0  0  0  0   
+                                   Wigginton T, ph-3b    2  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     43  5 11  5                        42  6 12  6
+
+Milwaukee        001 000 130 00 --  5
+New York         110 100 020 01 --  6
+  2 outs when winning run was scored.
+
+  Milwaukee            IP  H  R ER BB SO
+Santos V              5.0  6  3  3  1  4
+Kieschnick B          1.0  1  0  0  1  0
+Bennett J             1.0  0  0  0  1  1
+Burba D               1.0  1  2  2  2  0
+Vizcaino L            1.0  1  0  0  0  2
+Ford B (L)            1.2  3  1  1  1  2
+
+  New York             IP  H  R ER BB SO
+Trachsel S*           6.0  7  2  1  2  4
+Franco J              1.2  1  2  2  1  2
+Weathers D+           0.0  1  1  1  1  0
+Stanton M             0.1  1  0  0  0  0
+Looper B              2.0  1  0  0  0  1
+Wheeler D (W)         1.0  0  0  0  0  0
+  * Pitched to 2 batters in 7th
+  + Pitched to 2 batters in 8th
+
+E -- Zeile T
+LOB -- Milwaukee 10, New York 12
+2B -- Zeile T, Overbay L, Wilson V 2, Jenkins G, Phillips J, Kieschnick B, Matsui K
+HR -- Valent E
+SB -- Podsednik S
+SH -- McEwing J 2
+SF -- Podsednik S
+WP -- Weathers D
+Balk -- Burba D
+PB -- Wilson V
+T -- 4:04
+A -- 29686
+     Game of 5/18/2004 -- St. Louis at New York (N)
+
+  St. Louis          AB  R  H RBI    New York           AB  R  H RBI
+Anderson M, 2b        5  0  0  0   Valent E, rf          5  0  1  0   
+Renteria E, ss        5  1  1  0   Matsui K, ss          5  1  2  1   
+Pujols A, 1b          4  1  2  0   Floyd C, lf           5  1  3  3   
+Rolen S, 3b           3  1  3  2   Piazza M, 1b          4  0  1  0   
+Edmonds J, cf         4  0  1  1   Wigginton T, 3b       3  0  0  0   
+Sanders R, rf         4  0  0  0   Phillips J, c         4  1  2  1   
+Lankford R, lf        3  0  0  0   Cameron M, cf         3  1  1  0   
+Tavarez J, p          0  0  0  0   McEwing J, 2b         3  0  0  0   
+Isringhausen J, p     0  0  0  0   Glavine T, p          1  0  0  0   
+Matheny M, c          4  1  1  1   Moreno O, p           0  0  0  0   
+Morris M, p           3  0  0  0   Spencer S, ph         1  0  0  0   
+Kline S, p            0  0  0  0   Bottalico R, p        0  0  0  0   
+Taguchi S, lf         0  0  0  0   Garcia K, ph          0  1  0  0   
+Porter C, ph-lf       1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4  9  4                        34  5 10  5
+
+St. Louis        210 010 000 --  4
+New York         010 002 002 --  5
+  2 outs when winning run was scored.
+
+  St. Louis            IP  H  R ER BB SO
+Morris M              6.1  8  3  3  1  2
+Kline S               0.2  0  0  0  0  1
+Tavarez J             1.0  0  0  0  0  0
+Isringhausen J (L)    0.2  2  2  2  2  1
+
+  New York             IP  H  R ER BB SO
+Glavine T             6.0  8  4  4  0  6
+Moreno O              1.0  0  0  0  0  0
+Bottalico R (W)       2.0  1  0  0  2  0
+
+E -- Piazza M, Lankford R
+DP -- St. Louis 1, New York 1
+LOB -- St. Louis 7, New York 8
+2B -- Rolen S, Matsui K
+HR -- Matheny M, Phillips J, Floyd C
+SH -- Glavine T, McEwing J
+WP -- Bottalico R
+T -- 2:39
+A -- 28880
+     Game of 5/19/2004 -- St. Louis at New York (N)
+
+  St. Louis          AB  R  H RBI    New York           AB  R  H RBI
+Womack T, 2b          4  0  3  0   Valent E, rf          4  0  1  0   
+Renteria E, ss        4  1  1  0   Matsui K, ss          4  0  0  0   
+Pujols A, 1b          3  0  0  0   Floyd C, lf           3  0  0  0   
+Rolen S, 3b           4  0  2  1   Piazza M, 1b          2  0  1  0   
+Edmonds J, cf         3  0  0  0   Cameron M, pr         0  0  0  0   
+Sanders R, rf         4  0  0  0   Wilson V, c           0  0  0  0   
+Anderson M, lf        3  0  1  0   Zeile T, 3b           3  0  0  0   
+Eldred C, p           0  0  0  0   Garcia D, 2b          0  0  0  0   
+Cedeno R, ph          1  0  0  0   Phillips J, c-1b      3  0  1  0   
+Taguchi S, lf         0  0  0  0   Wigginton T, 2b-3b    3  0  1  0   
+Matheny M, c          4  0  1  0   McEwing J, cf         3  0  0  0   
+Suppan J, p           2  0  0  0   Trachsel S, p         2  0  0  0   
+Lankford R, ph-lf     2  0  0  0   Stanton M, p          0  0  0  0   
+Kline S, p            0  0  0  0   Bottalico R, p        0  0  0  0   
+                                   Spencer S, ph         1  0  0  0   
+                                   Looper B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  8  1                        28  0  4  0
+
+St. Louis        000 000 010 --  1
+New York         000 000 000 --  0
+
+  St. Louis            IP  H  R ER BB SO
+Suppan J              6.0  4  0  0  1  3
+Eldred C (W)          2.0  0  0  0  1  0
+Kline S (S)           1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S            7.0  5  0  0  1  4
+Stanton M (L)         0.1  1  1  1  0  0
+Bottalico R           0.2  1  0  0  1  0
+Looper B              1.0  1  0  0  0  0
+
+E -- Matsui K
+DP -- St. Louis 3, New York 1
+LOB -- St. Louis 8, New York 3
+2B -- Valent E, Wigginton T, Rolen S
+SB -- Anderson M, Renteria E
+CS -- Lankford R
+T -- 2:42
+A -- 20229
+     Game of 5/20/2004 -- St. Louis at New York (D)
+
+  St. Louis          AB  R  H RBI    New York           AB  R  H RBI
+Womack T, 2b          6  0  1  1   Matsui K, ss          4  1  1  0   
+Renteria E, ss        6  0  1  1   Zeile T, 3b           4  2  1  2   
+Pujols A, 1b          5  2  2  1   Floyd C, lf           4  0  1  0   
+Rolen S, 3b           6  1  1  2   Piazza M, 1b          5  0  2  0   
+Edmonds J, cf         4  2  1  0   Garcia K, rf          3  0  0  0   
+Sanders R, rf         5  2  3  0   Spencer S, ph-rf      1  0  0  1   
+Taguchi S, lf         4  2  4  2   Wilson V, c           5  1  2  0   
+Matheny M, c          4  1  2  3   Cameron M, cf         3  0  1  0   
+Marquis J, p          2  0  0  0   Garcia D, 2b          2  0  0  0   
+Anderson M, ph        0  0  0  0   Moreno O, p           0  0  0  0   
+Calero K, p           0  0  0  0   Franco J, p           0  0  0  0   
+King R, p             0  0  0  0   Wheeler D, p          0  0  0  0   
+Porter C, ph          1  0  0  0   Valent E, ph          0  0  0  0   
+Tavarez J, p          0  0  0  0   Weathers D, p         0  0  0  0   
+Lankford R, ph        0  1  0  0   Stanton M, p          0  0  0  0   
+Isringhausen J, p     0  0  0  0   Seo J, p              1  0  0  1   
+                                   McEwing J, 2b         1  0  0  0   
+                                   Wigginton T, ph-2b    0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     43 11 15 10                        33  4  8  4
+
+St. Louis        000 202 016 -- 11
+New York         200 100 001 --  4
+
+  St. Louis            IP  H  R ER BB SO
+Marquis J (W)         5.0  7  3  3  3  2
+Calero K              1.0  0  0  0  0  0
+King R                1.0  0  0  0  0  2
+Tavarez J             1.0  0  0  0  2  1
+Isringhausen J        1.0  1  1  1  1  1
+
+  New York             IP  H  R ER BB SO
+Seo J (L)*            5.0  5  4  4  4  3
+Moreno O              0.1  1  0  0  0  0
+Franco J              0.2  0  0  0  1  0
+Wheeler D             2.0  4  1  1  0  1
+Weathers D            0.2  5  6  3  1  0
+Stanton M             0.1  0  0  0  0  0
+  * Pitched to 2 batters in 6th
+
+E -- Piazza M, Matsui K, Zeile T
+DP -- St. Louis 1, New York 1
+LOB -- St. Louis 11, New York 11
+2B -- Taguchi S 2, Wilson V, Sanders R, Matheny M, Piazza M
+HR -- Zeile T, Pujols A, Rolen S
+SF -- Spencer S
+HBP -- by Marquis J (Floyd C), by Marquis J (Seo J)
+WP -- Moreno O
+T -- 3:34
+A -- 21874
+     Game of 5/21/2004 -- Colorado at New York (N)
+
+  Colorado           AB  R  H RBI    New York           AB  R  H RBI
+Gonzalez L, 2b        5  0  0  0   Matsui K, ss          4  1  2  1   
+Clayton R, ss         5  2  4  0   Garcia D, 2b          3  2  2  2   
+Sweeney M, 1b         3  3  2  2   Floyd C, lf           5  1  1  0   
+Castilla V, 3b        4  1  2  0   Looper B, p           0  0  0  0   
+Burnitz J, cf         5  0  1  2   Piazza M, c           3  1  2  1   
+Greene T, c           4  0  1  2   Snead E, pr-lf        0  1  0  0   
+Helton T, ph          1  0  0  0   Garcia K, rf          4  0  2  1   
+Hawpe B, rf           2  1  0  0   Stanton M, p          0  0  0  0   
+Holliday M, ph-lf     1  0  0  0   Wilson V, ph-c        1  0  0  0   
+Pellow K, lf          4  0  1  0   Phillips J, 1b        5  1  2  2   
+Chacon S, p           0  0  0  0   Cameron M, cf         4  0  1  0   
+Young J, p            1  0  0  1   Wigginton T, 3b       4  2  1  0   
+Simpson A, p          0  0  0  0   Ginter M, p           1  0  1  1   
+Lopez J, p            0  0  0  0   Zeile T, ph           0  0  0  0   
+Jennings J, ph        1  0  0  0   Franco J, p           0  0  0  0   
+Nunez V, p            0  0  0  0   Moreno O, p           0  0  0  0   
+Fassero J, p          0  0  0  0   Valent E, rf          0  0  0  0   
+Hocking D, rf         1  0  0  0   Spencer S, ph-rf      1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 11  7                        35  9 14  8
+
+Colorado         012 020 002 --  7
+New York         213 100 02x --  9
+
+  Colorado             IP  H  R ER BB SO
+Young J (L)           3.0  8  6  6  3  2
+Simpson A             1.1  3  1  1  1  1
+Lopez J               0.2  0  0  0  0  0
+Nunez V               1.1  2  0  0  0  0
+Fassero J             0.2  0  0  0  0  1
+Chacon S              1.0  1  2  2  3  0
+
+  New York             IP  H  R ER BB SO
+Ginter M (W)          5.0  7  5  5  2  5
+Franco J              1.1  1  0  0  1  1
+Moreno O              0.1  0  0  0  0  0
+Stanton M             1.1  0  0  0  0  0
+Looper B              1.0  3  2  2  1  2
+
+DP -- Colorado 2
+LOB -- Colorado 8, New York 11
+2B -- Garcia D 2, Wigginton T, Castilla V, Phillips J 2, Matsui K, Floyd C, Garcia K, Clayton R 2, Cameron M
+HR -- Piazza M, Sweeney M
+SH -- Ginter M
+SF -- Young J
+HBP -- by Simpson A (Garcia D)
+WP -- Young J, Simpson A
+T -- 3:21
+A -- 20148
+     Game of 5/22/2004 -- Colorado at New York (N)
+
+  Colorado           AB  R  H RBI    New York           AB  R  H RBI
+Gonzalez L, 2b        5  0  1  0   Matsui K, ss          4  1  1  1   
+Clayton R, ss         5  1  2  0   Garcia D, 2b          3  1  0  0   
+Sweeney M, 1b         3  0  1  0   Floyd C, lf           3  1  1  0   
+Castilla V, 3b        4  1  0  0   Piazza M, c           4  0  2  0   
+Burnitz J, cf-rf      4  1  3  2   Wilson V, c           0  0  0  0   
+Holliday M, lf        1  0  0  0   Garcia K, rf          3  0  0  0   
+Reyes R, cf           1  0  0  0   Spencer S, ph-rf      1  0  0  0   
+Hawpe B, rf           3  0  0  0   Phillips J, 1b        3  0  1  1   
+Pellow K, ph-rf-lf    2  0  1  0   McEwing J, pr-1b      0  1  0  0   
+Johnson C, c          3  1  1  1   Cameron M, cf         4  0  0  0   
+Cook A, p             3  0  1  1   Wigginton T, 3b       4  1  2  2   
+Harikkala T, p        0  0  0  0   Yates T, p            2  0  0  0   
+Greene T, ph          1  0  0  0   Wheeler D, p          0  0  0  0   
+Fuentes B, p          0  0  0  0   Valent E, ph          0  0  0  0   
+Nunez V, p            0  0  0  0   Franco J, p           0  0  0  0   
+                                   Weathers D, p         0  0  0  0   
+                                   Zeile T, ph           1  0  0  0   
+                                   Looper B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 10  4                        32  5  7  4
+
+Colorado         001 120 000 --  4
+New York         300 000 02x --  5
+
+  Colorado             IP  H  R ER BB SO
+Cook A                5.0  5  3  3  1  4
+Harikkala T           1.0  1  0  0  1  2
+Fuentes B             1.0  0  0  0  0  1
+Nunez V (L)           1.0  1  2  2  1  2
+
+  New York             IP  H  R ER BB SO
+Yates T               4.1  6  4  4  4  3
+Wheeler D             1.2  2  0  0  1  3
+Franco J              1.0  1  0  0  1  1
+Weathers D (W)        1.0  0  0  0  1  0
+Looper B (S)          1.0  1  0  0  0  2
+
+E -- Gonzalez L
+DP -- New York 1
+LOB -- Colorado 13, New York 7
+2B -- Burnitz J 2
+3B -- Burnitz J
+HR -- Matsui K, Johnson C, Wigginton T
+SB -- Clayton R
+CS -- Burnitz J
+HBP -- by Cook A (Garcia D), by Yates T (Burnitz J), by Yates T (Castilla V)
+WP -- Cook A
+T -- 3:26
+A -- 27526
+     Game of 5/23/2004 -- Colorado at New York (D)
+
+  Colorado           AB  R  H RBI    New York           AB  R  H RBI
+Hocking D, 2b         3  0  0  0   Matsui K, ss          3  2  2  1   
+Clayton R, ss         4  0  0  0   Garcia D, 2b          3  0  0  0   
+Castilla V, 3b        3  0  0  0   Floyd C, lf           4  1  2  2   
+Johnson C, c          3  0  0  0   Piazza M, 1b          4  0  1  0   
+Burnitz J, rf         3  0  0  0   Cameron M, cf         0  0  0  0   
+Holliday M, lf        3  0  0  0   Spencer S, rf         3  1  0  0   
+Pellow K, 1b          3  0  1  0   Phillips J, c         4  0  1  0   
+Reyes R, cf           3  0  0  0   Wigginton T, 3b       4  0  2  0   
+Estes S, p            2  0  0  0   McEwing J, cf-1b      2  0  0  0   
+Reed S, p             0  0  0  0   Glavine T, p          3  0  1  1   
+Chacon S, p           0  0  0  0                                      
+Greene T, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  0  1  0                        30  4  9  4
+
+Colorado         000 000 000 --  0
+New York         201 001 00x --  4
+
+  Colorado             IP  H  R ER BB SO
+Estes S (L)           5.2  7  4  4  4  4
+Reed S                1.1  1  0  0  0  0
+Chacon S              1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Glavine T (W)         9.0  1  0  0  1  8
+
+DP -- Colorado 2
+LOB -- Colorado 2, New York 7
+2B -- Piazza M, Matsui K, Wigginton T, Pellow K
+HR -- Matsui K, Floyd C
+SB -- Spencer S 2, Wigginton T
+SH -- Garcia D
+T -- 2:25
+A -- 37486
+     Game of 5/25/2004 -- Philadelphia at New York (N)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Byrd M, cf            5  0  1  0   Matsui K, ss          2  1  0  0   
+Rollins J, ss         4  0  0  0   Garcia D, 2b          2  2  0  0   
+Abreu B, rf           4  0  0  0   Floyd C, lf           4  1  2  2   
+Thome J, 1b           3  0  1  0   Piazza M, 1b          3  1  2  2   
+Burrell P, lf         3  0  0  0   McEwing J, pr-1b      0  0  0  0   
+Lieberthal M, c       4  0  0  0   Spencer S, rf         3  0  2  1   
+Bell D, 3b            2  0  1  0   Phillips J, c         4  0  1  0   
+Utley C, 2b           3  0  1  0   Cameron M, cf         4  0  0  0   
+Milton E, p           2  0  0  0   Wigginton T, 3b       3  0  0  0   
+Michaels J, ph        1  0  0  0   Stanton M, p          0  0  0  0   
+Telemaco A, p         0  0  0  0   Valent E, ph          1  0  0  0   
+Cormier R, p          0  0  0  0   Franco J, p           0  0  0  0   
+Ramirez E, p          0  0  0  0   Trachsel S, p         2  0  0  0   
+Pratt T, ph           0  0  0  0   Zeile T, 3b           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  4  0                        30  5  7  5
+
+Philadelphia     000 000 000 --  0
+New York         002 001 20x --  5
+
+  Philadelphia         IP  H  R ER BB SO
+Milton E (L)          6.0  6  3  3  3  7
+Telemaco A            0.1  0  2  2  2  0
+Cormier R             0.2  1  0  0  1  0
+Ramirez E             1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        6.2  4  0  0  4  6
+Stanton M             1.1  0  0  0  1  2
+Franco J              1.0  0  0  0  1  1
+
+E -- Wigginton T
+DP -- Philadelphia 1, New York 1
+LOB -- Philadelphia 10, New York 7
+2B -- Thome J, Phillips J, Floyd C
+HR -- Piazza M
+SB -- Matsui K
+T -- 3:05
+A -- 29385
+     Game of 5/26/2004 -- Philadelphia at New York (N)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Glanville D, cf       5  1  2  1   Matsui K, ss          4  1  1  0   
+Utley C, 2b           5  1  1  0   Garcia D, 2b          2  0  1  1   
+Abreu B, rf           4  2  2  0   Stanton M, p          0  0  0  0   
+Thome J, 1b           3  0  2  2   Weathers D, p         0  0  0  0   
+Burrell P, lf         3  0  0  0   Spencer S, ph-rf      1  0  1  0   
+Bell D, 3b            4  1  0  1   Floyd C, lf           4  0  0  1   
+Lieberthal M, c       3  1  1  2   Piazza M, 1b          4  0  2  2   
+Rollins J, ss         4  0  0  0   Garcia K, rf          4  0  0  0   
+Myers B, p            2  0  0  0   Zeile T, ph           1  0  0  0   
+Hernandez R, p        0  0  0  0   Looper B, p           0  0  0  0   
+Michaels J, ph        0  1  0  0   Phillips J, c         5  1  2  0   
+Madson R, p           0  0  0  0   Cameron M, cf         3  0  0  0   
+Cormier R, p          0  0  0  0   Wigginton T, 3b       5  2  2  0   
+Worrell T, p          0  0  0  0   Ginter M, p           1  0  0  0   
+                                   Valent E, ph          1  0  0  0   
+                                   Bottalico R, p        0  0  0  0   
+                                   Franco J, p           0  0  0  0   
+                                   McEwing J, 2b         1  0  0  0   
+                                   Wilson V, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  7  8  6                        37  4  9  4
+
+Philadelphia     000 000 601 --  7
+New York         001 002 010 --  4
+
+  Philadelphia         IP  H  R ER BB SO
+Myers B               5.2  7  3  3  5  6
+Hernandez R (W)       0.1  0  0  0  1  1
+Madson R              1.2  2  1  0  0  3
+Cormier R             0.1  0  0  0  1  1
+Worrell T (S)         1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Ginter M              6.0  4  0  0  1  1
+Bottalico R           0.1  1  3  1  1  0
+Franco J (L)*         0.0  1  2  1  0  0
+Stanton M+            0.0  1  1  1  2  0
+Weathers D            1.2  0  0  0  1  0
+Looper B              1.0  1  1  1  2  0
+  * Pitched to 2 batters in 7th
+  + Pitched to 3 batters in 7th
+
+E -- Garcia D, Matsui K, Piazza M, Utley C
+DP -- New York 1
+LOB -- Philadelphia 10, New York 14
+2B -- Piazza M, Thome J 2, Wigginton T, Lieberthal M
+SB -- Matsui K, Abreu B
+SH -- Madson R
+SF -- Bell D, Lieberthal M
+HBP -- by Ginter M (Lieberthal M), by Worrell T (Cameron M)
+T -- 3:22
+A -- 20349
+     Game of 6/3/2004 -- Florida at New York (N)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Castillo L, 2b        4  0  1  0   Matsui K, ss          3  0  0  0   
+Pierre J, cf          4  0  0  0   Zeile T, 3b-1b        4  0  0  0   
+Lowell M, 3b          2  0  0  0   Floyd C, lf           4  0  2  0   
+Cabrera M, rf         4  0  1  0   Piazza M, 1b          3  1  0  0   
+Conine J, lf          4  0  0  0   Looper B, p           0  0  0  0   
+Choi H, 1b            3  1  1  0   Phillips J, c         4  1  1  0   
+Easley D, ss          3  0  0  0   Garcia K, rf          3  1  2  0   
+Redmond M, c          3  0  0  1   Stanton M, p          0  0  0  0   
+Burnett A, p          1  0  0  0   McEwing J, 2b         0  0  0  0   
+Willis D, ph          1  0  0  0   Wigginton T, 2b-3b    3  1  2  2   
+Wayne J, p            0  0  0  0   Cameron M, cf         3  0  1  2   
+Bump N, p             0  0  0  0   Seo J, p              2  0  0  0   
+Mordecai M, ph        1  0  0  0   Spencer S, rf         1  0  0  0   
+Oliver D, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  3  1                        30  4  8  4
+
+Florida          000 010 000 --  1
+New York         020 002 00x --  4
+
+  Florida              IP  H  R ER BB SO
+Burnett A (L)         4.0  5  2  2  0  4
+Wayne J               1.1  3  2  2  2  1
+Bump N                1.2  0  0  0  0  0
+Oliver D              1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Seo J (W)             6.0  3  1  1  2  4
+Stanton M             2.0  0  0  0  0  0
+Looper B (S)          1.0  0  0  0  0  1
+
+E -- Floyd C
+DP -- Florida 1
+LOB -- Florida 4, New York 4
+2B -- Cameron M, Choi H
+3B -- Wigginton T
+SB -- Floyd C, Cameron M
+CS -- Floyd C
+T -- 2:32
+A -- 20832
+     Game of 6/4/2004 -- Florida at New York (N)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Pierre J, cf          5  0  1  0   Matsui K, ss          4  0  2  0   
+Castillo L, 2b        5  1  1  0   Zeile T, 3b           4  0  0  0   
+Lowell M, 3b          3  1  0  0   Floyd C, lf           4  1  1  1   
+Cabrera M, rf         3  2  3  1   Piazza M, 1b          4  0  1  0   
+Choi H, 1b            3  0  0  1   Phillips J, c         4  0  1  0   
+Easley D, ss          3  1  2  1   Garcia K, rf          3  0  0  0   
+Redmond M, c          2  0  1  1   Wigginton T, 2b       3  0  0  0   
+Nunez A, lf           4  0  1  1   Cameron M, cf         3  0  1  0   
+Pavano C, p           3  0  0  0   Trachsel S, p         2  0  0  0   
+Benitez A, p          0  0  0  0   Moreno O, p           0  0  0  0   
+                                   Bottalico R, p        0  0  0  0   
+                                   Valent E, ph          1  0  0  0   
+                                   Franco J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  5  9  5                        32  1  6  1
+
+Florida          000 103 001 --  5
+New York         100 000 000 --  1
+
+  Florida              IP  H  R ER BB SO
+Pavano C (W)          7.2  6  1  1  0  3
+Benitez A (S)         1.1  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Trachsel S (L)        5.1  7  4  4  4  0
+Moreno O              1.2  0  0  0  1  1
+Bottalico R           1.0  1  0  0  0  1
+Franco J              1.0  1  1  1  1  1
+
+DP -- Florida 1, New York 1
+LOB -- Florida 9, New York 4
+2B -- Cabrera M 2, Easley D
+HR -- Floyd C
+SB -- Matsui K, Castillo L
+SH -- Pavano C
+SF -- Redmond M, Choi H, Cabrera M
+T -- 2:44
+A -- 23266
+     Game of 6/5/2004 -- Florida at New York (D)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Pierre J, cf          5  0  1  0   Matsui K, ss          5  1  1  1   
+Castillo L, 2b        5  2  2  0   Zeile T, 3b           5  0  3  1   
+Lowell M, 3b          5  0  2  1   Floyd C, lf           5  0  0  0   
+Cabrera M, rf         5  1  1  0   Piazza M, 1b          5  2  2  2   
+Choi H, 1b            3  1  2  0   Spencer S, rf         4  1  1  0   
+Conine J, lf          3  0  1  2   Wigginton T, 2b       4  1  3  0   
+Gonzalez A, ss        4  1  2  1   Cameron M, cf         3  0  1  0   
+Treanor M, c          4  1  1  0   Wilson V, c           3  1  1  2   
+Phelps T, p           1  0  0  0   Ginter M, p           1  0  0  0   
+Willis D, ph          1  0  1  0   Valent E, ph          1  0  0  0   
+Howard B, p           0  0  0  0   Bottalico R, p        0  0  0  0   
+Harris L, ph          0  0  0  0   Stanton M, p          0  0  0  0   
+Easley D, ph          1  1  1  3   Garcia K, ph          0  0  0  0   
+Borland T, p          0  0  0  0   Phillips J, ph        1  0  0  0   
+Perisho M, p          0  0  0  0   Weathers D, p         0  0  0  0   
+Mordecai M, ph        1  0  0  0   Franco J, p           0  0  0  0   
+Benitez A, p          0  0  0  0   Wheeler D, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 14  7                        37  6 12  6
+
+Florida          200 000 311 --  7
+New York         010 013 001 --  6
+
+  Florida              IP  H  R ER BB SO
+Phelps T              4.0  5  1  1  2  5
+Howard B              2.0  5  4  4  0  4
+Borland T             0.2  1  0  0  2  0
+Perisho M (W)         1.1  0  0  0  0  2
+Benitez A (S)         1.0  1  1  1  0  1
+
+  New York             IP  H  R ER BB SO
+Ginter M              6.0  6  2  2  1  3
+Bottalico R           0.1  2  2  2  0  0
+Stanton M             0.2  1  1  1  0  1
+Weathers D (L)        1.1  3  1  1  1  0
+Franco J              0.1  1  1  1  0  0
+Wheeler D             0.1  1  0  0  0  0
+
+E -- Treanor M, Zeile T
+DP -- New York 2
+LOB -- Florida 6, New York 10
+2B -- Zeile T, Wilson V, Lowell M
+3B -- Castillo L
+HR -- Piazza M 2, Easley D
+SB -- Conine J, Matsui K
+CS -- Pierre J
+SH -- Ginter M
+SF -- Wilson V
+T -- 3:15
+A -- 24803
+     Game of 6/6/2004 -- Florida at New York (D)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Pierre J, cf          5  0  2  1   Matsui K, ss          4  0  0  0   
+Castillo L, 2b        4  0  1  0   Zeile T, 3b-1b        4  1  1  0   
+Lowell M, 3b          5  0  2  1   Spencer S, lf-rf      4  2  2  0   
+Cabrera M, rf         5  0  1  0   Piazza M, 1b          4  2  2  4   
+Conine J, lf          2  0  0  0   Valent E, lf          0  0  0  0   
+Easley D, 1b          2  0  0  0   Phillips J, c         4  0  1  0   
+Oliver D, p           0  0  0  0   Garcia K, rf          3  0  2  1   
+Harris L, ph          1  0  1  0   Weathers D, p         0  0  0  0   
+Bump N, p             0  0  0  0   Garcia D, ph          1  0  1  0   
+Mordecai M, ph        1  0  0  0   Looper B, p           0  0  0  0   
+Gonzalez A, ss        3  0  0  0   Wigginton T, 2b-3b    3  0  0  0   
+Redmond M, c          4  1  1  0   Cameron M, cf         4  0  0  0   
+Penny B, p            2  0  0  0   Leiter A, p           2  0  1  0   
+Choi H, 1b            2  1  2  0   McEwing J, lf-2b      1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  2 10  2                        34  5 10  5
+
+Florida          000 000 002 --  2
+New York         300 020 00x --  5
+
+  Florida              IP  H  R ER BB SO
+Penny B (L)           5.0  8  5  3  1  4
+Oliver D              2.0  0  0  0  0  1
+Bump N                1.0  2  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Leiter A (W)          5.2  2  0  0  6  5
+Weathers D            2.1  3  0  0  0  1
+Looper B              1.0  5  2  2  0  1
+
+E -- Lowell M
+DP -- Florida 1, New York 1
+LOB -- Florida 13, New York 6
+2B -- Piazza M, Spencer S, Choi H
+HR -- Piazza M
+SB -- Garcia K 2, Conine J
+CS -- Pierre J
+WP -- Leiter A
+T -- 2:52
+A -- 25835
+     Game of 6/15/2004 -- Cleveland at New York (N)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Lawton M, lf          4  0  3  0   Matsui K, ss          4  0  1  0   
+Vizquel O, ss         4  0  2  0   Zeile T, 3b-1b        5  1  1  0   
+Gerut J, rf           3  0  0  0   Piazza M, 1b          4  2  3  0   
+Tadano K, p           0  0  0  0   McEwing J, pr-2b      1  0  0  0   
+Merloni L, ph         1  0  0  0   Floyd C, lf           3  2  2  1   
+Betancourt R, p       0  0  0  0   Wigginton T, 2b-3b    4  1  3  2   
+Martinez V, c         3  1  1  0   Garcia K, rf          3  1  1  2   
+Hafner T, 1b          4  0  2  0   Cameron M, cf         4  0  1  2   
+Blake C, 3b           3  1  1  1   Wilson V, c           2  0  1  0   
+Belliard R, 2b        4  0  0  0   Phillips J, c         2  0  1  0   
+Crisp C, cf           4  0  1  1   Trachsel S, p         2  0  0  0   
+Davis J, p            2  0  0  0   Weathers D, p         0  0  0  0   
+White R, p            0  0  0  0   Glavine T, ph         1  0  0  0   
+Gonzalez R, rf        1  0  0  0   Franco J, p           0  0  0  0   
+                                   Looper B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2 10  2                        35  7 14  7
+
+Cleveland        000 100 100 --  2
+New York         300 040 00x --  7
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (L)*          4.0 11  7  7  3  4
+White R               1.0  1  0  0  0  0
+Tadano K              2.0  2  0  0  0  0
+Betancourt R          1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        6.2  8  2  2  1  5
+Weathers D            0.1  0  0  0  0  1
+Franco J              1.0  2  0  0  0  1
+Looper B              1.0  0  0  0  0  3
+  * Pitched to 4 batters in 5th
+
+E -- Crisp C
+DP -- Cleveland 1, New York 1
+LOB -- Cleveland 6, New York 8
+2B -- Wilson V, Wigginton T, Blake C, Martinez V
+HR -- Garcia K
+SB -- Floyd C
+CS -- Lawton M 2
+SH -- Trachsel S
+SF -- Blake C
+WP -- Davis J
+Balk -- Trachsel S 2
+T -- 3:03
+A -- 22783
+     Game of 6/16/2004 -- Cleveland at New York (N)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Lawton M, lf          4  0  1  0   Williams G, rf        3  0  0  0   
+McDonald J, 2b        0  0  0  0   Matsui K, ss          4  1  2  0   
+Vizquel O, ss         5  1  2  2   Piazza M, 1b          4  0  1  0   
+Hafner T, 1b          3  1  0  0   Floyd C, lf           3  0  0  1   
+Broussard B, 1b       1  1  1  0   Zeile T, 3b           4  0  0  0   
+Martinez V, c         5  1  2  2   Wigginton T, 2b       4  0  0  0   
+Blake C, 3b           5  2  2  2   Phillips J, c         3  0  2  0   
+Gerut J, rf           5  2  2  0   Cameron M, cf         3  0  1  0   
+Belliard R, 2b        5  0  1  0   Ginter M, p           2  0  0  0   
+White R, p            0  0  0  0   Stanton M, p          0  0  0  0   
+Crisp C, cf           4  1  2  1   Wilson T, ph          1  0  0  0   
+Sabathia C, p         4  0  1  0   Bottalico R, p        0  0  0  0   
+Gonzalez R, ph-lf     1  0  0  0   Yates T, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42  9 14  7                        31  1  6  1
+
+Cleveland        100 103 004 --  9
+New York         000 100 000 --  1
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        8.0  6  1  1  1  3
+White R               1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Ginter M (L)          5.1  7  5  3  1  3
+Stanton M             1.2  1  0  0  1  2
+Bottalico R           1.0  1  0  0  0  1
+Yates T               1.0  5  4  4  0  1
+
+E -- Wigginton T, Piazza M, Ginter M
+DP -- Cleveland 1, New York 1
+LOB -- Cleveland 9, New York 5
+2B -- Martinez V 2, Gerut J, Matsui K, Cameron M, Blake C, Crisp C
+HR -- Blake C
+SB -- Williams G, Vizquel O
+SF -- Floyd C
+HBP -- by Ginter M (Hafner T)
+WP -- Ginter M, Yates T
+T -- 2:48
+A -- 29512
+     Game of 6/17/2004 -- Cleveland at New York (N)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Lawton M, lf          4  1  1  0   Matsui K, ss          4  1  2  2   
+Vizquel O, ss         4  0  0  1   Zeile T, 3b           3  0  0  0   
+Hafner T, 1b          4  0  2  1   Piazza M, c           4  0  0  0   
+Martinez V, c         4  0  0  0   Stanton M, p          0  0  0  0   
+Blake C, 3b           4  0  0  0   Looper B, p           0  0  0  0   
+Gerut J, rf           2  0  1  0   Floyd C, lf           3  0  1  0   
+Belliard R, 2b        3  0  0  0   Williams G, pr-lf     0  1  0  0   
+Riske D, p            0  0  0  0   Wigginton T, 2b       4  0  1  1   
+Crisp C, cf           3  0  1  0   Garcia K, rf          4  0  1  1   
+Elarton S, p          1  0  0  0   Cameron M, cf         4  2  1  1   
+White R, p            0  0  0  0   Valent E, 1b          3  1  0  0   
+Gonzalez R, ph        1  0  0  0   Seo J, p              1  0  1  0   
+Betancourt R, p       0  0  0  0   Bottalico R, p        1  0  0  0   
+Bartosh C, p          0  0  0  0   Franco J, p           0  0  0  0   
+Miller M, p           0  0  0  0   McEwing J, ph         1  1  1  0   
+Merloni L, 2b         1  1  0  0   Phillips J, c         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        32  6  8  5
+
+Cleveland        000 000 002 --  2
+New York         000 011 31x --  6
+
+  Cleveland            IP  H  R ER BB SO
+Elarton S             4.0  1  0  0  1  4
+White R (L)           1.0  1  1  1  0  0
+Betancourt R          0.1  1  1  1  1  1
+Bartosh C             0.1  0  0  0  0  1
+Miller M              1.1  3  3  1  1  0
+Riske D               1.0  2  1  1  0  1
+
+  New York             IP  H  R ER BB SO
+Seo J                 4.0  2  0  0  0  6
+Bottalico R (W)       1.1  0  0  0  1  2
+Franco J              1.2  0  0  0  0  1
+Stanton M             1.0  1  0  0  0  1
+Looper B              1.0  2  2  1  0  0
+
+E -- Blake C, Zeile T
+DP -- Cleveland 1, New York 2
+LOB -- Cleveland 3, New York 5
+2B -- Hafner T 2, Floyd C, Lawton M
+HR -- Cameron M
+SB -- Gerut J, Matsui K, Cameron M
+T -- 2:36
+A -- 17675
+     Game of 6/18/2004 -- Detroit at New York (N)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Sanchez A, cf         4  0  0  0   Matsui K, ss          4  0  0  0   
+Inge B, 3b            3  1  1  0   Zeile T, 3b           3  0  1  0   
+Guillen C, ph-ss      1  0  0  0   Piazza M, c           4  0  2  0   
+Rodriguez I, c        4  0  2  0   Spencer S, lf         3  0  0  0   
+Young D, 1b           3  1  2  1   Floyd C, ph           1  0  0  0   
+White R, lf           4  0  1  1   Looper B, p           0  0  0  0   
+Monroe C, rf          4  0  1  0   Hidalgo R, rf         4  0  0  0   
+Levine A, p           0  0  0  0   Wigginton T, 2b       4  1  1  0   
+Walker J, p           0  0  0  0   Cameron M, cf         4  2  2  1   
+Patterson D, p        0  0  0  0   Phillips J, 1b        3  0  0  0   
+Infante O, 2b         2  0  1  0   Glavine T, p          2  0  1  2   
+Smith J, ss-3b        3  0  0  0   Bottalico R, p        0  0  0  0   
+Robertson N, p        3  0  0  0   Williams G, ph-lf     1  0  0  0   
+Higginson B, rf       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  8  2                        33  3  7  3
+
+Detroit          100 100 000 --  2
+New York         000 020 001 --  3
+  2 outs when winning run was scored.
+
+  Detroit              IP  H  R ER BB SO
+Robertson N           7.2  4  2  2  1  6
+Levine A*             0.0  2  0  0  0  0
+Walker J              0.1  0  0  0  0  1
+Patterson D (L)       0.2  1  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Glavine T             7.0  7  2  2  3  4
+Bottalico R           1.0  0  0  0  0  1
+Looper B (W)          1.0  1  0  0  0  0
+  * Pitched to 2 batters in 8th
+
+E -- Wigginton T
+DP -- New York 1
+LOB -- Detroit 9, New York 5
+2B -- White R
+HR -- Young D, Cameron M
+SB -- Infante O
+SH -- Smith J, Sanchez A
+HBP -- by Bottalico R (Young D)
+T -- 2:39
+A -- 36141
+     Game of 6/19/2004 -- Detroit at New York (N)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Sanchez A, cf         5  1  1  1   Matsui K, ss          4  0  0  0   
+Inge B, 3b            4  1  1  0   Reyes J, 2b           5  1  1  1   
+Rodriguez I, c        4  0  2  0   Wigginton T, 3b       4  1  0  0   
+White R, lf           4  0  2  0   Floyd C, lf           4  1  2  1   
+Monroe C, lf          0  0  0  0   Hidalgo R, rf         3  0  0  0   
+Guillen C, ss         5  0  1  2   Franco J, p           0  0  0  0   
+Higginson B, rf       4  0  0  0   Piazza M, ph          1  0  0  0   
+Pena C, 1b            4  1  1  0   Looper B, p           0  0  0  0   
+Infante O, 2b         4  0  1  0   Spencer S, ph         1  0  0  0   
+Johnson J, p          3  0  0  0   Cameron M, cf         5  0  2  1   
+Yan E, p              0  0  0  0   Phillips J, c         4  0  2  0   
+Young D, ph           1  0  0  0   Valent E, 1b          4  0  1  0   
+Dingman C, p          0  0  0  0   Leiter A, p           2  0  0  0   
+Patterson D, p        0  0  0  0   Parra J, p            0  0  0  0   
+                                   Garcia K, rf          2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  3  9  3                        39  4  9  3
+
+Detroit          200 000 010 0 --  3
+New York         010 000 020 1 --  4
+  2 outs when winning run was scored.
+
+  Detroit              IP  H  R ER BB SO
+Johnson J             7.2  5  3  1  1  6
+Yan E                 1.1  2  0  0  0  0
+Dingman C (L)         0.1  1  1  1  2  0
+Patterson D           0.1  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Leiter A              6.0  6  2  2  4  4
+Parra J               0.1  2  0  0  0  0
+Franco J              1.2  1  1  1  1  2
+Looper B (W)          2.0  0  0  0  0  3
+
+E -- Rodriguez I, Infante O
+DP -- Detroit 1
+LOB -- Detroit 12, New York 9
+2B -- Guillen C, Valent E, Garcia K
+3B -- Reyes J
+SB -- Inge B, Rodriguez I
+SH -- Johnson J
+HBP -- by Looper B (White R)
+WP -- Johnson J
+T -- 3:26
+A -- 36925
+     Game of 6/20/2004 -- Detroit at New York (D)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Sanchez A, cf         5  0  1  0   Matsui K, ss          4  0  0  0   
+Higginson B, rf       5  0  0  0   Reyes J, 2b           3  1  0  0   
+Rodriguez I, c        2  1  1  0   Piazza M, c           4  1  1  1   
+Guillen C, ss         4  0  2  0   Phillips J, c         0  0  0  0   
+Pena C, 1b            2  0  0  0   Floyd C, lf           4  0  1  0   
+Monroe C, lf          4  0  1  0   Williams G, pr-lf     0  0  0  0   
+Munson E, 3b          4  0  0  0   Hidalgo R, rf         4  2  2  2   
+Infante O, 2b         3  0  0  0   Cameron M, cf         2  1  0  0   
+Bonderman J, p        2  0  0  0   Wigginton T, 3b       3  1  2  1   
+Young D, ph           1  0  0  0   Stanton M, p          0  0  0  0   
+Levine A, p           0  0  0  0   Garcia K, ph          1  0  0  0   
+German F, p           0  0  0  0   Bottalico R, p        0  0  0  0   
+Smith J, ph           1  0  0  0   Valent E, 1b          4  0  1  2   
+                                   Trachsel S, p         1  0  0  0   
+                                   Zeile T, 3b           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  5  0                        30  6  7  6
+
+Detroit          000 010 000 --  1
+New York         000 401 01x --  6
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (L)       5.0  3  4  4  3  7
+Levine A*             2.0  4  2  2  1  1
+German F              1.0  0  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        6.0  4  1  1  5  4
+Stanton M             2.0  1  0  0  0  2
+Bottalico R           1.0  0  0  0  0  0
+  * Pitched to 2 batters in 8th
+
+E -- Matsui K
+LOB -- Detroit 10, New York 5
+2B -- Valent E, Guillen C, Wigginton T
+HR -- Hidalgo R, Piazza M
+SB -- Sanchez A
+WP -- Trachsel S, German F
+T -- 3:00
+A -- 39446
+     Game of 6/22/2004 -- Cincinnati at New York (N)
+
+  Cincinnati         AB  R  H RBI    New York           AB  R  H RBI
+Freel R, 2b           4  0  1  0   Matsui K, ss          4  0  0  0   
+Jimenez D, ss         4  1  1  0   Reyes J, 2b           4  0  0  0   
+Hummel T, ph          0  0  0  0   Piazza M, c           4  1  2  1   
+Riedling J, p         0  0  0  0   Williams G, pr-lf     0  0  0  0   
+Casey S, 1b           5  0  0  0   Floyd C, lf           4  2  2  1   
+Griffey K, cf         5  1  1  0   Phillips J, c         0  0  0  0   
+Dunn A, lf            4  2  2  2   Hidalgo R, rf         4  1  1  0   
+LaRue J, c            5  0  3  1   Cameron M, cf         3  3  3  1   
+Clark J, rf           3  0  1  1   Wigginton T, 3b       4  0  1  0   
+Pena W, ph-rf         1  0  0  0   Valent E, 1b          2  0  0  2   
+Larson B, 3b          3  0  1  0   Stanton M, p          0  0  0  0   
+Wilson P, p           2  0  0  0   McEwing J, ph         1  0  0  1   
+Norton P, p           0  0  0  0   Looper B, p           0  0  0  0   
+Castro J, ph-ss       1  0  0  0   Ginter M, p           1  0  1  0   
+                                   Spencer S, ph         1  0  1  1   
+                                   Franco J, p           0  0  0  0   
+                                   Zeile T, ph-1b        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4 10  4                        34  7 11  7
+
+Cincinnati       013 000 000 --  4
+New York         010 311 01x --  7
+
+  Cincinnati           IP  H  R ER BB SO
+Wilson P (L)          6.2  9  6  6  1  9
+Norton P              0.1  0  0  0  0  1
+Riedling J            1.0  2  1  1  0  2
+
+  New York             IP  H  R ER BB SO
+Ginter M              4.0  9  4  4  2  4
+Franco J (W)          2.0  0  0  0  1  0
+Stanton M             2.0  1  0  0  0  2
+Looper B (S)          1.0  0  0  0  0  3
+
+E -- Hidalgo R
+LOB -- Cincinnati 11, New York 5
+2B -- Dunn A, Clark J, Ginter M, Cameron M, LaRue J, Piazza M
+3B -- Cameron M
+HR -- Dunn A, Floyd C, Piazza M
+SB -- Freel R, Larson B
+SH -- Wilson P
+SF -- Valent E
+HBP -- by Stanton M (Hummel T)
+T -- 2:52
+A -- 19301
+     Game of 6/23/2004 -- Cincinnati at New York (N)
+
+  Cincinnati         AB  R  H RBI    New York           AB  R  H RBI
+Jimenez D, 2b         6  1  2  1   Matsui K, ss          6  0  2  0   
+Castro J, ss          6  2  2  0   Reyes J, 2b           5  2  1  1   
+Casey S, 1b           6  2  5  4   Piazza M, c           5  1  3  1   
+Griffey K, cf         5  0  0  0   Floyd C, lf           5  0  1  1   
+Dunn A, lf            5  0  0  0   Hidalgo R, rf         5  0  2  1   
+LaRue J, c            5  0  0  0   Cameron M, cf         5  0  0  0   
+Pena W, rf            5  1  2  1   Wigginton T, 3b       4  0  2  0   
+Matthews M, p         0  0  0  0   Valent E, 1b          2  1  1  0   
+Graves D, p           0  0  0  0   Zeile T, ph-1b        2  0  0  0   
+Hummel T, 3b          5  0  2  0   McEwing J, pr-1b      1  0  0  0   
+Van Poppel T, p       2  0  0  0   Seo J, p              0  0  0  0   
+White G, p            0  0  0  0   Williams G, ph        1  0  0  0   
+Clark J, ph           1  0  0  0   Parra J, p            0  0  0  0   
+Jones T, p            0  0  0  0   Spencer S, ph         1  0  0  0   
+Cruz J, ph            1  0  1  0   Stanton M, p          0  0  0  0   
+Riedling J, p         0  0  0  0   Bottalico R, p        0  0  0  0   
+Freel R, rf           1  0  0  0   Phillips J, ph        1  0  1  0   
+                                   Looper B, p           0  0  0  0   
+                                   Trachsel S, ph        1  0  0  0   
+                                   Franco J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     48  6 14  6                        44  4 13  4
+
+Cincinnati       220 000 000 002 --  6
+New York         002 010 010 000 --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Van Poppel T          5.0  8  3  3  1  1
+White G               1.0  0  0  0  0  1
+Jones T               2.0  2  1  1  0  0
+Riedling J            2.0  2  0  0  1  2
+Matthews M (W)        1.0  0  0  0  1  0
+Graves D (S)          1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Seo J                 5.0  8  4  4  1  1
+Parra J               2.0  1  0  0  0  1
+Stanton M             0.2  1  0  0  0  1
+Bottalico R           1.1  2  0  0  0  2
+Looper B              2.0  0  0  0  0  3
+Franco J (L)          1.0  2  2  2  0  0
+
+E -- LaRue J
+DP -- Cincinnati 2, New York 1
+LOB -- Cincinnati 7, New York 8
+2B -- Hidalgo R, Reyes J, Piazza M, Castro J
+HR -- Casey S 2, Pena W, Jimenez D
+CS -- Hidalgo R
+SH -- Seo J
+T -- 3:43
+A -- 32423
+     Game of 6/24/2004 -- Cincinnati at New York (D)
+
+  Cincinnati         AB  R  H RBI    New York           AB  R  H RBI
+Freel R, 2b           5  1  1  1   Reyes J, 2b           4  1  1  2   
+Castro J, ss-3b       4  1  3  1   Cameron M, cf         4  0  0  0   
+Casey S, 1b           3  1  1  0   Piazza M, 1b          4  0  3  0   
+Lopez F, ss           1  0  0  0   Floyd C, lf           4  0  3  0   
+Griffey K, cf         5  1  0  0   Hidalgo R, rf         4  0  0  0   
+Dunn A, lf            4  0  2  1   Wigginton T, 3b       3  0  0  0   
+Pena W, rf            4  0  0  0   Stanton M, p          0  0  0  0   
+Hummel T, 3b-1b       4  1  2  0   Wheeler D, p          0  0  0  0   
+Valentin J, c         4  1  2  0   Valent E, ph          1  0  0  0   
+Lidle C, p            3  0  0  0   Parra J, p            0  0  0  0   
+Graves D, p           0  0  0  0   Phillips J, c         4  0  1  0   
+                                   McEwing J, ss         4  1  1  0   
+                                   Glavine T, p          1  0  0  0   
+                                   Bottalico R, p        0  0  0  0   
+                                   Zeile T, 3b           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 11  3                        35  2  9  2
+
+Cincinnati       100 000 500 --  6
+New York         000 020 000 --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Lidle C (W)           8.0  9  2  2  0  8
+Graves D              1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Glavine T (L)         6.1  9  3  2  0  5
+Bottalico R           0.1  0  1  0  1  0
+Stanton M             0.1  1  2  0  1  0
+Wheeler D             1.0  1  0  0  0  2
+Parra J               1.0  0  0  0  0  2
+
+E -- Cameron M, Castro J
+DP -- Cincinnati 1, New York 1
+LOB -- Cincinnati 7, New York 7
+2B -- Floyd C, Castro J
+HR -- Reyes J
+SB -- Freel R
+SH -- Glavine T, Lidle C
+T -- 2:54
+A -- 23827
+     Game of 7/2/2004 -- New York at New York (N)
+
+  New York           AB  R  H RBI    New York           AB  R  H RBI
+Williams B, cf        3  0  0  0   Reyes J, 2b           5  1  1  0   
+Prinz B, p            0  0  0  0   Matsui K, ss          5  2  2  5   
+Wilson E, ph-ss       1  0  0  0   Piazza M, c           4  2  2  0   
+Jeter D, ss           1  1  0  0   Moreno O, p           0  0  0  0   
+Crosby B, ph-rf       1  0  0  0   Floyd C, lf           3  1  1  0   
+Sheffield G, rf       3  0  0  0   McEwing J, cf         0  0  0  0   
+Sierra R, ph-lf       1  0  1  0   Hidalgo R, rf         4  1  3  3   
+Rodriguez A, 3b       2  0  0  1   Spencer S, cf-lf      4  1  1  0   
+Matsui H, lf          4  0  0  0   Wigginton T, 3b       4  1  1  1   
+Quantrill P, p        0  0  0  0   Valent E, 1b          4  1  2  1   
+Posada J, c           4  0  1  0   Parra J, p            0  0  0  0   
+Clark T, 1b           4  0  0  0   Phillips J, c         0  0  0  0   
+Cairo M, 2b           4  0  1  0   Trachsel S, p         2  1  1  0   
+Mussina M, p          1  0  0  0   Zeile T, ph-1b        1  0  0  0   
+Lofton K, ph-cf       2  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  1                        36 11 14 10
+
+New York         000 002 000 --  2
+New York         230 022 20x -- 11
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         5.0  9  7  5  1  3
+Prinz B               2.0  5  4  4  1  3
+Quantrill P           1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        7.0  3  2  0  2  4
+Parra J               1.0  1  0  0  1  2
+Moreno O              1.0  0  0  0  0  1
+
+E -- Matsui H, Piazza M, Wigginton T
+DP -- New York 1
+LOB -- New York 6, New York 4
+2B -- Hidalgo R, Wigginton T
+3B -- Valent E
+HR -- Matsui K 2, Hidalgo R
+SB -- Jeter D
+SH -- Trachsel S
+SF -- Rodriguez A
+T -- 2:51
+A -- 55068
+     Game of 7/3/2004 -- New York at New York (D)
+
+  New York           AB  R  H RBI    New York           AB  R  H RBI
+Cairo M, 2b           3  1  2  2   Reyes J, 2b           5  1  1  0   
+Jeter D, ss           5  1  2  0   Matsui K, ss          4  4  3  0   
+Sheffield G, rf       5  0  2  0   Piazza M, 1b          5  0  1  1   
+Rodriguez A, 3b       5  0  0  1   Floyd C, lf           3  2  1  3   
+Matsui H, lf          3  1  1  1   Hidalgo R, rf         3  1  1  1   
+Gordon T, p           0  0  0  0   Spencer S, cf         4  1  2  3   
+Giambi J, ph          1  0  1  0   Phillips J, c         4  0  0  0   
+Lofton K, pr-cf       0  0  0  0   Bottalico R, p        0  0  0  0   
+Williams B, cf        2  2  0  0   Franco J, p           0  0  0  0   
+Sturtze T, p          0  0  0  0   Wigginton T, 3b       4  1  2  2   
+Clark T, 1b           5  3  4  3   Ginter M, p           1  0  0  0   
+Flaherty J, c         3  1  0  0   Wheeler D, p          1  0  0  0   
+Posada J, ph-c        1  0  0  0   Valent E, ph          1  0  0  0   
+Contreras J, p        3  0  0  0   Parra J, p            0  0  0  0   
+Quantrill P, p        0  0  0  0   Stanton M, p          0  0  0  0   
+Heredia F, p          0  0  0  0   Wilson T, c           1  0  0  0   
+Crosby B, lf          0  0  0  0                                      
+Sierra R, ph-lf       0  0  0  1                                      
+                     -- -- -- --                        -- -- -- --
+                     36  9 12  8                        36 10 11 10
+
+New York         210 302 010 --  9
+New York         103 201 201 -- 10
+  1 out when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Contreras J*          5.0  8  7  7  1  4
+Quantrill P           1.2  2  1  1  0  0
+Heredia F+            0.0  0  1  1  0  0
+Gordon T              1.1  1  0  0  1  1
+Sturtze T (L)         0.1  0  1  1  2  0
+
+  New York             IP  H  R ER BB SO
+Ginter M              3.2  6  6  3  2  3
+Wheeler D             2.1  2  2  2  1  2
+Parra J               1.0  2  0  0  0  0
+Stanton M             0.1  0  1  0  1  0
+Bottalico R           1.1  0  0  0  1  0
+Franco J (W)          0.1  2  0  0  1  1
+  * Pitched to 1 batter in 6th
+  + Pitched to 1 batter in 7th
+
+E -- Ginter M, Wigginton T
+DP -- New York 1, New York 2
+LOB -- New York 8, New York 7
+2B -- Matsui K, Clark T, Cairo M, Spencer S 2, Jeter D, Giambi J
+HR -- Clark T 2, Floyd C, Wigginton T, Hidalgo R
+CS -- Cairo M
+SH -- Flaherty J
+SF -- Sierra R
+HBP -- by Heredia F (Floyd C), by Sturtze T (Hidalgo R)
+T -- 3:45
+A -- 55120
+     Game of 7/4/2004 -- New York at New York (D)
+
+  New York           AB  R  H RBI    New York           AB  R  H RBI
+Williams B, cf        5  1  4  3   Matsui K, ss          3  1  1  0   
+Jeter D, ss           5  0  3  1   Zeile T, 3b-1b        4  0  1  0   
+Sheffield G, rf       5  0  2  0   Piazza M, 1b          3  0  0  1   
+Rodriguez A, 3b       4  0  0  0   McEwing J, pr-cf      0  0  0  0   
+Matsui H, lf          3  1  2  0   Floyd C, lf           5  0  0  0   
+Posada J, c           4  0  1  1   Looper B, p           0  0  0  0   
+Clark T, 1b           4  0  0  0   Hidalgo R, rf         2  2  2  1   
+Cairo M, 2b           4  2  3  0   Spencer S, cf-lf      4  0  0  0   
+Vazquez J, p          1  0  0  0   Phillips J, c         2  1  1  1   
+Prinz B, p            0  0  0  0   Wigginton T, 2b-3b    4  2  3  3   
+Lofton K, ph          1  1  1  0   Seo J, p              3  0  0  0   
+Heredia F, p          0  0  0  0   Stanton M, p          0  0  0  0   
+Giambi J, ph          1  0  0  0   Bottalico R, p        0  0  0  0   
+Gordon T, p           0  0  0  0   Moreno O, p           0  0  0  0   
+                                   Valent E, ph          0  0  0  0   
+                                   Reyes J, 2b           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 16  5                        30  6  8  6
+
+New York         001 010 210 --  5
+New York         121 000 11x --  6
+
+  New York             IP  H  R ER BB SO
+Vazquez J             5.0  6  4  3  5  5
+Prinz B               1.0  0  0  0  0  1
+Heredia F             1.0  1  1  1  0  1
+Gordon T (L)          1.0  1  1  1  2  1
+
+  New York             IP  H  R ER BB SO
+Seo J                 5.2  8  2  2  2  2
+Stanton M             0.2  3  2  2  0  0
+Bottalico R           0.2  1  0  0  0  0
+Moreno O (W)          1.0  3  1  1  0  2
+Looper B (S)          1.0  1  0  0  0  0
+
+E -- Matsui K, Rodriguez A
+DP -- New York 1, New York 3
+LOB -- New York 8, New York 10
+2B -- Matsui H
+HR -- Wigginton T 2, Williams B, Hidalgo R
+SB -- Matsui K
+CS -- Williams B
+SH -- Vazquez J
+SF -- Piazza M, Phillips J
+HBP -- by Vazquez J (Hidalgo R)
+PB -- Phillips J
+T -- 3:27
+A -- 55437
+     Game of 7/15/2004 -- Philadelphia at New York (N)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Rollins J, ss         5  0  0  0   Reyes J, 2b           5  1  1  0   
+Polanco P, 2b         5  1  1  0   Matsui K, ss          5  0  2  1   
+Abreu B, rf           4  1  1  2   Piazza M, c           4  0  0  0   
+Thome J, 1b           5  0  1  0   Wilson V, pr          0  1  0  0   
+Burrell P, lf         4  0  0  0   Hidalgo R, rf         4  0  0  0   
+Ledee R, cf           4  0  0  0   Floyd C, lf           4  0  1  0   
+Bell D, 3b            4  0  1  0   Spencer S, 1b         4  0  0  0   
+Hernandez R, p        0  0  0  0   Wigginton T, 3b       5  1  2  1   
+Lieberthal M, c       5  0  2  0   Cameron M, cf         4  0  0  0   
+Milton E, p           2  0  0  0   Trachsel S, p         2  0  1  1   
+Michaels J, ph        1  0  0  0   Moreno O, p           0  0  0  0   
+Cormier R, p          0  0  0  0   Stanton M, p          0  0  0  0   
+Worrell T, p          0  0  0  0   Zeile T, ph           1  0  1  0   
+Utley C, ph           1  0  1  0   McEwing J, pr         0  0  0  0   
+Madson R, p           0  0  0  0   Looper B, p           0  0  0  0   
+Perez T, 3b           0  0  0  0   Valent E, ph          1  0  0  0   
+                                   Parra J, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  2  7  2                        39  3  8  3
+
+Philadelphia     000 002 000 00 --  2
+New York         000 110 000 01 --  3
+  1 out when winning run was scored.
+
+  Philadelphia         IP  H  R ER BB SO
+Milton E              6.0  4  2  2  0  4
+Cormier R             1.2  2  0  0  0  0
+Worrell T             0.1  0  0  0  0  0
+Madson R              2.0  0  0  0  2  1
+Hernandez R (L)       0.1  2  1  1  2  0
+
+  New York             IP  H  R ER BB SO
+Trachsel S            5.2  5  2  2  3  6
+Moreno O              1.1  0  0  0  0  0
+Stanton M             1.0  0  0  0  0  2
+Looper B              2.0  2  0  0  0  1
+Parra J (W)           1.0  0  0  0  1  2
+
+E -- Piazza M
+LOB -- Philadelphia 9, New York 9
+2B -- Reyes J, Matsui K, Lieberthal M 2
+HR -- Abreu B
+SB -- Abreu B
+WP -- Madson R
+T -- 3:52
+A -- 36803
+     Game of 7/16/2004 -- Philadelphia at New York (N)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Rollins J, ss         5  1  2  0   Reyes J, 2b           4  1  1  0   
+Polanco P, 2b         5  1  1  0   Matsui K, ss          4  0  2  1   
+Abreu B, rf           5  1  2  2   Piazza M, 1b          4  0  0  0   
+Thome J, 1b           3  1  2  3   Floyd C, lf           4  0  1  0   
+Burrell P, lf         4  0  1  0   Hidalgo R, rf         3  0  0  0   
+Ledee R, cf           3  0  1  0   Wigginton T, 3b       3  0  0  0   
+Michaels J, ph        1  0  0  0   Cameron M, cf         4  0  0  0   
+Worrell T, p          0  0  0  0   Phillips J, c         1  0  0  0   
+Wagner B, p           1  0  0  0   Valent E, ph          1  0  0  0   
+Bell D, 3b            4  0  1  0   Stanton M, p          0  0  0  0   
+Lieberthal M, c       4  0  1  0   Franco J, p           0  0  0  0   
+Millwood K, p         2  0  0  0   Bottalico R, p        0  0  0  0   
+Glanville D, cf       1  1  1  0   Spencer S, ph         1  0  0  0   
+                                   Seo J, p              1  0  0  0   
+                                   Garcia K, ph          1  0  0  0   
+                                   Wilson V, c           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  5 12  5                        31  1  4  1
+
+Philadelphia     002 000 012 --  5
+New York         000 010 000 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Millwood K (W)        7.0  3  1  1  4  6
+Worrell T             0.1  1  0  0  0  0
+Wagner B (S)          1.2  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Seo J (L)             7.0  6  2  2  2  5
+Stanton M             1.0  2  1  1  1  1
+Franco J              0.1  4  2  2  0  0
+Bottalico R           0.2  0  0  0  0  1
+
+LOB -- Philadelphia 10, New York 7
+2B -- Reyes J, Matsui K
+HR -- Thome J, Abreu B
+SB -- Rollins J 2, Hidalgo R, Floyd C
+SH -- Millwood K
+WP -- Millwood K
+T -- 3:01
+A -- 42584
+     Game of 7/17/2004 -- Philadelphia at New York (D)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Rollins J, ss         5  0  1  2   Reyes J, 2b           5  0  1  0   
+Polanco P, 2b         4  1  0  0   Matsui K, ss          5  0  2  0   
+Abreu B, rf           5  1  2  0   Piazza M, 1b          5  1  1  1   
+Thome J, 1b           5  3  3  3   Hidalgo R, rf         3  1  1  0   
+Burrell P, lf         5  0  1  0   Floyd C, lf           4  0  2  0   
+Lieberthal M, c       4  1  1  1   McEwing J, pr-lf      0  0  0  0   
+Perez T, 3b           5  1  2  1   Wigginton T, 3b       4  0  2  0   
+Glanville D, cf       4  1  1  0   Cameron M, cf         2  0  1  1   
+Wolf R, p             2  0  1  0   Phillips J, c         3  0  0  0   
+Cormier R, p          0  0  0  0   Moreno O, p           0  0  0  0   
+Ledee R, ph           1  0  0  0   Parra J, p            0  0  0  0   
+Worrell T, p          0  0  0  0   Valent E, ph          1  0  0  0   
+Utley C, ph           1  0  0  0   Glavine T, p          2  0  0  0   
+Madson R, p           0  0  0  0   Wilson V, c           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  8 12  7                        36  2 10  2
+
+Philadelphia     031 000 004 --  8
+New York         000 100 010 --  2
+
+  Philadelphia         IP  H  R ER BB SO
+Wolf R (W)            5.1  6  1  1  3  5
+Cormier R             1.2  0  0  0  0  0
+Worrell T             1.0  2  1  1  0  1
+Madson R              1.0  2  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Glavine T (L)         6.1  9  4  2  1  3
+Moreno O              1.2  0  0  0  0  2
+Parra J               1.0  3  4  3  2  1
+
+E -- Wigginton T, Matsui K 2
+DP -- Philadelphia 1
+LOB -- Philadelphia 10, New York 10
+2B -- Thome J, Rollins J, Lieberthal M, Floyd C, Perez T
+HR -- Piazza M, Thome J
+SB -- Abreu B
+SH -- Wolf R
+T -- 3:15
+A -- 35425
+     Game of 7/18/2004 -- Philadelphia at New York (D)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Rollins J, ss         3  0  0  1   Reyes J, 2b           5  0  1  0   
+Polanco P, 2b         4  0  2  0   Matsui K, ss          5  0  2  1   
+Abreu B, rf           3  0  0  0   Floyd C, lf           3  1  1  0   
+Thome J, 1b           4  0  0  0   Stanton M, p          0  0  0  0   
+Burrell P, lf         4  0  1  0   Looper B, p           1  0  0  0   
+Bell D, 3b            4  1  2  0   Hidalgo R, rf         4  1  1  0   
+Pratt T, c            3  0  1  0   Wigginton T, 3b       4  0  1  0   
+Glanville D, cf       2  0  0  0   Zeile T, 1b           3  0  2  0   
+Ledee R, ph-cf        1  0  0  0   Cameron M, cf         2  2  1  2   
+Myers B, p            1  0  0  0   Wilson V, c           4  2  3  2   
+Hernandez R, p        0  0  0  0   Leiter A, p           2  0  0  0   
+Perez T, ph           1  0  0  0   Valent E, ph          1  0  0  0   
+Geary G, p            0  0  0  0   Bottalico R, p        0  0  0  0   
+                                   Franco J, p           0  0  0  0   
+                                   Wheeler D, p          0  0  0  0   
+                                   Spencer S, lf         0  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     30  1  6  1                        34  6 12  6
+
+Philadelphia     000 000 100 --  1
+New York         000 022 02x --  6
+
+  Philadelphia         IP  H  R ER BB SO
+Myers B (L)           5.1  6  4  4  3  3
+Hernandez R           0.2  1  0  0  0  1
+Geary G               2.0  5  2  0  0  2
+
+  New York             IP  H  R ER BB SO
+Leiter A (W)          6.0  4  0  0  2  7
+Bottalico R           0.1  1  1  1  2  1
+Franco J              0.1  0  0  0  1  0
+Wheeler D             0.1  0  0  0  0  0
+Stanton M             0.2  0  0  0  0  1
+Looper B (S)          1.1  1  0  0  0  0
+
+E -- Geary G
+DP -- New York 3
+LOB -- Philadelphia 7, New York 9
+2B -- Wigginton T, Hidalgo R
+HR -- Cameron M, Wilson V
+SH -- Cameron M
+SF -- Spencer S
+T -- 3:08
+A -- 30443
+     Game of 7/19/2004 -- Florida at New York (N)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Pierre J, cf          5  1  1  0   Reyes J, 2b           4  3  3  0   
+Castillo L, 2b        4  2  2  0   Matsui K, ss          4  0  0  0   
+Lowell M, 3b          4  1  2  1   Piazza M, 1b          2  1  1  1   
+Nunez A, pr-rf        0  1  0  0   McEwing J, pr-1b      0  0  0  0   
+Cabrera M, rf         5  0  2  3   Spencer S, lf         4  1  1  3   
+Mordecai M, pr-3b     0  0  0  0   Hidalgo R, rf         3  0  2  0   
+Willingham J, c       4  0  1  0   Wigginton T, 3b       4  0  1  0   
+Treanor M, c          0  0  0  0   Cameron M, cf         4  0  1  0   
+Harris L, ph          1  0  1  1   Wilson V, c           3  0  0  0   
+Benitez A, p          0  0  0  0   Floyd C, ph           1  0  0  0   
+Choi H, 1b            4  0  1  0   Erickson S, p         2  0  0  0   
+Conine J, lf          4  0  1  0   Moreno O, p           0  0  0  0   
+Gonzalez A, ss        5  0  1  0   Franco J, p           0  0  0  0   
+Willis D, p           3  1  1  0   Zeile T, ph           1  0  0  0   
+Easley D, ph          1  0  0  0   Wheeler D, p          0  0  0  0   
+Manzanillo J, p       0  0  0  0   Stanton M, p          0  0  0  0   
+Redmond M, c          0  0  0  0   Looper B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  6 13  5                        32  5  9  4
+
+Florida          000 020 202 --  6
+New York         301 010 000 --  5
+
+  Florida              IP  H  R ER BB SO
+Willis D              7.0  8  5  4  1  5
+Manzanillo J (W)      1.0  0  0  0  1  2
+Benitez A (S)         1.0  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Erickson S            6.0  8  2  1  1  3
+Moreno O              0.2  1  2  1  1  0
+Franco J              0.1  0  0  0  0  1
+Wheeler D             0.1  0  0  0  1  1
+Stanton M             0.2  0  0  0  0  1
+Looper B (L)          1.0  4  2  2  0  2
+
+E -- Spencer S, Willingham J, Cameron M
+DP -- Florida 3
+LOB -- Florida 11, New York 3
+2B -- Reyes J 2, Conine J
+HR -- Spencer S
+SB -- Reyes J 2
+CS -- Hidalgo R
+HBP -- by Moreno O (Lowell M)
+PB -- Willingham J, Wilson V
+T -- 3:09
+A -- 23176
+     Game of 7/20/2004 -- Florida at New York (N)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Pierre J, cf          5  3  4  0   Reyes J, 2b           5  1  2  0   
+Castillo L, 2b        3  2  2  1   Matsui K, ss          4  0  1  0   
+Easley D, 2b          0  0  0  0   Piazza M, 1b          1  0  0  0   
+Lowell M, 3b          4  0  1  1   Valent E, 1b          3  1  1  1   
+Cabrera M, rf         3  1  2  3   Bottalico R, p        0  0  0  0   
+Conine J, lf          5  1  1  0   DeJean M, p           0  0  0  0   
+Choi H, 1b            4  1  1  0   Spencer S, ph         1  0  0  0   
+Gonzalez A, ss        5  1  2  3   Floyd C, lf           4  2  1  0   
+Redmond M, c          5  0  0  0   Hidalgo R, rf         4  1  1  3   
+Benitez A, p          0  0  0  0   Wigginton T, 3b       3  1  2  1   
+Bump N, p             1  0  0  0   Cameron M, cf         4  1  1  2   
+Howard B, p           1  0  0  0   Wilson V, c           3  0  1  0   
+Mordecai M, ph        1  0  0  0   Trachsel S, p         2  0  0  0   
+Manzanillo J, p       0  0  0  0   Franco J, p           0  0  0  0   
+Willingham J, ph      1  0  0  0   Wheeler D, p          0  0  0  0   
+Koch B, p             0  0  0  0   Zeile T, ph-1b        2  0  0  0   
+Treanor M, c          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  9 13  8                        36  7 10  7
+
+Florida          600 101 010 --  9
+New York         034 000 000 --  7
+
+  Florida              IP  H  R ER BB SO
+Bump N                2.1  5  6  6  0  1
+Howard B (W)          2.2  2  1  1  1  3
+Manzanillo J          1.0  1  0  0  1  2
+Koch B                2.0  1  0  0  0  3
+Benitez A (S)         1.0  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S            5.0  8  7  7  3  3
+Franco J (L)          0.2  0  1  1  2  0
+Wheeler D             0.1  1  0  0  0  1
+Bottalico R           2.0  3  1  1  0  1
+DeJean M              1.0  1  0  0  0  0
+
+E -- Wigginton T, Redmond M, Choi H, Treanor M
+DP -- Florida 2
+LOB -- Florida 8, New York 6
+2B -- Pierre J, Conine J, Wigginton T, Floyd C
+HR -- Cabrera M, Gonzalez A, Cameron M, Hidalgo R
+SB -- Reyes J 2, Wigginton T 2, Matsui K
+SH -- Castillo L
+HBP -- by Bump N (Floyd C), by Howard B (Wigginton T)
+WP -- Trachsel S
+T -- 3:18
+A -- 25295
+     Game of 7/21/2004 -- Montreal at New York (N)
+
+  Montreal           AB  R  H RBI    New York           AB  R  H RBI
+Wilkerson B, lf       5  2  2  1   Reyes J, 2b           5  0  1  0   
+Chavez E, cf          5  1  3  3   Matsui K, ss          4  0  1  1   
+Vidro J, 2b           4  0  1  0   Wigginton T, 1b       2  2  0  0   
+Carroll J, pr         0  0  0  0   Floyd C, lf           3  1  1  0   
+Batista T, 3b         5  0  2  0   Stanton M, p          0  0  0  0   
+Sledge T, rf          4  0  0  0   Moreno O, p           0  0  0  0   
+Cabrera O, ss         4  0  2  0   Zeile T, ph           1  0  0  0   
+Johnson N, 1b         4  0  2  0   Looper B, p           0  0  0  0   
+Schneider B, c        3  0  0  0   Hidalgo R, rf         5  1  1  3   
+Patterson J, p        1  0  0  0   Cameron M, cf         4  0  2  0   
+Kim S, p              0  0  0  0   Wright D, 3b          4  0  0  0   
+Mateo H, ph           1  1  1  0   Wilson V, c           3  0  1  0   
+Tucker T, p           0  0  0  0   Seo J, p              3  1  2  0   
+Rivera J, ph          1  0  0  0   Spencer S, lf         1  0  0  0   
+Horgan J, p           0  0  0  0                                      
+Ayala L, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  4 13  4                        35  5  9  4
+
+Montreal         000 010 300 --  4
+New York         003 100 01x --  5
+
+  Montreal             IP  H  R ER BB SO
+Patterson J           4.0  5  4  4  4  4
+Kim S                 2.0  3  0  0  1  0
+Tucker T              1.0  1  0  0  0  0
+Horgan J (L)          0.2  0  1  0  1  0
+Ayala L               0.1  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Seo J*                6.0  8  3  3  3  1
+Stanton M             1.1  3  1  1  0  2
+Moreno O (W)          0.2  0  0  0  0  0
+Looper B (S)          1.0  2  0  0  0  0
+  * Pitched to 2 batters in 7th
+
+E -- Cabrera O, Vidro J, Johnson N
+DP -- New York 3
+LOB -- Montreal 9, New York 12
+2B -- Chavez E, Cabrera O, Seo J
+HR -- Hidalgo R, Wilkerson B, Chavez E
+SB -- Cameron M
+WP -- Ayala L
+T -- 3:03
+A -- 30227
+     Game of 7/22/2004 -- Montreal at New York (D)
+
+  Montreal           AB  R  H RBI    New York           AB  R  H RBI
+Wilkerson B, 1b       5  1  1  1   Reyes J, 2b           4  0  0  1   
+Chavez E, cf          4  0  2  0   Matsui K, ss          4  0  3  0   
+Vidro J, 2b           3  1  2  0   Wigginton T, 1b       4  0  0  0   
+Batista T, 3b         4  1  1  2   Floyd C, lf           4  0  0  0   
+Rivera J, rf          4  0  0  0   Moreno O, p           0  0  0  0   
+Cabrera O, ss         3  1  1  0   Hidalgo R, rf         4  0  1  0   
+Sledge T, lf          3  0  0  0   Cameron M, cf         4  0  1  0   
+Schneider B, c        4  0  1  0   Wright D, 3b          4  1  2  0   
+Day Z, p              2  0  0  0   Phillips J, c         2  0  1  0   
+Mateo H, ph           1  0  0  0   Valent E, ph          1  0  1  0   
+Ayala L, p            0  0  0  0   Glavine T, p          1  0  0  0   
+Horgan J, p           0  0  0  0   Zeile T, ph           1  0  0  0   
+Calloway R, ph        1  0  0  1   Franco J, p           0  0  0  0   
+Cordero C, p          0  0  0  0   Spencer S, lf         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  8  4                        34  1  9  1
+
+Montreal         000 001 021 --  4
+New York         000 010 000 --  1
+
+  Montreal             IP  H  R ER BB SO
+Day Z                 6.0  6  1  1  2  1
+Ayala L (W)           1.0  0  0  0  0  1
+Horgan J              1.0  1  0  0  0  2
+Cordero C (S)         1.0  2  0  0  0  3
+
+  New York             IP  H  R ER BB SO
+Glavine T             7.0  5  1  1  1  5
+Franco J (L)          1.0  2  2  2  0  0
+Moreno O              1.0  1  1  1  1  0
+
+E -- Wright D
+DP -- Montreal 1, New York 1
+LOB -- Montreal 6, New York 8
+2B -- Phillips J, Wright D, Chavez E, Cameron M, Cabrera O
+3B -- Matsui K
+HR -- Wilkerson B, Batista T
+CS -- Chavez E
+SH -- Sledge T
+Balk -- Moreno O
+T -- 2:50
+A -- 27637
+     Game of 7/24/2004 -- Atlanta at New York (N)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Furcal R, ss          4  0  2  1   Reyes J, 2b           4  1  2  0   
+Giles M, 2b           3  0  1  1   Matsui K, ss          2  1  0  0   
+Drew J, rf            4  0  1  0   Floyd C, lf           1  0  1  1   
+Jones C, 3b           4  1  1  0   Stanton M, p          0  0  0  0   
+Franco J, 1b          3  1  1  1   Bottalico R, p        0  0  0  0   
+Thomas C, pr-lf       1  1  1  0   Looper B, p           0  0  0  0   
+Jones A, cf           4  0  1  0   Franco J, p           0  0  0  0   
+Estrada J, c          4  1  1  1   Hidalgo R, rf         4  0  1  1   
+Marrero E, lf         3  1  1  0   Wigginton T, 1b       4  0  0  0   
+Reitsma C, p          0  0  0  0   Cameron M, cf         4  0  0  0   
+Smoltz J, p           0  0  0  0   Wright D, 3b          4  0  1  0   
+Thomson J, p          3  0  1  0   Wilson V, c           4  0  1  0   
+LaRoche A, ph-1b      0  0  0  1   Leiter A, p           2  0  0  0   
+                                   DeJean M, p           0  0  0  0   
+                                   McEwing J, ph-lf      2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5 11  5                        31  2  7  2
+
+Atlanta          010 000 040 --  5
+New York         001 010 000 --  2
+
+  Atlanta              IP  H  R ER BB SO
+Thomson J (W)         7.0  7  2  2  5  4
+Reitsma C             1.0  0  0  0  0  2
+Smoltz J (S)          1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Leiter A              5.0  4  1  1  5  4
+DeJean M              2.0  2  0  0  0  2
+Stanton M (L)*        0.0  2  2  2  0  0
+Bottalico R           0.1  0  2  2  2  0
+Looper B              0.2  2  0  0  0  0
+Franco J              1.0  1  0  0  1  0
+  * Pitched to 2 batters in 8th
+
+E -- Wilson V, Estrada J
+DP -- Atlanta 2, New York 2
+LOB -- Atlanta 11, New York 8
+2B -- Jones A, Floyd C, Marrero E, Franco J
+SB -- Giles M, Reyes J 2
+SH -- Furcal R, Reyes J
+SF -- LaRoche A
+T -- 3:06
+A -- 33166
+     Game of 7/25/2004 -- Atlanta at New York (D)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Furcal R, ss          5  0  1  1   Reyes J, 2b           5  1  4  1   
+Giles M, 2b           4  0  0  0   Matsui K, ss          4  0  1  1   
+Drew J, rf            3  2  1  1   Floyd C, lf           3  0  0  1   
+Jones C, 3b           4  0  2  0   Hidalgo R, rf         4  0  0  0   
+Jones A, cf           2  0  1  1   Zeile T, 1b           3  0  1  0   
+LaRoche A, 1b         4  1  1  0   McEwing J, pr-1b      0  0  0  0   
+Smoltz J, p           0  0  0  0   Cameron M, cf         4  1  1  0   
+Perez E, c            4  1  0  0   Wright D, 3b          4  0  0  0   
+Thomas C, lf          3  0  1  0   Phillips J, c         2  1  0  0   
+Hampton M, p          2  0  0  1   Trachsel S, p         1  0  0  0   
+Gryboski K, p         0  0  0  0   Valent E, ph          0  0  0  0   
+Reitsma C, p          0  0  0  0   DeJean M, p           0  0  0  0   
+Franco J, 1b          1  0  0  0   Wigginton T, ph       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  7  4                        31  3  7  3
+
+Atlanta          020 010 100 --  4
+New York         101 000 100 --  3
+
+  Atlanta              IP  H  R ER BB SO
+Hampton M (W)*        6.0  5  3  3  2  2
+Gryboski K            1.0  1  0  0  1  0
+Reitsma C             0.2  1  0  0  0  2
+Smoltz J (S)          1.1  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Trachsel S (L)        7.0  7  4  1  4  6
+DeJean M              2.0  0  0  0  0  4
+  * Pitched to 1 batter in 7th
+
+E -- Wright D, Thomas C, Matsui K, Giles M
+DP -- Atlanta 1, New York 1
+LOB -- Atlanta 7, New York 7
+2B -- Reyes J, Furcal R
+HR -- Drew J
+CS -- Jones A
+SH -- Thomas C, Trachsel S, Hampton M, Phillips J
+SF -- Floyd C
+T -- 2:57
+A -- 32542
+     Game of 8/10/2004 -- Houston at New York (N)
+
+  Houston            AB  R  H RBI    New York           AB  R  H RBI
+Biggio C, lf          4  0  1  0   Reyes J, ss           4  0  2  2   
+Berkman L, rf         2  1  1  1   Valent E, 1b          4  0  1  1   
+Beltran C, cf         4  0  0  0   Floyd C, lf           4  1  1  0   
+Bagwell J, 1b         3  0  0  0   DeJean M, p           0  0  0  0   
+Kent J, 2b            4  1  1  0   Hidalgo R, rf         4  1  1  1   
+Ensberg M, 3b         4  0  1  0   Cameron M, cf         4  1  1  1   
+Lidge B, p            0  0  0  0   Wright D, 3b          4  1  2  2   
+Vizcaino J, ss-3b     4  1  1  1   Phillips J, c         2  1  0  0   
+Ausmus B, c           4  0  2  1   McEwing J, 2b         2  1  1  0   
+Munro P, p            2  0  0  0   Trachsel S, p         1  0  0  0   
+Palmeiro O, ph        1  0  0  0   Williams G, ph-lf     1  1  1  0   
+Redding T, p          0  0  0  0                                      
+Gallo M, p            0  0  0  0                                      
+Bruntlett E, ss       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        30  7 10  7
+
+Houston          110 100 000 --  3
+New York         001 300 30x --  7
+
+  Houston              IP  H  R ER BB SO
+Munro P (L)           5.0  7  4  3  0  2
+Redding T             1.1  3  3  3  1  2
+Gallo M               0.2  0  0  0  0  0
+Lidge B               1.0  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        7.0  7  3  3  3  2
+DeJean M              2.0  0  0  0  0  3
+
+E -- Beltran C
+DP -- Houston 1, New York 1
+LOB -- Houston 6, New York 2
+2B -- Kent J, Ausmus B, Floyd C, Hidalgo R
+3B -- Reyes J
+HR -- Berkman L, Wright D
+SB -- Beltran C
+SH -- Trachsel S, McEwing J
+T -- 2:30
+A -- 28472
+     Game of 8/11/2004 -- Houston at New York (N)
+
+  Houston            AB  R  H RBI    New York           AB  R  H RBI
+Biggio C, lf          3  0  1  0   Valent E, 1b          4  1  1  0   
+Weathers D, p         0  0  0  0   Garcia D, 2b          4  0  1  0   
+Miceli D, p           0  0  0  0   Floyd C, lf           1  1  0  0   
+Lane J, ph            1  0  0  0   Williams G, lf        1  0  0  0   
+Lidge B, p            0  0  0  0   Hidalgo R, rf         3  1  1  0   
+Bruntlett E, lf       0  0  0  0   Cameron M, cf         4  0  0  0   
+Beltran C, cf         3  1  1  0   Wright D, 3b          4  0  2  1   
+Bagwell J, 1b         5  0  1  1   Wilson V, c           3  0  0  1   
+Berkman L, rf         3  0  0  1   McEwing J, ss         4  0  0  0   
+Kent J, 2b            5  0  1  0   Ginter M, p           2  0  0  0   
+Ensberg M, 3b         5  2  3  0   Bottalico R, p        0  0  0  0   
+Vizcaino J, ss        4  1  2  1   Reyes J, ph           1  0  1  0   
+Chavez R, c           3  0  0  0   Trachsel S, pr        0  1  0  0   
+Lamb M, ph            1  0  0  0   DeJean M, p           0  0  0  0   
+Ausmus B, c           1  0  1  1   Zeile T, ph           1  0  0  0   
+Oswalt R, p           2  0  2  1   Looper B, p           0  0  0  0   
+Harville C, p         0  0  0  0   Phillips J, ph        1  0  0  0   
+Palmeiro O, ph-lf     1  1  0  0                                      
+Bullinger K, p        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  5 12  5                        33  4  6  2
+
+Houston          020 000 200 1 --  5
+New York         010 100 200 0 --  4
+
+  Houston              IP  H  R ER BB SO
+Oswalt R              5.0  2  2  2  5  5
+Harville C            1.0  0  0  0  0  1
+Weathers D            0.1  2  2  2  0  0
+Miceli D              0.2  0  0  0  3  1
+Lidge B (W)           2.0  1  0  0  0  3
+Bullinger K (S)       1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Ginter M              6.0  7  2  2  1  2
+Bottalico R           1.0  1  2  2  2  1
+DeJean M              1.0  1  0  0  1  1
+Looper B (L)          2.0  3  1  1  1  0
+
+E -- Chavez R
+DP -- New York 1
+LOB -- Houston 10, New York 11
+2B -- Vizcaino J, Reyes J
+SB -- Biggio C, Kent J, Beltran C, Hidalgo R, Garcia D, Ensberg M
+SH -- Garcia D, Biggio C, Vizcaino J, Wilson V
+SF -- Wilson V, Berkman L
+HBP -- by Oswalt R (Floyd C)
+WP -- Oswalt R, Miceli D
+Balk -- Oswalt R
+PB -- Wilson V
+T -- 3:47
+A -- 32060
+     Game of 8/12/2004 -- Houston at New York (D)
+
+  Houston            AB  R  H RBI    New York           AB  R  H RBI
+Palmeiro O, lf        2  0  0  0   Williams G, lf        3  0  0  0   
+Beltran C, cf         2  0  0  0   McEwing J, ss         4  0  1  1   
+Berkman L, rf         4  0  1  1   Zeile T, 1b           3  0  0  0   
+Lamb M, 1b            4  0  0  0   Hidalgo R, rf         4  1  2  0   
+Ensberg M, 3b         3  0  0  0   Cameron M, cf         3  0  1  1   
+Vizcaino J, 2b        4  0  1  0   Wright D, 3b          4  0  2  0   
+Bruntlett E, ss       3  1  0  0   Phillips J, c         1  0  0  0   
+Bagwell J, ph         1  0  0  0   Floyd C, ph           1  0  0  0   
+Ausmus B, c           3  0  0  0   Wilson V, c           1  0  1  0   
+Pettitte A, p         1  0  0  0   Garcia D, 2b          4  1  1  0   
+Weathers D, p         0  0  0  0   Zambrano V, p         2  0  0  0   
+Biggio C, ph          1  0  0  0   Valent E, ph          1  0  0  0   
+Harville C, p         0  0  0  0   Bottalico R, p        0  0  0  0   
+                                   Stanton M, p          0  0  0  0   
+                                   Looper B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  1  2  1                        31  2  8  2
+
+Houston          000 001 000 --  1
+New York         010 000 10x --  2
+
+  Houston              IP  H  R ER BB SO
+Pettitte A            5.2  4  1  1  4  5
+Weathers D (L)        1.1  2  1  1  0  1
+Harville C            1.0  2  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Zambrano V (W)        7.0  2  1  0  2  5
+Bottalico R           0.2  0  0  0  1  2
+Stanton M             0.1  0  0  0  1  1
+Looper B (S)          1.0  0  0  0  1  0
+
+E -- Zambrano V
+LOB -- Houston 6, New York 9
+2B -- Cameron M, Garcia D
+SB -- Bruntlett E
+CS -- Williams G, Vizcaino J
+SH -- Pettitte A
+WP -- Pettitte A
+T -- 2:39
+A -- 26419
+     Game of 8/13/2004 -- Arizona at New York (N)
+
+  Arizona            AB  R  H RBI    New York           AB  R  H RBI
+McCracken Q, lf       4  0  0  0   Garcia D, 2b          5  1  2  4   
+Cintron A, ss         4  2  2  2   Zeile T, 1b           5  0  2  2   
+Bautista D, rf        4  1  2  1   Floyd C, lf           5  1  2  0   
+Tracy C, 3b           4  0  0  0   Williams G, pr-lf     0  0  0  0   
+Baerga C, 1b          4  1  2  2   Hidalgo R, rf         3  1  1  1   
+Terrero L, cf         4  0  0  0   Cameron M, cf         4  1  1  2   
+Hairston S, 2b        3  1  1  1   Wright D, 3b          5  1  1  0   
+Sparks S, p           0  0  0  0   Phillips J, c         3  2  0  0   
+Aquino G, p           0  0  0  0   McEwing J, ss         3  2  2  0   
+Olson T, ph           1  0  0  0   Benson K, p           1  1  0  1   
+Hill K, c             3  0  1  0   Valent E, ph          0  0  0  0   
+Fossum C, p           1  0  0  0   Stanton M, p          0  0  0  0   
+Dessens E, p          1  0  0  0   DeJean M, p           0  0  0  0   
+Green A, 2b           1  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  6  8  6                        34 10 11 10
+
+Arizona          000 013 200 --  6
+New York         035 002 00x -- 10
+
+  Arizona              IP  H  R ER BB SO
+Fossum C (L)          2.2  5  8  8  5  1
+Dessens E             2.1  3  0  0  1  1
+Sparks S              2.0  2  2  2  1  2
+Aquino G              1.0  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Benson K (W)          7.0  8  6  6  2  5
+Stanton M             1.0  0  0  0  0  2
+DeJean M              1.0  0  0  0  0  1
+
+E -- Garcia D
+DP -- New York 1
+LOB -- Arizona 3, New York 8
+2B -- Zeile T 2, McEwing J, Bautista D, Floyd C
+HR -- Garcia D, Hidalgo R, Hairston S, Baerga C, Cameron M, Cintron A
+SB -- Wright D, Cameron M
+SH -- Benson K
+WP -- Aquino G
+T -- 2:52
+A -- 22124
+     Game of 8/14/2004 -- Arizona at New York (N)
+
+  Arizona            AB  R  H RBI    New York           AB  R  H RBI
+Green A, 3b           4  0  0  0   Valent E, 1b          5  1  1  0   
+Baerga C, ph          1  0  0  0   Looper B, p           0  0  0  0   
+Cintron A, ss         3  0  1  0   McEwing J, 2b         3  1  0  0   
+Bautista D, rf        3  0  1  1   Floyd C, lf           4  1  2  3   
+Hillenbrand S, 1b     4  1  1  0   Hidalgo R, rf         4  0  2  0   
+Koplove M, p          0  0  0  0   Cameron M, cf         3  0  1  0   
+Terrero L, cf         3  0  1  0   Wright D, 3b          2  1  0  0   
+Hairston S, 2b        4  1  3  2   Wilson V, c           4  0  1  1   
+Olson T, lf           4  0  0  0   Delgado W, ss         4  0  1  0   
+Brito J, c            3  0  0  0   Leiter A, p           1  0  0  0   
+Hill K, ph            1  0  0  0   Bottalico R, p        0  0  0  0   
+Gonzalez E, p         2  0  2  0   Zeile T, ph-1b        1  0  0  0   
+Fetters M, p          0  0  0  0                                      
+McCracken Q, ph       1  1  1  0                                      
+Tracy C, 1b           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3 10  3                        31  4  8  4
+
+Arizona          020 000 100 --  3
+New York         102 001 00x --  4
+
+  Arizona              IP  H  R ER BB SO
+Gonzalez E (L)        5.1  8  4  3  1  3
+Fetters M             0.2  0  0  0  0  1
+Koplove M             2.0  0  0  0  2  1
+
+  New York             IP  H  R ER BB SO
+Leiter A (W)          6.2  9  3  3  3  1
+Bottalico R           1.1  1  0  0  0  0
+Looper B (S)          1.0  0  0  0  0  0
+
+E -- Green A, Brito J
+DP -- Arizona 1, New York 3
+LOB -- Arizona 7, New York 9
+2B -- Valent E
+3B -- Wilson V
+HR -- Hairston S, Floyd C
+SB -- Cameron M
+SH -- McEwing J, Leiter A
+HBP -- by Gonzalez E (Wright D)
+WP -- Koplove M
+T -- 2:47
+A -- 37599
+     Game of 8/15/2004 -- Arizona at New York (D)
+
+  Arizona            AB  R  H RBI    New York           AB  R  H RBI
+McCracken Q, lf       5  1  1  0   Williams G, lf        4  0  0  0   
+Cintron A, ss         3  1  1  0   McEwing J, ss         4  0  1  0   
+Hairston S, 2b        4  0  1  1   Zeile T, 1b           4  0  1  0   
+Hillenbrand S, 1b     4  0  2  0   Hidalgo R, rf         4  0  0  0   
+Tracy C, 3b           4  0  1  0   Cameron M, cf         4  0  1  0   
+Terrero L, cf         3  0  2  1   Wright D, 3b          3  0  0  0   
+DeVore D, rf          4  0  1  0   Phillips J, c         3  0  1  0   
+Brito J, c            4  0  1  0   Garcia D, 2b          2  0  0  0   
+Johnson R, p          4  0  0  0   Trachsel S, p         2  0  0  0   
+Aquino G, p           0  0  0  0   DeJean M, p           0  0  0  0   
+                                   Wilson V, ph          1  0  1  0   
+                                   Looper B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2 10  2                        31  0  5  0
+
+Arizona          000 001 100 --  2
+New York         000 000 000 --  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         8.1  5  0  0  1 14
+Aquino G (S)          0.2  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S (L)        6.2  9  2  2  0  5
+DeJean M              1.1  1  0  0  0  2
+Looper B              1.0  0  0  0  0  0
+
+DP -- New York 1
+LOB -- Arizona 8, New York 5
+2B -- Terrero L, Cameron M, Wilson V
+CS -- Terrero L, Cameron M
+HBP -- by Trachsel S (Terrero L), by Trachsel S (Cintron A)
+T -- 2:44
+A -- 36590
+     Game of 8/23/2004 -- San Diego at New York (N)
+
+  San Diego          AB  R  H RBI    New York           AB  R  H RBI
+Guzman F, cf          5  1  1  1   Valent E, 1b          4  0  0  0   
+Loretta M, 2b         3  2  2  1   Fortunato B, p        0  0  0  0   
+Giles B, rf           3  2  1  0   Franco J, p           0  0  0  0   
+Nevin P, 1b           5  2  3  5   Bottalico R, p        0  0  0  0   
+Klesko R, lf          3  1  1  0   Phillips J, ph        1  0  0  0   
+Long T, lf            1  0  1  0   Garcia D, 2b          1  0  0  0   
+Burroughs S, 3b       5  0  1  1   Feliciano P, p        0  0  0  0   
+Aurilia R, ss         3  1  1  0   Zeile T, 1b           2  0  0  0   
+Hernandez R, c        5  0  2  0   Floyd C, lf           1  0  0  0   
+Peavy J, p            3  0  0  0   Williams G, lf        3  1  2  0   
+Linebrink S, p        0  0  0  0   Hidalgo R, rf         3  1  0  0   
+Hansen D, ph          1  0  0  0   Cameron M, cf         4  1  1  3   
+Otsuka A, p           0  0  0  0   Wright D, 3b          4  1  1  1   
+Stone R, p            0  0  0  0   Wilson V, c           4  0  1  0   
+Payton J, ph          1  0  0  0   Delgado W, ss         3  0  1  0   
+Watkins S, p          0  0  0  0   Heilman A, p          0  0  0  0   
+                                   Wheeler D, p          0  0  0  0   
+                                   Keppinger J, ph-2b    3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 13  8                        33  4  6  4
+
+San Diego        200 210 031 --  9
+New York         000 003 010 --  4
+
+  San Diego            IP  H  R ER BB SO
+Peavy J (W)           5.1  4  3  3  4  5
+Linebrink S           0.2  0  0  0  0  1
+Otsuka A              1.0  1  0  0  0  2
+Stone R               1.0  1  1  1  0  0
+Watkins S             1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Heilman A (L)         3.2  8  4  4  3  1
+Wheeler D             1.1  1  1  1  2  2
+Feliciano P           1.1  1  0  0  1  1
+Fortunato B*          0.2  2  3  3  2  1
+Franco J              1.0  1  0  0  0  2
+Bottalico R           1.0  0  1  1  1  0
+  * Pitched to 3 batters in 8th
+
+E -- Heilman A, Nevin P 2, Delgado W
+DP -- New York 2
+LOB -- San Diego 12, New York 8
+2B -- Giles B, Nevin P, Klesko R, Williams G 2, Hernandez R, Long T
+HR -- Cameron M, Nevin P, Wright D
+SB -- Guzman F 2
+SH -- Heilman A
+SF -- Loretta M
+HBP -- by Peavy J (Floyd C)
+WP -- Wheeler D, Fortunato B
+T -- 3:24
+A -- 25475
+     Game of 8/24/2004 -- San Diego at New York (N)
+
+  San Diego          AB  R  H RBI    New York           AB  R  H RBI
+Guzman F, cf          5  0  0  0   Keppinger J, 2b       4  0  1  0   
+Loretta M, 2b         3  1  0  0   Wilson V, c           4  0  0  0   
+Giles B, rf           4  1  2  0   Williams G, lf        4  1  2  0   
+Nevin P, 1b           4  0  2  0   Hidalgo R, rf         4  0  1  1   
+Klesko R, lf          4  0  1  1   Cameron M, cf         4  0  0  0   
+Payton J, lf          0  0  0  0   Wright D, 3b          3  0  0  0   
+Burroughs S, 3b       4  0  1  1   Phillips J, 1b        3  0  0  0   
+Aurilia R, ss         4  0  1  0   Delgado W, ss         3  0  0  0   
+Hernandez R, c        4  1  2  1   Benson K, p           1  0  0  0   
+Wells D, p            4  0  0  0   Garcia D, ph          1  0  0  0   
+Hoffman T, p          0  0  0  0   Bell H, p             0  0  0  0   
+                                   Zeile T, ph           1  0  0  0   
+                                   Stanton M, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3  9  3                        32  1  4  1
+
+San Diego        000 111 000 --  3
+New York         000 000 001 --  1
+
+  San Diego            IP  H  R ER BB SO
+Wells D (W)           8.2  4  1  1  0  4
+Hoffman T (S)         0.1  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Benson K (L)          6.0  7  3  3  1  2
+Bell H                2.0  1  0  0  0  3
+Stanton M             1.0  1  0  0  0  1
+
+E -- Burroughs S, Aurilia R
+LOB -- San Diego 7, New York 4
+2B -- Giles B, Nevin P, Hernandez R, Williams G
+HR -- Hernandez R
+CS -- Keppinger J
+T -- 2:23
+A -- 25558
+     Game of 8/25/2004 -- San Diego at New York (N)
+
+  San Diego          AB  R  H RBI    New York           AB  R  H RBI
+Guzman F, cf          5  1  2  0   Valent E, 1b          4  0  1  0   
+Loretta M, 2b         3  0  2  1   Garcia D, 2b          3  0  1  0   
+Giles B, rf           4  0  0  1   Wright D, 3b          4  0  1  0   
+Nevin P, 1b           5  1  3  2   Floyd C, lf           3  0  1  0   
+Aurilia R, 3b         3  0  0  0   Hidalgo R, rf         4  0  0  0   
+Hernandez R, c        4  0  0  0   Cameron M, cf         4  0  1  0   
+Greene K, ss          4  0  2  0   Wilson V, c           3  0  0  0   
+Payton J, lf          3  1  1  0   Delgado W, ss         3  0  0  0   
+Lawrence B, p         3  1  0  0   Leiter A, p           2  0  0  0   
+                                   Bottalico R, p        0  0  0  0   
+                                   Zeile T, ph           1  0  1  0   
+                                   Franco J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4 10  4                        31  0  6  0
+
+San Diego        000 011 200 --  4
+New York         000 000 000 --  0
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (W)        9.0  6  0  0  1  4
+
+  New York             IP  H  R ER BB SO
+Leiter A (L)          6.2  7  4  4  3  3
+Bottalico R           1.1  2  0  0  0  2
+Franco J              1.0  1  0  0  0  1
+
+E -- Wright D
+DP -- San Diego 1
+LOB -- San Diego 9, New York 6
+2B -- Wright D, Payton J, Garcia D, Guzman F, Greene K
+HR -- Nevin P
+CS -- Greene K
+SF -- Loretta M, Giles B
+HBP -- by Leiter A (Loretta M), by Lawrence B (Garcia D)
+WP -- Franco J
+T -- 2:33
+A -- 28067
+     Game of 8/26/2004 -- San Diego at New York (D)
+
+  San Diego          AB  R  H RBI    New York           AB  R  H RBI
+Guzman F, cf          5  1  1  2   Garcia D, 2b          3  0  1  0   
+Loretta M, 2b         5  0  2  3   Valent E, 1b          4  1  1  1   
+Aurilia R, 2b         0  0  0  0   Wright D, 3b          2  1  0  0   
+Giles B, rf           5  0  2  0   Floyd C, lf           4  0  0  0   
+Hansen D, 1b          0  0  0  0   Hidalgo R, rf         4  0  0  0   
+Nevin P, 1b           5  1  1  0   Cameron M, cf         4  1  1  2   
+Neal B, p             0  0  0  0   Wilson V, c           4  0  1  0   
+McLeary M, p          0  0  0  0   Delgado W, ss         3  0  2  0   
+Watkins S, p          0  0  0  0   Trachsel S, p         1  0  0  0   
+Klesko R, lf          3  0  0  0   Wheeler D, p          0  0  0  0   
+Long T, lf-rf         2  0  1  0   Feliciano P, p        0  0  0  0   
+Burroughs S, 3b       5  3  3  0   Buchanan B, ph        1  0  0  0   
+Greene K, ss          5  2  3  2   Looper B, p           0  0  0  0   
+Quintero H, c         5  2  2  2   Williams G, ph        1  0  0  0   
+Eaton A, p            3  1  1  1                                      
+Payton J, lf          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     43 10 16 10                        31  3  6  3
+
+San Diego        000 030 340 -- 10
+New York         000 000 003 --  3
+
+  San Diego            IP  H  R ER BB SO
+Eaton A (W)           7.0  2  0  0  1  4
+Neal B                1.0  1  0  0  0  2
+McLeary M             0.2  3  3  3  1  2
+Watkins S             0.1  0  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Trachsel S (L)        6.2  8  6  6  0  4
+Wheeler D             0.1  2  0  0  0  0
+Feliciano P           1.0  4  4  3  0  0
+Looper B              1.0  2  0  0  0  0
+
+E -- Delgado W
+DP -- San Diego 1, New York 1
+LOB -- San Diego 7, New York 6
+2B -- Nevin P, Greene K, Eaton A, Burroughs S, Guzman F
+3B -- Garcia D
+HR -- Valent E, Cameron M
+SH -- Trachsel S
+HBP -- by Eaton A (Garcia D), by Feliciano P (Eaton A)
+WP -- Trachsel S
+T -- 3:00
+A -- 27621
+     Game of 8/27/2004 -- Los Angeles at New York (N)
+
+  Los Angeles        AB  R  H RBI    New York           AB  R  H RBI
+Izturis C, ss         5  0  2  1   Williams G, rf        5  1  2  1   
+Finley S, cf          4  0  0  0   Keppinger J, 2b       5  0  0  0   
+Bradley M, lf         3  0  1  0   Zeile T, 1b           4  1  2  0   
+Kida M, p             0  0  0  0   Floyd C, lf           4  1  2  1   
+Sanchez D, p          0  0  0  0   Cameron M, cf         5  2  2  1   
+Choi H, ph            1  0  0  0   Wright D, 3b          5  2  3  3   
+Carrara G, p          0  0  0  0   Phillips J, c         4  0  1  0   
+Beltre A, 3b          4  0  0  0   Delgado W, ss         3  1  0  0   
+Green S, rf           4  0  1  0   Glavine T, p          3  0  1  1   
+Saenz O, 1b           4  1  2  0   DeJean M, p           0  0  0  0   
+Hernandez J, 2b       4  0  0  0   Valent E, ph          1  1  1  2   
+Ross D, c             4  0  1  0   Stanton M, p          0  0  0  0   
+Alvarez W, p          0  0  0  0   Franco J, p           0  0  0  0   
+Dessens E, p          1  0  1  0                                      
+Werth J, ph-lf        2  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     36  2  9  2                        39  9 14  9
+
+Los Angeles      000 010 001 --  2
+New York         600 000 30x --  9
+
+  Los Angeles          IP  H  R ER BB SO
+Alvarez W (L)         1.1  8  6  6  1  1
+Dessens E             2.2  0  0  0  0  4
+Kida M                2.0  2  0  0  1  4
+Sanchez D             1.0  3  3  3  0  1
+Carrara G             1.0  1  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Glavine T (W)*        6.0  7  1  1  1  4
+DeJean M              1.0  0  0  0  0  1
+Stanton M             1.0  0  0  0  0  1
+Franco J              1.0  2  1  1  1  2
+  * Pitched to 1 batter in 7th
+
+E -- Green S, Wright D
+DP -- New York 1
+LOB -- Los Angeles 9, New York 9
+2B -- Cameron M, Phillips J, Wright D, Izturis C
+HR -- Werth J, Valent E
+SB -- Floyd C, Cameron M
+WP -- DeJean M
+T -- 3:06
+A -- 42694
+     Game of 8/28/2004 -- Los Angeles at New York (D)
+
+  Los Angeles        AB  R  H RBI    New York           AB  R  H RBI
+Izturis C, ss         4  1  2  0   Keppinger J, 2b       2  1  1  1   
+Finley S, cf          5  0  0  0   Valent E, ph          1  0  0  0   
+Bradley M, lf         5  0  0  0   Looper B, p           0  0  0  0   
+Beltre A, 3b          5  2  5  2   Zeile T, 1b           3  1  1  0   
+Green S, rf-1b        4  1  1  0   Floyd C, lf           4  0  1  0   
+Choi H, 1b            3  0  0  0   Hidalgo R, rf         4  0  1  1   
+Saenz O, ph           1  0  1  1   Cameron M, cf         2  0  0  0   
+Brazoban Y, p         0  0  0  0   Wright D, 3b          3  0  0  0   
+Gagne E, p            0  0  0  0   Phillips J, c         3  0  0  0   
+Cora A, 2b            2  0  0  0   Stanton M, p          0  0  0  0   
+Hernandez J, ph-2b    1  0  1  1   Garcia D, 2b          0  0  0  0   
+Mayne B, c            4  0  1  0   Delgado W, ss         3  0  0  0   
+Perez O, p            2  0  0  0   Seo J, p              2  0  0  0   
+Grabowski J, ph       1  0  0  0   Feliciano P, p        0  0  0  0   
+Carrara G, p          0  0  0  0   Bottalico R, p        0  0  0  0   
+Werth J, ph-rf        1  0  0  0   Wilson V, c           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  4 11  4                        28  2  4  2
+
+Los Angeles      001 000 021 --  4
+New York         100 100 000 --  2
+
+  Los Angeles          IP  H  R ER BB SO
+Perez O               6.0  4  2  2  3  3
+Carrara G (W)         1.0  0  0  0  0  2
+Brazoban Y            1.0  0  0  0  0  2
+Gagne E (S)           1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Seo J                 6.1  5  1  1  3  5
+Feliciano P           0.2  0  0  0  0  0
+Bottalico R           0.1  1  1  1  0  1
+Stanton M (L)         0.2  3  1  1  0  1
+Looper B              1.0  2  1  1  0  0
+
+E -- Wright D
+DP -- Los Angeles 2, New York 1
+LOB -- Los Angeles 10, New York 2
+2B -- Green S
+HR -- Keppinger J, Beltre A
+SB -- Izturis C
+CS -- Floyd C
+T -- 2:55
+A -- 40660
+     Game of 8/29/2004 -- Los Angeles at New York (D)
+
+  Los Angeles        AB  R  H RBI    New York           AB  R  H RBI
+Izturis C, ss         4  2  4  1   Williams G, cf        4  0  1  0   
+Stewart S, p          0  0  0  0   Keppinger J, 2b       4  1  1  1   
+Finley S, cf          5  0  1  1   Floyd C, lf           4  0  1  0   
+Bradley M, lf         5  1  1  0   Hidalgo R, rf         3  1  2  1   
+Beltre A, 3b          3  1  1  1   Valent E, rf          1  0  0  0   
+Saenz O, 1b           1  1  1  1   Wright D, 3b          2  0  0  0   
+Green S, rf           3  2  1  0   Feliciano P, p        0  0  0  0   
+Ventura R, 1b-3b      4  2  1  4   Garcia D, ph          1  0  0  0   
+Cora A, 2b            5  0  0  0   Franco J, p           0  0  0  0   
+Mayne B, c            4  0  1  1   Wilson V, ph          1  0  0  0   
+Ishii K, p            2  1  1  0   Buchanan B, 1b        2  0  0  0   
+Dessens E, p          0  0  0  0   Phillips J, c         3  0  0  0   
+Hernandez J, ph-ss    1  0  0  0   Delgado W, ss         2  0  1  0   
+                                   Benson K, p           0  0  0  0   
+                                   Zeile T, 3b           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37 10 12  9                        29  2  6  2
+
+Los Angeles      100 340 011 -- 10
+New York         010 000 001 --  2
+
+  Los Angeles          IP  H  R ER BB SO
+Ishii K (W)           6.0  4  1  1  2  2
+Dessens E             1.0  0  0  0  0  0
+Stewart S             2.0  2  1  1  0  2
+
+  New York             IP  H  R ER BB SO
+Benson K (L)*         4.0  8  8  5  3  1
+Feliciano P           3.0  1  0  0  1  1
+Franco J              2.0  3  2  2  1  1
+  * Pitched to 4 batters in 5th
+
+E -- Floyd C, Benson K
+DP -- Los Angeles 2, New York 1
+LOB -- Los Angeles 7, New York 3
+2B -- Beltre A
+3B -- Izturis C
+HR -- Hidalgo R, Ventura R, Saenz O, Keppinger J
+SB -- Izturis C
+SH -- Benson K, Ishii K
+SF -- Mayne B
+T -- 2:44
+A -- 33582
+     Game of 8/30/2004 -- Florida at New York (N)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Pierre J, cf          5  1  4  0   Williams G, cf        5  0  1  0   
+Easley D, 2b          3  2  2  2   Keppinger J, 2b       5  0  1  0   
+Lo Duca P, c          5  2  1  0   Piazza M, 1b          4  1  1  1   
+Cabrera M, lf         5  1  2  3   Hidalgo R, rf         3  0  1  0   
+Lowell M, 3b          4  0  1  1   Floyd C, lf           4  1  2  0   
+Conine J, 1b          4  0  1  0   Wright D, 3b          4  1  1  2   
+Encarnacion J, rf     3  0  0  0   Phillips J, c         4  1  1  1   
+Gonzalez A, ss        3  0  1  0   Delgado W, ss         4  0  2  0   
+Willis D, p           2  0  0  0   Leiter A, p           2  0  0  0   
+Seanez R, p           0  0  0  0   Garcia D, ph          0  0  0  0   
+Mordecai M, ph        1  0  0  0   Bell H, p             0  0  0  0   
+Mota G, p             1  0  0  0   Stanton M, p          0  0  0  0   
+Benitez A, p          0  0  0  0   Valent E, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6 12  6                        36  4 10  4
+
+Florida          100 002 300 --  6
+New York         001 003 000 --  4
+
+  Florida              IP  H  R ER BB SO
+Willis D              5.1 10  4  4  1  2
+Seanez R (W)          0.2  0  0  0  0  0
+Mota G                2.0  0  0  0  0  3
+Benitez A (S)         1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Leiter A              6.0  6  3  3  3  6
+Bell H (L)            2.0  5  3  3  0  3
+Stanton M             1.0  1  0  0  0  0
+
+DP -- New York 1
+LOB -- Florida 7, New York 7
+2B -- Easley D, Cabrera M, Williams G, Pierre J
+HR -- Piazza M, Cabrera M, Wright D, Phillips J, Easley D
+SB -- Conine J, Lo Duca P
+CS -- Pierre J
+SH -- Garcia D
+HBP -- by Stanton M (Easley D)
+PB -- Lo Duca P
+T -- 2:59
+A -- 16468
+     Game of 8/31/2004 -- Florida at New York (N)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Pierre J, cf          5  0  2  2   Williams G, cf        4  0  0  0   
+Easley D, 2b          4  1  0  0   Garcia D, 2b          4  0  2  0   
+Lo Duca P, c          4  0  1  1   Piazza M, 1b          4  0  0  0   
+Cabrera M, lf         2  2  1  0   Floyd C, lf           4  0  1  0   
+Lowell M, 3b          4  0  1  0   Hidalgo R, rf         3  0  0  0   
+Conine J, 1b          3  0  0  1   Wright D, 3b          3  0  0  0   
+Encarnacion J, rf     3  1  0  0   Phillips J, c         3  0  1  0   
+Gonzalez A, ss        2  1  0  0   Delgado W, ss         3  0  2  0   
+Beckett J, p          3  0  0  1   Trachsel S, p         1  0  0  0   
+                                   Bottalico R, p        0  0  0  0   
+                                   Zeile T, ph           1  0  0  0   
+                                   Feliciano P, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  5  5  5                        30  0  6  0
+
+Florida          001 103 000 --  5
+New York         000 000 000 --  0
+
+  Florida              IP  H  R ER BB SO
+Beckett J (W)         9.0  6  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Trachsel S (L)        5.2  5  5  5  7  3
+Bottalico R           2.1  0  0  0  0  3
+Feliciano P           1.0  0  0  0  0  2
+
+E -- Piazza M
+DP -- Florida 2
+LOB -- Florida 6, New York 4
+2B -- Floyd C, Cabrera M
+SB -- Pierre J, Easley D, Cabrera M
+CS -- Phillips J
+SH -- Trachsel S
+SF -- Conine J
+T -- 2:47
+A -- 17770
+     Game of 9/1/2004 -- Florida at New York (N)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Pierre J, cf          5  1  2  0   Williams G, cf        5  0  0  0   
+Easley D, 2b          4  1  1  0   Garcia D, 2b          3  0  1  0   
+Lo Duca P, c          4  0  1  2   Brazell C, ph         1  0  0  0   
+Cabrera M, lf         4  0  0  0   Fortunato B, p        0  0  0  0   
+Lowell M, 3b          2  1  1  2   Bell H, p             0  0  0  0   
+Conine J, 1b          3  0  0  1   Looper B, p           0  0  0  0   
+Encarnacion J, rf     3  0  1  0   Zeile T, ph           1  0  0  0   
+Mota G, p             0  0  0  0   Piazza M, 1b          5  0  1  0   
+Benitez A, p          0  0  0  0   Floyd C, lf           2  0  0  0   
+Gonzalez A, ss        4  1  1  0   Hidalgo R, rf         4  0  0  0   
+Valdez I, p           2  0  0  0   Wright D, 3b          4  2  2  0   
+Mordecai M, ph        1  1  1  0   Phillips J, c         4  1  2  0   
+Bump N, p             0  0  0  0   Delgado W, ss         4  1  3  4   
+Seanez R, p           0  0  0  0   Glavine T, p          2  0  0  0   
+Aguila C, rf          1  0  0  0   Valent E, ph          0  0  0  0   
+                                   Keppinger J, 2b       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  8  5                        36  4  9  4
+
+Florida          201 002 000 --  5
+New York         010 300 000 --  4
+
+  Florida              IP  H  R ER BB SO
+Valdez I (W)          5.0  7  4  4  1  2
+Bump N                0.1  2  0  0  1  0
+Seanez R              1.0  0  0  0  1  1
+Mota G                1.2  0  0  0  0  1
+Benitez A (S)         1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Glavine T (L)         6.0  8  5  5  5  1
+Fortunato B           1.0  0  0  0  0  1
+Bell H                1.0  0  0  0  0  0
+Looper B              1.0  0  0  0  0  2
+
+E -- Gonzalez A
+LOB -- Florida 8, New York 8
+2B -- Delgado W 2, Mordecai M
+HR -- Lowell M, Delgado W
+SB -- Floyd C
+SH -- Lo Duca P
+SF -- Conine J
+PB -- Lo Duca P
+T -- 2:41
+A -- 19621
+     Game of 9/2/2004 -- Florida at New York (D)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Pierre J, cf          4  2  3  2   Williams G, cf        5  0  1  0   
+Easley D, 2b          5  0  2  3   Delgado W, ss         4  0  1  1   
+Lo Duca P, c          5  0  0  0   Piazza M, 1b          4  0  0  0   
+Cabrera M, lf         4  1  1  0   Floyd C, lf           4  1  2  0   
+Lowell M, 3b          4  1  1  0   Hidalgo R, rf         3  1  0  0   
+Conine J, 1b          4  1  2  0   Wright D, 3b          4  2  3  4   
+Encarnacion J, rf     5  2  2  3   Phillips J, c         4  0  0  0   
+Gonzalez A, ss        3  2  1  0   Keppinger J, 2b       4  1  2  0   
+Pavano C, p           3  0  0  0   Seo J, p              1  0  0  0   
+Mota G, p             1  0  0  0   Brazell C, ph         1  0  0  0   
+Manzanillo J, p       0  0  0  0   Bottalico R, p        0  0  0  0   
+                                   Valent E, ph          1  0  0  0   
+                                   Yates T, p            0  0  0  0   
+                                   Franco J, p           0  0  0  0   
+                                   Zeile T, ph           1  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     38  9 12  8                        36  6 10  6
+
+Florida          040 100 040 --  9
+New York         000 310 002 --  6
+
+  Florida              IP  H  R ER BB SO
+Pavano C (W)*         6.0  8  4  4  1  6
+Mota G                2.0  0  0  0  0  2
+Manzanillo J          1.0  2  2  2  0  1
+
+  New York             IP  H  R ER BB SO
+Seo J (L)             5.0  7  5  4  3  1
+Bottalico R           2.0  1  0  0  0  3
+Yates T               1.0  3  4  4  2  2
+Franco J              1.0  1  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Phillips J
+DP -- Florida 1, New York 1
+LOB -- Florida 7, New York 4
+2B -- Encarnacion J, Easley D 2, Floyd C 2, Pierre J
+HR -- Wright D 2, Encarnacion J, Zeile T
+SB -- Wright D, Pierre J, Keppinger J
+Balk -- Yates T
+T -- 2:48
+A -- 24937
+     Game of 9/10/2004 -- Philadelphia at New York (N)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Rollins J, ss         4  0  1  2   Cameron M, cf         5  1  2  0   
+Polanco P, 2b         5  1  2  1   Keppinger J, 2b       4  1  1  2   
+Abreu B, rf           4  2  2  0   Floyd C, lf           4  0  0  0   
+Thome J, 1b           3  2  0  0   Piazza M, 1b          4  1  2  0   
+Bell D, 3b            4  1  3  1   Wright D, 3b          4  1  1  2   
+Michaels J, cf        5  2  4  4   Hidalgo R, rf         3  1  1  1   
+Burrell P, lf         4  0  0  0   Bottalico R, p        0  0  0  0   
+Lieberthal M, c       4  1  1  0   Darensbourg V, p      0  0  0  0   
+Pratt T, c            1  0  0  0   Zeile T, ph           1  0  1  0   
+Myers B, p            1  0  0  0   Yates T, p            0  0  0  0   
+Byrd M, ph            0  0  0  0   Phillips J, c         4  0  1  0   
+Hernandez R, p        0  0  0  0   Delgado W, ss         4  0  1  0   
+Jones T, p            0  0  0  0   Leiter A, p           2  0  0  0   
+Wooten S, ph          1  0  0  0   Bell H, p             0  0  0  0   
+Rodriguez F, p        0  0  0  0   Feliciano P, p        0  0  0  0   
+Worrell T, p          0  0  0  0   Valent E, rf          1  0  0  0   
+Howard R, ph          1  0  0  0   Williams G, ph        1  0  0  0   
+Wagner B, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  9 13  8                        37  5 10  5
+
+Philadelphia     022 010 220 --  9
+New York         032 000 000 --  5
+
+  Philadelphia         IP  H  R ER BB SO
+Myers B               4.0  7  5  5  0  5
+Hernandez R           1.0  1  0  0  0  1
+Jones T (W)           1.0  0  0  0  0  2
+Rodriguez F           1.0  1  0  0  0  1
+Worrell T             1.0  1  0  0  0  0
+Wagner B              1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Leiter A*             4.0  8  5  4  4  2
+Bell H                1.1  0  0  0  2  0
+Feliciano P           0.2  0  0  0  0  0
+Bottalico R (L)       1.1  3  3  3  0  2
+Darensbourg V         0.2  2  1  1  0  1
+Yates T               1.0  0  0  0  0  1
+  * Pitched to 3 batters in 5th
+
+E -- Wright D
+DP -- New York 2
+LOB -- Philadelphia 9, New York 5
+2B -- Abreu B 2, Bell D 2, Cameron M
+HR -- Wright D, Hidalgo R, Keppinger J, Michaels J, Polanco P
+CS -- Rollins J
+SH -- Myers B
+HBP -- by Leiter A (Bell D)
+T -- 3:23
+A -- 27827
+     Game of 9/11/2004 -- Philadelphia at New York (D)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Rollins J, ss         6  0  0  0   Cameron M, cf         6  2  2  0   
+Polanco P, 2b         7  0  0  0   Keppinger J, 2b       6  2  3  1   
+Abreu B, rf           3  1  1  0   Wright D, 3b          7  2  4  1   
+Thome J, 1b           7  2  2  0   Piazza M, 1b          3  0  0  1   
+Bell D, 3b            7  2  4  4   Williams G, pr        0  0  0  0   
+Michaels J, cf        5  2  2  1   Zeile T, 1b           2  1  0  0   
+Burrell P, lf         5  1  1  2   Bottalico R, p        0  0  0  0   
+Pratt T, c            6  2  2  2   Darensbourg V, p      0  0  0  0   
+Milton E, p           1  0  0  0   Glavine T, ph         0  0  0  0   
+Geary G, p            0  0  0  0   Hidalgo R, lf-rf      6  0  0  1   
+Howard R, ph          1  1  1  2   Diaz V, rf            3  0  1  2   
+Madson R, p           0  0  0  0   Looper B, p           0  0  0  0   
+Wooten S, ph          1  0  0  0   Garcia D, ph          0  1  0  0   
+Cormier R, p          0  0  0  0   Bell H, p             0  0  0  0   
+Worrell T, p          0  0  0  0   Feliciano P, p        0  0  0  0   
+Wagner B, p           0  0  0  0   Brazell C, 1b         2  0  0  0   
+Jones T, p            0  0  0  0   Phillips J, c         5  0  2  2   
+Utley C, ph           0  0  0  0   Delgado W, ss         6  1  2  1   
+Telemaco A, p         0  0  0  0   Trachsel S, p         2  0  0  0   
+Byrd M, ph            1  0  0  0   Valent E, ph          1  0  0  0   
+Hernandez R, p        0  0  0  0   Fortunato B, p        0  0  0  0   
+Rodriguez F, p        0  0  0  0   Stanton M, p          0  0  0  0   
+                                   Floyd C, lf           2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     50 11 13 11                        51  9 15  9
+
+Philadelphia     020 001 222 000 2 -- 11
+New York         300 030 012 000 0 --  9
+
+  Philadelphia         IP  H  R ER BB SO
+Milton E              5.0  7  6  6  3  3
+Geary G               1.0  1  0  0  1  2
+Madson R              1.0  0  0  0  0  0
+Cormier R             0.1  1  1  1  1  0
+Worrell T             0.2  1  0  0  0  1
+Wagner B              0.2  1  2  0  1  1
+Jones T               0.1  0  0  0  0  0
+Telemaco A            2.0  2  0  0  0  2
+Hernandez R (W)       1.0  1  0  0  0  0
+Rodriguez F (S)       1.0  1  0  0  1  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S            6.0  3  3  3  5  2
+Fortunato B           0.2  2  2  2  0  0
+Stanton M             0.2  0  0  0  1  0
+Looper B              1.2  6  4  4  1  2
+Bell H                0.2  0  0  0  1  0
+Feliciano P           0.1  0  0  0  1  0
+Bottalico R           2.0  0  0  0  0  1
+Darensbourg V (L)     1.0  2  2  2  0  0
+
+E -- Keppinger J, Rollins J, Bell D
+DP -- Philadelphia 3, New York 1
+LOB -- Philadelphia 10, New York 12
+2B -- Diaz V, Cameron M, Pratt T
+HR -- Pratt T, Bell D 2, Howard R, Burrell P
+SB -- Rollins J
+CS -- Abreu B
+SH -- Milton E
+SF -- Hidalgo R, Phillips J
+WP -- Wagner B
+T -- 5:15
+A -- 21718
+     Game of 9/12/2004 -- Philadelphia at New York (D)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Polanco P, 2b         5  0  2  0   Cameron M, cf         5  0  0  0   
+Michaels J, cf        5  0  0  0   Keppinger J, 2b       4  1  1  0   
+Abreu B, rf           4  0  0  0   Floyd C, lf           3  0  1  0   
+Thome J, 1b           3  1  1  0   Piazza M, c           4  0  1  1   
+Bell D, 3b            4  2  3  0   Wright D, 3b          4  0  1  1   
+Burrell P, lf         3  0  0  1   Hidalgo R, rf         4  0  1  0   
+Pratt T, c            2  1  1  0   Stanton M, p          0  0  0  0   
+Perez T, ss           3  0  1  2   Zeile T, 1b           4  0  3  0   
+Padilla V, p          3  0  0  1   Delgado W, ss         4  0  0  0   
+Madson R, p           0  0  0  0   Glavine T, p          2  0  0  0   
+Cormier R, p          0  0  0  0   Feliciano P, p        0  0  0  0   
+Jones T, p            0  0  0  0   Yates T, p            0  0  0  0   
+Byrd M, ph            1  0  0  0   Valent E, ph          0  0  0  0   
+Worrell T, p          0  0  0  0   Diaz V, ph-rf         2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  8  4                        36  2  9  2
+
+Philadelphia     020 002 000 --  4
+New York         000 000 020 --  2
+
+  Philadelphia         IP  H  R ER BB SO
+Padilla V (W)         6.2  4  0  0  1  5
+Madson R              0.1  0  0  0  0  0
+Cormier R             0.2  2  2  2  0  1
+Jones T               0.1  2  0  0  0  0
+Worrell T (S)         1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Glavine T (L)*        6.0  7  4  4  4  4
+Feliciano P           1.0  0  0  0  0  0
+Yates T               1.0  0  0  0  0  0
+Stanton M             1.0  1  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+E -- Delgado W
+DP -- New York 2
+LOB -- Philadelphia 7, New York 8
+2B -- Pratt T, Bell D, Perez T
+SF -- Burrell P
+PB -- Piazza M
+T -- 3:07
+A -- 23391
+     Game of 9/13/2004, game 1 -- Atlanta at New York (N)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Furcal R, ss          4  2  1  1   Cameron M, cf         4  0  1  1   
+Giles M, 2b           5  1  3  1   Keppinger J, 2b       4  0  0  0   
+Drew J, rf            4  1  2  1   Floyd C, lf           2  1  1  0   
+Jones C, 3b           4  0  1  2   Piazza M, c           4  1  2  2   
+Estrada J, c          5  0  0  0   Williams G, pr        0  1  0  0   
+LaRoche A, 1b         3  1  2  0   Wilson V, c           0  0  0  0   
+Franco J, ph-1b       1  0  0  0   Wright D, 3b          4  2  2  0   
+Jones A, cf           4  1  1  2   Hidalgo R, rf         4  1  2  3   
+Thomas C, lf          4  1  1  0   Valent E, 1b          4  1  1  0   
+Wright J, p           2  0  0  0   Looper B, p           0  0  0  0   
+Gryboski K, p         0  0  0  0   Delgado W, ss         4  1  1  1   
+Smith T, p            0  0  0  0   Heilman A, p          2  0  0  0   
+Drew T, p             0  0  0  0   Brazell C, ph         1  1  1  2   
+Wise D, ph            1  0  0  0   Bottalico R, p        0  0  0  0   
+                                   Stanton M, p          0  0  0  0   
+                                   Fortunato B, p        0  0  0  0   
+                                   Zeile T, ph-1b        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 11  7                        34  9 11  9
+
+Atlanta          000 400 102 --  7
+New York         001 005 30x --  9
+
+  Atlanta              IP  H  R ER BB SO
+Wright J (L)          5.2  7  6  6  2  6
+Gryboski K            0.1  1  0  0  0  0
+Smith T               1.0  3  3  3  0  0
+Drew T                1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Heilman A (W)         6.0  7  4  4  2  6
+Bottalico R           0.2  1  1  1  1  0
+Stanton M             0.1  0  0  0  0  0
+Fortunato B           1.0  0  0  0  0  2
+Looper B              1.0  3  2  2  0  1
+
+LOB -- Atlanta 7, New York 4
+2B -- LaRoche A, Giles M, Brazell C, Drew J, Jones C
+3B -- Furcal R
+HR -- Delgado W, Jones A, Piazza M, Hidalgo R
+SB -- Floyd C
+CS -- Cameron M
+SH -- Wright J
+HBP -- by Wright J (Floyd C)
+T -- 2:44
+A -- 0
+     Game of 9/13/2004, game 2 -- Atlanta at New York (N)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Furcal R, ss          4  1  1  1   Cameron M, cf         4  1  1  1   
+Green N, 2b           5  2  2  0   Zeile T, 1b           4  0  1  0   
+Drew J, rf            5  1  4  3   Floyd C, lf           4  0  1  0   
+Jones C, 3b           3  1  2  0   Hidalgo R, rf         4  0  0  0   
+LaRoche A, 1b         4  0  2  2   Wright D, 3b          4  0  1  0   
+Franco J, ph-1b       1  0  0  0   Phillips J, c         4  0  1  0   
+Marrero E, lf         3  0  0  1   Garcia D, 2b          3  0  0  0   
+Wise D, cf            3  1  0  0   Delgado W, ss         3  0  1  0   
+Perez E, c            4  0  2  0   Seo J, p              1  0  0  0   
+Byrd P, p             1  1  0  0   Yates T, p            0  0  0  0   
+Reitsma C, p          0  0  0  0   Brazell C, ph         1  0  1  0   
+                                   Bell H, p             0  0  0  0   
+                                   Valent E, ph          1  0  0  0   
+                                   Darensbourg V, p      0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  7 13  7                        33  1  7  1
+
+Atlanta          004 100 101 --  7
+New York         100 000 000 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Byrd P (W)            8.0  7  1  1  0  4
+Reitsma C             1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Seo J (L)             4.0  7  5  5  3  1
+Yates T               1.0  0  0  0  1  1
+Bell H                2.0  3  1  1  0  1
+Darensbourg V         2.0  3  1  1  2  0
+
+E -- Hidalgo R
+DP -- Atlanta 1, New York 2
+LOB -- Atlanta 9, New York 5
+2B -- Jones C, Drew J, LaRoche A, Perez E, Wright D, Green N
+HR -- Cameron M
+SB -- Jones C
+SH -- Byrd P 2
+SF -- Furcal R, Marrero E
+T -- 2:27
+A -- 21476
+     Game of 9/14/2004 -- Atlanta at New York (N)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Furcal R, ss          4  0  1  0   Valent E, rf          4  2  2  1   
+Meyer D, p            0  0  0  0   Williams G, ph-rf     1  0  0  0   
+Giles M, 2b           4  0  0  0   Keppinger J, 2b       5  1  3  1   
+Drew J, rf            3  0  0  0   Floyd C, lf           4  2  2  2   
+Wise D, rf            1  0  0  0   Piazza M, 1b          3  0  1  1   
+Jones C, 3b           3  0  0  0   Zeile T, pr-1b        0  0  0  0   
+DeRosa M, 3b          1  0  0  0   Wright D, 3b          4  1  3  2   
+Estrada J, c          4  0  2  0   Cameron M, cf         4  0  1  0   
+LaRoche A, 1b         4  0  0  0   Phillips J, c         4  0  0  0   
+Jones A, cf           3  0  1  0   Delgado W, ss         3  1  0  0   
+Thomas C, lf          3  0  0  0   Benson K, p           3  0  0  0   
+Ortiz R, p            2  0  0  0                                      
+Martin T, p           0  0  0  0                                      
+Drew T, p             0  0  0  0                                      
+Franco J, ph          1  0  0  0                                      
+Betemit W, ss         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  0  4  0                        35  7 12  7
+
+Atlanta          000 000 000 --  0
+New York         012 013 00x --  7
+
+  Atlanta              IP  H  R ER BB SO
+Ortiz R (L)           5.2  9  7  7  3  3
+Martin T*             0.0  2  0  0  0  0
+Drew T                1.1  0  0  0  0  1
+Meyer D               1.0  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Benson K (W)          9.0  4  0  0  0  7
+  * Pitched to 2 batters in 6th
+
+E -- Piazza M, Delgado W
+LOB -- Atlanta 6, New York 8
+2B -- Cameron M, Wright D
+HR -- Wright D, Valent E, Floyd C
+SB -- Keppinger J, Floyd C
+SH -- Benson K
+WP -- Ortiz R
+T -- 2:40
+A -- 21545
+     Game of 9/15/2004 -- Atlanta at New York (N)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Furcal R, ss          4  0  0  0   Cameron M, cf         3  0  0  0   
+Giles M, 2b           4  1  3  0   Keppinger J, 2b       4  0  1  0   
+Drew J, rf            2  1  1  1   Floyd C, lf           4  0  0  0   
+Jones C, 3b           4  0  0  0   Piazza M, 1b          4  0  0  0   
+Franco J, 1b          3  0  0  0   Wright D, 3b          2  0  0  0   
+Estrada J, c          3  0  0  0   Hidalgo R, rf         4  0  1  0   
+Jones A, cf           4  0  0  0   Phillips J, c         4  0  2  0   
+Marrero E, lf         3  0  0  0   Delgado W, ss         2  0  2  0   
+Thomas C, lf          0  0  0  0   Leiter A, p           1  0  0  0   
+Thomson J, p          3  0  0  0   Valent E, ph          1  0  0  0   
+Reitsma C, p          0  0  0  0   Fortunato B, p        0  0  0  0   
+Smoltz J, p           0  0  0  0   Zeile T, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  1                        30  0  6  0
+
+Atlanta          200 000 000 --  2
+New York         000 000 000 --  0
+
+  Atlanta              IP  H  R ER BB SO
+Thomson J (W)         7.0  5  0  0  3  5
+Reitsma C             1.0  0  0  0  1  2
+Smoltz J (S)          1.0  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Leiter A (L)          7.0  3  2  1  2 11
+Fortunato B           2.0  1  0  0  1  2
+
+E -- Delgado W
+DP -- Atlanta 2, New York 2
+LOB -- Atlanta 5, New York 9
+2B -- Giles M 2, Phillips J
+SH -- Leiter A
+HBP -- by Thomson J (Wright D), by Leiter A (Estrada J)
+T -- 2:44
+A -- 29704
+     Game of 9/16/2004 -- Atlanta at New York (N)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Furcal R, ss          3  1  1  0   Cameron M, cf         5  1  3  2   
+Betemit W, ss         2  0  0  1   Keppinger J, 2b       4  0  0  1   
+Giles M, 2b           5  0  0  0   Floyd C, lf           3  1  1  0   
+Drew J, rf            2  0  1  0   Williams G, lf        0  0  0  0   
+Wise D, ph-rf         1  1  1  1   Piazza M, c           3  1  2  0   
+Jones C, 3b           2  0  1  0   Looper B, p           0  0  0  0   
+Meyer D, p            0  0  0  0   Wright D, 3b          5  1  1  1   
+Franco J, ph          1  0  0  0   Hidalgo R, rf         4  2  1  3   
+Colon R, p            0  0  0  0   Zeile T, 1b           3  2  2  2   
+Cruz J, p             0  0  0  0   Delgado W, ss         3  1  2  0   
+Jones A, cf           4  0  0  1   Trachsel S, p         2  0  0  0   
+LaRoche A, 1b         4  0  0  0   Bell H, p             0  0  0  0   
+Perez E, c            4  1  2  0   Valent E, ph          1  0  0  0   
+Thomas C, lf          4  0  1  0   Yates T, p            0  0  0  0   
+Capellan J, p         0  0  0  0   Phillips J, c         0  0  0  0   
+Smith T, p            1  0  0  0                                      
+Drew T, p             0  0  0  0                                      
+DeRosa M, ph-3b       3  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4  9  3                        33  9 12  9
+
+Atlanta          000 003 100 --  4
+New York         700 010 10x --  9
+
+  Atlanta              IP  H  R ER BB SO
+Capellan J (L)        1.0  6  7  7  2  0
+Smith T               3.0  1  0  0  2  2
+Drew T                1.0  2  1  0  0  0
+Meyer D               1.0  1  0  0  1  0
+Colon R               1.0  2  1  1  1  1
+Cruz J                1.0  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)*       6.0  8  4  2  1  2
+Bell H                1.0  0  0  0  1  2
+Yates T               1.0  1  0  0  0  0
+Looper B              1.0  0  0  0  0  0
+  * Pitched to 3 batters in 7th
+
+E -- Jones C, Keppinger J
+DP -- Atlanta 2, New York 1
+LOB -- Atlanta 7, New York 8
+2B -- Cameron M 2, Zeile T, Floyd C, Perez E
+HR -- Hidalgo R, Zeile T
+SB -- Cameron M
+SH -- Trachsel S
+SF -- Keppinger J
+T -- 2:49
+A -- 19885
+     Game of 9/24/2004 -- Chicago at New York (N)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Patterson C, cf       5  0  0  0   Williams G, cf        5  0  0  0   
+Lee D, 1b             5  0  1  1   Reyes J, ss           5  0  1  0   
+Ramirez A, 3b         5  1  3  1   Wright D, 3b          5  0  2  0   
+Alou M, lf            5  0  1  0   Piazza M, 1b-c        5  0  1  0   
+Hawkins L, p          0  0  0  0   Hidalgo R, lf         4  0  0  0   
+Sosa S, rf            4  0  0  0   Diaz V, rf            4  1  1  0   
+Garciaparra N, ss     4  0  1  0   Phillips J, c         3  0  2  1   
+Murray C, pr          0  0  0  0   Cameron M, pr         0  0  0  0   
+Perez N, ss           0  0  0  0   Zeile T, 1b           1  0  0  0   
+Walker T, 2b          2  0  0  0   Keppinger J, 2b       2  0  2  0   
+Remlinger M, p        0  0  0  0   Benson K, p           2  0  0  0   
+Macias J, lf          0  0  0  0   Matsui K, ph          1  0  0  0   
+Barrett M, c          4  0  0  0   Feliciano P, p        0  0  0  0   
+Rusch G, p            2  0  1  0   Bottalico R, p        0  0  0  0   
+Grieve B, ph          1  0  0  0   Valent E, ph          0  0  0  0   
+Farnsworth K, p       0  0  0  0   Garcia D, ph          1  0  0  0   
+Leicester J, p        0  0  0  0   Looper B, p           0  0  0  0   
+Grudzielanek M, 2b    0  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  2  7  2                        38  1  9  1
+
+Chicago          000 000 100 1 --  2
+New York         010 000 000 0 --  1
+
+  Chicago              IP  H  R ER BB SO
+Rusch G               6.0  6  1  1  0  7
+Farnsworth K          1.0  1  0  0  1  2
+Leicester J           1.2  1  0  0  1  3
+Remlinger M (W)       0.1  0  0  0  0  1
+Hawkins L (S)         1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Benson K              7.0  4  1  1  1  7
+Feliciano P           0.1  0  0  0  0  1
+Bottalico R           1.2  1  0  0  1  1
+Looper B (L)          1.0  2  1  1  1  0
+
+E -- Diaz V
+LOB -- Chicago 8, New York 9
+2B -- Diaz V, Phillips J, Alou M
+HR -- Ramirez A
+SB -- Lee D
+CS -- Lee D
+WP -- Bottalico R
+T -- 2:57
+A -- 28196
+     Game of 9/25/2004 -- Chicago at New York (D)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Patterson C, cf       5  0  0  0   Williams G, cf        5  0  0  0   
+Lee D, 1b             2  0  0  0   Matsui K, ss          2  0  0  0   
+Ramirez A, 3b         4  0  2  0   Delgado W, ss         3  0  0  0   
+Alou M, lf            2  0  0  1   Wright D, 3b          4  0  0  0   
+Sosa S, rf            5  0  0  0   Piazza M, 1b          5  0  1  0   
+Wuertz M, p           0  0  0  0   Seo J, p              0  0  0  0   
+Mercker K, p          0  0  0  0   Hidalgo R, rf         3  0  0  0   
+Garciaparra N, ss     3  1  1  0   Stanton M, p          0  0  0  0   
+Dempster R, p         0  0  0  0   Fortunato B, p        0  0  0  0   
+Hawkins L, p          0  0  0  0   Bell H, p             0  0  0  0   
+Murray C, rf          1  0  0  0   Zeile T, ph           1  0  0  0   
+Walker T, 2b          4  1  2  2   Bottalico R, p        0  0  0  0   
+Macias J, pr-2b       1  0  0  0   Brazell C, 1b         1  1  1  1   
+Bako P, c             4  0  0  0   Valent E, lf          3  1  1  0   
+Barrett M, ph-c       1  0  1  0   Phillips J, c         2  1  0  0   
+Prior M, p            3  1  1  0   Keppinger J, 2b       3  0  1  0   
+Perez N, ss           2  0  0  0   Heilman A, p          1  0  0  0   
+                                   Reyes J, ph           1  0  0  0   
+                                   Yates T, p            0  0  0  0   
+                                   Diaz V, rf            2  1  2  3   
+                     -- -- -- --                        -- -- -- --
+                     37  3  7  3                        36  4  6  4
+
+Chicago          020 000 010 00 --  3
+New York         000 000 003 01 --  4
+  0 outs when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Prior M               7.2  4  0  0  2  5
+Dempster R            0.2  0  2  2  2  1
+Hawkins L             0.2  1  1  1  0  1
+Wuertz M              1.0  0  0  0  0  1
+Mercker K (L)         0.0  1  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Heilman A             5.0  3  2  2  4  5
+Yates T               1.1  0  0  0  0  2
+Stanton M             1.0  1  1  1  0  2
+Fortunato B*          0.0  0  0  0  2  0
+Bell H                1.2  1  0  0  1  2
+Bottalico R           1.0  1  0  0  1  0
+Seo J (W)             1.0  1  0  0  0  0
+  * Pitched to 2 batters in 8th
+
+E -- Ramirez A
+DP -- New York 3
+LOB -- Chicago 9, New York 7
+2B -- Valent E, Barrett M
+HR -- Walker T, Diaz V, Brazell C
+HBP -- by Prior M (Phillips J)
+T -- 3:22
+A -- 34284
+     Game of 9/26/2004 -- Chicago at New York (D)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Patterson C, cf       4  0  1  0   Reyes J, 2b-ss        3  1  1  0   
+Lee D, 1b             4  0  0  0   Matsui K, ss          4  0  2  1   
+Ramirez A, 3b         2  1  0  0   Keppinger J, 2b       0  0  0  0   
+Alou M, lf            2  1  0  0   Wright D, 3b          4  0  0  0   
+Garciaparra N, ss     4  0  1  1   Brazell C, 1b         4  1  2  0   
+Sosa S, rf            3  0  0  1   Diaz V, rf            4  1  2  0   
+Barrett M, c          3  0  0  0   Cameron M, cf         0  0  0  0   
+Walker T, ph          1  0  0  0   Valent E, lf          3  0  0  0   
+Perez N, 2b           3  0  1  0   Phillips J, c         3  0  1  1   
+Grieve B, ph          1  0  0  0   Williams G, cf-rf     3  0  0  1   
+Wood K, p             2  0  0  0   Leiter A, p           1  0  0  0   
+Wuertz M, p           0  0  0  0   Zeile T, ph           1  0  0  0   
+                                   Stanton M, p          0  0  0  0   
+                                   Yates T, p            0  0  0  0   
+                                   Looper B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  2  3  2                        30  3  8  3
+
+Chicago          000 200 000 --  2
+New York         300 000 00x --  3
+
+  Chicago              IP  H  R ER BB SO
+Wood K (L)            7.0  7  3  3  3  7
+Wuertz M              1.0  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Leiter A (W)          6.0  2  2  2  5  5
+Stanton M             1.0  1  0  0  0  0
+Yates T               1.0  0  0  0  0  1
+Looper B (S)          1.0  0  0  0  0  1
+
+E -- Brazell C
+DP -- Chicago 2
+LOB -- Chicago 6, New York 8
+2B -- Garciaparra N
+SB -- Reyes J
+CS -- Patterson C
+SH -- Wood K
+HBP -- by Wood K (Valent E), by Wood K (Phillips J)
+T -- 2:29
+A -- 36476
+     Game of 10/1/2004 -- Montreal at New York (N)
+
+  Montreal           AB  R  H RBI    New York           AB  R  H RBI
+Wilkerson B, 1b       4  0  1  0   Reyes J, ss           4  1  2  0   
+Chavez E, cf          3  2  2  0   Matsui K, 2b          4  1  1  1   
+Batista T, 3b         5  1  2  0   Wright D, 3b          4  0  1  0   
+Sledge T, lf          4  1  2  2   Zeile T, 1b           4  0  1  1   
+Rivera J, rf          3  0  2  0   Diaz V, rf            4  0  0  0   
+Schneider B, c        4  0  2  2   Williams G, cf        4  0  0  0   
+Harris B, 2b          3  0  0  0   Phillips J, c         3  0  0  0   
+Church R, ph          1  0  0  0   Piazza M, ph          1  0  0  0   
+Ayala L, p            0  0  0  0   Valent E, lf          3  0  1  0   
+Cordero C, p          0  0  0  0   Benson K, p           1  0  0  0   
+Labandeira J, ss      4  0  0  0   Bell H, p             0  0  0  0   
+Downs S, p            2  0  0  0   Brazell C, ph         1  0  0  0   
+Pascucci V, ph        1  0  0  0   Feliciano P, p        0  0  0  0   
+Rauch J, p            0  0  0  0   Yates T, p            0  0  0  0   
+Carroll J, 2b         1  0  0  0   Stanton M, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 11  4                        33  2  6  2
+
+Montreal         011 000 020 --  4
+New York         200 000 000 --  2
+
+  Montreal             IP  H  R ER BB SO
+Downs S               6.0  5  2  2  1  5
+Rauch J (W)           1.0  0  0  0  0  1
+Ayala L               1.0  1  0  0  0  0
+Cordero C (S)         1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Benson K              5.0  5  2  2  3  6
+Bell H                2.0  1  0  0  0  2
+Feliciano P (L)*      0.0  0  1  1  1  0
+Yates T               1.0  3  1  1  1  0
+Stanton M             1.0  2  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Batista T
+DP -- New York 3
+LOB -- Montreal 9, New York 6
+2B -- Reyes J 2, Wright D, Sledge T
+SH -- Benson K
+T -- 3:04
+A -- 29273
+     Game of 10/2/2004 -- Montreal at New York (N)
+
+  Montreal           AB  R  H RBI    New York           AB  R  H RBI
+Wilkerson B, 1b       5  2  3  3   Reyes J, ss           5  0  0  0   
+Izturis M, ss         5  0  1  0   Matsui K, 2b          5  1  2  0   
+Batista T, 3b         5  0  0  0   Wright D, 3b          4  0  1  0   
+Rivera J, cf-rf       4  1  1  1   Piazza M, c           3  0  1  0   
+Sledge T, lf          4  0  2  1   Valent E, lf          3  1  1  0   
+Pascucci V, rf        3  1  1  1   Williams G, ph-lf     1  0  0  1   
+Chavez E, cf          1  0  0  0   Cameron M, cf         4  1  1  1   
+Schneider B, c        4  0  0  0   Diaz V, rf            4  0  2  1   
+Harris B, 2b          4  1  1  0   Zeile T, 1b           4  0  0  0   
+Hernandez L, p        2  0  0  0   Leiter A, p           2  0  0  0   
+Ayala L, p            0  0  0  0   Brazell C, ph         1  0  0  0   
+Eischen J, p          0  0  0  0   Fortunato B, p        0  0  0  0   
+Cordero C, p          0  0  0  0   Looper B, p           0  0  0  0   
+Church R, ph          0  1  0  0   Delgado W, ph         1  0  1  0   
+Majewski G, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6  9  6                        37  3  9  3
+
+Montreal         100 002 003 --  6
+New York         000 010 110 --  3
+
+  Montreal             IP  H  R ER BB SO
+Hernandez L           7.0  6  2  2  0  7
+Ayala L               0.1  2  1  1  1  0
+Eischen J*            0.0  0  0  0  0  0
+Cordero C (W)         0.2  0  0  0  0  1
+Majewski G (S)        1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Leiter A              7.0  7  3  3  2  6
+Fortunato B           1.0  0  0  0  0  0
+Looper B (L)          1.0  2  3  2  1  0
+  * Pitched to 1 batter in 8th
+
+E -- Izturis M, Matsui K
+LOB -- Montreal 7, New York 8
+2B -- Wilkerson B 2, Diaz V, Harris B, Matsui K, Valent E, Wright D
+HR -- Cameron M, Rivera J, Pascucci V, Wilkerson B
+SB -- Izturis M
+T -- 3:03
+A -- 30147
+     Game of 10/3/2004 -- Montreal at New York (D)
+
+  Montreal           AB  R  H RBI    New York           AB  R  H RBI
+Wilkerson B, 1b       3  0  0  0   Reyes J, ss           4  2  1  0   
+Chavez E, cf          1  0  0  0   Matsui K, 2b          4  0  1  1   
+Carroll J, 2b         2  1  0  0   Bell H, p             0  0  0  0   
+Pascucci V, rf-1b     4  0  3  0   Franco J, p           0  0  0  0   
+Sledge T, lf          3  0  2  1   Delgado W, ph         1  0  1  1   
+Church R, cf-rf       4  0  0  0   Hietpas J, c          0  0  0  0   
+Diaz E, c             4  0  0  0   Wright D, 3b          3  1  2  3   
+Harris B, 3b          3  0  0  0   Piazza M, 1b          2  0  1  0   
+Labandeira J, ss      4  0  0  0   Brazell C, 1b         2  0  0  0   
+Patterson J, p        2  0  0  0   Cameron M, cf         4  0  0  0   
+Vargas C, p           0  0  0  0   Valent E, lf          4  1  2  0   
+Batista T, ph         1  0  0  0   Williams G, lf        0  0  0  0   
+Rauch J, p            0  0  0  0   Diaz V, rf            4  1  1  0   
+Beltran F, p          0  0  0  0   Zeile T, c            3  1  1  3   
+Izturis M, ph         1  0  0  0   Garcia D, ph          1  1  1  0   
+                                   Fortunato B, p        0  0  0  0   
+                                   Glavine T, p          0  1  0  0   
+                                   Keppinger J, ph-2b    1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  5  1                        33  8 11  8
+
+Montreal         100 000 000 --  1
+New York         102 013 01x --  8
+
+  Montreal             IP  H  R ER BB SO
+Patterson J (L)       4.1  4  4  4  3  3
+Vargas C              1.2  3  3  3  0  1
+Rauch J               1.0  2  0  0  0  1
+Beltran F             1.0  2  1  1  1  1
+
+  New York             IP  H  R ER BB SO
+Glavine T (W)         6.0  3  1  1  4  5
+Bell H                1.2  1  0  0  0  2
+Franco J              0.1  1  0  0  0  0
+Fortunato B           1.0  0  0  0  1  2
+
+E -- Harris B, Labandeira J, Reyes J
+DP -- New York 1
+LOB -- Montreal 9, New York 8
+2B -- Pascucci V
+HR -- Wright D, Zeile T
+SB -- Reyes J 3, Matsui K
+SH -- Reyes J
+SF -- Wright D
+HBP -- by Patterson J (Wright D)
+T -- 3:10
+A -- 33569
+

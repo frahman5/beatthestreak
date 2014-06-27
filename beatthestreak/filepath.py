@@ -3,6 +3,7 @@ import os
 from datetime import date
 
 from exception import BadFilepathException
+from config import rootDir
 
 class Filepath(object):
     """
@@ -23,8 +24,7 @@ class Filepath(object):
     def get_root(self):
         # had to hard code this because using inspect.stack()[0][1] and 
         # importing beatthestreak caused all sorts of errors. 
-        return '/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak'
-        # return '/home/vagrant/programming/Python/beatthestreak'
+        return rootDir
 
     @classmethod
     def get_datasets(self):
@@ -243,4 +243,7 @@ class Filepath(object):
         Returns the pathname for the player_hit_info_csv_file of the player with
         lahmanID in year year 
         """
-        return self.get_datasets() + '/playerInfo/{0}/{1}.txt'.format(year, lahmanID)
+        folder = self.get_datasets() + '/playerInfo/{0}'.format(year)
+        if not os.path.isdir(folder): # pragma: no cover
+            os.mkdir(folder)
+        return folder + '/{0}.txt'.format(lahmanID)

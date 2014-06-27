@@ -88,62 +88,6 @@ class TestCResearcher(unittest.TestCase):
         self.assertFalse(R.c_did_get_hit(date(2010, 9, 4), Eric))
         self.assertTrue(R.c_did_get_hit(date(2010, 4, 23), Miguel))
 
-    def test_c_boxscore_buffer(self):
-        d1 = date(2012, 6, 17)
-        d2 = date(2012, 6, 15)
-        d3 = date(2012, 8, 9)
-        Albert = Player("Albert", "Pujols", 2012)
-        Jose = p2
-        Colby = Player("Colby", "Rasmus", 2012)
-        
-        ## CHECK 1: If a team's info is not on the buffer, then startSeekPos
-        ## is 0 and boxscore buffer is updated
-            ## Check 1.1: If it's a new year, startSeekPos = 0 and boxscore 
-            ## buffer is set to [year, {'team': lastByteChecked}]
-        R.boxscoreBuffer = [2010, {}] # 2010 on buffer
-        R.did_get_hit(d1, Albert)
-        self.assertEqual(R.boxscoreBuffer, [2012, {'ANA': (d1, 53499)}])
-        self.assertEqual(R.type1SeekPosUsed, 0)
-            ## Check 1.2: If its the same year but the team's boxscore has not
-            ## yet been opened, startSeekPos = 0 and team is added to 
-            ## boxscoreBuffer[1].keys
-        self.assertEqual(R.boxscoreBuffer, [2012, {'ANA': (d1, 53499)}])
-        R.did_get_hit(d2, Jose)
-        self.assertEqual(R.boxscoreBuffer, 
-            [2012, {'ANA': (d1, 53499), 'TBA': (d2, 57767)}])
-        self.assertEqual(R.type1SeekPosUsed, 0)
-
-        ## CHECK 2: if a team's boxscore info is on the buffer, then their
-        ## info is examined on the buffer
-            ## Check 2.1: If date is GREATER than date on buffer, startSeekPos 
-            ## = boxscoreBuffer[1][team][1] and buffer's last byte checked 
-            ## is updated
-        self.assertEqual(R.boxscoreBuffer, 
-            [2012, {'ANA': (d1, 53499), 'TBA': (d2, 57767)}])
-        R.did_get_hit(d3, Colby)
-        self.assertEqual(R.boxscoreBuffer, 
-            [2012, {'ANA': (d1, 53499), 'TBA': (d3, 101880)}])
-        self.assertEqual(R.type1SeekPosUsed, 57767)
-
-            ## CHECK 2.2: if date is less than date on buffer, startSeekPos = 0
-            ## and last byte checked is updated
-        self.assertEqual(R.boxscoreBuffer, 
-            [2012, {'ANA': (d1, 53499), 'TBA': (d3, 101880)}])
-        R.did_get_hit(d2, Jose)
-        self.assertEqual(R.boxscoreBuffer, 
-            [2012, {'ANA': (d1, 53499), 'TBA': (d2, 57767)}])
-        self.assertEqual(R.type1SeekPosUsed, 0) 
-
-
-            ## Check 2.3: If date is EQUAL to date on buffer, startSeekPos = 0
-            ## and last byte checked is the SAME
-        self.assertEqual(R.boxscoreBuffer, 
-            [2012, {'ANA': (d1, 53499), 'TBA': (d2, 57767)}])
-        R.did_get_hit(d2, Jose)
-        self.assertEqual(R.boxscoreBuffer, 
-            [2012, {'ANA': (d1, 53499), 'TBA': (d2, 57767)}])
-        self.assertEqual(R.type1SeekPosUsed, 0)  
-
     def test_c_cget_hit_info(self):
         d1 = date(2012, 4, 15)
         d2 = date(2001, 7, 18)

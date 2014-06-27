@@ -1,0 +1,3649 @@
+     Game of 4/11/2000 -- Los Angeles at San Francisco (D)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+White D, cf           5  2  3  0   Benard M, cf          4  0  0  0   
+Grudzielanek M, 2b    5  0  0  0   Mueller B, 3b         4  1  1  0   
+Green S, rf           4  0  1  1   Bonds B, lf           4  1  2  2   
+Sheffield G, lf       3  0  1  0   Kent J, 2b            3  1  0  0   
+Shaw J, p             0  0  0  0   Burks E, rf           4  0  1  0   
+Berroa G, 1b          4  0  2  1   Snow J, 1b            3  1  1  1   
+Adams T, p            0  0  0  0   Aurilia R, ss         4  0  1  0   
+Hollandsworth, ph-lf  1  0  0  0   Mirabelli D, c        4  1  2  1   
+Beltre A, 3b          4  0  0  0   Rueter K, p           2  0  0  0   
+Hundley T, c          4  1  1  0   Embree A, p           0  0  0  0   
+Elster K, ss          3  3  3  4   Crespo F, ph          1  0  0  0   
+Park C, p             3  0  0  0   Rodriguez F, p        0  0  0  0   
+Hansen D, 1b          1  0  1  0   Rios A, ph            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 12  6                        34  5  8  4
+
+Los Angeles      001 030 110 --  6
+San Francisco    101 001 101 --  5
+
+  Los Angeles          IP  H  R ER BB SO
+Park C (W)            6.0  6  3  3  2  4
+Adams T               2.0  1  1  1  0  0
+Shaw J (S)            1.0  1  1  1  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (L)          6.0  8  4  4  3  3
+Embree A              1.0  2  1  1  1  1
+Rodriguez F           2.0  2  1  1  0  3
+
+E -- Berroa G
+DP -- Los Angeles 2, San Francisco 1
+LOB -- Los Angeles 8, San Francisco 4
+2B -- Bonds B, Aurilia R, White D, Hansen D
+3B -- Mirabelli D
+HR -- Elster K 3, Bonds B, Mirabelli D, Snow J
+SB -- White D
+CS -- White D
+WP -- Park C
+T -- 3:01
+A -- 40930
+     Game of 4/12/2000 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Hollandsworth T, cf   4  2  2  0   Benard M, cf          5  0  1  0   
+Grudzielanek M, 2b    4  1  1  1   Mueller B, 3b         3  1  0  0   
+Sheffield G, lf       5  1  2  0   Bonds B, lf           4  1  0  0   
+Fetters M, p          0  0  0  0   Kent J, 2b            5  1  2  0   
+Hansen D, 1b          0  0  0  0   Snow J, 1b            3  1  1  0   
+Green S, rf           4  2  2  1   Burks E, rf           3  0  0  1   
+Karros E, 1b          2  0  0  0   Aurilia R, ss         4  1  2  3   
+Shaw J, p             0  0  0  0   Estalella B, c        3  0  0  0   
+Hundley T, c          2  0  0  1   Fultz A, p            0  0  0  0   
+Beltre A, 3b          3  0  1  2   Crespo F, ph          1  0  0  0   
+Elster K, ss          3  0  0  0   Johnstone J, p        0  0  0  0   
+Dreifort D, p         3  0  0  0   Nathan J, p           2  0  1  0   
+Williams J, p         0  0  0  0   Weber B, p            0  0  0  0   
+Adams T, p            1  0  0  0   Mirabelli D, c        2  0  0  0   
+Santangelo F, lf      0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  6  8  5                        35  5  7  4
+
+Los Angeles      011 001 300 --  6
+San Francisco    001 102 010 --  5
+
+  Los Angeles          IP  H  R ER BB SO
+Dreifort D            5.0  2  2  1  1  1
+Williams J            0.1  1  2  2  2  0
+Adams T (W)           1.2  1  0  0  0  0
+Fetters M             1.0  2  1  1  1  1
+Shaw J (S)            1.0  1  0  0  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Nathan J              6.0  4  3  3  5  5
+Weber B (L)*          0.0  3  3  3  0  0
+Fultz A               2.0  1  0  0  2  1
+Johnstone J           1.0  0  0  0  0  1
+  * Pitched to 3 batters in 7th
+
+E -- Karros E
+DP -- San Francisco 1
+LOB -- Los Angeles 9, San Francisco 8
+2B -- Hollandsworth T, Nathan J, Green S
+HR -- Aurilia R
+SB -- Green S, Benard M
+SF -- Green S, Beltre A, Hundley T
+HBP -- by Nathan J (Karros E)
+WP -- Dreifort D 2, Weber B
+T -- 3:18
+A -- 40930
+     Game of 4/13/2000 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Hollandsworth T, cf   5  1  2  1   Benard M, cf          5  1  1  1   
+Grudzielanek M, 2b    4  1  0  0   Davis R, 3b           4  2  2  0   
+Sheffield G, lf       4  1  1  1   Bonds B, lf           2  1  1  2   
+Santangelo F, lf      1  0  0  0   Murray C, ph-lf       1  1  1  2   
+Green S, rf           5  3  3  1   Kent J, 2b            3  0  0  0   
+Beltre A, 3b          5  1  3  2   Mueller B, ph-2b      2  0  0  0   
+Hansen D, 1b          4  2  2  2   Burks E, rf           3  0  3  0   
+Kreuter C, c          4  1  0  1   Rios A, rf            2  0  0  0   
+Vizcaino J, ss        5  1  1  1   Aurilia R, ss         4  0  1  0   
+Perez C, p            3  0  0  0   Snow J, 1b            4  0  0  0   
+Berroa G, ph          1  0  1  2   Nen R, p              0  0  0  0   
+Masaoka O, p          0  0  0  0   Estalella B, c        3  0  0  0   
+Mills A, p            0  0  0  0   Embree A, p           0  0  0  0   
+Shaw J, p             0  0  0  0   Crespo F, 1b          1  1  1  0   
+                                   Gardner M, p          0  0  0  0   
+                                   Rodriguez F, p        1  0  0  0   
+                                   Martinez R, ph        1  0  0  0   
+                                   Weber B, p            0  0  0  0   
+                                   Mirabelli D, c        2  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     41 11 13 11                        38  7 11  7
+
+Los Angeles      610 010 300 -- 11
+San Francisco    201 000 202 --  7
+
+  Los Angeles          IP  H  R ER BB SO
+Perez C (W)           6.0  6  3  3  1  3
+Masaoka O             2.0  2  2  2  0  1
+Mills A               0.1  3  2  2  1  0
+Shaw J (S)            0.2  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M (L)         1.2  6  7  6  0  1
+Rodriguez F           2.1  0  0  0  0  2
+Weber B               2.1  5  4  4  2  2
+Embree A              1.2  2  0  0  0  1
+Nen R                 1.0  0  0  0  0  0
+
+E -- Davis R
+LOB -- Los Angeles 6, San Francisco 7
+2B -- Hansen D, Beltre A
+HR -- Bonds B, Green S, Benard M, Murray C, Mirabelli D
+SB -- Hollandsworth T
+HBP -- by Gardner M (Grudzielanek M), by Perez C (Davis R)
+PB -- Kreuter C
+T -- 3:11
+A -- 40930
+     Game of 4/14/2000 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Womack T, ss          4  0  0  0   Murray C, cf          4  1  3  0   
+Bell J, 2b            4  0  0  0   Mueller B, 3b         4  0  1  1   
+Gonzalez L, lf        3  0  1  0   Bonds B, lf           4  0  0  0   
+Durazo E, 1b          4  0  2  0   Kent J, 2b            4  0  0  0   
+Frias H, pr           0  0  0  0   Burks E, rf           4  0  0  0   
+Colbrunn G, 1b        0  0  0  0   Davis R, 1b           3  0  0  0   
+Finley S, cf          3  0  0  0   Snow J, 1b            0  0  0  0   
+Lee T, rf             3  2  2  1   Aurilia R, ss         3  0  0  0   
+Harris L, 3b          4  1  0  0   Mirabelli D, c        3  0  0  0   
+Miller D, c           4  0  2  2   Hernandez L, p        3  0  1  0   
+Johnson R, p          4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  3                        32  1  5  1
+
+Arizona          010 000 002 --  3
+San Francisco    000 001 000 --  1
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         9.0  5  1  1  0 11
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (L)       9.0  8  3  3  2  5
+
+DP -- San Francisco 1
+LOB -- Arizona 6, San Francisco 4
+2B -- Gonzalez L, Mueller B, Miller D
+HR -- Lee T
+SB -- Murray C
+SH -- Finley S
+T -- 2:32
+A -- 40930
+     Game of 4/15/2000 -- Arizona at San Francisco (D)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Womack T, ss          4  0  0  0   Benard M, cf          4  0  1  0   
+Bell J, 2b            5  0  1  0   Mueller B, 3b         4  0  0  0   
+Gonzalez L, lf        4  1  0  0   Embree A, p           0  0  0  0   
+Durazo E, 1b          3  2  2  0   Bonds B, lf           4  1  1  1   
+Finley S, cf          3  1  1  1   Kent J, 2b            4  1  1  0   
+Lee T, rf             3  1  0  0   Snow J, 1b            4  1  3  0   
+Harris L, 3b          3  0  1  2   Rios A, rf            4  1  1  1   
+Stinnett K, c         4  2  3  4   Aurilia R, ss         3  0  0  0   
+Stottlemyre T, p      2  0  0  0   Estalella B, c        3  0  1  0   
+Holmes D, p           0  0  0  0   Ortiz R, p            1  0  0  0   
+Plesac D, p           0  0  0  0   Martinez R, ph        1  0  0  0   
+Dellucci D, ph        1  0  1  0   Fultz A, p            0  0  0  0   
+Swindell G, p         1  0  0  0   Crespo F, ph          1  0  0  1   
+                                   Linebrink S, p        0  0  0  0   
+                                   Davis R, 3b           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  7  9  7                        34  4  8  3
+
+Arizona          001 400 020 --  7
+San Francisco    100 003 000 --  4
+
+  Arizona              IP  H  R ER BB SO
+Stottlemyre T (W)*    5.0  7  3  3  2  2
+Holmes D              0.1  1  1  1  1  1
+Plesac D              0.2  0  0  0  0  1
+Swindell G (S)        3.0  0  0  0  0  3
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (L)           5.0  4  5  5  4  1
+Fultz A               1.0  0  0  0  0  0
+Linebrink S           1.0  2  0  0  0  0
+Embree A              2.0  3  2  2  1  4
+  * Pitched to 2 batters in 6th
+
+DP -- San Francisco 2
+LOB -- Arizona 5, San Francisco 6
+2B -- Kent J
+HR -- Bonds B, Stinnett K 2
+SB -- Rios A, Harris L, Finley S
+CS -- Benard M
+SF -- Harris L
+WP -- Plesac D
+T -- 3:07
+A -- 40930
+     Game of 4/28/2000 -- Montreal at San Francisco (N)
+
+  Montreal           AB  R  H RBI    San Francisco      AB  R  H RBI
+Bergeron P, cf        4  1  1  0   Benard M, cf-rf       5  1  2  0   
+Vidro J, 2b           5  1  3  1   Mueller B, 3b         5  0  3  1   
+Guerrero W, lf        2  1  0  0   Bonds B, lf           4  0  0  0   
+Jones T, lf           1  0  0  0   Kent J, 2b            4  1  1  0   
+Guerrero V, rf        3  1  0  0   Burks E, rf           4  1  3  1   
+Stevens L, 1b         5  1  1  2   Murray C, pr-cf       0  0  0  0   
+Barrett M, 3b         2  2  1  0   Snow J, 1b            3  0  2  1   
+Widger C, c           4  2  2  5   Aurilia R, ss         4  0  0  0   
+Cabrera O, ss         4  0  0  0   Embree A, p           0  0  0  0   
+Irabu H, p            2  0  0  0   Estalella B, c        3  0  0  0   
+Tracy A, ph           1  0  0  0   Ortiz R, p            3  0  0  0   
+Telford A, p          0  0  0  0   Rodriguez F, p        0  0  0  0   
+Blum G, ph            0  0  0  1   Fultz A, p            0  0  0  0   
+Strickland S, p       0  0  0  0   Johnstone J, p        0  0  0  0   
+                                   Martinez R, ss        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  9  8  9                        36  3 11  3
+
+Montreal         100 000 260 --  9
+San Francisco    100 002 000 --  3
+
+  Montreal             IP  H  R ER BB SO
+Irabu H               6.0  9  3  3  1  4
+Telford A (W)         1.0  0  0  0  0  0
+Strickland S          2.0  2  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (L)*          7.0  6  5  5  4  5
+Rodriguez F+          0.0  0  1  1  1  0
+Fultz A#              0.0  1  2  2  1  0
+Johnstone J           1.0  1  1  1  0  0
+Embree A              1.0  0  0  0  0  2
+  * Pitched to 2 batters in 8th
+  + Pitched to 1 batter in 8th
+  # Pitched to 2 batters in 8th
+
+DP -- Montreal 1
+LOB -- Montreal 5, San Francisco 8
+2B -- Bergeron P, Mueller B, Vidro J, Kent J, Widger C
+3B -- Burks E
+HR -- Widger C
+SB -- Benard M
+CS -- Bergeron P
+SF -- Snow J, Blum G
+HBP -- by Embree A (Guerrero V)
+T -- 3:07
+A -- 40930
+     Game of 4/29/2000 -- Montreal at San Francisco (D)
+
+  Montreal           AB  R  H RBI    San Francisco      AB  R  H RBI
+Bergeron P, cf        4  0  0  0   Benard M, cf          3  0  0  0   
+Guerrero W, lf        3  0  1  0   Murray C, ph-cf       1  0  0  0   
+Jones T, lf           0  0  0  0   Mueller B, 3b         4  0  1  0   
+Blum G, ph            1  0  0  0   Bonds B, lf           3  1  1  1   
+Widger C, c           4  1  1  0   Kent J, 2b            3  0  1  0   
+Guerrero V, rf        3  0  0  1   Snow J, 1b            4  0  1  0   
+Vidro J, 2b           2  0  0  0   Rios A, rf            4  0  1  0   
+Stevens L, 1b         3  0  0  0   Martinez R, ss        3  1  2  0   
+Barrett M, 3b         3  0  0  0   Mirabelli D, c        3  0  1  0   
+Cabrera O, ss         3  0  1  0   Rueter K, p           2  0  0  0   
+Vazquez J, p          1  0  0  0   Crespo F, ph          1  0  1  1   
+Kline S, p            0  0  0  0   Johnstone J, p        0  0  0  0   
+Tracy A, ph           1  0  0  0   Nen R, p              0  0  0  0   
+Telford A, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  1  3  1                        31  2  9  2
+
+Montreal         000 000 100 --  1
+San Francisco    000 000 11x --  2
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J             6.1  8  1  1  2  0
+Kline S               0.2  0  0  0  0  0
+Telford A (L)         1.0  1  1  1  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K              7.0  3  1  1  2  4
+Johnstone J (W)       1.0  0  0  0  0  0
+Nen R (S)             1.0  0  0  0  0  1
+
+DP -- Montreal 2, San Francisco 1
+LOB -- Montreal 3, San Francisco 7
+3B -- Widger C
+HR -- Bonds B
+CS -- Guerrero V
+SH -- Vazquez J
+T -- 2:18
+A -- 40930
+     Game of 4/30/2000 -- Montreal at San Francisco (D)
+
+  Montreal           AB  R  H RBI    San Francisco      AB  R  H RBI
+Bergeron P, cf        4  1  1  0   Benard M, cf          3  0  0  1   
+Guerrero W, lf        4  0  1  0   Mueller B, 3b         5  0  0  0   
+Kline S, p            0  0  0  0   Bonds B, lf           3  1  2  1   
+Strickland S, p       0  0  0  0   Kent J, 2b            3  0  0  0   
+White R, ph           0  0  0  1   Snow J, 1b            4  0  2  0   
+Urbina U, p           0  0  0  0   Rios A, rf            3  0  0  0   
+Vidro J, 2b           4  0  0  1   Aurilia R, ss         3  1  0  0   
+Guerrero V, rf        4  0  1  0   Mirabelli D, c        4  1  1  0   
+Stevens L, 1b         2  1  0  0   Nathan J, p           3  0  1  0   
+Blum G, ss            2  0  0  0   Fultz A, p            0  0  0  0   
+Cabrera O, ph-ss      1  0  0  0   Johnstone J, p        1  0  0  0   
+Widger C, c           4  0  1  1                                      
+Barrett M, 3b         3  1  1  1                                      
+Pavano C, p           2  0  0  0                                      
+Tracy A, ph           1  0  0  0                                      
+Jones T, lf           1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  6  4                        32  3  6  2
+
+Montreal         100 100 101 --  4
+San Francisco    020 010 000 --  3
+
+  Montreal             IP  H  R ER BB SO
+Pavano C              6.0  5  3  2  5  3
+Kline S               1.0  1  0  0  1  0
+Strickland S (W)      1.0  0  0  0  0  2
+Urbina U (S)          1.0  0  0  0  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Nathan J              7.1  4  3  2  6  4
+Fultz A               0.1  0  0  0  0  0
+Johnstone J (L)       1.1  2  1  1  0  0
+
+E -- Mirabelli D, Pavano C
+LOB -- Montreal 8, San Francisco 10
+2B -- Bonds B, Widger C, Snow J
+3B -- Guerrero V
+HR -- Bonds B, Barrett M
+SB -- Bergeron P, Bonds B 2
+SF -- Benard M, White R
+T -- 2:52
+A -- 40930
+     Game of 5/1/2000 -- New York at San Francisco (N)
+
+  New York           AB  R  H RBI    San Francisco      AB  R  H RBI
+Henderson R, lf       2  1  0  0   Murray C, cf          5  1  1  0   
+Bell D, rf            4  0  0  0   Mueller B, 3b         5  1  1  0   
+Franco J, p           0  0  0  0   Bonds B, lf           3  3  2  3   
+Alfonzo E, 2b         4  0  3  1   Rios A, lf            0  0  0  0   
+Ventura R, 3b         3  0  0  0   Kent J, 2b            3  3  2  1   
+Mora M, 3b            0  0  0  1   Rodriguez F, p        0  0  0  0   
+Zeile T, 1b           4  1  1  1   Crespo F, rf          4  0  1  1   
+Payton J, cf          3  0  2  0   Aurilia R, ss         4  1  1  1   
+Pratt T, c            2  0  1  0   Snow J, 1b            4  0  0  0   
+Nunnally J, ph        1  0  0  0   Estalella B, c        3  1  2  2   
+Ordonez R, ss         4  0  0  0   Estes S, p            3  0  1  1   
+Pulsipher B, p        1  0  0  0   Embree A, p           0  0  0  0   
+Mahomes P, p          0  0  0  0   Martinez R, 2b        0  0  0  0   
+Abbott K, ph          1  0  0  0                                      
+Rodriguez R, p        0  0  0  0                                      
+Agbayani B, ph-rf     0  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  3  7  3                        34 10 11  9
+
+New York         000 000 120 --  3
+San Francisco    010 323 10x -- 10
+
+  New York             IP  H  R ER BB SO
+Pulsipher B (L)       3.1  3  4  4  4  3
+Mahomes P             1.2  3  2  2  1  0
+Rodriguez R           2.0  5  4  4  0  2
+Franco J              1.0  0  0  0  2  1
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (W)*          7.0  5  3  2  5  2
+Embree A              1.0  1  0  0  0  1
+Rodriguez F           1.0  1  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+E -- Henderson R, Rios A
+DP -- San Francisco 4
+LOB -- New York 5, San Francisco 9
+2B -- Kent J, Estalella B, Estes S
+HR -- Kent J, Bonds B, Zeile T
+SB -- Payton J, Bonds B
+SH -- Crespo F
+SF -- Mora M
+HBP -- by Pulsipher B (Snow J)
+T -- 2:50
+A -- 40930
+     Game of 5/2/2000 -- New York at San Francisco (N)
+
+  New York           AB  R  H RBI    San Francisco      AB  R  H RBI
+Henderson R, lf       4  0  2  0   Murray C, cf          4  0  2  0   
+Cook D, p             0  0  0  0   Rios A, rf            4  0  0  0   
+Wendell T, p          0  0  0  0   Bonds B, lf           4  2  2  0   
+Franco M, ph          1  0  0  0   Benard M, lf          0  0  0  0   
+Bell D, rf            4  0  0  0   Kent J, 2b            4  1  2  1   
+Alfonzo E, 2b         3  1  1  0   Davis R, 3b           4  1  2  1   
+Ventura R, 3b         3  0  1  1   Snow J, 1b            3  1  1  0   
+Zeile T, 1b           4  0  1  0   Aurilia R, ss         4  1  1  1   
+Payton J, cf          4  0  2  0   Estalella B, c        4  1  1  4   
+Pratt T, c            4  0  0  0   Hernandez L, p        3  0  0  0   
+Ordonez R, ss         2  0  0  0                                      
+Nunnally J, ph-lf     1  0  0  0                                      
+Rusch G, p            2  0  0  0                                      
+Mora M, ph-ss         2  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  1  8  1                        34  7 11  7
+
+New York         100 000 000 --  1
+San Francisco    100 600 00x --  7
+
+  New York             IP  H  R ER BB SO
+Rusch G (L)           6.0 11  7  7  0  2
+Cook D                1.0  0  0  0  0  0
+Wendell T             1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       9.0  8  1  1  3  5
+
+DP -- San Francisco 1
+LOB -- New York 9, San Francisco 4
+2B -- Ventura R, Kent J, Payton J, Bonds B
+3B -- Bonds B
+HR -- Estalella B
+HBP -- by Rusch G (Snow J)
+T -- 2:17
+A -- 40930
+     Game of 5/3/2000 -- New York at San Francisco (D)
+
+  New York           AB  R  H RBI    San Francisco      AB  R  H RBI
+Nunnally J, lf        1  2  1  1   Murray C, cf          4  0  1  1   
+Agbayani B, ph-lf     2  0  1  0   Rios A, ph-rf         1  0  0  0   
+Bell D, rf            5  0  3  1   Benard M, rf-cf       6  2  2  0   
+Alfonzo E, 2b         5  0  1  0   Bonds B, lf           5  1  1  1   
+Ventura R, 3b         5  0  2  0   Kent J, 2b            5  1  3  4   
+Payton J, cf          3  1  0  0   Davis R, 1b           3  1  0  0   
+Cook D, p             0  0  0  0   Snow J, ph-1b         2  0  1  0   
+Mahomes P, p          0  0  0  0   Mueller B, 3b         5  1  2  0   
+Piazza M, ph          1  0  1  0   Aurilia R, ss         3  1  2  0   
+Franco J, p           0  0  0  0   Mirabelli D, c        2  0  0  1   
+Abbott K, ph          1  0  0  0   Burks E, ph           1  0  0  0   
+Wendell T, p          0  0  0  0   Estalella B, c        0  0  0  0   
+Franco M, 1b          3  1  1  0   Ortiz R, p            1  1  0  0   
+Zeile T, ph-1b        2  0  1  0   Martinez R, ph        0  0  0  1   
+Pratt T, c            5  1  2  1   Johnstone J, p        0  0  0  0   
+Ordonez R, ss         4  0  0  0   Fultz A, p            0  0  0  0   
+Hampton M, p          2  0  0  0   Nen R, p              0  0  0  0   
+Mora M, cf            2  0  1  2   Crespo F, ph          0  0  0  0   
+                                   Rodriguez F, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  5 14  5                        38  8 12  8
+
+New York         101 100 200 00 --  5
+San Francisco    101 003 000 03 --  8
+  0 outs when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Hampton M             5.1  6  5  4  6  2
+Cook D                0.2  1  0  0  0  1
+Mahomes P             1.0  1  0  0  0  0
+Franco J              2.0  1  0  0  1  2
+Wendell T (L)         1.0  3  3  3  2  0
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R               6.0  6  3  3  2  4
+Johnstone J           0.1  3  2  2  0  0
+Fultz A               2.2  2  0  0  0  4
+Nen R                 1.0  2  0  0  0  1
+Rodriguez F (W)       1.0  1  0  0  0  0
+
+E -- Ventura R
+DP -- New York 2, San Francisco 4
+LOB -- New York 6, San Francisco 11
+2B -- Pratt T, Piazza M
+3B -- Mora M
+HR -- Nunnally J, Kent J
+SB -- Benard M, Nunnally J, Payton J, Mueller B
+CS -- Kent J, Nunnally J
+SH -- Ordonez R, Fultz A, Aurilia R
+WP -- Ortiz R
+T -- 4:06
+A -- 40930
+     Game of 5/4/2000 -- New York at San Francisco (D)
+
+  New York           AB  R  H RBI    San Francisco      AB  R  H RBI
+Henderson R, lf       1  1  0  0   Benard M, cf          3  1  1  1   
+Ordonez R, ss         0  0  0  0   Mueller B, 3b         4  1  1  3   
+Franco M, ph          1  0  0  0   Bonds B, lf           4  0  0  0   
+Bell D, cf-rf         3  0  0  0   Kent J, 2b            4  1  1  2   
+Piazza M, c           4  1  3  2   Snow J, 1b            4  0  0  0   
+Ventura R, 3b         4  0  0  0   Rios A, rf            2  1  0  0   
+Zeile T, 1b           3  0  0  0   Aurilia R, ss         3  1  2  0   
+Agbayani B, rf-lf     3  0  0  0   Mirabelli D, c        2  1  1  0   
+Nunnally J, ph-lf     1  0  0  0   Burks E, ph           1  0  0  0   
+Benitez A, p          0  0  0  0   Estalella B, c        0  0  0  0   
+Mora M, 2b-cf         4  0  1  0   Rueter K, p           2  0  0  0   
+Abbott K, ss-2b       4  0  0  0   Rodriguez F, p        0  0  0  0   
+Reed R, p             2  0  0  0   Crespo F, ph          1  1  1  1   
+Cook D, p             0  0  0  0   Nen R, p              0  0  0  0   
+Payton J, lf          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  2                        30  7  7  7
+
+New York         000 002 000 --  2
+San Francisco    001 000 06x --  7
+
+  New York             IP  H  R ER BB SO
+Reed R (L)            7.1  5  4  4  1  4
+Cook D*               0.0  0  1  1  0  0
+Benitez A             0.2  2  2  2  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K              7.0  3  2  2  4  2
+Rodriguez F (W)       1.0  1  0  0  1  3
+Nen R                 1.0  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Aurilia R
+DP -- New York 1
+LOB -- New York 8, San Francisco 1
+2B -- Piazza M, Mirabelli D, Benard M
+3B -- Mueller B
+HR -- Piazza M, Kent J
+SB -- Piazza M
+SH -- Reed R
+HBP -- by Cook D (Benard M)
+Balk -- Cook D
+T -- 2:40
+A -- 40930
+     Game of 5/5/2000 -- Colorado at San Francisco (N)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Hunter B, cf          4  0  0  0   Benard M, cf          3  0  0  0   
+Lansing M, 2b         4  0  0  0   Murray C, ph-cf       1  1  1  2   
+Walker L, rf          3  0  0  0   Mueller B, 3b         4  0  1  1   
+Cirillo J, 3b         3  0  1  0   Bonds B, lf           4  0  0  0   
+Ledesma A, 3b         1  0  1  0   Kent J, 2b            3  0  0  0   
+Helton T, 1b          3  0  0  0   Martinez R, 2b        1  0  0  0   
+Hammonds J, lf        2  0  0  0   Snow J, 1b            3  1  1  1   
+Perez N, ss           3  0  1  0   Rios A, rf            3  1  1  0   
+Mayne B, c            3  0  0  0   Aurilia R, ss         3  0  0  0   
+Yoshii M, p           2  0  0  0   Estalella B, c        3  1  2  1   
+Bragg D, ph           1  0  0  0   Nathan J, p           1  0  0  0   
+Belinda S, p          0  0  0  0   Johnstone J, p        0  0  0  0   
+White G, p            0  0  0  0   Burks E, ph           0  0  0  0   
+                                   Rueter K, pr          0  1  0  0   
+                                   Embree A, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  0  3  0                        29  5  6  5
+
+Colorado         000 000 000 --  0
+San Francisco    010 000 04x --  5
+
+  Colorado             IP  H  R ER BB SO
+Yoshii M (L)          7.0  2  1  1  0  3
+Belinda S             0.1  2  3  3  1  0
+White G               0.2  2  1  1  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Nathan J (W)          7.0  2  0  0  3  5
+Johnstone J           1.0  0  0  0  0  1
+Embree A              1.0  1  0  0  0  1
+
+E -- Mueller B
+DP -- San Francisco 1
+LOB -- Colorado 5, San Francisco 2
+2B -- Cirillo J, Estalella B 2, Rios A, Murray C
+HR -- Snow J
+SB -- Walker L
+CS -- Perez N
+SH -- Nathan J
+T -- 2:34
+A -- 40930
+     Game of 5/6/2000 -- Colorado at San Francisco (D)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Hunter B, cf          4  0  2  0   Benard M, cf-rf       3  1  0  0   
+Lansing M, 2b         3  0  2  0   Mueller B, 3b         4  0  1  2   
+Walker L, rf          3  0  0  0   Snow J, 1b            4  0  0  0   
+Cirillo J, 3b         3  0  1  0   Kent J, 2b            3  2  3  0   
+Helton T, 1b          4  0  1  0   Burks E, rf           2  0  0  0   
+Hammonds J, lf        4  0  1  0   Murray C, pr-cf       1  1  0  0   
+Perez N, ss           4  0  2  0   Rios A, lf            3  1  2  1   
+Servais S, c          4  0  0  0   Martinez R, ss        2  0  0  0   
+Arrojo R, p           2  0  0  0   Mirabelli D, c        4  1  2  2   
+White G, p            0  0  0  0   Estes S, p            4  0  1  0   
+Ledesma A, ph         1  0  0  0                                      
+DeJean M, p           0  0  0  0                                      
+Myers M, p            0  0  0  0                                      
+Shumpert T, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  0  9  0                        30  6  9  5
+
+Colorado         000 000 000 --  0
+San Francisco    000 113 01x --  6
+
+  Colorado             IP  H  R ER BB SO
+Arrojo R (L)*         5.0  7  5  4  4  4
+White G               1.0  0  0  0  0  2
+DeJean M              1.2  2  1  1  2  0
+Myers M               0.1  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (W)           9.0  9  0  0  3  6
+  * Pitched to 5 batters in 6th
+
+E -- Lansing M
+DP -- Colorado 2, San Francisco 1
+LOB -- Colorado 9, San Francisco 9
+2B -- Helton T, Rios A, Mueller B
+3B -- Kent J
+SB -- Hammonds J, Kent J 2, Lansing M, Hunter B
+SF -- Mueller B
+HBP -- by Arrojo R (Snow J), by Arrojo R (Burks E)
+WP -- DeJean M
+T -- 2:55
+A -- 40930
+     Game of 5/8/2000 -- St. Louis at San Francisco (N)
+
+  St. Louis          AB  R  H RBI    San Francisco      AB  R  H RBI
+Vina F, 2b            4  0  2  0   Benard M, cf          4  1  1  0   
+Renteria E, ss        5  0  1  0   Mueller B, 3b         3  1  2  1   
+Lankford R, lf        4  0  2  0   Bonds B, lf           2  0  0  0   
+McGwire M, 1b         4  1  1  1   Kent J, 2b            3  0  0  0   
+Edmonds J, cf         3  1  1  0   Snow J, 1b            4  0  1  1   
+Paquette C, 3b        4  0  0  0   Burks E, rf           3  1  1  0   
+Drew J, rf            4  1  1  2   Rios A, rf            1  0  0  0   
+James M, p            0  0  0  0   Aurilia R, ss         2  1  0  0   
+Matheny M, c          4  0  0  0   Estalella B, c        3  2  2  4   
+Hentgen P, p          1  0  0  0   Hernandez L, p        3  0  1  0   
+Sutton L, ph          1  1  1  1   Embree A, p           0  0  0  0   
+Mohler M, p           0  0  0  0   Johnstone J, p        0  0  0  0   
+Howard T, rf          1  0  0  0   Davis R, ph           1  0  0  0   
+                                   Nen R, p              0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        29  6  8  6
+
+St. Louis        000 001 120 --  4
+San Francisco    030 010 11x --  6
+
+  St. Louis            IP  H  R ER BB SO
+Hentgen P (L)         6.0  5  4  4  5  3
+Mohler M              1.1  2  1  1  1  0
+James M               0.2  1  1  1  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       6.2  7  2  2  2  6
+Embree A              0.1  0  0  0  0  1
+Johnstone J           1.0  2  2  2  0  2
+Nen R (S)             1.0  0  0  0  0  0
+
+DP -- San Francisco 1
+LOB -- St. Louis 7, San Francisco 6
+2B -- Vina F, Mueller B
+3B -- Benard M
+HR -- Estalella B 2, McGwire M, Sutton L, Drew J
+SB -- Edmonds J
+CS -- Bonds B
+SF -- Mueller B
+HBP -- by Nen R (Vina F)
+WP -- Hentgen P
+T -- 2:41
+A -- 40930
+     Game of 5/9/2000 -- St. Louis at San Francisco (N)
+
+  St. Louis          AB  R  H RBI    San Francisco      AB  R  H RBI
+Vina F, 2b            6  2  3  3   Benard M, cf-rf       4  0  0  0   
+Renteria E, ss        5  2  2  1   Mueller B, 3b         4  2  1  0   
+Polanco P, ss         1  0  0  0   Bonds B, lf           4  1  1  1   
+Lankford R, lf        5  2  2  1   Crespo F, lf          1  0  0  0   
+McGwire M, 1b         2  2  2  1   Kent J, 2b            4  2  2  2   
+Sutton L, 1b          0  0  0  0   Snow J, 1b            5  1  4  1   
+Edmonds J, cf         5  2  2  1   Rios A, rf            3  0  1  0   
+Paquette C, 3b        5  0  1  2   Rodriguez F, p        0  0  0  0   
+Drew J, rf            5  2  3  2   Mirabelli D, ph       0  0  0  0   
+Marrero E, c          4  1  0  0   Aurilia R, ss         3  0  1  0   
+Stephenson G, p       2  0  0  0   Estalella B, c        4  0  1  1   
+Slocumb H, p          0  0  0  0   Ortiz R, p            0  0  0  0   
+Howard T, ph          1  0  0  0   Gardner M, p          1  0  0  0   
+Holmes D, p           0  0  0  0   Davis R, ph           1  0  0  0   
+Brunette J, p         0  0  0  0   Embree A, p           0  0  0  0   
+Veres D, p            0  0  0  0   Martinez R, ph        1  0  0  0   
+                                   Fultz A, p            0  0  0  0   
+                                   Murray C, cf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41 13 15 11                        36  6 11  5
+
+St. Louis        280 010 200 -- 13
+San Francisco    000 300 201 --  6
+
+  St. Louis            IP  H  R ER BB SO
+Stephenson G (W)      5.2  8  3  3  4  3
+Slocumb H             1.1  2  2  2  1  0
+Holmes D              1.0  0  0  0  0  0
+Brunette J            0.2  1  1  1  3  0
+Veres D               0.1  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (L)           1.1  7  8  5  1  2
+Gardner M             2.2  4  2  1  3  3
+Embree A              2.0  2  1  1  1  2
+Fultz A               1.0  2  2  2  1  1
+Rodriguez F           2.0  0  0  0  1  2
+
+E -- Kent J
+DP -- St. Louis 2
+LOB -- St. Louis 10, San Francisco 11
+2B -- Drew J, Snow J, Kent J, McGwire M, Paquette C
+HR -- Vina F, Renteria E, Kent J, Lankford R, Bonds B
+SB -- Lankford R
+SH -- Stephenson G 2
+WP -- Ortiz R, Brunette J
+PB -- Estalella B 3
+T -- 3:28
+A -- 40930
+     Game of 5/10/2000 -- St. Louis at San Francisco (D)
+
+  St. Louis          AB  R  H RBI    San Francisco      AB  R  H RBI
+Vina F, 2b            3  1  0  0   Murray C, cf          4  1  1  0   
+Renteria E, ss        4  2  2  1   Mueller B, 3b         4  0  1  1   
+Edmonds J, cf         4  0  2  1   Bonds B, lf           3  2  2  2   
+McGwire M, 1b         1  0  0  0   Kent J, 2b            4  0  0  0   
+Davis E, rf           4  0  1  1   Snow J, 1b            4  0  1  0   
+Dunston S, lf         3  0  0  0   Aurilia R, ss         3  1  0  0   
+Drew J, ph            1  0  0  0   Rios A, rf            3  0  1  0   
+Paquette C, 3b        3  0  0  0   Mirabelli D, c        3  0  1  1   
+Lankford R, ph        1  0  0  0   Rueter K, p           2  0  0  0   
+Matheny M, c          3  0  1  0   Davis R, ph           1  0  0  0   
+Howard T, ph          1  0  1  0   Rodriguez F, p        0  0  0  0   
+Marrero E, pr         0  0  0  0   Nen R, p              0  0  0  0   
+Benes A, p            2  0  0  0                                      
+Slocumb H, p          0  0  0  0                                      
+Sutton L, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  7  3                        31  4  7  4
+
+St. Louis        200 010 000 --  3
+San Francisco    011 010 01x --  4
+
+  St. Louis            IP  H  R ER BB SO
+Benes A               7.0  6  3  3  2  5
+Slocumb H (L)         1.0  1  1  1  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K              7.0  6  3  3  2  3
+Rodriguez F (W)       1.0  0  0  0  1  2
+Nen R (S)             1.0  1  0  0  0  2
+
+E -- Edmonds J
+DP -- St. Louis 1, San Francisco 2
+LOB -- St. Louis 6, San Francisco 5
+2B -- Edmonds J
+HR -- Bonds B 2, Renteria E
+SB -- Marrero E
+SH -- Benes A
+HBP -- by Rueter K (Vina F)
+T -- 2:39
+A -- 40930
+     Game of 5/23/2000 -- Montreal at San Francisco (N)
+
+  Montreal           AB  R  H RBI    San Francisco      AB  R  H RBI
+Jones T, cf           4  0  0  0   Benard M, cf          4  0  1  0   
+Guerrero W, ph        1  0  0  0   Mueller B, 3b         4  1  1  0   
+Bergeron P, cf        0  0  0  0   Bonds B, lf           4  1  3  2   
+Vidro J, 2b           5  1  3  0   Kent J, 2b            4  0  1  0   
+White R, lf           4  1  4  2   Snow J, 1b            3  0  1  0   
+Guerrero V, rf        4  0  1  0   Aurilia R, ss         2  0  0  0   
+Widger C, c           4  0  0  0   Martinez R, ss        2  0  1  0   
+Stevens L, 1b         4  0  0  0   Rios A, rf            2  0  0  0   
+Hermanson D, p        0  0  0  0   Lowery T, ph-rf       2  0  0  0   
+Mordecai M, 3b        4  0  2  0   Mirabelli D, c        3  0  0  0   
+Cabrera O, ss         3  1  1  1   Rueter K, p           2  0  0  0   
+Pavano C, p           3  0  0  0   Davis R, ph           1  0  0  0   
+Poole J, p            0  0  0  0   Johnstone J, p        0  0  0  0   
+Mota G, p             0  0  0  0                                      
+Kline S, p            0  0  0  0                                      
+Tracy A, 1b           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  3 11  3                        33  2  8  2
+
+Montreal         200 100 000 --  3
+San Francisco    000 101 000 --  2
+
+  Montreal             IP  H  R ER BB SO
+Pavano C (W)*         6.0  7  2  2  1  4
+Poole J               0.1  0  0  0  0  1
+Mota G                0.2  0  0  0  0  0
+Kline S               0.2  1  0  0  0  1
+Hermanson D (S)       1.1  0  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (L)          7.0  9  3  3  0  4
+Johnstone J           2.0  2  0  0  1  0
+  * Pitched to 1 batter in 7th
+
+DP -- Montreal 1, San Francisco 1
+LOB -- Montreal 8, San Francisco 5
+2B -- Guerrero V, Bonds B 2, Vidro J, Mueller B, Martinez R, Mordecai M
+HR -- White R, Cabrera O, Bonds B
+SB -- White R
+CS -- Kent J
+SH -- Cabrera O
+PB -- Widger C
+T -- 2:43
+A -- 40930
+     Game of 5/24/2000 -- Montreal at San Francisco (N)
+
+  Montreal           AB  R  H RBI    San Francisco      AB  R  H RBI
+Bergeron P, cf        3  0  1  0   Benard M, cf-lf-rf    4  1  1  0   
+Cabrera O, ss         4  0  1  0   Crespo F, rf          0  0  0  1   
+White R, lf           3  0  0  0   Mueller B, 3b         3  2  1  0   
+Jones T, lf           1  0  0  0   Martinez R, 2b        2  0  1  1   
+Guerrero V, rf        2  0  2  0   Bonds B, lf           3  3  3  3   
+Guerrero W, rf        2  0  0  0   Murray C, cf          3  2  2  0   
+Vidro J, 2b           4  0  1  0   Kent J, 2b            3  3  1  1   
+Stevens L, 1b         3  0  1  0   Davis R, 3b           1  0  1  0   
+Lira F, p             0  0  0  0   Snow J, 1b            4  2  3  5   
+Blum G, ph            1  0  0  0   Rios A, 1b            0  0  0  0   
+Widger C, c           2  0  0  0   Burks E, rf           3  1  0  1   
+Poole J, p            0  0  0  0   Lowery T, lf          1  1  1  1   
+Johnson M, p          0  0  0  0   Estalella B, c        5  1  1  0   
+Tracy A, ph-1b        1  0  0  0   Aurilia R, ss         5  1  1  0   
+Mordecai M, 3b        3  0  1  0   Estes S, p            4  1  2  5   
+Thurman M, p          0  0  0  0                                      
+Webster L, c          2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  7  0                        41 18 18 18
+
+Montreal         000 000 000 --  0
+San Francisco    301 073 04x -- 18
+
+  Montreal             IP  H  R ER BB SO
+Thurman M (L)         4.0  5  4  3  1  2
+Poole J*              0.0  4  5  5  1  0
+Johnson M             2.0  3  5  4  1  4
+Lira F                2.0  6  4  1  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (W)           9.0  7  0  0  1  7
+  * Pitched to 5 batters in 5th
+
+E -- Guerrero V, Johnson M, Cabrera O
+DP -- Montreal 1, San Francisco 2
+LOB -- Montreal 6, San Francisco 6
+2B -- Bonds B
+3B -- Snow J
+HR -- Bonds B, Estes S, Snow J
+SH -- Estes S, Thurman M
+SF -- Snow J
+HBP -- by Lira F (Crespo F)
+T -- 2:40
+A -- 40930
+     Game of 5/25/2000 -- Montreal at San Francisco (D)
+
+  Montreal           AB  R  H RBI    San Francisco      AB  R  H RBI
+Bergeron P, cf        4  0  1  0   Benard M, cf          2  2  1  0   
+Vidro J, 2b           3  0  1  1   Mueller B, 3b         4  0  0  0   
+White R, lf           3  0  0  0   Bonds B, lf           4  1  3  4   
+Guerrero V, rf        4  0  1  0   Kent J, 2b            3  0  1  0   
+Stevens L, 1b         3  0  0  0   Snow J, 1b            4  0  1  0   
+Tracy A, 3b           4  0  0  0   Burks E, rf           4  0  1  0   
+Cabrera O, ss         3  0  1  0   Aurilia R, ss         4  0  1  0   
+Poole J, p            0  0  0  0   Mirabelli D, c        4  0  0  0   
+Mota G, p             0  0  0  0   Hernandez L, p        3  1  1  0   
+Jones T, ph           1  0  1  0   Nen R, p              0  0  0  0   
+Webster L, c          2  0  0  0                                      
+Guerrero W, ph        1  0  0  0                                      
+O'Brien C, c          1  0  0  0                                      
+Armas T, p            2  0  0  0                                      
+Blum G, ss            1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        32  4  9  4
+
+Montreal         000 000 010 --  1
+San Francisco    003 000 10x --  4
+
+  Montreal             IP  H  R ER BB SO
+Armas T (L)           6.1  8  4  4  2  5
+Poole J               0.2  1  0  0  1  1
+Mota G                1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       8.0  5  1  1  2  9
+Nen R (S)             1.0  1  0  0  0  1
+
+E -- Poole J
+LOB -- Montreal 7, San Francisco 7
+2B -- Bonds B, Bergeron P
+HR -- Bonds B
+SB -- Benard M
+SF -- Vidro J
+PB -- Webster L
+T -- 2:35
+A -- 40930
+     Game of 5/26/2000 -- Chicago at San Francisco (N)
+
+  Chicago            AB  R  H RBI    San Francisco      AB  R  H RBI
+Young E, 2b           4  0  0  0   Benard M, cf          4  0  1  0   
+Karchner M, p         0  0  0  0   Martinez R, 2b        4  2  2  1   
+Martinez D, 1b        4  1  1  0   Bonds B, lf           3  2  2  0   
+Sosa S, rf            4  0  2  0   Kent J, 1b            3  1  0  0   
+Rodriguez H, lf       4  1  2  2   Burks E, rf           4  0  3  3   
+Greene W, 3b          4  0  0  0   Mueller B, 3b         4  0  1  1   
+Nieves J, ss          4  1  1  1   Aurilia R, ss         4  0  1  0   
+Buford D, cf          4  0  0  0   Mirabelli D, c        4  0  0  0   
+Girardi J, c          3  0  2  0   Gardner M, p          3  0  0  0   
+Tapani K, p           2  0  0  0   Nen R, p              0  0  0  0   
+Huson J, ph-2b        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        33  5 10  5
+
+Chicago          000 000 003 --  3
+San Francisco    300 020 00x --  5
+
+  Chicago              IP  H  R ER BB SO
+Tapani K (L)          7.0  9  5  5  2  9
+Karchner M            1.0  1  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M (W)         8.1  7  2  2  0  2
+Nen R                 0.2  1  1  1  0  0
+
+DP -- San Francisco 1
+LOB -- Chicago 4, San Francisco 6
+2B -- Bonds B, Girardi J, Burks E, Sosa S
+3B -- Aurilia R
+HR -- Martinez R, Rodriguez H, Nieves J
+CS -- Benard M
+T -- 2:15
+A -- 40930
+     Game of 5/27/2000 -- Chicago at San Francisco (D)
+
+  Chicago            AB  R  H RBI    San Francisco      AB  R  H RBI
+Young E, 2b           5  0  0  0   Benard M, cf          5  0  1  0   
+Greene W, 3b          3  0  1  0   Nen R, p              0  0  0  0   
+Sosa S, rf            4  0  0  0   Lowery T, rf          0  0  0  0   
+Reed J, c             3  0  0  0   Aurilia R, ss         5  1  2  0   
+Rodriguez H, lf       5  1  2  1   Bonds B, lf           4  1  0  0   
+Meyers C, pr          0  1  0  0   Kent J, 2b            4  0  2  1   
+Gonzalez R, lf        0  0  0  0   Burks E, rf           4  0  2  1   
+Zuleta J, 1b          5  1  1  1   Fultz A, p            0  0  0  0   
+Buford D, cf          3  0  0  0   Davis R, 3b           3  0  0  0   
+Nieves J, ss          4  0  0  1   Mueller B, ph-3b      1  0  0  0   
+Downs S, p            2  0  0  0   Snow J, 1b            5  0  1  0   
+Martinez D, ph        1  0  0  0   Estalella B, c        3  0  0  0   
+Worrell T, p          0  0  0  0   Murray C, pr-cf       1  0  0  0   
+Heredia F, p          0  0  0  0   Ortiz R, p            2  0  1  0   
+Van Poppel T, p       0  0  0  0   Rodriguez F, p        0  0  0  0   
+Huson J, ph           1  0  0  0   Rios A, ph            1  0  0  0   
+Garibay D, p          0  0  0  0   Johnstone J, p        0  0  0  0   
+Hill G, ph            0  0  0  0   Martinez R, ph        0  0  0  0   
+Aguilera R, p         0  0  0  0   Mirabelli D, c        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3  4  3                        39  2  9  2
+
+Chicago          000 000 020 01 --  3
+San Francisco    200 000 000 00 --  2
+
+  Chicago              IP  H  R ER BB SO
+Downs S               6.0  7  2  2  1  5
+Worrell T             1.0  0  0  0  0  1
+Heredia F             0.1  0  0  0  0  0
+Van Poppel T          0.2  1  0  0  1  0
+Garibay D (W)         2.0  0  0  0  2  2
+Aguilera R (S)        1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R               6.0  1  0  0  7 11
+Rodriguez F           1.0  0  0  0  0  2
+Johnstone J           2.0  2  2  2  0  1
+Nen R                 1.0  0  0  0  0  1
+Fultz A (L)           1.0  1  1  1  2  0
+
+E -- Aurilia R
+DP -- Chicago 2
+LOB -- Chicago 10, San Francisco 10
+2B -- Benard M, Ortiz R, Greene W, Rodriguez H
+3B -- Aurilia R
+HR -- Rodriguez H, Zuleta J
+SB -- Kent J
+CS -- Aurilia R, Huson J
+SH -- Martinez R
+SF -- Nieves J
+HBP -- by Downs S (Bonds B)
+T -- 3:37
+A -- 40930
+     Game of 5/28/2000 -- Chicago at San Francisco (D)
+
+  Chicago            AB  R  H RBI    San Francisco      AB  R  H RBI
+Young E, 2b           4  1  2  0   Benard M, cf          3  0  0  0   
+Girardi J, c          4  0  0  0   Rodriguez F, p        0  0  0  0   
+Sosa S, rf            3  2  2  2   Mueller B, 3b         3  0  1  0   
+Hill G, lf            4  0  1  0   Bonds B, lf           4  0  0  0   
+Martinez D, lf        1  0  0  0   Kent J, 2b            4  0  2  0   
+Zuleta J, 1b          5  1  0  0   Snow J, 1b            4  0  0  0   
+Greene W, 3b          4  0  1  0   Burks E, rf           4  0  0  0   
+Buford D, cf          2  0  1  2   Aurilia R, ss         2  1  0  0   
+Nieves J, ss          3  0  0  0   Mirabelli D, c        2  0  2  1   
+Wood K, p             3  0  1  0   Martinez R, ph        1  0  0  0   
+Gonzalez R, ph        1  0  0  0   Rueter K, p           0  0  0  0   
+Heredia F, p          0  0  0  0   Rios A, ph            0  0  0  0   
+Van Poppel T, p       0  0  0  0   Fultz A, p            1  0  0  0   
+Aguilera R, p         0  0  0  0   Murray C, cf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  8  4                        29  1  5  1
+
+Chicago          300 000 001 --  4
+San Francisco    000 010 000 --  1
+
+  Chicago              IP  H  R ER BB SO
+Wood K (W)            7.0  3  1  1  6  5
+Heredia F             0.1  1  0  0  0  1
+Van Poppel T          0.2  1  0  0  0  1
+Aguilera R (S)        1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (L)          5.0  6  3  1  4  1
+Fultz A               2.2  1  0  0  0  4
+Rodriguez F           1.1  1  1  1  1  0
+
+E -- Burks E, Aurilia R
+DP -- Chicago 2
+LOB -- Chicago 11, San Francisco 8
+2B -- Young E 2, Kent J, Greene W, Mirabelli D
+HR -- Sosa S
+SB -- Young E
+SH -- Girardi J, Rueter K, Nieves J
+SF -- Sosa S
+T -- 3:04
+A -- 40930
+     Game of 5/29/2000 -- Philadelphia at San Francisco (D)
+
+  Philadelphia       AB  R  H RBI    San Francisco      AB  R  H RBI
+Glanville D, cf       4  0  1  0   Benard M, cf          3  1  1  0   
+Sefcik K, rf          3  0  1  0   Murray C, ph-cf       0  0  0  0   
+Lieberthal M, c       2  0  0  0   Mueller B, 3b         5  0  2  3   
+Burrell P, 1b         4  0  0  0   Bonds B, lf           4  0  2  0   
+Jordan K, 3b          4  2  2  0   Kent J, 2b            4  0  1  0   
+Gant R, lf            2  0  0  0   Burks E, rf           3  0  0  0   
+Gomes W, p            0  0  0  0   Embree A, p           0  0  0  0   
+Aldred S, p           0  0  0  0   Snow J, 1b            4  2  2  0   
+Boyd J, p             0  0  0  0   Aurilia R, ss         3  1  2  0   
+Morandini M, 2b       2  0  0  0   Estalella B, c        4  1  1  1   
+Relaford D, ss        3  0  0  1   Estes S, p            2  0  0  0   
+Schilling C, p        2  0  0  0   Crespo F, ph          1  1  1  2   
+Ducey R, lf           1  0  0  0   Rios A, rf            1  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     27  2  4  1                        34  7 13  7
+
+Philadelphia     010 000 100 --  2
+San Francisco    000 000 43x --  7
+
+  Philadelphia         IP  H  R ER BB SO
+Schilling C (L)       6.2  9  4  4  4  7
+Gomes W               0.2  2  2  2  0  1
+Aldred S              0.1  2  1  1  1  1
+Boyd J                0.1  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (W)           7.0  4  2  1  3  1
+Embree A (S)          2.0  0  0  0  1  3
+
+DP -- Philadelphia 2, San Francisco 3
+LOB -- Philadelphia 3, San Francisco 9
+2B -- Jordan K 2, Snow J, Aurilia R, Mueller B, Estalella B
+SH -- Gant R, Aurilia R
+WP -- Aldred S
+PB -- Estalella B
+T -- 2:44
+A -- 40930
+     Game of 5/30/2000 -- Philadelphia at San Francisco (N)
+
+  Philadelphia       AB  R  H RBI    San Francisco      AB  R  H RBI
+Glanville D, cf       4  0  0  0   Benard M, cf          3  2  1  1   
+Gant R, lf            3  1  2  2   Mueller B, 3b         4  1  2  2   
+Abreu B, rf           4  0  1  0   Bonds B, lf           4  0  1  0   
+Lieberthal M, c       4  1  1  0   Kent J, 2b            4  1  1  2   
+Burrell P, 1b         4  0  1  0   Snow J, 1b            3  0  0  0   
+Jordan K, 3b          4  0  0  0   Aurilia R, ss         1  1  1  0   
+Morandini M, 2b       4  0  1  1   Martinez R, ss        3  0  0  0   
+Arias A, ss           4  1  2  0   Rios A, rf            3  0  2  0   
+Ashby A, p            1  0  0  0   Estalella B, c        4  2  3  1   
+Ward B, p             0  0  0  0   Hernandez L, p        3  0  1  1   
+Schrenk S, p          0  0  0  0   Nen R, p              0  0  0  0   
+Ducey R, ph           1  0  0  0                                      
+Brock C, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  3                        32  7 12  7
+
+Philadelphia     000 100 011 --  3
+San Francisco    012 103 00x --  7
+
+  Philadelphia         IP  H  R ER BB SO
+Ashby A (L)           5.2 10  6  6  3  1
+Ward B                0.1  1  1  1  0  0
+Schrenk S             1.0  0  0  0  0  1
+Brock C               1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       8.1  8  3  3  1  7
+Nen R (S)             0.2  0  0  0  0  0
+
+E -- Gant R, Kent J
+DP -- Philadelphia 2, San Francisco 2
+LOB -- Philadelphia 5, San Francisco 5
+2B -- Hernandez L, Arias A
+3B -- Abreu B
+HR -- Kent J, Gant R, Mueller B
+CS -- Rios A
+SH -- Ashby A, Hernandez L
+T -- 2:39
+A -- 40930
+     Game of 5/31/2000 -- Philadelphia at San Francisco (N)
+
+  Philadelphia       AB  R  H RBI    San Francisco      AB  R  H RBI
+Glanville D, cf       5  0  1  0   Benard M, cf-lf       5  0  2  3   
+Gant R, lf            5  1  1  1   Mueller B, 3b         4  0  1  1   
+Abreu B, rf           4  1  2  0   Bonds B, lf           4  1  3  1   
+Lieberthal M, c       4  0  1  0   Murray C, pr-cf       0  0  0  0   
+Hunter B, 1b          3  1  1  1   Kent J, 2b            5  0  0  0   
+Jordan K, 3b          4  1  2  2   Snow J, 1b            4  1  2  0   
+Morandini M, 2b       4  0  1  0   Burks E, rf           4  4  3  2   
+Relaford D, ss        3  0  0  0   Embree A, p           0  0  0  0   
+Ward B, p             0  0  0  0   Martinez R, ss        4  1  2  3   
+Brantley J, p         0  0  0  0   Mirabelli D, c        1  2  1  0   
+Sefcik K, ph          0  0  0  0   Gardner M, p          1  0  0  0   
+Byrd P, p             2  0  0  0   Lowery T, ph          0  0  0  0   
+Arias A, ss           2  0  0  0   Rodriguez F, p        0  0  0  0   
+                                   Johnstone J, p        0  0  0  0   
+                                   Rios A, ph-rf         0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4  9  4                        32 10 14 10
+
+Philadelphia     100 003 000 --  4
+San Francisco    120 202 03x -- 10
+
+  Philadelphia         IP  H  R ER BB SO
+Byrd P (L)            5.1 10  7  7  3  1
+Ward B                1.2  1  0  0  1  1
+Brantley J            1.0  3  3  3  2  0
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M (W)         6.0  7  4  4  1  3
+Rodriguez F           1.0  0  0  0  0  0
+Johnstone J           1.0  1  0  0  0  1
+Embree A              1.0  1  0  0  1  0
+
+DP -- Philadelphia 1
+LOB -- Philadelphia 7, San Francisco 6
+2B -- Lieberthal M, Burks E, Glanville D, Abreu B 2
+HR -- Gant R, Bonds B, Burks E, Jordan K, Martinez R
+SB -- Bonds B, Burks E
+CS -- Martinez R
+SH -- Gardner M
+SF -- Mueller B
+WP -- Byrd P
+T -- 2:38
+A -- 40930
+     Game of 6/9/2000 -- Seattle at San Francisco (N)
+
+  Seattle            AB  R  H RBI    San Francisco      AB  R  H RBI
+Henderson R, lf       4  0  2  1   Murray C, cf          5  1  1  0   
+Mesa J, p             0  0  0  0   Davis R, 3b           5  1  3  1   
+Paniagua J, p         0  0  0  0   Bonds B, lf           2  0  0  0   
+Lampkin T, ph         1  0  0  0   Benard M, rf          1  1  1  0   
+Bell D, 3b            3  0  1  0   Kent J, 2b            5  1  3  1   
+Olerud J, ph          1  0  0  0   Burks E, rf           2  2  1  1   
+Mabry J, 3b-1b        0  0  0  0   Rios A, lf            1  0  1  1   
+Rodriguez A, ss       4  1  1  1   Aurilia R, ss         3  0  0  1   
+Martinez E, 1b        3  0  1  0   Rodriguez F, p        0  0  0  0   
+Gipson C, pr-3b       0  0  0  0   Mueller B, ph         1  0  0  0   
+Buhner J, rf          4  0  1  0   Johnstone J, p        0  0  0  0   
+Cameron M, cf         3  0  0  0   Snow J, 1b            4  2  3  1   
+Wilson D, c           3  1  1  0   Mirabelli D, c        4  1  1  1   
+McLemore M, 2b        4  0  1  0   Rueter K, p           2  0  2  0   
+Halama J, p           1  0  0  0   Martinez R, ss        1  0  0  0   
+Rodriguez F, p        1  0  0  0                                      
+Javier S, ph-lf       2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        36  9 16  7
+
+Seattle          100 000 100 --  2
+San Francisco    104 210 01x --  9
+
+  Seattle              IP  H  R ER BB SO
+Halama J (L)          3.0 10  5  3  3  1
+Rodriguez F           3.0  4  3  3  1  3
+Mesa J                1.0  0  0  0  0  2
+Paniagua J            1.0  2  1  1  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (W)          6.2  7  2  2  2  4
+Rodriguez F           1.1  1  0  0  1  1
+Johnstone J           1.0  0  0  0  0  0
+
+E -- Wilson D, Bell D, Rodriguez F
+DP -- Seattle 3, San Francisco 1
+LOB -- Seattle 8, San Francisco 9
+2B -- Davis R, Benard M
+HR -- Rodriguez A, Burks E, Snow J
+SH -- Rueter K
+SF -- Aurilia R
+WP -- Halama J
+T -- 3:04
+A -- 40930
+     Game of 6/10/2000 -- Seattle at San Francisco (D)
+
+  Seattle            AB  R  H RBI    San Francisco      AB  R  H RBI
+Henderson R, lf       5  2  2  2   Benard M, cf          3  0  0  0   
+Bell D, 3b            4  0  1  0   Murray C, ph-cf       0  0  0  0   
+Rodriguez A, ss       2  0  2  1   Mueller B, 3b         4  0  0  0   
+Buhner J, rf          4  0  1  2   Bonds B, lf           4  2  3  0   
+Gipson C, rf          0  0  0  0   Kent J, 2b            3  0  1  1   
+Olerud J, 1b          4  0  0  0   Snow J, 1b            2  0  0  1   
+Cameron M, cf         5  0  1  0   Burks E, rf           4  0  2  0   
+Wilson D, c           5  0  2  0   Aurilia R, ss         3  0  0  0   
+McLemore M, 2b        3  2  2  0   Crespo F, ph          1  0  0  0   
+Abbott P, p           3  1  1  0   Estalella B, c        2  0  0  0   
+Rhodes A, p           0  0  0  0   Johnstone J, p        0  0  0  0   
+Javier S, ph          1  0  0  0   Embree A, p           0  0  0  0   
+Sasaki K, p           0  0  0  0   Davis R, ph           1  0  0  0   
+                                   Nen R, p              0  0  0  0   
+                                   Estes S, p            1  0  0  0   
+                                   Mirabelli D, c        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 12  5                        30  2  6  2
+
+Seattle          001 102 010 --  5
+San Francisco    000 100 001 --  2
+
+  Seattle              IP  H  R ER BB SO
+Abbott P (W)          7.2  4  1  1  1  4
+Rhodes A              0.1  0  0  0  1  1
+Sasaki K              1.0  2  1  1  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (L)           5.2  8  4  4  6  5
+Johnstone J           2.0  3  1  1  1  0
+Embree A              0.1  0  0  0  0  0
+Nen R                 1.0  1  0  0  1  2
+
+DP -- Seattle 1, San Francisco 2
+LOB -- Seattle 14, San Francisco 5
+2B -- Abbott P, Bonds B
+3B -- Bonds B
+HR -- Henderson R
+SB -- McLemore M 2, Henderson R, Rodriguez A
+CS -- Wilson D
+SH -- Abbott P
+SF -- Kent J, Snow J
+HBP -- by Johnstone J (Rodriguez A)
+T -- 3:09
+A -- 40930
+     Game of 6/11/2000 -- Seattle at San Francisco (D)
+
+  Seattle            AB  R  H RBI    San Francisco      AB  R  H RBI
+Henderson R, lf       4  1  1  0   Benard M, cf-rf       3  2  1  0   
+McLemore M, 2b        5  3  2  2   Martinez R, ss        4  0  2  0   
+Rodriguez A, ss       5  1  3  3   Bonds B, lf           2  0  0  1   
+Olerud J, 1b          2  1  1  0   Kent J, 2b            3  0  0  1   
+Buhner J, rf          2  1  0  0   Gardner M, p          0  0  0  0   
+Rhodes A, p           0  0  0  0   Snow J, 1b            4  0  2  0   
+Martinez E, ph        0  0  0  1   Mueller B, 3b         4  0  0  0   
+Mesa J, p             0  0  0  0   Rios A, rf            3  0  0  0   
+Lampkin T, c          3  0  1  3   Rodriguez F, p        0  0  0  0   
+Wilson D, ph-c        1  0  0  0   Fultz A, p            0  0  0  0   
+Cameron M, cf         4  1  2  0   Crespo F, 2b          1  0  0  0   
+Mabry J, 3b           4  0  2  0   Estalella B, c        4  0  1  0   
+Bell D, 3b            1  0  1  0   Hernandez L, p        2  0  1  0   
+Sele A, p             2  0  0  0   Murray C, cf          1  0  0  0   
+Ibanez R, rf          1  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  9 13  9                        31  2  7  2
+
+Seattle          101 000 331 --  9
+San Francisco    101 000 000 --  2
+
+  Seattle              IP  H  R ER BB SO
+Sele A (W)            6.0  6  2  2  2  3
+Rhodes A              1.0  0  0  0  0  2
+Mesa J                2.0  1  0  0  0  5
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (L)       6.2  9  5  5  7  2
+Rodriguez F           0.2  1  3  3  2  2
+Fultz A               0.2  1  0  0  1  0
+Gardner M             1.0  2  1  1  1  0
+
+DP -- Seattle 1, San Francisco 2
+LOB -- Seattle 12, San Francisco 6
+2B -- Rodriguez A 2, McLemore M, Martinez R
+3B -- Lampkin T
+SH -- Sele A
+SF -- Bonds B, Kent J, Martinez E, McLemore M
+PB -- Estalella B
+T -- 3:17
+A -- 40930
+     Game of 6/12/2000 -- Cincinnati at San Francisco (N)
+
+  Cincinnati         AB  R  H RBI    San Francisco      AB  R  H RBI
+Reese P, 2b           5  0  1  0   Benard M, cf-rf       4  2  2  2   
+Larkin B, ss          3  0  0  0   Mueller B, 3b         4  1  0  0   
+Griffey K, cf         3  1  1  0   Davis R, 3b           0  0  0  0   
+Tucker M, rf          4  0  1  0   Bonds B, lf           3  0  0  0   
+Young D, lf           4  0  1  1   Rios A, lf            1  0  0  0   
+Casey S, 1b           4  0  2  0   Kent J, 2b            2  2  2  1   
+Boone A, 3b           3  1  0  0   Crespo F, ph-2b       1  0  0  0   
+Taubensee E, c        4  1  1  1   Snow J, 1b            5  1  2  2   
+Bell R, p             1  0  0  0   Burks E, rf           3  1  3  3   
+Cromer D, ph          1  0  0  0   Murray C, cf          0  0  0  0   
+Sullivan S, p         0  0  0  0   Martinez R, ss        4  0  0  0   
+Morris H, ph          1  0  1  0   Estalella B, c        2  2  1  1   
+Reyes D, p            0  0  0  0   Nathan J, p           4  1  1  1   
+Stynes C, ph          1  0  1  1   Embree A, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  9  3                        33 10 11 10
+
+Cincinnati       000 100 002 --  3
+San Francisco    011 313 10x -- 10
+
+  Cincinnati           IP  H  R ER BB SO
+Bell R (L)            4.0  4  5  5  6  0
+Sullivan S            2.0  6  4  4  2  1
+Reyes D               2.0  1  1  1  0  4
+
+  San Francisco        IP  H  R ER BB SO
+Nathan J (W)          8.0  7  1  1  2  4
+Embree A              1.0  2  2  2  1  0
+
+DP -- Cincinnati 1, San Francisco 2
+LOB -- Cincinnati 7, San Francisco 7
+2B -- Griffey K, Kent J, Burks E, Snow J, Taubensee E
+HR -- Estalella B, Burks E, Benard M, Nathan J
+SB -- Estalella B
+WP -- Nathan J
+T -- 2:54
+A -- 40930
+     Game of 6/13/2000 -- Cincinnati at San Francisco (N)
+
+  Cincinnati         AB  R  H RBI    San Francisco      AB  R  H RBI
+Reese P, 2b           4  1  1  0   Benard M, cf          3  1  1  0   
+Tucker M, rf          4  0  1  0   Mueller B, 3b         5  0  2  0   
+Larkin B, ss          4  0  0  1   Bonds B, lf           4  0  1  1   
+Griffey K, cf         2  0  0  0   Kent J, 2b            5  0  1  1   
+Young D, lf           4  1  2  0   Snow J, 1b            3  0  1  0   
+Casey S, 1b           4  0  1  0   Burks E, rf           1  1  0  0   
+Boone A, 3b           2  0  2  0   Nen R, p              0  0  0  0   
+Castro J, pr-3b       1  0  1  0   Aurilia R, ss         4  0  1  1   
+Santiago B, c         4  0  0  0   Mirabelli D, c        2  0  0  0   
+Fernandez O, p        1  0  0  0   Rodriguez F, p        0  0  0  0   
+Morris H, ph          1  0  0  1   Embree A, p           0  0  0  0   
+Williamson S, p       0  0  0  0   Rios A, rf            1  0  0  0   
+Cromer D, ph          1  0  0  0   Ortiz R, p            2  0  0  0   
+Graves D, p           0  0  0  0   Estalella B, c        1  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  8  2                        31  3  7  3
+
+Cincinnati       100 000 100 --  2
+San Francisco    000 100 002 --  3
+  2 outs when winning run was scored.
+
+  Cincinnati           IP  H  R ER BB SO
+Fernandez O           6.0  3  1  1  6  5
+Williamson S          2.0  1  0  0  2  3
+Graves D (L)          0.2  3  2  2  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R*              6.0  6  2  2  2  2
+Rodriguez F           1.0  0  0  0  0  0
+Embree A              1.1  2  0  0  0  2
+Nen R (W)             0.2  0  0  0  0  2
+  * Pitched to 3 batters in 7th
+
+DP -- Cincinnati 2, San Francisco 1
+LOB -- Cincinnati 7, San Francisco 11
+2B -- Boone A, Aurilia R, Snow J, Casey S, Castro J
+SB -- Reese P, Griffey K, Benard M
+CS -- Tucker M
+SH -- Fernandez O
+HBP -- by Ortiz R (Boone A)
+T -- 3:23
+A -- 40930
+     Game of 6/14/2000 -- Cincinnati at San Francisco (D)
+
+  Cincinnati         AB  R  H RBI    San Francisco      AB  R  H RBI
+Reese P, 2b           3  1  0  0   Murray C, cf          5  0  2  2   
+Larkin B, ss          4  1  1  1   Martinez R, 2b        4  1  1  0   
+Griffey K, cf         3  0  0  0   Bonds B, lf           1  1  1  0   
+Bichette D, rf        4  0  2  0   Rios A, lf            3  0  0  0   
+Young D, 1b           4  0  1  1   Kent J, 1b            4  1  3  2   
+Stynes C, lf          4  0  2  0   Burks E, rf           4  1  1  1   
+Castro J, 3b          3  0  0  0   Fultz A, p            0  0  0  0   
+Tucker M, ph          1  0  0  0   Rodriguez F, p        0  0  0  0   
+Santiago B, c         3  0  1  0   Davis R, 3b           4  0  1  1   
+Taubensee E, ph       1  0  1  0   Aurilia R, ss         4  1  2  0   
+Neagle D, p           1  0  0  0   Mirabelli D, c        4  0  0  0   
+Morris H, ph          1  0  0  0   Rueter K, p           3  0  1  0   
+Aybar M, p            0  0  0  0   Johnstone J, p        0  0  0  0   
+Casey S, ph           1  0  0  0   Benard M, rf          0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        36  6 12  6
+
+Cincinnati       100 000 010 --  2
+San Francisco    300 011 01x --  6
+
+  Cincinnati           IP  H  R ER BB SO
+Neagle D (L)          6.0 10  5  4  1  3
+Aybar M               2.0  2  1  1  2  5
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (W)          6.0  5  1  1  2  1
+Johnstone J           1.1  1  1  1  0  0
+Fultz A               0.1  1  0  0  0  1
+Rodriguez F (S)       1.1  1  0  0  0  2
+
+E -- Bichette D, Larkin B
+DP -- San Francisco 1
+LOB -- Cincinnati 7, San Francisco 9
+2B -- Bonds B, Kent J, Burks E, Stynes C, Murray C
+3B -- Kent J
+HR -- Larkin B
+SH -- Neagle D
+PB -- Mirabelli D
+T -- 3:01
+A -- 40930
+     Game of 6/16/2000 -- Houston at San Francisco (N)
+
+  Houston            AB  R  H RBI    San Francisco      AB  R  H RBI
+Lugo J, ss            4  1  2  0   Benard M, cf          4  1  1  0   
+Biggio C, 2b          4  0  1  1   Mueller B, 3b         5  0  1  0   
+Bagwell J, 1b         4  1  2  0   Bonds B, lf           4  3  3  2   
+Hidalgo R, cf         4  0  1  0   Kent J, 2b            5  0  3  1   
+Alou M, lf            4  1  1  2   Snow J, 1b            4  0  1  0   
+Berkman L, rf         4  0  1  0   Burks E, rf           4  1  1  0   
+Truby C, 3b           4  1  1  0   Aurilia R, ss         4  2  1  1   
+Meluskey M, c         3  0  0  1   Johnstone J, p        0  0  0  0   
+Elarton S, p          2  0  0  0   Davis R, ph           1  0  0  0   
+Slusarski J, p        0  0  0  0   Fultz A, p            0  0  0  0   
+Mieske M, ph          1  0  0  0   Nen R, p              0  0  0  0   
+Henry D, p            0  0  0  0   Estalella B, c        4  0  1  1   
+Perez Y, p            0  0  0  0   Estes S, p            2  0  0  0   
+Eusebio T, ph         1  0  0  0   Martinez R, ph-ss     0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        37  7 12  5
+
+Houston          000 001 012 --  4
+San Francisco    201 121 00x --  7
+
+  Houston              IP  H  R ER BB SO
+Elarton S (L)         4.1  8  6  4  4  0
+Slusarski J           1.2  2  1  1  0  2
+Henry D               1.0  0  0  0  1  2
+Perez Y               1.0  2  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (W)           7.0  5  1  1  3  4
+Johnstone J           1.0  2  1  1  0  0
+Fultz A               0.2  2  2  2  1  0
+Nen R (S)             0.1  0  0  0  0  1
+
+E -- Aurilia R, Meluskey M, Lugo J 2, Kent J, Alou M
+DP -- San Francisco 2
+LOB -- Houston 8, San Francisco 12
+2B -- Bonds B, Estalella B, Hidalgo R, Biggio C
+3B -- Bonds B, Truby C
+HR -- Bonds B, Aurilia R, Alou M
+SB -- Benard M, Kent J
+WP -- Elarton S
+T -- 2:54
+A -- 40930
+     Game of 6/17/2000 -- Houston at San Francisco (D)
+
+  Houston            AB  R  H RBI    San Francisco      AB  R  H RBI
+Spiers B, 3b-ss       2  1  1  0   Benard M, cf-rf       4  2  1  0   
+Biggio C, 2b          3  1  1  0   Mueller B, 3b         4  2  2  0   
+Bagwell J, 1b         5  1  2  1   Bonds B, lf           3  0  0  1   
+Ward D, rf            5  1  1  0   Kent J, 2b            2  0  1  1   
+Alou M, lf            3  0  2  2   Snow J, 1b            3  0  0  2   
+Hidalgo R, cf         3  0  0  0   Aurilia R, ss         5  1  2  0   
+Eusebio T, c          3  0  2  1   Nen R, p              0  0  0  0   
+Bogar T, ss           2  0  0  0   Rios A, rf            4  1  1  1   
+Berkman L, ph         1  0  0  0   Murray C, cf          0  0  0  0   
+Truby C, 3b           0  0  0  0   Estalella B, c        2  0  0  0   
+Lima J, p             3  0  0  0   Hernandez L, p        1  0  1  0   
+Wagner B, p           0  0  0  0   Rodriguez F, p        0  0  0  0   
+Valdes M, p           0  0  0  0   Martinez R, ss        0  0  0  0   
+Perez Y, p            0  0  0  0                                      
+Lugo J, ph            1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  4 10  4                        28  6  8  5
+
+Houston          013 000 000 --  4
+San Francisco    200 004 00x --  6
+
+  Houston              IP  H  R ER BB SO
+Lima J (L)            5.2  8  5  5  2  2
+Wagner B*             0.0  0  1  1  4  0
+Valdes M              1.2  0  0  0  3  2
+Perez Y               0.2  0  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       7.0  8  4  4  5  2
+Rodriguez F           1.0  1  0  0  0  1
+Nen R (S)             1.0  1  0  0  1  1
+  * Pitched to 4 batters in 6th
+
+DP -- San Francisco 3
+LOB -- Houston 9, San Francisco 12
+2B -- Alou M, Aurilia R, Bagwell J, Eusebio T
+SB -- Benard M, Rios A, Bonds B, Lugo J
+SH -- Hernandez L 3, Biggio C 2
+SF -- Snow J, Eusebio T
+HBP -- by Lima J (Kent J)
+WP -- Wagner B
+T -- 3:00
+A -- 40930
+     Game of 6/18/2000 -- Houston at San Francisco (D)
+
+  Houston            AB  R  H RBI    San Francisco      AB  R  H RBI
+Spiers B, 3b          6  0  1  0   Benard M, cf-rf       4  1  1  0   
+Biggio C, 2b          4  1  1  1   Davis R, 3b           5  0  1  0   
+Bagwell J, 1b         4  1  0  0   Estalella B, c        0  0  0  0   
+Ward D, rf            5  0  1  1   Bonds B, lf           4  0  0  0   
+Alou M, lf            4  1  1  0   Kent J, 2b            4  1  1  2   
+Hidalgo R, cf         3  0  0  0   Snow J, 1b            4  0  1  0   
+Barker G, cf          1  1  0  0   Burks E, rf           1  0  0  0   
+Meluskey M, c         4  0  0  0   Rios A, ph-rf         2  0  0  0   
+Bogar T, ss           2  0  0  0   Rodriguez F, p        0  0  0  0   
+Berkman L, ph         1  0  0  0   Johnstone J, p        0  0  0  0   
+Powell J, p           0  0  0  0   Crespo F, ph          1  0  0  0   
+Mieske M, ph          1  0  0  0   Nen R, p              0  0  0  0   
+Henry D, p            0  0  0  0   Mueller B, ph         1  0  0  0   
+Reynolds S, p         2  0  1  0   Aurilia R, ss         5  0  2  0   
+Slusarski J, p        0  0  0  0   Mirabelli D, c        3  0  0  0   
+Lugo J, ph-ss         2  0  1  0   Martinez R, pr-3b     1  0  0  0   
+                                   Nathan J, p           2  0  0  0   
+                                   Murray C, cf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  4  6  2                        38  2  6  2
+
+Houston          000 002 000 02 --  4
+San Francisco    200 000 000 00 --  2
+
+  Houston              IP  H  R ER BB SO
+Reynolds S            7.0  5  2  2  3  8
+Slusarski J           1.0  0  0  0  0  1
+Powell J (W)          2.0  0  0  0  2  0
+Henry D (S)           1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Nathan J              6.1  4  2  2  6  5
+Rodriguez F           1.2  0  0  0  1  2
+Johnstone J           1.0  0  0  0  0  3
+Nen R (L)             2.0  2  2  0  0  3
+
+E -- Spiers B, Nen R, Snow J
+DP -- Houston 1, San Francisco 1
+LOB -- Houston 10, San Francisco 9
+2B -- Benard M, Ward D, Lugo J
+HR -- Kent J, Biggio C
+SB -- Alou M
+SH -- Murray C, Barker G
+WP -- Nathan J
+PB -- Meluskey M
+T -- 4:08
+A -- 40930
+     Game of 6/30/2000 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Hollandsworth T, cf   4  2  1  0   Benard M, cf          5  1  1  0   
+Grudzielanek M, 2b    6  2  2  1   Mueller B, 3b         3  1  1  0   
+Sheffield G, lf       4  3  2  4   Bonds B, lf           1  0  1  0   
+Osuna A, p            0  0  0  0   Kent J, 2b            3  0  2  2   
+Green S, rf           1  0  0  0   Snow J, 1b            4  0  0  0   
+Karros E, 1b          4  0  1  2   Rios A, rf            4  0  1  0   
+Hundley T, c          3  1  3  2   Aurilia R, ss         4  0  0  0   
+Beltre A, 3b          5  0  0  0   Estalella B, c        2  0  0  0   
+Cora A, ss            5  1  3  0   Ortiz R, p            1  0  0  0   
+Brown K, p            3  0  0  0   Gardner M, p          1  0  0  0   
+Santangelo F, lf      1  0  1  0   Martinez R, ph        1  0  0  0   
+                                   Embree A, p           0  0  0  0   
+                                   Nen R, p              0  0  0  0   
+                                   Crespo F, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  9 13  9                        30  2  6  2
+
+Los Angeles      201 302 001 --  9
+San Francisco    100 000 100 --  2
+
+  Los Angeles          IP  H  R ER BB SO
+Brown K (W)           7.0  6  2  2  5  3
+Osuna A               2.0  0  0  0  0  3
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (L)           3.2  7  6  6  5  1
+Gardner M             3.1  3  2  2  3  1
+Embree A              1.0  0  0  0  1  0
+Nen R                 1.0  3  1  1  0  1
+
+E -- Sheffield G
+DP -- San Francisco 1
+LOB -- Los Angeles 11, San Francisco 8
+2B -- Hundley T 2, Cora A, Grudzielanek M, Rios A
+HR -- Sheffield G 2, Hundley T
+SB -- Bonds B, Benard M
+CS -- Green S
+SH -- Brown K
+SF -- Karros E, Kent J
+HBP -- by Brown K (Mueller B)
+PB -- Hundley T
+T -- 3:19
+A -- 40930
+     Game of 7/1/2000 -- Los Angeles at San Francisco (D)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Santangelo F, cf      3  0  1  1   Murray C, cf          4  1  1  0   
+Arnold J, p           0  0  0  0   Martinez R, 2b        3  1  1  2   
+Hansen D, ph          1  0  0  0   Snow J, ph-1b         1  0  1  0   
+Grudzielanek M, 2b    4  0  2  0   Bonds B, lf           4  0  0  0   
+Green S, rf           4  0  0  0   Kent J, 1b-2b         4  0  0  0   
+Sheffield G, lf       3  0  1  0   Burks E, rf           4  1  2  0   
+Karros E, 1b          3  0  1  0   Nen R, p              0  0  0  0   
+Beltre A, 3b          4  0  2  0   Davis R, 3b           3  0  0  0   
+Kreuter C, c          3  0  0  0   Johnstone J, p        0  0  0  0   
+Hundley T, ph-c       1  0  0  0   Embree A, p           0  0  0  0   
+Elster K, ss          2  1  2  0   Rodriguez F, p        0  0  0  0   
+Cora A, ss            1  0  0  0   Benard M, ph-rf       1  0  0  0   
+Perez C, p            2  0  0  0   Aurilia R, ss         4  1  3  2   
+Hollandsworth, ph-cf  2  0  0  0   Mirabelli D, c        3  0  1  0   
+                                   Rueter K, p           2  0  1  0   
+                                   Mueller B, ph-3b      1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  9  1                        34  4 10  4
+
+Los Angeles      000 000 100 --  1
+San Francisco    002 200 00x --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Perez C (L)           6.0  9  4  4  0  6
+Arnold J              2.0  1  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (W)          6.0  7  0  0  2  2
+Johnstone J           0.2  2  1  1  0  0
+Embree A              0.1  0  0  0  0  0
+Rodriguez F           1.0  0  0  0  1  1
+Nen R (S)             1.0  0  0  0  0  3
+
+E -- Sheffield G, Kent J
+DP -- San Francisco 3
+LOB -- Los Angeles 9, San Francisco 6
+2B -- Murray C, Mirabelli D, Burks E, Elster K, Grudzielanek M
+HR -- Martinez R, Aurilia R
+CS -- Murray C
+SF -- Santangelo F
+Balk -- Perez C
+T -- 2:40
+A -- 40930
+     Game of 7/2/2000 -- Los Angeles at San Francisco (D)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Santangelo F, cf-rf   4  1  1  0   Benard M, cf-lf       5  2  2  1   
+Grudzielanek M, 2b    5  1  1  1   Mueller B, 3b         3  0  0  1   
+Sheffield G, lf       4  0  3  1   Snow J, 1b            4  1  1  0   
+Karros E, 1b          4  0  2  0   Kent J, 2b            4  3  3  2   
+Beltre A, 3b          3  1  0  0   Burks E, rf           2  0  1  0   
+Hundley T, c          4  1  1  0   Rios A, lf            3  0  0  1   
+Elster K, ss          3  0  0  0   Nen R, p              0  0  0  0   
+Hansen D, ph          1  0  1  1   Aurilia R, ss         4  0  2  1   
+Cora A, ss            1  0  0  0   Estalella B, c        3  0  1  0   
+Gilbert S, rf         3  0  1  0   Estes S, p            2  0  0  0   
+Herges M, p           0  0  0  0   Fultz A, p            1  0  0  0   
+Green S, ph           1  0  0  0   Rodriguez F, p        0  0  0  0   
+Osuna A, p            0  0  0  0   Murray C, cf          1  0  0  0   
+Leyritz J, ph         1  0  1  0                                      
+Fetters M, p          0  0  0  0                                      
+Gagne E, p            2  1  2  0                                      
+Hollandsworth, ph-cf  3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  5 13  3                        32  6 10  6
+
+Los Angeles      000 100 220 --  5
+San Francisco    100 210 101 --  6
+  0 outs when winning run was scored.
+
+  Los Angeles          IP  H  R ER BB SO
+Gagne E               5.0  6  4  3  3  3
+Herges M              1.0  1  0  0  0  1
+Osuna A               2.0  2  1  1  0  1
+Fetters M (L)         0.0  1  1  1  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Estes S               5.0  7  1  1  4  3
+Fultz A               1.2  2  2  2  0  2
+Rodriguez F           0.2  3  2  2  1  1
+Nen R (W)             1.2  1  0  0  0  3
+
+E -- Hundley T, Estalella B
+LOB -- Los Angeles 13, San Francisco 7
+2B -- Estalella B, Santangelo F
+HR -- Kent J 2, Benard M
+SB -- Benard M
+SH -- Hundley T
+SF -- Mueller B, Rios A
+WP -- Rodriguez F, Nen R 2
+T -- 3:24
+A -- 40930
+     Game of 7/4/2000, game 1 -- Colorado at San Francisco (D)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Goodwin T, cf         3  0  0  0   Benard M, cf-lf       4  1  2  0   
+Lansing M, 2b         4  0  1  0   Mueller B, 3b         4  1  1  0   
+Walker L, lf          2  0  0  0   Crespo F, lf          3  0  0  1   
+Cirillo J, 3b         3  1  0  0   Murray C, cf          0  0  0  0   
+Helton T, 1b          4  0  1  0   Kent J, 2b            3  1  1  0   
+Hammonds J, rf        4  0  1  1   Snow J, 1b            4  1  2  1   
+Mayne B, c            4  0  1  0   Aurilia R, ss         4  0  1  1   
+Perez N, ss           3  0  0  0   Rios A, rf            3  0  0  0   
+Yoshii M, p           2  0  0  0   Estalella B, c        3  0  0  0   
+Shumpert T, ph        1  0  0  0   Hernandez L, p        4  0  2  1   
+Myers M, p            0  0  0  0   Nen R, p              0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        32  4  9  4
+
+Colorado         000 000 100 --  1
+San Francisco    100 003 00x --  4
+
+  Colorado             IP  H  R ER BB SO
+Yoshii M (L)          7.0  8  4  4  2  4
+Myers M               1.0  1  0  0  1  2
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       8.2  4  1  1  5  7
+Nen R (S)             0.1  0  0  0  0  0
+
+DP -- San Francisco 1
+LOB -- Colorado 7, San Francisco 8
+2B -- Benard M, Snow J
+SB -- Mueller B
+SF -- Crespo F
+T -- 2:35
+A -- 40930
+     Game of 7/4/2000, game 2 -- Colorado at San Francisco (N)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Hunter B, cf          4  0  0  0   Murray C, cf          4  0  0  0   
+DeJean M, p           0  0  0  0   Benard M, lf          4  0  1  0   
+Shumpert T, 2b        4  0  1  0   Burks E, rf           2  0  0  0   
+Walker L, lf          2  0  0  0   Kent J, 2b            4  0  1  0   
+Bragg D, lf           2  0  1  0   Davis R, 3b           3  2  2  0   
+Hammonds J, rf        3  0  1  0   Mueller B, ph-3b      1  0  0  0   
+Helton T, 1b          4  0  1  0   Snow J, 1b            3  1  1  2   
+Cirillo J, 3b         3  0  1  0   Martinez R, ss        4  0  1  0   
+Perez N, ss           3  0  1  0   Mirabelli D, c        3  0  1  1   
+Servais S, c          3  0  0  0   Gardner M, p          3  0  0  0   
+Karl S, p             2  0  0  0   Rodriguez F, p        0  0  0  0   
+Tavarez J, p          0  0  0  0   Nen R, p              0  0  0  0   
+Goodwin T, ph-cf      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  6  0                        31  3  7  3
+
+Colorado         000 000 000 --  0
+San Francisco    000 201 00x --  3
+
+  Colorado             IP  H  R ER BB SO
+Karl S (L)            5.2  5  3  3  3  2
+Tavarez J             1.1  2  0  0  1  1
+DeJean M              1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M (W)         7.0  6  0  0  1  4
+Rodriguez F           1.0  0  0  0  0  0
+Nen R (S)             1.0  0  0  0  0  3
+
+E -- Martinez R
+DP -- San Francisco 2
+LOB -- Colorado 5, San Francisco 8
+2B -- Shumpert T
+HR -- Snow J
+SB -- Benard M
+CS -- Hammonds J
+T -- 2:30
+A -- 40930
+     Game of 7/5/2000 -- Colorado at San Francisco (D)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Goodwin T, cf         3  0  0  0   Benard M, cf-lf       3  1  2  2   
+Lansing M, 2b         4  0  0  0   Mueller B, 3b         4  0  0  0   
+Cirillo J, 3b         4  0  1  0   Snow J, 1b            4  0  1  0   
+Helton T, 1b          3  0  1  0   Kent J, 2b            3  0  1  0   
+Hammonds J, rf        4  1  2  0   Burks E, rf           4  0  1  0   
+Bragg D, lf           4  1  1  1   Rios A, lf            1  0  0  0   
+Mayne B, c            3  0  1  0   Murray C, cf          2  1  1  0   
+Perez N, ss           4  0  1  0   Aurilia R, ss         3  1  2  2   
+Astacio P, p          2  0  0  0   Estalella B, c        3  1  1  0   
+Shumpert T, ph        0  0  0  1   Nathan J, p           2  0  0  0   
+Belinda S, p          0  0  0  0   Rodriguez F, p        0  0  0  0   
+White G, p            0  0  0  0                                      
+DeJean M, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  7  2                        29  4  9  4
+
+Colorado         000 000 200 --  2
+San Francisco    000 001 30x --  4
+
+  Colorado             IP  H  R ER BB SO
+Astacio P             6.0  5  1  1  2  4
+Belinda S (L)*        0.0  3  3  3  0  0
+White G               1.0  0  0  0  0  0
+DeJean M              1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Nathan J (W)          8.0  6  2  2  3  4
+Rodriguez F (S)       1.0  1  0  0  0  1
+  * Pitched to 3 batters in 7th
+
+DP -- Colorado 1, San Francisco 1
+LOB -- Colorado 6, San Francisco 5
+2B -- Hammonds J, Bragg D, Estalella B
+HR -- Benard M, Aurilia R
+CS -- Benard M, Helton T, Mayne B
+SH -- Nathan J
+SF -- Shumpert T, Benard M
+T -- 2:45
+A -- 40930
+     Game of 7/6/2000 -- Colorado at San Francisco (D)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Hunter B, cf-lf       4  1  2  1   Benard M, cf          3  0  0  0   
+Lansing M, 2b         5  1  1  0   Murray C, ph-cf       1  0  0  0   
+Cirillo J, 3b         5  0  0  0   Mueller B, 3b         4  1  2  0   
+Helton T, 1b          3  1  0  0   Snow J, 1b            5  1  1  0   
+Hammonds J, rf        4  0  0  0   Kent J, 2b            4  1  2  2   
+Bragg D, lf           0  1  0  1   Burks E, rf           3  2  2  1   
+Shumpert T, ph        0  1  0  0   Crespo F, lf          3  1  2  2   
+Tavarez J, p          0  0  0  0   Aurilia R, ss         4  0  1  1   
+White G, p            0  0  0  0   Mirabelli D, c        4  0  1  0   
+Jimenez J, p          0  0  0  0   Ortiz R, p            2  0  0  0   
+Myers M, p            0  0  0  0   Fultz A, p            1  0  1  0   
+Belinda S, p          0  0  0  0   Rodriguez F, p        0  0  0  0   
+Mayne B, c            3  0  1  2   Rios A, ph            0  0  0  0   
+Perez N, ss           4  0  2  0   Nen R, p              0  0  0  0   
+Arrojo R, p           2  0  0  0                                      
+Echevarria A, ph      0  0  0  0                                      
+Goodwin T, ph-cf      1  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     31  5  7  5                        34  6 12  6
+
+Colorado         300 001 010 --  5
+San Francisco    000 004 011 --  6
+  1 out when winning run was scored.
+
+  Colorado             IP  H  R ER BB SO
+Arrojo R              7.0  8  4  4  3  5
+Tavarez J             0.1  1  1  1  0  1
+White G               0.1  0  0  0  0  1
+Jimenez J*            0.0  2  0  0  1  0
+Myers M (L)           0.2  0  1  1  1  0
+Belinda S             0.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R               5.1  5  4  4  6  4
+Fultz A               2.0  1  1  1  2  0
+Rodriguez F           0.2  1  0  0  0  1
+Nen R (W)             1.0  0  0  0  0  0
+  * Pitched to 3 batters in 8th
+
+DP -- Colorado 2, San Francisco 1
+LOB -- Colorado 8, San Francisco 9
+2B -- Mayne B, Snow J, Mueller B 2, Kent J
+3B -- Burks E
+HR -- Crespo F
+SB -- Bragg D
+CS -- Kent J
+SH -- Mayne B
+HBP -- by Arrojo R (Crespo F)
+PB -- Mayne B
+T -- 3:30
+A -- 40930
+     Game of 7/13/2000 -- Oakland at San Francisco (N)
+
+  Oakland            AB  R  H RBI    San Francisco      AB  R  H RBI
+Long T, cf            4  1  2  0   Murray C, cf          4  0  0  0   
+Velarde R, 2b         3  0  1  0   Aurilia R, ss         4  0  0  0   
+Giambi J, 1b          2  0  1  1   Bonds B, lf           3  1  2  1   
+Grieve B, lf          3  0  1  0   Kent J, 2b            3  0  0  0   
+Tejada M, ss          4  0  1  0   Burks E, rf           3  2  2  0   
+Stairs M, rf          3  0  0  0   Rodriguez F, p        0  0  0  0   
+Hernandez R, c        3  0  0  0   Rios A, ph            0  0  0  0   
+Piatt A, ph           1  0  0  0   Nen R, p              0  0  0  0   
+Chavez E, 3b          4  1  1  1   Davis R, 3b           2  0  0  0   
+Mulder M, p           2  0  0  0   Mueller B, ph-3b      1  1  0  0   
+Giambi J, ph          1  0  0  0   Snow J, 1b            3  0  1  1   
+Jones D, p            0  0  0  0   Estalella B, c        2  0  0  0   
+Saenz O, ph           1  0  0  0   Nathan J, p           0  0  0  0   
+                                   Ortiz R, p            1  0  0  0   
+                                   Benard M, ph-rf       1  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     31  2  7  2                        27  4  6  4
+
+Oakland          001 000 001 --  2
+San Francisco    010 100 20x --  4
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (L)          6.0  4  2  2  2  2
+Jones D               2.0  2  2  1  3  3
+
+  San Francisco        IP  H  R ER BB SO
+Nathan J              1.0  1  0  0  2  0
+Ortiz R (W)           6.0  4  1  0  1  5
+Rodriguez F           1.0  1  0  0  1  1
+Nen R (S)             1.0  1  1  1  0  3
+
+E -- Snow J, Chavez E
+DP -- Oakland 1, San Francisco 3
+LOB -- Oakland 7, San Francisco 5
+2B -- Burks E, Velarde R, Tejada M, Bonds B
+3B -- Burks E
+HR -- Bonds B, Chavez E
+CS -- Kent J
+SH -- Ortiz R
+SF -- Giambi J
+T -- 2:49
+A -- 40930
+     Game of 7/14/2000 -- Oakland at San Francisco (N)
+
+  Oakland            AB  R  H RBI    San Francisco      AB  R  H RBI
+Long T, cf            4  0  0  0   Benard M, cf          4  0  0  0   
+Velarde R, 2b         4  0  0  0   Mueller B, 3b         4  1  0  0   
+Giambi J, 1b          4  0  1  0   Bonds B, lf           3  1  2  1   
+Grieve B, lf          4  0  1  0   Kent J, 2b            4  0  1  0   
+Stairs M, rf          3  0  0  0   Snow J, 1b            4  0  1  1   
+Tejada M, ss          3  0  0  0   Rios A, rf            4  1  1  0   
+Chavez E, 3b          3  1  1  0   Aurilia R, ss         3  1  2  0   
+Fasano S, c           2  1  1  2   Mirabelli D, c        4  0  2  0   
+Giambi J, ph          1  0  0  0   Gardner M, p          1  0  0  0   
+Hernandez R, c        0  0  0  0   Crespo F, ph          1  0  1  1   
+Appier K, p           2  0  0  0   Rodriguez F, p        0  0  0  0   
+Saenz O, ph           1  0  1  0   Nen R, p              0  0  0  0   
+Christenson R, pr     0  0  0  0                                      
+Tam J, p              0  0  0  0                                      
+Magnante M, p         0  0  0  0                                      
+Mathews T, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        32  4 10  3
+
+Oakland          002 000 000 --  2
+San Francisco    100 010 11x --  4
+
+  Oakland              IP  H  R ER BB SO
+Appier K (L)          7.0  9  3  3  1  1
+Tam J                 0.1  1  1  0  0  0
+Magnante M            0.1  0  0  0  1  0
+Mathews T             0.1  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M (W)         7.0  4  2  2  0  4
+Rodriguez F           1.0  1  0  0  0  1
+Nen R (S)             1.0  0  0  0  0  1
+
+E -- Tejada M, Velarde R
+DP -- Oakland 3, San Francisco 1
+LOB -- Oakland 2, San Francisco 7
+2B -- Chavez E, Rios A, Grieve B
+HR -- Bonds B, Fasano S
+SH -- Gardner M
+T -- 2:31
+A -- 40930
+     Game of 7/15/2000 -- Oakland at San Francisco (D)
+
+  Oakland            AB  R  H RBI    San Francisco      AB  R  H RBI
+Christenson R, cf-lf  5  0  2  1   Benard M, cf          4  0  2  1   
+Velarde R, 2b         5  2  3  0   Mueller B, 3b         4  0  1  0   
+Giambi J, 1b          5  0  1  1   Bonds B, lf           4  0  0  0   
+Saenz O, 3b           5  0  1  1   Kent J, 2b            4  0  1  0   
+Isringhausen J, p     0  0  0  0   Burks E, rf           4  1  1  1   
+Piatt A, rf           3  0  3  0   Snow J, 1b            3  0  0  0   
+Stairs M, ph-rf       2  0  0  0   Aurilia R, ss         4  0  2  0   
+Grieve B, lf          3  0  1  0   Mirabelli D, c        3  0  1  0   
+Long T, pr-cf         1  1  1  0   Crespo F, ph          1  0  0  0   
+Hernandez R, c        5  1  2  2   Rueter K, p           2  1  1  0   
+Tejada M, ss          3  2  1  1   Johnstone J, p        0  0  0  0   
+Heredia G, p          2  0  1  0   Embree A, p           0  0  0  0   
+Mathews T, p          0  0  0  0   Davis R, ph           1  0  0  0   
+Magnante M, p         0  0  0  0   Fultz A, p            0  0  0  0   
+Chavez E, 3b          0  0  0  0   Rios A, ph            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 16  6                        35  2  9  2
+
+Oakland          101 001 030 --  6
+San Francisco    000 110 000 --  2
+
+  Oakland              IP  H  R ER BB SO
+Heredia G (W)         6.2  7  2  2  1  6
+Mathews T             1.0  2  0  0  0  0
+Magnante M            0.1  0  0  0  0  0
+Isringhausen J        1.0  0  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (L)          6.0 11  3  2  2  0
+Johnstone J           0.2  0  0  0  0  0
+Embree A              0.1  0  0  0  0  0
+Fultz A               2.0  5  3  3  1  1
+
+E -- Kent J
+DP -- Oakland 1, San Francisco 3
+LOB -- Oakland 10, San Francisco 7
+2B -- Giambi J, Velarde R, Benard M, Rueter K, Grieve B
+HR -- Burks E, Hernandez R, Tejada M
+SH -- Heredia G
+T -- 3:12
+A -- 40930
+     Game of 7/16/2000 -- Texas at San Francisco (D)
+
+  Texas              AB  R  H RBI    San Francisco      AB  R  H RBI
+Alicea L, 2b          3  1  1  0   Benard M, cf          4  0  0  0   
+Greer R, lf           4  0  1  1   Mueller B, 3b         4  1  1  0   
+Rodriguez I, c        5  1  1  1   Bonds B, lf           3  1  2  1   
+Segui D, 1b           3  1  2  0   Kent J, 2b            4  1  1  0   
+Martinez D, pr-1b     0  0  0  0   Snow J, 1b            4  1  2  3   
+Curtis C, rf          4  0  2  1   Burks E, rf           4  1  1  0   
+Kapler G, cf          2  0  0  1   Aurilia R, ss         3  1  1  1   
+Venafro M, p          0  0  0  0   Estalella B, c        4  0  2  1   
+Sheldon S, ph         1  0  0  0   Estes S, p            3  0  1  0   
+Crabtree T, p         0  0  0  0   Embree A, p           0  0  0  0   
+Lamb M, 3b            4  0  0  0   Crespo F, ph          1  0  0  0   
+Clayton R, ss         4  1  1  0   Nen R, p              0  0  0  0   
+Loaiza E, p           2  0  0  0                                      
+Cordero F, p          0  0  0  0                                      
+Green S, cf           0  0  0  0                                      
+Catalanotto F, ph     1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  4  8  4                        34  6 11  6
+
+Texas            100 200 100 --  4
+San Francisco    100 004 01x --  6
+
+  Texas                IP  H  R ER BB SO
+Loaiza E (L)*         5.0  8  5  5  2  4
+Cordero F             0.1  1  0  0  1  0
+Venafro M             1.2  1  0  0  0  0
+Crabtree T            1.0  1  1  1  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (W)           6.1  6  4  4  5  4
+Embree A              1.2  2  0  0  0  3
+Nen R (S)             1.0  0  0  0  0  2
+  * Pitched to 4 batters in 6th
+
+DP -- Texas 1, San Francisco 2
+LOB -- Texas 8, San Francisco 7
+2B -- Greer R, Bonds B, Curtis C
+HR -- Snow J, Aurilia R
+SF -- Greer R
+WP -- Nen R
+T -- 2:57
+A -- 40930
+     Game of 7/17/2000 -- Texas at San Francisco (N)
+
+  Texas              AB  R  H RBI    San Francisco      AB  R  H RBI
+Alicea L, 2b          4  1  1  2   Benard M, cf          4  1  1  1   
+Greer R, lf           4  1  2  2   Martinez R, 2b        5  1  1  0   
+Palmeiro R, 1b        5  1  1  2   Bonds B, lf           3  2  1  0   
+Rodriguez I, c        5  0  1  0   Burks E, rf           3  3  2  1   
+Martinez D, rf        4  1  1  0   Snow J, 1b            4  2  3  5   
+Lamb M, 3b            4  1  3  0   Aurilia R, ss         4  1  1  1   
+Kapler G, cf          4  0  1  0   Mueller B, 3b         5  0  3  1   
+Clayton R, ss         3  2  0  1   Estalella B, c        4  0  0  1   
+Glynn R, p            2  0  0  0   Hernandez L, p        3  0  1  0   
+Venafro M, p          0  0  0  0   Rios A, ph            1  0  0  0   
+Segui D, ph           1  0  1  1   Rodriguez F, p        0  0  0  0   
+Davis D, p            0  0  0  0   Johnstone J, p        0  0  0  0   
+Cordero F, p          0  0  0  0   Nen R, p              0  0  0  0   
+Crabtree T, p         0  0  0  0                                      
+Catalanotto F, ph     1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  8 12  8                        36 10 13 10
+
+Texas            200 000 303 --  8
+San Francisco    013 000 33x -- 10
+
+  Texas                IP  H  R ER BB SO
+Glynn R               5.2  6  4  4  5  1
+Venafro M             0.1  0  0  0  0  0
+Davis D (L)           0.2  3  3  3  1  0
+Cordero F             0.2  3  3  3  1  0
+Crabtree T            0.2  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       7.0  8  5  5  1  5
+Rodriguez F           1.0  1  0  0  0  2
+Johnstone J           0.1  2  3  3  1  0
+Nen R (S)             0.2  1  0  0  0  1
+
+E -- Mueller B, Lamb M
+DP -- Texas 1, San Francisco 2
+LOB -- Texas 5, San Francisco 10
+2B -- Greer R 2, Aurilia R, Hernandez L, Mueller B, Segui D, Rodriguez I, Burks E, Alicea L
+HR -- Palmeiro R, Benard M, Snow J 2
+CS -- Lamb M
+SF -- Alicea L, Aurilia R
+T -- 3:08
+A -- 40930
+     Game of 7/18/2000 -- Texas at San Francisco (N)
+
+  Texas              AB  R  H RBI    San Francisco      AB  R  H RBI
+Alicea L, 2b          4  0  1  0   Benard M, cf          3  0  0  0   
+Greer R, lf           5  0  1  0   Murray C, ph-cf       1  0  1  1   
+Palmeiro R, 1b        3  0  1  0   Mueller B, 3b         4  0  1  0   
+Rodriguez I, c        4  1  1  0   Bonds B, lf           4  0  0  0   
+Martinez D, rf        4  0  0  0   Kent J, 2b            4  0  0  0   
+Lamb M, 3b            4  1  2  1   Burks E, rf           4  1  2  0   
+Kapler G, cf          4  1  3  0   Snow J, 1b            4  1  2  0   
+Wetteland J, p        0  0  0  0   Aurilia R, ss         4  1  1  0   
+Clayton R, ss         4  0  2  2   Estalella B, c        3  1  1  1   
+Helling R, p          3  0  0  0   Rios A, ph            1  1  1  3   
+Venafro M, p          0  0  0  0   Ortiz R, p            2  0  1  0   
+Green S, cf           0  0  0  0   Embree A, p           0  0  0  0   
+                                   Crespo F, ph          1  0  0  0   
+                                   Fultz A, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3 11  3                        35  5 10  5
+
+Texas            000 000 210 --  3
+San Francisco    000 000 023 --  5
+  2 outs when winning run was scored.
+
+  Texas                IP  H  R ER BB SO
+Helling R             7.1  5  2  2  0  8
+Venafro M             0.1  2  0  0  0  0
+Wetteland J (L)       1.0  3  3  3  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R               6.1  9  2  2  1  4
+Embree A              1.2  1  1  1  1  1
+Fultz A (W)           1.0  1  0  0  0  1
+
+E -- Clayton R
+DP -- Texas 1, San Francisco 2
+LOB -- Texas 8, San Francisco 4
+2B -- Kapler G, Burks E, Clayton R, Snow J, Estalella B
+HR -- Rios A
+SB -- Clayton R, Rodriguez I
+SH -- Green S
+T -- 2:55
+A -- 40930
+     Game of 7/19/2000 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Owens E, rf           5  3  3  0   Benard M, cf          5  1  2  0   
+Martin A, lf          4  1  2  0   Mueller B, 3b         4  1  0  0   
+Nicholson K, ph-ss    0  0  0  0   Bonds B, lf           5  1  2  3   
+Klesko R, 1b          5  0  3  3   Kent J, 2b            4  0  1  0   
+Nevin P, 3b           5  0  3  1   Snow J, 1b            3  0  1  0   
+Boone B, 2b           4  0  1  0   Aurilia R, ss         4  0  2  0   
+Gonzalez W, c         5  0  1  0   Rios A, rf            4  0  1  0   
+Rivera R, cf          4  0  0  0   Mirabelli D, c        3  0  0  0   
+Jackson D, ss-lf      4  0  0  0   Crespo F, ph          1  0  0  0   
+Meadows B, p          3  0  0  0   Embree A, p           0  0  0  0   
+Magadan D, ph         1  0  0  0   Nen R, p              0  0  0  0   
+Wall D, p             0  0  0  0   Gardner M, p          2  0  0  0   
+                                   Burks E, ph           1  0  1  0   
+                                   Estes S, pr           0  0  0  0   
+                                   Rodriguez F, p        0  0  0  0   
+                                   Estalella B, ph-c     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  4 13  4                        37  3 10  3
+
+San Diego        210 000 000 1 --  4
+San Francisco    000 300 000 0 --  3
+
+  San Diego            IP  H  R ER BB SO
+Meadows B             8.0  7  3  3  2  3
+Wall D (W)            2.0  3  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M             7.0 10  3  3  0  4
+Rodriguez F           2.0  0  0  0  1  3
+Embree A (L)          0.1  3  1  1  0  0
+Nen R                 0.2  0  0  0  0  1
+
+DP -- San Diego 3, San Francisco 1
+LOB -- San Diego 8, San Francisco 6
+2B -- Gonzalez W, Kent J, Bonds B, Burks E, Owens E
+HR -- Bonds B
+SH -- Nicholson K
+WP -- Nen R
+T -- 3:14
+A -- 40930
+     Game of 7/20/2000 -- San Diego at San Francisco (D)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Owens E, rf-lf        3  0  0  0   Benard M, cf          4  2  1  0   
+Martin A, lf          3  0  1  0   Davis R, 3b           4  1  1  2   
+Vitiello J, ph        1  0  0  0   Fultz A, p            0  0  0  0   
+DeHaan K, rf          0  0  0  0   Bonds B, lf           2  2  1  0   
+Klesko R, 1b          4  0  1  0   Kent J, 2b            4  1  1  3   
+Nevin P, 3b           3  0  0  0   Snow J, 1b            4  0  1  1   
+Boone B, 2b           4  0  0  0   Aurilia R, ss         4  1  1  0   
+Gonzalez W, c         4  0  0  0   Rios A, rf            3  0  0  0   
+Rivera R, cf          3  1  0  0   Mirabelli D, c        3  0  1  1   
+Nicholson K, ss       3  0  0  0   Rueter K, p           3  0  1  0   
+Williams W, p         3  2  3  2   Mueller B, 3b         0  0  0  0   
+Almanzar C, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  5  2                        31  7  8  7
+
+San Diego        000 020 010 --  3
+San Francisco    300 030 01x --  7
+
+  San Diego            IP  H  R ER BB SO
+Williams W (L)        7.0  6  6  6  3  6
+Almanzar C            1.0  2  1  1  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (W)          7.1  5  3  1  2  0
+Fultz A (S)           1.2  0  0  0  0  1
+
+E -- Williams W, Davis R
+DP -- San Diego 1, San Francisco 2
+LOB -- San Diego 3, San Francisco 4
+2B -- Williams W, Bonds B
+HR -- Kent J, Williams W, Davis R
+Balk -- Fultz A
+T -- 2:31
+A -- 40930
+     Game of 8/3/2000 -- Pittsburgh at San Francisco (N)
+
+  Pittsburgh         AB  R  H RBI    San Francisco      AB  R  H RBI
+Morris W, 2b          5  1  3  0   Benard M, cf-lf       4  3  2  0   
+Kendall J, c          3  0  2  0   Mueller B, 3b         4  1  1  0   
+Vander Wal J, lf      3  0  0  0   Bonds B, lf           3  2  1  0   
+Giles B, cf           4  0  0  0   Crespo F, lf-1b       1  0  0  0   
+Brown E, cf           0  0  0  0   Kent J, 2b            4  2  3  6   
+Young K, 1b           3  0  0  1   Martinez R, 2b        0  0  0  0   
+Ramirez A, 3b         3  0  1  0   Snow J, 1b            2  0  1  1   
+Ramirez A, rf         4  0  0  0   Davis R, ph           1  0  0  0   
+Meares P, ss          4  1  1  1   Del Toro M, p         0  0  0  0   
+Cordova F, p          2  0  0  0   Burks E, rf           3  0  0  1   
+Wilkins M, p          0  0  0  0   Fultz A, p            0  0  0  0   
+Wilson E, ph          1  0  0  0   Murray C, cf          0  0  0  0   
+Sauerbeck S, p        0  0  0  0   Aurilia R, ss         3  1  2  0   
+Williams M, p         0  0  0  0   Estalella B, c        4  0  0  0   
+Aven B, ph            1  0  0  0   Ortiz R, p            3  0  1  0   
+                                   Rios A, rf            1  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        33 10 12 10
+
+Pittsburgh       100 000 001 --  2
+San Francisco    203 201 20x -- 10
+
+  Pittsburgh           IP  H  R ER BB SO
+Cordova F (L)         3.1 11  7  7  2  4
+Wilkins M             2.2  0  1  1  3  0
+Sauerbeck S           1.0  1  2  2  1  2
+Williams M            1.0  0  0  0  0  3
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (W)           6.2  5  1  1  3 10
+Fultz A               1.1  1  0  0  0  2
+Del Toro M            1.0  1  1  1  0  1
+
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 9, San Francisco 7
+2B -- Benard M 2, Aurilia R, Kent J 2
+HR -- Kent J, Rios A, Meares P
+SF -- Young K, Burks E, Snow J
+HBP -- by Ortiz R (Kendall J)
+WP -- Ortiz R, Cordova F
+T -- 3:10
+A -- 40930
+     Game of 8/4/2000 -- Pittsburgh at San Francisco (N)
+
+  Pittsburgh         AB  R  H RBI    San Francisco      AB  R  H RBI
+Wilson E, 2b          5  1  2  2   Benard M, cf-lf       3  1  1  0   
+Kendall J, c          4  0  2  0   Mueller B, 3b         4  3  2  0   
+Ramirez A, rf         4  1  1  1   Bonds B, lf           3  1  2  1   
+Giles B, cf           4  0  0  0   Murray C, pr-cf       0  0  0  0   
+Young K, 1b           4  0  3  0   Kent J, 2b            3  0  2  2   
+Ramirez A, 3b         4  0  1  0   Snow J, 1b            3  0  1  0   
+Brown E, lf           4  0  1  0   Rios A, rf            4  0  1  2   
+Loiselle R, p         0  0  0  0   Aurilia R, ss         3  0  1  0   
+Peters C, p           0  0  0  0   Mirabelli D, c        4  0  0  0   
+Meares P, ss          2  1  1  0   Rueter K, p           1  0  0  0   
+Morris W, ph          0  0  0  0   Davis R, ph           1  0  0  0   
+Benson K, p           2  0  0  0   Henry D, p            0  0  0  0   
+Sauerbeck S, p        0  0  0  0   Rodriguez F, p        0  0  0  0   
+Vander Wal J, lf      1  0  0  0   Burks E, ph           0  0  0  0   
+                                   Nen R, p              0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3 11  3                        29  5 10  5
+
+Pittsburgh       002 000 100 --  3
+San Francisco    000 210 20x --  5
+
+  Pittsburgh           IP  H  R ER BB SO
+Benson K (L)*         6.0  7  4  4  5  4
+Sauerbeck S           1.1  2  1  1  0  0
+Loiselle R+           0.0  1  0  0  0  0
+Peters C              0.2  0  0  0  2  0
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K              6.0  9  2  2  2  2
+Henry D (W)           1.0  2  1  1  0  0
+Rodriguez F           1.0  0  0  0  0  0
+Nen R (S)             1.0  0  0  0  1  2
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 8th
+
+E -- Ramirez A, Loiselle R
+DP -- Pittsburgh 2
+LOB -- Pittsburgh 8, San Francisco 9
+2B -- Kent J
+3B -- Rios A
+HR -- Wilson E, Ramirez A
+CS -- Snow J, Young K, Benard M, Kendall J
+SH -- Benson K, Rueter K
+SF -- Kent J
+WP -- Peters C
+T -- 3:08
+A -- 40930
+     Game of 8/5/2000 -- Pittsburgh at San Francisco (D)
+
+  Pittsburgh         AB  R  H RBI    San Francisco      AB  R  H RBI
+Morris W, 2b          6  1  2  0   Murray C, cf          4  0  0  1   
+Kendall J, c          5  1  2  0   Benard M, lf          3  0  2  0   
+Giles B, cf           5  3  4  0   Kent J, 1b            4  0  2  0   
+Young K, 1b           4  2  2  1   Burks E, rf           4  1  1  1   
+Vander Wal J, lf      4  0  1  3   Davis R, 3b           4  0  0  0   
+Ramirez A, 3b         5  0  1  1   Aurilia R, ss         3  0  0  0   
+Ramirez A, rf         4  0  1  1   Martinez R, 2b        4  0  2  0   
+Wilson E, ss          3  0  0  0   Mirabelli D, c        3  1  1  0   
+Benjamin M, ss        0  0  0  0   Snow J, ph            1  0  0  0   
+Serafini D, p         4  0  0  0   Gardner M, p          0  0  0  0   
+Manzanillo J, p       0  0  0  0   Henry D, p            0  0  0  0   
+Aven B, ph            1  0  0  0   Mueller B, ph         1  0  1  0   
+Williams M, p         0  0  0  0   Del Toro M, p         0  0  0  0   
+                                   Crespo F, ph          1  0  0  0   
+                                   Fultz A, p            0  0  0  0   
+                                   Rios A, ph            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  7 13  6                        33  2  9  2
+
+Pittsburgh       000 232 000 --  7
+San Francisco    000 011 000 --  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Serafini D (W)        6.2  8  2  2  2  1
+Manzanillo J          1.1  1  0  0  0  0
+Williams M            1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M (L)         4.1  9  5  5  2  3
+Henry D               0.2  0  0  0  1  2
+Del Toro M            2.0  4  2  2  2  2
+Fultz A               2.0  0  0  0  0  2
+
+E -- Kent J
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 12, San Francisco 8
+2B -- Giles B, Ramirez A, Mueller B, Young K
+HR -- Burks E
+SH -- Gardner M
+SF -- Murray C
+WP -- Del Toro M
+T -- 2:51
+A -- 40930
+     Game of 8/6/2000 -- Pittsburgh at San Francisco (D)
+
+  Pittsburgh         AB  R  H RBI    San Francisco      AB  R  H RBI
+Wilson E, 2b          4  0  1  0   Benard M, cf          5  1  2  0   
+Kendall J, c          4  0  1  0   Mueller B, 3b         5  1  2  2   
+Giles B, cf           3  0  1  0   Bonds B, lf           3  1  0  0   
+Young K, 1b           2  0  1  0   Crespo F, lf          0  0  0  0   
+Peters C, p           0  0  0  0   Kent J, 2b            4  1  2  0   
+Osik K, ph            1  0  1  0   Snow J, 1b            3  1  0  1   
+Loiselle R, p         0  0  0  0   Martinez R, 1b        0  0  0  0   
+Ramirez A, rf         4  0  0  0   Burks E, rf           3  1  1  3   
+Ramirez A, 3b         4  0  2  0   Rios A, rf            0  0  0  0   
+Brown E, lf           4  0  1  0   Aurilia R, ss         4  0  1  0   
+Meares P, ss          4  1  0  0   Estalella B, c        1  1  0  0   
+Arroyo B, p           1  0  0  0   Estes S, p            1  0  1  1   
+Wilkins M, p          1  0  1  0                                      
+Benjamin M, 1b        1  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1 10  1                        29  7  9  7
+
+Pittsburgh       000 000 100 --  1
+San Francisco    313 000 00x --  7
+
+  Pittsburgh           IP  H  R ER BB SO
+Arroyo B (L)          2.2  7  7  5  2  0
+Wilkins M             2.1  2  0  0  1  3
+Peters C              2.0  0  0  0  0  1
+Loiselle R            1.0  0  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (W)           9.0 10  1  0  1  4
+
+E -- Arroyo B, Young K, Mueller B
+DP -- San Francisco 5
+LOB -- Pittsburgh 7, San Francisco 7
+2B -- Mueller B, Burks E, Benjamin M
+SB -- Brown E
+SH -- Estes S 3
+SF -- Snow J, Burks E
+HBP -- by Estes S (Young K)
+T -- 2:23
+A -- 40930
+     Game of 8/7/2000 -- Milwaukee at San Francisco (N)
+
+  Milwaukee          AB  R  H RBI    San Francisco      AB  R  H RBI
+Belliard R, 2b        5  0  1  0   Benard M, cf-lf       4  1  1  1   
+Grissom M, cf         4  0  2  0   Mueller B, 3b         5  0  0  0   
+Jenkins G, lf         3  0  0  0   Bonds B, lf           3  1  2  1   
+Sexson R, 1b          3  0  0  0   Crespo F, lf-1b       0  0  0  0   
+Burnitz J, rf         4  0  1  0   Kent J, 2b            2  1  1  0   
+Hernandez J, ss       4  1  1  0   Martinez R, 2b        1  0  0  0   
+Houston T, 3b         4  0  2  0   Snow J, 1b            3  0  0  0   
+Blanco H, c           4  0  2  1   Murray C, ph-cf       0  0  0  0   
+Snyder J, p           0  0  0  0   Burks E, rf           1  2  0  1   
+Echevarria A, ph      1  0  0  0   Rios A, rf            1  0  0  0   
+Roque R, p            0  0  0  0   Aurilia R, ss         3  2  2  3   
+Mouton J, ph          1  0  0  0   Estalella B, c        1  1  0  0   
+Davis K, p            0  0  0  0   Hernandez L, p        3  0  2  2   
+Casanova R, ph        1  0  0  0   Embree A, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  9  1                        27  8  8  8
+
+Milwaukee        000 000 001 --  1
+San Francisco    031 101 20x --  8
+
+  Milwaukee            IP  H  R ER BB SO
+Snyder J (L)          4.0  5  5  5  6  1
+Roque R               3.0  3  3  3  5  3
+Davis K               1.0  0  0  0  2  0
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       8.1  9  1  1  1  7
+Embree A              0.2  0  0  0  0  1
+
+DP -- Milwaukee 3, San Francisco 1
+LOB -- Milwaukee 9, San Francisco 10
+2B -- Aurilia R, Kent J, Benard M, Bonds B, Houston T, Blanco H
+HR -- Aurilia R
+SB -- Benard M
+SH -- Snyder J, Hernandez L
+SF -- Burks E
+HBP -- by Hernandez L (Jenkins G)
+T -- 2:52
+A -- 40930
+     Game of 8/8/2000 -- Milwaukee at San Francisco (N)
+
+  Milwaukee          AB  R  H RBI    San Francisco      AB  R  H RBI
+Belliard R, 2b        3  0  0  0   Benard M, cf-rf       3  0  0  0   
+Grissom M, cf         4  0  0  0   Mueller B, 3b         4  0  2  0   
+Jenkins G, lf         4  0  0  0   Bonds B, lf           3  0  0  0   
+Sexson R, 1b          3  0  1  0   Kent J, 2b            4  0  1  0   
+Burnitz J, rf         3  0  0  0   Snow J, 1b            3  1  0  0   
+Hernandez J, ss       2  0  0  0   Burks E, rf           4  0  1  0   
+Houston T, 3b         3  0  0  0   Nen R, p              0  0  0  0   
+Blanco H, c           3  0  0  0   Aurilia R, ss         3  0  0  0   
+Wright J, p           2  0  1  0   Estalella B, c        2  0  1  0   
+Casanova R, ph        1  0  0  0   Ortiz R, p            2  0  1  1   
+King R, p             0  0  0  0   Crespo F, ph          1  0  0  0   
+Acevedo J, p          0  0  0  0   Rodriguez F, p        0  0  0  0   
+                                   Murray C, cf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  0  2  0                        29  1  6  1
+
+Milwaukee        000 000 000 --  0
+San Francisco    000 010 00x --  1
+
+  Milwaukee            IP  H  R ER BB SO
+Wright J (L)          7.0  4  1  1  4  3
+King R                0.2  2  0  0  0  0
+Acevedo J             0.1  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (W)           7.0  2  0  0  1  6
+Rodriguez F           1.0  0  0  0  0  1
+Nen R (S)             1.0  0  0  0  0  2
+
+E -- Houston T
+LOB -- Milwaukee 3, San Francisco 9
+2B -- Sexson R
+SB -- Mueller B
+CS -- Bonds B
+SH -- Belliard R, Aurilia R
+T -- 2:35
+A -- 40930
+     Game of 8/9/2000 -- Milwaukee at San Francisco (D)
+
+  Milwaukee          AB  R  H RBI    San Francisco      AB  R  H RBI
+Mouton J, rf          4  1  0  0   Benard M, cf-lf       5  1  1  0   
+Belliard R, 2b        3  1  2  1   Mueller B, 3b         3  2  1  1   
+Jenkins G, lf         4  0  2  0   Davis R, ph-3b        0  0  0  0   
+Sexson R, 1b          3  0  0  1   Bonds B, lf           1  2  0  0   
+Hayes C, 3b           2  0  0  0   Murray C, ph-cf       1  0  0  0   
+Grissom M, cf         3  1  1  0   Kent J, 2b            4  1  2  4   
+Hernandez J, ss       4  0  1  1   Martinez R, 2b-ss     1  1  1  0   
+Casanova R, c         3  0  0  0   Snow J, 1b            4  1  3  1   
+Rigdon P, p           1  0  0  0   Aurilia R, ss         2  0  1  0   
+Stull E, p            0  0  0  0   Crespo F, ph-2b       0  0  0  1   
+Blanco H, ph          1  0  0  0   Rios A, rf            5  1  2  1   
+Davis K, p            0  0  0  0   Mirabelli D, c        3  0  1  0   
+De Los Santos V, p    0  0  0  0   Rueter K, p           4  0  1  1   
+Echevarria A, ph      1  0  0  0   Henry D, p            0  0  0  0   
+King R, p             0  0  0  0   Rodriguez F, p        1  0  0  0   
+Leskanic C, p         0  0  0  0   Fultz A, p            0  0  0  0   
+Acevedo J, p          0  0  0  0                                      
+Lopez L, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  3  6  3                        34  9 13  9
+
+Milwaukee        000 000 120 --  3
+San Francisco    141 001 02x --  9
+
+  Milwaukee            IP  H  R ER BB SO
+Rigdon P (L)          2.0  3  5  5  6  4
+Stull E               2.0  4  1  1  0  1
+Davis K*              1.0  3  1  1  2  1
+De Los Santos V       1.0  0  0  0  1  1
+King R                1.0  0  0  0  1  1
+Leskanic C            0.2  3  2  2  1  1
+Acevedo J             0.1  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (W)          7.0  5  1  1  4  1
+Henry D               0.2  1  2  2  3  0
+Rodriguez F           0.1  0  0  0  0  0
+Fultz A               1.0  0  0  0  0  1
+  * Pitched to 4 batters in 6th
+
+DP -- Milwaukee 2, San Francisco 3
+LOB -- Milwaukee 7, San Francisco 13
+2B -- Snow J 2, Rios A, Hernandez J, Martinez R
+3B -- Mirabelli D, Belliard R, Rios A
+HR -- Mueller B, Kent J
+SB -- Benard M, Mouton J
+CS -- Davis R
+SF -- Crespo F
+T -- 3:12
+A -- 40930
+     Game of 8/18/2000 -- Atlanta at San Francisco (N)
+
+  Atlanta            AB  R  H RBI    San Francisco      AB  R  H RBI
+Furcal R, ss          4  0  1  0   Benard M, cf          4  0  0  0   
+Jones A, cf           4  0  0  0   Mueller B, 3b         4  0  1  0   
+Jones C, 3b           4  0  1  0   Bonds B, lf           4  0  2  0   
+Surhoff B, lf         3  0  0  0   Kent J, 2b            4  0  1  0   
+Galarraga A, 1b       3  0  1  0   Snow J, 1b            4  1  1  0   
+Jordan B, rf          3  0  0  0   Aurilia R, ss         3  1  1  2   
+Lockhart K, 2b        3  0  0  0   Rios A, rf            3  0  1  0   
+Bako P, c             3  0  0  0   Estalella B, c        2  0  0  0   
+Maddux G, p           2  0  1  0   Hernandez L, p        3  0  0  0   
+Joyner W, ph          1  0  0  0                                      
+Mulholland T, p       0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        31  2  7  2
+
+Atlanta          000 000 000 --  0
+San Francisco    000 200 00x --  2
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (L)          7.0  5  2  2  1  8
+Mulholland T          1.0  2  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       9.0  4  0  0  2 10
+
+LOB -- Atlanta 5, San Francisco 6
+HR -- Aurilia R
+SB -- Rios A
+CS -- Furcal R
+T -- 2:09
+A -- 40930
+     Game of 8/19/2000 -- Atlanta at San Francisco (D)
+
+  Atlanta            AB  R  H RBI    San Francisco      AB  R  H RBI
+Furcal R, ss          4  0  0  0   Benard M, cf          5  1  1  1   
+Jones A, cf           4  1  1  0   Mueller B, 3b         5  0  0  0   
+Jones C, 3b           3  0  0  1   Bonds B, lf           3  1  0  0   
+Surhoff B, lf         4  0  2  0   Crespo F, ph-rf       0  0  0  1   
+Galarraga A, 1b       3  0  0  0   Kent J, 2b            4  2  2  1   
+Jordan B, rf          3  1  0  0   Martinez R, ph-2b     1  0  0  0   
+Lopez J, c            4  1  2  2   Snow J, 1b            4  2  2  1   
+Lockhart K, 2b        3  0  2  0   Burks E, rf           4  2  2  4   
+Sanders R, ph         1  0  0  0   Embree A, p           0  0  0  0   
+Ashby A, p            2  0  0  0   Aurilia R, ss         4  1  2  0   
+Mulholland T, p       0  0  0  0   Estalella B, c        3  2  2  1   
+Bonilla B, ph         1  0  0  0   Ortiz R, p            2  0  0  0   
+Kamieniecki S, p      0  0  0  0   Henry D, p            0  0  0  0   
+Belinda S, p          0  0  0  0   Rodriguez F, p        0  0  0  0   
+Sisco S, ph           1  0  1  0   Rios A, ph-lf         1  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  3                        36 12 12 11
+
+Atlanta          110 010 000 --  3
+San Francisco    001 104 15x -- 12
+
+  Atlanta              IP  H  R ER BB SO
+Ashby A (L)           5.1  6  6  5  2  0
+Mulholland T          0.2  0  0  0  0  2
+Kamieniecki S         1.0  1  1  1  0  1
+Belinda S             1.0  5  5  5  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (W)           6.2  6  3  2  3  1
+Henry D               0.1  0  0  0  0  0
+Rodriguez F           1.0  1  0  0  1  2
+Embree A              1.0  1  0  0  0  2
+
+E -- Estalella B, Ashby A
+DP -- San Francisco 1
+LOB -- Atlanta 8, San Francisco 4
+2B -- Snow J, Aurilia R, Rios A
+3B -- Jones A, Benard M
+HR -- Estalella B, Lopez J, Burks E 2, Kent J
+SB -- Jordan B
+SF -- Jones C, Crespo F
+HBP -- by Ashby A (Bonds B)
+WP -- Ortiz R
+T -- 3:02
+A -- 40930
+     Game of 8/20/2000 -- Atlanta at San Francisco (D)
+
+  Atlanta            AB  R  H RBI    San Francisco      AB  R  H RBI
+Furcal R, 2b          6  0  1  1   Murray C, cf          4  1  1  0   
+Jones A, cf           6  1  1  0   Aurilia R, ss         4  1  0  0   
+Jones C, 3b           5  4  4  2   Bonds B, lf           4  0  0  0   
+Galarraga A, 1b       5  1  2  1   Kent J, 2b            3  1  1  1   
+Jordan B, rf          3  1  2  1   Burks E, rf           4  2  2  4   
+Lopez J, c            4  0  1  2   Davis R, 3b           4  0  0  0   
+Sanders R, lf         4  0  0  0   Snow J, 1b            4  0  0  0   
+Weiss W, ss           5  1  4  1   Mirabelli D, c        2  0  0  0   
+Glavine T, p          2  0  0  0   Rueter K, p           2  0  0  0   
+Remlinger M, p        0  0  0  0   Nathan J, p           1  0  0  0   
+Surhoff B, ph         1  0  0  0   Fultz A, p            0  0  0  0   
+Rocker J, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  8 15  8                        32  5  4  5
+
+Atlanta          201 030 110 --  8
+San Francisco    103 000 001 --  5
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (W)         7.0  3  4  3  2  3
+Remlinger M           1.0  0  0  0  0  0
+Rocker J              1.0  1  1  1  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (L)          4.1 10  6  5  1  1
+Nathan J              3.2  5  2  2  2  4
+Fultz A               1.0  0  0  0  0  2
+
+E -- Weiss W, Aurilia R
+LOB -- Atlanta 12, San Francisco 2
+2B -- Jordan B, Weiss W, Furcal R
+HR -- Jones C 2, Burks E 2
+SB -- Murray C, Jones C
+SH -- Glavine T 2
+SF -- Lopez J
+T -- 2:55
+A -- 40930
+     Game of 8/21/2000 -- Florida at San Francisco (N)
+
+  Florida            AB  R  H RBI    San Francisco      AB  R  H RBI
+Castillo L, 2b        4  0  2  0   Benard M, cf          4  0  1  0   
+Kotsay M, rf          4  0  0  0   Davis R, ph           1  1  1  4   
+Rodriguez H, lf       3  0  0  0   Murray C, cf          0  0  0  0   
+Wilson P, cf          4  0  1  0   Mueller B, 3b         5  0  1  0   
+Lowell M, 3b          3  0  1  0   Bonds B, lf           3  1  1  0   
+Lee D, 1b             4  0  2  0   Nen R, p              0  0  0  0   
+Berg D, ss            3  0  0  0   Kent J, 2b            4  1  2  0   
+Redmond M, c          2  0  0  0   Burks E, rf           4  0  1  1   
+Fox A, ph             1  0  0  0   Snow J, 1b            2  1  1  1   
+Castro R, c           0  0  0  0   Aurilia R, ss         3  1  1  0   
+Dempster R, p         2  0  0  0   Mirabelli D, c        3  0  1  0   
+Smith M, ph           1  0  0  0   Gardner M, p          2  0  0  0   
+Looper B, p           0  0  0  0   Rodriguez F, p        0  0  0  0   
+Almanza A, p          0  0  0  0   Crespo F, ph          0  1  0  0   
+                                   Rios A, lf            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  6  0                        31  6 10  6
+
+Florida          000 000 000 --  0
+San Francisco    000 200 04x --  6
+
+  Florida              IP  H  R ER BB SO
+Dempster R (L)        7.0  8  2  2  4  5
+Looper B              0.1  1  3  3  2  0
+Almanza A             0.2  1  1  1  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M (W)         6.2  4  0  0  3  2
+Rodriguez F           1.1  1  0  0  0  0
+Nen R                 1.0  1  0  0  0  2
+
+DP -- San Francisco 1
+LOB -- Florida 7, San Francisco 9
+2B -- Snow J
+HR -- Davis R
+CS -- Wilson P
+SH -- Gardner M, Mirabelli D
+T -- 2:46
+A -- 40930
+     Game of 8/22/2000 -- Florida at San Francisco (N)
+
+  Florida            AB  R  H RBI    San Francisco      AB  R  H RBI
+Castillo L, 2b        4  0  1  0   Benard M, cf          3  1  1  0   
+Berg D, ss            5  1  2  0   Mueller B, 3b         2  0  0  0   
+Millar K, lf-1b       2  3  1  2   Bonds B, lf           4  1  1  2   
+Wilson P, cf          5  2  2  0   Kent J, 2b            4  0  1  0   
+Lowell M, 3b          4  0  2  3   Snow J, 1b            4  0  0  0   
+Lee D, 1b             3  0  0  1   Henry D, p            0  0  0  0   
+Kotsay M, rf          1  0  0  0   Burks E, rf           4  2  2  1   
+Smith M, rf-lf        5  0  1  1   Aurilia R, ss         4  0  1  1   
+Alfonseca A, p        0  0  0  0   Estalella B, c        3  0  1  0   
+Castro R, c           5  0  2  0   Rios A, ph            1  0  0  0   
+Burnett A, p          3  1  2  0   Estes S, p            1  0  0  0   
+Miceli D, p           0  0  0  0   Fultz A, p            1  0  0  0   
+Fox A, lf             0  0  0  0   Embree A, p           0  0  0  0   
+                                   Crespo F, ph-1b       2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 13  7                        33  5  8  4
+
+Florida          302 200 000 --  7
+San Francisco    110 000 021 --  5
+
+  Florida              IP  H  R ER BB SO
+Burnett A (W)         7.0  4  2  2  3  7
+Miceli D              1.0  3  2  2  0  0
+Alfonseca A (S)       1.0  1  1  1  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (L)           3.2  9  7  7  3  2
+Fultz A               2.1  4  0  0  1  4
+Embree A              2.0  0  0  0  0  2
+Henry D               1.0  0  0  0  1  3
+
+DP -- Florida 1, San Francisco 2
+LOB -- Florida 10, San Francisco 4
+2B -- Lowell M, Burks E, Aurilia R, Castro R
+3B -- Benard M
+HR -- Millar K, Bonds B, Burks E
+SH -- Burnett A
+HBP -- by Embree A (Millar K)
+T -- 3:01
+A -- 40930
+     Game of 8/23/2000 -- Florida at San Francisco (D)
+
+  Florida            AB  R  H RBI    San Francisco      AB  R  H RBI
+Castillo L, 2b        4  0  1  0   Benard M, cf          3  1  0  0   
+Kotsay M, rf          3  0  0  0   Mueller B, 3b         4  0  1  0   
+Rodriguez H, lf       2  0  0  0   Bonds B, lf           4  1  2  2   
+Wilson P, cf          4  0  2  0   Kent J, 2b            4  1  2  0   
+Lowell M, 3b          4  0  1  0   Snow J, 1b            4  1  0  0   
+Lee D, 1b             4  0  0  0   Burks E, rf           3  1  2  3   
+Fox A, ss             4  0  0  0   Aurilia R, ss         2  0  0  0   
+Redmond M, c          3  0  0  0   Estalella B, c        3  0  0  0   
+Smith C, p            2  0  0  0   Hernandez L, p        3  0  0  0   
+Berg D, ph            1  0  0  0                                      
+Aybar M, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  4  0                        30  5  7  5
+
+Florida          000 000 000 --  0
+San Francisco    010 210 01x --  5
+
+  Florida              IP  H  R ER BB SO
+Smith C (L)           7.0  6  4  4  2  6
+Aybar M               1.0  1  1  1  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       9.0  4  0  0  3  5
+
+LOB -- Florida 7, San Francisco 4
+HR -- Burks E, Bonds B
+SB -- Kent J 2
+SF -- Burks E
+T -- 2:18
+A -- 40930
+     Game of 9/1/2000 -- Chicago at San Francisco (N)
+
+  Chicago            AB  R  H RBI    San Francisco      AB  R  H RBI
+Young E, 2b           4  1  3  0   Benard M, cf          4  1  1  0   
+Matthews G, cf        3  1  1  0   Mueller B, 3b         5  1  2  0   
+Nieves J, ss          1  0  0  0   Bonds B, lf           5  1  1  1   
+Sosa S, rf            3  0  0  1   Kent J, 2b            1  2  1  1   
+Grace M, 1b           2  0  1  0   Snow J, 1b            3  0  1  1   
+Gutierrez R, ss       3  0  1  1   Burks E, rf           3  1  2  1   
+Van Poppel T, p       0  0  0  0   Aurilia R, ss         4  1  1  3   
+Andrews S, 3b         1  0  0  0   Mirabelli D, c        3  0  0  0   
+Reed J, c             2  0  0  0   Gardner M, p          3  0  1  0   
+Girardi J, ph         0  0  0  0   Crespo F, ph          1  0  0  0   
+Gload R, lf           4  0  0  0   Henry D, p            0  0  0  0   
+Huson J, 3b           3  0  0  0   Fultz A, p            0  0  0  0   
+Worrell T, p          0  0  0  0                                      
+Wood K, p             1  0  0  0                                      
+Buford D, ph-cf       2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  2  6  2                        32  7 10  7
+
+Chicago          000 002 000 --  2
+San Francisco    601 000 00x --  7
+
+  Chicago              IP  H  R ER BB SO
+Wood K (L)            5.0  7  7  7  3  2
+Van Poppel T*         1.0  2  0  0  1  1
+Worrell T             2.0  1  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M (W)         7.0  4  2  2  3  3
+Henry D               1.0  1  0  0  0  0
+Fultz A               1.0  1  0  0  1  1
+  * Pitched to 2 batters in 7th
+
+DP -- Chicago 1, San Francisco 3
+LOB -- Chicago 5, San Francisco 8
+2B -- Young E
+HR -- Aurilia R, Kent J
+SB -- Young E
+CS -- Mueller B
+SF -- Snow J, Sosa S
+HBP -- by Wood K (Benard M), by Wood K (Mirabelli D)
+T -- 2:37
+A -- 40930
+     Game of 9/2/2000 -- Chicago at San Francisco (D)
+
+  Chicago            AB  R  H RBI    San Francisco      AB  R  H RBI
+Young E, 2b           4  0  1  1   Benard M, cf-rf       3  3  2  0   
+Gload R, rf           0  0  0  0   Mueller B, 3b         3  2  1  0   
+Girardi J, c          4  0  1  0   Bonds B, lf           3  1  2  1   
+Sosa S, rf            3  1  2  0   Murray C, ph-cf       0  1  0  0   
+Aguilera R, p         0  0  0  0   Kent J, 2b-1b         3  2  1  4   
+Grace M, 1b           3  0  0  0   Vogelsong R, p        0  0  0  0   
+Huson J, ph-1b        1  0  0  0   Burks E, rf           1  1  0  3   
+Andrews S, 3b         3  0  1  0   Lowery T, ph-lf       0  0  0  0   
+Gutierrez R, ss       4  0  2  1   Snow J, 1b            4  1  1  2   
+Buford D, cf          3  0  0  0   Fultz A, p            0  0  0  0   
+Arnold J, p           0  0  0  0   Martinez R, ph-1b-2b  1  0  0  0   
+Heredia F, p          0  0  0  0   Aurilia R, ss         5  1  1  3   
+Nieves J, 2b          1  0  0  0   Estalella B, c        5  0  1  0   
+Matthews G, lf-cf     4  1  1  0   Estes S, p            2  1  1  0   
+Quevedo R, p          0  0  0  0   Melo J, ph-2b         2  0  0  0   
+Farnsworth K, p       1  0  0  0   Minor D, ph-1b        1  0  0  0   
+Brown R, lf           2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        33 13 10 13
+
+Chicago          001 001 000 --  2
+San Francisco    130 007 20x -- 13
+
+  Chicago              IP  H  R ER BB SO
+Quevedo R (L)         1.1  4  4  4  5  2
+Farnsworth K          3.2  1  0  0  0  6
+Arnold J              0.1  1  4  4  3  0
+Heredia F             1.2  3  5  5  3  2
+Aguilera R            1.0  1  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (W)           6.0  6  2  2  2  3
+Fultz A               1.0  0  0  0  0  1
+Vogelsong R           2.0  2  0  0  0  0
+
+DP -- Chicago 1, San Francisco 1
+LOB -- Chicago 7, San Francisco 9
+2B -- Benard M, Young E, Snow J, Estalella B
+HR -- Aurilia R, Kent J
+SH -- Farnsworth K
+HBP -- by Quevedo R (Benard M), by Heredia F (Benard M)
+T -- 3:04
+A -- 40930
+     Game of 9/3/2000 -- Chicago at San Francisco (D)
+
+  Chicago            AB  R  H RBI    San Francisco      AB  R  H RBI
+Buford D, cf          4  1  1  0   Murray C, cf          4  1  2  1   
+Matthews G, lf        4  0  0  0   Martinez R, 2b        3  2  3  0   
+Sosa S, rf            4  1  1  0   Nen R, p              0  0  0  0   
+Grace M, 1b           3  0  1  1   Bonds B, lf           4  0  0  0   
+Andrews S, ph         0  0  0  0   Kent J, 1b-2b         4  0  2  1   
+Gutierrez R, ss       3  0  1  1   Burks E, rf           2  0  1  1   
+Van Poppel T, p       0  0  0  0   Davis R, 3b           5  1  2  2   
+Worrell T, p          0  0  0  0   Snow J, 1b            0  0  0  0   
+Brown R, ph           1  0  0  0   Aurilia R, ss         5  0  1  0   
+Reed J, c             4  0  0  0   Estalella B, c        3  1  2  0   
+Greene W, 3b          3  0  0  0   Hernandez L, p        4  0  0  0   
+Nieves J, 2b-ss       3  0  1  0   Mueller B, 3b         0  0  0  0   
+Garibay D, p          1  0  0  0                                      
+Huson J, 2b           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        34  5 13  5
+
+Chicago          200 000 000 --  2
+San Francisco    110 110 01x --  5
+
+  Chicago              IP  H  R ER BB SO
+Garibay D (L)         5.0 10  4  4  5  2
+Van Poppel T          2.0  1  0  0  1  3
+Worrell T             1.0  2  1  1  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       8.0  5  2  2  0  8
+Nen R (S)             1.0  0  0  0  0  2
+
+E -- Aurilia R
+DP -- Chicago 1
+LOB -- Chicago 4, San Francisco 14
+2B -- Buford D, Sosa S, Murray C, Estalella B 2, Martinez R
+HR -- Davis R
+SB -- Martinez R, Kent J
+SH -- Martinez R, Garibay D
+SF -- Grace M, Burks E
+PB -- Estalella B
+T -- 2:48
+A -- 40930
+     Game of 9/4/2000 -- Philadelphia at San Francisco (D)
+
+  Philadelphia       AB  R  H RBI    San Francisco      AB  R  H RBI
+Abreu B, rf           3  0  0  0   Benard M, cf          3  0  1  0   
+Sefcik K, cf          4  0  1  0   Mueller B, 3b         4  0  0  0   
+Rolen S, 3b           3  0  1  0   Bonds B, lf           3  2  2  2   
+Lee T, 1b             3  0  0  0   Kent J, 1b-2b         3  0  1  0   
+Burrell P, lf         4  0  0  0   Burks E, rf           4  0  0  0   
+Anderson M, 2b        3  0  0  0   Aurilia R, ss         2  1  1  1   
+Bennett G, c          4  0  1  0   Martinez R, 2b        3  0  0  0   
+Perez T, ss           2  0  1  0   Embree A, p           0  0  0  0   
+Jordan K, ph          1  0  0  0   Rodriguez F, p        0  0  0  0   
+Daal O, p             1  0  0  0   Nen R, p              0  0  0  0   
+Ducey R, ph           0  0  0  0   Estalella B, c        2  0  0  0   
+Hunter B, ph          1  0  0  0   Ortiz R, p            2  0  0  0   
+Vosberg E, p          0  0  0  0   Snow J, 1b            1  0  0  0   
+Brantley J, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  0  4  0                        27  3  5  3
+
+Philadelphia     000 000 000 --  0
+San Francisco    011 000 01x --  3
+
+  Philadelphia         IP  H  R ER BB SO
+Daal O (L)            6.0  3  2  2  5  5
+Vosberg E             1.0  1  0  0  0  0
+Brantley J            1.0  1  1  1  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (W)           6.1  2  0  0  5  5
+Embree A              0.2  0  0  0  0  1
+Rodriguez F           1.0  1  0  0  0  0
+Nen R (S)             1.0  1  0  0  0  2
+
+DP -- San Francisco 1
+LOB -- Philadelphia 8, San Francisco 5
+HR -- Aurilia R, Bonds B 2
+SB -- Abreu B
+CS -- Mueller B
+SH -- Daal O
+T -- 2:41
+A -- 40930
+     Game of 9/5/2000 -- Philadelphia at San Francisco (N)
+
+  Philadelphia       AB  R  H RBI    San Francisco      AB  R  H RBI
+Abreu B, rf           2  0  0  0   Benard M, cf-rf       4  0  1  0   
+Glanville D, cf       5  0  2  3   Mueller B, 3b         5  2  2  1   
+Rolen S, 3b           5  0  0  0   Bonds B, lf           4  2  2  3   
+Lieberthal M, c       3  0  0  0   Kent J, 2b            4  1  0  0   
+Hunter B, 1b          4  1  1  0   Snow J, 1b            3  1  1  1   
+Burrell P, lf         3  1  1  2   Burks E, rf           4  1  4  1   
+Jordan K, 2b          5  1  2  0   Rodriguez F, p        0  0  0  0   
+Arias A, ss           3  1  2  0   Nen R, p              0  0  0  0   
+Lee T, ph             1  0  0  0   Aurilia R, ss         3  1  1  1   
+Bottenfield K, p      1  1  0  0   Mirabelli D, c        3  0  0  1   
+Ducey R, ph           1  0  0  0   Rueter K, p           1  0  0  0   
+Vosberg E, p          0  0  0  0   Feliz P, ph           1  0  0  0   
+Padilla V, p          0  0  0  0   Nathan J, p           0  0  0  0   
+Brock C, p            0  0  0  0   Henry D, p            0  0  0  0   
+                                   Melo J, ph            1  0  0  0   
+                                   Johnstone J, p        0  0  0  0   
+                                   Murray C, cf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  8  5                        34  8 11  8
+
+Philadelphia     020 102 000 --  5
+San Francisco    220 001 30x --  8
+
+  Philadelphia         IP  H  R ER BB SO
+Bottenfield K         6.0  7  5  4  2  4
+Vosberg E (L)         0.1  2  2  2  0  0
+Padilla V             0.2  2  1  1  0  0
+Brock C               1.0  0  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K              5.0  6  3  3  3  0
+Nathan J              0.2  2  2  2  3  0
+Henry D               0.1  0  0  0  0  1
+Johnstone J (W)       1.0  0  0  0  1  1
+Rodriguez F           1.0  0  0  0  0  0
+Nen R (S)             1.0  0  0  0  1  2
+
+E -- Arias A
+DP -- Philadelphia 1
+LOB -- Philadelphia 12, San Francisco 6
+2B -- Glanville D, Benard M, Jordan K
+HR -- Bonds B 2, Burrell P, Burks E, Aurilia R, Mueller B, Snow J
+SB -- Glanville D, Abreu B
+SH -- Bottenfield K 2
+SF -- Mirabelli D
+HBP -- by Nen R (Lieberthal M)
+T -- 3:01
+A -- 40930
+     Game of 9/6/2000 -- Philadelphia at San Francisco (N)
+
+  Philadelphia       AB  R  H RBI    San Francisco      AB  R  H RBI
+Abreu B, rf           4  2  2  0   Murray C, cf          2  1  0  0   
+Glanville D, cf       5  1  3  1   Benard M, ph-cf       0  1  0  0   
+Rolen S, 3b           4  0  2  2   Martinez R, 2b        3  0  1  0   
+Lee T, 1b             2  0  0  1   Snow J, 1b            0  0  0  0   
+Burrell P, lf         4  0  1  0   Bonds B, lf           2  1  1  1   
+Anderson M, 2b        4  0  0  0   Kent J, 1b-2b         3  0  0  0   
+Brock C, p            0  0  0  0   Burks E, rf           4  1  2  1   
+Prince T, c           4  0  1  0   Davis R, 3b           3  1  1  3   
+Perez T, ss           3  0  0  0   Fultz A, p            0  0  0  0   
+Ducey R, ph           1  0  0  0   Crespo F, ph          1  0  0  0   
+Wolf R, p             3  1  1  0   Henry D, p            0  0  0  0   
+Padilla V, p          0  0  0  0   Embree A, p           0  0  0  0   
+Vosberg E, p          0  0  0  0   Aurilia R, ss         4  0  1  0   
+Jordan K, 2b          1  0  1  0   Mirabelli D, c        2  0  0  0   
+                                   Gardner M, p          2  0  0  0   
+                                   Mueller B, 3b         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 11  4                        27  5  6  5
+
+Philadelphia     001 030 000 --  4
+San Francisco    400 000 01x --  5
+
+  Philadelphia         IP  H  R ER BB SO
+Wolf R                7.0  5  4  4  2  4
+Padilla V (L)         0.1  1  1  1  3  0
+Vosberg E             0.1  0  0  0  0  1
+Brock C               0.1  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M             6.0  9  4  4  2  3
+Fultz A (W)           2.0  1  0  0  0  5
+Henry D               0.1  1  0  0  0  1
+Embree A (S)          0.2  0  0  0  0  1
+
+DP -- Philadelphia 1, San Francisco 2
+LOB -- Philadelphia 7, San Francisco 5
+2B -- Martinez R, Rolen S
+3B -- Abreu B
+HR -- Davis R
+CS -- Aurilia R
+SH -- Martinez R
+SF -- Lee T
+HBP -- by Wolf R (Murray C)
+Balk -- Fultz A
+T -- 3:00
+A -- 40930
+     Game of 9/7/2000 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Jackson D, 2b         4  0  1  0   Benard M, cf          5  3  3  1   
+Davey T, p            0  0  0  0   Del Toro M, p         0  0  0  0   
+Owens E, rf           4  0  0  0   Minor D, ph           1  0  0  0   
+Rivera R, cf          4  0  0  0   Vogelsong R, p        0  0  0  0   
+Sprague E, lf-2b      3  0  2  0   Mueller B, 3b         2  2  1  0   
+Vitiello J, 1b        3  0  1  0   Feliz P, 3b           2  1  2  0   
+LaRocca G, 3b-ss      3  0  1  0   Bonds B, lf           3  2  1  3   
+Relaford D, ss        3  0  0  0   Rios A, rf            2  0  0  1   
+Almanzar C, p         0  0  0  0   Kent J, 2b            3  1  1  1   
+DeHaan K, lf          0  0  0  0   Melo J, 2b            1  0  1  1   
+Davis B, c            3  0  0  0   Snow J, 1b            3  1  2  2   
+Clement M, p          2  0  0  0   Crespo F, 1b          1  0  0  0   
+Erdos T, p            0  0  0  0   Burks E, rf           4  1  1  3   
+Alvarez G, 3b         1  0  0  0   Lowery T, lf          1  0  0  0   
+                                   Aurilia R, ss         4  0  2  0   
+                                   Martinez R, ss        1  0  1  0   
+                                   Estalella B, c        2  2  1  1   
+                                   Servais S, ph-c       1  0  0  0   
+                                   Estes S, p            3  0  0  0   
+                                   Murray C, cf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        40 13 16 13
+
+San Diego        000 000 000 --  0
+San Francisco    002 018 20x -- 13
+
+  San Diego            IP  H  R ER BB SO
+Clement M (L)         5.1  7  6  6  6  5
+Erdos T               0.2  4  5  5  0  1
+Almanzar C            1.0  4  2  2  0  1
+Davey T               1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (W)           7.0  5  0  0  1  8
+Del Toro M            1.0  0  0  0  0  1
+Vogelsong R           1.0  0  0  0  0  1
+
+E -- Vitiello J
+DP -- San Francisco 2
+LOB -- San Diego 4, San Francisco 11
+2B -- Benard M 2
+HR -- Bonds B, Burks E, Estalella B
+SB -- Benard M
+SH -- Mueller B, Estes S
+WP -- Clement M
+T -- 2:46
+A -- 40930
+     Game of 9/8/2000 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Jackson D, 2b         5  1  2  0   Benard M, cf-rf       5  0  1  1   
+Owens E, lf           6  1  1  1   Mueller B, 3b         5  2  2  0   
+Klesko R, 1b          6  1  1  2   Bonds B, lf           3  1  2  1   
+Magadan D, 3b         3  2  3  1   Kent J, 2b            2  1  0  1   
+LaRocca G, pr-3b      0  1  0  0   Snow J, 1b            5  0  1  2   
+Mabry J, rf           5  1  2  3   Aurilia R, ss         5  1  1  1   
+DeHaan K, rf          0  0  0  0   Crespo F, rf          4  1  2  0   
+Darr M, cf            4  0  2  0   Murray C, cf          1  0  0  0   
+Almanzar C, p         0  0  0  0   Estalella B, c        5  0  2  0   
+Vitiello J, ph        0  1  0  0   Hernandez L, p        3  1  1  0   
+Walker K, p           0  0  0  0   Davis R, ph           1  0  1  0   
+Hoffman T, p          0  0  0  0   Rodriguez F, p        0  0  0  0   
+Relaford D, ss        5  1  2  1   Embree A, p           0  0  0  0   
+Davis B, c            5  1  3  2   Henry D, p            0  0  0  0   
+Cunnane W, p          1  0  0  0                                      
+Alvarez G, ph         0  0  0  0                                      
+Maurer D, p           0  0  0  0                                      
+Sprague E, ph         1  0  0  0                                      
+Slocumb H, p          0  0  0  0                                      
+Rivera R, cf          2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     43 10 16 10                        39  7 13  6
+
+San Diego        000 001 270 -- 10
+San Francisco    102 211 000 --  7
+
+  San Diego            IP  H  R ER BB SO
+Cunnane W             4.0  8  5  5  2  2
+Maurer D              1.0  2  1  1  0  1
+Slocumb H             1.0  1  1  1  2  1
+Almanzar C (W)        1.0  2  0  0  0  0
+Walker K              1.0  0  0  0  0  2
+Hoffman T (S)         1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L           7.0  8  3  3  4  3
+Rodriguez F           0.1  4  4  4  0  1
+Embree A (L)          0.1  2  2  2  0  0
+Henry D               1.1  2  1  1  1  0
+
+E -- Aurilia R
+LOB -- San Diego 11, San Francisco 10
+2B -- Jackson D, Mueller B
+3B -- Snow J
+HR -- Aurilia R, Mabry J
+SB -- Bonds B, Benard M
+SF -- Kent J
+WP -- Cunnane W
+Balk -- Slocumb H
+T -- 3:34
+A -- 40930
+     Game of 9/9/2000 -- San Diego at San Francisco (D)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Jackson D, 2b         5  1  1  1   Benard M, cf          5  1  2  1   
+Relaford D, ss        4  2  1  1   Mueller B, 3b         4  1  1  0   
+Klesko R, 1b          4  1  1  2   Snow J, 1b            4  0  3  0   
+Magadan D, 3b         4  1  2  0   Kent J, 2b            5  0  2  2   
+LaRocca G, ph-3b      1  0  0  0   Burks E, rf           2  0  0  0   
+Mabry J, rf           3  0  0  0   Crespo F, lf          3  0  1  0   
+Sprague E, ph         1  0  1  1   Lowery T, ph-lf       1  0  0  0   
+Maurer D, p           0  0  0  0   Martinez R, ss        4  0  1  0   
+Davey T, p            0  0  0  0   Mirabelli D, c        3  1  1  0   
+Vitiello J, ph        1  0  0  0   Melo J, ph            1  0  0  0   
+Walker K, p           0  0  0  0   Estalella B, c        0  0  0  0   
+Darr M, lf            3  1  1  0   Ortiz R, p            1  0  0  0   
+Rivera R, cf          3  1  1  2   Minor D, ph           1  0  0  0   
+Gonzalez W, c         3  0  0  0   Fultz A, p            0  0  0  0   
+Tollberg B, p         2  0  0  0   Johnstone J, p        0  0  0  0   
+DeHaan K, rf          1  0  0  0   Davis R, ph           1  0  0  0   
+                                   Embree A, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7  8  7                        35  3 11  3
+
+San Diego        004 002 100 --  7
+San Francisco    001 100 100 --  3
+
+  San Diego            IP  H  R ER BB SO
+Tollberg B (W)        6.0  9  2  2  2  1
+Maurer D              1.0  2  1  1  1  1
+Davey T               1.0  0  0  0  0  0
+Walker K              1.0  0  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (L)           6.0  7  6  6  2  8
+Fultz A               0.2  0  1  0  1  0
+Johnstone J           1.1  1  0  0  1  1
+Embree A              1.0  0  0  0  0  1
+
+E -- Jackson D, Mirabelli D, Mueller B
+DP -- San Diego 1
+LOB -- San Diego 7, San Francisco 10
+2B -- Relaford D, Mueller B, Snow J, Darr M, Sprague E
+HR -- Klesko R
+SB -- Rivera R, Relaford D 2, Benard M
+SH -- Tollberg B, Ortiz R
+HBP -- by Embree A (Relaford D)
+T -- 3:18
+A -- 40930
+     Game of 9/10/2000 -- San Diego at San Francisco (D)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Jackson D, 2b         3  0  0  0   Benard M, cf-rf       3  2  1  1   
+Relaford D, ss        3  0  0  0   Mueller B, 3b         5  2  2  0   
+Klesko R, 1b          2  1  1  0   Feliz P, 3b           0  0  0  0   
+Vitiello J, ph-1b     1  0  0  0   Bonds B, lf           2  1  1  2   
+Sprague E, lf         4  1  1  0   Lowery T, lf          0  0  0  0   
+Owens E, rf           2  0  1  1   Kent J, 2b            3  1  0  0   
+DeHaan K, rf          1  0  0  0   Martinez R, 2b        1  0  0  0   
+Rivera R, cf          3  0  0  0   Snow J, 1b            4  0  0  1   
+LaRocca G, 3b         3  0  1  1   Burks E, rf           3  1  1  2   
+Erdos T, p            0  0  0  0   Murray C, cf          1  1  1  0   
+Williams G, ph        1  0  0  0   Aurilia R, ss         3  1  1  0   
+Davis B, c            3  0  1  0   Servais S, c          4  0  2  0   
+Witasick J, p         2  0  0  0   Rueter K, p           3  0  0  0   
+Slocumb H, p          0  0  0  0   Minor D, ph           1  1  1  3   
+Alvarez G, 3b         1  0  0  0   Henry D, p            0  0  0  0   
+                                   Vogelsong R, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  2  5  2                        33 10 10  9
+
+San Diego        000 100 100 --  2
+San Francisco    510 100 30x -- 10
+
+  San Diego            IP  H  R ER BB SO
+Witasick J (L)        5.1  8  7  6  4  7
+Slocumb H             0.2  0  0  0  0  0
+Erdos T               2.0  2  3  3  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (W)          7.0  5  2  2  2  3
+Henry D               1.0  0  0  0  1  1
+Vogelsong R           1.0  0  0  0  1  2
+
+E -- Relaford D
+DP -- San Diego 1, San Francisco 1
+LOB -- San Diego 5, San Francisco 7
+2B -- Aurilia R, Mueller B, Davis B, Klesko R, Murray C
+3B -- Bonds B
+HR -- Burks E, Benard M, Minor D
+SF -- Snow J, Owens E
+HBP -- by Witasick J (Kent J), by Erdos T (Lowery T)
+T -- 2:45
+A -- 40930
+     Game of 9/18/2000 -- Cincinnati at San Francisco (N)
+
+  Cincinnati         AB  R  H RBI    San Francisco      AB  R  H RBI
+Reese P, 2b           5  0  1  0   Benard M, cf          4  0  1  0   
+Hunter B, cf          5  1  1  0   Mueller B, 3b         4  0  0  0   
+Young D, lf           2  0  0  1   Bonds B, lf           4  0  1  1   
+Tucker M, pr-rf       1  1  0  0   Kent J, 2b            4  0  0  0   
+Casey S, 1b           4  1  2  0   Burks E, rf           3  0  0  0   
+Ochoa A, rf-lf        5  3  4  1   Zerbe C, p            0  0  0  0   
+Santiago B, c         5  1  3  3   Minor D, 1b           0  0  0  0   
+Bell M, 3b            4  0  0  0   Snow J, 1b            3  0  1  0   
+Castro J, ss          3  0  1  0   Del Toro M, p         0  0  0  0   
+Fernandez O, p        3  0  0  1   Aurilia R, ss         3  0  0  0   
+                                   Estalella B, c        3  0  1  0   
+                                   Estes S, p            0  0  0  0   
+                                   Feliz P, ph           1  0  0  0   
+                                   Johnstone J, p        0  0  0  0   
+                                   Lowery T, rf          0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 12  6                        29  1  4  1
+
+Cincinnati       010 030 102 --  7
+San Francisco    000 000 001 --  1
+
+  Cincinnati           IP  H  R ER BB SO
+Fernandez O (W)       9.0  4  1  1  1  2
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (L)           6.0  9  4  4  3  6
+Johnstone J           1.0  1  1  1  2  1
+Zerbe C               1.0  0  0  0  0  1
+Del Toro M            1.0  2  2  2  0  1
+
+DP -- Cincinnati 1, San Francisco 1
+LOB -- Cincinnati 9, San Francisco 3
+2B -- Ochoa A 2, Hunter B, Casey S, Bonds B
+3B -- Ochoa A
+HR -- Santiago B
+SB -- Hunter B, Reese P, Tucker M
+SH -- Estes S
+SF -- Young D
+WP -- Del Toro M
+T -- 2:41
+A -- 40930
+     Game of 9/19/2000 -- Cincinnati at San Francisco (N)
+
+  Cincinnati         AB  R  H RBI    San Francisco      AB  R  H RBI
+Reese P, 2b           4  0  1  0   Benard M, cf-rf       5  1  3  1   
+Tucker M, cf          4  0  0  0   Mueller B, 3b         5  1  1  1   
+Young D, lf           4  1  1  1   Bonds B, lf           3  1  1  1   
+Casey S, 1b           1  1  1  0   Rios A, ph-lf         1  0  0  0   
+Cromer D, 1b          3  0  1  0   Kent J, 2b            4  1  3  1   
+Ochoa A, rf           4  0  0  0   Burks E, rf           4  0  0  0   
+Santiago B, c         4  0  1  0   Murray C, cf          0  0  0  0   
+Sexton C, 3b          4  0  1  1   Snow J, 1b            3  1  1  0   
+Castro J, ss          3  0  0  0   Aurilia R, ss         4  0  2  1   
+Bell R, p             2  0  0  0   Estalella B, c        4  2  2  1   
+Wohlers M, p          0  0  0  0   Hernandez L, p        4  0  1  1   
+Glauber K, p          0  0  0  0                                      
+Griffey K, ph         1  1  1  1                                      
+Reyes D, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  7  3                        37  7 14  7
+
+Cincinnati       010 000 011 --  3
+San Francisco    003 012 10x --  7
+
+  Cincinnati           IP  H  R ER BB SO
+Bell R (L)            5.0  7  4  4  1  4
+Wohlers M             1.0  4  2  2  0  0
+Glauber K             1.0  2  1  1  1  1
+Reyes D               1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       9.0  7  3  3  0  3
+
+E -- Aurilia R
+DP -- Cincinnati 1, San Francisco 1
+LOB -- Cincinnati 4, San Francisco 8
+2B -- Casey S, Estalella B, Benard M, Bonds B, Kent J
+3B -- Estalella B, Kent J
+HR -- Griffey K, Young D
+SB -- Kent J
+T -- 2:39
+A -- 40930
+     Game of 9/20/2000 -- Cincinnati at San Francisco (D)
+
+  Cincinnati         AB  R  H RBI    San Francisco      AB  R  H RBI
+Hunter B, cf          4  1  2  0   Benard M, cf          4  1  1  0   
+Reese P, 2b           2  0  0  0   Mueller B, 3b         4  0  0  0   
+Bell M, pr-3b         0  1  0  0   Bonds B, lf           3  2  1  1   
+Griffey K, ph         1  0  0  0   Kent J, 2b            3  1  1  0   
+Reyes D, p            0  0  0  0   Snow J, 1b            4  0  1  3   
+Riedling J, p         0  0  0  0   Burks E, rf           3  0  0  0   
+Young D, 1b           4  0  1  0   Aurilia R, ss         3  0  1  0   
+Ochoa A, lf-rf        4  0  0  0   Estalella B, c        3  0  0  0   
+Tucker M, rf-2b       3  0  1  2   Ortiz R, p            1  0  0  0   
+Sexton C, 3b-2b-3b    2  0  0  0   Henry D, p            0  0  0  0   
+Casey S, ph           1  0  0  0   Davis R, ph           1  0  0  0   
+Castro J, ss          3  0  0  0   Rodriguez F, p        0  0  0  0   
+LaRue J, c            2  0  0  0   Nen R, p              0  0  0  0   
+Santiago B, ph-c      1  0  0  0                                      
+Parris S, p           1  0  0  0                                      
+Clark B, ph           1  0  0  0                                      
+Sullivan S, p         0  0  0  0                                      
+Cromer D, ph          1  0  0  0                                      
+Bartee K, lf          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  2                        29  4  5  4
+
+Cincinnati       000 000 200 --  2
+San Francisco    012 010 00x --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Parris S (L)          5.0  5  4  4  3  2
+Sullivan S            2.0  0  0  0  0  1
+Reyes D               0.1  0  0  0  0  1
+Riedling J            0.2  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (W)           6.2  2  2  2  2  8
+Henry D               0.1  0  0  0  0  0
+Rodriguez F           1.0  1  0  0  0  3
+Nen R (S)             1.0  1  0  0  0  3
+
+E -- LaRue J
+LOB -- Cincinnati 4, San Francisco 4
+2B -- Snow J, Tucker M
+3B -- Kent J
+HR -- Bonds B
+SB -- Sexton C, Tucker M
+CS -- Tucker M
+HBP -- by Ortiz R (Reese P)
+WP -- Ortiz R
+T -- 2:43
+A -- 40930
+     Game of 9/21/2000 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Bautista D, cf        5  1  3  3   Benard M, cf          5  0  1  1   
+Bell J, 2b            4  0  0  1   Murray C, cf          0  0  0  0   
+Gonzalez L, lf        3  0  0  0   Mueller B, 3b         4  0  0  0   
+Colbrunn G, 1b        4  1  1  0   Bonds B, lf           3  1  0  0   
+Cabrera A, rf         4  1  1  1   Kent J, 2b            3  1  1  1   
+Conti J, rf           0  0  0  0   Snow J, 1b            1  3  1  0   
+Plesac D, p           0  0  0  0   Burks E, rf           4  2  3  3   
+Williams M, 3b        4  1  2  0   Aurilia R, ss         4  0  0  0   
+Miller D, c           3  0  1  2   Mirabelli D, c        3  1  2  1   
+Frias H, pr           0  0  0  0   Davis R, ph           0  0  0  1   
+Stinnett K, c         0  0  0  0   Estalella B, c        0  0  0  0   
+Womack T, ph          1  1  1  0   Rueter K, p           1  0  0  0   
+Klassen D, ss         2  1  0  0   Johnstone J, p        0  0  0  0   
+Counsell C, ph        1  0  0  0   Martinez R, ph        1  0  0  0   
+Stottlemyre T, p      1  1  0  0   Henry D, p            0  0  0  0   
+Mieske M, ph          1  0  0  0   Crespo F, ph          1  0  1  1   
+Swindell G, p         0  0  0  0   Nen R, p              0  0  0  0   
+Ryan R, ph            1  0  0  0                                      
+Morgan M, p           0  0  0  0                                      
+Dellucci D, rf        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  7  9  7                        30  8  9  8
+
+Arizona          003 102 001 --  7
+San Francisco    110 202 02x --  8
+
+  Arizona              IP  H  R ER BB SO
+Stottlemyre T         4.0  4  4  4  3  4
+Swindell G            2.0  2  2  2  1  1
+Morgan M (L)          1.2  2  2  2  0  0
+Plesac D              0.1  1  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K              5.1  7  6  4  0  2
+Johnstone J           0.2  0  0  0  0  1
+Henry D (W)           2.0  0  0  0  1  0
+Nen R (S)             1.0  2  1  1  0  1
+
+E -- Aurilia R
+LOB -- Arizona 4, San Francisco 5
+2B -- Kent J, Miller D, Snow J, Bautista D
+3B -- Bautista D
+HR -- Cabrera A, Burks E
+CS -- Frias H
+SH -- Rueter K
+SF -- Bell J, Davis R
+HBP -- by Rueter K (Klassen D), by Swindell G (Snow J)
+T -- 3:07
+A -- 40930
+     Game of 9/22/2000 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Womack T, ss          5  3  3  1   Benard M, cf          4  0  1  0   
+Bautista D, rf        4  1  2  2   Mueller B, 3b         4  0  0  0   
+Gonzalez L, lf        4  1  1  2   Bonds B, lf           4  0  1  0   
+Colbrunn G, 1b        3  0  0  1   Kent J, 2b            3  0  1  0   
+Finley S, cf          4  0  1  0   Snow J, 1b            3  0  0  0   
+Williams M, 3b        4  0  1  1   Aurilia R, ss         3  0  0  0   
+Counsell C, 2b        4  0  0  0   Zerbe C, p            0  0  0  0   
+Stinnett K, c         4  1  1  0   Rios A, rf            3  1  1  0   
+Schilling C, p        3  1  2  0   Mirabelli D, c        2  0  0  1   
+                                   Gardner M, p          1  0  0  0   
+                                   Minor D, ph           1  0  0  0   
+                                   Fultz A, p            0  0  0  0   
+                                   Martinez R, ss        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7 11  7                        29  1  4  1
+
+Arizona          000 230 002 --  7
+San Francisco    000 010 000 --  1
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       9.0  4  1  1  1 10
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M (L)         5.0  7  5  5  1  2
+Fultz A               2.0  1  0  0  0  3
+Zerbe C               2.0  3  2  2  0  1
+
+DP -- Arizona 1
+LOB -- Arizona 5, San Francisco 3
+2B -- Bonds B, Bautista D
+3B -- Womack T, Rios A
+SH -- Schilling C
+SF -- Bautista D, Colbrunn G, Mirabelli D
+T -- 2:28
+A -- 40930
+     Game of 9/23/2000, game 1 -- Arizona at San Francisco (D)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Bautista D, cf-rf     3  2  2  0   Murray C, cf          2  1  0  0   
+Bell J, 2b            4  1  1  0   Benard M, ph-cf       2  0  1  0   
+Gonzalez L, lf        4  2  2  4   Martinez R, ss        5  0  3  2   
+Colbrunn G, 1b        5  0  0  0   Crespo F, lf-rf       5  0  0  1   
+Cabrera A, rf         2  1  0  0   Burks E, rf           3  0  1  0   
+Conti J, rf           1  0  0  0   Lowery T, pr-rf       0  1  0  0   
+Mieske M, ph          1  0  0  0   Bonds B, ph-lf        1  0  0  0   
+Finley S, cf          0  0  0  0   Minor D, 1b           2  1  1  2   
+Williams M, 3b        4  1  3  3   Kent J, ph-1b         1  0  0  0   
+Klassen D, ss         4  0  0  0   Davis R, 3b           3  1  1  0   
+Stinnett K, c         4  0  0  0   Melo J, 2b            3  0  0  0   
+Guzman G, p           3  0  0  0   Mueller B, ph         1  1  1  0   
+Springer R, p         0  0  0  0   Estalella B, c        3  0  0  0   
+Ryan R, ph            1  0  1  0   Snow J, ph            1  0  0  0   
+Kim B, p              0  0  0  0   Estes S, p            1  0  0  0   
+Plesac D, p           0  0  0  0   Feliz P, ph           1  0  0  0   
+Mantei M, p           0  0  0  0   Vogelsong R, p        0  0  0  0   
+                                   Rios A, ph            1  0  0  0   
+                                   Johnstone J, p        0  0  0  0   
+                                   Embree A, p           0  0  0  0   
+                                   Aurilia R, ph         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7  9  7                        35  5  8  5
+
+Arizona          300 040 000 --  7
+San Francisco    001 002 002 --  5
+
+  Arizona              IP  H  R ER BB SO
+Guzman G (W)          5.2  4  3  3  2  4
+Springer R            1.1  0  0  0  0  2
+Kim B                 0.1  2  0  0  0  1
+Plesac D              0.1  0  0  0  0  1
+Mantei M (S)          1.1  2  2  2  2  0
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (L)           5.0  6  7  7  4  7
+Vogelsong R           2.0  2  0  0  1  3
+Johnstone J           1.0  1  0  0  0  2
+Embree A              1.0  0  0  0  0  2
+
+E -- Colbrunn G
+LOB -- Arizona 7, San Francisco 7
+2B -- Bautista D, Gonzalez L
+HR -- Gonzalez L, Williams M, Minor D
+WP -- Estes S
+T -- 3:10
+A -- 40930
+     Game of 9/23/2000, game 2 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Womack T, ss          4  2  2  0   Benard M, cf          5  1  1  2   
+Bautista D, rf        4  1  1  1   Mueller B, 3b         4  0  2  1   
+Gonzalez L, lf        4  1  1  4   Bonds B, lf           5  0  0  0   
+Colbrunn G, 1b        3  0  0  0   Kent J, 2b            4  1  1  0   
+Finley S, cf          3  0  0  0   Snow J, 1b            4  0  1  0   
+Williams M, 3b        3  0  2  0   Aurilia R, ss         2  2  2  0   
+Counsell C, 2b        3  0  0  0   Rios A, rf            3  2  1  0   
+Barajas R, c          4  0  1  0   Embree A, p           0  0  0  0   
+Reynoso A, p          1  0  1  0   Rodriguez F, p        0  0  0  0   
+Ryan R, ph            1  1  1  0   Nen R, p              0  0  0  0   
+Morgan M, p           0  0  0  0   Servais S, c          0  1  0  0   
+Dellucci D, ph        1  0  0  0   Burks E, ph           0  1  0  1   
+Swindell G, p         0  0  0  0   Henry D, p            0  0  0  0   
+Conti J, ph           1  0  0  0   Lowery T, rf          1  0  0  0   
+Holmes D, p           0  0  0  0   Del Toro M, p         2  1  1  2   
+                                   Estalella B, ph-c     2  0  1  3   
+                     -- -- -- --                        -- -- -- --
+                     32  5  9  5                        32  9 10  9
+
+Arizona          000 040 100 --  5
+San Francisco    000 540 00x --  9
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (L)         4.0  6  5  5  3  3
+Morgan M              1.0  3  4  4  2  0
+Swindell G            2.0  1  0  0  1  2
+Holmes D              1.0  0  0  0  0  3
+
+  San Francisco        IP  H  R ER BB SO
+Del Toro M (W)        5.0  6  4  4  2  5
+Henry D               1.1  3  1  0  0  0
+Embree A              0.1  0  0  0  2  0
+Rodriguez F           1.1  0  0  0  1  1
+Nen R                 1.0  0  0  0  0  1
+
+E -- Estalella B
+DP -- Arizona 1, San Francisco 2
+LOB -- Arizona 8, San Francisco 7
+2B -- Mueller B, Snow J, Aurilia R 2, Estalella B
+3B -- Benard M
+HR -- Gonzalez L
+SB -- Womack T
+SH -- Aurilia R, Womack T
+SF -- Mueller B, Gonzalez L
+HBP -- by Del Toro M (Bautista D)
+T -- 3:12
+A -- 40930
+     Game of 9/24/2000 -- Arizona at San Francisco (D)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Womack T, ss          5  1  1  1   Benard M, cf          3  0  0  0   
+Bautista D, rf        5  1  2  0   Feliz P, 3b           1  0  0  0   
+Gonzalez L, lf        4  1  1  0   Davis R, 3b           3  1  2  1   
+Williams M, 3b        5  1  2  5   Lowery T, lf          0  0  0  0   
+Finley S, cf          4  1  0  0   Bonds B, lf           3  0  0  0   
+Cabrera A, 1b         4  1  1  0   Zerbe C, p            0  0  0  0   
+Counsell C, 2b        4  1  1  1   Crespo F, ph          1  0  0  0   
+Stinnett K, c         3  1  2  0   Fultz A, p            0  0  0  0   
+Anderson B, p         3  0  0  1   Kent J, 2b            2  0  1  0   
+                                   Martinez R, ss        2  1  1  1   
+                                   Burks E, rf           3  0  0  0   
+                                   Rios A, rf            1  0  0  0   
+                                   Aurilia R, ss         2  0  0  0   
+                                   Melo J, 2b            2  0  0  0   
+                                   Snow J, 1b            3  1  2  1   
+                                   Minor D, 1b           0  0  0  0   
+                                   Estalella B, c        2  0  0  0   
+                                   Mirabelli D, c        1  0  1  0   
+                                   Mueller B, pr         0  0  0  0   
+                                   Servais S, c          1  0  0  0   
+                                   Hernandez L, p        1  0  0  0   
+                                   Murray C, ph-cf       2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  8 10  8                        33  3  7  3
+
+Arizona          070 100 000 --  8
+San Francisco    000 001 011 --  3
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (W)        9.0  7  3  3  2  3
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (L)       6.0  8  8  8  3  1
+Zerbe C               2.0  1  0  0  0  3
+Fultz A               1.0  1  0  0  0  0
+
+E -- Womack T, Aurilia R
+DP -- Arizona 1
+LOB -- Arizona 6, San Francisco 5
+2B -- Williams M, Mirabelli D
+HR -- Williams M, Davis R, Snow J, Martinez R
+SF -- Anderson B
+T -- 2:31
+A -- 40930
+

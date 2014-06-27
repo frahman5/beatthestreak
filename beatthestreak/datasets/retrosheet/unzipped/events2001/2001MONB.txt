@@ -1,0 +1,3779 @@
+     Game of 4/6/2001 -- New York at Montreal (N)
+
+  New York           AB  R  H RBI    Montreal           AB  R  H RBI
+Hamilton D, cf        4  0  0  1   Bergeron P, cf        5  2  2  1   
+Alfonzo E, 2b         4  0  0  0   Vidro J, 2b           5  2  3  1   
+Ventura R, 3b         3  1  1  0   Tatis F, 3b           5  1  1  0   
+Piazza M, c           3  1  1  2   Guerrero V, rf        2  1  1  0   
+Zeile T, 1b           4  0  0  0   Stevens L, 1b         2  1  1  2   
+Agbayani B, lf        4  2  2  1   Raines T, lf          2  1  0  0   
+Perez T, rf           4  2  3  1   Bradley M, lf         0  0  0  0   
+Ordonez R, ss         4  0  1  1   Blum G, ph-lf         0  0  0  0   
+Rusch G, p            0  0  0  0   Cabrera O, ss         4  1  2  4   
+Relaford D, ph        1  0  0  0   Barrett M, c          4  1  2  2   
+Rose B, p             0  0  0  0   Thurman M, p          2  0  0  0   
+Cook D, p             0  0  0  0   Mota G, p             1  0  1  0   
+Shinjo T, ph          1  0  0  0   Lloyd G, p            0  0  0  0   
+Wall D, p             0  0  0  0   Strickland S, p       1  0  0  0   
+Franco J, p           0  0  0  0                                      
+Harris L, ph          1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  6  9  6                        33 10 13 10
+
+New York         220 101 000 --  6
+Montreal         032 201 20x -- 10
+
+  New York             IP  H  R ER BB SO
+Rusch G               3.0  5  5  5  2  3
+Rose B (L)            2.2  4  3  3  0  1
+Cook D                0.1  0  0  0  0  0
+Wall D                1.0  3  2  2  2  0
+Franco J              1.0  1  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Thurman M (W)         5.0  7  5  5  1  1
+Mota G                2.0  1  1  1  0  2
+Lloyd G               0.1  0  0  0  1  0
+Strickland S          1.2  1  0  0  0  2
+
+DP -- Montreal 1
+LOB -- New York 4, Montreal 5
+2B -- Agbayani B, Cabrera O, Bergeron P, Harris L
+3B -- Vidro J
+HR -- Piazza M, Agbayani B, Cabrera O, Bergeron P, Perez T, Barrett M
+SH -- Rusch G
+SF -- Hamilton D, Stevens L 2
+PB -- Piazza M
+T -- 2:43
+A -- 45183
+     Game of 4/7/2001 -- New York at Montreal (D)
+
+  New York           AB  R  H RBI    Montreal           AB  R  H RBI
+Agbayani B, lf        4  0  1  0   Bergeron P, cf        3  2  0  0   
+Relaford D, ss        4  0  0  0   Vidro J, 2b           5  1  1  0   
+Alfonzo E, 2b         2  0  0  0   Tatis F, 3b           4  0  1  2   
+McEwing J, ph-2b      1  0  1  0   Guerrero V, rf        3  3  2  0   
+Ventura R, 3b         2  0  0  0   Seguignol F, rf       0  0  0  0   
+Harris L, ph-3b       2  0  0  0   Stevens L, 1b         4  2  3  6   
+Zeile T, 1b           3  0  0  0   Blum G, lf            4  0  0  0   
+Perez T, rf           3  0  0  0   Cabrera O, ss         2  1  1  0   
+Pratt T, c            3  0  0  0   Stewart S, p          0  0  0  0   
+Shinjo T, cf          3  0  2  0   Urbina U, p           0  0  0  0   
+Trachsel S, p         1  0  0  0   Knorr R, c            4  1  1  2   
+Wendell T, p          0  0  0  0   Vazquez J, p          2  0  1  0   
+Wall D, p             0  0  0  0   Mordecai M, ss        1  0  0  0   
+Hamilton D, ph        1  0  0  0                                      
+Benitez A, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  0  4  0                        32 10 10 10
+
+New York         000 000 000 --  0
+Montreal         010 243 00x -- 10
+
+  New York             IP  H  R ER BB SO
+Trachsel S (L)*       5.0  9 10 10  4  5
+Wendell T             1.0  1  0  0  0  0
+Wall D                1.0  0  0  0  1  1
+Benitez A             1.0  0  0  0  1  2
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (W)         7.0  4  0  0  0  9
+Stewart S             1.0  0  0  0  0  1
+Urbina U              1.0  0  0  0  1  1
+  * Pitched to 3 batters in 6th
+
+E -- Trachsel S
+DP -- New York 1
+LOB -- New York 4, Montreal 5
+2B -- Guerrero V, Shinjo T, McEwing J
+HR -- Stevens L 2, Knorr R
+SB -- McEwing J
+SH -- Trachsel S
+SF -- Tatis F
+WP -- Wendell T
+T -- 2:38
+A -- 15317
+     Game of 4/8/2001 -- New York at Montreal (D)
+
+  New York           AB  R  H RBI    Montreal           AB  R  H RBI
+Agbayani B, lf        0  0  0  0   Bergeron P, cf        5  1  1  0   
+Hamilton D, lf        2  0  0  0   Vidro J, 2b           5  1  2  0   
+Alfonzo E, 2b         5  0  0  0   Tatis F, 3b           5  1  3  1   
+Ventura R, 3b         4  1  2  0   Guerrero V, rf        3  1  0  1   
+Franco J, p           0  0  0  0   Stevens L, 1b         4  1  1  1   
+Piazza M, c           4  1  2  0   Raines T, lf          2  0  1  0   
+Zeile T, 1b           5  0  0  1   Bradley M, pr-lf      0  0  0  0   
+Shinjo T, cf          5  0  2  0   Blum G, ph-lf         0  0  0  0   
+Perez T, rf           2  0  1  1   Cabrera O, ss         3  0  1  1   
+McEwing J, rf         3  0  1  0   Barrett M, c          3  0  0  1   
+Ordonez R, ss         4  0  2  0   Peters C, p           2  0  1  0   
+Leiter A, p           2  0  0  0   Seguignol F, ph       1  0  0  0   
+Relaford D, ph        0  0  0  0   Johnson M, p          0  0  0  0   
+Cook D, p             0  0  0  0   Stewart S, p          0  0  0  0   
+Wendell T, p          0  0  0  0   Mota G, p             0  0  0  0   
+Harris L, ph-3b       0  0  0  0   Tracy A, ph           1  0  0  0   
+                                   Strickland S, p       0  0  0  0   
+                                   Urbina U, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  2 10  2                        34  5 10  5
+
+New York         010 000 100 --  2
+Montreal         110 020 10x --  5
+
+  New York             IP  H  R ER BB SO
+Leiter A (L)          5.0 10  4  4  1  5
+Cook D                1.0  0  0  0  0  1
+Wendell T             1.0  0  1  1  2  1
+Franco J              1.0  0  0  0  0  2
+
+  Montreal             IP  H  R ER BB SO
+Peters C (W)          5.0  5  1  1  3  3
+Johnson M             0.1  2  0  0  0  0
+Stewart S             0.1  0  0  0  0  1
+Mota G                1.1  2  1  1  0  0
+Strickland S          1.0  1  0  0  2  0
+Urbina U (S)          1.0  0  0  0  0  2
+
+LOB -- New York 14, Montreal 10
+2B -- Tatis F 2, Ventura R, Stevens L
+SB -- Guerrero V, Cabrera O, Bradley M
+CS -- Agbayani B
+SF -- Barrett M
+HBP -- by Peters C (Agbayani B), by Johnson M (Relaford D), by Wendell T (Guerrero V)
+T -- 3:34
+A -- 11321
+     Game of 4/9/2001 -- Chicago at Montreal (N)
+
+  Chicago            AB  R  H RBI    Montreal           AB  R  H RBI
+Young E, 2b           5  0  0  0   Bergeron P, cf        4  0  0  0   
+Mueller B, 3b         5  1  2  0   Vidro J, 2b           4  1  1  1   
+Sosa S, rf            3  2  2  4   Tatis F, 3b           3  0  1  1   
+Hundley T, c          4  0  1  0   Guerrero V, rf        4  2  1  0   
+White R, lf           4  1  2  1   Stevens L, 1b         4  1  1  0   
+Stairs M, 1b          3  0  0  0   Blum G, lf            3  2  1  1   
+Zuleta J, ph-1b       1  0  0  0   Bradley M, lf         0  0  0  0   
+Gutierrez R, ss       3  0  1  0   Cabrera O, ss         3  1  1  0   
+Buford D, cf          3  0  0  0   Barrett M, c          3  0  1  0   
+Aybar M, p            0  0  0  0   Reames B, p           2  0  1  1   
+Heredia F, p          0  0  0  0   Johnson M, p          1  0  0  0   
+Girardi J, ph         1  0  0  0   Lloyd G, p            0  0  0  0   
+Van Poppel T, p       0  0  0  0   Tracy A, ph           1  0  0  0   
+Wood K, p             1  0  0  0   Urbina U, p           0  0  0  0   
+Fyhrie M, p           1  0  0  0                                      
+Matthews G, cf        2  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5  9  5                        32  7  8  4
+
+Chicago          010 020 200 --  5
+Montreal         041 000 20x --  7
+
+  Chicago              IP  H  R ER BB SO
+Wood K                3.0  5  5  3  3  4
+Fyhrie M              2.0  1  0  0  0  0
+Aybar M (L)           1.1  2  2  1  0  2
+Heredia F             0.2  0  0  0  0  1
+Van Poppel T          1.0  0  0  0  0  1
+
+  Montreal             IP  H  R ER BB SO
+Reames B              5.0  6  3  3  2  3
+Johnson M             1.2  2  2  2  0  2
+Lloyd G (W)           1.1  1  0  0  0  0
+Urbina U (S)          1.0  0  0  0  0  0
+
+E -- Young E 2, Hundley T
+LOB -- Chicago 6, Montreal 5
+2B -- Stevens L, Matthews G
+HR -- White R, Sosa S 2, Vidro J
+SB -- Guerrero V
+HBP -- by Wood K (Cabrera O)
+PB -- Hundley T
+T -- 2:45
+A -- 5776
+     Game of 4/10/2001 -- Chicago at Montreal (N)
+
+  Chicago            AB  R  H RBI    Montreal           AB  R  H RBI
+Young E, 2b           5  1  1  0   Bergeron P, cf        3  0  0  0   
+Mueller B, 3b         4  0  1  0   Bradley M, ph         1  0  0  0   
+Sosa S, rf            4  1  1  2   Vidro J, 2b           5  0  2  0   
+Hundley T, c          3  1  0  0   Tatis F, 3b           3  0  0  0   
+White R, lf           3  1  1  0   Guerrero V, rf        3  0  0  0   
+Buford D, cf          0  0  0  0   Stevens L, 1b         4  1  1  1   
+Stairs M, 1b          1  0  0  0   Blum G, lf            4  1  1  1   
+Zuleta J, ph-1b       2  0  1  1   Cabrera O, ss         4  0  2  0   
+Matthews G, cf-lf     3  0  0  1   Barrett M, c          4  0  1  0   
+Ojeda A, ss           3  0  0  0   Armas T, p            2  0  1  0   
+Farnsworth K, p       0  0  0  0   Stewart S, p          0  0  0  0   
+Brown R, ph           0  0  0  0   Seguignol F, ph       1  0  0  0   
+Fassero J, p          0  0  0  0   Mota G, p             0  0  0  0   
+Tapani K, p           2  0  0  0   Johnson M, p          0  0  0  0   
+Gutierrez R, ph-ss    1  0  0  0   Strickland S, p       0  0  0  0   
+                                   Raines T, ph          1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  5  4                        35  2  9  2
+
+Chicago          000 004 000 --  4
+Montreal         010 000 010 --  2
+
+  Chicago              IP  H  R ER BB SO
+Tapani K (W)          6.0  6  1  1  2  5
+Farnsworth K          2.0  2  1  1  0  3
+Fassero J (S)         1.0  1  0  0  0  1
+
+  Montreal             IP  H  R ER BB SO
+Armas T (L)           5.1  3  4  4  4  3
+Stewart S             0.2  1  0  0  0  0
+Mota G                1.0  1  0  0  1  1
+Johnson M             1.0  0  0  0  0  0
+Strickland S          1.0  0  0  0  1  0
+
+E -- Ojeda A
+DP -- Chicago 1
+LOB -- Chicago 8, Montreal 9
+2B -- Vidro J, Young E, White R
+HR -- Stevens L, Sosa S, Blum G
+SH -- Bergeron P, Gutierrez R
+HBP -- by Strickland S (Brown R)
+T -- 2:50
+A -- 8314
+     Game of 4/11/2001 -- Chicago at Montreal (N)
+
+  Chicago            AB  R  H RBI    Montreal           AB  R  H RBI
+Young E, 2b           3  0  2  2   Bergeron P, cf        4  0  0  0   
+Mueller B, 3b         5  0  0  0   Raines T, ph          1  0  0  0   
+Sosa S, rf            3  0  1  0   Vidro J, 2b           4  1  2  1   
+White R, lf           4  0  0  0   Tatis F, 3b           4  0  0  0   
+Buford D, cf          0  0  0  0   Guerrero V, rf        3  0  2  0   
+Stairs M, 1b          4  0  1  0   Stevens L, 1b         3  0  1  0   
+Van Poppel T, p       0  0  0  0   Blum G, lf            3  1  1  0   
+Heredia F, p          0  0  0  0   Cabrera O, ss         4  0  0  0   
+Fyhrie M, p           0  0  0  0   Barrett M, c          4  0  0  0   
+Fassero J, p          0  0  0  0   Thurman M, p          1  0  0  0   
+Gutierrez R, ss       4  2  1  0   Seguignol F, ph       1  0  1  1   
+Matthews G, cf-lf     4  0  0  0   Lloyd G, p            0  0  0  0   
+Girardi J, c          3  2  2  1   Mordecai M, ph        1  0  0  0   
+Tavarez J, p          1  0  0  1                                      
+Zuleta J, 1b          1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  8  4                        33  2  7  2
+
+Chicago          001 021 000 --  4
+Montreal         000 000 110 --  2
+
+  Chicago              IP  H  R ER BB SO
+Tavarez J (W)         7.0  6  1  0  2  4
+Van Poppel T          0.1  1  1  1  1  0
+Heredia F             0.1  0  0  0  1  0
+Fyhrie M              0.1  0  0  0  0  0
+Fassero J (S)         1.0  0  0  0  0  1
+
+  Montreal             IP  H  R ER BB SO
+Thurman M (L)         7.0  6  4  3  2  3
+Lloyd G               2.0  2  0  0  0  1
+
+E -- Stairs M, Vidro J, Mueller B
+DP -- Chicago 1, Montreal 2
+LOB -- Chicago 7, Montreal 8
+2B -- Guerrero V 2, Girardi J, Gutierrez R, Seguignol F
+HR -- Vidro J
+SB -- Young E
+SH -- Tavarez J 2
+SF -- Young E
+HBP -- by Thurman M (Young E)
+T -- 2:43
+A -- 9632
+     Game of 4/13/2001 -- Florida at Montreal (N)
+
+  Florida            AB  R  H RBI    Montreal           AB  R  H RBI
+Castillo L, 2b        4  0  0  1   Bergeron P, cf        3  1  0  0   
+Owens E, rf           4  0  0  0   Vidro J, 2b           4  0  0  0   
+Floyd C, lf           5  1  2  0   Tatis F, 3b           4  0  1  0   
+Mouton L, pr-lf       0  0  0  0   Guerrero V, rf        3  0  0  1   
+Wilson P, cf          5  3  3  0   Urbina U, p           0  0  0  0   
+Lowell M, 3b          5  2  2  4   Stevens L, 1b         4  1  2  1   
+Johnson C, c          5  2  2  1   Blum G, 1b            0  0  0  0   
+Redmond M, c          0  0  0  0   Bradley M, lf         4  0  1  0   
+Lee D, 1b             5  1  3  3   Cabrera O, ss         4  0  1  1   
+Gonzalez A, ss        3  0  1  0   Barrett M, c          3  0  0  0   
+Dempster R, p         2  0  0  0   Peters C, p           0  0  0  0   
+Miceli D, p           0  0  0  0   Seguignol F, rf       1  0  0  0   
+Alfonseca A, p        0  0  0  0   Vazquez J, p          1  0  0  0   
+                                   Johnson M, p          0  0  0  0   
+                                   Raines T, ph          0  0  0  0   
+                                   Yoshii M, p           0  0  0  0   
+                                   Knorr R, c            2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 13  9                        33  3  6  3
+
+Florida          010 233 000 --  9
+Montreal         000 010 020 --  3
+
+  Florida              IP  H  R ER BB SO
+Dempster R (W)        7.2  5  3  3  3  4
+Miceli D              0.1  1  0  0  0  0
+Alfonseca A           1.0  0  0  0  0  2
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (L)         4.1  8  6  6  4  4
+Johnson M             0.2  0  0  0  1  1
+Yoshii M              2.0  4  3  3  0  2
+Peters C              1.0  1  0  0  0  0
+Urbina U              1.0  0  0  0  0  1
+
+E -- Vidro J
+DP -- Montreal 1
+LOB -- Florida 8, Montreal 6
+2B -- Wilson P, Lee D 2, Lowell M, Stevens L, Cabrera O, Johnson C
+HR -- Johnson C, Lowell M
+SB -- Guerrero V, Wilson P
+SH -- Dempster R
+WP -- Vazquez J, Johnson M
+T -- 2:49
+A -- 12554
+     Game of 4/14/2001 -- Florida at Montreal (N)
+
+  Florida            AB  R  H RBI    Montreal           AB  R  H RBI
+Castillo L, 2b        3  1  0  0   Cabrera O, ss         4  0  1  0   
+Owens E, rf           4  0  1  0   Vidro J, 2b           4  2  2  1   
+Floyd C, lf           4  0  0  1   Tatis F, 3b           3  2  1  1   
+Wilson P, cf          4  0  1  0   Guerrero V, rf        5  2  2  2   
+Lowell M, 3b          4  1  1  0   Stevens L, 1b         4  1  3  3   
+Johnson C, c          4  0  1  1   Bradley M, lf         3  0  3  1   
+Lee D, 1b             3  0  0  0   Bergeron P, cf        4  0  0  0   
+Gonzalez A, ss        4  0  2  0   Barrett M, c          2  1  1  0   
+Clement M, p          2  0  0  0   Reames B, p           1  0  0  0   
+Bones R, p            0  0  0  0   Seguignol F, ph       1  0  1  0   
+Darensbourg V, p      0  0  0  0   Mota G, p             0  0  0  0   
+Mabry J, ph           1  0  1  0   Lloyd G, p            0  0  0  0   
+Strong J, p           0  0  0  0   Raines T, ph          1  0  0  0   
+Millar K, ph          1  0  1  0   Strickland S, p       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        32  8 14  8
+
+Florida          100 001 000 --  2
+Montreal         300 014 00x --  8
+
+  Florida              IP  H  R ER BB SO
+Clement M (L)*        5.0  9  5  5  4  4
+Bones R               0.2  3  3  3  0  0
+Darensbourg V         0.1  1  0  0  0  0
+Strong J              2.0  1  0  0  2  0
+
+  Montreal             IP  H  R ER BB SO
+Reames B (W)          6.0  4  2  2  3  4
+Mota G                1.0  1  0  0  0  0
+Lloyd G               1.0  1  0  0  0  0
+Strickland S          1.0  2  0  0  0  1
+  * Pitched to 2 batters in 6th
+
+E -- Gonzalez A, Stevens L
+DP -- Florida 3, Montreal 2
+LOB -- Florida 8, Montreal 8
+2B -- Stevens L 2, Lowell M, Johnson C, Vidro J, Guerrero V
+HR -- Guerrero V
+SB -- Castillo L, Wilson P
+SH -- Cabrera O
+HBP -- by Clement M (Vidro J)
+PB -- Barrett M
+T -- 2:46
+A -- 9514
+     Game of 4/15/2001 -- Florida at Montreal (D)
+
+  Florida            AB  R  H RBI    Montreal           AB  R  H RBI
+Castillo L, 2b        4  1  0  0   Cabrera O, ss         4  0  2  0   
+Berg D, ss            5  1  1  1   Vidro J, 2b           3  0  1  0   
+Floyd C, lf           3  1  2  1   Stewart S, p          0  0  0  0   
+Wilson P, cf          4  1  1  1   Tatis F, 3b           3  0  1  0   
+Lowell M, 3b          4  1  1  0   Guerrero V, rf        4  0  0  0   
+Lee D, 1b             4  0  0  0   Stevens L, 1b         4  0  0  0   
+Mabry J, rf           2  0  1  0   Bradley M, lf         4  0  0  0   
+Owens E, ph-rf        2  0  2  1   Bergeron P, cf        3  0  0  0   
+Redmond M, c          3  0  0  0   Knorr R, c            3  2  2  2   
+Grilli J, p           2  1  1  1   Armas T, p            1  0  0  0   
+Looper B, p           1  0  0  0   Raines T, ph          1  1  1  0   
+Miceli D, p           0  0  0  0   Johnson M, p          0  0  0  0   
+Millar K, ph          1  0  0  0   Seguignol F, ph       1  0  0  0   
+Alfonseca A, p        0  0  0  0   Blum G, 2b            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6  9  5                        31  3  7  2
+
+Florida          101 200 110 --  6
+Montreal         000 002 010 --  3
+
+  Florida              IP  H  R ER BB SO
+Grilli J (W)*         5.0  5  2  2  1  6
+Looper B              2.0  0  0  0  0  0
+Miceli D              1.0  1  1  1  0  1
+Alfonseca A (S)       1.0  1  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Armas T (L)           6.0  6  4  3  2  5
+Johnson M             2.0  3  2  2  0  2
+Stewart S             1.0  0  0  0  0  0
+  * Pitched to 4 batters in 6th
+
+E -- Armas T, Knorr R, Guerrero V
+DP -- Florida 3
+LOB -- Florida 5, Montreal 3
+2B -- Owens E 2, Lowell M
+HR -- Grilli J, Knorr R 2, Berg D
+SB -- Castillo L, Floyd C, Wilson P 2, Mabry J
+SF -- Floyd C
+HBP -- by Grilli J (Tatis F)
+T -- 2:30
+A -- 8090
+     Game of 5/1/2001 -- Arizona at Montreal (N)
+
+  Arizona            AB  R  H RBI    Montreal           AB  R  H RBI
+Finley S, cf          4  2  2  0   Raines T, lf          4  0  2  0   
+Bell J, 2b            4  2  1  2   Vidro J, 2b           4  1  2  0   
+Gonzalez L, lf        5  1  2  2   Tatis F, 3b           3  1  1  0   
+Williams M, 3b        2  2  2  3   Guerrero V, rf        4  1  1  3   
+Womack T, pr-ss       2  0  0  0   Stevens L, 1b         4  0  1  0   
+Grace M, 1b           5  0  1  0   Urbina U, p           0  0  0  0   
+Sanders R, rf         2  0  0  1   Cabrera O, ss         4  0  1  0   
+Bautista D, rf        3  0  1  0   Bradley M, cf         4  0  0  0   
+Counsell C, ss-3b     3  0  0  0   Barrett M, c          4  0  1  0   
+Miller D, c           3  1  1  0   Reames B, p           0  0  0  0   
+Schilling C, p        3  0  0  0   Yoshii M, p           1  0  0  0   
+Springer R, p         0  0  0  0   Peters C, p           0  0  0  0   
+Prinz B, p            0  0  0  0   Blum G, ph            1  0  0  0   
+                                   Stewart S, p          0  0  0  0   
+                                   Telford A, p          0  0  0  0   
+                                   Tracy A, ph           1  0  0  0   
+                                   Lloyd G, p            0  0  0  0   
+                                   Seguignol F, 1b       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  8 10  8                        35  3  9  3
+
+Arizona          350 000 000 --  8
+Montreal         000 300 000 --  3
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       7.0  8  3  3  1  2
+Springer R            1.0  0  0  0  0  1
+Prinz B               1.0  1  0  0  0  1
+
+  Montreal             IP  H  R ER BB SO
+Reames B (L)          1.1  7  8  8  1  0
+Yoshii M              2.2  1  0  0  0  1
+Peters C              1.0  0  0  0  1  1
+Stewart S             1.1  1  0  0  0  0
+Telford A             0.2  1  0  0  1  0
+Lloyd G               1.0  0  0  0  0  0
+Urbina U              1.0  0  0  0  0  1
+
+DP -- Arizona 1
+LOB -- Arizona 7, Montreal 6
+2B -- Miller D, Cabrera O
+3B -- Gonzalez L
+HR -- Bell J, Williams M, Guerrero V
+SH -- Schilling C
+HBP -- by Reames B (Bell J), by Yoshii M (Williams M)
+WP -- Peters C, Telford A
+T -- 2:37
+A -- 4340
+     Game of 5/2/2001 -- Arizona at Montreal (N)
+
+  Arizona            AB  R  H RBI    Montreal           AB  R  H RBI
+Finley S, cf          4  1  1  0   Cabrera O, ss         3  0  0  0   
+Bell J, 2b            4  0  1  1   Blum G, lf            3  0  0  0   
+Gonzalez L, lf        4  1  1  1   Strickland S, p       0  0  0  0   
+Williams M, 3b        4  0  1  0   Urbina U, p           0  0  0  0   
+Bautista D, pr        0  0  0  0   Lloyd G, p            0  0  0  0   
+Grace M, 1b           3  0  0  0   Stevens L, 1b         3  0  0  0   
+Colbrunn G, ph        1  0  0  0   Guerrero V, rf        1  1  1  1   
+Sanders R, rf         3  0  0  0   Vidro J, 2b           4  1  1  1   
+Counsell C, ss        3  0  1  0   Tatis F, 3b           4  0  0  0   
+Miller D, c           3  0  0  0   Bradley M, cf         3  1  0  0   
+Anderson B, p         1  0  0  0   Barrett M, c          4  0  1  0   
+Dellucci D, ph        0  0  0  0   Armas T, p            1  0  1  2   
+Kim B, p              0  0  0  0   Mota G, p             0  0  0  0   
+Brohawn T, p          0  0  0  0   Tracy A, ph           0  1  0  0   
+Springer R, p         0  0  0  0   Raines T, lf          0  0  0  0   
+Womack T, ph          0  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  3  5  2                        26  4  4  4
+
+Arizona          000 000 102 --  3
+Montreal         000 300 10x --  4
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (L)        5.0  4  3  1  3  4
+Kim B                 1.1  0  1  1  2  1
+Brohawn T             0.2  0  0  0  1  0
+Springer R            1.0  0  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Armas T (W)           6.0  1  0  0  1  6
+Mota G                1.0  1  1  1  0  0
+Strickland S          1.0  0  0  0  0  1
+Urbina U              0.2  3  2  2  1  0
+Lloyd G (S)           0.1  0  0  0  0  0
+
+E -- Williams M
+DP -- Montreal 1
+LOB -- Arizona 2, Montreal 7
+3B -- Guerrero V
+HR -- Gonzalez L
+SB -- Womack T
+CS -- Counsell C
+SH -- Armas T, Cabrera O
+SF -- Guerrero V
+T -- 2:34
+A -- 4352
+     Game of 5/3/2001 -- Arizona at Montreal (N)
+
+  Arizona            AB  R  H RBI    Montreal           AB  R  H RBI
+Womack T, ss          4  0  1  0   Cabrera O, ss         2  0  0  0   
+Bell J, 2b            4  0  0  0   Raines T, lf          2  0  0  0   
+Gonzalez L, lf        4  0  0  0   Seguignol F, 1b       3  0  0  0   
+Williams M, 3b        4  1  1  0   Stevens L, ph-1b      1  0  0  0   
+Grace M, 1b           2  0  1  0   Guerrero V, rf        4  1  1  1   
+Counsell C, pr-1b     0  1  0  0   Vidro J, 2b           4  0  1  0   
+Sanders R, rf         3  0  1  1   Tatis F, 3b           4  0  1  0   
+Finley S, cf          4  0  1  0   Bradley M, cf         4  0  0  0   
+Miller D, c           2  0  0  0   Knorr R, c            2  0  0  0   
+Bautista D, ph        1  0  1  1   Thurman M, p          2  0  0  0   
+Barajas R, c          0  0  0  0   Blum G, ph            1  0  0  0   
+Johnson R, p          2  0  0  0   Strickland S, p       0  0  0  0   
+Kim B, p              0  0  0  0   Lloyd G, p            0  0  0  0   
+Colbrunn G, ph        1  0  0  0                                      
+Prinz B, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        29  1  3  1
+
+Arizona          000 001 001 --  2
+Montreal         000 100 000 --  1
+
+  Arizona              IP  H  R ER BB SO
+Johnson R             7.0  2  1  1  4 11
+Kim B (W)             1.0  0  0  0  1  1
+Prinz B (S)           1.0  1  0  0  0  1
+
+  Montreal             IP  H  R ER BB SO
+Thurman M             7.0  5  1  1  2  4
+Strickland S          1.0  0  0  0  0  0
+Lloyd G (L)           1.0  1  1  1  1  1
+
+E -- Thurman M
+DP -- Arizona 1, Montreal 1
+LOB -- Arizona 7, Montreal 6
+2B -- Grace M, Tatis F
+HR -- Guerrero V
+SB -- Womack T, Cabrera O
+SH -- Johnson R, Sanders R
+WP -- Thurman M
+T -- 2:42
+A -- 4788
+     Game of 5/4/2001 -- Houston at Montreal (N)
+
+  Houston            AB  R  H RBI    Montreal           AB  R  H RBI
+Lugo J, ss            4  2  2  1   Cabrera O, ss         4  0  1  0   
+Biggio C, 2b          4  1  2  1   Blum G, lf            4  0  0  0   
+Bagwell J, 1b         3  2  1  3   Stevens L, 1b         4  1  1  0   
+Berkman L, cf-lf      5  0  2  2   Guerrero V, rf        4  0  0  0   
+Alou M, rf            5  0  1  0   Vidro J, 2b           4  1  1  0   
+Ward D, lf            3  1  2  1   Tatis F, 3b           3  1  1  1   
+Barker G, pr-cf       0  0  0  0   Bradley M, cf         4  1  2  2   
+Truby C, 3b           4  0  0  0   Barrett M, c          2  0  0  0   
+Ausmus B, c           5  1  1  0   Vazquez J, p          1  0  0  0   
+Miller W, p           3  1  1  0   Tracy A, ph           1  0  0  0   
+Powell J, p           0  0  0  0   Telford A, p          0  0  0  0   
+                                   Stewart S, p          0  0  0  0   
+                                   Seguignol F, ph       0  0  0  1   
+                                   Mota G, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  8 12  8                        31  4  6  4
+
+Houston          000 041 120 --  8
+Montreal         000 000 031 --  4
+
+  Houston              IP  H  R ER BB SO
+Miller W (W)          8.0  4  3  3  1  4
+Powell J              1.0  2  1  1  0  1
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (L)         6.0  8  5  5  2  6
+Telford A             1.0  2  1  1  0  0
+Stewart S             1.0  2  2  2  1  0
+Mota G                1.0  0  0  0  1  1
+
+E -- Barrett M
+DP -- Houston 1, Montreal 1
+LOB -- Houston 9, Montreal 3
+2B -- Miller W, Bradley M 2, Berkman L, Ausmus B, Stevens L, Tatis F
+HR -- Bagwell J, Ward D, Lugo J
+SB -- Barker G
+SH -- Miller W
+SF -- Biggio C, Seguignol F
+HBP -- by Vazquez J (Truby C), by Miller W (Barrett M), by Telford A (Bagwell J)
+T -- 2:56
+A -- 6017
+     Game of 5/5/2001 -- Houston at Montreal (N)
+
+  Houston            AB  R  H RBI    Montreal           AB  R  H RBI
+Lugo J, ss            5  1  1  1   Pride C, lf           4  1  2  0   
+Biggio C, 2b          4  0  0  0   Cabrera O, ss         4  0  1  0   
+Bagwell J, 1b         3  1  0  0   Stevens L, 1b         4  0  1  0   
+Berkman L, cf-lf      3  0  1  2   Urbina U, p           0  0  0  0   
+Alou M, rf            3  0  0  0   Guerrero V, rf        4  1  1  0   
+Ward D, lf            2  0  0  0   Vidro J, 2b           4  0  2  1   
+Barker G, cf          0  0  0  0   Tatis F, 3b           4  0  1  0   
+Truby C, 3b           4  0  0  0   Bradley M, cf         2  0  0  0   
+Eusebio T, c          3  1  1  0   Barrett M, c          2  1  0  0   
+Reynolds S, p         2  1  0  0   Reames B, p           0  0  0  0   
+Jackson M, p          0  0  0  0   Seguignol F, ph       1  0  0  0   
+Merced O, ph          0  0  0  0   Yoshii M, p           0  0  0  0   
+Wagner B, p           0  0  0  0   Tracy A, ph           1  0  0  0   
+                                   Strickland S, p       0  0  0  0   
+                                   Blum G, 1b            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  4  3  3                        30  3  8  1
+
+Houston          004 000 000 --  4
+Montreal         101 100 000 --  3
+
+  Houston              IP  H  R ER BB SO
+Reynolds S (W)        7.0  7  3  3  2  5
+Jackson M             1.0  0  0  0  0  0
+Wagner B (S)          1.0  1  0  0  0  2
+
+  Montreal             IP  H  R ER BB SO
+Reames B (L)          5.0  3  4  0  6  6
+Yoshii M              2.0  0  0  0  0  2
+Strickland S          1.0  0  0  0  0  1
+Urbina U              1.0  0  0  0  1  2
+
+E -- Stevens L, Guerrero V
+DP -- Houston 1
+LOB -- Houston 7, Montreal 4
+2B -- Cabrera O, Vidro J 2
+SB -- Merced O
+CS -- Pride C
+SH -- Reames B, Reynolds S, Bradley M
+HBP -- by Reames B (Eusebio T)
+WP -- Reynolds S
+PB -- Barrett M
+T -- 2:39
+A -- 20541
+     Game of 5/6/2001 -- Houston at Montreal (D)
+
+  Houston            AB  R  H RBI    Montreal           AB  R  H RBI
+Lugo J, ss            5  3  5  0   Pride C, lf           5  0  1  2   
+Vizcaino J, 2b        5  2  1  1   Mordecai M, ss        4  0  0  0   
+Bagwell J, 1b         5  2  4  5   Lloyd G, p            0  0  0  0   
+Hidalgo R, cf-rf      4  2  1  3   Tracy A, 1b           4  0  1  0   
+Alou M, rf            5  2  2  2   Stewart S, p          0  0  0  0   
+Jackson M, p          0  0  0  0   Mota G, p             0  0  0  0   
+Oswalt R, p           0  0  0  0   Cabrera O, ss         1  0  0  0   
+Berkman L, lf         4  1  3  1   Guerrero V, rf        5  0  2  0   
+Eusebio T, c          5  0  0  0   Vidro J, 2b           4  2  2  0   
+Truby C, 3b           5  0  1  0   Blum G, 3b            5  2  4  1   
+Elarton S, p          3  1  1  1   Bradley M, cf         5  2  3  2   
+Dotel O, p            0  0  0  0   Knorr R, c            4  1  2  1   
+Ginter K, ph          1  0  0  0   Peters C, p           2  0  0  0   
+Barker G, cf          1  0  0  0   Telford A, p          0  0  0  0   
+                                   Seguignol F, ph-1b    2  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     43 13 18 13                        41  7 16  7
+
+Houston          300 006 040 -- 13
+Montreal         030 003 001 --  7
+
+  Houston              IP  H  R ER BB SO
+Elarton S (W)*        5.0  9  6  6  2  3
+Dotel O               2.0  5  0  0  0  2
+Jackson M             1.0  0  0  0  0  0
+Oswalt R              1.0  2  1  1  0  1
+
+  Montreal             IP  H  R ER BB SO
+Peters C              5.0  8  3  3  2  0
+Telford A (L)         1.0  5  6  2  0  2
+Stewart S             1.1  4  3  3  0  0
+Mota G                0.2  1  1  1  0  0
+Lloyd G               1.0  0  0  0  0  1
+  * Pitched to 3 batters in 6th
+
+E -- Knorr R
+DP -- Houston 1
+LOB -- Houston 5, Montreal 9
+2B -- Lugo J 2, Pride C, Alou M, Blum G
+3B -- Berkman L
+HR -- Alou M, Bagwell J, Hidalgo R
+SB -- Berkman L
+CS -- Lugo J
+WP -- Elarton S
+T -- 2:59
+A -- 6041
+     Game of 5/15/2001 -- Los Angeles at Montreal (N)
+
+  Los Angeles        AB  R  H RBI    Montreal           AB  R  H RBI
+Cora A, ss            3  0  0  0   Cabrera O, ss         4  0  2  1   
+Grudzielanek M, 2b    4  0  1  0   Pride C, lf           3  0  0  0   
+Sheffield G, lf       4  0  0  0   Stevens L, 1b         3  1  1  0   
+Green S, rf           3  0  1  0   Guerrero V, rf        3  0  1  1   
+Karros E, 1b          3  0  0  0   Vidro J, 2b           3  0  0  0   
+Beltre A, 3b          3  0  0  0   Bradley M, cf         2  0  1  0   
+Grissom M, cf         3  0  0  0   Mordecai M, 3b        3  0  0  0   
+Kreuter C, c          2  0  0  0   Barrett M, c          2  1  0  0   
+Donnels C, ph         1  0  0  0   Vazquez J, p          2  0  1  0   
+Adams T, p            0  0  0  0                                      
+Park C, p             2  0  0  0                                      
+Hansen D, ph          1  0  0  0                                      
+Pena A, c             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  0  2  0                        25  2  6  2
+
+Los Angeles      000 000 000 --  0
+Montreal         001 100 00x --  2
+
+  Los Angeles          IP  H  R ER BB SO
+Park C (L)            7.0  6  2  2  2  8
+Adams T               1.0  0  0  0  1  1
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (W)         9.0  2  0  0  0  9
+
+E -- Stevens L
+DP -- Los Angeles 2, Montreal 1
+LOB -- Los Angeles 3, Montreal 4
+2B -- Guerrero V, Bradley M
+3B -- Cabrera O
+CS -- Cabrera O
+SH -- Vazquez J
+HBP -- by Park C (Stevens L), by Vazquez J (Cora A)
+T -- 2:21
+A -- 4714
+     Game of 5/16/2001 -- Los Angeles at Montreal (N)
+
+  Los Angeles        AB  R  H RBI    Montreal           AB  R  H RBI
+Goodwin T, cf         3  1  1  1   Cabrera O, ss         5  0  2  1   
+Grissom M, ph-cf      2  1  1  0   Blum G, lf            2  0  0  1   
+Grudzielanek M, 2b    5  2  3  1   Stevens L, 1b         3  0  0  0   
+Sheffield G, lf       4  1  0  0   Guerrero V, rf        4  0  0  0   
+Green S, rf           4  1  2  3   Vidro J, 2b           4  0  0  0   
+Karros E, 1b          4  0  1  2   Bradley M, cf         4  0  0  0   
+Beltre A, 3b          5  0  0  0   Tracy A, 3b           2  0  0  0   
+Pena A, c             4  0  2  0   Strickland S, p       0  0  0  0   
+Cora A, ss            4  0  1  0   Lira F, p             0  0  0  0   
+Dreifort D, p         2  1  0  0   Peters C, p           0  0  0  0   
+Donnels C, ph         0  0  0  0   Pride C, ph           1  0  1  0   
+Olson G, p            0  0  0  0   Barrett M, c          4  0  1  0   
+Fetters M, p          0  0  0  0   Reames B, p           1  1  0  0   
+Reboulet J, ph        1  0  0  0   Lloyd G, p            0  0  0  0   
+Herges M, p           0  0  0  0   Minor R, 3b           2  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 11  7                        32  2  6  2
+
+Los Angeles      001 001 032 --  7
+Montreal         000 001 010 --  2
+
+  Los Angeles          IP  H  R ER BB SO
+Dreifort D (W)        6.0  1  1  1  2  9
+Olson G               1.0  0  0  0  1  0
+Fetters M             1.0  2  1  1  0  1
+Herges M              1.0  3  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Reames B (L)          6.2  6  2  2  1  7
+Lloyd G               0.1  0  0  0  0  0
+Strickland S*         0.0  2  3  3  2  0
+Lira F                1.2  2  2  2  0  1
+Peters C              0.1  1  0  0  1  0
+  * Pitched to 4 batters in 8th
+
+LOB -- Los Angeles 8, Montreal 8
+2B -- Pena A, Cabrera O 2
+HR -- Goodwin T, Green S
+SB -- Green S
+CS -- Goodwin T
+SF -- Blum G
+HBP -- by Dreifort D (Blum G)
+WP -- Dreifort D
+PB -- Barrett M
+T -- 3:09
+A -- 4759
+     Game of 5/17/2001 -- Los Angeles at Montreal (N)
+
+  Los Angeles        AB  R  H RBI    Montreal           AB  R  H RBI
+Goodwin T, cf         3  0  1  0   Cabrera O, ss         4  1  1  1   
+Reboulet J, ph-lf     1  0  0  0   Blum G, lf            3  0  0  0   
+Bocachica H, 2b-rf    4  1  1  0   Pride C, lf           0  0  0  0   
+Sheffield G, lf       4  0  0  0   Stevens L, 1b         3  1  1  1   
+Grudzielanek M, 2b    0  0  0  0   Guerrero V, rf        3  0  0  0   
+Green S, rf-cf        3  0  1  1   Vidro J, 2b           3  0  0  0   
+Donnels C, 1b         4  0  0  0   Bradley M, cf         3  0  0  0   
+Beltre A, 3b          4  0  1  0   Minor R, 3b           3  1  1  1   
+Kreuter C, c          2  0  1  0   Barrett M, c          3  0  1  0   
+Cora A, ss            4  0  2  0   Armas T, p            2  0  1  0   
+Gagne E, p            2  0  0  0   Lloyd G, p            0  0  0  0   
+Grissom M, ph         1  0  0  0   Strickland S, p       0  0  0  0   
+Adams T, p            0  0  0  0   Urbina U, p           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  7  1                        28  3  5  3
+
+Los Angeles      000 000 010 --  1
+Montreal         200 000 01x --  3
+
+  Los Angeles          IP  H  R ER BB SO
+Gagne E (L)           6.0  4  2  2  0  7
+Adams T               2.0  1  1  1  0  2
+
+  Montreal             IP  H  R ER BB SO
+Armas T (W)           7.0  5  0  0  3  8
+Lloyd G               0.1  1  1  1  0  0
+Strickland S          0.1  0  0  0  0  1
+Urbina U (S)          1.1  1  0  0  0  3
+
+DP -- Los Angeles 1, Montreal 1
+LOB -- Los Angeles 7, Montreal 1
+2B -- Armas T, Barrett M, Bocachica H
+HR -- Cabrera O, Stevens L, Minor R
+CS -- Gagne E
+T -- 2:38
+A -- 12926
+     Game of 5/18/2001 -- San Diego at Montreal (N)
+
+  San Diego          AB  R  H RBI    Montreal           AB  R  H RBI
+Henderson R, lf       3  1  1  0   Cabrera O, ss         4  0  1  0   
+Kotsay M, cf          4  0  0  0   Blum G, lf            4  1  2  0   
+Klesko R, 1b          3  0  1  1   Pride C, pr-lf        0  0  0  0   
+Nevin P, 3b           4  0  0  0   Stevens L, 1b         3  0  0  0   
+Davis B, c            4  0  1  0   Guerrero V, rf        4  1  2  1   
+Trammell B, rf        3  0  1  0   Vidro J, 2b           3  1  1  1   
+Riggs A, 2b           3  0  1  0   Bradley M, cf         3  0  1  1   
+Mendez D, ss          2  0  0  0   Minor R, 3b           3  0  0  0   
+Magadan D, ph-ss      1  0  0  0   Barrett M, c          3  0  0  0   
+Jarvis K, p           2  0  0  0   Thurman M, p          3  0  0  0   
+Arias A, ph           1  0  0  0   Urbina U, p           0  0  0  0   
+Walker K, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        30  3  7  3
+
+San Diego        000 001 000 --  1
+Montreal         300 000 00x --  3
+
+  San Diego            IP  H  R ER BB SO
+Jarvis K (L)          7.0  6  3  3  1  7
+Walker K              1.0  1  0  0  0  2
+
+  Montreal             IP  H  R ER BB SO
+Thurman M (W)         8.0  5  1  1  1  3
+Urbina U (S)          1.0  0  0  0  1  2
+
+DP -- San Diego 1, Montreal 2
+LOB -- San Diego 4, Montreal 4
+2B -- Guerrero V 2, Vidro J, Bradley M, Cabrera O, Blum G
+SB -- Guerrero V, Henderson R
+WP -- Thurman M
+T -- 2:26
+A -- 6851
+     Game of 5/19/2001 -- San Diego at Montreal (N)
+
+  San Diego          AB  R  H RBI    Montreal           AB  R  H RBI
+Henderson R, lf       4  2  2  3   Cabrera O, ss         4  0  1  1   
+Lee D, p              1  0  0  0   Blum G, lf            5  1  1  0   
+Kotsay M, cf          7  3  4  4   Stevens L, 1b         5  1  2  2   
+Klesko R, 1b          7  2  2  1   Guerrero V, rf        5  0  2  2   
+Nevin P, 3b           4  3  3  2   Vidro J, 2b           4  0  0  0   
+Davis B, c            4  2  2  1   Bradley M, cf         4  2  2  0   
+Witasick J, p         0  0  0  0   Minor R, 3b           5  1  2  0   
+Colangelo M, ph-lf    1  0  0  0   Knorr R, c            2  1  2  1   
+Trammell B, rf        3  4  2  6   Yoshii M, p           1  0  1  0   
+Gomez C, 2b           5  0  1  2   Tracy A, ph           0  0  0  1   
+Mendez D, ss          6  1  1  0   Lira F, p             0  0  0  0   
+Serrano W, p          2  0  1  0   Peters C, p           0  0  0  0   
+Nunez J, p            0  0  0  0   Scanlan B, p          0  0  0  0   
+Myers R, p            0  0  0  0   Pride C, ph           0  1  0  0   
+Magadan D, ph         1  1  1  0   Mota G, p             0  0  0  0   
+Gonzalez W, c         1  2  1  0   Mordecai M, ph        1  0  0  0   
+                                   Strickland S, p       0  0  0  0   
+                                   Lloyd G, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     46 20 20 19                        36  7 13  7
+
+San Diego        111 033 533 -- 20
+Montreal         010 105 000 --  7
+
+  San Diego            IP  H  R ER BB SO
+Serrano W (W)*        5.0  8  4  4  2  4
+Nunez J+              0.0  0  1  1  1  0
+Myers R               1.0  3  2  2  0  0
+Witasick J            1.0  1  0  0  1  1
+Lee D                 2.0  1  0  0  0  4
+
+  Montreal             IP  H  R ER BB SO
+Yoshii M (L)          4.0  4  3  2  3  0
+Lira F                1.0  3  3  3  1  1
+Peters C#             0.0  3  3  3  1  0
+Scanlan B             1.0  0  0  0  0  0
+Mota G                1.0  4  5  5  1  0
+Strickland S          1.0  3  3  3  1  2
+Lloyd G               1.0  3  3  3  0  1
+  * Pitched to 2 batters in 6th
+  + Pitched to 1 batter in 6th
+  # Pitched to 4 batters in 6th
+
+E -- Nevin P, Yoshii M, Guerrero V
+DP -- San Diego 3
+LOB -- San Diego 10, Montreal 9
+2B -- Bradley M, Knorr R, Trammell B, Stevens L, Kotsay M 2
+3B -- Guerrero V
+HR -- Kotsay M, Nevin P, Trammell B, Henderson R
+SB -- Gomez C
+SH -- Serrano W, Knorr R
+SF -- Henderson R, Tracy A, Cabrera O
+HBP -- by Yoshii M (Trammell B), by Lloyd G (Trammell B)
+WP -- Nunez J, Lee D
+T -- 3:36
+A -- 7297
+     Game of 5/20/2001 -- San Diego at Montreal (D)
+
+  San Diego          AB  R  H RBI    Montreal           AB  R  H RBI
+Henderson R, lf       2  2  1  0   Cabrera O, ss         3  0  0  0   
+Kotsay M, cf          3  1  1  1   Pride C, lf           3  1  1  0   
+Klesko R, 1b          4  0  1  3   Bradley M, cf         4  0  0  1   
+Nevin P, 3b           4  1  1  1   Guerrero V, rf        4  0  2  0   
+Davis B, c            4  0  0  0   Stevens L, 1b         3  0  0  1   
+Trammell B, rf        4  0  1  0   Blum G, 2b            3  0  0  0   
+Gomez C, 2b           4  1  2  0   Minor R, 3b           4  0  0  0   
+Mendez D, ss          3  0  0  0   Barrett M, c          3  1  1  0   
+Jones B, p            2  0  0  0   Vazquez J, p          3  1  2  0   
+Magadan D, ph         1  0  0  0   Urbina U, p           0  0  0  0   
+Walker K, p           0  0  0  0   Scanlan B, p          0  0  0  0   
+Hoffman T, p          0  0  0  0   Tracy A, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  5  7  5                        31  3  6  2
+
+San Diego        100 000 130 --  5
+Montreal         000 003 000 --  3
+
+  San Diego            IP  H  R ER BB SO
+Jones B (W)           7.0  6  3  2  2  5
+Walker K              1.0  0  0  0  0  2
+Hoffman T (S)         1.0  0  0  0  1  1
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (L)         7.2  5  4  4  2  3
+Urbina U              0.1  1  1  1  1  1
+Scanlan B             1.0  1  0  0  0  0
+
+E -- Mendez D 3, Nevin P
+DP -- San Diego 2, Montreal 2
+LOB -- San Diego 3, Montreal 6
+2B -- Kotsay M, Barrett M, Klesko R
+HR -- Nevin P
+SB -- Pride C, Guerrero V, Bradley M
+SH -- Cabrera O, Mendez D
+SF -- Stevens L
+T -- 2:48
+A -- 7269
+     Game of 5/21/2001 -- New York at Montreal (N)
+
+  New York           AB  R  H RBI    Montreal           AB  R  H RBI
+Bragg D, rf-lf        5  0  0  0   Cabrera O, ss         3  1  2  0   
+Zeile T, 1b           4  1  2  0   Mordecai M, 2b        4  0  1  0   
+Alfonzo E, 2b         5  1  2  0   Bradley M, cf         4  0  1  0   
+Piazza M, c           5  0  1  1   Guerrero V, rf        4  0  1  0   
+Ventura R, 3b         4  3  2  1   Stevens L, 1b         3  0  0  0   
+Agbayani B, lf        3  1  1  0   Lloyd G, p            0  0  0  0   
+Perez T, rf           0  0  0  0   Lira F, p             0  0  0  0   
+Shinjo T, cf          3  0  2  3   Blum G, lf-1b         4  1  1  0   
+Ordonez R, ss         2  0  0  1   Minor R, 3b           3  0  0  0   
+Rusch G, p            3  0  0  0   Barrett M, c          4  0  2  1   
+Cook D, p             0  0  0  0   Reames B, p           1  1  1  1   
+Franco J, p           0  0  0  0   Scanlan B, p          0  0  0  0   
+Relaford D, ph        1  0  0  0   Tracy A, ph           1  0  0  0   
+Benitez A, p          0  0  0  0   Peters C, p           0  0  0  0   
+                                   Mota G, p             0  0  0  0   
+                                   Pride C, lf           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6 10  6                        31  3  9  2
+
+New York         010 103 001 --  6
+Montreal         100 010 100 --  3
+
+  New York             IP  H  R ER BB SO
+Rusch G (W)           6.1  9  3  3  2  3
+Cook D                0.2  0  0  0  1  0
+Franco J              1.0  0  0  0  0  1
+Benitez A (S)         1.0  0  0  0  0  2
+
+  Montreal             IP  H  R ER BB SO
+Reames B (L)          6.0  6  5  5  3  6
+Scanlan B             1.0  1  0  0  0  0
+Peters C              0.1  0  0  0  0  0
+Mota G                0.2  1  0  0  0  1
+Lloyd G               0.2  0  1  1  1  1
+Lira F                0.1  2  0  0  0  0
+
+DP -- New York 3, Montreal 1
+LOB -- New York 8, Montreal 5
+2B -- Agbayani B, Barrett M 2, Guerrero V, Shinjo T 2
+HR -- Ventura R, Reames B
+CS -- Barrett M
+SH -- Reames B
+SF -- Ordonez R
+HBP -- by Reames B (Agbayani B)
+Balk -- Rusch G
+T -- 3:02
+A -- 5449
+     Game of 5/22/2001 -- New York at Montreal (N)
+
+  New York           AB  R  H RBI    Montreal           AB  R  H RBI
+Bragg D, rf           5  0  3  0   Cabrera O, ss         4  0  2  1   
+Zeile T, 1b           5  0  2  0   Pride C, lf           3  0  3  0   
+Alfonzo E, 2b         4  0  0  0   Bradley M, cf         4  0  1  0   
+Piazza M, c           4  0  0  0   Guerrero V, rf        4  1  1  1   
+Ventura R, 3b         3  0  0  0   Stevens L, 1b         4  0  0  0   
+Agbayani B, lf        4  0  1  0   Blum G, 2b            4  1  1  0   
+Shinjo T, cf          3  0  2  0   Tracy A, 3b           2  1  1  1   
+Ordonez R, ss         2  0  0  0   Mordecai M, pr-3b     1  0  0  0   
+Hamilton D, ph        1  0  0  0   Barrett M, c          3  0  1  0   
+Gonzalez D, p         2  0  0  0   Armas T, p            3  0  0  0   
+Harris L, ph          1  0  0  0   Mota G, p             0  0  0  0   
+White R, p            0  0  0  0   Urbina U, p           0  0  0  0   
+Relaford D, ph        1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  0  9  0                        32  3 10  3
+
+New York         000 000 000 --  0
+Montreal         000 012 00x --  3
+
+  New York             IP  H  R ER BB SO
+Gonzalez D (L)        6.0  8  3  2  2  1
+White R               2.0  2  0  0  0  2
+
+  Montreal             IP  H  R ER BB SO
+Armas T (W)           7.0  7  0  0  2  6
+Mota G                1.0  0  0  0  1  0
+Urbina U (S)          1.0  2  0  0  0  1
+
+E -- Zeile T
+DP -- New York 2
+LOB -- New York 11, Montreal 7
+2B -- Bragg D 2, Barrett M, Agbayani B
+HR -- Guerrero V
+SB -- Cabrera O, Blum G, Relaford D
+CS -- Pride C
+T -- 2:52
+A -- 4186
+     Game of 5/23/2001 -- New York at Montreal (N)
+
+  New York           AB  R  H RBI    Montreal           AB  R  H RBI
+Bragg D, rf-lf        3  0  0  0   Cabrera O, ss         4  0  2  0   
+Alfonzo E, 2b         4  1  2  1   Mordecai M, 2b        4  0  2  0   
+Ventura R, 3b         4  1  2  1   Bradley M, cf         4  0  0  0   
+Agbayani B, lf        4  0  0  0   Guerrero V, rf        3  0  0  0   
+Perez T, rf           0  0  0  0   Stevens L, 1b         4  1  1  1   
+Shinjo T, cf          4  1  1  2   Smith M, lf           4  0  1  0   
+Zeile T, 1b           4  0  1  0   Barrett M, c          3  1  1  0   
+Pratt T, c            4  0  2  0   Minor R, 3b           4  0  1  1   
+Ordonez R, ss         4  0  0  0   Thurman M, p          0  0  0  0   
+Leiter A, p           2  0  0  0   De La Rosa T, ph      1  0  0  0   
+Hamilton D, ph        1  1  1  0   Yoshii M, p           0  0  0  0   
+Wendell T, p          0  0  0  0   Tracy A, ph           1  0  0  0   
+Franco J, p           0  0  0  0   Peters C, p           0  0  0  0   
+Harris L, ph          0  0  0  0   Scanlan B, p          0  0  0  0   
+Benitez A, p          0  0  0  0   Lloyd G, p            0  0  0  0   
+                                   Pride C, ph           1  0  0  0   
+                                   Cubillan D, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        33  2  8  2
+
+New York         001 002 100 --  4
+Montreal         010 100 000 --  2
+
+  New York             IP  H  R ER BB SO
+Leiter A (W)          6.0  6  2  2  1  5
+Wendell T             1.0  0  0  0  1  1
+Franco J              1.0  2  0  0  0  1
+Benitez A (S)         1.0  0  0  0  0  2
+
+  Montreal             IP  H  R ER BB SO
+Thurman M             2.0  2  0  0  1  3
+Yoshii M              3.0  2  1  1  0  1
+Peters C (L)          0.2  3  2  2  0  0
+Scanlan B             1.0  1  1  1  0  1
+Lloyd G               0.1  1  0  0  0  0
+Cubillan D            2.0  0  0  0  1  1
+
+E -- Bradley M
+DP -- New York 2, Montreal 1
+LOB -- New York 6, Montreal 6
+2B -- Minor R
+HR -- Alfonzo E, Stevens L, Shinjo T
+SB -- Bragg D, Pratt T
+CS -- Harris L
+SH -- Bragg D
+WP -- Peters C
+T -- 2:53
+A -- 5292
+     Game of 5/31/2001 -- Philadelphia at Montreal (N)
+
+  Philadelphia       AB  R  H RBI    Montreal           AB  R  H RBI
+Glanville D, cf       5  2  2  1   Cabrera O, ss         4  0  0  0   
+Rollins J, ss         5  0  1  0   Pride C, lf           2  1  1  0   
+Abreu B, rf           3  1  3  1   Jones T, ph-lf        1  0  0  0   
+Rolen S, 3b           5  1  2  0   Bradley M, cf         4  0  0  0   
+Lee T, 1b             3  1  1  0   Guerrero V, rf        3  0  1  1   
+Burrell P, lf         4  0  2  0   Stevens L, 1b         4  0  2  0   
+Estrada J, c          3  0  0  0   Tatis F, 3b           2  0  0  0   
+Hunter B, pr          0  0  0  0   Lloyd G, p            0  0  0  0   
+Bennett G, c          1  0  0  0   Strickland S, p       0  0  0  0   
+Anderson M, 2b        5  0  0  0   Tracy A, ph           1  0  0  0   
+Telemaco A, p         3  0  0  0   Barrett M, c          4  1  1  1   
+Jordan K, ph          1  0  1  0   Blum G, 2b            3  0  0  0   
+Cormier R, p          0  0  0  0   Irabu H, p            2  0  0  0   
+Ducey R, ph           1  0  0  0   Cubillan D, p         0  0  0  0   
+Mesa J, p             0  0  0  0   Mordecai M, 3b        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  5 12  2                        31  2  5  2
+
+Philadelphia     100 010 003 --  5
+Montreal         001 100 000 --  2
+
+  Philadelphia         IP  H  R ER BB SO
+Telemaco A            7.0  4  2  2  1  6
+Cormier R (W)         1.0  0  0  0  0  0
+Mesa J (S)            1.0  1  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Irabu H               5.0  8  2  2  2  4
+Cubillan D            1.2  1  0  0  0  2
+Lloyd G               0.2  2  0  0  0  0
+Strickland S (L)      1.2  1  3  0  2  3
+
+E -- Abreu B, Lloyd G, Stevens L
+DP -- Philadelphia 1
+LOB -- Philadelphia 13, Montreal 5
+2B -- Pride C, Guerrero V, Lee T, Abreu B
+HR -- Glanville D, Barrett M
+SB -- Abreu B 2
+SH -- Estrada J
+SF -- Abreu B
+HBP -- by Telemaco A (Tatis F), by Telemaco A (Guerrero V)
+T -- 3:05
+A -- 5042
+     Game of 6/1/2001 -- Philadelphia at Montreal (N)
+
+  Philadelphia       AB  R  H RBI    Montreal           AB  R  H RBI
+Glanville D, cf       5  1  1  0   Cabrera O, ss         4  0  0  0   
+Rollins J, ss         3  2  0  0   Mordecai M, 2b        4  0  1  0   
+Abreu B, rf           4  3  3  3   Bradley M, cf         3  0  0  0   
+Hunter B, rf          0  0  0  0   Scanlan B, p          0  0  0  0   
+Rolen S, 3b           4  2  3  3   Mota G, p             0  0  0  0   
+Jordan K, pr-3b       1  1  1  0   Knorr R, ph           1  1  1  0   
+Lee T, 1b             4  1  0  2   Guerrero V, rf        3  1  3  1   
+Burrell P, lf         4  1  1  1   Pride C, rf           1  0  0  0   
+Anderson M, 2b        5  1  2  1   Tatis F, 3b           3  0  1  0   
+Estrada J, c          5  0  1  3   Stevens L, 1b         3  0  0  0   
+Chen B, p             4  1  1  0   Tracy A, 1b           0  0  0  1   
+Padilla V, p          0  0  0  0   Barrett M, c          4  0  0  0   
+Ducey R, ph           1  0  0  0   Jones T, lf-cf        3  0  0  0   
+Byrd P, p             0  0  0  0   Reames B, p           1  0  0  0   
+                                   Blank M, p            1  0  0  0   
+                                   Smith M, lf           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40 13 13 13                        31  2  6  2
+
+Philadelphia     500 400 310 -- 13
+Montreal         000 000 101 --  2
+
+  Philadelphia         IP  H  R ER BB SO
+Chen B (W)            7.0  4  1  1  1  8
+Padilla V             1.0  0  0  0  1  0
+Byrd P                1.0  2  1  1  0  0
+
+  Montreal             IP  H  R ER BB SO
+Reames B (L)          3.2  8  9  9  3  3
+Blank M               2.1  1  0  0  0  0
+Scanlan B             2.0  4  4  4  2  0
+Mota G                1.0  0  0  0  0  0
+
+E -- Tatis F 2
+DP -- Philadelphia 1, Montreal 1
+LOB -- Philadelphia 5, Montreal 5
+2B -- Abreu B, Estrada J, Guerrero V, Burrell P
+HR -- Rolen S, Guerrero V
+SB -- Rollins J
+SF -- Tracy A
+WP -- Reames B, Scanlan B
+T -- 2:27
+A -- 5267
+     Game of 6/2/2001 -- Philadelphia at Montreal (N)
+
+  Philadelphia       AB  R  H RBI    Montreal           AB  R  H RBI
+Glanville D, cf       5  1  1  0   Mordecai M, 2b        3  1  1  1   
+Rollins J, ss         5  1  1  0   Lloyd G, p            0  0  0  0   
+Abreu B, rf           2  2  1  2   Strickland S, p       0  0  0  0   
+Rolen S, 3b           4  1  1  3   Barrett M, ph         1  1  1  0   
+Lee T, 1b             4  0  0  0   Urbina U, p           0  0  0  0   
+Burrell P, lf         3  0  1  0   Blum G, 3b-2b         4  2  1  2   
+Perez T, 2b           4  0  1  0   Guerrero V, rf        5  3  4  6   
+Bennett G, c          1  0  0  0   Stevens L, 1b         4  0  1  0   
+Estrada J, ph-c       1  0  0  0   Cabrera O, ss         4  0  1  2   
+Wolf R, p             1  0  0  0   Knorr R, c            4  1  0  0   
+Brock C, p            1  0  1  0   Smith M, lf           2  0  1  0   
+Oropesa E, p          0  0  0  0   Pride C, ph-lf        1  1  0  0   
+Padilla V, p          0  0  0  0   Jones T, cf           4  1  2  0   
+Ducey R, ph           1  0  0  0   Armas T, p            1  1  1  1   
+                                   Tatis F, ph-3b        2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  7  5                        35 12 14 12
+
+Philadelphia     200 030 000 --  5
+Montreal         300 300 15x -- 12
+
+  Philadelphia         IP  H  R ER BB SO
+Wolf R (L)            4.0  7  6  5  2  5
+Brock C               2.1  2  1  1  0  2
+Oropesa E             1.0  1  2  2  2  2
+Padilla V             0.2  4  3  3  0  0
+
+  Montreal             IP  H  R ER BB SO
+Armas T (W)           6.0  6  5  5  4  4
+Lloyd G               1.0  0  0  0  1  2
+Strickland S          1.0  1  0  0  0  0
+Urbina U              1.0  0  0  0  0  1
+
+E -- Wolf R
+DP -- Montreal 1
+LOB -- Philadelphia 6, Montreal 6
+2B -- Mordecai M, Guerrero V 3, Perez T, Jones T, Blum G
+HR -- Abreu B, Rolen S, Guerrero V
+SB -- Abreu B
+SH -- Wolf R, Armas T, Mordecai M
+SF -- Cabrera O
+WP -- Wolf R
+T -- 3:13
+A -- 7810
+     Game of 6/3/2001 -- Philadelphia at Montreal (D)
+
+  Philadelphia       AB  R  H RBI    Montreal           AB  R  H RBI
+Glanville D, cf       4  1  1  1   Mordecai M, 2b        5  1  2  1   
+Rollins J, ss         4  0  1  0   Blum G, 3b            5  0  0  0   
+Abreu B, rf           3  1  1  2   Guerrero V, rf        4  1  2  2   
+Burrell P, lf         4  0  0  0   Bradley M, pr-cf      0  0  0  0   
+Lee T, 1b             4  0  0  0   Stevens L, 1b         5  3  3  1   
+Jordan K, 3b          3  0  1  0   Cabrera O, ss         5  2  3  1   
+Anderson M, 2b        2  1  0  0   Knorr R, c            4  0  1  1   
+Bottalico R, p        0  0  0  0   Smith M, lf           4  2  2  2   
+Brock C, p            0  0  0  0   Jones T, cf-rf        4  1  3  1   
+Cormier R, p          0  0  0  0   Yoshii M, p           1  0  0  0   
+Ducey R, ph           1  0  0  0   Stewart S, p          0  0  0  0   
+Estrada J, c          4  0  1  0   Tracy A, ph           1  0  0  0   
+Daal O, p             1  0  0  0   Mota G, p             0  0  0  0   
+Byrd P, p             1  0  1  0   Pride C, ph           0  0  0  0   
+Oropesa E, p          0  0  0  0   Lloyd G, p            0  0  0  0   
+Perez T, 2b           2  0  0  0   Cubillan D, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        38 10 16  9
+
+Philadelphia     100 011 000 --  3
+Montreal         032 004 10x -- 10
+
+  Philadelphia         IP  H  R ER BB SO
+Daal O (L)            3.0 10  5  4  0  3
+Byrd P*               2.0  1  1  1  1  0
+Oropesa E             0.1  0  0  0  0  1
+Bottalico R           0.2  3  3  3  0  0
+Brock C               1.0  1  1  1  0  1
+Cormier R             1.0  1  0  0  2  2
+
+  Montreal             IP  H  R ER BB SO
+Yoshii M (W)          5.2  5  3  2  2  0
+Stewart S             0.1  0  0  0  0  1
+Mota G                1.0  1  0  0  0  2
+Lloyd G               1.0  0  0  0  0  2
+Cubillan D            1.0  0  0  0  1  0
+  * Pitched to 1 batter in 6th
+
+E -- Cabrera O, Burrell P, Glanville D, Lee T
+DP -- Philadelphia 1, Montreal 1
+LOB -- Philadelphia 6, Montreal 9
+2B -- Smith M 2, Stevens L, Knorr R, Jordan K, Mordecai M
+HR -- Abreu B, Guerrero V, Stevens L
+SB -- Glanville D 2, Rollins J, Jones T
+HBP -- by Daal O (Smith M), by Brock C (Pride C)
+WP -- Bottalico R, Brock C
+Balk -- Daal O
+T -- 3:02
+A -- 6504
+     Game of 6/5/2001 -- Atlanta at Montreal (N)
+
+  Atlanta            AB  R  H RBI    Montreal           AB  R  H RBI
+Veras Q, 2b           2  0  0  0   Pride C, lf           3  0  0  0   
+Lockhart K, pr-2b     1  0  0  0   Smith M, ph-lf        1  0  0  0   
+Furcal R, ss          4  0  1  1   Blum G, 2b            4  0  0  0   
+Jones A, cf           3  1  0  0   Guerrero V, rf        4  1  2  0   
+Jones C, 3b           4  0  1  0   Stevens L, 1b         4  0  1  0   
+Jordan B, rf          4  1  1  1   Cabrera O, ss         4  0  1  1   
+Surhoff B, lf         4  0  2  1   Tracy A, 3b           3  0  0  0   
+Brogna R, 1b          4  0  1  0   Mordecai M, ph        1  0  0  0   
+Bako P, c             4  0  2  0   Bradley M, cf         3  0  1  0   
+Maddux G, p           1  1  1  0   Barrett M, c          3  0  2  0   
+Remlinger M, p        0  0  0  0   Vazquez J, p          1  0  0  0   
+Gilkey B, ph          1  0  0  0   Jones T, ph           1  0  0  0   
+Rocker J, p           0  0  0  0   Cubillan D, p         0  0  0  0   
+                                   Stewart S, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  9  3                        32  1  7  1
+
+Atlanta          000 002 100 --  3
+Montreal         000 100 000 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)          6.2  7  1  1  0  7
+Remlinger M           1.1  0  0  0  0  2
+Rocker J (S)          1.0  0  0  0  0  2
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (L)         7.0  9  3  3  2  5
+Cubillan D            1.0  0  0  0  0  0
+Stewart S             1.0  0  0  0  0  1
+
+DP -- Montreal 1
+LOB -- Atlanta 7, Montreal 5
+2B -- Bako P, Bradley M
+CS -- Guerrero V
+SH -- Maddux G 2, Vazquez J
+HBP -- by Vazquez J (Veras Q)
+WP -- Maddux G
+Balk -- Vazquez J
+PB -- Bako P
+T -- 2:43
+A -- 7017
+     Game of 6/6/2001 -- Atlanta at Montreal (N)
+
+  Atlanta            AB  R  H RBI    Montreal           AB  R  H RBI
+Furcal R, ss          3  0  1  0   Jones T, lf           4  0  0  0   
+Lockhart K, 2b        5  0  0  0   Bradley M, cf         4  0  1  0   
+Jones A, cf           4  1  2  0   Guerrero V, rf        4  0  1  0   
+Jones C, 3b           4  0  1  0   Stevens L, 1b         2  0  0  0   
+Jordan B, rf          3  0  1  1   Cabrera O, ss         4  0  0  0   
+Surhoff B, lf         4  0  1  0   Blum G, 2b            3  0  1  0   
+Lopez J, c            4  0  1  0   Tracy A, 3b           3  0  0  0   
+Brogna R, 1b          4  1  1  1   Barrett M, c          3  0  0  0   
+Burkett J, p          3  0  0  0   Irabu H, p            1  0  0  0   
+Remlinger M, p        0  0  0  0   Pride C, ph           1  0  0  0   
+Martinez D, ph        1  0  1  0   Mota G, p             0  0  0  0   
+Rocker J, p           0  0  0  0   Lloyd G, p            0  0  0  0   
+                                   Smith M, ph           1  0  0  0   
+                                   Strickland S, p       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2  9  2                        30  0  3  0
+
+Atlanta          000 110 000 --  2
+Montreal         000 000 000 --  0
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (W)         7.2  2  0  0  1  7
+Remlinger M           0.1  0  0  0  0  0
+Rocker J (S)          1.0  1  0  0  1  1
+
+  Montreal             IP  H  R ER BB SO
+Irabu H (L)           6.0  7  2  2  1  9
+Mota G                1.0  0  0  0  0  0
+Lloyd G               1.0  1  0  0  1  0
+Strickland S          1.0  1  0  0  1  0
+
+LOB -- Atlanta 9, Montreal 5
+2B -- Lopez J, Jones A, Blum G
+HR -- Brogna R
+SB -- Furcal R
+CS -- Jones C
+Balk -- Burkett J
+T -- 2:43
+A -- 5102
+     Game of 6/7/2001 -- Atlanta at Montreal (N)
+
+  Atlanta            AB  R  H RBI    Montreal           AB  R  H RBI
+Veras Q, 2b           5  0  1  2   Mordecai M, 2b        3  2  1  0   
+Furcal R, ss          6  1  1  0   Blum G, 3b            5  0  1  0   
+Jones A, cf           4  1  0  0   Guerrero V, rf        5  1  1  1   
+Jones C, 3b           4  0  1  2   Stevens L, 1b         5  0  1  1   
+Jordan B, rf          5  0  0  0   Cabrera O, ss         5  0  2  0   
+Surhoff B, lf         4  0  2  0   Knorr R, c            3  0  0  0   
+Marquis J, p          0  0  0  0   Smith M, lf           2  0  1  0   
+Gilkey B, ph          1  0  1  0   Pride C, ph-lf        2  0  0  0   
+Ligtenberg K, p       0  0  0  0   Jones T, cf           4  0  1  0   
+Lopez J, c            3  1  1  0   Armas T, p            2  0  0  0   
+Brogna R, 1b          5  0  0  0   Lloyd G, p            0  0  0  0   
+Perez O, p            2  0  1  0   Bradley M, ph         1  0  0  0   
+Lockhart K, ph        1  0  1  0   Urbina U, p           0  0  0  0   
+Cabrera J, p          0  0  0  0   Tracy A, ph           1  0  0  0   
+Martinez D, lf        2  1  2  0   Strickland S, p       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42  4 11  4                        38  3  8  2
+
+Atlanta          000 020 000 02 --  4
+Montreal         000 100 001 01 --  3
+
+  Atlanta              IP  H  R ER BB SO
+Perez O               6.0  3  1  1  2  5
+Cabrera J             1.0  1  0  0  0  1
+Marquis J (W)         3.0  3  1  1  0  3
+Ligtenberg K (S)      1.0  1  1  1  1  0
+
+  Montreal             IP  H  R ER BB SO
+Armas T               7.0  7  2  0  2  4
+Lloyd G               1.0  0  0  0  0  0
+Urbina U              2.0  1  0  0  1  2
+Strickland S (L)      1.0  3  2  2  1  0
+
+E -- Armas T, Blum G 2
+DP -- Atlanta 2, Montreal 1
+LOB -- Atlanta 10, Montreal 5
+2B -- Jones C, Surhoff B, Cabrera O, Gilkey B, Veras Q
+HR -- Guerrero V
+SB -- Furcal R 2, Jones T
+CS -- Veras Q, Cabrera O, Gilkey B
+HBP -- by Armas T (Lopez J)
+Balk -- Perez O
+T -- 3:28
+A -- 4575
+     Game of 6/15/2001 -- Toronto at Montreal (N)
+
+  Toronto            AB  R  H RBI    Montreal           AB  R  H RBI
+Stewart S, lf         3  1  1  1   Ducey R, lf-cf        4  1  1  2   
+Escobar K, p          0  0  0  0   Vidro J, 2b           4  0  2  0   
+Fullmer B, ph         1  0  0  0   Guerrero V, rf        4  0  2  0   
+Quantrill P, p        0  0  0  0   Stevens L, 1b         4  1  3  1   
+Koch B, p             0  0  0  0   Cabrera O, ss         4  0  2  0   
+Gonzalez A, ss        5  1  2  0   Blum G, 3b-lf         4  0  1  0   
+Mondesi R, rf         5  0  1  0   Barrett M, c          4  0  1  0   
+Delgado C, 1b         5  1  1  1   Bradley M, cf         3  0  0  0   
+Cruz J, cf            5  3  4  2   Strickland S, p       0  0  0  0   
+Batista T, 3b         5  2  3  1   Urbina U, p           0  0  0  0   
+Castillo A, c         5  1  2  2   Minor R, ph           1  0  0  0   
+Bush H, 2b            3  0  1  2   Vazquez J, p          2  1  1  0   
+Carpenter C, p        2  0  0  0   Mordecai M, 3b        2  0  0  0   
+Simmons B, lf         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  9 15  9                        36  3 13  3
+
+Toronto          031 002 201 --  9
+Montreal         010 020 000 --  3
+
+  Toronto              IP  H  R ER BB SO
+Carpenter C (W)       6.0 11  3  3  0  3
+Escobar K             1.0  0  0  0  0  1
+Quantrill P           1.0  1  0  0  0  0
+Koch B                1.0  1  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (L)*        6.0 11  8  8  1  4
+Strickland S          2.0  2  0  0  1  2
+Urbina U              1.0  2  1  1  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Cruz J
+DP -- Toronto 3, Montreal 1
+LOB -- Toronto 7, Montreal 6
+2B -- Castillo A 2, Vazquez J, Batista T
+HR -- Stevens L, Cruz J, Ducey R, Stewart S, Delgado C
+SB -- Cruz J, Gonzalez A
+SH -- Carpenter C
+SF -- Bush H
+T -- 2:58
+A -- 8692
+     Game of 6/16/2001 -- Toronto at Montreal (N)
+
+  Toronto            AB  R  H RBI    Montreal           AB  R  H RBI
+Stewart S, lf         5  1  3  0   Ducey R, lf           3  0  0  0   
+Gonzalez A, ss        4  0  1  0   Vidro J, 2b           4  2  2  0   
+Mondesi R, rf         4  1  1  1   Guerrero V, rf        4  2  3  2   
+Delgado C, 1b         4  0  1  1   Stevens L, 1b         3  1  1  1   
+Cruz J, cf            4  0  1  0   Cabrera O, ss         4  0  2  1   
+Batista T, 3b         3  0  0  0   Blum G, 3b            4  1  0  0   
+Escobar K, p          0  0  0  0   Barrett M, c          4  1  1  2   
+Borbon P, p           0  0  0  0   Bradley M, cf         4  0  1  1   
+Castillo A, c         2  0  0  0   Blank M, p            2  0  1  0   
+Fernandez T, ph       1  0  1  0   Mota G, p             0  0  0  0   
+Fletcher D, c         1  0  0  0   Smith M, ph           0  0  0  0   
+Bush H, 2b            3  0  1  0   Lloyd G, p            0  0  0  0   
+Loaiza E, p           2  0  0  0   Mordecai M, ph        1  0  0  0   
+File B, p             0  0  0  0   Urbina U, p           0  0  0  0   
+Simmons B, ph         1  0  1  0                                      
+Plesac D, p           0  0  0  0                                      
+Frye J, 3b            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  2 10  2                        33  7 11  7
+
+Toronto          100 001 000 --  2
+Montreal         102 010 03x --  7
+
+  Toronto              IP  H  R ER BB SO
+Loaiza E (L)          4.1  8  4  4  0  1
+File B                1.2  0  0  0  0  0
+Plesac D              1.0  0  0  0  1  2
+Escobar K             0.2  2  3  3  1  1
+Borbon P              0.1  1  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Blank M (W)           5.1  7  2  2  1  0
+Mota G                1.2  2  0  0  0  0
+Lloyd G               1.0  1  0  0  0  0
+Urbina U              1.0  0  0  0  1  0
+
+DP -- Toronto 1, Montreal 2
+LOB -- Toronto 9, Montreal 5
+2B -- Guerrero V, Bush H, Stewart S, Simmons B, Cruz J, Barrett M
+3B -- Stewart S, Bradley M
+HR -- Guerrero V, Mondesi R
+CS -- Smith M
+HBP -- by Loaiza E (Ducey R), by Blank M (Gonzalez A)
+T -- 2:51
+A -- 11113
+     Game of 6/17/2001 -- Toronto at Montreal (D)
+
+  Toronto            AB  R  H RBI    Montreal           AB  R  H RBI
+Stewart S, lf         4  0  0  0   Mordecai M, 3b        3  0  1  1   
+Gonzalez A, ss        5  0  1  0   Vidro J, 2b           3  1  1  0   
+Mondesi R, rf         4  1  2  0   Guerrero V, rf        3  1  0  0   
+Delgado C, 1b         3  0  2  1   Cabrera O, ss         4  1  1  3   
+Cruz J, cf            4  0  0  0   Knorr R, c            3  0  0  0   
+Batista T, 3b         3  0  1  0   Smith M, lf           3  0  2  0   
+Fullmer B, ph         1  0  0  0   Minor R, 1b           2  0  0  0   
+Frye J, 3b            0  0  0  0   Blum G, 1b            1  0  0  0   
+Fletcher D, c         4  0  0  0   Bradley M, cf         3  1  2  0   
+Bush H, 2b            4  0  2  0   Armas T, p            1  0  0  0   
+Michalak C, p         1  0  1  0   Ducey R, ph           0  0  0  0   
+Simmons B, ph         1  0  0  0   Cubillan D, p         0  0  0  0   
+Plesac D, p           0  0  0  0   Stewart S, p          0  0  0  0   
+Quantrill P, p        0  0  0  0   Strickland S, p       0  0  0  0   
+                                   Pride C, ph           1  0  1  0   
+                                   Mota G, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  9  1                        27  4  8  4
+
+Toronto          000 010 000 --  1
+Montreal         000 001 003 --  4
+  0 outs when winning run was scored.
+
+  Toronto              IP  H  R ER BB SO
+Michalak C            7.0  3  1  1  1  3
+Plesac D              1.0  3  0  0  0  1
+Quantrill P (L)       0.0  2  3  3  1  0
+
+  Montreal             IP  H  R ER BB SO
+Armas T               6.0  7  1  0  2  7
+Cubillan D*           0.0  2  0  0  0  0
+Stewart S             0.2  0  0  0  0  0
+Strickland S          1.1  0  0  0  0  1
+Mota G (W)            1.0  0  0  0  0  0
+  * Pitched to 2 batters in 7th
+
+E -- Minor R
+DP -- Toronto 3
+LOB -- Toronto 11, Montreal 3
+2B -- Delgado C, Gonzalez A
+3B -- Michalak C, Bradley M
+HR -- Cabrera O
+SB -- Vidro J
+SH -- Michalak C 2
+SF -- Mordecai M
+HBP -- by Michalak C (Vidro J), by Armas T (Stewart S)
+T -- 3:07
+A -- 8440
+     Game of 6/29/2001 -- Pittsburgh at Montreal (N)
+
+  Pittsburgh         AB  R  H RBI    Montreal           AB  R  H RBI
+Nunez A, ss           5  0  1  0   Bergeron P, cf        3  2  1  0   
+Mackowiak R, 2b-3b    3  0  0  0   Vidro J, 2b           3  2  3  2   
+Kendall J, c          2  0  0  0   Blum G, pr-1b         0  0  0  0   
+Wilson C, c           1  1  1  1   Guerrero V, rf        4  1  3  5   
+Giles B, cf           3  0  0  0   Ducey R, pr-lf        0  0  0  0   
+Brown E, cf           1  0  0  0   Cabrera O, ss         4  0  0  0   
+Ramirez A, 3b         3  0  1  0   Stevens L, 1b         5  0  1  1   
+Figueroa L, 2b        1  0  0  0   Strickland S, p       0  0  0  0   
+Vander Wal J, lf      2  0  0  0   Urbina U, p           0  0  0  0   
+Young K, 1b           3  0  0  0   Barrett M, c          4  1  0  0   
+Loiselle R, p         0  0  0  0   Schneider B, c        0  0  0  0   
+Marte D, p            0  0  0  0   Smith M, lf-rf        5  1  2  0   
+Wilson J, ph          1  0  1  0   Mordecai M, 3b-2b     5  2  1  2   
+Bell D, rf            2  1  0  0   Mattes T, p           4  3  3  1   
+Beimel J, p           1  0  0  0   Minor R, 3b           0  0  0  0   
+Olivares O, p         1  1  1  2                                      
+Osik K, 1b            2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  5  3                        37 12 14 11
+
+Pittsburgh       000 020 010 --  3
+Montreal         002 270 10x -- 12
+
+  Pittsburgh           IP  H  R ER BB SO
+Beimel J (L)          3.2  6  4  4  2  1
+Olivares O            1.1  5  7  5  3  1
+Loiselle R            2.0  3  1  1  0  2
+Marte D               1.0  0  0  0  0  2
+
+  Montreal             IP  H  R ER BB SO
+Mattes T (W)          7.0  3  2  2  6  2
+Strickland S          1.0  1  1  1  0  2
+Urbina U              1.0  1  0  0  0  2
+
+E -- Barrett M, Mackowiak R
+DP -- Pittsburgh 1, Montreal 1
+LOB -- Pittsburgh 7, Montreal 8
+2B -- Vidro J, Mattes T, Guerrero V 2, Mordecai M, Ramirez A, Bergeron P
+HR -- Olivares O, Wilson C
+SB -- Mackowiak R
+SH -- Bergeron P
+HBP -- by Beimel J (Vidro J)
+WP -- Olivares O, Urbina U
+T -- 2:49
+A -- 6504
+     Game of 6/30/2001 -- Pittsburgh at Montreal (N)
+
+  Pittsburgh         AB  R  H RBI    Montreal           AB  R  H RBI
+Nunez A, 2b           5  0  2  0   Bergeron P, cf        3  0  0  0   
+Wilson J, ss          5  0  1  0   Minor R, ph           0  1  0  1   
+Kendall J, c          4  1  1  0   Mota G, p             0  0  0  0   
+Giles B, cf-lf        5  1  1  2   Lloyd G, p            0  0  0  0   
+Ramirez A, 3b         5  1  1  0   Ducey R, ph           0  0  0  0   
+Vander Wal J, lf      4  0  2  0   Vidro J, 2b           5  2  3  1   
+Brown E, pr-cf        0  0  0  0   Guerrero V, rf        4  0  2  2   
+Young K, 1b           4  1  1  2   Cabrera O, ss         5  0  2  2   
+Bell D, rf            2  1  1  1   Stevens L, 1b         3  0  2  1   
+Williams D, p         3  0  0  0   Barrett M, c          3  0  0  0   
+Sauerbeck S, p        0  0  0  0   Smith M, lf-cf        4  1  1  0   
+Lincoln M, p          0  0  0  0   Mordecai M, 3b        3  1  1  0   
+Wilson C, ph          1  1  1  1   Vazquez J, p          2  0  0  0   
+Manzanillo J, p       0  0  0  0   Blum G, ph-lf         1  2  1  0   
+Williams M, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  6 11  6                        33  7 12  7
+
+Pittsburgh       001 002 210 --  6
+Montreal         100 000 402 --  7
+  1 out when winning run was scored.
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D            6.2  7  3  3  1  4
+Sauerbeck S*          0.0  1  2  2  2  0
+Lincoln M             0.1  1  0  0  0  0
+Manzanillo J          1.0  0  0  0  1  1
+Williams M (L)        0.1  3  2  2  1  0
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J             7.0 10  5  5  3  5
+Mota G                1.0  1  1  1  0  1
+Lloyd G (W)           1.0  0  0  0  0  0
+  * Pitched to 3 batters in 7th
+
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 8, Montreal 8
+2B -- Wilson J, Vander Wal J, Smith M, Vidro J, Cabrera O
+HR -- Bell D, Young K, Giles B, Wilson C
+CS -- Bergeron P
+SH -- Barrett M, Ducey R
+T -- 2:55
+A -- 8711
+     Game of 7/1/2001 -- Pittsburgh at Montreal (D)
+
+  Pittsburgh         AB  R  H RBI    Montreal           AB  R  H RBI
+Nunez A, 2b           5  0  2  0   Bergeron P, cf        4  2  1  1   
+Wilson J, ss          3  1  1  0   Vidro J, 2b           5  1  2  0   
+Kendall J, c          4  1  1  0   Guerrero V, rf        3  1  1  5   
+Marte D, p            0  0  0  0   Cabrera O, ss         4  0  0  0   
+Olivares O, p         0  0  0  0   Stevens L, 1b         3  1  1  0   
+Giles B, cf           4  1  2  1   Barrett M, c          4  0  2  0   
+Ramirez A, 3b         4  0  0  1   Smith M, lf           3  1  2  1   
+Vander Wal J, 1b      2  0  0  1   Mordecai M, 3b        3  2  1  0   
+Mackowiak R, lf       3  0  1  0   Thurman M, p          1  0  0  0   
+Wilson C, ph-lf       1  0  0  0   Blum G, ph            1  1  0  1   
+Bell D, rf            3  0  0  0   Strickland S, p       0  0  0  0   
+Anderson J, p         1  0  0  0   Stewart S, p          0  0  0  0   
+Lincoln M, p          1  0  0  0   Schneider B, ph       1  0  0  0   
+Brown E, ph           1  0  0  0   Yoshii M, p           0  0  0  0   
+Loiselle R, p         0  0  0  0                                      
+Osik K, c             1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        32  9 10  8
+
+Pittsburgh       003 000 000 --  3
+Montreal         005 004 00x --  9
+
+  Pittsburgh           IP  H  R ER BB SO
+Anderson J (L)        2.2  7  5  5  2  0
+Lincoln M             2.1  0  0  0  0  1
+Loiselle R            1.0  3  4  4  1  0
+Marte D               1.0  0  0  0  1  2
+Olivares O            1.0  0  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Thurman M (W)         6.0  6  3  3  2  3
+Strickland S          1.0  1  0  0  0  2
+Stewart S             1.0  0  0  0  0  2
+Yoshii M              1.0  0  0  0  0  1
+
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 7, Montreal 5
+2B -- Mackowiak R, Barrett M, Giles B, Smith M
+HR -- Guerrero V
+SB -- Ramirez A
+SH -- Wilson J, Thurman M
+SF -- Vander Wal J
+HBP -- by Lincoln M (Guerrero V)
+WP -- Loiselle R
+PB -- Kendall J
+T -- 2:41
+A -- 6631
+     Game of 7/3/2001 -- Florida at Montreal (N)
+
+  Florida            AB  R  H RBI    Montreal           AB  R  H RBI
+Castillo L, 2b        4  2  1  0   Bergeron P, cf        3  0  1  0   
+Owens E, cf           5  0  1  1   Vidro J, 2b           4  0  0  0   
+Floyd C, lf           4  2  2  1   Guerrero V, rf        4  0  1  0   
+Lowell M, 3b          2  2  1  1   Stevens L, 1b         3  0  0  0   
+Millar K, rf          4  0  0  0   Cabrera O, ss         4  0  1  0   
+Thompson R, rf        0  0  0  0   Barrett M, c          3  0  0  0   
+Lee D, 1b             4  1  2  1   Ducey R, lf           3  0  0  0   
+Johnson C, c          4  0  2  3   Blum G, 3b            3  0  1  0   
+Gonzalez A, ss        4  0  1  0   Armas T, p            1  0  0  0   
+Dempster R, p         4  0  0  0   Minor R, ph           1  0  0  0   
+                                   Cubillan D, p         0  0  0  0   
+                                   Scanlan B, p          0  0  0  0   
+                                   Mordecai M, ph        1  0  0  0   
+                                   Lloyd G, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7 10  7                        30  0  4  0
+
+Florida          000 311 020 --  7
+Montreal         000 000 000 --  0
+
+  Florida              IP  H  R ER BB SO
+Dempster R (W)        9.0  4  0  0  2  2
+
+  Montreal             IP  H  R ER BB SO
+Armas T (L)           6.0  6  5  5  2  6
+Cubillan D            1.0  1  0  0  0  1
+Scanlan B             1.0  3  2  2  0  0
+Lloyd G               1.0  0  0  0  0  0
+
+DP -- Florida 1, Montreal 1
+LOB -- Florida 4, Montreal 5
+2B -- Floyd C, Lee D, Owens E, Johnson C 2, Gonzalez A, Blum G
+HBP -- by Armas T (Lowell M)
+WP -- Armas T
+T -- 2:23
+A -- 4690
+     Game of 7/4/2001 -- Florida at Montreal (N)
+
+  Florida            AB  R  H RBI    Montreal           AB  R  H RBI
+Castillo L, 2b        5  2  2  0   Bergeron P, cf        5  1  2  1   
+Owens E, cf           5  0  2  0   Vidro J, 2b           3  3  3  1   
+Floyd C, lf           4  1  2  1   Guerrero V, rf        5  2  4  3   
+Lowell M, 3b          4  1  2  1   Stevens L, 1b         4  0  1  1   
+Millar K, rf          3  0  1  1   Cabrera O, ss         2  0  0  0   
+Lee D, 1b             3  0  0  0   Smith M, lf           4  1  1  0   
+Johnson C, c          5  1  3  2   Lloyd G, p            0  0  0  0   
+Gonzalez A, ss        5  0  0  0   Ducey R, ph           1  0  0  0   
+Clement M, p          1  1  0  0   Urbina U, p           0  0  0  0   
+Nunez V, p            0  0  0  0   Barrett M, c          5  0  1  1   
+Thompson R, ph        1  0  0  0   Blum G, 3b-lf         2  1  0  0   
+Almanza A, p          0  0  0  0   Mattes T, p           1  0  0  0   
+Mabry J, ph           1  0  0  0   Schneider B, ph       1  1  1  1   
+Darensbourg V, p      0  0  0  0   Yoshii M, p           0  0  0  0   
+Looper B, p           0  0  0  0   Minor R, ph           1  0  1  1   
+                                   Stewart S, p          0  0  0  0   
+                                   Mota G, p             0  0  0  0   
+                                   Strickland S, p       0  0  0  0   
+                                   Mordecai M, 3b        2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 12  5                        36  9 15  9
+
+Florida          100 300 200 --  6
+Montreal         200 311 02x --  9
+
+  Florida              IP  H  R ER BB SO
+Clement M (L)         4.0  7  5  5  3  4
+Nunez V               1.0  2  1  1  2  0
+Almanza A             1.0  2  1  1  1  1
+Darensbourg V*        1.0  2  1  1  0  1
+Looper B              1.0  2  1  1  2  1
+
+  Montreal             IP  H  R ER BB SO
+Mattes T              4.0  7  4  3  3  2
+Yoshii M              1.0  0  0  0  0  0
+Stewart S+            1.0  1  1  1  0  1
+Mota G#               0.0  2  1  1  1  0
+Strickland S          0.1  1  0  0  0  0
+Lloyd G (W)           1.2  0  0  0  0  1
+Urbina U (S)          1.0  1  0  0  1  0
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 7th
+  # Pitched to 3 batters in 7th
+
+E -- Mattes T
+DP -- Florida 1, Montreal 1
+LOB -- Florida 11, Montreal 12
+2B -- Vidro J, Barrett M, Schneider B, Millar K
+HR -- Guerrero V, Johnson C, Vidro J
+CS -- Cabrera O, Guerrero V
+SF -- Floyd C
+HBP -- by Mattes T (Millar K), by Clement M (Vidro J)
+WP -- Mattes T 2, Clement M
+T -- 3:35
+A -- 4899
+     Game of 7/5/2001 -- Florida at Montreal (D)
+
+  Florida            AB  R  H RBI    Montreal           AB  R  H RBI
+Castillo L, 2b        4  0  2  2   Bergeron P, cf        4  2  3  0   
+Millar K, ph          1  0  0  0   Vidro J, 2b           3  1  2  0   
+Almanza A, p          0  0  0  0   Guerrero V, rf        5  1  2  2   
+Berg D, ss-2b         5  0  1  0   Stevens L, 1b         4  1  1  3   
+Floyd C, lf           4  1  2  0   Cabrera O, ss         5  0  0  0   
+Lowell M, 3b          5  0  1  0   Smith M, lf           5  0  1  0   
+Mabry J, rf           5  1  1  0   Knorr R, c            4  2  3  0   
+Lee D, 1b             4  1  1  3   Blum G, 3b            4  2  3  4   
+Thompson R, cf        3  3  2  0   Vazquez J, p          4  0  0  0   
+Redmond M, c          4  0  2  0   Stewart S, p          0  0  0  0   
+Smith C, p            1  0  0  0   Strickland S, p       0  0  0  0   
+Sanchez J, p          1  0  0  0   Urbina U, p           0  0  0  0   
+Owens E, ph           1  0  0  0                                      
+Bones R, p            0  0  0  0                                      
+McGuire R, ph         0  0  0  0                                      
+Gonzalez A, ss        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  6 12  5                        38  9 15  9
+
+Florida          001 013 010 --  6
+Montreal         006 120 00x --  9
+
+  Florida              IP  H  R ER BB SO
+Smith C (L)*          3.0 11  7  7  2  2
+Sanchez J             3.0  4  2  2  2  1
+Bones R               1.0  0  0  0  0  0
+Almanza A             1.0  0  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (W)         6.2 10  5  5  0  8
+Stewart S+            0.0  0  0  0  1  0
+Strickland S          1.0  1  1  0  2  1
+Urbina U (S)          1.1  1  0  0  0  1
+  * Pitched to 3 batters in 4th
+  + Pitched to 1 batter in 7th
+
+E -- Guerrero V
+DP -- Florida 1, Montreal 1
+LOB -- Florida 8, Montreal 9
+2B -- Thompson R 2
+HR -- Stevens L, Blum G 2, Lee D
+CS -- Bergeron P
+WP -- Vazquez J
+T -- 2:49
+A -- 5253
+     Game of 7/12/2001 -- Tampa Bay at Montreal (N)
+
+  Tampa Bay          AB  R  H RBI    Montreal           AB  R  H RBI
+Tyner J, cf-lf        6  1  2  1   Bergeron P, cf        4  0  1  0   
+Abernathy B, 2b       5  2  4  1   Vidro J, 2b           4  0  1  0   
+Vaughn G, lf          3  1  0  0   Mordecai M, 2b        0  0  0  0   
+Winn R, cf            2  0  1  0   Guerrero V, rf        3  0  0  0   
+McGriff F, 1b         3  0  0  0   Stevens L, 1b         4  0  1  0   
+Cox S, 1b             1  0  0  0   Cabrera O, ss         4  0  1  0   
+Huff A, 3b            4  2  2  2   Barrett M, c          3  0  0  0   
+Flaherty J, c         4  2  1  2   Wilkerson B, lf       3  0  0  0   
+Grieve B, rf          2  1  1  0   Blum G, 3b            3  0  0  0   
+Sheets A, ss          5  1  3  3   Mattes T, p           1  0  1  0   
+Sturtze T, p          4  0  0  0   Minor R, ph           1  0  1  0   
+Phelps T, p           0  0  0  0   Yoshii M, p           0  0  0  0   
+Rolls D, ph           1  0  0  1   Mota G, p             0  0  0  0   
+Zambrano V, p         0  0  0  0   Ducey R, ph           1  0  0  0   
+                                   Scanlan B, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40 10 14 10                        31  0  6  0
+
+Tampa Bay        100 232 002 -- 10
+Montreal         000 000 000 --  0
+
+  Tampa Bay            IP  H  R ER BB SO
+Sturtze T (W)         7.0  5  0  0  2  6
+Phelps T              1.0  0  0  0  0  1
+Zambrano V            1.0  1  0  0  1  1
+
+  Montreal             IP  H  R ER BB SO
+Mattes T (L)          5.0  6  6  6  6  5
+Yoshii M              2.0  3  2  2  1  0
+Mota G                1.0  1  0  0  0  0
+Scanlan B             1.0  4  2  2  0  0
+
+DP -- Tampa Bay 2
+LOB -- Tampa Bay 11, Montreal 7
+2B -- Flaherty J, Sheets A, Cabrera O
+HR -- Abernathy B
+CS -- Abernathy B
+HBP -- by Mattes T (Flaherty J)
+WP -- Mattes T
+T -- 2:30
+A -- 4877
+     Game of 7/13/2001 -- Tampa Bay at Montreal (N)
+
+  Tampa Bay          AB  R  H RBI    Montreal           AB  R  H RBI
+Tyner J, cf           4  0  0  0   Bergeron P, cf        3  1  1  0   
+Abernathy B, 2b       4  0  0  0   Vidro J, 2b           3  1  2  2   
+Vaughn G, lf          3  1  2  0   Guerrero V, rf        4  1  3  1   
+McGriff F, 1b         4  1  1  2   Cabrera O, ss         3  0  0  0   
+Huff A, 3b            3  0  0  0   Stevens L, 1b         3  1  0  0   
+Johnson R, ph         0  0  0  0   Smith M, lf           4  1  2  2   
+DiFelice M, c         4  0  0  0   Barrett M, c          4  1  1  0   
+Grieve B, rf          3  0  1  0   Mordecai M, 3b        4  0  0  1   
+Sheets A, ss          3  0  0  0   Vazquez J, p          2  0  0  0   
+Wallace J, p          0  0  0  0   Minor R, ph           1  0  0  0   
+Kennedy J, p          2  0  0  0   Lloyd G, p            0  0  0  0   
+Wilson P, p           0  0  0  0                                      
+Martinez F, ss        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  2                        31  6  9  6
+
+Tampa Bay        000 200 000 --  2
+Montreal         210 012 00x --  6
+
+  Tampa Bay            IP  H  R ER BB SO
+Kennedy J (L)         6.0  6  6  6  3  4
+Wilson P              0.2  2  0  0  0  0
+Wallace J             1.1  1  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (W)         8.0  4  2  2  1  8
+Lloyd G               1.0  0  0  0  1  1
+
+E -- McGriff F, DiFelice M
+LOB -- Tampa Bay 4, Montreal 6
+2B -- Smith M
+3B -- Barrett M
+HR -- Vidro J, Guerrero V, McGriff F, Smith M
+SB -- Bergeron P, Guerrero V 2, Vidro J
+CS -- Guerrero V
+SH -- Vazquez J
+SF -- Vidro J
+WP -- Kennedy J
+T -- 2:20
+A -- 4277
+     Game of 7/14/2001 -- Tampa Bay at Montreal (D)
+
+  Tampa Bay          AB  R  H RBI    Montreal           AB  R  H RBI
+Tyner J, cf           5  0  1  0   Bergeron P, cf        4  1  1  0   
+Abernathy B, 2b       5  0  2  1   Vidro J, 2b           2  3  2  1   
+Grieve B, rf          3  1  1  0   Minor R, 3b           1  0  0  0   
+McGriff F, 1b         5  0  1  0   Guerrero V, rf        4  1  2  2   
+Huff A, 3b            4  0  1  1   Ducey R, pr-rf        0  1  0  0   
+Flaherty J, c         3  0  0  0   Stevens L, 1b         3  3  2  1   
+Creek D, p            0  0  0  0   Urbina U, p           0  0  0  0   
+Wilson P, p           0  0  0  0   Cabrera O, ss         2  1  0  0   
+Winn R, ph            1  0  1  0   Mordecai M, pr-ss     0  0  0  0   
+Yan E, p              0  0  0  0   Blum G, 3b-2b         3  0  1  4   
+Sheets A, ss          4  0  1  0   Barrett M, c          4  0  1  2   
+Rolls D, lf           4  0  2  0   Wilkerson B, lf       4  0  0  0   
+Rekar B, p            2  0  0  0   Armas T, p            3  0  0  0   
+DiFelice M, c         2  1  1  0   Stewart S, p          0  0  0  0   
+                                   Strickland S, p       0  0  0  0   
+                                   Smith M, ph-1b        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  2 11  2                        31 10  9 10
+
+Tampa Bay        000 000 011 --  2
+Montreal         300 003 40x -- 10
+
+  Tampa Bay            IP  H  R ER BB SO
+Rekar B (L)*          5.0  6  6  6  3  4
+Creek D+              1.0  3  4  4  3  0
+Wilson P              1.0  0  0  0  1  1
+Yan E                 1.0  0  0  0  0  1
+
+  Montreal             IP  H  R ER BB SO
+Armas T (W)           7.1  7  1  1  2  7
+Stewart S             0.1  1  0  0  0  0
+Strickland S          0.1  0  0  0  0  0
+Urbina U              1.0  3  1  1  0  2
+  * Pitched to 4 batters in 6th
+  + Pitched to 4 batters in 7th
+
+E -- Grieve B
+DP -- Tampa Bay 2
+LOB -- Tampa Bay 11, Montreal 4
+2B -- Blum G, Stevens L, Guerrero V, McGriff F
+HR -- Vidro J, Guerrero V
+T -- 2:43
+A -- 5471
+     Game of 7/15/2001 -- Boston at Montreal (D)
+
+  Boston             AB  R  H RBI    Montreal           AB  R  H RBI
+Offerman J, 2b        5  1  1  0   Bergeron P, cf        4  1  1  0   
+Lansing M, ss         5  2  2  0   Vidro J, 2b           4  1  2  2   
+Nixon T, cf           3  0  0  1   Guerrero V, rf        5  1  1  0   
+Ramirez M, lf         4  2  1  0   Stevens L, 1b         3  1  1  1   
+O'Leary T, rf         5  0  1  1   Smith M, lf           3  1  1  1   
+Stynes C, 3b          5  3  4  4   Cabrera O, ss         4  0  1  0   
+Lowe D, p             0  0  0  0   Blum G, 3b            2  0  0  1   
+Daubach B, 1b         3  0  2  2   Barrett M, c          4  0  0  0   
+Mirabelli D, c        4  0  2  0   Thurman M, p          1  0  0  0   
+Nomo H, p             3  0  1  0   Wilkerson B, ph       1  0  0  0   
+Garces R, p           1  0  0  0   Yoshii M, p           0  0  0  0   
+Beck R, p             0  0  0  0   Minor R, ph           1  0  0  0   
+Hillenbrand S, 3b     0  0  0  0   Stewart S, p          0  0  0  0   
+                                   Cubillan D, p         0  0  0  0   
+                                   Ducey R, ph           1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 14  8                        33  5  8  5
+
+Boston           012 030 200 --  8
+Montreal         200 102 000 --  5
+
+  Boston               IP  H  R ER BB SO
+Nomo H (W)*           5.0  5  5  5  4  7
+Garces R              2.0  0  0  0  0  1
+Beck R                1.0  1  0  0  0  2
+Lowe D (S)            1.0  2  0  0  0  2
+
+  Montreal             IP  H  R ER BB SO
+Thurman M (L)         5.0  9  6  6  3  5
+Yoshii M              2.0  4  2  2  0  0
+Stewart S             1.0  0  0  0  0  1
+Cubillan D            1.0  1  0  0  1  0
+  * Pitched to 3 batters in 6th
+
+E -- Mirabelli D
+DP -- Montreal 1
+LOB -- Boston 9, Montreal 7
+2B -- Daubach B, Stevens L, Ramirez M
+HR -- Vidro J, Stynes C 2, Smith M
+SB -- Guerrero V, Cabrera O
+SF -- Nixon T, Blum G
+HBP -- by Thurman M (Ramirez M), by Beck R (Stevens L)
+WP -- Cubillan D
+T -- 3:11
+A -- 32965
+     Game of 7/16/2001 -- Boston at Montreal (N)
+
+  Boston             AB  R  H RBI    Montreal           AB  R  H RBI
+Offerman J, 2b        5  0  1  0   Bergeron P, cf        5  1  1  0   
+Lowe D, p             0  0  0  0   Vidro J, 2b           5  1  2  0   
+Hatteberg S, c        4  1  2  0   Guerrero V, rf        3  2  1  1   
+Nixon T, cf-rf        5  1  3  0   Stevens L, 1b         3  0  0  0   
+Ramirez M, lf         4  0  0  0   Cabrera O, ss         5  1  3  4   
+Bichette D, rf        5  1  2  1   Blum G, 3b            3  0  0  0   
+Lewis D, cf           0  0  0  0   Strickland S, p       0  0  0  0   
+Daubach B, 1b         3  2  2  2   Ducey R, ph           0  0  0  0   
+Stynes C, 3b-2b       3  1  2  1   Urbina U, p           0  0  0  0   
+Lansing M, ss         3  0  1  2   Smith M, ph           0  0  0  0   
+Beck R, p             0  0  0  0   Barrett M, c          5  0  1  0   
+Hillenbrand S, 3b     1  0  0  0   Wilkerson B, lf       2  0  0  0   
+Ohka T, p             3  0  0  0   Munoz B, p            2  0  0  0   
+Pulsipher B, p        0  0  0  0   Stewart S, p          0  0  0  0   
+Pichardo H, p         0  0  0  0   Lloyd G, p            0  0  0  0   
+Merloni L, ss         1  0  0  0   Mordecai M, 3b        2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 13  6                        35  5  9  5
+
+Boston           000 200 301 --  6
+Montreal         001 002 011 --  5
+
+  Boston               IP  H  R ER BB SO
+Ohka T*               5.0  4  3  3  1  4
+Pulsipher B           0.1  0  0  0  0  0
+Pichardo H (W)        1.1  2  0  0  1  0
+Beck R                1.0  1  1  1  3  1
+Lowe D (S)            1.1  2  1  1  2  0
+
+  Montreal             IP  H  R ER BB SO
+Munoz B               5.2  8  2  2  4  3
+Stewart S             0.1  0  0  0  0  0
+Lloyd G (L)           0.2  3  3  3  2  0
+Strickland S          1.1  0  0  0  0  1
+Urbina U              1.0  2  1  1  1  1
+  * Pitched to 2 batters in 6th
+
+E -- Munoz B
+DP -- Boston 1, Montreal 3
+LOB -- Boston 11, Montreal 11
+2B -- Guerrero V, Daubach B, Lansing M, Hatteberg S
+HR -- Daubach B, Cabrera O
+SB -- Stynes C, Wilkerson B, Nixon T
+HBP -- by Ohka T (Guerrero V)
+WP -- Munoz B
+T -- 3:29
+A -- 16005
+     Game of 7/17/2001 -- Boston at Montreal (N)
+
+  Boston             AB  R  H RBI    Montreal           AB  R  H RBI
+Stynes C, 2b          4  0  0  2   Bergeron P, cf        4  2  3  1   
+Hatteberg S, c        5  1  1  1   Vidro J, 2b           5  2  3  3   
+Nixon T, cf           5  1  3  1   Guerrero V, rf        4  3  1  2   
+Ramirez M, lf         4  1  1  1   Stevens L, 1b         3  1  1  2   
+Bichette D, rf        5  1  1  0   Cabrera O, ss         5  0  0  0   
+Daubach B, 1b         5  1  1  0   Blum G, 3b            3  1  1  0   
+Lansing M, ss         5  1  4  0   Barrett M, c          5  1  2  0   
+Hillenbrand S, 3b     5  1  3  2   Wilkerson B, lf       3  1  1  0   
+Wakefield T, p        2  0  1  0   Mattes T, p           1  0  0  0   
+O'Leary T, ph         0  0  0  0   Yoshii M, p           0  0  0  0   
+Florie B, p           0  0  0  0   Stewart S, p          0  0  0  0   
+Pulsipher B, p        0  0  0  0   Minor R, ph           1  0  0  0   
+Pichardo H, p         0  0  0  0   Strickland S, p       0  0  0  0   
+Lewis D, ph           1  0  1  0   Ducey R, ph           1  0  1  0   
+Kim S, p              0  0  0  0   Lloyd G, p            0  0  0  0   
+Offerman J, ph        1  0  0  0   Urbina U, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42  7 16  7                        35 11 13  8
+
+Boston           000 104 011 --  7
+Montreal         050 104 10x -- 11
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (L)       5.0  7  6  5  5  3
+Florie B              0.1  2  3  3  1  0
+Pulsipher B           0.2  1  1  1  0  0
+Pichardo H            1.0  3  1  1  0  1
+Kim S                 1.0  0  0  0  0  1
+
+  Montreal             IP  H  R ER BB SO
+Mattes T (W)          5.2 10  5  5  1  5
+Yoshii M*             0.0  0  0  0  1  0
+Stewart S             0.1  0  0  0  0  0
+Strickland S          1.0  1  0  0  1  1
+Lloyd G               1.0  2  1  1  0  0
+Urbina U              1.0  3  1  1  0  2
+  * Pitched to 1 batter in 6th
+
+E -- Daubach B, Pulsipher B
+DP -- Boston 1, Montreal 1
+LOB -- Boston 11, Montreal 8
+2B -- Nixon T, Lansing M, Blum G, Bergeron P, Vidro J 2, Lewis D
+HR -- Guerrero V, Nixon T, Hatteberg S, Ramirez M, Stevens L
+SB -- Bergeron P 2, Guerrero V
+SH -- Mattes T
+HBP -- by Kim S (Blum G)
+WP -- Wakefield T, Urbina U
+PB -- Hatteberg S
+T -- 2:53
+A -- 13348
+     Game of 7/18/2001 -- Philadelphia at Montreal (N)
+
+  Philadelphia       AB  R  H RBI    Montreal           AB  R  H RBI
+Glanville D, cf       5  0  0  0   Bergeron P, cf        5  1  1  0   
+Cormier R, p          0  0  0  0   Vidro J, 2b           5  1  1  2   
+Hunter B, lf-cf       3  1  2  0   Guerrero V, rf        4  2  4  2   
+Abreu B, rf           4  1  3  2   Smith M, lf           3  0  0  0   
+Rolen S, 3b           4  0  0  0   Stevens L, 1b         3  1  1  2   
+Lee T, 1b             3  1  0  0   Cabrera O, ss         4  1  2  0   
+Anderson M, 2b        4  2  1  0   Barrett M, c          4  0  0  0   
+Perez T, ss           3  0  1  1   Mordecai M, 3b        3  1  2  1   
+Santiago J, p         0  0  0  0   Vazquez J, p          2  0  0  0   
+Vosberg E, p          0  0  0  0   Lloyd G, p            0  0  0  0   
+Burrell P, ph-lf      1  0  0  0   Strickland S, p       0  0  0  0   
+Bennett G, c          3  0  0  0   Blum G, ph            1  0  1  0   
+Estrada J, ph-c       1  1  1  3   Urbina U, p           0  0  0  0   
+Daal O, p             2  0  0  0                                      
+Rollins J, ss         2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  6  8  6                        34  7 12  7
+
+Philadelphia     111 000 003 --  6
+Montreal         000 130 021 --  7
+  1 out when winning run was scored.
+
+  Philadelphia         IP  H  R ER BB SO
+Daal O                6.2  7  4  4  4  3
+Santiago J            0.2  3  2  2  0  1
+Vosberg E             0.2  1  0  0  0  0
+Cormier R (L)         0.1  1  1  1  0  0
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J             7.2  5  3  2  1  9
+Lloyd G*              0.0  1  0  0  0  0
+Strickland S          0.1  0  0  0  0  1
+Urbina U (W)          1.0  2  3  3  1  0
+  * Pitched to 1 batter in 8th
+
+E -- Stevens L
+DP -- Philadelphia 2, Montreal 1
+LOB -- Philadelphia 4, Montreal 7
+2B -- Abreu B, Vidro J, Guerrero V
+HR -- Abreu B, Guerrero V 2, Stevens L, Estrada J
+SH -- Vazquez J
+PB -- Bennett G
+T -- 2:59
+A -- 5157
+     Game of 7/19/2001 -- Philadelphia at Montreal (D)
+
+  Philadelphia       AB  R  H RBI    Montreal           AB  R  H RBI
+Hunter B, cf          3  1  0  0   Bergeron P, cf        4  2  3  0   
+Rollins J, ss         4  0  1  0   Vidro J, 2b           3  0  1  0   
+Abreu B, rf           4  0  0  0   Guerrero V, rf        2  1  1  1   
+Rolen S, 3b           4  1  1  1   Stevens L, 1b         3  1  1  1   
+Lee T, 1b             4  0  2  1   Cabrera O, ss         4  1  1  1   
+Burrell P, lf         4  0  0  0   Blum G, 3b            4  0  1  2   
+Anderson M, 2b        4  0  2  0   Knorr R, c            4  0  0  0   
+Estrada J, c          2  0  1  0   Wilkerson B, lf       4  0  1  0   
+Figueroa N, p         2  0  0  0   Armas T, p            3  0  0  0   
+Valent E, ph          1  0  0  0   Lloyd G, p            0  0  0  0   
+Politte C, p          0  0  0  0   Strickland S, p       0  0  0  0   
+Cormier R, p          0  0  0  0   Urbina U, p           0  0  0  0   
+Gomes W, p            0  0  0  0                                      
+Jordan K, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        31  5  9  5
+
+Philadelphia     000 000 020 --  2
+Montreal         001 000 04x --  5
+
+  Philadelphia         IP  H  R ER BB SO
+Figueroa N            6.0  5  1  1  1  3
+Politte C             1.0  0  0  0  0  2
+Cormier R (L)         0.1  4  4  4  1  0
+Gomes W               0.2  0  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Armas T               7.2  5  2  2  3  9
+Lloyd G*              0.0  1  0  0  0  0
+Strickland S (W)      0.1  0  0  0  0  0
+Urbina U (S)          1.0  1  0  0  1  1
+  * Pitched to 1 batter in 8th
+
+DP -- Philadelphia 1
+LOB -- Philadelphia 9, Montreal 6
+2B -- Rollins J, Anderson M, Bergeron P 2, Wilkerson B, Lee T, Blum G
+SB -- Bergeron P, Rolen S
+SH -- Rollins J, Vidro J
+HBP -- by Figueroa N (Guerrero V)
+T -- 2:33
+A -- 10242
+     Game of 7/26/2001 -- Atlanta at Montreal (N)
+
+  Atlanta            AB  R  H RBI    Montreal           AB  R  H RBI
+Giles M, 2b           3  0  0  0   Bergeron P, cf        4  0  0  0   
+Martinez D, lf        4  0  2  0   Blum G, 2b-3b         5  1  2  0   
+Jones C, 3b           4  0  0  0   Guerrero V, rf        4  0  0  0   
+Jordan B, rf          4  0  0  0   Stevens L, 1b         3  0  1  0   
+Caminiti K, 1b        4  1  2  1   Cabrera O, ss         5  0  3  1   
+Jones A, cf           4  1  2  1   Barrett M, c          4  1  3  0   
+DeRosa M, ss          4  0  0  0   Minor R, 3b           3  0  0  0   
+Bako P, c             4  0  0  0   Stewart S, p          0  0  0  0   
+Marquis J, p          1  0  0  0   Smith M, ph           1  0  0  0   
+Gilkey B, ph          1  0  0  0   Lloyd G, p            0  0  0  0   
+Cabrera J, p          0  0  0  0   Urbina U, p           0  0  0  0   
+Smoltz J, p           0  0  0  0   Seguignol F, ph       1  0  0  0   
+Karsay S, p           0  0  0  0   Wilkerson B, lf       4  1  1  1   
+Lockhart K, ph        1  0  0  0   Vidro J, ph           0  0  0  0   
+Reed S, p             0  0  0  0   Munoz B, p            2  0  0  0   
+Remlinger M, p        0  0  0  0   Mordecai M, ph-2b     1  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     34  2  6  2                        37  3 10  3
+
+Atlanta          010 001 000 0 --  2
+Montreal         000 010 100 1 --  3
+  1 out when winning run was scored.
+
+  Atlanta              IP  H  R ER BB SO
+Marquis J             6.0  7  1  1  5  5
+Cabrera J             0.1  2  1  1  1  0
+Smoltz J              1.2  0  0  0  0  1
+Karsay S              1.0  0  0  0  0  2
+Reed S (L)            0.1  1  1  0  0  0
+Remlinger M           0.0  0  0  0  2  0
+
+  Montreal             IP  H  R ER BB SO
+Munoz B               6.0  5  2  2  2  3
+Stewart S             1.0  0  0  0  0  1
+Lloyd G               1.0  1  0  0  0  1
+Urbina U (W)          2.0  0  0  0  0  3
+
+E -- DeRosa M
+DP -- Atlanta 2
+LOB -- Atlanta 5, Montreal 14
+2B -- Stevens L, Blum G 2, Jones A, Barrett M
+HR -- Jones A, Wilkerson B, Caminiti K
+SB -- Martinez D, Giles M
+SH -- Giles M
+T -- 3:06
+A -- 7635
+     Game of 7/27/2001 -- Atlanta at Montreal (N)
+
+  Atlanta            AB  R  H RBI    Montreal           AB  R  H RBI
+Giles M, 2b           5  2  1  0   Bergeron P, cf        4  0  2  3   
+Surhoff B, lf         4  1  1  0   Mordecai M, 2b        4  0  0  0   
+Martinez D, lf        1  0  0  0   Guerrero V, rf        4  0  0  0   
+Jones C, 3b           4  1  3  1   Stevens L, 1b         4  0  1  0   
+Jordan B, rf          5  1  2  4   Cabrera O, ss         4  0  0  0   
+Caminiti K, 1b        4  1  2  1   Blum G, 3b            4  0  1  0   
+Helms W, 1b           1  0  0  0   Barrett M, c          4  1  1  0   
+Jones A, cf           4  0  0  0   Wilkerson B, lf       3  2  2  0   
+DeRosa M, ss          4  1  1  0   Mattes T, p           1  0  0  0   
+Bako P, c             3  0  1  0   Seguignol F, ph       1  0  0  0   
+Maddux G, p           1  0  0  0   Yoshii M, p           0  0  0  0   
+Smoltz J, p           0  0  0  0   Smith M, ph           1  0  0  0   
+Lockhart K, ph        1  0  0  0   Reames B, p           0  0  0  0   
+Karsay S, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  7 11  6                        34  3  7  3
+
+Atlanta          014 100 001 --  7
+Montreal         000 001 020 --  3
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)          7.1  6  3  3  0  2
+Smoltz J              0.2  0  0  0  0  0
+Karsay S              1.0  1  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Mattes T (L)          6.0  8  6  5  1  3
+Yoshii M              2.0  1  0  0  0  3
+Reames B              1.0  2  1  1  1  2
+
+E -- Mordecai M, Blum G
+LOB -- Atlanta 7, Montreal 4
+2B -- Jones C, DeRosa M, Wilkerson B, Bergeron P 2
+HR -- Caminiti K, Jordan B
+SH -- Maddux G 2
+WP -- Mattes T 2
+PB -- Bako P
+T -- 2:22
+A -- 8299
+     Game of 7/28/2001 -- Atlanta at Montreal (N)
+
+  Atlanta            AB  R  H RBI    Montreal           AB  R  H RBI
+Giles M, 2b           5  0  1  0   Cabrera O, ss         4  0  0  0   
+Surhoff B, lf         5  2  1  0   Blum G, 3b            3  2  2  1   
+Jones C, 3b           5  3  3  4   Guerrero V, rf        2  1  1  0   
+Jordan B, rf          5  1  2  1   Stevens L, 1b         4  1  1  2   
+Caminiti K, 1b        2  2  2  4   Seguignol F, lf       4  0  1  2   
+Helms W, 1b           1  0  0  0   Smith M, cf           2  0  0  0   
+Jones A, cf           5  0  0  0   Barrett M, c          4  0  0  0   
+Lopez J, c            4  0  0  0   Mateo H, 2b           4  1  2  0   
+DeRosa M, ss          4  0  1  0   Vazquez J, p          1  0  0  0   
+Glavine T, p          2  2  2  0   Strickland S, p       0  0  0  0   
+Gilkey B, ph          1  0  1  0   Minor R, ph           1  0  0  0   
+Garcia J, pr          0  0  0  0   Eischen J, p          0  0  0  0   
+Cabrera J, p          0  0  0  0   Lloyd G, p            0  0  0  0   
+Remlinger M, p        0  0  0  0   Knorr R, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 10 13  9                        30  5  7  5
+
+Atlanta          003 001 402 -- 10
+Montreal         200 010 020 --  5
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (W)         7.0  5  3  3  5  1
+Cabrera J             1.0  2  2  2  0  1
+Remlinger M           1.0  0  0  0  0  1
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (L)         6.2 10  8  7  2  4
+Strickland S          0.1  0  0  0  0  0
+Eischen J             1.0  1  0  0  0  0
+Lloyd G               1.0  2  2  2  0  0
+
+E -- Guerrero V
+DP -- Atlanta 2
+LOB -- Atlanta 5, Montreal 5
+2B -- Seguignol F, Glavine T, Gilkey B, Stevens L
+HR -- Caminiti K 2, Jones C
+CS -- Smith M
+SH -- Glavine T, Vazquez J
+HBP -- by Cabrera J (Blum G)
+T -- 2:46
+A -- 9390
+     Game of 7/29/2001 -- Atlanta at Montreal (D)
+
+  Atlanta            AB  R  H RBI    Montreal           AB  R  H RBI
+Giles M, 2b           3  2  2  4   Bergeron P, cf        4  0  0  0   
+Surhoff B, lf         5  0  0  0   Blum G, 3b            4  0  0  0   
+Jones C, 3b           3  0  0  1   Guerrero V, rf        4  0  0  0   
+Jordan B, rf          1  0  0  0   Seguignol F, 1b       4  0  1  0   
+Martinez D, rf        4  0  0  0   Cabrera O, ss         4  1  1  0   
+Caminiti K, 1b        3  1  1  0   Knorr R, c            3  0  1  0   
+Garcia J, pr          0  1  0  0   Wilkerson B, lf       3  0  1  1   
+Helms W, 1b           1  0  0  0   Mateo H, 2b           3  0  1  0   
+Jones A, cf           4  1  0  0   Armas T, p            1  0  0  0   
+Lopez J, c            4  0  1  0   Minor R, ph           1  0  0  0   
+DeRosa M, ss          2  2  1  1   Reames B, p           0  0  0  0   
+Burkett J, p          4  1  0  0   Stewart S, p          0  0  0  0   
+Smoltz J, p           0  0  0  0   Strickland S, p       0  0  0  0   
+Ligtenberg K, p       0  0  0  0   Lloyd G, p            0  0  0  0   
+                                   Smith M, ph           1  0  0  0   
+                                   Eischen J, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  8  5  6                        32  1  5  1
+
+Atlanta          000 200 150 --  8
+Montreal         000 010 000 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (W)         7.1  4  1  1  0 11
+Smoltz J              0.2  0  0  0  0  1
+Ligtenberg K          1.0  1  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Armas T (L)           6.0  3  2  0  4  6
+Reames B              0.2  0  1  0  1  0
+Stewart S*            0.1  0  1  1  1  0
+Strickland S          0.1  2  4  3  1  0
+Lloyd G               0.2  0  0  0  0  0
+Eischen J             1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Mateo H 2, Seguignol F
+LOB -- Atlanta 7, Montreal 4
+2B -- Lopez J, Caminiti K, Mateo H
+3B -- Wilkerson B
+HR -- Giles M
+SB -- Garcia J
+SF -- Jones C
+T -- 2:50
+A -- 9802
+     Game of 8/7/2001 -- St. Louis at Montreal (N)
+
+  St. Louis          AB  R  H RBI    Montreal           AB  R  H RBI
+Vina F, 2b            4  0  0  0   Bergeron P, cf        4  1  0  0   
+Polanco P, 3b         4  1  1  0   Vidro J, 2b           4  0  2  1   
+Drew J, rf            2  0  2  0   Guerrero V, rf        4  0  0  0   
+Paquette C, rf        2  0  0  0   Stevens L, 1b         4  0  0  0   
+McGwire M, 1b         4  0  0  0   Cabrera O, ss         3  0  0  0   
+Edmonds J, cf         4  1  1  1   Blum G, 3b            3  0  1  0   
+Pujols A, lf          4  1  2  1   Barrett M, c          2  0  0  0   
+Renteria E, ss        3  0  0  0   Wilkerson B, lf       3  0  0  0   
+Matheny M, c          3  0  0  0   Vazquez J, p          1  0  1  0   
+Kile D, p             3  0  0  0   Mordecai M, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  2                        29  1  4  1
+
+St. Louis        011 100 000 --  3
+Montreal         000 001 000 --  1
+
+  St. Louis            IP  H  R ER BB SO
+Kile D (W)            9.0  4  1  1  1  5
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (L)         9.0  6  3  2  1 10
+
+E -- Vidro J 2, Wilkerson B, Polanco P
+DP -- St. Louis 1, Montreal 2
+LOB -- St. Louis 4, Montreal 3
+2B -- Drew J 2, Vazquez J, Vidro J
+HR -- Pujols A, Edmonds J
+SH -- Vazquez J
+T -- 2:16
+A -- 7760
+     Game of 8/8/2001 -- St. Louis at Montreal (N)
+
+  St. Louis          AB  R  H RBI    Montreal           AB  R  H RBI
+Vina F, 2b            6  1  4  2   Bergeron P, cf        3  0  1  0   
+Polanco P, 3b         6  0  2  1   Vidro J, 2b           5  0  1  0   
+Edmonds J, cf         6  0  0  0   Guerrero V, rf        4  0  0  0   
+Pujols A, lf          4  1  1  0   Smith M, lf           4  1  1  1   
+Bonilla B, 1b         4  1  1  0   Cabrera O, ss         4  1  1  0   
+Paquette C, rf        4  0  1  2   Blum G, 1b-3b         5  2  2  2   
+Renteria E, ss        4  1  1  0   Barrett M, c          5  1  2  1   
+Marrero E, c          5  1  1  0   Mordecai M, 3b        3  1  2  2   
+Hackman L, p          0  0  0  0   Strickland S, p       0  0  0  0   
+Smith B, p            2  0  0  0   Lloyd G, p            0  0  0  0   
+McGwire M, ph         1  0  0  0   Reames B, p           0  0  0  0   
+Stechschulte G, p     0  0  0  0   Wilkerson B, ph       1  0  0  0   
+Kline S, p            0  0  0  0   Yoshii M, p           0  0  0  0   
+Benes A, p            0  0  0  0   Armas T, p            1  0  0  0   
+Robinson K, ph        0  0  0  0   Stewart S, p          0  0  0  0   
+Veres D, p            0  0  0  0   Stevens L, 1b         1  0  0  0   
+Matthews M, p         0  0  0  0                                      
+Matheny M, c          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     43  5 11  5                        36  6 10  6
+
+St. Louis        020 000 003 00 --  5
+Montreal         002 001 002 01 --  6
+  0 outs when winning run was scored.
+
+  St. Louis            IP  H  R ER BB SO
+Smith B               6.0  5  3  3  1  2
+Stechschulte G        1.0  0  0  0  0  0
+Kline S               0.2  0  0  0  2  1
+Benes A               0.1  0  0  0  0  1
+Veres D               0.2  2  2  2  0  1
+Matthews M*           0.1  1  0  0  1  1
+Hackman L (L)         1.0  2  1  1  1  0
+
+  Montreal             IP  H  R ER BB SO
+Armas T               6.0  5  2  2  3  7
+Stewart S             1.0  1  0  0  0  2
+Strickland S          1.1  2  2  2  0  1
+Lloyd G               0.1  2  1  1  0  0
+Reames B              0.1  0  0  0  0  0
+Yoshii M (W)          2.0  1  0  0  0  1
+  * Pitched to 2 batters in 10th
+
+E -- Edmonds J, Blum G
+DP -- St. Louis 1
+LOB -- St. Louis 10, Montreal 7
+2B -- Bergeron P, Paquette C, Mordecai M, Bonilla B, Polanco P, Cabrera O, Blum G, Barrett M
+HR -- Mordecai M, Smith M, Blum G
+SB -- Cabrera O, Polanco P
+SH -- Renteria E, Armas T, Bergeron P, Robinson K
+T -- 3:31
+A -- 6611
+     Game of 8/9/2001 -- St. Louis at Montreal (N)
+
+  St. Louis          AB  R  H RBI    Montreal           AB  R  H RBI
+Vina F, 2b            5  0  2  0   Bergeron P, cf        5  1  0  0   
+Polanco P, 3b         5  2  1  0   Mordecai M, 2b        5  2  4  1   
+Robinson K, cf        5  3  4  0   Guerrero V, rf        5  1  2  3   
+Pujols A, 1b          4  2  2  2   Stevens L, 1b         5  1  1  0   
+Paquette C, rf        5  1  2  3   Cabrera O, ss         5  1  4  1   
+Renteria E, ss        3  1  1  2   Blum G, 3b            5  0  0  0   
+Matheny M, c          5  0  1  1   Knorr R, c            3  0  1  0   
+Clapp S, lf           3  0  0  0   Wilkerson B, lf       2  0  0  0   
+Marrero E, ph-lf      1  0  0  0   Ohka T, p             1  0  0  0   
+Morris M, p           3  0  0  0   Reames B, p           0  0  0  0   
+Matthews M, p         0  0  0  0   Seguignol F, ph       1  0  0  0   
+Bonilla B, ph         1  0  0  0   Eischen J, p          0  0  0  0   
+Stechschulte G, p     0  0  0  0   Smith M, ph           0  0  0  0   
+Kline S, p            0  0  0  0   Strickland S, p       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  9 13  8                        37  6 12  5
+
+St. Louis        111 040 002 --  9
+Montreal         001 100 301 --  6
+
+  St. Louis            IP  H  R ER BB SO
+Morris M (W)          6.2 10  5  5  3  6
+Matthews M            0.1  0  0  0  0  1
+Stechschulte G        1.1  1  1  1  1  2
+Kline S               0.2  1  0  0  0  1
+
+  Montreal             IP  H  R ER BB SO
+Ohka T (L)            4.2 10  7  7  1  2
+Reames B              2.1  1  0  0  0  4
+Eischen J             1.0  0  0  0  0  0
+Strickland S          1.0  2  2  1  1  0
+
+E -- Blum G, Marrero E
+DP -- St. Louis 1
+LOB -- St. Louis 7, Montreal 9
+2B -- Robinson K, Pujols A 2, Mordecai M 2, Cabrera O 2, Matheny M, Stevens L
+HR -- Renteria E, Guerrero V
+SB -- Guerrero V 2, Bergeron P, Robinson K, Pujols A, Renteria E
+SH -- Ohka T
+SF -- Renteria E
+WP -- Morris M
+PB -- Knorr R
+T -- 2:50
+A -- 7166
+     Game of 8/10/2001 -- Milwaukee at Montreal (N)
+
+  Milwaukee          AB  R  H RBI    Montreal           AB  R  H RBI
+Mouton J, cf          3  0  1  0   Bergeron P, cf        5  0  2  1   
+Loretta M, 2b         5  1  1  1   Mordecai M, 2b        4  0  1  0   
+Burnitz J, rf         5  2  2  2   Guerrero V, rf        5  0  2  0   
+Leskanic C, p         0  0  0  0   Stevens L, 1b         3  0  0  0   
+Sexson R, 1b          3  1  2  0   Cabrera O, ss         4  1  1  0   
+Sweeney M, lf-rf      4  0  1  0   Blum G, 3b            4  0  0  0   
+Casanova R, c         2  1  1  1   Barrett M, c          3  0  1  0   
+Blanco H, c           1  0  0  0   Wilkerson B, lf       4  0  2  0   
+Hernandez J, ss       4  0  1  1   Thurman M, p          1  0  0  0   
+Lopez L, 3b           3  0  1  0   Seguignol F, ph       1  0  0  0   
+Quevedo R, p          2  0  0  0   Yoshii M, p           0  0  0  0   
+Fox C, p              0  0  0  0   Lloyd G, p            0  0  0  0   
+White D, ph           1  0  1  0   Smith M, ph           0  0  0  0   
+Collier L, lf         0  0  0  0   Eischen J, p          0  0  0  0   
+                                   Minor R, ph           1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5 11  5                        35  1 10  1
+
+Milwaukee        000 210 200 --  5
+Montreal         000 000 100 --  1
+
+  Milwaukee            IP  H  R ER BB SO
+Quevedo R (W)         6.2  6  1  1  3 11
+Fox C                 1.1  2  0  0  0  3
+Leskanic C            1.0  2  0  0  1  1
+
+  Montreal             IP  H  R ER BB SO
+Thurman M (L)         5.0  7  3  3  2  5
+Yoshii M              1.2  3  2  2  0  0
+Lloyd G               0.1  0  0  0  0  0
+Eischen J             2.0  1  0  0  1  1
+
+E -- Lopez L
+DP -- Milwaukee 1, Montreal 3
+LOB -- Milwaukee 7, Montreal 11
+2B -- Bergeron P, Wilkerson B, Mordecai M, Casanova R, Barrett M, Sexson R, Cabrera O, Guerrero V
+HR -- Burnitz J 2, Loretta M
+SB -- Mouton J, Guerrero V 3
+CS -- Bergeron P
+SH -- Quevedo R, Mouton J
+HBP -- by Thurman M (Mouton J)
+WP -- Thurman M
+T -- 2:57
+A -- 4917
+     Game of 8/11/2001 -- Milwaukee at Montreal (N)
+
+  Milwaukee          AB  R  H RBI    Montreal           AB  R  H RBI
+Mouton J, cf          5  0  1  1   Bergeron P, cf        4  0  0  0   
+Collier L, cf         0  0  0  0   Mordecai M, 2b        4  0  0  0   
+Loretta M, 2b         4  0  2  0   Guerrero V, rf        4  0  0  0   
+Burnitz J, rf         5  1  1  0   Cabrera O, ss         3  0  1  0   
+Sexson R, 1b          3  2  1  1   Blum G, 1b            4  0  0  0   
+Sweeney M, lf         3  0  2  0   Barrett M, c          2  0  2  0   
+Hernandez J, ss       3  1  1  0   Wilkerson B, lf       3  0  0  0   
+Lopez L, 3b           3  1  1  3   Minor R, 3b           3  0  0  0   
+Blanco H, c           4  1  1  0   Munoz B, p            1  0  0  0   
+Suzuki M, p           2  0  0  0   Reames B, p           0  0  0  0   
+White D, ph           1  0  0  0   Seguignol F, ph       1  0  0  0   
+Buddie M, p           0  0  0  0   Stewart S, p          0  0  0  0   
+DeJean M, p           0  0  0  0   Strickland S, p       0  0  0  0   
+                                   Mateo H, ph           1  0  0  0   
+                                   Lloyd G, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  6 10  5                        30  0  3  0
+
+Milwaukee        000 510 000 --  6
+Montreal         000 000 000 --  0
+
+  Milwaukee            IP  H  R ER BB SO
+Suzuki M (W)          7.0  3  0  0  1  7
+Buddie M              1.0  0  0  0  0  0
+DeJean M              1.0  0  0  0  1  1
+
+  Montreal             IP  H  R ER BB SO
+Munoz B (L)           3.2  5  5  5  4  3
+Reames B              1.1  2  1  1  1  0
+Stewart S             2.0  3  0  0  0  2
+Strickland S          1.0  0  0  0  0  1
+Lloyd G               1.0  0  0  0  0  2
+
+E -- Guerrero V
+DP -- Montreal 2
+LOB -- Milwaukee 6, Montreal 5
+2B -- Burnitz J, Lopez L, Mouton J, Barrett M
+HR -- Sexson R
+SB -- Barrett M
+SH -- Suzuki M
+WP -- Munoz B
+T -- 2:42
+A -- 5843
+     Game of 8/12/2001 -- Milwaukee at Montreal (D)
+
+  Milwaukee          AB  R  H RBI    Montreal           AB  R  H RBI
+Collier L, cf         4  0  0  0   Bergeron P, cf        4  1  1  0   
+Loretta M, 2b         4  0  1  0   Mordecai M, 2b        4  1  1  0   
+Burnitz J, rf         4  0  1  0   Guerrero V, rf        4  1  3  1   
+Sexson R, 1b          4  0  2  0   Stevens L, 1b         4  0  0  0   
+Sweeney M, lf         3  0  0  0   Cabrera O, ss         2  1  1  1   
+Echevarria A, ph      1  0  0  0   Blum G, 3b            4  1  2  1   
+Hernandez J, ss       4  0  0  0   Smith M, lf           4  0  1  1   
+Lopez L, 3b           2  0  1  0   Barrett M, c          2  0  0  0   
+Blanco H, c           3  0  0  0   Vazquez J, p          2  0  0  0   
+Haynes J, p           2  0  0  0   Wilkerson B, ph       1  0  0  0   
+White D, ph           1  0  1  0   Strickland S, p       0  0  0  0   
+Buddie M, p           0  0  0  0   Lloyd G, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  0  6  0                        31  5  9  4
+
+Milwaukee        000 000 000 --  0
+Montreal         000 104 00x --  5
+
+  Milwaukee            IP  H  R ER BB SO
+Haynes J (L)          7.0  7  5  4  2  7
+Buddie M              1.0  2  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (W)         7.0  4  0  0  0 11
+Strickland S          1.0  1  0  0  1  1
+Lloyd G               1.0  1  0  0  0  2
+
+E -- Collier L, Sweeney M
+DP -- Milwaukee 1, Montreal 1
+LOB -- Milwaukee 6, Montreal 5
+2B -- Burnitz J, Sexson R 2, Mordecai M
+SB -- Blum G, Cabrera O
+HBP -- by Buddie M (Cabrera O)
+T -- 2:26
+A -- 6280
+     Game of 8/21/2001 -- San Francisco at Montreal (N)
+
+  San Francisco      AB  R  H RBI    Montreal           AB  R  H RBI
+Benard M, cf-lf       5  1  1  0   Bergeron P, cf        2  0  0  0   
+Aurilia R, ss         5  2  2  1   Eischen J, p          0  0  0  0   
+Bonds B, lf           2  1  0  0   Minor R, ph-3b        0  1  0  0   
+Murray C, cf          0  0  0  0   Vidro J, 2b           4  0  1  1   
+Kent J, 2b            5  2  1  1   Seguignol F, rf       0  0  0  0   
+Snow J, 1b            2  2  1  1   Guerrero V, rf        4  0  0  0   
+Galarraga A, ph-1b    1  0  0  0   Munoz B, p            0  0  0  0   
+Vander Wal J, rf      4  1  2  3   Stevens L, 1b         3  1  1  0   
+Santiago B, c         5  1  3  1   Cabrera O, ss         4  0  0  0   
+Martinez R, 3b        5  0  2  0   Smith M, lf           3  0  1  0   
+Ortiz R, p            4  0  1  2   Barrett M, c          4  0  1  0   
+Fultz A, p            0  0  0  0   Mordecai M, 3b-2b     3  0  0  1   
+                                   Pavano C, p           0  0  0  0   
+                                   Yoshii M, p           1  0  0  0   
+                                   Reames B, p           0  0  0  0   
+                                   Pride C, ph-cf        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38 10 13  9                        30  2  4  2
+
+San Francisco    532 000 000 -- 10
+Montreal         000 000 011 --  2
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (W)           8.0  2  1  1  4  3
+Fultz A               1.0  2  1  1  2  0
+
+  Montreal             IP  H  R ER BB SO
+Pavano C (L)          1.1  7  8  7  3  1
+Yoshii M              3.2  5  2  2  1  2
+Reames B              1.0  1  0  0  1  0
+Eischen J             2.0  0  0  0  0  0
+Munoz B               1.0  0  0  0  0  0
+
+E -- Bergeron P
+DP -- San Francisco 1, Montreal 2
+LOB -- San Francisco 7, Montreal 7
+2B -- Ortiz R, Aurilia R, Snow J, Vidro J
+HR -- Aurilia R, Kent J
+SF -- Snow J
+Balk -- Pavano C
+T -- 2:56
+A -- 8937
+     Game of 8/22/2001 -- San Francisco at Montreal (N)
+
+  San Francisco      AB  R  H RBI    Montreal           AB  R  H RBI
+Murray C, cf          4  0  0  0   Bergeron P, cf        4  1  2  0   
+Feliz P, 3b           4  0  1  0   Vidro J, 2b           4  0  0  0   
+Bonds B, lf           2  1  1  0   Guerrero V, rf        4  2  3  2   
+Kent J, 2b            4  0  1  1   Cabrera O, ss         4  0  0  1   
+Snow J, 1b            4  0  0  0   Smith M, lf           4  1  1  1   
+Vander Wal J, rf      2  0  1  0   Barrett M, c          3  1  1  0   
+Martinez R, ss        3  0  0  0   Blum G, 1b            3  1  2  3   
+Guzman E, c           3  0  1  0   Mordecai M, 3b        3  0  0  0   
+Estes S, p            1  0  0  0   Vazquez J, p          2  1  0  0   
+Boehringer B, p       1  0  0  0   Raines T, ph          1  0  0  0   
+Christiansen J, p     0  0  0  0   Lloyd G, p            0  0  0  0   
+Dunston S, ph         1  0  0  0                                      
+Worrell T, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  1  5  1                        32  7  9  7
+
+San Francisco    000 100 000 --  1
+Montreal         006 010 00x --  7
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (L)           3.0  6  6  6  3  1
+Boehringer B          2.0  3  1  1  0  0
+Christiansen J        2.0  0  0  0  0  1
+Worrell T             1.0  0  0  0  0  1
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (W)         8.0  4  1  1  3  4
+Lloyd G               1.0  1  0  0  0  1
+
+DP -- Montreal 2
+LOB -- San Francisco 4, Montreal 5
+2B -- Guerrero V 2, Kent J
+HR -- Blum G
+SB -- Guerrero V 2
+CS -- Bergeron P
+HBP -- by Boehringer B (Mordecai M)
+T -- 2:27
+A -- 8217
+     Game of 8/23/2001 -- San Francisco at Montreal (N)
+
+  San Francisco      AB  R  H RBI    Montreal           AB  R  H RBI
+Benard M, lf          4  0  1  0   Bergeron P, cf        4  0  0  0   
+Dunston S, ph-rf      1  1  1  1   Vidro J, 2b           4  0  0  0   
+Murray C, cf          5  1  2  1   Guerrero V, rf        4  2  3  0   
+Vander Wal J, rf      5  2  3  1   Stevens L, 1b         3  1  1  1   
+Worrell T, p          0  0  0  0   Cabrera O, ss         2  1  0  0   
+Kent J, 2b            5  1  1  1   Smith M, lf           4  1  1  1   
+Galarraga A, 1b       5  3  3  4   Barrett M, c          4  0  0  0   
+Aurilia R, ss         4  0  1  0   Blum G, 3b            4  0  2  2   
+Santiago B, c         5  0  2  1   Ohka T, p             1  0  1  1   
+Martinez R, 3b        5  1  1  0   Reames B, p           0  0  0  0   
+Hernandez L, p        3  0  0  0   Strickland S, p       0  0  0  0   
+Rodriguez F, p        0  0  0  0   Lloyd G, p            0  0  0  0   
+Bonds B, ph-lf        1  1  1  1   Cubillan D, p         0  0  0  0   
+                                   Raines T, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     43 10 16 10                        31  5  8  5
+
+San Francisco    000 111 025 -- 10
+Montreal         100 400 000 --  5
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L           7.0  7  5  5  2  4
+Rodriguez F (W)       1.0  1  0  0  1  1
+Worrell T             1.0  0  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Ohka T                5.1  8  3  3  0  2
+Reames B              2.0  2  2  2  0  2
+Strickland S          1.0  0  0  0  0  2
+Lloyd G (L)*          0.0  4  4  4  0  0
+Cubillan D            0.2  2  1  1  1  0
+  * Pitched to 4 batters in 9th
+
+E -- Stevens L 2
+DP -- San Francisco 2, Montreal 1
+LOB -- San Francisco 7, Montreal 4
+2B -- Guerrero V 2, Blum G, Martinez R, Vander Wal J 2
+HR -- Galarraga A 2, Kent J, Bonds B, Dunston S
+SH -- Ohka T, Reames B
+WP -- Rodriguez F
+T -- 3:11
+A -- 7990
+     Game of 8/24/2001 -- Cincinnati at Montreal (N)
+
+  Cincinnati         AB  R  H RBI    Montreal           AB  R  H RBI
+Reese P, ss           5  1  1  0   Raines T, lf          3  1  2  0   
+Dunn A, rf            5  0  0  0   Strickland S, p       0  0  0  0   
+Griffey K, cf         4  1  2  0   Vidro J, 2b           4  2  0  0   
+Casey S, 1b           3  1  2  1   Guerrero V, rf        2  2  1  2   
+Walker T, 2b          4  0  1  2   Cabrera O, ss         3  1  1  1   
+Guerrero W, lf        4  0  0  0   Smith M, cf-lf        4  0  1  0   
+Castro J, 3b          4  0  1  0   Blum G, 1b-3b         3  0  1  0   
+LaRue J, c            4  1  2  1   Barrett M, c          4  0  0  1   
+Reyes D, p            3  0  1  0   Mordecai M, 3b        3  0  2  0   
+Brower J, p           0  0  0  0   Stewart S, p          0  0  0  0   
+Cromer D, ph          1  0  0  0   Bergeron P, cf        0  0  0  0   
+                                   Armas T, p            2  0  0  0   
+                                   Stevens L, 1b         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4 10  4                        30  6  8  4
+
+Cincinnati       013 000 000 --  4
+Montreal         102 001 20x --  6
+
+  Cincinnati           IP  H  R ER BB SO
+Reyes D*              5.0  5  4  3  4  7
+Brower J (L)          3.0  3  2  0  1  1
+
+  Montreal             IP  H  R ER BB SO
+Armas T               6.0  8  4  4  1  8
+Stewart S (W)         1.0  2  0  0  0  2
+Strickland S (S)      2.0  0  0  0  0  3
+  * Pitched to 3 batters in 6th
+
+E -- Reyes D, Castro J
+DP -- Cincinnati 2
+LOB -- Cincinnati 7, Montreal 6
+2B -- LaRue J, Smith M
+HR -- Casey S, LaRue J, Guerrero V
+SB -- Bergeron P
+CS -- Guerrero V, Blum G
+HBP -- by Brower J (Bergeron P)
+WP -- Reyes D
+PB -- LaRue J 2
+T -- 2:48
+A -- 5191
+     Game of 8/25/2001 -- Cincinnati at Montreal (N)
+
+  Cincinnati         AB  R  H RBI    Montreal           AB  R  H RBI
+Guerrero W, 3b        5  2  3  0   Bergeron P, cf        4  0  0  0   
+Dunn A, lf            5  2  3  2   Vidro J, 2b           4  1  1  0   
+Griffey K, cf         5  0  0  0   Guerrero V, rf        4  0  0  0   
+Casey S, 1b           4  0  1  0   Stevens L, 1b         4  0  0  0   
+Rivera R, rf          4  0  2  2   Cabrera O, ss         4  1  2  2   
+Walker T, 2b          4  0  1  0   Smith M, lf           4  0  1  0   
+Castro J, ss          4  0  0  0   Blum G, 3b            4  0  2  0   
+LaRue J, c            3  0  0  0   Barrett M, c          3  0  1  0   
+Reitsma C, p          4  0  1  0   Thurman M, p          1  0  0  0   
+Graves D, p           0  0  0  0   Pride C, ph           1  0  0  0   
+                                   Eischen J, p          0  0  0  0   
+                                   Raines T, ph          1  0  0  0   
+                                   Cubillan D, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  4 11  4                        34  2  7  2
+
+Cincinnati       200 020 000 --  4
+Montreal         000 000 002 --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C (W)         8.2  5  2  2  0  4
+Graves D (S)          0.1  2  0  0  0  1
+
+  Montreal             IP  H  R ER BB SO
+Thurman M (L)         5.0  9  4  4  0  3
+Eischen J             3.0  1  0  0  2  2
+Cubillan D            1.0  1  0  0  1  1
+
+E -- Walker T
+DP -- Cincinnati 1
+LOB -- Cincinnati 10, Montreal 6
+2B -- Cabrera O, Rivera R
+3B -- Guerrero W
+HR -- Dunn A, Cabrera O
+SB -- Rivera R, Dunn A
+HBP -- by Reitsma C (Barrett M)
+T -- 2:34
+A -- 6852
+     Game of 8/26/2001 -- Cincinnati at Montreal (D)
+
+  Cincinnati         AB  R  H RBI    Montreal           AB  R  H RBI
+Guerrero W, 3b        5  2  1  0   Raines T, lf          3  0  0  0   
+Dunn A, lf            5  4  4  3   Smith M, lf           2  1  0  0   
+MacRae S, p           0  0  0  0   Vidro J, 2b           3  1  2  0   
+Griffey K, cf         3  2  2  4   Cubillan D, p         0  0  0  0   
+Cromer D, 1b          3  1  1  1   Mordecai M, 1b        1  0  1  0   
+Casey S, 1b           3  2  2  2   Guerrero V, rf        2  1  1  2   
+Clark B, cf           3  0  0  0   Pride C, rf           2  0  0  0   
+Jennings R, rf        6  2  4  3   Stevens L, 1b         3  0  0  0   
+Walker T, 2b          5  0  0  0   Lloyd G, p            0  0  0  0   
+Castro J, ss          5  2  3  2   Barrett M, ph-c       1  0  1  0   
+Stinnett K, c         5  1  1  0   Cabrera O, ss         4  0  1  0   
+Acevedo J, p          4  1  1  1   Blum G, 3b-2b         3  1  1  0   
+Rivera R, ph          1  0  1  1   Knorr R, c            4  0  1  1   
+Rijo J, p             0  0  0  0   Strickland S, p       0  0  0  0   
+LaRue J, lf           0  0  0  0   Bergeron P, cf        3  0  0  0   
+                                   Munoz B, p            0  0  0  0   
+                                   Yoshii M, p           1  0  0  0   
+                                   Reames B, p           0  0  0  0   
+                                   Minor R, ph-3b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     48 17 20 17                        35  4  8  3
+
+Cincinnati       350 410 211 -- 17
+Montreal         000 200 110 --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Acevedo J (W)         7.0  5  3  3  1  5
+Rijo J                1.0  3  1  0  1  0
+MacRae S              1.0  0  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Munoz B (L)           1.1  7  8  8  2  2
+Yoshii M              2.2  5  4  4  0  2
+Reames B              2.0  1  1  1  0  4
+Cubillan D            1.0  3  2  2  0  1
+Lloyd G               1.0  3  1  1  0  2
+Strickland S          1.0  1  1  1  0  1
+
+E -- Stevens L, Guerrero W
+DP -- Cincinnati 1
+LOB -- Cincinnati 6, Montreal 6
+2B -- Casey S 2, Stinnett K, Dunn A 2, Jennings R 2, Vidro J, Acevedo J, Blum G
+3B -- Jennings R
+HR -- Griffey K, Castro J, Guerrero V, Dunn A, Cromer D
+T -- 2:50
+A -- 11783
+     Game of 9/3/2001 -- Atlanta at Montreal (D)
+
+  Atlanta            AB  R  H RBI    Montreal           AB  R  H RBI
+Giles M, 2b           5  0  0  0   Mordecai M, 3b        3  0  0  0   
+Franco J, 1b          3  0  0  0   Vidro J, 2b           3  0  2  0   
+Jones C, 3b           3  0  1  0   Guerrero V, rf        4  0  1  0   
+Jordan B, rf          4  1  1  0   Cabrera O, ss         4  0  1  0   
+Surhoff B, lf         4  1  2  0   Blum G, lf            4  0  1  0   
+Jones A, cf           2  2  2  1   Stevens L, 1b         4  0  1  0   
+Lopez J, c            4  1  2  3   Knorr R, c            4  0  0  0   
+Sanchez R, ss         4  0  1  1   Bergeron P, cf        4  0  0  0   
+Glavine T, p          4  0  1  0   Ohka T, p             1  0  0  0   
+                                   Minor R, ph           1  0  0  0   
+                                   Yoshii M, p           0  0  0  0   
+                                   Smith M, ph           1  0  1  0   
+                                   Stewart S, p          0  0  0  0   
+                                   Cubillan D, p         0  0  0  0   
+                                   Jones T, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5 10  5                        34  0  7  0
+
+Atlanta          010 301 000 --  5
+Montreal         000 000 000 --  0
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (W)         9.0  7  0  0  2  5
+
+  Montreal             IP  H  R ER BB SO
+Ohka T (L)            5.0  6  4  4  1  3
+Yoshii M              2.0  2  1  1  0  2
+Stewart S             1.0  0  0  0  1  0
+Cubillan D            1.0  2  0  0  1  0
+
+E -- Stevens L, Surhoff B, Jones C
+DP -- Montreal 3
+LOB -- Atlanta 5, Montreal 9
+2B -- Cabrera O, Stevens L, Surhoff B
+HR -- Lopez J
+SB -- Guerrero V, Surhoff B
+CS -- Jones C
+SF -- Jones A
+T -- 2:28
+A -- 6748
+     Game of 9/4/2001 -- Atlanta at Montreal (N)
+
+  Atlanta            AB  R  H RBI    Montreal           AB  R  H RBI
+Giles M, 2b           5  0  0  0   Raines T, lf          4  0  1  0   
+Franco J, 1b          4  0  0  0   Vidro J, 2b           4  0  0  0   
+Jones C, 3b           3  1  2  0   Guerrero V, rf        4  0  1  0   
+Jordan B, rf          3  0  1  1   Cabrera O, ss         4  1  1  0   
+Surhoff B, lf         3  0  0  0   Blum G, 3b            4  0  1  1   
+Jones A, cf           4  1  2  1   Stevens L, 1b         2  1  1  1   
+Lopez J, c            2  0  1  0   Barrett M, c          4  0  1  0   
+Bako P, c             2  0  1  0   Bergeron P, cf        2  0  0  0   
+Sanchez R, ss         3  0  0  0   Reames B, p           0  0  0  0   
+Marquis J, p          2  0  0  0   Strickland S, p       0  0  0  0   
+Remlinger M, p        0  0  0  0   Stewart S, p          0  0  0  0   
+Reed S, p             0  0  0  0   Wilkerson B, ph       1  0  0  0   
+Caminiti K, ph        0  0  0  0   Armas T, p            2  0  0  0   
+Garcia J, pr          0  1  0  0   Jones T, cf           2  0  0  0   
+Karsay S, p           0  0  0  0                                      
+Martinez D, ph        0  0  0  0                                      
+Gilkey B, ph          1  0  0  0                                      
+Smoltz J, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  7  2                        33  2  6  2
+
+Atlanta          000 001 011 --  3
+Montreal         000 101 000 --  2
+
+  Atlanta              IP  H  R ER BB SO
+Marquis J             5.2  4  2  2  4  4
+Remlinger M           1.0  0  0  0  1  1
+Reed S                0.1  1  0  0  0  1
+Karsay S (W)          1.0  0  0  0  0  1
+Smoltz J (S)          1.0  1  0  0  0  1
+
+  Montreal             IP  H  R ER BB SO
+Armas T               6.0  5  1  1  1  5
+Reames B              1.2  0  1  0  1  1
+Strickland S (L)      0.2  2  1  1  1  0
+Stewart S             0.2  0  0  0  0  0
+
+E -- Giles M
+DP -- Atlanta 1, Montreal 1
+LOB -- Atlanta 7, Montreal 9
+2B -- Blum G, Barrett M, Raines T
+3B -- Jordan B
+HR -- Stevens L, Jones A
+SB -- Garcia J 2, Jones C
+SH -- Sanchez R
+HBP -- by Reames B (Jones C)
+PB -- Barrett M
+T -- 3:00
+A -- 3613
+     Game of 9/5/2001 -- Atlanta at Montreal (N)
+
+  Atlanta            AB  R  H RBI    Montreal           AB  R  H RBI
+Lockhart K, 2b        3  0  0  0   Jones T, cf           5  2  2  0   
+Giles M, ph-2b        2  1  1  0   Vidro J, 2b           4  1  2  1   
+Franco J, 1b          4  1  3  2   Guerrero V, rf        5  1  2  2   
+Jones C, lf           4  1  2  0   Cabrera O, ss         5  2  3  1   
+Jordan B, rf          4  1  1  1   Blum G, 3b            4  1  2  0   
+Aldridge C, rf        0  0  0  0   Stevens L, 1b         4  1  3  2   
+Caminiti K, 3b        4  0  0  0   Barrett M, c          5  1  0  0   
+Jones A, cf           2  0  1  1   Wilkerson B, lf       4  0  0  0   
+Sanchez R, ss         2  0  1  0   Thurman M, p          2  0  0  0   
+Martinez D, ph        1  0  0  0   Mota G, p             0  0  0  0   
+DeRosa M, ss          1  0  0  0   Schneider B, ph       1  0  1  0   
+Bako P, c             2  0  0  0   Lloyd G, p            0  0  0  0   
+Perez E, ph-c         2  0  0  0   Raines T, ph          1  1  1  2   
+Burkett J, p          2  0  0  0   Stewart S, p          0  0  0  0   
+Ligtenberg K, p       0  0  0  0   Yoshii M, p           0  0  0  0   
+Gilkey B, ph          1  0  0  0                                      
+Perez O, p            0  0  0  0                                      
+Cabrera J, p          0  0  0  0                                      
+Spooneybarger T, p    0  0  0  0                                      
+Surhoff B, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        40 10 16  8
+
+Atlanta          001 002 100 --  4
+Montreal         102 030 40x -- 10
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (L)         4.2  9  6  5  2  4
+Ligtenberg K          1.1  2  0  0  0  4
+Perez O*              0.0  3  3  3  0  0
+Cabrera J             1.0  1  1  0  0  0
+Spooneybarger T       1.0  1  0  0  1  0
+
+  Montreal             IP  H  R ER BB SO
+Thurman M (W)+        5.0  7  3  2  0  5
+Mota G                1.0  0  0  0  0  0
+Lloyd G               1.0  2  1  1  0  0
+Stewart S             1.0  0  0  0  1  0
+Yoshii M              1.0  0  0  0  0  0
+  * Pitched to 3 batters in 7th
+  + Pitched to 3 batters in 6th
+
+E -- Jones A, Stevens L, Franco J
+DP -- Atlanta 1, Montreal 1
+LOB -- Atlanta 6, Montreal 9
+2B -- Vidro J, Jones C, Giles M, Raines T
+HR -- Franco J, Guerrero V
+SB -- Cabrera O
+SF -- Jones A
+WP -- Burkett J, Thurman M, Cabrera J
+T -- 2:44
+A -- 3806
+     Game of 9/6/2001 -- Philadelphia at Montreal (N)
+
+  Philadelphia       AB  R  H RBI    Montreal           AB  R  H RBI
+Rollins J, ss         4  1  2  0   Jones T, cf           4  0  1  0   
+Glanville D, cf       3  0  0  0   Vidro J, 2b           4  0  0  0   
+Abreu B, rf           3  2  1  2   Guerrero V, rf        3  0  1  0   
+Rolen S, 3b           4  0  0  0   Cabrera O, ss         3  0  2  0   
+Anderson M, 2b        4  0  1  0   Blum G, 3b            2  0  0  0   
+Burrell P, lf         3  0  0  0   Stevens L, 1b         3  0  0  0   
+Lee T, 1b             3  0  0  0   Barrett M, c          3  0  0  0   
+Estrada J, c          2  0  0  1   Wilkerson B, lf       2  0  0  0   
+Person R, p           3  0  0  0   Pavano C, p           2  0  0  0   
+Bottalico R, p        0  0  0  0   Eischen J, p          0  0  0  0   
+Mesa J, p             0  0  0  0   Raines T, ph          1  0  0  0   
+                                   Cubillan D, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  3  4  3                        27  0  4  0
+
+Philadelphia     200 000 100 --  3
+Montreal         000 000 000 --  0
+
+  Philadelphia         IP  H  R ER BB SO
+Person R (W)          7.1  3  0  0  3  5
+Bottalico R           0.2  0  0  0  0  0
+Mesa J (S)            1.0  1  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Pavano C (L)          6.1  4  3  3  2  3
+Eischen J             1.2  0  0  0  1  1
+Cubillan D            1.0  0  0  0  0  1
+
+E -- Stevens L, Guerrero V
+DP -- Philadelphia 3, Montreal 1
+LOB -- Philadelphia 3, Montreal 4
+2B -- Rollins J
+HR -- Abreu B
+CS -- Guerrero V
+SH -- Glanville D
+HBP -- by Person R (Blum G)
+T -- 2:27
+A -- 3406
+     Game of 9/7/2001 -- Philadelphia at Montreal (N)
+
+  Philadelphia       AB  R  H RBI    Montreal           AB  R  H RBI
+Rollins J, ss         4  2  2  1   Raines T, lf          2  0  1  0   
+Glanville D, cf       4  0  0  0   Jones T, pr-lf        0  0  0  0   
+Abreu B, rf           4  0  0  0   Vidro J, 2b           4  0  0  0   
+Rolen S, 3b           4  0  1  1   Guerrero V, rf        2  0  1  1   
+Anderson M, 2b        4  0  0  0   Cabrera O, ss         2  1  1  0   
+Burrell P, lf         3  0  1  0   Blum G, 3b            4  0  0  0   
+Lee T, 1b             3  0  0  0   Stevens L, 1b         4  1  1  1   
+Pratt T, c            3  0  0  0   Barrett M, c          3  1  1  2   
+Duckworth B, p        1  0  0  0   Bergeron P, cf        4  0  0  0   
+Wendell T, p          0  0  0  0   Vazquez J, p          3  1  1  0   
+Crespo F, ph          1  0  0  0   Mordecai M, ph        1  0  0  0   
+Cormier R, p          0  0  0  0   Strickland S, p       0  0  0  0   
+                                   Stewart S, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  2                        29  4  6  4
+
+Philadelphia     100 000 010 --  2
+Montreal         020 100 10x --  4
+
+  Philadelphia         IP  H  R ER BB SO
+Duckworth B (L)*      6.0  5  4  3  5  3
+Wendell T             1.0  1  0  0  1  3
+Cormier R             1.0  0  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (W)         8.0  4  2  2  1  9
+Strickland S          0.2  0  0  0  1  0
+Stewart S (S)         0.1  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Burrell P, Stevens L, Rollins J
+DP -- Philadelphia 1
+LOB -- Philadelphia 5, Montreal 8
+2B -- Stevens L, Raines T, Guerrero V
+HR -- Barrett M, Rollins J
+SH -- Duckworth B
+SF -- Barrett M
+WP -- Duckworth B
+T -- 2:50
+A -- 4451
+     Game of 9/8/2001 -- Philadelphia at Montreal (N)
+
+  Philadelphia       AB  R  H RBI    Montreal           AB  R  H RBI
+Rollins J, ss         4  1  4  1   Jones T, cf           3  0  1  0   
+Hunter B, lf          5  1  1  0   Vidro J, 2b           4  0  0  0   
+Abreu B, rf           5  0  3  1   Guerrero V, rf        3  0  0  0   
+Rolen S, 3b           4  0  3  0   Cabrera O, ss         4  0  0  0   
+Lee T, 1b             5  0  1  1   Blum G, 1b            4  0  2  0   
+Glanville D, cf       5  1  2  0   Smith M, lf           4  0  1  0   
+Perez T, 2b           5  1  2  0   Barrett M, c          3  0  2  0   
+Estrada J, c          4  1  1  1   Mordecai M, 3b        3  0  0  0   
+Wolf R, p             4  1  1  1   Ohka T, p             1  0  0  0   
+                                   Minor R, ph           1  0  0  0   
+                                   Mota G, p             0  0  0  0   
+                                   Eischen J, p          0  0  0  0   
+                                   Lloyd G, p            0  0  0  0   
+                                   Cubillan D, p         0  0  0  0   
+                                   Knorr R, ph           1  0  0  0   
+                                   Munoz B, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  6 18  5                        31  0  6  0
+
+Philadelphia     200 004 000 --  6
+Montreal         000 000 000 --  0
+
+  Philadelphia         IP  H  R ER BB SO
+Wolf R (W)            9.0  6  0  0  2  5
+
+  Montreal             IP  H  R ER BB SO
+Ohka T (L)            5.0  8  2  2  1  3
+Mota G*               0.0  3  3  3  0  0
+Eischen J             1.0  4  1  1  0  0
+Lloyd G               1.0  0  0  0  0  1
+Cubillan D            1.0  1  0  0  0  1
+Munoz B               1.0  2  0  0  0  1
+  * Pitched to 3 batters in 6th
+
+DP -- Philadelphia 2, Montreal 3
+LOB -- Philadelphia 10, Montreal 6
+2B -- Jones T, Perez T 2, Barrett M, Glanville D, Blum G
+HR -- Rollins J
+SB -- Hunter B
+HBP -- by Ohka T (Rolen S)
+T -- 2:32
+A -- 5650
+     Game of 9/9/2001 -- Philadelphia at Montreal (D)
+
+  Philadelphia       AB  R  H RBI    Montreal           AB  R  H RBI
+Rollins J, ss         4  3  2  1   Jones T, lf           4  0  0  0   
+Anderson M, 2b        4  2  0  0   Vidro J, 2b           4  0  1  1   
+Abreu B, rf           5  3  1  2   Guerrero V, rf        2  0  1  1   
+Rolen S, 3b           4  1  2  4   Smith M, rf           1  0  0  0   
+Perez T, 3b           1  0  0  0   Cabrera O, ss         4  1  1  1   
+Lee T, 1b             3  0  2  0   Barrett M, c          3  1  1  0   
+Valent E, lf          2  0  0  0   Scanlan B, p          0  0  0  0   
+Crespo F, ph-lf       2  0  0  2   Reames B, p           0  0  0  0   
+Glanville D, cf       3  2  1  0   Knorr R, ph           1  0  0  0   
+Estrada J, c          3  1  1  2   Stevens L, 1b         4  0  2  0   
+Daal O, p             0  0  0  0   Mordecai M, 3b        2  0  0  1   
+Jordan K, ph          2  0  0  0   Bergeron P, cf        3  1  1  0   
+Politte C, p          1  0  0  0   Armas T, p            0  0  0  0   
+Cook D, p             0  0  0  0   Minor R, ph           0  1  0  0   
+Punto N, ph           1  0  1  0   Yoshii M, p           0  0  0  0   
+Wendell T, p          0  0  0  0   Lloyd G, p            0  0  0  0   
+Nickle D, p           0  0  0  0   Cubillan D, p         0  0  0  0   
+                                   Wilkerson B, ph       1  0  0  0   
+                                   Eischen J, p          0  0  0  0   
+                                   Mota G, p             0  0  0  0   
+                                   Schneider B, c        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35 12 10 11                        30  4  7  4
+
+Philadelphia     001 062 300 -- 12
+Montreal         012 100 000 --  4
+
+  Philadelphia         IP  H  R ER BB SO
+Daal O                4.0  6  4  4  1  1
+Politte C (W)         2.1  1  0  0  0  2
+Cook D                0.2  0  0  0  0  1
+Wendell T             1.0  0  0  0  0  1
+Nickle D              1.0  0  0  0  0  1
+
+  Montreal             IP  H  R ER BB SO
+Armas T               3.0  1  1  1  1  2
+Yoshii M              1.1  3  2  2  0  0
+Lloyd G (L)*          0.0  1  4  2  2  0
+Cubillan D            0.2  0  0  0  2  0
+Eischen J             0.1  2  2  2  0  0
+Mota G                0.2  0  0  0  2  0
+Scanlan B             2.0  2  3  3  4  0
+Reames B              1.0  1  0  0  0  1
+  * Pitched to 5 batters in 5th
+
+E -- Vidro J, Jones T
+DP -- Philadelphia 1
+LOB -- Philadelphia 12, Montreal 2
+2B -- Estrada J, Rollins J, Abreu B, Rolen S, Lee T
+3B -- Bergeron P, Barrett M
+HR -- Cabrera O
+SB -- Glanville D, Rolen S, Abreu B, Rollins J
+SH -- Daal O
+SF -- Guerrero V, Mordecai M, Crespo F 2
+HBP -- by Lloyd G (Anderson M), by Scanlan B (Anderson M)
+WP -- Mota G
+T -- 3:13
+A -- 5480
+     Game of 9/17/2001 -- Florida at Montreal (N)
+
+  Florida            AB  R  H RBI    Montreal           AB  R  H RBI
+Castillo L, 2b        5  1  1  2   Raines T, lf          3  1  1  1   
+Lee D, 1b             6  1  2  1   Reames B, p           0  0  0  0   
+Floyd C, lf           5  1  3  0   Mota G, p             0  0  0  0   
+Wilson P, cf          5  1  2  2   Eischen J, p          0  0  0  0   
+Lowell M, 3b          4  2  2  1   Schneider B, ph       1  0  0  0   
+Millar K, rf          4  2  2  1   Cubillan D, p         0  0  0  0   
+Owens E, rf           1  0  0  0   Munoz B, p            0  0  0  0   
+Johnson C, c          5  1  2  2   Jones T, ph           1  0  0  0   
+Gonzalez A, ss        5  1  4  1   Vidro J, 2b           4  1  2  1   
+Dempster R, p         2  0  0  0   Guerrero V, rf        4  1  1  0   
+Bones R, p            0  0  0  0   Cabrera O, ss         4  0  1  3   
+Fox A, ph             1  0  0  0   Blum G, 3b            4  0  2  0   
+Nunez V, p            1  0  0  0   Stevens L, 1b         4  1  1  0   
+Mabry J, ph           1  0  0  0   Barrett M, c          4  0  0  0   
+Acevedo J, p          0  0  0  0   Bergeron P, cf        4  1  1  1   
+                                   Vazquez J, p          0  0  0  0   
+                                   Wilkerson B, pr-lf    1  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     45 10 18 10                        34  6  9  6
+
+Florida          000 008 200 -- 10
+Montreal         000 060 000 --  6
+
+  Florida              IP  H  R ER BB SO
+Dempster R            4.1  8  6  6  0  2
+Bones R (W)           0.2  0  0  0  0  0
+Nunez V               3.0  1  0  0  0  4
+Acevedo J             1.0  0  0  0  1  0
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J             5.0  4  0  0  0  2
+Reames B*             0.0  6  6  6  0  0
+Mota G (L)            0.1  3  2  2  0  0
+Eischen J             1.2  2  2  2  1  3
+Cubillan D            1.0  2  0  0  0  0
+Munoz B               1.0  1  0  0  1  1
+  * Pitched to 6 batters in 6th
+
+E -- Gonzalez A
+DP -- Florida 2
+LOB -- Florida 10, Montreal 4
+2B -- Lowell M, Cabrera O, Wilson P, Millar K 2, Johnson C
+3B -- Bergeron P, Castillo L
+SH -- Vazquez J
+HBP -- by Dempster R (Vazquez J)
+WP -- Eischen J
+T -- 3:03
+A -- 3013
+     Game of 9/18/2001 -- Florida at Montreal (N)
+
+  Florida            AB  R  H RBI    Montreal           AB  R  H RBI
+Castillo L, 2b        4  0  0  0   Bergeron P, cf        4  0  1  0   
+Lee D, 1b             4  0  1  0   Vidro J, 2b           4  0  1  0   
+Floyd C, lf           4  1  1  1   Guerrero V, rf        4  0  4  0   
+Wilson P, cf          3  2  2  2   Cabrera O, ss         4  0  0  0   
+Lowell M, 3b          4  0  2  0   Blum G, 3b            4  0  1  0   
+Millar K, rf          3  0  0  0   Stevens L, 1b         4  0  0  0   
+Owens E, rf           1  0  0  0   Barrett M, c          4  1  1  0   
+Johnson C, c          3  0  0  0   Wilkerson B, lf       4  0  2  1   
+Gonzalez A, ss        3  0  1  0   Thurman M, p          2  0  0  0   
+Penny B, p            2  0  0  0   Raines T, ph          1  0  0  0   
+Berg D, ph            1  0  0  0   Lloyd G, p            0  0  0  0   
+Looper B, p           0  0  0  0   Strickland S, p       0  0  0  0   
+Alfonseca A, p        0  0  0  0   Mordecai M, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  7  3                        36  1 10  1
+
+Florida          010 001 001 --  3
+Montreal         000 000 001 --  1
+
+  Florida              IP  H  R ER BB SO
+Penny B (W)           7.0  7  0  0  0  6
+Looper B              1.0  1  0  0  0  0
+Alfonseca A (S)       1.0  2  1  1  0  1
+
+  Montreal             IP  H  R ER BB SO
+Thurman M (L)         7.0  5  2  2  1  5
+Lloyd G               1.0  1  0  0  0  1
+Strickland S          1.0  1  1  1  0  3
+
+E -- Johnson C
+DP -- Montreal 2
+LOB -- Florida 4, Montreal 8
+2B -- Gonzalez A, Guerrero V
+HR -- Wilson P 2, Floyd C
+SB -- Bergeron P
+CS -- Blum G
+HBP -- by Thurman M (Wilson P)
+WP -- Alfonseca A
+T -- 2:22
+A -- 2917
+     Game of 9/19/2001 -- Florida at Montreal (N)
+
+  Florida            AB  R  H RBI    Montreal           AB  R  H RBI
+Castillo L, 2b        4  0  0  0   Bergeron P, cf        2  2  0  0   
+Lee D, 1b             4  1  1  0   Vidro J, 2b           4  2  3  2   
+Floyd C, lf           4  0  2  0   Guerrero V, rf        3  1  1  2   
+Wilson P, cf          3  0  1  0   Cabrera O, ss         4  0  1  0   
+Lowell M, 3b          4  0  1  1   Blum G, 3b            3  0  1  1   
+Millar K, rf          3  0  0  0   Stevens L, 1b         4  0  0  0   
+Johnson C, c          4  0  0  0   Schneider B, c        3  0  0  0   
+Gonzalez A, ss        4  1  1  1   Wilkerson B, lf       4  0  1  0   
+Beckett J, p          2  0  1  0   Pavano C, p           3  0  0  0   
+Fox A, ph             0  0  0  0   Stewart S, p          0  0  0  0   
+Sanchez J, p          0  0  0  0   Reames B, p           0  0  0  0   
+Acevedo J, p          0  0  0  0   Mordecai M, ph        1  0  0  0   
+Darensbourg V, p      0  0  0  0   Strickland S, p       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        31  5  7  5
+
+Florida          100 000 100 --  2
+Montreal         000 030 20x --  5
+
+  Florida              IP  H  R ER BB SO
+Beckett J (L)         6.0  5  3  3  3  7
+Sanchez J*            0.0  1  2  2  1  0
+Acevedo J             0.2  1  0  0  0  0
+Darensbourg V         1.1  0  0  0  0  1
+
+  Montreal             IP  H  R ER BB SO
+Pavano C (W)          7.1  6  2  2  3  8
+Stewart S             0.1  1  0  0  0  1
+Reames B              0.1  0  0  0  0  0
+Strickland S (S)      1.0  0  0  0  0  2
+  * Pitched to 2 batters in 7th
+
+E -- Johnson C
+DP -- Montreal 2
+LOB -- Florida 6, Montreal 7
+2B -- Vidro J 3, Wilkerson B, Blum G
+HR -- Guerrero V, Gonzalez A
+SB -- Cabrera O, Guerrero V, Wilson P
+HBP -- by Beckett J (Bergeron P)
+WP -- Beckett J
+T -- 2:37
+A -- 2887
+     Game of 9/20/2001 -- Colorado at Montreal (N)
+
+  Colorado           AB  R  H RBI    Montreal           AB  R  H RBI
+Pierre J, cf          4  1  2  0   Bergeron P, cf        4  2  1  1   
+Butler B, 2b          4  0  2  1   Vidro J, 2b           5  0  1  0   
+Helton T, 1b          4  0  0  1   Guerrero V, rf        4  2  2  0   
+Cirillo J, 3b         4  1  1  1   Cabrera O, ss         5  1  3  5   
+Shumpert T, lf        3  0  1  0   Blum G, 3b            3  1  0  0   
+Ochoa A, ph           1  0  0  0   Stevens L, 1b         4  0  1  2   
+Uribe J, ss           4  0  1  0   Barrett M, c          5  0  2  0   
+Encarnacion M, rf     4  0  0  0   Wilkerson B, lf       3  0  1  0   
+Petrick B, c          2  1  1  0   Ohka T, p             1  1  0  0   
+Chacon S, p           2  0  0  0   Schneider B, ph       0  0  0  0   
+Norton G, ph          1  0  0  0   Reames B, p           0  0  0  0   
+Davis K, p            0  0  0  0   Lloyd G, p            0  0  0  0   
+Myers M, p            0  0  0  0   Raines T, ph          1  1  0  0   
+Powell J, p           0  0  0  0   Stewart S, p          0  0  0  0   
+Miceli D, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  3                        35  8 11  8
+
+Colorado         000 101 100 --  3
+Montreal         110 000 15x --  8
+
+  Colorado             IP  H  R ER BB SO
+Chacon S              6.0  6  2  2  4  4
+Davis K               0.2  2  1  1  0  0
+Myers M*              0.0  0  0  0  1  0
+Powell J (L)          1.0  3  5  0  2  0
+Miceli D              0.1  0  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Ohka T                6.0  4  2  1  0  4
+Reames B              0.1  3  1  1  1  0
+Lloyd G (W)           1.2  1  0  0  0  2
+Stewart S             1.0  0  0  0  0  2
+  * Pitched to 1 batter in 7th
+
+E -- Cabrera O, Uribe J
+DP -- Montreal 2
+LOB -- Colorado 4, Montreal 11
+2B -- Cabrera O 2, Petrick B, Uribe J, Guerrero V, Butler B, Stevens L
+HR -- Cirillo J
+SH -- Ohka T
+WP -- Chacon S 2
+PB -- Petrick B
+T -- 3:00
+A -- 3037
+     Game of 9/21/2001 -- Colorado at Montreal (N)
+
+  Colorado           AB  R  H RBI    Montreal           AB  R  H RBI
+Pierre J, cf          5  2  2  2   Bergeron P, cf        6  0  0  0   
+Butler B, ss          5  2  3  2   Vidro J, 2b           6  2  3  0   
+Walker L, rf          4  2  2  0   Guerrero V, rf        5  1  0  0   
+Helton T, 1b          3  1  2  1   Cabrera O, ss         5  3  2  2   
+Cirillo J, 3b         5  0  1  2   Blum G, 3b            6  2  4  4   
+Ochoa A, lf           4  1  1  3   Stevens L, 1b         3  0  2  1   
+Speier J, p           0  0  0  0   Barrett M, c          5  1  1  0   
+Jimenez J, p          0  0  0  0   Wilkerson B, lf       1  0  0  0   
+Shumpert T, ph        1  0  0  0   Smith M, ph           1  0  0  0   
+Davis K, p            1  0  0  0   Cubillan D, p         0  0  0  0   
+Ortiz J, 2b           6  1  1  0   Eischen J, p          0  0  0  0   
+Bennett G, c          4  1  1  0   Reames B, p           0  0  0  0   
+Jennings J, p         2  0  1  0   Stewart S, p          0  0  0  0   
+White G, p            0  0  0  0   Raines T, ph          1  0  1  0   
+Nichting C, p         0  1  0  0   Strickland S, p       0  0  0  0   
+Encarnacion M, lf     0  0  0  0   Schneider B, ph       1  0  0  0   
+Norton G, ph          1  0  0  0   Mota G, p             0  0  0  0   
+Cruz J, lf            1  0  0  0   Armas T, p            2  0  0  1   
+                                   Jones T, lf           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42 11 14 10                        45  9 13  8
+
+Colorado         203 012 010 02 -- 11
+Montreal         010 430 001 00 --  9
+
+  Colorado             IP  H  R ER BB SO
+Jennings J            4.1  6  7  6  2  3
+White G               0.1  2  1  1  0  1
+Nichting C            1.1  0  0  0  0  0
+Speier J              2.0  2  0  0  0  2
+Jimenez J             1.0  2  1  1  1  2
+Davis K (W)           2.0  1  0  0  0  3
+
+  Montreal             IP  H  R ER BB SO
+Armas T               5.0  8  6  6  2  1
+Cubillan D            0.1  1  2  1  0  1
+Eischen J             1.2  1  0  0  0  0
+Reames B              0.2  1  1  1  0  0
+Stewart S             0.1  1  0  0  0  0
+Strickland S          2.0  0  0  0  1  3
+Mota G (L)            1.0  2  2  2  3  2
+
+E -- Ortiz J
+DP -- Montreal 1
+LOB -- Colorado 8, Montreal 8
+2B -- Walker L, Jennings J, Cabrera O 2, Butler B 2, Vidro J, Barrett M, Stevens L
+3B -- Pierre J
+HR -- Ochoa A, Blum G
+SB -- Blum G
+CS -- Pierre J
+SH -- Nichting C, Bennett G
+SF -- Butler B, Stevens L
+HBP -- by Armas T (Helton T), by Jennings J (Cabrera O)
+WP -- Davis K
+Balk -- Speier J
+PB -- Barrett M
+T -- 4:10
+A -- 10510
+     Game of 9/22/2001 -- Colorado at Montreal (N)
+
+  Colorado           AB  R  H RBI    Montreal           AB  R  H RBI
+Pierre J, cf          4  0  0  0   Bergeron P, cf        4  0  0  0   
+Butler B, ss          4  0  0  0   Vidro J, 2b           3  0  0  0   
+Walker L, rf          4  0  2  0   Guerrero V, rf        3  0  0  0   
+Helton T, 1b          4  0  1  0   Cabrera O, ss         3  0  0  0   
+Cirillo J, 3b         4  0  1  0   Blum G, 3b            3  0  0  0   
+Ochoa A, lf           4  0  0  0   Stevens L, 1b         2  1  0  0   
+Ortiz J, 2b           3  1  1  1   Schneider B, c        3  2  2  2   
+Norton G, ph          1  0  0  0   Wilkerson B, lf       2  0  0  0   
+Bennett G, c          3  0  1  0   Smith M, ph-lf        1  0  1  0   
+Elarton S, p          2  0  0  0   Yoshii M, p           1  0  0  0   
+Shumpert T, ph        0  0  0  0   Jones T, ph           1  0  0  0   
+Myers M, p            0  0  0  0   Munoz B, p            0  0  0  0   
+Powell J, p           0  0  0  0   Lloyd G, p            0  0  0  0   
+                                   Strickland S, p       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        26  3  3  2
+
+Colorado         001 000 000 --  1
+Montreal         000 020 01x --  3
+
+  Colorado             IP  H  R ER BB SO
+Elarton S (L)         7.0  1  2  2  1  2
+Myers M               0.1  1  1  1  0  0
+Powell J              0.2  1  0  0  1  0
+
+  Montreal             IP  H  R ER BB SO
+Yoshii M (W)          6.0  4  1  1  0  5
+Munoz B               1.1  0  0  0  1  2
+Lloyd G               1.0  1  0  0  0  0
+Strickland S (S)      0.2  1  0  0  0  1
+
+LOB -- Colorado 6, Montreal 1
+2B -- Schneider B
+HR -- Ortiz J, Schneider B
+T -- 2:28
+A -- 9707
+     Game of 9/23/2001 -- Colorado at Montreal (D)
+
+  Colorado           AB  R  H RBI    Montreal           AB  R  H RBI
+Pierre J, cf          5  2  2  0   Jones T, cf-lf        4  1  1  0   
+Ortiz J, 2b           5  1  1  2   Vidro J, 2b           4  1  2  0   
+Walker L, rf          2  1  1  1   Guerrero V, rf        3  0  0  0   
+Helton T, 1b          4  0  2  1   Cabrera O, ss         3  0  1  2   
+Cirillo J, 3b         5  0  2  1   Blum G, 3b            4  0  0  0   
+Uribe J, ss           5  0  0  0   Stevens L, 1b         3  1  0  0   
+Encarnacion M, lf     5  0  1  0   Smith M, lf           3  0  0  0   
+Petrick B, c          4  0  1  0   Bergeron P, cf        1  0  0  0   
+Neagle D, p           3  1  1  0   Barrett M, c          4  0  3  0   
+Nichting C, p         0  0  0  0   Thurman M, p          1  0  0  0   
+Belitz T, p           0  0  0  0   Minor R, ph           0  0  0  1   
+Shumpert T, ph        1  0  0  0   Cubillan D, p         0  0  0  0   
+Speier J, p           0  0  0  0   Eischen J, p          0  0  0  0   
+Jimenez J, p          0  0  0  0   Reames B, p           0  0  0  0   
+                                   Raines T, ph          1  0  1  0   
+                                   Stewart S, p          0  0  0  0   
+                                   Lloyd G, p            0  0  0  0   
+                                   Schneider B, ph       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  5 11  5                        32  3  8  3
+
+Colorado         000 020 003 --  5
+Montreal         100 011 000 --  3
+
+  Colorado             IP  H  R ER BB SO
+Neagle D              6.0  5  3  3  2  4
+Nichting C            0.1  2  0  0  0  1
+Belitz T              0.2  0  0  0  0  0
+Speier J (W)          1.0  0  0  0  0  0
+Jimenez J (S)         1.0  1  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Thurman M             5.0  5  2  2  3  6
+Cubillan D            0.1  1  0  0  0  0
+Eischen J             1.1  1  0  0  0  0
+Reames B              0.1  0  0  0  0  0
+Stewart S (L)*        1.0  3  3  3  0  1
+Lloyd G               1.0  1  0  0  0  1
+  * Pitched to 3 batters in 9th
+
+E -- Cabrera O
+DP -- Colorado 1
+LOB -- Colorado 11, Montreal 6
+2B -- Neagle D, Barrett M, Jones T
+HR -- Ortiz J, Walker L
+SB -- Guerrero V, Vidro J
+SF -- Helton T, Minor R, Cabrera O
+WP -- Thurman M
+T -- 3:21
+A -- 9282
+     Game of 9/25/2001 -- New York at Montreal (N)
+
+  New York           AB  R  H RBI    Montreal           AB  R  H RBI
+Perez T, rf           4  0  1  0   Raines T, lf          3  0  0  0   
+Alfonzo E, 2b         4  0  0  0   Reames B, p           0  0  0  0   
+Piazza M, c           4  1  1  1   Vidro J, 2b           4  0  0  0   
+Shinjo T, lf          4  0  0  0   Guerrero V, rf        4  0  0  0   
+Zeile T, 1b           4  0  0  0   Cabrera O, ss         4  0  1  0   
+Payton J, cf          3  1  0  0   Blum G, 3b            3  0  1  0   
+Relaford D, 3b        4  0  2  1   Stevens L, 1b         3  0  0  0   
+Ventura R, 3b         0  0  0  0   Schneider B, c        3  0  1  0   
+Ordonez R, ss         2  0  0  0   Bergeron P, cf        3  0  0  0   
+Appier K, p           2  0  1  0   Pavano C, p           2  0  0  0   
+                                   Wilkerson B, ph-lf    1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        30  0  4  0
+
+New York         010 001 000 --  2
+Montreal         000 000 000 --  0
+
+  New York             IP  H  R ER BB SO
+Appier K (W)          9.0  4  0  0  1  3
+
+  Montreal             IP  H  R ER BB SO
+Pavano C (L)          8.0  5  2  2  2  7
+Reames B              1.0  0  0  0  0  2
+
+DP -- New York 1
+LOB -- New York 5, Montreal 4
+2B -- Relaford D, Cabrera O
+HR -- Piazza M
+SB -- Raines T
+CS -- Perez T
+HBP -- by Pavano C (Payton J)
+T -- 2:26
+A -- 4166
+     Game of 9/26/2001 -- New York at Montreal (N)
+
+  New York           AB  R  H RBI    Montreal           AB  R  H RBI
+Lawton M, rf          4  1  2  1   Mordecai M, 3b        4  1  1  0   
+Alfonzo E, 2b         3  1  0  0   Vidro J, 2b           4  1  3  0   
+Piazza M, c           1  0  0  0   Guerrero V, rf        4  0  1  1   
+Wilson V, c           4  1  1  0   Cabrera O, ss         4  0  1  0   
+Ventura R, 3b         3  0  1  0   Blum G, 1b            4  0  1  1   
+Shinjo T, lf          3  0  0  1   Smith M, lf           2  0  1  0   
+Zeile T, 1b           3  1  1  1   Jones T, ph           1  0  0  0   
+Payton J, cf          4  0  1  1   Barrett M, c          3  0  0  0   
+Ordonez R, ss         4  1  1  0   Schneider B, ph       1  0  0  0   
+Rusch G, p            2  0  0  1   Bergeron P, cf        4  0  0  0   
+White R, p            0  0  0  0   Armas T, p            2  0  1  0   
+McEwing J, ph         1  0  0  0   Cubillan D, p         0  0  0  0   
+Benitez A, p          0  0  0  0   Minor R, ph           1  0  0  0   
+                                   Mota G, p             0  0  0  0   
+                                   Eischen J, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  7  5                        34  2  9  2
+
+New York         201 002 000 --  5
+Montreal         100 000 010 --  2
+
+  New York             IP  H  R ER BB SO
+Rusch G (W)           7.2  8  2  2  1  5
+White R               0.1  1  0  0  0  0
+Benitez A (S)         1.0  0  0  0  0  2
+
+  Montreal             IP  H  R ER BB SO
+Armas T (L)           6.0  7  5  5  5  6
+Cubillan D            1.0  0  0  0  0  1
+Mota G                1.0  0  0  0  0  2
+Eischen J             1.0  0  0  0  1  1
+
+E -- Alfonzo E, Ordonez R
+DP -- New York 1, Montreal 1
+LOB -- New York 7, Montreal 6
+2B -- Mordecai M, Zeile T, Smith M, Cabrera O
+SH -- Rusch G
+WP -- Armas T
+T -- 2:41
+A -- 5314
+     Game of 9/27/2001 -- New York at Montreal (N)
+
+  New York           AB  R  H RBI    Montreal           AB  R  H RBI
+Lawton M, rf          5  1  3  1   Mordecai M, 3b        5  0  1  1   
+Alfonzo E, 2b         5  1  1  0   Vidro J, 2b           4  1  1  0   
+Ventura R, 3b         4  0  1  2   Guerrero V, rf        3  1  1  0   
+Shinjo T, lf          6  1  2  1   Cabrera O, ss         4  1  2  2   
+Zeile T, 1b           4  1  2  0   Smith M, cf           1  1  0  1   
+Toca J, 1b            1  1  1  0   Eischen J, p          0  0  0  0   
+Payton J, cf          5  2  2  0   Stewart S, p          0  0  0  0   
+Wilson V, c           2  0  0  0   Reames B, p           0  0  0  0   
+Johnson M, ph         1  0  1  2   Raines T, ph          1  0  0  0   
+Roberts G, p          0  0  0  0   Strickland S, p       0  0  0  0   
+White R, p            0  0  0  0   Lloyd G, p            0  0  0  0   
+Perez T, ph           1  0  1  0   Cubillan D, p         0  0  0  0   
+Franco J, p           0  0  0  0   Stevens L, 1b         4  1  1  2   
+Piazza M, ph          1  0  1  3   Blum G, lf            4  1  1  0   
+Wall D, pr            0  1  0  0   Barrett M, c          4  0  1  0   
+Riggan J, p           0  0  0  0   Ohka T, p             2  0  1  0   
+Ordonez R, ss         2  0  1  0   Bergeron P, cf        2  0  1  0   
+Gonzalez D, p         0  0  0  0                                      
+Harris L, ph          0  0  0  0                                      
+McEwing J, ph         1  0  0  0                                      
+Phillips J, c         2  1  0  0                                      
+Chen B, p             1  0  0  0                                      
+Relaford D, ss        4  3  3  3                                      
+                     -- -- -- --                        -- -- -- --
+                     45 12 19 12                        34  6 10  6
+
+New York         002 002 125 -- 12
+Montreal         213 000 000 --  6
+
+  New York             IP  H  R ER BB SO
+Chen B                3.0  8  6  5  2  2
+Gonzalez D            2.0  0  0  0  0  2
+Roberts G             1.0  0  0  0  0  1
+White R (W)           1.0  1  0  0  1  1
+Franco J              1.0  0  0  0  0  0
+Riggan J              1.0  1  0  0  0  0
+
+  Montreal             IP  H  R ER BB SO
+Ohka T                5.2  9  4  4  1  2
+Eischen J             0.1  0  0  0  0  1
+Stewart S*            0.0  2  1  1  0  0
+Reames B              1.0  1  0  0  1  1
+Strickland S (L)      0.2  2  2  2  0  1
+Lloyd G+              0.1  3  4  3  0  1
+Cubillan D            1.0  2  1  1  1  2
+  * Pitched to 2 batters in 7th
+  + Pitched to 4 batters in 9th
+
+E -- Ventura R, Vidro J
+DP -- New York 1, Montreal 1
+LOB -- New York 10, Montreal 5
+2B -- Alfonzo E, Lawton M 2, Ventura R, Barrett M, Payton J 2, Johnson M, Relaford D 2, Vidro J, Piazza M
+HR -- Cabrera O, Stevens L, Relaford D
+SB -- Lawton M 2
+CS -- Cabrera O
+SF -- Smith M
+HBP -- by Strickland S (Lawton M)
+T -- 3:31
+A -- 6968
+

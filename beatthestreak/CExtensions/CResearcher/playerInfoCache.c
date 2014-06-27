@@ -2,10 +2,8 @@
 #include <stdio.h>
 #include "Python.h" // comment out to compile with gcc
 #include "playerInfoCache.h"
+#include "config.h" // pInfoDir
 
-#define pInfoDir "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak\
-/datasets/playerInfo"
-// #define pInfoDir "/home/vagrant/programming/Python/beatthestreak/datasets/playerInfo"
 #define MAXLINE 40 // much more than we need for adding player Data
 
 int playerInfoCacheYear = -1; /* year for which we are maintaining a buffer */

@@ -1,0 +1,3276 @@
+     Game of 4/2/2001 -- Boston at Baltimore (D)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Stynes C, 2b          5  0  1  0   Anderson B, rf        5  0  1  1   
+Nixon T, rf           3  1  1  1   Bordick M, ss         3  0  1  1   
+Varitek J, c          4  0  1  0   DeShields D, lf       3  0  0  0   
+Ramirez M, dh         3  0  1  0   Segui D, 1b           4  0  1  0   
+Lewis D, pr           2  0  0  0   Richard C, dh         4  0  0  0   
+Everett C, cf         4  0  0  0   Ripken C, 3b          4  0  0  0   
+O'Leary T, lf         4  0  0  0   Mora M, cf            3  0  0  0   
+Hillenbrand S, 3b     4  0  1  0   Fordyce B, c          4  0  0  0   
+Daubach B, 1b         4  0  0  0   Hairston J, 2b        4  2  3  0   
+Grebeck C, ss         3  0  0  0                                      
+Hatteberg S, ph       1  0  0  0                                      
+Lansing M, ss         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  1  5  1                        34  2  6  2
+
+Boston           000 100 000 00 --  1
+Baltimore        000 001 000 01 --  2
+  0 outs when winning run was scored.
+
+  Boston               IP  H  R ER BB SO
+Martinez P            7.0  4  1  1  1  6
+Beck R                2.0  0  0  0  1  2
+Lowe D (L)            1.0  2  1  1  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Hentgen P             8.2  4  1  1  1  6
+Groom B               1.1  0  0  0  0  1
+Kohlmeier R (W)       1.0  1  0  0  1  1
+
+DP -- Boston 1
+LOB -- Boston 6, Baltimore 5
+2B -- Hairston J 2
+HR -- Nixon T
+SB -- DeShields D 2, Hairston J
+SH -- Nixon T
+HBP -- by Martinez P (Mora M)
+WP -- Hentgen P
+T -- 2:52
+A -- 46547
+     Game of 4/4/2001 -- Boston at Baltimore (N)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Stynes C, 2b          4  0  1  0   Anderson B, lf        4  0  0  0   
+Lansing M, pr-2b      0  0  0  0   Bordick M, ss         4  0  0  0   
+Nixon T, rf           4  0  1  0   DeShields D, dh       2  0  0  0   
+Everett C, cf         3  0  0  0   Segui D, 1b           3  0  0  0   
+Ramirez M, dh         3  0  0  0   Richard C, rf         2  0  0  0   
+O'Leary T, lf         4  0  0  0   Mora M, cf            3  0  0  0   
+Varitek J, c          3  0  0  0   Ripken C, 3b          3  0  0  0   
+Hillenbrand S, 3b     4  1  1  0   Fordyce B, c          3  0  0  0   
+Daubach B, 1b         4  2  2  3   Hairston J, 2b        3  0  0  0   
+Grebeck C, ss         4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  5  3                        27  0  0  0
+
+Boston           002 000 010 --  3
+Baltimore        000 000 000 --  0
+
+  Boston               IP  H  R ER BB SO
+Nomo H (W)            9.0  0  0  0  3 11
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S (L)          7.1  4  3  2  1 10
+Ryan B                0.1  0  0  0  1  1
+Trombley M            0.1  0  0  0  1  1
+Roberts W             1.0  1  0  0  0  1
+
+E -- Hillenbrand S, Ripken C, Bordick M
+DP -- Baltimore 1
+LOB -- Boston 6, Baltimore 3
+2B -- Stynes C, Hillenbrand S
+HR -- Daubach B 2
+CS -- Nixon T
+WP -- Nomo H
+T -- 2:29
+A -- 35602
+     Game of 4/5/2001 -- Boston at Baltimore (N)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Nixon T, rf           4  0  0  0   Anderson B, rf        4  0  1  0   
+Offerman J, 2b-1b     4  1  2  0   Bordick M, ss         3  0  1  0   
+Everett C, cf         4  0  1  0   DeShields D, lf       3  1  0  0   
+Ramirez M, dh         4  0  1  0   Segui D, 1b           3  0  0  0   
+O'Leary T, lf         4  0  0  1   Conine J, dh          3  0  0  0   
+Varitek J, c          4  0  1  0   Mora M, cf            3  1  1  1   
+Hillenbrand S, 3b     4  0  1  0   Ripken C, 3b          3  0  1  1   
+Daubach B, 1b         2  0  0  0   Fordyce B, c          3  0  1  0   
+Bichette D, ph        1  0  0  0   Hairston J, 2b        2  0  1  0   
+Grebeck C, ss         0  0  0  0                                      
+Lansing M, ss-2b      4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  1  7  1                        27  2  6  2
+
+Boston           000 001 000 --  1
+Baltimore        000 010 001 --  2
+  2 outs when winning run was scored.
+
+  Boston               IP  H  R ER BB SO
+Castillo F            5.1  4  1  1  2  3
+Garces R              1.2  0  0  0  0  0
+Beck R                1.0  1  0  0  0  0
+Lowe D (L)            0.2  1  1  1  3  0
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J             8.1  7  1  1  1  6
+Groom B (W)           0.2  0  0  0  0  1
+
+DP -- Boston 4
+LOB -- Boston 8, Baltimore 5
+2B -- Bordick M, Lansing M, Mora M, Anderson B
+CS -- Hairston J
+HBP -- by Garces R (Bordick M)
+WP -- Castillo F, Johnson J
+PB -- Fordyce B
+T -- 2:54
+A -- 33469
+     Game of 4/13/2001 -- Tampa Bay at Baltimore (N)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Williams G, cf        4  0  0  0   Anderson B, cf        4  0  1  0   
+Cox S, dh             4  1  1  0   Bordick M, ss         2  0  1  0   
+Vaughn G, lf          3  1  1  2   DeShields D, lf       4  0  0  0   
+McGriff F, 1b         3  0  0  0   Segui D, 1b           3  0  0  0   
+Grieve B, rf          3  0  0  0   Gibbons J, dh         3  0  0  0   
+Huff A, 3b            3  0  0  0   Richard C, rf         4  0  0  0   
+Johnson R, 2b         3  0  1  0   Ripken C, 3b          4  0  1  0   
+Flaherty J, c         3  0  0  0   Fordyce B, c          2  0  0  0   
+Martinez F, ss        3  0  0  0   Hairston J, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  2  3  2                        29  0  3  0
+
+Tampa Bay        000 000 200 --  2
+Baltimore        000 000 000 --  0
+
+  Tampa Bay            IP  H  R ER BB SO
+Lopez A (W)           9.0  3  0  0  2  4
+
+  Baltimore            IP  H  R ER BB SO
+Hentgen P (L)         9.0  3  2  2  1 10
+
+DP -- Baltimore 1
+LOB -- Tampa Bay 1, Baltimore 7
+2B -- Johnson R, Bordick M
+HR -- Vaughn G
+SH -- Bordick M
+HBP -- by Lopez A (Bordick M), by Lopez A (Fordyce B)
+T -- 2:05
+A -- 34656
+     Game of 4/14/2001 -- Tampa Bay at Baltimore (D)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Williams G, cf        4  1  1  0   Anderson B, rf        3  0  0  1   
+Johnson R, 2b         4  1  1  2   Bordick M, ss         4  0  0  0   
+Vaughn G, lf          4  0  0  0   DeShields D, lf       3  1  1  0   
+McGriff F, 1b         4  0  1  0   Segui D, dh           2  2  1  0   
+Grieve B, dh          3  0  0  0   Richard C, 1b         4  1  2  0   
+Guillen J, rf         4  1  1  0   Myers G, c            4  1  1  2   
+Huff A, 3b            4  1  1  2   Ripken C, 3b          4  1  1  1   
+DiFelice M, c         3  0  0  0   Mora M, cf            4  0  2  1   
+Winn R, ph            1  1  1  1   Hairston J, 2b        3  0  1  1   
+Martinez F, ss        3  0  1  0                                      
+Cox S, ph             0  0  0  0                                      
+Rolls D, pr           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  5  7  5                        31  6  9  6
+
+Tampa Bay        200 200 001 --  5
+Baltimore        000 420 00x --  6
+
+  Tampa Bay            IP  H  R ER BB SO
+Wilson P              3.1  6  4  4  2  3
+Meacham R (L)         1.1  1  2  1  2  0
+Hill K                2.1  1  0  0  0  2
+Sturtze T             1.0  1  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+McElroy C             3.2  5  4  4  2  0
+Bale J (W)            2.1  1  0  0  1  0
+Trombley M            2.0  0  0  0  0  2
+Kohlmeier R (S)       1.0  1  1  1  1  2
+
+E -- Ripken C, McGriff F
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 7, Baltimore 6
+2B -- Williams G, Mora M
+HR -- Johnson R, Huff A, Winn R
+SB -- Williams G, Rolls D
+CS -- Richard C, Martinez F, Hairston J
+HBP -- by McElroy C (Grieve B), by Wilson P (Hairston J)
+T -- 3:01
+A -- 43621
+     Game of 4/15/2001 -- Tampa Bay at Baltimore (D)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Williams G, cf        5  1  3  1   Anderson B, rf        4  0  0  0   
+Cox S, 1b             5  0  0  0   Bordick M, ss         5  0  3  0   
+Vaughn G, lf          5  2  4  3   DeShields D, lf       3  0  0  0   
+McGriff F, dh         4  1  1  1   Kinkade M, ph-lf      1  0  0  0   
+Grieve B, rf          4  0  0  0   Richard C, 1b         3  1  1  0   
+Huff A, 3b            4  0  1  0   Ripken C, 3b          4  1  1  0   
+Johnson R, 2b         3  1  0  0   Gibbons J, dh         3  0  0  0   
+Flaherty J, c         4  2  2  2   Myers G, c            4  1  3  3   
+Martinez F, ss        4  0  2  0   Mora M, cf            4  0  0  0   
+                                   Hairston J, 2b        4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     38  7 13  7                        35  4  9  4
+
+Tampa Bay        300 000 211 --  7
+Baltimore        010 200 010 --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Rekar B               5.0  6  3  3  3  4
+Creek D (W)*          2.0  2  1  1  0  1
+Sturtze T             1.0  1  0  0  0  1
+Yan E (S)             1.0  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S (L)          7.0  9  5  5  1  3
+Ryan B                1.0  1  1  1  0  2
+Roberts W             1.0  3  1  1  0  1
+  * Pitched to 1 batter in 8th
+
+DP -- Tampa Bay 1, Baltimore 2
+LOB -- Tampa Bay 5, Baltimore 7
+2B -- Williams G, Bordick M, Martinez F
+HR -- Vaughn G 2, McGriff F, Myers G, Hairston J, Flaherty J
+T -- 2:38
+A -- 30441
+     Game of 4/16/2001 -- Tampa Bay at Baltimore (N)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Williams G, cf        4  1  1  0   Anderson B, rf        4  0  1  0   
+Cox S, dh             3  0  0  0   Bordick M, ss         3  1  0  1   
+Vaughn G, lf          2  0  1  1   DeShields D, lf       5  1  2  1   
+McGriff F, 1b         3  0  0  0   Richard C, 1b         4  0  0  0   
+Grieve B, rf          4  0  0  0   Myers G, dh           3  1  2  3   
+Huff A, 3b            3  0  0  0   Ripken C, 3b          4  0  0  0   
+Johnson R, 2b         2  0  0  0   Fordyce B, c          2  0  0  0   
+Flaherty J, c         3  1  1  0   Mora M, cf            4  1  2  0   
+Martinez F, ss        3  0  1  1   Hairston J, 2b        3  2  1  0   
+                     -- -- -- --                        -- -- -- --
+                     27  2  4  2                        32  6  8  5
+
+Tampa Bay        000 010 001 --  2
+Baltimore        010 010 31x --  6
+
+  Tampa Bay            IP  H  R ER BB SO
+Rupe R (L)            5.2  6  2  2  3  3
+Hill K                0.2  1  3  2  2  0
+Meacham R             0.2  0  0  0  0  0
+Judd M                1.0  1  1  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J (W)         6.0  3  1  1  2  3
+Groom B               1.0  0  0  0  0  1
+Trombley M            2.0  1  1  1  1  1
+
+E -- Hill K, Martinez F
+DP -- Baltimore 2
+LOB -- Tampa Bay 3, Baltimore 9
+2B -- Flaherty J, Mora M, Williams G
+HR -- Myers G
+SB -- Vaughn G, Hairston J, Anderson B
+CS -- Fordyce B, Vaughn G, Martinez F
+SF -- Bordick M, Vaughn G
+HBP -- by Johnson J (Cox S), by Hill K (Hairston J)
+WP -- Rupe R, Hill K 2, Meacham R
+T -- 2:53
+A -- 24558
+     Game of 4/17/2001 -- Cleveland at Baltimore (N)
+
+  Cleveland          AB  R  H RBI    Baltimore          AB  R  H RBI
+Lofton K, cf          5  0  2  0   Anderson B, rf        3  0  1  0   
+Vizquel O, ss         5  0  0  0   Bordick M, ss         4  0  0  0   
+Alomar R, 2b          3  1  1  0   DeShields D, lf       2  0  0  0   
+Cabrera J, ph-2b      0  0  0  0   Myers G, dh           3  0  0  0   
+Gonzalez J, rf        3  2  1  0   Ripken C, 3b          2  0  0  0   
+Cruz J, ph-rf         1  0  0  0   Kinkade M, ph-3b      2  0  1  0   
+Burks E, dh           4  2  1  0   Richard C, 1b         4  1  2  1   
+Thome J, 1b           4  0  1  2   Fordyce B, c          2  0  0  0   
+Cordero W, lf         3  1  1  1   Lunar F, ph-c         2  0  0  0   
+Branyan R, 3b         4  1  1  4   Mora M, cf            3  0  0  0   
+Diaz E, c             4  1  2  0   Hairston J, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  8 10  7                        30  1  4  1
+
+Cleveland        300 005 000 --  8
+Baltimore        010 000 000 --  1
+
+  Cleveland            IP  H  R ER BB SO
+Burba D (W)*          6.0  4  1  1  3  4
+Reed S                2.0  0  0  0  1  2
+Speier J              1.0  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J (L)+       5.0  6  5  5  3  3
+Ryan B                2.0  3  3  2  1  2
+Roberts W             1.0  0  0  0  0  1
+Kohlmeier R           1.0  1  0  0  1  2
+  * Pitched to 2 batters in 7th
+  + Pitched to 2 batters in 6th
+
+E -- Hairston J 2
+DP -- Cleveland 1, Baltimore 1
+LOB -- Cleveland 6, Baltimore 6
+2B -- Burks E
+HR -- Richard C, Branyan R
+T -- 3:02
+A -- 28679
+     Game of 4/18/2001 -- Cleveland at Baltimore (N)
+
+  Cleveland          AB  R  H RBI    Baltimore          AB  R  H RBI
+Lofton K, cf          4  1  1  0   Anderson B, cf        3  0  0  0   
+Vizquel O, ss         4  0  1  2   Bordick M, ss         4  0  0  0   
+Alomar R, 2b          3  0  0  0   DeShields D, lf       4  0  0  0   
+Gonzalez J, rf        4  1  1  0   Myers G, c            4  1  2  0   
+Thome J, 1b           3  1  0  0   Segui D, dh           3  0  0  0   
+Burks E, dh           3  0  0  0   Richard C, rf         4  0  1  1   
+Cordova M, lf         4  0  2  2   Gibbons J, 1b         4  0  1  0   
+Cabrera J, lf         0  0  0  0   Kinkade M, 3b         3  0  2  0   
+Branyan R, 3b         4  0  0  0   Hairston J, 2b        4  0  0  0   
+Diaz E, c             3  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  6  4                        33  1  6  1
+
+Cleveland        002 002 000 --  4
+Baltimore        000 000 001 --  1
+
+  Cleveland            IP  H  R ER BB SO
+Colon B (W)           8.0  4  0  0  2  6
+Wickman B             1.0  2  1  1  1  2
+
+  Baltimore            IP  H  R ER BB SO
+Hentgen P (L)         5.2  6  4  4  3  1
+Ryan B                1.1  0  0  0  0  0
+Paronto C             2.0  0  0  0  0  1
+
+E -- Branyan R
+DP -- Cleveland 1
+LOB -- Cleveland 4, Baltimore 8
+2B -- Richard C
+SB -- Lofton K, Vizquel O
+CS -- Cordova M
+T -- 2:58
+A -- 28801
+     Game of 4/19/2001 -- Cleveland at Baltimore (D)
+
+  Cleveland          AB  R  H RBI    Baltimore          AB  R  H RBI
+Lofton K, cf          6  1  1  0   Anderson B, rf        4  1  3  0   
+Cabrera J, ss         4  1  0  1   Hairston J, 2b        4  1  1  0   
+Alomar R, 2b          5  1  2  0   Bordick M, ss         3  0  0  1   
+Gonzalez J, rf        4  2  3  0   Gibbons J, ph         1  1  1  0   
+Cruz J, pr-rf         0  0  0  0   Conine J, dh          3  1  1  1   
+Burks E, lf           4  1  1  2   Segui D, 1b           1  0  0  0   
+Cordero W, 1b         5  2  3  2   Richard C, 1b         3  1  1  1   
+Cordova M, dh         5  2  3  4   Kinkade M, lf         4  0  1  2   
+Branyan R, 3b         2  0  0  0   Ripken C, 3b          3  0  1  0   
+Diaz E, c             5  1  1  2   Fordyce B, c          3  0  0  0   
+                                   Lunar F, c            1  0  0  0   
+                                   Mora M, cf            4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40 11 14 11                        34  5  9  5
+
+Cleveland        200 133 002 -- 11
+Baltimore        200 000 003 --  5
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        6.0  6  2  2  2  3
+Reed S                1.0  0  0  0  0  0
+Karsay S              1.0  0  0  0  0  0
+Shuey P               1.0  3  3  2  0  2
+
+  Baltimore            IP  H  R ER BB SO
+McElroy C (L)         4.1  7  5  4  2  1
+Paronto C             1.1  4  4  4  1  0
+Trombley M            1.1  0  0  0  1  1
+Groom B               1.0  1  0  0  0  1
+Kohlmeier R           1.0  2  2  2  0  2
+
+E -- Ripken C, Branyan R
+DP -- Cleveland 2, Baltimore 1
+LOB -- Cleveland 8, Baltimore 4
+2B -- Alomar R, Ripken C, Gonzalez J, Burks E, Cordero W, Kinkade M
+HR -- Cordova M 2, Diaz E
+SB -- Lofton K 3, Alomar R
+CS -- Conine J, Bordick M
+SF -- Burks E
+HBP -- by McElroy C (Branyan R)
+Balk -- Sabathia C
+PB -- Fordyce B 2
+T -- 3:04
+A -- 34100
+     Game of 4/30/2001 -- Tampa Bay at Baltimore (N)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Williams G, cf        4  0  0  0   Anderson B, rf        4  1  2  2   
+Johnson R, 2b-ss      4  0  0  0   Bordick M, ss         3  0  1  0   
+Grieve B, lf          4  2  2  0   DeShields D, lf       3  0  0  1   
+Vaughn G, dh          2  1  0  0   Richard C, 1b         3  0  1  0   
+McGriff F, 1b         4  0  2  1   Kinkade M, 3b         4  0  1  0   
+Castilla V, 3b        3  0  0  0   Gibbons J, dh         3  1  0  0   
+Guillen J, rf         3  0  1  2   Mora M, cf            4  1  1  2   
+Flaherty J, c         3  0  0  0   Fordyce B, c          3  1  0  0   
+Martinez F, ss        2  0  0  0   Hairston J, 2b        3  1  2  0   
+Rolls D, 2b           1  0  0  0                                      
+Cox S, ph             1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  5  3                        30  5  8  5
+
+Tampa Bay        000 201 000 --  3
+Baltimore        130 100 00x --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Wilson P (L)          6.1  6  5  4  4  4
+Creek D               0.2  1  0  0  0  1
+Yan E                 1.0  1  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Roberts W (W)         6.0  4  3  3  3  5
+Paronto C             2.0  1  0  0  0  2
+Kohlmeier R (S)       1.0  0  0  0  0  0
+
+E -- Martinez F
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 6, Baltimore 6
+2B -- Grieve B, McGriff F
+HR -- Anderson B, Mora M
+SB -- Anderson B
+SF -- DeShields D, Guillen J
+HBP -- by Roberts W (Castilla V)
+T -- 2:32
+A -- 28510
+     Game of 5/1/2001 -- Tampa Bay at Baltimore (N)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Williams G, cf        4  0  0  0   Anderson B, rf        4  0  1  1   
+Johnson R, ss         3  0  2  1   Bordick M, ss         4  0  0  0   
+Grieve B, lf          3  0  0  0   DeShields D, lf       4  0  0  0   
+Vaughn G, dh          3  0  0  0   Richard C, 1b         3  0  1  0   
+McGriff F, 1b         4  0  0  0   Ripken C, 3b          3  0  1  0   
+Castilla V, 3b        4  0  1  0   Gibbons J, dh         4  0  0  0   
+Guillen J, rf         4  0  1  0   Mora M, cf            2  1  1  0   
+DiFelice M, c         3  0  0  0   Fordyce B, c          2  0  0  0   
+Rolls D, 2b           3  1  0  0   Hairston J, 2b        3  2  2  2   
+                     -- -- -- --                        -- -- -- --
+                     31  1  4  1                        29  3  6  3
+
+Tampa Bay        000 001 000 --  1
+Baltimore        000 020 10x --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Rekar B (L)           6.2  4  3  3  4  3
+Meacham R             1.1  2  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J (W)         5.2  3  1  0  1  4
+Trombley M            2.1  1  0  0  2  3
+Kohlmeier R (S)       1.0  0  0  0  0  1
+
+E -- Ripken C
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 6, Baltimore 6
+2B -- Castilla V, Hairston J
+3B -- Johnson R
+HR -- Hairston J
+SB -- Mora M, Rolls D
+CS -- Guillen J
+T -- 2:43
+A -- 27208
+     Game of 5/2/2001 -- Tampa Bay at Baltimore (N)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Williams G, cf        4  3  2  0   Anderson B, rf        4  0  0  0   
+Rolls D, 2b           5  1  2  0   Mora M, ss            4  0  0  0   
+Grieve B, dh          5  1  4  5   DeShields D, lf       4  0  0  0   
+Vaughn G, lf          4  1  1  1   Conine J, 1b          4  0  1  0   
+Cox S, 1b             3  0  0  0   Richard C, cf         4  0  1  0   
+Castilla V, 3b        5  0  2  1   Ripken C, 3b          3  0  0  0   
+Guillen J, rf         4  0  2  0   Gibbons J, dh         3  1  2  1   
+Flaherty J, c         5  0  1  0   Lunar F, c            3  0  1  0   
+Martinez F, ss        4  1  1  0   Hairston J, 2b        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  7 15  7                        32  1  6  1
+
+Tampa Bay        100 110 103 --  7
+Baltimore        001 000 000 --  1
+
+  Tampa Bay            IP  H  R ER BB SO
+Rupe R (W)            5.0  4  1  1  0  2
+Sturtze T (S)         4.0  2  0  0  0  3
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J (L)        6.1 10  4  4  0  2
+Ryan B                0.1  1  0  0  1  0
+Towers J              1.1  1  0  0  0  0
+Julio J               1.0  3  3  3  2  2
+
+DP -- Tampa Bay 1, Baltimore 2
+LOB -- Tampa Bay 10, Baltimore 5
+2B -- Williams G
+HR -- Gibbons J, Grieve B
+SB -- Rolls D
+SF -- Vaughn G
+HBP -- by Mercedes J (Guillen J), by Sturtze T (Ripken C)
+T -- 2:40
+A -- 26615
+     Game of 5/3/2001 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Knoblauch C, lf       4  1  0  0   Anderson B, lf        4  1  1  0   
+Jeter D, ss           4  0  0  0   Mora M, cf            2  0  0  0   
+O'Neill P, rf         5  1  2  1   Gibbons J, ph         1  0  0  0   
+Williams B, cf        5  1  2  1   Bordick M, ss         4  0  1  0   
+Martinez T, 1b        3  0  1  1   Conine J, 1b          4  1  1  4   
+Justice D, dh         4  0  0  0   Kinkade M, dh         3  0  0  0   
+Soriano A, 2b         3  1  1  0   DeShields D, ph       1  0  1  0   
+Oliver J, c           3  1  1  1   Richard C, rf         4  1  1  0   
+Brosius S, 3b         3  2  1  2   Ripken C, 3b          4  0  0  0   
+                                   Fordyce B, c          3  1  1  0   
+                                   Myers G, ph           1  0  0  0   
+                                   Hairston J, 2b        3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  7  8  6                        34  5  7  5
+
+New York         002 121 100 --  7
+Baltimore        010 040 000 --  5
+
+  New York             IP  H  R ER BB SO
+Lilly T               4.2  6  5  5  1  4
+Mendoza R (W)         2.2  1  0  0  0  2
+Rivera M (S)          1.2  0  0  0  1  2
+
+  Baltimore            IP  H  R ER BB SO
+McElroy C             5.0  6  5  5  2  2
+Paronto C (L)*        1.0  2  2  2  2  1
+Groom B               1.0  0  0  0  0  3
+Trombley M            2.0  0  0  0  0  2
+  * Pitched to 3 batters in 7th
+
+LOB -- New York 6, Baltimore 6
+2B -- Hairston J, Martinez T, O'Neill P, Soriano A
+HR -- Brosius S, Conine J
+SB -- Bordick M, Brosius S, Soriano A 2, Knoblauch C, DeShields D
+SF -- Oliver J
+HBP -- by Lilly T (Hairston J), by Mendoza R (Mora M), by Trombley M (Soriano A)
+WP -- Groom B
+Balk -- Lilly T
+PB -- Oliver J
+T -- 3:15
+A -- 40218
+     Game of 5/4/2001 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Knoblauch C, lf       5  0  1  1   Anderson B, rf        5  0  0  0   
+Jeter D, ss           3  2  2  0   Bordick M, ss         5  0  1  0   
+O'Neill P, rf         5  1  3  1   DeShields D, lf       4  1  1  0   
+Williams B, cf        3  1  1  1   Conine J, 3b          4  2  2  2   
+Martinez T, 1b        3  0  1  1   Richard C, 1b         3  0  0  0   
+Justice D, dh         4  0  0  0   Gibbons J, dh         4  1  0  0   
+Soriano A, ph         1  0  0  0   Mora M, cf            3  0  0  1   
+Posada J, c           5  0  1  1   Fordyce B, c          4  1  3  1   
+Sojo L, 2b            4  1  1  0   Kingsale E, pr        0  0  0  0   
+Brosius S, 3b         5  1  2  1   Hairston J, 2b        3  0  3  1   
+                     -- -- -- --                        -- -- -- --
+                     38  6 12  6                        35  5 10  5
+
+New York         101 001 210 --  6
+Baltimore        200 201 000 --  5
+
+  New York             IP  H  R ER BB SO
+Clemens R             5.2  9  5  4  1  6
+Stanton M (W)         2.0  0  0  0  0  2
+Rivera M (S)          1.1  1  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Hentgen P             6.0  8  3  3  4  3
+Groom B               1.0  3  2  1  0  1
+Paronto C (L)         0.1  1  1  1  1  0
+Ryan B                0.1  0  0  0  2  0
+Towers J              1.1  0  0  0  0  1
+
+E -- Posada J 2, Anderson B
+DP -- Baltimore 1
+LOB -- New York 12, Baltimore 6
+2B -- Jeter D, O'Neill P, Knoblauch C, Posada J
+3B -- O'Neill P
+HR -- Conine J, Brosius S
+SB -- Hairston J 2, Bordick M, Jeter D
+SH -- Hairston J
+SF -- Mora M
+WP -- Clemens R
+T -- 3:38
+A -- 43133
+     Game of 5/5/2001 -- New York at Baltimore (D)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Knoblauch C, lf       5  1  2  1   Kingsale E, cf        4  0  0  0   
+Jeter D, ss           5  1  2  1   Bordick M, ss         4  0  0  0   
+O'Neill P, rf         4  0  1  1   DeShields D, lf       3  0  0  0   
+Williams B, cf        3  0  0  0   Conine J, 1b          4  0  0  0   
+Martinez T, 1b        4  1  1  0   Ripken C, 3b          4  1  2  0   
+Justice D, dh         4  0  0  0   Kinkade M, dh         4  0  1  0   
+Posada J, c           2  0  0  0   Richard C, rf         4  0  1  0   
+Soriano A, 2b         4  1  1  0   Lunar F, c            3  0  0  0   
+Brosius S, 3b         3  1  1  1   Myers G, ph           1  0  0  0   
+                                   Hairston J, 2b        3  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     34  5  8  4                        34  2  6  1
+
+New York         004 000 010 --  5
+Baltimore        001 100 000 --  2
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        7.0  6  2  0  2  8
+Boehringer B (S)      2.0  0  0  0  0  4
+
+  Baltimore            IP  H  R ER BB SO
+Roberts W (L)         7.0  6  4  4  5  4
+McElroy C             0.1  1  1  1  1  1
+Mercedes J            0.2  1  0  0  0  1
+Kohlmeier R           1.0  0  0  0  0  1
+
+E -- Brosius S, Soriano A 2
+DP -- Baltimore 1
+LOB -- New York 8, Baltimore 7
+SB -- Jeter D, Kingsale E, Hairston J 2
+CS -- Richard C
+PB -- Posada J
+T -- 2:59
+A -- 47726
+     Game of 5/6/2001 -- New York at Baltimore (D)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Knoblauch C, dh       4  0  0  0   Anderson B, rf        4  1  1  0   
+Jeter D, ss           4  0  2  0   Bordick M, ss         3  0  2  1   
+O'Neill P, rf         4  0  0  0   DeShields D, lf       3  0  0  0   
+Williams B, cf        4  0  0  0   Conine J, 1b          3  0  1  0   
+Martinez T, 1b        4  1  1  0   Kingsale E, pr        0  0  0  0   
+Justice D, lf         4  0  2  0   Richard C, cf         4  0  0  0   
+Posada J, c           2  0  0  1   Gibbons J, dh         4  0  1  0   
+Sojo L, 2b            3  0  1  0   Ripken C, 3b          3  0  2  0   
+Brosius S, 3b         3  1  1  1   Fordyce B, c          3  0  0  0   
+                                   Hairston J, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        30  1  7  1
+
+New York         000 000 110 --  2
+Baltimore        001 000 000 --  1
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         7.0  6  1  1  2  3
+Stanton M             1.0  1  0  0  0  1
+Rivera M (S)          1.0  0  0  0  1  2
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J             7.0  6  1  1  0  3
+Trombley M (L)        1.0  1  1  1  0  1
+Groom B               1.0  0  0  0  0  1
+
+E -- Jeter D
+DP -- New York 2
+LOB -- New York 4, Baltimore 5
+2B -- Anderson B, Jeter D, Bordick M
+HR -- Brosius S
+SB -- Sojo L, Justice D
+CS -- Bordick M, Hairston J, Justice D, Kingsale E
+SF -- Posada J
+T -- 3:14
+A -- 47740
+     Game of 5/15/2001 -- Detroit at Baltimore (N)
+
+  Detroit            AB  R  H RBI    Baltimore          AB  R  H RBI
+Cedeno R, rf-cf       4  1  1  0   Anderson B, lf        2  1  0  0   
+Macias J, 3b          2  0  1  0   Bordick M, ss         4  1  2  2   
+Higginson B, lf       3  1  0  0   Richard C, rf         4  2  2  0   
+Clark T, 1b           4  0  2  3   Conine J, 3b          3  3  2  0   
+Halter S, ss          0  0  0  0   Myers G, dh           4  1  1  1   
+Palmer D, dh          4  0  0  0   Kinkade M, ph         1  0  1  0   
+Cruz D, ss            2  0  0  0   Segui D, 1b           4  1  1  3   
+Fick R, 1b            1  0  0  0   Mora M, cf            4  1  3  3   
+Encarnacion J, cf     3  0  0  0   Fordyce B, c          4  0  1  0   
+McMillon B, rf        1  0  0  0   Hairston J, 2b        5  1  2  2   
+Easley D, 2b          4  1  2  0                                      
+Inge B, c             3  0  0  0                                      
+Jackson R, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        35 11 15 11
+
+Detroit          000 030 000 --  3
+Baltimore        300 150 11x -- 11
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (L)*         4.0  7  7  7  4  0
+Murray H              3.0  5  3  3  4  2
+Miller M              1.0  3  1  1  1  0
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S (W)          5.0  6  3  3  3  8
+Paronto C             3.0  0  0  0  1  1
+Kohlmeier R           1.0  0  0  0  0  0
+  * Pitched to 3 batters in 5th
+
+E -- Inge B, Encarnacion J
+DP -- Detroit 3
+LOB -- Detroit 7, Baltimore 10
+2B -- Segui D, Easley D, Cedeno R, Clark T, Bordick M
+SB -- Anderson B
+CS -- Macias J, Hairston J
+HBP -- by Mlicki D (Conine J), by Paronto C (Cruz D)
+T -- 3:07
+A -- 33853
+     Game of 5/16/2001 -- Detroit at Baltimore (N)
+
+  Detroit            AB  R  H RBI    Baltimore          AB  R  H RBI
+Cedeno R, rf          5  0  1  0   DeShields D, lf       2  2  1  0   
+Macias J, 3b          5  0  0  0   Bordick M, ss         3  1  1  1   
+Higginson B, lf       4  1  2  1   Richard C, rf         4  0  0  0   
+Clark T, 1b           4  0  1  0   Myers G, dh           3  0  0  0   
+Jackson R, 1b         0  0  0  0   Segui D, 1b           3  0  1  2   
+Palmer D, dh          4  0  1  0   Ripken C, 3b          3  0  0  0   
+Cruz D, ss            3  0  1  0   Mora M, cf            3  0  0  0   
+Encarnacion J, cf     4  1  2  1   Fordyce B, c          3  0  0  0   
+Easley D, 2b          4  0  1  0   Hairston J, 2b        3  0  0  0   
+Inge B, c             3  0  1  0                                      
+Fick R, ph            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  2 10  2                        27  3  3  3
+
+Detroit          000 001 100 --  2
+Baltimore        200 010 00x --  3
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (L)          8.0  3  3  2  2  5
+
+  Baltimore            IP  H  R ER BB SO
+Hentgen P (W)         7.0  6  2  2  0  4
+Groom B               0.2  1  0  0  0  1
+Trombley M*           0.1  2  0  0  1  1
+Ryan B (S)            1.0  1  0  0  0  1
+  * Pitched to 1 batter in 9th
+
+E -- Hairston J, DeShields D
+DP -- Baltimore 1
+LOB -- Detroit 9, Baltimore 3
+2B -- Cruz D, Inge B, DeShields D
+HR -- Higginson B, Encarnacion J
+SB -- Bordick M
+HBP -- by Weaver J (Bordick M)
+WP -- Trombley M
+PB -- Inge B
+T -- 2:24
+A -- 27722
+     Game of 5/17/2001 -- Detroit at Baltimore (N)
+
+  Detroit            AB  R  H RBI    Baltimore          AB  R  H RBI
+Cedeno R, rf          5  1  1  1   Anderson B, rf        4  1  0  0   
+Fick R, c             4  1  3  4   Bordick M, ss         5  1  2  2   
+Inge B, pr-c          1  0  0  0   DeShields D, lf       4  1  1  1   
+Higginson B, lf       3  0  0  0   Myers G, dh           4  1  2  2   
+Clark T, 1b           4  0  0  0   Segui D, 1b           4  0  1  0   
+Jackson R, 1b         0  0  0  0   Richard C, cf         3  0  0  0   
+Palmer D, dh          3  0  1  0   Ripken C, 3b          4  0  1  0   
+Cruz D, ss            4  0  0  0   Fordyce B, c          4  0  0  0   
+Encarnacion J, cf     4  2  2  1   Hairston J, 2b        4  1  3  0   
+Easley D, 2b          2  2  1  0                                      
+Halter S, 3b          2  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     32  7  9  7                        36  5 10  5
+
+Detroit          003 030 001 --  7
+Baltimore        005 000 000 --  5
+
+  Detroit              IP  H  R ER BB SO
+Sparks S (W)          5.2  8  5  5  1  1
+Anderson M            1.1  1  0  0  0  1
+Patterson D           1.0  0  0  0  0  1
+Jones T (S)           1.0  1  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Roberts W (L)         6.0  7  6  6  1  5
+McElroy C             1.1  1  0  0  1  1
+Trombley M            1.2  1  1  1  2  0
+
+E -- Fordyce B, Halter S
+DP -- Detroit 2, Baltimore 2
+LOB -- Detroit 4, Baltimore 6
+2B -- Hairston J 2, Bordick M, DeShields D, Fick R
+HR -- Fick R, Myers G, Encarnacion J
+SB -- Encarnacion J
+SH -- Halter S 2
+HBP -- by Sparks S (Anderson B)
+PB -- Fick R
+T -- 2:52
+A -- 27508
+     Game of 5/18/2001 -- Minnesota at Baltimore (N)
+
+  Minnesota          AB  R  H RBI    Baltimore          AB  R  H RBI
+Guzman C, ss          4  0  0  0   Hairston J, 2b        3  1  1  2   
+Rivas L, 2b           4  1  1  0   Bordick M, ss         3  1  0  0   
+Lawton M, rf          4  0  1  0   Richard C, rf         3  1  1  0   
+Koskie C, 3b          4  0  1  1   Conine J, 1b          4  1  3  4   
+Mientkiewicz D, 1b    4  0  1  0   Segui D, dh           3  0  0  0   
+Buchanan B, dh        4  0  1  0   Mora M, cf            3  0  1  0   
+Jones J, lf           4  1  1  1   Ripken C, 3b          4  1  1  0   
+Hunter T, cf          2  0  0  0   Kinkade M, lf         4  2  2  1   
+Prince T, c           2  0  0  0   Anderson B, lf        0  0  0  0   
+                                   Fordyce B, c          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        31  7 10  7
+
+Minnesota        000 011 000 --  2
+Baltimore        005 200 00x --  7
+
+  Minnesota            IP  H  R ER BB SO
+Milton E (L)          3.1  6  7  7  2  3
+Santana J*            2.2  4  0  0  1  2
+Cressend J            2.0  0  0  0  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J (W)         7.2  5  2  2  0  2
+Groom B               1.1  1  0  0  0  0
+  * Pitched to 3 batters in 7th
+
+E -- Bordick M
+DP -- Minnesota 1, Baltimore 2
+LOB -- Minnesota 5, Baltimore 6
+2B -- Rivas L, Lawton M
+HR -- Kinkade M, Conine J, Jones J
+CS -- Fordyce B, Conine J
+HBP -- by Milton E (Bordick M), by Milton E (Richard C), by Johnson J (Hunter T), by Santana J (Segui D), by Johnson J (Prince T)
+T -- 2:44
+A -- 38558
+     Game of 5/19/2001 -- Minnesota at Baltimore (N)
+
+  Minnesota          AB  R  H RBI    Baltimore          AB  R  H RBI
+Guzman C, ss          5  2  3  0   Anderson B, rf-lf     4  0  1  0   
+Hocking D, dh         5  1  3  2   Bordick M, ss         4  1  1  1   
+Lawton M, rf          4  0  0  1   DeShields D, dh       4  1  0  0   
+Koskie C, 3b          5  1  1  1   Conine J, 3b          4  0  1  1   
+Mientkiewicz D, 1b    4  1  2  0   Segui D, 1b           3  0  0  0   
+Hunter T, cf          5  1  2  2   Richard C, cf-rf      4  1  1  1   
+Jones J, lf           5  0  1  0   Gibbons J, lf         2  0  0  0   
+Rivas L, 2b           3  0  1  1   Mora M, ph-cf         2  0  0  0   
+Pierzynski A, c       4  1  1  0   Fordyce B, c          2  1  1  0   
+                                   Myers G, ph           1  0  0  0   
+                                   Hairston J, 2b        3  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     40  7 14  7                        33  5  6  5
+
+Minnesota        000 020 401 --  7
+Baltimore        000 130 010 --  5
+
+  Minnesota            IP  H  R ER BB SO
+Mays J (W)            6.0  3  4  4  1  2
+Guardado E            1.2  2  1  0  1  0
+Wells B               0.1  1  0  0  0  0
+Hawkins L (S)         1.0  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J            5.0  7  2  2  3  4
+Ryan B (L)            2.0  6  4  4  0  2
+Paronto C             1.0  0  0  0  0  0
+Groom B               1.0  1  1  1  0  1
+
+E -- Rivas L
+DP -- Baltimore 1
+LOB -- Minnesota 9, Baltimore 3
+2B -- Guzman C, Hocking D
+HR -- Bordick M, Richard C, Hairston J, Hunter T
+SB -- Hunter T, Jones J
+T -- 3:04
+A -- 40041
+     Game of 5/20/2001 -- Minnesota at Baltimore (D)
+
+  Minnesota          AB  R  H RBI    Baltimore          AB  R  H RBI
+Guzman C, ss          4  0  0  0   Hairston J, 2b        4  0  0  0   
+Hocking D, dh         4  0  0  0   Bordick M, ss         4  1  1  0   
+Koskie C, 3b          4  0  0  0   Richard C, rf         3  0  0  0   
+Mientkiewicz D, 1b    4  0  1  0   Conine J, 1b          4  1  1  1   
+Hunter T, cf          4  0  0  0   Segui D, dh           2  0  0  0   
+Jones J, lf           3  1  1  0   Anderson B, pr        0  1  0  0   
+Allen C, rf           4  0  2  0   Mora M, cf            3  0  1  0   
+Pierzynski A, c       3  0  2  1   Ripken C, 3b          3  0  1  0   
+Maxwell J, 2b         2  1  1  1   Kinkade M, lf         3  0  0  0   
+Lawton M, ph          1  0  1  0   Lunar F, c            3  0  0  1   
+Rivas L, 2b           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        29  3  4  2
+
+Minnesota        001 000 100 --  2
+Baltimore        000 200 001 --  3
+  2 outs when winning run was scored.
+
+  Minnesota            IP  H  R ER BB SO
+Redman M              5.0  3  2  2  1  4
+Carrasco H            3.0  1  0  0  1  4
+Wells B (L)*          0.0  0  1  1  1  0
+Guardado E            0.2  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S              6.1  7  2  2  1  4
+Trombley M (W)        2.2  1  0  0  0  2
+  * Pitched to 2 batters in 9th
+
+LOB -- Minnesota 5, Baltimore 7
+2B -- Conine J
+HR -- Maxwell J
+CS -- Pierzynski A
+SH -- Ripken C
+SF -- Lunar F
+HBP -- by Wells B (Mora M), by Guardado E (Kinkade M)
+WP -- Redman M
+T -- 3:04
+A -- 41959
+     Game of 5/23/2001 -- Anaheim at Baltimore (D)
+
+  Anaheim            AB  R  H RBI    Baltimore          AB  R  H RBI
+Eckstein D, ss        3  0  0  0   Anderson B, rf        3  2  1  1   
+Spiezio S, 3b         1  0  0  0   Bordick M, ss         3  2  2  1   
+Erstad D, cf          4  2  1  1   DeShields D, lf       5  1  1  0   
+Glaus T, 3b           4  2  3  3   Conine J, 1b          4  2  3  3   
+Burke J, c            1  0  0  0   Segui D, dh           4  2  2  3   
+Joyner W, 1b          4  0  0  0   Gibbons J, ph         1  0  0  0   
+Anderson G, lf        5  0  2  1   Ripken C, 3b          3  0  1  2   
+Salmon T, rf          4  0  0  0   Kinkade M, ph-3b      0  0  0  0   
+Kennedy A, 2b         3  0  2  0   Mora M, cf            4  1  1  1   
+Fabregas J, c         3  0  0  0   Fordyce B, c          4  1  2  0   
+Nieves J, ph-ss       1  0  0  0   Lunar F, c            1  0  0  0   
+Palmeiro O, dh        2  1  1  0   Hairston J, 2b        4  1  2  0   
+Gil B, ph             1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5 10  5                        36 12 15 11
+
+Anaheim          002 201 000 --  5
+Baltimore        530 040 00x -- 12
+
+  Anaheim              IP  H  R ER BB SO
+Schoeneweis S (L)*    4.0 12 11 11  3  0
+Lukasiewicz M         0.2  0  1  1  1  1
+Pote L                3.1  3  0  0  1  6
+
+  Baltimore            IP  H  R ER BB SO
+Roberts W (W)         5.0  7  4  4  3  6
+Ryan B                2.0  2  1  1  0  2
+Paronto C             1.0  1  0  0  0  0
+Kohlmeier R           1.0  0  0  0  0  1
+  * Pitched to 3 batters in 5th
+
+DP -- Baltimore 1
+LOB -- Anaheim 9, Baltimore 8
+2B -- Segui D 2, Kennedy A, Mora M, Glaus T 2, Bordick M, Erstad D, Anderson G, Conine J
+HR -- Glaus T
+SB -- Eckstein D, Bordick M
+SF -- Ripken C, Bordick M
+HBP -- by Roberts W (Eckstein D), by Schoeneweis S (Bordick M), by Roberts W (Kennedy A)
+WP -- Roberts W, Schoeneweis S 2
+T -- 3:15
+A -- 31249
+     Game of 5/24/2001 -- Anaheim at Baltimore (N)
+
+  Anaheim            AB  R  H RBI    Baltimore          AB  R  H RBI
+Eckstein D, ss        5  0  2  1   Anderson B, rf        4  0  1  0   
+Erstad D, cf-1b-cf    5  1  2  0   Mora M, cf            0  0  0  0   
+Glaus T, 3b           4  1  2  2   Bordick M, ss         5  0  1  0   
+Joyner W, 1b          1  0  0  0   Richard C, cf-rf      3  0  0  1   
+Palmeiro O, ph-lf     2  0  1  0   Conine J, dh          4  1  1  0   
+Gil B, ph-1b          1  0  0  0   Segui D, 1b           2  1  1  0   
+Anderson G, lf-cf-lf  4  1  1  0   Ripken C, 3b          3  1  2  1   
+Salmon T, rf          3  0  0  0   Gibbons J, lf         3  1  1  3   
+Kennedy A, 2b         3  1  0  0   DeShields D, lf       0  0  0  0   
+Wooten S, c           3  0  1  1   Fordyce B, c          4  1  2  0   
+Nieves J, pr          0  0  0  0   Hairston J, 2b        4  1  1  1   
+Spiezio S, dh         4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        32  6 10  6
+
+Anaheim          012 000 001 --  4
+Baltimore        031 002 00x --  6
+
+  Anaheim              IP  H  R ER BB SO
+Ortiz R (L)           6.0 10  6  6  3  2
+Weber B               2.0  0  0  0  1  3
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J (W)         7.0  8  3  3  0  5
+Groom B               1.0  0  0  0  0  1
+Trombley M            0.2  1  1  1  2  0
+Ryan B (S)            0.1  0  0  0  0  0
+
+DP -- Anaheim 1, Baltimore 1
+LOB -- Anaheim 7, Baltimore 8
+2B -- Glaus T, Ripken C
+3B -- Hairston J
+HR -- Gibbons J, Glaus T
+SB -- Salmon T, Anderson G, Erstad D
+HBP -- by Johnson J (Salmon T), by Ortiz R (Gibbons J), by Ortiz R (Segui D)
+T -- 3:07
+A -- 34555
+     Game of 5/25/2001 -- Texas at Baltimore (N)
+
+  Texas              AB  R  H RBI    Baltimore          AB  R  H RBI
+Greer R, lf           3  0  1  0   Anderson B, lf        3  2  1  1   
+Rodriguez I, c        4  1  2  1   Bordick M, ss         4  1  0  0   
+Rodriguez A, ss       4  1  2  1   Richard C, rf         4  1  1  1   
+Palmeiro R, 1b        5  0  1  0   Conine J, 3b          3  3  3  1   
+Kapler G, cf          5  1  1  1   Segui D, 1b           1  0  0  1   
+Galarraga A, dh       5  0  1  0   Mora M, cf            4  0  2  0   
+Catalanotto F, 2b     3  1  1  0   DeShields D, dh       4  0  1  2   
+Young M, ph-2b        1  0  0  0   Fordyce B, c          4  0  1  0   
+Sierra R, ph          1  0  0  0   Hairston J, 2b        4  0  1  0   
+Caminiti K, 3b        3  1  1  1                                      
+Mateo R, rf           4  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  6 12  4                        31  7 10  6
+
+Texas            000 022 110 --  6
+Baltimore        014 110 00x --  7
+
+  Texas                IP  H  R ER BB SO
+Mahomes P (L)*        4.0  8  7  7  3  1
+Crabtree T            2.2  1  0  0  1  2
+Venafro M             1.0  1  0  0  0  0
+Smart J               0.1  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J (W)        6.0  8  4  3  3  4
+Paronto C             1.0  2  1  0  0  0
+Groom B               0.2  1  1  1  1  1
+Trombley M (S)        1.1  1  0  0  1  2
+  * Pitched to 1 batter in 5th
+
+E -- Bordick M, Fordyce B
+DP -- Texas 2, Baltimore 2
+LOB -- Texas 10, Baltimore 5
+2B -- Galarraga A, Conine J, DeShields D, Rodriguez A, Catalanotto F, Fordyce B
+3B -- Conine J, Mateo R
+HR -- Anderson B, Caminiti K, Kapler G
+SB -- Palmeiro R
+SF -- Segui D
+WP -- Mercedes J
+T -- 3:14
+A -- 33117
+     Game of 5/27/2001 -- Texas at Baltimore (D)
+
+  Texas              AB  R  H RBI    Baltimore          AB  R  H RBI
+Greer R, lf           4  1  2  0   Anderson B, rf        3  0  1  0   
+Rodriguez I, c        4  0  1  0   Bordick M, ss         4  1  0  0   
+Rodriguez A, ss       3  0  1  1   Richard C, cf         4  1  2  1   
+Palmeiro R, 1b        4  0  0  0   Conine J, lf          3  0  1  1   
+Kapler G, cf          4  0  2  0   Segui D, 1b           4  1  2  0   
+Catalanotto F, dh     3  0  1  0   Myers G, dh           2  0  0  0   
+Galarraga A, ph       1  0  0  0   Ripken C, 3b          4  0  1  1   
+Caminiti K, 3b        3  0  0  0   Fordyce B, c          4  0  0  0   
+Mateo R, rf           3  0  0  0   Hairston J, 2b        3  0  1  0   
+Young M, 2b           3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  8  1                        31  3  8  3
+
+Texas            001 000 000 --  1
+Baltimore        201 000 00x --  3
+
+  Texas                IP  H  R ER BB SO
+Glynn R (L)           6.2  7  3  2  4  1
+Moreno J              0.1  1  0  0  0  1
+Smart J               1.0  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S (W)          7.0  7  1  1  1  4
+Ryan B                1.1  1  0  0  0  2
+Trombley M (S)        0.2  0  0  0  0  0
+
+E -- Mateo R
+DP -- Texas 1, Baltimore 3
+LOB -- Texas 5, Baltimore 9
+2B -- Richard C, Greer R, Kapler G, Hairston J
+SB -- Greer R
+SF -- Conine J
+WP -- Glynn R
+T -- 2:38
+A -- 39426
+     Game of 5/28/2001 -- Texas at Baltimore (D)
+
+  Texas              AB  R  H RBI    Baltimore          AB  R  H RBI
+Greer R, lf           5  0  3  1   Hairston J, 2b        3  0  2  1   
+Rodriguez I, c        5  1  2  0   Bordick M, ss         4  0  0  0   
+Rodriguez A, ss       4  1  0  0   Richard C, rf         4  0  0  0   
+Palmeiro R, dh        5  1  1  0   Conine J, lf          4  1  1  0   
+Kapler G, cf          5  1  1  2   Segui D, 1b           4  1  3  1   
+Catalanotto F, rf     4  1  2  1   Ripken C, 3b          4  0  0  0   
+Mateo R, rf           0  0  0  0   Mora M, cf            2  1  0  1   
+Galarraga A, 1b       3  1  1  1   Kinkade M, dh         3  0  1  0   
+Sheldon S, 3b         4  0  1  1   Fordyce B, c          3  0  0  0   
+Young M, 2b           4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  6 12  6                        31  3  7  3
+
+Texas            000 000 240 --  6
+Baltimore        001 000 101 --  3
+
+  Texas                IP  H  R ER BB SO
+Rogers K*             6.0  5  2  2  1  5
+Smart J (W)           1.2  1  0  0  0  0
+Venafro M             0.1  0  0  0  0  0
+Zimmerman J           1.0  1  1  1  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Towers J              7.0  8  2  2  0  3
+Paronto C (L)+        0.0  2  4  2  1  0
+McElroy C             1.0  2  0  0  1  0
+Kohlmeier R           1.0  0  0  0  0  0
+  * Pitched to 2 batters in 7th
+  + Pitched to 4 batters in 8th
+
+E -- Sheldon S, Bordick M
+DP -- Texas 1
+LOB -- Texas 8, Baltimore 4
+2B -- Rodriguez I, Hairston J
+HR -- Catalanotto F, Galarraga A, Segui D
+CS -- Hairston J
+SF -- Hairston J, Mora M
+T -- 2:48
+A -- 37090
+     Game of 6/8/2001 -- Montreal at Baltimore (N)
+
+  Montreal           AB  R  H RBI    Baltimore          AB  R  H RBI
+Jones T, lf           4  0  2  0   Anderson B, lf-rf     4  0  0  1   
+Mordecai M, 3b        4  0  0  0   Mora M, cf            3  0  1  1   
+Guerrero V, rf        4  0  2  0   Bordick M, ss         3  0  0  1   
+Stevens L, 1b         4  0  0  0   Conine J, dh          3  0  0  0   
+Cabrera O, ss         3  0  1  0   Segui D, 1b           3  1  1  1   
+Tracy A, dh           3  0  0  0   Ripken C, 3b          4  0  0  0   
+Bradley M, cf         3  0  0  0   Richard C, rf         2  1  1  0   
+Barrett M, c          3  0  0  0   DeShields D, lf       1  1  1  0   
+Blum G, 2b            3  0  1  0   Lunar F, c            4  1  2  0   
+                                   Hairston J, 2b        3  1  3  1   
+                     -- -- -- --                        -- -- -- --
+                     31  0  6  0                        30  5  9  5
+
+Montreal         000 000 000 --  0
+Baltimore        011 101 01x --  5
+
+  Montreal             IP  H  R ER BB SO
+Blank M (L)           5.0  5  3  3  5  1
+Scanlan B             3.0  4  2  2  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Towers J (W)          9.0  6  0  0  0  5
+
+DP -- Baltimore 1
+LOB -- Montreal 4, Baltimore 9
+2B -- Lunar F, Guerrero V
+3B -- Hairston J
+HR -- Segui D
+CS -- Mora M, Guerrero V
+SH -- Hairston J
+SF -- Bordick M
+HBP -- by Blank M (Richard C)
+T -- 2:20
+A -- 39940
+     Game of 6/9/2001 -- Montreal at Baltimore (N)
+
+  Montreal           AB  R  H RBI    Baltimore          AB  R  H RBI
+Jones T, lf           5  0  1  0   Anderson B, rf        5  0  1  1   
+Pride C, dh           3  0  0  0   Bordick M, ss         5  0  0  0   
+Minor R, ph           0  1  0  0   DeShields D, lf       4  0  1  0   
+Guerrero V, rf        4  2  2  0   Conine J, 1b          4  0  1  0   
+Stevens L, 1b         2  1  1  0   Segui D, dh           4  0  0  0   
+Cabrera O, ss         4  0  1  3   Mora M, cf            3  1  1  1   
+Blum G, 2b            3  0  1  0   Ripken C, 3b          4  1  0  0   
+Barrett M, c          4  0  0  0   Lunar F, c            3  0  2  0   
+Knorr R, c            0  0  0  0   Hairston J, 2b        4  0  2  0   
+Tracy A, 3b           3  0  0  0                                      
+Bradley M, cf         4  0  3  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  9  3                        36  2  8  2
+
+Montreal         000 000 130 --  4
+Baltimore        000 000 101 --  2
+
+  Montreal             IP  H  R ER BB SO
+Yoshii M              6.2  6  1  1  0  4
+Lloyd G (W)           1.1  1  0  0  0  2
+Urbina U (S)          1.0  1  1  0  1  1
+
+  Baltimore            IP  H  R ER BB SO
+Roberts W             7.0  6  1  1  2  3
+Ryan B (L)            0.2  2  3  2  3  1
+Kohlmeier R           1.1  1  0  0  0  0
+
+E -- Mora M, Cabrera O
+DP -- Baltimore 2
+LOB -- Montreal 6, Baltimore 9
+HR -- Mora M
+SB -- Conine J, Hairston J
+CS -- Bradley M
+HBP -- by Yoshii M (Mora M)
+T -- 2:55
+A -- 39521
+     Game of 6/10/2001 -- Montreal at Baltimore (D)
+
+  Montreal           AB  R  H RBI    Baltimore          AB  R  H RBI
+Jones T, lf           1  0  1  0   Anderson B, cf        4  0  1  1   
+Smith M, pr-lf        3  1  0  0   Mora M, ss            4  0  0  0   
+Pride C, dh           2  0  0  0   Segui D, 1b           3  1  2  0   
+Guerrero V, rf        4  0  0  0   Conine J, rf          4  0  0  0   
+Stevens L, 1b         4  1  0  0   Myers G, dh           3  0  0  0   
+Cabrera O, ss         4  0  0  0   Ripken C, 3b          3  0  1  1   
+Blum G, 2b            4  0  2  0   DeShields D, lf       2  1  0  0   
+Barrett M, c          3  0  2  1   Fordyce B, c          3  1  1  0   
+Tracy A, 3b           2  0  0  0   Hairston J, 2b        3  0  1  1   
+Mordecai M, ph        1  0  0  0                                      
+Bradley M, cf         3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  1                        29  3  6  3
+
+Montreal         100 000 001 --  2
+Baltimore        020 001 00x --  3
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (L)         8.0  6  3  3  2  6
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J (W)         8.2  6  2  1  3  2
+Groom B (S)           0.1  0  0  0  0  0
+
+E -- Johnson J, Hairston J
+DP -- Baltimore 1
+LOB -- Montreal 6, Baltimore 4
+2B -- Blum G, Segui D
+CS -- Bradley M, Ripken C
+SH -- Barrett M
+T -- 2:37
+A -- 36868
+     Game of 6/12/2001 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Perez T, rf           5  1  4  2   Anderson B, rf        3  1  1  0   
+Alfonzo E, 2b         5  1  2  0   Bordick M, ss         3  1  1  2   
+Relaford D, 2b        0  0  0  0   DeShields D, lf       3  0  0  1   
+Agbayani B, lf        4  0  0  0   Conine J, 3b          4  0  1  0   
+Piazza M, c           5  1  1  0   Segui D, 1b           4  0  0  0   
+Pratt T, c            0  0  0  0   Mora M, cf            4  0  0  0   
+Ventura R, 3b         4  3  2  4   Gibbons J, dh         4  0  0  0   
+Zeile T, 1b           4  1  1  0   Fordyce B, c          4  0  1  0   
+Shinjo T, cf          5  1  3  2   Hairston J, 2b        4  1  2  0   
+Johnson M, dh         3  2  0  0                                      
+Harris L, ph          1  0  0  0                                      
+Ordonez R, ss         5  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     41 10 14  9                        33  3  6  3
+
+New York         214 200 010 -- 10
+Baltimore        201 000 000 --  3
+
+  New York             IP  H  R ER BB SO
+Reed R (W)            6.0  4  3  3  3  6
+White R (S)           3.0  2  0  0  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J (L)        2.2  7  7  6  3  1
+McElroy C             4.1  6  2  2  1  2
+Kohlmeier R           1.0  1  1  1  1  1
+Trombley M            1.0  0  0  0  0  0
+
+E -- Bordick M
+LOB -- New York 9, Baltimore 6
+2B -- Perez T, Zeile T, Shinjo T, Fordyce B
+3B -- Perez T
+HR -- Bordick M, Ventura R 2
+SB -- Hairston J, DeShields D
+WP -- Reed R
+T -- 3:11
+A -- 34812
+     Game of 6/13/2001 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Perez T, rf           5  1  3  1   Anderson B, rf        5  1  2  0   
+Alfonzo E, 2b         5  0  0  0   Bordick M, ss         4  0  2  1   
+Agbayani B, lf        1  0  0  0   Richard C, cf         1  0  0  0   
+Piazza M, dh-c        6  1  3  1   Segui D, 1b           4  1  3  1   
+Ventura R, 3b         4  1  0  0   Conine J, dh          3  2  0  0   
+Shinjo T, cf          5  1  1  1   Kinkade M, lf         3  1  0  0   
+Zeile T, 1b           4  0  2  0   Mora M, cf-ss         5  0  3  2   
+Relaford D, pr-2b     1  1  0  0   Ripken C, 3b          5  0  1  2   
+Pratt T, c            3  1  1  0   Lunar F, c            4  0  1  0   
+Johnson M, ph-1b      1  0  1  2   Myers G, ph           0  0  0  0   
+Hamilton D, lf        2  0  0  0   DeShields D, pr       0  0  0  0   
+McEwing J, ph-lf      0  1  0  0   Hairston J, 2b        5  1  1  0   
+Harris L, ph          1  0  1  1                                      
+Franco J, p           0  0  0  0                                      
+Benitez A, p          0  0  0  0                                      
+Ordonez R, ss         5  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     43  7 14  6                        39  6 13  6
+
+New York         000 000 123 1 --  7
+Baltimore        212 100 000 0 --  6
+
+  New York             IP  H  R ER BB SO
+Rusch G               3.1  9  6  6  4  1
+Gonzalez D            4.2  4  0  0  0  2
+Franco J (W)          1.0  0  0  0  1  0
+Benitez A (S)         1.0  0  0  0  1  2
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S              6.1  7  1  1  3  2
+Ryan B                1.1  2  2  1  1  1
+Trombley M            1.0  3  3  3  2  1
+Groom B (L)           1.1  2  1  1  0  1
+
+E -- Ryan B
+DP -- New York 2
+LOB -- New York 14, Baltimore 9
+2B -- Bordick M, Pratt T, Zeile T, Perez T, Piazza M
+SB -- DeShields D
+SH -- Perez T
+HBP -- by Ryan B (McEwing J)
+Balk -- Rusch G
+T -- 3:57
+A -- 34881
+     Game of 6/14/2001 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Agbayani B, lf        4  0  1  0   Anderson B, lf        3  0  0  0   
+Relaford D, 2b        4  0  0  0   Roberts B, ss         4  1  1  0   
+Piazza M, dh          4  1  1  1   Segui D, dh           3  1  1  0   
+Ventura R, 3b         4  0  0  0   Conine J, 3b          4  1  2  1   
+Shinjo T, cf          4  0  0  0   Richard C, rf         4  1  1  2   
+Zeile T, 1b           3  1  2  1   Mora M, cf            3  0  0  1   
+Johnson M, rf         3  0  2  0   Gibbons J, 1b         4  1  1  0   
+McEwing J, ph         1  0  0  0   Fordyce B, c          3  0  1  0   
+Pratt T, c            3  0  1  0   Hairston J, 2b        3  0  1  1   
+Ordonez R, ss         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        31  5  8  5
+
+New York         000 001 100 --  2
+Baltimore        000 200 12x --  5
+
+  New York             IP  H  R ER BB SO
+Trachsel S (L)        6.2  6  3  2  2  4
+Cook D                1.1  2  2  2  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Towers J (W)          7.0  6  2  2  1  3
+Kohlmeier R           1.0  0  0  0  0  1
+Parrish J             0.1  0  0  0  0  0
+Trombley M            0.1  1  0  0  0  1
+Groom B (S)           0.1  0  0  0  0  1
+
+E -- Zeile T
+DP -- New York 2, Baltimore 1
+LOB -- New York 5, Baltimore 5
+2B -- Pratt T, Gibbons J
+HR -- Piazza M, Zeile T, Richard C
+SB -- Hairston J
+HBP -- by Trachsel S (Mora M)
+T -- 2:47
+A -- 37853
+     Game of 6/18/2001 -- Toronto at Baltimore (N)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Stewart S, lf         5  1  2  0   Anderson B, lf        4  1  1  0   
+Gonzalez A, ss        4  1  1  1   Roberts B, ss         4  1  1  0   
+Mondesi R, rf         4  0  1  0   Segui D, 1b           3  0  2  1   
+Delgado C, 1b         4  0  1  0   Conine J, 3b          4  0  2  1   
+Cruz J, cf            4  0  1  1   Richard C, rf         3  0  0  0   
+Fullmer B, dh         3  0  1  0   Mora M, cf            4  0  1  0   
+Fernandez T, ph       1  0  0  0   Gibbons J, dh         4  1  3  1   
+Batista T, 3b         4  0  0  0   Fordyce B, c          3  0  0  0   
+Fletcher D, c         2  0  0  0   Lunar F, c            0  0  0  0   
+Simmons B, ph         1  0  0  0   Hairston J, 2b        4  0  0  0   
+Bush H, 2b            4  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  2  9  2                        33  3 10  3
+
+Toronto          200 000 000 --  2
+Baltimore        011 000 10x --  3
+
+  Toronto              IP  H  R ER BB SO
+Parris S              6.0  8  2  2  2  4
+Borbon P (L)          0.1  1  1  1  0  0
+File B                1.2  1  0  0  1  2
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S (W)          7.0  8  2  2  1  5
+McElroy C             1.0  0  0  0  0  1
+Trombley M (S)        1.0  1  0  0  0  1
+
+E -- Cruz J
+DP -- Toronto 1
+LOB -- Toronto 9, Baltimore 9
+2B -- Mondesi R, Gibbons J, Segui D
+3B -- Stewart S, Roberts B
+HR -- Gibbons J
+SB -- Bush H, Gonzalez A
+HBP -- by Ponson S (Gonzalez A)
+WP -- Parris S
+T -- 2:55
+A -- 33605
+     Game of 6/19/2001 -- Toronto at Baltimore (N)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Stewart S, lf         4  0  1  0   Anderson B, rf        3  1  2  1   
+Gonzalez A, ss        3  0  2  1   Roberts B, 2b-ss      3  0  0  0   
+Mondesi R, rf         4  0  2  0   Segui D, 1b           3  2  2  2   
+Delgado C, 1b         3  0  0  0   Conine J, lf          4  0  2  0   
+Fullmer B, dh         3  0  0  0   Richard C, cf         3  0  1  0   
+Simmons B, ph         1  0  0  0   Hairston J, 2b        1  0  0  0   
+Cruz J, cf            4  0  2  0   Ripken C, 3b          3  0  0  0   
+Batista T, 3b         3  0  0  0   Gibbons J, dh         3  1  2  1   
+Fletcher D, c         3  0  0  0   Mora M, ss-cf         3  1  2  1   
+Fernandez T, ph       1  0  0  0   Fordyce B, c          3  0  0  0   
+Bush H, 2b            3  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  9  1                        29  5 11  5
+
+Toronto          000 001 000 --  1
+Baltimore        101 110 01x --  5
+
+  Toronto              IP  H  R ER BB SO
+Hamilton J (L)        5.0  7  4  4  0  2
+Painter L             2.1  4  1  1  2  0
+Quantrill P           0.2  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Towers J (W)          7.0  7  1  1  1  1
+Kohlmeier R           0.2  2  0  0  0  0
+Groom B (S)           1.1  0  0  0  1  2
+
+DP -- Toronto 4, Baltimore 2
+LOB -- Toronto 7, Baltimore 3
+2B -- Gonzalez A, Mondesi R, Stewart S
+3B -- Mondesi R, Cruz J
+HR -- Segui D 2, Mora M, Gibbons J, Anderson B
+CS -- Gonzalez A, Richard C, Anderson B
+SF -- Gonzalez A
+HBP -- by Hamilton J (Anderson B)
+T -- 2:27
+A -- 31001
+     Game of 6/20/2001 -- Toronto at Baltimore (N)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Stewart S, lf         5  1  1  0   Roberts B, 2b         4  1  2  0   
+Bush H, 2b            3  1  1  1   Mora M, ss            4  1  2  1   
+Mondesi R, rf         3  0  0  0   Segui D, 1b           4  0  0  0   
+Delgado C, 1b         5  0  2  2   Conine J, rf          4  0  3  2   
+Cruz J, cf            4  0  0  0   Hairston J, pr        0  0  0  0   
+Fullmer B, dh         5  1  2  0   Gibbons J, dh         3  1  1  2   
+Gonzalez A, ss        4  1  2  0   Kinkade M, lf         4  0  0  0   
+Fletcher D, c         3  1  1  2   Ripken C, 3b          5  1  1  0   
+Fernandez T, ph       1  0  1  0   DeShields D, cf       3  0  0  0   
+Batista T, 3b         0  0  0  0   Lunar F, c            4  1  1  0   
+Frye J, 3b            1  1  0  0                                      
+Simmons B, ph         0  0  0  1                                      
+Castillo A, c         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  6 10  6                        35  5 10  5
+
+Toronto          001 000 410 --  6
+Baltimore        110 001 200 --  5
+
+  Toronto              IP  H  R ER BB SO
+Carpenter C           4.0  5  2  2  1  2
+Escobar K             2.0  1  1  1  1  2
+Plesac D              0.1  2  2  2  0  0
+File B*               0.0  0  0  0  2  0
+Quantrill P (W)       1.2  1  0  0  0  3
+Koch B (S)            1.0  1  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Roberts W+            6.0  5  2  2  2  4
+Kohlmeier R           0.2  1  3  3  2  1
+McElroy C (L)         0.2  3  1  1  0  0
+Trombley M            1.0  1  0  0  0  0
+Parrish J             0.2  0  0  0  1  0
+  * Pitched to 3 batters in 7th
+  + Pitched to 1 batter in 7th
+
+E -- Parrish J, Koch B
+DP -- Baltimore 1
+LOB -- Toronto 9, Baltimore 11
+2B -- Roberts B, Fullmer B, Mora M
+HR -- Gibbons J, Fletcher D
+SB -- Mora M, Bush H
+CS -- Stewart S
+SH -- DeShields D
+SF -- Simmons B
+HBP -- by Carpenter C (Gibbons J), by Roberts W (Bush H), by Kohlmeier R (Bush H), by File B (Conine J), by Koch B (Kinkade M)
+Balk -- Roberts W
+T -- 3:44
+A -- 30062
+     Game of 6/21/2001 -- Chicago at Baltimore (N)
+
+  Chicago            AB  R  H RBI    Baltimore          AB  R  H RBI
+Durham R, 2b          5  0  0  0   Anderson B, rf        4  0  0  0   
+Singleton C, cf       4  2  3  0   Roberts B, ss         4  0  0  0   
+Lee C, lf             5  1  2  3   Segui D, dh           3  0  0  0   
+Ordonez M, rf         5  0  1  0   Conine J, 1b          3  0  0  0   
+Canseco J, dh         5  0  1  0   Gibbons J, lf         3  0  0  0   
+Konerko P, 1b         3  1  2  1   Mora M, cf            3  0  1  0   
+Liefer J, 3b          3  1  1  1   Ripken C, 3b          3  0  1  0   
+Graffanino T, 3b      0  0  0  0   Fordyce B, c          3  0  1  0   
+Clayton R, ss         4  1  2  1   Hairston J, 2b        3  0  0  0   
+Johnson M, c          4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  6 13  6                        29  0  3  0
+
+Chicago          220 010 010 --  6
+Baltimore        000 000 000 --  0
+
+  Chicago              IP  H  R ER BB SO
+Wells K (W)           8.0  3  0  0  0  6
+Glover G              1.0  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J (L)         4.2  9  5  5  1  0
+Maduro C              3.1  4  1  1  2  1
+Parrish J             1.0  0  0  0  0  1
+
+E -- Fordyce B
+DP -- Chicago 1, Baltimore 1
+LOB -- Chicago 8, Baltimore 2
+2B -- Fordyce B, Canseco J
+HR -- Lee C, Konerko P, Liefer J, Clayton R
+SB -- Mora M, Ordonez M, Singleton C
+CS -- Lee C
+T -- 2:49
+A -- 34735
+     Game of 6/22/2001 -- Chicago at Baltimore (N)
+
+  Chicago            AB  R  H RBI    Baltimore          AB  R  H RBI
+Durham R, 2b          5  0  0  0   Hairston J, 2b        5  2  3  1   
+Singleton C, cf       5  1  3  0   Roberts B, ss         4  1  1  0   
+Lee C, lf             5  1  1  0   Segui D, 1b           3  1  1  2   
+Ordonez M, rf         1  2  0  0   Conine J, rf          3  0  1  0   
+Canseco J, dh         4  0  1  3   Kinkade M, lf         4  0  2  2   
+Konerko P, 1b         3  0  0  0   Mora M, cf            3  1  1  0   
+Graffanino T, pr-3b   0  0  0  0   Ripken C, 3b          4  0  1  0   
+Perry H, 3b-1b        4  0  2  1   DeShields D, dh       4  1  1  0   
+Alomar S, c           3  0  0  0   Lunar F, c            4  0  0  1   
+Liefer J, ph          1  0  0  0                                      
+Johnson M, c          0  0  0  0                                      
+Clayton R, ss         3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  8  4                        34  6 11  6
+
+Chicago          201 000 010 --  4
+Baltimore        000 002 31x --  6
+
+  Chicago              IP  H  R ER BB SO
+Wells D (L)           6.2 10  5  5  0  1
+Lowe S                1.1  1  1  1  2  0
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J (W)        7.0  6  3  3  2  2
+Trombley M            0.2  1  1  1  2  1
+Groom B (S)           1.1  1  0  0  0  0
+
+E -- Hairston J
+LOB -- Chicago 8, Baltimore 7
+2B -- Canseco J, Lee C, Hairston J, Conine J, Segui D, Perry H
+SB -- Lee C, Hairston J 2, Clayton R, Segui D, Kinkade M
+HBP -- by Mercedes J (Clayton R), by Wells D (Segui D)
+T -- 2:43
+A -- 43101
+     Game of 6/23/2001 -- Chicago at Baltimore (D)
+
+  Chicago            AB  R  H RBI    Baltimore          AB  R  H RBI
+Durham R, 2b          5  2  2  1   Anderson B, rf-cf     5  0  0  0   
+Singleton C, cf-lf    4  1  1  1   Roberts B, ss         2  1  1  1   
+Lee C, lf             2  0  1  1   Bigbie L, rf          3  0  0  0   
+Liefer J, lf          1  1  1  1   Segui D, 1b           4  1  1  1   
+Graffanino T, ph-3b   2  1  1  2   Conine J, dh          3  0  1  0   
+Ordonez M, rf         4  0  3  0   Kinkade M, lf         4  0  1  1   
+Canseco J, dh         4  1  1  0   Mora M, cf-ss         4  0  1  0   
+Konerko P, 1b         4  1  2  2   Ripken C, 3b          4  0  2  0   
+Christensen M, cf     0  0  0  0   Fordyce B, c          3  0  0  0   
+Perry H, 3b-1b        4  0  0  0   DeShields D, ph       0  0  0  0   
+Clayton R, ss         4  0  1  0   Lunar F, c            0  0  0  0   
+Johnson M, c          4  1  1  0   Hairston J, 2b        4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 14  8                        36  3  8  3
+
+Chicago          100 001 600 --  8
+Baltimore        003 000 000 --  3
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M             5.2  8  3  3  0  6
+Glover G (W)          1.0  0  0  0  2  2
+Howry B               1.1  0  0  0  1  0
+Foulke K              1.0  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S (L)          6.1 10  5  5  3  3
+Parrish J*            0.0  1  1  1  0  0
+Paronto C             2.2  3  2  2  0  2
+  * Pitched to 1 batter in 7th
+
+DP -- Baltimore 2
+LOB -- Chicago 6, Baltimore 9
+2B -- Durham R 2, Canseco J
+3B -- Hairston J
+HR -- Liefer J, Graffanino T, Konerko P
+SB -- Ordonez M 3, Roberts B
+CS -- Lee C
+PB -- Johnson M
+T -- 3:32
+A -- 40796
+     Game of 6/24/2001 -- Chicago at Baltimore (D)
+
+  Chicago            AB  R  H RBI    Baltimore          AB  R  H RBI
+Valentin J, 3b        4  1  1  1   Anderson B, cf        4  0  1  0   
+Singleton C, cf       4  1  2  1   Hairston J, 2b        1  0  0  0   
+Durham R, 2b          5  1  2  2   Segui D, 1b           4  0  1  0   
+Ordonez M, rf         3  0  1  0   Conine J, 3b          4  0  1  0   
+Canseco J, dh         5  0  2  2   Gibbons J, lf         5  0  0  0   
+Konerko P, 1b         5  1  2  0   Mora M, ss            3  1  1  1   
+Liefer J, lf          3  2  1  0   DeShields D, dh       4  1  1  1   
+Graffanino T, lf      0  0  0  0   Lunar F, c            4  0  2  0   
+Clayton R, ss         4  2  2  2   Bigbie L, rf          4  0  0  0   
+Paul J, c             5  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  8 14  8                        33  2  7  2
+
+Chicago          120 004 010 --  8
+Baltimore        020 000 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J (W)*        6.0  5  2  2  6  4
+Lowe S (S)            3.0  2  0  0  1  1
+
+  Baltimore            IP  H  R ER BB SO
+Towers J (L)          5.1 10  5  4  0  2
+McElroy C             0.1  2  2  2  3  0
+Parrish J             3.1  2  1  1  3  2
+  * Pitched to 2 batters in 7th
+
+E -- Towers J
+DP -- Chicago 1, Baltimore 2
+LOB -- Chicago 11, Baltimore 12
+2B -- Clayton R
+HR -- Mora M, DeShields D
+CS -- Anderson B, Durham R
+SF -- Valentin J
+HBP -- by Baldwin J (Hairston J), by Parrish J (Liefer J)
+PB -- Lunar F
+T -- 3:02
+A -- 40996
+     Game of 7/3/2001 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Knoblauch C, lf       4  3  3  1   Hairston J, 2b        3  1  0  0   
+Jeter D, ss           6  1  3  1   Roberts B, ss         4  1  1  0   
+Williams B, cf        4  2  1  2   Segui D, 1b           4  1  1  3   
+Martinez T, 1b        5  1  1  3   Conine J, rf          3  0  0  0   
+Spencer S, dh         5  0  0  0   Batista T, dh         4  1  2  0   
+O'Neill P, rf         4  1  1  0   Mora M, cf            3  1  1  0   
+Greene T, c           5  1  2  1   Ripken C, 3b          3  0  1  1   
+Brosius S, 3b         5  1  3  1   Gibbons J, lf         4  1  1  2   
+Soriano A, 2b         5  0  0  0   Fordyce B, c          3  0  0  0   
+                                   Bigbie L, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     43 10 14  9                        32  6  7  6
+
+New York         110 032 120 -- 10
+Baltimore        300 200 001 --  6
+
+  New York             IP  H  R ER BB SO
+Keisler R             4.0  4  5  5  3  2
+Mendoza R (W)         4.0  1  0  0  0  1
+Witasick J            1.0  2  1  1  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J (L)        5.1 11  7  7  1  4
+McElroy C             2.1  2  3  2  2  2
+Paronto C             1.1  1  0  0  1  1
+
+E -- Fordyce B, Roberts B 2
+DP -- New York 1
+LOB -- New York 11, Baltimore 3
+2B -- Brosius S, Williams B, Knoblauch C, Mora M
+HR -- Jeter D, Segui D, Gibbons J, Martinez T, Brosius S
+SB -- Roberts B, Hairston J, O'Neill P 2, Knoblauch C
+SF -- Ripken C
+HBP -- by Mercedes J (Knoblauch C)
+WP -- McElroy C
+T -- 3:09
+A -- 47702
+     Game of 7/4/2001 -- New York at Baltimore (D)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Knoblauch C, lf       5  0  0  0   Hairston J, 2b        3  1  0  0   
+Jeter D, ss           5  1  2  0   Roberts B, ss         4  1  1  0   
+Williams B, cf        5  1  2  0   Segui D, 1b           4  0  2  1   
+Martinez T, 1b        5  0  2  1   Anderson B, pr        0  0  0  0   
+Posada J, c           1  1  0  0   Kinkade M, 1b         0  0  0  0   
+O'Neill P, dh         3  1  2  3   Conine J, dh          3  0  0  1   
+Williams G, ph        0  0  0  0   Gibbons J, lf         4  1  1  1   
+Spencer S, rf         3  0  0  0   Batista T, 3b         4  0  0  0   
+Brosius S, 3b         3  0  1  0   Mora M, cf            3  0  0  0   
+Soriano A, 2b         4  0  0  0   Lunar F, c            4  0  2  0   
+                                   Bigbie L, rf          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        32  3  6  3
+
+New York         003 010 000 --  4
+Baltimore        000 100 110 --  3
+
+  New York             IP  H  R ER BB SO
+Clemens R (W)         6.2  5  2  2  1  6
+Wohlers M             0.2  1  1  1  1  1
+Rivera M (S)          1.2  0  0  0  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S              2.0  3  0  0  1  0
+Maduro C (L)          4.1  4  4  4  2  1
+Ryan B*               0.2  0  0  0  1  1
+Trombley M            1.2  1  0  0  0  3
+Groom B               0.1  1  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Brosius S, Clemens R
+DP -- New York 1, Baltimore 1
+LOB -- New York 9, Baltimore 5
+2B -- O'Neill P
+3B -- Roberts B
+HR -- O'Neill P, Gibbons J
+SH -- Williams G
+SF -- Conine J
+HBP -- by Maduro C (Brosius S)
+T -- 3:07
+A -- 47355
+     Game of 7/5/2001 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Knoblauch C, dh       4  1  1  1   Hairston J, 2b        5  0  1  0   
+Jeter D, ss           5  1  2  2   Roberts B, ss         4  1  1  0   
+Williams B, cf        4  1  1  2   Segui D, 1b           3  0  1  0   
+Martinez T, 1b        5  1  2  1   Conine J, rf          3  0  0  1   
+Posada J, c           4  0  2  0   Batista T, dh         4  1  1  0   
+O'Neill P, rf         4  0  0  0   Mora M, cf            3  1  0  0   
+Spencer S, lf         4  1  2  0   Ripken C, 3b          4  0  3  2   
+Brosius S, 3b         3  0  1  0   Kinkade M, lf         3  0  0  0   
+Soriano A, 2b         4  1  1  0   Richard C, ph         1  0  0  0   
+                                   Lunar F, c            3  0  1  0   
+                                   Gibbons J, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 12  6                        34  3  8  3
+
+New York         200 000 112 --  6
+Baltimore        000 100 002 --  3
+
+  New York             IP  H  R ER BB SO
+Lilly T (W)*          6.0  3  1  1  1  2
+Witasick J            1.0  1  0  0  0  2
+Stanton M             0.2  2  0  0  0  1
+Wohlers M+            0.1  2  2  1  0  0
+Rivera M (S)          1.0  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Towers J (L)          7.0  8  3  2  1  2
+Ryan B                0.2  2  1  1  0  1
+Paronto C             1.1  2  2  1  0  2
+  * Pitched to 1 batter in 7th
+  + Pitched to 3 batters in 9th
+
+E -- Posada J, Roberts B 2, Wohlers M
+DP -- New York 1, Baltimore 1
+LOB -- New York 7, Baltimore 7
+2B -- Jeter D, Posada J 2, Roberts B, Knoblauch C
+HR -- Williams B, Martinez T
+SH -- Brosius S
+SF -- Conine J, Knoblauch C
+HBP -- by Witasick J (Mora M)
+WP -- Lilly T
+T -- 3:19
+A -- 44635
+     Game of 7/6/2001 -- Philadelphia at Baltimore (N)
+
+  Philadelphia       AB  R  H RBI    Baltimore          AB  R  H RBI
+Glanville D, cf       4  0  1  0   Hairston J, 2b        4  0  0  0   
+Rollins J, ss         5  1  2  2   Roberts B, ss         5  0  1  0   
+Abreu B, rf           4  0  1  0   Segui D, 1b           4  0  1  0   
+Rolen S, 3b           4  0  0  0   Batista T, dh         4  0  1  0   
+Lee T, 1b             5  1  1  1   Mora M, cf            5  1  1  1   
+Burrell P, dh         4  0  1  0   Ripken C, 3b          4  0  1  0   
+Valent E, lf          5  0  0  0   Richard C, rf         4  0  0  0   
+Bennett G, c          2  0  1  0   Kinkade M, lf         2  1  1  1   
+Anderson M, 2b        4  1  1  0   Gibbons J, ph         1  0  1  0   
+                                   Anderson B, pr-lf     0  0  0  0   
+                                   Lunar F, c            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  3  8  3                        36  2  7  2
+
+Philadelphia     000 000 200 1 --  3
+Baltimore        020 000 000 0 --  2
+
+  Philadelphia         IP  H  R ER BB SO
+Daal O                6.0  6  2  2  3  5
+Santiago J            2.0  0  0  0  1  0
+Cormier R (W)         1.0  1  0  0  0  0
+Mesa J (S)            1.0  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Roberts W             6.1  6  2  2  3  3
+Groom B               1.2  1  0  0  1  0
+Trombley M (L)        2.0  1  1  1  0  1
+
+E -- Mora M
+DP -- Baltimore 1
+LOB -- Philadelphia 10, Baltimore 9
+2B -- Rollins J, Anderson M, Burrell P
+HR -- Mora M, Kinkade M, Rollins J, Lee T
+SH -- Glanville D, Lunar F
+HBP -- by Roberts W (Rolen S)
+T -- 3:24
+A -- 40086
+     Game of 7/7/2001 -- Philadelphia at Baltimore (N)
+
+  Philadelphia       AB  R  H RBI    Baltimore          AB  R  H RBI
+Glanville D, cf       5  0  2  0   Hairston J, 2b        2  0  0  0   
+Rollins J, ss         4  1  0  0   Anderson B, rf        2  0  1  3   
+Abreu B, rf           3  1  0  0   Roberts B, ss-2b      5  0  1  0   
+Rolen S, 3b           4  0  2  1   Segui D, 1b           3  0  0  0   
+Lee T, 1b             3  1  1  0   Gibbons J, lf         3  1  1  1   
+Burrell P, dh         3  0  0  0   Batista T, dh         4  1  2  0   
+Valent E, lf          2  0  0  0   Richard C, rf-cf      4  1  4  0   
+Hunter B, ph-lf       1  0  1  2   Ripken C, 3b          3  0  1  0   
+Estrada J, c          3  0  0  0   Mora M, cf-ss         3  1  0  0   
+Anderson M, 2b        4  0  0  0   Lunar F, c            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        32  4 10  4
+
+Philadelphia     100 000 020 --  3
+Baltimore        000 003 10x --  4
+
+  Philadelphia         IP  H  R ER BB SO
+Figueroa N (L)*       5.0  5  2  2  5  4
+Gomes W               1.1  3  2  2  1  2
+Vosberg E+            0.0  1  0  0  0  0
+Politte C             0.2  1  0  0  0  0
+Cormier R             1.0  0  0  0  0  3
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J (W)         6.0  5  1  0  4  4
+Ryan B                1.1  0  2  2  2  1
+Trombley M#           0.0  0  0  0  1  0
+Groom B (S)           1.2  1  0  0  0  2
+  * Pitched to 2 batters in 6th
+  + Pitched to 1 batter in 7th
+  # Pitched to 1 batter in 8th
+
+E -- Segui D, Johnson J, Anderson M, Ripken C
+DP -- Philadelphia 2, Baltimore 2
+LOB -- Philadelphia 9, Baltimore 11
+2B -- Lee T, Hunter B
+3B -- Anderson B
+HR -- Gibbons J
+SB -- Hairston J, Glanville D
+CS -- Glanville D
+SH -- Ripken C
+WP -- Johnson J
+T -- 3:36
+A -- 49072
+     Game of 7/8/2001 -- Philadelphia at Baltimore (D)
+
+  Philadelphia       AB  R  H RBI    Baltimore          AB  R  H RBI
+Glanville D, cf       5  0  2  1   Anderson B, lf        4  0  0  0   
+Rollins J, ss         4  1  0  0   Roberts B, ss         4  1  1  0   
+Abreu B, rf           4  0  2  0   Segui D, 1b           3  1  0  0   
+Rolen S, 3b           4  1  1  0   Gibbons J, dh         4  0  0  0   
+Lee T, 1b             5  1  2  3   Richard C, rf         3  2  1  1   
+Burrell P, dh         5  1  2  0   Batista T, 3b         3  0  0  1   
+Anderson M, 2b        5  1  2  0   Mora M, cf            3  0  0  1   
+Bennett G, c          2  0  0  0   Fordyce B, c          2  0  1  0   
+Estrada J, ph-c       1  0  0  0   Lunar F, c            0  0  0  0   
+Valent E, lf          3  0  0  0   Kinkade M, ph         1  0  0  0   
+                                   Hairston J, 2b        3  0  2  1   
+                     -- -- -- --                        -- -- -- --
+                     38  5 11  4                        30  4  5  4
+
+Philadelphia     000 200 003 --  5
+Baltimore        000 103 000 --  4
+
+  Philadelphia         IP  H  R ER BB SO
+Person R              5.1  5  4  4  4  2
+Telemaco A            0.1  0  0  0  1  0
+Vosberg E             0.1  0  0  0  0  0
+Wolf R (W)            2.0  0  0  0  0  3
+Mesa J (S)            1.0  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J            7.0  8  2  1  3  6
+Paronto C             1.0  0  0  0  0  1
+Trombley M            0.1  0  1  1  1  0
+Groom B (L)           0.2  3  2  2  0  1
+
+E -- Segui D, Roberts B
+LOB -- Philadelphia 11, Baltimore 6
+HR -- Richard C, Lee T
+SB -- Rollins J, Abreu B 2
+SH -- Bennett G
+SF -- Mora M
+HBP -- by Telemaco A (Hairston J)
+WP -- Person R
+T -- 3:20
+A -- 47210
+     Game of 7/18/2001 -- Texas at Baltimore (D)
+
+  Texas              AB  R  H RBI    Baltimore          AB  R  H RBI
+Catalanotto F, lf     4  2  4  0   Anderson B, lf        4  0  1  0   
+Lamb M, 3b            5  0  0  0   Roberts B, ss         4  0  1  0   
+Rodriguez A, ss       4  0  0  0   Richard C, rf         4  1  1  0   
+Palmeiro R, 1b        2  0  1  1   Conine J, 1b          4  1  3  1   
+Rodriguez I, c        5  1  3  2   Gibbons J, dh         4  0  0  0   
+Sierra R, rf          5  0  0  0   Batista T, 3b         4  2  2  1   
+Kapler G, cf          0  0  0  0   Mora M, cf            4  0  0  0   
+Galarraga A, dh       4  1  1  1   Lunar F, c            3  0  2  1   
+Ledee R, cf-rf        4  1  1  0   Ripken C, ph          1  0  0  0   
+Young M, 2b           3  1  1  1   Hairston J, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6 11  5                        35  4 10  3
+
+Texas            130 200 000 --  6
+Baltimore        010 200 100 --  4
+
+  Texas                IP  H  R ER BB SO
+Helling R (W)         7.0  9  4  4  0  6
+Venafro M             1.0  1  0  0  0  0
+Zimmerman J (S)       1.0  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Douglass S (L)        3.2  9  6  6  3  2
+Maduro C              5.1  2  0  0  1  3
+
+E -- Batista T
+DP -- Texas 1
+LOB -- Texas 9, Baltimore 4
+2B -- Catalanotto F, Rodriguez I 2, Ledee R, Richard C, Batista T
+HR -- Conine J, Batista T
+SF -- Palmeiro R
+HBP -- by Maduro C (Palmeiro R)
+WP -- Douglass S
+T -- 2:50
+A -- 30623
+     Game of 7/21/2001 -- Anaheim at Baltimore (N)
+
+  Anaheim            AB  R  H RBI    Baltimore          AB  R  H RBI
+Eckstein D, ss        5  3  4  0   Roberts B, ss         5  2  2  1   
+Glaus T, 3b           5  2  2  4   Mora M, cf            5  0  2  3   
+Erstad D, cf          3  0  0  1   Richard C, rf         4  0  0  0   
+Anderson G, lf        5  0  2  0   Conine J, 1b          4  1  2  0   
+Wooten S, dh          4  0  1  0   Gibbons J, lf         5  0  0  0   
+Salmon T, rf          5  0  0  0   Ripken C, 3b          5  0  1  1   
+Spiezio S, 1b         5  1  2  0   Batista T, dh         4  0  2  0   
+Molina B, c           4  0  2  1   Fordyce B, c          3  0  0  0   
+Kennedy A, 2b         3  0  0  0   Anderson B, ph        1  1  0  0   
+Gil B, ph-2b          2  0  0  0   Lunar F, c            0  0  0  0   
+                                   Hairston J, 2b        2  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  6 13  6                        38  5  9  5
+
+Anaheim          002 020 001 1 --  6
+Baltimore        000 110 003 0 --  5
+
+  Anaheim              IP  H  R ER BB SO
+Ortiz R               7.2  5  2  2  3  3
+Levine A              0.1  1  0  0  0  0
+Percival T            1.0  3  3  3  0  1
+Hasegawa S (W)        1.0  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Towers J              7.2 10  4  4  0  6
+Ryan B                0.1  0  0  0  0  0
+Trombley M            0.1  1  1  1  0  0
+Groom B               0.2  0  0  0  0  0
+Mills A (L)           1.0  2  1  1  0  3
+
+E -- Fordyce B
+DP -- Anaheim 1, Baltimore 1
+LOB -- Anaheim 9, Baltimore 7
+2B -- Anderson G, Conine J, Mora M, Molina B, Eckstein D
+3B -- Spiezio S
+HR -- Glaus T 2
+SB -- Roberts B, Mora M 2
+SF -- Erstad D
+HBP -- by Towers J (Wooten S), by Towers J (Molina B), by Percival T (Hairston J)
+T -- 3:07
+A -- 47234
+     Game of 7/22/2001, game 1 -- Anaheim at Baltimore (D)
+
+  Anaheim            AB  R  H RBI    Baltimore          AB  R  H RBI
+Eckstein D, ss        4  1  1  0   Anderson B, lf        3  1  0  0   
+Glaus T, 3b           3  1  1  0   Roberts B, ss         4  0  2  1   
+Erstad D, cf          5  2  0  0   Mora M, cf            4  0  1  0   
+Anderson G, dh        5  0  1  1   Conine J, 1b          4  1  2  1   
+Wooten S, 1b          4  1  1  1   Kinkade M, dh         4  0  1  0   
+Salmon T, pr-rf       0  1  0  0   Batista T, 3b         3  1  1  2   
+Spiezio S, rf-1b      4  1  2  3   Richard C, rf         3  0  2  0   
+Gil B, 2b             5  2  2  2   Lunar F, c            4  0  1  0   
+Fabregas J, c         5  0  1  1   Hairston J, 2b        4  1  1  0   
+Palmeiro O, lf        3  0  2  1                                      
+                     -- -- -- --                        -- -- -- --
+                     38  9 11  9                        33  4 11  4
+
+Anaheim          031 100 400 --  9
+Baltimore        110 110 000 --  4
+
+  Anaheim              IP  H  R ER BB SO
+Schoeneweis S*        4.0  8  4  4  2  0
+Weber B (W)           2.0  0  0  0  0  0
+Pote L (S)            3.0  3  0  0  1  0
+
+  Baltimore            IP  H  R ER BB SO
+Roberts W (L)+        6.0  8  8  6  3  5
+Ryan B                0.1  0  0  0  0  1
+Wasdin J              0.2  2  1  1  0  1
+Julio J               2.0  1  0  0  1  2
+  * Pitched to 4 batters in 5th
+  + Pitched to 3 batters in 7th
+
+E -- Hairston J 2
+DP -- Anaheim 3
+LOB -- Anaheim 8, Baltimore 8
+2B -- Conine J, Gil B 2, Anderson G, Lunar F
+3B -- Hairston J, Spiezio S
+HR -- Batista T
+SB -- Palmeiro O
+CS -- Palmeiro O
+SH -- Roberts B
+SF -- Palmeiro O, Batista T
+HBP -- by Schoeneweis S (Anderson B), by Julio J (Spiezio S)
+T -- 3:14
+A -- 40543
+     Game of 7/22/2001, game 2 -- Anaheim at Baltimore (N)
+
+  Anaheim            AB  R  H RBI    Baltimore          AB  R  H RBI
+Palmeiro O, lf        4  0  1  0   Anderson B, rf        4  0  0  0   
+Eckstein D, ph        1  0  0  0   Roberts B, 2b         3  0  2  0   
+Glaus T, 3b           4  0  1  0   Richard C, cf         2  1  1  0   
+Erstad D, dh          3  0  0  0   Conine J, 1b          2  2  1  0   
+Anderson G, cf        4  0  0  0   Gibbons J, lf         4  2  2  2   
+Spiezio S, 1b         3  1  1  0   Ripken C, 3b          4  0  2  1   
+Salmon T, rf          3  0  0  0   Mora M, ss            3  0  0  1   
+Kennedy A, 2b         3  0  2  1   Batista T, dh         4  0  1  0   
+Gil B, ph-2b          1  0  0  0   Fordyce B, c          3  0  0  0   
+Molina B, c           4  0  1  0   Lunar F, c            0  0  0  0   
+Nieves J, ss          3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        29  5  9  4
+
+Anaheim          000 001 000 --  1
+Baltimore        000 002 03x --  5
+
+  Anaheim              IP  H  R ER BB SO
+Rapp P                5.2  3  1  1  5  3
+Borland T (L)         2.1  6  4  3  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J (W)         6.2  6  1  0  3  7
+Ryan B                0.2  0  0  0  1  2
+Trombley M*           0.0  0  0  0  0  0
+Groom B (S)           1.2  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Roberts B, Mora M, Molina B
+DP -- Anaheim 1
+LOB -- Anaheim 10, Baltimore 6
+HR -- Gibbons J
+SB -- Erstad D, Roberts B, Kennedy A
+CS -- Gibbons J, Erstad D, Batista T
+SH -- Mora M
+HBP -- by Trombley M (Salmon T)
+WP -- Johnson J
+T -- 3:22
+A -- 38423
+     Game of 7/23/2001 -- Anaheim at Baltimore (D)
+
+  Anaheim            AB  R  H RBI    Baltimore          AB  R  H RBI
+Eckstein D, ss        4  1  1  0   Roberts B, ss         4  0  2  0   
+Nieves J, ph-ss       1  0  0  0   Mora M, cf            5  0  2  1   
+Glaus T, 3b           4  1  1  3   Bigbie L, cf          0  0  0  0   
+Erstad D, cf          3  1  0  0   Richard C, rf         5  0  0  0   
+Anderson G, lf        5  2  2  1   Conine J, 1b          5  0  2  0   
+Spiezio S, 1b         5  1  2  2   Gibbons J, lf         4  0  0  0   
+Wooten S, dh          4  1  1  1   Kinkade M, ph         1  0  0  0   
+Salmon T, rf          3  0  1  1   Ripken C, dh          4  2  2  0   
+Molina B, c           3  1  2  1   Batista T, 3b         5  1  2  1   
+Kennedy A, 2b         4  1  1  0   Lunar F, c            4  1  3  0   
+                                   Hairston J, 2b        3  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     36  9 11  9                        40  4 14  4
+
+Anaheim          204 003 000 --  9
+Baltimore        020 000 011 --  4
+
+  Anaheim              IP  H  R ER BB SO
+Valdes I (W)          5.2  8  2  2  2  3
+Hasegawa S            1.1  1  0  0  1  0
+Borland T             1.0  2  1  1  1  0
+Holtz M               1.0  3  1  1  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J (L)        3.0  7  6  6  2  2
+Wasdin J              5.0  4  3  3  1  3
+Trombley M            1.0  0  0  0  0  0
+
+DP -- Baltimore 1
+LOB -- Anaheim 5, Baltimore 14
+2B -- Anderson G, Spiezio S, Molina B, Mora M, Glaus T, Lunar F 2
+SH -- Lunar F
+HBP -- by Wasdin J (Erstad D), by Wasdin J (Molina B)
+WP -- Mercedes J, Holtz M
+T -- 3:11
+A -- 40880
+     Game of 7/30/2001 -- Texas at Baltimore (N)
+
+  Texas              AB  R  H RBI    Baltimore          AB  R  H RBI
+Catalanotto F, lf     5  1  2  0   Roberts B, ss         5  1  1  1   
+Velarde R, dh         5  0  1  0   Mora M, cf            5  0  0  0   
+Rodriguez A, ss       6  1  2  2   Richard C, rf         5  1  1  1   
+Palmeiro R, 1b        5  1  2  0   Conine J, 1b          5  1  3  1   
+Lamb M, 3b            4  0  1  0   Ripken C, 3b          5  0  1  0   
+Kapler G, cf          5  1  2  1   Batista T, dh         5  0  1  0   
+Ledee R, rf           4  1  2  1   Kinkade M, lf         3  0  1  1   
+Monroe C, ph-rf       0  1  0  0   Anderson B, ph-lf     1  0  0  0   
+Haselman B, c         4  0  0  1   Lunar F, c            4  1  1  0   
+Rodriguez I, c        0  0  0  0   Hairston J, 2b        4  0  1  0   
+Young M, 2b           5  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     43  6 13  6                        42  4 10  4
+
+Texas            000 004 000 02 --  6
+Baltimore        010 030 000 00 --  4
+
+  Texas                IP  H  R ER BB SO
+Davis D               7.0 10  4  2  0  6
+Mahomes P             1.0  0  0  0  0  1
+Moreno J (W)          2.0  0  0  0  0  0
+Zimmerman J (S)       1.0  0  0  0  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S              7.0  9  4  4  2  3
+Ryan B                0.1  1  0  0  0  0
+Maduro C              0.2  0  0  0  0  0
+Mills A               1.0  1  0  0  0  0
+Groom B               1.0  1  0  0  0  0
+Trombley M (L)        1.0  1  2  2  3  0
+
+E -- Conine J, Palmeiro R
+DP -- Texas 1, Baltimore 1
+LOB -- Texas 10, Baltimore 5
+2B -- Ledee R 2, Palmeiro R, Conine J
+SB -- Conine J, Hairston J, Catalanotto F
+CS -- Roberts B, Ledee R, Kapler G
+SH -- Haselman B
+WP -- Davis D
+T -- 3:30
+A -- 38152
+     Game of 7/31/2001 -- Tampa Bay at Baltimore (N)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Tyner J, lf           3  0  1  1   Anderson B, rf        4  0  0  0   
+Rolls D, cf           4  0  0  0   Roberts B, ss         4  0  1  0   
+Vaughn G, dh          4  1  1  0   Richard C, cf         4  1  1  1   
+Cox S, 1b             3  1  2  1   Conine J, 1b          4  1  1  0   
+Hall T, c             4  1  1  0   Gibbons J, lf         4  1  2  0   
+Grieve B, rf          4  1  2  2   Ripken C, dh          4  0  1  2   
+Gomez C, ss           4  0  0  0   Batista T, 3b         4  0  2  0   
+Huff A, 3b            4  1  1  0   Lunar F, c            3  0  0  0   
+Abernathy B, 2b       4  0  1  1   Bigbie L, ph          0  0  0  0   
+                                   Hairston J, 2b        4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  5  9  5                        35  4  9  4
+
+Tampa Bay        020 210 000 --  5
+Baltimore        000 300 100 --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Wilson P (W)          5.0  5  3  3  0  4
+Phelps T              1.2  3  1  1  0  1
+Creek D               1.0  0  0  0  0  1
+Yan E (S)             1.1  1  0  0  1  0
+
+  Baltimore            IP  H  R ER BB SO
+Towers J (L)          5.0  9  5  5  1  2
+Wasdin J              4.0  0  0  0  0  3
+
+E -- Huff A
+DP -- Tampa Bay 2
+LOB -- Tampa Bay 4, Baltimore 5
+2B -- Hall T, Grieve B, Gibbons J, Vaughn G
+HR -- Richard C, Hairston J
+SB -- Tyner J
+CS -- Cox S
+SF -- Tyner J
+T -- 2:30
+A -- 41711
+     Game of 8/1/2001 -- Tampa Bay at Baltimore (N)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Tyner J, lf           5  1  2  0   Roberts B, ss         3  1  0  0   
+Rolls D, cf           5  0  1  0   Mora M, cf            4  1  0  0   
+Vaughn G, dh          4  0  1  1   Richard C, rf         3  0  0  0   
+Cox S, 1b             5  0  0  0   Conine J, 1b          4  1  1  2   
+Hall T, c             3  1  0  0   Gibbons J, lf         2  0  1  1   
+Grieve B, rf          4  2  2  0   Kinkade M, ph-lf      1  0  0  0   
+Gomez C, ss           3  1  0  1   Ripken C, 3b          4  0  1  0   
+Huff A, 3b            3  0  2  1   Batista T, dh         4  1  1  1   
+Johnson R, ph-3b      1  0  0  0   Lunar F, c            2  0  1  0   
+Abernathy B, 2b       4  0  2  2   Bigbie L, ph          1  1  1  0   
+                                   Hairston J, 2b        3  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     37  5 10  5                        31  6  7  6
+
+Tampa Bay        020 101 001 --  5
+Baltimore        000 003 003 --  6
+  1 out when winning run was scored.
+
+  Tampa Bay            IP  H  R ER BB SO
+Rupe R                5.2  3  3  0  3  4
+Zambrano V            2.0  1  0  0  1  2
+Creek D               0.1  0  0  0  0  0
+Yan E (L)             0.1  3  3  3  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J             7.0  7  4  3  2  2
+Ryan B                1.2  2  1  1  0  1
+Mills A (W)           0.1  1  0  0  0  0
+
+E -- Roberts B, Huff A, Tyner J
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 8, Baltimore 5
+2B -- Grieve B, Huff A, Conine J
+HR -- Batista T, Hairston J
+SB -- Vaughn G, Richard C
+CS -- Huff A
+HBP -- by Johnson J (Vaughn G), by Zambrano V (Lunar F)
+T -- 3:08
+A -- 33618
+     Game of 8/2/2001 -- Tampa Bay at Baltimore (D)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Tyner J, lf           3  1  2  0   Anderson B, rf        3  1  2  0   
+Abernathy B, 2b       3  0  0  0   Roberts B, dh         4  0  1  0   
+Grieve B, rf          4  1  1  0   Richard C, cf         2  0  1  2   
+Vaughn G, dh          3  0  0  0   Conine J, 1b          3  0  0  0   
+Cox S, 1b             4  0  1  2   Gibbons J, lf         4  0  1  0   
+Winn R, cf            4  0  0  0   Batista T, 3b         4  0  0  0   
+Huff A, 3b            3  1  1  0   Mora M, ss            4  0  1  0   
+Gomez C, ss           3  0  1  0   Fordyce B, c          3  0  1  0   
+Flaherty J, c         3  0  1  1   Bigbie L, ph          1  0  0  0   
+                                   Hairston J, 2b        3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  3  7  3                        31  2  8  2
+
+Tampa Bay        012 000 000 --  3
+Baltimore        000 010 100 --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Sturtze T (W)         7.0  6  2  2  5  5
+Colome J              1.0  1  0  0  0  1
+Zambrano V (S)        1.0  1  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Maduro C (L)          7.0  6  3  3  3  4
+Kohlmeier R           2.0  1  0  0  0  0
+
+E -- Huff A
+DP -- Tampa Bay 1, Baltimore 2
+LOB -- Tampa Bay 4, Baltimore 9
+2B -- Flaherty J, Fordyce B, Huff A, Mora M, Gibbons J, Anderson B
+SB -- Tyner J
+CS -- Richard C
+SH -- Roberts B, Abernathy B
+SF -- Richard C
+T -- 2:41
+A -- 40139
+     Game of 8/11/2001 -- Boston at Baltimore (D)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Nixon T, cf-rf        4  1  2  1   Mora M, ss            4  0  0  0   
+Hatteberg S, c        4  0  1  0   Bigbie L, cf          5  0  1  0   
+Garciaparra N, ss     4  0  0  0   Segui D, 1b           3  1  1  1   
+Ramirez M, lf         4  1  2  1   Conine J, lf          2  1  0  0   
+Bichette D, dh        4  0  0  0   Anderson B, lf        0  0  0  0   
+Daubach B, 1b         4  0  1  0   Richard C, rf         4  1  1  0   
+Stynes C, 3b          3  0  0  0   Ripken C, 3b          3  0  3  0   
+O'Leary T, rf         2  0  0  0   Batista T, dh         3  0  0  1   
+Hillenbrand S, ph     1  0  0  0   Fordyce B, c          3  0  1  0   
+Lewis D, cf           0  0  0  0   Roberts B, pr         0  0  0  0   
+Lansing M, 2b         3  0  0  0   Lunar F, c            0  0  0  0   
+                                   Hairston J, 2b        3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  6  2                        30  4  8  2
+
+Boston           000 001 100 --  2
+Baltimore        012 100 00x --  4
+
+  Boston               IP  H  R ER BB SO
+Cone D (L)            4.0  5  4  2  4  2
+Fossum C              1.0  1  0  0  0  0
+Garces R              1.0  0  0  0  0  1
+Urbina U              1.0  1  0  0  1  1
+Lowe D                1.0  1  0  0  0  3
+
+  Baltimore            IP  H  R ER BB SO
+Towers J (W)          6.2  5  2  2  0  2
+Ryan B                0.1  0  0  0  0  0
+Groom B               1.0  0  0  0  0  0
+Roberts W (S)         1.0  1  0  0  0  1
+
+E -- Lansing M, Stynes C
+LOB -- Boston 4, Baltimore 10
+2B -- Hairston J, Segui D, Daubach B, Ramirez M
+HR -- Nixon T, Ramirez M
+SB -- Conine J, Roberts B
+CS -- Bigbie L
+SH -- Mora M
+SF -- Batista T
+HBP -- by Cone D (Hairston J)
+T -- 2:45
+A -- 48748
+     Game of 8/12/2001 -- Boston at Baltimore (D)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Garciaparra N, ss     5  2  2  1   Mora M, ss            5  1  1  0   
+Nixon T, rf           4  0  0  0   Bigbie L, cf          3  1  0  0   
+Everett C, cf         4  2  2  3   Segui D, 1b           4  1  1  0   
+Ramirez M, lf         3  2  1  1   Conine J, lf          4  3  2  0   
+Bichette D, dh        4  1  0  0   Richard C, rf         3  1  0  0   
+Stynes C, 3b          5  1  0  0   Ripken C, 3b          4  1  1  4   
+Offerman J, 1b        3  1  1  2   Batista T, dh         4  2  2  3   
+Lansing M, 2b         5  1  1  2   Lunar F, c            2  0  0  1   
+Mirabelli D, c        4  2  2  1   Roberts B, ph         1  0  0  0   
+                                   Fordyce B, c          0  0  0  0   
+                                   Anderson B, ph        1  0  0  0   
+                                   Hairston J, 2b        4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37 12  9 10                        35 10  8  8
+
+Boston           610 001 040 -- 12
+Baltimore        302 000 014 -- 10
+
+  Boston               IP  H  R ER BB SO
+Arrojo R*             2.0  3  5  2  4  2
+Wakefield T (W)       5.0  1  0  0  1  6
+Beck R                1.2  4  5  1  1  0
+Lowe D (S)            0.1  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J (L)         3.1  5  7  1  3  2
+Bale J                2.2  1  1  1  1  2
+Foster K              1.0  0  0  0  3  0
+Mills A               1.0  3  4  4  1  2
+Wasdin J              1.0  0  0  0  0  2
+  * Pitched to 3 batters in 3rd
+
+E -- Mora M, Segui D 2, Lansing M 2
+DP -- Boston 1
+LOB -- Boston 6, Baltimore 7
+2B -- Everett C, Conine J, Ripken C, Segui D
+HR -- Lansing M, Garciaparra N, Mirabelli D, Everett C, Ramirez M, Batista T 2
+SB -- Richard C
+CS -- Offerman J
+SF -- Ripken C
+HBP -- by Arrojo R (Richard C), by Wakefield T (Conine J)
+WP -- Arrojo R
+T -- 3:24
+A -- 48037
+     Game of 8/14/2001 -- Kansas City at Baltimore (N)
+
+  Kansas City        AB  R  H RBI    Baltimore          AB  R  H RBI
+Febles C, 2b          2  1  1  2   Anderson B, lf        4  1  2  0   
+Perez N, ss           4  0  0  0   Mora M, ss            4  0  1  0   
+Beltran C, cf         3  0  1  0   Richard C, rf         5  2  2  0   
+Randa J, 3b           4  0  1  0   Conine J, 1b          4  1  2  1   
+Ibanez R, dh          4  0  0  0   Ripken C, 3b          3  1  2  3   
+Quinn M, rf           3  0  0  0   Batista T, dh         4  0  1  1   
+Brown D, lf           3  0  0  0   Bigbie L, cf          4  0  1  0   
+McCarty D, 1b         2  1  0  0   Fordyce B, c          3  0  1  0   
+Mayne B, c            2  0  0  0   Hairston J, 2b        3  0  0  0   
+Zaun G, ph-c          1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  2  4  2                        34  5 12  5
+
+Kansas City      002 000 000 --  2
+Baltimore        003 020 00x --  5
+
+  Kansas City          IP  H  R ER BB SO
+Durbin C (L)          5.2 11  5  5  2  2
+Mullen S              0.1  0  0  0  0  0
+Henry D               2.0  1  0  0  2  1
+
+  Baltimore            IP  H  R ER BB SO
+Maduro C (W)          6.2  2  2  2  3  3
+Ryan B                0.1  0  0  0  0  0
+Groom B               1.0  1  0  0  0  0
+Roberts W (S)         1.0  1  0  0  0  1
+
+E -- Mora M
+DP -- Baltimore 2
+LOB -- Kansas City 3, Baltimore 10
+2B -- Anderson B, Richard C
+HR -- Febles C, Ripken C
+SB -- Febles C
+CS -- Conine J
+SH -- Fordyce B
+HBP -- by Maduro C (Febles C)
+T -- 2:37
+A -- 40539
+     Game of 8/15/2001 -- Kansas City at Baltimore (N)
+
+  Kansas City        AB  R  H RBI    Baltimore          AB  R  H RBI
+Febles C, 2b          3  0  0  0   Anderson B, lf        4  1  1  0   
+Mayne B, c            3  0  0  0   Mora M, ss            3  1  0  0   
+Beltran C, cf         4  1  0  1   Richard C, rf         4  1  1  1   
+Randa J, 3b           4  1  1  2   Conine J, 1b          4  1  1  3   
+Ibanez R, 1b          3  1  1  0   Ripken C, 3b          3  1  1  1   
+McCarty D, ph-1b      1  0  0  0   Batista T, dh         3  0  0  0   
+Alicea L, dh          4  0  1  1   Bigbie L, cf          4  0  1  0   
+Brown D, lf           3  0  0  0   Fordyce B, c          3  0  1  0   
+Quinn M, rf           4  0  1  0   Lunar F, c            0  0  0  0   
+Sadler D, ss          3  1  1  0   Hairston J, 2b        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  5  4                        31  5  7  5
+
+Kansas City      003 001 000 --  4
+Baltimore        301 001 00x --  5
+
+  Kansas City          IP  H  R ER BB SO
+Wilson K (L)          6.2  7  5  5  1  3
+Mullen S              0.1  0  0  0  0  1
+Bailey C              1.0  0  0  0  1  0
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J (W)        6.0  4  4  4  3  2
+Wasdin J              1.0  1  0  0  0  0
+Groom B               1.0  0  0  0  0  0
+Roberts W (S)         1.0  0  0  0  0  0
+
+E -- Sadler D
+DP -- Kansas City 1
+LOB -- Kansas City 4, Baltimore 5
+2B -- Hairston J, Sadler D
+HR -- Conine J, Randa J, Richard C, Ripken C
+SB -- Beltran C, Alicea L, Quinn M
+HBP -- by Wilson K (Mora M)
+Balk -- Mercedes J
+T -- 2:22
+A -- 38545
+     Game of 8/16/2001 -- Kansas City at Baltimore (D)
+
+  Kansas City        AB  R  H RBI    Baltimore          AB  R  H RBI
+Febles C, 2b          5  1  1  1   Anderson B, lf        5  0  2  0   
+Perez N, ss           4  0  1  0   Mora M, ss            3  0  0  0   
+Beltran C, cf         4  2  2  2   Roberts B, ph-ss      2  0  0  0   
+Randa J, 3b           4  1  0  0   Richard C, rf         4  1  1  0   
+McCarty D, 1b         0  0  0  0   Conine J, 1b          3  0  1  0   
+Ibanez R, 1b-rf       5  1  1  3   Kinkade M, ph-1b      1  1  0  0   
+Alicea L, dh          5  0  1  0   Ripken C, dh          4  0  3  1   
+Zaun G, c             4  1  2  1   Batista T, 3b         4  0  1  1   
+Brown D, lf           4  1  2  0   Bigbie L, cf          4  0  1  0   
+Sadler D, rf-3b       3  2  1  0   Lunar F, c            4  0  0  0   
+                                   Hairston J, 2b        3  0  3  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 11  7                        37  2 12  2
+
+Kansas City      000 003 330 --  9
+Baltimore        000 000 020 --  2
+
+  Kansas City          IP  H  R ER BB SO
+Byrd P (W)            7.0  8  0  0  1  4
+Grimsley J            0.1  2  2  2  2  0
+Mullen S              0.2  0  0  0  0  0
+Hernandez R           1.0  2  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S (L)          7.0  8  6  6  3  5
+Foster K              1.0  3  3  2  1  0
+Bale J                1.0  0  0  0  0  1
+
+E -- Mora M, Batista T
+DP -- Kansas City 1
+LOB -- Kansas City 7, Baltimore 11
+2B -- Richard C
+HR -- Ibanez R, Beltran C, Zaun G
+SB -- Hairston J, Beltran C
+CS -- Hairston J
+SH -- Perez N
+T -- 2:50
+A -- 40788
+     Game of 8/24/2001 -- Toronto at Baltimore (N)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Cruz J, cf            4  1  0  0   Anderson B, lf        3  0  1  0   
+Gonzalez A, ss        5  0  1  2   Mora M, ss            2  0  0  0   
+Stewart S, lf         4  1  1  0   Richard C, rf         4  0  1  0   
+Delgado C, 1b         3  0  2  0   Conine J, 1b          4  0  0  0   
+Mondesi R, rf         4  1  1  1   Ripken C, dh          4  0  1  0   
+Fullmer B, dh         4  0  1  0   Batista T, 3b         4  0  1  0   
+Lopez F, 3b           3  2  2  1   Bigbie L, cf          4  0  1  0   
+Fletcher D, c         4  0  1  1   Fordyce B, c          3  0  2  0   
+Bush H, 2b            4  0  1  0   Roberts B, ph         1  0  0  0   
+                                   Hairston J, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5 10  5                        32  0  7  0
+
+Toronto          020 000 012 --  5
+Baltimore        000 000 000 --  0
+
+  Toronto              IP  H  R ER BB SO
+Carpenter C (W)       7.0  5  0  0  2  5
+Plesac D              1.0  0  0  0  1  1
+Quantrill P           1.0  2  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J (L)         9.0 10  5  5  4  3
+
+E -- Lopez F 2
+DP -- Toronto 3
+LOB -- Toronto 7, Baltimore 8
+2B -- Fletcher D, Stewart S, Lopez F, Gonzalez A, Batista T
+3B -- Richard C
+SB -- Mondesi R, Lopez F, Cruz J
+CS -- Lopez F, Bush H
+T -- 2:48
+A -- 43606
+     Game of 8/25/2001 -- Toronto at Baltimore (N)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Cruz J, cf            3  1  0  0   Anderson B, lf        4  0  0  0   
+Latham C, cf          1  0  0  0   Roberts B, dh         4  0  1  0   
+Gonzalez A, ss        5  2  2  1   Richard C, rf         4  0  1  0   
+Stewart S, lf         4  0  1  0   Conine J, 1b          3  0  1  0   
+Frye J, pr-lf         0  1  0  0   Batista T, 3b         3  0  1  0   
+Delgado C, 1b         2  0  0  0   Mora M, ss            3  0  0  0   
+Mondesi R, rf         3  2  1  2   Bigbie L, cf          3  0  0  0   
+Fullmer B, dh         5  2  2  4   Fordyce B, c          2  0  0  0   
+Lopez F, 3b           5  1  1  0   Hairston J, 2b        3  0  1  0   
+Fletcher D, c         4  0  1  2                                      
+Bush H, 2b            4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  9  9  9                        29  0  5  0
+
+Toronto          001 300 203 --  9
+Baltimore        000 000 000 --  0
+
+  Toronto              IP  H  R ER BB SO
+Escobar K (W)         9.0  5  0  0  2  8
+
+  Baltimore            IP  H  R ER BB SO
+Maduro C (L)          3.1  6  4  4  2  4
+Bale J                3.2  2  2  2  3  2
+Ryan B                1.0  0  0  0  0  1
+Mills A               1.0  1  3  3  1  0
+
+DP -- Toronto 3
+LOB -- Toronto 7, Baltimore 4
+2B -- Richard C
+HR -- Gonzalez A, Fullmer B
+SB -- Batista T, Mondesi R, Bush H
+HBP -- by Mills A (Stewart S)
+T -- 2:58
+A -- 42260
+     Game of 8/26/2001 -- Toronto at Baltimore (D)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Wells V, cf           5  1  3  0   Mora M, ss            4  1  1  1   
+Gonzalez A, ss        4  1  1  0   Roberts B, 2b         4  0  1  0   
+Fullmer B, dh         5  1  2  0   Richard C, rf         4  0  0  0   
+Delgado C, 1b         3  1  1  1   Conine J, 1b          3  0  0  0   
+Mondesi R, rf         4  0  1  1   Ripken C, 3b          3  0  0  0   
+Latham C, lf          4  1  1  1   Batista T, dh         3  0  1  0   
+Lopez F, 3b           3  0  0  1   Bigbie L, lf          3  0  0  0   
+Fletcher D, c         4  0  1  1   Lunar F, c            3  0  0  0   
+Bush H, 2b            4  0  0  0   Matos L, cf           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 10  5                        30  1  3  1
+
+Toronto          100 013 000 --  5
+Baltimore        000 001 000 --  1
+
+  Toronto              IP  H  R ER BB SO
+Lyon B (W)            6.0  3  1  1  0  4
+File B                1.0  0  0  0  0  1
+Eyre S                1.0  0  0  0  0  1
+Quantrill P           1.0  0  0  0  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J (L)        6.0  6  5  5  2  3
+Wasdin J              2.0  2  0  0  0  2
+Groom B               1.0  2  0  0  0  0
+
+LOB -- Toronto 7, Baltimore 2
+2B -- Wells V, Delgado C
+3B -- Latham C
+HR -- Mora M
+SB -- Wells V
+SF -- Lopez F
+WP -- Mercedes J
+T -- 2:34
+A -- 37994
+     Game of 8/28/2001 -- Oakland at Baltimore (N)
+
+  Oakland            AB  R  H RBI    Baltimore          AB  R  H RBI
+Damon J, cf           5  1  2  1   Anderson B, lf        4  1  1  0   
+Giambi J, dh          4  1  1  0   Mora M, ss            3  1  1  0   
+Giambi J, 1b          2  1  2  2   Richard C, rf         3  0  0  0   
+Dye J, rf             5  0  1  1   Conine J, 1b          3  0  1  2   
+Chavez E, 3b          5  0  1  0   Ripken C, 3b          4  0  0  0   
+Tejada M, ss          4  0  0  0   Batista T, dh         3  0  0  0   
+Long T, lf            5  1  3  0   Matos L, cf           3  0  1  0   
+Hernandez R, c        4  2  2  2   Fordyce B, c          3  0  0  0   
+Menechino F, 2b       5  0  0  0   Hairston J, 2b        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 12  6                        28  2  4  2
+
+Oakland          002 400 000 --  6
+Baltimore        200 000 000 --  2
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          8.0  4  2  2  3  4
+Magnante M            0.1  0  0  0  0  0
+Tam J                 0.2  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S (L)          4.0  8  6  6  2  1
+Wasdin J              3.0  3  0  0  2  2
+Julio J               1.0  0  0  0  1  0
+Roberts W             1.0  1  0  0  1  0
+
+E -- Mulder M, Fordyce B
+DP -- Oakland 3
+LOB -- Oakland 12, Baltimore 3
+2B -- Hernandez R
+HR -- Hernandez R, Giambi J
+SB -- Conine J, Chavez E, Damon J 2
+SH -- Richard C
+T -- 2:49
+A -- 31048
+     Game of 8/29/2001 -- Oakland at Baltimore (N)
+
+  Oakland            AB  R  H RBI    Baltimore          AB  R  H RBI
+Damon J, cf           5  0  1  0   Roberts B, dh         2  1  0  0   
+Giambi J, dh          4  1  1  0   Bigbie L, lf          3  0  1  0   
+Giambi J, 1b          3  0  1  1   Richard C, rf         4  0  0  0   
+Dye J, rf             4  0  1  0   Conine J, 1b          4  0  2  1   
+Long T, lf            4  0  1  0   Ripken C, 3b          3  0  0  0   
+Tejada M, ss          4  0  0  0   Mora M, ss            3  0  0  0   
+Chavez E, 3b          4  2  2  1   Matos L, cf           1  0  0  0   
+Hernandez R, c        4  1  1  2   Batista T, ph         1  0  0  0   
+Menechino F, 2b       3  0  1  0   Fordyce B, c          3  0  0  0   
+                                   Hairston J, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        27  1  3  1
+
+Oakland          001 100 200 --  4
+Baltimore        000 001 000 --  1
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (W)          6.1  2  1  1  6  4
+Tam J                 0.2  0  0  0  0  0
+Magnante M            1.1  0  0  0  0  0
+Isringhausen J        0.2  1  0  0  1  1
+
+  Baltimore            IP  H  R ER BB SO
+Towers J (L)          7.0  9  4  4  0  5
+Ryan B                1.0  0  0  0  1  0
+Groom B               1.0  0  0  0  1  2
+
+DP -- Oakland 3, Baltimore 1
+LOB -- Oakland 6, Baltimore 6
+2B -- Giambi J, Giambi J, Menechino F, Bigbie L, Chavez E
+HR -- Chavez E, Hernandez R
+SB -- Mora M, Bigbie L, Dye J
+T -- 2:48
+A -- 31628
+     Game of 8/30/2001 -- Oakland at Baltimore (N)
+
+  Oakland            AB  R  H RBI    Baltimore          AB  R  H RBI
+Damon J, cf           5  1  1  1   Roberts B, ss         4  0  0  0   
+Giambi J, dh          2  1  0  0   Hairston J, 2b        3  0  1  0   
+Gant R, ph            2  2  1  0   Mora M, cf            2  0  0  0   
+Giambi J, 1b          1  1  1  0   Bigbie L, ph-lf       2  0  0  0   
+Saenz O, ph-1b        2  1  1  3   Conine J, 1b          2  0  0  0   
+Dye J, rf             2  1  1  1   Ripken C, 3b          4  0  2  0   
+Santangelo F, ph-rf   1  1  0  1   Batista T, dh         3  0  1  0   
+Chavez E, 3b          5  2  2  8   Richard C, rf         4  0  0  0   
+Tejada M, ss          5  0  2  0   Lunar F, c            4  0  1  0   
+Long T, lf            5  1  1  0   Matos L, lf-cf        3  0  0  0   
+Hernandez R, c        5  1  1  0                                      
+Menechino F, 2b       4  3  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39 15 13 14                        31  0  5  0
+
+Oakland          300 031 062 -- 15
+Baltimore        000 000 000 --  0
+
+  Oakland              IP  H  R ER BB SO
+Zito B (W)            6.0  5  0  0  3  3
+Vizcaino L            2.0  0  0  0  1  1
+Heredia G             1.0  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J (L)         4.1  6  6  6  4  2
+Bale J                3.1  3  5  0  3  3
+Mills A               0.1  2  2  2  1  0
+Julio J               1.0  2  2  2  1  0
+
+E -- Zito B, Roberts B 2
+DP -- Oakland 1, Baltimore 1
+LOB -- Oakland 7, Baltimore 8
+2B -- Hairston J, Saenz O
+HR -- Chavez E 2
+SB -- Long T
+SF -- Damon J
+T -- 3:26
+A -- 44068
+     Game of 8/31/2001 -- Seattle at Baltimore (N)
+
+  Seattle            AB  R  H RBI    Baltimore          AB  R  H RBI
+Suzuki I, rf          4  0  1  0   Mora M, ss            4  1  2  0   
+McLemore M, ss        4  0  2  0   Bigbie L, cf          4  0  0  0   
+Martinez E, dh        3  0  0  0   Matos L, cf           0  0  0  0   
+Olerud J, 1b          4  0  1  0   Richard C, rf         3  1  1  1   
+Boone B, 2b           4  0  0  0   Conine J, 1b          3  0  1  0   
+Martin A, lf          3  0  0  0   Ripken C, dh          4  0  1  0   
+Cameron M, cf         3  0  1  0   Batista T, 3b         4  1  1  0   
+Bell D, 3b            3  0  1  0   Anderson B, lf        3  0  0  0   
+Wilson D, c           3  0  0  0   Fordyce B, c          2  0  0  1   
+                                   Hairston J, 2b        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  6  0                        30  3  7  2
+
+Seattle          000 000 000 --  0
+Baltimore        000 021 00x --  3
+  2 outs when game ended.
+
+  Seattle              IP  H  R ER BB SO
+Sele A (L)            6.0  7  3  2  3  7
+Halama J              2.0  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Maduro C (W)          7.0  5  0  0  1  2
+Groom B               1.1  1  0  0  0  1
+Roberts W             0.1  0  0  0  0  0
+
+E -- Cameron M, Martin A
+DP -- Baltimore 1
+LOB -- Seattle 6, Baltimore 7
+2B -- Mora M, Hairston J
+3B -- Batista T
+SB -- Cameron M, Bigbie L, Conine J, Richard C
+SF -- Fordyce B
+T -- 2:28
+A -- 37084
+     Game of 9/1/2001 -- Seattle at Baltimore (D)
+
+  Seattle            AB  R  H RBI    Baltimore          AB  R  H RBI
+Suzuki I, rf          5  0  3  2   Mora M, ss            5  0  1  0   
+McLemore M, ss        5  0  0  0   Bigbie L, cf          2  0  0  0   
+Martinez E, dh        5  0  0  0   Matos L, cf           0  0  0  0   
+Olerud J, 1b          4  0  0  0   Roberts B, ph         1  0  0  0   
+Boone B, 2b           5  2  3  0   Richard C, rf         4  1  1  0   
+Cameron M, cf         4  2  3  3   Conine J, 1b          2  1  1  0   
+Javier S, lf          5  1  2  1   Ripken C, dh          5  0  1  0   
+Gipson C, lf          0  0  0  0   Batista T, 3b         4  1  1  0   
+Bell D, 3b            3  1  0  0   Anderson B, lf        2  1  1  3   
+Lampkin T, c          2  0  1  0   Fordyce B, c          3  0  1  0   
+Buhner J, ph          0  0  0  0   Hairston J, 2b        3  0  0  0   
+Wilson D, pr-c        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  6 12  6                        31  4  7  3
+
+Seattle          010 004 001 --  6
+Baltimore        030 010 000 --  4
+
+  Seattle              IP  H  R ER BB SO
+Abbott P (W)          5.0  7  4  4  6  6
+Franklin R            0.2  0  0  0  0  0
+Charlton N            0.2  0  0  0  0  0
+Nelson J              1.2  0  0  0  2  1
+Sasaki K (S)          1.0  0  0  0  1  1
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J (L)        5.2  7  5  5  2  7
+Ryan B                0.1  1  0  0  1  0
+Wasdin J              3.0  4  1  1  0  3
+
+E -- Bell D
+DP -- Seattle 2
+LOB -- Seattle 10, Baltimore 10
+2B -- Fordyce B, Cameron M, Javier S, Boone B
+HR -- Cameron M, Anderson B
+SB -- Bell D, Javier S, Suzuki I 2
+CS -- Mora M
+SH -- Fordyce B
+HBP -- by Wasdin J (Cameron M)
+WP -- Abbott P
+T -- 3:34
+A -- 45668
+     Game of 9/2/2001 -- Seattle at Baltimore (D)
+
+  Seattle            AB  R  H RBI    Baltimore          AB  R  H RBI
+Suzuki I, rf          4  0  1  0   Harris W, cf          2  0  0  0   
+McLemore M, ss-lf     3  0  0  0   Matos L, ph-cf        1  0  0  0   
+Boone B, 2b           4  1  1  1   Mora M, ss            4  0  1  0   
+Cameron M, cf         3  0  1  0   Richard C, rf         4  0  1  0   
+Martin A, lf          3  0  0  0   Conine J, 1b          3  0  1  0   
+Guillen C, ss         1  0  0  0   Ripken C, dh          4  0  1  0   
+Buhner J, dh          3  0  0  0   Batista T, 3b         4  0  0  0   
+Javier S, 1b          3  0  0  0   Anderson B, lf        3  0  1  0   
+Olerud J, 1b          1  0  0  0   Fordyce B, c          2  0  0  0   
+Bell D, 3b            3  0  0  0   Hairston J, 2b        3  0  1  0   
+Wilson D, c           3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  1  4  1                        30  0  6  0
+
+Seattle          000 000 100 --  1
+Baltimore        000 000 000 --  0
+
+  Seattle              IP  H  R ER BB SO
+Pineiro J (W)         7.0  4  0  0  0  4
+Paniagua J            0.2  0  0  0  0  0
+Rhodes A              0.1  0  0  0  0  1
+Sasaki K (S)          1.0  2  0  0  1  1
+
+  Baltimore            IP  H  R ER BB SO
+Bauer R (L)           6.1  3  1  1  2  1
+Julio J               1.2  1  0  0  1  2
+Roberts W             1.0  0  0  0  0  1
+
+LOB -- Seattle 6, Baltimore 6
+2B -- Wilson D
+HR -- Boone B
+SB -- Suzuki I 2, McLemore M
+SH -- Harris W
+HBP -- by Pineiro J (Fordyce B)
+WP -- Pineiro J, Sasaki K
+T -- 2:45
+A -- 45359
+     Game of 9/21/2001 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Knoblauch C, lf       4  1  1  0   Matos L, rf           4  1  2  1   
+Jeter D, ss           5  0  0  0   Harris W, cf          4  2  2  0   
+Justice D, dh         4  0  0  0   Conine J, 1b          4  0  1  0   
+Martinez T, 1b        4  1  2  2   Richard C, dh         2  2  1  1   
+Posada J, c           4  0  1  0   Ripken C, 3b          4  0  1  2   
+Almonte E, pr         0  0  0  0   Batista T, ss         4  0  2  1   
+Greene T, c           0  0  0  0   Roberts B, pr         0  1  0  0   
+Spencer S, rf         4  1  1  0   Anderson B, lf        4  1  1  0   
+Brosius S, 3b         3  2  2  2   Gil G, c              3  0  0  0   
+Soriano A, 2b         4  1  1  2   Hairston J, 2b        4  0  1  2   
+Williams G, cf        4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  6  9  6                        33  7 11  7
+
+New York         100 000 203 --  6
+Baltimore        013 010 002 --  7
+  1 out when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Mussina M             6.0  8  5  5  1  6
+Witasick J            2.0  0  0  0  0  2
+Rivera M (L)          0.1  3  2  2  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Bauer R               7.0  4  3  2  1  4
+Wasdin J              1.0  0  0  0  0  1
+Roberts W (W)         1.0  5  3  3  0  0
+
+E -- Gil G
+DP -- New York 1
+LOB -- New York 5, Baltimore 4
+2B -- Matos L, Richard C, Harris W, Ripken C, Brosius S
+HR -- Matos L, Soriano A, Martinez T, Brosius S
+SB -- Spencer S
+SH -- Gil G
+SF -- Richard C
+HBP -- by Bauer R (Brosius S)
+PB -- Gil G
+T -- 3:02
+A -- 47099
+     Game of 9/22/2001 -- New York at Baltimore (D)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Knoblauch C, lf       4  2  2  2   Matos L, cf           4  0  0  0   
+Wilson E, ss-2b       4  0  1  0   Roberts B, ss         5  2  2  0   
+Williams B, cf        3  0  1  0   Conine J, 1b          5  0  1  1   
+Rivera J, cf          1  0  0  0   Ripken C, dh          3  2  2  1   
+Martinez T, 1b        1  0  0  0   Blake C, pr           0  1  0  0   
+Johnson N, ph-1b      2  0  2  0   Batista T, 3b         5  2  2  0   
+Justice D, dh         2  0  0  0   Kinkade M, lf         5  2  2  2   
+Velarde R, ph         0  0  0  0   Gil G, c              5  1  3  5   
+Spencer S, rf         4  0  0  0   Bigbie L, rf          5  1  2  1   
+Brosius S, 3b         4  0  0  0   Hairston J, 2b        3  0  2  1   
+Greene T, c           4  0  0  0                                      
+Soriano A, 2b         2  0  0  0                                      
+Almonte E, ss         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        40 11 16 11
+
+New York         000 001 010 --  2
+Baltimore        105 300 02x -- 11
+
+  New York             IP  H  R ER BB SO
+Hitchcock S (L)       2.2  9  6  6  1  0
+Knight B              1.1  5  3  3  0  3
+Hernandez A           3.0  0  0  0  1  3
+Choate R              1.0  2  2  2  1  2
+
+  Baltimore            IP  H  R ER BB SO
+Douglass S (W)*       5.0  3  1  1  2  7
+Bale J                3.0  2  1  1  0  1
+Parrish J             1.0  1  0  0  1  2
+  * Pitched to 2 batters in 6th
+
+E -- Almonte E
+DP -- New York 1, Baltimore 1
+LOB -- New York 6, Baltimore 9
+2B -- Batista T, Gil G, Hairston J, Bigbie L, Kinkade M, Johnson N
+3B -- Roberts B
+HR -- Knoblauch C 2
+HBP -- by Hernandez A (Matos L)
+Balk -- Hitchcock S
+T -- 3:10
+A -- 47068
+     Game of 9/23/2001 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Soriano A, 2b         4  1  2  0   Matos L, cf           5  0  0  0   
+Velarde R, dh         4  0  0  0   Bigbie L, rf          4  0  1  1   
+Martinez T, ph        1  0  1  0   Kinkade M, ph-rf      1  0  0  0   
+Bellinger C, pr       0  0  0  0   Conine J, 1b          5  0  0  0   
+Knoblauch C, ph       1  0  1  0   Richard C, dh         4  2  2  0   
+Williams B, cf        3  0  0  2   Ripken C, 3b          4  1  1  3   
+Justice D, rf         6  0  2  0   Batista T, ss         4  0  2  0   
+Posada J, c           4  1  1  0   Anderson B, lf        3  0  0  0   
+Spencer S, lf         4  1  1  0   Gil G, c              4  0  2  0   
+Johnson N, 1b         5  2  3  3   Hairston J, 2b        4  1  1  0   
+Brosius S, 3b         4  0  0  0                                      
+Wilson E, ss          4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40  5 11  5                        38  4  9  4
+
+New York         000 001 021 1 --  5
+Baltimore        001 120 000 0 --  4
+
+  New York             IP  H  R ER BB SO
+Hernandez O           7.0  9  4  4  2  7
+Wohlers M             0.1  0  0  0  0  0
+Stanton M (W)         1.2  0  0  0  0  0
+Rivera M (S)          1.0  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J             6.2  5  1  1  3  7
+Ryan B                0.1  0  0  0  0  0
+Groom B               0.2  3  2  2  0  1
+Wasdin J              0.1  0  0  0  0  0
+Roberts W             1.0  1  1  1  2  2
+Parrish J (L)         1.0  2  1  1  2  2
+
+E -- Gil G, Hairston J
+LOB -- New York 14, Baltimore 7
+2B -- Bigbie L, Hairston J, Posada J, Johnson N
+3B -- Richard C
+HR -- Ripken C, Johnson N
+SB -- Richard C, Soriano A, Hairston J, Velarde R
+SH -- Brosius S
+SF -- Ripken C, Williams B
+T -- 4:14
+A -- 46071
+     Game of 10/1/2001 -- Toronto at Baltimore (N)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Stewart S, lf         4  0  0  0   Matos L, cf-rf        4  0  1  0   
+Gonzalez A, ss        4  0  2  0   Bigbie L, rf          4  0  1  0   
+Mondesi R, rf         4  0  0  0   Raines Jr T, cf       0  0  0  0   
+Delgado C, 1b         4  0  1  0   Conine J, 1b          3  0  0  0   
+Cruz J, cf            4  1  2  1   Richard C, dh         4  0  1  0   
+Fullmer B, dh         3  0  0  0   Ripken C, 3b          4  0  0  0   
+Lopez F, 3b           4  0  0  0   Batista T, ss         4  0  0  0   
+Fletcher D, c         4  0  1  0   Anderson B, lf        3  0  0  0   
+Izturis C, 2b         3  0  1  0   Gil G, c              3  0  2  0   
+                                   Hairston J, 2b        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  7  1                        32  0  6  0
+
+Toronto          000 001 000 --  1
+Baltimore        000 000 000 --  0
+
+  Toronto              IP  H  R ER BB SO
+Loaiza E (W)          7.0  6  0  0  1  5
+Quantrill P           1.0  0  0  0  0  0
+Koch B (S)            1.0  0  0  0  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Bauer R (L)*          7.0  7  1  1  1  4
+Groom B               2.0  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+E -- Ripken C 2
+DP -- Baltimore 1
+LOB -- Toronto 7, Baltimore 6
+2B -- Bigbie L, Cruz J, Gonzalez A
+HR -- Cruz J
+SB -- Izturis C, Matos L
+CS -- Gonzalez A
+T -- 2:37
+A -- 37108
+     Game of 10/2/2001 -- Toronto at Baltimore (N)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Stewart S, lf         4  1  2  0   Raines Jr T, cf       4  1  1  0   
+Gonzalez A, ss        4  0  0  0   Roberts B, 2b         2  0  0  0   
+Mondesi R, rf         5  0  0  0   Conine J, 1b          3  0  2  1   
+Delgado C, 1b         2  1  0  0   Richard C, dh         3  1  2  1   
+Cruz J, cf            4  1  2  3   Batista T, ss         5  0  1  0   
+Fullmer B, dh         3  0  0  0   Anderson B, lf        4  0  2  2   
+Lopez L, ph           1  0  0  0   Ripken C, 3b          4  0  0  0   
+Lopez F, 3b           4  0  1  0   Gil G, c              2  0  0  0   
+Fletcher D, c         2  0  1  0   Mora M, pr            0  1  0  0   
+Latham C, ph          1  0  0  0   Fordyce B, c          1  0  0  0   
+Castillo A, c         0  0  0  0   Matos L, rf           4  1  2  0   
+Bush H, 2b            3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        32  4 10  4
+
+Toronto          000 210 000 --  3
+Baltimore        001 100 101 --  4
+  2 outs when winning run was scored.
+
+  Toronto              IP  H  R ER BB SO
+Lyon B*               6.0  7  3  3  2  4
+File B                0.2  1  0  0  1  0
+Eyre S+               0.0  0  0  0  0  0
+Quantrill P           1.1  1  0  0  0  0
+DeWitt M (L)          0.2  1  1  1  2  1
+Borbon P              0.0  0  0  0  1  0
+
+  Baltimore            IP  H  R ER BB SO
+Douglass S            6.1  6  3  3  4  4
+Ryan B                1.2  0  0  0  0  3
+Roberts W (W)         1.0  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 7th
+
+DP -- Toronto 1
+LOB -- Toronto 9, Baltimore 12
+2B -- Stewart S, Richard C, Anderson B, Cruz J, Raines Jr T
+HR -- Cruz J
+SB -- Matos L, Stewart S, Gonzalez A
+SH -- Raines Jr T, Roberts B
+HBP -- by Douglass S (Stewart S), by Lyon B (Gil G), by Eyre S (Richard C), by Roberts W (Bush H)
+T -- 3:17
+A -- 29390
+     Game of 10/3/2001 -- Toronto at Baltimore (N)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Stewart S, lf         5  0  2  0   Raines Jr T, cf       4  3  2  0   
+Latham C, lf          0  0  0  0   Matos L, rf           2  3  2  1   
+Gonzalez A, ss        5  0  2  1   Conine J, 1b          3  0  3  3   
+Mondesi R, rf         2  0  0  0   Mora M, pr            0  0  0  0   
+Wells V, rf           2  0  0  0   Richard C, dh         3  0  0  0   
+Delgado C, 1b         4  2  2  0   Raines Sr T, ph       1  0  0  1   
+Cruz J, cf            5  2  2  2   Batista T, ss         5  0  2  1   
+Fullmer B, dh         3  1  1  0   Anderson B, lf        4  0  0  0   
+Fernandez T, ph       1  1  1  0   Ripken C, 3b          3  0  0  0   
+Lopez F, 3b           3  0  2  4   Gil G, c              4  0  1  0   
+Fletcher D, c         4  0  0  0   Hairston J, 2b        4  0  0  0   
+Izturis C, 2b         4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  7 13  7                        33  6 10  6
+
+Toronto          001 102 030 --  7
+Baltimore        101 020 101 --  6
+
+  Toronto              IP  H  R ER BB SO
+Coco P                4.1  5  3  3  1  2
+Beirne K              2.0  3  2  2  2  1
+Eyre S (W)            0.2  1  0  0  0  1
+File B                1.0  0  0  0  0  0
+Koch B (S)            1.0  1  1  1  1  1
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J*            5.0  6  4  4  3  4
+Bale J                1.1  0  0  0  0  1
+Wasdin J              0.2  1  0  0  0  1
+Groom B (L)+          0.0  3  3  3  0  0
+Julio J               2.0  3  0  0  0  1
+  * Pitched to 2 batters in 6th
+  + Pitched to 3 batters in 8th
+
+E -- Batista T, Fletcher D
+DP -- Baltimore 1
+LOB -- Toronto 7, Baltimore 8
+2B -- Raines Jr T, Izturis C, Matos L, Conine J, Stewart S, Batista T
+3B -- Lopez F
+HR -- Cruz J
+SB -- Stewart S, Mondesi R, Matos L, Fullmer B, Raines Jr T
+CS -- Gonzalez A, Lopez F
+SH -- Matos L 2
+SF -- Conine J, Raines Sr T
+PB -- Gil G
+T -- 3:25
+A -- 33705
+     Game of 10/4/2001 -- Boston at Baltimore (N)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Stynes C, lf          5  1  2  3   Raines Jr T, cf       4  1  1  0   
+Merloni L, ss         5  1  2  0   Matos L, rf           3  1  0  0   
+Nixon T, cf           3  0  0  0   Conine J, 1b          3  0  1  1   
+Daubach B, rf         5  0  2  1   Richard C, dh         4  1  1  1   
+Pickering C, dh       2  0  0  0   Batista T, ss         4  1  2  1   
+Burkhart M, 1b        3  1  0  0   Raines Sr T, lf       4  0  0  1   
+Hatteberg S, c        3  0  0  0   Ripken C, 3b          4  0  1  0   
+Mirabelli D, c        1  1  1  1   Fordyce B, c          2  0  0  0   
+Hillenbrand S, 3b     4  1  2  0   Roberts B, ph         1  0  1  0   
+Santos A, 2b          4  0  0  0   Hairston J, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  5                        32  4  7  4
+
+Boston           000 100 301 --  5
+Baltimore        200 001 001 --  4
+
+  Boston               IP  H  R ER BB SO
+Nomo H (W)            7.0  5  3  3  2  6
+Garces R              1.0  0  0  0  0  0
+Urbina U (S)          1.0  2  1  1  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Maduro C              6.1  4  3  3  4  8
+Wasdin J (L)          0.2  1  1  1  0  2
+Ryan B                1.0  1  0  0  0  2
+Roberts W             1.0  3  1  1  1  0
+
+DP -- Baltimore 1
+LOB -- Boston 8, Baltimore 5
+2B -- Daubach B, Richard C, Batista T
+3B -- Batista T
+HR -- Stynes C, Mirabelli D
+SB -- Raines Jr T, Matos L, Merloni L, Conine J, Richard C, Roberts B
+SH -- Hairston J
+SF -- Conine J
+WP -- Nomo H
+T -- 3:10
+A -- 43302
+     Game of 10/5/2001, game 1 -- Boston at Baltimore (D)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Offerman J, 2b        5  1  2  1   Raines Jr T, cf       3  0  0  0   
+Stynes C, lf          3  1  1  0   Matos L, rf           4  0  1  0   
+Lewis D, lf           0  0  0  0   Conine J, lf          4  0  1  0   
+Nixon T, cf           4  1  3  2   Richard C, dh         4  0  0  0   
+Daubach B, rf         4  0  0  0   Batista T, ss         4  0  0  0   
+Pickering C, 1b       4  0  1  1   Ripken C, 3b          4  0  1  0   
+Burkhart M, dh        4  1  1  1   Blake C, 1b           2  0  0  0   
+Hatteberg S, c        4  1  1  0   Roberts B, ph         1  0  0  0   
+Hillenbrand S, 3b     4  0  0  0   Fordyce B, c          3  0  0  0   
+Merloni L, ss         4  0  1  0   Hairston J, 2b        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 10  5                        31  0  3  0
+
+Boston           000 130 010 --  5
+Baltimore        000 000 000 --  0
+
+  Boston               IP  H  R ER BB SO
+Castillo F (W)        7.0  2  0  0  2  6
+Banks W               2.0  1  0  0  1  3
+
+  Baltimore            IP  H  R ER BB SO
+Kohlmeier R (L)       4.2  6  4  4  1  2
+Foster K              2.1  0  0  0  0  3
+Julio J*              0.0  2  1  1  0  0
+Groom B               1.0  1  0  0  0  1
+Mills A               1.0  1  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+E -- Offerman J
+DP -- Baltimore 1
+LOB -- Boston 5, Baltimore 7
+2B -- Hatteberg S
+HR -- Nixon T, Burkhart M
+SB -- Blake C, Matos L, Hairston J
+T -- 2:54
+A -- 46736
+     Game of 10/5/2001, game 2 -- Boston at Baltimore (N)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Lofton J, ss          5  0  1  0   Raines Jr T, cf       5  0  0  0   
+Lewis D, lf           4  1  1  0   Roberts B, 2b         5  0  1  0   
+Nixon T, cf           5  2  2  2   Conine J, 1b          3  2  1  0   
+Daubach B, 1b         4  0  1  0   Richard C, dh         5  1  1  1   
+O'Leary T, rf         4  1  1  1   Batista T, ss         5  0  3  0   
+Burkhart M, dh        4  0  1  1   Hairston J, pr        0  0  0  0   
+Hillenbrand S, 3b     4  1  1  0   Raines Sr T, lf       5  1  3  3   
+Mirabelli D, c        3  1  0  0   Ripken C, 3b          5  0  0  0   
+Santos A, 2b          2  0  0  0   Gil G, c              4  1  2  0   
+Pickering C, ph       1  1  1  3   Mora M, pr            0  0  0  0   
+Stynes C, 2b          1  0  0  0   Fordyce B, c          0  0  0  0   
+                                   Matos L, rf           4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     37  7  9  7                        41  5 12  5
+
+Boston           010 100 300 2 --  7
+Baltimore        001 002 020 0 --  5
+
+  Boston               IP  H  R ER BB SO
+Kim S                 6.0  9  3  3  0  4
+Erdos T               1.0  0  0  0  0  0
+Wakefield T (W)       2.1  3  2  2  2  3
+Garces R (S)          0.2  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J            6.2  5  4  3  1  4
+Wasdin J              0.2  3  1  1  1  0
+Groom B               0.2  0  0  0  0  1
+Roberts W (L)         2.0  1  2  2  1  2
+
+DP -- Boston 1
+LOB -- Boston 4, Baltimore 8
+2B -- O'Leary T, Burkhart M, Matos L, Batista T, Richard C
+HR -- Pickering C, Raines Sr T, Nixon T
+SB -- Matos L
+CS -- Lofton J
+SF -- O'Leary T
+WP -- Kim S
+PB -- Gil G 2
+T -- 3:25
+A -- 47927
+     Game of 10/6/2001 -- Boston at Baltimore (N)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Offerman J, 2b        5  1  2  2   Raines Jr T, cf       3  1  0  0   
+Lewis D, rf           5  0  1  0   Matos L, rf           3  0  0  0   
+Nixon T, cf           4  0  1  0   Raines Sr T, ph       1  0  0  0   
+Daubach B, 1b         3  1  0  0   Blake C, 1b           0  0  0  0   
+Bichette D, dh        4  1  2  2   Conine J, 1b-rf       3  0  0  1   
+O'Leary T, lf         4  0  1  0   Richard C, dh         4  0  1  0   
+Stynes C, 3b          4  0  0  0   Batista T, ss         4  0  0  0   
+Merloni L, ss         4  1  2  0   Anderson B, lf        4  0  2  0   
+Oliver J, c           4  1  3  1   Ripken C, 3b          3  0  0  0   
+                                   Gil G, c              3  0  1  0   
+                                   Hairston J, 2b        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 12  5                        30  1  4  1
+
+Boston           020 020 001 --  5
+Baltimore        100 000 000 --  1
+
+  Boston               IP  H  R ER BB SO
+Cone D (W)            8.0  3  1  0  2  7
+Urbina U              1.0  1  0  0  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Bauer R (L)           7.0  7  4  4  1  5
+Ryan B                1.0  2  0  0  0  3
+Groom B               0.1  0  0  0  0  1
+Julio J               0.2  3  1  1  0  2
+
+E -- Oliver J, Cone D
+DP -- Baltimore 2
+LOB -- Boston 6, Baltimore 5
+2B -- Anderson B, Oliver J, Richard C
+HR -- Bichette D, Offerman J
+SB -- Raines Jr T
+SF -- Conine J
+T -- 2:43
+A -- 48807
+

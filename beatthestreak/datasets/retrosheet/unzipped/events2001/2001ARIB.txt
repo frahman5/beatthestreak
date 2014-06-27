@@ -1,0 +1,3737 @@
+     Game of 4/6/2001 -- St. Louis at Arizona (N)
+
+  St. Louis          AB  R  H RBI    Arizona            AB  R  H RBI
+Vina F, 2b            5  1  5  3   Womack T, ss          3  1  0  0   
+Renteria E, ss        5  0  0  0   Grace M, 1b           4  2  2  2   
+Kline S, p            0  0  0  0   Gonzalez L, lf        4  2  2  2   
+Veres D, p            0  0  0  0   Williams M, 3b        5  1  2  1   
+Drew J, cf            4  1  1  0   Finley S, cf          4  1  0  0   
+Lankford R, lf        4  2  2  3   Bell J, 2b            5  1  2  1   
+Pujols A, rf          5  2  3  3   Dellucci D, rf        3  0  1  1   
+Mabry J, 1b           4  0  0  0   Bautista D, ph-rf     1  0  0  0   
+James M, p            0  0  0  0   Miller D, c           3  1  2  0   
+Polanco P, ss         1  0  0  0   Reynoso A, p          2  0  1  2   
+Matheny M, c          5  2  2  1   Morgan M, p           0  0  0  0   
+Paquette C, 3b        5  3  3  1   Cummings M, ph        1  0  0  0   
+Hermanson D, p        3  1  2  1   Batista M, p          0  0  0  0   
+Sutton L, 1b          1  0  0  0   Colbrunn G, ph        0  0  0  0   
+                                   Springer R, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42 12 18 12                        35  9 12  9
+
+St. Louis        000 280 200 -- 12
+Arizona          002 220 201 --  9
+
+  St. Louis            IP  H  R ER BB SO
+Hermanson D (W)       5.0  6  6  6  4  5
+James M*              1.0  4  2  2  0  0
+Kline S               2.0  1  0  0  1  0
+Veres D               1.0  1  1  1  0  1
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (L)         4.1  9  7  7  1  2
+Morgan M              1.2  6  3  3  1  0
+Batista M             2.0  3  2  2  0  0
+Springer R            1.0  0  0  0  0  0
+  * Pitched to 3 batters in 7th
+
+DP -- St. Louis 3, Arizona 2
+LOB -- St. Louis 6, Arizona 6
+2B -- Bell J, Reynoso A, Hermanson D, Pujols A, Dellucci D, Miller D
+3B -- Lankford R, Vina F
+HR -- Grace M, Pujols A, Paquette C, Gonzalez L, Williams M
+SH -- Sutton L
+HBP -- by Hermanson D (Grace M), by Hermanson D (Womack T)
+WP -- Hermanson D
+T -- 3:13
+A -- 46079
+     Game of 4/7/2001 -- St. Louis at Arizona (D)
+
+  St. Louis          AB  R  H RBI    Arizona            AB  R  H RBI
+Vina F, 2b            6  1  2  0   Womack T, ss          4  1  3  0   
+Renteria E, ss        4  0  1  0   Grace M, 1b           5  0  1  0   
+Polanco P, 3b         3  3  2  0   Gonzalez L, lf        5  1  1  3   
+Lankford R, lf        3  0  0  0   Williams M, 3b        4  0  1  0   
+Pujols A, rf          4  2  2  3   Finley S, cf          3  0  0  0   
+Timlin M, p           0  0  0  0   Dellucci D, rf        3  1  1  0   
+Matthews M, p         0  0  0  0   Bautista D, ph-rf     1  0  0  0   
+Drew J, cf            4  2  2  3   Bell J, 2b            1  0  1  0   
+Matheny M, c          4  0  1  2   Springer R, p         0  0  0  0   
+Paquette C, 1b        4  0  1  0   Cummings M, ph        1  0  0  0   
+Kile D, p             2  0  0  0   Kim B, p              0  0  0  0   
+Edmonds J, ph         1  0  0  0   Durazo E, ph          1  0  1  0   
+Kline S, p            0  0  0  0   Swindell G, p         0  0  0  0   
+Mabry J, rf           1  0  0  0   Miller D, c           4  0  1  0   
+                                   Witt B, p             1  0  0  0   
+                                   Counsell C, 2b        3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  8 11  8                        36  4 11  3
+
+St. Louis        201 023 000 --  8
+Arizona          010 030 000 --  4
+
+  St. Louis            IP  H  R ER BB SO
+Kile D (W)            6.0  8  4  4  3  2
+Kline S               1.1  1  0  0  0  0
+Timlin M              1.0  2  0  0  0  1
+Matthews M            0.2  0  0  0  0  2
+
+  Arizona              IP  H  R ER BB SO
+Witt B (L)            4.2  7  5  5  5  3
+Springer R            1.1  4  3  3  1  1
+Kim B                 2.0  0  0  0  2  6
+Swindell G            1.0  0  0  0  0  0
+
+E -- Womack T, Pujols A
+DP -- St. Louis 1, Arizona 1
+LOB -- St. Louis 11, Arizona 8
+2B -- Pujols A, Paquette C, Womack T
+HR -- Drew J, Gonzalez L
+SB -- Polanco P, Renteria E
+CS -- Paquette C
+SF -- Drew J
+HBP -- by Witt B (Polanco P)
+WP -- Witt B, Springer R
+T -- 3:32
+A -- 34404
+     Game of 4/8/2001 -- St. Louis at Arizona (D)
+
+  St. Louis          AB  R  H RBI    Arizona            AB  R  H RBI
+Vina F, 2b            4  1  2  2   Womack T, ss          5  1  2  0   
+Renteria E, ss        4  1  1  3   Sanders R, rf         4  1  0  0   
+Polanco P, 3b         5  1  3  0   Gonzalez L, lf        4  0  1  1   
+Pujols A, rf          5  0  2  2   Williams M, 3b        5  1  1  2   
+Lankford R, lf        0  0  0  0   Colbrunn G, 1b        2  0  0  0   
+Paquette C, lf-1b     5  0  1  0   Durazo E, ph-1b       2  0  0  0   
+Drew J, cf            3  1  0  0   Bautista D, cf        3  0  1  0   
+Matheny M, c          4  1  1  1   Dellucci D, ph-cf     0  0  0  0   
+Marrero E, 1b-rf      4  3  3  1   Bell J, 2b            4  0  0  0   
+Ankiel R, p           1  1  0  0   Barajas R, c          2  1  1  1   
+Stechschulte G, p     0  0  0  0   Counsell C, ph        1  0  0  0   
+Matthews M, p         0  0  0  0   Johnson R, p          1  0  0  0   
+Sutton L, ph          1  0  0  0   Batista M, p          0  0  0  0   
+James M, p            0  0  0  0   Cummings M, ph        1  0  1  0   
+Veres D, p            0  0  0  0   Swindell G, p         0  0  0  0   
+Kline S, p            0  0  0  0   Mantei M, p           0  0  0  0   
+Timlin M, p           0  0  0  0   Finley S, ph          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  9 13  9                        34  4  7  4
+
+St. Louis        004 203 000 --  9
+Arizona          200 000 110 --  4
+
+  St. Louis            IP  H  R ER BB SO
+Ankiel R (W)*         5.0  3  2  2  3  8
+Stechschulte G        1.1  2  1  1  0  0
+Matthews M            0.2  0  0  0  0  0
+James M               0.1  1  1  0  0  0
+Veres D               1.0  1  0  0  3  0
+Kline S               0.1  0  0  0  0  0
+Timlin M (S)          0.1  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (L)         5.2 11  9  9  2  4
+Batista M             1.1  1  0  0  0  2
+Swindell G            1.0  0  0  0  0  1
+Mantei M              1.0  1  0  0  0  1
+  * Pitched to 1 batter in 6th
+
+E -- Polanco P
+DP -- St. Louis 1, Arizona 2
+LOB -- St. Louis 5, Arizona 9
+2B -- Womack T, Pujols A, Gonzalez L
+HR -- Williams M, Matheny M, Marrero E, Renteria E, Barajas R
+SB -- Polanco P
+CS -- Vina F
+SH -- Ankiel R
+HBP -- by Johnson R (Vina F), by Johnson R (Drew J)
+T -- 3:11
+A -- 36714
+     Game of 4/10/2001 -- Los Angeles at Arizona (N)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+Goodwin T, cf         4  0  0  0   Womack T, ss          3  1  0  0   
+Grudzielanek M, 2b    4  0  0  0   Bell J, 2b            3  0  1  0   
+Sheffield G, lf       3  0  0  0   Gonzalez L, lf        3  1  1  1   
+Green S, rf           3  0  0  0   Williams M, 3b        3  0  0  0   
+Karros E, 1b          3  0  1  0   Finley S, cf          3  0  0  0   
+Donnels C, 3b         3  0  0  0   Bautista D, rf        3  0  0  0   
+LoDuca P, c           3  0  1  0   Grace M, 1b           3  0  1  0   
+Cora A, ss            3  0  0  0   Miller D, c           3  0  0  0   
+Brown K, p            2  0  0  0   Schilling C, p        2  0  0  0   
+Grissom M, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  0  2  0                        26  2  3  1
+
+Los Angeles      000 000 000 --  0
+Arizona          000 100 10x --  2
+
+  Los Angeles          IP  H  R ER BB SO
+Brown K (L)           8.0  3  2  1  0  8
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       9.0  2  0  0  0 10
+
+E -- Karros E
+DP -- Los Angeles 2
+LOB -- Los Angeles 2, Arizona 0
+HR -- Gonzalez L
+T -- 1:55
+A -- 29191
+     Game of 4/11/2001 -- Los Angeles at Arizona (N)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+Grissom M, cf         5  1  1  1   Womack T, ss          3  1  0  0   
+Grudzielanek M, 2b    4  1  1  1   Kim B, p              0  0  0  0   
+Goodwin T, lf         1  0  0  0   Mantei M, p           0  0  0  0   
+Sheffield G, lf       4  2  2  3   Grace M, 1b           2  0  1  0   
+Donnels C, 3b         1  0  0  0   Durazo E, 1b          2  0  1  2   
+Karros E, 1b          4  1  2  1   Gonzalez L, lf        2  0  0  0   
+Pena A, c             1  0  0  0   Morgan M, p           0  0  0  0   
+Green S, rf           3  1  0  0   Counsell C, ss        1  1  1  1   
+LoDuca P, rf          1  0  0  0   Williams M, 3b        2  0  0  0   
+Hiatt P, 3b-1b        5  2  2  2   Colbrunn G, 3b        2  0  0  0   
+Kreuter C, c          4  0  1  0   Finley S, cf          3  1  0  0   
+Adams T, p            0  0  0  0   Sanders R, rf         4  1  1  2   
+Fetters M, p          0  0  0  0   Bell J, 2b            3  0  0  0   
+Shaw J, p             0  0  0  0   Miller D, c           4  1  0  0   
+Reboulet J, ss        2  2  1  0   Anderson B, p         1  0  0  0   
+Dreifort D, p         2  1  1  0   Batista M, p          0  0  0  0   
+Bocachica H, ph-2b    1  0  0  0   Springer R, p         0  0  0  0   
+                                   Barajas R, ph         1  0  0  0   
+                                   Cummings M, lf        2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38 11 11  8                        32  5  5  5
+
+Los Angeles      222 500 000 -- 11
+Arizona          000 040 010 --  5
+
+  Los Angeles          IP  H  R ER BB SO
+Dreifort D (W)        6.0  3  4  2  2  2
+Adams T               1.0  1  0  0  1  0
+Fetters M             1.0  1  1  1  0  1
+Shaw J                1.0  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (L)*       3.0  6  8  6  2  0
+Batista M+            0.0  1  1  1  0  0
+Springer R            2.0  3  2  2  1  3
+Morgan M              2.0  1  0  0  0  0
+Kim B                 1.0  0  0  0  0  0
+Mantei M              1.0  0  0  0  0  1
+  * Pitched to 2 batters in 4th
+  + Pitched to 1 batter in 4th
+
+E -- Womack T, Finley S, Reboulet J
+DP -- Los Angeles 1
+LOB -- Los Angeles 4, Arizona 4
+2B -- Dreifort D, Durazo E
+HR -- Sheffield G 2, Karros E, Hiatt P, Sanders R, Counsell C
+SB -- Grissom M, Womack T
+SH -- Dreifort D
+HBP -- by Dreifort D (Womack T)
+WP -- Batista M, Springer R
+T -- 2:45
+A -- 25974
+     Game of 4/12/2001 -- Los Angeles at Arizona (N)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+Goodwin T, cf         4  0  1  1   Womack T, ss          4  1  2  0   
+Grudzielanek M, 2b    4  1  1  0   Sanders R, rf         4  0  2  0   
+Sheffield G, lf       3  1  2  0   Kim B, p              0  0  0  0   
+Grissom M, lf         0  0  0  0   Colbrunn G, ph        1  1  1  2   
+Green S, rf           4  2  2  4   Gonzalez L, lf        5  1  2  1   
+Karros E, 1b          4  0  1  0   Williams M, 3b        3  0  0  0   
+Donnels C, 3b         4  1  1  0   Durazo E, 1b          4  0  1  0   
+Hiatt P, 3b           0  0  0  0   Finley S, cf          3  0  0  0   
+LoDuca P, c           4  0  2  0   Barajas R, c          3  0  0  0   
+Cora A, ss            4  0  1  0   Grace M, ph           1  0  0  0   
+Ashby A, p            2  0  1  0   Miller D, c           0  0  0  0   
+Bocachica H, ph       1  0  0  0   Counsell C, 2b        4  0  2  0   
+Herges M, p           0  0  0  0   Reynoso A, p          1  0  0  0   
+Adams T, p            0  0  0  0   Cummings M, ph        1  0  0  0   
+Kreuter C, ph         1  0  0  0   Batista M, p          0  0  0  0   
+Shaw J, p             0  0  0  0   Swindell G, p         0  0  0  0   
+                                   Dellucci D, ph-rf     2  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  5 12  5                        36  4 11  4
+
+Los Angeles      013 100 000 --  5
+Arizona          001 000 102 --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Ashby A (W)           5.0  7  1  1  0  4
+Herges M              2.0  2  1  1  2  2
+Adams T               1.0  0  0  0  1  0
+Shaw J (S)            1.0  2  2  2  0  3
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (L)         5.0 10  5  5  1  0
+Batista M             1.1  2  0  0  0  0
+Swindell G            0.2  0  0  0  0  0
+Kim B                 2.0  0  0  0  0  2
+
+E -- Cora A
+DP -- Los Angeles 1, Arizona 2
+LOB -- Los Angeles 5, Arizona 8
+2B -- Cora A
+HR -- Green S 2, Gonzalez L, Dellucci D, Colbrunn G
+SB -- Goodwin T
+CS -- Sanders R, Womack T
+SF -- Goodwin T
+T -- 3:06
+A -- 29465
+     Game of 4/20/2001 -- Colorado at Arizona (N)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Pierre J, cf          3  0  0  0   Womack T, ss          4  0  0  0   
+Walker T, 2b          4  0  1  0   Bell J, 2b            4  0  0  0   
+Walker L, rf          3  0  1  0   Gonzalez L, lf        2  0  0  0   
+Helton T, 1b          4  1  1  1   Williams M, 3b        4  0  0  0   
+Cirillo J, 3b         4  0  0  0   Grace M, 1b           4  0  0  0   
+Hollandsworth T, lf   4  1  2  1   Sanders R, rf         4  2  3  2   
+Mayne B, c            4  0  1  0   Finley S, cf          3  0  1  0   
+Little M, pr          0  0  0  0   Miller D, c           3  1  1  0   
+White G, p            0  0  0  0   Schilling C, p        3  0  1  1   
+Shumpert T, ss        4  0  0  0   Kim B, p              0  0  0  0   
+Bohanon B, p          2  0  1  0                                      
+Davis K, p            0  0  0  0                                      
+Norton G, ph          1  0  0  0                                      
+Myers M, p            0  0  0  0                                      
+Petrick B, ph-c       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  2  7  2                        31  3  6  3
+
+Colorado         000 001 001 --  2
+Arizona          001 010 001 --  3
+  2 outs when winning run was scored.
+
+  Colorado             IP  H  R ER BB SO
+Bohanon B             6.1  5  2  2  0  3
+Davis K               0.2  0  0  0  0  2
+Myers M               1.0  0  0  0  0  1
+White G (L)           0.2  1  1  1  0  1
+
+  Arizona              IP  H  R ER BB SO
+Schilling C           8.1  7  2  2  2  8
+Kim B (W)             0.2  0  0  0  0  1
+
+E -- Walker T
+DP -- Colorado 1
+LOB -- Colorado 7, Arizona 4
+2B -- Hollandsworth T, Miller D, Schilling C
+HR -- Sanders R 2, Helton T, Hollandsworth T
+SB -- Sanders R, Little M
+CS -- Finley S
+HBP -- by Bohanon B (Gonzalez L) 2
+T -- 2:40
+A -- 32011
+     Game of 4/21/2001 -- Colorado at Arizona (N)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Pierre J, cf          4  0  2  3   Womack T, ss          4  1  0  0   
+Walker T, 2b          5  0  1  0   Bell J, 2b            3  2  0  0   
+Walker L, rf          5  0  1  0   Gonzalez L, lf        4  2  2  3   
+Helton T, 1b          4  0  0  0   Williams M, 3b        4  1  1  0   
+Cirillo J, 3b         4  1  2  0   Grace M, 1b           3  1  0  0   
+Hollandsworth T, lf   4  1  1  0   Sanders R, rf         4  2  2  5   
+Petrick B, c          4  1  1  0   Finley S, cf          4  0  1  1   
+Uribe J, ss           4  1  2  2   Barajas R, c          4  1  2  1   
+Villone R, p          0  0  0  0   Ellis R, p            2  0  0  0   
+Davenport J, p        0  0  0  0   Swindell G, p         0  0  0  0   
+Little M, ph          1  0  0  0   Bautista D, ph        1  0  0  0   
+Christman T, p        0  0  0  0   Springer R, p         0  0  0  0   
+Norton G, ph          1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5 11  5                        33 10  8 10
+
+Colorado         020 200 001 --  5
+Arizona          014 310 10x -- 10
+
+  Colorado             IP  H  R ER BB SO
+Villone R (L)         4.0  6  8  8  4  6
+Davenport J           2.0  1  1  1  1  2
+Christman T           2.0  1  1  1  0  2
+
+  Arizona              IP  H  R ER BB SO
+Ellis R (W)           6.1  7  4  4  2  2
+Swindell G            1.2  1  0  0  0  1
+Springer R            1.0  3  1  1  0  1
+
+E -- Cirillo J
+LOB -- Colorado 8, Arizona 4
+2B -- Hollandsworth T
+3B -- Norton G
+HR -- Sanders R 2, Gonzalez L, Barajas R
+SB -- Walker L, Womack T, Walker T, Hollandsworth T
+SH -- Villone R 2
+WP -- Villone R
+T -- 2:49
+A -- 31724
+     Game of 4/22/2001 -- Colorado at Arizona (D)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Pierre J, cf          3  0  0  0   Womack T, ss          3  0  0  0   
+Walker T, 2b          4  1  1  0   Bell J, 2b            4  0  0  0   
+Walker L, rf          4  1  2  1   Gonzalez L, lf        2  1  0  0   
+Helton T, 1b          2  0  0  0   Williams M, 3b        4  0  1  0   
+Cirillo J, 3b         3  0  1  1   Durazo E, 1b          4  0  1  0   
+Hollandsworth T, lf   4  0  2  0   Sanders R, rf         3  0  0  0   
+Mayne B, c            3  0  0  0   Finley S, cf          4  0  1  0   
+Uribe J, ss           4  0  0  0   Barajas R, c          2  0  0  0   
+Astacio P, p          4  0  0  0   Grace M, ph           1  0  0  0   
+Myers M, p            0  0  0  0   Miller D, c           0  0  0  0   
+Jimenez J, p          0  0  0  0   Reynoso A, p          1  0  0  0   
+                                   Counsell C, ph        0  0  0  0   
+                                   Brohawn T, p          0  0  0  0   
+                                   Prinz B, p            0  0  0  0   
+                                   Swindell G, p         0  0  0  0   
+                                   Colbrunn G, ph        0  0  0  0   
+                                   Mantei M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        28  1  3  0
+
+Colorado         100 000 010 --  2
+Arizona          000 000 001 --  1
+
+  Colorado             IP  H  R ER BB SO
+Astacio P (W)*        8.0  2  1  1  1  8
+Myers M+              0.0  1  0  0  0  0
+Jimenez J (S)         1.0  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (L)         6.0  3  1  1  3  0
+Brohawn T             1.1  2  1  1  1  1
+Prinz B               0.1  0  0  0  0  0
+Swindell G            0.1  0  0  0  0  0
+Mantei M              1.0  1  0  0  0  3
+  * Pitched to 2 batters in 9th
+  + Pitched to 1 batter in 9th
+
+E -- Bell J
+DP -- Colorado 1
+LOB -- Colorado 7, Arizona 6
+3B -- Hollandsworth T
+HR -- Walker L
+CS -- Helton T
+SH -- Womack T
+SF -- Cirillo J
+HBP -- by Astacio P (Counsell C), by Astacio P (Gonzalez L) 2, by Astacio P (Colbrunn G)
+T -- 2:54
+A -- 31076
+     Game of 4/23/2001 -- Florida at Arizona (N)
+
+  Florida            AB  R  H RBI    Arizona            AB  R  H RBI
+Castillo L, 2b        4  0  0  0   Womack T, ss          2  1  0  0   
+Owens E, rf           4  0  1  0   Bell J, 2b            3  2  1  1   
+Millar K, lf          4  0  0  0   Gonzalez L, lf        2  2  2  1   
+Wilson P, cf          4  0  2  0   Williams M, 3b        3  1  1  2   
+Lowell M, 3b          4  0  1  0   Finley S, cf          4  1  1  2   
+Johnson C, c          4  0  0  0   Sanders R, rf         4  1  1  3   
+Lee D, 1b             3  0  0  0   Grace M, 1b           4  0  0  0   
+Gonzalez A, ss        3  0  2  0   Miller D, c           3  0  0  0   
+Dempster R, p         1  0  0  0   Johnson R, p          4  1  1  0   
+Strong J, p           1  0  0  0                                      
+Mouton L, ph          1  0  0  0                                      
+Darensbourg V, p      0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  0  6  0                        29  9  7  9
+
+Florida          000 000 000 --  0
+Arizona          003 060 00x --  9
+
+  Florida              IP  H  R ER BB SO
+Dempster R (L)        4.1  5  8  8  4  2
+Strong J              2.2  2  1  1  0  4
+Darensbourg V         1.0  0  0  0  1  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         9.0  6  0  0  0 10
+
+E -- Owens E
+DP -- Florida 1
+LOB -- Florida 6, Arizona 3
+2B -- Gonzalez A, Williams M
+HR -- Sanders R
+SH -- Womack T
+HBP -- by Dempster R (Gonzalez L)
+T -- 2:29
+A -- 23328
+     Game of 4/24/2001 -- Florida at Arizona (N)
+
+  Florida            AB  R  H RBI    Arizona            AB  R  H RBI
+Castillo L, 2b        5  1  2  0   Finley S, cf          4  1  1  0   
+Owens E, rf           3  0  0  0   Bell J, 2b            3  1  2  4   
+Floyd C, lf           5  2  3  1   Gonzalez L, lf        4  1  2  0   
+Wilson P, cf          4  1  1  1   Williams M, ss-3b     4  0  0  0   
+Lowell M, 3b          3  0  1  1   Grace M, 1b           2  1  2  3   
+Johnson C, c          4  2  4  2   Sanders R, rf         2  0  0  0   
+Mouton L, pr          0  0  0  0   Colbrunn G, 3b        3  0  0  0   
+Lee D, 1b             5  1  1  0   Kim B, p              0  0  0  0   
+Gonzalez A, ss        4  1  0  0   Swindell G, p         0  0  0  0   
+Clement M, p          2  0  0  0   Prinz B, p            0  0  0  0   
+Millar K, ph          1  0  1  3   Dellucci D, ph        1  1  1  0   
+Darensbourg V, p      0  0  0  0   Mantei M, p           0  0  0  0   
+McGuire R, ph         1  0  0  0   Springer R, p         0  0  0  0   
+Miceli D, p           0  0  0  0   Miller D, c           3  1  1  0   
+Almanza A, p          0  0  0  0   Durazo E, ph          1  1  1  1   
+Alfonseca A, p        0  0  0  0   Barajas R, c          0  0  0  0   
+                                   Batista M, p          0  1  0  0   
+                                   Counsell C, ss        1  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  8 13  8                        28  9 10  8
+
+Florida          110 005 001 --  8
+Arizona          003 100 05x --  9
+
+  Florida              IP  H  R ER BB SO
+Clement M             5.0  5  4  4  6  2
+Darensbourg V         2.0  1  0  0  0  0
+Miceli D              0.1  2  3  3  1  1
+Almanza A (L)         0.1  0  1  1  1  0
+Alfonseca A           0.1  2  1  1  0  0
+
+  Arizona              IP  H  R ER BB SO
+Batista M*            5.0  6  3  2  1  1
+Kim B                 0.1  5  4  4  0  0
+Swindell G            0.2  0  0  0  1  1
+Prinz B (W)           2.0  1  0  0  0  0
+Mantei M              0.2  1  1  1  2  1
+Springer R (S)        0.1  0  0  0  0  0
+  * Pitched to 1 batter in 6th
+
+E -- Miller D
+DP -- Florida 2, Arizona 1
+LOB -- Florida 8, Arizona 7
+2B -- Gonzalez L, Millar K
+3B -- Grace M
+HR -- Johnson C, Bell J, Floyd C
+SB -- Castillo L 2, Owens E, Wilson P
+CS -- Floyd C
+SH -- Bell J, Batista M
+SF -- Wilson P, Bell J
+HBP -- by Clement M (Sanders R), by Batista M (Lowell M)
+WP -- Miceli D, Almanza A
+T -- 3:11
+A -- 24135
+     Game of 4/25/2001 -- Florida at Arizona (N)
+
+  Florida            AB  R  H RBI    Arizona            AB  R  H RBI
+Castillo L, 2b        4  1  3  1   Finley S, cf          5  0  1  2   
+Owens E, rf           4  0  1  0   Bell J, 2b            3  2  2  1   
+Floyd C, lf           5  0  1  1   Gonzalez L, lf        5  1  2  0   
+Wilson P, cf          5  1  1  1   Williams M, 3b        3  1  0  0   
+Lowell M, 3b          5  1  1  0   Grace M, 1b           4  2  2  1   
+Johnson C, c          4  2  2  2   Sanders R, rf         5  2  2  2   
+Lee D, 1b             4  1  2  1   Counsell C, ss        3  1  1  1   
+Gonzalez A, ss        3  1  2  1   Miller D, c           3  1  2  3   
+Berg D, ss            1  0  0  0   Schilling C, p        3  0  0  0   
+Grilli J, p           1  0  0  0   Kim B, p              0  0  0  0   
+Bones R, p            0  0  0  0   Prinz B, p            0  0  0  0   
+McGuire R, ph         1  0  0  0                                      
+Almanza A, p          0  0  0  0                                      
+Mouton L, ph          1  0  0  0                                      
+Miceli D, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  7 13  7                        34 10 12 10
+
+Florida          011 210 020 --  7
+Arizona          110 350 00x -- 10
+
+  Florida              IP  H  R ER BB SO
+Grilli J (L)*         4.0 10  9  9  1  3
+Bones R               1.0  2  1  1  2  1
+Almanza A             2.0  0  0  0  4  3
+Miceli D              1.0  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)+      7.0 13  7  7  0 12
+Kim B                 1.0  0  0  0  0  0
+Prinz B (S)           1.0  0  0  0  1  1
+  * Pitched to 4 batters in 5th
+  + Pitched to 2 batters in 8th
+
+E -- Williams M
+LOB -- Florida 7, Arizona 9
+2B -- Johnson C, Sanders R, Owens E, Lowell M
+HR -- Bell J, Lee D, Counsell C, Wilson P, Johnson C
+SB -- Castillo L 2
+SH -- Owens E, Grilli J, Schilling C
+HBP -- by Grilli J (Williams M)
+T -- 2:56
+A -- 23097
+     Game of 4/26/2001 -- Atlanta at Arizona (N)
+
+  Atlanta            AB  R  H RBI    Arizona            AB  R  H RBI
+Furcal R, ss          3  2  2  1   Finley S, cf          5  2  3  5   
+Jones A, cf           4  2  2  0   Bell J, 2b            4  1  1  0   
+Jones C, 3b           3  1  0  1   Gonzalez L, lf        5  2  2  4   
+Surhoff B, lf         2  0  0  2   Williams M, 3b        5  0  0  0   
+Jordan B, rf          4  0  2  1   Grace M, 1b           5  2  3  0   
+Brogna R, 1b          2  0  0  0   Sanders R, rf         4  1  1  0   
+Helms W, ph-1b        1  0  0  0   Counsell C, ss        3  1  1  0   
+Veras Q, 2b           4  0  0  0   Miller D, c           4  2  3  3   
+Bako P, c             3  1  1  0   Ellis R, p            2  0  0  0   
+Lopez J, ph-c         1  0  0  0   Dellucci D, ph        0  1  0  0   
+Maddux G, p           3  0  1  0   Brohawn T, p          0  0  0  0   
+Remlinger M, p        0  0  0  0   Durazo E, ph          1  1  1  1   
+Whiteside M, p        0  0  0  0   Kim B, p              0  0  0  0   
+Moss D, p             0  0  0  0                                      
+Martinez D, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  6  8  5                        38 13 15 13
+
+Atlanta          300 021 000 --  6
+Arizona          130 004 05x -- 13
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (L)          5.2  9  7  7  1  3
+Remlinger M           1.1  2  1  1  0  1
+Whiteside M           0.1  3  4  4  1  0
+Moss D                0.2  1  1  1  0  0
+
+  Arizona              IP  H  R ER BB SO
+Ellis R (W)           6.0  8  6  6  4  1
+Brohawn T             2.0  0  0  0  0  1
+Kim B                 1.0  0  0  0  1  2
+
+E -- Grace M
+DP -- Arizona 1
+LOB -- Atlanta 6, Arizona 4
+2B -- Jones A
+3B -- Finley S
+HR -- Gonzalez L 2, Finley S, Miller D, Durazo E
+SB -- Finley S
+SH -- Counsell C
+SF -- Jones C, Surhoff B, Furcal R
+Balk -- Ellis R
+T -- 2:37
+A -- 27362
+     Game of 4/27/2001 -- Atlanta at Arizona (N)
+
+  Atlanta            AB  R  H RBI    Arizona            AB  R  H RBI
+Furcal R, ss          4  0  0  1   Finley S, cf          4  0  0  0   
+Jones A, cf           5  1  1  2   Counsell C, 2b        4  0  0  0   
+Jones C, 3b           5  3  5  1   Gonzalez L, lf        4  0  0  0   
+Helms W, 3b           0  0  0  0   Williams M, ss        4  0  1  0   
+Surhoff B, lf         5  1  1  2   Durazo E, 1b          2  0  0  0   
+Jordan B, rf          5  0  2  0   Colbrunn G, 3b        3  0  0  0   
+Lopez J, c            4  1  1  0   Dellucci D, rf        2  0  1  0   
+Brogna R, 1b          4  1  1  0   Barajas R, c          3  0  0  0   
+Veras Q, 2b           4  2  3  2   Reynoso A, p          0  0  0  0   
+Burkett J, p          3  0  0  0   Bautista D, ph        1  0  1  0   
+                                   Sabel E, p            0  0  0  0   
+                                   Sanders R, ph         1  0  0  0   
+                                   Springer R, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  9 14  8                        28  0  3  0
+
+Atlanta          150 000 021 --  9
+Arizona          000 000 000 --  0
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (W)         9.0  3  0  0  1  5
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (L)         6.0 10  6  5  0  2
+Sabel E               2.0  3  2  2  0  0
+Springer R            1.0  1  1  1  0  0
+
+E -- Dellucci D
+DP -- Atlanta 1, Arizona 1
+LOB -- Atlanta 5, Arizona 4
+2B -- Jones C, Jordan B, Williams M
+HR -- Jones A, Surhoff B, Veras Q, Jones C
+SH -- Burkett J, Reynoso A
+SF -- Furcal R
+HBP -- by Burkett J (Dellucci D)
+T -- 2:21
+A -- 32663
+     Game of 4/28/2001 -- Atlanta at Arizona (N)
+
+  Atlanta            AB  R  H RBI    Arizona            AB  R  H RBI
+Furcal R, ss          4  0  2  0   Finley S, cf          4  1  2  0   
+Jones A, cf           4  1  1  1   Bell J, 2b            4  0  1  1   
+Jones C, 3b           3  1  1  0   Gonzalez L, lf        3  0  0  0   
+Jordan B, rf          3  0  1  1   Williams M, 3b        4  0  1  0   
+Rocker J, p           0  0  0  0   Grace M, 1b           2  0  0  0   
+Lopez J, c            4  0  0  0   Sanders R, rf         4  0  1  0   
+Helms W, 1b           3  0  0  0   Counsell C, ss        3  0  1  0   
+Brogna R, 1b          1  0  0  0   Durazo E, ph          1  0  0  0   
+Veras Q, 2b           4  1  2  1   Miller D, c           3  0  0  0   
+Surhoff B, lf         4  0  0  0   Johnson R, p          2  0  0  0   
+Glavine T, p          3  0  0  0   Colbrunn G, ph        1  0  0  0   
+Remlinger M, p        0  0  0  0   Swindell G, p         0  0  0  0   
+Martinez D, rf        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        31  1  6  1
+
+Atlanta          002 000 100 --  3
+Arizona          000 100 000 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (W)         7.0  5  1  1  2  5
+Remlinger M           0.1  1  0  0  0  1
+Rocker J (S)          1.2  0  0  0  1  2
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (L)         8.0  6  3  3  2 12
+Swindell G            1.0  1  0  0  0  1
+
+E -- Jones C
+DP -- Atlanta 2
+LOB -- Atlanta 5, Arizona 6
+2B -- Furcal R, Jordan B, Finley S 2, Veras Q
+HR -- Jones A, Veras Q
+CS -- Furcal R
+T -- 2:46
+A -- 45264
+     Game of 4/29/2001 -- Atlanta at Arizona (N)
+
+  Atlanta            AB  R  H RBI    Arizona            AB  R  H RBI
+Furcal R, ss          5  0  0  0   Finley S, cf          5  1  2  0   
+Jones A, cf           4  0  0  0   Bell J, 2b            3  2  1  2   
+Jones C, 3b           3  2  2  0   Gonzalez L, lf        4  1  2  1   
+Jordan B, rf          4  1  2  3   Williams M, 3b        4  0  1  1   
+Martinez D, lf        3  1  1  0   Grace M, 1b           4  1  2  1   
+Lopez J, c            4  0  0  0   Sanders R, rf         4  2  2  0   
+Veras Q, 2b           2  1  0  0   Counsell C, ss        2  0  0  0   
+Helms W, 1b           3  0  1  0   Miller D, c           3  0  0  0   
+Perez O, p            2  0  0  0   Batista M, p          1  0  0  0   
+Marquis J, p          0  0  0  0   Durazo E, ph          0  0  0  1   
+Giles M, ph           1  0  0  0   Sabel E, p            0  0  0  0   
+Cabrera J, p          0  0  0  0   Swindell G, p         0  0  0  0   
+Ligtenberg K, p       0  0  0  0   Springer R, p         0  0  0  0   
+Moss D, p             0  0  0  0   Bautista D, ph        1  0  0  0   
+Surhoff B, ph         1  0  1  2   Kim B, p              1  0  0  0   
+                                   Brohawn T, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  7  5                        32  7 10  6
+
+Atlanta          102 000 002 --  5
+Arizona          003 101 11x --  7
+
+  Atlanta              IP  H  R ER BB SO
+Perez O (L)           3.1  7  4  4  1  0
+Marquis J             2.2  1  1  1  0  3
+Cabrera J             1.0  1  1  1  1  0
+Ligtenberg K          0.2  1  1  0  1  0
+Moss D                0.1  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Batista M             4.0  4  3  3  3  2
+Sabel E (W)           1.0  1  0  0  0  1
+Swindell G            1.1  0  0  0  0  1
+Springer R            0.2  0  0  0  0  0
+Kim B                 1.1  1  2  2  1  3
+Brohawn T (S)         0.2  1  0  0  0  0
+
+E -- Jordan B, Ligtenberg K
+DP -- Atlanta 1, Arizona 1
+LOB -- Atlanta 5, Arizona 6
+2B -- Gonzalez L, Sanders R
+3B -- Jordan B, Gonzalez L
+HR -- Jordan B, Bell J, Grace M
+SB -- Sanders R
+CS -- Martinez D
+SH -- Counsell C
+SF -- Durazo E
+HBP -- by Kim B (Veras Q)
+T -- 2:53
+A -- 34356
+     Game of 5/7/2001 -- Cincinnati at Arizona (N)
+
+  Cincinnati         AB  R  H RBI    Arizona            AB  R  H RBI
+Larkin B, ss          5  0  1  1   Finley S, cf          3  0  1  0   
+Mercado H, p          0  0  0  0   Grace M, 1b           4  0  2  0   
+Graves D, p           0  0  0  0   Gonzalez L, lf        4  1  1  1   
+Sanders D, lf-rf-lf   5  1  2  0   Williams M, 3b        5  1  1  0   
+Tucker M, lf          0  0  0  0   Durazo E, rf          2  1  0  0   
+Ochoa A, rf-lf-rf     4  1  2  0   Bautista D, rf        2  0  0  0   
+Casey S, 1b           4  1  2  3   Miller D, c           4  1  2  1   
+Boone A, 3b           4  0  1  0   Womack T, ss          5  0  1  0   
+Rivera R, cf          5  1  1  0   Counsell C, 2b        4  0  2  0   
+Reese P, 2b           5  1  1  0   Anderson B, p         3  0  0  1   
+Stinnett K, c         4  0  2  1   Batista M, p          0  0  0  0   
+Harnisch P, p         2  0  1  0   Sanders R, ph         1  0  0  0   
+Young D, ph           1  0  0  0   Swindell G, p         0  0  0  0   
+Reyes D, p            0  0  0  0   Kim B, p              0  0  0  0   
+Sullivan S, p         0  0  0  0   Colbrunn G, ph        1  0  0  0   
+Castro J, ph-ss       1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40  5 14  5                        38  4 10  3
+
+Cincinnati       000 200 200 1 --  5
+Arizona          012 010 000 0 --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Harnisch P            5.0  7  4  3  4  1
+Reyes D               2.0  0  0  0  0  1
+Sullivan S            1.0  1  0  0  0  0
+Mercado H             0.1  1  0  0  1  1
+Graves D (W)          1.2  1  0  0  1  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B            6.2 11  4  4  2  1
+Batista M             2.1  1  0  0  0  2
+Swindell G (L)*       0.0  2  1  1  0  0
+Kim B                 1.0  0  0  0  0  0
+  * Pitched to 2 batters in 10th
+
+E -- Reese P
+DP -- Arizona 2
+LOB -- Cincinnati 8, Arizona 11
+2B -- Harnisch P, Larkin B, Williams M, Womack T, Casey S
+3B -- Ochoa A
+HR -- Gonzalez L, Casey S
+SB -- Sanders D
+SH -- Boone A
+SF -- Miller D
+T -- 3:05
+A -- 25636
+     Game of 5/8/2001 -- Cincinnati at Arizona (N)
+
+  Cincinnati         AB  R  H RBI    Arizona            AB  R  H RBI
+Sadler D, lf          4  1  1  0   Finley S, cf          5  1  0  0   
+Castro J, 1b-ss       4  0  0  0   Bell J, 2b            5  0  3  0   
+Larkin B, ss          3  0  0  0   Gonzalez L, lf        4  1  2  0   
+Tucker M, pr-cf       1  0  0  0   Sanders R, rf         5  1  1  1   
+Ochoa A, rf           3  0  0  2   Grace M, 1b           5  1  1  2   
+Boone A, 3b           4  1  1  0   Miller D, c           4  0  1  0   
+Rivera R, cf          3  0  1  1   Dellucci D, ph        0  0  0  0   
+Casey S, ph-1b        1  0  0  0   Womack T, ss          3  0  0  0   
+Reese P, 2b           3  0  0  0   Colbrunn G, ph-3b     2  0  0  0   
+Stinnett K, c         4  0  0  0   Counsell C, 3b-ss     4  0  1  0   
+Riedling J, p         0  0  0  0   Johnson R, p          3  0  1  0   
+Graves D, p           0  0  0  0   Kim B, p              0  0  0  0   
+Reitsma C, p          2  0  0  0   Swindell G, p         0  0  0  0   
+Sanders D, ph         1  0  0  0   Prinz B, p            0  0  0  0   
+Reyes D, p            0  0  0  0   Bautista D, ph        0  0  0  0   
+LaRue J, c            0  1  0  0   Durazo E, ph          1  0  0  0   
+                                   Springer R, p         0  0  0  0   
+                                   Brohawn T, p          0  0  0  0   
+                                   Williams M, ph        0  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     33  3  3  3                        41  4 10  4
+
+Cincinnati       000 010 000 02 --  3
+Arizona          000 001 000 03 --  4
+  2 outs when winning run was scored.
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C             8.0  7  1  1  1  2
+Reyes D               1.1  0  0  0  0  2
+Riedling J            0.2  0  0  0  0  1
+Graves D (L)          0.2  3  3  3  3  1
+
+  Arizona              IP  H  R ER BB SO
+Johnson R             9.0  3  1  1  0 20
+Kim B                 0.1  0  0  0  2  0
+Swindell G            0.1  0  0  0  0  0
+Prinz B               0.1  0  0  0  1  0
+Springer R*           0.0  0  2  0  2  0
+Brohawn T (W)         1.0  0  0  0  0  1
+  * Pitched to 3 batters in 11th
+
+E -- Springer R
+LOB -- Cincinnati 5, Arizona 9
+2B -- Bell J, Grace M
+SB -- Boone A, Sadler D
+CS -- Rivera R
+SH -- Ochoa A, Sadler D
+SF -- Ochoa A
+WP -- Reitsma C
+T -- 3:39
+A -- 29817
+     Game of 5/9/2001 -- Cincinnati at Arizona (N)
+
+  Cincinnati         AB  R  H RBI    Arizona            AB  R  H RBI
+Larkin B, ss          4  0  1  0   Finley S, cf          4  1  1  0   
+Castro J, ss          0  0  0  0   Bell J, 2b            3  0  1  0   
+Sanders D, lf         4  0  0  0   Gonzalez L, lf        4  1  2  0   
+Tucker M, cf          4  0  0  0   Sanders R, rf         4  1  2  1   
+Casey S, 1b           4  0  0  0   Grace M, 1b           4  1  2  1   
+Ochoa A, rf           4  2  3  0   Miller D, c           3  0  0  0   
+Boone A, 3b           4  0  1  1   Dellucci D, ph        1  1  1  3   
+Reese P, 2b           1  0  0  1   Barajas R, c          0  0  0  0   
+LaRue J, c            3  0  0  0   Womack T, ss          3  0  1  0   
+Mercado H, p          0  0  0  0   Counsell C, 3b        4  0  1  0   
+Riedling J, p         0  0  0  0   Ellis R, p            2  0  0  0   
+Dessens E, p          2  0  0  0   Bautista D, ph        1  0  0  0   
+Stinnett K, c         1  0  0  0   Batista M, p          0  0  0  0   
+                                   Durazo E, ph          1  0  0  0   
+                                   Prinz B, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        34  5 11  5
+
+Cincinnati       000 010 100 --  2
+Arizona          001 001 03x --  5
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E             6.0  7  2  2  2  3
+Mercado H (L)         1.1  2  2  2  0  2
+Riedling J            0.2  2  1  1  0  1
+
+  Arizona              IP  H  R ER BB SO
+Ellis R               7.0  4  2  2  1  3
+Batista M (W)         1.0  0  0  0  0  0
+Prinz B (S)           1.0  1  0  0  0  0
+
+LOB -- Cincinnati 4, Arizona 7
+2B -- Grace M, Sanders R 2, Ochoa A, Larkin B, Boone A
+HR -- Grace M, Dellucci D
+SB -- Reese P
+SF -- Reese P
+WP -- Ellis R
+T -- 2:36
+A -- 26150
+     Game of 5/11/2001 -- Philadelphia at Arizona (N)
+
+  Philadelphia       AB  R  H RBI    Arizona            AB  R  H RBI
+Glanville D, cf       5  2  4  3   Finley S, cf          4  0  0  0   
+Rollins J, ss         5  0  2  0   Bell J, 2b            4  0  2  0   
+Abreu B, rf           4  0  1  0   Gonzalez L, lf        4  0  1  0   
+Rolen S, 3b           3  0  1  0   Williams M, 3b        4  0  1  0   
+Lieberthal M, c       4  0  0  0   Grace M, 1b           3  0  0  0   
+Lee T, 1b             4  2  2  2   Sanders R, rf         4  0  0  0   
+Burrell P, lf         3  1  2  0   Womack T, ss          3  1  1  0   
+Anderson M, 2b        3  0  0  0   Miller D, c           3  0  1  1   
+Wolf R, p             3  0  0  0   Schilling C, p        2  0  0  0   
+Jordan K, ph          1  0  0  0   Brohawn T, p          0  0  0  0   
+Cormier R, p          0  0  0  0   Batista M, p          0  0  0  0   
+                                   Bautista D, ph        1  0  0  0   
+                                   Swindell G, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5 12  5                        32  1  6  1
+
+Philadelphia     101 001 002 --  5
+Arizona          000 010 000 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Wolf R (W)            8.0  5  1  1  1  9
+Cormier R             1.0  1  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (L)       7.0  8  3  3  2  5
+Brohawn T             0.1  1  0  0  0  1
+Batista M             0.2  0  0  0  0  0
+Swindell G            1.0  3  2  2  0  0
+
+E -- Williams M
+DP -- Philadelphia 1, Arizona 1
+LOB -- Philadelphia 6, Arizona 5
+2B -- Rolen S, Bell J, Williams M
+3B -- Womack T
+HR -- Glanville D 2, Lee T 2
+CS -- Glanville D, Abreu B
+SH -- Anderson M
+T -- 2:53
+A -- 30291
+     Game of 5/12/2001 -- Philadelphia at Arizona (N)
+
+  Philadelphia       AB  R  H RBI    Arizona            AB  R  H RBI
+Glanville D, cf       4  1  1  0   Finley S, cf          3  0  0  0   
+Rollins J, ss         4  1  2  0   Bell J, 2b            5  0  0  0   
+Abreu B, rf           4  1  1  0   Gonzalez L, lf        5  1  2  1   
+Rolen S, 3b           5  1  1  2   Williams M, 3b        5  0  2  0   
+Lieberthal M, c       1  0  1  0   Grace M, 1b           4  2  1  0   
+Bennett G, c          4  2  2  2   Sanders R, rf         5  2  2  4   
+Lee T, 1b             3  0  1  1   Womack T, ss          3  0  1  0   
+Burrell P, lf         5  0  1  1   Barajas R, c          2  0  0  0   
+Anderson M, 2b        4  0  0  0   Dellucci D, ph        1  0  0  0   
+Bottalico R, p        0  0  0  0   Miller D, c           0  0  0  0   
+Ducey R, ph           0  0  0  0   Anderson B, p         2  0  0  0   
+Mesa J, p             0  0  0  0   Counsell C, ph        1  0  1  0   
+Daal O, p             3  0  3  0   Brohawn T, p          0  0  0  0   
+Brock C, p            0  0  0  0   Kim B, p              0  0  0  0   
+Cormier R, p          0  0  0  0   Colbrunn G, ph        1  0  0  0   
+Perez T, 2b           2  0  1  0   Batista M, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 14  6                        37  5  9  5
+
+Philadelphia     005 000 000 1 --  6
+Arizona          000 302 000 0 --  5
+
+  Philadelphia         IP  H  R ER BB SO
+Daal O                5.2  4  4  4  2  1
+Brock C               1.1  2  1  1  1  0
+Cormier R             0.2  1  0  0  0  0
+Bottalico R (W)       1.1  1  0  0  1  1
+Mesa J (S)            1.0  1  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B            7.0 10  5  5  1  2
+Brohawn T             1.0  0  0  0  1  0
+Kim B                 1.0  2  0  0  1  0
+Batista M (L)         1.0  2  1  1  1  0
+
+E -- Williams M
+DP -- Arizona 1
+LOB -- Philadelphia 9, Arizona 7
+2B -- Rolen S, Bennett G
+HR -- Gonzalez L, Sanders R 2
+SB -- Abreu B, Rollins J
+CS -- Counsell C, Lee T
+SH -- Glanville D, Miller D, Ducey R
+T -- 3:10
+A -- 33515
+     Game of 5/13/2001 -- Philadelphia at Arizona (D)
+
+  Philadelphia       AB  R  H RBI    Arizona            AB  R  H RBI
+Glanville D, cf       4  0  1  0   Finley S, cf          2  1  1  0   
+Gomes W, p            0  0  0  0   Bell J, 2b            3  1  0  0   
+Cormier R, p          0  0  0  0   Gonzalez L, lf        3  1  2  0   
+Bottalico R, p        0  0  0  0   Williams M, 3b        4  0  0  0   
+Rollins J, ss         4  0  0  0   Grace M, 1b           3  2  1  4   
+Rolen S, 3b           2  0  0  0   Sanders R, rf         3  1  2  2   
+Burrell P, lf         2  0  0  0   Womack T, ss          4  0  1  0   
+Jordan K, 1b          4  0  0  0   Miller D, c           3  0  0  0   
+Hunter B, rf-cf       3  1  1  0   Johnson R, p          3  0  0  0   
+Bennett G, c          4  0  1  0   Prinz B, p            0  0  0  0   
+Perez T, 2b           3  0  1  1                                      
+Person R, p           2  0  0  0                                      
+Oropesa E, p          0  0  0  0                                      
+Abreu B, ph-rf        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  1  4  1                        28  6  7  6
+
+Philadelphia     010 000 000 --  1
+Arizona          000 200 04x --  6
+
+  Philadelphia         IP  H  R ER BB SO
+Person R (L)          5.2  4  2  2  4  6
+Oropesa E             0.1  0  0  0  0  0
+Gomes W*              1.0  0  2  2  2  1
+Cormier R+            0.0  1  1  1  0  0
+Bottalico R           1.0  2  1  1  0  2
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         8.0  4  1  1  4 12
+Prinz B               1.0  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+  + Pitched to 1 batter in 8th
+
+E -- Williams M, Grace M
+DP -- Philadelphia 1
+LOB -- Philadelphia 7, Arizona 5
+2B -- Finley S, Perez T, Sanders R
+HR -- Sanders R, Grace M
+SB -- Rollins J, Hunter B, Glanville D, Rolen S, Womack T
+CS -- Rolen S, Finley S, Sanders R
+SH -- Perez T
+HBP -- by Johnson R (Rolen S), by Person R (Sanders R)
+WP -- Johnson R
+PB -- Miller D
+T -- 3:16
+A -- 32223
+     Game of 5/21/2001 -- San Francisco at Arizona (N)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Benard M, cf          4  0  1  0   Bautista D, cf        4  0  1  0   
+Martinez R, ss        4  0  1  0   Bell J, 2b            4  0  0  0   
+Bonds B, lf           4  1  1  1   Gonzalez L, lf        4  0  1  0   
+Kent J, 2b            4  1  1  1   Colbrunn G, 3b        3  2  2  1   
+Rios A, rf            4  0  0  0   Counsell C, 3b        0  0  0  0   
+Santiago B, c         3  0  2  0   Grace M, 1b           2  1  1  1   
+Snow J, 1b            2  0  0  0   Sanders R, rf         4  1  1  2   
+Guzman E, 1b          1  0  0  0   Womack T, ss          3  0  0  0   
+Aurilia R, ph         1  0  0  0   Miller D, c           3  0  0  0   
+Feliz P, 3b           3  0  0  0   Schilling C, p        3  0  1  0   
+Rueter K, p           2  0  0  0                                      
+Dunston S, ph         1  0  0  0                                      
+Fultz A, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  6  2                        30  4  7  4
+
+San Francisco    000 101 000 --  2
+Arizona          010 201 00x --  4
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (L)          6.0  5  4  4  2  2
+Fultz A               2.0  2  0  0  0  3
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       9.0  6  2  2  1  8
+
+E -- Miller D, Guzman E, Santiago B
+DP -- San Francisco 1
+LOB -- San Francisco 5, Arizona 5
+2B -- Colbrunn G
+HR -- Colbrunn G, Bonds B, Sanders R, Kent J
+SB -- Santiago B
+CS -- Gonzalez L
+T -- 2:22
+A -- 28628
+     Game of 5/22/2001 -- San Francisco at Arizona (N)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Dunston S, cf         5  0  1  0   Womack T, ss          5  1  2  1   
+Aurilia R, ss         5  1  1  0   Bell J, 2b            5  1  1  2   
+Bonds B, lf           3  1  2  2   Gonzalez L, lf        2  2  1  0   
+Kent J, 2b            4  0  0  0   Grace M, 1b           4  1  3  4   
+Davis E, rf           3  0  0  0   Sanders R, rf         4  1  1  1   
+Rios A, ph-rf         1  0  0  0   Finley S, cf          4  2  3  3   
+Jensen R, p           0  0  0  0   Miller D, c           2  0  0  0   
+Guzman E, ph          1  1  1  1   Kim B, p              0  0  0  0   
+Snow J, 1b            5  1  2  0   Dellucci D, ph        0  1  0  0   
+Davis R, 3b           5  2  3  1   Sabel E, p            0  0  0  0   
+Estalella B, c        5  2  2  1   Durazo E, ph          1  0  0  0   
+Ortiz R, p            1  0  0  0   Springer R, p         0  0  0  0   
+Santiago B, ph        1  0  1  2   Prinz B, p            0  0  0  0   
+Zerbe C, p            0  0  0  0   Counsell C, 3b        5  1  1  0   
+Worrell T, p          0  0  0  0   Anderson B, p         2  0  1  1   
+Benard M, rf          1  0  0  1   Barajas R, c          3  2  2  0   
+                     -- -- -- --                        -- -- -- --
+                     40  8 13  8                        37 12 15 12
+
+San Francisco    000 103 013 --  8
+Arizona          021 023 31x -- 12
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (L)           5.0  8  5  5  4  4
+Zerbe C               0.1  3  3  3  1  0
+Worrell T             1.1  2  3  3  1  0
+Jensen R              1.1  2  1  1  1  2
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (W)        5.1  7  4  4  4  4
+Kim B                 1.2  1  0  0  0  2
+Sabel E               1.0  1  1  1  0  0
+Springer R            0.1  3  3  3  0  0
+Prinz B               0.2  1  0  0  0  0
+
+DP -- San Francisco 1, Arizona 1
+LOB -- San Francisco 9, Arizona 9
+2B -- Dunston S, Grace M 2, Finley S, Estalella B, Barajas R, Aurilia R, Snow J
+3B -- Estalella B
+HR -- Davis R, Finley S, Bonds B, Guzman E
+SF -- Sanders R
+WP -- Kim B, Jensen R
+Balk -- Kim B
+T -- 3:09
+A -- 33323
+     Game of 5/23/2001 -- San Francisco at Arizona (N)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Dunston S, cf         5  1  1  0   Womack T, ss          4  0  1  0   
+Nen R, p              0  0  0  0   Bell J, 2b            4  0  0  0   
+Aurilia R, ss         3  1  1  0   Gonzalez L, lf        4  0  0  0   
+Kent J, 1b-2b         1  1  0  1   Grace M, 1b           3  1  1  1   
+Bonds B, lf           4  0  2  1   Sanders R, rf         3  0  0  0   
+Santiago B, c         4  0  0  0   Finley S, cf          3  0  1  0   
+Davis E, rf           4  0  1  0   Miller D, c           2  0  0  0   
+Martinez R, 2b        4  1  1  0   Counsell C, 3b        3  0  0  0   
+Snow J, 1b            0  0  0  0   Johnson R, p          1  0  0  0   
+Feliz P, 3b           4  1  2  1   Durazo E, ph          1  0  0  0   
+Gardner M, p          3  0  0  1   Sabel E, p            0  0  0  0   
+Rodriguez F, p        0  0  0  0   Brohawn T, p          0  0  0  0   
+Davis R, ph           1  0  1  0   Dellucci D, ph        1  0  0  0   
+Benard M, cf          0  0  0  0   Swindell G, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  9  4                        29  1  3  1
+
+San Francisco    112 000 001 --  5
+Arizona          000 100 000 --  1
+
+  San Francisco        IP  H  R ER BB SO
+Gardner M (W)         7.0  3  1  1  2  1
+Rodriguez F           1.0  0  0  0  0  0
+Nen R                 1.0  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (L)         5.0  5  4  4  2  4
+Sabel E               2.0  2  0  0  0  2
+Brohawn T             1.0  0  0  0  1  2
+Swindell G            1.0  2  1  1  0  0
+
+E -- Counsell C
+DP -- San Francisco 1, Arizona 2
+LOB -- San Francisco 5, Arizona 3
+2B -- Feliz P, Davis E, Womack T
+HR -- Grace M, Feliz P
+SB -- Finley S
+CS -- Bonds B
+SF -- Kent J
+Balk -- Johnson R
+T -- 2:40
+A -- 34922
+     Game of 6/1/2001 -- San Diego at Arizona (N)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Henderson R, lf       5  0  1  0   Womack T, ss          5  0  2  0   
+Kotsay M, cf          3  0  1  0   Finley S, cf          5  0  0  0   
+Klesko R, 1b          4  0  2  0   Gonzalez L, lf        4  2  2  1   
+Nevin P, 3b           4  0  1  0   Bell J, 2b            4  2  4  2   
+Darr M, rf            4  0  0  0   Durazo E, 1b          3  0  1  0   
+Davis B, c            4  1  2  0   Sanders R, rf         4  0  1  0   
+Crespo C, 2b          4  0  0  0   Counsell C, 3b        4  0  0  0   
+Gomez C, ss           4  0  1  1   Miller D, c           4  0  2  0   
+Williams W, p         2  0  0  0   Schilling C, p        1  0  1  0   
+Magadan D, ph         1  1  1  0   Swindell G, p         0  0  0  0   
+Lee D, p              0  0  0  0   Dellucci D, ph        1  0  0  0   
+Witasick J, p         0  0  0  0   Kim B, p              0  0  0  0   
+Arias A, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  2  9  1                        35  4 13  3
+
+San Diego        000 100 100 --  2
+Arizona          202 000 00x --  4
+
+  San Diego            IP  H  R ER BB SO
+Williams W (L)        6.0 10  4  4  0  4
+Lee D                 1.0  2  0  0  0  1
+Witasick J            1.0  1  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       7.0  9  2  2  1  7
+Swindell G            1.0  0  0  0  0  1
+Kim B (S)             1.0  0  0  0  0  0
+
+E -- Schilling C, Kotsay M
+DP -- Arizona 1
+LOB -- San Diego 8, Arizona 10
+2B -- Bell J, Durazo E, Davis B, Magadan D, Klesko R
+HR -- Gonzalez L, Bell J
+SH -- Schilling C 2
+HBP -- by Williams W (Durazo E)
+WP -- Williams W 2, Schilling C
+T -- 2:32
+A -- 32234
+     Game of 6/2/2001 -- San Diego at Arizona (N)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Henderson R, lf       4  0  0  0   Womack T, ss          5  0  1  1   
+Kotsay M, cf          4  1  2  0   Dellucci D, cf        4  0  1  0   
+Klesko R, 1b          4  0  0  0   Gonzalez L, lf        4  0  2  0   
+Nevin P, 3b           3  0  0  0   Bell J, 2b            3  1  1  0   
+Trammell B, rf        4  0  1  1   Durazo E, 1b          4  0  0  0   
+Davis B, c            4  0  2  0   Sanders R, rf         3  0  1  1   
+Arias A, 2b           3  0  1  0   Counsell C, 3b        2  1  0  0   
+Mendez D, ss          2  0  0  0   Barajas R, c          3  0  0  0   
+Darr M, ph            1  0  0  0   Bautista D, ph        1  0  1  0   
+Gomez C, ss           0  0  0  0   Anderson B, p         2  0  0  0   
+Eaton A, p            2  0  0  0   Batista M, p          0  0  0  0   
+Magadan D, ph         0  0  0  0   Finley S, ph          1  0  0  0   
+Colangelo M, ph       1  0  0  0   Kim B, p              0  0  0  0   
+Nunez J, p            0  0  0  0   Swindell G, p         0  0  0  0   
+Davey T, p            0  0  0  0   Prinz B, p            0  0  0  0   
+Hoffman T, p          0  0  0  0   Grace M, ph           0  0  0  0   
+                                   Spivey J, pr          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        32  2  7  2
+
+San Diego        000 000 001 --  1
+Arizona          000 001 001 --  2
+  1 out when winning run was scored.
+
+  San Diego            IP  H  R ER BB SO
+Eaton A               7.0  5  1  1  3  5
+Nunez J               1.0  0  0  0  0  1
+Davey T (L)           0.1  1  1  1  2  0
+Hoffman T             0.0  1  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B            6.1  3  0  0  0  3
+Batista M             0.2  0  0  0  0  1
+Kim B                 0.2  1  0  0  0  0
+Swindell G            1.0  1  1  1  0  1
+Prinz B (W)           0.1  1  0  0  1  0
+
+E -- Mendez D
+LOB -- San Diego 5, Arizona 10
+2B -- Davis B, Kotsay M
+3B -- Bell J
+CS -- Kotsay M, Sanders R
+T -- 2:39
+A -- 34325
+     Game of 6/3/2001 -- San Diego at Arizona (D)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Henderson R, lf       5  0  0  0   Womack T, ss          5  3  3  0   
+Colangelo M, cf       3  1  1  0   Dellucci D, cf        4  0  0  0   
+Lee D, p              0  0  0  0   Brohawn T, p          0  0  0  0   
+Magadan D, ph         1  0  1  0   Durazo E, ph          1  0  1  1   
+Seanez R, p           0  0  0  0   Swindell G, p         0  0  0  0   
+Davey T, p            0  0  0  0   Gonzalez L, lf        3  0  0  1   
+Kotsay M, ph          1  0  0  0   Bell J, 2b            2  2  0  0   
+Nevin P, 3b           5  0  1  1   Grace M, 1b           2  1  1  0   
+Trammell B, rf        3  0  1  1   Sanders R, rf         4  2  3  5   
+Darr M, pr-rf         1  0  1  0   Counsell C, 3b        3  0  1  1   
+Davis B, c            5  1  1  1   Miller D, c           4  0  0  0   
+Arias A, 1b           3  1  1  0   Johnson R, p          2  0  0  0   
+Gomez C, 2b           4  0  1  0   Bautista D, ph-cf     2  0  1  0   
+Mendez D, ss          4  0  1  0                                      
+Jarvis K, p           1  1  1  1                                      
+Nunez J, p            0  0  0  0                                      
+Crespo C, cf          2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  4 10  4                        32  8 10  8
+
+San Diego        020 020 000 --  4
+Arizona          400 120 01x --  8
+
+  San Diego            IP  H  R ER BB SO
+Jarvis K (L)          4.0  5  5  5  1  3
+Nunez J               0.2  1  2  2  2  1
+Lee D                 1.1  2  0  0  1  1
+Seanez R              1.0  0  0  0  1  1
+Davey T               1.0  2  1  1  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         6.0  7  4  3  0 14
+Brohawn T             2.0  2  0  0  2  0
+Swindell G            1.0  1  0  0  0  1
+
+E -- Nunez J
+DP -- San Diego 1
+LOB -- San Diego 10, Arizona 7
+2B -- Counsell C, Nevin P, Bautista D, Durazo E
+3B -- Womack T
+HR -- Sanders R, Davis B
+SF -- Gonzalez L
+HBP -- by Johnson R (Jarvis K), by Lee D (Gonzalez L)
+WP -- Johnson R, Nunez J
+PB -- Miller D
+T -- 2:59
+A -- 37500
+     Game of 6/4/2001 -- Los Angeles at Arizona (N)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+LoDuca P, 1b          5  2  2  1   Womack T, ss          4  0  0  0   
+Goodwin T, cf         4  2  1  2   Dellucci D, rf-lf     4  0  1  0   
+Grudzielanek M, 2b    5  1  2  0   Gonzalez L, lf        3  1  1  1   
+Green S, rf           5  1  1  3   Bautista D, rf        1  0  0  0   
+Grissom M, lf         5  1  2  1   Bell J, 2b            3  0  0  0   
+Beltre A, 3b          5  1  2  1   Durazo E, 1b          1  1  1  1   
+Kreuter C, c          3  0  2  0   Grace M, 1b           2  0  1  0   
+Cora A, ss            3  0  1  0   Spivey J, 2b          1  0  0  0   
+Park C, p             3  0  0  0   Finley S, cf          4  0  0  0   
+Bocachica H, ph       1  0  0  0   Counsell C, 3b        3  2  1  1   
+Olson G, p            0  0  0  0   Barajas R, c          4  0  0  0   
+                                   Reynoso A, p          0  0  0  0   
+                                   Colbrunn G, ph        1  0  0  0   
+                                   Guzman G, p           1  0  0  0   
+                                   Sanders R, ph         1  0  1  1   
+                                   Sabel E, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  8 13  8                        33  4  6  4
+
+Los Angeles      014 201 000 --  8
+Arizona          000 011 110 --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Park C (W)            7.0  5  3  3  2  6
+Olson G               2.0  1  1  1  0  2
+
+  Arizona              IP  H  R ER BB SO
+Reynoso A (L)         3.0  7  5  5  1  0
+Guzman G              4.0  5  3  3  1  2
+Sabel E               2.0  1  0  0  0  1
+
+DP -- Arizona 1
+LOB -- Los Angeles 7, Arizona 4
+2B -- Kreuter C, Sanders R
+HR -- Grissom M, Green S, Beltre A, Goodwin T, Counsell C, LoDuca P, Gonzalez L, Durazo E
+HBP -- by Reynoso A (Cora A)
+T -- 2:58
+A -- 26485
+     Game of 6/5/2001 -- Los Angeles at Arizona (N)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+LoDuca P, c           5  0  2  1   Womack T, ss          4  1  0  0   
+Goodwin T, cf         4  0  1  0   Bell J, 2b            4  1  2  1   
+Grudzielanek M, 2b    3  1  2  0   Gonzalez L, lf        4  0  0  0   
+Green S, rf           4  0  0  0   Grace M, 1b           4  1  2  1   
+Grissom M, lf         5  2  2  2   Spivey J, pr          0  0  0  0   
+Hansen D, 1b          3  1  1  0   Colbrunn G, 1b        0  0  0  0   
+Beltre A, 3b          3  1  0  0   Sanders R, rf         4  0  1  0   
+Cora A, ss            3  1  0  0   Finley S, cf          4  0  0  0   
+Herges M, p           0  0  0  0   Miller D, c           3  2  2  0   
+Donnels C, ph         0  0  0  0   Bautista D, ph        1  0  0  0   
+Bogar T, ph           1  0  0  0   Counsell C, 3b        4  0  0  0   
+Olson G, p            0  0  0  0   Ellis R, p            2  0  1  1   
+Orosco J, p           0  0  0  0   Batista M, p          0  0  0  0   
+Fetters M, p          0  0  0  0   Brohawn T, p          0  0  0  0   
+Shaw J, p             0  0  0  0   Dellucci D, ph        1  0  0  0   
+Adams T, p            1  0  0  0   Kim B, p              0  0  0  0   
+Carrara G, p          0  0  0  0   Swindell G, p         0  0  0  0   
+Reboulet J, ss        2  0  1  3   Prinz B, p            0  0  0  0   
+                                   Durazo E, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6  9  6                        36  5  8  3
+
+Los Angeles      000 012 030 --  6
+Arizona          001 021 010 --  5
+
+  Los Angeles          IP  H  R ER BB SO
+Adams T               4.2  5  3  3  0  5
+Carrara G             0.1  0  0  0  0  0
+Herges M (W)          2.0  1  1  1  0  1
+Olson G*              0.0  1  1  0  0  0
+Orosco J              0.1  1  0  0  0  1
+Fetters M             0.2  0  0  0  0  1
+Shaw J (S)            1.0  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Ellis R               6.0  6  3  2  2  1
+Batista M             0.2  0  0  0  2  0
+Brohawn T             0.1  0  0  0  0  0
+Kim B (L)+            0.0  1  3  3  2  0
+Swindell G#           1.0  2  0  0  0  1
+Prinz B               1.0  0  0  0  1  1
+  * Pitched to 1 batter in 8th
+  + Pitched to 3 batters in 8th
+  # Pitched to 1 batter in 9th
+
+E -- Grace M, Womack T, Green S
+DP -- Arizona 2
+LOB -- Los Angeles 9, Arizona 4
+2B -- Grudzielanek M, Grissom M, Reboulet J, Grace M
+HR -- Grissom M, Grace M
+SB -- Goodwin T 3
+SH -- Adams T
+WP -- Adams T, Ellis R
+Balk -- Adams T
+T -- 3:28
+A -- 32699
+     Game of 6/6/2001 -- Los Angeles at Arizona (N)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+LoDuca P, c           4  0  1  0   Womack T, ss          4  0  0  0   
+Goodwin T, cf         4  0  1  0   Bell J, 2b            4  2  2  1   
+Green S, rf           4  1  1  1   Gonzalez L, lf        4  0  2  0   
+Grissom M, lf         4  0  0  0   Grace M, 1b           4  0  1  1   
+Hansen D, 1b          4  0  0  0   Sanders R, rf         4  0  1  0   
+Grudzielanek M, 2b    3  0  1  0   Finley S, cf          4  1  1  0   
+Gagne E, p            0  0  0  0   Miller D, c           4  1  2  2   
+Beltre A, 3b          3  0  1  0   Counsell C, 3b        3  0  1  0   
+Reboulet J, ss        3  0  1  0   Schilling C, p        2  0  0  0   
+Prokopec L, p         2  0  0  0                                      
+Bocachica H, 2b       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        33  4 10  4
+
+Los Angeles      000 000 001 --  1
+Arizona          100 111 00x --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Prokopec L (L)        6.0  9  4  4  0  2
+Gagne E               2.0  1  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       9.0  6  1  1  0  8
+
+E -- Hansen D
+DP -- Los Angeles 1, Arizona 1
+LOB -- Los Angeles 4, Arizona 6
+2B -- Miller D, Bell J, Grace M
+HR -- Bell J, Miller D, Green S
+SH -- Schilling C
+WP -- Prokopec L
+T -- 2:29
+A -- 31046
+     Game of 6/7/2001 -- Los Angeles at Arizona (D)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+LoDuca P, 1b          3  2  1  0   Womack T, ss          4  1  0  0   
+Reboulet J, ss        4  2  2  2   Spivey J, 2b          3  3  2  2   
+Grudzielanek M, 2b    4  1  1  1   Gonzalez L, lf        4  2  2  1   
+Green S, rf           5  2  2  3   Durazo E, 1b          4  2  1  3   
+Grissom M, cf         5  1  1  2   Sanders R, rf         3  2  1  2   
+Beltre A, 3b          5  0  2  0   Sabel E, p            0  0  0  0   
+Bocachica H, lf       4  0  1  0   Prinz B, p            0  0  0  0   
+Kreuter C, c          4  1  2  0   Finley S, cf          4  2  3  3   
+Dreifort D, p         2  0  0  0   Barajas R, c          3  0  1  1   
+Gagne E, p            0  0  0  0   Kim B, p              0  0  0  0   
+Cora A, ph            1  0  1  0   Swindell G, p         0  0  0  0   
+Olson G, p            0  0  0  0   Bautista D, ph-rf     1  0  1  1   
+Donnels C, ph         0  0  0  0   Counsell C, 3b        4  0  0  0   
+Bogar T, ph           1  0  1  0   Bierbrodt N, p        0  0  0  0   
+Fetters M, p          0  0  0  0   Dellucci D, ph        1  0  0  0   
+Orosco J, p           0  0  0  0   Batista M, p          1  0  0  0   
+Hansen D, ph          1  0  0  0   Moeller C, c          2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  9 14  8                        34 13 12 13
+
+Los Angeles      330 003 000 --  9
+Arizona          305 021 11x -- 13
+
+  Los Angeles          IP  H  R ER BB SO
+Dreifort D (L)*       2.0  5  8  8  4  2
+Gagne E               3.0  2  2  2  1  1
+Olson G               1.0  2  1  1  0  1
+Fetters M             1.0  2  1  1  0  0
+Orosco J              1.0  1  1  1  1  0
+
+  Arizona              IP  H  R ER BB SO
+Bierbrodt N           2.0  5  6  6  3  3
+Batista M (W)         3.0  1  0  0  2  2
+Kim B                 1.2  5  3  3  0  1
+Swindell G            0.1  1  0  0  1  0
+Sabel E               1.0  1  0  0  0  0
+Prinz B               1.0  1  0  0  0  2
+  * Pitched to 5 batters in 3rd
+
+E -- Womack T
+DP -- Los Angeles 1, Arizona 2
+LOB -- Los Angeles 9, Arizona 3
+2B -- Beltre A 2, Reboulet J 2, Bogar T, Finley S, Bautista D
+3B -- Moeller C
+HR -- Grissom M, Durazo E, Finley S, Green S, Spivey J
+SB -- Green S
+CS -- Finley S
+WP -- Batista M, Fetters M
+T -- 3:17
+A -- 32658
+     Game of 6/12/2001 -- Chicago at Arizona (N)
+
+  Chicago            AB  R  H RBI    Arizona            AB  R  H RBI
+Young E, 2b           4  1  2  0   Womack T, ss          4  0  0  0   
+Matthews G, cf        3  1  0  0   Moeller C, ph-c       1  0  0  0   
+Sosa S, rf            4  1  0  0   Grace M, 1b           1  1  0  0   
+Stairs M, 1b          3  1  2  2   Durazo E, 1b          2  0  0  0   
+White R, lf           5  1  3  3   Gonzalez L, lf        4  0  2  1   
+Coomer R, 3b          4  0  1  1   Bell J, 3b            3  0  1  0   
+Gordon T, p           0  0  0  0   Finley S, cf          5  0  0  0   
+Hundley T, c          5  0  0  0   Dellucci D, rf        3  1  2  0   
+Ojeda A, ss           4  0  1  0   Miller D, c           4  0  0  0   
+Wood K, p             3  1  1  0   Spivey J, pr-2b       0  0  0  0   
+Fassero J, p          0  0  0  0   Counsell C, 2b-ss     3  0  2  1   
+Farnsworth K, p       0  0  0  0   Schilling C, p        2  0  0  0   
+Heredia F, p          0  0  0  0   Bautista D, ph        1  0  0  0   
+Cairo M, ph-3b        1  0  0  0   Kim B, p              0  0  0  0   
+                                   Sanders R, ph         1  0  0  0   
+                                   Batista M, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6 10  6                        34  2  7  2
+
+Chicago          010 020 003 --  6
+Arizona          001 001 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Wood K (W)            5.2  5  2  2  5  6
+Fassero J*            1.1  1  0  0  1  0
+Farnsworth K          0.2  1  0  0  0  0
+Heredia F             0.1  0  0  0  0  0
+Gordon T              1.0  0  0  0  1  1
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (L)       6.0  7  3  3  3  7
+Kim B                 2.0  0  0  0  0  3
+Batista M             1.0  3  3  3  2  1
+  * Pitched to 1 batter in 8th
+
+E -- Womack T, Ojeda A
+DP -- Arizona 1
+LOB -- Chicago 10, Arizona 12
+2B -- Dellucci D
+3B -- Gonzalez L, Counsell C
+HR -- White R
+SB -- Dellucci D, Womack T
+CS -- Bell J
+SH -- Young E
+HBP -- by Kim B (Stairs M)
+PB -- Miller D
+T -- 3:16
+A -- 40191
+     Game of 6/13/2001 -- Chicago at Arizona (N)
+
+  Chicago            AB  R  H RBI    Arizona            AB  R  H RBI
+Young E, 2b           4  1  1  0   Counsell C, 2b        6  2  2  2   
+Stairs M, 2b          0  0  0  0   Bell J, 3b            4  3  3  1   
+Matthews G, cf        4  1  1  0   Gonzalez L, lf        4  2  3  3   
+Sosa S, rf            3  1  1  1   Dellucci D, lf        0  0  0  0   
+Dunwoody T, rf        0  0  0  0   Bautista D, rf        5  2  3  1   
+Coomer R, 3b-1b       3  0  1  1   Durazo E, 1b          5  0  1  2   
+White R, lf           4  0  1  1   Finley S, cf          5  0  2  2   
+Zuleta J, 1b          3  0  0  0   Moeller C, c          5  1  2  0   
+Duncan C, p           1  0  0  0   Womack T, ss          5  2  2  1   
+Girardi J, c          4  0  0  0   Bierbrodt N, p        1  1  1  0   
+Ojeda A, ss           4  0  0  0   Miller D, ph          1  0  0  0   
+Tapani K, p           1  0  0  0   Sabel E, p            0  0  0  0   
+Aybar M, p            1  0  1  0   Brohawn T, p          0  0  0  0   
+Cairo M, ph-3b        2  0  0  0   Spivey J, ph          1  0  0  0   
+                                   Prinz B, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  6  3                        42 13 19 12
+
+Chicago          002 010 000 --  3
+Arizona          172 030 00x -- 13
+
+  Chicago              IP  H  R ER BB SO
+Tapani K (L)          2.0 10  8  8  0  2
+Aybar M               3.0  8  5  4  3  4
+Duncan C              3.0  1  0  0  0  3
+
+  Arizona              IP  H  R ER BB SO
+Bierbrodt N (W)       5.0  6  3  3  2  6
+Sabel E               2.0  0  0  0  0  0
+Brohawn T             1.0  0  0  0  0  0
+Prinz B               1.0  0  0  0  0  0
+
+E -- Bell J, Zuleta J, Aybar M, Sosa S
+LOB -- Chicago 6, Arizona 9
+2B -- Bell J, Gonzalez L, Young E, Sosa S, Matthews G
+SH -- Bierbrodt N
+WP -- Aybar M
+T -- 2:50
+A -- 33670
+     Game of 6/14/2001 -- Chicago at Arizona (D)
+
+  Chicago            AB  R  H RBI    Arizona            AB  R  H RBI
+Young E, 2b           2  0  0  0   Counsell C, 2b        4  0  1  0   
+Cairo M, ss           4  0  3  0   Bell J, 3b            3  0  2  0   
+Sosa S, rf            4  0  1  0   Gonzalez L, lf        4  0  0  0   
+Coomer R, 3b          3  0  0  0   Bautista D, rf        4  1  1  0   
+White R, lf           4  1  0  0   Durazo E, 1b          4  1  2  0   
+Girardi J, c          3  0  0  0   Finley S, cf          3  1  1  0   
+Matthews G, cf        4  1  1  2   Miller D, c           3  0  2  3   
+Zuleta J, 1b          3  0  1  0   Womack T, ss          4  0  0  0   
+Heredia F, p          0  0  0  0   Johnson R, p          2  0  0  0   
+Hundley T, ph         1  0  0  0   Kim B, p              0  0  0  0   
+Bere J, p             2  0  0  0   Prinz B, p            0  0  0  0   
+Stairs M, ph-1b       2  0  0  0   Swindell G, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        31  3  9  3
+
+Chicago          000 000 002 --  2
+Arizona          000 300 00x --  3
+
+  Chicago              IP  H  R ER BB SO
+Bere J (L)            6.0  8  3  3  3  2
+Heredia F             2.0  1  0  0  1  2
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)*        7.0  5  0  0  4 11
+Kim B                 1.0  0  0  0  0  0
+Prinz B               0.1  1  2  1  0  0
+Swindell G (S)        0.2  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+E -- Matthews G, Durazo E, Womack T
+DP -- Chicago 1, Arizona 2
+LOB -- Chicago 7, Arizona 8
+2B -- Miller D
+HR -- Matthews G
+SB -- Cairo M
+CS -- Young E
+T -- 2:52
+A -- 40093
+     Game of 6/15/2001 -- Detroit at Arizona (N)
+
+  Detroit            AB  R  H RBI    Arizona            AB  R  H RBI
+Cedeno R, cf          4  0  1  1   Counsell C, 2b        4  0  1  0   
+Easley D, 2b          3  0  1  1   Bell J, 3b            5  1  1  0   
+Higginson B, lf       4  0  0  0   Gonzalez L, lf        4  1  2  1   
+Clark T, 1b           4  1  1  1   Bautista D, rf        4  0  1  0   
+Fick R, c             4  2  2  1   Durazo E, 1b          3  0  1  0   
+Halter S, ss          2  0  0  0   Finley S, cf          3  0  1  1   
+Jackson R, rf         4  0  1  1   Moeller C, c          4  0  1  0   
+Macias J, 3b          4  1  1  0   Womack T, ss          4  0  1  0   
+Holt C, p             2  0  0  0   Batista M, p          2  0  0  0   
+Magee W, ph           0  1  0  0   Dellucci D, ph        1  0  0  0   
+Jones T, p            0  0  0  0   Brohawn T, p          0  0  0  0   
+Patterson D, p        0  0  0  0   Sabel E, p            0  0  0  0   
+Simon R, ph           1  0  0  0   Mohler M, p           0  0  0  0   
+Anderson M, p         0  0  0  0   Ryan R, ph            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  7  5                        35  2  9  2
+
+Detroit          010 000 400 --  5
+Arizona          002 000 000 --  2
+
+  Detroit              IP  H  R ER BB SO
+Holt C (W)            6.0  8  2  2  1  4
+Jones T               1.0  1  0  0  0  1
+Patterson D           1.0  0  0  0  0  2
+Anderson M (S)        1.0  0  0  0  1  1
+
+  Arizona              IP  H  R ER BB SO
+Batista M             6.0  1  1  1  1  7
+Brohawn T (L)         0.2  5  4  4  1  0
+Sabel E               1.1  1  0  0  0  2
+Mohler M              1.0  0  0  0  0  2
+
+E -- Easley D
+DP -- Detroit 1
+LOB -- Detroit 4, Arizona 9
+2B -- Bell J, Gonzalez L, Fick R
+HR -- Fick R, Clark T
+SH -- Halter S
+SF -- Finley S
+HBP -- by Batista M (Halter S)
+T -- 2:59
+A -- 31683
+     Game of 6/16/2001 -- Detroit at Arizona (N)
+
+  Detroit            AB  R  H RBI    Arizona            AB  R  H RBI
+Cedeno R, cf          4  0  1  0   Counsell C, 2b        4  1  1  0   
+Easley D, 2b          4  0  1  0   Bell J, 3b            3  1  0  0   
+Higginson B, lf       4  0  0  0   Gonzalez L, lf        2  1  2  2   
+Clark T, 1b           3  1  3  1   Durazo E, 1b          3  0  0  1   
+Fick R, c             3  0  0  0   Sanders R, rf         4  0  0  0   
+Halter S, ss          4  0  0  0   Finley S, cf          4  0  1  0   
+Jackson R, rf         4  0  1  0   Miller D, c           4  0  2  0   
+Patterson J, 3b       4  0  1  0   Womack T, ss          3  0  1  0   
+Blair W, p            2  0  0  0   Ellis R, p            2  0  0  0   
+Macias J, ph          1  0  0  0   Dellucci D, ph        1  0  0  0   
+Nitkowski C, p        0  0  0  0   Kim B, p              0  0  0  0   
+Simon R, ph           1  0  0  0   Bautista D, ph        0  0  0  0   
+                                   Prinz B, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  7  1                        30  3  7  3
+
+Detroit          000 100 000 --  1
+Arizona          201 000 00x --  3
+
+  Detroit              IP  H  R ER BB SO
+Blair W (L)           6.0  5  3  3  2  5
+Nitkowski C           2.0  2  0  0  3  1
+
+  Arizona              IP  H  R ER BB SO
+Ellis R (W)           6.0  3  1  1  3  5
+Kim B                 2.0  2  0  0  0  4
+Prinz B (S)           1.0  2  0  0  1  0
+
+E -- Womack T
+DP -- Arizona 1
+LOB -- Detroit 10, Arizona 11
+2B -- Gonzalez L, Clark T
+HR -- Gonzalez L, Clark T
+SB -- Cedeno R 2, Counsell C, Womack T
+SF -- Durazo E
+HBP -- by Blair W (Bell J), by Blair W (Counsell C)
+Balk -- Ellis R
+PB -- Fick R
+T -- 2:44
+A -- 35028
+     Game of 6/17/2001 -- Detroit at Arizona (D)
+
+  Detroit            AB  R  H RBI    Arizona            AB  R  H RBI
+Cedeno R, cf          5  0  1  0   Counsell C, 2b        3  0  1  1   
+Easley D, 2b          4  0  0  0   Bell J, 3b            4  0  0  0   
+Higginson B, lf       4  1  2  1   Gonzalez L, lf        3  1  1  1   
+Simon R, 1b           4  0  2  0   Durazo E, 1b          4  2  2  1   
+Jackson R, rf         4  0  0  0   Sanders R, rf         3  1  1  0   
+Halter S, ss          4  1  1  0   Finley S, cf          4  1  2  0   
+Patterson J, 3b       4  1  3  1   Miller D, c           4  1  2  1   
+Inge B, c             4  0  1  1   Womack T, ss          4  2  3  4   
+Mlicki D, p           1  0  0  0   Schilling C, p        2  0  0  0   
+Encarnacion J, ph     1  0  0  0   Dellucci D, ph        1  0  0  0   
+Borkowski D, p        0  0  0  0   Mohler M, p           0  0  0  0   
+Fick R, ph            1  0  0  0                                      
+Tolar K, p            0  0  0  0                                      
+Sparks S, p           0  0  0  0                                      
+Macias J, ph          1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  3 11  3                        32  8 12  8
+
+Detroit          000 110 100 --  3
+Arizona          002 510 00x --  8
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (L)          4.0  7  7  7  0  4
+Borkowski D           2.0  3  1  1  0  1
+Tolar K               1.0  1  0  0  2  2
+Sparks S              1.0  1  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       8.0  9  3  3  0 12
+Mohler M              1.0  2  0  0  0  0
+
+DP -- Detroit 2, Arizona 1
+LOB -- Detroit 7, Arizona 4
+2B -- Cedeno R, Womack T 2
+HR -- Miller D, Higginson B, Gonzalez L, Womack T, Patterson J, Durazo E
+SH -- Schilling C
+SF -- Counsell C
+T -- 2:34
+A -- 39760
+     Game of 6/25/2001 -- Houston at Arizona (N)
+
+  Houston            AB  R  H RBI    Arizona            AB  R  H RBI
+Biggio C, 2b          4  0  2  0   Counsell C, 2b        2  0  1  0   
+Lugo J, ss-lf         4  1  0  0   Bell J, 3b            5  0  1  0   
+Bagwell J, 1b         4  1  1  0   Gonzalez L, lf        3  0  1  0   
+Berkman L, cf         4  2  2  3   Grace M, 1b           4  0  1  0   
+Alou M, rf            4  1  1  1   Sanders R, rf         4  0  1  0   
+Ward D, lf            4  0  1  0   Finley S, cf          4  0  0  0   
+Vizcaino J, pr-ss     0  0  0  0   Moeller C, c          3  0  1  0   
+Castilla V, 3b        4  1  2  1   Womack T, ss          4  0  0  0   
+Ausmus B, c           3  0  2  1   Batista M, p          2  0  0  0   
+Miller W, p           2  0  0  0   Sabel E, p            0  0  0  0   
+Hayes C, ph           1  0  0  0   Swindell G, p         0  0  0  0   
+Powell J, p           0  0  0  0   Dellucci D, ph        1  0  0  0   
+Jackson M, p          0  0  0  0   Mohler M, p           0  0  0  0   
+                                   Spivey J, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6 11  6                        33  0  6  0
+
+Houston          000 012 300 --  6
+Arizona          000 000 000 --  0
+
+  Houston              IP  H  R ER BB SO
+Miller W (W)          7.0  5  0  0  3  4
+Powell J              0.2  1  0  0  2  0
+Jackson M             1.1  0  0  0  2  1
+
+  Arizona              IP  H  R ER BB SO
+Batista M (L)         5.2  7  3  3  2  3
+Sabel E               1.0  3  3  3  0  0
+Swindell G            0.1  1  0  0  0  0
+Mohler M              2.0  0  0  0  0  1
+
+E -- Castilla V, Counsell C
+DP -- Arizona 3
+LOB -- Houston 7, Arizona 13
+2B -- Ausmus B, Berkman L, Ward D
+HR -- Berkman L, Alou M
+SB -- Biggio C
+CS -- Ausmus B, Counsell C
+SH -- Miller W
+HBP -- by Batista M (Biggio C), by Batista M (Berkman L), by Sabel E (Lugo J)
+T -- 3:16
+A -- 27230
+     Game of 6/26/2001 -- Houston at Arizona (N)
+
+  Houston            AB  R  H RBI    Arizona            AB  R  H RBI
+Biggio C, 2b          5  1  1  1   Counsell C, 3b-2b     4  1  2  1   
+Lugo J, ss            5  1  2  0   Spivey J, 2b          3  0  1  0   
+Bagwell J, 1b         4  2  2  0   Kim B, p              0  0  0  0   
+Berkman L, cf-lf      5  1  2  3   Sanders R, ph         1  0  0  0   
+Alou M, rf            5  3  3  2   Prinz B, p            0  0  0  0   
+Ward D, lf            4  1  1  2   Gonzalez L, lf        4  1  2  0   
+Hidalgo R, cf         1  0  0  0   Grace M, 1b           4  1  2  2   
+Castilla V, 3b        4  1  3  2   Dellucci D, rf        5  0  1  1   
+Ausmus B, c           4  0  0  0   Finley S, cf          5  1  1  1   
+Mlicki D, p           2  0  0  0   Miller D, c           5  1  1  2   
+Cruz N, p             1  0  0  0   Womack T, ss          4  1  2  0   
+Dotel O, p            1  0  0  0   Bierbrodt N, p        1  1  1  0   
+Wagner B, p           0  0  0  0   Bautista D, ph        1  0  1  0   
+                                   Sabel E, p            0  0  0  0   
+                                   Colbrunn G, ph        1  0  0  0   
+                                   Bell J, 3b            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41 10 14 10                        39  7 14  7
+
+Houston          022 220 011 -- 10
+Arizona          001 050 010 --  7
+
+  Houston              IP  H  R ER BB SO
+Mlicki D              4.2 10  6  6  2  3
+Cruz N                1.1  1  0  0  0  0
+Dotel O (W)           2.0  1  1  0  0  5
+Wagner B (S)          1.0  2  0  0  0  2
+
+  Arizona              IP  H  R ER BB SO
+Bierbrodt N (L)       4.0  7  6  6  1  2
+Sabel E               2.0  2  2  2  0  3
+Kim B                 2.0  2  1  1  0  2
+Prinz B               1.0  3  1  1  0  0
+
+E -- Ausmus B
+LOB -- Houston 5, Arizona 9
+2B -- Bierbrodt N, Womack T, Grace M, Alou M
+HR -- Ward D, Alou M, Castilla V, Biggio C, Berkman L, Miller D
+SB -- Bagwell J, Womack T
+SF -- Grace M
+HBP -- by Cruz N (Spivey J)
+T -- 3:08
+A -- 30566
+     Game of 6/27/2001 -- Houston at Arizona (N)
+
+  Houston            AB  R  H RBI    Arizona            AB  R  H RBI
+Biggio C, 2b          4  0  0  0   Counsell C, 2b        3  2  1  0   
+Lugo J, ss            4  0  0  0   Bell J, 3b            4  1  2  4   
+Bagwell J, 1b         4  1  1  1   Gonzalez L, lf        3  0  0  1   
+Berkman L, cf         4  2  2  1   Grace M, 1b           4  0  0  0   
+Alou M, rf            4  2  3  3   Sanders R, rf         3  1  1  0   
+Ward D, lf            4  0  0  0   Dellucci D, cf        4  1  1  1   
+Hayes C, 3b           4  0  0  0   Miller D, c           3  1  1  1   
+Eusebio T, c          2  0  1  0   Womack T, ss          3  1  2  0   
+Elarton S, p          2  0  0  0   Schilling C, p        3  0  0  0   
+Vizcaino J, ph        1  0  0  0                                      
+Cruz N, p             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  5  7  5                        30  7  8  7
+
+Houston          021 001 001 --  5
+Arizona          050 011 00x --  7
+
+  Houston              IP  H  R ER BB SO
+Elarton S (L)         6.0  7  7  7  3  0
+Cruz N                2.0  1  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       9.0  7  5  5  1 10
+
+E -- Eusebio T
+DP -- Houston 1, Arizona 1
+LOB -- Houston 2, Arizona 3
+2B -- Counsell C, Berkman L
+HR -- Berkman L, Alou M 2, Bell J, Bagwell J, Dellucci D
+SB -- Sanders R
+SF -- Gonzalez L
+T -- 2:12
+A -- 28802
+     Game of 6/29/2001 -- Colorado at Arizona (N)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Perez N, ss           4  0  1  0   Counsell C, 2b        4  2  2  1   
+Shumpert T, 2b        4  0  0  0   Bell J, 3b            3  0  1  0   
+Walker L, rf          4  1  3  1   Gonzalez L, lf        4  0  1  1   
+Cirillo J, 3b         4  0  0  0   Grace M, 1b           2  0  1  1   
+Norton G, 1b          4  1  1  1   Sanders R, rf         4  1  1  0   
+Petrick B, c          2  1  1  1   Finley S, cf          4  1  1  0   
+Walker T, ph          0  0  0  0   Miller D, c           3  0  0  0   
+Gant R, lf            2  0  0  0   Womack T, ss          4  1  2  0   
+Helton T, ph          1  0  0  0   Johnson R, p          2  0  0  0   
+Pierre J, cf          4  0  1  0   Dellucci D, ph        1  0  1  2   
+Astacio P, p          2  0  0  0   Swindell G, p         0  0  0  0   
+Myers M, p            0  0  0  0   Kim B, p              0  0  0  0   
+Brumbaugh C, ph       1  0  0  0                                      
+Powell J, p           0  0  0  0                                      
+White G, p            0  0  0  0                                      
+Kieschnick B, ph      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        31  5 10  5
+
+Colorado         000 000 102 --  3
+Arizona          100 020 02x --  5
+
+  Colorado             IP  H  R ER BB SO
+Astacio P (L)         6.1  7  3  3  2  2
+Myers M               0.2  0  0  0  0  0
+Powell J              0.2  2  2  2  0  0
+White G               0.1  1  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         8.0  4  1  1  2 10
+Swindell G*           0.0  1  1  1  0  0
+Kim B (S)             1.0  2  1  1  1  2
+  * Pitched to 1 batter in 9th
+
+E -- Shumpert T
+DP -- Colorado 1
+LOB -- Colorado 6, Arizona 7
+2B -- Perez N, Gonzalez L
+HR -- Petrick B, Walker L, Norton G
+SB -- Petrick B
+CS -- Walker L
+SH -- Johnson R, Miller D
+HBP -- by Astacio P (Bell J)
+WP -- Johnson R, Kim B
+T -- 3:01
+A -- 34291
+     Game of 6/30/2001 -- Colorado at Arizona (N)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Pierre J, cf          3  0  0  0   Spivey J, 2b          2  0  1  1   
+Perez N, ss           5  1  2  0   Counsell C, ph-2b     1  1  1  1   
+Walker L, rf          3  1  2  0   Womack T, ss          4  0  0  1   
+Cirillo J, 3b         5  0  3  2   Gonzalez L, lf        4  1  2  1   
+Helton T, 1b          5  0  0  0   Bell J, 3b            3  0  0  0   
+Walker T, 2b          2  0  1  1   Grace M, 1b           4  0  1  0   
+Shumpert T, ph-2b     1  0  0  0   Sanders R, rf         3  0  1  0   
+Cruz J, lf            1  0  0  0   Finley S, cf          4  0  0  0   
+Norton G, ph          0  1  0  0   Miller D, c           3  3  3  1   
+Davis K, p            0  0  0  0   Ellis R, p            1  1  1  0   
+White G, p            0  0  0  0   Bautista D, ph        1  0  0  0   
+Melhuse A, c          4  1  1  2   Mohler M, p           0  0  0  0   
+Neagle D, p           2  0  0  0   Brohawn T, p          0  0  0  0   
+Gant R, ph            0  1  0  0   Dellucci D, ph        1  0  0  0   
+Acevedo J, p          0  0  0  0   Prinz B, p            0  0  0  0   
+Myers M, p            0  0  0  0                                      
+Brumbaugh C, ph-lf    1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  5  9  5                        31  6 10  5
+
+Colorado         100 001 120 --  5
+Arizona          001 020 12x --  6
+
+  Colorado             IP  H  R ER BB SO
+Neagle D              6.0  8  3  3  1  4
+Acevedo J             0.1  0  1  0  3  0
+Myers M               0.2  0  0  0  1  0
+Davis K (L)           0.1  2  2  2  0  1
+White G               0.2  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Ellis R               6.0  7  2  2  1  1
+Mohler M              1.0  1  1  1  2  0
+Brohawn T (W)         1.0  1  2  2  1  1
+Prinz B (S)           1.0  0  0  0  2  0
+
+E -- Walker T, Helton T
+DP -- Colorado 1, Arizona 1
+LOB -- Colorado 9, Arizona 9
+3B -- Sanders R
+HR -- Melhuse A, Miller D, Counsell C
+SB -- Gonzalez L, Counsell C
+CS -- Perez N
+SH -- Ellis R, Spivey J, Pierre J, Womack T
+SF -- Walker T
+HBP -- by Ellis R (Cruz J)
+WP -- Mohler M, Prinz B
+T -- 3:03
+A -- 36165
+     Game of 7/1/2001 -- Colorado at Arizona (D)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Pierre J, cf          6  1  3  0   Spivey J, 2b          5  0  1  1   
+Perez N, ss           6  0  0  0   Bell J, 3b            4  0  1  0   
+Cirillo J, 3b         5  1  1  0   Gonzalez L, lf        5  1  1  0   
+Helton T, 1b          5  0  2  1   Bautista D, cf        5  2  3  0   
+Petrick B, c          4  0  0  1   Grace M, 1b           6  0  2  3   
+Gant R, lf            3  0  1  0   Sanders R, rf         5  1  1  1   
+Walker L, rf          1  0  0  0   Womack T, ss          2  1  1  0   
+Brumbaugh C, rf-lf    3  1  1  1   Miller D, ph          1  0  0  0   
+Norton G, ph-lf       2  0  0  0   Counsell C, ss        1  0  0  0   
+Shumpert T, 2b        2  0  0  0   Moeller C, c          5  0  0  0   
+Walker T, ph-2b       3  0  0  0   Anderson B, p         2  0  0  0   
+Hampton M, p          3  1  1  1   Dellucci D, ph        1  0  1  0   
+Powell J, p           0  0  0  0   Batista M, p          0  0  0  0   
+Cruz J, ph            1  0  0  0   Brohawn T, p          0  0  0  0   
+Acevedo J, p          0  0  0  0   Durazo E, ph          1  0  0  0   
+Myers M, p            0  0  0  0   Kim B, p              0  0  0  0   
+Jimenez J, p          0  0  0  0   Conti J, ph           0  0  0  0   
+Kieschnick B, ph      1  0  0  0   Prinz B, p            0  0  0  0   
+White G, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     45  4  9  4                        43  5 11  5
+
+Colorado         000 210 010 000 0 --  4
+Arizona          210 000 010 000 1 --  5
+  0 outs when winning run was scored.
+
+  Colorado             IP  H  R ER BB SO
+Hampton M             8.0 10  4  4  2  2
+Powell J              1.0  0  0  0  0  2
+Acevedo J             0.2  0  0  0  1  0
+Myers M               0.1  0  0  0  0  0
+Jimenez J             2.0  0  0  0  3  2
+White G (L)           0.0  1  1  1  0  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B            7.0  5  3  3  0  3
+Batista M             1.0  2  1  1  0  0
+Brohawn T             1.0  0  0  0  0  1
+Kim B                 3.0  1  0  0  1  5
+Prinz B (W)           1.0  1  0  0  0  0
+
+DP -- Colorado 2, Arizona 1
+LOB -- Colorado 4, Arizona 10
+2B -- Grace M 2, Helton T 2
+HR -- Brumbaugh C, Hampton M, Sanders R
+SB -- Womack T, Pierre J
+CS -- Bautista D, Pierre J
+SH -- Spivey J
+SF -- Petrick B
+HBP -- by Hampton M (Womack T)
+T -- 3:45
+A -- 31999
+     Game of 7/6/2001 -- Oakland at Arizona (N)
+
+  Oakland            AB  R  H RBI    Arizona            AB  R  H RBI
+Damon J, cf           4  0  0  0   Counsell C, 2b        4  0  0  0   
+Menechino F, 2b       3  1  2  0   Bell J, 3b            3  0  0  0   
+Long T, rf            4  0  0  0   Gonzalez L, lf        3  0  0  0   
+Gant R, lf            4  1  1  1   Bautista D, rf        3  0  1  0   
+Tejada M, ss          4  1  2  1   Grace M, 1b           3  0  0  0   
+Saenz O, 1b           4  0  1  0   Miller D, c           3  0  0  0   
+Chavez E, 3b          3  0  0  1   Dellucci D, cf        3  0  0  0   
+Hernandez R, c        2  0  0  0   Womack T, ss          3  0  0  0   
+Mulder M, p           3  0  0  0   Anderson B, p         2  0  0  0   
+                                   Sabel E, p            0  0  0  0   
+                                   Spivey J, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  6  3                        28  0  1  0
+
+Oakland          000 000 300 --  3
+Arizona          000 000 000 --  0
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          9.0  1  0  0  0  9
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (L)        7.0  5  3  3  2  7
+Sabel E               2.0  1  0  0  0  1
+
+E -- Bell J
+DP -- Arizona 1
+LOB -- Oakland 4, Arizona 1
+2B -- Menechino F, Saenz O
+3B -- Gant R
+CS -- Damon J
+SF -- Chavez E
+T -- 2:08
+A -- 34008
+     Game of 7/7/2001 -- Oakland at Arizona (N)
+
+  Oakland            AB  R  H RBI    Arizona            AB  R  H RBI
+Damon J, cf           5  3  4  2   Counsell C, 2b-ss     4  0  1  0   
+Menechino F, 2b       4  0  1  1   Dellucci D, cf        4  1  1  0   
+Giambi J, lf          5  0  3  0   Gonzalez L, lf        4  0  1  0   
+Giambi J, 1b          4  0  1  0   Bell J, 3b            4  0  1  1   
+Tejada M, ss          3  1  1  1   Grace M, 1b           4  0  0  0   
+Long T, rf            3  1  0  0   Bautista D, rf        3  0  2  0   
+Hernandez R, c        3  0  0  0   Womack T, ss          2  0  0  0   
+Chavez E, 3b          4  0  2  1   Brohawn T, p          0  0  0  0   
+Hudson T, p           4  0  0  0   Swindell G, p         0  0  0  0   
+                                   Durazo E, ph          1  0  0  0   
+                                   Mohler M, p           0  0  0  0   
+                                   Moeller C, c          3  0  2  0   
+                                   Batista M, p          1  0  0  0   
+                                   Spivey J, 2b          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5 12  5                        32  1  8  1
+
+Oakland          101 002 001 --  5
+Arizona          000 000 001 --  1
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (W)          9.0  8  1  1  0  6
+
+  Arizona              IP  H  R ER BB SO
+Batista M (L)         5.2  7  4  4  2  4
+Brohawn T             1.0  4  0  0  0  0
+Swindell G            1.1  0  0  0  0  0
+Mohler M              1.0  1  1  1  1  1
+
+E -- Hudson T
+DP -- Oakland 3, Arizona 3
+LOB -- Oakland 7, Arizona 4
+2B -- Damon J, Bell J
+HR -- Damon J 2, Tejada M
+SB -- Long T
+CS -- Menechino F
+HBP -- by Batista M (Tejada M)
+T -- 2:37
+A -- 36978
+     Game of 7/8/2001 -- Oakland at Arizona (D)
+
+  Oakland            AB  R  H RBI    Arizona            AB  R  H RBI
+Damon J, cf           4  1  1  0   Spivey J, 2b          3  1  1  0   
+Menechino F, 2b       2  0  0  0   Finley S, ph          1  0  0  0   
+Giambi J, lf          3  0  0  1   Counsell C, ss        4  0  0  0   
+Giambi J, 1b          4  0  0  0   Gonzalez L, lf        3  0  2  1   
+Tejada M, ss          4  1  2  0   Bautista D, rf        3  0  0  0   
+Long T, rf            4  0  1  0   Grace M, 1b           4  0  2  0   
+Myers G, c            4  0  1  0   Bell J, 3b            4  0  0  0   
+Isringhausen J, p     0  0  0  0   Dellucci D, cf        4  0  0  0   
+Chavez E, 3b          2  0  0  1   Miller D, c           3  0  2  0   
+Zito B, p             2  0  0  0   Conti J, ph           1  0  0  0   
+McMillon B, ph        1  0  0  0   Schilling C, p        1  0  0  0   
+Mecir J, p            0  0  0  0   Durazo E, ph          1  0  0  0   
+Guthrie M, p          0  0  0  0   Kim B, p              0  0  0  0   
+Tam J, p              0  0  0  0   Womack T, ph          1  0  0  0   
+Hernandez R, c        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        33  1  7  1
+
+Oakland          000 011 000 --  2
+Arizona          001 000 000 --  1
+
+  Oakland              IP  H  R ER BB SO
+Zito B (W)            6.0  6  1  1  0 10
+Mecir J*              1.0  1  0  0  2  3
+Guthrie M             0.1  0  0  0  0  0
+Tam J                 0.2  0  0  0  0  0
+Isringhausen J (S)    1.0  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (L)       7.0  5  2  2  1 11
+Kim B                 2.0  0  0  0  1  3
+  * Pitched to 2 batters in 8th
+
+LOB -- Oakland 5, Arizona 9
+2B -- Spivey J, Tejada M, Damon J
+SH -- Schilling C
+SF -- Chavez E, Giambi J
+HBP -- by Zito B (Gonzalez L)
+Balk -- Zito B
+T -- 2:50
+A -- 31927
+     Game of 7/23/2001 -- San Diego at Arizona (N)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Henderson R, lf       2  1  1  0   Counsell C, ss        5  0  1  0   
+Jackson D, 2b         4  0  1  0   Bell J, 2b            2  0  1  0   
+Klesko R, 1b          3  1  0  0   Dellucci D, ph        1  0  0  0   
+Arias A, 1b           1  0  0  0   Spivey J, 2b          0  0  0  0   
+Nevin P, 3b           4  2  3  2   Gonzalez L, lf        3  0  0  0   
+Trammell B, rf        4  0  2  1   Williams M, 3b        4  0  1  0   
+Nunez J, p            0  0  0  0   Grace M, 1b           4  0  0  0   
+Hoffman T, p          0  0  0  0   Sanders R, rf         4  0  0  0   
+Gonzalez W, c         3  0  2  1   Finley S, cf          4  1  2  0   
+McElroy C, p          0  0  0  0   Miller D, c           4  1  2  1   
+Seanez R, p           0  0  0  0   Bierbrodt N, p        2  0  1  0   
+Gwynn T, ph           0  0  0  0   Morgan M, p           0  0  0  0   
+Darr M, pr-rf         0  0  0  0   Bautista D, ph        1  0  0  0   
+Brown E, cf           2  0  0  0   Prinz B, p            0  0  0  0   
+Kotsay M, ph-cf       1  0  0  0   Swindell G, p         0  0  0  0   
+Jimenez D, ss         4  0  0  0   Durazo E, ph          1  0  0  0   
+Williams W, p         2  0  0  0                                      
+Davis B, c            2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  9  4                        35  2  8  1
+
+San Diego        300 000 010 --  4
+Arizona          010 000 100 --  2
+
+  San Diego            IP  H  R ER BB SO
+Williams W (W)        5.0  6  1  1  2  2
+McElroy C             1.1  2  1  0  0  0
+Seanez R              0.2  0  0  0  0  1
+Nunez J               1.0  0  0  0  0  0
+Hoffman T (S)         1.0  0  0  0  0  2
+
+  Arizona              IP  H  R ER BB SO
+Bierbrodt N (L)       5.0  5  3  3  3  3
+Morgan M              2.0  2  0  0  2  0
+Prinz B               0.2  1  1  1  1  1
+Swindell G            1.1  1  0  0  0  1
+
+E -- Arias A
+DP -- San Diego 1, Arizona 3
+LOB -- San Diego 7, Arizona 8
+2B -- Nevin P, Finley S 2, Miller D, Counsell C
+HR -- Nevin P
+CS -- Henderson R
+T -- 2:52
+A -- 28687
+     Game of 7/24/2001 -- San Diego at Arizona (N)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Henderson R, lf       4  0  0  0   Counsell C, ss-3b     5  1  2  2   
+Jackson D, 2b         4  0  0  0   Spivey J, 2b          3  2  1  1   
+Trammell B, rf        4  0  1  0   Gonzalez L, lf        5  2  2  5   
+Nevin P, 3b           3  0  0  0   Williams M, 3b        4  0  1  0   
+Davis B, c            3  0  0  0   Cintron A, pr-ss      1  0  0  0   
+Arias A, 1b           2  0  0  0   Grace M, 1b           4  0  0  0   
+Brown E, cf           3  0  0  0   Brohawn T, p          0  0  0  0   
+Jimenez D, ss         3  0  0  0   Sabel E, p            0  0  0  0   
+Jarvis K, p           1  0  0  0   Sanders R, rf         3  1  1  0   
+Lee D, p              0  0  0  0   Finley S, cf          4  2  3  0   
+Gonzalez W, ph        1  0  0  0   Miller D, c           3  2  2  1   
+Myers R, p            0  0  0  0   Barajas R, ph-c       1  1  1  1   
+                                   Johnson R, p          2  0  0  0   
+                                   Durazo E, 1b          1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     28  0  1  0                        36 11 14 10
+
+San Diego        000 000 000 --  0
+Arizona          002 003 33x -- 11
+
+  San Diego            IP  H  R ER BB SO
+Jarvis K (L)          6.0  6  5  5  2  7
+Lee D                 1.0  3  3  3  1  1
+Myers R               1.0  5  3  3  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         7.1  1  0  0  2 14
+Brohawn T             0.2  0  0  0  0  0
+Sabel E               1.0  0  0  0  0  2
+
+E -- Davis B
+LOB -- San Diego 3, Arizona 5
+2B -- Miller D 2
+3B -- Counsell C
+HR -- Gonzalez L 2
+SB -- Sanders R
+CS -- Counsell C
+SH -- Johnson R
+PB -- Davis B
+T -- 2:38
+A -- 36940
+     Game of 7/25/2001 -- San Diego at Arizona (N)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Jackson D, 2b         3  1  0  0   Counsell C, ss        4  3  4  0   
+Kotsay M, cf          5  0  1  2   Bell J, 2b            4  0  0  0   
+Klesko R, 1b          4  1  1  0   Prinz B, p            0  0  0  0   
+Nevin P, 3b           4  1  2  0   Swindell G, p         0  0  0  0   
+Darr M, rf            4  0  1  0   Kim B, p              0  0  0  0   
+Nunez J, p            0  0  0  0   Gonzalez L, lf        5  2  3  3   
+Gonzalez W, ph        0  0  0  0   Williams M, 3b        4  1  1  0   
+Trammell B, lf-rf     3  1  0  0   Durazo E, 1b          4  2  1  0   
+Davis B, c            5  0  2  2   Sanders R, rf         5  0  0  0   
+Jimenez D, ss         4  1  1  0   Finley S, cf          4  1  2  2   
+Hitchcock S, p        2  0  0  0   Barajas R, c          5  0  1  2   
+Magadan D, ph         1  0  0  0   Batista M, p          3  0  1  0   
+McElroy C, p          0  0  0  0   Morgan M, p           0  0  0  0   
+Myers R, p            0  0  0  0   Brohawn T, p          0  0  0  0   
+Brown E, rf           0  0  0  0   Spivey J, ph-2b       0  0  0  0   
+Gwynn T, ph           1  0  1  2                                      
+Henderson R, pr-lf    0  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  6  9  6                        38  9 13  7
+
+San Diego        100 002 030 --  6
+Arizona          101 023 20x --  9
+
+  San Diego            IP  H  R ER BB SO
+Hitchcock S (L)       5.0  8  4  4  3  3
+McElroy C             1.0  2  3  0  2  1
+Myers R               0.2  1  1  1  1  0
+Nunez J               1.1  2  1  1  0  0
+
+  Arizona              IP  H  R ER BB SO
+Batista M (W)         5.1  5  3  2  2  5
+Morgan M              1.0  0  0  0  0  1
+Brohawn T             0.2  1  0  0  1  1
+Prinz B               0.2  2  3  3  2  0
+Swindell G            0.1  0  0  0  0  0
+Kim B (S)             1.0  1  0  0  1  2
+
+E -- Barajas R, Nevin P 2
+LOB -- San Diego 11, Arizona 11
+2B -- Counsell C, Gonzalez L, Barajas R, Nevin P, Gwynn T, Kotsay M, Davis B
+HR -- Gonzalez L
+SB -- Jackson D, Darr M
+HBP -- by Batista M (Jackson D), by Batista M (Nevin P)
+T -- 3:27
+A -- 28376
+     Game of 7/26/2001 -- San Francisco at Arizona (N)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Benard M, cf-lf       4  1  1  0   Counsell C, ss        5  0  2  0   
+Aurilia R, ss         5  2  2  1   Dellucci D, rf        5  0  2  2   
+Bonds B, lf           4  3  2  5   Gonzalez L, lf        3  0  1  0   
+Worrell T, p          0  0  0  0   Williams M, 3b        3  0  0  1   
+Kent J, 2b            5  1  2  2   Grace M, 1b           4  0  0  0   
+Rios A, rf            3  1  0  0   Bell J, 2b            5  0  0  0   
+Galarraga A, 1b       5  1  1  1   Finley S, cf          4  1  1  0   
+Santiago B, c         5  0  1  1   Miller D, c           4  1  4  0   
+Feliz P, 3b           4  1  1  1   Schilling C, p        0  1  0  0   
+Hernandez L, p        3  1  3  0   Bautista D, ph        0  0  0  0   
+Fultz A, p            1  0  0  0   Sabel E, p            0  0  0  0   
+Murray C, cf          0  0  0  0   Sanders R, ph         1  0  0  0   
+                                   Swindell G, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 11 13 11                        34  3 10  3
+
+San Francisco    000 241 202 -- 11
+Arizona          010 200 000 --  3
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       6.0  9  3  3  4  0
+Fultz A               2.0  1  0  0  0  1
+Worrell T             1.0  0  0  0  1  2
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (L)       5.0  8  6  6  2  4
+Sabel E               3.0  4  3  3  1  1
+Swindell G            1.0  1  2  2  1  1
+
+E -- Galarraga A
+DP -- San Francisco 2, Arizona 1
+LOB -- San Francisco 5, Arizona 12
+2B -- Hernandez L, Kent J, Galarraga A
+3B -- Gonzalez L
+HR -- Aurilia R, Bonds B 2, Feliz P, Kent J
+SB -- Finley S
+SH -- Schilling C 2
+SF -- Williams M
+T -- 3:02
+A -- 33666
+     Game of 7/27/2001 -- San Francisco at Arizona (N)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Murray C, cf          4  1  2  0   Counsell C, ss        5  1  1  0   
+Aurilia R, ss         4  2  2  2   Spivey J, 2b          4  0  1  0   
+Bonds B, lf           3  2  3  1   Finley S, ph          1  0  0  0   
+Kent J, 2b            5  1  1  2   Gonzalez L, lf        5  1  2  0   
+Galarraga A, 1b       4  2  2  3   Williams M, 3b        5  1  3  1   
+Santiago B, c         4  0  1  0   Grace M, 1b           4  0  2  2   
+Davis E, rf           4  0  2  1   Sanders R, rf         4  1  1  0   
+Feliz P, 3b           4  0  1  0   Bautista D, cf        4  0  1  0   
+Rueter K, p           3  1  0  0   Miller D, c           3  1  2  2   
+Boehringer B, p       0  0  0  0   Anderson B, p         2  0  0  0   
+Rodriguez F, p        0  0  0  0   Morgan M, p           0  0  0  0   
+Benard M, ph          1  0  0  0   Bell J, ph            1  0  1  0   
+Nen R, p              0  0  0  0   Prinz B, p            0  0  0  0   
+                                   Brohawn T, p          0  0  0  0   
+                                   Durazo E, ph          1  0  0  0   
+                                   Kim B, p              0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  9 14  9                        39  5 14  5
+
+San Francisco    100 260 000 --  9
+Arizona          110 010 110 --  5
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (W)          6.0 11  3  3  1  3
+Boehringer B          1.0  2  1  1  0  1
+Rodriguez F           1.0  1  1  1  0  1
+Nen R                 1.0  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (L)        4.1  9  8  8  2  2
+Morgan M              1.2  2  1  1  0  2
+Prinz B               1.0  1  0  0  0  0
+Brohawn T             1.0  1  0  0  0  0
+Kim B                 1.0  1  0  0  2  0
+
+DP -- San Francisco 2, Arizona 4
+LOB -- San Francisco 4, Arizona 8
+2B -- Bonds B, Counsell C, Sanders R, Miller D, Bautista D, Kent J, Grace M
+3B -- Davis E
+HR -- Aurilia R, Bonds B, Galarraga A, Miller D
+CS -- Murray C
+T -- 2:48
+A -- 35853
+     Game of 7/28/2001 -- San Francisco at Arizona (N)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Benard M, cf-lf       6  2  5  1   Counsell C, ss        4  0  1  0   
+Aurilia R, ss         6  3  3  5   Bell J, 2b            2  0  0  0   
+Bonds B, lf           3  1  2  0   Gonzalez L, lf        4  1  2  0   
+Zerbe C, p            0  0  0  0   Grace M, 1b           3  1  1  0   
+Kent J, 2b            3  0  1  0   Williams M, 3b        4  0  0  0   
+Feliz P, ph-3b        2  1  1  0   Finley S, cf          4  1  3  0   
+Galarraga A, 1b       5  0  1  2   Dellucci D, rf        4  1  2  4   
+Rios A, rf            5  2  3  2   DiFelice M, c         2  0  0  0   
+Santiago B, c         5  1  1  0   Durazo E, ph          1  0  0  0   
+Martinez R, 3b-2b     4  0  0  1   Sabel E, p            0  0  0  0   
+Ortiz R, p            2  1  1  0   Brohawn T, p          0  0  0  0   
+Davis E, ph           0  0  0  0   Bautista D, ph        1  0  0  0   
+Fultz A, p            0  0  0  0   Lopez A, p            2  0  0  0   
+Worrell T, p          0  0  0  0   Swindell G, p         0  0  0  0   
+Murray C, ph-cf       1  0  0  0   Prinz B, p            0  0  0  0   
+                                   Miller D, ph-c        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42 11 18 11                        33  4  9  4
+
+San Francisco    011 026 010 -- 11
+Arizona          000 103 000 --  4
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (W)           6.0  8  4  4  3  8
+Fultz A               1.0  0  0  0  0  0
+Worrell T             1.0  1  0  0  0  0
+Zerbe C               1.0  0  0  0  0  2
+
+  Arizona              IP  H  R ER BB SO
+Lopez A (L)           5.1 10  7  7  3  5
+Swindell G            0.1  3  3  3  0  1
+Prinz B               0.1  1  0  0  0  0
+Sabel E               2.0  3  1  1  1  0
+Brohawn T             1.0  1  0  0  0  1
+
+E -- Counsell C
+DP -- San Francisco 1, Arizona 1
+LOB -- San Francisco 9, Arizona 5
+2B -- Rios A, Galarraga A, Benard M
+3B -- Bonds B, Feliz P
+HR -- Rios A, Aurilia R 2, Dellucci D
+SB -- Benard M
+CS -- Benard M, Finley S, Galarraga A, Counsell C
+SF -- Martinez R
+WP -- Lopez A
+T -- 3:08
+A -- 47570
+     Game of 7/29/2001 -- San Francisco at Arizona (D)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Murray C, cf          4  1  1  0   Counsell C, ss        4  0  0  0   
+Benard M, ph-cf       1  1  1  2   Bell J, 2b            3  0  0  0   
+Aurilia R, ss         5  1  2  1   Kim B, p              0  0  0  0   
+Bonds B, lf           4  0  1  1   Gonzalez L, lf        4  0  2  0   
+Galarraga A, 1b       3  0  0  0   Grace M, 1b           3  0  0  0   
+Dunston S, rf         3  0  1  0   Miller D, c           2  0  1  0   
+Nen R, p              0  0  0  0   Dellucci D, ph        1  1  1  1   
+Santiago B, c         3  0  0  0   Finley S, cf          4  1  0  0   
+Martinez R, 2b        3  0  0  0   Williams M, 3b        4  1  1  2   
+Feliz P, 3b           4  0  2  0   Sanders R, rf         2  0  0  0   
+Estes S, p            2  0  0  0   Durazo E, ph          1  0  0  0   
+Rios A, ph-rf         0  1  0  0   Johnson R, p          2  0  0  0   
+                                   Spivey J, 2b          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  8  4                        30  3  5  3
+
+San Francisco    100 000 012 --  4
+Arizona          020 000 001 --  3
+
+  San Francisco        IP  H  R ER BB SO
+Estes S (W)           8.0  4  2  2  4  4
+Nen R (S)             1.0  1  1  1  0  1
+
+  Arizona              IP  H  R ER BB SO
+Johnson R             8.0  7  2  2  1 12
+Kim B (L)             1.0  1  2  2  1  2
+
+DP -- San Francisco 1, Arizona 1
+LOB -- San Francisco 7, Arizona 5
+2B -- Murray C, Bonds B, Dunston S
+HR -- Williams M, Aurilia R, Benard M, Dellucci D
+SH -- Martinez R, Johnson R, Estes S
+HBP -- by Johnson R (Galarraga A), by Johnson R (Dunston S)
+T -- 3:00
+A -- 38093
+     Game of 7/31/2001 -- Montreal at Arizona (N)
+
+  Montreal           AB  R  H RBI    Arizona            AB  R  H RBI
+Bergeron P, cf        4  0  1  0   Counsell C, ss        3  1  3  0   
+Vidro J, 2b           3  1  2  0   Bell J, 2b            2  0  0  0   
+Guerrero V, rf        4  0  2  0   Spivey J, 2b          0  0  0  0   
+Stevens L, 1b         3  0  0  1   Gonzalez L, lf        4  0  0  0   
+Cabrera O, ss         4  0  2  0   Grace M, 1b           3  1  1  1   
+Blum G, 3b            4  0  1  0   Williams M, 3b        4  0  1  0   
+Barrett M, c          4  0  0  0   Finley S, cf          3  1  2  2   
+Wilkerson B, lf       2  0  0  0   Sanders R, rf         3  0  0  0   
+Munoz B, p            2  0  0  0   Miller D, c           2  0  0  0   
+Mordecai M, ph        1  0  0  0   Schilling C, p        2  0  0  0   
+Reames B, p           0  0  0  0                                      
+Lloyd G, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  1  8  1                        26  3  7  3
+
+Montreal         100 000 000 --  1
+Arizona          000 200 01x --  3
+
+  Montreal             IP  H  R ER BB SO
+Munoz B (L)           6.0  5  2  2  3  1
+Reames B              1.1  1  1  1  0  3
+Lloyd G               0.2  1  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       9.0  8  1  1  2  8
+
+E -- Guerrero V
+DP -- Montreal 1, Arizona 2
+LOB -- Montreal 6, Arizona 5
+2B -- Guerrero V, Cabrera O, Counsell C 2, Williams M
+HR -- Finley S
+CS -- Sanders R, Cabrera O
+SH -- Bell J 2, Schilling C
+SF -- Stevens L
+T -- 2:14
+A -- 27726
+     Game of 8/1/2001 -- Montreal at Arizona (N)
+
+  Montreal           AB  R  H RBI    Arizona            AB  R  H RBI
+Bergeron P, cf        5  1  0  0   Counsell C, ss        5  0  0  0   
+Vidro J, 2b           5  1  1  0   Bell J, 2b            5  0  0  0   
+Guerrero V, rf        3  0  0  0   Gonzalez L, lf        4  3  4  1   
+Smith M, lf           5  1  2  1   Grace M, 1b           5  1  3  0   
+Stevens L, 1b         4  2  2  3   Williams M, 3b        5  0  1  0   
+Cabrera O, ss         4  2  2  2   Finley S, cf          3  0  1  0   
+Barrett M, c          4  0  3  1   Sanders R, rf         3  1  1  1   
+Mordecai M, 3b        4  0  0  0   Dellucci D, ph-rf     1  0  0  0   
+Lloyd G, p            0  0  0  0   Miller D, c           3  0  1  2   
+Strickland S, p       0  0  0  0   Anderson B, p         1  0  0  0   
+Stewart S, p          0  0  0  0   Batista M, p          0  0  0  0   
+Thurman M, p          2  0  0  0   Bautista D, ph        1  0  0  0   
+Blum G, 3b            1  1  1  0   Morgan M, p           0  0  0  0   
+                                   Sabel E, p            0  0  0  0   
+                                   Cintron A, ph         1  0  0  0   
+                                   Brohawn T, p          0  0  0  0   
+                                   Durazo E, ph          1  0  0  0   
+                                   Kim B, p              0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  8 11  7                        38  5 11  4
+
+Montreal         024 001 001 --  8
+Arizona          100 100 021 --  5
+
+  Montreal             IP  H  R ER BB SO
+Thurman M (W)         7.0  6  2  2  2  6
+Lloyd G               0.1  1  2  2  1  0
+Strickland S          1.1  4  1  0  0  1
+Stewart S (S)         0.1  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (L)        3.0  6  6  2  0  0
+Batista M             1.0  0  0  0  1  1
+Morgan M              2.0  3  1  1  0  4
+Sabel E               1.0  0  0  0  0  0
+Brohawn T             1.0  1  0  0  0  1
+Kim B                 1.0  1  1  1  1  0
+
+E -- Counsell C, Vidro J
+DP -- Arizona 1
+LOB -- Montreal 5, Arizona 10
+2B -- Gonzalez L, Barrett M
+HR -- Gonzalez L, Cabrera O, Stevens L, Sanders R
+SB -- Finley S 2, Guerrero V 2, Barrett M
+HBP -- by Sabel E (Guerrero V), by Lloyd G (Gonzalez L)
+WP -- Kim B
+T -- 2:57
+A -- 25668
+     Game of 8/2/2001 -- Montreal at Arizona (D)
+
+  Montreal           AB  R  H RBI    Arizona            AB  R  H RBI
+Bergeron P, cf        4  0  1  0   Counsell C, ss-2b     3  0  1  0   
+Vidro J, 2b           4  0  1  0   Spivey J, 2b          2  0  0  0   
+Guerrero V, rf        4  0  0  0   Bautista D, ph        1  0  0  0   
+Stevens L, 1b         4  0  0  0   Cintron A, ss         0  0  0  0   
+Cabrera O, ss         4  1  2  1   Gonzalez L, lf        4  0  0  0   
+Blum G, 3b            2  0  0  0   Grace M, 1b           4  0  0  0   
+Barrett M, c          3  0  1  0   Miller D, c           3  0  1  0   
+Wilkerson B, lf       2  0  0  0   Anderson B, pr        0  0  0  0   
+Vazquez J, p          2  0  0  0   DiFelice M, c         1  0  0  0   
+Stewart S, p          0  0  0  0   Finley S, cf          3  0  0  0   
+                                   Dellucci D, rf        3  0  0  0   
+                                   Bell J, 3b            3  0  1  0   
+                                   Lopez A, p            2  0  0  0   
+                                   Durazo E, ph          1  0  0  0   
+                                   Prinz B, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  1  5  1                        30  0  3  0
+
+Montreal         000 100 000 --  1
+Arizona          000 000 000 --  0
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (W)         8.0  3  0  0  2  7
+Stewart S (S)         1.0  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Lopez A (L)           8.0  5  1  1  1  6
+Prinz B               1.0  0  0  0  0  0
+
+E -- Spivey J, Blum G
+DP -- Montreal 1, Arizona 2
+LOB -- Montreal 4, Arizona 5
+2B -- Miller D
+3B -- Counsell C
+HR -- Cabrera O
+SH -- Vazquez J, Blum G
+T -- 2:16
+A -- 28688
+     Game of 8/3/2001 -- New York at Arizona (N)
+
+  New York           AB  R  H RBI    Arizona            AB  R  H RBI
+McEwing J, 3b         4  0  0  0   Counsell C, ss-3b     5  1  3  1   
+Alfonzo E, 2b         4  0  1  0   Spivey J, 2b          4  2  1  1   
+Piazza M, c           4  0  0  0   Gonzalez L, lf        4  2  2  2   
+Shinjo T, rf          4  0  0  0   Bautista D, cf        4  0  2  0   
+Zeile T, 1b           3  0  0  0   Grace M, 1b           4  0  1  1   
+Agbayani B, lf        1  0  1  0   Williams M, 3b        4  1  2  2   
+Payton J, cf          3  0  0  0   Brohawn T, p          0  0  0  0   
+Ordonez R, ss         3  0  0  0   Sanders R, rf         4  1  2  0   
+Leiter A, p           1  0  0  0   DiFelice M, c         4  0  0  0   
+Relaford D, ph        1  0  0  0   Johnson R, p          3  0  0  0   
+Roberts G, p          0  0  0  0   Cintron A, ss         1  0  1  0   
+Wilson V, ph          1  0  0  0                                      
+Wall D, p             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  0  2  0                        37  7 14  7
+
+New York         000 000 000 --  0
+Arizona          104 001 10x --  7
+
+  New York             IP  H  R ER BB SO
+Leiter A (L)          4.0  8  5  5  1  1
+Roberts G             3.0  5  2  2  0  3
+Wall D                1.0  1  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         7.0  2  0  0  2  8
+Brohawn T             2.0  0  0  0  0  0
+
+DP -- New York 1, Arizona 1
+LOB -- New York 4, Arizona 7
+2B -- Spivey J, Gonzalez L
+3B -- Agbayani B
+HR -- Williams M, Gonzalez L
+SB -- Sanders R 2
+PB -- DiFelice M
+T -- 2:54
+A -- 43806
+     Game of 8/4/2001 -- New York at Arizona (D)
+
+  New York           AB  R  H RBI    Arizona            AB  R  H RBI
+Lawton M, rf          5  0  0  0   Counsell C, ss        4  0  0  0   
+Alfonzo E, 2b         5  0  0  0   Spivey J, 2b          3  2  2  1   
+Ventura R, 3b         3  0  0  0   Gonzalez L, lf        3  0  1  1   
+Zeile T, 1b           3  2  1  0   Durazo E, 1b          3  0  0  0   
+Johnson M, lf         3  2  2  1   Williams M, 3b        4  0  1  0   
+Shinjo T, ph-lf       0  0  0  0   Finley S, cf          4  0  1  0   
+Payton J, cf          3  0  2  1   Sanders R, rf         3  0  1  0   
+Wilson V, c           4  0  1  2   Dellucci D, ph        1  0  1  0   
+Ordonez R, ss         3  0  1  0   DiFelice M, c         3  0  0  0   
+Appier K, p           3  0  0  0   Grace M, ph           1  0  1  0   
+Franco J, p           0  0  0  0   Batista M, p          1  0  0  0   
+Harris L, ph          1  0  0  0   Bell J, ph            1  0  0  0   
+Benitez A, p          0  0  0  0   Morgan M, p           0  0  0  0   
+                                   Swindell G, p         0  0  0  0   
+                                   Prinz B, p            0  0  0  0   
+                                   Bautista D, ph        1  0  1  0   
+                                   Kim B, p              0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  4                        32  2  9  2
+
+New York         010 201 000 --  4
+Arizona          100 001 000 --  2
+
+  New York             IP  H  R ER BB SO
+Appier K (W)          7.0  6  2  2  2  5
+Franco J              1.0  1  0  0  1  1
+Benitez A (S)         1.0  2  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Batista M (L)         5.0  5  3  3  0  2
+Morgan M              2.0  1  1  1  3  0
+Swindell G*           0.0  1  0  0  1  0
+Prinz B               1.0  0  0  0  0  1
+Kim B                 1.0  0  0  0  0  2
+  * Pitched to 2 batters in 8th
+
+E -- Williams M
+DP -- New York 1, Arizona 1
+LOB -- New York 7, Arizona 6
+2B -- Johnson M, Finley S
+HR -- Spivey J, Johnson M
+CS -- Sanders R, Shinjo T
+HBP -- by Batista M (Zeile T)
+WP -- Appier K
+T -- 3:09
+A -- 36750
+     Game of 8/5/2001 -- New York at Arizona (D)
+
+  New York           AB  R  H RBI    Arizona            AB  R  H RBI
+McEwing J, 3b         4  0  2  0   Counsell C, ss        4  0  1  0   
+White R, p            0  0  0  0   Spivey J, 2b          3  1  2  1   
+Relaford D, 2b-ss     4  0  0  0   Gonzalez L, lf        3  0  0  0   
+Lawton M, rf          4  1  2  1   Bautista D, cf        3  0  0  0   
+Piazza M, c           3  0  0  0   Finley S, cf          0  0  0  0   
+Alfonzo E, 2b         1  0  0  0   Grace M, 1b           3  0  0  0   
+Zeile T, 1b           4  0  0  0   Williams M, 3b        3  0  1  0   
+Shinjo T, lf          4  0  1  0   Sanders R, rf         3  1  2  1   
+Payton J, cf          3  0  0  0   DiFelice M, c         3  0  0  0   
+Ordonez R, ss         2  0  0  0   Schilling C, p        2  0  1  0   
+Harris L, ph          1  0  0  0   Dellucci D, ph        1  0  0  0   
+Ventura R, 3b         0  0  0  0   Kim B, p              0  0  0  0   
+Rusch G, p            2  0  0  0                                      
+Johnson M, ph         1  0  1  0                                      
+Wilson V, c           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        28  2  7  2
+
+New York         000 000 100 --  1
+Arizona          000 000 11x --  2
+
+  New York             IP  H  R ER BB SO
+Rusch G               7.0  6  1  1  1  9
+White R (L)           1.0  1  1  1  0  0
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       8.0  6  1  1  0 13
+Kim B (S)             1.0  0  0  0  0  2
+
+DP -- New York 1
+LOB -- New York 5, Arizona 4
+2B -- McEwing J, Counsell C, Shinjo T
+HR -- Lawton M, Sanders R, Spivey J
+SB -- Spivey J
+SH -- Spivey J
+T -- 2:29
+A -- 36870
+     Game of 8/13/2001 -- Pittsburgh at Arizona (N)
+
+  Pittsburgh         AB  R  H RBI    Arizona            AB  R  H RBI
+Matthews G, cf        4  0  2  0   Counsell C, ss        3  0  1  0   
+Wilson J, ss          3  0  0  0   Spivey J, 2b          4  0  0  0   
+Kendall J, lf         4  0  1  0   Gonzalez L, lf        4  1  1  1   
+Ramirez A, 3b         4  0  1  0   Grace M, 1b           3  1  0  0   
+Wilson C, rf          3  0  0  0   Williams M, 3b        4  1  1  2   
+Young K, 1b           3  0  0  0   Finley S, cf          2  0  0  0   
+Osik K, c             3  0  0  0   Sanders R, rf         3  0  1  0   
+Meares P, 2b          2  0  1  0   Miller D, c           3  0  0  0   
+Anderson J, p         2  0  0  0   Johnson R, p          3  0  1  0   
+Wilkins M, p          0  0  0  0                                      
+Hyzdu A, ph           1  0  0  0                                      
+Fetters M, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  0  5  0                        29  3  5  3
+
+Pittsburgh       000 000 000 --  0
+Arizona          100 002 00x --  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Anderson J (L)        6.2  5  3  3  3  5
+Wilkins M             0.1  0  0  0  0  0
+Fetters M             1.0  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         9.0  5  0  0  0 10
+
+E -- Johnson R, Kendall J
+DP -- Pittsburgh 1, Arizona 1
+LOB -- Pittsburgh 4, Arizona 5
+HR -- Gonzalez L, Williams M
+SB -- Sanders R 2
+CS -- Meares P
+SH -- Wilson J
+HBP -- by Johnson R (Meares P)
+T -- 2:27
+A -- 32386
+     Game of 8/14/2001 -- Pittsburgh at Arizona (N)
+
+  Pittsburgh         AB  R  H RBI    Arizona            AB  R  H RBI
+Matthews G, cf        5  0  2  0   Womack T, ss          3  1  1  0   
+Wilson J, ss          4  0  0  0   Counsell C, 2b        4  1  2  0   
+Giles B, lf           4  1  1  1   Gonzalez L, lf        3  1  1  2   
+Ramirez A, 3b         4  0  2  0   Durazo E, 1b          2  0  0  0   
+Kendall J, c          4  2  2  1   Williams M, ph-3b     2  0  1  1   
+Young K, 1b           1  0  1  0   Bell J, 3b            4  0  0  0   
+Hyzdu A, rf           3  0  0  0   Grace M, 1b           0  0  0  0   
+Manzanillo J, p       0  0  0  0   Finley S, cf          4  0  2  0   
+Marte D, p            0  0  0  0   Dellucci D, rf        3  0  1  0   
+Fetters M, p          0  0  0  0   DiFelice M, c         0  0  0  0   
+Wilson C, rf-1b       4  0  1  1   Miller D, c           4  1  1  1   
+Meares P, 2b          3  0  0  0   Anderson B, p         2  0  1  0   
+Sauerbeck S, p        0  0  0  0   Witt B, p             0  0  0  0   
+Redman T, rf          1  0  0  0   Bautista D, ph        1  0  0  0   
+Ritchie T, p          1  0  0  0   Kim B, p              0  0  0  0   
+Nunez A, 2b           2  0  1  0   Sanders R, ph         1  0  0  0   
+                                   Batista M, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3 10  3                        33  4 10  4
+
+Pittsburgh       010 100 001 0 --  3
+Arizona          210 000 000 1 --  4
+  1 out when winning run was scored.
+
+  Pittsburgh           IP  H  R ER BB SO
+Ritchie T             6.2  8  3  3  3  6
+Sauerbeck S           1.2  1  0  0  0  2
+Manzanillo J          0.2  0  0  0  0  1
+Marte D (L)           0.1  0  1  1  2  0
+Fetters M             0.0  1  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B            6.0  7  2  2  1  1
+Witt B                1.0  0  0  0  0  1
+Kim B                 2.0  2  1  1  0  2
+Batista M (W)         1.0  1  0  0  0  0
+
+E -- Anderson B, Matthews G
+DP -- Pittsburgh 1, Arizona 2
+LOB -- Pittsburgh 4, Arizona 8
+2B -- Kendall J, Matthews G
+HR -- Gonzalez L, Miller D, Kendall J, Giles B
+SB -- Nunez A
+CS -- Dellucci D, Finley S, Ramirez A
+SH -- Womack T, Counsell C
+T -- 3:05
+A -- 31006
+     Game of 8/15/2001 -- Pittsburgh at Arizona (N)
+
+  Pittsburgh         AB  R  H RBI    Arizona            AB  R  H RBI
+Matthews G, cf        3  0  0  0   Counsell C, ss        4  0  0  0   
+Wilson J, ss          4  0  1  0   Spivey J, 2b          3  2  1  1   
+Ramirez A, 3b         4  1  2  0   Gonzalez L, lf        3  1  1  0   
+Giles B, lf           4  1  1  2   Grace M, 1b           4  1  2  2   
+Kendall J, c          4  0  2  0   Williams M, 3b        3  1  1  2   
+Young K, 1b           4  0  1  0   Sanders R, rf         4  0  2  0   
+Redman T, rf          4  0  0  0   Bautista D, cf        4  0  0  0   
+Lopez M, 2b           4  0  1  0   Miller D, c           2  0  0  0   
+Williams D, p         2  0  0  0   Schilling C, p        3  0  0  0   
+Osik K, ph            1  0  0  0   Brohawn T, p          0  0  0  0   
+Marte D, p            0  0  0  0   Kim B, p              0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        30  5  7  5
+
+Pittsburgh       000 200 000 --  2
+Arizona          100 400 00x --  5
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D (L)        7.0  6  5  5  2  1
+Marte D               1.0  1  0  0  1  2
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       8.0  6  2  2  1 13
+Brohawn T             0.1  0  0  0  0  0
+Kim B                 0.2  2  0  0  0  2
+
+E -- Counsell C
+DP -- Arizona 2
+LOB -- Pittsburgh 6, Arizona 5
+2B -- Gonzalez L, Sanders R, Kendall J, Grace M
+HR -- Spivey J, Giles B, Williams M
+CS -- Sanders R
+HBP -- by Marte D (Gonzalez L)
+T -- 2:23
+A -- 28703
+     Game of 8/17/2001 -- Chicago at Arizona (N)
+
+  Chicago            AB  R  H RBI    Arizona            AB  R  H RBI
+Young E, 2b           3  0  0  0   Counsell C, ss        5  0  1  0   
+Gutierrez R, ss       4  0  1  0   Spivey J, 2b          4  0  0  0   
+Sosa S, rf            4  0  0  0   Gonzalez L, lf        4  0  1  0   
+McGriff F, 1b         4  0  0  0   Grace M, 1b           4  1  1  0   
+Stairs M, lf          4  1  1  0   Williams M, 3b        4  1  3  0   
+Coomer R, 3b          3  0  3  1   Finley S, cf          4  2  2  1   
+Mueller B, pr-3b      0  0  0  0   Sanders R, rf         3  3  2  3   
+Hundley T, c          4  0  1  0   Miller D, c           3  0  2  1   
+Patterson C, cf       4  1  1  1   Lopez A, p            1  0  0  0   
+Tapani K, p           2  0  0  0   Colbrunn G, ph        1  0  0  0   
+Weathers D, p         0  0  0  0   Brohawn T, p          0  0  0  0   
+Girardi J, ph         0  0  0  0   Prinz B, p            0  0  0  0   
+DeShields D, ph       1  0  1  0   Kim B, p              1  0  1  2   
+Fassero J, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        34  7 13  7
+
+Chicago          000 000 110 --  2
+Arizona          000 010 24x --  7
+
+  Chicago              IP  H  R ER BB SO
+Tapani K (L)          6.1  8  3  3  0  4
+Weathers D            0.2  1  0  0  0  1
+Fassero J             1.0  4  4  4  1  1
+
+  Arizona              IP  H  R ER BB SO
+Lopez A (W)           7.0  5  1  1  0  8
+Brohawn T*            0.0  1  1  1  0  0
+Prinz B               0.2  1  0  0  0  0
+Kim B (S)             1.1  1  0  0  1  1
+  * Pitched to 1 batter in 8th
+
+DP -- Chicago 1, Arizona 1
+LOB -- Chicago 6, Arizona 6
+2B -- Gonzalez L, Coomer R, Stairs M, Finley S
+HR -- Sanders R 2, Patterson C
+SH -- Lopez A, Young E
+SF -- Miller D
+Balk -- Prinz B
+PB -- Miller D
+T -- 2:36
+A -- 42667
+     Game of 8/18/2001 -- Chicago at Arizona (N)
+
+  Chicago            AB  R  H RBI    Arizona            AB  R  H RBI
+Young E, 2b           5  0  0  0   Counsell C, ss        3  2  1  0   
+Patterson C, cf       3  1  0  0   Spivey J, 2b          4  1  1  0   
+Sosa S, rf            5  1  3  0   Gonzalez L, lf        2  1  2  2   
+Coomer R, 1b          4  0  2  3   Grace M, 1b           4  0  0  1   
+Stairs M, lf          4  0  0  0   Williams M, 3b        4  0  2  1   
+Gutierrez R, ss       4  0  2  0   Finley S, cf          4  0  0  0   
+Mueller B, 3b         3  0  0  0   Sanders R, rf         4  0  1  0   
+Machado R, c          4  1  2  0   Miller D, c           4  1  1  1   
+Bere J, p             2  0  0  0   Johnson R, p          3  0  0  0   
+Girardi J, ph         1  0  0  0   Brohawn T, p          0  0  0  0   
+Ohman W, p            0  0  0  0   Kim B, p              0  0  0  0   
+Weathers D, p         0  0  0  0                                      
+DeShields D, ph       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  3  9  3                        32  5  8  5
+
+Chicago          000 001 200 --  3
+Arizona          201 011 00x --  5
+
+  Chicago              IP  H  R ER BB SO
+Bere J (L)            6.0  6  5  5  3  6
+Ohman W               1.0  1  0  0  0  1
+Weathers D            1.0  1  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         6.2  9  3  3  1 10
+Brohawn T             1.1  0  0  0  0  1
+Kim B (S)             1.0  0  0  0  0  1
+
+E -- Weathers D
+LOB -- Chicago 9, Arizona 6
+2B -- Machado R, Counsell C, Gonzalez L
+3B -- Spivey J, Sosa S
+HR -- Gonzalez L, Miller D
+SB -- Sanders R
+HBP -- by Johnson R (Patterson C), by Kim B (Patterson C)
+T -- 2:59
+A -- 47489
+     Game of 8/19/2001 -- Chicago at Arizona (D)
+
+  Chicago            AB  R  H RBI    Arizona            AB  R  H RBI
+Young E, 2b           5  1  1  0   Counsell C, 2b-ss     3  2  0  0   
+Heredia F, p          0  0  0  0   Womack T, ss          2  2  2  0   
+Gutierrez R, ss       4  1  2  0   Spivey J, ph-2b       3  0  1  1   
+Sosa S, rf            5  2  4  3   Gonzalez L, lf        4  1  2  2   
+McGriff F, 1b         5  0  1  1   Grace M, 1b           4  2  2  1   
+Coomer R, 3b          5  1  1  0   Sanders R, rf         4  1  1  2   
+Patterson C, cf       4  1  1  0   Finley S, cf          3  1  1  1   
+Tucker M, lf          4  0  2  1   Bell J, 3b            5  1  1  2   
+Machado R, c          4  0  0  0   DiFelice M, c         4  1  1  1   
+Tavarez J, p          2  0  0  0   Anderson B, p         1  0  0  0   
+Ohman W, p            0  0  0  0   Witt B, p             0  0  0  0   
+Van Poppel T, p       1  0  0  0   Bautista D, ph        1  1  1  0   
+Weathers D, p         0  0  0  0   Swindell G, p         0  0  0  0   
+Mueller B, ph-2b      1  0  0  0   Batista M, ph-p       1  0  0  0   
+                                   Colbrunn G, ph        1  1  1  1   
+                                   Brohawn T, p          0  0  0  0   
+                                   Prinz B, p            0  0  0  0   
+                                   Williams M, ph        1  0  0  0   
+                                   Morgan M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  6 12  5                        37 13 13 11
+
+Chicago          105 000 000 --  6
+Arizona          202 303 12x -- 13
+
+  Chicago              IP  H  R ER BB SO
+Tavarez J*            3.0  5  6  5  3  1
+Ohman W (L)           0.1  2  1  1  1  0
+Van Poppel T          2.1  3  3  3  2  6
+Weathers D            1.1  1  1  1  0  0
+Heredia F             1.0  2  2  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Anderson B            3.0  8  6  6  0  0
+Witt B (W)            1.0  1  0  0  0  1
+Swindell G            1.0  0  0  0  0  2
+Batista M             2.0  1  0  0  0  2
+Brohawn T             0.2  1  0  0  0  0
+Prinz B               0.1  0  0  0  0  0
+Morgan M              1.0  1  0  0  0  2
+  * Pitched to 2 batters in 4th
+
+E -- Tavarez J, Tucker M, Womack T, Coomer R, DiFelice M
+LOB -- Chicago 8, Arizona 8
+2B -- Sosa S, Sanders R, Bell J, Tucker M
+HR -- Sosa S, Colbrunn G
+SB -- Sanders R
+SF -- Sanders R
+HBP -- by Tavarez J (DiFelice M), by Batista M (Gutierrez R)
+Balk -- Anderson B
+T -- 3:24
+A -- 44449
+     Game of 8/28/2001 -- San Francisco at Arizona (N)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Murray C, cf          4  0  1  1   Womack T, ss          3  0  1  0   
+Aurilia R, ss         4  0  0  0   Spivey J, ph-2b       1  0  0  0   
+Bonds B, lf           2  0  0  0   Counsell C, 2b-ss     2  1  1  0   
+Kent J, 2b            4  0  1  0   Gonzalez L, lf        4  1  1  2   
+Galarraga A, 1b       4  0  0  0   Williams M, 3b        4  0  0  0   
+Boehringer B, p       0  0  0  0   Grace M, 1b           2  1  1  0   
+Dunston S, rf         3  0  2  0   Sanders R, rf         4  1  1  2   
+Benard M, ph          1  0  0  0   Finley S, cf          4  0  1  0   
+Feliz P, 3b           3  0  0  0   Miller D, c           4  0  1  0   
+Fultz A, p            0  0  0  0   Johnson R, p          2  0  1  0   
+Snow J, 1b            1  0  0  0   Kim B, p              0  0  0  0   
+Santiago B, c         3  1  1  0                                      
+Hernandez L, p        2  0  1  0                                      
+Martinez R, 3b        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        30  4  8  4
+
+San Francisco    000 010 000 --  1
+Arizona          022 000 00x --  4
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (L)       5.1  8  4  4  4  3
+Fultz A               1.2  0  0  0  0  4
+Boehringer B          1.0  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         8.0  6  1  1  3  9
+Kim B (S)             1.0  0  0  0  0  0
+
+E -- Santiago B, Womack T, Williams M
+DP -- San Francisco 2, Arizona 2
+LOB -- San Francisco 7, Arizona 7
+2B -- Murray C, Grace M, Finley S
+HR -- Sanders R, Gonzalez L
+SB -- Murray C
+CS -- Dunston S
+T -- 3:11
+A -- 41502
+     Game of 8/29/2001 -- San Francisco at Arizona (N)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Murray C, cf          4  0  0  0   Counsell C, ss        4  0  3  0   
+Aurilia R, ss         4  0  0  0   Bautista D, cf        4  1  1  0   
+Bonds B, lf           3  0  1  0   Gonzalez L, lf        2  1  2  1   
+Kent J, 2b            3  0  0  0   Colbrunn G, 1b        3  0  0  0   
+Snow J, 1b            4  0  2  0   Spivey J, pr-2b       0  0  0  0   
+Vander Wal J, rf      3  0  0  0   Williams M, 3b        3  0  1  1   
+Worrell T, p          0  0  0  0   Sanders R, rf         4  0  1  0   
+Guzman E, ph          1  0  0  0   Bell J, 2b            3  0  1  0   
+Santiago B, c         4  0  0  0   Grace M, 1b           0  0  0  0   
+Martinez R, 3b        3  0  1  0   Miller D, c           4  0  0  0   
+Rueter K, p           2  0  0  0   Witt B, p             2  0  1  0   
+Christiansen J, p     0  0  0  0   Swindell G, p         0  0  0  0   
+Benard M, rf          0  0  0  0   Womack T, ph          1  0  0  0   
+                                   Prinz B, p            0  0  0  0   
+                                   Kim B, p              1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  4  0                        31  2 10  2
+
+San Francisco    000 000 000 --  0
+Arizona          001 010 00x --  2
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (L)          6.0  7  2  2  3  4
+Christiansen J        0.2  2  0  0  1  0
+Worrell T             1.1  1  0  0  1  1
+
+  Arizona              IP  H  R ER BB SO
+Witt B (W)            5.1  3  0  0  1  2
+Swindell G            0.2  0  0  0  0  0
+Prinz B               1.2  1  0  0  2  2
+Kim B (S)             1.1  0  0  0  0  0
+
+DP -- San Francisco 2
+LOB -- San Francisco 7, Arizona 10
+2B -- Martinez R
+HR -- Gonzalez L
+SB -- Benard M
+CS -- Sanders R
+WP -- Christiansen J
+T -- 2:59
+A -- 31990
+     Game of 8/30/2001 -- San Francisco at Arizona (N)
+
+  San Francisco      AB  R  H RBI    Arizona            AB  R  H RBI
+Benard M, cf-lf       6  1  3  2   Counsell C, ss        4  2  1  0   
+Aurilia R, ss         3  2  2  3   Bell J, 2b-3b         5  0  1  1   
+Martinez R, ph-ss     1  0  0  0   Gonzalez L, lf        3  1  0  0   
+Bonds B, lf           2  0  1  0   Grace M, 1b           2  0  0  0   
+Murray C, pr-cf       1  1  0  0   Colbrunn G, ph-1b     2  1  2  2   
+Galarraga A, 1b       5  1  1  0   Williams M, 3b        3  0  0  0   
+Kent J, 2b            5  2  3  1   Spivey J, ph-2b       2  0  2  1   
+Vander Wal J, rf      3  1  2  1   Finley S, cf-p        5  0  3  0   
+Dunston S, ph-rf      2  1  1  3   Sanders R, rf         4  1  1  0   
+Santiago B, c         4  1  1  1   Miller D, c           3  0  0  0   
+Guzman E, c           0  0  0  0   Barajas R, ph-c       1  0  0  0   
+Feliz P, 3b           5  0  0  0   Batista M, p          1  0  0  0   
+Schmidt J, p          2  2  2  2   Dellucci D, ph        1  0  1  1   
+Christiansen J, p     0  0  0  0   Morgan M, p           0  0  0  0   
+Davis E, ph           1  1  1  0   Swindell G, p         0  0  0  0   
+Fultz A, p            0  0  0  0   Bautista D, ph        0  0  0  0   
+Boehringer B, p       0  0  0  0   Brohawn T, p          0  0  0  0   
+                                   Womack T, cf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40 13 17 13                        37  5 11  5
+
+San Francisco    003 201 160 -- 13
+Arizona          100 100 012 --  5
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J (W)         6.2  5  2  2  5  5
+Christiansen J        0.1  0  0  0  0  1
+Fultz A               1.0  2  1  1  0  1
+Boehringer B          1.0  4  2  2  1  0
+
+  Arizona              IP  H  R ER BB SO
+Batista M (L)         4.0  6  5  5  2  5
+Morgan M              2.0  3  1  1  3  2
+Swindell G            1.0  3  1  1  0  0
+Brohawn T             1.0  5  6  6  2  0
+Finley S              1.0  0  0  0  1  0
+
+DP -- Arizona 2
+LOB -- San Francisco 11, Arizona 11
+2B -- Bell J, Sanders R, Kent J, Benard M, Spivey J
+3B -- Dunston S
+HR -- Aurilia R, Vander Wal J, Schmidt J, Colbrunn G
+CS -- Finley S
+SH -- Schmidt J
+SF -- Santiago B
+HBP -- by Finley S (Kent J)
+WP -- Schmidt J, Christiansen J
+T -- 3:29
+A -- 34269
+     Game of 9/7/2001 -- San Diego at Arizona (N)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Henderson R, lf       4  1  2  0   Counsell C, ss        4  1  2  0   
+Jimenez D, ss         3  1  2  0   Bell J, 2b            4  0  1  1   
+Nevin P, 3b           5  1  2  2   Durazo E, ph          1  0  0  0   
+Trammell B, rf        2  0  0  0   Moeller C, c          0  0  0  0   
+Magadan D, 1b         1  0  0  0   Gonzalez L, lf        5  0  0  0   
+Colangelo M, cf-rf    4  1  2  1   Sanders R, rf         5  1  2  0   
+Hoffman T, p          0  0  0  0   Grace M, 1b           5  0  1  1   
+Davis B, c            3  0  0  0   Williams M, 3b        4  1  2  0   
+Arias A, 1b           2  0  1  0   Finley S, cf          4  0  1  0   
+Gonzalez W, ph        0  0  0  0   Miller D, c           1  0  0  0   
+Kotsay M, cf          1  0  0  0   Womack T, ph          1  0  0  0   
+Jackson D, 2b         3  0  1  0   Barajas R, c          0  0  0  0   
+Tollberg B, p         2  0  0  0   Cummings M, ph        1  0  0  0   
+Gwynn T, ph           1  0  0  0   Batista M, p          0  0  0  0   
+Serrano W, p          0  0  0  0   Johnson R, p          2  0  1  1   
+McElroy C, p          0  0  0  0   Dellucci D, ph        1  0  0  0   
+Fikac J, p            0  0  0  0   Morgan M, p           0  0  0  0   
+Lankford R, rf        1  0  0  0   Swindell G, p         0  0  0  0   
+                                   Bautista D, ph        1  0  1  0   
+                                   Spivey J, 2b          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4 10  3                        39  3 11  3
+
+San Diego        001 002 010 --  4
+Arizona          000 111 000 --  3
+
+  San Diego            IP  H  R ER BB SO
+Tollberg B            5.0  7  2  2  2  3
+Serrano W             0.1  0  0  0  0  0
+McElroy C             0.2  2  1  1  0  2
+Fikac J (W)           1.2  2  0  0  0  1
+Hoffman T (S)         1.1  0  0  0  0  2
+
+  Arizona              IP  H  R ER BB SO
+Johnson R             6.0  7  3  3  4 10
+Morgan M              1.0  1  0  0  0  1
+Swindell G (L)        1.0  1  1  1  0  1
+Batista M             1.0  1  0  0  1  2
+
+E -- Jimenez D
+DP -- Arizona 2
+LOB -- San Diego 8, Arizona 11
+2B -- Finley S, Sanders R, Grace M, Counsell C, Henderson R
+HR -- Nevin P, Colangelo M
+SB -- Henderson R 2, Jackson D
+CS -- Jimenez D
+SH -- Davis B
+HBP -- by Johnson R (Trammell B)
+T -- 3:13
+A -- 32184
+     Game of 9/8/2001 -- San Diego at Arizona (D)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Henderson R, lf       3  2  1  0   Counsell C, 2b-ss     5  1  1  0   
+Jimenez D, ss         4  1  1  0   Womack T, ss          4  1  2  1   
+Klesko R, 1b          4  0  0  0   Dellucci D, ph-rf     0  0  0  0   
+Nevin P, 3b           5  1  1  2   Gonzalez L, lf        4  0  1  0   
+Trammell B, rf        4  1  2  3   Bautista D, rf        5  1  2  1   
+Kotsay M, rf          0  0  0  0   Brohawn T, p          0  0  0  0   
+Gonzalez W, c         4  1  1  1   Kim B, p              0  0  0  0   
+Fikac J, p            0  0  0  0   Grace M, 1b           4  0  1  1   
+Hoffman T, p          0  0  0  0   Christenson R, pr     0  1  0  0   
+Gwynn T, ph           1  0  0  0   Williams M, 3b        5  2  2  2   
+Darr M, pr            0  0  0  0   Finley S, cf          3  2  2  3   
+Serrano W, p          0  0  0  0   Barajas R, c          2  0  0  0   
+Colangelo M, cf       2  0  0  0   Colbrunn G, ph        1  0  0  0   
+Nunez J, p            0  0  0  0   Swindell G, p         0  0  0  0   
+Davis B, c            2  0  0  0   Batista M, p          0  0  0  0   
+Jackson D, 2b         4  0  0  0   Cummings M, ph        1  0  1  0   
+Lawrence B, p         2  0  0  0   Spivey J, 2b          0  0  0  0   
+Lankford R, cf        0  0  0  0   Anderson B, p         1  0  0  0   
+                                   Koplove M, p          1  0  0  0   
+                                   Miller D, c           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6  6  6                        37  8 12  8
+
+San Diego        212 000 010 0 --  6
+Arizona          121 001 001 2 --  8
+  0 outs when winning run was scored.
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B            5.1  8  5  5  0  5
+Nunez J               2.1  1  0  0  1  1
+Fikac J               0.1  0  0  0  0  0
+Hoffman T             1.0  2  1  1  2  1
+Serrano W (L)         0.0  1  2  2  1  0
+
+  Arizona              IP  H  R ER BB SO
+Anderson B            2.2  5  5  5  1  2
+Koplove M             3.1  0  0  0  2  3
+Swindell G            1.1  0  0  0  1  0
+Batista M             1.2  1  1  1  1  2
+Brohawn T*            0.0  0  0  0  2  0
+Kim B (W)             1.0  0  0  0  1  0
+  * Pitched to 2 batters in 10th
+
+DP -- San Diego 1, Arizona 1
+LOB -- San Diego 7, Arizona 7
+2B -- Counsell C, Trammell B, Grace M, Gonzalez L, Cummings M
+HR -- Nevin P, Gonzalez W, Finley S 2, Trammell B, Williams M
+SB -- Womack T, Lankford R
+SH -- Miller D
+PB -- Gonzalez W
+T -- 3:34
+A -- 39929
+     Game of 9/9/2001 -- San Diego at Arizona (D)
+
+  San Diego          AB  R  H RBI    Arizona            AB  R  H RBI
+Jimenez D, ss         3  0  0  0   Womack T, ss          5  0  2  0   
+Kotsay M, cf          3  0  0  0   Bell J, 2b            3  0  1  0   
+Colangelo M, ph-cf    0  0  0  0   Spivey J, pr-2b       1  0  0  0   
+Klesko R, 1b          4  0  0  0   Gonzalez L, lf        3  0  0  0   
+Nevin P, 3b           4  1  1  1   Bautista D, rf        4  1  1  0   
+Lankford R, lf        3  1  1  0   Kim B, p              0  0  0  0   
+Trammell B, rf        4  0  0  0   Grace M, 1b           4  1  2  1   
+Davis B, c            4  0  1  0   Williams M, 3b        4  2  2  0   
+Crespo C, 2b          2  0  1  1   Finley S, cf          3  2  2  1   
+Jones B, p            1  0  0  0   Miller D, c           4  2  2  4   
+Gwynn T, ph           1  0  0  0   Witt B, p             2  0  0  0   
+Jodie B, p            0  0  0  0   Morgan M, p           0  0  0  0   
+Magadan D, ph         1  0  0  0   Cummings M, ph        1  0  0  0   
+Lee D, p              0  0  0  0   Swindell G, p         0  0  0  0   
+Herndon J, p          0  0  0  0   Dellucci D, rf        1  0  1  2   
+Nunez J, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  2                        35  8 13  8
+
+San Diego        000 020 000 --  2
+Arizona          021 200 03x --  8
+
+  San Diego            IP  H  R ER BB SO
+Jones B (L)           4.0  8  5  5  1  3
+Jodie B               2.0  0  0  0  0  0
+Lee D                 1.0  2  0  0  1  1
+Herndon J             0.1  2  3  2  1  0
+Nunez J               0.2  1  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Witt B (W)*           6.0  4  2  2  2  4
+Morgan M              1.0  0  0  0  1  0
+Swindell G            0.2  0  0  0  1  0
+Kim B (S)             1.1  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+E -- Colangelo M
+DP -- San Diego 1, Arizona 1
+LOB -- San Diego 5, Arizona 6
+2B -- Finley S, Bell J, Williams M
+HR -- Miller D, Nevin P
+SB -- Womack T, Finley S, Lankford R 2
+CS -- Womack T
+T -- 2:53
+A -- 33741
+     Game of 9/25/2001 -- Milwaukee at Arizona (N)
+
+  Milwaukee          AB  R  H RBI    Arizona            AB  R  H RBI
+White D, cf           4  1  1  0   Womack T, ss          5  2  3  0   
+DeJean M, p           0  0  0  0   Bautista D, cf        3  0  1  0   
+Buddie M, p           0  0  0  0   Gonzalez L, lf        5  0  1  1   
+Collier L, ph         0  1  0  0   Sanders R, rf         2  0  0  0   
+Leskanic C, p         0  0  0  0   Grace M, 1b           4  0  0  0   
+Loretta M, 2b         3  0  1  0   Williams M, 3b        5  0  2  0   
+Jenkins G, lf         4  1  1  1   Bell J, 2b            2  1  0  0   
+Sexson R, 1b          4  3  3  5   Miller D, c           3  0  0  0   
+Burnitz J, rf         4  3  3  3   Barajas R, c          0  0  0  0   
+Hernandez J, ss       5  0  0  0   Durazo E, ph          1  1  1  1   
+Lopez L, 3b           4  0  3  0   Mohler M, p           0  0  0  0   
+Blanco H, c           4  0  0  0   Sabel E, p            0  0  0  0   
+D'Amico J, p          2  0  0  0   Lopez A, p            2  0  0  0   
+Echevarria A, ph      1  0  0  0   Brohawn T, p          0  0  0  0   
+Leiter M, p           0  0  0  0   Dellucci D, ph        1  0  0  0   
+King R, p             0  0  0  0   Anderson B, p         0  0  0  0   
+Fox C, p              0  0  0  0   Morgan M, p           0  0  0  0   
+Sanchez A, ph-cf      1  0  0  0   Colbrunn G, ph        1  0  1  1   
+                                   Christenson R, pr     0  0  0  0   
+                                   Moeller C, c          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  9 12  9                        34  4  9  3
+
+Milwaukee        010 203 102 --  9
+Arizona          101 000 020 --  4
+
+  Milwaukee            IP  H  R ER BB SO
+D'Amico J (W)         5.0  4  2  1  3  3
+Leiter M              1.0  1  0  0  1  1
+King R                0.2  1  0  0  0  2
+Fox C                 0.1  0  0  0  1  0
+DeJean M              0.1  3  2  2  1  1
+Buddie M              0.2  0  0  0  0  0
+Leskanic C            1.0  0  0  0  1  0
+
+  Arizona              IP  H  R ER BB SO
+Lopez A (L)*          5.0  7  5  5  1  3
+Brohawn T             1.0  2  1  1  0  1
+Anderson B            0.1  1  1  0  0  0
+Morgan M              1.2  1  0  0  1  3
+Mohler M              0.2  0  1  1  1  1
+Sabel E               0.1  1  1  1  1  0
+  * Pitched to 2 batters in 6th
+
+E -- Lopez L, Womack T
+DP -- Milwaukee 1, Arizona 2
+LOB -- Milwaukee 6, Arizona 11
+2B -- Womack T 2, Gonzalez L, Williams M, Durazo E, Colbrunn G
+HR -- Burnitz J 3, Sexson R 3
+SB -- White D 2, Womack T
+CS -- Womack T
+SH -- Bautista D, Loretta M 2
+T -- 3:36
+A -- 35032
+     Game of 9/26/2001 -- Milwaukee at Arizona (N)
+
+  Milwaukee          AB  R  H RBI    Arizona            AB  R  H RBI
+Collier L, 3b         4  1  1  1   Womack T, ss          6  1  2  4   
+Coppinger R, p        0  0  0  0   Cintron A, ss         0  0  0  0   
+Loretta M, 2b         5  1  1  0   Bautista D, cf-rf     6  0  3  2   
+Jenkins G, lf         4  1  0  0   Gonzalez L, lf        4  0  2  0   
+Sexson R, 1b          3  0  0  0   Cummings M, lf        1  0  0  0   
+Echevarria A, 1b      2  1  1  1   Sanders R, rf         4  2  1  0   
+Burnitz J, rf         4  2  2  4   Batista M, p          0  0  0  0   
+White D, cf           2  0  0  0   Koplove M, p          0  0  0  0   
+Mouton J, ph-cf       0  1  0  0   Cust J, ph            0  0  0  0   
+Lopez L, ss           4  1  2  3   Ellis R, p            0  0  0  0   
+Blanco H, c           4  1  2  0   Durazo E, 1b          3  3  2  0   
+Sheets B, p           1  0  0  0   Williams M, 3b        4  2  1  0   
+Sanchez A, ph         1  0  0  0   Spivey J, 2b          1  0  0  0   
+Buddie M, p           0  0  0  0   Counsell C, 2b-3b     5  3  1  1   
+Leiter M, p           0  0  0  0   Barajas R, c          3  1  2  1   
+Pena E, ph            1  0  0  0   Colbrunn G, ph        1  0  1  1   
+Levrault A, p         0  0  0  0   Christenson R, pr     0  1  0  0   
+Gandarillas G, p      0  0  0  0   Moeller C, c          0  1  0  0   
+Sweeney M, ph         1  0  0  0   Witt B, p             1  0  1  0   
+Coolbaugh M, 3b       0  0  0  0   Dellucci D, ph        0  0  0  0   
+                                   Morgan M, p           0  0  0  0   
+                                   Finley S, ph-cf       2  1  2  5   
+                     -- -- -- --                        -- -- -- --
+                     36  9  9  9                        41 15 18 14
+
+Milwaukee        000 050 031 --  9
+Arizona          010 145 40x -- 15
+
+  Milwaukee            IP  H  R ER BB SO
+Sheets B              4.0  8  2  2  1  1
+Buddie M (L)          0.1  3  4  4  1  0
+Leiter M              0.2  2  0  0  1  1
+Levrault A            0.1  1  4  4  3  0
+Gandarillas G         1.2  4  5  4  2  1
+Coppinger R           1.0  0  0  0  2  0
+
+  Arizona              IP  H  R ER BB SO
+Witt B (W)            5.0  6  5  5  2  5
+Morgan M              1.0  0  0  0  0  1
+Batista M             1.1  0  1  1  1  1
+Koplove M             0.2  2  2  2  1  1
+Ellis R               1.0  1  1  1  0  2
+
+E -- Collier L
+LOB -- Milwaukee 5, Arizona 13
+2B -- Williams M, Blanco H 2, Collier L, Durazo E, Bautista D
+HR -- Burnitz J, Finley S, Lopez L, Echevarria A
+SB -- Collier L
+SH -- Witt B
+HBP -- by Witt B (White D)
+WP -- Buddie M
+T -- 3:42
+A -- 30658
+     Game of 9/27/2001 -- Milwaukee at Arizona (N)
+
+  Milwaukee          AB  R  H RBI    Arizona            AB  R  H RBI
+Mouton J, rf-cf       5  1  1  0   Womack T, ss          4  4  3  2   
+Loretta M, 2b         3  0  0  0   Bautista D, rf        5  2  3  2   
+Pena E, 2b            2  1  1  2   Gonzalez L, lf        3  0  1  1   
+White D, cf           3  0  1  0   Dellucci D, lf        1  0  0  0   
+Lopez L, 3b           2  1  1  1   Williams M, 3b        4  2  2  2   
+Sexson R, 1b          3  0  1  3   Spivey J, 2b          0  0  0  0   
+Echevarria A, lf-rf   3  0  1  0   Colbrunn G, ph        0  0  0  0   
+Sweeney M, ph         1  0  0  0   Bell J, pr-3b         0  0  0  0   
+DeJean M, p           0  0  0  0   Durazo E, 1b          4  1  2  1   
+King R, p             0  0  0  0   Barajas R, c          0  0  0  0   
+Collier L, 3b-lf      5  1  1  0   Finley S, cf          4  0  2  4   
+Hernandez J, ss       5  2  2  0   Kim B, p              0  0  0  0   
+Blanco H, c           4  4  3  3   Counsell C, 2b-3b-2b  5  1  1  0   
+Quevedo R, p          1  0  1  0   Moeller C, c          3  2  1  1   
+Haynes J, p           0  0  0  0   Cummings M, ph        1  1  1  0   
+Brown K, ph           1  0  0  0   Grace M, 1b           0  0  0  0   
+Levrault A, p         0  0  0  0   Johnson R, p          3  0  0  0   
+Coolbaugh M, ph       1  0  0  0   Morgan M, p           0  0  0  0   
+Buddie M, p           0  0  0  0   Swindell G, p         0  0  0  0   
+Burnitz J, ph-rf      2  1  1  2   Christenson R, cf     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41 11 14 11                        38 13 16 13
+
+Milwaukee        001 000 442 -- 11
+Arizona          223 030 21x -- 13
+
+  Milwaukee            IP  H  R ER BB SO
+Quevedo R (L)         2.1  7  7  7  6  0
+Haynes J              1.2  1  0  0  1  1
+Levrault A            2.0  4  3  3  0  1
+Buddie M              1.0  3  2  2  0  0
+DeJean M              0.2  1  1  1  1  0
+King R                0.1  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         6.2  7  5  5  2 16
+Morgan M*             0.1  4  3  3  0  0
+Swindell G            0.2  2  1  1  0  1
+Kim B (S)             1.1  1  2  2  3  0
+  * Pitched to 3 batters in 8th
+
+LOB -- Milwaukee 9, Arizona 13
+2B -- White D, Bautista D, Counsell C, Williams M, Echevarria A, Sexson R, Hernandez J, Mouton J, Lopez L
+3B -- Finley S
+HR -- Moeller C, Womack T, Blanco H, Burnitz J
+SB -- Womack T
+SH -- Johnson R
+SF -- Finley S, Pena E
+HBP -- by DeJean M (Womack T), by DeJean M (Colbrunn G)
+WP -- Johnson R, Kim B, DeJean M
+T -- 3:39
+A -- 28359
+     Game of 9/28/2001 -- Los Angeles at Arizona (N)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+Grissom M, cf         5  0  0  0   Womack T, ss          5  0  0  0   
+Grudzielanek M, 2b    5  1  2  0   Bautista D, cf-rf     5  0  2  0   
+Green S, rf           5  1  1  0   Gonzalez L, lf        6  1  2  1   
+Sheffield G, lf       5  1  2  2   Williams M, 3b        4  1  2  0   
+LoDuca P, c           3  0  1  0   Colbrunn G, 1b        2  1  1  1   
+Karros E, 1b          4  0  0  0   Durazo E, ph-1b       1  0  0  0   
+Herges M, p           0  0  0  0   Sanders R, rf         3  0  1  0   
+Aven B, ph            1  0  0  0   Finley S, ph-cf       2  1  1  0   
+Trombley M, p         0  0  0  0   Counsell C, 2b        4  0  1  1   
+Beltre A, 3b          5  0  1  1   Moeller C, c          3  0  2  0   
+Reboulet J, ss        3  0  1  0   Dellucci D, ph        0  0  0  0   
+Adams T, p            2  0  0  0   Bell J, ph            1  0  0  0   
+Donnels C, ph         1  0  0  0   Barajas R, c          1  0  0  0   
+Carrara G, p          0  0  0  0   Schilling C, p        2  0  0  0   
+Orosco J, p           0  0  0  0   Grace M, ph           1  0  1  1   
+Hansen D, 1b          1  0  0  0   Christenson R, pr     0  0  0  0   
+                                   Kim B, p              0  0  0  0   
+                                   Cummings M, ph        1  0  1  0   
+                                   Swindell G, p         0  0  0  0   
+                                   Koplove M, p          0  0  0  0   
+                                   Morgan M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  3  8  3                        41  4 14  4
+
+Los Angeles      000 300 000 00 --  3
+Arizona          002 000 010 01 --  4
+  1 out when winning run was scored.
+
+  Los Angeles          IP  H  R ER BB SO
+Adams T               6.0  7  2  2  5  5
+Carrara G             1.1  2  1  1  0  1
+Orosco J              0.2  1  0  0  0  1
+Herges M              2.0  3  0  0  0  2
+Trombley M (L)        0.1  1  1  1  0  0
+
+  Arizona              IP  H  R ER BB SO
+Schilling C           8.0  7  3  3  1  8
+Kim B                 2.0  0  0  0  0  1
+Swindell G            0.1  0  0  0  0  1
+Koplove M*            0.0  1  0  0  1  0
+Morgan M (W)          0.2  0  0  0  0  2
+  * Pitched to 2 batters in 11th
+
+DP -- Los Angeles 1
+LOB -- Los Angeles 7, Arizona 13
+2B -- Colbrunn G, Sheffield G, Bautista D, Williams M
+HR -- Gonzalez L
+SB -- Christenson R
+SH -- Schilling C, LoDuca P, Counsell C
+WP -- Adams T, Schilling C
+T -- 3:45
+A -- 46838
+     Game of 9/29/2001 -- Los Angeles at Arizona (D)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+Goodwin T, cf         4  0  1  0   Womack T, ss          4  1  2  0   
+Reboulet J, 2b        3  0  0  0   Bautista D, rf        4  0  0  0   
+Branson J, ph-2b      1  0  0  0   Gonzalez L, lf        4  2  2  2   
+Green S, rf           3  0  1  0   Williams M, 3b        4  1  1  0   
+Sheffield G, lf       4  1  1  0   Grace M, 1b           2  2  0  0   
+LoDuca P, c           3  0  0  0   Finley S, cf          4  2  2  3   
+Karros E, 1b          4  0  2  1   Counsell C, 2b        2  0  1  2   
+Beltre A, 3b          3  0  0  0   Barajas R, c          4  0  0  0   
+Cora A, ss            3  0  0  0   Batista M, p          2  0  1  0   
+Baldwin J, p          2  0  0  0   Dellucci D, ph        1  0  0  0   
+Hansen D, ph          1  0  0  0   Sabel E, p            0  0  0  0   
+Reyes A, p            0  0  0  0   Brohawn T, p          0  0  0  0   
+                                   Koplove M, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        31  8  9  7
+
+Los Angeles      000 000 100 --  1
+Arizona          020 003 21x --  8
+
+  Los Angeles          IP  H  R ER BB SO
+Baldwin J (L)         7.0  8  7  5  2  4
+Reyes A               1.0  1  1  1  0  2
+
+  Arizona              IP  H  R ER BB SO
+Batista M (W)         7.0  4  1  1  2  5
+Sabel E               1.0  0  0  0  0  0
+Brohawn T*            0.0  1  0  0  0  0
+Koplove M             1.0  0  0  0  1  0
+  * Pitched to 1 batter in 9th
+
+E -- Baldwin J
+DP -- Arizona 1
+LOB -- Los Angeles 6, Arizona 3
+2B -- Counsell C
+3B -- Finley S
+HR -- Finley S, Gonzalez L
+SH -- Counsell C
+SF -- Counsell C
+WP -- Batista M, Baldwin J, Koplove M
+T -- 2:36
+A -- 43936
+     Game of 9/30/2001 -- Los Angeles at Arizona (D)
+
+  Los Angeles        AB  R  H RBI    Arizona            AB  R  H RBI
+Cora A, ss            4  1  1  0   Womack T, ss          4  0  1  1   
+Grudzielanek M, 2b    4  0  0  0   Dellucci D, rf        4  0  1  0   
+Green S, rf           4  1  2  1   Gonzalez L, lf        4  0  1  0   
+Sheffield G, lf       3  0  0  0   Williams M, 3b        4  0  0  0   
+LoDuca P, 1b          3  0  1  0   Grace M, 1b           3  0  1  0   
+Beltre A, 3b          0  0  0  0   Christenson R, pr     0  0  0  0   
+Hansen D, 3b-1b       3  0  0  1   Durazo E, 1b          1  0  0  0   
+Grissom M, cf         4  0  0  0   Finley S, cf          4  0  0  0   
+Kreuter C, c          3  0  0  0   Counsell C, 2b        2  1  1  0   
+Park C, p             3  0  0  0   Barajas R, c          2  0  0  0   
+Shaw J, p             0  0  0  0   Bell J, ph            0  0  0  0   
+                                   Swindell G, p         0  0  0  0   
+                                   Morgan M, p           0  0  0  0   
+                                   Lopez A, p            1  0  0  0   
+                                   Cummings M, ph        1  0  1  0   
+                                   Moeller C, c          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  2                        30  1  6  1
+
+Los Angeles      100 000 001 --  2
+Arizona          000 000 010 --  1
+
+  Los Angeles          IP  H  R ER BB SO
+Park C (W)            8.0  6  1  1  1  2
+Shaw J (S)            1.0  0  0  0  0  0
+
+  Arizona              IP  H  R ER BB SO
+Lopez A               8.0  3  1  1  2  7
+Swindell G (L)*       0.0  1  1  1  0  0
+Morgan M              1.0  0  0  0  1  0
+  * Pitched to 1 batter in 9th
+
+DP -- Los Angeles 1
+LOB -- Los Angeles 5, Arizona 5
+2B -- Cora A, Green S, LoDuca P, Grace M
+3B -- Green S
+SB -- Sheffield G
+SH -- Lopez A, Bell J
+WP -- Park C
+T -- 2:29
+A -- 43138
+     Game of 10/2/2001 -- Colorado at Arizona (N)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Shumpert T, lf        4  0  1  0   Womack T, ss          5  2  2  0   
+Ortiz J, 2b           4  1  1  0   Bautista D, cf        4  1  2  3   
+Walker L, rf          2  0  1  0   Gonzalez L, lf        4  2  2  3   
+Belitz T, p           0  0  0  0   Christenson R, lf     0  0  0  0   
+Melhuse A, ph         1  0  1  0   Colbrunn G, 1b        5  1  4  1   
+Norton G, 1b          4  0  3  1   Williams M, 3b        5  0  0  0   
+Cirillo J, 3b         3  0  0  0   Sanders R, rf         4  2  2  1   
+Butler B, ph          1  0  0  0   Counsell C, 2b        3  0  1  2   
+Ochoa A, cf           4  0  0  0   Moeller C, c          3  0  0  0   
+Uribe J, ss           4  0  0  0   Johnson R, p          2  1  0  0   
+Petrick B, c          3  0  0  0   Sabel E, p            0  0  0  0   
+Hampton M, p          2  0  0  0   Bell J, ph            1  1  1  0   
+Nichting C, p         0  0  0  0   Anderson B, p         0  0  0  0   
+Cruz J, ph-rf         1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  8  1                        36 10 14 10
+
+Colorado         000 100 000 --  1
+Arizona          002 110 51x -- 10
+
+  Colorado             IP  H  R ER BB SO
+Hampton M (L)         6.1  9  8  8  2  5
+Nichting C            0.2  2  1  1  0  2
+Belitz T              1.0  3  1  1  0  0
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (W)         7.0  4  1  1  0  6
+Sabel E               1.0  2  0  0  0  2
+Anderson B            1.0  2  0  0  0  0
+
+DP -- Arizona 1
+LOB -- Colorado 6, Arizona 7
+2B -- Colbrunn G 3, Ortiz J, Norton G, Sanders R, Bell J
+3B -- Bautista D
+HR -- Sanders R, Gonzalez L
+CS -- Walker L
+SH -- Bautista D
+SF -- Gonzalez L
+HBP -- by Johnson R (Walker L), by Hampton M (Johnson R)
+T -- 2:53
+A -- 36263
+     Game of 10/3/2001 -- Colorado at Arizona (N)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Pierre J, cf          4  1  1  0   Womack T, ss          3  0  1  0   
+Ortiz J, 2b           4  1  2  0   Finley S, cf          3  0  0  0   
+Walker L, rf          4  0  1  0   Gonzalez L, lf        3  0  0  0   
+Helton T, 1b          4  1  1  1   Sanders R, rf         4  1  1  0   
+Cirillo J, 3b         4  0  2  2   Grace M, 1b           4  1  2  0   
+Norton G, lf          4  0  0  0   Williams M, 3b        3  1  1  1   
+Uribe J, ss           4  0  0  0   Counsell C, 2b        2  1  1  2   
+Bennett G, c          4  0  1  0   Moeller C, c          4  0  0  0   
+Chacon S, p           2  0  0  0   Schilling C, p        3  0  0  0   
+Cruz J, ph            1  0  1  0   Dellucci D, ph        1  0  0  0   
+Speier J, p           0  0  0  0   Kim B, p              0  0  0  0   
+Shumpert T, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  3  9  3                        30  4  6  3
+
+Colorado         000 101 010 --  3
+Arizona          031 000 00x --  4
+
+  Colorado             IP  H  R ER BB SO
+Chacon S (L)          6.0  6  4  4  5  2
+Speier J              2.0  0  0  0  0  3
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       8.0  9  3  3  0  8
+Kim B (S)             1.0  0  0  0  0  1
+
+E -- Womack T
+DP -- Arizona 1
+LOB -- Colorado 6, Arizona 8
+2B -- Counsell C, Williams M, Womack T, Grace M
+HR -- Helton T
+SB -- Williams M, Grace M
+HBP -- by Chacon S (Williams M)
+WP -- Chacon S 2
+T -- 2:47
+A -- 32521
+     Game of 10/4/2001 -- Colorado at Arizona (D)
+
+  Colorado           AB  R  H RBI    Arizona            AB  R  H RBI
+Pierre J, cf          4  1  2  1   Womack T, ss          3  0  0  0   
+Ortiz J, 2b           3  0  0  2   Bautista D, cf        4  1  1  0   
+Walker L, rf          4  0  1  0   Gonzalez L, lf        4  1  1  1   
+Helton T, 1b          5  1  2  1   Sanders R, rf         4  2  2  1   
+Shumpert T, pr        0  0  0  0   Grace M, 1b           4  1  2  1   
+Cirillo J, 3b         5  0  0  0   Bell J, 3b            3  0  0  0   
+Ochoa A, lf           4  0  2  0   Kim B, p              0  0  0  0   
+Uribe J, ss           3  1  1  0   Counsell C, 2b-3b     4  0  2  2   
+Petrick B, c          2  1  0  0   Barajas R, c          3  0  1  0   
+Neagle D, p           1  0  0  0   Witt B, p             2  0  0  0   
+Butler B, ph          1  0  0  0   Anderson B, p         0  0  0  0   
+White G, p            0  0  0  0   Colbrunn G, ph        1  0  0  0   
+Davis K, p            0  0  0  0   Brohawn T, p          0  0  0  0   
+Norton G, ph          1  0  0  0   Morgan M, p           0  0  0  0   
+Myers M, p            0  0  0  0   Swindell G, p         0  0  0  0   
+                                   Spivey J, 2b          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  8  4                        32  5  9  5
+
+Colorado         010 200 100 --  4
+Arizona          401 000 00x --  5
+
+  Colorado             IP  H  R ER BB SO
+Neagle D (L)          5.0  9  5  5  0  4
+White G               1.2  0  0  0  0  0
+Davis K               0.1  0  0  0  0  1
+Myers M               1.0  0  0  0  0  1
+
+  Arizona              IP  H  R ER BB SO
+Witt B                3.2  3  3  3  6  0
+Anderson B (W)        2.1  1  0  0  0  0
+Brohawn T             0.1  1  1  1  0  1
+Morgan M              1.0  2  0  0  0  2
+Swindell G            0.2  0  0  0  0  1
+Kim B (S)             1.0  1  0  0  0  0
+
+E -- Grace M
+DP -- Colorado 1
+LOB -- Colorado 10, Arizona 5
+2B -- Bautista D, Gonzalez L, Counsell C, Ochoa A
+HR -- Sanders R, Helton T
+SB -- Pierre J 2, Petrick B, Uribe J
+SH -- Neagle D
+SF -- Ortiz J
+HBP -- by Neagle D (Bell J), by Neagle D (Womack T)
+T -- 3:02
+A -- 29382
+

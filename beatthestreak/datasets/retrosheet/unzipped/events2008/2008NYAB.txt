@@ -1,0 +1,3409 @@
+     Game of 4/1/2008 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Eckstein D, ss        4  0  0  0   Damon J, lf           4  0  1  0   
+Stewart S, lf         4  0  1  1   Jeter D, ss           4  0  1  0   
+Rios A, rf            2  0  1  0   Abreu B, rf           4  1  2  0   
+Wells V, cf           4  0  0  0   Rodriguez A, 3b       3  1  2  1   
+Thomas F, dh          4  1  1  0   Giambi J, 1b          3  0  0  0   
+Overbay L, 1b         4  0  1  0   Cano R, 2b            3  0  1  0   
+Hill A, 2b            4  0  1  0   Posada J, c           2  0  0  0   
+Scutaro M, 3b         3  1  0  1   Matsui H, dh          3  0  0  1   
+Zaun G, c             3  0  1  0   Cabrera M, cf         3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        29  3  8  3
+
+Toronto          010 010 000 --  2
+New York         100 001 10x --  3
+
+  Toronto              IP  H  R ER BB SO
+Halladay R (L)        7.0  7  3  3  2  3
+Downs S               1.0  1  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Wang C (W)            7.0  6  2  2  2  2
+Chamberlain J         1.0  0  0  0  1  2
+Rivera M (S)          1.0  0  0  0  0  1
+
+DP -- Toronto 2, New York 1
+LOB -- Toronto 6, New York 5
+2B -- Rodriguez A, Hill A
+3B -- Damon J
+HR -- Cabrera M
+SB -- Scutaro M 2, Rios A
+CS -- Jeter D
+T -- 2:31
+A -- 55112
+     Game of 4/2/2008 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Eckstein D, ss        5  1  0  0   Damon J, lf           4  0  0  0   
+Stewart S, lf         4  0  1  0   Jeter D, ss           4  0  2  0   
+Coats B, lf           0  0  0  0   Abreu B, rf           3  1  1  0   
+Rios A, rf            3  1  2  2   Rodriguez A, 3b       4  1  1  2   
+Wells V, cf           4  2  3  2   Giambi J, 1b          4  0  0  0   
+Thomas F, dh          3  0  0  0   Cano R, 2b            4  0  0  0   
+Overbay L, 1b         3  0  1  0   Matsui H, dh          3  0  1  0   
+Hill A, 2b            4  0  2  1   Molina J, c           3  0  1  0   
+Scutaro M, 3b         3  0  1  0   Cabrera M, cf         3  0  1  0   
+Barajas R, c          4  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  5 12  5                        32  2  7  2
+
+Toronto          102 001 100 --  5
+New York         000 000 200 --  2
+
+  Toronto              IP  H  R ER BB SO
+Burnett A (W)*        6.0  5  2  2  1  3
+Tallet B              2.0  0  0  0  0  3
+Accardo J (S)         1.0  2  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         5.2  8  4  3  2  2
+Hawkins L             1.1  2  1  1  0  0
+Farnsworth K          1.0  2  0  0  0  1
+Ohlendorf R           1.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Giambi J, Burnett A
+DP -- Toronto 1, New York 5
+LOB -- Toronto 5, New York 4
+2B -- Barajas R
+3B -- Overbay L
+HR -- Wells V, Rodriguez A
+CS -- Abreu B, Scutaro M, Rios A
+HBP -- by Mussina M (Thomas F), by Ohlendorf R (Scutaro M)
+T -- 3:10
+A -- 48544
+     Game of 4/3/2008 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Eckstein D, ss        4  1  2  1   Damon J, dh           3  1  1  0   
+Stairs M, lf          4  0  1  0   Jeter D, ss           2  1  0  0   
+Coats B, pr-lf        0  0  0  0   Abreu B, rf           3  0  2  1   
+Rios A, rf            4  0  1  1   Rodriguez A, 3b       4  0  0  0   
+Wells V, cf           4  0  1  0   Giambi J, 1b          1  0  0  1   
+Thomas F, dh          2  0  0  0   Cano R, 2b            4  0  0  0   
+Stewart S, ph         2  0  0  0   Matsui H, lf          3  0  1  0   
+Overbay L, 1b         4  0  0  0   Molina J, c           3  0  1  0   
+Hill A, 2b            4  0  0  0   Cabrera M, cf         2  1  1  0   
+Scutaro M, 3b         2  1  0  0                                      
+Zaun G, c             3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  6  2                        25  3  6  2
+
+Toronto          000 110 000 --  2
+New York         000 002 01x --  3
+
+  Toronto              IP  H  R ER BB SO
+McGowan D             6.0  4  2  2  3  4
+Wolfe B (L)*          1.0  1  1  1  0  1
+Downs S               1.0  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Hughes P              6.0  4  2  2  1  4
+Traber B              0.1  0  0  0  0  1
+Bruney B              0.2  0  0  0  0  0
+Chamberlain J (W)     1.0  1  0  0  0  1
+Rivera M (S)          1.0  1  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Cano R, Downs S
+DP -- Toronto 3
+LOB -- Toronto 5, New York 6
+2B -- Eckstein D, Zaun G, Damon J
+SB -- Rios A
+SH -- Damon J, Jeter D
+SF -- Giambi J
+HBP -- by McGowan D (Jeter D), by Downs S (Giambi J)
+WP -- McGowan D
+T -- 2:45
+A -- 47785
+     Game of 4/4/2008 -- Tampa Bay at New York (N)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Iwamura A, 2b         4  2  3  0   Damon J, cf           3  0  0  0   
+Crawford C, lf        5  2  1  1   Jeter D, ss           4  1  1  1   
+Pena C, 1b            4  2  1  3   Abreu B, rf           3  0  1  1   
+Upton B, cf           4  1  2  1   Duncan S, ph-rf       1  0  0  0   
+Floyd C, dh           4  2  2  2   Rodriguez A, 3b       3  1  1  0   
+Navarro D, c          1  0  0  0   Betemit W, ph-3b      1  0  0  0   
+Riggans S, ph-c       4  1  2  3   Giambi J, 1b          3  0  1  1   
+Hinske E, 3b          5  1  2  1   Ensberg M, 1b         1  0  0  0   
+Haynes N, rf          5  1  1  0   Cano R, 2b            4  0  0  0   
+Bartlett J, ss        5  1  1  2   Posada J, dh          4  0  0  0   
+                                   Matsui H, lf          3  1  1  1   
+                                   Molina J, c           3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     41 13 15 13                        33  4  6  4
+
+Tampa Bay        105 000 070 -- 13
+New York         004 000 000 --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Sonnanstine A (W)     6.0  6  4  4  0  4
+Wheeler D             1.0  0  0  0  0  0
+Miller T              1.0  0  0  0  1  0
+Dohmann S             1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Kennedy I (L)         2.1  4  6  6  4  2
+Albaladejo J          2.2  1  0  0  0  4
+Ohlendorf R           1.0  0  0  0  0  1
+Traber B              1.0  1  0  0  0  1
+Hawkins L             0.2  6  6  6  0  0
+Farnsworth K          1.1  3  1  1  0  3
+
+E -- Jeter D
+DP -- New York 2
+LOB -- Tampa Bay 5, New York 3
+2B -- Abreu B, Riggans S, Hinske E 2, Molina J, Giambi J
+3B -- Jeter D
+HR -- Matsui H, Floyd C, Pena C
+SB -- Crawford C, Haynes N
+CS -- Iwamura A
+WP -- Kennedy I
+T -- 3:07
+A -- 49255
+     Game of 4/5/2008 -- Tampa Bay at New York (D)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Iwamura A, 2b         5  1  1  0   Damon J, cf           4  1  0  0   
+Crawford C, lf        5  1  0  0   Jeter D, ss           5  0  0  0   
+Pena C, 1b            2  1  0  0   Abreu B, rf           5  1  1  0   
+Upton B, cf           4  1  1  1   Rodriguez A, 3b       4  1  2  1   
+Gomes J, rf           3  1  2  4   Giambi J, dh          1  0  0  0   
+Haynes N, rf          0  0  0  0   Betemit W, ph         2  0  1  0   
+Aybar W, 3b           3  1  1  1   Cano R, 2b            4  0  1  0   
+Bartlett J, ss        4  0  2  0   Posada J, c           4  0  2  2   
+Riggans S, c          4  0  1  0   Matsui H, lf          4  0  1  0   
+Johnson E, dh         4  0  1  0   Duncan S, 1b          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6  9  6                        37  3  9  3
+
+Tampa Bay        002 030 010 --  6
+New York         100 000 020 --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Jackson E (W)         6.0  5  1  1  2  4
+Wheeler D             1.0  0  0  0  0  0
+Miller T              0.2  4  2  2  0  2
+Reyes A               0.1  0  0  0  0  0
+Percival T (S)        1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        5.0  8  5  3  2  3
+Bruney B              2.0  0  0  0  0  4
+Ohlendorf R           2.0  1  1  1  0  1
+
+E -- Gomes J, Duncan S
+LOB -- Tampa Bay 6, New York 9
+2B -- Rodriguez A, Bartlett J
+HR -- Gomes J, Aybar W
+SB -- Upton B
+CS -- Johnson E
+SF -- Gomes J
+HBP -- by Pettitte A (Pena C) 2
+T -- 3:05
+A -- 52247
+     Game of 4/6/2008 -- Tampa Bay at New York (D)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Iwamura A, 2b         4  0  0  0   Damon J, lf           4  0  1  0   
+Crawford C, lf        4  0  0  0   Jeter D, ss           4  0  1  0   
+Pena C, 1b            4  0  1  0   Abreu B, rf           4  0  0  0   
+Upton B, cf           3  0  0  0   Rodriguez A, 3b       3  1  1  0   
+Floyd C, dh           4  0  1  0   Matsui H, dh          4  1  3  2   
+Hinske E, rf          2  0  1  0   Cano R, 2b            4  0  2  0   
+Aybar W, 3b           3  0  1  0   Posada J, c           4  0  0  0   
+Riggans S, c          3  0  0  0   Betemit W, 1b         2  0  0  0   
+Bartlett J, ss        3  0  0  0   Cabrera M, cf         3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        32  2  9  2
+
+Tampa Bay        000 000 000 --  0
+New York         000 200 00x --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Shields J (L)*        5.0  8  2  2  1  5
+Howell J              3.0  1  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Wang C (W)+           6.0  4  0  0  2  6
+Chamberlain J         2.0  0  0  0  0  1
+Rivera M (S)          1.0  0  0  0  0  2
+  * Pitched to 1 batter in 6th
+  + Pitched to 2 batters in 7th
+
+E -- Cano R
+DP -- New York 1
+LOB -- Tampa Bay 5, New York 8
+2B -- Rodriguez A, Cano R
+HR -- Matsui H
+CS -- Aybar W
+HBP -- by Shields J (Betemit W)
+T -- 2:53
+A -- 51279
+     Game of 4/7/2008 -- Tampa Bay at New York (N)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Iwamura A, 2b         4  0  0  0   Damon J, lf           5  0  2  0   
+Crawford C, lf        4  0  0  0   Jeter D, ss           1  1  0  0   
+Pena C, 1b            4  0  1  0   Ensberg M, 1b         3  1  1  0   
+Upton B, cf           4  0  0  0   Abreu B, rf           3  3  3  2   
+Hinske E, rf          3  0  0  0   Rodriguez A, 3b       4  1  1  1   
+Aybar W, 3b           3  0  0  0   Matsui H, dh          4  0  2  2   
+Gomes J, dh           4  1  1  1   Cano R, 2b            4  0  1  1   
+DiFelice M, c         3  0  1  0   Betemit W, 1b-ss      4  0  0  0   
+Bartlett J, ss        2  0  0  0   Cabrera M, cf         3  0  0  0   
+                                   Molina J, c           4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  3  1                        35  6 11  6
+
+Tampa Bay        001 000 000 --  1
+New York         200 002 20x --  6
+
+  Tampa Bay            IP  H  R ER BB SO
+Hammel J (L)          6.0  8  4  4  1  2
+Dohmann S             1.0  3  2  2  1  2
+Glover G              1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         6.0  2  1  1  1  3
+Bruney B              1.0  0  0  0  0  0
+Farnsworth K          1.0  0  0  0  0  1
+Hawkins L             1.0  1  0  0  1  1
+
+E -- Cano R
+LOB -- Tampa Bay 6, New York 7
+2B -- Molina J, DiFelice M, Matsui H
+3B -- Abreu B
+HR -- Abreu B, Gomes J
+SB -- Bartlett J
+HBP -- by Bruney B (Aybar W)
+WP -- Hawkins L
+T -- 2:53
+A -- 41302
+     Game of 4/16/2008 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Ellsbury J, cf        5  0  0  0   Cabrera M, cf         4  1  1  1   
+Pedroia D, 2b         5  2  2  2   Jeter D, ss           4  2  2  2   
+Ortiz D, dh           5  1  1  1   Abreu B, rf           5  1  1  2   
+Ramirez M, lf         4  1  3  1   Rodriguez A, 3b       4  2  2  1   
+Youkilis K, 3b        5  1  1  0   Matsui H, lf          4  2  2  0   
+Lowrie J, 3b          0  0  0  0   Damon J, pr-lf        0  1  0  0   
+Drew J, rf            5  2  3  2   Posada J, dh          5  2  2  3   
+Varitek J, c          4  1  1  0   Giambi J, 1b          4  2  2  2   
+Casey S, 1b           3  1  2  2   Cano R, 2b            5  1  1  1   
+Lugo J, ss            5  0  1  1   Moeller C, c          4  1  3  1   
+                     -- -- -- --                        -- -- -- --
+                     41  9 14  9                        39 15 16 13
+
+Boston           110 160 000 --  9
+New York         300 440 04x -- 15
+
+  Boston               IP  H  R ER BB SO
+Buchholz C            3.2  8  7  7  1  2
+Tavarez J (L)         1.1  3  4  3  2  1
+Aardsma D             2.0  2  0  0  0  0
+Timlin M              1.0  3  4  4  2  1
+
+  New York             IP  H  R ER BB SO
+Wang C*               4.0  9  8  8  3  2
+Ohlendorf R+          1.0  2  1  1  2  3
+Hawkins L (W)         2.0  1  0  0  0  2
+Traber B              0.1  0  0  0  0  0
+Bruney B (S)          1.2  2  0  0  1  1
+  * Pitched to 5 batters in 5th
+  + Pitched to 1 batter in 6th
+
+E -- Lugo J
+LOB -- Boston 11, New York 6
+2B -- Ramirez M, Varitek J, Moeller C, Pedroia D, Posada J 2, Rodriguez A, Giambi J
+HR -- Abreu B, Rodriguez A
+SB -- Cabrera M
+HBP -- by Aardsma D (Rodriguez A)
+WP -- Tavarez J
+T -- 4:08
+A -- 54667
+     Game of 4/17/2008 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Ellsbury J, cf        3  1  0  0   Damon J, lf           4  1  1  0   
+Pedroia D, 2b         4  0  2  1   Jeter D, ss           4  1  1  2   
+Ortiz D, dh           5  1  0  0   Abreu B, rf           4  0  2  1   
+Ramirez M, lf         5  3  3  3   Rodriguez A, 3b       4  0  1  0   
+Thurston J, lf        0  0  0  0   Giambi J, 1b          4  0  0  0   
+Youkilis K, 3b        5  2  2  0   Posada J, dh          4  1  1  0   
+Drew J, rf            4  0  2  2   Cano R, 2b            4  0  0  1   
+Varitek J, c          4  0  2  1   Cabrera M, cf         3  2  2  1   
+Casey S, 1b           4  0  1  0   Moeller C, c          3  0  0  0   
+Lugo J, ss            4  0  1  0   Matsui H, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 13  7                        35  5  8  5
+
+Boston           014 020 000 --  7
+New York         000 030 002 --  5
+
+  Boston               IP  H  R ER BB SO
+Beckett J (W)         8.0  6  3  3  1  5
+Papelbon J            1.0  2  2  2  0  2
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         3.0  7  5  5  0  1
+Albaladejo J          3.0  4  2  2  1  3
+Farnsworth K          1.0  0  0  0  0  1
+Traber B              2.0  2  0  0  0  0
+
+E -- Moeller C
+DP -- New York 1
+LOB -- Boston 7, New York 4
+2B -- Drew J, Damon J, Abreu B, Posada J
+HR -- Ramirez M 2, Cabrera M
+SB -- Ellsbury J 2
+CS -- Lugo J
+HBP -- by Mussina M (Ellsbury J) 2
+WP -- Traber B, Papelbon J
+T -- 3:20
+A -- 55088
+     Game of 4/29/2008 -- Detroit at New York (N)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Granderson C, cf      3  3  2  1   Damon J, cf-lf        4  0  1  0   
+Polanco P, 2b         5  2  4  1   Jeter D, ss           4  0  1  1   
+Sheffield G, dh       4  1  1  2   Abreu B, rf           5  0  1  0   
+Ordonez M, rf         5  0  1  2   Molina J, c           0  0  0  0   
+Cabrera M, 1b         4  0  1  0   Matsui H, lf-rf       4  1  2  0   
+Guillen C, 3b         3  0  0  0   Giambi J, dh          4  0  1  1   
+Renteria E, ss        4  0  0  0   Duncan S, 1b          2  2  1  0   
+Rodriguez I, c        4  0  2  0   Ensberg M, 3b         4  0  0  0   
+Jones J, lf           4  0  0  0   Cano R, 2b            5  1  1  2   
+Raburn R, lf          0  0  0  0   Stewart C, c          3  0  0  0   
+                                   Cabrera M, ph-cf      0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6 11  6                        35  4  8  4
+
+Detroit          203 100 000 --  6
+New York         020 000 011 --  4
+
+  Detroit              IP  H  R ER BB SO
+Rogers K (W)          6.0  6  2  2  4  4
+Seay B                1.0  1  0  0  0  1
+Bautista D            0.2  0  1  1  3  1
+Rapada C              0.1  0  0  0  0  0
+Jones T (S)           1.0  1  1  1  1  1
+
+  New York             IP  H  R ER BB SO
+Hughes P (L)          3.2  8  6  6  3  2
+Ohlendorf R           3.1  1  0  0  1  5
+Ramirez E             1.0  1  0  0  0  1
+Hawkins L             1.0  1  0  0  0  0
+
+E -- Jones J
+DP -- New York 2
+LOB -- Detroit 7, New York 13
+2B -- Polanco P, Granderson C, Duncan S, Rodriguez I
+HR -- Cano R, Granderson C, Sheffield G
+SB -- Rodriguez I
+HBP -- by Bautista D (Jeter D)
+WP -- Hughes P 2, Jones T
+T -- 3:26
+A -- 49194
+     Game of 4/30/2008 -- Detroit at New York (N)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Rodriguez I, c        5  0  0  0   Damon J, lf           3  1  1  0   
+Polanco P, 2b         5  2  2  2   Jeter D, ss           4  1  1  0   
+Sheffield G, dh       4  1  2  0   Abreu B, rf           3  0  0  0   
+Ordonez M, rf         3  1  1  0   Matsui H, dh          4  0  1  0   
+Cabrera M, 1b         4  0  1  0   Giambi J, 1b          3  0  0  1   
+Guillen C, 3b         3  0  1  1   Cabrera M, cf         4  0  2  1   
+Renteria E, ss        4  1  1  1   Cano R, 2b            3  0  0  0   
+Thames M, lf          2  1  1  2   Molina J, c           3  0  0  0   
+Granderson C, cf      1  0  1  0   Gonzalez A, 3b        3  0  0  0   
+Inge B, cf-lf         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  6 10  6                        30  2  5  2
+
+Detroit          010 022 010 --  6
+New York         200 000 000 --  2
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (W)       7.2  5  2  2  2  1
+Rapada C              1.1  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        6.0  7  5  5  1  3
+Hawkins L             1.0  0  0  0  1  1
+Farnsworth K          1.0  2  1  1  0  2
+Ramirez E             1.0  1  0  0  0  1
+
+DP -- New York 1
+LOB -- Detroit 5, New York 4
+2B -- Damon J, Granderson C
+HR -- Thames M, Polanco P 2
+SB -- Sheffield G
+CS -- Cano R
+SH -- Guillen C
+SF -- Giambi J
+HBP -- by Ramirez E (Inge B)
+T -- 2:48
+A -- 49513
+     Game of 5/1/2008 -- Detroit at New York (N)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Granderson C, cf      5  0  0  1   Damon J, lf           4  1  1  0   
+Polanco P, 2b         5  1  1  0   Jeter D, ss           4  2  2  0   
+Sheffield G, dh       3  1  0  0   Abreu B, rf           4  1  2  3   
+Ordonez M, rf         5  2  3  2   Duncan S, 1b          5  0  1  1   
+Cabrera M, 1b         4  1  2  3   Matsui H, dh          5  0  1  0   
+Guillen C, 3b         4  1  2  0   Cabrera M, cf         4  0  0  0   
+Jones J, lf           4  1  1  0   Ensberg M, 3b         4  0  1  0   
+Raburn R, lf          1  0  0  0   Cano R, 2b            4  0  1  0   
+Inge B, c             3  0  0  0   Moeller C, c          4  0  1  0   
+Santiago R, ss        4  1  2  2                                      
+                     -- -- -- --                        -- -- -- --
+                     38  8 11  8                        38  4 10  4
+
+Detroit          004 002 200 --  8
+New York         300 010 000 --  4
+
+  Detroit              IP  H  R ER BB SO
+Robertson N (W)       5.2  7  4  4  2  3
+Seay B*               0.0  1  0  0  0  0
+Miner Z               2.1  2  0  0  1  1
+Cruceta F             1.0  0  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Kennedy I             4.2  5  4  4  3  1
+Albaladejo J (L)      1.2  6  4  4  0  3
+Britton C             2.2  0  0  0  2  0
+  * Pitched to 1 batter in 6th
+
+E -- Guillen C, Granderson C
+LOB -- Detroit 8, New York 11
+2B -- Santiago R, Polanco P, Ordonez M, Jones J, Guillen C
+3B -- Cabrera M, Santiago R
+HR -- Abreu B, Cabrera M
+WP -- Kennedy I
+T -- 3:30
+A -- 50993
+     Game of 5/2/2008 -- Seattle at New York (N)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Suzuki I, cf          4  1  2  0   Cabrera M, cf         4  0  1  2   
+Lopez J, 2b           4  0  0  0   Jeter D, ss           4  1  0  0   
+Ibanez R, lf          4  0  1  1   Abreu B, rf           4  1  2  0   
+Beltre A, 3b          4  0  0  0   Duncan S, 1b          3  1  1  0   
+Clement J, dh         3  0  0  0   Matsui H, lf          4  0  1  1   
+Sexson R, 1b          3  0  0  0   Giambi J, dh          2  0  0  0   
+Balentien W, rf       3  0  0  0   Ensberg M, 3b         4  1  1  1   
+Burke J, c            1  0  0  0   Molina J, c           3  0  0  1   
+Vidro J, ph           1  0  0  0   Gonzalez A, 2b        4  1  1  0   
+Johjima K, c          0  0  0  0                                      
+Betancourt Y, ss      3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        32  5  7  5
+
+Seattle          000 001 000 --  1
+New York         120 000 02x --  5
+
+  Seattle              IP  H  R ER BB SO
+Bedard E (L)          7.0  4  3  1  1  6
+Rowland-Smith R       0.1  2  2  2  1  1
+Green S               0.2  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Wang C (W)            6.0  3  1  1  2  5
+Farnsworth K          1.0  0  0  0  0  2
+Chamberlain J         1.0  1  0  0  0  0
+Rivera M              1.0  0  0  0  0  1
+
+E -- Betancourt Y, Beltre A, Lopez J, Burke J
+DP -- New York 1
+LOB -- Seattle 4, New York 7
+2B -- Cabrera M, Ibanez R
+SB -- Suzuki I 3
+CS -- Ensberg M
+SF -- Molina J
+HBP -- by Bedard E (Giambi J)
+T -- 2:57
+A -- 52199
+     Game of 5/3/2008 -- Seattle at New York (D)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Suzuki I, cf          4  0  2  1   Damon J, lf           5  3  3  2   
+Cairo M, 2b           4  0  0  0   Jeter D, ss           5  1  3  1   
+Ibanez R, lf          3  0  1  0   Abreu B, rf           4  0  2  1   
+Beltre A, 3b          3  0  0  0   Matsui H, dh          5  1  2  1   
+Clement J, dh         4  0  1  0   Giambi J, 1b          3  0  0  0   
+Sexson R, 1b          4  0  0  0   Cabrera M, cf         4  0  2  1   
+Johjima K, c          4  0  2  0   Cano R, 2b            3  0  0  0   
+Balentien W, rf       4  0  1  0   Ensberg M, 3b         4  0  0  0   
+Betancourt Y, ss      4  1  1  0   Molina J, c           3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  8  1                        36  6 13  6
+
+Seattle          001 000 000 --  1
+New York         103 002 00x --  6
+
+  Seattle              IP  H  R ER BB SO
+Hernandez F (L)       5.2 12  6  6  3  3
+Baek C                2.1  1  0  0  1  1
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         6.0  7  1  1  0  5
+Hawkins L             1.0  1  0  0  0  0
+Ramirez E             1.0  0  0  0  2  1
+Veras J               1.0  0  0  0  0  1
+
+E -- Ibanez R, Suzuki I, Ensberg M, Jeter D
+DP -- Seattle 1, New York 2
+LOB -- Seattle 8, New York 10
+2B -- Damon J 2, Jeter D, Cabrera M
+HR -- Damon J
+SB -- Abreu B, Betancourt Y, Suzuki I
+T -- 2:51
+A -- 52810
+     Game of 5/4/2008 -- Seattle at New York (D)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Suzuki I, cf          4  0  1  0   Damon J, lf           5  2  2  0   
+Lopez J, 2b           4  0  0  0   Jeter D, ss           5  2  4  1   
+Ibanez R, lf          4  1  2  0   Abreu B, rf           4  1  3  1   
+Beltre A, 3b          4  1  2  2   Matsui H, dh          4  1  2  2   
+Vidro J, 1b           4  0  0  0   Duncan S, ph          1  0  0  0   
+Betancourt Y, ss      3  0  1  0   Giambi J, 1b          2  0  0  1   
+Bloomquist W, ph      1  0  0  0   Cabrera M, cf         4  1  1  2   
+Clement J, dh         4  0  1  0   Cano R, 2b            4  1  1  1   
+Johjima K, c          3  0  0  0   Ensberg M, 3b         4  0  1  0   
+Balentien W, rf       3  0  0  0   Moeller C, c          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  7  2                        37  8 14  8
+
+Seattle          200 000 000 --  2
+New York         006 200 00x --  8
+
+  Seattle              IP  H  R ER BB SO
+Silva C (L)*          3.0 11  8  8  0  1
+Rowland-Smith R       2.0  1  0  0  1  1
+Lowe M                1.0  2  0  0  0  2
+Morrow B              1.0  0  0  0  0  1
+Rhodes A              1.0  0  0  0  1  2
+
+  New York             IP  H  R ER BB SO
+Rasner D (W)          6.0  5  2  2  0  4
+Ohlendorf R           1.0  1  0  0  0  1
+Farnsworth K          1.0  1  0  0  0  0
+Rivera M              1.0  0  0  0  0  0
+  * Pitched to 2 batters in 4th
+
+LOB -- Seattle 5, New York 8
+2B -- Matsui H, Jeter D
+HR -- Beltre A, Cabrera M, Cano R
+SB -- Suzuki I, Damon J
+SF -- Giambi J
+T -- 2:51
+A -- 53542
+     Game of 5/6/2008 -- Cleveland at New York (N)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Sizemore G, cf        3  1  0  0   Damon J, lf           5  0  0  0   
+Carroll J, 2b         3  1  1  0   Jeter D, ss           4  1  1  0   
+Peralta J, ss         3  2  1  2   Abreu B, rf           3  0  0  0   
+Garko R, 1b           4  0  1  0   Matsui H, dh          3  1  3  0   
+Gutierrez F, rf       3  0  0  0   Giambi J, 1b          3  1  1  2   
+Dellucci D, ph-lf     1  1  1  3   Cabrera M, cf         4  0  0  0   
+Hafner T, dh          4  0  1  0   Cano R, 2b            4  0  1  1   
+Francisco B, lf-rf    4  0  1  0   Betemit W, 3b         4  0  1  0   
+Shoppach K, c         4  0  0  0   Molina J, c           3  0  1  0   
+Marte A, 3b           3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  5  6  5                        33  3  8  3
+
+Cleveland        000 200 030 --  5
+New York         100 200 000 --  3
+
+  Cleveland            IP  H  R ER BB SO
+Carmona F             5.0  6  3  3  5  2
+Perez R (W)           2.0  1  0  0  1  3
+Lewis J               1.0  1  0  0  0  0
+Betancourt R (S)      1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Pettitte A            6.1  5  2  2  1  6
+Farnsworth K          0.2  0  0  0  0  1
+Chamberlain J (L)     1.0  1  3  3  2  1
+Veras J               1.0  0  0  0  0  1
+
+E -- Jeter D
+LOB -- Cleveland 4, New York 9
+2B -- Giambi J
+HR -- Peralta J, Dellucci D
+CS -- Francisco B, Abreu B
+SH -- Carroll J
+WP -- Pettitte A
+T -- 3:19
+A -- 50713
+     Game of 5/7/2008 -- Cleveland at New York (N)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Sizemore G, cf        2  1  0  0   Damon J, lf           4  0  0  0   
+Francisco B, rf       4  0  2  0   Jeter D, ss           4  0  0  0   
+Gutierrez F, rf       0  0  0  0   Abreu B, rf           4  0  2  0   
+Dellucci D, lf        4  0  1  1   Duncan S, 1b          4  0  1  0   
+Martinez V, dh        3  0  0  1   Matsui H, dh          4  0  1  0   
+Peralta J, ss         4  1  2  0   Cabrera M, cf         4  0  1  0   
+Cabrera A, 2b         2  0  0  0   Cano R, 2b            4  0  1  0   
+Blake C, 1b           3  0  1  1   Ensberg M, 3b         3  0  1  0   
+Shoppach K, c         3  0  0  0   Molina J, c           3  0  0  0   
+Marte A, 3b           3  1  1  0                                      
+Hafner T, ph          1  0  0  0                                      
+Carroll J, 3b         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  3  7  3                        34  0  7  0
+
+Cleveland        100 110 000 --  3
+New York         000 000 000 --  0
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (W)             7.0  6  0  0  0  7
+Perez R               1.0  1  0  0  0  1
+Betancourt R (S)      1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Wang C (L)            7.0  5  3  3  3  4
+Farnsworth K          1.0  1  0  0  0  0
+Albaladejo J          1.0  1  0  0  2  0
+
+DP -- New York 1
+LOB -- Cleveland 6, New York 7
+2B -- Duncan S, Abreu B
+CS -- Sizemore G, Francisco B
+SH -- Blake C
+SF -- Martinez V
+T -- 3:04
+A -- 50199
+     Game of 5/8/2008 -- Cleveland at New York (D)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Sizemore G, cf        4  0  1  0   Damon J, lf           4  1  2  2   
+Carroll J, 2b         4  0  0  0   Jeter D, ss           4  0  1  0   
+Dellucci D, dh        4  0  0  0   Abreu B, rf           3  0  0  0   
+Peralta J, ss         4  0  0  0   Matsui H, dh          4  1  2  0   
+Francisco B, lf       3  1  1  0   Giambi J, 1b          3  1  1  2   
+Gutierrez F, rf       4  1  2  0   Cabrera M, cf         3  0  0  0   
+Garko R, 1b           4  0  0  0   Cano R, 2b            3  2  2  1   
+Blake C, 3b           3  1  1  2   Betemit W, 3b         3  1  1  1   
+Shoppach K, c         3  0  1  1   Molina J, c           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        30  6  9  6
+
+Cleveland        000 030 000 --  3
+New York         000 310 20x --  6
+
+  Cleveland            IP  H  R ER BB SO
+Byrd P (L)            6.1  8  5  5  0  0
+Kobayashi M           0.2  1  1  1  0  1
+Julio J               1.0  0  0  0  1  1
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         5.0  4  3  3  0  3
+Ohlendorf R           2.0  1  0  0  0  1
+Chamberlain J         1.0  0  0  0  0  1
+Rivera M (S)          1.0  1  0  0  0  0
+
+DP -- Cleveland 3
+LOB -- Cleveland 4, New York 1
+2B -- Blake C, Cano R, Damon J, Francisco B
+HR -- Damon J, Giambi J, Cano R, Betemit W
+HBP -- by Mussina M (Francisco B)
+T -- 2:33
+A -- 53227
+     Game of 5/17/2008 -- New York at New York (D)
+
+  New York           AB  R  H RBI    New York           AB  R  H RBI
+Reyes J, ss           5  1  2  1   Damon J, lf           3  1  1  0   
+Church R, rf          4  2  1  0   Abreu B, rf           4  1  2  1   
+Wright D, 3b          5  2  3  2   Jeter D, ss           4  1  3  2   
+Beltran C, cf         5  2  3  1   Matsui H, dh          4  0  0  0   
+Alou M, lf            3  0  1  0   Giambi J, 1b          4  1  2  1   
+Chavez E, lf          0  0  0  0   Cano R, 2b            4  0  1  0   
+Delgado C, 1b         5  0  2  1   Cabrera M, cf         3  0  0  0   
+Easley D, dh          4  0  0  0   Gonzalez A, 3b        3  0  0  0   
+Anderson M, ph        1  0  0  0   Duncan S, ph          1  0  0  0   
+Schneider B, c        3  0  0  1   Moeller C, c          3  0  0  0   
+Castillo L, 2b        3  0  1  1   Ensberg M, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 13  7                        34  4  9  4
+
+New York         000 300 301 --  7
+New York         200 000 110 --  4
+
+  New York             IP  H  R ER BB SO
+Santana J (W)         7.2  7  4  4  2  5
+Wagner B (S)          1.1  2  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        6.0  7  3  3  2  7
+Farnsworth K          1.0  3  3  3  1  1
+Ramirez E             1.0  1  0  0  1  1
+Chamberlain J         1.0  2  1  1  0  2
+
+DP -- New York 1
+LOB -- New York 9, New York 5
+2B -- Abreu B, Jeter D
+3B -- Beltran C
+HR -- Jeter D, Reyes J, Wright D, Giambi J, Abreu B
+SB -- Wright D, Beltran C
+CS -- Alou M, Castillo L
+HBP -- by Pettitte A (Alou M)
+T -- 3:08
+A -- 55093
+     Game of 5/18/2008 -- New York at New York (N)
+
+  New York           AB  R  H RBI    New York           AB  R  H RBI
+Reyes J, ss           5  1  2  3   Damon J, lf           4  0  0  0   
+Anderson M, lf        4  1  0  0   Abreu B, rf           4  0  0  0   
+Chavez E, lf          1  0  0  0   Jeter D, ss           3  1  1  0   
+Wright D, 3b          5  2  2  0   Matsui H, dh          4  1  1  2   
+Beltran C, cf         4  1  0  0   Giambi J, 1b          1  0  0  0   
+Church R, rf          4  3  1  2   Cano R, 2b            3  0  0  0   
+Alou M, dh            3  0  1  3   Cabrera M, cf         4  0  0  0   
+Delgado C, 1b         3  1  1  1   Gonzalez A, 3b        3  0  0  0   
+Schneider B, c        4  1  1  1   Molina J, c           3  0  1  0   
+Castillo L, 2b        3  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     36 11  9 11                        29  2  3  2
+
+New York         000 401 060 -- 11
+New York         000 200 000 --  2
+
+  New York             IP  H  R ER BB SO
+Perez O (W)           7.2  3  2  2  2  4
+Smith J               0.1  0  0  0  0  0
+Schoeneweis S         1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Wang C (L)            7.2  6  7  7  3  1
+Ohlendorf R           0.1  3  4  4  1  0
+Veras J               1.0  0  0  0  0  1
+
+E -- Gonzalez A
+DP -- New York 1
+LOB -- New York 3, New York 5
+2B -- Reyes J, Molina J, Wright D
+HR -- Matsui H, Church R, Reyes J
+SB -- Jeter D, Cano R
+SF -- Alou M
+HBP -- by Perez O (Cano R), by Perez O (Giambi J), by Schoeneweis S (Giambi J)
+WP -- Perez O
+T -- 2:58
+A -- 55012
+     Game of 5/20/2008 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         4  1  1  1   Damon J, lf           4  0  1  0   
+Hernandez L, 2b       1  0  0  0   Jeter D, ss           1  0  0  0   
+Mora M, 3b            5  0  0  0   Gonzalez A, pr-ss     2  0  0  0   
+Cintron A, 3b         0  0  0  0   Abreu B, rf           4  1  2  0   
+Markakis N, rf        5  0  1  0   Rodriguez A, 3b       3  1  1  2   
+Huff A, dh            4  2  1  1   Duncan S, 1b          1  0  0  0   
+Millar K, 1b          4  3  2  1   Matsui H, dh          4  0  1  0   
+Scott L, lf           4  3  1  2   Giambi J, 1b          3  0  2  0   
+Hernandez R, c        3  1  1  1   Ensberg M, 3b         1  0  0  0   
+Jones A, cf           5  1  4  4   Cano R, 2b            3  0  0  0   
+Bynum F, ss           5  1  1  1   Cabrera M, cf         3  0  0  0   
+                                   Molina J, c           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40 12 12 11                        32  2  7  2
+
+Baltimore        720 100 020 -- 12
+New York         000 002 000 --  2
+
+  Baltimore            IP  H  R ER BB SO
+Cabrera D (W)         7.0  5  2  2  0  4
+Cormier L             2.0  2  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         0.2  5  7  1  2  1
+Ohlendorf R           3.1  4  3  1  2  3
+Hawkins L             1.2  0  0  0  1  1
+Ramirez E             1.1  1  0  0  0  1
+Veras J               1.0  1  2  2  1  2
+Rivera M              1.0  1  0  0  0  0
+
+E -- Jeter D, Damon J, Mora M
+DP -- Baltimore 3, New York 1
+LOB -- Baltimore 7, New York 4
+2B -- Jones A
+3B -- Roberts B
+HR -- Millar K, Rodriguez A, Scott L
+HBP -- by Cabrera D (Jeter D)
+WP -- Mussina M, Ohlendorf R
+T -- 2:54
+A -- 51617
+     Game of 5/21/2008 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         2  0  0  0   Damon J, lf           4  0  2  2   
+Hernandez L, ph-2b    1  0  0  0   Jeter D, ss           3  1  0  1   
+Mora M, 3b            1  0  0  0   Gonzalez A, ph-ss     1  0  0  0   
+Cintron A, 3b         2  0  1  0   Abreu B, rf           5  0  2  0   
+Markakis N, rf        4  0  2  0   Rodriguez A, 3b       4  2  3  2   
+Huff A, dh            4  0  0  0   Ensberg M, ph-3b      1  0  0  0   
+Millar K, 1b          4  0  2  0   Matsui H, dh          3  1  0  0   
+Scott L, lf           3  0  0  0   Duncan S, 1b          5  1  1  1   
+Hernandez R, c        3  0  0  0   Cano R, 2b            5  2  2  1   
+Quiroz G, c           1  0  0  0   Moeller C, c          5  1  2  1   
+Jones A, cf           4  0  0  0   Cabrera M, cf         2  0  1  0   
+Bynum F, ss           3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  0  6  0                        38  8 13  8
+
+Baltimore        000 000 000 --  0
+New York         033 002 00x --  8
+
+  Baltimore            IP  H  R ER BB SO
+Olson G (L)           2.2  8  6  6  2  1
+Sarfate D             2.1  1  0  0  1  4
+Cormier L             1.0  1  2  1  2  1
+Walker J              1.0  3  0  0  0  2
+Albers M              1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Rasner D (W)          7.0  5  0  0  1  6
+Chamberlain J         2.0  1  0  0  2  3
+
+E -- Cintron A
+DP -- New York 1
+LOB -- Baltimore 8, New York 12
+2B -- Cano R, Bynum F, Rodriguez A 2
+HR -- Rodriguez A
+SB -- Abreu B, Jeter D
+HBP -- by Olson G (Cabrera M)
+PB -- Hernandez R
+T -- 2:59
+A -- 50682
+     Game of 5/22/2008 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         3  0  0  0   Damon J, lf           4  0  3  0   
+Payton J, lf          3  0  1  0   Jeter D, ss           4  0  0  0   
+Markakis N, rf        4  0  0  0   Matsui H, dh          4  2  2  0   
+Huff A, 3b            3  0  1  0   Rodriguez A, 3b       4  0  0  0   
+Millar K, 1b          4  0  0  0   Giambi J, 1b          4  0  1  0   
+Scott L, dh           4  0  0  0   Duncan S, rf          2  0  0  1   
+Hernandez R, c        4  0  1  0   Abreu B, ph           0  0  0  0   
+Jones A, cf           3  1  1  0   Cano R, 2b            4  0  1  1   
+Bynum F, ss           2  0  1  1   Molina J, c           3  0  1  0   
+                                   Cabrera M, cf         3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        32  2  8  2
+
+Baltimore        001 000 000 --  1
+New York         000 100 001 --  2
+  2 outs when winning run was scored.
+
+  Baltimore            IP  H  R ER BB SO
+Burres B              7.2  6  1  1  0  5
+Johnson J (L)         1.0  2  1  1  1  2
+
+  New York             IP  H  R ER BB SO
+Kennedy I             6.0  4  1  1  4  4
+Veras J               1.0  1  0  0  0  1
+Farnsworth K          1.0  0  0  0  0  1
+Rivera M (W)          1.0  0  0  0  0  1
+
+DP -- Baltimore 1, New York 1
+LOB -- Baltimore 6, New York 6
+3B -- Bynum F
+SB -- Roberts B
+CS -- Bynum F
+SF -- Duncan S
+T -- 2:49
+A -- 49452
+     Game of 5/23/2008 -- Seattle at New York (N)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Suzuki I, cf          4  0  0  0   Jeter D, ss           2  1  0  0   
+Bloomquist W, lf      1  0  0  0   Gonzalez A, ss        1  0  0  0   
+Lopez J, 2b           4  0  1  0   Abreu B, rf           5  1  2  2   
+Vidro J, dh           4  1  3  0   Rodriguez A, 3b       4  1  1  1   
+Ibanez R, lf          3  0  0  0   Ensberg M, 3b         1  0  0  0   
+Reed J, lf-cf         1  0  0  0   Matsui H, lf          5  3  3  2   
+Beltre A, 3b          3  1  3  1   Giambi J, dh          3  3  2  0   
+Cairo M, 3b           1  0  0  0   Duncan S, 1b          4  1  1  3   
+Sexson R, 1b          4  0  0  0   Cano R, 2b            4  1  2  3   
+Balentien W, rf       3  0  1  0   Moeller C, c          5  1  1  2   
+Burke J, c            3  0  0  0   Cabrera M, cf         4  1  1  0   
+Betancourt Y, ss      4  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     35  2  9  2                        38 13 13 13
+
+Seattle          011 000 000 --  2
+New York         030 280 00x -- 13
+
+  Seattle              IP  H  R ER BB SO
+Bedard E (L)          4.1  8  9  9  1  3
+Green S               0.1  4  4  4  1  1
+Dickey R              2.1  1  0  0  1  1
+Lowe M                1.0  0  0  0  2  1
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        6.0  8  2  2  0  9
+Hawkins L             2.0  1  0  0  0  1
+Ramirez E             1.0  0  0  0  2  2
+
+E -- Lopez J
+DP -- New York 1
+LOB -- Seattle 8, New York 7
+2B -- Vidro J 2, Beltre A, Giambi J, Cano R
+HR -- Duncan S
+HBP -- by Bedard E (Jeter D)
+T -- 2:58
+A -- 52005
+     Game of 5/24/2008 -- Seattle at New York (D)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Suzuki I, cf          5  0  1  0   Damon J, lf           5  1  1  0   
+Lopez J, 2b           5  1  3  0   Jeter D, ss           5  1  0  0   
+Vidro J, dh           4  1  2  3   Duncan S, 1b          0  0  0  0   
+Ibanez R, lf          5  0  0  0   Abreu B, rf           5  1  2  4   
+Beltre A, 3b          5  1  1  1   Rodriguez A, 3b       4  1  1  0   
+Reed J, rf            3  1  1  0   Gonzalez A, pr-ss     0  0  0  0   
+Sexson R, 1b          4  1  1  2   Matsui H, dh          3  3  2  1   
+Johjima K, c          4  0  0  0   Giambi J, 1b          4  2  3  3   
+Betancourt Y, ss      4  1  3  0   Ensberg M, ph-3b      1  0  0  0   
+                                   Cano R, 2b            4  1  4  1   
+                                   Molina J, c           5  1  1  1   
+                                   Cabrera M, cf         5  1  2  2   
+                     -- -- -- --                        -- -- -- --
+                     39  6 12  6                        41 12 16 12
+
+Seattle          004 000 020 --  6
+New York         041 002 50x -- 12
+
+  Seattle              IP  H  R ER BB SO
+Silva C (L)           6.0 11  7  5  1  2
+Rhodes A*             0.0  2  3  2  1  0
+Morrow B              0.2  2  2  0  1  0
+Rowland-Smith R       1.1  1  0  0  1  1
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         5.0  7  4  4  1  4
+Chamberlain J         2.0  1  0  0  1  2
+Farnsworth K          1.0  4  2  2  0  0
+Veras J               1.0  0  0  0  0  0
+  * Pitched to 3 batters in 7th
+
+E -- Lopez J, Beltre A
+DP -- Seattle 1
+LOB -- Seattle 8, New York 9
+2B -- Matsui H, Cano R 3, Betancourt Y, Giambi J, Lopez J, Abreu B
+HR -- Giambi J, Vidro J, Beltre A, Abreu B, Sexson R
+Balk -- Farnsworth K
+T -- 3:10
+A -- 53512
+     Game of 5/25/2008 -- Seattle at New York (D)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Suzuki I, cf          5  2  2  2   Damon J, lf           4  1  1  1   
+Lopez J, 2b           5  1  1  0   Jeter D, ss           3  1  1  1   
+Vidro J, dh           5  0  2  2   Abreu B, rf           4  1  1  1   
+Ibanez R, lf          4  0  0  0   Rodriguez A, 3b       2  1  1  0   
+Beltre A, 3b          3  0  0  0   Giambi J, dh          2  0  0  0   
+Johjima K, c          4  1  2  0   Duncan S, 1b          3  0  0  0   
+Sexson R, 1b          3  1  0  0   Matsui H, ph          1  1  1  0   
+Balentien W, rf       3  0  0  0   Ensberg M, 1b         0  0  0  0   
+Betancourt Y, ss      4  0  2  1   Cano R, 2b            2  1  0  1   
+                                   Molina J, c           4  0  2  1   
+                                   Cabrera M, cf         3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5  9  5                        28  6  8  5
+
+Seattle          001 200 200 --  5
+New York         001 010 04x --  6
+
+  Seattle              IP  H  R ER BB SO
+Washburn J            6.0  4  2  2  3  2
+Green S*              1.0  1  1  1  1  0
+Rhodes A+             0.0  1  1  1  0  0
+Putz J (L)            1.0  2  2  2  1  1
+
+  New York             IP  H  R ER BB SO
+Wang C                6.1  7  5  5  4  2
+Ramirez E (W)         1.2  2  0  0  0  2
+Rivera M (S)          1.0  0  0  0  0  2
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 8th
+
+E -- Duncan S, Putz J
+DP -- Seattle 2, New York 1
+LOB -- Seattle 8, New York 6
+2B -- Damon J, Jeter D, Lopez J, Abreu B, Molina J
+HR -- Suzuki I
+SB -- Damon J, Rodriguez A
+SH -- Cabrera M
+SF -- Cano R
+HBP -- by Washburn J (Giambi J)
+T -- 3:10
+A -- 54269
+     Game of 6/3/2008 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Stewart S, lf         3  1  1  0   Damon J, lf           4  1  3  0   
+Inglett J, lf         1  0  1  0   Jeter D, ss           5  0  2  0   
+Scutaro M, 2b         5  1  1  1   Abreu B, rf           5  0  0  1   
+Rios A, cf            5  2  1  1   Rodriguez A, 3b       3  1  0  0   
+Rolen S, 3b           5  0  1  1   Matsui H, dh          4  0  2  1   
+Stairs M, dh          2  1  0  0   Giambi J, 1b          2  0  1  1   
+Overbay L, 1b         2  1  0  1   Duncan S, 1b          1  0  1  0   
+Barajas R, c          5  2  2  2   Cano R, 2b            4  0  0  0   
+Wilkerson B, rf       4  1  3  0   Molina J, c           4  0  0  0   
+Eckstein D, ss        4  0  2  3   Cabrera M, cf         3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  9 12  9                        35  3  9  3
+
+Toronto          101 100 600 --  9
+New York         200 000 100 --  3
+
+  Toronto              IP  H  R ER BB SO
+Halladay R (W)        6.0  6  2  2  1  3
+Tallet B              1.0  0  1  1  2  0
+Carlson J             1.0  1  0  0  0  1
+Frasor J              1.0  2  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Chamberlain J         2.1  1  2  1  4  3
+Giese D (L)           3.2  5  1  1  1  0
+Veras J               0.1  2  2  2  0  1
+Ramirez E*            0.0  1  4  4  3  0
+Hawkins L             1.2  1  0  0  2  1
+Britton C             1.0  2  0  0  0  2
+  * Pitched to 4 batters in 7th
+
+E -- Molina J
+DP -- Toronto 1
+LOB -- Toronto 12, New York 10
+2B -- Damon J, Barajas R 2, Wilkerson B, Eckstein D, Duncan S
+3B -- Damon J
+SB -- Rios A
+CS -- Wilkerson B
+SF -- Eckstein D, Scutaro M
+HBP -- by Halladay R (Rodriguez A), by Halladay R (Giambi J)
+WP -- Frasor J
+Balk -- Chamberlain J
+PB -- Molina J
+T -- 3:38
+A -- 53629
+     Game of 6/4/2008 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Stewart S, lf         4  0  0  0   Damon J, lf           4  0  3  1   
+Scutaro M, 2b         4  0  1  0   Jeter D, ss           4  0  1  1   
+Rios A, cf            3  1  2  0   Abreu B, rf           3  1  0  0   
+Rolen S, 3b           4  0  1  1   Rodriguez A, 3b       4  0  1  0   
+Stairs M, dh          4  0  0  0   Matsui H, dh          3  0  2  1   
+Overbay L, 1b         4  0  2  0   Betemit W, 1b         4  1  1  1   
+Barajas R, c          2  0  0  0   Cano R, 2b            4  1  1  0   
+Thigpen C, c          1  0  0  0   Molina J, c           3  2  2  0   
+Wilkerson B, rf       3  0  0  0   Cabrera M, cf         4  0  1  1   
+Eckstein D, ss        3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        33  5 12  5
+
+Toronto          000 001 000 --  1
+New York         001 201 10x --  5
+
+  Toronto              IP  H  R ER BB SO
+Litsch J (L)          5.1 10  4  4  2  1
+Camp S                1.0  1  1  1  1  0
+Downs S               0.2  1  0  0  0  0
+Benitez A             1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         6.0  5  1  1  1  6
+Ohlendorf R           1.0  1  0  0  0  0
+Farnsworth K          1.0  0  0  0  0  1
+Rivera M              1.0  0  0  0  0  2
+
+DP -- Toronto 3, New York 1
+LOB -- Toronto 5, New York 7
+2B -- Rios A, Cano R, Rodriguez A, Rolen S, Molina J
+HR -- Betemit W
+WP -- Ohlendorf R
+T -- 2:46
+A -- 51151
+     Game of 6/5/2008 -- Toronto at New York (D)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Stewart S, lf         3  0  0  0   Damon J, dh           3  2  2  0   
+Scutaro M, 2b         1  0  0  0   Jeter D, ss           4  1  1  0   
+Eckstein D, ss        5  1  1  0   Abreu B, rf           5  0  2  2   
+Rios A, cf            4  2  1  0   Rodriguez A, 3b       3  1  1  2   
+Rolen S, 3b           3  2  2  0   Matsui H, lf          5  1  1  1   
+Stairs M, dh          5  2  3  5   Posada J, c           3  0  1  0   
+Overbay L, 1b         5  0  1  2   Duncan S, pr          0  0  0  0   
+Mench K, rf           3  0  0  0   Molina J, c           0  0  0  0   
+Wilkerson B, rf       0  0  0  0   Giambi J, ph          1  1  1  2   
+Barajas R, c          3  0  0  0   Cano R, 2b            4  1  2  0   
+Inglett J, 2b-lf      3  1  1  0   Betemit W, 1b         4  1  2  2   
+                                   Cabrera M, cf         3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  8  9  7                        35  9 14  9
+
+Toronto          000 250 001 --  8
+New York         200 022 003 --  9
+  2 outs when winning run was scored.
+
+  Toronto              IP  H  R ER BB SO
+McGowan D             5.1  7  5  5  2  5
+Carlson J             0.1  2  1  1  0  1
+Frasor J              0.2  1  0  0  0  0
+Downs S               1.2  1  0  0  2  1
+Ryan B (L)            0.2  3  3  3  0  0
+
+  New York             IP  H  R ER BB SO
+Wang C                4.1  5  7  6  4  4
+Ohlendorf R           0.2  0  0  0  0  1
+Hawkins L*            1.0  1  0  0  1  0
+Veras J               2.0  0  0  0  1  1
+Farnsworth K (W)      1.0  3  1  1  1  1
+  * Pitched to 2 batters in 7th
+
+E -- Cabrera M
+DP -- Toronto 2, New York 1
+LOB -- Toronto 10, New York 7
+2B -- Jeter D, Overbay L, Abreu B, Stairs M
+HR -- Stairs M, Betemit W, Giambi J
+SB -- Damon J, Wilkerson B
+CS -- Damon J
+SH -- Inglett J
+SF -- Rodriguez A 2
+HBP -- by Wang C (Rolen S), by McGowan D (Jeter D), by Veras J (Barajas R)
+PB -- Barajas R
+T -- 3:53
+A -- 53571
+     Game of 6/6/2008 -- Kansas City at New York (N)
+
+  Kansas City        AB  R  H RBI    New York           AB  R  H RBI
+DeJesus D, lf         4  0  1  1   Damon J, lf           5  0  0  0   
+Grudzielanek M, 2b    3  0  1  0   Jeter D, ss           4  0  1  0   
+Gordon A, 3b          4  0  0  0   Abreu B, rf           4  0  2  0   
+Guillen J, rf         4  1  2  0   Rodriguez A, 3b       4  0  2  0   
+Olivo M, dh           4  0  3  0   Matsui H, dh          4  0  1  0   
+Teahen M, 1b          4  0  1  0   Giambi J, 1b          3  0  0  0   
+Buck J, c             4  0  0  0   Cano R, 2b            4  1  2  0   
+Aviles M, ss          3  1  2  0   Molina J, c           1  0  0  0   
+Pena T, ss            1  0  0  0   Betemit W, ph         1  0  0  0   
+Gathright J, cf       2  0  0  0   Moeller C, c          0  0  0  0   
+                                   Posada J, ph          1  0  0  0   
+                                   Cabrera M, cf         4  0  2  1   
+                     -- -- -- --                        -- -- -- --
+                     33  2 10  1                        35  1 10  1
+
+Kansas City      000 011 000 --  2
+New York         000 000 100 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Davies K (W)          6.2  7  1  1  1  3
+Mahay R               1.1  2  0  0  0  2
+Soria J (S)           1.0  1  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Rasner D (L)          8.0  9  2  2  0  4
+Ramirez E             1.0  1  0  0  0  2
+
+DP -- Kansas City 1, New York 2
+LOB -- Kansas City 6, New York 9
+2B -- Aviles M 2, Olivo M, Grudzielanek M, Cano R 2, Guillen J, Rodriguez A
+SB -- Teahen M
+CS -- DeJesus D
+SH -- Gathright J, Molina J
+HBP -- by Rasner D (Grudzielanek M)
+WP -- Ramirez E
+T -- 3:10
+A -- 52187
+     Game of 6/7/2008 -- Kansas City at New York (D)
+
+  Kansas City        AB  R  H RBI    New York           AB  R  H RBI
+DeJesus D, lf         4  2  2  1   Damon J, lf           6  1  6  4   
+Aviles M, ss-3b       4  2  1  1   Jeter D, ss           4  0  1  0   
+Teahen M, 1b-rf       4  2  1  0   Abreu B, rf           5  1  1  0   
+Guillen J, rf         4  2  3  7   Rodriguez A, 3b       4  2  2  2   
+Gload R, 1b           1  0  0  0   Giambi J, dh          4  2  2  2   
+Olivo M, dh           4  0  0  0   Posada J, c           4  2  2  2   
+Buck J, c             3  0  1  1   Cano R, 2b            5  2  2  1   
+Callaspo A, 2b        4  1  2  0   Betemit W, 1b         3  1  0  1   
+German E, 3b          4  1  1  0   Cabrera M, cf         5  1  3  0   
+Pena T, ss            0  0  0  0                                      
+Gathright J, cf       4  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     36 11 12 11                        40 12 19 12
+
+Kansas City      203 000 501 -- 11
+New York         100 410 222 -- 12
+  2 outs when winning run was scored.
+
+  Kansas City          IP  H  R ER BB SO
+Bannister B           3.1  8  5  5  2  1
+Peralta J             1.1  1  1  1  1  1
+Tomko B               1.2  3  2  2  0  0
+Ramirez R             1.0  3  2  2  0  2
+Gobble J              0.1  1  0  0  0  0
+Yabuta Y              0.1  0  0  0  0  0
+Soria J (L)           0.2  3  2  2  1  0
+
+  New York             IP  H  R ER BB SO
+Pettitte A            6.2 10 10 10  2  3
+Veras J               1.1  1  0  0  0  2
+Rivera M (W)          1.0  1  1  1  0  1
+
+DP -- Kansas City 2, New York 1
+LOB -- Kansas City 2, New York 8
+2B -- Teahen M, Damon J, Posada J, Callaspo A
+3B -- Aviles M
+HR -- Guillen J 2, Giambi J, Rodriguez A, DeJesus D, Posada J
+SB -- Damon J, Callaspo A
+SH -- Jeter D, DeJesus D
+SF -- Betemit W
+HBP -- by Pettitte A (Teahen M)
+WP -- Ramirez R
+T -- 3:50
+A -- 53611
+     Game of 6/8/2008 -- Kansas City at New York (D)
+
+  Kansas City        AB  R  H RBI    New York           AB  R  H RBI
+DeJesus D, lf         3  1  1  0   Damon J, dh           5  2  2  0   
+Grudzielanek M, 2b    4  0  1  0   Jeter D, ss           4  1  1  0   
+Teahen M, rf          4  0  0  0   Abreu B, rf           4  2  2  3   
+Guillen J, dh         4  1  2  2   Rodriguez A, 3b       2  0  2  2   
+Gordon A, 3b          4  1  1  0   Matsui H, lf          2  0  0  0   
+Olivo M, c            4  0  0  0   Giambi J, 1b          4  1  1  1   
+Gload R, 1b           4  0  1  0   Betemit W, 1b         0  0  0  0   
+Aviles M, ss          4  0  0  0   Posada J, c           2  0  0  0   
+Gathright J, cf       3  0  0  0   Cano R, 2b            4  0  1  0   
+                                   Cabrera M, cf         4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  6  2                        31  6  9  6
+
+Kansas City      012 000 000 --  3
+New York         200 011 20x --  6
+
+  Kansas City          IP  H  R ER BB SO
+Greinke Z (L)*        5.0  6  4  4  4  6
+Mahay R               1.2  3  2  2  1  0
+Gobble J              0.1  0  0  0  0  0
+Fulchino J            1.0  0  0  0  1  1
+
+  New York             IP  H  R ER BB SO
+Chamberlain J         4.1  5  3  2  1  5
+Giese D (W)           2.2  0  0  0  0  3
+Veras J               1.0  1  0  0  0  2
+Rivera M (S)          1.0  0  0  0  0  0
+  * Pitched to 2 batters in 6th
+
+E -- Giese D
+DP -- Kansas City 1
+LOB -- Kansas City 5, New York 7
+2B -- DeJesus D, Rodriguez A
+3B -- Damon J
+HR -- Abreu B, Guillen J, Giambi J
+WP -- Greinke Z, Giese D
+PB -- Posada J
+T -- 3:05
+A -- 54213
+     Game of 6/9/2008 -- Kansas City at New York (D)
+
+  Kansas City        AB  R  H RBI    New York           AB  R  H RBI
+DeJesus D, lf         4  0  0  0   Damon J, lf           4  0  1  0   
+Grudzielanek M, 2b    4  0  0  0   Jeter D, ss           3  0  0  0   
+Teahen M, 1b          4  0  0  0   Abreu B, rf           4  1  1  0   
+Guillen J, rf         4  2  2  1   Rodriguez A, 3b       4  1  2  2   
+Gordon A, 3b          4  0  1  0   Matsui H, dh          4  0  0  0   
+Olivo M, dh           4  1  2  2   Giambi J, 1b          3  0  0  0   
+Buck J, c             4  0  1  0   Betemit W, pr         0  0  0  0   
+Aviles M, ss          3  0  2  0   Cano R, 2b            4  0  1  0   
+Pena T, ss            0  0  0  0   Molina J, c           2  0  0  0   
+Gathright J, cf       2  0  0  0   Posada J, ph          1  0  1  0   
+                                   Moeller C, pr-c       0  0  0  0   
+                                   Cabrera M, cf         3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  3                        32  2  6  2
+
+Kansas City      000 000 201 --  3
+New York         000 000 200 --  2
+
+  Kansas City          IP  H  R ER BB SO
+Hochevar L*           6.0  4  2  2  0  4
+Ramirez R             1.2  1  0  0  1  2
+Yabuta Y (W)          0.1  0  0  0  0  0
+Soria J (S)           1.0  1  0  0  1  1
+
+  New York             IP  H  R ER BB SO
+Mussina M             8.0  7  2  2  0  3
+Rivera M (L)          1.0  1  1  1  0  2
+  * Pitched to 2 batters in 7th
+
+E -- Guillen J
+DP -- New York 1
+LOB -- Kansas City 4, New York 7
+2B -- Guillen J, Aviles M, Abreu B
+HR -- Olivo M, Rodriguez A, Guillen J
+SB -- Damon J
+SH -- Gathright J, Cabrera M
+HBP -- by Soria J (Moeller C)
+T -- 2:47
+A -- 53633
+     Game of 6/17/2008 -- San Diego at New York (N)
+
+  San Diego          AB  R  H RBI    New York           AB  R  H RBI
+Gerut J, cf           4  0  0  0   Damon J, lf           4  1  1  0   
+Gonzalez E, 3b        4  0  1  0   Jeter D, ss           5  0  1  2   
+Giles B, rf           4  0  1  0   Abreu B, rf           5  0  1  1   
+Gonzalez A, 1b        4  0  0  0   Rodriguez A, 3b       5  1  2  1   
+Clark T, dh           4  0  1  0   Matsui H, dh          3  1  0  0   
+Headley C, lf         4  0  2  0   Giambi J, 1b          3  2  2  3   
+Greene K, ss          4  0  1  0   Betemit W, ph-1b      1  0  0  0   
+Barrett M, c          2  0  0  0   Posada J, c           4  1  2  0   
+Stansberry C, 2b      3  0  1  0   Cano R, 2b            3  2  2  0   
+                                   Cabrera M, cf         4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  0  7  0                        37  8 11  7
+
+San Diego        000 000 000 --  0
+New York         020 500 01x --  8
+
+  San Diego            IP  H  R ER BB SO
+Wolf R (L)            4.0  6  7  5  2  2
+Adams M               2.0  1  0  0  0  2
+Guevara C             2.0  4  1  1  0  3
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        7.0  5  0  0  1  9
+Veras J               0.2  2  0  0  0  2
+Traber B              0.1  0  0  0  0  0
+Rivera M              1.0  0  0  0  0  3
+
+E -- Headley C, Stansberry C 2
+LOB -- San Diego 7, New York 8
+2B -- Abreu B, Cano R, Rodriguez A
+HR -- Rodriguez A, Giambi J 2
+HBP -- by Wolf R (Cano R)
+WP -- Wolf R, Pettitte A, Guevara C
+T -- 2:46
+A -- 52306
+     Game of 6/18/2008 -- San Diego at New York (N)
+
+  San Diego          AB  R  H RBI    New York           AB  R  H RBI
+Gerut J, cf           4  1  0  0   Damon J, lf           5  1  3  2   
+Gonzalez E, 2b        5  0  2  2   Jeter D, ss           4  1  1  0   
+Giles B, rf           5  1  1  1   Abreu B, rf           4  1  1  1   
+Gonzalez A, 1b        4  1  1  1   Rodriguez A, 3b       4  2  3  2   
+Clark T, dh           2  0  0  0   Giambi J, dh          4  0  0  0   
+Headley C, 3b         4  1  1  1   Posada J, c           3  0  1  1   
+McAnulty P, lf        4  0  0  0   Cano R, 2b            4  1  1  0   
+Greene K, ss          3  1  2  0   Betemit W, 1b         4  2  3  1   
+Carlin L, c           3  0  1  0   Cabrera M, cf         4  0  1  0   
+Hairston S, ph        1  0  0  0                                      
+Barrett M, c          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5  8  5                        36  8 14  7
+
+San Diego        002 000 210 --  5
+New York         121 010 21x --  8
+
+  San Diego            IP  H  R ER BB SO
+Peavy J (L)           4.0  6  4  3  2  4
+Corey B               1.1  3  1  1  0  1
+Hampson J*            0.2  2  2  2  0  1
+Meredith C            2.0  3  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Rasner D (W)          5.0  3  2  2  5  4
+Ramirez E             2.0  2  2  2  0  4
+Farnsworth K          1.0  2  1  1  0  2
+Rivera M (S)          1.0  1  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Betemit W, Greene K, Carlin L
+DP -- San Diego 2, New York 1
+LOB -- San Diego 8, New York 6
+2B -- Cano R, Betemit W 2, Gonzalez E 2, Cabrera M, Jeter D, Greene K
+HR -- Rodriguez A, Giles B, Gonzalez A, Headley C
+SB -- Abreu B 2, Damon J, Rodriguez A
+CS -- Betemit W
+T -- 3:11
+A -- 52628
+     Game of 6/19/2008 -- San Diego at New York (D)
+
+  San Diego          AB  R  H RBI    New York           AB  R  H RBI
+Gerut J, cf           2  0  0  0   Damon J, lf           4  0  1  0   
+Gonzalez E, 2b        4  0  0  0   Jeter D, ss           3  1  2  0   
+Giles B, rf           4  1  1  0   Abreu B, rf           4  0  0  0   
+Gonzalez A, 1b        3  0  2  0   Rodriguez A, 3b       4  0  1  1   
+Headley C, 3b         4  0  1  0   Giambi J, 1b          3  0  0  0   
+Clark T, dh           3  0  1  1   Betemit W, 1b         0  0  0  0   
+Hairston S, lf        3  0  0  0   Posada J, dh          3  0  0  0   
+Greene K, ss          4  0  0  0   Cano R, 2b            3  0  0  0   
+Barrett M, c          4  0  0  0   Cabrera M, cf         2  1  0  0   
+                                   Molina J, c           2  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        28  2  5  2
+
+San Diego        000 100 000 --  1
+New York         000 011 00x --  2
+
+  San Diego            IP  H  R ER BB SO
+Banks J (L)           5.1  4  2  2  1  3
+Hampson J             1.1  1  0  0  1  1
+Corey B               0.1  0  0  0  1  0
+Bell H                1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Chamberlain J         5.2  4  1  1  3  9
+Veras J (W)           1.1  0  0  0  2  1
+Farnsworth K          1.0  1  0  0  0  2
+Rivera M (S)          1.0  0  0  0  0  3
+
+LOB -- San Diego 8, New York 7
+2B -- Headley C, Clark T, Molina J
+SB -- Cabrera M 2, Jeter D, Rodriguez A
+SF -- Molina J
+HBP -- by Banks J (Giambi J)
+T -- 3:12
+A -- 54362
+     Game of 6/20/2008 -- Cincinnati at New York (N)
+
+  Cincinnati         AB  R  H RBI    New York           AB  R  H RBI
+Bruce J, rf           4  1  1  0   Damon J, lf           4  0  1  1   
+Cabrera J, ss         4  1  4  2   Jeter D, ss           4  0  1  0   
+Janish P, pr-ss       1  0  0  0   Abreu B, rf           4  0  0  0   
+Griffey K, dh         4  0  1  1   Rodriguez A, 3b       3  1  1  0   
+Phillips B, 2b        4  0  0  0   Matsui H, dh          4  0  2  0   
+Dunn A, lf            4  0  0  0   Giambi J, 1b          4  0  0  0   
+Hopper N, lf          0  0  0  0   Cano R, 2b            3  0  2  1   
+Votto J, 1b           4  1  3  1   Cabrera M, cf         3  1  1  0   
+Encarnacion E, 3b     3  1  1  0   Molina J, c           2  0  0  0   
+Patterson C, cf       3  0  0  0   Betemit W, ph         1  0  0  0   
+Bako P, c             4  0  0  0   Moeller C, c          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 10  4                        32  2  8  2
+
+Cincinnati       010 030 000 --  4
+New York         001 000 100 --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Volquez E (W)         7.0  7  2  2  1  5
+Burton J              1.0  0  0  0  0  0
+Cordero F (S)         1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         8.0 10  4  4  2  4
+Traber B              1.0  0  0  0  0  1
+
+E -- Cano R
+DP -- Cincinnati 1, New York 1
+LOB -- Cincinnati 7, New York 4
+2B -- Encarnacion E, Cabrera J, Votto J
+HR -- Votto J
+SB -- Rodriguez A
+CS -- Jeter D, Damon J
+SH -- Patterson C
+WP -- Volquez E, Mussina M
+Balk -- Volquez E
+T -- 2:46
+A -- 53421
+     Game of 6/21/2008 -- Cincinnati at New York (D)
+
+  Cincinnati         AB  R  H RBI    New York           AB  R  H RBI
+Bruce J, rf           4  0  0  0   Damon J, lf           2  0  0  0   
+Janish P, ss          4  1  1  0   Jeter D, ss           5  0  2  0   
+Griffey K, dh         4  2  2  0   Abreu B, rf           4  0  0  0   
+Phillips B, 2b        4  1  2  2   Rodriguez A, 3b       4  0  1  0   
+Votto J, 1b           4  0  2  0   Matsui H, dh          3  0  1  0   
+Dunn A, lf            4  0  0  0   Giambi J, 1b          3  0  2  0   
+Hopper N, lf          0  0  0  0   Posada J, c           4  0  0  0   
+Encarnacion E, 3b     4  1  1  2   Cano R, 2b            4  0  0  0   
+Patterson C, cf       4  1  1  2   Cabrera M, cf         4  0  1  0   
+Bako P, c             4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  6  9  6                        33  0  7  0
+
+Cincinnati       000 000 420 --  6
+New York         000 000 000 --  0
+
+  Cincinnati           IP  H  R ER BB SO
+Thompson D            5.0  4  0  0  4  2
+Bray B (W)            1.1  1  0  0  1  0
+Weathers D            0.2  0  0  0  0  1
+Burton J              1.0  1  0  0  1  0
+Affeldt J             1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Giese D (L)           6.2  4  3  0  0  5
+Veras J               0.1  1  1  1  0  0
+Traber B              0.1  2  2  2  0  0
+Ohlendorf R           0.2  2  0  0  0  0
+Hawkins L             1.0  0  0  0  0  0
+
+E -- Giese D
+DP -- Cincinnati 1
+LOB -- Cincinnati 3, New York 12
+2B -- Rodriguez A, Phillips B
+HR -- Patterson C
+WP -- Ohlendorf R
+T -- 2:55
+A -- 54509
+     Game of 6/22/2008 -- Cincinnati at New York (D)
+
+  Cincinnati         AB  R  H RBI    New York           AB  R  H RBI
+Hopper N, lf          5  0  0  0   Damon J, lf           4  0  0  0   
+Keppinger , ss-3b-ss  4  0  1  0   Jeter D, ss           3  1  1  0   
+Griffey K, dh         3  1  1  1   Abreu B, rf           4  0  2  0   
+Phillips B, 2b        3  0  2  0   Rodriguez A, 3b       4  0  1  0   
+Encarnacion E, 3b     1  0  0  0   Matsui H, dh          4  1  1  0   
+Janish P, ss          1  0  0  0   Giambi J, 1b          3  2  3  2   
+Valentin J, ph-3b     1  0  0  0   Betemit W, pr-1b      0  0  0  0   
+Votto J, 1b           4  0  2  0   Posada J, c           4  0  2  1   
+Bruce J, rf           4  0  1  0   Cano R, 2b            2  0  0  1   
+Patterson C, cf       4  0  0  0   Cabrera M, cf         3  0  1  0   
+Ross D, c             3  0  1  0                                      
+Dunn A, ph            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  1  8  1                        31  4 11  4
+
+Cincinnati       000 000 010 --  1
+New York         000 013 00x --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Cueto J (L)           5.0  4  1  1  0  7
+Majewski G            0.2  2  2  2  0  1
+Affeldt J             0.2  3  1  1  1  0
+Lincoln M             1.2  2  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        6.0  4  0  0  2  4
+Ramirez E             1.0  0  0  0  0  1
+Farnsworth K          0.2  2  1  1  0  1
+Rivera M (S)          1.1  2  0  0  0  1
+
+E -- Rodriguez A
+DP -- Cincinnati 3
+LOB -- Cincinnati 9, New York 6
+2B -- Posada J 2, Giambi J
+HR -- Griffey K
+SB -- Giambi J
+CS -- Abreu B, Ross D
+SF -- Cano R
+HBP -- by Cueto J (Giambi J), by Pettitte A (Phillips B)
+T -- 2:54
+A -- 54234
+     Game of 6/27/2008, game 1 -- New York at New York (D)
+
+  New York           AB  R  H RBI    New York           AB  R  H RBI
+Reyes J, ss           3  2  1  0   Cabrera M, cf         5  0  2  0   
+Easley D, ph-ss       1  0  0  0   Jeter D, ss           4  1  1  0   
+Castillo L, 2b        3  5  2  0   Gonzalez A, ss        1  0  0  0   
+Wright D, 3b          5  1  4  3   Abreu B, rf           3  1  0  0   
+Phillips A, ph-1b     1  0  0  0   Rodriguez A, 3b       4  2  3  2   
+Beltran C, cf         4  4  1  3   Moeller C, ph-c       1  0  0  0   
+Delgado C, dh         5  2  3  9   Giambi J, dh          3  1  1  1   
+Nixon T, rf           5  0  1  0   Posada J, c-1b        5  0  1  0   
+Anderson M, lf        3  0  0  0   Cano R, 2b            5  0  1  1   
+Chavez E, lf          1  0  0  0   Betemit W, 1b-3b      5  1  2  1   
+Tatis F, 1b-3b        5  0  1  0   Christian J, lf       3  0  0  0   
+Schneider B, c        5  1  1  0   Damon J, ph-lf        2  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     41 15 14 15                        41  6 12  6
+
+New York         102 035 040 -- 15
+New York         103 001 001 --  6
+
+  New York             IP  H  R ER BB SO
+Pelfrey M (W)         5.0  8  4  4  4  5
+Feliciano P           1.0  1  1  1  0  2
+Heilman A             1.0  1  0  0  0  2
+Muniz C               2.0  2  1  1  1  0
+
+  New York             IP  H  R ER BB SO
+Giese D (L)*          4.0  5  6  6  4  3
+Ramirez E             1.2  2  2  2  1  1
+Ohlendorf R+          1.1  5  6  6  1  0
+Hawkins L             2.0  2  1  1  1  0
+  * Pitched to 3 batters in 5th
+  + Pitched to 3 batters in 8th
+
+E -- Tatis F 2, Castillo L
+LOB -- New York 6, New York 14
+2B -- Cano R, Jeter D, Delgado C, Betemit W
+HR -- Beltran C, Delgado C 2, Rodriguez A
+SB -- Castillo L 2, Reyes J
+SH -- Jeter D
+WP -- Muniz C
+T -- 3:54
+A -- 54978
+     Game of 6/30/2008 -- Texas at New York (N)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Kinsler I, 2b         5  1  1  0   Gardner B, lf         3  0  0  0   
+Young M, ss           4  0  3  0   Damon J, ph-lf        1  0  0  0   
+Hamilton J, rf        3  0  1  1   Jeter D, ss           4  0  0  0   
+Bradley M, dh         4  0  0  0   Abreu B, rf           3  0  0  0   
+Murphy D, lf          2  1  0  0   Rodriguez A, 3b       3  1  1  1   
+Byrd M, cf            4  0  0  0   Giambi J, 1b          3  0  1  0   
+Davis C, 1b           4  0  1  1   Posada J, dh          4  0  1  0   
+Saltalamacchia J, c   4  0  1  0   Cano R, 2b            3  0  0  0   
+Vazquez R, 3b         3  0  0  0   Cabrera M, cf         3  0  0  0   
+                                   Molina J, c           3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        30  1  4  1
+
+Texas            001 100 000 --  2
+New York         000 100 000 --  1
+
+  Texas                IP  H  R ER BB SO
+Feldman S (W)         5.2  4  1  1  3  3
+Francisco F           1.1  0  0  0  0  2
+Guardado E            0.0  0  0  0  0  0
+Wright J              1.0  0  0  0  0  1
+Wilson C (S)          1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         6.0  5  2  2  2  8
+Ramirez E             1.0  1  0  0  0  1
+Veras J               1.0  1  0  0  1  1
+Giese D               1.0  0  0  0  1  0
+
+LOB -- Texas 8, New York 5
+2B -- Kinsler I, Davis C, Posada J, Young M 2
+3B -- Giambi J
+HR -- Rodriguez A
+SB -- Rodriguez A, Gardner B
+CS -- Abreu B, Saltalamacchia J
+WP -- Veras J
+T -- 3:04
+A -- 53045
+     Game of 7/1/2008 -- Texas at New York (N)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Kinsler I, 2b         3  1  2  0   Damon J, dh           5  0  2  0   
+Young M, ss           5  0  2  1   Gardner B, lf         3  0  0  0   
+Hamilton J, rf-cf     4  0  0  0   Abreu B, rf           4  0  1  0   
+Bradley M, dh         4  0  2  0   Rodriguez A, 3b       4  0  0  0   
+Murphy D, lf-rf       4  1  0  0   Giambi J, 1b          3  1  1  0   
+Byrd M, cf            2  1  0  0   Posada J, c           4  1  2  0   
+Catalanotto F, ph     1  0  0  0   Cano R, 2b            4  0  2  1   
+Boggs B, lf           1  0  0  0   Betemit W, ss         3  0  1  1   
+Davis C, 1b           3  0  1  1   Gonzalez A, pr        0  0  0  0   
+Saltalamacchia J, c   4  0  1  1   Cabrera M, cf         4  0  0  0   
+Vazquez R, 3b         4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  3                        34  2  9  2
+
+Texas            020 000 001 --  3
+New York         000 101 000 --  2
+
+  Texas                IP  H  R ER BB SO
+Millwood K            5.0  5  1  1  1  6
+Rupe J                2.0  4  1  1  0  1
+Francisco F (W)       1.0  0  0  0  0  1
+Wilson C (S)          1.0  0  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Chamberlain J         4.0  5  2  2  4  6
+Giese D               1.0  1  0  0  0  1
+Robertson D           2.0  0  0  0  2  3
+Veras J               1.0  0  0  0  1  0
+Rivera M (L)          1.0  3  1  1  0  0
+
+E -- Posada J
+DP -- Texas 1
+LOB -- Texas 12, New York 8
+2B -- Damon J 2, Bradley M, Kinsler I
+SB -- Kinsler I 3, Hamilton J
+SH -- Gardner B
+T -- 3:23
+A -- 53223
+     Game of 7/2/2008 -- Texas at New York (N)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Kinsler I, 2b         4  1  1  0   Damon J, lf           6  3  3  2   
+Young M, ss           2  1  1  1   Jeter D, ss           5  1  1  0   
+Vazquez R, ss         3  0  0  0   Moeller C, 1b         0  0  0  0   
+Hamilton J, cf        3  1  1  2   Abreu B, rf           5  3  2  2   
+Bradley M, rf         4  1  1  2   Rodriguez A, 3b       3  4  2  3   
+Catalanotto F, dh     3  1  3  0   Gonzalez A, 3b-ss     1  0  0  0   
+Davis C, 1b           4  1  1  2   Giambi J, dh          4  2  2  6   
+Ramirez M, c          4  0  0  0   Posada J, c           3  1  1  2   
+Boggs B, lf           2  1  1  0   Molina J, c           1  1  1  0   
+Duran G, 3b           4  0  0  0   Cano R, 2b            5  1  2  1   
+                                   Betemit W, 1b-3b      4  0  1  1   
+                                   Gardner B, cf         4  2  1  1   
+                     -- -- -- --                        -- -- -- --
+                     33  7  9  7                        41 18 16 18
+
+Texas            003 004 000 --  7
+New York         014 010 93x -- 18
+
+  Texas                IP  H  R ER BB SO
+Mendoza L             4.2  4  6  1  2  0
+Benoit J              1.1  0  0  0  3  0
+Madrigal W (L)        0.1  5  6  6  1  0
+Wright J              1.2  7  6  6  1  0
+
+  New York             IP  H  R ER BB SO
+Ponson S*             5.0  9  7  7  3  1
+Ramirez E (W)         2.0  0  0  0  1  3
+Farnsworth K          1.0  0  0  0  2  1
+Hawkins L             1.0  0  0  0  0  0
+  * Pitched to 4 batters in 6th
+
+E -- Kinsler I, Duran G
+DP -- Texas 1, New York 3
+LOB -- Texas 5, New York 7
+2B -- Catalanotto F, Cano R, Young M, Abreu B, Giambi J, Posada J
+HR -- Giambi J, Bradley M, Davis C, Rodriguez A
+SB -- Gardner B
+HBP -- by Mendoza L (Giambi J)
+WP -- Madrigal W
+T -- 3:37
+A -- 52659
+     Game of 7/3/2008 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Ellsbury J, lf        5  0  1  2   Damon J, lf           3  0  0  0   
+Pedroia D, 2b         5  1  1  0   Jeter D, ss           3  0  1  0   
+Drew J, rf            5  1  2  0   Abreu B, rf           4  0  0  0   
+Moss B, rf            0  0  0  0   Rodriguez A, 3b       4  0  0  0   
+Ramirez M, dh         3  1  1  0   Giambi J, dh          3  0  0  0   
+Lowell M, 3b          2  0  1  2   Posada J, c           3  0  0  0   
+Youkilis K, 1b        4  1  2  0   Cano R, 2b            3  0  2  0   
+Crisp C, cf           3  2  2  0   Betemit W, 1b         3  0  0  0   
+Varitek J, c          3  1  1  1   Cabrera M, cf         3  0  2  0   
+Lugo J, ss            2  0  0  1                                      
+                     -- -- -- --                        -- -- -- --
+                     32  7 11  6                        29  0  5  0
+
+Boston           220 110 010 --  7
+New York         000 000 000 --  0
+
+  Boston               IP  H  R ER BB SO
+Lester J (W)          9.0  5  0  0  2  8
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        4.2  9  6  5  3  2
+Giese D               2.1  0  0  0  0  3
+Hawkins L             1.0  2  1  1  1  0
+Robertson D           1.0  0  0  0  0  1
+
+E -- Jeter D
+DP -- Boston 3, New York 2
+LOB -- Boston 5, New York 4
+2B -- Ellsbury J, Drew J, Youkilis K, Cabrera M
+SB -- Crisp C
+CS -- Ellsbury J
+SH -- Lugo J
+SF -- Lugo J, Lowell M
+T -- 2:46
+A -- 54677
+     Game of 7/4/2008 -- Boston at New York (D)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Ellsbury J, lf        5  1  3  0   Damon J, lf           1  1  1  0   
+Pedroia D, 2b         4  2  2  0   Gardner B, lf         3  1  0  0   
+Drew J, rf            4  0  0  0   Jeter D, ss           4  0  2  1   
+Ramirez M, dh         3  2  1  0   Abreu B, rf           4  1  0  0   
+Lowell M, 3b          4  1  2  4   Rodriguez A, 3b       4  1  2  2   
+Youkilis K, 1b        4  0  2  2   Giambi J, 1b          2  0  0  1   
+Crisp C, cf           3  0  0  0   Posada J, dh          3  0  0  0   
+Varitek J, c          4  0  2  0   Cano R, 2b            4  0  0  0   
+Lugo J, ss            4  0  0  0   Cabrera M, cf         3  0  1  0   
+Cora A, ss            0  0  0  0   Molina J, c           2  0  0  0   
+                                   Betemit W, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6 12  6                        31  4  6  4
+
+Boston           003 030 000 --  6
+New York         300 000 001 --  4
+
+  Boston               IP  H  R ER BB SO
+Beckett J (W)         6.0  4  3  3  2  4
+Okajima H             0.2  1  0  0  2  0
+Delcarmen M           0.2  0  0  0  1  0
+Lopez J               0.2  0  0  0  0  0
+Papelbon J (S)        1.0  1  1  1  1  0
+
+  New York             IP  H  R ER BB SO
+Rasner D (L)          5.0 10  6  6  3  2
+Traber B              1.0  0  0  0  1  0
+Veras J               1.0  2  0  0  0  1
+Farnsworth K*         0.0  0  0  0  0  0
+Ramirez E             2.0  0  0  0  0  3
+  * Pitched to 1 batter in 8th
+
+E -- Rodriguez A
+DP -- Boston 1, New York 2
+LOB -- Boston 8, New York 8
+2B -- Damon J, Rodriguez A, Lowell M, Jeter D
+3B -- Youkilis K
+HR -- Lowell M
+CS -- Ellsbury J, Youkilis K, Lugo J
+SF -- Giambi J, Lowell M
+HBP -- by Rasner D (Pedroia D), by Beckett J (Cabrera M)
+T -- 3:51
+A -- 55130
+     Game of 7/5/2008 -- Boston at New York (D)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Ellsbury J, lf        4  0  1  0   Gardner B, lf         3  0  0  1   
+Pedroia D, 2b         4  0  2  0   Jeter D, ss           4  0  1  0   
+Drew J, rf            3  1  2  0   Abreu B, rf           3  0  0  0   
+Ramirez M, dh         1  0  0  0   Rodriguez A, 3b       2  0  1  0   
+Moss B, pr            0  0  0  0   Giambi J, dh          3  1  0  0   
+Lowell M, 3b          4  0  1  1   Betemit W, 1b         4  1  1  0   
+Youkilis K, 1b        3  0  0  0   Cano R, 2b            3  0  1  0   
+Crisp C, cf           4  0  0  0   Cabrera M, cf         4  0  2  1   
+Varitek J, c          4  0  0  0   Molina J, c           3  0  0  0   
+Cora A, ss            2  0  0  0                                      
+Casey S, ph           1  0  0  0                                      
+Lugo J, ss            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  1  6  1                        29  2  6  2
+
+Boston           000 000 001 --  1
+New York         010 001 00x --  2
+
+  Boston               IP  H  R ER BB SO
+Masterson J (L)       6.0  6  2  2  2  2
+Lopez J               1.0  0  0  0  1  1
+Timlin M              1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         6.0  4  0  0  1  5
+Veras J               1.0  0  0  0  0  2
+Farnsworth K          1.0  0  0  0  0  0
+Rivera M (S)          1.0  2  1  1  0  2
+
+LOB -- Boston 8, New York 10
+2B -- Drew J
+SB -- Rodriguez A 2
+CS -- Ellsbury J
+SF -- Gardner B
+HBP -- by Mussina M (Ramirez M) 2, by Masterson J (Rodriguez A), by Masterson J (Cano R), by Masterson J (Molina J), by Rivera M (Ramirez M), by Rivera M (Youkilis K)
+WP -- Mussina M, Masterson J
+T -- 2:58
+A -- 54990
+     Game of 7/6/2008 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Ellsbury J, lf        4  0  0  0   Gardner B, lf         5  1  2  1   
+Pedroia D, 2b         5  0  1  2   Jeter D, ss           4  0  1  1   
+Drew J, rf            4  0  0  0   Abreu B, rf           4  0  0  0   
+Lowell M, 3b          4  0  0  0   Rodriguez A, 3b       4  2  2  1   
+Youkilis K, 1b        3  1  2  0   Giambi J, 1b          3  0  0  0   
+Casey S, dh           4  1  2  0   Posada J, dh          4  1  1  0   
+Moss B, pr            0  0  0  0   Cano R, 2b            4  1  2  2   
+Crisp C, cf           2  1  0  0   Cabrera M, cf         3  0  0  0   
+Lugo J, ss            3  1  1  0   Molina J, c           3  0  0  0   
+Varitek J, ph-c       1  0  0  0   Betemit W, ph         1  0  0  0   
+Cash K, c             3  0  1  1                                      
+Ramirez M, ph         1  0  0  0                                      
+Cora A, ss            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  7  3                        35  5  8  5
+
+Boston           000 030 100 0 --  4
+New York         010 001 200 1 --  5
+  2 outs when winning run was scored.
+
+  Boston               IP  H  R ER BB SO
+Wakefield T           6.1  4  3  3  1  5
+Lopez J               0.1  2  1  1  0  0
+Delcarmen M           1.1  0  0  0  0  2
+Okajima H             1.0  0  0  0  0  1
+Papelbon J (L)        0.2  2  1  1  0  1
+
+  New York             IP  H  R ER BB SO
+Chamberlain J         6.0  4  3  3  4  5
+Robertson D           1.0  2  1  1  0  0
+Farnsworth K          1.0  0  0  0  0  1
+Rivera M (W)          2.0  1  0  0  0  2
+
+E -- Wakefield T, Jeter D
+DP -- Boston 1, New York 2
+LOB -- Boston 5, New York 3
+2B -- Cash K
+3B -- Cano R
+HR -- Rodriguez A
+SB -- Gardner B, Cabrera M
+CS -- Youkilis K
+SH -- Crisp C, Cabrera M
+WP -- Chamberlain J
+T -- 3:25
+A -- 54922
+     Game of 7/8/2008 -- Tampa Bay at New York (N)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Iwamura A, 2b         4  0  0  0   Cabrera M, cf         4  1  1  1   
+Crawford C, lf        4  0  0  0   Jeter D, ss           4  1  2  2   
+Upton B, cf           4  0  2  0   Abreu B, rf           4  1  2  1   
+Pena C, 1b            4  0  1  0   Rodriguez A, 3b       4  0  0  0   
+Longoria E, 3b        3  0  0  0   Posada J, dh          3  0  2  0   
+Navarro D, c          3  0  1  0   Betemit W, 1b         4  0  0  0   
+Aybar W, dh           3  0  0  0   Cano R, 2b            4  1  2  1   
+Gomes J, rf           3  0  0  0   Molina J, c           3  1  2  0   
+Gross G, rf           0  0  0  0   Gardner B, lf         2  0  0  0   
+Zobrist B, ss         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  4  0                        32  5 11  5
+
+Tampa Bay        000 000 000 --  0
+New York         002 000 03x --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Kazmir S (L)          5.0  5  2  2  1  9
+Balfour G             1.0  1  0  0  0  2
+Glover G*             1.0  3  3  3  0  0
+Hammel J              1.0  2  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        8.0  4  0  0  0  5
+Ramirez E             1.0  0  0  0  0  1
+  * Pitched to 3 batters in 8th
+
+E -- Kazmir S
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 4, New York 6
+2B -- Upton B, Molina J, Jeter D, Posada J, Abreu B
+HR -- Cabrera M
+SB -- Upton B
+SH -- Gardner B
+HBP -- by Hammel J (Posada J)
+T -- 2:46
+A -- 53089
+     Game of 7/9/2008 -- Tampa Bay at New York (D)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Iwamura A, 2b         5  0  2  0   Gardner B, lf         5  0  1  0   
+Crawford C, lf        5  0  0  0   Jeter D, ss           4  2  1  0   
+Upton B, cf           4  0  1  0   Abreu B, rf           4  0  1  1   
+Pena C, 1b            3  1  1  1   Rodriguez A, 3b       4  0  1  0   
+Longoria E, 3b        3  0  1  0   Giambi J, 1b          3  0  1  1   
+Floyd C, dh           3  0  0  0   Posada J, dh          3  0  0  0   
+Gomes J, pr           0  0  0  0   Christian J, pr       0  0  0  0   
+Navarro D, c          4  0  0  0   Cano R, 2b            3  0  0  0   
+Hinske E, rf          2  0  0  0   Cabrera M, cf         4  0  1  0   
+Brignac R, ss         4  0  0  0   Molina J, c           3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  5  1                        33  2  7  2
+
+Tampa Bay        000 001 000 0 --  1
+New York         100 000 000 1 --  2
+  1 out when winning run was scored.
+
+  Tampa Bay            IP  H  R ER BB SO
+Jackson E             6.1  6  1  1  2  3
+Howell J              2.0  0  0  0  1  3
+Balfour G (L)         1.0  1  1  1  1  2
+
+  New York             IP  H  R ER BB SO
+Ponson S              6.0  5  1  1  2  4
+Veras J               1.0  0  0  0  0  2
+Farnsworth K          1.0  0  0  0  0  1
+Rivera M (W)          2.0  0  0  0  1  4
+
+DP -- New York 1
+LOB -- Tampa Bay 7, New York 9
+2B -- Abreu B
+HR -- Pena C
+SB -- Gardner B, Christian J
+CS -- Upton B
+SH -- Molina J, Cano R
+HBP -- by Ponson S (Hinske E), by Ponson S (Longoria E)
+T -- 3:19
+A -- 53552
+     Game of 7/18/2008 -- Oakland at New York (N)
+
+  Oakland            AB  R  H RBI    New York           AB  R  H RBI
+Ellis M, 2b           4  1  1  0   Jeter D, ss           3  1  0  0   
+Suzuki K, c           4  0  2  0   Abreu B, rf           5  2  2  1   
+Sweeney R, rf         4  0  1  1   Rodriguez A, 3b       4  2  3  2   
+Cust J, dh            4  0  1  0   Posada J, dh          1  1  0  0   
+Brown E, lf           4  0  1  0   Sexson R, 1b          3  0  1  1   
+Crosby B, ss          4  0  1  0   Cano R, 2b            4  1  2  3   
+Gonzalez C, cf        4  0  1  0   Cabrera M, cf         4  0  2  0   
+Hannahan J, 1b        3  0  0  0   Molina J, c           4  0  0  0   
+Murton M, ph          1  0  0  0   Gardner B, lf         4  0  0  0   
+Murphy D, 3b          3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  1  9  1                        32  7 10  7
+
+Oakland          100 000 000 --  1
+New York         103 201 00x --  7
+
+  Oakland              IP  H  R ER BB SO
+Smith G (L)           3.2  8  6  6  5  1
+Blevins J             1.1  1  0  0  0  2
+Braden D              1.0  1  1  1  1  0
+Brown A               1.0  0  0  0  0  0
+DiNardo L             1.0  0  0  0  1  1
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         6.0  9  1  1  0  6
+Robertson D           1.0  0  0  0  0  3
+Ramirez E             1.0  0  0  0  0  2
+Hawkins L             1.0  0  0  0  0  1
+
+E -- Crosby B
+DP -- Oakland 1, New York 1
+LOB -- Oakland 7, New York 8
+2B -- Ellis M, Abreu B, Cabrera M
+HR -- Cano R, Rodriguez A
+SB -- Rodriguez A
+T -- 2:47
+A -- 54145
+     Game of 7/19/2008 -- Oakland at New York (D)
+
+  Oakland            AB  R  H RBI    New York           AB  R  H RBI
+Sweeney R, rf-lf      4  0  2  2   Jeter D, ss           6  1  2  0   
+Suzuki K, c           6  0  2  0   Abreu B, rf           4  0  0  0   
+Cust J, dh            4  0  0  0   Rodriguez A, 3b       5  0  0  0   
+Gonzalez C, cf-rf     5  0  1  0   Giambi J, dh          2  0  0  0   
+Crosby B, ss          6  0  1  0   Christian J, pr       0  0  0  0   
+Ellis M, 2b           4  0  0  0   Sexson R, ph          1  0  0  0   
+Murton M, lf          4  1  2  0   Posada J, c           5  0  1  0   
+Murphy D, 3b          1  0  0  0   Molina J, c           1  0  0  1   
+Bankston W, 1b        5  1  2  0   Cano R, 2b            6  2  4  0   
+Brown E, ph-1b        1  0  0  0   Betemit W, 1b         4  1  2  1   
+Hannahan J, 3b        4  0  1  0   Cabrera M, cf         6  0  2  1   
+Davis R, pr-cf        1  1  0  0   Gardner B, lf         6  0  2  1   
+                     -- -- -- --                        -- -- -- --
+                     45  3 11  2                        46  4 13  4
+
+Oakland          000 010 101 000 --  3
+New York         020 000 001 001 --  4
+  1 out when winning run was scored.
+
+  Oakland              IP  H  R ER BB SO
+Gallagher S           5.0  7  2  2  4  7
+Embree A              1.0  0  0  0  2  0
+Casilla S             1.0  0  0  0  0  0
+Ziegler B             1.0  0  0  0  1  1
+Street H              1.0  3  1  1  1  0
+Blevins J             1.0  1  0  0  1  1
+DiNardo L (L)         1.1  2  1  1  2  0
+
+  New York             IP  H  R ER BB SO
+Chamberlain J         6.0  6  1  1  1  8
+Veras J               1.0  2  1  1  2  1
+Farnsworth K          1.0  0  0  0  0  1
+Rivera M              1.0  2  1  1  0  3
+Ramirez E             2.0  0  0  0  1  4
+Robertson D (W)       1.0  1  0  0  1  1
+
+E -- Bankston W, Gonzalez C
+DP -- New York 1
+LOB -- Oakland 14, New York 21
+2B -- Betemit W, Gardner B, Cano R 2, Murton M, Suzuki K
+SB -- Davis R, Sweeney R, Abreu B
+CS -- Christian J
+SH -- Betemit W
+SF -- Sweeney R
+HBP -- by Chamberlain J (Sweeney R), by Ramirez E (Ellis M), by DiNardo L (Molina J)
+WP -- Veras J
+T -- 4:45
+A -- 54183
+     Game of 7/20/2008 -- Oakland at New York (D)
+
+  Oakland            AB  R  H RBI    New York           AB  R  H RBI
+Ellis M, 2b           3  0  1  0   Jeter D, ss           4  1  1  0   
+Sweeney R, rf         4  0  2  1   Abreu B, rf           4  0  1  0   
+Crosby B, ss          4  0  0  0   Rodriguez A, 3b       3  0  1  1   
+Davis R, pr           0  0  0  0   Giambi J, dh          2  1  2  1   
+Brown E, dh           3  0  0  0   Cano R, 2b            4  0  2  0   
+Murton M, lf          3  0  0  0   Betemit W, 1b         3  0  0  0   
+Gonzalez C, cf        3  0  0  0   Sexson R, 1b          0  0  0  0   
+Bowen R, c            2  0  0  0   Cabrera M, cf         2  0  0  0   
+Cust J, ph            1  0  0  0   Molina J, c           3  0  0  0   
+Suzuki K, c           0  0  0  0   Gardner B, lf         3  0  0  0   
+Murphy D, 3b          3  0  1  0                                      
+Hannahan J, 1b        3  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  1  5  1                        28  2  7  2
+
+Oakland          000 001 000 --  1
+New York         001 001 00x --  2
+
+  Oakland              IP  H  R ER BB SO
+Duchscherer J (L)     7.0  6  2  2  3  4
+Embree A              1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        8.0  4  1  1  0  9
+Rivera M (S)          1.0  1  0  0  0  0
+
+E -- Hannahan J
+DP -- Oakland 2, New York 1
+LOB -- Oakland 2, New York 6
+2B -- Jeter D, Hannahan J
+HR -- Giambi J
+CS -- Davis R
+SH -- Ellis M
+SF -- Rodriguez A
+T -- 2:26
+A -- 54366
+     Game of 7/21/2008 -- Minnesota at New York (N)
+
+  Minnesota          AB  R  H RBI    New York           AB  R  H RBI
+Gomez C, cf           5  0  0  1   Damon J, dh           4  1  1  1   
+Casilla A, 2b         5  1  3  2   Moeller C, ph         1  0  0  0   
+Mauer J, c            4  0  1  0   Jeter D, ss           5  1  2  2   
+Morneau J, 1b         4  0  0  0   Abreu B, rf           4  2  2  1   
+Lamb M, 1b            0  0  0  0   Christian J, ph-rf    0  1  0  0   
+Kubel J, dh           4  0  1  1   Rodriguez A, 3b       3  2  2  3   
+Young D, lf           2  1  0  0   Betemit W, 3b         1  0  1  0   
+Monroe C, ph-lf       1  0  0  0   Giambi J, 1b          3  0  0  0   
+Buscher B, 3b         4  0  1  0   Sexson R, 1b          0  0  0  0   
+Harris B, ss          3  1  1  0   Cano R, 2b            5  1  2  2   
+Span D, rf            4  1  3  0   Cabrera M, cf         5  2  2  0   
+                                   Molina J, c           4  1  3  0   
+                                   Gardner B, lf         4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4 10  4                        39 12 16  9
+
+Minnesota        020 010 001 --  4
+New York         242 003 01x -- 12
+
+  Minnesota            IP  H  R ER BB SO
+Blackburn N (L)       1.2  7  6  3  0  1
+Bonser B*             3.1  6  4  4  1  3
+Breslow C             2.0  2  1  1  1  1
+Guerrier M            1.0  1  1  1  2  0
+
+  New York             IP  H  R ER BB SO
+Ponson S (W)          5.2  9  3  3  2  2
+Ramirez E             0.1  0  0  0  0  1
+Robertson D           1.0  0  0  0  0  1
+Hawkins L             2.0  1  1  1  0  2
+  * Pitched to 2 batters in 6th
+
+E -- Casilla A, Bonser B
+DP -- Minnesota 2, New York 1
+LOB -- Minnesota 8, New York 7
+2B -- Damon J, Span D
+3B -- Span D
+HR -- Rodriguez A, Cano R, Jeter D
+HBP -- by Ponson S (Young D)
+WP -- Breslow C 2
+Balk -- Breslow C
+T -- 3:09
+A -- 53484
+     Game of 7/22/2008 -- Minnesota at New York (N)
+
+  Minnesota          AB  R  H RBI    New York           AB  R  H RBI
+Span D, rf            3  1  2  0   Damon J, dh           3  2  1  0   
+Casilla A, 2b         3  0  1  0   Jeter D, ss           5  1  1  2   
+Mauer J, c            4  0  0  0   Abreu B, rf           4  2  2  3   
+Morneau J, 1b         1  0  0  0   Rodriguez A, 3b       4  2  2  0   
+Kubel J, dh           4  0  0  1   Giambi J, 1b          2  0  1  1   
+Young D, lf           4  0  1  0   Sexson R, 1b          0  0  0  0   
+Buscher B, 3b         3  0  0  0   Cano R, 2b            4  0  2  2   
+Punto N, ss           4  0  0  0   Cabrera M, cf         4  0  0  0   
+Gomez C, cf           3  1  1  0   Moeller C, c          2  0  0  0   
+                                   Betemit W, ph         1  0  0  0   
+                                   Molina J, c           1  0  0  0   
+                                   Gardner B, lf         3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  2  5  1                        33  8  9  8
+
+Minnesota        000 002 000 --  2
+New York         010 003 40x --  8
+
+  Minnesota            IP  H  R ER BB SO
+Slowey K (L)          5.1  5  4  4  2  3
+Reyes D               0.1  1  0  0  1  0
+Crain J*              0.1  2  4  3  1  0
+Bass B                2.0  1  0  0  1  2
+
+  New York             IP  H  R ER BB SO
+Rasner D              5.2  4  2  2  4  2
+Robertson D (W)       0.1  0  0  0  0  0
+Veras J               1.0  0  0  0  0  1
+Farnsworth K          1.0  0  0  0  1  3
+Giese D               1.0  1  0  0  0  1
+  * Pitched to 4 batters in 7th
+
+E -- Cabrera M, Giambi J, Buscher B, Punto N
+DP -- Minnesota 2, New York 2
+LOB -- Minnesota 6, New York 6
+2B -- Rodriguez A, Gomez C, Jeter D, Abreu B
+HR -- Abreu B
+SB -- Rodriguez A
+SH -- Casilla A
+T -- 3:00
+A -- 53406
+     Game of 7/23/2008 -- Minnesota at New York (D)
+
+  Minnesota          AB  R  H RBI    New York           AB  R  H RBI
+Span D, rf            4  0  0  0   Damon J, dh           4  0  0  0   
+Casilla A, 2b         4  1  2  0   Jeter D, ss           4  1  2  0   
+Redmond M, c          4  0  1  0   Abreu B, rf           3  1  0  0   
+Morneau J, dh         4  0  1  0   Rodriguez A, 3b       4  1  1  2   
+Young D, lf           4  0  0  0   Sexson R, 1b          3  0  0  1   
+Lamb M, 1b            4  0  3  1   Cano R, 2b            4  1  2  0   
+Harris B, 3b          3  0  1  0   Cabrera M, cf         3  0  2  0   
+Kubel J, ph           1  0  0  0   Molina J, c           3  1  0  0   
+Punto N, ss           3  0  0  0   Christian J, lf       3  0  2  2   
+Gomez C, cf           3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  1  9  1                        31  5  9  5
+
+Minnesota        000 000 001 --  1
+New York         000 023 00x --  5
+
+  Minnesota            IP  H  R ER BB SO
+Perkins G (L)         6.0  8  5  5  1  2
+Guerrier M            1.0  1  0  0  0  2
+Nathan J              1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         8.0  6  0  0  0  7
+Hawkins L             0.2  3  1  1  0  1
+Rivera M (S)          0.1  0  0  0  0  1
+
+DP -- New York 2
+LOB -- Minnesota 6, New York 4
+2B -- Christian J, Casilla A, Jeter D, Rodriguez A, Lamb M
+SB -- Christian J
+CS -- Abreu B
+SF -- Sexson R
+WP -- Hawkins L
+T -- 2:31
+A -- 54114
+     Game of 7/28/2008 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         4  2  2  0   Damon J, dh           5  1  2  3   
+Jones A, cf           6  3  3  5   Jeter D, ss           3  0  1  0   
+Markakis N, rf        4  0  1  0   Betemit W, ss         2  0  1  0   
+Huff A, dh            4  1  2  3   Abreu B, rf           1  0  0  0   
+Mora M, 3b            4  1  1  0   Sexson R, 1b          2  0  1  0   
+Fahey B, ph-ss        1  0  0  0   Rodriguez A, 3b       3  0  0  0   
+Scott L, lf           5  2  2  0   Moeller C, 3b         1  0  0  0   
+Millar K, 1b          5  2  3  3   Giambi J, 1b          3  0  0  0   
+Hernandez R, c        4  1  2  1   Christian J, rf       2  0  0  0   
+Castro J, ss-3b       5  1  1  1   Cano R, 2b            4  0  1  0   
+                                   Nady X, lf            3  1  1  1   
+                                   Cabrera M, cf         4  1  1  0   
+                                   Molina J, c           3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     42 13 17 13                        36  4  9  4
+
+Baltimore        040 025 020 -- 13
+New York         000 000 400 --  4
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J (W)         6.1  3  1  1  2  4
+Cormier L*            0.0  2  3  2  0  0
+Bierd R               1.1  3  0  0  1  2
+Walker J              1.1  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         5.0  8  6  6  1  4
+Robertson D           0.1  4  5  5  2  0
+Ramirez E             0.2  0  0  0  0  0
+Marte D               1.0  1  0  0  0  2
+Farnsworth K          1.0  2  2  2  0  2
+Veras J               1.0  2  0  0  0  2
+  * Pitched to 3 batters in 7th
+
+E -- Roberts B
+DP -- Baltimore 1
+LOB -- Baltimore 7, New York 10
+2B -- Markakis N, Huff A, Roberts B, Molina J, Cano R, Millar K
+3B -- Jones A
+HR -- Millar K, Hernandez R, Jones A, Nady X, Damon J, Huff A
+SF -- Huff A
+HBP -- by Guthrie J (Nady X), by Guthrie J (Rodriguez A), by Veras J (Hernandez R)
+WP -- Robertson D
+T -- 3:31
+A -- 54120
+     Game of 7/29/2008 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         5  1  1  0   Damon J, lf           5  1  2  0   
+Jones A, cf           4  1  0  0   Jeter D, ss           3  1  1  0   
+Markakis N, rf        4  2  2  0   Abreu B, rf           5  2  3  1   
+Huff A, dh            5  2  4  4   Rodriguez A, dh       3  2  2  1   
+Mora M, 3b            5  0  2  2   Giambi J, 1b          5  0  3  2   
+Scott L, lf           3  0  0  0   Christian J, pr       0  0  0  0   
+Payton J, lf          1  0  0  0   Cano R, 2b            5  0  1  2   
+Millar K, 1b          5  1  2  1   Betemit W, 3b         5  0  0  0   
+Hernandez R, c        2  0  1  0   Cabrera M, cf         4  0  0  0   
+Castro J, ss          3  0  0  0   Moeller C, c          3  0  1  0   
+                                   Nady X, ph            1  0  0  0   
+                                   Molina J, c           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 12  7                        39  6 13  6
+
+Baltimore        100 100 401 --  7
+New York         000 001 023 --  6
+
+  Baltimore            IP  H  R ER BB SO
+Cabrera D (W)*        7.0  8  3  3  2  2
+Johnson J             1.0  2  0  0  0  2
+Sherrill G            1.0  3  3  3  1  3
+
+  New York             IP  H  R ER BB SO
+Rasner D (L)+         6.0  8  4  4  3  1
+Marte D               1.0  3  2  2  1  1
+Veras J               1.0  0  0  0  0  2
+Rivera M              1.0  1  1  1  0  0
+  * Pitched to 2 batters in 8th
+  + Pitched to 2 batters in 7th
+
+DP -- Baltimore 1, New York 1
+LOB -- Baltimore 9, New York 10
+2B -- Hernandez R, Jeter D, Huff A, Mora M, Abreu B 2
+HR -- Millar K, Rodriguez A, Huff A
+SB -- Markakis N, Jeter D, Christian J
+SH -- Castro J
+HBP -- by Rasner D (Jones A), by Cabrera D (Rodriguez A)
+T -- 3:08
+A -- 54241
+     Game of 7/30/2008 -- Baltimore at New York (D)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         4  1  1  0   Damon J, lf           2  1  0  1   
+Castillo A, p-p       0  0  0  0   Christian J, ph-lf    1  0  1  1   
+Jones A, cf           4  0  0  0   Jeter D, ss           3  1  0  0   
+Markakis N, rf        4  0  2  1   Betemit W, ph-ss      1  0  0  0   
+Huff A, dh            3  0  1  1   Abreu B, dh           4  4  3  3   
+Castro J, ph-ss       1  1  1  1   Rodriguez A, 3b       4  2  2  2   
+Mora M, 3b            4  0  0  0   Moeller C, ph-3b      1  0  0  0   
+Scott L, lf           4  0  0  0   Giambi J, 1b          3  1  1  1   
+Millar K, 1b          3  0  0  0   Sexson R, 1b          1  1  1  0   
+Quiroz G, c           4  0  0  0   Cano R, 2b            5  1  1  0   
+Fahey B, ss-2b        3  1  1  0   Nady X, rf            4  2  2  2   
+                                   Cabrera M, cf         3  0  0  0   
+                                   Molina J, c           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  6  3                        35 13 11 10
+
+Baltimore        101 000 010 --  3
+New York         302 004 40x -- 13
+
+  Baltimore            IP  H  R ER BB SO
+Sarfate D (L)         4.0  2  5  3  3  5
+Burres B              1.1  4  4  4  0  1
+Cabrera F*            0.2  3  3  3  2  2
+Castillo A            2.0  2  1  1  1  3
+
+  New York             IP  H  R ER BB SO
+Chamberlain J (W)     6.0  5  2  1  0  6
+Ramirez E             0.0  0  0  0  0  0
+Robertson D           2.0  1  1  1  1  3
+Giese D               1.0  0  0  0  0  0
+  * Pitched to 3 batters in 7th
+
+E -- Cano R, Markakis N
+LOB -- Baltimore 5, New York 5
+2B -- Abreu B, Nady X 2
+HR -- Abreu B 2, Rodriguez A, Castro J
+HBP -- by Castillo A (Molina J)
+WP -- Cabrera F, Robertson D
+Balk -- Chamberlain J
+PB -- Quiroz G
+T -- 3:08
+A -- 54296
+     Game of 7/31/2008 -- Anaheim at New York (N)
+
+  Anaheim            AB  R  H RBI    New York           AB  R  H RBI
+Figgins C, 3b         5  3  4  1   Damon J, dh           4  0  1  2   
+Aybar E, ss           4  2  1  1   Jeter D, ss           5  0  0  1   
+Teixeira M, 1b        4  1  2  1   Abreu B, rf           5  1  1  2   
+Guerrero V, rf        4  1  1  3   Rodriguez A, 3b       5  0  1  0   
+Willits R, rf         0  0  0  0   Giambi J, 1b          3  0  1  0   
+Hunter T, cf          5  1  1  3   Sexson R, ph-1b       1  0  1  0   
+Quinlan R, lf         0  0  0  0   Cano R, 2b            4  0  0  0   
+Anderson G, dh        5  1  4  0   Nady X, lf            3  2  2  1   
+Budde R, pr           0  0  0  0   Rodriguez I, c        3  0  1  0   
+Kendrick H, 2b        5  1  3  0   Betemit W, ph         1  1  1  0   
+Rivera J, lf          4  1  1  3   Cabrera M, cf         4  2  3  0   
+Matthews G, ph-cf     1  0  0  0                                      
+Mathis J, c           5  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42 12 18 12                        38  6 12  6
+
+Anaheim          006 004 020 -- 12
+New York         000 110 103 --  6
+
+  Anaheim              IP  H  R ER BB SO
+Garland J (W)*        6.0  7  3  3  1  3
+Oliver D              2.0  2  0  0  0  1
+O'Day D+              0.0  3  3  3  1  0
+Arredondo J           1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        5.1 11  9  9  3  4
+Britton C             3.2  7  3  3  0  1
+  * Pitched to 2 batters in 7th
+  + Pitched to 4 batters in 9th
+
+E -- Garland J, Guerrero V
+DP -- Anaheim 2, New York 2
+LOB -- Anaheim 6, New York 7
+2B -- Rodriguez A, Mathis J, Anderson G
+3B -- Cabrera M, Aybar E
+HR -- Hunter T, Rivera J, Abreu B, Guerrero V, Nady X
+SB -- Kendrick H, Teixeira M, Figgins C
+CS -- Anderson G
+WP -- Britton C
+T -- 3:16
+A -- 53405
+     Game of 8/1/2008 -- Anaheim at New York (N)
+
+  Anaheim            AB  R  H RBI    New York           AB  R  H RBI
+Figgins C, 3b         4  0  0  0   Damon J, lf           3  0  1  0   
+Izturis M, ss         4  0  0  0   Jeter D, ss           4  0  2  0   
+Teixeira M, 1b        2  0  1  0   Abreu B, rf           4  0  1  0   
+Willits R, pr         0  1  0  0   Rodriguez A, 3b       3  0  0  0   
+Quinlan R, 1b         0  0  0  0   Giambi J, dh          4  0  0  0   
+Guerrero V, rf        4  0  1  0   Cano R, 2b            4  0  0  0   
+Hunter T, cf          4  0  1  1   Betemit W, 1b         3  0  1  0   
+Anderson G, dh        4  0  1  0   Rodriguez I, c        3  0  0  0   
+Kendrick H, 2b        3  0  0  0   Cabrera M, cf         3  0  0  0   
+Rivera J, lf          2  0  0  0                                      
+Mathis J, c           2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  1  4  1                        31  0  5  0
+
+Anaheim          000 000 001 --  1
+New York         000 000 000 --  0
+
+  Anaheim              IP  H  R ER BB SO
+Santana E (W)         8.0  5  0  0  2  8
+Rodriguez F (S)       1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Ponson S              7.0  2  0  0  4  1
+Marte D               1.0  0  0  0  0  2
+Rivera M (L)          1.0  2  1  1  1  1
+
+DP -- Anaheim 1, New York 2
+LOB -- Anaheim 6, New York 6
+SB -- Abreu B, Damon J
+WP -- Santana E
+T -- 2:32
+A -- 53997
+     Game of 8/2/2008 -- Anaheim at New York (D)
+
+  Anaheim            AB  R  H RBI    New York           AB  R  H RBI
+Figgins C, 3b         3  0  0  0   Damon J, dh           3  1  1  0   
+Aybar E, ss           4  0  0  0   Jeter D, ss           4  0  1  1   
+Teixeira M, 1b        3  0  0  0   Abreu B, rf           4  1  1  2   
+Guerrero V, dh        3  0  0  0   Rodriguez A, 3b       4  1  2  1   
+Anderson G, lf        4  1  1  0   Giambi J, 1b          2  0  0  0   
+Kendrick H, 2b        4  1  2  0   Sexson R, pr-1b       1  0  0  0   
+Rivera J, rf          4  0  0  0   Nady X, lf            3  1  1  0   
+Matthews G, cf        2  0  0  0   Christian J, ph-lf    1  0  0  0   
+Mathis J, c           3  0  0  1   Betemit W, 2b         4  1  2  2   
+                                   Cabrera M, cf         4  0  0  0   
+                                   Molina J, c           3  3  3  1   
+                     -- -- -- --                        -- -- -- --
+                     30  2  3  1                        33  8 11  7
+
+Anaheim          020 000 000 --  2
+New York         022 011 20x --  8
+
+  Anaheim              IP  H  R ER BB SO
+Weaver J (L)*         5.0  8  6  6  1  5
+Speier J              1.1  3  2  2  1  1
+O'Day D               1.2  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         7.0  2  2  1  2  5
+Veras J               1.0  0  0  0  1  3
+Bruney B              1.0  1  0  0  1  0
+  * Pitched to 2 batters in 6th
+
+E -- Betemit W
+DP -- Anaheim 2
+LOB -- Anaheim 5, New York 3
+2B -- Kendrick H
+HR -- Betemit W, Abreu B, Molina J, Rodriguez A
+T -- 2:42
+A -- 54170
+     Game of 8/3/2008 -- Anaheim at New York (D)
+
+  Anaheim            AB  R  H RBI    New York           AB  R  H RBI
+Figgins C, 3b         5  3  4  0   Damon J, dh           4  1  1  0   
+Aybar E, ss           3  2  2  3   Jeter D, ss           3  2  1  0   
+Teixeira M, 1b        5  1  1  4   Abreu B, rf           4  3  3  1   
+Anderson G, lf        5  0  2  2   Rodriguez A, 3b       4  3  1  1   
+Kendrick H, 2b        4  0  1  0   Giambi J, 1b          3  0  0  0   
+Rivera J, dh          5  0  1  0   Cano R, 2b            1  1  1  2   
+Matthews G, cf        5  0  0  0   Nady X, lf            5  1  4  6   
+Mathis J, c           5  0  0  0   Betemit W, 2b         4  0  0  1   
+Willits R, rf         0  3  0  0   Sexson R, 1b          1  0  0  0   
+                                   Rodriguez I, c        3  1  2  1   
+                                   Christian J, pr       1  1  1  1   
+                                   Molina J, c           0  0  0  0   
+                                   Cabrera M, cf         5  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  9 11  9                        38 14 14 13
+
+Anaheim          210 200 040 --  9
+New York         000 013 46x -- 14
+
+  Anaheim              IP  H  R ER BB SO
+Lackey J              6.0  7  4  4  4  4
+Arredondo J           1.0  3  4  0  0  0
+Shields S (L)         0.1  1  5  0  2  0
+Oliver D              0.2  3  1  1  0  1
+
+  New York             IP  H  R ER BB SO
+Rasner D              4.0  7  5  5  3  1
+Giese D               3.0  1  0  0  2  3
+Ramirez E (W)         1.0  2  4  4  2  2
+Veras J               1.0  1  0  0  0  1
+
+E -- Matthews G, Aybar E, Mathis J, Figgins C
+DP -- Anaheim 2, New York 1
+LOB -- Anaheim 8, New York 7
+2B -- Figgins C, Aybar E, Nady X, Anderson G, Rivera J
+HR -- Rodriguez I, Nady X, Teixeira M
+SB -- Cabrera M, Christian J
+SH -- Jeter D
+T -- 3:23
+A -- 54204
+     Game of 8/15/2008 -- Kansas City at New York (N)
+
+  Kansas City        AB  R  H RBI    New York           AB  R  H RBI
+Maier M, cf           4  0  1  0   Damon J, dh           4  1  0  0   
+Aviles M, ss-2b       4  0  1  0   Jeter D, ss           4  1  3  1   
+Teahen M, lf          5  0  1  2   Abreu B, rf           4  0  1  1   
+Guillen J, rf         1  1  0  0   Rodriguez A, 3b       3  0  1  1   
+Butler B, dh          4  0  1  0   Giambi J, 1b          5  0  0  0   
+Smith J, pr           0  0  0  0   Nady X, lf            3  0  1  0   
+Gordon A, 3b          4  0  1  0   Cano R, 2b            4  0  2  0   
+Gload R, 1b           3  0  1  1   Gardner B, cf         4  0  0  0   
+Buck J, c             4  1  1  0   Molina J, c           3  1  1  0   
+German E, 2b          3  2  2  0   Betemit W, ph         1  0  1  0   
+Pena T, ss            0  0  0  0   Christian J, pr       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  9  3                        35  3 10  3
+
+Kansas City      010 020 001 --  4
+New York         000 010 200 --  3
+
+  Kansas City          IP  H  R ER BB SO
+Meche G               6.0  6  1  1  2  8
+Mahay R               0.1  0  2  2  2  0
+Nunez L (W)           1.2  1  0  0  0  0
+Soria J (S)           1.0  3  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Pettitte A            7.0  6  3  3  4  7
+Ramirez E             1.0  1  0  0  0  0
+Rivera M (L)          1.0  2  1  1  0  2
+
+E -- Rodriguez A, German E
+DP -- Kansas City 1, New York 1
+LOB -- Kansas City 8, New York 11
+2B -- Gordon A, German E 2, Buck J, Teahen M, Molina J, Gload R
+SB -- Damon J, Gordon A, Jeter D
+SH -- Maier M
+SF -- Gload R, Rodriguez A
+HBP -- by Pettitte A (Guillen J)
+WP -- Rivera M
+T -- 3:23
+A -- 53067
+     Game of 8/16/2008 -- Kansas City at New York (D)
+
+  Kansas City        AB  R  H RBI    New York           AB  R  H RBI
+DeJesus D, lf         6  0  2  0   Damon J, dh           6  0  1  0   
+Aviles M, ss-2b       6  0  0  0   Jeter D, ss           6  0  2  0   
+Teahen M, rf          4  0  2  0   Abreu B, rf           5  0  2  0   
+Guillen J, dh         6  1  0  0   Rodriguez A, 3b       5  1  0  0   
+Gordon A, 3b          4  1  1  1   Giambi J, 1b          2  0  0  0   
+Gload R, 1b           4  0  0  0   Ransom C, pr-1b       0  0  0  0   
+German E, 2b          1  0  0  1   Betemit W, ph-1b      1  0  0  0   
+Pena T, ss            2  0  0  0   Nady X, lf            5  0  0  0   
+Buck J, c             5  0  0  0   Cano R, 2b            6  2  2  1   
+Maier M, cf           5  0  3  0   Rodriguez I, c        5  0  0  0   
+                                   Gardner B, cf         5  0  3  1   
+                     -- -- -- --                        -- -- -- --
+                     43  2  8  2                        46  3 10  2
+
+Kansas City      010 001 000 000 0 --  2
+New York         000 000 200 000 1 --  3
+  2 outs when winning run was scored.
+
+  Kansas City          IP  H  R ER BB SO
+Greinke Z             6.2  6  2  0  2  5
+Ramirez R             0.2  1  0  0  2  1
+Tejeda R              2.2  0  0  0  2  4
+Peralta J             2.0  1  0  0  1  2
+Fulchino J (L)        0.2  2  1  1  0  1
+
+  New York             IP  H  R ER BB SO
+Ponson S              6.1  7  2  2  2  2
+Marte D*              0.0  0  0  0  1  0
+Bruney B              0.2  0  0  0  0  0
+Veras J               1.0  0  0  0  1  1
+Ramirez E             1.0  1  0  0  0  2
+Rivera M              2.0  0  0  0  0  1
+Robertson D (W)       2.0  0  0  0  1  1
+  * Pitched to 1 batter in 7th
+
+E -- Jeter D, Gordon A 2, Pena T
+DP -- Kansas City 4, New York 3
+LOB -- Kansas City 9, New York 13
+2B -- Teahen M, Gardner B, DeJesus D
+3B -- Cano R
+HR -- Gordon A
+CS -- Maier M, Teahen M
+SF -- German E
+HBP -- by Ponson S (German E), by Tejeda R (Rodriguez I)
+WP -- Ponson S, Greinke Z
+T -- 4:53
+A -- 54180
+     Game of 8/17/2008 -- Kansas City at New York (D)
+
+  Kansas City        AB  R  H RBI    New York           AB  R  H RBI
+DeJesus D, cf-lf      5  2  2  0   Damon J, dh-lf        4  2  0  0   
+Aviles M, ss-2b       4  1  1  1   Jeter D, ss           4  3  4  0   
+Teahen M, lf-rf       4  0  0  0   Betemit W, ss         0  0  0  0   
+Guillen J, rf         3  1  1  0   Abreu B, rf           3  2  1  1   
+Maier M, ph-cf        1  0  0  0   Christian J, rf       0  0  0  0   
+Butler B, dh          4  0  1  2   Rodriguez A, 3b       3  3  3  5   
+Gordon A, 3b          2  1  0  1   Traber B, p-p         0  0  0  0   
+Gload R, 1b           4  1  2  2   Britton C, p          0  0  0  0   
+Buck J, c             4  0  1  0   Giambi J, 1b          4  1  1  4   
+German E, 2b          2  0  1  0   Ransom C, ph-3b       1  1  1  2   
+Pena T, ph-ss         2  0  1  0   Nady X, lf-1b         4  1  2  1   
+                                   Cano R, 2b            5  1  2  0   
+                                   Molina J, c           5  1  1  1   
+                                   Gardner B, cf         5  0  2  1   
+                     -- -- -- --                        -- -- -- --
+                     35  6 10  6                        38 15 17 15
+
+Kansas City      300 000 012 --  6
+New York         641 000 40x -- 15
+
+  Kansas City          IP  H  R ER BB SO
+Bannister B (L)*      1.0 10 10 10  3  0
+Newman J              4.0  3  1  1  4  1
+Fulchino J            3.0  4  4  4  0  2
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         6.0  6  3  3  0  5
+Traber B              2.0  2  1  1  0  1
+Britton C             1.0  2  2  2  1  1
+  * Pitched to 6 batters in 2nd
+
+E -- Buck J
+DP -- Kansas City 2, New York 1
+LOB -- Kansas City 4, New York 7
+2B -- Butler B, Molina J, Buck J, Abreu B
+3B -- Gardner B
+HR -- Rodriguez A, Nady X, Giambi J, Ransom C, Gload R
+SB -- Damon J, Jeter D
+SF -- Gordon A
+HBP -- by Fulchino J (Jeter D)
+WP -- Traber B
+T -- 3:07
+A -- 54114
+     Game of 8/26/2008 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Ellsbury J, rf        6  0  1  1   Damon J, cf           4  2  2  2   
+Pedroia D, 2b         5  1  0  0   Jeter D, ss           5  0  2  0   
+Ortiz D, dh           3  1  2  0   Abreu B, rf           4  0  2  0   
+Youkilis K, 3b-1b     2  1  1  1   Rodriguez A, 3b       5  0  0  0   
+Bay J, lf             4  1  2  2   Giambi J, 1b          4  0  0  0   
+Lowrie J, ss-3b       5  1  1  0   Nady X, lf            3  0  1  0   
+Crisp C, cf           5  1  3  1   Matsui H, dh          4  1  1  0   
+Bailey J, 1b          4  1  2  2   Cano R, 2b            4  0  1  0   
+Cora A, ss            1  0  0  0   Molina J, c           2  0  1  1   
+Cash K, c             4  0  2  0   Rodriguez I, ph-c     2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  7 14  7                        37  3 10  3
+
+Boston           012 031 000 --  7
+New York         110 010 000 --  3
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (W)       5.0  8  3  3  1  1
+Lopez J               1.0  0  0  0  0  1
+Delcarmen M           0.1  1  0  0  2  1
+Masterson J*          0.2  1  0  0  0  0
+Okajima H             0.2  0  0  0  0  1
+Papelbon J (S)        1.1  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        4.2 10  6  6  3  3
+Bruney B              1.1  0  1  1  3  0
+Robertson D           1.0  1  0  0  0  2
+Ramirez E             1.0  1  0  0  1  0
+Britton C             1.0  2  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+E -- Rodriguez A, Pedroia D, Lowrie J
+DP -- Boston 2, New York 1
+LOB -- Boston 13, New York 10
+2B -- Ortiz D 2, Youkilis K
+HR -- Damon J 2
+SB -- Crisp C
+CS -- Crisp C
+SF -- Bay J
+T -- 3:22
+A -- 55058
+     Game of 8/27/2008 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Ellsbury J, rf        5  2  2  0   Damon J, cf           4  0  1  0   
+Pedroia D, 2b         5  3  3  4   Jeter D, ss           4  0  1  0   
+Ortiz D, dh           3  1  2  0   Abreu B, rf           3  1  0  0   
+Youkilis K, 1b        4  1  1  1   Rodriguez A, 3b       4  1  2  1   
+Bay J, lf             4  1  2  4   Giambi J, 1b          4  1  1  1   
+Lowrie J, 3b          3  1  1  0   Nady X, lf            4  0  1  0   
+Varitek J, c          4  1  1  0   Matsui H, dh          3  0  1  0   
+Cora A, ss            4  0  0  1   Cano R, 2b            4  0  1  1   
+Crisp C, cf           4  1  1  1   Rodriguez I, c        4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36 11 13 11                        34  3  8  3
+
+Boston           200 020 070 -- 11
+New York         100 100 001 --  3
+
+  Boston               IP  H  R ER BB SO
+Byrd P (W)            6.0  5  2  2  2  5
+Delcarmen M           1.0  0  0  0  0  2
+Timlin M              2.0  3  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Ponson S (L)          4.2  7  4  4  4  3
+Ramirez E             1.1  0  0  0  0  0
+Marte D               1.0  0  0  0  0  2
+Veras J               0.1  3  5  5  2  0
+Robertson D           0.2  3  2  2  0  0
+Britton C             1.0  0  0  0  0  2
+
+DP -- Boston 1, New York 1
+LOB -- Boston 6, New York 6
+2B -- Ortiz D, Bay J, Rodriguez A 2, Lowrie J
+3B -- Bay J
+HR -- Pedroia D, Giambi J
+SF -- Bay J, Cora A
+T -- 3:16
+A -- 55027
+     Game of 8/28/2008 -- Boston at New York (D)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Ellsbury J, cf        4  0  0  1   Damon J, cf           3  0  0  0   
+Pedroia D, 2b         4  0  1  0   Jeter D, ss           4  0  3  0   
+Ortiz D, dh           2  0  0  0   Abreu B, rf           4  0  1  0   
+Youkilis K, 1b        3  0  0  0   Rodriguez A, 3b       4  0  0  0   
+Bay J, lf             4  0  0  0   Nady X, lf            4  0  1  0   
+Kotsay M, rf          4  0  1  0   Gardner B, pr         0  1  0  0   
+Lowrie J, 3b          4  1  1  0   Cano R, 2b            4  0  0  0   
+Cora A, ss            3  1  1  0   Matsui H, dh          3  0  0  0   
+Varitek J, c          3  0  1  1   Ransom C, 1b          2  1  1  0   
+                                   Rodriguez I, c        0  0  0  0   
+                                   Molina J, c           2  0  0  0   
+                                   Giambi J, ph-1b       2  1  2  3   
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        32  3  8  3
+
+Boston           000 020 000 --  2
+New York         000 000 201 --  3
+  1 out when winning run was scored.
+
+  Boston               IP  H  R ER BB SO
+Lester J              6.2  5  1  1  0  8
+Okajima H             1.0  1  1  1  0  1
+Masterson J (L)       0.2  1  1  1  2  1
+Papelbon J            0.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Mussina M             7.0  5  2  2  2  6
+Bruney B              0.1  0  0  0  0  0
+Marte D               0.1  0  0  0  0  0
+Rivera M (W)          1.1  0  0  0  0  0
+
+E -- Jeter D
+DP -- New York 1
+LOB -- Boston 6, New York 8
+2B -- Kotsay M, Ransom C
+HR -- Giambi J
+SB -- Cora A, Gardner B
+CS -- Jeter D, Ellsbury J
+HBP -- by Lester J (Ransom C), by Mussina M (Cora A), by Mussina M (Youkilis K), by Lester J (Damon J)
+T -- 3:21
+A -- 55092
+     Game of 8/29/2008 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Inglett J, 2b         4  0  1  0   Damon J, cf           3  1  2  0   
+Scutaro M, ss         3  0  1  1   Jeter D, ss           4  0  0  0   
+Rios A, rf            4  0  0  0   Abreu B, rf           4  1  2  1   
+Wells V, cf           4  0  1  0   Rodriguez A, 3b       3  0  1  0   
+Lind A, dh            3  0  0  0   Giambi J, 1b          2  0  0  1   
+Overbay L, 1b         4  0  0  0   Ransom C, 1b          0  0  0  0   
+Barajas R, c          3  0  1  0   Nady X, lf            3  0  0  0   
+Eckstein D, pr        0  0  0  0   Matsui H, dh          3  0  0  0   
+Zaun G, c             0  0  0  0   Cano R, 2b            3  0  2  0   
+Rolen S, 3b           2  0  0  0   Rodriguez I, c        3  0  0  0   
+Snider T, lf          3  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        28  2  7  2
+
+Toronto          000 001 000 --  1
+New York         000 200 00x --  2
+
+  Toronto              IP  H  R ER BB SO
+Burnett A (L)         8.0  7  2  2  1  8
+
+  New York             IP  H  R ER BB SO
+Pavano C (W)          6.0  3  1  1  1  1
+Bruney B              0.1  0  0  0  0  0
+Marte D               0.2  0  0  0  0  1
+Veras J*              0.0  1  0  0  1  0
+Ramirez E             0.1  0  0  0  0  1
+Rivera M (S)          1.2  1  0  0  0  3
+  * Pitched to 2 batters in 8th
+
+DP -- Toronto 2, New York 1
+LOB -- Toronto 5, New York 4
+2B -- Abreu B, Cano R, Snider T, Barajas R
+SB -- Damon J
+SH -- Scutaro M
+SF -- Giambi J
+T -- 2:36
+A -- 53088
+     Game of 8/30/2008 -- Toronto at New York (D)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Inglett J, 2b-lf      5  0  2  2   Damon J, cf           5  0  1  0   
+Eckstein D, ss        4  0  1  0   Jeter D, ss           4  2  2  0   
+Scutaro M, 2b         0  0  0  0   Abreu B, rf           4  1  2  0   
+Rios A, rf            5  1  1  0   Rodriguez A, 3b       5  1  1  1   
+Wells V, cf           4  2  2  2   Giambi J, 1b          3  0  1  1   
+Lind A, lf            5  2  2  0   Ransom C, 1b          1  0  0  0   
+McDonald J, ss        0  0  0  0   Nady X, lf            4  0  0  0   
+Overbay L, 1b         3  1  1  0   Matsui H, dh          4  0  1  2   
+Bautista J, 3b        4  1  2  2   Cano R, 2b            4  1  2  1   
+Zaun G, c             3  0  0  1   Rodriguez I, c        4  1  2  1   
+Barajas R, c          0  0  0  0   Gardner B, pr         0  0  0  0   
+Snider T, dh          4  0  0  0   Molina J, c           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 11  7                        38  6 12  6
+
+Toronto          000 200 320 --  7
+New York         200 220 000 --  6
+
+  Toronto              IP  H  R ER BB SO
+Parrish J             4.0  7  4  4  0  3
+Tallet B              1.0  2  2  2  2  1
+Frasor J              1.0  1  0  0  0  0
+League B (W)          1.0  0  0  0  0  3
+Downs S               1.0  1  0  0  0  1
+Ryan B (S)            1.0  1  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Rasner D*             6.0  6  5  4  1  1
+Bruney B+             1.0  2  1  1  0  2
+Marte D (L)           0.1  1  1  1  0  0
+Ramirez E#            0.2  2  0  0  0  1
+Veras J               1.0  0  0  0  1  0
+  * Pitched to 4 batters in 7th
+  + Pitched to 1 batter in 8th
+  # Pitched to 1 batter in 9th
+
+E -- Cano R
+DP -- Toronto 1
+LOB -- Toronto 7, New York 8
+2B -- Matsui H
+HR -- Wells V, Cano R, Rodriguez I
+SB -- Abreu B, Damon J, Gardner B
+SH -- Overbay L, Eckstein D
+WP -- Parrish J 2
+T -- 3:25
+A -- 53273
+     Game of 8/31/2008 -- Toronto at New York (D)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Scutaro M, 2b         4  2  1  0   Damon J, cf           5  0  2  0   
+Eckstein D, dh        4  0  2  1   Jeter D, ss           4  0  0  0   
+Rios A, rf            4  1  1  0   Abreu B, rf           4  0  1  0   
+Wells V, cf           3  1  2  1   Rodriguez A, 3b       3  1  1  1   
+Barajas R, c          4  0  1  2   Giambi J, 1b          3  1  1  1   
+Lind A, lf            4  0  0  0   Nady X, lf            4  0  2  0   
+Inglett J, lf         0  0  0  0   Matsui H, dh          4  0  1  0   
+Bautista J, 1b        3  0  1  0   Cano R, 2b            4  0  0  0   
+Overbay L, 1b         1  0  0  0   Molina J, c           3  0  0  0   
+Rolen S, 3b           4  1  1  1   Betemit W, ph         1  0  0  0   
+McDonald J, ss        4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  6 10  5                        35  2  8  2
+
+Toronto          310 000 200 --  6
+New York         000 101 000 --  2
+
+  Toronto              IP  H  R ER BB SO
+Halladay R (W)        7.0  8  2  2  0  3
+Downs S               1.0  0  0  0  0  0
+League B              1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        6.1 10  6  6  1  4
+Veras J               0.2  0  0  0  1  2
+Aceves A              2.0  0  0  0  0  3
+
+DP -- New York 1
+LOB -- Toronto 5, New York 8
+2B -- Barajas R, Nady X, Bautista J, Scutaro M
+HR -- Rolen S, Rodriguez A, Giambi J
+SH -- Eckstein D
+HBP -- by Downs S (Rodriguez A), by Downs S (Giambi J)
+WP -- Halladay R, Veras J
+T -- 2:47
+A -- 53634
+     Game of 9/13/2008, game 1 -- Tampa Bay at New York (D)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Bartlett J, ss        5  1  1  1   Damon J, cf           4  0  1  0   
+Zobrist B, 2b         3  1  1  1   Betemit W, ss         0  0  0  0   
+Pena C, 1b            3  0  1  0   Jeter D, ss           4  0  3  0   
+Baldelli R, dh        3  0  0  0   Moeller C, c          0  0  0  0   
+Aybar W, ph           2  0  1  0   Abreu B, rf           4  1  2  1   
+Longoria E, 3b        5  1  2  2   Nady X, lf            4  0  1  0   
+Gomes J, rf           3  0  0  0   Giambi J, 1b          4  0  1  0   
+Gross G, rf           2  0  1  0   Matsui H, dh          4  0  0  0   
+Perez F, cf           5  1  2  0   Ransom C, 3b          4  0  0  0   
+Hernandez M, c        5  1  1  0   Cano R, 2b            4  0  0  0   
+Ruggiano J, lf        4  2  3  2   Molina J, c           1  0  0  0   
+                                   Gardner B, ph-cf      1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  7 13  6                        34  1  8  1
+
+Tampa Bay        020 032 000 --  7
+New York         000 000 001 --  1
+
+  Tampa Bay            IP  H  R ER BB SO
+Shields J (W)         8.0  5  0  0  0  6
+Miller T              1.0  3  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         5.0  8  5  5  2  7
+Giese D               2.0  3  2  1  0  2
+Rasner D              1.0  0  0  0  1  1
+Britton C             1.0  2  0  0  0  0
+
+E -- Giambi J
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 10, New York 7
+2B -- Ruggiano J 2, Zobrist B, Abreu B
+HR -- Abreu B
+SB -- Ruggiano J
+SF -- Zobrist B
+HBP -- by Shields J (Molina J)
+T -- 2:59
+A -- 54088
+     Game of 9/13/2008, game 2 -- Tampa Bay at New York (N)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Iwamura A, 2b         3  1  0  0   Gardner B, cf-lf      4  2  0  1   
+Zobrist B, ss         4  1  2  4   Jeter D, ss           3  1  3  0   
+Longoria E, ph        1  0  1  1   Abreu B, rf           4  1  1  1   
+Johnson D, 1b         4  0  1  0   Rodriguez A, dh       3  0  0  1   
+Ruggiano J, lf        1  0  0  0   Nady X, lf            4  0  1  1   
+Floyd C, dh           2  0  0  0   Cabrera M, cf         0  0  0  0   
+Gomes J, ph           1  0  0  0   Cano R, 2b            4  0  2  0   
+Aybar W, 3b           4  0  0  0   Betemit W, 1b         4  1  1  1   
+Hinske E, lf          3  0  1  0   Rodriguez I, c        4  1  1  0   
+Pena C, 1b            1  0  0  0   Ransom C, 3b          4  0  2  0   
+Navarro D, c          3  1  1  0                                      
+Gross G, rf           3  1  3  0                                      
+Perez F, cf           3  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  5  9  5                        34  6 11  5
+
+Tampa Bay        000 400 001 --  5
+New York         100 200 21x --  6
+
+  Tampa Bay            IP  H  R ER BB SO
+Garza M               5.0  6  3  3  3  3
+Howell J (L)          1.2  1  2  0  0  4
+Balfour G             0.1  2  0  0  0  1
+Bradford C            1.0  2  1  1  1  0
+
+  New York             IP  H  R ER BB SO
+Ponson S              3.1  6  4  4  4  2
+Coke P                2.2  1  0  0  1  2
+Marte D (W)           1.0  0  0  0  0  2
+Chamberlain J         1.0  0  0  0  0  0
+Rivera M (S)          1.0  2  1  1  0  1
+
+E -- Navarro D, Zobrist B, Gross G
+DP -- New York 2
+LOB -- Tampa Bay 7, New York 10
+2B -- Zobrist B, Cano R
+HR -- Zobrist B, Betemit W
+SB -- Rodriguez I, Gardner B
+SH -- Jeter D, Perez F
+SF -- Rodriguez A
+WP -- Balfour G
+Balk -- Garza M
+T -- 3:11
+A -- 53568
+     Game of 9/14/2008 -- Tampa Bay at New York (D)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Iwamura A, 2b         3  0  0  1   Damon J, lf           4  1  2  0   
+Bartlett J, ss        5  0  1  0   Jeter D, ss           4  3  3  1   
+Pena C, 1b            5  0  0  0   Giambi J, 1b          3  2  1  2   
+Longoria E, 3b        5  0  1  0   Cabrera M, rf         0  0  0  0   
+Floyd C, dh           3  1  2  0   Rodriguez A, dh       4  2  2  4   
+Aybar W, ph           1  0  0  0   Nady X, rf-1b         4  0  0  0   
+Navarro D, c          4  1  0  0   Cano R, 2b            2  0  0  0   
+Hinske E, lf          3  1  1  0   Betemit W, 3b         2  0  1  1   
+Gross G, rf           3  0  0  0   Rodriguez I, c        4  0  1  0   
+Perez F, cf           3  1  2  3   Ransom C, 3b-2b       3  0  0  0   
+                                   Gardner B, cf         3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  7  4                        33  8 10  8
+
+Tampa Bay        030 001 000 --  4
+New York         420 010 01x --  8
+
+  Tampa Bay            IP  H  R ER BB SO
+Jackson E (L)         2.0  6  6  6  1  1
+Price D               5.1  3  2  2  0  4
+Hammel J              0.2  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pavano C (W)          5.1  5  4  3  2  3
+Ramirez E             0.1  1  0  0  1  0
+Marte D               1.1  0  0  0  2  1
+Bruney B              1.0  0  0  0  0  1
+Veras J               0.2  1  0  0  1  1
+Rivera M (S)          0.1  0  0  0  0  1
+
+E -- Ransom C, Pena C
+DP -- Tampa Bay 2
+LOB -- Tampa Bay 10, New York 2
+2B -- Rodriguez I, Jeter D, Floyd C, Rodriguez A
+HR -- Rodriguez A, Perez F, Giambi J, Jeter D
+T -- 3:15
+A -- 54279
+     Game of 9/15/2008 -- Chicago at New York (N)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Cabrera O, ss         3  1  2  0   Damon J, lf           4  0  1  1   
+Wise D, lf            4  1  1  2   Jeter D, ss           4  0  0  0   
+Dye J, rf             4  0  1  0   Abreu B, rf           4  0  3  0   
+Thome J, dh           4  0  0  0   Rodriguez A, 3b       4  0  0  0   
+Ramirez A, 2b         4  0  1  0   Giambi J, 1b          3  1  2  0   
+Pierzynski A, c       4  0  0  0   Cano R, pr-2b         0  0  0  0   
+Griffey K, cf         3  0  0  0   Nady X, dh            3  2  1  2   
+Swisher N, 1b         3  0  0  0   Ransom C, 2b-1b       3  0  0  0   
+Uribe J, 3b           3  0  1  0   Moeller C, c          2  0  0  0   
+                                   Betemit W, ph         1  1  1  1   
+                                   Molina J, c           0  0  0  0   
+                                   Gardner B, cf         3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        31  4  9  4
+
+Chicago          000 200 000 --  2
+New York         020 000 20x --  4
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M             6.0  6  2  2  0  6
+Wassermann E (L)      0.1  0  1  1  1  0
+Ramirez H             0.1  2  1  1  0  0
+MacDougal M           1.1  1  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Aceves A              6.0  5  2  2  1  3
+Coke P (W)            1.0  0  0  0  0  1
+Chamberlain J         1.0  1  0  0  0  2
+Rivera M (S)          1.0  0  0  0  0  0
+
+E -- Swisher N
+DP -- Chicago 1
+LOB -- Chicago 4, New York 6
+2B -- Cabrera O, Abreu B, Giambi J, Uribe J, Betemit W
+HR -- Nady X, Wise D
+SB -- Abreu B
+CS -- Cabrera O, Gardner B
+SH -- Ransom C
+T -- 2:39
+A -- 53236
+     Game of 9/16/2008 -- Chicago at New York (N)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Cabrera O, ss         5  1  1  0   Damon J, dh           5  0  3  1   
+Anderson B, cf        4  1  1  1   Jeter D, ss           3  0  2  0   
+Dye J, rf             3  1  1  0   Abreu B, rf           4  0  0  0   
+Griffey K, dh         5  1  2  1   Rodriguez A, 3b       4  0  1  0   
+Bourgeois J, pr       0  0  0  0   Giambi J, 1b          3  1  1  1   
+Konerko P, 1b         4  0  2  1   Nady X, lf            4  0  0  0   
+Swisher N, 1b         1  0  0  0   Cano R, 2b            4  0  0  0   
+Pierzynski A, c       4  1  1  0   Molina J, c           3  0  0  0   
+Ramirez A, 2b         3  1  1  1   Betemit W, ph         1  0  0  0   
+Uribe J, 3b           3  0  3  2   Gardner B, cf         4  1  2  0   
+Owens J, lf           4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  6 12  6                        35  2  9  2
+
+Chicago          001 300 110 --  6
+New York         001 100 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Floyd G (W)           7.0  9  2  2  0  4
+Thornton M            1.0  0  0  0  1  1
+Jenks B               1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        6.0  6  4  4  3  4
+Veras J               1.0  3  1  1  1  1
+Giese D               1.0  2  1  1  0  0
+Robertson D           1.0  1  0  0  1  3
+
+DP -- New York 2
+LOB -- Chicago 8, New York 8
+2B -- Damon J, Konerko P, Cabrera O, Anderson B, Gardner B, Pierzynski A, Uribe J
+HR -- Ramirez A, Giambi J
+SB -- Gardner B 2
+CS -- Owens J
+SH -- Jeter D
+WP -- Robertson D
+T -- 3:02
+A -- 52558
+     Game of 9/17/2008 -- Chicago at New York (N)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Cabrera O, ss         4  1  2  0   Damon J, lf           3  1  1  2   
+Wise D, lf            3  0  1  0   Gardner B, cf         0  0  0  0   
+Dye J, rf             4  0  0  1   Jeter D, ss           4  0  0  0   
+Thome J, dh           3  0  0  0   Abreu B, rf           4  0  0  0   
+Konerko P, 1b         4  0  0  0   Rodriguez A, 3b       3  2  1  1   
+Pierzynski A, c       4  0  1  0   Giambi J, 1b          3  0  0  0   
+Griffey K, cf         3  0  2  0   Ransom C, 1b          1  0  0  0   
+Ramirez A, 2b         3  0  0  0   Nady X, dh            3  1  1  1   
+Uribe J, 3b           3  0  0  0   Cano R, 2b            3  0  3  0   
+                                   Rodriguez I, c        3  0  1  0   
+                                   Cabrera M, cf-lf      3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  6  1                        30  5  8  4
+
+Chicago          001 000 000 --  1
+New York         000 000 23x --  5
+
+  Chicago              IP  H  R ER BB SO
+Richard C (L)         6.2  5  2  2  2  5
+MacDougal M           0.1  0  0  0  0  0
+Linebrink S           1.0  3  3  3  0  1
+
+  New York             IP  H  R ER BB SO
+Hughes P              4.0  4  1  1  2  4
+Coke P*               2.0  1  0  0  0  0
+Bruney B (W)          1.0  0  0  0  0  0
+Chamberlain J         1.0  1  0  0  0  1
+Ramirez E             1.0  0  0  0  0  2
+  * Pitched to 1 batter in 7th
+
+DP -- Chicago 2, New York 1
+LOB -- Chicago 6, New York 3
+2B -- Cabrera O 2, Griffey K, Cano R
+HR -- Damon J, Rodriguez A
+SH -- Wise D
+WP -- MacDougal M
+T -- 2:40
+A -- 52671
+     Game of 9/18/2008 -- Chicago at New York (N)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Cabrera O, ss         3  1  2  0   Gardner B, cf         4  1  1  1   
+Fields J, 3b          1  0  0  0   Jeter D, ss           3  2  2  1   
+Pierzynski A, c       3  0  1  0   Ransom C, ss          1  0  0  0   
+Phillips P, c         1  0  0  0   Abreu B, rf           5  2  3  6   
+Dye J, rf             2  0  0  0   Rodriguez A, 3b       4  0  1  0   
+Owens J, lf           2  0  1  0   Betemit W, 3b         1  0  0  0   
+Thome J, dh           3  0  0  0   Giambi J, dh          3  0  0  0   
+Konerko P, 1b         4  1  1  2   Moeller C, ph         1  0  0  0   
+Griffey K, cf         1  0  0  0   Nady X, lf            4  0  1  0   
+Anderson B, cf        2  0  1  0   Cabrera M, lf         0  0  0  0   
+Ramirez A, 2b-ss      2  0  0  0   Cano R, 2b            3  2  2  0   
+Bourgeois J, 2b       2  0  1  0   Miranda J, 1b         2  1  0  0   
+Wise D, lf-rf         3  0  0  0   Molina J, c           3  1  0  0   
+Uribe J, 3b-2b-ss     4  0  0  0   Cervelli F, c         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        34  9 10  8
+
+Chicago          100 000 001 --  2
+New York         201 420 00x --  9
+
+  Chicago              IP  H  R ER BB SO
+Vazquez J (L)         3.2  6  7  6  4  4
+Ramirez H             0.2  3  2  2  2  0
+Broadway L            1.2  1  0  0  1  1
+Dotel O               1.0  0  0  0  0  3
+Carrasco D            1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)*        6.0  5  1  1  2  4
+Veras J               1.0  0  0  0  1  1
+Sanchez H             1.0  0  0  0  0  1
+Britton C             1.0  2  1  1  0  2
+  * Pitched to 1 batter in 7th
+
+E -- Ramirez A
+DP -- Chicago 1, New York 1
+LOB -- Chicago 7, New York 8
+2B -- Cabrera O, Anderson B, Bourgeois J
+HR -- Abreu B 2, Konerko P
+T -- 3:08
+A -- 53152
+     Game of 9/19/2008 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         4  1  1  0   Damon J, dh           4  1  2  0   
+Markakis N, rf        3  0  0  0   Jeter D, ss           4  0  1  0   
+Mora M, 3b            3  0  0  0   Abreu B, rf           2  0  0  0   
+Huff A, 1b            4  0  1  1   Rodriguez A, 3b       3  0  0  0   
+Scott L, lf           4  0  0  0   Giambi J, 1b          3  0  2  0   
+Jones A, cf           3  1  1  0   Cabrera M, pr-lf      0  0  0  0   
+Hernandez R, c        4  0  2  0   Nady X, lf            4  0  1  0   
+Montanez L, dh        3  0  1  1   Ransom C, 1b          0  0  0  0   
+Castro J, ss          3  0  1  0   Cano R, 2b            4  1  1  1   
+Salazar O, ph         1  0  1  0   Rodriguez I, c        3  1  1  0   
+Fahey B, pr           0  0  0  0   Gardner B, cf         4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     32  2  8  2                        31  3  9  2
+
+Baltimore        110 000 000 --  2
+New York         002 010 00x --  3
+
+  Baltimore            IP  H  R ER BB SO
+Liz R (L)             6.1  8  3  3  3  1
+Cormier L             1.0  1  0  0  1  0
+Sherrill G            0.2  0  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Pavano C (W)          5.0  6  2  2  1  2
+Coke P                0.2  0  0  0  1  2
+Bruney B              0.2  0  0  0  0  2
+Marte D               0.2  0  0  0  0  0
+Chamberlain J         1.0  0  0  0  0  3
+Rivera M (S)          1.0  2  0  0  0  0
+
+E -- Giambi J
+DP -- Baltimore 2
+LOB -- Baltimore 8, New York 9
+2B -- Roberts B, Gardner B, Castro J
+HR -- Cano R
+SB -- Jones A, Rodriguez I, Damon J
+SH -- Mora M, Roberts B
+SF -- Montanez L
+WP -- Liz R, Cormier L
+T -- 3:05
+A -- 54136
+     Game of 9/20/2008 -- Baltimore at New York (D)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         2  0  1  0   Damon J, cf           4  0  0  0   
+Jones A, cf           4  0  1  0   Jeter D, dh           3  0  0  0   
+Markakis N, rf        4  0  1  0   Gardner B, pr         0  1  0  0   
+Huff A, 3b-1b         4  0  0  0   Abreu B, rf           3  0  1  0   
+Salazar O, dh         4  0  2  0   Rodriguez A, 3b       4  0  2  0   
+Scott L, lf           4  0  0  0   Giambi J, 1b          4  0  0  0   
+Millar K, 1b          3  0  1  0   Nady X, lf            3  0  0  0   
+Fahey B, pr-ss        0  0  0  0   Cano R, 2b            4  0  1  1   
+Montanez L, ph        1  0  0  0   Ransom C, ss          3  0  0  0   
+Castro J, ss          0  0  0  0   Moeller C, c          2  0  0  0   
+Cintron A, ss-3b      3  0  0  0   Betemit W, ph         1  0  0  0   
+Quiroz G, c           2  0  0  0   Molina J, c           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  6  0                        31  1  4  1
+
+Baltimore        000 000 000 --  0
+New York         000 000 001 --  1
+  2 outs when winning run was scored.
+
+  Baltimore            IP  H  R ER BB SO
+Burres B              7.0  3  0  0  0  2
+Miller J (L)          1.1  0  1  1  1  2
+Walker J              0.1  1  0  0  1  1
+
+  New York             IP  H  R ER BB SO
+Aceves A              6.0  5  0  0  3  3
+Bruney B              1.0  1  0  0  1  0
+Marte D               1.0  0  0  0  0  0
+Rivera M (W)          1.0  0  0  0  0  1
+
+E -- Roberts B
+DP -- New York 1
+LOB -- Baltimore 8, New York 7
+2B -- Roberts B, Abreu B
+SB -- Gardner B, Rodriguez A
+CS -- Salazar O
+HBP -- by Miller J (Jeter D)
+WP -- Burres B
+T -- 2:41
+A -- 54662
+     Game of 9/21/2008 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         5  1  1  1   Damon J, cf-lf        4  1  1  3   
+Markakis N, rf        4  0  1  0   Cabrera M, lf         0  0  0  0   
+Mora M, 3b            4  0  1  1   Jeter D, ss           5  0  0  0   
+Cintron A, 3b         0  0  0  0   Betemit W, ss         0  0  0  0   
+Huff A, dh            4  0  0  0   Abreu B, rf           4  1  2  0   
+Hernandez R, c        4  0  0  0   Rodriguez A, 3b       2  0  0  0   
+Jones A, cf           4  1  2  0   Giambi J, 1b          3  0  1  1   
+Millar K, 1b          3  1  1  0   Gardner B, pr-cf      0  1  0  0   
+Payton J, lf          4  0  1  1   Nady X, lf            4  0  0  0   
+Castro J, ss          2  0  0  0   Ransom C, 1b          0  0  0  0   
+Salazar O, ph         0  0  0  0   Cano R, 2b            2  1  1  1   
+Fahey B, pr-ss        0  0  0  0   Matsui H, dh          3  1  1  0   
+Scott L, ph           1  0  0  0   Rodriguez I, ph       1  0  0  0   
+                                   Molina J, c           4  2  3  2   
+                     -- -- -- --                        -- -- -- --
+                     35  3  7  3                        32  7  9  7
+
+Baltimore        011 100 000 --  3
+New York         003 200 20x --  7
+
+  Baltimore            IP  H  R ER BB SO
+Waters C (L)          5.2  6  5  5  4  2
+Cormier L             0.2  2  1  1  1  1
+Walker J*             0.0  1  1  0  0  0
+Cherry R              1.2  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)+       5.0  7  3  2  1  3
+Veras J               0.2  0  0  0  1  1
+Coke P                0.2  0  0  0  0  1
+Chamberlain J         1.2  0  0  0  0  1
+Rivera M              1.0  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 6th
+
+E -- Pettitte A, Fahey B
+DP -- Baltimore 1
+LOB -- Baltimore 7, New York 7
+2B -- Millar K
+3B -- Jones A
+HR -- Damon J, Molina J
+SB -- Roberts B, Jones A, Abreu B
+SF -- Cano R
+T -- 3:05
+A -- 54610
+

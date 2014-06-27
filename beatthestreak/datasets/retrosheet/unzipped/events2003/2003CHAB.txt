@@ -1,0 +1,3245 @@
+     Game of 4/4/2003 -- Detroit at Chicago (D)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Kingsale E, cf        3  0  0  0   Jimenez D, 2b         4  0  1  1   
+Infante O, ss         4  0  1  0   Valentin J, ss        4  1  1  0   
+Higginson B, rf       3  0  0  0   Thomas F, dh          3  0  1  0   
+Young D, lf           4  0  0  0   Ordonez M, rf         4  0  1  1   
+Palmer D, dh          4  0  0  0   Konerko P, 1b         4  0  0  0   
+Pena C, 1b            2  1  1  0   Lee C, lf             4  1  1  0   
+Munson E, 3b          2  1  1  2   Crede J, 3b           4  2  2  2   
+Inge B, c             3  0  0  0   Rowand A, cf          4  1  2  1   
+Santiago R, 2b        3  0  0  0   Olivo M, c            3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     28  2  3  2                        34  5 10  5
+
+Detroit          000 020 000 --  2
+Chicago          130 001 00x --  5
+
+  Detroit              IP  H  R ER BB SO
+Cornejo N (L)         1.1  6  4  4  0  1
+Sparks S              6.2  4  1  1  0  1
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (W)          6.2  3  2  2  3  5
+Wunsch K*             0.0  0  0  0  1  0
+Glover G              1.1  0  0  0  0  1
+Koch B (S)            1.0  0  0  0  0  3
+  * Pitched to 1 batter in 7th
+
+DP -- Chicago 1
+LOB -- Detroit 3, Chicago 6
+2B -- Valentin J, Olivo M, Pena C, Rowand A
+3B -- Jimenez D
+HR -- Crede J, Munson E
+CS -- Kingsale E
+HBP -- by Sparks S (Thomas F)
+WP -- Wunsch K
+PB -- Inge B
+T -- 2:26
+A -- 40395
+     Game of 4/5/2003 -- Detroit at Chicago (D)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Kingsale E, cf        3  0  1  0   Graffanino T, 2b      5  2  2  1   
+Halter S, 2b          4  0  1  0   Valentin J, ss        5  1  3  2   
+Higginson B, rf       4  0  0  0   Thomas F, dh          3  1  1  1   
+Young D, lf           3  0  0  0   Ordonez M, rf         3  0  1  0   
+Palmer D, dh          3  0  0  0   Konerko P, 1b         4  0  2  1   
+Pena C, 1b            3  0  0  0   Lee C, lf             3  0  0  0   
+Munson E, 3b          3  0  1  0   Crede J, 3b           4  0  0  0   
+Inge B, c             3  0  0  0   Rowand A, cf          4  1  2  0   
+Infante O, ss         3  0  0  0   Alomar S, c           4  2  2  2   
+                     -- -- -- --                        -- -- -- --
+                     29  0  3  0                        35  7 13  7
+
+Detroit          000 000 000 --  0
+Chicago          003 012 01x --  7
+
+  Detroit              IP  H  R ER BB SO
+Maroth M (L)          4.1  9  4  4  2  4
+Spurling C            1.2  3  2  2  1  0
+Roney M               2.0  1  1  1  0  1
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (W)         8.0  3  0  0  0  3
+White R               1.0  0  0  0  1  0
+
+E -- Infante O
+DP -- Detroit 1, Chicago 1
+LOB -- Detroit 3, Chicago 8
+2B -- Alomar S, Rowand A, Valentin J
+HR -- Thomas F, Alomar S, Valentin J
+CS -- Valentin J
+HBP -- by Maroth M (Lee C)
+T -- 2:16
+A -- 16972
+     Game of 4/6/2003 -- Detroit at Chicago (D)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Higginson B, rf       5  0  2  1   Jimenez D, 2b         4  2  2  3   
+Halter S, ss          4  0  0  0   Valentin J, ss        3  1  1  0   
+Pena C, 1b            0  0  0  0   Thomas F, dh          3  0  1  0   
+Young D, lf           4  0  0  0   Paul J, pr            1  2  1  2   
+Palmer D, dh          3  0  2  0   Ordonez M, rf         5  2  2  3   
+Munson E, 3b          4  0  0  0   Daubach B, 1b         2  0  1  0   
+Paquette C, 1b        4  0  0  0   Konerko P, ph-1b      1  1  0  1   
+Infante O, ss         0  0  0  0   Crede J, 3b           4  1  1  0   
+Inge B, c             4  1  1  0   Rios A, lf            2  0  0  0   
+Santiago R, 2b        3  1  1  0   Lee C, ph-lf          2  0  0  0   
+Kingsale E, cf        2  0  2  1   Rowand A, cf          3  0  0  0   
+                                   Olivo M, c            3  1  0  1   
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        33 10  9 10
+
+Detroit          000 010 100 --  2
+Chicago          001 000 09x -- 10
+
+  Detroit              IP  H  R ER BB SO
+Knotts G              5.1  5  1  1  2  4
+Walker J              0.1  0  0  0  1  1
+German F (L)*         1.1  1  2  1  2  1
+Sparks S              0.2  2  6  0  3  0
+Anderson M            0.1  1  1  1  1  0
+
+  Chicago              IP  H  R ER BB SO
+Stewart J             6.2  7  2  2  1  1
+Marte D (W)           1.1  1  0  0  1  2
+Koch B                1.0  0  0  0  1  2
+  * Pitched to 2 batters in 8th
+
+E -- Sparks S
+DP -- Detroit 1, Chicago 1
+LOB -- Detroit 8, Chicago 8
+2B -- Valentin J, Santiago R, Jimenez D
+HR -- Jimenez D, Ordonez M
+SH -- Santiago R
+WP -- German F
+T -- 2:59
+A -- 14514
+     Game of 4/15/2003 -- Kansas City at Chicago (N)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Tucker M, cf          5  1  2  0   Jimenez D, 2b         5  0  1  0   
+Randa J, 3b           5  2  3  1   Valentin J, ss        3  1  1  0   
+Sweeney M, 1b         4  1  2  3   Thomas F, dh          3  2  1  1   
+Ibanez R, lf          3  1  1  0   Ordonez M, rf         4  1  1  0   
+Harvey K, dh          4  0  1  0   Konerko P, 1b         3  1  0  0   
+Johnson R, pr         0  1  0  0   Lee C, lf             3  0  1  1   
+Relaford D, ph        1  1  1  0   Rowand A, cf          0  0  0  0   
+Berger B, rf          5  0  2  2   Rios A, cf-lf         3  0  2  3   
+Berroa A, ss          5  0  1  0   Crede J, 3b           3  0  0  0   
+Mayne B, c            5  0  2  0   Alomar S, c           3  0  0  0   
+Febles C, 2b          4  1  0  0   Daubach B, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  8 15  6                        31  5  7  5
+
+Kansas City      100 020 014 --  8
+Chicago          301 000 010 --  5
+
+  Kansas City          IP  H  R ER BB SO
+Asencio M             6.0  5  4  4  3  1
+Grimsley J            1.0  1  0  0  0  0
+Lopez A (W)           1.0  1  1  1  0  1
+MacDougal M (S)       1.0  0  0  0  2  2
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M             6.2  8  3  2  2  6
+Gordon T*             0.0  0  0  0  1  0
+Wunsch K              0.1  0  0  0  0  0
+White R               0.2  1  1  0  0  0
+Marte D               0.1  1  0  0  0  1
+Koch B (L)            0.1  4  4  4  1  0
+Glover G              0.2  1  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+E -- Valentin J, Konerko P
+DP -- Kansas City 1, Chicago 1
+LOB -- Kansas City 10, Chicago 5
+2B -- Rios A 2, Tucker M, Mayne B, Sweeney M, Relaford D
+HR -- Randa J, Thomas F, Sweeney M
+SB -- Ordonez M
+HBP -- by Asencio M (Thomas F)
+T -- 3:01
+A -- 20591
+     Game of 4/16/2003 -- Kansas City at Chicago (N)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Tucker M, cf          4  1  2  0   Jimenez D, 2b         3  0  1  0   
+Randa J, 3b           4  0  0  0   Valentin J, ss        4  1  0  0   
+Sweeney M, 1b         3  0  1  1   Thomas F, dh          2  1  0  1   
+Ibanez R, lf          3  0  0  0   Ordonez M, rf         3  1  1  1   
+Harvey K, dh          4  0  0  0   Daubach B, 1b         3  0  0  0   
+Brown D, rf           4  0  1  0   Lee C, lf             4  0  0  1   
+Lopez M, rf           0  0  0  0   Rios A, cf            3  0  0  0   
+Relaford D, 2b        4  0  0  0   Crede J, 3b           4  0  2  1   
+Mayne B, c            1  1  0  0   Graffanino T, pr      0  1  0  0   
+Berroa A, ss          3  1  1  2   Olivo M, c            4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  3  5  3                        30  4  5  4
+
+Kansas City      100 000 020 --  3
+Chicago          000 300 001 --  4
+  2 outs when winning run was scored.
+
+  Kansas City          IP  H  R ER BB SO
+Hernandez R           6.0  3  3  2  5  2
+Bukvich R             2.0  0  0  0  2  1
+Grimsley J (L)        0.2  2  1  1  1  0
+
+  Chicago              IP  H  R ER BB SO
+Garland J             7.0  3  1  1  2  6
+Marte D*              0.0  2  2  2  1  0
+Gordon T (W)          2.0  0  0  0  0  1
+  * Pitched to 3 batters in 8th
+
+E -- Berroa A 2, Grimsley J
+DP -- Kansas City 1, Chicago 1
+LOB -- Kansas City 4, Chicago 9
+2B -- Ordonez M
+3B -- Jimenez D
+HR -- Berroa A
+SB -- Tucker M, Jimenez D
+SF -- Sweeney M, Thomas F
+WP -- Garland J, Hernandez R
+T -- 2:32
+A -- 9882
+     Game of 4/17/2003 -- Kansas City at Chicago (D)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Tucker M, cf          4  0  1  0   Graffanino T, 2b      4  2  1  1   
+Relaford D, 3b        5  1  1  0   Valentin J, ss        2  1  1  0   
+Sweeney M, 1b         3  1  1  0   Thomas F, dh          3  1  1  0   
+Ibanez R, lf          4  0  2  0   Ordonez M, rf         4  0  1  1   
+Brown D, dh           4  0  1  1   Konerko P, 1b         3  2  1  1   
+Berger B, rf          4  0  2  1   Lee C, lf             4  1  2  4   
+Berroa A, ss          3  0  1  0   Crede J, 3b           4  0  0  0   
+Febles C, 2b          4  0  0  0   Rowand A, cf          4  0  0  0   
+DiFelice M, c         4  0  0  0   Olivo M, c            4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  2  9  2                        32  8  8  8
+
+Kansas City      000 001 010 --  2
+Chicago          121 040 00x --  8
+
+  Kansas City          IP  H  R ER BB SO
+George C (L)          4.2  7  8  8  4  1
+Wilson K              3.1  1  0  0  0  3
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (W)          6.0  4  1  1  2 11
+Glover G              1.1  5  1  1  0  1
+White R               1.2  0  0  0  1  2
+
+E -- Berroa A
+DP -- Kansas City 1, Chicago 1
+LOB -- Kansas City 9, Chicago 5
+2B -- Thomas F, Valentin J, Ibanez R
+HR -- Olivo M, Graffanino T, Konerko P, Lee C
+SH -- Valentin J
+WP -- George C
+Balk -- George C
+PB -- Olivo M
+T -- 2:42
+A -- 10716
+     Game of 4/18/2003 -- Cleveland at Chicago (N)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Vizquel O, ss         5  1  2  1   Jimenez D, 2b         4  2  2  0   
+Phillips B, 2b        3  0  1  0   Valentin J, ss        2  1  2  2   
+Garcia K, cf          3  0  1  1   Thomas F, dh          2  0  0  0   
+Burks E, dh           2  0  1  0   Ordonez M, rf         5  0  2  2   
+Lawton M, lf          4  0  0  0   Konerko P, 1b         3  0  0  0   
+Spencer S, rf         3  0  1  0   Lee C, lf             3  1  1  1   
+Hafner T, 1b          4  0  0  0   Crede J, 3b           3  0  0  0   
+Bard J, c             4  1  2  0   Rowand A, cf          4  0  0  0   
+Blake C, 3b           3  1  1  0   Alomar S, c           4  1  1  0   
+Selby B, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  9  2                        30  5  8  5
+
+Cleveland        002 010 000 --  3
+Chicago          002 001 11x --  5
+
+  Cleveland            IP  H  R ER BB SO
+Rodriguez R           6.0  5  3  3  4  4
+Traber B (L)          0.1  0  1  1  2  0
+Santiago J            0.2  1  0  0  1  1
+Mulholland T          1.0  2  1  1  0  0
+
+  Chicago              IP  H  R ER BB SO
+Colon B (W)           9.0  9  3  3  3  3
+
+E -- Santiago J
+DP -- Chicago 2
+LOB -- Cleveland 7, Chicago 11
+2B -- Bard J, Ordonez M, Vizquel O, Valentin J, Jimenez D
+3B -- Jimenez D
+HR -- Lee C
+SB -- Jimenez D
+SH -- Phillips B, Valentin J
+SF -- Garcia K, Valentin J
+HBP -- by Mulholland T (Thomas F)
+T -- 2:25
+A -- 13015
+     Game of 4/19/2003 -- Cleveland at Chicago (D)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Bradley M, cf         4  0  2  0   Jimenez D, 2b         5  1  4  3   
+Phillips B, 2b        3  0  0  0   Graffanino T, ss      5  1  0  0   
+Burks E, dh           4  0  0  0   Thomas F, dh          5  1  2  0   
+Spencer S, lf         3  0  0  0   Ordonez M, rf         4  1  1  1   
+Selby B, lf           1  0  0  0   Daubach B, ph-rf      0  1  0  0   
+Garcia K, rf          4  0  1  0   Konerko P, 1b         5  1  2  1   
+Laker T, c            4  1  0  0   Lee C, lf             4  2  2  4   
+Blake C, 3b           4  1  1  1   Crede J, 3b           5  1  2  2   
+Hafner T, 1b          3  1  2  2   Rowand A, cf          2  2  0  0   
+McDonald J, ss        4  0  0  0   Olivo M, c            4  1  3  0   
+                                   Paul J, c             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  6  3                        39 12 16 11
+
+Cleveland        010 001 001 --  3
+Chicago          601 110 03x -- 12
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B (L)        5.0 11  9  2  1  1
+Mulholland T          2.0  3  0  0  0  2
+Myette A              1.0  2  3  3  1  0
+
+  Chicago              IP  H  R ER BB SO
+Stewart J (W)         6.0  5  2  1  3  3
+Glover G              1.0  0  0  0  0  0
+Wunsch K              1.0  0  0  0  0  2
+Koch B                1.0  1  1  1  0  1
+
+E -- Hafner T, Stewart J, Anderson B, Garcia K 2
+DP -- Cleveland 2
+LOB -- Cleveland 7, Chicago 7
+2B -- Bradley M, Crede J, Hafner T, Konerko P, Olivo M, Thomas F
+HR -- Ordonez M, Blake C, Lee C, Hafner T
+HBP -- by Anderson B (Rowand A) 2
+Balk -- Anderson B
+T -- 2:33
+A -- 18907
+     Game of 4/20/2003 -- Cleveland at Chicago (D)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Bradley M, cf         4  0  2  0   Jimenez D, 2b         4  1  3  1   
+Vizquel O, ss         4  1  1  0   Valentin J, ss        4  0  1  0   
+Burks E, dh           4  2  2  2   Thomas F, dh          4  0  0  0   
+Spencer S, lf         5  1  1  1   Ordonez M, rf         4  1  1  0   
+Garcia K, rf          5  2  3  1   Konerko P, 1b         4  0  1  1   
+Blake C, 3b           4  1  3  2   Lee C, lf             4  2  2  1   
+Bard J, c             4  0  2  1   Rios A, cf            4  0  2  1   
+Hafner T, 1b          4  0  1  0   Crede J, 3b           4  0  0  0   
+Phillips B, 2b        4  0  0  0   Alomar S, c           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 15  7                        35  4 10  4
+
+Cleveland        301 030 000 --  7
+Chicago          010 011 001 --  4
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (W)           6.2  7  3  3  1  1
+Sadler C              0.1  1  0  0  0  0
+Santiago J            1.0  0  0  0  0  0
+Baez D                1.0  2  1  1  0  0
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (L)         4.1 11  7  7  2  2
+Glover G              2.2  2  0  0  0  3
+Marte D               1.0  1  0  0  1  1
+Gordon T              1.0  1  0  0  1  1
+
+DP -- Cleveland 2, Chicago 4
+LOB -- Cleveland 10, Chicago 5
+2B -- Lee C, Blake C 2, Konerko P
+HR -- Burks E, Spencer S, Garcia K, Jimenez D, Lee C
+HBP -- by Buehrle M (Hafner T), by Glover G (Blake C)
+T -- 2:19
+A -- 14975
+     Game of 4/21/2003 -- Cleveland at Chicago (D)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Bradley M, cf         5  0  1  2   Jimenez D, 2b         3  0  0  0   
+Vizquel O, ss         5  1  2  1   Valentin J, ss        4  0  1  0   
+Garcia K, rf          5  2  2  4   Ordonez M, dh         3  1  1  0   
+Burks E, dh           5  2  3  2   Konerko P, 1b         4  0  1  0   
+Lawton M, lf          5  0  0  0   Daubach B, rf         4  0  0  0   
+Blake C, 3b           2  0  0  0   Lee C, lf             4  1  1  2   
+Hafner T, 1b          4  0  1  0   Rios A, cf            4  0  1  0   
+Bard J, c             4  1  1  0   Graffanino T, 3b      3  0  1  0   
+Phillips B, 2b        3  3  3  0   Olivo M, c            4  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 13  9                        33  2  8  2
+
+Cleveland        221 110 002 --  9
+Chicago          000 002 000 --  2
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (W)       5.2  6  2  2  2  1
+Traber B              1.0  1  0  0  1  0
+Riske D               2.1  1  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Garland J (L)         2.2  5  5  5  2  1
+White R               3.1  5  2  2  1  4
+Wunsch K              2.0  0  0  0  0  3
+Koch B                1.0  3  2  2  0  1
+
+E -- Blake C, Olivo M
+DP -- Cleveland 1, Chicago 2
+LOB -- Cleveland 5, Chicago 8
+2B -- Bradley M, Rios A, Valentin J, Ordonez M, Burks E
+3B -- Vizquel O
+HR -- Garcia K 2, Burks E 2, Lee C
+HBP -- by Westbrook J (Graffanino T)
+WP -- Koch B
+T -- 2:39
+A -- 15424
+     Game of 4/25/2003 -- Minnesota at Chicago (N)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Mohr D, lf            5  1  1  0   Jimenez D, 2b         4  0  0  0   
+Guzman C, ss          4  1  0  0   Valentin J, ss        4  0  1  0   
+Kielty B, rf          4  2  3  2   Thomas F, dh          3  1  1  1   
+Koskie C, 3b          4  0  0  1   Ordonez M, rf         3  0  1  0   
+Hunter T, cf          4  2  1  1   Konerko P, 1b         4  0  1  0   
+Mientkiewicz D, 1b    3  0  1  0   Rios A, lf            3  0  0  0   
+LeCroy M, dh          3  0  2  2   Crede J, 3b           3  0  0  0   
+Pierzynski A, c       3  0  1  0   Rowand A, cf          3  0  0  0   
+Rivas L, 2b           4  0  0  0   Alomar S, c           3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6  9  6                        30  1  5  1
+
+Minnesota        300 000 030 --  6
+Chicago          000 000 100 --  1
+
+  Minnesota            IP  H  R ER BB SO
+Mays J (W)            7.0  4  1  1  0  3
+Hawkins L             1.0  0  0  0  0  1
+Romero J              1.0  1  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (L)         7.0  5  3  3  2  4
+Sanders D             0.2  2  3  2  0  1
+Glover G              1.1  2  0  0  1  3
+
+E -- Valentin J, Ordonez M
+DP -- Minnesota 2, Chicago 1
+LOB -- Minnesota 7, Chicago 4
+2B -- Mohr D, Valentin J
+3B -- Hunter T
+HR -- Thomas F, Kielty B
+SF -- Koskie C
+HBP -- by Buehrle M (Mientkiewicz D), by Mays J (Thomas F), by Sanders D (Guzman C), by Romero J (Ordonez M)
+WP -- Buehrle M
+T -- 2:22
+A -- 14285
+     Game of 4/26/2003 -- Minnesota at Chicago (N)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Jones J, lf           5  0  2  0   Jimenez D, 2b         4  0  0  0   
+Guzman C, ss          3  0  0  0   Valentin J, ss        4  1  0  0   
+Kielty B, rf          4  0  0  0   Thomas F, dh          3  2  2  1   
+Koskie C, 3b          4  1  1  1   Ordonez M, rf         4  2  2  3   
+Hunter T, cf          3  0  0  0   Daubach B, 1b         5  0  1  1   
+Mientkiewicz D, 1b    3  0  0  0   Lee C, lf             4  2  3  1   
+LeCroy M, dh          4  1  1  0   Rios A, cf            2  0  0  0   
+Pierzynski A, c       4  1  1  1   Rowand A, cf          1  0  0  0   
+Gomez C, 2b           3  0  0  0   Crede J, 3b           3  0  1  1   
+Cuddyer M, ph         1  1  1  2   Olivo M, c            4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  6  4                        34  7 10  7
+
+Minnesota        001 001 002 --  4
+Chicago          010 310 02x --  7
+
+  Minnesota            IP  H  R ER BB SO
+Lohse K (L)           4.1  7  5  5  2  8
+Fetters M             1.0  1  0  0  1  1
+Santana J             2.2  2  2  2  3  5
+
+  Chicago              IP  H  R ER BB SO
+Garland J (W)         5.2  4  2  2  2  5
+Gordon T              2.1  1  0  0  0  3
+Koch B                1.0  1  2  2  0  2
+
+LOB -- Minnesota 6, Chicago 10
+2B -- Lee C 2
+HR -- Lee C, Pierzynski A, Thomas F, Ordonez M 2, Koskie C, Cuddyer M
+HBP -- by Lohse K (Ordonez M), by Garland J (Mientkiewicz D)
+WP -- Garland J, Koch B
+T -- 2:48
+A -- 25381
+     Game of 4/27/2003 -- Minnesota at Chicago (D)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Jones J, lf           4  0  1  0   Jimenez D, 2b         4  0  0  0   
+Guzman C, ss          4  0  1  0   Valentin J, ss        3  1  1  1   
+Kielty B, dh          4  0  1  0   Thomas F, dh          3  0  0  0   
+Koskie C, 3b          4  0  1  0   Ordonez M, rf         3  1  1  0   
+Hunter T, cf          4  1  1  0   Daubach B, 1b         2  1  0  0   
+Pierzynski A, c       4  0  1  1   Lee C, lf             3  0  1  1   
+Cuddyer M, 1b         3  0  0  0   Rios A, cf            3  0  0  0   
+Mohr D, rf            3  0  0  0   Graffanino T, 3b      3  0  0  0   
+Gomez C, 2b           3  0  0  0   Olivo M, c            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        27  3  3  2
+
+Minnesota        000 100 000 --  1
+Chicago          110 100 00x --  3
+
+  Minnesota            IP  H  R ER BB SO
+Reed R (L)            7.0  3  3  2  1  5
+Guardado E            1.0  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (W)          7.0  6  1  1  0  8
+Marte D (S)           2.0  0  0  0  0  2
+
+E -- Guzman C, Gomez C
+DP -- Minnesota 1
+LOB -- Minnesota 5, Chicago 1
+2B -- Hunter T, Ordonez M
+HR -- Valentin J
+SB -- Daubach B
+T -- 2:00
+A -- 22714
+     Game of 4/29/2003 -- Oakland at Chicago (N)
+
+  Oakland            AB  R  H RBI    Chicago            AB  R  H RBI
+Ellis M, 2b           2  0  1  1   Jimenez D, 2b         4  0  0  0   
+Hatteberg S, 1b       4  0  0  0   Graffanino T, ss      3  1  1  1   
+Tejada M, ss          4  0  0  0   Valentin J, ph-ss     1  0  1  0   
+Chavez E, 3b          3  0  0  0   Thomas F, dh          1  0  0  0   
+Durazo E, dh          4  0  0  0   Ordonez M, rf         4  0  0  0   
+Hernandez R, c        3  0  0  0   Lee C, lf             4  1  0  0   
+Long T, rf            4  0  0  0   Konerko P, 1b         4  0  2  0   
+Byrnes E, lf          3  2  3  0   Crede J, 3b           4  0  0  0   
+Singleton C, cf       4  1  2  2   Rowand A, cf          2  0  1  1   
+                                   Daubach B, ph         1  0  0  0   
+                                   Alomar S, c           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  6  3                        31  2  5  2
+
+Oakland          000 020 100 --  3
+Chicago          001 100 000 --  2
+
+  Oakland              IP  H  R ER BB SO
+Zito B (W)            7.0  4  2  1  3  3
+Bradford C            1.0  1  0  0  0  0
+Foulke K (S)          1.0  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Colon B (L)           8.0  6  3  3  2  5
+Wunsch K              1.0  0  0  0  1  0
+
+E -- Chavez E
+DP -- Oakland 2
+LOB -- Oakland 6, Chicago 6
+2B -- Konerko P, Byrnes E, Valentin J
+3B -- Singleton C
+HR -- Graffanino T
+SF -- Ellis M
+HBP -- by Zito B (Rowand A), by Wunsch K (Hernandez R)
+T -- 2:30
+A -- 13936
+     Game of 4/30/2003 -- Oakland at Chicago (N)
+
+  Oakland            AB  R  H RBI    Chicago            AB  R  H RBI
+Ellis M, 2b           4  0  0  0   Graffanino T, 2b      4  0  0  0   
+Hatteberg S, 1b       4  0  0  0   Valentin J, ss        4  0  1  0   
+Tejada M, ss          4  0  1  0   Thomas F, dh          3  0  1  0   
+Chavez E, 3b          4  1  2  1   Ordonez M, rf         3  0  0  0   
+Durazo E, dh          4  1  1  0   Lee C, lf             3  1  1  0   
+Hernandez R, c        4  1  3  1   Konerko P, 1b         3  0  1  0   
+Byrnes E, cf-lf       3  1  1  1   Crede J, 3b           3  0  0  1   
+Long T, rf            4  0  1  1   Rowand A, cf          3  0  0  0   
+Piatt A, lf           3  0  0  0   Alomar S, c           3  0  0  0   
+Singleton C, cf       0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        29  1  4  1
+
+Oakland          000 022 000 --  4
+Chicago          000 000 010 --  1
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          9.0  4  1  1  0  6
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (L)         6.0  9  4  4  1  2
+White R               1.0  0  0  0  0  0
+Gordon T              1.0  0  0  0  0  1
+Koch B                1.0  0  0  0  0  0
+
+DP -- Oakland 2, Chicago 2
+LOB -- Oakland 4, Chicago 1
+2B -- Konerko P, Durazo E, Hernandez R, Lee C
+3B -- Byrnes E
+HR -- Chavez E
+T -- 1:54
+A -- 11084
+     Game of 5/1/2003 -- Oakland at Chicago (N)
+
+  Oakland            AB  R  H RBI    Chicago            AB  R  H RBI
+Hatteberg S, 1b       4  0  0  1   Graffanino T, 2b      4  1  2  1   
+Ellis M, 2b           5  0  0  0   Valentin J, ss        4  0  0  0   
+Durazo E, dh          5  0  1  0   Thomas F, dh          5  1  2  1   
+Chavez E, 3b          3  2  1  1   Ordonez M, rf         5  2  3  1   
+Tejada M, ss          4  1  1  2   Lee C, lf             4  0  0  1   
+Long T, rf            2  1  0  0   Konerko P, 1b         3  0  2  2   
+Piatt A, rf           0  0  0  0   Crede J, 3b           4  0  1  0   
+Grabowski J, ph-rf    1  0  0  0   Rowand A, cf          4  0  1  0   
+Singleton C, cf       2  0  1  0   Olivo M, c            4  3  2  1   
+Byrnes E, lf          4  1  2  0                                      
+Johnson M, c          2  0  1  1                                      
+Hernandez R, ph-c     1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  5  7  5                        37  7 13  7
+
+Oakland          030 110 000 --  5
+Chicago          211 210 00x --  7
+
+  Oakland              IP  H  R ER BB SO
+Halama J (L)          3.1  9  6  4  1  3
+Fikac J               1.2  2  1  1  1  1
+Mecir J               2.0  2  0  0  1  2
+Neu M                 1.0  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Garland J (W)         5.0  4  5  4  4  1
+Wunsch K              0.1  1  0  0  1  0
+Gordon T              2.2  1  0  0  0  4
+Koch B                0.2  1  0  0  1  0
+Marte D (S)           0.1  0  0  0  0  0
+
+E -- Valentin J, Hatteberg S
+DP -- Chicago 1
+LOB -- Oakland 8, Chicago 10
+2B -- Olivo M, Graffanino T, Johnson M
+HR -- Tejada M, Ordonez M, Chavez E, Olivo M
+SH -- Valentin J
+SF -- Hatteberg S
+T -- 2:57
+A -- 10639
+     Game of 5/2/2003 -- Seattle at Chicago (N)
+
+  Seattle            AB  R  H RBI    Chicago            AB  R  H RBI
+Suzuki I, rf          5  0  1  1   Jimenez D, 2b         4  1  3  0   
+Colbrunn G, ph        0  0  0  0   Harris W, cf          4  0  0  1   
+Bloomquist W, rf      0  0  0  0   Thomas F, dh          2  0  0  0   
+McLemore M, 3b        6  0  1  2   Ordonez M, rf         4  0  0  0   
+Boone B, 2b           5  1  3  0   Konerko P, 1b         4  0  1  0   
+Martinez E, dh        4  1  2  1   Valentin J, ss        2  0  0  0   
+Olerud J, 1b          4  0  0  0   Lee C, lf             3  0  0  0   
+Cameron M, cf         3  3  3  2   Crede J, 3b           3  0  0  0   
+Winn R, lf            4  0  2  2   Olivo M, c            3  1  1  0   
+Guillen C, ss         4  2  2  1                                      
+Davis B, c            4  2  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  9 16  9                        29  2  5  1
+
+Seattle          200 310 300 --  9
+Chicago          100 001 000 --  2
+
+  Seattle              IP  H  R ER BB SO
+Franklin R (W)        8.0  5  2  1  3  2
+Soriano R             1.0  0  0  0  0  2
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (L)          3.2  9  5  5  3  2
+Glover G              2.2  5  4  4  1  2
+Sanders D             2.2  2  0  0  2  0
+
+E -- Boone B, Harris W
+DP -- Seattle 4, Chicago 1
+LOB -- Seattle 11, Chicago 3
+2B -- Boone B, Cameron M, McLemore M, Davis B
+HR -- Cameron M
+SF -- Winn R, Guillen C
+T -- 2:39
+A -- 13355
+     Game of 5/3/2003 -- Seattle at Chicago (N)
+
+  Seattle            AB  R  H RBI    Chicago            AB  R  H RBI
+Winn R, rf-lf         6  1  3  0   Jimenez D, 2b         3  0  1  0   
+Bloomquist W, lf-2b   6  1  1  0   Harris W, cf          4  0  1  0   
+Boone B, 2b           1  3  1  0   Thomas F, dh          3  0  0  0   
+Mabry J, ph-rf        2  0  0  0   Konerko P, 1b         4  0  0  0   
+Cameron M, cf         4  1  2  6   Valentin J, ss        4  0  0  0   
+Olerud J, 1b          6  1  1  0   Lee C, lf             2  0  0  0   
+Colbrunn G, dh        4  1  1  0   Rios A, ph-lf         2  1  1  1   
+Guillen C, ss         4  2  2  3   Daubach B, rf         4  0  1  0   
+Cirillo J, 3b         4  2  2  3   Crede J, 3b           4  1  1  1   
+Wilson D, c           4  0  1  0   Alomar S, c           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41 12 14 12                        33  2  5  2
+
+Seattle          330 400 020 -- 12
+Chicago          000 010 001 --  2
+
+  Seattle              IP  H  R ER BB SO
+Garcia F (W)          6.0  3  1  1  1  3
+Mateo J               2.0  1  0  0  1  2
+Carrara G             1.0  1  1  1  0  1
+
+  Chicago              IP  H  R ER BB SO
+Stewart J (L)         3.2  7  8  8  5  2
+White R               2.2  4  2  2  3  2
+Wunsch K              0.2  0  0  0  1  0
+Koch B                1.0  3  2  2  0  1
+Marte D               1.0  0  0  0  0  3
+
+E -- Garcia F
+LOB -- Seattle 11, Chicago 6
+2B -- Winn R, Guillen C
+3B -- Cameron M
+HR -- Cameron M, Crede J, Cirillo J, Rios A
+T -- 3:16
+A -- 25837
+     Game of 5/4/2003 -- Seattle at Chicago (N)
+
+  Seattle            AB  R  H RBI    Chicago            AB  R  H RBI
+Suzuki I, rf          3  2  2  1   Jimenez D, 2b         1  0  1  0   
+Guillen C, ss         2  0  1  0   Valentin J, ss        2  0  1  0   
+Boone B, 2b           2  0  0  0   Thomas F, dh          2  0  0  0   
+Martinez E, dh        3  1  2  3   Ordonez M, rf         2  0  0  0   
+Olerud J, 1b          3  0  0  0   Konerko P, 1b         2  1  1  0   
+Cameron M, cf         3  0  1  0   Lee C, lf             2  0  0  0   
+Winn R, lf            2  1  1  1   Crede J, 3b           2  0  1  0   
+Cirillo J, 3b         2  0  1  0   Olivo M, c            2  0  0  1   
+Davis B, c            2  1  1  0   Harris W, cf          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     22  5  9  5                        17  1  4  1
+
+Seattle          001 220 --  5
+Chicago          000 01x --  1
+  1 out when game ended.
+
+  Seattle              IP  H  R ER BB SO
+Meche G (W)           5.0  4  1  1  1  3
+
+  Chicago              IP  H  R ER BB SO
+Colon B (L)           5.1  9  5  5  1  2
+
+DP -- Seattle 1, Chicago 2
+LOB -- Seattle 3, Chicago 2
+2B -- Jimenez D, Guillen C, Crede J
+HR -- Suzuki I, Martinez E, Winn R
+CS -- Jimenez D
+SH -- Guillen C
+T -- 1:21
+A -- 15413
+     Game of 5/13/2003 -- Baltimore at Chicago (N)
+
+  Baltimore          AB  R  H RBI    Chicago            AB  R  H RBI
+Hairston J, 2b        3  0  0  0   Jimenez D, 2b         4  0  2  0   
+Mora M, ss            4  0  1  0   Valentin J, ss        3  0  0  0   
+Segui D, dh           4  0  3  0   Thomas F, dh          4  0  2  0   
+Morban J, pr          0  0  0  0   Ordonez M, rf         3  1  1  0   
+Conine J, 1b          3  0  0  0   Lee C, lf             4  0  1  0   
+Gibbons J, rf         4  0  0  0   Konerko P, 1b         2  0  0  0   
+Batista T, 3b         4  0  1  0   Graffanino T, 3b      2  0  1  0   
+Bigbie L, lf          3  0  0  0   Olivo M, c            3  0  0  1   
+Matthews G, cf        3  0  1  0   Harris W, cf          3  0  1  0   
+Gil G, c              3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  6  0                        28  1  8  1
+
+Baltimore        000 000 000 --  0
+Chicago          000 100 00x --  1
+
+  Baltimore            IP  H  R ER BB SO
+Daal O (L)            7.0  7  1  1  4  6
+Roberts W             1.0  1  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (W)          7.0  5  0  0  2  7
+Gordon T              1.0  1  0  0  0  2
+Koch B (S)            1.0  0  0  0  0  2
+
+DP -- Baltimore 1, Chicago 1
+LOB -- Baltimore 7, Chicago 8
+2B -- Thomas F, Graffanino T, Ordonez M
+SB -- Segui D
+SH -- Valentin J
+HBP -- by Loaiza E (Hairston J)
+T -- 2:27
+A -- 14397
+     Game of 5/14/2003 -- Baltimore at Chicago (N)
+
+  Baltimore          AB  R  H RBI    Chicago            AB  R  H RBI
+Hairston J, 2b        3  0  0  0   Jimenez D, 2b         4  1  1  0   
+Bigbie L, lf          4  0  1  0   Valentin J, ss        4  1  1  2   
+Segui D, dh           4  0  0  0   Thomas F, dh          4  1  3  2   
+Conine J, 1b          4  1  1  0   Ordonez M, rf         3  0  0  0   
+Gibbons J, rf         4  0  2  1   Lee C, lf             4  0  2  0   
+Batista T, 3b         3  0  1  0   Konerko P, 1b         2  0  1  0   
+Matthews G, cf        3  0  1  0   Harris W, pr-cf       1  1  1  0   
+Cruz D, ss            3  0  1  0   Rios A, cf            2  0  0  0   
+Fordyce B, c          3  0  0  0   Daubach B, 1b         1  0  0  0   
+                                   Crede J, 3b           4  0  0  0   
+                                   Alomar S, c           4  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     31  1  7  1                        33  5 11  5
+
+Baltimore        000 000 100 --  1
+Chicago          100 000 40x --  5
+
+  Baltimore            IP  H  R ER BB SO
+Helling R (L)         6.2  8  4  4  0  5
+Ryan B*               0.0  1  1  1  0  0
+Bauer R               1.1  2  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Wright D              6.1  6  1  1  1  4
+Gordon T (W)          1.2  1  0  0  0  2
+Marte D               1.0  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+DP -- Baltimore 1, Chicago 2
+LOB -- Baltimore 4, Chicago 7
+2B -- Lee C, Conine J, Jimenez D, Thomas F
+HR -- Thomas F
+SB -- Harris W
+SH -- Rios A
+HBP -- by Helling R (Konerko P), by Bauer R (Ordonez M)
+WP -- Bauer R
+T -- 2:30
+A -- 12078
+     Game of 5/15/2003 -- Baltimore at Chicago (N)
+
+  Baltimore          AB  R  H RBI    Chicago            AB  R  H RBI
+Hairston J, 2b        3  0  1  0   Jimenez D, 2b         4  1  1  0   
+Mora M, cf            4  0  0  0   Valentin J, ss        4  1  0  0   
+Segui D, dh           4  0  0  0   Thomas F, dh          3  2  2  2   
+Conine J, 1b          4  1  1  0   Ordonez M, rf         4  2  2  3   
+Gibbons J, rf         3  0  0  0   Lee C, lf             4  1  2  1   
+Batista T, 3b         3  0  1  0   Konerko P, 1b         2  0  1  1   
+Bigbie L, lf          2  1  1  2   Crede J, 3b           4  0  0  0   
+Cruz D, ss            3  0  0  0   Olivo M, c            3  0  0  0   
+Gil G, c              3  0  1  0   Harris W, cf          4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     29  2  5  2                        32  8  9  7
+
+Baltimore        020 000 000 --  2
+Chicago          011 000 60x --  8
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S (L)*         6.0  6  4  4  5  5
+Ryan B+               0.0  0  1  1  1  0
+Roberts W#            0.0  2  3  3  1  0
+Ligtenberg K          1.0  1  0  0  0  2
+Julio J               1.0  0  0  0  1  2
+
+  Chicago              IP  H  R ER BB SO
+Colon B (W)**         8.0  5  2  2  1  5
+Wunsch K              1.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+  + Pitched to 1 batter in 7th
+  # Pitched to 3 batters in 7th
+  ** Pitched to 1 batter in 9th
+
+DP -- Baltimore 1, Chicago 3
+LOB -- Baltimore 2, Chicago 9
+2B -- Lee C, Konerko P
+3B -- Ordonez M
+HR -- Bigbie L, Thomas F
+CS -- Hairston J
+HBP -- by Julio J (Ordonez M), by Colon B (Hairston J)
+T -- 2:49
+A -- 11886
+     Game of 5/19/2003 -- Toronto at Chicago (N)
+
+  Toronto            AB  R  H RBI    Chicago            AB  R  H RBI
+Stewart S, lf         4  1  1  2   Jimenez D, 2b         4  0  0  0   
+Johnson R, rf         1  0  0  0   Valentin J, ss        3  0  0  0   
+Catalanotto F, rf-lf  5  3  3  1   Graffanino T, ph-ss   1  0  0  0   
+Wells V, cf           5  1  1  0   Thomas F, dh          4  0  1  0   
+Delgado C, 1b         4  1  2  2   Ordonez M, cf         3  1  2  0   
+Wilson T, ph-1b       1  0  1  1   Rios A, cf            1  1  0  0   
+Myers G, c            5  2  3  0   Lee C, lf             4  0  1  1   
+Phelps J, dh          3  1  1  0   Daubach B, rf         3  0  2  1   
+Hinske E, 3b          2  2  1  1   Konerko P, 1b         4  0  0  0   
+Hudson O, 2b          3  1  1  4   Crede J, 3b           3  0  1  0   
+Berg D, 2b            1  0  0  0   Alomar S, c           2  0  0  0   
+Bordick M, ss         4  0  1  1   Olivo M, ph-c         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38 12 15 12                        33  2  7  2
+
+Toronto          112 101 510 -- 12
+Chicago          010 000 001 --  2
+
+  Toronto              IP  H  R ER BB SO
+Lidle C (W)           9.0  7  2  2  1  1
+
+  Chicago              IP  H  R ER BB SO
+Wright D (L)*         3.0  6  5  5  3  2
+Sanders D             2.1  2  1  1  1  1
+White R               1.2  5  5  5  1  2
+Glover G              2.0  2  1  1  1  1
+  * Pitched to 2 batters in 4th
+
+E -- Daubach B
+DP -- Toronto 1, Chicago 1
+LOB -- Toronto 7, Chicago 5
+2B -- Lee C, Catalanotto F 2, Crede J, Bordick M, Wells V, Wilson T, Daubach B
+3B -- Hudson O
+HR -- Catalanotto F, Stewart S, Hinske E
+SF -- Hudson O, Stewart S
+T -- 2:52
+A -- 19628
+     Game of 5/20/2003 -- Toronto at Chicago (N)
+
+  Toronto            AB  R  H RBI    Chicago            AB  R  H RBI
+Stewart S, lf         4  0  1  1   Graffanino T, 2b      4  1  0  0   
+Catalanotto F, rf     4  0  0  0   Valentin J, ss        5  2  1  0   
+Wells V, cf           4  0  2  0   Thomas F, dh          4  1  1  1   
+Delgado C, 1b         4  0  1  0   Ordonez M, rf         4  0  1  0   
+Myers G, c            3  0  0  0   Lee C, lf             2  0  0  1   
+Phelps J, dh          4  0  1  0   Konerko P, 1b         4  0  2  1   
+Hinske E, 3b          3  1  1  0   Crede J, 3b           4  0  0  1   
+Hudson O, 2b          4  0  2  0   Rios A, cf            4  0  1  0   
+Bordick M, ss         4  0  1  0   Olivo M, c            3  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  9  1                        34  4  8  4
+
+Toronto          000 010 000 --  1
+Chicago          002 000 20x --  4
+
+  Toronto              IP  H  R ER BB SO
+Davis D (L)           4.0  4  2  0  3  1
+Sturtze T             2.0  2  0  0  0  0
+Tam J                 0.2  2  2  0  1  0
+Miller T              0.1  0  0  0  0  1
+Lopez A               1.0  0  0  0  1  1
+
+  Chicago              IP  H  R ER BB SO
+Colon B (W)           9.0  9  1  1  2  6
+
+E -- Delgado C 2
+DP -- Chicago 2
+LOB -- Toronto 8, Chicago 11
+2B -- Thomas F
+SB -- Olivo M
+WP -- Sturtze T
+T -- 3:01
+A -- 12857
+     Game of 5/21/2003 -- Toronto at Chicago (N)
+
+  Toronto            AB  R  H RBI    Chicago            AB  R  H RBI
+Stewart S, lf         4  2  3  1   Jimenez D, 2b         4  0  0  0   
+Johnson R, rf         4  0  2  1   Valentin J, ss        3  1  0  0   
+Catalanotto F, ph-rf  0  0  0  0   Thomas F, dh          4  0  1  0   
+Wells V, cf           4  1  3  2   Ordonez M, rf         4  1  1  0   
+Delgado C, 1b         4  0  0  0   Lee C, lf             4  2  2  3   
+Hudson O, pr          0  0  0  0   Konerko P, 1b         4  1  2  2   
+Wilson T, c           4  0  1  1   Graffanino T, 3b      3  1  1  1   
+Myers G, ph           0  0  0  0   Rios A, cf            3  0  2  0   
+Phelps J, dh          5  0  0  0   Harris W, cf          0  0  0  0   
+Hinske E, 3b          5  0  0  0   Alomar S, c           2  0  0  0   
+Berg D, 2b            4  1  1  0   Daubach B, ph         1  0  0  0   
+Woodward C, ss        2  1  0  0   Olivo M, c            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 10  5                        32  6  9  6
+
+Toronto          002 300 000 --  5
+Chicago          001 200 12x --  6
+
+  Toronto              IP  H  R ER BB SO
+Hendrickson M         5.1  6  3  3  0  1
+Tam J                 1.0  1  1  1  0  0
+Miller T*             0.0  1  0  0  0  0
+Lopez A               1.1  0  1  1  1  0
+Politte C (L)         0.1  1  1  1  0  0
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M             6.0 10  5  5  4  4
+Gordon T              1.2  0  0  0  1  4
+Marte D (W)+          0.1  0  0  0  2  0
+Koch B (S)            1.0  0  0  0  1  1
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 9th
+
+DP -- Toronto 1, Chicago 1
+LOB -- Toronto 12, Chicago 3
+2B -- Wells V, Berg D, Stewart S, Lee C, Johnson R
+HR -- Graffanino T, Konerko P, Lee C
+T -- 2:53
+A -- 13076
+     Game of 5/23/2003 -- Detroit at Chicago (N)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Kingsale E, cf        4  0  1  1   Graffanino T, 2b      2  0  1  0   
+Santiago R, 2b        4  1  0  0   Valentin J, ss        4  0  0  0   
+Higginson B, rf       3  1  2  0   Thomas F, dh          3  1  0  0   
+Young D, 3b-lf        3  0  1  1   Ordonez M, rf         4  0  1  1   
+Pena C, 1b            3  0  0  1   Lee C, lf             4  0  0  0   
+Monroe C, lf          4  0  0  0   Konerko P, 1b         4  0  0  0   
+Munson E, 3b          0  0  0  0   Crede J, 3b           3  1  1  1   
+Witt K, dh            3  0  1  0   Borchard J, cf        3  0  0  0   
+Torres A, pr          0  0  0  0   Olivo M, c            3  0  1  0   
+Inge B, c             4  1  0  0                                      
+Infante O, ss         2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  3  5  3                        30  2  4  2
+
+Detroit          000 011 010 --  3
+Chicago          100 010 000 --  2
+
+  Detroit              IP  H  R ER BB SO
+Maroth M (W)          7.0  3  2  2  2  3
+Spurling C (S)        2.0  1  0  0  0  2
+
+  Chicago              IP  H  R ER BB SO
+Garland J             6.0  4  2  2  3  2
+Gordon T (L)          1.1  0  1  0  0  1
+Wunsch K              0.2  1  0  0  0  0
+Glover G              1.0  0  0  0  1  0
+
+E -- Santiago R, Young D 2, Crede J
+DP -- Detroit 3, Chicago 1
+LOB -- Detroit 5, Chicago 4
+2B -- Ordonez M, Higginson B, Young D
+HR -- Crede J
+SB -- Torres A
+CS -- Higginson B
+SH -- Graffanino T
+SF -- Pena C
+WP -- Maroth M
+T -- 2:25
+A -- 15069
+     Game of 5/24/2003 -- Detroit at Chicago (N)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Kingsale E, cf        4  0  0  0   Jimenez D, 2b         3  0  0  0   
+Santiago R, 2b        4  0  1  0   Valentin J, ss        4  0  0  0   
+Higginson B, rf       3  0  0  0   Ordonez M, rf         4  0  1  0   
+Young D, lf           3  0  1  0   Lee C, lf             2  0  0  0   
+Pena C, 1b            4  0  1  0   Rios A, pr-lf         1  0  1  0   
+Witt K, dh            2  0  0  0   Daubach B, 1b         4  0  0  0   
+Monroe C, ph          0  0  0  0   Konerko P, dh         2  0  0  0   
+Munson E, 3b          4  0  1  0   Borchard J, cf        2  0  1  0   
+Inge B, c             3  1  1  0   Crede J, 3b           3  0  0  0   
+Infante O, ss         3  0  0  1   Olivo M, c            2  0  0  0   
+                                   Thomas F, ph          1  0  0  0   
+                                   Alomar S, c           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        28  0  3  0
+
+Detroit          001 000 000 --  1
+Chicago          000 000 000 --  0
+
+  Detroit              IP  H  R ER BB SO
+Knotts G (W)          7.2  2  0  0  2  6
+German F (S)          1.1  1  0  0  1  1
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (L)          7.0  4  1  1  4  5
+Marte D               1.0  1  0  0  1  3
+Koch B                1.0  0  0  0  0  0
+
+DP -- Detroit 2
+LOB -- Detroit 9, Chicago 5
+2B -- Pena C, Ordonez M, Young D
+3B -- Inge B
+SB -- Kingsale E
+SH -- Inge B
+SF -- Infante O
+HBP -- by Knotts G (Lee C)
+WP -- Knotts G 2
+T -- 2:35
+A -- 27535
+     Game of 5/25/2003 -- Detroit at Chicago (D)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Kingsale E, cf        5  0  0  0   Jimenez D, 2b         5  1  1  0   
+Santiago R, 2b        6  0  1  0   Lee C, lf             6  1  1  4   
+Higginson B, rf       5  1  2  0   Thomas F, dh          5  0  1  0   
+Young D, lf           4  1  0  1   Ordonez M, rf         6  0  2  0   
+Pena C, 1b            5  0  1  0   Daubach B, 1b         3  0  1  0   
+Witt K, dh            3  1  2  1   Graffanino T, ph-ss   2  1  0  0   
+Monroe C, ph          3  0  0  0   Valentin J, ss        2  1  1  0   
+Munson E, 3b          5  1  2  2   Konerko P, ph-1b      2  1  0  0   
+Walbeck M, c          3  0  0  0   Crede J, 3b           5  2  1  3   
+Torres A, ph          1  0  1  1   Borchard J, cf        4  1  2  1   
+Inge B, c             1  0  0  0   Alomar S, c           3  0  0  0   
+Infante O, ss         3  1  1  0   Olivo M, c            1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     44  5 10  5                        44  8 11  8
+
+Detroit          000 210 020 000 --  5
+Chicago          000 041 000 003 --  8
+  2 outs when winning run was scored.
+
+  Detroit              IP  H  R ER BB SO
+Bernero A             6.0  6  5  5  2  4
+Roney M               1.0  0  0  0  1  1
+Walker J*             1.0  1  0  0  0  0
+Sparks S (L)          3.2  4  3  0  2  3
+
+  Chicago              IP  H  R ER BB SO
+Wright D              7.0  6  3  3  1  7
+Wunsch K+             0.0  1  2  2  1  0
+Gordon T              1.0  1  0  0  0  2
+Marte D               1.0  1  0  0  1  2
+Koch B                2.0  0  0  0  1  2
+Glover G (W)          1.0  1  0  0  0  0
+  * Pitched to 1 batter in 9th
+  + Pitched to 3 batters in 8th
+
+E -- Santiago R, Munson E
+DP -- Detroit 2
+LOB -- Detroit 11, Chicago 9
+2B -- Higginson B 2, Olivo M
+HR -- Witt K, Munson E, Lee C, Crede J
+SB -- Valentin J, Infante O
+SH -- Kingsale E, Alomar S
+SF -- Borchard J, Munson E
+HBP -- by Wright D (Higginson B), by Bernero A (Crede J), by Wunsch K (Young D)
+T -- 3:32
+A -- 21398
+     Game of 6/10/2003 -- San Francisco at Chicago (N)
+
+  San Francisco      AB  R  H RBI    Chicago            AB  R  H RBI
+Grissom M, cf         4  0  0  0   Jimenez D, 2b         4  1  2  1   
+Durham R, 2b          4  1  1  0   Valentin J, ss        3  1  1  0   
+Aurilia R, ss         4  0  1  0   Thomas F, 1b          4  0  1  0   
+Bonds B, lf           3  1  1  2   Rowand A, cf          0  0  0  0   
+Santiago B, c         3  0  1  0   Daubach B, rf-1b      4  1  1  1   
+Feliz P, pr           0  1  0  0   Lee C, lf             3  0  2  1   
+Galarraga A, dh       4  0  1  0   Rios A, cf-rf         4  0  0  0   
+Snow J, 1b            4  0  2  1   Konerko P, dh         2  0  0  0   
+Benard M, pr          0  0  0  0   Graffanino T, pr      1  1  0  0   
+Alfonzo E, 3b         4  0  0  0   Crede J, 3b           2  0  1  0   
+Cruz J, rf            3  0  0  0   Olivo M, c            2  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        29  5  9  5
+
+San Francisco    000 200 001 --  3
+Chicago          000 200 30x --  5
+
+  San Francisco        IP  H  R ER BB SO
+Williams J            5.0  5  2  2  3  4
+Eyre S                1.0  1  0  0  0  1
+Nathan J (L)          0.1  0  1  1  1  0
+Rodriguez F*          0.0  2  2  2  0  0
+Christiansen J        0.2  1  0  0  0  1
+Zerbe C               1.0  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Garland J (W)         7.0  5  2  2  1  7
+Gordon T              1.0  0  0  0  0  2
+Marte D               0.1  0  0  0  0  0
+Koch B                0.2  2  1  1  1  0
+  * Pitched to 2 batters in 7th
+
+DP -- San Francisco 2, Chicago 1
+LOB -- San Francisco 5, Chicago 5
+2B -- Valentin J, Snow J, Galarraga A
+HR -- Bonds B, Olivo M, Jimenez D
+SH -- Crede J
+Balk -- Williams J
+T -- 2:51
+A -- 23837
+     Game of 6/11/2003 -- San Francisco at Chicago (N)
+
+  San Francisco      AB  R  H RBI    Chicago            AB  R  H RBI
+Grissom M, cf         4  1  2  1   Jimenez D, 2b         5  0  0  0   
+Perez N, ss           5  1  1  0   Valentin J, ss        5  1  1  1   
+Durham R, 2b          3  2  2  3   Thomas F, 1b          3  1  0  0   
+Bonds B, dh           4  2  1  2   Ordonez M, rf         3  0  0  0   
+Santiago B, c         4  1  0  0   Rowand A, cf          1  1  1  3   
+Torrealba Y, c        0  0  0  0   Daubach B, dh         2  0  1  0   
+Feliz P, 3b           5  1  1  4   Lee C, lf             4  0  0  0   
+Snow J, 1b            4  1  1  0   Rios A, cf-rf         4  0  1  0   
+Cruz J, rf            4  2  2  1   Crede J, 3b           3  0  1  0   
+Benard M, lf          4  0  2  0   Olivo M, c            2  0  0  0   
+                                   Paul J, c             1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37 11 12 11                        33  4  6  4
+
+San Francisco    400 042 010 -- 11
+Chicago          000 000 040 --  4
+
+  San Francisco        IP  H  R ER BB SO
+Foppert J (W)         7.1  1  1  1  5 10
+Brower J              0.2  3  3  0  0  0
+Zerbe C               1.0  2  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (L)         4.1  6  8  8  3  4
+Glover G              1.0  3  2  2  0  0
+Wunsch K              0.2  0  0  0  0  0
+White R               2.0  3  1  1  0  2
+Sanders D             1.0  0  0  0  0  0
+
+E -- Perez N
+DP -- San Francisco 1
+LOB -- San Francisco 5, Chicago 7
+2B -- Perez N, Snow J, Cruz J, Valentin J
+HR -- Feliz P, Bonds B, Rowand A
+SF -- Grissom M, Durham R
+HBP -- by Wunsch K (Durham R)
+T -- 2:59
+A -- 19114
+     Game of 6/12/2003 -- San Francisco at Chicago (N)
+
+  San Francisco      AB  R  H RBI    Chicago            AB  R  H RBI
+Grissom M, cf         5  0  1  0   Jimenez D, 2b         4  0  0  0   
+Perez N, ss           5  0  0  0   Graffanino T, ss      4  1  2  0   
+Durham R, 2b          4  1  1  0   Thomas F, 1b          3  2  1  2   
+Bonds B, dh-lf        4  1  1  2   Daubach B, 1b         0  0  0  0   
+Santiago B, c         4  0  1  0   Ordonez M, rf         3  0  1  0   
+Cruz J, rf            3  2  1  1   Lee C, lf             3  1  0  0   
+Feliz P, 1b           4  2  2  0   Konerko P, dh         4  0  1  0   
+Alfonzo E, 3b         3  1  0  0   Crede J, 3b           4  0  3  2   
+Benard M, lf          3  0  0  1   Rowand A, cf          4  0  1  0   
+Aurilia R, ph         1  1  1  4   Olivo M, c            4  0  0  0   
+Worrell T, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  8  8  8                        33  4  9  4
+
+San Francisco    001 010 006 --  8
+Chicago          202 000 000 --  4
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K              6.0  8  4  4  2  1
+Nathan J (W)          2.0  0  0  0  1  3
+Worrell T             1.0  1  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Colon B (L)           8.1  7  7  7  2  8
+Marte D               0.2  1  1  1  0  0
+
+E -- Crede J, Alfonzo E
+DP -- San Francisco 3
+LOB -- San Francisco 3, Chicago 6
+2B -- Ordonez M, Feliz P
+HR -- Thomas F, Cruz J, Bonds B, Aurilia R
+SB -- Ordonez M 2
+SH -- Jimenez D
+Balk -- Colon B
+T -- 2:40
+A -- 22827
+     Game of 6/13/2003 -- San Diego at Chicago (N)
+
+  San Diego          AB  R  H RBI    Chicago            AB  R  H RBI
+Matthews G, rf        5  1  1  0   Jimenez D, 2b         4  0  0  0   
+Kotsay M, cf          5  2  2  0   Valentin J, ss        4  0  0  0   
+Loretta M, 2b         5  0  4  1   Thomas F, 1b          4  1  1  1   
+Klesko R, 1b          5  0  2  2   Daubach B, 1b         0  0  0  0   
+Burroughs S, 3b       5  0  0  0   Ordonez M, rf         4  1  2  1   
+White R, lf           4  0  1  0   Lee C, lf             3  2  2  0   
+Hansen D, dh          3  0  0  0   Rios A, cf            3  1  2  1   
+Buchanan B, ph        0  0  0  0   Rowand A, cf          1  0  0  0   
+Bennett G, c          2  0  0  0   Konerko P, dh         2  0  1  2   
+Mendez D, ss          3  0  0  0   Crede J, 3b           3  0  1  0   
+                                   Olivo M, c            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  3 10  3                        31  5  9  5
+
+San Diego        201 000 000 --  3
+Chicago          020 101 01x --  5
+
+  San Diego            IP  H  R ER BB SO
+Jarvis K              5.0  6  3  2  1  1
+Linebrink S (L)       3.0  3  2  2  0  2
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E              5.0  6  3  3  1  4
+Gordon T (W)          1.2  2  0  0  0  4
+Marte D               1.1  1  0  0  1  1
+Koch B (S)            1.0  1  0  0  0  0
+
+E -- Bennett G, Olivo M
+LOB -- San Diego 11, Chicago 4
+2B -- Kotsay M, Klesko R
+3B -- Loretta M
+HR -- Ordonez M, Rios A, Thomas F
+SB -- Lee C, Buchanan B
+CS -- Ordonez M
+SF -- Konerko P
+HBP -- by Gordon T (Bennett G), by Marte D (Mendez D)
+T -- 2:51
+A -- 14162
+     Game of 6/14/2003 -- San Diego at Chicago (N)
+
+  San Diego          AB  R  H RBI    Chicago            AB  R  H RBI
+Matthews G, lf        5  0  0  0   Valentin J, ss        3  0  2  0   
+Kotsay M, cf          4  1  1  0   Jimenez D, ph-2b      1  0  0  0   
+Loretta M, 2b         4  3  3  0   Graffanino T, 2b-ss   4  1  1  0   
+Klesko R, 1b          4  0  0  1   Thomas F, 1b          3  2  1  2   
+Burroughs S, 3b       4  0  2  1   Daubach B, 1b         0  0  0  0   
+Buchanan B, dh        3  0  1  1   Ordonez M, rf         3  2  1  1   
+Nady X, rf            4  0  0  0   Lee C, lf             4  1  1  3   
+Bennett G, c          2  1  0  0   Rios A, cf            2  0  0  0   
+Lockhart K, ph        1  0  0  0   Rowand A, cf          0  0  0  0   
+Mendez D, ss          2  0  1  1   Konerko P, dh         2  0  0  0   
+Hansen D, ph          0  0  0  0   Crede J, 3b           3  0  0  0   
+Eaton A, pr           0  0  0  0   Paul J, c             3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  8  4                        28  6  6  6
+
+San Diego        000 112 010 --  5
+Chicago          010 300 02x --  6
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B            7.0  4  4  4  3  3
+Matthews M            0.1  0  0  0  0  0
+Witasick J (L)        0.2  2  2  2  0  0
+
+  Chicago              IP  H  R ER BB SO
+Wright D              5.1  6  4  4  3  4
+White R*              1.2  1  1  1  1  1
+Marte D               0.1  1  0  0  0  0
+Gordon T (W)          0.2  0  0  0  0  0
+Koch B (S)            1.0  0  0  0  2  1
+  * Pitched to 1 batter in 8th
+
+E -- Lee C, Jimenez D
+DP -- San Diego 1, Chicago 1
+LOB -- San Diego 8, Chicago 2
+2B -- Valentin J, Loretta M 2, Mendez D, Burroughs S 2
+HR -- Ordonez M, Lee C, Thomas F
+SB -- Graffanino T
+CS -- Rios A, Klesko R
+SF -- Buchanan B
+HBP -- by Lawrence B (Thomas F)
+WP -- Wright D
+T -- 2:51
+A -- 27287
+     Game of 6/15/2003 -- San Diego at Chicago (D)
+
+  San Diego          AB  R  H RBI    Chicago            AB  R  H RBI
+Matthews G, lf        3  1  1  0   Graffanino T, 2b      4  0  0  0   
+Kotsay M, cf          4  0  1  0   Valentin J, ss        3  0  0  0   
+Loretta M, 2b         4  0  1  1   Thomas F, dh          3  0  0  0   
+Klesko R, dh          3  0  0  0   Ordonez M, rf         3  0  1  0   
+Burroughs S, 3b       2  0  0  0   Lee C, lf             4  0  1  0   
+Buchanan B, 1b        4  0  0  0   Konerko P, 1b         4  0  1  0   
+Nady X, rf            3  0  0  0   Crede J, 3b           3  0  1  0   
+Ojeda M, c            3  0  0  0   Daubach B, ph         0  0  0  0   
+Mendez D, ss          2  0  0  0   Paul J, pr            0  0  0  0   
+                                   Rowand A, cf          4  0  2  0   
+                                   Olivo M, c            3  0  1  0   
+                                   Rios A, ph            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  1  3  1                        32  0  7  0
+
+San Diego        001 000 000 --  1
+Chicago          000 000 000 --  0
+
+  San Diego            IP  H  R ER BB SO
+Perez O (W)           6.2  5  0  0  2  6
+Hackman L             1.1  2  0  0  1  1
+Beck R (S)            1.0  0  0  0  1  0
+
+  Chicago              IP  H  R ER BB SO
+Garland J (L)         8.0  3  1  1  4  4
+Koch B                1.0  0  0  0  1  0
+
+DP -- San Diego 1, Chicago 1
+LOB -- San Diego 5, Chicago 9
+2B -- Ordonez M, Rowand A
+SB -- Matthews G, Burroughs S
+T -- 2:38
+A -- 26491
+     Game of 6/16/2003 -- Boston at Chicago (N)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Damon J, cf           4  0  1  0   Harris W, cf          4  0  2  0   
+Mueller B, 3b         4  1  0  0   Jimenez D, 2b         4  0  1  0   
+Garciaparra N, ss     4  0  1  0   Thomas F, 1b          4  0  0  0   
+Ramirez M, lf         3  1  2  2   Daubach B, 1b         0  0  0  0   
+Ortiz D, 1b           4  0  0  0   Ordonez M, rf         4  0  0  0   
+Millar K, dh          4  0  0  0   Lee C, lf             4  0  1  0   
+Varitek J, c          2  0  0  0   Rowand A, lf          0  0  0  0   
+Sanchez F, 2b         3  0  1  0   Valentin J, ss        3  1  0  0   
+Jackson D, rf         3  0  0  0   Konerko P, dh         2  2  1  0   
+                                   Crede J, 3b           3  1  2  3   
+                                   Paul J, c             3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        31  4  8  4
+
+Boston           101 000 000 --  2
+Chicago          000 013 00x --  4
+
+  Boston               IP  H  R ER BB SO
+Martinez P            5.0  6  1  1  1  6
+Rupe R (L)            2.0  2  3  3  1  1
+Seanez R              1.0  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (W)         8.0  4  2  1  1  3
+Gordon T (S)          1.0  1  0  0  0  1
+
+E -- Jimenez D
+LOB -- Boston 4, Chicago 5
+HR -- Ramirez M, Crede J
+CS -- Damon J
+SF -- Ramirez M
+T -- 2:06
+A -- 30779
+     Game of 6/17/2003 -- Boston at Chicago (N)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Damon J, cf           4  1  1  1   Harris W, cf          4  1  1  0   
+Walker T, 2b          5  0  1  0   Jimenez D, 2b         4  1  1  1   
+Garciaparra N, ss     4  1  1  0   Thomas F, 1b          3  1  1  1   
+Ramirez M, lf         3  1  1  3   Daubach B, 1b         1  1  1  1   
+Jackson D, lf         0  0  0  0   Ordonez M, rf         4  0  2  1   
+Millar K, 1b          4  1  2  1   Lee C, lf             4  0  1  0   
+Nixon T, rf           4  2  2  1   Valentin J, ss        4  0  0  0   
+Mueller B, 3b         4  1  1  0   Konerko P, dh         4  0  0  0   
+Giambi J, dh          2  0  0  0   Crede J, 3b           3  0  0  0   
+Varitek J, c          3  0  0  1   Olivo M, c            2  0  0  0   
+                                   Rios A, ph            1  0  0  0   
+                                   Paul J, c             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  7  9  7                        34  4  7  4
+
+Boston           023 000 002 --  7
+Chicago          300 000 010 --  4
+
+  Boston               IP  H  R ER BB SO
+Burkett J (W)         6.2  5  3  3  1  9
+Timlin M              1.1  2  1  1  0  1
+Lyon B (S)            1.0  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Colon B (L)           6.0  7  5  5  2  9
+Sanders D             1.0  0  0  0  0  0
+White R               1.0  0  0  0  0  0
+Marte D               1.0  2  2  2  1  0
+
+DP -- Chicago 1
+LOB -- Boston 4, Chicago 4
+2B -- Harris W, Jimenez D, Thomas F, Ordonez M, Millar K, Garciaparra N, Mueller B
+HR -- Millar K, Nixon T, Ramirez M, Daubach B
+SH -- Damon J
+SF -- Varitek J
+T -- 2:53
+A -- 19887
+     Game of 6/18/2003 -- Boston at Chicago (N)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Damon J, cf           4  1  3  0   Harris W, cf          4  0  0  0   
+Walker T, 2b          4  0  1  0   Jimenez D, 2b         2  2  0  0   
+Garciaparra N, ss     4  0  1  1   Thomas F, 1b          3  0  1  0   
+Ramirez M, lf         4  0  1  0   Rowand A, lf          0  0  0  0   
+Ortiz D, 1b           2  0  0  0   Ordonez M, rf         3  0  1  1   
+Jackson D, pr         0  0  0  0   Lee C, lf             3  0  0  0   
+Mueller B, 3b         4  0  0  0   Koch B, p             0  0  0  0   
+Nixon T, rf           4  0  0  0   Daubach B, dh         2  0  1  1   
+Giambi J, dh          3  0  1  0   Konerko P, ph-1b      1  0  0  0   
+Mirabelli D, c        3  0  0  0   Crede J, 3b           3  1  1  0   
+                                   Valentin J, ss        3  0  0  0   
+                                   Olivo M, c            3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     32  1  7  1                        27  3  5  3
+
+Boston           000 100 000 --  1
+Chicago          000 011 01x --  3
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (L)       7.0  3  2  2  5  8
+Seanez R*             0.0  2  1  1  2  0
+Embree A              1.0  0  0  0  1  0
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (W)          8.0  6  1  1  1  6
+Koch B (S)            1.0  1  0  0  1  1
+  * Pitched to 4 batters in 8th
+
+DP -- Boston 1, Chicago 2
+LOB -- Boston 6, Chicago 8
+2B -- Olivo M, Daubach B, Ordonez M
+SB -- Jimenez D, Jackson D
+PB -- Olivo M, Mirabelli D
+T -- 2:22
+A -- 18708
+     Game of 6/19/2003 -- Boston at Chicago (D)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Damon J, cf           5  0  1  1   Harris W, cf          5  1  1  0   
+Walker T, 2b          4  1  0  0   Jimenez D, 2b         5  0  1  1   
+Garciaparra N, ss     5  1  0  0   Thomas F, 1b          5  0  1  0   
+Ramirez M, dh         2  1  0  0   Ordonez M, rf         3  2  1  0   
+Millar K, 1b          3  0  0  1   Daubach B, dh         2  0  2  0   
+Nixon T, rf           4  0  1  2   Konerko P, ph         2  0  0  0   
+Mueller B, 3b         4  1  1  0   Lee C, lf             5  0  1  0   
+Giambi J, lf          2  0  0  0   Valentin J, ss        3  0  1  0   
+Jackson D, ph-lf      1  0  0  0   Crede J, 3b           4  0  0  0   
+Varitek J, c          3  0  0  0   Paul J, c             2  0  0  0   
+                                   Rios A, ph            1  0  1  0   
+                                   Olivo M, pr-c         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  3  4                        37  3  9  1
+
+Boston           300 000 000 1 --  4
+Chicago          011 001 000 0 --  3
+
+  Boston               IP  H  R ER BB SO
+Lowe D                6.0  7  3  2  3  2
+Shiell J              1.0  0  0  0  1  2
+Embree A              1.0  0  0  0  1  1
+Lyon B (W)            2.0  2  0  0  0  2
+
+  Chicago              IP  H  R ER BB SO
+Wright D              6.0  1  3  2  4  4
+Marte D               1.2  0  0  0  0  1
+Gordon T              1.1  0  0  0  0  1
+Koch B (L)            1.0  2  1  1  1  0
+
+E -- Crede J, Garciaparra N, Shiell J
+DP -- Boston 3
+LOB -- Boston 5, Chicago 9
+SB -- Harris W 2, Damon J
+SH -- Varitek J
+T -- 3:15
+A -- 17225
+     Game of 6/27/2003 -- Chicago at Chicago (D)
+
+  Chicago            AB  R  H RBI    Chicago            AB  R  H RBI
+Grudzielanek M, 2b    5  1  4  0   Harris W, cf          3  0  0  0   
+Gonzalez A, ss        3  1  1  1   Jimenez D, 2b         4  0  0  0   
+Patterson C, cf       3  0  1  0   Thomas F, 1b          3  1  1  1   
+Sosa S, rf            4  0  0  1   Konerko P, 1b         0  0  0  0   
+Alou M, dh            5  0  1  1   Ordonez M, rf         4  0  1  1   
+Karros E, 1b          4  0  0  0   Daubach B, dh         4  0  0  0   
+Martinez R, 3b        4  0  1  0   Lee C, lf             4  1  2  1   
+Bako P, c             4  0  0  0   Valentin J, ss        4  1  2  1   
+Goodwin T, lf         3  1  1  0   Crede J, 3b           2  0  0  0   
+                                   Alomar S, c           3  0  1  0   
+                                   Olivo M, pr-c         0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  3                        31  4  7  4
+
+Chicago          100 000 002 --  3
+Chicago          000 001 111 --  4
+  1 out when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Clement M             7.2  5  3  3  2  3
+Alfonseca A (L)       0.2  2  1  1  0  1
+
+  Chicago              IP  H  R ER BB SO
+Wright D              6.1  6  1  1  4  3
+Gordon T*             1.2  2  2  2  1  1
+Koch B (W)            1.0  1  0  0  0  1
+  * Pitched to 3 batters in 9th
+
+E -- Jimenez D
+LOB -- Chicago 12, Chicago 5
+2B -- Patterson C, Martinez R
+HR -- Gonzalez A, Thomas F, Lee C, Valentin J
+SH -- Gonzalez A, Harris W
+SF -- Sosa S
+WP -- Wright D
+T -- 2:39
+A -- 45147
+     Game of 6/28/2003 -- Chicago at Chicago (D)
+
+  Chicago            AB  R  H RBI    Chicago            AB  R  H RBI
+Grudzielanek M, 2b    4  1  1  0   Harris W, 2b          5  1  1  0   
+Harris L, 3b          3  2  1  0   Rowand A, cf          5  1  1  2   
+Gonzalez A, ph-ss     0  0  0  0   Thomas F, dh          3  1  1  0   
+Patterson C, cf       5  0  1  1   Ordonez M, rf         3  3  2  0   
+Sosa S, rf            4  1  1  0   Lee C, lf             5  1  3  2   
+Alou M, dh            3  1  0  0   Valentin J, ss        3  0  1  2   
+Karros E, 1b          4  0  1  3   Konerko P, 1b         3  0  0  0   
+O'Leary T, lf         4  0  2  2   Daubach B, ph         0  0  0  0   
+Martinez R, ss-3b     4  0  1  0   Graffanino T, ph-1b   1  0  0  0   
+Miller D, c           2  1  0  0   Crede J, 3b           3  0  0  0   
+                                   Jimenez D, ph-3b      2  0  1  1   
+                                   Olivo M, c            3  0  0  0   
+                                   Rios A, ph            0  0  0  0   
+                                   Alomar S, c           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  6  8  6                        36  7 10  7
+
+Chicago          300 021 000 --  6
+Chicago          301 000 021 --  7
+  2 outs when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Zambrano C            6.0  7  4  4  4  2
+Farnsworth K          0.2  1  0  0  1  0
+Guthrie M             0.1  0  0  0  0  0
+Alfonseca A           1.0  1  2  2  1  0
+Cruz J (L)            0.1  0  1  1  1  0
+Remlinger M           0.1  1  0  0  1  1
+
+  Chicago              IP  H  R ER BB SO
+Colon B               5.1  6  6  6  7  3
+Sanders D             0.1  1  0  0  0  1
+White R               2.0  1  0  0  0  1
+Marte D               0.1  0  0  0  1  1
+Koch B (W)            1.0  0  0  0  0  0
+
+E -- Crede J
+DP -- Chicago 2
+LOB -- Chicago 9, Chicago 11
+2B -- Thomas F, Lee C 2, Valentin J, Ordonez M
+HR -- Rowand A
+SB -- Harris W
+SH -- Miller D
+T -- 3:28
+A -- 45440
+     Game of 6/29/2003 -- Chicago at Chicago (D)
+
+  Chicago            AB  R  H RBI    Chicago            AB  R  H RBI
+Grudzielanek M, 2b    4  1  1  0   Harris W, 2b          5  0  0  0   
+Martinez R, 2b        0  0  0  0   Jimenez D, 3b         2  0  0  0   
+Gonzalez A, ss        5  0  1  0   Thomas F, dh          4  0  1  0   
+Patterson C, cf       4  0  0  1   Ordonez M, rf         2  1  0  0   
+Sosa S, rf            4  1  1  0   Daubach B, 1b         3  0  0  0   
+Alou M, dh            4  1  1  2   Lee C, lf             4  0  2  0   
+Karros E, 1b          4  1  3  0   Valentin J, ss        2  0  0  1   
+Hernandez J, 3b       4  1  1  1   Graffanino T, ph      1  0  0  0   
+Goodwin T, lf         4  0  2  1   Rowand A, cf          3  1  2  1   
+Miller D, c           4  0  0  0   Olivo M, c            2  0  0  0   
+                                   Rios A, ph            1  0  0  0   
+                                   Alomar S, c           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 10  5                        30  2  5  2
+
+Chicago          000 311 000 --  5
+Chicago          010 010 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Wood K (W)            8.0  4  2  2  6  7
+Remlinger M           0.1  0  0  0  0  1
+Borowski J            0.2  1  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (L)          7.0  9  5  4  1  4
+White R               2.0  1  0  0  0  0
+
+E -- Jimenez D 2
+DP -- Chicago 1, Chicago 1
+LOB -- Chicago 6, Chicago 8
+2B -- Karros E 2, Goodwin T, Gonzalez A
+HR -- Alou M, Rowand A, Hernandez J
+SF -- Valentin J
+WP -- Loaiza E, Wood K
+T -- 2:47
+A -- 44858
+     Game of 6/30/2003 -- Minnesota at Chicago (N)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Jones J, lf           2  0  1  0   Harris W, 2b-cf       5  1  2  0   
+Ford L, lf-cf         3  0  1  1   Rowand A, cf-rf       4  1  1  1   
+Guzman C, ss          4  0  1  0   Thomas F, 1b          3  1  1  1   
+Koskie C, 3b          3  0  1  0   Daubach B, 1b         0  0  0  0   
+Hocking D, ph-3b      1  0  0  0   Ordonez M, rf         3  2  2  3   
+Morneau J, dh         3  0  0  0   Graffanino T, ph-2b   1  0  0  0   
+Hunter T, cf          3  0  0  0   Rios A, dh            4  0  0  0   
+Mohr D, lf            1  0  0  0   Lee C, lf             3  3  1  1   
+Mientkiewicz D, 1b    2  0  0  0   Valentin J, ss        4  1  2  2   
+LeCroy M, 1b          2  0  0  0   Crede J, 3b           4  1  1  2   
+Kielty B, rf          3  1  1  1   Olivo M, c            4  0  0  0   
+Pierzynski A, c       4  2  3  1                                      
+Rivas L, 2b           3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        35 10 10 10
+
+Minnesota        000 000 201 --  3
+Chicago          125 000 20x -- 10
+
+  Minnesota            IP  H  R ER BB SO
+Mays J (L)            2.1  6  8  7  2  2
+Rincon J              4.1  1  1  1  2  1
+Nakamura M            1.1  3  1  1  1  3
+
+  Chicago              IP  H  R ER BB SO
+Garland J (W)         7.0  5  2  2  2  7
+Marte D               1.0  1  0  0  0  2
+Glover G              1.0  2  1  1  1  0
+
+E -- Koskie C
+LOB -- Minnesota 8, Chicago 6
+2B -- Thomas F, Koskie C, Ford L
+3B -- Harris W
+HR -- Crede J, Ordonez M 2, Valentin J, Kielty B, Pierzynski A, Lee C
+SH -- Guzman C
+T -- 2:37
+A -- 29945
+     Game of 7/1/2003 -- Minnesota at Chicago (N)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Guzman C, ss          4  0  2  0   Harris W, 2b          3  1  1  0   
+Mientkiewicz D, 1b    4  0  0  0   Rowand A, cf          4  1  1  0   
+Koskie C, 3b          4  0  1  0   Thomas F, dh          4  1  2  3   
+LeCroy M, dh          4  1  1  1   Ordonez M, rf         4  1  1  0   
+Hunter T, cf          4  0  1  0   Daubach B, 1b         4  1  2  1   
+Kielty B, rf          4  0  1  0   Lee C, lf             4  0  0  0   
+Pierzynski A, c       4  0  1  0   Valentin J, ss        3  0  0  0   
+Mohr D, lf            4  0  1  0   Crede J, 3b           4  0  1  1   
+Rivas L, 2b           3  0  1  0   Alomar S, c           3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  1  9  1                        33  6  9  6
+
+Minnesota        000 000 001 --  1
+Chicago          310 001 10x --  6
+
+  Minnesota            IP  H  R ER BB SO
+Radke B (L)           5.2  8  5  5  0  5
+Santana J             1.1  1  1  1  1  1
+Romero J              1.0  0  0  0  0  3
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (W)*        8.0  8  1  1  0  5
+Gordon T              1.0  1  0  0  0  1
+  * Pitched to 1 batter in 9th
+
+DP -- Chicago 1
+LOB -- Minnesota 7, Chicago 5
+2B -- Guzman C, Koskie C, Ordonez M, Crede J, Thomas F
+HR -- Thomas F, Daubach B, Alomar S, LeCroy M
+SB -- Harris W
+HBP -- by Radke B (Valentin J)
+T -- 2:27
+A -- 30694
+     Game of 7/2/2003 -- Minnesota at Chicago (N)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Kielty B, rf          5  3  4  1   Alomar R, 2b          5  1  1  0   
+Mientkiewicz D, 1b    3  1  1  1   Valentin J, ss        3  2  1  0   
+Guzman C, ss          2  0  1  0   Graffanino T, ph-ss   2  0  1  0   
+Koskie C, 3b          6  0  1  0   Thomas F, dh          5  2  2  4   
+Hunter T, cf          6  1  3  3   Ordonez M, rf         5  0  1  1   
+Morneau J, dh         6  0  2  1   Everett C, cf         4  0  0  0   
+Mohr D, lf            5  0  1  0   Lee C, lf             5  1  1  0   
+Pierzynski A, c       5  0  1  0   Daubach B, 1b         3  1  1  2   
+Hocking D, ss-1b      5  0  1  0   Konerko P, ph-1b      1  1  1  1   
+Rivas L, 2b           5  1  1  0   Crede J, 3b           5  0  0  0   
+                                   Alomar S, c           5  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     48  6 16  6                        43  8 10  8
+
+Minnesota        202 000 100 010 --  6
+Chicago          002 210 000 012 --  8
+  2 outs when winning run was scored.
+
+  Minnesota            IP  H  R ER BB SO
+Lohse K               5.0  6  5  5  3  6
+Santana J             2.0  0  0  0  0  2
+Hawkins L             2.0  0  0  0  0  1
+Romero J              1.0  2  0  0  1  0
+Guardado E (L)        1.2  2  3  3  1  0
+
+  Chicago              IP  H  R ER BB SO
+Wright D              4.0  8  4  4  1  1
+White R*              2.0  2  1  1  0  3
+Marte D               2.0  2  0  0  0  1
+Gordon T              2.0  1  0  0  0  2
+Koch B (W)            2.0  3  1  1  0  2
+  * Pitched to 1 batter in 7th
+
+E -- Alomar R
+DP -- Minnesota 2, Chicago 4
+LOB -- Minnesota 8, Chicago 5
+2B -- Mientkiewicz D, Kielty B 2, Ordonez M
+3B -- Rivas L
+HR -- Hunter T, Thomas F 2, Daubach B, Konerko P
+SB -- Kielty B
+SH -- Mientkiewicz D
+WP -- Wright D, Lohse K
+T -- 3:37
+A -- 19555
+     Game of 7/17/2003 -- Detroit at Chicago (N)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Sanchez A, cf         6  1  2  1   Graffanino T, ss      4  2  2  0   
+Morris W, 2b          6  3  3  2   Alomar R, 2b          5  1  2  0   
+Young D, lf           5  1  2  3   Thomas F, dh          5  0  1  0   
+Witt K, dh            4  1  4  2   Ordonez M, rf         5  0  1  1   
+Torres A, pr          0  1  0  0   Lee C, lf             5  1  1  3   
+Pena C, 1b            5  0  1  1   Everett C, cf         4  2  2  1   
+Monroe C, rf          4  0  1  1   Konerko P, 1b         4  0  1  0   
+Munson E, 3b          3  1  0  0   Crede J, 3b           3  2  2  1   
+Hinch A, c            3  0  1  0   Olivo M, c            4  1  1  3   
+Walbeck M, pr-c       2  1  1  0                                      
+Santiago R, ss        5  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     43 10 16 10                        39  9 13  9
+
+Detroit          201 240 010 -- 10
+Chicago          001 001 304 --  9
+
+  Detroit              IP  H  R ER BB SO
+Maroth M (W)          6.1  8  5  5  0  1
+Rodney F*             0.0  1  0  0  1  0
+Spurling C            1.2  0  0  0  2  1
+Mears C               1.0  4  4  4  0  0
+
+  Chicago              IP  H  R ER BB SO
+Colon B (L)           3.2  7  5  5  4  3
+Sanders D             1.0  5  4  4  1  0
+White R               2.1  1  0  0  0  2
+Koch B                2.0  3  1  1  0  3
+  * Pitched to 2 batters in 7th
+
+DP -- Detroit 1
+LOB -- Detroit 11, Chicago 7
+2B -- Morris W, Crede J, Pena C, Sanchez A
+HR -- Young D, Crede J, Olivo M, Lee C, Everett C
+SB -- Torres A
+HBP -- by Maroth M (Everett C)
+WP -- Colon B 2, Koch B
+T -- 3:17
+A -- 17060
+     Game of 7/18/2003 -- Detroit at Chicago (N)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Sanchez A, cf         5  0  3  2   Alomar R, 2b          3  2  2  1   
+Morris W, 2b          4  0  2  0   Lee C, lf             4  0  2  3   
+Young D, dh           3  0  0  0   Olivo M, c            0  0  0  0   
+Monroe C, rf          4  1  1  0   Thomas F, dh          5  0  1  0   
+Halter S, 3b          4  1  2  0   Ordonez M, rf         4  1  2  1   
+Pena C, 1b            4  1  1  1   Everett C, cf         3  0  1  0   
+Petrick B, lf         3  1  0  1   Rowand A, lf          0  0  0  0   
+Witt K, ph            1  0  0  0   Konerko P, 1b         4  1  2  2   
+Walbeck M, c          3  0  2  1   Valentin J, ss        3  0  0  0   
+Munson E, ph          1  0  0  0   Crede J, 3b           4  1  1  0   
+Santiago R, ss        2  1  0  0   Alomar S, c           3  1  2  0   
+                                   Harris W, pr-cf       0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5 11  5                        33  7 13  7
+
+Detroit          000 000 401 --  5
+Chicago          003 110 02x --  7
+
+  Detroit              IP  H  R ER BB SO
+Roney M (L)           5.0  9  5  5  3  1
+Sparks S              2.0  2  0  0  0  0
+Walker J              1.0  2  2  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (W)         6.2 10  4  1  1  5
+Marte D*              1.1  1  1  1  1  0
+Gordon T (S)          1.0  0  0  0  1  1
+  * Pitched to 1 batter in 9th
+
+E -- Valentin J, Walker J
+DP -- Detroit 2, Chicago 4
+LOB -- Detroit 5, Chicago 8
+2B -- Alomar S, Crede J, Thomas F, Sanchez A, Everett C, Lee C
+HR -- Konerko P, Pena C
+CS -- Sanchez A
+SH -- Alomar S
+SF -- Lee C, Alomar R
+Balk -- Roney M
+T -- 2:25
+A -- 18868
+     Game of 7/19/2003 -- Detroit at Chicago (N)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Sanchez A, cf         4  0  1  0   Alomar R, 2b          3  1  1  0   
+Morris W, 2b          4  0  0  0   Lee C, lf             4  0  1  0   
+Young D, lf           4  0  2  0   Alomar S, c           0  0  0  0   
+Witt K, dh            4  0  0  0   Thomas F, dh          4  0  1  1   
+Pena C, 1b            3  1  0  0   Ordonez M, rf         4  0  0  0   
+Monroe C, rf          3  0  1  0   Everett C, cf-lf      3  0  0  0   
+Munson E, 3b          2  1  1  2   Harris W, pr-cf       0  1  0  0   
+Halter S, ph          1  0  0  0   Konerko P, 1b         4  1  1  0   
+Walbeck M, c          2  0  0  0   Valentin J, ss        3  1  1  0   
+Petrick B, ph         1  0  0  0   Crede J, 3b           3  1  2  2   
+Santiago R, ss        3  0  1  0   Olivo M, c            2  0  0  0   
+                                   Daubach B, ph         0  0  0  0   
+                                   Graffanino T, ph      1  1  1  3   
+                                   Rowand A, cf-lf       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        32  6  8  6
+
+Detroit          000 200 000 --  2
+Chicago          000 000 51x --  6
+
+  Detroit              IP  H  R ER BB SO
+Cornejo N (L)         6.2  3  3  3  3  3
+Walker J*             0.0  2  2  2  0  0
+Patterson D           0.1  2  0  0  0  0
+Rodney F              1.0  1  1  1  1  1
+
+  Chicago              IP  H  R ER BB SO
+Garland J (W)         7.0  6  2  2  3  5
+Marte D (S)           2.0  0  0  0  1  4
+  * Pitched to 2 batters in 7th
+
+E -- Munson E, Walbeck M
+DP -- Detroit 1
+LOB -- Detroit 6, Chicago 6
+2B -- Young D
+HR -- Munson E, Graffanino T
+SB -- Harris W, Crede J
+CS -- Sanchez A 2
+T -- 2:31
+A -- 32245
+     Game of 7/20/2003 -- Detroit at Chicago (D)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Sanchez A, cf         1  0  0  0   Graffanino T, 2b      5  2  3  0   
+Torres A, ph-cf       1  0  0  0   Rowand A, cf-rf       4  0  1  1   
+Morris W, 2b          4  0  1  0   Thomas F, dh          4  3  3  3   
+Young D, lf           3  0  2  0   Daubach B, ph         1  0  0  0   
+Halter S, lf          1  0  0  0   Ordonez M, rf         3  2  3  2   
+Witt K, dh            4  0  0  0   Harris W, cf          0  0  0  0   
+Pena C, 1b            4  0  0  0   Lee C, lf             4  0  1  0   
+Monroe C, rf          4  0  0  0   Konerko P, 1b         4  1  3  2   
+Munson E, 3b          3  1  1  1   Crede J, 3b           4  0  0  0   
+Walbeck M, c          2  0  1  0   Valentin J, ss        4  1  1  1   
+Petrick B, c          1  0  0  0   Olivo M, c            4  1  1  0   
+Santiago R, ss        2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        37 10 16  9
+
+Detroit          000 010 000 --  1
+Chicago          202 330 00x -- 10
+
+  Detroit              IP  H  R ER BB SO
+Ledezma W (L)         3.2 12  7  7  0  1
+Avery S               2.1  4  3  2  1  1
+Patterson D           1.0  0  0  0  0  1
+Sparks S              1.0  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (W)          7.0  5  1  1  1  7
+Glover G              1.0  0  0  0  1  2
+Koch B                1.0  0  0  0  0  0
+
+E -- Walbeck M, Monroe C, Young D
+DP -- Detroit 2, Chicago 1
+LOB -- Detroit 5, Chicago 5
+2B -- Graffanino T 2, Ordonez M, Young D
+3B -- Graffanino T
+HR -- Thomas F 2, Ordonez M, Munson E, Konerko P, Valentin J
+SH -- Sanchez A
+SF -- Rowand A
+WP -- Glover G
+T -- 2:27
+A -- 20631
+     Game of 7/21/2003 -- Cleveland at Chicago (N)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Crisp C, cf           4  1  1  0   Graffanino T, ss      2  1  1  0   
+Blake C, 3b           4  1  2  1   Alomar R, 2b          2  1  1  0   
+Gerut J, lf           3  1  1  1   Thomas F, dh          3  0  0  0   
+Bradley M, dh         4  0  2  1   Ordonez M, rf         3  1  1  1   
+Ludwick R, rf         4  0  2  0   Lee C, lf             4  0  1  0   
+Laker T, c            3  0  0  0   Rowand A, lf          0  0  0  0   
+Martinez V, ph        0  0  0  0   Everett C, cf         4  0  1  2   
+Broussard B, 1b       4  0  0  0   Harris W, cf          0  0  0  0   
+McDonald J, 2b        4  0  0  0   Konerko P, 1b         3  0  0  0   
+Peralta J, ss         3  0  0  0   Crede J, 3b           3  1  1  1   
+Hafner T, ph          1  0  0  0   Alomar S, c           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        27  4  6  4
+
+Cleveland        003 000 000 --  3
+Chicago          013 000 00x --  4
+
+  Cleveland            IP  H  R ER BB SO
+Tallet B (L)          4.2  5  4  4  3  3
+Cressend J            2.0  0  0  0  1  0
+Riske D               1.1  1  0  0  1  2
+
+  Chicago              IP  H  R ER BB SO
+Porzio M (W)          5.0  5  3  3  0  2
+White R               2.0  1  0  0  0  4
+Gordon T (S)          2.0  2  0  0  1  3
+
+LOB -- Cleveland 6, Chicago 5
+2B -- Blake C, Bradley M, Ordonez M, Ludwick R
+HR -- Crede J
+SB -- Alomar R, Graffanino T, Blake C, Ludwick R
+CS -- Ordonez M
+SH -- Alomar R
+HBP -- by Porzio M (Gerut J)
+T -- 2:40
+A -- 31776
+     Game of 7/22/2003 -- Cleveland at Chicago (D)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Crisp C, lf           4  0  3  1   Alomar R, 2b          4  0  2  0   
+Blake C, 3b           3  0  0  1   Valentin J, ss        3  1  0  0   
+Gerut J, rf           4  0  0  0   Thomas F, dh          4  1  2  2   
+Bradley M, cf         4  0  1  0   Ordonez M, rf         4  1  3  1   
+Broussard B, 1b       4  0  0  0   Everett C, cf         4  1  0  0   
+Hafner T, dh          3  0  0  0   Harris W, cf          0  0  0  0   
+Ludwick R, ph         1  0  0  0   Lee C, lf             4  1  1  2   
+Martinez V, c         3  1  1  0   Rowand A, lf          0  0  0  0   
+Peralta J, ss         3  0  0  0   Daubach B, 1b         2  0  0  0   
+McDonald J, 2b        3  1  1  0   Graffanino T, 3b      3  0  0  0   
+                                   Olivo M, c            3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        31  5  9  5
+
+Cleveland        000 000 020 --  2
+Chicago          300 002 00x --  5
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (L)           5.1  7  5  5  2  3
+Boyd J                1.2  1  0  0  0  0
+Baez D                1.0  1  0  0  0  2
+
+  Chicago              IP  H  R ER BB SO
+Colon B (W)           7.2  6  2  2  0  4
+Marte D (S)           1.1  0  0  0  0  1
+
+DP -- Cleveland 2
+LOB -- Cleveland 4, Chicago 4
+2B -- Crisp C 3, Ordonez M
+HR -- Thomas F, Ordonez M, Lee C
+SF -- Blake C
+PB -- Martinez V
+T -- 2:25
+A -- 20667
+     Game of 7/25/2003 -- Tampa Bay at Chicago (N)
+
+  Tampa Bay          AB  R  H RBI    Chicago            AB  R  H RBI
+Crawford C, lf        5  0  1  0   Alomar R, 2b          2  2  1  0   
+Perez A, 3b           3  0  0  0   Lee C, lf             4  2  1  2   
+Huff A, dh            3  0  0  0   Rowand A, lf          0  0  0  0   
+Baldelli R, cf        4  0  1  0   Thomas F, dh          3  1  1  1   
+Lee T, 1b             3  0  2  0   Ordonez M, rf         4  1  2  2   
+Rolls D, rf           4  0  0  0   Everett C, cf         4  0  2  1   
+Anderson M, 2b        4  1  2  0   Harris W, cf          0  0  0  0   
+Hall T, c             4  1  1  2   Konerko P, 1b         4  0  0  0   
+Lugo J, ss            3  0  1  0   Valentin J, ss        4  1  1  0   
+Martin A, ph          1  0  0  0   Crede J, 3b           4  0  0  0   
+                                   Olivo M, c            3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        32  7  9  7
+
+Tampa Bay        000 000 200 --  2
+Chicago          300 040 00x --  7
+
+  Tampa Bay            IP  H  R ER BB SO
+Sosa J (L)            4.2  7  7  6  1  2
+Standridge J          3.1  2  0  0  2  2
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (W)          6.1  8  2  2  1  2
+Wunsch K              0.2  0  0  0  1  1
+Glover G              2.0  0  0  0  1  3
+
+E -- Perez A, Olivo M
+DP -- Tampa Bay 1, Chicago 1
+LOB -- Tampa Bay 8, Chicago 4
+2B -- Ordonez M, Valentin J, Everett C
+HR -- Lee C, Thomas F, Hall T
+SB -- Alomar R
+CS -- Olivo M
+PB -- Olivo M
+T -- 2:49
+A -- 22617
+     Game of 7/26/2003 -- Tampa Bay at Chicago (N)
+
+  Tampa Bay          AB  R  H RBI    Chicago            AB  R  H RBI
+Crawford C, lf        4  3  3  0   Alomar R, 2b          5  0  1  1   
+Perez A, 2b           4  0  0  0   Lee C, lf             5  1  1  0   
+Baldelli R, cf        4  2  2  4   Thomas F, dh          4  1  1  0   
+Huff A, rf            4  1  3  2   Ordonez M, rf         5  0  2  2   
+Hall T, c             4  0  1  1   Everett C, cf         4  0  0  0   
+Lee T, 1b             4  1  3  0   Daubach B, 1b         2  0  0  0   
+Diaz M, dh            4  1  1  0   Konerko P, ph-1b      2  0  1  0   
+Martin A, ph          0  0  0  1   Valentin J, ss        1  2  0  0   
+Rolls D, 3b           5  1  1  0   Crede J, 3b           4  1  1  0   
+Lugo J, ss            5  1  1  2   Alomar S, c           4  1  2  3   
+                     -- -- -- --                        -- -- -- --
+                     38 10 15 10                        36  6  9  6
+
+Tampa Bay        121 014 001 -- 10
+Chicago          000 141 000 --  6
+
+  Tampa Bay            IP  H  R ER BB SO
+Bell R                4.2  6  5  5  2  1
+Malaska M (W)         0.2  0  1  1  1  1
+Harper T*             1.2  3  0  0  1  0
+Colome J (S)          2.0  0  0  0  0  3
+
+  Chicago              IP  H  R ER BB SO
+Porzio M              3.1  6  4  4  0  1
+White R (L)           2.1  6  5  5  2  0
+Glover G              1.1  1  0  0  0  0
+Koch B                2.0  2  1  1  2  1
+  * Pitched to 2 batters in 8th
+
+DP -- Chicago 1
+LOB -- Tampa Bay 8, Chicago 7
+2B -- Lee T 2, Thomas F, Rolls D, Baldelli R, Huff A 2, Crawford C, Konerko P
+HR -- Lugo J, Baldelli R, Alomar S
+SB -- Crawford C 2
+SH -- Perez A
+SF -- Baldelli R, Martin A
+T -- 3:07
+A -- 29633
+     Game of 7/27/2003 -- Tampa Bay at Chicago (D)
+
+  Tampa Bay          AB  R  H RBI    Chicago            AB  R  H RBI
+Crawford C, lf        4  0  0  0   Graffanino T, 2b      5  1  1  0   
+Baldelli R, cf        4  1  2  1   Rowand A, cf          4  2  3  2   
+Huff A, rf            4  0  1  0   Thomas F, dh          5  1  2  3   
+Lee T, 1b             4  0  0  0   Ordonez M, rf         4  1  2  0   
+Martin A, dh          3  0  0  0   Lee C, lf             3  2  2  1   
+Rolls D, 3b           3  0  1  0   Konerko P, 1b         4  0  1  2   
+Anderson M, 2b        3  0  0  0   Crede J, 3b           4  0  0  0   
+Valentin J, c         3  0  0  0   Valentin J, ss        4  0  0  0   
+Lugo J, ss            3  0  0  0   Olivo M, c            3  2  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  4  1                        36  9 12  8
+
+Tampa Bay        100 000 000 --  1
+Chicago          011 221 02x --  9
+
+  Tampa Bay            IP  H  R ER BB SO
+Kennedy J (L)         4.1  8  6  5  2  4
+Backe B               2.2  3  1  1  0  3
+Carter L              1.0  1  2  2  1  1
+
+  Chicago              IP  H  R ER BB SO
+Colon B (W)           8.0  3  1  1  0  8
+Wunsch K              1.0  1  0  0  0  1
+
+E -- Rolls D, Graffanino T
+LOB -- Tampa Bay 3, Chicago 6
+2B -- Olivo M, Lee C, Konerko P, Huff A, Rolls D
+HR -- Baldelli R, Lee C, Thomas F, Rowand A
+T -- 2:29
+A -- 28027
+     Game of 8/4/2003 -- Kansas City at Chicago (N)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Guiel A, rf           4  1  1  3   Alomar R, 2b          4  2  2  0   
+Randa J, 3b           5  0  1  1   Lee C, lf             4  0  0  0   
+Beltran C, cf         4  1  0  0   Thomas F, dh          3  1  1  2   
+Ibanez R, 1b-lf       5  2  2  1   Ordonez M, rf         5  1  1  0   
+Relaford D, 2b        4  3  2  1   Everett C, cf         5  1  2  1   
+Berroa A, ss          3  2  2  3   Konerko P, 1b         5  0  1  0   
+Tucker M, lf          2  0  0  0   Valentin J, ss        3  2  2  2   
+Harvey K, ph-1b       1  1  0  0   Crede J, 3b           4  1  1  3   
+Mayne B, c            4  1  1  1   Olivo M, c            4  1  1  0   
+Brown D, dh           5  2  4  2                                      
+                     -- -- -- --                        -- -- -- --
+                     37 13 13 12                        37  9 11  8
+
+Kansas City      000 307 003 -- 13
+Chicago          110 042 100 --  9
+
+  Kansas City          IP  H  R ER BB SO
+Hernandez R (W)       5.0  8  6  6  4  1
+Field N               1.0  2  2  2  0  0
+Grimsley J            1.0  1  1  1  0  1
+Levine A (S)          2.0  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Garland J*            5.0  6  4  4  2  1
+Schoeneweis S (L)+    0.0  3  4  4  1  0
+Ginter M              0.1  0  1  1  0  0
+Wunsch K              1.2  1  1  1  1  3
+Gordon T              2.0  3  3  3  1  3
+  * Pitched to 1 batter in 6th
+  + Pitched to 4 batters in 6th
+
+E -- Harvey K, Crede J
+DP -- Kansas City 1
+LOB -- Kansas City 8, Chicago 6
+2B -- Ordonez M, Guiel A, Berroa A, Relaford D
+HR -- Crede J, Thomas F, Valentin J
+SB -- Guiel A
+SH -- Randa J, Berroa A, Harvey K
+SF -- Berroa A
+HBP -- by Garland J (Guiel A), by Hernandez R (Thomas F), by Ginter M (Beltran C)
+WP -- Garland J, Gordon T
+T -- 3:26
+A -- 43922
+     Game of 8/5/2003 -- Kansas City at Chicago (N)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Guiel A, rf           5  2  2  0   Alomar R, 2b          4  1  1  1   
+Randa J, 3b           5  1  1  0   Lee C, lf             3  1  1  1   
+Beltran C, cf         5  0  1  1   Thomas F, dh          4  1  1  2   
+Ibanez R, lf          5  0  1  1   Ordonez M, rf         3  0  1  0   
+Harvey K, 1b          4  0  2  1   Everett C, cf         4  0  1  0   
+Relaford D, 2b        2  0  0  0   Harris W, cf          0  0  0  0   
+Berroa A, ss          4  0  2  0   Konerko P, 1b         4  1  1  0   
+Mayne B, c            3  0  0  0   Valentin J, ss        3  0  1  0   
+DiFelice M, ph        1  0  0  0   Crede J, 3b           4  0  1  0   
+Brown D, dh           3  0  0  0   Olivo M, c            1  1  1  1   
+Febles C, ph          1  1  1  0   Alomar S, c           2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  4 10  3                        32  5 10  5
+
+Kansas City      101 000 002 --  4
+Chicago          050 000 00x --  5
+
+  Kansas City          IP  H  R ER BB SO
+Snyder K (L)          2.0  5  5  5  2  1
+Carrasco D            3.0  3  0  0  0  0
+Lloyd G               1.0  2  0  0  0  2
+Leskanic C            1.0  0  0  0  0  1
+Grimsley J            1.0  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (W)          6.0  7  2  2  1  7
+Wunsch K              1.2  0  0  0  0  2
+Koch B*               0.0  1  0  0  0  0
+Marte D (S)           1.1  2  2  0  1  1
+  * Pitched to 1 batter in 8th
+
+E -- Loaiza E, Crede J
+DP -- Kansas City 1
+LOB -- Kansas City 9, Chicago 6
+2B -- Guiel A, Harvey K
+HR -- Thomas F
+HBP -- by Snyder K (Ordonez M)
+T -- 2:58
+A -- 38973
+     Game of 8/6/2003 -- Kansas City at Chicago (D)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Guiel A, rf           3  1  1  0   Alomar R, 2b          3  1  1  1   
+Randa J, 3b           3  1  1  0   Lee C, lf             5  1  3  2   
+Beltran C, cf         4  1  1  3   Rowand A, lf          0  0  0  0   
+Ibanez R, lf          4  0  0  0   Thomas F, dh          3  0  1  0   
+Harvey K, 1b          4  0  3  0   Ordonez M, rf         4  0  0  0   
+Febles C, pr          0  0  0  0   Everett C, cf         4  0  1  0   
+Relaford D, 2b        4  0  1  0   Harris W, cf          0  0  0  0   
+Berroa A, ss          3  0  0  0   Daubach B, 1b         1  0  0  0   
+Brown D, dh           3  0  0  0   Konerko P, ph-1b      2  1  2  0   
+DiFelice M, c         3  0  0  0   Valentin J, ss        3  0  0  0   
+                                   Crede J, 3b           3  0  0  0   
+                                   Alomar S, c           4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     31  3  7  3                        32  4  9  4
+
+Kansas City      000 000 003 --  3
+Chicago          002 000 11x --  4
+
+  Kansas City          IP  H  R ER BB SO
+Wilson K (L)          5.0  5  2  2  3  3
+Affeldt J             2.0  3  1  1  1  3
+Levine A              1.0  1  1  1  2  0
+
+  Chicago              IP  H  R ER BB SO
+Colon B (W)           8.0  3  0  0  1  7
+Gordon T              0.1  3  3  3  0  0
+Marte D (S)           0.2  1  0  0  0  1
+
+E -- Colon B
+DP -- Chicago 2
+LOB -- Kansas City 3, Chicago 10
+2B -- Alomar S, Konerko P
+HR -- Alomar R, Lee C, Beltran C
+SB -- Lee C
+HBP -- by Colon B (Guiel A)
+T -- 2:55
+A -- 25348
+     Game of 8/8/2003 -- Oakland at Chicago (N)
+
+  Oakland            AB  R  H RBI    Chicago            AB  R  H RBI
+Ellis M, 2b           4  1  2  0   Graffanino T, ss      3  0  0  1   
+Guillen J, rf         4  0  1  1   Alomar R, 2b          4  0  2  0   
+Chavez E, 3b          4  0  0  0   Thomas F, dh          4  0  0  0   
+Tejada M, ss          3  0  0  0   Ordonez M, rf         4  1  3  1   
+Durazo E, dh          3  1  1  1   Lee C, lf             4  1  1  0   
+Hernandez R, c        3  0  0  0   Harris W, cf          0  0  0  0   
+Hatteberg S, 1b       3  0  0  0   Everett C, cf-lf      2  0  2  0   
+Piatt A, lf           3  0  1  0   Konerko P, 1b         3  0  1  0   
+Byrnes E, cf          3  0  0  0   Crede J, 3b           3  1  1  0   
+                                   Alomar S, c           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        29  3 10  2
+
+Oakland          011 000 000 --  2
+Chicago          001 200 00x --  3
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (L)          8.0 10  3  3  0  2
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (W)         9.0  5  2  2  0  6
+
+DP -- Oakland 3, Chicago 1
+LOB -- Oakland 1, Chicago 5
+2B -- Everett C, Guillen J, Crede J
+3B -- Alomar R
+HR -- Durazo E, Ordonez M
+CS -- Piatt A
+SH -- Alomar S
+SF -- Graffanino T
+HBP -- by Mulder M (Everett C)
+T -- 1:53
+A -- 24118
+     Game of 8/9/2003 -- Oakland at Chicago (N)
+
+  Oakland            AB  R  H RBI    Chicago            AB  R  H RBI
+Hatteberg S, 1b       4  1  1  0   Graffanino T, 2b      3  0  2  0   
+Guillen J, rf         5  1  3  1   Daubach B, ph         1  0  0  0   
+Chavez E, 3b          5  0  1  0   Alomar S, c           1  0  0  0   
+Tejada M, ss          5  1  2  1   Rowand A, cf          3  0  1  0   
+Durazo E, dh          4  1  1  0   Everett C, ph-cf      1  0  0  0   
+Hernandez R, c        5  2  3  5   Thomas F, dh          4  0  1  0   
+Long T, lf            5  0  1  0   Ordonez M, rf         4  0  0  0   
+Ellis M, 2b           4  1  0  0   Lee C, lf             4  0  1  0   
+Singleton C, cf       4  0  1  0   Konerko P, 1b         4  1  1  0   
+                                   Crede J, 3b           4  1  2  1   
+                                   Valentin J, ss        4  0  0  0   
+                                   Burke J, c            2  0  1  1   
+                                   Harris W, ph-2b       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  7 13  7                        36  2  9  2
+
+Oakland          312 000 001 --  7
+Chicago          000 020 000 --  2
+
+  Oakland              IP  H  R ER BB SO
+Lilly T               4.1  7  2  2  0  3
+Bradford C (W)        2.1  0  0  0  1  5
+Rincon R              0.1  0  0  0  0  0
+Harville C            1.0  1  0  0  0  1
+Foulke K              1.0  1  0  0  0  2
+
+  Chicago              IP  H  R ER BB SO
+Garland J (L)         5.0  9  6  3  1  3
+Wunsch K              1.0  0  0  0  0  0
+Wright D              1.0  1  0  0  1  0
+Schoeneweis S         1.0  1  0  0  0  1
+Koch B                1.0  2  1  1  0  0
+
+E -- Konerko P
+LOB -- Oakland 10, Chicago 8
+2B -- Hernandez R, Singleton C, Konerko P, Crede J
+HR -- Hernandez R 2
+HBP -- by Wunsch K (Hatteberg S)
+T -- 3:01
+A -- 36151
+     Game of 8/10/2003 -- Oakland at Chicago (D)
+
+  Oakland            AB  R  H RBI    Chicago            AB  R  H RBI
+McMillon B, lf        4  0  0  0   Alomar R, 2b          5  1  1  0   
+Guillen J, cf         4  0  0  0   Lee C, lf             4  1  1  1   
+Chavez E, 3b          4  0  2  0   Harris W, cf          0  0  0  0   
+Tejada M, ss          3  0  0  0   Thomas F, dh          3  0  1  1   
+Durazo E, 1b          3  0  0  0   Ordonez M, rf         4  0  2  0   
+Hatteberg S, dh       4  0  1  0   Everett C, cf-lf      4  1  2  1   
+Ellis M, 2b           3  0  0  0   Rowand A, lf          0  0  0  0   
+Long T, rf            3  0  0  0   Konerko P, 1b         4  2  1  1   
+Melhuse A, c          3  1  1  1   Valentin J, ss        4  0  0  0   
+                                   Crede J, 3b           4  0  2  1   
+                                   Alomar S, c           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  4  1                        35  5 10  5
+
+Oakland          000 000 010 --  1
+Chicago          000 021 02x --  5
+
+  Oakland              IP  H  R ER BB SO
+Harden R (L)          5.0  6  2  2  1  8
+Halama J              2.0  2  1  1  0  1
+Harville C            0.2  2  2  2  1  1
+Neu M                 0.1  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (W)          8.0  4  1  1  1  6
+Marte D               1.0  0  0  0  1  0
+
+LOB -- Oakland 5, Chicago 8
+2B -- Thomas F, Hatteberg S
+3B -- Lee C
+HR -- Konerko P, Melhuse A, Everett C
+WP -- Harden R, Harville C
+T -- 2:45
+A -- 29442
+     Game of 8/18/2003 -- Anaheim at Chicago (N)
+
+  Anaheim            AB  R  H RBI    Chicago            AB  R  H RBI
+Figgins C, cf         4  0  1  0   Graffanino T, 3b      4  1  1  0   
+Owens E, rf           4  0  1  0   Alomar R, 2b          3  1  1  0   
+Anderson G, lf        4  0  1  1   Thomas F, dh          4  2  2  4   
+Salmon T, dh          4  0  1  0   Ordonez M, rf         3  0  0  0   
+Spiezio S, 3b         3  0  0  0   Lee C, lf             3  0  0  0   
+Molina B, c           3  0  0  0   Everett C, cf         2  0  0  0   
+Riggs A, 1b           3  1  2  0   Konerko P, 1b         3  0  0  0   
+Quinlan R, 1b         1  0  0  0   Valentin J, ss        3  0  0  0   
+Kennedy A, 2b         3  0  0  0   Alomar S, c           3  0  0  0   
+Amezaga A, ss         1  1  0  1                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  6  2                        28  4  4  4
+
+Anaheim          001 000 100 --  2
+Chicago          000 000 202 --  4
+  1 out when winning run was scored.
+
+  Anaheim              IP  H  R ER BB SO
+Washburn J (L)        8.1  4  4  4  0  2
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M             8.0  6  2  2  1  5
+Gordon T (W)          1.0  0  0  0  1  0
+
+E -- Spiezio S
+DP -- Anaheim 1
+LOB -- Anaheim 6, Chicago 1
+2B -- Riggs A, Graffanino T
+HR -- Thomas F 2
+SH -- Kennedy A, Amezaga A, Molina B, Alomar R
+HBP -- by Washburn J (Everett C)
+T -- 2:07
+A -- 32381
+     Game of 8/19/2003 -- Anaheim at Chicago (N)
+
+  Anaheim            AB  R  H RBI    Chicago            AB  R  H RBI
+Figgins C, cf         4  0  1  0   Alomar R, 2b          4  0  1  0   
+DaVanon J, rf         4  0  1  0   Lee C, lf             4  1  2  3   
+Anderson G, lf        3  0  0  0   Thomas F, dh          4  1  2  1   
+Salmon T, dh          3  0  0  0   Ordonez M, rf         3  0  1  0   
+Spiezio S, 3b         3  0  1  0   Everett C, cf         4  0  2  1   
+Molina B, c           4  0  0  0   Harris W, cf          0  0  0  0   
+Kennedy A, 2b         3  0  0  0   Konerko P, 1b         4  0  1  0   
+Riggs A, 1b           3  1  1  1   Valentin J, ss        4  0  1  0   
+Amezaga A, ss         3  1  1  1   Graffanino T, 3b      4  2  0  0   
+                                   Olivo M, c            3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        34  5 11  5
+
+Anaheim          000 010 010 --  2
+Chicago          000 010 40x --  5
+
+  Anaheim              IP  H  R ER BB SO
+Shields S (L)         6.1 10  5  3  1  5
+Weber B               0.2  1  0  0  0  0
+Glover G              1.0  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Garland J (W)         8.0  5  2  2  3  1
+Gordon T (S)          1.0  0  0  0  0  1
+
+E -- Amezaga A
+DP -- Chicago 2
+LOB -- Anaheim 4, Chicago 7
+2B -- DaVanon J, Konerko P, Everett C
+HR -- Riggs A, Amezaga A
+CS -- Ordonez M
+HBP -- by Shields S (Olivo M)
+T -- 2:31
+A -- 22396
+     Game of 8/20/2003 -- Anaheim at Chicago (N)
+
+  Anaheim            AB  R  H RBI    Chicago            AB  R  H RBI
+Figgins C, cf         5  0  4  1   Alomar R, 2b          5  0  4  0   
+DaVanon J, rf         3  0  0  0   Lee C, lf             4  0  0  0   
+Anderson G, lf        4  0  2  1   Thomas F, dh          4  0  0  0   
+Salmon T, dh          4  0  0  0   Ordonez M, rf         4  2  2  1   
+Spiezio S, 3b         3  0  0  0   Everett C, cf         2  1  1  2   
+Riggs A, 1b           3  1  1  1   Harris W, cf          0  0  0  0   
+Kennedy A, 2b         4  0  1  0   Daubach B, 1b         1  1  0  0   
+Molina J, c           2  0  0  0   Konerko P, 1b         1  0  0  0   
+Durrington T, ph      1  1  1  0   Valentin J, ss        4  1  1  2   
+Wooten S, c           1  0  0  0   Graffanino T, 3b      4  0  1  0   
+Amezaga A, ss         4  1  1  0   Olivo M, c            3  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3 10  3                        32  5 11  5
+
+Anaheim          010 000 200 --  3
+Chicago          021 010 10x --  5
+
+  Anaheim              IP  H  R ER BB SO
+Lackey J (L)          5.2  8  4  3  3  3
+Jones G               1.1  2  1  1  0  2
+Donnelly B            1.0  1  0  0  0  3
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (W)*         6.0 10  3  3  2  9
+Marte D (S)           3.0  0  0  0  1  5
+  * Pitched to 4 batters in 7th
+
+E -- Donnelly B
+DP -- Anaheim 1
+LOB -- Anaheim 9, Chicago 8
+2B -- Anderson G, Olivo M
+3B -- Figgins C
+HR -- Riggs A, Valentin J, Ordonez M, Everett C
+SB -- Alomar R 2, Ordonez M, Riggs A
+CS -- Figgins C, Kennedy A
+SF -- Everett C, Anderson G
+HBP -- by Lackey J (Olivo M), by Loaiza E (Spiezio S)
+PB -- Molina J
+T -- 2:49
+A -- 17879
+     Game of 8/21/2003 -- Texas at Chicago (N)
+
+  Texas              AB  R  H RBI    Chicago            AB  R  H RBI
+Young M, 2b           5  0  2  0   Alomar R, 2b          4  1  0  0   
+Blalock H, 3b         4  0  0  0   Lee C, lf             4  0  1  1   
+Rodriguez A, ss       4  1  1  1   Rowand A, lf          0  0  0  0   
+Palmeiro R, dh        3  1  1  1   Thomas F, dh          4  2  2  1   
+Teixeira M, 1b        4  0  0  0   Ordonez M, rf         4  0  1  1   
+Nix L, rf             3  1  1  0   Everett C, cf         3  0  2  0   
+Thames M, ph          0  0  0  0   Harris W, pr-cf       0  0  0  0   
+Greene T, c           4  0  0  0   Konerko P, 1b         4  1  0  0   
+Jones J, lf           3  0  1  1   Valentin J, ss        3  1  1  1   
+Nivar R, cf           3  0  0  0   Crede J, 3b           4  2  3  3   
+                                   Olivo M, c            4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        34  7 10  7
+
+Texas            000 002 100 --  3
+Chicago          201 101 20x --  7
+
+  Texas                IP  H  R ER BB SO
+Lewis C (L)           5.2  8  5  5  4  2
+Powell J              0.2  0  0  0  1  1
+Fultz A               1.2  2  2  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Colon B (W)           7.0  6  3  3  2  5
+Wunsch K              1.1  0  0  0  2  1
+Gordon T (S)          0.2  0  0  0  0  2
+
+E -- Young M, Valentin J
+DP -- Texas 1, Chicago 1
+LOB -- Texas 7, Chicago 8
+2B -- Nix L
+3B -- Crede J
+HR -- Thomas F, Rodriguez A, Palmeiro R, Crede J
+SB -- Lee C
+WP -- Lewis C
+T -- 2:48
+A -- 18305
+     Game of 8/22/2003 -- Texas at Chicago (N)
+
+  Texas              AB  R  H RBI    Chicago            AB  R  H RBI
+Young M, 2b           5  0  1  0   Alomar R, 2b          2  0  0  0   
+Thames M, rf          5  1  1  0   Lee C, lf             3  0  0  0   
+Rodriguez A, ss       4  0  1  1   Rowand A, cf-lf       0  0  0  0   
+Palmeiro R, dh        3  0  1  0   Thomas F, dh          4  1  1  1   
+Spencer S, lf         2  0  1  0   Ordonez M, rf         4  0  0  0   
+Teixeira M, 1b        3  0  0  0   Everett C, cf-lf      2  3  1  1   
+Sadler D, 3b          1  0  0  0   Harris W, cf          0  0  0  0   
+Blalock H, ph-3b      2  0  1  0   Konerko P, 1b         2  1  0  0   
+Diaz E, c             3  0  0  0   Valentin J, ss        4  2  2  4   
+Nivar R, cf           4  0  0  0   Crede J, 3b           3  0  0  0   
+                                   Alomar S, c           3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        27  7  5  6
+
+Texas            000 010 000 --  1
+Chicago          031 001 02x --  7
+
+  Texas                IP  H  R ER BB SO
+Dominguez J (L)       5.1  3  5  4  6  2
+Benoit J              2.2  2  2  2  1  1
+
+  Chicago              IP  H  R ER BB SO
+Cotts N (W)*          5.0  5  1  1  5  3
+Sullivan S            2.0  0  0  0  0  3
+Wunsch K              1.0  1  0  0  0  1
+Schoeneweis S         1.0  0  0  0  0  1
+  * Pitched to 2 batters in 6th
+
+E -- Nivar R
+DP -- Texas 2, Chicago 1
+LOB -- Texas 10, Chicago 4
+2B -- Rodriguez A
+HR -- Valentin J 2, Thomas F, Everett C
+SB -- Everett C 2
+SH -- Alomar R
+HBP -- by Sullivan S (Diaz E)
+WP -- Dominguez J
+T -- 2:34
+A -- 36311
+     Game of 8/23/2003 -- Texas at Chicago (N)
+
+  Texas              AB  R  H RBI    Chicago            AB  R  H RBI
+Young M, 2b           4  0  0  0   Alomar R, 2b          3  1  1  1   
+Jones J, 1b           0  0  0  0   Graffanino T, ph-2b   1  1  1  0   
+Blalock H, 3b-2b      4  1  1  1   Lee C, lf             5  3  3  4   
+Rodriguez A, ss       2  0  0  0   Thomas F, dh          5  2  2  5   
+Sadler D, ph-ss       1  0  0  0   Ordonez M, rf         4  1  2  0   
+Palmeiro R, dh        4  0  1  0   Rowand A, rf          1  0  0  0   
+Spencer S, lf         4  0  1  0   Everett C, cf         3  0  2  0   
+Teixeira M, 1b-3b     4  0  2  0   Harris W, cf          1  0  0  0   
+Thames M, rf          3  0  1  0   Daubach B, 1b         4  0  1  1   
+Nix L, rf             1  0  0  0   Valentin J, ss        4  1  1  1   
+Greene T, c           4  1  1  0   Crede J, 3b           4  3  3  1   
+Nivar R, cf           4  0  1  1   Alomar S, c           4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2  8  2                        39 13 17 13
+
+Texas            000 010 010 --  2
+Chicago          003 610 30x -- 13
+
+  Texas                IP  H  R ER BB SO
+Valdes I (L)          3.2  9  7  7  1  1
+Powell J              2.0  4  3  3  1  1
+Ramirez E             1.1  4  3  3  0  0
+Cordero F             1.0  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (W)         6.0  4  1  0  1  3
+Wright D (S)          3.0  4  1  1  0  0
+
+DP -- Texas 1
+LOB -- Texas 7, Chicago 5
+2B -- Alomar R, Lee C, Daubach B, Crede J
+HR -- Thomas F 2, Valentin J, Crede J, Lee C, Blalock H
+SF -- Alomar R
+PB -- Alomar S
+T -- 2:22
+A -- 33721
+     Game of 8/24/2003 -- Texas at Chicago (D)
+
+  Texas              AB  R  H RBI    Chicago            AB  R  H RBI
+Sadler D, 2b-rf       5  1  1  0   Alomar R, 2b          4  0  0  0   
+Blalock H, 3b         4  1  1  2   Lee C, lf             4  0  1  0   
+Rodriguez A, ss       3  1  1  0   Thomas F, dh          3  0  0  0   
+Palmeiro R, dh        2  1  0  0   Ordonez M, rf         4  0  2  0   
+Spencer S, rf-lf      3  0  1  0   Everett C, cf         4  0  0  0   
+Teixeira M, 1b        4  0  1  2   Konerko P, 1b         3  0  1  0   
+Nix L, cf             4  0  0  0   Valentin J, ss        3  0  0  0   
+Greene T, c           4  1  1  0   Crede J, 3b           3  0  0  0   
+Jones J, lf           4  0  0  0   Olivo M, c            2  0  0  0   
+Young M, 2b           0  0  0  0   Daubach B, ph         1  0  0  0   
+                                   Alomar S, c           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  6  4                        31  0  4  0
+
+Texas            002 000 030 --  5
+Chicago          000 000 000 --  0
+
+  Texas                IP  H  R ER BB SO
+Thomson J (W)         9.0  4  0  0  1  6
+
+  Chicago              IP  H  R ER BB SO
+Garland J (L)*        7.0  5  3  3  2 10
+Wunsch K              0.1  0  2  1  2  0
+Sullivan S            0.2  1  0  0  0  1
+Marte D               1.0  0  0  0  0  2
+  * Pitched to 1 batter in 8th
+
+E -- Lee C
+LOB -- Texas 5, Chicago 5
+2B -- Rodriguez A, Teixeira M
+HR -- Blalock H
+SB -- Sadler D
+WP -- Garland J
+T -- 2:26
+A -- 29364
+     Game of 9/2/2003 -- Boston at Chicago (N)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Damon J, cf           4  0  0  0   Alomar R, 2b          3  1  1  0   
+Walker T, 2b          4  0  0  0   Lee C, lf             4  0  1  0   
+Jackson D, 2b         0  0  0  0   Thomas F, dh          3  0  0  0   
+Garciaparra N, ss     3  0  0  0   Ordonez M, rf         3  0  0  0   
+Ortiz D, dh           3  0  0  0   Everett C, cf         3  0  0  1   
+Millar K, 1b          2  0  0  0   Konerko P, 1b         4  0  1  0   
+Nixon T, rf           3  1  1  1   Valentin J, ss        3  0  0  0   
+Mueller B, 3b         3  0  0  0   Crede J, 3b           4  0  1  0   
+Varitek J, c          3  0  0  0   Olivo M, c            2  0  0  0   
+Kapler G, lf          3  1  1  1   Rios A, ph            1  0  0  0   
+                                   Alomar S, c           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  2  2  2                        30  1  4  1
+
+Boston           010 001 000 --  2
+Chicago          100 000 000 --  1
+
+  Boston               IP  H  R ER BB SO
+Burkett J (W)         6.0  3  1  1  1  4
+Lyon B                0.1  1  0  0  0  0
+Williamson S          1.2  0  0  0  0  1
+Kim B (S)             1.0  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Colon B (L)           9.0  2  2  2  1  5
+
+DP -- Boston 1, Chicago 1
+LOB -- Boston 0, Chicago 7
+2B -- Alomar R, Lee C, Crede J
+HR -- Nixon T, Kapler G
+HBP -- by Burkett J (Thomas F), by Burkett J (Valentin J), by Burkett J (Everett C), by Lyon B (Alomar R)
+T -- 2:41
+A -- 23943
+     Game of 9/3/2003 -- Boston at Chicago (N)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Damon J, cf           5  0  1  0   Alomar R, 2b          4  2  2  0   
+Mueller B, 3b         5  0  1  0   Lee C, lf             5  0  2  1   
+Garciaparra N, ss     5  1  1  0   Thomas F, dh          3  0  1  0   
+Ramirez M, lf         4  1  2  0   Rowand A, pr          0  0  0  0   
+Ortiz D, dh           5  2  3  4   Ordonez M, rf         5  0  3  1   
+Millar K, 1b          3  0  0  0   Everett C, cf         4  0  0  0   
+Varitek J, c          5  1  2  1   Harris W, cf          1  0  0  0   
+Kapler G, rf          4  0  0  0   Konerko P, 1b         4  0  1  0   
+Jackson D, 2b         4  0  1  0   Valentin J, ss        5  1  2  1   
+                                   Crede J, 3b           5  1  1  0   
+                                   Alomar S, c           3  0  1  0   
+                                   Daubach B, ph         0  0  0  0   
+                                   Graffanino T, ph      1  0  0  0   
+                                   Olivo M, c            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  5 11  5                        40  4 13  3
+
+Boston           100 000 120 1 --  5
+Chicago          001 010 110 0 --  4
+
+  Boston               IP  H  R ER BB SO
+Lowe D                7.0 10  3  3  4  3
+Timlin M              0.1  1  1  1  0  0
+Sauerbeck S           0.2  0  0  0  0  1
+Kim B (W)             2.0  2  0  0  0  2
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M             6.2  8  2  2  1  3
+Sullivan S*           0.1  1  2  2  2  1
+Marte D               1.2  1  0  0  0  1
+Gordon T (L)          1.1  1  1  1  0  0
+  * Pitched to 3 batters in 8th
+
+E -- Mueller B
+DP -- Boston 2
+LOB -- Boston 8, Chicago 10
+2B -- Lee C 2, Ramirez M, Ordonez M
+HR -- Varitek J, Ortiz D 2, Valentin J
+SB -- Damon J
+WP -- Marte D
+T -- 3:14
+A -- 20082
+     Game of 9/5/2003 -- Cleveland at Chicago (N)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Crisp C, cf           4  1  1  0   Graffanino T, ss      5  0  2  0   
+Blake C, 3b           2  0  0  0   Alomar R, 2b          4  0  1  0   
+Gerut J, lf           3  0  1  0   Thomas F, dh          4  0  0  0   
+Broussard B, 1b       4  1  1  1   Ordonez M, rf         4  1  1  1   
+Escobar A, rf         4  0  0  0   Lee C, lf             3  1  1  0   
+Hafner T, dh          4  0  1  1   Everett C, cf         4  2  3  0   
+Martinez V, c         3  0  2  0   Rowand A, cf          0  0  0  0   
+Sorensen Z, pr        0  0  0  0   Konerko P, 1b         2  1  2  3   
+Peralta J, ss         2  0  0  0   Crede J, 3b           4  0  1  1   
+Lawton M, ph          1  0  0  0   Olivo M, c            4  0  0  0   
+Phillips B, 2b        4  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  7  3                        34  5 11  5
+
+Cleveland        000 000 120 --  3
+Chicago          030 110 00x --  5
+
+  Cleveland            IP  H  R ER BB SO
+Traber B (L)          4.2  9  5  5  1  2
+Santiago J            2.1  2  0  0  2  1
+Cressend J            1.0  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Garland J (W)         7.1  5  2  2  3  3
+Sullivan S*           0.0  1  1  1  1  0
+Marte D               1.0  1  0  0  0  2
+Gordon T (S)          0.2  0  0  0  0  2
+  * Pitched to 2 batters in 8th
+
+DP -- Chicago 3
+LOB -- Cleveland 6, Chicago 10
+2B -- Gerut J, Crede J, Martinez V, Everett C
+3B -- Broussard B
+HR -- Konerko P, Ordonez M, Phillips B
+SB -- Lee C
+SH -- Alomar R
+HBP -- by Traber B (Lee C), by Marte D (Gerut J)
+T -- 2:50
+A -- 27196
+     Game of 9/6/2003 -- Cleveland at Chicago (D)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Crisp C, cf           4  0  0  0   Graffanino T, 2b      2  1  0  0   
+Phillips B, 2b        4  0  0  0   Alomar R, ph-2b       2  1  1  0   
+Gerut J, lf           3  1  1  3   Lee C, lf             5  1  3  1   
+Blake C, 3b           4  0  1  0   Harris W, cf          0  0  0  0   
+Broussard B, 1b       4  1  2  0   Thomas F, dh          5  0  0  0   
+Escobar A, rf         4  0  0  0   Ordonez M, rf         3  2  1  0   
+Hafner T, dh          4  0  1  0   Konerko P, 1b         4  2  2  3   
+Bard J, c             4  2  2  2   Everett C, cf         4  1  2  3   
+Peralta J, ss         3  1  1  0   Rowand A, cf-lf       0  0  0  0   
+                                   Crede J, 3b           4  0  2  1   
+                                   Valentin J, ss        3  0  0  0   
+                                   Olivo M, c            2  0  1  0   
+                                   Daubach B, ph         1  0  0  0   
+                                   Alomar S, c           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5  8  5                        36  8 12  8
+
+Cleveland        003 200 000 --  5
+Chicago          400 001 30x --  8
+
+  Cleveland            IP  H  R ER BB SO
+Stanford J            5.0  5  4  4  2  6
+Betancourt R          1.0  1  1  1  1  3
+Cressend J (L)        0.2  2  2  2  0  1
+Baez D                0.1  3  1  1  0  0
+Boyd J                1.0  1  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (W)          7.0  8  5  5  2 10
+Marte D               1.0  0  0  0  0  3
+Gordon T (S)          1.0  0  0  0  0  0
+
+LOB -- Cleveland 5, Chicago 7
+2B -- Crede J 2, Peralta J, Olivo M, Ordonez M
+HR -- Everett C, Gerut J, Bard J, Konerko P
+SB -- Graffanino T, Lee C 2
+SH -- Crisp C
+T -- 2:49
+A -- 24796
+     Game of 9/7/2003 -- Cleveland at Chicago (D)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Crisp C, cf           5  0  0  0   Graffanino T, ss      1  0  0  0   
+Blake C, 3b           3  1  2  1   Valentin J, ph-ss     1  0  0  0   
+Gerut J, lf           4  0  1  0   Alomar R, 2b          3  2  0  0   
+Broussard B, 1b       4  1  2  1   Thomas F, dh          3  2  1  3   
+Martinez V, c         4  0  1  0   Ordonez M, rf         3  0  1  1   
+Hafner T, dh          2  0  0  0   Lee C, lf             3  0  0  1   
+Laker T, ph           1  0  0  0   Rowand A, lf          0  0  0  0   
+Escobar A, rf         3  1  0  0   Everett C, cf         2  0  0  0   
+Santos A, 2b          4  0  1  0   Harris W, pr-cf       0  1  0  0   
+Peralta J, ss         2  0  0  1   Konerko P, 1b         4  1  3  2   
+Sorensen Z, ph        1  0  0  0   Crede J, 3b           4  1  2  0   
+                                   Alomar S, c           3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        27  7  8  7
+
+Cleveland        010 001 100 --  3
+Chicago          000 002 32x --  7
+
+  Cleveland            IP  H  R ER BB SO
+Lee C                 5.1  4  2  2  4  4
+Baez D (L)            1.2  2  3  3  2  1
+Lee D                 0.2  2  2  2  2  1
+Riske D               0.1  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Wright D*             5.0  5  2  2  1  4
+Wunsch K              1.0  0  0  0  0  1
+Sullivan S            0.1  1  1  1  1  0
+Schoeneweis S (W)     0.2  0  0  0  1  1
+Marte D               1.0  1  0  0  0  3
+Gordon T              1.0  0  0  0  0  2
+  * Pitched to 2 batters in 6th
+
+LOB -- Cleveland 7, Chicago 7
+2B -- Broussard B, Santos A
+3B -- Gerut J
+HR -- Broussard B, Blake C, Thomas F, Konerko P
+CS -- Ordonez M
+SH -- Alomar R, Alomar S
+SF -- Lee C, Peralta J
+WP -- Lee C
+T -- 2:56
+A -- 19999
+     Game of 9/8/2003 -- Minnesota at Chicago (N)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Stewart S, lf         5  0  1  0   Alomar R, 2b          4  0  0  0   
+Hocking D, 2b         4  0  0  0   Lee C, lf             4  1  2  0   
+Mientkiewicz D, 1b    4  0  2  0   Thomas F, dh          3  1  1  0   
+LeCroy M, dh          3  1  1  0   Ordonez M, rf         4  0  2  0   
+Jones J, rf           4  0  0  0   Everett C, cf         3  1  1  1   
+Hunter T, cf          4  1  1  1   Rowand A, cf          0  0  0  0   
+Koskie C, 3b          4  0  2  0   Konerko P, 1b         3  1  0  0   
+Pierzynski A, c       4  0  1  1   Valentin J, ss        4  1  1  2   
+Guzman C, ss          4  0  2  0   Crede J, 3b           4  0  1  0   
+                                   Olivo M, c            2  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     36  2 10  2                        31  5  9  5
+
+Minnesota        020 000 000 --  2
+Chicago          500 000 00x --  5
+
+  Minnesota            IP  H  R ER BB SO
+Lohse K (L)           6.0  7  5  5  4  0
+Rincon J              0.1  2  0  0  0  0
+Romero J              1.2  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Colon B (W)           9.0 10  2  2  1  4
+
+E -- Valentin J, Pierzynski A
+DP -- Minnesota 2, Chicago 2
+LOB -- Minnesota 8, Chicago 6
+2B -- Lee C, Olivo M, Hunter T, LeCroy M, Pierzynski A, Stewart S
+SB -- Ordonez M
+WP -- Colon B, Lohse K
+T -- 2:42
+A -- 32807
+     Game of 9/9/2003 -- Minnesota at Chicago (N)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Stewart S, lf         3  0  0  0   Graffanino T, ss      3  0  1  1   
+Ford L, ph            1  1  1  0   Valentin J, ph-ss     2  0  0  0   
+Gomez C, 2b           2  0  0  0   Alomar R, 2b          4  1  1  1   
+Ryan M, ph            1  0  0  0   Thomas F, dh          3  1  1  0   
+Hocking D, 2b-ss      1  1  1  1   Ordonez M, rf         5  2  2  2   
+Mientkiewicz D, 1b    4  1  2  0   Lee C, lf             4  2  3  2   
+Morneau J, ph         1  1  1  1   Everett C, cf         4  0  1  0   
+LeCroy M, dh          5  0  0  0   Rowand A, cf          0  0  0  0   
+Koskie C, 3b          3  2  3  0   Konerko P, 1b         2  1  0  0   
+Hunter T, cf          4  0  1  1   Crede J, 3b           4  1  2  1   
+Pierzynski A, c       3  0  1  2   Alomar S, c           3  0  1  1   
+Mohr D, rf            2  0  1  0                                      
+Jones J, ph           1  0  1  1                                      
+Guzman C, ss          3  0  0  0                                      
+Cuddyer M, ph-2b      2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  6 12  6                        34  8 12  8
+
+Minnesota        000 200 004 --  6
+Chicago          030 010 40x --  8
+
+  Minnesota            IP  H  R ER BB SO
+Pulido C (L)          3.0  4  3  3  2  1
+Reed R                3.2  4  3  3  1  0
+Balfour G             0.1  3  2  2  0  0
+Orosco J              1.0  1  0  0  2  1
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (W)         6.0  7  2  2  3  2
+Sullivan S            1.2  0  0  0  1  2
+Schoeneweis S         0.1  1  0  0  1  0
+Paniagua J            0.1  3  4  4  1  0
+Gordon T (S)          0.2  1  0  0  1  1
+
+DP -- Minnesota 1, Chicago 1
+LOB -- Minnesota 12, Chicago 8
+2B -- Crede J, Lee C, Hunter T, Koskie C, Thomas F, Ford L
+3B -- Hocking D
+HR -- Ordonez M, Alomar R, Lee C
+SB -- Lee C
+SF -- Alomar S, Pierzynski A
+HBP -- by Buehrle M (Pierzynski A)
+T -- 3:18
+A -- 27623
+     Game of 9/10/2003 -- Minnesota at Chicago (N)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Stewart S, lf         4  0  2  2   Graffanino T, 2b      3  1  1  0   
+Rivas L, 2b           5  0  0  0   Alomar R, ph-2b       1  0  0  0   
+Mientkiewicz D, 1b    3  1  1  0   Lee C, lf             4  0  1  0   
+LeCroy M, dh          3  0  2  1   Thomas F, dh          4  0  1  0   
+Mohr D, pr            0  0  0  0   Ordonez M, rf         2  0  1  1   
+Jones J, rf           4  0  0  0   Konerko P, 1b         4  0  1  0   
+Hunter T, cf          3  1  1  0   Everett C, cf         4  0  1  0   
+Koskie C, 3b          3  2  1  0   Crede J, 3b           3  0  0  0   
+Pierzynski A, c       3  0  1  0   Valentin J, ss        2  0  0  0   
+Guzman C, ss          2  0  0  1   Rowand A, ph          1  0  0  0   
+                                   Olivo M, c            2  0  0  0   
+                                   Daubach B, ph         1  0  0  0   
+                                   Alomar S, c           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  4  8  4                        31  1  6  1
+
+Minnesota        000 020 110 --  4
+Chicago          000 001 000 --  1
+
+  Minnesota            IP  H  R ER BB SO
+Santana J (W)         6.1  6  1  1  1  6
+Hawkins L             1.2  0  0  0  1  1
+Guardado E (S)        1.0  0  0  0  0  2
+
+  Chicago              IP  H  R ER BB SO
+Garland J (L)         7.0  7  3  3  2  5
+Wunsch K*             1.0  1  1  1  2  1
+Sullivan S            1.0  0  0  0  0  0
+  * Pitched to 1 batter in 9th
+
+DP -- Chicago 2
+LOB -- Minnesota 7, Chicago 7
+2B -- LeCroy M
+SH -- Valentin J
+SF -- Guzman C, Stewart S, Ordonez M
+HBP -- by Garland J (Pierzynski A), by Wunsch K (Mientkiewicz D)
+WP -- Santana J
+T -- 2:54
+A -- 22188
+     Game of 9/11/2003 -- Minnesota at Chicago (D)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Stewart S, lf         5  1  1  2   Alomar R, 2b          3  0  1  0   
+Hocking D, 2b         4  0  1  2   Lee C, lf             4  0  1  0   
+Mientkiewicz D, 1b    3  0  1  0   Thomas F, dh          4  1  1  1   
+LeCroy M, dh          4  0  0  0   Ordonez M, rf         4  0  0  0   
+Koskie C, 3b          4  0  0  0   Everett C, cf         4  0  1  0   
+Hunter T, cf          4  0  2  0   Daubach B, 1b         4  0  1  0   
+Jones J, rf           4  1  1  0   Valentin J, ss        4  1  2  1   
+Pierzynski A, c       4  2  3  0   Crede J, 3b           4  0  1  0   
+Guzman C, ss          3  1  0  0   Olivo M, c            2  0  1  0   
+                                   Miles A, ph           1  0  0  0   
+                                   Burke J, c            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  4                        34  2  9  2
+
+Minnesota        004 000 100 --  5
+Chicago          100 000 001 --  2
+
+  Minnesota            IP  H  R ER BB SO
+Radke B (W)           9.0  9  2  2  0  5
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (L)          7.0  7  5  5  1  9
+Koch B                0.2  1  0  0  0  2
+Schoeneweis S         1.1  1  0  0  0  1
+
+E -- Everett C, Valentin J
+LOB -- Minnesota 6, Chicago 6
+2B -- Stewart S, Pierzynski A, Hunter T
+HR -- Thomas F, Valentin J
+SB -- Valentin J
+SH -- Alomar R
+SF -- Hocking D
+HBP -- by Loaiza E (Guzman C)
+T -- 2:30
+A -- 20541
+     Game of 9/19/2003 -- Kansas City at Chicago (N)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Berroa A, ss          4  0  1  0   Alomar R, 2b          4  0  1  0   
+Beltran C, cf         4  1  0  0   Lee C, lf             4  1  0  1   
+Sweeney M, dh         4  1  1  3   Harris W, cf          0  0  0  0   
+Ibanez R, rf          4  0  1  0   Thomas F, dh          4  1  3  3   
+Randa J, 3b           4  0  1  0   Ordonez M, rf         4  1  1  2   
+White R, lf           4  1  1  0   Everett C, cf         4  0  1  0   
+Harvey K, 1b          4  1  1  1   Rowand A, cf-lf       0  0  0  0   
+DiFelice M, c         2  1  1  1   Konerko P, 1b         3  0  0  0   
+Guiel A, ph           1  0  0  0   Valentin J, ss        4  2  3  1   
+Relaford D, 2b        3  0  0  0   Crede J, 3b           3  1  1  0   
+                                   Alomar S, c           4  2  2  1   
+                     -- -- -- --                        -- -- -- --
+                     34  5  7  5                        34  8 12  8
+
+Kansas City      003 000 200 --  5
+Chicago          003 000 41x --  8
+
+  Kansas City          IP  H  R ER BB SO
+Wright J              6.0  5  3  1  2  5
+Carrasco D (L)        1.0  5  4  4  0  1
+Levine A              1.0  2  1  1  0  0
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (W)         7.2  7  5  5  1  4
+Gordon T (S)          1.1  0  0  0  0  0
+
+E -- Relaford D, White R
+LOB -- Kansas City 3, Chicago 6
+2B -- Valentin J, Thomas F 2, Harvey K, DiFelice M, Alomar R
+HR -- Sweeney M, Ordonez M, Valentin J
+SB -- Valentin J
+SH -- Alomar R
+SF -- Lee C
+T -- 2:21
+A -- 32812
+     Game of 9/20/2003 -- Kansas City at Chicago (N)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Berroa A, ss          4  1  1  0   Graffanino T, ss      4  0  0  0   
+Beltran C, cf         4  2  3  0   Alomar R, 2b          3  0  1  0   
+Sweeney M, dh         4  0  1  1   Thomas F, dh          3  1  1  1   
+Ibanez R, 1b-lf       4  0  1  2   Ordonez M, rf         4  0  1  0   
+Randa J, 3b           4  1  2  1   Lee C, lf             4  0  0  0   
+Guiel A, rf           5  1  1  0   Everett C, cf         3  0  0  0   
+White R, lf           4  0  3  2   Konerko P, 1b         3  0  0  0   
+Lopez M, pr-1b        0  0  0  0   Crede J, 3b           3  0  0  0   
+Relaford D, 2b        5  1  2  0   Olivo M, c            3  0  2  0   
+Mayne B, c            4  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  7 14  6                        30  1  5  1
+
+Kansas City      003 000 202 --  7
+Chicago          100 000 000 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Anderson B (W)        9.0  5  1  1  2  2
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (L)          6.0  7  3  3  3  6
+Schoeneweis S         0.1  2  2  1  0  0
+Sullivan S*           0.0  0  0  0  1  0
+Wunsch K              0.1  0  0  0  1  0
+Koch B                2.1  5  2  2  0  3
+  * Pitched to 1 batter in 7th
+
+E -- Graffanino T
+DP -- Kansas City 2
+LOB -- Kansas City 11, Chicago 4
+2B -- White R, Beltran C, Guiel A
+HR -- Thomas F
+SB -- Relaford D, Beltran C, Berroa A
+SH -- Berroa A
+SF -- Ibanez R
+PB -- Olivo M
+T -- 2:36
+A -- 37367
+     Game of 9/21/2003 -- Kansas City at Chicago (D)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Berroa A, ss          4  1  0  0   Graffanino T, 2b-ss   3  2  2  0   
+Beltran C, cf         4  1  1  0   Rowand A, cf-rf       4  1  2  3   
+DeJesus D, cf         0  0  0  0   Thomas F, dh          4  0  1  0   
+Sweeney M, dh         2  3  1  1   Ordonez M, rf         2  0  0  1   
+Patterson J, ph       1  0  0  0   Miles A, 2b           1  0  0  0   
+Ibanez R, 1b          5  1  2  0   Lee C, lf             3  0  0  0   
+Randa J, 3b           4  1  2  1   Rios A, lf            1  0  0  0   
+Lopez M, pr-3b        1  0  0  0   Konerko P, 1b         3  0  0  0   
+Guiel A, rf           3  1  1  3   Harris W, cf          1  0  0  0   
+White R, lf           4  2  1  2   Crede J, 3b           3  0  0  0   
+Relaford D, 2b        3  0  1  2   Valentin J, ss        2  0  0  0   
+Matos J, ph-2b        1  0  1  0   Burke J, 1b           1  0  0  0   
+Mayne B, c            4  0  0  0   Olivo M, c            3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36 10 10  9                        31  4  6  4
+
+Kansas City      403 002 100 -- 10
+Chicago          101 000 020 --  4
+
+  Kansas City          IP  H  R ER BB SO
+May D (W)             8.0  6  4  4  1  2
+MacDougal M           1.0  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Garland J (L)         2.2  6  7  7  2  1
+Schoeneweis S         3.1  1  2  0  0  4
+Adkins J              3.0  3  1  1  2  1
+
+E -- Graffanino T 2, Valentin J
+DP -- Kansas City 1, Chicago 1
+LOB -- Kansas City 5, Chicago 2
+2B -- Guiel A, Thomas F, Ibanez R 2, Olivo M
+HR -- White R, Rowand A
+SB -- Berroa A, Olivo M
+SF -- Ordonez M, Guiel A
+HBP -- by Schoeneweis S (Guiel A)
+T -- 2:31
+A -- 31539
+     Game of 9/22/2003 -- New York at Chicago (N)
+
+  New York           AB  R  H RBI    Chicago            AB  R  H RBI
+Soriano A, 2b         3  3  2  2   Graffanino T, ss-3b   5  2  2  1   
+Johnson N, 1b         3  0  2  0   Alomar R, 2b          5  1  1  0   
+Jeter D, ss           5  0  1  1   Thomas F, dh          4  1  2  2   
+Giambi J, dh          3  0  0  0   Ordonez M, rf         5  1  3  3   
+Wilson E, pr          1  0  0  0   Lee C, lf             4  0  1  0   
+Posada J, c           4  0  1  0   Konerko P, 1b         4  0  0  0   
+Williams B, cf        4  0  0  0   Rowand A, cf          3  0  1  0   
+Matsui H, lf          3  0  2  0   Miles A, ph           1  0  0  0   
+Boone A, 3b           4  0  1  0   Valentin J, ss        0  0  0  0   
+Garcia K, rf          3  0  0  0   Crede J, 3b           3  1  2  0   
+Sierra R, ph          1  0  0  0   Everett C, ph-cf      1  0  0  0   
+Rivera J, rf          0  0  0  0   Olivo M, c            2  0  0  0   
+                                   Daubach B, ph         0  0  0  0   
+                                   Alomar S, ph-c        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  9  3                        38  6 12  6
+
+New York         101 010 000 0 --  3
+Chicago          100 020 000 3 --  6
+  1 out when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Wells D               7.0  9  3  3  0  2
+Nelson J              1.2  1  0  0  0  0
+White G (L)           0.2  1  1  1  0  0
+Weaver J              0.0  1  2  2  1  0
+
+  Chicago              IP  H  R ER BB SO
+Colon B               6.0  7  3  3  4  5
+Sullivan S            1.1  0  0  0  0  0
+Marte D               1.1  1  0  0  4  0
+Gordon T (W)          1.1  1  0  0  1  2
+
+DP -- New York 1, Chicago 4
+LOB -- New York 11, Chicago 6
+2B -- Thomas F, Rowand A
+HR -- Soriano A 2, Ordonez M
+SB -- Graffanino T
+SH -- Olivo M, Boone A
+T -- 3:21
+A -- 39627
+     Game of 9/23/2003 -- New York at Chicago (N)
+
+  New York           AB  R  H RBI    Chicago            AB  R  H RBI
+Soriano A, 2b         5  1  2  0   Alomar R, 2b          4  0  0  0   
+Johnson N, dh         5  2  2  1   Lee C, lf             4  0  1  0   
+Jeter D, ss           4  1  1  0   Thomas F, dh          4  0  1  0   
+Giambi J, 1b          4  2  2  4   Ordonez M, rf         2  0  1  0   
+Posada J, c           4  0  0  0   Everett C, cf         3  0  0  0   
+Williams B, cf        3  0  1  0   Konerko P, 1b         4  0  0  0   
+Matsui H, lf          4  0  1  1   Valentin J, ss        4  0  1  0   
+Boone A, 3b           5  0  1  0   Crede J, 3b           2  0  0  0   
+Rivera J, rf          4  1  2  1   Alomar S, c           3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 12  7                        30  0  5  0
+
+New York         100 001 005 --  7
+Chicago          000 000 000 --  0
+
+  New York             IP  H  R ER BB SO
+Contreras J (W)       8.0  4  0  0  1  9
+Rivera M              1.0  1  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (L)         7.0  8  2  2  1  5
+Marte D               1.0  0  0  0  2  0
+Sullivan S            0.1  2  2  2  0  0
+Wunsch K              0.1  2  3  3  3  1
+Koch B                0.1  0  0  0  0  0
+
+DP -- New York 2
+LOB -- New York 10, Chicago 7
+2B -- Giambi J, Lee C, Thomas F, Johnson N
+HR -- Johnson N, Rivera J, Giambi J
+HBP -- by Contreras J (Ordonez M), by Contreras J (Crede J), by Rivera M (Everett C)
+T -- 2:48
+A -- 31305
+     Game of 9/24/2003 -- New York at Chicago (D)
+
+  New York           AB  R  H RBI    Chicago            AB  R  H RBI
+Soriano A, 2b         4  0  0  0   Harris W, 2b          5  1  2  1   
+Johnson N, 1b         4  0  0  0   Lee C, lf             5  1  2  2   
+Jeter D, ss           4  0  0  0   Thomas F, dh          2  1  1  1   
+Giambi J, dh          4  1  2  1   Rios A, ph            1  0  0  0   
+Posada J, c           4  1  1  0   Ordonez M, rf         4  1  1  0   
+Hernandez M, c        0  0  0  0   Everett C, cf         4  1  1  1   
+Williams B, cf        4  1  2  2   Rowand A, cf          0  0  0  0   
+Matsui H, lf          3  0  0  0   Daubach B, 1b         4  1  1  1   
+Henson D, ph          1  0  0  0   Valentin J, ss        3  1  1  3   
+Wilson E, 3b          4  1  1  0   Crede J, 3b           4  1  1  0   
+Garcia K, rf          2  0  1  0   Olivo M, c            4  1  2  0   
+Rivera J, ph-rf       1  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  4                        36  9 12  9
+
+New York         030 000 100 --  4
+Chicago          000 008 10x --  9
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         5.1 11  8  8  2  5
+Osuna A               0.2  0  0  0  1  0
+Hammond C             1.0  1  1  1  0  2
+Weaver J              1.0  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (W)          6.0  5  3  3  0  7
+Marte D               0.2  2  1  1  0  0
+Sullivan S            1.1  1  0  0  0  1
+Schoeneweis S         1.0  0  0  0  0  2
+
+LOB -- New York 4, Chicago 6
+2B -- Harris W, Williams B, Garcia K, Thomas F, Everett C, Crede J, Lee C, Rivera J, Giambi J
+HR -- Giambi J, Williams B, Valentin J, Daubach B
+SB -- Harris W
+T -- 2:45
+A -- 26019
+

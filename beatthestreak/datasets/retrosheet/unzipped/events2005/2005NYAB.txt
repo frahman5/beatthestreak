@@ -1,0 +1,3400 @@
+     Game of 4/3/2005 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Damon J, cf           4  0  0  0   Jeter D, ss           5  2  2  0   
+Renteria E, ss        4  0  0  0   Rodriguez A, 3b       6  1  2  1   
+Ramirez M, lf         4  0  0  0   Sheffield G, rf       4  2  1  1   
+Ortiz D, dh           4  1  1  0   Sierra R, dh          5  0  1  1   
+Millar K, 1b          2  1  0  0   Matsui H, lf          5  3  3  3   
+Varitek J, c          4  0  3  0   Posada J, c           4  0  2  0   
+Payton J, rf          3  0  1  1   Giambi J, 1b          2  0  1  0   
+Nixon T, ph           0  0  0  1   Martinez T, 1b        0  1  0  0   
+Mueller B, 3b         3  0  0  0   Williams B, cf        2  0  0  1   
+Bellhorn M, 2b        4  0  1  0   Crosby B, pr-cf       0  0  0  0   
+                                   Womack T, 2b          5  0  3  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        38  9 15  7
+
+Boston           010 000 001 --  2
+New York         013 002 03x --  9
+
+  Boston               IP  H  R ER BB SO
+Wells D (L)           4.1 10  4  4  1  4
+Myers M               0.2  0  0  0  0  0
+Neal B                0.1  1  2  1  1  0
+Embree A              0.2  1  0  0  1  0
+Timlin M              1.0  1  0  0  0  1
+Mantei M              0.2  1  3  2  3  1
+Halama J              0.1  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Johnson R (W)         6.0  5  1  1  2  6
+Sturtze T             2.0  0  0  0  0  3
+Gordon T              1.0  1  1  1  1  1
+
+E -- Giambi J, Damon J, Halama J
+DP -- Boston 1, New York 1
+LOB -- Boston 7, New York 14
+2B -- Ortiz D, Jeter D, Sheffield G, Varitek J, Bellhorn M, Posada J, Sierra R
+HR -- Matsui H
+SB -- Jeter D, Womack T
+SF -- Williams B, Nixon T
+HBP -- by Wells D (Giambi J) 2
+Balk -- Wells D
+T -- 3:19
+A -- 54818
+     Game of 4/5/2005 -- Boston at New York (D)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Damon J, cf           5  0  2  1   Jeter D, ss           3  2  1  1   
+Nixon T, rf           4  0  0  0   Rodriguez A, 3b       3  1  0  0   
+Ramirez M, lf         4  0  0  0   Sheffield G, rf       4  0  1  1   
+Ortiz D, dh           4  1  2  1   Matsui H, lf          4  1  3  2   
+Millar K, 1b          3  0  1  0   Posada J, c           3  0  1  0   
+Renteria E, ss        4  0  0  0   Giambi J, dh          3  0  0  0   
+Varitek J, c          4  1  1  1   Williams B, cf        3  0  0  0   
+Mueller B, 3b         4  1  3  0   Martinez T, 1b        4  0  0  0   
+Bellhorn M, 2b        4  0  2  0   Womack T, 2b          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3 11  3                        31  4  7  4
+
+Boston           000 100 101 --  3
+New York         003 000 001 --  4
+  0 outs when winning run was scored.
+
+  Boston               IP  H  R ER BB SO
+Clement M             4.1  5  3  2  3  4
+Halama J              1.1  0  0  0  0  0
+Mantei M              0.2  0  0  0  1  0
+Myers M*              0.0  1  0  0  0  0
+Embree A              0.2  0  0  0  0  1
+Foulke K (L)          1.0  1  1  1  0  1
+
+  New York             IP  H  R ER BB SO
+Pavano C              6.1  8  2  2  1  7
+Stanton M             0.2  1  0  0  0  0
+Gordon T              1.0  0  0  0  0  0
+Rivera M (W)          1.0  2  1  1  0  2
+  * Pitched to 1 batter in 7th
+
+E -- Renteria E
+DP -- Boston 1, New York 2
+LOB -- Boston 7, New York 9
+HR -- Matsui H, Ortiz D, Varitek J, Jeter D
+SB -- Womack T
+HBP -- by Clement M (Jeter D), by Halama J (Giambi J)
+T -- 3:16
+A -- 54690
+     Game of 4/6/2005 -- Boston at New York (D)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Damon J, cf           5  1  2  0   Jeter D, ss           3  0  1  0   
+Nixon T, rf           2  1  0  0   Sanchez R, ss         0  0  0  0   
+Ramirez M, lf         5  2  1  1   Rodriguez A, 3b       3  1  1  1   
+Ortiz D, dh           5  0  3  1   Sheffield G, rf       3  0  0  1   
+Millar K, 1b          3  0  3  2   Matsui H, lf          3  0  0  0   
+McCarty D, pr-1b      1  1  0  0   Posada J, c           4  0  0  0   
+Renteria E, ss        5  0  2  2   Giambi J, dh          2  0  0  0   
+Mirabelli D, c        4  0  1  0   Crosby B, pr          0  0  0  0   
+Mueller B, 3b         4  1  0  0   Sierra R, ph          1  0  1  0   
+Bellhorn M, 2b        4  1  2  0   Martinez T, 1b        4  1  1  1   
+                                   Williams B, cf        3  0  0  0   
+                                   Womack T, 2b          3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 14  6                        29  3  4  3
+
+Boston           000 200 005 --  7
+New York         000 110 010 --  3
+
+  Boston               IP  H  R ER BB SO
+Wakefield T           6.2  3  2  2  2  4
+Embree A              0.2  0  1  1  1  0
+Timlin M (W)          0.2  0  0  0  2  0
+Foulke K              1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Mussina M             6.0  9  2  2  2  2
+Sturtze T             2.0  2  0  0  1  0
+Rivera M (L)          0.2  3  5  1  3  1
+Rodriguez F           0.1  0  0  0  0  1
+
+E -- Rodriguez A
+DP -- New York 3
+LOB -- Boston 10, New York 6
+2B -- Ortiz D, Sierra R
+HR -- Rodriguez A, Martinez T
+CS -- Jeter D
+SF -- Sheffield G
+HBP -- by Timlin M (Jeter D)
+WP -- Rodriguez F
+T -- 3:22
+A -- 55165
+     Game of 4/8/2005 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         5  3  3  4   Jeter D, ss           3  2  3  1   
+Mora M, 3b            5  1  0  0   Sanchez R, ss         0  0  0  0   
+Tejada M, ss          5  2  3  2   Rodriguez A, 3b       5  0  0  0   
+Gomez C, ph-ss        1  0  0  0   Sheffield G, rf       5  1  2  2   
+Sosa S, rf            4  0  1  0   Matsui H, lf          4  1  1  2   
+Palmeiro R, dh        4  0  2  1   Giambi J, dh          3  0  1  0   
+Lopez J, c            4  1  2  2   Sierra R, ph          1  0  0  0   
+Gil G, c              0  0  0  0   Williams B, cf        4  0  0  0   
+Gibbons J, 1b         5  1  2  0   Crosby B, cf          1  0  0  0   
+Bigbie L, lf          5  1  2  1   Martinez T, 1b        3  0  1  0   
+Matos L, cf           5  3  3  2   Phillips A, 1b        0  0  0  0   
+                                   Flaherty J, c         3  0  1  0   
+                                   Womack T, 2b          4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     43 12 18 12                        36  5 10  5
+
+Baltimore        003 124 011 -- 12
+New York         100 021 001 --  5
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S (W)          5.2  9  4  4  2  4
+Reed S                0.2  0  0  0  0  0
+Kline S               0.2  0  0  0  0  0
+Parrish J             0.2  0  0  0  3  1
+Julio J               0.1  0  0  0  0  0
+Ryan B                1.0  1  1  1  0  3
+
+  New York             IP  H  R ER BB SO
+Wright J (L)*         4.0  8  6  6  1  4
+Karsay S+             1.0  3  3  3  1  2
+Quantrill P           2.0  3  1  1  0  1
+Rodriguez F           0.2  2  1  1  0  0
+Stanton M             1.1  2  1  1  0  0
+  * Pitched to 3 batters in 5th
+  + Pitched to 3 batters in 6th
+
+DP -- New York 1
+LOB -- Baltimore 9, New York 10
+2B -- Gibbons J, Bigbie L, Tejada M, Matos L
+3B -- Matos L, Roberts B
+HR -- Roberts B, Sheffield G, Matsui H
+SB -- Matos L
+SF -- Matsui H, Lopez J
+HBP -- by Wright J (Mora M), by Rodriguez F (Sosa S)
+WP -- Ponson S 2, Parrish J
+Balk -- Quantrill P
+PB -- Lopez J, Flaherty J
+T -- 3:33
+A -- 43128
+     Game of 4/9/2005 -- Baltimore at New York (D)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         5  0  2  0   Jeter D, ss           5  1  2  0   
+Mora M, 3b            4  0  0  0   Rodriguez A, 3b       5  0  3  1   
+Tejada M, ss          5  0  2  2   Sheffield G, rf       5  1  1  1   
+Sosa S, rf            5  0  1  0   Matsui H, lf          4  1  1  1   
+Lopez J, dh           4  2  2  0   Sierra R, dh          4  1  1  3   
+Surhoff B, lf         4  1  1  0   Posada J, c           3  0  1  0   
+Matos L, cf           2  1  0  1   Giambi J, 1b          4  1  1  1   
+Gomez C, 1b           2  1  1  1   Martinez T, pr-1b     0  0  0  0   
+Palmeiro R, 1b        1  0  0  0   Williams B, cf        4  0  1  0   
+Gil G, c              4  0  2  1   Sanchez R, 2b         2  2  1  0   
+                                   Womack T, ph-2b       1  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 11  5                        37  8 12  7
+
+Baltimore        010 400 000 --  5
+New York         001 110 50x --  8
+
+  Baltimore            IP  H  R ER BB SO
+Chen B                6.0  8  3  2  0  6
+Reed S (L)            0.2  2  3  3  1  1
+Kline S*              0.0  2  2  2  1  0
+Julio J               1.1  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Johnson R             6.0  8  5  4  1  4
+Sturtze T (W)         1.0  2  0  0  0  2
+Gordon T              1.0  0  0  0  0  0
+Rivera M (S)          1.0  1  0  0  0  1
+  * Pitched to 4 batters in 7th
+
+E -- Giambi J, Roberts B, Palmeiro R, Tejada M
+DP -- Baltimore 1
+LOB -- Baltimore 8, New York 7
+2B -- Lopez J, Matsui H, Roberts B
+HR -- Giambi J, Sierra R
+SB -- Rodriguez A, Jeter D, Gomez C, Sosa S
+CS -- Rodriguez A, Gomez C
+SH -- Mora M
+SF -- Matos L
+HBP -- by Johnson R (Matos L)
+WP -- Sturtze T
+PB -- Posada J
+T -- 3:07
+A -- 50275
+     Game of 4/10/2005 -- Baltimore at New York (D)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         5  2  2  1   Jeter D, ss           4  0  1  0   
+Mora M, 3b            5  2  2  0   Rodriguez A, 3b       4  0  1  0   
+Tejada M, ss          5  2  2  1   Sheffield G, rf       4  0  0  0   
+Sosa S, rf            5  0  0  0   Matsui H, lf          3  0  0  0   
+Palmeiro R, 1b        4  1  3  1   Sierra R, dh          3  1  0  0   
+Lopez J, c            5  0  2  2   Giambi J, 1b          3  1  1  0   
+Gibbons J, dh         3  0  1  2   Posada J, c           4  0  2  1   
+Matos L, cf           4  0  2  0   Crosby B, cf          3  0  1  0   
+Bigbie L, lf          4  0  0  0   Williams B, ph        1  0  1  0   
+                                   Womack T, 2b          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     40  7 14  7                        33  2  8  1
+
+Baltimore        013 021 000 --  7
+New York         000 010 001 --  2
+
+  Baltimore            IP  H  R ER BB SO
+Lopez R (W)           8.0  6  1  1  2  8
+Ryan B                1.0  2  1  1  1  2
+
+  New York             IP  H  R ER BB SO
+Pavano C (L)*         2.0  5  3  1  0  1
+Sturtze T             2.1  5  3  3  0  0
+Quantrill P           2.2  3  1  1  0  0
+Karsay S              1.0  1  0  0  0  1
+Rodriguez F           1.0  0  0  0  1  0
+  * Pitched to 2 batters in 3rd
+
+E -- Giambi J
+DP -- Baltimore 2
+LOB -- Baltimore 8, New York 7
+2B -- Lopez J
+HR -- Roberts B
+SB -- Palmeiro R
+SF -- Gibbons J
+T -- 2:49
+A -- 46797
+     Game of 4/18/2005 -- Tampa Bay at New York (N)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Crawford C, lf        5  1  3  1   Jeter D, ss           3  1  1  2   
+Lugo J, ss            5  1  3  2   Williams B, cf        6  1  3  1   
+Huff A, dh            4  1  1  4   Sheffield G, rf       5  2  1  1   
+Lee T, 1b             4  1  0  0   Crosby B, pr-rf       0  0  0  0   
+Cantu J, 2b           5  0  2  0   Matsui H, lf          5  3  2  0   
+Singleton C, rf       5  0  2  1   Rodriguez A, 3b       6  5  5  6   
+Sanchez A, cf         3  1  1  0   Giambi J, dh          3  3  2  1   
+Hall T, c             3  3  2  0   Posada J, c           6  1  2  2   
+Green N, 3b           4  0  0  0   Martinez T, 1b        5  2  3  6   
+                                   Womack T, 2b          6  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 14  8                        45 19 20 19
+
+Tampa Bay        002 051 000 --  8
+New York         0(13)2 000 22x -- 19
+
+  Tampa Bay            IP  H  R ER BB SO
+Bell R (L)            1.1  9 10 10  1  0
+Carter L              4.1  6  5  5  4  2
+McClung S             0.2  3  2  2  0  0
+Miller T              0.2  0  0  0  1  1
+Baez D                1.0  2  2  0  1  0
+
+  New York             IP  H  R ER BB SO
+Wright J (W)          5.1 11  8  8  3  4
+Quantrill P           1.2  3  0  0  0  0
+Rodriguez F           2.0  0  0  0  0  1
+
+E -- Singleton C, Green N
+DP -- New York 2
+LOB -- Tampa Bay 7, New York 11
+2B -- Giambi J, Rodriguez A 2, Lugo J, Martinez T
+HR -- Rodriguez A 2, Martinez T, Huff A
+SB -- Lee T
+SF -- Huff A
+HBP -- by Carter L (Giambi J), by Miller T (Martinez T)
+WP -- Wright J
+T -- 3:09
+A -- 35282
+     Game of 4/19/2005 -- Tampa Bay at New York (N)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Crawford C, lf        5  1  1  0   Jeter D, ss           4  0  3  0   
+Gonzalez A, 3b        4  1  1  0   Williams B, cf        4  0  0  0   
+Lugo J, ss            4  0  0  0   Sheffield G, rf       3  0  0  0   
+Huff A, rf            3  2  1  1   Matsui H, lf          3  0  1  0   
+Perez E, 1b           3  2  2  3   Rodriguez A, 3b       4  0  0  0   
+Lee T, ph-1b          1  0  1  1   Giambi J, dh          4  1  1  1   
+Cantu J, 2b           4  0  1  1   Posada J, c           3  1  1  0   
+Phelps J, dh          3  0  1  0   Martinez T, 1b        4  0  1  0   
+Hall T, c             4  0  0  0   Womack T, 2b          3  0  2  1   
+Sanchez A, cf         4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  6  8  6                        32  2  9  2
+
+Tampa Bay        000 200 130 --  6
+New York         010 000 100 --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Nomo H (W)            5.2  6  1  1  3  2
+Miller T*             0.1  3  1  1  0  1
+Harper T              2.0  0  0  0  0  0
+Baez D                1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Johnson R (L)         7.1  6  6  5  0  8
+Gordon T              0.2  2  0  0  0  0
+Rivera M              1.0  0  0  0  0  1
+  * Pitched to 3 batters in 7th
+
+E -- Jeter D
+DP -- Tampa Bay 2
+LOB -- Tampa Bay 4, New York 6
+2B -- Jeter D
+HR -- Giambi J, Perez E 2
+SB -- Huff A
+CS -- Jeter D
+HBP -- by Johnson R (Huff A), by Johnson R (Phelps J)
+T -- 2:37
+A -- 45802
+     Game of 4/22/2005 -- Texas at New York (N)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Soriano A, 2b         5  1  2  0   Jeter D, ss           5  0  0  0   
+Blalock H, 3b         5  1  1  1   Williams B, cf        4  0  1  0   
+Young M, ss           3  1  0  0   Sheffield G, rf       3  1  2  0   
+Teixeira M, 1b        4  0  2  0   Matsui H, lf          4  0  1  1   
+Dellucci D, dh        4  2  1  2   Rodriguez A, 3b       3  0  0  0   
+Mench K, lf           4  0  1  1   Giambi J, dh          4  0  0  0   
+Matthews G, rf        4  0  3  1   Martinez T, 1b        3  0  0  0   
+Barajas R, c          4  0  2  0   Sanchez R, ph         1  1  1  0   
+Nix L, cf             4  0  0  0   Flaherty J, c         3  0  0  0   
+                                   Phillips A, ph        1  1  0  0   
+                                   Womack T, 2b          3  0  1  0   
+                                   Posada J, ph          1  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     37  5 12  5                        35  3  7  2
+
+Texas            401 000 000 --  5
+New York         000 100 002 --  3
+
+  Texas                IP  H  R ER BB SO
+Young C (W)           5.2  4  1  1  2  7
+Shouse B              1.1  0  0  0  0  2
+Regilio N             1.0  1  0  0  1  1
+Mahay R               0.1  1  2  1  0  0
+Cordero F (S)         0.2  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Brown K (L)           6.0 11  5  5  1  4
+Stanton M             1.1  0  0  0  0  4
+Quantrill P           1.2  1  0  0  0  0
+
+E -- Soriano A, Mahay R
+DP -- New York 2
+LOB -- Texas 6, New York 8
+2B -- Dellucci D, Mench K, Matsui H, Womack T, Posada J
+SB -- Soriano A, Matthews G
+WP -- Brown K
+T -- 3:07
+A -- 42710
+     Game of 4/23/2005 -- Texas at New York (D)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Soriano A, 2b         6  0  2  0   Jeter D, ss           1  0  0  0   
+DeRosa M, 2b          0  0  0  0   Sanchez R, ss         1  0  0  0   
+Blalock H, 3b         6  0  0  0   Williams B, cf        4  1  2  0   
+Young M, ss           5  2  3  1   Sheffield G, rf       3  0  1  1   
+Teixeira M, 1b        6  2  2  4   Crosby B, ph-rf       2  1  1  0   
+Dellucci D, dh        6  2  2  1   Matsui H, lf          3  0  0  0   
+Mench K, lf           5  1  3  2   Rodriguez A, 3b       4  0  1  0   
+Matthews G, rf        4  1  1  0   Giambi J, dh          2  0  0  1   
+Alomar S, c           4  1  2  0   Posada J, c           3  0  0  0   
+Nix L, cf             5  1  4  1   Flaherty J, c         0  0  0  0   
+                                   Martinez T, 1b        3  0  0  0   
+                                   Phillips A, ph-1b     1  0  0  0   
+                                   Womack T, 2b          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     47 10 19  9                        31  2  5  2
+
+Texas            015 000 220 -- 10
+New York         001 000 010 --  2
+
+  Texas                IP  H  R ER BB SO
+Park C (W)            6.2  3  1  1  5  6
+Brocail D             0.1  0  0  0  0  0
+Almanzar C            0.2  1  1  1  2  0
+Mahay R               1.1  1  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Wright J (L)          5.1 11  6  4  1  3
+Groom B               0.1  0  0  0  0  0
+Karsay S              1.0  3  2  1  1  0
+Stanton M             0.1  0  0  0  0  0
+Rodriguez F           1.0  4  2  2  1  0
+Quantrill P           1.0  1  0  0  0  0
+
+E -- Wright J, Sheffield G
+DP -- New York 1
+LOB -- Texas 13, New York 10
+2B -- Mench K, Williams B, Nix L
+HR -- Dellucci D, Teixeira M 2, Mench K
+SH -- Williams B
+WP -- Park C, Rodriguez F
+T -- 3:17
+A -- 44731
+     Game of 4/24/2005 -- Texas at New York (D)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Soriano A, 2b         4  1  1  0   Jeter D, ss           4  2  3  3   
+Matthews G, cf        4  0  1  1   Williams B, cf        5  0  0  0   
+Young M, ss           3  0  0  0   Sheffield G, rf       5  1  2  1   
+Teixeira M, 1b        4  0  0  0   Matsui H, lf          2  1  1  0   
+Mench K, lf           3  0  1  0   Crosby B, ph-lf       1  0  0  0   
+Hidalgo R, rf         3  0  0  0   Rodriguez A, 3b       4  1  2  1   
+Allen C, dh           3  0  0  0   Giambi J, dh          2  0  0  0   
+Barajas R, c          3  0  0  0   Sanchez R, pr         0  1  0  0   
+DeRosa M, 3b          3  0  0  0   Posada J, c           4  2  2  1   
+                                   Phillips A, 1b        4  2  2  4   
+                                   Womack T, 2b          4  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     30  1  3  1                        35 11 14 11
+
+Texas            000 001 000 --  1
+New York         040 031 03x -- 11
+
+  Texas                IP  H  R ER BB SO
+Astacio P (L)         4.2  9  7  7  1  2
+Riley M               2.2  3  4  4  2  1
+Regilio N             0.2  2  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Johnson R (W)         8.0  3  1  1  1  7
+Gordon T              1.0  0  0  0  0  2
+
+DP -- Texas 1
+LOB -- Texas 3, New York 5
+2B -- Phillips A, Jeter D, Sheffield G
+3B -- Matthews G
+HR -- Jeter D, Phillips A
+CS -- Womack T
+SF -- Jeter D
+HBP -- by Riley M (Giambi J)
+Balk -- Astacio P
+T -- 2:25
+A -- 42732
+     Game of 4/26/2005 -- Anaheim at New York (N)
+
+  Anaheim            AB  R  H RBI    New York           AB  R  H RBI
+Erstad D, 1b          3  2  1  0   Jeter D, ss           4  2  1  0   
+Merloni L, 1b         1  0  0  0   Williams B, cf        5  2  1  1   
+Figgins C, 2b         4  0  3  1   Crosby B, pr-cf       0  0  0  0   
+Guerrero V, rf        4  0  2  2   Sheffield G, rf       4  1  1  0   
+Gregg K, p-p          0  0  0  0   Matsui H, lf          2  3  0  0   
+Woods J, p            0  0  0  0   Rodriguez A, 3b       5  3  4 10   
+Paul J, ph            1  0  0  0   Sanchez R, 3b         0  0  0  0   
+Anderson G, lf        3  0  0  1   Giambi J, dh          3  0  1  0   
+Rivera J, rf          1  0  0  0   Posada J, c           5  0  0  1   
+Finley S, cf          3  0  0  0   Phillips A, 1b        5  1  1  0   
+Quinlan R, lf         1  0  0  0   Womack T, 2b          4  0  3  0   
+Cabrera O, ss         4  0  0  0                                      
+McPherson D, 3b       3  1  1  0                                      
+Molina J, c           3  0  0  0                                      
+DaVanon J, dh-cf      4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  4                        37 12 12 12
+
+Anaheim          002 010 001 --  4
+New York         302 502 00x -- 12
+
+  Anaheim              IP  H  R ER BB SO
+Colon B (L)           3.2  5 10  5  5  3
+Gregg K               3.1  6  2  2  2  2
+Woods J               1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pavano C (W)          7.0  7  3  3  2  2
+Bean C                2.0  1  1  1  2  2
+
+E -- McPherson D, Figgins C 2
+DP -- Anaheim 1
+LOB -- Anaheim 8, New York 8
+2B -- Womack T, McPherson D, Figgins C, Phillips A
+HR -- Rodriguez A 3
+SB -- DaVanon J, McPherson D
+T -- 3:02
+A -- 36328
+     Game of 4/27/2005 -- Anaheim at New York (N)
+
+  Anaheim            AB  R  H RBI    New York           AB  R  H RBI
+Erstad D, 1b          4  0  0  0   Jeter D, ss           3  0  1  0   
+Figgins C, 2b         5  0  2  0   Williams B, cf        4  0  1  0   
+Guerrero V, rf        4  2  2  0   Sheffield G, rf       4  0  3  0   
+Anderson G, lf        4  2  3  3   Matsui H, lf          4  0  0  0   
+Finley S, cf          4  1  1  2   Rodriguez A, 3b       4  1  2  1   
+Cabrera O, ss         4  0  1  0   Phillips A, dh        3  0  0  0   
+McPherson D, 3b       4  0  1  0   Giambi J, ph          1  0  0  0   
+Molina J, c           4  0  1  0   Posada J, c           4  0  0  0   
+DaVanon J, dh         3  0  1  0   Martinez T, 1b        4  0  2  0   
+                                   Womack T, 2b          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 12  5                        32  1  9  1
+
+Anaheim          000 302 000 --  5
+New York         000 100 000 --  1
+
+  Anaheim              IP  H  R ER BB SO
+Washburn J (W)        7.2  9  1  1  2  4
+Shields S             1.1  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         7.0 10  5  5  1  2
+Groom B               1.0  1  0  0  0  0
+Rodriguez F           0.1  1  0  0  0  1
+Stanton M             0.2  0  0  0  0  0
+
+E -- Posada J
+DP -- Anaheim 3, New York 2
+LOB -- Anaheim 6, New York 7
+2B -- Williams B, Guerrero V, McPherson D, Sheffield G
+HR -- Finley S, Rodriguez A, Anderson G
+SB -- Figgins C, Finley S, Molina J
+CS -- DaVanon J
+SH -- Womack T
+WP -- Mussina M, Shields S
+T -- 2:45
+A -- 37934
+     Game of 4/28/2005 -- Anaheim at New York (N)
+
+  Anaheim            AB  R  H RBI    New York           AB  R  H RBI
+Erstad D, 1b          5  0  1  1   Jeter D, ss           3  1  0  0   
+Figgins C, 2b         4  1  2  0   Womack T, 2b          5  0  2  0   
+Guerrero V, rf        3  1  1  1   Sheffield G, rf       4  0  2  0   
+Anderson G, lf        4  0  1  0   Matsui H, lf          4  0  1  1   
+Finley S, cf          4  0  0  0   Rodriguez A, 3b       4  0  0  0   
+Cabrera O, ss         4  0  1  0   Giambi J, dh          4  0  2  0   
+McPherson D, 3b       4  1  2  0   Posada J, c           3  0  0  0   
+Molina J, c           3  0  0  0   Martinez T, 1b        3  0  1  0   
+DaVanon J, dh         4  0  1  0   Crosby B, cf          1  0  0  0   
+                                   Williams B, ph-cf     2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  2                        33  1  8  1
+
+Anaheim          002 100 000 --  3
+New York         000 010 000 --  1
+
+  Anaheim              IP  H  R ER BB SO
+Lackey J (W)          5.1  7  1  1  3  5
+Woods J               0.1  0  0  0  0  0
+Donnelly B            1.1  1  0  0  0  0
+Shields S             1.0  0  0  0  1  2
+Rodriguez F (S)       1.0  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Brown K (L)           7.0  8  3  3  1  5
+Groom B               1.0  1  0  0  0  1
+Gordon T              1.0  0  0  0  0  2
+
+E -- Groom B
+DP -- Anaheim 1
+LOB -- Anaheim 7, New York 10
+2B -- McPherson D, Anderson G, Matsui H
+SB -- Figgins C, Sheffield G
+CS -- Jeter D, Finley S
+SH -- Molina J
+HBP -- by Lackey J (Jeter D)
+T -- 3:05
+A -- 51951
+     Game of 4/29/2005 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Menechino F, dh       4  0  1  0   Jeter D, ss           4  0  1  0   
+Johnson R, lf         4  0  1  0   Womack T, 2b          4  0  0  0   
+Wells V, cf           4  0  0  0   Sheffield G, rf       4  0  0  0   
+Hillenbrand S, 3b     4  0  1  0   Matsui H, lf          4  0  0  0   
+Rios A, rf            3  0  2  0   Rodriguez A, 3b       4  0  1  0   
+Zaun G, c             3  1  0  0   Giambi J, dh          2  0  0  0   
+Hinske E, 1b          4  1  1  2   Posada J, c           3  0  1  0   
+Hudson O, 2b          3  0  0  0   Martinez T, 1b        2  0  0  0   
+McDonald J, ss        3  0  1  0   Williams B, cf        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        30  0  3  0
+
+Toronto          000 000 200 --  2
+New York         000 000 000 --  0
+
+  Toronto              IP  H  R ER BB SO
+Halladay R (W)        9.0  3  0  0  1  9
+
+  New York             IP  H  R ER BB SO
+Johnson R (L)         9.0  7  2  2  3  9
+
+DP -- New York 1
+LOB -- Toronto 6, New York 5
+2B -- Johnson R, Posada J
+HR -- Hinske E
+SB -- Jeter D, Martinez T, Rodriguez A, Hudson O
+CS -- Rios A
+HBP -- by Halladay R (Martinez T)
+T -- 2:08
+A -- 40839
+     Game of 4/30/2005 -- Toronto at New York (D)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Catalanotto F, lf     5  0  1  1   Jeter D, ss           4  1  2  0   
+Johnson R, lf         0  0  0  0   Williams B, cf        4  1  1  1   
+Hudson O, 2b          5  0  1  0   Sheffield G, rf       4  0  1  0   
+Wells V, cf           3  0  0  0   Matsui H, lf          4  0  0  0   
+Koskie C, 3b          4  1  3  1   Rodriguez A, 3b       3  1  1  1   
+Hillenbrand S, dh     4  0  1  0   Giambi J, dh          2  0  0  0   
+Hinske E, 1b          3  1  1  0   Phillips A, ph        2  0  1  0   
+Rios A, rf            3  1  0  0   Crosby B, pr          0  1  0  0   
+Zaun G, c             4  0  0  0   Martinez T, 1b        4  0  2  0   
+Adams R, ss           4  0  1  1   Flaherty J, c         3  0  0  0   
+                                   Posada J, ph          0  0  0  0   
+                                   Womack T, 2b          4  0  2  1   
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        34  4 10  3
+
+Toronto          000 020 010 --  3
+New York         200 100 001 --  4
+  1 out when winning run was scored.
+
+  Toronto              IP  H  R ER BB SO
+Bush D                7.0  8  3  3  0  4
+Frasor J              1.0  0  0  0  0  0
+Chulk V (L)           0.1  2  1  1  2  0
+
+  New York             IP  H  R ER BB SO
+Wang C                7.0  6  2  2  2  0
+Gordon T              1.0  2  1  1  1  1
+Rivera M (W)          1.0  0  0  0  0  1
+
+DP -- Toronto 1
+LOB -- Toronto 8, New York 7
+2B -- Phillips A, Hillenbrand S
+HR -- Rodriguez A, Koskie C
+WP -- Bush D
+T -- 2:42
+A -- 47483
+     Game of 5/1/2005 -- Toronto at New York (D)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Catalanotto F, lf     3  0  2  0   Jeter D, ss           4  1  1  0   
+Johnson R, pr-lf      0  0  0  0   Williams B, cf        5  1  1  0   
+Hudson O, 2b          2  0  0  1   Sheffield G, rf       4  2  2  3   
+Menechino F, 2b       3  0  1  3   Rodriguez A, 3b       1  1  1  0   
+Wells V, cf           5  0  2  0   Posada J, c           3  0  0  1   
+Koskie C, 3b          5  1  2  1   Matsui H, lf          3  0  1  2   
+Hillenbrand S, dh     5  2  4  0   Phillips A, dh        4  0  0  0   
+Hinske E, 1b          4  2  2  1   Martinez T, 1b        4  0  1  0   
+Zaun G, c             3  1  0  1   Womack T, 2b          3  1  1  0   
+Rios A, rf            4  1  2  1                                      
+Adams R, ss           4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  8 16  8                        31  6  8  6
+
+Toronto          001 113 200 --  8
+New York         010 140 000 --  6
+
+  Toronto              IP  H  R ER BB SO
+Lilly T               5.0  8  6  6  2  4
+Walker P (W)          1.2  0  0  0  2  1
+Schoeneweis S         1.1  0  0  0  0  1
+Batista M (S)         1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pavano C*             5.0  9  6  6  1  2
+Quantrill P           1.0  1  0  0  1  0
+Stanton M (L)         0.2  2  2  2  0  1
+Karsay S              0.1  1  0  0  0  0
+Gordon T              0.1  2  0  0  0  0
+Groom B               1.2  1  0  0  0  2
+  * Pitched to 3 batters in 6th
+
+DP -- New York 2
+LOB -- Toronto 9, New York 5
+2B -- Rodriguez A, Rios A, Catalanotto F, Sheffield G, Matsui H, Hillenbrand S, Hinske E
+HR -- Koskie C, Sheffield G
+SB -- Koskie C, Hinske E, Rios A
+CS -- Catalanotto F
+SH -- Womack T
+SF -- Matsui H, Posada J, Rios A, Zaun G
+HBP -- by Pavano C (Hinske E), by Pavano C (Catalanotto F)
+PB -- Posada J
+T -- 3:31
+A -- 54224
+     Game of 5/6/2005 -- Oakland at New York (N)
+
+  Oakland            AB  R  H RBI    New York           AB  R  H RBI
+Kotsay M, cf          5  0  2  0   Jeter D, ss           5  1  1  0   
+Kendall J, c          3  1  1  0   Womack T, lf          3  1  1  0   
+Chavez E, 3b          5  0  1  0   Posada J, ph-c        2  0  1  1   
+Hatteberg S, 1b       4  2  1  1   Sheffield G, rf       4  0  1  1   
+Kielty B, rf          3  1  1  2   Matsui H, cf          3  0  1  1   
+Thomas C, lf          1  0  0  0   Rodriguez A, 3b       4  0  0  0   
+Durazo E, dh          5  0  0  0   Williams B, dh        4  0  0  0   
+Ginter K, 2b          4  0  0  1   Phillips A, 1b-lf     4  0  1  0   
+Byrnes E, lf-rf       5  1  1  1   Flaherty J, c         2  0  0  0   
+Scutaro M, ss         3  1  1  0   Martinez T, 1b        0  0  0  0   
+                                   Cano R, 2b            4  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6  8  5                        35  3  6  3
+
+Oakland          001 200 000 3 --  6
+New York         100 000 020 0 --  3
+
+  Oakland              IP  H  R ER BB SO
+Zito B                7.1  6  3  3  1  5
+Dotel O (W)           1.2  0  0  0  1  1
+Rincon R              0.1  0  0  0  1  0
+Calero K (S)          0.2  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pavano C              7.0  7  3  3  3  3
+Groom B               1.0  0  0  0  0  1
+Rivera M (L)          2.0  1  3  1  2  3
+
+E -- Chavez E, Martinez T 2, Rodriguez A
+DP -- New York 2
+LOB -- Oakland 8, New York 5
+2B -- Hatteberg S, Phillips A
+3B -- Matsui H
+HR -- Byrnes E, Kielty B
+SB -- Kendall J, Kielty B, Posada J, Jeter D
+HBP -- by Rivera M (Kendall J)
+T -- 3:06
+A -- 47973
+     Game of 5/7/2005 -- Oakland at New York (D)
+
+  Oakland            AB  R  H RBI    New York           AB  R  H RBI
+Kotsay M, cf          4  0  1  0   Jeter D, ss           3  1  0  0   
+Kendall J, c          4  0  0  0   Womack T, lf          4  1  1  0   
+Chavez E, 3b          3  0  0  0   Sheffield G, rf       3  2  1  1   
+Hatteberg S, 1b       4  0  1  0   Matsui H, cf          4  0  0  0   
+Kielty B, rf          3  0  0  0   Rodriguez A, 3b       4  0  2  3   
+Durazo E, dh          3  0  0  0   Martinez T, 1b        4  1  1  1   
+Ellis M, 2b           3  0  0  0   Posada J, c           2  0  0  0   
+Byrnes E, lf          3  0  1  0   Phillips A, dh        3  0  0  0   
+Scutaro M, ss         3  0  1  0   Cano R, 2b            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        30  5  5  5
+
+Oakland          000 000 000 --  0
+New York         112 000 01x --  5
+
+  Oakland              IP  H  R ER BB SO
+Blanton J (L)         6.0  4  4  4  3  3
+Street H              1.0  0  0  0  0  1
+Duchscherer J         1.0  1  1  0  0  1
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         9.0  4  0  0  2  3
+
+E -- Chavez E
+DP -- New York 1
+LOB -- Oakland 5, New York 4
+2B -- Sheffield G, Rodriguez A
+HR -- Martinez T
+SB -- Sheffield G
+T -- 2:31
+A -- 52776
+     Game of 5/8/2005 -- Oakland at New York (D)
+
+  Oakland            AB  R  H RBI    New York           AB  R  H RBI
+Kotsay M, cf          4  0  1  0   Jeter D, ss           5  0  2  0   
+Kendall J, c          4  0  0  0   Womack T, lf          2  1  0  0   
+Chavez E, 3b          4  0  0  0   Sheffield G, rf       3  0  0  0   
+Hatteberg S, 1b       4  0  2  0   Matsui H, cf          3  1  2  1   
+Kielty B, rf          3  0  0  0   Rodriguez A, 3b       3  2  2  1   
+Durazo E, dh          4  0  3  0   Martinez T, 1b        4  1  1  3   
+Ginter K, 2b          4  0  0  0   Posada J, c           4  1  1  1   
+Byrnes E, lf          3  0  1  0   Giambi J, dh          2  0  0  0   
+Scutaro M, ss         4  0  0  0   Cano R, 2b            4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  0  7  0                        30  6  8  6
+
+Oakland          000 000 000 --  0
+New York         000 110 04x --  6
+
+  Oakland              IP  H  R ER BB SO
+Harden R (L)          7.0  5  2  2  4  6
+Calero K*             0.0  3  4  4  1  0
+Rincon R              0.2  0  0  0  0  1
+Yabu K                0.1  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Brown K (W)           7.0  5  0  0  1  4
+Gordon T              1.0  0  0  0  0  1
+Sturtze T             1.0  2  0  0  0  0
+  * Pitched to 4 batters in 8th
+
+DP -- Oakland 1
+LOB -- Oakland 9, New York 7
+2B -- Jeter D, Durazo E
+HR -- Rodriguez A, Martinez T, Posada J
+SH -- Womack T
+HBP -- by Brown K (Byrnes E), by Harden R (Sheffield G)
+WP -- Harden R 2
+T -- 2:52
+A -- 47575
+     Game of 5/9/2005 -- Seattle at New York (N)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Suzuki I, rf          4  0  2  1   Jeter D, ss           3  0  1  0   
+Winn R, lf            3  0  1  1   Womack T, lf          3  1  1  1   
+Beltre A, 3b          4  1  1  1   Sheffield G, rf       4  0  1  0   
+Sexson R, 1b          3  0  1  0   Matsui H, cf          4  0  1  1   
+Boone B, 2b           4  0  0  0   Rodriguez A, 3b       2  1  1  0   
+Ibanez R, dh          4  0  0  0   Martinez T, 1b        3  1  1  2   
+Gonzalez W, c         4  0  1  0   Posada J, c           3  0  1  0   
+Bloomquist W, cf      3  0  0  0   Giambi J, dh          3  0  0  0   
+Dobbs G, ph           1  0  0  0   Cano R, 2b            2  0  0  0   
+Valdez W, ss          2  2  1  0   Sanchez R, ph-2b      1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  7  3                        28  4  8  4
+
+Seattle          001 011 000 --  3
+New York         100 200 01x --  4
+
+  Seattle              IP  H  R ER BB SO
+Meche G               6.2  6  3  3  2  3
+Thornton M            0.1  0  0  0  0  1
+Nelson J (L)          0.2  2  1  1  0  0
+Villone R             0.1  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Johnson R (W)         8.0  7  3  3  2  7
+Rivera M (S)          1.0  0  0  0  0  1
+
+E -- Jeter D
+DP -- Seattle 2, New York 1
+LOB -- Seattle 5, New York 3
+2B -- Rodriguez A, Valdez W
+HR -- Martinez T, Beltre A
+SB -- Valdez W
+CS -- Suzuki I
+SH -- Jeter D
+SF -- Winn R
+T -- 2:37
+A -- 38079
+     Game of 5/10/2005 -- Seattle at New York (N)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Suzuki I, rf          5  1  1  0   Jeter D, ss           5  0  2  0   
+Winn R, lf            5  0  0  1   Womack T, lf          5  0  2  0   
+Beltre A, 3b          4  0  1  0   Sheffield G, rf       4  1  1  0   
+Sexson R, 1b          2  1  0  0   Matsui H, cf          5  0  0  0   
+Ibanez R, dh          3  1  0  0   Rodriguez A, 3b       2  1  0  0   
+Boone B, 2b           4  0  2  2   Martinez T, 1b        4  2  2  2   
+Reed J, cf            3  1  0  0   Williams B, dh        4  1  1  0   
+Olivo M, c            3  0  0  0   Flaherty J, c         4  1  2  2   
+Hansen D, ph          1  0  0  0   Cano R, 2b            3  1  2  2   
+Valdez W, ss          3  0  1  1                                      
+Dobbs G, ph           1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  6  4                        36  7 12  6
+
+Seattle          110 000 020 --  4
+New York         025 000 00x --  7
+
+  Seattle              IP  H  R ER BB SO
+Sele A (L)            2.2  8  7  6  2  0
+Mateo J               3.1  3  0  0  1  0
+Putz J                1.0  0  0  0  0  0
+Hasegawa S            1.0  1  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Wang C (W)            7.1  4  3  3  3  3
+Gordon T              0.2  1  1  1  1  0
+Rivera M (S)          1.0  1  0  0  0  1
+
+E -- Beltre A, Rodriguez A, Sexson R
+LOB -- Seattle 7, New York 9
+2B -- Martinez T, Flaherty J, Cano R, Boone B
+3B -- Suzuki I
+HR -- Martinez T
+SB -- Reed J, Sheffield G
+SF -- Cano R
+T -- 3:00
+A -- 39780
+     Game of 5/11/2005 -- Seattle at New York (D)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Suzuki I, rf          5  2  3  1   Jeter D, ss           5  2  2  1   
+Winn R, lf            5  1  2  0   Womack T, lf          5  3  2  0   
+Beltre A, 3b          5  1  1  0   Sheffield G, rf       3  2  2  3   
+Sexson R, 1b          4  2  1  3   Matsui H, cf          5  2  2  3   
+Ibanez R, dh          5  2  2  3   Rodriguez A, 3b       3  2  1  0   
+Boone B, 2b           5  1  2  2   Martinez T, 1b        5  1  1  3   
+Reed J, cf            5  0  2  0   Posada J, c           4  1  3  2   
+Olivo M, c            4  0  0  0   Williams B, dh        5  0  2  1   
+Dobbs G, ph           1  0  0  0   Sanchez R, 2b         5  0  1  0   
+Valdez W, ss          4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     43  9 14  9                        40 13 16 13
+
+Seattle          500 400 000 --  9
+New York         510 330 01x -- 13
+
+  Seattle              IP  H  R ER BB SO
+Moyer J               2.1 10  6  5  1  2
+Thornton M (L)        2.0  4  6  6  3  1
+Hasegawa S            1.2  1  0  0  0  1
+Nelson J              1.0  0  0  0  0  2
+Putz J                1.0  1  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Pavano C              4.0 10  9  5  1  6
+Quantrill P (W)       2.0  2  0  0  0  1
+Sturtze T             2.0  1  0  0  0  1
+Gordon T              1.0  1  0  0  0  2
+
+E -- Rodriguez A 2, Valdez W, Sexson R
+DP -- Seattle 2
+LOB -- Seattle 8, New York 8
+2B -- Matsui H, Beltre A, Williams B
+3B -- Boone B
+HR -- Sexson R, Boone B, Suzuki I, Ibanez R, Martinez T, Jeter D, Sheffield G, Posada J
+SB -- Reed J, Womack T 4, Jeter D
+HBP -- by Hasegawa S (Rodriguez A)
+T -- 3:26
+A -- 47844
+     Game of 5/24/2005 -- Detroit at New York (N)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Inge B, 3b            5  1  1  0   Jeter D, ss           4  0  0  0   
+Martinez R, 2b        4  0  3  0   Sanchez R, ss         1  0  1  0   
+Rodriguez I, c        2  0  0  0   Womack T, lf          5  1  0  0   
+Wilson V, ph-c        2  0  0  0   Sheffield G, rf       5  2  2  2   
+Guillen C, ss         2  0  0  0   Matsui H, cf          5  1  1  0   
+Smith J, ph-ss        1  1  0  0   Rodriguez A, 3b       2  3  2  3   
+White R, lf           2  0  2  0   Martinez T, pr-1b     0  0  0  0   
+Thames M, lf          2  1  2  3   Posada J, c           4  2  3  4   
+Young D, dh           4  0  1  0   Flaherty J, c         0  0  0  0   
+Monroe C, rf          4  0  1  0   Giambi J, 1b          3  1  2  0   
+Pena C, 1b            4  0  0  0   Johnson R, pr-1b-3b   1  1  0  0   
+Logan N, cf           4  0  0  0   Williams B, dh        4  0  2  0   
+                                   Cano R, 2b            3  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     36  3 10  3                        37 12 14 11
+
+Detroit          000 000 030 --  3
+New York         010 460 01x -- 12
+
+  Detroit              IP  H  R ER BB SO
+Ledezma W (L)*        4.0  7  7  6  0  1
+Ginter M+             0.0  4  4  4  1  0
+Spurling C            2.0  0  0  0  0  1
+German F              1.0  1  0  0  0  2
+Creek D               1.0  2  1  1  0  2
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         7.0  6  0  0  0  6
+Quantrill P           0.2  2  2  2  0  0
+Groom B               1.1  2  1  1  0  1
+  * Pitched to 2 batters in 5th
+  + Pitched to 5 batters in 5th
+
+E -- Martinez R, Guillen C
+DP -- Detroit 1, New York 1
+LOB -- Detroit 7, New York 4
+2B -- Williams B, Matsui H, Young D
+HR -- Rodriguez A 2, Posada J 2, Sheffield G, Thames M, Cano R
+SB -- Womack T
+SF -- Cano R
+HBP -- by German F (Rodriguez A), by Quantrill P (Smith J)
+T -- 2:54
+A -- 37099
+     Game of 5/25/2005 -- Detroit at New York (N)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Inge B, 3b            4  1  2  0   Jeter D, ss           4  1  2  0   
+Guillen C, ss         4  0  1  0   Cano R, 2b            3  0  0  0   
+Rodriguez I, c        3  0  0  1   Sheffield G, rf       2  1  1  1   
+White R, lf           3  1  1  0   Matsui H, lf          3  1  1  0   
+Young D, dh           4  0  0  0   Rodriguez A, 3b       3  1  1  1   
+Monroe C, cf          3  0  1  0   Posada J, c           3  0  2  2   
+Pena C, 1b            2  0  0  0   Giambi J, dh          3  0  0  0   
+Martinez R, ph-1b     2  0  1  1   Sierra R, ph          0  0  0  0   
+Thames M, rf          3  0  0  0   Williams B, cf        4  0  0  0   
+Infante O, 2b         3  0  0  0   Martinez T, 1b        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        28  4  8  4
+
+Detroit          000 100 100 --  2
+New York         100 003 00x --  4
+
+  Detroit              IP  H  R ER BB SO
+Maroth M (L)*         5.0  8  4  4  3  2
+Walker J              2.0  0  0  0  0  1
+German F              0.2  0  0  0  2  2
+Creek D               0.1  0  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Wang C (W)            6.1  5  2  2  0  2
+Stanton M+            0.0  1  0  0  0  0
+Sturtze T             0.2  0  0  0  0  1
+Gordon T              1.0  0  0  0  0  2
+Rivera M (S)          1.0  0  0  0  1  0
+  * Pitched to 4 batters in 6th
+  + Pitched to 1 batter in 7th
+
+E -- Infante O, Cano R
+DP -- Detroit 2, New York 2
+LOB -- Detroit 5, New York 7
+2B -- Jeter D, Rodriguez A
+SB -- Inge B, Matsui H
+SH -- Cano R
+SF -- Rodriguez I
+HBP -- by Wang C (White R)
+WP -- Sturtze T
+T -- 2:46
+A -- 51833
+     Game of 5/26/2005 -- Detroit at New York (N)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Inge B, 3b            5  1  2  0   Jeter D, ss           4  0  1  1   
+Martinez R, 2b        3  1  1  1   Womack T, lf          5  0  1  0   
+Young D, dh           4  0  1  1   Sheffield G, rf       4  0  1  0   
+White R, lf           4  0  2  0   Matsui H, cf          4  1  2  0   
+Rodriguez I, c        4  0  2  0   Rodriguez A, 3b       3  2  2  2   
+Monroe C, rf          4  0  1  0   Martinez T, 1b        4  1  2  0   
+Pena C, 1b            4  0  0  0   Posada J, c           4  0  1  1   
+Smith J, ss           4  1  2  0   Giambi J, dh          2  0  1  0   
+Logan N, cf           3  0  1  1   Williams B, pr        1  0  0  0   
+Thames M, ph          1  0  0  0   Cano R, 2b            4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3 12  3                        35  4 11  4
+
+Detroit          002 100 000 --  3
+New York         010 120 00x --  4
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (L)       6.0  9  4  3  2  4
+Walker J              0.2  1  0  0  0  1
+Farnsworth K          1.1  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Brown K (W)           7.0 10  3  3  0  4
+Gordon T              1.0  1  0  0  0  2
+Rivera M (S)          1.0  1  0  0  0  3
+
+E -- Pena C, Jeter D, Martinez R, Sheffield G
+DP -- Detroit 1, New York 2
+LOB -- Detroit 7, New York 10
+2B -- Martinez T, Inge B, Young D, Rodriguez I
+3B -- Smith J
+HR -- Rodriguez A
+SB -- Logan N, Rodriguez A, Smith J
+CS -- Womack T, Monroe C
+SH -- Martinez R
+HBP -- by Bonderman J (Giambi J)
+T -- 2:55
+A -- 42835
+     Game of 5/27/2005 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Damon J, cf           5  0  1  1   Jeter D, ss           5  2  2  0   
+Renteria E, ss        4  0  3  0   Womack T, lf          5  1  1  1   
+Ortiz D, dh           5  0  1  0   Sheffield G, rf       3  1  1  3   
+Ramirez M, lf         4  1  0  0   Matsui H, cf          4  0  0  0   
+Varitek J, c          4  1  1  2   Rodriguez A, 3b       0  0  0  0   
+Millar K, 1b          5  0  2  0   Martinez T, 1b        3  0  0  0   
+Mueller B, 3b         4  0  0  0   Posada J, c           3  0  2  0   
+Payton J, rf          3  1  2  0   Williams B, dh        3  1  0  0   
+Nixon T, ph-rf        1  0  0  0   Cano R, 2b            4  1  1  2   
+Bellhorn M, 2b        2  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  3 11  3                        30  6  7  6
+
+Boston           000 021 000 --  3
+New York         000 015 00x --  6
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (L)*      5.0  4  4  4  7  3
+Embree A              1.0  2  2  2  1  1
+Mantei M              1.0  1  0  0  0  1
+Halama J              1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Johnson R (W)         6.0  9  3  3  4  3
+Sturtze T             1.0  1  0  0  0  0
+Groom B               0.2  0  0  0  1  1
+Gordon T              0.2  0  0  0  1  2
+Rivera M (S)          0.2  1  0  0  0  2
+  * Pitched to 3 batters in 6th
+
+E -- Cano R, Bellhorn M
+DP -- Boston 2
+LOB -- Boston 13, New York 9
+2B -- Renteria E, Payton J
+3B -- Jeter D
+HR -- Varitek J, Cano R, Sheffield G
+SB -- Damon J, Jeter D
+HBP -- by Wakefield T (Rodriguez A)
+WP -- Johnson R
+T -- 3:15
+A -- 55051
+     Game of 5/28/2005 -- Boston at New York (D)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Damon J, cf           7  3  4  1   Jeter D, ss           1  0  0  0   
+Renteria E, ss        3  2  3  5   Sanchez R, ph-ss      3  0  0  0   
+Vazquez R, ph-ss      3  1  1  0   Womack T, lf          5  1  2  0   
+Ortiz D, dh           4  3  2  1   Sheffield G, rf       1  0  0  0   
+Ramirez M, lf         4  1  4  1   Sierra R, ph-rf       3  0  0  0   
+Payton J, lf          2  2  1  3   Matsui H, cf          2  0  0  0   
+Nixon T, rf           6  1  3  5   Williams B, ph-cf     3  0  2  1   
+Varitek J, c          5  1  2  0   Rodriguez A, 3b       2  0  2  0   
+Shoppach K, c         0  0  0  0   Johnson R, 3b         1  0  1  0   
+Olerud J, 1b          6  0  3  1   Martinez T, 1b        3  0  0  0   
+Mueller B, 3b         4  1  2  0   Giambi J, dh          3  0  1  0   
+Youkilis K, pr-3b     2  0  0  0   Flaherty J, c         4  0  0  0   
+Bellhorn M, 2b        6  2  2  0   Cano R, 2b            4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     52 17 27 17                        35  1  8  1
+
+Boston           120 270 230 -- 17
+New York         000 000 100 --  1
+
+  Boston               IP  H  R ER BB SO
+Clement M (W)         6.0  5  0  0  4  7
+Timlin M              1.0  3  1  1  0  1
+Myers M               1.0  0  0  0  0  0
+Foulke K              1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pavano C (L)          3.2 11  5  5  1  2
+Stanton M             0.2  3  3  3  0  1
+Quantrill P           2.2  7  6  6  1  2
+Groom B               2.0  6  3  3  0  0
+
+E -- Clement M
+LOB -- Boston 13, New York 12
+2B -- Damon J, Rodriguez A
+HR -- Renteria E, Nixon T, Payton J
+SB -- Womack T
+SH -- Renteria E
+SF -- Ortiz D
+HBP -- by Clement M (Jeter D), by Groom B (Shoppach K)
+WP -- Clement M
+T -- 3:20
+A -- 55315
+     Game of 5/29/2005 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Damon J, cf           5  1  2  0   Jeter D, ss           4  1  1  1   
+Renteria E, ss        5  3  4  1   Womack T, lf          3  0  0  0   
+Ortiz D, dh           5  2  4  4   Sierra R, ph          1  0  0  0   
+Ramirez M, lf         5  1  3  1   Sheffield G, rf       4  1  3  1   
+Nixon T, rf           3  0  1  1   Rodriguez A, 3b       4  0  1  0   
+Millar K, 1b          4  0  0  0   Posada J, c           4  0  0  0   
+Olerud J, 1b          1  0  0  0   Matsui H, dh          3  0  0  0   
+Mueller B, 3b         4  0  0  0   Williams B, cf        3  0  1  0   
+Shoppach K, c         4  0  0  0   Johnson R, 1b         3  0  0  0   
+Bellhorn M, 2b        3  0  0  0   Sanchez R, 2b         3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  7 14  7                        32  2  6  2
+
+Boston           203 100 010 --  7
+New York         200 000 000 --  2
+
+  Boston               IP  H  R ER BB SO
+Wells D (W)           8.1  6  2  2  0  2
+Foulke K              0.2  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         3.0  7  5  5  2  2
+Wang C                4.2  6  2  2  1  2
+Stanton M*            0.0  1  0  0  0  0
+Sturtze T             1.1  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Wells D, Rodriguez A
+DP -- Boston 2, New York 3
+LOB -- Boston 9, New York 3
+2B -- Nixon T, Williams B
+HR -- Ortiz D 2, Jeter D, Sheffield G, Renteria E
+HBP -- by Sturtze T (Nixon T)
+T -- 3:12
+A -- 55235
+     Game of 6/14/2005 -- Pittsburgh at New York (N)
+
+  Pittsburgh         AB  R  H RBI    New York           AB  R  H RBI
+Lawton M, rf          4  0  1  0   Jeter D, ss           4  1  1  0   
+Restovich M, rf       0  0  0  0   Cano R, 2b            5  1  2  0   
+Sanchez F, 3b         3  0  0  0   Sheffield G, rf       2  2  1  1   
+Hill B, 3b            1  0  0  0   Rodriguez A, 3b       3  0  0  0   
+Bay J, lf             4  0  2  0   Matsui H, dh          3  2  2  1   
+Mackowiak R, cf       4  0  0  0   Sierra R, ph          2  0  1  2   
+Doumit R, dh          4  0  1  0   Williams B, cf        3  1  1  0   
+Ward D, 1b            3  0  1  0   Posada J, c           5  1  2  2   
+Castillo J, 2b        2  0  0  0   Giambi J, 1b          2  1  1  2   
+Cota H, c             3  0  0  0   Martinez T, 1b        2  0  1  0   
+Wilson J, ss          3  0  0  0   Womack T, lf          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  5  0                        35  9 12  8
+
+Pittsburgh       000 000 000 --  0
+New York         011 140 02x --  9
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (L)           4.2  8  7  6  4  1
+Meadows B             1.1  1  0  0  1  1
+Vogelsong R           2.0  3  2  2  2  2
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         9.0  5  0  0  1  6
+
+E -- Castillo J
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 5, New York 11
+2B -- Cano R, Giambi J, Bay J
+HR -- Matsui H
+HBP -- by Wells K (Rodriguez A), by Vogelsong R (Rodriguez A)
+WP -- Wells K
+T -- 2:53
+A -- 44541
+     Game of 6/15/2005 -- Pittsburgh at New York (N)
+
+  Pittsburgh         AB  R  H RBI    New York           AB  R  H RBI
+Lawton M, rf          5  1  0  0   Jeter D, ss           5  0  2  0   
+Sanchez F, 3b         4  1  3  0   Williams B, cf        3  0  0  0   
+Bay J, lf             5  1  2  2   Sheffield G, rf       5  1  1  0   
+Mackowiak R, cf       5  1  1  0   Rodriguez A, 3b       5  1  3  0   
+Doumit R, dh          4  0  1  1   Posada J, c           4  1  2  2   
+Ward D, 1b            4  0  1  1   Matsui H, dh          4  1  2  1   
+Castillo J, 2b        4  0  0  0   Phillips A, pr        0  1  0  0   
+Wilson J, ss          4  1  1  1   Martinez T, ph        0  0  0  0   
+Ross D, c             3  0  0  0   Johnson R, pr         0  1  0  0   
+                                   Sierra R, lf          4  0  1  1   
+                                   Womack T, pr-lf       0  0  0  0   
+                                   Giambi J, 1b          5  1  2  2   
+                                   Cano R, 2b            3  0  2  1   
+                     -- -- -- --                        -- -- -- --
+                     38  5  9  5                        38  7 15  7
+
+Pittsburgh       000 210 110 0 --  5
+New York         010 000 121 2 --  7
+  1 out when winning run was scored.
+
+  Pittsburgh           IP  H  R ER BB SO
+Redman M              6.2  9  2  2  3  5
+White R               0.2  1  1  1  0  0
+Gonzalez M            0.2  2  1  1  0  1
+Mesa J (L)            1.1  3  3  3  2  0
+
+  New York             IP  H  R ER BB SO
+Brown K               4.1  7  3  3  1  6
+Groom B               1.2  0  0  0  0  0
+Sturtze T             2.0  2  2  2  0  0
+Rivera M (W)          2.0  0  0  0  1  3
+
+E -- Sanchez F
+DP -- Pittsburgh 3, New York 1
+LOB -- Pittsburgh 5, New York 9
+2B -- Rodriguez A, Matsui H, Sierra R, Posada J
+HR -- Posada J, Wilson J, Bay J, Giambi J
+SH -- Womack T
+WP -- Brown K, Gonzalez M
+T -- 3:28
+A -- 48828
+     Game of 6/16/2005 -- Pittsburgh at New York (N)
+
+  Pittsburgh         AB  R  H RBI    New York           AB  R  H RBI
+Sanchez F, 3b         4  0  0  0   Jeter D, ss           4  1  2  0   
+Lawton M, rf          4  0  0  0   Matsui H, dh          4  1  1  2   
+Bay J, cf             4  0  1  0   Sheffield G, rf       4  0  1  2   
+Doumit R, dh          4  0  0  0   Rodriguez A, 3b       3  0  0  0   
+Restovich M, lf       4  1  2  1   Sierra R, lf          4  0  0  0   
+Ward D, 1b            4  0  1  0   Crosby B, lf          0  0  0  0   
+Castillo J, 2b        3  0  0  0   Williams B, cf        3  1  0  0   
+Cota H, c             3  0  0  0   Giambi J, 1b          2  2  1  1   
+Wilson J, ss          3  0  1  0   Martinez T, 1b        0  0  0  0   
+                                   Flaherty J, c         4  0  2  0   
+                                   Cano R, 2b            4  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     33  1  5  1                        32  6  9  6
+
+Pittsburgh       000 100 000 --  1
+New York         220 200 00x --  6
+
+  Pittsburgh           IP  H  R ER BB SO
+Perez O (L)           5.0  7  6  6  5  5
+Vogelsong R           1.0  0  0  0  0  0
+Grabow J              1.0  0  0  0  0  0
+Torres S              1.0  2  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Johnson R (W)         9.0  5  1  1  0 11
+
+E -- Restovich M, Jeter D
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 5, New York 8
+2B -- Jeter D, Giambi J, Sheffield G
+HR -- Matsui H, Restovich M
+HBP -- by Perez O (Giambi J)
+Balk -- Johnson R
+T -- 2:19
+A -- 54734
+     Game of 6/17/2005 -- Chicago at New York (N)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Perez N, ss           5  0  0  0   Jeter D, ss           4  1  1  0   
+Patterson C, cf       5  1  2  0   Cano R, 2b            5  1  1  0   
+Lee D, 1b             5  0  2  1   Sheffield G, rf       3  3  2  0   
+Burnitz J, rf         5  2  3  0   Rodriguez A, 3b       4  2  3  2   
+Ramirez A, 3b         4  2  2  0   Matsui H, dh          4  1  3  5   
+Walker T, dh          3  0  1  1   Johnson R, pr         0  0  0  0   
+Hollandsworth T, lf   4  1  1  2   Posada J, c           4  1  2  1   
+Blanco H, c           3  0  1  2   Giambi J, 1b          3  0  0  0   
+Barrett M, ph-c       1  0  0  0   Martinez T, 1b        1  0  0  0   
+Wilson E, 2b          3  0  0  0   Williams B, cf        4  0  2  1   
+Hairston J, pr-2b     0  0  0  0   Womack T, lf          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 12  6                        36  9 15  9
+
+Chicago          000 213 000 --  6
+New York         013 000 32x --  9
+
+  Chicago              IP  H  R ER BB SO
+Zambrano C            6.1  9  6  6  6  3
+Ohman W (L)*          0.0  2  1  1  1  0
+Wuertz M+             0.2  3  2  2  1  1
+Remlinger M           1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pavano C              5.1 10  6  6  1  3
+Quantrill P           1.1  1  0  0  1  0
+Stanton M (W)         0.2  0  0  0  0  0
+Gordon T              0.2  0  0  0  1  1
+Rivera M (S)          1.0  1  0  0  0  0
+  * Pitched to 3 batters in 7th
+  + Pitched to 3 batters in 8th
+
+E -- Wilson E
+DP -- Chicago 4
+LOB -- Chicago 8, New York 11
+2B -- Rodriguez A, Patterson C, Burnitz J, Sheffield G, Matsui H
+3B -- Patterson C
+HR -- Matsui H
+SB -- Hollandsworth T
+CS -- Lee D
+WP -- Pavano C
+T -- 3:24
+A -- 54773
+     Game of 6/18/2005 -- Chicago at New York (D)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Perez N, ss           4  0  0  0   Jeter D, ss           5  2  2  5   
+Patterson C, cf       4  0  0  0   Womack T, lf          5  0  1  0   
+Lee D, 1b             4  0  2  0   Sheffield G, rf       5  1  3  1   
+Burnitz J, rf         3  0  0  0   Rodriguez A, 3b       5  0  1  1   
+Ramirez A, 3b         4  0  1  0   Johnson R, 3b         0  0  0  0   
+Walker T, 2b          3  0  1  0   Matsui H, dh          3  1  1  0   
+Barrett M, c          2  0  0  0   Posada J, c           3  1  1  1   
+Hollandsworth T, lf   3  0  0  0   Williams B, cf        4  1  3  0   
+Dubois J, dh          3  1  1  1   Crosby B, cf          0  0  0  0   
+                                   Martinez T, 1b        4  0  0  0   
+                                   Cano R, 2b            3  2  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        37  8 13  8
+
+Chicago          000 001 000 --  1
+New York         100 114 01x --  8
+
+  Chicago              IP  H  R ER BB SO
+Rusch G (L)*          5.0  9  5  4  1  3
+Hill R                0.1  0  1  1  1  1
+Borowski J            0.2  2  1  1  0  1
+Wellemeyer T          1.0  1  0  0  1  1
+Bartosh C             1.0  1  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Wang C (W)            8.0  5  1  1  1  5
+Sturtze T             1.0  0  0  0  1  0
+  * Pitched to 2 batters in 6th
+
+E -- Patterson C
+DP -- New York 2
+LOB -- Chicago 4, New York 8
+2B -- Matsui H, Posada J, Walker T
+HR -- Dubois J, Jeter D 2
+T -- 2:42
+A -- 55284
+     Game of 6/19/2005 -- Chicago at New York (D)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Perez N, ss           5  0  0  0   Jeter D, ss           3  2  0  0   
+Hollandsworth T, lf   4  0  0  0   Womack T, lf          4  0  2  1   
+Lee D, 1b             4  2  2  0   Sheffield G, rf       4  0  1  1   
+Burnitz J, rf         4  1  3  1   Rodriguez A, 3b       4  1  1  2   
+Ramirez A, 3b         3  0  1  0   Matsui H, dh          4  0  1  1   
+Walker T, 2b          4  0  1  2   Johnson R, pr         0  0  0  0   
+Barrett M, c          4  0  1  0   Posada J, c           4  0  0  0   
+Patterson C, cf       3  0  0  0   Giambi J, 1b          3  1  1  0   
+Dubois J, dh          3  0  0  0   Martinez T, 1b        0  0  0  0   
+                                   Williams B, cf        4  1  1  0   
+                                   Cano R, 2b            4  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        34  6  9  6
+
+Chicago          010 100 010 --  3
+New York         001 401 00x --  6
+
+  Chicago              IP  H  R ER BB SO
+Mitre S (L)           5.2  8  6  5  4  2
+Ohman W               1.1  0  0  0  0  2
+Wuertz M              1.0  1  0  0  2  3
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         6.1  5  2  2  2  5
+Sturtze T             1.0  1  1  1  0  0
+Gordon T              0.2  2  0  0  0  1
+Rivera M (S)          1.0  0  0  0  0  1
+
+E -- Lee D, Perez N
+DP -- Chicago 1, New York 1
+LOB -- Chicago 7, New York 12
+HR -- Burnitz J
+SB -- Lee D, Rodriguez A, Womack T, Jeter D
+SF -- Womack T
+HBP -- by Mitre S (Jeter D), by Sturtze T (Dubois J)
+WP -- Mitre S
+T -- 2:58
+A -- 55060
+     Game of 6/20/2005 -- Tampa Bay at New York (N)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Crawford C, lf        4  0  2  1   Jeter D, ss           4  1  1  0   
+Lugo J, ss            5  1  3  1   Womack T, lf          4  0  0  0   
+Cantu J, 2b           3  0  1  1   Sheffield G, rf       4  1  1  1   
+Huff A, rf            5  0  0  0   Rodriguez A, 3b       4  0  1  0   
+Taylor R, cf          0  0  0  0   Matsui H, dh          3  1  2  3   
+Perez E, 1b           2  1  0  0   Posada J, c           3  0  0  0   
+Lee T, ph-1b          2  0  1  0   Crosby B, pr          0  0  0  0   
+Gomes J, dh           2  1  1  0   Martinez T, 1b        0  0  0  0   
+Hollins D, cf-rf      3  1  1  1   Giambi J, 1b          4  0  0  0   
+Hall T, c             5  0  1  0   Flaherty J, c         0  0  0  0   
+Gonzalez A, 3b        4  1  0  0   Williams B, cf        2  0  0  0   
+                                   Cano R, 2b            4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5 10  4                        32  4  6  4
+
+Tampa Bay        030 011 000 --  5
+New York         000 000 040 --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Fossum C (W)*         7.0  3  1  1  3  5
+Carter L              0.2  3  3  3  0  0
+Baez D (S)            1.1  0  0  0  1  2
+
+  New York             IP  H  R ER BB SO
+Henn S (L)            4.2  4  4  3  7  1
+Quantrill P           2.1  5  1  1  0  1
+Groom B               1.0  1  0  0  0  0
+Rivera M              1.0  0  0  0  2  1
+  * Pitched to 1 batter in 8th
+
+E -- Jeter D
+DP -- Tampa Bay 1, New York 1
+LOB -- Tampa Bay 13, New York 6
+2B -- Matsui H, Cantu J, Rodriguez A, Lugo J
+HR -- Matsui H
+SB -- Lugo J, Gomes J
+CS -- Crawford C
+HBP -- by Fossum C (Jeter D), by Groom B (Cantu J)
+T -- 3:07
+A -- 43543
+     Game of 6/21/2005 -- Tampa Bay at New York (N)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Crawford C, lf        6  2  4  1   Jeter D, ss           6  5  5  1   
+Lugo J, ss            5  1  2  1   Womack T, lf          4  1  1  0   
+Cantu J, 2b           6  0  1  1   Sierra R, ph-lf       2  1  1  1   
+Huff A, rf            4  1  0  0   Sheffield G, rf       6  3  4  7   
+Perez E, 1b           1  2  1  0   Rodriguez A, 3b       6  2  2  2   
+Lee T, ph-1b          3  0  2  1   Matsui H, dh          5  4  4  2   
+Gomes J, dh           5  1  3  2   Giambi J, 1b          3  0  2  0   
+Hollins D, cf         5  1  2  4   Johnson R, pr-1b      1  1  0  0   
+Cash K, c             4  1  1  1   Williams B, cf        4  1  2  5   
+Gonzalez A, 3b        5  2  2  0   Flaherty J, c         2  0  0  0   
+                                   Posada J, ph-c        2  1  1  2   
+                                   Cano R, 2b            5  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     44 11 18 11                        46 20 23 20
+
+Tampa Bay        052 300 100 -- 11
+New York         011 041 0(13)x -- 20
+
+  Tampa Bay            IP  H  R ER BB SO
+Nomo H                4.2 10  6  6  1  3
+Orvella C             2.1  1  1  1  2  2
+Nunez F               0.1  4  4  4  0  0
+Harper T (L)          0.2  8  9  9  1  0
+
+  New York             IP  H  R ER BB SO
+Johnson R             3.0  8  7  7  1  3
+Proctor S             2.0  3  3  1  2  2
+Stanton M             0.1  1  0  0  0  0
+Sturtze T             1.1  4  1  1  0  1
+Groom B (W)           1.1  2  0  0  1  0
+Gordon T              1.0  0  0  0  0  2
+
+E -- Cano R
+DP -- New York 1
+LOB -- Tampa Bay 10, New York 7
+2B -- Giambi J, Jeter D, Williams B, Lee T, Matsui H
+3B -- Crawford C, Williams B
+HR -- Hollins D, Cash K, Gomes J, Sheffield G 2, Jeter D, Posada J, Rodriguez A, Matsui H
+SB -- Gonzalez A, Lugo J 2, Crawford C
+CS -- Lee T
+SF -- Williams B
+T -- 3:36
+A -- 40241
+     Game of 6/22/2005 -- Tampa Bay at New York (D)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Crawford C, lf        4  0  1  0   Jeter D, ss           5  0  0  0   
+Lugo J, ss            4  0  0  0   Williams B, cf        3  1  1  0   
+Cantu J, 3b           4  0  0  0   Sheffield G, rf       4  1  2  2   
+Gonzalez A, 3b        0  0  0  0   Rodriguez A, 3b       4  0  1  0   
+Lee T, 1b             4  1  1  0   Matsui H, dh          3  0  0  0   
+Gomes J, dh           3  2  1  2   Womack T, pr          0  0  0  0   
+Huff A, rf            2  0  1  0   Sierra R, lf          3  1  1  0   
+Taylor R, cf          2  0  0  0   Johnson R, 1b         2  0  0  0   
+Hollins D, cf-rf      4  0  0  0   Posada J, ph          1  0  0  0   
+Hall T, c             1  1  0  0   Flaherty J, c         2  0  0  0   
+Green N, 2b           3  1  2  3   Giambi J, ph          1  0  0  0   
+                                   Cano R, 2b            4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     31  5  6  5                        32  3  6  3
+
+Tampa Bay        000 200 300 --  5
+New York         200 010 000 --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Kazmir S (W)          7.0  4  3  3  2  4
+Carter L              0.2  1  0  0  0  0
+Baez D (S)            1.1  1  0  0  1  3
+
+  New York             IP  H  R ER BB SO
+Pavano C (L)          6.2  6  5  5  1  7
+Stanton M             0.1  0  0  0  0  0
+Sturtze T             2.0  0  0  0  0  2
+
+E -- Rodriguez A
+DP -- New York 2
+LOB -- Tampa Bay 2, New York 7
+2B -- Sierra R
+3B -- Cano R
+HR -- Sheffield G, Gomes J, Green N
+SB -- Crawford C
+CS -- Huff A
+SH -- Flaherty J
+HBP -- by Pavano C (Hall T) 2, by Kazmir S (Johnson R)
+PB -- Hall T
+T -- 2:48
+A -- 48452
+     Game of 6/23/2005 -- Tampa Bay at New York (N)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Crawford C, lf        5  0  1  1   Jeter D, ss           5  1  2  0   
+Lugo J, ss            3  2  2  0   Williams B, cf        5  2  2  2   
+Cantu J, 3b           5  3  3  4   Sheffield G, rf       3  0  0  1   
+Lee T, 1b             3  1  1  0   Rodriguez A, 3b       3  0  1  0   
+Gomes J, rf           5  1  0  0   Matsui H, dh          4  0  2  1   
+Munson E, dh          5  1  2  0   Womack T, pr          0  0  0  0   
+Hollins D, cf         4  0  1  3   Posada J, c           3  0  0  0   
+Hall T, c             4  0  0  0   Sierra R, lf          4  0  0  0   
+Green N, 2b           4  1  1  0   Giambi J, 1b          4  0  2  0   
+                                   Cano R, 2b            4  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 11  8                        35  4 11  4
+
+Tampa Bay        202 011 003 --  9
+New York         202 000 000 --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Hendrickson M (W)     7.2  9  4  4  1  1
+Baez D (S)            1.1  2  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Wang C (L)            6.0  8  6  5  3  1
+Stanton M             1.0  0  0  0  0  1
+Gordon T              1.2  3  3  3  2  2
+Proctor S             0.1  0  0  0  0  0
+
+E -- Jeter D
+DP -- Tampa Bay 2, New York 1
+LOB -- Tampa Bay 8, New York 7
+2B -- Lugo J, Williams B, Green N, Rodriguez A, Cantu J, Hollins D
+HR -- Cantu J 2, Williams B
+SB -- Womack T
+SF -- Sheffield G
+HBP -- by Wang C (Hall T)
+T -- 3:09
+A -- 45382
+     Game of 6/24/2005 -- New York at New York (N)
+
+  New York           AB  R  H RBI    New York           AB  R  H RBI
+Reyes J, ss           3  0  0  2   Jeter D, ss           4  2  3  1   
+Cameron M, rf         3  0  1  1   Cano R, 2b            5  0  0  0   
+Beltran C, cf         4  1  1  1   Sheffield G, rf       4  0  1  0   
+Floyd C, lf           3  1  1  1   Rodriguez A, 3b       4  0  3  1   
+Piazza M, dh          4  0  1  0   Matsui H, dh          3  0  0  0   
+Anderson M, 2b        4  1  2  0   Williams B, cf        4  0  0  0   
+Wright D, 3b          3  1  0  0   Posada J, c           3  1  0  0   
+Mientkiewicz D, 1b    4  2  2  0   Martinez T, 1b        4  1  1  2   
+Castro R, c           3  0  0  1   Womack T, lf          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  6  8  6                        35  4  8  4
+
+New York         031 010 001 --  6
+New York         101 000 002 --  4
+
+  New York             IP  H  R ER BB SO
+Martinez P (W)        8.0  6  2  2  2  3
+Looper B              1.0  2  2  2  1  0
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         6.0  6  5  4  1  4
+Sturtze T             2.0  1  0  0  1  0
+Quantrill P           1.0  1  1  1  0  0
+
+E -- Williams B, Mussina M
+LOB -- New York 5, New York 7
+2B -- Cameron M, Piazza M, Mientkiewicz D
+HR -- Jeter D, Floyd C, Beltran C, Martinez T
+SB -- Rodriguez A
+CS -- Anderson M
+SF -- Castro R, Reyes J 2, Cameron M
+HBP -- by Mussina M (Floyd C)
+T -- 2:50
+A -- 55297
+     Game of 6/25/2005 -- New York at New York (D)
+
+  New York           AB  R  H RBI    New York           AB  R  H RBI
+Reyes J, ss           5  1  2  1   Jeter D, ss           5  0  1  0   
+Cameron M, rf         5  1  0  0   Williams B, cf        5  0  1  0   
+Beltran C, cf         5  1  2  1   Sheffield G, rf       5  0  1  0   
+Floyd C, lf           3  3  2  4   Rodriguez A, 3b       5  0  2  0   
+Williams G, pr-lf     0  0  0  0   Matsui H, dh          4  0  2  0   
+Piazza M, dh          5  1  2  0   Posada J, c           3  1  0  0   
+Wright D, 3b          4  2  2  2   Giambi J, 1b          4  1  2  0   
+Woodward C, 2b        4  1  2  1   Sierra R, lf          4  0  0  0   
+Mientkiewicz D, 1b    2  0  0  0   Cano R, 2b            3  1  2  3   
+Daubach B, 1b         3  0  0  0                                      
+Castro R, c           4  0  2  1                                      
+                     -- -- -- --                        -- -- -- --
+                     40 10 14 10                        38  3 11  3
+
+New York         210 031 300 -- 10
+New York         020 000 001 --  3
+
+  New York             IP  H  R ER BB SO
+Glavine T (W)         6.0  7  2  2  2  1
+Heilman A             1.0  0  0  0  0  1
+Graves D              2.0  4  1  1  0  2
+
+  New York             IP  H  R ER BB SO
+Henn S (L)            4.1  7  6  6  2  2
+Proctor S             1.2  2  1  1  1  2
+Stanton M*            0.0  0  1  1  1  0
+Quantrill P           2.0  4  2  2  1  1
+Groom B               1.0  1  0  0  1  0
+  * Pitched to 1 batter in 7th
+
+LOB -- New York 10, New York 10
+2B -- Castro R 2, Cano R, Piazza M, Beltran C, Woodward C, Wright D
+HR -- Floyd C 2, Wright D, Cano R
+SB -- Reyes J
+SF -- Woodward C
+PB -- Posada J
+T -- 3:18
+A -- 55114
+     Game of 6/26/2005 -- New York at New York (N)
+
+  New York           AB  R  H RBI    New York           AB  R  H RBI
+Reyes J, ss           4  0  1  2   Jeter D, ss           3  1  1  1   
+Cameron M, rf         4  0  1  0   Womack T, cf          3  0  1  0   
+Beltran C, cf         4  0  0  0   Sierra R, ph-lf       2  0  0  0   
+Piazza M, dh          4  0  0  0   Sheffield G, rf       4  1  0  0   
+Floyd C, lf           4  0  0  0   Johnson R, rf         0  0  0  0   
+Wright D, 3b          4  0  2  0   Martinez T, ph        0  1  0  0   
+Woodward C, 1b        4  1  1  0   Rodriguez A, 3b       5  1  4  1   
+Castro R, c           3  2  1  0   Matsui H, dh          3  0  0  0   
+Anderson M, 2b        3  1  1  0   Giambi J, 1b          4  0  1  2   
+                                   Cano R, 2b            4  0  1  1   
+                                   Flaherty J, c         2  0  0  0   
+                                   Posada J, ph-c        1  0  0  0   
+                                   Reese K, lf           1  0  0  0   
+                                   Williams B, ph-cf     1  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  7  2                        33  5  8  5
+
+New York         001 000 300 --  4
+New York         000 001 202 --  5
+  0 outs when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Benson K*             6.0  3  2  1  5  3
+Heilman A             0.2  2  1  1  0  1
+Ring R                0.2  1  0  0  0  0
+Hernandez R           0.2  0  0  0  2  0
+Looper B (L)          0.0  2  2  2  2  0
+
+  New York             IP  H  R ER BB SO
+Johnson R             6.2  6  4  1  1  5
+Gordon T              1.1  1  0  0  0  1
+Rivera M (W)          1.0  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+E -- Wright D, Cano R, Giambi J
+LOB -- New York 4, New York 13
+2B -- Anderson M, Cameron M, Woodward C, Rodriguez A
+SB -- Cameron M
+CS -- Wright D
+WP -- Johnson R
+Balk -- Heilman A
+PB -- Flaherty J
+T -- 3:25
+A -- 55327
+     Game of 7/4/2005 -- Baltimore at New York (D)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         4  1  1  2   Jeter D, ss           5  3  2  0   
+Mora M, 3b            5  1  2  0   Cano R, 2b            3  1  1  1   
+Tejada M, ss          4  1  0  0   Sheffield G, rf       3  2  1  3   
+Palmeiro R, 1b        4  1  1  1   Rodriguez A, 3b       3  1  1  1   
+Sosa S, dh            3  2  0  0   Williams B, dh        5  1  1  2   
+Gibbons J, rf         4  2  2  2   Matsui H, lf          4  2  2  2   
+Newhan D, ph          1  0  0  0   Posada J, c           4  0  1  0   
+Matos L, cf           5  0  1  2   Giambi J, 1b          3  2  2  3   
+Bigbie L, lf          3  0  1  0   Martinez T, 1b        0  0  0  0   
+Fasano S, c           2  0  0  1   Womack T, cf          3  0  1  0   
+                                   Sierra R, ph          1  0  1  0   
+                                   Crosby B, pr-cf       1  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  8  8  8                        35 13 14 13
+
+Baltimore        001 301 300 --  8
+New York         420 000 07x -- 13
+
+  Baltimore            IP  H  R ER BB SO
+Chen B                1.1  6  6  6  2  2
+Williams T            2.2  3  0  0  1  0
+Byrdak T              1.1  0  0  0  0  2
+Ray C                 1.2  0  0  0  1  2
+Kline S*              0.0  2  2  2  0  0
+Ryan B (L)            0.2  3  5  4  3  0
+Julio J               0.1  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Sturtze T             3.2  3  4  4  3  1
+Proctor S             2.0  2  1  1  1  3
+Franklin W            0.2  2  2  2  0  1
+Anderson J (W)        1.2  1  1  1  4  1
+Rivera M              1.0  0  0  0  0  2
+  * Pitched to 2 batters in 8th
+
+E -- Tejada M
+DP -- Baltimore 1
+LOB -- Baltimore 9, New York 9
+2B -- Mora M 2, Matos L
+HR -- Sheffield G, Matsui H, Giambi J 2, Roberts B, Gibbons J
+SB -- Womack T, Tejada M, Bigbie L
+CS -- Womack T
+SH -- Cano R
+HBP -- by Sturtze T (Tejada M), by Williams T (Sheffield G), by Ray C (Rodriguez A), by Ryan B (Giambi J)
+T -- 4:12
+A -- 53844
+     Game of 7/5/2005 -- Baltimore at New York (D)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         4  0  0  0   Jeter D, ss           5  2  3  0   
+Gomez C, 1b           4  1  1  2   Cano R, 2b            5  1  1  0   
+Mora M, 3b            4  0  0  0   Sheffield G, rf       4  3  2  3   
+Newhan D, 3b          0  0  0  0   Crosby B, rf          1  0  0  0   
+Tejada M, ss          4  1  3  0   Rodriguez A, 3b       4  2  1  1   
+Sosa S, dh            4  0  2  0   Johnson R, 3b         1  0  0  0   
+Marrero E, rf         3  0  0  1   Matsui H, lf          4  2  3  3   
+Matos L, cf           4  0  2  0   Giambi J, 1b          4  2  3  2   
+Bigbie L, lf          4  0  0  0   Martinez T, pr-1b     1  0  0  0   
+Fasano S, c           2  1  1  0   Sierra R, dh          4  0  3  2   
+Whiteside E, c        1  0  0  0   Womack T, cf          5  0  1  0   
+                                   Flaherty J, c         4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  9  3                        42 12 17 11
+
+Baltimore        000 002 001 --  3
+New York         015 402 00x -- 12
+
+  Baltimore            IP  H  R ER BB SO
+Lopez R (L)*          3.0 11 10  5  0  4
+Reed S                2.0  2  0  0  0  0
+Baldwin J             2.0  4  2  2  0  2
+Kline S               1.0  0  0  0  2  1
+
+  New York             IP  H  R ER BB SO
+Johnson R (W)         7.0  7  2  2  0  8
+Groom B               2.0  2  1  1  0  1
+  * Pitched to 4 batters in 4th
+
+E -- Mora M 2, Gomez C, Jeter D
+DP -- Baltimore 2, New York 1
+LOB -- Baltimore 5, New York 8
+2B -- Giambi J 2, Cano R, Tejada M, Sosa S
+HR -- Giambi J, Sheffield G, Rodriguez A, Gomez C, Matsui H
+SB -- Sheffield G, Jeter D
+SF -- Marrero E
+T -- 2:38
+A -- 55276
+     Game of 7/7/2005 -- Cleveland at New York (N)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Sizemore G, cf        4  0  1  1   Jeter D, ss           4  1  1  1   
+Crisp C, lf           4  0  1  0   Cano R, 2b            4  1  1  0   
+Hafner T, dh          2  0  0  0   Sheffield G, rf       3  1  1  0   
+Martinez V, c         3  0  0  0   Rodriguez A, 3b       3  2  1  2   
+Broussard B, 1b       4  0  0  0   Matsui H, lf          4  1  1  1   
+Belliard R, 2b        4  0  0  0   Giambi J, 1b          3  1  2  2   
+Blake C, rf           4  0  1  0   Martinez T, 1b        1  0  1  0   
+Peralta J, ss         4  2  2  1   Posada J, c           4  0  0  0   
+Boone A, 3b           4  0  2  0   Williams B, dh        2  0  0  0   
+                                   Cabrera M, cf         4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        32  7  9  6
+
+Cleveland        010 010 000 --  2
+New York         210 003 10x --  7
+
+  Cleveland            IP  H  R ER BB SO
+Millwood K (L)        6.0  7  6  6  2  6
+Cabrera F             1.0  1  1  1  1  0
+Howry B               1.0  1  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         7.0  6  2  2  3  5
+Gordon T              0.2  0  0  0  1  2
+Proctor S             1.1  1  0  0  0  0
+
+DP -- Cleveland 1
+LOB -- Cleveland 9, New York 5
+HR -- Rodriguez A, Peralta J, Giambi J, Jeter D
+SB -- Crisp C
+SH -- Crisp C
+WP -- Millwood K
+T -- 2:53
+A -- 52201
+     Game of 7/8/2005 -- Cleveland at New York (N)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Sizemore G, cf        5  1  1  1   Jeter D, ss           3  1  2  1   
+Crisp C, lf           4  0  1  0   Cano R, 2b            4  0  0  1   
+Hafner T, dh          3  0  0  0   Sheffield G, rf       3  1  0  0   
+Martinez V, c         4  0  0  0   Rodriguez A, 3b       3  0  2  1   
+Broussard B, 1b       4  0  1  0   Matsui H, lf          4  1  1  0   
+Belliard R, 2b        4  1  1  0   Giambi J, 1b          2  0  1  1   
+Peralta J, ss         4  1  2  0   Martinez T, 1b        2  0  0  0   
+Gerut J, rf           1  1  0  0   Posada J, c           2  0  0  1   
+Blake C, ph           0  0  0  1   Williams B, dh        2  1  0  0   
+Boone A, 3b           4  0  4  1   Cabrera M, cf         3  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4 10  3                        28  5  8  5
+
+Cleveland        110 010 001 --  4
+New York         004 001 00x --  5
+
+  Cleveland            IP  H  R ER BB SO
+Lee C (L)             6.0  6  5  5  3  6
+Riske D               1.0  1  0  0  0  0
+Wickman B             1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Wang C (W)            6.2  7  3  3  3  3
+Franklin W            1.1  0  0  0  0  2
+Rivera M (S)          1.0  3  1  1  0  1
+
+DP -- Cleveland 2, New York 3
+LOB -- Cleveland 6, New York 4
+2B -- Peralta J, Jeter D, Matsui H, Belliard R
+HR -- Sizemore G
+SB -- Rodriguez A
+CS -- Jeter D
+SH -- Jeter D
+SF -- Posada J, Blake C
+WP -- Wang C
+T -- 3:03
+A -- 52938
+     Game of 7/9/2005 -- Cleveland at New York (D)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Sizemore G, cf        5  0  0  0   Jeter D, ss           5  0  1  0   
+Crisp C, lf           5  2  3  0   Cano R, 2b            5  1  2  1   
+Hafner T, dh          4  1  2  2   Sheffield G, dh       2  2  1  1   
+Blake C, rf           4  2  2  0   Rodriguez A, 3b       5  1  1  1   
+Hernandez J, 1b       5  2  3  5   Matsui H, lf          4  1  1  3   
+Peralta J, ss         4  1  1  1   Giambi J, 1b          4  0  1  0   
+Boone A, 3b           4  0  0  0   Martinez T, 1b        0  0  0  0   
+Bard J, c             4  0  1  0   Posada J, c           4  0  0  0   
+Phillips B, 2b        4  0  0  0   Sierra R, rf          4  2  3  1   
+                                   Cabrera M, cf         2  0  0  0   
+                                   Williams B, ph-cf     2  0  1  0   
+                                   Womack T, pr          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  8 12  8                        37  7 11  7
+
+Cleveland        032 020 001 --  8
+New York         200 010 031 --  7
+
+  Cleveland            IP  H  R ER BB SO
+Elarton S (W)         7.0  6  3  3  1  3
+Howry B               0.1  1  2  2  1  0
+Rhodes A              0.2  1  1  1  0  1
+Wickman B (S)         1.0  3  1  1  1  0
+
+  New York             IP  H  R ER BB SO
+May D (L)             4.1  8  7  7  0  3
+Proctor S             2.2  2  0  0  1  2
+Sturtze T             2.0  2  1  1  0  1
+
+DP -- Cleveland 1
+LOB -- Cleveland 6, New York 6
+2B -- Blake C, Hafner T 2, Sierra R 2, Crisp C
+HR -- Sheffield G, Rodriguez A, Hernandez J 2, Peralta J, Matsui H, Sierra R
+SB -- Crisp C
+HBP -- by Proctor S (Blake C)
+T -- 3:12
+A -- 54366
+     Game of 7/10/2005 -- Cleveland at New York (D)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Sizemore G, cf        5  2  3  0   Jeter D, ss           4  1  1  0   
+Crisp C, lf           4  0  1  0   Cano R, 2b            5  1  2  0   
+Hafner T, dh          3  0  2  3   Sheffield G, rf       4  2  1  3   
+Martinez V, c         4  0  0  0   Rodriguez A, 3b       3  1  0  0   
+Blake C, rf           4  0  0  0   Matsui H, lf          4  3  3  1   
+Hernandez J, 1b       3  1  2  0   Giambi J, 1b          2  1  1  2   
+Belliard R, 2b        4  0  1  0   Martinez T, 1b        0  0  0  0   
+Peralta J, ss         4  0  0  0   Sierra R, dh          3  0  1  2   
+Boone A, 3b           4  1  2  1   Flaherty J, c         3  0  0  1   
+                                   Cabrera M, cf         4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 11  4                        32  9  9  9
+
+Cleveland        110 010 100 --  4
+New York         010 230 03x --  9
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (L)       6.0  6  6  5  5  4
+Riske D               0.1  0  0  0  1  1
+Sauerbeck S           0.1  1  0  0  0  1
+Rhodes A              1.0  1  2  2  1  2
+Howry B               0.1  1  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Johnson R (W)         6.0  9  3  3  1  8
+Franklin W            0.1  2  1  1  1  0
+Sturtze T             0.2  0  0  0  0  1
+Rivera M (S)          2.0  0  0  0  0  3
+
+E -- Cano R, Peralta J
+DP -- Cleveland 1, New York 1
+LOB -- Cleveland 7, New York 7
+2B -- Sizemore G, Hafner T, Boone A, Crisp C, Cano R, Matsui H
+3B -- Sizemore G
+HR -- Giambi J, Sheffield G
+SB -- Hernandez J
+CS -- Hernandez J, Belliard R
+SF -- Flaherty J, Hafner T
+T -- 3:13
+A -- 54256
+     Game of 7/26/2005 -- Minnesota at New York (N)
+
+  Minnesota          AB  R  H RBI    New York           AB  R  H RBI
+Stewart S, lf         3  0  0  0   Jeter D, ss           4  1  2  0   
+Punto N, 3b           4  0  0  0   Cano R, 2b            4  0  0  0   
+Hunter T, cf          3  0  0  0   Sheffield G, rf       4  1  1  0   
+Mauer J, c            3  0  0  0   Rodriguez A, 3b       3  1  2  1   
+LeCroy M, dh          3  0  0  0   Matsui H, lf          4  0  2  2   
+Ford L, rf            3  0  1  0   Giambi J, dh          1  1  0  0   
+Boone B, 2b           3  0  0  0   Williams B, cf        4  0  2  0   
+Cuddyer M, 1b         3  0  0  0   Martinez T, 1b        3  0  0  1   
+Castro J, ss          2  0  1  0   Flaherty J, c         4  0  0  0   
+Tiffee T, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  0  2  0                        31  4  9  4
+
+Minnesota        000 000 000 --  0
+New York         020 000 20x --  4
+
+  Minnesota            IP  H  R ER BB SO
+Radke B (L)           6.0  5  2  2  2  3
+Crain J               0.2  2  2  2  1  1
+Romero J              0.1  1  0  0  0  1
+Mulholland T          1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Johnson R (W)         8.0  2  0  0  0 11
+Gordon T              1.0  0  0  0  0  0
+
+DP -- Minnesota 2, New York 1
+LOB -- Minnesota 2, New York 8
+2B -- Matsui H, Ford L
+HR -- Rodriguez A
+HBP -- by Johnson R (Stewart S), by Radke B (Martinez T), by Radke B (Giambi J)
+WP -- Radke B
+T -- 2:30
+A -- 53855
+     Game of 7/27/2005 -- Minnesota at New York (N)
+
+  Minnesota          AB  R  H RBI    New York           AB  R  H RBI
+Stewart S, lf         4  0  3  2   Jeter D, ss           4  0  1  0   
+Punto N, ss           5  0  1  0   Cano R, 2b            5  1  3  0   
+Ford L, dh            6  0  0  0   Sheffield G, rf       5  1  2  0   
+Mauer J, c            5  2  2  0   Rodriguez A, 3b       3  0  0  0   
+Hunter T, cf          4  2  3  1   Matsui H, lf          3  1  2  0   
+Jones J, rf           5  1  1  2   Giambi J, dh          3  0  0  1   
+Boone B, 2b           3  0  0  0   Posada J, c           4  0  0  0   
+Morneau J, 1b         4  2  2  2   Martinez T, 1b        4  0  1  0   
+Cuddyer M, 3b         3  0  2  0   Williams B, cf        4  0  0  0   
+Castro J, 3b          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  7 14  7                        35  3  9  1
+
+Minnesota        001 000 321 --  7
+New York         000 000 030 --  3
+
+  Minnesota            IP  H  R ER BB SO
+Santana J (W)         7.0  7  0  0  2  5
+Rincon J              0.2  2  3  1  2  0
+Nathan J (S)          1.1  0  0  0  1  2
+
+  New York             IP  H  R ER BB SO
+Leiter A (L)          5.0  7  1  1  5  2
+Rodriguez F           1.0  1  0  0  0  1
+Sturtze T             1.0  3  3  3  2  2
+Proctor S             1.0  2  2  2  0  1
+Graman A              1.0  1  1  1  1  0
+
+E -- Boone B
+DP -- Minnesota 1, New York 1
+LOB -- Minnesota 14, New York 10
+2B -- Cuddyer M, Morneau J, Mauer J, Stewart S
+HR -- Jones J, Morneau J
+SB -- Mauer J, Stewart S, Hunter T
+HBP -- by Leiter A (Stewart S)
+WP -- Leiter A
+T -- 3:42
+A -- 50334
+     Game of 7/28/2005 -- Minnesota at New York (D)
+
+  Minnesota          AB  R  H RBI    New York           AB  R  H RBI
+Stewart S, lf         4  0  0  0   Jeter D, ss           4  1  1  0   
+Punto N, ss           4  0  1  0   Cano R, 2b            5  2  3  2   
+Mauer J, dh           4  0  0  0   Sheffield G, dh       4  1  2  4   
+Hunter T, cf          4  1  1  0   Rodriguez A, 3b       4  0  2  0   
+Jones J, rf           4  1  2  1   Matsui H, lf          4  0  1  0   
+Morneau J, 1b         4  0  0  0   Giambi J, 1b          4  0  0  0   
+Cuddyer M, 3b         3  1  1  0   Martinez T, 1b        0  0  0  0   
+Redmond M, c          3  0  1  0   Posada J, c           3  1  1  0   
+Rodriguez L, 2b       3  0  1  2   Williams B, cf        3  1  1  0   
+                                   Crosby B, rf          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        35  6 11  6
+
+Minnesota        020 100 000 --  3
+New York         300 012 00x --  6
+
+  Minnesota            IP  H  R ER BB SO
+Mays J (L)            5.2 11  6  6  1  3
+Guerrier M            1.1  0  0  0  0  1
+Romero J              1.0  0  0  0  2  0
+
+  New York             IP  H  R ER BB SO
+Small A (W)           7.0  6  3  3  0  1
+Gordon T              1.0  1  0  0  0  2
+Rivera M (S)          1.0  0  0  0  0  1
+
+E -- Mays J
+LOB -- Minnesota 3, New York 8
+2B -- Jones J, Cano R
+HR -- Sheffield G
+SB -- Hunter T
+T -- 2:24
+A -- 53524
+     Game of 7/29/2005 -- Anaheim at New York (N)
+
+  Anaheim            AB  R  H RBI    New York           AB  R  H RBI
+Figgins C, 3b         4  0  1  0   Jeter D, ss           3  0  2  0   
+Cabrera O, ss         4  0  0  0   Cano R, 2b            4  0  0  0   
+Erstad D, 1b          4  0  1  0   Sheffield G, rf       3  0  1  0   
+Guerrero V, dh        4  2  2  0   Rodriguez A, 3b       4  0  1  0   
+Anderson G, lf        4  1  2  2   Matsui H, lf          3  0  0  0   
+Finley S, cf          4  0  0  0   Giambi J, dh          3  0  0  0   
+Rivera J, rf          4  0  1  1   Posada J, c           4  0  1  0   
+Molina B, c           4  1  2  1   Martinez T, 1b        4  1  1  1   
+Kennedy A, 2b         3  0  1  0   Womack T, cf          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 10  4                        32  1  7  1
+
+Anaheim          030 000 001 --  4
+New York         000 000 100 --  1
+
+  Anaheim              IP  H  R ER BB SO
+Santana E (W)         6.1  6  1  1  2  5
+Donnelly B            0.2  0  0  0  0  0
+Shields S             1.0  1  0  0  0  1
+Rodriguez F (S)       1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         8.0  8  3  3  0  5
+Sturtze T             1.0  2  1  1  0  1
+
+E -- Mussina M
+DP -- Anaheim 1, New York 2
+LOB -- Anaheim 4, New York 8
+2B -- Womack T, Rivera J, Jeter D
+HR -- Anderson G, Molina B, Martinez T
+SB -- Kennedy A
+CS -- Figgins C, Womack T
+HBP -- by Santana E (Sheffield G), by Santana E (Matsui H)
+T -- 2:59
+A -- 54025
+     Game of 7/30/2005 -- Anaheim at New York (D)
+
+  Anaheim            AB  R  H RBI    New York           AB  R  H RBI
+Figgins C, 3b         4  2  1  0   Jeter D, ss           4  1  1  2   
+Cabrera O, ss         5  1  1  2   Cano R, 2b            5  0  0  0   
+Erstad D, 1b          4  0  1  0   Sheffield G, rf       4  1  1  0   
+Guerrero V, dh        5  0  0  1   Rodriguez A, 3b       3  0  1  1   
+Anderson G, lf        5  0  1  0   Matsui H, dh          5  1  2  2   
+Finley S, cf          3  1  1  0   Giambi J, 1b          3  1  3  2   
+Rivera J, rf          4  1  2  2   Posada J, c           4  0  0  0   
+Molina J, c           2  0  0  0   Williams B, cf        4  2  2  1   
+DaVanon J, ph         0  1  0  0   Womack T, lf          3  2  2  0   
+Paul J, c             1  0  1  0                                      
+Kennedy A, 2b         2  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  7  9  5                        35  8 12  8
+
+Anaheim          001 000 420 --  7
+New York         020 001 023 --  8
+  1 out when winning run was scored.
+
+  Anaheim              IP  H  R ER BB SO
+Byrd P                7.0  9  3  3  1  4
+Peralta J             0.1  0  0  0  0  1
+Woods J*              0.0  2  2  2  0  0
+Rodriguez F (L)       1.0  1  3  3  4  2
+
+  New York             IP  H  R ER BB SO
+Chacon S              6.0  4  1  0  3  4
+Rodriguez F+          0.0  0  1  1  1  0
+Embree A#             0.0  1  2  1  0  0
+Gordon T**            1.0  4  3  3  0  1
+Franklin W            1.0  0  0  0  0  1
+Rivera M (W)          1.0  0  0  0  0  2
+  * Pitched to 2 batters in 8th
+  + Pitched to 1 batter in 7th
+  # Pitched to 2 batters in 7th
+  ** Pitched to 3 batters in 8th
+
+E -- Embree A
+DP -- Anaheim 1
+LOB -- Anaheim 7, New York 8
+2B -- Williams B, Jeter D, Paul J, Matsui H
+HR -- Williams B, Rivera J, Giambi J
+SB -- Womack T 3, Figgins C, Kennedy A, Finley S
+SH -- Figgins C, Kennedy A
+HBP -- by Byrd P (Rodriguez A)
+WP -- Rodriguez F
+Balk -- Gordon T
+PB -- Posada J
+T -- 3:43
+A -- 54220
+     Game of 7/31/2005 -- Anaheim at New York (D)
+
+  Anaheim            AB  R  H RBI    New York           AB  R  H RBI
+Figgins C, cf         4  1  2  0   Jeter D, ss           5  0  4  1   
+Cabrera O, ss         4  2  3  1   Cano R, 2b            6  0  0  0   
+Guerrero V, dh        4  0  1  1   Sheffield G, rf       5  1  1  1   
+Anderson G, lf        4  0  0  0   Rodriguez A, 3b       6  0  1  0   
+Rivera J, rf          3  1  0  1   Matsui H, lf          6  2  2  1   
+Molina B, c           5  1  1  3   Giambi J, dh          3  3  2  2   
+Izturis M, 3b         5  0  0  0   Martinez T, 1b        4  0  1  0   
+Molina J, 1b          3  1  1  1   Crosby B, pr          0  1  0  0   
+Erstad D, 1b          1  0  1  0   Phillips A, 1b        2  0  0  0   
+Kennedy A, 2b         3  1  0  0   Williams B, cf        4  0  1  1   
+                                   Womack T, pr-cf       1  1  1  1   
+                                   Flaherty J, c         2  0  0  0   
+                                   Posada J, ph-c        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7  9  7                        45  8 13  7
+
+Anaheim          000 310 020 10 --  7
+New York         010 000 140 11 --  8
+  1 out when winning run was scored.
+
+  Anaheim              IP  H  R ER BB SO
+Bootcheck C           6.0  5  1  1  0  3
+Yan E                 0.2  1  1  1  1  1
+Donnelly B            0.2  2  3  1  2  1
+Shields S             0.2  1  1  0  1  0
+Peralta J             1.0  0  0  0  1  0
+Gregg K (L)           1.1  4  2  2  2  4
+
+  New York             IP  H  R ER BB SO
+Johnson R             7.1  6  6  6  2  7
+Sturtze T*            0.0  0  0  0  0  0
+Embree A              0.1  0  0  0  1  0
+Rodriguez F           0.1  0  0  0  0  0
+Rivera M              2.0  3  1  1  0  1
+Gordon T (W)          1.0  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Bootcheck C, Erstad D, Kennedy A
+DP -- Anaheim 1, New York 1
+LOB -- Anaheim 3, New York 14
+2B -- Cabrera O, Williams B
+3B -- Figgins C, Matsui H
+HR -- Giambi J 2, Molina B, Molina J
+SB -- Cabrera O 3, Rodriguez A, Guerrero V
+CS -- Figgins C, Cabrera O, Guerrero V
+SH -- Figgins C
+SF -- Rivera J, Williams B
+HBP -- by Johnson R (Kennedy A), by Sturtze T (Guerrero V)
+WP -- Donnelly B, Gregg K
+T -- 4:20
+A -- 53653
+     Game of 8/8/2005 -- Chicago at New York (N)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Podsednik S, lf       4  0  1  0   Jeter D, ss           4  0  0  1   
+Iguchi T, 2b          4  0  0  0   Cano R, 2b            4  0  0  0   
+Pierzynski A, c       4  0  1  0   Sheffield G, rf       2  1  0  0   
+Konerko P, 1b         4  0  2  0   Rodriguez A, 3b       4  1  1  2   
+Perez T, dh           4  0  2  0   Matsui H, lf          3  0  0  0   
+Dye J, rf             4  1  1  0   Giambi J, dh          2  0  0  0   
+Rowand A, cf          4  1  1  1   Posada J, c           3  0  0  0   
+Crede J, 3b           3  0  0  0   Martinez T, 1b        3  1  2  0   
+Uribe J, ss           2  0  1  1   Womack T, cf          3  0  1  0   
+                                   Crosby B, cf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  9  2                        28  3  4  3
+
+Chicago          000 020 000 --  2
+New York         210 000 00x --  3
+
+  Chicago              IP  H  R ER BB SO
+Hernandez O (L)       6.0  4  3  3  3  4
+Cotts N               1.0  0  0  0  0  1
+Jenks B               1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         6.0  8  2  2  0  7
+Sturtze T             1.0  1  0  0  0  0
+Gordon T              1.0  0  0  0  0  0
+Rivera M (S)          1.0  0  0  0  0  1
+
+DP -- New York 1
+LOB -- Chicago 5, New York 5
+2B -- Womack T, Rowand A, Perez T
+HR -- Rodriguez A
+SB -- Sheffield G
+CS -- Podsednik S
+SF -- Uribe J
+HBP -- by Hernandez O (Matsui H)
+T -- 2:58
+A -- 54871
+     Game of 8/9/2005 -- Chicago at New York (N)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Podsednik S, lf       3  0  2  0   Jeter D, ss           3  0  0  0   
+Iguchi T, 2b          4  1  1  1   Cano R, 2b            4  0  1  0   
+Pierzynski A, c       4  0  0  0   Sheffield G, rf       3  0  0  0   
+Konerko P, 1b         2  1  1  1   Rodriguez A, 3b       3  1  2  1   
+Blum G, 1b            0  0  0  0   Matsui H, lf          4  0  0  0   
+Perez T, dh           3  0  0  0   Giambi J, dh          3  0  0  0   
+Everett C, ph         1  0  0  0   Crosby B, pr          0  0  0  0   
+Dye J, rf             3  0  0  0   Posada J, c           4  0  0  0   
+Rowand A, cf          4  0  1  0   Martinez T, 1b        3  0  1  0   
+Crede J, 3b           3  0  0  0   Womack T, cf          3  0  1  0   
+Uribe J, ss           4  0  1  0   Williams B, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        31  1  5  1
+
+Chicago          000 100 001 --  2
+New York         000 000 001 --  1
+
+  Chicago              IP  H  R ER BB SO
+Contreras J (W)*      7.0  3  0  0  2  6
+Politte C+            1.0  1  1  1  0  0
+Marte D               0.2  1  0  0  1  1
+Hermanson D (S)       0.1  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Chacon S (L)          7.0  3  1  1  3  4
+Rodriguez F#          0.0  1  0  0  0  0
+Embree A              1.1  1  1  1  0  0
+Sturtze T             0.2  1  0  0  1  0
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 9th
+  # Pitched to 1 batter in 8th
+
+DP -- New York 2
+LOB -- Chicago 7, New York 8
+HR -- Iguchi T, Konerko P, Rodriguez A
+SB -- Cano R, Rodriguez A, Sheffield G, Rowand A
+SH -- Jeter D
+HBP -- by Contreras J (Rodriguez A), by Embree A (Podsednik S)
+T -- 3:20
+A -- 53946
+     Game of 8/10/2005 -- Chicago at New York (D)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Podsednik S, lf       5  0  0  1   Jeter D, ss           4  1  1  0   
+Ozuna P, 2b           4  1  1  0   Cano R, 2b            5  0  0  0   
+Everett C, dh         3  0  1  1   Sheffield G, dh       4  0  1  1   
+Konerko P, 1b         3  0  0  0   Rodriguez A, 3b       4  0  1  0   
+Rowand A, cf          4  0  0  0   Matsui H, lf          4  0  2  0   
+Dye J, rf             4  0  2  0   Giambi J, 1b          4  0  1  0   
+Blum G, 3b            3  0  0  0   Williams B, cf        4  0  0  0   
+Widger C, c           3  0  0  0   Flaherty J, c         2  0  1  0   
+Uribe J, ss           4  1  1  0   Posada J, ph-c        2  0  0  0   
+                                   Womack T, rf          3  0  0  0   
+                                   Martinez T, ph        0  0  0  0   
+                                   Crosby B, pr          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  5  2                        36  1  7  1
+
+Chicago          001 000 000 1 --  2
+New York         100 000 000 0 --  1
+
+  Chicago              IP  H  R ER BB SO
+Garcia F              8.0  6  1  0  1  5
+Cotts N (W)           1.1  1  0  0  1  1
+Hermanson D (S)       0.2  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Small A               7.0  4  1  1  2  7
+Gordon T              1.0  0  0  0  1  0
+Rivera M (L)          2.0  1  1  1  0  3
+
+E -- Uribe J
+DP -- New York 1
+LOB -- Chicago 6, New York 7
+2B -- Everett C
+3B -- Uribe J
+CS -- Jeter D, Podsednik S
+SH -- Widger C
+HBP -- by Small A (Konerko P)
+PB -- Widger C
+T -- 2:58
+A -- 54635
+     Game of 8/11/2005 -- Texas at New York (N)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Dellucci D, lf        5  4  4  2   Jeter D, ss           6  2  3  1   
+Young M, ss           5  1  2  4   Cano R, 2b            4  1  1  2   
+Teixeira M, 1b        4  0  1  1   Sheffield G, rf       5  1  3  0   
+Blalock H, 3b         5  0  0  0   Rodriguez A, 3b       3  0  0  0   
+Soriano A, 2b         5  0  1  0   Matsui H, lf          5  2  2  2   
+Nevin P, dh           4  0  0  0   Giambi J, dh          3  1  0  0   
+Matthews G, cf        3  1  1  0   Posada J, c           4  1  1  2   
+Mench K, rf           3  0  0  0   Martinez T, 1b        2  0  1  1   
+Barajas R, c          3  2  1  1   Womack T, cf          3  1  2  0   
+                                   Williams B, ph        0  0  0  0   
+                                   Crosby B, pr-cf       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  8 10  8                        35  9 13  8
+
+Texas            101 002 400 --  8
+New York         001 232 10x --  9
+
+  Texas                IP  H  R ER BB SO
+Wasdin J*             4.0  8  4  4  3  4
+Ramirez E             1.0  2  2  2  0  0
+Baldwin J (L)         1.2  3  3  3  3  1
+Shouse B              1.0  0  0  0  1  0
+Karsay S              0.1  0  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Proctor S+            5.0  3  3  3  0  3
+Embree A              0.2  2  1  1  0  1
+Rodriguez F           1.0  2  3  3  1  0
+Sturtze T (W)         0.1  1  1  1  1  0
+Gordon T              0.2  1  0  0  2  0
+Rivera M (S)          1.1  1  0  0  0  2
+  * Pitched to 1 batter in 5th
+  + Pitched to 1 batter in 6th
+
+E -- Young M
+DP -- New York 1
+LOB -- Texas 6, New York 13
+2B -- Jeter D 2, Cano R, Young M, Sheffield G, Dellucci D
+HR -- Dellucci D 2, Matsui H, Posada J, Young M, Jeter D
+SB -- Jeter D, Matthews G 2
+SH -- Womack T
+SF -- Martinez T
+HBP -- by Ramirez E (Giambi J)
+WP -- Proctor S, Shouse B
+Balk -- Baldwin J
+T -- 3:35
+A -- 54283
+     Game of 8/12/2005 -- Texas at New York (N)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Matthews G, cf        4  1  3  1   Jeter D, ss           3  1  1  1   
+Young M, ss           5  0  1  1   Cano R, 2b            5  0  2  0   
+Teixeira M, 1b        5  0  1  0   Sheffield G, rf       4  0  0  0   
+Nevin P, dh           5  0  1  0   Rodriguez A, 3b       5  1  1  0   
+Soriano A, 2b         4  1  2  1   Matsui H, lf          4  1  3  0   
+Blalock H, 3b         4  1  0  0   Posada J, c           2  1  1  1   
+Mench K, lf-rf        3  0  1  0   Martinez T, 1b        4  1  2  1   
+DeRosa M, rf          2  1  0  0   Williams B, dh        4  1  1  2   
+Dellucci D, ph-lf     1  0  0  0   Womack T, cf          4  0  1  1   
+Barajas R, c          3  1  0  0   Crosby B, cf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5  9  3                        35  6 12  6
+
+Texas            031 100 000 --  5
+New York         014 100 00x --  6
+
+  Texas                IP  H  R ER BB SO
+Young C               3.0  7  5  5  2  4
+Wilson C (L)          4.0  4  1  1  2  3
+Cordero F             1.0  1  0  0  1  2
+
+  New York             IP  H  R ER BB SO
+Leiter A (W)          5.0  7  5  3  3  5
+Rodriguez F           1.1  1  0  0  1  1
+Franklin W            0.2  0  0  0  0  1
+Chacon S              1.0  1  0  0  0  0
+Sturtze T (S)         1.0  0  0  0  0  1
+
+E -- Young M, Jeter D
+DP -- Texas 1, New York 1
+LOB -- Texas 9, New York 10
+2B -- Matsui H, Womack T, Mench K, Posada J
+3B -- Matthews G
+HR -- Soriano A, Williams B, Jeter D
+SB -- Nevin P
+CS -- Young M
+HBP -- by Leiter A (Barajas R)
+T -- 3:37
+A -- 54442
+     Game of 8/13/2005 -- Texas at New York (D)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Dellucci D, lf        5  0  0  0   Jeter D, ss           5  1  1  0   
+Young M, ss           5  0  2  0   Cano R, 2b            5  2  2  0   
+Teixeira M, 1b        5  0  0  0   Sheffield G, rf       4  1  2  2   
+Blalock H, 3b         5  0  2  0   Crosby B, pr-rf       1  0  0  0   
+Soriano A, 2b         5  2  2  1   Rodriguez A, 3b       5  1  2  2   
+Nevin P, dh           3  1  1  0   Matsui H, lf          4  0  1  1   
+McDougall M, pr       1  1  0  0   Giambi J, 1b          4  0  0  0   
+Matthews G, cf        5  0  0  0   Martinez T, 1b        1  1  1  0   
+Mench K, rf           5  1  4  4   Williams B, dh        5  1  2  2   
+Alomar S, c           5  0  2  0   Flaherty J, c         4  0  1  0   
+                                   Womack T, cf          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     44  5 13  5                        42  7 12  7
+
+Texas            000 010 022 00 --  5
+New York         202 000 100 02 --  7
+  0 outs when winning run was scored.
+
+  Texas                IP  H  R ER BB SO
+Dominguez J           7.0  9  5  5  1 10
+Shouse B              0.2  0  0  0  0  2
+Loe K (L)             2.1  3  2  2  0  0
+
+  New York             IP  H  R ER BB SO
+Mussina M             7.1  6  3  3  0  8
+Gordon T              0.2  1  0  0  0  1
+Rivera M              2.0  5  2  2  0  2
+Small A (W)           1.0  1  0  0  0  0
+
+DP -- New York 2
+LOB -- Texas 7, New York 6
+2B -- Cano R, Mench K
+HR -- Sheffield G, Rodriguez A, Soriano A, Mench K, Williams B
+SB -- Crosby B
+HBP -- by Rivera M (Nevin P)
+WP -- Dominguez J
+T -- 3:01
+A -- 54919
+     Game of 8/14/2005 -- Texas at New York (D)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Dellucci D, lf        4  0  1  0   Jeter D, ss           4  1  0  0   
+Young M, ss           4  0  1  0   Cano R, 2b            5  1  0  0   
+DeRosa M, ss          0  0  0  0   Sheffield G, rf       3  1  0  0   
+Teixeira M, 1b        4  0  2  0   Crosby B, rf          1  0  0  0   
+Karsay S, p           0  0  0  0   Rodriguez A, 3b       4  2  3  3   
+Blalock H, 3b         4  0  1  0   Matsui H, lf          4  1  1  3   
+McDougall M, 3b       0  0  0  0   Giambi J, 1b          1  2  0  0   
+Soriano A, 2b         4  0  1  0   Martinez T, 1b        1  0  0  0   
+Nevin P, dh-1b        4  0  1  0   Posada J, c           4  2  3  0   
+Matthews G, cf        4  2  2  0   Williams B, dh        4  0  3  2   
+Mench K, rf           4  0  0  0   Womack T, cf          4  0  1  0   
+Barajas R, c          4  1  2  3                                      
+                     -- -- -- --                        -- -- -- --
+                     36  3 11  3                        35 10 11  8
+
+Texas            001 020 000 --  3
+New York         110 052 10x -- 10
+
+  Texas                IP  H  R ER BB SO
+Benoit J (L)          4.2  3  4  3  4  5
+Shouse B              0.1  3  3  3  1  1
+Gryboski K            1.0  1  2  2  2  1
+Brocail D             1.0  3  1  1  0  1
+Karsay S              1.0  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Chacon S (W)          5.0  7  3  3  0  5
+Embree A              0.1  1  0  0  0  0
+Sturtze T             1.2  0  0  0  0  3
+Rodriguez F           1.0  1  0  0  0  0
+Proctor S             1.0  2  0  0  0  0
+
+E -- Dellucci D
+DP -- Texas 1, New York 2
+LOB -- Texas 6, New York 8
+2B -- Posada J, Matthews G 2, Teixeira M
+HR -- Barajas R, Matsui H, Rodriguez A
+WP -- Chacon S, Shouse B
+T -- 3:13
+A -- 54824
+     Game of 8/22/2005 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Adams R, ss           2  0  1  0   Womack T, cf          5  2  2  0   
+Hill A, ph-ss         1  0  1  0   Williams B, dh        3  2  1  0   
+Catalanotto F, lf     2  0  0  0   Sheffield G, rf       4  1  0  0   
+Johnson R, ph-lf      1  0  0  0   Rodriguez A, 3b       5  1  3  1   
+Wells V, cf           4  0  0  0   Matsui H, lf          4  1  2  3   
+Hillenbrand S, 1b     4  0  1  0   Posada J, c           4  0  1  0   
+Koskie C, 3b          3  0  0  0   Giambi J, 1b          3  0  2  1   
+Zaun G, c             4  0  0  0   Martinez T, pr-1b     0  0  0  0   
+Rios A, rf            4  0  0  0   Escalona F, ss        3  0  1  1   
+Hinske E, dh          3  0  1  0   Cano R, 2b            4  0  0  0   
+Hudson O, 2b          3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  5  0                        35  7 12  6
+
+Toronto          000 000 000 --  0
+New York         010 010 41x --  7
+
+  Toronto              IP  H  R ER BB SO
+Downs S (L)           6.0  6  2  1  2  2
+Walker P              0.2  2  4  4  1  1
+Schoeneweis S         0.1  2  0  0  0  0
+Chulk V               1.0  2  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Wright J (W)          7.0  4  0  0  3  5
+Embree A*             0.0  1  0  0  0  0
+Sturtze T             1.0  0  0  0  0  1
+Proctor S             1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Adams R
+DP -- Toronto 1, New York 1
+LOB -- Toronto 7, New York 10
+2B -- Rodriguez A 2, Hillenbrand S, Hill A, Womack T
+SB -- Adams R, Womack T
+SF -- Matsui H
+HBP -- by Downs S (Escalona F), by Walker P (Sheffield G)
+WP -- Wright J
+T -- 2:56
+A -- 50162
+     Game of 8/23/2005 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Adams R, ss           5  1  1  0   Jeter D, ss           4  0  2  0   
+Johnson R, lf         5  0  1  1   Williams B, cf        3  0  1  2   
+Wells V, cf           5  1  3  1   Escalona F, 1b        1  0  1  1   
+Hillenbrand S, 1b     4  0  1  1   Sheffield G, rf       4  0  0  0   
+Hill A, 3b            3  1  1  0   Rodriguez A, 3b       4  0  0  0   
+Zaun G, c             4  0  2  1   Matsui H, lf          4  2  2  1   
+Rios A, rf            4  0  0  0   Giambi J, dh          4  0  1  0   
+Menechino F, dh       3  0  0  0   Posada J, c           2  1  0  1   
+Hinske E, ph          1  0  0  0   Martinez T, 1b        2  1  1  0   
+Hudson O, 2b          3  1  1  0   Womack T, pr-cf       1  1  0  0   
+                                   Cano R, 2b            2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4 10  4                        31  5  9  5
+
+Toronto          000 200 011 --  4
+New York         000 001 112 --  5
+  2 outs when winning run was scored.
+
+  Toronto              IP  H  R ER BB SO
+Towers J              7.0  6  2  2  0  3
+Schoeneweis S         0.1  0  1  1  1  0
+Speier J              0.2  1  0  0  0  2
+Batista M (L)         0.2  2  2  2  3  1
+
+  New York             IP  H  R ER BB SO
+Leiter A*             7.0  6  3  3  1  5
+Sturtze T             1.0  2  0  0  1  1
+Rivera M (W)          1.0  2  1  1  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Hudson O
+DP -- Toronto 1
+LOB -- Toronto 8, New York 7
+2B -- Hill A, Zaun G
+HR -- Wells V, Matsui H
+SH -- Cano R
+SF -- Williams B, Posada J
+T -- 3:01
+A -- 50528
+     Game of 8/24/2005 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Adams R, ss           4  1  1  2   Jeter D, ss           4  1  2  0   
+Catalanotto F, lf     4  1  2  1   Matsui H, lf          4  0  3  2   
+Rios A, rf            1  0  0  0   Sheffield G, rf       3  0  0  0   
+Wells V, cf           5  1  2  3   Crosby B, rf          2  1  2  0   
+Hillenbrand S, 1b     5  1  1  0   Rodriguez A, 3b       3  0  1  0   
+Koskie C, 3b          3  1  2  1   Escalona F, 3b        1  0  0  0   
+Zaun G, c             5  1  1  0   Williams B, ph        1  1  1  3   
+Johnson R, rf-lf      4  1  1  0   Giambi J, dh          5  0  1  0   
+Hinske E, dh          3  1  2  1   Martinez T, 1b        4  0  1  0   
+Hudson O, 2b          3  1  0  1   Posada J, c           3  0  0  0   
+                                   Flaherty J, c         1  0  0  0   
+                                   Cano R, 2b            4  1  1  0   
+                                   Womack T, cf          4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  9 12  9                        39  5 13  5
+
+Toronto          000 090 000 --  9
+New York         000 000 203 --  5
+
+  Toronto              IP  H  R ER BB SO
+Bush D (W)            6.0  5  0  0  2  7
+Frasor J              2.0  5  2  2  0  3
+Chulk V               1.0  3  3  3  0  1
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         4.1  6  8  8  2  4
+Rodriguez F           1.2  3  1  1  1  0
+Proctor S             2.0  1  0  0  1  1
+Embree A              1.0  2  0  0  0  0
+
+DP -- Toronto 1, New York 2
+LOB -- Toronto 6, New York 9
+2B -- Catalanotto F, Rodriguez A, Adams R, Hillenbrand S, Matsui H
+3B -- Hinske E
+HR -- Wells V, Williams B
+HBP -- by Mussina M (Hinske E)
+T -- 3:21
+A -- 54705
+     Game of 8/25/2005 -- Toronto at New York (D)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Adams R, ss           4  1  0  0   Jeter D, ss           5  2  3  1   
+Catalanotto F, lf     4  0  1  0   Matsui H, lf          4  1  2  1   
+Wells V, cf           4  0  1  0   Sheffield G, rf       4  1  1  3   
+Hillenbrand S, 1b     3  0  0  0   Rodriguez A, 3b       4  1  1  1   
+Koskie C, 3b          3  1  1  1   Giambi J, dh          3  0  0  0   
+Zaun G, c             3  0  0  0   Williams B, cf        4  0  0  0   
+Johnson R, rf         3  0  0  1   Crosby B, cf          0  0  0  0   
+Hinske E, dh          4  0  1  0   Posada J, c           3  1  3  0   
+Hudson O, 2b          4  0  2  0   Martinez T, 1b        3  0  0  0   
+                                   Escalona F, 2b        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        33  6 11  6
+
+Toronto          011 000 000 --  2
+New York         400 002 00x --  6
+
+  Toronto              IP  H  R ER BB SO
+Chacin G (L)          5.2  9  6  6  3  5
+Walker P              2.1  2  0  0  0  3
+
+  New York             IP  H  R ER BB SO
+Chacon S (W)          7.0  6  2  2  4  6
+Gordon T              1.0  0  0  0  0  1
+Rivera M              1.0  0  0  0  0  0
+
+DP -- Toronto 1, New York 1
+LOB -- Toronto 9, New York 7
+2B -- Koskie C, Posada J, Escalona F
+3B -- Jeter D
+HR -- Sheffield G, Rodriguez A
+SH -- Escalona F
+HBP -- by Chacon S (Hillenbrand S), by Chacon S (Johnson R)
+T -- 2:46
+A -- 54329
+     Game of 8/26/2005 -- Kansas City at New York (N)
+
+  Kansas City        AB  R  H RBI    New York           AB  R  H RBI
+DeJesus D, cf         4  0  0  0   Jeter D, ss           4  0  2  0   
+Ambres C, lf          4  0  0  0   Matsui H, lf          4  0  0  0   
+Sweeney M, 1b         4  1  2  0   Sheffield G, rf       3  1  1  0   
+Brown E, dh           4  0  2  0   Rodriguez A, 3b       3  1  1  1   
+Berroa A, ss          4  0  1  1   Giambi J, dh          1  1  0  0   
+Teahen M, 3b          4  0  0  0   Williams B, cf        4  2  3  4   
+Buck J, c             3  0  1  0   Crosby B, cf          0  0  0  0   
+Guiel A, rf           3  0  0  0   Martinez T, 1b        4  0  1  0   
+McEwing J, 2b         3  0  0  0   Flaherty J, c         3  0  0  0   
+                                   Cano R, 2b            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        29  5  8  5
+
+Kansas City      000 000 100 --  1
+New York         000 003 02x --  5
+
+  Kansas City          IP  H  R ER BB SO
+Wood M (L)            6.0  7  3  3  3  0
+Bayliss J             2.0  1  2  2  0  2
+
+  New York             IP  H  R ER BB SO
+Johnson R (W)         8.0  4  1  1  0  6
+Rivera M              1.0  2  0  0  0  1
+
+DP -- Kansas City 3
+LOB -- Kansas City 5, New York 5
+2B -- Jeter D, Sheffield G, Sweeney M
+3B -- Brown E
+HR -- Rodriguez A, Williams B 2
+SB -- Sheffield G
+HBP -- by Wood M (Rodriguez A), by Bayliss J (Sheffield G)
+T -- 2:24
+A -- 53922
+     Game of 8/27/2005 -- Kansas City at New York (D)
+
+  Kansas City        AB  R  H RBI    New York           AB  R  H RBI
+DeJesus D, cf         3  2  2  0   Jeter D, ss           2  3  1  2   
+Hocking D, 2b         5  0  1  0   Matsui H, lf          5  1  2  1   
+Sweeney M, 1b         5  1  2  3   Sheffield G, dh       5  0  2  1   
+Long T, lf            5  1  1  2   Rodriguez A, 3b       4  0  1  1   
+Brown E, dh           4  0  1  0   Giambi J, 1b          2  1  0  1   
+Guiel A, rf           4  1  1  0   Williams B, cf        4  0  1  0   
+Berroa A, ss          4  1  2  0   Posada J, c           4  1  0  0   
+Teahen M, 3b          3  0  0  0   Lawton M, rf          3  1  1  0   
+Phillips P, c         4  1  2  1   Cano R, 2b            3  0  0  0   
+                                   Martinez T, ph        1  0  1  1   
+                                   Womack T, pr          0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 12  6                        33  8  9  7
+
+Kansas City      000 050 110 --  7
+New York         201 000 005 --  8
+  2 outs when winning run was scored.
+
+  Kansas City          IP  H  R ER BB SO
+Howell J*             6.0  4  3  3  4  3
+Sisco A               1.0  0  0  0  0  2
+Burgos A              1.0  0  0  0  1  0
+Affeldt J             0.1  2  4  2  1  1
+Camp S (L)            0.1  3  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Wright J              5.0  7  5  5  2  5
+Small A               2.2  5  2  2  1  3
+Embree A (W)          1.1  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Hocking D, Affeldt J
+DP -- Kansas City 1, New York 1
+LOB -- Kansas City 6, New York 6
+2B -- Matsui H, Sweeney M, Sheffield G
+CS -- Cano R, Berroa A
+SF -- Giambi J
+WP -- Howell J, Wright J
+T -- 3:33
+A -- 54452
+     Game of 8/28/2005 -- Kansas City at New York (D)
+
+  Kansas City        AB  R  H RBI    New York           AB  R  H RBI
+DeJesus D, cf         3  0  1  1   Jeter D, ss           5  1  3  0   
+Guiel A, ph-cf        2  0  0  0   Matsui H, cf          4  2  1  0   
+Ambres C, lf          3  1  0  0   Escalona F, 3b        0  0  0  0   
+Sweeney M, 1b         3  1  1  2   Sheffield G, rf       5  2  2  0   
+Brown E, dh           3  0  0  0   Rodriguez A, 3b       3  3  2  0   
+Long T, rf            4  0  0  0   Crosby B, cf          1  0  0  0   
+Berroa A, ss          1  0  0  0   Giambi J, 1b          3  2  3  7   
+Teahen M, 3b          3  0  1  0   Martinez T, 1b        1  0  0  0   
+Buck J, c             4  0  0  0   Williams B, dh        5  0  2  3   
+Hocking D, 2b         2  1  1  0   Lawton M, lf          3  0  0  0   
+McEwing J, 3b-ss      4  0  1  0   Posada J, c           4  0  1  0   
+                                   Cano R, 2b            4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  5  3                        38 10 15 10
+
+Kansas City      001 000 020 --  3
+New York         203 023 00x -- 10
+
+  Kansas City          IP  H  R ER BB SO
+Greinke Z (L)         4.2 10  7  7  3  2
+Affeldt J             1.1  4  3  3  1  0
+Bayliss J             1.0  1  0  0  0  0
+Gobble J              1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Leiter A (W)          6.0  2  1  1  4  6
+Sturtze T             1.1  1  2  2  2  1
+Embree A              0.2  1  0  0  0  0
+Rodriguez F           1.0  1  0  0  0  0
+
+DP -- Kansas City 1
+LOB -- Kansas City 8, New York 8
+2B -- McEwing J, Posada J, Matsui H, Teahen M
+HR -- Giambi J 2, Sweeney M
+T -- 3:23
+A -- 54951
+     Game of 9/6/2005 -- Tampa Bay at New York (N)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Lugo J, ss            4  0  0  0   Jeter D, ss           5  1  2  1   
+Crawford C, lf        5  0  2  0   Matsui H, lf          2  0  1  0   
+Cantu J, dh-2b        4  0  0  1   Sheffield G, rf       4  1  1  1   
+Perez E, 1b           2  0  0  0   Rodriguez A, 3b       4  0  0  0   
+Lee T, ph-1b          1  0  0  0   Giambi J, 1b          3  0  2  0   
+Gomes J, rf           4  1  2  0   Womack T, pr          0  0  0  0   
+Hollins D, cf         4  0  1  0   Phillips A, 1b        0  0  0  0   
+Gonzalez A, 3b        4  1  1  1   Sierra R, dh          4  0  1  0   
+Hall T, c             4  0  1  1   Williams B, cf        4  0  1  0   
+Green N, 2b           2  1  1  0   Flaherty J, c         3  0  1  0   
+Huff A, ph            1  0  1  0   Posada J, ph          1  0  0  0   
+Gathright J, pr       0  1  0  0   Cano R, 2b            4  1  2  0   
+Baez D, p             0  0  0  0   Crosby B, pr          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  3                        34  3 11  2
+
+Tampa Bay        000 200 101 --  4
+New York         210 000 000 --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Fossum C              6.0  9  3  2  1  5
+Orvella C (W)         2.0  1  0  0  2  0
+Baez D (S)            1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Johnson R             6.1  7  3  3  2  5
+Gordon T              1.2  0  0  0  0  0
+Rivera M (L)          1.0  2  1  1  0  1
+
+E -- Green N, Cano R
+DP -- Tampa Bay 2
+LOB -- Tampa Bay 8, New York 7
+2B -- Hollins D, Cano R, Gonzalez A
+SB -- Crawford C 2, Gathright J
+CS -- Matsui H
+SF -- Cantu J
+HBP -- by Johnson R (Green N)
+T -- 3:00
+A -- 48820
+     Game of 9/7/2005 -- Tampa Bay at New York (N)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Lugo J, ss            4  1  0  0   Jeter D, ss           4  1  1  0   
+Crawford C, lf        5  1  2  0   Matsui H, cf-lf       4  1  2  3   
+Cantu J, 2b           4  1  2  2   Sheffield G, rf       0  0  0  0   
+Huff A, 3b            2  0  1  0   Williams B, cf        4  0  1  0   
+Gomes J, dh           3  1  1  1   Crosby B, cf          0  0  0  0   
+Lee T, 1b             3  0  0  1   Rodriguez A, 3b       3  1  1  0   
+Hollins D, rf         3  0  1  0   Giambi J, 1b          4  1  1  2   
+Hall T, c             4  0  1  0   Phillips A, 1b        0  0  0  0   
+Gathright J, cf       4  0  0  0   Sierra R, dh          4  0  0  0   
+                                   Lawton M, lf-rf       2  0  0  0   
+                                   Posada J, c           3  0  1  0   
+                                   Cano R, 2b            2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  8  4                        30  5  8  5
+
+Tampa Bay        400 000 000 --  4
+New York         000 102 02x --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Waechter D            5.1  5  3  3  1  5
+Miller T              1.0  1  0  0  1  0
+Harper T              0.2  0  0  0  0  0
+Borowski J (L)        1.0  2  2  2  0  0
+
+  New York             IP  H  R ER BB SO
+Wright J              6.2  8  4  4  4  2
+Sturtze T (W)         1.1  0  0  0  1  0
+Rivera M (S)          1.0  0  0  0  0  0
+
+E -- Wright J
+DP -- Tampa Bay 2, New York 2
+LOB -- Tampa Bay 7, New York 4
+2B -- Hollins D, Williams B, Jeter D, Matsui H
+3B -- Gomes J
+HR -- Matsui H, Giambi J
+SB -- Crawford C
+SF -- Lee T
+HBP -- by Miller T (Lawton M)
+T -- 2:40
+A -- 52928
+     Game of 9/8/2005 -- Tampa Bay at New York (N)
+
+  Tampa Bay          AB  R  H RBI    New York           AB  R  H RBI
+Lugo J, ss            5  0  1  0   Jeter D, ss           3  0  1  0   
+Crawford C, lf        5  3  3  2   Williams B, cf        4  0  0  0   
+Cantu J, 2b           5  1  2  2   Matsui H, lf          4  1  2  0   
+Huff A, rf            3  0  1  0   Rodriguez A, 3b       4  1  1  0   
+Hollins D, rf         0  0  0  0   Giambi J, 1b          4  1  1  1   
+Gomes J, dh           4  1  2  2   Posada J, c           3  0  0  1   
+Lee T, 1b             5  0  1  1   Sierra R, dh          4  1  1  2   
+LaForest P, c         3  0  0  0   Lawton M, rf          3  0  0  0   
+Hall T, c             1  0  0  0   Bellhorn M, 2b        2  0  0  0   
+Gonzalez A, 3b        3  1  1  0   Cano R, ph-2b         1  0  0  0   
+Gathright J, cf       4  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  7 13  7                        32  4  6  4
+
+Tampa Bay        200 013 001 --  7
+New York         000 000 400 --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Hendrickson M (W)     6.2  5  4  4  2  3
+Orvella C             1.0  1  0  0  0  0
+Baez D (S)            1.1  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Wang C (L)            5.0  8  3  3  2  2
+Franklin W            0.1  2  2  2  0  0
+Proctor S             1.2  2  1  1  1  3
+Gordon T              1.0  0  0  0  0  0
+Rodriguez F           1.0  1  1  1  1  0
+
+E -- Matsui H
+DP -- Tampa Bay 1, New York 1
+LOB -- Tampa Bay 9, New York 3
+2B -- Crawford C 2, Cantu J 2, Gathright J, Matsui H 2, Giambi J, Lee T
+HR -- Sierra R
+CS -- Lugo J
+SH -- Gonzalez A
+WP -- Wang C
+T -- 2:55
+A -- 49673
+     Game of 9/9/2005 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Damon J, cf           4  0  2  1   Jeter D, ss           4  1  1  1   
+Renteria E, ss        5  1  2  2   Williams B, cf        5  1  2  1   
+Ortiz D, dh           4  0  0  0   Crosby B, pr-cf       0  0  0  0   
+Ramirez M, lf         4  0  1  0   Rodriguez A, 3b       5  2  3  2   
+Nixon T, rf           5  0  0  1   Giambi J, 1b          5  0  3  1   
+Varitek J, c          3  1  1  0   Phillips A, 1b        0  0  0  0   
+Millar K, 1b          3  0  1  0   Matsui H, lf          3  0  0  0   
+Mueller B, 3b         4  1  3  0   Sierra R, dh          4  0  0  0   
+Graffanino T, 2b      4  1  1  0   Posada J, c           4  3  3  1   
+                                   Cano R, 2b            3  1  2  0   
+                                   Lawton M, rf          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4 11  4                        37  8 14  6
+
+Boston           030 000 100 --  4
+New York         111 104 00x --  8
+
+  Boston               IP  H  R ER BB SO
+Wells D (L)           5.2  9  6  5  1  2
+Bradford C*           0.0  2  2  2  1  0
+Myers M               0.1  1  0  0  0  0
+Harville C            1.0  1  0  0  0  2
+Gonzalez J            1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Small A (W)           6.1  9  4  4  2  3
+Sturtze T+            0.0  0  0  0  0  0
+Embree A#             0.0  0  0  0  0  0
+Gordon T              1.2  1  0  0  0  2
+Rivera M              1.0  1  0  0  0  1
+  * Pitched to 3 batters in 6th
+  + Pitched to 1 batter in 7th
+  # Pitched to 1 batter in 7th
+
+E -- Graffanino T, Renteria E, Damon J, Cano R, Varitek J
+DP -- New York 1
+LOB -- Boston 10, New York 8
+2B -- Rodriguez A, Renteria E, Millar K, Mueller B
+HR -- Posada J, Rodriguez A
+SB -- Crosby B
+SH -- Cano R
+SF -- Damon J
+HBP -- by Small A (Millar K), by Sturtze T (Ramirez M)
+T -- 3:40
+A -- 55024
+     Game of 9/10/2005 -- Boston at New York (D)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Graffanino T, 2b      5  1  3  0   Jeter D, ss           5  0  1  0   
+Cora A, pr-2b         1  1  0  0   Williams B, cf        4  0  1  1   
+Renteria E, ss        4  1  1  1   Giambi J, 1b          4  1  1  1   
+Ortiz D, dh           3  2  1  1   Rodriguez A, 3b       4  0  0  0   
+Ramirez M, lf         4  2  2  3   Matsui H, lf          4  0  1  0   
+Nixon T, rf           4  0  2  2   Sierra R, dh          4  0  0  0   
+Varitek J, c          5  0  1  1   Cano R, 2b            3  0  2  0   
+Olerud J, 1b          4  1  2  1   Flaherty J, c         3  0  0  0   
+Mueller B, 3b         5  0  2  0   Bellhorn M, ph        0  0  0  0   
+Kapler G, cf          5  1  2  0   Lawton M, rf          3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  9 16  9                        34  2  6  2
+
+Boston           200 600 010 --  9
+New York         000 100 010 --  2
+
+  Boston               IP  H  R ER BB SO
+Schilling C (W)       8.0  5  2  2  2  6
+Papelbon J            1.0  1  0  0  1  1
+
+  New York             IP  H  R ER BB SO
+Chacon S (L)*         3.0  6  5  5  3  1
+Rodriguez F           0.1  1  1  1  0  0
+Leiter A              5.2  9  3  1  1  3
+  * Pitched to 3 batters in 4th
+
+E -- Schilling C, Matsui H, Cano R
+DP -- New York 2
+LOB -- Boston 10, New York 8
+2B -- Kapler G
+3B -- Graffanino T
+HR -- Ramirez M, Olerud J, Giambi J
+SF -- Ortiz D, Renteria E
+T -- 3:01
+A -- 55076
+     Game of 9/11/2005 -- Boston at New York (D)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Damon J, dh           3  0  0  0   Jeter D, ss           4  0  0  0   
+Renteria E, ss        4  0  0  0   Cano R, 2b            3  0  1  0   
+Youkilis K, 1b        2  0  1  0   Giambi J, 1b          3  1  1  1   
+Nixon T, ph           1  0  0  0   Phillips A, 1b        0  0  0  0   
+Ramirez M, lf         3  0  0  0   Rodriguez A, 3b       3  0  0  0   
+Millar K, rf          4  0  1  0   Matsui H, lf          3  0  0  0   
+Graffanino T, 2b      3  0  1  0   Posada J, dh          2  0  0  0   
+Stern A, pr           0  0  0  0   Williams B, cf        3  0  0  0   
+Machado A, cf         0  0  0  0   Flaherty J, c         3  0  0  0   
+Olerud J, ph          1  0  0  0   Crosby B, rf          3  0  1  0   
+Mirabelli D, c        3  0  0  0                                      
+Mueller B, 3b         3  0  0  0                                      
+Kapler G, cf          2  0  0  0                                      
+Ortiz D, ph           0  0  0  0                                      
+Cora A, pr-2b         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  0  3  0                        27  1  3  1
+
+Boston           000 000 000 --  0
+New York         100 000 00x --  1
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (L)       8.0  3  1  1  1 12
+
+  New York             IP  H  R ER BB SO
+Johnson R (W)         7.0  1  0  0  2  8
+Gordon T              0.2  1  0  0  0  0
+Rivera M (S)          1.1  1  0  0  2  1
+
+DP -- New York 1
+LOB -- Boston 6, New York 3
+2B -- Cano R
+3B -- Crosby B
+HR -- Giambi J
+T -- 2:29
+A -- 55123
+     Game of 9/19/2005 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         4  1  1  0   Jeter D, ss           4  0  2  0   
+Castro B, dh          3  0  0  0   Rodriguez A, 3b       4  0  1  1   
+Mora M, 3b            3  1  2  0   Giambi J, 1b          2  0  0  0   
+Tejada M, ss          4  0  2  1   Lawton M, pr          0  0  0  0   
+Gibbons J, rf         4  0  1  1   Martinez T, 1b        0  0  0  0   
+Lopez J, c            4  0  0  0   Sheffield G, dh       3  0  1  1   
+Gil G, c              0  0  0  0   Matsui H, lf          4  0  0  0   
+Surhoff B, lf         4  0  1  0   Posada J, c           2  0  0  0   
+Young W, 1b           3  0  0  0   Williams B, cf        4  0  0  0   
+Gomez C, 1b           0  0  0  0   Cano R, 2b            4  1  1  0   
+Matos L, cf           3  0  0  0   Crosby B, rf          4  2  3  1   
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        31  3  8  3
+
+Baltimore        101 000 000 --  2
+New York         000 020 001 --  3
+  0 outs when winning run was scored.
+
+  Baltimore            IP  H  R ER BB SO
+Bedard E              6.0  6  2  2  3  5
+Rakers A              0.2  1  0  0  1  1
+DuBose E (L)          1.1  1  1  1  0  1
+
+  New York             IP  H  R ER BB SO
+Wang C                8.0  7  2  2  1  4
+Rivera M (W)          1.0  0  0  0  0  1
+
+DP -- Baltimore 1, New York 1
+LOB -- Baltimore 5, New York 9
+HR -- Crosby B
+SH -- Mora M
+HBP -- by Bedard E (Giambi J)
+T -- 3:00
+A -- 51521
+     Game of 9/20/2005 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         2  0  1  2   Jeter D, ss           5  2  2  0   
+Gomez C, 2b           4  0  0  0   Rodriguez A, 3b       5  1  3  1   
+Castro B, dh          4  0  2  1   Giambi J, 1b          4  1  1  0   
+Mora M, 3b            4  1  1  0   Martinez T, 1b        1  1  1  0   
+Tejada M, ss          5  0  1  0   Sheffield G, dh       5  2  3  6   
+Gibbons J, rf         5  2  3  2   Womack T, pr          0  0  0  0   
+Surhoff B, 1b         5  1  3  1   Matsui H, lf          4  1  1  0   
+Lopez J, c            5  2  2  0   Posada J, c           5  1  1  3   
+Newhan D, lf          5  1  2  1   Cano R, 2b            4  1  1  0   
+Matos L, cf           3  2  3  2   Williams B, cf        4  1  2  1   
+                                   Crosby B, rf          4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     42  9 18  9                        41 12 16 11
+
+Baltimore        030 001 212 --  9
+New York         450 010 02x -- 12
+
+  Baltimore            IP  H  R ER BB SO
+Maine J (L)*          1.0  6  7  6  0  2
+Baldwin J             3.2  6  3  3  1  2
+Grimsley J            0.2  1  0  0  0  0
+Kline S               1.2  0  0  0  0  2
+Julio J               1.0  3  2  2  0  1
+
+  New York             IP  H  R ER BB SO
+Small A (W)+          5.0 10  4  4  2  2
+Proctor S             2.0  3  2  2  0  0
+Gordon T              1.0  2  1  1  0  1
+Embree A#             0.0  2  2  2  0  0
+Rivera M              1.0  1  0  0  0  0
+  * Pitched to 3 batters in 2nd
+  + Pitched to 2 batters in 6th
+  # Pitched to 2 batters in 9th
+
+E -- Cano R, Maine J
+DP -- New York 1
+LOB -- Baltimore 10, New York 6
+2B -- Sheffield G, Newhan D, Cano R, Lopez J, Castro B, Martinez T, Gibbons J, Matos L
+3B -- Roberts B
+HR -- Posada J, Sheffield G, Gibbons J, Rodriguez A
+SB -- Jeter D
+CS -- Castro B
+SF -- Matos L
+HBP -- by Small A (Matos L)
+WP -- Proctor S
+Balk -- Maine J
+T -- 3:41
+A -- 46982
+     Game of 9/21/2005 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Castro B, 2b          4  1  1  0   Jeter D, ss           4  0  0  0   
+Mora M, 3b            3  0  1  1   Rodriguez A, 3b       3  0  0  0   
+Tejada M, ss          3  0  0  0   Giambi J, 1b          2  0  0  0   
+Lopez J, c            4  0  1  0   Martinez T, 1b        1  0  1  0   
+Rogers E, pr          0  0  0  0   Sheffield G, dh       4  0  0  0   
+Freire A, dh          3  0  0  0   Matsui H, lf          4  1  2  0   
+Gibbons J, ph         1  0  0  0   Cano R, 2b            3  0  0  0   
+Byrnes E, lf          3  0  0  0   Lawton M, rf          3  1  2  2   
+Surhoff B, ph         1  0  0  0   Flaherty J, c         2  0  0  0   
+Gomez C, 1b           3  0  1  0   Crosby B, cf          3  0  2  0   
+Matos L, cf           3  0  0  0                                      
+Newhan D, rf          3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  1  4  1                        29  2  7  2
+
+Baltimore        000 001 000 --  1
+New York         020 000 00x --  2
+
+  Baltimore            IP  H  R ER BB SO
+Lopez R (L)           6.1  6  2  2  1  2
+Byrdak T              0.1  0  0  0  0  1
+Ray C                 1.0  1  0  0  0  2
+Ryan B                0.1  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Johnson R (W)         8.0  3  1  1  1  6
+Rivera M (S)          1.0  1  0  0  0  1
+
+E -- Jeter D
+DP -- Baltimore 1, New York 1
+LOB -- Baltimore 5, New York 6
+2B -- Mora M, Martinez T
+HR -- Lawton M
+SB -- Crosby B
+SH -- Flaherty J
+HBP -- by Lopez R (Rodriguez A), by Rivera M (Mora M)
+T -- 2:50
+A -- 50382
+     Game of 9/22/2005 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Castro B, 2b          4  1  1  1   Jeter D, ss           5  0  2  0   
+Mora M, 3b            4  2  1  1   Cano R, 2b            4  2  1  0   
+Tejada M, ss          5  1  2  1   Rodriguez A, 3b       3  0  0  1   
+Gibbons J, rf         4  1  2  1   Sheffield G, dh       4  2  2  1   
+Surhoff B, 1b         4  0  0  1   Matsui H, lf          3  1  1  1   
+Lopez J, c            3  0  1  1   Posada J, c           4  2  2  4   
+Young W, dh           2  0  0  0   Williams B, cf        4  0  0  0   
+Freire A, ph          2  0  0  0   Martinez T, 1b        2  0  0  0   
+Matos L, cf           4  1  1  0   Lawton M, rf          2  0  0  0   
+Newhan D, lf          2  0  0  0   Sierra R, ph          1  0  0  0   
+Byrnes E, ph-lf       2  0  0  0   Crosby B, rf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6  8  6                        32  7  8  7
+
+Baltimore        001 000 041 --  6
+New York         000 014 20x --  7
+
+  Baltimore            IP  H  R ER BB SO
+Chen B (L)            5.1  5  5  4  1  8
+Byrdak T              0.1  0  0  0  2  0
+Rakers A              1.0  2  2  2  1  0
+Kline S               1.0  0  0  0  0  0
+Williams T            0.1  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Mussina M (W)         6.0  4  1  0  0  6
+Leiter A*             1.0  2  4  4  2  1
+Sturtze T             1.0  1  0  0  0  1
+Gordon T (S)          1.0  1  1  1  0  0
+  * Pitched to 4 batters in 8th
+
+E -- Castro B, Jeter D, Martinez T, Tejada M
+DP -- New York 1
+LOB -- Baltimore 6, New York 7
+2B -- Tejada M, Gibbons J, Lopez J
+3B -- Cano R
+HR -- Posada J 2, Sheffield G, Mora M
+SB -- Martinez T
+SH -- Cano R
+SF -- Rodriguez A
+HBP -- by Mussina M (Lopez J)
+T -- 3:07
+A -- 52368
+     Game of 9/23/2005 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Adams R, ss           4  0  0  0   Jeter D, ss           2  1  1  1   
+Catalanotto F, lf     3  0  1  0   Cano R, 2b            5  1  2  1   
+Wells V, cf           4  0  0  0   Rodriguez A, 3b       2  2  1  0   
+Koskie C, 3b          4  0  1  0   Sheffield G, dh       4  0  0  0   
+Hillenbrand S, 1b     4  0  2  0   Matsui H, lf          3  1  1  1   
+Zaun G, c             2  0  0  0   Posada J, c           3  0  2  0   
+Hinske E, dh          4  0  0  0   Williams B, cf        4  0  0  0   
+Rios A, rf            3  0  0  0   Martinez T, 1b        4  0  1  1   
+Hill A, 2b            3  0  0  0   Crosby B, rf          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  4  0                        31  5  8  4
+
+Toronto          000 000 000 --  0
+New York         400 000 10x --  5
+
+  Toronto              IP  H  R ER BB SO
+Lilly T (L)*          1.0  5  4  4  3  0
+Marcum S              2.0  1  0  0  1  0
+Walker P              2.0  1  0  0  1  1
+League B              1.0  0  0  0  1  1
+Chulk V               1.0  1  1  0  1  2
+Frasor J              1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Chacon S (W)          8.0  3  0  0  1  3
+Proctor S             1.0  1  0  0  1  0
+  * Pitched to 2 batters in 2nd
+
+E -- Chulk V
+DP -- Toronto 2
+LOB -- Toronto 7, New York 9
+2B -- Matsui H
+HR -- Jeter D, Cano R
+SB -- Rodriguez A
+HBP -- by Chacon S (Catalanotto F)
+WP -- Lilly T
+T -- 3:01
+A -- 53175
+     Game of 9/24/2005 -- Toronto at New York (D)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Adams R, ss           4  2  2  0   Jeter D, ss           2  1  1  1   
+Catalanotto F, dh     3  2  1  0   Rodriguez A, 3b       3  1  2  3   
+Wells V, cf           5  1  1  0   Giambi J, 1b          4  0  0  0   
+Hillenbrand S, 3b     5  1  1  2   Sheffield G, dh       5  0  1  0   
+Hinske E, 1b          2  0  1  2   Matsui H, lf          4  0  1  0   
+Zaun G, c             4  0  0  0   Posada J, c           5  0  0  0   
+Johnson R, lf         3  0  1  1   Cano R, 2b            4  0  0  0   
+Gross G, rf           4  0  1  0   Williams B, cf        4  1  1  0   
+Hill A, 2b            4  1  2  0   Crosby B, rf          2  1  1  0   
+                                   Sierra R, ph-rf       2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  7 10  5                        35  4  8  4
+
+Toronto          430 000 000 --  7
+New York         210 001 000 --  4
+
+  Toronto              IP  H  R ER BB SO
+Downs S (W)           5.2  5  4  3  2  4
+Speier J              0.2  1  0  0  1  0
+Schoeneweis S         1.0  2  0  0  0  0
+Frasor J              0.1  0  0  0  2  1
+Batista M (S)         1.1  0  0  0  0  4
+
+  New York             IP  H  R ER BB SO
+Wright J (L)*         1.0  6  7  3  1  1
+Small A               6.2  4  0  0  0  3
+Sturtze T             1.1  0  0  0  1  1
+  * Pitched to 3 batters in 2nd
+
+E -- Matsui H, Cano R, Hill A
+DP -- Toronto 1, New York 1
+LOB -- Toronto 6, New York 11
+HR -- Rodriguez A
+SB -- Hillenbrand S
+SH -- Catalanotto F
+SF -- Hinske E 2, Johnson R
+HBP -- by Downs S (Jeter D) 2
+T -- 3:08
+A -- 53911
+     Game of 9/25/2005 -- Toronto at New York (D)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Adams R, ss           5  0  1  0   Jeter D, ss           5  1  2  1   
+Catalanotto F, lf     3  0  0  0   Rodriguez A, 3b       3  1  1  0   
+Rios A, rf            1  0  0  0   Giambi J, 1b          3  0  0  0   
+Wells V, cf           3  0  0  0   Bellhorn M, pr        0  1  0  0   
+Koskie C, 3b          4  1  2  0   Martinez T, 1b        0  0  0  0   
+Hillenbrand S, 1b     3  0  0  0   Sheffield G, rf       3  1  1  4   
+Griffin J, ph         1  0  0  0   Lawton M, rf          0  0  0  0   
+Hinske E, dh          4  2  3  2   Matsui H, dh          4  0  0  0   
+Zaun G, c             2  1  0  0   Posada J, c           4  2  2  0   
+Johnson R, rf-lf      4  0  1  0   Cano R, 2b            4  1  3  2   
+Hill A, 2b            4  0  2  2   Williams B, cf        4  1  1  0   
+                                   Crosby B, lf          4  0  2  1   
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        34  8 12  8
+
+Toronto          000 030 001 --  4
+New York         100 010 24x --  8
+
+  Toronto              IP  H  R ER BB SO
+Towers J (L)          7.0  7  4  4  1  3
+Chulk V*              0.0  2  3  3  1  0
+League B              1.0  3  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Wang C (W)            7.0  6  3  3  1  3
+Gordon T              0.2  1  0  0  0  0
+Rivera M (S)          1.1  2  1  1  2  3
+  * Pitched to 3 batters in 8th
+
+E -- Giambi J
+DP -- New York 1
+LOB -- Toronto 6, New York 5
+2B -- Koskie C, Hill A, Adams R, Posada J
+HR -- Hinske E, Cano R, Sheffield G
+SB -- Koskie C
+CS -- Johnson R
+SF -- Sheffield G
+T -- 2:46
+A -- 55136
+

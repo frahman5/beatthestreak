@@ -1,0 +1,3392 @@
+     Game of 4/9/2012 -- Boston at Toronto (N)
+
+  Boston             AB  R  H RBI    Toronto            AB  R  H RBI
+Ellsbury J, cf        4  0  0  0   Escobar Y, ss         3  1  1  0   
+Pedroia D, 2b         4  2  2  1   Johnson K, 2b         3  0  1  1   
+Gonzalez A, 1b        2  0  0  1   Bautista J, rf        4  0  0  0   
+Youkilis K, 3b        4  0  0  0   Encarnacion E, dh     4  0  1  1   
+Ortiz D, dh           3  0  2  0   Lind A, 1b            4  0  0  0   
+McDonald D, pr        0  1  0  0   Lawrie B, 3b          4  0  1  0   
+Ross C, lf            3  1  1  0   Davis R, lf           2  0  0  0   
+Sweeney R, rf         4  0  2  1   Thames E, ph-lf       2  0  0  0   
+Saltalamacchia J, c   3  0  0  0   Arencibia J, c        3  0  0  0   
+Aviles M, ss          4  0  0  0   Rasmus C, cf          3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  7  3                        32  2  5  2
+
+Boston           000 001 003 --  4
+Toronto          002 000 000 --  2
+
+  Boston               IP  H  R ER BB SO
+Doubront F            5.0  4  2  2  3  6
+Atchison S (W)        3.0  1  0  0  0  3
+Aceves A (S)          1.0  0  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H             6.0  4  1  1  1  2
+Oliver D              1.0  1  0  0  0  2
+Cordero F             1.0  0  0  0  0  1
+Santos S (L)          0.2  2  3  3  3  1
+Perez L               0.1  0  0  0  0  0
+
+DP -- Boston 1, Toronto 1
+LOB -- Boston 5, Toronto 6
+2B -- Sweeney R, Pedroia D
+3B -- Rasmus C
+HR -- Pedroia D
+CS -- Ortiz D
+SF -- Gonzalez A
+WP -- Santos S
+PB -- Arencibia J
+T -- 3:02
+A -- 48473
+     Game of 4/10/2012 -- Boston at Toronto (N)
+
+  Boston             AB  R  H RBI    Toronto            AB  R  H RBI
+Ellsbury J, cf        3  2  0  0   Escobar Y, ss         5  2  2  0   
+Pedroia D, 2b         5  0  3  0   Johnson K, 2b         4  1  1  0   
+Gonzalez A, 1b        4  0  1  3   Bautista J, rf        4  0  0  0   
+Ortiz D, dh           4  0  0  0   Lind A, 1b            4  0  2  1   
+Youkilis K, 3b        4  0  2  0   Encarnacion E, dh     3  2  2  2   
+Sweeney R, rf         3  0  1  0   Lawrie B, 3b          4  1  2  1   
+Ross C, lf            4  0  1  0   Thames E, lf          3  1  1  0   
+Saltalamacchia J, c   3  0  0  0   Arencibia J, c        4  0  1  2   
+Punto N, ss           4  1  1  0   Rasmus C, cf          3  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     34  3  9  3                        34  7 11  7
+
+Boston           000 001 002 --  3
+Toronto          102 003 10x --  7
+
+  Boston               IP  H  R ER BB SO
+Bard D (L)*           5.0  8  5  5  1  6
+Thomas J              1.0  1  1  1  1  0
+Bowden M              2.0  2  1  1  0  3
+
+  Toronto              IP  H  R ER BB SO
+Drabek K (W)          5.1  3  1  1  3  4
+Frasor J              1.1  1  0  0  1  1
+Perez L               1.1  2  0  0  0  1
+Janssen C             1.0  3  2  2  1  3
+  * Pitched to 2 batters in 6th
+
+DP -- Toronto 1
+LOB -- Boston 10, Toronto 6
+2B -- Lind A, Youkilis K, Ross C, Pedroia D, Sweeney R, Gonzalez A
+HR -- Encarnacion E
+SB -- Encarnacion E 2, Lawrie B
+SF -- Gonzalez A, Rasmus C
+T -- 3:19
+A -- 26351
+     Game of 4/11/2012 -- Boston at Toronto (D)
+
+  Boston             AB  R  H RBI    Toronto            AB  R  H RBI
+Ellsbury J, cf        3  0  1  1   Escobar Y, ss         3  0  1  2   
+Pedroia D, 2b         3  0  0  0   Johnson K, 2b         3  0  0  0   
+Gonzalez A, 1b        4  0  0  0   Bautista J, rf        3  0  0  0   
+Youkilis K, 3b        4  0  0  0   Encarnacion E, 1b     3  0  0  0   
+Ortiz D, dh           4  0  0  0   Francisco B, dh       3  0  0  0   
+McDonald D, rf        3  0  0  0   Lawrie B, 3b          3  0  0  0   
+Ross C, lf            3  0  1  0   Thames E, lf          3  1  1  0   
+Aviles M, ss          3  1  1  0   Rasmus C, cf          0  0  0  0   
+Shoppach K, c         3  0  0  0   Arencibia J, c        3  0  0  0   
+                                   Davis R, cf-lf        2  2  1  1   
+                     -- -- -- --                        -- -- -- --
+                     30  1  3  1                        26  3  3  3
+
+Boston           001 000 000 --  1
+Toronto          002 000 01x --  3
+
+  Boston               IP  H  R ER BB SO
+Lester J (L)          8.0  3  3  3  2  6
+
+  Toronto              IP  H  R ER BB SO
+Romero R (W)          8.1  3  1  1  2  5
+Santos S (S)          0.2  0  0  0  0  1
+
+LOB -- Boston 4, Toronto 2
+3B -- Davis R
+SB -- Davis R
+SF -- Escobar Y
+WP -- Lester J
+PB -- Shoppach K
+T -- 2:13
+A -- 25285
+     Game of 4/13/2012 -- Baltimore at Toronto (N)
+
+  Baltimore          AB  R  H RBI    Toronto            AB  R  H RBI
+Reimold N, lf         5  3  3  1   Escobar Y, ss         5  1  1  1   
+Chavez E, lf          0  0  0  0   Johnson K, 2b         4  1  1  1   
+Hardy J, ss           5  0  0  0   Bautista J, rf        3  1  1  0   
+Markakis N, rf        3  2  2  1   Lind A, 1b            3  0  0  0   
+Jones A, cf           4  1  3  2   Encarnacion E, dh     4  1  1  1   
+Wieters M, c          2  0  0  0   Thames E, lf          3  0  1  0   
+Betemit W, 3b         4  0  1  2   Davis R, lf           1  0  0  0   
+Reynolds M, dh        4  0  0  0   Lawrie B, 3b          4  0  1  0   
+Davis C, 1b           4  0  0  0   Rasmus C, cf          3  1  1  1   
+Andino R, 2b          4  1  1  1   Arencibia J, c        2  0  0  0   
+                                   Francisco B, pr       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7 10  7                        32  5  7  4
+
+Baltimore        100 111 021 --  7
+Toronto          100 121 000 --  5
+
+  Baltimore            IP  H  R ER BB SO
+Hunter T*             6.0  6  5  4  2  2
+O'Day D (W)           1.0  0  0  0  0  1
+Strop P               1.0  0  0  0  1  0
+Johnson J (S)         1.0  1  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Morrow B              7.0  6  4  4  1  4
+Frasor J              0.1  1  1  1  0  1
+Oliver D (L)          0.1  2  1  1  1  1
+Janssen C             1.1  1  1  1  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Reimold N, Davis C
+DP -- Baltimore 3
+LOB -- Baltimore 4, Toronto 5
+2B -- Reimold N, Markakis N
+HR -- Johnson K, Andino R, Rasmus C, Escobar Y, Jones A, Encarnacion E, Reimold N
+SB -- Reimold N
+SH -- Arencibia J
+SF -- Markakis N
+HBP -- by Johnson J (Arencibia J)
+T -- 2:40
+A -- 21988
+     Game of 4/14/2012 -- Baltimore at Toronto (D)
+
+  Baltimore          AB  R  H RBI    Toronto            AB  R  H RBI
+Reimold N, lf         5  1  2  2   Escobar Y, ss         4  0  0  0   
+Chavez E, lf          0  0  0  0   Johnson K, 2b         4  1  1  1   
+Hardy J, ss           4  1  1  0   Bautista J, rf        4  0  1  0   
+Markakis N, rf        4  0  0  0   Lind A, 1b            4  1  1  0   
+Jones A, cf           3  0  1  0   Encarnacion E, dh     4  1  1  0   
+Wieters M, c          4  0  0  1   Thames E, lf          2  1  1  1   
+Betemit W, 3b         4  1  1  1   Davis R, lf           1  0  0  0   
+Reynolds M, dh        4  1  1  0   Lawrie B, 3b          3  0  2  0   
+Davis C, 1b           4  1  3  2   Rasmus C, cf          4  0  3  2   
+Flaherty R, pr-1b     0  1  0  0   Arencibia J, c        4  0  0  0   
+Andino R, 2b          4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  6  9  6                        34  4 10  4
+
+Baltimore        100 200 012 --  6
+Toronto          110 002 000 --  4
+
+  Baltimore            IP  H  R ER BB SO
+Hammel J              5.0  6  2  2  1  3
+Lindstrom M           1.0  2  2  0  1  1
+O'Day D               1.0  0  0  0  0  0
+Ayala L (W)           1.0  1  0  0  0  1
+Johnson J (S)         1.0  1  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H             7.0  6  3  3  1  2
+Janssen C             1.0  1  1  1  0  0
+Cordero F (L)         1.0  2  2  2  0  2
+
+E -- Betemit W
+DP -- Baltimore 1
+LOB -- Baltimore 6, Toronto 6
+2B -- Thames E, Reimold N, Lind A
+HR -- Johnson K, Davis C, Betemit W, Reimold N
+SB -- Rasmus C
+CS -- Lawrie B 2
+SF -- Thames E
+HBP -- by Alvarez H (Jones A), by Alvarez H (Hardy J)
+T -- 2:57
+A -- 28355
+     Game of 4/15/2012 -- Baltimore at Toronto (D)
+
+  Baltimore          AB  R  H RBI    Toronto            AB  R  H RBI
+Chavez E, lf          4  0  0  0   Escobar Y, ss         5  1  3  2   
+Johnson N, dh         3  0  0  0   Johnson K, 2b         5  1  1  1   
+Markakis N, rf        4  0  0  0   Bautista J, rf        4  1  1  0   
+Jones A, cf           4  1  1  1   Encarnacion E, 1b     4  2  2  2   
+Betemit W, 3b         4  1  1  0   Lawrie B, 3b          4  1  2  3   
+Davis C, 1b           3  0  2  0   Francisco B, dh       3  1  2  0   
+Paulino R, c          4  0  1  1   Vizquel O, ph         1  0  0  0   
+Flaherty R, 2b        3  0  0  0   Rasmus C, cf          4  0  0  0   
+Andino R, ss          3  0  2  0   Davis R, lf           2  1  0  0   
+                                   Mathis J, c           3  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        35  9 13  9
+
+Baltimore        010 001 000 --  2
+Toronto          000 107 01x --  9
+
+  Baltimore            IP  H  R ER BB SO
+Matusz B (L)          5.2  7  5  5  4  4
+Gregg K               0.1  3  3  3  2  0
+Patton T              2.0  3  1  1  0  1
+
+  Toronto              IP  H  R ER BB SO
+Drabek K (W)          7.1  6  2  1  1  6
+Perez L               0.2  0  0  0  0  0
+Crawford E            1.0  1  0  0  0  1
+
+E -- Betemit W, Drabek K
+DP -- Baltimore 3, Toronto 3
+LOB -- Baltimore 5, Toronto 9
+2B -- Davis C 2, Francisco B, Betemit W, Bautista J, Escobar Y, Johnson K, Mathis J, Encarnacion E
+HR -- Lawrie B, Jones A, Encarnacion E
+HBP -- by Gregg K (Lawrie B), by Perez L (Johnson N)
+T -- 2:39
+A -- 20252
+     Game of 4/17/2012 -- Tampa Bay at Toronto (N)
+
+  Tampa Bay          AB  R  H RBI    Toronto            AB  R  H RBI
+Jennings D, cf        4  0  0  0   Escobar Y, ss         4  1  0  0   
+Pena C, 1b            4  0  3  0   Johnson K, 2b         5  1  0  0   
+Longoria E, 3b        4  0  1  0   Bautista J, rf        2  2  1  2   
+Scott L, dh           3  0  0  0   Lind A, 1b            3  1  3  3   
+Zobrist B, rf-2b      3  0  0  0   Encarnacion E, dh     3  0  0  0   
+Joyce M, lf-rf        4  2  2  1   Thames E, lf          2  0  1  0   
+Rodriguez S, 2b-ss    2  1  0  0   Francisco B, ph       1  0  0  0   
+Brignac R, ss         2  0  1  1   Davis R, lf           0  0  0  0   
+Vogt S, ph-lf         1  0  0  0   Lawrie B, 3b          4  1  1  1   
+Keppinger J, ph       1  0  1  0   Rasmus C, cf          3  0  1  0   
+Gimenez C, c          4  0  2  1   Arencibia J, c        4  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3 10  3                        31  7  7  6
+
+Tampa Bay        000 020 100 --  3
+Toronto          103 001 11x --  7
+
+  Tampa Bay            IP  H  R ER BB SO
+Niemann J (L)*        5.0  3  5  2  1  5
+Howell J+             0.0  0  0  0  1  0
+Gomes B#              1.0  1  1  1  2  2
+McGee J               1.0  1  0  0  1  2
+Badenhop B            1.0  2  1  1  0  0
+
+  Toronto              IP  H  R ER BB SO
+Romero R (W)**        6.0  8  3  3  3  4
+Frasor J              1.0  0  0  0  0  1
+Cordero F             1.0  1  0  0  1  2
+Santos S              1.0  1  0  0  0  1
+  * Pitched to 1 batter in 6th
+  + Pitched to 1 batter in 6th
+  # Pitched to 1 batter in 7th
+  ** Pitched to 2 batters in 7th
+
+E -- Longoria E 3, Lawrie B
+DP -- Tampa Bay 1, Toronto 4
+LOB -- Tampa Bay 6, Toronto 7
+2B -- Gimenez C
+HR -- Bautista J, Lind A, Joyce M, Lawrie B
+SF -- Bautista J
+HBP -- by Niemann J (Thames E)
+WP -- Niemann J, Howell J, Frasor J, Cordero F
+T -- 3:05
+A -- 15331
+     Game of 4/18/2012 -- Tampa Bay at Toronto (N)
+
+  Tampa Bay          AB  R  H RBI    Toronto            AB  R  H RBI
+Jennings D, cf        4  2  1  0   Escobar Y, ss         5  1  4  0   
+Zobrist B, rf         4  2  1  2   Johnson K, 2b         5  0  0  0   
+Pena C, 1b            4  1  0  1   Bautista J, rf        3  0  1  1   
+Longoria E, 3b        4  1  1  1   Encarnacion E, dh     5  0  2  0   
+Scott L, dh           5  1  2  4   Lind A, 1b            4  0  0  0   
+Keppinger J, 2b       3  0  0  0   Lawrie B, 3b          4  0  1  0   
+Brignac R, ss         2  0  0  0   Davis R, lf           3  0  0  0   
+Joyce M, lf           5  3  3  1   Vizquel O, ph         1  0  1  0   
+Molina J, c           3  0  1  1   Arencibia J, c        0  0  0  0   
+Rodriguez S, ss-2b    2  2  1  2   Rasmus C, cf          4  0  2  0   
+                                   Mathis J, c           3  1  1  1   
+                                   Thames E, ph-lf       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36 12 10 12                        38  2 12  2
+
+Tampa Bay        210 102 006 -- 12
+Toronto          110 000 000 --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Price D (W)           5.2  8  2  2  2  3
+Davis W               1.2  3  0  0  0  2
+Peralta J             0.2  0  0  0  0  2
+Howell J              1.0  1  0  0  0  2
+
+  Toronto              IP  H  R ER BB SO
+Morrow B (L)          6.0  8  6  6  3  2
+Perez L               2.0  0  0  0  0  4
+Villanueva C          1.0  2  6  5  2  0
+
+E -- Lawrie B
+DP -- Tampa Bay 1, Toronto 1
+LOB -- Tampa Bay 4, Toronto 11
+2B -- Joyce M 2
+HR -- Zobrist B, Mathis J, Joyce M, Rodriguez S, Scott L
+SF -- Rodriguez S
+HBP -- by Villanueva C (Molina J)
+WP -- Villanueva C
+T -- 3:11
+A -- 15828
+     Game of 4/19/2012 -- Tampa Bay at Toronto (N)
+
+  Tampa Bay          AB  R  H RBI    Toronto            AB  R  H RBI
+Jennings D, cf        5  2  3  2   Escobar Y, ss         4  1  1  0   
+Zobrist B, rf         3  2  1  0   Johnson K, 2b         5  0  1  0   
+Pena C, 1b            3  1  0  0   Bautista J, rf        3  1  0  0   
+Longoria E, 3b        4  2  3  4   Lind A, 1b            4  0  1  1   
+Scott L, dh           5  0  1  2   Encarnacion E, dh     4  0  2  0   
+Vogt S, pr            0  0  0  0   Thames E, lf          5  0  1  0   
+Joyce M, lf           4  1  0  0   Lawrie B, 3b          5  0  1  1   
+Keppinger J, 2b       3  0  0  0   Rasmus C, cf          5  1  1  0   
+Johnson E, 2b         1  0  0  0   Arencibia J, c        4  1  2  1   
+Molina J, c           4  0  0  0                                      
+Rodriguez S, ss       4  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     36  9  9  9                        39  4 10  3
+
+Tampa Bay        120 030 003 --  9
+Toronto          100 200 001 --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Hellickson J (W)      5.2  6  3  2  3  4
+McGee J*              0.0  1  0  0  0  0
+Badenhop B+           0.0  0  0  0  1  0
+Howell J              1.1  1  0  0  0  2
+Peralta J             1.0  0  0  0  0  0
+Rodney F              1.0  2  1  1  1  0
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H (L)         6.1  6  6  6  2  4
+Crawford E            1.0  0  0  0  3  0
+Frasor J              1.2  3  3  3  1  4
+  * Pitched to 1 batter in 6th
+  + Pitched to 1 batter in 6th
+
+E -- Bautista J, Longoria E, Rodriguez S, Lind A
+DP -- Toronto 1
+LOB -- Tampa Bay 7, Toronto 13
+2B -- Lind A, Arencibia J, Encarnacion E, Longoria E, Scott L
+HR -- Jennings D, Longoria E
+SB -- Johnson E, Jennings D
+HBP -- by Alvarez H (Joyce M)
+WP -- Hellickson J
+Balk -- Crawford E
+T -- 3:43
+A -- 18976
+     Game of 4/27/2012 -- Seattle at Toronto (N)
+
+  Seattle            AB  R  H RBI    Toronto            AB  R  H RBI
+Ackley D, 2b          3  0  1  0   Escobar Y, ss         4  0  1  0   
+Ryan B, ss            4  0  0  0   Johnson K, 2b         5  0  1  0   
+Jaso J, ph            1  0  1  1   Bautista J, rf        4  0  0  0   
+Figgins C, lf         0  0  0  0   Lind A, 1b            5  0  1  0   
+Suzuki I, rf          5  0  0  0   Encarnacion E, dh     5  2  2  1   
+Smoak J, 1b           5  1  1  0   Thames E, lf          4  2  3  1   
+Montero J, dh         5  2  2  1   Davis R, lf           1  0  0  0   
+Liddi A, 3b           5  1  1  0   Lawrie B, 3b          4  1  1  0   
+Saunders M, cf        4  3  2  5   Rasmus C, cf          4  0  2  2   
+Olivo M, c            4  1  1  0   Arencibia J, c        2  0  0  1   
+Wells C, lf           3  0  1  1                                      
+Seager K, ph          1  0  0  0                                      
+Kawasaki M, pr-ss     1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  9 11  8                        38  5 11  5
+
+Seattle          001 000 202 4 --  9
+Toronto          010 200 020 0 --  5
+
+  Seattle              IP  H  R ER BB SO
+Beavan B              5.2  7  3  3  0  4
+Ramirez E             0.2  0  0  0  0  0
+Delabar S             0.1  0  0  0  1  1
+Luetge L              0.1  1  0  0  0  0
+Wilhelmsen T          1.1  3  2  2  1  1
+Furbush C (W)         0.2  0  0  0  0  1
+League B              1.0  0  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Romero R              6.2  4  3  2  3  5
+Frasor J              0.1  0  0  0  0  0
+Oliver D              0.2  0  0  0  0  1
+Janssen C             0.1  0  0  0  0  0
+Cordero F             1.0  2  2  1  1  0
+Perez L (L)           0.1  4  4  4  0  0
+Villanueva C          0.2  1  0  0  0  0
+
+E -- Beavan B, Lawrie B 2, Wilhelmsen T, Arencibia J
+LOB -- Seattle 6, Toronto 9
+2B -- Encarnacion E, Rasmus C, Ackley D, Wells C
+3B -- Rasmus C
+HR -- Encarnacion E, Montero J, Thames E, Saunders M 2
+CS -- Kawasaki M
+SH -- Escobar Y
+SF -- Arencibia J
+HBP -- by Beavan B (Lawrie B), by Ramirez E (Arencibia J)
+T -- 3:35
+A -- 24303
+     Game of 4/28/2012 -- Seattle at Toronto (D)
+
+  Seattle            AB  R  H RBI    Toronto            AB  R  H RBI
+Figgins C, lf         4  0  0  0   Escobar Y, ss         4  1  1  0   
+Ackley D, 2b          4  0  0  0   Johnson K, 2b         4  2  2  0   
+Suzuki I, rf          4  0  2  0   Bautista J, rf        4  2  1  1   
+Smoak J, 1b           4  0  0  0   Lind A, 1b            3  1  2  1   
+Seager K, 3b          3  0  2  0   Encarnacion E, dh     3  1  2  5   
+Kawasaki M, ph        0  0  0  0   Thames E, lf          2  0  0  0   
+Montero J, dh         3  0  0  0   Lawrie B, 3b          4  0  1  0   
+Jaso J, ph            1  0  0  0   Rasmus C, cf          4  0  0  0   
+Saunders M, cf        4  0  1  0   Arencibia J, c        3  0  1  0   
+Olivo M, c            4  0  1  0                                      
+Ryan B, ss            3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  0  6  0                        31  7 10  7
+
+Seattle          000 000 000 --  0
+Toronto          003 000 04x --  7
+
+  Seattle              IP  H  R ER BB SO
+Millwood K (L)        7.0  7  3  1  2  4
+Iwakuma H             1.0  3  4  4  1  2
+
+  Toronto              IP  H  R ER BB SO
+Morrow B (W)          6.0  5  0  0  0  9
+Frasor J              1.0  1  0  0  0  1
+Oliver D              1.0  0  0  0  0  1
+Villanueva C          1.0  0  0  0  1  2
+
+E -- Seager K, Johnson K
+DP -- Seattle 2
+LOB -- Seattle 8, Toronto 4
+2B -- Seager K, Lind A, Saunders M, Encarnacion E, Bautista J
+HR -- Encarnacion E
+CS -- Encarnacion E
+SF -- Encarnacion E
+T -- 2:45
+A -- 30765
+     Game of 4/29/2012 -- Seattle at Toronto (D)
+
+  Seattle            AB  R  H RBI    Toronto            AB  R  H RBI
+Figgins C, lf         4  1  1  1   Escobar Y, ss         5  0  1  0   
+Ackley D, 2b          5  0  1  0   Johnson K, 2b         3  0  1  1   
+Suzuki I, rf          4  0  0  0   Bautista J, rf        4  1  1  0   
+Liddi A, 1b           4  0  0  0   Lind A, 1b            4  0  0  0   
+Seager K, 3b          4  0  1  0   Encarnacion E, dh     1  2  1  1   
+Saunders M, cf        3  0  1  0   Thames E, lf          3  0  1  0   
+Olivo M, c            4  1  2  1   Davis R, ph           0  1  0  0   
+Jaso J, dh            3  0  1  0   Francisco B, lf       0  0  0  0   
+Kawasaki M, ss        3  0  1  0   Lawrie B, 3b          4  1  1  2   
+                                   Rasmus C, cf          4  1  1  0   
+                                   Mathis J, c           4  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        32  7  8  6
+
+Seattle          100 000 001 --  2
+Toronto          000 011 05x --  7
+
+  Seattle              IP  H  R ER BB SO
+Vargas J (L)          6.0  4  2  2  3  4
+Delabar S             1.1  2  2  2  0  1
+Furbush C             0.2  2  3  3  1  1
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H (W)*        6.0  6  1  1  3  1
+Crawford E            1.0  0  0  0  0  0
+Janssen C             1.0  0  0  0  0  0
+Cordero F             1.0  2  1  1  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Olivo M 2
+LOB -- Seattle 9, Toronto 6
+2B -- Ackley D, Saunders M, Thames E, Seager K, Escobar Y, Lawrie B, Jaso J
+HR -- Figgins C, Encarnacion E, Mathis J, Olivo M
+SB -- Olivo M, Encarnacion E, Bautista J
+SH -- Figgins C
+HBP -- by Delabar S (Encarnacion E)
+WP -- Cordero F
+T -- 2:36
+A -- 22320
+     Game of 4/30/2012 -- Texas at Toronto (N)
+
+  Texas              AB  R  H RBI    Toronto            AB  R  H RBI
+Kinsler I, 2b         3  1  1  0   Escobar Y, ss         4  0  0  0   
+Andrus E, ss          5  0  2  1   Johnson K, 2b         4  0  0  0   
+Young M, 3b           4  0  1  0   Bautista J, rf        4  0  0  0   
+Beltre A, dh          5  1  3  0   Lind A, 1b            3  0  0  0   
+Snyder B, pr          0  0  0  0   Encarnacion E, dh     3  1  2  1   
+Murphy D, lf          4  0  0  0   Thames E, lf          4  0  1  0   
+Cruz N, rf            4  0  1  1   Lawrie B, 3b          2  0  0  0   
+Napoli M, c           4  0  0  0   Rasmus C, cf          3  0  1  0   
+Moreland M, 1b        3  1  1  1   Arencibia J, c        3  0  0  0   
+Gentry C, cf          4  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4 10  4                        30  1  4  1
+
+Texas            011 000 200 --  4
+Toronto          000 100 000 --  1
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (W)         7.0  4  1  1  2  9
+Adams M               1.0  0  0  0  0  0
+Nathan J (S)          1.0  0  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Drabek K (L)          6.0  5  2  2  2  8
+Crawford E*           0.0  2  2  2  0  0
+Frasor J              1.0  1  0  0  2  2
+Perez L               2.0  2  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Johnson K
+DP -- Texas 1, Toronto 1
+LOB -- Texas 10, Toronto 5
+2B -- Beltre A 2, Cruz N, Andrus E
+HR -- Encarnacion E, Moreland M, Gentry C
+CS -- Kinsler I
+HBP -- by Darvish Y (Encarnacion E), by Perez L (Moreland M)
+T -- 2:59
+A -- 21945
+     Game of 5/1/2012 -- Texas at Toronto (N)
+
+  Texas              AB  R  H RBI    Toronto            AB  R  H RBI
+Kinsler I, 2b         5  2  2  3   Escobar Y, ss         4  0  1  1   
+Andrus E, ss          5  0  3  1   Johnson K, 2b         3  1  2  4   
+Young M, dh           5  0  1  1   Bautista J, rf        3  1  1  1   
+Cruz N, rf            5  0  0  0   Lind A, 1b            4  0  0  0   
+Murphy D, lf-cf       4  1  2  0   Encarnacion E, dh     3  0  1  0   
+Napoli M, c           2  1  0  0   Thames E, lf          4  1  0  0   
+Torrealba Y, c        0  0  0  0   Davis R, lf           0  0  0  0   
+Moreland M, 1b        4  1  1  0   Lawrie B, 3b          4  2  2  1   
+Gonzalez A, 3b        4  1  2  1   Rasmus C, cf          1  1  0  0   
+Gentry C, cf          3  1  0  1   Mathis J, c           1  2  0  1   
+Beltre A, ph          1  0  0  0                                      
+Snyder B, lf          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  7 11  7                        27  8  7  8
+
+Texas            050 100 001 --  7
+Toronto          004 000 301 --  8
+  0 outs when winning run was scored.
+
+  Texas                IP  H  R ER BB SO
+Feliz N*              5.0  4  4  4  6  4
+Ross R+               1.0  1  3  0  0  0
+Ogando A              2.0  1  0  0  0  1
+Adams M (L)           0.0  1  1  1  0  0
+
+  Toronto              IP  H  R ER BB SO
+Hutchison D           6.0  7  6  5  2  5
+Villanueva C          1.2  1  0  0  0  0
+Oliver D              0.1  0  0  0  0  0
+Cordero F (W)         1.0  3  1  1  0  1
+  * Pitched to 2 batters in 6th
+  + Pitched to 3 batters in 7th
+
+E -- Escobar Y, Johnson K, Andrus E, Napoli M
+DP -- Texas 4, Toronto 1
+LOB -- Texas 6, Toronto 2
+2B -- Kinsler I
+HR -- Johnson K, Bautista J, Lawrie B
+SB -- Gentry C
+SH -- Rasmus C
+WP -- Ogando A
+T -- 2:56
+A -- 18774
+     Game of 5/2/2012 -- Texas at Toronto (D)
+
+  Texas              AB  R  H RBI    Toronto            AB  R  H RBI
+Kinsler I, 2b         4  1  0  0   Johnson K, 2b         4  2  1  2   
+Andrus E, dh          4  1  2  2   Escobar Y, ss         5  2  3  3   
+Young M, 3b           4  0  2  1   Bautista J, rf        3  1  0  1   
+Napoli M, 1b          3  0  0  1   Encarnacion E, 1b     4  1  1  3   
+Cruz N, rf            4  0  0  0   Francisco B, dh       3  1  2  0   
+Torrealba Y, c        4  0  0  0   Lawrie B, 3b          4  0  0  0   
+Gonzalez A, ss        4  0  0  0   Thames E, lf          3  1  1  0   
+Snyder B, lf          2  2  1  1   Arencibia J, c        4  1  2  2   
+Murphy D, ph          1  0  0  0   Davis R, cf           2  2  1  0   
+Gentry C, cf          2  1  1  0   Rasmus C, cf          2  0  0  0   
+Moreland M, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  5  6  5                        34 11 11 11
+
+Texas            010 040 000 --  5
+Toronto          002 603 00x -- 11
+
+  Texas                IP  H  R ER BB SO
+Harrison M (L)        3.1  8  8  8  2  3
+Feldman S             2.2  3  3  3  2  2
+Lowe M                1.0  0  0  0  0  0
+Uehara K              1.0  0  0  0  0  2
+
+  Toronto              IP  H  R ER BB SO
+Romero R (W)          8.0  6  5  5  3  6
+Carreno J             1.0  0  0  0  0  2
+
+E -- Johnson K
+LOB -- Texas 5, Toronto 4
+2B -- Escobar Y, Thames E, Arencibia J, Andrus E
+3B -- Escobar Y
+HR -- Snyder B, Johnson K, Encarnacion E
+SF -- Bautista J, Napoli M
+WP -- Harrison M
+PB -- Arencibia J
+T -- 2:45
+A -- 25123
+     Game of 5/14/2012 -- Tampa Bay at Toronto (N)
+
+  Tampa Bay          AB  R  H RBI    Toronto            AB  R  H RBI
+Zobrist B, rf         4  2  1  1   Johnson K, 2b         5  0  2  1   
+Upton B, cf           3  1  1  0   Escobar Y, ss         4  0  0  0   
+Joyce M, lf           5  1  1  1   Vizquel O, ss         0  0  0  0   
+Pena C, 1b            4  1  0  0   Bautista J, rf        3  0  0  0   
+Scott L, dh           5  1  1  2   Lind A, 1b            3  0  0  0   
+Rodriguez S, 3b       4  0  2  2   Encarnacion E, dh     3  0  0  0   
+Rhymes W, 2b          3  1  1  0   Thames E, lf          3  0  1  0   
+Gimenez C, c          4  0  0  0   Lawrie B, 3b          4  0  1  0   
+Johnson E, ss         2  0  1  1   Rasmus C, cf          2  1  0  0   
+                                   Francisco B, ph       1  0  0  0   
+                                   Arencibia J, c        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  7  8  7                        31  1  4  1
+
+Tampa Bay        000 060 001 --  7
+Toronto          010 000 000 --  1
+
+  Tampa Bay            IP  H  R ER BB SO
+Niemann J             1.0  1  0  0  1  0
+Ramos C (W)           3.0  2  1  1  3  3
+Davis W               2.0  0  0  0  1  1
+Howell J              1.0  0  0  0  0  1
+Badenhop B            1.0  0  0  0  0  1
+McGee J               1.0  1  0  0  1  3
+
+  Toronto              IP  H  R ER BB SO
+Morrow B (L)          5.0  5  6  6  4  7
+Perez L               1.0  0  0  0  1  1
+Crawford E            1.0  1  0  0  0  3
+Cordero F             1.0  1  0  0  0  1
+Villanueva C          1.0  1  1  1  1  2
+
+E -- Lind A
+DP -- Toronto 1
+LOB -- Tampa Bay 7, Toronto 9
+2B -- Rhymes W, Rodriguez S
+HR -- Zobrist B
+SB -- Johnson K, Johnson E, Upton B
+CS -- Johnson E
+HBP -- by Cordero F (Rhymes W)
+WP -- Morrow B
+T -- 3:21
+A -- 15289
+     Game of 5/15/2012 -- Tampa Bay at Toronto (N)
+
+  Tampa Bay          AB  R  H RBI    Toronto            AB  R  H RBI
+Zobrist B, rf         5  0  3  1   Johnson K, 2b         4  0  1  0   
+Upton B, cf           4  0  1  0   Escobar Y, ss         4  0  0  0   
+Joyce M, lf           4  0  2  0   Bautista J, rf        4  1  1  1   
+Pena C, 1b            4  0  1  0   Encarnacion E, 1b     4  1  1  2   
+Scott L, dh           4  0  0  0   Francisco B, dh       3  0  0  0   
+Rodriguez S, 3b       4  1  1  1   Thames E, ph          1  0  0  0   
+Rhymes W, 2b          4  2  2  0   Lawrie B, 3b          3  0  1  0   
+Molina J, c           4  1  0  0   Rasmus C, cf          4  0  0  0   
+Johnson E, ss         4  0  2  0   Mathis J, c           3  0  0  0   
+                                   Davis R, lf           3  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4 12  2                        33  3  6  3
+
+Tampa Bay        000 010 300 --  4
+Toronto          003 000 000 --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Price D (W)           7.0  6  3  3  0  6
+Peralta J             1.0  0  0  0  0  0
+Rodney F (S)          1.0  0  0  0  0  2
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H (L)         6.2 10  4  2  0  1
+Oliver D              0.2  1  0  0  0  1
+Frasor J              0.2  0  0  0  0  0
+Janssen C             1.0  1  0  0  0  1
+
+E -- Alvarez H, Molina J, Johnson E, Lawrie B, Escobar Y, Davis R
+DP -- Toronto 2
+LOB -- Tampa Bay 6, Toronto 4
+2B -- Zobrist B 2, Davis R
+HR -- Encarnacion E, Rodriguez S
+SB -- Lawrie B, Davis R
+CS -- Johnson E
+HBP -- by Price D (Lawrie B)
+WP -- Alvarez H
+T -- 2:36
+A -- 15612
+     Game of 5/16/2012 -- New York at Toronto (N)
+
+  New York           AB  R  H RBI    Toronto            AB  R  H RBI
+Granderson C, cf      5  0  0  0   Johnson K, 2b         4  1  2  2   
+Swisher N, rf         4  0  0  0   Thames E, lf          4  1  1  0   
+Cano R, 2b            3  1  1  0   Bautista J, rf        3  2  1  1   
+Rodriguez A, 3b       3  0  0  0   Encarnacion E, 1b     4  1  3  3   
+Teixeira M, 1b        3  0  1  1   Lawrie B, 3b          4  1  0  0   
+Ibanez R, lf          3  0  1  0   Rasmus C, cf          4  0  0  0   
+Chavez E, dh          2  0  0  0   Arencibia J, c        4  2  3  2   
+Jones A, ph           1  0  0  0   Lind A, dh            4  0  1  0   
+Martin R, c           3  0  0  0   Vizquel O, ss         3  0  0  0   
+Nix J, ss             2  0  0  0                                      
+Wise D, ph            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  3  1                        34  8 11  8
+
+New York         000 001 000 --  1
+Toronto          023 110 10x --  8
+
+  New York             IP  H  R ER BB SO
+Kuroda H (L)*         5.0  8  7  7  2  6
+Rapada C              1.1  1  1  1  0  1
+Eppley C              1.2  2  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Drabek K (W)          7.0  3  1  1  4  5
+Perez L               1.0  0  0  0  2  2
+Cordero F             1.0  0  0  0  0  1
+  * Pitched to 1 batter in 6th
+
+E -- Cano R
+DP -- New York 2
+LOB -- New York 9, Toronto 4
+2B -- Thames E, Arencibia J, Cano R
+HR -- Arencibia J, Encarnacion E, Bautista J, Johnson K
+SB -- Lawrie B
+HBP -- by Drabek K (Ibanez R)
+T -- 2:45
+A -- 28915
+     Game of 5/17/2012 -- New York at Toronto (N)
+
+  New York           AB  R  H RBI    Toronto            AB  R  H RBI
+Jeter D, ss           4  0  1  0   Johnson K, 2b         3  0  0  0   
+Granderson C, cf      3  1  2  0   Escobar Y, ss         4  1  2  0   
+Cano R, 2b            3  0  1  1   Bautista J, rf        4  2  2  2   
+Teixeira M, 1b        4  0  0  0   Encarnacion E, 1b     4  0  0  0   
+Ibanez R, lf          3  0  0  0   Arencibia J, c        4  1  1  2   
+Swisher N, dh         3  0  0  0   Francisco B, dh       4  0  1  0   
+Chavez E, 3b          4  0  1  0   Rasmus C, cf          3  0  0  0   
+Jones A, rf           4  0  0  0   Gomes Y, 3b           3  0  2  0   
+Martin R, c           3  0  0  0   Vizquel O, 3b         1  0  0  0   
+                                   Davis R, lf           4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        34  4  9  4
+
+New York         100 000 000 --  1
+Toronto          002 000 20x --  4
+
+  New York             IP  H  R ER BB SO
+Hughes P (L)          5.1  7  2  2  2  5
+Wade C                1.2  2  2  2  0  1
+Garcia F              1.0  0  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Hutchison D (W)       6.0  5  1  1  4  3
+Frasor J              1.0  0  0  0  0  1
+Oliver D              1.0  0  0  0  0  0
+Janssen C (S)         1.0  0  0  0  0  1
+
+E -- Jeter D, Arencibia J
+DP -- Toronto 1
+LOB -- New York 7, Toronto 8
+2B -- Cano R, Granderson C, Davis R, Chavez E, Francisco B
+HR -- Bautista J, Arencibia J
+T -- 2:37
+A -- 31266
+     Game of 5/18/2012 -- New York at Toronto (N)
+
+  New York           AB  R  H RBI    Toronto            AB  R  H RBI
+Torres A, cf          2  1  0  0   Johnson K, 2b         2  2  0  0   
+Turner J, 1b          4  1  0  0   Vizquel O, 2b         1  0  0  0   
+Wright D, 3b          3  0  1  0   Escobar Y, ss         5  2  2  0   
+Valdespin J, ss       1  0  0  0   Bautista J, rf        3  1  1  1   
+Duda L, dh            3  1  0  0   Rasmus C, cf          0  0  0  0   
+Nickeas M, c          0  0  0  0   Encarnacion E, 1b     3  1  0  0   
+Murphy D, 2b          3  1  1  1   Arencibia J, c        5  3  3  6   
+Hairston S, lf        3  1  2  3   Francisco B, dh       5  0  1  0   
+Nieuwenhuis K, rf     4  0  0  0   Thames E, lf          5  1  2  1   
+Johnson R, c-p        3  0  0  1   Gomes Y, 3b           2  2  1  2   
+Cedeno R, ss-3b       3  0  0  0   Davis R, cf-rf        4  2  2  4   
+                     -- -- -- --                        -- -- -- --
+                     29  5  4  5                        35 14 12 14
+
+New York         010 000 040 --  5
+Toronto          323 024 00x -- 14
+
+  New York             IP  H  R ER BB SO
+Niese J (L)           3.0  8  8  8  2  6
+Acosta M*             2.0  2  5  5  4  4
+Ramirez R             1.0  2  1  1  0  0
+Carson R              1.0  0  0  0  1  0
+Johnson R             1.0  0  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Romero R (W)          6.0  3  1  1  4  6
+Villanueva C          1.0  0  0  0  1  1
+Crawford E            0.1  0  2  2  1  0
+Perez L               0.2  1  2  2  1  1
+Cordero F             1.0  0  0  0  1  0
+  * Pitched to 3 batters in 6th
+
+DP -- Toronto 2
+LOB -- New York 6, Toronto 5
+2B -- Wright D, Hairston S, Murphy D
+HR -- Arencibia J 2, Gomes Y, Davis R 2, Hairston S
+SB -- Johnson K, Bautista J
+SF -- Gomes Y
+HBP -- by Crawford E (Turner J)
+T -- 2:53
+A -- 26712
+     Game of 5/19/2012 -- New York at Toronto (D)
+
+  New York           AB  R  H RBI    Toronto            AB  R  H RBI
+Torres A, cf          4  0  0  0   Johnson K, 2b         4  1  2  1   
+Baxter M, dh          4  0  1  0   Escobar Y, ss         4  0  2  1   
+Murphy D, 2b          4  0  0  0   Bautista J, rf        4  0  0  0   
+Duda L, rf            3  0  1  0   Encarnacion E, 1b     3  0  1  0   
+Davis I, 1b           3  0  0  0   Arencibia J, dh       4  0  0  0   
+Turner J, 3b          3  0  0  0   Thames E, lf          2  0  0  0   
+Nieuwenhuis K, lf     3  0  0  0   Davis R, cf           3  0  0  0   
+Cedeno R, ss          3  0  1  0   Gomes Y, 3b           3  0  0  0   
+Nickeas M, c          2  0  0  0   Vizquel O, 3b         0  0  0  0   
+Hairston S, ph        0  0  0  0   Mathis J, c           3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     29  0  3  0                        30  2  6  2
+
+New York         000 000 000 --  0
+Toronto          000 020 00x --  2
+
+  New York             IP  H  R ER BB SO
+Batista M             2.0  1  0  0  1  2
+Hefner J (L)          5.0  4  2  2  0  5
+Byrdak T              0.1  0  0  0  0  0
+Rauch J               0.2  1  0  0  1  1
+
+  Toronto              IP  H  R ER BB SO
+Morrow B (W)          9.0  3  0  0  1  8
+
+E -- Torres A
+LOB -- New York 3, Toronto 6
+2B -- Encarnacion E, Johnson K, Duda L, Escobar Y
+T -- 2:12
+A -- 34962
+     Game of 5/20/2012 -- New York at Toronto (D)
+
+  New York           AB  R  H RBI    Toronto            AB  R  H RBI
+Torres A, dh          4  1  0  0   Johnson K, 2b         5  0  1  0   
+Baxter M, lf          4  2  3  1   Escobar Y, ss         3  0  0  0   
+Wright D, 3b          4  1  2  2   Bautista J, dh        5  1  3  2   
+Duda L, rf            4  1  0  0   Encarnacion E, 1b     5  0  0  0   
+Murphy D, 2b          5  0  1  1   Arencibia J, c        5  1  2  0   
+Nieuwenhuis K, cf     3  0  1  1   Thames E, lf          5  1  1  1   
+Davis I, 1b           4  0  1  1   Francisco B, rf       1  1  0  0   
+Hairston S, ph        1  0  0  0   Davis R, rf           2  0  0  0   
+Turner J, 1b          0  0  0  0   Rasmus C, cf          3  0  1  1   
+Cedeno R, ss          5  1  2  0   Gomes Y, 3b           2  1  1  1   
+Johnson R, c          4  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  6 12  6                        36  5  9  5
+
+New York         310 020 000 --  6
+Toronto          011 000 120 --  5
+
+  New York             IP  H  R ER BB SO
+Gee D (W)             6.2  5  3  3  4  6
+Parnell B             1.0  3  2  2  0  1
+Byrdak T              0.1  0  0  0  0  0
+Francisco F (S)       1.0  1  0  0  1  3
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H (L)         5.0  9  6  6  2  3
+Perez L               2.0  0  0  0  1  2
+Villanueva C          1.0  3  0  0  1  2
+Oliver D              0.2  0  0  0  2  1
+Cordero F             0.1  0  0  0  0  1
+
+E -- Nieuwenhuis K, Cedeno R
+DP -- New York 1
+LOB -- New York 11, Toronto 10
+2B -- Baxter M, Wright D, Nieuwenhuis K, Johnson R, Davis I, Arencibia J, Thames E
+3B -- Baxter M
+HR -- Bautista J
+HBP -- by Gee D (Gomes Y)
+PB -- Arencibia J
+T -- 3:15
+A -- 41867
+     Game of 5/28/2012 -- Baltimore at Toronto (N)
+
+  Baltimore          AB  R  H RBI    Toronto            AB  R  H RBI
+Avery X, lf           3  0  0  0   Johnson K, 2b         4  2  3  3   
+Johnson N, ph         1  0  0  0   Rasmus C, cf          4  0  2  1   
+Hardy J, ss           3  0  0  0   Bautista J, rf        4  1  0  0   
+Markakis N, rf        4  0  0  0   Encarnacion E, dh     4  1  1  2   
+Jones A, cf           4  1  1  0   Thames E, lf          4  0  1  0   
+Wieters M, c          4  1  1  0   Lawrie B, 3b          4  0  1  0   
+Betemit W, 3b         4  0  1  1   Cooper D, 1b          4  1  2  0   
+Davis C, 1b           3  0  1  0   Mathis J, c           4  0  1  0   
+Reynolds M, dh        3  0  2  1   Vizquel O, ss         3  1  1  0   
+Andino R, 2b          3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        35  6 12  6
+
+Baltimore        000 000 002 --  2
+Toronto          112 200 00x --  6
+
+  Baltimore            IP  H  R ER BB SO
+Hunter T (L)*         3.0  9  6  5  0  0
+Eveland D             4.0  3  0  0  0  2
+Gregg K               1.0  0  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Hutchison D (W)       7.0  3  0  0  3  9
+Perez L               1.0  0  0  0  1  0
+Cordero F             0.1  4  2  2  0  1
+Janssen C (S)         0.2  0  0  0  0  0
+  * Pitched to 2 batters in 4th
+
+E -- Davis C
+DP -- Baltimore 1, Toronto 1
+LOB -- Baltimore 8, Toronto 6
+2B -- Johnson K 2, Reynolds M
+HR -- Encarnacion E, Johnson K
+CS -- Davis C
+SH -- Vizquel O
+HBP -- by Hutchison D (Davis C)
+T -- 2:48
+A -- 16575
+     Game of 5/29/2012 -- Baltimore at Toronto (N)
+
+  Baltimore          AB  R  H RBI    Toronto            AB  R  H RBI
+Andino R, 2b          5  0  1  0   Johnson K, 2b         5  0  0  0   
+Hardy J, ss           5  1  1  0   Escobar Y, ss         5  0  0  1   
+Markakis N, rf        5  0  1  0   Bautista J, rf        3  1  1  0   
+Jones A, cf           3  3  3  3   Encarnacion E, dh     3  1  0  0   
+Wieters M, c          1  0  0  0   Rasmus C, cf          4  1  1  0   
+Paulino R, c          3  1  2  0   Arencibia J, c        3  1  0  0   
+Reynolds M, 1b        4  0  1  1   Lawrie B, 3b          4  3  3  3   
+Davis C, dh           5  1  3  2   Cooper D, 1b          4  1  2  1   
+Betemit W, lf-3b      5  0  0  0   Davis R, lf           4  0  3  2   
+Tolleson S, 3b        3  0  1  0                                      
+Chavez E, ph-lf       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40  6 13  6                        35  8 10  7
+
+Baltimore        010 003 002 --  6
+Toronto          002 330 00x --  8
+
+  Baltimore            IP  H  R ER BB SO
+Arrieta J (L)         4.1  6  7  6  3  5
+Gonzalez M            3.1  4  1  1  0  5
+Ayala L               0.1  0  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Romero R (W)          6.0  6  4  4  1  7
+Frasor J              1.0  2  0  0  1  2
+Oliver D              0.1  2  0  0  0  1
+Cordero F             0.2  0  0  0  0  1
+Janssen C             1.0  3  2  2  1  0
+
+E -- Arrieta J, Jones A, Betemit W
+LOB -- Baltimore 11, Toronto 6
+2B -- Rasmus C, Lawrie B, Paulino R 2, Bautista J, Markakis N
+HR -- Jones A 2, Davis C
+SB -- Chavez E
+HBP -- by Romero R (Wieters M)
+T -- 3:11
+A -- 17352
+     Game of 5/30/2012 -- Baltimore at Toronto (N)
+
+  Baltimore          AB  R  H RBI    Toronto            AB  R  H RBI
+Chavez E, lf          4  0  0  0   Escobar Y, ss         4  0  0  0   
+Hardy J, ss           4  0  1  0   Rasmus C, cf          4  1  1  1   
+Davis C, dh           3  0  0  0   Bautista J, rf        2  0  0  0   
+Jones A, cf           2  0  0  0   Encarnacion E, 1b     4  1  2  1   
+Wieters M, c          4  0  0  0   Lawrie B, 3b          4  1  1  1   
+Reynolds M, 1b        3  1  0  0   Cooper D, dh          3  0  1  0   
+Betemit W, 3b         3  0  2  0   Arencibia J, c        4  0  1  0   
+Flaherty R, rf        3  0  1  1   Vizquel O, 2b         4  0  2  0   
+Andino R, 2b          3  0  0  0   Davis R, lf           3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     29  1  4  1                        32  4  9  4
+
+Baltimore        010 000 000 --  1
+Toronto          011 110 00x --  4
+
+  Baltimore            IP  H  R ER BB SO
+Hammel J (L)          6.2  9  4  4  2  5
+O'Day D               0.1  0  0  0  0  0
+Strop P               1.0  0  0  0  1  2
+
+  Toronto              IP  H  R ER BB SO
+Morrow B (W)          6.1  4  1  1  2  8
+Villanueva C          0.2  0  0  0  0  0
+Cordero F             1.0  0  0  0  0  1
+Janssen C (S)         1.0  0  0  0  1  1
+
+DP -- Baltimore 1, Toronto 2
+LOB -- Baltimore 5, Toronto 7
+2B -- Cooper D
+HR -- Encarnacion E, Davis R, Lawrie B, Rasmus C
+SB -- Vizquel O
+HBP -- by Morrow B (Jones A)
+T -- 2:28
+A -- 17754
+     Game of 6/1/2012 -- Boston at Toronto (N)
+
+  Boston             AB  R  H RBI    Toronto            AB  R  H RBI
+Podsednik S, cf       5  1  1  1   Johnson K, 2b         4  0  0  0   
+Nava D, lf            5  3  4  1   Escobar Y, ss         4  1  1  1   
+Gonzalez A, 1b        5  1  3  2   Bautista J, rf        4  0  1  0   
+Ortiz D, dh           3  1  2  2   Encarnacion E, dh     4  0  1  0   
+Saltalamacchia J, c   4  0  0  1   Rasmus C, cf          3  0  1  0   
+Middlebrooks W, 3b    4  0  1  0   Lawrie B, 3b          4  0  0  0   
+Sweeney R, rf         4  1  2  0   Arencibia J, c        4  0  0  0   
+Aviles M, ss          4  0  1  0   Cooper D, 1b          4  1  2  1   
+Punto N, 2b           4  0  1  0   Davis R, lf           2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 15  7                        33  2  7  2
+
+Boston           011 001 400 --  7
+Toronto          001 000 100 --  2
+
+  Boston               IP  H  R ER BB SO
+Buchholz C (W)        8.0  6  2  2  2  7
+Atchison S            1.0  1  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H (L)         6.1  8  4  4  1  2
+Perez L               0.2  4  3  3  0  0
+Coello R              2.0  3  0  0  0  3
+
+E -- Saltalamacchia J, Aviles M
+DP -- Boston 2, Toronto 2
+LOB -- Boston 5, Toronto 8
+2B -- Nava D 3, Cooper D, Gonzalez A, Sweeney R
+HR -- Ortiz D, Escobar Y, Cooper D
+SB -- Davis R 2
+HBP -- by Buchholz C (Rasmus C)
+T -- 3:00
+A -- 29678
+     Game of 6/2/2012 -- Boston at Toronto (D)
+
+  Boston             AB  R  H RBI    Toronto            AB  R  H RBI
+Nava D, lf            3  0  0  0   Johnson K, 2b         5  0  2  1   
+Aviles M, ss          5  0  0  0   Escobar Y, ss         4  0  1  0   
+Gonzalez A, rf-1b     5  0  0  0   Bautista J, rf        4  1  1  1   
+Ortiz D, dh           4  1  1  0   Encarnacion E, 1b     3  1  2  0   
+Saltalamacchia J, c   3  1  0  0   Rasmus C, cf          4  0  0  0   
+Youkilis K, 1b-3b     3  1  1  0   Lawrie B, 3b          4  0  1  0   
+Sweeney R, cf-rf      2  1  1  1   Davis R, lf           4  0  0  0   
+Middlebrooks W, 3b    3  1  1  1   Cooper D, dh          4  1  0  0   
+Byrd M, cf            1  0  0  0   Mathis J, c           4  1  2  1   
+Punto N, 2b           4  2  3  2                                      
+                     -- -- -- --                        -- -- -- --
+                     33  7  7  4                        36  4  9  3
+
+Boston           040 100 011 --  7
+Toronto          001 110 010 --  4
+
+  Boston               IP  H  R ER BB SO
+Doubront F (W)        6.1  7  3  2  1  7
+Albers M*             0.2  1  1  0  0  0
+Miller A              0.1  0  0  0  0  0
+Padilla V             0.2  1  0  0  0  0
+Aceves A (S)          1.0  0  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Drabek K (L)          6.2  5  5  2  4  4
+Frasor J              0.1  0  0  0  0  1
+Oliver D              0.1  1  1  1  1  0
+Cordero F             0.2  0  0  0  1  0
+Villanueva C          1.0  1  1  1  1  1
+  * Pitched to 1 batter in 8th
+
+E -- Rasmus C, Bautista J, Doubront F, Drabek K, Sweeney R
+DP -- Toronto 2
+LOB -- Boston 7, Toronto 6
+2B -- Punto N, Youkilis K
+HR -- Mathis J, Bautista J, Punto N
+SB -- Nava D
+CS -- Lawrie B
+HBP -- by Villanueva C (Nava D)
+T -- 3:05
+A -- 43390
+     Game of 6/3/2012 -- Boston at Toronto (D)
+
+  Boston             AB  R  H RBI    Toronto            AB  R  H RBI
+Podsednik S, cf       4  0  1  0   Johnson K, 2b         3  1  0  0   
+Nava D, lf            3  0  0  0   Escobar Y, ss         2  1  1  0   
+Gonzalez A, 1b        4  0  1  0   Bautista J, rf        3  1  1  4   
+Ortiz D, dh           4  0  0  0   Encarnacion E, dh     0  0  0  1   
+Youkilis K, 3b        3  0  0  0   Mathis J, ph          2  0  0  0   
+Sweeney R, rf         4  0  0  0   Cooper D, 1b          4  0  2  0   
+Aviles M, ss          4  0  2  0   Lawrie B, 3b          4  0  2  0   
+Punto N, 2b           4  0  1  0   Rasmus C, cf          3  1  0  0   
+Shoppach K, c         2  1  1  1   Arencibia J, c        3  1  0  0   
+Saltalamacchia J, ph  1  0  0  0   Davis R, lf           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        27  5  6  5
+
+Boston           000 010 000 --  1
+Toronto          320 000 00x --  5
+
+  Boston               IP  H  R ER BB SO
+Bard D (L)            1.2  1  5  5  6  2
+Morales F             4.1  2  0  0  0  4
+Atchison S            1.0  1  0  0  0  1
+Hill R                1.0  2  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Hutchison D (W)       7.0  5  1  1  1  5
+Oliver D              0.2  0  0  0  0  1
+Cordero F             0.1  0  0  0  0  0
+Janssen C             1.0  1  0  0  0  0
+
+E -- Punto N
+DP -- Boston 2
+LOB -- Boston 8, Toronto 6
+2B -- Gonzalez A, Cooper D
+HR -- Bautista J, Shoppach K
+SB -- Johnson K, Podsednik S, Lawrie B, Punto N 2
+CS -- Cooper D
+HBP -- by Bard D (Escobar Y), by Bard D (Encarnacion E), by Hutchison D (Shoppach K), by Hutchison D (Youkilis K)
+T -- 2:52
+A -- 41925
+     Game of 6/11/2012 -- Washington at Toronto (N)
+
+  Washington         AB  R  H RBI    Toronto            AB  R  H RBI
+Lombardozzi S, lf     5  2  2  0   Lawrie B, 3b          4  0  1  0   
+Harper B, rf-cf-rf    4  2  3  1   Rasmus C, cf          4  1  1  1   
+Zimmerman R, 3b       5  0  1  0   Bautista J, rf        2  0  0  0   
+LaRoche A, 1b         5  1  2  2   Encarnacion E, dh     4  1  1  0   
+Morse M, dh           4  0  1  1   Johnson K, 2b         4  0  0  0   
+Desmond I, ss         5  0  2  1   Escobar Y, ss         4  0  0  0   
+Espinosa D, 2b        4  0  1  0   Cooper D, 1b          3  0  0  0   
+Bernadina R, cf       1  0  0  0   Gomes Y, ph           1  1  1  2   
+Nady X, pr-rf         1  0  0  0   Arencibia J, c        3  0  1  0   
+Ankiel R, cf          1  1  1  1   Davis R, lf           3  0  0  0   
+Flores J, c           4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  6 14  6                        32  3  5  3
+
+Washington       202 000 110 --  6
+Toronto          100 000 002 --  3
+
+  Washington           IP  H  R ER BB SO
+Jackson E (W)*        8.0  4  2  2  3  3
+Burnett S             1.0  1  1  1  0  2
+
+  Toronto              IP  H  R ER BB SO
+Morrow B (L)+         0.0  1  1  1  0  0
+Beck C                3.2  3  3  2  2  3
+Perez L#              2.1  6  1  1  0  1
+Frasor J              1.0  2  0  0  0  1
+Cordero F             1.0  2  1  1  0  1
+Villanueva C          1.0  0  0  0  0  0
+  * Pitched to 1 batter in 9th
+  + Pitched to 1 batter in 1st
+  # Pitched to 2 batters in 7th
+
+E -- Cooper D
+DP -- Toronto 1
+LOB -- Washington 9, Toronto 5
+2B -- Lombardozzi S, Flores J, Encarnacion E
+HR -- Rasmus C, LaRoche A, Ankiel R, Gomes Y
+SB -- Harper B
+SF -- Morse M
+WP -- Beck C
+PB -- Arencibia J
+T -- 3:03
+A -- 18513
+     Game of 6/12/2012 -- Washington at Toronto (N)
+
+  Washington         AB  R  H RBI    Toronto            AB  R  H RBI
+Lombardozzi S, lf     4  0  1  0   Lawrie B, 3b          3  1  1  0   
+Harper B, rf          4  1  3  1   Rasmus C, cf          4  0  1  0   
+Zimmerman R, 3b       4  0  0  0   Bautista J, rf        2  1  2  2   
+LaRoche A, 1b         4  1  1  0   Encarnacion E, 1b     4  0  0  0   
+Morse M, dh           4  0  1  0   Johnson K, 2b         4  0  1  0   
+Desmond I, ss         3  0  0  0   Escobar Y, ss         4  0  0  0   
+Espinosa D, 2b        4  1  2  2   Cooper D, dh          2  0  0  0   
+Ankiel R, cf          4  0  0  0   Arencibia J, ph       1  0  0  0   
+Solano J, c           3  1  2  1   Davis R, lf           3  0  0  0   
+                                   Mathis J, c           3  0  0  0   
+                                   Vizquel O, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4 10  4                        31  2  5  2
+
+Washington       001 200 100 --  4
+Toronto          000 020 000 --  2
+
+  Washington           IP  H  R ER BB SO
+Wang C (W)            5.0  4  2  2  5  5
+Detwiler R            1.2  0  0  0  0  1
+Stammen C             0.1  1  0  0  0  0
+Burnett S             1.0  0  0  0  0  0
+Clippard T (S)        1.0  0  0  0  0  2
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H (L)         7.0  9  4  4  0  3
+Oliver D              1.0  1  0  0  0  2
+Frasor J              0.2  0  0  0  1  1
+Crawford E            0.1  0  0  0  0  0
+
+DP -- Toronto 2
+LOB -- Washington 4, Toronto 8
+2B -- Espinosa D, LaRoche A, Bautista J
+HR -- Harper B, Espinosa D, Bautista J, Solano J
+SB -- Bautista J, Desmond I
+CS -- Lawrie B, Harper B
+HBP -- by Wang C (Lawrie B)
+WP -- Wang C
+T -- 2:52
+A -- 22538
+     Game of 6/13/2012 -- Washington at Toronto (D)
+
+  Washington         AB  R  H RBI    Toronto            AB  R  H RBI
+Lombardozzi S, lf     5  0  0  0   Lawrie B, 3b          4  0  1  1   
+Harper B, rf          5  0  1  0   Rasmus C, cf          4  0  1  0   
+Zimmerman R, 3b       4  0  1  0   Bautista J, rf        3  1  1  1   
+Morse M, dh           4  1  1  0   Encarnacion E, 1b     3  0  0  0   
+Desmond I, ss         3  2  1  1   Cooper D, dh          4  0  0  0   
+Espinosa D, 2b        3  1  1  0   Escobar Y, ss         4  0  1  0   
+Moore T, 1b           4  2  3  5   Johnson K, 2b         4  0  1  0   
+Ankiel R, cf          4  0  1  0   Arencibia J, c        4  0  0  0   
+Flores J, c           3  0  0  0   Davis R, lf           3  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6  9  6                        33  2  7  2
+
+Washington       020 201 010 --  6
+Toronto          002 000 000 --  2
+
+  Washington           IP  H  R ER BB SO
+Strasburg S (W)       6.0  5  2  2  1  8
+Stammen C             2.0  2  0  0  1  4
+Lidge B               1.0  0  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Drabek K (L)          4.1  7  4  4  2  1
+Laffey A              3.0  2  2  2  0  2
+Cordero F             0.2  0  0  0  1  0
+Janssen C             1.0  0  0  0  0  1
+
+DP -- Toronto 1
+LOB -- Washington 5, Toronto 6
+2B -- Moore T, Harper B, Rasmus C
+3B -- Davis R
+HR -- Bautista J, Moore T 2, Desmond I
+SB -- Escobar Y
+CS -- Davis R
+WP -- Strasburg S
+T -- 2:52
+A -- 41677
+     Game of 6/15/2012 -- Philadelphia at Toronto (N)
+
+  Philadelphia       AB  R  H RBI    Toronto            AB  R  H RBI
+Rollins J, ss         5  0  1  0   Lawrie B, 3b          4  0  2  1   
+Pierre J, lf          4  0  1  0   Rasmus C, cf          4  0  0  0   
+Pence H, rf           3  0  1  0   Bautista J, rf        3  1  1  0   
+Thome J, dh           3  0  0  0   Encarnacion E, dh     3  1  0  0   
+Victorino S, cf       3  0  0  0   Johnson K, 2b         3  0  2  0   
+Ruiz C, c             2  0  1  0   Escobar Y, ss         3  0  0  1   
+Schneider B, c        1  0  0  0   Cooper D, 1b          3  0  0  0   
+Wigginton T, 1b       3  0  0  0   Arencibia J, c        3  0  0  0   
+Fontenot M, 3b        4  0  1  0   Davis R, lf           2  1  1  0   
+Martinez M, 2b        2  0  0  0                                      
+Polanco P, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  5  0                        28  3  6  2
+
+Philadelphia     000 000 000 --  0
+Toronto          001 200 00x --  3
+
+  Philadelphia         IP  H  R ER BB SO
+Worley V (L)          7.0  5  3  1  2  5
+Schwimer M            1.0  1  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Hutchison D           0.2  0  0  0  1  1
+Laffey A              1.1  1  0  0  1  0
+Villanueva C (W)      4.0  2  0  0  2  5
+Frasor J              1.0  0  0  0  1  1
+Oliver D              1.0  1  0  0  0  1
+Janssen C (S)         1.0  1  0  0  0  0
+
+E -- Fontenot M
+DP -- Philadelphia 2, Toronto 1
+LOB -- Philadelphia 10, Toronto 3
+2B -- Pence H, Davis R, Lawrie B 2, Rollins J
+SB -- Davis R, Pierre J 2, Victorino S
+CS -- Bautista J, Lawrie B
+HBP -- by Oliver D (Victorino S)
+T -- 2:47
+A -- 28266
+     Game of 6/16/2012 -- Philadelphia at Toronto (D)
+
+  Philadelphia       AB  R  H RBI    Toronto            AB  R  H RBI
+Rollins J, ss         4  0  2  1   Lawrie B, 3b          5  0  2  0   
+Polanco P, 3b         5  1  2  0   Rasmus C, cf          5  0  2  1   
+Pence H, rf           5  0  1  1   Bautista J, rf        4  1  0  0   
+Thome J, dh           5  0  0  0   Encarnacion E, 1b     4  1  1  0   
+Victorino S, cf       5  1  1  0   Johnson K, 2b         5  1  2  0   
+Wigginton T, 1b       5  1  1  0   Escobar Y, ss         4  2  3  1   
+Mayberry J, lf        5  1  1  3   Gomes Y, dh           3  0  1  0   
+Schneider B, c        1  1  0  0   Cooper D, ph          1  0  1  0   
+Pierre J, pr          0  0  0  0   McCoy M, pr           1  0  0  0   
+Kratz E, c            0  0  0  0   Arencibia J, c        5  0  1  1   
+Martinez M, 2b        3  0  1  0   Davis R, lf           5  1  2  1   
+Fontenot M, ph-2b     1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  5  9  5                        42  6 15  4
+
+Philadelphia     103 000 010 0 --  5
+Toronto          011 000 030 1 --  6
+  2 outs when winning run was scored.
+
+  Philadelphia         IP  H  R ER BB SO
+Lee C*                7.0 12  5  5  1  3
+Qualls C              1.0  2  0  0  0  0
+Schwimer M            1.0  0  0  0  1  1
+Savery J (L)          0.2  1  1  1  1  1
+
+  Toronto              IP  H  R ER BB SO
+Romero R              6.0  7  4  4  1  3
+Coello R              2.0  2  1  1  2  3
+Janssen C             1.0  0  0  0  0  1
+Cordero F (W)         1.0  0  0  0  1  1
+  * Pitched to 3 batters in 8th
+
+E -- Lawrie B, Rollins J
+DP -- Philadelphia 1
+LOB -- Philadelphia 10, Toronto 10
+2B -- Polanco P, Pence H, Gomes Y, Rollins J, Arencibia J
+HR -- Escobar Y, Mayberry J
+SB -- Davis R, Pierre J
+CS -- Lawrie B, Rollins J
+HBP -- by Romero R (Schneider B) 2
+Balk -- Savery J
+T -- 3:14
+A -- 42070
+     Game of 6/17/2012 -- Philadelphia at Toronto (D)
+
+  Philadelphia       AB  R  H RBI    Toronto            AB  R  H RBI
+Rollins J, ss         4  0  0  0   Lawrie B, 3b          3  2  1  0   
+Polanco P, 3b         3  0  0  0   Rasmus C, cf          4  2  3  3   
+Pence H, rf           4  0  1  0   Bautista J, rf        3  0  0  0   
+Thome J, dh           4  1  1  1   Encarnacion E, dh     3  0  1  0   
+Victorino S, cf       4  0  2  0   Johnson K, 2b         4  0  1  1   
+Ruiz C, c             4  0  0  0   Escobar Y, ss         4  1  1  0   
+Luna H, 1b            4  0  1  0   Gomes Y, 1b           3  0  0  0   
+Mayberry J, lf        4  1  3  1   Davis R, lf           3  0  1  1   
+Martinez M, 2b        3  0  0  0   Mathis J, c           3  1  1  0   
+Fontenot M, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  2  8  2                        30  6  9  5
+
+Philadelphia     011 000 000 --  2
+Toronto          200 120 10x --  6
+
+  Philadelphia         IP  H  R ER BB SO
+Kendrick K (L)        6.1  8  6  5  2  4
+Diekman J             0.2  1  0  0  0  0
+Papelbon J            1.0  0  0  0  1  2
+
+  Toronto              IP  H  R ER BB SO
+Cecil B (W)           5.0  5  2  2  1  5
+Perez L               3.0  1  0  0  0  2
+Frasor J              1.0  2  0  0  0  1
+
+E -- Escobar Y, Pence H
+DP -- Philadelphia 1, Toronto 1
+LOB -- Philadelphia 7, Toronto 4
+2B -- Lawrie B, Rasmus C, Mathis J
+HR -- Thome J, Mayberry J, Rasmus C
+SB -- Victorino S
+CS -- Rasmus C
+HBP -- by Kendrick K (Gomes Y)
+T -- 2:46
+A -- 45060
+     Game of 6/28/2012 -- Anaheim at Toronto (N)
+
+  Anaheim            AB  R  H RBI    Toronto            AB  R  H RBI
+Trout M, lf           5  1  2  2   Lawrie B, 3b          5  0  2  1   
+Hunter T, rf          5  0  0  0   Rasmus C, cf          5  1  1  0   
+Pujols A, 1b          5  3  4  0   Bautista J, rf-1b     4  1  1  3   
+Trumbo M, dh          5  1  2  3   Encarnacion E, dh     4  2  1  0   
+Kendrick H, 2b        4  1  1  1   Johnson K, 2b         4  0  1  0   
+Callaspo A, 3b        4  1  2  1   Escobar Y, ss         4  0  1  1   
+Aybar E, ss           4  1  2  0   Davis R, lf-rf        3  0  1  1   
+Bourjos P, cf         3  1  1  2   Lind A, 1b            3  0  0  0   
+Wilson B, c           2  0  0  0   Arencibia J, ph       1  0  0  0   
+                                   Francisco B, lf       0  0  0  0   
+                                   Mathis J, c           4  3  4  1   
+                     -- -- -- --                        -- -- -- --
+                     37  9 14  9                        37  7 12  7
+
+Anaheim          010 313 001 --  9
+Toronto          011 130 100 --  7
+
+  Anaheim              IP  H  R ER BB SO
+Haren D (W)           6.0  7  6  6  1  3
+Hawkins L             1.0  2  1  1  0  0
+Downs S               0.2  1  0  0  0  1
+Frieri E (S)          1.1  2  0  0  1  2
+
+  Toronto              IP  H  R ER BB SO
+Cecil B (L)           5.1 10  8  8  2  6
+Frasor J              0.2  1  0  0  0  1
+Cordero F             1.0  1  0  0  1  2
+Oliver D              1.0  0  0  0  0  1
+Janssen C             1.0  2  1  1  0  1
+
+E -- Cecil B, Wilson B
+DP -- Anaheim 1
+LOB -- Anaheim 7, Toronto 6
+2B -- Johnson K, Pujols A 2, Bourjos P, Mathis J
+3B -- Trumbo M
+HR -- Callaspo A, Mathis J, Trumbo M, Bautista J, Trout M
+SB -- Rasmus C, Davis R
+SH -- Aybar E, Wilson B
+SF -- Bourjos P, Davis R
+WP -- Janssen C
+T -- 3:16
+A -- 24668
+     Game of 6/29/2012 -- Anaheim at Toronto (N)
+
+  Anaheim            AB  R  H RBI    Toronto            AB  R  H RBI
+Trout M, cf           5  0  1  0   Lawrie B, 3b          5  0  0  0   
+Hunter T, rf          4  1  3  1   Rasmus C, cf          5  0  0  0   
+Pujols A, 1b          4  0  2  1   Bautista J, rf        4  1  1  0   
+Morales K, dh         4  0  1  0   Encarnacion E, dh     3  2  2  1   
+Trumbo M, lf          4  1  1  0   Johnson K, 2b         1  0  0  0   
+Callaspo A, 3b        4  0  1  0   Escobar Y, ss         4  1  3  2   
+Kendrick H, 2b        4  0  1  0   Davis R, lf           4  1  2  0   
+Aybar E, ss           3  1  1  1   Lind A, 1b            3  2  2  4   
+Hester J, c           2  2  1  2   Arencibia J, c        4  0  1  0   
+Izturis M, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5 12  5                        33  7 11  7
+
+Anaheim          001 110 200 --  5
+Toronto          000 500 11x --  7
+
+  Anaheim              IP  H  R ER BB SO
+Santana E*            5.0  7  5  5  3  2
+Carpenter D           1.0  0  0  0  0  1
+Walden J (L)          1.0  2  1  1  1  1
+Takahashi H           1.0  2  1  1  0  2
+
+  Toronto              IP  H  R ER BB SO
+Villanueva C          5.0  7  3  3  1  6
+Richmond S            1.1  3  2  2  0  1
+Cordero F (W)         0.2  1  0  0  0  0
+Oliver D              1.0  1  0  0  0  0
+Janssen C (S)         1.0  0  0  0  0  2
+  * Pitched to 2 batters in 6th
+
+E -- Callaspo A
+DP -- Anaheim 1, Toronto 2
+LOB -- Anaheim 5, Toronto 8
+2B -- Morales K, Bautista J, Davis R, Pujols A, Escobar Y, Arencibia J
+HR -- Lind A 2, Hester J
+SB -- Trout M, Encarnacion E 2, Davis R 2
+CS -- Kendrick H
+SH -- Johnson K
+SF -- Aybar E
+HBP -- by Santana E (Encarnacion E)
+T -- 3:12
+A -- 24538
+     Game of 6/30/2012 -- Anaheim at Toronto (D)
+
+  Anaheim            AB  R  H RBI    Toronto            AB  R  H RBI
+Trout M, lf           4  0  0  0   Lawrie B, 3b          4  3  3  3   
+Izturis M, 2b         4  0  2  1   Vizquel O, 3b         1  0  0  0   
+Pujols A, dh          4  0  0  0   Rasmus C, cf          5  1  1  1   
+Morales K, 1b         4  0  2  0   Bautista J, rf        2  1  1  1   
+Hester J, pr          0  1  0  0   Francisco B, ph-lf    2  0  0  0   
+Trumbo M, rf          4  0  1  0   Encarnacion E, 1b     4  1  1  0   
+Callaspo A, 3b        4  0  0  0   Johnson K, 2b         3  1  2  1   
+Bourjos P, cf         4  0  1  0   Escobar Y, ss         4  1  1  2   
+Romine A, ss          4  0  3  1   Davis R, lf-rf        4  0  0  0   
+Wilson B, c           4  1  1  0   Lind A, dh            3  1  0  0   
+                                   Arencibia J, c        3  2  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  2 10  2                        35 11 10  8
+
+Anaheim          001 000 001 --  2
+Toronto          170 030 00x -- 11
+
+  Anaheim              IP  H  R ER BB SO
+Richards G (L)        4.1  9 10  5  4  3
+Carpenter D           3.2  1  1  1  2  3
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H (W)         7.0  7  1  1  0  3
+Perez L               1.0  0  0  0  0  0
+Pauley D              1.0  3  1  1  0  0
+
+E -- Bourjos P, Trout M
+DP -- Anaheim 1, Toronto 1
+LOB -- Anaheim 7, Toronto 6
+2B -- Lawrie B, Johnson K, Rasmus C, Izturis M
+3B -- Johnson K
+HR -- Escobar Y, Lawrie B
+PB -- Wilson B
+T -- 2:44
+A -- 29287
+     Game of 7/1/2012 -- Anaheim at Toronto (D)
+
+  Anaheim            AB  R  H RBI    Toronto            AB  R  H RBI
+Trout M, cf-lf        4  3  2  1   Lawrie B, 3b          5  1  1  0   
+Hunter T, rf          4  0  0  1   Rasmus C, cf          2  1  1  3   
+Pujols A, 1b          5  2  2  1   Bautista J, dh        5  0  1  1   
+Trumbo M, lf          4  1  1  2   Encarnacion E, 1b-lf  1  0  1  0   
+Bourjos P, cf         1  0  1  1   Escobar Y, ss         4  0  1  0   
+Morales K, dh         5  0  1  1   Francisco B, lf       2  0  0  0   
+Kendrick H, 2b        5  1  3  0   Lind A, ph-1b         2  0  0  0   
+Callaspo A, 3b        5  1  1  2   Davis R, rf           3  1  0  0   
+Aybar E, ss           4  1  2  0   Arencibia J, c        4  1  1  1   
+Hester J, c           4  1  0  0   Vizquel O, 2b         2  2  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41 10 13  9                        30  6  6  5
+
+Anaheim          100 020 034 -- 10
+Toronto          000 002 103 --  6
+
+  Anaheim              IP  H  R ER BB SO
+Wilson C*             5.0  3  2  1  5  3
+Hawkins L             1.0  0  0  0  0  0
+Isringhausen J (W)    1.0  1  1  1  0  0
+Frieri E              1.0  1  0  0  0  2
+Walden J              1.0  1  3  3  2  2
+
+  Toronto              IP  H  R ER BB SO
+Laffey A              6.0  4  3  2  0  4
+Perez L               1.0  1  0  0  1  2
+Cordero F (L)         0.1  4  3  3  0  0
+Chavez J              1.0  2  4  2  1  1
+Richmond S            0.2  2  0  0  0  0
+  * Pitched to 5 batters in 6th
+
+E -- Davis R, Kendrick H, Callaspo A, Hunter T, Chavez J, Richmond S
+DP -- Anaheim 2
+LOB -- Anaheim 7, Toronto 6
+2B -- Trout M, Aybar E, Morales K
+HR -- Callaspo A, Arencibia J, Trout M, Trumbo M, Rasmus C
+CS -- Rasmus C
+SF -- Hunter T
+HBP -- by Wilson C (Rasmus C), by Frieri E (Encarnacion E)
+WP -- Richmond S
+T -- 3:29
+A -- 34853
+     Game of 7/2/2012 -- Kansas City at Toronto (N)
+
+  Kansas City        AB  R  H RBI    Toronto            AB  R  H RBI
+Gordon A, lf          5  0  2  1   Lawrie B, 3b          4  1  1  0   
+Escobar A, ss         4  1  1  0   Rasmus C, cf          4  1  1  1   
+Hosmer E, 1b          4  2  2  0   Bautista J, rf        3  1  2  1   
+Butler B, dh          4  1  0  0   Encarnacion E, dh     3  0  1  0   
+Betancourt Y, 2b      5  2  2  2   Escobar Y, ss         4  0  0  1   
+Moustakas M, 3b       5  1  2  5   Johnson K, 2b         3  0  0  0   
+Francoeur J, rf       4  1  0  0   Davis R, lf           4  0  1  0   
+Perez S, c            4  2  2  2   Lind A, 1b            4  0  0  0   
+Bourgeois J, cf       3  1  3  0   Arencibia J, c        3  0  0  0   
+Dyson J, ph-cf        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39 11 14 10                        32  3  6  3
+
+Kansas City      022 200 500 -- 11
+Toronto          101 010 000 --  3
+
+  Kansas City          IP  H  R ER BB SO
+Teaford E (W)         7.0  5  3  3  2  2
+Herrera K             1.0  1  0  0  0  1
+Collins T             1.0  0  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Romero R (L)*         6.0 11  8  8  3  4
+Pauley D              3.0  3  3  3  0  1
+  * Pitched to 2 batters in 7th
+
+DP -- Kansas City 1, Toronto 1
+LOB -- Kansas City 5, Toronto 5
+2B -- Lawrie B, Betancourt Y, Moustakas M, Bourgeois J, Hosmer E
+HR -- Perez S, Bautista J, Rasmus C, Moustakas M
+CS -- Bourgeois J
+HBP -- by Teaford E (Encarnacion E), by Pauley D (Butler B)
+WP -- Romero R
+T -- 2:36
+A -- 17127
+     Game of 7/3/2012 -- Kansas City at Toronto (N)
+
+  Kansas City        AB  R  H RBI    Toronto            AB  R  H RBI
+Gordon A, lf          3  0  0  1   Lawrie B, 3b          4  1  2  0   
+Escobar A, ss         4  0  0  0   Rasmus C, cf          3  1  1  0   
+Hosmer E, 1b          4  0  0  0   Bautista J, rf        4  0  1  0   
+Butler B, dh          3  0  0  0   Encarnacion E, 1b     3  1  2  1   
+Betancourt Y, 2b      4  0  1  0   Johnson K, 2b         4  0  1  0   
+Moustakas M, 3b       4  0  1  0   Escobar Y, ss         4  1  1  0   
+Francoeur J, rf       3  1  1  0   Davis R, lf           4  1  2  2   
+Perez S, c            3  1  1  0   Lind A, dh            4  1  2  3   
+Bourgeois J, cf       2  1  1  2   Mathis J, c           4  0  1  0   
+Dyson J, cf           1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  6  3                        34  6 13  6
+
+Kansas City      003 000 000 --  3
+Toronto          000 600 00x --  6
+
+  Kansas City          IP  H  R ER BB SO
+Mazzaro V (L)         5.1 13  6  6  0  3
+Holland G             1.2  0  0  0  2  2
+Mijares J             1.0  0  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Cecil B (W)*          6.0  5  3  3  1  3
+Frasor J              1.0  0  0  0  0  0
+Oliver D              1.0  1  0  0  0  2
+Janssen C (S)         1.0  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+DP -- Kansas City 2, Toronto 1
+LOB -- Kansas City 3, Toronto 6
+2B -- Moustakas M, Dyson J
+3B -- Bourgeois J
+HR -- Lind A
+SB -- Dyson J
+CS -- Davis R
+SF -- Gordon A
+WP -- Mazzaro V
+T -- 2:30
+A -- 15516
+     Game of 7/4/2012 -- Kansas City at Toronto (N)
+
+  Kansas City        AB  R  H RBI    Toronto            AB  R  H RBI
+Gordon A, lf          4  0  0  0   Lawrie B, 3b          5  0  2  0   
+Escobar A, ss         4  0  2  0   Rasmus C, cf          4  1  1  0   
+Hosmer E, 1b          4  0  0  0   Bautista J, rf        4  0  2  0   
+Butler B, dh          3  0  0  0   Encarnacion E, 1b     4  1  2  0   
+Betancourt Y, 2b      4  0  0  0   Lind A, dh            3  1  1  0   
+Moustakas M, 3b       4  1  2  0   Escobar Y, ss         3  0  1  2   
+Francoeur J, rf       3  0  2  1   Davis R, lf           3  1  1  1   
+Perez S, c            3  0  1  0   Johnson K, 2b         3  0  1  1   
+Dyson J, cf           2  0  0  0   Arencibia J, c        4  0  1  0   
+Bourgeois J, ph-cf    1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  7  1                        33  4 12  4
+
+Kansas City      000 000 100 --  1
+Toronto          012 000 10x --  4
+
+  Kansas City          IP  H  R ER BB SO
+Mendoza L (L)         6.0  9  3  3  1  9
+Herrera K             1.0  2  1  1  1  0
+Coleman L             1.0  1  0  0  0  3
+
+  Toronto              IP  H  R ER BB SO
+Villanueva C (W)      6.0  4  0  0  0  7
+Frasor J              1.0  2  1  1  1  1
+Oliver D              1.0  1  0  0  0  0
+Janssen C (S)         1.0  0  0  0  0  0
+
+E -- Rasmus C
+DP -- Toronto 2
+LOB -- Kansas City 5, Toronto 10
+2B -- Moustakas M, Lind A
+3B -- Davis R, Francoeur J
+SB -- Moustakas M
+SF -- Johnson K, Escobar Y, Davis R
+T -- 2:45
+A -- 17831
+     Game of 7/5/2012 -- Kansas City at Toronto (N)
+
+  Kansas City        AB  R  H RBI    Toronto            AB  R  H RBI
+Gordon A, lf          5  1  2  1   Lawrie B, 3b          5  0  0  0   
+Escobar A, ss         5  1  2  1   Rasmus C, cf          4  0  2  0   
+Hosmer E, 1b          5  1  2  3   Bautista J, rf        5  0  0  0   
+Butler B, dh          4  0  1  1   Encarnacion E, 1b     3  1  0  0   
+Betancourt Y, 2b      4  1  1  1   Lind A, dh            4  1  1  0   
+Moustakas M, 3b       4  0  1  1   Escobar Y, ss         3  1  2  1   
+Francoeur J, rf       5  1  1  0   Davis R, lf           4  0  0  0   
+Perez S, c            5  2  4  0   Johnson K, 2b         3  1  1  0   
+Dyson J, cf           5  2  2  0   Francisco B, ph       1  0  1  2   
+                                   Vizquel O, 2b         0  0  0  0   
+                                   Arencibia J, c        4  2  2  3   
+                     -- -- -- --                        -- -- -- --
+                     42  9 16  8                        36  6  9  6
+
+Kansas City      005 000 031 --  9
+Toronto          002 000 130 --  6
+
+  Kansas City          IP  H  R ER BB SO
+Hochevar L (W)        5.0  4  2  2  1  3
+Collins T             1.1  1  1  1  1  2
+Holland G             0.2  0  0  0  0  1
+Crow A                0.2  2  3  3  1  0
+Mijares J*            0.0  1  0  0  0  0
+Herrera K             0.1  0  0  0  0  0
+Broxton J (S)         1.0  1  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H (L)         5.1  8  5  5  2  4
+Perez L               1.1  0  0  0  0  0
+Dyson S               0.1  0  0  0  1  1
+Cordero F             0.2  5  3  3  0  1
+Carpenter D           1.1  3  1  1  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Lawrie B, Escobar A, Hosmer E
+DP -- Kansas City 2
+LOB -- Kansas City 10, Toronto 6
+2B -- Rasmus C, Dyson J 2, Johnson K, Escobar A, Escobar Y
+3B -- Francisco B
+HR -- Arencibia J 2, Betancourt Y
+SB -- Butler B
+SF -- Moustakas M
+T -- 3:16
+A -- 20598
+     Game of 7/13/2012 -- Cleveland at Toronto (N)
+
+  Cleveland          AB  R  H RBI    Toronto            AB  R  H RBI
+Choo S, rf            4  0  0  0   Lawrie B, 3b          4  0  0  0   
+Cabrera A, ss         4  0  0  0   Rasmus C, cf          4  0  0  0   
+Kipnis J, 2b          2  0  0  0   Bautista J, rf        4  0  0  0   
+Hafner T, dh          4  1  1  1   Encarnacion E, 1b     3  0  0  0   
+Santana C, 1b         2  0  1  0   Lind A, dh            3  0  2  0   
+Kotchman C, 1b        0  0  0  0   Francisco B, pr       0  0  0  0   
+Brantley M, cf        4  0  3  0   Escobar Y, ss         3  0  1  0   
+Marson L, c           4  0  1  0   Johnson K, 2b         3  0  1  0   
+Damon J, lf           3  0  2  0   Davis R, lf           3  0  0  0   
+Cunningham A, lf      1  0  0  0   Arencibia J, c        3  0  1  0   
+Hannahan J, 3b        4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  8  1                        30  0  5  0
+
+Cleveland        010 000 000 --  1
+Toronto          000 000 000 --  0
+
+  Cleveland            IP  H  R ER BB SO
+Masterson J (W)       7.0  5  0  0  1  5
+Pestano V             1.0  0  0  0  0  2
+Perez C (S)           1.0  0  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Romero R (L)          6.0  6  1  1  2  6
+Frasor J              1.0  1  0  0  0  1
+Oliver D              1.0  0  0  0  2  0
+Janssen C             1.0  1  0  0  0  2
+
+DP -- Cleveland 2, Toronto 1
+LOB -- Cleveland 8, Toronto 4
+2B -- Brantley M
+HR -- Hafner T
+SB -- Damon J
+CS -- Kipnis J, Santana C
+WP -- Masterson J
+T -- 2:40
+A -- 32308
+     Game of 7/14/2012 -- Cleveland at Toronto (D)
+
+  Cleveland          AB  R  H RBI    Toronto            AB  R  H RBI
+Choo S, rf            4  0  1  0   Lawrie B, 3b          4  1  2  1   
+Cabrera A, ss         4  1  0  0   Rasmus C, cf          4  1  0  0   
+Kipnis J, 2b          4  0  1  0   Bautista J, rf        3  3  1  0   
+Lopez J, 3b           4  1  1  0   Encarnacion E, 1b     4  2  2  3   
+Hafner T, ph          1  0  1  1   Lind A, dh            5  1  4  4   
+Hannahan J, pr-3b     0  0  0  0   Escobar Y, ss         5  1  1  2   
+Santana C, dh         3  2  0  0   Johnson K, 2b         4  1  1  0   
+Brantley M, cf        4  2  3  2   Davis R, lf           4  0  0  0   
+Duncan S, lf          4  2  3  3   Arencibia J, c        4  1  2  1   
+Kotchman C, 1b        5  1  1  2                                      
+Marson L, c           4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  9 12  8                        37 11 13 11
+
+Cleveland        020 200 050 --  9
+Toronto          208 010 00x -- 11
+
+  Cleveland            IP  H  R ER BB SO
+Jimenez U (L)         2.1  7  8  8  4  2
+Barnes S              1.2  3  2  2  2  2
+Accardo J             2.0  2  1  1  0  0
+Rogers E              2.0  1  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Laffey A (W)          5.0  8  4  4  3  4
+Loup A                2.0  0  0  0  0  0
+Chavez J*             0.0  3  4  4  1  0
+Carpenter D           0.2  0  1  1  2  1
+Janssen C (S)         1.1  1  0  0  0  0
+  * Pitched to 4 batters in 8th
+
+DP -- Toronto 1
+LOB -- Cleveland 8, Toronto 8
+2B -- Lind A, Choo S, Bautista J, Johnson K, Arencibia J 2, Lawrie B
+HR -- Encarnacion E 2, Escobar Y, Duncan S, Brantley M, Kotchman C
+SB -- Johnson K 2, Lawrie B
+HBP -- by Laffey A (Duncan S)
+T -- 3:15
+A -- 32517
+     Game of 7/15/2012 -- Cleveland at Toronto (D)
+
+  Cleveland          AB  R  H RBI    Toronto            AB  R  H RBI
+Choo S, rf            4  0  1  0   Lawrie B, 3b          4  0  0  0   
+Cabrera A, ss         4  0  1  0   Rasmus C, cf          4  1  1  1   
+Kipnis J, 2b          3  0  0  0   Bautista J, rf        4  0  2  0   
+Hafner T, dh          4  0  0  0   Encarnacion E, 1b     2  0  0  0   
+Santana C, c          3  0  1  0   Lind A, dh            2  0  0  1   
+Brantley M, cf        3  0  2  0   Escobar Y, ss         3  0  0  0   
+Kotchman C, 1b        3  0  0  0   Johnson K, 2b         2  1  0  0   
+Damon J, lf           3  0  0  0   Francisco B, lf       3  0  1  0   
+Duncan S, ph          1  0  0  0   Davis R, pr-lf        0  0  0  0   
+Hannahan J, 3b        2  0  0  0   Arencibia J, c        3  1  1  1   
+Lopez J, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  5  0                        27  3  5  3
+
+Cleveland        000 000 000 --  0
+Toronto          003 000 00x --  3
+
+  Cleveland            IP  H  R ER BB SO
+Lowe D (L)            6.0  3  3  3  4  5
+Smith J               2.0  2  0  0  0  2
+
+  Toronto              IP  H  R ER BB SO
+Villanueva C (W)      6.0  3  0  0  5  8
+Frasor J              1.0  1  0  0  0  1
+Oliver D (S)          2.0  1  0  0  0  0
+
+E -- Santana C
+DP -- Cleveland 1, Toronto 1
+LOB -- Cleveland 9, Toronto 4
+2B -- Brantley M 2, Francisco B, Bautista J
+SB -- Johnson K, Bautista J
+CS -- Davis R
+WP -- Villanueva C
+T -- 2:42
+A -- 26407
+     Game of 7/24/2012 -- Oakland at Toronto (N)
+
+  Oakland            AB  R  H RBI    Toronto            AB  R  H RBI
+Crisp C, cf           5  1  1  1   Lawrie B, 3b          4  0  3  0   
+Gomes J, dh           4  1  1  0   Rasmus C, cf          3  0  0  0   
+Reddick J, rf         3  1  1  0   Encarnacion E, 1b     3  0  0  0   
+Cespedes Y, lf        4  0  1  3   Lind A, dh            4  0  0  0   
+Carter C, 1b          3  0  0  0   Arencibia J, c        4  1  2  1   
+Inge B, 3b            4  1  1  0   Johnson K, 2b         4  0  1  0   
+Norris D, c           4  1  1  2   Escobar Y, ss         4  0  1  0   
+Hicks B, ss           3  1  1  0   Snider T, lf          4  1  1  1   
+Weeks J, 2b           4  1  2  1   Davis R, rf           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  7  9  7                        33  2  8  2
+
+Oakland          020 000 500 --  7
+Toronto          001 000 001 --  2
+
+  Oakland              IP  H  R ER BB SO
+Blackley T (W)        7.0  5  1  1  1  8
+Scribner E            1.0  1  0  0  0  2
+Miller J              1.0  2  1  1  0  1
+
+  Toronto              IP  H  R ER BB SO
+Cecil B (L)           6.0  5  2  2  2  8
+Beck C                0.2  2  2  2  0  1
+Happ J                2.1  2  3  3  2  2
+
+DP -- Oakland 2, Toronto 2
+LOB -- Oakland 4, Toronto 6
+2B -- Arencibia J, Hicks B, Crisp C, Lawrie B
+3B -- Weeks J
+HR -- Norris D, Snider T, Arencibia J
+SB -- Gomes J, Crisp C
+HBP -- by Blackley T (Rasmus C)
+WP -- Blackley T 2
+T -- 3:00
+A -- 25686
+     Game of 7/25/2012 -- Oakland at Toronto (N)
+
+  Oakland            AB  R  H RBI    Toronto            AB  R  H RBI
+Crisp C, cf           6  3  3  2   Lawrie B, 3b          4  0  1  0   
+Gomes J, lf           3  2  2  1   Rasmus C, cf          3  0  0  0   
+Moss B, ph-rf         1  0  1  1   Davis R, ph-cf        0  0  0  0   
+Reddick J, rf         4  1  1  1   Encarnacion E, 1b     2  0  1  0   
+Smith S, ph-rf-lf     2  1  0  0   Gomes Y, ph-c         1  0  0  0   
+Cespedes Y, dh        4  2  2  2   Lind A, dh-1b         4  0  0  0   
+Carter C, 1b          3  2  1  3   Arencibia J, c        0  0  0  0   
+Inge B, 3b            5  1  1  2   Mathis J, ph-c-p      3  0  1  0   
+Sogard E, 3b          0  0  0  0   Johnson K, 2b         4  0  0  0   
+Norris D, c           4  2  2  1   Snider T, lf          4  0  0  0   
+Hicks B, ss           5  1  1  2   Vizquel O, ss         4  0  1  0   
+Weeks J, 2b           4  1  0  0   Gose A, rf            3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     41 16 14 15                        32  0  5  0
+
+Oakland          181 011 022 -- 16
+Toronto          000 000 000 --  0
+
+  Oakland              IP  H  R ER BB SO
+Griffin A (W)         6.0  3  0  0  2  9
+Blevins J             1.0  0  0  0  0  2
+Miller J              2.0  2  0  0  1  2
+
+  Toronto              IP  H  R ER BB SO
+Romero R (L)          1.1  4  8  8  6  1
+Beck C                0.2  2  1  1  0  0
+Carpenter D           4.0  3  3  3  1  5
+Loup A                2.0  2  2  1  0  1
+Mathis J              1.0  3  2  2  0  0
+
+E -- Snider T, Johnson K
+LOB -- Oakland 5, Toronto 8
+2B -- Cespedes Y 2, Reddick J, Inge B, Encarnacion E, Gose A, Norris D, Hicks B
+HR -- Crisp C 2, Carter C
+SB -- Cespedes Y
+WP -- Romero R
+T -- 3:12
+A -- 23948
+     Game of 7/26/2012 -- Oakland at Toronto (D)
+
+  Oakland            AB  R  H RBI    Toronto            AB  R  H RBI
+Crisp C, cf           3  0  1  0   Davis R, rf           4  1  1  0   
+Gomes J, rf           3  0  0  0   Rasmus C, cf          4  1  1  0   
+Reddick J, dh         4  1  1  2   Lawrie B, 3b          3  3  2  0   
+Cespedes Y, lf        4  1  1  0   Encarnacion E, dh     4  2  2  3   
+Carter C, 1b          4  0  0  0   Snider T, lf          4  1  2  2   
+Inge B, 3b            4  1  1  2   Gomes Y, 1b           3  0  0  1   
+Suzuki K, c           3  0  1  0   Johnson K, 2b         4  2  2  2   
+Smith S, ph           1  0  0  0   Mathis J, c           4  0  2  1   
+Hicks B, ss           3  0  0  0   Vizquel O, ss         4  0  0  0   
+Moss B, ph            1  0  0  0                                      
+Weeks J, 2b           2  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  5  4                        34 10 12  9
+
+Oakland          100 210 000 --  4
+Toronto          000 302 14x -- 10
+
+  Oakland              IP  H  R ER BB SO
+Milone T (L)          7.0  8  6  5  0  7
+Doolittle S           0.2  3  4  4  1  0
+Scribner E            0.1  1  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Laffey A              5.2  5  4  4  3  4
+Lyon B (W)            1.1  0  0  0  0  3
+Oliver D              1.0  0  0  0  0  1
+Janssen C             1.0  0  0  0  0  1
+
+E -- Milone T
+LOB -- Oakland 4, Toronto 2
+2B -- Crisp C, Snider T, Johnson K, Mathis J
+HR -- Reddick J, Inge B, Encarnacion E, Johnson K
+SF -- Gomes Y
+WP -- Milone T
+T -- 2:38
+A -- 39003
+     Game of 7/27/2012 -- Detroit at Toronto (N)
+
+  Detroit            AB  R  H RBI    Toronto            AB  R  H RBI
+Jackson A, cf         5  0  0  0   Lawrie B, 3b          4  1  1  0   
+Berry Q, lf           4  0  2  0   Vizquel O, ss         4  1  2  1   
+Cabrera M, 3b         4  2  2  1   Rasmus C, cf          4  0  1  0   
+Fielder P, 1b         3  1  2  2   Encarnacion E, dh     4  1  1  1   
+Young D, dh           3  0  1  0   Johnson K, 2b         3  1  1  0   
+Boesch B, rf          4  0  0  0   Gomes Y, 1b           3  1  0  0   
+Peralta J, ss         4  0  0  0   Snider T, lf          3  2  1  2   
+Avila A, c            3  0  0  0   Mathis J, c           4  1  1  3   
+Infante O, 2b         4  0  1  0   Gose A, rf            4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        33  8  9  8
+
+Detroit          200 000 010 --  3
+Toronto          100 400 12x --  8
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (L)        6.0  6  5  5  2  1
+Dotel O               1.0  2  1  1  0  0
+Below D               1.0  1  2  1  0  1
+
+  Toronto              IP  H  R ER BB SO
+Villanueva C (W)      5.0  4  2  2  2  3
+Loup A                1.1  1  0  0  0  1
+Lyon B                0.2  1  0  0  0  2
+Oliver D              1.0  2  1  1  0  2
+Janssen C             1.0  0  0  0  0  1
+
+E -- Infante O
+DP -- Toronto 1
+LOB -- Detroit 7, Toronto 4
+2B -- Vizquel O, Mathis J, Cabrera M
+3B -- Lawrie B, Vizquel O
+HR -- Cabrera M, Fielder P, Snider T
+SB -- Gose A
+SH -- Gomes Y
+HBP -- by Villanueva C (Fielder P)
+T -- 2:52
+A -- 33962
+     Game of 7/28/2012 -- Detroit at Toronto (D)
+
+  Detroit            AB  R  H RBI    Toronto            AB  R  H RBI
+Jackson A, cf         3  0  1  0   Davis R, rf           5  1  1  0   
+Berry Q, lf           3  0  0  0   Rasmus C, dh          3  1  2  3   
+Raburn R, ph-lf       1  0  0  0   Lawrie B, 3b          4  0  2  0   
+Cabrera M, 3b         3  0  1  0   Encarnacion E, 1b     2  1  1  1   
+Fielder P, 1b         3  0  0  0   Snider T, lf          4  0  0  0   
+Young D, dh           4  1  1  0   Escobar Y, ss         4  1  1  1   
+Boesch B, rf          4  0  2  1   Johnson K, 2b         3  0  0  0   
+Peralta J, ss         3  0  0  0   Gomes Y, c            3  0  2  0   
+Avila A, c            3  0  0  0   Gose A, cf            4  1  1  0   
+Infante O, 2b         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        32  5 10  5
+
+Detroit          000 100 000 --  1
+Toronto          001 101 20x --  5
+
+  Detroit              IP  H  R ER BB SO
+Sanchez A (L)*        6.0  8  5  5  3  3
+Villarreal B          1.0  1  0  0  1  0
+Coke P                1.0  1  0  0  0  2
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H (W)         7.0  5  1  1  2  4
+Happ J                2.0  0  0  0  1  1
+  * Pitched to 2 batters in 7th
+
+DP -- Toronto 2
+LOB -- Detroit 5, Toronto 8
+2B -- Lawrie B, Boesch B, Davis R, Gomes Y
+HR -- Encarnacion E, Escobar Y, Rasmus C
+SB -- Davis R 2, Lawrie B
+CS -- Encarnacion E
+SF -- Rasmus C
+WP -- Sanchez A, Villarreal B
+T -- 2:34
+A -- 41832
+     Game of 7/29/2012 -- Detroit at Toronto (D)
+
+  Detroit            AB  R  H RBI    Toronto            AB  R  H RBI
+Jackson A, cf         2  0  1  0   Davis R, dh           4  1  2  0   
+Infante O, 2b         4  0  1  0   Rasmus C, cf          4  0  1  1   
+Cabrera M, 3b         3  0  0  0   Lawrie B, 3b          3  0  0  0   
+Fielder P, 1b         4  0  0  0   Encarnacion E, 1b     4  0  1  0   
+Young D, dh           3  1  0  0   Snider T, lf          4  0  0  0   
+Raburn R, lf          4  1  1  0   Escobar Y, ss         3  0  1  0   
+Peralta J, ss         4  2  2  4   Johnson K, 2b         4  0  1  0   
+Boesch B, rf          3  0  0  0   Mathis J, c           4  0  0  0   
+Kelly D, rf           1  0  0  0   Gose A, rf            4  0  1  0   
+Laird G, c            3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  4  5  4                        34  1  7  1
+
+Detroit          030 000 001 --  4
+Toronto          100 000 000 --  1
+
+  Detroit              IP  H  R ER BB SO
+Fister D (W)          8.0  7  1  1  2  9
+Valverde J (S)        1.0  0  0  0  0  2
+
+  Toronto              IP  H  R ER BB SO
+Cecil B (L)           6.2  4  3  3  4  7
+Carreno J             2.0  1  1  1  0  1
+Crawford E            0.1  0  0  0  0  0
+
+E -- Laird G
+LOB -- Detroit 4, Toronto 8
+2B -- Raburn R
+HR -- Peralta J 2
+SB -- Davis R, Gose A
+CS -- Jackson A
+T -- 2:33
+A -- 35975
+     Game of 8/10/2012 -- New York at Toronto (N)
+
+  New York           AB  R  H RBI    Toronto            AB  R  H RBI
+Jeter D, ss           5  1  2  0   Davis R, lf           3  0  0  0   
+Swisher N, rf-1b      5  2  2  1   Rasmus C, cf          4  0  1  0   
+Teixeira M, dh        5  1  1  1   Sierra M, rf          0  0  0  0   
+Cano R, 2b            4  2  2  1   Encarnacion E, 1b     4  0  0  0   
+Jones A, lf           3  1  0  0   Escobar Y, ss         4  1  1  0   
+Ibanez R, ph-lf       1  1  1  1   Cooper D, dh          4  1  2  0   
+Nix J, 3b             4  1  1  0   Johnson K, 2b         4  1  2  2   
+Martin R, c           3  1  1  0   Vizquel O, 3b         2  0  0  0   
+Suzuki I, cf-rf       5  0  2  5   Gomes Y, ph-3b        2  0  1  0   
+McGehee C, 1b         3  0  0  0   Mathis J, c           4  0  1  1   
+Granderson C, cf      1  0  0  0   Gose A, rf-cf         4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39 10 12  9                        35  4  9  3
+
+New York         021 000 034 -- 10
+Toronto          010 100 011 --  4
+
+  New York             IP  H  R ER BB SO
+Garcia F (W)          6.0  5  2  2  0  4
+Logan B               0.2  0  0  0  0  1
+Chamberlain J*        0.1  1  1  1  0  0
+Robertson D           1.0  0  0  0  1  0
+Rapada C              0.2  2  1  1  0  1
+Eppley C              0.1  1  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Romero R (L)          7.0  4  3  3  3  2
+Delabar S             1.0  4  3  3  0  0
+Carpenter D           0.2  3  4  4  1  1
+Lincoln B             0.1  1  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Mathis J, Gose A
+DP -- New York 1
+LOB -- New York 8, Toronto 5
+2B -- Johnson K, Swisher N, Suzuki I
+HR -- Johnson K, Teixeira M
+SB -- Gose A 2
+SH -- Nix J
+HBP -- by Carpenter D (Martin R)
+Balk -- Rapada C
+T -- 3:08
+A -- 41610
+     Game of 8/11/2012 -- New York at Toronto (D)
+
+  New York           AB  R  H RBI    Toronto            AB  R  H RBI
+Jeter D, dh           5  0  2  1   Davis R, lf           4  2  2  0   
+Swisher N, rf         4  0  0  0   Gose A, cf            4  0  0  0   
+Teixeira M, 1b        3  1  1  0   Encarnacion E, dh     3  0  2  2   
+Cano R, 2b            4  0  0  0   Escobar Y, ss         1  0  0  0   
+Jones A, lf           3  1  0  0   Vizquel O, ph-3b      1  0  0  0   
+Suzuki I, lf          0  0  0  0   Cooper D, 1b          4  0  0  0   
+Granderson C, cf      3  0  0  0   Sierra M, rf          4  0  0  0   
+Nix J, ss             4  1  1  1   Johnson K, 2b         4  0  1  0   
+McGehee C, 3b         4  2  2  3   Gomes Y, c            3  0  0  0   
+Stewart C, c          4  0  1  0   Hechavarria A, 3b-ss  3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5  7  5                        31  2  5  2
+
+New York         000 401 000 --  5
+Toronto          000 100 010 --  2
+
+  New York             IP  H  R ER BB SO
+Nova I (W)            7.1  5  2  2  1 10
+Robertson D           0.2  0  0  0  0  0
+Soriano R (S)         1.0  0  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Laffey A (L)          5.2  7  5  5  4  2
+Loup A                1.1  0  0  0  0  1
+Jenkins C             1.0  0  0  0  0  0
+Lyon B                1.0  0  0  0  1  2
+
+DP -- New York 1
+LOB -- New York 8, Toronto 5
+2B -- Stewart C, McGehee C, Jeter D, Davis R
+HR -- McGehee C
+SB -- Davis R
+HBP -- by Laffey A (Granderson C), by Nova I (Escobar Y) 2
+Balk -- Nova I
+T -- 2:47
+A -- 45582
+     Game of 8/12/2012 -- New York at Toronto (D)
+
+  New York           AB  R  H RBI    Toronto            AB  R  H RBI
+Jeter D, ss           5  2  3  2   Davis R, lf           5  1  2  5   
+Swisher N, rf         5  1  2  1   McCoy M, 2b-ss        5  1  1  1   
+Teixeira M, 1b        4  0  1  0   Encarnacion E, dh     4  2  3  2   
+Cano R, dh            3  1  1  2   Cooper D, 1b          5  0  2  1   
+Jones A, lf           4  1  1  0   Sierra M, rf          5  1  3  0   
+Granderson C, cf      4  1  1  0   Mathis J, c           4  2  1  1   
+McGehee C, 3b         4  0  1  1   Gomes Y, 3b           3  1  1  0   
+Martin R, c           4  0  0  0   Gose A, cf            3  1  0  0   
+Nix J, 2b             3  1  1  1   Hechavarria A, ss     3  1  1  0   
+Suzuki I, ph          1  0  0  0   Johnson K, ph-2b      1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 11  7                        38 10 14 10
+
+New York         000 013 300 --  7
+Toronto          100 630 00x -- 10
+
+  New York             IP  H  R ER BB SO
+Hughes P (L)          4.0  9  7  7  1  4
+Igarashi R            2.0  3  3  3  1  1
+Eppley C              1.2  1  0  0  1  3
+Rapada C*             0.0  1  0  0  0  0
+Chamberlain J         0.1  0  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Happ J (W)            5.2  6  4  4  0  4
+Lincoln B             1.0  4  3  3  0  0
+Oliver D              1.1  1  0  0  0  2
+Janssen C (S)         1.0  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+DP -- Toronto 1
+LOB -- New York 4, Toronto 7
+2B -- Encarnacion E, Mathis J, Davis R 2, Jones A, McGehee C, Nix J, Jeter D, Teixeira M
+HR -- Encarnacion E, Jeter D, Cano R
+SB -- Davis R
+HBP -- by Oliver D (Cano R)
+WP -- Happ J
+PB -- Martin R
+T -- 2:49
+A -- 43924
+     Game of 8/13/2012 -- Chicago at Toronto (N)
+
+  Chicago            AB  R  H RBI    Toronto            AB  R  H RBI
+de Aza A, cf          5  0  0  0   Davis R, lf           5  0  0  0   
+Youkilis K, 3b        4  0  0  0   Johnson K, 2b         3  1  0  0   
+Dunn A, 1b            5  2  3  2   Encarnacion E, dh     5  0  2  1   
+Rios A, rf            5  0  0  0   Cooper D, 1b          5  0  2  1   
+Pierzynski A, dh      4  0  1  0   Escobar Y, ss         4  0  0  0   
+Ramirez A, ss         4  0  1  0   Sierra M, rf          3  1  2  1   
+Viciedo D, lf         4  0  1  0   Vizquel O, 3b         4  0  1  0   
+Flowers T, c          4  0  1  0   Mathis J, c           3  0  0  0   
+Beckham G, 2b         4  0  0  0   Gose A, cf            2  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  2  7  2                        34  3  7  3
+
+Chicago          000 100 001 00 --  2
+Toronto          001 000 100 01 --  3
+  1 out when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Peavy J               8.0  5  2  2  2  6
+Myers B               1.0  0  0  0  0  2
+Crain J               1.1  0  0  0  1  0
+Septimo L (L)*        0.0  0  1  1  1  0
+Jones N               0.0  2  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Villanueva C          7.0  5  1  1  1  8
+Lyon B                1.0  0  0  0  0  2
+Janssen C             1.0  2  1  1  0  0
+Delabar S (W)         2.0  0  0  0  0  6
+  * Pitched to 1 batter in 11th
+
+DP -- Chicago 1, Toronto 1
+LOB -- Chicago 5, Toronto 6
+HR -- Dunn A 2, Sierra M
+SB -- Gose A, Rios A
+CS -- Viciedo D, Ramirez A, Gose A
+HBP -- by Peavy J (Gose A), by Peavy J (Johnson K)
+WP -- Delabar S
+PB -- Mathis J
+T -- 3:05
+A -- 16828
+     Game of 8/14/2012 -- Chicago at Toronto (N)
+
+  Chicago            AB  R  H RBI    Toronto            AB  R  H RBI
+de Aza A, cf          4  1  1  1   Davis R, lf           4  1  3  0   
+Wise D, lf            4  0  1  1   McCoy M, cf-2b        4  1  0  1   
+Rios A, rf            4  0  0  0   Encarnacion E, dh     4  0  1  0   
+Dunn A, 1b            4  0  1  0   Cooper D, 1b          4  0  1  0   
+Youkilis K, 3b        4  0  1  0   Gose A, pr-cf         0  0  0  0   
+Pierzynski A, c       4  1  1  0   Escobar Y, ss         4  0  1  1   
+Ramirez A, ss         3  0  0  0   Sierra M, rf          4  0  1  0   
+Viciedo D, dh         3  1  2  0   Johnson K, 2b         3  0  0  0   
+Beckham G, 2b         3  0  0  0   Gomes Y, ph-1b        1  0  0  0   
+                                   Mathis J, c           4  0  1  0   
+                                   Hechavarria A, 3b     2  0  1  0   
+                                   Rasmus C, ph          1  0  1  0   
+                                   Vizquel O, pr         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  2                        35  2 10  2
+
+Chicago          000 030 000 --  3
+Toronto          101 000 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Quintana J (W)        6.2  8  2  2  2  4
+Myers B               0.1  0  0  0  0  0
+Thornton M            0.2  1  0  0  0  0
+Reed A (S)            1.1  1  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H (L)         7.0  7  3  2  0  2
+Loup A                1.1  0  0  0  0  1
+Jenkins C             0.2  0  0  0  0  0
+
+E -- Alvarez H 2
+DP -- Chicago 1, Toronto 1
+LOB -- Chicago 3, Toronto 9
+2B -- Davis R, Hechavarria A, Cooper D
+SB -- Davis R 2, Gose A
+SH -- Hechavarria A
+T -- 2:31
+A -- 18919
+     Game of 8/15/2012 -- Chicago at Toronto (N)
+
+  Chicago            AB  R  H RBI    Toronto            AB  R  H RBI
+de Aza A, cf          3  1  0  0   Davis R, rf           4  0  0  0   
+Youkilis K, 3b        4  1  1  0   Rasmus C, dh          5  0  0  0   
+Dunn A, 1b            5  1  1  3   Encarnacion E, lf     4  1  1  0   
+Rios A, rf            5  0  1  0   Cooper D, 1b          4  1  2  0   
+Pierzynski A, c       5  2  2  0   Escobar Y, ss         4  0  1  0   
+Ramirez A, ss         4  1  1  0   Johnson K, 2b         4  1  1  3   
+Viciedo D, dh         3  2  2  2   Vizquel O, 3b         4  1  2  0   
+Wise D, lf            4  1  2  4   Mathis J, c           4  1  1  1   
+Hudson O, 2b          3  0  1  0   Gose A, cf            4  0  1  0   
+Beckham G, ph-2b      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  9 11  9                        37  5  9  4
+
+Chicago          020 200 500 --  9
+Toronto          000 013 001 --  5
+
+  Chicago              IP  H  R ER BB SO
+Floyd G (W)           6.0  8  4  3  0  8
+Veal D                2.0  0  0  0  1  3
+Humber P              1.0  1  1  1  0  2
+
+  Toronto              IP  H  R ER BB SO
+Romero R (L)*         6.0  8  6  6  2  5
+Lincoln B             2.0  3  3  3  0  3
+Jenkins C             1.0  0  0  0  0  0
+  * Pitched to 2 batters in 7th
+
+E -- Pierzynski A, Veal D
+LOB -- Chicago 5, Toronto 6
+2B -- Rios A, Cooper D, Pierzynski A
+HR -- Wise D, Johnson K, Dunn A, Viciedo D, Mathis J
+SB -- Gose A, Vizquel O
+CS -- de Aza A
+HBP -- by Romero R (de Aza A), by Romero R (Youkilis K)
+T -- 2:39
+A -- 20119
+     Game of 8/16/2012 -- Chicago at Toronto (N)
+
+  Chicago            AB  R  H RBI    Toronto            AB  R  H RBI
+Wise D, cf            5  1  1  1   Davis R, lf           4  0  1  0   
+Youkilis K, 3b        4  1  2  0   McCoy M, cf           4  0  0  0   
+Dunn A, 1b            2  1  0  0   Rasmus C, dh          4  0  0  0   
+Rios A, rf            4  1  1  3   Escobar Y, ss         3  0  0  0   
+Pierzynski A, dh      4  0  0  0   Cooper D, 1b          3  1  1  0   
+Ramirez A, ss         4  1  1  1   Gose A, pr            0  0  0  0   
+Viciedo D, lf         3  1  1  1   Gomes Y, 1b           1  0  0  0   
+Flowers T, c          4  1  1  1   Sierra M, rf          3  1  1  2   
+Olmedo R, 2b          4  0  0  0   Johnson K, 2b         3  0  0  0   
+                                   Mathis J, c           3  0  2  0   
+                                   Hechavarria A, 3b     2  0  0  0   
+                                   Vizquel O, ph-3b      1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  7  7  7                        31  2  5  2
+
+Chicago          001 020 040 --  7
+Toronto          020 000 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Liriano F (W)         6.1  3  2  2  1  6
+Crain J               0.2  0  0  0  0  1
+Myers B               1.0  2  0  0  0  0
+Humber P              1.0  0  0  0  0  2
+
+  Toronto              IP  H  R ER BB SO
+Laffey A (L)          6.0  4  3  3  1  5
+Delabar S             1.0  0  0  0  1  0
+Oliver D              0.2  2  3  3  1  0
+Lyon B                0.1  1  1  1  0  1
+Janssen C             1.0  0  0  0  0  1
+
+DP -- Chicago 1
+LOB -- Chicago 3, Toronto 3
+2B -- Davis R
+HR -- Sierra M, Wise D, Viciedo D, Flowers T, Rios A, Ramirez A
+SB -- Gose A
+WP -- Oliver D
+T -- 2:34
+A -- 19855
+     Game of 8/17/2012 -- Texas at Toronto (N)
+
+  Texas              AB  R  H RBI    Toronto            AB  R  H RBI
+Kinsler I, 2b         3  0  0  0   Davis R, lf           4  0  1  1   
+Andrus E, ss          4  0  0  0   Johnson K, 2b         3  1  1  0   
+Hamilton J, lf-cf     4  0  0  0   McCoy M, pr-2b        0  0  0  0   
+Beltre A, dh          3  1  1  0   Encarnacion E, dh     3  1  1  2   
+Young M, 1b           4  1  1  0   Cooper D, 1b          4  0  0  0   
+Murphy D, rf-lf       4  0  2  0   Escobar Y, ss         3  0  0  0   
+Soto G, c             3  0  0  0   Sierra M, rf          3  0  0  0   
+Gentry C, cf          2  0  0  1   Vizquel O, 3b         3  0  0  0   
+Cruz N, ph-rf         1  0  0  0   Mathis J, c           3  0  0  0   
+Olt M, 3b             3  0  0  0   Gose A, cf            2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  1                        28  3  4  3
+
+Texas            000 010 100 --  2
+Toronto          200 010 00x --  3
+
+  Texas                IP  H  R ER BB SO
+Darvish Y (L)         7.0  3  3  3  1 10
+Ogando A              1.0  1  0  0  1  1
+
+  Toronto              IP  H  R ER BB SO
+Happ J (W)            6.0  2  1  1  1  8
+Delabar S             0.2  1  1  0  2  1
+Lyon B                0.2  0  0  0  0  1
+Loup A                0.1  0  0  0  0  1
+Lincoln B             0.1  1  0  0  0  0
+Janssen C (S)         1.0  0  0  0  0  1
+
+E -- Vizquel O
+LOB -- Texas 6, Toronto 4
+2B -- Johnson K
+3B -- Gose A
+HR -- Encarnacion E
+SB -- Gose A, Davis R 2
+SH -- Soto G
+HBP -- by Darvish Y (Gose A)
+T -- 2:42
+A -- 26816
+     Game of 8/18/2012 -- Texas at Toronto (D)
+
+  Texas              AB  R  H RBI    Toronto            AB  R  H RBI
+Kinsler I, 2b         4  0  0  0   Davis R, lf           5  0  1  0   
+Young M, ss           3  0  0  0   Rasmus C, cf          5  0  0  0   
+Andrus E, ss          0  0  0  0   Encarnacion E, dh     2  0  0  0   
+Hamilton J, lf        4  0  0  0   Cooper D, 1b          4  0  1  0   
+Beltre A, 3b          4  1  2  0   Escobar Y, ss         4  0  1  0   
+Cruz N, dh            3  1  1  2   McCoy M, 3b           0  0  0  0   
+Murphy D, rf          3  0  0  0   Johnson K, 2b         3  0  0  0   
+Moreland M, 1b        3  0  2  0   Mathis J, c           4  0  1  0   
+Gentry C, cf          3  0  0  0   Gose A, rf            3  1  1  0   
+Martinez L, c         2  0  0  0   Hechavarria A, 3b-ss  3  0  2  1   
+Martin L, ph          1  0  0  0                                      
+Soto G, c             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        33  1  7  1
+
+Texas            000 020 000 --  2
+Toronto          001 000 000 --  1
+
+  Texas                IP  H  R ER BB SO
+Oswalt R              4.2  2  1  1  2  5
+Ross R                1.1  3  0  0  0  3
+Scheppers T           0.1  2  0  0  1  0
+Kirkman M (W)         0.2  0  0  0  0  0
+Adams M               1.0  0  0  0  0  0
+Nathan J (S)          1.0  0  0  0  0  2
+
+  Toronto              IP  H  R ER BB SO
+Villanueva C (L)      6.1  4  2  2  1  4
+Loup A*               0.2  1  0  0  0  0
+Jenkins C             1.1  0  0  0  0  1
+Oliver D              0.2  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Jenkins C
+LOB -- Texas 2, Toronto 10
+2B -- Beltre A, Hechavarria A
+HR -- Cruz N
+SB -- Gose A, Davis R
+CS -- Gentry C, Murphy D
+SH -- Hechavarria A
+HBP -- by Oswalt R (Encarnacion E)
+Balk -- Oswalt R 2
+PB -- Mathis J
+T -- 2:47
+A -- 30033
+     Game of 8/19/2012 -- Texas at Toronto (D)
+
+  Texas              AB  R  H RBI    Toronto            AB  R  H RBI
+Kinsler I, 2b         5  0  1  0   Davis R, lf           3  0  0  0   
+Andrus E, ss          6  1  4  0   Gose A, ph            1  0  0  0   
+Hamilton J, cf        4  2  1  1   Rasmus C, cf          4  0  0  0   
+Gentry C, ph-cf       2  0  0  0   Encarnacion E, 1b     4  0  0  0   
+Beltre A, dh          4  1  0  0   Escobar Y, ss         3  1  1  0   
+Cruz N, rf            3  2  2  1   Sierra M, rf          2  0  0  0   
+Martin L, ph-lf       0  0  0  0   Mathis J, dh          2  0  0  0   
+Young M, 3b           5  2  3  5   McCoy M, 3b           3  1  1  2   
+Olt M, 3b             0  0  0  0   Gomes Y, c            3  0  0  0   
+Murphy D, lf-rf       4  2  3  2   Hechavarria A, 2b     3  0  0  0   
+Soto G, c             5  1  3  1                                      
+Moreland M, 1b        5  0  2  1                                      
+                     -- -- -- --                        -- -- -- --
+                     43 11 19 11                        28  2  2  2
+
+Texas            002 152 001 -- 11
+Toronto          010 010 000 --  2
+
+  Texas                IP  H  R ER BB SO
+Harrison M (W)        8.0  2  2  2  1  7
+Lowe M                1.0  0  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H (L)         4.1 12  8  8  3  3
+Lincoln B             1.2  4  2  2  0  1
+Delabar S             1.0  1  0  0  0  2
+Lyon B                1.0  0  0  0  1  0
+Jenkins C             1.0  2  1  1  1  0
+
+DP -- Toronto 2
+LOB -- Texas 10, Toronto 1
+2B -- Murphy D 2, Kinsler I, Hamilton J, Cruz N, Young M, Moreland M
+HR -- Young M, McCoy M, Murphy D
+SH -- Mathis J
+T -- 2:34
+A -- 35701
+     Game of 8/30/2012 -- Tampa Bay at Toronto (N)
+
+  Tampa Bay          AB  R  H RBI    Toronto            AB  R  H RBI
+Jennings D, lf        4  0  0  0   Davis R, lf           4  0  1  0   
+Upton B, cf           4  0  0  0   Rasmus C, cf          4  0  0  0   
+Zobrist B, ss         3  0  1  0   Encarnacion E, 1b     3  1  0  0   
+Longoria E, 3b        4  0  1  0   Lind A, dh            4  1  1  0   
+Joyce M, dh           2  0  1  0   Escobar Y, ss         3  0  2  0   
+Roberts R, ph         1  0  0  0   Johnson K, 2b         4  0  3  2   
+Keppinger J, 2b       2  0  1  0   Sierra M, rf          3  0  1  0   
+Scott L, 1b           3  0  0  0   Mathis J, c           3  0  0  0   
+Lobaton J, c          3  0  1  0   Hechavarria A, 3b     3  0  0  0   
+Fuld S, rf            3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  0  5  0                        31  2  8  2
+
+Tampa Bay        000 000 000 --  0
+Toronto          200 000 00x --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Moore M (L)           6.0  6  2  2  3  7
+Davis W               1.0  0  0  0  0  2
+Howell J              0.2  2  0  0  0  0
+Badenhop B            0.1  0  0  0  1  1
+
+  Toronto              IP  H  R ER BB SO
+Villanueva C (W)      6.0  5  0  0  1  7
+Oliver D              1.0  0  0  0  0  2
+Lincoln B             1.0  0  0  0  0  1
+Janssen C (S)         1.0  0  0  0  0  1
+
+DP -- Toronto 1
+LOB -- Tampa Bay 4, Toronto 9
+2B -- Johnson K
+CS -- Zobrist B
+SH -- Keppinger J
+T -- 2:34
+A -- 22711
+     Game of 8/31/2012 -- Tampa Bay at Toronto (N)
+
+  Tampa Bay          AB  R  H RBI    Toronto            AB  R  H RBI
+Jennings D, lf        4  1  2  1   Davis R, lf           3  0  0  0   
+Upton B, cf           4  0  2  0   Rasmus C, cf          3  0  0  0   
+Zobrist B, ss         4  0  0  0   Encarnacion E, dh     3  1  2  1   
+Longoria E, 3b        4  0  0  0   Lind A, 1b            3  0  1  0   
+Joyce M, rf           3  0  0  0   Escobar Y, ss         3  0  0  0   
+Keppinger J, 1b       4  0  3  0   Johnson K, 2b         2  0  0  0   
+Johnson E, pr         0  0  0  0   Sierra M, rf          3  1  1  1   
+Scott L, dh           4  0  0  0   Mathis J, c           3  0  0  0   
+Roberts R, 2b         4  0  2  0   McCoy M, 3b           3  0  0  0   
+Molina J, c           3  0  0  0                                      
+Pena C, ph            1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  1 10  1                        26  2  4  2
+
+Tampa Bay        001 000 000 --  1
+Toronto          001 100 00x --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Hellickson J (L)*     6.0  4  2  2  1  2
+McGee J               1.0  0  0  0  0  1
+Farnsworth K          1.0  0  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Morrow B (W)          6.2  8  1  1  1  5
+Delabar S             1.1  0  0  0  0  3
+Janssen C (S)         1.0  2  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+DP -- Tampa Bay 2
+LOB -- Tampa Bay 8, Toronto 1
+2B -- Roberts R, Keppinger J, Jennings D
+HR -- Jennings D, Sierra M, Encarnacion E
+T -- 2:28
+A -- 20158
+     Game of 9/1/2012 -- Tampa Bay at Toronto (D)
+
+  Tampa Bay          AB  R  H RBI    Toronto            AB  R  H RBI
+Jennings D, lf        5  0  1  0   Davis R, lf           4  1  1  0   
+Upton B, cf           4  1  2  0   Rasmus C, cf          3  1  1  0   
+Zobrist B, ss         3  1  1  1   Encarnacion E, 1b     3  1  1  2   
+Longoria E, dh        2  0  0  0   Lind A, dh            4  0  1  2   
+Joyce M, rf           4  1  2  3   McCoy M, pr           0  0  0  0   
+Keppinger J, 3b       4  0  1  0   Torrealba Y, c        3  0  1  0   
+Pena C, 1b            4  0  0  0   Johnson K, 2b         3  0  0  0   
+Roberts R, 2b         4  1  1  1   Sierra M, rf          4  0  0  0   
+Lobaton J, c          2  1  0  0   Vizquel O, 3b         3  0  1  0   
+Francisco B, ph       1  0  0  0   Hechavarria A, ss     3  1  1  0   
+Molina J, c           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  5  8  5                        30  4  7  4
+
+Tampa Bay        004 000 010 --  5
+Toronto          000 200 020 --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Niemann J             3.1  1  0  0  0  4
+Howell J              0.1  2  2  2  2  0
+Davis W (W)           2.1  0  0  0  2  0
+McGee J               1.0  0  0  0  0  2
+Peralta J             0.1  3  2  2  1  1
+Rodney F (S)          1.2  1  0  0  2  2
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H (L)         5.0  5  4  4  4  2
+Loup A                1.2  1  0  0  0  3
+Lincoln B             1.1  2  1  1  0  2
+Lyon B                1.0  0  0  0  0  0
+
+DP -- Tampa Bay 1, Toronto 2
+LOB -- Tampa Bay 5, Toronto 7
+2B -- Zobrist B, Joyce M, Upton B, Hechavarria A
+HR -- Roberts R, Encarnacion E, Joyce M
+SB -- Davis R, Upton B
+CS -- Rasmus C
+SH -- Hechavarria A
+T -- 3:14
+A -- 20478
+     Game of 9/2/2012 -- Tampa Bay at Toronto (D)
+
+  Tampa Bay          AB  R  H RBI    Toronto            AB  R  H RBI
+Jennings D, lf        4  2  3  1   Davis R, lf           4  1  0  0   
+Fuld S, cf            2  0  1  0   Rasmus C, cf          4  1  2  0   
+Upton B, cf           3  1  1  0   Encarnacion E, dh     4  1  1  3   
+Johnson E, 3b         2  0  0  0   Lind A, 1b            4  0  1  1   
+Zobrist B, ss         4  0  2  2   Escobar Y, ss         3  0  1  0   
+Thompson R, lf        2  0  1  0   Torrealba Y, c        4  0  1  0   
+Longoria E, 3b        4  1  2  1   Sierra M, rf          4  0  0  0   
+Brignac R, ss         1  0  0  0   McCoy M, 2b           3  0  1  0   
+Keppinger J, dh       3  0  1  1   Hechavarria A, 3b     4  1  1  0   
+Scott L, ph           2  0  0  0                                      
+Francisco B, rf       4  1  2  2                                      
+Pena C, 1b            3  2  2  1                                      
+Roberts R, 2b         5  1  1  0                                      
+Molina J, c           3  1  1  1                                      
+Gimenez C, c          1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     43  9 18  9                        34  4  8  4
+
+Tampa Bay        161 100 000 --  9
+Toronto          000 000 202 --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Price D (W)           6.2  6  2  2  4  5
+Badenhop B            1.1  0  0  0  0  1
+Ramos C               1.0  2  2  2  0  0
+
+  Toronto              IP  H  R ER BB SO
+Romero R (L)*         1.0  8  7  7  1  0
+Jenkins C             5.0  7  2  2  1  3
+Laffey A              3.0  3  0  0  2  3
+  * Pitched to 7 batters in 2nd
+
+DP -- Toronto 1
+LOB -- Tampa Bay 12, Toronto 9
+2B -- Longoria E 2, Roberts R, Francisco B, McCoy M
+HR -- Francisco B, Pena C, Encarnacion E
+SB -- Jennings D
+SH -- Upton B
+SF -- Encarnacion E
+HBP -- by Price D (Rasmus C)
+WP -- Laffey A
+T -- 2:58
+A -- 18568
+     Game of 9/3/2012 -- Baltimore at Toronto (D)
+
+  Baltimore          AB  R  H RBI    Toronto            AB  R  H RBI
+Markakis N, rf        3  1  1  1   Davis R, lf           3  0  0  0   
+Hardy J, ss           5  0  2  2   Rasmus C, cf          4  0  0  0   
+Jones A, cf           5  0  2  0   Encarnacion E, 1b     3  0  0  0   
+Wieters M, c          3  0  1  0   Lind A, dh            4  0  1  0   
+Reynolds M, 1b        4  0  0  0   Escobar Y, ss         4  0  0  0   
+Machado M, 3b         5  1  1  0   Johnson K, 2b         3  0  1  0   
+McLouth N, lf         3  1  2  1   Sierra M, rf          3  0  0  0   
+Ford L, dh            3  0  0  0   Mathis J, c           3  0  0  0   
+Andino R, 2b          3  1  1  0   Hechavarria A, 3b     3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4 10  4                        30  0  3  0
+
+Baltimore        010 020 010 --  4
+Toronto          000 000 000 --  0
+
+  Baltimore            IP  H  R ER BB SO
+Saunders J (W)        6.1  3  0  0  2  2
+Ayala L               0.2  0  0  0  0  1
+Strop P               1.0  0  0  0  0  2
+Johnson J             1.0  0  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Happ J (L)*           5.0  7  3  3  2  9
+Lincoln B             1.0  0  0  0  2  0
+Delabar S             1.0  0  0  0  1  0
+Cecil B               2.0  3  1  1  2  0
+  * Pitched to 1 batter in 6th
+
+E -- Encarnacion E
+DP -- Toronto 1
+LOB -- Baltimore 14, Toronto 5
+2B -- Markakis N, Hardy J, McLouth N
+3B -- Machado M
+SB -- Jones A
+SH -- McLouth N, Andino R
+HBP -- by Happ J (Markakis N), by Cecil B (McLouth N)
+T -- 2:51
+A -- 17220
+     Game of 9/4/2012 -- Baltimore at Toronto (N)
+
+  Baltimore          AB  R  H RBI    Toronto            AB  R  H RBI
+Markakis N, rf        5  2  3  1   Davis R, lf           3  0  1  0   
+Ford L, pr-rf         0  0  0  0   Gose A, ph-lf         1  0  0  0   
+Hardy J, ss           5  0  2  1   Rasmus C, cf          4  0  0  0   
+Tolleson S, ss        0  0  0  0   Encarnacion E, dh     3  0  0  0   
+McLouth N, lf-cf      4  0  1  2   Lind A, 1b            3  0  0  0   
+Jones A, cf           5  2  2  0   Torrealba Y, ph       1  0  0  0   
+Avery X, lf           0  0  0  0   Escobar Y, ss         4  0  1  0   
+Wieters M, c          4  1  1  0   Johnson K, 2b         3  0  0  0   
+Teagarden T, ph-c     1  0  0  0   Sierra M, rf          3  0  1  0   
+Davis C, dh           4  3  3  1   Mathis J, c           3  0  0  0   
+Reynolds M, 1b        4  2  3  4   Hechavarria A, 3b     3  0  1  0   
+Betemit W, ph-1b      1  0  0  0                                      
+Machado M, 3b         5  2  3  1                                      
+Andino R, 2b          4  0  0  1                                      
+Flaherty R, 2b        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42 12 18 11                        31  0  4  0
+
+Baltimore        000 031 350 -- 12
+Toronto          000 000 000 --  0
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z (W)         7.0  4  0  0  2  8
+Gregg K               1.0  0  0  0  0  1
+Phillips Z            1.0  0  0  0  0  1
+
+  Toronto              IP  H  R ER BB SO
+Villanueva C (L)      6.2  7  6  6  1  6
+Loup A*               0.1  5  4  4  0  0
+Beck C                1.0  4  2  2  0  0
+Lyon B                1.0  2  0  0  0  0
+  * Pitched to 3 batters in 8th
+
+E -- Beck C
+DP -- Toronto 2
+LOB -- Baltimore 6, Toronto 6
+2B -- Sierra M, Jones A, Hardy J, Machado M, Markakis N 2, Davis C
+HR -- Reynolds M
+SF -- McLouth N, Andino R
+Balk -- Loup A
+T -- 2:48
+A -- 13556
+     Game of 9/5/2012 -- Baltimore at Toronto (N)
+
+  Baltimore          AB  R  H RBI    Toronto            AB  R  H RBI
+Markakis N, rf        4  0  0  0   Davis R, lf           4  1  2  3   
+Hardy J, ss           3  0  0  0   Rasmus C, cf          4  0  0  0   
+McLouth N, lf         3  0  0  0   Encarnacion E, 1b     3  0  0  0   
+Ford L, ph-lf         1  0  0  0   Lind A, dh            4  1  1  0   
+Jones A, cf           3  1  2  1   Escobar Y, ss         4  1  1  0   
+Wieters M, c          3  2  0  0   Johnson K, 2b         4  1  2  1   
+Davis C, dh           3  0  0  0   Torrealba Y, c        4  0  0  0   
+Reynolds M, 1b        4  1  1  2   Hechavarria A, 3b     3  1  1  1   
+Quintanilla O, 2b     3  0  0  0   Gose A, rf            3  1  2  0   
+Machado M, 3b         3  0  2  1                                      
+                     -- -- -- --                        -- -- -- --
+                     30  4  5  4                        33  6  9  5
+
+Baltimore        020 000 002 --  4
+Toronto          011 000 40x --  6
+
+  Baltimore            IP  H  R ER BB SO
+Gonzalez M (L)        6.1  7  5  5  0  4
+Ayala L*              0.0  2  1  0  0  0
+Matusz B              0.2  0  0  0  1  2
+Hunter T              1.0  0  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Morrow B              6.0  3  2  2  3  6
+Delabar S (W)+        1.0  1  0  0  0  2
+Oliver D              1.0  0  0  0  1  0
+Janssen C             1.0  1  2  2  1  2
+  * Pitched to 2 batters in 7th
+  + Pitched to 1 batter in 8th
+
+E -- Jones A
+DP -- Toronto 2
+LOB -- Baltimore 4, Toronto 4
+2B -- Johnson K, Machado M, Escobar Y
+3B -- Gose A
+HR -- Jones A, Davis R, Reynolds M
+T -- 2:46
+A -- 14458
+     Game of 9/11/2012 -- Seattle at Toronto (N)
+
+  Seattle            AB  R  H RBI    Toronto            AB  R  H RBI
+Ackley D, 2b          5  1  2  0   Lawrie B, 3b          4  0  1  0   
+Gutierrez F, cf       5  1  2  0   Rasmus C, cf          3  2  2  1   
+Seager K, 3b          5  2  3  2   Encarnacion E, dh     4  0  0  0   
+Jaso J, dh            4  0  1  1   Lind A, 1b            3  0  1  0   
+Montero J, c          3  0  1  0   Sierra M, ph          1  0  0  1   
+Saunders M, lf        4  0  2  1   Gomes Y, 1b           0  0  0  0   
+Thames E, rf          4  0  0  0   Escobar Y, ss         4  0  2  1   
+Wells C, rf           0  0  0  0   Johnson K, 2b         4  0  0  0   
+Carp M, 1b            4  0  2  0   Arencibia J, c        4  0  0  0   
+Ryan B, ss            3  0  1  0   Davis R, lf           4  0  1  0   
+                                   Gose A, rf            3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4 14  4                        34  3  8  3
+
+Seattle          201 010 000 --  4
+Toronto          101 000 010 --  3
+
+  Seattle              IP  H  R ER BB SO
+Ramirez E (W)         7.0  6  2  2  1  6
+Furbush C*            0.0  1  1  1  0  0
+Kinney J              0.1  0  0  0  0  0
+Luetge L              0.1  0  0  0  0  0
+Pryor S               0.1  0  0  0  0  1
+Wilhelmsen T (S)      1.0  1  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Morrow B (L)          4.2 11  4  4  1  4
+Cecil B               2.0  2  0  0  0  1
+Lincoln B             1.1  0  0  0  0  1
+Frasor J              1.0  1  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Gutierrez F
+DP -- Toronto 1
+LOB -- Seattle 8, Toronto 6
+2B -- Ackley D, Seager K, Escobar Y, Saunders M, Rasmus C, Gutierrez F
+HR -- Seager K
+SB -- Davis R
+SH -- Ryan B
+SF -- Rasmus C
+WP -- Morrow B
+T -- 2:48
+A -- 12935
+     Game of 9/12/2012 -- Seattle at Toronto (N)
+
+  Seattle            AB  R  H RBI    Toronto            AB  R  H RBI
+Ackley D, 2b          4  1  1  0   Lawrie B, 3b          3  0  0  0   
+Gutierrez F, cf       4  0  1  2   Rasmus C, cf          3  1  0  0   
+Seager K, 3b          5  0  3  0   Encarnacion E, 1b     3  1  1  2   
+Montero J, dh         4  0  0  0   Escobar Y, ss         4  0  0  0   
+Saunders M, rf        3  0  1  0   Lind A, dh            2  0  1  0   
+Olivo M, c            5  1  1  1   Davis R, ph           1  0  0  0   
+Carp M, 1b            3  0  1  0   Arencibia J, c        3  0  0  0   
+Smoak J, 1b           0  0  0  0   Sierra M, rf          3  0  0  0   
+Robinson T, lf        4  0  1  0   Gose A, lf            3  0  0  0   
+Wells C, lf           0  0  0  0   Hechavarria A, 2b     3  0  0  0   
+Ryan B, ss            3  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  3                        28  2  2  2
+
+Seattle          010 200 000 --  3
+Toronto          000 200 000 --  2
+
+  Seattle              IP  H  R ER BB SO
+Millwood K (W)        5.0  2  2  2  1  3
+Kelley S              1.1  0  0  0  1  1
+Perez O               0.1  0  0  0  0  0
+Kinney J              1.1  0  0  0  0  3
+Wilhelmsen T (S)      1.0  0  0  0  1  2
+
+  Toronto              IP  H  R ER BB SO
+Romero R (L)*         4.0  8  3  3  4  3
+Delabar S             2.0  0  0  0  1  4
+Lyon B                1.0  0  0  0  1  0
+Oliver D              1.0  0  0  0  1  2
+Janssen C             1.0  1  0  0  0  1
+  * Pitched to 2 batters in 5th
+
+DP -- Seattle 1, Toronto 1
+LOB -- Seattle 12, Toronto 2
+2B -- Ackley D, Seager K
+HR -- Olivo M, Encarnacion E
+SB -- Saunders M
+T -- 2:55
+A -- 13519
+     Game of 9/13/2012 -- Seattle at Toronto (N)
+
+  Seattle            AB  R  H RBI    Toronto            AB  R  H RBI
+Ackley D, 2b          3  1  1  1   Lawrie B, 3b          5  1  1  2   
+Kawasaki M, 2b        1  0  0  0   Rasmus C, cf          3  2  2  0   
+Gutierrez F, cf       4  0  0  0   Sierra M, rf          1  0  0  0   
+Wells C, cf           0  0  0  0   Encarnacion E, dh     3  1  1  3   
+Seager K, 3b          3  0  1  0   Lind A, 1b            4  1  2  2   
+Liddi A, 3b           1  0  1  0   Escobar Y, ss         4  0  0  0   
+Jaso J, c             3  1  1  0   Hechavarria A, ss     0  0  0  0   
+Saunders M, lf        3  0  0  0   Johnson K, 2b         3  1  1  0   
+Robinson T, lf        1  0  0  0   Vizquel O, 2b         1  0  0  0   
+Smoak J, 1b           3  1  1  0   Davis R, lf           4  0  1  0   
+Jimenez L, dh         4  0  0  0   Mathis J, c           4  1  4  1   
+Peguero C, rf         4  0  1  2   Gose A, rf-cf         3  1  1  0   
+Ryan B, ss            2  0  0  0                                      
+Triunfel C, ss        2  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  7  3                        35  8 13  8
+
+Seattle          020 000 100 --  3
+Toronto          200 510 00x --  8
+
+  Seattle              IP  H  R ER BB SO
+Hernandez F (L)       4.0 10  7  7  1  4
+Capps C               2.0  2  1  1  0  3
+Noesi H               2.0  1  0  0  1  1
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H (W)         7.0  5  3  3  3  2
+Lincoln B             1.0  1  0  0  0  1
+Loup A                1.0  1  0  0  0  0
+
+DP -- Seattle 1
+LOB -- Seattle 7, Toronto 6
+2B -- Peguero C, Mathis J, Gose A, Lind A, Liddi A, Triunfel C
+HR -- Lind A, Encarnacion E, Ackley D
+SB -- Davis R, Johnson K 2
+HBP -- by Hernandez F (Encarnacion E)
+WP -- Hernandez F
+T -- 2:39
+A -- 13756
+     Game of 9/14/2012 -- Boston at Toronto (N)
+
+  Boston             AB  R  H RBI    Toronto            AB  R  H RBI
+Ciriaco P, 3b         4  0  1  0   Davis R, lf           5  0  1  0   
+Ellsbury J, cf        5  1  2  0   Rasmus C, cf          4  2  1  0   
+Aviles M, 2b          5  1  1  0   Lawrie B, 3b          3  0  2  1   
+Ross C, rf            4  2  1  0   Lind A, 1b            4  1  2  1   
+Gomez M, dh           4  3  2  2   Escobar Y, ss         4  0  1  1   
+Lavarnway R, c        3  1  1  4   Johnson K, 2b         3  0  0  0   
+Nava D, lf            5  0  2  2   Arencibia J, c        4  0  0  0   
+Loney J, 1b           4  0  0  0   Sierra M, dh          3  1  0  0   
+Iglesias J, ss        2  0  0  0   Gose A, rf            3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  8 10  8                        33  5  7  3
+
+Boston           000 320 003 --  8
+Toronto          003 001 010 --  5
+
+  Boston               IP  H  R ER BB SO
+Matsuzaka D           5.1  3  4  4  3  5
+Mortensen C           0.2  1  0  0  0  1
+Tazawa J              1.0  0  0  0  0  2
+Padilla V             0.1  2  1  1  0  0
+Carpenter C (W)       0.2  0  0  0  1  0
+Bailey A (S)          1.0  1  0  0  0  2
+
+  Toronto              IP  H  R ER BB SO
+Laffey A              3.2  4  3  3  3  1
+Jenkins C             1.1  2  2  2  1  0
+Frasor J              2.0  0  0  0  0  2
+Oliver D (L)*         1.0  2  1  1  0  1
+Janssen C             1.0  2  2  2  0  0
+  * Pitched to 1 batter in 9th
+
+E -- Lind A
+LOB -- Boston 8, Toronto 6
+2B -- Lind A, Lawrie B
+3B -- Lind A, Gomez M
+HR -- Lavarnway R
+SB -- Ellsbury J, Ciriaco P, Escobar Y, Iglesias J
+SH -- Ciriaco P
+SF -- Lavarnway R
+HBP -- by Matsuzaka D (Sierra M), by Frasor J (Iglesias J)
+WP -- Matsuzaka D 2, Carpenter C
+T -- 3:42
+A -- 21888
+     Game of 9/15/2012 -- Boston at Toronto (D)
+
+  Boston             AB  R  H RBI    Toronto            AB  R  H RBI
+Ellsbury J, cf        3  0  0  0   Davis R, lf           5  0  0  0   
+Nava D, lf            4  0  0  0   Lawrie B, 3b          2  0  0  0   
+Pedroia D, 2b         3  0  0  0   Encarnacion E, dh     1  1  0  0   
+Ross C, rf            3  2  1  1   Lind A, 1b            3  0  1  1   
+Loney J, 1b           4  0  2  0   Escobar Y, ss         4  0  1  1   
+Saltalamacchia J, c   4  1  2  1   Johnson K, 2b         3  0  0  0   
+Lavarnway R, dh       4  0  0  0   Torrealba Y, c        4  0  0  0   
+Aviles M, ss          4  0  0  0   Sierra M, rf          3  0  1  0   
+Ciriaco P, 3b         3  0  1  1   Rasmus C, ph          1  0  0  0   
+                                   Gose A, cf            4  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        30  2  5  2
+
+Boston           010 100 001 --  3
+Toronto          100 010 000 --  2
+
+  Boston               IP  H  R ER BB SO
+Buchholz C            7.0  4  2  1  5  5
+Breslow C (W)         1.0  0  0  0  0  1
+Bailey A (S)          1.0  1  0  0  0  2
+
+  Toronto              IP  H  R ER BB SO
+Villanueva C*         7.0  4  2  2  2  6
+Loup A                0.1  0  0  0  1  0
+Delabar S (L)         1.1  2  1  1  1  2
+Cecil B               0.1  0  0  0  1  1
+  * Pitched to 1 batter in 8th
+
+E -- Ciriaco P, Ellsbury J
+LOB -- Boston 8, Toronto 8
+2B -- Lind A, Saltalamacchia J, Ciriaco P
+HR -- Ross C
+SB -- Gose A, Ciriaco P
+SH -- Lawrie B, Nava D
+SF -- Lind A
+T -- 3:09
+A -- 27325
+     Game of 9/16/2012 -- Boston at Toronto (D)
+
+  Boston             AB  R  H RBI    Toronto            AB  R  H RBI
+Podsednik S, lf       3  0  0  0   Lawrie B, 3b          4  1  1  0   
+Gomez M, ph           1  0  0  0   Rasmus C, cf          4  1  1  1   
+Kalish R, lf          0  0  0  0   Arencibia J, c        3  0  0  0   
+Pedroia D, 2b         4  0  2  0   Lind A, 1b            4  0  0  0   
+Ellsbury J, cf        3  0  1  0   Sierra M, rf          3  0  1  1   
+Ross C, rf            4  0  1  0   Gomes Y, dh           3  0  1  0   
+Loney J, 1b           4  0  0  0   Davis R, pr           1  1  0  0   
+Saltalamacchia J, dh  4  0  1  0   Vizquel O, 2b         4  1  2  1   
+Lavarnway R, c        4  0  1  0   Hechavarria A, ss     3  1  1  2   
+Ciriaco P, 3b         3  0  1  0   Gose A, lf            3  0  0  0   
+Iglesias J, ss        2  0  0  0                                      
+Nava D, ph            1  0  0  0                                      
+Aviles M, ss          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  0  7  0                        32  5  7  5
+
+Boston           000 000 000 --  0
+Toronto          000 000 32x --  5
+
+  Boston               IP  H  R ER BB SO
+Lester J (L)          7.0  4  3  3  1  7
+Bard D*               0.0  2  2  2  1  0
+Miller A              0.1  0  0  0  0  0
+Atchison S            0.2  1  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Morrow B              6.0  4  0  0  1  3
+Cecil B               0.1  0  0  0  0  1
+Lyon B (W)            0.2  1  0  0  0  0
+Oliver D              1.0  2  0  0  0  0
+Janssen C             1.0  0  0  0  0  1
+  * Pitched to 3 batters in 8th
+
+E -- Lester J, Kalish R
+DP -- Toronto 1
+LOB -- Boston 7, Toronto 5
+2B -- Lavarnway R, Vizquel O, Lawrie B
+HR -- Hechavarria A
+SB -- Ciriaco P, Davis R
+T -- 2:42
+A -- 21698
+     Game of 9/27/2012 -- New York at Toronto (N)
+
+  New York           AB  R  H RBI    Toronto            AB  R  H RBI
+Jeter D, ss           3  0  0  0   Lawrie B, 3b          4  2  2  2   
+Suzuki I, rf          4  0  0  0   Rasmus C, cf          4  1  2  0   
+Rodriguez A, dh       2  0  0  0   Encarnacion E, dh     4  0  3  3   
+Cano R, 2b            4  0  3  0   Escobar Y, ss         4  0  0  0   
+Swisher N, 1b         3  0  0  0   Lind A, 1b            4  0  0  0   
+Granderson C, cf      4  0  0  0   Arencibia J, c        4  1  2  1   
+Martin R, c           4  0  2  0   Johnson K, 2b         3  0  0  0   
+Ibanez R, lf          3  0  0  0   Sierra M, rf          3  0  0  0   
+Nix J, 3b             3  0  0  0   Gose A, lf            3  2  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        33  6 10  6
+
+New York         000 000 000 --  0
+Toronto          002 020 11x --  6
+
+  New York             IP  H  R ER BB SO
+Nova I (L)            4.2  6  4  4  2  4
+Rapada C              0.1  0  0  0  0  0
+Lowe D                2.0  3  1  1  0  0
+Aardsma D             1.0  1  1  1  1  1
+
+  Toronto              IP  H  R ER BB SO
+Morrow B (W)          7.0  4  0  0  3  3
+Lincoln B             1.0  0  0  0  0  1
+Oliver D              1.0  1  0  0  0  0
+
+DP -- New York 1, Toronto 2
+LOB -- New York 7, Toronto 6
+2B -- Martin R, Encarnacion E, Cano R
+HR -- Lawrie B, Arencibia J
+HBP -- by Oliver D (Rodriguez A)
+WP -- Lowe D
+T -- 2:36
+A -- 23060
+     Game of 9/28/2012 -- New York at Toronto (N)
+
+  New York           AB  R  H RBI    Toronto            AB  R  H RBI
+Jeter D, ss           6  0  1  0   Lawrie B, 3b          3  0  1  0   
+Suzuki I, rf          5  1  2  1   Rasmus C, cf          5  1  1  1   
+Gardner B, lf         0  0  0  0   Encarnacion E, dh     3  1  0  0   
+Rodriguez A, 3b       5  1  1  0   Arencibia J, c        5  0  1  0   
+Cano R, 2b            4  2  2  1   Lind A, 1b            4  1  2  2   
+Swisher N, 1b         4  2  2  2   Escobar Y, ss         5  0  1  0   
+Granderson C, cf      4  0  1  0   Johnson K, 2b         4  1  1  0   
+Ibanez R, lf          4  1  1  1   Davis R, rf           4  0  4  0   
+Dickerson C, lf-rf    0  1  0  0   Gose A, lf            4  0  1  1   
+Martin R, c           4  1  2  3                                      
+Chavez E, dh          3  2  1  2                                      
+                     -- -- -- --                        -- -- -- --
+                     39 11 13 10                        37  4 12  4
+
+New York         210 004 112 -- 11
+Toronto          000 011 200 --  4
+
+  New York             IP  H  R ER BB SO
+Kuroda H (W)          5.1 10  2  2  2  4
+Phelps D              1.2  1  2  2  1  1
+Robertson D           1.0  1  0  0  1  1
+Eppley C              0.2  0  0  0  0  1
+Soriano R             0.1  0  0  0  1  0
+
+  Toronto              IP  H  R ER BB SO
+Jenkins C (L)         3.2  4  3  3  3  2
+Cecil B               2.0  1  2  2  0  2
+Frasor J*             0.0  3  2  2  1  0
+Carreno J             1.0  2  1  1  1  0
+Beck C                1.0  1  1  1  0  0
+Loup A                0.1  1  0  0  0  0
+Korecky B             1.0  1  2  2  1  0
+  * Pitched to 4 batters in 6th
+
+E -- Carreno J
+DP -- New York 2, Toronto 1
+LOB -- New York 8, Toronto 11
+2B -- Swisher N, Lawrie B, Escobar Y, Gose A, Davis R, Johnson K, Granderson C, Suzuki I
+HR -- Rasmus C, Martin R, Lind A, Chavez E
+SB -- Suzuki I
+HBP -- by Cecil B (Cano R)
+WP -- Kuroda H
+T -- 3:43
+A -- 25785
+     Game of 9/29/2012 -- New York at Toronto (D)
+
+  New York           AB  R  H RBI    Toronto            AB  R  H RBI
+Jeter D, dh-ss        5  1  1  0   Lawrie B, 3b          3  0  0  0   
+Suzuki I, lf-rf       5  1  3  0   Davis R, lf           4  1  3  2   
+Rodriguez A, 3b       3  0  0  0   Encarnacion E, dh     4  0  0  0   
+Cano R, 2b            3  0  2  1   Escobar Y, ss         3  1  1  0   
+Swisher N, 1b         3  0  2  0   Gomes Y, 1b           2  0  1  0   
+Granderson C, cf      3  0  0  1   Lind A, ph-1b         0  0  0  0   
+Jones A, rf           2  0  0  0   Sierra M, rf          4  0  0  0   
+Ibanez R, ph-lf       2  0  0  0   Mathis J, c           3  1  1  0   
+Gardner B, pr-lf      0  0  0  0   Hechavarria A, 2b     3  0  1  1   
+Nunez E, ss           3  0  1  0   Gose A, cf            3  0  0  0   
+Pettitte A, p-p       0  0  0  0                                      
+Chamberlain J, p      0  0  0  0                                      
+Chavez E, ph          1  0  0  0                                      
+Eppley C, p           0  0  0  0                                      
+Logan B, p            0  0  0  0                                      
+Robertson D, p        0  0  0  0                                      
+Stewart C, c          2  0  0  0                                      
+Martin R, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  9  2                        29  3  7  3
+
+New York         200 000 000 --  2
+Toronto          100 011 00x --  3
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        5.2  5  3  3  3  4
+Chamberlain J         1.1  1  0  0  0  3
+Eppley C              0.1  1  0  0  0  0
+Logan B*              0.0  0  0  0  1  0
+Robertson D           0.2  0  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Romero R              3.0  6  2  2  2  3
+Hill S (W)            3.0  0  0  0  2  0
+Lincoln B             0.1  1  0  0  0  1
+Loup A                0.2  1  0  0  0  0
+Delabar S             1.0  0  0  0  0  2
+Janssen C (S)         1.0  1  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Hill S, Gomes Y
+DP -- New York 1, Toronto 1
+LOB -- New York 10, Toronto 6
+2B -- Mathis J, Hechavarria A
+HR -- Davis R
+CS -- Suzuki I, Gardner B
+SF -- Cano R, Granderson C
+WP -- Romero R
+T -- 2:54
+A -- 36139
+     Game of 9/30/2012 -- New York at Toronto (D)
+
+  New York           AB  R  H RBI    Toronto            AB  R  H RBI
+Jeter D, ss           5  1  3  1   Lawrie B, 3b          5  2  3  2   
+Suzuki I, rf          4  0  1  1   Davis R, lf           5  1  2  0   
+Rodriguez A, 3b       4  2  2  0   Encarnacion E, dh     2  1  0  0   
+Cano R, 2b            5  2  3  1   Rasmus C, ph          1  0  0  0   
+Swisher N, 1b         4  0  1  0   Escobar Y, ss         4  1  2  1   
+Granderson C, cf      4  1  1  2   Lind A, 1b            4  0  1  1   
+Ibanez R, lf          4  0  2  0   Sierra M, rf          4  0  1  1   
+Gardner B, pr-lf      0  1  0  0   Arencibia J, c        3  0  0  0   
+Dickerson C, ph-lf    1  0  0  0   Hechavarria A, 2b     4  0  0  0   
+Martin R, c           4  0  0  0   Gose A, cf            3  1  1  0   
+Chavez E, dh          2  1  1  1                                      
+Nunez E, ph           2  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     39  9 15  7                        35  6 10  5
+
+New York         001 001 322 --  9
+Toronto          200 030 001 --  6
+
+  New York             IP  H  R ER BB SO
+Hughes P              4.2  8  5  5  2  4
+Lowe D                1.2  0  0  0  0  0
+Logan B (W)           0.2  0  0  0  1  1
+Robertson D           1.0  0  0  0  1  2
+Soriano R             1.0  2  1  1  1  0
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H             6.0  7  2  2  0  4
+Cecil B*              0.0  1  1  1  0  0
+Delabar S             0.1  2  2  2  1  0
+Loup A                0.2  0  0  0  0  0
+Oliver D (L)+         0.0  1  2  2  1  0
+Lyon B                1.0  1  0  0  0  0
+Frasor J              0.2  3  2  2  1  1
+Beck C                0.1  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+  + Pitched to 2 batters in 8th
+
+E -- Lawrie B
+DP -- New York 1, Toronto 1
+LOB -- New York 9, Toronto 8
+2B -- Escobar Y, Cano R 2, Jeter D
+HR -- Chavez E, Lawrie B
+SH -- Martin R
+SF -- Lind A, Suzuki I, Nunez E
+WP -- Alvarez H, Loup A
+T -- 3:25
+A -- 31418
+     Game of 10/1/2012 -- Minnesota at Toronto (N)
+
+  Minnesota          AB  R  H RBI    Toronto            AB  R  H RBI
+Revere B, cf-rf       5  1  2  0   Davis R, rf-lf        5  1  1  0   
+Carroll J, 2b-3b      5  2  3  1   Rasmus C, cf          4  0  0  0   
+Mauer J, dh           5  0  1  1   Sierra M, ph-rf       1  0  0  0   
+Parmelee C, 1b        4  1  2  0   Lawrie B, 3b          4  1  2  0   
+Plouffe T, 3b         3  1  2  3   Lind A, 1b            4  1  4  2   
+Casilla A, 2b         0  0  0  0   McCoy M, pr           0  0  0  0   
+Carson M, rf-lf       5  0  1  0   Gomes Y, 1b           1  1  1  1   
+Herrmann C, lf        3  0  0  0   Escobar Y, dh         3  0  0  0   
+Span D, cf            0  0  0  0   Johnson K, 2b         3  1  1  0   
+Butera D, c           5  0  1  0   Vizquel O, ph         1  0  0  0   
+Florimon P, ss        5  0  0  0   Hechavarria A, ss     4  1  1  0   
+                                   Mathis J, c           4  0  1  2   
+                                   Arencibia J, ph       1  0  0  0   
+                                   Gose A, lf-cf         4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     40  5 12  5                        39  6 12  6
+
+Minnesota        021 010 100 0 --  5
+Toronto          100 002 101 1 --  6
+  2 outs when winning run was scored.
+
+  Minnesota            IP  H  R ER BB SO
+Vasquez E             5.2  6  3  3  3  1
+Burnett A             1.0  1  1  1  0  3
+Robertson T*          0.0  1  0  0  0  0
+Fien C                0.1  0  0  0  0  1
+Burton J              1.0  1  0  0  1  2
+Perkins G             1.0  1  1  1  0  3
+Duensing B (L)        0.2  2  1  1  0  1
+
+  Toronto              IP  H  R ER BB SO
+Laffey A              5.0  8  4  3  0  0
+Beck C                1.0  1  0  0  1  0
+Cecil B               0.2  2  1  1  0  1
+Lincoln B             1.1  0  0  0  1  4
+Janssen C             1.0  0  0  0  0  2
+Lyon B (W)            1.0  1  0  0  1  1
+  * Pitched to 1 batter in 7th
+
+E -- Hechavarria A
+DP -- Toronto 2
+LOB -- Minnesota 10, Toronto 10
+2B -- Butera D, Carroll J, Plouffe T, Mathis J, Lind A, Parmelee C
+HR -- Plouffe T, Gomes Y
+SB -- Revere B, Johnson K
+SH -- Escobar Y, Hechavarria A
+HBP -- by Laffey A (Parmelee C), by Lyon B (Casilla A)
+WP -- Duensing B
+T -- 3:14
+A -- 12359
+     Game of 10/2/2012 -- Minnesota at Toronto (N)
+
+  Minnesota          AB  R  H RBI    Toronto            AB  R  H RBI
+Span D, cf            4  1  2  2   Davis R, lf           4  0  1  1   
+Revere B, rf          4  0  3  0   Escobar Y, ss         3  0  1  1   
+Mauer J, dh           3  0  0  0   Lawrie B, 3b          3  0  1  0   
+Parmelee C, 1b        4  0  0  0   Lind A, 1b            3  0  0  0   
+Plouffe T, 3b         4  1  1  0   Arencibia J, c        4  1  1  0   
+Carson M, lf          4  0  2  0   Johnson K, dh         3  1  1  2   
+Mastroianni D, pr     0  0  0  0   Hechavarria A, 2b     3  1  1  0   
+Herrmann C, c         4  0  0  0   Sierra M, rf          3  0  0  0   
+Casilla A, 2b         3  0  1  1   Gose A, cf            1  1  0  0   
+Escobar E, ss         3  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3 10  3                        27  4  6  4
+
+Minnesota        000 002 100 --  3
+Toronto          001 210 00x --  4
+
+  Minnesota            IP  H  R ER BB SO
+Swarzak A (L)         5.0  5  4  4  3  2
+Waldrop K             2.0  1  0  0  1  0
+Perdomo L             0.2  0  0  0  1  0
+Robertson T*          0.0  0  0  0  0  0
+Fien C                0.1  0  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Jenkins C (W)+        5.0  5  2  2  1  2
+Loup A                1.0  1  0  0  0  1
+Delabar S             1.0  2  1  1  0  0
+Oliver D              1.0  1  0  0  0  0
+Janssen C (S)         1.0  1  0  0  0  1
+  * Pitched to 1 batter in 8th
+  + Pitched to 2 batters in 6th
+
+E -- Plouffe T, Robertson T
+DP -- Minnesota 3, Toronto 2
+LOB -- Minnesota 4, Toronto 4
+2B -- Hechavarria A, Span D, Plouffe T, Casilla A
+HR -- Johnson K, Span D
+CS -- Revere B 2
+T -- 2:33
+A -- 13930
+     Game of 10/3/2012 -- Minnesota at Toronto (N)
+
+  Minnesota          AB  R  H RBI    Toronto            AB  R  H RBI
+Span D, cf            4  0  0  0   Davis R, lf           4  1  1  1   
+Revere B, rf          4  1  3  0   Hechavarria A, 2b-ss  4  0  1  1   
+Mauer J, dh           2  0  0  0   Lawrie B, 3b          3  0  0  0   
+Parmelee C, 1b        4  0  0  0   Lind A, dh            2  0  1  0   
+Plouffe T, 3b         2  0  0  0   Gomes Y, 1b           3  0  0  0   
+Casilla A, pr-2b      1  0  1  0   Arencibia J, c        3  0  0  0   
+Carson M, lf          4  0  0  1   Vizquel O, ss         3  0  1  0   
+Escobar E, 2b-3b      4  0  0  0   McCoy M, 2b           0  0  0  0   
+Butera D, c           3  0  0  0   Sierra M, rf          3  0  1  0   
+Florimon P, ss        3  0  0  0   Gose A, cf            3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  4  1                        28  2  6  2
+
+Minnesota        000 100 000 --  1
+Toronto          002 000 00x --  2
+
+  Minnesota            IP  H  R ER BB SO
+Diamond S (L)         5.0  5  2  2  1  3
+Burnett A             2.0  1  0  0  0  3
+Perdomo L             1.0  0  0  0  0  0
+
+  Toronto              IP  H  R ER BB SO
+Morrow B (W)          8.0  3  1  1  3 11
+Lyon B (S)            1.0  1  0  0  0  0
+
+DP -- Minnesota 2
+LOB -- Minnesota 6, Toronto 3
+3B -- Gose A
+SB -- Davis R, Casilla A
+WP -- Diamond S
+T -- 2:21
+A -- 19769
+
