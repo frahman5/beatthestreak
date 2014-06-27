@@ -25,7 +25,9 @@ class NPReporter(object):
         self.npsim = npsim
         self.outputMethods = ('excel', 'stdout')
         self.test = test
-        self.selMethods = {1: 'N globalSeasonBatAveP minPA serial deterministic static'}
+        self.selMethods = {
+            1: 'N globalSeasonBatAveP minPA serial deterministic static',
+            2: 'N P:globalSeasonBatAve-minPA Random Static'}
 
     def get_npsim(self):
         return self.npsim
@@ -106,6 +108,7 @@ class NPReporter(object):
                              name='Successes (1=100%)')
         failureS = Series(kwargs['numFailL'], name='Failures')
         perFailureS = Series(kwargs['percentFailL'], name='Failures (%) (1=100%)')
+        percUniqueBotsS = Series(kwargs['percUniqueBotsL'], name='(%) Unique Bots')
         minPAS = Series(kwargs['minPAL'], name='min PA')
         methodL = [self.selMethods[methodIndex] for methodIndex 
             in kwargs['methodL']]
@@ -121,20 +124,21 @@ class NPReporter(object):
         endDateS = Series(kwargs['endDateL'], name='end date')
 
         # construct dataframe to write to excel file
-        df = concat([simYearS, batAveYearS, nS, pS, minBatAveS, successesS, 
-                     perSuccessS, failureS, perFailureS, doubleDownS, topStreakAveS, 
-                     oneStreakS, twoStreakS, threeStreakS, fourStreakS, fiveStreakS, 
-                     startDateS, endDateS, minPAS, methodS], axis=1)
+        df = concat([simYearS, batAveYearS, nS, pS, minPAS, minBatAveS, 
+                     successesS, perSuccessS, failureS, perFailureS, 
+                     percUniqueBotsS, doubleDownS, topStreakAveS, oneStreakS, 
+                     twoStreakS, threeStreakS, fourStreakS, fiveStreakS, 
+                     startDateS, endDateS, methodS], axis=1)
 
         # Write the info to an excel spreadsheet
         if self.test == True: # debugging code
             writer = ExcelWriter(Filepath.get_mass_results_file(
                 kwargs['simYearRange'], kwargs['simMinBatRange'], 
-                kwargs['NRange'], kwargs['PRange'], test=True))
+                kwargs['NRange'], kwargs['PRange'], kwargs['minPARange'], test=True))
         else:
             writer = ExcelWriter(Filepath.get_mass_results_file(
                 kwargs['simYearRange'], kwargs['simMinBatRange'], 
-                kwargs['NRange'], kwargs['PRange']))
+                kwargs['NRange'], kwargs['PRange'], kwargs['minPARange']))
         df.to_excel(writer, index=False, sheet_name='Meta')
         writer.save()
 
@@ -191,7 +195,7 @@ class NPReporter(object):
         ## Some bookeeping
              # get percent unique bots
         percentUniqueBots = round(
-            float(self.__calc_num_unique_bots()) / float(npsim.get_n()), 4)
+            float(self._calc_num_unique_bots()) / float(npsim.get_n()), 4)
         percentUniqueBotsString = "{0:.0f}%".format(100 * percentUniqueBots)
             # get percent mulligans used
         numMulUsed = 0
@@ -266,7 +270,7 @@ class NPReporter(object):
         # put df info on excel buffer
         df.to_excel(writer, index=False, sheet_name='Sim Meta')
 
-    def __calc_num_unique_bots(self):
+    def _calc_num_unique_bots(self):
         """
         None -> int
 

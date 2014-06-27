@@ -1,0 +1,10 @@
+date,hitVal,otherInfo
+9/1,False,n/a
+9/2,True,n/a
+9/8,False,n/a
+9/20,True,n/a
+9/22,True,n/a
+9/24,False,n/a
+9/26,False,n/a
+9/28,False,n/a
+10/2,True,n/a

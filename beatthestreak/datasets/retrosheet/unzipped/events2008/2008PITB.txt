@@ -1,0 +1,3807 @@
+     Game of 4/7/2008 -- Chicago at Pittsburgh (D)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Soriano A, lf         6  1  1  0   McLouth N, cf-lf      6  0  3  2   
+Johnson R, cf         3  2  1  0   Sanchez F, 2b         6  0  0  1   
+Ward D, ph            1  0  0  0   Bay J, lf             4  0  1  0   
+Pie F, pr-cf          1  0  0  0   Yates T, p            0  0  0  0   
+Lee D, 1b             5  1  2  0   LaRoche A, ph         1  0  0  0   
+Ramirez A, 3b         6  1  1  2   Grabow J, p           0  0  0  0   
+Fukudome K, rf        5  1  3  1   Capps M, p            0  0  0  0   
+DeRosa M, 2b          5  2  1  1   Duke Z, ph            1  0  0  0   
+Soto G, c             7  1  3  2   Meek E, p             0  0  0  0   
+Cedeno R, ss          5  0  1  3   Doumit R, c           4  1  2  0   
+Lieber J, p           1  0  0  0   Bixler B, pr          0  0  0  0   
+Marmol C, p           0  0  0  0   Paulino R, c          1  0  0  0   
+Lilly T, p            2  0  0  0   Nady X, rf            5  1  2  0   
+Hart K, p             1  0  0  0   Mientkiewicz D, 1b    3  1  0  0   
+Pignatiello C, p      0  0  0  0   Bautista J, 3b        4  2  2  0   
+Howry B, p            0  0  0  0   Rivas L, ss           6  2  2  1   
+Fontenot M, ph        1  0  0  0   Gorzelanny T, p       0  0  0  0   
+Wuertz M, p           0  0  0  0   Dumatrait P, p        1  0  0  0   
+Theriot R, ss         0  1  0  0   Gomez C, ph           1  1  1  1   
+                                   Osoria F, p           0  0  0  0   
+                                   Marte D, p            0  0  0  0   
+                                   Morgan N, ph-cf       3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     49 10 13  9                        46  8 13  5
+
+Chicago          016 001 000 002 -- 10
+Pittsburgh       000 502 100 000 --  8
+
+  Chicago              IP  H  R ER BB SO
+Lilly T               3.2  7  5  5  2  1
+Hart K*               1.1  2  2  2  1  1
+Pignatiello C+        0.0  0  0  0  2  0
+Howry B               1.0  0  0  0  1  0
+Wuertz M              2.0  1  1  0  0  1
+Lieber J (W)          3.0  2  0  0  2  2
+Marmol C (S)          1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Gorzelanny T          2.1  6  7  7  4  2
+Dumatrait P           1.2  2  0  0  1  1
+Osoria F#             1.0  3  1  1  0  1
+Marte D               1.0  0  0  0  0  0
+Yates T               2.0  0  0  0  0  0
+Grabow J**            1.0  1  0  0  1  1
+Capps M               2.0  1  0  0  0  3
+Meek E (L)            1.0  0  2  2  5  0
+  * Pitched to 2 batters in 6th
+  + Pitched to 2 batters in 6th
+  # Pitched to 3 batters in 6th
+  ** Pitched to 1 batter in 10th
+
+E -- Gorzelanny T, Cedeno R, Ramirez A, DeRosa M, Rivas L
+DP -- Pittsburgh 1
+LOB -- Chicago 15, Pittsburgh 12
+2B -- DeRosa M, Cedeno R, Soto G, Lee D, Bautista J, Doumit R, Nady X
+3B -- McLouth N
+SB -- Fukudome K, Theriot R 2, Pie F
+CS -- McLouth N, Morgan N
+SH -- Bautista J
+SF -- Sanchez F, Ramirez A
+WP -- Gorzelanny T, Meek E 2
+PB -- Soto G
+T -- 4:47
+A -- 37491
+     Game of 4/9/2008 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Soriano A, lf         6  0  2  0   McLouth N, cf         7  0  1  1   
+Johnson R, cf         3  0  2  1   Sanchez F, 2b         5  0  0  0   
+Pie F, cf             4  0  1  2   Bay J, lf             5  2  3  1   
+Lee D, 1b             6  1  0  0   LaRoche A, 1b         5  1  1  2   
+Ramirez A, 3b         7  2  3  2   Nady X, rf            6  0  0  0   
+Fukudome K, rf        7  0  2  0   Doumit R, c           6  0  0  0   
+DeRosa M, 2b          6  0  1  0   Bautista J, 3b        5  1  1  0   
+Soto G, c             5  0  1  0   Dumatrait P, p        0  0  0  0   
+Cedeno R, ss          2  1  1  0   Paulino R, ph         1  0  0  0   
+Ward D, ph            1  0  0  0   Bixler B, ss          2  0  0  0   
+Marmol C, p           0  0  0  0   Morgan N, ph          0  0  0  0   
+Wood K, p             0  0  0  0   Grabow J, p           0  0  0  0   
+Howry B, p            0  0  0  0   Capps M, p            0  0  0  0   
+Zambrano C, ph        0  0  0  0   Mientkiewicz D, ph    1  0  1  0   
+Wuertz M, p           0  0  0  0   Yates T, p            0  0  0  0   
+Blanco H, ph          1  0  0  0   Gomez C, 3b           2  0  1  0   
+Hart K, p             1  1  0  0   Duke Z, p             2  0  0  0   
+Marshall S, p         0  0  0  0   Osoria F, p           0  0  0  0   
+Dempster R, p         1  0  0  0   Marte D, p            0  0  0  0   
+Fontenot M, ph        0  0  0  0   Rivas L, ph-ss        4  0  0  0   
+Theriot R, ph-ss      4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     54  6 14  5                        51  4  8  4
+
+Chicago          001 000 010 000 022 --  6
+Pittsburgh       000 000 011 000 020 --  4
+
+  Chicago              IP  H  R ER BB SO
+Dempster R            7.0  1  0  0  2  5
+Marmol C              1.0  2  1  1  0  0
+Wood K                1.0  1  1  1  0  2
+Howry B               1.0  1  0  0  0  0
+Wuertz M              2.0  0  0  0  1  2
+Hart K (W)            2.0  2  2  2  0  1
+Marshall S (S)        1.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z                7.0  8  1  1  1  6
+Osoria F              0.2  1  1  0  1  0
+Marte D               0.1  0  0  0  0  0
+Grabow J              1.0  0  0  0  0  2
+Capps M               1.0  1  0  0  0  1
+Yates T               2.0  1  0  0  2  0
+Dumatrait P (L)       3.0  3  4  4  4  2
+
+E -- Osoria F
+DP -- Chicago 1, Pittsburgh 2
+LOB -- Chicago 15, Pittsburgh 6
+2B -- Ramirez A, McLouth N, Gomez C
+HR -- Bay J, Ramirez A, LaRoche A
+CS -- Fukudome K
+SH -- Dempster R 2, Zambrano C
+HBP -- by Duke Z (Johnson R), by Marmol C (Morgan N)
+WP -- Dumatrait P
+T -- 4:20
+A -- 9735
+     Game of 4/10/2008 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Soriano A, lf         5  2  2  0   McLouth N, cf         5  1  2  0   
+Fontenot M, 2b        5  1  2  2   Sanchez F, 2b         4  1  1  1   
+Lee D, 1b             4  0  0  2   Bay J, lf             3  1  1  0   
+Ramirez A, 3b         4  0  0  0   LaRoche A, 1b         3  0  1  0   
+Fukudome K, rf        4  1  0  0   Nady X, rf            2  0  0  1   
+Soto G, c             5  1  4  2   Paulino R, c          3  0  2  0   
+Theriot R, ss         3  1  2  0   Bautista J, 3b        3  0  0  1   
+Pie F, cf             2  0  0  0   Bixler B, ss          3  0  0  0   
+Lieber J, p           1  0  0  0   Morgan N, ph          1  0  0  0   
+Howry B, p            0  0  0  0   Morris M, p           2  0  1  0   
+Wood K, p             0  0  0  0   Mientkiewicz D, ph    1  0  0  0   
+Hill R, p             1  0  0  0   Meek E, p             0  0  0  0   
+Johnson R, cf         2  1  1  1   Doumit R, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 11  7                        31  3  8  3
+
+Chicago          100 015 000 --  7
+Pittsburgh       300 000 000 --  3
+
+  Chicago              IP  H  R ER BB SO
+Hill R                3.0  3  3  3  4  3
+Lieber J (W)          4.1  5  0  0  0  1
+Howry B               0.2  0  0  0  0  0
+Wood K                1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Morris M (L)          7.0 11  7  4  2  3
+Meek E                2.0  0  0  0  1  2
+
+E -- Sanchez F, Bautista J
+DP -- Chicago 2, Pittsburgh 1
+LOB -- Chicago 8, Pittsburgh 7
+2B -- McLouth N, Soto G 2, Morris M, Soriano A
+HR -- Soto G, Fontenot M
+SB -- Soriano A, Johnson R
+CS -- Theriot R
+SH -- Lieber J
+SF -- Nady X, Bautista J, Lee D
+HBP -- by Meek E (Ramirez A)
+WP -- Hill R, Morris M
+T -- 2:30
+A -- 9798
+     Game of 4/11/2008 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hopper N, cf          3  0  1  0   Morgan N, cf          4  0  1  0   
+Patterson C, ph       1  0  0  0   Sanchez F, 2b         3  0  0  0   
+Keppinger J, ss       4  0  0  0   McLouth N, rf         2  0  1  0   
+Griffey K, rf         4  0  0  0   Bay J, lf             2  1  1  1   
+Phillips B, 2b        3  0  2  0   LaRoche A, 1b         3  0  0  0   
+Dunn A, lf            2  0  1  0   Marte D, p            0  0  0  0   
+Encarnacion E, 3b     4  0  1  0   Nady X, ph            1  0  0  0   
+Votto J, 1b           4  0  1  0   Capps M, p            0  0  0  0   
+Bako P, c             4  0  1  0   Doumit R, c           3  0  1  0   
+Volquez E, p          2  0  0  0   Bautista J, 3b        3  0  0  0   
+Hatteberg S, ph       1  0  0  0   Rivas L, ss           3  0  0  0   
+Burton J, p           0  0  0  0   Maholm P, p           2  0  0  0   
+Valentin J, ph        1  0  0  0   Grabow J, p           0  0  0  0   
+Weathers D, p         0  0  0  0   Mientkiewicz D, 1b    1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  0  7  0                        27  1  5  1
+
+Cincinnati       000 000 000 --  0
+Pittsburgh       000 001 00x --  1
+
+  Cincinnati           IP  H  R ER BB SO
+Volquez E             5.0  3  0  0  3  1
+Burton J (L)          2.0  1  1  1  0  2
+Weathers D            1.0  1  0  0  2  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P              5.1  6  0  0  2  2
+Grabow J (W)          1.1  1  0  0  1  0
+Marte D               1.1  0  0  0  1  2
+Capps M (S)           1.0  0  0  0  0  0
+
+E -- Maholm P, Rivas L
+DP -- Cincinnati 1, Pittsburgh 2
+LOB -- Cincinnati 12, Pittsburgh 7
+2B -- Phillips B, Mientkiewicz D
+HR -- Bay J
+CS -- Morgan N
+SH -- Keppinger J
+HBP -- by Maholm P (Griffey K)
+T -- 2:24
+A -- 13603
+     Game of 4/12/2008 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Patterson C, cf       4  1  1  1   McLouth N, cf         5  1  2  1   
+Keppinger J, ss       5  0  3  1   Sanchez F, 2b         4  0  1  0   
+Griffey K, rf         5  0  2  0   Bay J, lf             3  0  0  0   
+Freel R, pr           0  0  0  0   LaRoche A, 1b         4  0  0  0   
+Phillips B, 2b        5  1  2  0   Nady X, rf            4  1  2  1   
+Dunn A, lf            5  0  0  0   Mientkiewicz D, 3b    4  1  1  0   
+Encarnacion E, 3b     4  0  1  0   Grabow J, p           0  0  0  0   
+Votto J, 1b           4  1  3  1   Capps M, p            0  0  0  0   
+Valentin J, c         3  0  0  0   Paulino R, c          3  0  1  2   
+Arroyo B, p           1  0  1  0   Bixler B, ss          3  1  1  0   
+Hatteberg S, ph       1  0  0  0   Snell I, p            1  0  0  0   
+Lincoln M, p          0  0  0  0   Marte D, p            0  0  0  0   
+Hopper N, ph          1  0  1  0   Yates T, p            0  0  0  0   
+Coffey T, p           0  0  0  0   Gomez C, 3b           1  0  0  0   
+Affeldt J, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  3 14  3                        32  4  8  4
+
+Cincinnati       000 021 000 --  3
+Pittsburgh       020 011 00x --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Arroyo B              5.0  6  3  2  2  3
+Lincoln M (L)         2.0  2  1  1  0  0
+Coffey T              0.2  0  0  0  0  0
+Affeldt J             0.1  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I (W)           6.1  9  3  3  2  2
+Marte D               0.1  2  0  0  0  1
+Yates T               0.1  0  0  0  0  0
+Grabow J              1.0  2  0  0  0  0
+Capps M (S)           1.0  1  0  0  0  0
+
+E -- Votto J, Bixler B, Encarnacion E 2
+DP -- Pittsburgh 2
+LOB -- Cincinnati 11, Pittsburgh 9
+2B -- Patterson C, Mientkiewicz D, Phillips B
+SB -- Patterson C
+SH -- Snell I 2, Arroyo B, Bixler B
+WP -- Arroyo B
+T -- 3:04
+A -- 18096
+     Game of 4/13/2008 -- Cincinnati at Pittsburgh (D)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Freel R, cf-lf        5  0  2  1   McLouth N, cf-lf      2  2  1  0   
+Hopper N, lf          2  0  1  0   Rivas L, 2b           4  1  1  2   
+Patterson C, ph-cf    1  0  0  0   Bay J, lf             4  2  2  3   
+Griffey K, rf         4  0  0  0   Morgan N, cf          0  0  0  0   
+Phillips B, 2b        2  0  0  0   Doumit R, c           3  1  1  2   
+Keppinger J, 1b-ss    3  0  0  0   Nady X, rf            4  1  2  2   
+Encarnacion E, 3b     4  0  1  0   Mientkiewicz D, 1b    3  0  0  0   
+Castro J, ss          4  0  0  0   Bautista J, 3b        4  0  0  0   
+Cordero F, p          0  0  0  0   Bixler B, ss          4  1  1  0   
+Bako P, c             4  1  2  0   Gorzelanny T, p       2  0  0  0   
+Cueto J, p            1  0  0  0   Osoria F, p           1  1  1  0   
+Hatteberg S, ph       0  0  0  0   Gomez C, ph           1  0  0  0   
+Coffey T, p           0  0  0  0   Dumatrait P, p        0  0  0  0   
+Votto J, 1b           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  1  6  1                        32  9  9  9
+
+Cincinnati       000 000 100 --  1
+Pittsburgh       011 003 40x --  9
+
+  Cincinnati           IP  H  R ER BB SO
+Cueto J (L)           6.0  5  5  5  1  6
+Coffey T              1.0  3  4  4  1  0
+Cordero F             1.0  1  0  0  1  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Gorzelanny T (W)      6.1  4  1  1  4  1
+Osoria F              1.2  2  0  0  1  0
+Dumatrait P           1.0  0  0  0  0  0
+
+E -- Bixler B
+DP -- Pittsburgh 2
+LOB -- Cincinnati 9, Pittsburgh 3
+2B -- Rivas L, McLouth N
+3B -- Bako P
+HR -- Doumit R, Nady X, Bay J
+SB -- Phillips B
+SH -- Hopper N
+SF -- Doumit R
+T -- 2:32
+A -- 11201
+     Game of 4/21/2008 -- Florida at Pittsburgh (N)
+
+  Florida            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Ramirez H, ss         5  1  1  2   McLouth N, cf         4  1  1  0   
+Uggla D, 2b           5  1  3  1   Bixler B, ss          4  1  0  0   
+Hermida J, rf         4  1  1  1   Sanchez F, 2b         4  0  1  0   
+Willingham J, lf      4  1  2  2   Bay J, lf             3  0  0  0   
+Gonzalez L, ph-lf     1  0  0  0   Nady X, rf            4  1  2  2   
+Jacobs M, 1b          4  1  1  0   LaRoche A, 1b         4  0  0  0   
+Cantu J, 3b           5  2  2  0   Paulino R, c          4  1  2  1   
+Rabelo M, c           4  1  2  2   Gomez C, 3b           4  0  1  0   
+Amezaga A, cf         5  1  2  1   Morris M, p           1  0  1  1   
+Hendrickson M, p      4  1  2  1   Bautista J, ph        1  0  0  0   
+Lindstrom M, p        0  0  0  0   Osoria F, p           0  0  0  0   
+                                   Grabow J, p           0  0  0  0   
+                                   Rivas L, ph           1  0  0  0   
+                                   Meek E, p             0  0  0  0   
+                                   Mientkiewicz D, ph    1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41 10 16 10                        35  4  8  4
+
+Florida          043 111 000 -- 10
+Pittsburgh       020 000 020 --  4
+
+  Florida              IP  H  R ER BB SO
+Hendrickson M (W)     8.0  8  4  3  1  5
+Lindstrom M           1.0  0  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Morris M (L)          4.0  9  8  8  1  2
+Osoria F              2.0  5  2  2  0  1
+Grabow J              1.0  0  0  0  0  2
+Meek E                2.0  2  0  0  0  1
+
+E -- Gonzalez L
+DP -- Florida 1, Pittsburgh 1
+LOB -- Florida 7, Pittsburgh 5
+2B -- Uggla D 2, Cantu J 2, Amezaga A, Nady X, Hendrickson M, Willingham J, Jacobs M
+HR -- Ramirez H, Willingham J, Uggla D
+SF -- Rabelo M
+HBP -- by Morris M (Hermida J)
+T -- 2:37
+A -- 8444
+     Game of 4/22/2008 -- Florida at Pittsburgh (N)
+
+  Florida            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Ramirez H, ss         5  1  2  0   McLouth N, cf         2  0  0  0   
+Uggla D, 2b           4  0  1  0   Sanchez F, 2b         4  1  1  0   
+Jacobs M, 1b          4  0  0  0   Bay J, lf             4  1  1  0   
+Willingham J, lf      3  0  1  0   Doumit R, c           4  1  2  1   
+Cantu J, 3b           4  1  3  2   Nady X, rf            4  0  1  2   
+Ross C, rf            4  0  0  0   LaRoche A, 1b         3  0  0  0   
+Treanor M, c          3  0  0  0   Mientkiewicz D, 3b    3  0  0  0   
+Hermida J, ph         1  0  1  0   Bixler B, ss          3  0  0  0   
+Amezaga A, cf         3  0  1  0   Maholm P, p           2  0  1  0   
+Nolasco R, p          2  0  0  0   Yates T, p            0  0  0  0   
+Gonzalez L, ph        1  0  1  0   Paulino R, ph         1  0  0  0   
+Pinto R, p            0  0  0  0   Marte D, p            0  0  0  0   
+Rabelo M, ph          1  0  0  0   Grabow J, p           0  0  0  0   
+                                   Capps M, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2 10  2                        30  3  6  3
+
+Florida          100 000 100 --  2
+Pittsburgh       000 003 00x --  3
+
+  Florida              IP  H  R ER BB SO
+Nolasco R (L)         6.0  5  3  3  2  4
+Pinto R               2.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (W)          6.0  4  1  1  1  6
+Yates T               1.0  3  1  1  0  1
+Marte D               0.1  2  0  0  0  0
+Grabow J              0.2  0  0  0  0  1
+Capps M (S)           1.0  1  0  0  0  1
+
+E -- Ramirez H
+DP -- Pittsburgh 1
+LOB -- Florida 8, Pittsburgh 5
+2B -- Ramirez H, Doumit R
+HR -- Cantu J
+CS -- McLouth N
+SH -- Amezaga A
+T -- 2:47
+A -- 10185
+     Game of 4/23/2008 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Schumaker S, rf-lf    5  1  2  0   McLouth N, cf         4  0  0  0   
+Ankiel R, cf          4  0  0  0   Sanchez F, 2b         4  2  2  0   
+Pujols A, 1b          4  1  2  0   Bay J, lf             4  2  2  2   
+Duncan C, lf          2  1  0  0   Doumit R, c           4  1  2  1   
+Ludwick R, ph-rf      1  0  0  0   Nady X, rf            3  0  1  1   
+Glaus T, 3b           4  1  1  2   LaRoche A, 1b         3  0  1  0   
+Molina Y, c           3  0  1  0   Bautista J, 3b        3  1  1  1   
+Kennedy A, 2b         4  0  2  2   Bixler B, ss          4  1  1  0   
+Wellemeyer T, p       2  0  1  0   Snell I, p            2  0  0  0   
+Flores R, p           0  0  0  0   Morgan N, ph          1  0  0  0   
+Wainwright A, ph      1  0  0  0   Marte D, p            0  0  0  0   
+Reyes A, p            0  0  0  0   Mientkiewicz D, ph    1  0  1  2   
+Miles A, ss           3  0  0  0   Capps M, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  9  4                        33  7 11  7
+
+St. Louis        400 000 000 --  4
+Pittsburgh       000 220 03x --  7
+
+  St. Louis            IP  H  R ER BB SO
+Wellemeyer T          6.0  7  4  4  1  5
+Flores R              1.0  0  0  0  0  1
+Reyes A (L)           1.0  4  3  3  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I               6.0  8  4  4  4  1
+Marte D (W)           2.0  1  0  0  0  1
+Capps M (S)           1.0  0  0  0  0  0
+
+DP -- Pittsburgh 1
+LOB -- St. Louis 8, Pittsburgh 5
+2B -- Glaus T, Nady X, Bixler B
+HR -- Bay J
+CS -- Kennedy A
+SH -- Wellemeyer T
+SF -- Nady X
+HBP -- by Snell I (Pujols A), by Wellemeyer T (Bautista J)
+WP -- Snell I
+T -- 2:43
+A -- 10487
+     Game of 4/24/2008 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Schumaker S, cf       3  1  1  1   McLouth N, cf         4  0  0  0   
+Barton B, rf          4  0  2  2   Sanchez F, 2b         4  0  0  0   
+Pujols A, 1b          2  0  2  1   Bay J, lf             3  0  1  0   
+Ludwick R, lf         5  0  0  0   Doumit R, c           3  2  1  0   
+Glaus T, 3b           5  1  2  0   Nady X, rf            4  0  1  0   
+Molina Y, c           5  1  3  0   LaRoche A, 1b         4  0  2  1   
+Miles A, 2b           4  0  0  0   Bautista J, 3b        4  0  0  0   
+Pineiro J, p          3  1  0  0   Bixler B, ss          3  0  1  0   
+Villone R, p          0  0  0  0   Osoria F, p           0  0  0  0   
+Duncan C, ph          1  0  0  0   Mientkiewicz D, ph    1  0  0  0   
+Springer R, p         0  0  0  0   Gorzelanny T, p       0  0  0  0   
+Isringhausen J, p     0  0  0  0   Gomez C, ph           1  0  0  0   
+Ryan B, ss            3  2  2  1   Dumatrait P, p        0  0  0  0   
+                                   Rivas L, ss           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6 12  5                        32  2  6  1
+
+St. Louis        000 032 001 --  6
+Pittsburgh       000 100 001 --  2
+
+  St. Louis            IP  H  R ER BB SO
+Pineiro J (W)         7.0  4  1  1  1  6
+Villone R             1.0  0  0  0  0  1
+Springer R            0.1  2  1  1  1  0
+Isringhausen J (S)    0.2  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Gorzelanny T (L)      5.0  2  3  3  7  4
+Dumatrait P           2.0  6  2  2  1  2
+Osoria F              2.0  4  1  1  0  1
+
+E -- Bixler B, Barton B
+DP -- Pittsburgh 3
+LOB -- St. Louis 11, Pittsburgh 6
+2B -- LaRoche A, Molina Y 2, Schumaker S, Glaus T
+CS -- Barton B
+SH -- Gorzelanny T
+HBP -- by Osoria F (Pujols A)
+T -- 2:44
+A -- 9544
+     Game of 4/25/2008 -- Philadelphia at Pittsburgh (N)
+
+  Philadelphia       AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Taguchi S, rf         5  0  1  0   McLouth N, cf         4  0  0  0   
+Werth J, cf           4  2  2  2   Sanchez F, 2b         5  0  0  0   
+Utley C, 1b-2b        4  1  0  0   Bay J, lf             4  2  1  1   
+Burrell P, lf         3  1  1  0   Doumit R, c           3  2  2  0   
+Bohn T, pr-lf         1  0  0  0   Nady X, rf            4  1  2  3   
+Coste C, c            5  0  3  3   LaRoche A, 1b         4  0  0  0   
+Feliz P, 3b           4  0  0  0   Mientkiewicz D, 3b    3  0  1  1   
+Bruntlett E, ss       4  1  1  0   Bautista J, ph-3b     0  0  0  0   
+Harman B, 2b          3  1  1  1   Bixler B, ss          3  0  2  0   
+Dobbs G, ph           0  0  0  0   Duke Z, p             2  0  0  0   
+Romero J, p           0  0  0  0   Rivas L, ph           1  0  0  0   
+Lidge B, p            0  0  0  0   Yates T, p            0  0  0  0   
+Eaton A, p            2  0  0  0   Marte D, p            0  0  0  0   
+Durbin C, p           1  0  1  0   Grabow J, p           0  0  0  0   
+Gordon T, p           0  0  0  0   Paulino R, ph         1  0  0  0   
+Howard R, ph-1b       1  0  0  0   Capps M, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 10  6                        34  5  8  5
+
+Philadelphia     202 200 000 --  6
+Pittsburgh       000 320 000 --  5
+
+  Philadelphia         IP  H  R ER BB SO
+Eaton A               3.2  5  3  3  2  3
+Durbin C              2.1  2  2  2  1  1
+Gordon T (W)          1.0  0  0  0  1  0
+Romero J              1.0  1  0  0  1  0
+Lidge B (S)           1.0  0  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (L)            6.0  9  6  6  2  2
+Yates T*              1.0  1  0  0  2  0
+Marte D               0.2  0  0  0  0  1
+Grabow J              0.1  0  0  0  0  0
+Capps M               1.0  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+DP -- Philadelphia 1
+LOB -- Philadelphia 8, Pittsburgh 7
+2B -- Coste C, Burrell P, Harman B, Doumit R 2, Nady X, Mientkiewicz D
+HR -- Werth J, Bay J
+WP -- Eaton A
+PB -- Doumit R
+T -- 2:57
+A -- 23930
+     Game of 4/26/2008 -- Philadelphia at Pittsburgh (N)
+
+  Philadelphia       AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Werth J, cf           4  1  1  1   McLouth N, cf         4  2  2  2   
+Dobbs G, 3b           3  0  0  0   Sanchez F, 2b         4  0  2  1   
+Feliz P, ph-3b        2  0  1  1   Bay J, lf             4  0  0  0   
+Utley C, 2b           4  2  2  0   LaRoche A, 1b         4  0  1  0   
+Howard R, 1b          4  1  1  2   Nady X, rf            4  0  1  0   
+Burrell P, lf         5  1  1  0   Mientkiewicz D, 3b    4  1  1  0   
+Madson R, p           0  0  0  0   Paulino R, c          4  0  1  0   
+Jenkins G, rf         5  1  2  1   Bixler B, ss          3  1  0  1   
+Coste C, c            3  1  0  0   Morris M, p           0  0  0  0   
+Bruntlett E, ss       4  1  1  1   Dumatrait P, p        1  0  0  0   
+Kendrick K, p         3  0  0  0   Osoria F, p           0  0  0  0   
+Seanez R, p           0  0  0  0   Bautista J, ph        1  0  0  0   
+Bohn T, lf            0  0  0  0   Meek E, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  8  9  6                        33  4  8  4
+
+Philadelphia     510 002 000 --  8
+Pittsburgh       002 000 110 --  4
+
+  Philadelphia         IP  H  R ER BB SO
+Kendrick K (W)*       7.0  7  4  3  0  2
+Seanez R              1.0  1  0  0  0  0
+Madson R              1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Morris M (L)          1.2  6  6  3  1  1
+Dumatrait P           4.0  2  2  1  1  5
+Osoria F              1.1  1  0  0  0  0
+Meek E                2.0  0  0  0  2  3
+  * Pitched to 2 batters in 8th
+
+E -- Nady X, Bixler B 2, Kendrick K
+DP -- Philadelphia 1, Pittsburgh 2
+LOB -- Philadelphia 7, Pittsburgh 4
+2B -- Sanchez F, Nady X, Werth J, Feliz P
+HR -- Howard R, McLouth N
+SH -- Dumatrait P
+HBP -- by Morris M (Coste C), by Kendrick K (Bixler B)
+WP -- Meek E
+T -- 2:48
+A -- 24791
+     Game of 4/27/2008 -- Philadelphia at Pittsburgh (D)
+
+  Philadelphia       AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Taguchi S, rf         4  0  0  0   McLouth N, cf         4  2  2  3   
+Werth J, cf           4  0  0  0   Sanchez F, 2b         4  0  0  0   
+Utley C, 2b           4  0  0  0   Bay J, lf             5  0  2  0   
+Howard R, 1b          2  0  0  0   Doumit R, c           3  0  1  0   
+Burrell P, lf         2  1  1  0   Nady X, rf            4  0  0  0   
+Feliz P, 3b           3  0  0  0   LaRoche A, 1b         4  2  2  0   
+Bruntlett E, ss       3  0  1  1   Bautista J, 3b        4  0  3  1   
+Ruiz C, c             2  0  0  0   Rivas L, ss           4  0  2  0   
+Myers B, p            1  0  0  0   Maholm P, p           2  1  0  0   
+Harman B, ph          0  0  0  0                                      
+Seanez R, p           0  0  0  0                                      
+Madson R, p           0  0  0  0                                      
+Coste C, ph           1  0  0  0                                      
+Condrey C, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     26  1  2  1                        34  5 12  4
+
+Philadelphia     000 010 000 --  1
+Pittsburgh       100 121 00x --  5
+
+  Philadelphia         IP  H  R ER BB SO
+Myers B (L)           5.0  8  4  4  1  5
+Seanez R              1.0  2  1  1  1  0
+Madson R              1.0  1  0  0  1  2
+Condrey C             1.0  1  0  0  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (W)          9.0  2  1  1  4  2
+
+DP -- Philadelphia 1, Pittsburgh 2
+LOB -- Philadelphia 2, Pittsburgh 10
+2B -- Burrell P, Bautista J
+HR -- McLouth N 2
+SB -- Bautista J, Bay J
+CS -- Bruntlett E
+HBP -- by Condrey C (Sanchez F)
+WP -- Myers B
+T -- 2:17
+A -- 17588
+     Game of 5/6/2008 -- San Francisco at Pittsburgh (N)
+
+  San Francisco      AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Velez E, 2b           4  1  1  0   Sanchez F, 2b         4  2  3  2   
+Burriss E, ss         4  0  1  0   McLouth N, cf         5  2  3  3   
+Winn R, rf            3  0  1  0   Bay J, lf             3  1  0  0   
+Bowker J, rf          2  1  2  1   Morgan N, lf          1  0  0  0   
+Molina B, c           3  0  0  0   Doumit R, c           5  1  1  1   
+Holm S, c             2  0  0  0   Nady X, rf            4  1  2  2   
+Rowand A, cf          3  0  1  0   LaRoche A, 1b         3  2  1  2   
+Lewis F, cf           1  1  0  0   Bautista J, 3b        4  1  1  1   
+Aurilia R, 1b         4  2  3  1   Gomez C, ss           4  2  2  1   
+Castillo J, 3b        3  1  1  3   Duke Z, p             3  0  1  0   
+Ortmeier D, lf        4  0  2  1   Burnett S, p          0  0  0  0   
+Sanchez J, p          2  0  0  0   Capps M, p            0  0  0  0   
+Hennessey B, p        1  0  0  0                                      
+Valdez M, p           0  0  0  0                                      
+Chulk V, p            0  0  0  0                                      
+Bocock B, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6 12  6                        36 12 14 12
+
+San Francisco    000 000 141 --  6
+Pittsburgh       003 231 30x -- 12
+
+  San Francisco        IP  H  R ER BB SO
+Sanchez J (L)         4.1  6  7  7  3  4
+Hennessey B           2.1  7  5  5  2  2
+Valdez M              0.1  0  0  0  0  0
+Chulk V               1.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (W)            7.1  8  3  3  3  3
+Burnett S             0.2  2  2  2  0  0
+Capps M               1.0  2  1  1  0  1
+
+DP -- San Francisco 1, Pittsburgh 1
+LOB -- San Francisco 7, Pittsburgh 6
+2B -- Rowand A, Doumit R, Nady X, Aurilia R, Ortmeier D, Bautista J, Bowker J
+3B -- Velez E
+HR -- McLouth N 2, LaRoche A, Castillo J
+CS -- Velez E
+SH -- Duke Z
+WP -- Sanchez J, Burnett S
+PB -- Molina B
+T -- 2:55
+A -- 12030
+     Game of 5/7/2008 -- San Francisco at Pittsburgh (N)
+
+  San Francisco      AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Lewis F, lf           4  0  0  0   Sanchez F, 2b         4  0  1  0   
+Winn R, rf            4  1  2  0   Bautista J, 3b        3  0  1  0   
+Rowand A, cf          4  0  1  0   McLouth N, cf         3  1  1  0   
+Molina B, c           4  0  2  1   Bay J, lf             3  1  2  0   
+Aurilia R, 1b         3  0  0  0   Nady X, rf            4  1  1  2   
+Castillo J, 3b        4  0  1  0   LaRoche A, 1b         4  0  1  0   
+Burriss E, 2b         2  0  0  0   Paulino R, c          2  0  0  0   
+Velez E, ph-2b        1  0  0  0   Bixler B, ss          3  0  1  0   
+Bocock B, ss          3  0  0  0   Dumatrait P, p        2  0  0  0   
+Zito B, p             1  0  0  0   Yates T, p            0  0  0  0   
+Ortmeier D, ph        1  0  1  0   Rivas L, ph           1  0  0  0   
+Yabu K, p             0  0  0  0   Marte D, p            0  0  0  0   
+Holm S, ph            1  0  0  0   Capps M, p            0  0  0  0   
+Walker T, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  7  1                        29  3  8  2
+
+San Francisco    000 000 001 --  1
+Pittsburgh       000 200 01x --  3
+
+  San Francisco        IP  H  R ER BB SO
+Zito B (L)            5.0  5  2  2  2  5
+Yabu K                2.0  1  0  0  1  2
+Walker T              1.0  2  1  1  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Dumatrait P (W)       5.2  3  0  0  1  5
+Yates T               1.1  1  0  0  0  1
+Marte D               1.0  0  0  0  0  3
+Capps M (S)           1.0  3  1  1  0  0
+
+E -- Bocock B
+DP -- San Francisco 4, Pittsburgh 2
+LOB -- San Francisco 5, Pittsburgh 6
+2B -- Sanchez F, Ortmeier D, Castillo J
+3B -- McLouth N
+HR -- Nady X
+HBP -- by Zito B (McLouth N)
+WP -- Yabu K
+T -- 2:34
+A -- 9788
+     Game of 5/8/2008 -- San Francisco at Pittsburgh (D)
+
+  San Francisco      AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Velez E, 2b           4  0  0  0   Sanchez F, 2b         5  2  3  0   
+Castillo J, 3b        4  0  0  0   McLouth N, cf         4  0  0  1   
+Bowker J, ph          1  0  0  0   Bay J, lf             4  1  3  1   
+Winn R, rf            4  0  1  0   Doumit R, c           4  0  1  2   
+Rowand A, cf          2  1  1  0   Nady X, rf            3  0  1  0   
+Aurilia R, 1b         3  0  0  0   Grabow J, p           0  0  0  0   
+Ortmeier D, lf        4  1  2  0   Yates T, p            0  0  0  0   
+Burriss E, ss         3  1  1  1   Capps M, p            0  0  0  0   
+Molina B, ph          1  0  0  0   LaRoche A, 1b         4  0  1  1   
+Bocock B, ss          0  0  0  0   Bautista J, 3b        4  0  0  0   
+Holm S, c             4  1  1  2   Bixler B, ss          3  0  0  0   
+Cain M, p             3  0  2  1   Maholm P, p           1  1  0  0   
+Taschner J, p         0  0  0  0   Osoria F, p           0  0  0  0   
+Chulk V, p            0  0  0  0   Morgan N, ph-rf       2  1  1  0   
+Sadler B, p           0  0  0  0                                      
+Lewis F, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  8  4                        34  5 10  5
+
+San Francisco    000 400 000 --  4
+Pittsburgh       002 000 30x --  5
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (L)            6.1  9  5  5  1  5
+Taschner J            0.1  1  0  0  1  0
+Chulk V               0.2  0  0  0  1  0
+Sadler B              0.2  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P              6.0  6  4  4  2  4
+Osoria F (W)          1.0  1  0  0  0  0
+Grabow J              0.2  1  0  0  1  1
+Yates T               0.1  0  0  0  0  0
+Capps M (S)           1.0  0  0  0  1  1
+
+E -- Aurilia R
+LOB -- San Francisco 7, Pittsburgh 9
+2B -- Sanchez F 2, Holm S, Cain M, Bay J
+SB -- Velez E
+CS -- Ortmeier D
+SF -- McLouth N
+WP -- Taschner J
+T -- 3:11
+A -- 16816
+     Game of 5/9/2008 -- Atlanta at Pittsburgh (N)
+
+  Atlanta            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Johnson K, 2b         3  0  0  0   Sanchez F, 2b         4  0  2  3   
+Escobar Y, ss         5  0  0  0   McLouth N, cf         4  0  0  0   
+Jones C, 3b           2  1  0  0   Bay J, lf             3  0  0  0   
+Teixeira M, 1b        3  1  1  0   Doumit R, c           4  0  2  0   
+McCann B, c           3  0  3  0   Nady X, rf            4  1  1  0   
+Gotay R, pr           0  0  0  0   LaRoche A, 1b         3  1  0  0   
+Miller C, c           0  0  0  0   Bautista J, 3b        2  0  1  0   
+Francoeur J, rf       4  0  1  2   Bixler B, ss          3  1  1  0   
+Kotsay M, cf          4  0  0  0   Snell I, p            2  0  1  0   
+Blanco G, lf          4  0  1  0   Michaels J, ph        1  0  0  0   
+Glavine T, p          3  0  0  0   Marte D, p            0  0  0  0   
+Ring R, p             0  0  0  0   Yates T, p            0  0  0  0   
+Boyer B, p            0  0  0  0   Grabow J, p           0  0  0  0   
+Norton G, ph          0  0  0  0   Mientkiewicz D, ph    1  0  1  0   
+Ohman W, p            0  0  0  0                                      
+Bennett J, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        31  3  9  3
+
+Atlanta          000 001 010 --  2
+Pittsburgh       000 000 201 --  3
+  2 outs when winning run was scored.
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T             7.0  5  2  2  4  3
+Ring R                0.1  0  0  0  0  0
+Boyer B               0.2  1  0  0  0  0
+Ohman W               0.1  0  0  0  0  0
+Bennett J (L)         0.1  3  1  1  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I               7.0  2  1  1  6  5
+Marte D               0.2  2  1  1  0  0
+Yates T*              0.1  2  0  0  1  0
+Grabow J (W)          1.0  0  0  0  0  1
+  * Pitched to 2 batters in 9th
+
+DP -- Atlanta 1, Pittsburgh 2
+LOB -- Atlanta 9, Pittsburgh 8
+2B -- McCann B, Snell I, Nady X, Sanchez F, Doumit R
+SB -- Johnson K
+SH -- Sanchez F, Bautista J
+T -- 2:55
+A -- 21050
+     Game of 5/10/2008 -- Atlanta at Pittsburgh (N)
+
+  Atlanta            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Infante O, 2b         4  0  3  0   Sanchez F, 2b         4  0  0  0   
+Escobar Y, ss         4  0  1  0   Bautista J, 3b        4  0  0  0   
+Jones C, 3b           4  1  0  0   Michaels J, cf        4  2  3  0   
+Teixeira M, 1b        3  1  2  2   Bay J, lf             4  2  2  2   
+Francoeur J, rf       3  0  0  0   Nady X, rf            4  0  0  0   
+McCann B, c           3  0  0  0   LaRoche A, 1b         2  1  0  0   
+Diaz M, lf            3  0  0  0   Paulino R, c          3  0  1  3   
+Campillo J, p         0  0  0  0   Bixler B, ss          2  0  0  0   
+Kotsay M, cf          3  0  1  0   Gorzelanny T, p       2  0  0  0   
+James C, p            2  0  0  0   Osoria F, p           0  0  0  0   
+Norton G, lf          1  0  0  0   Capps M, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  7  2                        29  5  6  5
+
+Atlanta          200 000 000 --  2
+Pittsburgh       010 202 00x --  5
+
+  Atlanta              IP  H  R ER BB SO
+James C (L)           6.0  5  5  5  4  7
+Campillo J            2.0  1  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Gorzelanny T (W)      7.1  7  2  2  2  4
+Osoria F              0.2  0  0  0  0  0
+Capps M (S)           1.0  0  0  0  0  0
+
+DP -- Pittsburgh 4
+LOB -- Atlanta 3, Pittsburgh 5
+2B -- Infante O, Bay J, Paulino R
+HR -- Teixeira M, Bay J
+SB -- LaRoche A, Bay J
+SF -- Paulino R
+T -- 2:10
+A -- 28141
+     Game of 5/12/2008, game 1 -- Atlanta at Pittsburgh (D)
+
+  Atlanta            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Infante O, 2b         5  0  0  0   Sanchez F, 2b         3  0  1  3   
+Acosta M, p           0  0  0  0   McLouth N, cf         3  0  0  0   
+Escobar Y, ss         5  0  1  0   Bay J, lf             4  0  0  0   
+Jones C, 3b           4  0  3  0   Doumit R, c           3  1  2  0   
+Teixeira M, 1b        2  0  0  0   Michaels J, rf        2  1  0  0   
+Norton G, 1b          2  0  0  0   LaRoche A, 1b         3  2  2  2   
+Francoeur J, rf       5  0  2  0   Bautista J, 3b        1  0  0  0   
+Diaz M, lf            5  0  0  0   Marte D, p            0  0  0  0   
+Miller C, c           3  0  0  0   Mientkiewicz D, ph    1  0  0  0   
+Blanco G, cf          2  0  2  0   Burnett S, p          0  0  0  0   
+Jurrjens J, p         2  0  0  0   Bixler B, ss          3  1  0  0   
+Gotay R, ph           0  0  0  0   Duke Z, p             2  0  0  0   
+Bennett J, p          0  0  0  0   Gomez C, 3b           1  0  0  0   
+Johnson K, ph-2b      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  0  8  0                        26  5  5  5
+
+Atlanta          000 000 000 --  0
+Pittsburgh       000 030 02x --  5
+
+  Atlanta              IP  H  R ER BB SO
+Jurrjens J (L)        5.0  3  3  3  3  5
+Bennett J             2.0  0  0  0  3  1
+Acosta M              1.0  2  2  2  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (W)            6.0  5  0  0  5  3
+Marte D               2.0  2  0  0  0  3
+Burnett S             1.0  1  0  0  1  1
+
+E -- Sanchez F, Bautista J, Michaels J, Gomez C
+DP -- Atlanta 2, Pittsburgh 1
+LOB -- Atlanta 15, Pittsburgh 6
+2B -- Jones C, Sanchez F, Doumit R
+HR -- LaRoche A
+SH -- Bautista J
+HBP -- by Jurrjens J (Bixler B), by Bennett J (Michaels J)
+PB -- Miller C
+T -- 2:34
+A -- 0
+     Game of 5/12/2008, game 2 -- Atlanta at Pittsburgh (D)
+
+  Atlanta            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Johnson K, 2b         5  1  2  0   Sanchez F, 2b         4  0  0  0   
+Escobar Y, ss         4  1  2  1   Yates T, p            0  0  0  0   
+Jones C, 3b           4  1  1  1   Mientkiewicz , 3b-1b  4  1  1  0   
+Infante O, ph-3b      1  0  0  0   McLouth N, cf         4  0  1  0   
+McCann B, c           5  1  1  3   Bay J, lf             3  0  0  0   
+Norton G, 1b          3  1  1  0   Nady X, rf            4  0  2  0   
+Francoeur J, rf       5  2  3  0   LaRoche A, 1b         3  0  0  0   
+Kotsay M, cf          5  0  3  3   Gomez C, 3b           1  0  0  0   
+Blanco G, lf          5  1  1  0   Paulino R, c          4  0  0  0   
+Hudson T, p           4  0  0  0   Rivas L, ss-2b        2  0  1  0   
+Boyer B, p            0  0  0  0   Van Benschoten J, p   1  0  0  0   
+Ohman W, p            0  0  0  0   Osoria F, p           0  0  0  0   
+                                   Bixler B, ph-ss       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  8 14  8                        31  1  5  0
+
+Atlanta          001 240 100 --  8
+Pittsburgh       100 000 000 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (W)          7.0  2  1  0  2  5
+Boyer B               1.0  1  0  0  0  2
+Ohman W               1.0  2  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Van Benschoten J (L)*  4.0  9  7  6  2  5
+Osoria F              4.0  4  1  1  0  1
+Yates T               1.0  1  0  0  1  0
+  * Pitched to 5 batters in 5th
+
+E -- Norton G, Mientkiewicz D, Osoria F
+DP -- Atlanta 1, Pittsburgh 2
+LOB -- Atlanta 9, Pittsburgh 6
+2B -- Escobar Y, Mientkiewicz D, Kotsay M 2, Johnson K, Francoeur J
+HR -- McCann B
+SB -- Blanco G
+SH -- Osoria F
+T -- 2:40
+A -- 16669
+     Game of 5/20/2008 -- Milwaukee at Pittsburgh (N)
+
+  Milwaukee          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Weeks R, 2b           4  2  2  0   Sanchez F, 2b         4  0  1  0   
+Cameron M, cf         4  1  3  2   Bautista J, 3b        3  0  0  0   
+Braun R, lf           5  0  2  1   McLouth N, cf         4  1  0  0   
+Fielder P, 1b         5  0  0  0   Bay J, lf             3  1  1  2   
+Hart C, rf            5  2  2  1   Nady X, rf            4  0  2  0   
+Hardy J, ss           4  1  2  0   LaRoche A, 1b         3  0  0  0   
+Hall B, 3b            3  1  2  1   Paulino R, c          4  0  1  0   
+Parra M, p            3  0  0  0   Bixler B, ss          4  0  1  0   
+McClung S, p          0  0  0  0   Maholm P, p           2  0  0  0   
+Kapler G, ph          1  0  0  0   Burnett S, p          0  0  0  0   
+Mota G, p             0  0  0  0   Rivas L, ph           1  0  0  0   
+Gagne E, p            0  0  0  0   Salas M, p            0  0  0  0   
+Torres S, p           0  0  0  0                                      
+Kendall J, c          4  0  1  2                                      
+                     -- -- -- --                        -- -- -- --
+                     38  7 14  7                        32  2  6  2
+
+Milwaukee        010 010 221 --  7
+Pittsburgh       000 000 002 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Parra M (W)           5.2  4  0  0  1  6
+McClung S             1.1  0  0  0  0  0
+Mota G                1.0  0  0  0  0  2
+Gagne E               0.2  2  2  2  2  0
+Torres S              0.1  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (L)          6.1  9  4  4  2  5
+Burnett S             1.2  3  2  2  1  2
+Salas M               1.0  2  1  1  0  2
+
+E -- Hall B
+DP -- Milwaukee 1, Pittsburgh 2
+LOB -- Milwaukee 9, Pittsburgh 6
+2B -- Sanchez F, Hall B
+HR -- Cameron M, Hart C, Bay J
+CS -- Cameron M
+HBP -- by Maholm P (Hall B), by Maholm P (Weeks R)
+WP -- Parra M
+T -- 3:09
+A -- 11761
+     Game of 5/21/2008 -- Milwaukee at Pittsburgh (N)
+
+  Milwaukee          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Weeks R, 2b           5  2  2  1   Sanchez F, 2b         5  0  1  0   
+Cameron M, cf         5  0  1  0   McLouth N, cf         4  0  1  0   
+Braun R, lf           5  1  2  1   Bay J, lf             4  0  1  0   
+Fielder P, 1b         5  0  1  0   LaRoche A, 1b         4  0  2  0   
+Hart C, rf            5  1  2  1   Nady X, rf            4  1  2  1   
+Hardy J, ss           2  0  1  1   Mientkiewicz D, 3b    4  0  1  0   
+Counsell C, 3b        4  0  0  0   Paulino R, c          4  0  1  0   
+Sheets B, p           4  0  1  0   Gomez C, ss           4  0  2  0   
+Kendall J, c          4  0  1  0   Snell I, p            2  0  0  0   
+                                   Osoria F, p           0  0  0  0   
+                                   Bautista J, ph        1  0  0  0   
+                                   Grabow J, p           0  0  0  0   
+                                   Capps M, p            0  0  0  0   
+                                   Michaels J, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  4 11  4                        37  1 11  1
+
+Milwaukee        010 021 000 --  4
+Pittsburgh       000 100 000 --  1
+
+  Milwaukee            IP  H  R ER BB SO
+Sheets B (W)          9.0 11  1  1  0  6
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I (L)           6.0  9  4  2  2  6
+Osoria F              1.0  0  0  0  0  0
+Grabow J              1.0  1  0  0  0  2
+Capps M               1.0  1  0  0  0  0
+
+E -- LaRoche A
+DP -- Milwaukee 1
+LOB -- Milwaukee 10, Pittsburgh 9
+2B -- Hart C, McLouth N, Paulino R, LaRoche A
+3B -- Braun R
+HR -- Nady X, Weeks R
+SB -- Weeks R, Cameron M
+T -- 2:31
+A -- 8805
+     Game of 5/22/2008 -- Milwaukee at Pittsburgh (N)
+
+  Milwaukee          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Weeks R, 2b           3  1  1  1   Sanchez F, 2b         5  0  0  0   
+Cameron M, cf         5  0  1  0   Mientkiewicz D, 3b    5  0  0  0   
+Braun R, lf           4  0  1  0   Osoria F, p           0  0  0  0   
+Fielder P, 1b         4  0  2  0   McLouth N, cf         4  3  4  0   
+Hart C, rf            4  1  1  1   Bay J, lf             4  2  2  2   
+Hardy J, ss           5  1  1  0   Nady X, rf            3  2  2  1   
+Hall B, 3b            5  1  3  0   LaRoche A, 1b         4  1  2  0   
+Bush D, p             2  0  1  0   Gomez C, ss           4  0  1  2   
+Kapler G, ph          1  0  1  1   Chavez R, c           4  0  1  1   
+DiFelice M, p         0  0  0  0   Gorzelanny T, p       2  0  1  1   
+Dillon J, ph          1  0  1  1   Yates T, p            0  0  0  0   
+Jackson Z, p          0  0  0  0   Rivas L, ph           1  0  0  0   
+Gwynn T, ph           1  0  0  0   Marte D, p            0  0  0  0   
+Kendall J, c          5  0  1  0   Grabow J, p           0  0  0  0   
+                                   Bautista J, ph-3b     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  4 14  4                        37  8 13  7
+
+Milwaukee        000 101 110 --  4
+Pittsburgh       000 420 20x --  8
+
+  Milwaukee            IP  H  R ER BB SO
+Bush D (L)            5.0  9  6  6  0  1
+DiFelice M            1.0  0  0  0  0  1
+Jackson Z             2.0  4  2  2  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Gorzelanny T (W)*     5.0  8  2  2  4  2
+Yates T               1.0  0  0  0  1  1
+Marte D               1.0  4  1  1  0  0
+Grabow J              1.0  2  1  1  0  1
+Osoria F              1.0  0  0  0  0  1
+  * Pitched to 2 batters in 6th
+
+E -- Fielder P, Mientkiewicz D
+DP -- Pittsburgh 2
+LOB -- Milwaukee 14, Pittsburgh 6
+2B -- LaRoche A, Hall B
+HR -- Hart C, Bay J, Nady X, Weeks R
+SB -- Hall B, Hart C, McLouth N
+HBP -- by Bush D (Nady X)
+T -- 2:47
+A -- 12887
+     Game of 5/23/2008 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Soriano A, lf         4  1  2  0   Sanchez F, 2b         3  1  1  0   
+Hoffpauir M, lf       2  0  1  0   Rivas L, ph-2b        1  0  0  0   
+Theriot R, ss         5  0  1  0   McLouth N, cf         4  1  2  2   
+Lee D, 1b             6  1  1  2   Bay J, lf             3  0  2  0   
+Ramirez A, 3b         4  3  3  0   Michaels J, lf        1  0  0  0   
+Blanco H, ph-c        1  0  0  0   LaRoche A, 1b         3  0  1  1   
+Soto G, c             4  0  0  0   Nady X, rf            4  0  0  0   
+Fontenot M, 2b        0  0  0  0   Mientkiewicz D, 3b    2  0  0  0   
+Cedeno R, 2b-3b       5  2  2  0   Salas M, p            0  0  0  0   
+DeRosa M, rf          3  2  2  3   Chavez R, ph          1  0  0  0   
+Johnson R, cf         5  2  3  4   Paulino R, c          4  0  0  0   
+Zambrano C, p         5  1  4  2   Gomez C, ss           4  1  2  0   
+Ascanio J, p          0  0  0  0   Duke Z, p             1  0  0  0   
+Wood K, p             0  0  0  0   Burnett S, p          1  0  0  0   
+                                   Bautista J, 3b        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     44 12 19 11                        34  3  8  3
+
+Chicago          211 131 030 -- 12
+Pittsburgh       000 020 010 --  3
+
+  Chicago              IP  H  R ER BB SO
+Zambrano C (W)        7.0  6  2  2  1  6
+Ascanio J             1.0  1  1  1  0  0
+Wood K                1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (L)            4.0 10  5  4  0  1
+Burnett S             2.0  4  4  4  4  1
+Salas M               3.0  5  3  3  0  1
+
+E -- Mientkiewicz D, Gomez C
+DP -- Pittsburgh 3
+LOB -- Chicago 10, Pittsburgh 6
+2B -- Soriano A, Johnson R 2, DeRosa M 2, Cedeno R, LaRoche A, McLouth N
+3B -- Bay J, McLouth N
+HR -- Johnson R
+SF -- DeRosa M, LaRoche A
+T -- 2:45
+A -- 32656
+     Game of 5/24/2008 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Soriano A, lf         7  0  1  0   Sanchez F, 2b         6  1  1  0   
+Theriot R, ss         6  1  1  0   Rivas L, ss-3b-ss     6  0  1  1   
+Lee D, 1b             5  2  2  0   McLouth N, cf         4  1  1  0   
+Wuertz M, p           1  0  0  0   Bay J, lf             6  2  4  3   
+Ramirez A, 3b         6  1  1  2   LaRoche A, 1b         6  0  2  0   
+Soto G, c             5  0  2  1   Michaels J, rf        5  0  2  1   
+Fukudome K, rf        4  0  2  1   Bautista J, 3b        3  0  0  0   
+DeRosa M, 2b          3  0  1  0   Capps M, p            1  0  0  0   
+Howry B, p            0  0  0  0   Grabow J, p           1  0  0  0   
+Hoffpauir M, ph       1  0  0  0   Chavez R, c           3  0  0  0   
+Marmol C, p           0  0  0  0   Mientkiewicz , ph-3b  2  1  0  0   
+Wood K, p             0  0  0  0   Dumatrait P, p        2  0  0  0   
+Edmonds J, ph         1  0  0  0   Osoria F, p           0  0  0  0   
+Lieber J, p           0  0  0  0   Marte D, p            0  0  0  0   
+Eyre S, p             0  0  0  0   Gomez C, ph           1  0  1  0   
+Blanco H, 1b          1  0  0  0   Yates T, p            0  0  0  0   
+Johnson R, cf         5  0  0  0   Bixler B, ss          0  0  0  0   
+Marquis J, p          1  0  0  0   Nady X, ph            1  0  1  0   
+Fontenot M, 2b        0  0  0  0   Paulino R, c          2  0  0  0   
+Cedeno R, ph-2b       4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     50  4 11  4                        49  5 13  5
+
+Chicago          000 100 030 000 00 --  4
+Pittsburgh       000 201 001 000 01 --  5
+  1 out when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Marquis J             5.1  7  3  3  3  2
+Howry B               1.2  2  0  0  0  1
+Marmol C              1.0  0  0  0  1  3
+Wood K                2.0  1  1  1  1  2
+Lieber J              1.1  2  0  0  0  1
+Eyre S                0.1  0  0  0  0  1
+Wuertz M (L)          1.2  1  1  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Dumatrait P           5.2  5  1  1  3  2
+Osoria F              0.1  0  0  0  0  1
+Marte D               1.0  0  0  0  0  1
+Yates T               1.0  3  3  3  2  1
+Capps M               3.0  2  0  0  0  2
+Grabow J (W)          3.0  1  0  0  2  2
+
+E -- Theriot R
+DP -- Chicago 3, Pittsburgh 2
+LOB -- Chicago 11, Pittsburgh 13
+2B -- Lee D, Soto G, Ramirez A, Soriano A
+HR -- Bay J
+SB -- Bay J
+CS -- Theriot R
+SH -- Sanchez F
+SF -- Rivas L
+HBP -- by Wood K (Mientkiewicz D)
+WP -- Marquis J, Wuertz M
+T -- 4:21
+A -- 29929
+     Game of 5/25/2008 -- Chicago at Pittsburgh (D)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Soriano A, lf         4  1  1  2   Sanchez F, 2b         4  0  0  0   
+Theriot R, ss         4  1  0  0   Bixler B, pr-ss       0  1  0  0   
+Lee D, 1b             5  1  2  0   Rivas L, ss-2b        5  2  2  2   
+Ramirez A, 3b         5  0  2  2   McLouth N, cf         5  0  3  1   
+Johnson R, cf         3  0  1  0   Bay J, lf             5  0  2  1   
+Edmonds J, ph-cf      1  0  0  0   Nady X, rf            5  1  1  1   
+Fukudome K, rf        5  0  0  0   LaRoche A, 1b         5  1  2  0   
+DeRosa M, 2b          5  1  2  0   Bautista J, 3b        4  0  2  1   
+Blanco H, c           5  1  2  1   Osoria F, p           0  0  0  0   
+Lilly T, p            2  0  0  0   Michaels J, ph        1  0  0  0   
+Cedeno R, ph          1  0  0  0   Marte D, p            0  0  0  0   
+Ascanio J, p          0  0  0  0   Paulino R, c          4  0  0  0   
+Eyre S, p             0  0  0  0   Maholm P, p           3  0  1  0   
+Howry B, p            0  0  0  0   Gomez C, 3b           2  1  1  0   
+Hoffpauir M, ph       1  0  0  0                                      
+Marmol C, p           0  0  0  0                                      
+Soto G, ph            1  0  0  0                                      
+Lieber J, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42  5 10  5                        43  6 14  6
+
+Chicago          004 000 010 00 --  5
+Pittsburgh       111 001 001 01 --  6
+  2 outs when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Lilly T               6.0 10  4  4  2  2
+Ascanio J             1.0  1  0  0  0  1
+Eyre S                0.1  0  0  0  0  0
+Howry B               0.2  0  0  0  0  1
+Marmol C              2.0  1  1  1  2  2
+Lieber J (L)          0.2  2  1  1  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P              8.0  8  5  5  2  7
+Osoria F              2.0  1  0  0  1  2
+Marte D (W)           1.0  1  0  0  0  2
+
+E -- Blanco H
+DP -- Chicago 2, Pittsburgh 1
+LOB -- Chicago 7, Pittsburgh 11
+2B -- DeRosa M, Lee D 2, LaRoche A 2, Bay J, McLouth N
+HR -- Rivas L 2, Nady X, Soriano A
+CS -- Johnson R
+SH -- Bixler B
+T -- 3:26
+A -- 29415
+     Game of 6/3/2008 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Bourn M, cf           5  0  1  0   McLouth N, cf         4  0  1  0   
+Matsui K, 2b          4  2  4  0   Wilson J, ss          4  0  2  0   
+Tejada M, ss          5  0  1  1   Sanchez F, 2b         4  0  1  0   
+Berkman L, 1b         4  0  1  1   Bay J, lf             4  0  0  0   
+Lee C, lf             3  0  1  0   Nady X, rf            3  0  0  0   
+Erstad D, lf          0  0  0  0   LaRoche A, 1b         4  0  0  0   
+Pence H, rf           3  0  1  0   Bautista J, 3b        3  0  0  0   
+Wigginton T, 3b       2  0  0  0   Chavez R, c           3  0  1  0   
+Ausmus B, c           3  0  0  0   Dumatrait P, p        2  0  0  0   
+Rodriguez W, p        2  0  0  0   Grabow J, p           0  0  0  0   
+Cruz J, ph            1  0  1  0   Gomez C, ph           1  0  0  0   
+Sampson C, p          0  0  0  0   Yates T, p            0  0  0  0   
+Blum G, ph            1  0  0  0                                      
+Brocail D, p          0  0  0  0                                      
+Valverde J, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2 10  2                        32  0  5  0
+
+Houston          100 001 000 --  2
+Pittsburgh       000 000 000 --  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)       6.0  5  0  0  1  3
+Sampson C             1.0  0  0  0  0  0
+Brocail D             1.0  0  0  0  0  1
+Valverde J (S)        1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Dumatrait P (L)       6.0  7  2  2  3  4
+Grabow J              1.0  2  0  0  1  0
+Yates T               2.0  1  0  0  2  2
+
+DP -- Pittsburgh 1
+LOB -- Houston 11, Pittsburgh 6
+2B -- Berkman L, Wilson J, Tejada M
+CS -- Matsui K, Pence H
+SH -- Matsui K
+T -- 2:44
+A -- 13183
+     Game of 6/4/2008 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Bourn M, cf           4  0  1  0   Wilson J, ss          4  1  1  0   
+Matsui K, 2b          4  0  1  0   Sanchez F, 2b         4  0  2  0   
+Tejada M, ss          2  1  0  0   McLouth N, cf         4  0  1  1   
+Berkman L, 1b         4  0  2  0   Bay J, lf             3  1  1  0   
+Lee C, lf             4  0  1  1   Nady X, rf            3  1  2  0   
+Pence H, rf           4  0  1  0   LaRoche A, 1b         3  2  1  1   
+Wigginton T, 3b       4  1  1  1   Bautista J, 3b        3  0  1  0   
+Ausmus B, c           3  0  1  0   Chavez R, c           3  0  1  3   
+Erstad D, ph          1  0  0  0   Duke Z, p             3  0  0  0   
+Oswalt R, p           2  0  0  0   Marte D, p            0  0  0  0   
+Loretta M, ph         1  0  0  0   Mientkiewicz D, ph    1  0  0  0   
+Geary G, p            0  0  0  0   Capps M, p            0  0  0  0   
+Byrdak T, p           0  0  0  0                                      
+Villarreal O, p       0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        31  5 10  5
+
+Houston          001 001 000 --  2
+Pittsburgh       000 310 01x --  5
+
+  Houston              IP  H  R ER BB SO
+Oswalt R (L)          6.0  9  4  3  1  4
+Geary G               1.0  1  0  0  0  2
+Byrdak T              0.1  0  1  1  1  0
+Villarreal O          0.2  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (W)            7.2  7  2  2  2  2
+Marte D               0.1  1  0  0  0  0
+Capps M (S)           1.0  0  0  0  0  2
+
+E -- Wigginton T, Berkman L
+DP -- Houston 1, Pittsburgh 1
+LOB -- Houston 6, Pittsburgh 7
+HR -- Wigginton T
+SB -- Tejada M
+CS -- Bourn M
+SH -- Bautista J
+SF -- Chavez R
+HBP -- by Oswalt R (Nady X)
+WP -- Villarreal O
+T -- 2:31
+A -- 9392
+     Game of 6/5/2008 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Pence H, rf           4  1  1  1   Wilson J, ss          4  1  2  0   
+Matsui K, 2b          4  0  0  0   Sanchez F, 2b         4  0  0  0   
+Tejada M, ss          4  0  0  0   McLouth N, cf         4  1  1  0   
+Berkman L, 1b         4  0  1  0   Bay J, lf             3  1  1  1   
+Lee C, lf             4  0  0  0   Michaels J, rf        3  1  1  3   
+Wigginton T, 3b       3  1  2  0   LaRoche A, 1b         4  0  1  0   
+Cruz J, cf            4  0  0  0   Bautista J, 3b        4  0  1  0   
+Ausmus B, c           3  1  2  0   Chavez R, c           4  0  1  0   
+Erstad D, ph          1  0  0  0   Maholm P, p           3  0  1  0   
+Backe B, p            2  0  1  1   Capps M, p            0  0  0  0   
+Loretta M, ph         1  0  1  0                                      
+Bourn M, pr           0  0  0  0                                      
+Sampson C, p          0  0  0  0                                      
+Brocail D, p          0  0  0  0                                      
+Blum G, ph            1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  2                        33  4  9  4
+
+Houston          120 000 000 --  3
+Pittsburgh       300 010 00x --  4
+
+  Houston              IP  H  R ER BB SO
+Backe B (L)           6.0  9  4  4  2  2
+Sampson C             1.0  0  0  0  0  0
+Brocail D             1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (W)          8.0  8  3  2  0  1
+Capps M (S)           1.0  1  0  0  0  0
+
+E -- Wilson J, Matsui K
+LOB -- Houston 7, Pittsburgh 7
+2B -- Pence H, Chavez R, Loretta M
+3B -- Bay J
+HR -- Michaels J
+SF -- Pence H
+HBP -- by Capps M (Wigginton T)
+T -- 2:24
+A -- 10728
+     Game of 6/6/2008 -- Arizona at Pittsburgh (N)
+
+  Arizona            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Drew S, ss            5  0  1  1   McLouth N, cf         3  0  0  0   
+Young C, cf           5  1  1  0   Sanchez F, 2b         3  1  2  0   
+Hudson O, 2b          2  0  1  1   Bay J, lf             4  0  1  1   
+Tracy C, 1b           3  0  1  0   Doumit R, c           4  0  0  0   
+Reynolds M, 3b        4  0  1  0   Nady X, rf            4  0  1  0   
+Upton J, rf           3  1  0  0   LaRoche A, 1b         4  0  0  0   
+Lyon B, p             0  0  0  0   Bautista J, 3b        2  0  1  0   
+Salazar J, lf-rf      2  1  0  0   Osoria F, p           0  0  0  0   
+Snyder C, c           4  0  0  0   Marte D, p            0  0  0  0   
+Webb B, p             3  0  1  1   Mientkiewicz D, ph    1  0  0  0   
+Pena T, p             0  0  0  0   Yates T, p            0  0  0  0   
+Romero A, ph-lf       1  0  0  0   Michaels J, ph        1  0  1  0   
+                                   Wilson J, ss          4  0  0  0   
+                                   Snell I, p            1  0  0  0   
+                                   Gomez C, 3b           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        33  1  6  1
+
+Arizona          010 011 000 --  3
+Pittsburgh       000 001 000 --  1
+
+  Arizona              IP  H  R ER BB SO
+Webb B (W)            7.0  3  1  1  0  3
+Pena T                1.0  1  0  0  0  1
+Lyon B (S)            1.0  2  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I (L)           5.0  5  2  1  3  9
+Osoria F              1.1  1  1  1  1  0
+Marte D               0.2  0  0  0  0  1
+Yates T               2.0  0  0  0  0  0
+
+E -- Tracy C
+LOB -- Arizona 8, Pittsburgh 7
+2B -- Hudson O, Drew S, Bay J
+3B -- Young C
+SB -- McLouth N
+SH -- Sanchez F
+SF -- Hudson O
+HBP -- by Webb B (McLouth N), by Osoria F (Upton J)
+PB -- Doumit R
+T -- 2:48
+A -- 19437
+     Game of 6/7/2008 -- Arizona at Pittsburgh (N)
+
+  Arizona            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Burke C, lf           4  1  0  0   McLouth N, cf         4  1  2  2   
+Drew S, ss            3  0  1  0   Sanchez F, 2b         4  0  0  0   
+Hudson O, 2b          2  1  0  0   Bay J, lf             4  1  1  1   
+Jackson C, 1b         4  1  1  1   Doumit R, c           4  0  1  0   
+Young C, cf           4  0  2  1   Rivas L, pr           0  0  0  0   
+Reynolds M, 3b        3  0  0  1   Michaels J, rf        4  0  0  0   
+Cruz J, p             0  0  0  0   Mientkiewicz D, 3b    3  0  1  0   
+Lyon B, p             0  0  0  0   LaRoche A, 1b         3  1  1  0   
+Snyder C, c           4  1  1  1   Wilson J, ss          3  0  0  0   
+Upton J, rf           4  0  0  0   Gorzelanny T, p       1  0  0  0   
+Haren D, p            3  0  1  0   Nady X, ph            1  0  0  0   
+Ojeda A, 3b           1  0  0  0   Grabow J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  6  4                        31  3  6  3
+
+Arizona          300 000 001 --  4
+Pittsburgh       001 110 000 --  3
+
+  Arizona              IP  H  R ER BB SO
+Haren D               7.0  5  3  3  1  6
+Cruz J (W)            1.0  0  0  0  0  1
+Lyon B (S)            1.0  1  0  0  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Gorzelanny T          7.0  5  3  3  3  1
+Grabow J (L)          2.0  1  1  1  0  0
+
+E -- Mientkiewicz D 2
+DP -- Pittsburgh 1
+LOB -- Arizona 6, Pittsburgh 4
+2B -- Young C 2, McLouth N, Mientkiewicz D, Haren D, LaRoche A
+HR -- Bay J, McLouth N, Snyder C
+CS -- Rivas L
+SH -- Drew S, Gorzelanny T
+SF -- Reynolds M
+PB -- Snyder C
+T -- 2:22
+A -- 20967
+     Game of 6/8/2008 -- Arizona at Pittsburgh (D)
+
+  Arizona            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Burke C, lf           3  0  0  0   Sanchez F, 2b         3  1  1  0   
+Salazar J, ph         1  0  0  0   Wilson J, ss          2  0  1  2   
+Ojeda A, ss           4  0  2  0   McLouth N, cf         4  1  0  0   
+Hudson O, 2b          5  0  0  0   Bay J, lf             4  0  1  2   
+Jackson C, 1b         3  2  2  0   Michaels J, rf        2  0  0  0   
+Young C, cf           3  0  0  0   Mientkiewicz , ph-rf  2  0  1  0   
+Snyder C, c           3  0  0  0   LaRoche A, 1b         4  1  3  0   
+Reynolds M, 3b        4  2  2  3   Bautista J, 3b        3  1  1  1   
+Romero A, rf          4  0  1  0   Marte D, p            0  0  0  0   
+Davis D, p            1  0  0  0   Osoria F, p           0  0  0  0   
+Scherzer M, p         1  0  0  0   Grabow J, p           0  0  0  0   
+Upton J, ph           1  0  0  0   Capps M, p            0  0  0  0   
+Qualls C, p           0  0  0  0   Chavez R, c           3  2  2  1   
+Slaten D, p           0  0  0  0   Dumatrait P, p        1  0  0  0   
+Drew S, ph            1  0  0  0   Yates T, p            0  0  0  0   
+                                   Gomez C, 3b           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  7  3                        29  6 10  6
+
+Arizona          010 010 020 --  4
+Pittsburgh       000 510 00x --  6
+
+  Arizona              IP  H  R ER BB SO
+Davis D (L)           3.2  7  5  5  4  0
+Scherzer M            2.1  3  1  1  2  2
+Qualls C              1.0  0  0  0  0  1
+Slaten D              1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Dumatrait P (W)       5.2  4  2  2  2  3
+Yates T               0.1  0  0  0  1  0
+Marte D               1.0  0  0  0  2  2
+Osoria F              0.2  2  2  2  0  0
+Grabow J              0.1  0  0  0  0  0
+Capps M (S)           1.0  1  0  0  0  1
+
+DP -- Arizona 1
+LOB -- Arizona 8, Pittsburgh 11
+2B -- Jackson C, LaRoche A, Bautista J, Bay J
+HR -- Reynolds M 2
+SB -- Burke C
+SH -- Wilson J, Dumatrait P 2
+SF -- Wilson J
+HBP -- by Scherzer M (Chavez R), by Scherzer M (Sanchez F)
+PB -- Chavez R
+T -- 3:17
+A -- 22222
+     Game of 6/9/2008 -- Arizona at Pittsburgh (D)
+
+  Arizona            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Burke C, lf           4  0  0  0   Rivas L, 2b           3  1  2  2   
+Romero A, ph          1  0  0  0   Wilson J, ss          3  1  1  1   
+Drew S, ss            5  1  1  1   Bay J, lf             4  0  0  0   
+Hudson O, 2b          4  0  0  0   Doumit R, c           4  0  0  0   
+Jackson C, 1b         3  0  0  0   Nady X, rf            4  0  1  1   
+Reynolds M, 3b        4  2  3  1   Yates T, p            0  0  0  0   
+Young C, cf           4  0  2  1   Capps M, p            0  0  0  0   
+Upton J, rf           1  0  1  0   Michaels J, cf-rf     3  1  0  0   
+Montero M, c          4  0  0  0   Mientkiewicz D, 1b    2  2  1  0   
+Johnson R, p          2  0  0  0   Bautista J, 3b        3  0  1  1   
+Cruz J, p             0  0  0  0   Duke Z, p             2  0  1  0   
+Owings M, ph          1  0  0  0   Marte D, p            0  0  0  0   
+Pena T, p             0  0  0  0   McLouth N, cf         1  0  0  0   
+Slaten D, p           0  0  0  0                                      
+Ojeda A, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  7  3                        29  5  7  5
+
+Arizona          000 100 110 --  3
+Pittsburgh       001 112 00x --  5
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (L)         5.2  6  5  4  5  3
+Cruz J                0.1  1  0  0  0  0
+Pena T                1.0  0  0  0  0  0
+Slaten D              1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (W)*           6.0  5  2  2  2  5
+Marte D               1.1  1  1  1  0  2
+Yates T               0.2  1  0  0  2  1
+Capps M (S)           1.0  0  0  0  0  0
+  * Pitched to 3 batters in 7th
+
+E -- Johnson R, Montero M, Reynolds M
+DP -- Arizona 1
+LOB -- Arizona 8, Pittsburgh 7
+2B -- Reynolds M 2, Young C
+HR -- Reynolds M, Drew S
+SB -- Wilson J
+SH -- Duke Z
+SF -- Bautista J
+T -- 2:44
+A -- 10717
+     Game of 6/10/2008 -- Washington at Pittsburgh (N)
+
+  Washington         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Guzman C, ss          5  0  2  0   McLouth N, cf         4  1  1  0   
+Dukes E, rf           5  1  2  0   Sanchez F, 2b         5  0  1  1   
+Milledge L, cf        5  1  2  2   Bay J, lf             3  2  1  0   
+Young D, 1b           4  1  3  1   Doumit R, c           4  3  4  3   
+Harris W, pr-3b       1  1  0  0   Nady X, rf            3  0  1  1   
+Boone A, 3b-1b        4  0  0  0   LaRoche A, 1b         4  0  0  0   
+Flores J, c           3  1  1  1   Bautista J, 3b        3  0  0  0   
+Belliard R, 2b        4  2  3  3   Grabow J, p           0  0  0  0   
+Pena W, lf            4  0  0  0   Osoria F, p           0  0  0  0   
+Ayala L, p            0  0  0  0   Michaels J, ph        0  0  0  0   
+Manning C, p          0  0  0  0   Mientkiewicz D, ph    0  0  0  1   
+Hanrahan J, p         0  0  0  0   Capps M, p            0  0  0  0   
+Rauch J, p            0  0  0  0   Wilson J, ss          4  0  2  0   
+Redding T, p          2  0  0  0   Maholm P, p           2  0  0  0   
+Lopez F, ph           1  0  1  0   Gomez C, 3b           2  0  0  0   
+Rivera S, p           0  0  0  0                                      
+Langerhans R, lf      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  7 14  7                        34  6 10  6
+
+Washington       000 010 312 --  7
+Pittsburgh       300 001 020 --  6
+
+  Washington           IP  H  R ER BB SO
+Redding T             6.0  8  4  4  1  3
+Rivera S              1.0  0  0  0  1  0
+Ayala L*              0.0  2  2  2  1  0
+Manning C             0.1  0  0  0  0  1
+Hanrahan J (W)        0.2  0  0  0  0  1
+Rauch J (S)           1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P              6.2 10  4  4  0  4
+Grabow J              1.0  1  1  1  1  1
+Osoria F              0.1  1  0  0  0  0
+Capps M (L)           1.0  2  2  2  0  1
+  * Pitched to 3 batters in 8th
+
+E -- Redding T
+DP -- Washington 2, Pittsburgh 1
+LOB -- Washington 6, Pittsburgh 5
+2B -- McLouth N, Doumit R 2, Young D, Dukes E 2, Guzman C
+HR -- Doumit R 2, Belliard R 2, Young D, Flores J, Milledge L
+SB -- McLouth N, Harris W
+CS -- Sanchez F
+SF -- Mientkiewicz D
+WP -- Redding T
+T -- 2:38
+A -- 12957
+     Game of 6/11/2008 -- Washington at Pittsburgh (N)
+
+  Washington         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Guzman C, ss          5  0  1  0   McLouth N, cf         5  1  1  0   
+Dukes E, rf           5  0  1  1   Sanchez F, 2b         5  1  2  0   
+Milledge L, cf        3  0  1  0   Bay J, lf             3  0  1  1   
+Young D, 1b           4  0  1  0   Doumit R, c           4  1  3  1   
+Flores J, c           3  0  1  0   Nady X, rf            4  0  1  1   
+Belliard R, 3b        3  0  1  0   LaRoche A, 1b         4  0  0  0   
+Lopez F, 2b           4  1  1  0   Bautista J, 3b        4  0  0  0   
+Harris W, lf          2  0  0  0   Wilson J, ss          4  0  1  0   
+Lannan J, p           2  0  0  0   Snell I, p            2  0  1  0   
+Casto K, ph           0  0  0  0   Marte D, p            0  0  0  0   
+Boone A, ph           1  0  0  0   Yates T, p            0  0  0  0   
+Hanrahan J, p         0  0  0  0   Mientkiewicz D, ph    0  0  0  0   
+Colome J, p           0  0  0  0   Capps M, p            0  0  0  0   
+Langerhans R, ph      0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  7  1                        35  3 10  3
+
+Washington       000 000 100 --  1
+Pittsburgh       100 010 10x --  3
+
+  Washington           IP  H  R ER BB SO
+Lannan J (L)          6.0  7  2  2  0  3
+Hanrahan J            1.0  3  1  1  1  3
+Colome J              1.0  0  0  0  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I (W)*          6.0  6  1  1  3  6
+Marte D               1.0  1  0  0  0  0
+Yates T               1.0  0  0  0  2  0
+Capps M (S)           1.0  0  0  0  1  0
+  * Pitched to 2 batters in 7th
+
+E -- Flores J, Belliard R
+DP -- Washington 1, Pittsburgh 2
+LOB -- Washington 10, Pittsburgh 11
+2B -- McLouth N, Bay J, Belliard R, Flores J, Lopez F
+HR -- Doumit R
+SH -- Snell I
+WP -- Lannan J
+T -- 2:39
+A -- 15439
+     Game of 6/12/2008 -- Washington at Pittsburgh (D)
+
+  Washington         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Guzman C, ss          5  1  3  3   McLouth N, cf         3  1  2  1   
+Dukes E, rf           4  0  2  2   Sanchez F, 2b         5  1  0  0   
+Milledge L, cf        4  0  0  0   Bay J, lf             4  0  0  1   
+Boone A, 1b           3  0  1  0   Doumit R, c           3  1  2  3   
+Manning C, p          0  0  0  0   Nady X, rf            4  0  0  0   
+Rivera S, p           0  0  0  0   Mientkiewicz D, 1b    3  1  2  0   
+Casto K, ph           1  0  0  0   Gomez C, 3b           3  2  2  0   
+Ayala L, p            0  0  0  0   Wilson J, ss          3  0  1  0   
+Flores J, c           1  0  0  0   Gorzelanny T, p       1  1  1  1   
+Belliard R, 3b-1b     4  0  0  0   Burnett S, p          0  0  0  0   
+Pena W, lf            5  1  1  0   Bautista J, ph        0  0  0  0   
+Lopez F, 2b           4  0  1  0   Osoria F, p           0  0  0  0   
+Nieves W, c           2  1  1  0   Yates T, p            0  0  0  0   
+Langerhans R, ph      1  1  1  0   Michaels J, ph        1  0  1  1   
+Rauch J, p            0  0  0  0   Marte D, p            0  0  0  0   
+Bergmann J, p         2  0  0  0                                      
+Sanches B, p          0  0  0  0                                      
+Young D, ph-1b        1  1  1  0                                      
+Harris W, pr-3b       0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  5 11  5                        30  7 11  7
+
+Washington       001 003 010 --  5
+Pittsburgh       220 020 01x --  7
+
+  Washington           IP  H  R ER BB SO
+Bergmann J (L)        4.2  8  6  4  1  2
+Sanches B             0.1  0  0  0  0  1
+Manning C             0.2  1  0  0  2  1
+Rivera S              0.1  0  0  0  0  0
+Ayala L               1.0  0  0  0  1  1
+Rauch J               1.0  2  1  1  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Gorzelanny T (W)      5.2  6  3  3  3  6
+Burnett S             0.1  2  1  1  1  0
+Osoria F              1.2  3  1  1  1  2
+Yates T               0.1  0  0  0  0  1
+Marte D (S)           1.0  0  0  0  0  1
+
+E -- Belliard R
+DP -- Washington 2
+LOB -- Washington 10, Pittsburgh 8
+2B -- Nieves W, McLouth N, Pena W, Gomez C, Michaels J
+3B -- Dukes E
+HR -- Doumit R
+SB -- Dukes E
+SH -- Gomez C, Wilson J
+SF -- McLouth N, Bay J
+T -- 2:59
+A -- 16306
+     Game of 6/20/2008 -- Toronto at Pittsburgh (N)
+
+  Toronto            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Scutaro M, 2b         4  0  0  0   Morgan N, rf          5  0  0  0   
+Overbay L, 1b         4  0  1  0   Sanchez F, 2b         5  0  2  0   
+Wilkerson B, pr-1b    1  0  0  0   McLouth N, cf         5  0  0  0   
+Rios A, rf            5  0  2  0   Bay J, lf             5  0  0  0   
+Wells V, cf           5  0  1  0   LaRoche A, 1b         5  0  1  0   
+Rolen S, 3b           4  0  0  0   Mientkiewicz D, 3b    4  1  3  0   
+Barajas R, c          4  0  1  0   Wilson J, ss          4  0  2  0   
+Mench K, lf           5  0  0  0   Chavez R, c           3  0  1  0   
+McDonald J, ss        5  0  2  0   Duke Z, p             1  0  0  0   
+Halladay R, p         3  0  0  0   Gomez C, ph           1  0  0  0   
+Downs S, p            0  0  0  0   Marte D, p            0  0  0  0   
+Stairs M, ph          1  0  1  0   Capps M, p            0  0  0  0   
+Wolfe B, p            0  0  0  0   Bautista J, ph        1  0  0  0   
+Ryan B, p             0  0  0  0   Yates T, p            0  0  0  0   
+Inglett J, ph         0  0  0  0   Michaels J, ph        1  0  0  0   
+Carlson J, p          0  0  0  0                                      
+Frasor J, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  0  8  0                        40  1  9  0
+
+Toronto          000 000 000 000 --  0
+Pittsburgh       000 000 000 001 --  1
+  0 outs when winning run was scored.
+
+  Toronto              IP  H  R ER BB SO
+Halladay R            7.0  6  0  0  2  7
+Downs S               2.0  0  0  0  0  2
+Wolfe B*              1.0  1  0  0  0  2
+Ryan B                1.0  0  0  0  0  2
+Carlson J (L)+        0.0  2  1  0  0  0
+Frasor J              0.0  0  0  0  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z                7.0  6  0  0  1  4
+Marte D               2.0  1  0  0  1  1
+Capps M               1.0  1  0  0  0  2
+Yates T (W)           2.0  0  0  0  1  1
+  * Pitched to 1 batter in 11th
+  + Pitched to 2 batters in 12th
+
+E -- McDonald J
+DP -- Toronto 1, Pittsburgh 2
+LOB -- Toronto 10, Pittsburgh 11
+2B -- Rios A 2, Mientkiewicz D
+SH -- Duke Z, Wilson J, Scutaro M
+HBP -- by Duke Z (Barajas R)
+T -- 3:31
+A -- 28962
+     Game of 6/21/2008 -- Toronto at Pittsburgh (N)
+
+  Toronto            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Scutaro M, 2b         4  0  1  0   Wilson J, ss          4  0  0  0   
+Overbay L, 1b         4  0  1  0   Sanchez F, 2b         4  0  0  0   
+Rios A, rf            4  0  0  0   McLouth N, cf         4  1  1  0   
+Wells V, cf           4  2  2  0   Bay J, lf             3  1  1  2   
+Rolen S, 3b           3  1  1  0   LaRoche A, 1b         3  0  0  0   
+Barajas R, c          4  0  2  2   Mientkiewicz D, rf    2  1  0  0   
+Mench K, lf           2  0  0  0   Bautista J, 3b        3  2  3  2   
+Inglett J, ph         1  0  0  0   Chavez R, c           3  1  1  2   
+Eckstein D, ss        3  0  1  0   Maholm P, p           2  0  0  0   
+Litsch J, p           2  0  0  0   Gomez C, ph           1  0  0  0   
+Wilkerson B, ph       1  0  0  0   Grabow J, p           0  0  0  0   
+Camp S, p             0  0  0  0   Capps M, p            0  0  0  0   
+Zaun G, ph            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  2                        29  6  6  6
+
+Toronto          000 102 000 --  3
+Pittsburgh       220 200 00x --  6
+
+  Toronto              IP  H  R ER BB SO
+Litsch J (L)          6.0  5  6  6  1  2
+Camp S                2.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (W)          7.0  7  3  3  3  1
+Grabow J              1.0  1  0  0  0  0
+Capps M (S)           1.0  0  0  0  0  0
+
+E -- LaRoche A
+DP -- Toronto 1, Pittsburgh 1
+LOB -- Toronto 6, Pittsburgh 0
+2B -- Barajas R
+HR -- Bay J, Chavez R, Bautista J
+T -- 2:03
+A -- 27014
+     Game of 6/22/2008 -- Toronto at Pittsburgh (D)
+
+  Toronto            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Scutaro M, ss         3  3  1  0   Rivas L, 2b           5  0  0  1   
+Inglett J, 2b         4  1  3  0   Wilson J, ss          5  1  2  0   
+Rios A, rf            4  1  2  1   McLouth N, cf         5  0  2  0   
+Wells V, cf           3  0  0  2   Bay J, lf             3  1  1  1   
+Overbay L, 1b         5  1  2  2   LaRoche A, 1b         4  1  1  0   
+Rolen S, 3b           2  1  1  2   Michaels J, rf        4  1  1  0   
+Zaun G, c             4  0  0  0   Bautista J, 3b        3  0  1  2   
+Lind A, lf            3  1  2  1   Osoria F, p           0  0  0  0   
+Downs S, p            0  0  0  0   Yates T, p            0  0  0  0   
+Eckstein D, ph        0  0  0  0   Morgan N, ph          1  0  0  0   
+Ryan B, p             0  0  0  0   Burnett S, p          0  0  0  0   
+McGowan D, p          2  0  0  0   Chavez R, c           4  1  1  1   
+Frasor J, p           0  0  0  0   Snell I, p            1  0  0  0   
+Carlson J, p          0  0  0  0   Sanchez F, ph         1  0  0  0   
+Wilkerson B, ph-lf    2  0  0  0   Beam T, p             0  0  0  0   
+                                   Gomez C, 3b           2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  8 11  8                        38  5 10  5
+
+Toronto          200 204 000 --  8
+Pittsburgh       100 301 000 --  5
+
+  Toronto              IP  H  R ER BB SO
+McGowan D (W)         5.0  9  4  3  1  2
+Frasor J              0.2  1  1  0  0  0
+Carlson J             0.1  0  0  0  0  0
+Downs S               2.0  0  0  0  0  1
+Ryan B (S)            1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I               4.0  8  4  4  4  2
+Beam T (L)            1.1  0  1  1  2  0
+Osoria F              1.2  3  3  3  0  1
+Yates T               1.0  0  0  0  0  1
+Burnett S             1.0  0  0  0  2  1
+
+E -- Wells V, Scutaro M
+DP -- Pittsburgh 1
+LOB -- Toronto 10, Pittsburgh 7
+2B -- Rios A, Overbay L
+HR -- Lind A, Rolen S
+SB -- Wilson J, McLouth N
+SH -- McGowan D, Inglett J
+SF -- Wells V 2
+HBP -- by Beam T (Rolen S)
+WP -- Snell I, Frasor J
+T -- 3:08
+A -- 22983
+     Game of 6/24/2008 -- New York at Pittsburgh (N)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Cabrera M, cf         3  0  0  0   McLouth N, cf         5  1  2  0   
+Jeter D, ss           4  1  1  0   Sanchez F, 2b         5  3  3  1   
+Abreu B, rf           4  1  1  2   Osoria F, p           0  0  0  0   
+Rodriguez A, 3b       5  0  0  0   Bay J, lf             4  1  2  1   
+Giambi J, 1b          3  1  0  0   Morgan N, lf          1  1  1  2   
+Posada J, c           4  1  1  0   Doumit R, c           5  2  3  2   
+Cano R, 2b            4  1  3  1   LaRoche A, 1b         5  1  3  2   
+Christian J, lf       4  0  2  2   Mientkiewicz D, rf    3  1  2  1   
+Rasner D, p           0  0  0  0   Michaels J, rf        0  0  0  0   
+Molina J, ph          1  0  0  0   Bautista J, 3b        4  1  1  2   
+Hawkins L, p          0  0  0  0   Wilson J, ss          4  0  1  0   
+Ramirez E, p          0  0  0  0   Gorzelanny T, p       2  0  0  0   
+Betemit W, ph         1  0  0  0   Rivas L, ph           1  0  0  0   
+                                   Yates T, p            0  0  0  0   
+                                   Marte D, p            0  0  0  0   
+                                   Gomez C, ph-2b        1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  8  5                        40 12 19 11
+
+New York         000 102 002 --  5
+Pittsburgh       201 220 23x -- 12
+
+  New York             IP  H  R ER BB SO
+Rasner D (L)          5.0 10  7  7  0  4
+Hawkins L             2.2  7  4  4  0  0
+Ramirez E             0.1  2  1  1  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Gorzelanny T (W)      6.0  6  3  3  5  2
+Yates T               0.2  1  0  0  0  0
+Marte D               1.1  0  0  0  0  1
+Osoria F              1.0  1  2  2  1  0
+
+E -- Christian J, LaRoche A
+DP -- New York 2, Pittsburgh 3
+LOB -- New York 8, Pittsburgh 5
+2B -- McLouth N 2, Bay J 2, Posada J, Cano R, Christian J, Jeter D, Morgan N, Doumit R
+3B -- LaRoche A
+HR -- Bautista J, Doumit R, Abreu B
+SB -- Abreu B
+SF -- Mientkiewicz D
+HBP -- by Gorzelanny T (Giambi J)
+WP -- Rasner D 2
+T -- 2:56
+A -- 38867
+     Game of 6/25/2008 -- New York at Pittsburgh (N)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Cabrera M, cf         5  1  2  1   Morgan N, rf-lf       4  0  0  0   
+Jeter D, ss           3  3  3  1   Sanchez F, 2b         4  0  0  0   
+Gonzalez A, ph-ss     2  0  0  0   McLouth N, cf         4  0  0  0   
+Abreu B, rf           5  2  3  4   Doumit R, c           4  0  2  0   
+Rodriguez A, 3b       3  0  1  0   Bay J, lf             2  0  1  0   
+Molina J, ph-c        1  0  0  0   Michaels J, ph-rf     2  0  1  0   
+Giambi J, 1b          4  0  1  2   LaRoche A, 1b         4  0  0  0   
+Ohlendorf R, p        1  0  0  0   Bautista J, 3b        3  0  0  0   
+Veras J, p            0  0  0  0   Wilson J, ss          3  0  3  0   
+Posada J, c-1b        4  0  1  0   Duke Z, p             1  0  0  0   
+Cano R, 2b            5  1  3  1   Rivas L, ph           1  0  0  0   
+Christian J, lf       4  2  1  0   Beam T, p             0  0  0  0   
+Chamberlain J, p      1  0  0  0   Burnett S, p          0  0  0  0   
+Betemit W, 1b-3b      2  1  1  0   Mientkiewicz D, ph    1  0  1  0   
+                                   Osoria F, p           0  0  0  0   
+                                   Grabow J, p           0  0  0  0   
+                                   Chavez R, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40 10 16  9                        34  0  8  0
+
+New York         201 104 011 -- 10
+Pittsburgh       000 000 000 --  0
+
+  New York             IP  H  R ER BB SO
+Chamberlain J (W)     6.2  6  0  0  1  7
+Ohlendorf R           1.1  0  0  0  0  3
+Veras J               1.0  2  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (L)            5.0  7  4  3  2  0
+Beam T                1.0  3  4  4  2  0
+Burnett S             1.0  1  0  0  0  0
+Osoria F              1.0  3  1  1  0  0
+Grabow J              1.0  2  1  1  2  0
+
+E -- Wilson J 2
+DP -- Pittsburgh 2
+LOB -- New York 10, Pittsburgh 9
+2B -- Jeter D 2, Doumit R, Abreu B
+HR -- Cano R, Abreu B
+SB -- Cabrera M
+SH -- Chamberlain J
+HBP -- by Chamberlain J (Wilson J)
+T -- 3:01
+A -- 38952
+     Game of 6/27/2008 -- Tampa Bay at Pittsburgh (N)
+
+  Tampa Bay          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Iwamura A, 2b         5  0  2  0   McLouth N, cf         5  0  1  0   
+Crawford C, lf        5  3  3  1   Sanchez F, 2b         5  1  1  1   
+Upton B, cf           5  1  2  0   Bay J, lf             4  0  1  0   
+Hinske E, rf          3  3  2  3   Doumit R, c           4  1  1  0   
+Balfour G, p          1  0  0  0   Michaels J, rf        4  1  1  0   
+Miller T, p           0  0  0  0   Bautista J, 3b        2  1  0  0   
+Longoria E, 3b        5  3  4  3   Gomez C, 1b           2  1  1  1   
+Pena C, 1b            3  0  0  1   LaRoche A, ph-1b      1  0  0  0   
+Navarro D, c          5  0  1  1   Wilson J, ss          3  0  2  3   
+Bartlett J, ss        5  0  1  1   Barthmaier J, p       0  0  0  0   
+Kazmir S, p           2  0  0  0   Bautista D, p         1  0  0  0   
+Gomes J, ph           1  0  0  0   Burnett S, p          1  0  0  0   
+Howell J, p           0  0  0  0   Nady X, ph            0  0  0  0   
+Gross G, ph-rf        1  0  0  0   Grabow J, p           0  0  0  0   
+                                   Capps M, p            0  0  0  0   
+                                   Mientkiewicz D, ph    1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41 10 15 10                        33  5  8  5
+
+Tampa Bay        304 001 200 -- 10
+Pittsburgh       000 401 000 --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Kazmir S (W)          5.0  5  4  3  2  4
+Howell J              1.0  2  1  1  2  0
+Balfour G             2.1  0  0  0  0  3
+Miller T              0.2  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Barthmaier J (L)      2.1  7  7  7  2  2
+Bautista D*           0.2  1  0  0  0  0
+Burnett S             3.0  2  1  1  0  2
+Grabow J              2.0  4  2  2  0  2
+Capps M               1.0  1  0  0  0  0
+  * Pitched to 1 batter in 4th
+
+E -- Upton B
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 7, Pittsburgh 6
+2B -- Navarro D, Doumit R, Bay J, Wilson J, Longoria E
+HR -- Longoria E, Hinske E, Sanchez F, Crawford C
+SH -- Wilson J
+SF -- Pena C
+T -- 3:16
+A -- 19970
+     Game of 6/28/2008 -- Tampa Bay at Pittsburgh (N)
+
+  Tampa Bay          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Upton B, cf           5  1  1  0   McLouth N, cf         6  0  0  0   
+Crawford C, lf        6  0  1  0   Sanchez F, 2b         6  0  1  0   
+Longoria E, 3b        5  0  1  1   Bay J, lf             6  1  1  1   
+Hinske E, rf          3  1  1  0   Doumit R, c           4  1  0  0   
+Gomes J, ph           1  1  1  1   Nady X, rf            5  0  2  0   
+Wheeler D, p          0  0  0  0   LaRoche A, 1b         4  1  1  1   
+Floyd C, ph           1  0  0  0   Bautista J, 3b        4  1  2  0   
+Glover G, p           0  0  0  0   Wilson J, ss          5  0  0  0   
+Shields J, ph         1  0  0  0   Taubenheim T, p       2  0  1  1   
+Hammel J, p           0  0  0  0   Yates T, p            0  0  0  0   
+Pena C, 1b            5  0  1  0   Mientkiewicz D, ph    1  0  1  1   
+Navarro D, c          6  0  1  1   Marte D, p            0  0  0  0   
+Aybar W, 2b           5  0  1  0   Capps M, p            0  0  0  0   
+Bartlett J, ss        5  0  2  0   Michaels J, ph        1  0  0  0   
+Jackson E, p          2  0  0  0   Beam T, p             0  0  0  0   
+Miller T, p           0  0  0  0   Gomez C, ph           1  0  0  0   
+Gross G, ph-rf        3  0  0  0   Van Benschoten J, p   0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     48  3 10  3                        45  4  9  4
+
+Tampa Bay        100 001 010 000 0 --  3
+Pittsburgh       010 010 100 000 1 --  4
+  2 outs when winning run was scored.
+
+  Tampa Bay            IP  H  R ER BB SO
+Jackson E             6.2  6  3  3  2  3
+Miller T              0.1  0  0  0  0  0
+Wheeler D             1.0  0  0  0  0  1
+Glover G              3.0  2  0  0  0  2
+Hammel J (L)          1.2  1  1  1  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Taubenheim T          6.0  7  2  2  3  4
+Yates T               1.0  0  0  0  0  1
+Marte D               1.0  2  1  1  1  1
+Capps M               2.0  1  0  0  0  2
+Beam T                2.0  0  0  0  0  2
+Van Benschoten J (W)  1.0  0  0  0  0  0
+
+E -- Bartlett J, Beam T
+DP -- Tampa Bay 2
+LOB -- Tampa Bay 12, Pittsburgh 6
+2B -- Nady X 2, Bartlett J, Bautista J, Taubenheim T, Hinske E, Mientkiewicz D, Pena C
+HR -- Gomes J, Bay J
+SB -- Crawford C
+CS -- Navarro D
+SH -- Bautista J
+SF -- Longoria E
+HBP -- by Van Benschoten J (Aybar W)
+T -- 3:53
+A -- 17970
+     Game of 6/29/2008 -- Tampa Bay at Pittsburgh (D)
+
+  Tampa Bay          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Upton B, cf           5  0  2  0   Wilson J, ss          4  2  2  0   
+Crawford C, lf        5  0  0  0   Sanchez F, 2b         3  1  1  0   
+Longoria E, 3b        4  0  1  0   McLouth N, cf         3  0  0  1   
+Pena C, 1b            5  1  2  0   Yates T, p            0  0  0  0   
+Aybar W, 2b           4  2  2  1   Doumit R, ph          1  0  1  1   
+Gomes J, rf           3  0  0  0   Rivas L, pr           0  0  0  0   
+Hinske E, ph          1  0  0  0   Burnett S, p          0  0  0  0   
+Wheeler D, p          0  0  0  0   Bay J, lf             3  0  1  1   
+Navarro D, ph         1  0  0  0   Nady X, rf            3  0  1  0   
+Percival T, p         0  0  0  0   LaRoche A, 1b         3  0  1  0   
+Riggans S, c          4  1  3  2   Bautista J, 3b        4  0  0  0   
+Bartlett J, ss        4  0  2  0   Chavez R, c           4  0  0  0   
+Sonnanstine A, p      2  0  0  0   Gorzelanny T, p       2  0  0  0   
+Gross G, ph-rf        0  0  0  0   Michaels J, cf        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  4 12  3                        31  3  7  3
+
+Tampa Bay        000 101 020 --  4
+Pittsburgh       000 101 010 --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Sonnanstine A (W)     7.0  5  2  1  1  4
+Wheeler D             1.0  2  1  1  0  0
+Percival T (S)        1.0  0  0  0  1  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Gorzelanny T          6.0  8  2  2  2  8
+Yates T (L)           2.0  3  2  2  1  1
+Burnett S             1.0  1  0  0  1  1
+
+E -- Bautista J, Upton B, Nady X
+DP -- Tampa Bay 1, Pittsburgh 1
+LOB -- Tampa Bay 11, Pittsburgh 5
+2B -- Sanchez F, Wilson J, Bay J
+HR -- Riggans S, Aybar W
+SB -- Upton B, Longoria E
+CS -- Upton B
+SH -- Sanchez F
+SF -- Bay J
+WP -- Yates T, Wheeler D
+T -- 2:59
+A -- 15828
+     Game of 7/7/2008 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Erstad D, cf          5  2  1  1   McLouth N, cf         5  1  1  1   
+Loretta M, 2b         4  1  1  0   Rivas L, 2b           5  2  2  0   
+Berkman L, 1b         4  0  1  1   Doumit R, c           5  1  1  2   
+Lee C, lf             3  1  1  3   Bay J, lf             3  2  2  0   
+Tejada M, ss          3  1  0  0   Nady X, rf            5  1  2  2   
+Pence H, rf           4  0  1  0   LaRoche A, 1b         2  2  2  1   
+Wigginton T, 3b       4  1  2  1   Mientkiewicz D, 3b    3  1  1  1   
+Towles J, c           4  1  1  0   Dumatrait P, p        2  0  1  1   
+Hernandez R, p        2  0  1  1   Bautista D, p         1  0  1  1   
+Paronto C, p          1  0  0  0   Michaels J, ph        1  0  0  0   
+Blum G, ph            1  0  0  0   Yates T, p            0  0  0  0   
+                                   Marte D, p            0  0  0  0   
+                                   Wilson J, ss          4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  7  9  7                        36 10 14 10
+
+Houston          300 400 000 --  7
+Pittsburgh       420 400 00x -- 10
+
+  Houston              IP  H  R ER BB SO
+Hernandez R (L)       4.0 13 10 10  4  3
+Paronto C             4.0  1  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Dumatrait P           3.1  9  7  7  2  1
+Bautista D (W)        2.2  0  0  0  0  3
+Yates T               2.0  0  0  0  0  4
+Marte D (S)           1.0  0  0  0  1  0
+
+E -- Wigginton T
+DP -- Houston 3
+LOB -- Houston 5, Pittsburgh 7
+2B -- Rivas L, Nady X, Wigginton T, Berkman L
+3B -- LaRoche A
+HR -- Lee C, McLouth N, Doumit R
+SF -- Lee C
+T -- 2:55
+A -- 13323
+     Game of 7/8/2008 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Erstad D, cf          5  0  0  0   McLouth N, cf         5  1  2  3   
+Loretta M, 2b         4  0  0  0   Sanchez F, 2b         5  0  2  0   
+Berkman L, 1b         1  1  0  0   Marte D, p            0  0  0  0   
+Lee C, lf             4  1  2  2   Doumit R, c           4  0  0  0   
+Bourn M, pr           0  0  0  0   Bay J, lf             4  0  2  0   
+Tejada M, ss          5  0  0  0   Nady X, rf            4  0  1  0   
+Pence H, rf           4  1  1  1   LaRoche A, 1b         4  1  3  1   
+Wigginton T, 3b       4  0  1  0   Bautista J, 3b        2  1  0  0   
+Ausmus B, c           1  0  1  0   Snell I, p            1  0  0  0   
+Backe B, p            2  0  0  0   Beam T, p             1  0  0  0   
+Borkowski D, p        0  0  0  0   Michaels J, ph        1  0  0  0   
+Newhan D, ph          1  0  0  0   Grabow J, p           0  0  0  0   
+Wright W, p           0  0  0  0   Mientkiewicz D, ph    1  0  1  0   
+Geary G, p            0  0  0  0   Rivas L, pr-2b        0  1  0  0   
+Blum G, ph            0  0  0  0   Wilson J, ss          3  0  0  0   
+Brocail D, p          0  0  0  0                                      
+Valverde J, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  5  3                        35  4 11  4
+
+Houston          000 120 000 --  3
+Pittsburgh       000 010 03x --  4
+
+  Houston              IP  H  R ER BB SO
+Backe B               3.0  3  0  0  0  3
+Borkowski D           2.0  4  1  1  1  1
+Wright W              0.1  1  0  0  0  1
+Geary G               1.2  0  0  0  0  0
+Brocail D (L)         0.2  3  3  3  1  0
+Valverde J            0.1  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I               3.2  4  1  1  3  1
+Beam T                2.1  1  2  2  2  1
+Grabow J (W)          2.0  0  0  0  4  0
+Marte D (S)           1.0  0  0  0  1  0
+
+LOB -- Houston 11, Pittsburgh 10
+2B -- Bay J, LaRoche A
+HR -- Pence H, Lee C, McLouth N, LaRoche A
+SB -- Bourn M
+CS -- Wigginton T
+HBP -- by Brocail D (Bautista J)
+WP -- Grabow J
+T -- 2:58
+A -- 17867
+     Game of 7/9/2008 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Pence H, rf           6  0  0  1   McLouth N, cf         4  2  3  0   
+Matsui K, 2b          6  0  2  1   Sanchez F, 2b         3  0  0  1   
+Berkman L, 1b         2  1  1  0   Doumit R, c           4  1  1  1   
+Lee C, lf             2  1  0  0   Bay J, lf             4  0  1  1   
+Tejada M, ss          0  0  0  0   Nady X, rf            4  1  1  0   
+Blum G, ss            5  1  1  3   LaRoche A, 1b         3  0  1  1   
+Valverde J, p         0  0  0  0   Mientkiewicz D, 3b    3  0  0  0   
+Wigginton T, 3b       5  1  2  0   Yates T, p            0  0  0  0   
+Bourn M, cf           5  1  2  0   Beam T, p             0  0  0  0   
+Ausmus B, c           2  0  1  1   Michaels J, ph        1  0  0  0   
+Moehler B, p          1  0  0  0   Van Benschoten J, p   2  0  0  0   
+Loretta M, ph         1  1  0  0   Burnett S, p          0  0  0  0   
+Sampson C, p          0  0  0  0   Bautista J, 3b        2  0  0  0   
+Erstad D, ph-lf       1  0  1  0   Wilson J, ss          3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6 10  6                        33  4  8  4
+
+Houston          400 000 200 --  6
+Pittsburgh       012 010 000 --  4
+
+  Houston              IP  H  R ER BB SO
+Moehler B (W)         6.0  7  4  4  1  3
+Sampson C             2.0  0  0  0  0  1
+Valverde J (S)        1.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Van Benschoten J      4.2  7  4  4  6  6
+Burnett S (L)         1.2  1  1  1  2  0
+Yates T               1.2  1  1  1  1  2
+Beam T                1.0  1  0  0  0  0
+
+LOB -- Houston 14, Pittsburgh 4
+2B -- McLouth N 3, Matsui K 2, Bay J, Wilson J, Erstad D
+3B -- Nady X
+HR -- Blum G
+SB -- Berkman L 2
+CS -- Wigginton T
+SH -- Ausmus B
+SF -- Sanchez F
+HBP -- by Van Benschoten J (Berkman L)
+T -- 3:15
+A -- 13884
+     Game of 7/10/2008 -- New York at Pittsburgh (N)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Jeter D, ss           4  0  2  0   McLouth N, cf         4  2  1  2   
+Abreu B, rf           3  0  1  2   Sanchez F, 2b         3  0  1  2   
+Rodriguez A, 3b       4  0  0  0   Doumit R, c           4  0  2  0   
+Posada J, 1b          4  0  1  0   Bay J, lf             4  0  1  0   
+Cano R, 2b            4  0  0  0   Nady X, rf            4  0  1  0   
+Cabrera M, cf         4  0  0  0   LaRoche A, 1b         4  0  0  0   
+Molina J, c           4  0  0  0   Bautista J, 3b        4  0  2  0   
+Christian J, lf       3  1  1  0   Maholm P, p           3  0  0  0   
+Mussina M, p          2  0  1  0   Marte D, p            0  0  0  0   
+Betemit W, ph         1  1  1  0   Wilson J, ss          2  2  2  0   
+Veras J, p            0  0  0  0                                      
+Robertson D, p        0  0  0  0                                      
+Giambi J, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  2  7  2                        32  4 10  4
+
+New York         000 000 200 --  2
+Pittsburgh       001 010 20x --  4
+
+  New York             IP  H  R ER BB SO
+Mussina M             6.0  9  2  2  0  5
+Veras J (L)           1.0  1  2  2  1  0
+Robertson D           1.0  0  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (W)          8.0  7  2  2  1  4
+Marte D (S)           1.0  0  0  0  1  0
+
+E -- Molina J
+LOB -- New York 8, Pittsburgh 6
+2B -- Wilson J
+HR -- McLouth N
+SB -- Abreu B, McLouth N, Christian J
+SF -- Sanchez F
+HBP -- by Maholm P (Jeter D)
+T -- 2:37
+A -- 39081
+     Game of 7/11/2008 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Schumaker S, lf-cf    5  0  0  0   McLouth N, cf         5  0  1  0   
+Ludwick R, rf         5  1  1  1   Sanchez F, 2b         4  0  0  0   
+Pujols A, 1b          4  2  2  0   Doumit R, c           3  0  2  0   
+Glaus T, 3b           5  1  3  0   Bay J, lf             4  0  0  0   
+Molina Y, c           5  1  2  2   Nady X, rf            4  0  1  0   
+Ankiel R, cf          3  1  3  3   LaRoche A, 1b         4  0  1  0   
+Mather J, ph-lf       1  0  0  0   Bautista J, 3b        3  0  2  0   
+Izturis C, ss         4  0  2  0   Duke Z, p             2  0  0  0   
+Lohse K, p            3  0  0  0   Mientkiewicz D, ph    1  0  0  0   
+Garcia J, p           0  0  0  0   Bautista D, p         0  0  0  0   
+Ryan B, 2b            3  0  0  0   Burnett S, p          0  0  0  0   
+                                   Gomez C, ph           1  0  0  0   
+                                   Wilson J, ss          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 13  6                        35  0  7  0
+
+St. Louis        004 100 100 --  6
+Pittsburgh       000 000 000 --  0
+
+  St. Louis            IP  H  R ER BB SO
+Lohse K (W)           7.0  6  0  0  1  3
+Garcia J              2.0  1  0  0  1  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (L)            6.0 10  5  5  1  4
+Bautista D            2.0  2  1  1  3  0
+Burnett S             1.0  1  0  0  0  0
+
+E -- Izturis C
+DP -- Pittsburgh 1
+LOB -- St. Louis 10, Pittsburgh 10
+2B -- Molina Y, McLouth N
+HR -- Ankiel R, Ludwick R
+SH -- Lohse K
+WP -- Garcia J
+T -- 2:27
+A -- 37113
+     Game of 7/12/2008 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Miles A, ss-2b        5  3  2  0   McLouth N, cf         4  2  1  3   
+Ludwick R, lf         5  2  3  4   Rivas L, 2b           4  2  2  0   
+Pujols A, 1b          5  1  3  1   Doumit R, c-1b        5  0  1  0   
+Ankiel R, cf          5  2  2  1   Bay J, lf             5  2  2  5   
+Schumaker S, cf       1  0  0  0   Nady X, rf            5  0  1  0   
+Glaus T, 3b           4  2  4  2   Bautista D, p         0  0  0  0   
+Duncan C, rf          5  0  2  0   LaRoche A, 1b         4  2  2  1   
+Franklin R, p         0  0  0  0   Chavez R, c           1  1  1  0   
+Villone R, p          0  0  0  0   Mientkiewicz D, 3b    1  0  0  0   
+Isringhausen J, p     0  0  0  0   Bautista J, 3b        4  0  1  1   
+McClellan K, p        1  0  0  0   Herrera Y, p          1  0  0  0   
+Perez C, p            0  0  0  0   Osoria F, p           0  0  0  0   
+Molina Y, c           6  1  4  1   Sanchez F, ph         1  0  0  0   
+Wellemeyer T, p       3  0  0  0   Beam T, p             0  0  0  0   
+Springer R, p         0  0  0  0   Burnett S, p          0  0  0  0   
+Mather J, ph-rf       2  0  1  1   Gomez C, ph           1  0  0  0   
+Kennedy A, 2b         3  0  1  1   Yates T, p            0  0  0  0   
+Izturis C, ph-ss      2  0  0  0   Marte D, p            0  0  0  0   
+                                   Michaels J, ph-rf     1  2  1  2   
+                                   Wilson J, ss          4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     47 11 22 11                        41 12 13 12
+
+St. Louis        003 212 110 1 -- 11
+Pittsburgh       200 100 124 2 -- 12
+  1 out when winning run was scored.
+
+  St. Louis            IP  H  R ER BB SO
+Wellemeyer T          6.1  4  4  4  1  2
+Springer R            0.2  0  0  0  0  1
+Franklin R            0.2  3  2  2  0  1
+Villone R             0.1  0  0  0  0  1
+Isringhausen J        0.1  2  3  3  1  1
+McClellan K*          0.2  3  2  2  0  0
+Perez C (L)           0.1  1  1  1  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Herrera Y             4.1 11  6  6  4  4
+Osoria F              0.2  0  0  0  0  0
+Beam T                1.0  4  2  2  0  0
+Burnett S             1.0  2  1  1  0  0
+Yates T               1.0  3  1  1  0  0
+Marte D               1.0  1  0  0  0  0
+Bautista D (W)        1.0  1  1  1  0  2
+  * Pitched to 1 batter in 10th
+
+DP -- Pittsburgh 3
+LOB -- St. Louis 12, Pittsburgh 4
+2B -- Ankiel R 2, Pujols A 2, Molina Y, Miles A, LaRoche A, Mather J
+3B -- Ludwick R
+HR -- Bay J 2, Ludwick R, LaRoche A, McLouth N, Glaus T, Michaels J
+SH -- Wellemeyer T
+SF -- Pujols A
+HBP -- by Wellemeyer T (Rivas L)
+T -- 3:39
+A -- 29387
+     Game of 7/13/2008 -- St. Louis at Pittsburgh (D)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Schumaker S, cf       6  0  2  0   McLouth N, cf         4  1  0  0   
+Ludwick R, lf         5  2  2  1   Gomez C, 2b           5  1  2  2   
+Pujols A, 1b          4  1  0  0   Doumit R, c           3  1  2  1   
+Glaus T, 3b           4  3  3  2   Bay J, lf             5  0  1  2   
+Duncan C, rf          5  2  3  2   Nady X, rf            5  0  3  1   
+Mather J, pr-rf       0  0  0  0   Mientkiewicz D, 1b    3  0  0  0   
+Molina Y, c           4  2  1  0   Bautista J, 3b        4  0  0  0   
+Miles A, 2b           5  1  3  5   Snell I, p            1  0  0  0   
+Pineiro J, p          2  0  0  0   Sanchez F, ph         1  1  1  0   
+Springer R, p         0  0  0  0   Burnett S, p          1  1  1  0   
+Ankiel R, ph          1  0  0  0   Osoria F, p           0  0  0  0   
+McClellan K, p        0  0  0  0   Beam T, p             0  0  0  0   
+Kennedy A, ph         1  0  1  0   Rivas L, ph           1  0  0  0   
+Franklin R, p         0  0  0  0   Yates T, p            0  0  0  0   
+Izturis C, ss         5  0  0  1   Wilson J, ss          4  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     42 11 15 11                        37  6 12  6
+
+St. Louis        000 401 411 -- 11
+Pittsburgh       100 032 000 --  6
+
+  St. Louis            IP  H  R ER BB SO
+Pineiro J             5.2 10  6  6  3  2
+Springer R (W)        0.1  0  0  0  0  0
+McClellan K           2.0  1  0  0  0  0
+Franklin R            1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I               5.0  5  4  4  3  6
+Burnett S             1.0  1  1  0  0  1
+Osoria F (L)          0.1  4  4  4  0  0
+Beam T                1.2  1  1  1  0  0
+Yates T               1.0  4  1  1  0  1
+
+E -- Gomez C
+DP -- St. Louis 2, Pittsburgh 1
+LOB -- St. Louis 8, Pittsburgh 8
+2B -- Glaus T 2, Duncan C, Doumit R, Burnett S, Gomez C
+3B -- Miles A
+HR -- Miles A, Ludwick R, Glaus T
+SB -- Izturis C, McLouth N
+HBP -- by Pineiro J (Doumit R), by Osoria F (Pujols A)
+WP -- Snell I
+T -- 3:07
+A -- 21052
+     Game of 7/24/2008 -- San Diego at Pittsburgh (N)
+
+  San Diego          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Gerut J, cf           3  1  1  0   McLouth N, cf         3  2  1  3   
+Gonzalez E, 2b        4  0  0  0   Sanchez F, 2b         5  1  2  0   
+Giles B, rf           4  0  1  0   Doumit R, c           4  0  2  1   
+Gonzalez A, 1b        4  0  2  1   Bay J, lf             3  1  1  2   
+Kouzmanoff K, 3b      4  0  2  0   Michaels J, lf        0  0  0  0   
+Headley C, lf         4  0  1  0   Nady X, rf            4  2  2  1   
+Greene K, ss          4  0  0  0   LaRoche A, 1b         3  1  0  0   
+Hundley N, c          4  0  1  0   Mientkiewicz D, 3b    4  1  2  0   
+Hensley C, p          1  0  0  0   Herrera Y, p          2  0  0  0   
+Hampson J, p          0  0  0  0   Gomez C, ph           0  0  0  1   
+Myrow B, ph           1  0  0  0   Bautista D, p         0  0  0  0   
+Corey B, p            0  0  0  0   Bautista J, ph        1  0  0  0   
+                                   Burnett S, p          0  0  0  0   
+                                   Rivas L, ss           4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     33  1  8  1                        33  9 11  9
+
+San Diego        000 000 010 --  1
+Pittsburgh       200 202 03x --  9
+
+  San Diego            IP  H  R ER BB SO
+Hensley C (L)*        5.0  7  6  6  2  2
+Hampson J             1.0  1  0  0  1  0
+Corey B               2.0  3  3  3  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Herrera Y (W)         6.0  6  0  0  1  4
+Bautista D            2.0  2  1  1  0  3
+Burnett S             1.0  0  0  0  0  2
+  * Pitched to 2 batters in 6th
+
+DP -- Pittsburgh 1
+LOB -- San Diego 7, Pittsburgh 5
+2B -- Doumit R, Gerut J, Mientkiewicz D
+HR -- Bay J, Nady X, McLouth N
+SH -- Hensley C
+SF -- Bay J, McLouth N
+WP -- Corey B
+T -- 2:36
+A -- 17916
+     Game of 7/25/2008 -- San Diego at Pittsburgh (N)
+
+  San Diego          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hairston S, cf        5  0  0  0   McLouth N, cf         4  0  0  0   
+Gonzalez E, 2b        4  0  0  0   Sanchez F, 2b         5  0  2  0   
+Greene K, ss          1  0  1  0   Doumit R, c           5  1  2  0   
+Giles B, rf           5  2  2  0   Bay J, lf             3  1  1  0   
+Kouzmanoff K, 3b      4  1  2  1   Nady X, rf            0  0  0  0   
+Gonzalez A, 1b        3  2  1  2   Michaels J, rf        4  0  1  0   
+Headley C, lf         4  1  2  1   LaRoche A, 1b         3  3  2  2   
+Bard J, c             4  0  2  2   Mientkiewicz D, 3b    4  0  2  1   
+Rodriguez L, ss-2b    3  0  0  0   Duke Z, p             2  0  0  0   
+Baek C, p             3  0  1  0   Gomez C, ph           1  0  1  1   
+Adams M, p            0  0  0  0   Yates T, p            0  0  0  0   
+Bell H, p             0  0  0  0   Bautista J, ph        0  0  0  1   
+Ambres C, ph          1  0  0  0   Grabow J, p           0  0  0  0   
+Hoffman T, p          0  0  0  0   Wilson J, ss          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 11  6                        35  5 11  5
+
+San Diego        010 202 100 --  6
+Pittsburgh       010 102 010 --  5
+
+  San Diego            IP  H  R ER BB SO
+Baek C (W)            5.1  7  4  4  1  3
+Adams M               1.2  2  0  0  0  0
+Bell H                1.0  2  1  1  1  1
+Hoffman T (S)         1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (L)            6.0  7  5  5  2  5
+Yates T               2.0  3  1  1  0  2
+Grabow J              1.0  1  0  0  0  1
+
+DP -- San Diego 1, Pittsburgh 1
+LOB -- San Diego 6, Pittsburgh 7
+2B -- Headley C, Mientkiewicz D, Doumit R, Giles B 2, Greene K
+HR -- LaRoche A 2, Gonzalez A
+HBP -- by Baek C (McLouth N), by Bell H (Bay J)
+WP -- Yates T
+T -- 2:35
+A -- 25727
+     Game of 7/26/2008 -- San Diego at Pittsburgh (N)
+
+  San Diego          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Gerut J, cf           5  0  2  0   McLouth N, cf         2  1  1  0   
+Gonzalez E, 2b        4  1  0  0   Michaels J, ph-cf     3  1  2  3   
+Rodriguez L, 2b       0  0  0  0   Sanchez F, 2b         2  0  0  0   
+Giles B, rf           3  2  0  0   Gomez C, ph-2b        3  0  0  0   
+Gonzalez A, 1b        5  3  3  4   Doumit R, c           5  0  2  1   
+Kouzmanoff K, 3b      5  1  1  3   Bay J, lf             2  0  0  0   
+Headley C, lf         3  1  1  0   Bautista J, ph-3b     2  1  1  1   
+Greene K, ss          4  0  1  0   LaRoche A, 1b         5  1  2  1   
+Hundley N, c          4  1  2  2   Pearce S, rf-lf       4  0  1  0   
+Banks J, p            3  0  2  0   Mientkiewicz , 3b-rf  3  1  0  0   
+Meredith C, p         1  0  0  0   Van Benschoten J, p   0  0  0  0   
+Hampson J, p          0  0  0  0   Osoria F, p           1  0  0  0   
+Adams M, p            0  0  0  0   Beam T, p             2  0  0  0   
+Corey B, p            0  0  0  0   Chavez R, ph          1  0  0  0   
+Hoffman T, p          0  0  0  0   Burnett S, p          0  0  0  0   
+                                   Wilson J, ss          3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  9 12  9                        38  6 10  6
+
+San Diego        431 100 000 --  9
+Pittsburgh       100 022 001 --  6
+
+  San Diego            IP  H  R ER BB SO
+Banks J (W)           5.2  6  5  5  2  3
+Meredith C            0.2  1  0  0  2  1
+Hampson J             0.1  0  0  0  0  0
+Adams M               1.1  1  0  0  0  1
+Corey B               0.2  2  1  1  0  0
+Hoffman T (S)         0.1  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Van Benschoten J (L)  1.2  6  7  7  4  2
+Osoria F              2.1  5  2  2  1  1
+Beam T                4.0  1  0  0  0  1
+Burnett S             1.0  0  0  0  0  0
+
+E -- Hundley N
+DP -- Pittsburgh 1
+LOB -- San Diego 6, Pittsburgh 9
+2B -- Hundley N, Gonzalez A, Doumit R
+HR -- Gonzalez A 2, Kouzmanoff K, Hundley N, Michaels J, LaRoche A, Bautista J
+SB -- McLouth N, Doumit R
+T -- 2:52
+A -- 27794
+     Game of 7/27/2008 -- San Diego at Pittsburgh (D)
+
+  San Diego          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Hairston S, cf        3  1  1  1   Sanchez F, 2b         1  0  0  0   
+Gonzalez E, 2b        3  0  1  0   Rivas L, 2b           3  0  0  0   
+Rodriguez L, 2b       0  0  0  0   Mientkiewicz , 3b-1b  3  0  0  0   
+Gonzalez A, 1b        3  1  0  0   McLouth N, cf         3  1  1  0   
+Kouzmanoff K, 3b      4  0  1  0   Bay J, lf             4  0  0  0   
+Headley C, lf         3  0  0  0   LaRoche A, 1b         3  0  1  1   
+Bard J, c             4  1  2  2   Grabow J, p           0  0  0  0   
+Greene K, ss          4  0  1  0   Gomez C, ph           1  0  0  0   
+Ambres C, rf          4  0  0  0   Michaels J, rf        3  0  0  0   
+Peavy J, p            2  0  1  0   Chavez R, c           3  0  1  0   
+Gerut J, ph           1  0  0  0   Doumit R, ph          1  0  0  0   
+Bell H, p             0  0  0  0   Maholm P, p           2  0  0  0   
+Hoffman T, p          0  0  0  0   Bautista J, ph-3b     1  0  0  0   
+                                   Wilson J, ss          2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  7  3                        30  1  4  1
+
+San Diego        000 100 011 --  3
+Pittsburgh       000 100 000 --  1
+
+  San Diego            IP  H  R ER BB SO
+Peavy J (W)           7.0  4  1  1  3 10
+Bell H                1.0  0  0  0  0  1
+Hoffman T (S)         1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P              7.0  4  1  1  3  9
+Grabow J (L)          2.0  3  2  2  0  3
+
+E -- Ambres C
+DP -- San Diego 1, Pittsburgh 2
+LOB -- San Diego 5, Pittsburgh 6
+2B -- Greene K, Wilson J, Gonzalez E
+HR -- Hairston S, Bard J
+SB -- McLouth N
+CS -- Peavy J
+HBP -- by Peavy J (Wilson J), by Maholm P (Gonzalez A)
+T -- 2:38
+A -- 21721
+     Game of 7/28/2008 -- Colorado at Pittsburgh (N)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Taveras W, cf         4  1  2  1   McLouth N, cf         3  2  1  2   
+Baker J, 2b           4  0  0  0   Wilson J, ss          4  1  1  0   
+Holliday M, lf        4  1  1  2   Doumit R, c           4  2  3  2   
+Hawpe B, rf           3  0  1  0   Bay J, lf             4  1  0  0   
+Atkins G, 1b          4  0  0  0   Mientkiewicz D, 1b    5  0  3  2   
+Stewart I, 3b         4  1  1  0   Pearce S, rf          2  0  0  2   
+Tulowitzki T, ss      3  0  2  0   Bautista J, 3b        2  0  0  0   
+Torrealba Y, c        3  1  1  0   Snell I, p            3  0  0  0   
+De Los Santos V, p    1  0  0  0   Chavez R, ph          1  1  1  0   
+Grilli J, p           0  0  0  0   Bautista D, p         0  0  0  0   
+Vizcaino L, p         0  0  0  0   Gomez C, 2b           3  1  1  0   
+Smith S, ph           1  0  0  0                                      
+Herges M, p           0  0  0  0                                      
+Fuentes B, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  4  8  3                        31  8 10  8
+
+Colorado         210 000 100 --  4
+Pittsburgh       000 043 10x --  8
+
+  Colorado             IP  H  R ER BB SO
+De Los Santos V*      4.0  2  2  2  6  2
+Grilli J (L)          1.0  2  2  2  2  1
+Vizcaino L            1.0  4  3  3  0  1
+Herges M              1.0  2  1  1  0  0
+Fuentes B             1.0  0  0  0  1  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I (W)           7.0  8  4  4  1  8
+Bautista D            2.0  0  0  0  0  4
+  * Pitched to 2 batters in 5th
+
+E -- Stewart I
+DP -- Colorado 2, Pittsburgh 1
+LOB -- Colorado 2, Pittsburgh 10
+2B -- Torrealba Y, Doumit R, Chavez R
+HR -- Holliday M, McLouth N
+SB -- Taveras W, Bay J, Doumit R
+CS -- Hawpe B
+SH -- De Los Santos V
+SF -- Pearce S 2
+T -- 2:53
+A -- 15303
+     Game of 7/29/2008 -- Colorado at Pittsburgh (N)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Taveras W, cf         5  1  1  0   McLouth N, cf         4  2  2  0   
+Baker J, 2b           5  0  0  0   Rivas L, 2b           4  1  3  3   
+Holliday M, lf        4  1  0  0   Doumit R, c           4  0  1  0   
+Hawpe B, rf           3  2  3  1   Bay J, lf             4  1  2  1   
+Atkins G, 1b          3  0  0  1   Mientkiewicz D, 1b    4  1  1  0   
+Stewart I, 3b         3  0  2  2   Pearce S, rf          4  0  0  0   
+Tulowitzki T, ss      3  0  2  0   Bautista D, p         0  0  0  0   
+Iannetta C, c         3  0  0  0   Burnett S, p          0  0  0  0   
+Rusch G, p            2  0  0  0   Yates T, p            0  0  0  0   
+Smith S, ph           1  0  1  0   Bautista J, 3b        3  0  0  0   
+Herges M, p           0  0  0  0   Herrera Y, p          2  1  1  0   
+Corpas M, p           0  0  0  0   Davis J, p            0  0  0  0   
+Sullivan C, ph        0  0  0  0   Gomez C, ph           0  0  0  1   
+Barmes C, ph          1  0  0  0   Grabow J, p           0  0  0  0   
+Wells K, p            0  0  0  0   Michaels J, rf        1  0  0  0   
+                                   Wilson J, ss          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  9  4                        34  6 11  5
+
+Colorado         301 000 000 --  4
+Pittsburgh       001 022 10x --  6
+
+  Colorado             IP  H  R ER BB SO
+Rusch G               5.0  6  3  3  0  2
+Herges M (L)          1.0  2  2  2  1  0
+Corpas M              1.0  2  1  1  1  0
+Wells K               1.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Herrera Y*            5.0  6  4  4  4  1
+Davis J (W)           1.0  1  0  0  0  0
+Grabow J              1.0  1  0  0  1  1
+Bautista D            0.2  1  0  0  0  0
+Burnett S             0.1  0  0  0  0  0
+Yates T (S)           1.0  0  0  0  0  1
+  * Pitched to 2 batters in 6th
+
+E -- Pearce S, Taveras W
+DP -- Pittsburgh 1
+LOB -- Colorado 8, Pittsburgh 7
+2B -- Stewart I, Rivas L, Hawpe B, McLouth N, Mientkiewicz D, Wilson J
+3B -- Rivas L
+SB -- Taveras W
+SH -- Iannetta C
+SF -- Gomez C
+T -- 2:47
+A -- 17507
+     Game of 7/30/2008 -- Colorado at Pittsburgh (N)
+
+  Colorado           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Taveras W, cf         5  1  2  0   McLouth N, cf         3  1  0  0   
+Baker J, 2b           4  1  0  0   Rivas L, 2b           3  1  0  0   
+Sullivan C, rf        1  0  0  0   Doumit R, c           5  1  2  1   
+Holliday M, lf        3  1  2  1   Bay J, lf             5  1  1  2   
+Atkins G, 1b          5  2  2  1   Mientkiewicz D, 1b    4  0  1  0   
+Iannetta C, c         4  1  1  3   Michaels J, rf        4  0  1  0   
+Tulowitzki T, ss      4  1  3  1   Bautista J, 3b        4  0  3  1   
+Barmes C, rf-2b       3  0  0  1   Duke Z, p             2  0  0  0   
+Stewart I, 3b         3  0  1  0   Bixler B, ph          1  0  0  0   
+Cook A, p             2  0  0  0   Beam T, p             0  0  0  0   
+Smith S, ph           1  0  1  0   Davis J, p            0  0  0  0   
+Buchholz T, p         0  0  0  0   Gomez C, ph           1  0  0  0   
+Fuentes B, p          0  0  0  0   Osoria F, p           0  0  0  0   
+                                   Wilson J, ss          4  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7 12  7                        36  4 10  4
+
+Colorado         011 040 100 --  7
+Pittsburgh       000 040 000 --  4
+
+  Colorado             IP  H  R ER BB SO
+Cook A (W)            7.0  9  4  4  3  1
+Buchholz T            1.0  1  0  0  0  2
+Fuentes B (S)         1.0  0  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (L)            5.0  8  6  6  2  3
+Beam T                2.2  3  1  1  2  1
+Davis J               0.1  0  0  0  0  0
+Osoria F              1.0  1  0  0  0  0
+
+DP -- Pittsburgh 1
+LOB -- Colorado 7, Pittsburgh 9
+2B -- Tulowitzki T, Stewart I, Mientkiewicz D, Doumit R, Atkins G, Smith S, Wilson J
+HR -- Iannetta C
+SB -- Taveras W
+SH -- Cook A, McLouth N
+SF -- Barmes C
+WP -- Duke Z
+T -- 2:46
+A -- 16587
+     Game of 8/12/2008 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Dickerson C, lf       4  1  1  0   McLouth N, cf         3  0  2  0   
+Keppinger J, ss       5  0  0  0   Rivas L, ss           3  0  0  0   
+Bruce J, rf           4  0  0  0   Mientkiewicz D, 1b    3  1  0  0   
+Phillips B, 2b        4  2  1  2   Doumit R, c           4  0  1  0   
+Valentin J, 1b        3  1  1  1   LaRoche A, 3b         4  0  1  1   
+Encarnacion E, 3b     3  1  1  0   Moss B, lf            4  0  0  0   
+Patterson C, cf       4  0  2  2   Pearce S, rf          4  0  0  0   
+Bako P, c             4  0  1  0   Gomez C, 2b           3  0  2  0   
+Volquez E, p          2  0  1  0   Karstens J, p         2  0  0  0   
+Bray B, p             0  0  0  0   Michaels J, ph        1  0  0  0   
+Lincoln M, p          0  0  0  0   Yates T, p            0  0  0  0   
+Weathers D, p         0  0  0  0   Burnett S, p          0  0  0  0   
+Rosales A, ph         1  0  1  0   Sanchez F, ph         1  0  0  0   
+Cordero F, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  5  9  5                        32  1  6  1
+
+Cincinnati       200 101 010 --  5
+Pittsburgh       000 100 000 --  1
+
+  Cincinnati           IP  H  R ER BB SO
+Volquez E (W)         6.2  5  1  1  3  5
+Bray B*               0.0  1  0  0  0  0
+Lincoln M             0.1  0  0  0  1  0
+Weathers D            1.0  0  0  0  0  1
+Cordero F             1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Karstens J (L)        7.0  7  4  3  2  2
+Yates T               1.0  1  1  1  1  0
+Burnett S             1.0  1  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Doumit R, LaRoche A
+DP -- Pittsburgh 1
+LOB -- Cincinnati 6, Pittsburgh 8
+2B -- Gomez C, LaRoche A, Dickerson C, McLouth N, Patterson C
+HR -- Phillips B, Valentin J
+SB -- Dickerson C, McLouth N
+CS -- Patterson C, Doumit R
+SH -- Volquez E
+T -- 2:49
+A -- 23686
+     Game of 8/13/2008 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Cabrera J, lf         4  0  1  0   Sanchez F, 2b         4  0  0  0   
+Keppinger J, ss       4  0  2  0   Mientkiewicz D, 1b    4  1  1  0   
+Bruce J, rf           4  1  1  1   McLouth N, cf         3  0  2  0   
+Phillips B, 2b        4  0  0  0   Doumit R, c           4  0  1  2   
+Encarnacion E, 3b     3  0  0  0   LaRoche A, 3b         3  0  0  0   
+Phillips A, 1b        3  0  1  0   Moss B, lf            4  2  2  1   
+Patterson C, cf       3  1  1  1   Michaels J, rf        4  1  2  2   
+Hanigan R, c          3  0  0  0   Rivas L, ss           3  1  0  0   
+Fogg J, p             1  0  0  0   Maholm P, p           3  0  0  0   
+Majewski G, p         0  0  0  0   Grabow J, p           0  0  0  0   
+Rosales A, ph         1  0  0  0                                      
+Affeldt J, p          0  0  0  0                                      
+Hairston J, ph        1  0  1  0                                      
+Lincoln M, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  7  2                        32  5  8  5
+
+Cincinnati       001 000 100 --  2
+Pittsburgh       000 040 01x --  5
+
+  Cincinnati           IP  H  R ER BB SO
+Fogg J (L)            4.2  6  4  4  2  2
+Majewski G            0.1  0  0  0  1  0
+Affeldt J             2.0  1  0  0  0  2
+Lincoln M             1.0  1  1  1  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (W)          8.0  7  2  2  0  5
+Grabow J (S)          1.0  0  0  0  0  0
+
+DP -- Pittsburgh 3
+LOB -- Cincinnati 2, Pittsburgh 6
+2B -- McLouth N, Moss B, Doumit R, Phillips A
+HR -- Patterson C, Michaels J, Bruce J, Moss B
+T -- 2:14
+A -- 15787
+     Game of 8/14/2008 -- Cincinnati at Pittsburgh (N)
+
+  Cincinnati         AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Dickerson C, lf       5  1  3  1   Sanchez F, 2b         5  1  3  0   
+Keppinger J, ss       3  0  1  1   Wilson J, ss          5  0  2  0   
+Bruce J, rf           5  0  0  0   McLouth N, cf         4  0  1  0   
+Phillips B, 2b        3  0  0  0   LaRoche A, 1b         3  0  0  0   
+Valentin J, 1b        2  1  1  1   LaRoche A, 3b         3  0  1  1   
+Encarnacion E, 3b     4  0  0  0   Moss B, lf            3  0  0  0   
+Patterson C, cf       4  0  1  0   Pearce S, rf          3  0  0  0   
+Bako P, c             3  0  1  0   Chavez R, c           3  0  1  0   
+Cueto J, p            2  0  0  0   Doumit R, ph-c        1  0  0  0   
+Phillips A, ph        1  1  0  0   Snell I, p            2  0  0  0   
+Masset N, p           0  0  0  0   Michaels J, ph        1  0  0  0   
+Bray B, p             0  0  0  0   Burnett S, p          0  0  0  0   
+Majewski G, p         0  0  0  0   Beam T, p             0  0  0  0   
+Weathers D, p         0  0  0  0   Mientkiewicz D, ph    1  0  0  0   
+Rosales A, ph         1  0  0  0                                      
+Cordero F, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        34  1  8  1
+
+Cincinnati       010 001 001 --  3
+Pittsburgh       100 000 000 --  1
+
+  Cincinnati           IP  H  R ER BB SO
+Cueto J (W)           5.0  4  1  1  3  7
+Masset N*             1.0  3  0  0  0  0
+Bray B                0.1  1  0  0  0  1
+Majewski G            0.2  0  0  0  0  0
+Weathers D            1.0  0  0  0  0  1
+Cordero F (S)         1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I (L)           6.0  6  2  2  5  2
+Burnett S             2.0  0  0  0  0  2
+Beam T                1.0  1  1  1  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Cueto J
+DP -- Cincinnati 1
+LOB -- Cincinnati 9, Pittsburgh 10
+2B -- Keppinger J, Dickerson C 2, Patterson C
+3B -- Dickerson C
+HR -- Valentin J
+SH -- Keppinger J
+HBP -- by Cueto J (LaRoche A)
+T -- 2:54
+A -- 35439
+     Game of 8/15/2008 -- New York at Pittsburgh (N)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Reyes J, ss           5  1  2  0   McLouth N, cf         4  0  1  0   
+Reyes A, 2b           4  1  2  0   Sanchez F, 2b         4  0  1  0   
+Wright D, 3b          4  0  1  1   Doumit R, c           3  0  0  0   
+Delgado C, 1b         3  0  1  0   LaRoche A, 1b         4  0  3  0   
+Beltran C, cf         4  0  0  0   LaRoche A, 3b         4  0  1  0   
+Murphy D, lf          4  0  1  0   Moss B, lf            4  0  1  0   
+Sanchez D, p          0  0  0  0   Michaels J, rf        3  0  1  0   
+Feliciano P, p        0  0  0  0   Wilson J, ss          4  1  1  1   
+Heilman A, p          0  0  0  0   Davis J, p            2  0  0  0   
+Tatis F, rf           3  0  0  0   Grabow J, p           0  0  0  0   
+Schneider B, c        4  0  1  0   Gomez C, ph           1  0  0  0   
+Pelfrey M, p          2  0  0  0   Hansen C, p           0  0  0  0   
+Chavez E, lf          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  1                        33  1  9  1
+
+New York         200 000 000 --  2
+Pittsburgh       000 000 010 --  1
+
+  New York             IP  H  R ER BB SO
+Pelfrey M (W)         7.0  7  0  0  0  1
+Sanchez D             0.1  1  1  1  0  0
+Feliciano P           0.2  1  0  0  1  1
+Heilman A (S)         1.0  0  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Davis J (L)           7.0  6  2  2  3  3
+Grabow J              1.0  1  0  0  0  0
+Hansen C              1.0  1  0  0  0  1
+
+DP -- New York 2
+LOB -- New York 8, Pittsburgh 7
+2B -- Michaels J, McLouth N, Delgado C, Sanchez F, Schneider B
+HR -- Wilson J
+CS -- Reyes J
+WP -- Davis J, Pelfrey M
+T -- 2:31
+A -- 36418
+     Game of 8/16/2008 -- New York at Pittsburgh (N)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Reyes J, ss           5  1  2  2   McLouth N, cf         5  0  1  1   
+Evans N, lf           4  0  0  0   Sanchez F, 2b         5  0  3  0   
+Chavez E, lf          1  0  1  0   Doumit R, c           5  0  1  0   
+Wright D, 3b          5  1  1  0   LaRoche A, 1b         5  0  1  0   
+Beltran C, cf         5  1  1  1   LaRoche A, 3b         4  1  2  1   
+Delgado C, 1b         5  1  1  0   Moss B, lf            3  1  1  0   
+Tatis F, rf           3  0  1  1   Pearce S, rf          3  1  1  0   
+Easley D, 2b          4  1  1  0   Wilson J, ss          4  1  3  1   
+Castro R, c           3  1  2  2   Duke Z, p             1  0  0  0   
+Martinez P, p         2  1  1  0   Bautista D, p         0  0  0  0   
+Murphy D, ph          0  0  0  1   Mientkiewicz D, ph    1  0  0  0   
+Stokes B, p           0  0  0  0   Sanchez R, p          0  0  0  0   
+Kunz E, p             0  0  0  0   Yates T, p            0  0  0  0   
+Smith J, p            0  0  0  0   Michaels J, ph        1  0  0  0   
+Feliciano P, p        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  7 11  7                        37  4 13  3
+
+New York         310 002 010 --  7
+Pittsburgh       000 000 103 --  4
+
+  New York             IP  H  R ER BB SO
+Martinez P (W)        7.0  8  1  1  1  4
+Stokes B              1.0  1  0  0  0  0
+Kunz E                0.1  3  3  3  0  0
+Smith J*              0.0  1  0  0  0  0
+Feliciano P (S)       0.2  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (L)            6.0  9  6  6  0  2
+Bautista D            1.0  0  0  0  0  1
+Sanchez R             1.0  1  1  1  3  1
+Yates T               1.0  1  0  0  0  2
+  * Pitched to 1 batter in 9th
+
+DP -- New York 2
+LOB -- New York 7, Pittsburgh 9
+2B -- Beltran C, LaRoche A, Wilson J
+3B -- Reyes J
+HR -- Reyes J, Castro R, LaRoche A
+SH -- Duke Z, Martinez P
+HBP -- by Kunz E (Pearce S)
+WP -- Martinez P, Kunz E
+T -- 2:43
+A -- 37506
+     Game of 8/17/2008 -- New York at Pittsburgh (D)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Reyes J, ss           5  0  1  0   McLouth N, cf         4  0  0  0   
+Reyes A, 2b           4  0  3  0   Wilson J, ss          4  0  2  0   
+Easley D, 3b          5  0  1  0   Sanchez F, 2b         4  0  0  0   
+Delgado C, 1b         4  0  0  0   LaRoche A, 1b         4  0  0  0   
+Beltran C, cf         4  2  2  1   LaRoche A, 3b         3  0  1  0   
+Murphy D, lf          3  1  1  0   Moss B, lf            3  0  0  0   
+Chavez E, lf          0  0  0  0   Pearce S, rf          0  0  0  0   
+Tatis F, rf           4  0  0  0   Michaels J, rf-lf     3  0  0  0   
+Schneider B, c        3  1  2  3   Chavez R, c           3  0  0  0   
+Santana J, p          4  0  0  0   Karstens J, p         1  0  0  0   
+                                   Gomez C, ph           1  0  0  0   
+                                   Beam T, p             0  0  0  0   
+                                   Burnett S, p          0  0  0  0   
+                                   Mientkiewicz D, ph    1  0  0  0   
+                                   Hansen C, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4 10  4                        31  0  3  0
+
+New York         020 101 000 --  4
+Pittsburgh       000 000 000 --  0
+
+  New York             IP  H  R ER BB SO
+Santana J (W)         9.0  3  0  0  0  7
+
+  Pittsburgh           IP  H  R ER BB SO
+Karstens J (L)        6.0  9  4  4  1  3
+Beam T                1.2  1  0  0  1  1
+Burnett S             0.1  0  0  0  1  1
+Hansen C              1.0  0  0  0  0  0
+
+E -- Reyes J, LaRoche A 2
+DP -- Pittsburgh 2
+LOB -- New York 9, Pittsburgh 4
+HR -- Schneider B, Beltran C
+SH -- Reyes A
+T -- 2:42
+A -- 36483
+     Game of 8/18/2008 -- New York at Pittsburgh (D)
+
+  New York           AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Reyes A, 2b           5  1  1  0   McLouth N, cf         3  0  0  0   
+Evans N, lf           3  0  2  0   Sanchez F, 2b         4  0  1  0   
+Murphy D, ph          1  0  1  0   Yates T, p            0  0  0  0   
+Feliciano P, p        0  0  0  0   Burnett S, p          0  0  0  0   
+Sanchez D, p          0  0  0  0   Rivas L, ph           1  0  0  0   
+Smith J, p            0  0  0  0   Grabow J, p           0  0  0  0   
+Wright D, 3b          3  1  1  0   Doumit R, c           4  1  1  0   
+Beltran C, cf         2  0  1  1   LaRoche A, 1b         3  2  2  2   
+Delgado C, 1b         4  0  0  1   Michaels J, lf        3  1  1  0   
+Tatis F, rf           2  0  0  0   LaRoche A, 3b         3  1  0  0   
+Easley D, ss          3  0  0  0   Pearce S, rf          3  0  1  1   
+Castro R, c           4  0  0  0   Wilson J, ss          4  0  2  2   
+Maine J, p            1  0  0  0   Maholm P, p           1  0  0  0   
+Stokes B, p           0  0  0  0   Gomez C, ph-2b        2  0  1  0   
+Schoeneweis S, p      0  0  0  0                                      
+Chavez E, ph-lf       1  0  0  0                                      
+Cancel R, ph          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  2  6  2                        31  5  9  5
+
+New York         100 100 000 --  2
+Pittsburgh       000 002 03x --  5
+
+  New York             IP  H  R ER BB SO
+Maine J               5.0  2  0  0  4  3
+Stokes B              1.1  3  2  2  0  0
+Schoeneweis S         0.2  0  0  0  0  0
+Feliciano P (L)       0.1  1  1  1  0  0
+Sanchez D*            0.0  3  2  2  1  0
+Smith J               0.2  0  0  0  1  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P              7.0  5  2  2  3  4
+Yates T               0.2  1  0  0  2  0
+Burnett S (W)         0.1  0  0  0  0  0
+Grabow J (S)          1.0  0  0  0  2  0
+  * Pitched to 4 batters in 8th
+
+DP -- New York 1, Pittsburgh 2
+LOB -- New York 8, Pittsburgh 9
+2B -- Evans N 2, Beltran C, Wilson J
+HR -- LaRoche A
+SH -- Maholm P
+SF -- Beltran C
+T -- 2:50
+A -- 19066
+     Game of 8/25/2008 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Soriano A, lf         5  2  3  0   McLouth N, cf         3  0  1  0   
+Fontenot M, 2b        1  0  0  0   Morgan N, cf          1  0  0  0   
+Theriot R, ss         3  2  1  0   Sanchez F, 2b         4  1  2  0   
+Cedeno R, ss          1  0  1  0   Burnett S, p          0  0  0  0   
+Lee D, 1b             4  2  3  1   Doumit R, c           3  0  0  0   
+Ramirez A, 3b         3  2  1  3   Chavez R, c           1  0  1  0   
+Blanco H, ph-c        1  0  0  1   LaRoche A, 1b         4  1  1  2   
+Edmonds J, cf         5  2  3  1   Michaels J, rf        4  0  0  0   
+DeRosa M, 2b-3b       4  2  1  0   Moss B, lf            3  1  2  1   
+Fukudome K, rf        4  0  3  4   LaRoche A, 3b         4  0  0  0   
+Soto G, c             4  0  0  0   Wilson J, ss          2  0  0  0   
+Howry B, p            0  0  0  0   Bautista D, p         0  0  0  0   
+Ward D, ph            1  0  0  0   Gomez C, ph-2b        2  0  0  0   
+Wood K, p             0  0  0  0   Karstens J, p         1  0  0  0   
+Lilly T, p            3  0  1  1   Davis J, p            0  0  0  0   
+Johnson R, ph-lf      2  0  0  0   Rivas L, ph-ss        2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     41 12 17 11                        34  3  8  3
+
+Chicago          014 050 011 -- 12
+Pittsburgh       000 102 000 --  3
+
+  Chicago              IP  H  R ER BB SO
+Lilly T (W)           7.0  7  3  3  1  7
+Howry B               1.0  1  0  0  0  1
+Wood K                1.0  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Karstens J (L)        3.0  6  5  5  1  1
+Davis J               2.0  5  5  5  2  2
+Bautista D            2.0  2  0  0  0  2
+Burnett S             2.0  4  2  2  1  1
+
+DP -- Chicago 1, Pittsburgh 2
+LOB -- Chicago 7, Pittsburgh 5
+2B -- Edmonds J 2, Sanchez F, Lee D, Moss B, DeRosa M, Fukudome K
+3B -- Edmonds J
+HR -- Ramirez A, Moss B, LaRoche A
+SB -- Soriano A 2, Theriot R
+SF -- Fukudome K
+WP -- Davis J
+T -- 2:56
+A -- 14454
+     Game of 8/26/2008 -- Chicago at Pittsburgh (N)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Soriano A, lf         6  2  3  0   Morgan N, lf          5  1  3  0   
+Theriot R, ss         4  1  0  0   McLouth N, cf         5  1  0  0   
+Lee D, 1b             5  2  1  2   Doumit R, c           5  1  2  1   
+Ramirez A, 3b         4  1  0  1   LaRoche A, 1b         5  2  1  2   
+Edmonds J, cf         2  1  0  0   Moss B, rf            5  0  2  0   
+Johnson R, ph-cf      1  1  1  1   Mientkiewicz D, 3b    5  1  2  2   
+DeRosa M, 2b          3  1  2  1   Sanchez F, 2b         3  2  2  1   
+Cotts N, p            0  0  0  0   Wilson J, ss          5  0  2  2   
+Gaudin C, p           0  0  0  0   Snell I, p            1  0  0  0   
+Cedeno R, ph          1  0  0  0   Rivas L, ph           1  1  1  0   
+Marshall S, p         0  0  0  0   Bautista D, p         0  0  0  0   
+Blanco H, ph          1  0  0  0   Michaels J, ph        1  0  0  1   
+Marmol C, p           0  0  0  0   Yates T, p            0  0  0  0   
+Wood K, p             0  0  0  0   LaRoche A, ph         1  0  0  0   
+Fukudome K, rf        3  1  0  0   Grabow J, p           0  0  0  0   
+Soto G, c             5  3  3  7   Hansen C, p           0  0  0  0   
+Zambrano C, p         2  0  1  1   Burnett S, p          0  0  0  0   
+Samardzija J, p       0  0  0  0   Capps M, p            0  0  0  0   
+Fontenot M, 2b        2  1  2  1   Gomez C, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 14 13 14                        43  9 15  9
+
+Chicago          001 411 070 -- 14
+Pittsburgh       300 122 001 --  9
+
+  Chicago              IP  H  R ER BB SO
+Zambrano C            4.1  8  6  6  4  3
+Samardzija J          0.1  1  0  0  0  0
+Cotts N               0.2  2  2  1  1  0
+Gaudin C              0.2  0  0  0  0  1
+Marshall S (W)        1.0  1  0  0  0  1
+Marmol C              1.0  0  0  0  0  2
+Wood K                1.0  3  1  1  0  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I               4.0  5  5  5  4  2
+Bautista D            1.0  2  1  1  0  2
+Yates T               1.0  1  1  1  0  0
+Grabow J*             1.0  1  1  1  2  0
+Hansen C (L)+         0.0  1  4  4  3  0
+Burnett S             1.0  3  2  2  0  1
+Capps M               1.0  0  0  0  0  2
+  * Pitched to 1 batter in 8th
+  + Pitched to 4 batters in 8th
+
+E -- Zambrano C, Ramirez A, Soriano A
+DP -- Pittsburgh 1
+LOB -- Chicago 8, Pittsburgh 12
+2B -- LaRoche A, Soriano A, Soto G 2, DeRosa M, Wilson J 2, Fontenot M, Sanchez F
+3B -- Mientkiewicz D
+HR -- Soto G
+SB -- Morgan N, Rivas L, Lee D
+CS -- Morgan N
+HBP -- by Yates T (Fontenot M)
+WP -- Zambrano C, Bautista D, Grabow J
+PB -- Soto G
+T -- 3:59
+A -- 17929
+     Game of 8/27/2008 -- Chicago at Pittsburgh (D)
+
+  Chicago            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Soriano A, lf         4  0  2  0   Morgan N, rf          4  0  1  0   
+Theriot R, ss         4  0  1  0   Wilson J, ss          4  0  1  0   
+Lee D, 1b             3  0  0  0   McLouth N, cf         4  0  0  0   
+Ramirez A, 3b         3  0  0  0   LaRoche A, 1b         4  0  0  0   
+Johnson R, cf         4  1  1  0   Moss B, lf            4  0  0  0   
+DeRosa M, rf-2b       4  1  2  0   Sanchez F, 2b         4  0  1  0   
+Cedeno R, 2b          3  0  0  1   LaRoche A, 3b         3  0  0  0   
+Fukudome K, ph-rf     1  0  0  0   Chavez R, c           3  0  2  0   
+Blanco H, c           3  0  0  1   Duke Z, p             1  0  0  0   
+Marquis J, p          3  0  1  0   Mientkiewicz D, ph    0  0  0  0   
+Marmol C, p           0  0  0  0   Chavez J, p           0  0  0  0   
+Wood K, p             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        31  0  5  0
+
+Chicago          000 000 200 --  2
+Pittsburgh       000 000 000 --  0
+
+  Chicago              IP  H  R ER BB SO
+Marquis J (W)         7.0  5  0  0  0  3
+Marmol C              1.0  0  0  0  1  2
+Wood K (S)            1.0  0  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z (L)            8.0  7  2  2  2  6
+Chavez J              1.0  0  0  0  0  1
+
+E -- Soriano A
+LOB -- Chicago 6, Pittsburgh 6
+2B -- Soriano A, Theriot R, DeRosa M
+3B -- Sanchez F
+CS -- Soriano A
+SH -- Duke Z, Blanco H
+WP -- Duke Z
+T -- 2:17
+A -- 15260
+     Game of 8/29/2008 -- Milwaukee at Pittsburgh (N)
+
+  Milwaukee          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Weeks R, 2b           4  1  1  0   Morgan N, rf          5  0  1  0   
+Hardy J, ss           3  1  0  0   McLouth N, cf         4  1  2  1   
+Braun R, lf           4  1  2  3   Doumit R, c           5  0  0  0   
+Fielder P, 1b         3  0  0  0   LaRoche A, 1b         4  0  0  0   
+Hart C, rf            4  0  1  0   Moss B, lf            4  0  1  0   
+Cameron M, cf         3  0  0  0   Sanchez F, 2b         4  0  2  0   
+Hall B, 3b            4  0  0  0   LaRoche A, 3b         3  0  1  0   
+Kendall J, c          4  0  1  0   Wilson J, ss          4  0  1  0   
+Bush D, p             3  0  1  0   Gorzelanny T, p       2  0  0  0   
+Shouse B, p           0  0  0  0   Bautista D, p         0  0  0  0   
+Gagne E, p            0  0  0  0   Mientkiewicz D, ph    1  0  0  0   
+Nix L, ph             1  0  0  0                                      
+Torres S, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        36  1  8  1
+
+Milwaukee        300 000 000 --  3
+Pittsburgh       000 010 000 --  1
+
+  Milwaukee            IP  H  R ER BB SO
+Bush D (W)            6.2  6  1  1  2  2
+Shouse B              0.2  1  0  0  0  0
+Gagne E               0.2  0  0  0  0  0
+Torres S (S)          1.0  1  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Gorzelanny T (L)      7.0  4  3  3  2  4
+Bautista D            2.0  2  0  0  1  3
+
+E -- Weeks R, Fielder P
+LOB -- Milwaukee 6, Pittsburgh 11
+2B -- Sanchez F, LaRoche A, Moss B, Braun R
+HR -- Braun R, McLouth N
+SB -- Cameron M
+SH -- Gorzelanny T
+T -- 2:30
+A -- 18086
+     Game of 8/30/2008 -- Milwaukee at Pittsburgh (N)
+
+  Milwaukee          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Weeks R, 2b           6  1  2  1   Morgan N, rf          4  0  0  0   
+Hardy J, ss           5  0  3  1   Moss B, lf            3  1  2  2   
+Mota G, p             0  0  0  0   McLouth N, cf         3  0  0  0   
+Shouse B, p           0  0  0  0   Doumit R, c           4  0  1  0   
+McClung S, p          0  0  0  0   LaRoche A, 1b         4  1  0  0   
+Braun R, lf           4  1  0  0   Mientkiewicz D, 3b    3  0  0  0   
+Fielder P, 1b         3  1  0  0   Michaels J, ph        1  0  1  0   
+Hart C, rf            5  3  3  1   Rivas L, 2b           1  0  0  0   
+Cameron M, cf         4  2  2  4   Chavez J, p           0  0  0  0   
+Hall B, 3b            5  2  2  2   LaRoche A, ph         1  0  0  0   
+Kendall J, c          5  1  3  2   Yates T, p            0  0  0  0   
+Suppan J, p           2  0  1  0   Capps M, p            0  0  0  0   
+Nix L, ph             1  0  0  0   Chavez R, ph          1  0  0  0   
+Counsell C, ss        1  0  0  0   Wilson J, ss          4  0  1  1   
+                                   Maholm P, p           1  0  0  0   
+                                   Gomez C, 2b           2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     41 11 16 11                        32  3  6  3
+
+Milwaukee        011 005 103 -- 11
+Pittsburgh       000 002 001 --  3
+
+  Milwaukee            IP  H  R ER BB SO
+Suppan J (W)          7.0  3  2  2  2  2
+Mota G                0.2  0  0  0  2  1
+Shouse B              0.1  0  0  0  0  0
+McClung S             1.0  3  1  1  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (L)          5.1  7  6  6  1  3
+Chavez J              1.2  4  2  2  1  2
+Yates T               1.0  1  0  0  0  1
+Capps M               1.0  4  3  3  0  1
+
+DP -- Milwaukee 1
+LOB -- Milwaukee 8, Pittsburgh 7
+2B -- Moss B, Hall B, Kendall J 2, Weeks R, Cameron M
+3B -- Hardy J
+HR -- Hart C, Cameron M, Moss B
+SH -- Suppan J
+SF -- Cameron M
+HBP -- by Maholm P (Fielder P)
+WP -- Chavez J
+Balk -- Mota G
+T -- 3:04
+A -- 21931
+     Game of 8/31/2008 -- Milwaukee at Pittsburgh (D)
+
+  Milwaukee          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Weeks R, 2b           5  1  1  1   Wilson J, ss          2  0  0  0   
+Counsell C, ss        4  1  1  0   Grabow J, p           0  0  0  0   
+Braun R, lf           5  1  2  0   Doumit R, ph          1  0  0  0   
+Fielder P, 1b         5  1  2  1   Sanchez F, 2b         3  0  0  0   
+Hart C, rf            4  2  1  0   McLouth N, cf         3  0  0  0   
+Kapler G, cf          3  1  1  2   Michaels J, lf        3  0  0  0   
+Hall B, 3b            3  0  2  2   LaRoche A, 3b         3  0  1  0   
+Kendall J, c          4  0  1  0   Moss B, rf            2  0  0  0   
+Sabathia C, p         4  0  0  0   Gomez C, 1b           3  0  0  0   
+                                   Chavez R, c           3  0  0  0   
+                                   Karstens J, p         2  0  0  0   
+                                   Yates T, p            0  0  0  0   
+                                   Burnett S, p          0  0  0  0   
+                                   Davis J, p            0  0  0  0   
+                                   Rivas L, ss           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 11  6                        26  0  1  0
+
+Milwaukee        100 000 240 --  7
+Pittsburgh       000 000 000 --  0
+
+  Milwaukee            IP  H  R ER BB SO
+Sabathia C (W)        9.0  1  0  0  3 11
+
+  Pittsburgh           IP  H  R ER BB SO
+Karstens J (L)        6.1  5  3  3  1  0
+Yates T               1.0  3  2  2  0  1
+Burnett S*            0.0  2  2  2  2  0
+Davis J               0.2  0  0  0  0  0
+Grabow J              1.0  1  0  0  1  2
+  * Pitched to 4 batters in 8th
+
+DP -- Milwaukee 2
+LOB -- Milwaukee 7, Pittsburgh 2
+2B -- Hart C, Hall B, Kapler G
+HR -- Weeks R
+SB -- LaRoche A
+CS -- Braun R
+WP -- Burnett S
+T -- 2:56
+A -- 21293
+     Game of 9/12/2008 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Izturis C, ss         2  0  0  0   Morgan N, lf          5  2  2  0   
+Ryan B, ph-ss         2  0  0  0   Cruz L, 2b            5  2  3  0   
+Phelps J, rf-1b       2  1  1  0   McLouth N, cf         4  3  3  5   
+Pujols A, 1b          2  0  1  0   LaRoche A, 1b         4  0  1  1   
+Miles A, cf           1  1  1  0   Moss B, rf            4  1  1  2   
+Ludwick R, cf         3  0  0  0   LaRoche A, 3b         4  0  0  0   
+Villone R, p          0  0  0  0   Chavez R, c           4  1  2  0   
+Kinney J, p           0  0  0  0   Bixler B, ss          3  0  0  0   
+Johnson M, c          1  0  1  1   Maholm P, p           4  1  2  2   
+Lopez F, 3b           4  0  1  0   Sanchez R, p          0  0  0  0   
+Stavinoha N, lf       4  0  0  0                                      
+LaRue J, c            3  0  1  0                                      
+Jimenez K, p          0  0  0  0                                      
+Kennedy A, ph         1  0  0  0                                      
+Pineiro J, p          1  0  0  0                                      
+Flores R, p           0  0  0  0                                      
+Barton B, cf-rf       1  0  0  0                                      
+Barden B, 2b          3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  7  1                        37 10 14 10
+
+St. Louis        000 000 002 --  2
+Pittsburgh       102 061 00x -- 10
+
+  St. Louis            IP  H  R ER BB SO
+Pineiro J (L)*        4.0  8  7  7  1  4
+Flores R              1.0  3  2  2  1  1
+Villone R             1.0  1  1  1  0  0
+Kinney J              1.0  1  0  0  0  1
+Jimenez K             1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (W)+         8.0  7  2  2  3  3
+Sanchez R             1.0  0  0  0  0  0
+  * Pitched to 4 batters in 5th
+  + Pitched to 4 batters in 9th
+
+E -- Barden B
+DP -- Pittsburgh 2
+LOB -- St. Louis 5, Pittsburgh 7
+2B -- Pujols A, McLouth N, Moss B, LaRoche A, Miles A
+3B -- McLouth N
+HR -- McLouth N
+SH -- Pineiro J
+SF -- Moss B, LaRoche A
+T -- 2:23
+A -- 14903
+     Game of 9/13/2008 -- St. Louis at Pittsburgh (N)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Schumaker S, cf       6  2  2  1   Morgan N, lf          6  2  3  0   
+Lopez F, 3b           6  1  2  2   Sanchez F, 2b         6  2  2  0   
+Perez C, p            0  0  0  0   McLouth N, cf         5  1  1  1   
+Pujols A, 1b          5  0  1  1   Doumit R, c           4  1  2  3   
+Ludwick R, lf         5  0  1  0   LaRoche A, 1b         4  1  1  2   
+Phelps J, rf          3  0  1  0   Moss B, rf            5  0  1  1   
+Stavinoha N, rf       2  0  0  0   LaRoche A, 3b         3  0  0  0   
+McClellan K, p        0  0  0  0   Cruz L, ss            5  0  1  0   
+Ryan B, ss            1  0  1  0   Snell I, p            0  0  0  0   
+Miles A, ss-rf        6  0  2  0   Pearce S, ph          1  0  0  0   
+Kennedy A, 2b         5  1  1  0   Bautista D, p         0  0  0  0   
+Wainwright A, p       3  1  2  0   Michaels J, ph        1  0  0  0   
+Springer R, p         0  0  0  0   Burnett S, p          0  0  0  0   
+Franklin R, p         0  0  0  0   Yates T, p            0  0  0  0   
+Barden B, ph          1  0  0  0   Grabow J, p           0  0  0  0   
+Villone R, p          0  0  0  0   Mientkiewicz D, ph    1  0  0  0   
+Motte J, p            0  0  0  0   Capps M, p            0  0  0  0   
+Izturis C, ss-3b      1  0  0  0   Chavez J, p           0  0  0  0   
+LaRue J, c            4  1  1  1   Gomez C, ph           1  0  0  0   
+                                   Hansen C, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     48  6 14  5                        42  7 11  7
+
+St. Louis        130 200 000 000 --  6
+Pittsburgh       200 040 000 001 --  7
+  2 outs when winning run was scored.
+
+  St. Louis            IP  H  R ER BB SO
+Wainwright A*         4.0  9  6  6  2  3
+Springer R            1.0  0  0  0  1  1
+Franklin R            1.0  1  0  0  0  0
+Villone R             0.2  0  0  0  0  1
+Motte J               1.1  0  0  0  0  2
+McClellan K           2.0  0  0  0  1  0
+Perez C (L)           1.2  1  1  1  1  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I               4.0  9  6  5  0  3
+Bautista D            1.0  3  0  0  0  1
+Burnett S             0.2  0  0  0  1  1
+Yates T               1.2  1  0  0  0  3
+Grabow J              0.2  0  0  0  0  0
+Capps M               2.0  0  0  0  0  0
+Chavez J              1.0  0  0  0  0  0
+Hansen C (W)          1.0  1  0  0  1  0
+  * Pitched to 5 batters in 5th
+
+E -- Cruz L
+DP -- Pittsburgh 1
+LOB -- St. Louis 9, Pittsburgh 9
+2B -- Schumaker S, Kennedy A, LaRue J, McLouth N, Doumit R, Moss B
+HR -- Lopez F
+SB -- Ryan B
+CS -- Ludwick R
+SH -- Snell I, LaRue J, LaRoche A
+SF -- Doumit R, LaRoche A
+T -- 3:54
+A -- 17132
+     Game of 9/14/2008 -- St. Louis at Pittsburgh (D)
+
+  St. Louis          AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Schumaker S, cf       3  0  1  1   Sanchez F, 2b         5  1  2  0   
+Phelps J, ph          1  0  0  0   Cruz L, ss            4  2  2  0   
+Villone R, p          0  0  0  0   McLouth N, cf         3  3  2  2   
+Barden B, 1b          1  0  0  0   LaRoche A, 1b         4  1  2  3   
+Lopez F, 3b           4  0  1  0   Moss B, lf-rf         4  0  2  2   
+Pujols A, 1b          4  0  2  0   Pearce S, rf          4  0  1  0   
+LaRue J, c            0  0  0  0   Morgan N, lf          0  0  0  0   
+Ludwick R, lf-cf      4  1  1  0   LaRoche A, 3b         4  0  3  0   
+Kinney J, p           0  0  0  0   Chavez R, c           4  0  0  0   
+Molina Y, c           2  0  0  0   Davis J, p            1  0  0  0   
+Johnson M, c          1  0  0  0   Rivas L, ph           1  0  0  0   
+Stavinoha N, ph-lf    1  0  0  0   Beam T, p             0  0  0  0   
+Miles A, 2b           4  0  0  1   Paulino R, ph         1  0  0  0   
+Barton B, rf-lf-cf    3  0  2  0   Sanchez R, p          0  0  0  0   
+Thompson B, p         1  1  1  0   Burnett S, p          0  0  0  0   
+Flores R, p           0  0  0  0   Mientkiewicz D, ph    1  0  1  0   
+Jimenez K, p          0  0  0  0   Hansen C, p           0  0  0  0   
+Kennedy A, ph-rf      2  0  0  0                                      
+Ryan B, ss            3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        36  7 15  7
+
+St. Louis        001 100 000 --  2
+Pittsburgh       330 100 00x --  7
+
+  St. Louis            IP  H  R ER BB SO
+Thompson B (L)        3.2  9  6  6  1  0
+Flores R              0.1  1  1  1  0  1
+Jimenez K             2.0  3  0  0  0  0
+Villone R             1.0  1  0  0  0  2
+Kinney J              1.0  1  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Davis J               3.0  3  1  1  1  0
+Beam T (W)            3.0  3  1  1  0  1
+Sanchez R             0.2  1  0  0  0  0
+Burnett S             1.1  1  0  0  0  2
+Hansen C              1.0  0  0  0  2  0
+
+E -- Miles A
+DP -- St. Louis 3, Pittsburgh 1
+LOB -- St. Louis 8, Pittsburgh 7
+2B -- Pujols A, Cruz L, LaRoche A, Ludwick R, Barton B
+HR -- McLouth N
+SB -- Thompson B
+HBP -- by Thompson B (Cruz L)
+T -- 2:46
+A -- 18994
+     Game of 9/15/2008 -- Los Angeles at Pittsburgh (N)
+
+  Los Angeles        AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Martin R, c           3  3  1  0   Morgan N, lf          4  0  2  0   
+Ellis A, c            0  0  0  0   Sanchez F, 2b         4  0  2  0   
+Pierre J, cf-lf       5  3  3  1   McLouth N, cf         4  0  0  0   
+Ramirez M, lf         4  1  3  2   Doumit R, c           3  1  0  0   
+Sweeney M, ph         0  0  0  0   LaRoche A, 1b         4  1  1  2   
+Repko J, pr-rf        0  0  0  0   Moss B, rf            4  0  0  0   
+Loney J, 1b           4  0  2  3   LaRoche A, 3b         2  0  0  0   
+Garciaparra N, 3b     4  0  2  0   Cruz L, ss            2  0  0  0   
+Ozuna P, pr-2b        1  1  0  0   Ohlendorf R, p        0  0  0  0   
+Kemp M, rf-cf         5  0  1  0   Bixler B, ph          1  0  0  0   
+DeWitt B, 2b-3b       1  0  0  1   Salas M, p            0  0  0  0   
+Berroa A, ss          4  0  0  0   Pearce S, ph          1  0  0  0   
+Kuroda H, p           2  0  0  0   Sanchez R, p          0  0  0  0   
+Young D, ph           1  0  0  0   Rivas L, ph           1  0  0  0   
+Saito T, p            0  0  0  0   Bautista D, p         0  0  0  0   
+Penny B, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  8 12  7                        30  2  5  2
+
+Los Angeles      003 201 110 --  8
+Pittsburgh       000 000 002 --  2
+
+  Los Angeles          IP  H  R ER BB SO
+Kuroda H (W)          7.0  3  0  0  1  2
+Saito T               1.0  0  0  0  1  2
+Penny B               1.0  2  2  2  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Ohlendorf R (L)       3.0  5  3  2  4  2
+Salas M               3.0  4  3  3  3  0
+Sanchez R             2.0  3  2  2  1  1
+Bautista D            1.0  0  0  0  0  0
+
+E -- Doumit R
+DP -- Los Angeles 1, Pittsburgh 2
+LOB -- Los Angeles 9, Pittsburgh 4
+2B -- Garciaparra N, Ramirez M, Morgan N
+HR -- Pierre J, LaRoche A
+SB -- Loney J
+CS -- LaRoche A
+SF -- DeWitt B, Loney J
+HBP -- by Kuroda H (Doumit R)
+WP -- Ohlendorf R 2, Sanchez R
+T -- 2:53
+A -- 13147
+     Game of 9/16/2008 -- Los Angeles at Pittsburgh (N)
+
+  Los Angeles        AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Martin R, c           3  1  1  1   Morgan N, lf          4  0  2  0   
+Ethier A, rf          5  0  1  1   Sanchez F, 2b         4  1  1  0   
+Ramirez M, lf         5  0  3  1   McLouth N, cf         4  1  2  0   
+Beimel J, p           0  0  0  0   Doumit R, c           4  0  1  1   
+Broxton J, p          0  0  0  0   Moss B, rf            3  0  0  1   
+Loney J, 1b           4  0  0  0   Mientkiewicz D, 1b    4  0  1  0   
+Blake C, 3b           5  2  3  2   LaRoche A, 3b         4  0  0  0   
+DeWitt B, 2b          4  1  2  1   Cruz L, ss            3  0  0  0   
+Pierre J, cf-lf       4  0  1  0   Karstens J, p         1  0  0  0   
+Berroa A, ss          4  1  2  0   Pearce S, ph          1  0  0  0   
+Lowe D, p             3  1  0  0   Chavez J, p           0  0  0  0   
+Park C, p             0  0  0  0   Grabow J, p           0  0  0  0   
+Repko J, cf           0  0  0  0   Michaels J, ph        1  0  0  0   
+                                   Yates T, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 13  6                        33  2  7  2
+
+Los Angeles      041 001 000 --  6
+Pittsburgh       000 100 001 --  2
+
+  Los Angeles          IP  H  R ER BB SO
+Lowe D (W)            7.0  5  1  1  0  3
+Park C                1.0  1  0  0  0  1
+Beimel J              0.2  1  1  1  0  0
+Broxton J             0.1  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Karstens J (L)        5.0 11  5  2  1  2
+Chavez J              2.0  2  1  1  1  2
+Grabow J              1.0  0  0  0  0  1
+Yates T               1.0  0  0  0  0  0
+
+E -- Berroa A, Karstens J, DeWitt B
+DP -- Los Angeles 2, Pittsburgh 1
+LOB -- Los Angeles 9, Pittsburgh 5
+2B -- Ramirez M, Morgan N, McLouth N
+3B -- Blake C
+HR -- Blake C
+SB -- Martin R
+SH -- Lowe D
+SF -- Martin R, DeWitt B, Moss B
+T -- 2:30
+A -- 12741
+     Game of 9/17/2008 -- Los Angeles at Pittsburgh (N)
+
+  Los Angeles        AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Martin R, c           5  0  3  3   Morgan N, lf          5  2  2  0   
+Repko J, lf           1  0  0  0   Sanchez F, 2b         5  2  1  0   
+Ethier A, rf          4  0  1  1   McLouth N, cf         4  2  1  0   
+Ramirez M, lf         3  1  1  0   Doumit R, c           4  2  3  4   
+Ellis A, c            0  0  0  0   LaRoche A, 1b         5  3  3  5   
+Blake C, 3b           5  0  0  0   Moss B, rf            4  1  1  0   
+Garciaparra N, 1b     3  1  2  1   LaRoche A, 3b         4  1  1  2   
+Loney J, 1b           2  1  1  0   Bixler B, ss          3  0  1  0   
+Kemp M, cf            5  1  4  0   Mientkiewicz D, ph    1  1  1  1   
+Ozuna P, 2b           4  1  2  1   Cruz L, ss            0  0  0  0   
+Elbert S, p           0  0  0  0   Duke Z, p             2  0  0  0   
+Johnson J, p          0  0  0  0   Beam T, p             0  0  0  0   
+Troncoso R, p         0  0  0  0   Burnett S, p          0  0  0  0   
+McDonald J, p         0  0  0  0   Bautista D, p         0  0  0  0   
+Sweeney M, ph         1  0  1  0   Pearce S, ph          1  0  0  0   
+Berroa A, ss          5  2  2  2   Grabow J, p           0  0  0  0   
+Billingsley C, p      1  0  0  0   Michaels J, ph        1  1  1  1   
+Beimel J, p           0  0  0  0   Yates T, p            0  0  0  0   
+Young D, ph           1  1  1  0   Capps M, p            0  0  0  0   
+Proctor S, p          0  0  0  0                                      
+DeWitt B, 2b          2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42  8 18  8                        39 15 15 13
+
+Los Angeles      000 402 101 --  8
+Pittsburgh       101 140 80x -- 15
+
+  Los Angeles          IP  H  R ER BB SO
+Billingsley C         4.2  8  7  6  2  5
+Beimel J              0.1  0  0  0  0  1
+Proctor S             1.2  0  0  0  0  3
+Elbert S (L)*         0.0  3  4  4  1  0
+Johnson J+            0.0  3  3  2  0  0
+Troncoso R            0.1  1  1  0  0  0
+McDonald J            1.0  0  0  0  0  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z#               5.0 11  5  5  1  2
+Beam T**              0.0  2  1  1  0  0
+Burnett S             0.1  0  0  0  0  0
+Bautista D            0.2  0  0  0  1  0
+Grabow J (W)          1.0  1  1  0  0  0
+Yates T               1.0  1  0  0  1  2
+Capps M               1.0  3  1  1  0  2
+  * Pitched to 4 batters in 7th
+  + Pitched to 3 batters in 7th
+  # Pitched to 1 batter in 6th
+  ** Pitched to 2 batters in 6th
+
+E -- Blake C, Bixler B, Loney J
+DP -- Pittsburgh 1
+LOB -- Los Angeles 11, Pittsburgh 3
+2B -- Morgan N 2, Garciaparra N, Martin R, Young D, Berroa A, Moss B
+3B -- Mientkiewicz D
+HR -- LaRoche A 2, Doumit R
+CS -- Moss B
+SF -- Ethier A
+WP -- Yates T
+T -- 3:22
+A -- 11883
+     Game of 9/18/2008 -- Los Angeles at Pittsburgh (D)
+
+  Los Angeles        AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Martin R, c           3  1  0  0   Morgan N, lf          4  2  2  0   
+Ethier A, rf          6  0  2  1   Cruz L, ss            5  0  1  1   
+Ramirez M, lf         4  1  0  0   McLouth N, cf         3  1  1  1   
+Blake C, 3b           4  0  0  0   Michaels J, rf        6  0  1  0   
+Loney J, 1b           6  0  1  1   LaRoche A, 1b         3  0  0  0   
+Kemp M, cf            5  2  2  0   LaRoche A, 3b         5  0  1  1   
+DeWitt B, 2b          4  0  1  2   Gomez C, 2b           5  0  0  0   
+Berroa A, ss          1  0  0  0   Chavez R, c           3  0  1  0   
+Sweeney M, ph         0  0  0  0   Bixler B, pr          0  0  0  0   
+Hu C, ss              2  0  0  0   Grabow J, p           0  0  0  0   
+Kershaw C, p          1  0  0  0   Capps M, p            0  0  0  0   
+Saito T, p            0  0  0  0   Moss B, ph            1  0  0  0   
+Young D, ph           1  0  0  0   Hansen C, p           0  0  0  0   
+Wade C, p             0  0  0  0   Beam T, p             0  0  0  0   
+Repko J, ph           1  0  0  0   Maholm P, p           2  0  0  0   
+Park C, p             0  0  0  0   Mientkiewicz D, ph    1  0  1  0   
+Beimel J, p           0  0  0  0   Chavez J, p           0  0  0  0   
+Pierre J, ph          1  0  0  0   Burnett S, p          0  0  0  0   
+Proctor S, p          0  0  0  0   Yates T, p            0  0  0  0   
+Broxton J, p          0  0  0  0   Doumit R, ph-c        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  4  6  4                        40  3  8  3
+
+Los Angeles      000 200 100 001 --  4
+Pittsburgh       100 001 100 000 --  3
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C             5.0  2  1  1  2  5
+Saito T               1.0  2  1  1  1  1
+Wade C                2.0  3  1  1  0  2
+Park C                1.2  1  0  0  1  0
+Beimel J              0.1  0  0  0  0  0
+Proctor S (W)         1.0  0  0  0  0  0
+Broxton J (S)         1.0  0  0  0  2  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P              7.0  3  3  3  6  4
+Chavez J              0.2  1  0  0  1  1
+Burnett S             1.0  0  0  0  0  1
+Yates T               0.1  0  0  0  0  1
+Grabow J              0.2  1  0  0  1  1
+Capps M               1.1  0  0  0  0  1
+Hansen C (L)          0.1  0  1  1  3  1
+Beam T                0.2  1  0  0  0  1
+
+DP -- Los Angeles 1
+LOB -- Los Angeles 12, Pittsburgh 10
+2B -- Morgan N, Kemp M, McLouth N
+SB -- Michaels J, Morgan N 2, Kemp M, Martin R, McLouth N
+CS -- Kemp M
+SH -- Kershaw C, Berroa A, Cruz L
+SF -- McLouth N
+HBP -- by Park C (Morgan N)
+WP -- Kershaw C
+T -- 3:54
+A -- 12709
+     Game of 9/19/2008 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Matsui K, 2b          4  1  1  0   Morgan N, lf          4  0  0  0   
+Erstad D, lf          1  0  0  0   Sanchez F, 2b         4  0  0  0   
+Bourn M, cf           4  0  1  0   McLouth N, cf         4  0  1  0   
+Tejada M, ss          4  0  0  0   Doumit R, c           4  0  0  0   
+Berkman L, 1b         1  2  0  0   LaRoche A, 1b         4  1  2  1   
+Blum G, 3b            3  2  1  1   Pearce S, rf          4  0  1  0   
+Pence H, rf           2  0  2  3   LaRoche A, 3b         3  0  0  0   
+Wigginton T, lf       4  0  0  1   Cruz L, ss            1  0  0  0   
+Hawkins L, p          0  0  0  0   Mientkiewicz D, ph    0  0  0  0   
+Byrdak T, p           0  0  0  0   Bixler B, pr-ss       0  0  0  0   
+Valverde J, p         0  0  0  0   Snell I, p            1  0  0  0   
+Quintero H, c         2  0  0  0   Bautista D, p         0  0  0  0   
+Wolf R, p             2  0  1  0   Moss B, ph            1  0  0  0   
+Maysonet E, 2b        1  0  0  0   Chavez J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  5  6  5                        30  1  4  1
+
+Houston          000 200 030 --  5
+Pittsburgh       000 100 000 --  1
+
+  Houston              IP  H  R ER BB SO
+Wolf R (W)            7.0  3  1  1  1  7
+Hawkins L             1.0  0  0  0  1  0
+Byrdak T              0.2  1  0  0  0  0
+Valverde J            0.1  0  0  0  0  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I (L)           6.0  3  2  1  5  3
+Bautista D            2.0  3  3  3  3  0
+Chavez J              1.0  0  0  0  0  2
+
+E -- LaRoche A
+DP -- Pittsburgh 2
+LOB -- Houston 5, Pittsburgh 5
+2B -- Pence H
+HR -- LaRoche A
+CS -- Bourn M, Pence H
+SH -- Wolf R, Snell I
+T -- 2:59
+A -- 26301
+     Game of 9/20/2008 -- Houston at Pittsburgh (N)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Matsui K, 2b          5  1  3  0   Morgan N, lf          4  2  2  0   
+Bourn M, cf           5  1  2  0   Sanchez F, 2b         3  1  1  0   
+Tejada M, ss          4  0  1  1   McLouth N, cf         3  1  1  1   
+Berkman L, 1b         5  0  1  0   Doumit R, c           4  1  3  3   
+Blum G, 3b            3  1  1  0   LaRoche A, 1b         2  0  0  0   
+Pence H, rf           3  1  1  0   Moss B, rf            4  1  1  1   
+Wigginton T, lf       4  0  1  1   LaRoche A, 3b         3  0  0  1   
+Quintero H, c         3  0  0  0   Cruz L, ss            4  0  0  0   
+Loretta M, ph         1  0  1  1   Barthmaier J, p       1  0  0  0   
+Maysonet E, pr        0  0  0  0   Rivas L, ph           1  0  0  0   
+Ausmus B, c           0  0  0  0   Davis J, p            0  0  0  0   
+Moehler B, p          0  0  0  0   Wilson J, ph          1  0  0  0   
+Newhan D, ph          1  0  0  0   Beam T, p             0  0  0  0   
+Borkowski D, p        0  0  0  0   Burnett S, p          0  0  0  0   
+Wright W, p           0  0  0  0   Yates T, p            0  0  0  0   
+Saccomanno M, ph      1  0  0  0   Grabow J, p           0  0  0  0   
+Sampson C, p          0  0  0  0   Mientkiewicz D, ph    1  0  0  0   
+Erstad D, ph          1  0  0  0   Capps M, p            0  0  0  0   
+Byrdak T, p           0  0  0  0                                      
+Castillo J, ph        1  0  0  0                                      
+Brocail D, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  4 11  3                        31  6  8  6
+
+Houston          002 000 020 --  4
+Pittsburgh       510 000 00x --  6
+
+  Houston              IP  H  R ER BB SO
+Moehler B (L)         1.0  5  5  5  0  0
+Borkowski D           2.0  2  1  1  2  1
+Wright W              1.0  1  0  0  1  1
+Sampson C             2.0  0  0  0  0  0
+Byrdak T              1.0  0  0  0  0  2
+Brocail D             1.0  0  0  0  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Barthmaier J          3.0  5  2  2  2  2
+Davis J (W)           2.0  0  0  0  0  1
+Beam T                1.0  1  0  0  0  1
+Burnett S             1.0  0  0  0  0  1
+Yates T               0.2  3  2  2  1  1
+Grabow J              0.1  0  0  0  0  0
+Capps M (S)           1.0  2  0  0  0  0
+
+E -- Matsui K, LaRoche A
+DP -- Houston 1, Pittsburgh 2
+LOB -- Houston 10, Pittsburgh 6
+2B -- Doumit R 2, Morgan N, Blum G
+3B -- Moss B
+CS -- Bourn M
+SF -- LaRoche A
+HBP -- by Wright W (LaRoche A), by Davis J (Tejada M)
+T -- 2:49
+A -- 36621
+     Game of 9/21/2008 -- Houston at Pittsburgh (D)
+
+  Houston            AB  R  H RBI    Pittsburgh         AB  R  H RBI
+Bourn M, cf           6  1  3  0   Morgan N, lf          4  0  0  0   
+Loretta M, 2b         4  1  1  0   Sanchez F, 2b         4  0  2  0   
+Tejada M, ss          5  2  3  1   McLouth N, cf         4  0  0  0   
+Berkman L, 1b         4  0  1  1   Doumit R, c           4  1  3  0   
+Blum G, 3b            4  1  2  1   LaRoche A, 1b         3  0  0  0   
+Pence H, rf           4  1  1  0   Mientkiewicz D, 1b    1  0  0  0   
+Wigginton T, lf       4  0  2  0   Moss B, rf            4  0  1  1   
+Wright W, p           0  0  0  0   LaRoche A, 3b         4  1  1  0   
+Ausmus B, c           4  0  1  2   Cruz L, ss            3  0  1  1   
+Oswalt R, p           2  0  0  0   Ohlendorf R, p        1  0  0  0   
+Newhan D, ph          1  0  0  0   Wilson J, ph          1  0  1  0   
+Geary G, p            0  0  0  0   Bautista D, p         0  0  0  0   
+Hawkins L, p          0  0  0  0   Beam T, p             0  0  0  0   
+Abercrombie R, ph-lf  1  0  0  0   Burnett S, p          0  0  0  0   
+                                   Chavez J, p           0  0  0  0   
+                                   Michaels J, ph        1  0  0  0   
+                                   Sanchez R, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 14  5                        34  2  9  2
+
+Houston          002 020 011 --  6
+Pittsburgh       000 010 001 --  2
+
+  Houston              IP  H  R ER BB SO
+Oswalt R (W)          6.0  7  1  1  0  4
+Geary G               1.0  0  0  0  0  0
+Hawkins L             1.0  0  0  0  0  0
+Wright W              1.0  2  1  1  0  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Ohlendorf R (L)       5.0 10  4  4  2  3
+Bautista D            0.1  1  0  0  2  0
+Beam T                1.1  0  0  0  0  1
+Burnett S*            0.1  1  1  1  0  0
+Chavez J              1.0  1  0  0  0  1
+Sanchez R             1.0  1  1  1  1  1
+  * Pitched to 1 batter in 8th
+
+DP -- Houston 2
+LOB -- Houston 13, Pittsburgh 5
+2B -- Berkman L, Blum G, Cruz L, Doumit R
+SB -- Bourn M 2
+SH -- Oswalt R
+SF -- Blum G
+WP -- Ohlendorf R, Sanchez R 2
+Balk -- Wright W
+T -- 3:07
+A -- 20311
+

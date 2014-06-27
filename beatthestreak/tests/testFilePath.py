@@ -105,10 +105,10 @@ class TestFilepath(unittest.TestCase):
     def test_get_mass_results_file(self):
         # test for non-testing environment
         self.assertEqual(Filepath.get_mass_results_file((2009, 2010), (0, 3), 
-            (1, 100), (1, 100)), self.rootDir + '/results/mass/S2009-2010' + \
-        ',SMB0-3,N1-100,P1-100.xlsx')
+            (1, 100), (1, 100), (480, 502)), self.rootDir + '/results/mass/S2009-2010' + \
+        ',SMB0-3,N1-100,P1-100,mPA480-502.xlsx')
 
         # test for testing environment
         self.assertEqual(Filepath.get_mass_results_file((2009, 2010), (0, 3), 
-            (1, 100), (1, 100), test=True), self.rootDir + '/tests/results/' + \
-            'mass/S2009-2010,SMB0-3,N1-100,P1-100.xlsx')
+            (1, 100), (1, 100), (480, 502), test=True), self.rootDir + '/tests/results/' + \
+            'mass/S2009-2010,SMB0-3,N1-100,P1-100,mPA480-502.xlsx')

@@ -1,0 +1,3327 @@
+     Game of 4/4/2000 -- Boston at Seattle (N)
+
+  Boston             AB  R  H RBI    Seattle            AB  R  H RBI
+Offerman J, 2b        5  0  1  1   Cameron M, cf         4  0  0  0   
+Valentin J, 3b        4  1  2  0   McLemore M, lf        4  0  0  0   
+Everett C, cf         3  0  1  0   Rodriguez A, ss       2  0  0  0   
+Garciaparra N, ss     4  0  0  0   Olerud J, 1b          4  0  1  0   
+Stanley M, 1b         3  0  1  0   Martinez E, dh        3  0  0  0   
+O'Leary T, lf         4  0  1  1   Mabry J, rf           3  0  0  0   
+Gaetti G, dh          4  0  0  0   Bell D, 2b            3  0  0  0   
+Varitek J, c          3  1  0  0   Wilson D, c           3  0  0  0   
+Lewis D, rf           3  0  1  0   Guillen C, 3b         3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        29  0  2  0
+
+Boston           000 001 100 --  2
+Seattle          000 000 000 --  0
+
+  Boston               IP  H  R ER BB SO
+Martinez P (W)        7.0  2  0  0  2 11
+Lowe D (S)            2.0  0  0  0  0  1
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (L)           6.1  6  2  2  3  4
+Abbott P              2.2  1  0  0  0  1
+
+LOB -- Boston 8, Seattle 4
+2B -- Valentin J, Stanley M, Offerman J
+SH -- Lewis D
+PB -- Varitek J 2
+T -- 2:40
+A -- 45552
+     Game of 4/5/2000 -- Boston at Seattle (N)
+
+  Boston             AB  R  H RBI    Seattle            AB  R  H RBI
+Offerman J, 2b        3  0  1  0   Cameron M, cf         5  1  2  0   
+Valentin J, 3b        3  1  1  1   McLemore M, lf        3  2  2  0   
+Alexander M, 3b       1  0  0  0   Rodriguez A, ss       3  2  1  1   
+Everett C, cf         4  0  1  0   Olerud J, 1b          3  1  1  3   
+Garciaparra N, ss     4  0  0  0   Mabry J, dh           4  1  1  1   
+O'Leary T, lf         4  0  0  0   Buhner J, rf          4  1  2  4   
+Stanley M, 1b         4  0  1  0   Gipson C, rf          0  0  0  0   
+Daubach B, dh         2  2  2  2   Bell D, 2b            4  0  0  0   
+Gaetti G, ph          1  0  0  0   Wilson D, c           3  0  0  0   
+Varitek J, c          4  0  2  0   Guillen C, 3b         3  1  0  0   
+Nixon T, rf           4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  9  3                        32  9  9  9
+
+Boston           010 100 100 --  3
+Seattle          520 101 00x --  9
+
+  Boston               IP  H  R ER BB SO
+Martinez R (L)        1.1  3  7  7  4  1
+Wasdin J              2.2  3  1  1  2  4
+Wakefield T           4.0  3  1  1  2  4
+
+  Seattle              IP  H  R ER BB SO
+Garcia F (W)          5.0  6  2  2  2  2
+Rodriguez F           2.0  2  1  1  1  1
+Rhodes A              1.0  0  0  0  0  3
+Sasaki K              1.0  1  0  0  0  1
+
+E -- Garciaparra N
+DP -- Boston 1, Seattle 1
+LOB -- Boston 8, Seattle 9
+2B -- Offerman J
+3B -- Cameron M
+HR -- Buhner J, Daubach B 2, Rodriguez A, Olerud J, Valentin J
+SH -- Valentin J
+SF -- Olerud J
+HBP -- by Martinez R (Rodriguez A)
+WP -- Rodriguez F
+T -- 3:11
+A -- 29242
+     Game of 4/6/2000 -- Boston at Seattle (N)
+
+  Boston             AB  R  H RBI    Seattle            AB  R  H RBI
+Offerman J, 2b        4  0  0  0   McLemore M, lf        2  1  1  0   
+Nixon T, rf           4  1  1  1   Javier S, dh          2  1  1  0   
+Everett C, cf         3  1  3  0   Rodriguez A, ss       2  0  1  2   
+Garciaparra N, ss     4  0  2  0   Olerud J, 1b          4  0  0  1   
+O'Leary T, lf         4  0  0  0   Buhner J, rf          4  0  1  0   
+Stanley M, 1b         2  0  0  0   Gipson C, rf          0  0  0  0   
+Daubach B, dh         3  0  2  1   Cameron M, cf         4  1  1  1   
+Gaetti G, ph          1  0  0  0   Bell D, 2b            4  1  2  1   
+Varitek J, c          4  0  0  0   Wilson D, c           3  1  0  0   
+Alexander M, 3b       3  0  0  0   Guillen C, 3b         4  0  0  0   
+Hatteberg S, ph       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        29  5  7  5
+
+Boston           001 001 000 --  2
+Seattle          000 010 22x --  5
+
+  Boston               IP  H  R ER BB SO
+Fassero J             5.0  3  1  1  6  1
+Florie B (L)          1.1  1  2  1  2  2
+Cormier R             1.2  3  2  2  0  0
+
+  Seattle              IP  H  R ER BB SO
+Sele A                6.0  6  2  2  4  3
+Mesa J (W)*           1.0  2  0  0  0  1
+Rhodes A              1.0  0  0  0  0  1
+Sasaki K (S)          1.0  0  0  0  0  3
+  * Pitched to 2 batters in 8th
+
+E -- Offerman J
+DP -- Boston 1, Seattle 2
+LOB -- Boston 8, Seattle 8
+2B -- Rodriguez A
+HR -- Nixon T, Cameron M, Bell D
+SB -- McLemore M
+CS -- McLemore M 2
+T -- 3:06
+A -- 25121
+     Game of 4/7/2000 -- New York at Seattle (N)
+
+  New York           AB  R  H RBI    Seattle            AB  R  H RBI
+Knoblauch C, 2b       4  1  1  0   Cameron M, cf         4  0  1  0   
+Jeter D, ss           4  1  2  2   Javier S, dh          5  0  2  0   
+O'Neill P, rf         4  0  2  0   Rodriguez A, ss       2  2  1  2   
+Williams B, cf        4  1  1  0   Olerud J, 1b          4  0  1  1   
+Spencer S, dh         4  1  1  2   Buhner J, rf          5  1  2  1   
+Martinez T, 1b        4  0  0  0   Mabry J, rf           0  0  0  0   
+Posada J, c           4  0  1  0   Bell D, 2b            4  0  1  0   
+Kelly R, lf           3  0  0  0   Oliver J, c           4  2  2  2   
+Ledee R, ph           1  0  0  0   Guillen C, 3b         4  0  0  0   
+Bellinger C, 3b       2  1  1  0   Gipson C, lf          2  0  1  0   
+Johnson L, ph         1  0  0  0   McLemore M, ph-lf     1  2  1  0   
+Delgado W, 3b         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  4                        35  7 12  6
+
+New York         002 010 002 --  5
+Seattle          110 031 01x --  7
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        5.0  7  5  5  4  6
+Mendoza R             2.0  2  1  1  1  1
+Stanton M             1.0  3  1  1  0  2
+
+  Seattle              IP  H  R ER BB SO
+Halama J (W)          6.0  7  3  2  0  4
+Paniagua J            1.0  0  0  0  0  2
+Abbott P*             1.0  2  2  2  0  1
+Sasaki K (S)          1.0  0  0  0  0  1
+  * Pitched to 2 batters in 9th
+
+E -- Bell D
+DP -- Seattle 1
+LOB -- New York 3, Seattle 10
+2B -- Knoblauch C, Posada J, Cameron M, Bellinger C, Buhner J, Williams B
+HR -- Rodriguez A, Jeter D, Oliver J, Spencer S
+SB -- Cameron M, Gipson C, Javier S
+SF -- Rodriguez A
+Balk -- Pettitte A
+T -- 3:09
+A -- 40827
+     Game of 4/8/2000 -- New York at Seattle (D)
+
+  New York           AB  R  H RBI    Seattle            AB  R  H RBI
+Knoblauch C, 2b       4  0  0  0   McLemore M, 2b-lf     4  0  0  0   
+Jeter D, ss           5  1  2  0   Javier S, dh          4  1  1  0   
+O'Neill P, rf         5  0  2  1   Rodriguez A, ss       4  0  1  0   
+Williams B, cf        4  0  1  0   Olerud J, 1b          1  0  0  0   
+Martinez T, 1b        4  1  2  1   Mabry J, rf           2  0  0  0   
+Ledee R, lf           2  0  0  0   Bell D, ph-2b         1  0  0  0   
+Posada J, c           4  0  1  0   Cameron M, cf         4  0  0  0   
+Spencer S, dh         3  0  1  0   Ibanez R, lf-rf       4  1  3  2   
+Soriano A, 3b         3  1  1  1   Wilson D, c           4  0  0  0   
+Bellinger C, 3b       0  0  0  0   Guillen C, 3b         3  0  0  0   
+                                   Buhner J, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3 10  3                        32  2  5  2
+
+New York         010 000 101 --  3
+Seattle          000 011 000 --  2
+
+  New York             IP  H  R ER BB SO
+Hernandez O           7.0  4  2  2  2  9
+Grimsley J*           0.0  1  0  0  0  0
+Stanton M             0.1  0  0  0  0  0
+Nelson J (W)          0.2  0  0  0  0  0
+Rivera M (S)          1.0  0  0  0  0  1
+
+  Seattle              IP  H  R ER BB SO
+Meche G               4.1  4  1  1  3  4
+Rodriguez F           2.0  4  1  1  1  1
+Rhodes A              1.0  0  0  0  1  0
+Mesa J (L)            1.2  2  1  1  0  2
+  * Pitched to 1 batter in 8th
+
+E -- Knoblauch C, Soriano A
+DP -- New York 1, Seattle 2
+LOB -- New York 10, Seattle 7
+2B -- Javier S, Jeter D, O'Neill P
+HR -- Martinez T, Ibanez R, Soriano A
+SB -- Jeter D
+SH -- Soriano A, Olerud J
+HBP -- by Hernandez O (Mabry J)
+PB -- Wilson D
+T -- 3:35
+A -- 45261
+     Game of 4/9/2000 -- New York at Seattle (D)
+
+  New York           AB  R  H RBI    Seattle            AB  R  H RBI
+Knoblauch C, 2b       4  1  1  0   McLemore M, lf        4  1  0  0   
+Jeter D, ss           4  1  1  1   Cameron M, cf         4  2  2  2   
+O'Neill P, rf         4  0  0  0   Rodriguez A, ss       4  1  1  2   
+Williams B, cf        2  0  0  1   Olerud J, 1b          2  0  0  1   
+Martinez T, 1b        3  0  0  0   Martinez E, dh        4  1  2  2   
+Posada J, c           3  0  0  0   Buhner J, rf          4  1  2  2   
+Leyritz J, dh         3  0  0  0   Gipson C, rf          0  0  0  0   
+Kelly R, lf           3  0  0  0   Bell D, 2b            3  0  0  0   
+Soriano A, 3b         3  1  1  1   Wilson D, c           3  1  2  0   
+                                   Guillen C, 3b         2  2  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  3  3  3                        30  9  9  9
+
+New York         000 201 000 --  3
+Seattle          001 060 20x --  9
+
+  New York             IP  H  R ER BB SO
+Clemens R (L)         6.0  7  7  1  3  4
+Erdos T               1.0  2  2  2  1  0
+Watson A              1.0  0  0  0  2  2
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (W)           8.0  3  3  3  0  4
+Paniagua J            1.0  0  0  0  0  1
+
+E -- Jeter D, Posada J
+DP -- New York 3
+LOB -- New York 0, Seattle 5
+2B -- Knoblauch C, Jeter D, Buhner J, Rodriguez A
+HR -- Buhner J, Soriano A
+SB -- McLemore M
+CS -- McLemore M
+SH -- Guillen C
+SF -- Williams B, Olerud J
+T -- 2:40
+A -- 45488
+     Game of 4/21/2000 -- Kansas City at Seattle (N)
+
+  Kansas City        AB  R  H RBI    Seattle            AB  R  H RBI
+Damon J, lf           4  1  1  0   McLemore M, lf-cf-2b  4  1  1  1   
+Febles C, 2b          4  0  2  1   Bell D, 2b-3b         4  1  1  0   
+Beltran C, cf         3  0  0  0   Rodriguez A, ss       4  0  0  1   
+Ordaz L, ss           0  0  0  1   Olerud J, 1b          5  2  2  1   
+Dye J, rf             5  0  2  0   Martinez E, dh        2  0  0  1   
+Sweeney M, 1b         4  0  1  0   Lampkin T, ph         3  1  0  0   
+Randa J, 3b           4  0  0  0   Buhner J, rf          5  1  2  3   
+Quinn M, dh           4  0  0  0   Gipson C, cf          0  0  0  0   
+Fabregas J, c         3  0  1  0   Mabry J, 3b           0  0  0  0   
+Sanchez R, ss         3  0  0  0   Ibanez R, lf          1  2  1  0   
+Pose S, cf            1  1  1  0   Wilson D, c           3  1  1  2   
+                                   Cameron M, cf         0  0  0  0   
+                                   Javier S, lf-cf-rf    3  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     35  2  8  2                        34 10 10 10
+
+Kansas City      001 000 001 --  2
+Seattle          003 133 00x -- 10
+
+  Kansas City          IP  H  R ER BB SO
+Durbin C (L)*         4.0  6  5  5  4  2
+Rigby B               2.0  4  5  4  3  1
+Reichert D            1.0  0  0  0  0  1
+Spradlin J            1.0  0  0  0  0  1
+
+  Seattle              IP  H  R ER BB SO
+Garcia F+             2.0  2  1  1  2  3
+Rodriguez F (W)       4.0  4  0  0  0  2
+Paniagua J            1.0  1  0  0  2  1
+Mesa J                1.0  0  0  0  0  2
+Sasaki K              1.0  1  1  0  0  0
+  * Pitched to 1 batter in 5th
+  + Pitched to 1 batter in 3rd
+
+E -- Febles C, McLemore M
+LOB -- Kansas City 11, Seattle 8
+2B -- Buhner J, Febles C, Olerud J 2, Wilson D, McLemore M
+HR -- Buhner J
+SH -- Wilson D
+SF -- Ordaz L
+T -- 3:22
+A -- 37034
+     Game of 4/22/2000 -- Kansas City at Seattle (D)
+
+  Kansas City        AB  R  H RBI    Seattle            AB  R  H RBI
+Damon J, cf           2  0  1  0   McLemore M, 2b        4  0  0  0   
+McCarty D, lf         2  1  1  1   Javier S, cf-rf       4  0  1  0   
+Febles C, 2b          4  0  0  0   Rodriguez A, ss       4  0  1  0   
+Sweeney M, 1b         4  0  1  0   Olerud J, 1b          3  0  1  0   
+Dye J, rf             4  1  2  1   Ibanez R, lf          4  2  1  0   
+Quinn M, dh           4  0  0  0   Buhner J, rf          4  1  1  1   
+Randa J, 3b           2  0  1  0   Gipson C, cf          0  0  0  0   
+Pose S, lf-cf         3  0  0  0   Lampkin T, dh         3  1  2  3   
+Johnson B, c          3  0  0  0   Bell D, 3b            3  0  0  0   
+Sanchez R, ss         3  0  0  0   Wilson D, c           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        32  4  7  4
+
+Kansas City      000 100 001 --  2
+Seattle          020 200 00x --  4
+
+  Kansas City          IP  H  R ER BB SO
+Witasick J (L)        5.0  6  4  4  1  5
+Spradlin J            2.0  1  0  0  0  2
+Reichert D            1.0  0  0  0  0  2
+
+  Seattle              IP  H  R ER BB SO
+Tomko B (W)*          6.0  4  1  1  0  7
+Abbott P              2.0  0  0  0  1  1
+Sasaki K (S)          1.0  2  1  1  0  0
+  * Pitched to 1 batter in 7th
+
+E -- Witasick J
+DP -- Seattle 2
+LOB -- Kansas City 3, Seattle 5
+2B -- Buhner J, Lampkin T, Javier S
+HR -- Lampkin T, Dye J, McCarty D
+WP -- Witasick J
+T -- 2:33
+A -- 38200
+     Game of 4/23/2000 -- Kansas City at Seattle (D)
+
+  Kansas City        AB  R  H RBI    Seattle            AB  R  H RBI
+Ordaz L, ss           5  0  0  0   McLemore M, 2b        5  0  0  0   
+Reboulet J, 2b        3  2  2  0   Javier S, cf-rf       3  1  0  0   
+Beltran C, cf         4  1  0  0   Rodriguez A, ss       0  2  0  0   
+Dye J, rf             5  2  3  3   Olerud J, 1b          4  2  2  4   
+Sweeney M, dh         4  0  0  0   Martinez E, dh        4  2  2  2   
+Randa J, 3b           5  0  3  2   Buhner J, rf          2  1  0  0   
+Quinn M, lf           4  0  1  0   Cameron M, cf         0  0  0  0   
+McCarty D, 1b         4  0  1  0   Lampkin T, c          4  0  2  0   
+Fabregas J, c         3  0  0  0   Wilson D, c           0  0  0  0   
+                                   Ibanez R, lf          4  0  0  0   
+                                   Gipson C, lf          0  0  0  0   
+                                   Bell D, 3b            4  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     37  5 10  5                        30  8  7  8
+
+Kansas City      100 000 301 --  5
+Seattle          100 220 003 --  8
+  0 outs when winning run was scored.
+
+  Kansas City          IP  H  R ER BB SO
+Suppan J              4.1  5  5  5  7  3
+Santiago J            3.2  1  0  0  1  2
+Bottalico R (L)       0.0  1  3  3  2  0
+
+  Seattle              IP  H  R ER BB SO
+Sele A                5.1  7  1  1  2  1
+Paniagua J            1.0  0  2  2  2  0
+Mesa J                1.2  2  1  1  0  4
+Rhodes A (W)          1.0  1  1  1  0  0
+
+LOB -- Kansas City 10, Seattle 8
+2B -- Reboulet J, Olerud J, Bell D, Dye J, Randa J
+HR -- Martinez E, Dye J, Olerud J
+SB -- Randa J
+HBP -- by Mesa J (Sweeney M)
+T -- 3:13
+A -- 29701
+     Game of 4/24/2000 -- Cleveland at Seattle (N)
+
+  Cleveland          AB  R  H RBI    Seattle            AB  R  H RBI
+Lofton K, cf          4  1  0  0   Cameron M, cf         3  0  0  0   
+Vizquel O, ss         4  2  3  0   Javier S, lf          2  0  0  0   
+Alomar R, 2b          4  2  2  1   Rodriguez A, ss       4  0  0  0   
+Ramirez M, rf         2  0  0  2   Martinez E, dh        2  0  0  0   
+Thome J, dh           3  0  2  2   Olerud J, 1b          3  0  0  0   
+Justice D, lf         3  0  0  0   Buhner J, rf          4  0  0  0   
+Fryman T, 3b          4  1  1  1   Bell D, 2b            3  0  0  0   
+Sexson R, 1b          3  0  0  0   Wilson D, c           3  0  1  0   
+Diaz E, c             4  0  1  0   Gipson C, 3b          2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  6  9  6                        26  0  2  0
+
+Cleveland        200 030 001 --  6
+Seattle          000 000 000 --  0
+
+  Cleveland            IP  H  R ER BB SO
+Finley C (W)          8.0  2  0  0  7 10
+Karsay S              1.0  0  0  0  0  1
+
+  Seattle              IP  H  R ER BB SO
+Meche G (L)           6.0  7  5  4  3  1
+Hodges K              3.0  2  1  1  1  1
+
+E -- Cameron M
+DP -- Cleveland 2, Seattle 3
+LOB -- Cleveland 4, Seattle 6
+2B -- Thome J
+HR -- Fryman T
+SB -- Cameron M
+CS -- Cameron M
+SF -- Ramirez M 2
+WP -- Meche G, Finley C
+T -- 2:42
+A -- 30354
+     Game of 4/25/2000 -- Cleveland at Seattle (N)
+
+  Cleveland          AB  R  H RBI    Seattle            AB  R  H RBI
+Lofton K, cf          4  1  0  0   McLemore M, 2b        4  0  0  0   
+Vizquel O, ss         4  0  1  0   Javier S, lf          5  1  2  2   
+Alomar R, 2b          5  1  3  1   Rodriguez A, ss       4  0  1  1   
+Ramirez M, rf         4  1  2  3   Olerud J, 1b          3  2  2  1   
+Fryman T, 3b          3  0  0  0   Martinez E, dh        3  1  0  0   
+Thome J, ph           1  0  0  0   Buhner J, rf          3  1  1  3   
+Justice D, lf         4  0  1  1   Bell D, 3b            3  0  0  0   
+Sexson R, 1b          4  0  1  0   Lampkin T, ph         0  0  0  0   
+Ramirez A, dh         2  0  0  0   Hernandez C, ph-3b    1  0  0  0   
+Cruz J, ph            1  0  1  0   Wilson D, c           4  1  1  0   
+Wilson E, ph          1  0  0  0   Cameron M, cf         2  1  2  1   
+Diaz E, c             3  2  2  0   Gipson C, cf          1  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 11  5                        33  8  9  8
+
+Cleveland        220 000 001 --  5
+Seattle          031 021 01x --  8
+
+  Cleveland            IP  H  R ER BB SO
+Nagy C (L)            4.1  6  6  6  2  3
+Witt B                2.1  2  1  1  3  2
+Martin T              0.1  0  0  0  0  1
+Reed S                1.0  1  1  0  0  1
+
+  Seattle              IP  H  R ER BB SO
+Halama J (W)          5.0  6  4  4  4  5
+Abbott P              2.0  2  0  0  1  3
+Rhodes A              1.0  0  0  0  0  1
+Sasaki K              1.0  3  1  1  0  2
+
+E -- Alomar R
+DP -- Seattle 1
+LOB -- Cleveland 9, Seattle 7
+2B -- Alomar R, Ramirez M, Cruz J, Wilson D
+3B -- Javier S
+HR -- Buhner J, Olerud J
+SB -- Rodriguez A, Cameron M, Alomar R, Vizquel O
+SH -- McLemore M
+WP -- Halama J, Sasaki K
+T -- 3:16
+A -- 27579
+     Game of 4/26/2000 -- Cleveland at Seattle (D)
+
+  Cleveland          AB  R  H RBI    Seattle            AB  R  H RBI
+Lofton K, cf          3  0  1  1   McLemore M, 2b        4  0  0  0   
+Cruz J, cf            1  0  1  1   Javier S, lf          5  1  1  0   
+Vizquel O, ss         2  0  1  0   Rodriguez A, ss       3  2  1  2   
+Alomar R, 2b          6  1  1  0   Olerud J, 1b          4  0  1  0   
+Ramirez M, rf         4  1  2  1   Hernandez C, pr-3b    0  0  0  0   
+Justice D, dh         5  0  1  1   Buhner J, dh          2  0  1  1   
+Sexson R, lf          4  1  1  0   Lampkin T, c          3  0  0  0   
+Thome J, 1b           5  0  1  0   Bell D, 3b-1b         4  0  1  0   
+Wilson E, 3b          5  2  2  0   Ibanez R, rf          3  0  0  0   
+Diaz E, c             4  0  2  1   Gipson C, cf          2  0  0  0   
+                                   Martinez E, ph        1  0  0  0   
+                                   Cameron M, cf         0  0  0  0   
+                                   Wilson D, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  5 13  5                        32  3  5  3
+
+Cleveland        000 001 110 2 --  5
+Seattle          000 000 201 0 --  3
+
+  Cleveland            IP  H  R ER BB SO
+Wright J              7.0  2  2  2  3  4
+Karsay S              1.0  1  0  0  0  1
+Shuey P (W)           2.0  2  1  1  2  1
+
+  Seattle              IP  H  R ER BB SO
+Ramsay R              6.0  5  1  1  3  4
+Mesa J                2.0  3  2  2  1  0
+Paniagua J            1.0  1  0  0  1  0
+Rhodes A (L)          1.0  4  2  2  1  1
+
+DP -- Cleveland 2
+LOB -- Cleveland 13, Seattle 5
+2B -- Wilson E, Diaz E
+HR -- Rodriguez A, Ramirez M
+SB -- McLemore M, Alomar R
+CS -- Vizquel O, Hernandez C
+SH -- Diaz E, Lofton K
+SF -- Lofton K
+HBP -- by Shuey P (Lampkin T)
+T -- 3:30
+A -- 37086
+     Game of 5/5/2000 -- Anaheim at Seattle (N)
+
+  Anaheim            AB  R  H RBI    Seattle            AB  R  H RBI
+Erstad D, lf          5  1  1  0   McLemore M, 2b        5  0  1  0   
+Kennedy A, 2b         5  1  2  1   Javier S, lf          5  1  1  1   
+Vaughn M, 1b          4  0  0  0   Rodriguez A, ss       4  2  1  0   
+Salmon T, rf          4  2  3  2   Olerud J, 1b          5  0  2  1   
+Anderson G, cf        3  1  1  0   Gipson C, pr          0  0  0  0   
+Glaus T, 3b           4  1  3  2   Martinez E, dh        4  1  4  0   
+Spiezio S, dh         4  0  1  1   Bell D, pr            0  0  0  0   
+Walbeck M, c          4  0  0  0   Lampkin T, c          5  1  1  2   
+Gil B, ss             4  0  0  0   Cameron M, cf         3  0  1  1   
+                                   Ibanez R, rf          3  0  0  0   
+                                   Guillen C, 3b         3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 11  6                        37  5 11  5
+
+Anaheim          000 100 131 --  6
+Seattle          000 000 041 --  5
+
+  Anaheim              IP  H  R ER BB SO
+Bottenfield K (W)     6.1  4  0  0  3  7
+Petkovsek M           1.0  4  4  4  1  1
+Hasegawa S            0.2  1  0  0  0  0
+Percival T (S)        1.0  2  1  1  1  0
+
+  Seattle              IP  H  R ER BB SO
+Sele A (L)            7.2  8  5  5  1  6
+Rodriguez F           1.0  2  1  1  0  1
+Rhodes A              0.1  1  0  0  0  0
+
+E -- Ibanez R, Salmon T, Erstad D
+LOB -- Anaheim 5, Seattle 10
+2B -- Salmon T 2, Martinez E, Spiezio S, Anderson G, Lampkin T, Cameron M
+3B -- Erstad D
+HR -- Salmon T, Javier S
+SB -- Kennedy A
+CS -- McLemore M, Kennedy A
+T -- 2:59
+A -- 38307
+     Game of 5/6/2000 -- Anaheim at Seattle (D)
+
+  Anaheim            AB  R  H RBI    Seattle            AB  R  H RBI
+Erstad D, lf-1b       4  0  0  0   Cameron M, cf         4  0  0  0   
+Kennedy A, 2b         4  0  0  0   Javier S, lf          4  0  0  0   
+Vaughn M, 1b          2  0  0  0   Rodriguez A, ss       4  0  2  0   
+Clemente E, pr-lf     0  0  0  0   Martinez E, dh        3  0  1  0   
+Salmon T, rf          1  0  1  0   Olerud J, 1b          3  0  0  0   
+Anderson G, cf        4  0  1  0   Buhner J, rf          4  0  0  0   
+Glaus T, 3b           4  0  0  0   Bell D, 3b            3  0  1  0   
+Spiezio S, dh         3  0  0  0   Gipson C, pr          0  1  0  0   
+Molina B, c           2  0  0  0   Wilson D, c           3  0  1  0   
+Gil B, ss             2  0  0  0   McLemore M, 2b        3  0  2  1   
+                     -- -- -- --                        -- -- -- --
+                     26  0  2  0                        31  1  7  1
+
+Anaheim          000 000 000 --  0
+Seattle          000 000 001 --  1
+  1 out when winning run was scored.
+
+  Anaheim              IP  H  R ER BB SO
+Mercker K             5.0  3  0  0  1  5
+Levine A              2.2  2  0  0  2  2
+Holtz M (L)           0.2  2  1  1  0  0
+
+  Seattle              IP  H  R ER BB SO
+Meche G               7.0  2  0  0  4  5
+Rhodes A              1.0  0  0  0  1  0
+Sasaki K (W)          1.0  0  0  0  2  1
+
+DP -- Seattle 3
+LOB -- Anaheim 6, Seattle 10
+2B -- Rodriguez A
+CS -- Anderson G
+SH -- Wilson D
+HBP -- by Holtz M (Olerud J)
+T -- 2:50
+A -- 43427
+     Game of 5/7/2000 -- Anaheim at Seattle (D)
+
+  Anaheim            AB  R  H RBI    Seattle            AB  R  H RBI
+Erstad D, lf          5  0  0  0   Cameron M, cf         5  0  1  1   
+Kennedy A, 2b         5  1  1  0   Javier S, lf          3  1  1  1   
+Vaughn M, 1b          2  0  0  0   Rodriguez A, ss       4  1  1  0   
+Salmon T, rf          3  0  0  0   Martinez E, dh        2  3  1  2   
+Anderson G, cf        4  0  2  1   Olerud J, 1b          3  0  0  0   
+Glaus T, 3b           4  0  0  0   Buhner J, rf          1  1  0  0   
+Clemente E, dh        2  0  0  0   Gipson C, pr-rf       0  0  0  1   
+Spiezio S, ph         2  1  2  0   Bell D, 3b            4  1  1  1   
+Molina B, c           4  0  2  1   Wilson D, c           4  1  1  0   
+Gil B, ss             2  0  0  0   McLemore M, 2b        3  0  1  1   
+Palmeiro O, ph        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        29  8  7  7
+
+Anaheim          100 000 001 --  2
+Seattle          100 104 02x --  8
+
+  Anaheim              IP  H  R ER BB SO
+Schoeneweis S (L)     5.1  6  6  5  5  2
+Weaver E              2.1  1  2  2  5  1
+Turnbow D             0.1  0  0  0  2  1
+
+  Seattle              IP  H  R ER BB SO
+Halama J (W)          6.0  2  1  1  3  8
+Paniagua J            0.2  2  0  0  0  2
+Ramsay R              1.0  1  0  0  1  0
+Mesa J                1.1  2  1  1  1  1
+
+E -- Kennedy A, Salmon T
+DP -- Anaheim 1, Seattle 1
+LOB -- Anaheim 9, Seattle 11
+2B -- Bell D, Spiezio S
+HR -- Martinez E
+SF -- Martinez E, McLemore M
+WP -- Turnbow D
+Balk -- Schoeneweis S
+T -- 3:11
+A -- 42940
+     Game of 5/15/2000 -- Minnesota at Seattle (N)
+
+  Minnesota          AB  R  H RBI    Seattle            AB  R  H RBI
+Guzman C, ss          4  0  0  0   Cameron M, cf         5  3  2  0   
+Hocking D, lf         4  0  0  0   Bell D, 3b            4  2  2  3   
+Lawton M, rf          2  0  0  0   Rodriguez A, ss       3  2  2  2   
+Cummings M, rf        1  0  0  0   Guillen C, ss         1  0  0  0   
+Huskey B, dh          4  0  0  0   Martinez E, dh        5  3  3  5   
+Ortiz D, 1b           3  0  0  0   Olerud J, 1b          3  1  1  0   
+Koskie C, 3b          3  0  1  0   Mabry J, 1b           1  0  0  0   
+LeCroy M, c           3  0  1  0   Buhner J, rf          3  1  1  0   
+Jones J, cf           3  0  0  0   Ibanez R, rf          0  0  0  0   
+Canizaro J, 2b        2  0  0  0   Javier S, lf          4  1  2  1   
+                                   Wilson D, c           5  1  1  1   
+                                   McLemore M, 2b        4  0  2  2   
+                     -- -- -- --                        -- -- -- --
+                     29  0  2  0                        38 14 16 14
+
+Minnesota        000 000 000 --  0
+Seattle          315 031 10x -- 14
+
+  Minnesota            IP  H  R ER BB SO
+Milton E (L)          2.1  8  9  8  1  1
+Carrasco H            0.2  1  0  0  2  0
+Santana J             5.0  7  5  5  4  3
+
+  Seattle              IP  H  R ER BB SO
+Sele A (W)            7.0  2  0  0  2  2
+Sasaki K              1.0  0  0  0  1  2
+Paniagua J            1.0  0  0  0  0  2
+
+E -- Koskie C, Milton E
+DP -- Minnesota 1
+LOB -- Minnesota 5, Seattle 9
+2B -- Javier S 2, McLemore M, Olerud J, Buhner J
+3B -- Cameron M, Bell D
+HR -- Rodriguez A, Martinez E 2
+SH -- Javier S
+SF -- Bell D
+WP -- Santana J
+T -- 2:46
+A -- 30289
+     Game of 5/16/2000 -- Minnesota at Seattle (N)
+
+  Minnesota          AB  R  H RBI    Seattle            AB  R  H RBI
+Guzman C, ss          4  1  1  0   McLemore M, 2b        2  1  0  0   
+Canizaro J, 2b        3  0  1  0   Guillen C, 3b         2  0  1  0   
+Cummings M, ph        0  0  0  0   Bell D, 3b-2b         5  2  2  2   
+Hocking D, ph-2b      1  1  1  1   Rodriguez A, ss       4  1  2  2   
+Lawton M, rf          2  0  0  1   Olerud J, 1b          1  1  0  0   
+Coomer R, 1b          5  1  3  2   Martinez E, dh        4  1  2  3   
+Koskie C, 3b          5  0  0  0   Buhner J, rf          3  1  1  2   
+Huskey B, dh          4  1  1  0   Ibanez R, lf          3  1  0  0   
+Jones J, lf           4  1  2  1   Wilson D, c           3  0  0  0   
+Jensen M, c           4  0  1  0   Cameron M, cf         3  1  1  0   
+Hunter T, cf          3  0  0  0                                      
+Ortiz D, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5 10  5                        30  9  9  9
+
+Minnesota        001 000 211 --  5
+Seattle          401 400 00x --  9
+
+  Minnesota            IP  H  R ER BB SO
+Bergman S (L)         3.1  8  9  9  5  1
+Miller T              1.2  1  0  0  1  2
+Wells B               1.0  0  0  0  1  0
+Carrasco H            1.0  0  0  0  0  1
+Guardado E            1.0  0  0  0  2  1
+
+  Seattle              IP  H  R ER BB SO
+Meche G (W)           6.2  6  3  3  2  8
+Rhodes A              0.1  1  0  0  0  0
+Paniagua J            1.0  2  1  1  0  1
+Mesa J                1.0  1  1  1  2  0
+
+DP -- Minnesota 1
+LOB -- Minnesota 9, Seattle 7
+2B -- Martinez E, Jensen M, Canizaro J, Bell D, Huskey B, Jones J
+HR -- Buhner J, Coomer R
+SB -- Cameron M
+SH -- Wilson D
+SF -- Lawton M
+WP -- Guardado E
+T -- 3:04
+A -- 25672
+     Game of 5/17/2000 -- Minnesota at Seattle (N)
+
+  Minnesota          AB  R  H RBI    Seattle            AB  R  H RBI
+Guzman C, ss          4  0  0  0   Cameron M, cf         4  1  1  0   
+Canizaro J, 2b        4  0  0  0   Bell D, 2b            4  1  1  0   
+Lawton M, rf          3  0  1  0   Rodriguez A, ss       2  1  1  0   
+Coomer R, 1b          3  0  0  0   Olerud J, 1b          4  0  2  2   
+Huskey B, dh          3  0  2  0   Martinez E, dh        4  1  1  1   
+LeCroy M, c           3  0  0  0   Buhner J, rf          3  0  0  0   
+Hunter T, cf          3  0  0  0   Ibanez R, rf          0  0  0  0   
+Jones J, lf           3  0  0  0   Javier S, lf          3  0  0  0   
+Hocking D, 3b         3  0  1  0   Lampkin T, c          3  0  0  0   
+                                   Guillen C, 3b         3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  0  4  0                        30  4  6  3
+
+Minnesota        000 000 000 --  0
+Seattle          102 001 00x --  4
+
+  Minnesota            IP  H  R ER BB SO
+Mays J (L)            7.0  6  4  3  2  6
+Hawkins L             1.0  0  0  0  0  2
+
+  Seattle              IP  H  R ER BB SO
+Halama J (W)          9.0  4  0  0  0  2
+
+E -- Mays J
+DP -- Seattle 2
+LOB -- Minnesota 2, Seattle 4
+2B -- Olerud J
+HR -- Martinez E
+Balk -- Halama J
+T -- 2:13
+A -- 25583
+     Game of 5/19/2000 -- Tampa Bay at Seattle (N)
+
+  Tampa Bay          AB  R  H RBI    Seattle            AB  R  H RBI
+Williams G, cf        4  2  1  1   McLemore M, 2b        2  1  1  2   
+Castilla V, 3b        4  0  0  1   Bell D, 3b            5  0  1  0   
+Vaughn G, lf          4  2  3  4   Rodriguez A, ss       4  1  1  1   
+McGriff F, 1b         3  0  0  0   Olerud J, 1b          3  0  0  0   
+Canseco J, dh         3  0  1  0   Martinez E, dh        4  1  3  2   
+Guillen J, rf         4  0  1  0   Buhner J, rf          3  0  2  0   
+Flaherty J, c         4  0  1  0   Henderson R, pr       0  1  0  0   
+Stocker K, ss         2  1  0  0   Ibanez R, rf          0  0  0  0   
+Cairo M, 2b           3  1  0  0   Javier S, lf          4  2  2  2   
+                                   Wilson D, c           3  1  2  0   
+                                   Lampkin T, ph-c       0  0  0  0   
+                                   Cameron M, cf         3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  6  7  6                        31  7 13  7
+
+Tampa Bay        100 010 400 --  6
+Seattle          110 110 12x --  7
+
+  Tampa Bay            IP  H  R ER BB SO
+Gooden D              5.0 10  4  4  3  4
+Lopez A               1.1  2  1  1  0  1
+Guthrie M             0.1  0  0  0  0  1
+Taylor B (L)*         0.1  1  2  2  1  0
+Hernandez R           1.0  0  0  0  1  1
+
+  Seattle              IP  H  R ER BB SO
+Tomko B+              3.0  4  1  1  2  5
+Rodriguez F           3.0  1  1  1  1  0
+Paniagua J            0.1  0  3  3  3  0
+Mesa J (W)            1.2  2  1  1  0  3
+Sasaki K (S)          1.0  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+  + Pitched to 2 batters in 4th
+
+E -- Bell D
+DP -- Tampa Bay 3, Seattle 2
+LOB -- Tampa Bay 5, Seattle 7
+2B -- Canseco J, Javier S
+HR -- Vaughn G 2, Javier S, Williams G, Martinez E, Rodriguez A
+SB -- McLemore M 3
+CS -- Buhner J
+SH -- Cameron M
+SF -- Castilla V, McLemore M
+T -- 3:26
+A -- 34067
+     Game of 5/20/2000 -- Tampa Bay at Seattle (D)
+
+  Tampa Bay          AB  R  H RBI    Seattle            AB  R  H RBI
+Williams G, cf        4  1  2  1   Henderson R, lf       3  1  1  1   
+Castilla V, 3b        4  0  1  1   Bell D, 3b-2b         5  0  0  0   
+Vaughn G, lf          3  0  0  1   Rodriguez A, ss       4  1  1  1   
+McGriff F, 1b         4  0  0  1   Olerud J, 1b          3  1  2  0   
+Canseco J, dh         4  0  0  0   Martinez E, dh        4  0  1  1   
+Guillen J, rf         4  0  1  0   Ibanez R, pr          0  0  0  0   
+DiFelice M, c         4  0  1  0   Mabry J, rf-3b        4  0  0  0   
+Stocker K, ss         2  1  0  0   Cameron M, cf         4  0  0  0   
+Cairo M, 2b           4  2  3  0   Lampkin T, c          4  0  2  0   
+                                   McLemore M, 2b        2  0  1  0   
+                                   Javier S, ph-rf       2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  8  4                        35  3  8  3
+
+Tampa Bay        002 000 200 --  4
+Seattle          100 001 010 --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Yan E (W)             6.0  6  2  2  1  8
+Taylor B              1.0  0  0  0  1  1
+Hernandez R (S)       2.0  2  1  1  1  3
+
+  Seattle              IP  H  R ER BB SO
+Abbott P              5.0  4  2  2  3  6
+Ramsay R (L)          1.1  2  2  2  2  1
+Paniagua J            1.2  2  0  0  2  3
+Mesa J                1.0  0  0  0  1  1
+
+E -- Cairo M, Henderson R
+DP -- Tampa Bay 1, Seattle 2
+LOB -- Tampa Bay 10, Seattle 8
+2B -- DiFelice M, Guillen J, Olerud J, Martinez E
+HR -- Henderson R, Rodriguez A
+CS -- Henderson R
+T -- 3:26
+A -- 40665
+     Game of 5/21/2000 -- Tampa Bay at Seattle (D)
+
+  Tampa Bay          AB  R  H RBI    Seattle            AB  R  H RBI
+Williams G, cf        5  0  2  2   Henderson R, lf       5  2  2  1   
+Castilla V, 3b        4  0  0  0   McLemore M, 2b        4  1  1  1   
+Vaughn G, lf          5  0  0  0   Rodriguez A, ss       5  0  2  1   
+Canseco J, dh         4  1  1  0   Olerud J, 1b          4  2  4  0   
+Cox S, 1b             2  1  1  0   Martinez E, dh        5  1  2  2   
+McCracken Q, ph       1  0  1  0   Buhner J, rf          3  0  1  1   
+Guillen O, 1b         0  0  0  0   Ibanez R, rf          0  0  0  0   
+Trammell B, rf        4  0  1  1   Bell D, 3b            4  0  1  0   
+Flaherty J, c         3  1  1  1   Wilson D, c           4  1  2  1   
+Stocker K, ss         3  1  2  0   Cameron M, cf         4  1  1  1   
+Cairo M, 2b           3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4 10  4                        38  8 16  8
+
+Tampa Bay        020 000 200 --  4
+Seattle          200 204 00x --  8
+
+  Tampa Bay            IP  H  R ER BB SO
+Trachsel S (L)        3.2 10  4  4  2  1
+Lidle C               1.2  3  2  2  0  2
+Guthrie M             0.1  1  1  1  0  0
+White R               2.1  2  1  1  1  0
+
+  Seattle              IP  H  R ER BB SO
+Sele A (W)            6.1  8  4  4  3  5
+Rhodes A              1.2  1  0  0  1  3
+Sasaki K              1.0  1  0  0  1  1
+
+DP -- Seattle 1
+LOB -- Tampa Bay 9, Seattle 9
+2B -- Olerud J, McLemore M, Rodriguez A, Williams G
+HR -- Henderson R, Wilson D, Cameron M, Martinez E
+SB -- Rodriguez A
+CS -- Stocker K, Rodriguez A
+SF -- Flaherty J
+T -- 3:09
+A -- 45264
+     Game of 5/29/2000 -- Chicago at Seattle (N)
+
+  Chicago            AB  R  H RBI    Seattle            AB  R  H RBI
+Durham R, 2b          4  0  1  0   Henderson R, lf       4  0  0  0   
+Valentin J, ss        4  1  0  0   Cameron M, cf         3  1  1  0   
+Thomas F, 1b          3  1  0  0   Rodriguez A, ss       3  1  1  1   
+Ordonez M, rf         4  1  3  3   Martinez E, dh        2  0  2  2   
+Konerko P, dh         4  0  0  0   Olerud J, 1b          4  0  0  0   
+Abbott J, cf          3  0  1  0   Buhner J, rf          4  1  1  1   
+Lee C, lf             3  1  2  1   Ibanez R, rf          0  0  0  0   
+Perry H, 3b           3  0  0  0   Bell D, 3b            3  0  0  0   
+Fordyce B, c          3  0  0  0   Wilson D, c           3  1  1  0   
+                                   McLemore M, 2b        2  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  7  4                        28  5  6  4
+
+Chicago          000 300 010 --  4
+Seattle          000 041 00x --  5
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (L)         5.0  4  4  0  4  6
+Simas B               1.1  2  1  1  2  2
+Wunsch K              0.2  0  0  0  0  0
+Howry B               1.0  0  0  0  0  2
+
+  Seattle              IP  H  R ER BB SO
+Halama J (W)*         7.0  6  4  3  1  0
+Rhodes A              1.0  0  0  0  0  1
+Sasaki K (S)          1.0  1  0  0  0  2
+  * Pitched to 1 batter in 8th
+
+E -- Bell D, Perry H
+DP -- Chicago 1, Seattle 2
+LOB -- Chicago 1, Seattle 6
+2B -- Lee C, Cameron M
+HR -- Ordonez M, Buhner J, Lee C
+CS -- Lee C, Abbott J
+SH -- Wilson D
+WP -- Halama J 2, Sirotka M
+T -- 3:05
+A -- 34429
+     Game of 5/30/2000 -- Chicago at Seattle (N)
+
+  Chicago            AB  R  H RBI    Seattle            AB  R  H RBI
+Durham R, 2b          3  1  1  1   Henderson R, lf       3  1  1  0   
+Valentin J, ss        4  0  0  0   Cameron M, cf         4  0  1  1   
+Thomas F, 1b          4  0  0  0   Rodriguez A, ss       4  0  1  0   
+Ordonez M, rf         4  0  0  0   Olerud J, 1b          4  0  1  0   
+Norton G, dh          4  0  1  0   Martinez E, dh        4  0  0  0   
+Singleton C, cf       3  0  0  0   Buhner J, rf          4  0  0  0   
+Lee C, lf             3  1  1  1   Bell D, 3b            1  0  0  0   
+Perry H, 3b           3  0  0  0   Wilson D, c           3  0  0  0   
+Johnson M, c          2  0  1  0   McLemore M, 2b        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  2                        30  1  5  1
+
+Chicago          000 011 000 --  2
+Seattle          001 000 000 --  1
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J (W)         7.0  4  1  1  3  6
+Foulke K (S)          2.0  1  0  0  0  1
+
+  Seattle              IP  H  R ER BB SO
+Abbott P (L)          7.0  4  2  2  0  7
+Hodges K              0.2  0  0  0  2  1
+Ramsay R              0.1  0  0  0  0  1
+Paniagua J            1.0  0  0  0  0  0
+
+DP -- Chicago 2
+LOB -- Chicago 3, Seattle 5
+HR -- Lee C, Durham R
+SB -- Henderson R, Johnson M
+CS -- Bell D, Singleton C
+WP -- Ramsay R
+T -- 2:26
+A -- 25788
+     Game of 5/31/2000 -- Chicago at Seattle (D)
+
+  Chicago            AB  R  H RBI    Seattle            AB  R  H RBI
+Durham R, 2b          5  0  0  0   Henderson R, lf       4  0  1  0   
+Valentin J, ss        4  0  1  0   McLemore M, 2b        4  1  1  0   
+Thomas F, dh          4  0  0  0   Rodriguez A, ss       4  0  0  0   
+Ordonez M, rf         3  0  1  0   Martinez E, dh        2  1  1  0   
+Norton G, 1b          3  0  0  0   Olerud J, 1b          5  0  1  1   
+Konerko P, ph-1b      1  0  0  0   Cameron M, cf         2  0  1  1   
+Singleton C, cf       4  1  1  0   Ibanez R, rf          3  0  0  0   
+Lee C, lf             3  2  1  1   Buhner J, ph-rf       1  0  0  0   
+Perry H, 3b           3  1  1  1   Lampkin T, c          3  1  1  1   
+Wilson C, 3b          0  0  0  0   Wilson D, ph-c        2  0  0  0   
+Johnson M, c          2  0  0  0   Guillen C, 3b         3  0  0  0   
+Fordyce B, ph-c       2  0  1  2   Mabry J, ph-3b        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  6  4                        34  3  6  3
+
+Chicago          001 000 201 --  4
+Seattle          110 010 000 --  3
+
+  Chicago              IP  H  R ER BB SO
+Eldred C              5.2  5  3  3  7  9
+Lowe S                0.1  0  0  0  0  0
+Wunsch K              0.1  1  0  0  1  0
+Howry B (W)           1.2  0  0  0  2  0
+Foulke K (S)          1.0  0  0  0  1  0
+
+  Seattle              IP  H  R ER BB SO
+Sele A                6.1  3  3  3  2  4
+Rhodes A              1.0  1  0  0  0  0
+Hodges K              0.1  1  0  0  0  0
+Ramsay R              0.1  0  0  0  0  0
+Sasaki K (L)          1.0  1  1  0  0  2
+
+E -- Cameron M, Lee C, Guillen C, Perry H, Mabry J
+DP -- Chicago 1, Seattle 2
+LOB -- Chicago 6, Seattle 15
+2B -- Perry H
+HR -- Lampkin T, Lee C
+HBP -- by Sele A (Perry H)
+WP -- Eldred C, Sele A
+T -- 3:11
+A -- 35823
+     Game of 6/2/2000 -- San Diego at Seattle (N)
+
+  San Diego          AB  R  H RBI    Seattle            AB  R  H RBI
+Owens E, rf           4  1  2  0   Henderson R, lf       1  0  0  0   
+Martin A, lf          4  0  0  0   Ibanez R, ph-lf       2  0  0  0   
+Gwynn T, dh           4  2  2  0   Cameron M, cf         4  0  0  0   
+Nevin P, 3b           4  1  2  3   Rodriguez A, ss       4  1  1  0   
+Sprague E, 1b         4  0  0  0   Martinez E, dh        5  2  2  2   
+Boone B, 2b           3  0  0  0   Olerud J, 1b          4  3  2  0   
+Rivera R, cf          3  0  0  0   Buhner J, rf          2  1  0  0   
+Magadan D, ph         1  0  0  0   Bell D, 3b            1  0  1  1   
+Hernandez C, c        4  0  1  0   Wilson D, c           2  0  1  1   
+Jackson D, ss         3  0  1  0   McLemore M, 2b        3  0  0  1   
+Klesko R, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  3                        28  7  7  5
+
+San Diego        200 000 020 --  4
+Seattle          022 000 30x --  7
+
+  San Diego            IP  H  R ER BB SO
+Clement M (L)         6.0  3  4  2  6  5
+Whiteside M           0.2  2  3  3  2  0
+Almanzar C            1.0  2  0  0  1  1
+Walker K              0.1  0  0  0  0  0
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (W)           5.0  4  2  2  1  3
+Tomko B               2.0  0  0  0  1  2
+Rhodes A              1.0  3  2  2  0  1
+Sasaki K (S)          1.0  1  0  0  0  1
+
+E -- Sprague E
+DP -- San Diego 1
+LOB -- San Diego 6, Seattle 10
+2B -- Olerud J 2, Jackson D, Hernandez C
+HR -- Nevin P, Martinez E
+SH -- Bell D, Wilson D
+SF -- Wilson D
+HBP -- by Clement M (Cameron M)
+WP -- Clement M 3, Rhodes A
+T -- 2:54
+A -- 33995
+     Game of 6/3/2000 -- San Diego at Seattle (N)
+
+  San Diego          AB  R  H RBI    Seattle            AB  R  H RBI
+Owens E, rf-lf        5  1  2  0   Javier S, lf          4  1  1  0   
+Sprague E, lf         3  1  2  0   Cameron M, cf         4  1  1  2   
+DeHaan K, pr-rf       1  1  0  0   Rodriguez A, ss       4  0  0  0   
+Gwynn T, dh           5  0  1  0   Martinez E, dh        4  1  1  1   
+Nevin P, 3b           3  2  1  0   Olerud J, 1b          4  0  1  0   
+Klesko R, 1b          4  2  1  3   Buhner J, rf          4  1  1  1   
+Boone B, 2b           3  0  1  2   Bell D, 3b            3  0  1  0   
+Rivera R, cf          4  0  1  0   Wilson D, c           4  0  1  0   
+Hernandez C, c        4  0  1  1   McLemore M, 2b        3  0  0  0   
+Jackson D, ss         3  0  0  1                                      
+                     -- -- -- --                        -- -- -- --
+                     35  7 10  7                        34  4  7  4
+
+San Diego        000 102 400 --  7
+Seattle          000 002 002 --  4
+
+  San Diego            IP  H  R ER BB SO
+Spencer S (W)         8.2  7  4  2  0  4
+Boehringer B*         0.0  0  0  0  1  0
+Hoffman T (S)         0.1  0  0  0  0  1
+
+  Seattle              IP  H  R ER BB SO
+Halama J (L)+         6.0  9  5  5  2  5
+Ramsay R              0.1  0  2  2  2  0
+Hodges K              0.1  1  0  0  2  0
+Rodriguez F           1.1  0  0  0  0  0
+Mesa J                1.0  0  0  0  1  0
+  * Pitched to 1 batter in 9th
+  + Pitched to 2 batters in 7th
+
+E -- Jackson D
+DP -- San Diego 1, Seattle 1
+LOB -- San Diego 9, Seattle 4
+2B -- Gwynn T, Owens E
+HR -- Klesko R, Cameron M, Martinez E, Buhner J
+SB -- Bell D, Javier S
+SF -- Boone B
+T -- 2:57
+A -- 44183
+     Game of 6/4/2000 -- San Diego at Seattle (D)
+
+  San Diego          AB  R  H RBI    Seattle            AB  R  H RBI
+Owens E, rf           5  1  2  1   Henderson R, lf       4  1  0  0   
+Martin A, lf          5  1  2  2   Cameron M, cf         3  1  0  0   
+Gwynn T, dh           5  0  1  0   Rodriguez A, ss       4  2  2  2   
+Nevin P, 3b           4  0  1  0   Martinez E, dh        4  0  2  1   
+Jackson D, ss         0  0  0  0   Olerud J, 1b          1  1  0  1   
+Klesko R, 1b          4  1  2  0   Javier S, rf          2  1  0  0   
+Boone B, 2b           5  0  1  0   Lampkin T, c          3  0  0  0   
+Rivera R, cf          3  0  0  0   Bell D, 3b            3  0  1  0   
+Gonzalez W, c         2  1  1  1   McLemore M, 2b        3  0  0  0   
+Gomez C, ss           2  0  0  0                                      
+Magadan D, ph-ss-3b   2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  4 10  4                        27  6  5  4
+
+San Diego        000 100 003 --  4
+Seattle          302 000 10x --  6
+
+  San Diego            IP  H  R ER BB SO
+Meadows B (L)         4.1  4  5  3  6  1
+Kolb B                2.2  1  1  1  0  4
+Whiteside M           1.0  0  0  0  1  1
+
+  Seattle              IP  H  R ER BB SO
+Abbott P (W)          5.1  7  1  0  2  2
+Paniagua J*           0.2  1  0  0  0  0
+Rhodes A              1.1  0  0  0  0  0
+Rodriguez F           1.0  1  2  2  1  1
+Sasaki K              0.2  1  1  1  2  1
+  * Pitched to 1 batter in 7th
+
+E -- Martin A, Bell D
+DP -- San Diego 1, Seattle 1
+LOB -- San Diego 11, Seattle 7
+2B -- Rodriguez A, Martinez E 2
+3B -- Rodriguez A, Owens E
+HR -- Martin A
+SB -- Henderson R
+SH -- Javier S
+SF -- Olerud J
+HBP -- by Meadows B (Bell D)
+T -- 3:11
+A -- 42018
+     Game of 6/5/2000 -- Colorado at Seattle (N)
+
+  Colorado           AB  R  H RBI    Seattle            AB  R  H RBI
+Goodwin T, cf         3  1  1  0   Henderson R, lf       4  2  2  0   
+Perez N, ss           3  0  0  1   Cameron M, cf         4  1  1  0   
+Lansing M, 2b         4  0  1  0   Rodriguez A, ss       4  2  3  3   
+Helton T, 1b          4  0  0  0   Martinez E, dh        3  1  2  1   
+Bragg D, lf           3  0  1  0   Olerud J, 1b          3  0  1  1   
+Mayne B, c            4  1  1  1   Buhner J, rf          3  0  0  0   
+Shumpert T, 3b        3  0  1  0   Bell D, 3b            4  0  0  0   
+Carpenter B, dh       3  0  1  0   Wilson D, c           4  0  0  0   
+Hunter B, rf          3  0  0  0   McLemore M, 2b        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  6  2                        32  6 10  5
+
+Colorado         100 000 001 --  2
+Seattle          101 400 00x --  6
+
+  Colorado             IP  H  R ER BB SO
+Yoshii M (L)          3.2  8  6  6  3  3
+Karl S                4.1  2  0  0  1  2
+
+  Seattle              IP  H  R ER BB SO
+Sele A (W)            7.0  5  1  0  2  7
+Mesa J                2.0  1  1  1  1  3
+
+E -- Wilson D, Perez N
+DP -- Colorado 2, Seattle 1
+LOB -- Colorado 6, Seattle 7
+2B -- Martinez E, Cameron M, McLemore M
+HR -- Rodriguez A, Martinez E, Mayne B
+SB -- Goodwin T, Henderson R, Hunter B
+SF -- Perez N, Olerud J
+HBP -- by Mesa J (Shumpert T)
+WP -- Yoshii M
+T -- 2:57
+A -- 25582
+     Game of 6/6/2000 -- Colorado at Seattle (N)
+
+  Colorado           AB  R  H RBI    Seattle            AB  R  H RBI
+Goodwin T, cf         3  1  1  0   Henderson R, lf       2  1  1  0   
+Lansing M, 2b         3  0  1  0   Javier S, lf          2  1  1  0   
+Cirillo J, 3b         4  0  2  0   Cameron M, cf         4  0  1  0   
+Helton T, 1b          3  0  1  0   Rodriguez A, ss       3  1  0  0   
+Hammonds J, rf        3  0  1  1   Martinez E, dh        4  0  2  1   
+Bragg D, lf           3  0  1  0   Olerud J, 1b          4  0  1  2   
+Mayne B, c            3  0  0  0   Buhner J, rf          4  0  0  0   
+Perez N, ss           4  0  1  0   Bell D, 3b            3  0  0  0   
+Carpenter B, dh       4  0  0  0   Wilson D, c           3  1  1  1   
+                                   McLemore M, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  8  1                        32  4  7  4
+
+Colorado         001 000 000 --  1
+Seattle          200 011 00x --  4
+
+  Colorado             IP  H  R ER BB SO
+Bohanon B (L)         6.0  7  4  4  1  4
+DeJean M              2.0  0  0  0  0  2
+
+  Seattle              IP  H  R ER BB SO
+Tomko B (W)           5.0  5  1  1  2  4
+Ramsay R              0.2  2  0  0  2  0
+Paniagua J            2.1  1  0  0  1  3
+Sasaki K (S)          1.0  0  0  0  0  0
+
+E -- Perez N
+DP -- Seattle 1
+LOB -- Colorado 8, Seattle 5
+2B -- Cirillo J
+HR -- Wilson D
+SB -- Henderson R
+SF -- Hammonds J
+T -- 3:00
+A -- 26812
+     Game of 6/7/2000 -- Colorado at Seattle (N)
+
+  Colorado           AB  R  H RBI    Seattle            AB  R  H RBI
+Goodwin T, cf         5  2  4  1   Javier S, cf-lf       4  0  0  0   
+Lansing M, 2b         5  0  1  1   Ibanez R, lf          2  0  0  0   
+Cirillo J, 3b         5  0  1  1   Cameron M, ph-cf      1  0  0  0   
+Helton T, 1b          4  0  1  0   Rodriguez A, ss       3  1  3  0   
+Hammonds J, rf        5  1  1  1   Martinez E, dh        4  0  1  0   
+Shumpert T, dh        3  1  0  0   Olerud J, 1b          4  0  1  0   
+Perez N, ss           3  1  2  0   Lampkin T, c          1  0  0  1   
+Servais S, c          4  0  2  1   Wilson D, ph          1  0  0  0   
+Hunter B, lf          3  1  1  0   Mabry J, rf           3  0  0  0   
+                                   Buhner J, ph          1  0  0  0   
+                                   Bell D, 3b            3  0  0  0   
+                                   McLemore M, 2b        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 13  5                        29  1  5  1
+
+Colorado         101 001 030 --  6
+Seattle          000 100 000 --  1
+
+  Colorado             IP  H  R ER BB SO
+Arrojo R (W)          7.0  4  1  1  4  3
+White G               2.0  1  0  0  0  4
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (L)           6.0  8  3  3  1  4
+Rodriguez F*          1.0  3  2  2  3  2
+Hodges K              2.0  2  1  1  1  1
+  * Pitched to 3 batters in 8th
+
+DP -- Colorado 2, Seattle 1
+LOB -- Colorado 9, Seattle 6
+HR -- Hammonds J
+SB -- Lansing M, Goodwin T 4, Rodriguez A, Perez N, Hunter B
+CS -- Perez N
+SF -- Lampkin T
+WP -- Rodriguez F
+T -- 3:11
+A -- 27050
+     Game of 6/19/2000 -- Tampa Bay at Seattle (N)
+
+  Tampa Bay          AB  R  H RBI    Seattle            AB  R  H RBI
+Winn R, cf            5  2  2  0   Henderson R, lf       5  0  0  0   
+Williams G, dh        6  1  2  2   Cameron M, cf         5  1  2  0   
+Trammell B, lf        3  0  1  0   Rodriguez A, ss       4  1  1  1   
+McCracken Q, pr-lf    0  1  0  0   Martinez E, dh        3  0  1  0   
+McGriff F, 1b         5  1  3  4   Olerud J, 1b          5  0  0  0   
+Flaherty J, c         4  1  1  0   Buhner J, rf          3  1  1  0   
+Smith B, 2b           5  1  1  1   Lampkin T, c          3  0  1  0   
+Guillen J, rf         3  2  2  1   Javier S, ph          0  0  0  1   
+Johnson R, 3b         5  0  1  1   Oliver J, c           0  0  0  0   
+Martinez F, ss        4  1  1  1   Bell D, 3b            3  0  0  0   
+                                   McLemore M, 2b        2  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     40 10 14 10                        33  3  7  3
+
+Tampa Bay        100 321 120 -- 10
+Seattle          011 000 100 --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Lopez A (W)           6.0  6  2  1  4  6
+Mecir J               0.2  1  1  1  2  2
+Guthrie M             1.1  0  0  0  1  0
+Hernandez R           1.0  0  0  0  0  1
+
+  Seattle              IP  H  R ER BB SO
+Halama J (L)*         4.0  7  5  5  3  4
+Rodriguez F           3.0  5  3  3  2  0
+Ramsay R              2.0  2  2  2  0  0
+  * Pitched to 1 batter in 5th
+
+E -- Halama J, Johnson R, Martinez F
+DP -- Tampa Bay 2, Seattle 1
+LOB -- Tampa Bay 10, Seattle 11
+2B -- Winn R, Williams G 2
+HR -- Rodriguez A, Guillen J, Smith B, McGriff F
+SH -- Bell D
+SF -- Martinez F
+HBP -- by Ramsay R (Guillen J)
+WP -- Rodriguez F
+T -- 3:13
+A -- 38331
+     Game of 6/20/2000 -- Tampa Bay at Seattle (N)
+
+  Tampa Bay          AB  R  H RBI    Seattle            AB  R  H RBI
+Williams G, dh        4  1  2  2   Henderson R, lf       4  0  1  2   
+McCracken Q, cf       4  0  1  1   Cameron M, cf         4  0  0  0   
+Trammell B, lf        4  0  0  0   Rodriguez A, ss       4  0  0  0   
+McGriff F, 1b         4  0  0  0   Martinez E, dh        3  0  0  0   
+Flaherty J, c         4  0  1  0   Olerud J, 1b          4  2  2  0   
+Cairo M, pr           0  0  0  0   Buhner J, rf          3  0  0  0   
+Smith B, 2b           4  0  0  0   Gipson C, pr-rf       0  0  0  0   
+Guillen J, rf         3  0  0  0   Mabry J, 3b           2  1  0  0   
+Guillen O, 3b         3  2  1  0   Oliver J, c           3  1  1  1   
+Martinez F, ss        3  0  1  0   Bell D, 2b            2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        29  4  5  3
+
+Tampa Bay        001 020 000 --  3
+Seattle          031 000 00x --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Trachsel S (L)        8.0  5  4  3  4  3
+
+  Seattle              IP  H  R ER BB SO
+Abbott P (W)          7.0  4  3  3  1  6
+Rhodes A              1.1  1  0  0  0  2
+Sasaki K (S)          0.2  1  0  0  1  1
+
+E -- Martinez F
+LOB -- Tampa Bay 5, Seattle 5
+2B -- Olerud J 2, Guillen O, Bell D
+HR -- Williams G
+SB -- Martinez F, Henderson R, Cairo M 2
+CS -- Gipson C
+WP -- Trachsel S
+T -- 2:46
+A -- 29349
+     Game of 6/21/2000 -- Tampa Bay at Seattle (N)
+
+  Tampa Bay          AB  R  H RBI    Seattle            AB  R  H RBI
+Williams G, dh        5  0  0  1   Henderson R, lf       4  1  2  1   
+McCracken Q, cf       2  0  0  0   Cameron M, cf         4  1  0  1   
+Cox S, lf             2  1  0  0   Rodriguez A, ss       5  1  2  2   
+Trammell B, ph-lf     1  0  0  0   Martinez E, dh        3  1  0  0   
+McGriff F, 1b         3  2  1  2   Olerud J, 1b          4  0  2  3   
+Smith B, 2b           4  0  1  0   Buhner J, rf          3  0  0  0   
+Guillen J, rf         4  0  0  0   Gipson C, rf          0  0  0  0   
+DiFelice M, c         3  1  1  1   Lampkin T, c          2  1  0  0   
+Guillen O, 3b         4  0  2  0   Bell D, 2b            3  2  1  0   
+Martinez F, ss        4  1  2  0   Mabry J, 3b           3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  7  4                        31  8  7  7
+
+Tampa Bay        000 221 000 --  5
+Seattle          070 000 10x --  8
+
+  Tampa Bay            IP  H  R ER BB SO
+Yan E (L)*            1.0  3  7  6  5  0
+Creek D               4.0  2  0  0  1  5
+White R               1.1  2  1  1  2  1
+Mecir J               1.2  0  0  0  0  0
+
+  Seattle              IP  H  R ER BB SO
+Sele A (W)+           5.0  5  5  4  4  6
+Paniagua J            1.2  1  0  0  0  1
+Rhodes A              0.2  0  0  0  0  1
+Mesa J                0.2  0  0  0  0  2
+Sasaki K (S)          1.0  1  0  0  0  0
+  * Pitched to 7 batters in 2nd
+  + Pitched to 2 batters in 6th
+
+E -- Smith B, Mabry J 2
+DP -- Tampa Bay 1, Seattle 1
+LOB -- Tampa Bay 5, Seattle 9
+2B -- Rodriguez A 2, Olerud J, Martinez F, Smith B
+HR -- McGriff F
+CS -- McCracken Q
+SF -- DiFelice M
+HBP -- by Yan E (Bell D), by Creek D (Buhner J)
+T -- 3:19
+A -- 27555
+     Game of 6/22/2000 -- Baltimore at Seattle (N)
+
+  Baltimore          AB  R  H RBI    Seattle            AB  R  H RBI
+Anderson B, cf        5  0  0  0   Henderson R, lf       4  1  1  2   
+Bordick M, ss         3  1  1  0   Cameron M, cf         4  0  0  1   
+Surhoff B, lf         5  1  1  1   Rodriguez A, ss       5  1  3  0   
+Belle A, rf           4  0  0  0   Martinez E, dh        3  2  2  4   
+Conine J, 3b          4  2  2  2   Olerud J, 1b          5  2  2  0   
+Ripken C, dh          4  0  1  0   Buhner J, rf          4  1  1  3   
+Clark W, 1b           3  0  1  1   Gipson C, rf          1  0  0  0   
+Johnson C, c          4  0  2  0   Mabry J, 3b           4  1  1  0   
+Lewis M, 2b           2  0  0  0   Oliver J, c           3  2  2  1   
+DeShields D, ph       1  0  0  0   Bell D, 2b            4  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  4                        37 11 14 11
+
+Baltimore        010 003 000 --  4
+Seattle          030 400 04x -- 11
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J (L)         5.1  9  7  5  2  7
+Mills A*              0.2  1  0  0  1  2
+McElroy C             1.0  0  0  0  0  1
+Groom B               1.0  4  4  4  1  2
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (W)           6.0  8  4  4  1  5
+Ramsay R              0.2  0  0  0  1  0
+Mesa J                1.1  0  0  0  1  2
+Paniagua J            1.0  0  0  0  1  0
+  * Pitched to 2 batters in 7th
+
+E -- Lewis M, Surhoff B, Mabry J
+DP -- Baltimore 1, Seattle 1
+LOB -- Baltimore 8, Seattle 7
+2B -- Conine J, Johnson C, Surhoff B, Oliver J
+HR -- Buhner J, Conine J, Martinez E
+SB -- Bordick M
+SF -- Cameron M
+WP -- Mills A 2
+T -- 3:21
+A -- 31688
+     Game of 6/23/2000 -- Baltimore at Seattle (N)
+
+  Baltimore          AB  R  H RBI    Seattle            AB  R  H RBI
+Anderson B, cf        4  0  0  0   Henderson R, lf       4  2  1  1   
+Bordick M, ss         5  0  1  1   Gipson C, lf          0  0  0  0   
+DeShields D, 2b       3  1  1  0   Javier S, rf          5  1  1  0   
+Belle A, rf           4  1  2  0   Rodriguez A, ss       5  0  3  2   
+Surhoff B, lf         4  0  1  1   Martinez E, dh        3  0  0  0   
+Conine J, 3b          4  0  2  1   Olerud J, 1b          3  0  1  1   
+Clark W, 1b           4  0  0  0   Cameron M, cf         4  1  1  0   
+Baines H, dh          3  0  0  0   Lampkin T, c          4  1  1  1   
+Johnson C, ph         1  0  0  0   Mabry J, 3b           4  2  2  1   
+Myers G, c            3  1  3  0   Bell D, 2b            4  1  1  2   
+Lewis M, ph           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3 10  3                        36  8 11  8
+
+Baltimore        000 110 010 --  3
+Seattle          000 044 00x --  8
+
+  Baltimore            IP  H  R ER BB SO
+Erickson S (L)*       5.0  9  7  7  2  2
+Molina G              1.0  2  1  1  2  1
+McElroy C             1.0  0  0  0  0  3
+Mercedes J            1.0  0  0  0  0  0
+
+  Seattle              IP  H  R ER BB SO
+Meche G (W)           6.0  6  2  2  1  4
+Rodriguez F           1.1  4  1  1  1  1
+Rhodes A              1.2  0  0  0  1  1
+  * Pitched to 3 batters in 6th
+
+E -- Bordick M
+DP -- Baltimore 1, Seattle 2
+LOB -- Baltimore 8, Seattle 8
+2B -- Rodriguez A 2, Myers G, Lampkin T, Mabry J, DeShields D
+HR -- Bell D
+SB -- Henderson R, Cameron M
+WP -- McElroy C
+T -- 2:59
+A -- 40383
+     Game of 6/24/2000 -- Baltimore at Seattle (D)
+
+  Baltimore          AB  R  H RBI    Seattle            AB  R  H RBI
+DeShields D, 2b       4  0  1  0   McLemore M, 2b        4  1  1  0   
+Bordick M, ss         3  0  1  0   Javier S, cf-rf       4  1  1  0   
+Surhoff B, lf         4  1  1  0   Rodriguez A, ss       3  0  0  1   
+Belle A, dh           4  0  2  0   Martinez E, dh        4  0  0  0   
+Conine J, rf          4  0  2  1   Olerud J, 1b          2  0  1  1   
+Ripken C, 3b          4  0  0  0   Buhner J, rf          3  0  0  0   
+Clark W, 1b           3  0  0  0   Cameron M, cf         0  0  0  0   
+Johnson C, c          3  0  0  0   Ibanez R, lf          2  0  0  0   
+Matos L, cf           3  0  0  0   Oliver J, c           3  0  0  0   
+                                   Bell D, 3b            2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  7  1                        27  2  4  2
+
+Baltimore        100 000 000 --  1
+Seattle          200 000 00x --  2
+
+  Baltimore            IP  H  R ER BB SO
+Rapp P (L)            7.0  4  2  2  3  8
+Mills A               1.0  0  0  0  0  2
+
+  Seattle              IP  H  R ER BB SO
+Halama J (W)          8.0  7  1  1  0  4
+Sasaki K (S)          1.0  0  0  0  0  0
+
+E -- Bell D
+DP -- Seattle 1
+LOB -- Baltimore 5, Seattle 5
+2B -- Javier S, Olerud J, Bell D, Belle A
+CS -- Conine J
+SH -- Bordick M
+SF -- Rodriguez A
+T -- 2:37
+A -- 45142
+     Game of 6/25/2000 -- Baltimore at Seattle (D)
+
+  Baltimore          AB  R  H RBI    Seattle            AB  R  H RBI
+Anderson B, cf        4  0  1  0   Henderson R, lf       3  0  0  0   
+Bordick M, ss         4  0  0  0   Javier S, rf          3  1  1  0   
+DeShields D, 2b       4  0  0  0   Rodriguez A, ss       3  1  0  0   
+Belle A, rf           3  0  0  0   Martinez E, dh        4  0  0  0   
+Surhoff B, lf         4  0  1  0   Olerud J, 1b          4  0  0  0   
+Ripken C, 3b          4  0  0  0   Cameron M, cf         3  1  1  0   
+Conine J, 1b          3  0  0  0   Lampkin T, c          2  1  1  4   
+Baines H, dh          3  1  1  1   Bell D, 3b            4  0  0  0   
+Johnson C, c          1  1  1  1   McLemore M, 2b        2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  2                        28  4  4  4
+
+Baltimore        001 000 010 --  2
+Seattle          000 000 04x --  4
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S*             7.0  3  2  2  6  5
+Mills A               0.1  0  0  0  0  0
+Groom B               0.1  0  0  0  0  0
+Timlin M (L)          0.1  1  2  2  0  1
+
+  Seattle              IP  H  R ER BB SO
+Abbott P+             7.0  4  2  2  3  7
+Rhodes A (W)          1.0  0  0  0  0  3
+Sasaki K (S)          1.0  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+  + Pitched to 1 batter in 8th
+
+DP -- Seattle 1
+LOB -- Baltimore 4, Seattle 7
+2B -- Cameron M
+HR -- Baines H, Johnson C, Lampkin T
+SB -- McLemore M
+HBP -- by Timlin M (Cameron M)
+T -- 2:45
+A -- 45030
+     Game of 6/27/2000 -- Anaheim at Seattle (N)
+
+  Anaheim            AB  R  H RBI    Seattle            AB  R  H RBI
+Erstad D, lf          4  0  0  1   Henderson R, lf       3  0  0  0   
+Spiezio S, dh         3  1  1  0   Cameron M, cf         3  2  1  1   
+Vaughn M, 1b          4  1  2  1   Rodriguez A, ss       4  0  1  0   
+Salmon T, rf          4  0  1  1   Martinez E, dh        3  0  0  0   
+Anderson G, cf        4  0  0  0   Olerud J, 1b          4  0  2  1   
+Glaus T, 3b           3  0  0  0   Buhner J, rf          4  0  0  0   
+Molina B, c           4  0  1  0   Ibanez R, rf          0  0  0  0   
+Kennedy A, 2b         3  1  0  0   Bell D, 3b            3  2  2  1   
+Gil B, ss             3  0  0  0   Oliver J, c           4  1  2  0   
+                                   McLemore M, 2b        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  5  3                        30  5  8  3
+
+Anaheim          001 001 100 --  3
+Seattle          120 110 00x --  5
+
+  Anaheim              IP  H  R ER BB SO
+Belcher T (L)         1.1  3  3  3  3  2
+Fyhrie M              3.2  4  2  2  0  5
+Pote L                2.0  0  0  0  1  3
+Petkovsek M           1.0  1  0  0  1  0
+
+  Seattle              IP  H  R ER BB SO
+Sele A (W)            6.1  5  3  3  3  6
+Rhodes A              1.2  0  0  0  0  2
+Sasaki K (S)          1.0  0  0  0  0  2
+
+DP -- Anaheim 2
+LOB -- Anaheim 5, Seattle 6
+HR -- Bell D, Cameron M, Vaughn M
+SB -- Henderson R 2
+WP -- Rhodes A
+Balk -- Belcher T
+T -- 3:13
+A -- 32051
+     Game of 6/28/2000 -- Anaheim at Seattle (N)
+
+  Anaheim            AB  R  H RBI    Seattle            AB  R  H RBI
+Erstad D, lf          5  1  2  0   Henderson R, lf       3  0  0  0   
+Gil B, ss             5  1  3  1   Machado R, c          0  0  0  0   
+Vaughn M, 1b          2  1  1  0   Javier S, ph          1  0  0  0   
+Salmon T, rf          2  0  0  0   Cameron M, cf         4  0  0  0   
+Anderson G, cf        4  0  0  1   Rodriguez A, ss       3  1  1  1   
+Glaus T, 3b           4  0  1  1   Martinez E, dh        3  1  1  1   
+Molina B, c           4  0  0  0   Ibanez R, pr          0  0  0  0   
+Kennedy A, 2b         4  0  1  0   Olerud J, 1b          4  0  0  0   
+Clemente E, dh        3  0  0  0   Buhner J, rf          4  0  1  0   
+Palmeiro O, ph        1  0  0  0   Bell D, 3b            4  0  0  0   
+                                   Oliver J, c           2  0  1  0   
+                                   Mabry J, ph-lf        1  0  0  0   
+                                   McLemore M, 2b        4  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        33  2  6  2
+
+Anaheim          200 000 100 --  3
+Seattle          000 100 010 --  2
+
+  Anaheim              IP  H  R ER BB SO
+Hill K (W)            6.0  4  1  1  3  2
+Hasegawa S            2.0  2  1  1  0  3
+Percival T (S)        1.0  0  0  0  1  0
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (L)           6.0  5  2  2  3  5
+Tomko B               1.0  3  1  1  0  1
+Paniagua J            1.0  0  0  0  0  1
+Mesa J                1.0  0  0  0  0  2
+
+E -- Glaus T
+DP -- Seattle 1
+LOB -- Anaheim 8, Seattle 8
+2B -- Gil B
+3B -- Gil B
+HR -- Martinez E, Rodriguez A
+SB -- Gil B, Rodriguez A, Oliver J, Kennedy A, McLemore M
+CS -- McLemore M
+HBP -- by Moyer J (Vaughn M)
+T -- 3:13
+A -- 32581
+     Game of 6/29/2000 -- Anaheim at Seattle (D)
+
+  Anaheim            AB  R  H RBI    Seattle            AB  R  H RBI
+Erstad D, lf          4  0  3  0   McLemore M, 2b        4  0  0  0   
+Palmeiro O, dh        3  0  1  1   Javier S, lf          4  2  2  2   
+Clemente E, ph        1  0  0  0   Rodriguez A, ss       3  0  0  0   
+Vaughn M, 1b          4  0  0  0   Martinez E, dh        2  1  1  1   
+Salmon T, rf          3  1  0  0   Olerud J, 1b          3  2  2  3   
+Anderson G, cf        4  0  1  0   Cameron M, cf         4  0  0  0   
+Glaus T, 3b           4  0  0  1   Ibanez R, rf          4  0  1  0   
+Kennedy A, 2b         3  0  0  0   Machado R, c          4  1  1  1   
+Walbeck M, c          1  1  1  0   Bell D, 3b            2  1  1  0   
+Molina B, ph          1  0  0  0                                      
+Gil B, ss             3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  7  2                        30  7  8  7
+
+Anaheim          001 001 000 --  2
+Seattle          100 102 21x --  7
+
+  Anaheim              IP  H  R ER BB SO
+Bottenfield K (L)     5.2  6  4  4  1  3
+Petkovsek M           0.2  1  2  2  3  0
+Holtz M               0.2  0  0  0  0  0
+Turnbow D             1.0  1  1  1  0  0
+
+  Seattle              IP  H  R ER BB SO
+Meche G               5.1  5  2  2  3  5
+Paniagua J (W)        0.2  0  0  0  2  0
+Rhodes A              1.2  1  0  0  0  1
+Mesa J                1.1  1  0  0  0  3
+
+DP -- Seattle 2
+LOB -- Anaheim 8, Seattle 6
+2B -- Anderson G, Ibanez R
+HR -- Olerud J 2, Javier S, Machado R
+SB -- Javier S, Rodriguez A
+CS -- Bell D
+SH -- Erstad D, McLemore M
+HBP -- by Bottenfield K (Olerud J), by Bottenfield K (Martinez E)
+T -- 3:02
+A -- 44387
+     Game of 7/7/2000 -- Los Angeles at Seattle (N)
+
+  Los Angeles        AB  R  H RBI    Seattle            AB  R  H RBI
+Santangelo F, 2b      4  0  0  0   Henderson R, lf       4  0  1  0   
+Hollandsworth T, cf   3  1  1  0   Machado R, c          1  0  0  0   
+Sheffield G, lf       5  1  2  0   Javier S, cf          5  0  2  0   
+Green S, rf           4  0  0  0   Rodriguez A, ss       2  0  0  1   
+Karros E, 1b          4  1  1  1   McLemore M, 2b        2  0  1  0   
+Hundley T, c          4  0  1  2   Martinez E, dh        4  0  2  0   
+Beltre A, 3b          5  0  0  0   Mabry J, pr           1  1  0  0   
+Hansen D, dh          3  0  0  0   Olerud J, 1b          5  0  1  0   
+Cora A, ss            2  0  0  0   Buhner J, rf          6  0  1  0   
+                                   Bell D, 2b-3b         4  0  2  0   
+                                   Oliver J, c           3  0  0  0   
+                                   Ibanez R, ph-lf       2  0  0  0   
+                                   Guillen C, 3b-ss      4  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     34  3  5  3                        43  2 12  2
+
+Los Angeles      200 000 000 01 --  3
+Seattle          000 010 010 00 --  2
+
+  Los Angeles          IP  H  R ER BB SO
+Perez C               6.1  9  1  1  2  1
+Adams T               1.2  2  1  0  1  2
+Herges M (W)          2.0  0  0  0  3  4
+Fetters M (S)         1.0  1  0  0  1  2
+
+  Seattle              IP  H  R ER BB SO
+Garcia F              6.0  4  2  2  5  6
+Paniagua J            2.0  0  0  0  3  2
+Mesa J                1.0  0  0  0  0  2
+Rhodes A (L)          2.0  1  1  1  0  4
+
+E -- Beltre A, Hundley T
+DP -- Los Angeles 1, Seattle 2
+LOB -- Los Angeles 7, Seattle 16
+2B -- Hundley T, Bell D, Henderson R, Olerud J
+HR -- Karros E
+SB -- Guillen C, Ibanez R, McLemore M
+CS -- Hollandsworth T
+SH -- Cora A, McLemore M
+T -- 4:27
+A -- 45206
+     Game of 7/8/2000 -- Los Angeles at Seattle (N)
+
+  Los Angeles        AB  R  H RBI    Seattle            AB  R  H RBI
+Metcalfe M, 2b-lf     3  0  0  0   Henderson R, lf       4  1  1  0   
+Hollandsworth T, cf   4  0  1  0   Mabry J, lf           0  0  0  0   
+Sheffield G, lf       3  0  1  0   Guillen C, ss         3  2  0  0   
+Santangelo F, lf      0  0  0  0   Martinez E, dh        2  2  1  1   
+Elster K, ss          1  0  0  0   Olerud J, 1b          3  3  2  5   
+Green S, rf           4  0  0  0   Cameron M, cf         3  1  0  0   
+Karros E, 1b          2  0  1  0   Buhner J, rf          3  0  3  1   
+Hundley T, dh         3  0  1  0   Ibanez R, rf          1  0  0  0   
+Leyritz J, c          4  0  1  0   Bell D, 3b            4  0  1  2   
+Beltre A, 3b          3  0  0  0   Oliver J, c           5  0  1  1   
+Cora A, ss-2b         3  0  0  0   McLemore M, 2b        3  2  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        31 11 10 10
+
+Los Angeles      000 000 000 --  0
+Seattle          014 400 20x -- 11
+
+  Los Angeles          IP  H  R ER BB SO
+Gagne E (L)           3.1  7  8  8  4  1
+Arnold J              4.2  3  3  3  5  2
+
+  Seattle              IP  H  R ER BB SO
+Sele A (W)            7.0  3  0  0  4  3
+Tomko B               2.0  2  0  0  0  0
+
+DP -- Seattle 2
+LOB -- Los Angeles 7, Seattle 9
+2B -- Buhner J, Martinez E, Olerud J
+HR -- Olerud J
+SB -- McLemore M
+SH -- Guillen C
+SF -- Bell D, Buhner J
+HBP -- by Arnold J (Guillen C)
+WP -- Arnold J
+T -- 2:36
+A -- 45248
+     Game of 7/9/2000 -- Los Angeles at Seattle (D)
+
+  Los Angeles        AB  R  H RBI    Seattle            AB  R  H RBI
+Metcalfe M, lf        4  0  1  0   Javier S, lf          4  0  0  0   
+Beltre A, 3b          4  0  1  0   Guillen C, ss         4  0  0  0   
+Green S, rf           4  0  0  0   Martinez E, dh        3  0  1  0   
+Sheffield G, dh       3  0  1  0   Henderson R, pr       0  0  0  0   
+Karros E, 1b          3  0  1  0   Olerud J, 1b          3  0  0  0   
+Leyritz J, c          4  0  0  0   Cameron M, cf         4  0  0  0   
+Elster K, ss          4  0  1  0   Ibanez R, rf          3  0  0  0   
+Hollandsworth T, cf   3  0  2  0   Bell D, 3b            3  1  0  0   
+Cora A, 2b            2  0  0  0   Oliver J, c           3  1  3  2   
+                                   McLemore M, 2b        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  7  0                        28  2  4  2
+
+Los Angeles      000 000 000 --  0
+Seattle          020 000 00x --  2
+
+  Los Angeles          IP  H  R ER BB SO
+Park C (L)            7.0  3  2  1  3  6
+Osuna A               1.0  1  0  0  0  2
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (W)           7.0  7  0  0  2  8
+Paniagua J            1.0  0  0  0  0  1
+Sasaki K (S)          1.0  0  0  0  0  0
+
+E -- Green S
+DP -- Seattle 2
+LOB -- Los Angeles 7, Seattle 6
+2B -- Oliver J
+HR -- Oliver J
+CS -- Sheffield G
+SH -- McLemore M
+HBP -- by Moyer J (Cora A)
+WP -- Park C
+T -- 2:37
+A -- 45251
+     Game of 7/21/2000 -- Texas at Seattle (N)
+
+  Texas              AB  R  H RBI    Seattle            AB  R  H RBI
+Catalanotto F, 2b     3  1  2  1   Henderson R, lf       3  1  1  1   
+Greer R, lf           4  0  0  0   Ibanez R, lf          1  0  0  0   
+Palmeiro R, dh        4  0  0  0   Guillen C, ss         5  1  4  1   
+Segui D, 1b           3  1  2  1   Martinez E, dh        5  2  2  1   
+Haselman B, c         4  0  1  0   Olerud J, 1b          4  2  1  1   
+Martinez D, rf        4  1  1  0   Buhner J, rf          4  1  1  3   
+Kapler G, cf          4  0  1  0   Gipson C, rf-3b       0  0  0  0   
+Lamb M, 3b            4  0  1  0   Cameron M, cf         4  1  1  0   
+Clayton R, ss         2  0  0  0   Bell D, 3b-2b         3  1  0  1   
+Sheldon S, ph-ss      1  0  0  0   Wilson D, c           2  2  0  1   
+                                   McLemore M, 2b        4  1  1  2   
+                                   Mabry J, rf           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  2                        35 12 11 11
+
+Texas            000 001 110 --  3
+Seattle          705 000 00x -- 12
+
+  Texas                IP  H  R ER BB SO
+Perisho M (L)         0.1  4  7  6  3  0
+Davis D               4.2  6  5  5  3  3
+Crabtree T            3.0  1  0  0  1  1
+
+  Seattle              IP  H  R ER BB SO
+Abbott P (W)          7.0  6  2  2  3  2
+Tomko B               2.0  2  1  1  0  1
+
+E -- Catalanotto F
+DP -- Seattle 2
+LOB -- Texas 6, Seattle 6
+2B -- Cameron M, Guillen C
+HR -- McLemore M, Buhner J, Catalanotto F, Segui D
+SB -- Henderson R
+T -- 2:59
+A -- 44765
+     Game of 7/22/2000 -- Texas at Seattle (N)
+
+  Texas              AB  R  H RBI    Seattle            AB  R  H RBI
+Alicea L, 2b          3  0  0  1   Javier S, lf          4  3  2  2   
+Curtis C, lf          4  1  1  0   Guillen C, ss         5  2  3  1   
+Palmeiro R, 1b        3  0  0  1   Martinez E, dh        4  1  2  3   
+Catalanotto F, 1b     0  0  0  0   Olerud J, 1b          2  0  0  1   
+Rodriguez I, c        4  1  1  1   Ibanez R, pr-rf       0  0  0  0   
+Haselman B, c         0  0  0  0   Cameron M, cf         4  1  2  1   
+Segui D, dh           4  0  1  0   Gipson C, cf          0  0  0  0   
+Kapler G, cf          4  1  1  0   Mabry J, rf-1b        4  1  0  0   
+Clayton R, ss         4  2  3  0   Bell D, 3b            4  1  1  0   
+Sheldon S, 3b         4  0  2  1   Oliver J, c           5  3  3  4   
+Green S, rf           4  0  0  1   McLemore M, 2b        4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  5  9  5                        36 13 14 13
+
+Texas            200 010 200 --  5
+Seattle          101 342 20x -- 13
+
+  Texas                IP  H  R ER BB SO
+Glynn R (L)           5.0  8  9  9  3  2
+Cordero F             1.0  3  2  2  0  1
+Zimmerman J           1.0  2  2  2  2  1
+Venafro M             1.0  1  0  0  0  0
+
+  Seattle              IP  H  R ER BB SO
+Halama J (W)          5.0  6  3  3  0  1
+Paniagua J            2.0  3  2  2  0  0
+Ramsay R              1.0  0  0  0  0  0
+Mesa J                1.0  0  0  0  0  2
+
+E -- Halama J, Bell D
+LOB -- Texas 4, Seattle 8
+2B -- Cameron M, Oliver J, McLemore M, Clayton R, Guillen C
+HR -- Rodriguez I, Martinez E, Javier S, Oliver J
+CS -- Clayton R
+SF -- Palmeiro R, Olerud J, Alicea L, Martinez E
+HBP -- by Glynn R (Mabry J), by Cordero F (Cameron M)
+WP -- Cordero F, Paniagua J
+T -- 2:55
+A -- 44381
+     Game of 7/23/2000 -- Texas at Seattle (D)
+
+  Texas              AB  R  H RBI    Seattle            AB  R  H RBI
+Alicea L, 2b          5  0  0  0   Henderson R, lf       4  0  0  0   
+Greer R, lf           3  0  2  0   Guillen C, ss         4  0  2  1   
+Palmeiro R, 1b        5  0  2  1   Martinez E, dh        4  0  1  0   
+Rodriguez I, c        3  1  0  0   Olerud J, 1b          4  0  1  0   
+Segui D, dh           5  0  1  0   Cameron M, cf         2  0  0  0   
+Martinez D, rf        3  1  2  0   Buhner J, rf          4  0  0  0   
+Curtis C, ph          0  0  0  0   Bell D, 3b            4  1  1  0   
+Catalanotto F, ph     1  0  0  0   Wilson D, c           2  0  1  0   
+Green S, rf           1  0  0  0   Javier S, ph          1  0  0  0   
+Kapler G, cf          4  0  1  0   McLemore M, 2b        4  1  2  1   
+Lamb M, 3b            4  1  1  1                                      
+Clayton R, ss         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  3  9  2                        33  2  8  2
+
+Texas            000 200 010 --  3
+Seattle          000 010 100 --  2
+
+  Texas                IP  H  R ER BB SO
+Helling R (W)         8.0  8  2  2  2  1
+Wetteland J (S)       1.0  0  0  0  0  0
+
+  Seattle              IP  H  R ER BB SO
+Garcia F              6.0  6  2  1  3  1
+Ramsay R              0.1  1  0  0  1  0
+Tomko B               0.2  0  0  0  0  0
+Rhodes A (L)          1.0  2  1  1  1  0
+Mesa J                1.0  0  0  0  0  1
+
+E -- Kapler G, McLemore M
+LOB -- Texas 13, Seattle 7
+2B -- Olerud J, Palmeiro R, Bell D
+SB -- Kapler G, McLemore M
+CS -- Cameron M
+SH -- Wilson D
+HBP -- by Garcia F (Clayton R)
+PB -- Wilson D
+T -- 3:11
+A -- 45319
+     Game of 7/24/2000 -- Oakland at Seattle (N)
+
+  Oakland            AB  R  H RBI    Seattle            AB  R  H RBI
+Christenson R, cf     3  0  1  2   Henderson R, lf       3  1  2  0   
+Long T, ph-cf         2  0  1  1   Guillen C, ss         3  1  0  1   
+Velarde R, 2b         5  1  0  0   Martinez E, dh        4  2  2  1   
+Giambi J, 1b          5  0  2  0   Olerud J, 1b          4  0  1  1   
+Saenz O, dh           4  0  1  1   Javier S, rf          2  0  1  1   
+Grieve B, lf          3  0  1  0   Ibanez R, rf          3  0  1  0   
+Piatt A, 3b           4  1  1  0   Cameron M, cf         5  1  2  0   
+Stairs M, rf          4  0  0  0   Bell D, 3b            4  0  1  2   
+Tejada M, ss          2  2  2  0   Oliver J, c           5  0  0  0   
+Hernandez R, c        2  0  0  0   McLemore M, 2b        2  1  1  0   
+Chavez E, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        35  6 11  6
+
+Oakland          000 120 001 --  4
+Seattle          220 100 01x --  6
+
+  Oakland              IP  H  R ER BB SO
+Appier K (L)          6.0  9  5  5  6  5
+Prieto A              2.0  2  1  1  2  1
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (W)           6.1  6  3  2  2  2
+Paniagua J*           0.0  0  0  0  1  0
+Rhodes A              1.2  2  0  0  0  1
+Sasaki K (S)          1.0  1  1  1  1  3
+  * Pitched to 1 batter in 7th
+
+E -- Bell D
+DP -- Seattle 2
+LOB -- Oakland 8, Seattle 14
+2B -- Henderson R
+HR -- Martinez E
+SB -- Cameron M
+HBP -- by Appier K (Bell D)
+T -- 3:31
+A -- 44880
+     Game of 7/25/2000 -- Oakland at Seattle (N)
+
+  Oakland            AB  R  H RBI    Seattle            AB  R  H RBI
+Long T, cf            5  1  1  0   Henderson R, lf       5  0  2  0   
+Velarde R, 2b         5  1  3  1   Cameron M, cf         4  2  1  0   
+Giambi J, 1b          3  2  1  2   Rodriguez A, ss       5  1  1  0   
+Grieve B, lf          4  2  2  1   Martinez E, dh        4  1  1  2   
+Christenson R, lf     0  0  0  0   Olerud J, 1b          4  1  1  2   
+Stairs M, dh          3  1  1  1   Buhner J, rf          4  2  2  3   
+Saenz O, ph           1  0  0  0   Guillen C, 3b         3  0  1  0   
+Tejada M, ss          5  0  2  3   Wilson D, c           3  0  1  0   
+Giambi J, rf          5  0  0  0   Ibanez R, ph          1  0  0  0   
+Chavez E, 3b          4  0  0  0   Oliver J, c           0  0  0  0   
+Fasano S, c           3  1  1  0   McLemore M, 2b        4  0  1  0   
+Menechino F, pr       0  0  0  0                                      
+Hernandez R, c        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  8 11  8                        37  7 11  7
+
+Oakland          100 120 400 --  8
+Seattle          300 100 030 --  7
+
+  Oakland              IP  H  R ER BB SO
+Heredia G (W)         6.1  7  4  4  0  4
+Tam J                 1.0  2  2  2  0  0
+Magnante M            0.1  0  0  0  0  1
+Isringhausen J (S)    1.1  2  1  1  1  0
+
+  Seattle              IP  H  R ER BB SO
+Sele A (L)            6.2  9  8  8  3  5
+Mesa J                1.0  2  0  0  1  0
+Ramsay R              1.1  0  0  0  0  2
+
+E -- Rodriguez A, Olerud J
+DP -- Oakland 1, Seattle 2
+LOB -- Oakland 8, Seattle 5
+2B -- Rodriguez A, Grieve B, Fasano S, Stairs M, Henderson R
+HR -- Olerud J, Buhner J 2, Giambi J
+SB -- Henderson R
+CS -- Menechino F
+SH -- Stairs M
+HBP -- by Heredia G (Cameron M)
+WP -- Sele A, Ramsay R
+T -- 3:41
+A -- 42377
+     Game of 7/26/2000 -- Oakland at Seattle (N)
+
+  Oakland            AB  R  H RBI    Seattle            AB  R  H RBI
+Long T, cf            3  1  1  1   Cameron M, cf         3  1  2  0   
+Velarde R, 2b         4  0  0  0   Guillen C, 3b         5  0  0  0   
+Giambi J, 1b          4  1  1  2   Rodriguez A, ss       4  0  2  0   
+Grieve B, lf          3  0  0  0   Martinez E, dh        2  0  1  0   
+Christenson R, pr-lf  0  0  0  0   Olerud J, 1b          3  0  0  1   
+Stairs M, dh          4  0  1  0   Mabry J, rf           3  0  1  0   
+Tejada M, ss          4  0  0  0   Buhner J, ph-rf       1  0  0  0   
+Giambi J, rf          1  2  0  0   Ibanez R, lf          3  0  0  0   
+Chavez E, 3b          4  1  1  0   McLemore M, ph        1  0  0  0   
+Hernandez R, c        4  1  1  3   Bell D, 2b            4  0  2  0   
+                                   Oliver J, c           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  6  5  6                        32  1  8  1
+
+Oakland          002 020 020 --  6
+Seattle          100 000 000 --  1
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (W)          7.1  7  1  1  4  5
+Magnante M            1.1  1  0  0  1  2
+Mathews T             0.1  0  0  0  0  1
+
+  Seattle              IP  H  R ER BB SO
+Abbott P (L)          7.0  4  4  4  3  5
+Tomko B               2.0  1  2  2  2  4
+
+DP -- Oakland 2, Seattle 1
+LOB -- Oakland 3, Seattle 10
+2B -- Stairs M, Rodriguez A, Bell D
+HR -- Hernandez R, Giambi J
+SB -- Oliver J
+SF -- Olerud J
+WP -- Abbott P
+T -- 3:00
+A -- 45379
+     Game of 7/27/2000 -- Toronto at Seattle (N)
+
+  Toronto            AB  R  H RBI    Seattle            AB  R  H RBI
+Stewart S, lf         5  1  3  1   Henderson R, lf       4  1  2  1   
+Bush H, 2b            6  0  2  0   Cameron M, cf         4  0  0  0   
+Cruz J, cf            4  1  2  0   Rodriguez A, ss       3  0  2  1   
+Delgado C, 1b         4  1  3  1   Martinez E, dh        4  0  0  0   
+Batista T, 3b         4  1  0  0   Olerud J, 1b          4  0  0  0   
+Cordova M, rf         5  0  1  0   Buhner J, rf          3  0  2  0   
+Fullmer B, dh         3  0  0  0   Bell D, 3b            4  0  0  0   
+Greene T, ph          2  1  1  2   Wilson D, c           3  1  1  0   
+Castillo A, c         4  2  3  0   McLemore M, 2b        2  0  0  0   
+Gonzalez A, ss        4  0  1  2                                      
+                     -- -- -- --                        -- -- -- --
+                     41  7 16  6                        31  2  7  2
+
+Toronto          100 000 501 --  7
+Seattle          000 020 000 --  2
+
+  Toronto              IP  H  R ER BB SO
+Loaiza E (W)          7.0  6  2  2  2  6
+Frascatore J          1.0  1  0  0  0  1
+Koch B                1.0  0  0  0  0  0
+
+  Seattle              IP  H  R ER BB SO
+Halama J              5.2 10  1  1  3  4
+Paniagua J            0.2  0  0  0  0  0
+Rhodes A (L)          0.1  3  5  4  2  0
+Mesa J                2.1  3  1  1  1  4
+
+E -- Bell D
+DP -- Toronto 2, Seattle 3
+LOB -- Toronto 13, Seattle 6
+2B -- Delgado C 2, Wilson D, Henderson R, Castillo A 2
+CS -- Buhner J
+SH -- McLemore M
+HBP -- by Loaiza E (Buhner J)
+WP -- Mesa J
+T -- 3:26
+A -- 40398
+     Game of 7/28/2000 -- Toronto at Seattle (N)
+
+  Toronto            AB  R  H RBI    Seattle            AB  R  H RBI
+Stewart S, lf         3  1  1  0   Henderson R, lf       5  0  1  1   
+Bush H, 2b            4  0  0  0   McLemore M, 2b        4  1  2  0   
+Cruz J, cf            4  1  1  3   Rodriguez A, ss       4  1  0  0   
+Delgado C, 1b         4  1  2  0   Martinez E, dh        4  2  1  0   
+Fullmer B, dh         4  0  1  1   Olerud J, 1b          3  0  0  1   
+Batista T, 3b         3  0  0  0   Buhner J, rf          3  1  2  1   
+Fletcher D, c         4  0  0  0   Cameron M, cf         2  2  1  2   
+Ducey R, rf           3  1  0  0   Wilson D, c           3  0  1  1   
+Gonzalez A, ss        4  0  1  0   Bell D, 3b            3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     33  4  6  4                        31  7  9  7
+
+Toronto          004 000 000 --  4
+Seattle          021 300 10x --  7
+
+  Toronto              IP  H  R ER BB SO
+Carpenter C (L)       3.1  8  6  6  5  1
+Halladay R            3.0  1  1  1  3  1
+Quantrill P           1.2  0  0  0  0  3
+
+  Seattle              IP  H  R ER BB SO
+Garcia F (W)          6.2  6  4  4  3  8
+Ramsay R              1.1  0  0  0  0  3
+Sasaki K (S)          1.0  0  0  0  0  1
+
+E -- Batista T
+DP -- Toronto 1
+LOB -- Toronto 5, Seattle 10
+2B -- Delgado C 2, Cameron M, Fullmer B, Martinez E
+HR -- Cruz J
+SB -- McLemore M, Cameron M, Henderson R
+SF -- Cameron M
+HBP -- by Halladay R (Buhner J)
+T -- 3:11
+A -- 37126
+     Game of 7/29/2000 -- Toronto at Seattle (D)
+
+  Toronto            AB  R  H RBI    Seattle            AB  R  H RBI
+Stewart S, lf         2  0  1  0   Javier S, lf          5  0  2  1   
+Ducey R, lf           4  1  1  1   Henderson R, pr-lf    2  1  1  0   
+Grebeck C, 2b         4  1  2  2   Guillen C, 3b         4  0  0  0   
+Bush H, pr-2b         1  0  1  0   Bell D, ph-2b         1  0  0  0   
+Cruz J, cf            6  0  0  0   Rodriguez A, ss       4  1  2  0   
+Delgado C, 1b         5  0  1  0   Martinez E, dh        5  0  2  1   
+Batista T, 3b         6  0  0  1   Olerud J, 1b          6  0  2  2   
+Greene T, dh          3  1  1  1   Cameron M, cf         5  0  1  0   
+Fullmer B, ph         2  0  1  0   Ibanez R, rf          4  1  3  0   
+Cordova M, rf         5  0  0  0   Oliver J, c           5  2  3  2   
+Castillo A, c         4  1  0  0   McLemore M, 2b        3  1  0  0   
+Gonzalez A, ss        5  1  1  0   Buhner J, ph          0  0  0  0   
+                                   Mabry J, 3b           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     47  5  9  5                        45  6 16  6
+
+Toronto          000 131 000 000 0 --  5
+Seattle          003 002 000 000 1 --  6
+  0 outs when winning run was scored.
+
+  Toronto              IP  H  R ER BB SO
+Castillo F            5.1  8  5  5  3  7
+Frascatore J          1.2  1  0  0  0  0
+Borbon P              0.1  0  0  0  0  0
+Quantrill P           0.2  2  0  0  1  0
+Koch B                1.0  1  0  0  1  0
+Painter L             3.0  1  0  0  3  3
+Halladay R (L)        0.0  3  1  1  0  0
+
+  Seattle              IP  H  R ER BB SO
+Moyer J               6.0  7  5  5  3  3
+Rhodes A              1.1  0  0  0  0  4
+Paniagua J            1.2  0  0  0  0  3
+Sasaki K              1.0  0  0  0  2  3
+Tomko B (W)           3.0  2  0  0  1  2
+
+DP -- Toronto 3
+LOB -- Toronto 9, Seattle 16
+2B -- Olerud J, Delgado C, Ducey R, Ibanez R, Oliver J 2
+HR -- Oliver J, Greene T
+SB -- Bush H
+CS -- Stewart S, Javier S
+SH -- Guillen C, Oliver J, Bell D
+HBP -- by Frascatore J (Rodriguez A), by Painter L (Ibanez R)
+T -- 5:04
+A -- 45264
+     Game of 7/30/2000 -- Toronto at Seattle (D)
+
+  Toronto            AB  R  H RBI    Seattle            AB  R  H RBI
+Ducey R, lf           4  0  1  0   Henderson R, lf       0  2  0  0   
+Bush H, 2b            4  0  0  0   McLemore M, 2b        4  1  0  0   
+Batista T, 3b         3  2  0  0   Rodriguez A, ss       3  3  1  1   
+Delgado C, 1b         3  2  2  0   Martinez E, dh        3  2  1  2   
+Fullmer B, dh         4  1  3  2   Olerud J, 1b          5  0  1  3   
+Cruz J, cf            4  0  1  1   Buhner J, rf          3  1  1  2   
+Fletcher D, c         4  1  1  2   Cameron M, cf         2  0  0  1   
+Cordova M, rf         4  0  0  0   Wilson D, c           4  0  1  0   
+Gonzalez A, ss        4  0  2  0   Bell D, 3b            3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6 10  5                        27 10  5  9
+
+Toronto          000 200 220 --  6
+Seattle          005 010 31x -- 10
+
+  Toronto              IP  H  R ER BB SO
+Escobar K (L)         6.1  4  9  4  7  5
+Borbon P*             0.0  1  0  0  1  0
+Frascatore J          1.0  0  1  1  3  0
+Quantrill P           0.2  0  0  0  0  0
+
+  Seattle              IP  H  R ER BB SO
+Sele A (W)            6.2  6  4  4  2  4
+Mesa J+               0.1  1  1  1  0  1
+Ramsay R              0.1  3  1  1  0  0
+Paniagua J (S)        1.2  0  0  0  0  2
+  * Pitched to 2 batters in 7th
+  + Pitched to 1 batter in 8th
+
+E -- Ducey R, Gonzalez A
+DP -- Toronto 1, Seattle 3
+LOB -- Toronto 6, Seattle 7
+HR -- Buhner J, Rodriguez A, Fullmer B, Fletcher D
+SB -- Henderson R 2
+SF -- Cameron M, Martinez E
+HBP -- by Sele A (Delgado C), by Escobar K (Bell D), by Mesa J (Batista T), by Paniagua J (Bush H)
+PB -- Fletcher D
+T -- 3:18
+A -- 43648
+     Game of 7/31/2000 -- Boston at Seattle (N)
+
+  Boston             AB  R  H RBI    Seattle            AB  R  H RBI
+Nixon T, cf-rf        4  1  2  1   Henderson R, lf       3  1  2  0   
+Varitek J, c          5  1  2  3   McLemore M, 2b        3  0  0  0   
+Daubach B, 1b         5  0  0  0   Rodriguez A, ss       3  1  0  1   
+Garciaparra N, ss     4  1  2  1   Martinez E, dh        3  1  0  0   
+O'Leary T, lf         3  1  0  0   Olerud J, 1b          4  0  0  0   
+Gilkey B, rf          4  1  1  0   Buhner J, rf          4  1  1  4   
+Pichardo H, p         1  0  0  0   Cameron M, cf         2  0  0  0   
+Hatteberg S, dh       4  1  2  0   Wilson D, c           2  0  0  0   
+Lewis D, pr-cf        1  1  0  0   Javier S, ph          1  0  0  0   
+Sprague E, 3b         4  0  0  0   Bell D, 3b            1  1  0  0   
+Lansing M, 2b         3  1  2  2   Ibanez R, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 11  7                        27  5  3  5
+
+Boston           030 001 040 --  8
+Seattle          410 000 000 --  5
+
+  Boston               IP  H  R ER BB SO
+Martinez R*           1.0  1  5  5  5  1
+Florie B              3.0  1  0  0  1  1
+Beck R                2.0  0  0  0  1  2
+Garces R (W)          1.0  1  0  0  0  0
+Pichardo H (S)        2.0  0  0  0  0  1
+
+  Seattle              IP  H  R ER BB SO
+Abbott P              5.1  6  4  2  4  1
+Rhodes A              1.2  0  0  0  0  3
+Mesa J (L)            0.2  2  2  2  0  0
+Sasaki K              0.1  2  2  2  0  0
+Paniagua J            1.0  1  0  0  0  1
+  * Pitched to 1 batter in 2nd
+
+E -- Bell D
+LOB -- Boston 8, Seattle 4
+2B -- Hatteberg S
+HR -- Buhner J, Garciaparra N, Varitek J
+SB -- Henderson R 3, Rodriguez A, Cameron M
+CS -- Cameron M
+SH -- McLemore M, Bell D
+SF -- Lansing M
+T -- 3:24
+A -- 36993
+     Game of 8/1/2000 -- Boston at Seattle (N)
+
+  Boston             AB  R  H RBI    Seattle            AB  R  H RBI
+Lansing M, 2b         8  0  1  0   Henderson R, lf       7  0  1  0   
+Daubach B, 1b         5  1  2  0   Martin A, cf          5  0  0  0   
+Alexander M, pr-3b    4  0  0  0   Buhner J, ph-rf       2  0  0  0   
+Varitek J, c          9  0  1  1   Rodriguez A, ss       7  1  1  0   
+Garciaparra N, ss     7  1  2  0   Martinez E, dh        7  1  0  0   
+O'Leary T, lf         8  0  3  1   Olerud J, 1b          5  0  2  1   
+Gilkey B, rf          6  0  1  0   Cameron M, pr-rf-cf   3  1  1  1   
+Alcantara I, dh       4  0  0  0   Javier S, rf-1b       6  1  2  2   
+Hatteberg S, ph       3  0  0  0   Bell D, 3b            7  1  1  0   
+Sprague E, 3b-1b      4  1  0  0   Oliver J, c           1  0  1  0   
+Nixon T, ph           1  0  0  0   Wilson D, c           5  0  0  1   
+Burkhart M, 1b        1  0  0  0   McLemore M, 2b        7  0  3  0   
+Lewis D, cf           5  1  2  2                                      
+                     -- -- -- --                        -- -- -- --
+                     65  4 12  4                        62  5 12  5
+
+Boston           004 000 000 000 000 000 0 --  4
+Seattle          000 022 000 000 000 000 1 --  5
+  0 outs when winning run was scored.
+
+  Boston               IP  H  R ER BB SO
+Wakefield T           8.0  8  4  4  1  7
+Lowe D                3.0  1  0  0  2  5
+Beck R                2.0  0  0  0  0  2
+Garces R              1.0  0  0  0  1  0
+Cormier R             3.0  2  0  0  0  2
+Pichardo H            1.0  0  0  0  0  0
+Fassero J (L)         0.0  1  1  1  0  0
+
+  Seattle              IP  H  R ER BB SO
+Halama J              9.0  8  4  4  3  2
+Tomko B               4.0  1  0  0  0  0
+Mesa J                3.0  1  0  0  3  2
+Ramsay R              2.1  2  0  0  3  0
+Sasaki K (W)          0.2  0  0  0  0  1
+
+E -- Garciaparra N, Varitek J
+DP -- Boston 1, Seattle 1
+LOB -- Boston 14, Seattle 9
+2B -- Daubach B, Garciaparra N, Lewis D
+3B -- Bell D
+HR -- Lewis D, Javier S, Cameron M
+SB -- Rodriguez A, McLemore M, Cameron M
+CS -- Lewis D
+SH -- Henderson R, Lewis D
+SF -- Wilson D
+T -- 5:34
+A -- 37391
+     Game of 8/2/2000 -- Boston at Seattle (N)
+
+  Boston             AB  R  H RBI    Seattle            AB  R  H RBI
+Nixon T, rf           4  2  1  0   Martin A, lf          4  0  1  1   
+Lansing M, 2b         4  1  1  0   Javier S, rf          4  0  0  0   
+Daubach B, 1b         5  0  0  0   Rodriguez A, ss       4  0  0  0   
+Garciaparra N, ss     4  1  2  3   Martinez E, dh        3  0  0  0   
+O'Leary T, lf         4  1  1  0   Olerud J, 1b          4  0  0  0   
+Varitek J, c          4  0  1  2   Cameron M, cf         3  0  0  0   
+Sprague E, 3b         3  0  2  0   Guillen C, 3b         3  1  2  0   
+Hatteberg S, dh       3  0  0  0   Wilson D, c           3  1  1  0   
+Lewis D, cf           4  0  0  0   McLemore M, 2b        2  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  5  8  5                        30  2  5  2
+
+Boston           400 010 000 --  5
+Seattle          000 000 020 --  2
+
+  Boston               IP  H  R ER BB SO
+Martinez P (W)        9.0  5  2  2  2  7
+
+  Seattle              IP  H  R ER BB SO
+Garcia F (L)          7.0  7  5  4  3  3
+Paniagua J            1.0  0  0  0  1  0
+Rhodes A              1.0  1  0  0  0  2
+
+E -- Garcia F
+DP -- Boston 2, Seattle 1
+LOB -- Boston 7, Seattle 3
+2B -- Garciaparra N, Varitek J, Sprague E
+SB -- Nixon T
+WP -- Garcia F
+T -- 2:37
+A -- 45121
+     Game of 8/11/2000 -- Cleveland at Seattle (N)
+
+  Cleveland          AB  R  H RBI    Seattle            AB  R  H RBI
+Lofton K, cf          4  1  2  0   Henderson R, lf       3  2  1  3   
+Vizquel O, ss         3  0  0  0   Javier S, 1b          1  0  0  0   
+Alomar R, 2b          3  0  1  0   Olerud J, ph-1b       4  0  2  0   
+Ramirez M, dh         4  0  1  1   Rodriguez A, ss       4  0  0  0   
+Thome J, 1b           4  0  0  0   Martinez E, dh        3  0  2  2   
+Segui D, rf           4  0  1  0   Buhner J, rf          4  0  0  0   
+Cordero W, lf         4  0  1  0   Cameron M, cf         3  1  1  0   
+Fryman T, 3b          3  0  0  0   Bell D, 3b            3  2  1  0   
+Alomar S, c           3  0  0  0   Oliver J, c           4  2  2  1   
+                                   McLemore M, 2b        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        32  7 10  6
+
+Cleveland        100 000 000 --  1
+Seattle          130 100 02x --  7
+
+  Cleveland            IP  H  R ER BB SO
+Finley C (L)          3.1  6  5  5  6  4
+Brewington J          3.2  2  0  0  1  1
+Reed S                1.0  2  2  1  0  0
+
+  Seattle              IP  H  R ER BB SO
+Abbott P (W)          7.2  5  1  1  3  2
+Paniagua J (S)        1.1  1  0  0  0  1
+
+E -- Fryman T
+DP -- Cleveland 3, Seattle 1
+LOB -- Cleveland 7, Seattle 8
+2B -- Cordero W
+T -- 2:54
+A -- 45335
+     Game of 8/12/2000 -- Cleveland at Seattle (D)
+
+  Cleveland          AB  R  H RBI    Seattle            AB  R  H RBI
+Lofton K, cf          3  2  2  0   Martin A, lf          4  1  0  0   
+Vizquel O, ss         2  1  1  0   McLemore M, 2b        5  1  1  0   
+Alomar R, 2b          3  0  0  0   Rodriguez A, ss       4  1  3  2   
+Ramirez M, dh         2  0  0  0   Martinez E, dh        3  0  1  2   
+Selby B, pr           0  0  0  0   Widger C, pr          0  0  0  0   
+Segui D, rf           4  1  2  2   Olerud J, 1b          3  0  0  0   
+Cabrera J, pr-rf      0  0  0  0   Buhner J, rf          4  0  1  0   
+Thome J, 1b           4  1  1  0   Cameron M, cf         4  0  0  0   
+Cordero W, lf         4  0  1  1   Wilson D, c           3  0  0  0   
+Fryman T, 3b          4  0  0  0   Javier S, ph          1  0  1  0   
+Diaz E, c             3  0  0  0   Guillen C, 3b         2  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  5  7  3                        33  4  7  4
+
+Cleveland        020 010 020 --  5
+Seattle          200 000 020 --  4
+
+  Cleveland            IP  H  R ER BB SO
+Colon B (W)           7.0  4  2  1  1  8
+Shuey P               0.1  1  2  2  2  1
+Karsay S              0.2  1  0  0  1  0
+Wickman B (S)         1.0  1  0  0  0  0
+
+  Seattle              IP  H  R ER BB SO
+Halama J (L)          6.0  6  3  2  3  5
+Tomko B               1.1  1  2  2  3  0
+Ramsay R              0.2  0  0  0  0  0
+Mesa J                1.0  0  0  0  1  2
+
+E -- Alomar R, Rodriguez A, Cameron M
+DP -- Seattle 3
+LOB -- Cleveland 5, Seattle 7
+2B -- Rodriguez A 2, Thome J, Lofton K
+CS -- Vizquel O
+SH -- Alomar R, Guillen C
+T -- 3:30
+A -- 45356
+     Game of 8/13/2000 -- Cleveland at Seattle (D)
+
+  Cleveland          AB  R  H RBI    Seattle            AB  R  H RBI
+Lofton K, cf          5  1  0  0   Henderson R, lf       4  1  1  0   
+Vizquel O, ss         4  1  2  0   Martin A, cf          5  2  2  0   
+Alomar R, 2b          3  1  1  0   Rodriguez A, ss       2  0  2  2   
+Ramirez M, dh         4  0  0  0   Martinez E, dh        3  0  1  1   
+Perry C, pr           0  1  0  0   Olerud J, 1b          4  0  0  0   
+Thome J, 1b           3  3  2  0   Buhner J, rf          4  0  1  0   
+Cordero W, lf         5  2  3  3   Guillen C, 3b         4  0  0  0   
+Fryman T, 3b          5  1  3  4   Oliver J, c           4  1  1  1   
+Selby B, rf           4  0  0  0   McLemore M, 2b        4  0  0  0   
+Cabrera J, rf         1  0  0  0                                      
+Alomar S, c           5  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39 10 11  7                        34  4  8  4
+
+Cleveland        100 230 202 -- 10
+Seattle          002 020 000 --  4
+
+  Cleveland            IP  H  R ER BB SO
+Woodard S             4.1  8  4  4  0  4
+Speier J (W)          2.1  0  0  0  3  3
+Karsay S              1.1  0  0  0  0  3
+Reed S                1.0  0  0  0  0  2
+
+  Seattle              IP  H  R ER BB SO
+Garcia F (L)          5.0  6  6  4  4  2
+Ramsay R              1.1  1  1  1  1  1
+Mesa J                1.2  2  1  1  0  1
+Paniagua J            1.0  2  2  2  1  0
+
+E -- Guillen C 2, Martin A, Garcia F
+DP -- Cleveland 1, Seattle 1
+LOB -- Cleveland 8, Seattle 7
+2B -- Cordero W 2, Henderson R, Rodriguez A, Thome J, Fryman T
+3B -- Martin A
+HR -- Oliver J, Fryman T
+SB -- Martinez E, Martin A, Henderson R 2, Rodriguez A
+HBP -- by Woodard S (Rodriguez A)
+WP -- Garcia F 2, Mesa J
+Balk -- Garcia F
+T -- 3:23
+A -- 45380
+     Game of 8/14/2000 -- Detroit at Seattle (N)
+
+  Detroit            AB  R  H RBI    Seattle            AB  R  H RBI
+Easley D, 2b          4  2  2  2   McLemore M, 2b        5  1  3  0   
+Allen D, 1b           2  1  1  0   Martin A, lf          5  1  2  1   
+Encarnacion J, cf     6  2  2  2   Rodriguez A, ss       1  0  0  0   
+Higginson B, dh       5  3  3  3   Guillen C, ss         2  1  2  1   
+McMillon B, ph        0  0  0  0   Martinez E, dh        4  1  2  1   
+Gonzalez J, rf        4  1  1  2   Oliver J, ph          1  0  0  0   
+Becker R, rf          1  0  0  0   Olerud J, 1b          2  0  0  0   
+Palmer D, 3b          3  0  0  1   Widger C, c           2  0  0  0   
+Macias J, 2b          2  0  1  1   Javier S, rf          4  0  1  1   
+Magee W, lf           6  2  4  2   Cameron M, cf         4  0  0  0   
+Cruz D, ss            5  1  1  0   Bell D, 3b            4  0  2  0   
+Ausmus B, c           3  2  1  1   Wilson D, c-1b        4  0  0  0   
+Cardona J, c          1  0  1  0                                      
+Halter S, 1b-3b       5  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     47 15 18 15                        38  4 12  4
+
+Detroit          300 280 101 -- 15
+Seattle          000 003 100 --  4
+
+  Detroit              IP  H  R ER BB SO
+Blair W (W)           7.0 10  4  4  1  3
+Patterson D           1.0  0  0  0  0  0
+Anderson M            1.0  2  0  0  1  2
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (L)           4.1 10 11  6  2  4
+Pineiro J             4.2  8  4  4  2  1
+
+E -- McLemore M, Olerud J
+DP -- Detroit 1
+LOB -- Detroit 9, Seattle 9
+2B -- Ausmus B, Easley D, Magee W, Martinez E, Javier S, Halter S, McLemore M, Guillen C, Allen D
+HR -- Gonzalez J, Higginson B, Martin A
+PB -- Widger C
+T -- 3:06
+A -- 44941
+     Game of 8/15/2000 -- Detroit at Seattle (N)
+
+  Detroit            AB  R  H RBI    Seattle            AB  R  H RBI
+Becker R, dh          3  2  2  0   McLemore M, 2b        4  0  0  0   
+Encarnacion J, cf     5  0  2  2   Javier S, lf          4  0  0  0   
+Higginson B, lf       5  2  3  1   Rodriguez A, ss       4  0  1  0   
+McMillon B, lf        0  0  0  0   Martinez E, dh        3  0  0  0   
+Gonzalez J, rf        5  3  4  2   Olerud J, 1b          3  0  1  0   
+Magee W, rf           0  0  0  0   Buhner J, rf          3  0  0  0   
+Palmer D, 3b          5  1  3  4   Cameron M, cf         2  0  1  0   
+Macias J, 3b-2b       0  0  0  0   Oliver J, c           3  0  1  0   
+Easley D, 2b          5  0  0  0   Guillen C, 3b         3  0  1  0   
+Allen D, 1b           0  0  0  0                                      
+Cruz D, ss            5  0  2  0                                      
+Ausmus B, c           5  0  1  0                                      
+Halter S, 1b-3b       5  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     43  9 17  9                        29  0  5  0
+
+Detroit          102 120 030 --  9
+Seattle          000 000 000 --  0
+
+  Detroit              IP  H  R ER BB SO
+Sparks S (W)          9.0  5  0  0  1  6
+
+  Seattle              IP  H  R ER BB SO
+Sele A (L)            5.0 11  6  6  1  3
+Mesa J                2.0  3  0  0  0  1
+Rhodes A              1.0  2  3  3  1  2
+Sasaki K              1.0  1  0  0  0  2
+
+DP -- Detroit 3, Seattle 1
+LOB -- Detroit 9, Seattle 3
+2B -- Becker R, Encarnacion J, Gonzalez J, Guillen C, Higginson B, Cruz D
+HR -- Palmer D, Gonzalez J
+T -- 2:33
+A -- 38674
+     Game of 8/16/2000 -- Detroit at Seattle (D)
+
+  Detroit            AB  R  H RBI    Seattle            AB  R  H RBI
+Easley D, 2b          4  2  3  2   Martin A, lf          3  2  2  0   
+Encarnacion J, cf     5  2  2  2   Javier S, ph-lf       2  0  1  0   
+Higginson B, lf       4  1  2  0   Guillen C, 3b         4  2  2  4   
+Gonzalez J, dh        5  1  2  2   Rodriguez A, ss       4  1  1  0   
+Palmer D, 3b-1b       5  0  0  1   Martinez E, dh        3  1  1  3   
+Magee W, rf           2  1  1  0   Olerud J, 1b          4  1  1  0   
+Becker R, ph-rf       3  0  0  0   Buhner J, rf          4  0  0  0   
+Cruz D, ss            5  2  3  3   Cameron M, cf         3  0  0  1   
+Ausmus B, c           4  2  1  0   Oliver J, c           4  1  2  0   
+Halter S, 1b          3  1  1  0   McLemore M, 2b        2  0  0  0   
+McMillon B, ph        0  0  0  0   Bell D, ph            1  0  0  0   
+Allen D, 1b           0  0  0  0                                      
+Macias J, ph-3b       1  0  1  2                                      
+                     -- -- -- --                        -- -- -- --
+                     41 12 16 12                        34  8 10  8
+
+Detroit          022 032 003 -- 12
+Seattle          330 010 010 --  8
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (W)          5.2  8  7  7  0  6
+Nitkowski C           0.2  0  0  0  1  0
+Patterson D           1.2  1  1  1  0  0
+Jones T               1.0  1  0  0  0  3
+
+  Seattle              IP  H  R ER BB SO
+Halama J              4.1  6  7  5  1  2
+Tomko B (L)           3.2  7  2  2  2  2
+Mesa J                1.0  3  3  3  1  0
+
+E -- Guillen C, Martin A
+DP -- Seattle 1
+LOB -- Detroit 6, Seattle 4
+2B -- Easley D, Oliver J, Olerud J, Gonzalez J, Cruz D
+3B -- Martin A, Macias J
+HR -- Martinez E, Cruz D, Guillen C, Encarnacion J
+SF -- Guillen C, Martinez E, Cameron M
+HBP -- by Weaver J (Rodriguez A)
+WP -- Mesa J
+Balk -- Tomko B
+T -- 3:33
+A -- 42429
+     Game of 8/25/2000 -- Chicago at Seattle (N)
+
+  Chicago            AB  R  H RBI    Seattle            AB  R  H RBI
+Durham R, 2b          4  0  2  0   Henderson R, lf       4  0  1  0   
+Valentin J, ss        5  1  2  0   Bell D, 3b            3  0  0  0   
+Thomas F, dh          3  1  0  0   Guillen C, ph         1  0  1  0   
+Ordonez M, rf         4  0  1  0   Rodriguez A, ss       3  0  0  0   
+Lee C, lf             4  2  2  1   Martinez E, dh        3  0  0  0   
+Konerko P, 1b         3  0  0  0   Olerud J, 1b          3  1  1  0   
+Perry H, 3b           4  0  2  3   Cameron M, cf         3  0  0  0   
+Singleton C, cf       4  0  1  0   Widger C, rf          2  0  0  0   
+Johnson C, c          4  0  0  0   Ibanez R, rf          0  0  0  0   
+                                   Javier S, ph          1  0  0  0   
+                                   Wilson D, c           2  0  1  1   
+                                   McLemore M, 2b        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 10  4                        28  1  4  1
+
+Chicago          300 000 010 --  4
+Seattle          010 000 000 --  1
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (W)*        7.0  3  1  1  4  5
+Howry B               1.1  1  0  0  1  1
+Wunsch K+             0.0  0  0  0  1  0
+Foulke K (S)          0.2  0  0  0  0  2
+
+  Seattle              IP  H  R ER BB SO
+Sele A (L)            7.1  9  4  4  2  5
+Paniagua J            0.2  1  0  0  0  1
+Pineiro J             1.0  0  0  0  1  0
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 9th
+
+DP -- Chicago 3, Seattle 1
+LOB -- Chicago 7, Seattle 6
+2B -- Valentin J, Durham R
+SB -- Lee C
+CS -- Singleton C
+Balk -- Sirotka M
+T -- 3:08
+A -- 44745
+     Game of 8/26/2000 -- Chicago at Seattle (N)
+
+  Chicago            AB  R  H RBI    Seattle            AB  R  H RBI
+Durham R, 2b          5  0  1  0   Henderson R, lf       3  1  1  1   
+Graffanino T, ss      4  0  1  0   Martin A, rf          3  0  0  1   
+Thomas F, dh          3  1  1  0   Ibanez R, rf          1  1  1  1   
+Ordonez M, rf         4  0  1  0   Rodriguez A, ss       3  2  1  1   
+Lee C, lf             4  1  0  0   Martinez E, dh        4  2  1  0   
+Konerko P, 1b         3  1  1  2   Olerud J, 1b          4  2  2  0   
+Perry H, 3b           4  1  1  1   Guillen C, 3b         3  2  2  2   
+Abbott J, cf          4  1  1  0   Cameron M, cf         4  1  2  3   
+Johnson C, c          4  0  1  2   Oliver J, c           4  0  1  2   
+                                   McLemore M, 2b        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5  8  5                        32 11 12 11
+
+Chicago          000 000 500 --  5
+Seattle          000 322 31x -- 11
+
+  Chicago              IP  H  R ER BB SO
+Biddle R (L)          5.1  9  7  7  3  2
+Hill K*               0.2  0  2  2  2  0
+Simas B               2.0  3  2  2  3  3
+
+  Seattle              IP  H  R ER BB SO
+Halama J (W)          6.2  5  5  5  1  3
+Paniagua J            0.2  3  0  0  2  1
+Rhodes A              0.2  0  0  0  0  1
+Sasaki K              1.0  0  0  0  0  2
+  * Pitched to 2 batters in 7th
+
+E -- Biddle R
+LOB -- Chicago 6, Seattle 8
+2B -- Cameron M 2, Konerko P, Abbott J, Olerud J
+HR -- Rodriguez A, Ibanez R
+SB -- McLemore M, Cameron M
+SF -- Martin A, Henderson R, Guillen C
+T -- 3:36
+A -- 45191
+     Game of 8/27/2000 -- Chicago at Seattle (D)
+
+  Chicago            AB  R  H RBI    Seattle            AB  R  H RBI
+Durham R, 2b          4  1  2  1   Henderson R, lf       3  0  0  0   
+Graffanino T, ss      3  0  1  0   Wilson D, c           0  0  0  0   
+Baines H, ph          1  0  0  0   Martin A, rf          3  0  0  0   
+Johnson C, c          0  0  0  0   Ibanez R, rf          1  0  0  0   
+Thomas F, dh          3  0  0  0   Rodriguez A, ss       4  0  1  0   
+Konerko P, 1b         4  1  2  1   Martinez E, dh        4  0  0  0   
+Lee C, lf             4  0  0  0   Olerud J, 1b          3  0  0  0   
+Perry H, 3b           3  0  1  0   Guillen C, 3b         3  0  0  0   
+Singleton C, cf       4  0  0  0   Cameron M, cf         2  1  1  0   
+Abbott J, rf          3  0  0  0   Oliver J, c           2  0  1  0   
+Ordonez M, rf         0  0  0  0   Javier S, ph-lf       1  0  0  0   
+Johnson M, c          1  0  0  0   McLemore M, 2b        3  0  1  1   
+Valentin J, ph-ss     2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        29  1  4  1
+
+Chicago          010 000 010 --  2
+Seattle          000 010 000 --  1
+
+  Chicago              IP  H  R ER BB SO
+Lowe S                5.0  4  1  1  2  3
+Barcelo L (W)         3.0  0  0  0  0  1
+Foulke K (S)          1.0  0  0  0  0  2
+
+  Seattle              IP  H  R ER BB SO
+Garcia F (L)          8.0  6  2  2  3  4
+Mesa J                1.0  0  0  0  1  1
+
+E -- Guillen C
+DP -- Seattle 1
+LOB -- Chicago 7, Seattle 3
+2B -- Rodriguez A
+HR -- Konerko P, Durham R
+SB -- Singleton C, Cameron M, Graffanino T, Perry H
+T -- 2:44
+A -- 45525
+     Game of 8/28/2000 -- New York at Seattle (N)
+
+  New York           AB  R  H RBI    Seattle            AB  R  H RBI
+Polonia L, lf         4  3  3  1   Henderson R, lf       2  0  0  1   
+Jeter D, ss           3  2  2  0   Martin A, rf          5  0  2  0   
+Williams B, cf        4  1  2  0   Rodriguez A, ss       3  0  1  0   
+Justice D, rf         4  1  1  3   Martinez E, dh        4  0  0  0   
+Canseco J, dh         4  1  1  3   Olerud J, 1b          4  0  0  0   
+Martinez T, 1b        3  0  0  0   Guillen C, 3b         4  0  0  0   
+Bellinger C, 1b       1  0  0  0   Cameron M, cf         3  1  1  0   
+Posada J, c           3  0  0  0   Wilson D, c           4  0  1  0   
+Sojo L, 2b            3  1  1  1   McLemore M, 2b        2  0  0  0   
+Brosius S, 3b         4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  9 10  8                        31  1  5  1
+
+New York         300 010 041 --  9
+Seattle          000 000 001 --  1
+
+  New York             IP  H  R ER BB SO
+Clemens R (W)*        7.0  5  0  0  4  7
+Nelson J              1.0  0  0  0  0  0
+Grimsley J            1.0  0  1  1  2  0
+
+  Seattle              IP  H  R ER BB SO
+Abbott P (L)+         7.0  7  8  8  4  1
+Pineiro J             2.0  3  1  1  3  2
+  * Pitched to 1 batter in 8th
+  + Pitched to 4 batters in 8th
+
+DP -- Seattle 1
+LOB -- New York 6, Seattle 10
+2B -- Justice D
+HR -- Canseco J
+SB -- Wilson D, Sojo L, Jeter D
+CS -- Polonia L
+SF -- Canseco J, Henderson R
+HBP -- by Abbott P (Jeter D)
+T -- 3:12
+A -- 45077
+     Game of 8/29/2000 -- New York at Seattle (N)
+
+  New York           AB  R  H RBI    Seattle            AB  R  H RBI
+Jeter D, ss           3  0  0  0   Henderson R, lf       3  1  2  0   
+Sojo L, 2b            4  0  0  0   Javier S, rf          4  1  1  1   
+Williams B, cf        3  1  2  0   Rodriguez A, ss       4  0  0  0   
+Canseco J, dh         4  1  0  0   Martinez E, dh        4  1  1  4   
+Justice D, rf         4  0  2  1   Cameron M, cf         4  0  1  0   
+Polonia L, pr-lf      1  0  0  0   Widger C, 1b          3  0  0  0   
+Hill G, lf            3  0  1  1   Olerud J, 1b          0  0  0  0   
+Bellinger C, rf       0  0  0  0   Oliver J, c           3  0  0  0   
+Posada J, 1b          3  0  1  0   Bell D, 2b            3  1  1  0   
+Turner C, c           4  0  0  0   Guillen C, 3b         3  1  2  0   
+Brosius S, 3b         3  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  8  2                        31  5  8  5
+
+New York         210 000 000 --  3
+Seattle          000 000 05x --  5
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        7.1  7  4  4  1  4
+Nelson J              0.2  1  1  1  0  1
+
+  Seattle              IP  H  R ER BB SO
+Moyer J               6.0  6  3  3  7  4
+Tomko B (W)           2.0  2  0  0  1  0
+Sasaki K (S)          1.0  0  0  0  0  1
+
+DP -- New York 1, Seattle 2
+LOB -- New York 11, Seattle 3
+2B -- Brosius S, Williams B, Henderson R
+HR -- Martinez E
+SH -- Sojo L
+WP -- Moyer J
+T -- 2:46
+A -- 44105
+     Game of 8/30/2000 -- New York at Seattle (N)
+
+  New York           AB  R  H RBI    Seattle            AB  R  H RBI
+Jeter D, ss           4  0  2  0   Henderson R, lf       1  0  0  0   
+Posada J, c           4  1  1  0   Javier S, lf          3  0  1  0   
+O'Neill P, rf         3  0  0  1   Guillen C, 3b         5  0  2  1   
+Bellinger C, lf       1  0  0  0   Rodriguez A, ss       3  1  2  0   
+Williams B, cf        4  1  1  0   Martinez E, dh        5  0  1  0   
+Justice D, lf-rf      4  1  1  0   Widger C, pr          0  0  0  0   
+Martinez T, 1b        4  2  3  1   Martin A, rf          5  0  0  0   
+Hill G, dh            3  0  1  0   Cameron M, cf         3  0  0  1   
+Vizcaino J, pr        1  0  0  0   Ibanez R, 1b          5  0  0  0   
+Sojo L, 2b            4  0  1  2   Oliver J, c           3  1  1  0   
+Brosius S, 3b         2  0  0  0   McLemore M, 2b        3  2  1  2   
+                     -- -- -- --                        -- -- -- --
+                     34  5 10  4                        36  4  8  4
+
+New York         100 300 010 --  5
+Seattle          000 010 021 --  4
+
+  New York             IP  H  R ER BB SO
+Cone D (W)            5.2  5  1  1  4  6
+Choate R              0.1  0  0  0  0  0
+Gooden D              1.1  2  2  2  2  1
+Rivera M (S)          1.2  1  1  1  1  1
+
+  Seattle              IP  H  R ER BB SO
+Sele A (L)            3.2  6  4  4  3  2
+Ramsay R              0.2  1  0  0  1  0
+Mesa J                3.1  3  1  1  2  3
+Paniagua J            1.1  0  0  0  0  1
+
+E -- Jeter D 2
+DP -- Seattle 2
+LOB -- New York 11, Seattle 12
+2B -- Posada J, Justice D, Martinez T, Sojo L
+HR -- McLemore M
+SB -- Cameron M, McLemore M
+CS -- Henderson R
+SF -- O'Neill P
+HBP -- by Sele A (Hill G), by Paniagua J (Martinez T)
+WP -- Sele A, Cone D
+T -- 4:08
+A -- 44962
+     Game of 9/8/2000 -- Minnesota at Seattle (N)
+
+  Minnesota          AB  R  H RBI    Seattle            AB  R  H RBI
+Hocking D, 2b         4  0  2  1   Javier S, rf          4  1  0  0   
+Guzman C, ss          5  0  0  0   Martin A, lf          3  1  1  1   
+Lawton M, rf          4  0  1  0   Rodriguez A, ss       4  0  1  1   
+Coomer R, 1b          5  0  1  0   Martinez E, dh        4  0  1  0   
+Ortiz D, dh           3  1  1  0   Olerud J, 1b          4  0  1  0   
+Koskie C, 3b          5  0  1  0   Guillen C, 3b         3  0  0  0   
+Hunter T, cf          4  1  2  1   Ibanez R, ph          1  0  0  0   
+Jones J, lf           4  1  1  1   Cameron M, cf         4  0  1  0   
+Pierzynski A, c       4  1  1  1   Oliver J, c           2  0  0  0   
+                                   McLemore M, 2b        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  4 10  4                        32  2  6  2
+
+Minnesota        000 301 000 --  4
+Seattle          100 010 000 --  2
+
+  Minnesota            IP  H  R ER BB SO
+Kinney M (W)          6.0  6  2  2  2  0
+Wells B               2.0  0  0  0  0  2
+Hawkins L (S)         1.0  0  0  0  0  0
+
+  Seattle              IP  H  R ER BB SO
+Abbott P (L)          6.0  8  4  4  2  5
+Ramsay R              0.1  2  0  0  1  0
+Mesa J                2.2  0  0  0  1  2
+
+E -- Guillen C
+DP -- Minnesota 1
+LOB -- Minnesota 11, Seattle 5
+2B -- Ortiz D, Jones J, Hocking D, Rodriguez A, Coomer R
+HR -- Martin A, Pierzynski A
+SB -- Hocking D, Martin A, McLemore M
+T -- 2:47
+A -- 32081
+     Game of 9/9/2000 -- Minnesota at Seattle (N)
+
+  Minnesota          AB  R  H RBI    Seattle            AB  R  H RBI
+Guzman C, ss          4  0  1  0   Henderson R, lf       3  1  1  0   
+Hocking D, lf         4  0  1  0   Ibanez R, lf          0  0  0  0   
+Lawton M, rf          4  0  0  0   Cameron M, cf         2  2  1  0   
+Coomer R, 1b          4  1  1  0   Rodriguez A, ss       3  3  3  4   
+Ortiz D, dh           4  1  1  0   Martinez E, dh        3  0  1  1   
+Hunter T, cf          4  0  1  1   Olerud J, 1b          4  0  1  2   
+Koskie C, 3b          2  0  0  1   Buhner J, rf          3  0  0  0   
+Maxwell J, 2b         3  0  0  0   Gipson C, rf          0  0  0  0   
+Moeller C, c          2  0  0  0   Bell D, 3b            4  0  2  0   
+                                   Wilson D, c           4  0  1  0   
+                                   McLemore M, 2b        3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        29  7 10  7
+
+Minnesota        010 000 100 --  2
+Seattle          201 010 30x --  7
+
+  Minnesota            IP  H  R ER BB SO
+Redman M (L)          5.0  6  4  4  2  3
+Carrasco H            1.1  2  3  3  3  1
+Guardado E            0.2  1  0  0  0  1
+Cressend J            1.0  1  0  0  0  0
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (W)           7.0  4  2  2  1  2
+Rhodes A              1.0  1  0  0  0  1
+Paniagua J            1.0  0  0  0  0  1
+
+DP -- Minnesota 2, Seattle 1
+LOB -- Minnesota 4, Seattle 6
+2B -- Rodriguez A, Coomer R, Hunter T, Henderson R, Bell D, Ortiz D, Olerud J
+HR -- Rodriguez A
+SH -- Cameron M, Henderson R
+SF -- Rodriguez A
+HBP -- by Moyer J (Koskie C)
+T -- 2:45
+A -- 43249
+     Game of 9/10/2000 -- Minnesota at Seattle (D)
+
+  Minnesota          AB  R  H RBI    Seattle            AB  R  H RBI
+Canizaro J, 2b        4  0  1  0   Henderson R, lf       4  1  2  2   
+Guzman C, ss          3  0  0  0   Ibanez R, lf          0  0  0  0   
+Lawton M, dh          4  0  0  0   Cameron M, cf         5  1  1  0   
+Ortiz D, 1b           3  0  0  0   Rodriguez A, ss       4  1  1  3   
+Buchanan B, rf        4  1  1  0   Martinez E, dh        2  1  0  0   
+Koskie C, 3b          4  0  1  0   Olerud J, 1b          2  1  0  0   
+Hocking D, cf         4  0  1  1   Lesher B, ph-1b       0  0  0  0   
+Jones J, lf           3  0  0  0   Buhner J, rf          2  1  1  3   
+Maxwell J, ph         1  0  0  0   Gipson C, rf          1  0  1  0   
+Pierzynski A, c       3  0  3  0   Bell D, 3b            4  0  0  0   
+                                   Wilson D, c           4  1  1  0   
+                                   McLemore M, 2b        4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  7  1                        32  8  8  8
+
+Minnesota        000 000 100 --  1
+Seattle          006 002 00x --  8
+
+  Minnesota            IP  H  R ER BB SO
+Romero J (L)          3.0  3  6  6  4  2
+Santana J             4.0  4  2  2  2  6
+Miller T              1.0  1  0  0  0  0
+
+  Seattle              IP  H  R ER BB SO
+Sele A (W)            7.0  6  1  1  1 10
+Ramsay R              2.0  1  0  0  0  2
+
+LOB -- Minnesota 7, Seattle 6
+2B -- Pierzynski A
+HR -- Rodriguez A, Buhner J
+SB -- Canizaro J
+SH -- Guzman C
+WP -- Romero J
+T -- 2:46
+A -- 39844
+     Game of 9/11/2000 -- Kansas City at Seattle (N)
+
+  Kansas City        AB  R  H RBI    Seattle            AB  R  H RBI
+Damon J, cf           5  2  5  2   Henderson R, lf       3  0  0  0   
+Sanchez R, ss         5  0  1  0   Oliver J, c           0  0  0  0   
+Sweeney M, dh         5  2  2  2   Javier S, ph          1  0  0  0   
+Dye J, rf             5  1  1  0   Cameron M, cf         3  0  1  0   
+Randa J, 3b           5  0  3  1   Rodriguez A, ss       3  0  0  1   
+McCarty D, 1b         3  1  2  0   Martinez E, dh        4  0  0  0   
+Beltran C, lf         4  0  1  1   Olerud J, 1b          4  0  0  0   
+Ortiz H, c            5  0  0  0   Buhner J, rf          4  1  1  0   
+Febles C, 2b          2  0  0  0   Bell D, 3b-2b         4  0  2  0   
+                                   Wilson D, c           2  0  1  0   
+                                   Ibanez R, ph-lf       2  1  1  0   
+                                   McLemore M, 2b        2  0  0  0   
+                                   Guillen C, 3b         2  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     39  6 15  6                        34  3  7  3
+
+Kansas City      210 010 110 --  6
+Seattle          000 000 300 --  3
+
+  Kansas City          IP  H  R ER BB SO
+Meadows B (W)         6.2  6  3  3  2  5
+Santiago J (S)        2.1  1  0  0  2  3
+
+  Seattle              IP  H  R ER BB SO
+Halama J (L)          4.1  9  4  4  1  2
+Hodges K              1.2  1  0  0  1  0
+Pineiro J             1.0  3  1  1  1  1
+Mesa J                1.0  2  1  1  0  1
+Sasaki K              1.0  0  0  0  0  3
+
+DP -- Seattle 2
+LOB -- Kansas City 11, Seattle 8
+2B -- Damon J 2, McCarty D, Dye J, Randa J, Guillen C
+HR -- Sweeney M, Damon J
+SB -- Cameron M
+SH -- Beltran C
+HBP -- by Hodges K (Febles C)
+T -- 3:25
+A -- 33366
+     Game of 9/12/2000 -- Kansas City at Seattle (N)
+
+  Kansas City        AB  R  H RBI    Seattle            AB  R  H RBI
+Damon J, cf           3  1  1  1   Javier S, rf          4  2  1  2   
+Zaun G, ph            1  0  0  0   Gipson C, rf          0  0  0  0   
+Sanchez R, ss         3  0  1  0   Olerud J, 1b          5  0  2  1   
+Pose S, ph            1  0  0  0   Rodriguez A, ss       2  1  0  0   
+Febles C, 2b          0  0  0  0   Martinez E, dh        5  1  3  3   
+Sweeney M, 1b         3  2  3  2   Martin A, lf          4  0  0  0   
+Dye J, rf             4  0  0  0   Ibanez R, lf          0  0  0  0   
+Randa J, 3b           4  0  1  0   Cameron M, cf         4  2  1  0   
+Beltran C, dh         4  0  1  0   Guillen C, 3b         5  3  3  2   
+Dunwoody T, lf        4  0  0  0   Oliver J, c           5  1  3  3   
+Fabregas J, c         4  0  1  0   Bell D, 2b            3  1  2  0   
+Delgado W, 2b         2  0  0  0                                      
+Brown D, ph           1  0  0  0                                      
+Ordaz L, 2b-ss        1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  3                        37 11 15 11
+
+Kansas City      100 100 010 --  3
+Seattle          040 002 14x -- 11
+
+  Kansas City          IP  H  R ER BB SO
+Reichert D (L)        5.0  9  4  4  4  2
+Wilson K              2.0  4  3  3  1  2
+Bottalico R           0.2  2  4  4  2  1
+Spoljaric P           0.1  0  0  0  0  1
+
+  Seattle              IP  H  R ER BB SO
+Garcia F (W)          7.1  7  3  3  2  2
+Paniagua J            1.0  1  0  0  0  1
+Rodriguez F           0.2  1  0  0  0  0
+
+E -- Dunwoody T
+DP -- Kansas City 1, Seattle 1
+LOB -- Kansas City 7, Seattle 9
+2B -- Guillen C, Oliver J 2
+3B -- Javier S
+HR -- Sweeney M 2, Damon J, Martinez E, Guillen C
+T -- 3:08
+A -- 36520
+     Game of 9/13/2000 -- Kansas City at Seattle (N)
+
+  Kansas City        AB  R  H RBI    Seattle            AB  R  H RBI
+Damon J, dh           4  1  0  0   Javier S, cf-lf       4  0  1  0   
+Sanchez R, ss         5  0  2  0   Olerud J, 1b          4  0  0  0   
+Sweeney M, 1b         3  0  0  0   Rodriguez A, ss       3  0  0  0   
+Dye J, rf             5  0  1  1   Martinez E, dh        4  0  1  0   
+McCarty D, lf         4  0  0  0   Gipson C, pr          0  0  0  0   
+Dunwoody T, lf        1  0  0  0   Martin A, lf          2  0  1  0   
+Randa J, 3b           5  0  1  0   Cameron M, cf         0  1  0  0   
+Beltran C, cf         5  0  2  0   Buhner J, rf          5  1  2  2   
+Zaun G, c             4  0  1  0   Guillen C, 3b         4  0  0  0   
+Ordaz L, 2b           3  0  1  0   Oliver J, c           3  0  0  0   
+Brown D, ph           1  0  0  0   Ibanez R, ph          1  0  0  0   
+Delgado W, 2b         1  0  0  0   Wilson D, c           0  0  0  0   
+                                   Bell D, 2b            3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     41  1  8  1                        33  2  6  2
+
+Kansas City      000 000 100 00 --  1
+Seattle          000 000 100 01 --  2
+  2 outs when winning run was scored.
+
+  Kansas City          IP  H  R ER BB SO
+Stein B               9.0  5  1  1  4  5
+Santiago J            1.0  0  0  0  1  1
+Bottalico R (L)       0.2  1  1  1  2  1
+
+  Seattle              IP  H  R ER BB SO
+Abbott P              6.0  5  0  0  3  3
+Rhodes A              0.2  0  1  1  1  0
+Paniagua J            1.1  3  0  0  1  2
+Sasaki K              2.0  0  0  0  1  1
+Mesa J (W)            1.0  0  0  0  1  1
+
+E -- Guillen C
+DP -- Seattle 1
+LOB -- Kansas City 14, Seattle 8
+2B -- Sanchez R 2, Beltran C, Zaun G, Buhner J
+HR -- Buhner J
+SB -- Beltran C, Damon J
+CS -- Gipson C
+SH -- Javier S, Cameron M
+WP -- Rhodes A
+T -- 3:55
+A -- 31385
+     Game of 9/21/2000 -- Oakland at Seattle (N)
+
+  Oakland            AB  R  H RBI    Seattle            AB  R  H RBI
+Long T, cf            4  0  0  0   Henderson R, lf       4  0  0  0   
+Ortiz J, 2b           2  1  1  0   Wilson D, c           0  0  0  0   
+Velarde R, 2b         1  0  0  0   Martin A, ph          0  0  0  0   
+Giambi J, 1b          3  1  1  0   Cameron M, cf         3  1  1  0   
+Tejada M, ss          3  2  1  1   Rodriguez A, ss       5  1  1  0   
+Grieve B, lf          4  0  0  0   Martinez E, dh        2  0  0  1   
+Christenson R, lf     0  0  0  0   Olerud J, 1b          3  0  0  0   
+Piatt A, rf           3  1  0  1   Buhner J, rf          3  0  1  0   
+Porter B, rf          0  0  0  0   Bell D, 3b            4  0  0  0   
+Stairs M, dh          4  0  2  2   Oliver J, c           2  0  0  0   
+Chavez E, 3b          4  0  1  1   Ibanez R, ph-lf       2  0  1  0   
+Hernandez R, c        3  0  0  0   McLemore M, 2b        4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  5  6  5                        32  2  5  1
+
+Oakland          000 104 000 --  5
+Seattle          200 000 000 --  2
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (W)*         6.0  5  2  1  3  6
+Mecir J               1.1  0  0  0  2  3
+Tam J                 0.2  0  0  0  0  1
+Isringhausen J (S)    1.0  0  0  0  1  1
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (L)           5.2  6  5  5  3  4
+Tomko B               3.1  0  0  0  1  0
+  * Pitched to 2 batters in 7th
+
+E -- Hudson T
+DP -- Seattle 1
+LOB -- Oakland 3, Seattle 10
+2B -- Buhner J, Stairs M, Giambi J
+HR -- Tejada M
+SB -- Rodriguez A, Cameron M
+CS -- Stairs M
+HBP -- by Hudson T (Martinez E)
+WP -- Hudson T
+T -- 3:14
+A -- 44786
+     Game of 9/22/2000 -- Oakland at Seattle (N)
+
+  Oakland            AB  R  H RBI    Seattle            AB  R  H RBI
+Long T, cf            5  1  0  0   McLemore M, 2b        5  0  0  1   
+Velarde R, 2b         5  1  1  0   Javier S, lf          4  0  0  0   
+Giambi J, 1b          3  0  0  0   Rodriguez A, ss       3  1  0  0   
+Stairs M, dh          3  2  2  1   Martinez E, dh        3  1  1  1   
+Grieve B, lf          4  2  1  0   Olerud J, 1b          3  0  2  0   
+Christenson R, pr-lf  0  0  0  0   Buhner J, rf          4  0  1  0   
+Tejada M, ss          4  1  3  2   Cameron M, cf         3  0  0  0   
+Chavez E, 3b          3  1  1  2   Oliver J, c           1  1  1  0   
+Giambi J, rf          2  0  1  2   Ibanez R, ph          0  0  0  1   
+Piatt A, ph-rf        1  0  0  0   Widger C, c           0  0  0  0   
+Porter B, rf          1  0  0  0   Guillen C, ph         1  0  0  0   
+Hernandez R, c        3  0  0  1   Bell D, 3b            3  0  2  0   
+                                   Martin A, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  8  9  8                        31  3  7  3
+
+Oakland          500 030 000 --  8
+Seattle          001 002 000 --  3
+
+  Oakland              IP  H  R ER BB SO
+Olivares O (W)*       5.0  4  2  2  2  4
+Service S (S)         4.0  3  1  1  2  2
+
+  Seattle              IP  H  R ER BB SO
+Garcia F (L)+         4.0  8  8  6  4  4
+Ramsay R              2.0  0  0  0  2  2
+Rodriguez F           2.0  1  0  0  4  4
+Hodges K              1.0  0  0  0  0  0
+  * Pitched to 1 batter in 6th
+  + Pitched to 3 batters in 5th
+
+E -- Garcia F, Cameron M
+DP -- Oakland 2, Seattle 1
+LOB -- Oakland 11, Seattle 7
+2B -- Tejada M, Martinez E
+SF -- Hernandez R, Ibanez R
+HBP -- by Olivares O (Rodriguez A), by Hodges K (Hernandez R)
+T -- 3:28
+A -- 45408
+     Game of 9/23/2000 -- Oakland at Seattle (N)
+
+  Oakland            AB  R  H RBI    Seattle            AB  R  H RBI
+Long T, cf            5  1  2  2   Henderson R, lf       2  0  0  0   
+Velarde R, 2b         5  0  1  0   Javier S, rf          3  1  0  0   
+Giambi J, 1b          3  1  2  0   Rodriguez A, ss       4  0  0  0   
+Stairs M, dh          2  0  0  0   Martinez E, dh        4  1  1  2   
+Saenz O, ph           0  0  0  0   Olerud J, 1b          4  0  0  0   
+Ortiz J, pr           1  1  0  0   Martin A, cf          2  0  0  0   
+Grieve B, lf          4  1  1  4   Cameron M, cf         1  0  0  0   
+Christenson R, lf     1  0  0  0   Guillen C, 3b         3  0  0  0   
+Tejada M, ss          2  0  0  0   Wilson D, c           2  0  0  0   
+Chavez E, 3b          4  2  2  0   Ibanez R, ph          1  0  0  0   
+Giambi J, rf          3  1  1  1   Widger C, c           0  0  0  0   
+Porter B, rf          0  0  0  0   Bell D, 2b            3  0  1  0   
+Hernandez R, c        4  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     34  8 10  8                        29  2  2  2
+
+Oakland          020 000 600 --  8
+Seattle          000 200 000 --  2
+
+  Oakland              IP  H  R ER BB SO
+Appier K (W)          7.0  1  2  2  4  7
+Tam J                 1.0  1  0  0  1  1
+Jones D               1.0  0  0  0  0  1
+
+  Seattle              IP  H  R ER BB SO
+Abbott P*             5.0  5  2  2  3  2
+Rhodes A (L)          1.2  3  4  4  1  2
+Paniagua J            0.1  2  2  2  2  1
+Mesa J                1.0  0  0  0  0  1
+Pineiro J             1.0  0  0  0  0  1
+  * Pitched to 2 batters in 6th
+
+E -- Rodriguez A, Hernandez R
+DP -- Seattle 2
+LOB -- Oakland 6, Seattle 5
+2B -- Velarde R, Giambi J, Hernandez R
+HR -- Martinez E, Grieve B
+SB -- Cameron M
+SH -- Giambi J
+PB -- Wilson D
+T -- 3:20
+A -- 45406
+     Game of 9/24/2000 -- Oakland at Seattle (D)
+
+  Oakland            AB  R  H RBI    Seattle            AB  R  H RBI
+Long T, cf            5  0  0  0   Henderson R, lf       4  0  0  0   
+Velarde R, 2b         4  1  2  0   Gipson C, lf-rf       0  0  0  0   
+Giambi J, 1b          4  1  2  2   Cameron M, cf         3  1  1  1   
+Tejada M, ss          4  0  0  0   Rodriguez A, ss       4  0  0  0   
+Grieve B, lf          3  0  1  0   Martinez E, dh        2  0  0  0   
+Christenson R, pr-lf  0  0  0  0   Olerud J, 1b          4  0  2  1   
+Piatt A, dh           2  0  2  0   Buhner J, rf          4  0  0  0   
+Stairs M, ph          1  0  0  0   Ibanez R, lf          0  0  0  0   
+Chavez E, 3b          3  0  1  0   Guillen C, 3b         3  1  2  1   
+Giambi J, rf          2  0  0  0   Oliver J, c           2  0  1  0   
+Saenz O, ph           1  0  0  0   McLemore M, 2b        1  1  0  0   
+Porter B, rf          0  0  0  0                                      
+Bellhorn M, ph        1  0  0  0                                      
+Hernandez R, c        3  0  0  0                                      
+Byrnes E, pr          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        27  3  6  3
+
+Oakland          000 002 000 --  2
+Seattle          110 100 00x --  3
+
+  Oakland              IP  H  R ER BB SO
+Prieto A (L)          5.0  6  3  3  4  1
+Mathews T             2.1  0  0  0  0  3
+Magnante M            0.1  0  0  0  0  0
+Jones D               0.1  0  0  0  0  0
+
+  Seattle              IP  H  R ER BB SO
+Halama J (W)          5.1  8  2  2  2  4
+Rhodes A              2.0  0  0  0  0  4
+Sasaki K (S)          1.2  0  0  0  1  2
+
+DP -- Oakland 1, Seattle 1
+LOB -- Oakland 8, Seattle 6
+2B -- Piatt A
+HR -- Guillen C, Giambi J
+SB -- Cameron M
+SH -- Oliver J, McLemore M
+HBP -- by Sasaki K (Hernandez R)
+T -- 3:03
+A -- 45405
+     Game of 9/26/2000 -- Texas at Seattle (N)
+
+  Texas              AB  R  H RBI    Seattle            AB  R  H RBI
+Catalanotto F, 2b     4  0  1  0   Henderson R, lf       3  1  1  1   
+Clayton R, ss         4  0  2  0   Ibanez R, lf          1  0  1  0   
+Palmeiro R, 1b        4  0  1  0   Cameron M, cf         5  0  1  2   
+Curtis C, lf          2  0  1  0   Rodriguez A, ss       3  0  1  0   
+Ledee R, rf           3  0  0  0   Martinez E, dh        3  0  2  1   
+Valdes P, dh          4  0  0  0   Olerud J, 1b          2  0  0  0   
+Lamb M, 3b            4  0  1  0   Buhner J, rf          4  0  1  0   
+Knorr R, c            3  0  0  0   Gipson C, rf          0  0  0  0   
+Green S, cf           3  0  0  0   Guillen C, 3b         3  0  0  0   
+                                   Oliver J, c           4  2  2  1   
+                                   McLemore M, 2b        3  2  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  6  0                        31  5 10  5
+
+Texas            000 000 000 --  0
+Seattle          003 020 00x --  5
+
+  Texas                IP  H  R ER BB SO
+Glynn R (L)           4.2  8  5  5  3  2
+Cordero F             2.0  1  0  0  1  0
+Sikorski B            1.1  1  0  0  1  1
+
+  Seattle              IP  H  R ER BB SO
+Sele A (W)            9.0  6  0  0  3  4
+
+DP -- Texas 1, Seattle 1
+LOB -- Texas 7, Seattle 9
+2B -- McLemore M, Cameron M, Martinez E, Palmeiro R
+3B -- Clayton R, Rodriguez A
+HR -- Oliver J
+SB -- Clayton R
+CS -- Ledee R
+HBP -- by Glynn R (Henderson R), by Sikorski B (Guillen C)
+T -- 2:38
+A -- 31399
+     Game of 9/27/2000 -- Texas at Seattle (N)
+
+  Texas              AB  R  H RBI    Seattle            AB  R  H RBI
+Catalanotto F, 2b     4  0  1  0   Henderson R, lf       3  0  1  0   
+Clayton R, ss         4  1  1  0   Gipson C, lf-rf       0  0  0  0   
+Palmeiro R, 1b        5  0  0  0   Javier S, ph-lf       0  0  0  0   
+Curtis C, lf          4  1  1  1   Cameron M, cf         4  0  2  2   
+Ledee R, rf           4  1  1  1   Rodriguez A, ss       4  0  0  0   
+Sierra R, dh          4  0  1  0   Martinez E, dh        2  0  0  0   
+Lamb M, 3b            5  1  2  0   Olerud J, 1b          4  0  1  0   
+Knorr R, c            2  0  1  0   Buhner J, rf          4  0  0  0   
+Alicea L, ph          1  0  0  0   Ibanez R, lf-rf       0  0  0  0   
+Waszgis B, c          0  0  0  0   Bell D, 3b            4  2  3  1   
+Green S, cf           3  0  1  1   Wilson D, c           3  3  2  0   
+                                   Martin A, pr          0  1  0  0   
+                                   Oliver J, c           0  0  0  0   
+                                   McLemore M, 2b        3  0  2  2   
+                     -- -- -- --                        -- -- -- --
+                     36  4  9  3                        31  6 11  5
+
+Texas            011 001 100 --  4
+Seattle          020 201 01x --  6
+
+  Texas                IP  H  R ER BB SO
+Davis D (L)*          5.0  7  5  5  4  6
+Johnson J             1.1  2  0  0  1  1
+Venafro M+            0.0  1  0  0  0  0
+Zimmerman J           1.0  1  1  0  1  1
+Crabtree T            0.2  0  0  0  0  2
+
+  Seattle              IP  H  R ER BB SO
+Garcia F (W)          6.0  7  3  2  3  6
+Paniagua J            1.1  2  1  1  1  2
+Sasaki K (S)          1.2  0  0  0  1  2
+  * Pitched to 1 batter in 6th
+  + Pitched to 1 batter in 7th
+
+E -- Henderson R, Knorr R, McLemore M
+LOB -- Texas 12, Seattle 9
+2B -- Knorr R, McLemore M, Clayton R, Wilson D
+HR -- Bell D
+SB -- Curtis C, Henderson R
+SH -- Knorr R, McLemore M
+SF -- Cameron M
+HBP -- by Paniagua J (Catalanotto F)
+PB -- Waszgis B
+T -- 3:36
+A -- 35901
+     Game of 9/28/2000 -- Texas at Seattle (D)
+
+  Texas              AB  R  H RBI    Seattle            AB  R  H RBI
+Green S, cf           4  3  3  2   Cameron M, cf         4  1  1  0   
+Clayton R, ss         4  1  0  0   Javier S, rf          5  1  2  1   
+Palmeiro R, 1b        2  2  2  2   Rodriguez A, ss       3  1  1  2   
+Curtis C, lf          4  2  2  1   Widger C, c           1  0  0  0   
+Ledee R, rf           5  1  2  3   Martinez E, dh        4  1  3  2   
+Sierra R, dh          4  1  3  4   Ibanez R, ph          1  0  0  0   
+Sheldon S, 2b         5  0  0  0   Olerud J, 1b          4  1  1  1   
+Lamb M, 3b            5  2  2  0   Martin A, lf          3  0  0  0   
+Knorr R, c            5  1  1  0   Bell D, 3b            4  0  1  0   
+                                   Oliver J, c           2  1  0  0   
+                                   Guillen C, ph-ss      1  0  0  0   
+                                   McLemore M, 2b        4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38 13 15 12                        36  6  9  6
+
+Texas            130 024 030 -- 13
+Seattle          005 001 000 --  6
+
+  Texas                IP  H  R ER BB SO
+Helling R (W)         6.0  5  6  6  3  3
+Zimmerman J           1.1  3  0  0  1  1
+Crabtree T            1.2  1  0  0  0  2
+
+  Seattle              IP  H  R ER BB SO
+Moyer J               1.2  6  4  4  0  0
+Tomko B (L)           2.2  2  2  2  2  1
+Mesa J                1.1  3  4  4  2  1
+Paniagua J            0.1  1  0  0  1  0
+Hodges K*             1.0  2  2  2  1  0
+Rodriguez F           2.0  1  1  1  0  0
+  * Pitched to 2 batters in 8th
+
+E -- Moyer J
+DP -- Seattle 2
+LOB -- Texas 7, Seattle 7
+2B -- Ledee R 2, Knorr R, Palmeiro R, Javier S, Rodriguez A
+3B -- Javier S
+HR -- Martinez E, Olerud J, Sierra R
+SB -- Green S 5, Rodriguez A, Clayton R
+SH -- Clayton R
+SF -- Palmeiro R 2
+T -- 3:25
+A -- 43264
+

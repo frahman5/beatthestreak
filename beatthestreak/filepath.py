@@ -203,14 +203,15 @@ class Filepath(object):
 
     @classmethod
     def get_mass_results_file(self, simYearRange, simMinBatRange, NRange, PRange, 
-            test=False):
+            minPARange, test=False):
         """
-        tupleOfInts tupleOfInts tupleOfInts tupleOfInts bool -> string
+        tupleOfInts tupleOfInts tupleOfInts tupleOfInts tupleOfInts bool -> string
 
         simYearRange: TupleOfInts | (lowest_sim_year, highest_sim_year)
         simMinBatRange: TupleOfInts | (lowest simYear-batAveYear, highest simYear-batAveYear)
         NRange: TupleOfInts | (lowest N, highest N)
         PRange: TupleOfInts | (lowest P, highset P)
+        minPARange: TupleOfInts | (lowest minPA, highest minPA)
         Test: bool | Indicates whether or not this is for testing purposes
 
         Produces the filepath for the results file for the mass simulation
@@ -231,7 +232,8 @@ class Filepath(object):
         return results + '/mass' + '/S{0}-{1}'.format(simYearRange[0], 
             simYearRange[1]) + ',' + 'SMB{0}-{1}'.format(simMinBatRange[0], 
             simMinBatRange[1]) + ',' + 'N{0}-{1}'.format(NRange[0], 
-            NRange[1]) + ',' + 'P{0}-{1}'.format(PRange[0], PRange[1]) + '.xlsx'
+            NRange[1]) + ',' + 'P{0}-{1},'.format(PRange[0], 
+            PRange[1]) + 'mPA{0}-{1}'.format(minPARange[0], minPARange[1]) + '.xlsx'
 
     @classmethod
     def get_player_hit_info_csv_file(self, lahmanID, year):

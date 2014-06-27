@@ -1,0 +1,3792 @@
+     Game of 4/2/2001 -- Atlanta at Cincinnati (D)
+
+  Atlanta            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Furcal R, ss          3  2  2  4   Larkin B, ss          4  1  3  0   
+Veras Q, 2b           6  0  1  3   Tucker M, cf          3  1  1  0   
+Jones A, cf           4  1  2  1   Griffey K, ph         1  0  0  0   
+Jones C, 3b           4  0  1  0   Sullivan S, p         0  0  0  0   
+Surhoff B, lf         5  0  0  0   Riedling J, p         0  0  0  0   
+Jordan B, rf          5  2  2  0   Young D, lf           4  1  2  1   
+Lopez J, c            5  3  3  1   Casey S, 1b           4  1  1  3   
+Brogna R, 1b          4  2  2  1   Ochoa A, rf           4  0  0  0   
+Burkett J, p          1  0  1  0   Boone A, 3b           4  0  1  0   
+Valdes M, p           0  0  0  0   Reese P, 2b           4  0  0  0   
+Martinez D, ph        0  0  0  0   LaRue J, c            3  0  0  0   
+Abbott K, ph          1  0  0  0   Harnisch P, p         2  0  0  0   
+Remlinger M, p        1  0  0  0   Reyes D, p            0  0  0  0   
+Lockhart K, ph        1  0  0  0   Williamson S, p       0  0  0  0   
+Ligtenberg K, p       0  0  0  0   Guerrero W, ph        1  0  0  0   
+                                   Rivera R, cf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40 10 14 10                        35  4  8  4
+
+Atlanta          001 012 141 -- 10
+Cincinnati       000 103 000 --  4
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J             5.2  7  4  4  0  4
+Valdes M (W)          0.1  0  0  0  0  0
+Remlinger M           2.0  1  0  0  0  2
+Ligtenberg K          1.0  0  0  0  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Harnisch P            6.0  6  4  3  2  0
+Reyes D (L)           0.2  1  1  1  0  1
+Williamson S          0.1  1  0  0  1  0
+Sullivan S            0.1  4  4  3  2  0
+Riedling J            1.2  2  1  1  0  1
+
+E -- Young D, Larkin B
+LOB -- Atlanta 10, Cincinnati 5
+2B -- Brogna R, Lopez J 2, Jordan B, Veras Q
+HR -- Young D, Jones A, Casey S, Furcal R
+SF -- Furcal R 2
+WP -- Harnisch P
+T -- 3:07
+A -- 41901
+     Game of 4/3/2001 -- Pittsburgh at Cincinnati (N)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Brown A, cf           4  0  0  0   Larkin B, ss          2  0  1  2   
+Bell D, rf            5  0  1  0   Tucker M, cf-rf       4  0  0  0   
+Kendall J, c          4  0  1  1   Young D, lf           4  1  1  0   
+Giles B, lf           5  0  1  0   Rivera R, cf          0  0  0  0   
+Ramirez A, 3b         4  0  0  0   Casey S, 1b           4  0  0  0   
+Young K, 1b           4  1  1  0   Ochoa A, rf-lf        4  0  1  1   
+Meares P, 2b          3  0  2  0   Boone A, 3b           4  0  0  0   
+Wilson J, ss          2  0  1  0   Reese P, 2b           4  1  1  0   
+Wilson E, ph-ss       2  1  0  0   LaRue J, c            2  1  0  0   
+Silva J, p            0  0  0  0   Fernandez O, p        1  0  0  0   
+Ritchie T, p          2  0  0  0   Reyes D, p            0  0  0  0   
+Vander Wal J, ph      0  0  0  0   Williamson S, p       0  0  0  0   
+Sauerbeck S, p        0  0  0  0   Riedling J, p         0  0  0  0   
+Nunez A, ss           1  0  0  0   Graves D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  2  7  1                        29  3  4  3
+
+Pittsburgh       000 000 200 --  2
+Cincinnati       021 000 00x --  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Ritchie T (L)         6.0  4  3  3  4  4
+Sauerbeck S           1.0  0  0  0  0  1
+Silva J               1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Fernandez O (W)       6.1  6  2  2  0  3
+Reyes D*              0.0  0  0  0  1  0
+Williamson S          0.1  0  0  0  1  0
+Riedling J            1.1  0  0  0  1  2
+Graves D (S)          1.0  1  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Larkin B, Meares P, Ramirez A, Boone A
+LOB -- Pittsburgh 11, Cincinnati 7
+2B -- Meares P, Larkin B, Giles B, Wilson J
+3B -- Ochoa A
+SB -- Tucker M
+SH -- Fernandez O
+HBP -- by Williamson S (Kendall J)
+WP -- Williamson S
+T -- 2:53
+A -- 20784
+     Game of 4/4/2001 -- Pittsburgh at Cincinnati (N)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Brown A, cf           5  1  2  2   Larkin B, ss          5  2  3  0   
+Bell D, rf            5  0  1  0   Young D, lf-1b        5  1  3  2   
+Kendall J, c          2  1  0  0   Ochoa A, rf           6  1  3  0   
+Giles B, lf           4  1  0  0   Casey S, 1b           4  0  2  1   
+Ramirez A, 3b         4  0  1  1   Sadler D, pr-lf       2  0  0  0   
+Wehner J, pr-3b       0  1  0  0   Boone A, 3b           5  0  1  0   
+Vander Wal J, 1b      3  0  0  0   Rivera R, cf          5  1  4  1   
+Wilkins M, p          0  0  0  0   Reese P, 2b           4  0  0  0   
+Sauerbeck S, p        0  0  0  0   Stinnett K, c         5  0  2  1   
+Nunez A, ph-2b        1  0  1  2   Sullivan S, p         0  0  0  0   
+Wilson E, 2b          4  0  0  0   Reitsma C, p          2  0  0  0   
+Williams M, p         0  0  0  0   Griffey K, ph         1  0  0  0   
+Wilson J, ss          4  1  1  0   Wohlers M, p          0  0  0  0   
+Mulholland T, p       1  0  0  0   Tucker M, ph          0  0  0  0   
+Manzanillo J, p       0  0  0  0   Guerrero W, ph        1  0  0  0   
+Brown E, ph           1  0  0  0   Winchester S, p       0  0  0  0   
+Silva J, p            0  0  0  0   Graves D, p           0  0  0  0   
+Young K, 1b           2  1  1  1   LaRue J, c            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6  7  6                        46  5 18  5
+
+Pittsburgh       002 000 003 1 --  6
+Cincinnati       001 100 300 0 --  5
+
+  Pittsburgh           IP  H  R ER BB SO
+Mulholland T          3.2  7  2  2  1  3
+Manzanillo J          1.1  1  0  0  0  0
+Silva J               1.1  6  3  3  1  3
+Wilkins M             0.1  0  0  0  0  0
+Sauerbeck S           1.1  0  0  0  1  1
+Williams M (W)        2.0  4  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C             6.0  3  2  2  1  4
+Wohlers M             1.0  0  0  0  0  0
+Winchester S          1.0  0  0  0  0  1
+Graves D              1.0  2  3  0  0  1
+Sullivan S (L)        1.0  2  1  1  0  0
+
+E -- Boone A
+DP -- Pittsburgh 2
+LOB -- Pittsburgh 2, Cincinnati 14
+2B -- Wilson J, Rivera R, Nunez A
+HR -- Brown A, Young D, Young K
+SB -- Boone A, Ochoa A, Young D
+CS -- Kendall J
+HBP -- by Graves D (Kendall J)
+WP -- Graves D
+T -- 3:35
+A -- 18330
+     Game of 4/5/2001 -- Pittsburgh at Cincinnati (D)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Brown A, cf           4  0  0  0   Larkin B, ss          2  1  0  0   
+Kendall J, c          4  0  0  0   Young D, lf-1b        4  0  1  3   
+Vander Wal J, rf      4  0  1  0   Ochoa A, rf-lf        4  0  1  0   
+Giles B, lf           4  1  1  1   Casey S, 1b           4  0  0  0   
+Ramirez A, 3b         3  0  1  0   Riedling J, p         0  0  0  0   
+Young K, 1b           3  0  1  0   Boone A, 3b           3  0  1  0   
+Wilson E, 2b          3  0  1  0   Rivera R, cf          3  0  0  0   
+Nunez A, ss           3  0  2  0   Reese P, 2b           3  1  1  0   
+Anderson J, p         2  0  0  0   LaRue J, c            3  1  1  1   
+Brown E, ph           1  0  0  0   Dessens E, p          1  1  0  0   
+Wilkins M, p          0  0  0  0   Guerrero W, ph        1  0  0  0   
+                                   Wohlers M, p          0  0  0  0   
+                                   Tucker M, rf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  7  1                        28  4  5  4
+
+Pittsburgh       000 100 000 --  1
+Cincinnati       004 000 00x --  4
+
+  Pittsburgh           IP  H  R ER BB SO
+Anderson J (L)        7.0  5  4  4  3  4
+Wilkins M             1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (W)         7.0  7  1  1  0  1
+Wohlers M             1.0  0  0  0  0  1
+Riedling J (S)        1.0  0  0  0  0  1
+
+E -- Wilson E, Kendall J
+DP -- Pittsburgh 2, Cincinnati 2
+LOB -- Pittsburgh 3, Cincinnati 3
+2B -- Young D
+HR -- Giles B
+SB -- Reese P
+CS -- Nunez A
+WP -- Wilkins M
+T -- 2:33
+A -- 20482
+     Game of 4/17/2001 -- Milwaukee at Cincinnati (N)
+
+  Milwaukee          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Belliard R, 2b        4  0  0  0   Larkin B, ss          4  2  2  1   
+Houston T, 3b         3  0  1  0   Tucker M, cf-lf       3  0  1  1   
+Mouton J, pr          0  0  0  0   Young D, lf-1b        3  0  0  0   
+Lopez L, 3b           0  0  0  0   Casey S, 1b           3  0  0  1   
+Jenkins G, lf         4  0  0  0   Rivera R, pr-cf       0  0  0  0   
+Sexson R, 1b          3  0  0  0   Ochoa A, rf           4  0  0  0   
+Burnitz J, rf         3  2  1  0   Boone A, 3b           3  0  0  0   
+Hammonds J, cf        3  0  1  0   Reese P, 2b           3  1  2  0   
+Hernandez J, ss       3  0  1  1   Stinnett K, c         3  0  1  0   
+Blanco H, c           2  0  1  0   Dessens E, p          2  0  0  0   
+Fernandez T, ph       1  0  0  0   Riedling J, p         0  0  0  0   
+Casanova R, c         0  0  0  0   Cromer D, ph          1  0  0  0   
+D'Amico J, p          2  0  0  0   Reyes D, p            0  0  0  0   
+White D, ph           0  0  0  0   Sullivan S, p         0  0  0  0   
+Cunnane W, p          0  0  0  0   Graves D, p           0  0  0  0   
+King R, p             0  0  0  0                                      
+Weathers D, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  2  5  1                        29  3  6  3
+
+Milwaukee        010 000 100 --  2
+Cincinnati       001 001 01x --  3
+
+  Milwaukee            IP  H  R ER BB SO
+D'Amico J             6.0  4  2  1  1  4
+Cunnane W (L)*        1.0  2  1  1  0  1
+King R                0.2  0  0  0  1  0
+Weathers D            0.1  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E+            6.0  5  2  2  3  5
+Riedling J            1.0  0  0  0  1  1
+Reyes D               0.2  0  0  0  1  1
+Sullivan S (W)        0.1  0  0  0  0  1
+Graves D (S)          1.0  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+  + Pitched to 2 batters in 7th
+
+DP -- Cincinnati 2
+LOB -- Milwaukee 5, Cincinnati 5
+2B -- Tucker M, Larkin B
+SB -- Reese P
+CS -- Mouton J
+SH -- Hernandez J, Tucker M
+WP -- Riedling J
+PB -- Blanco H
+T -- 2:54
+A -- 15729
+     Game of 4/18/2001 -- Milwaukee at Cincinnati (N)
+
+  Milwaukee          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Belliard R, 2b        5  1  3  2   Larkin B, ss          5  0  1  2   
+Houston T, 3b         5  0  1  1   Tucker M, cf-rf       4  0  0  0   
+Jenkins G, lf         3  1  1  1   Reyes D, p            0  0  0  0   
+Sexson R, 1b          4  0  0  0   Griffey K, ph         0  0  0  0   
+Burnitz J, rf         4  1  1  0   Reitsma C, pr         0  0  0  0   
+Hammonds J, cf        4  1  2  0   Brower J, pr          0  0  0  0   
+Hernandez J, ss       4  1  2  3   Young D, lf           3  0  1  1   
+Blanco H, c           4  1  1  0   Casey S, 1b           5  0  1  0   
+Wright J, p           2  1  0  0   Ochoa A, rf           2  0  0  0   
+King R, p             0  0  0  0   Mercado H, p          0  0  0  0   
+Mouton J, ph          0  0  0  0   Cromer D, ph          1  0  0  0   
+Leskanic C, p         0  0  0  0   Wohlers M, p          0  0  0  0   
+Weathers D, p         0  0  0  0   Rivera R, ph-cf       1  0  0  0   
+                                   Boone A, 3b           3  1  2  1   
+                                   Reese P, 2b           4  1  1  0   
+                                   Stinnett K, c         3  1  1  0   
+                                   Harnisch P, p         0  0  0  0   
+                                   Sadler D, cf-rf       3  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7 11  7                        34  4  9  4
+
+Milwaukee        101 300 011 --  7
+Cincinnati       001 000 102 --  4
+
+  Milwaukee            IP  H  R ER BB SO
+Wright J (W)          6.1  7  2  2  1  4
+King R                1.2  0  0  0  0  0
+Leskanic C            0.2  2  2  1  2  2
+Weathers D (S)        0.1  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Harnisch P (L)*       4.0  6  5  5  2  5
+Mercado H             2.0  1  0  0  0  3
+Wohlers M             2.0  2  1  1  0  4
+Reyes D               1.0  2  1  0  0  0
+  * Pitched to 1 batter in 5th
+
+E -- Houston T
+DP -- Milwaukee 1, Cincinnati 2
+LOB -- Milwaukee 4, Cincinnati 9
+2B -- Belliard R, Stinnett K, Burnitz J, Larkin B, Hammonds J
+HR -- Belliard R, Hernandez J, Jenkins G, Boone A
+SB -- Hammonds J
+CS -- Boone A
+SH -- Harnisch P, Mouton J
+HBP -- by Wright J (Boone A), by Leskanic C (Griffey K)
+WP -- Wright J
+PB -- Stinnett K
+T -- 3:09
+A -- 16837
+     Game of 4/20/2001 -- New York at Cincinnati (N)
+
+  New York           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Hamilton D, lf        5  1  1  0   Larkin B, ss          3  1  1  4   
+Alfonzo E, 2b         4  1  2  0   Sadler D, cf-lf       5  0  1  0   
+Zeile T, 1b           3  2  3  1   Young D, lf           5  0  1  0   
+Ventura R, 3b         3  1  1  0   Rivera R, cf          0  0  0  0   
+Wendell T, p          0  0  0  0   Casey S, 1b           3  1  0  0   
+Pratt T, c            3  0  0  0   Ochoa A, rf           3  3  3  0   
+Payton J, cf          4  0  2  2   Boone A, 3b           3  2  2  2   
+Shinjo T, rf          2  0  0  0   Reese P, 2b           4  1  1  1   
+Rose B, p             0  0  0  0   LaRue J, c            4  1  2  2   
+Piazza M, ph          1  0  0  1   Fernandez O, p        3  0  0  0   
+Wall D, p             0  0  0  0   Brower J, p           1  0  0  0   
+Harris L, 3b          1  0  0  0                                      
+Ordonez R, ss         4  0  0  0                                      
+Leiter A, p           1  0  0  0                                      
+Johnson M, rf         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  5  9  4                        34  9 11  9
+
+New York         000 202 100 --  5
+Cincinnati       062 010 00x --  9
+
+  New York             IP  H  R ER BB SO
+Leiter A (L)          3.0  6  8  8  0  3
+Rose B                2.0  4  1  1  2  0
+Wall D                1.0  1  0  0  1  0
+Wendell T             2.0  0  0  0  0  4
+
+  Cincinnati           IP  H  R ER BB SO
+Fernandez O (W)       6.0  7  4  4  3  3
+Brower J (S)          3.0  2  1  1  0  1
+
+E -- Larkin B, Casey S
+DP -- New York 1, Cincinnati 3
+LOB -- New York 5, Cincinnati 6
+2B -- Alfonzo E 2, LaRue J, Zeile T, Hamilton D
+HR -- Larkin B, Boone A
+HBP -- by Leiter A (Casey S), by Leiter A (Boone A)
+T -- 2:43
+A -- 26557
+     Game of 4/21/2001 -- New York at Cincinnati (D)
+
+  New York           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Payton J, cf          5  1  0  1   Larkin B, ss          4  0  0  0   
+Alfonzo E, 2b         5  1  1  1   Tucker M, lf-rf       4  0  0  0   
+Piazza M, c           4  0  0  0   Ochoa A, rf           4  0  1  0   
+Ventura R, 3b         3  0  1  0   Brower J, pr          0  0  0  0   
+Zeile T, 1b           4  1  1  2   Riedling J, p         0  0  0  0   
+Shinjo T, rf          4  0  1  1   Casey S, 1b           4  1  1  1   
+Hamilton D, lf        4  1  1  0   Boone A, 3b           4  1  1  0   
+Ordonez R, ss         4  0  1  0   Rivera R, cf          3  0  2  0   
+Appier K, p           3  1  0  0   Reese P, 2b           4  0  1  1   
+Cook D, p             0  0  0  0   Stinnett K, c         3  0  1  0   
+Franco J, p           0  0  0  0   Griffey K, ph         1  0  0  0   
+Harris L, ph          1  0  0  0   Reitsma C, p          2  0  1  0   
+Benitez A, p          0  0  0  0   Young D, ph           1  0  0  0   
+                                   Sullivan S, p         0  0  0  0   
+                                   Sadler D, lf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5  6  5                        35  2  8  2
+
+New York         004 000 010 --  5
+Cincinnati       020 000 000 --  2
+
+  New York             IP  H  R ER BB SO
+Appier K (W)          6.2  5  2  2  1  4
+Cook D                0.1  0  0  0  0  0
+Franco J              1.0  1  0  0  0  2
+Benitez A (S)         1.0  2  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C (L)         7.0  5  4  0  1  4
+Sullivan S            1.0  1  1  0  0  1
+Riedling J            1.0  0  0  0  0  0
+
+E -- Larkin B 2, Reese P, Rivera R, Alfonzo E
+LOB -- New York 6, Cincinnati 7
+2B -- Alfonzo E, Ventura R, Shinjo T
+3B -- Ordonez R
+HR -- Casey S
+SB -- Hamilton D
+WP -- Appier K, Cook D
+T -- 2:48
+A -- 28135
+     Game of 4/22/2001 -- New York at Cincinnati (D)
+
+  New York           AB  R  H RBI    Cincinnati         AB  R  H RBI
+McEwing J, lf         4  1  2  0   Larkin B, ss          3  0  0  0   
+Alfonzo E, 2b         3  2  2  1   Tucker M, rf          3  0  1  0   
+Ventura R, 3b         3  0  0  0   Sadler D, ph-rf       1  0  0  0   
+Relaford D, ph-3b     1  1  1  0   Young D, lf           3  0  1  0   
+Piazza M, c           4  0  1  0   Casey S, 1b           4  0  0  0   
+Zeile T, 1b           4  0  2  3   Boone A, 3b           4  0  1  0   
+Shinjo T, rf          4  1  2  1   Rivera R, cf          4  1  1  1   
+Payton J, cf          4  0  0  0   Reese P, 2b           4  0  2  0   
+Ordonez R, ss         4  0  1  0   Stinnett K, c         4  0  0  0   
+Reed R, p             2  0  0  0   Dessens E, p          2  0  0  0   
+Wendell T, p          0  0  0  0   Wohlers M, p          0  0  0  0   
+Cook D, p             0  0  0  0   Cromer D, ph          1  0  1  0   
+Harris L, ph          1  0  0  0   Sullivan S, p         0  0  0  0   
+Benitez A, p          0  0  0  0   Graves D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5 11  5                        33  1  7  1
+
+New York         000 112 010 --  5
+Cincinnati       000 000 100 --  1
+
+  New York             IP  H  R ER BB SO
+Reed R (W)            6.2  6  1  1  1  2
+Wendell T*            0.1  0  0  0  1  0
+Cook D                1.0  0  0  0  0  0
+Benitez A             1.0  1  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (L)         5.2  7  4  4  1  2
+Wohlers M             1.1  1  0  0  0  0
+Sullivan S            1.0  3  1  1  0  0
+Graves D              1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+DP -- Cincinnati 2
+LOB -- New York 4, Cincinnati 7
+2B -- McEwing J, Tucker M, Zeile T 2, Cromer D
+HR -- Alfonzo E, Shinjo T, Rivera R
+SB -- Boone A
+SH -- Reed R
+T -- 2:57
+A -- 30682
+     Game of 5/1/2001 -- Los Angeles at Cincinnati (N)
+
+  Los Angeles        AB  R  H RBI    Cincinnati         AB  R  H RBI
+Goodwin T, cf         5  0  0  0   Larkin B, ss          3  2  1  0   
+Grudzielanek M, 2b    5  1  1  0   Sanders D, lf         3  2  3  3   
+Sheffield G, lf       5  1  4  0   Tucker M, rf          3  0  0  0   
+Green S, rf           5  2  1  0   Young D, 1b           4  0  1  1   
+Karros E, 1b          4  2  3  2   Boone A, 3b           4  1  3  2   
+Hansen D, 3b          3  0  1  3   Rivera R, cf          3  1  0  0   
+Pena A, c             3  0  1  1   Reese P, 2b           4  1  1  1   
+Cora A, ss            3  0  0  0   LaRue J, c            4  0  0  0   
+Gagne E, p            1  0  0  0   Fernandez O, p        1  0  0  0   
+Bocachica H, ph       1  0  0  0   Reyes D, p            0  0  0  0   
+Nunez J, p            0  0  0  0   Clark B, ph           1  0  0  0   
+Olson G, p            0  0  0  0   Wohlers M, p          0  0  0  0   
+Grissom M, ph         1  0  0  0   Sullivan S, p         0  0  0  0   
+Herges M, p           0  0  0  0   Ochoa A, ph           1  0  0  0   
+Donnels C, ph         1  0  0  0   Graves D, p           0  0  0  0   
+Adams T, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6 11  6                        31  7  9  7
+
+Los Angeles      010 002 300 --  6
+Cincinnati       050 010 10x --  7
+
+  Los Angeles          IP  H  R ER BB SO
+Gagne E               4.0  4  5  5  2  3
+Nunez J               0.2  1  1  1  0  1
+Olson G               0.1  1  0  0  0  0
+Herges M (L)          2.0  3  1  1  0  0
+Adams T               1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Fernandez O           5.1  7  3  3  0  2
+Reyes D               0.2  0  0  0  2  2
+Wohlers M (W)         1.0  3  3  0  0  1
+Sullivan S            1.0  0  0  0  0  0
+Graves D (S)          1.0  1  0  0  0  0
+
+E -- Gagne E, Reese P, Wohlers M
+DP -- Cincinnati 2
+LOB -- Los Angeles 7, Cincinnati 5
+2B -- Karros E, Green S, Hansen D, Boone A
+HR -- Boone A, Sanders D
+SB -- Rivera R, Reese P, Sanders D
+SH -- Fernandez O, Tucker M, Sanders D
+SF -- Pena A
+Balk -- Gagne E
+T -- 2:48
+A -- 21473
+     Game of 5/2/2001 -- Los Angeles at Cincinnati (N)
+
+  Los Angeles        AB  R  H RBI    Cincinnati         AB  R  H RBI
+Grissom M, cf         5  2  2  3   Larkin B, ss          3  0  0  0   
+Grudzielanek M, 2b    2  0  0  0   Sanders D, cf         4  0  0  0   
+Sheffield G, lf       5  1  2  1   Tucker M, lf          4  1  2  1   
+Fetters M, p          0  0  0  0   Young D, 1b           4  1  2  2   
+Shaw J, p             0  0  0  0   Ochoa A, rf           4  0  0  0   
+Green S, rf           5  1  2  0   Boone A, 3b           3  0  0  0   
+Karros E, 1b          4  1  1  2   Reese P, 2b           4  0  0  0   
+Hansen D, 3b          4  0  2  0   Stinnett K, c         3  0  0  0   
+Kreuter C, c          5  0  1  0   Harnisch P, p         1  1  1  0   
+Cora A, ss            4  0  1  0   Clark B, ph           1  0  0  0   
+Brown K, p            4  2  2  1   Mercado H, p          0  0  0  0   
+Goodwin T, lf         0  0  0  0   Castro J, ph          1  0  0  0   
+                                   Sullivan S, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 13  7                        32  3  5  3
+
+Los Angeles      310 200 010 --  7
+Cincinnati       002 001 000 --  3
+
+  Los Angeles          IP  H  R ER BB SO
+Brown K (W)           7.0  5  3  3  1  6
+Fetters M             1.0  0  0  0  1  0
+Shaw J                1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Harnisch P (L)        5.0  9  6  5  3  0
+Mercado H             2.0  2  0  0  1  1
+Sullivan S            2.0  2  1  1  0  0
+
+E -- Boone A
+DP -- Cincinnati 1
+LOB -- Los Angeles 9, Cincinnati 4
+2B -- Green S, Tucker M, Young D
+HR -- Grissom M 2, Karros E, Brown K, Young D, Sheffield G
+SB -- Larkin B
+CS -- Grudzielanek M
+HBP -- by Harnisch P (Grudzielanek M)
+T -- 2:42
+A -- 21323
+     Game of 5/3/2001 -- Los Angeles at Cincinnati (N)
+
+  Los Angeles        AB  R  H RBI    Cincinnati         AB  R  H RBI
+Goodwin T, cf         4  2  1  0   Larkin B, ss          0  0  0  0   
+Grudzielanek M, 2b    3  1  2  0   Castro J, ss-3b       3  0  1  0   
+Reboulet J, ph-2b     2  0  1  0   Sanders D, cf         5  0  0  0   
+Sheffield G, lf       4  2  2  2   Young D, lf           4  2  2  1   
+Shaw J, p             0  0  0  0   Casey S, 1b           4  2  2  3   
+Green S, rf           3  2  1  1   Ochoa A, rf           4  0  1  1   
+Karros E, 1b          4  1  2  4   Riedling J, p         0  0  0  0   
+Donnels C, 3b         4  0  2  1   Rivera R, ph          1  0  0  0   
+Hansen D, 3b          1  0  0  0   Boone A, 3b           0  0  0  0   
+Pena A, c             4  0  0  0   Sadler D, ss          4  0  0  1   
+Cora A, ss            4  0  0  0   Reese P, 2b           4  0  1  0   
+Prokopec L, p         3  0  1  0   Stinnett K, c         3  1  0  0   
+Adams T, p            0  0  0  0   Reitsma C, p          0  0  0  0   
+Johnson B, ph         1  0  0  0   Clark B, ph           0  0  0  0   
+Fetters M, p          0  0  0  0   Brower J, p           0  0  0  0   
+Grissom M, lf         0  0  0  0   Tucker M, ph-rf       1  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  8 12  8                        33  6  7  6
+
+Los Angeles      004 020 200 --  8
+Cincinnati       001 002 300 --  6
+
+  Los Angeles          IP  H  R ER BB SO
+Prokopec L (W)*       5.0  1  3  3  5  4
+Adams T               2.0  4  3  3  1  1
+Fetters M             1.0  0  0  0  0  1
+Shaw J (S)            1.0  2  0  0  1  3
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C (L)         5.0  7  6  6  3  4
+Brower J              2.0  4  2  2  0  0
+Riedling J            2.0  1  0  0  1  0
+  * Pitched to 2 batters in 6th
+
+DP -- Los Angeles 1, Cincinnati 1
+LOB -- Los Angeles 7, Cincinnati 9
+2B -- Grudzielanek M, Green S, Karros E 2, Prokopec L, Casey S 2
+SB -- Goodwin T, Sheffield G
+SH -- Reitsma C
+SF -- Karros E
+HBP -- by Prokopec L (Boone A)
+T -- 3:20
+A -- 18371
+     Game of 5/4/2001 -- San Diego at Cincinnati (N)
+
+  San Diego          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Henderson R, lf       4  0  1  0   Tucker M, cf          5  1  3  0   
+Colangelo M, ph-lf    1  0  0  0   Young D, lf           5  1  1  0   
+Kotsay M, cf          5  1  1  0   Ochoa A, rf           5  2  3  2   
+Klesko R, 1b          5  2  2  3   Casey S, 1b           5  0  1  0   
+Nevin P, 3b           4  1  1  0   Boone A, 3b           4  1  2  1   
+Magadan D, ph-3b      1  0  0  0   LaRue J, c            4  0  1  1   
+Davis B, c            4  2  2  1   Reese P, 2b           4  0  1  0   
+Witasick J, p         0  0  0  0   Castro J, ss          4  0  0  1   
+Perez S, ph           1  0  0  0   Dessens E, p          1  0  0  0   
+Lawrence B, p         0  0  0  0   Mercado H, p          0  0  0  0   
+Trammell B, rf        4  1  2  3   Sanders D, ph         1  0  0  0   
+Jackson D, 2b         4  1  1  0   Reyes D, p            0  0  0  0   
+Arias A, ss           4  1  2  1   Larson B, ph          1  0  0  0   
+Mendez D, pr-ss       0  1  0  0   Wohlers M, p          0  0  0  0   
+Eaton A, p            3  0  2  1                                      
+Lee D, p              0  0  0  0                                      
+Gonzalez W, c         1  1  1  2                                      
+                     -- -- -- --                        -- -- -- --
+                     41 11 15 11                        39  5 12  5
+
+San Diego        402 002 021 -- 11
+Cincinnati       100 101 101 --  5
+
+  San Diego            IP  H  R ER BB SO
+Eaton A (W)*          6.0  7  4  4  3  5
+Lee D                 0.1  2  0  0  0  0
+Witasick J            1.2  1  0  0  0  2
+Lawrence B            1.0  2  1  1  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (L)         5.1 12  8  8  0  5
+Mercado H             0.2  0  0  0  0  1
+Reyes D               2.0  2  2  2  0  2
+Wohlers M             1.0  1  1  1  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Arias A
+DP -- San Diego 1
+LOB -- San Diego 3, Cincinnati 10
+2B -- Nevin P, Davis B, Henderson R, Tucker M, Arias A, Eaton A, Boone A
+HR -- Klesko R 2, Trammell B, Ochoa A, Gonzalez W
+SB -- Eaton A, Ochoa A, Jackson D, Tucker M
+WP -- Witasick J
+T -- 3:12
+A -- 24630
+     Game of 5/5/2001 -- San Diego at Cincinnati (D)
+
+  San Diego          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Henderson R, lf       4  3  3  0   Sanders D, cf         3  0  1  0   
+Kotsay M, cf          4  1  2  0   Young D, lf           4  0  2  0   
+Klesko R, 1b          5  0  2  2   Ochoa A, rf           4  0  1  0   
+Nevin P, 3b           2  1  1  1   Casey S, 1b           4  1  1  1   
+Magadan D, 3b         2  0  0  0   Boone A, 3b           4  1  1  1   
+Davis B, c            4  0  2  1   Castro J, ss          4  0  0  0   
+Trammell B, rf        4  0  1  0   Reese P, 2b           4  0  2  0   
+Hoffman T, p          0  0  0  0   Stinnett K, c         4  0  1  0   
+Jackson D, 2b         3  0  0  0   Bell R, p             1  0  0  0   
+Mendez D, ss          4  0  0  0   Rivera R, ph          1  0  0  0   
+Williams W, p         3  0  0  0   Mercado H, p          0  0  0  0   
+Davey T, p            0  0  0  0   Tucker M, ph          1  0  0  0   
+Perez S, rf           1  0  0  0   Reyes D, p            0  0  0  0   
+                                   Graves D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 11  4                        34  2  9  2
+
+San Diego        201 000 002 --  5
+Cincinnati       000 000 200 --  2
+
+  San Diego            IP  H  R ER BB SO
+Williams W (W)        6.1  6  2  2  0  4
+Davey T               1.1  2  0  0  0  0
+Hoffman T (S)         1.1  1  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Bell R (L)            6.0  7  3  3  1  5
+Mercado H             1.0  0  0  0  2  3
+Reyes D               0.2  0  0  0  1  0
+Graves D              1.1  4  2  1  0  0
+
+E -- Young D
+DP -- San Diego 2, Cincinnati 1
+LOB -- San Diego 8, Cincinnati 6
+2B -- Nevin P, Young D, Klesko R
+HR -- Casey S, Boone A
+SB -- Jackson D
+HBP -- by Williams W (Sanders D)
+WP -- Mercado H
+T -- 2:45
+A -- 23975
+     Game of 5/6/2001 -- San Diego at Cincinnati (D)
+
+  San Diego          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Henderson R, lf       3  2  1  0   Larkin B, ss          2  0  0  0   
+Colangelo M, lf       0  0  0  0   Sadler D, ss          2  0  0  0   
+Kotsay M, cf          4  1  1  0   Tucker M, cf-lf       3  0  0  0   
+Klesko R, 1b          4  2  2  4   Young D, lf           2  0  0  0   
+Magadan D, 3b         5  1  2  2   Rivera R, cf          1  0  0  0   
+Davis B, c            4  0  0  0   Casey S, 1b           4  1  1  0   
+Trammell B, rf        4  0  2  2   Ochoa A, rf           4  1  1  0   
+Jackson D, 2b         5  0  1  0   Boone A, 3b           2  0  0  1   
+Mendez D, ss          5  2  3  0   Reese P, 2b           4  0  1  1   
+Tollberg B, p         2  0  1  0   LaRue J, c            3  0  1  0   
+Myers R, p            1  0  0  0   Fernandez O, p        0  0  0  0   
+Osting J, p           0  0  0  0   Brower J, p           2  0  0  0   
+Perez S, ph           1  0  0  0   Sanders D, ph         1  0  0  0   
+Lee D, p              0  0  0  0   Riedling J, p         0  0  0  0   
+                                   Sullivan S, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 13  8                        30  2  4  2
+
+San Diego        251 000 000 --  8
+Cincinnati       000 100 001 --  2
+
+  San Diego            IP  H  R ER BB SO
+Tollberg B (W)        5.2  2  1  0  2  4
+Myers R               1.0  0  0  0  1  0
+Osting J              1.1  0  0  0  0  2
+Lee D                 1.0  2  1  1  1  0
+
+  Cincinnati           IP  H  R ER BB SO
+Fernandez O (L)       1.2  8  7  6  1  2
+Brower J              5.1  2  1  1  4  5
+Riedling J            1.0  1  0  0  0  0
+Sullivan S            1.0  2  0  0  0  0
+
+E -- Fernandez O, Magadan D, Kotsay M
+DP -- San Diego 1
+LOB -- San Diego 10, Cincinnati 6
+2B -- Henderson R, Magadan D, Mendez D 2, Ochoa A, LaRue J, Kotsay M
+SB -- Tucker M
+SH -- Tollberg B
+SF -- Klesko R, Boone A
+T -- 3:03
+A -- 25929
+     Game of 5/12/2001, game 1 -- Houston at Cincinnati (N)
+
+  Houston            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Lugo J, ss            4  0  1  0   Larkin B, ss          4  1  1  0   
+Biggio C, 2b          4  2  2  1   Sanders D, cf         4  0  1  1   
+Bagwell J, 1b         4  0  0  0   Sullivan S, p         0  0  0  0   
+Berkman L, cf-rf      3  0  2  1   Young D, lf           4  0  1  0   
+Alou M, rf            4  0  2  0   Casey S, 1b           4  0  1  0   
+Barker G, pr-cf       0  0  0  0   Ochoa A, rf           3  0  1  0   
+Hidalgo R, lf         3  0  0  0   Boone A, 3b           3  0  0  0   
+Eusebio T, c          3  0  1  0   Reese P, 2b           3  0  0  0   
+Truby C, 3b           3  0  0  0   Stinnett K, c         3  0  1  0   
+Reynolds S, p         2  0  0  0   Bell R, p             1  0  1  0   
+Merced O, ph          1  0  0  0   Tucker M, ph-cf       1  0  0  0   
+Jackson M, p          0  0  0  0                                      
+Wagner B, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  8  2                        30  1  7  1
+
+Houston          000 101 000 --  2
+Cincinnati       100 000 000 --  1
+
+  Houston              IP  H  R ER BB SO
+Reynolds S (W)        7.0  7  1  1  1  3
+Jackson M             1.0  0  0  0  0  0
+Wagner B (S)          1.0  0  0  0  0  3
+
+  Cincinnati           IP  H  R ER BB SO
+Bell R (L)            8.0  6  2  2  2  4
+Sullivan S            1.0  2  0  0  0  1
+
+DP -- Houston 1, Cincinnati 1
+LOB -- Houston 4, Cincinnati 4
+2B -- Larkin B, Sanders D, Biggio C, Berkman L
+HR -- Biggio C
+CS -- Lugo J, Berkman L, Ochoa A
+SH -- Bell R
+T -- 2:21
+A -- 0
+     Game of 5/12/2001, game 2 -- Houston at Cincinnati (N)
+
+  Houston            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Lugo J, ss            4  0  0  0   Sadler D, ss          4  0  1  0   
+Biggio C, 2b          3  0  0  0   Tucker M, cf-lf       4  1  1  0   
+Bagwell J, 1b         3  0  0  0   Young D, lf           3  0  1  0   
+Ward D, lf            4  1  2  0   Rivera R, pr-cf       1  1  1  0   
+Alou M, rf            3  2  2  0   Casey S, 1b           4  1  2  2   
+Hidalgo R, cf         4  0  1  0   Ochoa A, rf           5  1  2  3   
+Hayes C, 3b           3  0  0  0   Boone A, 3b           4  0  1  0   
+Powell J, p           0  0  0  0   LaRue J, c            3  0  1  0   
+Berkman L, ph         1  1  1  3   Castro J, 2b          4  0  1  0   
+Dotel O, p            0  0  0  0   Fernandez O, p        2  1  1  0   
+Ausmus B, c           3  0  0  0   Sanders D, ph         1  0  0  0   
+Elarton S, p          1  0  0  0   Wohlers M, p          0  0  0  0   
+Vizcaino J, 3b        1  0  0  0   Cromer D, ph          1  0  0  0   
+                                   Graves D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  4  6  3                        36  5 12  5
+
+Houston          000 000 103 --  4
+Cincinnati       020 010 101 --  5
+  2 outs when winning run was scored.
+
+  Houston              IP  H  R ER BB SO
+Elarton S             6.2 10  4  4  3  2
+Powell J              1.1  0  0  0  0  3
+Dotel O (L)           0.2  2  1  1  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Fernandez O           7.0  3  1  1  4  2
+Wohlers M             1.0  0  0  0  0  2
+Graves D (W)          1.0  3  3  3  0  0
+
+E -- Vizcaino J
+DP -- Houston 1, Cincinnati 2
+LOB -- Houston 4, Cincinnati 10
+2B -- Boone A, Alou M, Ward D
+HR -- Ochoa A, Berkman L
+SB -- Sadler D, Tucker M
+CS -- Biggio C
+SH -- Elarton S, Sadler D
+T -- 2:51
+A -- 33175
+     Game of 5/13/2001 -- Houston at Cincinnati (N)
+
+  Houston            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Lugo J, ss            5  1  1  1   Sadler D, ss-2b       4  2  4  0   
+Biggio C, 2b          5  0  1  0   Tucker M, cf          3  1  1  0   
+Bagwell J, 1b         3  1  1  0   Young D, lf           3  0  1  2   
+Berkman L, cf-lf      2  1  1  0   Casey S, 1b           4  0  1  0   
+Alou M, rf            4  1  1  1   Ochoa A, rf           4  0  0  0   
+Hidalgo R, lf         4  0  1  0   Boone A, 3b           2  0  0  0   
+Barker G, cf          0  0  0  0   Reese P, 2b           3  0  0  0   
+Truby C, 3b           3  0  2  2   Reyes D, p            0  0  0  0   
+Ausmus B, c           4  0  0  0   Wohlers M, p          0  0  0  0   
+Bottenfield K, p      2  0  0  0   Castro J, ph          0  0  0  0   
+Cruz N, p             0  0  0  0   LaRue J, c            4  0  0  0   
+Vizcaino J, ph        1  0  0  0   Brower J, p           0  0  0  0   
+Jackson M, p          0  0  0  0   Sullivan S, p         0  0  0  0   
+Wagner B, p           0  0  0  0   Cromer D, ph          1  0  0  0   
+                                   Riedling J, p         1  0  0  0   
+                                   Larkin B, ss          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  8  4                        31  3  7  2
+
+Houston          400 000 000 --  4
+Cincinnati       101 001 000 --  3
+
+  Houston              IP  H  R ER BB SO
+Bottenfield K (W)     5.2  5  3  2  1  3
+Cruz N                1.1  1  0  0  1  0
+Jackson M             1.0  1  0  0  0  0
+Wagner B (S)          1.0  0  0  0  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Brower J (L)          0.1  5  4  4  1  0
+Sullivan S            2.2  0  0  0  1  3
+Riedling J            3.0  1  0  0  4  1
+Reyes D               1.0  1  0  0  2  1
+Wohlers M             2.0  1  0  0  2  2
+
+E -- Lugo J, Truby C
+DP -- Houston 1, Cincinnati 1
+LOB -- Houston 13, Cincinnati 6
+2B -- Truby C 2, Sadler D 2, Tucker M
+HR -- Lugo J
+CS -- Sadler D
+SH -- Bottenfield K, Castro J
+SF -- Young D
+WP -- Riedling J
+T -- 3:19
+A -- 19096
+     Game of 5/14/2001 -- Houston at Cincinnati (N)
+
+  Houston            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Lugo J, ss            5  1  1  1   Larkin B, ss          4  0  0  0   
+Biggio C, 2b          3  1  1  0   Reese P, 2b           1  0  1  0   
+Bagwell J, 1b         5  1  1  0   Tucker M, rf          4  0  0  0   
+Berkman L, cf-lf      2  2  1  0   Ochoa A, ph           1  0  0  0   
+Alou M, rf            5  1  2  3   Young D, lf           4  0  2  0   
+Ward D, lf            4  0  0  0   Casey S, 1b           4  1  1  0   
+Barker G, cf          0  0  0  0   Boone A, 3b           2  1  1  0   
+Truby C, 3b           4  0  1  2   Castro J, 3b          1  0  0  0   
+Ausmus B, c           4  0  3  0   Rivera R, cf          4  1  2  2   
+Miller W, p           2  0  0  0   Sadler D, 2b-ss       4  0  1  0   
+Merced O, ph          1  0  0  0   Stinnett K, c         4  1  1  0   
+Oswalt R, p           0  0  0  0   Reitsma C, p          2  0  1  1   
+Wagner B, p           0  0  0  0   Winchester S, p       0  0  0  0   
+                                   Sanders D, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6 10  6                        36  4 10  3
+
+Houston          100 200 300 --  6
+Cincinnati       030 100 000 --  4
+
+  Houston              IP  H  R ER BB SO
+Miller W              5.0  8  4  4  1  3
+Oswalt R (W)          3.2  2  0  0  0  4
+Wagner B (S)          0.1  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C (L)         6.2  9  6  6  5  4
+Winchester S          2.1  1  0  0  0  1
+
+DP -- Houston 1, Cincinnati 1
+LOB -- Houston 8, Cincinnati 7
+2B -- Casey S, Stinnett K, Young D, Alou M 2, Truby C, Reese P
+HR -- Lugo J, Rivera R
+SH -- Oswalt R
+HBP -- by Miller W (Boone A)
+WP -- Wagner B
+T -- 2:50
+A -- 18683
+     Game of 5/15/2001 -- Arizona at Cincinnati (N)
+
+  Arizona            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Finley S, cf          4  0  0  0   Larkin B, ss          4  0  0  0   
+Bell J, 2b            4  0  2  0   Young D, lf           4  0  0  0   
+Gonzalez L, lf        5  0  1  0   Ochoa A, rf           3  0  1  0   
+Williams M, 3b        4  1  2  0   Casey S, 1b           3  0  1  0   
+Counsell C, pr-3b     1  2  1  0   Rivera R, cf          3  0  0  0   
+Grace M, 1b           5  1  2  2   Riedling J, p         0  0  0  0   
+Sanders R, rf         4  1  2  2   Reese P, 2b           3  0  1  0   
+Womack T, ss          5  0  3  1   Stinnett K, c         3  1  2  1   
+Barajas R, c          4  0  0  0   Castro J, 3b          3  0  0  0   
+Ellis R, p            2  0  0  0   Dessens E, p          1  0  0  0   
+Bautista D, ph        1  0  0  0   Sanders D, ph         0  0  0  0   
+Sabel E, p            0  0  0  0   Mercado H, p          0  0  0  0   
+Durazo E, ph          1  0  0  0   Sullivan S, p         0  0  0  0   
+Kim B, p              0  0  0  0   Wohlers M, p          0  0  0  0   
+                                   Tucker M, cf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  5 13  5                        28  1  5  1
+
+Arizona          000 100 031 --  5
+Cincinnati       001 000 000 --  1
+
+  Arizona              IP  H  R ER BB SO
+Ellis R               6.0  4  1  1  1  0
+Sabel E (W)           1.0  1  0  0  0  0
+Kim B (S)             2.0  0  0  0  0  3
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E             6.0  7  1  1  1  8
+Mercado H             0.2  0  0  0  0  0
+Sullivan S            0.1  0  0  0  1  0
+Wohlers M (L)*        0.0  4  3  3  0  0
+Riedling J            2.0  2  1  1  1  2
+  * Pitched to 4 batters in 8th
+
+E -- Stinnett K
+DP -- Arizona 2
+LOB -- Arizona 11, Cincinnati 1
+2B -- Bell J, Grace M, Stinnett K, Williams M, Counsell C
+HR -- Stinnett K, Grace M, Sanders R
+SB -- Womack T 3
+CS -- Reese P, Sanders D
+T -- 2:55
+A -- 19201
+     Game of 5/16/2001 -- Arizona at Cincinnati (N)
+
+  Arizona            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Finley S, cf          4  0  1  0   Larkin B, ss          4  0  0  0   
+Bell J, 2b            4  0  1  0   Tucker M, cf          4  0  0  0   
+Gonzalez L, lf        3  1  1  1   Young D, lf           3  1  1  0   
+Williams M, 3b        4  1  1  1   Casey S, 1b           4  0  2  1   
+Grace M, 1b           4  0  1  0   LaRue J, pr           0  0  0  0   
+Sanders R, rf         4  0  1  0   Ochoa A, rf           3  0  0  0   
+Womack T, ss          4  0  1  0   Reese P, 2b           2  0  1  0   
+Miller D, c           3  0  0  0   Sadler D, pr-2b       1  0  0  0   
+Durazo E, ph          1  0  0  0   Sullivan S, p         0  0  0  0   
+Barajas R, c          0  0  0  0   Sanders D, ph         1  0  0  0   
+Schilling C, p        3  0  0  0   Stinnett K, c         2  0  0  0   
+Brohawn T, p          0  0  0  0   Rivera R, ph          1  0  0  0   
+Kim B, p              0  0  0  0   Castro J, 3b-2b       3  0  1  0   
+                                   Reith B, p            2  0  0  0   
+                                   Larson B, 3b          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  7  2                        31  1  5  1
+
+Arizona          000 000 200 --  2
+Cincinnati       000 001 000 --  1
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       7.0  4  1  1  2 10
+Brohawn T*            1.0  1  0  0  0  1
+Kim B (S)             1.0  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Reith B (L)           6.1  5  2  2  1  0
+Sullivan S            2.2  2  0  0  0  4
+  * Pitched to 1 batter in 9th
+
+DP -- Cincinnati 1
+LOB -- Arizona 6, Cincinnati 6
+2B -- Casey S
+HR -- Gonzalez L, Williams M
+SH -- Ochoa A
+T -- 2:47
+A -- 21843
+     Game of 5/17/2001 -- Arizona at Cincinnati (D)
+
+  Arizona            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Dellucci D, cf        4  2  1  0   Sadler D, ss          4  0  0  0   
+Counsell C, 2b-3b     4  0  0  0   Sanders D, lf         3  0  0  0   
+Gonzalez L, lf        4  3  2  4   Ochoa A, rf           3  0  1  0   
+Williams M, 3b        4  1  1  0   Casey S, 1b           4  1  2  0   
+Miller D, c           1  1  1  0   Rivera R, cf          3  0  0  0   
+Durazo E, 1b          3  0  2  0   LaRue J, c            3  1  1  2   
+Sanders R, rf         4  0  0  0   Larson B, 3b          3  0  0  0   
+Womack T, ss          3  0  2  2   Castro J, 2b          3  0  0  0   
+Barajas R, c          3  0  0  0   Bell R, p             1  0  0  0   
+Grace M, ph           0  0  0  1   Brower J, p           1  0  0  0   
+Sabel E, p            0  0  0  0   Winchester S, p       0  0  0  0   
+Swindell G, p         0  0  0  0   Tucker M, ph          1  0  0  0   
+Bautista D, ph        1  0  0  0   Wohlers M, p          0  0  0  0   
+Prinz B, p            0  0  0  0                                      
+Anderson B, p         2  0  0  0                                      
+Colbrunn G, ph        1  0  0  0                                      
+Springer R, p         0  0  0  0                                      
+Bell J, ph-2b         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  7  9  7                        29  2  4  2
+
+Arizona          200 001 013 --  7
+Cincinnati       020 000 000 --  2
+
+  Arizona              IP  H  R ER BB SO
+Anderson B (W)        6.0  4  2  2  1  4
+Springer R            1.0  0  0  0  0  2
+Sabel E               0.1  0  0  0  0  0
+Swindell G            0.2  0  0  0  0  1
+Prinz B               1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Bell R                3.0  1  2  2  2  2
+Brower J (L)*         4.0  4  2  2  3  6
+Winchester S          1.0  0  0  0  1  1
+Wohlers M             1.0  4  3  3  0  2
+  * Pitched to 2 batters in 8th
+
+E -- Womack T
+DP -- Arizona 1
+LOB -- Arizona 10, Cincinnati 2
+2B -- Casey S, Durazo E
+HR -- Gonzalez L 2, LaRue J
+SB -- Womack T, Ochoa A
+CS -- Sanders D
+SF -- Grace M
+HBP -- by Bell R (Dellucci D), by Anderson B (Sanders D), by Wohlers M (Sanders R)
+T -- 2:43
+A -- 23723
+     Game of 5/25/2001 -- St. Louis at Cincinnati (N)
+
+  St. Louis          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Vina F, 2b            5  1  1  0   Ochoa A, rf           4  2  2  1   
+Polanco P, 3b         4  0  1  0   Young D, lf           3  0  1  1   
+Edmonds J, cf         3  0  0  1   Sullivan S, p         0  0  0  0   
+Pujols A, 1b          4  0  0  0   LaRue J, ph           1  0  1  0   
+Lankford R, lf        3  1  1  0   Reese P, pr-ss        0  0  0  0   
+Renteria E, ss        4  1  2  0   Casey S, 1b           4  0  1  1   
+Robinson K, rf        3  1  2  1   Rivera R, cf          4  0  0  0   
+Matheny M, c          2  0  0  0   Larson B, 3b          4  0  0  0   
+Bonilla B, ph         1  0  0  0   Selby B, 2b           3  0  0  0   
+Marrero E, c          0  0  0  0   Reyes D, p            0  0  0  0   
+Benes A, p            2  0  0  0   Graves D, p           1  0  0  0   
+Sutton L, ph          1  0  0  0   Castro J, ss-2b       4  1  1  0   
+Kline S, p            0  0  0  0   Stinnett K, c         4  1  2  0   
+Benes A, p            0  0  0  0   Reitsma C, p          1  0  0  0   
+Paquette C, ph        1  1  1  3   Tucker M, ph-lf       2  0  0  1   
+Veres D, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  5  8  5                        35  4  8  4
+
+St. Louis        110 000 003 --  5
+Cincinnati       100 030 000 --  4
+
+  St. Louis            IP  H  R ER BB SO
+Benes A               6.0  7  4  3  0  2
+Kline S               1.0  1  0  0  0  0
+Benes A (W)           1.0  0  0  0  0  1
+Veres D (S)           1.0  0  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C             5.0  5  2  1  2  3
+Sullivan S            2.0  0  0  0  0  1
+Reyes D               0.2  0  0  0  1  0
+Graves D (L)          1.1  3  3  3  0  1
+
+E -- Stinnett K, Renteria E 2
+DP -- St. Louis 1
+LOB -- St. Louis 5, Cincinnati 5
+2B -- Vina F, Lankford R, LaRue J
+HR -- Ochoa A, Paquette C
+SB -- Robinson K
+SF -- Robinson K, Tucker M
+T -- 2:54
+A -- 24590
+     Game of 5/26/2001 -- St. Louis at Cincinnati (N)
+
+  St. Louis          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Vina F, 2b            4  1  2  0   Sanders D, lf         3  0  0  0   
+Paquette C, 1b        3  0  0  0   Reese P, ss           0  0  0  0   
+Drew J, rf            4  0  1  0   LaRue J, c            3  2  1  0   
+Pujols A, 3b          3  0  1  1   Ochoa A, rf           3  2  2  0   
+Edmonds J, cf         3  1  1  1   Casey S, 1b           4  1  2  2   
+Lankford R, lf        3  0  0  0   Rivera R, cf          4  1  2  1   
+Bonilla B, ph         1  0  0  0   Larson B, 3b          4  0  0  0   
+Renteria E, ss        3  0  1  0   Selby B, 2b           3  0  1  1   
+Marrero E, c          4  0  0  0   Tucker M, lf          1  0  0  0   
+Hermanson D, p        2  0  0  0   Castro J, ss-2b       4  1  1  0   
+James M, p            0  0  0  0   Dessens E, p          2  0  0  0   
+Sutton L, ph          1  0  0  0   Mercado H, p          0  0  0  0   
+Benes A, p            0  0  0  0   Riedling J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        31  7  9  4
+
+St. Louis        001 100 000 --  2
+Cincinnati       303 001 00x --  7
+
+  St. Louis            IP  H  R ER BB SO
+Hermanson D (L)       4.1  8  6  4  2  0
+James M               1.2  1  1  1  0  1
+Benes A               2.0  0  0  0  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (W)         7.0  4  2  2  2  9
+Mercado H             1.1  1  0  0  0  2
+Riedling J            0.2  1  0  0  0  1
+
+E -- Paquette C 2
+LOB -- St. Louis 6, Cincinnati 4
+2B -- Casey S, Selby B, Castro J
+HR -- Edmonds J
+CS -- Drew J, Ochoa A
+SH -- Paquette C, Dessens E
+SF -- Pujols A
+WP -- Dessens E, James M
+T -- 2:53
+A -- 34158
+     Game of 5/27/2001 -- St. Louis at Cincinnati (D)
+
+  St. Louis          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Vina F, 2b            4  1  1  0   Ochoa A, rf           4  0  1  0   
+Polanco P, 3b         4  1  1  0   LaRue J, c            4  0  0  0   
+Drew J, rf            5  0  3  1   Young D, lf           4  0  1  0   
+Pujols A, 1b          5  0  2  1   Casey S, 1b           4  0  1  0   
+Edmonds J, cf         4  0  1  0   Rivera R, cf          4  0  1  0   
+Renteria E, ss        5  0  2  0   Larson B, 3b          4  0  1  0   
+Robinson K, lf        3  0  0  0   Selby B, 2b           4  0  3  0   
+Matheny M, c          4  0  1  0   Castro J, ss          3  0  0  0   
+Kile D, p             3  0  0  0   Reith B, p            2  0  0  0   
+Christiansen J, p     0  0  0  0   Mercado H, p          0  0  0  0   
+Stechschulte G, p     0  0  0  0   Wohlers M, p          0  0  0  0   
+Kline S, p            0  0  0  0   Sanders D, ph         0  0  0  0   
+Lankford R, ph        1  0  0  0   Stinnett K, ph        1  0  0  0   
+Veres D, p            0  0  0  0   Sullivan S, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  2 11  2                        34  0  8  0
+
+St. Louis        100 000 001 --  2
+Cincinnati       000 000 000 --  0
+
+  St. Louis            IP  H  R ER BB SO
+Kile D (W)            6.1  7  0  0  0  6
+Christiansen J        0.1  0  0  0  0  1
+Stechschulte G        0.2  0  0  0  0  0
+Kline S               0.2  0  0  0  0  1
+Veres D (S)           1.0  1  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Reith B (L)           5.2  7  1  1  1  3
+Mercado H             0.1  0  0  0  0  0
+Wohlers M             1.0  1  0  0  0  1
+Sullivan S            2.0  3  1  1  1  1
+
+E -- Rivera R, Larson B
+LOB -- St. Louis 13, Cincinnati 8
+2B -- Drew J, Young D, Matheny M, Selby B 2, Ochoa A, Casey S
+SB -- Vina F, Renteria E
+CS -- Robinson K
+SH -- Polanco P, Castro J
+HBP -- by Reith B (Vina F)
+T -- 3:07
+A -- 28140
+     Game of 5/28/2001 -- Chicago at Cincinnati (D)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Young E, 2b           7  1  2  1   Tucker M, cf-lf       6  0  1  1   
+Gutierrez R, ss       5  2  2  2   Young D, lf-1b        4  1  1  0   
+Sosa S, rf            7  2  2  1   Wohlers M, p          0  0  0  0   
+Stairs M, 1b          3  1  2  3   Mercado H, p          0  0  0  0   
+Coomer R, ph          1  0  0  0   Graves D, p           0  0  0  0   
+Wood K, pr            0  1  0  0   Sadler D, ph          1  0  0  0   
+Van Poppel T, p       0  0  0  0   Sullivan S, p         0  0  0  0   
+Fassero J, p          0  0  0  0   Winchester S, p       1  0  0  0   
+Gordon T, p           0  0  0  0   Casey S, 1b           2  2  1  0   
+Dunwoody T, ph        1  0  0  0   Rivera R, cf          3  0  0  0   
+Duncan C, p           1  0  0  0   Ochoa A, rf           5  1  1  0   
+White R, lf           6  0  3  0   Selby B, 2b-1b        3  0  0  1   
+Cairo M, 3b           3  0  0  0   LaRue J, ph-1b        3  0  1  0   
+Farnsworth K, p       0  0  0  0   Castro J, ss-2b       5  1  1  0   
+Zuleta J, ph-1b       3  0  1  1   Stinnett K, c         6  0  1  2   
+Hundley T, c          3  0  0  0   Larson B, 3b          5  0  1  0   
+Girardi J, c          3  1  0  0   Bell R, p             1  0  0  0   
+Matthews G, cf        5  0  3  0   Sanders D, ph         1  0  1  0   
+Tavarez J, p          2  0  0  0   Brower J, p           0  0  0  0   
+Ojeda A, 3b           1  1  0  0   Reese P, ph-ss        3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     51  9 15  8                        49  6 10  4
+
+Chicago          004 000 020 000 3 --  9
+Cincinnati       300 002 001 000 0 --  6
+
+  Chicago              IP  H  R ER BB SO
+Tavarez J             5.2  6  5  3  1  4
+Farnsworth K          1.1  0  0  0  0  4
+Van Poppel T          0.2  0  0  0  0  0
+Fassero J             0.1  1  0  0  0  0
+Gordon T              1.0  2  1  1  0  3
+Duncan C (W)          4.0  1  0  0  1  7
+
+  Cincinnati           IP  H  R ER BB SO
+Bell R                5.0  6  4  4  1  2
+Brower J              2.0  1  0  0  0  2
+Wohlers M             0.2  1  1  0  0  0
+Mercado H*            0.0  1  1  0  0  0
+Graves D              1.1  2  0  0  0  0
+Sullivan S            2.0  2  0  0  0  2
+Winchester S (L)      2.0  2  3  0  0  1
+  * Pitched to 2 batters in 8th
+
+E -- Cairo M, Larson B, Reese P
+DP -- Chicago 1, Cincinnati 2
+LOB -- Chicago 9, Cincinnati 7
+2B -- Larson B, Young E, Stinnett K, Sosa S, LaRue J, White R
+HR -- Stairs M, Gutierrez R
+SB -- Reese P, Tucker M
+SH -- Ojeda A, Matthews G
+HBP -- by Tavarez J (Casey S), by Sullivan S (Ojeda A), by Sullivan S (Gutierrez R), by Winchester S (Ojeda A)
+PB -- Hundley T
+T -- 4:18
+A -- 24359
+     Game of 5/29/2001 -- Chicago at Cincinnati (N)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Young E, 2b           4  2  1  0   Sanders D, lf         5  1  2  0   
+Gutierrez R, ss       3  1  1  1   Reese P, ss           2  2  1  0   
+Sosa S, rf            3  2  2  4   Tucker M, rf          3  1  1  2   
+Heredia F, p          0  0  0  0   Young D, 1b           4  0  2  0   
+Stairs M, 1b          3  1  3  1   LaRue J, c            4  0  1  0   
+Zuleta J, ph-1b       0  0  0  1   Rivera R, cf          4  0  1  0   
+White R, lf           5  1  1  3   Selby B, 3b           3  0  0  0   
+Cairo M, 3b           4  1  2  0   Larson B, ph          1  1  1  0   
+Dunwoody T, rf        1  0  0  0   Castro J, 2b          4  0  0  0   
+Hundley T, c          4  0  0  0   Fernandez O, p        1  0  0  0   
+Matthews G, cf        3  2  0  0   Brower J, p           1  0  0  0   
+Bere J, p             2  0  0  0   Sadler D, ph          1  0  0  0   
+Ojeda A, ph-3b        1  0  0  0   Reyes D, p            0  0  0  0   
+                                   Winchester S, p       0  0  0  0   
+                                   Ochoa A, ph           1  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     33 10 10 10                        34  5 10  3
+
+Chicago          101 700 010 -- 10
+Cincinnati       003 010 001 --  5
+
+  Chicago              IP  H  R ER BB SO
+Bere J (W)            7.0  8  4  4  2  4
+Heredia F             2.0  2  1  1  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Fernandez O (L)       3.2  7  9  9  5  2
+Brower J              3.1  2  0  0  0  0
+Reyes D               0.2  1  1  1  3  1
+Winchester S          1.1  0  0  0  0  1
+
+E -- Hundley T, Selby B, Tucker M
+DP -- Chicago 2, Cincinnati 1
+LOB -- Chicago 7, Cincinnati 5
+2B -- Young E, Stairs M 2, Rivera R, Sanders D, Sosa S, Reese P, Larson B
+HR -- White R
+SB -- Tucker M, Sanders D
+SH -- Gutierrez R, Bere J
+SF -- Sosa S, Tucker M
+WP -- Bere J 2, Reyes D, Heredia F
+T -- 2:53
+A -- 18837
+     Game of 5/30/2001 -- Chicago at Cincinnati (N)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Young E, 2b           5  0  0  0   Sanders D, lf         3  0  0  0   
+Gutierrez R, ss       3  1  3  0   Rivera R, ph-cf       1  0  0  0   
+Sosa S, rf            4  1  3  2   Reese P, ss           4  0  0  0   
+Stairs M, 1b          3  1  0  0   Tucker M, cf-lf       4  1  2  0   
+White R, lf           4  0  2  0   Young D, 1b           4  0  1  0   
+Cairo M, 3b           3  0  1  0   Ochoa A, rf           4  0  0  1   
+Ojeda A, 3b           0  0  0  0   LaRue J, c            3  0  0  0   
+Hundley T, c          4  0  0  1   Selby B, 3b           3  0  1  0   
+Matthews G, cf        3  0  0  0   Sadler D, 2b          3  0  0  0   
+Lieber J, p           2  0  0  0   Reitsma C, p          2  0  0  0   
+Fassero J, p          0  0  0  0   Wohlers M, p          0  0  0  0   
+Zuleta J, ph          1  0  0  0   Casey S, ph           1  0  1  0   
+Gordon T, p           0  0  0  0   Larson B, pr          0  0  0  0   
+                                   Mercado H, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  9  3                        32  1  5  1
+
+Chicago          200 001 000 --  3
+Cincinnati       000 100 000 --  1
+
+  Chicago              IP  H  R ER BB SO
+Lieber J (W)          7.1  5  1  0  0  6
+Fassero J             0.2  0  0  0  0  1
+Gordon T (S)          1.0  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C (L)         6.2  8  3  3  2  3
+Wohlers M             1.1  1  0  0  0  0
+Mercado H             1.0  0  0  0  0  1
+
+E -- Gutierrez R
+DP -- Cincinnati 2
+LOB -- Chicago 7, Cincinnati 4
+2B -- White R, Young D
+HR -- Sosa S
+CS -- Tucker M
+SH -- Lieber J, Cairo M
+HBP -- by Reitsma C (Gutierrez R)
+T -- 2:21
+A -- 20062
+     Game of 6/15/2001 -- Colorado at Cincinnati (N)
+
+  Colorado           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Pierre J, cf          5  1  2  0   Ochoa A, rf           4  0  1  0   
+Perez N, ss           5  2  3  0   Larkin B, ss          2  0  1  0   
+Walker L, rf          3  1  0  0   Nichting C, p         0  0  0  0   
+Helton T, 1b          4  1  1  4   Tucker M, ph          1  0  0  0   
+Cirillo J, 3b         4  1  1  1   Reith B, p            0  0  0  0   
+Walker T, 2b          4  1  1  1   Wohlers M, p          0  0  0  0   
+Gant R, lf            4  1  2  1   Castro J, ph          1  0  0  0   
+Petrick B, c          4  0  1  1   Griffey K, cf         3  0  1  0   
+Villone R, p          3  0  0  0   Clark B, cf           1  1  1  0   
+Davis K, p            0  0  0  0   Casey S, 1b           4  2  1  1   
+Myers M, p            0  0  0  0   Young D, lf           4  0  1  0   
+Acevedo J, p          0  0  0  0   Boone A, 3b           2  0  0  1   
+Kieschnick B, ph      1  0  0  0   LaRue J, c            4  0  1  0   
+Jimenez J, p          0  0  0  0   Reese P, 2b-ss        3  1  1  1   
+                                   Reitsma C, p          1  0  0  0   
+                                   Rivera R, ph          1  0  0  0   
+                                   Atchley J, p          0  0  0  0   
+                                   Selby B, 2b           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  8 11  8                        33  4  8  3
+
+Colorado         400 031 000 --  8
+Cincinnati       010 001 020 --  4
+
+  Colorado             IP  H  R ER BB SO
+Villone R (W)*        5.0  4  2  2  4  3
+Davis K+              2.0  1  1  1  1  0
+Myers M#              0.0  2  1  1  0  0
+Acevedo J             1.0  0  0  0  1  0
+Jimenez J             1.0  1  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C (L)         4.0  6  4  4  0  1
+Atchley J             2.0  3  4  4  0  2
+Nichting C            1.0  1  0  0  0  1
+Reith B               1.0  0  0  0  0  1
+Wohlers M             1.0  1  0  0  0  0
+  * Pitched to 1 batter in 6th
+  + Pitched to 1 batter in 8th
+  # Pitched to 2 batters in 8th
+
+E -- Walker T
+DP -- Colorado 1, Cincinnati 1
+LOB -- Colorado 3, Cincinnati 9
+2B -- Perez N, Casey S
+HR -- Reese P, Helton T, Gant R
+SB -- Cirillo J
+SF -- Boone A
+HBP -- by Atchley J (Walker L)
+WP -- Davis K
+PB -- Petrick B
+T -- 3:18
+A -- 28301
+     Game of 6/16/2001 -- Colorado at Cincinnati (N)
+
+  Colorado           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Pierre J, cf          6  2  2  0   Ochoa A, rf           3  0  0  0   
+Perez N, ss           7  2  4  0   Casey S, ph           1  0  1  1   
+Walker L, rf          5  1  2  4   Tucker M, pr-rf       2  1  1  0   
+Cirillo J, 3b         4  0  2  0   Larkin B, ss          6  1  0  0   
+Helton T, 1b          5  0  1  1   Griffey K, cf         6  0  2  2   
+Gant R, lf            3  1  1  0   Young D, 1b           6  1  1  0   
+Kieschnick B, ph-lf   2  0  0  0   Boone A, 3b           6  0  1  0   
+Shumpert T, 2b        3  0  1  0   Rivera R, lf          3  2  1  1   
+Walker T, ph-2b       3  0  0  0   Stinnett K, c         5  1  2  0   
+Petrick B, c          3  1  1  1   Reese P, 2b           1  0  0  0   
+Norton G, ph          1  0  0  1   Castro J, 2b          4  1  1  0   
+White G, p            1  0  0  0   Davis L, p            1  0  0  0   
+Jimenez J, p          0  0  0  0   Clark B, ph           1  0  0  0   
+Cruz J, ph            1  0  0  0   Sullivan S, p         0  0  0  0   
+Dingman C, p          0  0  0  0   Mercado H, p          0  0  0  0   
+Hampton M, p          3  0  1  0   LaRue J, ph           1  0  1  1   
+Acevedo J, p          0  0  0  0   Wohlers M, p          0  0  0  0   
+Myers M, p            0  0  0  0   Atchley J, p          0  0  0  0   
+Mayne B, ph-c         2  1  0  0   Graves D, p           1  0  0  0   
+                                   Nichting C, p         0  0  0  0   
+                                   Selby B, ph           1  0  0  0   
+                                   Brower J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     49  8 15  7                        48  7 11  5
+
+Colorado         000 020 212 001 --  8
+Cincinnati       000 200 410 000 --  7
+
+  Colorado             IP  H  R ER BB SO
+Hampton M             6.1  6  5  3  1  3
+Acevedo J             0.1  1  1  1  0  0
+Myers M               0.1  1  0  0  0  0
+White G               2.2  2  1  1  1  5
+Jimenez J (W)         1.1  1  0  0  0  0
+Dingman C (S)         1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Davis L               5.0  6  2  2  3  3
+Sullivan S            1.0  1  0  0  0  1
+Mercado H             1.0  2  2  2  0  1
+Wohlers M             0.2  1  1  1  0  0
+Atchley J             0.1  0  0  0  0  0
+Graves D              2.0  3  2  2  0  2
+Nichting C            1.0  1  0  0  2  2
+Brower J (L)          1.0  1  1  0  1  1
+
+E -- Gant R, Pierre J, Stinnett K
+DP -- Cincinnati 1
+LOB -- Colorado 12, Cincinnati 7
+2B -- Stinnett K, Young D, Shumpert T, Griffey K, Boone A, Pierre J
+3B -- Perez N
+HR -- Petrick B, Walker L, Rivera R
+SB -- Cirillo J, Pierre J
+HBP -- by Graves D (Pierre J)
+WP -- Wohlers M
+T -- 4:32
+A -- 29937
+     Game of 6/17/2001 -- Colorado at Cincinnati (D)
+
+  Colorado           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Pierre J, cf          5  1  1  0   Ochoa A, rf           4  0  0  0   
+Perez N, ss           5  0  1  0   Reese P, ss-2b        4  0  1  0   
+Walker L, rf          5  1  2  3   Clark B, ph           1  0  0  0   
+Helton T, 1b          3  1  1  1   Griffey K, cf         3  1  1  1   
+Cirillo J, 3b         3  0  1  0   Casey S, 1b           4  0  0  0   
+Walker T, 2b          4  0  0  0   Boone A, 3b           3  0  2  0   
+Gant R, lf            2  0  0  0   Young D, lf           4  0  0  0   
+Myers M, p            0  0  0  0   LaRue J, c            3  0  0  0   
+Acevedo J, p          0  0  0  0   Tucker M, ph          1  0  0  0   
+Jimenez J, p          0  0  0  0   Stinnett K, c         0  0  0  0   
+Mayne B, c            4  0  1  0   Castro J, 2b          3  1  1  0   
+Bohanon B, p          3  1  1  0   Mercado H, p          0  0  0  0   
+Davis K, p            0  0  0  0   Nichting C, p         0  0  0  0   
+Cruz J, lf            1  0  0  0   Selby B, ph           1  1  1  1   
+                                   Dessens E, p          1  0  0  0   
+                                   Larkin B, ss          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  4                        34  3  6  2
+
+Colorado         001 030 000 --  4
+Cincinnati       000 010 011 --  3
+
+  Colorado             IP  H  R ER BB SO
+Bohanon B (W)         6.0  3  1  1  4  2
+Davis K               1.0  0  0  0  0  1
+Myers M               0.1  1  1  0  0  1
+Acevedo J             0.2  1  0  0  0  1
+Jimenez J (S)         1.0  1  1  1  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (L)         6.0  6  4  4  3  4
+Mercado H             1.2  1  0  0  0  3
+Nichting C            1.1  1  0  0  1  2
+
+E -- Gant R, Cruz J
+LOB -- Colorado 8, Cincinnati 8
+2B -- Mayne B, Boone A, Castro J
+HR -- Helton T, Walker L, Selby B
+CS -- Helton T
+WP -- Mercado H
+PB -- LaRue J
+T -- 3:05
+A -- 25947
+     Game of 6/18/2001 -- Milwaukee at Cincinnati (N)
+
+  Milwaukee          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Sanchez A, cf         3  1  2  0   Ochoa A, rf           5  2  2  0   
+Loretta M, 3b         4  0  2  0   Larkin B, ss          4  0  1  0   
+Jenkins G, lf         4  0  0  1   Young D, lf           4  0  2  2   
+Sexson R, 1b          4  1  1  1   Casey S, 1b           4  0  1  0   
+White D, rf           4  1  1  0   Boone A, 3b           4  1  1  0   
+Hernandez J, ss       4  1  2  2   Tucker M, cf          2  0  1  0   
+Belliard R, 2b        3  1  0  0   Clark B, ph-cf        0  0  0  0   
+Casanova R, c         4  1  1  0   LaRue J, c            3  0  0  0   
+Levrault A, p         2  0  0  0   Griffey K, ph         1  0  1  0   
+Echevarria A, ph      0  0  0  1   Stinnett K, pr-c      0  0  0  0   
+DeJean M, p           0  0  0  0   Reese P, 2b           3  1  1  0   
+King R, p             0  0  0  0   Reith B, p            3  0  1  1   
+Weathers D, p         0  0  0  0   Atchley J, p          0  0  0  0   
+Leskanic C, p         0  0  0  0   Sullivan S, p         0  0  0  0   
+                                   Selby B, ph           1  0  0  0   
+                                   Brower J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  6  9  5                        34  4 11  3
+
+Milwaukee        100 100 400 --  6
+Cincinnati       020 010 100 --  4
+
+  Milwaukee            IP  H  R ER BB SO
+Levrault A (W)        6.0  7  3  3  4  4
+DeJean M              0.1  2  1  1  0  0
+King R                0.2  0  0  0  0  0
+Weathers D            1.0  1  0  0  1  2
+Leskanic C (S)        1.0  1  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Reith B (L)           6.2  8  6  4  2  1
+Atchley J             0.2  1  0  0  0  0
+Sullivan S            0.2  0  0  0  0  0
+Brower J              1.0  0  0  0  0  0
+
+E -- LaRue J
+DP -- Milwaukee 2, Cincinnati 2
+LOB -- Milwaukee 2, Cincinnati 9
+2B -- Ochoa A, White D, Casanova R, Young D, Griffey K
+HR -- Sexson R, Hernandez J
+SB -- Sanchez A, Reith B, Reese P
+CS -- Sanchez A, Tucker M
+SF -- Young D, Echevarria A
+T -- 2:46
+A -- 21543
+     Game of 6/19/2001 -- Milwaukee at Cincinnati (N)
+
+  Milwaukee          AB  R  H RBI    Cincinnati         AB  R  H RBI
+White D, cf           3  2  2  3   Ochoa A, rf           5  3  3  1   
+Loretta M, 3b         4  1  3  1   Larkin B, ss          4  1  4  2   
+Jenkins G, lf         4  0  0  0   Griffey K, cf         5  1  2  2   
+Lopez L, ph           1  0  0  0   Casey S, 1b           4  0  0  0   
+Fox C, p              0  0  0  0   Boone A, 3b           3  0  0  0   
+Kolb B, p             0  0  0  0   Young D, lf           4  1  0  0   
+King R, p             0  0  0  0   Stinnett K, c         2  0  0  0   
+Burnitz J, rf         4  1  1  3   Tucker M, ph          1  0  0  0   
+Sanchez A, ph-rf      1  0  0  0   Reese P, 2b           3  1  0  0   
+Sexson R, 1b          4  3  3  1   Acevedo J, p          1  0  1  0   
+Hernandez J, ss       4  1  1  2   Mercado H, p          0  0  0  0   
+Belliard R, 2b        3  1  1  0   Sullivan S, p         1  0  0  0   
+Blanco H, c           4  0  0  0   Atchley J, p          0  0  0  0   
+Sheets B, p           3  0  0  0   Rivera R, ph          1  0  0  0   
+Houston T, ph         0  0  0  0   Graves D, p           0  0  0  0   
+Mouton J, pr-lf       0  1  0  0   Brower J, p           0  0  0  0   
+                                   Clark B, ph           1  1  1  3   
+                     -- -- -- --                        -- -- -- --
+                     35 10 11 10                        35  8 11  8
+
+Milwaukee        501 000 040 -- 10
+Cincinnati       200 011 004 --  8
+
+  Milwaukee            IP  H  R ER BB SO
+Sheets B (W)          7.0  8  4  3  1  6
+Fox C                 1.0  1  0  0  0  2
+Kolb B                0.2  2  4  4  2  1
+King R (S)            0.1  0  0  0  1  0
+
+  Cincinnati           IP  H  R ER BB SO
+Acevedo J (L)         4.0  4  6  6  2  4
+Mercado H             0.2  1  0  0  1  2
+Sullivan S*           1.1  3  0  0  0  1
+Atchley J             1.0  0  0  0  0  1
+Graves D              1.0  3  4  4  2  1
+Brower J              1.0  0  0  0  0  3
+  * Pitched to 2 batters in 7th
+
+E -- Stinnett K, Hernandez J
+DP -- Milwaukee 2, Cincinnati 2
+LOB -- Milwaukee 5, Cincinnati 4
+2B -- Sexson R 2, Larkin B, White D
+HR -- Burnitz J, Hernandez J, Sexson R, Griffey K, Clark B, Ochoa A
+SB -- Ochoa A
+CS -- Larkin B
+SH -- Hernandez J
+HBP -- by Acevedo J (White D)
+WP -- Acevedo J, Fox C, Kolb B
+T -- 3:15
+A -- 20321
+     Game of 6/20/2001 -- Milwaukee at Cincinnati (D)
+
+  Milwaukee          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Sanchez A, lf-rf      5  0  0  0   Ochoa A, rf           5  1  1  0   
+Belliard R, 2b        4  2  2  1   Larkin B, ss          2  1  0  0   
+White D, cf           3  1  1  0   Castro J, ss          1  0  0  0   
+Burnitz J, rf         2  0  0  0   Griffey K, cf         3  2  2  1   
+DeJean M, p           0  0  0  0   Rivera R, cf          2  0  0  0   
+Loretta M, ph-p       1  0  0  0   Casey S, 1b           4  2  3  3   
+Sexson R, 1b          4  0  1  2   Boone A, 3b           4  2  3  1   
+Hernandez J, ss       4  0  1  0   Tucker M, lf          4  1  1  2   
+Casanova R, c         4  0  2  0   LaRue J, c            4  1  1  3   
+Lopez L, 3b           4  0  1  0   Reese P, 2b           4  1  3  1   
+Cunnane W, p          1  0  0  0   Reitsma C, p          1  0  0  0   
+Mouton J, ph          1  0  0  0   Nichting C, p         1  0  0  0   
+Kolb B, p             0  0  0  0                                      
+Echevarria A, lf      2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        35 11 14 11
+
+Milwaukee        000 001 020 --  3
+Cincinnati       000 650 00x -- 11
+
+  Milwaukee            IP  H  R ER BB SO
+Cunnane W (L)         4.0  7  6  6  1  4
+Kolb B                1.0  5  5  5  1  0
+DeJean M              2.0  1  0  0  0  1
+Loretta M             1.0  1  0  0  1  2
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C (W)         7.1  7  3  2  2  1
+Nichting C            1.2  1  0  0  0  2
+
+E -- Castro J, Hernandez J
+DP -- Milwaukee 2
+LOB -- Milwaukee 7, Cincinnati 4
+2B -- Hernandez J, Casey S, Lopez L, Casanova R, Sexson R
+HR -- LaRue J, Casey S, Tucker M, Reese P, Belliard R
+CS -- White D
+SH -- Reitsma C
+T -- 2:34
+A -- 24418
+     Game of 6/28/2001 -- Chicago at Cincinnati (N)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Young E, 2b           4  0  0  0   Ochoa A, rf           5  2  5  1   
+Gutierrez R, ss       4  0  0  0   Larkin B, ss          2  0  0  0   
+Sosa S, rf            4  0  3  0   Castro J, ss          2  1  1  0   
+Stairs M, 1b          3  0  0  0   Griffey K, cf         3  1  1  0   
+Brown R, lf           4  0  0  0   Stinnett K, c         1  0  1  1   
+Cairo M, 3b           3  1  1  0   Casey S, 1b           5  1  2  1   
+Matthews G, cf        2  1  1  2   Boone A, 3b           5  0  2  1   
+Girardi J, c          3  0  0  0   Young D, lf           4  0  4  0   
+Tapani K, p           2  0  0  0   LaRue J, c            3  0  0  0   
+Van Poppel T, p       0  0  0  0   Tucker M, ph-cf       1  0  0  1   
+Coomer R, ph          1  0  0  0   Reese P, 2b           3  0  0  0   
+Ohman W, p            0  0  0  0   Dessens E, p          3  0  0  0   
+Duncan C, p           0  0  0  0   Atchley J, p          0  0  0  0   
+Heredia F, p          0  0  0  0   Wohlers M, p          0  0  0  0   
+Dunwoody T, ph        1  0  0  0   Clark B, ph           1  0  0  0   
+                                   Sullivan S, p         0  0  0  0   
+                                   Mercado H, p          0  0  0  0   
+                                   Graves D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        38  5 16  5
+
+Chicago          000 000 002 --  2
+Cincinnati       000 020 12x --  5
+
+  Chicago              IP  H  R ER BB SO
+Tapani K (L)          5.0  7  2  2  4  7
+Van Poppel T          1.0  1  0  0  0  1
+Ohman W               0.1  3  1  1  0  0
+Duncan C*             0.2  3  2  2  1  0
+Heredia F             1.0  2  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (W)+        6.0  2  0  0  5  3
+Atchley J             0.1  0  0  0  0  1
+Wohlers M             0.2  0  0  0  0  0
+Sullivan S            0.2  1  0  0  0  0
+Mercado H             1.0  2  2  2  0  2
+Graves D              0.1  0  0  0  0  0
+  * Pitched to 3 batters in 8th
+  + Pitched to 1 batter in 7th
+
+E -- Duncan C 2
+DP -- Chicago 1
+LOB -- Chicago 7, Cincinnati 15
+2B -- Griffey K, Boone A, Sosa S
+HR -- Ochoa A, Matthews G
+SB -- Young D 2
+CS -- Ochoa A, Matthews G
+SF -- Tucker M
+WP -- Tapani K
+T -- 3:51
+A -- 25417
+     Game of 6/29/2001 -- Chicago at Cincinnati (N)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Young E, 2b           5  1  1  2   Ochoa A, rf           4  0  0  0   
+Dunwoody T, rf        0  0  0  0   Young D, lf-3b        4  1  4  1   
+Matthews G, cf        3  2  1  1   Griffey K, cf         3  0  1  0   
+Sosa S, rf            4  2  2  1   Brower J, p           0  0  0  0   
+Cairo M, 2b           0  0  0  0   Tucker M, ph          0  0  0  0   
+Stairs M, 1b          5  0  3  3   Casey S, 1b           4  0  1  0   
+Coomer R, 3b          5  0  1  0   Boone A, 3b           3  0  1  0   
+Brown R, lf           5  0  0  0   Rivera R, cf          1  0  0  0   
+Machado R, c          4  1  2  0   Selby B, 2b           3  0  0  0   
+Ojeda A, ss           4  1  1  0   LaRue J, c            3  0  0  0   
+Bere J, p             3  0  1  0   Reese P, ss           3  0  0  0   
+                                   Reith B, p            1  0  0  0   
+                                   Sullivan S, p         0  0  0  0   
+                                   Atchley J, p          0  0  0  0   
+                                   Clark B, ph-cf-lf     2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 12  7                        31  1  8  1
+
+Chicago          101 014 000 --  7
+Cincinnati       000 000 001 --  1
+
+  Chicago              IP  H  R ER BB SO
+Bere J (W)            9.0  8  1  1  1  5
+
+  Cincinnati           IP  H  R ER BB SO
+Reith B (L)           5.1 10  5  5  1  1
+Sullivan S            0.1  1  2  2  1  0
+Atchley J             0.1  1  0  0  0  0
+Brower J              3.0  0  0  0  1  2
+
+E -- Boone A
+DP -- Chicago 3
+LOB -- Chicago 8, Cincinnati 4
+2B -- Young D, Coomer R, Stairs M 2, Griffey K, Young E
+HR -- Matthews G, Sosa S, Young D
+SH -- Bere J
+T -- 2:41
+A -- 30719
+     Game of 6/30/2001 -- Chicago at Cincinnati (D)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Young E, 2b           4  1  2  0   Tucker M, rf          4  0  0  0   
+Van Poppel T, p       0  0  0  0   Young D, lf           5  1  2  0   
+Dunwoody T, rf        0  0  0  0   Mercado H, p          0  0  0  0   
+Patterson C, cf       3  0  1  0   Nichting C, p         0  0  0  0   
+Sosa S, rf            4  0  0  0   Griffey K, cf         2  2  1  1   
+Fassero J, p          0  0  0  0   Rivera R, pr-cf       1  0  0  0   
+Stairs M, 1b          3  0  0  1   Casey S, 1b           3  1  1  0   
+Coomer R, 3b          4  0  0  0   Boone A, 3b           3  0  0  0   
+Gutierrez R, ss       4  0  3  0   Selby B, 2b           2  1  1  3   
+Matthews G, lf        3  0  0  0   Castro J, ph-2b       3  0  1  0   
+Heredia F, p          0  0  0  0   Stinnett K, c         5  2  3  3   
+Cairo M, 2b           1  0  1  0   Reese P, ss           3  0  0  0   
+Girardi J, c          4  0  0  0   Acevedo J, p          3  0  1  0   
+Tavarez J, p          1  0  0  0   Clark B, ph-lf        1  0  0  0   
+Ohman W, p            1  0  0  0                                      
+Brown R, lf           2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  1  7  1                        35  7 10  7
+
+Chicago          100 000 000 --  1
+Cincinnati       115 000 00x --  7
+
+  Chicago              IP  H  R ER BB SO
+Tavarez J (L)         2.2  7  7  7  3  3
+Ohman W               2.1  1  0  0  1  3
+Heredia F             1.0  0  0  0  2  1
+Van Poppel T          1.0  1  0  0  1  1
+Fassero J             1.0  1  0  0  0  3
+
+  Cincinnati           IP  H  R ER BB SO
+Acevedo J (W)         7.0  5  1  1  2  5
+Mercado H             1.0  0  0  0  0  0
+Nichting C            1.0  2  0  0  0  1
+
+E -- Reese P
+DP -- Cincinnati 1
+LOB -- Chicago 8, Cincinnati 12
+2B -- Young E, Selby B, Stinnett K
+HR -- Griffey K, Stinnett K 2
+SB -- Patterson C, Young E
+HBP -- by Heredia F (Casey S)
+PB -- Girardi J
+T -- 2:50
+A -- 32547
+     Game of 7/1/2001 -- Chicago at Cincinnati (D)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Patterson C, cf       4  0  0  0   Ochoa A, rf           5  0  1  0   
+Matthews G, cf        0  0  0  0   Young D, lf           5  0  1  0   
+Cairo M, 2b-3b        4  0  2  1   Griffey K, cf         4  0  0  0   
+Sosa S, rf            3  0  0  0   Casey S, 1b           4  0  0  0   
+Stairs M, 1b          4  0  1  0   Boone A, 3b           4  1  2  0   
+Coomer R, 3b          4  0  0  0   Selby B, 2b           4  0  2  1   
+Ojeda A, 2b           0  0  0  0   LaRue J, c            4  0  0  0   
+Gutierrez R, ss       4  0  0  0   Castro J, ss          3  0  0  0   
+Dunwoody T, lf        3  1  1  0   Reitsma C, p          2  0  0  0   
+Girardi J, c          4  1  3  1   Tucker M, ph          1  0  0  0   
+Lieber J, p           1  0  0  0   Sullivan S, p         0  0  0  0   
+Fassero J, p          0  0  0  0   Graves D, p           0  0  0  0   
+Farnsworth K, p       0  0  0  0   Clark B, ph           0  0  0  0   
+Brown R, ph           1  0  0  0   Reese P, pr           0  0  0  0   
+Gordon T, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        36  1  6  1
+
+Chicago          000 020 000 --  2
+Cincinnati       000 100 000 --  1
+
+  Chicago              IP  H  R ER BB SO
+Lieber J (W)          5.2  6  1  1  1  4
+Fassero J             1.1  0  0  0  0  1
+Farnsworth K          1.0  0  0  0  0  1
+Gordon T (S)          1.0  0  0  0  1  2
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C (L)         6.0  7  2  2  2  3
+Sullivan S            2.0  0  0  0  0  4
+Graves D              1.0  0  0  0  0  0
+
+E -- Gutierrez R, Stairs M, Cairo M
+LOB -- Chicago 7, Cincinnati 10
+2B -- Boone A, Selby B, Dunwoody T, Cairo M
+SH -- Lieber J 2
+T -- 2:38
+A -- 28033
+     Game of 7/2/2001 -- Pittsburgh at Cincinnati (N)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Nunez A, 2b           6  0  0  1   Ochoa A, rf           4  0  0  0   
+Wilson J, ss          5  2  3  1   Mercado H, p          0  0  0  0   
+Kendall J, lf         4  3  2  0   Castro J, 2b          1  0  0  0   
+Giles B, cf           5  1  3  1   Young D, lf           5  1  2  0   
+Ramirez A, 3b         4  2  3  5   Griffey K, cf         3  1  0  0   
+Young K, 1b           3  1  0  0   Nichting C, p         0  0  0  0   
+Bell D, rf            5  1  2  2   Atchley J, p          0  0  0  0   
+Osik K, c             3  0  0  0   LaRue J, ph           1  1  1  0   
+Schmidt J, p          3  0  0  0   Casey S, 1b           4  1  1  1   
+Wilson C, ph          1  0  0  0   Boone A, 3b           4  1  2  0   
+Sauerbeck S, p        0  0  0  0   Selby B, 2b           2  0  2  1   
+Manzanillo J, p       0  0  0  0   Rivera R, ph-cf       2  0  1  2   
+Figueroa L, ph        1  0  0  0   Stinnett K, c         4  0  0  1   
+Olivares O, p         0  0  0  0   Reese P, ss           4  0  0  0   
+                                   Davis L, p            0  0  0  0   
+                                   Rodriguez F, p        1  0  0  0   
+                                   Clark B, ph           0  0  0  0   
+                                   Brower J, p           0  0  0  0   
+                                   Tucker M, ph-rf       2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     40 10 13 10                        37  5 10  5
+
+Pittsburgh       430 100 200 -- 10
+Cincinnati       200 010 002 --  5
+
+  Pittsburgh           IP  H  R ER BB SO
+Schmidt J (W)         6.0  6  3  3  2  9
+Sauerbeck S           1.0  1  0  0  1  2
+Manzanillo J          1.0  1  0  0  0  0
+Olivares O            1.0  2  2  2  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Davis L (L)           1.2  8  7  7  1  1
+Rodriguez F           2.1  2  1  1  2  3
+Brower J              2.0  1  0  0  0  1
+Mercado H             1.0  2  2  2  2  0
+Nichting C            1.0  0  0  0  1  2
+Atchley J             1.0  0  0  0  0  1
+
+E -- Boone A, Ramirez A
+LOB -- Pittsburgh 9, Cincinnati 11
+2B -- Ramirez A, Bell D 2, Young D, Boone A, Wilson J, Rivera R
+HR -- Ramirez A
+SB -- Clark B
+HBP -- by Schmidt J (Selby B), by Schmidt J (Stinnett K), by Olivares O (Casey S)
+T -- 3:23
+A -- 22397
+     Game of 7/3/2001 -- Pittsburgh at Cincinnati (N)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Nunez A, 2b           5  0  1  0   Ochoa A, rf           4  0  0  0   
+Wilson J, ss          5  0  1  0   Tucker M, lf          3  0  0  0   
+Kendall J, c          4  0  1  0   Rivera R, ph-lf       1  0  0  0   
+Giles B, cf           3  2  3  1   Griffey K, cf         3  1  1  0   
+Ramirez A, 3b         4  0  1  0   Casey S, 1b           3  1  1  0   
+Vander Wal J, lf      2  1  1  2   Young D, 3b           4  0  2  0   
+Hyzdu A, ph           0  0  0  0   Selby B, 2b           2  0  0  1   
+Mackowiak R, ph-lf    0  0  0  0   LaRue J, c            4  0  0  0   
+Young K, 1b           4  0  0  0   Reese P, ss           3  0  0  0   
+Bell D, rf            2  0  1  0   Sullivan S, p         0  0  0  0   
+Ritchie T, p          2  0  0  0   Dessens E, p          1  0  0  0   
+Manzanillo J, p       0  0  0  0   Clark B, ph           1  0  1  0   
+Sauerbeck S, p        0  0  0  0   Nichting C, p         0  0  0  0   
+Wehner J, ph          0  0  0  0   Mercado H, p          0  0  0  0   
+Williams M, p         0  0  0  0   Castro J, ss          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  9  3                        30  2  5  1
+
+Pittsburgh       011 001 000 --  3
+Cincinnati       000 000 101 --  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Ritchie T (W)         6.1  3  1  1  2  0
+Manzanillo J          1.1  0  0  0  0  0
+Sauerbeck S           0.1  0  0  0  0  1
+Williams M (S)        1.0  2  1  1  1  0
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (L)         6.0  8  3  3  1  7
+Nichting C            1.0  1  0  0  0  1
+Mercado H             0.1  0  0  0  1  0
+Sullivan S            1.2  0  0  0  2  0
+
+E -- Wilson J, Young D
+DP -- Pittsburgh 2, Cincinnati 2
+LOB -- Pittsburgh 8, Cincinnati 5
+2B -- Giles B
+HR -- Vander Wal J, Giles B
+CS -- Bell D
+SH -- Ritchie T, Wehner J
+SF -- Vander Wal J, Selby B
+WP -- Mercado H
+PB -- LaRue J
+T -- 2:57
+A -- 21724
+     Game of 7/4/2001 -- Pittsburgh at Cincinnati (D)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Nunez A, 2b           4  2  2  0   Ochoa A, rf           3  0  0  0   
+Wilson J, ss          6  2  2  2   Castro J, 2b          4  0  0  0   
+Kendall J, c          5  1  1  1   Young D, lf-1b        4  1  2  1   
+Wilson C, c           1  0  1  0   Casey S, 1b           0  0  0  0   
+Giles B, cf           3  4  3  3   Clark B, lf           2  1  1  2   
+Osik K, 1b            1  0  0  0   Boone A, 3b           4  0  1  0   
+Ramirez A, 3b         6  1  4  3   Rivera R, cf          4  0  1  0   
+Vander Wal J, 1b      2  0  0  0   Stinnett K, c         4  0  0  0   
+Wehner J, 1b-cf       1  1  1  1   Reese P, ss           4  0  2  0   
+Mackowiak R, rf       5  0  0  0   Reith B, p            1  0  1  0   
+Hyzdu A, lf           5  2  3  3   Brower J, p           1  1  1  0   
+Beimel J, p           2  1  1  0   Tucker M, ph          1  0  0  0   
+Lincoln M, p          2  0  1  0   Rodriguez F, p        0  0  0  0   
+Marte D, p            0  0  0  0   Nichting C, p         0  0  0  0   
+Loiselle R, p         0  0  0  0   Selby B, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     43 14 19 13                        33  3  9  3
+
+Pittsburgh       301 201 160 -- 14
+Cincinnati       000 003 000 --  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Beimel J (W)          5.2  5  3  3  1  1
+Lincoln M             1.1  2  0  0  0  1
+Marte D               1.0  1  0  0  0  0
+Loiselle R            1.0  1  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Reith B (L)           3.2  7  6  6  4  6
+Brower J              3.1  4  2  2  0  4
+Rodriguez F           1.0  7  6  6  1  1
+Nichting C            1.0  1  0  0  0  0
+
+E -- Vander Wal J
+DP -- Pittsburgh 4, Cincinnati 1
+LOB -- Pittsburgh 9, Cincinnati 6
+2B -- Ramirez A 2
+HR -- Wilson J, Giles B 2, Clark B, Hyzdu A 2
+SB -- Kendall J
+SH -- Nunez A, Beimel J
+HBP -- by Beimel J (Casey S), by Beimel J (Clark B)
+WP -- Reith B
+PB -- Stinnett K
+T -- 2:53
+A -- 17972
+     Game of 7/5/2001 -- Pittsburgh at Cincinnati (D)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Nunez A, 2b           4  1  1  0   Clark B, lf           4  1  1  3   
+Wilson J, ss          4  0  0  0   Guerrero W, 2b        4  1  1  0   
+Kendall J, c          4  0  2  1   Ochoa A, rf           3  0  0  0   
+Giles B, cf           4  0  1  0   Griffey K, cf         3  0  0  1   
+Ramirez A, 3b         4  0  1  0   Young D, 1b           3  1  0  0   
+Vander Wal J, lf      4  0  2  0   Boone A, 3b           3  2  2  3   
+Young K, 1b           4  0  1  0   Reese P, ss           2  0  0  0   
+Hyzdu A, rf           3  0  0  0   Stinnett K, c         3  1  2  0   
+Williams D, p         2  0  0  0   Acevedo J, p          2  0  0  0   
+Mackowiak R, ph       1  0  0  0   Sullivan S, p         0  0  0  0   
+Marte D, p            0  0  0  0   Rivera R, ph          1  1  1  0   
+Olivares O, p         0  0  0  0   Graves D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  8  1                        28  7  7  7
+
+Pittsburgh       000 001 000 --  1
+Cincinnati       000 110 50x --  7
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D (L)        6.0  3  2  1  2  2
+Marte D               0.2  2  3  3  1  0
+Olivares O            1.1  2  2  2  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Acevedo J (W)*        6.0  8  1  1  0  2
+Sullivan S            1.0  0  0  0  0  1
+Graves D              2.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Kendall J
+DP -- Pittsburgh 1, Cincinnati 1
+LOB -- Pittsburgh 6, Cincinnati 1
+2B -- Stinnett K, Ramirez A, Young K
+HR -- Boone A 2, Clark B
+SB -- Giles B, Guerrero W
+CS -- Ochoa A
+SF -- Griffey K
+T -- 2:47
+A -- 24128
+     Game of 7/12/2001 -- Cleveland at Cincinnati (N)
+
+  Cleveland          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Lofton K, cf          4  0  2  2   Ochoa A, rf           3  0  0  0   
+Vizquel O, ss         5  0  0  0   Guerrero W, 2b        4  0  0  0   
+Alomar R, 2b          4  1  1  0   Griffey K, cf         4  0  1  0   
+Gonzalez J, rf        4  2  2  1   Young D, lf           3  0  0  0   
+Rincon R, p           0  0  0  0   Casey S, 1b           4  0  0  0   
+Cordero W, ph         1  0  1  0   Boone A, 3b           4  0  2  0   
+Baez D, p             0  0  0  0   LaRue J, c            4  0  2  0   
+Thome J, 1b           4  2  3  2   Reese P, ss           4  0  2  0   
+Burks E, lf           3  1  3  0   Reitsma C, p          0  0  0  0   
+Cordova M, lf         2  0  1  0   Sullivan S, p         0  0  0  0   
+Fryman T, 3b          4  1  1  2   Clark B, ph           1  0  0  0   
+Diaz E, c             4  0  0  0   Rodriguez F, p        0  0  0  0   
+Colon B, p            3  0  0  0   Tucker M, ph          0  0  0  0   
+Cabrera J, ph-rf      1  0  0  0   Atchley J, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  7 14  7                        31  0  7  0
+
+Cleveland        010 410 001 --  7
+Cincinnati       000 000 000 --  0
+
+  Cleveland            IP  H  R ER BB SO
+Colon B (W)           7.0  6  0  0  3  6
+Rincon R              1.0  0  0  0  0  0
+Baez D                1.0  1  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C (L)         5.0 10  6  6  3  3
+Sullivan S            1.0  1  0  0  0  1
+Rodriguez F           1.0  1  0  0  0  0
+Atchley J             2.0  2  1  1  1  0
+
+DP -- Cleveland 2
+LOB -- Cleveland 9, Cincinnati 8
+2B -- Burks E, Fryman T, Cordova M, LaRue J
+HR -- Thome J, Gonzalez J
+CS -- Lofton K
+SH -- Reitsma C
+WP -- Reitsma C
+T -- 2:50
+A -- 28816
+     Game of 7/13/2001 -- Cleveland at Cincinnati (N)
+
+  Cleveland          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Lofton K, cf          3  1  1  1   Ochoa A, rf           2  0  0  0   
+Vizquel O, ss         4  1  1  0   Reese P, ss           3  1  1  0   
+Alomar R, 2b          4  1  1  3   Tucker M, ph          1  0  0  0   
+Gonzalez J, rf        4  0  0  0   Nichting C, p         0  0  0  0   
+Thome J, 1b           3  1  1  0   Graves D, p           0  0  0  0   
+Cordova M, lf         4  0  0  0   Griffey K, cf         3  0  1  1   
+Wickman B, p          0  0  0  0   Young D, lf           4  0  0  0   
+Fryman T, 3b          4  1  2  1   Casey S, 1b           4  0  0  0   
+Diaz E, c             4  0  0  0   Boone A, 3b           4  0  0  0   
+Sabathia C, p         3  0  0  0   LaRue J, c            4  0  1  0   
+Shuey P, p            0  0  0  0   Castro J, 2b-ss       3  0  1  0   
+Cabrera J, lf         0  0  0  0   Dessens E, p          1  0  0  0   
+                                   Rivera R, ph          0  0  0  0   
+                                   Guerrero W, 2b        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  6  5                        29  1  4  1
+
+Cleveland        004 100 000 --  5
+Cincinnati       001 000 000 --  1
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        6.2  4  1  1  3 11
+Shuey P               1.1  0  0  0  1  1
+Wickman B             1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (L)         7.0  6  5  5  2  3
+Nichting C            1.0  0  0  0  0  1
+Graves D              1.0  0  0  0  0  0
+
+LOB -- Cleveland 3, Cincinnati 7
+2B -- Reese P
+HR -- Alomar R
+CS -- Ochoa A
+SH -- Dessens E
+HBP -- by Sabathia C (Griffey K)
+T -- 2:38
+A -- 38790
+     Game of 7/14/2001 -- Cleveland at Cincinnati (D)
+
+  Cleveland          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Lofton K, cf          7  0  0  0   Reese P, ss           6  1  1  0   
+Vizquel O, ss         6  0  2  2   Young D, lf-1b        6  1  2  2   
+Alomar R, 2b          5  1  2  0   Griffey K, cf         4  0  0  1   
+Gonzalez J, rf        3  1  2  2   Casey S, 1b           5  0  1  1   
+Thome J, 1b           5  0  0  0   Guerrero W, pr-lf     0  0  0  0   
+Burks E, lf           4  1  2  1   Boone A, 3b           5  0  1  0   
+Cabrera J, lf-3b      2  0  2  0   Tucker M, rf          3  0  0  0   
+Fryman T, 3b          5  0  0  0   Sullivan S, p         0  0  0  0   
+Baez D, p             0  0  0  0   Ochoa A, ph           1  0  0  0   
+Cordero W, ph         1  0  0  0   Graves D, p           0  0  0  0   
+Rocker J, p           0  0  0  0   LaRue J, ph           0  1  0  0   
+Laker T, c            5  1  2  0   Stinnett K, c         5  1  2  1   
+Burba D, p            2  1  0  0   Selby B, 2b           4  1  0  0   
+Shuey P, p            0  0  0  0   Castro J, ph          0  0  0  0   
+Rincon R, p           0  0  0  0   Brower J, p           1  0  1  0   
+Branyan R, ph         1  0  0  0   Clark B, ph           1  0  1  0   
+Wickman B, p          0  0  0  0   Mercado H, p          0  0  0  0   
+Rodriguez R, p        0  0  0  0   Nichting C, p         0  0  0  0   
+Cordova M, lf         2  0  0  0   Rivera R, ph-rf       2  1  0  1   
+                     -- -- -- --                        -- -- -- --
+                     48  5 12  5                        43  6  9  6
+
+Cleveland        030 020 000 000 0 --  5
+Cincinnati       000 000 500 000 1 --  6
+  1 out when winning run was scored.
+
+  Cleveland            IP  H  R ER BB SO
+Burba D               6.1  6  3  2  3  7
+Shuey P*              0.0  1  2  0  0  0
+Rincon R              0.2  1  0  0  1  0
+Wickman B             1.0  0  0  0  0  1
+Rodriguez R           1.1  0  0  0  0  0
+Baez D                1.2  0  0  0  0  3
+Rocker J (L)          1.1  1  1  1  3  1
+
+  Cincinnati           IP  H  R ER BB SO
+Brower J              5.0  8  5  3  2  6
+Mercado H             1.2  0  0  0  2  3
+Nichting C            0.1  0  0  0  0  0
+Sullivan S            3.0  1  0  0  1  4
+Graves D (W)          3.0  3  0  0  1  0
+  * Pitched to 2 batters in 7th
+
+E -- Brower J 2, Mercado H, Fryman T, Rocker J
+DP -- Cleveland 2, Cincinnati 3
+LOB -- Cleveland 11, Cincinnati 11
+2B -- Young D, Casey S, Gonzalez J
+HR -- Burks E, Gonzalez J, Stinnett K
+SB -- Young D, Boone A, Reese P 2, Griffey K
+SH -- Burba D, Stinnett K
+SF -- Griffey K, Rivera R
+HBP -- by Rocker J (LaRue J)
+WP -- Brower J
+T -- 4:33
+A -- 40794
+     Game of 7/15/2001 -- Detroit at Cincinnati (D)
+
+  Detroit            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Cedeno R, cf          5  1  2  1   Reese P, ss           4  0  2  1   
+Easley D, 2b          5  0  1  0   Tucker M, lf-rf       5  0  0  0   
+Higginson B, lf       5  2  2  3   Rodriguez F, p        0  0  0  0   
+Fick R, c             4  2  2  3   Griffey K, cf         4  1  2  1   
+Clark T, 1b           5  0  2  0   Young D, 1b           3  1  1  0   
+Anderson M, p         0  0  0  0   Boone A, 3b           5  1  2  2   
+Halter S, ss          4  1  2  0   Ochoa A, rf           4  1  2  0   
+Encarnacion J, rf     4  0  0  0   Nichting C, p         0  0  0  0   
+Macias J, 3b          4  1  2  1   Rivera R, rf          1  0  0  0   
+Holt C, p             2  0  1  0   LaRue J, c            2  0  1  0   
+Nitkowski C, p        0  0  0  0   Castro J, 2b          4  1  1  0   
+Simon R, ph           1  0  0  0   Acevedo J, p          3  0  0  0   
+Blair W, p            0  0  0  0   Mercado H, p          0  0  0  0   
+Jackson R, ph-1b      1  1  1  0   Clark B, lf           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  8 15  8                        35  5 11  4
+
+Detroit          000 300 005 --  8
+Cincinnati       023 000 000 --  5
+
+  Detroit              IP  H  R ER BB SO
+Holt C*               5.0 10  5  4  4  4
+Nitkowski C           1.0  0  0  0  0  1
+Blair W (W)           2.0  1  0  0  2  1
+Anderson M (S)        1.0  0  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Acevedo J             7.0  9  3  3  1  5
+Mercado H             0.2  1  0  0  0  0
+Nichting C (L)        1.0  5  5  5  0  1
+Rodriguez F           0.1  0  0  0  0  0
+  * Pitched to 1 batter in 6th
+
+E -- Halter S
+DP -- Detroit 2, Cincinnati 1
+LOB -- Detroit 6, Cincinnati 10
+2B -- Ochoa A 2, Holt C, Halter S, Easley D
+HR -- Griffey K, Boone A, Fick R 2, Higginson B
+SB -- Reese P 2
+CS -- Cedeno R
+SH -- Reese P
+PB -- Fick R 2
+T -- 3:07
+A -- 24719
+     Game of 7/16/2001 -- Detroit at Cincinnati (N)
+
+  Detroit            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Cedeno R, cf          4  1  1  1   Reese P, ss           3  1  0  0   
+Easley D, 2b          4  0  0  0   Clark B, lf           3  1  1  0   
+Santana P, 2b         0  0  0  0   Griffey K, cf         4  2  3  4   
+Higginson B, lf       4  0  1  0   Rivera R, cf          0  0  0  0   
+Blair W, p            0  0  0  0   Young D, 1b           4  2  2  1   
+Clark T, 1b           2  0  0  0   Boone A, 3b           4  2  4  2   
+Fick R, c             3  0  0  0   Ochoa A, rf           4  0  0  0   
+Cardona J, c          1  0  0  0   Stinnett K, c         3  1  0  0   
+Halter S, ss          4  0  2  0   Castro J, 2b          4  0  1  1   
+Encarnacion J, rf     4  0  1  0   Davis L, p            3  0  0  1   
+Macias J, 3b          3  0  0  0                                      
+Pettyjohn A, p        2  0  0  0                                      
+Murray H, p           0  0  0  0                                      
+Magee W, ph-lf        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  5  1                        32  9 11  9
+
+Detroit          000 000 010 --  1
+Cincinnati       010 022 40x --  9
+
+  Detroit              IP  H  R ER BB SO
+Pettyjohn A (L)       5.1  7  5  5  2  3
+Murray H              1.2  4  4  4  1  0
+Blair W               1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Davis L (W)           9.0  5  1  1  2  7
+
+DP -- Detroit 1
+LOB -- Detroit 6, Cincinnati 2
+2B -- Higginson B, Castro J, Boone A 2, Halter S
+HR -- Boone A, Griffey K 2, Young D, Cedeno R
+SB -- Encarnacion J, Boone A
+CS -- Clark B
+T -- 2:28
+A -- 19757
+     Game of 7/17/2001 -- Detroit at Cincinnati (N)
+
+  Detroit            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Cedeno R, cf          2  0  0  0   Reese P, ss           3  0  0  0   
+Magee W, cf           3  0  1  0   Casey S, ph           0  0  0  0   
+Easley D, 2b          3  1  0  0   Rivera R, pr          0  0  0  0   
+Higginson B, lf       4  0  0  0   Sullivan S, p         0  0  0  0   
+Fick R, c             5  1  2  1   Clark B, lf           3  0  0  0   
+Clark T, 1b           4  1  2  0   Tucker M, ph-lf       0  0  0  1   
+Halter S, ss          2  0  2  1   Griffey K, cf         3  0  0  0   
+Encarnacion J, rf     4  0  0  1   Young D, 1b           4  0  1  0   
+Macias J, 3b          4  0  1  0   Boone A, 3b           3  0  1  0   
+Weaver J, p           2  0  0  0   Ochoa A, rf           4  0  1  0   
+Patterson D, p        0  0  0  0   LaRue J, c            4  0  1  0   
+Simon R, ph           1  0  0  0   Castro J, 2b-ss       4  1  1  0   
+Anderson M, p         0  0  0  0   Reitsma C, p          2  0  0  0   
+                                   Mercado H, p          0  0  0  0   
+                                   Guerrero W, ph-2b     1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        31  1  6  1
+
+Detroit          020 010 000 --  3
+Cincinnati       000 000 010 --  1
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (W)          7.1  4  1  1  3  4
+Patterson D           0.2  0  0  0  0  0
+Anderson M (S)        1.0  2  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C (L)         7.0  6  3  3  2  2
+Mercado H             1.0  1  0  0  1  2
+Sullivan S            1.0  1  0  0  0  0
+
+E -- Boone A
+DP -- Detroit 1
+LOB -- Detroit 10, Cincinnati 7
+2B -- Halter S, Magee W
+SH -- Weaver J
+SF -- Tucker M
+HBP -- by Reitsma C (Easley D), by Sullivan S (Easley D)
+T -- 2:58
+A -- 19933
+     Game of 7/18/2001 -- Atlanta at Cincinnati (N)
+
+  Atlanta            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Lockhart K, 2b        4  1  1  3   Reese P, ss           4  0  2  0   
+Surhoff B, lf         4  0  0  0   Ochoa A, rf           4  0  1  0   
+Jones A, cf           4  0  0  0   Griffey K, cf         3  0  0  0   
+Jones C, 3b           3  0  1  0   Young D, 1b           3  0  2  0   
+Jordan B, rf          4  0  0  0   Boone A, 3b           3  0  2  0   
+Caminiti K, 1b        2  0  0  0   Rivera R, lf          3  1  1  1   
+Lopez J, c            2  1  1  0   LaRue J, c            3  0  1  0   
+DeRosa M, ss          2  1  0  0   Guerrero W, 2b        3  0  1  0   
+Glavine T, p          2  0  0  0   Dessens E, p          1  0  0  0   
+Reed S, p             0  0  0  0   Clark B, ph           1  0  0  0   
+Remlinger M, p        0  0  0  0   Nichting C, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     27  3  3  3                        28  1 10  1
+
+Atlanta          000 030 00 --  3
+Cincinnati       010 000 00 --  1
+  0 outs when game ended.
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (W)         6.2 10  1  1  0  2
+Reed S (S)            0.1  0  0  0  0  0
+Remlinger M           0.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (L)         7.0  2  3  3  3  5
+Nichting C            1.0  1  0  0  0  1
+
+E -- Reese P
+DP -- Atlanta 2
+LOB -- Atlanta 5, Cincinnati 7
+2B -- Young D, Jones C
+HR -- Rivera R, Lockhart K
+SB -- DeRosa M
+SH -- Glavine T, Dessens E
+HBP -- by Dessens E (DeRosa M)
+T -- 2:23
+A -- 27458
+     Game of 7/19/2001 -- Atlanta at Cincinnati (D)
+
+  Atlanta            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Lockhart K, 2b        3  1  1  1   Reese P, ss           4  0  0  0   
+Garcia J, 2b          2  0  1  0   Tucker M, lf          3  0  0  0   
+Surhoff B, lf         4  0  0  0   Griffey K, cf         4  0  2  0   
+Jones A, cf           4  0  1  0   Young D, 1b           3  0  0  0   
+Jones C, 3b           4  0  0  0   Boone A, 3b           4  1  1  0   
+Martinez D, rf        4  1  4  1   Rivera R, rf          4  0  0  0   
+Lopez J, c            4  0  0  0   Stinnett K, c         3  0  0  0   
+Helms W, 1b           2  0  0  0   Graves D, p           0  0  0  0   
+DeRosa M, ss          4  0  1  0   Casey S, ph           1  0  1  1   
+Burkett J, p          3  0  0  0   Clark B, pr           0  0  0  0   
+Remlinger M, p        0  0  0  0   Guerrero W, 2b        4  0  3  0   
+Gilkey B, ph          1  0  0  0   Brower J, p           1  0  0  0   
+Karsay S, p           0  0  0  0   LaRue J, c            1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2  8  2                        32  1  7  1
+
+Atlanta          001 100 000 --  2
+Cincinnati       000 000 001 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Burkett J (W)         7.0  4  0  0  1  6
+Remlinger M           1.0  1  0  0  1  0
+Karsay S (S)          1.0  2  1  1  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Brower J (L)          7.0  6  2  2  2  6
+Graves D              2.0  2  0  0  0  3
+
+DP -- Atlanta 1
+LOB -- Atlanta 8, Cincinnati 7
+2B -- Griffey K, Martinez D, Boone A
+HR -- Lockhart K, Martinez D
+SB -- Garcia J
+SH -- Brower J
+WP -- Remlinger M
+T -- 2:32
+A -- 26039
+     Game of 7/27/2001 -- Florida at Cincinnati (N)
+
+  Florida            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Castillo L, 2b        3  0  2  2   Clark B, cf           3  3  0  0   
+Gonzalez A, ss        5  0  2  0   Walker T, 2b          5  2  2  3   
+Floyd C, lf           5  1  1  0   MacRae S, p           0  0  0  0   
+Lowell M, 3b          4  0  1  0   Graves D, p           0  0  0  0   
+Millar K, rf          4  1  2  0   Dunn A, rf            3  1  2  2   
+Lee D, 1b             4  1  1  3   Casey S, 1b           2  1  0  1   
+Johnson C, c          4  1  2  0   Boone A, 3b           4  1  2  4   
+Owens E, cf           4  1  1  0   Young D, lf           4  0  0  0   
+Clement M, p          1  0  0  0   LaRue J, c            4  0  2  0   
+Sanchez J, p          0  0  0  0   Reese P, ss           4  0  0  0   
+Fox A, ph             1  0  0  0   Davis L, p            2  1  1  0   
+Almanza A, p          0  0  0  0   Nichting C, p         0  0  0  0   
+Ruffin J, p           0  0  0  0   Guerrero W, ph        1  0  0  0   
+Mabry J, ph           1  0  0  0   Sullivan S, p         0  0  0  0   
+                                   Cromer D, ph          1  0  1  0   
+                                   Castro J, pr-2b       0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 12  5                        33 10 10 10
+
+Florida          002 000 030 --  5
+Cincinnati       021 030 22x -- 10
+
+  Florida              IP  H  R ER BB SO
+Clement M (L)*        4.0  6  6  6  2  2
+Sanchez J             2.0  0  0  0  0  2
+Almanza A             0.1  0  2  1  2  0
+Ruffin J              1.2  4  2  2  2  0
+
+  Cincinnati           IP  H  R ER BB SO
+Davis L (W)           5.2  7  2  2  1  5
+Nichting C            0.1  0  0  0  0  1
+Sullivan S            2.0  4  3  3  1  1
+MacRae S              0.2  1  0  0  1  0
+Graves D (S)          0.1  0  0  0  0  1
+  * Pitched to 4 batters in 5th
+
+E -- Lowell M
+DP -- Florida 1
+LOB -- Florida 9, Cincinnati 7
+2B -- LaRue J, Castillo L, Davis L, Walker T, Lowell M, Floyd C, Cromer D, Dunn A
+HR -- Boone A, Dunn A, Lee D
+SH -- Clement M
+SF -- Boone A, Casey S
+HBP -- by MacRae S (Lowell M)
+T -- 3:07
+A -- 26058
+     Game of 7/28/2001 -- Florida at Cincinnati (N)
+
+  Florida            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Castillo L, 2b        4  0  2  0   Walker T, 2b          4  0  1  0   
+Gonzalez A, ss        4  0  2  0   Dunn A, rf            3  1  0  0   
+Floyd C, lf           4  0  1  0   Griffey K, cf         3  1  1  1   
+Lowell M, 3b          3  0  0  0   Casey S, 1b           3  1  0  0   
+Millar K, rf          4  0  0  0   Rivera R, lf          0  0  0  0   
+Lee D, 1b             4  0  0  0   Boone A, 3b           3  1  0  0   
+Johnson C, c          3  0  0  0   Young D, lf-1b        3  1  1  4   
+Owens E, cf           3  0  1  0   LaRue J, c            3  0  1  0   
+Penny B, p            2  0  0  0   Reese P, ss           2  0  0  0   
+Knotts G, p           0  0  0  0   Dessens E, p          3  0  0  0   
+Fox A, ph             1  0  0  0                                      
+Darensbourg V, p      0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  0  6  0                        27  5  4  5
+
+Florida          000 000 000 --  0
+Cincinnati       100 004 00x --  5
+
+  Florida              IP  H  R ER BB SO
+Penny B (L)           6.0  3  5  5  5  6
+Knotts G              1.0  1  0  0  0  0
+Darensbourg V         1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (W)         9.0  6  0  0  1  6
+
+DP -- Florida 1
+LOB -- Florida 6, Cincinnati 3
+HR -- Griffey K, Young D
+CS -- Castillo L
+T -- 2:23
+A -- 29145
+     Game of 7/29/2001 -- Florida at Cincinnati (D)
+
+  Florida            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Castillo L, 2b        4  2  2  0   Walker T, 2b          5  0  2  3   
+Gonzalez A, ss        3  0  0  0   Dunn A, rf            5  0  0  0   
+Mabry J, rf           4  0  2  2   Griffey K, cf         5  1  2  0   
+Lowell M, 3b          4  0  0  0   Casey S, 1b           4  1  2  0   
+Millar K, lf          4  0  1  0   Boone A, 3b           4  2  3  1   
+Lee D, 1b             4  1  2  0   Rivera R, lf          2  1  0  0   
+Owens E, cf           3  1  1  1   LaRue J, c            3  0  0  1   
+Darensbourg V, p      0  0  0  0   Reese P, ss           3  1  1  3   
+Looper B, p           0  0  0  0   Brower J, p           1  0  0  0   
+Sanchez J, p          0  0  0  0   Nichting C, p         0  0  0  0   
+Fox A, ph             0  0  0  0   Guerrero W, ph        1  1  1  0   
+Redmond M, c          4  0  1  1   Reitsma C, p          0  0  0  0   
+Burnett A, p          2  0  0  0   Cromer D, ph          0  0  0  0   
+Thompson R, cf        2  0  0  0   Clark B, ph           0  1  0  0   
+                                   Sullivan S, p         0  0  0  0   
+                                   Young D, ph           1  0  0  0   
+                                   MacRae S, p           0  0  0  0   
+                                   Graves D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        34  8 11  8
+
+Florida          100 210 000 --  4
+Cincinnati       000 015 20x --  8
+
+  Florida              IP  H  R ER BB SO
+Burnett A (L)         5.2  8  5  5  0  5
+Darensbourg V         0.2  2  2  2  1  0
+Looper B              0.2  1  1  1  2  0
+Sanchez J             1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Brower J              4.1  8  4  4  0  1
+Nichting C            0.2  0  0  0  0  0
+Reitsma C (W)         1.0  0  0  0  0  2
+Sullivan S            1.0  0  0  0  0  1
+MacRae S*             1.0  1  0  0  1  1
+Graves D              1.0  0  0  0  0  1
+  * Pitched to 1 batter in 9th
+
+DP -- Florida 1, Cincinnati 1
+LOB -- Florida 5, Cincinnati 7
+2B -- Mabry J 2, Lee D, Owens E, Redmond M, Castillo L, Walker T 2, Boone A, Reese P
+SB -- Boone A
+SH -- Gonzalez A
+HBP -- by Burnett A (Rivera R), by Looper B (LaRue J)
+PB -- LaRue J
+T -- 2:56
+A -- 22765
+     Game of 8/7/2001 -- San Francisco at Cincinnati (N)
+
+  San Francisco      AB  R  H RBI    Cincinnati         AB  R  H RBI
+Murray C, cf          5  2  2  0   Guerrero W, 2b        5  0  3  1   
+Aurilia R, ss         5  0  1  2   Dunn A, rf            4  1  2  0   
+Bonds B, lf           5  1  3  3   Griffey K, cf         5  1  1  0   
+Kent J, 2b            5  1  1  0   Casey S, 1b           5  0  2  0   
+Galarraga A, 1b       5  1  1  2   Boone A, 3b           3  0  1  1   
+Davis E, rf           3  0  1  0   Young D, lf           5  0  0  0   
+Benard M, ph-rf       2  1  1  1   LaRue J, c            5  0  0  0   
+Santiago B, c         4  1  2  0   Reese P, ss           0  0  0  0   
+Martinez R, 3b        4  0  0  0   Castro J, ss          4  1  1  0   
+Rueter K, p           2  1  2  0   Davis L, p            2  0  0  0   
+Feliz P, ph           1  0  1  0   Cromer D, ph          1  0  0  0   
+Worrell T, p          0  0  0  0   Sullivan S, p         0  0  0  0   
+Fultz A, p            0  0  0  0   Clark B, ph           1  0  0  0   
+Rodriguez F, p        0  0  0  0   Graves D, p           0  0  0  0   
+Vander Wal J, ph      0  0  0  0   Nichting C, p         0  0  0  0   
+Christiansen J, p     0  0  0  0                                      
+Snow J, ph            1  1  1  0                                      
+Boehringer B, p       0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42  9 16  8                        40  3 10  2
+
+San Francisco    102 000 000 06 --  9
+Cincinnati       000 101 100 00 --  3
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K              6.0  5  2  2  1  4
+Worrell T             0.2  2  1  1  0  2
+Fultz A               1.0  0  0  0  0  0
+Rodriguez F           1.1  1  0  0  0  3
+Christiansen J (W)    1.0  2  0  0  0  1
+Boehringer B          1.0  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Davis L               7.0  9  3  2  1  1
+Sullivan S            2.0  1  0  0  2  1
+Graves D (L)*         1.0  4  4  4  1  1
+Nichting C            1.0  2  2  0  0  0
+  * Pitched to 4 batters in 11th
+
+E -- Davis L, Young D, Boone A
+DP -- San Francisco 2, Cincinnati 3
+LOB -- San Francisco 6, Cincinnati 7
+2B -- Bonds B, Guerrero W 2, Feliz P
+3B -- Kent J
+HR -- Bonds B, Galarraga A, Benard M
+CS -- Bonds B, Santiago B
+SH -- Vander Wal J
+SF -- Boone A, Aurilia R
+HBP -- by Rueter K (Dunn A)
+WP -- Worrell T
+T -- 3:32
+A -- 23588
+     Game of 8/8/2001 -- San Francisco at Cincinnati (N)
+
+  San Francisco      AB  R  H RBI    Cincinnati         AB  R  H RBI
+Benard M, cf          6  0  1  1   Walker T, 2b          3  2  2  1   
+Aurilia R, ss         4  0  0  0   Dunn A, rf            3  3  1  2   
+Bonds B, lf           3  1  0  0   Griffey K, cf         4  1  1  2   
+Kent J, 2b            5  2  4  0   Casey S, 1b           4  0  1  1   
+Vander Wal J, rf      5  3  4  1   Fernandez O, p        0  0  0  0   
+Snow J, 1b            5  1  2  2   Graves D, p           0  0  0  0   
+Santiago B, c         4  0  1  1   Boone A, 3b           4  1  2  3   
+Martinez R, 3b        5  1  2  3   Young D, lf-1b        4  1  2  1   
+Schmidt J, p          2  0  0  0   LaRue J, c            4  0  1  1   
+Fultz A, p            0  0  0  0   Castro J, ss          4  1  1  0   
+Gomes W, p            0  0  0  0   Dessens E, p          1  0  0  0   
+Davis E, ph           1  0  0  0   Mercado H, p          0  0  0  0   
+Worrell T, p          0  0  0  0   Cromer D, ph          1  1  1  0   
+Galarraga A, ph       1  1  1  0   MacRae S, p           1  0  0  0   
+Christiansen J, p     0  0  0  0   Brower J, p           0  0  0  0   
+Guzman E, ph          1  0  0  0   Clark B, ph-lf        1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     42  9 15  8                        34 11 13 11
+
+San Francisco    020 030 022 --  9
+Cincinnati       000 261 02x -- 11
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J (L)*        4.0  5  6  5  3  2
+Fultz A               0.1  0  0  0  1  0
+Gomes W               0.2  3  2  2  0  0
+Worrell T             2.0  3  1  1  0  3
+Christiansen J        1.0  2  2  2  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E             4.2  7  5  5  2  3
+Mercado H (W)         0.1  1  0  0  0  0
+MacRae S              2.2  4  2  2  0  2
+Brower J              0.1  0  0  0  2  0
+Fernandez O+          0.0  2  2  2  0  0
+Graves D (S)          1.0  1  0  0  0  1
+  * Pitched to 4 batters in 5th
+  + Pitched to 2 batters in 9th
+
+E -- Kent J
+DP -- San Francisco 1
+LOB -- San Francisco 10, Cincinnati 5
+2B -- Martinez R 2, Snow J, Castro J, Boone A, Walker T, Kent J, Young D, Benard M, Santiago B
+3B -- Young D
+HR -- Dunn A
+CS -- Walker T
+SH -- Walker T
+SF -- Griffey K
+PB -- LaRue J
+T -- 3:39
+A -- 22114
+     Game of 8/9/2001 -- San Francisco at Cincinnati (N)
+
+  San Francisco      AB  R  H RBI    Cincinnati         AB  R  H RBI
+Murray C, cf          5  0  1  0   Walker T, 2b          5  0  0  0   
+Aurilia R, ss         5  0  1  0   Dunn A, rf            3  2  1  1   
+Bonds B, lf           5  1  1  1   Griffey K, cf         4  1  2  2   
+Kent J, 2b            5  2  2  1   Casey S, 1b           4  0  1  0   
+Galarraga A, 1b       4  0  1  0   Boone A, 3b           4  0  1  0   
+Vander Wal J, rf      4  1  1  1   Young D, lf           4  0  1  0   
+Nen R, p              0  0  0  0   Stinnett K, c         3  1  1  1   
+Feliz P, 3b           3  1  2  0   Castro J, ss          4  0  1  0   
+Snow J, ph            0  0  0  0   Winchester S, p       1  0  0  0   
+Rodriguez F, p        0  0  0  0   Cromer D, ph          1  0  0  0   
+Davis E, rf           0  0  0  0   Brower J, p           0  0  0  0   
+Guzman E, c           3  1  2  2   Rivera R, ph          1  0  0  0   
+Santiago B, c         0  0  0  0   Sullivan S, p         0  0  0  0   
+Ortiz R, p            2  0  0  0   Guerrero W, ph        1  0  1  0   
+Martinez R, ph-3b     1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6 11  5                        35  4  9  4
+
+San Francisco    021 110 010 --  6
+Cincinnati       200 001 100 --  4
+
+  San Francisco        IP  H  R ER BB SO
+Ortiz R (W)           7.0  6  4  4  1  7
+Rodriguez F           1.0  1  0  0  0  1
+Nen R (S)             1.0  2  0  0  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Winchester S (L)      5.0  9  5  4  0  1
+Brower J              2.0  0  0  0  1  1
+Sullivan S            2.0  2  1  1  3  1
+
+E -- Young D, Castro J
+DP -- San Francisco 1
+LOB -- San Francisco 9, Cincinnati 6
+2B -- Aurilia R, Guzman E, Young D, Kent J
+HR -- Griffey K, Vander Wal J, Bonds B, Guzman E, Kent J, Dunn A, Stinnett K
+SB -- Vander Wal J
+CS -- Feliz P
+SF -- Guzman E
+PB -- Stinnett K
+T -- 2:58
+A -- 23369
+     Game of 8/10/2001 -- Colorado at Cincinnati (N)
+
+  Colorado           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Pierre J, cf          6  2  1  1   Walker T, 2b          4  1  1  1   
+Ortiz J, 2b           6  3  5  4   Dunn A, rf            4  2  2  1   
+Walker L, rf          6  1  2  4   Griffey K, cf         4  1  1  2   
+Helton T, 1b          5  1  1  0   Casey S, 1b           5  1  2  1   
+Norton G, 3b          2  1  1  1   Boone A, 3b           4  0  1  2   
+Butler B, 3b          2  0  0  0   Young D, lf           4  0  0  0   
+Ochoa A, lf           5  1  1  0   LaRue J, c            2  0  0  0   
+Uribe J, ss           4  2  2  0   Castro J, ss          4  1  2  0   
+Melhuse A, c          4  3  2  3   Reitsma C, p          1  1  0  0   
+Chacon S, p           2  0  0  0   Nichting C, p         0  0  0  0   
+Miceli D, p           0  0  0  0   Clark B, ph           1  0  0  0   
+Little M, ph          1  1  0  0   Mercado H, p          0  0  0  0   
+White G, p            0  0  0  0   Rivera R, ph          1  0  0  0   
+Hampton M, ph         0  1  0  0   MacRae S, p           0  0  0  0   
+Powell J, p           0  0  0  0                                      
+Shumpert T, ph        1  0  0  0                                      
+Myers M, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     44 16 15 13                        34  7  9  7
+
+Colorado         000 136 033 -- 16
+Cincinnati       004 021 000 --  7
+
+  Colorado             IP  H  R ER BB SO
+Chacon S*             4.0  6  6  6  3  4
+Miceli D (W)          1.0  0  0  0  0  1
+White G               2.0  1  1  1  0  0
+Powell J              1.0  1  0  0  0  1
+Myers M               1.0  1  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C (L)         5.1  7  8  6  2  2
+Nichting C            0.2  2  2  0  0  0
+Mercado H             2.0  2  3  3  2  3
+MacRae S              1.0  4  3  3  0  0
+  * Pitched to 3 batters in 5th
+
+E -- Ortiz J, Castro J 2
+DP -- Colorado 2
+LOB -- Colorado 5, Cincinnati 6
+2B -- Castro J 2, Casey S, Boone A, Ortiz J, Helton T, Pierre J, Melhuse A
+HR -- Ortiz J, Griffey K, Walker T, Walker L
+SB -- LaRue J, Melhuse A
+CS -- LaRue J
+SH -- Reitsma C
+HBP -- by Chacon S (LaRue J) 2
+T -- 3:28
+A -- 22778
+     Game of 8/11/2001 -- Colorado at Cincinnati (N)
+
+  Colorado           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Pierre J, cf          4  0  0  0   Walker T, 2b          4  2  2  0   
+Ortiz J, 2b           5  1  2  1   Graves D, p           0  0  0  0   
+Walker L, rf          2  0  0  0   Dunn A, rf            5  0  1  2   
+Helton T, 1b          4  0  1  1   Griffey K, cf         4  1  2  0   
+Norton G, 3b          3  0  1  0   Casey S, 1b           3  1  1  0   
+Shumpert T, lf        4  1  1  0   Boone A, 3b           4  1  1  2   
+Melhuse A, c          3  0  0  1   Young D, lf           4  0  1  2   
+Uribe J, ss           4  0  1  0   LaRue J, c            4  1  2  1   
+Bohanon B, p          2  1  1  0   Castro J, ss-2b       3  1  2  0   
+Davis K, p            0  0  0  0   Acevedo J, p          1  0  0  0   
+Little M, ph          1  0  1  0   Clark B, ph           0  0  0  0   
+Speier J, p           0  0  0  0   Brower J, p           0  0  0  0   
+Jimenez J, p          0  0  0  0   Reese P, ph-ss        1  0  0  0   
+Ochoa A, ph           1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  9  3                        33  7 12  7
+
+Colorado         012 000 000 --  3
+Cincinnati       013 200 01x --  7
+
+  Colorado             IP  H  R ER BB SO
+Bohanon B (L)*        5.0  9  6  6  2  1
+Davis K               1.0  0  0  0  0  0
+Speier J              1.0  1  0  0  0  0
+Jimenez J             1.0  2  1  1  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Acevedo J (W)         6.0  6  3  2  2  5
+Brower J              2.0  1  0  0  1  3
+Graves D              1.0  2  0  0  0  0
+  * Pitched to 1 batter in 6th
+
+E -- Casey S
+DP -- Colorado 1, Cincinnati 1
+LOB -- Colorado 8, Cincinnati 7
+2B -- Bohanon B, Dunn A, Little M, Ochoa A
+3B -- Shumpert T
+HR -- Boone A, LaRue J
+SB -- Ortiz J, Reese P
+SH -- Pierre J, Acevedo J, Clark B
+SF -- Melhuse A
+HBP -- by Bohanon B (Walker T)
+PB -- Melhuse A
+T -- 3:03
+A -- 28751
+     Game of 8/12/2001 -- Colorado at Cincinnati (D)
+
+  Colorado           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Little M, cf          4  0  0  0   Walker T, 2b          5  1  2  0   
+White G, p            0  0  0  0   Sullivan S, p         0  0  0  0   
+Powell J, p           0  0  0  0   LaRue J, c            1  0  0  0   
+Uribe J, ph-ss        1  0  1  1   Young D, lf           4  0  1  0   
+Ortiz J, 2b           4  1  0  0   Dunn A, rf            3  1  1  1   
+Walker L, rf          4  1  4  0   Casey S, 1b           4  1  3  2   
+Cirillo J, 3b         3  0  0  1   Boone A, 3b           5  1  1  0   
+Helton T, 1b          4  1  1  0   Rivera R, cf          4  1  2  1   
+Ochoa A, lf           4  0  0  0   Stinnett K, c         5  1  2  1   
+Butler B, ss          3  0  0  0   Graves D, p           0  0  0  0   
+Norton G, ph          1  1  1  1   Castro J, ss-2b       5  0  2  1   
+Jimenez J, p          0  0  0  0   Davis L, p            3  0  0  0   
+Fasano S, c           2  1  1  0   Cromer D, ph          0  0  0  0   
+Pierre J, ph-cf       2  1  1  2   Reese P, pr-ss        0  0  0  0   
+Neagle D, p           2  1  2  1   Griffey K, ph         1  0  0  0   
+Myers M, p            0  0  0  0                                      
+Miceli D, p           0  0  0  0                                      
+Shumpert T, ph        1  0  0  0                                      
+Melhuse A, c          1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  7 12  6                        40  6 14  6
+
+Colorado         000 020 005 --  7
+Cincinnati       100 102 020 --  6
+
+  Colorado             IP  H  R ER BB SO
+Neagle D              5.2 10  4  4  4  4
+Myers M*              0.0  0  0  0  1  0
+Miceli D              1.1  1  0  0  1  2
+White G               0.2  2  2  2  0  1
+Powell J (W)          0.1  1  0  0  0  1
+Jimenez J (S)         1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Davis L               7.0  6  2  2  0  2
+Sullivan S            1.1  2  3  3  1  0
+Graves D (L)          0.2  4  2  2  0  1
+  * Pitched to 1 batter in 6th
+
+E -- Stinnett K
+DP -- Colorado 1, Cincinnati 2
+LOB -- Colorado 4, Cincinnati 13
+2B -- Neagle D, Fasano S, Casey S, Stinnett K, Castro J, Boone A, Norton G
+3B -- Rivera R
+HR -- Dunn A, Neagle D, Casey S
+SB -- Rivera R
+SF -- Cirillo J
+T -- 3:14
+A -- 23887
+     Game of 8/17/2001 -- Milwaukee at Cincinnati (N)
+
+  Milwaukee          AB  R  H RBI    Cincinnati         AB  R  H RBI
+White D, cf           5  0  1  0   Walker T, 2b          4  1  2  0   
+Loretta M, 2b         5  1  2  0   Dunn A, rf            4  0  0  0   
+Burnitz J, rf         4  2  2  2   Griffey K, cf         3  0  1  1   
+Sexson R, 1b          5  0  0  0   Casey S, 1b           4  0  0  0   
+Hernandez J, ss       5  0  2  1   Young D, 3b           4  0  3  0   
+Collier L, lf         4  1  2  0   Clark B, lf           4  0  0  0   
+Coolbaugh M, 3b       4  1  2  1   LaRue J, c            3  0  1  0   
+Blanco H, c           3  0  1  1   Castro J, ss          4  0  1  0   
+Suzuki M, p           3  0  0  0   Davis L, p            2  0  0  0   
+Painter L, p          0  0  0  0   MacRae S, p           0  0  0  0   
+Fox C, p              0  0  0  0   Guerrero W, ph        1  0  0  0   
+Sweeney M, ph         0  0  0  0   Rijo J, p             0  0  0  0   
+Leskanic C, p         0  0  0  0   Cromer D, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  5 12  5                        34  1  8  1
+
+Milwaukee        000 212 000 --  5
+Cincinnati       000 010 000 --  1
+
+  Milwaukee            IP  H  R ER BB SO
+Suzuki M (W)          6.1  7  1  1  4  4
+Painter L             1.0  1  0  0  0  1
+Fox C                 0.2  0  0  0  0  1
+Leskanic C            1.0  0  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Davis L (L)           5.1 10  5  5  1  2
+MacRae S              1.2  0  0  0  0  2
+Rijo J                2.0  2  0  0  2  2
+
+DP -- Milwaukee 2
+LOB -- Milwaukee 9, Cincinnati 10
+2B -- Collier L 2, Castro J, Coolbaugh M, LaRue J, Loretta M
+3B -- Burnitz J
+HR -- Burnitz J
+SB -- Dunn A
+WP -- Suzuki M 2
+PB -- Blanco H 2
+T -- 3:09
+A -- 29214
+     Game of 8/18/2001 -- Milwaukee at Cincinnati (N)
+
+  Milwaukee          AB  R  H RBI    Cincinnati         AB  R  H RBI
+White D, cf           5  2  2  1   Walker T, 2b          4  1  1  2   
+Loretta M, 2b         4  1  2  1   Dunn A, rf            3  1  1  2   
+Burnitz J, rf         4  1  2  0   Griffey K, cf         5  1  1  1   
+Sexson R, 1b          5  0  0  0   Casey S, 1b           4  0  1  0   
+Sweeney M, lf         4  0  1  0   Young D, 3b           3  0  0  0   
+Mouton J, lf          1  0  0  0   Brower J, p           0  0  0  0   
+Painter L, p          0  0  0  0   Rivera R, lf          4  1  2  0   
+Hernandez J, ss       2  0  0  0   Reese P, ss           3  1  0  0   
+Lopez L, 3b           4  0  0  0   LaRue J, c            4  0  2  0   
+Fox C, p              0  0  0  0   Dessens E, p          1  0  0  0   
+DeJean M, p           0  0  0  0   Graves D, p           0  0  0  0   
+Collier L, lf         0  0  0  0   Clark B, ph           0  0  0  0   
+Brown K, c            4  2  2  2   Riedling J, p         0  0  0  0   
+Haynes J, p           3  0  0  0   Castro J, 3b          1  0  0  0   
+King R, p             0  0  0  0                                      
+Coolbaugh M, 3b       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6  9  4                        32  5  8  5
+
+Milwaukee        000 001 203 --  6
+Cincinnati       000 000 005 --  5
+
+  Milwaukee            IP  H  R ER BB SO
+Haynes J (W)          6.1  5  0  0  4  4
+King R                1.1  0  0  0  2  1
+Fox C                 0.1  0  0  0  0  1
+DeJean M              0.2  1  3  0  1  2
+Painter L             0.1  2  2  2  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (L)         6.1  6  3  3  3  1
+Graves D              0.2  1  0  0  0  1
+Riedling J            1.0  0  0  0  0  0
+Brower J              1.0  2  3  1  1  1
+
+E -- Dunn A, Mouton J
+DP -- Milwaukee 2
+LOB -- Milwaukee 8, Cincinnati 8
+2B -- Burnitz J, Rivera R
+3B -- Loretta M
+HR -- White D, Brown K 2, Dunn A, Griffey K
+CS -- Walker T
+SH -- Dessens E
+WP -- DeJean M
+T -- 3:13
+A -- 26241
+     Game of 8/19/2001 -- Milwaukee at Cincinnati (D)
+
+  Milwaukee          AB  R  H RBI    Cincinnati         AB  R  H RBI
+White D, cf           4  2  2  0   Walker T, 2b          3  1  1  0   
+Loretta M, 2b         4  1  1  0   Clark B, lf           3  0  0  0   
+Burnitz J, rf         4  2  3  1   Nichting C, p         0  0  0  0   
+Sexson R, 1b          4  1  1  2   Castro J, ph          1  0  0  0   
+Hernandez J, ss       4  0  2  2   Brower J, p           0  0  0  0   
+Collier L, lf         3  0  1  0   Casey S, ph           1  0  0  0   
+Coolbaugh M, 3b       4  0  0  0   Griffey K, cf         3  0  1  1   
+Blanco H, c           5  0  0  0   Dunn A, rf            5  0  0  0   
+Neugebauer N, p       3  0  0  0   Young D, 3b           4  1  1  0   
+Buddie M, p           0  0  0  0   Cromer D, 1b          3  1  0  0   
+Mouton J, ph          1  0  0  0   Reese P, ss           4  1  1  0   
+Fox C, p              0  0  0  0   Stinnett K, c         4  0  1  1   
+DeJean M, p           0  0  0  0   Reyes D, p            1  0  0  0   
+                                   MacRae S, p           0  0  0  0   
+                                   Guerrero W, ph-lf     3  0  3  2   
+                     -- -- -- --                        -- -- -- --
+                     36  6 10  5                        35  4  8  4
+
+Milwaukee        110 400 000 --  6
+Cincinnati       000 012 001 --  4
+
+  Milwaukee            IP  H  R ER BB SO
+Neugebauer N (W)      5.0  3  1  1  3  9
+Buddie M              1.0  3  2  2  1  0
+Fox C                 1.0  0  0  0  1  1
+DeJean M (S)          2.0  2  1  1  0  3
+
+  Cincinnati           IP  H  R ER BB SO
+Reyes D (L)           3.2  8  6  6  4  3
+MacRae S              1.1  0  0  0  2  0
+Nichting C            2.0  1  0  0  1  4
+Brower J              2.0  1  0  0  1  3
+
+E -- Stinnett K 2, Blanco H
+DP -- Cincinnati 1
+LOB -- Milwaukee 11, Cincinnati 9
+2B -- Hernandez J, Loretta M, White D, Young D
+3B -- Sexson R
+SB -- White D 2, Reese P, Griffey K
+T -- 3:17
+A -- 20577
+     Game of 8/20/2001 -- St. Louis at Cincinnati (N)
+
+  St. Louis          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Vina F, 2b            5  0  1  0   Reese P, ss           5  1  1  0   
+Robinson K, lf        5  1  1  0   Guerrero W, lf        5  0  0  0   
+Drew J, rf            5  2  2  1   Castro J, pr-3b       1  0  0  0   
+Pujols A, 3b          3  1  1  1   Griffey K, cf         5  1  3  2   
+Veres D, p            0  0  0  0   Young D, 3b-lf        5  0  1  1   
+Kline S, p            0  0  0  0   Casey S, 1b           4  0  1  0   
+Timlin M, p           0  0  0  0   Rivera R, rf          3  0  1  0   
+Bonilla B, ph         1  0  0  0   Walker T, 2b          5  1  4  1   
+Benes A, p            0  0  0  0   LaRue J, c            3  0  0  0   
+Edmonds J, cf         5  0  1  1   Dunn A, ph            1  0  0  0   
+McGwire M, 1b         4  0  1  0   Stinnett K, c         1  1  1  1   
+Renteria E, ss        3  0  0  0   Reitsma C, p          3  1  1  0   
+Marrero E, c          5  0  1  0   Sullivan S, p         0  0  0  0   
+Williams W, p         2  0  0  0   Clark B, ph           1  0  0  0   
+Cairo M, ph           1  0  0  0   Graves D, p           0  0  0  0   
+Hackman L, p          0  0  0  0   Reyes D, ph           1  0  0  0   
+Matthews M, p         0  0  0  0   Davis L, pr           0  0  0  0   
+Stechschulte G, p     0  0  0  0   Riedling J, p         0  0  0  0   
+Paquette C, 3b        2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  4  8  3                        43  5 13  5
+
+St. Louis        000 100 010 20 --  4
+Cincinnati       001 000 001 21 --  5
+  1 out when winning run was scored.
+
+  St. Louis            IP  H  R ER BB SO
+Williams W            6.0  7  1  1  1  6
+Hackman L             0.2  0  0  0  0  0
+Matthews M            1.0  0  0  0  0  0
+Stechschulte G*       0.0  0  0  0  1  0
+Veres D+              0.0  1  0  0  0  0
+Kline S               0.1  0  0  0  0  0
+Timlin M              1.0  2  1  1  0  0
+Benes A (L)           1.1  3  3  3  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C             8.0  6  2  2  2  6
+Sullivan S            1.0  0  0  0  0  2
+Graves D              1.0  2  2  2  1  0
+Riedling J (W)        1.0  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 8th
+
+E -- Timlin M, Casey S, Renteria E
+DP -- St. Louis 1
+LOB -- St. Louis 9, Cincinnati 12
+2B -- Reitsma C, Young D, Walker T, Casey S
+HR -- Pujols A, Drew J, Walker T, Stinnett K, Griffey K
+CS -- Walker T
+SH -- Reese P, Renteria E
+HBP -- by Williams W (Casey S), by Williams W (Rivera R), by Sullivan S (Renteria E)
+T -- 3:58
+A -- 19323
+     Game of 8/21/2001 -- St. Louis at Cincinnati (N)
+
+  St. Louis          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Vina F, 2b            5  1  2  0   Reese P, ss           5  1  3  0   
+Paquette C, lf-3b     5  2  2  1   Dunn A, lf            4  1  2  2   
+Drew J, rf-cf         4  2  2  1   Griffey K, cf         4  1  1  2   
+Pujols A, 3b          3  2  2  3   Nichting C, p         0  0  0  0   
+Robinson K, lf-rf     1  0  0  0   Castro J, ph          1  0  0  0   
+Edmonds J, cf         4  2  2  3   Young D, 3b           5  1  3  0   
+Cairo M, ph-lf        1  0  1  0   Casey S, 1b           5  0  0  0   
+McGwire M, 1b         5  1  1  2   Rivera R, rf-cf       4  0  1  0   
+Renteria E, ss        5  0  1  0   Walker T, 2b          4  0  2  1   
+Matheny M, c          5  0  0  0   LaRue J, c            4  1  0  0   
+Hermanson D, p        3  0  0  0   Acevedo J, p          0  0  0  0   
+Matthews M, p         1  1  1  1   MacRae S, p           1  0  0  0   
+Hackman L, p          0  0  0  0   Guerrero W, ph        1  0  0  0   
+                                   Rijo J, p             0  0  0  0   
+                                   Clark B, ph-rf        2  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     42 11 14 11                        40  6 13  6
+
+St. Louis        206 000 210 -- 11
+Cincinnati       000 002 112 --  6
+
+  St. Louis            IP  H  R ER BB SO
+Hermanson D (W)       6.2  8  3  2  1  1
+Matthews M            1.1  2  1  1  0  2
+Hackman L             1.0  3  2  2  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Acevedo J (L)*        2.0  7  8  8  2  2
+MacRae S              3.0  2  0  0  0  1
+Rijo J                2.0  3  2  2  0  2
+Nichting C            2.0  2  1  1  0  0
+  * Pitched to 6 batters in 3rd
+
+E -- Renteria E, Pujols A, Reese P
+DP -- St. Louis 1
+LOB -- St. Louis 6, Cincinnati 8
+2B -- Reese P 2, Pujols A, Dunn A, Walker T
+HR -- Paquette C, Drew J, McGwire M, Griffey K, Edmonds J, Matthews M, Clark B, Dunn A
+WP -- Matthews M
+T -- 3:03
+A -- 19571
+     Game of 8/22/2001 -- St. Louis at Cincinnati (N)
+
+  St. Louis          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Vina F, 2b            4  1  1  0   Reese P, ss           3  0  1  0   
+Paquette C, lf-3b     3  0  2  0   Dunn A, lf            4  0  0  1   
+Drew J, rf            3  0  0  0   Sullivan S, p         0  0  0  0   
+Pujols A, 3b          3  0  0  1   Graves D, p           0  0  0  0   
+Stechschulte G, p     0  0  0  0   Griffey K, cf         3  0  2  1   
+Edmonds J, cf         4  0  0  0   Casey S, 1b           4  0  1  0   
+McGwire M, 1b         4  0  0  0   Rivera R, rf          4  0  0  0   
+Renteria E, ss        3  0  2  0   Walker T, 2b          4  0  1  0   
+Matheny M, c          2  0  0  0   LaRue J, c            4  1  1  0   
+Bonilla B, ph         1  0  0  0   Castro J, 3b          3  1  1  0   
+Marrero E, c          1  0  0  0   Davis L, p            2  1  1  1   
+Kile D, p             1  0  0  0   Clark B, ph-lf        1  0  0  0   
+Robinson K, ph-lf     1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        32  3  8  3
+
+St. Louis        100 000 000 --  1
+Cincinnati       030 000 00x --  3
+
+  St. Louis            IP  H  R ER BB SO
+Kile D (L)            7.0  7  3  3  2  3
+Stechschulte G        1.0  1  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Davis L (W)           7.0  2  1  0  4  2
+Sullivan S            0.1  2  0  0  0  0
+Graves D (S)          1.2  1  0  0  0  2
+
+E -- Walker T
+DP -- Cincinnati 2
+LOB -- St. Louis 7, Cincinnati 7
+2B -- Griffey K, Reese P, Renteria E
+SH -- Drew J
+WP -- Stechschulte G
+T -- 2:32
+A -- 19334
+     Game of 8/23/2001 -- St. Louis at Cincinnati (D)
+
+  St. Louis          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Vina F, 2b            4  0  1  0   Reese P, ss           5  2  3  4   
+Benes A, p            0  0  0  0   Dunn A, lf            4  1  1  1   
+Polanco P, ss         4  0  1  0   Riedling J, p         0  0  0  0   
+Drew J, rf            4  0  3  0   Sullivan S, p         0  0  0  0   
+Pujols A, 3b          4  1  1  1   Cromer D, ph-1b       1  0  0  0   
+Edmonds J, cf         2  0  0  0   Griffey K, cf         5  2  4  2   
+Matthews M, p         0  0  0  0   Guerrero W, lf        0  0  0  0   
+Paquette C, lf        1  0  0  0   Casey S, 1b           5  1  2  1   
+Bonilla B, 1b         3  0  1  0   MacRae S, p           0  0  0  0   
+Cairo M, lf-2b        4  0  1  0   Rivera R, rf-cf       5  1  1  0   
+Marrero E, c          4  1  1  1   Walker T, 2b          4  0  1  1   
+Smith B, p            2  0  0  0   Stinnett K, c         2  3  2  1   
+Robinson K, cf        2  0  0  0   Castro J, 3b          3  1  1  0   
+                                   Dessens E, p          2  0  2  0   
+                                   Clark B, ph-lf-rf     2  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     34  2  9  2                        38 12 18 12
+
+St. Louis        000 011 000 --  2
+Cincinnati       013 102 05x -- 12
+
+  St. Louis            IP  H  R ER BB SO
+Smith B (L)           5.2 12  7  6  1  3
+Matthews M            0.1  1  0  0  0  0
+Benes A               2.0  5  5  5  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (W)         6.0  6  2  2  2  1
+Riedling J            1.1  2  0  0  0  2
+Sullivan S            0.2  0  0  0  0  0
+MacRae S              1.0  1  0  0  0  0
+
+E -- Edmonds J
+DP -- Cincinnati 2
+LOB -- St. Louis 7, Cincinnati 5
+2B -- Griffey K 2, Casey S, Reese P, Dunn A, Polanco P, Castro J
+HR -- Marrero E, Pujols A, Reese P, Griffey K
+SB -- Vina F
+CS -- Walker T
+SH -- Castro J
+SF -- Stinnett K
+T -- 2:51
+A -- 23887
+     Game of 8/31/2001 -- Pittsburgh at Cincinnati (N)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Nunez A, 2b           4  1  2  0   Reese P, ss           5  1  1  3   
+Wilson J, ss          4  0  0  0   Young D, 3b           4  1  2  0   
+Beimel J, p           0  0  0  0   Castro J, 3b          1  0  0  0   
+Ramirez A, 3b         4  1  2  2   Griffey K, cf         4  1  1  0   
+Giles B, lf           3  0  0  0   Rivera R, cf          1  0  0  0   
+Hyzdu A, lf           1  0  0  0   Casey S, 1b           5  2  3  0   
+Kendall J, c          3  0  0  0   Dunn A, lf            3  2  1  0   
+Osik K, c             0  0  0  0   MacRae S, p           0  0  0  0   
+Young K, 1b           3  1  2  0   Jennings R, rf        5  2  2  7   
+Lincoln M, p          0  0  0  0   Walker T, 2b          4  1  1  0   
+Lopez M, ss           1  0  0  0   LaRue J, c            1  1  1  0   
+Matthews G, cf        3  0  1  0   Reitsma C, p          4  0  0  0   
+Mackowiak R, rf       2  0  0  1   Piersoll C, p         0  0  0  0   
+Ritchie T, p          1  0  0  0   Clark B, lf           0  0  0  0   
+Marte D, p            1  0  0  0                                      
+Wilson C, 1b          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  7  3                        37 11 12 10
+
+Pittsburgh       210 000 000 --  3
+Cincinnati       004 700 00x -- 11
+
+  Pittsburgh           IP  H  R ER BB SO
+Ritchie T (L)         3.1  8  7  6  4  2
+Marte D               2.2  4  4  4  0  5
+Lincoln M             1.0  0  0  0  0  1
+Beimel J              1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C (W)         7.0  6  3  3  0  2
+Piersoll C            1.0  1  0  0  0  1
+MacRae S              1.0  0  0  0  1  1
+
+E -- Giles B, Ramirez A
+DP -- Cincinnati 2
+LOB -- Pittsburgh 3, Cincinnati 7
+2B -- Dunn A, Casey S, LaRue J, Ramirez A
+3B -- Jennings R, Nunez A
+HR -- Ramirez A, Jennings R, Reese P
+SB -- Dunn A, LaRue J
+SF -- Mackowiak R
+HBP -- by Marte D (LaRue J)
+T -- 2:34
+A -- 19090
+     Game of 9/1/2001 -- Pittsburgh at Cincinnati (N)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Nunez A, ss           3  1  0  0   Reese P, ss           4  0  0  0   
+Mackowiak R, rf       3  0  0  0   Dunn A, rf            4  0  0  0   
+Hyzdu A, ph-rf        1  0  0  0   Griffey K, cf         4  0  2  0   
+Ramirez A, 3b         5  0  1  0   Young D, lf           4  0  2  0   
+Giles B, lf           4  1  1  0   Casey S, 1b           4  0  0  0   
+Kendall J, c          4  2  1  0   Boone A, 3b           3  0  0  0   
+Osik K, c             0  0  0  0   Guerrero W, 2b        3  0  0  0   
+Young K, 1b           3  2  2  3   LaRue J, c            2  0  0  0   
+Matthews G, cf        4  1  2  1   Walker T, ph          1  0  0  0   
+Meares P, 2b          4  0  1  2   Stinnett K, c         0  0  0  0   
+Williams D, p         3  0  0  0   Acevedo J, p          1  0  0  0   
+Sauerbeck S, p        0  0  0  0   Clark B, ph           1  0  0  0   
+Morris W, ph          1  0  0  0   Brower J, p           0  0  0  0   
+Manzanillo J, p       0  0  0  0   Sullivan S, p         0  0  0  0   
+Olivares O, p         0  0  0  0   Jennings R, ph        1  0  1  0   
+                                   Mercado H, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7  8  6                        32  0  5  0
+
+Pittsburgh       020 000 050 --  7
+Cincinnati       000 000 000 --  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Williams D (W)        6.1  3  0  0  0  6
+Sauerbeck S           0.2  0  0  0  1  1
+Manzanillo J          1.0  1  0  0  0  0
+Olivares O            1.0  1  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Acevedo J (L)         6.0  4  2  1  0  4
+Brower J              1.2  3  5  5  3  0
+Sullivan S            0.1  0  0  0  0  0
+Mercado H             1.0  1  0  0  1  1
+
+E -- Young D, Casey S
+LOB -- Pittsburgh 7, Cincinnati 6
+2B -- Griffey K, Young K, Meares P, Young D
+SH -- Mackowiak R
+HBP -- by Brower J (Young K)
+WP -- Brower J
+T -- 2:38
+A -- 24308
+     Game of 9/2/2001 -- Pittsburgh at Cincinnati (D)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Matthews G, cf        5  1  1  0   Walker T, 2b          5  3  3  1   
+Wilson J, ss          5  1  2  0   Young D, 3b-1b        5  1  2  2   
+Beimel J, p           0  0  0  0   Griffey K, cf         5  0  3  1   
+Giles B, lf           4  3  3  2   Casey S, 1b           4  1  2  1   
+Ramirez A, 3b         5  1  2  2   Boone A, 3b           0  0  0  0   
+Kendall J, rf-c       5  0  1  1   Dunn A, lf            3  0  0  0   
+Wilson C, 1b          4  0  1  0   Jennings R, rf        3  0  0  0   
+Osik K, c             3  0  0  0   Rivera R, ph-rf       1  1  1  2   
+Lincoln M, p          0  0  0  0   Reese P, ss           4  1  2  0   
+Morris W, 2b          1  0  0  0   Stinnett K, c         2  1  1  1   
+Meares P, 2b          3  0  1  0   Sullivan S, p         0  0  0  0   
+Nunez A, ph-2b-ss     1  0  0  0   Clark B, ph           1  0  0  0   
+McKnight T, p         2  0  0  0   Graves D, p           0  0  0  0   
+Sauerbeck S, p        0  0  0  0   Davis L, p            1  0  0  0   
+Mackowiak R, rf       1  0  0  0   MacRae S, p           0  0  0  0   
+                                   Pickering C, ph       1  0  0  0   
+                                   Rijo J, p             0  0  0  0   
+                                   LaRue J, ph-c         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 11  5                        37  8 14  8
+
+Pittsburgh       004 010 100 --  6
+Cincinnati       100 112 21x --  8
+
+  Pittsburgh           IP  H  R ER BB SO
+McKnight T            5.1  8  4  4  2  2
+Sauerbeck S           1.0  3  2  2  0  1
+Lincoln M (L)         1.1  2  2  2  0  2
+Beimel J              0.1  1  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Davis L               2.2  5  4  4  3  2
+MacRae S              1.1  0  0  0  0  0
+Rijo J                2.0  2  1  1  0  4
+Sullivan S (W)        1.0  2  1  1  0  1
+Graves D (S)          2.0  2  0  0  0  2
+
+E -- Jennings R, Reese P 2, Rijo J
+LOB -- Pittsburgh 10, Cincinnati 8
+2B -- Ramirez A 2, Griffey K, Stinnett K, Walker T 2
+HR -- Walker T, Giles B, Rivera R
+SB -- Kendall J 2, Giles B 2
+SH -- McKnight T
+HBP -- by McKnight T (Stinnett K)
+T -- 3:17
+A -- 21881
+     Game of 9/3/2001 -- Houston at Cincinnati (D)
+
+  Houston            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Biggio C, 2b          3  0  0  0   Guerrero W, 3b        4  1  2  0   
+Vizcaino J, ss        4  0  1  0   Clark B, lf-rf        2  0  0  0   
+Dotel O, p            0  0  0  0   Griffey K, cf         4  0  2  0   
+Williams M, p         0  0  0  0   Young D, 1b-lf        4  0  0  0   
+Bagwell J, 1b         3  1  1  1   Rivera R, rf          2  1  1  1   
+Berkman L, lf         3  1  0  0   Casey S, ph-1b        0  0  0  0   
+Alou M, rf            2  0  0  0   Walker T, 2b          4  0  0  0   
+Hidalgo R, cf         3  0  1  0   Reese P, ss           3  1  3  0   
+Merced O, ph          1  0  0  0   LaRue J, c            3  0  0  0   
+Castilla V, 3b        4  0  1  1   Dessens E, p          2  0  0  0   
+Ausmus B, c           3  0  0  0   Stinnett K, ph        0  0  0  0   
+Ward D, ph            0  0  0  0   Dunn A, ph            1  0  0  0   
+Everett A, pr         0  0  0  0   Sullivan S, p         0  0  0  0   
+Villone R, p          2  0  0  0   Pickering C, ph       1  0  1  1   
+Cruz N, p             0  0  0  0   Graves D, p           0  0  0  0   
+Lugo J, ph-ss         2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  2                        30  3  9  2
+
+Houston          000 200 000 --  2
+Cincinnati       011 000 01x --  3
+
+  Houston              IP  H  R ER BB SO
+Villone R             5.2  5  2  2  6  4
+Cruz N                0.1  0  0  0  0  0
+Dotel O (L)           1.2  4  1  1  2  1
+Williams M            0.1  0  0  0  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E             6.0  4  2  2  5  5
+Sullivan S (W)        2.0  0  0  0  0  1
+Graves D (S)          1.0  0  0  0  1  1
+
+E -- Vizcaino J, Reese P, Bagwell J
+DP -- Houston 1, Cincinnati 1
+LOB -- Houston 7, Cincinnati 12
+2B -- Reese P
+HR -- Rivera R, Bagwell J
+SB -- Reese P, Guerrero W
+CS -- Young D
+T -- 3:45
+A -- 18612
+     Game of 9/4/2001 -- Houston at Cincinnati (N)
+
+  Houston            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Biggio C, 2b          6  1  0  2   Walker T, 2b          4  0  2  0   
+Lugo J, ss            3  1  2  0   Dunn A, lf            4  0  0  0   
+Bagwell J, 1b         5  0  1  0   Griffey K, cf         4  0  2  1   
+Berkman L, lf         4  0  3  3   Casey S, 1b           4  0  0  0   
+Alou M, rf            5  0  0  0   Young D, 3b           4  0  0  0   
+Hidalgo R, cf         5  1  2  0   Jennings R, rf        4  0  0  0   
+Castilla V, 3b        5  3  4  0   Reese P, ss           3  0  1  0   
+Ausmus B, c           5  0  1  0   Mercado H, p          0  0  0  0   
+Oswalt R, p           3  1  1  1   Brower J, p           0  0  0  0   
+Jackson M, p          0  0  0  0   Clark B, ph           1  0  0  0   
+Truby C, ph           0  0  0  0   Miller C, c           3  0  0  0   
+Williams M, p         0  0  0  0   Reyes D, p            1  0  1  0   
+                                   MacRae S, p           0  0  0  0   
+                                   Pickering C, ph       1  0  0  0   
+                                   Piersoll C, p         0  0  0  0   
+                                   Guerrero W, ss        1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     41  7 14  6                        34  1  7  1
+
+Houston          003 201 001 --  7
+Cincinnati       000 000 010 --  1
+
+  Houston              IP  H  R ER BB SO
+Oswalt R (W)          7.0  5  0  0  0  8
+Jackson M             1.0  2  1  1  0  0
+Williams M            1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Reyes D (L)           3.2  7  5  3  2  1
+MacRae S              1.1  2  0  0  0  0
+Piersoll C            2.0  3  1  1  1  1
+Mercado H             1.1  2  1  0  2  3
+Brower J              0.2  0  0  0  0  1
+
+E -- Reyes D, Young D, Guerrero W, Castilla V
+DP -- Houston 1, Cincinnati 2
+LOB -- Houston 13, Cincinnati 7
+2B -- Hidalgo R, Bagwell J, Griffey K, Guerrero W
+SH -- Oswalt R
+HBP -- by Oswalt R (Miller C)
+PB -- Miller C
+T -- 2:57
+A -- 16255
+     Game of 9/5/2001 -- Houston at Cincinnati (N)
+
+  Houston            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Biggio C, 2b          3  0  0  1   Reese P, ss           5  0  0  0   
+Truby C, ph           1  0  1  0   Jennings R, rf        5  0  1  0   
+Cruz N, p             0  0  0  0   Dunn A, lf            3  2  1  0   
+Vizcaino J, ss-2b     5  1  2  0   Casey S, 1b           4  1  3  1   
+Merced O, rf          5  0  1  1   Boone A, 3b           4  0  2  2   
+Berkman L, lf         4  2  0  0   Walker T, 2b          3  0  1  0   
+Ward D, 1b            4  2  2  1   Rivera R, cf          4  0  2  0   
+Hidalgo R, cf         3  3  1  0   LaRue J, c            4  0  0  0   
+Castilla V, 3b        4  2  3  6   Reitsma C, p          2  0  0  0   
+Ausmus B, c           4  0  2  1   Brower J, p           0  0  0  0   
+Mlicki D, p           2  0  1  0   Pickering C, ph       1  0  0  0   
+Everett A, ph-ss      1  0  0  0   Rijo J, p             0  0  0  0   
+                                   Clark B, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36 10 13 10                        36  3 10  3
+
+Houston          030 331 000 -- 10
+Cincinnati       002 010 000 --  3
+
+  Houston              IP  H  R ER BB SO
+Mlicki D (W)          7.0  7  3  3  1  9
+Cruz N                2.0  3  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Reitsma C (L)         4.2  8  8  8  2  4
+Brower J              1.1  4  2  2  1  0
+Rijo J                3.0  1  0  0  1  1
+
+E -- Vizcaino J
+DP -- Houston 1, Cincinnati 1
+LOB -- Houston 5, Cincinnati 8
+2B -- Jennings R, Rivera R, Boone A, Ward D 2, Castilla V 2, Vizcaino J 2, Dunn A, Truby C
+HR -- Castilla V
+SH -- Mlicki D
+SF -- Biggio C
+HBP -- by Mlicki D (Dunn A)
+T -- 2:44
+A -- 16001
+     Game of 9/18/2001 -- Chicago at Cincinnati (N)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Young E, 2b           5  1  1  2   Walker T, 2b          4  0  1  2   
+Farnsworth K, p       0  0  0  0   Dunn A, rf            5  1  2  0   
+Gutierrez R, ss       4  0  0  0   Griffey K, cf         4  0  0  0   
+Mahay R, p            0  0  0  0   Casey S, 1b           2  1  2  1   
+Weathers D, p         0  0  0  0   Boone A, 3b           3  1  1  0   
+DeShields D, 2b       1  1  1  0   Young D, lf           4  1  2  1   
+Sosa S, rf            5  0  1  1   Castro J, ss          2  0  0  0   
+White R, lf           3  0  0  0   Jennings R, ph        1  0  0  0   
+Patterson C, pr-cf    1  0  0  0   Guerrero W, ss        0  0  0  0   
+Stairs M, 1b          3  1  2  1   LaRue J, c            4  1  1  0   
+Coomer R, ph-1b       2  0  1  1   Dessens E, p          1  1  0  0   
+Tucker M, cf-lf       5  1  1  0   Sullivan S, p         0  0  0  0   
+Mueller B, 3b         4  1  3  0   Reyes D, p            0  0  0  0   
+Girardi J, c          4  0  2  0   Rijo J, p             0  0  0  0   
+Lieber J, p           2  0  1  0   Cromer D, ph          1  0  1  0   
+Fassero J, p          0  0  0  0   Reese P, pr           0  0  0  0   
+Brown R, ph           1  0  0  0   Graves D, p           0  0  0  0   
+Ojeda A, ss           1  0  0  0   Clark B, ph           1  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     41  5 13  5                        32  6 11  6
+
+Chicago          010 000 301 --  5
+Cincinnati       000 012 003 --  6
+  2 outs when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Lieber J              5.2  7  3  3  3  0
+Fassero J             0.1  0  0  0  0  1
+Mahay R*              0.0  0  0  0  2  0
+Weathers D            1.0  0  0  0  1  1
+Farnsworth K (L)      1.2  4  3  3  1  2
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E             6.1  7  3  3  0  2
+Sullivan S            0.1  2  1  0  1  1
+Reyes D               0.2  1  0  0  0  2
+Rijo J                0.2  1  0  0  0  0
+Graves D (W)          1.0  2  1  1  0  3
+  * Pitched to 2 batters in 7th
+
+E -- Castro J, Boone A
+LOB -- Chicago 10, Cincinnati 13
+2B -- Dunn A, Walker T, Tucker M, Young E
+HR -- Stairs M
+SB -- DeShields D
+SH -- Dessens E 2, Boone A, Guerrero W
+HBP -- by Lieber J (Boone A), by Lieber J (LaRue J)
+Balk -- Farnsworth K
+T -- 3:15
+A -- 21304
+     Game of 9/19/2001 -- Chicago at Cincinnati (N)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Young E, 2b           3  4  3  0   Walker T, 2b          3  0  0  0   
+DeShields D, 2b       1  0  0  0   Dunn A, rf-lf         4  0  1  0   
+Tucker M, cf-rf       4  1  2  4   Griffey K, cf         3  0  0  0   
+Sosa S, rf            3  1  1  1   Rivera R, cf          1  0  0  0   
+Patterson C, cf       1  0  0  0   Casey S, 1b           3  0  0  0   
+White R, lf           4  1  2  4   Cromer D, 1b          1  0  0  0   
+Brown R, pr-lf        1  0  0  0   Boone A, 3b           3  0  0  0   
+Stairs M, 1b          5  1  1  1   Fernandez J, p        0  0  0  0   
+Hundley T, c          5  0  0  0   Clark B, ph           1  0  0  0   
+Mueller B, 3b         4  1  1  0   Young D, lf           2  0  0  0   
+Ojeda A, ss           4  0  0  0   Mercado H, p          0  0  0  0   
+Wood K, p             3  1  1  0   Piersoll C, p         0  0  0  0   
+Meyers C, ph          0  0  0  0   Guerrero W, ph-3b     1  0  0  0   
+Zambrano C, p         0  0  0  0   Castro J, ss          3  0  0  0   
+Chiasson S, p         0  0  0  0   LaRue J, c            2  0  0  0   
+                                   Hamilton J, p         0  0  0  0   
+                                   Gonzalez R, ph        1  0  0  0   
+                                   MacRae S, p           0  0  0  0   
+                                   Jennings R, rf        2  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     38 10 11 10                        30  0  3  0
+
+Chicago          104 203 000 -- 10
+Cincinnati       000 000 000 --  0
+
+  Chicago              IP  H  R ER BB SO
+Wood K (W)            7.0  2  0  0  1  9
+Zambrano C            1.0  1  0  0  1  1
+Chiasson S            1.0  0  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Hamilton J (L)        3.0  4  5  5  2  3
+MacRae S              1.1  3  2  2  0  2
+Mercado H             1.1  3  3  3  0  3
+Piersoll C            1.1  1  0  0  1  0
+Fernandez J           2.0  0  0  0  0  2
+
+E -- Mueller B
+DP -- Chicago 1
+LOB -- Chicago 5, Cincinnati 5
+2B -- Jennings R
+3B -- Tucker M 2
+HR -- White R, Stairs M
+HBP -- by Fernandez J (Meyers C)
+T -- 2:50
+A -- 18417
+     Game of 9/20/2001 -- Chicago at Cincinnati (D)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Young E, 2b           4  0  0  0   Walker T, 2b          4  1  2  0   
+Tucker M, cf-lf       3  2  1  0   Guerrero W, ss        5  1  3  3   
+Sosa S, rf            3  2  1  0   Griffey K, cf         5  0  1  0   
+McGriff F, 1b         4  1  1  4   Casey S, 1b           3  0  0  0   
+Stairs M, 1b          1  0  0  0   Boone A, 3b           4  1  2  0   
+White R, lf           4  1  4  2   Dunn A, rf            4  1  1  2   
+Patterson C, pr-cf    1  0  1  0   Young D, lf           4  0  0  0   
+Coomer R, 3b          5  0  0  0   Miller C, c           3  0  0  0   
+Machado R, c          4  0  0  0   Clark B, ph           0  0  0  0   
+Ojeda A, ss           4  0  0  0   Brower J, p           1  0  0  0   
+Bere J, p             3  0  0  0   Reyes D, p            0  0  0  0   
+Meyers C, ph          0  0  0  0   Piersoll C, p         0  0  0  0   
+Van Poppel T, p       0  0  0  0   Cromer D, ph          1  0  0  0   
+Duncan C, p           0  0  0  0   Reitsma C, p          0  0  0  0   
+Fassero J, p          0  0  0  0   Gonzalez R, ph        1  0  0  0   
+                                   Fernandez J, p        0  0  0  0   
+                                   Jennings R, ph        1  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6  8  6                        36  5  9  5
+
+Chicago          013 020 000 --  6
+Cincinnati       000 000 005 --  5
+
+  Chicago              IP  H  R ER BB SO
+Bere J (W)            7.0  4  0  0  2  6
+Van Poppel T          1.0  1  0  0  0  1
+Duncan C              0.2  3  4  4  1  0
+Fassero J (S)         0.1  1  1  1  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Brower J (L)          4.1  4  6  6  4  4
+Reyes D*              0.0  0  0  0  0  0
+Piersoll C            0.2  1  0  0  0  0
+Reitsma C             2.0  1  0  0  1  1
+Fernandez J           2.0  2  0  0  0  2
+  * Pitched to 1 batter in 5th
+
+E -- Casey S, Sosa S
+LOB -- Chicago 9, Cincinnati 7
+2B -- Walker T 2, White R
+HR -- White R, McGriff F, Dunn A, Guerrero W
+SB -- Guerrero W
+HBP -- by Fernandez J (Meyers C)
+T -- 3:05
+A -- 19947
+     Game of 9/28/2001 -- Montreal at Cincinnati (N)
+
+  Montreal           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Mordecai M, 3b        5  1  1  0   Guerrero W, ss        5  1  2  0   
+Vidro J, 2b           5  1  1  0   Dunn A, lf            4  1  1  0   
+Guerrero V, rf        2  1  0  1   Graves D, p           0  0  0  0   
+Cabrera O, ss         5  2  3  2   Griffey K, cf         5  0  3  1   
+Stevens L, 1b         4  1  2  1   Casey S, 1b           2  0  0  0   
+Schneider B, c        3  0  2  3   Clark B, rf           2  0  0  0   
+Wilkerson B, lf       4  0  1  0   Young D, 3b           5  1  3  2   
+Bergeron P, cf        3  1  2  0   Jennings R, rf-1b     3  0  0  0   
+Thurman M, p          1  0  0  0   Gonzalez R, ph        1  0  1  0   
+Raines T, ph          0  0  0  0   Walker T, 2b          4  0  1  0   
+Eischen J, p          0  0  0  0   Miller C, c           3  1  1  1   
+Reames B, p           0  0  0  0   Reese P, pr           0  1  0  0   
+Stewart S, p          0  0  0  0   Rivera R, lf          1  0  0  0   
+Blum G, ph            1  0  0  0   Acevedo J, p          3  0  1  0   
+Lloyd G, p            0  0  0  0   Sullivan S, p         0  0  0  0   
+Strickland S, p       0  0  0  0   Cromer D, ph          1  1  1  2   
+                                   LaRue J, c            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  7 12  7                        39  6 14  6
+
+Montreal         000 102 004 --  7
+Cincinnati       000 111 030 --  6
+
+  Montreal             IP  H  R ER BB SO
+Thurman M             6.0  9  3  3  3  4
+Eischen J             1.1  0  0  0  1  1
+Reames B*             0.0  2  3  3  1  0
+Stewart S (W)         0.2  1  0  0  0  2
+Lloyd G               0.2  2  0  0  0  0
+Strickland S (S)      0.1  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Acevedo J             7.0  5  3  3  3  6
+Sullivan S            1.0  2  0  0  1  0
+Graves D (L)          1.0  5  4  4  1  0
+  * Pitched to 3 batters in 8th
+
+DP -- Montreal 1, Cincinnati 1
+LOB -- Montreal 8, Cincinnati 11
+2B -- Wilkerson B, Schneider B, Guerrero W, Young D
+HR -- Young D, Cabrera O, Stevens L, Miller C, Cromer D
+SB -- Guerrero V, Clark B
+SH -- Thurman M, Bergeron P
+SF -- Schneider B, Guerrero V
+WP -- Stewart S
+T -- 3:26
+A -- 18762
+     Game of 9/29/2001 -- Montreal at Cincinnati (D)
+
+  Montreal           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Mordecai M, 3b        5  0  2  1   Walker T, 2b          4  2  2  1   
+Vidro J, 2b           4  0  2  1   Guerrero W, ss        5  2  3  0   
+Guerrero V, rf        5  0  2  0   Griffey K, cf         3  0  1  2   
+Cabrera O, ss         5  0  2  0   Young D, 3b           4  1  2  2   
+Stevens L, 1b         4  0  0  0   Dunn A, lf            4  0  0  0   
+Schneider B, c        4  1  1  0   Jennings R, rf        4  2  3  2   
+Wilkerson B, lf       1  0  0  0   Cromer D, 1b          4  0  2  0   
+Smith M, ph-lf        0  1  0  0   Miller C, c           4  0  1  0   
+Bergeron P, cf        2  0  0  0   Dessens E, p          2  0  1  0   
+Jones T, ph-cf        2  1  1  1   Clark B, ph           1  0  0  0   
+Yoshii M, p           1  0  0  0   Reyes D, p            0  0  0  0   
+Minor R, ph           1  0  0  0   Rijo J, p             0  0  0  0   
+Mota G, p             0  0  0  0   Reitsma C, p          0  0  0  0   
+Raines T, ph          0  0  0  1   Gonzalez R, ph        1  0  0  0   
+Munoz B, p            0  0  0  0   MacRae S, p           0  0  0  0   
+Scanlan B, p          0  0  0  0   Graves D, p           0  0  0  0   
+Blum G, ph            1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4 11  4                        36  7 15  7
+
+Montreal         000 000 301 --  4
+Cincinnati       400 010 11x --  7
+
+  Montreal             IP  H  R ER BB SO
+Yoshii M (L)          5.0  8  5  5  1  3
+Mota G                1.0  2  0  0  0  1
+Munoz B               1.0  2  1  1  0  1
+Scanlan B             1.0  3  1  1  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (W)         6.0  4  0  0  1  5
+Reyes D               0.2  2  3  3  1  1
+Rijo J                1.0  2  0  0  1  0
+Reitsma C             0.1  0  0  0  1  0
+MacRae S*             0.0  2  1  1  0  0
+Graves D (S)          1.0  1  0  0  0  0
+  * Pitched to 2 batters in 9th
+
+E -- Yoshii M
+DP -- Montreal 1, Cincinnati 1
+LOB -- Montreal 9, Cincinnati 7
+2B -- Griffey K, Vidro J, Young D
+HR -- Jennings R
+SB -- Young D, Cabrera O
+CS -- Guerrero V
+SF -- Griffey K, Raines T
+WP -- Reyes D
+PB -- Schneider B
+T -- 3:03
+A -- 20490
+     Game of 9/30/2001 -- Montreal at Cincinnati (D)
+
+  Montreal           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Blum G, 3b            4  1  2  1   Walker T, 2b          4  0  1  0   
+Vidro J, 2b           4  1  3  0   Guerrero W, ss        4  0  1  0   
+Guerrero V, rf        5  1  3  2   Griffey K, cf         3  0  0  0   
+Cabrera O, ss         5  0  2  0   Young D, 3b           4  2  2  1   
+Stevens L, 1b         3  0  0  0   Jennings R, 1b        3  1  2  0   
+Schneider B, c        4  0  1  0   Dunn A, lf            3  2  2  2   
+Wilkerson B, lf       3  1  1  0   Rivera R, rf          4  0  0  0   
+Smith M, ph-lf        1  0  0  0   LaRue J, c            4  0  1  2   
+Bergeron P, cf        3  0  1  0   Hamilton J, p         1  0  0  0   
+Jones T, ph-cf        0  0  0  0   Cromer D, ph          1  0  0  0   
+Pavano C, p           2  0  0  0   Piersoll C, p         0  0  0  0   
+Stewart S, p          0  0  0  0   Mercado H, p          0  0  0  0   
+Raines T, ph          1  0  0  0   Fernandez J, p        0  0  0  0   
+Eischen J, p          0  0  0  0   Clark B, ph           1  0  0  0   
+Strickland S, p       0  0  0  0   Reyes D, p            0  0  0  0   
+                                   Sullivan S, p         0  0  0  0   
+                                   Graves D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 13  3                        32  5  9  5
+
+Montreal         003 100 000 --  4
+Cincinnati       000 200 03x --  5
+
+  Montreal             IP  H  R ER BB SO
+Pavano C              6.1  7  2  2  2  9
+Stewart S             0.2  0  0  0  0  1
+Eischen J (L)         0.1  2  3  3  1  1
+Strickland S          0.2  0  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Hamilton J            4.0  8  4  4  2  1
+Piersoll C            0.1  1  0  0  0  0
+Mercado H             1.2  0  0  0  0  3
+Fernandez J           1.0  2  0  0  0  1
+Reyes D               0.2  1  0  0  1  0
+Sullivan S (W)        0.1  0  0  0  0  0
+Graves D (S)          1.0  1  0  0  1  0
+
+E -- Guerrero V
+DP -- Cincinnati 3
+LOB -- Montreal 9, Cincinnati 6
+2B -- Guerrero V 2, Dunn A
+HR -- Young D, Dunn A
+CS -- Guerrero W, Guerrero V
+SH -- Pavano C
+WP -- Reyes D
+T -- 3:08
+A -- 20394
+     Game of 10/6/2001, game 1 -- Philadelphia at Cincinnati (D)
+
+  Philadelphia       AB  R  H RBI    Cincinnati         AB  R  H RBI
+Rollins J, ss         3  1  2  0   Walker T, 2b          4  0  0  1   
+Anderson M, 2b        4  0  0  0   Guerrero W, ss        4  0  1  0   
+Abreu B, rf           4  0  2  0   Griffey K, cf         4  0  0  0   
+Burrell P, lf         1  0  0  0   Rivera R, rf          4  0  0  0   
+Hunter B, ph-lf       3  0  1  1   Gonzalez R, lf        4  0  1  0   
+Lee T, 1b             2  1  0  0   Reese P, pr           0  0  0  0   
+Glanville D, cf       4  0  1  0   LaRue J, 3b-c         4  0  1  0   
+Perez T, 3b           4  0  3  0   Jennings R, 1b        3  0  0  0   
+Estrada J, c          3  0  0  1   Miller C, c           2  0  0  0   
+Daal O, p             3  0  1  0   Young D, ph-3b        1  1  0  0   
+Bottalico R, p        0  0  0  0   Dessens E, p          2  0  1  0   
+Jordan K, ph          1  0  0  0   Mercado H, p          0  0  0  0   
+Mesa J, p             0  0  0  0   Dunn A, ph            1  0  0  0   
+                                   MacRae S, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2 10  2                        33  1  4  1
+
+Philadelphia     011 000 000 --  2
+Cincinnati       000 000 010 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Daal O (W)            7.0  3  0  0  0  3
+Bottalico R           1.0  0  1  0  0  1
+Mesa J (S)            1.0  1  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (L)         7.0  9  2  2  3  2
+Mercado H             1.0  1  0  0  0  0
+MacRae S              1.0  0  0  0  0  1
+
+E -- Lee T, Rivera R
+DP -- Cincinnati 2
+LOB -- Philadelphia 7, Cincinnati 5
+2B -- Dessens E, Abreu B
+3B -- LaRue J
+CS -- Rollins J, Perez T
+SF -- Estrada J
+WP -- Bottalico R
+PB -- Estrada J
+T -- 2:42
+A -- 0
+     Game of 10/6/2001, game 2 -- Philadelphia at Cincinnati (D)
+
+  Philadelphia       AB  R  H RBI    Cincinnati         AB  R  H RBI
+Rollins J, ss         5  1  1  1   Walker T, 2b          4  0  2  0   
+Taylor R, cf          4  1  0  0   Guerrero W, ss        5  0  2  0   
+Abreu B, rf           5  1  3  0   Griffey K, cf         4  0  0  0   
+Anderson M, 2b        5  1  5  2   Dunn A, lf            3  0  0  0   
+Hunter B, lf          4  1  0  0   Clark B, rf           3  0  1  0   
+Perez T, 3b           4  0  2  1   Jennings R, 1b        4  1  3  0   
+Jordan K, 1b          4  0  1  1   LaRue J, 3b           3  0  1  0   
+Pratt T, c            3  0  0  0   Miller C, c           3  0  1  1   
+Coggin D, p           3  0  0  0   Hamilton J, p         2  0  0  0   
+Cook D, p             0  0  0  0   Piersoll C, p         0  0  0  0   
+Santiago J, p         0  0  0  0   Reyes D, p            0  0  0  0   
+Forbes P, ph          1  0  0  0   Reitsma C, p          0  0  0  0   
+Mesa J, p             0  0  0  0   Reese P, ph           1  0  0  0   
+                                   Sullivan S, p         0  0  0  0   
+                                   Cromer D, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  5 12  5                        33  1 10  1
+
+Philadelphia     001 101 002 --  5
+Cincinnati       010 000 000 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Coggin D (W)          7.0  8  1  1  3  2
+Cook D                0.2  1  0  0  1  0
+Santiago J            0.1  0  0  0  0  1
+Mesa J                1.0  1  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Hamilton J (L)        5.1  9  3  3  0  2
+Piersoll C            0.2  0  0  0  0  1
+Reyes D               0.2  1  0  0  0  0
+Reitsma C             0.1  0  0  0  0  0
+Sullivan S            2.0  2  2  2  1  3
+
+E -- LaRue J, Jordan K
+DP -- Philadelphia 2
+LOB -- Philadelphia 9, Cincinnati 10
+2B -- LaRue J, Anderson M 3
+HR -- Rollins J
+CS -- Abreu B
+SH -- Hunter B
+SF -- Miller C
+HBP -- by Hamilton J (Pratt T)
+T -- 2:47
+A -- 22886
+     Game of 10/7/2001 -- Philadelphia at Cincinnati (D)
+
+  Philadelphia       AB  R  H RBI    Cincinnati         AB  R  H RBI
+Hunter B, cf          3  0  1  0   Walker T, 2b          4  0  1  0   
+Taylor R, cf          2  0  0  0   Guerrero W, ss        4  0  1  0   
+Forbes P, 2b          5  1  2  0   Dunn A, lf            4  0  0  0   
+Abreu B, rf           3  2  1  0   Rivera R, cf          4  1  1  0   
+Perez T, rf           1  0  0  0   Clark B, rf           4  0  2  0   
+Burrell P, lf         5  1  2  3   LaRue J, 3b           4  0  2  1   
+Jordan K, 3b          4  0  2  1   Jennings R, 1b        3  0  0  0   
+Pratt T, 1b           3  0  0  0   Miller C, c           3  0  0  0   
+Punto N, ss           4  0  1  0   Griffey K, ph         0  0  0  0   
+Estrada J, c          4  0  2  0   Davis L, p            1  0  0  0   
+Wolf R, p             3  0  0  0   Piersoll C, p         0  0  0  0   
+Mesa J, p             0  0  0  0   Reese P, ph           1  0  0  0   
+                                   Brower J, p           0  0  0  0   
+                                   Sullivan S, p         0  0  0  0   
+                                   Gonzalez R, ph        1  0  0  0   
+                                   Rijo J, p             0  0  0  0   
+                                   Cromer D, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4 11  4                        34  1  7  1
+
+Philadelphia     102 000 100 --  4
+Cincinnati       000 000 001 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Wolf R (W)            8.2  7  1  1  1  8
+Mesa J (S)            0.1  0  0  0  1  0
+
+  Cincinnati           IP  H  R ER BB SO
+Davis L (L)           4.2  8  3  3  1  0
+Piersoll C            0.1  0  0  0  1  0
+Brower J              2.0  2  1  1  0  1
+Sullivan S            1.0  1  0  0  0  0
+Rijo J                1.0  0  0  0  0  1
+
+E -- Guerrero W
+DP -- Cincinnati 1
+LOB -- Philadelphia 9, Cincinnati 8
+2B -- Burrell P, LaRue J, Estrada J, Walker T, Rivera R
+HR -- Burrell P
+SB -- Clark B
+SH -- Wolf R
+T -- 2:29
+A -- 20093
+

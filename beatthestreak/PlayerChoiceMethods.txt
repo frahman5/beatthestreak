@@ -9,7 +9,8 @@
        N accounts deterministically, by assigning all P players in order from 
        top batting average to lowest batting average to bots with lowest to 
        highest index, and repeating players if N is greater than P
-    static: Each day, all bots either do a singledown play or a doubledown play
+    static: For the duration of the simulation, all bots either consisttently
+       play singleDowns or doubleDonws
 
     Example: 
        Parameters: 2009, 2008, 20, 10, 500 (singleDown)
@@ -23,4 +24,16 @@
           b3: p3   b8: p1   b13:p6   b18:p4
           b4: p4   b9: p2   b14:p7   b19:p5
           b5: p5   b10: p3  b15:p1   b20:p6
+
+2) N P:globalSeasonBatAve-minPA Random Static
+    Parameters: simYear, batAveYear, N, P, minPA, doubleDown=True|False
+    globalSeasonBatAveP minPA: P "globally" top players with respect to season 
+       batting average in a given season are calculated at the start of 
+       the simulation. Players only qualify if they have more plate 
+       appearances than minPA
+    serial deterministic: Each day, those P players are distributed to the 
+       N accounts randomly. 
+       static: Each day, all bots either do a singledown play or a doubledown play
+
+       Example: See Above, except randomly distribute playres to bots
 

@@ -3,6 +3,7 @@ import sys
 import os
 import pandas as pd
 import datetime
+import random
 
 from pandas import DataFrame, Series, ExcelWriter
 from datetime import date, timedelta
@@ -59,7 +60,7 @@ class NPSimulation(Simulation):
             reset to 0
     """
     def __init__(self, simYear, batAveYear, N, P, startDate='default', 
-            doubleDown=False, minPA=502):
+            doubleDown=False, minPA=502, method=1):
         # _check_year type checks simYear and batAveYear
         assert type(N) == int
         assert type(P) == int
@@ -78,136 +79,10 @@ class NPSimulation(Simulation):
         # self.susGamesDict = {} # set upon setup
 
         self.doubleDown = doubleDown
-        self.botHistoryBuffer = [None, []]
-        self.method = 1 # see NPReporter self.selMethods for what "1" means
-
-        # self.didNotRepeatSetup = False
-
-    # @profile
-    def setup(self):
-        """
-        Downloads necessary retrosheet data, initalizes bots, players, minBatAve, 
-        susGamesDict
-        """
-        if self.isSetup: 
-            # self.didNotRepeatSetup = True # for testing
-            return
-
-        Simulation.setup(self) # download and parse retrosheet data
-        self.bots = self._create_bots() # create N bots
-        self.players = self.__calc__players(self.batAveYear, self.minPA) # create top P players
-        self.__initalize_player_hit_info_csvs() # initalize their hit info csv's
-        self.minBatAve = self.__set_min_bat_ave() # store resultant min bat ave
-        # self.susGamesDict = Researcher.get_sus_games_dict(self.get_sim_year())
-        for bot in self.bots:
-            bot.claim_mulligan() # claim your mulligan baby
-        self.isSetup = True
- 
-    # @profile
-    def sim_next_day(self, doubleDown=False):
-        """
-        Bool -> None
-        doubleDown: bool | Indicates whether or not bots should double down 
-           every day
-
-
-        Simulates the next day
-        """
-        assert type(doubleDown) == bool
-        if doubleDown:
-            self.__sim_next_day_double()
-        else:
-            self.__sim_next_day_single()
-       
-    def __sim_next_day_single(self):
-        """
-        None -> None
-
-        Simulates the next day without using doubleDown strategies
-        Helper function for sim_next_day
-        """
-        today = self.get_date()
-
-        # Retrieve list of players playing today
-        activePlayers = [player for player in self.players if \
-             Researcher.did_start(today, player)]
-        
-        # sGD = self.susGamesDict
-        # assign players to bots and update histories
-        modFactor = len(activePlayers)
-        # no active players today
-        if modFactor == 0: # pragma: no cover
-            self.incr_date() 
-            return
-        for i, bot in enumerate(self.bots):
-            player = activePlayers[i % modFactor]
-            bot.update_history(p1=player, date=today)
-            self.botHistoryBuffer[1].append(bot)
-        # update the date
-        self.incr_date()
- 
-    # @profile
-    def __sim_next_day_double(self):
-        """
-        None -> None
-
-        Simulates the next day with doubleDown strategies
-        Helper function for sim_next_day
-        """
-        today = self.get_date()
-
-        # Retreve list of players playing today
-        activePlayers = [player for player in self.players if \
-            Researcher.did_start(today, player)]
-
-        # assign players to bots and update histories
-        modFactor = len(activePlayers)
-        # sGD = self.susGamesDict
-        # no active Players today
-        if modFactor == 0: # pragma: no cover
-            self.incr_date() 
-            return 
-        for i, bot in enumerate(self.bots):
-            if modFactor == 1: # can't double down if only 1 active player!
-                p1 = activePlayers[0]
-                bot.update_history(p1=activePlayers[0], date=today)
-                self.botHistoryBuffer[1].append(bot)
-                continue
-                
-            ## Else double Down!
-            # get player indices. Mod in p2Index accounts for odd Modfactor
-            p1Index = (i * 2) % modFactor
-            p2Index = (p1Index + 1) % modFactor 
-            p1 = activePlayers[p1Index]
-            p2 = activePlayers[p2Index]
-            # update bot
-            bot.update_history(p1=p1, p2=p2, date=today)
-            self.botHistoryBuffer[1].append(bot)
-
-        # update the date
-        self.incr_date()
-
-    def __check_update_buffer(self, p1=None, p2=None, date=None):
-        """
-        player player date -> bot
-
-        checks the bot update buffer to see if a bot has been assigned p1, p2
-        on date date. If so, returns the bot. Else, returns None and
-        updates the buffer if necessary
-        """
-        assert type(p1) == Player
-        assert (p2 is None) or (type(p2)) == Player
-        assert type(date) == datetime.date
-
-        if self.botHistoryBuffer[0] == date:
-            for bot in self.botHistoryBuffer[1]:
-                if bot.get_players() == (p1, p2):
-                    return bot
-        else:
-           self.botHistoryBuffer = [date, []] 
-        return None
-
-    # @profile 
+           # default selection method
+           # see NPReporter self.methods for definitions of methods
+        self.method = method
+# @profile 
     def simulate(self, numDays='max', anotherSim=False, test=False, prbar=True):
         """
         int|string  bool bool bool -> datetime.date datetime.date
@@ -234,15 +109,15 @@ class NPSimulation(Simulation):
         assert type(test) == bool
 
         ## initalize relevant date variables and setup the simulation
-        if self.startDate == 'default':
-            self.currentDate = Researcher.get_opening_day(self.simYear)
-        else:
-            assert type(self.startDate) == datetime.date
-            Researcher.check_date(self.startDate, startDate.year)
-            self.currentDate = self.startDate
-        startDate = self.currentDate
-        self.currentDate = startDate
-        # self.currentDate = date(self.simYear, 7, 7) # for actual production simulations
+        # if self.startDate == 'default':
+        #     self.currentDate = Researcher.get_opening_day(self.simYear)
+        # else:
+        #     assert type(self.startDate) == datetime.date
+        #     Researcher.check_date(self.startDate, startDate.year)
+        #     self.currentDate = self.startDate
+        # startDate = self.currentDate
+        # self.currentDate = startDate
+        self.currentDate = date(self.simYear, 7, 7) # for actual production simulations
         startDate = self.currentDate
         lastDate = Researcher.get_closing_day(self.simYear)
         Reporter = NPReporter(self)
@@ -310,9 +185,130 @@ class NPSimulation(Simulation):
             self.set_setup(value=False)
 
         return startDate, lastDate
+    # @profile
+    def setup(self):
+        """
+        Downloads necessary retrosheet data, initalizes bots, players, minBatAve, 
+        susGamesDict
+        """
+        if self.isSetup: 
+            # self.didNotRepeatSetup = True # for testing
+            return
+
+        Simulation.setup(self) # download and parse retrosheet data
+        self.bots = self._create_bots() # create N bots
+        self.players = self.__calc__players(self.batAveYear, self.minPA) # create top P players
+        self.__initalize_player_hit_info_csvs() # initalize their hit info csv's
+        self.minBatAve = self.__set_min_bat_ave() # store resultant min bat ave
+        # self.susGamesDict = Researcher.get_sus_games_dict(self.get_sim_year())
+        for bot in self.bots:
+            bot.claim_mulligan() # claim your mulligan baby
+        self.isSetup = True
+ 
+    # @profile
+    def sim_next_day(self, doubleDown=False):
+        """
+        Bool -> None
+        doubleDown: bool | Indicates whether or not bots should double down 
+           every day
+
+
+        Simulates the next day
+        """
+        assert type(doubleDown) == bool
+        if doubleDown:
+            self.__sim_next_day_double()
+        else:
+            self.__sim_next_day_single()
+       
+    def __sim_next_day_single(self):
+        """
+        None -> None
+
+        Simulates the next day without using doubleDown strategies
+        Helper function for sim_next_day
+        """
+        today = self.get_date()
+
+        # Retrieve list of players playing today
+        activePlayers = [player for player in self.players if \
+             Researcher.did_start(today, player)]
+        
+        # assign players to bots and update histories
+        modFactor = len(activePlayers)
+        # no active players today
+        if modFactor == 0: # pragma: no cover
+            self.incr_date() 
+            return
+            # deterministic distribution of players
+        if self.method == 1: 
+            for i, bot in enumerate(self.bots):
+                player = activePlayers[i % modFactor]
+                bot.update_history(p1=player, date=today)
+        elif self.method == 2:
+            for bot in self.bots:
+                player = random.choice(activePlayers)
+                bot.update_history(p1=player, date=today)
+        # update the date
+        self.incr_date()
+ 
+    # @profile
+    def __sim_next_day_double(self):
+        """
+        None -> None
+
+        Simulates the next day with doubleDown strategies
+        Helper function for sim_next_day
+        """
+        today = self.get_date()
+
+        # Retreve list of players playing today
+        activePlayers = [player for player in self.players if \
+            Researcher.did_start(today, player)]
+
+        # assign players to bots and update histories
+        modFactor = len(activePlayers)
+        # sGD = self.susGamesDict
+        # no active Players today
+        if modFactor == 0: # pragma: no cover
+            self.incr_date() 
+            return 
+            # deterministic distribution
+        if self.method == 1:
+            for i, bot in enumerate(self.bots):
+                if modFactor == 1: # can't double down if only 1 active player!
+                    p1 = activePlayers[0]
+                    bot.update_history(p1=activePlayers[0], date=today)
+                    continue
+                    
+                ## Else double Down!
+                # get player indices. Mod in p2Index accounts for odd Modfactor
+                p1Index = (i * 2) % modFactor
+                p2Index = (p1Index + 1) % modFactor 
+                p1 = activePlayers[p1Index]
+                p2 = activePlayers[p2Index]
+                # update bot
+                bot.update_history(p1=p1, p2=p2, date=today)
+            # random selection
+        elif self.method == 2:
+            for bot in self.bots:
+                if modFactor == 1: # can't double down if only 1 active player!
+                    p1 = random.choice(activePlayers)
+                    bot.update_history(p1=activePlayers[0], date=today)
+                    continue
+                ## Else double down
+                p1 = random.choice(activePlayers)
+                p2 = p1
+                while (p2 == p1):
+                    p2 = random.choice(activePlayers)
+                # update bot
+                bot.update_history(p1=p1, p2=p2, date=today)
+
+        # update the date
+        self.incr_date()
 
     def mass_simulate(self, simYearRange, simMinBatRange, NRange, PRange, 
-            minPARange, test=False):
+            minPARange, method=1, test=False):
         """
         tupleOfInts tupleOfInts tupleOfInts tupleOfInts tupleOfInts bool -> None
         simYearRange: the years (inclusive) over which to run simulation
@@ -355,24 +351,23 @@ class NPSimulation(Simulation):
         numSuccessL, percentSuccessL, numFailL, percentFailL = [], [], [], []
         minPAL, methodL, oneStreakL, twoStreakL, threeStreakL, = [], [], [], [], []
         fourStreakL, fiveStreakL, topStreakAveL, doubleDownL = [], [], [], []
-        startDateL, endDateL = [], []
+        percUniqueBotsL, startDateL, endDateL = [], [], []
 
         # initialize a progressbar for the simulation
-        minPARange = self.__get_min_pa_range(minPARange[0], minPARange[1])
+        fullMinPARange = self.__get_min_pa_range(minPARange[0], minPARange[1])
         maxval = len(range(simYearRange[0], simYearRange[1] + 1)) * \
                  len(range(simMinBatRange[0], simMinBatRange[1] + 1)) * \
                  len(range(NRange[0], NRange[1] + 1)) * \
                  len(range(PRange[0], PRange[1] + 1)) * \
-                 len(minPARange) * 2
-        print maxval
+                 len(fullMinPARange) * 2
         widgets = ['\nMassSim: simYear:({0}, {1}), '.format(
             simYearRange[0], simYearRange[1]) + 'simMinBatRange({0}, {1}),'.format(
                 simMinBatRange[0], simMinBatRange[1]) + ' N:({0}, {1}),'.format(
                 NRange[0], NRange[1]) + ' P:({0}, {1}) '.format(
                 PRange[0], PRange[1]) + 'minPA:({0}, {1}) '.format(
-                minPARange[0], minPARange[1]), Timer(), ' ', Percentage()]
+                fullMinPARange[0], fullMinPARange[-1]), Timer(), ' ', Percentage()]
         pbar = ProgressBar(maxval=maxval, widgets=widgets).start()
-
+        
         Reporter = NPReporter(self, test=test)
         # run all the simulations, saving individual simulation results to file
         i = 0
@@ -380,7 +375,7 @@ class NPSimulation(Simulation):
             for batAveYear in self.__bat_years_ms(simYear, simMinBatRange):
                 for N in xrange(NRange[0], NRange[1]+1):
                     for P in xrange(PRange[0], PRange[1]+1):
-                        for minPA in self.__get_min_pa_range(minPARange[0], minPARange[1]):
+                        for minPA in fullMinPARange:
                             for doubleDown in (True, False):
                                 # set sim parameters and simulate
                                 self.set_sim_year(simYear)
@@ -389,6 +384,7 @@ class NPSimulation(Simulation):
                                 self.set_p(P)
                                 self.doubleDown = doubleDown
                                 self.minPA = minPA
+                                self.method = method
                                 startDate, endDate = self.simulate(anotherSim=True, prbar=False)
 
                                 # get 5 top streaks
@@ -400,6 +396,11 @@ class NPSimulation(Simulation):
                                 while len(fiveTopStreaks) < 5:
                                     fiveTopStreaks.append('N/A')
                                         
+                                # calculate num unique bots
+                                percentUniqueBots = round(
+                                    float(Reporter._calc_num_unique_bots()) / float(N), 4)
+                                percentUniqueBotsString = "{0:.0f}%".format(100 * percentUniqueBots)
+
                                 # record sim metadata and results for later reporting
                                 simYearL.append(self.get_sim_year())
                                 batAveYearL.append(self.get_bat_year())
@@ -413,6 +414,7 @@ class NPSimulation(Simulation):
                                 percentFailL.append(percF)
                                 minPAL.append(self.minPA)
                                 methodL.append(self.method)
+                                percUniqueBotsL.append(percentUniqueBotsString)
                                 oneS, twoS, threeS, fourS, fiveS = fiveTopStreaks
                                 oneStreakL.append(oneS)
                                 twoStreakL.append(twoS)
@@ -445,8 +447,9 @@ class NPSimulation(Simulation):
             fourStreakL=fourStreakL, fiveStreakL=fiveStreakL, 
             topStreakAveL=topStreakAveL, minPAL=minPAL, methodL=methodL, 
             doubleDownL=doubleDownL,startDateL=startDateL, endDateL=endDateL,
+            percUniqueBotsL=percUniqueBotsL, 
             simYearRange=simYearRange, simMinBatRange=simMinBatRange, 
-            NRange=NRange, PRange=PRange)
+            NRange=NRange, PRange=PRange, minPARange=minPARange)
 
         # close up shop
         self.close()
@@ -634,7 +637,7 @@ class NPSimulation(Simulation):
         Returns a tuple that contains:
            minPALow, MinPALow + 5, minPALow + 10, ..., miNPAHigh)
         """
-        preAnswer = [x for x in range(minPALow, minPAHigh, 5)]
+        preAnswer = [x for x in range(minPALow, minPAHigh, 100)]
         if preAnswer[-1] != minPAHigh:
             preAnswer.append(minPAHigh)
         return tuple(preAnswer)
