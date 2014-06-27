@@ -132,7 +132,7 @@ class NPSimulation(Simulation):
         activePlayers = [player for player in self.players if \
              Researcher.did_start(today, player)]
         
-        sGD = self.susGamesDict
+        # sGD = self.susGamesDict
         # assign players to bots and update histories
         modFactor = len(activePlayers)
         # no active players today
@@ -141,7 +141,7 @@ class NPSimulation(Simulation):
             return
         for i, bot in enumerate(self.bots):
             player = activePlayers[i % modFactor]
-            bot.update_history(p1=player, date=today, susGamesDict=sGD)
+            bot.update_history(p1=player, date=today)
             self.botHistoryBuffer[1].append(bot)
         # update the date
         self.incr_date()
@@ -162,7 +162,7 @@ class NPSimulation(Simulation):
 
         # assign players to bots and update histories
         modFactor = len(activePlayers)
-        sGD = self.susGamesDict
+        # sGD = self.susGamesDict
         # no active Players today
         if modFactor == 0: # pragma: no cover
             self.incr_date() 
@@ -170,8 +170,7 @@ class NPSimulation(Simulation):
         for i, bot in enumerate(self.bots):
             if modFactor == 1: # can't double down if only 1 active player!
                 p1 = activePlayers[0]
-                bot.update_history(p1=activePlayers[0], date=today, 
-                    susGamesDict=sGD)
+                bot.update_history(p1=activePlayers[0], date=today)
                 self.botHistoryBuffer[1].append(bot)
                 continue
                 
@@ -182,7 +181,7 @@ class NPSimulation(Simulation):
             p1 = activePlayers[p1Index]
             p2 = activePlayers[p2Index]
             # update bot
-            bot.update_history(p1=p1, p2=p2, date=today, susGamesDict=sGD)
+            bot.update_history(p1=p1, p2=p2, date=today)
             self.botHistoryBuffer[1].append(bot)
 
         # update the date
@@ -235,15 +234,15 @@ class NPSimulation(Simulation):
         assert type(test) == bool
 
         ## initalize relevant date variables and setup the simulation
-        # if self.startDate == 'default':
-        #     self.currentDate = Researcher.get_opening_day(self.simYear)
-        # else:
-        #     assert type(self.startDate) == datetime.date
-        #     Researcher.check_date(self.startDate, startDate.year)
-        #     self.currentDate = self.startDate
-        # startDate = self.currentDate
-        # self.currentDate = startDate
-        self.currentDate = date(self.simYear, 7, 7) # for actual production simulations
+        if self.startDate == 'default':
+            self.currentDate = Researcher.get_opening_day(self.simYear)
+        else:
+            assert type(self.startDate) == datetime.date
+            Researcher.check_date(self.startDate, startDate.year)
+            self.currentDate = self.startDate
+        startDate = self.currentDate
+        self.currentDate = startDate
+        # self.currentDate = date(self.simYear, 7, 7) # for actual production simulations
         startDate = self.currentDate
         lastDate = Researcher.get_closing_day(self.simYear)
         Reporter = NPReporter(self)
