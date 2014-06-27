@@ -2,11 +2,8 @@
 __pycache__/
 *.py[cod]
 
-# Datasets, line_profiler, pyvenv, results
-datasets/
+# pyvenv
 pyvenv/
-results/
-line_profiler-1.0b3/
 
 # Raw retrosheet event files
 *.ROS
