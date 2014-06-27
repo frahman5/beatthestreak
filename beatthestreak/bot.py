@@ -79,6 +79,7 @@ class Bot(object):
             self.__update_history_single_down(p1, date, susGamesDict)
 
     # @profile
+    # deprecated
     def __update_history_from_bot(self, otherBot): 
         """
         bot -> None

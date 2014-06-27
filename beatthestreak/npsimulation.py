@@ -141,13 +141,6 @@ class NPSimulation(Simulation):
             return
         for i, bot in enumerate(self.bots):
             player = activePlayers[i % modFactor]
-            # # Check if the desired info is on the buffer
-            # copyBot = self.__check_update_buffer(p1=player, p2=None, date=today)
-            # if copyBot:
-            #     bot.update_history(bot=copyBot)
-            # else: # if its not, then update normally
-                # bot.update_history(p1=player, date=today, susGamesDict=sGD)
-                # self.botHistoryBuffer[1].append(bot)
             bot.update_history(p1=player, date=today, susGamesDict=sGD)
             self.botHistoryBuffer[1].append(bot)
         # update the date
@@ -177,14 +170,6 @@ class NPSimulation(Simulation):
         for i, bot in enumerate(self.bots):
             if modFactor == 1: # can't double down if only 1 active player!
                 p1 = activePlayers[0]
-                # Check if desired info is on the buffer
-                # copyBot = self.__check_update_buffer(p1=p1, p2=None, date=today)
-                # if copyBot:
-                #     bot.update_history(bot=copyBot)
-                # else: # if its not, update normally
-                #     bot.update_history(p1=activePlayers[0], date=today, 
-                #         susGamesDict=sGD)
-                #     self.botHistoryBuffer[1].append(bot)
                 bot.update_history(p1=activePlayers[0], date=today, 
                     susGamesDict=sGD)
                 self.botHistoryBuffer[1].append(bot)
@@ -196,14 +181,7 @@ class NPSimulation(Simulation):
             p2Index = (p1Index + 1) % modFactor 
             p1 = activePlayers[p1Index]
             p2 = activePlayers[p2Index]
-
-            # Check if the desired info is on the buffer
-            # copyBot = self.__check_update_buffer(p1=p1, p2=p2, date=today)
-            # if copyBot:
-            #     bot.update_history(bot=copyBot)
-            # else: # if its not, then update normally
-            #     bot.update_history(p1=p1, p2=p2, date=today, susGamesDict=sGD)
-            #     self.botHistoryBuffer[1].append(bot)
+            # update bot
             bot.update_history(p1=p1, p2=p2, date=today, susGamesDict=sGD)
             self.botHistoryBuffer[1].append(bot)
 
@@ -257,14 +235,16 @@ class NPSimulation(Simulation):
         assert type(test) == bool
 
         ## initalize relevant date variables and setup the simulation
-        if self.startDate == 'default':
-            self.currentDate = Researcher.get_opening_day(self.simYear)
-        else:
-            assert type(self.startDate) == datetime.date
-            Researcher.check_date(self.startDate, startDate.year)
-            self.currentDate = self.startDate
+        # if self.startDate == 'default':
+        #     self.currentDate = Researcher.get_opening_day(self.simYear)
+        # else:
+        #     assert type(self.startDate) == datetime.date
+        #     Researcher.check_date(self.startDate, startDate.year)
+        #     self.currentDate = self.startDate
+        # startDate = self.currentDate
+        # self.currentDate = startDate
+        self.currentDate = date(self.simYear, 7, 7) # for actual production simulations
         startDate = self.currentDate
-        self.currentDate = startDate
         lastDate = Researcher.get_closing_day(self.simYear)
         Reporter = NPReporter(self)
         self.setup()
@@ -365,7 +345,7 @@ class NPSimulation(Simulation):
             7) (2010, 2009, 2, 1)
             8) (2010, 2010, 2, 2)
         """
-        numSims = 0
+        # numSims = 0
         for param in (simYearRange, simMinBatRange, NRange, PRange):
             assert len(param) == 2
             for item in param:
@@ -377,7 +357,7 @@ class NPSimulation(Simulation):
         simYearL, batAveYearL, NL, PL , minBatAveL = [], [], [], [], []
         numSuccessL, percentSuccessL, numFailL, percentFailL = [], [], [], []
         minPAL, methodL, oneStreakL, twoStreakL, threeStreakL, = [], [], [], [], []
-        fourStreakL, fiveStreakL, doubleDownL = [], [], []
+        fourStreakL, fiveStreakL, topStreakAveL, doubleDownL = [], [], [], []
         startDateL, endDateL = [], []
 
         # initialize a progressbar for the simulation
@@ -400,16 +380,16 @@ class NPSimulation(Simulation):
                 for N in xrange(NRange[0], NRange[1]+1):
                     for P in xrange(PRange[0], PRange[1]+1):
                         for doubleDown in (True, False):
-                            numSims += 1
+                            # numSims += 1
                             # set sim parameters and simulate
                             self.set_sim_year(simYear)
                             self.set_bat_year(batAveYear)
                             self.set_n(N)
                             self.set_p(P)
                             self.doubleDown = doubleDown
-                            print '\n    CurSim: {} {}'.format(self.simYear, 
-                                self.batAveYear) + ' {} {} '.format(self.numBots, 
-                                self.numPlayers) + ' dDown: {}'.format(self.doubleDown)
+                            # print '\n    CurSim: {} {}'.format(self.simYear, 
+                            #     self.batAveYear) + ' {} {} '.format(self.numBots, 
+                            #     self.numPlayers) + ' dDown: {}'.format(self.doubleDown)
                             startDate, endDate = self.simulate(anotherSim=True, prbar=False)
 
                             # get 5 top streaks
@@ -417,9 +397,9 @@ class NPSimulation(Simulation):
                                 reverse=True)
                             fiveTopStreaks = [bot.get_max_streak_length() for bot 
                                 in self.get_bots()][0:5]
-                            if len(fiveTopStreaks) < 5: ## less than 5 bots!
-                                for i in range(5):
-                                    fiveTopStreaks.append('N/A')
+                            fiveTopStreakNums = [elem for elem in fiveTopStreaks] # for calcuating average
+                            while len(fiveTopStreaks) < 5:
+                                fiveTopStreaks.append('N/A')
                                     
                             # record sim metadata and results for later reporting
                             simYearL.append(self.get_sim_year())
@@ -434,11 +414,18 @@ class NPSimulation(Simulation):
                             percentFailL.append(percF)
                             minPAL.append(self.minPA)
                             methodL.append(self.method)
-                            oneStreakL.append(fiveTopStreaks[0])
-                            twoStreakL.append(fiveTopStreaks[1])
-                            threeStreakL.append(fiveTopStreaks[2])
-                            fourStreakL.append(fiveTopStreaks[3])
-                            fiveStreakL.append(fiveTopStreaks[4])
+                            oneS, twoS, threeS, fourS, fiveS = fiveTopStreaks
+                            oneStreakL.append(oneS)
+                            twoStreakL.append(twoS)
+                            threeStreakL.append(threeS)
+                            fourStreakL.append(fourS)
+                            fiveStreakL.append(fiveS)
+                            topStreakAveL.append(float(sum(fiveTopStreakNums))/len(fiveTopStreakNums))
+                            # oneStreakL.append(fiveTopStreaks[0])
+                            # twoStreakL.append(fiveTopStreaks[1])
+                            # threeStreakL.append(fiveTopStreaks[2])
+                            # fourStreakL.append(fiveTopStreaks[3])
+                            # fiveStreakL.append(fiveTopStreaks[4])
                             doubleDownL.append(self.doubleDown)
                             startDateL.append(startDate)
                             endDateL.append(endDate)
@@ -457,8 +444,8 @@ class NPSimulation(Simulation):
             percentFailL=percentFailL, oneStreakL=oneStreakL, 
             twoStreakL=twoStreakL, threeStreakL=threeStreakL, 
             fourStreakL=fourStreakL, fiveStreakL=fiveStreakL, 
-            minPAL=minPAL, methodL=methodL, doubleDownL=doubleDownL,
-            startDateL=startDateL, endDateL=endDateL,
+            topStreakAveL=topStreakAveL, minPAL=minPAL, methodL=methodL, 
+            doubleDownL=doubleDownL,startDateL=startDateL, endDateL=endDateL,
             simYearRange=simYearRange, simMinBatRange=simMinBatRange, 
             NRange=NRange, PRange=PRange)
 
@@ -728,6 +715,9 @@ if __name__ == '__main__': # pragma: no cover
     3) ./npsimulation.py -d -m=minPA simYear batAveYear N P
        -> runs a single simulation with given parameters using doubleDown
        and minPA = minPA
+    4) ./npsimulation -d -M simYearLow-simYearHigh SMBLow-SMBHigh nLow-nHigh, pLow-pHigh
+       -> runs a mass simulation with double downs and given parameters 
+   
 
     Auxiliary options: 
         -t : indicates results should be printed to test results folder

@@ -110,6 +110,7 @@ class NPReporter(object):
         methodL = [self.selMethods[methodIndex] for methodIndex 
             in kwargs['methodL']]
         methodS = Series(methodL, name='Method')
+        topStreakAveS = Series(kwargs['topStreakAveL'], name='Mean(topFiveStreaks)')
         oneStreakS = Series(kwargs['oneStreakL'], name='1 Streak')
         twoStreakS = Series(kwargs['twoStreakL'], name='2 Streak')
         threeStreakS = Series(kwargs['threeStreakL'], name='3 Streak')
@@ -121,8 +122,8 @@ class NPReporter(object):
 
         # construct dataframe to write to excel file
         df = concat([simYearS, batAveYearS, nS, pS, minBatAveS, successesS, 
-                     perSuccessS, failureS, perFailureS, doubleDownS, oneStreakS, 
-                     twoStreakS, threeStreakS, fourStreakS, fiveStreakS, 
+                     perSuccessS, failureS, perFailureS, doubleDownS, topStreakAveS, 
+                     oneStreakS, twoStreakS, threeStreakS, fourStreakS, fiveStreakS, 
                      startDateS, endDateS, minPAS, methodS], axis=1)
 
         # Write the info to an excel spreadsheet
