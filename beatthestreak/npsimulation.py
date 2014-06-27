@@ -141,13 +141,15 @@ class NPSimulation(Simulation):
             return
         for i, bot in enumerate(self.bots):
             player = activePlayers[i % modFactor]
-            # Check if the desired info is on the buffer
-            copyBot = self.__check_update_buffer(p1=player, p2=None, date=today)
-            if copyBot:
-                bot.update_history(bot=copyBot)
-            else: # if its not, then update normally
-                bot.update_history(p1=player, date=today, susGamesDict=sGD)
-                self.botHistoryBuffer[1].append(bot)
+            # # Check if the desired info is on the buffer
+            # copyBot = self.__check_update_buffer(p1=player, p2=None, date=today)
+            # if copyBot:
+            #     bot.update_history(bot=copyBot)
+            # else: # if its not, then update normally
+                # bot.update_history(p1=player, date=today, susGamesDict=sGD)
+                # self.botHistoryBuffer[1].append(bot)
+            bot.update_history(p1=player, date=today, susGamesDict=sGD)
+            self.botHistoryBuffer[1].append(bot)
         # update the date
         self.incr_date()
  
@@ -176,13 +178,16 @@ class NPSimulation(Simulation):
             if modFactor == 1: # can't double down if only 1 active player!
                 p1 = activePlayers[0]
                 # Check if desired info is on the buffer
-                copyBot = self.__check_update_buffer(p1=p1, p2=None, date=today)
-                if copyBot:
-                    bot.update_history(bot=copyBot)
-                else: # if its not, update normally
-                    bot.update_history(p1=activePlayers[0], date=today, 
-                        susGamesDict=sGD)
-                    self.botHistoryBuffer[1].append(bot)
+                # copyBot = self.__check_update_buffer(p1=p1, p2=None, date=today)
+                # if copyBot:
+                #     bot.update_history(bot=copyBot)
+                # else: # if its not, update normally
+                #     bot.update_history(p1=activePlayers[0], date=today, 
+                #         susGamesDict=sGD)
+                #     self.botHistoryBuffer[1].append(bot)
+                bot.update_history(p1=activePlayers[0], date=today, 
+                    susGamesDict=sGD)
+                self.botHistoryBuffer[1].append(bot)
                 continue
                 
             ## Else double Down!
@@ -193,12 +198,14 @@ class NPSimulation(Simulation):
             p2 = activePlayers[p2Index]
 
             # Check if the desired info is on the buffer
-            copyBot = self.__check_update_buffer(p1=p1, p2=p2, date=today)
-            if copyBot:
-                bot.update_history(bot=copyBot)
-            else: # if its not, then update normally
-                bot.update_history(p1=p1, p2=p2, date=today, susGamesDict=sGD)
-                self.botHistoryBuffer[1].append(bot)
+            # copyBot = self.__check_update_buffer(p1=p1, p2=p2, date=today)
+            # if copyBot:
+            #     bot.update_history(bot=copyBot)
+            # else: # if its not, then update normally
+            #     bot.update_history(p1=p1, p2=p2, date=today, susGamesDict=sGD)
+            #     self.botHistoryBuffer[1].append(bot)
+            bot.update_history(p1=p1, p2=p2, date=today, susGamesDict=sGD)
+            self.botHistoryBuffer[1].append(bot)
 
         # update the date
         self.incr_date()
@@ -666,6 +673,8 @@ def main(*args): # pragma: no cover
     # is it a test or a full run?
     if '-t' in options:
         test=True
+    else: 
+        test=False
     if massSim:
         # make sure last four arguments are simYearLow-simYearHigh, 
         # batAveYearLow-batAveYearHigh, nLow-nHigh, pLow, pHigh
@@ -706,7 +715,7 @@ def main(*args): # pragma: no cover
         print "Simming with simYear: {}, batAveYear: {}, N: {}, P: {}".format(
                 int(args[-4]), int(args[-3]), int(args[-2]), int(args[-1]), minPA)
         print "Options: DoubleDown: {}, minPA: {}".format(doubleDown, minPA)
-        sim.simulate(test=True)
+        sim.simulate(test=test)
 
 if __name__ == '__main__': # pragma: no cover
     """
