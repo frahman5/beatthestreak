@@ -19,14 +19,14 @@ class Simulation(object):
         simYear: 4 digit int indicating in which season to run the simulation
         currentDate: date | startDate for simulation
         """
-        assert type(year) == int
-        assert (type(startDate) == str) or (type(startDate) == datetime.date)
+        #assert type(year) == int
+        #assert (type(startDate) == str) or (type(startDate) == datetime.date)
 
         self.simYear = self._check_year(year)
         if startDate == 'default':
             self.currentDate = Researcher.get_opening_day(year)
         else:
-            assert type(startDate) == datetime.date
+            #assert type(startDate) == datetime.date
             Researcher.check_date(startDate, startDate.year)
             self.currentDate = startDate
 
@@ -36,7 +36,7 @@ class Simulation(object):
         Produces an exception if year is before 1962 or a strike year (1972, 
             1982, 1994, 1995) since 1962. Returns the given year otherwise.
         """
-        assert type(year) == int
+        #assert type(year) == int
 
         # Since 1962 the season has been 162 games and 3.1 PAs per game, or 502
         # per season has been the min requirement for batting title contention.
@@ -74,7 +74,7 @@ class Simulation(object):
         return self.simYear
 
     def set_date(self, date):
-        assert type(date) == datetime.date
+        #assert type(date) == datetime.date
         self.currentDate = date
     
     def get_date(self):

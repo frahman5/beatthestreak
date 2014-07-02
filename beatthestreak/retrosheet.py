@@ -25,7 +25,7 @@ class Retrosheet(object):
         FileTypes: TupleOfStrings | Retrosheet file types supported
     """
     def __init__(self, season):
-        assert type(season) == int
+        #assert type(season) == int
         self.season = season
 
         self.destZipped = Filepath.get_retrosheet_folder(folder='zipped')
@@ -52,8 +52,8 @@ class Retrosheet(object):
 
         Downloads and unzips retrosheet files of type type
         """
-        assert type(typeT) == str
-        assert typeT in self.FileTypes
+        #assert type(typeT) == str
+        #assert typeT in self.FileTypes
 
         self.download(typeT=typeT)
         self.unzip(typeT=typeT)
@@ -66,8 +66,8 @@ class Retrosheet(object):
 
         downloads retrosheet files for self.season of type typeT
         """
-        assert type(typeT) == str
-        assert typeT in self.FileTypes
+        #assert type(typeT) == str
+        #assert typeT in self.FileTypes
 
         if typeT == 'event':
             if os.path.isfile(self.eventFileZipped): return
@@ -93,8 +93,8 @@ class Retrosheet(object):
 
         unzips retrosheet event files for self.season of type typeT
         """
-        assert type(typeT) == str
-        assert typeT in self.FileTypes
+        #assert type(typeT) == str
+        #assert typeT in self.FileTypes
 
         if typeT == 'event':
             if not os.path.isfile(self.eventFileZipped):

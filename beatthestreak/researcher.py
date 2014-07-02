@@ -179,7 +179,7 @@ class Researcher(object):
         """
         # type check arguments 
         self.check_date(date, date.year)
-        assert type(sGD) == dict
+        #assert type(sGD) == dict
 
         ## Check if its on the buffer
         if self.playerInfoBuffer[0] == date:
@@ -257,7 +257,7 @@ class Researcher(object):
 
         Produces the number of at bats that player had in year year
         """
-        assert type(year) == int
+        #assert type(year) == int
 
         # get relevant columns from batting csv
         df = pd.read_csv(Filepath.get_lahman_file("batting"), 
@@ -276,7 +276,7 @@ class Researcher(object):
 
         Returns the number of plate appearances that player had in year year
         """
-        assert type(year) == int
+        #assert type(year) == int
 
         # get relevant columns from batting csv
         df = pd.read_csv(Filepath.get_lahman_file("batting"), 
@@ -389,7 +389,7 @@ class Researcher(object):
 
         Returns the date of opening day in year year
         """
-        assert type(year) == int 
+        #assert type(year) == int 
 
         Utilities.ensure_gamelog_files_exist(year)
  
@@ -411,7 +411,7 @@ class Researcher(object):
 
        Returns the date of closing day (of regular season) in year year
        """
-       assert type(year) == int
+       #assert type(year) == int
 
        Utilities.ensure_gamelog_files_exist(year)
  
@@ -438,7 +438,7 @@ class Researcher(object):
 
         Returns (firstName, lastName) for MLB player with id lahmanID
         """
-        assert type(lahmanID) == str
+        #assert type(lahmanID) == str
 
         # get relevant files from master csf
         df = pd.read_csv(Filepath.get_lahman_file("master"), 
@@ -462,7 +462,7 @@ class Researcher(object):
         dv2, hv2, ov2,
         ....
         """
-        assert type(year) == int
+        #assert type(year) == int
         # check if its already there:
         filePath = Filepath.get_player_hit_info_csv_file(
                       player.get_lahman_id(), year)
@@ -511,8 +511,8 @@ class Researcher(object):
         Produces true if date was one of active days of the MLB regular season
         in year year
         """
-        assert type(date) == datetime.date
-        assert type(year) == int
+        #assert type(date) == datetime.date
+        #assert type(year) == int
 
         if year not in self.openAndCloseDays.keys():
             raise BadDateException("Year: {}. Researcher only".format(year) + \
@@ -589,7 +589,7 @@ class Researcher(object):
                       of suspension, the game was tied and <= 2 outs were 
                       completed in the 5th inning. 
         """
-        assert type(game) == str
+        #assert type(game) == str
         
         # Make sure its actually a suspended game
         if not self.__is_game_suspended(game):
@@ -633,7 +633,7 @@ class Researcher(object):
 
         Returns true if game was suspended and false otherwise
         """
-        assert type(game) == str
+        #assert type(game) == str
         # column 14 contains a yyyymmdd date string if the game was suspended
         # and completed on the date in column 14, and is empty otherwise
         item14 = game.replace('"','').split(',')[13]
@@ -663,12 +663,12 @@ class Researcher(object):
         for the string. If found, returns the line in which
         the string was found. If not found, raises fileContentException
         """
-        assert type(fileF) == file
-        assert type(search) == str
+        #assert type(fileF) == file
+        #assert type(search) == str
         self.check_date(date, date.year)
-        assert type(team) == str
-        assert type(errorMessage) == str
-        assert (typeT == 0) or (typeT == 1)
+        #assert type(team) == str
+        #assert type(errorMessage) == str
+        #assert (typeT == 0) or (typeT == 1)
 
         # If its a player, the file should already have been seeked all the
         # way to the correct date, so we don't do any fileseeking.

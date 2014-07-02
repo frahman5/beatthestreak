@@ -40,8 +40,8 @@ class NPReporter(object):
 
         Produces results of self.npsim in an excel file
         """
-        assert type(test) == bool
-        assert type(method) == int
+        #assert type(test) == bool
+        #assert type(method) == int
 
         npsim = self.get_npsim()
         # Initalize variables
@@ -94,8 +94,8 @@ class NPReporter(object):
         Reports mass simulation results to excel spreadsheet
         """
         npsim = self.get_npsim()
-        for item in kwargs.itervalues():
-            assert (type(item) == list) or (type(item) == tuple)
+        # for item in kwargs.itervalues():
+            #assert (type(item) == list) or (type(item) == tuple)
 
         # Create series corresponding to columns of csv
         simYearS = Series(kwargs['simYearL'], name='Sim Year')
@@ -152,7 +152,7 @@ class NPReporter(object):
         Outputs bot info results to excel buffer. (Helper function for 
         _report_results_excel)
         """
-        assert type(bot) == Bot
+        #assert type(bot) == Bot
 
         npsim = self.get_npsim()
 
@@ -234,7 +234,7 @@ class NPReporter(object):
         writer: file-like object used to write to an excel file
         method: int | the index of player selection method used in the simulation
         """
-        assert type(method) == int
+        #assert type(method) == int
 
         npsim = self.get_npsim()       
 

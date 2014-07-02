@@ -62,8 +62,8 @@ class NPSimulation(Simulation):
     def __init__(self, simYear, batAveYear, N, P, startDate='default', 
             doubleDown=False, minPA=502, method=1):
         # _check_year type checks simYear and batAveYear
-        assert type(N) == int
-        assert type(P) == int
+        #assert type(N) == int
+        #assert type(P) == int
         
         Simulation.__init__(self, simYear, startDate)
         self.batAveYear = self._check_year(batAveYear)
@@ -76,13 +76,13 @@ class NPSimulation(Simulation):
         self.players = [] # set upon setup
         self.bots = [] # set upon setup
         self.isSetup = False # # set upon setup
-        # self.susGamesDict = {} # set upon setup
 
         self.doubleDown = doubleDown
            # default selection method
            # see NPReporter self.methods for definitions of methods
         self.method = method
-# @profile 
+   
+    # @profile 
     def simulate(self, numDays='max', anotherSim=False, test=False, prbar=True):
         """
         int|string  bool bool bool -> datetime.date datetime.date
@@ -104,20 +104,20 @@ class NPSimulation(Simulation):
         """
         # import pdb
         # pdb.set_trace()
-        assert (type(numDays) == str) or (type(numDays) == int)
-        assert type(anotherSim) == bool
-        assert type(test) == bool
+        #assert (type(numDays) == str) or (type(numDays) == int)
+        #assert type(anotherSim) == bool
+        #assert type(test) == bool
 
         ## initalize relevant date variables and setup the simulation
-        # if self.startDate == 'default':
-        #     self.currentDate = Researcher.get_opening_day(self.simYear)
-        # else:
-        #     assert type(self.startDate) == datetime.date
-        #     Researcher.check_date(self.startDate, startDate.year)
-        #     self.currentDate = self.startDate
-        # startDate = self.currentDate
-        # self.currentDate = startDate
-        self.currentDate = date(self.simYear, 7, 7) # for actual production simulations
+        if self.startDate == 'default':
+            self.currentDate = Researcher.get_opening_day(self.simYear)
+        else:
+            #assert type(self.startDate) == datetime.date
+            Researcher.check_date(self.startDate, startDate.year)
+            self.currentDate = self.startDate
+        startDate = self.currentDate
+        self.currentDate = startDate
+        # self.currentDate = date(self.simYear, 7, 7) # for actual production simulations
         startDate = self.currentDate
         lastDate = Researcher.get_closing_day(self.simYear)
         Reporter = NPReporter(self)
@@ -141,10 +141,10 @@ class NPSimulation(Simulation):
         doubleDown = self.doubleDown
         while True:
             if (numDays=='max') and (self.currentDate >= lastDate): # pragma: no cover
-                Reporter.report_results(test=test, method=self.method)
+                # Reporter.report_results(test=test, method=self.method)
                 break
             if (type(numDays) == int) and elapsedDays >= numDays:
-                Reporter.report_results(test=test, method=self.method)
+                # Reporter.report_results(test=test, method=self.method)
                 break
             sim_next_day(doubleDown=doubleDown)
             elapsedDays += 1
@@ -152,39 +152,13 @@ class NPSimulation(Simulation):
                 update_pbar(elapsedDays)
         if prbar:
             pbar.finish()
-        # debugging code
-        # with open(Filepath.get_root() + '/CExtensions/CResearcher/debug1.c', "w") as f:
-        #     f.write("#include <stdio.h>\n")
-        #     f.write("""#include "crhelper.h"\n\n""")
-        #     f.write("/************ DECLARATIONS FOR BOXSCORE CALLS *********/\n")
-        #     f.write("FILE *fp = NULL;\n")
-        #     f.write("char *foundIt;\n")
-        #     f.write("char *searchD;\n")
-        #     f.write("char *searchP;\n")
-        #     f.write("char *boxscore;\n\n")
-        #     f.write("int main() {\n")
-        #     i = 0
-        #     tab = "    "
-        #     for boxscore, searchD, searchP in Researcher.debugList:
-        #         f.write("{0}/* Call num: {1} */\n".format(tab, i))
-        #         f.write("""{0}fp = fopen("{1}", "r");\n""".format(tab, boxscore))
-        #         f.write("""{0}searchD="{1}";\n""".format(tab, searchD))
-        #         f.write("""{0}searchP="{1}";\n""".format(tab, searchP))
-        #         f.write("""{0}boxscore="{1}";\n""".format(tab, boxscore))
-        #         f.write("{0}_search_boxscore(fp, &foundIt, searchD, boxscore);\n".format(tab))
-        #         f.write("{0}_search_boxscore(fp, &foundIt, searchP, boxscore);\n".format(tab))
-        #         f.write("{0}fclose(fp);\n\n".format(tab))
-        #         i += 1
-        #     f.write("}")
-
-
-
 
         # close up shop
         if anotherSim: # pragma: no cover
             self.set_setup(value=False)
 
         return startDate, lastDate
+    
     # @profile
     def setup(self):
         """
@@ -215,7 +189,7 @@ class NPSimulation(Simulation):
 
         Simulates the next day
         """
-        assert type(doubleDown) == bool
+        #assert type(doubleDown) == bool
         if doubleDown:
             self.__sim_next_day_double()
         else:
@@ -339,11 +313,11 @@ class NPSimulation(Simulation):
             7) (2010, 2009, 2, 1)
             8) (2010, 2010, 2, 2)
         """
-        for param in (simYearRange, simMinBatRange, NRange, PRange, minPARange):
-            assert len(param) == 2
-            for item in param:
-                assert type(item) == int
-        assert type(test) == bool
+        # for param in (simYearRange, simMinBatRange, NRange, PRange, minPARange):
+            #assert len(param) == 2
+            # for item in param:
+                #assert type(item) == int
+        #assert type(test) == bool
 
 
         # lists hold data that will later be written to .xlsxfile
@@ -480,7 +454,7 @@ class NPSimulation(Simulation):
         self.currentDate += timedelta(days=num_days)
 
     def set_bat_year(self, batAveYear): # delete
-        assert type(batAveYear) == int
+        #assert type(batAveYear) == int
         self.batAveYear = batAveYear
 
     def get_bat_year(self):
@@ -490,15 +464,15 @@ class NPSimulation(Simulation):
         self.isSetup = value
 
     def set_sim_year(self, simYear):
-        assert type(simYear) == int
+        #assert type(simYear) == int
         self.simYear = simYear
 
     def set_n(self, N):
-        assert type(N) == int
+        #assert type(N) == int
         self.numBots = N
 
     def set_p(self, P):
-        assert type(P) == int
+        #assert type(P) == int
         self.numPlayers = P
 
     def __bat_years_ms(self, simYear, simMinBatRange):
@@ -513,9 +487,9 @@ class NPSimulation(Simulation):
         simMinBatRange[1]
         """
         self._check_year(simYear)
-        assert (type(simMinBatRange) == tuple)
-        for item in simMinBatRange:
-            assert type(item) == int
+        #assert (type(simMinBatRange) == tuple)
+        # for item in simMinBatRange:
+            #assert type(item) == int
 
         return (simYear - difference for difference 
             in range(simMinBatRange[1], simMinBatRange[0]-1, -1))

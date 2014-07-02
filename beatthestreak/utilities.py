@@ -18,7 +18,7 @@ class Utilities(object):
         
         Produces date in retrosheet gamelog format "yyyymmdd""
         """
-        assert type(date) == datetime.date
+        #assert type(date) == datetime.date
 
         return date.isoformat().replace('-', '')
 
@@ -50,7 +50,7 @@ class Utilities(object):
         Checks if gamelog files for year year are on drive. If not, 
         downloads them
         """
-        assert type(year) == int
+        #assert type(year) == int
 
         if not os.path.isfile(Filepath.get_retrosheet_file(folder='unzipped', 
             fileF='gamelog', year=year)):
@@ -66,8 +66,8 @@ class Utilities(object):
         Checks if boxscore files for year year are on drive. If not, 
         generates them
         """
-        assert type(year) == int
-        assert type(team) == str
+        #assert type(year) == int
+        #assert type(team) == str
 
         if not os.path.isfile(Filepath.get_retrosheet_file(folder='unzipped',
             fileF='boxscore', year=year, team=team)):

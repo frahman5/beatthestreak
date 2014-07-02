@@ -39,7 +39,7 @@ class Bot(object):
         Bots are considered equal if they have the same maxStreakLength
         and identical player histories
         """
-        assert type(other) == Bot
+        #assert type(other) == Bot
 
         if self.get_max_streak_length() != other.get_max_streak_length():
             return False
@@ -65,7 +65,7 @@ class Bot(object):
         elif not p2: 
             self.__update_history_single_down(p1, date)
 
-    # @profile
+    # @profile    
     def __update_history_double_down(self, p1, p2, date):
         """
         Player Player date dict -> None
@@ -77,9 +77,9 @@ class Bot(object):
         p1 and p2. Updates streakLength, maxStreakLength (if need be), and includes
         "other" column in history if need be
         """
-        assert type(p1) == Player
-        assert type(p2) == Player
-        assert type(date) == datetime.date
+        #assert type(p1) == Player
+        #assert type(p2) == Player
+        #assert type(date) == datetime.date
 
         # To make sure returned otherInfo vals are valid
         otherInfoVals = (None, specialCasesD['S']['V'], 
@@ -92,8 +92,8 @@ class Bot(object):
         self.players = (p1, p2)
         hitVal1, otherInfo1 = cget_hit_info(date, p1.get_lahman_id())
         hitVal2, otherInfo2 = cget_hit_info(date, p2.get_lahman_id())
-        assert otherInfo1 in otherInfoVals
-        assert otherInfo2 in otherInfoVals
+        #assert otherInfo1 in otherInfoVals
+        #assert otherInfo2 in otherInfoVals
 
         # get unordered collection of hitVals
         hitVals = set([hitVal1, hitVal2]) 
@@ -143,8 +143,8 @@ class Bot(object):
         p1. Updates streakLength, maxStreakLength (if need be), and includes
         "other" column in history if need be
         """
-        assert type(p1) == Player
-        assert type(date) == datetime.date
+        #assert type(p1) == Player
+        #assert type(date) == datetime.date
 
         # To make sure returned otherInfo vals are valid
         otherInfoVals = (None, specialCasesD['S']['V'], 
@@ -154,7 +154,7 @@ class Bot(object):
         # update assigned player and get his hit information
         self.players = (p1, None)
         hitVal, otherInfo = cget_hit_info(date, p1.get_lahman_id())
-        assert otherInfo in otherInfoVals
+        #assert otherInfo in otherInfoVals
 
         ## Update streak length and max streak length
         # Case 1: Player got a hit
@@ -199,9 +199,9 @@ class Bot(object):
         update_history function call
         """
         ## commented out bceause it was a speed clog
-        # assert (not otherInfo1) or (type(otherInfo1) == str)
-        # assert (not otherInfo2) or (type(otherInfo2) == str)
-        # assert type(mulligan) == bool
+        # #assert (not otherInfo1) or (type(otherInfo1) == str)
+        # #assert (not otherInfo2) or (type(otherInfo2) == str)
+        # #assert type(mulligan) == bool
 
         # Concatenate otherInfos
         if (not otherInfo1) and (not otherInfo2): # both None
@@ -228,7 +228,7 @@ class Bot(object):
         Increment this bot's streak by amount and update max streak length
         if need be
         """
-        assert type(amount) == int
+        #assert type(amount) == int
 
         self.streakLength += amount
 
@@ -251,7 +251,7 @@ class Bot(object):
         self.streakLength = 0
 
     def set_max_streak_length(self, amount):
-        assert type(amount) == int
+        #assert type(amount) == int
 
         self.maxStreakLength = amount
 
