@@ -5,7 +5,7 @@ from beatthestreak.tests import p1, p2, p3, p4, p5
 from beatthestreak.researcher import Researcher as R
 from beatthestreak.player import Player
 from beatthestreak.filepath import Filepath
-from cresearcher import cfinish_did_get_hit, cget_hit_info, cdid_start
+from cresearcher import cfinish_did_get_hit, cget_hit_info, cdid_start, copposing_pitcher_era
 
 class TestCResearcher(unittest.TestCase):
 
@@ -149,3 +149,19 @@ class TestCResearcher(unittest.TestCase):
         # show up as NOT having started on the 31st, and starting on the 30th
         self.assertFalse(cdid_start(date=date(2004, 7, 31), lahmanID=Craig.get_lahman_id()))
         self.assertTrue(cdid_start(date=date(2004, 7, 3), lahmanID=Craig.get_lahman_id()))
+
+    def test_copposing_pitcher_era(self):
+        Jose = p2
+        Pat = Player('Pat', 'Meares', 1997)
+        Doug = Player('Doug', 'Mirabelli', 2000)
+        Jacoby = Player('Jacoby', 'Ellsbury', 2012) 
+        Ryan = Player('Ryan', 'Langerhans', 2011)
+        
+        # Some arbitrary tests
+        self.assertEqual(copposing_pitcher_era(Jose.get_lahman_id(), date(2009,5,10)), 4.50)
+        self.assertEqual(copposing_pitcher_era(Pat.get_lahman_id(), date(1997,6,16)), 5.53)
+        self.assertEqual(copposing_pitcher_era(Doug.get_lahman_id(), date(2000,9,27)), 1.69)
+
+        # End Cases
+        self.assertEqual(copposing_pitcher_era(Ryan.get_lahman_id(), date(2011,4,1)), float('inf')) # Opening Day
+        self.assertEqual(copposing_pitcher_era(Jacoby.get_lahman_id(), date(2012,10,3)), 3.34) # Closing Day

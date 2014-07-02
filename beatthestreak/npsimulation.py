@@ -10,13 +10,13 @@ from datetime import date, timedelta
 from progressbar import ProgressBar
 from progressbar.widgets import Timer, Percentage
 
-from cresearcher import cdid_start
+from cresearcher import cdid_start, copposing_pitcher_era
 from config import specialCasesD
 from filepath import Filepath
 from simulation import Simulation
 from player import Player
 from researcher import Researcher
-from exception import DifficultYearException
+from exception import DifficultYearException, InvalidMethodException
 from bot import Bot
 from npreporter import NPReporter
 
@@ -61,7 +61,7 @@ class NPSimulation(Simulation):
             reset to 0
     """
     def __init__(self, simYear, batAveYear, N, P, startDate='default', 
-            doubleDown=False, minPA=502, method=1):
+            doubleDown=False, minPA=502, minERA=1.0, method=1):
         # _check_year type checks simYear and batAveYear
         #assert type(N) == int
         #assert type(P) == int
@@ -72,6 +72,7 @@ class NPSimulation(Simulation):
         self.numPlayers = P
         self.startDate = startDate
         self.minPA = minPA
+        self.minERA = minERA
 
         self.minBatAve = 0 # set upon setup
         self.players = [] # set upon setup
@@ -204,26 +205,38 @@ class NPSimulation(Simulation):
         today = self.get_date()
 
         # Retrieve list of players playing today
-        # activePlayers = [player for player in self.players if \
-        #      Researcher.did_start(today, player)]
-        activePlayers = [player for player in self.players if \
-               cdid_start(today, player.get_lahman_id())]
+        if self.method in (1, 2):
+            qualifyingPlayers = [ player for player in self.players if \
+                                  cdid_start(today, player.get_lahman_id()) ]
+        elif self.method in (3, 4): 
+            minERA = self.minERA
+            qualifyingPlayers = [ 
+                player for player in self.players if
+                cdid_start(today, player.get_lahman_id()) and
+                copposing_pitcher_era(player, today) > minERA] 
+        else:
+            raise InvalidMethodException("Method: {} is not valid".format(
+                        self.method))
         
         # assign players to bots and update histories
-        modFactor = len(activePlayers)
+        modFactor = len(qualifyingPlayers)
         # no active players today
         if modFactor == 0: # pragma: no cover
             self.incr_date() 
             return
             # deterministic distribution of players
-        if self.method == 1: 
+        if self.method in (1, 3): 
             for i, bot in enumerate(self.bots):
-                player = activePlayers[i % modFactor]
+                player = qualifyingPlayers[i % modFactor]
                 bot.update_history(p1=player, date=today)
-        elif self.method == 2:
+        elif self.method in (2, 4):
             for bot in self.bots:
-                player = random.choice(activePlayers)
+                player = random.choice(qualifyingPlayers)
                 bot.update_history(p1=player, date=today)
+        else: 
+            raise InvalidMethodException("Method: {} is not valid".format(
+                        self.method))
+
         # update the date
         self.incr_date()
  
@@ -237,55 +250,65 @@ class NPSimulation(Simulation):
         """
         today = self.get_date()
 
-        # Retreve list of players playing today
-        # activePlayers = [player for player in self.players if \
-        #     Researcher.did_start(today, player)]
-        activePlayers = [player for player in self.players if \
-              cdid_start(today, player.get_lahman_id())]
+        # Retrieve list of players playing today
+        if self.method in (1, 2):
+            qualifyingPlayers = [ player for player in self.players if \
+                                  cdid_start(today, player.get_lahman_id()) ]
+        elif self.method in (3, 4): 
+            minERA = self.minERA
+            qualifyingPlayers = [ 
+                player for player in self.players if
+                cdid_start(today, player.get_lahman_id()) and
+                copposing_pitcher_era(player, today) > minERA] 
+        else:
+            raise InvalidMethodException("Method: {} is not valid".format(
+                        self.method))
 
         # assign players to bots and update histories
-        modFactor = len(activePlayers)
-        # sGD = self.susGamesDict
+        modFactor = len(qualifyingPlayers)
         # no active Players today
         if modFactor == 0: # pragma: no cover
             self.incr_date() 
             return 
             # deterministic distribution
-        if self.method == 1:
+        if self.method in (1, 3):
             for i, bot in enumerate(self.bots):
                 if modFactor == 1: # can't double down if only 1 active player!
-                    p1 = activePlayers[0]
-                    bot.update_history(p1=activePlayers[0], date=today)
+                    p1 = qualifyingPlayers[0]
+                    bot.update_history(p1=p1, date=today)
                     continue
                     
                 ## Else double Down!
                 # get player indices. Mod in p2Index accounts for odd Modfactor
                 p1Index = (i * 2) % modFactor
                 p2Index = (p1Index + 1) % modFactor 
-                p1 = activePlayers[p1Index]
-                p2 = activePlayers[p2Index]
+                p1 = qualifyingPlayers[p1Index]
+                p2 = qualifyingPlayers[p2Index]
                 # update bot
                 bot.update_history(p1=p1, p2=p2, date=today)
             # random selection
-        elif self.method == 2:
+        elif self.method in (2, 4):
             for bot in self.bots:
                 if modFactor == 1: # can't double down if only 1 active player!
-                    p1 = random.choice(activePlayers)
-                    bot.update_history(p1=activePlayers[0], date=today)
+                    p1 = random.choice(qualifyingPlayers)
+                    bot.update_history(p1=p1, date=today)
                     continue
                 ## Else double down
-                p1 = random.choice(activePlayers)
+                p1 = random.choice(qualifyingPlayers)
                 p2 = p1
                 while (p2 == p1):
-                    p2 = random.choice(activePlayers)
+                    p2 = random.choice(qualifyingPlayers)
                 # update bot
                 bot.update_history(p1=p1, p2=p2, date=today)
+        else:
+            raise InvalidMethodException("Method: {} is not valid".format(
+                        self.method))
 
         # update the date
         self.incr_date()
 
     def mass_simulate(self, simYearRange, simMinBatRange, NRange, PRange, 
-            minPARange, method=1, test=False):
+            minPARange, minERARange, method=1, test=False):
         """
         tupleOfInts tupleOfInts tupleOfInts tupleOfInts tupleOfInts bool -> None
         simYearRange: the years (inclusive) over which to run simulation

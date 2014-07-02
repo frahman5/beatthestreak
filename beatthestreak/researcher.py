@@ -200,7 +200,28 @@ class Researcher(object):
         # self.debugList.append((date, player))
         self.playerInfoBuffer[1].append((player, hitVal, otherInfo))
         return hitVal, otherInfo
+        
+    @classmethod
+    def opposing_pitcher_era(self, player, date):
+        """
+        Player datetime.date -> float
 
+        Returns the ERA the pitcher who started on date date
+        in the game that player player started in. Returns in-season
+        ERA leading up to the given date, rounded to 2 decimal points"
+        """
+        self.check_date(date, date.year)
+
+        ## find out who the pitcher was
+        listOfGames = self.__get_list_of_games(date)
+        for game in listOfGames:
+            if player.get_retrosheet_id() in game:
+                print game
+
+
+        ## calculate his era leading up the date
+
+        ## Return the ERA
     @classmethod
     # @profile
     def find_home_team(self, date, player):
@@ -329,7 +350,6 @@ class Researcher(object):
         Helper function. Gets a list of the lines from the gamelog for date.year
         and returns it. Assumes date has been checked
         """
-        self.check_date(date, date.year)
 
         # If it's on the buffer, go get it
         if self.listOfGamesBuffer[0] == date:

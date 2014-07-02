@@ -45,7 +45,21 @@ where the above variables are set appropriately"
             lahmanID: string | lahmanID of player of interest\n\
 \n\
         Returns: True if player started a game on the given date, False otherwise"
+#define coppoingPitcherEraDocString "string datetime.date -> bool\
+\n\
+        lahmanID: string | lahmanID of player\n\
+        date: datetime.date | date of interest\n\
+\n\
+        Returns the ERA the pitcher who started on date date\n\
+        in the game that player with lahmanID started in. Returns in-season\n\
+        ERA as of the given date, rounded to 2 decimal points"
 
+/* Return in-season ERA of opposing pitcher */
+static PyObject *copposing_pitcher_era(
+          PyObject *self, PyObject *args, PyObject *kwargs) {
+    float f = 1.24;
+    return Py_BuildValue("f", f);
+}
 /* Return Py_True if player started, Py_False otherwise */
 static PyObject *cdid_start(
           PyObject *self, PyObject *args, PyObject *kwargs) {
@@ -276,7 +290,9 @@ static PyMethodDef cresearcherMethods[] = {
     { "cget_hit_info", (PyCFunction) cget_hit_info, 
       METH_KEYWORDS, cgetHitInfoDocString }, 
     { "cdid_start", (PyCFunction) cdid_start, 
-      METH_KEYWORDS, cdidStartDocString },    
+      METH_KEYWORDS, cdidStartDocString },
+    { "copposing_pitcher_era", (PyCFunction) copposing_pitcher_era, 
+      METH_KEYWORDS, coppoingPitcherEraDocString },    
     { NULL, NULL, 0, NULL} /* sentinel */
 };
 

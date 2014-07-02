@@ -30,3 +30,6 @@ class MulliganException(Exception):
 
 class FellThroughException(Exception):
 	pass
+
+class InvalidMethodException(Exception):
+	pass
