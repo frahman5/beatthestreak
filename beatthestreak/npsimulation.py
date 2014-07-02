@@ -103,22 +103,20 @@ class NPSimulation(Simulation):
         of greater than 57, as well as their respective streak lengths. Reports
         back a variable number of top bots, inluding their player histories. 
         """
-        # import pdb
-        # pdb.set_trace()
         #assert (type(numDays) == str) or (type(numDays) == int)
         #assert type(anotherSim) == bool
         #assert type(test) == bool
 
         ## initalize relevant date variables and setup the simulation
-        if self.startDate == 'default':
-            self.currentDate = Researcher.get_opening_day(self.simYear)
-        else:
-            #assert type(self.startDate) == datetime.date
-            Researcher.check_date(self.startDate, startDate.year)
-            self.currentDate = self.startDate
-        startDate = self.currentDate
-        self.currentDate = startDate
-        # self.currentDate = date(self.simYear, 7, 7) # for actual production simulations
+        # if self.startDate == 'default':
+        #     self.currentDate = Researcher.get_opening_day(self.simYear)
+        # else:
+        #     #assert type(self.startDate) == datetime.date
+        #     Researcher.check_date(self.startDate, startDate.year)
+        #     self.currentDate = self.startDate
+        # startDate = self.currentDate
+        # self.currentDate = startDate
+        self.currentDate = date(self.simYear, 7, 7) # for actual production simulations
         startDate = self.currentDate
         lastDate = Researcher.get_closing_day(self.simYear)
         Reporter = NPReporter(self)
