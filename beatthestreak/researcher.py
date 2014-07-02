@@ -211,15 +211,36 @@ class Researcher(object):
         ERA leading up to the given date, rounded to 2 decimal points"
         """
         self.check_date(date, date.year)
+        playerRID = player.get_retrosheet_id()
+           # counter for how many earned runs the player has allowed until today
+        playerERToDate = 0 
+           # counter for how many innings the player has pitched until today
+        playerIPToDate = 0 
 
         ## find out who the pitcher was
-        listOfGames = self.__get_list_of_games(date)
-        for game in listOfGames:
-            if player.get_retrosheet_id() in game:
-                print game
-
+        relevantGame = [ game for game in self.__get_list_of_games(date) if 
+                         playerRID in game][0]
+        if playerRID in relevantGame[132:159]: # indicates he was on the hometeam
+            pitcherRID = relevantGame[101] # visiting pitcher ID
+            pitcherName = relevantGame[102]
+        elif playerRID in relevantGame[105:132]: # indicates he was on the visiting team
+            pitcherRID = relevantGame[103] # home pitcher ID
+            pticherName = relevantGame[104]
+        else:
+            raise FileContentException(
+                "{0} not found in gamelog for date {1}".format(player, date))
 
         ## calculate his era leading up the date
+            # Find the dates on which he pitched
+        openingDay = self.get_opening_day(date.year)
+        dateRange = ( openingDay + timedelta(days=x) for x in range((date-openingDay).days))
+        datesPitched = ( date for date in dateRange if 
+                         pitcherRID in self.__get_participants_superset(date))
+            ## Count his total earned runs allowed and innings pitched to date
+        for date in dateRange:
+            ## get the hometeam
+            dateRFormat = Utilities.convert_date(date)
+        homeTeam = self.find_home_team(date, player)
 
         ## Return the ERA
     @classmethod
@@ -232,6 +253,38 @@ class Researcher(object):
 
         Produces a three digit abbreviation for the home team that played
             a game involving given player on given date
+        """
+        return self.find_home_team_from_rid(date, player.get_retrosheet_id())
+        # self.check_date(date, date.year)
+
+        # Utilities.ensure_gamelog_files_exist(date.year)
+        # dateRFormat = Utilities.convert_date(date)
+        
+        # # get list of games played on this date
+        # listOfGames = self.__get_list_of_games(date)
+
+        # # Find the game that player played in, and get the home team
+        # # we check if date in game[0] because a game may have ended up in 
+        # # in the list from some incomplete game thats being completed on a later
+        # # date. See Lance Berkman, 2009-July-9th
+        # homeTeamList = [game[6] for game in listOfGames  
+        #                 if player.get_retrosheet_id() in game 
+        #                 and dateRFormat in game[0]]
+
+        # return homeTeamList[0]
+
+    @classmethod
+    def find_home_team_from_rid(self, date, rID):
+        """
+        date string -> string
+        date: date | a date in the year during the MLB season
+        rID: string | the rID of the  player participating in a game on the given date
+
+        Produces a three digit abbreviation for the home team that played
+            a game involving player with given rID on given date
+
+        Written to accomodate opposing_pitcher_era's functionality without
+        enabling Player to be initalized from a retrosheetID
         """
         self.check_date(date, date.year)
 
@@ -246,8 +299,7 @@ class Researcher(object):
         # in the list from some incomplete game thats being completed on a later
         # date. See Lance Berkman, 2009-July-9th
         homeTeamList = [game[6] for game in listOfGames  
-                        if player.get_retrosheet_id() in game 
-                        and dateRFormat in game[0]]
+                        if rID in game and dateRFormat in game[0]]
 
         return homeTeamList[0]
 
