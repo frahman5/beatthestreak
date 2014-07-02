@@ -13,7 +13,8 @@ class TestFilepath(unittest.TestCase):
     """
 
     def setUp(self):
-        self.rootDir = '/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak'
+        # self.rootDir = '/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak'
+        self.rootDir = '/Users/Dima/faiProgramming/Python/beatthestreak2/beatthestreak/beatthestreak'
         # self.rootDir = '/home/vagrant/programming/Python/beatthestreak'
         setup()
         
