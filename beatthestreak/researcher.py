@@ -213,23 +213,26 @@ class Researcher(object):
         self.check_date(date, date.year)
         playerRID = player.get_retrosheet_id()
            # counter for how many earned runs the player has allowed until today
-        playerERToDate = 0 
+        pitcherERToDate = 0.0 
            # counter for how many innings the player has pitched until today
-        playerIPToDate = 0 
+        pitcherIPToDate = 0.0 
 
         ## find out who the pitcher was
         relevantGame = [ game for game in self.__get_list_of_games(date) if 
                          playerRID in game][0]
+        import pdb
+        pdb.set_trace()
         if playerRID in relevantGame[132:159]: # indicates he was on the hometeam
             pitcherRID = relevantGame[101] # visiting pitcher ID
             pitcherName = relevantGame[102]
         elif playerRID in relevantGame[105:132]: # indicates he was on the visiting team
             pitcherRID = relevantGame[103] # home pitcher ID
-            pticherName = relevantGame[104]
+            pitcherName = relevantGame[104]
         else:
             raise FileContentException(
                 "{0} not found in gamelog for date {1}".format(player, date))
-
+        pitcherLastName = pitcherName.split()[1]
+        pitcherFirstName = pitcherName.split()[0]
         ## calculate his era leading up the date
             # Find the dates on which he pitched
         openingDay = self.get_opening_day(date.year)
@@ -237,12 +240,40 @@ class Researcher(object):
         datesPitched = ( date for date in dateRange if 
                          pitcherRID in self.__get_participants_superset(date))
             ## Count his total earned runs allowed and innings pitched to date
-        for date in dateRange:
-            ## get the hometeam
-            dateRFormat = Utilities.convert_date(date)
-        homeTeam = self.find_home_team(date, player)
-
+        for date in datesPitched:
+            homeTeam = self.__find_home_team_from_rid(date, pitcherRID)
+            searchD = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
+               # extra space at end ensures that if its a national league game, 
+               # we get the pitcher's pitching line, not his batting line
+            searchP = pitcherLastName + " " + pitcherFirstName[0] + " " 
+            boxscore = Filepath.get_retrosheet_file(folder='unzipped', 
+                       fileF='boxscore', year=date.year, team=homeTeam)
+            f = open(boxscore, "r")
+            self.__search_boxscore(f, searchD, date, homeTeam, 
+                errorMessage="Failed to find date {0} in boxscore {1} for " +\
+                   "pitcher {2} ERA calc".format(searchD, boxscore, pitcherName), 
+                typeT=0)
+            statLine = self.__search_boxscore(f, searchP, date, homeTeam, 
+                errorMessage="Failed to find player {0} in boxscore {1}".format(
+                    searchP, boxscore), typeT=1)
+            print "{} ER, IP: {}, {}".format(date, float(statLine.split()[-3]), 
+                                             float(statLine.split()[-6]))
+               # boxscores report 6 and a 1/3 innings pitched as 6.1, but 
+               # the calculation must use 6.33. SImilarl for 2/3 inning pitched
+            rawIP = statLine.split()[-6]
+            if rawIP[-2:] == ".1":
+                IP = float(rawIP) + 0.23
+            elif rawIP[-2:] == ".2":
+                IP = float(rawIP) + 0.43
+            else:
+                IP = float(rawIP)
+               # update ER and IP
+            pitcherERToDate += float(statLine.split()[-3])
+            pitcherIPToDate += float(IP)
+            f.close()
+        
         ## Return the ERA
+        return round((pitcherERToDate * 9) / pitcherIPToDate, 2)
     @classmethod
     # @profile
     def find_home_team(self, date, player):
@@ -254,27 +285,10 @@ class Researcher(object):
         Produces a three digit abbreviation for the home team that played
             a game involving given player on given date
         """
-        return self.find_home_team_from_rid(date, player.get_retrosheet_id())
-        # self.check_date(date, date.year)
-
-        # Utilities.ensure_gamelog_files_exist(date.year)
-        # dateRFormat = Utilities.convert_date(date)
-        
-        # # get list of games played on this date
-        # listOfGames = self.__get_list_of_games(date)
-
-        # # Find the game that player played in, and get the home team
-        # # we check if date in game[0] because a game may have ended up in 
-        # # in the list from some incomplete game thats being completed on a later
-        # # date. See Lance Berkman, 2009-July-9th
-        # homeTeamList = [game[6] for game in listOfGames  
-        #                 if player.get_retrosheet_id() in game 
-        #                 and dateRFormat in game[0]]
-
-        # return homeTeamList[0]
+        return self.__find_home_team_from_rid(date, player.get_retrosheet_id())
 
     @classmethod
-    def find_home_team_from_rid(self, date, rID):
+    def __find_home_team_from_rid(self, date, rID):
         """
         date string -> string
         date: date | a date in the year during the MLB season
