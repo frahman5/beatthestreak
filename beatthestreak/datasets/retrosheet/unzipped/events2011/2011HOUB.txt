@@ -1,0 +1,3828 @@
+     Game of 4/8/2011 -- Florida at Houston (N)
+
+  Florida            AB  R  H RBI    Houston            AB  R  H RBI
+Coghlan C, cf         5  1  1  2   Bourn M, cf           4  0  1  0   
+Infante O, 2b         5  0  2  0   Sanchez A, ss         3  0  0  0   
+Ramirez H, ss         3  0  0  0   Pence H, rf           4  0  1  0   
+Dobbs G, 3b           2  1  1  0   Lee C, lf             4  0  0  0   
+Nunez L, p            0  0  0  0   Wallace B, 1b         4  2  3  1   
+Sanchez G, 1b         4  1  3  0   Johnson C, 3b         4  0  1  1   
+Morrison L, lf        4  0  3  1   Hall B, 2b            4  0  1  0   
+Murphy D, 3b-ss       3  0  1  1   Towles J, c           4  1  3  1   
+Bonifacio E, rf       3  0  0  0   Bourgeois J, pr       0  0  0  0   
+Stanton M, ph         1  0  0  0   Rodriguez W, p        2  0  0  0   
+Cousins S, rf         0  0  0  0   Michaels J, ph        1  0  0  0   
+Hayes B, c            4  1  2  0   Lopez W, p            0  0  0  0   
+Nolasco R, p          3  0  1  0   Fulchino J, p         0  0  0  0   
+Helms W, ph-3b        1  0  0  0   Inglett J, ph         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  4 14  4                        34  3 10  3
+
+Florida          000 000 121 --  4
+Houston          001 000 101 --  3
+
+  Florida              IP  H  R ER BB SO
+Nolasco R (W)         8.0  8  2  2  0  2
+Nunez L (S)           1.0  2  1  1  0  1
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W           7.0  8  1  1  0  2
+Lopez W (L)           1.0  4  2  2  0  0
+Fulchino J            1.0  2  1  1  0  0
+
+E -- Johnson C
+DP -- Houston 2
+LOB -- Florida 8, Houston 5
+2B -- Pence H, Hayes B 2, Wallace B, Morrison L
+HR -- Towles J, Coghlan C, Wallace B
+SB -- Bourn M
+CS -- Coghlan C, Bourgeois J
+SH -- Sanchez A
+HBP -- by Rodriguez W (Murphy D)
+WP -- Nolasco R
+T -- 2:41
+A -- 41042
+     Game of 4/9/2011 -- Florida at Houston (N)
+
+  Florida            AB  R  H RBI    Houston            AB  R  H RBI
+Coghlan C, cf         5  1  1  1   Bourn M, cf           4  1  1  0   
+Infante O, 2b         5  0  2  1   Sanchez A, ss         4  1  2  1   
+Morrison L, lf        5  1  2  0   Pence H, rf           5  0  2  2   
+Stanton M, rf         3  2  1  1   Lee C, lf             4  1  1  0   
+Hensley C, p          0  0  0  0   Wallace B, 1b         4  0  1  1   
+Nunez L, p            0  0  0  0   Johnson C, 3b         4  0  0  0   
+Sanchez G, 1b         3  1  0  0   Hall B, 2b            4  1  1  0   
+Dobbs G, 3b           4  1  3  3   Towles J, c           4  0  1  0   
+Buck J, c             4  0  0  0   Norris B, p           2  1  1  1   
+Murphy D, ss          4  0  0  1   Inglett J, ph         1  0  0  0   
+Vazquez J, p          2  0  0  0   Abad F, p             0  0  0  0   
+Helms W, ph           1  1  1  0   Lopez W, p            0  0  0  0   
+Choate R, p           0  0  0  0   Del Rosario E, p      0  0  0  0   
+Webb R, p             0  0  0  0   Bourgeois J, ph       1  0  1  0   
+Cousins S, ph-rf      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  7 10  7                        37  5 11  5
+
+Florida          010 003 210 --  7
+Houston          120 010 010 --  5
+
+  Florida              IP  H  R ER BB SO
+Vazquez J (W)         6.0  8  4  4  2  4
+Choate R              0.1  0  0  0  0  0
+Webb R                0.2  0  0  0  0  0
+Hensley C             1.0  2  1  1  0  1
+Nunez L (S)           1.0  1  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Norris B              6.0  5  4  4  2  6
+Abad F (L)            0.2  3  2  2  0  0
+Lopez W               0.1  0  0  0  0  1
+Del Rosario E         2.0  2  1  0  0  1
+
+E -- Johnson C
+DP -- Florida 1
+LOB -- Florida 5, Houston 7
+2B -- Sanchez A, Pence H, Hall B, Norris B, Morrison L, Stanton M, Helms W, Coghlan C, Infante O, Dobbs G, Lee C
+HR -- Dobbs G
+T -- 3:05
+A -- 25421
+     Game of 4/10/2011 -- Florida at Houston (D)
+
+  Florida            AB  R  H RBI    Houston            AB  R  H RBI
+Coghlan C, cf         4  0  0  0   Bourn M, cf           4  1  2  0   
+Infante O, 2b         3  1  1  0   Sanchez A, ss         5  1  3  0   
+Morrison L, lf        3  0  1  1   Pence H, rf           5  1  3  1   
+Stanton M, rf         3  0  0  0   Lee C, lf             5  0  1  1   
+Sanchez G, 1b         3  0  0  0   Wallace B, 1b         4  1  1  0   
+Buck J, c             4  0  1  0   Hall B, 2b            3  2  1  0   
+Helms W, 3b           3  0  1  0   Downs M, 3b           4  0  1  1   
+Choate R, p           0  0  0  0   Quintero H, c         3  1  2  1   
+Mujica E, p           0  0  0  0   Happ J, p             3  0  2  2   
+Webb R, p             0  0  0  0   Melancon M, p         0  0  0  0   
+Dobbs G, ph           1  0  0  0   Inglett J, ph         1  0  0  0   
+Murphy D, ss          3  0  0  0   Rodriguez A, p        0  0  0  0   
+Sanchez A, p          2  0  0  0   Fulchino J, p         0  0  0  0   
+Sanches B, p          0  0  0  0                                      
+Bonifacio E, 3b       0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  1  4  1                        37  7 16  6
+
+Florida          100 000 000 --  1
+Houston          100 230 10x --  7
+
+  Florida              IP  H  R ER BB SO
+Sanchez A (L)         4.2 13  6  6  0  2
+Sanches B             1.1  1  0  0  1  1
+Choate R              0.1  0  0  0  0  1
+Mujica E*             0.0  0  1  1  0  0
+Webb R                1.2  2  0  0  1  1
+
+  Houston              IP  H  R ER BB SO
+Happ J (W)            7.2  4  1  1  4  5
+Melancon M            0.1  0  0  0  0  0
+Rodriguez A+          0.0  0  0  0  0  0
+Fulchino J            1.0  0  0  0  0  2
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 9th
+
+DP -- Florida 2, Houston 1
+LOB -- Florida 7, Houston 9
+2B -- Infante O, Bourn M 2, Quintero H 2, Happ J, Downs M, Buck J
+3B -- Hall B
+SB -- Bonifacio E
+HBP -- by Happ J (Stanton M), by Mujica E (Hall B), by Rodriguez A (Sanchez G)
+T -- 3:04
+A -- 22299
+     Game of 4/11/2011 -- Chicago at Houston (N)
+
+  Chicago            AB  R  H RBI    Houston            AB  R  H RBI
+Castro S, ss          5  3  3  0   Bourn M, cf           5  1  1  0   
+Barney D, 2b          3  2  2  1   Sanchez A, ss         5  1  1  2   
+Byrd M, cf            5  0  2  2   Pence H, rf           4  0  0  0   
+Ramirez A, 3b         4  0  0  0   Lee C, lf             5  0  2  0   
+Pena C, 1b            2  0  0  0   Wallace B, 1b         3  0  1  0   
+Soriano A, lf         4  0  1  2   Bourgeois J, pr       0  0  0  0   
+Colvin T, rf          3  0  0  0   Johnson C, 3b         3  1  1  0   
+Soto G, c             4  0  0  0   Melancon M, p         0  0  0  0   
+Dempster R, p         3  0  0  0   Lyon B, p             0  0  0  0   
+Grabow J, p           0  0  0  0   Michaels J, ph        0  0  0  0   
+DeWitt B, ph          1  0  0  0   Inglett J, 2b-3b      5  0  1  0   
+Marshall S, p         0  0  0  0   Quintero H, c         3  0  0  0   
+Marmol C, p           0  0  0  0   Figueroa N, p         1  0  0  0   
+                                   Del Rosario E, p      0  0  0  0   
+                                   Downs M, ph           1  0  1  1   
+                                   Lopez W, p            0  0  0  0   
+                                   Abad F, p             0  0  0  0   
+                                   Hall B, ph-2b         2  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     34  5  8  5                        37  4 10  4
+
+Chicago          220 100 000 --  5
+Houston          000 010 300 --  4
+
+  Chicago              IP  H  R ER BB SO
+Dempster R (W)        6.1  6  4  4  3  9
+Grabow J              0.2  1  0  0  1  0
+Marshall S            0.2  2  0  0  0  1
+Marmol C (S)          1.1  1  0  0  1  3
+
+  Houston              IP  H  R ER BB SO
+Figueroa N (L)        4.0  8  5  5  2  3
+Del Rosario E         1.0  0  0  0  2  0
+Lopez W               1.0  0  0  0  1  2
+Abad F                1.0  0  0  0  1  0
+Melancon M            1.0  0  0  0  0  1
+Lyon B                1.0  0  0  0  0  1
+
+E -- Ramirez A
+DP -- Houston 1
+LOB -- Chicago 8, Houston 12
+2B -- Soriano A, Bourn M
+3B -- Barney D
+HR -- Hall B, Sanchez A
+SB -- Castro S, Bourgeois J
+SH -- Quintero H
+WP -- Figueroa N
+T -- 3:15
+A -- 20175
+     Game of 4/12/2011 -- Chicago at Houston (N)
+
+  Chicago            AB  R  H RBI    Houston            AB  R  H RBI
+Castro S, ss          5  0  2  1   Bourn M, cf           5  4  2  1   
+Barney D, 2b          4  0  0  0   Sanchez A, ss         5  2  4  2   
+Mateo M, p            0  0  0  0   Pence H, rf           5  1  3  4   
+Grabow J, p           0  0  0  0   Lee C, 1b             5  0  0  1   
+Hill K, ph            0  0  0  0   Wallace B, 1b         0  0  0  0   
+Byrd M, cf            3  0  3  0   Michaels J, lf        5  0  1  0   
+Johnson R, cf         2  0  1  0   Hall B, 2b            5  0  1  1   
+Ramirez A, 3b         3  0  1  0   Johnson C, 3b         4  0  0  0   
+DeWitt B, 3b          1  0  0  0   Quintero H, c         3  2  3  0   
+Pena C, 1b            4  0  1  0   Myers B, p            3  1  1  0   
+Soriano A, lf         4  0  0  0   Fulchino J, p         0  0  0  0   
+Soto G, c             4  1  1  0   Bourgeois J, ph       1  1  1  1   
+Colvin T, rf          4  1  2  1   Rodriguez A, p        0  0  0  0   
+Russell J, p          0  0  0  0                                      
+Samardzija J, p       2  0  0  0                                      
+Stevens J, p          0  0  0  0                                      
+Baker J, ph-2b        2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  2 11  2                        41 11 16 10
+
+Chicago          000 000 101 --  2
+Houston          320 200 04x -- 11
+
+  Chicago              IP  H  R ER BB SO
+Russell J (L)         1.2  7  5  4  0  1
+Samardzija J          3.0  3  2  2  1  2
+Stevens J             1.1  1  0  0  0  1
+Mateo M               1.0  0  0  0  0  3
+Grabow J              1.0  5  4  3  0  0
+
+  Houston              IP  H  R ER BB SO
+Myers B (W)           7.0  8  1  1  0  5
+Fulchino J            1.0  1  0  0  0  2
+Rodriguez A           1.0  2  1  1  1  1
+
+E -- Barney D, Soriano A, Johnson C, DeWitt B
+LOB -- Chicago 10, Houston 8
+2B -- Quintero H, Byrd M, Bourn M, Sanchez A, Johnson R, Pence H, Colvin T
+3B -- Quintero H
+HR -- Colvin T
+SB -- Bourn M 2
+HBP -- by Samardzija J (Johnson C)
+T -- 3:04
+A -- 23523
+     Game of 4/13/2011 -- Chicago at Houston (N)
+
+  Chicago            AB  R  H RBI    Houston            AB  R  H RBI
+Castro S, ss          5  1  3  0   Bourn M, cf           4  1  0  0   
+Barney D, 2b          4  1  2  1   Sanchez A, ss         4  1  1  0   
+Byrd M, cf            5  2  0  0   Pence H, rf           4  0  0  0   
+Ramirez A, 3b         5  1  3  1   Lee C, lf             4  1  1  1   
+Baker J, 1b           5  1  2  2   Wallace B, 1b         3  0  1  1   
+Marmol C, p           0  0  0  0   Hall B, 2b            4  1  1  1   
+Soto G, c             4  1  2  0   Downs M, 3b           3  1  2  2   
+Soriano A, lf         4  1  1  3   Towles J, c           3  0  1  0   
+Colvin T, rf          4  0  0  0   Rodriguez W, p        0  0  0  0   
+Wood K, p             0  0  0  0   Inglett J, ph         1  0  0  0   
+Pena C, 1b            0  0  0  0   Abad F, p             0  0  0  0   
+Zambrano C, p         3  1  1  1   Michaels J, ph        1  0  0  0   
+Mateo M, p            0  0  0  0   Del Rosario E, p      0  0  0  0   
+Marshall S, p         0  0  0  0   Melancon M, p         0  0  0  0   
+Johnson R, rf         1  0  0  0   Lopez W, p            0  0  0  0   
+                                   Rodriguez A, p        0  0  0  0   
+                                   Bourgeois J, ph       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  9 14  8                        32  5  7  5
+
+Chicago          500 001 003 --  9
+Houston          000 005 000 --  5
+
+  Chicago              IP  H  R ER BB SO
+Zambrano C (W)        5.2  7  5  5  3  4
+Mateo M               0.1  0  0  0  0  0
+Marshall S            1.0  0  0  0  0  1
+Wood K                1.0  0  0  0  0  1
+Marmol C              1.0  0  0  0  1  1
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (L)       5.0  9  5  5  2  4
+Abad F                1.0  2  1  1  0  0
+Del Rosario E         1.0  0  0  0  0  1
+Melancon M            1.0  0  0  0  0  2
+Lopez W               0.1  3  3  2  0  0
+Rodriguez A           0.2  0  0  0  0  0
+
+E -- Lopez W
+DP -- Houston 2
+LOB -- Chicago 6, Houston 5
+2B -- Baker J, Downs M, Barney D
+HR -- Soriano A, Zambrano C, Downs M
+SB -- Castro S
+SH -- Rodriguez W
+T -- 2:54
+A -- 20987
+     Game of 4/14/2011 -- San Diego at Houston (N)
+
+  San Diego          AB  R  H RBI    Houston            AB  R  H RBI
+Venable W, rf         4  0  0  0   Bourn M, cf           4  0  1  1   
+Headley C, 3b         2  0  1  0   Sanchez A, ss         4  0  0  0   
+Hudson O, 2b          2  0  1  0   Pence H, rf           3  0  0  0   
+Ludwick R, lf         4  0  0  0   Lee C, lf             3  0  1  0   
+Gregerson L, p        0  0  0  0   Bourgeois J, pr-lf    0  0  0  0   
+Hundley N, c          4  0  0  0   Wallace B, 1b         3  0  1  0   
+Hawpe B, 1b           2  0  0  0   Hall B, 2b            4  0  0  0   
+Cantu J, ph-1b        2  0  0  0   Downs M, 3b           3  0  2  0   
+Maybin C, cf          4  0  1  0   Quintero H, c         3  1  2  0   
+Bartlett J, ss        3  0  0  0   Norris B, p           1  0  0  0   
+Moseley D, p          2  0  0  0   Abad F, p             0  0  0  0   
+Luebke C, p           0  0  0  0   Melancon M, p         0  0  0  0   
+Patterson E, ph-lf    0  0  0  0   Lyon B, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  0  3  0                        28  1  7  1
+
+San Diego        000 000 000 --  0
+Houston          000 001 00x --  1
+
+  San Diego            IP  H  R ER BB SO
+Moseley D (L)         6.2  7  1  1  2  1
+Luebke C              0.1  0  0  0  0  1
+Gregerson L           1.0  0  0  0  2  0
+
+  Houston              IP  H  R ER BB SO
+Norris B (W)          6.0  2  0  0  3  7
+Abad F                0.1  1  0  0  0  1
+Melancon M            1.2  0  0  0  1  2
+Lyon B (S)            1.0  0  0  0  0  0
+
+E -- Quintero H
+DP -- San Diego 2, Houston 1
+LOB -- San Diego 7, Houston 8
+2B -- Wallace B
+SB -- Hudson O, Bourn M, Patterson E, Bourgeois J
+SH -- Norris B
+T -- 2:57
+A -- 20045
+     Game of 4/15/2011 -- San Diego at Houston (N)
+
+  San Diego          AB  R  H RBI    Houston            AB  R  H RBI
+Maybin C, cf          3  0  1  0   Bourn M, cf           4  1  2  0   
+Headley C, 3b         4  0  0  0   Sanchez A, ss         4  0  0  0   
+Hudson O, 2b          4  0  1  0   Pence H, rf           3  0  1  1   
+Cantu J, 1b           3  0  1  0   Lee C, lf             4  1  1  0   
+Hundley N, c          4  1  1  0   Wallace B, 1b         4  0  2  0   
+Denorfia C, rf        3  2  2  1   Hall B, 2b            4  0  0  0   
+Ludwick R, lf         4  1  1  2   Johnson C, 3b         4  0  0  1   
+Bartlett J, ss        4  0  1  0   Quintero H, c         3  0  1  0   
+Harang A, p           1  0  0  0   Michaels J, ph        1  0  0  0   
+Patterson E, ph       0  0  0  1   Happ J, p             2  0  0  0   
+Gregerson L, p        0  0  0  0   Inglett J, ph         1  0  0  0   
+Adams M, p            0  0  0  0   Fulchino J, p         0  0  0  0   
+Bell H, p             0  0  0  0   Del Rosario E, p      0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  4  8  4                        34  2  7  2
+
+San Diego        000 010 300 --  4
+Houston          000 001 001 --  2
+
+  San Diego            IP  H  R ER BB SO
+Harang A (W)          6.0  3  1  1  1  8
+Gregerson L           1.0  2  0  0  0  1
+Adams M               1.0  0  0  0  0  0
+Bell H (S)            1.0  2  1  1  0  0
+
+  Houston              IP  H  R ER BB SO
+Happ J (L)            7.0  7  4  4  2  3
+Fulchino J            1.0  0  0  0  0  2
+Del Rosario E         1.0  1  0  0  0  0
+
+E -- Cantu J, Sanchez A
+DP -- Houston 1
+LOB -- San Diego 4, Houston 6
+2B -- Pence H, Denorfia C
+HR -- Denorfia C
+SB -- Pence H, Bourn M, Denorfia C
+CS -- Maybin C
+SH -- Harang A
+SF -- Patterson E
+HBP -- by Del Rosario E (Denorfia C)
+T -- 2:37
+A -- 23755
+     Game of 4/16/2011 -- San Diego at Houston (N)
+
+  San Diego          AB  R  H RBI    Houston            AB  R  H RBI
+Patterson E, lf       5  0  0  0   Bourn M, cf           3  1  1  0   
+Venable W, rf         5  1  1  0   Sanchez A, ss         4  0  1  1   
+Hudson O, 2b          3  1  0  0   Pence H, rf           4  0  1  1   
+Headley C, 3b         4  1  2  2   Lee C, lf             4  1  1  0   
+Hawpe B, 1b           4  0  1  1   Lyon B, p             0  0  0  0   
+Maybin C, cf          3  0  0  0   Wallace B, 1b         4  0  0  0   
+Gonzalez A, ss        3  0  0  0   Johnson C, 3b         3  2  1  2   
+Hundley N, ph         1  0  0  0   Downs M, 2b           2  0  0  0   
+Johnson R, c          4  0  3  0   Quintero H, c         3  1  0  0   
+Latos M, p            3  0  0  0   Figueroa N, p         2  0  0  0   
+Qualls C, p           0  0  0  0   Melancon M, p         0  0  0  0   
+Denorfia C, ph        1  0  1  0   Inglett J, ph         1  0  1  1   
+                                   Fulchino J, p         0  0  0  0   
+                                   Bourgeois J, lf       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3  8  3                        30  5  6  5
+
+San Diego        200 100 000 --  3
+Houston          100 200 20x --  5
+
+  San Diego            IP  H  R ER BB SO
+Latos M (L)           6.1  4  5  5  2  6
+Qualls C              1.2  2  0  0  1  1
+
+  Houston              IP  H  R ER BB SO
+Figueroa N            6.2  6  3  2  2  5
+Melancon M (W)        0.1  0  0  0  0  0
+Fulchino J            1.0  0  0  0  0  1
+Lyon B (S)            1.0  2  0  0  0  0
+
+E -- Downs M, Figueroa N
+LOB -- San Diego 8, Houston 4
+2B -- Headley C 2, Pence H
+HR -- Johnson C
+SB -- Venable W, Bourn M
+T -- 2:34
+A -- 28100
+     Game of 4/17/2011 -- San Diego at Houston (D)
+
+  San Diego          AB  R  H RBI    Houston            AB  R  H RBI
+Denorfia C, rf        2  0  0  0   Bourgeois J, cf       5  1  1  0   
+Venable W, ph-rf      3  2  1  2   Sanchez A, ss         4  0  0  0   
+Patterson E, 2b       1  0  0  0   Pence H, rf           4  2  2  1   
+Hudson O, ph-2b       0  0  0  1   Lee C, 1b             4  1  2  2   
+Headley C, 3b         5  1  2  0   Valdez J, p           0  0  0  0   
+Cantu J, 1b           4  1  1  3   Michaels J, lf        3  1  1  0   
+Adams M, p            0  0  0  0   Johnson C, 3b         4  1  2  1   
+Bell H, p             0  0  0  0   Hall B, 2b            3  0  1  2   
+Hundley N, c          5  2  2  1   Melancon M, p         0  0  0  0   
+Ludwick R, lf         5  0  1  0   Fulchino J, p         0  0  0  0   
+Maybin C, cf          5  1  2  0   Wallace B, 1b         0  0  0  0   
+Bartlett J, ss        4  1  2  1   Bourn M, pr           0  0  0  0   
+Richard C, p          3  0  0  0   Quintero H, c         4  0  0  0   
+Frieri E, p           0  0  0  0   Myers B, p            2  0  0  0   
+Hawpe B, ph-1b        1  0  0  0   Abad F, p             0  0  0  0   
+                                   Downs M, 2b           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 11  8                        35  6  9  6
+
+San Diego        010 020 140 --  8
+Houston          022 002 000 --  6
+
+  San Diego            IP  H  R ER BB SO
+Richard C             5.1  7  6  6  1  5
+Frieri E (W)          1.2  1  0  0  0  3
+Adams M               1.0  0  0  0  0  0
+Bell H (S)            1.0  1  0  0  1  2
+
+  Houston              IP  H  R ER BB SO
+Myers B               6.0  8  3  3  2  5
+Abad F                0.2  0  1  0  0  1
+Melancon M (L)        0.2  3  4  2  1  0
+Fulchino J            0.2  0  0  0  2  0
+Valdez J              1.0  0  0  0  1  2
+
+E -- Abad F 2, Sanchez A, Venable W
+DP -- San Diego 1, Houston 1
+LOB -- San Diego 10, Houston 4
+2B -- Johnson C, Headley C 2, Pence H, Lee C
+3B -- Maybin C
+HR -- Hundley N, Cantu J
+SB -- Bourgeois J, Maybin C, Venable W
+CS -- Johnson C
+SF -- Hudson O
+T -- 3:07
+A -- 22899
+     Game of 4/26/2011 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Jay J, rf             3  0  0  0   Bourn M, cf           4  1  1  0   
+Greene T, ph-rf       0  0  0  0   Sanchez A, ss         4  1  2  0   
+Pujols A, ph-1b       0  0  0  0   Pence H, rf           5  1  3  1   
+Rasmus C, cf          5  0  0  0   Lee C, lf-1b          4  1  0  0   
+Holliday M, lf        4  1  2  0   Hall B, 2b            3  1  1  1   
+Berkman L, 1b-rf      5  0  2  1   Wallace B, 1b         4  0  3  1   
+Freese D, 3b          5  1  1  0   Bourgeois J, pr-lf    0  0  0  0   
+Molina Y, c           4  2  2  0   Johnson C, 3b         4  0  2  2   
+Punto N, ss           4  1  1  1   Quintero H, c         4  0  1  0   
+Descalso D, 2b        3  0  3  3   Norris B, p           1  0  0  0   
+Garcia J, p           3  0  0  0   Inglett J, ph         1  0  0  0   
+Batista M, p          0  0  0  0   Abad F, p             0  0  0  0   
+Hamilton M, ph        1  0  0  0   Fulchino J, p         0  0  0  0   
+Miller T, p           0  0  0  0   Lyon B, p             0  0  0  0   
+Motte J, p            0  0  0  0   Bogusevic B, ph       1  1  1  0   
+Boggs M, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  5 11  5                        35  6 14  5
+
+St. Louis        000 300 011 --  5
+Houston          000 103 002 --  6
+  1 out when winning run was scored.
+
+  St. Louis            IP  H  R ER BB SO
+Garcia J              5.1  6  4  3  2  6
+Batista M             1.2  3  0  0  1  0
+Miller T*             0.0  1  0  0  0  0
+Motte J               1.0  0  0  0  0  2
+Boggs M (L)           0.1  4  2  1  0  0
+
+  Houston              IP  H  R ER BB SO
+Norris B              6.0  7  3  0  2  6
+Abad F                0.2  0  0  0  1  0
+Fulchino J            1.1  2  1  1  1  1
+Lyon B (W)            1.0  2  1  1  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Sanchez A, Quintero H, Freese D, Boggs M
+DP -- St. Louis 1, Houston 1
+LOB -- St. Louis 11, Houston 10
+2B -- Descalso D 2, Punto N, Freese D, Holliday M, Berkman L
+3B -- Descalso D
+HR -- Pence H
+SB -- Molina Y, Greene T
+CS -- Berkman L, Hall B
+SH -- Norris B, Sanchez A, Punto N, Bourn M
+HBP -- by Abad F (Greene T)
+WP -- Garcia J 2, Boggs M
+PB -- Molina Y
+T -- 3:28
+A -- 25526
+     Game of 4/27/2011 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Punto N, 2b           5  1  2  1   Bourn M, cf           3  0  0  1   
+Freese D, 3b          4  1  2  0   Sanchez A, ss         5  1  2  1   
+Pujols A, 1b          4  1  1  1   Pence H, rf           5  0  1  1   
+Holliday M, lf        4  1  3  2   Lee C, lf             4  0  0  0   
+Berkman L, rf         4  0  2  1   Wallace B, 1b         4  0  3  1   
+Molina Y, c           4  0  0  0   Johnson C, 3b         3  0  0  0   
+Greene T, ss          4  1  2  1   Rodriguez A, p        0  0  0  0   
+Jay J, cf             3  1  2  0   Bogusevic B, ph       1  0  0  0   
+Lohse K, p            2  0  0  0   Melancon M, p         0  0  0  0   
+Hamilton M, ph        1  0  0  0   Towles J, c           4  0  1  0   
+Franklin R, p         0  0  0  0   Inglett J, 2b-3b      4  2  2  0   
+Miller T, p           0  0  0  0   Happ J, p             0  0  0  0   
+Salas F, p            0  0  0  0   Downs M, ph           1  0  0  0   
+Sanchez E, p          0  0  0  0   Del Rosario E, p      0  0  0  0   
+                                   Valdez J, p           0  0  0  0   
+                                   Bourgeois J, 2b       2  2  2  1   
+                     -- -- -- --                        -- -- -- --
+                     35  6 14  6                        36  5 11  5
+
+St. Louis        000 110 400 --  6
+Houston          000 000 032 --  5
+
+  St. Louis            IP  H  R ER BB SO
+Lohse K (W)           7.0  4  0  0  1  2
+Franklin R*           0.0  2  2  2  0  0
+Miller T+             0.0  0  1  1  1  0
+Salas F               1.0  2  0  0  0  1
+Sanchez E (S)         1.0  3  2  2  0  2
+
+  Houston              IP  H  R ER BB SO
+Happ J (L)            5.0  5  2  2  2  5
+Del Rosario E         1.2  4  3  3  0  1
+Valdez J              0.1  3  1  1  0  0
+Rodriguez A           1.0  1  0  0  0  1
+Melancon M            1.0  1  0  0  1  0
+  * Pitched to 2 batters in 8th
+  + Pitched to 1 batter in 8th
+
+DP -- St. Louis 1, Houston 5
+LOB -- St. Louis 7, Houston 7
+2B -- Wallace B, Inglett J, Sanchez A
+3B -- Bourgeois J
+HR -- Holliday M, Greene T
+SB -- Punto N
+SH -- Lohse K
+SF -- Bourn M
+HBP -- by Del Rosario E (Freese D)
+T -- 3:16
+A -- 27857
+     Game of 4/28/2011 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Descalso D, 2b-3b     5  0  0  0   Bourn M, cf           5  1  1  0   
+Salas F, p            0  0  0  0   Sanchez A, ss         5  0  1  1   
+Freese D, 3b          5  2  3  1   Pence H, rf           4  1  2  1   
+Punto N, 2b-3b        0  0  0  0   Lee C, lf             5  0  2  2   
+Pujols A, 1b          5  2  2  0   Wallace B, 1b         4  1  2  0   
+Holliday M, lf        4  1  2  3   Hall B, 2b            5  1  1  0   
+Berkman L, rf         5  3  4  5   Johnson C, 3b         5  1  2  2   
+Jay J, rf             0  0  0  0   Quintero H, c         5  1  1  0   
+Rasmus C, cf          3  1  1  0   Figueroa N, p         2  0  0  0   
+Laird G, c            4  0  1  1   Abad F, p             0  0  0  0   
+Greene T, ss-2b       5  1  0  0   Fulchino J, p         0  0  0  0   
+McClellan K, p        2  1  1  1   Del Rosario E, p      0  0  0  0   
+Motte J, p            0  0  0  0   Bogusevic B, ph       1  0  0  0   
+Hamilton M, ph        1  0  1  0   Valdez J, p           0  0  0  0   
+Batista M, p          0  0  0  0   Inglett J, ph         1  1  1  0   
+Miller T, p           0  0  0  0   Rodriguez A, p        0  0  0  0   
+Theriot R, ss         0  0  0  0   Downs M, ph           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 11 15 11                        42  7 13  6
+
+St. Louis        000 019 001 -- 11
+Houston          021 011 020 --  7
+
+  St. Louis            IP  H  R ER BB SO
+McClellan K (W)       5.2  8  5  5  2  2
+Motte J               0.1  1  0  0  0  1
+Batista M             1.2  3  2  0  0  0
+Miller T*             0.0  0  0  0  1  0
+Salas F (S)           1.1  1  0  0  1  1
+
+  Houston              IP  H  R ER BB SO
+Figueroa N+           5.0  6  4  4  3  2
+Abad F (L)            0.2  3  4  4  1  0
+Fulchino J#           0.0  4  2  2  0  0
+Del Rosario E         0.1  0  0  0  0  0
+Valdez J              2.0  1  0  0  0  2
+Rodriguez A           1.0  1  1  1  0  2
+  * Pitched to 1 batter in 8th
+  + Pitched to 3 batters in 6th
+  # Pitched to 4 batters in 6th
+
+E -- Quintero H, McClellan K, Figueroa N, Descalso D 2
+DP -- Houston 1
+LOB -- St. Louis 6, Houston 12
+2B -- Wallace B 2, Bourn M, Berkman L, Lee C, Hamilton M, Johnson C
+HR -- Johnson C, Berkman L 2
+SB -- Rasmus C, Lee C
+SH -- McClellan K
+WP -- McClellan K
+PB -- Laird G
+T -- 3:24
+A -- 26331
+     Game of 4/29/2011 -- Milwaukee at Houston (N)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Weeks R, 2b           4  0  1  0   Bourn M, cf           3  0  1  0   
+Gomez C, cf           4  2  0  0   Barmes C, ss          4  0  0  0   
+Braun R, lf           4  1  2  2   Pence H, rf           3  0  1  0   
+Fielder P, 1b         3  1  2  2   Lee C, lf-1b          4  0  0  0   
+McGehee C, 3b         4  0  0  0   Wallace B, 1b         2  0  2  0   
+Hart C, rf            4  0  0  0   Fulchino J, p         0  0  0  0   
+Betancourt Y, ss      2  1  1  1   Lyon B, p             0  0  0  0   
+Lucroy J, c           3  0  0  0   Bourgeois J, ph       1  0  0  0   
+Marcum S, p           3  0  0  0   Hall B, 2b            4  0  0  0   
+Stetter M, p          0  0  0  0   Johnson C, 3b         4  0  0  0   
+Kintzler B, p         1  0  0  0   Quintero H, c         3  0  0  0   
+                                   Myers B, p            2  0  0  0   
+                                   Melancon M, p         0  0  0  0   
+                                   Bogusevic B, ph-lf    1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  6  5                        31  0  4  0
+
+Milwaukee        201 100 100 --  5
+Houston          000 000 000 --  0
+
+  Milwaukee            IP  H  R ER BB SO
+Marcum S (W)          7.0  3  0  0  2  6
+Stetter M             0.1  0  0  0  0  1
+Kintzler B            1.2  1  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Myers B (L)           6.0  5  4  4  3  8
+Melancon M            1.0  1  1  1  1  0
+Fulchino J            1.0  0  0  0  1  0
+Lyon B                1.0  0  0  0  0  1
+
+E -- Lucroy J
+DP -- Houston 1
+LOB -- Milwaukee 6, Houston 7
+2B -- Fielder P
+HR -- Braun R, Fielder P, Betancourt Y
+SB -- Bourn M 2, Wallace B, Gomez C 2
+CS -- Betancourt Y
+HBP -- by Myers B (Lucroy J)
+T -- 2:39
+A -- 25734
+     Game of 4/30/2011 -- Milwaukee at Houston (N)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Weeks R, 2b           4  0  1  0   Bourn M, cf           4  0  0  0   
+Gomez C, cf           4  0  1  0   Bourgeois J, lf       5  1  3  1   
+Braun R, lf           4  0  2  0   Sanchez A, 2b         3  0  1  0   
+Fielder P, 1b         4  1  1  1   Pence H, rf           4  0  1  1   
+McGehee C, 3b         4  0  2  0   Lee C, 1b             3  0  0  0   
+Hart C, rf            4  0  1  0   Johnson C, 3b         4  0  0  0   
+Betancourt Y, ss      4  0  0  0   Towles J, c           3  0  1  0   
+Loe K, p              0  0  0  0   Barmes C, ss          3  0  0  0   
+Nieves W, c           3  0  0  0   Bogusevic B, ph       1  0  0  0   
+Wolf R, p             2  0  1  0   Rodriguez W, p        2  0  0  0   
+Boggs B, ph           1  0  0  0   Lyon B, p             0  0  0  0   
+Hawkins L, p          0  0  0  0   Wallace B, ph         0  0  0  0   
+Counsell C, ss        0  0  0  0   Hall B, pr            0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  9  1                        32  2  6  2
+
+Milwaukee        000 000 001 --  1
+Houston          100 000 001 --  2
+  2 outs when winning run was scored.
+
+  Milwaukee            IP  H  R ER BB SO
+Wolf R                7.0  4  1  1  2  4
+Hawkins L             1.0  1  0  0  1  0
+Loe K (L)             0.2  1  1  1  2  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W           8.0  7  0  0  0  6
+Lyon B (W)            1.0  2  1  1  0  0
+
+E -- McGehee C, Weeks R
+DP -- Houston 1
+LOB -- Milwaukee 6, Houston 10
+2B -- Braun R 2, Towles J, Bourgeois J, Gomez C
+HR -- Fielder P
+SB -- Bourgeois J 2
+SH -- Rodriguez W
+T -- 2:37
+A -- 26514
+     Game of 5/1/2011 -- Milwaukee at Houston (D)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Weeks R, 2b           4  0  0  0   Bourgeois J, cf-lf    4  1  2  0   
+Gomez C, cf           3  0  0  0   Sanchez A, ss         4  0  0  0   
+Braun R, lf           3  0  0  0   Pence H, rf           4  1  1  0   
+Fielder P, 1b         4  0  1  0   Lee C, lf             3  2  2  3   
+McGehee C, 3b         4  0  0  0   Bourn M, cf           1  0  1  0   
+Kotsay M, rf          4  0  1  0   Wallace B, 1b         4  0  1  0   
+Betancourt Y, ss      3  0  0  0   Hall B, 2b            4  0  1  1   
+Lucroy J, c           2  0  1  0   Downs M, 3b           3  1  0  0   
+Narveson C, p         1  0  0  0   Quintero H, c         3  0  1  0   
+Mitre S, p            0  0  0  0   Norris B, p           3  0  0  0   
+Counsell C, ph        1  0  0  0   Fulchino J, p         0  0  0  0   
+Braddock Z, p         0  0  0  0   Abad F, p             0  0  0  0   
+                                   Melancon M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  0  3  0                        33  5  9  4
+
+Milwaukee        000 000 000 --  0
+Houston          010 003 10x --  5
+
+  Milwaukee            IP  H  R ER BB SO
+Narveson C (L)        6.0  7  4  4  0  7
+Mitre S               1.0  1  1  0  0  2
+Braddock Z            1.0  1  0  0  0  3
+
+  Houston              IP  H  R ER BB SO
+Norris B (W)          7.2  3  0  0  3 11
+Fulchino J            0.1  0  0  0  0  0
+Abad F                0.1  0  0  0  0  0
+Melancon M            0.2  0  0  0  0  1
+
+E -- McGehee C, Mitre S
+DP -- Milwaukee 1
+LOB -- Milwaukee 6, Houston 4
+2B -- Kotsay M
+HR -- Lee C
+SB -- Bourgeois J
+SH -- Narveson C
+T -- 2:47
+A -- 23908
+     Game of 5/9/2011 -- Cincinnati at Houston (N)
+
+  Cincinnati         AB  R  H RBI    Houston            AB  R  H RBI
+Stubbs D, cf          5  0  2  1   Bourn M, cf           5  0  2  0   
+Renteria E, ss        4  0  0  0   Towles J, c           4  0  0  0   
+Bruce J, rf           4  0  0  0   Pence H, rf           4  1  2  1   
+Phillips B, 2b        4  0  2  0   Lee C, lf             4  0  1  0   
+Lewis F, lf           4  1  1  0   Hall B, 2b            3  0  1  0   
+Ondrusek L, p         0  0  0  0   Wallace B, 1b         3  0  0  0   
+Gomes J, ph           1  0  0  0   Johnson C, 3b         4  0  0  0   
+Leake M, p            0  0  0  0   Barmes C, ss          4  0  1  0   
+Hernandez R, 1b       5  1  1  2   Rodriguez A, p        1  0  0  0   
+Valaika C, 3b         4  2  2  0   Downs M, ph           1  0  1  0   
+Hanigan R, c          4  1  3  0   Figueroa N, p         0  0  0  0   
+Wood T, p             3  1  1  3   Sanchez A, ph         1  0  1  0   
+Bray B, p             0  0  0  0   Valdez J, p           0  0  0  0   
+Heisey C, lf          1  0  0  0   Bogusevic B, ph       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 12  6                        35  1  9  1
+
+Cincinnati       003 201 000 --  6
+Houston          000 000 010 --  1
+
+  Cincinnati           IP  H  R ER BB SO
+Wood T (W)            6.2  6  0  0  1  6
+Bray B*               0.0  1  0  0  0  0
+Ondrusek L            1.1  2  1  1  0  0
+Leake M               1.0  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Rodriguez A (L)       5.0  8  5  5  1  3
+Figueroa N            2.0  3  1  1  2  3
+Valdez J              2.0  1  0  0  0  3
+  * Pitched to 1 batter in 7th
+
+E -- Wallace B
+DP -- Cincinnati 1
+LOB -- Cincinnati 9, Houston 9
+2B -- Hall B, Valaika C
+3B -- Pence H
+HR -- Wood T, Hernandez R, Pence H
+SB -- Renteria E
+HBP -- by Ondrusek L (Hall B)
+T -- 3:02
+A -- 20174
+     Game of 5/10/2011 -- Cincinnati at Houston (N)
+
+  Cincinnati         AB  R  H RBI    Houston            AB  R  H RBI
+Stubbs D, cf          5  2  1  0   Bourn M, cf           4  1  0  0   
+Renteria E, ss        4  1  1  0   Sanchez A, ss         3  0  0  1   
+Votto J, 1b           5  1  3  3   Pence H, rf           4  0  1  2   
+Phillips B, 2b        5  0  2  1   Lee C, lf             4  0  1  0   
+Bruce J, rf           4  2  1  2   Wallace B, 1b         4  0  2  0   
+Gomes J, lf           5  0  2  0   Hall B, 2b            4  0  0  0   
+Chapman A, p          0  0  0  0   Johnson C, 3b         4  0  0  0   
+Masset N, p           0  0  0  0   Quintero H, c         3  1  1  0   
+Bray B, p             0  0  0  0   Myers B, p            1  0  1  0   
+Cairo M, 3b           3  0  3  0   Inglett J, ph         1  0  1  0   
+Hanigan R, c          4  0  1  1   Escalona S, p         0  0  0  0   
+Bailey H, p           4  1  1  0   Del Rosario E, p      0  0  0  0   
+Heisey C, lf          1  0  0  0   Lopez W, p            0  0  0  0   
+                                   Downs M, ph           0  1  0  0   
+                                   Melancon M, p         0  0  0  0   
+                                   Bogusevic B, ph       0  0  0  0   
+                                   Towles J, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  7 15  7                        33  3  7  3
+
+Cincinnati       420 000 100 --  7
+Houston          000 000 030 --  3
+
+  Cincinnati           IP  H  R ER BB SO
+Bailey H (W)          7.0  5  0  0  0  5
+Chapman A*            0.0  0  3  3  3  0
+Masset N              1.1  2  0  0  0  2
+Bray B                0.2  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Myers B (L)           6.0 10  6  6  4  8
+Escalona S+           0.0  0  1  1  1  0
+Del Rosario E         1.0  2  0  0  0  2
+Lopez W               1.0  2  0  0  1  2
+Melancon M            1.0  1  0  0  0  0
+  * Pitched to 4 batters in 8th
+  + Pitched to 1 batter in 7th
+
+E -- Lee C
+DP -- Cincinnati 1
+LOB -- Cincinnati 13, Houston 7
+2B -- Votto J 2, Cairo M
+HR -- Bruce J
+HBP -- by Del Rosario E (Cairo M), by Chapman A (Downs M)
+WP -- Bray B
+T -- 3:11
+A -- 24499
+     Game of 5/11/2011 -- Cincinnati at Houston (D)
+
+  Cincinnati         AB  R  H RBI    Houston            AB  R  H RBI
+Stubbs D, cf          5  1  2  1   Bourn M, cf           5  0  2  2   
+Renteria E, ss        5  0  0  0   Towles J, c           3  1  0  0   
+Leake M, p            0  0  0  0   Pence H, rf           4  0  2  1   
+Votto J, 1b           4  1  2  0   Wallace B, 1b         3  1  0  0   
+Phillips B, 2b        4  0  1  1   Johnson C, 3b         3  0  1  0   
+Gomes J, lf           4  0  1  0   Downs M, 2b           2  1  0  1   
+Ondrusek L, p         0  0  0  0   Bogusevic B, lf       2  1  0  0   
+Masset N, p           0  0  0  0   Barmes C, ss          3  0  0  0   
+Cairo M, 3b           0  0  0  0   Rodriguez W, p        3  0  0  0   
+Hernandez R, c        4  0  2  0   Lopez W, p            0  0  0  0   
+Bruce J, rf           4  0  0  0   Inglett J, ph         1  0  0  0   
+Janish P, 3b-ss       4  0  0  0   Melancon M, p         0  0  0  0   
+Volquez E, p          1  0  0  0                                      
+Valaika C, ph         1  0  1  0                                      
+LeCure S, p           0  0  0  0                                      
+Heisey C, ph-lf       2  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     38  3 10  3                        29  4  5  4
+
+Cincinnati       000 100 200 --  3
+Houston          021 000 001 --  4
+  1 out when winning run was scored.
+
+  Cincinnati           IP  H  R ER BB SO
+Volquez E             4.0  3  3  3  5  3
+LeCure S              2.0  0  0  0  1  2
+Ondrusek L            1.0  1  0  0  2  1
+Masset N              1.0  0  0  0  0  1
+Leake M (L)           0.1  1  1  1  1  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W           7.0 10  3  3  0  4
+Lopez W               1.0  0  0  0  0  0
+Melancon M (W)        1.0  0  0  0  0  0
+
+E -- Johnson C
+LOB -- Cincinnati 8, Houston 10
+2B -- Johnson C, Bourn M, Pence H 2
+3B -- Votto J
+HR -- Heisey C, Stubbs D
+SB -- Stubbs D
+SF -- Downs M
+T -- 2:55
+A -- 21008
+     Game of 5/13/2011 -- New York at Houston (N)
+
+  New York           AB  R  H RBI    Houston            AB  R  H RBI
+Reyes J, ss           3  1  1  0   Bourn M, cf           5  0  2  0   
+Thole J, c            3  0  0  0   Barmes C, ss          4  0  0  0   
+Rodriguez F, p        0  0  0  0   Pence H, rf           4  0  0  0   
+Wright D, 3b          3  1  1  2   Lee C, lf             4  1  2  1   
+Beltran C, rf         4  0  1  0   Wallace B, 1b         2  1  1  0   
+Bay J, lf             4  1  1  1   Johnson C, 3b         4  1  2  1   
+Murphy D, 1b          4  0  0  0   Hall B, 2b            4  0  1  1   
+Turner J, 2b          4  2  2  0   Quintero H, c         3  0  0  1   
+Pridie J, cf          4  0  1  1   Bogusevic B, ph       1  0  1  0   
+Gee D, p              2  0  0  0   Towles J, c           0  0  0  0   
+Igarashi R, p         0  0  0  0   Norris B, p           2  1  0  0   
+Misch P, p            0  0  0  0   Fulchino J, p         0  0  0  0   
+Martinez F, ph        1  1  1  2   Michaels J, ph        1  0  0  0   
+Buchholz T, p         0  0  0  0   Lopez W, p            0  0  0  0   
+Paulino R, c          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  6  8  6                        34  4  9  4
+
+New York         000 000 141 --  6
+Houston          001 003 000 --  4
+
+  New York             IP  H  R ER BB SO
+Gee D*                5.0  5  4  4  4  6
+Igarashi R            0.1  1  0  0  0  0
+Misch P (W)           1.2  0  0  0  0  0
+Buchholz T            0.2  1  0  0  0  1
+Rodriguez F (S)       1.1  2  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Norris B              7.1  5  4  4  3  8
+Fulchino J (L)        0.2  1  1  1  0  1
+Lopez W               1.0  2  1  1  0  1
+  * Pitched to 3 batters in 6th
+
+E -- Murphy D
+DP -- New York 1, Houston 1
+LOB -- New York 3, Houston 9
+2B -- Beltran C, Johnson C, Pridie J
+HR -- Bay J, Martinez F, Wright D
+SB -- Bourn M
+SF -- Lee C
+HBP -- by Gee D (Wallace B)
+Balk -- Gee D
+PB -- Paulino R
+T -- 2:58
+A -- 28791
+     Game of 5/14/2011 -- New York at Houston (D)
+
+  New York           AB  R  H RBI    Houston            AB  R  H RBI
+Reyes J, ss           5  1  2  1   Bourn M, cf           4  1  1  0   
+Turner J, 2b          5  0  1  1   Barmes C, ss          4  0  1  1   
+Wright D, 3b          3  0  0  0   Pence H, rf           5  1  1  0   
+Bay J, lf             1  0  0  0   Lee C, lf             4  2  2  1   
+Paulino R, c          4  0  0  0   Bogusevic B, lf       0  0  0  0   
+Murphy D, 1b          4  1  1  1   Wallace B, 1b         4  1  2  1   
+Hairston S, cf        3  0  1  0   Johnson C, 3b         4  0  2  1   
+Harris W, ph          1  0  0  0   Hall B, 2b            4  1  2  2   
+Martinez F, rf        4  0  1  0   Quintero H, c         4  0  0  0   
+Dickey R, p           2  0  0  0   Happ J, p             2  0  1  0   
+O'Connor M, p         0  0  0  0   Downs M, ph           1  1  1  1   
+Hu C, ph              1  0  0  0   Abad F, p             0  0  0  0   
+Igarashi R, p         0  0  0  0   Lopez W, p            0  0  0  0   
+Misch P, p            0  0  0  0   Michaels J, ph        1  0  0  0   
+Pridie J, ph          1  1  1  0   Melancon M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  7  3                        37  7 13  7
+
+New York         001 100 001 --  3
+Houston          400 002 10x --  7
+
+  New York             IP  H  R ER BB SO
+Dickey R (L)          5.1 11  6  6  0  2
+O'Connor M            0.2  0  0  0  0  1
+Igarashi R            1.2  2  1  1  2  2
+Misch P               0.1  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Happ J (W)            6.0  5  2  2  3  4
+Abad F                0.2  0  0  0  0  0
+Lopez W               1.1  0  0  0  1  1
+Melancon M            1.0  2  1  1  0  1
+
+E -- Quintero H
+LOB -- New York 8, Houston 10
+2B -- Wallace B 2, Martinez F, Reyes J, Pridie J
+3B -- Bourn M
+HR -- Murphy D, Hall B, Downs M, Lee C
+SB -- Wright D
+HBP -- by O'Connor M (Barmes C), by Misch P (Bogusevic B)
+WP -- Happ J
+T -- 2:48
+A -- 31140
+     Game of 5/15/2011 -- New York at Houston (D)
+
+  New York           AB  R  H RBI    Houston            AB  R  H RBI
+Reyes J, ss           4  0  0  0   Bourn M, cf           5  0  2  0   
+Thole J, c            2  0  0  0   Towles J, c           5  0  0  0   
+Wright D, 3b          3  0  0  0   Pence H, rf           4  0  0  0   
+Beltran C, rf         4  0  0  0   Lee C, 1b             5  0  1  0   
+Bay J, lf             4  2  1  0   Hall B, 2b            4  2  2  0   
+Murphy D, 1b          3  2  1  0   Valdez J, p           0  0  0  0   
+Turner J, 2b          4  2  2  5   Wallace B, ph         1  0  0  0   
+Pridie J, cf          3  1  1  1   Michaels J, lf        4  1  2  1   
+Capuano C, p          1  0  0  0   Johnson C, 3b         3  0  1  1   
+Hairston S, ph        1  0  0  0   Barmes C, ss          2  1  1  1   
+Buchholz T, p         0  0  0  0   Rodriguez A, p        2  0  0  0   
+Byrdak T, p           0  0  0  0   Abad F, p             0  0  0  0   
+Isringhausen J, p     0  0  0  0   Del Rosario E, p      0  0  0  0   
+Harris W, ph          1  0  0  0   Bogusevic B, ph       0  0  0  0   
+Rodriguez F, p        0  0  0  0   Escalona S, p         0  0  0  0   
+                                   Downs M, 2b           1  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     30  7  5  6                        36  4 10  4
+
+New York         000 043 000 --  7
+Houston          010 101 010 --  4
+
+  New York             IP  H  R ER BB SO
+Capuano C (W)         5.0  6  2  2  3  6
+Buchholz T            2.0  2  1  1  1  2
+Byrdak T*             0.0  1  1  1  1  0
+Isringhausen J        1.0  1  0  0  0  1
+Rodriguez F (S)       1.0  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez A (L)+      5.0  5  7  5  4  2
+Abad F                0.1  0  0  0  0  0
+Del Rosario E         0.2  0  0  0  0  0
+Escalona S            1.0  0  0  0  1  1
+Valdez J              2.0  0  0  0  1  1
+  * Pitched to 2 batters in 8th
+  + Pitched to 3 batters in 6th
+
+E -- Lee C, Rodriguez A
+DP -- Houston 2
+LOB -- New York 3, Houston 10
+2B -- Hall B, Michaels J 2, Turner J, Lee C, Downs M
+HR -- Turner J, Barmes C
+SB -- Reyes J 2, Pridie J
+CS -- Bourn M
+SH -- Capuano C
+T -- 3:19
+A -- 28406
+     Game of 5/23/2011 -- Los Angeles at Houston (N)
+
+  Los Angeles        AB  R  H RBI    Houston            AB  R  H RBI
+Furcal R, ss          4  0  1  0   Bourn M, cf           4  1  1  2   
+Miles A, 2b           4  0  1  0   Barmes C, ss          3  0  1  0   
+Loney J, 1b           4  0  1  0   Pence H, rf           5  0  2  1   
+Kemp M, cf            4  1  1  1   Lee C, 1b-lf          3  0  0  0   
+Gibbons J, rf         3  0  1  0   Michaels J, lf        3  0  0  0   
+Gwynn T, lf           1  0  0  0   Wallace B, ph-1b      1  0  0  0   
+Sands J, lf-rf        1  0  0  0   Johnson C, 3b         4  0  0  0   
+Navarro D, c          4  1  1  0   Hall B, 2b            4  2  4  0   
+Mitchell R, 3b        3  1  0  0   Quintero H, c         3  0  1  1   
+Kershaw C, p          2  0  0  0   Downs M, ph           1  0  0  0   
+Ethier A, ph          1  0  1  1   Norris B, p           1  0  0  0   
+MacDougal M, p        0  0  0  0   Bogusevic B, ph       1  0  0  0   
+Guerrier M, p         0  0  0  0   Escalona S, p         0  0  0  0   
+Jansen K, p           0  0  0  0   Fulchino J, p         0  0  0  0   
+                                   Sanchez A, ph         0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  7  2                        33  4  9  4
+
+Los Angeles      010 000 200 --  3
+Houston          001 000 003 --  4
+  2 outs when winning run was scored.
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C             6.0  4  1  1  2  7
+MacDougal M           1.0  1  0  0  0  0
+Guerrier M            1.0  1  0  0  1  1
+Jansen K (L)          0.2  3  3  3  1  2
+
+  Houston              IP  H  R ER BB SO
+Norris B              7.0  6  3  2  3  5
+Escalona S            0.1  1  0  0  0  0
+Fulchino J (W)        1.2  0  0  0  1  1
+
+E -- Bourn M
+DP -- Los Angeles 1, Houston 2
+LOB -- Los Angeles 5, Houston 9
+2B -- Hall B 2, Navarro D, Bourn M
+HR -- Kemp M
+SB -- Kemp M, Bourn M, Sanchez A, Hall B
+CS -- Sands J
+SH -- Norris B
+HBP -- by Jansen K (Barmes C)
+Balk -- Norris B
+T -- 3:07
+A -- 22579
+     Game of 5/24/2011 -- Los Angeles at Houston (N)
+
+  Los Angeles        AB  R  H RBI    Houston            AB  R  H RBI
+Furcal R, ss          5  0  0  0   Bourn M, cf           3  1  0  0   
+Carroll J, 2b         3  1  0  0   Barmes C, ss          4  1  1  0   
+Loney J, 1b           3  1  1  0   Pence H, rf           4  2  2  1   
+Kemp M, cf            4  1  0  0   Lee C, lf             3  0  1  2   
+Sands J, rf           4  1  1  4   Wallace B, 1b         3  0  1  0   
+Navarro D, c          4  0  1  0   Johnson C, 3b         3  0  0  1   
+Gibbons J, lf         3  1  1  1   Hall B, 2b            4  0  0  0   
+Gwynn T, lf           1  0  0  0   Quintero H, c         3  0  0  0   
+Miles A, 3b           4  0  1  0   Sanchez A, ph         1  0  0  0   
+Billingsley C, p      2  0  0  0   Happ J, p             1  0  0  0   
+Mitchell R, ph        1  0  1  0   Downs M, ph           1  0  0  0   
+MacDougal M, p        0  0  0  0   Del Rosario E, p      0  0  0  0   
+De La Rosa R, p       0  0  0  0   Bogusevic B, ph       1  0  0  0   
+Ethier A, ph          0  0  0  0   Escalona S, p         0  0  0  0   
+Guerra J, p           0  0  0  0   Lopez W, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5  6  5                        31  4  5  4
+
+Los Angeles      014 000 000 --  5
+Houston          003 001 000 --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Billingsley C (W)     6.0  5  4  4  3  9
+MacDougal M           1.0  0  0  0  0  2
+De La Rosa R          1.0  0  0  0  0  2
+Guerra J (S)          1.0  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Happ J (L)            5.0  3  5  1  2  4
+Del Rosario E         2.0  1  0  0  0  2
+Escalona S            0.2  0  0  0  0  2
+Lopez W               1.1  2  0  0  1  3
+
+E -- Hall B
+LOB -- Los Angeles 5, Houston 4
+2B -- Wallace B, Pence H 2, Mitchell R
+HR -- Gibbons J, Sands J
+SF -- Johnson C
+T -- 2:39
+A -- 28713
+     Game of 5/25/2011 -- Los Angeles at Houston (D)
+
+  Los Angeles        AB  R  H RBI    Houston            AB  R  H RBI
+Furcal R, ss          4  0  0  0   Bourn M, cf           4  1  1  1   
+Carroll J, 2b         4  0  0  0   Sanchez A, ss         4  0  1  0   
+Loney J, 1b           3  0  0  0   Melancon M, p         0  0  0  0   
+Kemp M, cf            4  1  3  1   Pence H, rf           4  0  1  0   
+Gibbons J, rf         3  0  0  0   Lee C, lf             4  0  2  0   
+Guerra J, p           0  0  0  0   Johnson C, 3b         3  0  0  0   
+Guerrier M, p         0  0  0  0   Wallace B, 1b         4  0  1  0   
+Navarro D, c          4  0  2  0   Bogusevic B, pr       0  1  0  0   
+Sands J, lf-rf        4  0  0  0   Hall B, 2b            4  0  0  0   
+Miles A, 3b           4  0  1  0   Towles J, c           4  0  3  1   
+Lilly T, p            1  0  0  0   Rodriguez A, p        2  0  0  0   
+Ethier A, ph          0  0  0  0   Lopez W, p            0  0  0  0   
+MacDougal M, p        0  0  0  0   Michaels J, ph        0  0  0  0   
+Gwynn T, lf           1  0  0  0   Fulchino J, p         0  0  0  0   
+                                   Barmes C, ss          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        33  2  9  2
+
+Los Angeles      000 001 000 --  1
+Houston          100 000 001 --  2
+  2 outs when winning run was scored.
+
+  Los Angeles          IP  H  R ER BB SO
+Lilly T               6.0  6  1  1  1  2
+MacDougal M           1.0  1  0  0  1  1
+Guerra J              1.0  0  0  0  0  0
+Guerrier M (L)        0.2  2  1  1  0  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez A           6.0  4  1  1  1  5
+Lopez W               1.0  1  0  0  1  1
+Fulchino J            1.0  1  0  0  1  0
+Melancon M (W)        1.0  0  0  0  0  2
+
+DP -- Los Angeles 1
+LOB -- Los Angeles 8, Houston 7
+2B -- Towles J, Lee C, Kemp M, Wallace B
+HR -- Bourn M, Kemp M
+SB -- Loney J
+SH -- Lilly T
+T -- 2:41
+A -- 21350
+     Game of 5/27/2011 -- Arizona at Houston (N)
+
+  Arizona            AB  R  H RBI    Houston            AB  R  H RBI
+Roberts R, 3b         5  1  2  0   Bourn M, cf           5  2  3  3   
+Johnson K, 2b         4  1  2  1   Keppinger J, 2b       5  0  2  1   
+Upton J, rf           4  0  0  0   Pence H, rf           3  1  1  1   
+Drew S, ss            2  1  0  0   Lee C, lf             5  0  1  0   
+Young C, cf           5  0  2  1   Wallace B, 1b         4  0  1  0   
+Montero M, c          4  1  0  0   Hall B, pr            0  0  0  0   
+Miranda J, 1b         5  2  2  4   Del Rosario E, p      0  0  0  0   
+Parra G, lf           4  0  1  0   Johnson C, 3b         3  1  1  0   
+Hudson D, p           2  0  0  0   Lopez W, p            0  0  0  0   
+Bloomquist W, ph      1  1  1  0   Fulchino J, p         0  0  0  0   
+Mickolio K, p         0  0  0  0   Downs M, ph-1b        1  0  0  0   
+Burroughs S, ph       1  0  1  0   Barmes C, ss          2  2  0  0   
+Hernandez D, p        0  0  0  0   Quintero H, c         3  0  1  0   
+Putz J, p             0  0  0  0   Towles J, c           0  0  0  0   
+                                   Myers B, p            1  0  0  0   
+                                   Escalona S, p         0  0  0  0   
+                                   Sanchez A, 3b         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 11  6                        34  6 10  5
+
+Arizona          000 022 300 --  7
+Houston          230 100 000 --  6
+
+  Arizona              IP  H  R ER BB SO
+Hudson D (W)          6.0  8  6  5  1  4
+Mickolio K            1.0  1  0  0  1  0
+Hernandez D           1.0  1  0  0  1  1
+Putz J (S)            1.0  0  0  0  1  1
+
+  Houston              IP  H  R ER BB SO
+Myers B               5.2  5  4  4  3  4
+Escalona S*           0.1  1  1  1  0  0
+Lopez W (L)           1.0  3  2  1  1  0
+Fulchino J            1.0  1  0  0  0  1
+Del Rosario E         1.0  1  0  0  1  1
+  * Pitched to 1 batter in 7th
+
+E -- Johnson K, Upton J, Lopez W
+DP -- Arizona 1, Houston 1
+LOB -- Arizona 9, Houston 7
+2B -- Pence H, Bourn M, Roberts R
+HR -- Miranda J 2
+SB -- Johnson K, Pence H
+SH -- Myers B
+HBP -- by Myers B (Upton J), by Hudson D (Barmes C)
+T -- 3:09
+A -- 21834
+     Game of 5/28/2011 -- Arizona at Houston (N)
+
+  Arizona            AB  R  H RBI    Houston            AB  R  H RBI
+Bloomquist W, lf      5  0  1  0   Bourn M, cf           4  0  0  0   
+Johnson K, 2b         5  1  1  0   Barmes C, ss          4  1  2  0   
+Roberts R, 3b         5  1  1  0   Pence H, rf           4  1  1  0   
+Drew S, ss            5  2  4  1   Lee C, lf             4  1  2  1   
+Young C, cf           4  1  1  1   Johnson C, 3b         4  0  1  1   
+Montero M, c          5  3  3  2   Wallace B, 1b         4  0  1  1   
+Miranda J, 1b         3  0  0  0   Hall B, 2b            2  0  0  0   
+Parra G, rf           2  2  1  3   Rodriguez F, p        0  0  0  0   
+Duke Z, p             3  1  1  3   Michaels J, ph        1  0  0  0   
+Burroughs S, ph       1  0  0  0   Valdez J, p           0  0  0  0   
+Kroenke Z, p          0  0  0  0   Sanchez A, ph         1  0  0  0   
+                                   Towles J, c           4  0  0  0   
+                                   Norris B, p           1  0  0  0   
+                                   Downs M, 2b           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38 11 13 10                        34  3  7  3
+
+Arizona          020 400 032 -- 11
+Houston          000 000 003 --  3
+
+  Arizona              IP  H  R ER BB SO
+Duke Z (W)            7.0  3  0  0  1  4
+Kroenke Z             2.0  4  3  3  0  1
+
+  Houston              IP  H  R ER BB SO
+Norris B (L)          5.0  7  6  2  2  4
+Rodriguez F           2.0  1  0  0  0  2
+Valdez J              2.0  5  5  5  0  2
+
+E -- Hall B
+DP -- Houston 1
+LOB -- Arizona 4, Houston 5
+2B -- Montero M, Young C, Roberts R, Lee C
+HR -- Duke Z, Parra G
+CS -- Drew S
+SF -- Parra G, Young C
+WP -- Valdez J
+Balk -- Norris B
+T -- 2:53
+A -- 31405
+     Game of 5/29/2011 -- Arizona at Houston (D)
+
+  Arizona            AB  R  H RBI    Houston            AB  R  H RBI
+Bloomquist W, ss      5  0  1  0   Bourn M, cf           4  0  0  0   
+Roberts R, 2b         3  1  1  0   Keppinger J, 2b       3  1  1  0   
+Upton J, rf           3  1  1  0   Pence H, rf           4  0  2  0   
+Young C, cf           1  1  0  1   Lee C, lf             4  0  0  0   
+Nady X, lf            4  1  1  2   Downs M, pr           0  0  0  0   
+Putz J, p             0  0  0  0   Del Rosario E, p      0  0  0  0   
+Miranda J, 1b         4  0  1  1   Wallace B, 1b         3  0  1  0   
+Mora M, 3b            4  0  0  0   Johnson C, 3b         4  0  0  0   
+Blanco H, c           3  0  1  0   Barmes C, ss          4  0  0  0   
+Collmenter J, p       2  0  0  0   Towles J, c           4  0  0  0   
+Burroughs S, ph       1  0  0  0   Happ J, p             2  1  1  1   
+Heilman A, p          0  0  0  0   Lopez W, p            0  0  0  0   
+Hernandez D, p        0  0  0  0   Hall B, ph            1  0  0  0   
+Parra G, ph-lf        1  0  0  0   Fulchino J, p         0  0  0  0   
+                                   Escalona S, p         0  0  0  0   
+                                   Michaels J, lf        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  6  4                        33  2  5  1
+
+Arizona          000 001 030 --  4
+Houston          000 110 000 --  2
+
+  Arizona              IP  H  R ER BB SO
+Collmenter J          6.0  4  2  2  1  5
+Heilman A (W)         1.0  0  0  0  0  3
+Hernandez D           1.0  1  0  0  1  1
+Putz J (S)            1.0  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Happ J                6.0  2  1  1  4  8
+Lopez W               1.0  1  0  0  0  0
+Fulchino J (L)        0.2  2  3  3  1  2
+Escalona S            0.1  1  0  0  0  0
+Del Rosario E         1.0  0  0  0  0  0
+
+E -- Roberts R
+LOB -- Arizona 6, Houston 6
+2B -- Keppinger J, Nady X
+3B -- Upton J
+HR -- Happ J
+SB -- Roberts R
+CS -- Blanco H
+SF -- Young C
+WP -- Hernandez D
+Balk -- Collmenter J
+T -- 2:59
+A -- 21882
+     Game of 6/7/2011 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Theriot R, ss         5  0  1  1   Bourn M, cf           5  0  1  0   
+Rasmus C, cf          5  1  1  0   Barmes C, ss          5  0  0  0   
+Pujols A, 1b          4  1  1  1   Pence H, rf           4  1  2  0   
+Berkman L, lf         3  1  1  2   Lee C, lf             3  2  2  2   
+Craig A, rf           1  0  0  0   Keppinger J, 2b       5  1  1  0   
+Jay J, rf             3  0  0  0   Wallace B, 1b         4  0  1  0   
+Salas F, p            0  0  0  0   Johnson C, 3b         4  0  2  1   
+Molina Y, c           4  1  1  0   Towles J, c           3  0  1  0   
+Schumaker S, 2b-rf    4  1  2  0   Bourgeois J, ph       1  0  0  0   
+Descalso D, 3b-2b     3  2  1  0   Myers B, p            2  0  0  0   
+Westbrook J, p        2  0  1  3   Downs M, ph           0  0  0  1   
+Motte J, p            0  0  0  0   Escalona S, p         0  0  0  0   
+Greene T, ph          1  0  0  0   Del Rosario E, p      0  0  0  0   
+Batista M, p          0  0  0  0   Michaels J, ph        0  0  0  0   
+Miller T, p           0  0  0  0   Rodriguez F, p        0  0  0  0   
+Sanchez E, p          0  0  0  0                                      
+Carpenter M, 3b       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  7  9  7                        36  4 10  4
+
+St. Louis        200 300 011 --  7
+Houston          200 001 001 --  4
+
+  St. Louis            IP  H  R ER BB SO
+Westbrook J (W)       5.1  8  3  2  3  3
+Motte J               0.2  0  0  0  0  1
+Batista M             0.2  0  0  0  1  0
+Miller T              0.1  0  0  0  0  0
+Sanchez E*            0.0  0  0  0  2  0
+Salas F (S)           2.0  2  1  1  1  3
+
+  Houston              IP  H  R ER BB SO
+Myers B (L)           6.0  6  5  5  1  4
+Escalona S            0.1  0  0  0  0  1
+Del Rosario E         1.2  1  1  1  1  1
+Rodriguez F           1.0  2  1  1  0  2
+  * Pitched to 2 batters in 8th
+
+E -- Theriot R
+DP -- St. Louis 1
+LOB -- St. Louis 4, Houston 13
+2B -- Westbrook J, Towles J, Theriot R, Lee C, Johnson C
+HR -- Berkman L, Lee C, Pujols A
+CS -- Wallace B
+HBP -- by Motte J (Downs M)
+WP -- Sanchez E
+PB -- Towles J
+T -- 3:10
+A -- 23277
+     Game of 6/8/2011 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Theriot R, ss         2  0  0  0   Bourgeois J, cf-lf    5  1  2  0   
+Jay J, rf             4  0  0  0   Keppinger J, 2b       4  1  1  0   
+Pujols A, 1b          4  0  1  0   Pence H, rf           4  1  1  1   
+Berkman L, lf         3  1  1  1   Lee C, 1b             2  0  1  1   
+Rasmus C, cf          3  0  0  0   Wallace B, 1b         0  0  0  0   
+Molina Y, c           3  0  0  0   Michaels J, lf        4  0  2  1   
+Schumaker S, 2b       3  0  0  0   Melancon M, p         0  0  0  0   
+Carpenter M, 3b       1  0  0  0   Johnson C, 3b         4  0  1  0   
+Garcia J, p           1  0  0  0   Barmes C, ss          4  0  0  0   
+Descalso D, ph        1  0  0  0   Towles J, c           4  1  2  0   
+Tallet B, p           0  0  0  0   Norris B, p           2  0  0  0   
+Franklin R, p         0  0  0  0   Bourn M, ph-cf        1  0  1  1   
+Hamilton M, ph        1  0  0  0                                      
+Motte J, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     26  1  2  1                        34  4 11  4
+
+St. Louis        000 000 100 --  1
+Houston          002 010 01x --  4
+
+  St. Louis            IP  H  R ER BB SO
+Garcia J (L)          5.0  7  3  3  2  1
+Tallet B              0.2  1  0  0  0  0
+Franklin R            1.1  1  0  0  0  1
+Motte J               1.0  2  1  1  0  1
+
+  Houston              IP  H  R ER BB SO
+Norris B (W)          8.0  1  1  1  5  2
+Melancon M (S)        1.0  1  0  0  0  0
+
+DP -- Houston 3
+LOB -- St. Louis 3, Houston 9
+2B -- Bourgeois J, Johnson C, Towles J, Pujols A
+3B -- Pence H
+HR -- Berkman L
+SB -- Bourgeois J, Bourn M
+SH -- Norris B
+T -- 2:47
+A -- 22107
+     Game of 6/9/2011 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Theriot R, ss         5  2  2  1   Bourn M, cf           4  0  1  0   
+Jay J, rf             3  1  2  0   Keppinger J, 2b       3  0  0  1   
+Batista M, p          0  0  0  0   Rodriguez F, p        0  0  0  0   
+Miller T, p           0  0  0  0   Pence H, rf           4  1  2  0   
+Motte J, p            0  0  0  0   Lee C, lf             2  0  0  0   
+Carpenter M, ph       1  0  0  0   Wallace B, 1b         4  0  1  1   
+Sanchez E, p          0  0  0  0   Johnson C, 3b         4  0  1  0   
+Pujols A, 3b-1b       4  2  1  1   Barmes C, ss          3  1  1  0   
+Berkman L, lf         5  1  2  2   Towles J, c           3  0  1  0   
+Hamilton M, 1b        3  1  0  1   Sanchez A, ph         1  0  0  0   
+Schumaker S, rf       2  0  1  1   Happ J, p             2  0  0  0   
+Cruz T, c             5  1  1  0   Lopez W, p            0  0  0  0   
+Rasmus C, cf          3  1  0  0   Escalona S, p         0  0  0  0   
+Greene T, 2b          3  0  1  1   Fulchino J, p         0  0  0  0   
+Lynn L, p             2  0  0  0   Downs M, ph-2b        1  0  0  0   
+Descalso D, ph-3b     2  0  1  2                                      
+                     -- -- -- --                        -- -- -- --
+                     38  9 11  9                        31  2  7  2
+
+St. Louis        100 005 111 --  9
+Houston          100 000 100 --  2
+
+  St. Louis            IP  H  R ER BB SO
+Lynn L (W)            5.0  6  1  1  3  3
+Batista M*            1.0  1  1  1  1  1
+Miller T              0.1  0  0  0  0  1
+Motte J               0.2  0  0  0  0  1
+Sanchez E             2.0  0  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Happ J (L)            5.1  6  6  6  2  5
+Lopez W               0.1  1  0  0  1  1
+Escalona S            0.1  0  0  0  0  0
+Fulchino J            1.0  2  1  1  0  2
+Rodriguez F           2.0  2  2  2  0  4
+  * Pitched to 3 batters in 7th
+
+E -- Barmes C
+DP -- St. Louis 1
+LOB -- St. Louis 6, Houston 7
+2B -- Theriot R, Descalso D, Pujols A
+HR -- Theriot R, Berkman L
+SB -- Greene T
+CS -- Bourn M
+SH -- Jay J
+HBP -- by Batista M (Barmes C)
+WP -- Lynn L
+T -- 3:18
+A -- 24482
+     Game of 6/10/2011 -- Atlanta at Houston (N)
+
+  Atlanta            AB  R  H RBI    Houston            AB  R  H RBI
+Schafer J, cf         4  2  1  0   Bourn M, cf           5  2  4  0   
+Uggla D, 2b           5  1  1  0   Sanchez A, ss         5  0  0  1   
+Jones C, 3b           5  3  3  2   Pence H, rf           2  0  1  0   
+Linebrink S, p        0  0  0  0   Michaels J, rf        3  0  0  0   
+Martinez C, p         0  0  0  0   Lee C, lf             4  0  1  0   
+Freeman F, 1b         5  2  3  3   Keppinger J, 2b       3  0  2  0   
+Gonzalez A, ss        5  2  2  3   Wallace B, 1b         4  0  0  0   
+Hinske E, lf          5  1  1  1   Johnson C, 3b         2  0  0  0   
+Ross D, c             3  0  1  0   Del Rosario E, p      0  0  0  0   
+Young M, rf           5  0  2  1   Escalona S, p         0  0  0  0   
+Hudson T, p           3  0  0  0   Bourgeois J, ph       1  0  0  0   
+Conrad B, ph          0  0  0  0   Fulchino J, p         0  0  0  0   
+Proctor S, p          0  0  0  0   Lyon B, p             0  0  0  0   
+Hernandez D, 3b       1  0  0  0   Melancon M, p         0  0  0  0   
+                                   Corporan C, ph        1  1  1  0   
+                                   Towles J, c           4  0  0  0   
+                                   Rodriguez A, p        1  0  0  0   
+                                   Downs M, 3b           2  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     41 11 14 10                        37  4 10  3
+
+Atlanta          104 040 110 -- 11
+Houston          001 010 002 --  4
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (W)          6.0  7  2  2  0  4
+Proctor S             1.0  0  0  0  1  0
+Linebrink S           1.0  0  0  0  1  2
+Martinez C            1.0  3  2  2  0  2
+
+  Houston              IP  H  R ER BB SO
+Rodriguez A (L)*      4.0  6  6  6  1  4
+Del Rosario E         1.0  4  3  3  1  1
+Escalona S            1.0  0  0  0  0  1
+Fulchino J            1.0  2  1  1  2  1
+Lyon B                1.0  1  1  1  0  1
+Melancon M            1.0  1  0  0  0  1
+  * Pitched to 1 batter in 5th
+
+E -- Wallace B, Schafer J
+LOB -- Atlanta 7, Houston 8
+2B -- Uggla D, Gonzalez A, Bourn M 2
+3B -- Bourn M
+HR -- Freeman F, Gonzalez A, Hinske E, Jones C, Downs M
+SB -- Schafer J 2, Jones C
+WP -- Del Rosario E, Hudson T 2
+T -- 3:00
+A -- 29252
+     Game of 6/11/2011 -- Atlanta at Houston (N)
+
+  Atlanta            AB  R  H RBI    Houston            AB  R  H RBI
+Schafer J, cf         4  1  2  0   Bourgeois J, lf       5  0  1  0   
+Uggla D, 2b           3  2  2  0   Bourn M, cf           4  1  1  0   
+McCann B, c           4  1  1  3   Pence H, rf           5  2  2  1   
+Jones C, 3b           5  1  2  1   Lee C, 1b             5  0  3  2   
+Freeman F, 1b         5  0  1  0   Keppinger J, 2b       5  0  1  0   
+Gonzalez A, ss        5  0  1  0   Johnson C, 3b         5  0  1  0   
+Hinske E, lf          5  1  2  2   Barmes C, ss          3  0  0  0   
+Kimbrel C, p          0  0  0  0   Corporan C, c         4  0  1  0   
+Young M, rf-lf        5  0  2  0   Lyles J, p            1  0  0  0   
+Minor M, p            2  0  1  0   Escalona S, p         0  0  0  0   
+Hernandez D, ph       1  0  0  0   Michaels J, ph        1  0  0  0   
+O'Flaherty E, p       0  0  0  0   Lopez W, p            0  0  0  0   
+Venters J, p          0  0  0  0   Melancon M, p         0  0  0  0   
+Conrad B, ph          1  0  0  0   Downs M, ph           0  0  0  0   
+Linebrink S, p        0  0  0  0   Lyon B, p             0  0  0  0   
+Mather J, ph-rf       1  0  0  0   Rodriguez F, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  6 14  6                        38  3 10  3
+
+Atlanta          001 100 000 4 --  6
+Houston          200 000 000 1 --  3
+
+  Atlanta              IP  H  R ER BB SO
+Minor M               6.0  4  2  2  2  4
+O'Flaherty E          1.0  2  0  0  0  1
+Venters J             1.0  1  0  0  0  1
+Linebrink S (W)       1.0  1  0  0  1  0
+Kimbrel C             1.0  2  1  1  0  1
+
+  Houston              IP  H  R ER BB SO
+Lyles J               6.1  8  2  2  2  5
+Escalona S            0.2  0  0  0  0  0
+Lopez W               1.0  0  0  0  0  2
+Melancon M            1.0  1  0  0  0  1
+Lyon B (L)*           0.0  3  4  4  1  0
+Rodriguez F           1.0  2  0  0  0  2
+  * Pitched to 4 batters in 10th
+
+E -- Keppinger J
+DP -- Atlanta 1, Houston 2
+LOB -- Atlanta 9, Houston 9
+2B -- Pence H 2, Lee C 2, Freeman F, Jones C 2, Minor M
+3B -- Bourn M
+HR -- Hinske E, McCann B
+SB -- Bourgeois J, Schafer J
+CS -- Young M
+SH -- Schafer J, Barmes C
+T -- 3:20
+A -- 32117
+     Game of 6/12/2011 -- Atlanta at Houston (D)
+
+  Atlanta            AB  R  H RBI    Houston            AB  R  H RBI
+Schafer J, cf         4  1  1  0   Bourn M, cf           4  0  0  0   
+Uggla D, 2b           3  2  2  2   Barmes C, ss          4  0  1  0   
+McCann B, c           4  1  2  2   Downs M, 2b           3  1  0  0   
+Freeman F, 1b         4  0  0  0   Lee C, lf             3  0  2  1   
+Gonzalez A, ss        3  0  0  0   Wallace B, 1b         4  0  0  0   
+Hinske E, lf          4  0  0  0   Michaels J, rf        4  0  1  0   
+Venters J, p          0  0  0  0   Johnson C, 3b         4  0  1  0   
+Hicks B, 3b           4  0  0  0   Corporan C, c         4  0  0  0   
+Young M, rf-lf        3  0  0  0   Myers B, p            2  0  0  0   
+Hanson T, p           3  0  0  0   Keppinger J, ph       1  0  0  0   
+O'Flaherty E, p       0  0  0  0   Rodriguez F, p        0  0  0  0   
+Mather J, rf          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  5  4                        33  1  5  1
+
+Atlanta          200 002 000 --  4
+Houston          000 001 000 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Hanson T (W)          7.0  3  1  1  2 14
+O'Flaherty E          1.0  1  0  0  0  1
+Venters J (S)         1.0  1  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Myers B (L)           7.0  5  4  4  1  6
+Rodriguez F           2.0  0  0  0  1  4
+
+E -- Myers B, Hicks B
+DP -- Houston 1
+LOB -- Atlanta 3, Houston 7
+2B -- Lee C
+HR -- Uggla D, McCann B
+SB -- Schafer J, Johnson C
+T -- 2:33
+A -- 23765
+     Game of 6/13/2011 -- Atlanta at Houston (N)
+
+  Atlanta            AB  R  H RBI    Houston            AB  R  H RBI
+Schafer J, cf         5  1  2  3   Bourn M, cf           4  1  1  0   
+Uggla D, 2b           4  0  0  0   Barmes C, ss          4  1  1  1   
+McCann B, c           3  0  0  0   Pence H, rf           4  1  3  4   
+Jones C, 3b           2  0  1  0   Bourgeois J, pr-rf    0  0  0  0   
+Freeman F, 1b         3  0  0  0   Lee C, lf             4  0  0  0   
+Mather J, rf          4  0  0  0   Keppinger J, 2b       5  1  2  0   
+Hicks B, ss           4  0  0  0   Wallace B, 1b         2  2  2  1   
+Young M, lf           4  1  1  0   Johnson C, 3b         4  0  2  0   
+Lowe D, p             2  0  1  0   Towles J, c           3  1  1  1   
+Linebrink S, p        0  0  0  0   Rodriguez W, p        2  0  0  0   
+Conrad B, ph          1  0  1  0   Downs M, ph           1  1  1  1   
+Sherrill G, p         0  0  0  0   Lopez W, p            0  0  0  0   
+Proctor S, p          0  0  0  0   Michaels J, ph        1  0  1  0   
+Hinske E, ph          0  1  0  0   Escalona S, p         0  0  0  0   
+                                   Lyon B, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        34  8 14  8
+
+Atlanta          000 000 003 --  3
+Houston          002 005 10x --  8
+
+  Atlanta              IP  H  R ER BB SO
+Lowe D (L)            5.1  8  5  5  3  2
+Linebrink S           0.2  2  2  2  2  0
+Sherrill G            1.0  3  1  1  0  0
+Proctor S             1.0  1  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)       6.0  2  0  0  4  5
+Lopez W               1.0  1  0  0  0  1
+Escalona S            1.0  1  0  0  0  1
+Lyon B                1.0  2  3  3  1  0
+
+DP -- Atlanta 2, Houston 1
+LOB -- Atlanta 8, Houston 9
+2B -- Schafer J, Lowe D, Wallace B 2, Downs M, Conrad B, Young M
+HR -- Pence H, Schafer J
+SB -- Bourn M
+SF -- Barmes C, Towles J
+HBP -- by Rodriguez W (McCann B)
+T -- 2:39
+A -- 21466
+     Game of 6/14/2011 -- Pittsburgh at Houston (N)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+Tabata J, lf          5  0  1  0   Bourn M, cf           4  0  0  0   
+Cedeno R, ss          4  0  0  0   Barmes C, ss          4  0  0  0   
+McCutchen A, cf       3  0  1  0   Pence H, rf           4  0  0  0   
+Walker N, 2b          4  1  2  0   Lee C, lf-1b          4  0  1  0   
+Jones G, rf           4  0  2  1   Keppinger J, 2b       3  0  1  0   
+Watson T, p           0  0  0  0   Wallace B, 1b         2  0  1  0   
+Wood T, p             0  0  0  0   Bourgeois J, ph-lf    1  0  0  0   
+Veras J, p            0  0  0  0   Johnson C, 3b         3  0  1  0   
+Hanrahan J, p         0  0  0  0   Corporan C, c         2  0  0  0   
+Overbay L, 1b         2  0  0  0   Downs M, ph           0  0  0  0   
+McKenry M, c          3  0  0  0   Towles J, c           0  0  0  0   
+Wood B, 3b            3  0  0  0   Norris B, p           2  0  0  0   
+Karstens J, p         3  0  0  0   Del Rosario E, p      0  0  0  0   
+Resop C, p            0  0  0  0   Escalona S, p         0  0  0  0   
+Paul X, rf            0  0  0  0   Michaels J, ph        1  0  0  0   
+                                   Rodriguez F, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  6  1                        30  0  4  0
+
+Pittsburgh       010 000 000 --  1
+Houston          000 000 000 --  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Karstens J (W)        6.2  3  0  0  0  3
+Resop C               0.1  0  0  0  0  1
+Watson T              0.1  0  0  0  0  0
+Wood T*               0.0  1  0  0  1  0
+Veras J               0.2  0  0  0  0  0
+Hanrahan J (S)        1.0  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Norris B (L)          7.0  6  1  1  2  9
+Del Rosario E         0.1  0  0  0  1  0
+Escalona S            0.2  0  0  0  0  1
+Rodriguez F           1.0  0  0  0  2  1
+  * Pitched to 2 batters in 8th
+
+E -- Corporan C
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 9, Houston 4
+SB -- Jones G, McCutchen A
+CS -- Jones G
+SH -- McKenry M
+WP -- Norris B
+Balk -- Karstens J
+T -- 2:41
+A -- 29712
+     Game of 6/15/2011 -- Pittsburgh at Houston (N)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+Tabata J, lf          6  1  2  0   Bourn M, cf           4  1  3  1   
+Diaz M, rf            3  1  1  0   Keppinger J, 2b       4  0  1  0   
+Jones G, ph           1  1  1  1   Rodriguez A, p        0  0  0  0   
+McCutchen D, p        1  0  0  0   Michaels J, ph        1  0  1  0   
+Ciriaco P, ph         1  0  0  0   Melancon M, p         0  0  0  0   
+Resop C, p            0  0  0  0   Pence H, rf           5  0  2  0   
+Hanrahan J, p         0  0  0  0   Lee C, lf             5  0  1  0   
+McCutchen A, cf       3  1  1  1   Wallace B, 1b         3  0  2  1   
+Walker N, 2b          3  0  2  3   Johnson C, 3b         3  1  1  0   
+Overbay L, 1b         4  0  0  0   Del Rosario E, p      0  0  0  0   
+Wood B, 3b            4  0  0  0   Rodriguez F, p        0  0  0  0   
+McKenry M, c          5  1  2  0   Downs M, 2b           2  0  1  0   
+Cedeno R, ss          5  0  2  0   Barmes C, ss          5  0  1  1   
+Morton C, p           1  0  0  0   Towles J, c           4  1  0  0   
+Paul X, ph-rf         3  2  3  2   Happ J, p             1  0  0  0   
+                                   Sanchez A, 3b         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  7 14  7                        39  3 13  3
+
+Pittsburgh       101 003 200 --  7
+Houston          001 110 000 --  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Morton C (W)          5.0  9  3  3  2  3
+McCutchen D           3.0  3  0  0  0  1
+Resop C               0.1  1  0  0  1  1
+Hanrahan J (S)        0.2  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Happ J                5.0  6  2  2  4  7
+Del Rosario E (L)     1.0  3  3  2  0  1
+Rodriguez F           0.2  3  2  2  0  1
+Rodriguez A           1.1  0  0  0  1  2
+Melancon M            1.0  2  0  0  0  0
+
+E -- Wallace B
+LOB -- Pittsburgh 13, Houston 14
+2B -- Diaz M, McCutchen A, Barmes C, Paul X, Tabata J
+3B -- Walker N
+HR -- Paul X
+SB -- Bourn M 2, McCutchen A, Pence H
+SH -- Morton C, Happ J
+SF -- Walker N
+HBP -- by McCutchen D (Bourn M)
+T -- 3:47
+A -- 29866
+     Game of 6/16/2011 -- Pittsburgh at Houston (D)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+Tabata J, lf          4  1  1  0   Bourn M, cf           4  1  0  0   
+Paul X, rf            4  0  1  0   Keppinger J, 2b       5  0  2  1   
+McCutchen A, cf       2  2  1  0   Pence H, rf           5  0  3  1   
+Walker N, 2b          4  1  1  0   Lee C, lf             5  0  1  0   
+Jones G, 1b           4  1  1  3   Wallace B, 1b         1  1  0  0   
+Overbay L, 1b         0  0  0  0   Downs M, 3b           4  1  1  0   
+Harrison J, 3b        3  0  1  1   Sanchez A, ss         3  0  1  1   
+Watson T, p           0  0  0  0   Corporan C, c         3  0  0  1   
+Wood T, p             0  0  0  0   Lyles J, p            2  0  0  0   
+Diaz M, ph            1  0  1  0   Escalona S, p         0  0  0  0   
+Veras J, p            0  0  0  0   Michaels J, ph        1  0  0  0   
+Cedeno R, ss          4  0  0  0   Lopez W, p            0  0  0  0   
+Brown D, c            4  0  0  0   Abad F, p             0  0  0  0   
+McDonald J, p         2  0  0  0   Bourgeois J, ph       1  1  1  0   
+Wood B, 3b            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  5  7  4                        34  4  9  4
+
+Pittsburgh       300 002 000 --  5
+Houston          000 210 001 --  4
+
+  Pittsburgh           IP  H  R ER BB SO
+McDonald J (W)        5.2  7  3  3  4  4
+Watson T              2.0  0  0  0  1  1
+Wood T                0.1  0  0  0  0  0
+Veras J (S)           1.0  2  1  1  0  0
+
+  Houston              IP  H  R ER BB SO
+Lyles J (L)           5.2  4  5  3  1  8
+Escalona S            0.1  1  0  0  0  0
+Lopez W               2.0  1  0  0  0  2
+Abad F                1.0  1  0  0  0  1
+
+E -- Bourn M, Corporan C
+DP -- Houston 1
+LOB -- Pittsburgh 3, Houston 9
+2B -- Lee C, Downs M, Pence H, Harrison J, Sanchez A
+HR -- Jones G
+SB -- Diaz M, Bourgeois J
+SF -- Corporan C
+HBP -- by Lopez W (McCutchen A)
+T -- 2:56
+A -- 26415
+     Game of 6/24/2011 -- Tampa Bay at Houston (N)
+
+  Tampa Bay          AB  R  H RBI    Houston            AB  R  H RBI
+Rodriguez S, 2b       4  2  3  0   Bourn M, cf           3  0  1  0   
+Zobrist B, rf         3  1  1  1   Keppinger J, 2b       4  0  0  0   
+Longoria E, 3b        4  1  2  3   Pence H, rf           4  0  0  0   
+Upton B, cf           3  1  1  1   Lee C, lf             4  0  0  0   
+Shoppach K, c         4  0  0  0   Wallace B, 1b         3  1  1  0   
+Ruggiano J, lf        4  0  0  0   Johnson C, 3b         2  0  1  1   
+Kotchman C, 1b        4  0  1  0   Barmes C, ss          3  0  0  0   
+Johnson E, ss         4  0  0  0   Towles J, c           0  0  0  0   
+Shields J, p          4  0  0  0   Corporan C, c         3  0  0  0   
+                                   Rodriguez W, p        1  0  0  0   
+                                   Sanchez A, ph         1  0  0  0   
+                                   Rodriguez F, p        0  0  0  0   
+                                   Michaels J, ph        1  0  0  0   
+                                   Rodriguez A, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5  8  5                        29  1  3  1
+
+Tampa Bay        004 010 000 --  5
+Houston          000 000 100 --  1
+
+  Tampa Bay            IP  H  R ER BB SO
+Shields J (W)         9.0  3  1  1  1  9
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (L)       6.0  6  5  5  2  5
+Rodriguez F           2.0  1  0  0  0  2
+Rodriguez A           1.0  1  0  0  0  2
+
+DP -- Tampa Bay 1, Houston 1
+LOB -- Tampa Bay 4, Houston 3
+2B -- Johnson C, Kotchman C
+HR -- Longoria E, Upton B
+SB -- Upton B, Rodriguez S
+HBP -- by Shields J (Johnson C)
+WP -- Rodriguez W
+T -- 2:33
+A -- 26682
+     Game of 6/25/2011 -- Tampa Bay at Houston (N)
+
+  Tampa Bay          AB  R  H RBI    Houston            AB  R  H RBI
+Damon J, lf           4  0  1  1   Bourn M, cf           4  0  1  0   
+Fuld S, lf            1  1  1  0   Keppinger J, 2b       4  1  2  0   
+Zobrist B, 2b         3  2  0  0   Pence H, rf           3  1  1  1   
+Longoria E, 3b        4  2  2  2   Lee C, lf             4  0  2  1   
+Kotchman C, 1b        5  0  3  2   Downs M, ss           3  0  0  0   
+Joyce M, rf           4  0  1  0   Wallace B, 1b         4  0  1  0   
+Upton B, cf           4  1  2  2   Johnson C, 3b         4  0  1  0   
+Jaso J, c             5  0  1  0   Corporan C, c         3  0  0  0   
+Brignac R, ss         5  1  2  0   Bourgeois J, ph       1  0  1  0   
+Davis W, p            1  0  0  0   Norris B, p           1  0  0  0   
+Ruggiano J, ph        1  0  0  0   Sanchez A, ph         1  0  0  0   
+Peralta J, p          0  0  0  0   Abad F, p             0  0  0  0   
+Farnsworth K, p       0  0  0  0   Towles J, ph          1  0  0  0   
+                                   Del Rosario E, p      0  0  0  0   
+                                   Escalona S, p         0  0  0  0   
+                                   Michaels J, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 13  7                        34  2  9  2
+
+Tampa Bay        111 001 003 --  7
+Houston          000 100 010 --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Davis W (W)           7.0  5  1  1  1  3
+Peralta J             0.1  2  1  1  0  0
+Farnsworth K (S)      1.2  2  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Norris B (L)          5.0  6  3  3  3  5
+Abad F                2.0  3  1  1  0  3
+Del Rosario E*        1.0  3  3  3  1  0
+Escalona S            1.0  1  0  0  1  1
+  * Pitched to 3 batters in 9th
+
+E -- Brignac R, Downs M, Fuld S
+DP -- Tampa Bay 4
+LOB -- Tampa Bay 10, Houston 7
+2B -- Longoria E 2, Bourn M, Lee C, Kotchman C, Jaso J, Pence H, Fuld S
+HR -- Upton B
+SH -- Davis W 2
+HBP -- by Davis W (Downs M)
+WP -- Escalona S
+T -- 2:53
+A -- 27208
+     Game of 6/26/2011 -- Tampa Bay at Houston (D)
+
+  Tampa Bay          AB  R  H RBI    Houston            AB  R  H RBI
+Damon J, lf           6  3  4  0   Bourn M, cf           5  1  1  1   
+Zobrist B, rf-2b      5  4  3  1   Keppinger J, 2b       3  3  3  2   
+Longoria E, 3b        6  3  4  5   Melancon M, p         0  0  0  0   
+Upton B, cf           5  2  2  4   Escalona S, p         0  0  0  0   
+Rodriguez S, 2b       2  0  0  0   Michaels J, ph        1  0  0  0   
+Joyce M, ph-rf        2  1  1  2   Pence H, rf           5  1  1  0   
+Kotchman C, 1b        5  0  2  2   Lee C, lf-1b          4  0  2  3   
+Shoppach K, c         3  0  0  0   Johnson C, 3b         4  1  1  0   
+Jaso J, ph-c          2  0  0  0   Wallace B, 1b         3  1  1  0   
+Johnson E, ss         4  1  1  0   Lopez W, p            0  0  0  0   
+Howell J, p           0  0  0  0   Downs M, 2b           1  1  1  2   
+Peralta J, p          0  0  0  0   Barmes C, ss          4  1  2  1   
+Russell A, p          0  0  0  0   Corporan C, c         3  1  1  0   
+Davis W, ph           1  0  1  0   Happ J, p             1  0  0  0   
+Farnsworth K, p       0  0  0  0   Bourgeois J, lf       2  0  1  0   
+Niemann J, p          1  0  1  0                                      
+Ruggiano J, ph        1  0  0  0                                      
+Ramos C, p            0  0  0  0                                      
+Fuld S, ph            1  0  0  0                                      
+Cruz J, p             0  0  0  0                                      
+Brignac R, ss         2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     46 14 19 14                        36 10 14  9
+
+Tampa Bay        301 102 043 -- 14
+Houston          122 200 120 -- 10
+
+  Tampa Bay            IP  H  R ER BB SO
+Niemann J             3.0  7  5  5  0  2
+Ramos C               1.0  2  2  1  0  0
+Cruz J                2.0  1  0  0  0  2
+Howell J (W)          1.0  1  1  1  0  0
+Peralta J*            0.0  2  2  2  0  0
+Russell A             1.0  1  0  0  0  0
+Farnsworth K          1.0  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Happ J                5.0  9  5  5  3  8
+Lopez W (L)           2.1  4  4  4  0  2
+Melancon M            1.1  6  5  5  1  2
+Escalona S            0.1  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+E -- Shoppach K
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 9, Houston 2
+2B -- Keppinger J, Wallace B, Barmes C, Longoria E, Pence H, Lee C, Johnson E, Zobrist B, Corporan C, Kotchman C, Joyce M, Johnson C
+3B -- Lee C
+HR -- Upton B, Longoria E 2, Keppinger J, Downs M
+SB -- Bourn M
+CS -- Bourgeois J
+SH -- Happ J, Corporan C
+SF -- Keppinger J
+WP -- Niemann J, Lopez W, Melancon M
+Balk -- Lopez W
+T -- 3:50
+A -- 23965
+     Game of 6/28/2011 -- Texas at Houston (N)
+
+  Texas              AB  R  H RBI    Houston            AB  R  H RBI
+Kinsler I, 2b         3  1  2  3   Bourgeois J, lf       3  0  0  0   
+Blanco A, ss          5  0  1  0   Michaels J, lf        2  0  1  0   
+Hamilton J, cf        5  1  2  1   Bourn M, cf           4  2  2  0   
+Beltre A, 3b          5  1  1  0   Pence H, rf           3  0  1  1   
+Young M, 1b           4  0  1  0   Lee C, 1b             2  0  0  1   
+Cruz N, lf            4  0  1  1   Keppinger J, 2b       4  0  0  0   
+Moreland M, rf        4  2  2  1   Johnson C, 3b         4  0  1  0   
+Torrealba Y, c        4  1  1  1   Barmes C, ss          4  1  2  0   
+Wilson C, p           3  1  1  0   Corporan C, c         4  0  3  0   
+Chavez E, ph          1  0  0  0   Lyles J, p            2  0  0  0   
+Lowe M, p             0  0  0  0   Del Rosario E, p      0  0  0  0   
+Tateyama Y, p         0  0  0  0   Sanchez A, ph         1  0  0  0   
+Feliz N, p            0  0  0  0   Rodriguez A, p        0  0  0  0   
+                                   Wallace B, ph         1  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     38  7 12  7                        34  3 11  3
+
+Texas            003 002 011 --  7
+Houston          100 001 001 --  3
+
+  Texas                IP  H  R ER BB SO
+Wilson C (W)          7.0  7  2  2  2  3
+Lowe M                1.0  1  0  0  0  2
+Tateyama Y            0.2  3  1  1  0  0
+Feliz N (S)           0.1  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Lyles J (L)           6.0 10  5  5  2  2
+Del Rosario E         1.0  0  0  0  0  0
+Rodriguez A           2.0  2  2  2  0  0
+
+DP -- Texas 3
+LOB -- Texas 6, Houston 7
+2B -- Blanco A, Barmes C 2, Torrealba Y, Corporan C
+3B -- Wilson C, Kinsler I, Bourn M
+HR -- Hamilton J, Moreland M, Kinsler I
+SB -- Bourn M
+SF -- Lee C
+WP -- Wilson C
+T -- 3:00
+A -- 29132
+     Game of 6/29/2011 -- Texas at Houston (N)
+
+  Texas              AB  R  H RBI    Houston            AB  R  H RBI
+Kinsler I, 2b         4  2  2  2   Bourn M, cf           4  0  2  0   
+Blanco A, ss          4  1  2  0   Keppinger J, 2b       4  0  0  0   
+Hamilton J, cf        4  0  0  0   Pence H, rf           4  0  1  0   
+Beltre A, 3b          4  0  1  1   Lee C, lf             3  1  1  1   
+Young M, 1b           4  0  0  0   Downs M, 3b           4  1  1  0   
+Feliz N, p            0  0  0  0   Wallace B, 1b         4  0  0  0   
+Cruz N, lf-rf         4  0  0  0   Barmes C, ss          3  0  1  1   
+Moreland M, rf-1b     2  0  0  0   Corporan C, c         3  0  1  0   
+Torrealba Y, c        3  0  0  0   Myers B, p            2  0  0  0   
+Lewis C, p            3  0  1  0   Bogusevic B, ph       0  0  0  0   
+Oliver D, p           0  0  0  0   Michaels J, ph        1  0  0  0   
+Lowe M, p             0  0  0  0   Lopez W, p            0  0  0  0   
+Murphy D, lf          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        32  2  7  2
+
+Texas            201 000 000 --  3
+Houston          000 000 200 --  2
+
+  Texas                IP  H  R ER BB SO
+Lewis C (W)           6.2  6  2  2  0  6
+Oliver D              1.0  1  0  0  0  0
+Lowe M                0.1  0  0  0  0  1
+Feliz N (S)           1.0  0  0  0  1  2
+
+  Houston              IP  H  R ER BB SO
+Myers B (L)           7.0  6  3  3  1  4
+Lopez W               2.0  0  0  0  0  2
+
+DP -- Texas 1, Houston 1
+LOB -- Texas 3, Houston 4
+2B -- Blanco A, Lewis C, Downs M, Corporan C
+HR -- Kinsler I 2, Lee C
+CS -- Bourn M, Lee C
+T -- 2:28
+A -- 24472
+     Game of 6/30/2011 -- Texas at Houston (N)
+
+  Texas              AB  R  H RBI    Houston            AB  R  H RBI
+Kinsler I, 2b         3  0  0  0   Bourn M, cf           4  1  1  0   
+Andrus E, ss          3  0  2  0   Sanchez A, 2b         5  0  1  0   
+Hamilton J, lf        3  0  0  0   Pence H, rf           5  2  2  0   
+Beltre A, 3b          4  0  0  0   Lee C, 1b             2  2  1  1   
+Young M, 1b           3  0  1  0   Michaels J, lf        4  2  2  3   
+Murphy D, rf          3  0  1  0   Bogusevic B, lf       0  0  0  0   
+Torrealba Y, c        3  0  0  0   Johnson C, 3b         4  0  1  2   
+Gentry C, cf          3  0  0  0   Barmes C, ss          4  0  3  0   
+Harrison M, p         2  0  0  0   Towles J, c           4  0  0  0   
+Bush D, p             0  0  0  0   Rodriguez W, p        3  0  0  0   
+Chavez E, ph          1  0  0  0   Carpenter D, p        0  0  0  0   
+Rhodes A, p           0  0  0  0   Downs M, ph           1  0  0  0   
+                                   Abad F, p             0  0  0  0   
+                                   Melancon M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  0  4  0                        36  7 11  6
+
+Texas            000 000 000 --  0
+Houston          000 140 20x --  7
+
+  Texas                IP  H  R ER BB SO
+Harrison M (L)        6.0  7  5  5  2  2
+Bush D                1.0  3  2  2  0  0
+Rhodes A              1.0  1  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)       7.0  4  0  0  3  4
+Carpenter D           1.0  0  0  0  0  1
+Abad F                0.2  0  0  0  0  0
+Melancon M            0.1  0  0  0  0  0
+
+E -- Andrus E, Beltre A
+DP -- Houston 3
+LOB -- Texas 4, Houston 8
+2B -- Barmes C, Michaels J, Bourn M, Sanchez A
+HR -- Lee C, Michaels J
+SB -- Andrus E 2
+HBP -- by Harrison M (Bourn M)
+T -- 2:40
+A -- 25938
+     Game of 7/1/2011 -- Boston at Houston (N)
+
+  Boston             AB  R  H RBI    Houston            AB  R  H RBI
+Scutaro M, ss         5  1  1  1   Bourn M, cf           5  2  2  0   
+Pedroia D, 2b         3  1  1  2   Sanchez A, 2b         5  1  2  1   
+Gonzalez A, 1b        5  0  1  2   Pence H, rf           4  0  2  2   
+Youkilis K, 3b        4  0  0  0   Lee C, lf-1b          5  0  2  1   
+Drew J, rf            4  1  1  0   Johnson C, 3b         4  0  2  0   
+Saltalamacchia J, c   3  1  1  0   Wallace B, 1b         3  0  0  0   
+Reddick J, cf         4  1  2  1   Michaels J, ph-lf     1  0  0  0   
+Sutton D, lf          2  1  1  1   Del Rosario E, p      0  0  0  0   
+Albers M, p           0  0  0  0   Carpenter D, p        0  0  0  0   
+Morales F, p          0  0  0  0   Barmes C, ss          4  1  2  0   
+Ortiz D, ph           1  0  0  0   Corporan C, c         4  1  0  0   
+Bard D, p             0  0  0  0   Norris B, p           2  0  1  1   
+Papelbon J, p         0  0  0  0   Escalona S, p         0  0  0  0   
+Wakefield T, p        2  0  0  0   Lopez W, p            0  0  0  0   
+Wheeler D, p          0  0  0  0   Abad F, p             0  0  0  0   
+McDonald D, ph-lf     0  1  0  0   Bogusevic B, lf       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  7  8  7                        38  5 13  5
+
+Boston           100 000 600 --  7
+Houston          120 011 000 --  5
+
+  Boston               IP  H  R ER BB SO
+Wakefield T           5.1 11  5  5  0  0
+Wheeler D (W)         0.2  0  0  0  0  1
+Albers M              0.2  1  0  0  0  1
+Morales F             0.1  0  0  0  0  0
+Bard D                1.0  0  0  0  0  2
+Papelbon J (S)        1.0  1  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Norris B*             6.0  4  4  4  4 10
+Escalona S (L)+       0.0  1  2  2  0  0
+Lopez W               1.0  2  1  1  0  1
+Abad F                0.1  1  0  0  1  1
+Del Rosario E         1.1  0  0  0  4  0
+Carpenter D           0.1  0  0  0  0  0
+  * Pitched to 3 batters in 7th
+  + Pitched to 2 batters in 7th
+
+DP -- Houston 2
+LOB -- Boston 9, Houston 8
+2B -- Barmes C 2, Pence H, Lee C, Reddick J, Gonzalez A
+HR -- Scutaro M
+SB -- Bourn M
+SH -- Norris B
+SF -- Pence H
+HBP -- by Escalona S (McDonald D)
+WP -- Wakefield T
+PB -- Saltalamacchia J
+T -- 3:14
+A -- 36279
+     Game of 7/2/2011 -- Boston at Houston (N)
+
+  Boston             AB  R  H RBI    Houston            AB  R  H RBI
+Ellsbury J, cf        4  2  1  0   Bourn M, cf           5  2  4  0   
+Pedroia D, 2b         5  1  3  1   Sanchez A, 2b         3  0  1  1   
+Gonzalez A, rf-1b     5  3  3  1   Downs M, ph-2b        1  0  1  1   
+Youkilis K, 3b        5  1  3  1   Pence H, rf           4  1  3  2   
+Wheeler D, p          0  0  0  0   Lee C, 1b             4  0  1  0   
+Ortiz D, 1b           2  0  0  1   Michaels J, lf        4  0  0  0   
+Reddick J, lf         2  1  1  0   Johnson C, 3b         3  0  0  0   
+Saltalamacchia J, c   2  0  0  1   Barmes C, ss          4  0  0  0   
+McDonald D, lf-rf     4  1  1  3   Towles J, c           3  0  0  0   
+Scutaro M, ss         4  0  0  0   Happ J, p             2  0  0  0   
+Miller A, p           2  0  0  0   Lopez W, p            0  0  0  0   
+Navarro Y, ph         1  1  1  1   Keppinger J, ph       1  1  1  0   
+Aceves A, p           0  0  0  0   Abad F, p             0  0  0  0   
+Bard D, p             0  0  0  0   Rodriguez A, p        0  0  0  0   
+Drew J, ph            1  0  0  0   Bogusevic B, ph       1  0  0  0   
+Jenks B, p            0  0  0  0                                      
+Sutton D, 3b          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37 10 13  9                        35  4 11  4
+
+Boston           300 010 141 -- 10
+Houston          100 001 101 --  4
+
+  Boston               IP  H  R ER BB SO
+Miller A (W)          6.0  7  2  2  2  3
+Aceves A              0.2  2  1  1  1  0
+Bard D                0.1  0  0  0  1  0
+Jenks B               1.0  0  0  0  0  1
+Wheeler D             1.0  2  1  1  0  0
+
+  Houston              IP  H  R ER BB SO
+Happ J (L)            6.2  7  5  5  3  3
+Lopez W               0.1  0  0  0  0  0
+Abad F                1.0  4  4  4  0  0
+Rodriguez A           1.0  2  1  1  0  2
+
+E -- Lee C
+DP -- Boston 3, Houston 2
+LOB -- Boston 4, Houston 8
+2B -- Ellsbury J, Pedroia D, Gonzalez A
+3B -- Bourn M
+HR -- Pence H, Navarro Y, McDonald D
+SF -- Saltalamacchia J
+T -- 3:05
+A -- 39021
+     Game of 7/3/2011 -- Boston at Houston (D)
+
+  Boston             AB  R  H RBI    Houston            AB  R  H RBI
+Ellsbury J, cf        4  0  2  0   Bourn M, cf           3  0  0  0   
+Pedroia D, 2b         3  0  1  0   Barmes C, ss          4  0  1  0   
+Gonzalez A, 1b        3  0  0  0   Pence H, rf           4  0  1  0   
+Youkilis K, 3b        4  1  1  1   Lee C, lf             4  0  0  0   
+Drew J, rf            2  0  0  0   Downs M, 2b           4  0  0  0   
+McDonald D, ph-rf     2  0  0  0   Wallace B, 1b         4  1  2  0   
+Reddick J, lf         3  0  0  0   Bogusevic B, pr       0  0  0  0   
+Navarro Y, ss         3  0  1  0   Johnson C, 3b         3  0  0  0   
+Ortiz D, ph           1  0  0  0   Corporan C, c         3  0  0  0   
+Scutaro M, ss         0  0  0  0   Lyles J, p            1  0  0  0   
+Varitek J, c          3  0  1  0   Sanchez A, ph         1  0  1  1   
+Beckett J, p          3  0  0  0   Carpenter D, p        0  0  0  0   
+Sutton D, ph          0  1  0  0   Escalona S, p         0  0  0  0   
+Papelbon J, p         0  0  0  0   Lopez W, p            0  0  0  0   
+                                   Keppinger J, ph       1  0  1  0   
+                                   Melancon M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  1                        32  1  6  1
+
+Boston           000 100 001 --  2
+Houston          000 010 000 --  1
+
+  Boston               IP  H  R ER BB SO
+Beckett J (W)         8.0  5  1  1  0 11
+Papelbon J (S)        1.0  1  0  0  0  3
+
+  Houston              IP  H  R ER BB SO
+Lyles J               5.0  3  1  0  5  4
+Carpenter D           1.0  1  0  0  0  1
+Escalona S            1.1  1  0  0  2  0
+Lopez W               0.2  0  0  0  0  0
+Melancon M (L)        1.0  1  1  1  3  0
+
+E -- Wallace B
+DP -- Houston 3
+LOB -- Boston 12, Houston 6
+2B -- Wallace B, Varitek J
+SB -- Ellsbury J, Pedroia D, Sanchez A
+SH -- Bourn M
+HBP -- by Beckett J (Johnson C)
+T -- 3:05
+A -- 38035
+     Game of 7/15/2011 -- Pittsburgh at Houston (N)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+Presley A, lf         4  2  1  0   Bourn M, cf           4  0  1  0   
+d'Arnaud C, ss        5  1  2  0   Downs M, 3b           4  0  0  0   
+Walker N, 2b          5  0  1  1   Keppinger J, 2b       4  0  1  0   
+McCutchen A, cf       4  0  1  2   Pence H, rf           3  0  1  0   
+Jones G, rf           3  0  0  0   Lee C, lf             3  0  1  0   
+Paul X, pr-rf         0  1  0  0   Wallace B, 1b         3  0  0  0   
+Overbay L, 1b         3  0  0  0   Barmes C, ss          3  0  0  0   
+Harrison J, 3b        4  0  1  0   Quintero H, c         2  0  0  0   
+Wood B, 3b            0  0  0  0   Sanchez A, ph         1  0  0  0   
+McKenry M, c          3  0  0  0   Corporan C, c         0  0  0  0   
+Karstens J, p         4  0  0  0   Myers B, p            1  0  0  0   
+                                   Johnson C, ph         1  0  1  0   
+                                   Rodriguez F, p        0  0  0  0   
+                                   Escalona S, p         0  0  0  0   
+                                   Carpenter D, p        0  0  0  0   
+                                   Bogusevic B, ph       1  0  0  0   
+                                   Del Rosario E, p      0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  6  3                        30  0  5  0
+
+Pittsburgh       102 000 010 --  4
+Houston          000 000 000 --  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Karstens J (W)        9.0  5  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Myers B (L)           6.0  5  3  3  3 11
+Rodriguez F           1.0  1  0  0  0  1
+Escalona S*           0.0  0  1  0  1  0
+Carpenter D           1.0  0  0  0  0  1
+Del Rosario E         1.0  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+E -- Keppinger J, Barmes C
+DP -- Pittsburgh 2
+LOB -- Pittsburgh 9, Houston 3
+3B -- McCutchen A
+SB -- Presley A, Harrison J, d'Arnaud C, Pence H
+HBP -- by Myers B (Presley A)
+WP -- Escalona S
+T -- 2:20
+A -- 27787
+     Game of 7/16/2011 -- Pittsburgh at Houston (N)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+Presley A, lf         5  0  0  0   Bourn M, cf           5  0  3  1   
+d'Arnaud C, ss        4  0  1  0   Sanchez A, 3b         3  1  0  0   
+Walker N, 2b          5  1  4  2   Keppinger J, 2b       4  1  2  2   
+McCutchen A, cf       5  0  0  0   Pence H, rf           3  1  0  0   
+Jones G, rf           4  0  0  0   Lee C, 1b-lf-1b       4  1  2  0   
+Resop C, p            0  0  0  0   Michaels J, lf        3  0  1  0   
+Veras J, p            0  0  0  0   Lopez W, p            0  0  0  0   
+Leroux C, p           0  0  0  0   Escalona S, p         0  0  0  0   
+Diaz M, ph            1  0  0  0   Wallace B, ph         1  0  0  1   
+Overbay L, 1b         4  1  2  1   Bogusevic B, pr-lf    0  1  0  0   
+Wood B, 3b            3  1  1  1   Barmes C, ss          4  1  1  0   
+McKenry M, c          4  1  3  0   Quintero H, c         4  0  2  1   
+Maholm P, p           3  0  0  0   Norris B, p           1  0  0  0   
+McCutchen D, p        0  0  0  0   Downs M, 1b           2  0  0  0   
+Paul X, rf            1  0  0  0   Melancon M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  4 11  4                        34  6 11  5
+
+Pittsburgh       000 013 000 --  4
+Houston          012 000 03x --  6
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P              5.0  9  3  3  1  3
+McCutchen D           1.0  0  0  0  0  0
+Resop C               1.0  0  0  0  0  0
+Veras J (L)           0.1  1  3  2  1  0
+Leroux C              0.2  1  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Norris B              5.2  9  4  4  2  5
+Lopez W               1.1  2  0  0  0  0
+Escalona S (W)        1.0  0  0  0  0  2
+Melancon M (S)        1.0  0  0  0  0  0
+
+E -- Norris B, Wood B
+LOB -- Pittsburgh 10, Houston 8
+2B -- Lee C, Keppinger J, McKenry M
+HR -- Keppinger J, Walker N, Overbay L, Wood B
+SB -- Pence H
+CS -- Bourn M
+SH -- Sanchez A, Norris B
+PB -- McKenry M
+T -- 3:04
+A -- 35081
+     Game of 7/17/2011 -- Pittsburgh at Houston (D)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+Presley A, lf         6  1  3  3   Bourn M, cf           5  0  1  0   
+d'Arnaud C, ss        6  0  0  0   Barmes C, ss          5  1  1  0   
+Walker N, 2b          5  0  2  0   Keppinger J, 2b       5  3  3  2   
+McCutchen A, cf       5  0  1  0   Pence H, rf           5  0  2  1   
+Diaz M, rf            3  0  0  0   Lee C, lf-1b          5  0  0  0   
+Beimel J, p           0  0  0  0   Johnson C, 3b         4  0  1  1   
+McCutchen D, p        0  0  0  0   Wallace B, 1b         3  0  2  0   
+McKenry M, c          2  0  0  0   Bogusevic B, pr-lf    1  0  0  0   
+Overbay L, 1b         5  1  1  0   Melancon M, p         0  0  0  0   
+Leroux C, p           0  0  0  0   Rodriguez A, p        0  0  0  0   
+Resop C, p            0  0  0  0   Happ J, ph            1  0  0  0   
+Wood B, 3b            4  2  2  0   Corporan C, c         3  0  0  0   
+Harrison J, pr-3b     0  1  0  0   Downs M, ph           1  0  0  0   
+Fryer E, c            3  1  2  0   Quintero H, c         1  1  1  1   
+Veras J, p            0  0  0  0   Rodriguez W, p        2  0  0  0   
+Hanrahan J, p         0  0  0  0   Rodriguez F, p        0  0  0  0   
+Jones G, 1b           1  0  0  0   Sanchez A, ph         1  0  1  0   
+Correia K, p          2  0  1  2   Del Rosario E, p      0  0  0  0   
+Paul X, rf            2  1  0  0   Escalona S, p         0  0  0  0   
+                                   Michaels J, lf        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     44  7 12  5                        44  5 12  5
+
+Pittsburgh       020 101 000 03 --  7
+Houston          102 000 010 01 --  5
+
+  Pittsburgh           IP  H  R ER BB SO
+Correia K             6.0  5  3  3  1  4
+Beimel J              0.2  3  0  0  0  0
+McCutchen D           0.1  0  0  0  0  0
+Veras J               0.2  1  1  1  0  0
+Hanrahan J            1.1  1  0  0  0  2
+Leroux C (W)          1.0  1  0  0  0  1
+Resop C (S)           1.0  1  1  1  0  1
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W           5.2  8  4  4  3 11
+Rodriguez F           1.1  0  0  0  0  1
+Del Rosario E         0.1  1  0  0  0  1
+Escalona S            0.2  0  0  0  0  0
+Melancon M (L)        2.1  2  3  1  0  2
+Rodriguez A           0.2  1  0  0  1  1
+
+E -- Melancon M, Rodriguez A
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 10, Houston 7
+2B -- Keppinger J, Overbay L, Correia K, Wood B 2, Presley A, Johnson C
+HR -- Keppinger J, Quintero H
+SB -- Walker N, Presley A
+CS -- Fryer E
+SH -- Correia K
+HBP -- by Rodriguez F (Diaz M)
+WP -- Rodriguez F, Hanrahan J
+PB -- Quintero H
+T -- 3:55
+A -- 24580
+     Game of 7/18/2011 -- Washington at Houston (N)
+
+  Washington         AB  R  H RBI    Houston            AB  R  H RBI
+Bernadina R, cf-lf    3  1  1  0   Bourn M, cf           4  0  1  0   
+Espinosa D, 2b        3  0  0  0   Sanchez A, ss         3  1  1  0   
+Zimmerman R, 3b       4  2  2  2   Keppinger J, 2b       4  0  0  0   
+Morse M, 1b           4  2  3  1   Pence H, rf           4  0  0  0   
+Werth J, rf           3  0  0  0   Lee C, 1b             3  0  2  1   
+Nix L, lf             4  0  1  2   Michaels J, lf        4  1  1  0   
+Ankiel R, pr-cf       0  0  0  0   Johnson C, 3b         4  0  0  0   
+Ramos W, c            4  0  0  0   Corporan C, c         4  0  2  1   
+Desmond I, ss         3  0  0  0   Lyles J, p            2  0  0  0   
+Marquis J, p          3  0  0  0   Lopez W, p            0  0  0  0   
+Storen D, p           0  0  0  0   Rodriguez F, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  5  7  5                        32  2  7  2
+
+Washington       000 010 103 --  5
+Houston          000 011 000 --  2
+
+  Washington           IP  H  R ER BB SO
+Marquis J (W)         8.0  6  2  2  1  9
+Storen D (S)          1.0  1  0  0  0  3
+
+  Houston              IP  H  R ER BB SO
+Lyles J (L)           8.1  5  4  4  1  6
+Lopez W*              0.0  2  1  1  1  0
+Rodriguez F           0.2  0  0  0  0  0
+  * Pitched to 3 batters in 9th
+
+DP -- Houston 2
+LOB -- Washington 2, Houston 6
+2B -- Michaels J, Corporan C, Lee C 2
+HR -- Morse M, Zimmerman R
+SH -- Lyles J, Sanchez A, Espinosa D
+T -- 2:37
+A -- 28975
+     Game of 7/19/2011 -- Washington at Houston (N)
+
+  Washington         AB  R  H RBI    Houston            AB  R  H RBI
+Espinosa D, 2b        5  0  0  0   Bourn M, cf           5  0  3  3   
+Desmond I, ss         5  0  2  1   Sanchez A, 2b         5  0  0  0   
+Zimmerman R, 3b       4  1  0  0   Wallace B, 1b         4  0  0  0   
+Morse M, 1b           3  2  3  2   Pence H, rf           4  0  0  0   
+Ankiel R, pr          0  0  0  0   Lee C, lf             3  2  2  0   
+Werth J, rf           3  0  1  0   Johnson C, 3b         4  1  2  0   
+Ramos W, c            5  1  1  0   Barmes C, ss          4  2  2  3   
+Bernadina R, cf       4  0  1  0   Quintero H, c         4  2  2  1   
+Hairston J, lf        4  1  3  2   Happ J, p             1  0  0  0   
+Zimmermann J, p       1  0  0  0   Rodriguez F, p        0  0  0  0   
+Cora A, ph            0  1  0  0   Bogusevic B, ph       0  0  0  0   
+Coffey T, p           0  0  0  0   Carpenter D, p        0  0  0  0   
+Burnett S, p          0  0  0  0   Escalona S, p         0  0  0  0   
+Nix L, ph             1  0  0  0   Lopez W, p            0  0  0  0   
+Mattheus R, p         0  0  0  0   Michaels J, ph        1  0  0  0   
+                                   Melancon M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6 11  5                        35  7 11  7
+
+Washington       002 003 100 --  6
+Houston          020 401 00x --  7
+
+  Washington           IP  H  R ER BB SO
+Zimmermann J (L)      5.0  7  6  6  0  5
+Coffey T              1.0  2  1  1  1  2
+Burnett S             1.0  1  0  0  1  0
+Mattheus R            1.0  1  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Happ J (W)            5.2  7  5  5  4  3
+Rodriguez F           0.1  1  0  0  0  1
+Carpenter D           1.1  3  1  1  0  0
+Escalona S            0.1  0  0  0  0  0
+Lopez W               0.1  0  0  0  0  1
+Melancon M (S)        1.0  0  0  0  1  1
+
+E -- Zimmerman R
+DP -- Houston 1
+LOB -- Washington 9, Houston 7
+2B -- Desmond I, Hairston J, Johnson C, Bourn M 2, Morse M 2
+HR -- Barmes C, Morse M, Hairston J
+SH -- Zimmermann J, Happ J
+HBP -- by Melancon M (Morse M)
+WP -- Rodriguez F
+T -- 3:12
+A -- 32418
+     Game of 7/20/2011 -- Washington at Houston (D)
+
+  Washington         AB  R  H RBI    Houston            AB  R  H RBI
+Bernadina R, lf-cf    4  0  0  0   Bourn M, cf           6  0  2  0   
+Espinosa D, 2b        4  0  1  0   Altuve J, 2b          5  0  1  0   
+Zimmerman R, 3b       5  0  0  0   Lopez W, p            0  0  0  0   
+Morse M, 1b           5  1  1  0   Michaels J, ph        1  0  1  1   
+Werth J, rf           5  1  3  2   Pence H, rf           2  1  1  0   
+Ankiel R, cf          4  0  1  0   Lee C, lf             4  0  1  1   
+Clippard T, p         0  0  0  0   Wallace B, 1b         4  0  1  0   
+Mattheus R, p         0  0  0  0   Johnson C, 3b         4  0  1  0   
+Desmond I, ph         1  0  0  0   Barmes C, ss          5  1  2  0   
+Coffey T, p           0  0  0  0   Quintero H, c         5  1  2  1   
+Flores J, c           5  0  1  0   Myers B, p            2  0  0  0   
+Cora A, ss            4  0  1  0   Bogusevic B, ph       1  0  0  0   
+Hernandez L, p        2  0  1  0   Del Rosario E, p      0  0  0  0   
+Stairs M, ph          1  0  0  0   Melancon M, p         0  0  0  0   
+Rodriguez H, p        0  0  0  0   Sanchez A, ph-2b      1  0  0  0   
+Nix L, lf             1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  2  9  2                        40  3 12  3
+
+Washington       000 002 000 00 --  2
+Houston          110 000 000 01 --  3
+  1 out when winning run was scored.
+
+  Washington           IP  H  R ER BB SO
+Hernandez L           6.0  7  2  2  1  3
+Rodriguez H*          1.0  0  0  0  2  1
+Clippard T            2.0  1  0  0  2  3
+Mattheus R            1.0  1  0  0  0  0
+Coffey T (L)          0.1  3  1  1  0  0
+
+  Houston              IP  H  R ER BB SO
+Myers B               7.0  8  2  2  2  4
+Del Rosario E         1.0  0  0  0  0  0
+Melancon M            1.0  0  0  0  0  1
+Lopez W (W)           2.0  1  0  0  0  3
+  * Pitched to 2 batters in 8th
+
+DP -- Washington 1
+LOB -- Washington 8, Houston 13
+2B -- Quintero H, Werth J 2
+3B -- Pence H
+HR -- Werth J
+SB -- Bernadina R
+SH -- Wallace B, Sanchez A
+WP -- Myers B, Rodriguez H
+T -- 3:24
+A -- 29605
+     Game of 8/1/2011 -- Cincinnati at Houston (N)
+
+  Cincinnati         AB  R  H RBI    Houston            AB  R  H RBI
+Stubbs D, cf          4  1  2  0   Durango L, cf         2  0  0  0   
+Cairo M, 3b           4  1  1  0   Bogusevic B, ph-rf    1  0  1  0   
+Votto J, 1b           4  1  2  1   Altuve J, 2b          5  0  0  1   
+Phillips B, 2b        5  0  2  1   Bourgeois J, rf-cf    4  0  0  0   
+Bruce J, rf           5  0  1  0   Lee C, 1b             3  0  0  0   
+Alonso Y, lf          3  0  0  0   Martinez J, lf        4  1  1  0   
+Masset N, p           0  0  0  0   Barmes C, ss          4  1  3  0   
+Lewis F, ph           1  0  0  0   Paredes J, 3b         4  1  1  2   
+Ondrusek L, p         0  0  0  0   Quintero H, c         4  1  2  1   
+Hanigan R, c          4  0  0  0   Norris B, p           1  0  0  0   
+Janish P, ss          3  0  2  0   Rodriguez F, p        0  0  0  0   
+Arroyo B, p           2  0  0  0   Escalona S, p         0  0  0  0   
+Heisey C, ph-lf       1  0  1  0   Carpenter D, p        0  0  0  0   
+                                   Michaels J, ph        1  0  0  0   
+                                   Melancon M, p         0  0  0  0   
+                                   Sanchez A, ph         1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3 11  2                        34  4  9  4
+
+Cincinnati       002 010 000 0 --  3
+Houston          030 000 000 1 --  4
+  0 outs when winning run was scored.
+
+  Cincinnati           IP  H  R ER BB SO
+Arroyo B              8.0  6  3  3  2  3
+Masset N              1.0  1  0  0  0  1
+Ondrusek L (L)        0.0  2  1  1  1  0
+
+  Houston              IP  H  R ER BB SO
+Norris B*             5.0 10  3  3  3  2
+Rodriguez F           1.0  0  0  0  0  1
+Escalona S            1.1  0  0  0  0  1
+Carpenter D           0.2  0  0  0  0  1
+Melancon M (W)        2.0  1  0  0  1  1
+  * Pitched to 1 batter in 6th
+
+DP -- Cincinnati 1, Houston 2
+LOB -- Cincinnati 10, Houston 7
+2B -- Bruce J, Quintero H, Votto J, Janish P 2
+3B -- Paredes J
+SB -- Stubbs D
+CS -- Phillips B
+SH -- Cairo M, Norris B, Arroyo B, Stubbs D
+T -- 3:16
+A -- 21502
+     Game of 8/2/2011 -- Cincinnati at Houston (N)
+
+  Cincinnati         AB  R  H RBI    Houston            AB  R  H RBI
+Stubbs D, cf          3  1  0  0   Durango L, cf         4  0  1  1   
+Renteria E, ss        4  1  1  4   Altuve J, 2b          3  0  1  0   
+Janish P, ss          0  0  0  0   Bogusevic B, rf       4  0  1  0   
+Votto J, 1b           4  0  1  0   Lee C, 1b             4  0  0  0   
+Phillips B, 2b        4  0  0  0   Martinez J, lf        4  0  0  0   
+Cairo M, 3b           4  0  0  0   Barmes C, ss          3  0  0  0   
+Heisey C, rf-lf       4  1  2  0   Paredes J, 3b         3  1  1  0   
+Hernandez R, c        3  1  1  1   Corporan C, c         3  0  1  0   
+Frazier T, lf         3  0  1  0   Rodriguez W, p        1  0  0  0   
+Bruce J, ph-rf        0  0  0  0   Michaels J, ph        1  0  0  0   
+Bailey H, p           2  1  0  0   Rodriguez A, p        0  0  0  0   
+Alonso Y, ph          1  0  0  0   Downs M, ph           1  0  0  0   
+Chapman A, p          0  0  0  0   Carpenter D, p        0  0  0  0   
+                                   Del Rosario E, p      0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  6  5                        31  1  5  1
+
+Cincinnati       000 050 000 --  5
+Houston          000 010 000 --  1
+
+  Cincinnati           IP  H  R ER BB SO
+Bailey H (W)          8.0  5  1  1  3  4
+Chapman A             1.0  0  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (L)       5.0  4  5  5  3  3
+Rodriguez A           2.0  1  0  0  0  1
+Carpenter D           1.0  0  0  0  0  1
+Del Rosario E         1.0  1  0  0  1  1
+
+DP -- Cincinnati 1
+LOB -- Cincinnati 4, Houston 6
+2B -- Bogusevic B, Heisey C, Hernandez R
+HR -- Renteria E
+SB -- Heisey C
+WP -- Bailey H 2
+T -- 2:22
+A -- 22603
+     Game of 8/3/2011 -- Cincinnati at Houston (N)
+
+  Cincinnati         AB  R  H RBI    Houston            AB  R  H RBI
+Stubbs D, cf          4  0  0  0   Bourgeois J, cf       5  2  2  0   
+Renteria E, ss        4  0  0  0   Altuve J, 2b          3  0  2  0   
+Votto J, 1b           4  1  3  0   Martinez J, lf        4  1  3  4   
+Phillips B, 2b        4  0  1  1   Lee C, 1b             3  0  0  0   
+Bruce J, rf           4  1  1  0   Michaels J, rf        4  0  2  0   
+Lewis F, lf           4  0  0  0   Rodriguez F, p        0  0  0  0   
+Hernandez R, c        4  0  0  0   Melancon M, p         0  0  0  0   
+Frazier T, 3b         2  1  1  1   Paredes J, 3b         4  0  2  0   
+Alonso Y, ph          1  0  1  1   Barmes C, ss          3  0  0  0   
+Arroyo B, pr          0  0  0  0   Quintero H, c         4  1  1  1   
+Willis D, p           2  1  1  1   Lyles J, p            2  0  0  0   
+Masset N, p           0  0  0  0   Bogusevic B, ph-rf    1  1  0  0   
+LeCure S, p           0  0  0  0                                      
+Cairo M, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  8  4                        33  5 12  5
+
+Cincinnati       000 011 101 --  4
+Houston          200 000 21x --  5
+
+  Cincinnati           IP  H  R ER BB SO
+Willis D              6.0  8  2  2  1  2
+Masset N (L)*         0.0  3  2  2  2  0
+LeCure S              2.0  1  1  1  0  2
+
+  Houston              IP  H  R ER BB SO
+Lyles J (W)           7.0  6  3  3  0  3
+Rodriguez F           1.0  0  0  0  0  1
+Melancon M (S)        1.0  2  1  1  0  0
+  * Pitched to 5 batters in 7th
+
+E -- Barmes C
+DP -- Cincinnati 2
+LOB -- Cincinnati 5, Houston 8
+2B -- Michaels J, Votto J 2, Paredes J, Martinez J
+HR -- Martinez J, Frazier T, Willis D, Quintero H
+SH -- Altuve J, Willis D
+HBP -- by Lyles J (Frazier T)
+WP -- Willis D
+T -- 2:25
+A -- 22102
+     Game of 8/5/2011 -- Milwaukee at Houston (N)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Hart C, rf            4  2  1  1   Bourgeois J, cf       4  0  0  0   
+Hairston J, cf        5  1  1  0   Altuve J, 2b          4  0  0  0   
+Braun R, lf           4  2  3  1   Sanchez A, 3b-ss      4  0  0  0   
+Morgan N, lf          0  0  0  0   Lee C, 1b             4  1  1  0   
+Fielder P, 1b         5  1  1  0   Martinez J, lf        4  0  1  0   
+Wilson J, 3b          0  0  0  0   Bogusevic B, rf       1  0  0  0   
+McGehee C, 3b-1b      4  2  1  2   Rodriguez A, p        0  0  0  0   
+Betancourt Y, ss      4  0  1  1   Carpenter D, p        0  0  0  0   
+Counsell C, ph-ss     1  0  1  0   Downs M, ph-3b        1  0  0  0   
+Lopez F, 2b           3  0  1  1   Barmes C, ss          2  0  0  0   
+Lucroy J, c           3  0  1  2   Lopez W, p            0  0  0  0   
+Gallardo Y, p         2  0  0  0   Del Rosario E, p      0  0  0  0   
+Kotsay M, ph          1  0  0  0   Quintero H, c         3  0  1  1   
+Dillard T, p          0  0  0  0   Happ J, p             1  0  0  0   
+                                   Shuck J, rf           2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  8 11  8                        30  1  4  1
+
+Milwaukee        303 001 001 --  8
+Houston          010 000 000 --  1
+
+  Milwaukee            IP  H  R ER BB SO
+Gallardo Y (W)        8.0  4  1  1  1  6
+Dillard T             1.0  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Happ J (L)            4.0  7  6  6  3  2
+Rodriguez A           2.0  2  1  1  0  0
+Carpenter D           1.0  0  0  0  0  1
+Lopez W               1.0  0  0  0  1  1
+Del Rosario E         1.0  2  1  1  2  0
+
+E -- Barmes C
+LOB -- Milwaukee 10, Houston 4
+2B -- Braun R, Fielder P
+HR -- Hart C
+SB -- Betancourt Y, Braun R, Shuck J
+SH -- Bogusevic B, Gallardo Y 2
+SF -- Lopez F
+T -- 2:51
+A -- 25811
+     Game of 8/6/2011 -- Milwaukee at Houston (N)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Hart C, rf            4  1  1  0   Bourgeois J, cf       4  0  0  0   
+Rodriguez F, p        0  0  0  0   Altuve J, 2b          3  1  1  0   
+Wilson J, ph          0  0  0  0   Martinez J, lf        4  1  1  3   
+Axford J, p           0  0  0  0   Lee C, 1b             4  1  1  1   
+Morgan N, cf-rf       6  1  1  0   Michaels J, rf        2  0  0  0   
+Braun R, lf           5  2  2  0   Carpenter D, p        0  0  0  0   
+Fielder P, 1b         3  2  3  4   Escalona S, p         0  0  0  0   
+McGehee C, 3b         5  0  0  0   Fulchino J, p         0  0  0  0   
+Betancourt Y, ss      5  0  4  1   Bogusevic B, ph       1  0  0  0   
+Lopez F, 2b           4  0  0  1   Wright W, p           0  0  0  0   
+Hawkins L, p          0  0  0  0   Paredes J, 3b         3  0  0  0   
+Hairston J, cf        1  0  0  0   Barmes C, ss          4  1  1  1   
+Lucroy J, c           4  1  2  1   Quintero H, c         4  1  1  0   
+Narveson C, p         3  0  0  0   Myers B, p            1  0  1  0   
+Saito T, p            0  0  0  0   Shuck J, rf           1  0  1  0   
+Counsell C, ph-2b     1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  7 13  7                        31  5  7  5
+
+Milwaukee        302 001 001 --  7
+Houston          013 000 001 --  5
+
+  Milwaukee            IP  H  R ER BB SO
+Narveson C (W)        5.1  5  4  4  2  4
+Saito T               0.2  0  0  0  0  0
+Hawkins L             1.0  0  0  0  1  0
+Rodriguez F           1.0  0  0  0  0  2
+Axford J (S)          1.0  2  1  1  0  0
+
+  Houston              IP  H  R ER BB SO
+Myers B (L)           6.0 11  6  5  1  5
+Carpenter D           0.2  1  0  0  2  0
+Escalona S            0.1  0  0  0  0  0
+Fulchino J            1.0  0  0  0  1  0
+Wright W              1.0  1  1  1  1  2
+
+E -- Barmes C, Axford J
+DP -- Houston 1
+LOB -- Milwaukee 13, Houston 4
+2B -- Betancourt Y, Fielder P
+HR -- Fielder P, Lee C, Martinez J, Lucroy J, Barmes C
+CS -- Paredes J
+SH -- Myers B
+HBP -- by Narveson C (Michaels J), by Carpenter D (Hart C)
+WP -- Myers B 2, Saito T
+T -- 3:10
+A -- 30561
+     Game of 8/7/2011 -- Milwaukee at Houston (D)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Morgan N, cf          3  2  1  0   Shuck J, rf-cf        3  0  0  0   
+Lopez F, 2b           4  0  1  1   Altuve J, 2b          4  1  2  1   
+Estrada M, p          0  0  0  0   Bourgeois J, cf       4  0  1  0   
+Loe K, p              0  0  0  0   Melancon M, p         0  0  0  0   
+Braun R, lf           5  0  0  0   Lee C, 1b             2  0  1  2   
+Fielder P, 1b         4  4  3  2   Martinez J, lf        4  0  0  0   
+Kotsay M, rf          5  1  3  1   Paredes J, 3b         4  0  0  0   
+Betancourt Y, ss      5  0  3  3   Barmes C, ss          4  0  1  0   
+Counsell C, 3b        3  0  0  0   Corporan C, c         4  0  1  0   
+Lucroy J, c           4  0  0  0   Norris B, p           1  0  0  0   
+Greinke Z, p          2  0  0  0   Lopez W, p            0  0  0  0   
+Wilson J, ph-2b       1  0  0  0   Downs M, ph           1  1  1  0   
+                                   Escalona S, p         0  0  0  0   
+                                   Rodriguez F, p        0  0  0  0   
+                                   Bogusevic B, ph-rf    2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 11  7                        33  3  8  3
+
+Milwaukee        202 020 100 --  7
+Houston          000 001 020 --  3
+
+  Milwaukee            IP  H  R ER BB SO
+Greinke Z (W)         7.0  4  1  1  3  6
+Estrada M             0.2  3  2  2  0  2
+Loe K                 1.1  1  0  0  0  3
+
+  Houston              IP  H  R ER BB SO
+Norris B (L)          5.0  8  6  6  1  2
+Lopez W               1.0  0  0  0  0  0
+Escalona S            1.0  2  1  1  1  0
+Rodriguez F           1.0  0  0  0  1  1
+Melancon M            1.0  1  0  0  0  1
+
+DP -- Milwaukee 1
+LOB -- Milwaukee 8, Houston 6
+2B -- Betancourt Y, Morgan N, Kotsay M, Downs M
+HR -- Fielder P
+CS -- Barmes C
+SH -- Lopez F, Greinke Z
+HBP -- by Norris B (Morgan N)
+WP -- Norris B, Greinke Z 2, Estrada M, Loe K
+T -- 2:59
+A -- 22885
+     Game of 8/15/2011 -- Chicago at Houston (N)
+
+  Chicago            AB  R  H RBI    Houston            AB  R  H RBI
+Castro S, ss          5  0  1  0   Bourgeois J, cf       4  0  0  0   
+Barney D, 2b          4  1  0  0   Altuve J, 2b          4  1  0  0   
+Ramirez A, 3b         5  1  3  0   Martinez J, lf        3  2  2  0   
+Pena C, 1b            5  0  2  2   Lee C, 1b             3  0  0  0   
+Byrd M, cf            3  1  1  0   Downs M, 3b           4  0  2  2   
+Johnson R, lf         4  1  1  0   Melancon M, p         0  0  0  0   
+Colvin T, rf          4  0  0  0   Bogusevic B, rf       2  0  0  0   
+Soto G, c             4  0  3  2   Michaels J, ph-rf     2  0  0  0   
+Lopez R, p            3  0  0  0   Barmes C, ss          3  0  1  0   
+Russell J, p          0  0  0  0   Rodriguez F, p        0  0  0  0   
+Samardzija J, p       0  0  0  0   Paredes J, 3b         1  0  0  0   
+DeWitt B, ph          0  0  0  0   Quintero H, c         4  0  0  0   
+Marshall S, p         0  0  0  0   Sosa H, p             2  0  0  0   
+Wood K, p             0  0  0  0   Carpenter D, p        0  0  0  0   
+                                   Escalona S, p         0  0  0  0   
+                                   Sanchez A, ss         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4 11  4                        32  3  5  2
+
+Chicago          200 002 000 --  4
+Houston          000 102 000 --  3
+
+  Chicago              IP  H  R ER BB SO
+Lopez R (W)           5.1  5  3  2  2  3
+Russell J             0.2  0  0  0  0  1
+Samardzija J          1.0  0  0  0  1  0
+Marshall S            1.0  0  0  0  0  1
+Wood K (S)            1.0  0  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Sosa H (L)            6.0  7  4  4  2  6
+Carpenter D           0.2  1  0  0  0  2
+Escalona S*           0.0  1  0  0  0  0
+Rodriguez F           1.1  1  0  0  2  0
+Melancon M            1.0  1  0  0  0  2
+  * Pitched to 1 batter in 7th
+
+E -- Colvin T, Castro S
+DP -- Chicago 1, Houston 1
+LOB -- Chicago 10, Houston 5
+2B -- Pena C, Downs M 2, Soto G 2, Barmes C
+PB -- Quintero H
+T -- 3:07
+A -- 20138
+     Game of 8/16/2011 -- Chicago at Houston (N)
+
+  Chicago            AB  R  H RBI    Houston            AB  R  H RBI
+Castro S, ss          5  1  1  0   Bourgeois J, cf       3  1  0  0   
+Barney D, 2b          5  1  2  0   Altuve J, 2b          4  0  1  0   
+Ramirez A, 3b         4  1  2  2   Martinez J, lf        4  0  0  0   
+Pena C, 1b            2  1  2  0   Lee C, 1b             3  0  0  0   
+Byrd M, cf            4  0  0  0   Paredes J, 3b         4  0  2  1   
+Soriano A, lf         4  0  0  0   Shuck J, rf           4  2  2  0   
+Wood K, p             0  0  0  0   Barmes C, ss          3  1  2  0   
+Marmol C, p           0  0  0  0   Quintero H, c         2  0  0  1   
+Colvin T, rf          4  1  1  2   Downs M, ph           0  1  0  0   
+Hill K, c             4  0  1  0   Myers B, p            2  0  0  0   
+Dempster R, p         3  0  0  0   Sanchez A, ph         1  0  0  0   
+Campana T, lf         0  0  0  0   Lopez W, p            0  0  0  0   
+                                   Escalona S, p         0  0  0  0   
+                                   Rodriguez A, p        0  0  0  0   
+                                   Bogusevic B, ph       1  1  1  4   
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  4                        31  6  8  6
+
+Chicago          200 002 010 --  5
+Houston          100 000 104 --  6
+  1 out when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Dempster R            7.0  4  2  2  3  7
+Wood K                1.0  1  0  0  0  1
+Marmol C (L)          0.1  3  4  4  1  0
+
+  Houston              IP  H  R ER BB SO
+Myers B               7.0  6  4  4  2  5
+Lopez W               0.2  2  1  1  0  1
+Escalona S            0.2  1  0  0  0  0
+Rodriguez A (W)       0.2  0  0  0  0  1
+
+E -- Barmes C
+DP -- Houston 1
+LOB -- Chicago 6, Houston 5
+2B -- Paredes J 2, Pena C 2, Shuck J
+HR -- Colvin T, Ramirez A, Bogusevic B
+SH -- Campana T
+SF -- Quintero H
+WP -- Dempster R, Marmol C
+T -- 2:59
+A -- 23736
+     Game of 8/17/2011 -- Chicago at Houston (D)
+
+  Chicago            AB  R  H RBI    Houston            AB  R  H RBI
+Castro S, ss          5  0  1  0   Shuck J, cf-lf        5  1  2  0   
+Barney D, 2b          4  1  2  0   Altuve J, 2b          4  2  1  0   
+Ramirez A, 3b         4  1  2  2   Martinez J, lf        3  1  1  0   
+Campana T, pr         0  0  0  0   Rodriguez F, p        0  0  0  0   
+Pena C, 1b            4  0  0  0   Melancon M, p         0  0  0  0   
+Soto G, c             5  1  2  1   Downs M, 1b           4  0  2  2   
+Byrd M, cf            4  0  1  0   Paredes J, 3b         3  0  1  0   
+Soriano A, lf         4  0  1  0   Bogusevic B, rf       4  0  1  2   
+Colvin T, rf          4  0  1  0   Barmes C, ss          4  0  1  0   
+Coleman C, p          2  0  0  0   Corporan C, c         4  0  0  0   
+Grabow J, p           0  0  0  0   Norris B, p           2  0  1  0   
+Baker J, ph           1  0  0  0   Michaels J, ph        0  0  0  0   
+Ortiz R, p            0  0  0  0   Carpenter D, p        0  0  0  0   
+Johnson R, ph         1  0  1  0   Escalona S, p         0  0  0  0   
+Samardzija J, p       0  0  0  0   Bourgeois J, cf       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  3 11  3                        34  4 10  4
+
+Chicago          002 100 000 --  3
+Houston          002 200 00x --  4
+
+  Chicago              IP  H  R ER BB SO
+Coleman C (L)         3.2 10  4  4  2  4
+Grabow J              1.1  0  0  0  1  1
+Ortiz R               2.0  0  0  0  0  2
+Samardzija J          1.0  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Norris B (W)          5.0  6  3  3  3  5
+Carpenter D           1.1  1  0  0  0  1
+Escalona S            0.1  0  0  0  0  0
+Rodriguez F           1.1  2  0  0  0  2
+Melancon M (S)        1.0  2  0  0  0  0
+
+LOB -- Chicago 12, Houston 9
+2B -- Bogusevic B
+HR -- Ramirez A, Soto G
+SB -- Barney D, Castro S, Campana T
+HBP -- by Norris B (Barney D)
+WP -- Coleman C
+Balk -- Grabow J
+T -- 3:09
+A -- 24054
+     Game of 8/19/2011 -- San Francisco at Houston (N)
+
+  San Francisco      AB  R  H RBI    Houston            AB  R  H RBI
+Rowand A, cf          4  0  0  0   Shuck J, cf           3  0  1  2   
+DeRosa M, 3b          2  0  1  0   Sanchez A, 2b         3  0  0  0   
+Ross C, lf            4  0  0  0   Martinez J, lf        4  0  0  0   
+Schierholtz N, rf     4  0  0  0   Lee C, 1b             4  0  0  0   
+Huff A, 1b            4  0  1  0   Paredes J, 3b         4  0  0  0   
+Tejada M, ss          4  0  1  0   Bogusevic B, rf       4  2  1  1   
+Stewart C, c          2  0  1  0   Barmes C, ss          2  2  1  0   
+Fontenot M, 2b        3  0  1  0   Corporan C, c         3  2  3  1   
+Vogelsong R, p        2  0  0  0   Rodriguez W, p        2  0  1  2   
+Keppinger J, ph       1  0  0  0   Michaels J, ph        1  0  0  0   
+Mota G, p             0  0  0  0   Fulchino J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        30  6  7  6
+
+San Francisco    000 000 000 --  0
+Houston          002 003 01x --  6
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R (L)       7.0  4  5  2  4  3
+Mota G                1.0  3  1  1  0  2
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)       8.0  5  0  0  2  8
+Fulchino J            1.0  0  0  0  0  2
+
+E -- DeRosa M, Schierholtz N
+DP -- Houston 1
+LOB -- San Francisco 6, Houston 6
+2B -- Corporan C, Shuck J, DeRosa M
+HR -- Bogusevic B
+SH -- Rodriguez W
+HBP -- by Rodriguez W (DeRosa M), by Vogelsong R (Barmes C)
+T -- 2:22
+A -- 26259
+     Game of 8/20/2011 -- San Francisco at Houston (N)
+
+  San Francisco      AB  R  H RBI    Houston            AB  R  H RBI
+Ross C, cf            5  0  1  2   Altuve J, 2b          5  2  3  1   
+Keppinger J, 2b       5  1  2  0   Bourgeois J, cf       3  1  1  0   
+Sandoval P, 3b        4  0  2  2   Martinez J, lf        4  2  2  4   
+Huff A, 1b            4  1  2  1   Lee C, 1b             3  1  2  0   
+Schierholtz N, rf     5  0  1  0   Paredes J, 3b         4  0  2  1   
+Belt B, lf            4  0  0  0   Barmes C, ss          3  0  0  1   
+Fontenot M, ss        3  1  2  0   Michaels J, rf        3  0  1  0   
+Tejada M, ph-ss       1  0  0  0   Escalona S, p         0  0  0  0   
+Stewart C, c          4  1  0  0   Downs M, ph           1  0  1  0   
+Bumgarner M, p        2  0  0  0   Rodriguez F, p        0  0  0  0   
+Casilla S, p          0  0  0  0   Melancon M, p         0  0  0  0   
+Lopez J, p            0  0  0  0   Quintero H, c         4  0  0  0   
+DeRosa M, ph          0  1  0  0   Lyles J, p            2  1  1  0   
+                                   Lopez W, p            0  0  0  0   
+                                   Shuck J, rf           2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 10  5                        34  7 14  7
+
+San Francisco    000 200 102 --  5
+Houston          104 000 20x --  7
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (L)       6.2 11  7  6  1  5
+Casilla S             0.1  1  0  0  1  0
+Lopez J               1.0  2  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Lyles J (W)           5.0  7  2  0  2  4
+Lopez W               1.1  0  0  0  0  0
+Escalona S            1.2  1  1  1  0  3
+Rodriguez F           0.1  1  2  2  1  0
+Melancon M (S)        0.2  1  0  0  0  0
+
+E -- Bumgarner M, Paredes J
+DP -- San Francisco 1
+LOB -- San Francisco 9, Houston 7
+2B -- Keppinger J, Martinez J, Michaels J, Lee C, Downs M, Sandoval P
+HR -- Altuve J, Huff A, Martinez J
+CS -- Altuve J
+SH -- Bourgeois J, Bumgarner M
+SF -- Barmes C
+T -- 2:38
+A -- 29046
+     Game of 8/21/2011 -- San Francisco at Houston (D)
+
+  San Francisco      AB  R  H RBI    Houston            AB  R  H RBI
+Ross C, cf            5  1  0  0   Altuve J, 2b          5  1  1  1   
+Keppinger J, 2b       6  0  1  0   Bourgeois J, cf       4  0  0  0   
+Sandoval P, 3b        6  1  2  2   Martinez J, lf        5  0  3  2   
+Huff A, 1b            3  1  1  0   Lee C, 1b             5  0  1  0   
+Affeldt J, p          0  0  0  0   Paredes J, 3b         5  1  2  0   
+DeRosa M, ph          1  0  0  0   Barmes C, ss          4  1  0  0   
+Ramirez R, p          0  0  0  0   Michaels J, rf        1  0  0  0   
+Schierholtz N, rf     4  2  1  0   Shuck J, ph-rf        3  0  1  0   
+Belt B, lf-1b         5  1  4  3   Corporan C, c         3  0  0  0   
+Fontenot M, ss        2  0  0  1   Bogusevic B, pr       0  0  0  0   
+Tejada M, ph-ss       2  0  1  0   Quintero H, c         1  0  0  0   
+Stewart C, c          4  0  0  0   Sosa H, p             1  1  0  0   
+Runzler D, p          0  0  0  0   Wright W, p           1  0  0  0   
+Mota G, p             1  0  0  0   Lopez W, p            0  0  0  0   
+Edlefsen S, p         0  0  0  0   Escalona S, p         0  0  0  0   
+Cabrera O, ph         1  0  1  0   Rodriguez F, p        0  0  0  0   
+Casilla S, p          0  0  0  0   Sanchez A, ph         0  0  0  0   
+Rowand A, ph-lf       2  0  1  0   Melancon M, p         0  0  0  0   
+                                   Downs M, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42  6 12  6                        39  4  8  3
+
+San Francisco    030 100 000 02 --  6
+Houston          040 000 000 00 --  4
+
+  San Francisco        IP  H  R ER BB SO
+Runzler D             1.2  3  4  4  3  2
+Mota G                3.0  3  0  0  1  1
+Edlefsen S            1.1  0  0  0  0  2
+Casilla S             2.0  1  0  0  0  0
+Affeldt J (W)         2.0  1  0  0  2  1
+Ramirez R (S)         1.0  0  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Sosa H                5.0  4  4  4  1  3
+Wright W              1.0  0  0  0  1  2
+Lopez W               0.2  1  0  0  0  1
+Escalona S            0.2  1  0  0  0  1
+Rodriguez F           1.2  4  0  0  1  1
+Melancon M (L)        2.0  2  2  2  1  1
+
+E -- Escalona S
+DP -- San Francisco 1, Houston 3
+LOB -- San Francisco 10, Houston 10
+2B -- Martinez J, Huff A
+HR -- Belt B, Sandoval P
+SB -- Barmes C, Paredes J
+SH -- Altuve J
+SF -- Fontenot M
+HBP -- by Sosa H (Schierholtz N), by Lopez W (Stewart C), by Affeldt J (Corporan C)
+WP -- Sosa H, Wright W
+T -- 3:54
+A -- 25838
+     Game of 8/29/2011 -- Pittsburgh at Houston (N)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+Tabata J, lf-rf       4  0  0  0   Schafer J, cf         4  1  2  1   
+Harrison J, 3b        4  1  1  0   Altuve J, 2b          5  1  3  1   
+Veras J, p            0  0  0  0   Martinez J, lf        4  2  1  1   
+Watson T, p           0  0  0  0   Carpenter D, p        0  0  0  0   
+McCutchen A, cf       3  1  1  2   Downs M, ph           1  0  0  0   
+Walker N, 2b          4  1  1  0   Abreu J, p            0  0  0  0   
+Doumit R, c           4  0  1  1   Melancon M, p         0  0  0  0   
+Diaz M, rf            1  0  0  0   Lee C, 1b             3  1  2  3   
+Presley A, lf         1  0  0  0   Bogusevic B, rf       4  0  2  1   
+Wood B, 1b-3b         4  0  0  0   Paredes J, 3b         3  0  0  0   
+d'Arnaud C, ss        3  0  0  0   Barmes C, ss          4  1  2  0   
+Grilli J, p           0  0  0  0   Corporan C, c         4  0  0  0   
+Jones G, 1b           0  1  0  0   Rodriguez W, p        2  0  0  0   
+Ohlendorf R, p        2  0  0  0   Bourgeois J, ph-lf    2  1  1  0   
+Cedeno R, ss          2  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  5  4                        36  7 13  7
+
+Pittsburgh       000 300 001 --  4
+Houston          000 110 41x --  7
+
+  Pittsburgh           IP  H  R ER BB SO
+Ohlendorf R           5.0  5  2  2  1  6
+Grilli J (L)          1.1  3  2  2  1  0
+Veras J               0.2  2  2  2  0  1
+Watson T              1.0  3  1  1  0  1
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (W)       7.0  4  3  3  4 13
+Carpenter D           1.0  0  0  0  0  0
+Abreu J               0.2  1  1  1  1  2
+Melancon M (S)        0.1  0  0  0  0  1
+
+DP -- Pittsburgh 2
+LOB -- Pittsburgh 6, Houston 8
+2B -- Harrison J, Walker N, Doumit R, Bogusevic B 2, Barmes C, Altuve J
+3B -- Cedeno R
+HR -- McCutchen A, Lee C
+SB -- Bourgeois J
+HBP -- by Grilli J (Schafer J)
+WP -- Rodriguez W, Ohlendorf R
+T -- 3:02
+A -- 19250
+     Game of 8/30/2011 -- Pittsburgh at Houston (N)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+Presley A, lf         4  0  1  1   Schafer J, cf         4  1  2  0   
+Harrison J, 3b        3  0  0  0   Altuve J, 2b          5  2  2  2   
+McCutchen D, p        0  0  0  0   Martinez J, lf        5  1  3  3   
+Resop C, p            0  0  0  0   Lee C, 1b             5  0  2  1   
+d'Arnaud C, ph        1  0  0  0   Bogusevic B, rf       4  0  0  0   
+Walker N, 2b          4  0  0  0   Paredes J, 3b         4  1  2  1   
+McCutchen A, cf       4  1  1  1   Barmes C, ss          4  0  0  0   
+Jones G, 1b           4  0  0  0   Corporan C, c         2  2  1  0   
+Paul X, rf            3  0  0  0   Sosa H, p             2  0  0  0   
+Cedeno R, ss          2  1  2  0   Downs M, ph           1  1  1  1   
+McKenry M, c          3  0  0  0   Wright W, p           0  0  0  0   
+Morton C, p           1  0  0  0   Michaels J, ph        1  0  0  0   
+Leroux C, p           0  0  0  0   Myers B, p            0  0  0  0   
+Wood B, 3b            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  2                        37  8 13  8
+
+Pittsburgh       001 000 001 --  2
+Houston          000 016 10x --  8
+
+  Pittsburgh           IP  H  R ER BB SO
+Morton C (L)          5.1  6  4  4  4  8
+Leroux C*             0.0  4  3  3  0  0
+McCutchen D           1.2  3  1  1  1  0
+Resop C               1.0  0  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Sosa H (W)            6.0  2  1  1  1  7
+Wright W              1.0  0  0  0  0  1
+Myers B               2.0  2  1  1  0  3
+  * Pitched to 4 batters in 6th
+
+LOB -- Pittsburgh 3, Houston 11
+2B -- Cedeno R, Paredes J
+HR -- Altuve J, McCutchen A
+SB -- Altuve J, Presley A, Paredes J
+SH -- Morton C
+HBP -- by Morton C (Barmes C)
+WP -- Morton C 2
+Balk -- Morton C
+T -- 2:51
+A -- 21750
+     Game of 8/31/2011 -- Pittsburgh at Houston (N)
+
+  Pittsburgh         AB  R  H RBI    Houston            AB  R  H RBI
+Tabata J, rf          4  0  0  0   Schafer J, cf         4  0  1  1   
+Presley A, lf         4  0  0  0   Altuve J, 2b          4  0  0  0   
+McCutchen A, cf       3  0  0  0   Martinez J, lf        4  0  1  0   
+Doumit R, c           4  0  1  0   Melancon M, p         0  0  0  0   
+Walker N, 2b          3  0  1  0   Lee C, 1b             4  0  2  0   
+Jones G, 1b           3  0  0  0   Bogusevic B, rf       3  0  1  0   
+Harrison J, 3b        2  0  1  0   Paredes J, 3b         3  1  1  0   
+Cedeno R, ss          3  0  0  0   Sanchez A, ss         4  1  2  0   
+McDonald J, p         2  0  1  0   Quintero H, c         3  0  0  1   
+Watson T, p           0  0  0  0   Happ J, p             1  0  0  0   
+Paul X, ph            1  0  0  0   Michaels J, ph        1  0  0  0   
+Veras J, p            0  0  0  0   Rodriguez F, p        0  0  0  0   
+Hanrahan J, p         0  0  0  0   Bourgeois J, lf       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  0  4  0                        31  2  8  2
+
+Pittsburgh       000 000 000 --  0
+Houston          000 200 00x --  2
+
+  Pittsburgh           IP  H  R ER BB SO
+McDonald J (L)        6.0  7  2  1  2  6
+Watson T              1.0  0  0  0  0  0
+Veras J               0.2  1  0  0  1  1
+Hanrahan J            0.1  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Happ J (W)            7.0  3  0  0  1  6
+Rodriguez F           1.0  1  0  0  0  0
+Melancon M (S)        1.0  0  0  0  0  1
+
+E -- Jones G
+DP -- Pittsburgh 1, Houston 2
+LOB -- Pittsburgh 4, Houston 8
+2B -- Lee C
+HBP -- by Melancon M (McCutchen A)
+T -- 2:28
+A -- 22918
+     Game of 9/2/2011 -- Milwaukee at Houston (N)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Hart C, rf            5  1  1  0   Schafer J, cf         5  0  1  0   
+Gomez C, cf           0  0  0  0   Altuve J, 2b          4  0  1  0   
+Morgan N, cf-rf       3  2  1  0   Martinez J, lf        4  0  1  0   
+Braun R, lf           5  1  2  2   Lee C, 1b             4  0  1  0   
+Fielder P, 1b         4  2  4  2   Bogusevic B, rf       4  1  2  0   
+McGehee C, 3b         4  1  1  2   Paredes J, 3b         3  1  2  1   
+Betancourt Y, ss      2  0  0  0   Barmes C, ss          3  0  2  1   
+Counsell C, pr-ss     1  0  0  0   Quintero H, c         4  0  0  0   
+Hairston J, 2b        4  0  0  0   Harrell L, p          2  0  0  0   
+Lucroy J, c           4  0  0  0   Wright W, p           0  0  0  0   
+Greinke Z, p          2  0  0  0   Lopez W, p            0  0  0  0   
+Green T, ph           1  0  1  0   Shuck J, ph           0  0  0  0   
+Schafer L, pr         0  1  0  0   Rodriguez A, p        0  0  0  0   
+Hawkins L, p          0  0  0  0   Carpenter D, p        0  0  0  0   
+Kotsay M, ph          1  0  0  0   Lyles J, p            0  0  0  0   
+Rodriguez F, p        0  0  0  0   Wallace B, ph         1  0  0  0   
+Axford J, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  8 10  6                        34  2 10  2
+
+Milwaukee        000 000 323 --  8
+Houston          000 200 000 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Greinke Z (W)         6.0  9  2  2  2  6
+Hawkins L             1.0  0  0  0  0  1
+Rodriguez F           1.0  1  0  0  0  1
+Axford J              1.0  0  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Harrell L             5.1  3  0  0  2  4
+Wright W              0.1  0  0  0  1  0
+Lopez W               0.1  0  0  0  0  1
+Rodriguez A (L)       0.2  2  3  3  1  0
+Carpenter D           1.1  3  2  2  0  1
+Lyles J               1.0  2  3  3  0  2
+
+E -- Lucroy J, Martinez J
+DP -- Milwaukee 2
+LOB -- Milwaukee 7, Houston 8
+2B -- Schafer J, Barmes C 2, Fielder P
+3B -- Bogusevic B
+HR -- McGehee C, Fielder P
+SB -- Altuve J
+SH -- Paredes J
+HBP -- by Carpenter D (Betancourt Y), by Lyles J (Morgan N)
+WP -- Greinke Z, Carpenter D
+T -- 3:31
+A -- 20045
+     Game of 9/3/2011 -- Milwaukee at Houston (N)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Morgan N, cf-rf       3  2  1  0   Bourgeois J, cf       4  0  1  0   
+Hairston J, 2b        4  0  1  0   Altuve J, 2b          4  0  0  0   
+Braun R, lf           5  1  1  0   Martinez J, lf        3  1  1  0   
+Fielder P, 1b         5  0  1  2   Lee C, 1b             4  1  2  2   
+McGehee C, 1b         0  0  0  0   Paredes J, 3b         4  0  0  0   
+Kotsay M, rf          4  0  2  1   Michaels J, rf        3  0  1  0   
+Gomez C, pr-cf        1  1  0  0   Rodriguez A, p        0  0  0  0   
+Green T, 3b           5  1  2  1   Abreu J, p            0  0  0  0   
+Kottaras G, c         5  2  4  2   Wallace B, ph         1  0  0  0   
+Maldonado M, c        0  0  0  0   Carpenter D, p        0  0  0  0   
+Counsell C, ss        5  1  1  2   Barmes C, ss          2  0  0  0   
+Narveson C, p         2  0  0  0   Corporan C, c         3  0  0  0   
+Wilson J, ph          1  0  0  0   Norris B, p           2  0  0  0   
+Loe K, p              1  0  0  0   Del Rosario E, p      0  0  0  0   
+Estrada M, p          0  0  0  0   Shuck J, rf           2  0  0  0   
+Schafer L, ph         1  0  0  0                                      
+De La Cruz E, p       0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42  8 13  8                        32  2  5  2
+
+Milwaukee        100 122 200 --  8
+Houston          000 020 000 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Narveson C (W)        5.0  4  2  2  4  4
+Loe K                 2.0  0  0  0  0  1
+Estrada M             1.0  1  0  0  0  1
+De La Cruz E          1.0  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Norris B (L)          5.1  9  6  5  1  5
+Del Rosario E         0.2  0  0  0  0  1
+Rodriguez A           1.0  3  2  2  0  1
+Abreu J               1.0  0  0  0  0  1
+Carpenter D           1.0  1  0  0  0  1
+
+E -- Lee C, Kotsay M
+DP -- Milwaukee 1
+LOB -- Milwaukee 10, Houston 7
+2B -- Kotsay M 2, Green T, Kottaras G
+3B -- Kottaras G
+HR -- Kottaras G, Lee C, Counsell C
+SB -- Morgan N 2, Bourgeois J
+HBP -- by Abreu J (Morgan N), by Abreu J (Hairston J)
+WP -- Norris B
+T -- 3:13
+A -- 24982
+     Game of 9/4/2011 -- Milwaukee at Houston (D)
+
+  Milwaukee          AB  R  H RBI    Houston            AB  R  H RBI
+Hart C, rf            5  0  1  0   Schafer J, cf         3  0  1  0   
+Hairston J, 2b        3  1  0  0   Paredes J, 3b         4  0  0  0   
+Braun R, lf           3  1  3  3   Martinez J, lf        4  0  0  0   
+Fielder P, 1b         3  0  0  0   Bogusevic B, rf       4  0  1  0   
+McGehee C, 3b         4  0  1  0   Downs M, 2b           4  0  0  0   
+Betancourt Y, ss      4  0  1  0   Wallace B, 1b         4  0  0  0   
+Lucroy J, c           4  1  1  1   Barmes C, ss          3  0  0  0   
+Gomez C, cf           4  0  0  0   Corporan C, c         2  0  0  0   
+Marcum S, p           3  1  1  0   Shuck J, ph           0  0  0  0   
+Rodriguez F, p        0  0  0  0   Towles J, c           0  0  0  0   
+Green T, ph           1  0  1  0   Rodriguez W, p        1  0  0  0   
+Saito T, p            0  0  0  0   Altuve J, ph          1  0  0  0   
+                                   Del Rosario E, p      0  0  0  0   
+                                   Wright W, p           0  0  0  0   
+                                   Rodriguez F, p        0  0  0  0   
+                                   Bourgeois J, ph       1  0  1  0   
+                                   Lopez W, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        31  0  3  0
+
+Milwaukee        110 010 100 --  4
+Houston          000 000 000 --  0
+
+  Milwaukee            IP  H  R ER BB SO
+Marcum S (W)          7.0  1  0  0  1  8
+Rodriguez F           1.0  1  0  0  1  0
+Saito T               1.0  1  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W (L)       6.0  6  3  3  3  8
+Del Rosario E         0.2  1  1  1  1  1
+Wright W              0.1  0  0  0  0  0
+Rodriguez F           1.0  1  0  0  0  0
+Lopez W               1.0  1  0  0  0  0
+
+E -- Betancourt Y
+DP -- Houston 1
+LOB -- Milwaukee 7, Houston 6
+2B -- Green T, Bogusevic B
+HR -- Braun R, Lucroy J
+SB -- Hairston J
+CS -- Braun R
+WP -- Rodriguez W
+T -- 2:48
+A -- 21976
+     Game of 9/12/2011 -- Philadelphia at Houston (N)
+
+  Philadelphia       AB  R  H RBI    Houston            AB  R  H RBI
+Rollins J, ss         4  0  1  0   Schafer J, cf         4  0  0  0   
+Victorino S, cf       4  0  0  0   Sanchez A, ss         5  0  0  0   
+Pence H, rf           4  0  2  0   Martinez J, lf        4  3  3  0   
+Howard R, 1b          4  0  0  0   Lee C, 1b             3  1  2  2   
+Ibanez R, lf          2  1  1  0   Bogusevic B, rf       4  1  1  1   
+Ruiz C, c             4  0  1  0   Paredes J, 3b         3  0  1  1   
+Orr P, 2b             4  0  1  1   Altuve J, 2b          4  0  0  0   
+Martinez M, 3b        3  0  0  0   Quintero H, c         4  0  3  1   
+Polanco P, ph         0  0  0  0   Myers B, p            3  0  2  0   
+Oswalt R, p           3  0  0  0   Michaels J, ph        1  0  0  0   
+Blanton J, p          0  0  0  0   Melancon M, p         0  0  0  0   
+Gload R, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        35  5 12  5
+
+Philadelphia     010 000 000 --  1
+Houston          000 220 10x --  5
+
+  Philadelphia         IP  H  R ER BB SO
+Oswalt R (L)          7.0 11  5  5  2  2
+Blanton J             1.0  1  0  0  0  1
+
+  Houston              IP  H  R ER BB SO
+Myers B (W)           8.0  6  1  1  1  4
+Melancon M            1.0  0  0  0  2  0
+
+DP -- Philadelphia 1
+LOB -- Philadelphia 8, Houston 9
+2B -- Pence H, Ibanez R, Martinez J, Quintero H
+HR -- Lee C
+SB -- Orr P, Pence H
+HBP -- by Oswalt R (Lee C)
+WP -- Oswalt R
+T -- 2:22
+A -- 22231
+     Game of 9/13/2011 -- Philadelphia at Houston (N)
+
+  Philadelphia       AB  R  H RBI    Houston            AB  R  H RBI
+Rollins J, ss         4  0  1  0   Bourgeois J, cf       5  1  2  1   
+Polanco P, 3b         3  0  0  0   Barmes C, ss          4  2  2  3   
+Pence H, rf           3  1  1  1   Martinez J, lf        5  0  1  1   
+Howard R, 1b          3  0  0  0   Carpenter D, p        0  0  0  0   
+Mayberry J, cf-lf     4  0  1  0   Lee C, 1b             4  0  1  0   
+Francisco B, lf       3  0  1  0   Downs M, 2b           2  0  1  0   
+Herndon D, p          0  0  0  0   Johnson C, 3b         4  0  0  0   
+Schwimer M, p         0  0  0  0   Michaels J, rf        1  0  0  0   
+Bowker J, ph          1  0  0  0   Shuck J, rf-lf        3  1  3  0   
+Ruiz C, c             3  1  1  1   Quintero H, c         4  0  1  0   
+Martinez M, 2b        3  0  0  0   Happ J, p             3  1  0  0   
+Orr P, ph             1  0  0  0   Rodriguez F, p        0  0  0  0   
+Hamels C, p           2  0  0  0   Sanchez A, ph         1  0  0  0   
+Victorino S, cf       2  0  0  0   Bogusevic B, rf       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  5  2                        36  5 11  5
+
+Philadelphia     000 100 001 --  2
+Houston          100 400 00x --  5
+
+  Philadelphia         IP  H  R ER BB SO
+Hamels C (L)          5.0  9  5  4  1  6
+Herndon D             2.0  0  0  0  0  0
+Schwimer M            1.0  2  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Happ J (W)            6.0  4  1  1  4  4
+Rodriguez F           2.0  0  0  0  0  4
+Carpenter D           1.0  1  1  1  0  2
+
+E -- Mayberry J, Howard R
+LOB -- Philadelphia 7, Houston 10
+2B -- Barmes C, Martinez J, Mayberry J
+HR -- Pence H, Barmes C, Ruiz C
+SB -- Bourgeois J, Shuck J
+HBP -- by Hamels C (Downs M), by Schwimer M (Barmes C)
+T -- 2:33
+A -- 24302
+     Game of 9/14/2011 -- Philadelphia at Houston (D)
+
+  Philadelphia       AB  R  H RBI    Houston            AB  R  H RBI
+Victorino S, cf       3  1  1  0   Schafer J, cf         4  0  1  0   
+Polanco P, 3b         4  0  1  1   Barmes C, ss          4  0  0  0   
+Pence H, rf           4  0  1  0   Martinez J, lf        3  0  1  0   
+Howard R, 1b          4  0  0  0   Bourgeois J, pr-lf    0  0  0  0   
+Ibanez R, lf          4  0  0  0   Lee C, 1b             4  0  0  0   
+Ruiz C, c             3  0  0  0   Bogusevic B, rf       4  0  1  0   
+Orr P, 2b             3  0  0  0   Paredes J, 3b         4  0  2  0   
+Rollins J, ss         0  0  0  0   Altuve J, 2b          3  0  1  0   
+Martinez M, ss-2b     3  0  0  0   Quintero H, c         3  0  0  0   
+Halladay R, p         3  0  1  0   Norris B, p           2  0  0  0   
+                                   Downs M, ph           1  0  0  0   
+                                   Lopez W, p            0  0  0  0   
+                                   Wright W, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  4  1                        32  0  6  0
+
+Philadelphia     100 000 000 --  1
+Houston          000 000 000 --  0
+
+  Philadelphia         IP  H  R ER BB SO
+Halladay R (W)        9.0  6  0  0  1  7
+
+  Houston              IP  H  R ER BB SO
+Norris B (L)          7.0  4  1  1  1  3
+Lopez W               1.1  0  0  0  0  2
+Wright W              0.2  0  0  0  0  2
+
+E -- Polanco P
+DP -- Philadelphia 1
+LOB -- Philadelphia 4, Houston 7
+2B -- Victorino S
+SB -- Schafer J, Altuve J
+SH -- Altuve J
+T -- 2:06
+A -- 20027
+     Game of 9/22/2011 -- Colorado at Houston (N)
+
+  Colorado           AB  R  H RBI    Houston            AB  R  H RBI
+Young E, lf           4  1  3  0   Schafer J, cf         4  1  1  1   
+Fowler D, cf          5  0  2  0   Altuve J, 2b          4  2  2  0   
+Pacheco J, 2b         4  0  0  0   Martinez J, lf        4  1  0  0   
+Tulowitzki T, ss      4  1  1  0   Lee C, 1b             2  1  1  4   
+Miller J, p           0  0  0  0   Bogusevic B, rf       3  1  1  0   
+Ellis M, ph           1  0  0  0   Downs M, ph           1  0  1  3   
+Smith S, rf           4  1  2  0   Shuck J, rf           0  0  0  0   
+Wigginton T, 1b       4  0  0  0   Paredes J, 3b         3  0  0  0   
+Kouzmanoff K, 3b      4  2  3  2   Rodriguez F, p        1  0  0  0   
+Rosario W, c          4  1  2  3   Lopez W, p            0  0  0  0   
+White A, p            2  0  0  0   Melancon M, p         0  0  0  0   
+Romero J, p           0  0  0  0   Barmes C, ss          3  1  1  1   
+Escalona E, p         0  0  0  0   Towles J, c           4  0  1  0   
+Nelson C, ph          1  0  0  0   Sosa H, p             2  1  1  0   
+Roenicke J, p         0  0  0  0   Johnson C, 3b         1  1  1  0   
+Reynolds M, p         0  0  0  0                                      
+Field T, ph-ss        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  6 13  5                        32  9 10  9
+
+Colorado         011 000 130 --  6
+Houston          013 010 31x --  9
+
+  Colorado             IP  H  R ER BB SO
+White A (L)           4.2  6  5  5  0  6
+Romero J*             0.1  0  0  0  0  1
+Escalona E            1.0  0  0  0  0  1
+Roenicke J            0.2  2  3  3  1  0
+Reynolds M            0.1  1  0  0  0  1
+Miller J              1.0  1  1  1  2  0
+
+  Houston              IP  H  R ER BB SO
+Sosa H (W)            6.1  9  3  3  1  4
+Rodriguez F           1.0  3  3  3  2  0
+Lopez W               0.2  1  0  0  0  0
+Melancon M (S)        1.0  0  0  0  0  2
+  * Pitched to 1 batter in 6th
+
+E -- Towles J, Tulowitzki T, Fowler D
+DP -- Colorado 1, Houston 1
+LOB -- Colorado 8, Houston 6
+2B -- Barmes C, Sosa H, Lee C, Smith S, Fowler D, Rosario W, Downs M
+HR -- Kouzmanoff K, Rosario W
+SB -- Bogusevic B, Young E
+CS -- Young E, Paredes J
+SF -- Lee C, Schafer J
+HBP -- by White A (Altuve J), by White A (Martinez J)
+WP -- Sosa H, White A 2, Roenicke J
+PB -- Rosario W
+T -- 3:38
+A -- 20773
+     Game of 9/23/2011 -- Colorado at Houston (N)
+
+  Colorado           AB  R  H RBI    Houston            AB  R  H RBI
+Young E, lf           5  1  1  0   Shuck J, cf-rf        4  3  3  0   
+Fowler D, cf          3  0  1  1   Sanchez A, 2b         3  3  1  2   
+Pacheco J, 2b         4  0  1  0   Martinez J, lf        5  1  3  1   
+Smith S, rf           3  0  0  0   Lee C, 1b             5  1  2  4   
+Wigginton T, 1b       4  0  1  0   Downs M, rf           5  1  1  2   
+Kouzmanoff K, 3b      4  0  0  0   Lyles J, p            0  0  0  0   
+Rosario W, c          4  0  0  0   Johnson C, 3b         4  0  1  1   
+Field T, ss           4  0  1  0   Barmes C, ss          5  1  1  1   
+Pomeranz D, p         1  0  1  0   Quintero H, c         4  0  1  0   
+Rogers E, p           1  0  0  0   Myers B, p            3  1  1  0   
+Miller J, p           0  0  0  0   Wallace B, ph         1  0  0  0   
+Roenicke J, p         0  0  0  0   Pendleton L, p        0  0  0  0   
+Nelson C, ph          1  1  1  1   Abreu J, p            0  0  0  0   
+Lindstrom M, p        0  0  0  0   Bourgeois J, cf       0  0  0  0   
+Escalona E, p         0  0  0  0                                      
+Iannetta C, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  2  7  2                        39 11 14 11
+
+Colorado         100 000 100 --  2
+Houston          510 211 10x -- 11
+
+  Colorado             IP  H  R ER BB SO
+Pomeranz D (L)        2.0  7  6  6  1  3
+Rogers E              2.1  5  3  3  3  1
+Miller J              0.2  0  0  0  0  1
+Roenicke J            1.0  1  1  1  0  0
+Lindstrom M           1.0  1  1  1  0  0
+Escalona E            1.0  0  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Myers B (W)           6.0  4  1  1  1  6
+Pendleton L           1.0  1  1  1  0  2
+Abreu J               1.0  2  0  0  0  3
+Lyles J               1.0  0  0  0  0  2
+
+E -- Johnson C, Kouzmanoff K
+LOB -- Colorado 8, Houston 8
+2B -- Fowler D, Sanchez A, Lee C, Downs M, Martinez J
+3B -- Shuck J
+HR -- Barmes C, Nelson C
+HBP -- by Abreu J (Fowler D)
+T -- 3:02
+A -- 22467
+     Game of 9/24/2011 -- Colorado at Houston (N)
+
+  Colorado           AB  R  H RBI    Houston            AB  R  H RBI
+Young E, lf           5  1  1  0   Schafer J, cf         5  1  1  0   
+Ellis M, 2b           3  1  0  0   Altuve J, 2b          6  0  1  0   
+Fowler D, cf          4  0  0  0   Martinez J, rf        3  0  1  1   
+Nelson C, ss          5  1  1  1   Bourgeois J, pr-rf    2  0  0  0   
+Wigginton T, rf       5  0  0  0   Lee C, lf             4  0  1  0   
+Romero J, p           0  0  0  0   Wallace B, 1b         3  1  1  1   
+Escalona E, p         0  0  0  0   Downs M, ph-1b        2  0  0  0   
+Reynolds M, p         0  0  0  0   Paredes J, 3b         4  0  0  0   
+Rosario W, ph         0  0  0  1   Barmes C, ss          5  0  1  0   
+Betancourt R, p       0  0  0  0   Quintero H, c         5  0  0  0   
+Pacheco J, 1b         6  0  1  2   Happ J, p             2  0  0  0   
+Kouzmanoff K, 3b      5  0  1  0   Carpenter D, p        0  0  0  0   
+Iannetta C, c         3  0  1  0   Bogusevic B, ph       1  0  0  0   
+Hammel J, p           1  0  0  0   Melancon M, p         0  0  0  0   
+Belisle M, p          0  0  0  0   Del Rosario E, p      0  0  0  0   
+Brothers R, p         0  0  0  0   Wright W, p           0  0  0  0   
+Smith S, ph           1  0  0  0   Shuck J, ph           1  0  0  0   
+Lindstrom M, p        0  0  0  0   Rodriguez F, p        0  0  0  0   
+Field T, rf           0  1  0  0   Lopez W, p            0  0  0  0   
+                                   Sanchez A, ph         0  0  0  0   
+                                   Lyles J, p            0  0  0  0   
+                                   Rodriguez A, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  4  5  4                        43  2  6  2
+
+Colorado         000 200 000 000 2 --  4
+Houston          110 000 000 000 0 --  2
+
+  Colorado             IP  H  R ER BB SO
+Hammel J              7.0  3  2  2  1  3
+Belisle M             1.0  0  0  0  0  0
+Brothers R            1.0  1  0  0  1  1
+Lindstrom M           1.0  1  0  0  0  1
+Romero J*             0.0  1  0  0  0  0
+Escalona E            1.0  0  0  0  1  1
+Reynolds M (W)        1.0  0  0  0  2  1
+Betancourt R (S)      1.0  0  0  0  0  2
+
+  Houston              IP  H  R ER BB SO
+Happ J                7.0  3  2  2  4  5
+Carpenter D           1.0  0  0  0  0  2
+Melancon M            1.0  0  0  0  0  2
+Del Rosario E         0.1  1  0  0  0  1
+Wright W              0.2  0  0  0  0  0
+Rodriguez F           1.0  0  0  0  2  1
+Lopez W               1.0  0  0  0  0  1
+Lyles J (L)           0.1  1  2  2  3  0
+Rodriguez A           0.2  0  0  0  0  0
+  * Pitched to 1 batter in 11th
+
+E -- Kouzmanoff K, Quintero H
+DP -- Colorado 1, Houston 1
+LOB -- Colorado 8, Houston 8
+2B -- Pacheco J
+HR -- Wallace B
+SB -- Schafer J 2, Altuve J, Fowler D, Young E
+SH -- Hammel J 2, Ellis M
+SF -- Martinez J, Rosario W
+Balk -- Reynolds M
+T -- 4:09
+A -- 26209
+     Game of 9/25/2011 -- Colorado at Houston (D)
+
+  Colorado           AB  R  H RBI    Houston            AB  R  H RBI
+Young E, cf           4  1  1  0   Schafer J, cf         4  1  1  0   
+Ellis M, 2b           6  1  3  1   Altuve J, 2b          4  0  1  0   
+Smith S, rf           5  2  3  0   Martinez J, lf        4  0  0  0   
+Kouzmanoff K, 3b      6  3  3  5   Lee C, 1b             4  1  1  0   
+Pacheco J, 1b-c       6  3  4  1   Bogusevic B, rf       3  1  1  0   
+Wigginton T, lf       6  4  4  1   Johnson C, 3b         4  0  2  1   
+Iannetta C, c-1b      5  2  2  5   Barmes C, ss          3  0  0  0   
+Field T, ss           5  2  4  3   Cedeno X, p           0  0  0  0   
+Millwood K, p         4  1  1  2   Abreu J, p            0  0  0  0   
+Reynolds G, p         1  0  0  0   Shuck J, ph           1  0  1  1   
+                                   Towles J, c           4  0  0  0   
+                                   Harrell L, p          0  0  0  0   
+                                   Wallace B, ph         1  0  0  0   
+                                   Rodriguez A, p        0  0  0  0   
+                                   Corporan C, ph        1  0  0  0   
+                                   Pendleton L, p        0  0  0  0   
+                                   Sanchez A, ss         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     48 19 25 18                        34  3  7  2
+
+Colorado         032 312 350 -- 19
+Houston          001 000 002 --  3
+
+  Colorado             IP  H  R ER BB SO
+Millwood K (W)        7.0  3  1  0  1  6
+Reynolds G            2.0  4  2  2  0  3
+
+  Houston              IP  H  R ER BB SO
+Harrell L (L)         3.0  7  5  3  1  1
+Rodriguez A           2.0  6  4  4  2  1
+Pendleton L           2.0  6  5  5  1  1
+Cedeno X              1.0  5  5  5  0  0
+Abreu J               1.0  1  0  0  1  1
+
+E -- Harrell L, Young E
+LOB -- Colorado 12, Houston 5
+2B -- Wigginton T
+3B -- Wigginton T
+HR -- Millwood K, Kouzmanoff K 2, Iannetta C
+CS -- Ellis M
+SH -- Millwood K
+SF -- Ellis M, Kouzmanoff K, Iannetta C
+HBP -- by Harrell L (Young E)
+Balk -- Harrell L
+T -- 3:21
+A -- 21621
+     Game of 9/26/2011 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Furcal R, ss          3  0  1  0   Bourgeois J, cf-lf    4  0  1  1   
+McClellan K, p        0  0  0  0   Sanchez A, 2b         5  0  1  1   
+Boggs M, p            0  0  0  0   Martinez J, lf        3  0  1  0   
+Craig A, ph           1  0  0  0   Schafer J, pr-cf      1  0  0  0   
+Salas F, p            0  0  0  0   Lee C, 1b             2  1  0  0   
+Schumaker S, ph       1  0  0  0   Downs M, rf           4  1  1  2   
+Dotel O, p            0  0  0  0   Johnson C, 3b         4  0  0  0   
+Freese D, 3b          3  1  1  0   Barmes C, ss          4  1  1  0   
+Descalso D, ph-3b     2  0  1  0   Towles J, c           4  1  1  0   
+Pujols A, 1b          5  1  2  0   Rodriguez W, p        1  0  1  1   
+Holliday M, lf        4  1  2  1   Lopez W, p            0  0  0  0   
+Berkman L, rf         4  0  1  2   Shuck J, ph           1  0  1  0   
+Chambers A, pr-rf     1  0  0  0   Rodriguez F, p        0  0  0  0   
+Molina Y, c           2  0  1  0   Wright W, p           0  0  0  0   
+Theriot R, 2b         4  0  1  0   Del Rosario E, p      0  0  0  0   
+Jay J, cf             4  1  2  0   Melancon M, p         0  0  0  0   
+Garcia J, p           1  0  0  0   Bogusevic B, ph       1  1  1  0   
+Laird G, ph           0  0  0  0                                      
+Punto N, ss           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4 12  3                        34  5  9  5
+
+St. Louis        001 010 020 0 --  4
+Houston          002 200 000 1 --  5
+  0 outs when winning run was scored.
+
+  St. Louis            IP  H  R ER BB SO
+Garcia J              4.0  4  4  4  1  5
+McClellan K           1.0  2  0  0  1  0
+Boggs M               1.0  0  0  0  0  1
+Salas F               2.0  1  0  0  0  2
+Dotel O (L)           1.0  2  1  1  0  1
+
+  Houston              IP  H  R ER BB SO
+Rodriguez W           6.1  8  2  2  3  2
+Lopez W               0.2  0  0  0  0  0
+Rodriguez F*          0.0  1  2  2  1  0
+Wright W+             0.0  1  0  0  0  0
+Del Rosario E         1.0  0  0  0  1  0
+Melancon M (W)        2.0  2  0  0  0  0
+  * Pitched to 2 batters in 8th
+  + Pitched to 1 batter in 8th
+
+E -- Dotel O
+DP -- St. Louis 1, Houston 2
+LOB -- St. Louis 9, Houston 6
+2B -- Holliday M, Pujols A, Bourgeois J, Jay J, Rodriguez W, Berkman L, Molina Y, Bogusevic B
+HR -- Downs M
+SB -- Holliday M, Pujols A
+CS -- Theriot R
+SH -- Rodriguez W, Punto N, Theriot R, Bourgeois J
+WP -- Garcia J
+T -- 3:18
+A -- 20017
+     Game of 9/27/2011 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Jay J, cf             4  0  1  1   Shuck J, cf           5  0  0  0   
+Freese D, 3b          4  1  1  0   Altuve J, 2b          5  1  3  0   
+Dotel O, p            0  0  0  0   Bogusevic B, rf       4  2  2  0   
+Cruz T, ph-1b         1  0  1  0   Lee C, lf             3  2  1  0   
+Pujols A, 1b          6  1  1  0   Wallace B, 1b         3  1  1  2   
+Jackson E, p          0  0  0  0   Paredes J, 3b         4  0  2  2   
+Berkman L, rf         4  3  3  0   Barmes C, ss          4  0  1  0   
+Robinson S, rf        0  0  0  0   Towles J, c           1  0  0  1   
+Holliday M, lf        1  0  0  0   Carpenter D, p        0  0  0  0   
+Craig A, lf           3  3  2  4   Johnson C, ph         1  0  0  0   
+Molina Y, c           4  2  1  1   Del Rosario E, p      0  0  0  0   
+Schumaker S, 2b       3  1  1  3   Wright W, p           0  0  0  0   
+Theriot R, ph-2b      2  1  1  2   Rodriguez F, p        0  0  0  0   
+Punto N, ss           5  1  4  2   Corporan C, ph-c      1  0  0  0   
+Westbrook J, p        0  0  0  0   Sosa H, p             1  0  0  0   
+Boggs M, p            0  0  0  0   Quintero H, c         2  0  0  0   
+Patterson C, ph       0  0  0  0   Abreu J, p            0  0  0  0   
+Rzepczynski M, p      0  0  0  0   Sanchez A, ph         1  0  1  0   
+Chambers A, ph        1  0  1  0                                      
+Sanchez E, p          1  0  0  0                                      
+Rhodes A, p           0  0  0  0                                      
+Salas F, p            0  0  0  0                                      
+Descalso D, 3b        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40 13 17 13                        35  6 11  5
+
+St. Louis        000 500 431 -- 13
+Houston          014 010 000 --  6
+
+  St. Louis            IP  H  R ER BB SO
+Westbrook J           2.1  7  5  5  1  2
+Boggs M               0.2  0  0  0  0  1
+Rzepczynski M         2.0  2  1  1  2  2
+Sanchez E (W)         1.1  0  0  0  0  2
+Rhodes A*             0.0  0  0  0  1  0
+Salas F               0.2  0  0  0  0  1
+Dotel O               1.0  0  0  0  0  1
+Jackson E             1.0  2  0  0  0  0
+
+  Houston              IP  H  R ER BB SO
+Sosa H                3.1  5  5  5  2  1
+Carpenter D           2.2  3  0  0  1  3
+Del Rosario E (L)     0.2  2  3  3  1  0
+Wright W              0.1  2  1  1  0  0
+Rodriguez F           1.0  3  3  3  1  0
+Abreu J               1.0  2  1  1  0  0
+  * Pitched to 1 batter in 7th
+
+E -- Towles J, Shuck J
+DP -- St. Louis 1, Houston 1
+LOB -- St. Louis 8, Houston 7
+2B -- Bogusevic B, Schumaker S, Berkman L, Craig A, Punto N
+3B -- Paredes J, Theriot R
+HR -- Craig A, Punto N
+SB -- Freese D
+CS -- Altuve J
+SH -- Westbrook J
+SF -- Towles J, Jay J
+HBP -- by Abreu J (Jay J)
+WP -- Sosa H
+T -- 3:35
+A -- 22021
+     Game of 9/28/2011 -- St. Louis at Houston (N)
+
+  St. Louis          AB  R  H RBI    Houston            AB  R  H RBI
+Jay J, cf             4  1  1  0   Shuck J, cf           4  0  1  0   
+Craig A, lf-1b        5  2  2  1   Altuve J, 2b          3  0  1  0   
+Pujols A, 1b          5  1  1  1   Martinez J, lf        4  0  0  0   
+Chambers A, lf        0  0  0  0   Lee C, 1b             3  0  0  0   
+Berkman L, rf         4  1  1  1   Bogusevic B, rf       3  0  0  0   
+Descalso D, 3b        1  0  1  0   Paredes J, 3b         3  0  0  0   
+Freese D, 3b          4  3  2  1   Barmes C, ss          3  0  0  0   
+Theriot R, 2b         1  0  0  0   Quintero H, c         2  0  0  0   
+Molina Y, c           4  0  1  0   Corporan C, ph-c      1  0  0  0   
+Schumaker S, 2b-rf    4  0  1  2   Myers B, p            1  0  0  0   
+Punto N, ss           3  0  1  1   Lopez W, p            0  0  0  0   
+Carpenter C, p        4  0  1  1   Wallace B, ph         1  0  0  0   
+                                   Harrell L, p          0  0  0  0   
+                                   Rodriguez A, p        0  0  0  0   
+                                   Johnson C, ph         1  0  0  0   
+                                   Pendleton L, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  8 12  8                        29  0  2  0
+
+St. Louis        501 010 001 --  8
+Houston          000 000 000 --  0
+
+  St. Louis            IP  H  R ER BB SO
+Carpenter C (W)       9.0  2  0  0  1 11
+
+  Houston              IP  H  R ER BB SO
+Myers B (L)           5.0 10  7  6  1  3
+Lopez W               1.0  0  0  0  1  1
+Harrell L             1.0  0  0  0  0  2
+Rodriguez A           1.0  0  0  0  0  0
+Pendleton L           1.0  2  1  1  0  0
+
+E -- Bogusevic B
+DP -- Houston 1
+LOB -- St. Louis 6, Houston 3
+2B -- Freese D 2
+HR -- Craig A
+T -- 2:20
+A -- 24358
+

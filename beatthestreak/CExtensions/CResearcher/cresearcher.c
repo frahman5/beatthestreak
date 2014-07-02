@@ -39,6 +39,68 @@ where the above variables are set appropriately"
                or sacrifice bunt\n\
 \n\
     Relies on player Hit Info csv's located in results/playerInfo"
+#define cdidStartDocString "datetime.date string -> bool\
+\n\
+            date: datetime.date | date of interest\n\
+            lahmanID: string | lahmanID of player of interest\n\
+\n\
+        Returns: True if player started a game on the given date, False otherwise"
+
+/* Return Py_True if player started, Py_False otherwise */
+static PyObject *cdid_start(
+          PyObject *self, PyObject *args, PyObject *kwargs) {
+    struct playerDateData *pDD;
+
+    /* Get the keyword values into local variables */
+    PyDateTime_Date *d;
+    char *lahmanID;
+    char *keywords[] = {"date", "lahmanID", NULL}; 
+    if (!PyArg_ParseTupleAndKeywords(args, kwargs, "Os:cdid_start", 
+                                     keywords, &d, &lahmanID)){
+        return NULL; // ParseTupleAndKeywords sets the exception for me
+    }
+
+    /* Get month, day and create month/day*/
+    char monthS[4];         // 2 digit month plus space for the sentinel and one for writeoff
+    char dayS[4];           // 2 digit day plus space for the sentinel and one for writeoff
+    char yearS[6];          // 4 digit year plus space for the sentinel and one for writeoff
+    char monthSlashDay[7];   // 2 digit month/2 digit day plus space for the sentinel and one for writeoff
+    sprintf(monthS, "%d", PyDateTime_GET_MONTH(d));
+    sprintf(dayS, "%d", PyDateTime_GET_DAY(d));
+    sprintf(yearS, "%d", PyDateTime_GET_YEAR(d));
+    strcpy(monthSlashDay, monthS);
+    strcat(monthSlashDay, "/");
+    strcat(monthSlashDay, dayS);
+ 
+    /* Check if the cache is for this year or not */
+    int yearInt = atoi(yearS);
+    if (playerInfoCacheYear != yearInt) {
+        playerInfoCacheYear = yearInt;
+        if (deletePlayerInfoCache() == -1) {
+            return NULL;
+        }
+    }
+
+    /* See if the player is in the cache, if not, add him 
+       lahmanID-1/1 is the indicator hashkey that we use to see if a 
+       player has been added to the cache or not */
+    if (!findPlayerDateData(lahmanID, "1/1")) {
+        // should raise error if the key is already in there
+        if (addPlayerDateData(lahmanID) == -1) { return NULL; } 
+    }
+
+    pDD = findPlayerDateData(lahmanID, monthSlashDay);
+
+    if (pDD) {
+        Py_INCREF(Py_True);
+        return Py_True;
+    } else {
+        Py_INCREF(Py_False);
+        return Py_False;
+    }
+
+}
+
 /* Return Py_True if player got a hit, Py_False otherwise */
 static PyObject *cfinish_did_get_hit(
           PyObject *self, PyObject *args, PyObject *kwargs) {
@@ -212,7 +274,9 @@ static PyMethodDef cresearcherMethods[] = {
     { "cfinish_did_get_hit", (PyCFunction) cfinish_did_get_hit, 
       METH_KEYWORDS, cfinishDidGetHitDocString }, 
     { "cget_hit_info", (PyCFunction) cget_hit_info, 
-      METH_KEYWORDS, cgetHitInfoDocString },     
+      METH_KEYWORDS, cgetHitInfoDocString }, 
+    { "cdid_start", (PyCFunction) cdid_start, 
+      METH_KEYWORDS, cdidStartDocString },    
     { NULL, NULL, 0, NULL} /* sentinel */
 };
 

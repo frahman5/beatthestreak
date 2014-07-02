@@ -5,7 +5,7 @@ from beatthestreak.tests import p1, p2, p3, p4, p5
 from beatthestreak.researcher import Researcher as R
 from beatthestreak.player import Player
 from beatthestreak.filepath import Filepath
-from cresearcher import cfinish_did_get_hit, cget_hit_info
+from cresearcher import cfinish_did_get_hit, cget_hit_info, cdid_start
 
 class TestCResearcher(unittest.TestCase):
 
@@ -123,3 +123,29 @@ class TestCResearcher(unittest.TestCase):
         R.create_player_hit_info_csv(Marco, 2010)
         self.assertEqual(cget_hit_info(date=d3, lahmanID=Marco.get_lahman_id()), 
                                         (False, 'Suspended-Valid.'))
+
+    def test_did_start(self):
+        Adrian = Player("Adrian", "Beltre", 2010)
+        Craig = Player("Craig", "Biggio", 2004)
+        for player, year in (
+               (p1, 2011), (p2, 2011), (p1, 2012), (p2, 2012), (p1, 2009), 
+               (p2, 2012), (Adrian, 2010), (Craig, 2004)):
+            R.create_player_hit_info_csv(player, year)
+
+        self.assertFalse(cdid_start(date=date(2011, 7, 2), lahmanID=p1.get_lahman_id()))
+        self.assertTrue(cdid_start(date=date(2011, 9, 14), lahmanID=p2.get_lahman_id()))
+        self.assertFalse(cdid_start(date=date(2012, 4, 15), lahmanID=p1.get_lahman_id()))
+        self.assertTrue(cdid_start(date=date(2012, 4, 15), lahmanID=p2.get_lahman_id()))
+        self.assertTrue(cdid_start(date=date(2009, 6, 17), lahmanID=p1.get_lahman_id()))
+        self.assertTrue(cdid_start(date=date(2012, 4, 9), lahmanID=p2.get_lahman_id()))
+ 
+        # Adrian played in a game on 4/16 that was suspended and finished
+        # on 4/17. He started on 4/16 and pinch ran on 4/17. Thus 
+        # he should show up as NOT HAVING started on the 17th, and started on the 16th
+        self.assertFalse(cdid_start(date=date(2010, 4, 17), lahmanID=Adrian.get_lahman_id()))
+        self.assertTrue(cdid_start(date=date(2010, 4, 16), lahmanID=Adrian.get_lahman_id()))
+
+        # Craig started on the 07/30 but only pinch hit on 7/31. Thus he should
+        # show up as NOT having started on the 31st, and starting on the 30th
+        self.assertFalse(cdid_start(date=date(2004, 7, 31), lahmanID=Craig.get_lahman_id()))
+        self.assertTrue(cdid_start(date=date(2004, 7, 3), lahmanID=Craig.get_lahman_id()))

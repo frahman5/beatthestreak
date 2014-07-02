@@ -65,10 +65,9 @@ int addPlayerDateData(char *lahmanID) {
     sprintf(filePathSuffix, "/%d/%s.txt", playerInfoCacheYear, lahmanID);
     strcpy(filePath, pInfoDir);
     strcat(filePath, filePathSuffix);
-    // printf("filePath: %s\n", filePath);
     FILE *fp = fopen(filePath, "r");
     if (!fp) {
-        // printf("file: %s\n", filePath);
+        printf("filePath: %s\n", filePath);
         PyErr_SetString(PyExc_IOError, "could not open file\n"); // comment out to compile with gcc
         return -1;
     }
@@ -94,7 +93,6 @@ int addPlayerDateData(char *lahmanID) {
             strcat(hashKey, "-");
             strcat(hashKey, date);
         }
-        // printf("We create the hashKey\n");
         HASH_FIND_STR(playerInfoCache, hashKey, pDD);
         if (pDD) {
             fclose(fp);
@@ -116,8 +114,35 @@ to the player info hash table >= 1 times.\n");
             strcpy(pDD->otherInfo, otherInfo);
             HASH_ADD_STR(playerInfoCache, lIdDashDate, pDD);
         }
-        // printPlayerInfoCache();
     }
+
+    /* Add a indicator bucket to tell users that a player has been 
+       added to the hash */
+    // 6: 3 for 1/1, 1 for the dash, 1 for the sentinel, 1 for breathing room
+    char *indicatorHashKey = (char *) malloc(strlen(lahmanID) + 6);
+    if (!indicatorHashKey) {
+        fclose(fp);
+        PyErr_SetString(PyExc_SyntaxError, "Failed to allocate hashKey on the heap\n");
+        return -1;
+    } else {
+        strcpy(indicatorHashKey, lahmanID);
+        strcat(indicatorHashKey, "-");
+        strcat(indicatorHashKey, "1/1");
+    }
+    pDD = (struct playerDateData *) malloc(sizeof(struct playerDateData));
+    if (!pDD) {
+        fclose(fp);
+        free(indicatorHashKey);
+        PyErr_SetString(PyExc_SystemError, 
+            "Failed to allocate playerDateData on the heap\n");
+        return -1;
+    } else {
+        pDD->lIdDashDate = indicatorHashKey;
+        strcat(pDD->hitVal,"I"); // I for "Indicator"
+        strcat(pDD->otherInfo, "I"); // I for "Indicator"
+        HASH_ADD_STR(playerInfoCache, lIdDashDate, pDD);
+    }
+
     fclose(fp);
     return 0;
 }

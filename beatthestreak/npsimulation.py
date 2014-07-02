@@ -10,6 +10,7 @@ from datetime import date, timedelta
 from progressbar import ProgressBar
 from progressbar.widgets import Timer, Percentage
 
+from cresearcher import cdid_start
 from config import specialCasesD
 from filepath import Filepath
 from simulation import Simulation
@@ -205,8 +206,10 @@ class NPSimulation(Simulation):
         today = self.get_date()
 
         # Retrieve list of players playing today
+        # activePlayers = [player for player in self.players if \
+        #      Researcher.did_start(today, player)]
         activePlayers = [player for player in self.players if \
-             Researcher.did_start(today, player)]
+               cdid_start(today, player.get_lahman_id())]
         
         # assign players to bots and update histories
         modFactor = len(activePlayers)
@@ -237,8 +240,10 @@ class NPSimulation(Simulation):
         today = self.get_date()
 
         # Retreve list of players playing today
+        # activePlayers = [player for player in self.players if \
+        #     Researcher.did_start(today, player)]
         activePlayers = [player for player in self.players if \
-            Researcher.did_start(today, player)]
+              cdid_start(today, player.get_lahman_id())]
 
         # assign players to bots and update histories
         modFactor = len(activePlayers)

@@ -244,9 +244,7 @@ class Researcher(object):
 
         rId = player.get_retrosheet_id()
         part_superset = self.__get_participants_superset(date)
-        # print part_superset
         return rId in part_superset
-        # return player.get_retrosheet_id() in self.__get_participants_superset(date)
   
     @classmethod
     def num_at_bats(self, year, player):

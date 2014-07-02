@@ -1,0 +1,3721 @@
+     Game of 4/8/2011 -- St. Louis at San Francisco (D)
+
+  St. Louis          AB  R  H RBI    San Francisco      AB  R  H RBI
+Theriot R, ss         5  1  2  2   Torres A, cf          6  0  2  0   
+Rasmus C, cf          4  0  2  0   Sanchez F, 2b         5  0  1  1   
+Pujols A, 1b          6  0  1  1   Huff A, rf-lf         4  0  1  0   
+Craig A, lf           6  0  0  0   Rowand A, lf          3  1  2  1   
+Freese D, 3b          3  1  1  0   Posey B, c            3  0  0  0   
+Schumaker S, ph-2b    3  0  0  0   Sandoval P, 3b        5  0  3  1   
+Berkman L, rf         4  0  0  0   Burrell P, lf         2  1  1  1   
+Franklin R, p         0  0  0  0   Affeldt J, p          1  0  0  0   
+Lohse K, ph           1  0  0  0   Romo S, p             0  0  0  0   
+Augenstein B, p       0  0  0  0   Wilson B, p           0  0  0  0   
+Tallet B, p           0  0  0  0   Ramirez R, p          0  0  0  0   
+Molina Y, c           3  1  0  0   Fontenot M, ph        1  0  0  0   
+Greene T, 2b          3  0  1  1   Lopez J, p            0  0  0  0   
+Descalso D, ph-3b     1  1  1  0   DeRosa M, ph          1  0  0  0   
+Westbrook J, p        2  0  0  0   Runzler D, p          0  0  0  0   
+Boggs M, p            0  0  0  0   Belt B, 1b            6  0  1  0   
+Laird G, ph           1  0  0  0   Tejada M, ss          5  1  2  1   
+Miller T, p           0  0  0  0   Sanchez J, p          2  1  1  0   
+Jay J, ph-rf          1  0  0  0   Mota G, p             0  0  0  0   
+                                   Schierholtz N, ph-rf  4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     43  4  8  4                        48  5 15  5
+
+St. Louis        010 000 012 000 --  4
+San Francisco    002 001 001 001 --  5
+  2 outs when winning run was scored.
+
+  St. Louis            IP  H  R ER BB SO
+Westbrook J           5.2  8  3  3  4  2
+Boggs M               1.1  1  0  0  0  2
+Miller T              1.0  0  0  0  0  0
+Franklin R            1.0  2  1  1  1  0
+Augenstein B          2.0  2  0  0  2  2
+Tallet B (L)          0.2  2  1  0  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Sanchez J*            5.0  4  1  1  2  7
+Mota G                1.0  0  0  0  0  1
+Affeldt J             1.2  1  1  1  0  2
+Romo S                0.1  1  0  0  0  1
+Wilson B              0.2  2  2  2  2  0
+Ramirez R             0.1  0  0  0  0  0
+Lopez J               2.0  0  0  0  1  2
+Runzler D (W)         1.0  0  0  0  0  0
+  * Pitched to 1 batter in 6th
+
+E -- Westbrook J, Theriot R, Lopez J, Pujols A
+DP -- St. Louis 2, San Francisco 1
+LOB -- St. Louis 10, San Francisco 17
+2B -- Freese D, Sanchez J, Sanchez F, Belt B, Torres A
+HR -- Tejada M, Burrell P
+SB -- Theriot R, Pujols A
+CS -- Schierholtz N
+SH -- Sanchez F, Descalso D
+HBP -- by Wilson B (Jay J)
+WP -- Sanchez J, Franklin R, Augenstein B
+T -- 4:24
+A -- 42048
+     Game of 4/9/2011 -- St. Louis at San Francisco (N)
+
+  St. Louis          AB  R  H RBI    San Francisco      AB  R  H RBI
+Schumaker S, 2b       3  1  0  0   Torres A, cf          1  0  0  0   
+Jay J, lf             3  0  1  0   Schierholtz N, rf     3  0  3  0   
+Pujols A, 1b          2  0  0  0   Sanchez F, 2b         4  0  0  0   
+Berkman L, rf         4  0  0  0   Huff A, 1b            4  0  0  0   
+Rasmus C, cf          4  1  2  1   Posey B, c            4  1  1  0   
+Molina Y, c           4  0  1  0   Burrell P, lf         2  1  0  0   
+Descalso D, 3b        3  0  0  0   Belt B, pr            0  1  0  0   
+Garcia J, p           2  0  0  0   Rowand A, rf-cf       4  0  0  0   
+Craig A, ph           1  0  0  0   Tejada M, ss          3  0  2  2   
+Batista M, p          0  0  0  0   DeRosa M, 3b          3  0  1  1   
+Freese D, ph          1  0  0  0   Ramirez R, p          0  0  0  0   
+Franklin R, p         0  0  0  0   Cain M, p             2  0  0  0   
+Greene T, ss          3  0  1  0   Runzler D, p          0  0  0  0   
+                                   Sandoval P, ph-3b     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  1                        31  3  7  3
+
+St. Louis        000 001 100 --  2
+San Francisco    000 010 002 --  3
+  2 outs when winning run was scored.
+
+  St. Louis            IP  H  R ER BB SO
+Garcia J              6.0  4  1  1  1  9
+Batista M             2.0  1  0  0  0  3
+Franklin R (L)        0.2  2  2  2  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Cain M                7.0  5  2  2  2  4
+Runzler D             1.0  0  0  0  2  1
+Ramirez R (W)         1.0  0  0  0  0  0
+
+E -- DeRosa M
+DP -- St. Louis 2, San Francisco 1
+LOB -- St. Louis 6, San Francisco 5
+2B -- Molina Y, Tejada M
+3B -- Schierholtz N
+HR -- Rasmus C
+SB -- Greene T
+CS -- Jay J
+SH -- Descalso D
+HBP -- by Garcia J (Burrell P)
+WP -- Cain M, Garcia J
+T -- 2:32
+A -- 41742
+     Game of 4/10/2011 -- St. Louis at San Francisco (D)
+
+  St. Louis          AB  R  H RBI    San Francisco      AB  R  H RBI
+Theriot R, ss         5  0  2  0   Fontenot M, ss        4  0  0  0   
+Rasmus C, cf          4  1  1  0   Sanchez F, 2b         4  1  2  0   
+Pujols A, 1b          5  0  0  0   Huff A, lf            4  0  0  0   
+Holliday M, lf        3  1  1  1   Sandoval P, 3b        4  0  1  1   
+Miller T, p           0  0  0  0   Rowand A, cf          4  0  1  0   
+Craig A, rf           4  2  1  0   Schierholtz N, rf     4  0  0  0   
+Freese D, 3b          4  2  3  3   Belt B, 1b            3  0  0  0   
+Schumaker S, 2b       4  0  2  2   Whiteside E, c        3  0  1  0   
+Laird G, c            3  0  0  0   Zito B, p             2  0  0  0   
+Lohse K, p            4  0  1  0   Mota G, p             0  0  0  0   
+Jay J, lf             0  0  0  0   Affeldt J, p          0  0  0  0   
+                                   DeRosa M, ph          1  0  1  0   
+                                   Romo S, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6 11  6                        33  1  6  1
+
+St. Louis        010 003 110 --  6
+San Francisco    100 000 000 --  1
+
+  St. Louis            IP  H  R ER BB SO
+Lohse K (W)           8.0  5  1  1  0  5
+Miller T              1.0  1  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Zito B (L)            5.1  6  4  4  5  1
+Mota G                2.1  5  2  2  0  2
+Affeldt J             0.1  0  0  0  0  0
+Romo S                1.0  0  0  0  0  2
+
+DP -- San Francisco 2
+LOB -- St. Louis 8, San Francisco 5
+2B -- Craig A, Freese D, Schumaker S, Rowand A
+HR -- Freese D
+SB -- Rasmus C
+T -- 2:32
+A -- 42092
+     Game of 4/11/2011 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Furcal R, ss          2  1  0  0   Tejada M, ss          4  0  1  0   
+Miles A, ph-2b        2  1  1  0   Sanchez F, 2b         4  0  0  0   
+Carroll J, 2b-ss      5  1  3  0   Huff A, rf            4  0  2  0   
+Ethier A, rf          4  1  2  2   Posey B, c            4  0  0  0   
+Kemp M, cf            2  1  1  1   Burrell P, lf         2  1  2  1   
+Uribe J, 3b           4  0  1  0   Rowand A, cf          4  0  0  0   
+Loney J, 1b           4  0  1  1   Belt B, 1b            4  0  0  0   
+Thames M, lf          3  0  0  0   Sandoval P, 3b        4  0  1  0   
+Gwynn T, lf           1  0  0  0   Bumgarner M, p        2  0  1  0   
+Barajas R, c          3  1  1  1   Ramirez R, p          0  0  0  0   
+Kershaw C, p          3  0  1  0   Schierholtz N, ph     1  0  0  0   
+Guerrier M, p         0  0  0  0   Runzler D, p          0  0  0  0   
+Hoffmann J, ph        1  0  0  0   Lopez J, p            0  0  0  0   
+MacDougal M, p        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  6 11  5                        33  1  7  1
+
+Los Angeles      010 040 100 --  6
+San Francisco    000 000 001 --  1
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (W)         6.2  6  0  0  2  7
+Guerrier M            1.1  0  0  0  0  0
+MacDougal M           1.0  1  1  1  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (L)       5.0  8  5  5  4  3
+Ramirez R             2.0  3  1  1  0  3
+Runzler D             1.0  0  0  0  0  2
+Lopez J               1.0  0  0  0  0  1
+
+E -- Burrell P
+DP -- Los Angeles 1, San Francisco 2
+LOB -- Los Angeles 5, San Francisco 7
+HR -- Barajas R, Burrell P
+SB -- Kemp M, Furcal R
+T -- 2:37
+A -- 40870
+     Game of 4/12/2011 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Gwynn T, lf           5  0  0  0   Rowand A, cf          4  2  2  1   
+Carroll J, ss         5  1  1  0   Sanchez F, 2b         3  1  1  0   
+Ethier A, rf          4  1  2  0   Huff A, rf-lf         3  0  0  0   
+Kemp M, cf            2  1  2  1   Posey B, c            4  1  3  2   
+Loney J, 1b           4  0  1  1   Sandoval P, 3b        4  0  1  1   
+Uribe J, 3b           3  0  1  1   Burrell P, lf         2  0  0  0   
+Barajas R, c          4  0  0  0   Affeldt J, p          0  0  0  0   
+Miles A, 2b           4  0  0  0   Romo S, p             0  0  0  0   
+Billingsley C, p      2  0  0  0   Fontenot M, ph        1  0  0  0   
+Jansen K, p           0  0  0  0   Wilson B, p           0  0  0  0   
+Thames M, ph          1  1  1  1   Tejada M, ss          4  0  1  0   
+Hawksworth B, p       0  0  0  0   Belt B, 1b            3  1  1  0   
+Paul X, ph            1  0  0  0   Lincecum T, p         1  0  0  0   
+                                   Mota G, p             0  0  0  0   
+                                   Schierholtz N, ph-rf  1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  4                        30  5  9  4
+
+Los Angeles      000 300 100 --  4
+San Francisco    000 220 10x --  5
+
+  Los Angeles          IP  H  R ER BB SO
+Billingsley C         5.0  7  4  4  2  6
+Jansen K              1.0  0  0  0  1  1
+Hawksworth B (L)      2.0  2  1  1  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T            5.1  6  3  3  1  4
+Mota G                0.2  0  0  0  0  1
+Affeldt J (W)         1.0  2  1  1  1  0
+Romo S                1.0  0  0  0  0  1
+Wilson B (S)          1.0  0  0  0  0  3
+
+E -- Belt B
+DP -- Los Angeles 2
+LOB -- Los Angeles 7, San Francisco 6
+2B -- Kemp M, Uribe J, Sanchez F, Sandoval P, Ethier A
+3B -- Rowand A
+HR -- Thames M
+SB -- Belt B
+CS -- Kemp M, Tejada M
+SH -- Lincecum T
+HBP -- by Lincecum T (Uribe J)
+WP -- Billingsley C, Hawksworth B
+T -- 3:00
+A -- 41960
+     Game of 4/13/2011 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Carroll J, ss         5  0  1  0   Rowand A, cf          4  1  2  0   
+Blake C, 1b-lf        4  0  1  0   Tejada M, ss          4  0  0  0   
+Ethier A, rf          4  0  1  0   Huff A, rf            3  0  2  1   
+Kemp M, cf            4  0  0  0   Schierholtz N, rf     0  0  0  0   
+Uribe J, 3b           3  0  0  0   Posey B, c            2  0  0  0   
+Thames M, lf          2  2  1  0   Burrell P, lf         4  0  0  0   
+Gwynn T, lf           1  0  1  0   Sandoval P, 3b        4  1  1  1   
+Guerrier M, p         0  0  0  0   Belt B, 1b            3  1  2  0   
+Barajas R, c          4  1  1  2   Fontenot M, 2b        3  1  2  2   
+Miles A, 2b           4  0  3  1   Sanchez J, p          2  0  0  0   
+Lilly T, p            3  0  0  0   Bumgarner M, ph       1  0  0  0   
+MacDougal M, p        0  0  0  0   Ramirez R, p          0  0  0  0   
+Kuo H, p              0  0  0  0   Lopez J, p            0  0  0  0   
+Loney J, 1b           1  0  0  0   Romo S, p             0  0  0  0   
+                                   Affeldt J, p          0  0  0  0   
+                                   Sanchez F, ph         1  0  0  0   
+                                   Wilson B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  3                        31  4  9  4
+
+Los Angeles      000 201 000 --  3
+San Francisco    110 002 00x --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Lilly T (L)           6.0  7  4  4  0  2
+MacDougal M           1.0  2  0  0  0  0
+Kuo H                 0.2  0  0  0  2  2
+Guerrier M            0.1  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Sanchez J (W)         6.0  7  3  3  2  9
+Ramirez R             0.2  0  0  0  0  0
+Lopez J*              0.0  1  0  0  0  0
+Romo S                1.0  1  0  0  0  2
+Affeldt J             0.1  0  0  0  0  0
+Wilson B (S)          1.0  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+LOB -- Los Angeles 7, San Francisco 8
+2B -- Rowand A, Fontenot M, Miles A, Gwynn T
+HR -- Barajas R, Sandoval P, Fontenot M
+SB -- Posey B
+CS -- Rowand A, Gwynn T
+SF -- Huff A
+HBP -- by Lilly T (Posey B) 2
+T -- 2:56
+A -- 42060
+     Game of 4/22/2011 -- Atlanta at San Francisco (N)
+
+  Atlanta            AB  R  H RBI    San Francisco      AB  R  H RBI
+Prado M, lf           3  1  1  0   Rowand A, cf          3  0  0  0   
+Heyward J, rf         4  1  2  1   Sanchez F, 2b         4  0  0  0   
+Jones C, 3b           4  1  1  2   Huff A, 1b            4  0  0  0   
+McCann B, c           4  0  0  0   Posey B, c            4  0  0  0   
+Uggla D, 2b           4  0  0  0   Sandoval P, 3b        3  1  1  0   
+Freeman F, 1b         3  0  2  1   Burrell P, lf         3  0  1  1   
+Gonzalez A, ss        4  0  0  0   Ross C, rf            3  0  0  0   
+McLouth N, cf         3  1  0  0   Tejada M, ss          3  0  1  0   
+Hanson T, p           2  0  0  0   Bumgarner M, p        0  0  0  0   
+Venters J, p          0  0  0  0   Vogelsong R, p        1  0  0  0   
+Kimbrel C, p          0  0  0  0   Fontenot M, ph        1  0  0  0   
+                                   Mota G, p             0  0  0  0   
+                                   Runzler D, p          0  0  0  0   
+                                   DeRosa M, ph          1  0  0  0   
+                                   Romo S, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  6  4                        30  1  3  1
+
+Atlanta          004 000 000 --  4
+San Francisco    000 000 100 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Hanson T (W)          7.0  3  1  1  1  7
+Venters J             1.0  0  0  0  0  1
+Kimbrel C (S)         1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (L)       2.2  4  4  3  2  2
+Vogelsong R           3.1  2  0  0  0  2
+Mota G                1.0  0  0  0  0  1
+Runzler D             1.0  0  0  0  0  2
+Romo S                1.0  0  0  0  1  1
+
+E -- Tejada M
+DP -- San Francisco 1
+LOB -- Atlanta 4, San Francisco 3
+2B -- Jones C, Sandoval P
+CS -- Freeman F
+SH -- Hanson T
+WP -- Hanson T 2
+T -- 2:42
+A -- 42404
+     Game of 4/23/2011 -- Atlanta at San Francisco (D)
+
+  Atlanta            AB  R  H RBI    San Francisco      AB  R  H RBI
+Prado M, 3b-lf        4  1  2  3   Rowand A, cf          3  0  0  0   
+Heyward J, rf         3  0  2  0   Sanchez F, 2b         4  0  1  0   
+Freeman F, 1b         5  0  1  0   Huff A, 1b            4  0  0  0   
+McCann B, c           5  0  1  2   Sandoval P, 3b        4  0  0  0   
+Uggla D, 2b           4  0  0  0   Burrell P, lf         4  2  3  0   
+Hinske E, lf          4  0  1  0   Ross C, rf            4  0  2  1   
+Hicks B, 3b           0  0  0  0   Tejada M, ss          3  0  1  1   
+Gonzalez A, ss        4  1  1  0   Whiteside E, c        3  0  1  0   
+McLouth N, cf         2  3  1  0   Schierholtz N, ph     1  0  0  0   
+Hudson T, p           1  0  0  0   Lincecum T, p         2  0  1  0   
+Kimbrel C, p          0  0  0  0   Lopez J, p            0  0  0  0   
+                                   Fontenot M, ph        1  0  0  0   
+                                   Affeldt J, p          0  0  0  0   
+                                   Ramirez R, p          0  0  0  0   
+                                   Posey B, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  9  5                        34  2  9  2
+
+Atlanta          001 010 300 --  5
+San Francisco    010 000 001 --  2
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (W)          8.2  9  2  2  0  4
+Kimbrel C (S)         0.1  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (L)        6.1  6  5  5  6  6
+Lopez J               0.2  1  0  0  0  0
+Affeldt J             1.0  0  0  0  0  0
+Ramirez R             1.0  2  0  0  0  2
+
+E -- Prado M
+DP -- Atlanta 2, San Francisco 1
+LOB -- Atlanta 8, San Francisco 7
+2B -- Burrell P 2, Gonzalez A
+CS -- Prado M
+SH -- Hudson T 2
+SF -- Tejada M
+HBP -- by Hudson T (Rowand A)
+WP -- Hudson T
+T -- 2:41
+A -- 42395
+     Game of 4/24/2011 -- Atlanta at San Francisco (D)
+
+  Atlanta            AB  R  H RBI    San Francisco      AB  R  H RBI
+Prado M, lf           3  2  0  0   Rowand A, cf          5  0  1  2   
+Heyward J, rf         5  2  3  3   Sanchez F, 2b         5  0  0  0   
+Jones C, 3b           3  1  2  2   Huff A, 1b            5  1  2  0   
+Uggla D, 2b           3  2  1  1   Posey B, c            5  1  1  2   
+Freeman F, 1b         5  0  0  0   Sandoval P, 3b        4  1  2  0   
+Ross D, c             4  0  0  0   Burrell P, lf         3  1  2  0   
+O'Flaherty E, p       0  0  0  0   Romo S, p             0  0  0  0   
+Hinske E, ph          1  1  0  0   Lopez J, p            0  0  0  0   
+Venters J, p          0  0  0  0   DeRosa M, ph          1  0  0  0   
+McLouth N, cf         5  0  1  2   Wilson B, p           0  0  0  0   
+Hicks B, ss           2  1  0  0   Runzler D, p          0  0  0  0   
+Asencio J, p          0  0  0  0   Ross C, rf-lf         4  1  1  0   
+Linebrink S, p        0  0  0  0   Tejada M, ss          3  1  0  1   
+McCann B, c           2  0  1  1   Sanchez J, p          1  0  0  0   
+Beachy B, p           2  0  0  0   Fontenot M, ph        1  0  0  0   
+Gonzalez A, ph-ss     3  0  0  0   Mota G, p             0  0  0  0   
+                                   Affeldt J, p          0  0  0  0   
+                                   Schierholtz N, ph-rf  2  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     38  9  8  9                        39  6  9  6
+
+Atlanta          200 000 310 3 --  9
+San Francisco    000 200 400 0 --  6
+
+  Atlanta              IP  H  R ER BB SO
+Beachy B              6.0  3  2  2  0  7
+Asencio J             0.2  4  4  4  1  0
+Linebrink S           0.1  0  0  0  0  0
+O'Flaherty E (W)      2.0  1  0  0  0  0
+Venters J (S)         1.0  1  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Sanchez J             5.0  2  2  2  3  5
+Mota G                1.0  0  0  0  1  0
+Affeldt J             1.0  1  3  3  2  1
+Romo S*               0.0  1  1  1  0  0
+Lopez J               1.0  0  0  0  0  1
+Wilson B (L)          1.2  3  3  3  1  2
+Runzler D             0.1  1  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+LOB -- Atlanta 6, San Francisco 4
+2B -- Heyward J, Jones C, Huff A, Rowand A
+HR -- Posey B, Heyward J, Uggla D
+WP -- Beachy B
+T -- 3:26
+A -- 42295
+     Game of 5/6/2011 -- Colorado at San Francisco (N)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Fowler D, cf          3  1  0  0   Rowand A, cf          5  0  0  0   
+Herrera J, 2b         5  0  1  1   Sanchez F, 2b         5  0  1  1   
+Gonzalez C, lf        3  0  0  1   Fontenot M, ss        3  1  1  0   
+Tulowitzki T, ss      3  1  1  1   Posey B, c            3  1  1  1   
+Helton T, 1b          4  0  2  0   Huff A, 1b            4  0  1  0   
+Smith S, rf           4  0  1  0   Burrell P, lf         1  0  1  0   
+Stewart I, 3b         3  0  0  0   Ford D, pr            0  1  0  0   
+Iannetta C, c         4  1  2  0   Wilson B, p           0  0  0  0   
+Jimenez U, p          1  0  0  0   Schierholtz N, rf     4  0  1  2   
+Spilborghs R, ph      1  0  0  0   Tejada M, 3b          4  0  1  0   
+Lindstrom M, p        0  0  0  0   Cain M, p             2  0  0  0   
+Betancourt R, p       0  0  0  0   Burriss E, ph         1  0  0  0   
+Amezaga A, ph         1  0  0  0   Affeldt J, p          0  0  0  0   
+Paulino F, p          0  0  0  0   Ross C, lf            1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  7  3                        33  4  8  4
+
+Colorado         012 000 000 --  3
+San Francisco    000 001 021 --  4
+  1 out when winning run was scored.
+
+  Colorado             IP  H  R ER BB SO
+Jimenez U             6.0  2  1  1  5  7
+Lindstrom M           1.0  1  0  0  0  1
+Betancourt R          1.0  3  2  2  0  1
+Paulino F (L)         0.1  2  1  1  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Cain M                7.0  5  3  3  2  4
+Affeldt J             1.0  2  0  0  1  0
+Wilson B (W)          1.0  0  0  0  0  0
+
+LOB -- Colorado 8, San Francisco 9
+2B -- Huff A, Burrell P, Schierholtz N, Ross C
+3B -- Fontenot M
+HR -- Tulowitzki T
+SB -- Fontenot M
+SH -- Jimenez U
+SF -- Gonzalez C
+HBP -- by Cain M (Fowler D)
+WP -- Affeldt J
+T -- 2:51
+A -- 41982
+     Game of 5/7/2011 -- Colorado at San Francisco (N)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Fowler D, cf          5  0  1  0   Rowand A, cf-lf       4  2  2  0   
+Amezaga A, 2b         4  1  2  0   Sanchez F, 2b         5  0  3  1   
+Gonzalez C, lf        4  1  1  0   Fontenot M, ss        4  0  1  1   
+Tulowitzki T, ss      3  0  0  0   Posey B, c            2  0  0  1   
+Helton T, 1b          4  0  1  2   Huff A, 1b            4  0  1  0   
+Lopez J, 3b           3  0  1  0   Burrell P, lf         1  0  0  0   
+Stewart I, ph-3b      1  0  0  0   Ford D, pr-cf         1  0  0  0   
+Spilborghs R, rf      2  0  0  0   Schierholtz N, rf     4  0  0  0   
+Smith S, ph-rf        1  0  0  0   Tejada M, 3b          4  1  1  0   
+Iannetta C, c         3  0  1  0   Bumgarner M, p        2  0  0  0   
+Mortensen C, p        2  0  0  0   Ramirez R, p          0  0  0  0   
+Belisle M, p          0  0  0  0   Lopez J, p            0  0  0  0   
+Reynolds M, p         0  0  0  0   Ross C, ph            1  0  0  0   
+Herrera J, ph         1  0  1  0   Wilson B, p           0  0  0  0   
+Lindstrom M, p        0  0  0  0                                      
+Giambi J, ph          0  0  0  0                                      
+Paulino F, p          0  0  0  0                                      
+Morales F, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        32  3  8  3
+
+Colorado         000 000 200 --  2
+San Francisco    100 010 001 --  3
+  1 out when winning run was scored.
+
+  Colorado             IP  H  R ER BB SO
+Mortensen C           6.0  4  2  1  4  3
+Belisle M             0.2  0  0  0  0  0
+Reynolds M            0.1  1  0  0  1  1
+Lindstrom M           1.0  1  0  0  0  0
+Paulino F (L)*        0.0  2  1  1  0  0
+Morales F             0.1  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M+          6.0  5  2  1  2  5
+Ramirez R             1.0  0  0  0  0  2
+Lopez J               1.0  2  0  0  1  1
+Wilson B (W)          1.0  1  0  0  1  1
+  * Pitched to 2 batters in 9th
+  + Pitched to 4 batters in 7th
+
+E -- Fontenot M, Lopez J, Bumgarner M
+DP -- San Francisco 3
+LOB -- Colorado 8, San Francisco 11
+2B -- Huff A, Sanchez F, Fontenot M
+SB -- Ford D, Tejada M
+CS -- Fowler D
+SH -- Bumgarner M
+SF -- Fontenot M
+WP -- Morales F
+T -- 3:00
+A -- 41611
+     Game of 5/8/2011 -- Colorado at San Francisco (D)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Fowler D, cf          4  0  0  0   Rowand A, cf          2  0  0  0   
+Herrera J, 2b         4  0  0  0   Sanchez F, 2b         3  0  1  0   
+Gonzalez C, lf        3  0  1  0   Fontenot M, ss        3  0  0  0   
+Tulowitzki T, ss      4  0  0  0   Posey B, 1b           2  1  0  0   
+Giambi J, 1b          3  0  0  0   Burrell P, lf         3  1  1  0   
+Smith S, rf           3  0  0  0   Schierholtz N, rf     1  0  0  0   
+Iannetta C, c         3  0  2  0   Ross C, rf-lf         3  1  2  3   
+Stewart I, 3b         3  0  0  0   Tejada M, 3b          3  0  0  0   
+de la Rosa J, p       1  0  0  0   Whiteside E, c        3  0  0  0   
+Belisle M, p          0  0  0  0   Vogelsong R, p        2  0  1  0   
+Amezaga A, ph         1  0  0  0   Lopez J, p            1  0  0  0   
+Morales F, p          0  0  0  0   Wilson B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  0  3  0                        26  3  5  3
+
+Colorado         000 000 000 --  0
+San Francisco    000 102 00x --  3
+
+  Colorado             IP  H  R ER BB SO
+de la Rosa J (L)      6.0  4  3  3  5  7
+Belisle M             1.0  1  0  0  0  1
+Morales F             1.0  0  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R (W)       6.1  1  0  0  1  4
+Lopez J               1.2  1  0  0  0  1
+Wilson B (S)          1.0  1  0  0  0  2
+
+E -- Gonzalez C, Fontenot M
+DP -- Colorado 2, San Francisco 1
+LOB -- Colorado 4, San Francisco 6
+2B -- Vogelsong R, Burrell P
+HR -- Ross C
+CS -- Rowand A
+SH -- de la Rosa J
+HBP -- by Belisle M (Rowand A)
+WP -- de la Rosa J
+T -- 2:52
+A -- 42132
+     Game of 5/10/2011 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Johnson K, 2b         3  0  1  0   Torres A, cf          3  0  1  0   
+Mora M, 3b            4  0  1  0   Sanchez F, 2b         4  0  1  0   
+Upton J, rf           4  0  1  0   Fontenot M, ss        4  0  0  0   
+Drew S, ss            3  0  1  0   Posey B, c            3  0  1  0   
+Young C, cf           3  0  0  0   Ford D, pr            0  1  0  0   
+Montero M, c          4  0  0  0   Huff A, 1b            3  0  1  0   
+Miranda J, 1b         3  0  0  0   Ross C, rf            3  0  1  1   
+Parra G, lf           3  0  0  0   Rowand A, lf          2  0  0  0   
+Kennedy I, p          3  0  1  0   DeRosa M, 3b          3  0  0  0   
+Hernandez D, p        0  0  0  0   Lincecum T, p         2  0  0  0   
+                                   Burrell P, ph         1  0  0  0   
+                                   Wilson B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        28  1  5  1
+
+Arizona          000 000 000 --  0
+San Francisco    000 000 001 --  1
+  1 out when winning run was scored.
+
+  Arizona              IP  H  R ER BB SO
+Kennedy I             8.0  4  0  0  3  8
+Hernandez D (L)       0.1  1  1  1  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T            8.0  4  0  0  2  9
+Wilson B (W)          1.0  1  0  0  1  1
+
+E -- Sanchez F
+DP -- Arizona 2, San Francisco 1
+LOB -- Arizona 6, San Francisco 7
+2B -- Huff A
+SB -- Johnson K, Ford D
+CS -- Upton J
+HBP -- by Kennedy I (Rowand A)
+WP -- Lincecum T
+T -- 2:29
+A -- 41039
+     Game of 5/11/2011 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Johnson K, 2b         5  1  2  0   Torres A, cf          3  0  2  1   
+Roberts R, 3b         2  0  0  0   Sanchez F, 2b         4  0  1  0   
+Upton J, rf           4  0  0  0   Huff A, 1b            4  1  1  1   
+Drew S, ss            4  0  0  1   Posey B, c            4  1  1  0   
+Young C, cf           4  0  1  0   Whiteside E, c        0  0  0  0   
+Nady X, 1b            4  0  1  0   Ross C, rf            4  0  1  0   
+Parra G, lf           3  1  1  0   Fontenot M, ss        4  0  0  0   
+Blanco H, c           4  1  2  2   Rowand A, lf          3  1  0  0   
+Galarraga A, p        2  0  0  0   Tejada M, 3b          4  1  3  1   
+Gutierrez J, p        0  0  0  0   Sanchez J, p          1  0  1  0   
+Mora M, ph            1  0  0  0   Burrell P, ph         1  0  0  0   
+Paterson J, p         0  0  0  0   Ramirez R, p          0  0  0  0   
+Demel S, p            0  0  0  0   Lopez J, p            0  0  0  0   
+Heilman A, p          0  0  0  0   Romo S, p             0  0  0  0   
+Branyan R, ph         1  0  0  0   Schierholtz N, ph     1  0  0  0   
+                                   Wilson B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  7  3                        33  4 10  3
+
+Arizona          110 100 000 --  3
+San Francisco    000 211 00x --  4
+
+  Arizona              IP  H  R ER BB SO
+Galarraga A (L)       5.1  8  4  4  3  4
+Gutierrez J           0.2  1  0  0  0  0
+Paterson J            0.1  0  0  0  0  1
+Demel S               0.2  0  0  0  0  0
+Heilman A             1.0  1  0  0  0  3
+
+  San Francisco        IP  H  R ER BB SO
+Sanchez J (W)         6.0  6  3  3  2  7
+Ramirez R             1.1  0  0  0  0  1
+Lopez J               0.1  0  0  0  0  0
+Romo S                0.1  0  0  0  0  1
+Wilson B (S)          1.0  1  0  0  1  1
+
+DP -- Arizona 1
+LOB -- Arizona 7, San Francisco 8
+2B -- Johnson K, Sanchez J, Tejada M, Torres A, Nady X
+HR -- Blanco H, Huff A
+SB -- Parra G, Roberts R, Johnson K
+WP -- Galarraga A
+T -- 2:57
+A -- 41026
+     Game of 5/12/2011 -- Arizona at San Francisco (D)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Johnson K, 2b         5  0  1  0   Torres A, cf          4  1  1  1   
+Parra G, cf           5  1  2  0   Sanchez F, 2b         3  0  0  0   
+Nady X, lf            4  1  2  0   Huff A, 1b            2  0  1  1   
+Drew S, ss            4  0  2  1   Ross C, lf            4  1  1  0   
+Upton J, rf           4  0  2  1   Schierholtz N, rf     4  0  3  1   
+Branyan R, 1b         4  0  0  0   Tejada M, ss          4  0  0  0   
+Roberts R, 3b         3  0  1  0   DeRosa M, 3b          3  0  0  0   
+Montero M, c          4  0  0  0   Whiteside E, c        4  1  2  0   
+Hudson D, p           2  0  0  0   Cain M, p             2  0  0  0   
+Demel S, p            0  0  0  0   Affeldt J, p          0  0  0  0   
+Miranda J, ph         1  0  0  0   Ramirez R, p          0  0  0  0   
+Vasquez E, p          0  0  0  0   Burrell P, ph         1  0  0  0   
+Young C, ph           1  0  1  0   Romo S, p             0  0  0  0   
+                                   Lopez J, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  2 11  2                        31  3  8  3
+
+Arizona          000 000 020 --  2
+San Francisco    010 000 20x --  3
+
+  Arizona              IP  H  R ER BB SO
+Hudson D (L)          6.2  7  3  3  3  5
+Demel S               0.1  0  0  0  0  1
+Vasquez E             1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (W)            7.2  7  2  2  1  7
+Affeldt J*            0.0  1  0  0  0  0
+Ramirez R             0.1  1  0  0  0  0
+Romo S+               0.0  1  0  0  0  0
+Lopez J (S)           1.0  1  0  0  0  2
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 9th
+
+E -- Parra G, Montero M
+LOB -- Arizona 9, San Francisco 9
+2B -- Ross C, Drew S, Whiteside E 2, Torres A, Schierholtz N
+SB -- Schierholtz N, Upton J
+CS -- Huff A
+SH -- Cain M
+HBP -- by Vasquez E (DeRosa M)
+T -- 2:46
+A -- 41126
+     Game of 5/20/2011 -- Oakland at San Francisco (N)
+
+  Oakland            AB  R  H RBI    San Francisco      AB  R  H RBI
+Crisp C, cf           5  0  1  0   Torres A, cf          3  1  1  0   
+Fuentes B, p          0  0  0  0   Sanchez F, 2b         3  0  0  1   
+Barton D, 1b          3  0  1  0   Huff A, 1b            4  0  1  1   
+DeJesus D, rf         4  0  0  0   Posey B, c            3  0  1  0   
+Willingham J, lf      4  0  1  0   Schierholtz N, rf     4  0  0  0   
+Suzuki K, c           4  0  0  0   Ross C, lf            4  0  1  0   
+Ellis M, 2b           3  1  2  0   Fontenot M, ss        3  0  0  0   
+Kouzmanoff K, 3b      3  0  0  0   Lopez J, p            0  0  0  0   
+Ziegler B, p          0  0  0  0   Tejada M, 3b          4  0  0  0   
+Sweeney R, cf         0  0  0  0   Vogelsong R, p        2  0  0  0   
+Pennington C, ss      4  0  0  0   Ramirez R, p          0  0  0  0   
+Cahill T, p           2  0  0  0   Affeldt J, p          0  0  0  0   
+Jackson C, ph         1  0  0  0   Romo S, p             0  0  0  0   
+Balfour G, p          0  0  0  0   Burrell P, ph         1  0  0  0   
+Wuertz M, p           0  0  0  0   Wilson B, p           0  0  0  0   
+LaRoche A, 3b         1  0  0  0   Burriss E, ss         1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  5  0                        32  2  5  2
+
+Oakland          000 010 000 0 --  1
+San Francisco    100 000 000 1 --  2
+  1 out when winning run was scored.
+
+  Oakland              IP  H  R ER BB SO
+Cahill T              6.0  1  1  1  2  6
+Balfour G             1.0  1  0  0  0  1
+Wuertz M              1.0  1  0  0  1  0
+Ziegler B             1.0  0  0  0  1  2
+Fuentes B (L)         0.1  2  1  1  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R           6.0  4  1  0  2  5
+Ramirez R             0.2  0  0  0  1  1
+Affeldt J             1.0  1  0  0  0  1
+Romo S                0.1  0  0  0  0  1
+Wilson B              1.0  0  0  0  0  0
+Lopez J (W)           1.0  0  0  0  0  0
+
+E -- Suzuki K, Huff A
+DP -- San Francisco 1
+LOB -- Oakland 6, San Francisco 9
+2B -- Posey B, Ellis M
+SB -- Torres A, Ellis M
+SH -- Torres A
+HBP -- by Cahill T (Sanchez F)
+PB -- Posey B
+T -- 3:26
+A -- 42224
+     Game of 5/21/2011 -- Oakland at San Francisco (D)
+
+  Oakland            AB  R  H RBI    San Francisco      AB  R  H RBI
+Crisp C, cf           4  0  0  0   Torres A, cf          3  1  0  0   
+Barton D, 1b          4  0  0  0   Sanchez F, 2b         4  0  2  0   
+Sweeney R, rf         4  0  1  0   Posey B, c            4  1  2  1   
+Jackson C, lf         3  0  0  0   Burrell P, lf         4  0  0  0   
+Ellis M, 2b           3  0  0  0   Schierholtz N, rf     0  0  0  0   
+Kouzmanoff K, 3b      3  0  0  0   Ross C, rf-lf         3  1  1  1   
+LaRoche A, 3b         0  0  0  0   Huff A, 1b            4  0  2  0   
+Powell L, c           3  0  1  0   Tejada M, 3b          3  0  1  1   
+Suzuki K, pr-c        0  0  0  0   Fontenot M, ss        3  0  1  0   
+Pennington C, ss      3  0  0  0   Lincecum T, p         3  0  0  0   
+Anderson B, p         1  0  0  0                                      
+Matsui H, ph          1  0  0  0                                      
+Devine J, p           0  0  0  0                                      
+Breslow C, p          0  0  0  0                                      
+Ziegler B, p          0  0  0  0                                      
+Blevins J, p          0  0  0  0                                      
+DeJesus D, ph         1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  3  0                        31  3  9  3
+
+Oakland          000 000 000 --  0
+San Francisco    100 000 02x --  3
+
+  Oakland              IP  H  R ER BB SO
+Anderson B (L)        5.0  5  1  1  1  5
+Devine J              1.0  1  0  0  0  0
+Breslow C             1.0  0  0  0  0  2
+Ziegler B             0.1  2  2  2  0  0
+Blevins J             0.2  1  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (W)        9.0  3  0  0  0  6
+
+E -- Powell L, Kouzmanoff K
+LOB -- Oakland 3, San Francisco 9
+2B -- Sanchez F, Posey B, Fontenot M
+SH -- Lincecum T
+SF -- Tejada M
+HBP -- by Anderson B (Ross C)
+T -- 2:24
+A -- 42152
+     Game of 5/22/2011 -- Oakland at San Francisco (D)
+
+  Oakland            AB  R  H RBI    San Francisco      AB  R  H RBI
+Crisp C, cf           6  1  2  1   Torres A, cf          5  1  0  0   
+Barton D, 1b          6  0  2  1   Sanchez F, 2b         4  0  2  1   
+Jackson C, rf         6  0  1  0   Wilson B, p           0  0  0  0   
+Fuentes B, p          0  0  0  0   Romo S, p             0  0  0  0   
+Willingham J, lf      2  1  1  1   Ford D, ph            1  1  1  0   
+Suzuki K, c           5  0  1  0   Posey B, c            5  1  1  0   
+Ellis M, 2b           3  1  0  0   Burrell P, lf         3  0  1  0   
+LaRoche A, 3b         4  0  0  0   Burriss E, pr-lf-2b   2  0  1  1   
+Pennington C, ss      5  1  3  0   Ross C, rf-lf         4  0  1  0   
+Gonzalez G, p         2  0  0  0   Huff A, 1b            5  0  1  0   
+Wuertz M, p           0  0  0  0   Tejada M, 3b          5  1  2  0   
+Matsui H, ph          0  0  0  1   Fontenot M, ss        5  0  1  0   
+Balfour G, p          0  0  0  0   Sanchez J, p          2  0  1  0   
+Devine J, p           0  0  0  0   Rowand A, ph          1  0  0  0   
+Breslow C, p          0  0  0  0   Affeldt J, p          0  0  0  0   
+Sweeney R, ph-rf      1  0  1  0   Ramirez R, p          0  0  0  0   
+                                   Runzler D, p          0  0  0  0   
+                                   Schierholtz N, ph-rf  2  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     40  4 11  4                        44  5 13  4
+
+Oakland          000 001 210 00 --  4
+San Francisco    101 000 020 01 --  5
+  1 out when winning run was scored.
+
+  Oakland              IP  H  R ER BB SO
+Gonzalez G            6.2  8  2  1  2  8
+Wuertz M              0.1  0  0  0  0  0
+Balfour G             1.0  2  2  2  0  1
+Devine J              1.0  0  0  0  0  0
+Breslow C             1.0  1  0  0  0  0
+Fuentes B (L)         0.1  2  1  1  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Sanchez J             6.0  5  1  1  2  5
+Affeldt J             0.1  3  2  2  0  0
+Ramirez R             1.0  1  1  1  2  1
+Runzler D             0.2  0  0  0  0  1
+Wilson B              1.0  1  0  0  1  0
+Romo S (W)            2.0  1  0  0  0  3
+
+E -- LaRoche A, Fontenot M, Huff A
+DP -- Oakland 1, San Francisco 2
+LOB -- Oakland 11, San Francisco 13
+2B -- Sanchez F, Burrell P, Suzuki K, Ross C, Crisp C
+HR -- Willingham J, Schierholtz N
+SB -- Ellis M, Barton D, Crisp C, Ford D
+SH -- Gonzalez G, LaRoche A
+SF -- Matsui H
+HBP -- by Gonzalez G (Torres A), by Gonzalez G (Sanchez F)
+T -- 3:54
+A -- 42288
+     Game of 5/24/2011 -- Florida at San Francisco (N)
+
+  Florida            AB  R  H RBI    San Francisco      AB  R  H RBI
+Coghlan C, cf         4  2  1  0   Torres A, cf          3  0  2  0   
+Ramirez H, ss         3  1  0  0   Sanchez F, 2b         4  0  1  0   
+Morrison L, lf        4  1  0  0   Huff A, 1b            4  0  0  0   
+Sanchez G, 1b         4  0  3  3   Posey B, c            4  1  2  0   
+Dobbs G, 3b           5  0  1  0   Schierholtz N, rf     4  0  0  0   
+Stanton M, rf         3  1  1  1   Ross C, lf            3  0  2  0   
+Buck J, c             4  0  0  0   Fontenot M, ss        3  0  0  0   
+Infante O, 2b         3  0  3  0   Mota G, p             0  0  0  0   
+Nolasco R, p          3  0  0  0   Burrell P, ph         0  0  0  0   
+Nunez L, p            0  0  0  0   Tejada M, 3b          3  0  0  1   
+                                   Cain M, p             1  0  0  0   
+                                   Rowand A, ph          1  0  0  0   
+                                   Runzler D, p          0  0  0  0   
+                                   Burriss E, ss         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  9  4                        32  1  7  1
+
+Florida          003 100 001 --  5
+San Francisco    000 000 001 --  1
+
+  Florida              IP  H  R ER BB SO
+Nolasco R (W)         8.1  7  1  1  2  5
+Nunez L (S)           0.2  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (L)            6.0  6  4  4  3  5
+Runzler D*            1.0  2  0  0  1  2
+Mota G                2.0  1  1  1  2  2
+  * Pitched to 3 batters in 8th
+
+DP -- Florida 1, San Francisco 1
+LOB -- Florida 9, San Francisco 8
+2B -- Torres A 2, Sanchez G, Coghlan C, Ross C
+HR -- Stanton M
+SH -- Nolasco R, Ramirez H
+SF -- Tejada M
+HBP -- by Nolasco R (Torres A)
+WP -- Mota G
+T -- 2:43
+A -- 41165
+     Game of 5/25/2011 -- Florida at San Francisco (N)
+
+  Florida            AB  R  H RBI    San Francisco      AB  R  H RBI
+Coghlan C, cf         5  2  2  0   Torres A, cf          5  1  1  1   
+Badenhop B, p         0  0  0  0   Sanchez F, 2b         6  1  4  0   
+Ramirez H, ss         3  1  0  1   Huff A, 1b            6  0  1  2   
+Mujica E, p           0  0  0  0   Posey B, c            5  0  1  0   
+Nunez L, p            0  0  0  0   Whiteside E, c        1  0  0  0   
+Dobbs G, 3b           1  0  1  0   Ross C, lf            5  0  0  0   
+Morrison L, lf        5  2  3  0   Wilson B, p           0  0  0  0   
+Sanchez G, 1b         5  0  1  1   Mota G, p             1  0  0  0   
+Stanton M, rf         6  0  4  4   Schierholtz N, rf     5  1  2  0   
+Buck J, c             5  0  1  0   Fontenot M, ss        2  0  0  0   
+Helms W, 3b           5  0  0  0   Burriss E, ss         2  0  1  0   
+Webb R, p             0  0  0  0   Tejada M, 3b          5  2  2  0   
+Cousins S, ph-cf      1  1  0  0   Bumgarner M, p        1  0  0  0   
+Infante O, 2b         6  0  2  0   Ramirez R, p          0  0  0  0   
+Volstad C, p          3  0  0  0   Rowand A, ph          1  0  0  0   
+Dunn M, p             0  0  0  0   Romo S, p             0  0  0  0   
+Choate R, p           0  0  0  0   Lopez J, p            0  0  0  0   
+Hensley C, p          0  0  0  0   Affeldt J, p          0  0  0  0   
+Bonifacio E, ph-ss    1  1  0  1   Burrell P, ph-lf      2  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     46  7 14  7                        47  6 13  4
+
+Florida          200 010 003 001 --  7
+San Francisco    002 000 004 000 --  6
+
+  Florida              IP  H  R ER BB SO
+Volstad C             6.0  6  2  2  2  6
+Dunn M                1.0  0  0  0  0  0
+Choate R              0.1  0  0  0  0  0
+Hensley C             0.2  0  0  0  0  0
+Mujica E              0.1  2  2  2  0  0
+Nunez L               0.2  4  2  2  0  1
+Webb R (W)            2.0  1  0  0  0  0
+Badenhop B (S)        1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M*          6.0  8  3  3  2  4
+Ramirez R             1.0  1  0  0  1  1
+Romo S                1.0  0  0  0  0  3
+Lopez J               0.2  1  3  3  2  1
+Affeldt J             0.1  0  0  0  0  0
+Wilson B              2.0  2  0  0  0  1
+Mota G (L)            1.0  2  1  1  0  0
+  * Pitched to 1 batter in 7th
+
+DP -- San Francisco 1
+LOB -- Florida 12, San Francisco 9
+2B -- Stanton M 2, Torres A, Coghlan C, Tejada M, Sanchez F
+SB -- Ramirez H, Torres A, Coghlan C 2
+SH -- Bumgarner M, Coghlan C, Burriss E
+SF -- Bonifacio E
+HBP -- by Bumgarner M (Coghlan C), by Lopez J (Ramirez H)
+PB -- Buck J
+T -- 4:06
+A -- 41037
+     Game of 5/26/2011 -- Florida at San Francisco (D)
+
+  Florida            AB  R  H RBI    San Francisco      AB  R  H RBI
+Coghlan C, cf         5  1  1  0   Torres A, cf          4  0  1  0   
+Bonifacio E, ss       3  0  1  0   Ramirez R, p          0  0  0  0   
+Morrison L, lf        4  0  2  1   Burriss E, ss         3  0  1  0   
+Sanchez G, 1b         4  0  0  0   Sanchez F, 2b         3  0  1  0   
+Dobbs G, 3b           4  0  1  0   Huff A, 1b            4  0  0  0   
+Stanton M, rf         4  0  1  0   Ross C, rf-lf         4  0  0  0   
+Buck J, c             4  0  2  0   Rowand A, lf-cf       3  0  1  0   
+Infante O, 2b         4  0  1  0   Tejada M, 3b          3  0  0  0   
+Sanchez A, p          2  0  1  0   Whiteside E, c        2  0  0  0   
+                                   Schierholtz N, ph-rf  1  0  0  0   
+                                   Vogelsong R, p        2  0  1  0   
+                                   Burrell P, ph         0  0  0  0   
+                                   Stewart C, pr-c       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1 10  1                        29  0  5  0
+
+Florida          000 001 000 --  1
+San Francisco    000 000 000 --  0
+
+  Florida              IP  H  R ER BB SO
+Sanchez A (W)         9.0  5  0  0  2  8
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R (L)       8.0  8  1  1  1  3
+Ramirez R             1.0  2  0  0  0  0
+
+DP -- Florida 2, San Francisco 1
+LOB -- Florida 9, San Francisco 5
+2B -- Rowand A, Stanton M, Coghlan C, Sanchez F
+SB -- Burriss E
+SH -- Burriss E, Sanchez A, Bonifacio E
+T -- 2:18
+A -- 41472
+     Game of 6/3/2011 -- Colorado at San Francisco (N)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Smith S, rf           5  0  0  0   Torres A, cf          4  0  0  0   
+Herrera J, 2b         4  0  0  0   Burriss E, 3b         4  0  3  0   
+Gonzalez C, lf        3  1  1  0   Sanchez F, 2b         4  1  1  0   
+Tulowitzki T, ss      3  0  1  0   Huff A, 1b            4  0  0  0   
+Helton T, 1b          3  0  0  1   Schierholtz N, rf     4  1  1  0   
+Wigginton T, 3b       4  0  0  0   Ross C, lf            3  1  2  2   
+Iannetta C, c         2  0  0  0   Crawford B, ss        2  0  1  1   
+Fowler D, cf          3  0  0  0   Whiteside E, c        3  0  0  0   
+Giambi J, ph          1  0  1  0   Cain M, p             2  0  1  0   
+Nelson C, pr          0  0  0  0   Rowand A, ph          1  0  0  0   
+Nicasio J, p          2  0  2  0   Lopez J, p            0  0  0  0   
+Young E, ph           1  0  0  0   Wilson B, p           0  0  0  0   
+Belisle M, p          0  0  0  0                                      
+Reynolds M, p         0  0  0  0                                      
+Spilborghs R, ph      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  5  1                        31  3  9  3
+
+Colorado         000 100 000 --  1
+San Francisco    000 300 00x --  3
+
+  Colorado             IP  H  R ER BB SO
+Nicasio J (L)         6.0  9  3  3  1  3
+Belisle M             1.0  0  0  0  0  2
+Reynolds M            1.0  0  0  0  0  3
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (W)            7.0  4  1  1  4  7
+Lopez J               1.0  0  0  0  0  2
+Wilson B (S)          1.0  1  0  0  1  1
+
+DP -- Colorado 1
+LOB -- Colorado 9, San Francisco 5
+2B -- Nicasio J 2, Tulowitzki T, Ross C 2, Crawford B
+SB -- Gonzalez C
+CS -- Burriss E
+WP -- Nicasio J, Cain M
+T -- 2:33
+A -- 41021
+     Game of 6/4/2011 -- Colorado at San Francisco (D)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Young E, cf           3  1  1  0   Torres A, cf          4  0  1  0   
+Fowler D, cf          0  0  0  0   Burriss E, 2b         4  0  0  0   
+Herrera J, 2b         3  0  0  0   Schierholtz N, rf     3  0  1  0   
+Gonzalez C, lf        4  0  1  0   Huff A, 1b            3  0  0  0   
+Tulowitzki T, ss      4  1  3  1   Ross C, lf            4  1  1  1   
+Wigginton T, 1b       4  0  1  0   Crawford B, ss        4  0  0  0   
+Street H, p           0  0  0  0   Tejada M, 3b          3  0  1  0   
+Spilborghs R, rf      4  0  1  0   Stewart C, c          2  0  0  0   
+Nelson C, 3b          3  0  1  0   Rowand A, ph          1  0  0  0   
+Morales J, c          3  0  0  0   Affeldt J, p          0  0  0  0   
+Chacin J, p           2  0  0  0   Ramirez R, p          0  0  0  0   
+Lindstrom M, p        0  0  0  0   Bumgarner M, p        1  0  0  0   
+Smith S, ph           1  0  1  0   Burrell P, ph         1  0  0  0   
+Betancourt R, p       0  0  0  0   Whiteside E, c        0  0  0  0   
+Helton T, 1b          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  9  1                        30  1  4  1
+
+Colorado         000 011 000 --  2
+San Francisco    000 001 000 --  1
+
+  Colorado             IP  H  R ER BB SO
+Chacin J (W)          6.0  4  1  1  3  2
+Lindstrom M           1.0  0  0  0  0  0
+Betancourt R          1.0  0  0  0  0  0
+Street H (S)          1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (L)       7.0  7  2  1  1  6
+Affeldt J             1.0  1  0  0  0  1
+Ramirez R             1.0  1  0  0  1  0
+
+E -- Crawford B
+DP -- San Francisco 1
+LOB -- Colorado 6, San Francisco 5
+2B -- Schierholtz N, Torres A
+HR -- Ross C
+SB -- Tulowitzki T
+CS -- Gonzalez C
+SH -- Herrera J, Fowler D
+PB -- Whiteside E
+T -- 2:41
+A -- 41046
+     Game of 6/5/2011 -- Colorado at San Francisco (D)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Young E, cf           4  0  0  0   Torres A, cf          3  1  1  1   
+Lindstrom M, p        0  0  0  0   Tejada M, 3b          4  0  2  0   
+Smith S, rf           4  0  1  0   Sanchez F, 2b         4  0  1  1   
+Gonzalez C, lf        4  0  0  0   Huff A, 1b            3  0  0  0   
+Tulowitzki T, ss      4  0  0  0   Schierholtz N, rf     3  0  0  0   
+Helton T, 1b          2  0  0  0   Ross C, lf            3  0  0  0   
+Wigginton T, 3b       3  0  2  0   Crawford B, ss        2  0  0  0   
+Nelson C, 2b          3  0  0  0   Whiteside E, c        2  0  0  0   
+Iannetta C, c         3  1  1  1   Burrell P, ph         0  0  0  0   
+Hammel J, p           2  0  0  0   Burriss E, pr         0  1  0  0   
+Spilborghs R, ph-cf   1  0  0  0   Wilson B, p           0  0  0  0   
+                                   Vogelsong R, p        2  0  0  0   
+                                   Stewart C, c          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        26  2  4  2
+
+Colorado         000 010 000 --  1
+San Francisco    000 001 01x --  2
+
+  Colorado             IP  H  R ER BB SO
+Hammel J              7.0  2  1  1  2  4
+Lindstrom M (L)       1.0  2  1  1  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R (W)       8.0  4  1  1  1  7
+Wilson B (S)          1.0  0  0  0  0  2
+
+DP -- San Francisco 1
+LOB -- Colorado 3, San Francisco 4
+HR -- Iannetta C
+SH -- Vogelsong R
+WP -- Lindstrom M
+PB -- Iannetta C
+T -- 2:13
+A -- 41369
+     Game of 6/6/2011 -- Washington at San Francisco (N)
+
+  Washington         AB  R  H RBI    San Francisco      AB  R  H RBI
+Bernadina R, cf-lf    4  1  1  0   Torres A, cf          6  0  2  0   
+Desmond I, ss         6  0  3  0   Tejada M, 3b          6  0  1  0   
+Werth J, rf           5  0  0  0   Sanchez F, 2b         5  1  2  1   
+Nix L, lf             4  1  0  1   Ross C, rf            5  1  1  0   
+Ankiel R, cf          2  0  0  0   Huff A, 1b            6  1  1  2   
+Morse M, 1b           6  1  2  3   Rowand A, lf          6  1  1  1   
+Espinosa D, 2b        6  0  1  0   Crawford B, ss        6  0  2  0   
+Stammen C, p          0  0  0  0   Whiteside E, c        2  0  0  0   
+Rodriguez I, c        6  0  0  0   Schierholtz N, ph     1  0  1  1   
+Hairston J, 3b        4  0  0  0   Stewart C, c          1  1  0  0   
+Lannan J, p           1  1  0  0   Lincecum T, p         1  0  0  0   
+Coffey T, p           0  0  0  0   Burriss E, ph         1  0  0  0   
+Burnett S, p          0  0  0  0   Mota G, p             0  0  0  0   
+Rodriguez H, p        0  0  0  0   Gillaspie C, ph       1  0  1  0   
+Ramos W, ph           1  0  1  0   Casilla S, p          0  0  0  0   
+Bixler B, pr          0  0  0  0   Burrell P, ph         1  0  0  0   
+Kimball C, p          0  0  0  0   Wilson B, p           0  0  0  0   
+Stairs M, ph          1  0  1  0   Affeldt J, p          0  0  0  0   
+Marquis J, pr         0  0  0  0   Romo S, p             0  0  0  0   
+Storen D, p           0  0  0  0   Lopez J, p            1  0  0  0   
+Cora A, 2b            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     46  4  9  4                        49  5 12  5
+
+Washington       013 000 000 000 0 --  4
+San Francisco    000 000 130 000 1 --  5
+  2 outs when winning run was scored.
+
+  Washington           IP  H  R ER BB SO
+Lannan J              7.0  4  1  1  3  6
+Coffey T              0.1  2  2  2  0  0
+Burnett S*            0.0  1  1  1  0  0
+Rodriguez H           1.2  2  0  0  2  2
+Kimball C             2.0  1  0  0  1  2
+Storen D              1.0  0  0  0  0  1
+Stammen C (L)         0.2  2  1  1  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T            5.0  5  4  4  3  5
+Mota G                2.0  0  0  0  1  3
+Casilla S             1.0  0  0  0  0  1
+Wilson B              1.0  0  0  0  0  1
+Affeldt J             1.2  2  0  0  0  3
+Romo S                1.0  2  0  0  1  1
+Lopez J (W)           1.1  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+DP -- San Francisco 1
+LOB -- Washington 9, San Francisco 14
+2B -- Morse M, Ross C, Espinosa D
+HR -- Morse M, Rowand A
+SB -- Desmond I, Torres A
+SH -- Lannan J, Tejada M
+WP -- Kimball C
+T -- 4:29
+A -- 41180
+     Game of 6/7/2011 -- Washington at San Francisco (N)
+
+  Washington         AB  R  H RBI    San Francisco      AB  R  H RBI
+Bernadina R, lf       4  0  1  0   Torres A, cf          4  0  1  0   
+Desmond I, ss         4  0  1  1   Casilla S, p          0  0  0  0   
+Espinosa D, 2b        5  0  1  0   Gillaspie C, 3b       4  0  1  0   
+Morse M, 1b           3  0  1  0   Sanchez F, 2b         4  0  0  0   
+Ramos W, c            4  0  2  0   Huff A, 1b            4  1  1  0   
+Ankiel R, cf          4  1  1  0   Schierholtz N, rf     4  0  1  1   
+Hairston J, 3b        2  0  0  0   Rowand A, lf-cf       4  0  1  0   
+Bixler B, pr-3b       1  0  0  0   Crawford B, ss        2  0  0  0   
+Cora A, 3b            0  0  0  0   Stewart C, c          3  0  0  0   
+Nix L, rf             2  1  0  0   Sanchez J, p          1  0  0  0   
+Zimmermann J, p       1  0  0  1   Burrell P, ph         1  0  0  0   
+Werth J, ph           1  0  0  0   Ramirez R, p          0  0  0  0   
+Clippard T, p         0  0  0  0   Lopez J, p            0  0  0  0   
+Storen D, p           0  0  0  0   Ross C, ph-lf         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  7  2                        31  1  5  1
+
+Washington       001 100 000 --  2
+San Francisco    010 000 000 --  1
+
+  Washington           IP  H  R ER BB SO
+Zimmermann J (W)      7.0  5  1  1  1  3
+Clippard T            1.0  0  0  0  1  1
+Storen D (S)          1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Sanchez J (L)         5.0  4  2  2  5  6
+Ramirez R             2.0  2  0  0  1  2
+Lopez J               1.0  0  0  0  0  1
+Casilla S             1.0  1  0  0  0  0
+
+E -- Huff A, Torres A
+DP -- San Francisco 3
+LOB -- Washington 11, San Francisco 5
+2B -- Morse M, Schierholtz N, Ankiel R
+3B -- Huff A
+SB -- Bernadina R
+CS -- Crawford B
+SH -- Zimmermann J 2
+HBP -- by Sanchez J (Bernadina R)
+T -- 2:37
+A -- 41786
+     Game of 6/8/2011 -- Washington at San Francisco (D)
+
+  Washington         AB  R  H RBI    San Francisco      AB  R  H RBI
+Bernadina R, lf       3  0  0  0   Torres A, cf          2  0  0  0   
+Desmond I, ss         4  0  2  0   Tejada M, 3b          4  0  1  0   
+Nix L, rf             4  0  0  0   Sanchez F, 2b         4  0  0  0   
+Morse M, 1b           4  1  1  0   Huff A, 1b            4  0  1  0   
+Ramos W, c            4  0  0  0   Ross C, rf            4  1  1  0   
+Espinosa D, 2b        4  0  1  0   Rowand A, lf          3  0  0  0   
+Ankiel R, cf          3  0  1  1   Crawford B, ss        3  1  2  1   
+Cora A, 3b            3  0  0  0   Whiteside E, c        3  1  2  1   
+Maya Y, p             2  0  0  0   Cain M, p             3  0  1  1   
+Burnett S, p          0  0  0  0                                      
+Stairs M, ph          1  0  0  0                                      
+Coffey T, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  5  1                        30  3  8  3
+
+Washington       000 000 100 --  1
+San Francisco    000 001 20x --  3
+
+  Washington           IP  H  R ER BB SO
+Maya Y                6.0  4  1  1  1  1
+Burnett S (L)         1.0  3  2  2  0  0
+Coffey T              1.0  1  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (W)            9.0  5  1  1  1 11
+
+E -- Cain M
+DP -- Washington 1
+LOB -- Washington 5, San Francisco 5
+2B -- Whiteside E, Cain M, Ankiel R
+3B -- Crawford B
+SB -- Bernadina R, Morse M
+CS -- Crawford B
+WP -- Maya Y
+T -- 2:16
+A -- 41738
+     Game of 6/9/2011 -- Cincinnati at San Francisco (N)
+
+  Cincinnati         AB  R  H RBI    San Francisco      AB  R  H RBI
+Stubbs D, cf          4  0  0  0   Torres A, cf          3  0  0  0   
+Phillips B, 2b        5  0  2  1   Tejada M, 3b          4  0  2  0   
+Votto J, 1b           5  1  2  0   Sanchez F, 2b         3  0  1  0   
+Bruce J, rf           3  0  0  0   Huff A, 1b            3  0  1  0   
+Rolen S, 3b           3  1  1  0   Schierholtz N, rf     4  0  0  0   
+Gomes J, lf           4  0  3  1   Ross C, lf            3  0  0  0   
+Masset N, p           0  0  0  0   Crawford B, ss        3  0  0  0   
+Cordero F, p          0  0  0  0   Whiteside E, c        3  0  0  0   
+Renteria E, ss        4  0  1  0   Bumgarner M, p        2  0  0  0   
+Janish P, ss          0  0  0  0   Casilla S, p          0  0  0  0   
+Hernandez R, c        4  0  1  0   Gillaspie C, ph       1  0  0  0   
+Cueto J, p            3  0  0  0   Mota G, p             0  0  0  0   
+Heisey C, lf          1  1  1  0   Lopez J, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3 11  2                        29  0  4  0
+
+Cincinnati       000 100 011 --  3
+San Francisco    000 000 000 --  0
+
+  Cincinnati           IP  H  R ER BB SO
+Cueto J (W)           7.0  4  0  0  2  8
+Masset N              1.0  0  0  0  0  1
+Cordero F (S)         1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (L)       7.0  8  1  1  0  7
+Casilla S             1.0  1  1  0  2  0
+Mota G                0.2  2  1  1  1  1
+Lopez J               0.1  0  0  0  0  0
+
+DP -- San Francisco 3
+LOB -- Cincinnati 9, San Francisco 5
+2B -- Tejada M 2, Hernandez R, Rolen S, Votto J
+CS -- Phillips B, Torres A
+SH -- Sanchez F
+PB -- Whiteside E
+T -- 2:53
+A -- 41106
+     Game of 6/10/2011 -- Cincinnati at San Francisco (N)
+
+  Cincinnati         AB  R  H RBI    San Francisco      AB  R  H RBI
+Stubbs D, cf          5  0  1  0   Burriss E, ss-2b      4  0  1  0   
+Phillips B, 2b        5  1  3  0   Tejada M, 3b          3  1  2  1   
+Votto J, 1b           2  0  0  0   Sanchez F, 2b         2  0  1  0   
+Bruce J, rf           4  0  1  0   Crawford B, ss        3  0  0  0   
+Rolen S, 3b           4  1  1  0   Ross C, rf            4  0  2  1   
+Heisey C, lf          3  0  0  1   Burrell P, lf         3  0  0  0   
+Hanigan R, c          4  0  2  1   Affeldt J, p          0  0  0  0   
+Janish P, ss          4  0  0  0   Romo S, p             0  0  0  0   
+Wood T, p             2  0  0  0   Cain M, ph            1  0  0  0   
+Lewis F, ph           1  0  1  0   Wilson B, p           0  0  0  0   
+Arredondo J, p        0  0  0  0   Schierholtz N, ph     1  0  1  1   
+Bray B, p             0  0  0  0   Huff A, 1b            4  0  2  0   
+Ondrusek L, p         0  0  0  0   Rowand A, cf-lf       3  0  2  0   
+                                   Stewart C, c          4  1  1  0   
+                                   Vogelsong R, p        1  0  0  0   
+                                   Torres A, cf          0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  9  2                        33  3 12  3
+
+Cincinnati       000 110 000 --  2
+San Francisco    100 010 001 --  3
+  2 outs when winning run was scored.
+
+  Cincinnati           IP  H  R ER BB SO
+Wood T                8.0 11  2  2  3  4
+Arredondo J (L)       0.1  0  1  1  2  0
+Bray B                0.1  0  0  0  0  1
+Ondrusek L            0.0  1  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R           6.0  8  2  2  3  6
+Affeldt J             1.0  0  0  0  0  2
+Romo S                1.0  0  0  0  0  3
+Wilson B (W)          1.0  1  0  0  0  1
+
+E -- Burriss E, Heisey C
+DP -- Cincinnati 1, San Francisco 2
+LOB -- Cincinnati 9, San Francisco 12
+2B -- Tejada M 2, Huff A
+3B -- Rolen S
+CS -- Burriss E
+SH -- Wood T, Vogelsong R, Burriss E
+T -- 3:09
+A -- 41686
+     Game of 6/11/2011 -- Cincinnati at San Francisco (D)
+
+  Cincinnati         AB  R  H RBI    San Francisco      AB  R  H RBI
+Stubbs D, cf          3  2  1  1   Burriss E, 2b-ss      5  0  0  0   
+Phillips B, 2b        6  2  1  2   Tejada M, 3b          3  0  0  0   
+Votto J, 1b           5  1  3  1   Gillaspie C, 3b       1  0  0  0   
+Bruce J, rf           5  1  1  1   Huff A, 1b            3  0  0  0   
+Rolen S, 3b           3  0  0  1   Stewart C, 1b         1  0  0  0   
+Cairo M, 3b           0  1  0  0   Ross C, lf-cf         4  0  1  0   
+Lewis F, lf           2  0  0  0   Schierholtz N, rf     4  0  1  0   
+Hanigan R, c          3  2  2  1   Rowand A, cf          2  0  1  0   
+Janish P, ss          5  0  2  1   Ramirez R, p          0  0  0  0   
+Leake M, p            4  1  2  0   Casilla S, p          0  0  0  0   
+Gomes J, ph           0  0  0  1   Lopez J, p            0  0  0  0   
+Fisher C, p           0  0  0  0   Affeldt J, p          0  0  0  0   
+                                   Torres A, ph          0  1  0  0   
+                                   Crawford B, ss        2  0  0  0   
+                                   Mota G, p             0  0  0  0   
+                                   Burrell P, ph-lf      2  1  1  2   
+                                   Whiteside E, c        4  0  2  0   
+                                   Lincecum T, p         1  0  0  0   
+                                   Hall B, 2b            2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36 10 12  9                        34  2  6  2
+
+Cincinnati       012 040 102 -- 10
+San Francisco    000 000 002 --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Leake M (W)           8.0  4  0  0  1  8
+Fisher C              1.0  2  2  2  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (L)*       4.0  7  7  7  4  1
+Mota G                2.0  2  0  0  2  0
+Ramirez R             1.0  2  1  1  0  3
+Casilla S             1.0  0  0  0  0  1
+Lopez J               0.2  1  2  2  4  1
+Affeldt J             0.1  0  0  0  0  0
+  * Pitched to 4 batters in 5th
+
+E -- Votto J
+DP -- San Francisco 1
+LOB -- Cincinnati 10, San Francisco 8
+2B -- Leake M, Phillips B, Votto J, Stubbs D, Ross C, Janish P
+HR -- Burrell P
+SB -- Bruce J
+CS -- Lewis F
+SF -- Rolen S
+HBP -- by Leake M (Rowand A)
+WP -- Lincecum T 2
+T -- 3:14
+A -- 41735
+     Game of 6/12/2011 -- Cincinnati at San Francisco (N)
+
+  Cincinnati         AB  R  H RBI    San Francisco      AB  R  H RBI
+Stubbs D, cf          2  0  2  0   Torres A, cf          4  1  1  0   
+Phillips B, 2b        4  0  0  0   Tejada M, 3b          3  0  1  0   
+Votto J, 1b           3  1  0  0   Schierholtz N, rf     2  2  1  1   
+Bruce J, rf           2  1  0  0   Huff A, 1b            4  0  3  2   
+Rolen S, 3b           4  0  1  1   Ross C, lf            3  0  0  1   
+Gomes J, lf           2  0  0  0   Crawford B, ss        4  0  0  0   
+Renteria E, ss        3  0  0  1   Burriss E, 2b         3  0  0  0   
+Hernandez R, c        4  0  2  0   Stewart C, c          3  1  1  0   
+Leake M, pr           0  0  0  0   Sanchez J, p          2  0  0  0   
+Volquez E, p          2  0  1  0   Ramirez R, p          0  0  0  0   
+Lewis F, ph           1  0  0  0   Burrell P, ph         1  0  0  0   
+Arredondo J, p        0  0  0  0   Lopez J, p            0  0  0  0   
+Bray B, p             0  0  0  0   Romo S, p             0  0  0  0   
+Masset N, p           0  0  0  0   Gillaspie C, ph       0  0  0  0   
+Heisey C, ph          1  0  0  0   Wilson B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  2  6  2                        29  4  7  4
+
+Cincinnati       000 200 000 --  2
+San Francisco    000 101 20x --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Volquez E             6.0  5  2  2  3  5
+Arredondo J (L)       0.1  1  2  2  2  1
+Bray B                0.1  1  0  0  0  0
+Masset N              1.1  0  0  0  2  0
+
+  San Francisco        IP  H  R ER BB SO
+Sanchez J             6.0  5  2  2  5  5
+Ramirez R (W)         1.0  0  0  0  0  2
+Lopez J               0.2  0  0  0  0  2
+Romo S                0.1  0  0  0  0  0
+Wilson B (S)          1.0  1  0  0  0  1
+
+DP -- San Francisco 3
+LOB -- Cincinnati 7, San Francisco 9
+2B -- Rolen S, Huff A, Stewart C, Torres A
+SB -- Tejada M
+CS -- Torres A, Bruce J
+SF -- Renteria E, Schierholtz N
+HBP -- by Sanchez J (Votto J), by Ramirez R (Stubbs D)
+Balk -- Ramirez R
+T -- 3:20
+A -- 42084
+     Game of 6/21/2011 -- Minnesota at San Francisco (N)
+
+  Minnesota          AB  R  H RBI    San Francisco      AB  R  H RBI
+Revere B, cf          5  1  2  2   Torres A, cf          3  0  0  0   
+Casilla A, 2b         5  2  2  1   Casilla S, p          0  0  0  0   
+Mauer J, c            5  1  2  1   Stewart C, c          1  0  0  0   
+Butera D, pr-c        0  0  0  0   Tejada M, ss          4  1  1  0   
+Cuddyer M, rf         4  1  1  1   Sandoval P, 3b        4  0  1  0   
+Young D, lf           5  1  2  1   Huff A, 1b            2  0  2  0   
+Valencia D, 3b        5  1  2  1   Burriss E, 1b         2  0  1  1   
+Hughes L, 1b          5  1  2  2   Ross C, lf-cf         4  0  0  0   
+Nishioka T, ss        4  1  1  0   Schierholtz N, rf     4  0  0  0   
+Pavano C, p           4  0  0  0   Hall B, 2b            4  0  1  0   
+Mijares J, p          0  0  0  0   Whiteside E, c        3  1  2  1   
+                                   Affeldt J, p          0  0  0  0   
+                                   Romo S, p             0  0  0  0   
+                                   Rowand A, ph          1  0  0  0   
+                                   Bumgarner M, p        0  0  0  0   
+                                   Mota G, p             1  0  1  0   
+                                   Burrell P, ph-lf      2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42  9 14  9                        35  2  9  2
+
+Minnesota        800 000 001 --  9
+San Francisco    000 000 110 --  2
+
+  Minnesota            IP  H  R ER BB SO
+Pavano C (W)          8.0  9  2  2  0  2
+Mijares J             1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (L)       0.1  9  8  8  0  1
+Mota G                4.2  3  0  0  0  3
+Casilla S             2.0  0  0  0  1  2
+Affeldt J             1.0  0  0  0  0  1
+Romo S                1.0  2  1  1  0  1
+
+E -- Sandoval P, Tejada M
+DP -- Minnesota 1, San Francisco 1
+LOB -- Minnesota 7, San Francisco 6
+2B -- Casilla A, Cuddyer M, Valencia D, Nishioka T, Revere B, Mota G, Huff A, Mauer J
+HR -- Whiteside E, Casilla A
+T -- 2:39
+A -- 41958
+     Game of 6/22/2011 -- Minnesota at San Francisco (N)
+
+  Minnesota          AB  R  H RBI    San Francisco      AB  R  H RBI
+Revere B, cf          4  0  0  0   Rowand A, cf          4  0  0  0   
+Casilla A, 2b         4  0  1  0   Burriss E, 2b         3  1  0  0   
+Mauer J, c            4  0  0  0   Sandoval P, 3b        5  0  1  0   
+Cuddyer M, rf         4  1  2  0   Huff A, 1b            5  0  1  1   
+Young D, lf           4  0  2  0   Ross C, lf            3  1  1  0   
+Valencia D, 3b        4  0  0  0   Schierholtz N, rf     2  1  1  0   
+Hughes L, 1b          2  0  0  0   Crawford B, ss        3  1  0  0   
+Nishioka T, ss        4  0  1  1   Whiteside E, c        4  0  2  3   
+Blackburn N, p        2  0  0  0   Vogelsong R, p        3  0  0  0   
+Tolbert M, ph         1  0  0  0   Lopez J, p            0  0  0  0   
+Dumatrait P, p        0  0  0  0   Romo S, p             0  0  0  0   
+Burnett A, p          0  0  0  0   Burrell P, ph         1  0  1  0   
+Mijares J, p          0  0  0  0   Torres A, pr          0  1  0  0   
+Hoey J, p             0  0  0  0   Wilson B, p           0  0  0  0   
+Tosoni R, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  1  6  1                        33  5  7  4
+
+Minnesota        000 000 100 --  1
+San Francisco    020 001 11x --  5
+
+  Minnesota            IP  H  R ER BB SO
+Blackburn N (L)       6.0  4  3  2  3  4
+Dumatrait P           0.1  1  1  1  0  1
+Burnett A             0.1  0  0  0  0  0
+Mijares J             0.1  0  0  0  1  1
+Hoey J                1.0  2  1  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R (W)       7.0  4  1  1  1  3
+Lopez J               0.2  1  0  0  0  1
+Romo S                0.1  0  0  0  0  1
+Wilson B              1.0  1  0  0  1  0
+
+E -- Valencia D, Casilla A, Crawford B, Nishioka T
+LOB -- Minnesota 8, San Francisco 11
+2B -- Schierholtz N, Burrell P, Young D
+3B -- Whiteside E
+SB -- Rowand A, Cuddyer M, Burriss E, Casilla A
+SH -- Burriss E
+HBP -- by Blackburn N (Rowand A), by Dumatrait P (Burriss E)
+T -- 2:58
+A -- 41886
+     Game of 6/23/2011 -- Minnesota at San Francisco (D)
+
+  Minnesota          AB  R  H RBI    San Francisco      AB  R  H RBI
+Revere B, cf          4  0  1  0   Rowand A, cf          3  0  2  0   
+Casilla A, 2b         2  1  0  0   Hall B, 2b            4  0  0  0   
+Cuddyer M, rf         4  0  3  1   Lopez J, p            0  0  0  0   
+Young D, lf           4  0  0  0   Wilson B, p           0  0  0  0   
+Valencia D, 3b        4  0  0  0   Huff A, 1b            4  1  1  0   
+Hughes L, 1b          3  0  0  0   Ross C, rf-lf         4  0  1  1   
+Rivera R, c           3  0  0  0   Sandoval P, 3b        4  1  1  0   
+Tolbert M, ss         2  0  0  0   Burrell P, lf         2  0  1  0   
+Nishioka T, ph-ss     1  0  0  0   Burriss E, pr-2b      1  0  0  0   
+Duensing B, p         2  0  0  0   Tejada M, ss          3  0  2  1   
+Burnett A, p          0  0  0  0   Stewart C, c          3  0  0  0   
+Mauer J, ph           1  0  0  0   Lincecum T, p         1  0  0  0   
+Perkins G, p          0  0  0  0   Schierholtz N, ph-rf  1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        30  2  8  2
+
+Minnesota        000 000 001 --  1
+San Francisco    010 000 01x --  2
+
+  Minnesota            IP  H  R ER BB SO
+Duensing B (L)        6.2  6  1  1  2  5
+Burnett A             0.1  0  0  0  0  0
+Perkins G             1.0  2  1  1  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (W)        7.0  3  0  0  2 12
+Lopez J               1.0  0  0  0  0  1
+Wilson B (S)          1.0  1  1  1  1  1
+
+DP -- Minnesota 2
+LOB -- Minnesota 5, San Francisco 7
+2B -- Burrell P, Cuddyer M 2, Tejada M, Huff A
+CS -- Revere B
+HBP -- by Burnett A (Rowand A)
+WP -- Duensing B
+T -- 2:22
+A -- 42481
+     Game of 6/24/2011 -- Cleveland at San Francisco (N)
+
+  Cleveland          AB  R  H RBI    San Francisco      AB  R  H RBI
+Sizemore G, cf        4  0  0  0   Torres A, cf          4  2  3  1   
+Cabrera O, 2b         2  1  0  0   Burriss E, 2b         4  0  1  0   
+Cabrera A, ss         2  1  0  0   Sandoval P, 3b        3  0  1  1   
+Santana C, 1b         3  0  1  2   Huff A, 1b            2  0  0  1   
+Choo S, rf            1  0  0  0   Burrell P, lf         3  0  0  0   
+Duncan S, pr-lf       0  1  0  0   Affeldt J, p          0  0  0  0   
+Brantley M, ph-lf     1  0  0  0   Romo S, p             0  0  0  0   
+Kearns A, lf-rf       4  0  0  0   Wilson B, p           0  0  0  0   
+Marson L, c           2  0  0  0   Rowand A, rf-lf       3  0  0  0   
+Phelps C, ph          1  0  0  0   Crawford B, ss        3  0  0  0   
+Hannahan J, 3b        4  0  1  1   Stewart C, c          3  1  1  0   
+Carrasco C, p         3  0  0  0   Sanchez J, p          1  0  0  0   
+Hafner T, ph          1  0  0  0   Casilla S, p          0  0  0  0   
+                                   Schierholtz N, ph-rf  2  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  3  2  3                        28  4  6  3
+
+Cleveland        200 100 000 --  3
+San Francisco    000 103 00x --  4
+
+  Cleveland            IP  H  R ER BB SO
+Carrasco C (L)        8.0  6  4  1  0  4
+
+  San Francisco        IP  H  R ER BB SO
+Sanchez J             4.2  2  3  3  6  6
+Casilla S (W)         1.1  0  0  0  0  2
+Affeldt J*            1.0  0  0  0  1  0
+Romo S                1.0  0  0  0  0  0
+Wilson B (S)          1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Santana C 2
+LOB -- Cleveland 6, San Francisco 2
+2B -- Santana C
+HR -- Torres A
+CS -- Torres A
+SF -- Sandoval P, Huff A
+HBP -- by Sanchez J (Choo S)
+T -- 2:21
+A -- 41690
+     Game of 6/25/2011 -- Cleveland at San Francisco (D)
+
+  Cleveland          AB  R  H RBI    San Francisco      AB  R  H RBI
+Brantley M, lf        4  0  3  0   Torres A, cf          3  0  0  0   
+Phelps C, 2b          3  0  1  0   Burriss E, 2b         4  0  0  0   
+Cabrera A, ss         4  0  0  0   Sandoval P, 3b        4  0  1  0   
+Santana C, c          2  0  0  0   Huff A, 1b            4  0  1  0   
+Sizemore G, cf        4  0  0  0   Ross C, lf            3  0  0  0   
+Cabrera O, 3b         4  0  0  0   Schierholtz N, rf     3  0  2  0   
+Hannahan J, 1b        4  0  0  0   Tejada M, ss          3  1  0  0   
+Kearns A, rf          2  0  0  0   Stewart C, c          2  0  0  0   
+Buck T, ph            1  0  0  0   Cain M, p             3  0  0  0   
+Masterson J, p        2  0  0  0   Lopez J, p            0  0  0  0   
+Sipp T, p             0  0  0  0   Wilson B, p           0  0  0  0   
+Hafner T, ph          1  0  1  0                                      
+Everett A, pr         0  0  0  0                                      
+Pestano V, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  5  0                        29  1  4  0
+
+Cleveland        000 000 000 --  0
+San Francisco    000 000 10x --  1
+
+  Cleveland            IP  H  R ER BB SO
+Masterson J (L)       6.2  4  1  0  2  5
+Sipp T                0.1  0  0  0  1  0
+Pestano V             1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (W)*           7.0  4  0  0  1  6
+Lopez J               1.0  1  0  0  1  0
+Wilson B (S)          1.0  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Phelps C 2
+LOB -- Cleveland 8, San Francisco 7
+2B -- Schierholtz N 2, Brantley M
+SH -- Phelps C
+HBP -- by Cain M (Kearns A)
+Balk -- Sipp T
+PB -- Stewart C
+T -- 2:23
+A -- 42130
+     Game of 6/26/2011 -- Cleveland at San Francisco (N)
+
+  Cleveland          AB  R  H RBI    San Francisco      AB  R  H RBI
+Brantley M, lf        3  1  0  0   Torres A, cf          3  0  0  0   
+Cabrera O, 2b         4  0  2  0   Crawford B, ss        4  1  1  0   
+Cabrera A, ss         4  0  2  1   Sandoval P, 3b        3  0  2  0   
+Santana C, 1b         4  0  0  0   Tejada M, 3b          1  0  0  0   
+Sizemore G, cf        4  0  1  0   Huff A, 1b            4  0  1  1   
+Duncan S, rf          4  0  0  0   Ross C, lf            3  1  1  0   
+Marson L, c           3  0  1  0   Schierholtz N, rf     3  0  0  0   
+Everett A, 3b         3  0  0  0   Hall B, 2b            3  1  1  0   
+Carmona F, p          2  0  0  0   Stewart C, c          3  0  1  2   
+Hafner T, ph          1  0  0  0   Bumgarner M, p        2  0  0  0   
+Perez R, p            0  0  0  0   Affeldt J, p          0  0  0  0   
+Smith J, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        29  3  7  3
+
+Cleveland        000 001 000 --  1
+San Francisco    021 000 00x --  3
+
+  Cleveland            IP  H  R ER BB SO
+Carmona F (L)         6.0  7  3  3  3  4
+Perez R               1.0  0  0  0  0  1
+Smith J               1.0  0  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (W)       7.0  6  1  1  1 11
+Affeldt J (S)         2.0  0  0  0  0  5
+
+E -- Marson L, Sizemore G
+DP -- Cleveland 1
+LOB -- Cleveland 5, San Francisco 8
+2B -- Sizemore G, Stewart C, Sandoval P, Cabrera O
+SB -- Hall B
+CS -- Sizemore G, Hall B
+SH -- Bumgarner M
+HBP -- by Smith J (Schierholtz N)
+T -- 2:42
+A -- 41978
+     Game of 7/4/2011 -- San Diego at San Francisco (D)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Venable W, rf         5  2  2  1   Rowand A, cf-lf       5  0  0  0   
+Bartlett J, ss        5  2  2  0   Burriss E, 2b         3  1  0  0   
+Headley C, 3b         4  0  1  1   Sandoval P, 3b        4  1  3  2   
+Bell H, p             0  0  0  0   Mota G, p             0  0  0  0   
+Ludwick R, lf         5  0  1  1   Huff A, 1b            4  0  0  0   
+Hudson O, 2b          4  0  1  1   Ross C, lf            1  0  1  0   
+Maybin C, cf          4  1  1  0   Vogelsong R, pr       0  0  0  0   
+Rizzo A, 1b           2  0  1  0   Ramirez R, p          0  0  0  0   
+Hundley N, c          4  0  1  1   Lopez J, p            0  0  0  0   
+Richard C, p          2  0  1  0   Romo S, p             0  0  0  0   
+Phillips K, ph        1  0  0  0   Tejada M, 3b          1  1  1  0   
+Frieri E, p           0  0  0  0   Schierholtz N, rf     4  0  0  0   
+Spence J, p           0  0  0  0   Stewart C, c          2  0  0  0   
+Qualls C, p           0  0  0  0   Burrell P, ph         0  0  0  0   
+Guzman J, ph          1  0  0  0   Cain M, pr            0  0  0  0   
+Adams M, p            0  0  0  0   Crawford B, ss        3  0  1  1   
+Gonzalez A, 3b        0  0  0  0   Lincecum T, p         0  0  0  0   
+                                   Hall B, ph            1  0  0  0   
+                                   Casilla S, p          0  0  0  0   
+                                   Torres A, cf          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 11  5                        30  3  6  3
+
+San Diego        200 010 011 --  5
+San Francisco    000 002 001 --  3
+
+  San Diego            IP  H  R ER BB SO
+Richard C (W)         5.0  2  0  0  3  2
+Frieri E              0.1  1  2  2  0  0
+Spence J              0.2  0  0  0  1  0
+Qualls C              1.0  0  0  0  0  0
+Adams M               1.0  1  0  0  0  0
+Bell H (S)            1.0  2  1  1  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (L)        5.0  7  3  3  1  4
+Casilla S             1.0  1  0  0  0  0
+Ramirez R             1.1  1  1  1  0  1
+Lopez J*              0.0  0  0  0  0  0
+Romo S                0.2  1  0  0  0  0
+Mota G                1.0  1  1  1  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Burriss E
+DP -- San Diego 2, San Francisco 1
+LOB -- San Diego 8, San Francisco 7
+2B -- Sandoval P, Richard C, Bartlett J, Rizzo A, Maybin C, Tejada M
+HR -- Sandoval P, Venable W
+SB -- Bartlett J, Venable W, Rizzo A, Maybin C
+SH -- Lincecum T
+SF -- Headley C
+HBP -- by Frieri E (Burriss E), by Lopez J (Rizzo A)
+WP -- Bell H
+PB -- Stewart C
+T -- 3:00
+A -- 42300
+     Game of 7/5/2011 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Venable W, rf         4  0  1  0   Torres A, cf          4  1  1  0   
+Bartlett J, ss        4  0  0  0   Crawford B, ss        5  1  1  0   
+Headley C, 3b         4  1  1  0   Sandoval P, 3b        4  0  1  0   
+Ludwick R, lf         4  1  1  0   Huff A, 1b            4  0  2  0   
+Adams M, p            0  0  0  0   Rowand A, lf          3  0  1  1   
+Bell H, p             0  0  0  0   Schierholtz N, rf     4  0  1  0   
+Hudson O, 2b          3  2  1  0   Tejada M, 2b          3  1  2  0   
+Maybin C, cf          4  1  3  3   Whiteside E, c        3  0  0  0   
+Rizzo A, 1b           4  0  1  2   Burrell P, ph         1  0  1  0   
+Hundley N, c          4  0  0  0   Hall B, pr            0  0  0  0   
+Stauffer T, p         2  0  0  0   Cain M, p             1  0  1  1   
+Guzman J, ph          1  0  0  0   Burriss E, ph         1  0  0  0   
+Qualls C, p           0  0  0  0   Casilla S, p          0  0  0  0   
+Denorfia C, lf        0  0  0  0   Affeldt J, p          0  0  0  0   
+                                   Stewart C, ph         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5  8  5                        33  3 11  2
+
+San Diego        020 003 000 --  5
+San Francisco    200 100 000 --  3
+
+  San Diego            IP  H  R ER BB SO
+Stauffer T (W)        6.0  8  3  2  1  1
+Qualls C              1.0  0  0  0  1  0
+Adams M               1.0  1  0  0  0  0
+Bell H (S)            1.0  2  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (L)            7.0  7  5  5  1  6
+Casilla S             1.0  0  0  0  0  0
+Affeldt J             1.0  1  0  0  0  0
+
+E -- Hudson O, Crawford B, Bartlett J
+DP -- San Diego 1, San Francisco 2
+LOB -- San Diego 3, San Francisco 8
+2B -- Hudson O, Headley C
+3B -- Maybin C
+SB -- Torres A
+CS -- Schierholtz N, Tejada M
+SH -- Cain M, Stewart C
+HBP -- by Stauffer T (Tejada M)
+PB -- Whiteside E
+T -- 2:49
+A -- 41403
+     Game of 7/6/2011 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Denorfia C, rf-lf     7  1  2  0   Torres A, cf          6  2  3  0   
+Bartlett J, ss        5  1  2  0   Crawford B, ss        6  1  2  0   
+Headley C, 3b         4  1  1  1   Sandoval P, 3b        5  1  2  3   
+Ludwick R, lf         4  0  1  2   Huff A, 1b            6  0  1  0   
+Gregerson L, p        0  0  0  0   Tejada M, 2b          4  0  0  0   
+Spence J, p           0  0  0  0   Wilson B, p           0  0  0  0   
+Gonzalez A, ph        1  0  0  0   Burriss E, 2b         2  0  0  0   
+Frieri E, p           0  0  0  0   Schierholtz N, rf     6  2  3  3   
+Neshek P, p           0  0  0  0   Rowand A, lf          5  0  1  0   
+Maybin C, cf          6  1  1  0   Stewart C, c          4  0  0  0   
+Guzman J, 1b          3  0  1  1   Ross C, ph            1  0  0  0   
+Rizzo A, 1b           3  0  0  0   Whiteside E, c        0  0  0  0   
+Hudson O, 2b          6  1  2  0   Bumgarner M, p        2  0  0  0   
+Johnson R, c          4  0  1  1   Ramirez R, p          0  0  0  0   
+Phillips K, ph-c      2  0  0  0   Mota G, p             0  0  0  0   
+Moseley D, p          3  0  0  0   Hall B, ph-2b         2  0  0  0   
+Adams M, p            0  0  0  0   Romo S, p             0  0  0  0   
+Venable W, ph-rf      3  0  0  0   Burrell P, ph         1  0  0  0   
+                                   Lopez J, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     51  5 11  5                        50  6 12  6
+
+San Diego        201 101 000 000 00 --  5
+San Francisco    100 200 020 000 01 --  6
+  0 outs when winning run was scored.
+
+  San Diego            IP  H  R ER BB SO
+Moseley D             7.1  5  4  4  1  9
+Adams M               0.2  2  1  1  0  0
+Gregerson L           2.0  0  0  0  0  3
+Spence J              1.0  1  0  0  0  1
+Frieri E              2.0  3  0  0  0  4
+Neshek P (L)          0.0  1  1  1  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M           6.0  9  5  5  1  6
+Ramirez R             1.0  0  0  0  2  1
+Mota G                1.0  0  0  0  0  2
+Wilson B              2.0  2  0  0  0  4
+Romo S                2.0  0  0  0  0  3
+Lopez J (W)           2.0  0  0  0  0  3
+
+E -- Stewart C 2
+DP -- San Diego 1, San Francisco 1
+LOB -- San Diego 8, San Francisco 6
+2B -- Ludwick R, Torres A 2, Rowand A, Denorfia C, Guzman J, Sandoval P, Schierholtz N
+3B -- Maybin C
+HR -- Schierholtz N 2
+SB -- Hudson O 2, Bartlett J 2
+SF -- Headley C
+T -- 3:52
+A -- 41916
+     Game of 7/7/2011 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Denorfia C, rf        4  0  2  0   Rowand A, cf-lf       4  0  0  0   
+Bartlett J, ss        4  0  1  0   Tejada M, ss          3  1  2  0   
+Headley C, 3b         4  0  0  0   Sandoval P, 3b        4  0  1  0   
+Ludwick R, lf         3  1  1  1   Burrell P, lf         3  0  1  1   
+Maybin C, cf          3  0  0  0   Torres A, cf          0  0  0  0   
+Guzman J, 1b          3  0  1  0   Huff A, 1b            3  0  0  0   
+Hudson O, 2b          3  0  0  0   Schierholtz N, rf     3  0  1  0   
+Johnson R, c          3  0  0  0   Hall B, 2b            1  0  0  0   
+Luebke C, p           2  0  0  0   Burriss E, 2b         2  0  0  0   
+Neshek P, p           0  0  0  0   Whiteside E, c        3  1  2  1   
+Gonzalez A, ph        1  0  0  0   Zito B, p             3  0  0  0   
+Gregerson L, p        0  0  0  0   Wilson B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        29  2  7  2
+
+San Diego        000 000 100 --  1
+San Francisco    001 001 00x --  2
+
+  San Diego            IP  H  R ER BB SO
+Luebke C (L)          6.0  5  2  2  1  8
+Neshek P              1.0  1  0  0  0  0
+Gregerson L           1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Zito B (W)            8.0  4  1  1  0  7
+Wilson B (S)          1.0  1  0  0  0  0
+
+DP -- San Diego 2, San Francisco 1
+LOB -- San Diego 2, San Francisco 4
+2B -- Guzman J, Tejada M
+HR -- Whiteside E, Ludwick R
+SB -- Denorfia C
+CS -- Bartlett J
+T -- 2:14
+A -- 41521
+     Game of 7/8/2011 -- New York at San Francisco (N)
+
+  New York           AB  R  H RBI    San Francisco      AB  R  H RBI
+Pagan A, cf           5  2  1  2   Torres A, cf          4  0  1  0   
+Turner J, 2b          5  0  0  0   Crawford B, ss        4  0  0  0   
+Beltran C, rf         5  1  3  1   Sandoval P, 3b        4  1  1  0   
+Murphy D, 3b          4  0  3  0   Huff A, 1b            4  0  0  0   
+Bay J, lf             3  0  0  0   Schierholtz N, rf     2  1  1  2   
+Duda L, 1b            2  0  0  0   Rowand A, lf          4  0  0  0   
+Evans N, ph-1b        2  0  1  1   Tejada M, 2b          4  0  1  0   
+Thole J, c            4  0  0  0   Whiteside E, c        4  0  1  0   
+Tejada R, ss          3  1  1  0   Vogelsong R, p        2  0  1  0   
+Dickey R, p           2  0  1  0   Ross C, ph            1  0  1  0   
+Byrdak T, p           0  0  0  0   Burriss E, pr         0  0  0  0   
+Beato P, p            0  0  0  0   Lopez J, p            0  0  0  0   
+Hairston S, ph        1  1  1  1   Wilson B, p           0  0  0  0   
+Rodriguez F, p        0  0  0  0   Affeldt J, p          0  0  0  0   
+                                   Ramirez R, p          0  0  0  0   
+                                   Burrell P, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 11  5                        34  2  7  2
+
+New York         000 020 003 --  5
+San Francisco    000 101 000 --  2
+
+  New York             IP  H  R ER BB SO
+Dickey R              7.0  7  2  2  0  4
+Byrdak T              0.1  0  0  0  1  0
+Beato P (W)           0.2  0  0  0  0  0
+Rodriguez F (S)       1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R           7.0  7  2  2  5  2
+Lopez J               1.0  0  0  0  0  1
+Wilson B (L)          0.1  1  2  1  0  0
+Affeldt J*            0.0  2  1  1  0  0
+Ramirez R             0.2  1  0  0  0  1
+  * Pitched to 2 batters in 9th
+
+E -- Murphy D, Torres A
+DP -- New York 1, San Francisco 1
+LOB -- New York 11, San Francisco 7
+2B -- Beltran C, Sandoval P
+HR -- Pagan A, Schierholtz N, Hairston S
+SB -- Tejada M, Pagan A
+SH -- Murphy D, Dickey R
+SF -- Schierholtz N
+PB -- Thole J 2
+T -- 3:00
+A -- 41028
+     Game of 7/9/2011 -- New York at San Francisco (N)
+
+  New York           AB  R  H RBI    San Francisco      AB  R  H RBI
+Pagan A, cf           4  0  0  0   Rowand A, cf-lf       4  1  2  0   
+Turner J, 2b          4  0  1  0   Tejada M, 2b          4  1  1  0   
+Beltran C, rf         2  1  1  0   Lopez J, p            0  0  0  0   
+Murphy D, 3b          4  0  1  1   Romo S, p             0  0  0  0   
+Bay J, lf             4  0  0  0   Sandoval P, 3b        4  1  2  1   
+Duda L, 1b            3  0  0  0   Burrell P, lf         2  0  0  0   
+Evans N, ph           1  0  0  0   Torres A, cf          1  0  0  0   
+Thole J, c            2  0  1  0   Schierholtz N, rf     4  0  1  1   
+Paulino R, ph         1  0  0  0   Huff A, 1b            3  0  0  1   
+Tejada R, ss          2  0  0  0   Stewart C, c          2  0  0  0   
+Capuano C, p          2  0  0  0   Crawford B, ss        4  0  0  0   
+Harris W, ph          1  0  0  0   Lincecum T, p         1  0  0  0   
+Parnell B, p          0  0  0  0   Casilla S, p          0  0  0  0   
+Byrdak T, p           0  0  0  0   Burriss E, ph-2b      1  0  0  0   
+Hairston S, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  1  4  1                        30  3  6  3
+
+New York         100 000 000 --  1
+San Francisco    200 000 10x --  3
+
+  New York             IP  H  R ER BB SO
+Capuano C (L)         6.0  4  2  2  4  5
+Parnell B             1.0  2  1  1  0  1
+Byrdak T              1.0  0  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (W)        6.0  4  1  1  4  6
+Casilla S             1.0  0  0  0  0  0
+Lopez J               1.2  0  0  0  1  2
+Romo S (S)            0.1  0  0  0  0  1
+
+E -- Crawford B
+DP -- San Francisco 1
+LOB -- New York 8, San Francisco 8
+2B -- Beltran C, Murphy D, Sandoval P, Turner J, Thole J
+T -- 2:41
+A -- 42117
+     Game of 7/10/2011 -- New York at San Francisco (N)
+
+  New York           AB  R  H RBI    San Francisco      AB  R  H RBI
+Pagan A, cf           4  0  0  0   Torres A, cf          4  1  1  0   
+Turner J, 2b          5  0  4  1   Fontenot M, 2b        5  1  3  0   
+Beltran C, rf         4  0  0  0   Wilson B, p           0  0  0  0   
+Murphy D, 3b          4  0  1  0   Sandoval P, 1b        5  1  1  1   
+Bay J, lf             4  0  0  0   Schierholtz N, rf     4  1  4  1   
+Duda L, 1b            3  0  1  0   Tejada M, 3b          4  0  1  1   
+Evans N, ph-1b        1  1  1  1   Rowand A, lf          4  0  1  1   
+Paulino R, c          4  0  1  0   Crawford B, ss        4  0  1  0   
+Tejada R, ss          3  0  0  0   Whiteside E, c        3  0  1  0   
+Pelfrey M, p          2  0  0  0   Cain M, p             1  0  0  0   
+Hairston S, ph        1  0  0  0   Burrell P, ph         1  0  0  0   
+Niese J, p            0  0  0  0   Affeldt J, p          0  0  0  0   
+Carrasco D, p         0  0  0  0   Romo S, p             0  0  0  0   
+Acosta M, p           0  0  0  0   Burriss E, ph-2b      1  0  0  0   
+Harris W, ph          1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  2  9  2                        36  4 13  4
+
+New York         000 000 011 --  2
+San Francisco    002 000 20x --  4
+
+  New York             IP  H  R ER BB SO
+Pelfrey M (L)         6.0  8  2  2  2  5
+Niese J               0.1  2  2  2  0  0
+Carrasco D            0.2  2  0  0  0  1
+Acosta M              1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (W)            6.0  5  0  0  3  4
+Affeldt J             1.2  2  1  1  0  1
+Romo S                0.1  0  0  0  0  1
+Wilson B (S)          1.0  2  1  1  0  3
+
+E -- Pagan A, Murphy D
+DP -- New York 1
+LOB -- New York 10, San Francisco 11
+2B -- Murphy D, Torres A, Sandoval P, Turner J 2, Paulino R, Schierholtz N, Fontenot M, Harris W
+3B -- Duda L
+HR -- Evans N
+SH -- Cain M
+WP -- Pelfrey M
+T -- 2:50
+A -- 42123
+     Game of 7/18/2011 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Furcal R, ss          3  0  0  0   Torres A, cf          4  0  0  0   
+Miles A, 2b           4  0  1  0   Fontenot M, 2b        4  1  1  0   
+Elbert S, p           0  0  0  0   Sandoval P, 3b        4  2  3  1   
+Hawksworth B, p       0  0  0  0   Schierholtz N, rf     4  1  2  1   
+Ethier A, rf          4  0  1  0   Huff A, 1b            4  0  0  0   
+Kemp M, cf            4  0  1  0   Ross C, lf            4  1  2  2   
+Rivera J, lf          4  0  1  0   Tejada M, ss          1  0  0  0   
+Loney J, 1b           4  0  0  0   Crawford B, ss        3  0  1  1   
+Uribe J, 3b           4  0  2  0   Stewart C, c          2  0  0  0   
+Barajas R, c          4  0  0  0   Whiteside E, ph-c     1  0  0  0   
+Billingsley C, p      1  0  0  0   Vogelsong R, p        3  0  1  0   
+Guerrier M, p         0  0  0  0   Affeldt J, p          0  0  0  0   
+Carroll J, ph-2b      1  0  1  0   Ramirez R, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  0  7  0                        34  5 10  5
+
+Los Angeles      000 000 000 --  0
+San Francisco    000 104 00x --  5
+
+  Los Angeles          IP  H  R ER BB SO
+Billingsley C (L)     5.1  9  5  5  0  4
+Guerrier M            0.2  1  0  0  0  0
+Elbert S              1.0  0  0  0  0  1
+Hawksworth B          1.0  0  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R (W)       6.2  7  0  0  1  5
+Affeldt J             0.2  0  0  0  1  1
+Ramirez R             1.2  0  0  0  0  2
+
+E -- Tejada M
+DP -- San Francisco 2
+LOB -- Los Angeles 8, San Francisco 5
+2B -- Schierholtz N, Ross C, Carroll J
+HR -- Sandoval P
+T -- 2:52
+A -- 42323
+     Game of 7/19/2011 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Gwynn T, lf           4  1  1  1   Torres A, cf          4  2  2  0   
+Furcal R, ss          4  0  1  2   Fontenot M, 2b-3b     4  0  2  0   
+Rivera J, rf          4  0  1  0   Sandoval P, 3b        3  0  2  1   
+Kemp M, cf            4  0  1  0   Burriss E, pr-2b      1  1  0  0   
+Miles A, 2b-3b        3  0  0  0   Schierholtz N, rf     5  0  1  0   
+Ethier A, ph          1  0  0  0   Ross C, lf            3  0  0  0   
+Uribe J, 3b           3  0  0  0   Belt B, 1b            4  1  2  3   
+MacDougal M, p        0  0  0  0   Crawford B, ss        2  1  1  0   
+Loney J, 1b           3  1  1  0   Whiteside E, c        4  0  1  0   
+Barajas R, c          2  1  0  0   Bumgarner M, p        3  0  0  1   
+De La Rosa R, p       2  0  0  0   Rowand A, ph          1  0  1  0   
+Jansen K, p           0  0  0  0   Wilson B, p           0  0  0  0   
+Kuo H, p              0  0  0  0                                      
+Carroll J, 2b         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  5  3                        34  5 12  5
+
+Los Angeles      003 000 000 --  3
+San Francisco    020 010 20x --  5
+
+  Los Angeles          IP  H  R ER BB SO
+De La Rosa R          5.0  9  3  2  0  5
+Jansen K              1.0  0  0  0  1  1
+Kuo H (L)             0.2  2  2  2  3  1
+MacDougal M           1.1  1  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (W)       8.0  4  3  3  0  7
+Wilson B (S)          1.0  1  0  0  0  0
+
+E -- De La Rosa R
+DP -- Los Angeles 1
+LOB -- Los Angeles 2, San Francisco 11
+2B -- Fontenot M, Loney J, Gwynn T, Whiteside E, Torres A, Belt B
+HR -- Belt B
+SB -- Burriss E
+SH -- Fontenot M
+HBP -- by Bumgarner M (Barajas R), by MacDougal M (Torres A)
+T -- 2:48
+A -- 42391
+     Game of 7/20/2011 -- Los Angeles at San Francisco (D)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Gwynn T, lf           4  0  1  0   Torres A, cf          4  0  0  0   
+Furcal R, ss          3  0  1  0   Casilla S, p          0  0  0  0   
+Ethier A, rf          3  0  1  0   Fontenot M, 3b        3  0  0  0   
+Kemp M, cf            4  0  0  0   Rowand A, lf-cf       3  0  0  0   
+Rivera J, 1b          4  0  1  0   Sandoval P, ph        1  0  0  0   
+Loney J, 1b           0  0  0  0   Ross C, rf-lf         4  0  0  0   
+Navarro D, c          3  1  1  1   Belt B, 1b            4  0  0  0   
+Uribe J, 3b           4  0  0  0   Burriss E, 2b-ss      3  0  1  0   
+Carroll J, 2b         2  0  0  0   Stewart C, c          3  0  2  0   
+Kershaw C, p          2  0  0  0   Crawford B, ss        2  0  0  0   
+Oeltjen T, ph         0  0  0  0   Keppinger J, ph-2b    1  0  0  0   
+Guerra J, p           0  0  0  0   Lincecum T, p         2  0  0  0   
+                                   Lopez J, p            0  0  0  0   
+                                   Romo S, p             0  0  0  0   
+                                   Schierholtz N, ph-rf  1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  1  5  1                        31  0  3  0
+
+Los Angeles      000 000 100 --  1
+San Francisco    000 000 000 --  0
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (W)         8.0  3  0  0  1 12
+Guerra J (S)          1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (L)*       7.0  5  1  1  4  7
+Lopez J+              0.0  0  0  0  1  0
+Romo S                1.0  0  0  0  0  2
+Casilla S             1.0  0  0  0  1  1
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 8th
+
+E -- Rowand A, Navarro D 2, Carroll J
+DP -- San Francisco 1
+LOB -- Los Angeles 9, San Francisco 5
+2B -- Rivera J, Ethier A
+HR -- Navarro D
+SB -- Gwynn T, Fontenot M, Burriss E
+SH -- Kershaw C, Oeltjen T
+WP -- Casilla S
+T -- 2:34
+A -- 42487
+     Game of 7/22/2011 -- Milwaukee at San Francisco (N)
+
+  Milwaukee          AB  R  H RBI    San Francisco      AB  R  H RBI
+Hart C, rf            4  0  1  0   Torres A, cf          4  1  1  0   
+Morgan N, cf          4  0  0  0   Keppinger J, 2b       4  0  1  0   
+Kotsay M, lf          4  0  0  0   Sandoval P, 3b        4  0  0  1   
+Fielder P, 1b         4  1  1  0   Huff A, 1b            4  0  1  0   
+Weeks R, 2b           3  1  0  0   Schierholtz N, rf     3  0  0  0   
+McGehee C, 3b         4  1  1  0   Ross C, lf            3  0  0  0   
+Betancourt Y, ss      4  1  2  2   Crawford B, ss        3  0  1  0   
+Lucroy J, c           4  0  2  2   Whiteside E, c        2  0  0  0   
+Marcum S, p           3  0  1  0   Fontenot M, ph        1  0  0  0   
+Rodriguez F, p        0  0  0  0   Stewart C, c          0  0  0  0   
+Counsell C, ph        1  0  0  0   Cain M, p             1  0  0  0   
+Axford J, p           0  0  0  0   Rowand A, ph          1  1  1  1   
+                                   Mota G, p             0  0  0  0   
+                                   Affeldt J, p          0  0  0  0   
+                                   Belt B, ph            1  0  0  0   
+                                   Ramirez R, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  4                        31  2  5  2
+
+Milwaukee        030 001 000 --  4
+San Francisco    100 001 000 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Marcum S (W)          7.0  4  2  2  0  5
+Rodriguez F           1.0  0  0  0  0  2
+Axford J (S)          1.0  1  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (L)            6.0  8  4  3  1  2
+Mota G                1.0  0  0  0  0  0
+Affeldt J             1.0  0  0  0  0  1
+Ramirez R             1.0  0  0  0  0  2
+
+E -- Keppinger J
+DP -- Milwaukee 1, San Francisco 1
+LOB -- Milwaukee 5, San Francisco 2
+2B -- Torres A, Betancourt Y
+HR -- Rowand A
+T -- 2:24
+A -- 42297
+     Game of 7/23/2011 -- Milwaukee at San Francisco (N)
+
+  Milwaukee          AB  R  H RBI    San Francisco      AB  R  H RBI
+Hart C, rf            3  1  1  0   Rowand A, cf          4  1  1  0   
+Morgan N, cf          3  0  1  1   Affeldt J, p          0  0  0  0   
+Carroll B, ph         0  0  0  0   Romo S, p             0  0  0  0   
+Kotsay M, ph-cf       1  0  0  0   Lopez J, p            0  0  0  0   
+Braun R, lf           3  1  1  1   Belt B, ph            1  0  0  0   
+Fielder P, 1b         4  0  0  0   Wilson B, p           0  0  0  0   
+Weeks R, 2b           3  0  2  0   Fontenot M, ss        3  0  0  0   
+McGehee C, 3b         4  0  1  0   Crawford B, ss        1  0  0  0   
+Betancourt Y, ss      3  0  1  0   Sandoval P, 3b        4  0  1  0   
+Kottaras G, c         2  0  0  0   Huff A, 1b            1  1  1  1   
+Lucroy J, ph-c        1  0  0  0   Keppinger J, 2b       4  1  1  0   
+Wolf R, p             2  0  0  0   Ross C, lf            3  1  1  0   
+Wilson J, ph          1  0  0  0   Schierholtz N, rf     4  0  3  2   
+Hawkins L, p          0  0  0  0   Stewart C, c          4  0  1  0   
+Loe K, p              0  0  0  0   Vogelsong R, p        2  0  0  0   
+Estrada M, p          0  0  0  0   Casilla S, p          0  0  0  0   
+                                   Torres A, ph-cf       1  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     30  2  7  2                        32  4 10  4
+
+Milwaukee        000 110 000 --  2
+San Francisco    000 210 01x --  4
+
+  Milwaukee            IP  H  R ER BB SO
+Wolf R (L)            6.0  7  3  3  3  6
+Hawkins L             1.0  1  0  0  0  1
+Loe K                 0.1  2  1  1  1  0
+Estrada M             0.2  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R (W)       5.0  7  2  2  2  3
+Casilla S             1.0  0  0  0  2  1
+Affeldt J             1.0  0  0  0  0  1
+Romo S                0.2  0  0  0  0  1
+Lopez J               0.1  0  0  0  0  1
+Wilson B (S)          1.0  0  0  0  0  0
+
+DP -- San Francisco 1
+LOB -- Milwaukee 5, San Francisco 10
+2B -- Weeks R, Schierholtz N 2, Morgan N
+3B -- Hart C
+HR -- Braun R
+SB -- Weeks R
+CS -- McGehee C
+SH -- Fontenot M
+SF -- Huff A
+WP -- Casilla S
+T -- 2:53
+A -- 42277
+     Game of 7/24/2011 -- Milwaukee at San Francisco (D)
+
+  Milwaukee          AB  R  H RBI    San Francisco      AB  R  H RBI
+Hart C, rf            3  0  2  0   Torres A, cf          3  0  0  0   
+Wilson J, 3b          4  0  0  0   Keppinger J, 2b       4  0  1  1   
+Braun R, lf           4  1  2  1   Sandoval P, 3b        3  0  0  0   
+Fielder P, 1b         4  0  2  0   Huff A, 1b            4  0  3  0   
+Weeks R, 2b           4  0  0  0   Schierholtz N, rf     4  1  0  0   
+Betancourt Y, ss      4  0  1  0   Belt B, lf            2  0  2  0   
+Lucroy J, c           3  0  0  0   Ross C, lf            0  0  0  0   
+Carroll B, cf         3  0  0  0   Fontenot M, ss        2  0  0  1   
+Gallardo Y, p         2  0  1  0   Crawford B, ss        0  0  0  0   
+McGehee C, ph         1  0  0  0   Whiteside E, c        3  0  0  0   
+Saito T, p            0  0  0  0   Bumgarner M, p        3  1  1  0   
+                                   Romo S, p             0  0  0  0   
+                                   Wilson B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  8  1                        28  2  7  2
+
+Milwaukee        100 000 000 --  1
+San Francisco    001 100 00x --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Gallardo Y (L)        7.0  6  2  2  1  5
+Saito T               1.0  1  0  0  2  0
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (W)       7.2  8  1  1  0  8
+Romo S                0.1  0  0  0  0  0
+Wilson B (S)          1.0  0  0  0  0  2
+
+DP -- Milwaukee 1, San Francisco 2
+LOB -- Milwaukee 5, San Francisco 6
+2B -- Gallardo Y, Bumgarner M
+HR -- Braun R
+SB -- Fontenot M
+CS -- Huff A
+SH -- Hart C
+SF -- Fontenot M
+WP -- Gallardo Y
+T -- 2:28
+A -- 42262
+     Game of 8/1/2011 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Bloomquist W, ss      3  0  1  2   Ross C, cf            4  1  2  1   
+Johnson K, 2b         5  0  0  0   Keppinger J, 2b       4  0  1  0   
+Upton J, rf           5  1  1  0   Beltran C, rf         4  0  2  0   
+Young C, cf           3  1  1  0   Sandoval P, 3b        3  0  0  0   
+Montero M, c          4  1  1  1   Huff A, 1b            4  1  1  1   
+Roberts R, 3b         3  1  1  1   Schierholtz N, lf     4  0  1  0   
+Goldschmidt P, 1b     4  0  1  0   Cabrera O, ss         4  0  1  0   
+Parra G, lf           4  1  2  1   Whiteside E, c        3  0  0  0   
+Kennedy I, p          2  0  0  0   Rowand A, ph          1  0  0  0   
+Burroughs S, ph       1  0  0  0   Cain M, p             2  0  0  0   
+Putz J, p             0  0  0  0   Affeldt J, p          0  0  0  0   
+                                   Belt B, ph            1  0  0  0   
+                                   Casilla S, p          0  0  0  0   
+                                   Romo S, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5  8  5                        34  2  8  2
+
+Arizona          000 005 000 --  5
+San Francisco    100 000 100 --  2
+
+  Arizona              IP  H  R ER BB SO
+Kennedy I (W)         8.0  6  2  2  1  7
+Putz J (S)            1.0  2  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (L)            5.2  8  5  5  3  5
+Affeldt J             2.1  0  0  0  0  2
+Casilla S             0.2  0  0  0  1  1
+Romo S                0.1  0  0  0  0  0
+
+E -- Whiteside E
+DP -- Arizona 1
+LOB -- Arizona 7, San Francisco 6
+3B -- Beltran C
+HR -- Ross C, Huff A
+SB -- Bloomquist W
+SH -- Kennedy I
+T -- 2:37
+A -- 42366
+     Game of 8/2/2011 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Bloomquist W, ss      5  0  0  0   Ross C, cf            4  0  0  0   
+Johnson K, 2b         3  1  0  0   Whiteside E, c        0  0  0  0   
+Upton J, rf           4  1  1  2   Keppinger J, 2b       3  1  1  0   
+Young C, cf           3  0  0  0   Beltran C, rf         4  0  1  0   
+Montero M, c          4  1  1  0   Sandoval P, 3b        4  0  3  1   
+Roberts R, 3b         3  2  2  1   Huff A, 1b            4  0  1  0   
+Goldschmidt P, 1b     3  1  1  2   Schierholtz N, lf     4  0  0  0   
+Parra G, lf           4  0  1  1   Cabrera O, ss         4  0  1  0   
+Hudson D, p           2  0  1  0   Stewart C, c          2  0  0  0   
+Nady X, ph            1  0  0  0   Rowand A, ph-cf       1  0  1  0   
+Shaw B, p             0  0  0  0   Lincecum T, p         2  0  0  0   
+                                   Ramirez R, p          0  0  0  0   
+                                   Belt B, ph            1  0  0  0   
+                                   Lopez J, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  6  7  6                        33  1  8  1
+
+Arizona          000 020 022 --  6
+San Francisco    000 100 000 --  1
+
+  Arizona              IP  H  R ER BB SO
+Hudson D (W)          8.0  6  1  1  1  5
+Shaw B                1.0  2  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (L)        7.0  3  2  2  3  8
+Ramirez R             1.0  1  2  2  1  2
+Lopez J               1.0  3  2  2  1  0
+
+DP -- Arizona 1, San Francisco 2
+LOB -- Arizona 4, San Francisco 6
+2B -- Sandoval P, Roberts R
+HR -- Goldschmidt P, Upton J
+SB -- Roberts R
+CS -- Young C, Cabrera O
+WP -- Lopez J
+PB -- Whiteside E
+T -- 2:23
+A -- 42332
+     Game of 8/3/2011 -- Arizona at San Francisco (D)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Bloomquist W, ss      4  0  1  0   Torres A, cf          4  1  1  0   
+Parra G, rf           1  0  0  0   Keppinger J, 2b       5  1  2  0   
+Cowgill C, lf-cf      5  0  2  0   Sandoval P, 3b        5  2  2  1   
+Upton J, rf           3  0  0  0   Beltran C, rf         5  2  3  1   
+Nady X, lf            1  0  0  0   Cabrera O, ss         4  1  1  3   
+Young C, cf           3  0  0  0   Huff A, 1b            4  1  2  0   
+Burroughs S, 3b       0  0  0  0   Ross C, lf            2  0  1  3   
+Roberts R, 2b         2  0  0  0   Whiteside E, c        4  0  0  0   
+Goldschmidt P, 1b     3  0  0  0   Vogelsong R, p        3  0  0  0   
+Ransom C, 3b-ss       2  1  1  0   Mota G, p             1  0  0  0   
+Blanco H, c           4  0  1  0   Lopez J, p            0  0  0  0   
+Marquis J, p          2  0  0  0   Romo S, p             0  0  0  0   
+Ziegler B, p          0  0  0  0                                      
+Duke Z, p             1  0  1  1                                      
+Owings M, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        37  8 12  8
+
+Arizona          000 000 100 --  1
+San Francisco    004 040 00x --  8
+
+  Arizona              IP  H  R ER BB SO
+Marquis J (L)*        4.0 10  8  7  1  1
+Ziegler B             1.0  1  0  0  0  0
+Duke Z                3.0  1  0  0  2  1
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R (W)+      6.0  5  1  1  3  7
+Mota G                2.0  0  0  0  2  6
+Lopez J               0.2  1  0  0  0  0
+Romo S                0.1  0  0  0  0  1
+  * Pitched to 4 batters in 5th
+  + Pitched to 3 batters in 7th
+
+E -- Ransom C, Roberts R
+LOB -- Arizona 11, San Francisco 8
+2B -- Cabrera O, Ross C, Ransom C
+3B -- Beltran C
+SB -- Goldschmidt P
+HBP -- by Vogelsong R (Upton J), by Vogelsong R (Ransom C)
+T -- 2:57
+A -- 42477
+     Game of 8/4/2011 -- Philadelphia at San Francisco (N)
+
+  Philadelphia       AB  R  H RBI    San Francisco      AB  R  H RBI
+Rollins J, ss         4  0  1  0   Rowand A, cf          4  0  1  0   
+Polanco P, 3b         4  0  1  0   Casilla S, p          0  0  0  0   
+Victorino S, cf       3  1  2  0   Keppinger J, 2b       4  0  0  0   
+Howard R, 1b          4  0  0  0   Sandoval P, 3b        4  0  1  0   
+Pence H, rf           4  1  3  2   Beltran C, rf         4  0  1  0   
+Mayberry J, lf        4  1  1  1   Cabrera O, ss         4  0  1  0   
+Ruiz C, c             3  0  0  0   Ross C, lf            4  0  0  0   
+Valdez W, 2b          2  0  0  0   Huff A, 1b            3  0  1  0   
+Lee C, p              3  0  0  0   Stewart C, c          3  0  1  0   
+                                   Bumgarner M, p        1  0  0  0   
+                                   Torres A, ph-cf       1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  8  3                        32  0  7  0
+
+Philadelphia     020 000 001 --  3
+San Francisco    000 000 000 --  0
+
+  Philadelphia         IP  H  R ER BB SO
+Lee C (W)             9.0  7  0  0  0  8
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (L)       8.0  6  2  2  2  9
+Casilla S             1.0  2  1  1  0  1
+
+DP -- Philadelphia 1, San Francisco 2
+LOB -- Philadelphia 3, San Francisco 6
+2B -- Beltran C
+HR -- Pence H, Mayberry J
+CS -- Rollins J, Valdez W
+SH -- Bumgarner M
+T -- 2:17
+A -- 42013
+     Game of 8/5/2011 -- Philadelphia at San Francisco (N)
+
+  Philadelphia       AB  R  H RBI    San Francisco      AB  R  H RBI
+Rollins J, ss         4  1  1  2   Torres A, cf          4  0  0  0   
+Valdez W, ss          0  0  0  0   Keppinger J, 2b       3  1  0  0   
+Polanco P, 3b         4  0  2  1   Beltran C, rf         3  0  1  0   
+Victorino S, cf       3  1  2  1   Affeldt J, p          0  0  0  0   
+Howard R, pr-1b       0  0  0  0   DeRosa M, 1b          1  0  0  0   
+Utley C, 2b           5  1  1  0   Sandoval P, 3b        2  0  1  1   
+Pence H, rf           5  1  2  1   Fontenot M, 3b        1  0  1  0   
+Ibanez R, lf          4  2  1  1   Huff A, 1b            3  0  1  0   
+Mayberry J, 1b-cf     5  2  2  2   Mota G, p             1  0  0  0   
+Schneider B, c        3  1  1  1   Wilson B, p           0  0  0  0   
+Worley V, p           4  0  1  0   Cabrera O, ss         4  0  2  0   
+Stutes M, p           0  0  0  0   Schierholtz N, lf     2  0  0  0   
+Gload R, ph           1  0  0  0   Ramirez R, p          0  0  0  0   
+Herndon D, p          0  0  0  0   Ross C, rf            2  0  1  0   
+                                   Whiteside E, c        2  1  1  1   
+                                   Stewart C, c          2  0  0  0   
+                                   Sanchez J, p          1  0  0  0   
+                                   Rowand A, lf          3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 13  9                        34  2  9  2
+
+Philadelphia     000 413 100 --  9
+San Francisco    100 010 000 --  2
+
+  Philadelphia         IP  H  R ER BB SO
+Worley V (W)          7.0  7  2  2  1  6
+Stutes M              1.0  1  0  0  0  1
+Herndon D             1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Sanchez J (L)         4.2  7  5  5  2  4
+Ramirez R             1.0  4  3  3  1  0
+Affeldt J             1.1  1  1  1  0  1
+Mota G                1.0  0  0  0  1  1
+Wilson B              1.0  1  0  0  1  2
+
+DP -- Philadelphia 1, San Francisco 1
+LOB -- Philadelphia 9, San Francisco 7
+2B -- Rowand A, Sandoval P, Ibanez R
+HR -- Victorino S, Mayberry J, Whiteside E, Pence H
+SB -- Rollins J 2
+SF -- Sandoval P
+HBP -- by Ramirez R (Victorino S), by Affeldt J (Schneider B)
+WP -- Ramirez R
+PB -- Schneider B
+T -- 3:02
+A -- 42165
+     Game of 8/6/2011 -- Philadelphia at San Francisco (D)
+
+  Philadelphia       AB  R  H RBI    San Francisco      AB  R  H RBI
+Rollins J, ss         4  1  1  0   Rowand A, cf          4  0  1  0   
+Victorino S, cf       3  0  1  0   Keppinger J, 2b       4  0  2  0   
+Utley C, 2b           3  1  0  0   Beltran C, rf         4  0  0  0   
+Howard R, 1b          4  0  1  0   Sandoval P, 3b        4  1  2  1   
+Pence H, rf           4  0  2  1   Cabrera O, ss         4  0  0  0   
+Ibanez R, lf          4  0  0  0   Ross C, lf            3  0  0  0   
+Polanco P, 3b         3  0  0  0   Huff A, 1b            3  0  0  0   
+Martinez M, 3b        0  0  0  0   Whiteside E, c        3  0  1  0   
+Ruiz C, c             3  0  0  0   Cain M, p             2  0  0  0   
+Hamels C, p           3  0  0  0   Schierholtz N, ph     1  0  1  0   
+                                   Lopez J, p            0  0  0  0   
+                                   Romo S, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  1                        32  1  7  1
+
+Philadelphia     200 000 000 --  2
+San Francisco    000 000 001 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Hamels C (W)          9.0  7  1  1  0  5
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (L)            8.0  3  2  1  2  8
+Lopez J               0.1  2  0  0  0  0
+Romo S                0.2  0  0  0  0  0
+
+E -- Sandoval P
+DP -- Philadelphia 2, San Francisco 1
+LOB -- Philadelphia 4, San Francisco 4
+2B -- Rollins J
+HR -- Sandoval P
+PB -- Whiteside E
+T -- 2:14
+A -- 42183
+     Game of 8/7/2011 -- Philadelphia at San Francisco (D)
+
+  Philadelphia       AB  R  H RBI    San Francisco      AB  R  H RBI
+Rollins J, ss         4  0  1  0   Torres A, cf          5  0  1  0   
+Victorino S, cf       4  0  0  0   Keppinger J, 2b       4  0  4  1   
+Utley C, 2b           4  0  2  1   Wilson B, p           0  0  0  0   
+Howard R, 1b          4  0  0  0   Beltran C, rf         4  1  1  0   
+Pence H, rf           4  0  0  0   Rowand A, lf          1  0  0  0   
+Ibanez R, lf          4  0  0  0   Sandoval P, 3b        4  1  2  0   
+Ruiz C, c             4  0  2  0   Huff A, 1b            2  0  1  0   
+Martinez M, 3b        3  0  1  0   Cabrera O, ss         3  0  1  1   
+Francisco B, ph       1  0  1  0   Schierholtz N, lf-rf  2  0  1  0   
+Oswalt R, p           2  1  1  0   Stewart C, c          4  1  2  1   
+Mayberry J, ph        1  0  0  0   Lincecum T, p         2  0  0  0   
+Lidge B, p            0  0  0  0   Lopez J, p            0  0  0  0   
+Stutes M, p           0  0  0  0   Fontenot M, ph-2b     1  0  0  0   
+Gload R, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  1  8  1                        32  3 13  3
+
+Philadelphia     001 000 000 --  1
+San Francisco    000 111 00x --  3
+
+  Philadelphia         IP  H  R ER BB SO
+Oswalt R (L)          6.0 12  3  3  2  4
+Lidge B               1.0  0  0  0  2  1
+Stutes M              1.0  1  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (W)        7.2  7  1  1  1  5
+Lopez J               0.1  0  0  0  0  0
+Wilson B (S)          1.0  1  0  0  0  0
+
+E -- Huff A
+DP -- Philadelphia 2
+LOB -- Philadelphia 9, San Francisco 12
+2B -- Cabrera O, Sandoval P, Francisco B
+SB -- Torres A, Huff A
+SH -- Lincecum T
+SF -- Cabrera O, Keppinger J
+T -- 2:34
+A -- 42366
+     Game of 8/8/2011 -- Pittsburgh at San Francisco (N)
+
+  Pittsburgh         AB  R  H RBI    San Francisco      AB  R  H RBI
+McCutchen A, cf       5  1  2  0   Torres A, cf          3  0  1  0   
+Jones G, rf           5  2  4  0   Keppinger J, 2b       3  0  0  0   
+Paul X, rf            0  0  0  0   Mota G, p             0  0  0  0   
+Walker N, 2b          5  1  1  1   Casilla S, p          0  0  0  0   
+Lee D, 1b             4  0  1  0   DeRosa M, ph          1  0  0  0   
+Ludwick R, lf         3  1  2  2   Ramirez R, p          0  0  0  0   
+Alvarez P, 3b         3  0  1  1   Sandoval P, 3b        4  0  0  0   
+Wood B, ss            4  0  1  1   Huff A, 1b            3  0  1  0   
+McKenry M, c          4  0  0  0   Schierholtz N, rf     4  0  3  0   
+Morton C, p           4  0  0  0   Cabrera O, ss         3  0  0  0   
+Veras J, p            0  0  0  0   Rowand A, lf          4  0  0  0   
+                                   Whiteside E, c        4  0  0  0   
+                                   Vogelsong R, p        1  0  0  0   
+                                   Fontenot M, ph-2b     2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 12  5                        32  0  6  0
+
+Pittsburgh       201 020 000 --  5
+San Francisco    000 000 000 --  0
+
+  Pittsburgh           IP  H  R ER BB SO
+Morton C (W)          8.0  6  0  0  3  4
+Veras J               1.0  0  0  0  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R (L)       5.0  9  5  5  2  8
+Mota G                2.0  1  0  0  0  4
+Casilla S             1.0  0  0  0  0  1
+Ramirez R             1.0  2  0  0  0  0
+
+E -- Wood B
+DP -- Pittsburgh 2, San Francisco 1
+LOB -- Pittsburgh 7, San Francisco 9
+2B -- Jones G, Walker N, Schierholtz N, McCutchen A
+3B -- Lee D
+SB -- Jones G
+CS -- Walker N
+WP -- Morton C
+T -- 2:42
+A -- 42405
+     Game of 8/9/2011 -- Pittsburgh at San Francisco (N)
+
+  Pittsburgh         AB  R  H RBI    San Francisco      AB  R  H RBI
+McCutchen A, cf       5  0  1  0   Torres A, cf          3  0  0  0   
+Jones G, rf           4  0  1  0   Keppinger J, 2b       4  1  1  0   
+Walker N, 2b          4  0  0  0   Sandoval P, 3b        4  1  1  0   
+Lee D, 1b             4  0  1  0   Huff A, 1b            4  1  3  2   
+Ludwick R, lf         4  0  0  0   Schierholtz N, rf     3  1  0  1   
+Doumit R, c           2  0  1  0   Ross C, lf            4  1  1  1   
+Wood B, 3b            4  0  0  0   Cabrera O, ss         4  0  2  1   
+Cedeno R, ss          3  0  1  0   Stewart C, c          4  1  1  1   
+Alvarez P, ph         1  0  0  0   Bumgarner M, p        1  0  0  0   
+McDonald J, p         2  0  0  0   Fontenot M, ph        1  0  0  0   
+Diaz M, ph            1  0  0  0   Romo S, p             0  0  0  0   
+Resop C, p            0  0  0  0   Casilla S, p          0  0  0  0   
+Grilli J, p           0  0  0  0                                      
+Beimel J, p           0  0  0  0                                      
+McCutchen D, p        0  0  0  0                                      
+Pearce S, ph          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  0  5  0                        32  6  9  6
+
+Pittsburgh       000 000 000 --  0
+San Francisco    000 111 03x --  6
+
+  Pittsburgh           IP  H  R ER BB SO
+McDonald J (L)        6.0  4  3  3  3  4
+Resop C               1.0  1  0  0  0  1
+Grilli J              0.1  2  2  2  0  1
+Beimel J              0.1  2  1  0  0  0
+McCutchen D           0.1  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (W)       7.0  4  0  0  1 10
+Romo S                1.0  1  0  0  0  1
+Casilla S             1.0  0  0  0  2  1
+
+E -- Sandoval P 2, Doumit R
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 10, San Francisco 5
+2B -- Jones G, Keppinger J, Huff A, Cedeno R, McCutchen A
+HR -- Stewart C, Huff A
+SB -- Cabrera O
+T -- 2:51
+A -- 42648
+     Game of 8/10/2011 -- Pittsburgh at San Francisco (D)
+
+  Pittsburgh         AB  R  H RBI    San Francisco      AB  R  H RBI
+McCutchen A, cf       1  4  1  2   Torres A, cf          4  0  1  0   
+Pearce S, 3b          2  1  0  0   Keppinger J, 2b       3  0  0  0   
+Walker N, ph-2b       1  1  0  0   Mota G, p             0  0  0  0   
+Jones G, 1b           5  0  1  1   Stewart C, c          1  0  0  0   
+Ludwick R, lf         4  2  3  1   Sandoval P, 3b        3  1  1  1   
+Diaz M, rf            4  0  2  2   Huff A, 1b            4  1  1  0   
+Paul X, rf            0  0  0  0   Ross C, rf            4  0  1  0   
+Wood B, 2b-3b         5  0  0  1   Cabrera O, ss         4  0  1  1   
+Cedeno R, ss          5  0  1  1   Rowand A, lf          4  0  1  0   
+McKenry M, c          5  0  1  0   Whiteside E, c        3  0  2  0   
+Karstens J, p         2  1  0  0   Affeldt J, p          0  0  0  0   
+McCutchen D, p        1  0  0  0   Ramirez R, p          0  0  0  0   
+Lincoln B, p          0  0  0  0   DeRosa M, ph          1  0  0  0   
+Hanrahan J, p         0  0  0  0   Sanchez J, p          0  0  0  0   
+                                   Casilla S, p          0  0  0  0   
+                                   Fontenot M, ph-2b     2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  9  9  8                        33  2  8  2
+
+Pittsburgh       103 010 301 --  9
+San Francisco    100 100 000 --  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Karstens J (W)        6.0  8  2  2  0  9
+McCutchen D           1.0  0  0  0  1  0
+Lincoln B             1.0  0  0  0  1  2
+Hanrahan J            1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Sanchez J (L)         4.1  4  5  4  4  6
+Casilla S             0.2  1  0  0  0  0
+Mota G*               1.0  1  2  2  1  1
+Affeldt J             2.0  1  1  0  2  3
+Ramirez R             1.0  2  1  1  1  1
+  * Pitched to 2 batters in 7th
+
+E -- Cabrera O, Fontenot M
+DP -- Pittsburgh 1, San Francisco 2
+LOB -- Pittsburgh 8, San Francisco 7
+2B -- Huff A, Ludwick R
+HR -- Sandoval P, McCutchen A
+SB -- McCutchen A 2, Torres A
+SH -- Sanchez J
+HBP -- by Mota G (McCutchen A)
+WP -- Sanchez J
+T -- 2:55
+A -- 42603
+     Game of 8/23/2011 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Venable W, rf         5  1  2  1   Fontenot M, ss-2b     4  0  0  0   
+Bartlett J, ss        5  1  1  0   Beltran C, ph         1  0  0  0   
+Maybin C, cf          3  0  1  1   Ramirez R, p          0  0  0  0   
+Guzman J, 1b          4  0  1  1   Keppinger J, 2b       4  0  0  0   
+Hudson O, 2b          3  2  1  0   Lopez J, p            0  0  0  0   
+Spence J, p           0  0  0  0   Edlefsen S, p         0  0  0  0   
+Gregerson L, p        0  0  0  0   Tejada M, ph-ss       1  0  0  0   
+Thatcher J, p         0  0  0  0   Sandoval P, 3b        5  1  1  0   
+Hamren E, p           0  0  0  0   Huff A, 1b            4  1  1  0   
+Bell H, p             0  0  0  0   Belt B, lf            4  1  1  0   
+Blanks K, lf          4  1  1  2   Ross C, rf            2  1  1  1   
+Hundley N, c          4  1  1  0   Rowand A, cf          4  1  0  0   
+Forsythe L, 3b        3  0  0  0   Stewart C, c          3  0  1  0   
+Latos M, p            2  0  0  0   Sanchez H, ph-c       1  0  1  1   
+Darnell J, ph         1  0  0  0   Cain M, p             1  0  0  0   
+Qualls C, p           0  0  0  0   Cabrera O, ph-ss-2b   2  0  2  1   
+Gonzalez A, 2b        1  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     35  7  9  6                        36  5  8  3
+
+San Diego        121 000 102 --  7
+San Francisco    000 002 030 --  5
+
+  San Diego            IP  H  R ER BB SO
+Latos M               6.0  3  2  1  4  2
+Qualls C              1.0  1  0  0  0  0
+Spence J              0.1  1  1  1  0  0
+Gregerson L*          0.0  3  2  1  0  0
+Thatcher J            0.1  0  0  0  0  0
+Hamren E (W)          0.1  0  0  0  0  0
+Bell H (S)            1.0  0  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Cain M                7.0  6  5  3  0  5
+Lopez J               0.2  0  0  0  1  1
+Edlefsen S            0.1  0  0  0  1  0
+Ramirez R (L)         1.0  3  2  2  1  0
+  * Pitched to 4 batters in 8th
+
+E -- Cain M, Guzman J, Stewart C, Keppinger J, Forsythe L
+LOB -- San Diego 6, San Francisco 9
+2B -- Bartlett J, Venable W, Huff A, Ross C, Hundley N
+HR -- Blanks K
+SB -- Hudson O, Venable W
+CS -- Maybin C
+SH -- Cain M, Forsythe L
+HBP -- by Edlefsen S (Guzman J)
+WP -- Latos M, Ramirez R
+T -- 3:20
+A -- 41288
+     Game of 8/24/2011 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Venable W, rf         4  0  1  0   Cabrera O, ss         4  0  1  0   
+Bartlett J, ss        4  0  0  0   Keppinger J, 2b       3  0  1  0   
+Maybin C, cf          3  1  1  0   Beltran C, rf         4  1  2  1   
+Guzman J, 1b          2  0  0  0   Sandoval P, 3b        3  0  0  0   
+Hudson O, 2b          3  0  1  1   Huff A, 1b            3  0  0  0   
+Blanks K, lf          4  0  0  0   Ross C, cf            3  0  1  0   
+Hundley N, c          3  0  1  0   Belt B, lf            3  1  2  0   
+Forsythe L, 3b        3  0  0  0   Stewart C, c          2  0  0  0   
+Stauffer T, p         2  0  0  0   Lincecum T, p         3  0  1  1   
+Cunningham A, ph      1  0  0  0   Casilla S, p          0  0  0  0   
+Spence J, p           0  0  0  0                                      
+Bass A, p             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  1  4  1                        28  2  8  2
+
+San Diego        000 001 000 --  1
+San Francisco    000 110 00x --  2
+
+  San Diego            IP  H  R ER BB SO
+Stauffer T (L)        6.0  6  2  2  0  1
+Spence J              0.2  1  0  0  0  0
+Bass A                1.1  1  0  0  1  2
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (W)        8.0  4  1  1  5  7
+Casilla S (S)         1.0  0  0  0  0  2
+
+DP -- San Diego 3, San Francisco 2
+LOB -- San Diego 6, San Francisco 4
+3B -- Belt B, Hudson O
+HR -- Beltran C
+SB -- Belt B
+SH -- Keppinger J
+T -- 2:21
+A -- 41542
+     Game of 8/25/2011 -- Houston at San Francisco (N)
+
+  Houston            AB  R  H RBI    San Francisco      AB  R  H RBI
+Schafer J, cf         4  3  2  1   Cabrera O, ss         3  0  1  1   
+Altuve J, 2b          5  0  1  0   Keppinger J, 2b       3  0  2  0   
+Martinez J, lf        3  0  2  2   Beltran C, rf         4  0  1  0   
+Bourgeois J, pr-lf    0  0  0  0   Sandoval P, 3b        3  0  1  0   
+Lee C, 1b             3  0  1  0   Huff A, 1b            4  0  0  0   
+Bogusevic B, rf       3  0  0  0   Ross C, cf            3  0  0  0   
+Paredes J, 3b         4  0  0  0   Belt B, lf            2  0  0  0   
+Barmes C, ss          4  0  0  0   Whiteside E, c        3  1  1  0   
+Corporan C, c         3  0  1  0   Vogelsong R, p        1  0  0  0   
+Sosa H, p             2  0  0  0   Affeldt J, p          0  0  0  0   
+Michaels J, ph        1  0  0  0   Fontenot M, ph        1  0  0  0   
+Lopez W, p            0  0  0  0   Edlefsen S, p         0  0  0  0   
+Downs M, ph           1  0  1  0                                      
+Melancon M, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  3                        27  1  6  1
+
+Houston          101 000 100 --  3
+San Francisco    001 000 000 --  1
+
+  Houston              IP  H  R ER BB SO
+Sosa H (W)            6.0  4  1  1  3  3
+Lopez W               2.0  1  0  0  0  1
+Melancon M (S)        1.0  1  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R (L)       7.1  6  3  3  4  4
+Affeldt J             0.2  0  0  0  0  1
+Edlefsen S            1.0  2  0  0  0  0
+
+DP -- Houston 3, San Francisco 1
+LOB -- Houston 8, San Francisco 4
+2B -- Martinez J 2
+HR -- Schafer J
+SB -- Schafer J, Altuve J, Bogusevic B 2
+CS -- Sandoval P, Belt B
+SH -- Vogelsong R, Keppinger J
+SF -- Martinez J
+Balk -- Sosa H
+T -- 2:37
+A -- 41115
+     Game of 8/26/2011 -- Houston at San Francisco (N)
+
+  Houston            AB  R  H RBI    San Francisco      AB  R  H RBI
+Schafer J, cf         3  0  0  0   Cabrera O, ss         3  1  0  0   
+Bourgeois J, rf       4  0  0  0   Keppinger J, 2b       4  0  1  2   
+Martinez J, lf        4  0  0  0   Beltran C, rf         3  0  2  0   
+Lee C, 1b             3  0  1  0   Ross C, cf            3  0  0  0   
+Downs M, 3b           3  1  1  0   Belt B, lf            4  0  1  0   
+Altuve J, 2b          4  0  1  0   Tejada M, 3b          4  0  0  0   
+Barmes C, ss          3  0  0  1   DeRosa M, 1b          3  0  0  0   
+Quintero H, c         3  0  2  0   Ramirez R, p          0  0  0  0   
+Happ J, p             1  0  0  0   Casilla S, p          0  0  0  0   
+Michaels J, ph        0  0  0  0   Stewart C, c          2  1  0  0   
+Bogusevic B, ph       1  0  0  0   Bumgarner M, p        0  0  0  0   
+Rodriguez A, p        0  0  0  0   Huff A, 1b            1  0  0  0   
+Wright W, p           0  0  0  0                                      
+Carpenter D, p        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  1  5  1                        27  2  4  2
+
+Houston          000 000 100 --  1
+San Francisco    000 020 00x --  2
+
+  Houston              IP  H  R ER BB SO
+Happ J (L)            6.0  4  2  1  4  2
+Rodriguez A           1.1  0  0  0  1  1
+Wright W              0.1  0  0  0  0  0
+Carpenter D           0.1  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (W)       6.1  5  1  1  3  2
+Ramirez R             1.2  0  0  0  0  3
+Casilla S (S)         1.0  0  0  0  0  2
+
+E -- Barmes C, Stewart C
+DP -- Houston 1, San Francisco 1
+LOB -- Houston 6, San Francisco 7
+2B -- Beltran C, Keppinger J
+CS -- Lee C
+SH -- Happ J, Bumgarner M
+HBP -- by Bumgarner M (Downs M)
+T -- 2:28
+A -- 41438
+     Game of 8/27/2011 -- Houston at San Francisco (N)
+
+  Houston            AB  R  H RBI    San Francisco      AB  R  H RBI
+Altuve J, 2b          4  0  0  0   Fontenot M, ss-3b     5  1  1  0   
+Bourgeois J, cf       4  1  1  0   Keppinger J, 2b       4  0  1  1   
+Martinez J, lf        4  0  1  0   Beltran C, rf         4  0  2  1   
+Lee C, 1b             3  0  3  1   Sandoval P, 3b        3  0  0  0   
+Michaels J, rf        3  0  0  0   Cabrera O, ph-ss      1  0  0  0   
+Bogusevic B, ph-rf    2  0  0  0   Belt B, lf            4  0  0  0   
+Paredes J, 3b         4  0  0  0   Huff A, 1b            3  0  0  0   
+Barmes C, ss          4  0  0  0   Affeldt J, p          0  0  0  0   
+Quintero H, c         4  0  2  0   Ross C, cf            3  0  0  0   
+Myers B, p            2  0  0  0   Stewart C, c          4  0  0  0   
+Lopez W, p            0  0  0  0   Surkamp E, p          1  0  0  0   
+Wright W, p           0  0  0  0   Mota G, p             0  0  0  0   
+Schafer J, ph         1  0  0  0   Rowand A, ph          1  0  0  0   
+Rodriguez F, p        0  0  0  0   Casilla S, p          0  0  0  0   
+                                   DeRosa M, 1b          1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  1  7  1                        34  2  5  2
+
+Houston          000 010 000 0 --  1
+San Francisco    100 000 000 1 --  2
+  2 outs when winning run was scored.
+
+  Houston              IP  H  R ER BB SO
+Myers B               7.0  2  1  1  3  7
+Lopez W               0.2  1  0  0  1  1
+Wright W              0.1  0  0  0  0  0
+Rodriguez F (L)       1.2  2  1  1  0  4
+
+  San Francisco        IP  H  R ER BB SO
+Surkamp E             6.0  6  1  1  3  4
+Mota G                2.0  1  0  0  0  2
+Casilla S             1.1  0  0  0  1  0
+Affeldt J (W)         0.2  0  0  0  0  0
+
+E -- Sandoval P
+DP -- San Francisco 1
+LOB -- Houston 10, San Francisco 7
+2B -- Lee C 2, Fontenot M, Quintero H 2
+SB -- Bourgeois J, DeRosa M
+CS -- Altuve J
+SH -- Myers B
+HBP -- by Surkamp E (Lee C)
+T -- 2:49
+A -- 42318
+     Game of 8/28/2011 -- Houston at San Francisco (D)
+
+  Houston            AB  R  H RBI    San Francisco      AB  R  H RBI
+Schafer J, cf         4  1  1  1   Torres A, cf          5  1  1  0   
+Sanchez A, ss         4  0  0  0   Keppinger J, 2b       3  0  1  0   
+Martinez J, lf        4  0  0  1   Romo S, p             0  0  0  0   
+Lee C, 1b             4  0  3  0   Affeldt J, p          0  0  0  0   
+Altuve J, pr-2b       1  1  1  0   DeRosa M, 2b          1  0  1  1   
+Downs M, 2b-1b        5  0  1  1   Beltran C, rf         5  0  2  0   
+Bogusevic B, rf       5  0  0  0   Sandoval P, 3b        3  1  1  0   
+Paredes J, 3b         4  2  3  0   Belt B, lf            5  1  1  0   
+Corporan C, c         2  0  0  0   Huff A, 1b            4  0  2  1   
+Norris B, p           2  0  0  0   Cabrera O, ss         3  0  0  1   
+Bourgeois J, ph       1  0  0  0   Ramirez R, p          0  0  0  0   
+Lopez W, p            0  0  0  0   Tejada M, ph          0  0  0  0   
+Wright W, p           0  0  0  0   Whiteside E, c        4  0  0  0   
+Rodriguez F, p        0  0  0  0   Rowand A, ph          1  0  0  0   
+Michaels J, ph        1  0  1  1   Cain M, p             2  0  0  0   
+Melancon M, p         0  0  0  0   Fontenot M, ph-2b-ss  3  0  0  0   
+Carpenter D, p        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  4 10  4                        39  3  9  3
+
+Houston          000 100 010 11 --  4
+San Francisco    000 000 200 10 --  3
+
+  Houston              IP  H  R ER BB SO
+Norris B              7.0  3  2  2  1 10
+Lopez W               0.2  2  0  0  0  0
+Wright W              0.2  1  0  0  0  0
+Rodriguez F           0.2  0  0  0  0  1
+Melancon M (W)        1.0  3  1  1  1  1
+Carpenter D (S)       1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Cain M                8.0  5  2  2  1  6
+Romo S                0.2  1  0  0  0  2
+Affeldt J             1.0  2  1  1  0  1
+Ramirez R (L)         1.1  2  1  1  0  1
+
+DP -- San Francisco 1
+LOB -- Houston 5, San Francisco 9
+2B -- Lee C 2, Michaels J, Altuve J
+SB -- Schafer J, Torres A, Beltran C
+CS -- Paredes J
+SH -- Sanchez A, Corporan C, Tejada M
+SF -- Martinez J, Cabrera O
+HBP -- by Norris B (Keppinger J), by Cain M (Corporan C), by Carpenter D (Huff A)
+T -- 3:24
+A -- 41681
+     Game of 8/29/2011 -- Chicago at San Francisco (N)
+
+  Chicago            AB  R  H RBI    San Francisco      AB  R  H RBI
+Castro S, ss          5  1  2  0   Torres A, cf          3  0  1  0   
+DeWitt B, 2b          5  2  2  3   Keppinger J, 2b       4  0  0  0   
+Barney D, 2b          0  0  0  0   Beltran C, rf         4  0  0  0   
+Ramirez A, 3b         5  0  1  0   Sandoval P, 3b        4  0  0  0   
+Pena C, 1b            2  1  1  1   Huff A, 1b            3  0  0  0   
+Byrd M, cf            5  0  1  1   DeRosa M, 1b          0  0  0  0   
+Colvin T, rf          5  0  0  0   Cabrera O, ss         3  0  0  0   
+Soriano A, lf         4  1  1  1   Belt B, lf            3  0  0  0   
+Campana T, lf         0  0  0  0   Stewart C, c          2  0  0  0   
+Soto G, c             3  1  1  1   Fontenot M, ph        1  0  1  0   
+Wells R, p            3  1  0  0   Lopez J, p            0  0  0  0   
+                                   Lincecum T, p         2  0  0  0   
+                                   Edlefsen S, p         0  0  0  0   
+                                   Ross C, ph            1  0  0  0   
+                                   Whiteside E, c        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7  9  7                        30  0  2  0
+
+Chicago          000 010 501 --  7
+San Francisco    000 000 000 --  0
+
+  Chicago              IP  H  R ER BB SO
+Wells R (W)           9.0  2  0  0  1  7
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (L)*       6.0  6  5  4  4  4
+Edlefsen S            2.0  1  1  1  1  1
+Lopez J               1.0  2  1  1  0  0
+  * Pitched to 4 batters in 7th
+
+E -- Ramirez A, Cabrera O
+LOB -- Chicago 8, San Francisco 4
+2B -- Castro S 2, Torres A
+3B -- DeWitt B
+HR -- Soriano A, Soto G, DeWitt B, Pena C
+SB -- Torres A
+T -- 2:24
+A -- 41063
+     Game of 8/30/2011 -- Chicago at San Francisco (N)
+
+  Chicago            AB  R  H RBI    San Francisco      AB  R  H RBI
+Castro S, ss          4  1  1  0   Torres A, cf          5  0  1  0   
+Barney D, 2b          4  0  0  1   Keppinger J, 2b       5  0  3  2   
+Ramirez A, 3b         4  2  1  0   Beltran C, rf         4  0  0  0   
+Pena C, 1b            3  1  1  0   Sandoval P, 3b        4  0  1  0   
+Soriano A, lf         5  1  2  2   Huff A, 1b            4  0  1  0   
+Marmol C, p           0  0  0  0   Belt B, lf            3  0  0  0   
+Byrd M, cf            5  0  1  0   Ramirez R, p          0  0  0  0   
+Colvin T, rf          3  0  1  0   DeRosa M, ph          1  0  0  0   
+Soto G, c             3  0  1  2   Affeldt J, p          0  0  0  0   
+Garza M, p            4  0  2  0   Fontenot M, ss        4  1  1  0   
+Marshall S, p         0  0  0  0   Stewart C, c          2  0  0  0   
+Wood K, p             0  0  0  0   Rowand A, ph          1  0  0  0   
+Campana T, lf         0  0  0  0   Whiteside E, c        1  0  0  0   
+                                   Vogelsong R, p        1  0  1  0   
+                                   Tejada M, ph          1  0  1  0   
+                                   Mota G, p             0  0  0  0   
+                                   Ross C, lf            0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5 10  5                        36  2  9  2
+
+Chicago          012 000 200 --  5
+San Francisco    000 010 100 --  2
+
+  Chicago              IP  H  R ER BB SO
+Garza M (W)           6.2  9  2  2  1  6
+Marshall S            0.2  0  0  0  0  1
+Wood K                0.2  0  0  0  0  0
+Marmol C (S)          1.0  0  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R (L)       5.0  7  3  3  2  3
+Mota G*               1.0  2  2  2  3  0
+Ramirez R             2.0  1  0  0  1  1
+Affeldt J             1.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Ramirez A, Castro S
+DP -- Chicago 1
+LOB -- Chicago 10, San Francisco 9
+2B -- Colvin T, Keppinger J, Soto G
+3B -- Castro S
+HR -- Soriano A
+SF -- Barney D
+HBP -- by Marmol C (Ross C)
+T -- 3:04
+A -- 41165
+     Game of 8/31/2011 -- Chicago at San Francisco (D)
+
+  Chicago            AB  R  H RBI    San Francisco      AB  R  H RBI
+Castro S, ss          4  0  1  0   Torres A, cf          5  0  1  0   
+Johnson R, rf         4  0  0  0   Keppinger J, 2b       4  1  3  2   
+Ramirez A, 3b         4  0  0  0   Sandoval P, 3b        4  1  2  1   
+Baker J, 1b           3  0  0  0   Beltran C, rf         3  0  0  0   
+Soriano A, lf         2  0  0  0   DeRosa M, 1b          4  0  2  0   
+Samardzija J, p       0  0  0  0   Ross C, lf            3  0  0  0   
+Byrd M, cf            3  0  1  0   Fontenot M, ss        3  1  1  0   
+Soto G, c             2  0  0  0   Stewart C, c          4  1  2  1   
+Barney D, 2b          3  0  0  0   Bumgarner M, p        2  0  0  0   
+Lopez R, p            2  0  0  0   Burrell P, ph         1  0  1  0   
+Grabow J, p           0  0  0  0   Romo S, p             0  0  0  0   
+Russell J, p          0  0  0  0                                      
+DeWitt B, lf          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  0  2  0                        33  4 12  4
+
+Chicago          000 000 000 --  0
+San Francisco    000 211 00x --  4
+
+  Chicago              IP  H  R ER BB SO
+Lopez R (L)           5.1  9  4  4  2  2
+Grabow J              0.2  0  0  0  0  0
+Russell J             0.2  1  0  0  0  0
+Samardzija J          1.1  2  0  0  0  3
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (W)       8.0  2  0  0  2 11
+Romo S                1.0  0  0  0  0  1
+
+E -- Stewart C, Castro S
+DP -- San Francisco 1
+LOB -- Chicago 3, San Francisco 9
+2B -- Fontenot M, Stewart C, Keppinger J
+HR -- Keppinger J, Sandoval P
+SB -- Castro S
+CS -- Torres A, Ross C
+SH -- Bumgarner M
+HBP -- by Lopez R (Ross C)
+WP -- Samardzija J
+T -- 2:29
+A -- 41099
+     Game of 9/2/2011 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Roberts R, 3b         3  1  1  0   Ross C, cf-lf         3  2  2  2   
+Hill A, 2b            3  1  1  1   Keppinger J, 2b       4  1  1  1   
+Upton J, rf           3  0  1  0   Beltran C, rf         4  1  4  3   
+Montero M, c          4  0  2  1   Sandoval P, 3b        4  0  0  0   
+Goldschmidt P, 1b     3  0  0  0   Burrell P, lf         1  0  0  0   
+Young C, cf           3  0  0  0   Torres A, pr-cf       0  0  0  0   
+Parra G, lf           4  0  1  0   Huff A, 1b            3  0  0  0   
+McDonald J, ss        4  0  0  0   Cabrera O, ss         4  0  0  0   
+Saunders J, p         2  0  0  0   Whiteside E, c        4  0  0  0   
+Ziegler B, p          0  0  0  0   Cain M, p             2  2  0  0   
+Burroughs S, ph       1  0  0  0   Belt B, ph            1  0  0  0   
+Demel S, p            0  0  0  0   Casilla S, p          0  0  0  0   
+Paterson J, p         0  0  0  0                                      
+Cook R, p             0  0  0  0                                      
+Blum G, ph            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        30  6  7  6
+
+Arizona          100 010 000 --  2
+San Francisco    003 010 20x --  6
+
+  Arizona              IP  H  R ER BB SO
+Saunders J (L)        5.1  5  4  3  4  3
+Ziegler B             0.2  0  0  0  0  1
+Demel S               0.1  2  2  2  1  0
+Paterson J            0.2  0  0  0  1  1
+Cook R                1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (W)            8.0  5  2  2  4  3
+Casilla S             1.0  1  0  0  0  2
+
+E -- McDonald J
+DP -- Arizona 2, San Francisco 1
+LOB -- Arizona 7, San Francisco 6
+2B -- Montero M, Keppinger J, Upton J, Ross C
+3B -- Beltran C, Roberts R
+HR -- Beltran C, Ross C
+SF -- Hill A
+WP -- Saunders J
+PB -- Montero M
+T -- 2:38
+A -- 40948
+     Game of 9/3/2011 -- Arizona at San Francisco (N)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Bloomquist W, ss      4  1  1  0   Ross C, cf-lf         5  1  1  0   
+Hill A, 2b            4  0  2  1   Keppinger J, 2b       4  1  1  0   
+Upton J, rf           3  2  1  1   Beltran C, rf         3  0  3  0   
+Montero M, c          4  0  1  0   Sandoval P, 3b        2  0  0  2   
+Goldschmidt P, 1b     4  2  2  2   Burrell P, lf         1  0  0  0   
+Young C, cf           5  0  1  1   Torres A, cf          2  0  0  0   
+Roberts R, 3b         5  1  2  1   Huff A, 1b            4  0  1  0   
+Parra G, lf           3  1  2  1   Cabrera O, ss         4  0  2  0   
+Kennedy I, p          2  0  0  0   Stewart C, c          2  0  0  0   
+Burroughs S, ph       1  0  0  0   Gillaspie C, ph       1  0  0  0   
+Hernandez D, p        0  0  0  0   Lopez J, p            0  0  0  0   
+Shaw B, p             0  0  0  0   Edlefsen S, p         0  0  0  0   
+                                   DeRosa M, ph          1  0  1  0   
+                                   Lincecum T, p         2  0  0  0   
+                                   Mota G, p             0  0  0  0   
+                                   Fontenot M, ph        1  0  0  0   
+                                   Whiteside E, c        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7 12  7                        33  2  9  2
+
+Arizona          001 112 002 --  7
+San Francisco    001 000 010 --  2
+
+  Arizona              IP  H  R ER BB SO
+Kennedy I (W)         7.0  5  1  1  2  6
+Hernandez D           1.0  2  1  1  0  0
+Shaw B                1.0  2  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (L)*       5.0  9  5  5  3  7
+Mota G                2.0  0  0  0  2  2
+Lopez J               0.1  0  0  0  0  0
+Edlefsen S            1.2  3  2  2  1  1
+  * Pitched to 2 batters in 6th
+
+DP -- Arizona 1, San Francisco 1
+LOB -- Arizona 9, San Francisco 8
+2B -- Hill A 2, Beltran C, Young C, Roberts R, Parra G
+HR -- Goldschmidt P
+CS -- Bloomquist W
+SH -- Kennedy I
+SF -- Sandoval P 2
+HBP -- by Mota G (Bloomquist W)
+WP -- Kennedy I
+T -- 2:45
+A -- 41951
+     Game of 9/4/2011 -- Arizona at San Francisco (D)
+
+  Arizona            AB  R  H RBI    San Francisco      AB  R  H RBI
+Bloomquist W, ss      4  1  2  2   Ross C, cf-lf         4  1  1  1   
+Hill A, 2b            4  0  2  1   Keppinger J, 2b       4  0  0  0   
+Upton J, rf           1  0  0  0   Beltran C, rf         4  0  1  0   
+Cowgill C, lf         2  0  0  0   Sandoval P, 3b        3  0  0  0   
+Montero M, c          4  0  1  0   Huff A, 1b            3  0  1  0   
+Goldschmidt P, 1b     4  0  0  0   Torres A, pr-cf       1  0  0  0   
+Young C, cf           4  0  0  0   Belt B, lf-1b         3  0  0  0   
+Roberts R, 3b         4  1  1  1   Cabrera O, ss         3  0  0  0   
+Parra G, lf-rf        3  1  1  0   Ramirez R, p          0  0  0  0   
+Hudson D, p           2  0  0  0   Whiteside E, c        3  0  0  0   
+Blum G, ph            0  1  0  0   Vogelsong R, p        2  0  0  0   
+Hernandez D, p        0  0  0  0   Affeldt J, p          0  0  0  0   
+Putz J, p             0  0  0  0   Fontenot M, ss        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  7  4                        31  1  3  1
+
+Arizona          000 000 040 --  4
+San Francisco    100 000 000 --  1
+
+  Arizona              IP  H  R ER BB SO
+Hudson D (W)          7.0  3  1  1  1  5
+Hernandez D           1.0  0  0  0  0  1
+Putz J (S)            1.0  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R (L)       7.1  5  2  2  1  6
+Affeldt J*            0.0  0  1  1  1  0
+Ramirez R             1.2  2  1  1  0  4
+  * Pitched to 1 batter in 8th
+
+E -- Roberts R, Hudson D
+DP -- San Francisco 2
+LOB -- Arizona 3, San Francisco 4
+3B -- Beltran C, Bloomquist W
+HR -- Ross C, Roberts R
+CS -- Hill A
+T -- 2:39
+A -- 42222
+     Game of 9/9/2011 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Gordon D, ss          5  0  0  0   Christian J, cf       4  1  0  0   
+Loney J, 1b           5  0  0  0   Keppinger J, 2b       4  0  0  0   
+Kemp M, cf            4  1  2  0   Beltran C, rf         3  0  0  0   
+Rivera J, rf          3  0  2  1   Sandoval P, 3b        4  0  1  1   
+Gwynn T, pr-lf        0  0  0  0   Pill B, 1b            3  0  0  0   
+Miles A, 3b           4  0  2  0   Ross C, lf            3  0  0  0   
+Sands J, lf-rf        3  0  0  0   Cabrera O, ss         3  0  1  0   
+Barajas R, c          4  0  1  0   Stewart C, c          3  0  1  0   
+Velez E, pr           0  1  0  0   Ford D, pr            0  0  0  0   
+Ellis A, c            0  0  0  0   Casilla S, p          0  0  0  0   
+Sellers J, 2b         2  0  0  0   Lincecum T, p         2  0  0  0   
+Guerra J, p           0  0  0  0   DeRosa M, ph          1  0  0  0   
+Kershaw C, p          2  0  0  0   Whiteside E, c        0  0  0  0   
+Carroll J, ph-2b      1  0  0  1                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        30  1  3  1
+
+Los Angeles      000 000 011 --  2
+San Francisco    100 000 000 --  1
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C (W)         8.0  3  1  0  1  9
+Guerra J (S)          1.0  0  0  0  0  0
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T            8.0  6  1  1  2  6
+Casilla S (L)         1.0  1  1  1  0  0
+
+E -- Gordon D
+LOB -- Los Angeles 9, San Francisco 3
+SB -- Christian J, Kemp M, Ford D
+CS -- Cabrera O
+SH -- Kershaw C, Sellers J
+HBP -- by Lincecum T (Sellers J)
+WP -- Casilla S
+T -- 2:37
+A -- 41902
+     Game of 9/10/2011 -- Los Angeles at San Francisco (N)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Gordon D, ss          5  0  1  0   Christian J, cf       3  0  0  0   
+Sellers J, 3b         4  0  0  0   Huff A, ph            1  0  0  0   
+Kemp M, cf            4  1  1  0   Whiteside E, c        0  0  0  0   
+Rivera J, rf          4  1  3  1   Keppinger J, 2b       4  0  0  0   
+Gwynn T, pr-lf        1  0  0  0   Edlefsen S, p         0  0  0  0   
+Loney J, 1b           3  1  2  0   Runzler D, p          0  0  0  0   
+Sands J, lf-rf        4  0  1  1   Ramirez R, p          0  0  0  0   
+Ellis A, c            4  0  0  0   Lopez J, p            0  0  0  0   
+Carroll J, 2b         4  0  1  0   Beltran C, rf         4  0  0  0   
+Eveland D, p          2  0  0  0   Sandoval P, 3b        3  0  1  0   
+Jansen K, p           0  0  0  0   Pill B, 1b            4  0  1  0   
+Oeltjen T, ph         1  0  1  0   Belt B, lf            4  0  1  0   
+Guerra J, p           0  0  0  0   Cabrera O, ss         4  0  1  0   
+                                   Sanchez H, c          2  0  0  0   
+                                   Burriss E, pr-2b      0  0  0  0   
+                                   Burrell P, ph         1  0  0  0   
+                                   Vogelsong R, p        1  0  0  0   
+                                   DeRosa M, ph          1  0  1  0   
+                                   Torres A, pr-cf       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3 10  2                        32  0  5  0
+
+Los Angeles      010 200 000 --  3
+San Francisco    000 000 000 --  0
+
+  Los Angeles          IP  H  R ER BB SO
+Eveland D (W)*        7.0  3  0  0  2  3
+Jansen K              1.0  1  0  0  0  2
+Guerra J (S)          1.0  1  0  0  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R (L)       8.0  9  3  3  1  6
+Edlefsen S            0.1  1  0  0  0  0
+Runzler D             0.1  0  0  0  0  1
+Ramirez R+            0.0  0  0  0  2  0
+Lopez J               0.1  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+  + Pitched to 2 batters in 9th
+
+LOB -- Los Angeles 10, San Francisco 8
+2B -- Pill B
+3B -- Loney J, Kemp M
+SB -- Gordon D, Gwynn T, Oeltjen T 2
+SH -- Eveland D
+WP -- Ramirez R
+Balk -- Vogelsong R
+T -- 2:55
+A -- 42121
+     Game of 9/11/2011 -- Los Angeles at San Francisco (D)
+
+  Los Angeles        AB  R  H RBI    San Francisco      AB  R  H RBI
+Gordon D, ss          3  0  0  0   Ross C, cf-lf         4  1  1  0   
+Sands J, rf           4  0  0  0   Keppinger J, 2b       4  2  2  2   
+Kemp M, cf            4  0  0  0   Burriss E, 2b         1  0  0  0   
+Rivera J, 1b          3  0  0  0   Beltran C, rf         5  0  0  0   
+Miles A, 2b           4  1  1  0   Christian J, rf       0  0  0  0   
+Barajas R, c          2  0  1  0   Sandoval P, 3b        4  2  3  1   
+Federowicz T, c       1  0  0  0   Huff A, 1b            4  1  2  2   
+Gwynn T, lf           4  0  2  1   Belt B, lf            2  0  1  0   
+Mitchell R, 3b        2  0  0  0   Mota G, p             0  0  0  0   
+Kuroda H, p           2  0  0  0   Runzler D, p          0  0  0  0   
+Kuo H, p              0  0  0  0   DeRosa M, ph          1  0  1  2   
+Lindblom J, p         0  0  0  0   Edlefsen S, p         0  0  0  0   
+Elbert S, p           0  0  0  0   Joaquin W, p          0  0  0  0   
+Oeltjen T, ph         1  0  0  0   Crawford B, ss        3  1  0  0   
+Hawksworth B, p       0  0  0  0   Whiteside E, c        3  1  1  1   
+Troncoso R, p         0  0  0  0   Bumgarner M, p        1  0  0  0   
+                                   Torres A, cf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        33  8 11  8
+
+Los Angeles      010 000 000 --  1
+San Francisco    010 025 00x --  8
+
+  Los Angeles          IP  H  R ER BB SO
+Kuroda H (L)          4.2  8  3  3  1  3
+Kuo H                 0.2  0  2  2  2  1
+Lindblom J*           0.0  1  2  2  1  0
+Elbert S              0.2  1  1  1  2  1
+Hawksworth B          1.0  0  0  0  0  0
+Troncoso R            1.0  1  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (W)       5.0  3  1  1  3  8
+Mota G                0.2  1  0  0  1  1
+Runzler D             0.1  0  0  0  0  1
+Edlefsen S            1.0  0  0  0  0  0
+Joaquin W             2.0  0  0  0  0  1
+  * Pitched to 2 batters in 6th
+
+LOB -- Los Angeles 6, San Francisco 9
+2B -- Gwynn T, Huff A, Sandoval P 3, Belt B, Barajas R, Keppinger J
+SB -- Ross C
+CS -- Gwynn T
+SH -- Bumgarner M, Torres A
+T -- 3:27
+A -- 41466
+     Game of 9/12/2011 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Maybin C, cf          4  0  0  0   Ross C, cf-lf         4  3  3  2   
+Bartlett J, ss        4  1  2  0   Keppinger J, 2b       2  1  0  0   
+Guzman J, 1b          4  0  1  0   Burriss E, pr-2b      0  1  0  0   
+Hundley N, c          4  1  3  0   Beltran C, rf         4  1  2  2   
+Denorfia C, rf        4  1  3  1   Sandoval P, 3b        4  1  1  3   
+Blanks K, lf          4  0  1  1   Huff A, 1b            3  0  1  1   
+Hudson O, 2b          4  0  1  1   Belt B, lf            3  0  0  0   
+Darnell J, 3b         3  0  0  0   Ramirez R, p          1  0  0  0   
+Harang A, p           2  0  0  0   Romo S, p             0  0  0  0   
+Hermida J, ph         0  0  0  0   Sanchez H, c          4  0  1  0   
+Cunningham A, ph      1  0  0  0   Crawford B, ss        4  0  0  0   
+Spence J, p           0  0  0  0   Surkamp E, p          2  0  0  0   
+Carpenter D, p        0  0  0  0   Edlefsen S, p         0  0  0  0   
+Fulchino J, p         0  0  0  0   Runzler D, p          0  0  0  0   
+Rizzo A, ph           1  0  0  0   Torres A, cf          1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3 11  3                        32  8  9  8
+
+San Diego        000 102 000 --  3
+San Francisco    202 000 40x --  8
+
+  San Diego            IP  H  R ER BB SO
+Harang A (L)          5.0  6  4  4  2  4
+Spence J*             1.0  1  1  1  1  1
+Carpenter D           1.0  2  3  3  1  0
+Fulchino J            1.0  0  0  0  1  1
+
+  San Francisco        IP  H  R ER BB SO
+Surkamp E (W)         5.2  7  3  2  1  0
+Edlefsen S+           0.0  2  0  0  1  0
+Runzler D             0.1  0  0  0  0  0
+Ramirez R             1.1  2  0  0  0  2
+Romo S                1.2  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+  + Pitched to 3 batters in 6th
+
+E -- Surkamp E
+DP -- San Diego 1, San Francisco 1
+LOB -- San Diego 7, San Francisco 5
+2B -- Sanchez H, Ross C
+HR -- Beltran C, Ross C, Sandoval P
+CS -- Bartlett J, Maybin C, Sandoval P
+WP -- Carpenter D 2
+T -- 2:51
+A -- 41069
+     Game of 9/13/2011 -- San Diego at San Francisco (N)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Venable W, rf         3  0  0  0   Ross C, lf            6  2  2  0   
+Cunningham A, ph      1  1  1  0   Keppinger J, 2b       5  0  1  0   
+Gregerson L, p        0  0  0  0   Casilla S, p          0  0  0  0   
+Thatcher J, p         0  0  0  0   Torres A, cf          1  0  0  0   
+Qualls C, p           0  0  0  0   Beltran C, rf         5  0  3  0   
+Hermida J, ph         1  0  0  0   Sandoval P, 3b        6  1  3  1   
+Bass A, p             0  0  0  0   Pill B, 1b            3  0  1  0   
+Rizzo A, ph           1  0  0  0   Huff A, ph            0  0  0  0   
+Brach B, p            0  0  0  0   DeRosa M, ph-1b       3  0  1  1   
+Bartlett J, ss        6  0  1  2   Cabrera O, ss         3  0  1  0   
+Maybin C, cf          6  0  0  0   Ford D, pr            0  0  0  0   
+Guzman J, 1b          5  0  0  0   Romo S, p             0  0  0  0   
+Hundley N, c          4  0  2  0   Fontenot M, 2b        1  0  0  0   
+Denorfia C, lf-rf     5  0  1  0   Christian J, cf       4  0  1  1   
+Hudson O, 2b          4  0  1  0   Gillaspie C, ph       1  0  0  0   
+Darnell J, 3b         2  0  2  0   Ramirez R, p          0  0  0  0   
+Luebke C, p           2  0  0  0   Whiteside E, c        5  0  2  0   
+Parrino A, ph         0  0  0  0   Cain M, p             3  0  0  0   
+Blanks K, ph-lf       3  1  0  0   Lopez J, p            0  0  0  0   
+                                   Mota G, p             0  0  0  0   
+                                   Burrell P, ph         1  0  0  0   
+                                   Crawford B, ss        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     43  2  8  2                        48  3 15  3
+
+San Diego        000 000 200 000 --  2
+San Francisco    100 100 000 001 --  3
+  2 outs when winning run was scored.
+
+  San Diego            IP  H  R ER BB SO
+Luebke C              6.0 10  2  2  0  8
+Gregerson L           0.2  2  0  0  0  1
+Thatcher J            0.1  0  0  0  0  1
+Qualls C              1.0  1  0  0  1  1
+Bass A                3.0  0  0  0  0  2
+Brach B (L)           0.2  2  1  1  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Cain M                6.1  4  1  1  3  6
+Lopez J               0.1  1  1  1  0  0
+Mota G                1.1  1  0  0  0  3
+Romo S                1.0  1  0  0  0  2
+Casilla S             2.0  1  0  0  1  4
+Ramirez R (W)         1.0  0  0  0  0  2
+
+E -- Maybin C
+DP -- San Diego 1
+LOB -- San Diego 10, San Francisco 12
+2B -- Beltran C, Darnell J, Hundley N, Whiteside E, Cunningham A, Bartlett J
+SB -- Hundley N, Denorfia C
+SH -- Darnell J
+WP -- Brach B
+T -- 3:48
+A -- 41510
+     Game of 9/14/2011 -- San Diego at San Francisco (D)
+
+  San Diego          AB  R  H RBI    San Francisco      AB  R  H RBI
+Venable W, rf         3  0  1  0   Ross C, cf-lf         4  0  0  0   
+Hudson O, ph-2b       1  0  0  0   Keppinger J, 2b       4  0  1  0   
+Gonzalez A, ss        3  0  0  0   Beltran C, rf         3  2  2  2   
+Hermida J, ph         1  0  0  0   Sandoval P, 3b        3  0  0  0   
+Thatcher J, p         0  0  0  0   Burrell P, ph         0  0  0  0   
+Maybin C, cf          3  1  0  0   Christian J, pr       0  0  0  0   
+Guzman J, lf          4  0  2  1   Casilla S, p          0  0  0  0   
+Darnell J, 3b         4  0  1  0   Huff A, 1b            4  0  1  0   
+Rizzo A, 1b           4  0  0  0   Belt B, lf            3  0  1  0   
+Martinez L, c         3  0  0  0   Torres A, pr-cf       0  1  0  0   
+Parrino A, 2b-ss      2  0  0  0   Sanchez H, c          3  0  0  0   
+Latos M, p            2  0  0  0   Crawford B, ss        3  0  1  0   
+Denorfia C, ph-rf     0  0  0  0   Lincecum T, p         2  0  0  0   
+                                   DeRosa M, ph          1  0  1  1   
+                                   Ford D, pr            0  0  0  0   
+                                   Runzler D, p          0  0  0  0   
+                                   Romo S, p             0  0  0  0   
+                                   Cabrera O, 3b         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        30  3  7  3
+
+San Diego        100 000 000 --  1
+San Francisco    100 001 10x --  3
+
+  San Diego            IP  H  R ER BB SO
+Latos M (L)           7.0  7  3  3  1  8
+Thatcher J            1.0  0  0  0  1  0
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T (W)        7.0  4  1  0  2  6
+Runzler D*            0.0  0  0  0  1  0
+Romo S                1.0  0  0  0  0  1
+Casilla S (S)         1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Huff A, Gonzalez A
+DP -- San Francisco 1
+LOB -- San Diego 5, San Francisco 5
+2B -- Guzman J, Venable W, Darnell J, Belt B
+HR -- Beltran C 2
+SB -- Maybin C, Venable W, Ford D
+CS -- Guzman J, Christian J
+T -- 2:18
+A -- 41209
+     Game of 9/26/2011 -- Colorado at San Francisco (N)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Young E, lf           4  0  1  0   Torres A, cf          3  1  0  0   
+Ellis M, 2b           4  0  2  1   Fontenot M, 2b        3  1  2  2   
+Fowler D, cf          4  0  1  0   Beltran C, rf         3  0  0  0   
+Smith S, rf           4  0  2  0   Sandoval P, 3b        3  0  2  0   
+Pacheco J, 1b         4  0  0  0   Pill B, 1b            3  0  2  1   
+Kouzmanoff K, 3b      4  0  0  0   Belt B, lf            3  0  0  0   
+Rosario W, c          3  1  1  0   Christian J, lf       1  0  0  0   
+Field T, ss           3  0  0  0   Crawford B, ss        3  0  1  0   
+Chacin J, p           2  0  0  0   Whiteside E, c        3  0  0  0   
+Wigginton T, ph       1  0  0  0   Vogelsong R, p        2  1  1  0   
+Romero J, p           0  0  0  0   Gillaspie C, ph       1  0  0  0   
+Lindstrom M, p        0  0  0  0   Romo S, p             0  0  0  0   
+                                   Lopez J, p            0  0  0  0   
+                                   Casilla S, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  7  1                        28  3  8  3
+
+Colorado         000 000 010 --  1
+San Francisco    002 000 01x --  3
+
+  Colorado             IP  H  R ER BB SO
+Chacin J (L)          7.0  8  2  2  1  3
+Romero J              0.1  0  1  1  2  0
+Lindstrom M           0.2  0  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Vogelsong R (W)       7.0  4  0  0  0  4
+Romo S                1.0  3  1  1  0  3
+Lopez J               0.1  0  0  0  0  0
+Casilla S (S)         0.2  0  0  0  0  1
+
+DP -- Colorado 1, San Francisco 1
+LOB -- Colorado 5, San Francisco 6
+2B -- Fowler D, Smith S
+3B -- Fontenot M
+SB -- Ellis M
+CS -- Sandoval P
+SH -- Sandoval P
+SF -- Pill B
+T -- 2:32
+A -- 41956
+     Game of 9/27/2011 -- Colorado at San Francisco (N)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Young E, lf           4  0  0  0   Torres A, cf          4  1  0  0   
+Ellis M, 2b           4  0  1  0   Fontenot M, 2b        3  0  0  1   
+Fowler D, cf          4  0  0  0   Beltran C, rf         4  0  1  0   
+Kouzmanoff K, 3b      4  0  1  0   Christian J, rf       0  0  0  0   
+Pacheco J, 1b         3  0  1  0   Sandoval P, 1b        2  0  1  0   
+Wigginton T, rf       3  0  0  0   Pill B, ph-1b         2  1  1  0   
+Rosario W, c          3  0  0  0   Gillaspie C, 3b       4  2  2  2   
+Field T, ss           3  0  0  0   Belt B, lf            3  2  3  2   
+White A, p            1  0  0  0   Crawford B, ss        3  1  2  1   
+Reynolds M, p         0  0  0  0   Whiteside E, c        4  0  0  0   
+Iannetta C, ph        0  0  0  0   Bumgarner M, p        3  0  0  0   
+Rogers E, p           0  0  0  0   Ramirez R, p          0  0  0  0   
+Smith S, ph           1  0  0  0   Burrell P, ph         1  0  0  0   
+Miller J, p           0  0  0  0   Zito B, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  3  0                        33  7 10  6
+
+Colorado         000 000 000 --  0
+San Francisco    100 202 20x --  7
+
+  Colorado             IP  H  R ER BB SO
+White A (L)           4.0  6  3  3  2  1
+Reynolds M            1.0  0  0  0  0  2
+Rogers E              2.0  4  4  4  1  3
+Miller J              1.0  0  0  0  0  2
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (W)       7.0  2  0  0  0  9
+Ramirez R             1.0  0  0  0  0  1
+Zito B                1.0  1  0  0  0  2
+
+E -- White A, Rosario W
+LOB -- Colorado 4, San Francisco 6
+2B -- Kouzmanoff K, Crawford B
+3B -- Crawford B
+HR -- Belt B, Gillaspie C
+CS -- Belt B
+SF -- Fontenot M
+HBP -- by Bumgarner M (Iannetta C)
+WP -- White A 3, Rogers E
+T -- 2:49
+A -- 42370
+     Game of 9/28/2011 -- Colorado at San Francisco (D)
+
+  Colorado           AB  R  H RBI    San Francisco      AB  R  H RBI
+Young E, lf           5  1  2  0   Christian J, cf       5  1  2  0   
+Fowler D, cf          5  2  2  1   Keppinger J, 2b       4  1  1  1   
+Ellis M, 2b           4  1  1  0   Beltran C, rf         2  0  0  0   
+Kouzmanoff K, 3b      5  2  3  2   Torres A, rf          2  0  1  0   
+Smith S, rf           4  0  1  1   Burrell P, lf         3  0  1  0   
+Pacheco J, c          5  0  2  2   Belt B, lf            1  0  0  0   
+Wigginton T, 1b       3  0  0  0   Pill B, 1b            4  1  1  0   
+Field T, ss           4  0  2  0   DeRosa M, 3b          4  0  2  2   
+Pomeranz D, p         2  0  0  0   Burriss E, ss         3  0  0  0   
+Lindstrom M, p        0  0  0  0   Fontenot M, ph        1  0  0  0   
+Belisle M, p          0  0  0  0   Sanchez H, c          4  0  1  0   
+Iannetta C, ph        1  0  0  0   Surkamp E, p          1  0  0  0   
+Brothers R, p         0  0  0  0   Edlefsen S, p         0  0  0  0   
+Betancourt R, p       0  0  0  0   Gillaspie C, ph       1  0  0  0   
+                                   Mota G, p             0  0  0  0   
+                                   Runzler D, p          0  0  0  0   
+                                   Romo S, p             0  0  0  0   
+                                   Huff A, ph            1  0  1  0   
+                                   Ramirez R, p          0  0  0  0   
+                                   Casilla S, p          0  0  0  0   
+                                   Sandoval P, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 13  6                        37  3 10  3
+
+Colorado         200 020 200 --  6
+San Francisco    000 003 000 --  3
+
+  Colorado             IP  H  R ER BB SO
+Pomeranz D (W)        5.2  6  3  3  0  3
+Lindstrom M           0.1  1  0  0  0  0
+Belisle M             1.0  1  0  0  0  0
+Brothers R            1.0  1  0  0  0  3
+Betancourt R (S)      1.0  1  0  0  0  1
+
+  San Francisco        IP  H  R ER BB SO
+Surkamp E (L)         4.2  8  4  4  2  3
+Edlefsen S            0.1  0  0  0  0  1
+Mota G                1.1  2  2  2  0  2
+Runzler D*            0.0  1  0  0  0  0
+Romo S                0.2  1  0  0  0  1
+Ramirez R             1.0  1  0  0  0  0
+Casilla S             1.0  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+DP -- San Francisco 1
+LOB -- Colorado 9, San Francisco 7
+2B -- Kouzmanoff K 2, Christian J, Pill B
+3B -- Young E
+SB -- Ellis M, Young E, Torres A 2
+CS -- Ellis M
+SH -- Pomeranz D
+HBP -- by Surkamp E (Wigginton T)
+WP -- Pomeranz D
+T -- 2:53
+A -- 41873
+
