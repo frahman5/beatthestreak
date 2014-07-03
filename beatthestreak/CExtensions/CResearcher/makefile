@@ -3,7 +3,7 @@ uhD2 = /CExtensions/CResearcher/uthash-master/src
 
 test: crhelper.c testcresearcher.c boxscorebuffer.c playerInfoCache.c
 	gcc -DHASH_DEBUG=1 -I $(uthashDir1)$(uhD2) -o test crhelper.c testcresearcher.c boxscorebuffer.c playerInfoCache.c
-python:
+python: boxscorebuffer.c cresearcher.c crhelper.c playerInfoCache.c config.h crhelper.h playerInfoCache.h boxscorebuffer.h
 	python setup.py build -g
 	python setup.py install
 testgdb: crhelper.c testcresearcher.c boxscorebuffer.c playerInfoCache.c

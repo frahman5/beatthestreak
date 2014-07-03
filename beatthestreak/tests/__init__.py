@@ -40,20 +40,20 @@ def teardown():
 
 
 ## testPlayer variables
-p1BattingAve, p2BattingAve  = 0.228, 0.287
-p3BattingAve, p4BattingAve = 0.262, 0.248
+p1BattingAve, p2BattingAve  = 0.267, 0.337
+p3BattingAve, p4BattingAve = 0.244, 0.248
 p5BattingAve = 0.332 
-p1 = Player("Edwin", "Jackson", 2012)
-p2 = Player("Jose", "Reyes", 2012, debut='6/10/2003')
-p3 = Player("Alfonso", "Soriano", 2012)
+p1 = Player("Edwin", "Jackson", 2011)
+p2 = Player("Jose", "Reyes", 2011, debut='6/10/2003')
+p3 = Player("Alfonso", "Soriano", 2011)
 p4 = Player("Jorge", "Posada", 2010)
 p5 = Player("Manny", "Ramirez", 2008) # season he got traded 
 
 # Get player hit info csv's
-# for player, year in [ (p1, 2012), (p2, 2012), (p3, 2012), 
-#                       (p4, 2010), (p5, 2008)
-#                     ]:
-#     Researcher.create_player_hit_info_csv(player, year)
+for player, year in [ (p1, 2011), (p2, 2011), (p3, 2011), 
+                      (p4, 2010), (p5, 2008)
+                    ]:
+    Researcher.create_player_hit_info_csv(player, year)
 
 ## testRetrosheet variables
 r2011 = Retrosheet(2011)

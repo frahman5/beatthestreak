@@ -29,7 +29,7 @@ class testPlayer(unittest.TestCase):
         # # help if you don't provide a debut date
         self.assertEqual(Player("Jose", "Reyes", 2005).get_retrosheet_id(), "reyej001")
         ## player initalized from lahmanID should have right data
-        pL = Player("jacksed01", 2012)
+        pL = Player("jacksed01", 2011)
         self.assertEqual(
             (pL.get_first_name(), pL.get_last_name(), pL.get_bat_ave(), 
                 pL.get_lahman_id(), pL.get_retrosheet_id()), 
@@ -46,8 +46,8 @@ class testPlayer(unittest.TestCase):
         self.assertEqual(p1, p3)
 
     def test__repr__and__str__(self):
-        self.assertEqual(str(p1), "Edwin Jackson: 0.228")
-        self.assertEqual("%r" % p1, "Edwin Jackson: 0.228")
+        self.assertEqual(str(p1), "Edwin Jackson: 0.267")
+        self.assertEqual("%r" % p1, "Edwin Jackson: 0.267")
         
     def test_get_and_set_lahman_id(self):
         self.assertEqual(p1.get_lahman_id(), "jacksed01")

@@ -10,7 +10,7 @@ from cresearcher import cfinish_did_get_hit, cget_hit_info, cdid_start, copposin
 class TestCResearcher(unittest.TestCase):
 
     def test_c_did_get_hit(self):
-    # Edwin Jackon test
+        # Edwin Jackon test
         self.assertFalse(R.c_did_get_hit(date(2012, 5, 2), p1))
 
         # # Jose Reyes Tests (and one Albert Pujols)
@@ -88,56 +88,55 @@ class TestCResearcher(unittest.TestCase):
         self.assertFalse(R.c_did_get_hit(date(2010, 9, 4), Eric))
         self.assertTrue(R.c_did_get_hit(date(2010, 4, 23), Miguel))
 
-    def test_c_cget_hit_info(self):
-        d1 = date(2012, 4, 15)
-        d2 = date(2001, 7, 18)
-        d3 = date(2010, 4, 16)
-        d4 = date(2012, 7, 3)
+    def test_cget_hit_info(self):
 
         ## Case 1 : (True, None); player got a hit on date d1
-        Jose = Player("Jose", "Altuve", 2012)
-        R.create_player_hit_info_csv(Jose, 2012)
+        d1 = date(2011, 9, 22)
+        Jose = Player("Jose", "Altuve", 2011)
+        R.create_player_hit_info_csv(Jose, 2011)
         self.assertEqual(cget_hit_info(date=d1, lahmanID=Jose.get_lahman_id()), 
                                        (True, None))
 
         ## Case 2: (False, None); player did not get a hit on date date
-        Will = Player("Will", "Venable", 2012)
-        R.create_player_hit_info_csv(Will, 2012)
-        self.assertEqual(cget_hit_info(date=d4, lahmanID=Will.get_lahman_id()), 
+        d2 = date(2008, 9, 10)
+        Will = Player("Will", "Venable", 2008)
+        R.create_player_hit_info_csv(Will, 2008)
+        self.assertEqual(cget_hit_info(date=d2, lahmanID=Will.get_lahman_id()), 
                                         (False, None))
 
         ## Case 3: ('pass', 'Suspended, Invalid'); player played in a suspended, invalid game
+        d3 = date(2001, 7, 18)
         Mark = Player("Mark", "Grace", 2001)
         R.create_player_hit_info_csv(Mark, 2001)
-        self.assertEqual(cget_hit_info(date=d2, lahmanID=Mark.get_lahman_id()), 
+        self.assertEqual(cget_hit_info(date=d3, lahmanID=Mark.get_lahman_id()), 
                                         ('pass', 'Suspended-Invalid.'))
 
         ## Case 4: (True, 'Suspended, Valid'); player got a hit in a suspended, valid game
+        d4 = date(2010, 4, 16)
         Ben = Player("Ben", "Zobrist", 2010)
         R.create_player_hit_info_csv(Ben, 2010)
-        self.assertEqual(cget_hit_info(date=d3, lahmanID=Ben.get_lahman_id()), 
+        self.assertEqual(cget_hit_info(date=d4, lahmanID=Ben.get_lahman_id()), 
                                         (True, 'Suspended-Valid.'))
 
         ## Case 5 : (False, 'Suspended, Valid'); player did not get a hit in a suspended, valid game
         Marco = Player("Marco", "Scutaro", 2010)
         R.create_player_hit_info_csv(Marco, 2010)
-        self.assertEqual(cget_hit_info(date=d3, lahmanID=Marco.get_lahman_id()), 
+        self.assertEqual(cget_hit_info(date=d4, lahmanID=Marco.get_lahman_id()), 
                                         (False, 'Suspended-Valid.'))
 
-    def test_did_start(self):
+    def test_cdid_start(self):
         Adrian = Player("Adrian", "Beltre", 2010)
         Craig = Player("Craig", "Biggio", 2004)
         for player, year in (
-               (p1, 2011), (p2, 2011), (p1, 2012), (p2, 2012), (p1, 2009), 
-               (p2, 2012), (Adrian, 2010), (Craig, 2004)):
+               (p1, 2011), (p2, 2011), (p1, 2004), (p2, 2006), (p1, 2009), 
+               (Adrian, 2010), (Craig, 2004)):
             R.create_player_hit_info_csv(player, year)
 
         self.assertFalse(cdid_start(date=date(2011, 7, 2), lahmanID=p1.get_lahman_id()))
         self.assertTrue(cdid_start(date=date(2011, 9, 14), lahmanID=p2.get_lahman_id()))
-        self.assertFalse(cdid_start(date=date(2012, 4, 15), lahmanID=p1.get_lahman_id()))
-        self.assertTrue(cdid_start(date=date(2012, 4, 15), lahmanID=p2.get_lahman_id()))
+        self.assertFalse(cdid_start(date=date(2004, 7, 4), lahmanID=p1.get_lahman_id()))
+        self.assertTrue(cdid_start(date=date(2006, 4, 5), lahmanID=p2.get_lahman_id()))
         self.assertTrue(cdid_start(date=date(2009, 6, 17), lahmanID=p1.get_lahman_id()))
-        self.assertTrue(cdid_start(date=date(2012, 4, 9), lahmanID=p2.get_lahman_id()))
  
         # Adrian played in a game on 4/16 that was suspended and finished
         # on 4/17. He started on 4/16 and pinch ran on 4/17. Thus 
@@ -150,18 +149,19 @@ class TestCResearcher(unittest.TestCase):
         self.assertFalse(cdid_start(date=date(2004, 7, 31), lahmanID=Craig.get_lahman_id()))
         self.assertTrue(cdid_start(date=date(2004, 7, 3), lahmanID=Craig.get_lahman_id()))
 
-    def test_copposing_pitcher_era(self):
-        Jose = p2
-        Pat = Player('Pat', 'Meares', 1997)
-        Doug = Player('Doug', 'Mirabelli', 2000)
-        Jacoby = Player('Jacoby', 'Ellsbury', 2012) 
-        Ryan = Player('Ryan', 'Langerhans', 2011)
+   
+    # def test_copposing_pitcher_era(self):
+    #     Jose = p2
+    #     Pat = Player('Pat', 'Meares', 1997)
+    #     Doug = Player('Doug', 'Mirabelli', 2000)
+    #     Jacoby = Player('Jacoby', 'Ellsbury', 2012) 
+    #     Ryan = Player('Ryan', 'Langerhans', 2011)
         
-        # Some arbitrary tests
-        self.assertEqual(copposing_pitcher_era(Jose.get_lahman_id(), date(2009,5,10)), 4.50)
-        self.assertEqual(copposing_pitcher_era(Pat.get_lahman_id(), date(1997,6,16)), 5.53)
-        self.assertEqual(copposing_pitcher_era(Doug.get_lahman_id(), date(2000,9,27)), 1.69)
+    #     # Some arbitrary tests
+    #     self.assertEqual(copposing_pitcher_era(Jose.get_lahman_id(), date(2009,5,10)), 4.50)
+    #     self.assertEqual(copposing_pitcher_era(Pat.get_lahman_id(), date(1997,6,16)), 5.53)
+    #     self.assertEqual(copposing_pitcher_era(Doug.get_lahman_id(), date(2000,9,27)), 1.69)
 
-        # End Cases
-        self.assertEqual(copposing_pitcher_era(Ryan.get_lahman_id(), date(2011,4,1)), float('inf')) # Opening Day
-        self.assertEqual(copposing_pitcher_era(Jacoby.get_lahman_id(), date(2012,10,3)), 3.34) # Closing Day
+    #     # End Cases
+    #     self.assertEqual(copposing_pitcher_era(Ryan.get_lahman_id(), date(2011,4,1)), float('inf')) # Opening Day
+    #     self.assertEqual(copposing_pitcher_era(Jacoby.get_lahman_id(), date(2012,10,3)), 3.34) # Closing Day

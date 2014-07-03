@@ -44,7 +44,7 @@ class Researcher(object):
            ListOfTuples: Tuples of type (player, hitVal, otherInfo) which store
               a player, his hitVal on the given date and any miscellaneous
               info about his hitVal
-        partSupersetBuffer: a list of [date, set] where the set is the group
+        batterSetBuffer: a list of [date, set] where the set is the group
            of participants on date date
 
     """
@@ -52,7 +52,7 @@ class Researcher(object):
     listOfGamesBuffer = (None, (), 0)
     boxscoreBuffer = [None, {}]
     playerInfoBuffer = [None, []]
-    partSupersetBuffer = [None, set([])]
+    batterSetBuffer = [None, set([])]
     # playerUsedBuffer = False # for testing
     # type1SeekPosUsed = None # for testing boxscoreBuffer date searches
     # logSeekPosUsed = None # for testing listOfGames Buffer
@@ -118,7 +118,6 @@ class Researcher(object):
         # if info == ['Jackson', 'E', '(W)*', '8.0', '4', '2', '2', '3', '3']:
         #     import pdb
         #     pdb.set_trace()
-        print info
         index = info.index(lastName)
         if info[index + 1] != firstName[0] + ",": # two players with same last name on SAME line
             index = info[index + 1:].index(lastName)
@@ -352,18 +351,20 @@ class Researcher(object):
 
     @classmethod
     # @profile
-    def did_start(self, date, player):
+    def did_start_and_bat(self, date, player):
         """
         date Player -> bool
         date: date | a date in the year
         player: Player | the player of interest
 
-        Returns: True if player started a game on the given date, False otherwise
+        Returns: True if player both started and batted (as opposed to e.g
+            being the starting pitcher) in a game on the given date, 
+            False otherwise
         """
         self.check_date(date, date.year)
 
         rId = player.get_retrosheet_id()
-        part_superset = self.__get_participants_superset(date)
+        part_superset = self.__get_batters_set(date)
         return rId in part_superset
   
     @classmethod
@@ -410,24 +411,24 @@ class Researcher(object):
 
     @classmethod
     # @profile
-    def __get_participants_superset(self, date):
+    def __get_batters_set(self, date):
         """
         date -> GeneratorOfStrings  
         date: date | a date of the year
 
         Produces a set of strings that is a STRICT SUPERSET of
-        the retrosheet ids corresponding to players starting, 
-        umps officiating, and managers managing on the given day
+        the retrosheet ids corresponding to players starting and batting
+        in games on date date
         """
         self.check_date(date, date.year)
 
         # If its on the buffer, go get it
-        if self.partSupersetBuffer[0] == date:
+        if self.batterSetBuffer[0] == date:
             # self.psUsedBuffer = True # for testing
-            return self.partSupersetBuffer[1]
+            return self.batterSetBuffer[1]
         else:
             # self.psUsedBuffer = False # for testing
-            self.partSupersetBuffer[0] = date
+            self.batterSetBuffer[0] = date
 
         # else construct it
         Utilities.ensure_gamelog_files_exist(date.year)
@@ -436,9 +437,11 @@ class Researcher(object):
         listOfGames = self.__get_list_of_games(date)
 
         # get the retrosheet ids from the games and return the list 
-        answer = {field for game in listOfGames for field in game
+           # game[105:159] is the section of the gamelog that only pertains
+           # to players who batted in the game
+        answer = {field for game in listOfGames for field in game[105:159]
                     if len(field) == 8}
-        self.partSupersetBuffer[1] = answer
+        self.batterSetBuffer[1] = answer
         return answer
 
     @classmethod
@@ -596,7 +599,7 @@ class Researcher(object):
         # Construct dataframe
         while curDate != endDate:
             # print "we get into while loop"
-            if self.did_start(curDate, player):
+            if self.did_start_and_bat(curDate, player):
                 dateL.append('{0}/{1}'.format(curDate.month, curDate.day))
                 hitVal, otherInfo = self.get_hit_info(curDate, player, sGD)
                 # if player.get_lahman_id() == "youngmi02":

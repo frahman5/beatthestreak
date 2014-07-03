@@ -257,30 +257,36 @@ class TestResearcher(unittest.TestCase):
             [d3, [(Marco, False, 'Suspended-Valid.'), (Ben, True, 'Suspended-Valid.')]])
 
     #@unittest.skip("Not Focus")
-    def test_get_participants_superset(self):
-        self.assertTrue(set(participants_2011_9_4).issubset(
-          set(R._Researcher__get_participants_superset(date(2011,9,4)))))
-        self.assertTrue(set(participants_2012_3_28).issubset(
-          set(R._Researcher__get_participants_superset(date(2012,3,28)))))
+    def test_get_batters_set(self):
+        self.assertTrue(
+            R._Researcher__get_batters_set(date(2011,9,4)).issubset(
+            set(participants_2011_9_4)))
+        self.assertTrue(
+            R._Researcher__get_batters_set(date(2012,3,28)).issubset(
+            set(participants_2012_3_28)))
 
         # # # Given a suspended game s1 that was started on date d1 and completed on
-        # # # date d2, get_participants_superset(d2) should NOT return players from d1
-        self.assertTrue(set(participants_2009_7_9).issubset(
-          R._Researcher__get_participants_superset(date(2009, 7, 9)))) # May 5th HOU #@ WAS susp game completed on July 9th
-        self.assertTrue(set(participants_2007_5_2).issubset(
-          R._Researcher__get_participants_superset(date(2007, 5, 2)))) # May 1st CHN #@ PIT suspended game completed on May 2
+        # # # date d2, get_batters_set(d2) should NOT return players from d1
+        self.assertTrue(
+            R._Researcher__get_batters_set(date(2009, 7, 9)).issubset(
+            set(participants_2009_7_9))) # May 5th HOU #@ WAS susp game completed on July 9th
+        self.assertTrue(
+            R._Researcher__get_batters_set(date(2007, 5, 2)).issubset(
+            set(participants_2007_5_2)))# May 1st CHN #@ PIT suspended game completed on May 2
 
     @unittest.skip("Buffer thoroughly tested")
-    def test_get_participants_superset_buffer(self):
+    def test_get_batters_set_buffer(self):
         # Check 1: if its not on the buffer, you get the right thing
-        R.partSupersetBuffer = [None, set({})]
-        self.assertTrue(set(participants_2011_9_4).issubset(
-          set(R._Researcher__get_participants_superset(date(2011,9,4)))))
+        R.batterSetBuffer = [None, set({})]
+        self.assertTrue(
+            R._Researcher__get_batters_set(date(2011,9,4)).issubset(
+            set(participants_2011_9_4)))
 
         # Check 2: if its on the buffer, you go get it from the buffer
         self.assertFalse(R.psUsedBuffer)
-        self.assertTrue(set(participants_2011_9_4).issubset(
-          set(R._Researcher__get_participants_superset(date(2011,9,4)))))
+        self.assertTrue(
+          R._Researcher__get_batters_set(date(2011,9,4)).issubset(
+          set(participants_2011_9_4)))
         self.assertTrue(R.psUsedBuffer)
     #@unittest.skip("Not Focus")
     def test_find_home_team(self):
@@ -326,7 +332,7 @@ class TestResearcher(unittest.TestCase):
         ## CHECK 1: Not on buffer and last byte checked is of no use
             ## CHECK 1.1: If date slot is None, startSeekPos is 0 and buffer
             ## is updated with new date, listOfGames and lastByteChecked
-        R.partSupersetBuffer = [None, set([])]
+        R.batterSetBuffer = [None, set([])]
         R.logUsedBuffer = False
         R.listOfGamesBuffer = (None, (), 0)
         R.find_home_team(d1, Edwin)
@@ -340,7 +346,7 @@ class TestResearcher(unittest.TestCase):
             ## Check 1.2: If date slot is not none but it's a different year, 
             ## startSeekPos is 0 and buffer is updated with new date, 
             ## listOfGames and lastByteChecked
-        R.partSupersetBuffer = [None, set([])]
+        R.batterSetBuffer = [None, set([])]
         R.logUsedBuffer = False
         R.find_home_team(d2, Troy)
             # we didn't use the buffer
@@ -353,7 +359,7 @@ class TestResearcher(unittest.TestCase):
             ## Check 1.2: If date slot is not none, its the same year, but
             ## the date is before the date on file,  then startSeekPos is 0
             ## and buffer is updated with new date, listOfGames, and lastByteChecked
-        R.partSupersetBuffer = [None, set([])]
+        R.batterSetBuffer = [None, set([])]
         R.logUsedBuffer = False
         R.find_home_team(d3, Troy)
             # we didn't use the buffer
@@ -369,9 +375,9 @@ class TestResearcher(unittest.TestCase):
              ## greater then last date checked etc) then startseekPos is 
              ## lastByteChecked, date is updated, it returns a () 
              ## and the last byte checked remains unchanged
-        R.partSupersetBuffer = [None, set([])]
+        R.batterSetBuffer = [None, set([])]
         R.logUsedBuffer = False
-        R.did_start(d4, Alfonso) 
+        R.did_start_and_bat(d4, Alfonso) 
             # we didn't use the buffer
         self.assertFalse(R.logUsedBuffer)
             # buffer updated correctly
@@ -383,9 +389,9 @@ class TestResearcher(unittest.TestCase):
              ## than last date checked etc), then startSeekPos is lastByteCHecked,
              ## date is updated, it returns the correct listOfGames, and
              ## updates the last byte checked
-        R.partSupersetBuffer = [None, set([])]
+        R.batterSetBuffer = [None, set([])]
         R.logUsedBuffer = False
-        R.did_start(d5, Troy)
+        R.did_start_and_bat(d5, Troy)
             # we didn't use the buffer
         self.assertFalse(R.logUsedBuffer)
             # buffer updated correctly
@@ -395,9 +401,9 @@ class TestResearcher(unittest.TestCase):
         self.assertEqual(R.listOfGamesBuffer[2], 1487561)
 
         ## CHECK 3: If it's on the buffer, we get it from the buffer
-        R.partSupersetBuffer = [None, set([])]
+        R.batterSetBuffer = [None, set([])]
         R.logUsedBuffer = False
-        R.did_start(d5, Alfonso)
+        R.did_start_and_bat(d5, Alfonso)
           # we got it from the buffer
         self.assertTrue(R.logUsedBuffer)
           # buffer didn't change
@@ -413,30 +419,30 @@ class TestResearcher(unittest.TestCase):
         self.assertTrue(R.did_get_hit(date(2012, 6, 17), Albert))
 
     #@unittest.skip("Not Focus")
-    def test_did_start(self):
-        self.assertFalse(R.did_start(date(2011, 7, 2), p1))
-        self.assertTrue(R.did_start(date(2011, 9, 14), p2))
-        self.assertFalse(R.did_start(date(2012, 4, 15), p1))
-        self.assertTrue(R.did_start(date(2012, 4, 15), p2))
-        self.assertTrue(R.did_start(date(2009, 6, 17), p1))
-        self.assertTrue(R.did_start(date(2012, 4, 9), p2))
+    def test_did_start_and_bat(self):
+        self.assertFalse(R.did_start_and_bat(date(2011, 7, 2), p1))
+        self.assertTrue(R.did_start_and_bat(date(2011, 9, 14), p2))
+        self.assertFalse(R.did_start_and_bat(date(2012, 4, 15), p1))
+        self.assertTrue(R.did_start_and_bat(date(2012, 4, 15), p2))
+        self.assertTrue(R.did_start_and_bat(date(2009, 6, 17), p1))
+        self.assertTrue(R.did_start_and_bat(date(2012, 4, 9), p2))
  
         # Adrian played in a game on 4/16 that was suspended and finished
         # on 4/17. He started on 4/16 and pinch ran on 4/17. Thus 
         # he should show up as NOT HAVING started on the 17th, and started on the 16th
         Adrian = Player("Adrian", "Beltre", 2010)
-        self.assertFalse(R.did_start(date(2010, 4, 17), Adrian))
-        self.assertTrue(R.did_start(date(2010, 4, 16), Adrian))
+        self.assertFalse(R.did_start_and_bat(date(2010, 4, 17), Adrian))
+        self.assertTrue(R.did_start_and_bat(date(2010, 4, 16), Adrian))
 
         # Craig started on the 07/30 but only pinch hit on 7/31. Thus he should
         # show up as NOT having started on the 31st, and starting on the 30th
         Craig = Player("Craig", "Biggio", 2004)
-        self.assertFalse(R.did_start(date(2004, 7, 31), Craig))
-        self.assertTrue(R.did_start(date(2004, 7, 3), Craig))
+        self.assertFalse(R.did_start_and_bat(date(2004, 7, 31), Craig))
+        self.assertTrue(R.did_start_and_bat(date(2004, 7, 3), Craig))
 
         ## A nationa lleague pitcher who started in a game at an American league
         ## park, and henece is in the gamelog, but did not bat
-        self.assertFalse(R.did_start(date(2012, 6, 11), p1)) # Edwin Jackson
+        self.assertFalse(R.did_start_and_bat(date(2012, 6, 11), p1)) # Edwin Jackson
 
     #@unittest.skip("Not Focus")
     def test_get_sus_Games_dict(self):
