@@ -234,8 +234,19 @@ class Researcher(object):
             raise FileContentException(
                 "{0} not found in gamelog for date {1}".format(player, date))
         pitcherRID = relevantGame[idIndex]
-        pitcherFirstName, pitcherLastName = relevantGame[nameIndex].split()
+        splitNames = relevantGame[nameIndex].split()
+        if len(splitNames) == 2:
+            pitcherFirstName, pitcherLastName = splitNames
+        else:
+            assert (len(splitNames) > 2)
+            pitcherFirstName = splitNames[0]
+            pitcherLastName = ''
+            for word in splitNames[1:len(splitNames)-1]:
+                pitcherLastName += word
+                pitcherLastName += ' '
+            pitcherLastName += splitNames[-1]
         pitcherTeam = relevantGame[teamIndex]
+
 
         ## calculate his era leading up the date
         openingDay = self.get_opening_day(date.year)
@@ -260,12 +271,16 @@ class Researcher(object):
                            folder='unzipped', fileF='boxscore', 
                            year=date.year, team=homeTeam)
             f = open(boxscore, "r")
-            self.__search_boxscore( # search up to today's date
-                       f, searchD, date, homeTeam, 
-                       errorMessage="Failed to find date {0}".format(searchD) +\
-                       " in boxscore {0} for pitcher {1} ERA calc".format(
-                       boxscore, pitcherFirstName + " " + pitcherLastName),
-                       typeT=0)
+            dateLine = self.__search_boxscore( # search up to today's date
+                           f, searchD, date, homeTeam, 
+                           errorMessage="Failed to find date {0}".format(
+                            searchD) + " in boxscore {0}".format(boxscore) + \
+                           " for pitcher {0} ERA calc".format(
+                            pitcherFirstName + " " + pitcherLastName),
+                            typeT=0)
+            doubleHeader = False
+            if 'game 1' in dateLine:
+                doubleHeader = True
                 # get the statline, if there is one
                 # we only exit if statLine is None or a pitcher's boxscore line
             while True: 
@@ -273,7 +288,10 @@ class Researcher(object):
                               f, searchP, 
                               errorMessage="Failed to find player {0}".format(
                               searchP) + " in boxscore {0}".format(boxscore))
-                if not statLine:  # he's not in the boxscore; exit
+                if not statLine:  # he's not in the boxscore; exit if singleHeader
+                    if doubleHeader: # if it's a doubleHeader, search the next game as well
+                        doubleHeader = False # so we don't keep infinitely searching 
+                        continue
                     break
                 try:
                     rawIP = statLine.split()[-6]
@@ -297,6 +315,11 @@ class Researcher(object):
                 summand = 0.0
             pitcherERToDate += ( float(statLine.split()[-3]) )
             pitcherIPToDate += ( float(rawIP) + summand )
+            print ""
+            print "name: {} {}".format(pitcherFirstName, pitcherLastName)
+            print "{} IP, ER: {}. {}".format( 
+                    date, float(rawIP) + summand, 
+                    float(statLine.split()[-3]))
             
 
         ## If the pitcher hasn't pitched yet, return inf
@@ -593,7 +616,7 @@ class Researcher(object):
 
         curDate = self.get_opening_day(year)
         endDate = self.get_closing_day(year)
-        dateL, hitValL, otherInfoL = [], [], []
+        dateL, hitValL, otherInfoL, opPitcherEraL = [], [], [], []
         sGD = self.get_sus_games_dict(year)
 
         # Construct dataframe
@@ -602,17 +625,18 @@ class Researcher(object):
             if self.did_start_and_bat(curDate, player):
                 dateL.append('{0}/{1}'.format(curDate.month, curDate.day))
                 hitVal, otherInfo = self.get_hit_info(curDate, player, sGD)
-                # if player.get_lahman_id() == "youngmi02":
-                    # print "We get the hitVal and other Info"
+                opPitcherEra = self.opposing_pitcher_era(player, curDate)
                 if not otherInfo:
                     otherInfo = "n/a"
                 hitValL.append(hitVal)
                 otherInfoL.append(otherInfo)
+                opPitcherEraL.append(opPitcherEra)
             curDate += timedelta(days=1)
         dateS = pd.Series(dateL, name="date")
         hitValS = pd.Series(hitValL, name="hitVal")
         otherInfoS = pd.Series(otherInfoL, name="otherInfo")
-        df = pd.concat([dateS, hitValS, otherInfoS], axis=1)
+        opPitcherERAS = pd.Series(opPitcherEraL, name="opPitcherEra")
+        df = pd.concat([dateS, hitValS, otherInfoS, opPitcherERAS], axis=1)
 
         # write dataframe to csv
         filePath = Filepath.get_player_hit_info_csv_file(

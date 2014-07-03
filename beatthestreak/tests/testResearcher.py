@@ -583,13 +583,14 @@ class TestResearcher(unittest.TestCase):
         testFile.close()
 
     def test_opposing_pitcher_era(self):
-        Jose = p2
+        JoseReyes = p2
         Pat = Player('Pat', 'Meares', 1997)
         Doug = Player('Doug', 'Mirabelli', 2000)
         Jacoby = Player('Jacoby', 'Ellsbury', 2012) 
         Ryan = Player('Ryan', 'Langerhans', 2011)
         David = Player("David", "Murphy", 2011)
         Jack = Player("Jack", "Wilson", 2005, debut='4/3/2001')
+        Jeff = Player("Jeff", "Baker", 2011)
 
         # Testing different points in the season
         self.assertEqual(R.opposing_pitcher_era(Ryan, date(2011,4,1)), float('inf')) # Opening Day
@@ -598,7 +599,7 @@ class TestResearcher(unittest.TestCase):
         self.assertEqual(R.opposing_pitcher_era(Jacoby, date(2011,9,28)), 4.85) # Closing Day
 
         # Testing home and away pitchers
-        self.assertEqual(R.opposing_pitcher_era(Jose, date(2009,5,10)), 4.50) # visiting pitcher
+        self.assertEqual(R.opposing_pitcher_era(JoseReyes, date(2009,5,10)), 4.50) # visiting pitcher
         self.assertEqual(R.opposing_pitcher_era(Doug, date(2000,9,27)), 1.69) # home pitcher
 
         # Testing multiple or single appeareacnes in the boxscore
@@ -607,7 +608,9 @@ class TestResearcher(unittest.TestCase):
             # Pitcher: Derek Lowe. PITCHED AND BATTED (NL Games)
         self.assertEqual(R.opposing_pitcher_era(Jack, date(2005, 8, 5)), 3.99)
         
-        
+        # Pitcher with a multiword last name (motivated by a bug) -- Jorge De La Rosa
+        # Double Whammy: He pitched in the SECOND game of a double header only, on 4/14
+        self.assertEqual(R.opposing_pitcher_era(Jeff, date(2011, 4, 26)), 3.00)
 
     def test_create_player_hit_info_csv(self):        
         ## Test 1
