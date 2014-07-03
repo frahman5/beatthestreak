@@ -578,14 +578,26 @@ class TestResearcher(unittest.TestCase):
         Doug = Player('Doug', 'Mirabelli', 2000)
         Jacoby = Player('Jacoby', 'Ellsbury', 2012) 
         Ryan = Player('Ryan', 'Langerhans', 2011)
-        # Some arbitrary tests
+        David = Player("David", "Murphy", 2011)
+        Jack = Player("Jack", "Wilson", 2005, debut='4/3/2001')
+
+        # Testing different points in the season
+        self.assertEqual(R.opposing_pitcher_era(Ryan, date(2011,4,1)), float('inf')) # Opening Day
+        self.assertEqual(R.opposing_pitcher_era(Pat, date(1997,6,16)), 5.53) # Middle of the season
+            # added bonus: pitcher has an asterisk next to his statline in the boxscore
+        self.assertEqual(R.opposing_pitcher_era(Jacoby, date(2011,9,28)), 4.85) # Closing Day
+
+        # Testing home and away pitchers
         self.assertEqual(R.opposing_pitcher_era(Jose, date(2009,5,10)), 4.50) # visiting pitcher
-        self.assertEqual(R.opposing_pitcher_era(Pat, date(1997,6,16)), 5.53) # visiting pitcher
         self.assertEqual(R.opposing_pitcher_era(Doug, date(2000,9,27)), 1.69) # home pitcher
 
-        # # End Cases
-        self.assertEqual(R.opposing_pitcher_era(Ryan, date(2011,4,1)), float('inf')) # Opening Day
-        self.assertEqual(R.opposing_pitcher_era(Jacoby, date(2011,9,28)), 4.85) # Closing Day
+        # Testing multiple or single appeareacnes in the boxscore
+            # Pitcher: CC Sabathia. ONLY PITCHED (All AL Games)
+        self.assertEqual(R.opposing_pitcher_era(David, date(2011, 4, 17)), 1.45)
+            # Pitcher: Derek Lowe. PITCHED AND BATTED (NL Games)
+        self.assertEqual(R.opposing_pitcher_era(Jack, date(2005, 8, 5)), 3.99)
+        
+        
 
     def test_create_player_hit_info_csv(self):        
         ## Test 1

@@ -212,101 +212,92 @@ class Researcher(object):
         """
         self.check_date(date, date.year)
         playerRID = player.get_retrosheet_id()
-           # counter for how many earned runs the player has allowed until today
-        pitcherERToDate = 0.0 
-           # counter for how many innings the player has pitched until today
-        pitcherIPToDate = 0.0 
+        pitcherERToDate = 0.0 # Earned-runs-to-date counter
+        pitcherIPToDate = 0.0 # Innings-pitched-to-date counter
 
         ## find out who the pitcher was
-        lOG = self.__get_list_of_games(date)
         relevantGame = [ game for game in self.__get_list_of_games(date) if 
-                         playerRID in game][0]
-        if playerRID in relevantGame[132:159]: # indicates he was on the hometeam
-            pitcherRID = relevantGame[101] # visiting pitcher ID
-            pitcherName = relevantGame[102]
-            pitcherTeam = relevantGame[3]
-        elif playerRID in relevantGame[105:132]: # indicates he was on the visiting team
-            pitcherRID = relevantGame[103] # home pitcher ID
-            pitcherName = relevantGame[104]
-            pitcherTeam = relevantGame[6]
+                         playerRID in game ][0]
+           # if he was on the hometeam
+        if playerRID in relevantGame[132:159]: 
+            idIndex, nameIndex, teamIndex = (101, 102, 3) # visiting pitcher indices
+           # else if he was on the visiting team
+        elif playerRID in relevantGame[105:132]: 
+            idIndex, nameIndex, teamIndex = (103, 104, 6) # home pitcher indices
         else:
             raise FileContentException(
                 "{0} not found in gamelog for date {1}".format(player, date))
-        pitcherLastName = pitcherName.split()[1]
-        pitcherFirstName = pitcherName.split()[0]
+        pitcherRID = relevantGame[idIndex]
+        pitcherFirstName, pitcherLastName = relevantGame[nameIndex].split()
+        pitcherTeam = relevantGame[teamIndex]
+
         ## calculate his era leading up the date
         openingDay = self.get_opening_day(date.year)
-        dateRange = ( openingDay + timedelta(days=x) for x in range((date-openingDay).days))
+        dateRange = ( openingDay + timedelta(days=x) for x in 
+                      range((date-openingDay).days) )
         for date in dateRange:
+
             # If the pitcher played in a game, get the home team from that game
-            teamDidPlay = False
-            listOfGames = self.__get_list_of_games(date)
-            for game in listOfGames:
+            homeTeam = None
+            for game in self.__get_list_of_games(date):
                 if pitcherTeam in game:
-                    teamDidPlay = True
                     homeTeam = game[6]
                     break
-            if not teamDidPlay:
+            if not homeTeam:
                 continue
 
-            # look in that hometeam's boxscore, and see if the pitcher pitched in the game
-            searchD = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
+            # Look in the homeTeam's boxscore to see if the pitcher pitched 
+            searchD = str(date.month) + "/" + str(date.day) + "/" + \
+                      str(date.year)
             searchP = pitcherLastName + " " + pitcherFirstName[0]
-            boxscore = Filepath.get_retrosheet_file(folder='unzipped', 
-                       fileF='boxscore', year=date.year, team=homeTeam)
+            boxscore = Filepath.get_retrosheet_file(
+                           folder='unzipped', fileF='boxscore', 
+                           year=date.year, team=homeTeam)
             f = open(boxscore, "r")
-            self.__search_boxscore(f, searchD, date, homeTeam, 
-                errorMessage="Failed to find date {0}".format(searchD) + \
-                   " in boxscore {0} for pitcher {1} ERA calc".format(
-                    boxscore, pitcherName),
-                typeT=0)
-            # get the statline. We search twice because if the home team is a
-            # national league team, then the pitcher must bat, and hence
-            # will show up in BOTH the batter's boxscore and the pitcher's
-            # boxscore. 
-            maybeStatLine = self.__search_boxscore_until_next_game(f, searchP, 
-                errorMessage="Failed to find player {0} in boxscore {1}".format(
-                    searchP, boxscore))
-            if not maybeStatLine: # pitcher didn't pitch today
-                statLine = maybeStatLine
-            else: # pitcher showed up in the boxscore; did he bat as well?
-                maybeStatLine2 = self.__search_boxscore_until_next_game(f, searchP, 
-                    errorMessage="Failed to find player {0} in boxscore {1}".format(
-                        searchP, boxscore))
-                if not maybeStatLine2: # it was an american league game, or pitched batted but didn't pitch in an NL game
-                    statLine = maybeStatLine
-                else: # it was a national league game
-                    statLine = maybeStatLine2
-            if not statLine: ## the pitcher didn't pitch on this date
-                continue
-            try: ## Check if the -6th value is a float (he pitched) or not (he only batted)
-                rawIP = statLine.split()[-6]
-                float(rawIP)
-            except ValueError: # pitched batted, but didnt pitch, in the game
-                continue 
-            except IndexError:
-                continue
+            self.__search_boxscore( # search up to today's date
+                       f, searchD, date, homeTeam, 
+                       errorMessage="Failed to find date {0}".format(searchD) +\
+                       " in boxscore {0} for pitcher {1} ERA calc".format(
+                       boxscore, pitcherFirstName + " " + pitcherLastName),
+                       typeT=0)
+                # get the statline, if there is one
+                # we only exit if statLine is None or a pitcher's boxscore line
+            while True: 
+                statLine = self.__search_boxscore_until_next_game(
+                              f, searchP, 
+                              errorMessage="Failed to find player {0}".format(
+                              searchP) + " in boxscore {0}".format(boxscore))
+                if not statLine:  # he's not in the boxscore; exit
+                    break
+                try:
+                    rawIP = statLine.split()[-6]
+                    float(rawIP)
+                except ValueError: # batting line
+                    continue 
+                except IndexError: # neither batting nor pitching line
+                    continue
+                else:              # we have the pitcher's batting line; exit.
+                    break
+            f.close()
+                # if he wasn't in the boxscore, continue to the next date!
+            if not statLine: continue
 
             # if he actually pitched, update IP and ER
-            if rawIP[-2:] == ".1":
-                IP = float(rawIP) + 0.23
-            elif rawIP[-2:] == ".2":
-                IP = float(rawIP) + 0.46
-            else:
-                IP = float(rawIP)
-            print
-            print "pitcher: {}".format(pitcherName)
-            print "pitcherTeam: {}".format(pitcherTeam)
-            print "homeTeam: {}".format(homeTeam)
-            print "{} IP, ER: {}, {}".format(date, IP, float(statLine.split()[-3]))
-            pitcherERToDate += float(statLine.split()[-3])
-            pitcherIPToDate += IP
-            f.close()
+            if rawIP[-2:] == ".1": 
+                summand = 0.23
+            elif rawIP[-2:] == ".2": 
+                summand = 0.46
+            else: 
+                summand = 0.0
+            pitcherERToDate += ( float(statLine.split()[-3]) )
+            pitcherIPToDate += ( float(rawIP) + summand )
+            
 
-        # If the pitcher hasn't pitched yet, return inf
+        ## If the pitcher hasn't pitched yet, return inf
         if (pitcherERToDate == 0) and (pitcherIPToDate == 0):
             return float('inf')
-        # else calculate his ERA and return it
+
+        ## Else return his ERA
         return round((pitcherERToDate * 9) / pitcherIPToDate, 2)
     
     @classmethod
