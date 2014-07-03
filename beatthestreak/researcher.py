@@ -218,62 +218,97 @@ class Researcher(object):
         pitcherIPToDate = 0.0 
 
         ## find out who the pitcher was
+        lOG = self.__get_list_of_games(date)
         relevantGame = [ game for game in self.__get_list_of_games(date) if 
                          playerRID in game][0]
-        import pdb
-        pdb.set_trace()
         if playerRID in relevantGame[132:159]: # indicates he was on the hometeam
             pitcherRID = relevantGame[101] # visiting pitcher ID
             pitcherName = relevantGame[102]
+            pitcherTeam = relevantGame[3]
         elif playerRID in relevantGame[105:132]: # indicates he was on the visiting team
             pitcherRID = relevantGame[103] # home pitcher ID
             pitcherName = relevantGame[104]
+            pitcherTeam = relevantGame[6]
         else:
             raise FileContentException(
                 "{0} not found in gamelog for date {1}".format(player, date))
         pitcherLastName = pitcherName.split()[1]
         pitcherFirstName = pitcherName.split()[0]
         ## calculate his era leading up the date
-            # Find the dates on which he pitched
         openingDay = self.get_opening_day(date.year)
         dateRange = ( openingDay + timedelta(days=x) for x in range((date-openingDay).days))
-        datesPitched = ( date for date in dateRange if 
-                         pitcherRID in self.__get_participants_superset(date))
-            ## Count his total earned runs allowed and innings pitched to date
-        for date in datesPitched:
-            homeTeam = self.__find_home_team_from_rid(date, pitcherRID)
+        for date in dateRange:
+            # If the pitcher played in a game, get the home team from that game
+            teamDidPlay = False
+            listOfGames = self.__get_list_of_games(date)
+            for game in listOfGames:
+                if pitcherTeam in game:
+                    teamDidPlay = True
+                    homeTeam = game[6]
+                    break
+            if not teamDidPlay:
+                continue
+
+            # look in that hometeam's boxscore, and see if the pitcher pitched in the game
             searchD = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
-               # extra space at end ensures that if its a national league game, 
-               # we get the pitcher's pitching line, not his batting line
-            searchP = pitcherLastName + " " + pitcherFirstName[0] + " " 
+            searchP = pitcherLastName + " " + pitcherFirstName[0]
             boxscore = Filepath.get_retrosheet_file(folder='unzipped', 
                        fileF='boxscore', year=date.year, team=homeTeam)
             f = open(boxscore, "r")
             self.__search_boxscore(f, searchD, date, homeTeam, 
-                errorMessage="Failed to find date {0} in boxscore {1} for " +\
-                   "pitcher {2} ERA calc".format(searchD, boxscore, pitcherName), 
+                errorMessage="Failed to find date {0}".format(searchD) + \
+                   " in boxscore {0} for pitcher {1} ERA calc".format(
+                    boxscore, pitcherName),
                 typeT=0)
-            statLine = self.__search_boxscore(f, searchP, date, homeTeam, 
+            # get the statline. We search twice because if the home team is a
+            # national league team, then the pitcher must bat, and hence
+            # will show up in BOTH the batter's boxscore and the pitcher's
+            # boxscore. 
+            maybeStatLine = self.__search_boxscore_until_next_game(f, searchP, 
                 errorMessage="Failed to find player {0} in boxscore {1}".format(
-                    searchP, boxscore), typeT=1)
-            print "{} ER, IP: {}, {}".format(date, float(statLine.split()[-3]), 
-                                             float(statLine.split()[-6]))
-               # boxscores report 6 and a 1/3 innings pitched as 6.1, but 
-               # the calculation must use 6.33. SImilarl for 2/3 inning pitched
-            rawIP = statLine.split()[-6]
+                    searchP, boxscore))
+            if not maybeStatLine: # pitcher didn't pitch today
+                statLine = maybeStatLine
+            else: # pitcher showed up in the boxscore; did he bat as well?
+                maybeStatLine2 = self.__search_boxscore_until_next_game(f, searchP, 
+                    errorMessage="Failed to find player {0} in boxscore {1}".format(
+                        searchP, boxscore))
+                if not maybeStatLine2: # it was an american league game, or pitched batted but didn't pitch in an NL game
+                    statLine = maybeStatLine
+                else: # it was a national league game
+                    statLine = maybeStatLine2
+            if not statLine: ## the pitcher didn't pitch on this date
+                continue
+            try: ## Check if the -6th value is a float (he pitched) or not (he only batted)
+                rawIP = statLine.split()[-6]
+                float(rawIP)
+            except ValueError: # pitched batted, but didnt pitch, in the game
+                continue 
+            except IndexError:
+                continue
+
+            # if he actually pitched, update IP and ER
             if rawIP[-2:] == ".1":
                 IP = float(rawIP) + 0.23
             elif rawIP[-2:] == ".2":
-                IP = float(rawIP) + 0.43
+                IP = float(rawIP) + 0.46
             else:
                 IP = float(rawIP)
-               # update ER and IP
+            print
+            print "pitcher: {}".format(pitcherName)
+            print "pitcherTeam: {}".format(pitcherTeam)
+            print "homeTeam: {}".format(homeTeam)
+            print "{} IP, ER: {}, {}".format(date, IP, float(statLine.split()[-3]))
             pitcherERToDate += float(statLine.split()[-3])
-            pitcherIPToDate += float(IP)
+            pitcherIPToDate += IP
             f.close()
-        
-        ## Return the ERA
+
+        # If the pitcher hasn't pitched yet, return inf
+        if (pitcherERToDate == 0) and (pitcherIPToDate == 0):
+            return float('inf')
+        # else calculate his ERA and return it
         return round((pitcherERToDate * 9) / pitcherIPToDate, 2)
+    
     @classmethod
     # @profile
     def find_home_team(self, date, player):
@@ -445,14 +480,18 @@ class Researcher(object):
         recordedGame = False 
         while True:
             line = f.readline()
-            if f.tell() == lastPos: # === if no games today
+            if f.tell() == lastPos: 
+                if recordedGame: # it's the last day of the seaosn
+                    listOfGames = tuple(listOfGames)
+                    self.listOfGamesBuffer = (date, listOfGames, lastPos)
+                else: # no games today
                 # set the lastPos spot on the buffer to whatever it already was
                 # This way, when we search for the next day, instead of starting
                 # back at zero we start back at the same place we started on
                 # for this day
-                listOfGames = ()
-                self.listOfGamesBuffer = (date, listOfGames, self.listOfGamesBuffer[2]) ## not tested in tests
-                break
+                    listOfGames = ()
+                    self.listOfGamesBuffer = (date, listOfGames, self.listOfGamesBuffer[2]) ## not tested in tests
+                break 
             elif dateRFormat in line[0:10]: # === elif a game today
                 recordedGame = True
                 listOfGames.append(line.replace('"', '').split(','))
@@ -499,8 +538,6 @@ class Researcher(object):
 
        Utilities.ensure_gamelog_files_exist(year)
  
-       # import pdb
-       # pdb.set_trace()
        # get last element in first column (the date column) of gamelog file
        df = pd.read_csv(Filepath.get_retrosheet_file(folder='unzipped', 
           fileF='gamelog', year=year), header=None)
@@ -730,10 +767,38 @@ class Researcher(object):
         return re.match(p, item14)
            
     @classmethod
+    def __search_boxscore_until_next_game(self, fileF, search, 
+            errorMessage="Search File Error"):
+        """
+        file string string string string -> string|None
+        fileF: file| a file object to be searched
+        search: string | a string to search for in the file
+
+        Search the boxscore in year date.year and team team, only in the lines
+        between the current file position and the start of the lines pertaining
+        to the next game (or the end of file). If not found, returns None
+        """
+        ## We should be scrolled to a the part of the boxcsore for the 
+        ## relevant date already
+        line = " "
+        while search not in line:
+            startPos = fileF.tell()
+            line = fileF.readline()
+            lastPos = fileF.tell()
+            # if we keep scrolling and the file position doesn't change, 
+            # the search item was not in the file
+            if startPos == lastPos: # if we reach end of file, dipset
+                return None
+            if "Game of" in line: # if we reach end of file, dipset
+                return None
+        # otherwise, return the line
+        return line   
+
+    @classmethod
     def __search_boxscore(self, fileF, search, date, team, 
             errorMessage='Search File Error', typeT=None):
         """
-        file string string -> string
+        file string string string string int|NOne-> string
         fileF: file| a file object to be searched
         search: string | a string to search for in the file
         date: datetime.date | date for which we are searching boxscore
@@ -778,5 +843,11 @@ class Researcher(object):
             # the search item was not in the file
             if startPos == lastPos: # pragma: no cover
                 raise FileContentException(errorMessage)
-        self.boxscoreBuffer[1][team] = (date, lastPos)
-        return line
+        # only update on date searches, to prevent errors stemming from 
+        # pitcher ERA calcs where we search for some date x, and the pitcher
+        # didn't pitch until 40 days later, put the search function
+        # searches all the way down 40 days and then updates the buffer
+        # with a hella late file position
+        if typeT == 0:  
+            self.boxscoreBuffer[1][team] = (date, lastPos)
+        return line   

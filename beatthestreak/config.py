@@ -5,9 +5,11 @@ specialCasesD = {'S': {'V': "Suspended-Valid.", 'I': "Suspended-Invalid."},
 ## root directory of beatthestreak module
     # on faiyams machine
 # rootDir = '/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak'
+    # on faiyams machien, second repo used for devving while simmming
+rootDir = '/Users/faiyamrahman/programming/Python/beatthestreak2/beatthestreak/beatthestreak'
    # on dmitrys machine
 # rootDir = '/Users/Dima/faiProgramming/Python/beatthestreak/beatthestreak'
    # on dmitrys machine, second repository using for devving while simming
-rootDir = '/Users/Dima/faiProgramming/Python/beatthestreak2/beatthestreak/beatthestreak'
+# rootDir = '/Users/Dima/faiProgramming/Python/beatthestreak2/beatthestreak/beatthestreak'
     # for use on the vagrant linux box
 #RootDir = '/home/vagrant/programming/Python/beatthestreak'
