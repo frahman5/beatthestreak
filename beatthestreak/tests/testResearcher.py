@@ -434,6 +434,10 @@ class TestResearcher(unittest.TestCase):
         self.assertFalse(R.did_start(date(2004, 7, 31), Craig))
         self.assertTrue(R.did_start(date(2004, 7, 3), Craig))
 
+        ## A nationa lleague pitcher who started in a game at an American league
+        ## park, and henece is in the gamelog, but did not bat
+        self.assertFalse(R.did_start(date(2012, 6, 11), p1)) # Edwin Jackson
+
     #@unittest.skip("Not Focus")
     def test_get_sus_Games_dict(self):
         participants_2001_6_15_s = (
@@ -608,7 +612,7 @@ class TestResearcher(unittest.TestCase):
 
         df = DataFrame.from_csv(Filepath.get_player_hit_info_csv_file(
                                 Derek.get_lahman_id(), 2006))
-        for date, hitVal, otherInfo in df.itertuples():
+        for date, hitVal, otherInfo, opPitcherEra in df.itertuples():
             datetimeDate = datetime.date(2006, date.month, date.day)
             if otherInfo == 'n/a':
                 otherInfo = None
@@ -618,6 +622,8 @@ class TestResearcher(unittest.TestCase):
                 hitVal = False
             self.assertEqual( (hitVal, otherInfo), 
                                R.get_hit_info(datetimeDate, Derek, sGD2006))
+            self.assertEqual( opPitcherEra, 
+                              R.opposing_pitcher_era(Derek, datetimeDate) )
 
         ## Test 2
         ## Create a player hit info csv and check all vals
@@ -626,7 +632,7 @@ class TestResearcher(unittest.TestCase):
         sGD2001 = R.get_sus_games_dict(2001)
         df = DataFrame.from_csv(Filepath.get_player_hit_info_csv_file(
                                 Endy.get_lahman_id(), 2001))
-        for date, hitVal, otherInfo in df.itertuples():
+        for date, hitVal, otherInfo, opPitcherEera in df.itertuples():
             datetimeDate = datetime.date(2001, date.month, date.day)
             if otherInfo == 'n/a':
                 otherInfo = None
@@ -636,3 +642,5 @@ class TestResearcher(unittest.TestCase):
                 hitVal = False
             self.assertEqual( (hitVal, otherInfo), 
                                R.get_hit_info(datetimeDate, Endy, sGD2001))
+            self.assertEqual( opPitcherEra, 
+                              R.opposing_pitcher_era(Eddy, datetimeDate) )

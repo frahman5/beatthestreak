@@ -115,6 +115,10 @@ class Researcher(object):
             
         ## see if he had a hit or not
         info = line.split()
+        # if info == ['Jackson', 'E', '(W)*', '8.0', '4', '2', '2', '3', '3']:
+        #     import pdb
+        #     pdb.set_trace()
+        print info
         index = info.index(lastName)
         if info[index + 1] != firstName[0] + ",": # two players with same last name on SAME line
             index = info[index + 1:].index(lastName)
@@ -176,6 +180,9 @@ class Researcher(object):
             6) ('pass', 'Screwy ABs'): # player played in a valid game on date date but all his at bats were 
                    either base on balls, hit batsman, defensive interference, defensive obstruction, 
                    or sacrifice bunt
+
+        Should only be used in constructing player hit Info csv's, and thus
+        uses python did_get_hit function instead of cdid_get_hit
         """
         # type check arguments 
         self.check_date(date, date.year)
@@ -192,11 +199,11 @@ class Researcher(object):
 
         if date in sGD.keys() and player.get_retrosheet_id() in sGD[date][1]:
             if sGD[date][0]: # Valid game
-                hitVal, otherInfo = self.c_did_get_hit(date, player), specialCasesD['S']['V']
+                hitVal, otherInfo = self.did_get_hit(date, player), specialCasesD['S']['V']
             else: # Invalid game
                 hitVal, otherInfo = 'pass', specialCasesD['S']['I']
         else: # Normal game
-            hitVal, otherInfo = self.c_did_get_hit(date, player), None
+            hitVal, otherInfo = self.did_get_hit(date, player), None
         # self.debugList.append((date, player))
         self.playerInfoBuffer[1].append((player, hitVal, otherInfo))
         return hitVal, otherInfo
