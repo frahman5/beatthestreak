@@ -5,6 +5,8 @@
     // on faiyams machine, second repo used for devving while simming
 #define pInfoDir "/Users/faiyamrahman/programming/Python/beatthestreak2/\
 beatthestreak/beatthestreak/datasets/playerInfo"
+#define rootDir "/Users/faiyamrahman/programming/Python/beatthestreak2/\
+beatthestreak/beatthestreak/"
     // on dmitrys machine
 // #define pInfoDir "/Users/Dima/faiProgramming/Python/beatthestreak/beatthestreak/\
 // datasets/playerInfo"

@@ -5,6 +5,7 @@
 #include "crhelper.h"
 #include "boxscoreBuffer.h"
 #include "playerInfoCache.h"
+#include "config.h"
 
 #define ARRAY_SIZE(array) sizeof(array)/sizeof(array[0])
 
@@ -41,9 +42,11 @@ void test_functionality_boxscore_buffer() {
     deleteTable();
         /* Run the finish_did_get_portion of R.did_get_hit(date(2012, 6, 17), 
         Player("Albert", "Pujols")) */
-    char *boxscore1 = "/Users/faiyamrahman/programming/Python/beatthestreak/\
-beatthestreak/datasets/retrosheet/unzipped/events2012/2012ANAB.txt";
+    char boxscore1[200];
+    strcpy(boxscore1, rootDir);
+    strcat(boxscore1, "datasets/retrosheet/unzipped/events2012/2012ANAB.txt");
     FILE *fp = fopen(boxscore1, "r");
+    assert (fp);
     char *foundIt;
     char searchD[] = "6/17/2012";
     char searchP[] = "Pujols A";
@@ -65,9 +68,13 @@ beatthestreak/datasets/retrosheet/unzipped/events2012/2012ANAB.txt";
 
         /* Run the __search_boxscore portion of R.did_get_hit(date(2012, 6, 15),
         Player("Jose", "Reyes", 2012, debut="6/10/2003")) */
-    char *boxscore2 = "/Users/faiyamrahman/programming/Python/beatthestreak/\
-beatthestreak/datasets/retrosheet/unzipped/events2012/2012TBAB.txt";
+    char boxscore2[200];
+    strcpy(boxscore2, rootDir);
+    strcat(boxscore2, "datasets/retrosheet/unzipped/events2012/2012TBAB.txt");
+//     char *boxscore2 = "/Users/faiyamrahman/programming/Python/beatthestreak/\
+// beatthestreak/datasets/retrosheet/unzipped/events2012/2012TBAB.txt";
     fp = fopen(boxscore2, "r");
+    assert (fp);
     char *foundIt2;
     char searchD2[] = "6/15/2012";
     char searchP2[] = "Reyes J";
@@ -97,8 +104,9 @@ beatthestreak/datasets/retrosheet/unzipped/events2012/2012TBAB.txt";
           is updated */
          /* Run the __search_boxscore portion of R.did_get_hit(date(2012, 8, 9), 
           Player("Colby", "Rasmus", 2012) */
-char *boxscore3 = boxscore2;
+    char *boxscore3 = boxscore2;
     fp = fopen(boxscore3, "r");
+    assert (fp);
     char *foundIt3;
     char searchD3[] = "8/9/2012";
     char searchP3[] = "Rasmus C";
@@ -121,8 +129,9 @@ char *boxscore3 = boxscore2;
 
        /* CHECK 2.2: if date is less than date on buffer, startSeekPos = 0
           and last byte checked is updated */
-    char *boxscore4= boxscore3;
+    char *boxscore4 = boxscore3;
     fp = fopen(boxscore4, "r");
+    assert (fp);
     char *foundIt4;
     char searchD4[] = "6/15/2012";
     char searchP4[] = "Reyes J";
@@ -146,6 +155,7 @@ char *boxscore3 = boxscore2;
     /* Check 2.3: If date is EQUAL to date on buffer, startSeekPos = 0
              and last byte checked is the SAME */
     fp = fopen(boxscore4, "r");
+    assert (fp);
     _search_boxscore(fp, &foundIt4, searchD4, boxscore4);
     assert (seekPosUsed == 0); // boxscore used correctly?
     _search_boxscore(fp, &foundIt4, searchP4, boxscore4);
@@ -293,8 +303,9 @@ int test__search_boxscore() {
     char *answerP3 = "Marte S, lf           3  0  0  0   Tejada R, ss          4  1  1  0   \n";
 
     // TEST 1
-    char *bs1Path = "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak/\
-datasets/retrosheet/unzipped/events2012/2012NYNB.txt";
+    char bs1Path[150];
+    strcpy(bs1Path, rootDir);
+    strcat(bs1Path, "datasets/retrosheet/unzipped/events2012/2012NYNB.txt");
     FILE *bs1 = fopen(bs1Path, "r");
     if (bs1 == NULL) { 
         printf("failed opening the boxscore\n");
@@ -308,8 +319,7 @@ datasets/retrosheet/unzipped/events2012/2012NYNB.txt";
     fclose(bs1);
 
     // TEST 2
-    char *bs2Path = "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak/\
-datasets/retrosheet/unzipped/events2012/2012NYNB.txt";
+    char *bs2Path = bs1Path;
     FILE *bs2 = fopen(bs2Path, "r");
     if (bs2 == NULL) { 
         printf("failed opening the boxscore\n");
@@ -322,8 +332,7 @@ datasets/retrosheet/unzipped/events2012/2012NYNB.txt";
     fclose(bs2);    
 
     // Test 3
-    char *bs3Path = "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak/\
-datasets/retrosheet/unzipped/events2012/2012NYNB.txt";
+    char *bs3Path = bs1Path;
     FILE *bs3 = fopen(bs3Path, "r");
     if (bs3 == NULL) { 
         printf("failed opening the boxscore\n");
@@ -377,6 +386,18 @@ void test_structure_playerInfo_cache() {
         "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", 
         "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", 
         "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a", "n/a"};
+    char *MarkLorettaOpPitcherEras2001[] = 
+        {"4.1", "9.32", "3.19", "2.32", "0.84", "4.94", "2.69", "1.65", "6.29", 
+         "4.45", "4.2", "3.64", "3.3", "4.15", "4.36", "3.31", "4.44", "5.32", 
+         "5.15", "4.33", "2.92", "4.4", "5.37", "5.79", "10.19", "3.71", "4.65",
+         "4.71", "2.7", "4.37", "6.75", "4.66", "2.87", "3.91", "5.64", "3.44", 
+         "3.42", "5.74", "3.27", "3.58", "3.73", "4.91", "4.7", "inf", "inf", 
+         "1.29", "4.07", "inf", "9.0", "4.33", "4.01", "5.11", "5.05", "4.23", 
+         "5.24", "0.0", "4.29", "2.47", "3.47", "5.96", "3.07", "4.22", "3.08", 
+         "4.51", "2.98", "4.82", "4.55", "3.82", "3.29", "3.79", "4.01", "5.06", 
+         "4.67", "5.26", "5.07", "3.1", "5.45", "4.99", "4.55", "3.83", "inf", 
+         "5.65", "4.55", "4.55", "3.65", "4.91", "2.68", "3.07", "3.75", "4.52", 
+         "4.99", "6.27", "4.58", "3.41", "2.4", "4.98"};
 
     /* Test that we can retrieve and set the playerInfoCacheyear */
     playerInfoCacheYear = 7;
@@ -391,12 +412,13 @@ void test_structure_playerInfo_cache() {
     playerInfoCacheYear = 2006;
     assert (addPlayerDateData("jeterde01") == 0); // should add Derek Jeter"s hitInfos from 2006
     // printPlayerInfoCache();
-    assert (HASH_COUNT(playerInfoCache) == 149);
+    assert (HASH_COUNT(playerInfoCache) == 150); // 149 dates, and one indicator hash
         /* finding */
     struct playerDateData *pD = findPlayerDateData("jeterde01", "6/28");
     assert (strcmp(pD->lIdDashDate, "jeterde01-6/28") == 0);
     assert (strcmp(pD->hitVal, "True") == 0);
     assert (strcmp(pD->otherInfo, "n/a") == 0);
+    assert (strcmp(pD->opPitcherERA, "3.89") == 0);
         /* finding on steroids: make sure EVERY elem of the hash table fpr
            a player is correct */
     playerInfoCacheYear = 2001;
@@ -405,13 +427,13 @@ void test_structure_playerInfo_cache() {
     assert (ARRAY_SIZE(MarkLorettaDates2001) == 96);
     assert (ARRAY_SIZE(MarkLorettaHitVals2001) == 96);
     assert (ARRAY_SIZE(MarkLorettaOtherInfos2001) == 96);
+    assert (ARRAY_SIZE(MarkLorettaOpPitcherEras2001) == 96);
     struct playerDateData *pD1;
     for (int i = 0; i < 96; i++) {
         pD1 = findPlayerDateData("loretma01", MarkLorettaDates2001[i]);
-        // printf("pD->otherInfo: %s, otherInfo: %s\n", pD1->otherInfo, MarkLorettaOtherInfos2001[i]);
-        
         assert (strcmp(pD1->hitVal, MarkLorettaHitVals2001[i]) == 0);
         assert (strcmp(pD1->otherInfo, MarkLorettaOtherInfos2001[i]) == 0);
+        assert (strcmp(pD1->opPitcherERA, MarkLorettaOpPitcherEras2001[i]) == 0);
     }
         /* test delete */
     deletePlayerInfoCache();

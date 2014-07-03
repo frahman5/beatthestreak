@@ -1,6 +1,5 @@
 #include <string.h>
 #include <stdio.h>
-#include "Python.h" // comment out to compile with gcc
 #include "playerInfoCache.h"
 #include "config.h" // pInfoDir
 
@@ -20,7 +19,7 @@ int deletePlayerInfoCache() {
     HASH_ITER(hh, playerInfoCache, curBucket, tmp) {
         HASH_DEL(playerInfoCache, curBucket);   /* delete; advances to next */
         if (!curBucket) {
-            PyErr_SetString(PyExc_LookupError, "HASH_ITER failed while deleting playerInfoCache");
+            // PyErr_SetString(PyExc_LookupError, "HASH_ITER failed while deleting playerInfoCache");
             return -1;
         }
         free((void *) curBucket->lIdDashDate);  /* free the hash table key */
@@ -60,6 +59,7 @@ int addPlayerDateData(char *lahmanID) {
     char *date;
     char *hitVal;
     char *otherInfo;
+    char *opPitcherERA;
 
     /* open the file for year playerInfoCacheYear and lahmanID */
     sprintf(filePathSuffix, "/%d/%s.txt", playerInfoCacheYear, lahmanID);
@@ -68,7 +68,7 @@ int addPlayerDateData(char *lahmanID) {
     FILE *fp = fopen(filePath, "r");
     if (!fp) {
         printf("filePath: %s\n", filePath);
-        PyErr_SetString(PyExc_IOError, "could not open file\n"); // comment out to compile with gcc
+        // PyErr_SetString(PyExc_IOError, "could not open file\n"); // comment out to compile with gcc
         return -1;
     }
 
@@ -79,14 +79,15 @@ int addPlayerDateData(char *lahmanID) {
     while (fgets(line, MAXLINE, fp)) {
         date = strtok(line, ",");
         hitVal = strtok(NULL, ",");
-        otherInfo = strtok(NULL, ",\n");
+        otherInfo = strtok(NULL, ",");
+        opPitcherERA = strtok(NULL, ",\n");
 
         // 3: 1 for the sentinel, 1 for a dash, 1 for breathing room
         // printf("We extract the values from file\n");
         char *hashKey = (char *) malloc(strlen(lahmanID) + strlen(date) + 3);
         if (!hashKey) {
             fclose(fp);
-            PyErr_SetString(PyExc_SyntaxError, "Failed to allocate hashKey on the heap\n");
+            // PyErr_SetString(PyExc_SyntaxError, "Failed to allocate hashKey on the heap\n");
             return -1;
         } else {
             strcpy(hashKey, lahmanID);
@@ -97,21 +98,22 @@ int addPlayerDateData(char *lahmanID) {
         if (pDD) {
             fclose(fp);
             free(hashKey);
-            PyErr_SetString(PyExc_ValueError, "Tried to add Player's hit info\
-to the player info hash table >= 1 times.\n");
+            // PyErr_SetString(PyExc_ValueError, "Tried to add Player's hit info\
+// to the player info hash table >= 1 times.\n");
             return -1; // we should never encounter this!
         } else {
             pDD = (struct playerDateData *) malloc(sizeof(struct playerDateData));
             if (!pDD) {
                 fclose(fp);
                 free(hashKey);
-                PyErr_SetString(PyExc_SystemError, 
-                    "Failed to allocate playerDateData on the heap\n");
+                // PyErr_SetString(PyExc_SystemError, 
+                    // "Failed to allocate playerDateData on the heap\n");
                 return -1;
             }
             pDD->lIdDashDate = hashKey;
             strcpy(pDD->hitVal, hitVal);
             strcpy(pDD->otherInfo, otherInfo);
+            strcpy(pDD->opPitcherERA, opPitcherERA);
             HASH_ADD_STR(playerInfoCache, lIdDashDate, pDD);
         }
     }
@@ -122,7 +124,7 @@ to the player info hash table >= 1 times.\n");
     char *indicatorHashKey = (char *) malloc(strlen(lahmanID) + 6);
     if (!indicatorHashKey) {
         fclose(fp);
-        PyErr_SetString(PyExc_SyntaxError, "Failed to allocate hashKey on the heap\n");
+        // PyErr_SetString(PyExc_SyntaxError, "Failed to allocate hashKey on the heap\n");
         return -1;
     } else {
         strcpy(indicatorHashKey, lahmanID);
@@ -133,13 +135,14 @@ to the player info hash table >= 1 times.\n");
     if (!pDD) {
         fclose(fp);
         free(indicatorHashKey);
-        PyErr_SetString(PyExc_SystemError, 
-            "Failed to allocate playerDateData on the heap\n");
+        // PyErr_SetString(PyExc_SystemError, 
+            // "Failed to allocate playerDateData on the heap\n");
         return -1;
     } else {
         pDD->lIdDashDate = indicatorHashKey;
         strcat(pDD->hitVal,"I"); // I for "Indicator"
         strcat(pDD->otherInfo, "I"); // I for "Indicator"
+        strcat(pDD->opPitcherERA, "I"); // I for "Indicator"
         HASH_ADD_STR(playerInfoCache, lIdDashDate, pDD);
     }
 
