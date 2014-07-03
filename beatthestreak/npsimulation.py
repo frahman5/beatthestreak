@@ -635,7 +635,7 @@ class NPSimulation(Simulation):
         int int -> tuple
 
         Returns a tuple that contains:
-           minPALow, MinPALow + 5, minPALow + 10, ..., miNPAHigh)
+           minPALow, MinPALow + 100, minPALow + 200, ..., miNPAHigh)
         """
         preAnswer = [x for x in range(minPALow, minPAHigh, 100)]
         if preAnswer[-1] != minPAHigh:

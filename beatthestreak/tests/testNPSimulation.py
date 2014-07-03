@@ -296,17 +296,14 @@ class TestNPSimulation(unittest.TestCase):
         # private function
         sim = NPSimulation(2012, 2012, 50, 50)
 
-        ## Case 1: Upper bound is < lower bound + 5
-        g = sim._NPSimulation__get_min_pa_range(5, 9)
-        self.assertEqual( set(sim._NPSimulation__get_min_pa_range(5,9)), 
-                          set([5,9]))
+        ## Case 1: Upper bound is < lower bound + 100
+        g = sim._NPSimulation__get_min_pa_range(5, 104)
+        self.assertEqual( set(g), set([5,104]))
 
-        ## Case 2: Upper bound is > lower bound, not exactly a multiple of 5 away
-        g = sim._NPSimulation__get_min_pa_range(100, 111)
-        self.assertEqual( set(sim._NPSimulation__get_min_pa_range(100, 111)), 
-                          set([100, 105, 110, 111]))
+        ## Case 2: Upper bound is > lower bound, not exactly a multiple of 100 away
+        g = sim._NPSimulation__get_min_pa_range(100, 201)
+        self.assertEqual( set(g), set([100, 200, 201]))
 
-        ## case 3: Upper bound is > lower bound, exactly a multiple of 5 away
-        g = sim._NPSimulation__get_min_pa_range(104, 129)
-        self.assertEqual( set(sim._NPSimulation__get_min_pa_range(104, 129)), 
-                          set([104, 109, 114, 119, 124, 129]))
+        ## case 3: Upper bound is > lower bound, exactly a multiple of 100 away
+        g = sim._NPSimulation__get_min_pa_range(104, 304)
+        self.assertEqual( set(g), set([104, 204, 304]))

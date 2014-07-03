@@ -315,11 +315,11 @@ class Researcher(object):
                 summand = 0.0
             pitcherERToDate += ( float(statLine.split()[-3]) )
             pitcherIPToDate += ( float(rawIP) + summand )
-            print ""
-            print "name: {} {}".format(pitcherFirstName, pitcherLastName)
-            print "{} IP, ER: {}. {}".format( 
-                    date, float(rawIP) + summand, 
-                    float(statLine.split()[-3]))
+            # print ""
+            # print "name: {} {}".format(pitcherFirstName, pitcherLastName)
+            # print "{} IP, ER: {}. {}".format( 
+            #         date, float(rawIP) + summand, 
+            #         float(statLine.split()[-3]))
             
 
         ## If the pitcher hasn't pitched yet, return inf

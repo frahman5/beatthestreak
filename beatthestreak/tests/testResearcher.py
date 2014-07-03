@@ -612,6 +612,12 @@ class TestResearcher(unittest.TestCase):
         # Double Whammy: He pitched in the SECOND game of a double header only, on 4/14
         self.assertEqual(R.opposing_pitcher_era(Jeff, date(2011, 4, 26)), 3.00)
 
+        # Another bug: 
+        Endy = Player("Endy", "Chavez", 2001)
+        self.assertEqual(R.opposing_pitcher_era(Endy, date(2001, 5, 29)), 6.72)
+        self.assertEqual(R.opposing_pitcher_era(Endy, date(2001, 5, 29)), 6.72)
+        self.assertEqual(R.opposing_pitcher_era(Endy, date(2001, 5, 29)), 6.72)
+
     def test_create_player_hit_info_csv(self):        
         ## Test 1
         ## Create a player hit info csv and check all the vals
@@ -641,7 +647,7 @@ class TestResearcher(unittest.TestCase):
         sGD2001 = R.get_sus_games_dict(2001)
         df = DataFrame.from_csv(Filepath.get_player_hit_info_csv_file(
                                 Endy.get_lahman_id(), 2001))
-        for date, hitVal, otherInfo, opPitcherEera in df.itertuples():
+        for date, hitVal, otherInfo, opPitcherEra in df.itertuples():
             datetimeDate = datetime.date(2001, date.month, date.day)
             if otherInfo == 'n/a':
                 otherInfo = None
@@ -652,4 +658,4 @@ class TestResearcher(unittest.TestCase):
             self.assertEqual( (hitVal, otherInfo), 
                                R.get_hit_info(datetimeDate, Endy, sGD2001))
             self.assertEqual( opPitcherEra, 
-                              R.opposing_pitcher_era(Eddy, datetimeDate) )
+                              R.opposing_pitcher_era(Endy, datetimeDate) )
