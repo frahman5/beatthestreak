@@ -57,8 +57,51 @@ where the above variables are set appropriately"
 /* Return in-season ERA of opposing pitcher */
 static PyObject *copposing_pitcher_era(
           PyObject *self, PyObject *args, PyObject *kwargs) {
-    float f = 1.24;
-    return Py_BuildValue("f", f);
+    struct playerDateData *pDD;
+
+    /* Get the keyword values into local variables */
+    PyDateTime_Date *d;
+    char *lahmanID;
+    char *keywords[] = {"lahmanID", "date", NULL};
+    if (!PyArg_ParseTupleAndKeywords(args, kwargs, "sO:copposing_pitcher_era", 
+                                     keywords, &lahmanID, &d)) {
+        return NULL; // ParseTupleAndKeywords sets the exception for me
+    }
+
+    /* Get month, day , year and create month/day (for table lookup) */
+    char monthS[4];        // 2 digit month plus space for the sentinel and one for writeoff
+    char dayS[4];          // 2 digit day plus space for the sentinel and one for writeoff
+    char yearS[6];         // 4 digit year plus space for the sentinel and one for writeoff
+    char monthSlashDay[7]; // 2 digit month/2 digit day plus space for the sentinel and one for writeoff
+    sprintf(monthS, "%d", PyDateTime_GET_MONTH(d));
+    sprintf(dayS, "%d", PyDateTime_GET_DAY(d));
+    sprintf(yearS, "%d", PyDateTime_GET_YEAR(d));
+    strcpy(monthSlashDay, monthS);
+    strcat(monthSlashDay, "/");
+    strcat(monthSlashDay, dayS);
+    
+    /* Check if the cache is for this year or nnot */
+    int yearInt = atoi(yearS);
+    if (playerInfoCacheYear != yearInt) {
+        playerInfoCacheYear = yearInt;
+        if (deletePlayerInfoCache() == -1) {
+            return NULL;
+        }
+    }
+    /* See if the player is in the cache, if not, add him 
+       lahmanID-1/1 is the indicator hashkey that we use to see if a 
+       player has been added to the cache or not */
+    if (!findPlayerDateData(lahmanID, "1/1")) {
+        // should raise error if the key is already in there
+        if (addPlayerDateData(lahmanID) == -1) { return NULL; } 
+    }
+
+    pDD = findPlayerDateData(lahmanID, monthSlashDay);
+
+    /* Get the return value, build a python object and return it */
+    char *opPitcherERA = pDD->opPitcherERA;
+    return Py_BuildValue("f", opPitcherERA);
+
 }
 /* Return Py_True if player started, Py_False otherwise */
 static PyObject *cdid_start(
@@ -222,8 +265,10 @@ static PyObject *cget_hit_info(PyObject *self, PyObject *args,
     char* keywords[] = {"date", "lahmanID", NULL}; 
     if (!PyArg_ParseTupleAndKeywords(args, kwargs, "Os:cget_hit_info", 
                                      keywords, &d, &lahmanID)) {
+        printf("Hello!\n");
         return NULL; // ParseTupleAndKeywords sets the exception for me
     }
+
 
     /* Get month, day, year. */
     char monthS[3];         // 2 digit month plus space for the sentinel
@@ -249,8 +294,8 @@ static PyObject *cget_hit_info(PyObject *self, PyObject *args,
             return NULL;
         }
     }
-
-    /* Get the player's info, or add it if its not there yet */
+    
+     // Get the player's info, or add it if its not there yet 
     struct playerDateData *pDD;
     pDD = findPlayerDateData(lahmanID, date);
     if (!pDD) {
@@ -265,7 +310,6 @@ static PyObject *cget_hit_info(PyObject *self, PyObject *args,
             return NULL;
         }
     }
-
     // else
     char *hitVal = pDD->hitVal;
     char *otherInfo = pDD->otherInfo;

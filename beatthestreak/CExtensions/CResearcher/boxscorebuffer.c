@@ -19,7 +19,7 @@ int addReplaceBoxscore(char *boxscore, long lastViewedByte,
     // hash table keys are independent of eachother. 
     char *updateBoxscore = (char *) malloc(strlen(boxscore) + 1);
     if (!updateBoxscore) {
-        // PyErr_SetString(PyExc_SystemError, "Failed to allocate updateBoxscore on the stack\n");
+        PyErr_SetString(PyExc_SystemError, "Failed to allocate updateBoxscore on the stack\n");
         return -1;
     } else {
         strcpy(updateBoxscore, boxscore);
@@ -37,7 +37,7 @@ int addReplaceBoxscore(char *boxscore, long lastViewedByte,
             HASH_ADD_STR( boxHashTable, boxscore, bD);
                /* name of field as parameter? It's a macro thing */
         } else {
-            // PyErr_SetString(PyExc_SystemError, "Failed to allocate boxData on the stack\n");
+            PyErr_SetString(PyExc_SystemError, "Failed to allocate boxData on the stack\n");
             return -1;
         }
     } else {

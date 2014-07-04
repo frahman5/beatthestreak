@@ -40,7 +40,7 @@ int get_third_num_in_string(char *bsline) {
         }
 
     // If we failed, return a -1
-    // PyErr_SetString(PyExc_ValueError, "Could not find three numbers in string\n");
+    PyErr_SetString(PyExc_ValueError, "Could not find three numbers in string\n");
     return -1;
 }
 int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
@@ -123,8 +123,8 @@ int _search_boxscore(FILE *fp, char **foundIt, char *search, char *boxscore) {
         fgets(line, MAXLINE, fp);
         if (strcmp(line, lineCheck) == 0) { 
             // printf("ERROR. boxscore: %s, search: %s\n", boxscore, search);
-            // PyErr_SetString(PyExc_EOFError, 
-                // "Reached end of boxscore without finding search string\n");
+            PyErr_SetString(PyExc_EOFError, 
+                "Reached end of boxscore without finding search string\n");
             return -1;
         }
     }

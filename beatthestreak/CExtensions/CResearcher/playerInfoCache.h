@@ -1,5 +1,5 @@
 #include "uthash.h"
-// #include "Python.h" // comment out to compile with gcc
+#include "Python.h" // comment out to compile with gcc
 
 /************ Structs and Functions for Hash Table and Cache *********/
     /* A hashtable with string keys and string values */
