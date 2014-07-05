@@ -56,6 +56,7 @@ where the above variables are set appropriately"
 /* Return in-season ERA of opposing pitcher */
 static PyObject *copposing_pitcher_era(
           PyObject *self, PyObject *args, PyObject *kwargs) {
+
     struct playerDateData *pDD;
 
     /* Get the keyword values into local variables */
@@ -67,7 +68,7 @@ static PyObject *copposing_pitcher_era(
         return NULL; // ParseTupleAndKeywords sets the exception for me
     }
 
-    /* Get month, day , year and create month/day (for table lookup) */
+    /* Get month, day, year and create month/day (for table lookup) */
     char monthS[4];        // 2 digit month plus space for the sentinel and one for writeoff
     char dayS[4];          // 2 digit day plus space for the sentinel and one for writeoff
     char yearS[6];         // 4 digit year plus space for the sentinel and one for writeoff
@@ -87,6 +88,7 @@ static PyObject *copposing_pitcher_era(
             return NULL;
         }
     }
+
     /* See if the player is in the cache, if not, add him 
        lahmanID-1/1 is the indicator hashkey that we use to see if a 
        player has been added to the cache or not */
@@ -94,7 +96,6 @@ static PyObject *copposing_pitcher_era(
         // should raise error if the key is already in there
         if (addPlayerDateData(lahmanID) == -1) { return NULL; } 
     }
-
     pDD = findPlayerDateData(lahmanID, monthSlashDay);
     if (!pDD) {
         return PyErr_Format(PyExc_IndexError, 
@@ -102,6 +103,7 @@ static PyObject *copposing_pitcher_era(
                             lahmanID, monthSlashDay);
     }
 
+    /* Build and Return Answer */
     PyObject *stringAnswer = Py_BuildValue("s", pDD->opPitcherERA);
     char *pend[] = {"dummy", "for backwards compatability", NULL};
     PyObject *floatAnswer = PyFloat_FromString(stringAnswer, pend);
@@ -123,7 +125,7 @@ static PyObject *cdid_start(
         return NULL; // ParseTupleAndKeywords sets the exception for me
     }
 
-    /* Get month, day and create month/day*/
+    /* Get month, day, year and create month/day*/
     char monthS[4];         // 2 digit month plus space for the sentinel and one for writeoff
     char dayS[4];           // 2 digit day plus space for the sentinel and one for writeoff
     char yearS[6];          // 4 digit year plus space for the sentinel and one for writeoff
@@ -185,27 +187,26 @@ static PyObject *cfinish_did_get_hit(
         return PyErr_Format(PyExc_IOError, "Could not open boxscore\n");
     }
 
-    /* Get month, day,  year. */
+    /* Get month, day, year. */
     char monthS[4];         // 2 digit month plus space for the sentinel and one for writeoff
     char dayS[4];           // 2 digit day plus space for the sentinel and one for writeoff
     char yearS[6];          // 4 digit year plus space for the sentinel and one for writeoff
     sprintf(monthS, "%d", PyDateTime_GET_MONTH(d));
     sprintf(dayS, "%d", PyDateTime_GET_DAY(d));
     sprintf(yearS, "%d", PyDateTime_GET_YEAR(d));
-    // printf("In finish_did_get_hit: months: %s\n", monthS);
 
     /* Create the searchD string */
     char *backslash = "/";
     char searchD[11];       // ten digit mm/dd/yyyy plus space for the sentinel
     char *helperArray[] = { monthS, backslash, dayS, backslash, yearS };
-    /* strcpy the first string so we don't concat onto garbage during strcats */
+        /* strcpy the first string so we don't concat onto garbage during strcats */
     strcpy(searchD, helperArray[0]);
     for (int i = 1; i < 5; i++) { strcat(searchD, helperArray[i]); }
 
     /* Create the searchP string. */
     unsigned long len = strlen(firstName) + strlen(lastName) + 2; // + 2 for sentinels on firtsName and lastName
     char *searchP = (char *) malloc(len);
-    /* strcpy the first string so we don't concat onto garbage during strcats */
+        /* strcpy the first string so we don't concat onto garbage during strcats */
     if (searchP) {
         strcpy(searchP, lastName);
         strcat(searchP, " ");   

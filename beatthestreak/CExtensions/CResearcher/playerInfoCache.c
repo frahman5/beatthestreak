@@ -145,12 +145,11 @@ to the player info hash table >= 1 times.\n");
         pDD->lIdDashDate = indicatorHashKey;
         strcpy(pDD->hitVal,"I"); // I for "Indicator"
         strcpy(pDD->otherInfo, "I"); // I for "Indicator"
-        // pDD->opPitcherERA = "I";
         strcpy(pDD->opPitcherERA, "I"); // I for "Indicator"
         HASH_ADD_STR(playerInfoCache, lIdDashDate, pDD);
     }
 
-    // fclose(fp);
+    fclose(fp);
     return 0;
 }
 /* Mostly for debugging */
