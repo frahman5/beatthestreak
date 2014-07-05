@@ -99,8 +99,17 @@ static PyObject *copposing_pitcher_era(
     pDD = findPlayerDateData(lahmanID, monthSlashDay);
 
     /* Get the return value, build a python object and return it */
-    char *opPitcherERA = pDD->opPitcherERA;
-    return Py_BuildValue("f", opPitcherERA);
+    // if (pDD->opPitcherERA[4] == '\0') {
+    //     printf("4th char is empty");
+    // }
+    // for (int i = 0; i < 8; i++) {
+    //     printf("i, char: %i, %c\n", i, pDD->opPitcherERA[i]);
+    // }
+    printf("\nlahmanID, date, opPitcherERA: %s, %s, %s\n", 
+           lahmanID, monthSlashDay, pDD->opPitcherERA);
+    PyObject *answer = Py_BuildValue("s", pDD->opPitcherERA);
+    Py_INCREF(answer);
+    return answer;
 
 }
 /* Return Py_True if player started, Py_False otherwise */

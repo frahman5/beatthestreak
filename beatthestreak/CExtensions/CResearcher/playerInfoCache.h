@@ -7,7 +7,7 @@ struct playerDateData {
     const char *lIdDashDate;    /* key:  lahmanID + date (e.g: jeterde01-4/3)*/
     char hitVal[8];             /* value1: hitval is one of ("True", "Pass", "False") */
     char otherInfo[21];         /* value2: otherInfo is one of ("n/a", "Suspended, Valid.", "Suspended, Invalid."") */
-    char opPitcherERA[6];       /* value3: opPitcherERA is either of the form x.xx, x an int, or inf */
+    char *opPitcherERA;       /* value3: opPitcherERA is either of the form x.xx, x an int, or inf */
     UT_hash_handle hh;          /* makes this struct hashable */
 };
 
