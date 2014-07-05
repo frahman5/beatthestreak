@@ -301,7 +301,7 @@ class NPSimulation(Simulation):
         self.incr_date()
 
     def mass_simulate(self, simYearRange, simMinBatRange, NRange, PRange, 
-            minPARange, minERARange, method=1, test=False):
+            minPARange, minERARange=None, method=1, test=False):
         """
         tupleOfInts tupleOfInts tupleOfInts tupleOfInts tupleOfInts bool -> None
         simYearRange: the years (inclusive) over which to run simulation
@@ -355,6 +355,12 @@ class NPSimulation(Simulation):
         pbar = ProgressBar(maxval=maxval, widgets=widgets).start()
         
         Reporter = NPReporter(self, test=test)
+
+        # Get a generator of tuples of simulation parameters
+        paramGenerator = self.__create_mass_sim_param_generator(
+            simYearRange, simMinBatRange, NRange, PRange, minPARange, 
+            minERARange=minERARange, method=method)
+        
         # run all the simulations, saving individual simulation results to file
         i = 0
         for simYear in xrange(simYearRange[0], simYearRange[1]+1):
@@ -608,6 +614,38 @@ class NPSimulation(Simulation):
         """ 
         return self.players[-1].get_bat_ave()
 
+    def __create_mass_sim_param_generator(self, simYearRange, simMinBatRange, 
+            NRange, PRange, minPARange, minERARange=None, method=1):
+        """
+        Produces a generator of parameter-tuples to use in a mass simulation. 
+        """
+        if method in (1,2):
+            paramGenerator = (
+                (simYear, batAveYear, N, P, minPA, dDown) for
+                  simYear in xrange(simYearRange[0], simYearRange[1] + 1) for
+                  batAveYear in self.__bat_years_ms(simYear, simMinBatRange) for 
+                  N in xrange(NRange[0], NRange[1] + 1)  for 
+                  P in xrange(PRange[0], PRange[1] + 1)  for 
+                  minPA in self.__get_min_pa_range(minPARange[0], minPARange[1]) for 
+                  dDown in (True, False) 
+                             )
+        elif method in (3, 4):
+            paramGenerator = (
+                (simYear, batAveYear, N, P, minPA, minERA, dDown) for
+                  simYear in xrange(simYearRange[0], simYearRange[1] + 1) for
+                  batAveYear in self.__bat_years_ms(simYear, simMinBatRange) for 
+                  N in xrange(NRange[0], NRange[1] + 1)  for 
+                  P in xrange(PRange[0], PRange[1] + 1)  for 
+                  minPA in self.__get_min_pa_range(minPARange[0], minPARange[1]) for 
+                  minERA in self.__get_min_era_range( minERARange[0], 
+                                                      minERARange[1]) for 
+                  dDown in (True, False) 
+                             )
+        else:
+            raise ValueError("Invalid method: {}".format(method))
+
+        return paramGenerator
+
     def __get_min_pa_range(self, minPALow, minPAHigh):
         """
         int int -> tuple
@@ -615,10 +653,37 @@ class NPSimulation(Simulation):
         Returns a tuple that contains:
            minPALow, MinPALow + 100, minPALow + 200, ..., miNPAHigh)
         """
-        preAnswer = [x for x in range(minPALow, minPAHigh, 100)]
-        if preAnswer[-1] != minPAHigh:
-            preAnswer.append(minPAHigh)
+        return self.__get_param_range(minPALow, minPAHigh, 100)
+
+    def __get_min_era_range(self, minERALow, minERAHigh):
+        """
+        float float -> tuple
+
+        Returns a tuple that contains:
+           ( minERALow, minERALow + 0.5, minERALow + 1.0, ..., minERAHigh )
+        """
+        return self.__get_param_range(minERALow, minERAHigh, 0.5)
+
+    def __get_param_range(self, paramLow, paramHigh, step):
+        """
+        int|float int|float int|float -> tuple
+
+        Returns a tuple that contains
+            (minParamLow, minParamLow + step, minParamLow + 2*step , ..., minParamHigh)
+        """
+        if paramLow == paramHigh:
+            return (paramLow, )
+        else:
+            preAnswer = []
+            param = paramLow
+            while param <= paramHigh:
+                preAnswer.append(param)
+                param += step
+        if preAnswer[-1] != paramHigh:
+            preAnswer.append(paramHigh)
         return tuple(preAnswer)
+
+
 
 def main(*args): # pragma: no cover
     """

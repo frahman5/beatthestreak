@@ -230,9 +230,6 @@ class Researcher(object):
         if len(splitNames) == 2:
             pitcherFirstName, pitcherLastName = splitNames
         else:
-            if len(splitNames) == 1:
-                import pdb
-                pdb.set_trace()
             assert (len(splitNames) > 2)
             pitcherFirstName = splitNames[0]
             pitcherLastName = ''
