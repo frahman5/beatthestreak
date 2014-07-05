@@ -88,7 +88,7 @@ class TestFilepath(unittest.TestCase):
             self.rootDir + '/tests/results/2005')
 
     def test_results_file(self):
-        # test in non-testing environment
+        # test in non-testing environment (and method 2)
         self.assertEqual(Filepath.get_results_file(
             simYear=2010, batAveYear=2009, N=50, P=10, 
             startDate=date(2010, 4, 4), endDate=date(2010, 9, 30), 
@@ -96,7 +96,7 @@ class TestFilepath(unittest.TestCase):
             doubleDown=True), self.rootDir + "/results/2010/Sim2010," + \
             "batAve2009,N50,P10,4.4-9.30,mPA=500,sM=2,dDown=True.xlsx")
 
-        # test for testing environment
+        # test for testing environment (and method 1)
         self.assertEqual(Filepath.get_results_file(
             simYear=2010, batAveYear=2009, N=50, P=10, 
             startDate=date(2010, 4, 4), endDate=date(2010, 9, 30), 
@@ -124,12 +124,32 @@ class TestFilepath(unittest.TestCase):
                          self.rootDir + "/datasets/playerInfo/2002/mahompa01.txt")
 
     def test_get_mass_results_file(self):
-        # test for non-testing environment
-        self.assertEqual(Filepath.get_mass_results_file((2009, 2010), (0, 3), 
-            (1, 100), (1, 100), (480, 502)), self.rootDir + '/results/mass/S2009-2010' + \
-        ',SMB0-3,N1-100,P1-100,mPA480-502.xlsx')
+        # test for non-testing environment (and method 1)
+        self.assertEqual(Filepath.get_mass_results_file(
+            simYearRange=(2009, 2010), sMBRange=(0, 3), 
+            NRange=(1, 100), PRange=(1, 100), minPARange=(480, 502),
+            minERARange=None, method=1), self.rootDir + '/results/mass/' + \
+            'S2009-2010,SMB0-3,N1-100,P1-100,mPA480-502,sM=1.xlsx')
 
-        # test for testing environment
-        self.assertEqual(Filepath.get_mass_results_file((2009, 2010), (0, 3), 
-            (1, 100), (1, 100), (480, 502), test=True), self.rootDir + '/tests/results/' + \
-            'mass/S2009-2010,SMB0-3,N1-100,P1-100,mPA480-502.xlsx')
+        # test for testing environment (and method 2)
+        self.assertEqual(Filepath.get_mass_results_file(
+            simYearRange=(2009, 2010), sMBRange=(0, 3), 
+            NRange=(1, 100), PRange=(1, 100), minPARange=(480, 502), 
+            minERARange=None, method=2, test=True), self.rootDir + \
+            '/tests/results/mass/S2009-2010,SMB0-3,N1-100,P1-100' + \
+            ',mPA480-502,sM=2.xlsx')
+
+        # test for methods 3 and 4
+        self.assertEqual(Filepath.get_mass_results_file(
+            simYearRange=(2009, 2010), sMBRange=(1, 2), 
+            NRange=(57, 100), PRange=(1, 3), minPARange=(100, 502), 
+            minERARange=(1.0,2.5), method=3), self.rootDir + \
+            '/results/mass/S2009-2010,SMB1-2,N57-100,P1-3' + \
+            ',mPA100-502,sM=3(1.0-2.5).xlsx')
+
+        self.assertEqual(Filepath.get_mass_results_file(
+            simYearRange=(2008, 2008), sMBRange=(1,1), 
+            NRange=(1, 100), PRange=(1, 100), minPARange=(480, 502), 
+            minERARange=(5.7,9.0), method=4), self.rootDir + \
+            '/results/mass/S2008-2008,SMB1-1,N1-100,P1-100' + \
+            ',mPA480-502,sM=4(5.7-9.0).xlsx')

@@ -122,24 +122,30 @@ class NPReporter(object):
         doubleDownS = Series(kwargs['doubleDownL'], name='DoubleDown?')
         startDateS = Series(kwargs['startDateL'], name='start date')
         endDateS = Series(kwargs['endDateL'], name='end date')
+        minERAS = Series(kwargs['minERAL'], name='min ERA')
 
-        ## construct dataframe to write to excel file
-        df = concat([simYearS, batAveYearS, nS, pS, minPAS, minBatAveS, 
-                     successesS, perSuccessS, failureS, perFailureS, 
-                     percUniqueBotsS, doubleDownS, topStreakAveS, oneStreakS, 
-                     twoStreakS, threeStreakS, fourStreakS, fiveStreakS, 
-                     startDateS, endDateS, methodS], axis=1)
+        ## construct dataframe
+        df = concat([simYearS, batAveYearS, nS, pS, minPAS, minBatAveS], axis=1)
+        if len(minERAS) > 0:
+            df = concat([df, minERAs], axis=1) 
+        df = concat([ df, successesS, perSuccessS, failureS, perFailureS, 
+                      percUniqueBotsS, doubleDownS, topStreakAveS, oneStreakS, 
+                      twoStreakS, threeStreakS, fourStreakS, fiveStreakS, 
+                      startDateS, endDateS, methodS], axis=1)
 
         ## Write the info to an excel spreadsheet
         if self.test == True: # debugging code
             writer = ExcelWriter(Filepath.get_mass_results_file(
                 kwargs['simYearRange'], kwargs['simMinBatRange'], 
-                kwargs['NRange'], kwargs['PRange'], kwargs['minPARange'], test=True))
+                kwargs['NRange'], kwargs['PRange'], kwargs['minPARange'], 
+                kwargs['minERARange'], method=npsim.method, test=True))
         else:
             writer = ExcelWriter(Filepath.get_mass_results_file(
                 kwargs['simYearRange'], kwargs['simMinBatRange'], 
-                kwargs['NRange'], kwargs['PRange'], kwargs['minPARange']))
+                kwargs['NRange'], kwargs['PRange'], kwargs['minPARange'], 
+                kwargs['minERARange'], method=npsim.method))
         df.to_excel(writer, index=False, sheet_name='Meta')
+
         writer.save()
 
     def __report_bot_results_to_excel(self, bot, writer):

@@ -191,8 +191,7 @@ class Filepath(object):
             str(methodData) + ",dDown=" + str(doubleDown) + ".xlsx"
 
     @classmethod
-    def get_mass_results_file(self, simYearRange, simMinBatRange, NRange, PRange, 
-            minPARange, test=False):
+    def get_mass_results_file(self, **kwargs):
         """
         tupleOfInts tupleOfInts tupleOfInts tupleOfInts tupleOfInts bool -> string
 
@@ -201,23 +200,51 @@ class Filepath(object):
         NRange: TupleOfInts | (lowest N, highest N)
         PRange: TupleOfInts | (lowest P, highset P)
         minPARange: TupleOfInts | (lowest minPA, highest minPA)
+        minERARange: TupleOfFloats | (lowest minERA, highest minERA)
+        method: int | indicates which sim method we are using
         Test: bool | Indicates whether or not this is for testing purposes
 
         Produces the filepath for the results file for the mass simulation
         with the given parameters
         """
+        simYearRange = kwargs['simYearRange']
+        simMinBatRange = kwargs['sMBRange']
+        NRange = kwargs['NRange']
+        PRange = kwargs['PRange']
+        minPARange = kwargs['minPARange']
+        minERARange = kwargs['minERARange']
+        method = kwargs['method']
+        test = False
+        if 'test' in kwargs.keys():
+            test = kwargs['test']
+
+        ## Edit root directory if it's a test run
         if test:
             results = self.get_root() +'/tests/results'
         else:
             results = self.get_root() + '/results'
+
+        ## make sure the needed results folder is there
         if not os.path.isdir(results + '/mass'): # pragma: no cover
             os.mkdir(results + '/mass')
+
+        if method in (1,2):
+            assert not minERARange
+            methodData = method
+        elif method in (3,4):
+            assert minERARange
+            methodData = "{}({}-{})".format( method, minERARange[0], 
+                                             minERARange[1])
+        else:
+            raise ValueError("method number {} not valid!\n".format(
+                             method))
 
         return results + '/mass' + '/S{0}-{1}'.format(simYearRange[0], 
             simYearRange[1]) + ',' + 'SMB{0}-{1}'.format(simMinBatRange[0], 
             simMinBatRange[1]) + ',' + 'N{0}-{1}'.format(NRange[0], 
             NRange[1]) + ',' + 'P{0}-{1},'.format(PRange[0], 
-            PRange[1]) + 'mPA{0}-{1}'.format(minPARange[0], minPARange[1]) + '.xlsx'
+            PRange[1]) + 'mPA{0}-{1},'.format(minPARange[0], 
+            minPARange[1]) + 'sM={}'.format(methodData) + '.xlsx'
 
     @classmethod
     def get_player_hit_info_csv_file(self, lahmanID, year):
