@@ -27,7 +27,9 @@ class NPReporter(object):
         self.test = test
         self.selMethods = {
             1: 'N globalSeasonBatAveP minPA serial deterministic static',
-            2: 'N P:globalSeasonBatAve-minPA Random Static'}
+            2: 'N P:globalSeasonBatAve-minPA Random Static', 
+            3: 'N P:(globalSeasonBatAve-minPA)&(perGameERA-minERA) serial-deterministic', 
+            4: 'N P:(globalSeasonBatAve-minPA)&(perGameERA-minERA) Random Static' }
 
     def get_npsim(self):
         return self.npsim
@@ -40,39 +42,39 @@ class NPReporter(object):
 
         Produces results of self.npsim in an excel file
         """
-        #assert type(test) == bool
-        #assert type(method) == int
-
         npsim = self.get_npsim()
-        # Initalize variables
 
+        ## Initalize variables
         numTopBots = 2 # number of top bot histories to report
         firstBot = npsim.get_bots()[0]
         firstBotHist = firstBot.get_history()
         firstTuple = firstBotHist[0]
         startDate = firstTuple[4]
         endDate = npsim.get_bots()[0].get_history()[-1][4]
-        writer = ExcelWriter(Filepath.get_results_file(npsim.get_sim_year(), 
-            npsim.get_bat_year(), npsim.get_n(), npsim.get_p(), startDate, 
-            endDate, npsim.minPA, method, npsim.doubleDown,test=test))
+        writer = ExcelWriter(Filepath.get_results_file(
+            simYear=npsim.get_sim_year(), batAveYear=npsim.get_bat_year(), 
+            N=npsim.get_n(), P=npsim.get_p(), startDate=startDate, 
+            endDate=endDate, minPA=npsim.minPA, minERA=npsim.minERA, 
+            selectionMethodNumber=method, doubleDown=npsim.doubleDown,
+            test=test))
 
-        # calculate best bots
+        ## calculate best bots
         npsim.get_bots().sort(key=lambda bot: bot.get_max_streak_length())
         npsim.get_bots().reverse()
         bestBots = npsim.get_bots()
 
-        # report sim metadata
+        ## report sim metadata
         self.__report_sim_metadata_results_excel(writer, method=method)
         
-        # report results for top performing bots
+        ## report results for top performing bots
         for bot in bestBots[0:numTopBots]:
             self.__report_bot_results_to_excel(bot, writer)
 
-        # report bots metadata
+        ## report bots metadata
         self.__report_bots_metadata_results_excel(writer)
 
 
-        # save everthing to file
+        ## save everthing to file
         writer.save()
 
     def report_mass_results(self, **kwargs):
@@ -94,10 +96,8 @@ class NPReporter(object):
         Reports mass simulation results to excel spreadsheet
         """
         npsim = self.get_npsim()
-        # for item in kwargs.itervalues():
-            #assert (type(item) == list) or (type(item) == tuple)
 
-        # Create series corresponding to columns of csv
+        ## Create series corresponding to columns of csv
         simYearS = Series(kwargs['simYearL'], name='Sim Year')
         batAveYearS = Series(kwargs['batAveYearL'], name='Bat Ave Year')
         nS = Series(kwargs['NL'], name='N')
@@ -123,14 +123,14 @@ class NPReporter(object):
         startDateS = Series(kwargs['startDateL'], name='start date')
         endDateS = Series(kwargs['endDateL'], name='end date')
 
-        # construct dataframe to write to excel file
+        ## construct dataframe to write to excel file
         df = concat([simYearS, batAveYearS, nS, pS, minPAS, minBatAveS, 
                      successesS, perSuccessS, failureS, perFailureS, 
                      percUniqueBotsS, doubleDownS, topStreakAveS, oneStreakS, 
                      twoStreakS, threeStreakS, fourStreakS, fiveStreakS, 
                      startDateS, endDateS, methodS], axis=1)
 
-        # Write the info to an excel spreadsheet
+        ## Write the info to an excel spreadsheet
         if self.test == True: # debugging code
             writer = ExcelWriter(Filepath.get_mass_results_file(
                 kwargs['simYearRange'], kwargs['simMinBatRange'], 
@@ -152,11 +152,9 @@ class NPReporter(object):
         Outputs bot info results to excel buffer. (Helper function for 
         _report_results_excel)
         """
-        #assert type(bot) == Bot
-
         npsim = self.get_npsim()
 
-        # Create series corresponding to columns of csv
+        ## Create series corresponding to columns of csv
         history = bot.get_history()
         player1S = Series([event[0].get_name() for event in history], 
             name='Player1')
@@ -174,11 +172,11 @@ class NPReporter(object):
         otherS = Series([event[6] for event in history], 
             name='Other')
 
-        # construct dataframe to write to excel file
+        ## construct dataframe to write to excel file
         df = concat([player1S, batAve1S, hit1S, player2S, batAve2S, hit2S, 
             dateS, streakS, otherS], axis=1)
 
-        # put df info on excel buffer
+        ## put df info on excel buffer
         botIndexString = str(bot.get_index())
         botLongestStreak = str(bot.get_max_streak_length())
         df.to_excel(writer, index=False,
@@ -207,8 +205,8 @@ class NPReporter(object):
             # for constructing "one item columns"
         enoughEmptyRows = ["" for i in range(npsim.get_n()-1)] 
 
-        # Create series that correspond to columns in output excel file
-        # takes advantage of the fact that self.get_bots() is in sorted order
+        ## Create series that correspond to columns in output excel file
+        ## takes advantage of the fact that self.get_bots() is in sorted order
         npsim.get_bots().sort(key=lambda bot: bot.get_max_streak_length(), 
             reverse=True)
         botS = Series([bot.get_index() for bot in npsim.get_bots()], name='Bot')
@@ -221,11 +219,11 @@ class NPReporter(object):
         percentMulUsedS = Series([percentMulUsedString] + \
             enoughEmptyRows, name='Mul Used (%)')
 
-        # construct dataframe to write to excel file
+        ## construct dataframe to write to excel file
         df = concat(
             [botS, maxStreakS, aveStreakS, uniqueBotS, percentMulUsedS], axis=1)
 
-        # put df info on excel buffer
+        ## put df info on excel buffer
         df.to_excel(writer, index=False, sheet_name='Bots Meta')
 
     def __report_sim_metadata_results_excel(self, writer, method=None):
@@ -234,18 +232,17 @@ class NPReporter(object):
         writer: file-like object used to write to an excel file
         method: int | the index of player selection method used in the simulation
         """
-        #assert type(method) == int
-
         npsim = self.get_npsim()       
 
-        # get number, percent of successes
+        ## get number, percent of successes
         s_and_f = self.calc_s_and_f()
         numSuccesses, percentSuccesses, numFails, percentFails = s_and_f
         percentSuccessesString = "{0:.0f}%".format(100 * percentSuccesses)
-        # Find out if doubleDowns were used
+
+        ## Find out if doubleDowns were used
         doubleDown = npsim.doubleDown
 
-        # construct series that correspond to columns in output file
+        ## construct series that correspond to columns in output file
         yearS = Series([npsim.get_sim_year()], name='simYear')
         batS = Series([npsim.get_bat_year()], name='batAveYear')
         nS = Series([npsim.get_n()], name='N')
@@ -254,20 +251,26 @@ class NPReporter(object):
             name='startDate')
         endDateS = Series([npsim.get_bots()[0].get_history()[-1][4]], 
             name='endDate')
-        
         successS = Series([numSuccesses], name='numSuccesses')
         percentSuccessS = Series([percentSuccessesString], 
             name='percentSuccesses')
         doubleDownS = Series([doubleDown], name='DoubleDown?')
         minPAS = Series([npsim.minPA], name='minPA')
         methodS = Series([self.selMethods[method]], name='Method')
+        if method in (3, 4):
+            minERAS = Series([npsim.minERA], name='min ERA')
 
-        # construct dataframe to write to excel file
-        df = concat([yearS, batS, nS, pS, startDateS, endDateS, 
-                     successS, percentSuccessS, doubleDownS, 
-                     minPAS, methodS], axis=1)
+        ## construct dataframe to write to excel file
+        if method in (1, 2): # don't include minERA in report
+            df = concat([yearS, batS, nS, pS, startDateS, endDateS, 
+                         successS, percentSuccessS, doubleDownS, 
+                         minPAS, methodS], axis=1)
+        if method in (3, 4): # include minERA in report
+            df = concat([yearS, batS, nS, pS, minERAS, startDateS, endDateS, 
+                         successS, percentSuccessS, doubleDownS, 
+                         minPAS, methodS], axis=1)
 
-        # put df info on excel buffer
+        ## put df info on excel buffer
         df.to_excel(writer, index=False, sheet_name='Sim Meta')
 
     def _calc_num_unique_bots(self):
@@ -280,8 +283,8 @@ class NPReporter(object):
         numUnique, N = npsim.get_n(), npsim.get_n()
         bots = npsim.get_bots()
 
-        # if a bot is equal to any of the bots "in front of it" in the 
-        # list bots, then it is not unique and we subtract 1 from numUnique
+        ## if a bot is equal to any of the bots "in front of it" in the 
+        ## list bots, then it is not unique and we subtract 1 from numUnique
         for index, bot in enumerate(bots):
             for j in range(index+1, N):
                 if bot == bots[j]:
@@ -298,13 +301,14 @@ class NPReporter(object):
         for a completed simulation (self). 
         """
         npsim = self.get_npsim()
-        # calculate num_successes
+
+        ## calculate num_successes
         numSuccesses = 0
         for bot in npsim.get_bots():
             if bot.get_max_streak_length() >= 57:
                 numSuccesses += 1
 
-        # Calculate other 3
+        ## Calculate other 3
         numFailures = npsim.get_n() - numSuccesses
         percentSuccesses = round(float(numSuccesses)/float(npsim.get_n()), 3)
         percentFailures = round(float(numFailures)/float(npsim.get_n()), 3)

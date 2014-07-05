@@ -77,10 +77,6 @@ class Bot(object):
         p1 and p2. Updates streakLength, maxStreakLength (if need be), and includes
         "other" column in history if need be
         """
-        #assert type(p1) == Player
-        #assert type(p2) == Player
-        #assert type(date) == datetime.date
-
         # To make sure returned otherInfo vals are valid
         otherInfoVals = (None, specialCasesD['S']['V'], 
                          specialCasesD['S']['I'], specialCasesD['M'], 
@@ -88,12 +84,10 @@ class Bot(object):
         # mulligan use indicator, for otherInfo concat
         mulliganUsed = False 
 
-        # update assigned players and get their hit information
+        ## update assigned players and get their hit information
         self.players = (p1, p2)
         hitVal1, otherInfo1 = cget_hit_info(date, p1.get_lahman_id())
         hitVal2, otherInfo2 = cget_hit_info(date, p2.get_lahman_id())
-        #assert otherInfo1 in otherInfoVals
-        #assert otherInfo2 in otherInfoVals
 
         # get unordered collection of hitVals
         hitVals = set([hitVal1, hitVal2]) 
@@ -129,9 +123,8 @@ class Bot(object):
             otherInfo1, otherInfo2,mulligan=mulliganUsed)
 
         # update history list
-        hist = (p1, p2, hitVal1, hitVal2, date, 
-                            self.get_streak_length(), otherInfo)
-        self.history.append(hist)
+        self.history.append( (p1, p2, hitVal1, hitVal2, date, 
+                             self.get_streak_length(), otherInfo ))
         
     def __update_history_single_down(self, p1, date):
         """
@@ -143,18 +136,14 @@ class Bot(object):
         p1. Updates streakLength, maxStreakLength (if need be), and includes
         "other" column in history if need be
         """
-        #assert type(p1) == Player
-        #assert type(date) == datetime.date
-
         # To make sure returned otherInfo vals are valid
         otherInfoVals = (None, specialCasesD['S']['V'], 
                          specialCasesD['S']['I'], specialCasesD['M'], 
                          specialCasesD['SA'])
 
-        # update assigned player and get his hit information
+        ## update assigned player and get his hit information
         self.players = (p1, None)
         hitVal, otherInfo = cget_hit_info(date, p1.get_lahman_id())
-        #assert otherInfo in otherInfoVals
 
         ## Update streak length and max streak length
         # Case 1: Player got a hit
@@ -183,9 +172,8 @@ class Bot(object):
                 ", other: {0} was invalid".format(other))
 
         # update history list
-        hist = (p1, None, hitVal, None, date, 
-                            self.get_streak_length(), otherInfo)
-        self.history.append(hist)
+        self.history.append( (p1, None, hitVal, None, date, 
+                              self.get_streak_length(), otherInfo) )
 
     # @profile
     def __concat_other_infos(self, otherInfo1, otherInfo2, mulligan=False):
@@ -228,8 +216,6 @@ class Bot(object):
         Increment this bot's streak by amount and update max streak length
         if need be
         """
-        #assert type(amount) == int
-
         self.streakLength += amount
 
         if self.streakLength > self.get_max_streak_length():

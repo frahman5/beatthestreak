@@ -22,7 +22,7 @@ def teardown():
     # zippedFileFolder = Filepath.get_retrosheet_folder(folder='zipped')
     # unzippedFileFolder = Filepath.get_retrosheet_folder(folder='unzipped')
     testsResultsFolders = (Filepath.get_results_folder(year=year, test=True) for 
-      year in range(1950, 2014))
+      year in range(1990, 2014))
     # for folder in (zippedFileFolder, unzippedFileFolder):
     #   os.chdir(folder)
     #   for file in os.listdir(os.getcwd()): 

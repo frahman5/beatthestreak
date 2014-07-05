@@ -89,14 +89,35 @@ class TestFilepath(unittest.TestCase):
 
     def test_results_file(self):
         # test in non-testing environment
-        self.assertEqual(Filepath.get_results_file(2010, 2009, 50, 10, 
-            date(2010, 4, 4), date(2010, 9, 30), 500, 2, True), self.rootDir + \
-            "/results/2010/Sim2010,batAve2009,N50,P10,4.4-9.30,mPA=500,sM=2,dDown=True.xlsx")
+        self.assertEqual(Filepath.get_results_file(
+            simYear=2010, batAveYear=2009, N=50, P=10, 
+            startDate=date(2010, 4, 4), endDate=date(2010, 9, 30), 
+            minPA=500, minERA=None, selectionMethodNumber=2, 
+            doubleDown=True), self.rootDir + "/results/2010/Sim2010," + \
+            "batAve2009,N50,P10,4.4-9.30,mPA=500,sM=2,dDown=True.xlsx")
 
         # test for testing environment
-        self.assertEqual(Filepath.get_results_file(2010, 2009, 50, 10, 
-            date(2010, 4, 4), date(2010, 9, 30), 200, 1, False, test=True), self.rootDir + \
-            "/tests/results/2010/Sim2010,batAve2009,N50,P10,4.4-9.30,mPA=200,sM=1,dDown=False.xlsx")
+        self.assertEqual(Filepath.get_results_file(
+            simYear=2010, batAveYear=2009, N=50, P=10, 
+            startDate=date(2010, 4, 4), endDate=date(2010, 9, 30), 
+            minPA=200, minERA=None, selectionMethodNumber=1, 
+            doubleDown=False, test=True), self.rootDir + "/tests/results" + \
+            "/2010/Sim2010,batAve2009,N50,P10,4.4-9.30,mPA=200,sM=1,dDown=False.xlsx")
+
+        # test for methods 3 and 4
+        self.assertEqual(Filepath.get_results_file(
+            simYear=2010, batAveYear=2008, N=30, P=10, 
+            startDate=date(2010, 7, 7), endDate=date(2010, 10, 1), 
+            minPA=400, minERA=3.7, selectionMethodNumber=3, 
+            doubleDown=True),  self.rootDir + "/results/2010/Sim2010," + \
+            "batAve2008,N30,P10,7.7-10.1,mPA=400,sM=3(3.7),dDown=True.xlsx")
+
+        self.assertEqual(Filepath.get_results_file(
+            simYear=2010, batAveYear=2008, N=30, P=10, 
+            startDate=date(2010, 7, 7), endDate=date(2010, 10, 1), 
+            minPA=400, minERA=2.1, selectionMethodNumber=4, 
+            doubleDown=True),  self.rootDir + "/results/2010/Sim2010,bat" +\
+           "Ave2008,N30,P10,7.7-10.1,mPA=400,sM=4(2.1),dDown=True.xlsx")
 
     def test_get_player_hit_info_csv_file(self):
         self.assertEqual(Filepath.get_player_hit_info_csv_file("mahompa01", 2002), 

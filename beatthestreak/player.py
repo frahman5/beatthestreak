@@ -43,14 +43,9 @@ class Player(object):
         """
         # Type 1, 1a construction
         if len(args) == 2: 
-            #assert type(args[0]) == str # lahman ID
-            #assert type(args[1]) == int # batAveYear
             self.lId = args[0]
             ## Check if its type 1a
             if 'batAve' in kwargs.keys():
-                #assert 'firstName' in kwargs.keys()
-                #assert 'lastName' in kwargs.keys()
-                #assert 'retrosheetID' in kwargs.keys()
                 self.batAve = kwargs['batAve']
                 self.firstName = kwargs['firstName']
                 self.lastName = kwargs['lastName']
@@ -63,11 +58,6 @@ class Player(object):
             return
 
         # else Types 2 and 3 construction
-        #assert len(args) == 3
-        #assert type(args[0]) == str # first name
-        #assert type(args[1]) == str # last name
-        #assert type(args[2]) == int # batAveYear
-
         if 'debut' in kwargs.keys():
             self.debut = kwargs['debut']
         else:
@@ -100,8 +90,6 @@ class Player(object):
         Returns retrosheet id of self
         """
         #assert type(source) == str
-        #assert source in ('name', 'lahmanID')
-
         if source == 'name':
             return self.fetch_retrosheet_id_from_name()
         if source == 'lahmanID':
@@ -195,8 +183,6 @@ class Player(object):
         Produces the season batting average of self in year year, rounded
         off to 3 decimal places
         """
-        #assert type(year) == int
-
         # Read in relevant columns from batting.csv
         df = pd.read_csv(Filepath.get_lahman_file("batting"), 
                          usecols=['playerID', 'yearID', 'AB', 'H'])

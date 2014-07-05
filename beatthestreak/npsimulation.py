@@ -61,11 +61,7 @@ class NPSimulation(Simulation):
             reset to 0
     """
     def __init__(self, simYear, batAveYear, N, P, startDate='default', 
-            doubleDown=False, minPA=502, minERA=1.0, method=1):
-        # _check_year type checks simYear and batAveYear
-        #assert type(N) == int
-        #assert type(P) == int
-        
+            doubleDown=False, minPA=502, minERA=None, method=1):
         Simulation.__init__(self, simYear, startDate)
         self.batAveYear = self._check_year(batAveYear)
         self.numBots = N
@@ -104,20 +100,16 @@ class NPSimulation(Simulation):
         of greater than 57, as well as their respective streak lengths. Reports
         back a variable number of top bots, inluding their player histories. 
         """
-        #assert (type(numDays) == str) or (type(numDays) == int)
-        #assert type(anotherSim) == bool
-        #assert type(test) == bool
-
         ## initalize relevant date variables and setup the simulation
-        # if self.startDate == 'default':
-        #     self.currentDate = Researcher.get_opening_day(self.simYear)
-        # else:
-        #     #assert type(self.startDate) == datetime.date
-        #     Researcher.check_date(self.startDate, startDate.year)
-        #     self.currentDate = self.startDate
-        # startDate = self.currentDate
-        # self.currentDate = startDate
-        self.currentDate = date(self.simYear, 7, 7) # for actual production simulations
+        if self.startDate == 'default':
+            self.currentDate = Researcher.get_opening_day(self.simYear)
+        else:
+            #assert type(self.startDate) == datetime.date
+            Researcher.check_date(self.startDate, startDate.year)
+            self.currentDate = self.startDate
+        startDate = self.currentDate
+        self.currentDate = startDate
+        # self.currentDate = date(self.simYear, 7, 7) # for actual production simulations
         startDate = self.currentDate
         lastDate = Researcher.get_closing_day(self.simYear)
         Reporter = NPReporter(self)
@@ -141,10 +133,10 @@ class NPSimulation(Simulation):
         doubleDown = self.doubleDown
         while True:
             if (numDays=='max') and (self.currentDate >= lastDate): # pragma: no cover
-                # Reporter.report_results(test=test, method=self.method)
+                Reporter.report_results(test=test, method=self.method)
                 break
             if (type(numDays) == int) and elapsedDays >= numDays:
-                # Reporter.report_results(test=test, method=self.method)
+                Reporter.report_results(test=test, method=self.method)
                 break
             sim_next_day(doubleDown=doubleDown)
             elapsedDays += 1
@@ -189,7 +181,6 @@ class NPSimulation(Simulation):
 
         Simulates the next day
         """
-        #assert type(doubleDown) == bool
         if doubleDown:
             self.__sim_next_day_double()
         else:
@@ -204,7 +195,7 @@ class NPSimulation(Simulation):
         """
         today = self.get_date()
 
-        # Retrieve list of players playing today
+        # Retrieve list of players qualifying today
         if self.method in (1, 2):
             qualifyingPlayers = [ player for player in self.players if \
                                   cdid_start(today, player.get_lahman_id()) ]
@@ -218,9 +209,9 @@ class NPSimulation(Simulation):
             raise InvalidMethodException("Method: {} is not valid".format(
                         self.method))
         
-        # assign players to bots and update histories
+        ## assign players to bots and update histories
         modFactor = len(qualifyingPlayers)
-        # no active players today
+           # no active players today
         if modFactor == 0: # pragma: no cover
             self.incr_date() 
             return
@@ -229,6 +220,7 @@ class NPSimulation(Simulation):
             for i, bot in enumerate(self.bots):
                 player = qualifyingPlayers[i % modFactor]
                 bot.update_history(p1=player, date=today)
+            # random distribution of players
         elif self.method in (2, 4):
             for bot in self.bots:
                 player = random.choice(qualifyingPlayers)
@@ -250,7 +242,7 @@ class NPSimulation(Simulation):
         """
         today = self.get_date()
 
-        # Retrieve list of players playing today
+        ## Retrieve list of players qualifying today
         if self.method in (1, 2):
             qualifyingPlayers = [ player for player in self.players if \
                                   cdid_start(today, player.get_lahman_id()) ]
@@ -259,7 +251,7 @@ class NPSimulation(Simulation):
             qualifyingPlayers = [ 
                 player for player in self.players if
                 cdid_start(today, player.get_lahman_id()) and
-                copposing_pitcher_era(player, today) > minERA] 
+                copposing_pitcher_era(player.get_lahman_id(), today) > minERA] 
         else:
             raise InvalidMethodException("Method: {} is not valid".format(
                         self.method))
@@ -286,6 +278,7 @@ class NPSimulation(Simulation):
                 p2 = qualifyingPlayers[p2Index]
                 # update bot
                 bot.update_history(p1=p1, p2=p2, date=today)
+
             # random selection
         elif self.method in (2, 4):
             for bot in self.bots:
@@ -339,13 +332,6 @@ class NPSimulation(Simulation):
             7) (2010, 2009, 2, 1)
             8) (2010, 2010, 2, 2)
         """
-        # for param in (simYearRange, simMinBatRange, NRange, PRange, minPARange):
-            #assert len(param) == 2
-            # for item in param:
-                #assert type(item) == int
-        #assert type(test) == bool
-
-
         # lists hold data that will later be written to .xlsxfile
         simYearL, batAveYearL, NL, PL , minBatAveL = [], [], [], [], []
         numSuccessL, percentSuccessL, numFailL, percentFailL = [], [], [], []
@@ -422,11 +408,6 @@ class NPSimulation(Simulation):
                                 fourStreakL.append(fourS)
                                 fiveStreakL.append(fiveS)
                                 topStreakAveL.append(float(sum(fiveTopStreakNums))/len(fiveTopStreakNums))
-                                # oneStreakL.append(fiveTopStreaks[0])
-                                # twoStreakL.append(fiveTopStreaks[1])
-                                # threeStreakL.append(fiveTopStreaks[2])
-                                # fourStreakL.append(fiveTopStreaks[3])
-                                # fiveStreakL.append(fiveTopStreaks[4])
                                 doubleDownL.append(self.doubleDown)
                                 startDateL.append(startDate)
                                 endDateL.append(endDate)
@@ -513,9 +494,6 @@ class NPSimulation(Simulation):
         simMinBatRange[1]
         """
         self._check_year(simYear)
-        #assert (type(simMinBatRange) == tuple)
-        # for item in simMinBatRange:
-            #assert type(item) == int
 
         return (simYear - difference for difference 
             in range(simMinBatRange[1], simMinBatRange[0]-1, -1))
@@ -647,94 +625,106 @@ def main(*args): # pragma: no cover
     run a single or mass simulation from the command line
     """
     import re
-    # see what special options the user wants
+
+    ## see what special options the user wants
     options = [arg for arg in args if '-' in arg]
 
-    # Set to default values, only changed if options included them
-    massSim = False
+        # Set to default values, only changed if options included them
     doubleDown = False
     minPA = 502
+    simMethod = 1
 
-    # doubleDown?
+        # doubleDown?
     if '-d' in options:
         doubleDown = True
-        print "If you're doing a mass simulation, then -d does nothing,"
-        print "Mass simulation varies over single and double down by default"
-    # non-standard minPA value?
-    pMinPA = re.compile('-m=[1-9][0-9]+')
+        options.remove('-d')
+
+        # non-standard minPA value?
+    pMinPA = re.compile(r"""
+        -mP=            # minPlateAppearnces setting option
+        [1-9]           # 1 non-zero digit
+        [0-9]+          # 1 or more digits
+        """, re.VERBOSE)
     matches = [pMinPA.match(option) for option in options if pMinPA.match(option)]
     if len(matches) == 1:
         minPA = int(matches[0].string[3:])
+        options.remove(matches[0].string)
     elif len(matches) != 0:
         print "can only use the -m option once!"
         return
-    # is it a normal or mass simulation?
-    if '-M' in options:
-        massSim = True
-    # is it a test or a full run?
-    if '-t' in options:
+
+        # which sim method do we use? If it's 3 or 4, what's the minERA?
+    pSimMethod = re.compile(r"""
+        -sM=            # sim Method setting option
+        [1-4]           # method number must be in (1, 2, 3, 4)
+        """, re.VERBOSE)
+    matches = [ pSimMethod.match(option) for option in options if 
+                pSimMethod.match(option)]
+    if matches:
+        simMethod = int(matches[0].string[-1])
+        options.remove(matches[0].string)
+    if simMethod in (3, 4):
+        pMinERA = re.compile(r"""
+            -mE=        # minERA setting option 
+            [0-9]+      # 1 or more digits
+            .?          # 0 or 1 decimal points
+            [0-9]*      # 0 or more digits
+            """, re.VERBOSE)
+        matches = [ pMinERA.match(option) for option in options if 
+                    pMinERA.match(option)]
+        assert matches[0]
+        minERA = float(matches[0].string.partition('=')[-1])
+        options.remove(matches[0].string)
+    else:
+        minERA = None
+
+        # is it a test or a full run?
+    testOption = '-t'
+    if testOption in options:
         test=True
+        options.remove(testOption)
     else: 
         test=False
-    if massSim:
-        # make sure last four arguments are simYearLow-simYearHigh, 
-        # batAveYearLow-batAveYearHigh, nLow-nHigh, pLow, pHigh
-        numDashNumP = re.compile('[0-9]+-[0-9]+')
-        for arg in args[-4:]:
-            if numDashNumP.match(arg) == None:
-                print "ERROR: Invalid arg: {}".format(arg)
-        # get args and run simulation
-        firstNumP = re.compile('^[0-9]+')
-        lastNumP = re.compile('[0-9]+$')
-        simYearLow = int(re.findall(firstNumP, args[-4] )[0])
-        simYearHigh = int(re.findall(lastNumP, args[-4] )[0])
-        smbLow = int(re.findall(firstNumP, args[-3] )[0])
-        smbHigh = int(re.findall(lastNumP, args[-3] )[0])
-        nLow = int(re.findall(firstNumP, args[-2] )[0])
-        nHigh = int(re.findall(lastNumP, args[-2] )[0])
-        pLow = int(re.findall(firstNumP, args[-1] )[0])
-        pHigh = int(re.findall(lastNumP, args[-1] )[0])
-        print "Mass Simming with sYR: {}-{}, smbR: {}-{}".format(simYearLow, 
-            simYearHigh, smbLow, smbHigh) + \
-            " nR: {}-{}, pR: {}-{}".format(nLow, nHigh, pLow, pHigh)
-        print "Options: doubleDown: {}".format(doubleDown) 
-        sim = NPSimulation(simYearLow, simYearHigh, nLow, pLow, 
-                           doubleDown=doubleDown) 
-        sim.mass_simulate((simYearLow, simYearHigh), 
-                          (smbLow, smbHigh), 
-                          (nLow, nHigh), (pLow, pHigh), test=test)
-    else: # do a single simulation
-        # make sure last four arguments are simYear, batAveYear, N, P
-        for arg in args[-4:]:
-            try:  
-                int(arg)
-            except ValueError as e:
-                print e.message
-                return
-        sim = NPSimulation(int(args[-4]), int(args[-3]), int(args[-2]), 
-                           int(args[-1]), doubleDown=doubleDown, minPA=minPA)
-        print "Simming with simYear: {}, batAveYear: {}, N: {}, P: {}".format(
-                int(args[-4]), int(args[-3]), int(args[-2]), int(args[-1]), minPA)
-        print "Options: DoubleDown: {}, minPA: {}".format(doubleDown, minPA)
-        sim.simulate(test=test)
+
+    ## Check that last four arguments--simYear, batAveYear, N, P-- are ints
+    for arg in args[-4:]:
+        try:  
+            int(arg)
+        except ValueError as e:
+            raise e
+
+    ## Check that we didn't get any bogus options:
+    if len(options) != 0:
+        raise KeyError("Invalid options: " + str(options))
+
+    ## Run the simulation
+    sim = NPSimulation(int(args[-4]), int(args[-3]), int(args[-2]), 
+                       int(args[-1]), doubleDown=doubleDown, minPA=minPA, 
+                       method=simMethod)
+    sim.minERA = minERA
+    print "Simming with simYear: {}, batAveYear: {}, N: {}, P: {}".format(
+            int(args[-4]), int(args[-3]), int(args[-2]), int(args[-1]), minPA)
+    print "Options. DoubleDown: {}, minPA: {}, simMethod: {}, minERA: {}".format(
+              doubleDown, minPA, simMethod, minERA) 
+    sim.simulate(test=test)
 
 if __name__ == '__main__': # pragma: no cover
     """
     Command line Usage:
 
-    1) ./npsimulation.py simYear batAveYear N P
-       -> runs a single simulation with given parameters
-    2) ./npsimulation.py -d simYear batAveYear N P
-       -> runs a single simulation with given parameters using DoubleDown
-    3) ./npsimulation.py -d -m=minPA simYear batAveYear N P
-       -> runs a single simulation with given parameters using doubleDown
-       and minPA = minPA
-    4) ./npsimulation -d -M simYearLow-simYearHigh SMBLow-SMBHigh nLow-nHigh, pLow-pHigh
-       -> runs a mass simulation with double downs and given parameters 
-   
+    1) ./npsimulation.py [OPTIONS] simYear batAveYear N P
+       -> runs a single simulation with given parameters and options
 
-    Auxiliary options: 
-        -t : indicates results should be printed to test results folder
+    Options:
+       -d : DoubleDown. If not provided, default is SingleDown
+       -sM=[METHODNUMBER]: Indicate simulation method. METHODNUMBER is an int
+                           If -sM=3 or -sM=4 is chosen, must provide -mE
+       -mE=[MINERA]: Indicate minimum era to be used if sM=3 or sM=4. Must be 
+                     a positive rational number.
+       -mP=[minPlateAppearnces]: Indicate minimum number of plate appearances
+                                 that a player must have had to qualify for the sim
+                                 If not provided, defaults to 502
+       -t : indicates results should be printed to test results folder
     """
     main(*sys.argv)
     

@@ -91,31 +91,37 @@ class TestNPSimulation(unittest.TestCase):
     # @unittest.skip("Too long")
     def test_simulate(self):
         ## Single down
-        # check that test results folder is empty
+            # check that test results folder is empty
         self.assertEqual(os.listdir(Filepath.get_results_folder(
             year=2010, test=True)), [])
-        # Run the simulation, shortened to save time
+            # Run the simulation, shortened to save time
         self.npSim2010_2.simulate(test=True, numDays=10)
         # Check that the results file is now there
         openingDay = Researcher.get_opening_day(2010)
         closingDay = openingDay + timedelta(days=9)
         self.assertTrue(os.path.isfile(Filepath.get_results_file(
-            2010, 2010, 100, 20, openingDay, closingDay, 
-            502, 1, False, test=True)))
+            simYear=2010, batAveYear=2010, N=100, P=20, 
+            startDate=openingDay, endDate=closingDay, minPA=502, 
+            minERA=self.npSim2010_2.minERA, 
+            selectionMethodNumber=self.npSim2010_2.method, 
+            doubleDown=False, test=True)))
 
         ## DoubleDOwn
-        # check that test results folder is empty
+            # check that test results folder is empty
         self.assertEqual(os.listdir(Filepath.get_results_folder(
             year=2009, test=True)), [])
-        # Run the simulation, shortened to save time
+            # Run the simulation, shortened to save time
         npSim = NPSimulation(2009, 2008, 20, 20, doubleDown=True)
         npSim.simulate(test=True, numDays=10)
-        # Check that the results file is now there
+            # Check that the results file is now there
         openingDay = Researcher.get_opening_day(2009)
         closingDay = openingDay + timedelta(days=9)
         self.assertTrue(os.path.isfile(Filepath.get_results_file(
-            2009, 2008, 20, 20, openingDay, closingDay, 
-            502, 1, True, test=True)))
+            simYear=2009, batAveYear=2008, N=20, P=20, 
+            startDate=openingDay, endDate=closingDay, 
+            minPA=502, minERA=self.npSim2010_2.minERA, 
+            selectionMethodNumber=self.npSim2010_2.method, 
+            doubleDown=True, test=True)))
 
     @unittest.skip("Not Yet")
     def test_mass_simulate(self):

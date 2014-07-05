@@ -73,7 +73,6 @@ class Researcher(object):
         """, re.VERBOSE)
 
     @classmethod
-    # @profile
     def did_get_hit(self, date, player):
         """
         date Player -> bool
@@ -115,14 +114,11 @@ class Researcher(object):
             
         ## see if he had a hit or not
         info = line.split()
-        # if info == ['Jackson', 'E', '(W)*', '8.0', '4', '2', '2', '3', '3']:
-        #     import pdb
-        #     pdb.set_trace()
         index = info.index(lastName)
         if info[index + 1] != firstName[0] + ",": # two players with same last name on SAME line
             index = info[index + 1:].index(lastName)
+
         # Player's hit count is 5 off his last name. 
-        
         return int(info[index+5]) > 0 
 
     @classmethod
@@ -145,9 +141,6 @@ class Researcher(object):
         firstName = player.get_first_name()
         
         # Invoke CResearcher helper function
-        # searchD = str(date.month) + "/" + str(date.day) + "/" + str(date.year)
-        # searchP = lastName + " " + firstName[0]
-        # self.debugList.append((boxscore,searchD, searchP))
         retVal = cfinish_did_get_hit(date=date, firstName=firstName, 
                     lastName=lastName, boxscore=boxscore)
         if type(retVal) == Exception:
@@ -180,8 +173,7 @@ class Researcher(object):
                    either base on balls, hit batsman, defensive interference, defensive obstruction, 
                    or sacrifice bunt
 
-        Should only be used in constructing player hit Info csv's, and thus
-        uses python did_get_hit function instead of cdid_get_hit
+        Should only be used in constructing player hit Info csv's
         """
         # type check arguments 
         self.check_date(date, date.year)
@@ -198,11 +190,11 @@ class Researcher(object):
 
         if date in sGD.keys() and player.get_retrosheet_id() in sGD[date][1]:
             if sGD[date][0]: # Valid game
-                hitVal, otherInfo = self.did_get_hit(date, player), specialCasesD['S']['V']
+                hitVal, otherInfo = self.c_did_get_hit(date, player), specialCasesD['S']['V']
             else: # Invalid game
                 hitVal, otherInfo = 'pass', specialCasesD['S']['I']
         else: # Normal game
-            hitVal, otherInfo = self.did_get_hit(date, player), None
+            hitVal, otherInfo = self.c_did_get_hit(date, player), None
         # self.debugList.append((date, player))
         self.playerInfoBuffer[1].append((player, hitVal, otherInfo))
         return hitVal, otherInfo
@@ -238,6 +230,9 @@ class Researcher(object):
         if len(splitNames) == 2:
             pitcherFirstName, pitcherLastName = splitNames
         else:
+            if len(splitNames) == 1:
+                import pdb
+                pdb.set_trace()
             assert (len(splitNames) > 2)
             pitcherFirstName = splitNames[0]
             pitcherLastName = ''
@@ -315,12 +310,6 @@ class Researcher(object):
                 summand = 0.0
             pitcherERToDate += ( float(statLine.split()[-3]) )
             pitcherIPToDate += ( float(rawIP) + summand )
-            # print ""
-            # print "name: {} {}".format(pitcherFirstName, pitcherLastName)
-            # print "{} IP, ER: {}. {}".format( 
-            #         date, float(rawIP) + summand, 
-            #         float(statLine.split()[-3]))
-            
 
         ## If the pitcher hasn't pitched yet, return inf
         if (pitcherERToDate == 0) and (pitcherIPToDate == 0):
@@ -607,7 +596,6 @@ class Researcher(object):
         dv2, hv2, ov2,
         ....
         """
-        #assert type(year) == int
         # check if its already there:
         filePath = Filepath.get_player_hit_info_csv_file(
                       player.get_lahman_id(), year)
@@ -621,7 +609,6 @@ class Researcher(object):
 
         # Construct dataframe
         while curDate <= endDate:
-            # print "we get into while loop"
             if self.did_start_and_bat(curDate, player):
                 dateL.append('{0}/{1}'.format(curDate.month, curDate.day))
                 hitVal, otherInfo = self.get_hit_info(curDate, player, sGD)
@@ -657,9 +644,6 @@ class Researcher(object):
         Produces true if date was one of active days of the MLB regular season
         in year year
         """
-        #assert type(date) == datetime.date
-        #assert type(year) == int
-
         if year not in self.openAndCloseDays.keys():
             raise BadDateException("Year: {}. Researcher only".format(year) + \
              " handles seasons beetween {0} and {1}".format(1963, 2012))
@@ -735,8 +719,6 @@ class Researcher(object):
                       of suspension, the game was tied and <= 2 outs were 
                       completed in the 5th inning. 
         """
-        #assert type(game) == str
-        
         # Make sure its actually a suspended game
         if not self.__is_game_suspended(game):
             raise NotSuspendedGameException("The below game is not" + \
@@ -837,12 +819,8 @@ class Researcher(object):
         for the string. If found, returns the line in which
         the string was found. If not found, raises fileContentException
         """
-        #assert type(fileF) == file
-        #assert type(search) == str
         self.check_date(date, date.year)
-        #assert type(team) == str
-        #assert type(errorMessage) == str
-        #assert (typeT == 0) or (typeT == 1)
+        assert (typeT == 0) or (typeT == 1)
 
         # If its a player, the file should already have been seeked all the
         # way to the correct date, so we don't do any fileseeking.

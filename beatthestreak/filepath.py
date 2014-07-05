@@ -43,13 +43,6 @@ class Filepath(object):
 
         Returns filepath for the specified retrosheet folder
         """
-        #assert type(folder) == str
-        #assert folder in self.retrosheetFolders
-        # if subFolder:
-            #assert subFolder in self.retrosheetSubfolders
-            #assert year
-            #assert type(year) == int
-
         if folder == 'base':
             return self.get_datasets() + '/retrosheet'
         if folder == 'unzipped' and subFolder: 
@@ -80,15 +73,6 @@ class Filepath(object):
 
         Returns filepath for the specified retrosheet file
         """
-        #assert type(folder) == str
-        #assert type(fileF) == str
-        # if team:
-            #assert type(team) == str
-        # if year:
-            #assert type(year) == int
-        #assert folder in self.retrosheetFolders
-        #assert fileF in self.retrosheetFiles
-
         if folder == 'base':
             if fileF == 'id':
                 return self.get_retrosheet_folder(folder=folder) + \
@@ -96,29 +80,23 @@ class Filepath(object):
 
         if folder == 'zipped':
             if fileF == 'gamelog':
-                #assert year
                 return self.get_retrosheet_folder(folder=folder) + \
                     '/Gamelog' + str(year) + ".zip"
             if fileF == 'event':
-                #assert year
                 return self.get_retrosheet_folder(folder='zipped') + \
                     "/r" + str(year) + "events.zip"
 
         if folder == 'unzipped':
             if fileF == 'gamelog':
-                #assert year
                 return self.get_retrosheet_folder(folder=folder, 
                     subFolder='gamelog', year=year) + '/GL' + str(year) + '.TXT'
             if fileF == 'boxscore':
-                #assert year
-                #assert team
                 return self.get_retrosheet_folder(folder='unzipped', 
                     subFolder='events', year = year) + "/" + str(year) + \
                     team + "B.txt"
 
         if folder == 'persistent':
             if fileF == 'batAve':
-                #assert year
                 return self.get_retrosheet_folder(folder='persistent') + \
                     '/battingAverages' + str(year) + '.csv'
         
@@ -136,9 +114,6 @@ class Filepath(object):
 
         Returns the filepath of the lahman csv corresponding to fileF
         """
-        #assert type(fileF) == str
-        #assert fileF.lower() in [string.lower() for string in self.lahmanFiles]
-
         return self.get_datasets() + "/lahman/unzipped/lahman2013-csv/" + \
                   fileF + ".csv"
 
@@ -153,8 +128,6 @@ class Filepath(object):
         Returnsthe filepath of the results folder containing simulations
         for year year
         """
-        #assert type(year) == int
-
         # check results folder for year year is there
         os.chdir(self.get_root())
 
@@ -168,8 +141,7 @@ class Filepath(object):
         return folder
 
     @classmethod
-    def get_results_file(self, simYear, batAveYear, N, P, startDate, endDate, 
-           minPA, selectionMethodNumber, doubleDown, test=False):
+    def get_results_file(self, **kwargs):
         """
         int int int int date date bool -> string
         simYear: int | year of simulation
@@ -179,6 +151,8 @@ class Filepath(object):
         startDate: date | start date of simulation
         endDate: date | end date of simulation
         minPA: int | minimum number of plate appearances
+        minERA: float|None | min ERA opposing pitcher needs to have for player 
+           to qualify (only relevant if method in (3, 4))
         selectionMethodNumber: int | selection method number. 
             Reference: PlayerChoiceMethods.txt
         doubleDown: bool | indicates whether or not doubleDown was used
@@ -188,18 +162,33 @@ class Filepath(object):
         Produces the filepath of the results file containing the simulation with
         simYear, batAveYear, N, P, startDate, endDate
         """
-        # for param in (simYear, batAveYear, N, P):
-        # for param in (simYear, batAveYear, N, P, minPA, selectionMethodNumber):
-            #assert type(param) == int
-        #assert type(startDate) == date
-        #assert type(endDate) == date
+        simYear = kwargs['simYear']; batAveYear = kwargs['batAveYear']
+        N = kwargs['N']; P = kwargs['P']
+        startDate = kwargs['startDate']; endDate = kwargs['endDate']
+        minPA = kwargs['minPA']; minERA = kwargs['minERA']
+        selectionMethodNumber = kwargs['selectionMethodNumber']
+        doubleDown = kwargs['doubleDown']
+        test = False
+        if 'test' in kwargs.keys():
+            test = kwargs['test']
+
+        # if method is 3 or 4, we report minERA along with method number
+        if selectionMethodNumber in (1,2):
+            assert not minERA
+            methodData = selectionMethodNumber
+        elif selectionMethodNumber in (3,4):
+            assert minERA
+            methodData = "{}({})".format(selectionMethodNumber, minERA)
+        else:
+            raise ValueError("method number {} not valid!\n".format(
+                             selectionMethodNumber))
 
         return self.get_results_folder(simYear, test=test) + '/Sim' + \
             str(simYear) + "," + 'batAve' + str(batAveYear) + "," + "N" + \
             str(N) + "," + "P" + str(P) + "," + str(startDate.month) + "." + \
             str(startDate.day) + "-" + str(endDate.month) + "." + \
             str(endDate.day) + "," + "mPA=" + str(minPA) + ',' + 'sM=' + \
-            str(selectionMethodNumber) + ",dDown=" + str(doubleDown) + ".xlsx"
+            str(methodData) + ",dDown=" + str(doubleDown) + ".xlsx"
 
     @classmethod
     def get_mass_results_file(self, simYearRange, simMinBatRange, NRange, PRange, 
@@ -217,11 +206,6 @@ class Filepath(object):
         Produces the filepath for the results file for the mass simulation
         with the given parameters
         """
-        # for param in (simYearRange, simMinBatRange, NRange, PRange):
-            #assert type(param[0]) == int
-            #assert type(param[1]) == int
-            #assert len(param) == 2
-        
         if test:
             results = self.get_root() +'/tests/results'
         else:

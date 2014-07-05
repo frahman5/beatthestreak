@@ -44,7 +44,7 @@ where the above variables are set appropriately"
             lahmanID: string | lahmanID of player of interest\n\
 \n\
         Returns: True if player started a game on the given date, False otherwise"
-#define coppoingPitcherEraDocString "string datetime.date -> bool\
+#define copposingPitcherEraDocString "string datetime.date -> bool\
 \n\
         lahmanID: string | lahmanID of player\n\
         date: datetime.date | date of interest\n\
@@ -343,7 +343,7 @@ static PyMethodDef cresearcherMethods[] = {
     { "cdid_start", (PyCFunction) cdid_start, 
       METH_KEYWORDS, cdidStartDocString },
     { "copposing_pitcher_era", (PyCFunction) copposing_pitcher_era, 
-      METH_KEYWORDS, coppoingPitcherEraDocString },    
+      METH_KEYWORDS, copposingPitcherEraDocString },    
     { NULL, NULL, 0, NULL} /* sentinel */
 };
 
