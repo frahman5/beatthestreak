@@ -1,6 +1,5 @@
 /* C analogues of select functions from Researcher.py */
-#include "Python.h"
-// #include "Python.h" /* also imports stdlib, stdio, string, errno */
+#include "Python.h"  /* also imports stdlib, stdio, string, errno */
 #include "datetime.h"   /* PyDatetime support */
 #include "crhelper.h"   /* get_third_num_in_string, _search_boxscore */
 #include "playerInfoCache.h"
@@ -79,7 +78,7 @@ static PyObject *copposing_pitcher_era(
     strcpy(monthSlashDay, monthS);
     strcat(monthSlashDay, "/");
     strcat(monthSlashDay, dayS);
-    
+
     /* Check if the cache is for this year or nnot */
     int yearInt = atoi(yearS);
     if (playerInfoCacheYear != yearInt) {
@@ -97,19 +96,17 @@ static PyObject *copposing_pitcher_era(
     }
 
     pDD = findPlayerDateData(lahmanID, monthSlashDay);
+    if (!pDD) {
+        return PyErr_Format(PyExc_IndexError, 
+                            "PlayerInfo lookup failed. lId, Date: %s, %s\n", 
+                            lahmanID, monthSlashDay);
+    }
 
-    /* Get the return value, build a python object and return it */
-    // if (pDD->opPitcherERA[4] == '\0') {
-    //     printf("4th char is empty");
-    // }
-    // for (int i = 0; i < 8; i++) {
-    //     printf("i, char: %i, %c\n", i, pDD->opPitcherERA[i]);
-    // }
-    printf("\nlahmanID, date, opPitcherERA: %s, %s, %s\n", 
-           lahmanID, monthSlashDay, pDD->opPitcherERA);
-    PyObject *answer = Py_BuildValue("s", pDD->opPitcherERA);
-    Py_INCREF(answer);
-    return answer;
+    PyObject *stringAnswer = Py_BuildValue("s", pDD->opPitcherERA);
+    char *pend[] = {"dummy", "for backwards compatability", NULL};
+    PyObject *floatAnswer = PyFloat_FromString(stringAnswer, pend);
+    Py_INCREF(floatAnswer);
+    return floatAnswer;
 
 }
 /* Return Py_True if player started, Py_False otherwise */

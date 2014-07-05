@@ -47,7 +47,7 @@ struct playerDateData *findPlayerDateData(char *lahmanID, char *date) {
 /* Add an item to the hash table */
 int addPlayerDateData(char *lahmanID) {
     /* bucket to be added to cache */
-    static struct playerDateData *pDD;
+    struct playerDateData *pDD;
     /* string used to open playerHitInfoCSV
          25: 4 for the year, 2 for backslashes, 9 for the lahmanID, 4 for the 
         .txt, 1 for the sentinel. Then some 5 for breathing room */
@@ -59,7 +59,7 @@ int addPlayerDateData(char *lahmanID) {
     char *date;
     char *hitVal;
     char *otherInfo;
-    static char *opPitcherERA;
+    char *opPitcherERA;
 
     /* open the file for year playerInfoCacheYear and lahmanID */
     sprintf(filePathSuffix, "/%d/%s.txt", playerInfoCacheYear, lahmanID);
@@ -81,7 +81,6 @@ int addPlayerDateData(char *lahmanID) {
         hitVal = strtok(NULL, ",");
         otherInfo = strtok(NULL, ",");
         opPitcherERA = strtok(NULL, ",\n");
-        printf("opPitcherERA: %s\n", opPitcherERA);
 
         /* Construct the hash key */
         // 3: 1 for the sentinel, 1 for a dash, 1 for breathing room
@@ -117,13 +116,7 @@ to the player info hash table >= 1 times.\n");
             pDD->lIdDashDate = hashKey;
             strcpy(pDD->hitVal, hitVal);
             strcpy(pDD->otherInfo, otherInfo);
-            // sprintf(pDD->opPitcherERA, "%s", opPitcherERA);
-            pDD->opPitcherERA = opPitcherERA;
-            // pDD->opPitcherERA[0] = '\0';
-            // strncpy(pDD->opPitcherERA, opPitcherERA, 7);
-            // strcpy(pDD->opPitcherERA, "5.67");
-            // pDD->opPitcherERA[4] = '\0';
-            // pDD->opPitcherERA = opPitcherERA;
+            strcpy(pDD->opPitcherERA, opPitcherERA);
             HASH_ADD_STR(playerInfoCache, lIdDashDate, pDD);
         }
     }
@@ -152,8 +145,8 @@ to the player info hash table >= 1 times.\n");
         pDD->lIdDashDate = indicatorHashKey;
         strcpy(pDD->hitVal,"I"); // I for "Indicator"
         strcpy(pDD->otherInfo, "I"); // I for "Indicator"
-        pDD->opPitcherERA = "I";
-        // strcpy(pDD->opPitcherERA, "I"); // I for "Indicator"
+        // pDD->opPitcherERA = "I";
+        strcpy(pDD->opPitcherERA, "I"); // I for "Indicator"
         HASH_ADD_STR(playerInfoCache, lIdDashDate, pDD);
     }
 

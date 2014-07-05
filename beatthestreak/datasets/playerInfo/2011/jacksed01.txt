@@ -8,8 +8,8 @@ date,hitVal,otherInfo,opPitcherEra
 8/20,False,n/a,3.8
 8/25,True,n/a,3.42
 8/30,True,n/a,3.38
-9/4,False,n/a,5.39
+9/4,False,n/a,5.13
 9/9,True,n/a,4.2
 9/14,True,n/a,3.81
-9/20,True,n/a,4.41
+9/20,True,n/a,4.49
 9/25,False,n/a,5.09

@@ -620,7 +620,7 @@ class Researcher(object):
         sGD = self.get_sus_games_dict(year)
 
         # Construct dataframe
-        while curDate != endDate:
+        while curDate <= endDate:
             # print "we get into while loop"
             if self.did_start_and_bat(curDate, player):
                 dateL.append('{0}/{1}'.format(curDate.month, curDate.day))

@@ -1,15 +1,22 @@
-/* Folder where player hit info csv's are located */
-    // on faiyams machine
+/* Faiyam: Default */
 // #define pInfoDir "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak\
 // /datasets/playerInfo"
-    // on faiyams machine, second repo used for devving while simming
+
+/* Faiyam: secondary: for devving while simming */
 #define pInfoDir "/Users/faiyamrahman/programming/Python/beatthestreak2/\
 beatthestreak/beatthestreak/datasets/playerInfo"
 #define rootDir "/Users/faiyamrahman/programming/Python/beatthestreak2/\
 beatthestreak/beatthestreak/"
-    // on dmitrys machine
+
+/* Faiyam: Vagrant Linux Box */
+// #define pInfoDir "/home/vagrant/programming/Python/beatthestreak/datasets/playerInfo"
+// #define rootDir "/home/vagrant/programming/Python/beatthestreak"
+
+/* Dmitry: default */
 // #define pInfoDir "/Users/Dima/faiProgramming/Python/beatthestreak/beatthestreak/\
 // datasets/playerInfo"
-    // on dmitrys machien, second repository using for devving while simming
+
+/* Dmitry: secondary, for deving while simming */
 // #define pInfoDir "/Users/Dima/faiProgramming/Python/beatthestreak2/beatthestreak/\
 // beatthestreak/datasets/playerInfo"
+

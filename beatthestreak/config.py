@@ -12,4 +12,4 @@ rootDir = '/Users/faiyamrahman/programming/Python/beatthestreak2/beatthestreak/b
    # on dmitrys machine, second repository using for devving while simming
 # rootDir = '/Users/Dima/faiProgramming/Python/beatthestreak2/beatthestreak/beatthestreak'
     # for use on the vagrant linux box
-#RootDir = '/home/vagrant/programming/Python/beatthestreak'
+# rootDir = '/home/vagrant/programming/Python/beatthestreak'

@@ -126,3 +126,4 @@ date,hitVal,otherInfo,opPitcherEra
 9/23,True,n/a,3.98
 9/26,True,n/a,3.52
 9/27,False,n/a,3.38
+9/28,True,n/a,1.94
