@@ -6,10 +6,10 @@ from beatthestreak.npsimulation import NPSimulation as NPS
 sim = NPS(2010, 2009, 20, 20) # bogus numbers, just to initalize
 
 sim.mass_simulate(
-    (2010, 2010), (1, 1), (1, 300), (1, 50), (100, 600), 
+    (2010, 2010), (1, 1), (1, 300), (101, 150), (100, 600), 
     minERARAnge=(2.0, 4.0), method=3)
 sim.mass_simulate(
-    (2010, 2010), (1, 1), (1, 300), (51, 100), (100, 600), 
+    (2010, 2010), (1, 1), (1, 300), (151, 200), (100, 600), 
     minERARAnge=(2.0, 4.0), method=3)
 
-## Left to do: P(101-300)
+## Left to do: P(201-300)

@@ -208,6 +208,9 @@ class Researcher(object):
         in the game that player player started in. Returns in-season
         ERA leading up to the given date, rounded to 2 decimal points"
         """
+        # Make sure we have this year's boxscore files
+        Utilities.ensure_boxscore_files_exist(date.year, 'HOU')
+        
         self.check_date(date, date.year)
         playerRID = player.get_retrosheet_id()
         pitcherERToDate = 0.0 # Earned-runs-to-date counter
