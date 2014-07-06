@@ -1,5 +1,5 @@
 /* A cache for remembering the most recently viewed place on team boxscores */
-#include "boxscorebuffer.h" // also imports python.h
+#include "boxscoreBuffer.h" // also imports python.h
 #include <stdlib.h> /* exit, EXIT_FAILURE */
 #include <stdio.h> /* fprintf, printf, etc */
 

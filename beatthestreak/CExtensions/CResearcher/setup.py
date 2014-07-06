@@ -5,7 +5,7 @@ CResearcher = Extension('cresearcher',
                          extra_compile_args= ['-std=c99', '-g', '-O0'],
                          sources=['cresearcher.c', 
                                   'crhelper.c', 
-                                  'boxscorebuffer.c', 
+                                  'boxscoreBuffer.c', 
                                   'playerInfoCache.c'])
 
 setup(name='CResearcher', version='2.0', 
