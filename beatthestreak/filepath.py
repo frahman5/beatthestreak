@@ -19,6 +19,11 @@ class Filepath(object):
         'ManagersHalf', 'Master', 'Pitching', 'PitchingPost', 'Salaries', 
         'Schools', 'SchoolsPlayers', 'SeriesPost', 'Teams', 'TeamsFranchises', 
         'TeamsHalf')
+    
+    ## Make sure the commonly-missing retrosheet folder is available
+    retrosheetZipped = rootDir + '/datasets/retrosheet/zipped'
+    if not os.path.isdir(retrosheetZipped):
+        os.mkdir(retrosheetZipped)
 
     @classmethod
     def get_root(self):

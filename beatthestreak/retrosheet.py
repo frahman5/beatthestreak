@@ -152,7 +152,7 @@ class Retrosheet(object):
             self.download_and_unzip(typeT='event')
 
         # open team file and read team abbrevations from it    
-        teamPath = self.eventFolderUnzipped + "/team" + str(self.get_season())
+        teamPath = self.eventFolderUnzipped + "/TEAM" + str(self.get_season())
         with open(teamPath, "r") as f:
             teamAbbrevs = [(line.split(',')[0], line.split(',')[1]) for
                                 line in f]
