@@ -1,0 +1,11 @@
+date,hitVal,otherInfo,opPitcherEra
+4/5,True,n/a,inf
+4/7,False,n/a,inf
+4/10,False,n/a,12.3
+4/11,False,n/a,inf
+4/16,True,n/a,5.73
+4/18,True,n/a,1.2
+4/27,False,n/a,2.18
+5/2,False,n/a,5.25
+5/5,True,n/a,5.33
+5/17,False,n/a,5.73

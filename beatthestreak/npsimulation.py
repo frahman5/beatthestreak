@@ -1,4 +1,4 @@
-#! pyvenv/bin/python
+#! /usr/bin/python
 import sys
 import os
 import pandas as pd
@@ -133,10 +133,10 @@ class NPSimulation(Simulation):
         doubleDown = self.doubleDown
         while True:
             if (numDays=='max') and (self.currentDate >= lastDate): # pragma: no cover
-                Reporter.report_results(test=test, method=self.method)
+                #Reporter.report_results(test=test, method=self.method)
                 break
             if (type(numDays) == int) and elapsedDays >= numDays:
-                Reporter.report_results(test=test, method=self.method)
+                #Reporter.report_results(test=test, method=self.method)
                 break
             sim_next_day(doubleDown=doubleDown)
             elapsedDays += 1
