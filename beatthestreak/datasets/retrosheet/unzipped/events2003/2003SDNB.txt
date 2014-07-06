@@ -1,0 +1,3842 @@
+     Game of 3/31/2003 -- San Francisco at San Diego (D)
+
+  San Francisco      AB  R  H RBI    San Diego          AB  R  H RBI
+Durham R, 2b          4  2  2  1   Loretta M, 2b         5  0  0  0   
+Cruz J, rf            3  0  2  1   Kotsay M, cf          4  1  2  0   
+Aurilia R, ss         5  0  1  0   White R, lf           3  0  0  0   
+Bonds B, lf           3  0  0  0   Klesko R, 1b          4  0  1  1   
+Alfonzo E, 3b         4  0  0  0   Nady X, rf            4  1  1  0   
+Santiago B, c         4  1  1  1   Burroughs S, 3b       3  0  1  1   
+Snow J, 1b            3  1  2  1   Bennett G, c          4  0  0  0   
+Grissom M, cf         4  1  1  0   Vazquez R, ss         3  0  1  0   
+Rueter K, p           2  0  0  0   Lawrence B, p         2  0  1  0   
+Nathan J, p           0  0  0  0   Buchanan B, ph        1  0  0  0   
+Benard M, ph          1  0  0  0   Condrey C, p          0  0  0  0   
+Eyre S, p             0  0  0  0   Hackman L, p          0  0  0  0   
+Rodriguez F, p        0  0  0  0   Hansen D, ph          1  0  0  0   
+Perez N, ph           0  0  0  0                                      
+Worrell T, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  5  9  4                        34  2  7  2
+
+San Francisco    101 000 003 --  5
+San Diego        000 101 000 --  2
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K*             5.0  5  2  2  2  0
+Nathan J              1.0  0  0  0  1  1
+Eyre S                1.0  1  0  0  0  0
+Rodriguez F (W)       1.0  0  0  0  0  1
+Worrell T (S)         1.0  1  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B            7.0  3  2  2  4  3
+Condrey C (L)+        1.0  4  3  3  2  0
+Hackman L             1.0  2  0  0  0  2
+  * Pitched to 3 batters in 6th
+  + Pitched to 3 batters in 9th
+
+E -- Loretta M, Aurilia R
+DP -- San Francisco 1, San Diego 3
+LOB -- San Francisco 8, San Diego 8
+2B -- Nady X, Burroughs S, Klesko R, Cruz J
+HR -- Durham R, Santiago B, Snow J
+SB -- Kotsay M
+SH -- Perez N
+WP -- Lawrence B
+T -- 2:54
+A -- 61707
+     Game of 4/1/2003 -- San Francisco at San Diego (N)
+
+  San Francisco      AB  R  H RBI    San Diego          AB  R  H RBI
+Durham R, 2b          5  1  1  1   Vazquez R, ss         4  0  1  1   
+Cruz J, rf            4  2  2  1   Loretta M, 2b         3  0  0  0   
+Aurilia R, ss         4  2  1  0   Bynum M, p            0  0  0  0   
+Bonds B, lf           3  2  1  3   Wright J, p           0  0  0  0   
+Alfonzo E, 3b         4  0  2  2   Hansen D, ph          0  0  0  0   
+Santiago B, c         4  1  1  1   Buchanan B, ph        1  0  0  0   
+Snow J, 1b            4  0  1  0   Villafuerte B, p      0  0  0  0   
+Grissom M, cf         4  0  1  0   Kotsay M, cf          4  0  1  0   
+Zerbe C, p            0  0  0  0   Klesko R, 1b          4  0  0  0   
+Schmidt J, p          3  0  0  0   White R, lf           4  0  0  0   
+Rivera R, cf          1  0  0  0   Burroughs S, 3b       3  0  1  0   
+                                   Nady X, rf            3  0  0  0   
+                                   Bennett G, c          3  1  1  0   
+                                   Eaton A, p            1  0  0  0   
+                                   Lockhart K, ph-2b     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  8 10  8                        31  1  4  1
+
+San Francisco    010 300 031 --  8
+San Diego        000 000 010 --  1
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J (W)         7.2  4  1  1  1  7
+Zerbe C               1.1  0  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Eaton A (L)           6.0  4  4  4  2  3
+Bynum M               1.1  3  3  3  1  2
+Wright J              0.2  2  0  0  0  0
+Villafuerte B         1.0  1  1  1  0  0
+
+LOB -- San Francisco 4, San Diego 4
+2B -- Aurilia R, Alfonzo E, Vazquez R
+HR -- Santiago B, Cruz J, Bonds B, Durham R
+CS -- Grissom M
+T -- 2:29
+A -- 50605
+     Game of 4/2/2003 -- San Francisco at San Diego (N)
+
+  San Francisco      AB  R  H RBI    San Diego          AB  R  H RBI
+Durham R, 2b          4  0  2  0   Loretta M, 2b         3  1  1  0   
+Worrell T, p          0  0  0  0   Orosco J, p           0  0  0  0   
+Cruz J, rf            4  1  1  0   Wright J, p           0  0  0  0   
+Aurilia R, ss         4  1  1  1   Hansen D, ph          1  0  0  0   
+Bonds B, lf           4  0  0  0   Hackman L, p          0  0  0  0   
+Alfonzo E, 3b         1  1  0  0   Kotsay M, cf          3  0  0  0   
+Santiago B, c         2  1  0  0   White R, lf           4  0  0  0   
+Snow J, 1b            3  1  0  1   Klesko R, 1b          4  0  0  0   
+Grissom M, cf         3  0  1  3   Nady X, rf            5  1  2  1   
+Moss D, p             2  0  0  0   Victorino S, pr       0  0  0  0   
+Galarraga A, ph       1  0  0  0   Burroughs S, 3b       3  1  1  0   
+Nathan J, p           0  0  0  0   Gonzalez W, c         3  0  0  0   
+Eyre S, p             0  0  0  0   Vazquez R, ss         2  0  0  0   
+Rodriguez F, p        0  0  0  0   Perez O, p            1  0  0  0   
+Perez N, ph-2b        1  0  0  0   Buchanan B, ph        0  0  0  1   
+                                   Matthews M, p         0  0  0  0   
+                                   Lockhart K, ph-2b     2  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     29  5  5  5                        31  3  6  2
+
+San Francisco    005 000 000 --  5
+San Diego        001 200 000 --  3
+
+  San Francisco        IP  H  R ER BB SO
+Moss D (W)            5.0  2  3  2  6  4
+Nathan J              0.2  1  0  0  1  1
+Eyre S                1.1  1  0  0  1  1
+Rodriguez F           1.0  1  0  0  0  0
+Worrell T (S)         1.0  1  0  0  1  1
+
+  San Diego            IP  H  R ER BB SO
+Perez O (L)           4.0  4  5  5  6  4
+Matthews M            2.0  0  0  0  1  2
+Orosco J              1.0  1  0  0  0  0
+Wright J              1.0  0  0  0  1  1
+Hackman L             1.0  0  0  0  0  0
+
+E -- White R, Alfonzo E
+DP -- San Francisco 1, San Diego 3
+LOB -- San Francisco 5, San Diego 12
+2B -- Aurilia R, Grissom M
+HR -- Nady X
+SB -- Durham R
+SH -- Vazquez R
+SF -- Buchanan B
+WP -- Perez O 2, Moss D 2
+T -- 2:59
+A -- 15899
+     Game of 4/3/2003 -- Los Angeles at San Diego (D)
+
+  Los Angeles        AB  R  H RBI    San Diego          AB  R  H RBI
+Roberts D, cf         4  0  0  0   Loretta M, 2b         5  1  3  3   
+Izturis C, ss         4  0  0  0   Kotsay M, cf          4  0  2  0   
+Green S, rf           4  0  1  0   White R, lf           4  0  1  1   
+McGriff F, 1b         4  0  0  0   Victorino S, lf       1  0  0  0   
+Jordan B, lf          2  1  1  1   Buchanan B, 1b        2  1  0  0   
+Hundley T, c          1  0  0  0   Bynum M, p            1  0  1  0   
+Beltre A, 3b          4  0  0  0   Villafuerte B, p      0  0  0  0   
+Cora A, 2b            4  0  0  0   Nady X, rf            4  1  2  0   
+Quantrill P, p        0  0  0  0   Burroughs S, 3b       4  0  1  1   
+Ishii K, p            1  0  0  0   Merloni L, ss-1b      3  1  0  0   
+Ashby A, p            1  0  0  0   Bennett G, c          4  1  2  1   
+Kinkade M, ph         1  0  0  0   Peavy J, p            2  1  0  0   
+Colyer S, p           0  0  0  0   Vazquez R, ss         1  0  0  0   
+Cabrera J, 2b         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  1  2  1                        35  6 12  6
+
+Los Angeles      010 000 000 --  1
+San Diego        000 501 00x --  6
+
+  Los Angeles          IP  H  R ER BB SO
+Ishii K (L)           3.2  6  5  5  3  2
+Ashby A               1.1  1  0  0  0  1
+Colyer S              2.2  5  1  1  1  0
+Quantrill P           0.1  0  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Peavy J (W)           5.0  1  1  1  5 11
+Bynum M*              2.0  1  0  0  2  3
+Villafuerte B         2.0  0  0  0  0  2
+  * Pitched to 2 batters in 8th
+
+E -- Beltre A, Peavy J, Buchanan B, Vazquez R, Loretta M
+DP -- Los Angeles 2, San Diego 1
+LOB -- Los Angeles 10, San Diego 9
+2B -- Nady X, Kotsay M
+3B -- Loretta M
+HR -- Jordan B
+SB -- Nady X
+T -- 3:08
+A -- 19863
+     Game of 4/4/2003 -- Los Angeles at San Diego (N)
+
+  Los Angeles        AB  R  H RBI    San Diego          AB  R  H RBI
+Roberts D, cf         5  0  1  0   Vazquez R, ss         4  1  1  0   
+Lo Duca P, c          2  0  0  0   Loretta M, 2b         4  0  1  0   
+Green S, rf           4  0  0  0   Kotsay M, cf          4  0  3  1   
+McGriff F, 1b         2  1  1  1   Hansen D, 1b          2  0  0  0   
+Jordan B, lf          4  1  2  0   Hackman L, p          0  0  0  0   
+Beltre A, 3b          4  0  1  0   Villafuerte B, p      0  0  0  0   
+Cora A, 2b            4  0  1  1   Burroughs S, 3b       4  0  0  0   
+Izturis C, ss         4  0  0  0   Nady X, rf            4  1  1  1   
+Dreifort D, p         2  0  1  0   Bennett G, c          4  1  1  0   
+Cabrera J, ph         1  0  0  0   Victorino S, lf       2  0  0  0   
+Mota G, p             0  0  0  0   Condrey C, p          2  1  1  0   
+Quantrill P, p        0  0  0  0   Matthews M, p         1  0  0  0   
+Ward D, ph            1  0  0  0   Merloni L, 1b         0  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        31  4  8  3
+
+Los Angeles      000 100 010 --  2
+San Diego        000 021 01x --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Dreifort D (L)        6.0  5  3  3  3  6
+Mota G                1.0  2  0  0  1  2
+Quantrill P           1.0  1  1  1  0  1
+
+  San Diego            IP  H  R ER BB SO
+Condrey C (W)         5.0  5  1  1  3  2
+Matthews M            2.1  1  1  1  0  0
+Hackman L             0.2  1  0  0  0  0
+Villafuerte B (S)     1.0  0  0  0  0  1
+
+E -- Lo Duca P, Nady X
+LOB -- Los Angeles 8, San Diego 9
+2B -- Kotsay M, Jordan B, Bennett G
+HR -- Nady X, McGriff F
+SB -- Roberts D, Loretta M
+SH -- Lo Duca P, Victorino S, Merloni L
+Balk -- Dreifort D
+PB -- Bennett G, Lo Duca P
+T -- 2:42
+A -- 23820
+     Game of 4/5/2003 -- Los Angeles at San Diego (N)
+
+  Los Angeles        AB  R  H RBI    San Diego          AB  R  H RBI
+Roberts D, cf         4  0  0  0   Vazquez R, ss         2  2  1  0   
+Lo Duca P, c          4  0  1  0   Lockhart K, 2b        4  1  1  0   
+Green S, rf           3  0  1  0   Kotsay M, cf          4  0  0  0   
+McGriff F, 1b         4  0  0  0   Klesko R, 1b          3  0  1  1   
+Jordan B, lf          4  0  1  0   White R, lf           3  0  2  1   
+Beltre A, 3b          3  0  1  0   Victorino S, lf       1  0  0  0   
+Cora A, 2b            2  0  0  0   Burroughs S, 3b       4  0  0  0   
+Izturis C, ss         3  0  0  0   Nady X, rf            4  0  1  0   
+Nomo H, p             2  0  0  0   Bennett G, c          2  0  1  0   
+Cabrera J, ph         1  0  0  0   Lawrence B, p         3  0  0  0   
+Shuey P, p            0  0  0  0   Orosco J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        30  3  7  2
+
+Los Angeles      000 000 000 --  0
+San Diego        002 010 00x --  3
+
+  Los Angeles          IP  H  R ER BB SO
+Nomo H (L)            7.0  7  3  3  4  8
+Shuey P               1.0  0  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (W)        8.0  4  0  0  2  4
+Orosco J (S)          1.0  0  0  0  0  0
+
+E -- White R, Klesko R
+DP -- Los Angeles 1, San Diego 2
+LOB -- Los Angeles 5, San Diego 7
+2B -- Beltre A, Jordan B
+SB -- White R
+CS -- Beltre A
+WP -- Nomo H 2
+T -- 2:26
+A -- 36005
+     Game of 4/6/2003 -- Los Angeles at San Diego (D)
+
+  Los Angeles        AB  R  H RBI    San Diego          AB  R  H RBI
+Roberts D, cf         5  0  0  0   Loretta M, 2b         6  0  1  0   
+Gagne E, p            0  0  0  0   Kotsay M, cf          4  1  1  0   
+Kinkade M, 1b         1  1  1  0   White R, lf           4  0  1  1   
+Izturis C, ss         6  0  1  0   Matthews M, p         0  0  0  0   
+Green S, rf           5  0  0  0   Burroughs S, 3b       2  0  0  0   
+Jordan B, lf          5  1  1  1   Klesko R, 1b          5  0  1  1   
+McGriff F, 1b         3  1  1  0   Nady X, rf            5  1  3  0   
+Romano J, pr-cf       2  0  0  0   Merloni L, 3b         3  0  1  0   
+Beltre A, 3b          5  1  3  1   Villafuerte B, p      0  0  0  0   
+Hundley T, c          3  0  1  2   Lockhart K, ph        0  0  0  0   
+Shuey P, p            0  0  0  0   Orosco J, p           0  0  0  0   
+Quantrill P, p        0  0  0  0   Hackman L, p          0  0  0  0   
+Martin T, p           0  0  0  0   Hansen D, ph          1  0  0  0   
+Cabrera J, ph         1  0  0  0   Wright J, p           0  0  0  0   
+Ward D, 1b            0  0  0  0   Bennett G, c          6  0  0  0   
+Mota G, p             0  0  0  0   Vazquez R, ss         5  0  0  0   
+Cora A, 2b            5  0  0  0   Eaton A, p            1  0  0  0   
+Perez O, p            2  0  0  0   Buchanan B, ph        1  1  1  0   
+Lo Duca P, c          2  0  0  0   Victorino S, lf       3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     45  4  8  4                        46  3  9  2
+
+Los Angeles      030 000 000 000 1 --  4
+San Diego        010 010 100 000 0 --  3
+
+  Los Angeles          IP  H  R ER BB SO
+Perez O               6.1  8  3  2  1  3
+Shuey P               1.2  0  0  0  1  2
+Quantrill P           0.1  0  0  0  0  0
+Martin T              0.2  0  0  0  1  2
+Gagne E               2.0  1  0  0  1  3
+Mota G (W)            2.0  0  0  0  1  2
+
+  San Diego            IP  H  R ER BB SO
+Eaton A               7.0  5  3  3  0  3
+Matthews M            1.2  0  0  0  0  2
+Villafuerte B         1.1  1  0  0  2  0
+Orosco J              0.2  0  0  0  0  1
+Hackman L             1.1  0  0  0  1  1
+Wright J (L)          1.0  2  1  1  1  0
+
+E -- Beltre A, McGriff F, Cora A
+DP -- Los Angeles 1, San Diego 2
+LOB -- Los Angeles 7, San Diego 12
+2B -- Beltre A, Hundley T
+3B -- Kotsay M
+CS -- Nady X
+SH -- Eaton A, Lockhart K
+HBP -- by Perez O (Kotsay M), by Hackman L (Jordan B)
+T -- 3:57
+A -- 34553
+     Game of 4/11/2003 -- Colorado at San Diego (N)
+
+  Colorado           AB  R  H RBI    San Diego          AB  R  H RBI
+Belliard R, 2b        5  1  2  0   Loretta M, 2b         4  0  0  0   
+Payton J, lf          5  0  2  0   Kotsay M, cf          5  1  2  0   
+Helton T, 1b          4  1  1  2   White R, lf           4  1  2  0   
+Walker L, rf          2  1  1  0   Victorino S, pr-lf    0  0  0  0   
+Wilson P, cf          4  1  1  0   Buchanan B, 1b        2  1  1  0   
+Hernandez J, ss       3  0  1  0   Hackman L, p          0  0  0  0   
+Johnson C, c          4  0  0  0   Villafuerte B, p      0  0  0  0   
+Stynes C, 3b          3  0  1  2   Nady X, rf            3  1  1  1   
+Oliver D, p           2  0  0  0   Merloni L, 3b         3  1  1  1   
+Fuentes B, p          0  0  0  0   Bennett G, c          3  0  3  3   
+Richard C, ph         1  0  0  0   Vazquez R, ss         4  0  0  0   
+Miceli D, p           0  0  0  0   Lawrence B, p         3  1  1  1   
+Norton G, ph          1  0  0  0   Herges M, p           0  0  0  0   
+Lopez J, p            0  0  0  0   Orosco J, p           0  0  0  0   
+                                   Hansen D, 1b          1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        32  6 12  6
+
+Colorado         100 100 020 --  4
+San Diego        300 120 00x --  6
+
+  Colorado             IP  H  R ER BB SO
+Oliver D (L)          4.1  9  6  6  4  1
+Fuentes B             1.2  1  0  0  0  2
+Miceli D              1.0  1  0  0  1  1
+Lopez J               1.0  1  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (W)        6.0  5  2  2  3  8
+Herges M              0.2  1  0  0  0  1
+Orosco J*             0.1  1  1  1  0  0
+Hackman L             0.1  1  1  1  2  0
+Villafuerte B (S)     1.2  1  0  0  0  3
+  * Pitched to 1 batter in 8th
+
+DP -- Colorado 1, San Diego 1
+LOB -- Colorado 10, San Diego 8
+2B -- Belliard R, Bennett G 2, Merloni L
+HR -- Helton T, Lawrence B
+CS -- Vazquez R, Victorino S
+SF -- Helton T, Bennett G
+HBP -- by Lawrence B (Walker L)
+WP -- Lawrence B
+T -- 2:48
+A -- 21190
+     Game of 4/12/2003 -- Colorado at San Diego (N)
+
+  Colorado           AB  R  H RBI    San Diego          AB  R  H RBI
+Belliard R, 2b        4  0  0  0   Vazquez R, ss         2  0  1  0   
+Payton J, lf          5  0  1  0   Loretta M, 2b         4  0  1  0   
+Jimenez J, p          0  0  0  0   Kotsay M, cf          3  1  1  0   
+Helton T, 1b          3  0  0  0   Klesko R, 1b          3  0  1  0   
+Walker L, rf          3  0  0  0   White R, lf           4  1  3  0   
+Wilson P, cf          4  1  1  1   Victorino S, pr-lf    0  0  0  0   
+Hernandez J, ss       3  1  2  0   Nady X, rf            4  0  0  0   
+Estalella B, c        3  1  1  0   Burroughs S, 3b       4  0  1  2   
+Stynes C, 3b          4  0  2  1   Bennett G, c          4  0  0  0   
+Jennings J, p         1  0  1  1   Eaton A, p            1  0  0  0   
+Reed S, p             0  0  0  0   Wright J, p           0  0  0  0   
+Norton G, ph          1  0  0  0   Hansen D, ph          1  0  0  0   
+Speier J, p           0  0  0  0   Hackman L, p          0  0  0  0   
+Kapler G, ph-lf       1  0  0  0   Villafuerte B, p      0  0  0  0   
+                                   Herges M, p           0  0  0  0   
+                                   Lockhart K, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  8  3                        31  2  8  2
+
+Colorado         000 010 101 --  3
+San Diego        000 002 000 --  2
+
+  Colorado             IP  H  R ER BB SO
+Jennings J            5.2  5  2  1  4  6
+Reed S                0.1  0  0  0  0  0
+Speier J (W)          2.0  3  0  0  0  0
+Jimenez J (S)         1.0  0  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Eaton A               6.2  6  2  2  2  5
+Wright J              0.1  0  0  0  0  0
+Hackman L             1.0  0  0  0  1  2
+Villafuerte B (L)*    0.0  2  1  1  1  0
+Herges M              1.0  0  0  0  1  1
+  * Pitched to 3 batters in 9th
+
+E -- Hernandez J, Wilson P
+DP -- Colorado 2, San Diego 2
+LOB -- Colorado 8, San Diego 7
+2B -- Hernandez J, Jennings J, Stynes C
+HR -- Wilson P
+CS -- Vazquez R, Victorino S
+SH -- Eaton A
+SF -- Jennings J
+T -- 3:02
+A -- 30830
+     Game of 4/13/2003 -- Colorado at San Diego (D)
+
+  Colorado           AB  R  H RBI    San Diego          AB  R  H RBI
+Belliard R, 2b        4  0  2  1   Vazquez R, ss         4  2  2  1   
+Payton J, lf          3  0  1  0   Lockhart K, 2b        5  1  1  0   
+Helton T, 1b          4  0  0  0   Kotsay M, cf          5  1  2  2   
+Wilson P, cf          4  0  2  0   Klesko R, 1b          3  0  1  0   
+Hernandez J, ss       5  1  1  1   White R, lf           4  1  1  2   
+Kapler G, rf          4  0  0  0   Victorino S, lf       0  0  0  0   
+Johnson C, c          4  0  0  0   Burroughs S, 3b       2  0  0  0   
+Stynes C, 3b          0  1  0  0   Condrey C, p          0  0  0  0   
+Cook A, p             2  0  0  0   Buchanan B, ph        1  0  0  0   
+Lopez J, p            0  0  0  0   Wright J, p           1  0  1  0   
+Jones T, p            0  0  0  0   Matthews M, p         0  0  0  0   
+Richard C, ph         1  0  0  0   Nady X, rf            4  0  1  0   
+Fuentes B, p          0  0  0  0   Gonzalez W, c         4  0  2  0   
+                                   Perez O, p            1  0  0  0   
+                                   Merloni L, 3b         3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        37  6 12  5
+
+Colorado         000 011 000 --  2
+San Diego        000 020 40x --  6
+
+  Colorado             IP  H  R ER BB SO
+Cook A (L)*           6.0 10  4  4  1  2
+Lopez J               0.1  0  1  0  0  1
+Jones T               0.2  2  1  1  0  1
+Fuentes B             1.0  0  0  0  1  0
+
+  San Diego            IP  H  R ER BB SO
+Perez O               4.1  4  1  1  7  5
+Condrey C             1.2  1  1  1  0  2
+Wright J (W)          2.0  0  0  0  1  2
+Matthews M            1.0  1  0  0  0  2
+  * Pitched to 2 batters in 7th
+
+E -- Condrey C, Belliard R
+DP -- San Diego 1
+LOB -- Colorado 12, San Diego 9
+2B -- Belliard R, Klesko R, Lockhart K, Wright J
+3B -- Vazquez R
+HR -- Hernandez J, White R
+SB -- Kotsay M 2
+CS -- Wilson P
+SH -- Cook A
+HBP -- by Condrey C (Stynes C)
+WP -- Perez O
+T -- 3:02
+A -- 20316
+     Game of 4/29/2003 -- Pittsburgh at San Diego (N)
+
+  Pittsburgh         AB  R  H RBI    San Diego          AB  R  H RBI
+Lofton K, cf          5  1  2  0   Vazquez R, ss         5  0  1  0   
+Wilson J, ss          3  2  2  0   Kotsay M, cf          4  0  0  0   
+Kendall J, c          4  1  2  1   Orosco J, p           0  0  0  0   
+Simon R, 1b           4  1  2  2   Hackman L, p          0  0  0  0   
+Young K, 1b           1  0  0  0   Buchanan B, ph        1  0  0  0   
+Ramirez A, 3b         5  1  1  1   Klesko R, 1b          4  0  0  0   
+Stairs M, rf          4  0  1  0   White R, lf           4  0  0  0   
+Reyes D, p            0  0  0  0   Burroughs S, 3b       4  0  2  0   
+Nunez A, ph           1  0  0  0   Nady X, rf            4  0  1  0   
+Boehringer B, p       0  0  0  0   Loretta M, 2b         2  1  1  1   
+Sanders R, lf         5  0  1  0   Rivera M, c           4  0  2  0   
+Reese P, 2b           3  0  1  1   Eaton A, p            1  1  1  1   
+D'Amico J, p          3  0  0  0   Matthews M, p         0  0  0  0   
+Meadows B, p          0  0  0  0   Lockhart K, ph        1  0  0  0   
+Mackowiak R, rf       1  1  1  1   Villafuerte B, p      0  0  0  0   
+                                   Hansen D, ph          1  0  0  0   
+                                   Victorino S, cf       1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  7 13  6                        36  2  9  2
+
+Pittsburgh       301 101 010 --  7
+San Diego        001 000 001 --  2
+
+  Pittsburgh           IP  H  R ER BB SO
+D'Amico J (W)         6.0  5  1  1  1  3
+Meadows B*            0.0  1  0  0  0  0
+Reyes D               2.0  0  0  0  0  2
+Boehringer B          1.0  3  1  1  0  0
+
+  San Diego            IP  H  R ER BB SO
+Eaton A (L)           3.1  8  5  5  1  6
+Matthews M            1.2  1  0  0  1  1
+Villafuerte B         2.0  2  1  1  0  1
+Orosco J              1.0  2  1  1  0  2
+Hackman L             1.0  0  0  0  0  2
+  * Pitched to 1 batter in 7th
+
+E -- Burroughs S, D'Amico J, Rivera M
+LOB -- Pittsburgh 9, San Diego 9
+2B -- Ramirez A, Reese P, Lofton K, Burroughs S
+3B -- Kendall J, Sanders R
+HR -- Eaton A, Mackowiak R, Loretta M
+SB -- Vazquez R, Burroughs S
+SH -- Loretta M, Wilson J
+HBP -- by Eaton A (Kendall J)
+WP -- Eaton A 4, Villafuerte B
+T -- 2:51
+A -- 15556
+     Game of 4/30/2003 -- Pittsburgh at San Diego (N)
+
+  Pittsburgh         AB  R  H RBI    San Diego          AB  R  H RBI
+Reese P, 2b           3  0  0  1   Vazquez R, ss         5  1  1  0   
+Wilson J, ss          5  1  1  1   Loretta M, 2b         3  1  2  0   
+Kendall J, c          3  1  1  0   Hackman L, p          0  0  0  0   
+Ramirez A, 3b         4  2  2  0   Buchanan B, ph        1  0  1  0   
+Sanders R, lf         5  1  3  1   Herges M, p           0  0  0  0   
+Young K, 1b           5  0  0  0   Victorino S, ph       1  0  1  0   
+Wilson C, rf          2  2  1  1   Klesko R, 1b          3  2  1  3   
+Hyzdu A, cf           3  1  1  4   White R, lf           4  0  1  0   
+Mackowiak R, ph-cf    1  0  0  0   Kotsay M, cf          4  1  2  0   
+Benson K, p           3  0  0  0   Burroughs S, 3b       3  0  0  0   
+Stairs M, ph          1  0  0  0   Nady X, rf            4  0  1  1   
+Beimel J, p           0  0  0  0   Rivera M, c           3  0  0  0   
+Tavarez J, p          0  0  0  0   Hansen D, ph          0  0  0  0   
+Sauerbeck S, p        0  0  0  0   Gonzalez W, ph-c      0  0  0  1   
+Boehringer B, p       0  0  0  0   Perez O, p            1  0  0  0   
+Reyes D, p            0  0  0  0   Villafuerte B, p      0  0  0  0   
+Williams M, p         0  0  0  0   Lockhart K, ph-2b     1  0  0  0   
+                                   Merloni L, ph-2b      2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  8  9  8                        35  5 10  5
+
+Pittsburgh       115 000 001 --  8
+San Diego        003 001 010 --  5
+
+  Pittsburgh           IP  H  R ER BB SO
+Benson K (W)          6.0  8  4  4  1  4
+Beimel J              0.2  1  0  0  1  1
+Tavarez J             0.1  0  0  0  0  1
+Sauerbeck S*          0.0  0  1  1  2  0
+Boehringer B          0.1  0  0  0  0  0
+Reyes D               0.2  0  0  0  0  1
+Williams M (S)        1.0  1  0  0  1  0
+
+  San Diego            IP  H  R ER BB SO
+Perez O (L)+          3.0  7  7  7  4  1
+Villafuerte B         2.0  1  0  0  1  3
+Hackman L             2.0  0  0  0  0  0
+Herges M              2.0  1  1  0  0  2
+  * Pitched to 2 batters in 8th
+  + Pitched to 1 batter in 4th
+
+E -- Nady X, Vazquez R
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 9, San Diego 9
+2B -- Kendall J, Ramirez A
+HR -- Wilson J, Hyzdu A, Klesko R
+SH -- Reese P
+SF -- Gonzalez W, Wilson C
+HBP -- by Perez O (Ramirez A), by Hackman L (Kendall J)
+WP -- Perez O, Reyes D 2
+T -- 3:08
+A -- 13845
+     Game of 5/1/2003 -- Pittsburgh at San Diego (N)
+
+  Pittsburgh         AB  R  H RBI    San Diego          AB  R  H RBI
+Lofton K, cf          3  2  1  0   Vazquez R, ss         3  1  1  0   
+Wilson J, ss          5  1  1  3   Lockhart K, 2b        3  0  0  0   
+Kendall J, c          5  0  1  1   Buchanan B, ph        1  0  0  0   
+Simon R, 1b           4  0  1  0   Wright J, p           0  0  0  0   
+Young K, 1b           0  0  0  0   Klesko R, 1b          2  0  1  1   
+Ramirez A, 3b         5  0  2  0   White R, lf           3  0  0  0   
+Stairs M, rf          3  0  0  0   Kotsay M, cf          4  0  1  0   
+Hyzdu A, ph-rf        1  0  0  0   Burroughs S, 3b       3  0  0  0   
+Mackowiak R, lf       3  1  1  0   Gonzalez W, c         4  0  0  0   
+Nunez A, 2b           3  1  1  1   Victorino S, rf       2  0  0  0   
+Williams M, p         0  0  0  0   Peavy J, p            2  0  0  0   
+Wells K, p            3  0  1  0   Orosco J, p           0  0  0  0   
+Sauerbeck S, p        0  0  0  0   Loretta M, ph-2b      1  1  1  1   
+Tavarez J, p          0  0  0  0                                      
+Reese P, ph-2b        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5  9  5                        28  2  4  2
+
+Pittsburgh       040 000 001 --  5
+San Diego        100 000 010 --  2
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (W)*          7.0  4  2  2  5  8
+Sauerbeck S           0.2  0  0  0  1  1
+Tavarez J             0.1  0  0  0  0  0
+Williams M (S)        1.0  0  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Peavy J (L)           7.0  7  4  4  1  9
+Orosco J              1.0  1  0  0  0  0
+Wright J              1.0  1  1  1  3  1
+  * Pitched to 1 batter in 8th
+
+DP -- Pittsburgh 2
+LOB -- Pittsburgh 9, San Diego 5
+2B -- Vazquez R, Mackowiak R, Ramirez A, Wells K
+HR -- Wilson J, Loretta M
+SB -- Vazquez R, Nunez A 2, Lofton K, Kendall J
+HBP -- by Peavy J (Mackowiak R)
+WP -- Wright J
+T -- 2:50
+A -- 13420
+     Game of 5/2/2003 -- Philadelphia at San Diego (N)
+
+  Philadelphia       AB  R  H RBI    San Diego          AB  R  H RBI
+Rollins J, ss         5  0  0  0   Vazquez R, ss         5  1  2  1   
+Polanco P, 2b         5  1  2  0   Loretta M, 2b         5  0  1  0   
+Abreu B, rf           4  1  2  1   Klesko R, 1b          3  2  2  1   
+Lieberthal M, c       5  1  1  0   White R, lf           4  0  0  0   
+Thome J, 1b           4  0  1  2   Kotsay M, cf          4  1  0  0   
+Bell D, 3b            4  0  0  0   Nady X, rf            5  1  3  0   
+Burrell P, lf         3  1  1  1   Burroughs S, 3b       4  0  2  2   
+Ledee R, cf           4  0  0  0   Gonzalez W, c         4  0  1  1   
+Millwood K, p         1  0  0  0   Condrey C, p          2  0  0  0   
+Houston T, ph         1  0  0  0   Hansen D, ph          1  0  0  0   
+Cormier R, p          0  0  0  0   Villafuerte B, p      0  0  0  0   
+Michaels J, ph        0  0  0  0   Orosco J, p           0  0  0  0   
+Silva C, p            0  0  0  0   Herges M, p           0  0  0  0   
+Mesa J, p             0  0  0  0   Lockhart K, ph        1  0  0  0   
+                                   Matthews M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4  7  4                        38  5 11  5
+
+Philadelphia     001 002 000 1 --  4
+San Diego        010 020 000 2 --  5
+  1 out when winning run was scored.
+
+  Philadelphia         IP  H  R ER BB SO
+Millwood K            6.0  8  3  3  2  7
+Cormier R             2.0  0  0  0  2  2
+Silva C               1.0  0  0  0  0  0
+Mesa J (L)            0.1  3  2  2  1  1
+
+  San Diego            IP  H  R ER BB SO
+Condrey C             6.0  3  3  3  3  4
+Villafuerte B         1.1  1  0  0  0  2
+Orosco J*             0.0  1  0  0  0  0
+Herges M              1.2  0  0  0  2  4
+Matthews M (W)        1.0  2  1  1  0  1
+  * Pitched to 1 batter in 8th
+
+DP -- Philadelphia 1, San Diego 1
+LOB -- Philadelphia 7, San Diego 10
+2B -- Nady X, Thome J, Polanco P
+HR -- Burrell P, Vazquez R, Klesko R
+SB -- Vazquez R 2
+PB -- Gonzalez W
+T -- 3:08
+A -- 20595
+     Game of 5/3/2003 -- Philadelphia at San Diego (N)
+
+  Philadelphia       AB  R  H RBI    San Diego          AB  R  H RBI
+Rollins J, ss         4  1  2  1   Vazquez R, ss         5  0  3  2   
+Polanco P, 2b         4  1  1  0   Loretta M, 2b         4  0  1  0   
+Silva C, p            0  0  0  0   Matthews M, p         0  0  0  0   
+Mesa J, p             0  0  0  0   Wright J, p           0  0  0  0   
+Abreu B, rf           3  2  0  0   Orosco J, p           0  0  0  0   
+Lieberthal M, c       5  0  2  2   Herges M, p           0  0  0  0   
+Thome J, 1b           3  0  0  0   Klesko R, 1b          4  0  1  0   
+Bell D, 3b            4  0  1  1   Kotsay M, cf          4  0  1  0   
+Burrell P, lf         5  0  0  0   Nady X, rf            4  1  1  0   
+Ledee R, cf           3  1  1  0   Burroughs S, 3b       5  1  1  0   
+Michaels J, ph-cf     0  0  0  0   Rivera M, c           3  0  0  0   
+Myers B, p            1  0  0  0   Lockhart K, ph-2b     2  0  0  0   
+Houston T, ph         1  0  1  0   Victorino S, lf       3  1  1  1   
+Plesac D, p           0  0  0  0   Buchanan B, ph        1  0  0  0   
+Adams T, p            0  0  0  0   Lawrence B, p         2  1  1  0   
+Wendell T, p          0  0  0  0   Hansen D, ph          1  0  0  0   
+Perez T, ph-2b        0  0  0  0   Hackman L, p          0  0  0  0   
+                                   White R, ph           1  0  0  1   
+                                   Gonzalez W, c         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  8  4                        39  4 10  4
+
+Philadelphia     000 110 020 1 --  5
+San Diego        010 000 030 0 --  4
+
+  Philadelphia         IP  H  R ER BB SO
+Myers B               6.0  5  1  1  5  3
+Plesac D              1.0  1  0  0  0  0
+Adams T               0.1  3  3  2  0  0
+Wendell T             0.2  1  0  0  0  0
+Silva C (W)           1.0  0  0  0  0  1
+Mesa J (S)            1.0  0  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B            6.0  4  2  1  1  0
+Hackman L             2.0  3  2  2  3  1
+Matthews M            0.2  0  0  0  1  0
+Wright J (L)*         0.1  1  1  1  1  0
+Orosco J              0.1  0  0  0  0  0
+Herges M              0.2  0  0  0  0  1
+  * Pitched to 2 batters in 10th
+
+E -- Vazquez R, Nady X, Kotsay M, Bell D
+DP -- Philadelphia 1, San Diego 2
+LOB -- Philadelphia 8, San Diego 10
+2B -- Vazquez R, Klesko R, Lieberthal M, Victorino S
+SB -- Vazquez R, Victorino S
+CS -- White R
+SH -- Myers B, Polanco P, Perez T
+SF -- Bell D
+WP -- Hackman L 2
+T -- 3:14
+A -- 29725
+     Game of 5/4/2003 -- Philadelphia at San Diego (D)
+
+  Philadelphia       AB  R  H RBI    San Diego          AB  R  H RBI
+Rollins J, ss         3  1  0  0   Vazquez R, ss         4  0  0  0   
+Polanco P, 2b         4  1  1  1   Loretta M, 2b         3  0  1  0   
+Abreu B, rf           4  0  1  1   White R, lf           4  0  1  0   
+Thome J, 1b           4  0  1  1   Buchanan B, 1b-rf     4  1  1  0   
+Bell D, 3b            3  0  0  0   Kotsay M, cf          3  0  0  0   
+Ledee R, lf           3  0  0  0   Nady X, rf            2  0  0  0   
+Pratt T, c            4  0  0  0   Klesko R, ph-1b       1  0  0  0   
+Byrd M, cf            3  0  1  0   Gonzalez W, c         2  0  0  0   
+Wolf R, p             2  1  1  0   Hansen D, ph          0  0  0  0   
+Adams T, p            0  0  0  0   Rivera M, ph-c        1  0  0  0   
+Cormier R, p          0  0  0  0   Merloni L, 3b         2  0  0  0   
+Silva C, p            0  0  0  0   Eaton A, p            1  0  0  0   
+Mesa J, p             0  0  0  0   Bynum M, p            0  0  0  0   
+                                   Burroughs S, ph       1  0  0  0   
+                                   Villafuerte B, p      0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  3  5  3                        28  1  3  0
+
+Philadelphia     100 020 000 --  3
+San Diego        000 000 100 --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Wolf R (W)*           6.0  2  1  1  3  6
+Adams T+              0.0  0  0  0  1  0
+Cormier R             1.2  0  0  0  0  1
+Silva C               0.1  1  0  0  0  0
+Mesa J (S)            1.0  0  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Eaton A (L)           5.0  5  3  3  2  6
+Bynum M               3.0  0  0  0  2  2
+Villafuerte B         1.0  0  0  0  0  2
+  * Pitched to 2 batters in 7th
+  + Pitched to 1 batter in 7th
+
+DP -- Philadelphia 1, San Diego 2
+LOB -- Philadelphia 4, San Diego 5
+2B -- Wolf R, Polanco P
+SH -- Eaton A
+PB -- Pratt T
+T -- 2:43
+A -- 21526
+     Game of 5/12/2003 -- Florida at San Diego (N)
+
+  Florida            AB  R  H RBI    San Diego          AB  R  H RBI
+Pierre J, cf          5  0  0  0   Loretta M, 2b         5  0  3  0   
+Castillo L, 2b        5  2  3  0   Kotsay M, cf          3  0  0  0   
+Lowell M, 3b          4  0  0  0   White R, lf           5  0  4  0   
+Lee D, 1b             5  0  1  0   Buchanan B, 1b        3  0  1  0   
+Rodriguez I, c        5  2  1  2   Klesko R, ph-1b       2  0  0  0   
+Encarnacion J, rf     3  1  1  1   Nady X, rf            4  0  0  0   
+Hollandsworth T, lf   4  1  3  2   Merloni L, ss         4  1  1  0   
+Gonzalez A, ss        3  0  0  0   Gonzalez W, c         4  0  1  0   
+Phelps T, p           0  0  0  0   Burroughs S, 3b       2  0  2  1   
+Castro R, ph          1  0  1  1   Condrey C, p          2  0  0  0   
+Levrault A, p         0  0  0  0   Hansen D, ph          1  0  0  0   
+Mordecai M, ph        1  0  0  0   Hackman L, p          0  0  0  0   
+Neal B, p             0  0  0  0   Herges M, p           0  0  0  0   
+Banks B, ph           1  0  0  0   Lockhart K, ph        1  0  0  0   
+Spooneybarger T, p    0  0  0  0   Wright J, p           0  0  0  0   
+Almanza A, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6 10  6                        36  1 12  1
+
+Florida          000 420 000 --  6
+San Diego        000 001 000 --  1
+
+  Florida              IP  H  R ER BB SO
+Phelps T              3.0  5  0  0  0  3
+Levrault A (W)        2.0  2  0  0  1  1
+Neal B                2.0  3  1  1  1  0
+Spooneybarger T       1.0  1  0  0  0  0
+Almanza A             1.0  1  0  0  0  2
+
+  San Diego            IP  H  R ER BB SO
+Condrey C (L)         6.0  7  6  6  3  3
+Hackman L             1.0  1  0  0  0  0
+Herges M              1.0  1  0  0  1  1
+Wright J              1.0  1  0  0  0  1
+
+E -- Pierre J
+DP -- Florida 1
+LOB -- Florida 8, San Diego 12
+2B -- Hollandsworth T 2, Loretta M
+HR -- Rodriguez I
+SB -- Castillo L
+CS -- Kotsay M
+SF -- Burroughs S
+HBP -- by Phelps T (Burroughs S)
+T -- 2:58
+A -- 15869
+     Game of 5/13/2003 -- Florida at San Diego (N)
+
+  Florida            AB  R  H RBI    San Diego          AB  R  H RBI
+Pierre J, cf          5  0  0  0   Vazquez R, ss         4  1  1  1   
+Castillo L, 2b        3  1  1  0   Loretta M, 2b         4  1  2  3   
+Lowell M, 3b          5  2  2  3   Kotsay M, cf          4  0  0  0   
+Lee D, 1b             4  1  2  1   Klesko R, 1b          4  0  0  0   
+Rodriguez I, c        4  0  1  0   Burroughs S, 3b       4  0  1  0   
+Encarnacion J, rf     4  0  1  0   Nady X, rf            4  1  2  0   
+Hollandsworth T, lf   4  1  2  0   Herges M, p           0  0  0  0   
+Gonzalez A, ss        3  0  0  1   Rivera M, c           3  0  1  0   
+Penny B, p            2  0  0  0   Lockhart K, ph        0  1  0  0   
+Fox A, ph             1  0  0  0   Victorino S, lf-rf    3  1  1  0   
+Spooneybarger T, p    0  0  0  0   Lawrence B, p         2  1  1  2   
+Almanza A, p          0  0  0  0   Matthews M, p         0  0  0  0   
+Castro R, ph          0  0  0  0   Wright J, p           0  0  0  0   
+Looper B, p           0  0  0  0   Hansen D, ph          0  0  0  0   
+                                   Buchanan B, ph        1  0  0  0   
+                                   Orosco J, p           0  0  0  0   
+                                   Villafuerte B, p      0  0  0  0   
+                                   White R, lf           1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  5                        34  6 10  6
+
+Florida          210 000 020 0 --  5
+San Diego        140 000 000 1 --  6
+  1 out when winning run was scored.
+
+  Florida              IP  H  R ER BB SO
+Penny B               6.0  7  5  5  2  2
+Spooneybarger T       0.1  1  0  0  0  0
+Almanza A             1.2  0  0  0  0  1
+Looper B (L)          1.1  2  1  1  1  1
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B*           6.0  7  3  3  1  2
+Matthews M            0.1  0  0  0  0  0
+Wright J              0.2  0  0  0  0  0
+Orosco J              0.1  0  1  1  1  0
+Villafuerte B+        1.2  2  1  1  2  1
+Herges M (W)          1.0  0  0  0  2  1
+  * Pitched to 2 batters in 7th
+  + Pitched to 1 batter in 10th
+
+E -- Rivera M
+DP -- Florida 3, San Diego 1
+LOB -- Florida 8, San Diego 3
+2B -- Hollandsworth T 2, Nady X, Lawrence B, Loretta M
+HR -- Lowell M 2, Lee D, Loretta M
+SB -- Castillo L
+SH -- Hollandsworth T
+SF -- Gonzalez A
+WP -- Penny B, Herges M
+PB -- Rivera M
+T -- 3:05
+A -- 13203
+     Game of 5/14/2003 -- Florida at San Diego (N)
+
+  Florida            AB  R  H RBI    San Diego          AB  R  H RBI
+Pierre J, cf          6  2  3  1   Victorino S, cf       5  1  1  0   
+Gonzalez A, ss        6  1  2  1   Loretta M, 2b         2  1  0  0   
+Borland T, p          0  0  0  0   Lockhart K, 2b        0  0  0  0   
+Lowell M, 3b          4  1  1  3   White R, lf           4  1  2  0   
+Lee D, 1b             5  1  1  1   Gonzalez W, c         0  0  0  0   
+Rodriguez I, c        2  1  0  0   Buchanan B, 1b-lf     3  0  2  3   
+Redmond M, ph-c       1  0  1  0   Nady X, rf            3  0  0  0   
+Encarnacion J, rf     4  2  4  0   Merloni L, 3b         3  0  0  0   
+Banks B, lf           5  2  3  4   Matthews M, p         0  0  0  0   
+Mordecai M, 2b        4  0  1  0   Burroughs S, ph       1  0  1  0   
+Willis D, p           2  0  0  0   Rivera M, c-1b        3  0  0  0   
+Spooneybarger T, p    1  0  0  0   Vazquez R, ss         4  0  0  0   
+Alvarez J, p          0  0  0  0   Bynum M, p            2  0  1  0   
+Fox A, ph-ss          1  0  1  0   Villafuerte B, p      0  0  0  0   
+                                   Hansen D, 3b          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41 10 17 10                        31  3  7  3
+
+Florida          000 340 300 -- 10
+San Diego        201 000 000 --  3
+
+  Florida              IP  H  R ER BB SO
+Willis D (W)          5.0  5  3  3  4  7
+Spooneybarger T       2.0  0  0  0  0  1
+Alvarez J             1.0  1  0  0  1  0
+Borland T             1.0  1  0  0  1  0
+
+  San Diego            IP  H  R ER BB SO
+Bynum M (L)*          4.0  8  7  7  3  6
+Villafuerte B+        2.0  4  2  2  3  1
+Matthews M            3.0  5  1  1  0  2
+  * Pitched to 4 batters in 5th
+  + Pitched to 3 batters in 7th
+
+DP -- Florida 3, San Diego 1
+LOB -- Florida 10, San Diego 7
+2B -- Buchanan B 2, Redmond M
+3B -- White R, Banks B, Gonzalez A
+HR -- Banks B, Lowell M, Lee D
+SB -- Buchanan B, Rodriguez I, Encarnacion J
+CS -- Pierre J, Buchanan B
+WP -- Willis D
+T -- 2:54
+A -- 10935
+     Game of 5/15/2003 -- Atlanta at San Diego (D)
+
+  Atlanta            AB  R  H RBI    San Diego          AB  R  H RBI
+Furcal R, ss          3  3  2  1   Victorino S, cf       4  2  0  0   
+Giles M, 2b           6  3  4  3   Loretta M, 2b         5  0  1  0   
+Sheffield G, rf       5  0  2  2   Rivera M, c           0  0  0  0   
+Bong J, p             0  0  0  0   White R, lf           3  1  1  1   
+Hodges T, p           0  0  0  0   Hansen D, 1b          1  0  0  0   
+Fick R, ph            1  0  0  0   Klesko R, 1b          2  0  0  0   
+Dawley J, p           0  0  0  0   Nady X, pr-rf         2  2  2  0   
+Jones C, lf           1  2  1  0   Buchanan B, rf-1b-lf  4  0  1  0   
+Jones A, cf           6  2  1  3   Burroughs S, 3b       5  1  2  3   
+Franco J, 1b          4  2  1  2   Gonzalez W, c-p       3  0  1  0   
+Lopez J, c            4  1  1  0   Vazquez R, ss         2  0  0  1   
+De Rosa M, 3b         4  1  1  2   Orosco J, p           0  0  0  0   
+Ramirez H, p          3  1  1  1   Lockhart K, 2b        0  0  0  0   
+Gryboski K, p         0  0  0  0   Deago R, p            2  0  0  0   
+Franco M, ph          1  0  0  0   Wright J, p           1  0  0  0   
+Bragg D, rf           1  0  0  0   Merloni L, ph-ss      1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 15 14 14                        35  6  8  5
+
+Atlanta          002 080 230 -- 15
+San Diego        210 020 100 --  6
+
+  Atlanta              IP  H  R ER BB SO
+Ramirez H (W)         5.0  5  5  3  4  3
+Gryboski K            1.0  0  0  0  0  2
+Bong J                1.0  2  1  1  1  1
+Hodges T              1.0  0  0  0  0  1
+Dawley J              1.0  1  0  0  0  1
+
+  San Diego            IP  H  R ER BB SO
+Deago R (L)           4.1  6  7  7  5  6
+Wright J              2.2  5  5  5  1  2
+Orosco J              1.0  3  3  3  1  1
+Gonzalez W            1.0  0  0  0  1  0
+
+E -- Giles M, Furcal R
+LOB -- Atlanta 8, San Diego 10
+2B -- Giles M 2, Gonzalez W, Lopez J, Nady X
+3B -- Franco J, Furcal R
+HR -- Burroughs S, Giles M, Jones A
+SB -- Victorino S 2
+SF -- White R, Furcal R, Vazquez R, De Rosa M
+HBP -- by Ramirez H (Klesko R), by Wright J (Jones C)
+WP -- Deago R 2, Ramirez H
+PB -- Lopez J
+T -- 3:10
+A -- 15818
+     Game of 5/16/2003 -- Atlanta at San Diego (N)
+
+  Atlanta            AB  R  H RBI    San Diego          AB  R  H RBI
+Furcal R, ss          5  2  3  1   Loretta M, 2b         4  1  1  0   
+Giles M, 2b           3  1  1  1   Kotsay M, cf          3  1  1  0   
+Sheffield G, rf       3  0  1  1   White R, lf           4  0  2  1   
+Jones C, lf           4  0  1  0   Buchanan B, 1b        4  0  0  0   
+Jones A, cf           4  1  1  0   Nady X, rf            4  1  3  1   
+Fick R, 1b            4  0  1  1   Burroughs S, 3b       4  1  1  2   
+Bragg D, pr           0  1  0  0   Merloni L, ss         3  0  1  0   
+Hernandez R, p        0  0  0  0   Nagy C, p             0  0  0  0   
+Smoltz J, p           0  0  0  0   Lockhart K, ph        1  0  0  0   
+Lopez J, c            4  1  2  1   Herges M, p           0  0  0  0   
+Castilla V, 3b        4  0  1  0   Rivera M, c           3  0  0  0   
+Hampton M, p          3  0  0  0   Hansen D, ph          1  0  0  0   
+Gryboski K, p         0  0  0  0   Peavy J, p            2  0  0  0   
+Franco J, ph-1b       1  0  0  0   Vazquez R, ph-ss      2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6 11  5                        35  4  9  4
+
+Atlanta          111 010 020 --  6
+San Diego        004 000 000 --  4
+
+  Atlanta              IP  H  R ER BB SO
+Hampton M             6.0  8  4  4  2  6
+Gryboski K (W)        1.0  1  0  0  0  1
+Hernandez R           1.0  0  0  0  0  0
+Smoltz J (S)          1.0  0  0  0  0  2
+
+  San Diego            IP  H  R ER BB SO
+Peavy J               6.0  7  4  4  2  5
+Nagy C (L)            2.0  4  2  1  1  1
+Herges M              1.0  0  0  0  0  1
+
+E -- Furcal R, Peavy J, Burroughs S 2
+DP -- Atlanta 1, San Diego 3
+LOB -- Atlanta 7, San Diego 6
+2B -- Giles M, Jones C, Nady X, Fick R
+3B -- Furcal R
+HR -- Lopez J, Burroughs S, Furcal R
+CS -- White R
+SF -- Sheffield G, Giles M
+WP -- Peavy J
+T -- 2:53
+A -- 24229
+     Game of 5/17/2003 -- Atlanta at San Diego (N)
+
+  Atlanta            AB  R  H RBI    San Diego          AB  R  H RBI
+Furcal R, ss          6  3  2  1   Vazquez R, ss         4  0  1  0   
+Holmes D, p           0  0  0  0   Loretta M, 2b         4  0  1  0   
+Giles M, 2b           4  2  2  0   Kotsay M, cf          3  0  0  0   
+Sheffield G, rf       4  2  3  5   Victorino S, ph-cf    1  0  0  0   
+King R, p             0  0  0  0   Klesko R, 1b          2  1  2  0   
+De Rosa M, ph-ss      1  0  0  0   Buchanan B, 1b        1  0  1  0   
+Jones C, lf           4  1  2  1   White R, lf           3  0  0  0   
+Jones A, cf           3  0  0  0   Merloni L, lf         1  0  0  0   
+Fick R, 1b            4  0  2  2   Nady X, rf            3  1  1  2   
+Franco J, ph-1b       1  0  0  0   Burroughs S, 3b       4  0  0  0   
+Lopez J, c            5  1  2  0   Rivera M, c           3  0  1  0   
+Castilla V, 3b        5  2  3  3   Ojeda M, c            0  0  0  0   
+Reynolds S, p         3  0  0  0   Loewer C, p           2  0  0  0   
+Franco M, ph          1  1  0  0   Matthews M, p         0  0  0  0   
+Bragg D, rf           1  0  0  0   Hansen D, ph          1  0  0  0   
+                                   Hackman L, p          0  0  0  0   
+                                   Bynum M, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42 12 16 12                        32  2  7  2
+
+Atlanta          001 030 062 -- 12
+San Diego        020 000 000 --  2
+
+  Atlanta              IP  H  R ER BB SO
+Reynolds S (W)        7.0  5  2  2  2  5
+King R                1.0  1  0  0  0  0
+Holmes D              1.0  1  0  0  0  1
+
+  San Diego            IP  H  R ER BB SO
+Loewer C (L)          6.2 10  4  3  3  4
+Matthews M            0.1  0  0  0  0  0
+Hackman L*            0.0  3  5  4  0  0
+Bynum M               2.0  3  3  3  0  1
+  * Pitched to 5 batters in 8th
+
+E -- Loewer C, Vazquez R
+DP -- Atlanta 2, San Diego 1
+LOB -- Atlanta 9, San Diego 5
+2B -- Loretta M, Sheffield G, Buchanan B
+3B -- Lopez J
+HR -- Nady X, Castilla V 2, Sheffield G, Furcal R
+SB -- Furcal R
+CS -- Sheffield G
+SF -- Sheffield G
+HBP -- by Hackman L (Giles M), by Bynum M (Giles M)
+PB -- Rivera M
+T -- 2:45
+A -- 28551
+     Game of 5/18/2003 -- Atlanta at San Diego (D)
+
+  Atlanta            AB  R  H RBI    San Diego          AB  R  H RBI
+Furcal R, ss          4  1  1  0   Vazquez R, ss         4  0  0  0   
+Giles M, 2b           4  0  1  3   Lockhart K, 2b        4  1  2  1   
+Sheffield G, rf       5  0  2  0   Kotsay M, cf          3  0  0  0   
+Smoltz J, p           0  0  0  0   Klesko R, 1b          4  1  1  0   
+Jones C, lf           5  1  2  1   Burroughs S, 3b       4  1  3  1   
+Jones A, cf           5  0  1  0   Nady X, rf            4  0  1  0   
+Fick R, 1b            4  1  1  0   Buchanan B, lf        4  0  1  0   
+Lopez J, c            4  1  1  0   Ojeda M, c            4  0  1  0   
+Castilla V, 3b        4  2  3  2   Lawrence B, p         2  0  0  0   
+Ortiz R, p            2  0  0  0   Hansen D, ph          1  0  0  0   
+Franco M, ph          1  0  1  0   Wright J, p           0  0  0  0   
+Hernandez R, p        0  0  0  0   Herges M, p           0  0  0  0   
+Bragg D, rf           0  0  0  0   Loretta M, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 13  6                        35  3  9  2
+
+Atlanta          002 012 100 --  6
+San Diego        010 001 010 --  3
+
+  Atlanta              IP  H  R ER BB SO
+Ortiz R (W)           7.0  7  2  2  0  7
+Hernandez R           1.0  1  1  1  1  1
+Smoltz J (S)          1.0  1  0  0  0  1
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (L)        7.0 11  6  6  1  2
+Wright J              1.0  2  0  0  0  2
+Herges M              1.0  0  0  0  0  1
+
+DP -- Atlanta 1
+LOB -- Atlanta 8, San Diego 6
+2B -- Klesko R, Burroughs S, Buchanan B
+3B -- Furcal R
+HR -- Castilla V, Jones C, Lockhart K
+SH -- Ortiz R
+SF -- Giles M
+WP -- Wright J
+T -- 2:39
+A -- 23776
+     Game of 5/27/2003 -- Milwaukee at San Diego (N)
+
+  Milwaukee          AB  R  H RBI    San Diego          AB  R  H RBI
+Young E, 2b           3  0  0  0   Vazquez R, ss         3  0  1  0   
+Podsednik S, cf       3  0  1  0   Loretta M, 2b         4  0  3  2   
+Sexson R, 1b          4  1  1  0   Klesko R, 1b          4  0  0  0   
+Jenkins G, lf         4  1  1  0   White R, lf           4  0  1  0   
+Vander Wal J, rf      2  1  1  0   Nady X, rf            4  0  0  0   
+DeJean M, p           0  0  0  0   Bennett G, c          3  0  0  0   
+Helms W, 3b           4  0  0  0   Hansen D, ph          1  0  0  0   
+Osik K, c             3  0  0  0   Matthews G, cf        3  0  0  0   
+Clark B, ph-rf        1  1  1  2   Merloni L, 3b         3  1  1  0   
+Clayton R, ss         0  0  0  0   Peavy J, p            2  1  0  0   
+Cruz E, pr-ss         2  0  0  0   Matthews M, p         0  0  0  0   
+Ginter K, ph-ss       1  0  1  2   Herges M, p           0  0  0  0   
+Franklin W, p         1  0  0  0                                      
+Kieschnick B, ph      1  0  1  0                                      
+Vizcaino L, p         0  0  0  0                                      
+Perez E, ph-c         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  4  7  4                        31  2  6  2
+
+Milwaukee        000 000 004 --  4
+San Diego        002 000 000 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Franklin W            7.0  5  2  2  0  5
+Vizcaino L (W)        1.0  0  0  0  0  0
+DeJean M (S)          1.0  1  0  0  0  1
+
+  San Diego            IP  H  R ER BB SO
+Peavy J               8.1  5  2  2  2  5
+Matthews M (L)*       0.0  0  1  1  1  0
+Herges M              0.2  2  1  1  0  1
+  * Pitched to 1 batter in 9th
+
+DP -- Milwaukee 1, San Diego 2
+LOB -- Milwaukee 5, San Diego 4
+2B -- Loretta M
+SB -- Loretta M
+SH -- Franklin W, Podsednik S, Vazquez R
+HBP -- by Peavy J (Clayton R), by Franklin W (Peavy J)
+Balk -- Franklin W
+T -- 2:37
+A -- 13404
+     Game of 5/28/2003 -- Milwaukee at San Diego (N)
+
+  Milwaukee          AB  R  H RBI    San Diego          AB  R  H RBI
+Young E, 2b           5  0  1  0   Vazquez R, ss         4  2  3  0   
+Podsednik S, cf       5  1  2  0   Loretta M, 2b         4  0  1  0   
+Sexson R, 1b          5  1  1  1   White R, lf           4  2  1  0   
+Jenkins G, lf         3  1  1  0   Buchanan B, 1b        5  3  4  4   
+Vander Wal J, rf      2  1  1  0   Nady X, rf            4  0  1  0   
+Clark B, rf           2  0  1  0   Bennett G, c          4  1  2  3   
+Helms W, 3b           4  1  1  0   Matthews G, cf        4  0  2  0   
+Perez E, c            4  1  2  4   Merloni L, 3b         3  0  0  0   
+Ginter K, ss          4  0  2  1   Loewer C, p           0  0  0  0   
+Rusch G, p            2  0  0  0   Nagy C, p             2  0  0  0   
+Kieschnick B, ph-p    1  0  0  0   Hansen D, ph          1  0  0  0   
+Durocher J, p         0  0  0  0   Hackman L, p          0  0  0  0   
+Clayton R, ph         1  0  0  0   Eaton A, ph           0  0  0  0   
+De Los Santos V, p    0  0  0  0   Matthews M, p         0  0  0  0   
+Vizcaino L, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  6 12  6                        35  8 14  7
+
+Milwaukee        500 000 010 --  6
+San Diego        103 010 102 --  8
+  1 out when winning run was scored.
+
+  Milwaukee            IP  H  R ER BB SO
+Rusch G               5.0  8  5  5  3  3
+Kieschnick B          1.0  2  0  0  0  0
+Durocher J            1.0  2  1  1  0  1
+De Los Santos V       1.0  0  0  0  2  0
+Vizcaino L (L)        0.1  2  2  2  0  0
+
+  San Diego            IP  H  R ER BB SO
+Loewer C*             1.0  8  5  5  0  0
+Nagy C                5.0  1  0  0  1  3
+Hackman L             2.0  3  1  1  0  2
+Matthews M (W)        1.0  0  0  0  0  0
+  * Pitched to 2 batters in 2nd
+
+E -- Young E
+DP -- San Diego 1
+LOB -- Milwaukee 6, San Diego 9
+2B -- Podsednik S, Buchanan B, Bennett G
+HR -- Perez E, Buchanan B, Bennett G
+SB -- Young E, Clark B, Buchanan B
+CS -- Merloni L
+SH -- Eaton A, Nady X
+T -- 3:08
+A -- 12373
+     Game of 5/29/2003 -- Milwaukee at San Diego (D)
+
+  Milwaukee          AB  R  H RBI    San Diego          AB  R  H RBI
+Young E, 2b           5  0  0  0   Vazquez R, ss         5  1  2  0   
+Podsednik S, cf       4  1  3  0   Loretta M, 2b         3  0  0  0   
+Sexson R, 1b          4  0  1  0   Burroughs S, 3b       5  0  0  0   
+Jenkins G, lf         3  0  0  0   Klesko R, 1b          1  0  0  0   
+Clark B, rf           4  1  1  1   Buchanan B, rf        3  0  0  1   
+Helms W, 3b           3  1  1  1   Matthews G, cf        2  1  0  0   
+Perez E, c            4  0  1  1   Bennett G, c          4  0  1  0   
+Clayton R, ss         3  0  0  0   Clark J, lf           2  0  0  1   
+Kinney M, p           2  0  0  0   Lockhart K, ph        1  0  0  0   
+De Los Santos V, p    0  0  0  0   Lawrence B, p         3  0  2  0   
+Vander Wal J, ph      1  0  0  0   Herges M, p           0  0  0  0   
+Estrella L, p         0  0  0  0   Hansen D, ph          1  0  0  0   
+Ginter K, ph          1  0  1  0                                      
+DeJean M, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        30  2  5  2
+
+Milwaukee        000 000 003 --  3
+San Diego        001 001 000 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Kinney M              5.2  4  2  2  6  4
+De Los Santos V       1.1  0  0  0  0  1
+Estrella L (W)        1.0  0  0  0  0  1
+DeJean M (S)          1.0  1  0  0  1  0
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (L)        8.2  7  3  3  2  8
+Herges M              0.1  1  0  0  1  0
+
+E -- Perez E
+LOB -- Milwaukee 7, San Diego 10
+2B -- Lawrence B, Podsednik S, Helms W
+SB -- Podsednik S 2, Matthews G
+CS -- Podsednik S, Clark J
+SF -- Clark J
+HBP -- by Kinney M (Buchanan B)
+WP -- Lawrence B
+T -- 2:49
+A -- 13192
+     Game of 5/30/2003 -- Arizona at San Diego (N)
+
+  Arizona            AB  R  H RBI    San Diego          AB  R  H RBI
+Womack T, ss          5  1  1  2   Vazquez R, ss         4  0  0  0   
+Cintron A, 3b         5  1  2  1   Loretta M, 2b         3  0  1  0   
+Gonzalez L, lf        5  1  1  0   Wright J, p           0  0  0  0   
+Finley S, cf          4  2  3  3   Hansen D, ph          0  0  0  0   
+Bautista D, rf        5  1  2  0   Buchanan B, ph-1b     0  0  0  0   
+Overbay L, 1b         4  0  1  0   Klesko R, 1b          4  0  1  0   
+Spivey J, 2b          4  1  2  1   Linebrink S, p        0  0  0  0   
+Barajas R, c          3  0  1  1   White R, lf           3  0  1  0   
+Schilling C, p        1  1  0  0   Merloni L, lf         1  0  0  0   
+Villarreal O, p       1  0  0  0   Burroughs S, 3b       4  1  1  0   
+Randolph S, p         0  0  0  0   Nady X, rf            4  1  2  0   
+                                   Matthews G, cf        4  0  1  1   
+                                   Bennett G, c          2  0  0  0   
+                                   Ojeda M, c            2  0  0  1   
+                                   Tollberg B, p         1  0  0  0   
+                                   Orosco J, p           0  0  0  0   
+                                   Lockhart K, ph-2b     3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  8 13  8                        35  3  8  2
+
+Arizona          000 021 500 --  8
+San Diego        000 000 012 --  3
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       6.2  4  0  0  0  4
+Villarreal O          1.0  1  1  0  0  0
+Randolph S            1.1  3  2  2  1  0
+
+  San Diego            IP  H  R ER BB SO
+Tollberg B (L)*       5.0  4  3  3  1  1
+Orosco J              1.0  2  0  0  0  1
+Wright J              2.0  5  5  5  2  2
+Linebrink S           1.0  2  0  0  0  0
+  * Pitched to 1 batter in 6th
+
+E -- Finley S
+DP -- Arizona 1
+LOB -- Arizona 7, San Diego 6
+2B -- Klesko R, Nady X, Spivey J, Lockhart K
+3B -- Womack T
+HR -- Finley S
+SH -- Schilling C
+SF -- Barajas R
+WP -- Orosco J, Wright J
+T -- 2:42
+A -- 19685
+     Game of 5/31/2003 -- Arizona at San Diego (N)
+
+  Arizona            AB  R  H RBI    San Diego          AB  R  H RBI
+Womack T, ss          3  1  1  0   Vazquez R, ss         4  0  0  0   
+Williams M, ph-3b     1  1  1  1   Loretta M, ph-2b      1  0  1  1   
+Cintron A, 3b-ss      3  2  3  2   Lockhart K, 2b        4  1  1  0   
+Gonzalez L, lf        5  1  3  4   Merloni L, ph-ss      0  0  0  1   
+Finley S, cf          5  0  2  0   White R, lf           5  1  2  0   
+Bautista D, rf        4  0  1  0   Klesko R, 1b          5  2  2  2   
+Overbay L, 1b         3  0  0  0   Burroughs S, 3b       4  0  3  0   
+Service S, p          0  0  0  0   Nady X, rf            4  1  2  1   
+Myers M, p            0  0  0  0   Orosco J, p           0  0  0  0   
+Villarreal O, p       0  0  0  0   Herges M, p           0  0  0  0   
+Dellucci D, ph        1  0  0  0   Matthews G, cf        4  2  2  1   
+Spivey J, 2b          4  1  0  0   Bennett G, c          4  1  2  2   
+Barajas R, c          4  0  0  0   Eaton A, p            2  0  1  0   
+Dessens E, p          2  0  1  0   Matthews M, p         1  0  0  0   
+McCracken Q, ph       1  0  1  0   Hackman L, p          0  0  0  0   
+Oropesa E, p          0  0  0  0   Buchanan B, rf        1  0  0  0   
+Grace M, 1b           1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  7 14  7                        39  8 16  8
+
+Arizona          201 010 030 --  7
+San Diego        510 000 02x --  8
+
+  Arizona              IP  H  R ER BB SO
+Dessens E             5.0 11  6  6  0  3
+Oropesa E             1.1  1  0  0  0  2
+Service S (L)         1.0  2  2  2  0  1
+Myers M*              0.0  1  0  0  0  0
+Villarreal O          0.2  1  0  0  0  1
+
+  San Diego            IP  H  R ER BB SO
+Eaton A               5.1  9  4  4  3  6
+Matthews M            1.2  2  0  0  1  1
+Hackman L             0.1  1  2  2  0  0
+Orosco J (W)          0.2  2  1  1  0  1
+Herges M (S)          1.0  0  0  0  1  0
+  * Pitched to 1 batter in 8th
+
+E -- Finley S, Womack T
+DP -- Arizona 1, San Diego 3
+LOB -- Arizona 9, San Diego 8
+2B -- Matthews G, Cintron A 2, Gonzalez L, Williams M
+3B -- Cintron A
+HR -- Gonzalez L, Klesko R
+SF -- Merloni L
+HBP -- by Hackman L (Spivey J)
+T -- 3:15
+A -- 31735
+     Game of 6/1/2003 -- Arizona at San Diego (D)
+
+  Arizona            AB  R  H RBI    San Diego          AB  R  H RBI
+Dellucci D, cf        1  0  0  0   Matthews G, cf        4  0  1  0   
+Finley S, cf          2  1  1  1   Loretta M, 2b         4  2  3  1   
+Cintron A, ss         3  1  1  2   White R, lf           4  1  3  1   
+Womack T, pr-ss       1  1  0  0   Klesko R, 1b          5  0  1  0   
+Bautista D, rf        5  3  3  1   Burroughs S, 3b       3  1  2  0   
+Gonzalez L, lf        5  1  3  4   Nady X, rf            5  0  1  1   
+Hillenbrand S, 3b     3  0  0  0   Merloni L, ss         5  0  1  1   
+Grace M, 1b           5  0  1  2   Ojeda M, c            4  0  0  0   
+Baerga C, 2b          3  1  0  0   Peavy J, p            2  0  1  0   
+Oropesa E, p          0  0  0  0   Nagy C, p             0  0  0  0   
+Overbay L, ph         1  0  0  0   Lockhart K, ph        0  0  0  0   
+Valverde J, p         0  0  0  0   Linebrink S, p        0  0  0  0   
+Barajas R, c          4  1  1  0   Buchanan B, ph        1  0  0  0   
+Gonzalez E, p         2  1  1  0   Wright J, p           0  0  0  0   
+Villarreal O, p       0  0  0  0                                      
+Spivey J, 2b          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36 10 11 10                        37  4 13  4
+
+Arizona          000 215 002 -- 10
+San Diego        100 101 001 --  4
+
+  Arizona              IP  H  R ER BB SO
+Gonzalez E (W)        5.2 10  3  3  3  4
+Villarreal O*         0.1  1  0  0  1  0
+Oropesa E             2.0  0  0  0  0  4
+Valverde J            1.0  2  1  1  2  3
+
+  San Diego            IP  H  R ER BB SO
+Peavy J (L)           5.2  7  7  7  5  4
+Nagy C                0.1  2  1  1  0  0
+Linebrink S           2.0  0  0  0  0  1
+Wright J              1.0  2  2  2  1  0
+  * Pitched to 2 batters in 7th
+
+DP -- Arizona 2, San Diego 1
+LOB -- Arizona 6, San Diego 12
+2B -- White R, Barajas R, Finley S, Cintron A, Bautista D, Merloni L
+HR -- White R, Gonzalez L, Loretta M
+CS -- Matthews G
+SH -- Gonzalez E
+T -- 3:12
+A -- 24355
+     Game of 6/2/2003 -- Arizona at San Diego (N)
+
+  Arizona            AB  R  H RBI    San Diego          AB  R  H RBI
+Womack T, ss          4  0  1  1   Matthews G, cf        3  0  1  1   
+Finley S, cf          3  0  0  0   Loretta M, 2b         3  0  0  0   
+Bautista D, rf        4  0  1  0   White R, lf           4  0  1  0   
+Gonzalez L, lf        4  0  2  0   Klesko R, 1b          3  0  1  0   
+Hillenbrand S, 3b     4  0  1  0   Burroughs S, 3b       4  1  2  0   
+Overbay L, 1b         4  0  1  0   Nady X, rf            4  1  1  1   
+Spivey J, 2b          4  0  1  0   Bennett G, c          4  2  2  0   
+Moeller C, c          4  1  1  0   Merloni L, ss         3  0  1  0   
+Patterson J, p        2  0  0  0   Loewer C, p           1  0  0  1   
+Oropesa E, p          0  0  0  0   Matthews M, p         0  0  0  0   
+Baerga C, ph          1  0  0  0   Hansen D, ph          0  0  0  0   
+Myers M, p            0  0  0  0   Buchanan B, ph        1  0  0  0   
+Service S, p          0  0  0  0   Hackman L, p          0  0  0  0   
+McCracken Q, ph       1  0  0  0   Lockhart K, ph        1  0  0  0   
+                                   Herges M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  1  8  1                        31  4  9  3
+
+Arizona          000 010 000 --  1
+San Diego        000 202 00x --  4
+
+  Arizona              IP  H  R ER BB SO
+Patterson J (L)*      5.0  8  4  4  4  3
+Oropesa E             1.0  1  0  0  0  0
+Myers M               0.2  0  0  0  1  0
+Service S             1.1  0  0  0  0  2
+
+  San Diego            IP  H  R ER BB SO
+Loewer C (W)          5.0  5  1  1  1  2
+Matthews M            1.0  1  0  0  0  0
+Hackman L             2.0  0  0  0  0  2
+Herges M (S)          1.0  2  0  0  0  0
+  * Pitched to 3 batters in 6th
+
+DP -- Arizona 1
+LOB -- Arizona 8, San Diego 8
+2B -- Merloni L, Nady X
+3B -- Burroughs S
+CS -- Klesko R
+WP -- Loewer C
+T -- 2:38
+A -- 14496
+     Game of 6/3/2003 -- Detroit at San Diego (N)
+
+  Detroit            AB  R  H RBI    San Diego          AB  R  H RBI
+Sanchez A, cf         4  0  2  0   Matthews G, cf        5  0  1  0   
+Santiago R, 2b        4  1  1  0   Loretta M, 2b         4  0  2  0   
+Higginson B, rf       4  1  1  0   White R, lf           4  0  2  0   
+Young D, lf           4  1  1  3   Klesko R, 1b          4  0  0  0   
+Witt K, 1b            3  0  0  0   Burroughs S, 3b       4  2  2  0   
+Halter S, ph-1b       1  0  0  0   Nady X, rf            4  0  2  1   
+Inge B, c             4  0  0  0   Bennett G, c          3  0  0  0   
+Munson E, 3b          4  0  1  0   Merloni L, ss         3  0  2  1   
+Infante O, ss         2  0  1  0   Lawrence B, p         3  0  0  0   
+Cornejo N, p          2  0  0  0   Orosco J, p           0  0  0  0   
+Kingsale E, ph        1  0  0  0   Hansen D, ph          1  0  0  0   
+Spurling C, p         0  0  0  0                                      
+Walker J, p           0  0  0  0                                      
+German F, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        35  2 11  2
+
+Detroit          000 000 003 --  3
+San Diego        000 000 101 --  2
+
+  Detroit              IP  H  R ER BB SO
+Cornejo N             7.0  9  1  1  1  1
+Spurling C            0.2  0  0  0  0  1
+Walker J (W)*         0.1  1  1  0  0  1
+German F (S)          1.0  1  0  0  0  1
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (L)+       8.0  7  3  3  0  4
+Orosco J              1.0  0  0  0  0  1
+  * Pitched to 1 batter in 9th
+  + Pitched to 3 batters in 9th
+
+E -- Loretta M, Infante O, Santiago R
+DP -- Detroit 3, San Diego 1
+LOB -- Detroit 4, San Diego 8
+2B -- Matthews G, Burroughs S, Nady X
+HR -- Young D
+CS -- Sanchez A, Merloni L
+SH -- Infante O, Bennett G
+T -- 2:19
+A -- 15521
+     Game of 6/4/2003 -- Detroit at San Diego (N)
+
+  Detroit            AB  R  H RBI    San Diego          AB  R  H RBI
+Sanchez A, cf         5  1  3  0   Matthews G, cf        4  1  2  0   
+Santiago R, 2b        5  0  0  0   Loretta M, 2b         4  0  0  0   
+Higginson B, rf       3  0  0  1   White R, lf           5  2  1  0   
+Young D, lf-1b        3  1  1  1   Klesko R, 1b          2  0  1  0   
+Witt K, 1b            2  1  1  1   Burroughs S, 3b       5  0  2  2   
+Monroe C, ph-lf       2  0  1  0   Nady X, rf            3  0  1  1   
+Inge B, c             4  0  0  0   Hackman L, p          0  0  0  0   
+Munson E, 3b          4  0  0  0   Eaton A, ph           1  0  1  0   
+Infante O, ss         2  0  0  0   Orosco J, p           0  0  0  0   
+Ledezma W, p          0  0  0  0   Beck R, p             0  0  0  0   
+Avery S, ph-p         1  1  1  0   Herges M, p           0  0  0  0   
+Roney M, p            0  0  0  0   Bennett G, c          4  0  0  0   
+Kingsale E, ph        1  0  0  0   Merloni L, ss         3  0  1  0   
+German F, p           0  0  0  0   Tollberg B, p         1  0  0  0   
+Knotts G, p           1  0  0  0   Matthews M, p         0  0  0  0   
+Halter S, ss          3  1  3  1   Buchanan B, rf        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 10  4                        34  3  9  3
+
+Detroit          000 012 110 --  5
+San Diego        200 010 000 --  3
+
+  Detroit              IP  H  R ER BB SO
+Knotts G*             4.0  4  3  3  6  2
+Ledezma W (W)         2.0  3  0  0  0  1
+Avery S               1.0  2  0  0  0  0
+Roney M               1.0  0  0  0  0  0
+German F (S)          1.0  0  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Tollberg B+           5.0  3  2  2  0  1
+Matthews M            0.2  1  1  0  1  1
+Hackman L (L)         1.1  2  1  0  0  1
+Orosco J              0.2  1  1  1  0  0
+Beck R                0.1  1  0  0  0  0
+Herges M              1.0  2  0  0  0  1
+  * Pitched to 2 batters in 5th
+  + Pitched to 1 batter in 6th
+
+E -- Klesko R, White R
+DP -- Detroit 1, San Diego 1
+LOB -- Detroit 6, San Diego 11
+2B -- Burroughs S, Halter S, Eaton A
+HR -- Witt K, Young D
+SB -- Matthews G, Sanchez A 3, Nady X, Monroe C
+SH -- Tollberg B
+SF -- Higginson B
+WP -- Hackman L
+T -- 3:07
+A -- 13227
+     Game of 6/5/2003 -- Detroit at San Diego (D)
+
+  Detroit            AB  R  H RBI    San Diego          AB  R  H RBI
+Sanchez A, cf         4  0  0  0   Matthews G, rf        4  1  1  1   
+Kingsale E, lf        4  1  1  0   Kotsay M, cf          4  1  2  0   
+Monroe C, rf          3  0  0  0   White R, lf           4  0  1  1   
+Morris W, ph          1  0  0  0   Klesko R, 1b          3  0  0  1   
+Young D, 3b           4  0  1  1   Burroughs S, 3b       0  0  0  0   
+Witt K, 1b            4  0  1  0   Loretta M, 2b         3  0  0  0   
+Halter S, 2b          2  0  1  0   Lockhart K, 2b-3b     3  2  2  1   
+Walbeck M, c          3  0  0  0   Bennett G, c          3  1  1  0   
+Sparks S, p           0  0  0  0   Merloni L, ss         3  0  2  1   
+Walker J, p           0  0  0  0   Eaton A, p            1  0  0  0   
+Infante O, ss         3  0  0  0   Linebrink S, p        0  0  0  0   
+Bernero A, p          2  0  0  0   Buchanan B, ph        1  0  0  0   
+Inge B, c             0  0  0  0   Beck R, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        29  5  9  5
+
+Detroit          100 000 000 --  1
+San Diego        100 001 12x --  5
+
+  Detroit              IP  H  R ER BB SO
+Bernero A (L)         6.0  5  2  2  4  4
+Sparks S              0.1  1  1  1  1  0
+Walker J              1.2  3  2  2  1  0
+
+  San Diego            IP  H  R ER BB SO
+Eaton A (W)           7.0  4  1  1  1  6
+Linebrink S           1.0  0  0  0  1  0
+Beck R                1.0  0  0  0  0  2
+
+DP -- Detroit 1, San Diego 1
+LOB -- Detroit 4, San Diego 9
+2B -- Kotsay M
+3B -- Lockhart K
+HR -- Lockhart K
+SB -- Sanchez A 2
+CS -- Lockhart K
+SH -- Eaton A
+SF -- Klesko R
+HBP -- by Bernero A (Burroughs S)
+PB -- Walbeck M
+T -- 2:38
+A -- 14710
+     Game of 6/6/2003 -- Minnesota at San Diego (N)
+
+  Minnesota          AB  R  H RBI    San Diego          AB  R  H RBI
+Jones J, lf           5  1  2  2   Loretta M, 2b         5  0  2  1   
+Guzman C, ss          6  0  3  0   Kotsay M, cf          5  0  2  0   
+Koskie C, 3b          3  0  1  1   Herges M, p           0  0  0  0   
+Hocking D, 3b         2  0  0  0   Orosco J, p           0  0  0  0   
+Hunter T, cf          6  0  1  1   Beck R, p             0  0  0  0   
+Mientkiewicz D, 1b    4  2  3  0   Ojeda M, ph           1  0  1  0   
+Kielty B, rf          6  0  1  0   White R, lf           6  1  2  0   
+Pierzynski A, c       5  2  1  0   Buchanan B, 1b        6  1  3  0   
+Gomez C, 2b           5  1  2  3   Nady X, rf            3  1  1  0   
+Rogers K, p           2  1  0  0   Bennett G, c          4  0  0  0   
+LeCroy M, ph          1  0  0  0   Merloni L, ss         5  1  1  0   
+Hawkins L, p          0  0  0  0   Lockhart K, 3b        3  0  0  0   
+Guardado E, p         0  0  0  0   Matthews G, ph-cf     2  1  1  2   
+Mohr D, ph            1  0  0  0   Peavy J, p            1  0  0  0   
+Romero J, p           1  0  0  0   Matthews M, p         0  0  0  0   
+                                   Eaton A, ph           1  0  0  0   
+                                   Hackman L, p          0  0  0  0   
+                                   Klesko R, ph          1  0  1  1   
+                                   Burroughs S, 3b       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     47  7 14  7                        44  5 14  4
+
+Minnesota        010 010 110 12 --  7
+San Diego        000 010 003 10 --  5
+
+  Minnesota            IP  H  R ER BB SO
+Rogers K              7.0  5  1  1  1  4
+Hawkins L             1.0  1  0  0  0  0
+Guardado E            1.0  4  3  3  1  2
+Romero J (W)          2.0  4  1  1  1  2
+
+  San Diego            IP  H  R ER BB SO
+Peavy J               6.2  8  3  3  3  5
+Matthews M            0.1  0  0  0  0  0
+Hackman L             2.0  2  1  0  1  3
+Herges M              0.2  1  1  1  0  1
+Orosco J              0.1  2  0  0  0  0
+Beck R (L)            1.0  1  2  2  1  1
+
+E -- Lockhart K
+DP -- Minnesota 1
+LOB -- Minnesota 14, San Diego 11
+2B -- Kotsay M, Mientkiewicz D, Koskie C, Buchanan B, Matthews G, Klesko R, White R, Gomez C
+SB -- Mientkiewicz D
+SH -- Peavy J, Gomez C, Nady X
+HBP -- by Beck R (Mientkiewicz D)
+WP -- Rogers K 2, Romero J
+T -- 4:08
+A -- 54747
+     Game of 6/7/2003 -- Minnesota at San Diego (N)
+
+  Minnesota          AB  R  H RBI    San Diego          AB  R  H RBI
+Jones J, lf           4  2  2  2   Matthews G, cf        3  1  1  0   
+Guzman C, ss          5  0  1  0   Loretta M, 2b-ss      3  1  2  1   
+Koskie C, 3b          4  0  1  0   White R, lf           3  0  0  0   
+Hunter T, cf          3  1  1  0   Buchanan B, 1b-rf     3  0  1  1   
+Mientkiewicz D, 1b    5  1  2  0   Nady X, rf            3  0  0  0   
+Mohr D, rf            2  2  1  0   Herges M, p           0  0  0  0   
+Pierzynski A, c       4  0  2  3   Hansen D, ph          1  0  0  0   
+Rivas L, 2b           4  0  1  1   Orosco J, p           0  0  0  0   
+Santana J, p          3  0  1  0   Burroughs S, 3b       4  0  1  0   
+Fiore T, p            1  0  0  0   Merloni L, ss         2  0  0  0   
+Nakamura M, p         0  0  0  0   Lockhart K, 2b        1  0  0  0   
+                                   Ojeda M, c            2  0  0  0   
+                                   Klesko R, ph-1b       2  0  0  0   
+                                   Loewer C, p           0  0  0  0   
+                                   Linebrink S, p        2  0  0  0   
+                                   Bennett G, c          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6 12  6                        31  2  5  2
+
+Minnesota        113 001 000 --  6
+San Diego        000 001 010 --  2
+
+  Minnesota            IP  H  R ER BB SO
+Santana J (W)         6.0  3  1  1  1  7
+Fiore T               1.2  1  1  1  3  1
+Nakamura M (S)        1.1  1  0  0  0  2
+
+  San Diego            IP  H  R ER BB SO
+Loewer C (L)          2.2  5  5  5  3  2
+Linebrink S           4.1  6  1  1  1  3
+Herges M              1.0  0  0  0  0  1
+Orosco J              1.0  1  0  0  1  2
+
+DP -- Minnesota 1, San Diego 2
+LOB -- Minnesota 8, San Diego 7
+2B -- Loretta M, Mohr D
+HR -- Jones J 2, Loretta M
+SB -- Mohr D, Koskie C, Mientkiewicz D, Hunter T, Buchanan B, Burroughs S
+CS -- Koskie C
+HBP -- by Loewer C (Koskie C), by Fiore T (Buchanan B)
+WP -- Santana J
+T -- 2:53
+A -- 31617
+     Game of 6/8/2003 -- Minnesota at San Diego (D)
+
+  Minnesota          AB  R  H RBI    San Diego          AB  R  H RBI
+Ford L, rf            5  0  0  0   Matthews G, lf        5  2  2  1   
+Guzman C, ss          5  0  0  0   Kotsay M, cf          3  1  1  0   
+Jones J, lf           4  0  1  0   Loretta M, 2b         5  2  4  2   
+Hunter T, cf          4  2  2  1   Klesko R, 1b          4  1  3  2   
+Mientkiewicz D, 1b    4  2  2  2   Burroughs S, 3b       4  1  2  1   
+LeCroy M, c           4  0  2  0   Nady X, rf            3  0  0  0   
+Prince T, c           0  0  0  0   Hansen D, ph          1  0  1  1   
+Hocking D, 3b         4  0  1  1   Buchanan B, rf        1  1  1  2   
+Rivas L, 2b           4  0  2  0   Bennett G, c          5  0  0  0   
+Mays J, p             2  0  0  0   Mendez D, ss          4  0  2  0   
+Mohr D, ph            1  0  0  0   Lawrence B, p         2  0  0  0   
+Rincon J, p           0  0  0  0   Lockhart K, ph        0  1  0  0   
+Hawkins L, p          0  0  0  0   Beck R, p             0  0  0  0   
+Nakamura M, p         0  0  0  0                                      
+Kielty B, ph          1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  4 11  4                        37  9 16  9
+
+Minnesota        000 102 010 --  4
+San Diego        002 000 16x --  9
+
+  Minnesota            IP  H  R ER BB SO
+Mays J                6.0  8  2  2  2  2
+Rincon J              0.1  2  1  1  1  0
+Hawkins L (L)         1.0  4  4  4  1  1
+Nakamura M            0.2  2  2  2  0  0
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (W)        8.0  9  4  4  0  5
+Beck R                1.0  2  0  0  0  1
+
+E -- Kotsay M, Hocking D
+DP -- Minnesota 2
+LOB -- Minnesota 7, San Diego 11
+2B -- Klesko R 2
+HR -- Matthews G, Mientkiewicz D, Hunter T, Klesko R, Buchanan B
+SH -- Lawrence B, Kotsay M
+HBP -- by Mays J (Mendez D)
+T -- 2:37
+A -- 19140
+     Game of 6/20/2003 -- Seattle at San Diego (N)
+
+  Seattle            AB  R  H RBI    San Diego          AB  R  H RBI
+Suzuki I, rf          5  1  3  0   Kotsay M, cf          4  1  0  0   
+Winn R, lf            5  0  0  0   Loretta M, 2b         5  1  2  0   
+Boone B, 2b           3  1  0  0   Klesko R, 1b          3  1  1  1   
+Olerud J, 1b          1  1  0  0   White R, lf           5  1  1  4   
+Cameron M, cf         4  0  1  1   Burroughs S, 3b       3  0  1  0   
+Davis B, c            4  0  2  2   Nady X, rf            4  0  0  0   
+Cirillo J, 3b         2  0  0  0   Ojeda M, c            3  0  1  0   
+Bloomquist W, ss      3  0  0  0   Matthews G, ph        1  1  1  0   
+Meche G, p            3  0  1  0   Mendez D, ss          4  0  2  0   
+Rhodes A, p           0  0  0  0   Perez O, p            0  0  0  0   
+Ugueto L, ph          1  0  0  0   Lockhart K, ph        1  0  0  0   
+Nelson J, p           0  0  0  0   Herges M, p           0  0  0  0   
+                                   Hansen D, ph          0  0  0  0   
+                                   Witasick J, p         0  0  0  0   
+                                   Matthews M, p         0  0  0  0   
+                                   Buchanan B, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  7  3                        34  5  9  5
+
+Seattle          003 000 000 --  3
+San Diego        000 000 005 --  5
+  2 outs when winning run was scored.
+
+  Seattle              IP  H  R ER BB SO
+Meche G*              7.0  6  0  0  2  4
+Rhodes A              1.0  0  0  0  0  1
+Nelson J (L)          0.2  3  5  5  2  2
+
+  San Diego            IP  H  R ER BB SO
+Perez O               5.0  4  3  3  6  5
+Herges M              2.0  1  0  0  0  2
+Witasick J            1.0  1  0  0  0  0
+Matthews M (W)        1.0  1  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Ojeda M
+DP -- San Diego 2
+LOB -- Seattle 8, San Diego 9
+2B -- Davis B, Loretta M
+HR -- White R
+CS -- Winn R
+SH -- Perez O
+HBP -- by Perez O (Olerud J), by Rhodes A (Burroughs S)
+WP -- Perez O, Nelson J
+T -- 2:46
+A -- 23500
+     Game of 6/21/2003 -- Seattle at San Diego (N)
+
+  Seattle            AB  R  H RBI    San Diego          AB  R  H RBI
+Suzuki I, rf          4  1  2  0   Kotsay M, cf          3  1  1  0   
+McLemore M, ss        2  1  0  1   Loretta M, 2b         4  1  1  0   
+Guillen C, ss         0  0  0  0   Klesko R, 1b          3  0  0  0   
+Boone B, 2b           5  0  1  1   Buchanan B, ph-1b     1  0  0  0   
+Olerud J, 1b          3  0  1  2   White R, lf           4  0  1  0   
+Cameron M, cf         5  0  1  0   Burroughs S, 3b       4  0  1  1   
+Winn R, lf            5  0  0  0   Nady X, rf            3  0  0  0   
+Davis B, c            4  0  3  0   Bennett G, c          4  0  0  0   
+Cirillo J, 3b         3  1  2  0   Mendez D, ss          3  0  0  0   
+Pineiro J, p          3  1  0  0   Eaton A, p            2  0  1  0   
+Mabry J, ph           1  0  0  0   Linebrink S, p        0  0  0  0   
+Rhodes A, p           0  0  0  0   Lockhart K, ph        1  0  0  0   
+Hasegawa S, p         0  0  0  0   Hackman L, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 10  4                        32  2  5  1
+
+Seattle          220 000 000 --  4
+San Diego        200 000 000 --  2
+
+  Seattle              IP  H  R ER BB SO
+Pineiro J (W)         7.0  5  2  2  1  7
+Rhodes A              1.1  0  0  0  1  1
+Hasegawa S (S)        0.2  0  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Eaton A (L)           5.0  7  4  3  5  6
+Linebrink S           2.0  1  0  0  1  2
+Hackman L             2.0  2  0  0  0  0
+
+E -- White R
+DP -- San Diego 1
+LOB -- Seattle 11, San Diego 5
+2B -- Suzuki I, Burroughs S, Davis B 3
+SB -- Winn R
+SF -- Olerud J
+WP -- Pineiro J
+T -- 2:51
+A -- 38243
+     Game of 6/22/2003 -- Seattle at San Diego (D)
+
+  Seattle            AB  R  H RBI    San Diego          AB  R  H RBI
+Suzuki I, rf          4  0  2  0   Matthews G, lf        3  0  0  0   
+Guillen C, ss         4  0  0  0   Kotsay M, cf          3  0  1  1   
+Boone B, 2b           4  1  2  1   Loretta M, 2b         3  0  0  0   
+Olerud J, 1b          4  0  1  0   Klesko R, 1b          3  1  1  0   
+Davis B, c            4  0  0  0   Hansen D, 3b          3  0  1  1   
+Winn R, cf            3  0  0  0   Nady X, rf            3  0  0  0   
+McLemore M, lf        4  0  0  0   Bennett G, c          3  0  0  0   
+Cirillo J, 3b         3  0  0  0   Mendez D, ss          3  1  1  0   
+Franklin R, p         2  0  0  0   Peavy J, p            1  0  0  0   
+Martinez E, ph        1  0  0  0   Witasick J, p         0  0  0  0   
+Soriano R, p          0  0  0  0   Matthews M, p         0  0  0  0   
+White M, p            0  0  0  0   Lockhart K, ph        0  0  0  0   
+                                   Buchanan B, ph        1  1  1  1   
+                                   Beck R, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  5  1                        26  3  5  3
+
+Seattle          000 000 010 --  1
+San Diego        000 001 11x --  3
+
+  Seattle              IP  H  R ER BB SO
+Franklin R (L)        6.0  2  1  1  1  5
+Soriano R             1.1  2  1  1  0  1
+White M               0.2  1  1  1  1  0
+
+  San Diego            IP  H  R ER BB SO
+Peavy J (W)           6.2  4  0  0  1  0
+Witasick J            1.0  1  1  1  0  1
+Matthews M            0.1  0  0  0  0  0
+Beck R (S)            1.0  0  0  0  0  1
+
+E -- Hansen D
+DP -- Seattle 1
+LOB -- Seattle 6, San Diego 2
+2B -- Suzuki I, Mendez D, Kotsay M, Hansen D
+HR -- Boone B, Buchanan B
+SB -- Kotsay M, Winn R
+CS -- Kotsay M
+SH -- Peavy J
+T -- 2:42
+A -- 27163
+     Game of 6/23/2003 -- Colorado at San Diego (N)
+
+  Colorado           AB  R  H RBI    San Diego          AB  R  H RBI
+Uribe J, ss           5  1  2  0   Matthews G, rf        4  0  1  0   
+Payton J, lf          5  0  0  0   Kotsay M, cf          4  0  0  0   
+Helton T, 1b          4  2  1  0   Loretta M, 2b         4  0  0  0   
+Wilson P, cf          3  0  1  1   Klesko R, 1b          4  1  2  1   
+Walker L, rf          3  1  2  1   White R, lf           3  0  0  0   
+Stynes C, 3b          2  1  1  2   Hansen D, 3b          4  0  1  0   
+Bellhorn M, 2b        4  0  1  0   Bennett G, c          3  0  0  0   
+Johnson C, c          3  0  0  1   Mendez D, ss          3  0  1  0   
+Chacon S, p           3  0  0  0   Jarvis K, p           2  0  1  0   
+Sweeney M, ph         1  0  0  0   Hackman L, p          0  0  0  0   
+Cruz N, p             0  0  0  0   Burroughs S, ph       1  0  0  0   
+Reed S, p             0  0  0  0   Herges M, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  8  5                        32  1  6  1
+
+Colorado         200 002 100 --  5
+San Diego        000 000 100 --  1
+
+  Colorado             IP  H  R ER BB SO
+Chacon S (W)          7.0  4  1  1  1  8
+Cruz N                1.0  1  0  0  0  0
+Reed S                1.0  1  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Jarvis K (L)          6.0  6  4  4  4  6
+Hackman L             2.0  2  1  1  1  2
+Herges M              1.0  0  0  0  0  0
+
+E -- Klesko R
+DP -- Colorado 1, San Diego 1
+LOB -- Colorado 7, San Diego 5
+2B -- Uribe J, Helton T
+HR -- Walker L, Klesko R
+SB -- Bellhorn M
+SF -- Johnson C
+WP -- Jarvis K
+PB -- Bennett G
+T -- 2:37
+A -- 18072
+     Game of 6/24/2003 -- Colorado at San Diego (N)
+
+  Colorado           AB  R  H RBI    San Diego          AB  R  H RBI
+Uribe J, ss           5  0  3  1   Kotsay M, cf          4  0  0  0   
+Belliard R, 2b        5  0  2  1   Loretta M, 2b         4  1  1  0   
+Helton T, 1b          3  1  1  0   White R, lf           3  0  1  0   
+Wilson P, cf          5  0  0  0   Buchanan B, 1b-rf     3  0  1  0   
+Walker L, rf          4  1  2  2   Hansen D, ph          0  0  0  0   
+Stynes C, 3b          4  0  0  0   Nady X, rf            1  0  0  0   
+Sweeney M, lf         4  0  0  0   Klesko R, ph-1b       2  0  0  0   
+Lopez J, p            0  0  0  0   Burroughs S, 3b       4  0  0  0   
+Jimenez J, p          0  0  0  0   Ojeda M, c            3  0  0  0   
+Estalella B, c        2  2  2  0   Matthews G, ph        1  0  0  0   
+Oliver D, p           3  1  0  0   Mendez D, ss          3  0  0  0   
+Speier J, p           0  0  0  0   Lawrence B, p         1  0  0  0   
+Payton J, lf          0  0  0  0   Eaton A, ph           1  0  1  0   
+                                   Linebrink S, p        0  0  0  0   
+                                   Lockhart K, ph        1  1  1  1   
+                                   Witasick J, p         0  0  0  0   
+                                   Orosco J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5 10  4                        31  2  5  1
+
+Colorado         000 012 101 --  5
+San Diego        000 000 110 --  2
+
+  Colorado             IP  H  R ER BB SO
+Oliver D (W)*         6.0  4  1  1  0  0
+Speier J              1.2  1  1  1  0  1
+Lopez J               0.1  0  0  0  0  0
+Jimenez J (S)         1.0  0  0  0  2  2
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (L)        6.0  6  3  3  2  5
+Linebrink S           2.0  2  1  1  1  0
+Witasick J            0.2  2  1  1  0  1
+Orosco J              0.1  0  0  0  1  0
+  * Pitched to 3 batters in 7th
+
+E -- Helton T 2
+DP -- Colorado 2, San Diego 1
+LOB -- Colorado 8, San Diego 5
+2B -- Uribe J, Helton T, Belliard R
+HR -- Walker L, Lockhart K
+SH -- Payton J
+HBP -- by Oliver D (Nady X)
+WP -- Orosco J
+T -- 2:42
+A -- 15915
+     Game of 6/25/2003 -- Colorado at San Diego (N)
+
+  Colorado           AB  R  H RBI    San Diego          AB  R  H RBI
+Uribe J, ss           5  1  1  0   Kotsay M, cf          3  0  0  0   
+Belliard R, 2b        5  1  1  1   Lockhart K, 2b        3  0  0  0   
+Helton T, 1b          5  1  1  1   Loretta M, ph-2b      2  0  0  0   
+Wilson P, cf          4  1  0  1   White R, lf           4  1  1  0   
+Vaughn G, lf          1  0  0  1   Klesko R, 1b          4  1  0  0   
+Jones T, p            0  0  0  0   Burroughs S, 3b       3  1  1  1   
+Speier J, p           0  0  0  0   Nady X, rf            3  3  2  0   
+Payton J, rf-lf       3  1  1  1   Ojeda M, c            4  1  3  4   
+Stynes C, 3b          3  0  0  1   Mendez D, ss          3  0  2  1   
+Johnson C, c          4  0  0  0   Perez O, p            3  0  1  1   
+Elarton S, p          1  0  0  0   Herges M, p           0  0  0  0   
+Fuentes B, p          0  0  0  0   Orosco J, p           0  0  0  0   
+Norton G, ph          1  1  1  0   Hackman L, p          0  0  0  0   
+Walker L, rf          0  0  0  0   Matthews G, ph        1  0  0  0   
+                                   Witasick J, p         0  0  0  0   
+                                   Beck R, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  6  5  6                        33  7 10  7
+
+Colorado         010 100 400 --  6
+San Diego        014 000 20x --  7
+
+  Colorado             IP  H  R ER BB SO
+Elarton S             5.0  7  5  1  3  0
+Fuentes B             1.0  0  0  0  0  0
+Jones T (L)           0.1  3  2  2  0  0
+Speier J              1.2  0  0  0  0  1
+
+  San Diego            IP  H  R ER BB SO
+Perez O               5.2  2  2  2  6  6
+Herges M*             0.1  2  3  2  0  1
+Orosco J+             0.0  1  1  1  0  0
+Hackman L (W)         1.0  0  0  0  0  0
+Witasick J            1.0  0  0  0  1  1
+Beck R (S)            1.0  0  0  0  0  1
+  * Pitched to 3 batters in 7th
+  + Pitched to 1 batter in 7th
+
+E -- Helton T, Payton J, Stynes C, Mendez D
+DP -- Colorado 1
+LOB -- Colorado 7, San Diego 8
+2B -- Mendez D, Norton G, Belliard R
+HR -- Payton J, Ojeda M
+SF -- Burroughs S, Vaughn G, Mendez D
+HBP -- by Elarton S (Nady X)
+WP -- Elarton S 2
+T -- 2:59
+A -- 19908
+     Game of 7/4/2003 -- San Francisco at San Diego (N)
+
+  San Francisco      AB  R  H RBI    San Diego          AB  R  H RBI
+Durham R, 2b          5  1  1  2   Kotsay M, cf          5  0  1  1   
+Snow J, 1b            4  1  1  2   Merloni L, 2b         5  1  1  0   
+Grissom M, cf         5  3  3  0   White R, lf           4  2  2  1   
+Bonds B, lf           3  1  1  2   Klesko R, 1b          4  1  2  2   
+Santiago B, c         1  0  1  0   Burroughs S, 3b       3  1  1  1   
+Torrealba Y, c        4  0  1  1   Nady X, rf            3  0  0  1   
+Cruz J, rf            4  0  1  1   Bennett G, c          4  0  0  0   
+Aurilia R, ss         5  0  0  0   Mendez D, ss          2  1  0  0   
+Worrell T, p          0  0  0  0   Peavy J, p            0  0  0  0   
+Alfonzo E, 3b         3  1  2  0   Eaton A, ph           1  0  0  0   
+Foppert J, p          3  1  1  0   Linebrink S, p        0  0  0  0   
+Nathan J, p           0  0  0  0   Matthews G, ph        1  0  0  0   
+Eyre S, p             0  0  0  0   Herges M, p           0  0  0  0   
+Torcato T, ph         1  0  0  0   Matthews M, p         0  0  0  0   
+Rodriguez F, p        0  0  0  0   Witasick J, p         0  0  0  0   
+Perez N, ss           0  0  0  0   Hansen D, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 12  8                        33  6  7  6
+
+San Francisco    002 500 001 --  8
+San Diego        103 011 000 --  6
+
+  San Francisco        IP  H  R ER BB SO
+Foppert J (W)         5.0  6  5  5  3  6
+Nathan J              1.1  1  1  1  1  3
+Eyre S                0.2  0  0  0  0  0
+Rodriguez F           1.0  0  0  0  0  1
+Worrell T (S)         1.0  0  0  0  0  2
+
+  San Diego            IP  H  R ER BB SO
+Peavy J (L)           4.0  9  7  7  3  1
+Linebrink S           2.0  1  0  0  0  3
+Herges M              2.0  1  0  0  0  3
+Matthews M            0.1  0  1  1  2  0
+Witasick J            0.2  1  0  0  0  1
+
+DP -- San Diego 1
+LOB -- San Francisco 8, San Diego 5
+2B -- Alfonzo E
+3B -- Burroughs S, Durham R
+HR -- White R, Snow J, Klesko R, Bonds B
+SB -- Mendez D
+SF -- Nady X
+WP -- Foppert J 2, Nathan J
+T -- 3:29
+A -- 42379
+     Game of 7/5/2003 -- San Francisco at San Diego (N)
+
+  San Francisco      AB  R  H RBI    San Diego          AB  R  H RBI
+Durham R, 2b          4  0  1  0   Kotsay M, cf          4  0  0  0   
+Snow J, 1b            3  0  0  0   Loretta M, 2b         4  1  1  0   
+Grissom M, cf         4  1  2  0   Klesko R, 1b          4  0  0  0   
+Bonds B, lf           3  1  1  0   Burroughs S, 3b       3  2  1  0   
+Cruz J, rf            3  0  0  0   Matthews G, rf        3  1  1  0   
+Aurilia R, ss         3  0  1  2   Buchanan B, lf        4  0  3  2   
+Alfonzo E, 3b         3  0  0  0   Ojeda M, c            4  1  2  2   
+Torrealba Y, c        2  0  0  0   Mendez D, ss          4  0  0  0   
+Schmidt J, p          2  0  0  0   Jarvis K, p           2  0  0  0   
+Galarraga A, ph       1  0  0  0   Witasick J, p         0  0  0  0   
+Christiansen J, p     0  0  0  0   Beck R, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  2  5  2                        32  5  8  4
+
+San Francisco    000 200 000 --  2
+San Diego        010 102 01x --  5
+
+  San Francisco        IP  H  R ER BB SO
+Schmidt J (L)         7.0  7  4  4  3  9
+Christiansen J        1.0  1  1  1  0  1
+
+  San Diego            IP  H  R ER BB SO
+Jarvis K (W)          7.1  3  2  2  4  4
+Witasick J            0.2  0  0  0  0  0
+Beck R (S)            1.0  2  0  0  0  1
+
+E -- Schmidt J
+DP -- San Francisco 1, San Diego 3
+LOB -- San Francisco 3, San Diego 6
+2B -- Grissom M, Aurilia R
+3B -- Buchanan B
+HR -- Ojeda M
+SB -- Loretta M
+T -- 2:29
+A -- 56474
+     Game of 7/6/2003 -- San Francisco at San Diego (D)
+
+  San Francisco      AB  R  H RBI    San Diego          AB  R  H RBI
+Durham R, 2b          5  1  0  0   Matthews G, cf-rf     4  0  1  0   
+Snow J, 1b            5  0  2  1   Loretta M, 2b         3  0  1  0   
+Grissom M, cf         5  0  0  1   White R, lf           4  0  1  1   
+Bonds B, lf           3  0  0  0   Buchanan B, 1b        3  0  1  0   
+Aurilia R, ss         4  1  2  1   Klesko R, ph-1b       2  0  0  0   
+Rodriguez F, p        0  0  0  0   Burroughs S, 3b       2  0  0  1   
+Worrell T, p          0  0  0  0   Nady X, rf            4  0  0  0   
+Cruz J, rf            4  0  1  0   Hackman L, p          0  0  0  0   
+Alfonzo E, 3b         3  0  0  0   Matthews M, p         0  0  0  0   
+Torrealba Y, c        4  1  2  0   Herges M, p           0  0  0  0   
+Moss D, p             2  0  1  0   Ojeda M, c            3  0  0  0   
+Brower J, p           0  0  0  0   Mendez D, ss          3  1  0  0   
+Galarraga A, ph       1  0  0  0   Lawrence B, p         2  1  1  0   
+Nathan J, p           0  0  0  0   Orosco J, p           0  0  0  0   
+Eyre S, p             0  0  0  0   Kotsay M, cf          1  0  0  0   
+Perez N, ss           1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  3  9  3                        31  2  5  2
+
+San Francisco    001 001 001 --  3
+San Diego        001 010 000 --  2
+
+  San Francisco        IP  H  R ER BB SO
+Moss D                4.2  3  2  2  6  4
+Brower J              1.1  1  0  0  0  0
+Nathan J              0.1  1  0  0  0  0
+Eyre S                1.1  0  0  0  2  0
+Rodriguez F (W)       0.1  0  0  0  1  0
+Worrell T (S)         1.0  0  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B            7.0  6  2  1  2  3
+Orosco J              0.1  0  0  0  0  0
+Hackman L (L)         1.1  2  1  1  0  2
+Matthews M*           0.0  1  0  0  0  0
+Herges M              0.1  0  0  0  0  1
+  * Pitched to 1 batter in 9th
+
+E -- Mendez D
+DP -- San Francisco 1
+LOB -- San Francisco 9, San Diego 12
+2B -- Matthews G, Snow J
+HR -- Aurilia R
+HBP -- by Moss D (White R)
+PB -- Ojeda M
+T -- 3:07
+A -- 24365
+     Game of 7/7/2003 -- Los Angeles at San Diego (N)
+
+  Los Angeles        AB  R  H RBI    San Diego          AB  R  H RBI
+Izturis C, ss         3  0  1  0   Kotsay M, cf          5  0  0  0   
+Cabrera J, 2b         4  0  0  0   Loretta M, 2b         4  0  1  1   
+Green S, rf           4  0  0  0   Klesko R, 1b          4  1  1  1   
+Lo Duca P, 1b         3  1  2  1   Burroughs S, 3b       4  1  1  0   
+Kinkade M, lf         4  0  0  0   White R, lf           4  1  1  1   
+Beltre A, 3b          3  0  1  0   Matthews G, lf        0  0  0  0   
+Ross D, c             4  0  0  0   Buchanan B, rf        4  2  3  1   
+Ruan W, cf            3  0  1  0   Vazquez R, ss         4  2  2  0   
+Ashby A, p            1  0  0  0   Ojeda M, c            3  0  2  2   
+Hermansen C, ph       0  0  0  0   Perez O, p            4  0  1  1   
+Colyer S, p           0  0  0  0   Linebrink S, p        0  0  0  0   
+Mota G, p             0  0  0  0                                      
+Coomer R, ph          1  0  0  0                                      
+Shuey P, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        36  7 12  7
+
+Los Angeles      000 000 001 --  1
+San Diego        000 502 00x --  7
+
+  Los Angeles          IP  H  R ER BB SO
+Ashby A (L)           4.0  8  5  5  0  1
+Colyer S              2.0  4  2  2  0  3
+Mota G                1.0  0  0  0  0  2
+Shuey P               1.0  0  0  0  1  0
+
+  San Diego            IP  H  R ER BB SO
+Perez O (W)*          8.0  5  1  1  4  8
+Linebrink S           1.0  0  0  0  0  0
+  * Pitched to 1 batter in 9th
+
+DP -- San Diego 2
+LOB -- Los Angeles 6, San Diego 6
+2B -- Beltre A
+3B -- White R, Ruan W
+HR -- Klesko R, Lo Duca P
+WP -- Colyer S
+T -- 2:25
+A -- 20657
+     Game of 7/8/2003 -- Los Angeles at San Diego (N)
+
+  Los Angeles        AB  R  H RBI    San Diego          AB  R  H RBI
+Ruan W, cf            4  0  1  0   Matthews G, cf        3  2  1  0   
+Cabrera J, ph         1  0  1  0   Loretta M, 2b         4  3  4  2   
+Cora A, 2b            5  0  1  1   White R, lf           4  1  2  2   
+Green S, rf           4  1  1  1   Buchanan B, 1b        3  0  0  0   
+Lo Duca P, c          4  2  2  0   Burroughs S, 3b       4  0  2  3   
+Hermansen C, lf       4  0  1  0   Nady X, rf            4  1  1  0   
+Beltre A, 3b          4  0  0  1   Merloni L, ss         3  0  0  0   
+Barnes L, 1b          4  1  1  0   Witasick J, p         0  0  0  0   
+Izturis C, ss         3  1  1  0   Ojeda M, ph           0  0  0  0   
+Alvarez W, p          2  0  0  0   Beck R, p             0  0  0  0   
+Mota G, p             0  0  0  0   Bennett G, c          4  0  1  1   
+Ward D, ph            0  0  0  1   Eaton A, p            2  0  0  0   
+Quantrill P, p        0  0  0  0   Vazquez R, ss         2  1  1  0   
+Martin T, p           0  0  0  0                                      
+Kinkade M, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5  9  4                        33  8 12  8
+
+Los Angeles      010 001 210 --  5
+San Diego        202 020 11x --  8
+
+  Los Angeles          IP  H  R ER BB SO
+Alvarez W (L)*        4.0  8  6  6  2  4
+Mota G                2.0  0  0  0  0  0
+Quantrill P           1.1  2  1  1  0  2
+Martin T              0.2  2  1  1  1  2
+
+  San Diego            IP  H  R ER BB SO
+Eaton A (W)           6.2  6  4  1  1  4
+Witasick J            1.1  1  1  1  0  0
+Beck R (S)            1.0  2  0  0  1  1
+  * Pitched to 3 batters in 5th
+
+E -- Eaton A 2, Green S, Buchanan B
+DP -- Los Angeles 1, San Diego 1
+LOB -- Los Angeles 8, San Diego 4
+2B -- White R, Lo Duca P, Vazquez R
+3B -- Loretta M
+HR -- Green S
+SB -- Matthews G
+CS -- Loretta M
+SF -- Ward D
+HBP -- by Witasick J (Lo Duca P)
+WP -- Witasick J
+T -- 2:55
+A -- 24843
+     Game of 7/17/2003 -- Arizona at San Diego (D)
+
+  Arizona            AB  R  H RBI    San Diego          AB  R  H RBI
+Counsell C, 3b        5  0  2  0   Kotsay M, cf          4  0  0  0   
+Kata M, 2b            4  1  0  0   Loretta M, 2b         4  1  3  0   
+Gonzalez L, lf        4  3  1  0   Linebrink S, p        0  0  0  0   
+Randolph S, p         0  0  0  0   Orosco J, p           0  0  0  0   
+Villarreal O, p       0  0  0  0   Merloni L, 2b         0  0  0  0   
+Hillenbrand S, 1b     5  1  2  1   Klesko R, 1b          4  0  0  0   
+Finley S, cf          4  2  3  3   Matthews M, p         0  0  0  0   
+Terrero L, cf         1  0  0  0   Burroughs S, 3b       4  0  1  1   
+Cintron A, ss         4  1  2  2   White R, lf           3  0  2  0   
+Moeller C, c          5  1  2  2   Matthews G, lf        1  0  0  0   
+McCracken Q, rf       3  0  0  1   Vazquez R, ss         3  0  2  0   
+Schilling C, p        2  0  0  0   Nady X, rf            4  0  0  0   
+Dellucci D, ph-lf     1  0  1  0   Ojeda M, c            2  0  0  0   
+                                   Perez O, p            2  0  0  0   
+                                   Wright J, p           0  0  0  0   
+                                   Hansen D, ph-2b-1b    2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 13  9                        33  1  9  1
+
+Arizona          302 040 000 --  9
+San Diego        100 000 000 --  1
+
+  Arizona              IP  H  R ER BB SO
+Schilling C (W)       7.0  8  1  0  1  8
+Randolph S            1.0  0  0  0  0  1
+Villarreal O          1.0  1  0  0  1  0
+
+  San Diego            IP  H  R ER BB SO
+Perez O (L)           4.1  8  8  5  3  2
+Wright J              2.2  3  1  1  0  1
+Linebrink S           0.2  2  0  0  0  1
+Orosco J              0.1  0  0  0  0  0
+Matthews M            1.0  0  0  0  1  0
+
+E -- Vazquez R, Schilling C
+DP -- Arizona 2, San Diego 2
+LOB -- Arizona 7, San Diego 8
+2B -- Hillenbrand S, Loretta M
+3B -- Moeller C
+HR -- Finley S
+SH -- Vazquez R
+SF -- McCracken Q
+WP -- Orosco J
+T -- 2:52
+A -- 27346
+     Game of 7/18/2003 -- Arizona at San Diego (N)
+
+  Arizona            AB  R  H RBI    San Diego          AB  R  H RBI
+Counsell C, 2b        4  0  0  0   Kotsay M, cf          4  0  2  0   
+Dellucci D, rf        5  0  1  0   Loretta M, 2b         4  0  0  0   
+Gonzalez L, lf        5  1  2  0   Klesko R, 1b          4  0  0  0   
+Hillenbrand S, 3b     4  2  2  1   Burroughs S, 3b       3  0  0  0   
+Finley S, cf          3  3  2  3   White R, lf           3  0  1  0   
+Cintron A, ss         3  0  1  1   Matthews G, rf        3  0  0  0   
+Moeller C, c          3  0  0  0   Vazquez R, ss         2  0  1  0   
+Overbay L, 1b         3  0  1  1   Bennett G, c          2  0  1  0   
+Batista M, p          4  0  0  0   Lawrence B, p         1  0  0  0   
+                                   Nady X, ph            1  0  0  0   
+                                   Hackman L, p          0  0  0  0   
+                                   Witasick J, p         0  0  0  0   
+                                   Hansen D, ph          1  0  0  0   
+                                   Beck R, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6  9  6                        28  0  5  0
+
+Arizona          013 000 020 --  6
+San Diego        000 000 000 --  0
+
+  Arizona              IP  H  R ER BB SO
+Batista M (W)         9.0  5  0  0  2  5
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (L)        6.0  6  4  4  4  1
+Hackman L             1.0  0  0  0  0  0
+Witasick J            1.0  3  2  2  0  2
+Beck R                1.0  0  0  0  0  0
+
+DP -- Arizona 4, San Diego 2
+LOB -- Arizona 6, San Diego 3
+2B -- Cintron A, Overbay L
+3B -- Finley S
+HR -- Finley S, Hillenbrand S
+HBP -- by Lawrence B (Moeller C)
+T -- 2:14
+A -- 24223
+     Game of 7/19/2003 -- Arizona at San Diego (N)
+
+  Arizona            AB  R  H RBI    San Diego          AB  R  H RBI
+Counsell C, ss        4  0  2  0   Vazquez R, ss         2  2  1  0   
+Dellucci D, rf        3  0  0  0   Kotsay M, cf          4  0  1  0   
+McCracken Q, ph-rf    1  0  1  0   Loretta M, 2b         4  0  1  1   
+Gonzalez L, lf        4  0  1  0   Klesko R, 1b          4  0  0  1   
+Hillenbrand S, 3b     3  0  1  0   Burroughs S, 3b       4  0  0  0   
+Finley S, cf          4  0  1  0   White R, lf           4  0  0  0   
+Hammock R, c          3  0  0  0   Matthews G, rf        2  0  0  0   
+Grace M, ph           1  0  1  0   Bennett G, c          3  0  0  0   
+Kata M, 2b            4  0  0  0   Eaton A, p            3  0  1  0   
+Overbay L, 1b         3  0  0  0   Matthews M, p         0  0  0  0   
+Webb B, p             1  0  0  0   Witasick J, p         0  0  0  0   
+Terrero L, ph         1  0  1  0   Orosco J, p           0  0  0  0   
+Myers M, p            0  0  0  0   Beck R, p             0  0  0  0   
+Valverde J, p         0  0  0  0                                      
+Baerga C, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  0  8  0                        30  2  4  2
+
+Arizona          000 000 000 --  0
+San Diego        101 000 00x --  2
+
+  Arizona              IP  H  R ER BB SO
+Webb B (L)            6.0  4  2  2  3  8
+Myers M               1.2  0  0  0  0  2
+Valverde J            0.1  0  0  0  0  1
+
+  San Diego            IP  H  R ER BB SO
+Eaton A (W)           6.2  6  0  0  1  7
+Matthews M            0.2  1  0  0  0  1
+Witasick J            0.1  0  0  0  0  1
+Orosco J              0.1  0  0  0  0  0
+Beck R (S)            1.0  1  0  0  0  0
+
+E -- Hillenbrand S 2
+LOB -- Arizona 9, San Diego 7
+2B -- Gonzalez L, Hillenbrand S
+CS -- Finley S
+SH -- Webb B
+HBP -- by Eaton A (Hillenbrand S)
+WP -- Webb B
+T -- 2:32
+A -- 38901
+     Game of 7/20/2003 -- Arizona at San Diego (D)
+
+  Arizona            AB  R  H RBI    San Diego          AB  R  H RBI
+Counsell C, ss        3  1  1  0   Vazquez R, ss         4  0  1  0   
+Kata M, 2b            4  1  1  1   Loretta M, 2b         3  0  0  0   
+Gonzalez L, lf        4  0  1  0   White R, lf           3  0  1  0   
+Hillenbrand S, 3b     4  0  1  1   Buchanan B, 1b        3  0  0  0   
+Finley S, cf          4  0  1  0   Klesko R, ph-1b       1  1  1  1   
+Moeller C, c          4  0  0  0   Matthews G, cf        4  1  2  0   
+Grace M, 1b           4  0  0  0   Ojeda M, c            3  0  1  0   
+McCracken Q, rf       2  0  0  0   Nady X, rf            4  0  1  0   
+Valverde J, p         0  0  0  0   Merloni L, 3b         3  1  1  1   
+Oropesa E, p          0  0  0  0   Beck R, p             0  0  0  0   
+Baerga C, ph          1  0  0  0   Jarvis K, p           3  0  0  0   
+Johnson R, p          2  0  0  0   Matthews M, p         0  0  0  0   
+Villarreal O, p       0  0  0  0   Witasick J, p         0  0  0  0   
+Myers M, p            0  0  0  0   Orosco J, p           0  0  0  0   
+Dellucci D, rf        1  0  0  0   Burroughs S, ph-3b    1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  5  2                        32  3  8  2
+
+Arizona          001 000 010 --  2
+San Diego        001 100 10x --  3
+
+  Arizona              IP  H  R ER BB SO
+Johnson R (L)         6.0  6  2  1  2  6
+Villarreal O          0.2  0  0  0  0  0
+Myers M*              0.0  1  1  1  0  0
+Valverde J            0.2  1  0  0  1  2
+Oropesa E             0.2  0  0  0  0  2
+
+  San Diego            IP  H  R ER BB SO
+Jarvis K (W)          7.1  3  2  2  2  3
+Matthews M            0.1  1  0  0  0  0
+Witasick J+           0.0  1  0  0  0  0
+Orosco J              0.1  0  0  0  0  0
+Beck R (S)            1.0  0  0  0  0  2
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 8th
+
+E -- Merloni L, Ojeda M, Hillenbrand S
+DP -- Arizona 1
+LOB -- Arizona 6, San Diego 10
+2B -- Vazquez R, Matthews G, Nady X
+HR -- Merloni L, Klesko R
+SB -- Counsell C, Nady X
+HBP -- by Johnson R (White R), by Johnson R (Vazquez R)
+WP -- Valverde J
+Balk -- Johnson R
+T -- 2:51
+A -- 28569
+     Game of 7/21/2003 -- St. Louis at San Diego (N)
+
+  St. Louis          AB  R  H RBI    San Diego          AB  R  H RBI
+Hart B, 2b            4  0  0  0   Vazquez R, ss         5  0  0  0   
+Drew J, rf-cf         4  0  1  0   Kotsay M, cf          4  2  1  0   
+Pujols A, lf          4  1  1  1   Loretta M, 2b         4  2  3  0   
+Edmonds J, cf         2  1  0  0   Klesko R, 1b          3  0  2  3   
+Kline S, p            0  0  0  0   Burroughs S, 3b       4  0  0  1   
+Perez E, rf           1  0  0  0   Matthews G, lf        4  0  1  0   
+Rolen S, 3b           5  0  0  0   Nady X, rf            3  0  0  0   
+Martinez T, 1b        5  1  2  1   Linebrink S, p        0  0  0  0   
+Renteria E, ss        3  0  0  0   Matthews M, p         0  0  0  0   
+Matheny M, c          3  0  0  0   Hackman L, p          0  0  0  0   
+Morris M, p           0  0  0  0   White R, ph           0  0  0  0   
+Simontacchi J, p      1  0  1  0   Ojeda M, c            1  1  1  1   
+Robinson K, ph        1  0  1  1   Bennett G, c          3  0  1  0   
+Yan E, p              0  0  0  0   Hansen D, ph          1  0  0  0   
+Palmeiro O, ph-rf     2  1  2  0   Witasick J, p         0  0  0  0   
+Eldred C, p           0  0  0  0   Peavy J, p            2  0  1  0   
+Painter L, p          0  0  0  0   Buchanan B, rf        2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  3                        36  5 11  5
+
+St. Louis        000 300 100 0 --  4
+San Diego        101 010 010 1 --  5
+  1 out when winning run was scored.
+
+  St. Louis            IP  H  R ER BB SO
+Morris M              0.2  0  0  0  0  1
+Simontacchi J         2.1  6  2  2  0  0
+Yan E                 3.0  2  1  1  1  3
+Kline S               1.2  1  1  1  1  2
+Eldred C              0.2  1  0  0  1  2
+Painter L (L)         1.0  1  1  1  2  1
+
+  San Diego            IP  H  R ER BB SO
+Peavy J               6.1  5  4  3  6  3
+Linebrink S           0.1  2  0  0  1  0
+Matthews M            0.1  0  0  0  0  0
+Hackman L             1.0  1  0  0  0  1
+Witasick J (W)        2.0  0  0  0  0  1
+
+E -- Nady X
+DP -- St. Louis 1, San Diego 1
+LOB -- St. Louis 9, San Diego 10
+2B -- Loretta M, Klesko R 2, Buchanan B
+3B -- Loretta M
+HR -- Ojeda M
+SB -- Matthews G
+SH -- Hart B
+SF -- Klesko R, Burroughs S
+T -- 3:32
+A -- 26881
+     Game of 7/22/2003 -- St. Louis at San Diego (N)
+
+  St. Louis          AB  R  H RBI    San Diego          AB  R  H RBI
+Hart B, 2b            5  0  2  0   Vazquez R, ss         3  1  1  0   
+Palmeiro O, cf        5  1  2  0   Matthews G, cf        4  2  2  0   
+Pujols A, lf-1b       4  1  2  0   Loretta M, 2b         3  0  0  0   
+Rolen S, 3b           2  0  1  1   Klesko R, 1b          2  0  1  1   
+Renteria E, ss        4  0  2  1   White R, lf           4  0  1  2   
+Perez E, rf           3  0  0  0   Buchanan B, rf        2  0  0  0   
+Martinez T, 1b        4  0  0  0   Beck R, p             0  0  0  0   
+Kline S, p            0  0  0  0   Bennett G, c          4  0  0  0   
+Matheny M, c          3  0  0  0   Merloni L, 3b         2  0  1  0   
+Edmonds J, ph         0  0  0  0   Burroughs S, 3b       1  0  0  0   
+Fassero J, p          1  0  0  0   Perez O, p            2  0  0  0   
+Delgado W, ph         1  0  0  0   Hackman L, p          0  0  0  0   
+Stephenson G, p       0  0  0  0   Matthews M, p         0  0  0  0   
+Drew J, ph            1  0  0  0   Nady X, ph-rf         1  0  0  0   
+Crudale M, p          0  0  0  0                                      
+Robinson K, lf        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  9  2                        28  3  6  3
+
+St. Louis        000 002 000 --  2
+San Diego        100 020 00x --  3
+
+  St. Louis            IP  H  R ER BB SO
+Fassero J (L)         4.0  5  1  1  1  7
+Stephenson G          2.0  1  2  2  2  1
+Crudale M             1.0  0  0  0  2  0
+Kline S               1.0  0  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Perez O (W)           7.0  7  2  2  1  7
+Hackman L             0.2  2  0  0  1  0
+Matthews M            0.1  0  0  0  0  0
+Beck R (S)            1.0  0  0  0  1  1
+
+DP -- San Diego 1
+LOB -- St. Louis 9, San Diego 10
+2B -- Pujols A
+SH -- Perez O, Robinson K
+SF -- Klesko R, Rolen S
+HBP -- by Stephenson G (Loretta M), by Stephenson G (Merloni L)
+WP -- Fassero J
+T -- 2:48
+A -- 22291
+     Game of 7/23/2003 -- St. Louis at San Diego (D)
+
+  St. Louis          AB  R  H RBI    San Diego          AB  R  H RBI
+Hart B, 2b            6  1  1  0   Vazquez R, ss         5  0  0  0   
+Drew J, cf            5  0  1  0   Kotsay M, cf          4  2  2  0   
+Pujols A, lf          4  2  2  1   Wright J, p           0  0  0  0   
+Martinez T, 1b        5  3  3  0   Burroughs S, ph       0  0  0  0   
+Rolen S, 3b           3  0  2  2   Jarvis K, pr          0  0  0  0   
+Renteria E, ss        5  1  3  2   Loretta M, 2b         5  0  3  3   
+Robinson K, rf        5  1  3  0   Klesko R, 1b          5  0  2  0   
+Widger C, c           4  0  1  1   Nevin P, rf           3  0  1  0   
+Tomko B, p            2  0  0  0   White R, lf           3  1  1  0   
+Palmeiro O, ph        1  0  1  1   Linebrink S, p        0  0  0  0   
+Yan E, p              0  0  0  0   Buchanan B, lf        1  0  0  0   
+Kline S, p            0  0  0  0   Hansen D, 3b          4  0  1  0   
+Perez E, ph           1  0  0  0   Ojeda M, c            3  0  1  1   
+Painter L, p          0  0  0  0   Lawrence B, p         2  0  1  0   
+Eldred C, p           0  0  0  0   Matthews G, lf-cf     1  1  0  0   
+Delgado W, ph         1  0  0  0                                      
+Crudale M, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42  8 17  7                        36  4 12  4
+
+St. Louis        201 002 210 --  8
+San Diego        111 000 001 --  4
+
+  St. Louis            IP  H  R ER BB SO
+Tomko B (W)           5.0 10  3  3  1  6
+Yan E                 0.2  0  0  0  1  0
+Kline S               0.1  0  0  0  0  0
+Painter L             1.0  0  0  0  0  0
+Eldred C              1.0  2  0  0  0  1
+Crudale M             1.0  0  1  1  2  0
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (L)        5.2 10  5  4  1  3
+Linebrink S           1.2  6  3  3  1  3
+Wright J              1.2  1  0  0  1  1
+
+E -- Kotsay M
+DP -- St. Louis 2
+LOB -- St. Louis 11, San Diego 9
+2B -- Kotsay M 2, Robinson K, Renteria E, Pujols A
+3B -- White R
+CS -- Drew J
+SF -- Rolen S
+WP -- Crudale M
+PB -- Ojeda M
+T -- 3:10
+A -- 20574
+     Game of 8/5/2003 -- Chicago at San Diego (N)
+
+  Chicago            AB  R  H RBI    San Diego          AB  R  H RBI
+Lofton K, cf          4  1  1  0   Matthews G, cf        4  0  0  0   
+Martinez R, 2b        3  0  2  1   Burroughs S, 3b       4  0  0  0   
+Sosa S, rf            4  0  1  0   Loretta M, 2b         3  0  1  0   
+Alou M, lf            3  1  1  0   Klesko R, 1b          3  0  0  0   
+Choi H, 1b            3  0  0  0   Nevin P, rf           4  0  1  0   
+Ramirez A, 3b         4  1  2  2   White R, lf           3  0  0  0   
+Gonzalez A, ss        4  0  0  0   Vazquez R, ss         1  0  1  0   
+Miller D, c           4  0  0  0   Buchanan B, ph        1  0  0  0   
+Prior M, p            2  0  1  0   Merloni L, ss         1  0  0  0   
+Farnsworth K, p       0  0  0  0   Bennett G, c          3  0  0  0   
+Guthrie M, p          0  0  0  0   Lawrence B, p         1  0  0  0   
+Glanville D, ph       1  0  0  0   Hansen D, ph          1  0  0  0   
+Remlinger M, p        0  0  0  0   Hackman L, p          0  0  0  0   
+Borowski J, p         0  0  0  0   Ojeda M, ph           1  0  0  0   
+                                   Wright J, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  8  3                        30  0  3  0
+
+Chicago          001 000 002 --  3
+San Diego        000 000 000 --  0
+
+  Chicago              IP  H  R ER BB SO
+Prior M (W)           6.0  2  0  0  1  6
+Farnsworth K          0.1  1  0  0  2  0
+Guthrie M             0.2  0  0  0  0  1
+Remlinger M           1.0  0  0  0  0  0
+Borowski J (S)        1.0  0  0  0  1  1
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (L)        6.0  6  1  1  1  3
+Hackman L             2.0  0  0  0  1  2
+Wright J              1.0  2  2  2  0  1
+
+E -- Choi H 2, Ramirez A
+DP -- Chicago 2, San Diego 1
+LOB -- Chicago 5, San Diego 7
+2B -- Martinez R, Loretta M, Alou M
+HR -- Ramirez A
+CS -- Vazquez R
+SH -- Choi H
+T -- 2:34
+A -- 30932
+     Game of 8/6/2003 -- Chicago at San Diego (N)
+
+  Chicago            AB  R  H RBI    San Diego          AB  R  H RBI
+Lofton K, cf          4  0  1  1   Vazquez R, ss         4  0  0  0   
+Martinez R, 2b        4  1  1  0   Kotsay M, cf          4  0  1  0   
+Sosa S, rf            4  1  1  2   Loretta M, 2b         2  2  1  1   
+Alou M, lf            3  0  1  0   Nevin P, rf           4  0  1  0   
+Choi H, 1b            3  0  1  0   Buchanan B, rf        0  0  0  0   
+Ramirez A, 3b         4  0  0  0   Klesko R, 1b          3  0  0  0   
+Gonzalez A, ss        4  1  1  0   White R, lf           4  0  2  1   
+Miller D, c           4  0  1  0   Witasick J, p         0  0  0  0   
+Wood K, p             3  0  0  0   Burroughs S, 3b       3  0  0  0   
+Guthrie M, p          0  0  0  0   Ojeda M, c            4  0  0  0   
+Farnsworth K, p       0  0  0  0   Eaton A, p            2  0  0  0   
+O'Leary T, ph         1  0  0  0   Hansen D, ph          1  0  0  0   
+Borowski J, p         0  0  0  0   Linebrink S, p        0  0  0  0   
+                                   Matthews G, lf        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  7  3                        32  2  5  2
+
+Chicago          000 210 000 --  3
+San Diego        000 001 010 --  2
+
+  Chicago              IP  H  R ER BB SO
+Wood K (W)            7.1  5  2  2  4 10
+Guthrie M             0.1  0  0  0  0  0
+Farnsworth K          0.1  0  0  0  0  0
+Borowski J (S)        1.0  0  0  0  0  1
+
+  San Diego            IP  H  R ER BB SO
+Eaton A (L)           7.0  6  3  3  1  8
+Linebrink S           1.1  0  0  0  1  1
+Witasick J            0.2  1  0  0  0  0
+
+LOB -- Chicago 6, San Diego 7
+2B -- Gonzalez A
+HR -- Sosa S, Loretta M
+T -- 2:42
+A -- 29265
+     Game of 8/7/2003 -- Chicago at San Diego (D)
+
+  Chicago            AB  R  H RBI    San Diego          AB  R  H RBI
+Lofton K, cf          3  2  2  1   Vazquez R, ss         4  0  0  0   
+Glanville D, ph-cf    2  0  0  0   Kotsay M, cf          5  1  3  0   
+Martinez R, 2b        5  1  2  2   Loretta M, 2b         2  0  1  0   
+Sosa S, rf            4  1  2  2   Merloni L, ph-2b      2  1  1  0   
+O'Leary T, rf         1  0  0  0   Nevin P, rf-1b        5  0  2  1   
+Alou M, lf            4  1  2  2   Klesko R, 1b          3  0  2  1   
+Ramirez A, 3b         5  1  1  0   Buchanan B, rf        2  0  0  0   
+Karros E, 1b          4  2  2  2   White R, lf           3  0  1  0   
+Gonzalez A, ss        4  0  0  0   Wright J, p           0  0  0  0   
+Remlinger M, p        0  0  0  0   Bennett G, ph         1  0  0  0   
+Veres D, p            0  0  0  0   Matthews M, p         0  0  0  0   
+Alfonseca A, p        0  0  0  0   Burroughs S, 3b       3  0  0  0   
+Bako P, c             4  1  2  0   Hansen D, 3b          1  1  1  1   
+Zambrano C, p         3  0  0  0   Ojeda M, c            3  0  0  0   
+Ojeda A, ss           1  0  0  0   Jarvis K, p           0  0  0  0   
+                                   Roa J, p              1  0  1  0   
+                                   Matthews G, ph-lf     2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     40  9 13  9                        37  3 13  3
+
+Chicago          103 320 000 --  9
+San Diego        000 001 011 --  3
+
+  Chicago              IP  H  R ER BB SO
+Zambrano C (W)        6.0  7  1  1  3  8
+Remlinger M           1.0  1  0  0  0  3
+Veres D               1.0  1  1  1  0  1
+Alfonseca A           1.0  4  1  1  0  1
+
+  San Diego            IP  H  R ER BB SO
+Jarvis K (L)          3.2  9  7  7  0  3
+Roa J                 3.1  4  2  2  0  2
+Wright J              1.0  0  0  0  0  1
+Matthews M            1.0  0  0  0  1  2
+
+E -- Karros E
+DP -- Chicago 2
+LOB -- Chicago 5, San Diego 11
+2B -- Alou M
+HR -- Sosa S, Alou M, Karros E, Hansen D
+SB -- Lofton K 2
+SH -- Jarvis K
+T -- 2:55
+A -- 27673
+     Game of 8/8/2003 -- Cincinnati at San Diego (N)
+
+  Cincinnati         AB  R  H RBI    San Diego          AB  R  H RBI
+Jimenez D, 2b         3  0  0  0   Merloni L, 3b         5  0  0  0   
+Larkin B, ss          4  0  2  0   Klesko R, ph          0  0  0  0   
+Heredia F, p          0  0  0  0   Kotsay M, cf          4  0  3  1   
+LaRue J, c            1  0  0  0   Loretta M, 2b         5  0  2  0   
+Casey S, 1b           4  0  1  0   Nevin P, 1b           5  0  0  0   
+Larson B, 3b          5  0  0  0   White R, lf           3  0  1  0   
+Dunn A, lf            5  0  1  0   Buchanan B, rf        2  0  0  0   
+Mateo R, rf           5  0  0  0   Matthews G, ph-rf     2  0  0  0   
+Stinnett K, c         3  0  1  0   Bennett G, c          5  0  1  0   
+Reitsma C, p          0  0  0  0   Vazquez R, ss         5  0  0  0   
+Pena W, ph            1  0  1  0   Peavy J, p            3  0  0  0   
+Reith B, p            0  0  0  0   Ojeda M, ph           1  0  0  0   
+Taylor R, cf          5  0  1  0   Witasick J, p         0  0  0  0   
+Bale J, p             1  0  0  0   Beck R, p             0  0  0  0   
+Sullivan S, p         0  0  0  0   Burroughs S, ph       0  1  0  0   
+Budzinski M, ph       1  0  0  0                                      
+Riedling J, p         0  0  0  0                                      
+Wagner R, p           0  0  0  0                                      
+Branyan R, ph         0  0  0  0                                      
+Olmedo R, pr-ss       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  0  7  0                        40  1  7  1
+
+Cincinnati       000 000 000 000 --  0
+San Diego        000 000 000 001 --  1
+  1 out when winning run was scored.
+
+  Cincinnati           IP  H  R ER BB SO
+Bale J                4.2  5  0  0  2  1
+Sullivan S            0.1  0  0  0  0  0
+Riedling J            2.0  0  0  0  0  2
+Wagner R              1.0  1  0  0  1  1
+Heredia F             1.2  0  0  0  1  1
+Reitsma C             1.1  0  0  0  0  1
+Reith B (L)           0.1  1  1  1  2  0
+
+  San Diego            IP  H  R ER BB SO
+Peavy J               9.0  5  0  0  1  6
+Witasick J            2.0  0  0  0  3  3
+Beck R (W)            1.0  2  0  0  0  1
+
+DP -- Cincinnati 1, San Diego 1
+LOB -- Cincinnati 9, San Diego 12
+2B -- Kotsay M
+CS -- Buchanan B
+SH -- Jimenez D 2
+HBP -- by Bale J (White R)
+WP -- Wagner R
+T -- 3:33
+A -- 24543
+     Game of 8/9/2003 -- Cincinnati at San Diego (N)
+
+  Cincinnati         AB  R  H RBI    San Diego          AB  R  H RBI
+Jimenez D, 2b         4  3  2  0   Matthews G, lf        4  0  1  1   
+Larkin B, ss          4  1  3  0   Kotsay M, cf          5  1  2  0   
+Taylor R, pr-lf       1  1  1  4   Loretta M, 2b         4  2  2  0   
+Casey S, 1b           5  1  3  1   Nevin P, rf           5  0  0  0   
+Larson B, lf-3b       4  1  2  2   Klesko R, 1b          2  1  0  0   
+LaRue J, c            5  0  1  1   Burroughs S, 3b       4  0  2  3   
+Mateo R, rf           3  0  0  1   Ojeda M, c            4  0  1  0   
+Wagner R, p           0  0  0  0   Vazquez R, ss         2  1  1  0   
+Sullivan S, p         0  0  0  0   Merloni L, ph-ss      0  0  0  1   
+Heredia F, p          0  0  0  0   Perez O, p            2  0  1  0   
+Branyan R, ph         1  0  0  0   Linebrink S, p        0  0  0  0   
+Reitsma C, p          0  0  0  0   White R, ph           1  0  0  0   
+Castro J, 3b-ss       5  1  1  0   Wright J, p           0  0  0  0   
+Pena W, cf            5  0  1  0   Matthews M, p         0  0  0  0   
+Harang A, p           3  0  0  0   Roa J, p              0  0  0  0   
+Mercker K, p          0  0  0  0   Hansen D, ph          0  0  0  0   
+Dunn A, rf            0  1  0  0   Buchanan B, ph        1  0  0  0   
+                                   Hackman L, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  9 14  9                        34  5 10  5
+
+Cincinnati       000 103 140 --  9
+San Diego        001 002 020 --  5
+
+  Cincinnati           IP  H  R ER BB SO
+Harang A (W)          5.2  5  3  3  1  6
+Mercker K*            0.1  1  0  0  1  0
+Wagner R              1.1  1  2  2  3  1
+Sullivan S            0.1  1  0  0  0  0
+Heredia F             0.1  0  0  0  0  0
+Reitsma C             1.0  2  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Perez O (L)           6.0  8  4  4  1 11
+Linebrink S           1.0  3  1  1  0  2
+Wright J              0.1  1  3  3  2  1
+Matthews M            0.1  2  1  1  0  0
+Roa J                 0.1  0  0  0  0  1
+Hackman L             1.0  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+DP -- Cincinnati 2
+LOB -- Cincinnati 8, San Diego 8
+2B -- Burroughs S, Larson B
+HR -- Taylor R
+SF -- Mateo R, Merloni L
+WP -- Linebrink S, Wright J 2
+T -- 3:27
+A -- 36745
+     Game of 8/10/2003 -- Cincinnati at San Diego (D)
+
+  Cincinnati         AB  R  H RBI    San Diego          AB  R  H RBI
+Jimenez D, 2b         5  0  2  0   Vazquez R, ss         4  0  0  0   
+Larkin B, ss          2  0  1  0   Kotsay M, cf          4  0  2  0   
+Mercker K, p          0  0  0  0   Loretta M, 2b         4  1  2  0   
+Riedling J, p         0  0  0  0   Nevin P, rf           3  1  2  0   
+Casey S, ph           1  0  0  0   Matthews G, rf        1  0  0  0   
+Mateo R, rf           4  0  3  0   Klesko R, 1b          4  0  2  0   
+Branyan R, ph         1  0  0  0   White R, lf           4  0  3  1   
+Dunn A, 1b            2  0  0  0   Burroughs S, 3b       4  0  1  0   
+Larson B, lf          4  0  0  0   Bennett G, c          3  0  1  1   
+Stinnett K, c         4  0  0  0   Lawrence B, p         2  0  0  0   
+Taylor R, cf          4  0  1  0   Hansen D, ph          1  0  0  0   
+Castro J, 3b          4  0  0  0   Hackman L, p          0  0  0  0   
+Graves D, p           3  0  0  0   Witasick J, p         0  0  0  0   
+Olmedo R, ss          0  0  0  0   Beck R, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  0  7  0                        34  2 13  2
+
+Cincinnati       000 000 000 --  0
+San Diego        000 002 00x --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Graves D (L)          6.0 10  2  2  1  3
+Mercker K             1.1  2  0  0  0  0
+Riedling J            0.2  1  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (W)        6.0  6  0  0  2  4
+Hackman L*            1.0  0  0  0  2  0
+Witasick J            1.0  0  0  0  0  1
+Beck R (S)            1.0  1  0  0  1  1
+  * Pitched to 1 batter in 8th
+
+E -- Vazquez R
+DP -- Cincinnati 1, San Diego 1
+LOB -- Cincinnati 12, San Diego 9
+2B -- Kotsay M, White R, Jimenez D
+SB -- Larson B, Taylor R, Bennett G
+CS -- Loretta M
+WP -- Witasick J
+T -- 2:43
+A -- 24141
+     Game of 8/19/2003 -- New York at San Diego (N)
+
+  New York           AB  R  H RBI    San Diego          AB  R  H RBI
+Cedeno R, rf          4  0  3  0   Matthews G, lf        4  0  1  0   
+Reyes J, ss           4  0  0  0   Kotsay M, cf          3  0  1  1   
+Piazza M, c           2  1  0  0   Loretta M, 2b         1  1  0  0   
+Wilson V, c           0  0  0  0   Nevin P, rf           4  1  1  2   
+Phillips J, 1b        4  0  1  0   Klesko R, 1b          4  0  1  0   
+Perez T, lf           4  0  1  1   Merloni L, ss         4  0  0  0   
+Wigginton T, 3b       4  0  0  0   Burroughs S, 3b       3  0  1  0   
+Duncan J, cf          3  0  0  0   Bennett G, c          3  0  1  0   
+Clark T, ph           1  0  0  0   Jarvis K, p           1  1  1  0   
+Scutaro M, 2b         3  1  2  1   Ojeda M, ph           1  0  0  0   
+Glavine T, p          3  0  0  0   Linebrink S, p        0  0  0  0   
+Weathers D, p         0  0  0  0   Beck R, p             0  0  0  0   
+Stanton M, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        28  3  7  3
+
+New York         100 010 000 --  2
+San Diego        001 000 02x --  3
+
+  New York             IP  H  R ER BB SO
+Glavine T             6.2  6  1  1  3  5
+Weathers D            0.1  0  0  0  0  1
+Stanton M (L)         1.0  1  2  2  1  2
+
+  San Diego            IP  H  R ER BB SO
+Jarvis K              7.0  7  2  2  2  0
+Linebrink S (W)       1.0  0  0  0  0  1
+Beck R (S)            1.0  0  0  0  0  0
+
+DP -- New York 1, San Diego 1
+LOB -- New York 5, San Diego 6
+2B -- Phillips J, Cedeno R 2
+3B -- Kotsay M
+HR -- Scutaro M, Nevin P
+SB -- Matthews G
+CS -- Merloni L
+SH -- Jarvis K
+T -- 2:40
+A -- 21794
+     Game of 8/20/2003 -- New York at San Diego (N)
+
+  New York           AB  R  H RBI    San Diego          AB  R  H RBI
+Cedeno R, rf          5  0  2  0   Vazquez R, ss         4  0  0  0   
+Reyes J, ss           4  1  1  0   Kotsay M, cf          4  0  0  0   
+Piazza M, c           3  0  1  0   Loretta M, 2b         4  1  1  1   
+Scutaro M, pr         0  0  0  0   Nevin P, rf           3  1  1  0   
+Wilson V, c           0  0  0  0   Klesko R, 1b          4  0  1  0   
+Phillips J, 1b        4  0  1  0   White R, lf           3  0  0  0   
+Perez T, lf           4  0  1  1   Witasick J, p         0  0  0  0   
+Wigginton T, 3b       3  0  1  0   Beck R, p             0  0  0  0   
+Duncan J, cf          4  0  1  0   Hansen D, ph          0  0  0  0   
+McEwing J, 2b         4  0  0  0   Burroughs S, 3b       3  0  1  1   
+Heilman A, p          2  0  0  0   Bennett G, c          1  0  0  0   
+Clark T, ph           1  0  0  0   Peavy J, p            0  0  0  0   
+Franco J, p           0  0  0  0   Matthews G, ph-lf     1  0  0  0   
+Gonzalez R, ph        1  0  0  0                                      
+Roberts G, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  1  8  1                        27  2  4  2
+
+New York         000 000 010 --  1
+San Diego        000 001 001 --  2
+  1 out when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Heilman A             6.0  2  1  1  5  3
+Franco J              2.0  0  0  0  0  1
+Roberts G (L)         0.1  2  1  1  1  1
+
+  San Diego            IP  H  R ER BB SO
+Peavy J               7.0  6  0  0  1  7
+Witasick J            1.2  2  1  1  2  2
+Beck R (W)            0.1  0  0  0  0  1
+
+LOB -- New York 10, San Diego 7
+2B -- Perez T, Cedeno R
+HR -- Loretta M
+SB -- Nevin P
+CS -- Burroughs S
+SH -- Peavy J
+WP -- Heilman A 2
+T -- 2:44
+A -- 16532
+     Game of 8/21/2003 -- New York at San Diego (D)
+
+  New York           AB  R  H RBI    San Diego          AB  R  H RBI
+Cedeno R, rf          3  2  1  2   Vazquez R, ss         5  0  1  0   
+Weathers D, p         0  0  0  0   Kotsay M, cf          4  0  2  0   
+Reyes J, ss           3  1  0  0   Loretta M, 2b         4  0  0  0   
+Phillips J, c         3  0  0  0   Nevin P, rf           4  0  1  0   
+Clark T, 1b           4  0  1  0   Klesko R, 1b          2  1  0  0   
+Wigginton T, 3b       4  1  1  3   White R, lf           4  0  1  0   
+Gonzalez R, cf-rf     3  0  0  0   Burroughs S, 3b       4  0  2  1   
+Perez T, rf           0  0  0  0   Ojeda M, c            3  0  0  0   
+Scutaro M, 2b         4  1  1  0   Hansen D, ph          1  0  0  0   
+McEwing J, lf         3  0  0  0   Perez O, p            2  0  0  0   
+Seo J, p              2  0  0  0   Merloni L, ph         1  0  0  0   
+Bell J, ph            1  0  0  0   Matthews M, p         0  0  0  0   
+Stanton M, p          0  0  0  0   Hackman L, p          0  0  0  0   
+Duncan J, cf          0  0  0  0   Matthews G, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  5  4  5                        35  1  7  1
+
+New York         320 000 000 --  5
+San Diego        000 100 000 --  1
+
+  New York             IP  H  R ER BB SO
+Seo J (W)             6.0  6  1  1  1  2
+Stanton M             1.0  0  0  0  0  1
+Weathers D            2.0  1  0  0  1  3
+
+  San Diego            IP  H  R ER BB SO
+Perez O (L)           7.0  4  5  5  3  9
+Matthews M            1.0  0  0  0  0  0
+Hackman L             1.0  0  0  0  0  1
+
+E -- Scutaro M
+DP -- San Diego 1
+LOB -- New York 2, San Diego 9
+2B -- Kotsay M, Scutaro M, White R, Burroughs S
+3B -- Burroughs S
+HR -- Wigginton T, Cedeno R
+HBP -- by Hackman L (Gonzalez R)
+T -- 2:35
+A -- 21958
+     Game of 8/22/2003 -- Montreal at San Diego (N)
+
+  Montreal           AB  R  H RBI    San Diego          AB  R  H RBI
+Chavez E, cf          4  0  0  0   Burroughs S, 3b       3  1  2  0   
+Vidro J, 2b           4  1  1  0   Kotsay M, cf          5  1  3  2   
+Guerrero V, rf        4  0  2  1   Loretta M, 2b         5  0  1  0   
+Cabrera O, ss         3  0  0  0   Nevin P, rf           3  0  0  0   
+Wilkerson B, lf       4  0  0  0   Matthews G, pr-rf     1  0  0  0   
+Cordero W, 1b         4  1  2  0   Klesko R, 1b          3  1  0  0   
+Zeile T, 3b           4  0  0  0   White R, lf           4  1  1  0   
+Schneider B, c        3  1  1  0   Vazquez R, ss         4  1  3  1   
+Ohka T, p             2  0  1  2   Bennett G, c          3  0  2  2   
+Calloway R, ph        1  0  0  0   Lawrence B, p         2  0  0  0   
+Eischen J, p          0  0  0  0   Hansen D, ph          1  0  0  0   
+Almonte H, p          0  0  0  0   Linebrink S, p        0  0  0  0   
+Ayala L, p            0  0  0  0   Buchanan B, ph        1  0  0  0   
+                                   Witasick J, p         0  0  0  0   
+                                   Beck R, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        35  5 12  5
+
+Montreal         120 000 000 --  3
+San Diego        000 002 30x --  5
+
+  Montreal             IP  H  R ER BB SO
+Ohka T                6.0  9  2  2  0  1
+Eischen J (L)*        0.0  1  2  2  1  0
+Almonte H             0.1  0  1  1  2  0
+Ayala L               1.2  2  0  0  2  1
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B            6.0  6  3  3  0  3
+Linebrink S (W)       1.0  1  0  0  0  0
+Witasick J            1.0  0  0  0  0  2
+Beck R (S)            1.0  0  0  0  1  1
+  * Pitched to 2 batters in 7th
+
+DP -- Montreal 1, San Diego 1
+LOB -- Montreal 4, San Diego 13
+2B -- Vidro J, Guerrero V, Schneider B, Vazquez R, White R
+3B -- Guerrero V, Vazquez R
+HR -- Kotsay M
+SB -- Wilkerson B
+HBP -- by Ohka T (Burroughs S), by Almonte H (White R)
+WP -- Ohka T, Almonte H
+T -- 2:44
+A -- 17590
+     Game of 8/23/2003 -- Montreal at San Diego (N)
+
+  Montreal           AB  R  H RBI    San Diego          AB  R  H RBI
+Wilkerson B, cf       3  0  1  0   Burroughs S, 3b       4  0  1  0   
+Vidro J, 2b           4  0  2  0   Kotsay M, cf          3  0  0  1   
+Cabrera O, ss         4  0  0  0   Loretta M, 2b         4  0  1  0   
+Guerrero V, rf        4  0  0  0   Nevin P, rf           4  0  0  0   
+Calloway R, lf        4  0  1  0   Klesko R, 1b          4  0  0  0   
+Cordero W, 1b         4  0  0  0   White R, lf           3  0  0  0   
+Zeile T, 3b           3  0  0  0   Witasick J, p         0  0  0  0   
+Schneider B, c        4  0  0  0   Matthews M, p         0  0  0  0   
+Vazquez J, p          3  0  0  0   Hansen D, ph          1  0  0  0   
+Macias J, ph          1  0  0  0   Vazquez R, ss         4  0  1  0   
+Biddle R, p           0  0  0  0   Bennett G, c          3  0  1  0   
+                                   Buchanan B, pr        0  1  0  0   
+                                   Eaton A, p            2  0  0  0   
+                                   Matthews G, lf        2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  0  4  0                        34  1  5  1
+
+Montreal         000 000 000 0 --  0
+San Diego        000 000 000 1 --  1
+  2 outs when winning run was scored.
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J             9.0  3  0  0  1 10
+Biddle R (L)          0.2  2  1  1  1  0
+
+  San Diego            IP  H  R ER BB SO
+Eaton A               7.1  4  0  0  2  5
+Witasick J            1.2  0  0  0  0  1
+Matthews M (W)        1.0  0  0  0  0  0
+
+E -- Vazquez J
+LOB -- Montreal 7, San Diego 8
+2B -- Burroughs S
+SB -- Calloway R
+SH -- Bennett G
+HBP -- by Eaton A (Zeile T), by Biddle R (Burroughs S)
+T -- 2:44
+A -- 29450
+     Game of 8/24/2003 -- Montreal at San Diego (D)
+
+  Montreal           AB  R  H RBI    San Diego          AB  R  H RBI
+Wilkerson B, cf-lf    4  2  3  3   Burroughs S, 3b       4  1  1  0   
+Carroll J, 3b         4  1  1  0   Kotsay M, cf          4  0  2  0   
+Vidro J, 2b           5  1  2  2   Klesko R, 1b          3  0  0  0   
+Guerrero V, rf        5  0  0  0   Nevin P, rf           4  0  1  0   
+Cabrera O, ss         4  1  2  1   Matthews G, lf        4  0  0  0   
+Calloway R, lf        4  0  1  0   Vazquez R, ss         4  0  0  0   
+Eischen J, p          1  0  0  0   Ojeda M, c            4  2  2  0   
+Cordero W, 1b         3  1  2  1   Merloni L, 2b         4  1  2  2   
+Guzman E, c           5  0  0  0   Jarvis K, p           1  0  0  0   
+Tucker T, p           2  1  1  0   Hansen D, ph          0  0  0  0   
+Knott E, p            1  0  0  0   White R, ph           1  0  0  0   
+Ayala L, p            0  0  0  0   Roa J, p              0  0  0  0   
+Chavez E, ph-cf       1  1  1  1   Buchanan B, ph        1  0  0  0   
+                                   Hackman L, p          0  0  0  0   
+                                   Loretta M, ph         1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  8 13  8                        35  4  9  2
+
+Montreal         010 030 220 --  8
+San Diego        000 030 100 --  4
+
+  Montreal             IP  H  R ER BB SO
+Tucker T              4.1  4  2  1  0  2
+Knott E (W)*          1.2  2  2  1  1  1
+Ayala L               1.0  2  0  0  1  2
+Eischen J             2.0  1  0  0  0  1
+
+  San Diego            IP  H  R ER BB SO
+Jarvis K (L)          5.0  7  4  3  1  4
+Roa J                 2.0  2  2  2  0  1
+Hackman L             2.0  4  2  2  2  2
+  * Pitched to 1 batter in 7th
+
+E -- Burroughs S, Ojeda M 2, Knott E
+DP -- Montreal 1
+LOB -- Montreal 9, San Diego 6
+2B -- Nevin P, Kotsay M, Tucker T, Ojeda M 2, Merloni L
+HR -- Wilkerson B, Vidro J
+SB -- Cabrera O
+SH -- Carroll J
+SF -- Cordero W
+PB -- Ojeda M
+T -- 3:09
+A -- 24707
+     Game of 9/2/2003 -- Arizona at San Diego (N)
+
+  Arizona            AB  R  H RBI    San Diego          AB  R  H RBI
+Counsell C, 2b        4  0  1  0   Burroughs S, 3b       3  1  1  0   
+Spivey J, ph          1  0  0  0   Loretta M, 2b         3  1  3  2   
+Cintron A, ss         4  0  0  0   Giles B, lf           3  0  0  1   
+Finley S, cf          3  0  0  0   Nevin P, 1b           4  1  2  2   
+Mondesi R, rf         2  0  0  0   Matthews G, rf        4  1  2  0   
+Bautista D, rf        1  0  0  0   Kotsay M, cf          4  0  0  0   
+Gonzalez L, lf        4  0  2  0   Bennett G, c          4  0  2  1   
+Hillenbrand S, 3b     4  1  1  1   Vazquez R, ss         4  1  1  0   
+Baerga C, 1b          4  1  2  0   Howard B, p           2  1  1  0   
+Barajas R, c          3  0  0  0   Lockhart K, ph        1  0  0  0   
+Overbay L, ph         1  0  0  0   Hoffman T, p          0  0  0  0   
+Capuano C, p          1  0  0  0   Matthews M, p         0  0  0  0   
+Reyes D, p            0  0  0  0   Buchanan B, ph        1  0  1  0   
+McCracken Q, ph       1  0  1  0   Hackman L, p          0  0  0  0   
+Patterson J, p        0  0  0  0   Walker K, p           0  0  0  0   
+Grace M, ph           1  0  0  0                                      
+Randolph S, p         0  0  0  0                                      
+Myers M, p            0  0  0  0                                      
+Jose F, ph            1  1  1  2                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        33  6 13  6
+
+Arizona          010 000 002 --  3
+San Diego        022 100 10x --  6
+
+  Arizona              IP  H  R ER BB SO
+Capuano C (L)         3.2  9  5  5  1  2
+Reyes D               0.1  0  0  0  0  0
+Patterson J           2.0  0  0  0  0  3
+Randolph S            1.0  2  1  1  1  1
+Myers M               1.0  2  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Howard B (W)          6.0  6  1  1  1  3
+Hoffman T             1.0  0  0  0  0  0
+Matthews M            1.0  0  0  0  0  0
+Hackman L             0.2  2  2  2  0  0
+Walker K              0.1  0  0  0  0  0
+
+DP -- Arizona 3
+LOB -- Arizona 7, San Diego 7
+2B -- Matthews G, Gonzalez L
+HR -- Hillenbrand S, Nevin P, Loretta M, Jose F
+SB -- Counsell C
+HBP -- by Capuano C (Burroughs S) 2, by Matthews M (Finley S)
+WP -- Hackman L
+T -- 2:41
+A -- 15808
+     Game of 9/3/2003 -- Arizona at San Diego (N)
+
+  Arizona            AB  R  H RBI    San Diego          AB  R  H RBI
+Counsell C, 3b        4  0  0  0   Burroughs S, 3b       5  2  2  1   
+Cintron A, ss         3  0  0  0   Loretta M, 2b         4  2  3  1   
+Dessens E, p          0  0  0  0   Villafuerte B, p      0  0  0  0   
+Hammock R, lf         0  0  0  0   Ojeda M, ph-1b        1  0  0  0   
+Finley S, cf          4  0  1  0   Giles B, lf           4  2  3  2   
+Hillenbrand S, 1b     3  0  0  0   Buchanan B, lf        0  1  0  0   
+Overbay L, 1b         1  0  1  0   Nevin P, 1b           2  1  0  1   
+Gonzalez L, lf        3  0  0  0   Hansen D, 1b          1  1  1  2   
+Reyes D, p            0  0  0  0   Roa J, p              0  0  0  0   
+Myers M, p            0  0  0  0   Matthews G, rf-cf     5  1  1  2   
+Grace M, ph           1  0  0  0   Kotsay M, cf          2  1  2  1   
+Bautista D, rf        3  0  2  0   Nady X, ph-rf         2  0  1  0   
+Spivey J, 2b          4  0  1  0   Vazquez R, ss-2b      3  0  0  0   
+Barajas R, c          2  0  0  0   Bennett G, c          3  1  1  1   
+Batista M, p          1  0  0  0   Quintero H, ph-c      1  0  1  0   
+McCracken Q, ph       1  0  0  0   Lawrence B, p         3  0  0  0   
+Kata M, ss            1  0  0  0   Greene K, ph-ss       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  5  0                        37 12 15 11
+
+Arizona          000 000 000 --  0
+San Diego        070 003 02x -- 12
+
+  Arizona              IP  H  R ER BB SO
+Batista M (L)         4.0  8  7  7  2  7
+Dessens E             2.0  4  3  2  0  1
+Reyes D               1.0  2  0  0  0  2
+Myers M               1.0  1  2  2  1  1
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (W)        7.0  4  0  0  2  4
+Villafuerte B         1.0  0  0  0  1  0
+Roa J                 1.0  1  0  0  0  1
+
+E -- Bautista D
+DP -- San Diego 1
+LOB -- Arizona 7, San Diego 6
+2B -- Finley S, Burroughs S
+3B -- Matthews G
+HR -- Hansen D
+SB -- Bautista D
+SH -- Vazquez R
+SF -- Nevin P
+WP -- Batista M
+T -- 2:28
+A -- 10810
+     Game of 9/5/2003 -- Houston at San Diego (N)
+
+  Houston            AB  R  H RBI    San Diego          AB  R  H RBI
+Biggio C, cf          4  2  2  1   Burroughs S, 3b       4  1  2  1   
+Blum G, 3b            4  1  2  0   Loretta M, 2b         4  0  0  0   
+Dotel O, p            0  0  0  0   Giles B, lf           3  1  1  0   
+Chavez R, c           1  0  0  0   Nevin P, 1b           4  1  1  3   
+Bagwell J, 1b         4  1  2  3   Matthews G, rf        3  0  1  0   
+Kent J, 2b            4  0  0  0   Kotsay M, cf          4  0  2  0   
+Berkman L, lf         4  1  1  0   Greene K, ss          4  0  0  0   
+Hidalgo R, rf         3  0  2  1   Bennett G, c          3  1  1  0   
+Ausmus B, c           4  0  0  0   Eaton A, p            2  0  0  0   
+Wagner B, p           0  0  0  0   Linebrink S, p        0  0  0  0   
+Everett A, ss         3  0  0  0   Hansen D, ph          1  0  0  0   
+Fernandez J, p        2  0  0  0   Hoffman T, p          0  0  0  0   
+Merced O, ph          1  0  0  0   Witasick J, p         0  0  0  0   
+Miceli D, p           0  0  0  0   Buchanan B, ph        1  0  0  0   
+Gallo M, p            0  0  0  0                                      
+Lidge B, p            0  0  0  0                                      
+Ensberg M, 3b         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  5                        33  4  8  4
+
+Houston          011 030 000 --  5
+San Diego        003 000 100 --  4
+
+  Houston              IP  H  R ER BB SO
+Fernandez J (W)       5.0  5  3  3  2  1
+Miceli D              0.1  1  0  0  0  0
+Gallo M               0.2  0  0  0  0  0
+Lidge B               0.2  1  1  1  1  2
+Dotel O               1.0  0  0  0  1  1
+Wagner B (S)          1.1  1  0  0  0  0
+
+  San Diego            IP  H  R ER BB SO
+Eaton A (L)           6.0  7  5  5  2  6
+Linebrink S           1.0  1  0  0  0  0
+Hoffman T             1.0  1  0  0  0  1
+Witasick J            1.0  0  0  0  1  0
+
+DP -- Houston 2, San Diego 1
+LOB -- Houston 6, San Diego 6
+2B -- Hidalgo R 2
+HR -- Biggio C, Nevin P, Bagwell J
+SB -- Burroughs S 2, Hidalgo R, Bennett G
+T -- 2:41
+A -- 20738
+     Game of 9/6/2003 -- Houston at San Diego (N)
+
+  Houston            AB  R  H RBI    San Diego          AB  R  H RBI
+Biggio C, cf          4  1  1  1   Burroughs S, 3b       4  0  0  0   
+Ensberg M, 3b         4  0  4  4   Loretta M, 2b         3  1  0  0   
+Wagner B, p           1  0  0  0   Giles B, lf           3  2  1  0   
+Bagwell J, 1b         6  0  1  0   Nevin P, 1b           4  1  3  4   
+Kent J, 2b            5  0  0  0   Matthews G, rf        3  0  0  0   
+Berkman L, lf         2  1  0  0   Kotsay M, cf          2  0  0  0   
+Hidalgo R, rf         3  2  2  0   Greene K, ss          4  0  1  0   
+Ausmus B, c           3  2  2  0   Bennett G, c          3  0  0  0   
+Everett A, ss         4  3  1  2   Buchanan B, ph        1  0  0  0   
+Villone R, p          1  0  0  0   Hackman L, p          0  0  0  0   
+White R, p            0  0  0  0   Bynum M, p            0  0  0  0   
+Merced O, ph          1  0  0  0   Roa J, p              0  0  0  0   
+Miceli D, p           0  0  0  0   Jarvis K, p           2  0  0  0   
+Bruntlett E, ph       1  0  0  0   Villafuerte B, p      0  0  0  0   
+Gallo M, p            0  0  0  0   Linebrink S, p        0  0  0  0   
+Lidge B, p            0  0  0  0   Lockhart K, ph        1  0  0  0   
+Vizcaino J, ph        1  0  1  0   Witasick J, p         0  0  0  0   
+Porter C, pr          0  1  0  0   Quintero H, c         1  0  0  0   
+Dotel O, p            0  0  0  0                                      
+Blum G, 3b            1  0  1  3                                      
+                     -- -- -- --                        -- -- -- --
+                     37 10 13 10                        31  4  5  4
+
+Houston          100 300 024 -- 10
+San Diego        301 000 000 --  4
+
+  Houston              IP  H  R ER BB SO
+Villone R*            2.0  4  4  4  3  3
+White R               1.0  0  0  0  0  1
+Miceli D              2.0  0  0  0  1  0
+Gallo M               1.0  0  0  0  0  0
+Lidge B (W)           1.0  0  0  0  1  1
+Dotel O               0.1  1  0  0  1  0
+Wagner B (S)          1.2  0  0  0  1  1
+
+  San Diego            IP  H  R ER BB SO
+Jarvis K              4.2  7  4  4  2  5
+Villafuerte B         1.1  0  0  0  2  2
+Linebrink S           1.0  0  0  0  1  0
+Witasick J (L)        1.0  4  2  2  0  0
+Hackman L             0.1  1  4  4  2  0
+Bynum M+              0.0  1  0  0  1  0
+Roa J                 0.2  0  0  0  0  1
+  * Pitched to 2 batters in 3rd
+  + Pitched to 2 batters in 9th
+
+E -- Giles B
+DP -- Houston 1
+LOB -- Houston 11, San Diego 7
+2B -- Ensberg M 2, Nevin P, Hidalgo R, Blum G
+HR -- Biggio C, Nevin P
+CS -- Hidalgo R
+HBP -- by Jarvis K (Berkman L), by Jarvis K (Hidalgo R), by Hackman L (Everett A)
+PB -- Ausmus B
+T -- 3:25
+A -- 24383
+     Game of 9/7/2003 -- Houston at San Diego (D)
+
+  Houston            AB  R  H RBI    San Diego          AB  R  H RBI
+Biggio C, cf          3  0  0  0   Burroughs S, 3b       3  1  1  0   
+Ensberg M, 3b         4  0  1  0   Vazquez R, 2b         3  0  1  1   
+Bagwell J, 1b         4  0  1  0   Giles B, lf           3  1  2  3   
+Kent J, 2b            4  1  2  1   Nevin P, 1b           4  0  0  0   
+Berkman L, lf         2  0  0  0   Matthews G, rf        3  1  1  0   
+Hidalgo R, rf         3  0  0  0   Linebrink S, p        0  0  0  0   
+Ausmus B, c           2  0  0  0   Kotsay M, cf          3  1  1  0   
+Saarloos K, p         0  0  0  0   Greene K, ss          3  1  0  0   
+Bullinger K, p        0  0  0  0   Bennett G, c          4  2  2  3   
+Meluskey M, ph        1  0  0  0   Peavy J, p            1  0  0  0   
+Everett A, ss         3  0  1  0   Hansen D, ph          1  0  0  0   
+Chavez R, c           1  0  0  0   Villafuerte B, p      0  0  0  0   
+Miller W, p           2  0  0  0   Roa J, p              0  0  0  0   
+Gallo M, p            0  0  0  0   Walker K, p           0  0  0  0   
+Stone R, p            0  0  0  0   Nady X, rf            1  0  0  0   
+Vizcaino J, ph-ss     2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        29  7  8  7
+
+Houston          000 100 000 --  1
+San Diego        200 014 00x --  7
+
+  Houston              IP  H  R ER BB SO
+Miller W (L)          4.1  4  3  3  3  5
+Gallo M*              0.2  2  2  2  0  0
+Stone R               1.0  2  2  2  0  0
+Saarloos K            1.0  0  0  0  0  1
+Bullinger K           1.0  0  0  0  0  1
+
+  San Diego            IP  H  R ER BB SO
+Peavy J (W)           6.0  2  1  1  5  6
+Villafuerte B         1.0  1  0  0  0  0
+Roa J                 0.2  2  0  0  0  0
+Walker K+             0.0  0  0  0  1  0
+Linebrink S           1.1  0  0  0  1  1
+  * Pitched to 2 batters in 6th
+  + Pitched to 1 batter in 8th
+
+E -- Greene K
+DP -- Houston 1, San Diego 2
+LOB -- Houston 10, San Diego 5
+2B -- Burroughs S, Giles B, Bennett G, Bagwell J
+HR -- Giles B, Kent J
+CS -- Matthews G
+SH -- Peavy J
+HBP -- by Miller W (Burroughs S), by Miller W (Vazquez R), by Stone R (Greene K)
+PB -- Bennett G
+T -- 2:40
+A -- 24761
+     Game of 9/9/2003 -- San Francisco at San Diego (N)
+
+  San Francisco      AB  R  H RBI    San Diego          AB  R  H RBI
+Young E, 2b           3  1  1  0   Burroughs S, 3b       5  0  1  0   
+Durham R, 2b          1  0  1  0   Loretta M, 2b         4  0  1  0   
+Snow J, 1b            4  1  1  2   Giles B, lf           5  1  2  0   
+Aurilia R, ss         5  1  2  1   Nevin P, 1b           4  1  1  0   
+Bonds B, lf           2  2  2  0   Matthews G, rf        3  1  2  1   
+Alfonzo E, 3b         5  1  1  2   Kotsay M, cf          3  0  1  0   
+Grissom M, cf         5  1  1  2   Vazquez R, ss         2  0  0  0   
+Cruz J, rf            4  0  1  0   Ojeda M, ph           0  0  0  1   
+Torrealba Y, c        5  1  1  1   Greene K, ss          0  0  0  0   
+Correia K, p          2  0  0  0   Quintero H, c         3  0  1  1   
+Benard M, ph          1  0  0  0   Howard B, p           2  0  0  0   
+Brower J, p           1  0  0  0   Hackman L, p          0  0  0  0   
+Eyre S, p             0  0  0  0   Walker K, p           0  0  0  0   
+Rodriguez F, p        0  0  0  0   Hansen D, ph          1  0  0  0   
+                                   Roa J, p              0  0  0  0   
+                                   Bynum M, p            0  0  0  0   
+                                   Lockhart K, ph        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 11  8                        33  3  9  3
+
+San Francisco    001 100 402 --  8
+San Diego        010 000 020 --  3
+
+  San Francisco        IP  H  R ER BB SO
+Correia K (W)         5.0  4  1  1  4  3
+Brower J*             2.0  4  2  2  1  0
+Eyre S                1.0  0  0  0  0  1
+Rodriguez F           1.0  1  0  0  0  1
+
+  San Diego            IP  H  R ER BB SO
+Howard B (L)          5.0  4  2  2  5  4
+Hackman L             1.2  3  4  4  1  2
+Walker K              0.1  1  0  0  0  0
+Roa J                 1.0  1  0  0  0  2
+Bynum M               1.0  2  2  2  0  2
+  * Pitched to 3 batters in 8th
+
+E -- Vazquez R
+LOB -- San Francisco 9, San Diego 9
+2B -- Cruz J, Nevin P, Loretta M
+HR -- Torrealba Y, Aurilia R, Snow J, Grissom M, Alfonzo E
+SB -- Grissom M, Matthews G
+CS -- Young E, Loretta M, Burroughs S
+SF -- Ojeda M
+T -- 3:13
+A -- 18952
+     Game of 9/10/2003 -- San Francisco at San Diego (N)
+
+  San Francisco      AB  R  H RBI    San Diego          AB  R  H RBI
+Durham R, 2b          5  1  1  1   Burroughs S, 3b       4  0  0  0   
+Snow J, 1b            4  0  0  0   Loretta M, 2b         4  0  0  0   
+Aurilia R, ss         5  0  0  0   Giles B, lf           4  0  1  0   
+Bonds B, lf           3  2  2  0   Nevin P, 1b           4  1  1  1   
+Alfonzo E, 3b         4  2  2  3   Nady X, rf            3  0  1  0   
+Santiago B, c         3  1  2  0   Kotsay M, cf          2  0  0  0   
+Grissom M, cf         4  0  1  2   Bennett G, c          3  0  1  0   
+Cruz J, rf            4  1  2  1   Greene K, ss          3  0  1  0   
+Rueter K, p           3  0  0  0   Lawrence B, p         1  0  0  0   
+Nathan J, p           0  0  0  0   Buchanan B, ph        1  0  0  0   
+Christiansen J, p     0  0  0  0   Matthews M, p         0  0  0  0   
+Galarraga A, ph       1  0  0  0   Roa J, p              0  0  0  0   
+Hermanson D, p        0  0  0  0   Sears T, ph           0  0  0  0   
+                                   Ojeda M, ph           1  0  0  0   
+                                   Hoffman T, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 10  7                        30  1  5  1
+
+San Francisco    400 001 020 --  7
+San Diego        000 000 100 --  1
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (W)          6.1  5  1  1  0  0
+Nathan J              1.0  0  0  0  1  1
+Christiansen J        0.2  0  0  0  0  0
+Hermanson D           1.0  0  0  0  0  2
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (L)        6.0  9  5  5  1  3
+Matthews M            1.0  0  0  0  0  1
+Roa J                 1.0  1  2  2  0  1
+Hoffman T             1.0  0  0  0  1  2
+
+E -- Lawrence B
+DP -- San Francisco 2, San Diego 2
+LOB -- San Francisco 5, San Diego 3
+2B -- Bonds B 2, Grissom M
+HR -- Durham R, Cruz J, Nevin P, Alfonzo E
+HBP -- by Roa J (Bonds B)
+Balk -- Nathan J
+T -- 2:41
+A -- 18848
+     Game of 9/11/2003 -- San Francisco at San Diego (N)
+
+  San Francisco      AB  R  H RBI    San Diego          AB  R  H RBI
+Durham R, 2b          4  0  1  0   Burroughs S, 3b       4  2  3  0   
+Perez N, 2b           1  0  0  0   Loretta M, 2b         5  1  2  2   
+Snow J, 1b            5  1  1  1   Giles B, lf           3  1  1  1   
+Aurilia R, ss         5  0  1  0   Nevin P, 1b           4  1  0  0   
+Worrell T, p          0  0  0  0   Matthews G, rf        4  0  0  0   
+Bonds B, lf           4  0  0  0   Kotsay M, cf          3  0  0  0   
+Alfonzo E, 3b         3  2  1  1   Bennett G, c          3  0  1  0   
+Santiago B, c         4  1  1  0   Nady X, pr            0  0  0  0   
+Brower J, p           0  0  0  0   Witasick J, p         0  0  0  0   
+Ransom C, ss          0  0  0  0   Vazquez R, ph         1  0  0  0   
+Grissom M, cf         3  0  0  0   Beck R, p             0  0  0  0   
+Cruz J, rf            2  0  0  1   Matthews M, p         0  0  0  0   
+Williams J, p         2  0  1  1   Lockhart K, ph        1  0  1  2   
+Hammonds J, ph        1  0  0  0   Greene K, ss          4  0  1  0   
+Herges M, p           0  0  0  0   Eaton A, p            2  0  1  0   
+Eyre S, p             0  0  0  0   Hansen D, ph          0  0  0  0   
+Rodriguez F, p        0  0  0  0   Quintero H, ph-c      2  0  1  0   
+Torrealba Y, c        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  6  4                        36  5 11  5
+
+San Francisco    020 100 000 1 --  4
+San Diego        100 002 000 2 --  5
+  1 out when winning run was scored.
+
+  San Francisco        IP  H  R ER BB SO
+Williams J            6.0  5  3  2  2  1
+Herges M              0.1  1  0  0  0  0
+Eyre S                0.1  1  0  0  0  0
+Rodriguez F           1.1  0  0  0  2  2
+Brower J              1.0  2  0  0  0  0
+Worrell T (L)         0.1  2  2  2  2  0
+
+  San Diego            IP  H  R ER BB SO
+Eaton A               7.0  3  3  3  3  6
+Witasick J            1.0  1  0  0  1  2
+Beck R                1.2  2  1  1  0  2
+Matthews M (W)        0.1  0  0  0  0  0
+
+E -- Williams J, Bonds B
+DP -- San Francisco 2
+LOB -- San Francisco 6, San Diego 10
+2B -- Santiago B, Greene K
+HR -- Alfonzo E, Loretta M, Snow J
+SB -- Matthews G, Giles B
+SF -- Giles B, Cruz J
+PB -- Quintero H 2
+T -- 3:26
+A -- 24365
+     Game of 9/22/2003 -- Los Angeles at San Diego (N)
+
+  Los Angeles        AB  R  H RBI    San Diego          AB  R  H RBI
+Izturis C, ss         5  0  1  1   Burroughs S, 3b       5  2  2  0   
+Lo Duca P, c          5  0  3  2   Loretta M, 2b         5  1  2  0   
+Green S, rf           4  0  0  0   Giles B, lf           5  2  2  2   
+Beltre A, 3b          4  0  0  0   Nevin P, 1b           4  2  2  3   
+Coomer R, 1b          2  1  1  0   Nady X, rf            4  0  3  2   
+Ventura R, ph-1b      2  0  0  0   Witasick J, p         0  0  0  0   
+Burnitz J, lf         4  0  0  0   Hansen D, ph          1  0  1  0   
+Cabrera J, cf         4  1  1  0   Hoffman T, p          0  0  0  0   
+Cora A, 2b            4  2  4  1   Kotsay M, cf          4  0  0  0   
+Perez O, p            0  0  0  0   Ojeda M, c            4  0  0  0   
+Jackson E, p          0  0  0  0   Vazquez R, ss         3  1  1  0   
+Kinkade M, ph         1  1  1  1   Bynum M, p            2  0  1  0   
+Colyer S, p           0  0  0  0   Buchanan B, ph        1  0  1  0   
+Hermansen C, ph       1  0  0  0   Hackman L, p          0  0  0  0   
+Kida M, p             0  0  0  0   Matthews M, p         0  0  0  0   
+Hundley T, ph         1  0  0  0   Matthews G, rf        1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 11  5                        39  9 16  7
+
+Los Angeles      000 030 101 --  5
+San Diego        420 110 10x --  9
+
+  Los Angeles          IP  H  R ER BB SO
+Perez O (L)           1.0  5  4  4  1  1
+Jackson E             3.0  6  3  3  1  4
+Colyer S              2.0  3  1  1  1  2
+Kida M                2.0  2  1  1  0  2
+
+  San Diego            IP  H  R ER BB SO
+Bynum M (W)           5.0  6  3  3  0  6
+Hackman L*            1.0  1  1  1  1  0
+Matthews M            0.2  1  0  0  0  1
+Witasick J            1.1  1  0  0  0  0
+Hoffman T             1.0  2  1  1  0  3
+  * Pitched to 1 batter in 7th
+
+E -- Nevin P
+DP -- San Diego 1
+LOB -- Los Angeles 7, San Diego 9
+2B -- Nevin P, Coomer R, Kinkade M, Buchanan B, Matthews G, Cora A, Lo Duca P
+3B -- Cora A, Hansen D
+HR -- Nevin P
+SB -- Nady X
+SH -- Jackson E
+WP -- Jackson E 2, Kida M
+T -- 2:49
+A -- 15429
+     Game of 9/23/2003 -- Los Angeles at San Diego (N)
+
+  Los Angeles        AB  R  H RBI    San Diego          AB  R  H RBI
+Roberts D, cf         4  0  1  0   Burroughs S, 3b       4  0  0  0   
+Lo Duca P, c          4  0  0  0   Loretta M, 2b         3  1  0  0   
+Green S, rf           3  0  2  0   Giles B, lf           4  0  2  0   
+Ventura R, 1b         4  0  1  0   Nevin P, 1b           4  0  1  0   
+Beltre A, 3b          3  1  1  1   Nady X, rf            3  0  1  0   
+Burnitz J, lf         4  1  1  0   Matthews G, ph        1  0  0  0   
+Cora A, 2b            4  0  1  1   Kotsay M, cf          4  0  1  0   
+Izturis C, ss         4  0  2  0   Bennett G, c          3  0  0  0   
+Alvarez W, p          2  0  0  0   Vazquez R, ss         3  0  0  0   
+Cabrera J, ph         0  0  0  0   Peavy J, p            2  0  0  0   
+Martin T, p           0  0  0  0   Buchanan B, ph        1  0  0  0   
+Hundley T, ph         1  0  0  0   Linebrink S, p        0  0  0  0   
+Gagne E, p            0  0  0  0   Matthews M, p         0  0  0  0   
+                                   Beck R, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  9  2                        32  1  5  0
+
+Los Angeles      000 000 101 --  2
+San Diego        000 100 000 --  1
+
+  Los Angeles          IP  H  R ER BB SO
+Alvarez W             7.0  5  1  1  1  5
+Martin T (W)          1.0  0  0  0  0  0
+Gagne E (S)           1.0  0  0  0  0  1
+
+  San Diego            IP  H  R ER BB SO
+Peavy J               7.0  5  1  1  1  3
+Linebrink S           0.2  2  0  0  0  0
+Matthews M            0.1  0  0  0  1  0
+Beck R (L)            1.0  2  1  1  0  1
+
+DP -- San Diego 2
+LOB -- Los Angeles 7, San Diego 5
+2B -- Cora A
+HR -- Beltre A
+SH -- Cabrera J
+WP -- Alvarez W
+T -- 2:28
+A -- 20044
+     Game of 9/24/2003 -- Los Angeles at San Diego (N)
+
+  Los Angeles        AB  R  H RBI    San Diego          AB  R  H RBI
+Roberts D, cf         4  1  0  0   Burroughs S, 3b       5  0  1  0   
+Lo Duca P, c          5  0  1  0   Loretta M, 2b         5  0  0  0   
+Green S, rf           4  1  2  1   Giles B, lf           3  0  0  0   
+Ventura R, 1b         4  0  0  0   Nevin P, 1b           4  0  0  0   
+Cabrera J, ph-1b      1  0  1  1   Matthews G, rf        4  0  1  0   
+Beltre A, 3b          4  0  0  0   Kotsay M, cf          5  1  1  0   
+Burnitz J, lf         5  0  1  0   Vazquez R, ss         4  0  4  1   
+Cora A, 2b            5  0  0  0   Quintero H, c         3  0  0  0   
+Izturis C, ss         4  0  0  0   Lockhart K, ph        1  0  0  0   
+Brown K, p            2  0  0  0   Bennett G, c          1  0  0  0   
+Mota G, p             0  0  0  0   Howard B, p           2  0  0  0   
+Coomer R, ph          0  0  0  0   Hansen D, ph          0  0  0  0   
+McGriff F, ph         1  0  0  0   Nady X, pr            0  0  0  0   
+Martin T, p           0  0  0  0   Walker K, p           0  0  0  0   
+Quantrill P, p        0  0  0  0   Beck R, p             0  0  0  0   
+Thurston J, ph        1  0  0  0   Sears T, ph           1  0  0  0   
+Shuey P, p            0  0  0  0   Witasick J, p         0  0  0  0   
+Gagne E, p            0  0  0  0   Matthews M, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  2  5  2                        38  1  7  1
+
+Los Angeles      100 000 000 01 --  2
+San Diego        000 000 100 00 --  1
+
+  Los Angeles          IP  H  R ER BB SO
+Brown K               7.0  5  1  1  4  3
+Mota G                1.0  0  0  0  1  1
+Martin T              0.1  1  0  0  0  1
+Quantrill P           0.2  0  0  0  0  1
+Shuey P (W)           1.0  0  0  0  0  1
+Gagne E (S)           1.0  1  0  0  1  1
+
+  San Diego            IP  H  R ER BB SO
+Howard B              7.0  2  1  1  0  5
+Walker K              1.0  0  0  0  0  1
+Beck R                1.0  1  0  0  1  1
+Witasick J (L)        1.1  1  1  1  1  2
+Matthews M            0.2  1  0  0  1  1
+
+E -- Lo Duca P, Burroughs S
+DP -- Los Angeles 1
+LOB -- Los Angeles 8, San Diego 10
+2B -- Vazquez R 2, Lo Duca P, Cabrera J
+3B -- Kotsay M
+HR -- Green S
+SB -- Giles B 2
+CS -- Matthews G
+WP -- Brown K
+T -- 3:19
+A -- 23231
+     Game of 9/25/2003 -- Los Angeles at San Diego (N)
+
+  Los Angeles        AB  R  H RBI    San Diego          AB  R  H RBI
+Roberts D, cf         5  0  1  0   Burroughs S, 3b       5  0  1  0   
+Lo Duca P, c          4  0  0  0   Kotsay M, cf          4  1  1  0   
+Green S, rf           2  0  1  0   Giles B, lf           2  0  0  0   
+Ventura R, 1b         3  0  1  0   Nevin P, 1b           3  1  1  0   
+Cabrera J, ph-1b      1  0  0  0   Vazquez R, 2b         2  1  1  1   
+Beltre A, 3b          4  0  1  0   Nady X, rf            3  2  1  1   
+Burnitz J, lf         3  1  1  1   Greene K, ss          4  1  1  2   
+Cora A, 2b            4  0  2  0   Bennett G, c          4  0  2  1   
+Izturis C, ss         4  0  2  0   Lawrence B, p         2  0  0  0   
+Nomo H, p             1  0  0  0   Hansen D, ph          1  0  0  0   
+Mota G, p             0  0  0  0   Walker K, p           0  0  0  0   
+Thurston J, ph        1  0  0  0   Beck R, p             0  0  0  0   
+                                   Sears T, ph           1  0  0  0   
+                                   Hoffman T, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  9  1                        31  6  8  5
+
+Los Angeles      000 000 001 --  1
+San Diego        010 000 05x --  6
+
+  Los Angeles          IP  H  R ER BB SO
+Nomo H (L)*           7.0  6  5  5  6  7
+Mota G                1.0  2  1  1  0  1
+
+  San Diego            IP  H  R ER BB SO
+Lawrence B (W)        7.0  7  0  0  2  3
+Walker K+             0.0  0  0  0  1  0
+Beck R                1.0  0  0  0  0  0
+Hoffman T             1.0  2  1  1  0  1
+  * Pitched to 4 batters in 8th
+  + Pitched to 1 batter in 8th
+
+E -- Greene K, Burnitz J
+DP -- Los Angeles 1, San Diego 3
+LOB -- Los Angeles 9, San Diego 7
+HR -- Nady X, Burnitz J
+SB -- Burroughs S, Nevin P
+SH -- Nomo H 2
+WP -- Nomo H
+T -- 2:36
+A -- 17988
+     Game of 9/26/2003 -- Colorado at San Diego (N)
+
+  Colorado           AB  R  H RBI    San Diego          AB  R  H RBI
+Ozuna P, 2b           4  0  2  0   Burroughs S, 3b       4  0  1  0   
+Uribe J, ss           3  0  0  0   Loretta M, 2b         4  0  0  0   
+Norton G, ph          1  0  1  0   Giles B, lf           4  1  2  0   
+Barmes C, pr-ss       0  0  0  0   Nevin P, 1b           4  1  0  0   
+Helton T, 1b          3  0  1  0   Nady X, rf            4  1  2  1   
+Wilson P, cf          4  0  0  0   Matthews G, cf        3  2  2  0   
+Payton J, lf          4  0  1  0   Greene K, ss          4  0  1  0   
+Reyes R, rf           4  0  0  0   Bennett G, c          2  0  1  1   
+Johnson C, c          4  0  0  0   Hansen D, ph          0  0  0  0   
+Atkins G, 3b          4  0  2  0   Ojeda M, c            0  0  0  0   
+Vance C, p            1  0  0  0   Eaton A, p            2  0  0  0   
+Lopez J, p            0  0  0  0   Linebrink S, p        0  0  0  0   
+Reed S, p             0  0  0  0   Matthews M, p         0  0  0  0   
+Sweeney M, ph         1  0  1  0   Witasick J, p         0  0  0  0   
+Speier J, p           0  0  0  0   Kotsay M, ph          1  0  1  2   
+Bellhorn M, ph        1  0  0  0   Villafuerte B, p      0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  0  8  0                        32  5 10  4
+
+Colorado         000 000 000 --  0
+San Diego        012 000 02x --  5
+
+  Colorado             IP  H  R ER BB SO
+Vance C (L)           6.0  6  3  2  4  2
+Lopez J               0.2  1  0  0  0  0
+Reed S                0.1  0  0  0  0  0
+Speier J              1.0  3  2  2  2  1
+
+  San Diego            IP  H  R ER BB SO
+Eaton A (W)           7.0  4  0  0  1  4
+Linebrink S           0.1  2  0  0  0  0
+Matthews M            0.1  0  0  0  0  1
+Witasick J            0.1  0  0  0  0  0
+Villafuerte B         1.0  2  0  0  0  2
+
+E -- Vance C
+DP -- Colorado 3
+LOB -- Colorado 9, San Diego 10
+2B -- Giles B, Bennett G, Matthews G, Kotsay M
+SB -- Ozuna P, Giles B
+SH -- Vance C
+HBP -- by Vance C (Eaton A)
+WP -- Eaton A, Matthews M
+Balk -- Vance C
+T -- 2:50
+A -- 45588
+     Game of 9/27/2003 -- Colorado at San Diego (N)
+
+  Colorado           AB  R  H RBI    San Diego          AB  R  H RBI
+Belliard R, 2b        6  2  2  3   Burroughs S, 3b       4  0  1  0   
+Stynes C, 3b          4  2  2  1   Loretta M, 2b         3  0  0  0   
+Ozuna P, cf           0  0  0  0   Villafuerte B, p      0  0  0  0   
+Helton T, 1b          4  0  2  0   Giles B, lf           3  1  1  2   
+Wilson P, cf          4  1  1  2   Buchanan B, lf        1  0  0  0   
+Reyes R, cf-rf        1  0  0  0   Nevin P, 1b           3  0  0  0   
+Walker L, rf          3  1  2  2   Lockhart K, 2b        0  0  0  0   
+Young J, p            0  0  0  0   Kotsay M, cf          4  0  0  0   
+Tsao C, p             0  0  0  0   Nady X, rf            4  0  0  0   
+Payton J, lf          5  0  0  0   Greene K, ss          3  0  0  0   
+Zaun G, c             4  2  2  1   Quintero H, c         2  0  0  0   
+Barmes C, ss          4  1  2  0   Hackman L, p          0  0  0  0   
+Stark D, p            3  0  0  0   Walker K, p           0  0  0  0   
+Sweeney M, ph         1  1  1  0   Sears T, ph-1b        1  0  0  0   
+Cook A, p             0  0  0  0   Bynum M, p            1  0  0  0   
+Bellhorn M, 3b        1  0  0  0   Roa J, p              0  0  0  0   
+                                   Ojeda M, c            1  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40 10 14  9                        30  2  2  2
+
+Colorado         101 321 200 -- 10
+San Diego        000 002 000 --  2
+
+  Colorado             IP  H  R ER BB SO
+Stark D (W)           6.0  2  2  2  2  4
+Cook A                1.0  0  0  0  0  1
+Young J               1.0  0  0  0  0  1
+Tsao C                1.0  0  0  0  1  1
+
+  San Diego            IP  H  R ER BB SO
+Bynum M (L)           3.1  7  5  5  2  1
+Roa J                 1.2  3  2  2  1  1
+Hackman L             1.2  4  3  3  1  2
+Walker K              1.1  0  0  0  1  2
+Villafuerte B         1.0  0  0  0  0  1
+
+E -- Quintero H, Barmes C
+DP -- San Diego 1
+LOB -- Colorado 9, San Diego 4
+2B -- Belliard R, Stynes C, Sweeney M
+HR -- Belliard R, Wilson P, Walker L, Giles B, Zaun G
+SB -- Wilson P
+HBP -- by Villafuerte B (Barmes C)
+WP -- Hackman L, Young J
+T -- 2:40
+A -- 42479
+     Game of 9/28/2003 -- Colorado at San Diego (D)
+
+  Colorado           AB  R  H RBI    San Diego          AB  R  H RBI
+Belliard R, 2b        4  0  1  0   Burroughs S, 3b       4  0  0  0   
+Stynes C, 3b          5  1  1  2   Loretta M, 2b         5  1  1  1   
+Helton T, 1b          4  1  2  0   Giles B, lf           3  2  1  0   
+Payton J, lf          5  1  1  3   Nevin P, 1b           4  2  4  1   
+Walker L, rf          5  0  1  0   Kotsay M, cf          4  0  2  1   
+Reyes R, cf           5  1  1  0   Nady X, rf            5  3  3  3   
+Johnson C, c          2  2  2  2   Greene K, ss          3  0  0  0   
+Zaun G, pr-c          1  1  0  0   Vazquez R, ph-ss      2  0  0  0   
+Uribe J, ss           3  1  1  2   Bennett G, c          4  0  2  1   
+Oliver D, p           2  0  0  0   Peavy J, p            2  0  0  1   
+Reed S, p             0  0  0  0   Witasick J, p         0  0  0  0   
+Lopez J, p            0  0  0  0   Matthews M, p         0  0  0  0   
+Norton G, ph          1  1  1  1   Linebrink S, p        0  0  0  0   
+Bernero A, p          0  0  0  0   Beck R, p             0  0  0  0   
+Sweeney M, ph         0  1  0  0   Matthews G, ph        1  0  0  0   
+Fuentes B, p          0  0  0  0   Hoffman T, p          0  0  0  0   
+Speier J, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37 10 11 10                        37  8 13  8
+
+Colorado         030 000 520 -- 10
+San Diego        100 130 210 --  8
+
+  Colorado             IP  H  R ER BB SO
+Oliver D              4.1  8  5  5  2  0
+Reed S                0.2  1  0  0  0  1
+Lopez J (W)           1.0  0  0  0  0  0
+Bernero A             1.0  1  2  2  1  1
+Fuentes B*            1.0  3  1  1  0  0
+Speier J (S)          1.0  0  0  0  0  3
+
+  San Diego            IP  H  R ER BB SO
+Peavy J               6.0  4  3  3  2  8
+Witasick J (L)        0.2  3  3  3  0  1
+Matthews M+           0.0  1  1  1  0  0
+Linebrink S           0.2  2  3  3  2  0
+Beck R                0.2  1  0  0  1  0
+Hoffman T             1.0  0  0  0  0  2
+  * Pitched to 2 batters in 9th
+  + Pitched to 1 batter in 7th
+
+E -- Walker L
+DP -- Colorado 2
+LOB -- Colorado 6, San Diego 9
+2B -- Reyes R, Bennett G, Nevin P
+3B -- Giles B
+HR -- Uribe J, Johnson C, Norton G, Payton J, Nady X, Loretta M
+SB -- Nady X
+SH -- Uribe J
+SF -- Kotsay M
+HBP -- by Oliver D (Peavy J), by Oliver D (Giles B), by Oliver D (Burroughs S)
+T -- 3:04
+A -- 60988
+

@@ -68,7 +68,7 @@ int addPlayerDateData(char *lahmanID) {
     FILE *fp = fopen(filePath, "r");
     if (!fp) {
         printf("filePath: %s\n", filePath);
-        PyErr_SetString(PyExc_IOError, "could not open file\n"); // comment out to compile with gcc
+        PyErr_Format(PyExc_IOError, "could not open file: %s for lahmanID %s\n", filePath, lahmanID);
         return -1;
     }
 
@@ -87,7 +87,8 @@ int addPlayerDateData(char *lahmanID) {
         char *hashKey = (char *) malloc(strlen(lahmanID) + strlen(date) + 3);
         if (!hashKey) {
             fclose(fp);
-            PyErr_SetString(PyExc_SyntaxError, "Failed to allocate hashKey on the heap\n");
+            PyErr_Format(PyExc_SyntaxError, 
+                "Failed to allocate hashKey %s on the heap\n", hashKey);
             return -1;
         } else {
             strcpy(hashKey, lahmanID);
@@ -100,8 +101,8 @@ int addPlayerDateData(char *lahmanID) {
         if (pDD) {
             fclose(fp);
             free(hashKey);
-            PyErr_SetString(PyExc_ValueError, "Tried to add Player's hit info\
-to the player info hash table >= 1 times.\n");
+            PyErr_Format(PyExc_ValueError, "Tried to add Player's hit info\
+to the player info hash table >= 1 times. lahmanID: %s\n", lahmanID);
             return -1; // we should never encounter this!
         /* Otherwise constrcut the bucke and add it */
         } else {
@@ -127,7 +128,8 @@ to the player info hash table >= 1 times.\n");
     char *indicatorHashKey = (char *) malloc(strlen(lahmanID) + 6);
     if (!indicatorHashKey) {
         fclose(fp);
-        PyErr_SetString(PyExc_SyntaxError, "Failed to allocate hashKey on the heap\n");
+        PyErr_Format(PyExc_SyntaxError, 
+            "Failed to allocate indicatorHashKey (%s) on the heap\n", indicatorHashKey);
         return -1;
     } else {
         strcpy(indicatorHashKey, lahmanID);

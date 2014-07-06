@@ -1,0 +1,3438 @@
+     Game of 4/14/2000 -- Anaheim at Chicago (N)
+
+  Anaheim            AB  R  H RBI    Chicago            AB  R  H RBI
+Erstad D, lf          5  1  2  1   Durham R, 2b          3  0  1  3   
+Kennedy A, 2b         5  0  3  1   Norton G, 1b          5  0  1  2   
+Vaughn M, 1b          5  0  0  0   Thomas F, dh          4  2  2  1   
+Salmon T, rf          4  1  2  0   Ordonez M, rf         4  0  1  0   
+Anderson G, cf        3  1  1  2   Konerko P, 3b         4  1  2  2   
+Glaus T, 3b           4  0  1  0   Singleton C, cf-lf    4  1  0  0   
+Clemente E, dh        2  0  0  0   Lee C, lf             2  2  1  1   
+Spiezio S, ph         2  0  0  0   Christensen M, cf     0  0  0  0   
+Molina B, c           3  1  1  0   Wilson C, ss          4  2  3  0   
+Palmeiro O, ph        1  0  0  0   Johnson M, c          3  1  1  0   
+Walbeck M, c          0  0  0  0                                      
+Gil B, ss             4  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  4 12  4                        33  9 12  9
+
+Anaheim          000 010 120 --  4
+Chicago          130 120 11x --  9
+
+  Anaheim              IP  H  R ER BB SO
+Hill K (L)            3.2  5  5  5  2  1
+Levine A              2.1  3  2  2  0  1
+Pote L                2.0  4  2  2  0  3
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (W)         5.1  7  1  1  1  2
+Lowe S*               0.2  2  1  1  0  1
+Wunsch K              1.0  0  0  0  0  2
+Eyre S+               0.0  3  2  2  0  0
+Foulke K              2.0  0  0  0  0  4
+  * Pitched to 2 batters in 7th
+  + Pitched to 3 batters in 8th
+
+DP -- Anaheim 1, Chicago 1
+LOB -- Anaheim 8, Chicago 5
+2B -- Erstad D 2, Norton G, Konerko P, Salmon T 2, Gil B
+HR -- Thomas F, Konerko P, Anderson G
+SB -- Kennedy A
+SF -- Durham R 2
+HBP -- by Hill K (Lee C)
+WP -- Hill K
+PB -- Johnson M
+T -- 3:25
+A -- 38912
+     Game of 4/15/2000 -- Anaheim at Chicago (D)
+
+  Anaheim            AB  R  H RBI    Chicago            AB  R  H RBI
+Erstad D, lf          3  0  1  0   Durham R, 2b          4  0  1  0   
+Kennedy A, 2b         4  1  1  0   Norton G, 1b          4  1  1  1   
+Vaughn M, 1b          3  1  0  0   Thomas F, dh          4  0  0  0   
+Salmon T, rf          1  1  1  0   Ordonez M, rf         4  0  2  0   
+Anderson G, cf        4  0  1  1   Konerko P, 3b         3  0  1  0   
+Glaus T, 3b           4  0  2  2   Singleton C, cf       3  0  0  0   
+Spiezio S, dh         4  0  0  0   Lee C, lf             4  0  0  0   
+Walbeck M, c          4  0  1  0   Wilson C, ss          4  0  0  0   
+Gil B, ss             4  0  0  0   Johnson M, c          4  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  7  3                        34  1  7  1
+
+Anaheim          300 000 000 --  3
+Chicago          000 000 010 --  1
+
+  Anaheim              IP  H  R ER BB SO
+Bottenfield K (W)     7.0  5  0  0  2  1
+Hasegawa S            1.0  2  1  1  0  1
+Percival T (S)        1.0  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Wells K (L)           6.0  7  3  3  4  5
+Eyre S                2.0  0  0  0  1  2
+Simas B               1.0  0  0  0  0  1
+
+E -- Glaus T
+DP -- Anaheim 1, Chicago 3
+LOB -- Anaheim 6, Chicago 8
+2B -- Glaus T, Johnson M
+3B -- Kennedy A
+HR -- Norton G
+CS -- Erstad D, Salmon T
+WP -- Wells K
+T -- 2:51
+A -- 14135
+     Game of 4/16/2000 -- Anaheim at Chicago (D)
+
+  Anaheim            AB  R  H RBI    Chicago            AB  R  H RBI
+Erstad D, cf          5  0  3  0   Durham R, 2b          4  0  1  1   
+Kennedy A, 2b         5  0  1  0   Norton G, 1b          4  0  0  0   
+Vaughn M, 1b          3  0  1  0   Thomas F, dh          3  0  1  0   
+Salmon T, rf          5  0  1  0   Ordonez M, rf         4  0  0  0   
+Glaus T, 3b           3  2  1  0   Konerko P, 3b         3  0  0  0   
+Spiezio S, dh         4  1  3  1   Abbott J, cf          3  0  0  0   
+Clemente E, lf        3  0  1  1   Lee C, lf             3  0  1  0   
+Palmeiro O, ph-lf     1  0  1  0   Wilson C, ss          2  0  0  0   
+Molina B, c           3  0  0  1   Paul J, c             3  1  0  0   
+Gil B, ss             4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  3 13  3                        29  1  3  1
+
+Anaheim          000 201 000 --  3
+Chicago          001 000 000 --  1
+
+  Anaheim              IP  H  R ER BB SO
+Schoeneweis S (W)     8.0  3  1  1  2  2
+Percival T (S)        1.0  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Parque J (L)          6.0 10  3  3  1  1
+Wunsch K              0.2  0  0  0  1  1
+Lowe S                1.1  2  0  0  0  3
+Howry B               1.0  1  0  0  1  0
+
+DP -- Chicago 1
+LOB -- Anaheim 10, Chicago 3
+2B -- Vaughn M, Durham R, Spiezio S, Lee C, Glaus T
+SB -- Erstad D
+CS -- Gil B 2
+SF -- Molina B
+T -- 2:35
+A -- 10929
+     Game of 4/18/2000 -- Seattle at Chicago (N)
+
+  Seattle            AB  R  H RBI    Chicago            AB  R  H RBI
+McLemore M, lf        6  0  0  0   Durham R, 2b          5  2  2  0   
+Javier S, rf          4  2  1  0   Valentin J, ss        5  3  2  0   
+Rodriguez A, ss       4  1  1  0   Thomas F, dh          4  1  2  2   
+Gipson C, ph-ss       1  0  1  0   Abbott J, ph          1  0  0  0   
+Olerud J, 1b          1  2  1  1   Ordonez M, rf         2  1  0  0   
+Ibanez R, ph-1b       1  0  0  0   Konerko P, 3b         4  2  1  3   
+Martinez E, dh        4  3  4  4   Singleton C, cf-lf    5  3  4  4   
+Mabry J, 3b           4  0  0  0   Lee C, lf             5  3  3  2   
+Bell D, 2b            5  2  2  2   Christensen M, cf     0  0  0  0   
+Wilson D, c           3  0  1  0   Norton G, 1b          4  1  3  4   
+Lampkin T, c          2  1  1  3   Johnson M, c          5  2  2  3   
+Cameron M, cf         3  0  1  1                                      
+Oliver J, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39 11 13 11                        40 18 19 18
+
+Seattle          113 102 003 -- 11
+Chicago          200 (11)10 40x -- 18
+
+  Seattle              IP  H  R ER BB SO
+Sele A (L)*           3.0  9  8  8  3  0
+Paniagua J            0.1  0  2  2  1  0
+Abbott P              3.0  8  7  7  2  2
+Mesa J                0.2  2  1  1  1  1
+Sasaki K              1.0  0  0  0  1  2
+
+  Chicago              IP  H  R ER BB SO
+Eldred C              2.1  7  5  5  2  4
+Sturtze T (W)         3.2  4  3  3  2  2
+Simas B               2.0  1  0  0  0  1
+Foulke K              1.0  1  3  2  1  0
+  * Pitched to 6 batters in 4th
+
+E -- Durham R
+DP -- Seattle 1
+LOB -- Seattle 8, Chicago 9
+2B -- Cameron M, Bell D, Javier S, Martinez E, Singleton C, Thomas F, Lee C
+HR -- Norton G, Johnson M, Martinez E, Konerko P, Lampkin T
+SB -- Durham R, Bell D
+SF -- Singleton C, Olerud J, Thomas F
+HBP -- by Sturtze T (Cameron M), by Paniagua J (Konerko P)
+WP -- Eldred C
+PB -- Lampkin T
+T -- 3:32
+A -- 9898
+     Game of 4/19/2000 -- Seattle at Chicago (D)
+
+  Seattle            AB  R  H RBI    Chicago            AB  R  H RBI
+McLemore M, 2b        5  0  1  0   Durham R, 2b          3  1  1  0   
+Javier S, lf          4  0  2  0   Valentin J, ss        4  0  0  0   
+Rodriguez A, ss       4  0  1  0   Thomas F, dh          3  0  0  0   
+Martinez E, dh        3  0  0  0   Ordonez M, rf         2  2  1  0   
+Olerud J, 1b          2  1  1  0   Konerko P, 3b         3  1  2  2   
+Buhner J, rf          3  1  1  2   Christensen M, pr-cf  0  0  0  0   
+Ibanez R, rf          1  0  0  0   Singleton C, cf-lf    3  0  0  0   
+Bell D, 3b            4  0  0  0   Lee C, lf             3  0  1  2   
+Wilson D, c           4  0  1  0   Wilson C, 3b          1  0  0  0   
+Gipson C, cf          3  0  1  0   Norton G, 1b          3  0  0  0   
+Lampkin T, ph         1  0  0  0   Paul J, c             4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        29  5  6  4
+
+Seattle          020 000 000 --  2
+Chicago          002 020 10x --  5
+
+  Seattle              IP  H  R ER BB SO
+Meche G (L)           4.2  3  4  4  7  2
+Paniagua J            2.0  3  1  1  0  3
+Rhodes A              1.1  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Eyre S                3.2  5  2  2  1  5
+Lowe S (W)            2.1  2  0  0  2  3
+Foulke K              2.0  1  0  0  1  0
+Howry B (S)           1.0  0  0  0  0  1
+
+E -- Valentin J, Bell D
+DP -- Seattle 1, Chicago 2
+LOB -- Seattle 9, Chicago 7
+2B -- Durham R, Rodriguez A, Javier S, Ordonez M
+HR -- Buhner J
+SB -- Christensen M
+T -- 2:57
+A -- 8425
+     Game of 4/21/2000 -- Detroit at Chicago (N)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Polonia L, rf         3  1  0  0   Durham R, 2b          4  1  0  0   
+Ausmus B, c           4  0  2  0   Valentin J, ss        3  1  0  0   
+Jefferies G, 2b       4  0  2  1   Thomas F, dh          1  2  1  1   
+Gonzalez J, dh        4  0  0  0   Ordonez M, rf         3  1  1  1   
+Higginson B, lf       4  0  0  0   Konerko P, 1b         4  0  0  0   
+Palmer D, 3b          4  0  2  0   Singleton C, cf-lf    4  1  2  2   
+Encarnacion J, cf     3  1  2  1   Lee C, lf             3  0  0  1   
+Clark T, 1b           2  0  0  0   Christensen M, cf     0  0  0  0   
+Cruz D, ss            3  0  0  0   Wilson C, 3b          4  0  2  0   
+                                   Paul J, c             4  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     31  2  8  2                        30  7  8  6
+
+Detroit          100 010 000 --  2
+Chicago          011 050 00x --  7
+
+  Detroit              IP  H  R ER BB SO
+Nitkowski C (L)*      4.0  5  6  5  4  3
+Anderson M            2.0  2  1  1  0  3
+Patterson D           1.0  0  0  0  1  1
+Blair W               1.0  1  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Wells K (W)           6.1  7  2  1  2  5
+Wunsch K              1.1  1  0  0  0  2
+Simas B               1.1  0  0  0  0  0
+  * Pitched to 4 batters in 5th
+
+E -- Wells K, Cruz D
+DP -- Chicago 3
+LOB -- Detroit 5, Chicago 5
+2B -- Jefferies G, Paul J
+HR -- Thomas F, Encarnacion J
+CS -- Singleton C
+SH -- Encarnacion J
+SF -- Lee C
+T -- 2:52
+A -- 11278
+     Game of 4/22/2000 -- Detroit at Chicago (D)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Polonia L, dh         5  1  2  2   Durham R, 2b          5  1  1  1   
+Ausmus B, c           4  0  0  0   Valentin J, ss        5  1  2  1   
+Jefferies G, 2b       3  0  1  0   Thomas F, dh          5  1  1  0   
+Gonzalez J, rf        4  0  0  0   Ordonez M, rf         2  3  2  0   
+Palmer D, 3b          2  0  0  0   Abbott J, rf          2  0  0  0   
+Cruz D, pr-ss         0  2  0  0   Konerko P, 1b         3  4  2  3   
+Encarnacion J, cf     4  0  1  1   Singleton C, cf-lf    5  3  5  5   
+Magee W, lf           3  2  1  1   Lee C, lf             3  1  1  1   
+Clark T, 1b           4  0  0  0   Christensen M, cf     1  0  0  0   
+Halter S, ss-3b       3  1  1  0   Norton G, 3b          3  0  0  1   
+                                   Johnson M, c          3  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     32  6  6  4                        37 14 14 13
+
+Detroit          010 000 113 --  6
+Chicago          010 304 24x -- 14
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (L)*         5.0  6  8  8  2  3
+Poole J               0.2  1  0  0  1  1
+Patterson D           0.1  0  0  0  0  0
+Brocail D             1.0  3  2  1  0  1
+Jones T               0.2  3  3  3  0  1
+Blair W               0.1  1  1  1  0  0
+
+  Chicago              IP  H  R ER BB SO
+Parque J (W)          7.0  3  2  1  2  4
+Lowe S                1.0  2  1  1  0  1
+Sturtze T+            0.0  0  1  1  0  0
+Howry B               0.2  0  2  2  1  1
+Eyre S                0.1  1  0  0  0  1
+  * Pitched to 4 batters in 6th
+  + Pitched to 1 batter in 9th
+
+E -- Ausmus B
+DP -- Chicago 1
+LOB -- Detroit 5, Chicago 5
+2B -- Thomas F, Ordonez M, Singleton C
+3B -- Polonia L
+HR -- Magee W, Konerko P, Singleton C
+SB -- Halter S
+SF -- Norton G
+HBP -- by Weaver J (Konerko P), by Weaver J (Lee C), by Parque J (Palmer D), by Sturtze T (Cruz D), by Howry B (Halter S)
+WP -- Lowe S, Howry B 2
+PB -- Johnson M
+T -- 3:19
+A -- 16410
+     Game of 4/23/2000 -- Detroit at Chicago (D)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Polonia L, dh         5  0  1  0   Durham R, 2b          5  2  2  0   
+Fick R, c             4  0  0  0   Valentin J, ss        4  2  1  0   
+Jefferies G, 2b       4  0  0  0   Thomas F, dh          3  1  1  1   
+Gonzalez J, rf        4  1  2  1   Ordonez M, rf         5  3  3  4   
+Higginson B, lf       4  2  4  2   Konerko P, 1b         2  0  0  1   
+Palmer D, 3b          4  1  1  1   Singleton C, cf       3  1  1  0   
+Encarnacion J, cf     4  0  1  0   Lee C, lf             3  0  0  0   
+Clark T, 1b           3  0  0  0   Norton G, 3b          3  0  1  2   
+Cruz D, ss            4  0  0  0   Johnson M, c          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4  9  4                        31  9  9  8
+
+Detroit          010 102 000 --  4
+Chicago          440 001 00x --  9
+
+  Detroit              IP  H  R ER BB SO
+Borkowski D (L)       1.2  6  8  8  5  1
+Johnson M             4.1  3  1  1  2  3
+Poole J               1.0  0  0  0  0  1
+Anderson M            1.0  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J (W)         5.1  7  4  4  2  3
+Wunsch K*             1.2  2  0  0  0  0
+Simas B               1.0  0  0  0  0  2
+Foulke K              1.0  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+E -- Norton G
+LOB -- Detroit 7, Chicago 7
+2B -- Singleton C, Ordonez M, Higginson B
+3B -- Durham R, Ordonez M
+HR -- Ordonez M, Higginson B 2, Gonzalez J, Palmer D
+SB -- Valentin J
+SF -- Thomas F, Konerko P
+PB -- Fick R
+T -- 2:47
+A -- 12154
+     Game of 4/24/2000 -- Baltimore at Chicago (N)
+
+  Baltimore          AB  R  H RBI    Chicago            AB  R  H RBI
+Anderson B, cf        3  1  0  0   Durham R, 2b          4  1  2  1   
+DeShields D, 2b       4  0  1  1   Valentin J, ss        3  1  1  1   
+Surhoff B, lf         3  0  0  0   Thomas F, dh          4  0  1  1   
+Belle A, rf           3  0  0  0   Ordonez M, rf         3  0  0  0   
+Baines H, dh          3  0  0  0   Konerko P, 1b         3  0  0  0   
+Conine J, 3b          3  0  0  0   Singleton C, cf       4  1  1  0   
+Clark W, 1b           3  0  0  0   Lee C, lf             4  1  0  0   
+Johnson C, c          3  1  1  1   Norton G, 3b          4  2  2  2   
+Bordick M, ss         3  0  0  0   Paul J, c             4  2  2  3   
+                     -- -- -- --                        -- -- -- --
+                     28  2  2  2                        33  8  9  8
+
+Baltimore        100 001 000 --  2
+Chicago          140 000 21x --  8
+
+  Baltimore            IP  H  R ER BB SO
+Mussina M (L)         6.1  8  7  7  3  3
+Maduro C              0.2  0  0  0  0  1
+McElroy C             1.0  1  1  1  0  1
+
+  Chicago              IP  H  R ER BB SO
+Eldred C (W)          9.0  2  2  2  1 11
+
+LOB -- Baltimore 0, Chicago 4
+2B -- DeShields D, Thomas F
+3B -- Paul J
+HR -- Valentin J, Paul J, Johnson C, Norton G
+CS -- DeShields D, Singleton C
+T -- 2:14
+A -- 15461
+     Game of 4/25/2000 -- Baltimore at Chicago (N)
+
+  Baltimore          AB  R  H RBI    Chicago            AB  R  H RBI
+Anderson B, dh        6  2  2  2   Durham R, 2b          5  1  1  0   
+DeShields D, 2b       4  0  3  3   Valentin J, ss        4  0  0  1   
+Surhoff B, lf         4  1  2  2   Thomas F, dh          2  1  0  0   
+Belle A, rf           5  0  1  0   Ordonez M, rf         4  1  2  0   
+Conine J, 1b          5  1  0  0   Konerko P, 1b         4  2  2  3   
+Ripken C, 3b          4  2  1  0   Singleton C, cf       4  1  2  1   
+Johnson C, c          2  1  1  1   Lee C, lf             4  0  1  0   
+Amaral R, cf          3  2  2  2   Norton G, 3b          4  0  2  0   
+Bordick M, ss         3  3  0  1   Johnson M, c          2  0  1  1   
+                                   Perry H, ph           1  0  0  0   
+                                   Paul J, c             1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36 12 12 11                        35  6 11  6
+
+Baltimore        036 000 201 -- 12
+Chicago          020 030 100 --  6
+
+  Baltimore            IP  H  R ER BB SO
+Rapp P (W)            5.0  8  5  5  2  4
+Maduro C              0.1  1  0  0  0  0
+Groom B               1.2  1  1  1  0  0
+Trombley M            1.0  0  0  0  0  0
+Timlin M              1.0  1  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (L)         2.1  5  8  4  5  1
+Eyre S                2.2  3  1  1  3  0
+Sturtze T             2.0  2  2  2  2  0
+Lowe S                1.0  0  0  0  2  0
+Howry B               1.0  2  1  1  0  0
+
+E -- Norton G, Ordonez M
+DP -- Baltimore 1, Chicago 4
+LOB -- Baltimore 11, Chicago 5
+2B -- Anderson B 2, Konerko P, Lee C, DeShields D, Belle A
+3B -- Amaral R, Durham R
+HR -- Konerko P, Surhoff B
+SB -- Bordick M, Amaral R
+CS -- Thomas F
+SF -- Bordick M, Valentin J
+HBP -- by Eyre S (Surhoff B)
+T -- 3:15
+A -- 11658
+     Game of 4/26/2000 -- Baltimore at Chicago (N)
+
+  Baltimore          AB  R  H RBI    Chicago            AB  R  H RBI
+Anderson B, cf        3  1  1  0   Durham R, 2b          3  1  1  2   
+DeShields D, 2b       5  1  2  3   Valentin J, ss        3  1  0  0   
+Surhoff B, lf         4  0  0  0   Thomas F, 1b          3  1  1  5   
+Belle A, rf           5  0  0  0   Ordonez M, rf         5  0  1  0   
+Baines H, dh          3  1  1  1   Konerko P, dh         4  1  1  0   
+Conine J, ph          2  0  0  0   Singleton C, cf       4  1  0  0   
+Ripken C, 3b          5  0  1  0   Lee C, lf             3  2  1  3   
+Clark W, 1b           4  1  2  0   Perry H, 3b           4  2  2  1   
+Myers G, c            4  0  0  0   Paul J, c             4  2  3  0   
+Bordick M, ss         3  2  3  2                                      
+                     -- -- -- --                        -- -- -- --
+                     38  6 10  6                        33 11 10 11
+
+Baltimore        004 002 000 --  6
+Chicago          040 501 01x -- 11
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S (L)          4.0  7  9  8  3  4
+Ryan B                1.0  0  0  0  0  1
+McElroy C             3.0  3  2  2  2  2
+
+  Chicago              IP  H  R ER BB SO
+Wells K (W)           5.1  8  6  6  2  3
+Wunsch K              1.2  2  0  0  1  1
+Simas B               1.0  0  0  0  1  0
+Foulke K              1.0  0  0  0  0  0
+
+E -- Durham R, DeShields D
+LOB -- Baltimore 9, Chicago 5
+2B -- Konerko P
+3B -- Paul J
+HR -- Lee C, Perry H, DeShields D, Baines H, Thomas F, Bordick M
+SB -- DeShields D, Lee C
+SF -- Durham R, Thomas F
+T -- 2:59
+A -- 13649
+     Game of 4/27/2000 -- Baltimore at Chicago (D)
+
+  Baltimore          AB  R  H RBI    Chicago            AB  R  H RBI
+Anderson B, cf        3  2  2  0   Durham R, 2b          2  1  1  0   
+DeShields D, 2b       5  0  2  2   Wilson C, ph-2b       3  0  0  0   
+Surhoff B, lf         4  0  0  0   Valentin J, ss        5  2  4  5   
+Belle A, dh           4  0  1  0   Thomas F, dh          2  0  1  1   
+Conine J, rf-1b       4  2  2  1   Ordonez M, rf         4  1  0  1   
+Ripken C, 3b          2  0  0  0   Konerko P, 1b         5  3  3  1   
+Lewis M, 3b           1  0  1  0   Singleton C, cf       4  2  2  1   
+Clark W, 1b           1  0  0  0   Lee C, lf             2  1  0  0   
+Amaral R, rf          2  0  0  0   Abbott J, ph-lf       2  0  0  0   
+Johnson C, c          4  0  0  1   Norton G, 3b          3  2  1  2   
+Bordick M, ss         3  0  1  0   Johnson M, c          2  1  1  1   
+Garcia J, ss          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        34 13 13 12
+
+Baltimore        110 001 100 --  4
+Chicago          136 000 12x -- 13
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J (L)        1.2  5  4  4  3  1
+Maduro C              1.1  3  6  6  4  0
+Ryan B                2.0  2  0  0  1  2
+Groom B               1.0  0  0  0  0  1
+Trombley M            1.0  1  1  1  0  0
+Timlin M              1.0  2  2  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Parque J (W)          6.2  8  4  4  2  1
+Lowe S                1.1  1  0  0  0  2
+Sturtze T             1.0  0  0  0  1  0
+
+E -- DeShields D, Conine J
+DP -- Baltimore 1
+LOB -- Baltimore 8, Chicago 7
+2B -- DeShields D 2, Durham R, Conine J, Valentin J, Thomas F, Lewis M, Konerko P
+3B -- Singleton C, Valentin J
+HR -- Konerko P, Conine J, Valentin J
+CS -- Belle A, Anderson B
+SF -- Thomas F, Ordonez M
+HBP -- by Parque J (Anderson B), by Parque J (Clark W)
+T -- 2:49
+A -- 13225
+     Game of 5/1/2000 -- Toronto at Chicago (N)
+
+  Toronto            AB  R  H RBI    Chicago            AB  R  H RBI
+Cruz J, cf            4  1  1  1   Durham R, 2b          3  0  0  0   
+Bush H, 2b            5  0  0  0   Valentin J, ss        3  0  0  0   
+Mondesi R, rf         5  1  2  1   Thomas F, dh          4  0  1  0   
+Delgado C, 1b         3  1  1  0   Konerko P, 1b         4  0  0  0   
+Fullmer B, dh         4  1  2  2   Singleton C, cf       4  2  2  1   
+Batista T, 3b         4  0  0  0   Lee C, lf             4  1  1  2   
+Fletcher D, c         4  0  0  0   Norton G, 3b          3  0  1  0   
+Cordova M, lf         3  0  1  0   Abbott J, rf          3  0  0  0   
+Wise D, pr-lf         0  0  0  0   Paul J, c             3  0  1  0   
+Gonzalez A, ss        3  1  2  1                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  5                        31  3  6  3
+
+Toronto          001 003 100 --  5
+Chicago          000 020 001 --  3
+
+  Toronto              IP  H  R ER BB SO
+Carpenter C (W)       7.2  5  2  2  2  4
+Koch B (S)            1.1  1  1  1  1  0
+
+  Chicago              IP  H  R ER BB SO
+Wells K (L)           6.2  8  5  5  2  5
+Eyre S                0.2  0  0  0  2  0
+Howry B               0.2  1  0  0  1  1
+Lowe S                1.0  0  0  0  1  1
+
+DP -- Toronto 1
+LOB -- Toronto 9, Chicago 5
+2B -- Norton G, Delgado C, Cordova M
+3B -- Mondesi R, Singleton C
+HR -- Cruz J, Singleton C, Lee C, Mondesi R, Fullmer B, Gonzalez A
+SH -- Abbott J
+T -- 2:58
+A -- 14448
+     Game of 5/2/2000 -- Toronto at Chicago (N)
+
+  Toronto            AB  R  H RBI    Chicago            AB  R  H RBI
+Cruz J, cf            5  1  2  1   Durham R, 2b          4  0  1  0   
+Grebeck C, 2b         5  1  1  1   Valentin J, ss        4  0  0  0   
+Mondesi R, rf         4  1  2  0   Thomas F, dh          3  0  0  0   
+Delgado C, 1b         5  0  0  0   Konerko P, 1b         4  1  1  1   
+Batista T, 3b         4  0  1  1   Singleton C, cf       4  0  1  0   
+Cordova M, dh         3  0  1  0   Lee C, lf             4  0  0  0   
+Fullmer B, ph         0  0  0  1   Norton G, 3b          2  0  0  0   
+Thompson A, lf        3  0  0  0   Abbott J, rf          3  0  1  0   
+Gonzalez A, ss        4  0  0  0   Johnson M, c          2  0  1  0   
+Castillo A, c         3  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4  7  4                        30  1  5  1
+
+Toronto          000 000 310 --  4
+Chicago          010 000 000 --  1
+
+  Toronto              IP  H  R ER BB SO
+Castillo F (W)        6.0  4  1  1  2  1
+Borbon P              0.1  0  0  0  0  0
+Quantrill P           1.2  1  0  0  0  1
+Koch B (S)            1.0  0  0  0  1  1
+
+  Chicago              IP  H  R ER BB SO
+Parque J              6.0  2  0  0  4  4
+Wunsch K (L)          0.1  3  3  2  1  0
+Howry B               0.2  0  0  0  0  0
+Simas B               1.0  1  1  1  0  0
+Foulke K              1.0  1  0  0  1  2
+
+E -- Valentin J, Norton G, Durham R
+DP -- Toronto 1
+LOB -- Toronto 12, Chicago 5
+2B -- Singleton C
+HR -- Konerko P, Cruz J
+SB -- Mondesi R 2, Fullmer B
+CS -- Durham R
+SF -- Fullmer B
+Balk -- Parque J
+T -- 3:06
+A -- 10397
+     Game of 5/3/2000 -- Toronto at Chicago (N)
+
+  Toronto            AB  R  H RBI    Chicago            AB  R  H RBI
+Cruz J, cf            4  0  0  0   Durham R, 2b          5  0  0  0   
+Bush H, 2b            4  0  1  1   Valentin J, ss        5  2  2  2   
+Mondesi R, rf         4  0  0  0   Thomas F, dh          4  1  2  1   
+Delgado C, 1b         2  0  1  0   Konerko P, 1b         2  1  1  1   
+Fullmer B, dh         4  0  0  0   Singleton C, cf       5  0  0  0   
+Batista T, 3b         4  0  0  0   Lee C, lf             2  1  0  0   
+Fletcher D, c         4  1  1  1   Perry H, 3b           2  1  1  0   
+Cordova M, lf         4  2  2  1   Abbott J, rf          2  0  0  0   
+Gonzalez A, ss        3  0  0  0   Johnson M, c          4  1  2  3   
+                     -- -- -- --                        -- -- -- --
+                     33  3  5  3                        31  7  8  7
+
+Toronto          001 010 010 --  3
+Chicago          110 005 00x --  7
+
+  Toronto              IP  H  R ER BB SO
+Escobar K (L)         5.2  6  5  5  6  2
+Frascatore J          0.2  2  2  2  2  0
+Painter L             1.2  0  0  0  1  0
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J (W)         7.1  4  3  2  2  3
+Foulke K (S)          1.2  1  0  0  1  0
+
+E -- Konerko P
+LOB -- Toronto 6, Chicago 10
+HR -- Valentin J 2, Cordova M, Fletcher D, Johnson M, Thomas F, Konerko P
+SH -- Abbott J
+T -- 2:39
+A -- 12026
+     Game of 5/12/2000 -- Minnesota at Chicago (N)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Guzman C, ss          4  0  1  1   Durham R, 2b          4  0  0  0   
+Canizaro J, 2b        4  0  2  0   Valentin J, ss        5  1  3  0   
+Cummings M, ph-rf     1  0  0  0   Thomas F, dh          4  0  2  1   
+Lawton M, rf-lf       5  0  1  0   Ordonez M, rf         5  0  1  0   
+Coomer R, 1b          4  1  0  0   Konerko P, 1b         5  0  0  0   
+Huskey B, dh          4  0  0  0   Singleton C, cf       3  1  1  0   
+Ortiz D, ph           1  0  1  0   Lee C, lf             4  0  1  1   
+Koskie C, 3b          4  2  4  1   Norton G, 3b          3  0  0  0   
+LeCroy M, c           2  1  0  0   Perry H, ph-3b        1  0  0  0   
+Jones J, lf-cf        4  0  3  2   Johnson M, c          3  1  1  0   
+Hunter T, cf          3  0  0  0   Abbott J, ph          1  0  0  0   
+Hocking D, ph-2b      1  0  0  0   Paul J, c             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4 12  4                        38  3  9  2
+
+Minnesota        020 100 000 1 --  4
+Chicago          000 120 000 0 --  3
+
+  Minnesota            IP  H  R ER BB SO
+Mays J                7.2  9  3  2  3  3
+Miller T (W)          1.1  0  0  0  0  1
+Carrasco H (S)        1.0  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Parque J              5.2  7  3  3  3  5
+Simas B               0.1  0  0  0  0  1
+Foulke K              2.0  2  0  0  0  3
+Howry B               0.2  1  0  0  1  0
+Wunsch K              0.1  0  0  0  0  0
+Lowe S (L)            1.0  2  1  1  2  0
+
+E -- Lawton M
+DP -- Minnesota 1, Chicago 1
+LOB -- Minnesota 11, Chicago 8
+2B -- Lawton M, Koskie C, Lee C, Thomas F, Valentin J
+CS -- Koskie C
+SH -- Hocking D, LeCroy M
+WP -- Parque J
+T -- 3:22
+A -- 12526
+     Game of 5/13/2000 -- Minnesota at Chicago (N)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Guzman C, ss          4  1  2  0   Durham R, 2b          4  0  1  0   
+Canizaro J, 2b        4  1  1  0   Valentin J, ss        4  0  0  0   
+Lawton M, rf          3  0  1  2   Thomas F, dh          4  0  1  0   
+Coomer R, 1b          4  0  1  0   Ordonez M, rf         4  1  1  1   
+Huskey B, dh          3  0  1  0   Konerko P, 1b         4  0  0  0   
+Ortiz D, ph           0  0  0  0   Singleton C, cf       3  0  1  0   
+Hocking D, ph         1  0  0  0   Lee C, lf             3  2  3  1   
+Koskie C, 3b          3  0  0  0   Perry H, 3b           3  0  0  0   
+LeCroy M, c           3  1  1  1   Norton G, ph          1  0  0  0   
+Jones J, lf           3  0  0  0   Paul J, c             2  0  0  0   
+Hunter T, cf          3  0  1  0   Abbott J, ph          1  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     31  3  8  3                        33  4  8  4
+
+Minnesota        003 000 000 --  3
+Chicago          000 001 102 --  4
+  2 outs when winning run was scored.
+
+  Minnesota            IP  H  R ER BB SO
+Redman M              6.1  6  2  2  3  7
+Hawkins L             1.2  0  0  0  0  2
+Guardado E            0.1  0  0  0  0  0
+Wells B (L)           0.1  2  2  2  0  1
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M             8.1  7  3  3  1  6
+Simas B*              0.0  1  0  0  0  0
+Wunsch K (W)          0.2  0  0  0  0  1
+  * Pitched to 1 batter in 9th
+
+DP -- Minnesota 1, Chicago 4
+LOB -- Minnesota 2, Chicago 6
+HR -- LeCroy M, Ordonez M, Lee C, Abbott J
+CS -- Singleton C, Huskey B, Lawton M
+WP -- Sirotka M
+Balk -- Sirotka M
+T -- 2:52
+A -- 22545
+     Game of 5/14/2000 -- Minnesota at Chicago (D)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Jones J, lf           5  1  2  0   Durham R, 2b          3  0  0  0   
+Hocking D, ss         3  0  1  0   Valentin J, ss        4  0  1  1   
+Lawton M, rf          3  0  1  0   Thomas F, dh          3  1  0  0   
+Coomer R, 1b          4  0  2  0   Ordonez M, rf         4  2  2  0   
+Koskie C, 3b          4  0  0  0   Konerko P, 1b         3  1  2  2   
+Ortiz D, dh           4  0  0  0   Singleton C, cf       1  0  1  0   
+Hunter T, cf          3  0  0  0   Abbott J, pr-cf       2  0  0  0   
+Guzman C, ph          1  0  0  0   Lee C, lf             4  0  2  1   
+Jensen M, c           2  1  0  0   Norton G, 3b          4  0  1  1   
+Canizaro J, 2b        3  1  1  1   Johnson M, c          4  1  1  0   
+Cummings M, ph        1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  1                        32  5 10  5
+
+Minnesota        100 020 000 --  3
+Chicago          012 000 11x --  5
+
+  Minnesota            IP  H  R ER BB SO
+Radke B (L)           6.1  9  4  4  1  3
+Carrasco H            1.0  1  1  1  1  1
+Miller T              0.2  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J             6.0  6  3  3  4  3
+Wunsch K (W)          1.0  0  0  0  0  1
+Foulke K (S)          2.0  2  0  0  0  4
+
+DP -- Minnesota 1, Chicago 1
+LOB -- Minnesota 7, Chicago 7
+2B -- Ordonez M, Konerko P, Canizaro J, Cummings M
+SB -- Singleton C
+CS -- Jensen M
+SH -- Durham R
+HBP -- by Carrasco H (Konerko P)
+PB -- Johnson M
+T -- 2:50
+A -- 29177
+     Game of 5/23/2000 -- New York at Chicago (N)
+
+  New York           AB  R  H RBI    Chicago            AB  R  H RBI
+Knoblauch C, 2b       4  1  1  0   Durham R, 2b          4  1  1  1   
+Williams B, cf        5  0  0  0   Valentin J, ss        3  1  1  1   
+O'Neill P, rf         3  0  2  0   Thomas F, dh          4  0  1  1   
+Martinez T, 1b        4  0  1  2   Ordonez M, rf         4  1  1  1   
+Posada J, c           4  0  1  0   Konerko P, 1b         4  1  1  1   
+Ledee R, lf           4  0  1  0   Singleton C, cf       4  1  2  0   
+Leyritz J, dh         2  0  1  0   Lee C, lf             4  1  2  0   
+Brosius S, 3b         4  0  1  0   Norton G, 3b          1  0  1  0   
+Soriano A, ss         4  1  1  0   Perry H, pr-3b        3  1  0  0   
+                                   Fordyce B, c          4  1  1  3   
+                     -- -- -- --                        -- -- -- --
+                     34  2  9  2                        35  8 11  8
+
+New York         002 000 000 --  2
+Chicago          101 410 10x --  8
+
+  New York             IP  H  R ER BB SO
+Clemens R (L)         4.0  7  6  6  1  4
+Grimsley J            2.0  3  1  1  0  3
+Erdos T               2.0  1  1  1  0  2
+
+  Chicago              IP  H  R ER BB SO
+Wells K (W)           6.2  9  2  2  3  7
+Wunsch K              1.0  0  0  0  1  1
+Lowe S                1.1  0  0  0  0  1
+
+E -- Knoblauch C, Wells K
+DP -- Chicago 2
+LOB -- New York 9, Chicago 4
+HR -- Valentin J, Fordyce B, Durham R, Konerko P, Ordonez M
+SB -- Knoblauch C, Soriano A
+T -- 2:53
+A -- 21863
+     Game of 5/24/2000 -- New York at Chicago (N)
+
+  New York           AB  R  H RBI    Chicago            AB  R  H RBI
+Knoblauch C, 2b       5  2  2  1   Durham R, 2b          5  1  1  0   
+Williams B, cf        6  1  2  1   Valentin J, ss        4  0  1  1   
+O'Neill P, rf         6  1  2  3   Thomas F, dh          4  2  2  1   
+Spencer S, dh         3  1  1  1   Ordonez M, rf         3  0  1  0   
+Posada J, c           4  1  3  2   Konerko P, 1b         3  0  0  0   
+Turner C, ph-c        1  0  0  0   Singleton C, cf       4  0  0  0   
+Martinez T, 1b        5  1  2  0   Lee C, lf             4  0  0  0   
+Brosius S, 3b         4  1  3  2   Perry H, 3b           4  1  2  1   
+Ledee R, lf           2  0  0  0   Johnson M, c          3  0  0  0   
+Leyritz J, ph         0  0  0  0                                      
+Delgado W, pr-ss      2  1  0  0                                      
+Bellinger C, ss       2  0  0  0                                      
+Johnson L, ph-lf      3  3  3  1                                      
+                     -- -- -- --                        -- -- -- --
+                     43 12 18 11                        34  4  7  3
+
+New York         000 100 722 -- 12
+Chicago          101 000 110 --  4
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        7.0  6  3  3  1  3
+Nelson J              1.0  1  1  0  1  1
+Rivera M              1.0  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (L)*        6.0  6  3  3  3  6
+Howry B+              0.0  3  3  3  0  0
+Simas B               1.0  2  2  2  0  1
+Beirne K              1.0  3  2  2  1  1
+Eyre S                1.0  4  2  1  0  2
+  * Pitched to 2 batters in 7th
+  + Pitched to 3 batters in 7th
+
+E -- Johnson M, Knoblauch C, Valentin J
+DP -- Chicago 1
+LOB -- New York 9, Chicago 6
+2B -- O'Neill P, Thomas F, Martinez T
+3B -- Valentin J
+HR -- Thomas F, Posada J, Perry H
+SH -- Johnson M
+SF -- Spencer S
+T -- 3:17
+A -- 23144
+     Game of 5/25/2000 -- New York at Chicago (N)
+
+  New York           AB  R  H RBI    Chicago            AB  R  H RBI
+Knoblauch C, 2b       5  0  1  0   Durham R, 2b          4  0  2  0   
+Williams B, cf        5  0  1  0   Valentin J, ss        4  0  0  0   
+O'Neill P, rf         5  1  1  0   Thomas F, dh          2  0  0  0   
+Martinez T, 1b        3  1  1  0   Ordonez M, rf         4  0  0  0   
+Bellinger C, ph-1b    1  0  0  0   Konerko P, 1b         1  0  0  0   
+Posada J, c           3  2  1  0   Wilson C, ph-3b       3  0  0  0   
+Spencer S, dh         4  0  1  1   Singleton C, cf       3  0  1  0   
+Ledee R, lf           4  1  2  3   Lee C, lf             3  0  0  0   
+Brosius S, 3b         4  1  1  2   Perry H, 3b-1b        3  0  1  0   
+Delgado W, ss         4  1  3  1   Johnson M, c          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 12  7                        30  0  4  0
+
+New York         033 001 000 --  7
+Chicago          000 000 000 --  0
+
+  New York             IP  H  R ER BB SO
+Mendoza R (W)         9.0  4  0  0  1  4
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J (L)         5.2 10  7  7  1  2
+Lowe S                1.1  1  0  0  1  1
+Beirne K              1.0  1  0  0  0  0
+Foulke K              1.0  0  0  0  0  2
+
+DP -- New York 1, Chicago 1
+LOB -- New York 6, Chicago 5
+2B -- Ledee R, Martinez T
+HR -- Brosius S, Delgado W
+SB -- Delgado W
+HBP -- by Mendoza R (Thomas F)
+WP -- Lowe S
+T -- 2:21
+A -- 23636
+     Game of 5/26/2000 -- Cleveland at Chicago (N)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Alomar R, 2b          4  0  0  0   Durham R, 2b          4  0  1  1   
+Vizquel O, ss         4  0  1  0   Valentin J, ss        3  1  1  0   
+Justice D, dh         3  0  1  0   Thomas F, 1b          3  1  1  2   
+Ramirez M, rf         4  0  0  0   Ordonez M, rf         4  0  0  0   
+Thome J, 1b           4  1  1  1   Lee C, dh             3  0  0  0   
+Fryman T, 3b          4  1  1  0   Abbott J, lf          2  1  1  0   
+Sexson R, lf          4  0  1  0   Singleton C, cf       3  1  1  0   
+Diaz E, c             4  1  2  2   Perry H, 3b           3  0  1  1   
+Roberts D, cf         3  0  1  0   Fordyce B, c          3  1  0  1   
+Lofton K, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        28  5  6  5
+
+Cleveland        010 000 200 --  3
+Chicago          200 030 00x --  5
+
+  Cleveland            IP  H  R ER BB SO
+Finley C (L)          8.0  6  5  5  3  8
+
+  Chicago              IP  H  R ER BB SO
+Eldred C (W)          6.1  7  3  3  1  6
+Wunsch K              0.2  0  0  0  0  1
+Foulke K (S)          2.0  1  0  0  0  1
+
+E -- Durham R, Perry H
+DP -- Cleveland 2, Chicago 2
+LOB -- Cleveland 6, Chicago 2
+2B -- Valentin J, Fryman T, Sexson R
+3B -- Durham R
+HR -- Thomas F, Thome J, Diaz E
+SB -- Valentin J
+WP -- Eldred C
+T -- 2:39
+A -- 18225
+     Game of 5/27/2000 -- Cleveland at Chicago (N)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Lofton K, cf          5  1  1  0   Durham R, 2b          5  3  2  0   
+Vizquel O, ss         5  0  0  0   Valentin J, ss        4  4  3  6   
+Alomar R, 2b          5  1  1  2   Thomas F, 1b          4  2  2  2   
+Ramirez M, rf         3  1  3  0   Ordonez M, rf         4  1  3  2   
+Thome J, dh           4  0  0  0   Lee C, lf             5  1  1  3   
+Fryman T, 3b          2  0  1  0   Singleton C, cf       5  0  1  1   
+Sexson R, 1b          4  0  1  1   Abbott J, dh          5  1  1  0   
+Ramirez A, lf         4  0  1  0   Perry H, 3b           4  2  3  0   
+Diaz E, c             4  0  1  0   Fordyce B, c          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3  9  3                        40 14 16 14
+
+Cleveland        000 000 030 --  3
+Chicago          252 030 20x -- 14
+
+  Cleveland            IP  H  R ER BB SO
+Wright J (L)          1.1  6  7  7  1  3
+DePaula S             1.1  4  2  2  2  1
+Watson M              2.1  4  3  3  1  1
+Martin T              2.0  2  2  2  0  2
+Speier J              1.0  0  0  0  1  0
+
+  Chicago              IP  H  R ER BB SO
+Parque J (W)          7.1  6  2  2  2  5
+Pena J                0.2  2  1  1  1  1
+Howry B               1.0  1  0  0  0  2
+
+E -- Lofton K
+DP -- Cleveland 1
+LOB -- Cleveland 9, Chicago 8
+2B -- Perry H 2, Thomas F 2, Valentin J, Durham R, Diaz E
+3B -- Valentin J
+HR -- Valentin J, Lee C, Alomar R
+SB -- Ordonez M
+HBP -- by Speier J (Fordyce B)
+T -- 3:10
+A -- 30250
+     Game of 5/28/2000 -- Cleveland at Chicago (D)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Lofton K, cf          5  2  4  0   Durham R, 2b          5  1  1  0   
+Vizquel O, ss         5  2  1  1   Valentin J, ss        4  1  0  0   
+Alomar R, 2b          6  1  2  2   Thomas F, 1b          5  1  3  2   
+Ramirez M, rf         4  1  2  1   Ordonez M, rf         3  0  1  1   
+Thome J, 1b           4  0  1  2   Lee C, lf             3  0  0  0   
+Justice D, dh         4  1  0  0   Singleton C, cf       4  0  0  0   
+Fryman T, 3b          4  2  2  3   Abbott J, dh          4  0  1  0   
+Sexson R, lf          5  0  0  0   Perry H, 3b           2  0  1  0   
+Diaz E, c             5  3  3  2   Johnson M, c          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42 12 15 11                        33  3  7  3
+
+Cleveland        001 115 022 -- 12
+Chicago          100 000 200 --  3
+
+  Cleveland            IP  H  R ER BB SO
+Colon B (W)           5.0  4  1  1  5  8
+Kamieniecki S         2.0  3  2  2  0  1
+Reed S                1.0  0  0  0  1  1
+Speier J              1.0  0  0  0  0  3
+
+  Chicago              IP  H  R ER BB SO
+Wells K (L)           4.2  6  3  3  3  1
+Pena J*               0.1  0  1  1  1  1
+Lowe S                0.2  4  4  1  0  1
+Beirne K              2.1  2  2  2  1  0
+Simas B               1.0  3  2  2  0  3
+  * Pitched to 1 batter in 6th
+
+E -- Valentin J, Perry H
+LOB -- Cleveland 9, Chicago 10
+2B -- Abbott J, Alomar R 2, Thomas F, Thome J, Ordonez M, Ramirez M, Lofton K
+HR -- Fryman T, Thomas F, Diaz E
+SB -- Ramirez M, Lofton K, Vizquel O, Alomar R
+CS -- Lofton K
+SF -- Ordonez M, Fryman T
+WP -- Colon B 2
+T -- 4:01
+A -- 24192
+     Game of 6/9/2000 -- Chicago at Chicago (N)
+
+  Chicago            AB  R  H RBI    Chicago            AB  R  H RBI
+Young E, 2b           4  2  1  0   Durham R, 2b          6  0  3  1   
+Girardi J, c          5  0  0  0   Valentin J, ss        6  1  1  1   
+Grace M, 1b           7  0  1  0   Thomas F, dh          6  2  3  1   
+Sosa S, rf            6  1  1  2   Ordonez M, rf         6  1  3  1   
+Rodriguez H, lf       6  1  1  0   Konerko P, 1b         6  0  1  0   
+Hill G, dh            6  1  2  2   Singleton C, cf       6  1  2  1   
+Greene W, 3b          6  0  1  0   Lee C, lf             6  0  1  1   
+Buford D, cf          5  0  1  0   Norton G, 3b          4  0  0  0   
+Ojeda A, ss           1  0  0  0   Perry H, ph-3b        1  1  1  0   
+Matthews G, ph        1  0  0  0   Johnson M, c          4  0  0  0   
+Huson J, ss           2  0  0  0   Abbott J, ph          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     49  5  8  4                        51  6 15  6
+
+Chicago          000 012 002 000 00 --  5
+Chicago          000 310 100 000 01 --  6
+  1 out when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Lieber J              8.0 11  5  5  1  0
+Worrell T             3.0  1  0  0  0  4
+Heredia F             1.0  0  0  0  1  0
+Van Poppel T (L)      1.1  2  1  1  1  1
+Garibay D             0.0  1  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Wells K*              4.0  4  1  0  5  4
+Lowe S                2.0  2  2  2  1  1
+Wunsch K              0.2  0  0  0  0  1
+Howry B               1.0  0  0  0  1  2
+Foulke K              1.1  2  2  2  0  1
+Simas B               3.0  0  0  0  0  3
+Pena J (W)            2.0  0  0  0  1  1
+  * Pitched to 2 batters in 5th
+
+E -- Johnson M, Valentin J
+DP -- Chicago 1, Chicago 2
+LOB -- Chicago 10, Chicago 9
+2B -- Hill G, Singleton C, Ordonez M
+3B -- Ordonez M
+HR -- Thomas F, Hill G, Valentin J, Sosa S
+SB -- Young E, Perry H
+CS -- Durham R
+SH -- Johnson M
+T -- 4:42
+A -- 44140
+     Game of 6/10/2000 -- Chicago at Chicago (D)
+
+  Chicago            AB  R  H RBI    Chicago            AB  R  H RBI
+Young E, 2b           3  1  2  0   Durham R, 2b          3  0  1  0   
+Girardi J, c          3  0  1  0   Valentin J, ss        3  1  0  0   
+Grace M, 1b           4  1  2  2   Thomas F, dh          4  0  0  0   
+Sosa S, rf            4  0  0  0   Ordonez M, rf         2  2  1  2   
+Hill G, dh            4  0  0  0   Konerko P, 1b         3  1  2  0   
+Buford D, cf          4  0  1  0   Singleton C, cf       1  0  0  0   
+Matthews G, lf        3  0  0  0   Lee C, lf             3  0  1  1   
+Meyers C, 3b          3  0  1  0   Perry H, 3b           3  0  0  1   
+Ojeda A, ss           3  1  0  0   Fordyce B, c          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  7  2                        26  4  5  4
+
+Chicago          100 001 010 --  3
+Chicago          200 002 00x --  4
+
+  Chicago              IP  H  R ER BB SO
+Wood K (L)            6.0  3  4  4  7  5
+Heredia F             0.1  1  0  0  0  0
+Karchner M            1.2  1  0  0  1  1
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (W)*        7.0  6  3  3  1  5
+Wunsch K              0.2  1  0  0  1  0
+Lowe S                0.1  0  0  0  0  0
+Foulke K (S)          1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Valentin J, Girardi J
+DP -- Chicago 2
+LOB -- Chicago 3, Chicago 8
+2B -- Konerko P
+HR -- Ordonez M, Grace M
+SB -- Valentin J, Durham R
+SH -- Singleton C
+SF -- Perry H
+WP -- Sirotka M
+T -- 3:05
+A -- 43806
+     Game of 6/11/2000 -- Chicago at Chicago (D)
+
+  Chicago            AB  R  H RBI    Chicago            AB  R  H RBI
+Young E, 2b           5  2  2  1   Durham R, 2b          4  1  2  1   
+Brown B, 1b-lf        5  1  3  2   Valentin J, ss        5  2  3  2   
+Sosa S, rf            4  0  1  2   Thomas F, dh          4  1  1  1   
+Greene W, 3b          4  0  0  0   Ordonez M, rf         4  1  1  1   
+Meyers C, ph-3b       1  0  0  1   Konerko P, 1b         4  0  1  0   
+Hill G, dh            5  0  0  0   Singleton C, cf       4  0  0  0   
+Rodriguez H, lf       4  0  1  0   Lee C, lf             4  0  0  0   
+Grace M, 1b           0  0  0  0   Norton G, 3b          4  0  1  0   
+Buford D, cf          2  1  0  0   Johnson M, c          4  0  1  0   
+Reed J, c             2  2  1  0                                      
+Ojeda A, ss           3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  6  8  6                        37  5 10  5
+
+Chicago          002 000 301 --  6
+Chicago          102 002 000 --  5
+
+  Chicago              IP  H  R ER BB SO
+Valdes I              5.2 10  5  5  2  6
+Van Poppel T (W)      2.1  0  0  0  0  3
+Heredia F             0.2  0  0  0  0  0
+Aguilera R (S)        0.1  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J*            6.0  4  4  4  2  6
+Wunsch K              0.2  1  1  1  0  1
+Simas B               1.0  1  0  0  1  0
+Pena J (L)            1.1  2  1  1  1  1
+  * Pitched to 2 batters in 7th
+
+E -- Norton G
+LOB -- Chicago 8, Chicago 7
+2B -- Reed J, Brown B, Sosa S
+HR -- Valentin J 2, Brown B, Thomas F, Ordonez M, Durham R
+SH -- Ojeda A
+HBP -- by Baldwin J (Buford D)
+T -- 2:59
+A -- 43158
+     Game of 6/19/2000 -- Cleveland at Chicago (N)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Lofton K, cf          3  1  0  0   Durham R, 2b          5  0  1  0   
+Vizquel O, ss         3  0  1  1   Valentin J, ss        5  1  1  0   
+Alomar R, 2b          4  0  1  0   Thomas F, dh          4  1  2  1   
+Justice D, rf         4  0  1  0   Ordonez M, rf         4  0  1  1   
+Thome J, 1b           4  0  1  0   Konerko P, 1b         4  0  0  0   
+Fryman T, 3b          4  0  1  0   Singleton C, cf       3  2  1  0   
+Branyan R, dh         2  0  0  0   Lee C, lf             4  1  3  0   
+Sexson R, lf          3  0  0  0   Perry H, 3b           4  1  3  2   
+Diaz E, c             3  0  0  0   Johnson M, c          4  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        37  6 13  6
+
+Cleveland        000 000 010 --  1
+Chicago          000 031 02x --  6
+
+  Cleveland            IP  H  R ER BB SO
+Colon B (L)*          5.0  9  4  4  1  7
+Williams B            2.0  1  0  0  0  1
+Kamieniecki S         1.0  3  2  2  0  0
+
+  Chicago              IP  H  R ER BB SO
+Wells K (W)           6.2  4  0  0  1  6
+Howry B               1.1  1  1  1  1  0
+Wunsch K              1.0  0  0  0  0  1
+  * Pitched to 2 batters in 6th
+
+DP -- Chicago 2
+LOB -- Cleveland 5, Chicago 8
+2B -- Thome J, Alomar R, Thomas F, Fryman T, Lee C, Johnson M
+HR -- Perry H
+SB -- Lofton K
+HBP -- by Wells K (Branyan R)
+PB -- Diaz E
+T -- 3:04
+A -- 43062
+     Game of 6/20/2000 -- Cleveland at Chicago (N)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Cabrera J, cf-rf      5  0  0  0   Durham R, 2b          3  0  0  0   
+Vizquel O, ss         4  0  0  0   Valentin J, ss        3  1  2  0   
+Alomar R, 2b          4  1  1  0   Thomas F, dh          4  0  1  0   
+Justice D, rf         2  0  0  0   Ordonez M, rf         4  0  1  0   
+Lofton K, cf          1  1  0  0   Konerko P, 1b         4  0  1  1   
+Fryman T, 3b          3  1  1  2   Singleton C, cf       4  0  1  0   
+Sexson R, lf          4  0  1  0   Lee C, lf             4  0  0  0   
+Thome J, 1b           4  1  3  1   Perry H, 3b           4  0  0  0   
+Ramirez A, dh         3  0  1  0   Fordyce B, c          3  0  1  0   
+Branyan R, ph         1  0  0  0                                      
+Alomar S, c           4  0  2  1                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        33  1  7  1
+
+Cleveland        000 004 000 --  4
+Chicago          000 100 000 --  1
+
+  Cleveland            IP  H  R ER BB SO
+Brower J (W)          7.1  6  1  1  2  2
+Reed S                0.2  1  0  0  0  1
+Karsay S (S)          1.0  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (L)         8.0  9  4  3  1  6
+Lowe S                1.0  0  0  0  0  2
+
+E -- Sirotka M, Durham R
+DP -- Cleveland 1, Chicago 1
+LOB -- Cleveland 6, Chicago 7
+2B -- Fordyce B, Fryman T, Singleton C
+SB -- Valentin J
+SH -- Lofton K
+T -- 2:34
+A -- 20005
+     Game of 6/21/2000 -- Cleveland at Chicago (N)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Lofton K, cf          5  3  3  1   Durham R, 2b          5  1  1  0   
+Vizquel O, ss         5  1  3  1   Valentin J, ss        4  0  0  0   
+Alomar R, 2b          2  0  0  1   Thomas F, dh          5  3  4  2   
+Thome J, 1b           4  2  3  3   Ordonez M, rf         4  1  2  1   
+Fryman T, 3b          3  0  1  0   Konerko P, 1b         5  1  4  3   
+Sexson R, lf          3  0  0  0   Singleton C, cf       5  0  1  0   
+Branyan R, dh         4  0  0  0   Abbott J, lf          5  0  1  0   
+Ramirez A, rf         4  1  1  1   Norton G, 3b          3  0  1  0   
+Cabrera J, rf         0  0  0  0   Johnson M, c          2  0  0  0   
+Alomar S, c           4  1  1  0   Lee C, ph             1  0  0  0   
+                                   Fordyce B, c          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  8 12  7                        40  6 14  6
+
+Cleveland        310 030 100 --  8
+Chicago          200 002 101 --  6
+
+  Cleveland            IP  H  R ER BB SO
+Burba D (W)           5.1  7  4  4  1  7
+Speier J              1.2  3  1  1  1  1
+Reed S                0.1  2  0  0  0  0
+Karsay S (S)          1.2  2  1  1  0  1
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J (L)*        4.0  8  6  6  1  3
+Beirne K              2.0  1  1  1  1  1
+Pena J                1.0  3  1  1  0  0
+Simas B               1.0  0  0  0  0  0
+Foulke K              1.0  0  0  0  0  1
+  * Pitched to 3 batters in 5th
+
+DP -- Chicago 2
+LOB -- Cleveland 3, Chicago 10
+2B -- Vizquel O, Lofton K
+3B -- Lofton K, Alomar S
+HR -- Thome J 2, Ramirez A, Konerko P, Thomas F 2
+SB -- Ordonez M
+CS -- Vizquel O
+SH -- Alomar R, Valentin J
+SF -- Alomar R
+T -- 3:00
+A -- 23516
+     Game of 6/22/2000 -- Cleveland at Chicago (N)
+
+  Cleveland          AB  R  H RBI    Chicago            AB  R  H RBI
+Lofton K, cf          4  0  0  0   Durham R, 2b          4  2  2  2   
+Vizquel O, ss         4  0  3  0   Graffanino T, ss      5  0  1  0   
+Alomar R, 2b          4  0  0  0   Thomas F, dh          3  0  1  0   
+Thome J, 1b           4  0  1  0   Ordonez M, rf         3  0  1  1   
+Fryman T, 3b          3  0  2  0   Konerko P, 1b         4  0  1  0   
+Sexson R, lf          3  0  1  0   Abbott J, cf          3  0  1  0   
+Branyan R, dh         4  0  0  0   Singleton C, cf       2  1  0  0   
+Ramirez A, rf         4  0  0  0   Lee C, lf             4  1  1  0   
+Alomar S, c           3  0  0  0   Perry H, 3b           3  2  2  0   
+                                   Fordyce B, c          3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     33  0  7  0                        34  6 11  4
+
+Cleveland        000 000 000 --  0
+Chicago          121 000 11x --  6
+
+  Cleveland            IP  H  R ER BB SO
+Finley C (L)          5.0  8  4  4  5  3
+Kamieniecki S         2.1  3  2  2  1  3
+Brewington J          0.2  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Eldred C (W)          9.0  7  0  0  2  6
+
+DP -- Chicago 1
+LOB -- Cleveland 8, Chicago 12
+2B -- Perry H, Thomas F, Konerko P, Vizquel O, Graffanino T
+3B -- Fryman T
+HR -- Durham R
+SH -- Fordyce B
+HBP -- by Kamieniecki S (Durham R)
+WP -- Finley C, Kamieniecki S
+T -- 2:52
+A -- 23374
+     Game of 6/23/2000 -- New York at Chicago (N)
+
+  New York           AB  R  H RBI    Chicago            AB  R  H RBI
+Knoblauch C, dh       4  1  1  0   Durham R, 2b          4  0  0  0   
+Jeter D, ss           4  0  1  0   Valentin J, ss        5  1  3  1   
+O'Neill P, rf         4  1  2  1   Thomas F, dh          2  1  0  0   
+Williams B, cf        4  1  3  1   Ordonez M, rf         2  0  0  0   
+Posada J, c           5  0  0  0   Konerko P, 1b         3  0  1  0   
+Spencer S, lf         4  0  2  1   Singleton C, cf       4  0  1  1   
+Martinez T, 1b        3  0  0  0   Lee C, lf             3  1  1  1   
+Brosius S, 3b         4  0  0  0   Perry H, 3b           4  1  2  0   
+Vizcaino J, 2b        4  0  2  0   Fordyce B, c          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3 11  3                        30  4  8  3
+
+New York         000 001 020 --  3
+Chicago          000 200 002 --  4
+  2 outs when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Ford B                6.1  5  2  2  3  5
+Nelson J              1.1  0  0  0  1  2
+Rivera M (L)          1.0  3  2  2  1  1
+
+  Chicago              IP  H  R ER BB SO
+Parque J              6.0  7  1  1  0  6
+Howry B               1.1  2  2  2  0  1
+Wunsch K              0.1  0  0  0  0  0
+Simas B               1.0  2  0  0  3  1
+Lowe S (W)            0.1  0  0  0  0  0
+
+E -- Valentin J
+DP -- New York 3, Chicago 1
+LOB -- New York 11, Chicago 8
+2B -- Williams B 2, Spencer S
+HR -- O'Neill P, Lee C
+SB -- Singleton C, Vizcaino J, Ordonez M
+CS -- Knoblauch C
+SH -- Fordyce B
+HBP -- by Ford B (Thomas F), by Ford B (Lee C), by Howry B (Jeter D), by Simas B (Knoblauch C)
+T -- 3:10
+A -- 38773
+     Game of 6/24/2000 -- New York at Chicago (N)
+
+  New York           AB  R  H RBI    Chicago            AB  R  H RBI
+Knoblauch C, 2b       3  1  1  0   Durham R, 2b          4  1  0  1   
+Bellinger C, 3b       2  0  0  0   Valentin J, ss        2  1  2  0   
+Jeter D, ss           5  2  3  1   Thomas F, dh          4  0  0  1   
+O'Neill P, rf         3  2  1  2   Ordonez M, rf         4  1  3  2   
+Jose F, rf            1  0  0  0   Konerko P, 1b         4  1  1  1   
+Williams B, cf        5  3  4  0   Singleton C, cf       3  0  1  0   
+Martinez T, 1b        4  1  2  2   Abbott J, ph-cf       2  1  1  0   
+Posada J, c           4  2  2  1   Lee C, lf             5  2  2  0   
+Spencer S, lf         4  0  2  4   Perry H, 3b           5  1  3  2   
+Ledee R, dh           3  0  0  0   Johnson M, c          1  0  0  0   
+Brosius S, ph         1  0  0  1   Graffanino T, ph      0  0  0  0   
+Vizcaino J, 3b-2b     5  1  1  0   Norton G, ph          1  0  0  0   
+                                   Fordyce B, c          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40 12 16 11                        36  8 13  7
+
+New York         211 042 002 -- 12
+Chicago          001 002 131 --  8
+
+  New York             IP  H  R ER BB SO
+Mendoza R (W)*        5.0  6  3  3  3  0
+Erdos T               1.1  3  1  1  2  1
+Stanton M+            0.2  2  2  2  0  0
+Nelson J              0.1  0  1  1  2  0
+Rivera M (S)          1.2  2  1  1  0  2
+
+  Chicago              IP  H  R ER BB SO
+Wells K (L)           4.1  9  7  5  1  4
+Beirne K#             0.2  4  3  3  1  1
+Pena J                3.0  1  0  0  0  2
+Lowe S**              0.0  2  2  2  1  0
+Wunsch K              1.0  0  0  0  0  0
+  * Pitched to 2 batters in 6th
+  + Pitched to 2 batters in 8th
+  # Pitched to 3 batters in 6th
+  ** Pitched to 4 batters in 9th
+
+E -- Wells K
+DP -- New York 2, Chicago 2
+LOB -- New York 7, Chicago 10
+2B -- Spencer S, Martinez T 2, Posada J, Jeter D 2, Perry H 2, Valentin J, Abbott J
+HR -- Ordonez M
+SH -- Johnson M
+SF -- Martinez T, O'Neill P, Thomas F
+HBP -- by Lowe S (Spencer S)
+WP -- Wells K, Rivera M 2
+T -- 3:56
+A -- 32623
+     Game of 6/25/2000 -- New York at Chicago (D)
+
+  New York           AB  R  H RBI    Chicago            AB  R  H RBI
+Knoblauch C, dh       3  1  0  0   Valentin J, ss        4  2  2  0   
+Jeter D, ss           4  1  2  0   Graffanino T, 2b      3  3  3  0   
+O'Neill P, rf         2  0  0  0   Thomas F, dh          4  2  1  0   
+Jose F, rf            2  1  1  0   Ordonez M, rf         3  1  2  4   
+Williams B, cf        4  1  2  1   Konerko P, 1b         5  0  1  3   
+Posada J, c           4  0  0  0   Abbott J, cf          4  0  2  1   
+Spencer S, lf         4  2  2  1   Singleton C, cf       1  0  0  0   
+Martinez T, 1b        4  0  1  1   Lee C, lf             4  0  1  0   
+Brosius S, 3b         2  0  0  0   Perry H, 3b           4  0  0  0   
+Bellinger C, 3b       1  0  0  0   Fordyce B, c          4  0  1  0   
+Ledee R, ph           1  1  1  3                                      
+Vizcaino J, 2b        4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  7 10  6                        36  8 13  8
+
+New York         000 010 006 --  7
+Chicago          202 002 02x --  8
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        5.1 10  6  6  4  2
+Grimsley J            1.2  1  0  0  1  0
+Watson A              1.0  2  2  2  0  2
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (W)         8.0  5  1  1  0  5
+Foulke K              0.2  5  6  6  0  1
+Howry B (S)           0.1  0  0  0  0  1
+
+E -- Jeter D
+DP -- Chicago 1
+LOB -- New York 2, Chicago 10
+2B -- Graffanino T, Fordyce B
+3B -- Ordonez M
+HR -- Ordonez M, Ledee R
+SB -- Jeter D
+CS -- Lee C, Vizcaino J
+SH -- Graffanino T
+HBP -- by Foulke K (Knoblauch C)
+WP -- Sirotka M, Grimsley J
+T -- 3:15
+A -- 40817
+     Game of 6/27/2000 -- Minnesota at Chicago (N)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Canizaro J, 2b        3  1  1  1   Durham R, 2b          3  2  3  0   
+Hocking D, rf         5  0  1  0   Valentin J, ss        4  0  1  0   
+Lawton M, lf          3  0  0  0   Thomas F, dh          4  0  0  1   
+Coomer R, 1b          5  0  2  2   Ordonez M, rf         4  1  2  1   
+Ortiz D, dh           5  1  1  0   Konerko P, 1b         4  0  0  1   
+Koskie C, 3b          3  1  1  0   Abbott J, cf          3  0  1  0   
+Jensen M, c           4  1  2  1   Lee C, lf             4  0  1  0   
+Jones J, cf           4  1  1  2   Perry H, 3b           4  1  1  0   
+Guzman C, ss          4  2  3  0   Johnson M, c          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 12  6                        33  4  9  3
+
+Minnesota        051 000 100 --  7
+Chicago          101 000 011 --  4
+
+  Minnesota            IP  H  R ER BB SO
+Mays J (W)            7.1  8  3  3  2  2
+Hawkins L             1.0  1  1  1  2  1
+Guardado E            0.1  0  0  0  0  0
+Wells B (S)           0.1  0  0  0  1  0
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J (L)*        6.0 11  7  6  5  4
+Pena J                1.0  1  0  0  0  0
+Simas B               1.0  0  0  0  0  1
+Beirne K              1.0  0  0  0  0  2
+  * Pitched to 1 batter in 7th
+
+E -- Valentin J
+DP -- Chicago 2
+LOB -- Minnesota 7, Chicago 9
+2B -- Durham R 2, Jensen M, Guzman C, Coomer R, Abbott J, Canizaro J, Ordonez M
+HR -- Jones J
+CS -- Guzman C, Durham R
+SH -- Valentin J
+SF -- Ordonez M
+WP -- Mays J 2, Baldwin J, Hawkins L
+T -- 3:07
+A -- 20283
+     Game of 6/28/2000 -- Minnesota at Chicago (N)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Canizaro J, 2b        4  0  0  0   Durham R, 2b          5  1  3  1   
+Cummings M, rf        4  1  1  0   Valentin J, ss        5  1  1  0   
+Lawton M, lf          2  2  1  0   Thomas F, dh          4  2  2  4   
+Coomer R, 1b          3  0  2  1   Ordonez M, rf         4  2  4  1   
+Koskie C, 3b          2  0  0  0   Konerko P, 1b         4  0  1  0   
+Huskey B, dh          3  0  0  1   Singleton C, cf       4  0  1  1   
+Jones J, cf           2  0  0  0   Lee C, lf             4  0  1  0   
+Hocking D, ph-cf      1  0  0  0   Norton G, 3b          3  1  0  0   
+Moeller C, c          3  0  0  0   Fordyce B, c          4  0  1  0   
+Jensen M, ph          1  0  0  0                                      
+Guzman C, ss          3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  3  4  2                        37  7 14  7
+
+Minnesota        000 201 000 --  3
+Chicago          312 000 10x --  7
+
+  Minnesota            IP  H  R ER BB SO
+Lincoln M (L)         3.0  8  6  6  1  3
+Ryan J                4.0  6  1  1  0  3
+Carrasco H            1.0  0  0  0  0  2
+
+  Chicago              IP  H  R ER BB SO
+Eldred C (W)          5.1  4  3  3  4  5
+Simas B               0.1  0  0  0  0  0
+Wunsch K              2.0  0  0  0  2  3
+Howry B               1.1  0  0  0  0  2
+
+E -- Ryan J
+DP -- Chicago 1
+LOB -- Minnesota 6, Chicago 7
+2B -- Fordyce B
+HR -- Thomas F 2, Ordonez M
+SB -- Lawton M
+CS -- Ordonez M
+SF -- Huskey B
+HBP -- by Eldred C (Coomer R)
+T -- 2:52
+A -- 17541
+     Game of 6/29/2000 -- Minnesota at Chicago (D)
+
+  Minnesota          AB  R  H RBI    Chicago            AB  R  H RBI
+Canizaro J, 2b        5  3  4  1   Durham R, 2b          2  0  0  0   
+Cummings M, rf        5  2  2  0   Valentin J, ss        2  0  0  0   
+Lawton M, lf          5  1  2  1   Graffanino T, ss-2b   4  0  0  0   
+Coomer R, 1b          4  1  2  2   Thomas F, dh          4  0  2  0   
+Koskie C, 3b          3  2  2  2   Ordonez M, rf         4  0  1  0   
+Ortiz D, dh           4  0  0  1   Konerko P, 1b         3  0  1  0   
+Jensen M, c           5  0  2  2   Abbott J, cf          3  0  0  0   
+Jones J, cf           5  0  0  0   Lee C, lf             3  1  0  0   
+Guzman C, ss          5  1  1  0   Perry H, 3b           4  0  1  0   
+                                   Johnson M, c          4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     41 10 15  9                        33  1  6  1
+
+Minnesota        410 200 030 -- 10
+Chicago          010 000 000 --  1
+
+  Minnesota            IP  H  R ER BB SO
+Milton E (W)          7.0  5  1  1  2  6
+Wells B               1.0  0  0  0  0  0
+Miller T              1.0  1  0  0  1  2
+
+  Chicago              IP  H  R ER BB SO
+Wells K (L)           3.0  6  5  2  2  2
+Lowe S                2.2  6  2  2  1  2
+Pena J                1.1  0  0  0  0  1
+Foulke K              1.0  3  3  3  0  2
+Beirne K              1.0  0  0  0  0  1
+
+E -- Konerko P 2
+DP -- Chicago 2
+LOB -- Minnesota 8, Chicago 8
+2B -- Jensen M, Coomer R
+HR -- Canizaro J, Koskie C
+SF -- Ortiz D
+WP -- Wells K, Foulke K
+PB -- Johnson M
+T -- 3:04
+A -- 21239
+     Game of 6/30/2000 -- Boston at Chicago (N)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Offerman J, 2b-1b     5  0  1  0   Durham R, 2b          5  0  1  0   
+Varitek J, c          5  1  1  0   Valentin J, ss        5  1  1  0   
+Garciaparra N, ss     4  1  3  0   Thomas F, dh          4  2  3  2   
+Everett C, cf         4  0  1  0   Ordonez M, rf         2  2  1  1   
+Burkhart M, dh        5  0  2  2   Abbott J, rf          1  0  0  0   
+Daubach B, lf         4  0  0  0   Singleton C, cf       4  0  1  2   
+Stanley M, 1b         3  0  0  0   Lee C, lf             4  1  1  2   
+Frye J, ph-2b         1  0  0  0   Norton G, 1b          4  0  0  0   
+Alcantara I, rf       3  1  2  1   Perry H, 3b           4  1  2  0   
+Alexander M, 3b       3  0  0  0   Fordyce B, c          4  3  3  3   
+Hatteberg S, ph       1  1  1  1                                      
+Veras W, 3b           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  4 11  4                        37 10 13 10
+
+Boston           000 030 010 --  4
+Chicago          003 131 02x -- 10
+
+  Boston               IP  H  R ER BB SO
+Pichardo H (L)        4.0  6  4  4  2  2
+Florie B              0.1  3  3  3  0  0
+Cormier R             1.1  2  1  1  0  2
+Wasdin J              2.1  2  2  2  0  2
+
+  Chicago              IP  H  R ER BB SO
+Parque J (W)          5.2  8  3  1  2  4
+Simas B               2.1  2  1  1  0  2
+Howry B               1.0  1  0  0  0  3
+
+E -- Valentin J
+DP -- Chicago 1
+LOB -- Boston 10, Chicago 5
+2B -- Valentin J, Singleton C, Ordonez M, Garciaparra N
+3B -- Durham R
+HR -- Fordyce B 2, Alcantara I, Thomas F 2, Lee C, Hatteberg S
+SB -- Perry H
+HBP -- by Parque J (Everett C)
+T -- 3:05
+A -- 32157
+     Game of 7/1/2000 -- Boston at Chicago (D)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Offerman J, 1b        4  0  1  0   Durham R, 2b          3  2  1  1   
+Frye J, 2b            2  1  0  0   Valentin J, rf        4  0  2  4   
+Garciaparra N, ss     4  0  1  0   Thomas F, dh          2  0  0  0   
+Sprague E, 3b         4  0  0  0   Konerko P, 1b         4  0  0  0   
+Everett C, cf         4  0  0  0   Singleton C, cf       2  2  1  0   
+Burkhart M, dh        2  1  0  0   Lee C, lf             4  1  0  0   
+Daubach B, lf         4  0  2  1   Perry H, 3b           2  1  0  1   
+Varitek J, c          4  0  1  1   Graffanino T, ss      3  0  1  1   
+Alcantara I, rf       2  0  1  0   Johnson M, c          3  1  0  0   
+Hatteberg S, ph       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        27  7  5  7
+
+Boston           000 100 001 --  2
+Chicago          002 104 00x --  7
+
+  Boston               IP  H  R ER BB SO
+Crawford P (L)        5.1  4  6  2  5  2
+Garces R              0.2  1  1  1  1  2
+Florie B              2.0  0  0  0  1  0
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (W)         8.0  4  1  1  4  5
+Foulke K              1.0  2  1  1  1  0
+
+E -- Varitek J, Alcantara I, Sprague E
+DP -- Boston 1
+LOB -- Boston 7, Chicago 5
+2B -- Valentin J, Varitek J
+3B -- Valentin J
+SF -- Perry H, Graffanino T
+T -- 2:44
+A -- 28006
+     Game of 7/2/2000 -- Boston at Chicago (D)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Offerman J, 2b        3  1  1  1   Durham R, 2b          4  1  1  0   
+Frye J, rf            2  0  0  0   Graffanino T, ss      4  2  2  0   
+Garciaparra N, ss     3  0  0  1   Thomas F, dh          2  2  2  1   
+Daubach B, 1b         3  0  1  0   Ordonez M, rf         3  2  2  5   
+Stanley M, ph-1b      1  0  1  0   Konerko P, 1b         3  0  1  1   
+Everett C, cf         4  0  1  0   Lee C, lf             4  0  0  0   
+Burkhart M, dh        4  0  0  0   Singleton C, cf       3  1  2  0   
+Hatteberg S, c        3  0  0  0   Perry H, 3b           3  0  1  1   
+Alexander M, ph       1  0  0  0   Fordyce B, c          4  0  0  0   
+Sprague E, 3b         3  1  1  0                                      
+Pride C, lf           3  0  1  0                                      
+Varitek J, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        30  8 11  8
+
+Boston           001 000 010 --  2
+Chicago          302 001 20x --  8
+
+  Boston               IP  H  R ER BB SO
+Schourek P (L)        5.0  6  5  5  2  2
+Wasdin J              2.0  4  3  3  1  1
+Lowe D                1.0  1  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J (W)         7.1  5  2  2  4  5
+Wunsch K              1.2  1  0  0  0  2
+
+E -- Hatteberg S
+DP -- Boston 2
+LOB -- Boston 7, Chicago 4
+2B -- Graffanino T, Durham R
+HR -- Ordonez M 2, Thomas F, Offerman J
+SB -- Graffanino T, Singleton C
+CS -- Offerman J, Perry H
+SF -- Garciaparra N, Ordonez M, Konerko P
+HBP -- by Schourek P (Perry H)
+T -- 2:44
+A -- 32934
+     Game of 7/13/2000 -- St. Louis at Chicago (N)
+
+  St. Louis          AB  R  H RBI    Chicago            AB  R  H RBI
+Vina F, 2b            5  1  2  0   Durham R, 2b          2  0  1  0   
+Renteria E, ss        4  1  1  1   Graffanino T, ph-2b   2  2  2  0   
+Howard T, ph-rf       1  0  0  0   Valentin J, ss        4  0  1  2   
+Edmonds J, cf         3  2  1  1   Thomas F, dh          4  1  1  0   
+McDonald K, ph-c      1  0  0  0   Ordonez M, rf         3  0  0  0   
+Tatis F, 3b           3  3  2  3   Abbott J, rf          1  0  0  0   
+Perez E, pr-1b-lf     0  0  0  0   Konerko P, 1b         4  0  2  1   
+Davis E, rf           5  2  3  1   Singleton C, cf       4  1  3  1   
+Slocumb H, p          0  0  0  0   Lee C, lf             4  0  0  0   
+Lankford R, lf-cf     4  1  2  2   Perry H, 3b           2  0  1  0   
+Paquette C, 1b-3b     5  0  0  0   Norton G, ph-3b       2  0  0  0   
+Matheny M, c-1b       4  2  1  0   Johnson M, c          3  1  0  0   
+Dunston S, dh-ss      3  1  2  4                                      
+                     -- -- -- --                        -- -- -- --
+                     38 13 14 12                        35  5 11  4
+
+St. Louis        203 210 500 -- 13
+Chicago          000 001 112 --  5
+
+  St. Louis            IP  H  R ER BB SO
+Benes A (W)           7.0  9  2  2  2  4
+James M               1.0  1  1  1  0  2
+Slocumb H             1.0  1  2  2  1  1
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (L)         3.2  8  7  7  4  3
+Beirne K              2.2  4  4  3  1  2
+Pena J                0.2  2  2  2  2  1
+Wunsch K              1.0  0  0  0  1  0
+Foulke K              1.0  0  0  0  1  1
+
+E -- Lee C
+DP -- St. Louis 2, Chicago 1
+LOB -- St. Louis 8, Chicago 7
+2B -- Lankford R, Dunston S, Thomas F
+3B -- Graffanino T
+HR -- Renteria E, Tatis F 2, Dunston S, Singleton C
+SB -- Durham R, Edmonds J
+CS -- Vina F
+SF -- Edmonds J, Valentin J
+WP -- Pena J, Slocumb H
+Balk -- Slocumb H
+PB -- Johnson M
+T -- 3:17
+A -- 32263
+     Game of 7/14/2000 -- St. Louis at Chicago (N)
+
+  St. Louis          AB  R  H RBI    Chicago            AB  R  H RBI
+Vina F, 2b            4  1  1  0   Durham R, 2b          4  1  2  0   
+Renteria E, ss        5  1  1  0   Valentin J, ss        3  0  1  0   
+Edmonds J, cf         3  2  1  1   Thomas F, dh          3  2  2  2   
+Tatis F, 3b           3  1  1  0   Ordonez M, rf         3  1  0  0   
+Paquette C, pr-3b     0  1  0  0   Konerko P, 1b         4  0  1  1   
+Lankford R, lf        4  1  2  2   Singleton C, cf       3  0  0  1   
+Howard T, dh          3  0  1  0   Lee C, lf             4  0  0  0   
+Davis E, ph           1  1  1  2   Perry H, 3b           3  0  2  0   
+Perez E, 1b           4  1  2  4   Fordyce B, c          3  0  0  0   
+Matheny M, c          5  0  0  0                                      
+Dunston S, rf         4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  9 11  9                        30  4  8  4
+
+St. Louis        001 010 250 --  9
+Chicago          200 000 002 --  4
+
+  St. Louis            IP  H  R ER BB SO
+Stephenson G (W)      8.0  6  2  2  1  2
+Benes A*              0.0  2  2  2  1  0
+Veres D               1.0  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Eldred C              4.2  5  2  1  3  4
+Simas B               1.0  1  0  0  1  0
+Wunsch K (L)+         0.1  2  2  2  0  1
+Lowe S                1.1  1  3  3  1  0
+Howry B               0.2  1  2  2  1  1
+Pena J                1.0  1  0  0  0  0
+  * Pitched to 3 batters in 9th
+  + Pitched to 3 batters in 7th
+
+E -- Durham R
+DP -- St. Louis 3, Chicago 1
+LOB -- St. Louis 11, Chicago 3
+3B -- Lankford R
+HR -- Thomas F, Edmonds J, Perez E
+SH -- Dunston S, Valentin J, Perez E
+SF -- Singleton C
+HBP -- by Eldred C (Vina F), by Wunsch K (Tatis F), by Lowe S (Tatis F)
+T -- 3:25
+A -- 34862
+     Game of 7/15/2000 -- St. Louis at Chicago (N)
+
+  St. Louis          AB  R  H RBI    Chicago            AB  R  H RBI
+Vina F, 2b            3  0  1  0   Durham R, 2b          4  2  3  2   
+Renteria E, ss        4  1  1  0   Valentin J, ss        5  2  2  1   
+Edmonds J, cf         5  1  0  0   Thomas F, dh          5  2  2  6   
+Paquette C, rf        0  0  0  0   Ordonez M, rf         3  1  1  0   
+Tatis F, 3b           3  2  2  1   Lee C, pr-lf          0  1  0  0   
+Davis E, dh           5  0  5  2   Konerko P, 1b         5  1  3  1   
+Lankford R, lf        4  0  0  0   Singleton C, cf       3  1  0  2   
+Howard T, ph          1  0  0  0   Abbott J, lf-rf       4  2  2  1   
+Perez E, 1b           3  2  0  0   Perry H, 3b           5  2  2  2   
+Matheny M, c          4  0  2  0   Fordyce B, c          4  1  0  0   
+McDonald K, ph        1  1  1  2                                      
+Dunston S, rf-cf      4  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     37  7 13  6                        38 15 15 15
+
+St. Louis        110 020 003 --  7
+Chicago          300 210 90x -- 15
+
+  St. Louis            IP  H  R ER BB SO
+Kile D (L)            4.2  8  6  6  2  4
+Thompson M            1.2  2  2  2  1  1
+James M*              0.0  2  3  3  1  0
+Matthews M            0.2  2  4  4  2  0
+Slocumb H             1.0  1  0  0  0  3
+
+  Chicago              IP  H  R ER BB SO
+Parque J (W)          5.0  5  4  3  4  3
+Simas B               1.1  4  0  0  0  2
+Wunsch K              0.1  0  0  0  0  1
+Foulke K              1.1  1  0  0  1  2
+Pena J                1.0  3  3  3  0  0
+  * Pitched to 3 batters in 7th
+
+E -- Tatis F, Valentin J, Ordonez M, Lee C
+DP -- Chicago 2
+LOB -- St. Louis 11, Chicago 8
+2B -- Valentin J, Abbott J, Perry H 2, Tatis F, Thomas F, Konerko P
+HR -- Thomas F, Tatis F, McDonald K
+SB -- Renteria E, Ordonez M
+CS -- Durham R
+SF -- Dunston S, Singleton C
+HBP -- by Parque J (Tatis F), by Kile D (Ordonez M), by Matthews M (Valentin J), by Pena J (Perez E)
+WP -- Thompson M
+T -- 4:00
+A -- 40681
+     Game of 7/16/2000 -- Milwaukee at Chicago (D)
+
+  Milwaukee          AB  R  H RBI    Chicago            AB  R  H RBI
+Belliard R, 2b        4  0  1  0   Durham R, 2b          4  2  1  0   
+Grissom M, cf         5  0  0  0   Valentin J, ss        4  1  2  1   
+Jenkins G, lf         4  2  3  1   Thomas F, dh          3  2  2  2   
+Hayes C, dh           3  1  2  2   Ordonez M, rf         4  3  4  6   
+Burnitz J, rf         4  0  0  0   Konerko P, 1b         5  0  1  2   
+Hernandez J, 3b       4  0  0  0   Singleton C, cf       5  0  2  0   
+Casanova R, c         4  0  0  0   Abbott J, lf          4  0  0  0   
+Houston T, 1b         3  1  1  1   Perry H, 3b           5  1  2  0   
+Jones C, ph           1  1  1  0   Johnson M, c          4  2  2  0   
+Lopez L, ss           4  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5  9  5                        38 11 16 11
+
+Milwaukee        210 000 011 --  5
+Chicago          300 204 11x -- 11
+
+  Milwaukee            IP  H  R ER BB SO
+Snyder J (L)          4.0  8  5  5  3  1
+Acevedo J             2.0  4  4  4  1  0
+King R                1.0  2  1  1  0  0
+Weathers D            1.0  2  1  1  0  0
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J (W)         8.0  7  4  4  1 11
+Buehrle M             1.0  2  1  1  1  1
+
+DP -- Milwaukee 1
+LOB -- Milwaukee 6, Chicago 9
+2B -- Jenkins G, Konerko P, Johnson M, Perry H, Lopez L
+HR -- Hayes C, Houston T, Ordonez M 2, Jenkins G
+SB -- Valentin J, Durham R
+HBP -- by Snyder J (Durham R), by Snyder J (Valentin J)
+T -- 2:47
+A -- 30050
+     Game of 7/17/2000 -- Milwaukee at Chicago (N)
+
+  Milwaukee          AB  R  H RBI    Chicago            AB  R  H RBI
+Belliard R, 2b        3  0  0  1   Durham R, 2b          3  3  2  2   
+Grissom M, cf         2  0  0  0   Valentin J, ss        4  0  2  3   
+Jenkins G, lf         4  0  0  0   Thomas F, dh          3  1  1  2   
+Hayes C, 3b           3  1  2  1   Ordonez M, rf         5  1  1  0   
+Burnitz J, rf         4  0  0  0   Konerko P, 1b         5  0  1  0   
+Hernandez J, ss       4  0  0  0   Abbott J, cf          4  2  2  0   
+Houston T, 1b         4  0  0  0   Lee C, lf             4  2  2  2   
+Sweeney M, dh         3  1  1  0   Perry H, 3b           3  1  1  1   
+Blanco H, c           3  0  1  0   Johnson M, c          3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  2                        34 11 13 10
+
+Milwaukee        000 011 000 --  2
+Chicago          020 402 21x -- 11
+
+  Milwaukee            IP  H  R ER BB SO
+Bere J (L)            3.1  7  6  6  6  1
+Woodard S             2.2  2  2  2  1  4
+Leskanic C            1.0  2  2  2  0  1
+Wickman B             1.0  2  1  1  0  2
+
+  Chicago              IP  H  R ER BB SO
+Garland J (W)         7.0  3  2  2  5  3
+Wunsch K              1.0  1  0  0  0  1
+Howry B               1.0  0  0  0  0  1
+
+E -- Hernandez J, Jenkins G
+DP -- Milwaukee 2
+LOB -- Milwaukee 7, Chicago 6
+2B -- Sweeney M, Lee C, Blanco H, Hayes C, Valentin J
+HR -- Hayes C, Thomas F, Lee C
+SB -- Grissom M, Lee C
+CS -- Thomas F
+SF -- Belliard R
+WP -- Bere J
+PB -- Blanco H
+T -- 2:53
+A -- 31369
+     Game of 7/18/2000 -- Milwaukee at Chicago (N)
+
+  Milwaukee          AB  R  H RBI    Chicago            AB  R  H RBI
+Belliard R, 2b        4  1  1  0   Durham R, 2b          4  1  2  0   
+Mouton J, lf          3  0  1  0   Valentin J, ss        4  1  0  0   
+Jenkins G, ph         0  1  0  1   Thomas F, dh          4  1  2  1   
+Grissom M, cf         5  0  1  2   Ordonez M, rf         4  0  1  0   
+Hayes C, 1b           4  0  1  1   Konerko P, 1b         3  1  1  0   
+Hernandez J, 3b       3  0  0  0   Singleton C, cf       3  1  1  2   
+Burnitz J, ph         0  0  0  0   Lee C, lf             3  2  1  0   
+Jones C, rf           3  1  1  0   Norton G, 3b          2  0  2  2   
+Houston T, ph         1  0  0  0   Graffanino T, ph-3b   1  0  0  0   
+Casanova R, dh        4  1  2  1   Fordyce B, c          4  0  0  0   
+Lopez L, ss           4  1  2  0                                      
+Blanco H, c           4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  5                        32  7 10  5
+
+Milwaukee        000 001 004 --  5
+Chicago          014 020 00x --  7
+
+  Milwaukee            IP  H  R ER BB SO
+Wright J (L)          7.0  9  7  5  5  3
+De Los Santos V       1.0  1  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (W)         8.0  6  1  1  3 10
+Foulke K              0.1  3  4  4  1  0
+Howry B               0.1  0  0  0  0  0
+Wunsch K (S)          0.1  0  0  0  0  1
+
+E -- Norton G, Wright J, Mouton J
+DP -- Milwaukee 2, Chicago 1
+LOB -- Milwaukee 10, Chicago 7
+2B -- Norton G, Thomas F, Jones C
+SB -- Durham R
+SF -- Hayes C
+HBP -- by Wright J (Norton G), by Foulke K (Jenkins G), by Howry B (Burnitz J)
+T -- 3:00
+A -- 18542
+     Game of 7/24/2000 -- Kansas City at Chicago (N)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Damon J, cf           5  1  3  3   Durham R, 2b          3  1  1  0   
+Sanchez R, ss         3  0  1  0   Valentin J, ss        3  0  1  0   
+Sweeney M, dh         4  0  1  1   Thomas F, dh          3  0  0  0   
+Dye J, rf             4  0  0  1   Ordonez M, rf         3  2  1  3   
+Randa J, 3b           5  0  0  0   Konerko P, 1b         4  1  1  0   
+Quinn M, lf           5  1  4  0   Singleton C, cf       4  0  1  0   
+McCarty D, 1b         5  0  0  0   Lee C, lf             4  2  3  3   
+Ortiz H, c            5  2  3  0   Perry H, 3b           3  0  0  0   
+Febles C, 2b          2  2  2  1   Fordyce B, c          4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 14  6                        31  7  9  6
+
+Kansas City      010 202 100 --  6
+Chicago          020 101 30x --  7
+
+  Kansas City          IP  H  R ER BB SO
+Suzuki M (L)          6.2  8  7  6  3  2
+Larkin A              1.1  1  0  0  1  0
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M             5.0  9  3  3  3  4
+Simas B               1.1  5  3  3  0  1
+Lowe S*               0.0  0  0  0  1  0
+Wunsch K (W)          0.2  0  0  0  0  0
+Foulke K (S)          2.0  0  0  0  0  3
+  * Pitched to 1 batter in 7th
+
+E -- Ortiz H
+DP -- Kansas City 1
+LOB -- Kansas City 11, Chicago 5
+2B -- Konerko P, Ortiz H, Quinn M, Valentin J, Fordyce B
+3B -- Febles C
+HR -- Lee C, Ordonez M
+SB -- Lee C, Ordonez M
+CS -- Quinn M
+SH -- Sanchez R, Valentin J
+SF -- Dye J
+WP -- Suzuki M 2
+T -- 3:08
+A -- 34473
+     Game of 7/25/2000 -- Kansas City at Chicago (N)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Damon J, cf           4  1  1  0   Durham R, 2b          3  0  0  0   
+Sanchez R, ss         3  2  1  0   Valentin J, ss        4  0  0  0   
+Sweeney M, 1b         4  1  2  1   Thomas F, dh          4  0  1  0   
+Dye J, rf             4  2  2  4   Ordonez M, rf         3  0  0  0   
+Randa J, 3b           3  0  0  1   Konerko P, 1b         2  0  0  0   
+Quinn M, lf           4  0  1  0   Singleton C, cf       4  0  0  0   
+McCarty D, dh         4  0  1  0   Lee C, lf             4  0  0  0   
+Ortiz H, c            4  0  0  0   Perry H, 3b           3  1  2  1   
+Febles C, 2b          4  0  0  0   Fordyce B, c          3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6  8  6                        30  1  4  1
+
+Kansas City      000 202 020 --  6
+Chicago          010 000 000 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Suppan J (W)          7.0  3  1  1  6  3
+Bottalico R           2.0  1  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Parque J (L)*         7.0  7  6  4  1  4
+Barcelo L             1.0  1  0  0  0  0
+Beirne K              1.0  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+E -- Parque J, Konerko P
+DP -- Kansas City 1, Chicago 1
+LOB -- Kansas City 3, Chicago 9
+2B -- Perry H
+HR -- Perry H, Dye J 2
+SF -- Randa J
+HBP -- by Suppan J (Perry H)
+WP -- Suppan J
+T -- 2:42
+A -- 21091
+     Game of 7/26/2000 -- Kansas City at Chicago (D)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Damon J, dh           5  0  1  1   Durham R, 2b          2  0  0  0   
+Sanchez R, ss         5  1  3  1   Graffanino T, ss      4  0  0  0   
+Sweeney M, 1b         4  0  0  0   Valentin J, ph        1  1  1  1   
+Dye J, rf             4  1  1  2   Thomas F, dh          4  1  1  0   
+Randa J, 3b           4  1  1  0   Ordonez M, rf         5  1  1  0   
+Quinn M, lf           4  1  1  2   Perry H, 3b           5  2  2  2   
+Dunwoody T, cf        4  1  2  0   Norton G, 1b          3  1  1  1   
+Zaun G, c             3  1  0  0   Lee C, lf             2  0  0  0   
+Reboulet J, 2b        3  0  0  0   Abbott J, cf          4  0  2  0   
+McCarty D, ph         1  0  1  1   Singleton C, cf       0  0  0  0   
+Febles C, pr-2b       0  1  0  0   Johnson M, c          1  0  0  0   
+                                   Konerko P, ph         1  0  1  1   
+                                   Fordyce B, pr-c       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 10  7                        33  6  9  5
+
+Kansas City      200 200 003 --  7
+Chicago          000 004 011 --  6
+
+  Kansas City          IP  H  R ER BB SO
+Reichert D*           5.0  5  4  1  6  1
+Larkin A+             2.0  2  1  1  1  1
+Spradlin J (W)        1.2  2  1  1  0  2
+Bottalico R (S)       0.1  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J             7.0  6  4  4  0  4
+Howry B (L)           1.2  1  2  2  1  2
+Foulke K              0.1  3  1  1  0  0
+  * Pitched to 5 batters in 6th
+  + Pitched to 2 batters in 8th
+
+E -- Zaun G
+DP -- Kansas City 3
+LOB -- Kansas City 5, Chicago 8
+2B -- Sanchez R, Thomas F, Damon J
+HR -- Dye J, Quinn M, Perry H, Valentin J
+SB -- Dunwoody T
+SH -- Johnson M
+HBP -- by Baldwin J (Sweeney M)
+WP -- Reichert D
+T -- 3:10
+A -- 26615
+     Game of 8/4/2000 -- Oakland at Chicago (N)
+
+  Oakland            AB  R  H RBI    Chicago            AB  R  H RBI
+Long T, cf            4  2  3  0   Durham R, 2b          2  1  0  0   
+Velarde R, 2b         4  1  0  0   Valentin J, ss        3  2  2  2   
+Giambi J, 1b          3  1  1  3   Thomas F, 1b          3  0  1  0   
+Piatt A, rf           3  0  0  0   Ordonez M, rf         3  0  1  1   
+Stairs M, ph-rf       1  0  0  1   Baines H, dh          4  0  1  0   
+Stanley M, dh         4  0  1  0   Perry H, 3b           4  0  2  0   
+Grieve B, lf          3  0  1  0   Lee C, lf             4  0  1  0   
+Christenson R, pr-lf  0  1  0  0   Singleton C, cf       3  0  0  0   
+Tejada M, ss          3  0  1  0   Konerko P, ph         1  0  0  0   
+Chavez E, 3b          4  0  1  1   Johnson C, c          3  0  0  0   
+Fasano S, c           3  0  0  0                                      
+Giambi J, ph          1  0  0  0                                      
+Hernandez R, c        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  5  8  5                        30  3  8  3
+
+Oakland          000 003 011 --  5
+Chicago          002 000 010 --  3
+
+  Oakland              IP  H  R ER BB SO
+Appier K (W)          6.1  6  2  2  4  2
+Magnante M*           0.2  1  1  1  0  0
+Mecir J               1.0  0  0  0  0  0
+Isringhausen J (S)    1.0  1  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (L)         7.0  5  3  3  3  7
+Wunsch K              0.1  1  1  1  0  0
+Simas B+              0.2  2  1  1  1  0
+Buehrle M             1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+  + Pitched to 3 batters in 9th
+
+DP -- Oakland 3, Chicago 2
+LOB -- Oakland 6, Chicago 6
+2B -- Perry H, Long T, Valentin J, Chavez E
+HR -- Valentin J, Giambi J
+CS -- Durham R
+SF -- Ordonez M
+HBP -- by Appier K (Thomas F), by Wunsch K (Giambi J)
+WP -- Appier K
+T -- 3:22
+A -- 30019
+     Game of 8/5/2000 -- Oakland at Chicago (N)
+
+  Oakland            AB  R  H RBI    Chicago            AB  R  H RBI
+Christenson R, rf     3  0  0  0   Durham R, 2b          4  0  1  1   
+Giambi J, ph-rf       1  0  0  1   Valentin J, ss        5  1  2  0   
+Velarde R, 2b         5  1  1  0   Thomas F, 1b          5  1  3  2   
+Giambi J, 1b          5  0  0  0   Ordonez M, rf         3  0  0  0   
+Piatt A, 3b           3  0  0  0   Baines H, dh          4  0  0  0   
+Chavez E, ph-3b       2  0  0  0   Perry H, 3b           4  0  1  0   
+Grieve B, lf          3  1  3  2   Lee C, lf             3  0  0  0   
+Stanley M, dh         3  0  1  0   Singleton C, pr-cf    0  1  0  0   
+Menechino F, pr       0  1  0  0   Abbott J, cf-lf       4  1  1  0   
+Stairs M, ph          1  0  0  0   Johnson C, c          4  0  1  0   
+Long T, cf            4  0  1  0                                      
+Tejada M, ss          2  0  1  0                                      
+Hernandez R, c        3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  7  3                        36  4  9  3
+
+Oakland          000 100 200 0 --  3
+Chicago          101 000 001 1 --  4
+  1 out when winning run was scored.
+
+  Oakland              IP  H  R ER BB SO
+Heredia G             6.2  7  2  2  1  1
+Magnante M            0.1  0  0  0  0  1
+Tam J                 1.0  0  0  0  0  0
+Isringhausen J        1.0  0  1  0  1  0
+Mathews T (L)         0.1  2  1  1  0  1
+
+  Chicago              IP  H  R ER BB SO
+Parque J              6.1  5  3  3  3  9
+Howry B               1.1  2  0  0  0  1
+Wunsch K              0.1  0  0  0  0  0
+Foulke K (W)          2.0  0  0  0  0  2
+
+E -- Valentin J, Hernandez R
+DP -- Chicago 2
+LOB -- Oakland 7, Chicago 7
+2B -- Abbott J, Thomas F
+HR -- Thomas F, Grieve B
+SB -- Singleton C
+SF -- Durham R, Giambi J
+HBP -- by Howry B (Hernandez R)
+Balk -- Parque J, Isringhausen J
+T -- 3:14
+A -- 35314
+     Game of 8/6/2000 -- Oakland at Chicago (D)
+
+  Oakland            AB  R  H RBI    Chicago            AB  R  H RBI
+Long T, cf            4  0  1  0   Valentin J, ss        4  0  1  0   
+Velarde R, 2b         3  0  1  0   Graffanino T, 2b      5  1  1  0   
+Menechino F, 2b       0  0  0  0   Thomas F, dh          3  1  2  0   
+Giambi J, 1b          2  0  1  0   Norton G, ph          1  0  0  0   
+Stanley M, 1b         1  0  0  0   Ordonez M, rf         4  3  2  0   
+Grieve B, lf          4  0  0  0   Konerko P, 1b         4  3  2  2   
+Christenson R, lf     0  0  0  0   Perry H, 3b           5  3  3  4   
+Stairs M, dh          4  0  0  0   Lee C, lf             4  1  3  3   
+Tejada M, ss          3  0  1  0   Abbott J, cf          4  1  1  2   
+Piatt A, 3b           1  0  0  0   Johnson M, c          4  0  0  1   
+Giambi J, rf          4  0  0  0                                      
+Chavez E, 3b-ss       3  0  0  0                                      
+Hernandez R, c        3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  0  5  0                        38 13 15 12
+
+Oakland          000 000 000 --  0
+Chicago          305 000 23x -- 13
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (L)          2.2  7  8  7  4  1
+Jones D               3.1  1  0  0  1  1
+Mathews T             2.0  7  5  5  0  1
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J (W)         8.0  5  0  0  2  7
+Buehrle M             1.0  0  0  0  0  1
+
+E -- Tejada M, Konerko P
+DP -- Oakland 1, Chicago 1
+LOB -- Oakland 7, Chicago 7
+2B -- Konerko P
+HR -- Perry H
+SB -- Abbott J, Lee C
+SF -- Abbott J
+T -- 2:50
+A -- 32952
+     Game of 8/8/2000, game 1 -- Seattle at Chicago (D)
+
+  Seattle            AB  R  H RBI    Chicago            AB  R  H RBI
+Martin A, lf          6  3  4  0   Durham R, 2b          5  0  1  0   
+Guillen C, 3b-ss      6  1  2  1   Valentin J, ss        3  0  0  0   
+Rodriguez A, ss       3  3  3  3   Thomas F, dh          4  0  0  0   
+Bell D, 3b            0  0  0  0   Ordonez M, rf         4  1  2  1   
+Martinez E, dh        4  2  1  4   Konerko P, 1b         4  0  1  0   
+Olerud J, 1b          4  1  1  0   Perry H, 3b           4  0  2  0   
+Buhner J, rf          5  1  1  4   Lee C, lf             4  1  1  0   
+Cameron M, cf         5  0  1  0   Abbott J, cf          3  0  1  0   
+Oliver J, c           5  0  1  0   Singleton C, cf       1  0  0  0   
+McLemore M, 2b        5  1  3  0   Johnson C, c          3  2  2  3   
+                     -- -- -- --                        -- -- -- --
+                     43 12 17 12                        35  4 10  4
+
+Seattle          410 100 150 -- 12
+Chicago          000 010 111 --  4
+
+  Seattle              IP  H  R ER BB SO
+Pineiro J (W)*        6.0  5  2  2  2  4
+Tomko B (S)           3.0  5  2  2  1  1
+
+  Chicago              IP  H  R ER BB SO
+Garland J (L)         3.2  8  6  6  3  2
+Beirne K              3.2  6  5  5  1  4
+Simas B               1.2  3  1  1  0  2
+  * Pitched to 1 batter in 7th
+
+E -- Garland J
+DP -- Seattle 1, Chicago 1
+LOB -- Seattle 8, Chicago 8
+2B -- Martin A, Lee C, Durham R, Oliver J
+3B -- Martin A
+HR -- Buhner J, Johnson C 2, Rodriguez A, Martinez E, Ordonez M
+CS -- McLemore M
+SF -- Johnson C
+T -- 3:11
+A -- 23647
+     Game of 8/8/2000, game 2 -- Seattle at Chicago (N)
+
+  Seattle            AB  R  H RBI    Chicago            AB  R  H RBI
+Henderson R, lf       3  1  1  0   Valentin J, ss        3  1  1  2   
+Martin A, cf          2  0  1  0   Graffanino T, 2b      3  0  1  1   
+Cameron M, ph-cf      2  2  2  3   Durham R, ph-2b       1  0  0  0   
+Rodriguez A, ss       5  1  1  1   Thomas F, 1b          3  1  2  1   
+Martinez E, dh        4  0  0  0   Ordonez M, rf         5  1  0  0   
+Olerud J, 1b          4  0  1  1   Baines H, dh          5  0  2  1   
+Javier S, rf          3  0  1  0   Perry H, 3b           4  1  0  0   
+Guillen C, 3b         3  1  0  0   Abbott J, lf          1  0  1  0   
+Wilson D, c           3  1  1  0   Lee C, ph-lf          2  0  1  0   
+McLemore M, 2b        4  1  1  1   Singleton C, cf       3  1  0  0   
+                                   Johnson M, c          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  7  9  6                        32  5  8  5
+
+Seattle          000 150 001 --  7
+Chicago          121 100 000 --  5
+
+  Seattle              IP  H  R ER BB SO
+Garcia F (W)          5.0  6  5  5  5  3
+Ramsay R              0.2  0  0  0  1  1
+Mesa J                2.0  2  0  0  0  2
+Rhodes A              0.1  0  0  0  0  0
+Sasaki K (S)          1.0  0  0  0  1  1
+
+  Chicago              IP  H  R ER BB SO
+Barcelo L*            4.0  7  5  5  2  3
+Buehrle M (L)         2.0  1  1  0  3  0
+Myette A              0.2  0  0  0  1  1
+Wunsch K              1.1  0  0  0  1  3
+Howry B               1.0  1  1  1  0  1
+  * Pitched to 4 batters in 5th
+
+E -- Valentin J
+DP -- Chicago 1
+LOB -- Seattle 6, Chicago 10
+2B -- Baines H 2, Cameron M
+3B -- Martin A
+HR -- Thomas F, Rodriguez A, Valentin J, Cameron M
+SB -- Singleton C, Cameron M, Durham R
+CS -- Henderson R 2
+SH -- Valentin J, Singleton C
+HBP -- by Sasaki K (Thomas F)
+PB -- Wilson D 3
+T -- 3:43
+A -- 23647
+     Game of 8/9/2000 -- Seattle at Chicago (N)
+
+  Seattle            AB  R  H RBI    Chicago            AB  R  H RBI
+Henderson R, lf       5  0  0  0   Durham R, 2b          5  3  3  2   
+Guillen C, 3b-ss      3  0  1  0   Graffanino T, ss      4  3  1  4   
+Rodriguez A, ss       2  0  0  0   Thomas F, dh          4  4  3  5   
+Oliver J, 1b          2  0  0  0   Johnson M, ph         1  0  0  0   
+Martinez E, dh        3  0  1  0   Ordonez M, rf         6  2  4  0   
+Javier S, ph          1  0  0  0   Konerko P, 1b         6  1  4  2   
+Olerud J, 1b          1  0  1  0   Perry H, 3b           6  1  1  1   
+Widger C, 1b-c        3  1  1  1   Lee C, lf             6  2  3  1   
+Buhner J, rf          4  2  2  0   Singleton C, cf       6  1  3  3   
+Cameron M, cf         4  0  1  0   Johnson C, c          4  2  2  1   
+Bell D, 2b            2  0  0  1                                      
+Wilson D, c-3b        3  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  3                        48 19 24 19
+
+Seattle          000 020 100 --  3
+Chicago          251 317 00x -- 19
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (L)           3.2 13 11 11  2  2
+Ramsay R              2.0  8  8  5  3  2
+Paniagua J            2.1  3  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (W)         7.0  8  3  3  0  1
+Myette A              2.0  0  0  0  3  0
+
+E -- Bell D
+DP -- Seattle 1, Chicago 1
+LOB -- Seattle 7, Chicago 10
+2B -- Konerko P, Johnson C, Ordonez M 2, Buhner J 2, Thomas F
+HR -- Thomas F 2, Durham R, Widger C, Graffanino T
+SB -- Graffanino T
+SF -- Bell D
+WP -- Moyer J 2, Ramsay R
+T -- 3:10
+A -- 24947
+     Game of 8/10/2000 -- Seattle at Chicago (D)
+
+  Seattle            AB  R  H RBI    Chicago            AB  R  H RBI
+Martin A, lf          4  0  1  0   Durham R, 2b          5  1  1  0   
+McLemore M, 2b        3  0  0  0   Valentin J, ss        4  0  0  1   
+Rodriguez A, ss       4  0  0  0   Thomas F, 1b          4  1  3  2   
+Martinez E, dh        4  0  0  0   Ordonez M, rf         4  0  1  0   
+Olerud J, 1b          4  0  0  0   Baines H, dh          4  0  1  0   
+Javier S, rf          4  1  1  0   Perry H, 3b           4  0  1  0   
+Cameron M, cf         4  3  3  2   Lee C, lf             4  0  1  0   
+Oliver J, c           4  2  2  2   Singleton C, cf       4  0  2  0   
+Guillen C, 3b         4  0  2  2   Johnson M, c          3  1  1  0   
+                                   Johnson C, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6  9  6                        37  3 11  3
+
+Seattle          020 202 000 --  6
+Chicago          000 100 020 --  3
+
+  Seattle              IP  H  R ER BB SO
+Sele A (W)            7.2  8  3  3  0  5
+Mesa J*               0.0  1  0  0  0  0
+Rhodes A              0.1  0  0  0  0  1
+Sasaki K (S)          1.0  2  0  0  0  2
+
+  Chicago              IP  H  R ER BB SO
+Biddle R (L)          5.1  8  6  6  1  1
+Simas B               1.2  1  0  0  0  0
+Foulke K              2.0  0  0  0  0  3
+  * Pitched to 1 batter in 8th
+
+DP -- Seattle 1, Chicago 1
+LOB -- Seattle 3, Chicago 7
+2B -- Guillen C, Durham R
+3B -- Guillen C
+HR -- Oliver J, Thomas F, Cameron M
+SB -- McLemore M, Cameron M, Singleton C
+WP -- Biddle R
+T -- 2:41
+A -- 23924
+     Game of 8/18/2000 -- Tampa Bay at Chicago (N)
+
+  Tampa Bay          AB  R  H RBI    Chicago            AB  R  H RBI
+Williams G, cf        4  1  1  1   Durham R, 2b          4  1  3  0   
+Cairo M, 2b           4  0  1  0   Valentin J, ss        4  1  1  2   
+Vaughn G, dh          4  0  0  0   Thomas F, dh          4  0  0  0   
+McGriff F, 1b         3  0  0  0   Ordonez M, rf         3  0  1  0   
+Cox S, lf             4  0  2  0   Konerko P, 1b         4  0  0  0   
+Guillen J, rf         4  0  0  0   Perry H, 3b           4  0  0  0   
+Huff A, 3b            3  1  0  0   Lee C, lf             3  2  2  1   
+DiFelice M, c         4  0  1  0   Singleton C, cf       2  1  2  2   
+Martinez F, ss        2  0  1  0   Johnson M, c          2  0  0  0   
+Johnson R, ph-ss      1  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        30  5  9  5
+
+Tampa Bay        000 001 100 --  2
+Chicago          200 020 10x --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Rekar B (L)           7.0  8  5  5  1  4
+Lidle C               1.0  1  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Garland J (W)         5.2  4  1  1  1  4
+Buehrle M             1.0  1  1  1  1  0
+Howry B               1.1  1  0  0  0  1
+Foulke K (S)          1.0  1  0  0  0  0
+
+E -- DiFelice M
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 6, Chicago 4
+2B -- Martinez F, Lee C, Durham R
+HR -- Valentin J, Singleton C, Williams G, Lee C
+SB -- Ordonez M
+SH -- Johnson M
+PB -- Johnson M
+T -- 2:36
+A -- 25160
+     Game of 8/19/2000 -- Tampa Bay at Chicago (N)
+
+  Tampa Bay          AB  R  H RBI    Chicago            AB  R  H RBI
+Williams G, cf        4  0  0  0   Durham R, 2b          4  1  2  0   
+Johnson R, 3b-ss      3  0  1  0   Valentin J, ss        3  2  2  1   
+Vaughn G, dh          3  0  0  0   Thomas F, dh          4  1  2  4   
+McGriff F, 1b         3  0  0  0   Ordonez M, rf         3  1  1  1   
+Smith B, 2b-3b        4  0  1  0   Konerko P, 1b         4  0  0  0   
+Flaherty J, c         4  0  0  0   Perry H, 3b           4  0  2  1   
+Cox S, lf             2  0  0  0   Lee C, lf             4  0  0  0   
+Guillen J, rf         4  0  1  0   Singleton C, cf       4  1  2  0   
+Martinez F, ss        2  0  0  0   Johnson C, c          3  1  0  0   
+Cairo M, ph-2b        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  3  0                        33  7 11  7
+
+Tampa Bay        000 000 000 --  0
+Chicago          101 011 30x --  7
+
+  Tampa Bay            IP  H  R ER BB SO
+Lopez A (L)           6.2 10  7  6  2  1
+Taylor B              0.1  0  0  0  1  0
+Yan E                 1.0  1  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (W)         6.0  3  0  0  5  2
+Simas B               1.0  0  0  0  0  1
+Wunsch K              1.0  0  0  0  0  0
+Barcelo L             1.0  0  0  0  0  1
+
+E -- Cox S
+DP -- Tampa Bay 3
+LOB -- Tampa Bay 8, Chicago 5
+2B -- Thomas F, Durham R
+HR -- Thomas F
+SB -- Smith B, Singleton C
+T -- 2:32
+A -- 38926
+     Game of 8/20/2000 -- Tampa Bay at Chicago (D)
+
+  Tampa Bay          AB  R  H RBI    Chicago            AB  R  H RBI
+Williams G, cf        5  2  1  1   Durham R, 2b          3  3  2  0   
+Cox S, rf             5  1  1  3   Valentin J, ss        4  4  3  3   
+Cairo M, pr           0  0  0  0   Thomas F, dh          5  1  2  1   
+Guillen J, rf         0  0  0  0   Ordonez M, rf         6  0  2  3   
+Vaughn G, dh          4  0  2  3   Konerko P, 1b         5  1  2  0   
+McGriff F, 1b         5  1  1  0   Perry H, 3b           4  2  3  3   
+Smith B, 2b           5  1  2  1   Lee C, lf             5  0  0  0   
+Huff A, 3b            5  1  2  0   Singleton C, cf       4  0  1  0   
+Martinez F, pr-ss     0  1  0  0   Johnson M, c          4  0  0  0   
+DiFelice M, c         3  2  1  1                                      
+Tyner J, lf           3  1  2  2                                      
+Guillen O, ss         5  2  3  1                                      
+Johnson R, 3b         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40 12 15 12                        40 11 15 10
+
+Tampa Bay        060 004 002 -- 12
+Chicago          205 210 010 -- 11
+
+  Tampa Bay            IP  H  R ER BB SO
+Eiland D              2.1  5  6  6  2  0
+Lidle C               1.2  4  3  3  1  1
+Wilson P              3.0  5  1  1  0  2
+Yan E (W)             1.0  0  1  1  2  0
+Hernandez R (S)       1.0  1  0  0  2  2
+
+  Chicago              IP  H  R ER BB SO
+Biddle R*             5.0  8  8  4  2  2
+Buehrle M             0.2  3  2  2  0  2
+Barcelo L             0.1  0  0  0  0  0
+Wunsch K              1.2  1  0  0  1  0
+Howry B               0.1  0  0  0  1  0
+Foulke K (L)          1.0  3  2  2  0  1
+  * Pitched to 2 batters in 6th
+
+E -- Konerko P
+LOB -- Tampa Bay 7, Chicago 11
+2B -- McGriff F, Cox S, Thomas F, Valentin J, Williams G, Tyner J
+3B -- Durham R
+HR -- Perry H, DiFelice M, Smith B
+SB -- Valentin J 2, Durham R, Ordonez M, Cairo M
+CS -- Tyner J
+SH -- DiFelice M, Johnson M
+SF -- Tyner J
+HBP -- by Yan E (Perry H)
+WP -- Biddle R, Yan E
+T -- 3:45
+A -- 27744
+     Game of 8/21/2000 -- Tampa Bay at Chicago (N)
+
+  Tampa Bay          AB  R  H RBI    Chicago            AB  R  H RBI
+Williams G, cf        5  3  3  2   Durham R, 2b          2  0  0  0   
+Johnson R, 3b         5  1  1  0   Valentin J, ss        5  1  1  0   
+Vaughn G, dh          2  3  0  0   Thomas F, dh          4  1  1  1   
+McGriff F, 1b         2  1  2  3   Ordonez M, rf         4  0  1  0   
+Guillen O, ph-1b      1  0  0  0   Konerko P, 1b         4  0  1  0   
+Smith B, 2b           5  0  2  3   Lee C, lf             4  1  2  1   
+Flaherty J, c         5  0  0  0   Singleton C, cf       3  1  0  0   
+Guillen J, rf         2  1  1  1   Graffanino T, 3b      4  0  0  0   
+Tyner J, lf           2  0  0  0   Johnson C, c          4  0  2  2   
+Martinez F, ss        4  2  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     33 11 10 10                        34  4  8  4
+
+Tampa Bay        101 040 500 -- 11
+Chicago          000 100 012 --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Sturtze T (W)         7.0  5  1  1  2  6
+Taylor B              1.0  1  1  1  0  1
+Creek D               0.2  2  2  2  2  1
+Yan E                 0.1  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Parque J (L)          4.2  5  6  3  5  3
+Beirne K*             1.1  3  5  5  2  2
+Buehrle M             3.0  2  0  0  0  2
+  * Pitched to 5 batters in 7th
+
+E -- Parque J
+DP -- Chicago 3
+LOB -- Tampa Bay 4, Chicago 7
+2B -- Johnson C 2, Thomas F, Lee C, Guillen J
+3B -- Valentin J
+HR -- Williams G, Martinez F
+SB -- Durham R, McGriff F, Vaughn G
+SH -- Tyner J
+HBP -- by Buehrle M (Tyner J)
+WP -- Yan E
+T -- 2:57
+A -- 31744
+     Game of 8/23/2000 -- Baltimore at Chicago (N)
+
+  Baltimore          AB  R  H RBI    Chicago            AB  R  H RBI
+Anderson B, lf        5  1  1  1   Durham R, 2b          2  3  0  0   
+Mora M, ss            4  0  1  0   Graffanino T, ss      3  2  0  0   
+DeShields D, dh       4  0  1  0   Thomas F, dh          4  0  3  2   
+Belle A, rf           4  0  0  0   Ordonez M, rf         4  1  1  3   
+Conine J, 3b          3  1  2  1   Lee C, lf             4  0  1  1   
+Richard C, 1b         3  1  1  1   Perry H, 3b           4  0  0  0   
+Kinkade M, ph-1b      1  0  0  0   Konerko P, 1b         4  0  1  0   
+Fordyce B, c          4  0  0  0   Singleton C, cf       3  1  0  0   
+Matos L, cf           3  0  1  0   Johnson C, c          2  1  1  0   
+Hairston J, 2b        4  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  4                        30  8  7  6
+
+Baltimore        000 121 000 --  4
+Chicago          320 201 00x --  8
+
+  Baltimore            IP  H  R ER BB SO
+Parrish J (L)         1.2  4  5  3  5  1
+Johnson J             6.1  3  3  1  4  5
+
+  Chicago              IP  H  R ER BB SO
+Lowe S                4.1  5  3  3  2  3
+Barcelo L (W)         3.1  2  1  1  0  2
+Wunsch K              0.1  0  0  0  0  0
+Howry B               1.0  1  0  0  0  0
+
+E -- Parrish J, Lowe S, Conine J
+DP -- Baltimore 2, Chicago 1
+LOB -- Baltimore 6, Chicago 8
+2B -- DeShields D, Ordonez M, Thomas F
+HR -- Richard C, Hairston J, Anderson B, Conine J
+SB -- Graffanino T, Durham R 2, Hairston J
+SH -- Singleton C
+T -- 3:14
+A -- 22528
+     Game of 8/24/2000 -- Baltimore at Chicago (D)
+
+  Baltimore          AB  R  H RBI    Chicago            AB  R  H RBI
+Anderson B, lf        3  1  1  0   Durham R, 2b          3  1  1  0   
+Hairston J, 2b        3  0  1  1   Graffanino T, pr-2b   1  1  0  0   
+Mora M, ss            5  1  1  1   Valentin J, ss        4  0  2  1   
+Belle A, dh           5  1  1  1   Thomas F, 1b          3  0  0  1   
+Conine J, rf          3  3  2  0   Ordonez M, rf         4  0  0  0   
+Richard C, 1b         2  1  1  0   Baines H, dh          4  0  0  0   
+Fordyce B, c          2  0  1  3   Lee C, lf             4  2  3  0   
+Lewis M, 3b           4  0  1  2   Perry H, 3b           4  1  2  1   
+Matos L, cf           4  1  1  0   Singleton C, cf       3  0  1  1   
+                                   Johnson M, c          2  0  0  0   
+                                   Konerko P, ph         1  0  0  0   
+                                   Johnson C, c          0  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     31  8 10  8                        33  5  9  5
+
+Baltimore        024 000 011 --  8
+Chicago          000 001 211 --  5
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J (W)        6.2  6  3  3  1  2
+Groom B*              0.1  1  1  0  0  0
+Trombley M            1.0  0  0  0  0  0
+Kohlmeier R           1.0  2  1  1  0  2
+
+  Chicago              IP  H  R ER BB SO
+Hill K (L)            2.1  5  6  6  4  0
+Buehrle M             4.2  1  0  0  3  5
+Simas B               1.0  2  1  1  0  0
+Foulke K              1.0  2  1  1  0  2
+  * Pitched to 2 batters in 8th
+
+E -- Lewis M, Conine J, Hairston J
+DP -- Baltimore 2, Chicago 2
+LOB -- Baltimore 5, Chicago 5
+2B -- Anderson B, Lewis M, Durham R, Perry H, Valentin J, Hairston J
+3B -- Mora M
+SB -- Conine J, Matos L
+CS -- Mora M, Hairston J
+SH -- Hairston J, Singleton C
+SF -- Fordyce B, Thomas F, Johnson C
+T -- 3:15
+A -- 20007
+     Game of 9/1/2000 -- Anaheim at Chicago (N)
+
+  Anaheim            AB  R  H RBI    Chicago            AB  R  H RBI
+Erstad D, dh          4  2  3  0   Durham R, 2b          5  2  2  3   
+Palmeiro O, lf        4  1  1  0   Graffanino T, ss      3  0  0  0   
+Vaughn M, 1b          4  2  2  4   Valentin J, ph-ss     1  0  1  2   
+Salmon T, rf          5  0  0  0   Thomas F, dh          5  1  1  1   
+Anderson G, cf        4  1  2  2   Ordonez M, rf         4  2  3  1   
+Glaus T, 3b           3  1  1  2   Lee C, lf             4  1  1  0   
+Kennedy A, 2b         4  0  0  0   Perry H, 3b           4  1  2  1   
+Walbeck M, c          4  0  0  0   Konerko P, 1b         4  1  3  0   
+Stocker K, ss         3  1  1  0   Singleton C, cf       3  0  0  0   
+                                   Baines H, ph          1  0  0  0   
+                                   Abbott J, cf          0  0  0  0   
+                                   Johnson C, c          3  0  1  1   
+                                   Paul J, pr-c          0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  8 10  8                        37  9 14  9
+
+Anaheim          400 040 000 --  8
+Chicago          011 000 16x --  9
+
+  Anaheim              IP  H  R ER BB SO
+Schoeneweis S         6.1  7  3  3  1  4
+Levine A*             0.2  3  3  3  1  0
+Hasegawa S (L)        1.0  4  3  3  0  1
+
+  Chicago              IP  H  R ER BB SO
+Lowe S+               4.0  6  7  7  3  2
+Barcelo L             2.0  1  1  1  1  2
+Simas B               1.0  2  0  0  0  0
+Ginter M (W)          1.0  0  0  0  0  0
+Foulke K (S)          1.0  1  0  0  0  2
+  * Pitched to 3 batters in 8th
+  + Pitched to 3 batters in 5th
+
+E -- Stocker K
+DP -- Anaheim 2
+LOB -- Anaheim 5, Chicago 6
+2B -- Erstad D, Ordonez M, Perry H, Durham R
+3B -- Anderson G
+HR -- Glaus T, Durham R, Vaughn M, Thomas F, Ordonez M
+CS -- Glaus T
+SH -- Palmeiro O
+T -- 3:06
+A -- 16377
+     Game of 9/2/2000 -- Anaheim at Chicago (N)
+
+  Anaheim            AB  R  H RBI    Chicago            AB  R  H RBI
+Erstad D, dh          5  1  1  0   Durham R, 2b          5  0  1  0   
+Glaus T, 3b           2  1  1  0   Valentin J, ss        5  1  1  0   
+Salmon T, rf          3  1  0  0   Thomas F, dh          4  1  1  0   
+Vaughn M, 1b          2  1  0  1   Ordonez M, rf         5  1  2  1   
+Gant R, lf            3  1  0  1   Lee C, lf             4  2  1  2   
+Anderson G, cf        4  1  2  3   Perry H, 3b           4  2  1  0   
+Molina B, c           4  0  1  0   Konerko P, 1b         2  3  1  0   
+Kennedy A, 2b         4  0  0  0   Abbott J, cf          4  2  3  1   
+Gil B, ss             3  0  0  0   Johnson C, c          4  1  3  7   
+Spiezio S, ph         1  0  0  0                                      
+Baughman J, ss        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  6  5  5                        37 13 14 11
+
+Anaheim          000 005 100 --  6
+Chicago          040 150 30x -- 13
+
+  Anaheim              IP  H  R ER BB SO
+Mercker K (L)         2.0  2  4  4  3  1
+Pote L*               2.0  4  4  4  1  1
+Petkovsek M           2.0  5  2  1  1  0
+Ward B                1.0  3  3  3  0  1
+Turnbow D             1.0  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Parque J (W)+         5.0  2  3  3  5  4
+Buehrle M#            1.0  2  3  2  2  0
+Wunsch K              1.0  0  0  0  0  0
+Howry B               1.0  0  0  0  0  1
+Bradford C            1.0  1  0  0  0  0
+  * Pitched to 3 batters in 5th
+  + Pitched to 3 batters in 6th
+  # Pitched to 3 batters in 7th
+
+E -- Vaughn M, Durham R
+DP -- Anaheim 1, Chicago 1
+LOB -- Anaheim 6, Chicago 5
+2B -- Johnson C, Lee C, Thomas F
+HR -- Anderson G, Johnson C
+SB -- Perry H, Valentin J
+SF -- Vaughn M
+WP -- Mercker K, Petkovsek M
+T -- 3:09
+A -- 29785
+     Game of 9/3/2000 -- Anaheim at Chicago (D)
+
+  Anaheim            AB  R  H RBI    Chicago            AB  R  H RBI
+Erstad D, dh          6  2  2  2   Durham R, 2b          5  2  3  1   
+Stocker K, ss         4  2  3  0   Valentin J, ss        3  2  1  1   
+Vaughn M, 1b          3  2  0  0   Thomas F, dh          4  2  3  4   
+Salmon T, rf          5  1  2  3   Ordonez M, rf         4  0  0  1   
+Anderson G, cf        4  2  1  2   Lee C, lf             5  1  1  0   
+Glaus T, 3b           3  2  1  1   Perry H, 3b           4  2  3  1   
+Spiezio S, lf         2  1  1  4   Konerko P, 1b         4  2  1  2   
+Palmeiro O, lf        1  0  0  0   Singleton C, cf       4  1  1  0   
+Molina B, c           3  0  0  0   Johnson M, c          2  1  1  2   
+Kennedy A, 2b         5  0  1  0   Baines H, ph          1  0  1  0   
+                                   Paul J, pr-c          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36 12 11 12                        36 13 15 12
+
+Anaheim          403 004 100 -- 12
+Chicago          900 001 12x -- 13
+
+  Anaheim              IP  H  R ER BB SO
+Ortiz R               0.2  8  9  9  2  0
+Levine A              3.0  2  0  0  2  0
+Holtz M               1.1  0  0  0  1  0
+Turnbow D             1.0  1  1  1  0  1
+Hasegawa S (L)        2.0  4  3  2  0  1
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J             2.1  5  7  7  6  1
+Barcelo L             2.2  3  0  0  0  3
+Ginter M              1.0  2  4  4  3  0
+Wunsch K (W)          2.0  1  1  1  0  1
+Foulke K (S)          1.0  0  0  0  0  1
+
+E -- Glaus T
+DP -- Anaheim 2
+LOB -- Anaheim 7, Chicago 7
+2B -- Anderson G, Thomas F 2, Perry H, Singleton C, Durham R, Stocker K, Kennedy A, Lee C
+3B -- Perry H
+HR -- Erstad D 2, Spiezio S, Salmon T, Glaus T, Thomas F
+SB -- Durham R, Konerko P
+CS -- Glaus T
+SF -- Spiezio S, Ordonez M, Konerko P
+HBP -- by Levine A (Perry H)
+WP -- Ortiz R
+T -- 3:38
+A -- 22020
+     Game of 9/4/2000 -- Texas at Chicago (D)
+
+  Texas              AB  R  H RBI    Chicago            AB  R  H RBI
+Catalanotto F, dh     5  0  1  1   Durham R, 2b          5  1  2  0   
+Alicea L, 2b          4  0  0  0   Graffanino T, ss      1  0  0  0   
+Palmeiro R, 1b        5  1  2  0   Valentin J, ph-ss     1  0  0  0   
+Kapler G, rf          5  1  3  1   Thomas F, dh          5  0  1  1   
+Ledee R, lf           5  0  1  1   Ordonez M, rf         4  0  1  0   
+Haselman B, c         4  1  2  0   Lee C, lf             4  2  4  1   
+Lamb M, 3b            5  1  1  0   Perry H, 3b           4  0  1  0   
+Clayton R, ss         3  1  2  1   Konerko P, 1b         4  0  1  1   
+Green S, cf           3  0  1  1   Abbott J, cf          3  0  0  0   
+                                   Baines H, ph          1  0  0  0   
+                                   Johnson C, c          4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     39  5 13  5                        36  4 11  4
+
+Texas            000 210 020 --  5
+Chicago          110 000 011 --  4
+
+  Texas                IP  H  R ER BB SO
+Davis D (W)           6.0  8  2  2  2  3
+Crabtree T            2.0  1  1  1  0  0
+Wetteland J (S)       1.0  2  1  1  1  1
+
+  Chicago              IP  H  R ER BB SO
+Garland J (L)         5.0  8  3  3  1  4
+Buehrle M             2.0  0  0  0  1  2
+Bradford C            1.0  4  2  2  0  1
+Beirne K              1.0  1  0  0  1  0
+
+E -- Alicea L
+DP -- Texas 2, Chicago 1
+LOB -- Texas 11, Chicago 8
+2B -- Palmeiro R, Durham R, Haselman B 2, Clayton R
+HR -- Kapler G, Lee C, Johnson C
+SB -- Kapler G, Durham R
+HBP -- by Garland J (Clayton R)
+T -- 3:14
+A -- 29614
+     Game of 9/5/2000 -- Texas at Chicago (N)
+
+  Texas              AB  R  H RBI    Chicago            AB  R  H RBI
+Alicea L, 2b          5  0  2  0   Durham R, 2b          4  0  1  0   
+Curtis C, dh          5  0  2  1   Valentin J, ss        2  0  1  0   
+Palmeiro R, 1b        5  0  0  0   Thomas F, dh          4  0  2  0   
+Kapler G, rf-cf       3  0  1  0   Ordonez M, rf         4  1  1  0   
+Haselman B, c         4  0  1  0   Lee C, lf             4  0  1  0   
+Ledee R, lf           3  1  1  0   Perry H, 3b           4  0  0  0   
+Clayton R, ss         3  0  0  0   Konerko P, 1b         4  0  2  0   
+Greer R, ph           1  0  0  0   Singleton C, pr       0  0  0  0   
+Lamb M, 3b            0  0  0  0   Abbott J, cf          3  0  0  0   
+Sheldon S, 3b         3  0  2  1   Christensen M, cf     0  0  0  0   
+Catalanotto F, ph     1  1  0  0   Baines H, ph          0  0  0  0   
+Valdes P, rf          0  0  0  0   Graffanino T, pr      0  0  0  0   
+Green S, cf           2  0  1  0   Johnson C, c          4  0  0  0   
+Sierra R, ph          1  0  0  0                                      
+Dransfeldt K, ss      0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  2 10  2                        33  1  8  0
+
+Texas            000 010 001 --  2
+Chicago          000 100 000 --  1
+
+  Texas                IP  H  R ER BB SO
+Oliver D              6.0  6  1  1  2  1
+Johnson J (W)         2.0  1  0  0  0  1
+Wetteland J (S)       1.0  1  0  0  1  3
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M             7.0  8  1  1  1  5
+Wunsch K              0.1  0  0  0  0  0
+Howry B (L)           1.1  2  1  0  1  1
+Buehrle M             0.1  0  0  0  0  0
+
+E -- Valentin J
+DP -- Texas 1
+LOB -- Texas 10, Chicago 8
+2B -- Durham R, Konerko P, Sheldon S, Valentin J
+SB -- Kapler G, Singleton C
+CS -- Valentin J
+SH -- Green S
+T -- 2:58
+A -- 13899
+     Game of 9/6/2000 -- Texas at Chicago (N)
+
+  Texas              AB  R  H RBI    Chicago            AB  R  H RBI
+Catalanott, 2b-1b-2b  3  0  0  0   Durham R, 2b          4  0  1  2   
+Curtis C, lf          3  0  0  0   Graffanino T, 2b      1  0  0  0   
+Knorr R, c            1  0  0  0   Valentin J, ss        3  1  0  0   
+Palmeiro R, 1b        2  0  0  0   Wilson C, ss          1  0  0  0   
+Waszgis B, c-1b       2  0  0  0   Thomas F, dh          3  2  1  2   
+Kapler G, cf-rf       4  1  2  0   Abbott J, ph          1  0  0  0   
+Ledee R, rf-lf-cf     4  0  0  0   Ordonez M, rf         4  1  1  1   
+Sierra R, dh          3  0  1  0   Liefer J, rf          1  0  0  0   
+Valdes P, lf          0  0  0  0   Lee C, lf             4  2  3  0   
+Haselman B, c         1  0  0  0   Christensen M, ph-cf  1  0  0  0   
+Sheldon S, c,...      2  0  1  0   Konerko P, 1b         2  2  1  1   
+Lamb M, 3b            3  0  0  1   Norton G, 3b          3  2  1  3   
+Cordero F, p          0  0  0  0   Singleton C, cf-lf    4  2  3  2   
+Dransfeldt, ss-2b-ss  3  0  0  0   Johnson C, c          4  1  2  2   
+                                   Paul J, c             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  4  1                        36 13 13 13
+
+Texas            010 000 000 --  1
+Chicago          730 021 00x -- 13
+
+  Texas                IP  H  R ER BB SO
+Helling R (L)         0.2  5  7  7  3  0
+Sikorski B            4.1  4  5  5  1  5
+Cubillan D            1.0  2  1  1  1  0
+Perisho M             1.1  2  0  0  0  0
+Sheldon S             0.1  0  0  0  0  1
+Cordero F             0.1  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Wells K (W)           7.0  4  1  0  1  4
+Lowe S                1.0  0  0  0  0  1
+Simas B               1.0  0  0  0  0  1
+
+E -- Haselman B, Valentin J 2
+DP -- Texas 1, Chicago 2
+LOB -- Texas 4, Chicago 4
+2B -- Durham R
+HR -- Thomas F, Ordonez M, Norton G, Johnson C
+SB -- Lee C, Singleton C
+T -- 2:41
+A -- 15622
+     Game of 9/7/2000 -- Texas at Chicago (N)
+
+  Texas              AB  R  H RBI    Chicago            AB  R  H RBI
+Alicea L, 2b          5  1  2  1   Durham R, 2b          3  1  0  1   
+Curtis C, dh          4  0  2  1   Graffanino T, ss      4  1  2  1   
+Palmeiro R, 1b        4  0  1  0   Thomas F, dh          5  1  2  3   
+Greer R, pr           0  0  0  0   Ordonez M, rf         5  2  2  3   
+Waszgis B, c          0  0  0  0   Lee C, lf             4  2  2  1   
+Kapler G, rf          4  1  2  0   Christensen M, cf     0  0  0  0   
+Haselman B, c         3  0  1  1   Konerko P, 1b         4  1  2  0   
+Catalanotto F, ph-1b  1  0  0  0   Perry H, 3b           3  0  0  1   
+Ledee R, lf           4  1  1  1   Singleton C, cf-lf    4  1  1  0   
+Clayton R, ss         3  0  0  0   Johnson C, c          1  1  0  0   
+Valdes P, ph          1  1  1  0   Paul J, pr-c          1  0  1  0   
+Sheldon S, 3b         3  1  1  0                                      
+Sierra R, ph          1  0  0  0                                      
+Green S, cf           4  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6 12  5                        34 10 12 10
+
+Texas            110 021 001 --  6
+Chicago          000 015 04x -- 10
+
+  Texas                IP  H  R ER BB SO
+Rogers K*             5.0  4  5  5  1  3
+Zimmerman J (L)       2.0  2  1  1  1  1
+Cubillan D            0.2  5  4  4  1  0
+Johnson J             0.1  1  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Parque J              5.0  7  4  4  0  3
+Barcelo L (W)         2.1  2  1  1  0  1
+Wunsch K+             0.0  1  0  0  0  0
+Foulke K (S)          1.2  2  1  1  0  1
+  * Pitched to 4 batters in 6th
+  + Pitched to 1 batter in 8th
+
+E -- Graffanino T
+DP -- Chicago 3
+LOB -- Texas 4, Chicago 6
+2B -- Sheldon S, Kapler G, Thomas F, Valdes P
+3B -- Alicea L
+HR -- Ledee R, Ordonez M 2, Lee C
+CS -- Haselman B
+SF -- Perry H, Durham R
+HBP -- by Rogers K (Durham R)
+T -- 2:49
+A -- 18219
+     Game of 9/11/2000 -- Detroit at Chicago (N)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Easley D, 2b          4  0  0  0   Durham R, 2b          4  2  1  0   
+Encarnacion J, cf     4  1  1  0   Valentin J, ss        4  1  3  1   
+Higginson B, lf       2  1  0  0   Graffanino T, ss      0  1  0  1   
+Gonzalez J, dh        4  0  0  0   Thomas F, dh          5  1  2  5   
+Palmer D, 3b          4  1  3  1   Ordonez M, rf         5  0  1  1   
+Clark T, 1b           4  0  1  2   Lee C, lf             2  0  0  0   
+Magee W, rf           3  0  0  0   Christensen M, cf     1  0  0  0   
+Fick R, ph            1  0  0  0   Konerko P, 1b         4  1  1  0   
+Cruz D, ss            4  0  2  0   Perry H, 3b           4  2  3  1   
+Ausmus B, c           3  0  0  0   Singleton C, cf-lf    3  0  0  0   
+                                   Johnson C, c          2  2  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        34 10 12  9
+
+Detroit          300 000 000 --  3
+Chicago          100 013 05x -- 10
+
+  Detroit              IP  H  R ER BB SO
+Moehler B (L)*        5.0  9  4  4  2  1
+Nitkowski C           0.2  1  1  0  1  0
+Brocail D             0.1  0  0  0  0  1
+Anderson M            1.1  1  2  2  1  0
+Tolar K+              0.0  0  1  1  1  0
+Cruz N                0.2  1  2  2  1  0
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M (W)         7.0  6  3  3  2  5
+Howry B (S)           2.0  1  0  0  0  2
+  * Pitched to 2 batters in 6th
+  + Pitched to 1 batter in 8th
+
+E -- Ausmus B
+DP -- Detroit 1, Chicago 1
+LOB -- Detroit 5, Chicago 7
+2B -- Clark T, Thomas F, Perry H 2, Konerko P
+HR -- Thomas F
+SH -- Singleton C
+WP -- Sirotka M
+T -- 3:15
+A -- 21527
+     Game of 9/12/2000 -- Detroit at Chicago (N)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Easley D, 2b          4  1  0  0   Durham R, 2b          4  0  0  0   
+McMillon B, dh        2  0  1  2   Graffanino T, ss      3  1  2  0   
+Higginson B, lf       5  1  1  3   Thomas F, dh          4  0  0  0   
+Lindsey R, lf         0  0  0  0   Ordonez M, rf         3  2  2  3   
+Gonzalez J, rf        5  0  0  0   Lee C, lf             4  0  0  0   
+Magee W, rf           0  0  0  0   Konerko P, 1b         4  0  0  0   
+Palmer D, 3b          4  2  1  0   Perry H, 3b           3  0  0  0   
+Halter S, 3b          0  0  0  0   Crede J, 3b           1  0  0  0   
+Clark T, 1b           4  2  3  0   Singleton C, cf       3  0  0  0   
+Morris H, 1b          1  1  1  1   Johnson C, c          2  0  0  0   
+Cruz D, ss            5  2  2  2   Paul J, c             1  0  0  0   
+Encarnacion J, cf     4  0  1  1                                      
+Ausmus B, c           3  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     37 10 11 10                        32  3  4  3
+
+Detroit          036 000 001 -- 10
+Chicago          200 010 000 --  3
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (W)          5.0  3  3  3  3  3
+Blair W               3.0  1  0  0  0  1
+Jones T               1.0  0  0  0  1  1
+
+  Chicago              IP  H  R ER BB SO
+Wells K (L)*          2.0  7  6  6  3  1
+Lowe S                3.0  3  3  3  1  2
+Bradford C            2.0  0  0  0  0  2
+Wunsch K              1.0  0  0  0  0  2
+Ginter M              1.0  1  1  1  0  2
+  * Pitched to 3 batters in 3rd
+
+E -- Palmer D, Johnson C, Cruz D
+DP -- Detroit 1
+LOB -- Detroit 6, Chicago 7
+2B -- Cruz D
+HR -- Ordonez M 2, Higginson B, Morris H
+SB -- Graffanino T, Durham R
+SF -- McMillon B
+HBP -- by Lowe S (Easley D), by Mlicki D (Johnson C)
+T -- 3:09
+A -- 15297
+     Game of 9/13/2000 -- Detroit at Chicago (N)
+
+  Detroit            AB  R  H RBI    Chicago            AB  R  H RBI
+Easley D, 2b          3  0  0  0   Durham R, 2b          4  0  1  0   
+Encarnacion J, cf     4  0  1  0   Valentin J, ss        3  0  0  0   
+Higginson B, dh       4  0  1  0   Thomas F, 1b          3  1  1  0   
+Gonzalez J, rf        3  0  0  0   Baines H, dh          2  0  1  1   
+Palmer D, 3b          2  0  0  0   Graffanino T, pr      0  0  0  0   
+Halter S, 3b          1  0  1  0   Liefer J, rf          3  0  0  0   
+Clark T, 1b           2  0  1  0   Ordonez M, rf         0  0  0  0   
+Morris H, 1b          1  0  0  0   Norton G, 3b          2  0  0  0   
+Cruz D, ss            3  0  0  0   Singleton C, lf       3  0  1  0   
+Magee W, lf           2  0  0  0   Christensen M, cf     3  0  0  0   
+Becker R, ph-lf       1  0  0  0   Johnson M, c          3  0  0  0   
+Ausmus B, c           2  0  1  0                                      
+Lindsey R, pr         0  0  0  0                                      
+Cardona J, c          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  0  5  0                        26  1  4  1
+
+Detroit          000 000 000 --  0
+Chicago          100 000 00x --  1
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (L)          7.0  4  1  1  2  3
+Blair W               1.0  0  0  0  0  2
+
+  Chicago              IP  H  R ER BB SO
+Parque J (W)          7.0  5  0  0  0  4
+Howry B               1.0  0  0  0  1  1
+Foulke K (S)          1.0  0  0  0  0  2
+
+DP -- Detroit 1, Chicago 2
+LOB -- Detroit 3, Chicago 4
+2B -- Encarnacion J, Thomas F, Baines H
+CS -- Christensen M, Lindsey R
+SH -- Easley D
+HBP -- by Weaver J (Norton G)
+T -- 2:38
+A -- 16651
+     Game of 9/15/2000 -- Toronto at Chicago (N)
+
+  Toronto            AB  R  H RBI    Chicago            AB  R  H RBI
+Stewart S, lf         4  1  0  0   Durham R, 2b          5  0  0  0   
+Gonzalez A, ss        5  1  1  2   Valentin J, ss        3  2  3  2   
+Martinez D, rf        2  1  0  0   Thomas F, dh          4  0  0  0   
+Delgado C, 1b         1  1  0  0   Ordonez M, rf         4  0  1  0   
+Fullmer B, dh         4  1  2  2   Lee C, lf             4  0  2  1   
+Batista T, 3b         4  0  0  0   Konerko P, 1b         4  0  0  0   
+Fletcher D, c         4  1  2  2   Perry H, 3b           3  1  1  0   
+Cruz J, cf            4  0  0  0   Singleton C, cf       3  1  1  0   
+Morandini M, 2b       4  0  1  0   Johnson C, c          4  1  3  2   
+                                   Christensen M, pr     0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  6  6  6                        34  5 11  5
+
+Toronto          003 120 000 --  6
+Chicago          001 120 100 --  5
+
+  Toronto              IP  H  R ER BB SO
+Trachsel S*           3.0  4  2  2  3  0
+Quantrill P           2.0  2  2  2  0  2
+Frascatore J          1.1  3  1  1  1  0
+Escobar K (W)         1.2  0  0  0  0  0
+Koch B (S)            1.0  2  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Garland J (L)         4.2  6  6  4  5  4
+Buehrle M             3.1  0  0  0  0  4
+Barcelo L             1.0  0  0  0  0  2
+  * Pitched to 4 batters in 4th
+
+E -- Konerko P
+DP -- Toronto 2, Chicago 2
+LOB -- Toronto 5, Chicago 7
+2B -- Fullmer B, Fletcher D
+HR -- Gonzalez A, Fletcher D, Valentin J, Johnson C
+SB -- Singleton C
+SH -- Singleton C
+HBP -- by Buehrle M (Delgado C)
+WP -- Escobar K
+T -- 3:18
+A -- 23105
+     Game of 9/16/2000 -- Toronto at Chicago (N)
+
+  Toronto            AB  R  H RBI    Chicago            AB  R  H RBI
+Stewart S, lf         4  0  2  1   Durham R, 2b          4  0  1  1   
+Gonzalez A, ss        4  0  1  1   Valentin J, ss        3  1  1  0   
+Martinez D, rf        4  0  1  0   Thomas F, 1b          4  1  1  1   
+Delgado C, 1b         4  0  1  0   Ordonez M, rf         4  1  1  1   
+Batista T, 3b         3  0  0  0   Baines H, dh          3  0  0  0   
+Fullmer B, dh         4  0  0  0   Graffanino T, pr      0  1  0  0   
+Cruz J, cf            4  1  3  0   Lee C, lf             4  0  0  0   
+Fletcher D, c         4  1  2  1   Perry H, 3b           3  1  0  0   
+Wise D, pr            0  0  0  0   Singleton C, cf       3  0  1  0   
+Grebeck C, 2b         4  1  1  0   Konerko P, ph         1  0  1  1   
+                                   Christensen M, pr-cf  0  0  0  0   
+                                   Johnson C, c          4  1  2  2   
+                     -- -- -- --                        -- -- -- --
+                     35  3 11  3                        33  6  8  6
+
+Toronto          000 030 000 --  3
+Chicago          001 000 05x --  6
+
+  Toronto              IP  H  R ER BB SO
+Carpenter C           7.1  4  2  1  2  5
+Escobar K (L)         0.1  2  4  4  2  0
+Guthrie M*            0.0  1  0  0  0  0
+Frascatore J          0.1  1  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M             7.0  9  3  3  0  6
+Wunsch K (W)          1.0  0  0  0  0  1
+Foulke K (S)          1.0  2  0  0  1  0
+  * Pitched to 1 batter in 8th
+
+E -- Grebeck C 2, Gonzalez A
+DP -- Toronto 1, Chicago 2
+LOB -- Toronto 6, Chicago 7
+2B -- Stewart S, Cruz J 2, Martinez D, Fletcher D, Singleton C, Thomas F, Ordonez M
+WP -- Sirotka M
+T -- 2:43
+A -- 33204
+     Game of 9/17/2000 -- Toronto at Chicago (D)
+
+  Toronto            AB  R  H RBI    Chicago            AB  R  H RBI
+Stewart S, lf         6  1  1  0   Christensen M, cf     4  0  2  1   
+Gonzalez A, ss        5  2  3  1   Valentin J, ss        2  0  0  0   
+Martinez D, rf        3  3  2  1   Wilson C, ph-ss       2  0  0  0   
+Delgado C, 1b         5  1  1  4   Baines H, dh          3  0  1  0   
+Woodward C, 1b        0  0  0  0   Abbott J, ph          1  0  0  0   
+Fullmer B, dh         4  2  1  3   Ordonez M, rf         2  0  0  0   
+Batista T, 3b         5  1  3  3   Crede J, 3b           2  0  1  0   
+Fletcher D, c         4  0  1  0   Liefer J, 1b-rf       4  0  0  0   
+Castillo A, c         0  0  0  0   Norton G, 3b-1b       3  0  0  0   
+Cruz J, cf            5  2  2  2   Singleton C, lf       3  0  1  0   
+Morandini M, 2b       5  2  1  0   Graffanino T, 2b      3  0  0  0   
+                                   Johnson M, c          3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     42 14 15 14                        32  1  6  1
+
+Toronto          300 034 301 -- 14
+Chicago          000 001 000 --  1
+
+  Toronto              IP  H  R ER BB SO
+Hamilton J            3.0  2  0  0  0  1
+Painter L (W)         3.0  2  1  1  0  2
+Quantrill P           1.0  2  0  0  0  3
+Guthrie M             1.0  0  0  0  0  1
+Castillo F            1.0  0  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Wells K (L)           5.0  9  6  6  4  4
+Pena J                1.0  2  4  0  1  2
+Ginter M              1.0  4  3  3  1  1
+Beirne K              1.0  0  0  0  0  2
+Bradford C            1.0  0  1  0  0  1
+
+E -- Liefer J, Graffanino T, Crede J
+DP -- Toronto 1, Chicago 1
+LOB -- Toronto 7, Chicago 4
+2B -- Batista T 2, Singleton C
+HR -- Fullmer B, Delgado C, Cruz J
+SB -- Martinez D
+CS -- Gonzalez A
+WP -- Wells K, Painter L, Ginter M
+T -- 3:06
+A -- 26113
+     Game of 9/26/2000 -- Boston at Chicago (N)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Nixon T, rf           4  0  0  0   Valentin J, ss        4  0  0  0   
+Offerman J, 2b        4  0  0  0   Singleton C, cf       3  0  0  0   
+Lansing M, 2b         0  0  0  0   Thomas F, ph          1  0  0  0   
+Everett C, cf         3  1  0  0   Christensen M, cf     0  0  0  0   
+Lewis D, cf           0  0  0  0   Baines H, dh          4  0  1  0   
+Garciaparra N, ss     4  1  1  2   Crede J, pr           0  1  0  0   
+O'Leary T, lf         4  0  1  0   Ordonez M, rf         4  0  1  1   
+Bichette D, dh        4  1  1  1   Lee C, lf             4  1  2  1   
+Varitek J, c          2  1  1  0   Konerko P, 1b         4  0  0  0   
+Merloni L, 3b         4  0  1  0   Norton G, 3b          4  1  0  0   
+Brogna R, 1b          2  0  1  1   Graffanino T, 2b      2  0  0  0   
+                                   Johnson C, c          3  0  1  1   
+                                   Paul J, pr-c          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  6  4                        33  3  5  3
+
+Boston           000 210 100 --  4
+Chicago          000 000 111 --  3
+
+  Boston               IP  H  R ER BB SO
+Martinez P (W)        5.0  1  0  0  0  6
+Wakefield T           2.0  1  1  1  0  2
+Beck R                1.0  1  1  0  0  0
+Lowe D (S)            1.0  2  1  1  0  2
+
+  Chicago              IP  H  R ER BB SO
+Beirne K (L)          5.0  3  3  3  1  4
+Simas B               1.0  0  0  0  0  0
+Bradford C            3.0  3  1  1  1  3
+
+E -- Brogna R
+DP -- Chicago 1
+LOB -- Boston 4, Chicago 4
+2B -- Baines H, Ordonez M
+HR -- Garciaparra N, Bichette D, Lee C
+SB -- Varitek J, Ordonez M
+CS -- O'Leary T
+SH -- Brogna R
+HBP -- by Beirne K (Varitek J), by Wakefield T (Graffanino T)
+WP -- Lowe D
+T -- 2:31
+A -- 23319
+     Game of 9/27/2000 -- Boston at Chicago (N)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Nixon T, rf           3  0  1  1   Valentin J, ss        4  0  0  0   
+Merloni L, 3b         3  0  0  0   Singleton C, cf       3  1  1  0   
+Daubach B, 1b         4  0  0  0   Thomas F, dh          4  0  0  0   
+Brogna R, 1b          0  0  0  0   Ordonez M, rf         3  0  1  0   
+Garciaparra N, ss     4  1  1  1   Lee C, lf             4  0  2  1   
+O'Leary T, lf         4  0  0  0   Christensen M, pr     0  0  0  0   
+Bichette D, dh        4  0  3  0   Konerko P, 1b         4  0  0  0   
+Varitek J, c          3  0  0  0   Norton G, 3b          3  0  0  0   
+Lansing M, 2b         3  1  1  0   Graffanino T, 2b      3  0  1  0   
+Sadler D, cf          2  0  1  0   Johnson C, c          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  7  2                        31  1  5  1
+
+Boston           000 110 000 --  2
+Chicago          100 000 000 --  1
+
+  Boston               IP  H  R ER BB SO
+Crawford P (W)        6.0  4  1  1  2  3
+Fassero J             2.0  0  0  0  0  1
+Lowe D (S)            1.0  1  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Eldred C              3.1  2  1  1  1  4
+Wunsch K              0.2  1  0  0  0  0
+Baldwin J (L)         4.0  4  1  0  0  2
+Foulke K              1.0  0  0  0  0  0
+
+LOB -- Boston 5, Chicago 5
+HR -- Garciaparra N
+SB -- Singleton C
+CS -- Ordonez M
+SH -- Sadler D, Merloni L
+SF -- Nixon T
+PB -- Johnson C
+T -- 2:21
+A -- 16368
+     Game of 9/28/2000 -- Boston at Chicago (N)
+
+  Boston             AB  R  H RBI    Chicago            AB  R  H RBI
+Sadler D, cf          3  1  1  1   Singleton C, cf       3  1  0  0   
+Varitek J, ph-c       0  0  0  0   Valentin J, ss        3  1  0  0   
+Nixon T, rf           5  0  0  0   Thomas F, dh          2  1  1  1   
+Gilkey B, lf          3  1  1  0   Konerko P, 1b         3  2  1  1   
+Lewis D, pr-lf-cf     1  0  0  0   Lee C, lf             4  0  0  1   
+Garciaparra N, ss     4  1  3  1   Perry H, 3b           2  1  1  0   
+Alcantara I, dh       3  2  1  3   Crede J, 3b           3  0  2  0   
+Cummings M, ph        1  0  0  0   Christensen M, pr     0  0  0  0   
+Bichette D, ph        0  0  0  0   Abbott J, rf          5  0  2  3   
+Hatteberg S, c        3  1  1  0   Graffanino T, 2b      5  0  0  0   
+Brogna R, pr-1b       1  1  0  0   Johnson M, c          3  0  1  0   
+Merloni L, 3b         4  0  1  0   Baines H, ph          0  0  0  0   
+Daubach B, 1b         3  0  0  0   Paul J, pr-c          0  0  0  0   
+O'Leary T, lf         0  0  0  0                                      
+Lansing M, 2b         3  0  1  2                                      
+                     -- -- -- --                        -- -- -- --
+                     34  7  9  7                        33  6  8  6
+
+Boston           300 200 110 --  7
+Chicago          202 000 200 --  6
+
+  Boston               IP  H  R ER BB SO
+Martinez R*           0.0  0  2  2  2  0
+Wakefield T           3.0  3  2  2  2  4
+Cormier R             2.0  0  0  0  1  3
+Fassero J             1.0  0  0  0  0  1
+Garces R              0.2  3  2  2  0  0
+Beck R (W)            1.1  1  0  0  2  2
+Lowe D (S)            1.0  1  0  0  0  2
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M             3.0  2  3  3  1  2
+Barcelo L             2.0  3  2  2  3  0
+Buehrle M             1.1  2  1  1  1  2
+Simas B (L)           1.0  2  1  0  0  1
+Howry B               0.1  0  0  0  1  0
+Wunsch K              1.1  0  0  0  1  2
+  * Pitched to 4 batters in 1st
+
+E -- Johnson M, Graffanino T
+DP -- Chicago 2
+LOB -- Boston 8, Chicago 11
+2B -- Perry H
+3B -- Abbott J
+HR -- Alcantara I, Thomas F
+SH -- Singleton C
+SF -- Lee C, Lansing M
+HBP -- by Martinez R (Thomas F), by Martinez R (Konerko P)
+WP -- Barcelo L
+PB -- Hatteberg S 2
+T -- 3:23
+A -- 18326
+     Game of 9/29/2000 -- Kansas City at Chicago (N)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Damon J, cf           5  2  3  1   Durham R, 2b          4  0  1  0   
+Sanchez R, ss         4  0  2  2   Wilson C, ss          4  0  0  0   
+Pose S, ph            1  0  0  0   Thomas F, dh          3  1  2  0   
+Sweeney M, dh         5  0  0  0   Ordonez M, rf         4  1  1  2   
+Dye J, rf             3  0  1  0   Konerko P, 1b         4  2  2  0   
+Randa J, 3b           4  0  0  0   Abbott J, lf          2  1  1  0   
+Quinn M, lf           4  1  2  0   Christensen M, cf     1  0  0  0   
+McCarty D, 1b         4  1  1  0   Singleton C, cf-lf    4  1  2  3   
+Ortiz H, c            3  0  2  0   Crede J, 3b           3  0  0  1   
+Zaun G, ph-c          1  0  1  0   Johnson C, c          2  0  0  0   
+Febles C, 2b          3  0  2  1                                      
+Beltran C, ph         1  0  0  0                                      
+Delgado W, 2b         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  4 14  4                        31  6  9  6
+
+Kansas City      030 000 100 --  4
+Chicago          030 001 20x --  6
+
+  Kansas City          IP  H  R ER BB SO
+Reichert D (L)        6.2  9  6  6  3  4
+Wilson K              1.1  0  0  0  0  1
+
+  Chicago              IP  H  R ER BB SO
+Parque J              3.0  8  3  3  0  0
+Lowe S*               3.0  5  1  1  1  1
+Bradford C (W)        1.2  1  0  0  0  0
+Buehrle M             0.1  0  0  0  0  0
+Foulke K (S)          1.0  0  0  0  0  2
+  * Pitched to 2 batters in 7th
+
+E -- Johnson C
+DP -- Chicago 1
+LOB -- Kansas City 8, Chicago 5
+2B -- Singleton C
+HR -- Singleton C, Ordonez M
+SB -- Thomas F, Damon J
+CS -- Febles C, Dye J
+SF -- Crede J
+WP -- Reichert D
+T -- 2:53
+A -- 17735
+     Game of 9/30/2000 -- Kansas City at Chicago (N)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Damon J, cf           4  0  0  0   Durham R, 2b          4  0  2  1   
+Sanchez R, ss         4  0  2  0   Valentin J, ss        5  2  2  3   
+Sweeney M, 1b         4  1  1  0   Thomas F, dh          3  0  1  0   
+Dye J, dh             3  0  0  0   Ordonez M, rf         5  0  0  0   
+Randa J, 3b           4  0  1  1   Lee C, lf             3  1  0  0   
+Beltran C, rf         4  0  0  0   Konerko P, 1b         3  3  2  1   
+Quinn M, lf           4  0  1  0   Abbott J, cf          3  1  0  0   
+Zaun G, c             4  0  1  0   Christensen M, cf     0  0  0  0   
+Febles C, 2b          1  0  0  0   Crede J, 3b           4  1  2  2   
+Delgado W, ph-2b      1  0  0  0   Paul J, c             4  1  2  2   
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        34  9 11  9
+
+Kansas City      100 000 000 --  1
+Chicago          021 101 04x --  9
+
+  Kansas City          IP  H  R ER BB SO
+Stein B (L)           5.0  5  4  4  4  4
+Murray D              2.0  2  1  1  1  1
+Mullen S              1.0  4  4  4  1  0
+
+  Chicago              IP  H  R ER BB SO
+Wells K (W)           5.0  5  1  1  1  1
+Garland J             3.0  1  0  0  0  4
+Simas B               1.0  0  0  0  0  0
+
+E -- Zaun G, Valentin J
+LOB -- Kansas City 7, Chicago 7
+2B -- Zaun G, Crede J, Paul J
+HR -- Valentin J 2, Konerko P
+SB -- Lee C
+CS -- Durham R
+HBP -- by Wells K (Febles C)
+WP -- Wells K, Garland J
+T -- 2:43
+A -- 29692
+     Game of 10/1/2000 -- Kansas City at Chicago (D)
+
+  Kansas City        AB  R  H RBI    Chicago            AB  R  H RBI
+Damon J, cf           4  1  1  1   Durham R, 2b          2  0  1  0   
+Delgado W, ss         4  1  0  0   Wilson C, 2b          1  0  0  0   
+Sweeney M, dh         5  1  2  2   Valentin J, ss        2  1  0  0   
+Dye J, rf             4  0  2  1   Graffanino T, ss      0  0  0  0   
+Randa J, 3b           5  0  2  0   Thomas F, dh          3  0  0  0   
+Brown D, lf           4  1  1  0   Baines H, ph          1  0  0  0   
+McCarty D, 1b         4  1  1  1   Ordonez M, rf         3  0  2  0   
+Fabregas J, c         4  1  1  0   Liefer J, rf          1  0  1  0   
+Febles C, 2b          2  0  0  0   Lee C, lf             0  0  0  0   
+                                   Abbott J, lf          2  0  1  0   
+                                   Konerko P, 1b         1  0  0  1   
+                                   Norton G, 1b          1  0  0  0   
+                                   Perry H, 3b           4  0  1  0   
+                                   Singleton C, cf       1  0  0  0   
+                                   Christensen M, cf     2  0  0  0   
+                                   Johnson C, c          2  1  1  1   
+                                   Paul J, c             2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6 10  5                        28  2  8  2
+
+Kansas City      050 100 000 --  6
+Chicago          000 110 000 --  2
+
+  Kansas City          IP  H  R ER BB SO
+Fussell C (W)         5.0  4  2  2  4  4
+Santiago J            2.0  1  0  0  3  0
+Wilson K              1.0  2  0  0  0  0
+Bottalico R           1.0  1  0  0  0  0
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J (L)         3.0  6  5  5  3  4
+Beirne K              1.0  1  1  0  0  1
+Buehrle M             1.0  0  0  0  0  1
+Barcelo L             1.0  1  0  0  0  0
+Howry B               1.0  1  0  0  0  1
+Wunsch K              1.0  0  0  0  1  1
+Foulke K              0.1  0  0  0  0  0
+Bradford C            0.2  1  0  0  0  0
+
+E -- Durham R, Wilson C
+DP -- Kansas City 4, Chicago 2
+LOB -- Kansas City 9, Chicago 8
+2B -- Brown D, Dye J 2, Ordonez M, Randa J
+HR -- Sweeney M, Johnson C
+CS -- Lee C
+SH -- Febles C, Singleton C
+SF -- Konerko P
+HBP -- by Baldwin J (Dye J)
+Balk -- Baldwin J
+T -- 2:58
+A -- 30071
+

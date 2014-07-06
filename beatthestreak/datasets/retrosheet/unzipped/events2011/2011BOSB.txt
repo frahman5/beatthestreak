@@ -1,0 +1,3455 @@
+     Game of 4/8/2011 -- New York at Boston (D)
+
+  New York           AB  R  H RBI    Boston             AB  R  H RBI
+Gardner B, lf         3  2  2  1   Crawford C, lf        5  0  0  0   
+Jeter D, ss           5  0  1  1   Pedroia D, 2b         5  2  3  3   
+Teixeira M, 1b        4  0  0  0   Gonzalez A, 1b        5  2  2  1   
+Rodriguez A, 3b       2  3  1  1   Youkilis K, 3b        1  1  0  0   
+Cano R, 2b            4  0  2  2   Ortiz D, dh           4  1  2  1   
+Swisher N, rf         4  0  0  1   Drew J, rf            4  1  2  2   
+Posada J, dh          4  0  0  0   Saltalamacchia J, c   4  0  2  1   
+Granderson C, cf      4  1  1  0   Ellsbury J, cf        4  1  1  0   
+Martin R, c           4  0  1  0   Scutaro M, ss         4  1  0  1   
+                     -- -- -- --                        -- -- -- --
+                     34  6  8  6                        36  9 12  9
+
+New York         211 110 000 --  6
+Boston           150 010 20x --  9
+
+  New York             IP  H  R ER BB SO
+Hughes P              2.0  7  6  6  2  0
+Colon B (L)           4.1  2  2  1  1  5
+Logan B               0.2  2  1  1  0  0
+Robertson D           1.0  1  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Lackey J (W)          5.0  7  6  6  2  2
+Aceves A              1.0  1  0  0  1  1
+Jenks B               1.0  0  0  0  1  1
+Bard D                1.0  0  0  0  0  1
+Papelbon J (S)        1.0  0  0  0  0  2
+
+E -- Granderson C, Teixeira M
+DP -- Boston 1
+LOB -- New York 6, Boston 6
+2B -- Cano R 2, Granderson C, Gardner B, Saltalamacchia J, Ortiz D
+3B -- Gardner B
+HR -- Pedroia D, Rodriguez A
+SB -- Gardner B
+HBP -- by Lackey J (Rodriguez A)
+WP -- Lackey J
+T -- 3:06
+A -- 37178
+     Game of 4/9/2011 -- New York at Boston (D)
+
+  New York           AB  R  H RBI    Boston             AB  R  H RBI
+Gardner B, lf         5  0  0  0   Crawford C, lf        5  1  1  0   
+Jeter D, ss           4  0  1  0   Pedroia D, 2b         4  1  3  2   
+Teixeira M, 1b        5  0  0  0   Gonzalez A, 1b        4  0  0  0   
+Rodriguez A, 3b       5  1  2  0   Youkilis K, 3b        4  0  1  1   
+Cano R, 2b            5  2  3  1   Ortiz D, dh           5  0  0  0   
+Swisher N, rf         4  1  1  1   Drew J, rf            2  1  1  0   
+Granderson C, cf      3  2  1  2   Lowrie J, ss          4  0  3  0   
+Chavez E, dh          5  1  3  1   Saltalamacchia J, c   4  0  1  0   
+Martin R, c           4  2  2  4   Ellsbury J, cf        4  1  0  1   
+                     -- -- -- --                        -- -- -- --
+                     40  9 13  9                        36  4 10  4
+
+New York         020 321 100 --  9
+Boston           001 300 000 --  4
+
+  New York             IP  H  R ER BB SO
+Nova I                4.1  7  4  4  3  3
+Robertson D (W)       1.2  0  0  0  0  1
+Chamberlain J         1.0  0  0  0  0  2
+Ayala L               2.0  3  0  0  1  1
+
+  Boston               IP  H  R ER BB SO
+Buchholz C (L)        3.2  8  5  4  3  2
+Doubront F            1.1  3  2  2  0  1
+Aceves A              2.0  2  2  2  1  2
+Wakefield T           2.0  0  0  0  0  1
+
+E -- Lowrie J
+DP -- New York 1
+LOB -- New York 8, Boston 10
+2B -- Cano R, Chavez E 2, Pedroia D 3
+HR -- Martin R 2, Granderson C, Cano R
+CS -- Jeter D
+HBP -- by Nova I (Drew J)
+T -- 3:26
+A -- 37488
+     Game of 4/10/2011 -- New York at Boston (N)
+
+  New York           AB  R  H RBI    Boston             AB  R  H RBI
+Gardner B, lf         4  0  0  0   Crawford C, lf        5  0  0  0   
+Jeter D, ss           4  0  0  0   Pedroia D, 2b         4  1  3  0   
+Teixeira M, 1b        3  0  0  0   Gonzalez A, 1b        3  0  1  0   
+Cano R, 2b            3  0  1  0   Youkilis K, 3b        3  1  1  0   
+Granderson C, cf      3  0  0  0   Ortiz D, dh           4  1  2  1   
+Swisher N, rf         3  0  0  0   Ellsbury J, pr        0  0  0  0   
+Posada J, dh          3  0  0  0   Cameron M, cf         4  0  1  1   
+Chavez E, 3b          3  0  1  0   Drew J, rf            4  1  1  0   
+Martin R, c           2  0  0  0   Varitek J, c          5  0  1  0   
+                                   Scutaro M, ss         2  0  2  2   
+                     -- -- -- --                        -- -- -- --
+                     28  0  2  0                        34  4 12  4
+
+New York         000 000 000 --  0
+Boston           001 000 21x --  4
+
+  New York             IP  H  R ER BB SO
+Sabathia C (L)        5.2  9  1  1  4  4
+Chamberlain J         0.2  2  2  2  2  1
+Logan B               0.2  0  0  0  1  0
+Garcia F              1.0  1  1  1  1  1
+
+  Boston               IP  H  R ER BB SO
+Beckett J (W)         8.0  2  0  0  1 10
+Papelbon J            1.0  0  0  0  0  2
+
+DP -- New York 1, Boston 1
+LOB -- New York 3, Boston 16
+2B -- Scutaro M, Ortiz D
+SH -- Cameron M
+HBP -- by Beckett J (Martin R), by Sabathia C (Gonzalez A)
+T -- 2:58
+A -- 37861
+     Game of 4/11/2011 -- Tampa Bay at Boston (N)
+
+  Tampa Bay          AB  R  H RBI    Boston             AB  R  H RBI
+Fuld S, lf            6  3  4  3   Crawford C, lf        5  1  2  0   
+Damon J, dh           5  2  3  3   Pedroia D, 2b         3  1  0  0   
+Joyce M, rf           6  1  1  0   Gonzalez A, 1b        2  0  1  1   
+Johnson D, 1b         4  0  0  0   Lowrie J, 1b          1  1  1  0   
+Rodriguez S, 3b       1  0  0  0   Youkilis K, 3b        3  0  1  0   
+Zobrist B, 2b         5  2  3  2   Ortiz D, dh           4  1  2  2   
+Upton B, cf           4  3  2  0   Drew J, rf            3  0  1  1   
+Lopez F, 3b           3  1  1  0   McDonald D, rf        2  0  0  0   
+Kotchman C, 1b        1  1  1  1   Saltalamacchia J, c   4  0  0  0   
+Jaso J, c             5  1  2  3   Ellsbury J, cf        4  1  2  1   
+Brignac R, ss         5  2  2  3   Scutaro M, ss         4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     45 16 19 15                        35  5 10  5
+
+Tampa Bay        160 113 004 -- 16
+Boston           001 100 111 --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Hellickson J (W)      5.1  5  2  2  5  1
+Russell A             1.1  0  1  0  2  0
+Ramos C               0.1  1  0  0  0  1
+Peralta J             1.0  2  1  1  0  1
+Farnsworth K          1.0  2  1  1  0  1
+
+  Boston               IP  H  R ER BB SO
+Matsuzaka D (L)*      2.0  8  7  7  2  2
+Wakefield T           3.1  6  5  4  1  0
+Aceves A              2.2  0  0  0  0  2
+Wheeler D             1.0  5  4  4  0  0
+  * Pitched to 2 batters in 3rd
+
+E -- Scutaro M 2, Brignac R
+DP -- Tampa Bay 2, Boston 1
+LOB -- Tampa Bay 5, Boston 11
+2B -- Zobrist B 2, Jaso J 2, Fuld S 2, Crawford C, Youkilis K
+3B -- Gonzalez A, Ortiz D, Fuld S
+HR -- Damon J, Fuld S, Ellsbury J
+SF -- Ortiz D
+PB -- Saltalamacchia J
+T -- 3:29
+A -- 37568
+     Game of 4/12/2011 -- Tampa Bay at Boston (N)
+
+  Tampa Bay          AB  R  H RBI    Boston             AB  R  H RBI
+Fuld S, lf            4  0  1  1   Crawford C, lf        3  0  0  0   
+Damon J, dh           4  0  2  2   Pedroia D, 2b         3  1  1  0   
+Upton B, cf           4  0  0  0   Gonzalez A, 1b        4  0  0  0   
+Lopez F, 3b           3  0  1  0   Youkilis K, dh        3  0  1  0   
+Brignac R, ss         0  0  0  0   Lowrie J, 3b          4  0  2  1   
+Rodriguez S, 2b-3b    4  0  0  0   Cameron M, cf         3  0  0  0   
+Zobrist B, rf         3  0  0  0   Ellsbury J, ph        1  0  0  0   
+Shoppach K, c         4  1  1  0   Varitek J, c          3  0  0  0   
+Johnson D, 1b         3  1  2  0   Drew J, ph            1  0  0  0   
+Kotchman C, 1b        0  0  0  0   McDonald D, rf        3  1  1  1   
+Johnson E, ss-2b      3  1  1  0   Ortiz D, ph           1  0  0  0   
+                                   Scutaro M, ss         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  8  3                        31  2  5  2
+
+Tampa Bay        000 030 000 --  3
+Boston           001 001 000 --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Price D (W)           7.2  5  2  2  2  3
+Peralta J             0.1  0  0  0  0  0
+Farnsworth K (S)      1.0  0  0  0  0  2
+
+  Boston               IP  H  R ER BB SO
+Lester J (L)          7.0  7  3  3  2  8
+Bard D                1.0  1  0  0  0  0
+Jenks B               1.0  0  0  0  0  1
+
+DP -- Boston 3
+LOB -- Tampa Bay 4, Boston 6
+2B -- Lowrie J 2, Pedroia D
+HR -- McDonald D
+SB -- Zobrist B, Fuld S, Damon J
+CS -- Crawford C, Lopez F
+HBP -- by Price D (Crawford C), by Price D (Youkilis K)
+T -- 2:54
+A -- 37015
+     Game of 4/15/2011 -- Toronto at Boston (N)
+
+  Toronto            AB  R  H RBI    Boston             AB  R  H RBI
+Escobar Y, ss         4  1  1  0   Crawford C, lf        5  0  0  0   
+Patterson C, cf       5  0  1  2   Pedroia D, 2b         5  1  1  1   
+Bautista J, rf        3  1  1  1   Gonzalez A, 1b        4  1  0  0   
+Lind A, 1b            4  2  1  1   Youkilis K, 3b        2  2  1  2   
+Hill A, 2b            4  0  3  1   Ortiz D, dh           2  1  0  0   
+Arencibia J, c        4  0  0  0   Drew J, rf            4  0  0  0   
+Snider T, lf          4  0  1  1   Saltalamacchia J, c   3  0  0  0   
+Rivera J, dh          3  1  0  0   Lowrie J, ph-ss       1  1  1  1   
+Nix J, 3b             2  2  0  0   Scutaro M, ss         3  0  1  2   
+                                   Varitek J, c          0  0  0  0   
+                                   Ellsbury J, cf        4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  7  8  6                        33  6  5  6
+
+Toronto          000 021 400 --  7
+Boston           003 000 030 --  6
+
+  Toronto              IP  H  R ER BB SO
+Cecil B (W)           6.0  2  3  3  4  5
+Frasor J              1.0  1  0  0  0  0
+Rzepczynski M         0.2  1  3  3  2  1
+Janssen C             0.1  1  0  0  0  0
+Rauch J (S)           1.0  0  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Buchholz C*           5.0  3  3  3  5  3
+Aceves A              1.0  1  0  0  0  0
+Jenks B (L)           0.1  4  4  4  1  1
+Doubront F            0.2  0  0  0  0  0
+Wheeler D             1.0  0  0  0  0  2
+Papelbon J            1.0  0  0  0  1  0
+  * Pitched to 2 batters in 6th
+
+E -- Snider T, Arencibia J
+DP -- Boston 2
+LOB -- Toronto 6, Boston 6
+2B -- Snider T, Scutaro M
+3B -- Patterson C
+HR -- Pedroia D, Youkilis K
+SB -- Hill A 2, Lind A, Bautista J, Ellsbury J
+WP -- Jenks B, Rzepczynski M
+T -- 3:47
+A -- 37467
+     Game of 4/16/2011 -- Toronto at Boston (D)
+
+  Toronto            AB  R  H RBI    Boston             AB  R  H RBI
+Escobar Y, ss         4  0  0  0   Lowrie J, ss          5  2  3  2   
+Patterson C, cf       4  0  0  0   Pedroia D, 2b         4  1  1  0   
+Bautista J, rf        4  0  0  0   Gonzalez A, 1b        3  0  1  1   
+Lind A, 1b            3  0  0  0   Youkilis K, 3b        4  0  1  1   
+Hill A, 2b            3  1  2  0   Ortiz D, dh           1  0  0  0   
+Snider T, lf          4  0  1  1   Cameron M, rf-lf      4  0  2  0   
+Nix J, dh             3  0  0  0   Varitek J, c          3  0  0  0   
+Molina J, c           3  0  1  0   McDonald D, lf        3  0  1  0   
+McDonald J, 3b        3  0  1  0   Drew J, ph-rf         1  0  0  0   
+                                   Ellsbury J, cf        1  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        29  4  9  4
+
+Toronto          010 000 000 --  1
+Boston           220 000 00x --  4
+
+  Toronto              IP  H  R ER BB SO
+Reyes J (L)*          3.0  7  4  4  5  3
+Villanueva C          3.0  0  0  0  2  2
+Dotel O               0.2  1  0  0  1  0
+Perez L               1.1  1  0  0  0  2
+
+  Boston               IP  H  R ER BB SO
+Beckett J (W)         7.0  3  1  1  2  9
+Bard D                1.0  1  0  0  0  1
+Papelbon J (S)        1.0  1  0  0  0  1
+  * Pitched to 2 batters in 4th
+
+DP -- Toronto 3
+LOB -- Toronto 5, Boston 11
+2B -- Youkilis K, Hill A
+HR -- Lowrie J
+SB -- Snider T 2, Hill A, Ellsbury J
+CS -- McDonald J, Lowrie J
+SH -- Varitek J
+HBP -- by Reyes J (Ellsbury J)
+WP -- Reyes J
+T -- 3:12
+A -- 37310
+     Game of 4/17/2011 -- Toronto at Boston (D)
+
+  Toronto            AB  R  H RBI    Boston             AB  R  H RBI
+Escobar Y, ss         4  0  0  0   Crawford C, lf        4  0  0  0   
+Patterson C, cf       3  0  1  0   Pedroia D, 2b         4  0  0  0   
+Bautista J, rf        4  0  1  0   Gonzalez A, 1b        4  1  2  0   
+Lind A, 1b            3  0  1  0   Youkilis K, 3b        3  1  0  0   
+Hill A, 2b            3  1  1  0   Ortiz D, dh           3  1  1  0   
+Arencibia J, c        4  0  2  0   Lowrie J, ss          4  2  1  1   
+Snider T, dh          4  0  0  0   Drew J, rf            3  1  1  0   
+Rivera J, lf          3  0  0  0   Saltalamacchia J, c   4  1  2  3   
+Nix J, 3b             2  0  1  0   Ellsbury J, cf        4  1  1  3   
+                     -- -- -- --                        -- -- -- --
+                     30  1  7  0                        33  8  8  7
+
+Toronto          010 000 000 --  1
+Boston           040 002 02x --  8
+
+  Toronto              IP  H  R ER BB SO
+Litsch J (L)          6.0  7  6  4  1  5
+Janssen C             1.0  0  0  0  0  0
+Camp S                0.2  1  2  1  1  1
+Frasor J              0.1  0  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Lester J (W)*         6.0  6  1  1  3  5
+Bard D                1.0  0  0  0  1  1
+Doubront F            0.2  1  0  0  2  0
+Jenks B               0.1  0  0  0  0  1
+Wheeler D             1.0  0  0  0  0  0
+  * Pitched to 2 batters in 7th
+
+E -- Nix J, Lowrie J, Lind A
+DP -- Boston 3
+LOB -- Toronto 8, Boston 4
+2B -- Bautista J, Patterson C, Gonzalez A
+HR -- Ellsbury J
+SB -- Nix J, Patterson C
+CS -- Rivera J, Patterson C
+HBP -- by Camp S (Youkilis K)
+PB -- Arencibia J 2
+T -- 3:03
+A -- 37802
+     Game of 4/18/2011 -- Toronto at Boston (D)
+
+  Toronto            AB  R  H RBI    Boston             AB  R  H RBI
+Escobar Y, ss         4  1  1  1   Drew J, rf            4  1  2  0   
+Patterson C, cf       4  0  0  0   McDonald D, rf        0  0  0  0   
+Bautista J, rf        4  0  1  0   Pedroia D, 2b         3  1  1  0   
+Lind A, 1b            3  0  0  0   Gonzalez A, 1b        5  1  1  0   
+Hill A, 2b            3  0  0  0   Youkilis K, 3b        5  2  2  2   
+McDonald J, 2b        0  0  0  0   Ortiz D, dh           3  1  1  1   
+Arencibia J, c        3  0  0  0   Lowrie J, ss          5  2  4  4   
+Snider T, lf          2  0  0  0   Crawford C, lf        5  0  1  1   
+Encarnacion E, dh     3  0  0  0   Varitek J, c          3  0  0  0   
+Nix J, 3b             3  0  0  0   Ellsbury J, cf        4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     29  1  2  1                        37  9 13  9
+
+Toronto          000 000 001 --  1
+Boston           201 023 10x --  9
+
+  Toronto              IP  H  R ER BB SO
+Romero R (L)          4.1  8  5  5  5  4
+Perez L               1.1  3  3  3  1  1
+Dotel O               1.1  2  1  1  0  2
+Janssen C             1.0  0  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Matsuzaka D (W)       7.0  1  0  0  1  3
+Aceves A              1.0  0  0  0  0  0
+Wakefield T           1.0  1  1  1  0  0
+
+LOB -- Toronto 2, Boston 10
+2B -- Youkilis K, Crawford C, Gonzalez A
+3B -- Drew J
+HR -- Lowrie J, Youkilis K, Ellsbury J, Escobar Y
+T -- 2:49
+A -- 37916
+     Game of 4/29/2011 -- Seattle at Boston (N)
+
+  Seattle            AB  R  H RBI    Boston             AB  R  H RBI
+Suzuki I, rf          4  2  2  0   Ellsbury J, cf        4  1  1  0   
+Figgins C, 3b         4  2  2  0   Pedroia D, 2b         4  0  0  0   
+Bradley M, lf         5  0  0  0   Gonzalez A, 1b        4  1  2  0   
+Olivo M, c            5  1  1  1   Youkilis K, 3b        3  0  1  1   
+Smoak J, 1b           4  0  1  2   Ortiz D, dh           4  0  1  1   
+Cust J, dh            2  0  1  1   Lowrie J, ss          4  0  0  0   
+Kennedy A, 2b         3  0  0  0   Cameron M, rf         4  2  2  2   
+Wilson J, 2b          0  0  0  0   Varitek J, c          3  0  1  0   
+Saunders M, cf        2  0  0  0   Drew J, ph            1  0  0  0   
+Ryan B, ss            3  0  0  0   McDonald D, lf        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  7  4                        33  4  8  4
+
+Seattle          200 010 200 --  5
+Boston           012 100 000 --  4
+
+  Seattle              IP  H  R ER BB SO
+Vargas J (W)          7.0  8  4  4  2  4
+Wright J              1.0  0  0  0  0  1
+League B (S)          1.0  0  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Matsuzaka D*          4.0  3  3  1  4  4
+Albers M              2.0  1  0  0  1  1
+Jenks B (L)           1.0  3  2  2  1  1
+Okajima H             1.0  0  0  0  2  0
+Bard D                1.0  0  0  0  0  1
+  * Pitched to 1 batter in 5th
+
+E -- McDonald D, Albers M
+DP -- Seattle 2, Boston 1
+LOB -- Seattle 9, Boston 4
+2B -- Figgins C, Cust J
+HR -- Cameron M 2
+SB -- Saunders M
+SH -- Ryan B
+T -- 3:07
+A -- 37845
+     Game of 4/30/2011 -- Seattle at Boston (N)
+
+  Seattle            AB  R  H RBI    Boston             AB  R  H RBI
+Suzuki I, rf          3  1  2  0   Ellsbury J, cf        3  0  1  0   
+Figgins C, 3b         5  0  2  0   Pedroia D, 2b         4  0  0  0   
+Bradley M, lf         2  0  1  1   Gonzalez A, 1b        3  0  1  0   
+Langerhans R, pr-lf   3  0  0  0   Youkilis K, 3b        3  0  1  0   
+Olivo M, c            4  0  0  0   Scutaro M, pr-ss      0  0  0  0   
+Smoak J, 1b           4  0  0  0   Ortiz D, dh           4  0  0  0   
+Cust J, dh            2  1  1  0   Drew J, rf            4  0  1  0   
+Saunders M, cf        4  0  1  0   Lowrie J, ss-3b       4  0  1  0   
+Ryan B, ss            3  0  0  0   Crawford C, lf        3  0  0  0   
+Wilson J, 2b          3  0  1  1   Saltalamacchia J, c   4  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  8  2                        32  0  7  0
+
+Seattle          001 001 000 --  2
+Boston           000 000 000 --  0
+
+  Seattle              IP  H  R ER BB SO
+Fister D (W)          5.2  5  0  0  5  4
+Laffey A              2.1  1  0  0  1  0
+League B (S)          1.0  1  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Lackey J (L)          6.0  7  2  2  4  3
+Okajima H             1.2  0  0  0  0  1
+Wheeler D             1.1  1  0  0  0  1
+
+E -- Lackey J
+DP -- Seattle 2
+LOB -- Seattle 10, Boston 11
+2B -- Bradley M, Ellsbury J, Lowrie J, Saltalamacchia J, Drew J, Youkilis K
+SB -- Suzuki I 2
+SH -- Ryan B
+SF -- Wilson J
+T -- 3:05
+A -- 37901
+     Game of 5/1/2011 -- Seattle at Boston (D)
+
+  Seattle            AB  R  H RBI    Boston             AB  R  H RBI
+Suzuki I, rf          4  0  0  0   Ellsbury J, cf        4  1  1  0   
+Figgins C, 3b         4  0  0  0   Pedroia D, 2b         4  1  2  0   
+Langerhans R, lf      4  1  1  0   Gonzalez A, 1b        4  0  1  0   
+Olivo M, c            4  1  1  0   Ortiz D, dh           4  0  1  2   
+Smoak J, 1b           3  0  0  0   Drew J, rf            3  0  0  0   
+Cust J, dh            2  0  1  1   Lowrie J, 3b          4  1  1  0   
+Rodriguez L, ss       3  0  1  1   Scutaro M, ss         4  0  0  0   
+Saunders M, cf        4  0  0  0   Crawford C, lf        4  0  2  1   
+Wilson J, 2b          3  0  0  0   Saltalamacchia J, c   3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  2                        34  3  8  3
+
+Seattle          000 002 000 --  2
+Boston           002 000 001 --  3
+  2 outs when winning run was scored.
+
+  Seattle              IP  H  R ER BB SO
+Hernandez F           7.0  6  2  2  1 10
+Wright J (L)          1.2  2  1  1  0  1
+
+  Boston               IP  H  R ER BB SO
+Wakefield T           5.2  3  1  1  1  3
+Jenks B               0.1  1  1  1  3  0
+Albers M              2.0  0  0  0  0  1
+Papelbon J (W)        1.0  0  0  0  0  1
+
+E -- Pedroia D, Scutaro M
+LOB -- Seattle 6, Boston 6
+2B -- Ortiz D, Cust J
+3B -- Lowrie J
+CS -- Figgins C
+WP -- Jenks B, Hernandez F
+T -- 2:39
+A -- 37079
+     Game of 5/2/2011 -- Anaheim at Boston (N)
+
+  Anaheim            AB  R  H RBI    Boston             AB  R  H RBI
+Izturis M, 2b         4  1  3  1   Ellsbury J, cf        4  3  2  0   
+Abreu B, dh           5  0  2  2   McDonald D, cf        1  0  0  0   
+Kendrick H, 1b        5  1  2  0   Pedroia D, 2b         4  1  1  2   
+Hunter T, rf          4  0  2  0   Gonzalez A, 1b        4  1  1  3   
+Callaspo A, 3b        4  0  0  0   Youkilis K, 3b        4  1  2  2   
+Wells V, lf           4  1  1  2   Ortiz D, dh           4  1  2  2   
+Aybar E, ss           4  1  1  0   Drew J, rf            4  0  0  0   
+Mathis J, c           3  1  1  0   Lowrie J, ss          4  0  0  0   
+Bourjos P, cf         4  0  1  0   Crawford C, lf        4  1  2  0   
+                                   Varitek J, c          3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 13  5                        36  9 11  9
+
+Anaheim          001 010 021 --  5
+Boston           100 020 60x --  9
+
+  Anaheim              IP  H  R ER BB SO
+Weaver J (L)          6.0  6  3  3  1  6
+Takahashi H           0.1  2  2  2  0  0
+Rodriguez F           1.2  3  4  4  1  1
+
+  Boston               IP  H  R ER BB SO
+Buchholz C (W)        6.2  8  2  2  2  2
+Bard D                0.1  0  0  0  0  0
+Wheeler D             1.1  4  3  3  0  1
+Okajima H             0.2  1  0  0  0  0
+
+E -- Bourjos P
+DP -- Boston 2
+LOB -- Anaheim 7, Boston 5
+2B -- Izturis M 2, Crawford C, Hunter T, Ellsbury J, Gonzalez A, Youkilis K
+HR -- Ortiz D, Wells V
+SB -- Ellsbury J 2, Abreu B, Bourjos P
+WP -- Buchholz C
+PB -- Mathis J
+T -- 3:29
+A -- 37017
+     Game of 5/3/2011 -- Anaheim at Boston (N)
+
+  Anaheim            AB  R  H RBI    Boston             AB  R  H RBI
+Izturis M, 3b         4  0  2  0   Ellsbury J, cf        4  1  1  0   
+Abreu B, dh           4  0  0  0   Pedroia D, 2b         4  0  0  0   
+Kendrick H, 2b        4  0  0  0   Gonzalez A, 1b        4  2  2  2   
+Hunter T, rf          4  1  2  0   Ortiz D, dh           4  1  2  1   
+Wells V, lf           3  1  1  0   Lowrie J, 3b          4  1  2  1   
+Aybar E, ss           4  0  1  1   Drew J, rf            4  0  0  0   
+Trumbo M, 1b          3  1  1  2   Scutaro M, ss         4  1  2  2   
+Mathis J, c           4  0  1  0   Crawford C, lf        3  1  2  0   
+Bourjos P, cf         4  0  1  0   Saltalamacchia J, c   4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  3  9  3                        35  7 12  7
+
+Anaheim          010 000 002 --  3
+Boston           000 002 14x --  7
+
+  Anaheim              IP  H  R ER BB SO
+Haren D (L)*          7.0  9  4  4  0  8
+Takahashi H           1.0  3  3  3  1  1
+
+  Boston               IP  H  R ER BB SO
+Lester J (W)          7.0  6  1  1  1 11
+Bard D                1.0  0  0  0  0  0
+Papelbon J            1.0  3  2  2  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Lester J
+DP -- Anaheim 1, Boston 1
+LOB -- Anaheim 6, Boston 5
+2B -- Izturis M, Ellsbury J, Saltalamacchia J, Aybar E
+HR -- Trumbo M, Gonzalez A, Ortiz D, Scutaro M
+SB -- Crawford C
+SF -- Trumbo M
+T -- 2:41
+A -- 37043
+     Game of 5/4/2011 -- Anaheim at Boston (N)
+
+  Anaheim            AB  R  H RBI    Boston             AB  R  H RBI
+Aybar E, ss           4  0  1  1   Ellsbury J, cf        6  0  1  1   
+Abreu B, dh           7  0  1  2   Pedroia D, 2b         6  0  0  0   
+Izturis M, 2b         5  0  1  0   Gonzalez A, 1b        3  0  1  1   
+Hunter T, rf          4  0  1  0   Scutaro M, pr-ss      2  0  1  0   
+Callaspo A, 3b        6  0  0  0   Youkilis K, 3b        4  0  2  0   
+Kendrick H, 1b        6  2  2  0   Ortiz D, dh           4  0  0  0   
+Wells V, lf           6  2  2  2   McDonald D, pr        1  0  1  0   
+Conger H, c           4  0  3  0   Lowrie J, ss-1b       5  1  2  0   
+Amarista A, pr        0  0  0  0   Cameron M, rf         6  0  1  0   
+Mathis J, c           1  0  0  0   Crawford C, lf        6  1  1  0   
+Bourjos P, cf         5  1  1  0   Varitek J, c          4  1  1  0   
+                                   Saltalamacchia J, ph  1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     48  5 12  5                        48  3 11  2
+
+Anaheim          000 000 201 000 2 --  5
+Boston           000 000 012 000 0 --  3
+
+  Anaheim              IP  H  R ER BB SO
+Santana E             4.0  0  0  0  1  7
+Thompson R            1.2  0  0  0  1  2
+Downs S               1.1  1  0  0  1  1
+Rodney F              1.0  3  1  1  0  1
+Walden J              1.0  3  2  2  1  1
+Bell T (W)            4.0  4  0  0  1  3
+
+  Boston               IP  H  R ER BB SO
+Beckett J             4.1  1  0  0  3  3
+Albers M              1.2  2  0  0  1  2
+Wheeler D             0.1  2  2  2  1  0
+Okajima H             2.0  2  1  1  0  1
+Wakefield T           0.2  0  0  0  1  0
+Papelbon J            1.0  1  0  0  0  2
+Bard D                2.0  1  0  0  1  4
+Matsuzaka D (L)       1.0  3  2  2  1  0
+
+E -- Rodney F, Conger H
+DP -- Boston 1
+LOB -- Anaheim 13, Boston 12
+2B -- Aybar E, Kendrick H, Varitek J, Crawford C, Conger H, Youkilis K
+HR -- Wells V
+SB -- Aybar E, Ellsbury J
+CS -- Izturis M
+SF -- Aybar E
+HBP -- by Santana E (Youkilis K)
+WP -- Walden J
+T -- 5:00
+A -- 37037
+     Game of 5/5/2011 -- Anaheim at Boston (D)
+
+  Anaheim            AB  R  H RBI    Boston             AB  R  H RBI
+Aybar E, ss           6  2  4  1   Ellsbury J, cf        3  0  1  0   
+Kendrick H, 2b-1b     6  1  3  2   Crawford C, lf        3  0  1  0   
+Abreu B, lf           6  0  2  3   McDonald D, lf        1  0  0  0   
+Hunter T, dh          3  1  1  1   Youkilis K, 3b        4  0  0  0   
+Callaspo A, 3b        5  0  2  2   Gonzalez A, 1b        4  0  0  0   
+Wells V, rf           4  1  1  0   Ortiz D, dh           3  0  3  0   
+Wilson B, c           1  0  0  0   Lowrie J, ss          4  0  1  0   
+Trumbo M, 1b-rf       3  1  1  2   Drew J, rf            2  0  0  0   
+Mathis J, c           4  1  1  0   Saltalamacchia J, c   3  0  0  0   
+Amarista A, 2b        1  0  0  0   Scutaro M, 2b         2  0  1  0   
+Bourjos P, cf         4  4  3  0                                      
+                     -- -- -- --                        -- -- -- --
+                     43 11 18 11                        29  0  7  0
+
+Anaheim          003 330 200 -- 11
+Boston           000 000 000 --  0
+
+  Anaheim              IP  H  R ER BB SO
+Pineiro J (W)         5.2  3  0  0  4  2
+Thompson R            1.1  1  0  0  1  2
+Rodriguez F           2.0  3  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Lackey J (L)*         4.0 10  8  8  3  1
+Atchison S            3.2  7  3  3  1  2
+Hill R                1.1  1  0  0  0  2
+  * Pitched to 2 batters in 5th
+
+E -- Scutaro M
+DP -- Anaheim 4, Boston 1
+LOB -- Anaheim 10, Boston 7
+2B -- Callaspo A 2, Bourjos P, Lowrie J, Abreu B
+HR -- Trumbo M
+SB -- Kendrick H, Aybar E 2, Wells V
+CS -- Trumbo M
+HBP -- by Lackey J (Bourjos P)
+T -- 3:10
+A -- 37013
+     Game of 5/6/2011 -- Minnesota at Boston (N)
+
+  Minnesota          AB  R  H RBI    Boston             AB  R  H RBI
+Span D, cf            5  0  2  2   Ellsbury J, cf        4  0  2  0   
+Plouffe T, ss         4  3  2  1   Pedroia D, 2b         3  0  0  0   
+Morneau J, 1b         4  1  1  0   Gonzalez A, 1b        4  1  1  1   
+Kubel J, dh           3  0  1  0   Youkilis K, 3b        3  0  1  0   
+Tosoni R, pr          0  0  0  0   Ortiz D, dh           4  0  0  0   
+Cuddyer M, rf         4  2  2  0   Drew J, rf            4  1  1  1   
+Valencia D, 3b        5  2  2  2   Lowrie J, ss          3  0  0  0   
+Revere B, lf          5  1  1  0   Crawford C, lf        3  0  1  0   
+Butera D, c           4  0  1  0   Saltalamacchia J, c   3  0  1  0   
+Casilla A, 2b         4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  9 12  5                        31  2  7  2
+
+Minnesota        130 041 000 --  9
+Boston           010 100 000 --  2
+
+  Minnesota            IP  H  R ER BB SO
+Baker S (W)           8.0  7  2  2  1  8
+Nathan J              1.0  0  0  0  1  0
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (L)       4.1  9  8  6  4  1
+Aceves A              4.2  3  1  1  1  2
+
+E -- Lowrie J 2
+DP -- Minnesota 2, Boston 2
+LOB -- Minnesota 7, Boston 4
+2B -- Valencia D, Saltalamacchia J, Kubel J
+HR -- Plouffe T, Drew J, Gonzalez A
+SB -- Plouffe T
+CS -- Ellsbury J
+Balk -- Wakefield T, Aceves A
+T -- 2:37
+A -- 37798
+     Game of 5/7/2011 -- Minnesota at Boston (D)
+
+  Minnesota          AB  R  H RBI    Boston             AB  R  H RBI
+Span D, cf            3  0  0  0   Ellsbury J, cf        5  1  2  2   
+Plouffe T, ss         3  0  0  0   Pedroia D, 2b         4  0  1  0   
+Morneau J, dh         4  0  1  0   Gonzalez A, 1b        4  1  1  0   
+Kubel J, rf           4  0  0  0   Youkilis K, dh-3b     4  0  2  1   
+Cuddyer M, 1b         4  0  2  0   Lowrie J, 3b-ss       3  0  1  1   
+Valencia D, 3b        3  0  0  0   Cameron M, rf         4  0  0  0   
+Tosoni R, lf          3  0  0  0   Saltalamacchia J, c   4  1  1  0   
+Rivera R, c           2  0  0  0   Crawford C, lf        4  1  2  0   
+Hughes L, 2b          3  0  0  0   Scutaro M, ss         3  0  2  0   
+                                   Drew J, ph            0  0  0  0   
+                                   Papelbon J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  0  3  0                        35  4 12  4
+
+Minnesota        000 000 000 --  0
+Boston           101 000 02x --  4
+
+  Minnesota            IP  H  R ER BB SO
+Duensing B (L)        2.0  3  1  1  1  2
+Slowey K              4.1  6  1  1  1  1
+Perkins G             0.2  0  0  0  0  2
+Burnett A             0.2  3  2  2  1  0
+Hoey J                0.1  0  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Buchholz C (W)        5.0  2  0  0  1  6
+Hill R                1.0  0  0  0  1  1
+Albers M              1.0  1  0  0  0  1
+Bard D                1.0  0  0  0  0  0
+Papelbon J            1.0  0  0  0  0  2
+
+E -- Lowrie J
+DP -- Minnesota 1, Boston 2
+LOB -- Minnesota 5, Boston 10
+2B -- Ellsbury J, Gonzalez A
+SB -- Pedroia D, Ellsbury J
+HBP -- by Hill R (Plouffe T)
+T -- 2:45
+A -- 37234
+     Game of 5/8/2011 -- Minnesota at Boston (D)
+
+  Minnesota          AB  R  H RBI    Boston             AB  R  H RBI
+Span D, cf            3  1  1  0   Ellsbury J, cf        5  1  3  0   
+Plouffe T, ss         3  2  1  0   Pedroia D, 2b         4  1  1  0   
+Tolbert M, ss         0  0  0  0   Gonzalez A, 1b        5  2  3  2   
+Morneau J, 1b         4  0  0  0   Youkilis K, 3b        4  4  2  1   
+Kubel J, dh           4  1  3  2   Ortiz D, dh           4  0  2  0   
+Cuddyer M, rf         4  0  0  0   Drew J, rf            4  0  1  2   
+Valencia D, 3b        4  1  2  3   Lowrie J, ss          4  0  1  2   
+Revere B, lf          4  0  0  0   Iglesias J, ss        0  0  0  0   
+Butera D, c           3  0  0  0   Crawford C, lf        4  1  1  0   
+Tosoni R, ph          1  0  0  0   Varitek J, c          4  0  0  1   
+Casilla A, 2b         4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  5  8  5                        38  9 14  8
+
+Minnesota        300 100 010 --  5
+Boston           014 020 20x --  9
+
+  Minnesota            IP  H  R ER BB SO
+Pavano C (L)          5.0 10  7  7  1  0
+Burnett A             1.0  1  0  0  0  1
+Mijares J             1.0  2  2  0  0  0
+Nathan J              1.0  1  0  0  0  2
+
+  Boston               IP  H  R ER BB SO
+Matsuzaka D (W)       6.0  5  4  4  2  4
+Albers M              2.0  3  1  1  0  3
+Bard D                1.0  0  0  0  0  1
+
+E -- Butera D, Casilla A, Revere B
+DP -- Boston 1
+LOB -- Minnesota 4, Boston 6
+2B -- Youkilis K, Ellsbury J, Lowrie J, Plouffe T
+3B -- Crawford C
+HR -- Valencia D, Gonzalez A
+SB -- Span D, Valencia D, Ellsbury J
+WP -- Pavano C
+T -- 2:53
+A -- 37526
+     Game of 5/9/2011 -- Minnesota at Boston (N)
+
+  Minnesota          AB  R  H RBI    Boston             AB  R  H RBI
+Span D, cf            4  1  2  0   Ellsbury J, cf        5  0  1  0   
+Tolbert M, ss         5  0  0  0   Pedroia D, 2b         4  0  1  0   
+Kubel J, dh           4  0  1  1   Gonzalez A, 1b        5  0  2  1   
+Casilla A, pr         1  0  0  0   Youkilis K, 3b        3  0  0  0   
+Morneau J, 1b         5  0  2  0   Ortiz D, dh           5  0  0  0   
+Tosoni R, pr-rf       0  0  0  0   Drew J, rf            4  0  1  0   
+Valencia D, 3b        5  0  1  0   Lowrie J, ss          4  0  1  0   
+Cuddyer M, rf-1b      4  0  2  0   Iglesias J, pr        0  1  0  0   
+Revere B, lf          5  0  0  0   Crawford C, lf        5  0  1  1   
+Rivera R, c           5  0  0  0   Varitek J, c          4  1  2  0   
+Hughes L, 2b          3  0  2  0   McDonald D, pr        0  0  0  0   
+                                   Saltalamacchia J, c   0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  1 10  1                        39  2  9  2
+
+Minnesota        000 000 010 00 --  1
+Boston           000 010 000 01 --  2
+  1 out when winning run was scored.
+
+  Minnesota            IP  H  R ER BB SO
+Blackburn N           6.1  7  1  1  3  5
+Perkins G             1.2  0  0  0  0  2
+Mijares J             2.0  1  0  0  1  0
+Hoey J (L)            0.1  1  1  1  1  0
+
+  Boston               IP  H  R ER BB SO
+Beckett J             7.0  6  0  0  1  5
+Aceves A              0.2  1  1  1  0  0
+Papelbon J            1.1  1  0  0  0  1
+Okajima H (W)         2.0  2  0  0  2  3
+
+E -- Hughes L
+DP -- Minnesota 1, Boston 2
+LOB -- Minnesota 10, Boston 11
+2B -- Drew J, Varitek J, Pedroia D, Crawford C
+SB -- Hughes L, Casilla A, Revere B
+CS -- McDonald D
+Balk -- Aceves A
+T -- 3:55
+A -- 37276
+     Game of 5/16/2011 -- Baltimore at Boston (N)
+
+  Baltimore          AB  R  H RBI    Boston             AB  R  H RBI
+Roberts B, 2b         5  1  1  0   Ellsbury J, cf        5  1  2  0   
+Markakis N, rf        4  1  1  0   Pedroia D, 2b         5  1  1  0   
+Lee D, 1b             2  0  1  1   Gonzalez A, 1b        5  1  3  3   
+Fox J, 1b             3  0  0  0   Youkilis K, 3b        4  0  2  2   
+Guerrero V, dh        5  2  3  1   Ortiz D, dh           4  0  0  0   
+Scott L, lf           1  1  0  0   Drew J, rf            4  1  2  0   
+Pie F, lf             0  0  0  0   Lowrie J, ss          4  2  2  1   
+Jones A, cf           4  0  1  1   Crawford C, lf        5  1  1  0   
+Wieters M, c          4  1  1  1   Varitek J, c          5  1  2  2   
+Reynolds M, 3b        5  1  2  2                                      
+Hardy J, ss           3  0  0  1                                      
+                     -- -- -- --                        -- -- -- --
+                     36  7 10  7                        41  8 15  8
+
+Baltimore        201 021 100 --  7
+Boston           000 005 102 --  8
+  1 out when winning run was scored.
+
+  Baltimore            IP  H  R ER BB SO
+Tillman C             5.0  5  0  0  3  2
+Gonzalez M            0.1  3  4  1  0  0
+Accardo J             0.1  2  1  1  0  0
+Rapada C              0.1  0  0  0  1  0
+Johnson J             1.0  3  1  1  0  2
+Uehara K              1.0  1  0  0  1  1
+Gregg K (L)           0.1  1  2  2  2  0
+
+  Boston               IP  H  R ER BB SO
+Matsuzaka D           4.1  5  5  5  7  2
+Atchison S            1.2  3  1  1  1  2
+Aceves A (W)          3.0  2  1  1  0  2
+
+E -- Scott L, Reynolds M
+LOB -- Baltimore 11, Boston 15
+2B -- Lee D, Guerrero V 2, Lowrie J, Youkilis K 2, Gonzalez A
+3B -- Lowrie J
+HR -- Reynolds M
+SB -- Roberts B 2, Crawford C, Markakis N, Reynolds M, Ellsbury J
+SF -- Hardy J
+PB -- Varitek J
+T -- 3:53
+A -- 37138
+     Game of 5/18/2011 -- Detroit at Boston (N)
+
+  Detroit            AB  R  H RBI    Boston             AB  R  H RBI
+Jackson A, cf         4  0  1  0   Ellsbury J, cf        3  0  0  0   
+Sizemore S, 2b        3  0  0  0   Pedroia D, 2b         4  0  1  0   
+Boesch B, rf          4  0  0  0   Gonzalez A, 1b        3  0  0  0   
+Cabrera M, 1b         4  0  1  0   Youkilis K, 3b        2  0  1  0   
+Martinez V, dh        4  0  1  0   Ortiz D, dh           3  0  0  0   
+Dirks A, pr           0  0  0  0   Lowrie J, ss          3  0  1  0   
+Peralta J, ss         3  0  0  0   Cameron M, rf         3  0  0  0   
+Avila A, c            4  0  2  0   Crawford C, lf        2  1  0  0   
+Raburn R, lf          4  0  0  0   Saltalamacchia J, c   3  0  1  1   
+Inge B, 3b            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  5  0                        26  1  4  1
+
+Detroit          000 000 000 --  0
+Boston           000 000 01x --  1
+
+  Detroit              IP  H  R ER BB SO
+Coke P                7.0  3  0  0  1  4
+Perry R               0.2  0  0  0  0  0
+Schlereth D (L)*      0.0  1  1  1  1  0
+Alburquerque A        0.1  0  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Buchholz C            7.0  4  0  0  1  7
+Bard D (W)            1.0  0  0  0  0  1
+Papelbon J (S)        1.0  1  0  0  0  2
+  * Pitched to 3 batters in 8th
+
+E -- Peralta J
+DP -- Detroit 3
+LOB -- Detroit 8, Boston 4
+2B -- Cabrera M, Avila A, Jackson A, Saltalamacchia J, Martinez V
+SH -- Sizemore S
+HBP -- by Buchholz C (Peralta J), by Buchholz C (Inge B), by Schlereth D (Ellsbury J)
+T -- 3:02
+A -- 37311
+     Game of 5/19/2011 -- Detroit at Boston (N)
+
+  Detroit            AB  R  H RBI    Boston             AB  R  H RBI
+Jackson A, cf         5  0  2  0   Ellsbury J, cf        4  0  0  0   
+Sizemore S, 2b        4  0  0  0   Pedroia D, 2b         4  0  0  0   
+Boesch B, rf          5  1  1  1   Gonzalez A, 1b        4  0  0  0   
+Wells C, rf           0  0  0  0   Youkilis K, 3b        3  1  1  0   
+Cabrera M, 1b         4  2  1  1   Iglesias J, pr        0  0  0  0   
+Martinez V, dh        3  0  1  0   Ortiz D, dh           4  1  3  1   
+Dirks A, lf           4  0  1  1   McDonald D, pr        0  1  0  0   
+Peralta J, ss         4  0  0  0   Drew J, rf            2  1  1  2   
+Avila A, c            4  0  2  0   Lowrie J, ss          4  0  0  0   
+Inge B, 3b            4  0  2  0   Crawford C, lf        4  0  2  1   
+                                   Varitek J, c          3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  3 10  3                        32  4  8  4
+
+Detroit          010 000 020 --  3
+Boston           010 100 101 --  4
+  1 out when winning run was scored.
+
+  Detroit              IP  H  R ER BB SO
+Verlander J           8.0  6  3  3  0  9
+Alburquerque A (L)    0.1  2  1  1  2  0
+
+  Boston               IP  H  R ER BB SO
+Beckett J             6.0  5  1  1  2  3
+Albers M              1.0  1  0  0  0  2
+Bard D                1.0  2  2  2  0  1
+Papelbon J (W)        1.0  2  0  0  1  2
+
+E -- Pedroia D
+DP -- Boston 1
+LOB -- Detroit 10, Boston 6
+HR -- Drew J, Ortiz D, Boesch B, Cabrera M
+SF -- Drew J
+T -- 3:08
+A -- 37660
+     Game of 5/20/2011 -- Chicago at Boston (N)
+
+  Chicago            AB  R  H RBI    Boston             AB  R  H RBI
+Castro S, ss          5  0  0  0   Ellsbury J, cf        6  2  3  2   
+Barney D, 2b          5  1  1  0   Pedroia D, 2b         4  3  2  0   
+Baker J, 3b           5  2  4  0   Sutton D, 2b          0  0  0  0   
+Ramirez A, dh         4  0  3  1   Gonzalez A, 1b        6  1  4  4   
+Campana T, ph         1  0  0  0   Youkilis K, 3b        5  2  3  3   
+Pena C, 1b            4  1  0  1   Ortiz D, dh           5  2  2  0   
+Byrd M, cf            2  0  0  0   Lowrie J, ss          5  0  2  1   
+DeWitt B, ph          1  0  0  0   Cameron M, rf         3  1  0  0   
+Soriano A, lf         4  1  2  0   Crawford C, lf        5  1  1  2   
+Johnson R, rf         4  0  2  2   McDonald D, lf        0  0  0  0   
+Hill K, c             3  0  0  0   Saltalamacchia J, c   3  3  2  1   
+                     -- -- -- --                        -- -- -- --
+                     38  5 12  4                        42 15 19 13
+
+Chicago          002 030 000 --  5
+Boston           202 420 05x -- 15
+
+  Chicago              IP  H  R ER BB SO
+Davis D (L)           3.2  8  7  7  3  3
+Maine S*              0.1  5  3  3  1  0
+Russell J             3.0  2  0  0  0  1
+Samardzija J          1.0  4  5  3  2  1
+
+  Boston               IP  H  R ER BB SO
+Lester J (W)          6.0 12  5  5  2  5
+Atchison S (S)        3.0  0  0  0  0  3
+  * Pitched to 3 batters in 5th
+
+E -- Hill K, Castro S 2, Lowrie J, Soriano A
+DP -- Chicago 1, Boston 1
+LOB -- Chicago 10, Boston 10
+2B -- Youkilis K 2, Barney D, Ramirez A, Ortiz D 2, Pedroia D, Johnson R, Ellsbury J
+HR -- Youkilis K, Saltalamacchia J
+SB -- Pedroia D, Ellsbury J
+SF -- Youkilis K
+HBP -- by Lester J (Byrd M), by Atchison S (Byrd M)
+PB -- Hill K
+T -- 3:35
+A -- 37140
+     Game of 5/21/2011 -- Chicago at Boston (N)
+
+  Chicago            AB  R  H RBI    Boston             AB  R  H RBI
+Fukudome K, rf        2  2  0  0   Ellsbury J, cf        4  0  1  1   
+Barney D, 2b          4  1  2  0   Pedroia D, 2b         5  0  0  0   
+Castro S, ss          5  1  2  1   Gonzalez A, 1b        5  0  2  0   
+Ramirez A, 3b         4  1  1  1   Youkilis K, 3b        3  1  2  0   
+Pena C, 1b            3  1  0  1   Ortiz D, dh           5  1  1  2   
+Byrd M, cf            0  0  0  0   Drew J, rf            4  0  0  0   
+Johnson R, pr-cf      4  1  1  2   Lowrie J, ss          2  0  1  0   
+Soriano A, dh         5  1  1  0   Crawford C, lf        4  1  1  0   
+DeWitt B, lf          3  0  0  0   Varitek J, c          3  0  1  0   
+Baker J, ph           1  1  1  1                                      
+Campana T, lf         0  0  0  0                                      
+Hill K, c             4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  9  9  6                        35  3  9  3
+
+Chicago          001 000 080 --  9
+Boston           000 201 000 --  3
+
+  Chicago              IP  H  R ER BB SO
+Zambrano C            5.2  7  3  3  3  2
+Marshall S (W)        1.1  1  0  0  1  0
+Wood K                1.0  0  0  0  0  0
+Marmol C              1.0  1  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Aceves A              5.0  3  1  1  2  2
+Wheeler D             1.1  0  0  0  1  1
+Hill R                0.2  1  0  0  0  2
+Albers M (L)*         0.0  3  6  5  2  0
+Morales F             2.0  2  2  0  1  2
+  * Pitched to 6 batters in 8th
+
+E -- Hill K, Lowrie J, Youkilis K, Crawford C
+DP -- Chicago 1, Boston 2
+LOB -- Chicago 7, Boston 11
+2B -- Ramirez A, Johnson R, Baker J, Castro S
+HR -- Ortiz D
+SB -- Ellsbury J, Fukudome K, Pedroia D
+CS -- Pena C
+HBP -- by Aceves A (Fukudome K), by Aceves A (Byrd M), by Zambrano C (Youkilis K)
+PB -- Hill K
+T -- 3:51
+A -- 37798
+     Game of 5/22/2011 -- Chicago at Boston (N)
+
+  Chicago            AB  R  H RBI    Boston             AB  R  H RBI
+Fukudome K, rf        4  0  0  0   Ellsbury J, cf        4  0  1  0   
+Barney D, 2b          4  0  0  0   Pedroia D, 2b         4  1  2  0   
+Castro S, ss          4  1  1  0   Gonzalez A, 1b        4  2  4  0   
+Ramirez A, 3b         4  0  1  0   Youkilis K, 3b        3  1  1  2   
+Pena C, 1b            4  0  0  0   Ortiz D, dh           4  0  2  0   
+Baker J, lf           3  0  1  1   Lowrie J, ss          2  0  1  1   
+Campana T, pr-lf      0  0  0  0   Cameron M, rf         3  0  0  1   
+Soriano A, dh         3  0  1  0   Crawford C, lf        3  0  0  0   
+Castillo W, c         3  0  1  0   Saltalamacchia J, c   4  1  1  1   
+Johnson R, cf         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  5  1                        31  5 12  5
+
+Chicago          000 000 100 --  1
+Boston           000 210 20x --  5
+
+  Chicago              IP  H  R ER BB SO
+Russell J (L)*        4.0  7  3  3  1  2
+Berg J                1.0  1  0  0  0  0
+Grabow J              1.2  3  2  2  0  1
+Wood K                0.2  1  0  0  0  0
+Maine S               0.2  0  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (W)       6.2  4  1  1  0  3
+Bard D                1.1  0  0  0  0  2
+Papelbon J            1.0  1  0  0  0  2
+  * Pitched to 2 batters in 5th
+
+E -- Castillo W
+DP -- Chicago 2, Boston 1
+LOB -- Chicago 4, Boston 7
+2B -- Gonzalez A, Ortiz D, Castro S, Baker J, Ramirez A
+3B -- Youkilis K
+HR -- Saltalamacchia J
+CS -- Ellsbury J
+SF -- Lowrie J, Cameron M
+HBP -- by Wood K (Lowrie J)
+WP -- Wakefield T 2
+T -- 2:44
+A -- 37688
+     Game of 5/30/2011 -- Chicago at Boston (N)
+
+  Chicago            AB  R  H RBI    Boston             AB  R  H RBI
+Pierre J, lf          4  1  1  0   Ellsbury J, cf        4  1  1  0   
+Ramirez A, ss         4  2  2  2   Pedroia D, 2b         4  0  1  2   
+Quentin C, dh         3  1  1  2   Gonzalez A, 1b        4  1  2  1   
+Konerko P, 1b         5  1  2  1   Youkilis K, 3b        4  0  1  0   
+Pierzynski A, c       5  0  2  2   Ortiz D, dh           3  0  2  0   
+Rios A, cf            5  1  1  0   Crawford C, lf        4  0  0  0   
+Lillibridge B, rf     4  0  1  0   Sutton D, ss          3  0  0  0   
+Beckham G, 2b         4  1  1  0   Drew J, rf            3  0  0  0   
+Morel B, 3b           3  0  1  0   Cameron M, ph         1  0  0  0   
+                                   Saltalamacchia J, c   3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 12  7                        33  3  7  3
+
+Chicago          201 004 000 --  7
+Boston           102 000 000 --  3
+
+  Chicago              IP  H  R ER BB SO
+Peavy J (W)           7.0  6  3  3  0  2
+Crain J               0.2  1  0  0  0  0
+Thornton M            1.1  0  0  0  1  2
+
+  Boston               IP  H  R ER BB SO
+Lester J (L)          5.2  8  7  7  4  4
+Wheeler D             1.1  1  0  0  0  2
+Bowden M              2.0  3  0  0  1  1
+
+DP -- Boston 2
+LOB -- Chicago 10, Boston 6
+2B -- Ellsbury J, Ramirez A
+HR -- Gonzalez A, Konerko P
+SB -- Lillibridge B
+CS -- Lillibridge B
+SH -- Sutton D
+HBP -- by Lester J (Quentin C) 2, by Peavy J (Saltalamacchia J)
+WP -- Bowden M
+T -- 3:24
+A -- 37463
+     Game of 5/31/2011 -- Chicago at Boston (N)
+
+  Chicago            AB  R  H RBI    Boston             AB  R  H RBI
+Pierre J, lf          4  1  1  2   Ellsbury J, cf        3  0  0  0   
+Ramirez A, ss         5  1  4  3   Reddick J, cf         1  1  1  1   
+Quentin C, rf         4  0  1  1   Pedroia D, 2b         2  0  0  0   
+Lillibridge B, rf     1  0  1  0   Sutton D, 2b          2  1  2  2   
+Konerko P, 1b         3  2  1  1   Gonzalez A, 1b        5  0  1  0   
+Pierzynski A, c       4  1  2  1   Youkilis K, 3b        4  1  1  0   
+Rios A, cf            5  0  0  0   Ortiz D, dh           4  1  2  3   
+Dunn A, dh            2  1  1  0   Crawford C, lf        2  0  1  0   
+Beckham G, 2b         5  2  3  1   Cameron M, lf         2  0  0  0   
+Morel B, 3b           5  2  1  1   Lowrie J, ss          3  1  1  0   
+                                   Drew J, rf            4  0  0  0   
+                                   Varitek J, c          4  2  3  1   
+                     -- -- -- --                        -- -- -- --
+                     38 10 15 10                        36  7 12  7
+
+Chicago          041 104 000 -- 10
+Boston           001 000 042 --  7
+
+  Chicago              IP  H  R ER BB SO
+Humber P (W)          7.2  9  4  4  1  5
+Ohman W               0.1  1  1  1  0  0
+Bruney B              0.2  2  2  2  1  0
+Sale C (S)            0.1  0  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Aceves A (L)*         5.0  8  8  6  3  1
+Atchison S            2.0  4  2  2  0  0
+Jenks B               1.0  2  0  0  0  0
+Wheeler D             1.0  1  0  0  1  0
+  * Pitched to 2 batters in 6th
+
+E -- Lowrie J
+DP -- Chicago 2, Boston 2
+LOB -- Chicago 8, Boston 5
+2B -- Konerko P, Pierzynski A, Gonzalez A, Quentin C, Reddick J, Sutton D
+HR -- Varitek J, Ortiz D
+SH -- Pierre J
+SF -- Konerko P, Reddick J
+HBP -- by Aceves A (Dunn A)
+PB -- Varitek J
+T -- 2:51
+A -- 37269
+     Game of 6/1/2011 -- Chicago at Boston (D)
+
+  Chicago            AB  R  H RBI    Boston             AB  R  H RBI
+Pierre J, lf          5  1  0  0   Ellsbury J, cf        4  0  1  0   
+Ramirez A, ss         5  3  3  1   Pedroia D, 2b         4  0  2  0   
+Quentin C, rf         5  0  2  1   Gonzalez A, 1b        3  0  1  0   
+Rios A, cf            0  0  0  0   Youkilis K, 3b        4  0  0  0   
+Konerko P, dh         4  1  3  3   Ortiz D, dh           4  2  2  1   
+Dunn A, 1b            4  0  0  0   Crawford C, lf        4  1  1  0   
+Lillibridge B, cf-rf  5  1  2  2   Lowrie J, ss          4  1  1  1   
+Vizquel O, 3b         4  0  1  0   Reddick J, rf         4  0  0  0   
+Castro R, c           3  1  0  0   Saltalamacchia J, c   4  0  1  2   
+Beckham G, 2b         4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  7 12  7                        35  4  9  4
+
+Chicago          000 121 102 --  7
+Boston           030 001 000 --  4
+
+  Chicago              IP  H  R ER BB SO
+Floyd G (W)           6.2  9  4  4  1  1
+Sale C                1.1  0  0  0  0  0
+Santos S (S)          1.0  0  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Wakefield T           6.0  7  4  4  1  4
+Albers M (L)          0.1  3  1  1  0  0
+Hill R*               0.0  0  0  0  1  0
+Bard D                1.2  0  0  0  0  3
+Papelbon J            1.0  2  2  2  0  1
+  * Pitched to 1 batter in 7th
+
+DP -- Chicago 1
+LOB -- Chicago 8, Boston 5
+2B -- Ortiz D, Lowrie J, Lillibridge B, Quentin C, Vizquel O
+HR -- Lillibridge B, Ortiz D, Konerko P
+SB -- Pierre J
+HBP -- by Wakefield T (Konerko P)
+WP -- Albers M
+PB -- Saltalamacchia J
+T -- 2:53
+A -- 37321
+     Game of 6/3/2011 -- Oakland at Boston (N)
+
+  Oakland            AB  R  H RBI    Boston             AB  R  H RBI
+Crisp C, cf           5  0  1  1   Ellsbury J, cf        4  1  1  1   
+DeJesus D, rf         4  1  1  0   Pedroia D, 2b         5  0  0  0   
+Willingham J, lf      5  1  3  0   Gonzalez A, 1b        5  1  3  1   
+Matsui H, dh          5  1  0  1   Youkilis K, 3b        3  3  2  0   
+Suzuki K, c           3  1  1  0   Ortiz D, dh           3  1  2  2   
+Barton D, 1b          4  1  2  2   Lowrie J, ss          4  0  1  1   
+Ellis M, 2b           4  0  1  2   Crawford C, lf        4  0  1  2   
+Kouzmanoff K, 3b      3  1  1  0   Cameron M, rf         2  1  0  0   
+Sweeney R, ph         1  0  0  0   Drew J, ph-rf         2  0  0  0   
+LaRoche A, 3b         0  0  0  0   Saltalamacchia J, c   4  1  1  1   
+Pennington C, ss      3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6 11  6                        36  8 11  8
+
+Oakland          400 110 000 --  6
+Boston           212 000 21x --  8
+
+  Oakland              IP  H  R ER BB SO
+Outman J              2.2  5  5  4  1  2
+Moscoso G             2.1  2  0  0  0  3
+Breslow C             1.0  0  0  0  0  0
+Devine J (L)          0.2  1  2  2  1  0
+Fuentes B             0.1  1  0  0  0  0
+Wuertz M              1.0  2  1  1  0  0
+
+  Boston               IP  H  R ER BB SO
+Buchholz C            4.2  8  6  5  2  5
+Atchison S            1.0  1  0  0  0  0
+Hottovy T             0.1  0  0  0  0  0
+Jenks B (W)           1.0  1  0  0  1  1
+Bard D                1.0  1  0  0  0  0
+Papelbon J (S)        1.0  0  0  0  0  1
+
+E -- Kouzmanoff K, Buchholz C, Barton D
+DP -- Oakland 1, Boston 1
+LOB -- Oakland 7, Boston 8
+2B -- Youkilis K, Ortiz D, Willingham J 2, Gonzalez A
+HR -- Saltalamacchia J
+SB -- Ellsbury J, Crisp C
+SF -- Ellsbury J
+HBP -- by Devine J (Youkilis K)
+WP -- Outman J, Buchholz C
+Balk -- Jenks B
+PB -- Suzuki K
+T -- 3:35
+A -- 37808
+     Game of 6/4/2011 -- Oakland at Boston (D)
+
+  Oakland            AB  R  H RBI    Boston             AB  R  H RBI
+DeJesus D, rf         3  1  0  0   Ellsbury J, cf        7  1  4  1   
+LaRoche A, 3b         0  0  0  0   Pedroia D, 2b         5  1  1  1   
+Jackson C, ph-3b      3  0  2  2   Gonzalez A, 1b        5  2  3  1   
+Sweeney R, cf-rf      5  1  2  1   Sutton D, pr-1b       2  0  0  0   
+Willingham J, lf      5  0  1  2   Youkilis K, 3b        5  1  2  1   
+Matsui H, dh          7  0  1  0   Ortiz D, dh           4  0  1  0   
+Suzuki K, pr          0  0  0  0   Reddick J, pr         0  1  0  0   
+Ellis M, 2b           7  1  2  0   Cameron M, ph         3  0  0  0   
+Barton D, 1b          5  2  2  0   Crawford C, lf        7  2  4  3   
+Powell L, c           7  0  1  0   Lowrie J, ss          6  0  0  0   
+Kouzmanoff K, 3b      2  0  0  0   Drew J, rf            7  0  2  2   
+Crisp C, ph-cf        4  1  1  0   Varitek J, c          3  0  0  0   
+Pennington C, ss      4  2  2  2   Saltalamacchia J, c   3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     52  8 14  7                        57  9 18  9
+
+Oakland          000 002 104 010 00 --  8
+Boston           100 013 020 010 01 --  9
+  2 outs when winning run was scored.
+
+  Oakland              IP  H  R ER BB SO
+Cahill T              7.0  8  5  5  1  8
+Ziegler B             0.2  1  1  1  0  1
+Breslow C*            0.0  2  1  1  0  0
+De Los Santos F       0.1  0  0  0  0  1
+Fuentes B             2.0  2  0  0  0  1
+Bailey A              1.0  2  1  1  1  3
+Devine J              1.0  0  0  0  1  2
+Wuertz M              1.0  1  0  0  1  1
+Moscoso G (L)         0.2  2  1  1  1  0
+
+  Boston               IP  H  R ER BB SO
+Beckett J+            6.0  4  3  3  3  4
+Albers M              0.1  1  0  0  0  0
+Hottovy T             0.2  0  0  0  0  0
+Bard D                1.0  1  0  0  0  1
+Papelbon J            0.1  3  4  3  1  1
+Jenks B               1.2  2  0  0  0  3
+Aceves A (W)          4.0  3  1  1  2  2
+  * Pitched to 2 batters in 8th
+  + Pitched to 2 batters in 7th
+
+E -- Pedroia D
+DP -- Oakland 1, Boston 3
+LOB -- Oakland 11, Boston 12
+2B -- Youkilis K 2, Ortiz D, Crawford C 2, Pennington C, Jackson C, Saltalamacchia J, Ellsbury J
+HR -- Gonzalez A
+SB -- Crawford C, Ellsbury J 2
+CS -- Drew J
+SF -- Pennington C, Sweeney R
+HBP -- by Beckett J (DeJesus D)
+WP -- Beckett J
+T -- 5:17
+A -- 37485
+     Game of 6/5/2011 -- Oakland at Boston (D)
+
+  Oakland            AB  R  H RBI    Boston             AB  R  H RBI
+Crisp C, cf           3  0  0  0   Ellsbury J, cf        4  1  1  0   
+Sweeney R, lf         3  0  1  0   Pedroia D, 2b         3  0  2  1   
+DeJesus D, dh         3  0  0  0   Gonzalez A, 1b        4  1  1  2   
+Jackson C, rf         3  1  0  0   Youkilis K, 3b        4  0  0  0   
+Suzuki K, c           3  1  0  0   Ortiz D, dh           4  1  3  0   
+Barton D, 1b          3  0  2  2   Lowrie J, ss          4  1  1  0   
+Ellis M, 2b           4  0  0  0   Crawford C, lf        2  1  1  3   
+Kouzmanoff K, 3b      4  1  1  1   Cameron M, rf         3  0  0  0   
+Pennington C, ss      4  0  1  0   Drew J, ph-rf         1  0  0  0   
+                                   Saltalamacchia J, c   4  1  3  0   
+                     -- -- -- --                        -- -- -- --
+                     30  3  5  3                        33  6 12  6
+
+Oakland          001 101 000 --  3
+Boston           030 201 00x --  6
+
+  Oakland              IP  H  R ER BB SO
+Anderson B (L)        5.0  9  5  5  2  2
+De Los Santos F       2.0  2  1  1  0  4
+Ziegler B             1.0  1  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Lackey J (W)          5.2  3  3  3  2  2
+Albers M              1.0  2  0  0  0  1
+Hottovy T             0.1  0  0  0  1  0
+Wheeler D             1.0  0  0  0  0  0
+Bard D (S)            1.0  0  0  0  0  1
+
+DP -- Oakland 1, Boston 2
+LOB -- Oakland 6, Boston 7
+2B -- Pedroia D, Ortiz D, Barton D
+3B -- Saltalamacchia J
+HR -- Crawford C, Kouzmanoff K, Gonzalez A
+SB -- Suzuki K, Jackson C, Pedroia D
+CS -- Ellsbury J
+SH -- Ellsbury J
+HBP -- by Lackey J (DeJesus D), by Anderson B (Crawford C), by Lackey J (Suzuki K), by Lackey J (Jackson C)
+WP -- De Los Santos F 2
+T -- 2:50
+A -- 37796
+     Game of 6/17/2011 -- Milwaukee at Boston (N)
+
+  Milwaukee          AB  R  H RBI    Boston             AB  R  H RBI
+Weeks R, 2b           4  1  1  0   Ellsbury J, cf        5  1  1  1   
+Morgan N, cf-lf       4  2  3  0   Pedroia D, 2b         4  1  1  1   
+Braun R, lf           4  0  1  0   Gonzalez A, 1b        4  3  3  1   
+Gomez C, cf           0  0  0  0   Youkilis K, 3b        2  0  1  2   
+Fielder P, dh         4  1  2  1   Sutton D, 3b          3  1  2  0   
+McGehee C, 3b         4  0  1  2   Ortiz D, dh           5  1  3  1   
+Hart C, rf            4  0  0  0   Crawford C, lf        1  0  1  0   
+Kotsay M, 1b          3  0  0  0   McDonald D, pr-lf     3  1  0  1   
+Lucroy J, c           3  0  0  0   Scutaro M, ss         2  0  0  0   
+Counsell C, ss        3  0  0  0   Drew J, rf            3  1  1  2   
+                                   Varitek J, c          4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     33  4  8  3                        36 10 14 10
+
+Milwaukee        202 000 000 --  4
+Boston           220 012 30x -- 10
+
+  Milwaukee            IP  H  R ER BB SO
+Marcum S              1.0  4  2  2  1  1
+Estrada M (L)         4.0  4  3  3  2  1
+Herrera D*            1.0  4  4  3  1  0
+Dillard T             2.0  2  1  1  1  3
+
+  Boston               IP  H  R ER BB SO
+Lackey J (W)          8.0  8  4  4  0  5
+Albers M              1.0  0  0  0  0  2
+  * Pitched to 2 batters in 7th
+
+E -- Counsell C
+DP -- Milwaukee 2, Boston 2
+LOB -- Milwaukee 2, Boston 8
+2B -- Fielder P, Ortiz D, Gonzalez A, Varitek J, Sutton D
+HR -- Ellsbury J, Gonzalez A
+SH -- Scutaro M
+WP -- Marcum S, Dillard T
+T -- 3:06
+A -- 37833
+     Game of 6/18/2011 -- Milwaukee at Boston (N)
+
+  Milwaukee          AB  R  H RBI    Boston             AB  R  H RBI
+Weeks R, dh           4  1  2  1   Ellsbury J, cf        4  0  1  0   
+Hart C, rf            3  1  1  1   Pedroia D, 2b         4  0  1  0   
+Braun R, lf           3  1  1  0   Gonzalez A, 1b        4  0  0  0   
+Fielder P, 1b         3  0  1  0   Youkilis K, 3b        4  1  2  0   
+McGehee C, 3b         4  0  1  1   Ortiz D, dh           3  1  1  0   
+Betancourt Y, ss      4  0  0  0   McDonald D, lf        3  0  0  0   
+Wilson J, 2b          4  0  1  0   Drew J, ph-rf         1  0  0  0   
+Gomez C, cf           3  0  0  0   Scutaro M, ss         4  0  2  0   
+Morgan N, ph-cf       1  0  0  0   Saltalamacchia J, c   4  0  1  1   
+Kottaras G, c         3  1  1  1   Cameron M, rf-lf      3  0  1  1   
+Lucroy J, ph-c        1  0  0  0   Sutton D, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  8  4                        35  2  9  2
+
+Milwaukee        202 000 000 --  4
+Boston           020 000 000 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Wolf R (W)            7.0  9  2  2  1  3
+Loe K                 1.0  0  0  0  0  0
+Axford J (S)          1.0  0  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Lester J (L)          8.0  7  4  3  3  8
+Wheeler D             0.1  1  0  0  0  0
+Hottovy T             0.1  0  0  0  0  0
+Bowden M              0.1  0  0  0  0  0
+
+E -- Gonzalez A, Fielder P
+DP -- Milwaukee 2, Boston 1
+LOB -- Milwaukee 5, Boston 7
+2B -- Braun R, Youkilis K, Scutaro M, Weeks R, Wilson J
+HR -- Weeks R, Hart C, Kottaras G
+CS -- Hart C
+T -- 2:48
+A -- 38175
+     Game of 6/19/2011 -- Milwaukee at Boston (D)
+
+  Milwaukee          AB  R  H RBI    Boston             AB  R  H RBI
+Weeks R, 2b           4  0  0  0   Ellsbury J, cf        5  1  2  2   
+Hart C, rf            4  0  0  0   McDonald D, cf        0  0  0  0   
+Braun R, dh           4  0  1  0   Pedroia D, 2b         4  2  3  2   
+Fielder P, 1b         3  1  1  1   Sutton D, pr-2b       0  1  0  0   
+Kotsay M, 1b          1  0  0  0   Gonzalez A, 1b        5  2  2  2   
+McGehee C, 3b         3  1  1  0   Youkilis K, 3b        4  1  1  3   
+Wilson J, 3b          1  0  0  0   Ortiz D, dh           3  2  1  1   
+Betancourt Y, ss      4  0  0  0   Drew J, rf            5  1  2  0   
+Morgan N, lf          2  1  1  2   Scutaro M, ss         5  1  1  2   
+Gomez C, cf           3  0  0  0   Saltalamacchia J, c   4  0  1  0   
+Lucroy J, c           3  0  0  0   Reddick J, lf         3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  4  3                        38 12 14 12
+
+Milwaukee        020 000 100 --  3
+Boston           600 212 10x -- 12
+
+  Milwaukee            IP  H  R ER BB SO
+Gallardo Y (L)*       3.0  9  8  5  2  4
+Mitre S               3.0  3  3  3  2  3
+DiFelice M            1.0  2  1  1  0  1
+Hawkins L             1.0  0  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (W)       8.0  3  3  3  1  6
+Wheeler D             1.0  1  0  0  0  1
+  * Pitched to 2 batters in 4th
+
+E -- Gallardo Y, Sutton D
+LOB -- Milwaukee 3, Boston 7
+2B -- Ellsbury J, McGehee C, Saltalamacchia J, Reddick J, Pedroia D
+3B -- Gonzalez A
+HR -- Youkilis K, Morgan N, Pedroia D, Scutaro M, Fielder P
+SF -- Pedroia D
+WP -- Gallardo Y
+T -- 2:37
+A -- 37903
+     Game of 6/20/2011 -- San Diego at Boston (N)
+
+  San Diego          AB  R  H RBI    Boston             AB  R  H RBI
+Denorfia C, rf        5  0  1  1   Ellsbury J, cf        4  1  1  1   
+Bartlett J, ss        3  0  0  0   Pedroia D, 2b         4  3  1  1   
+Venable W, ph-lf      1  0  0  0   Gonzalez A, 1b        5  2  3  3   
+Headley C, 3b         5  2  4  0   Youkilis K, 3b        4  1  2  2   
+Ludwick R, lf         3  1  1  0   Sutton D, pr-3b       0  0  0  0   
+Gonzalez A, ss        1  0  0  0   Ortiz D, dh           4  1  2  2   
+Guzman J, dh          5  0  2  1   McDonald D, lf        3  0  0  0   
+Hudson O, 2b          5  2  3  3   Drew J, ph-rf         1  2  1  0   
+Maybin C, cf          4  0  0  0   Scutaro M, ss         4  2  2  1   
+Rizzo A, 1b           4  0  1  0   Varitek J, c          4  1  1  1   
+Hundley N, c          3  0  1  0   Cameron M, rf         2  0  0  0   
+                                   Reddick J, ph-lf      1  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     39  5 13  5                        36 14 14 13
+
+San Diego        000 003 011 --  5
+Boston           101 100 (10)1x -- 14
+
+  San Diego            IP  H  R ER BB SO
+LeBlanc W*            3.0  7  3  3  2  1
+Luebke C (L)          3.1  1  2  2  2  6
+Frieri E              0.1  0  4  4  2  0
+Scribner E+           0.0  4  4  4  1  0
+Neshek P              1.1  2  1  1  2  2
+
+  Boston               IP  H  R ER BB SO
+Miller A              5.2  7  3  3  3  6
+Albers M (W)          1.1  1  0  0  1  1
+Bowden M              1.0  3  1  1  0  0
+Hottovy T             1.0  2  1  1  0  1
+  * Pitched to 3 batters in 4th
+  + Pitched to 5 batters in 7th
+
+DP -- San Diego 2, Boston 1
+LOB -- San Diego 11, Boston 9
+2B -- Pedroia D, Ortiz D, Rizzo A, Gonzalez A, Youkilis K, Headley C
+3B -- Guzman J
+HR -- Hudson O
+HBP -- by Frieri E (Scutaro M), by Frieri E (Varitek J)
+WP -- Bowden M
+T -- 3:40
+A -- 38020
+     Game of 6/21/2011 -- San Diego at Boston (N)
+
+  San Diego          AB  R  H RBI    Boston             AB  R  H RBI
+Denorfia C, rf-lf     3  0  0  0   Ellsbury J, cf        5  0  2  1   
+Bartlett J, ss        2  0  1  1   Pedroia D, 2b         2  0  1  0   
+Headley C, 3b         3  1  1  1   Gonzalez A, 1b        5  1  1  1   
+Ludwick R, lf         5  0  0  0   Youkilis K, 3b        5  0  4  1   
+Venable W, rf         0  0  0  0   Sutton D, pr          0  0  0  0   
+Guzman J, dh          5  0  1  0   Ortiz D, dh           5  0  0  0   
+Hudson O, 2b          4  0  0  0   Drew J, rf            4  0  0  0   
+Rizzo A, 1b           5  1  1  1   Saltalamacchia J, c   3  1  1  0   
+Maybin C, cf          3  2  1  1   Scutaro M, ss         4  1  2  0   
+Hundley N, c          3  1  2  1   Reddick J, lf         4  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     33  5  7  5                        37  4 13  4
+
+San Diego        022 000 100 --  5
+Boston           101 101 000 --  4
+
+  San Diego            IP  H  R ER BB SO
+Latos M               5.2 10  4  4  4  8
+Qualls C (W)          1.1  2  0  0  1  0
+Adams M               1.0  0  0  0  0  2
+Bell H (S)            1.0  1  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Aceves A              5.0  4  4  4  6  4
+Wheeler D (L)         1.1  2  1  1  1  1
+Bard D                1.2  1  0  0  1  0
+Papelbon J            1.0  0  0  0  0  0
+
+E -- Headley C
+DP -- San Diego 2
+LOB -- San Diego 11, Boston 11
+2B -- Youkilis K, Rizzo A, Hundley N, Reddick J, Guzman J
+3B -- Reddick J
+SB -- Maybin C, Ortiz D
+CS -- Ellsbury J
+SH -- Denorfia C
+HBP -- by Aceves A (Headley C)
+T -- 3:42
+A -- 38422
+     Game of 6/22/2011 -- San Diego at Boston (D)
+
+  San Diego          AB  R  H RBI    Boston             AB  R  H RBI
+Venable W, rf         4  2  1  2   Ellsbury J, cf        3  1  0  0   
+Bartlett J, ss        4  0  0  1   Pedroia D, 2b         3  0  2  0   
+Headley C, 3b         5  0  1  1   Gonzalez A, 1b        4  0  4  1   
+Ludwick R, lf         3  0  1  0   Youkilis K, 3b        4  0  2  0   
+Denorfia C, lf        0  0  0  0   Ortiz D, dh           3  0  0  0   
+Guzman J, dh          4  0  0  0   McDonald D, lf        2  0  0  0   
+Hudson O, 2b          3  1  2  0   Drew J, ph-rf         1  0  0  0   
+Rizzo A, 1b           2  1  0  0   Sutton D, ss          2  0  0  0   
+Maybin C, cf          3  1  2  0   Varitek J, c          3  0  1  0   
+Hundley N, c          4  0  0  0   Cameron M, rf         2  0  1  0   
+                                   Reddick J, ph-lf      1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5  7  4                        28  1 10  1
+
+San Diego        100 400 00 --  5
+Boston           000 010 00 --  1
+  0 outs when game ended.
+
+  San Diego            IP  H  R ER BB SO
+Richard C (W)         5.0  8  1  1  2  2
+Frieri E              2.0  2  0  0  0  2
+Adams M               0.0  0  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Lackey J (L)          3.1  4  5  5  4  4
+Bowden M              1.2  2  0  0  1  1
+Albers M              2.0  1  0  0  0  2
+Wheeler D             1.0  0  0  0  0  1
+
+E -- Sutton D, Gonzalez A
+DP -- San Diego 2
+LOB -- San Diego 10, Boston 9
+HR -- Venable W
+SB -- Hudson O, Bartlett J
+CS -- Hudson O
+HBP -- by Lackey J (Rizzo A), by Lackey J (Bartlett J), by Frieri E (Sutton D)
+WP -- Lackey J
+T -- 2:49
+A -- 37419
+     Game of 7/4/2011 -- Toronto at Boston (D)
+
+  Toronto            AB  R  H RBI    Boston             AB  R  H RBI
+Davis R, cf           5  1  2  1   Ellsbury J, cf        5  1  4  2   
+Thames E, lf          4  1  1  0   Pedroia D, 2b         4  1  1  0   
+Bautista J, 3b        5  1  1  0   Gonzalez A, 1b        5  0  1  1   
+Lind A, 1b            3  2  1  1   Youkilis K, 3b        1  0  0  0   
+Encarnacion E, dh     5  0  0  0   Navarro Y, pr-3b      3  1  1  0   
+Hill A, 2b            5  2  3  2   Ortiz D, dh           3  1  1  0   
+Snider T, rf          5  1  3  2   Reddick J, lf         2  0  0  0   
+Molina J, c           3  0  0  0   McDonald D, ph-lf     2  0  0  0   
+McDonald J, ss        4  1  2  1   Saltalamacchia J, c   4  1  1  2   
+                                   Drew J, rf            3  1  1  1   
+                                   Scutaro M, ss         3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  9 13  7                        35  7 11  6
+
+Toronto          124 000 110 --  9
+Boston           000 040 030 --  7
+
+  Toronto              IP  H  R ER BB SO
+Morrow B (W)*         5.0  5  4  4  3  5
+Perez L               2.0  2  0  0  0  2
+Frasor J              1.0  3  3  3  0  2
+Francisco F (S)       1.0  1  0  0  0  3
+
+  Boston               IP  H  R ER BB SO
+Lackey J (L)          2.1  9  7  7  0  2
+Wheeler D             2.2  0  0  0  0  0
+Aceves A              2.2  3  2  1  1  1
+Morales F             0.1  0  0  0  1  0
+Albers M              1.0  1  0  0  1  0
+  * Pitched to 1 batter in 6th
+
+E -- Youkilis K, Navarro Y
+DP -- Toronto 2
+LOB -- Toronto 7, Boston 6
+2B -- Davis R 2, Snider T 3, Gonzalez A, Ortiz D
+3B -- Ellsbury J, Saltalamacchia J
+HR -- Hill A
+SB -- Davis R, Ellsbury J
+CS -- Pedroia D
+SH -- Molina J
+SF -- Drew J
+HBP -- by Morrow B (Youkilis K)
+WP -- Morrow B
+PB -- Molina J
+T -- 3:37
+A -- 38072
+     Game of 7/5/2011 -- Toronto at Boston (N)
+
+  Toronto            AB  R  H RBI    Boston             AB  R  H RBI
+Davis R, cf           3  0  0  0   Ellsbury J, cf        4  0  0  0   
+Thames E, ph-rf       1  0  0  0   Scutaro M, ss         4  0  1  0   
+Patterson C, lf       3  1  1  0   Gonzalez A, 1b        3  0  1  0   
+Bautista J, 3b        4  1  2  2   Pedroia D, 2b         4  1  1  1   
+Lind A, 1b            4  0  0  0   Ortiz D, dh           3  1  1  0   
+Encarnacion E, dh     4  0  1  0   McDonald D, lf        4  0  1  0   
+Snider T, rf-cf       4  0  0  0   Varitek J, c          4  1  1  1   
+Arencibia J, c        1  0  0  0   Drew J, rf            2  0  0  0   
+McDonald J, ss        4  0  2  0   Navarro Y, 3b         3  0  0  0   
+McCoy M, 2b           2  0  0  0                                      
+Hill A, ph-2b         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        31  3  6  2
+
+Toronto          000 000 002 --  2
+Boston           021 000 00x --  3
+
+  Toronto              IP  H  R ER BB SO
+Cecil B (L)           8.0  6  3  2  2  6
+
+  Boston               IP  H  R ER BB SO
+Lester J              4.0  0  0  0  1  5
+Albers M (W)          2.0  1  0  0  2  2
+Morales F             1.0  0  0  0  0  0
+Bard D                1.0  1  0  0  0  1
+Papelbon J (S)        1.0  4  2  2  1  1
+
+E -- McCoy M
+LOB -- Toronto 6, Boston 7
+2B -- Ortiz D, Varitek J
+HR -- Pedroia D, Bautista J
+CS -- Patterson C
+HBP -- by Cecil B (Gonzalez A)
+T -- 2:38
+A -- 37745
+     Game of 7/6/2011 -- Toronto at Boston (N)
+
+  Toronto            AB  R  H RBI    Boston             AB  R  H RBI
+Escobar Y, ss         5  2  4  1   Ellsbury J, cf        5  1  3  3   
+Thames E, lf          4  0  0  0   Scutaro M, ss         2  0  0  0   
+Bautista J, 3b        3  0  2  2   Pedroia D, 2b         4  0  1  0   
+Lind A, 1b            4  0  1  1   Ortiz D, dh           3  0  0  0   
+Encarnacion E, dh     4  0  0  0   Youkilis K, 1b        4  1  3  1   
+Hill A, 2b            4  0  0  0   Drew J, rf            3  1  1  0   
+Snider T, rf          4  0  2  0   McDonald D, lf        2  1  1  1   
+Arencibia J, c        3  0  0  0   Reddick J, ph-lf      2  0  0  0   
+McCoy M, pr           0  1  0  0   Saltalamacchia J, c   4  1  1  0   
+Davis R, cf           3  1  1  0   Navarro Y, 3b         4  1  1  1   
+Patterson C, ph       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4 10  4                        33  6 11  6
+
+Toronto          102 000 001 --  4
+Boston           110 400 00x --  6
+
+  Toronto              IP  H  R ER BB SO
+Romero R (L)          4.1  9  6  6  3  2
+Camp S                1.2  1  0  0  0  1
+Rauch J               0.1  1  0  0  1  0
+Perez L               0.2  0  0  0  0  1
+Dotel O               1.0  0  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (W)       7.0  9  3  3  1  7
+Bard D                0.2  0  0  0  0  1
+Wheeler D             0.1  0  0  0  0  1
+Papelbon J (S)        1.0  1  1  1  0  3
+
+DP -- Toronto 2
+LOB -- Toronto 7, Boston 7
+2B -- Escobar Y, Drew J, Navarro Y, Ellsbury J 2, Youkilis K 2, Snider T
+HR -- Ellsbury J, Youkilis K
+SB -- Ellsbury J
+CS -- Snider T
+SF -- Bautista J
+HBP -- by Papelbon J (Arencibia J)
+PB -- Saltalamacchia J 3
+T -- 2:39
+A -- 37404
+     Game of 7/7/2011 -- Baltimore at Boston (N)
+
+  Baltimore          AB  R  H RBI    Boston             AB  R  H RBI
+Hardy J, ss           3  1  1  1   Ellsbury J, cf        3  2  1  2   
+Pie F, lf             1  0  0  0   Pedroia D, 2b         5  1  2  3   
+Markakis N, rf-1b     4  1  1  0   Sutton D, pr-2b       0  0  0  0   
+Jones A, cf           4  0  1  1   Gonzalez A, 1b        5  1  3  1   
+Guerrero V, dh        4  1  1  0   Youkilis K, 3b        5  0  1  0   
+Wieters M, c          1  0  0  0   Ortiz D, dh           4  1  2  1   
+Tatum C, c            0  0  0  0   Reddick J, lf         4  2  1  1   
+Lee D, 1b             4  0  0  1   Saltalamacchia J, c   4  1  2  1   
+Davis B, ss           0  0  0  0   Drew J, rf            3  0  0  1   
+Reynolds M, 3b        4  1  1  0   Scutaro M, ss         3  2  1  0   
+Reimold N, lf-rf      4  0  1  0   Navarro Y, ss         0  0  0  0   
+Andino R, 2b          3  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  4  8  3                        36 10 13 10
+
+Baltimore        200 100 010 --  4
+Boston           003 112 30x -- 10
+
+  Baltimore            IP  H  R ER BB SO
+Arrieta J (L)         4.1  6  5  4  4  1
+Berken J              2.0  2  2  2  0  1
+Viola P*              0.0  3  3  3  1  0
+Jakubauskas C         1.2  2  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Miller A (W)          5.0  6  3  3  4  0
+Aceves A              2.0  0  0  0  0  0
+Atchison S            1.0  1  1  1  0  1
+Jenks B               1.0  1  0  0  0  0
+  * Pitched to 4 batters in 7th
+
+E -- Miller A, Arrieta J
+DP -- Baltimore 1, Boston 2
+LOB -- Baltimore 7, Boston 7
+2B -- Ortiz D, Youkilis K, Guerrero V
+HR -- Pedroia D, Gonzalez A, Ellsbury J, Ortiz D, Reddick J, Saltalamacchia J
+SB -- Wieters M
+SH -- Andino R
+SF -- Hardy J
+T -- 3:05
+A -- 37981
+     Game of 7/8/2011 -- Baltimore at Boston (N)
+
+  Baltimore          AB  R  H RBI    Boston             AB  R  H RBI
+Hardy J, ss           4  0  0  0   Ellsbury J, cf        5  1  1  1   
+Markakis N, rf        4  0  1  1   Pedroia D, 2b         4  3  2  1   
+Jones A, cf           4  0  2  1   Gonzalez A, 1b        2  1  2  1   
+Guerrero V, dh        4  0  1  0   Sutton D, ph-1b       1  0  0  0   
+Wieters M, c          4  0  1  0   Youkilis K, 3b        4  1  1  1   
+Lee D, 1b             4  1  2  1   Reddick J, lf         1  0  1  1   
+Reynolds M, 3b        4  0  0  0   Ortiz D, dh           4  1  2  3   
+Pie F, lf             2  1  0  0   Varitek J, c          3  1  0  0   
+Andino R, 2b          3  1  1  0   Scutaro M, ss         4  1  1  0   
+                                   McDonald D, rf        4  1  1  2   
+                                   Navarro Y, lf-3b      3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  8  3                        35 10 11 10
+
+Baltimore        000 030 000 --  3
+Boston           800 001 01x -- 10
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z (L)         0.2  6  8  7  2  1
+Bergesen B            3.0  2  0  0  1  3
+Jakubauskas C*        1.1  1  1  1  1  1
+Gonzalez M            1.0  1  0  0  1  1
+Uehara K              1.0  0  0  0  0  1
+Gregg K               1.0  1  1  1  1  1
+
+  Boston               IP  H  R ER BB SO
+Beckett J (W)         5.0  7  3  3  2  3
+Albers M              2.0  0  0  0  0  4
+Wheeler D             1.0  0  0  0  0  2
+Atchison S            1.0  1  0  0  1  0
+  * Pitched to 1 batter in 6th
+
+E -- Hardy J
+DP -- Baltimore 1, Boston 2
+LOB -- Baltimore 6, Boston 7
+2B -- McDonald D, Lee D, Wieters M
+3B -- Reddick J
+HR -- Ortiz D, Lee D, Pedroia D
+WP -- Gonzalez M
+T -- 3:16
+A -- 37729
+     Game of 7/9/2011 -- Baltimore at Boston (N)
+
+  Baltimore          AB  R  H RBI    Boston             AB  R  H RBI
+Hardy J, ss           4  0  1  0   Ellsbury J, cf        4  0  3  0   
+Markakis N, rf        3  0  1  0   Pedroia D, 2b         3  2  1  0   
+Jones A, cf           3  0  0  0   Gonzalez A, 1b        3  1  0  0   
+Guerrero V, dh        4  0  0  0   Youkilis K, 3b        4  1  3  2   
+Wieters M, c          4  0  1  0   Ortiz D, dh           3  0  1  0   
+Lee D, 1b             3  0  1  0   Reddick J, lf         4  0  3  2   
+Reynolds M, 3b        3  0  0  0   Saltalamacchia J, c   4  0  0  0   
+Reimold N, lf         3  0  0  0   Drew J, rf            4  0  0  0   
+Andino R, 2b          3  0  0  0   Scutaro M, ss         4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        33  4 11  4
+
+Baltimore        000 000 000 --  0
+Boston           000 030 10x --  4
+
+  Baltimore            IP  H  R ER BB SO
+Simon A (L)           4.2  8  3  3  3  1
+Hendrickson M         2.1  3  1  1  0  1
+Johnson J             1.0  0  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Lackey J (W)          6.2  3  0  0  1  7
+Bard D                1.1  1  0  0  0  2
+Papelbon J            1.0  0  0  0  0  1
+
+DP -- Baltimore 2, Boston 1
+LOB -- Baltimore 6, Boston 8
+2B -- Ellsbury J, Youkilis K 2, Reddick J, Pedroia D
+3B -- Ellsbury J
+SB -- Markakis N
+CS -- Jones A
+HBP -- by Lackey J (Markakis N), by Lackey J (Lee D)
+WP -- Lackey J 2
+Balk -- Simon A
+T -- 2:48
+A -- 38205
+     Game of 7/10/2011 -- Baltimore at Boston (D)
+
+  Baltimore          AB  R  H RBI    Boston             AB  R  H RBI
+Hardy J, ss           4  0  0  0   Ellsbury J, cf        4  0  2  1   
+Markakis N, rf        5  1  1  1   Pedroia D, 2b         5  3  2  1   
+Jones A, cf           4  0  2  1   Gonzalez A, 1b        4  2  2  0   
+Guerrero V, dh        2  0  1  1   Youkilis K, 3b        4  1  2  2   
+Pie F, ph             1  0  0  0   Ortiz D, dh           4  0  1  2   
+Wieters M, c          3  1  0  0   Reddick J, lf         3  0  0  1   
+Lee D, 1b             4  1  1  2   Varitek J, c          4  0  2  0   
+Reynolds M, 3b        1  1  1  0   Drew J, rf            4  1  1  0   
+Davis B, 2b           2  0  0  0   Scutaro M, ss         4  1  1  1   
+Reimold N, lf         4  1  1  0                                      
+Andino R, 2b-3b       3  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     33  6  8  6                        36  8 13  8
+
+Baltimore        060 000 000 --  6
+Boston           240 100 10x --  8
+
+  Baltimore            IP  H  R ER BB SO
+Atkins M              1.2  7  6  6  1  0
+Guthrie J (L)         3.1  3  1  1  2  4
+Gonzalez M            0.2  0  0  0  0  2
+Berken J              0.1  0  0  0  0  1
+Johnson J             1.0  3  1  1  0  2
+Uehara K              1.0  0  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Weiland K*            4.0  8  6  6  2  2
+Aceves A (W)          3.0  0  0  0  0  4
+Bard D                1.0  0  0  0  0  1
+Papelbon J (S)        1.0  0  0  0  1  2
+  * Pitched to 2 batters in 5th
+
+DP -- Boston 1
+LOB -- Baltimore 5, Boston 9
+2B -- Reynolds M, Gonzalez A, Varitek J 2, Pedroia D
+3B -- Jones A
+HR -- Lee D, Scutaro M, Pedroia D, Youkilis K
+CS -- Andino R
+SF -- Reddick J
+HBP -- by Weiland K (Reynolds M), by Guthrie J (Youkilis K), by Weiland K (Guerrero V)
+T -- 3:26
+A -- 37688
+     Game of 7/22/2011 -- Seattle at Boston (N)
+
+  Seattle            AB  R  H RBI    Boston             AB  R  H RBI
+Suzuki I, rf          5  1  2  0   Ellsbury J, cf        5  2  2  1   
+Ryan B, ss            5  0  1  0   Pedroia D, 2b         3  2  3  0   
+Ackley D, 2b          5  0  1  1   Gonzalez A, 1b        3  1  1  2   
+Olivo M, c            4  1  2  0   Youkilis K, 3b        3  1  2  2   
+Kennedy A, 3b         4  0  1  0   Navarro Y, 3b         0  0  0  0   
+Smoak J, 1b           3  1  1  0   Ortiz D, dh           3  0  1  1   
+Carp M, lf            4  1  1  3   Crawford C, lf        4  0  1  0   
+Cust J, dh            4  0  2  0   Reddick J, rf         4  0  1  0   
+Halman G, cf          4  0  0  0   Saltalamacchia J, c   4  1  1  0   
+                                   Scutaro M, ss         4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  4 11  4                        33  7 13  6
+
+Seattle          100 000 030 --  4
+Boston           101 000 50x --  7
+
+  Seattle              IP  H  R ER BB SO
+Hernandez F (L)       6.1 11  6  6  4  2
+Gray J                0.2  2  1  1  0  0
+Lueke J               1.0  0  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Lackey J (W)          7.0  8  1  1  0  4
+Morales F             0.2  3  3  3  1  1
+Bard D                0.1  0  0  0  0  0
+Papelbon J (S)        1.0  0  0  0  0  1
+
+E -- Carp M
+DP -- Seattle 4
+LOB -- Seattle 8, Boston 6
+2B -- Suzuki I, Youkilis K, Olivo M, Cust J
+HR -- Ellsbury J, Carp M
+SB -- Suzuki I 2, Pedroia D, Olivo M
+WP -- Lackey J
+PB -- Olivo M
+T -- 2:53
+A -- 38048
+     Game of 7/23/2011 -- Seattle at Boston (N)
+
+  Seattle            AB  R  H RBI    Boston             AB  R  H RBI
+Suzuki I, rf          4  0  1  0   Ellsbury J, cf        4  1  2  2   
+Ryan B, ss            5  0  1  0   Pedroia D, 2b         4  0  2  0   
+Ackley D, 2b          5  0  3  0   Gonzalez A, 1b        3  0  1  0   
+Smoak J, 1b           3  0  0  0   Youkilis K, 3b        4  0  0  0   
+Figgins C, pr-3b      0  0  0  0   Ortiz D, dh           4  0  1  0   
+Kennedy A, 3b-1b      3  0  0  0   Crawford C, lf        4  0  1  0   
+Carp M, lf            4  1  1  1   Reddick J, rf         4  0  0  0   
+Cust J, dh            4  0  1  0   Varitek J, c          3  1  1  0   
+Gutierrez F, cf       4  0  1  0   Scutaro M, ss         3  1  2  0   
+Bard J, c             3  0  0  0                                      
+Olivo M, ph           1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  1  9  1                        33  3 10  2
+
+Seattle          000 000 100 --  1
+Boston           000 000 30x --  3
+
+  Seattle              IP  H  R ER BB SO
+Beavan B (L)          6.2  9  3  3  0  4
+Pauley D*             0.0  1  0  0  0  0
+Laffey A              1.1  0  0  0  1  0
+
+  Boston               IP  H  R ER BB SO
+Beckett J (W)         7.0  7  1  1  1  7
+Bard D                1.0  1  0  0  1  1
+Papelbon J (S)        1.0  1  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Carp M, Bard J
+DP -- Seattle 1
+LOB -- Seattle 11, Boston 7
+2B -- Pedroia D, Cust J, Ortiz D, Gonzalez A, Scutaro M
+HR -- Carp M
+SB -- Gutierrez F, Pedroia D, Olivo M
+SH -- Kennedy A
+WP -- Beckett J, Laffey A
+T -- 3:15
+A -- 38115
+     Game of 7/24/2011 -- Seattle at Boston (D)
+
+  Seattle            AB  R  H RBI    Boston             AB  R  H RBI
+Suzuki I, rf          5  1  2  0   Ellsbury J, cf        5  1  2  1   
+Ryan B, ss            4  2  2  5   Pedroia D, 2b         5  1  1  0   
+Ackley D, 2b          5  0  2  1   Gonzalez A, 1b        5  2  3  2   
+Olivo M, c            5  1  1  2   Youkilis K, 3b        3  2  1  2   
+Smoak J, 1b           4  0  1  0   Navarro Y, 3b         1  0  0  0   
+Carp M, lf            4  0  2  0   Ortiz D, dh           5  2  2  0   
+Kennedy A, 3b         4  0  0  0   Crawford C, lf        4  2  3  2   
+Cust J, dh            4  1  1  0   Reddick J, rf         5  2  2  1   
+Gutierrez F, cf       3  3  2  0   Saltalamacchia J, c   4  0  3  4   
+                                   Scutaro M, ss         4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 13  8                        41 12 17 12
+
+Seattle          200 010 401 --  8
+Boston           500 051 10x -- 12
+
+  Seattle              IP  H  R ER BB SO
+Pineda M (L)          4.1  8  7  7  1  4
+Laffey A*             0.0  4  3  3  0  0
+Wright J              1.2  2  1  1  0  2
+Lueke J               1.0  3  1  1  0  0
+League B              1.0  0  0  0  1  1
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (W)       6.1 10  7  7  1  4
+Aceves A              2.2  3  1  1  0  1
+  * Pitched to 4 batters in 5th
+
+E -- Ryan B
+LOB -- Seattle 5, Boston 7
+2B -- Smoak J, Ellsbury J, Crawford C, Ackley D 2, Ryan B, Reddick J, Pedroia D
+HR -- Olivo M, Youkilis K, Ryan B
+CS -- Crawford C, Suzuki I
+HBP -- by Wakefield T (Ryan B)
+WP -- Pineda M
+T -- 3:01
+A -- 37650
+     Game of 7/25/2011 -- Kansas City at Boston (N)
+
+  Kansas City        AB  R  H RBI    Boston             AB  R  H RBI
+Gordon A, lf          5  0  0  0   Ellsbury J, cf        5  0  1  0   
+Cabrera M, cf         6  1  4  0   Pedroia D, 2b         6  0  1  0   
+Butler B, dh          6  0  2  1   Gonzalez A, 1b        6  0  2  0   
+Hosmer E, 1b          5  1  3  0   Youkilis K, 3b        3  0  0  0   
+Francoeur J, rf       5  1  1  0   Navarro Y, 3b         3  0  1  0   
+Aviles M, 3b          4  0  0  1   Ortiz D, dh           4  0  2  0   
+Pena B, c             6  0  2  0   Crawford C, lf        6  1  0  0   
+Escobar A, ss         4  0  0  1   Reddick J, rf         6  0  3  1   
+Getz C, 2b            6  0  0  0   Saltalamacchia J, c   6  0  1  0   
+                                   Scutaro M, ss         6  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     47  3 12  3                        51  1 13  1
+
+Kansas City      000 001 000 000 02 --  3
+Boston           010 000 000 000 00 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Davies K              6.0  5  1  1  1  6
+Collins T             1.0  0  0  0  0  0
+Crow A                2.0  3  0  0  0  2
+Holland G             2.0  1  0  0  1  2
+Coleman L (W)         2.0  3  0  0  1  0
+Soria J (S)           1.0  1  0  0  0  3
+
+  Boston               IP  H  R ER BB SO
+Lester J              5.1  7  1  1  2  6
+Albers M              1.2  0  0  0  0  2
+Bard D                1.0  1  0  0  0  1
+Papelbon J            1.0  0  0  0  0  1
+Morales F             1.2  1  0  0  0  0
+Wheeler D             1.1  0  0  0  1  1
+Williams R (L)        2.0  3  2  2  1  1
+
+E -- Coleman L
+DP -- Kansas City 2
+LOB -- Kansas City 9, Boston 11
+2B -- Reddick J 2, Butler B, Hosmer E
+SB -- Hosmer E, Crawford C
+CS -- Cabrera M 2, Ortiz D, Escobar A, Reddick J
+SH -- Aviles M 2
+SF -- Escobar A
+WP -- Holland G
+Balk -- Bard D
+T -- 4:28
+A -- 37727
+     Game of 7/26/2011 -- Kansas City at Boston (N)
+
+  Kansas City        AB  R  H RBI    Boston             AB  R  H RBI
+Gordon A, lf          4  1  2  2   McDonald D, cf        2  1  0  0   
+Cabrera M, cf         5  1  1  0   Sutton D, ph-3b       1  1  0  0   
+Butler B, dh          4  2  3  3   Scutaro M, ss         4  2  1  0   
+Hosmer E, 1b          5  1  2  1   Gonzalez A, 1b        3  3  2  2   
+Francoeur J, rf       2  1  1  1   Pedroia D, 2b         5  3  4  1   
+Moustakas M, 3b       5  0  1  1   Ortiz D, dh           5  0  4  5   
+Aviles M, 2b          5  1  3  0   Crawford C, lf        5  0  1  1   
+Treanor M, c          4  1  1  1   Varitek J, c          5  1  1  1   
+Escobar A, ss         4  1  1  0   Reddick J, rf         4  1  1  1   
+                                   Navarro Y, 3b         1  0  0  0   
+                                   Ellsbury J, ph-cf     3  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 15  9                        38 13 16 11
+
+Kansas City      220 300 002 --  9
+Boston           203 160 10x -- 13
+
+  Kansas City          IP  H  R ER BB SO
+Duffy D               3.2  6  6  6  3  5
+Adcock N (L)*         0.1  3  4  3  3  0
+Wood B                2.0  4  2  2  2  3
+Collins T             1.0  2  1  1  1  1
+Maier M               1.0  1  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Miller A              3.2  9  7  5  2  1
+Aceves A (W)          3.1  3  0  0  0  3
+Albers M              1.0  0  0  0  1  1
+Morales F             1.0  3  2  2  1  1
+  * Pitched to 4 batters in 5th
+
+E -- Miller A, Aviles M, Cabrera M
+DP -- Boston 2
+LOB -- Kansas City 9, Boston 15
+2B -- Hosmer E, Ortiz D 3, Butler B, Aviles M, Scutaro M, Pedroia D, Francoeur J, Gordon A, Ellsbury J
+3B -- Pedroia D
+HR -- Gordon A, Butler B, Varitek J
+SB -- McDonald D
+SH -- Escobar A, Sutton D
+SF -- Francoeur J, Gonzalez A, Reddick J
+HBP -- by Duffy D (Varitek J), by Aceves A (Butler B), by Wood B (Gonzalez A)
+WP -- Duffy D
+T -- 3:52
+A -- 37460
+     Game of 7/27/2011 -- Kansas City at Boston (N)
+
+  Kansas City        AB  R  H RBI    Boston             AB  R  H RBI
+Gordon A, lf          6  2  3  0   Ellsbury J, cf        4  3  3  2   
+Cabrera M, cf         5  1  1  0   Pedroia D, 2b         4  2  3  2   
+Butler B, dh          5  1  3  1   Sutton D, 2b          0  0  0  0   
+Hosmer E, 1b          5  1  2  4   Gonzalez A, 1b        5  1  3  3   
+Francoeur J, rf       5  0  2  0   Youkilis K, 3b        3  1  1  0   
+Moustakas M, 3b       3  0  1  0   Reddick J, rf         1  0  0  0   
+Pena B, c             5  0  2  0   Ortiz D, dh           4  1  1  4   
+Getz C, 2b            5  0  1  0   Saltalamacchia J, c   4  0  1  0   
+Escobar A, ss         4  0  0  0   Scutaro M, ss         3  1  0  0   
+Aviles M, ss          1  0  1  0   McDonald D, rf-lf     4  2  2  0   
+                                   Navarro Y, lf-3b      4  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     44  5 16  5                        36 12 16 12
+
+Kansas City      300 010 010 --  5
+Boston           230 501 01x -- 12
+
+  Kansas City          IP  H  R ER BB SO
+Chen B (L)            4.0 10 10 10  3  3
+Adcock N              4.0  6  2  2  0  2
+
+  Boston               IP  H  R ER BB SO
+Lackey J (W)          5.2 11  4  3  1  3
+Williams R            1.2  2  1  1  1  1
+Wheeler D             1.2  3  0  0  0  2
+
+E -- Youkilis K, Aviles M, Navarro Y
+DP -- Kansas City 1
+LOB -- Kansas City 14, Boston 4
+2B -- Gordon A 3, Pena B, McDonald D, Francoeur J 2, Cabrera M, Ellsbury J
+HR -- Hosmer E, Ellsbury J, Pedroia D, Ortiz D, Butler B
+SB -- Youkilis K, Ellsbury J
+SF -- Pedroia D
+T -- 3:08
+A -- 38329
+     Game of 7/28/2011 -- Kansas City at Boston (D)
+
+  Kansas City        AB  R  H RBI    Boston             AB  R  H RBI
+Gordon A, lf          3  1  0  0   Ellsbury J, cf        4  0  1  2   
+Maier M, cf           4  1  0  0   Pedroia D, 2b         3  1  1  1   
+Butler B, dh          4  1  1  3   Gonzalez A, 1b        4  0  2  0   
+Hosmer E, 1b          4  0  1  0   Youkilis K, 3b        4  0  0  0   
+Francoeur J, rf       3  1  0  0   Ortiz D, dh           4  0  0  0   
+Moustakas M, 3b       3  0  1  1   Reddick J, rf         4  0  0  0   
+Treanor M, c          4  0  1  0   Sutton D, lf          4  0  2  0   
+Getz C, 2b            3  0  2  0   Varitek J, c          3  1  1  0   
+Escobar A, ss         3  0  1  0   Crawford C, ph        1  0  0  0   
+                                   Navarro Y, ss         4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  7  4                        35  3  8  3
+
+Kansas City      000 400 000 --  4
+Boston           002 000 010 --  3
+
+  Kansas City          IP  H  R ER BB SO
+Hochevar L (W)        7.0  6  2  2  1  6
+Holland G             1.0  1  1  1  0  0
+Soria J (S)           1.0  1  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Beckett J (L)         7.0  5  4  3  3  8
+Morales F             1.0  0  0  0  1  0
+Albers M              1.0  2  0  0  1  0
+
+E -- Sutton D
+DP -- Boston 1
+LOB -- Kansas City 7, Boston 6
+2B -- Navarro Y, Moustakas M
+HR -- Butler B, Pedroia D
+SB -- Pedroia D, Francoeur J, Escobar A
+CS -- Getz C
+SH -- Getz C, Escobar A
+PB -- Varitek J
+T -- 2:51
+A -- 37822
+     Game of 8/1/2011 -- Cleveland at Boston (N)
+
+  Cleveland          AB  R  H RBI    Boston             AB  R  H RBI
+Brantley M, lf        5  0  1  1   Ellsbury J, cf        5  0  1  1   
+Kipnis J, 2b          5  3  3  1   Pedroia D, 2b         5  0  2  0   
+Cabrera A, ss         5  3  3  4   Gonzalez A, 1b        4  1  1  0   
+Hafner T, dh          5  1  1  1   Youkilis K, 3b        4  0  2  1   
+Santana C, c          3  1  1  0   Ortiz D, dh           4  0  0  0   
+Fukudome K, rf        4  0  1  1   Crawford C, lf        4  2  2  1   
+LaPorta M, 1b         4  0  1  1   Saltalamacchia J, c   4  2  2  2   
+Chisenhall L, 3b      4  0  0  0   Reddick J, rf         4  0  1  0   
+Hannahan J, 3b        0  0  0  0   Scutaro M, ss         1  0  1  1   
+Carrera E, cf         4  1  2  0   Aviles M, ph-ss       3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  9 13  9                        38  6 13  6
+
+Cleveland        001 103 031 --  9
+Boston           012 002 001 --  6
+
+  Cleveland            IP  H  R ER BB SO
+Tomlin J              6.0 10  5  5  0  2
+Perez R (W)           1.0  1  0  0  0  0
+Pestano V             1.0  0  0  0  0  2
+Perez C               1.0  2  1  1  0  2
+
+  Boston               IP  H  R ER BB SO
+Lackey J              6.2  8  5  5  0  5
+Morales F             0.1  0  0  0  0  1
+Bard D (L)            0.1  2  3  3  1  0
+Williams R            0.2  2  0  0  0  0
+Albers M              1.0  1  1  1  0  1
+
+E -- Reddick J
+DP -- Cleveland 1
+LOB -- Cleveland 4, Boston 5
+2B -- Saltalamacchia J, Brantley M, Kipnis J, Crawford C, LaPorta M, Ellsbury J
+3B -- Youkilis K
+HR -- Crawford C, Cabrera A 2, Hafner T, Saltalamacchia J, Kipnis J
+CS -- Fukudome K
+T -- 3:11
+A -- 37943
+     Game of 8/2/2011 -- Cleveland at Boston (N)
+
+  Cleveland          AB  R  H RBI    Boston             AB  R  H RBI
+Brantley M, lf        4  0  0  0   Ellsbury J, cf        5  0  1  1   
+Kipnis J, 2b          4  1  1  1   Pedroia D, 2b         4  0  2  0   
+Cabrera A, ss         4  0  1  0   Gonzalez A, 1b        3  0  1  0   
+Hafner T, dh          4  0  1  0   Youkilis K, 3b        4  1  1  1   
+Santana C, c          4  0  0  0   Scutaro M, ss         0  0  0  0   
+Fukudome K, rf        4  0  1  0   Ortiz D, dh           2  1  0  0   
+Chisenhall L, 3b      4  1  1  1   Crawford C, lf        4  0  0  0   
+LaPorta M, 1b         3  0  1  0   Aviles M, ss-3b       4  0  1  0   
+Carrera E, cf         3  0  1  0   Varitek J, c          4  0  1  0   
+                                   Saltalamacchia J, pr  0  1  0  0   
+                                   McDonald D, rf        2  0  0  0   
+                                   Reddick J, ph-rf      2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  7  2                        34  3  8  2
+
+Cleveland        100 100 000 --  2
+Boston           010 001 001 --  3
+  1 out when winning run was scored.
+
+  Cleveland            IP  H  R ER BB SO
+Huff D                5.0  3  1  0  2  6
+Perez R               0.2  1  1  1  0  1
+Smith J*              1.1  1  0  0  0  1
+Sipp T                1.0  0  0  0  1  1
+Pestano V (L)         0.1  3  1  1  0  0
+
+  Boston               IP  H  R ER BB SO
+Beckett J             6.0  6  2  2  0  7
+Morales F             2.0  1  0  0  0  3
+Papelbon J (W)        1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Kipnis J, Cabrera A
+DP -- Cleveland 1
+LOB -- Cleveland 5, Boston 9
+2B -- Gonzalez A, Cabrera A, Carrera E
+HR -- Kipnis J, Chisenhall L, Youkilis K
+SB -- Santana C, Pedroia D
+WP -- Huff D
+T -- 3:08
+A -- 38101
+     Game of 8/3/2011 -- Cleveland at Boston (N)
+
+  Cleveland          AB  R  H RBI    Boston             AB  R  H RBI
+Carrera E, cf         3  0  1  1   Ellsbury J, cf        5  1  1  1   
+Kipnis J, 2b          2  1  1  1   Pedroia D, 2b         4  0  2  0   
+Cabrera A, ss         4  1  1  0   Gonzalez A, 1b        4  1  2  0   
+Hafner T, dh          3  0  1  1   Youkilis K, 3b        3  1  1  0   
+Santana C, 1b         4  0  0  0   Aviles M, pr-3b       0  0  0  0   
+Fukudome K, rf        4  0  0  0   Ortiz D, dh           3  1  1  2   
+Chisenhall L, 3b      4  1  1  0   Crawford C, lf        4  0  1  0   
+Kearns A, lf          4  0  0  0   Saltalamacchia J, c   4  0  0  0   
+Marson L, c           4  0  0  0   Reddick J, rf         2  0  2  0   
+                                   McDonald D, ph        1  0  0  0   
+                                   Scutaro M, ss         4  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     32  3  5  3                        34  4 10  4
+
+Cleveland        000 200 100 --  3
+Boston           200 100 001 --  4
+  2 outs when winning run was scored.
+
+  Cleveland            IP  H  R ER BB SO
+Carrasco C*           7.0  9  3  3  3  5
+Sipp T                1.0  0  0  0  0  2
+Smith J (L)           0.2  1  1  1  0  0
+
+  Boston               IP  H  R ER BB SO
+Wakefield T           6.2  5  3  3  2  6
+Williams R            1.1  0  0  0  1  2
+Papelbon J (W)        1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Scutaro M
+DP -- Cleveland 1
+LOB -- Cleveland 6, Boston 7
+2B -- Youkilis K, Hafner T, Crawford C, Chisenhall L, Carrera E
+HR -- Kipnis J, Ellsbury J
+SB -- Scutaro M, Carrera E, Aviles M
+CS -- Pedroia D
+SH -- Carrera E
+WP -- Wakefield T
+PB -- Saltalamacchia J 2
+T -- 3:01
+A -- 38172
+     Game of 8/4/2011 -- Cleveland at Boston (N)
+
+  Cleveland          AB  R  H RBI    Boston             AB  R  H RBI
+Carrera E, cf         5  0  0  0   Ellsbury J, cf        3  1  2  0   
+Kipnis J, 2b          5  0  1  0   Pedroia D, 2b         4  0  0  0   
+Cabrera A, ss         4  3  1  0   Gonzalez A, 1b        4  1  1  1   
+Hafner T, dh          4  1  3  1   Youkilis K, 3b        4  0  0  0   
+Chisenhall L, pr      1  0  0  0   Ortiz D, dh           3  0  1  1   
+Santana C, c          4  2  3  3   Crawford C, lf        4  0  0  0   
+Fukudome K, rf        5  1  3  1   Reddick J, rf         4  1  1  1   
+LaPorta M, 1b         5  0  2  1   Varitek J, c          4  0  0  0   
+Kearns A, lf          3  0  0  1   Scutaro M, ss         4  0  0  0   
+Donald J, 3b          3  0  1  0                                      
+Hannahan J, 3b        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40  7 14  7                        34  3  5  3
+
+Cleveland        021 002 101 --  7
+Boston           200 100 000 --  3
+
+  Cleveland            IP  H  R ER BB SO
+Masterson J (W)       6.0  5  3  3  1  9
+Pestano V             1.1  0  0  0  1  1
+Sipp T                0.2  0  0  0  0  0
+Perez C               1.0  0  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Bedard E              5.0  7  3  3  0  5
+Morales F (L)         0.1  2  2  2  0  0
+Aceves A              0.2  1  0  0  0  2
+Miller A              2.2  4  2  2  2  4
+Wheeler D             0.1  0  0  0  0  0
+
+E -- Reddick J, Kipnis J
+LOB -- Cleveland 9, Boston 6
+2B -- Gonzalez A, Hafner T 2, LaPorta M, Fukudome K
+HR -- Reddick J, Santana C
+SB -- Fukudome K, Cabrera A 2
+HBP -- by Miller A (Kearns A)
+WP -- Masterson J
+T -- 3:22
+A -- 38477
+     Game of 8/5/2011 -- New York at Boston (N)
+
+  New York           AB  R  H RBI    Boston             AB  R  H RBI
+Jeter D, ss           4  1  1  0   Ellsbury J, cf        3  0  1  1   
+Granderson C, cf      4  1  1  1   Pedroia D, 2b         4  0  1  0   
+Teixeira M, 1b        3  0  0  0   Gonzalez A, 1b        4  0  0  0   
+Cano R, 2b            4  0  0  0   Youkilis K, 3b        4  0  1  0   
+Swisher N, rf         3  0  2  1   Ortiz D, dh           4  1  1  1   
+Jones A, lf           1  0  0  0   Crawford C, lf        4  0  2  0   
+Gardner B, lf         1  0  0  0   Saltalamacchia J, c   4  0  0  0   
+Martin R, c           4  0  0  0   Reddick J, rf         4  0  2  0   
+Posada J, dh          3  0  0  0   Scutaro M, ss         3  1  0  0   
+Nunez E, 3b           1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  3  5  2                        34  2  8  2
+
+New York         000 003 000 --  3
+Boston           001 100 000 --  2
+
+  New York             IP  H  R ER BB SO
+Colon B               4.2  6  2  2  1  2
+Logan B (W)           1.0  1  0  0  0  2
+Wade C                0.1  0  0  0  0  0
+Soriano R             1.0  0  0  0  0  1
+Robertson D           1.0  0  0  0  0  0
+Rivera M (S)          1.0  1  0  0  0  2
+
+  Boston               IP  H  R ER BB SO
+Lester J (L)          6.0  5  3  3  4  7
+Albers M              2.0  0  0  0  1  2
+Williams R            0.2  0  0  0  1  0
+Aceves A              0.1  0  0  0  0  0
+
+DP -- New York 1, Boston 2
+LOB -- New York 4, Boston 6
+2B -- Ellsbury J, Swisher N, Crawford C
+HR -- Ortiz D
+CS -- Jeter D, Nunez E
+T -- 3:26
+A -- 38006
+     Game of 8/6/2011 -- New York at Boston (D)
+
+  New York           AB  R  H RBI    Boston             AB  R  H RBI
+Gardner B, lf         4  0  1  0   Ellsbury J, cf        4  1  2  6   
+Jeter D, ss           5  0  1  1   Pedroia D, 2b         4  0  1  2   
+Granderson C, cf      4  1  1  0   Gonzalez A, 1b        4  0  1  0   
+Teixeira M, 1b        4  2  1  1   Youkilis K, 3b        3  1  1  0   
+Cano R, 2b            3  0  0  0   Ortiz D, dh           4  0  0  0   
+Swisher N, rf         3  0  1  0   Aviles M, rf          3  1  1  0   
+Chavez E, 3b          4  0  2  1   Reddick J, rf         0  1  0  0   
+Posada J, dh          4  0  0  0   Crawford C, lf        4  3  4  1   
+Cervelli F, c         4  1  3  0   Saltalamacchia J, c   2  2  0  0   
+                                   Scutaro M, ss         3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  4 10  3                        31 10 11 10
+
+New York         000 210 010 --  4
+Boston           002 500 03x -- 10
+
+  New York             IP  H  R ER BB SO
+Sabathia C (L)        6.0  9  7  7  1  6
+Ayala L               1.0  0  0  0  2  0
+Noesi H               1.0  2  3  3  2  0
+
+  Boston               IP  H  R ER BB SO
+Lackey J (W)          6.0  6  3  3  2  5
+Aceves A              1.0  1  0  0  0  0
+Bard D                1.0  2  1  1  0  1
+Wheeler D             1.0  1  0  0  1  1
+
+E -- Saltalamacchia J
+DP -- New York 1, Boston 2
+LOB -- New York 9, Boston 5
+2B -- Crawford C, Pedroia D, Youkilis K, Cervelli F
+HR -- Ellsbury J, Teixeira M
+SB -- Granderson C, Crawford C
+SH -- Scutaro M
+SF -- Ellsbury J, Pedroia D
+HBP -- by Lackey J (Cano R), by Lackey J (Gardner B)
+WP -- Ayala L
+T -- 3:25
+A -- 37416
+     Game of 8/7/2011 -- New York at Boston (N)
+
+  New York           AB  R  H RBI    Boston             AB  R  H RBI
+Gardner B, lf         5  1  3  1   Ellsbury J, cf        4  0  0  0   
+Jeter D, ss           4  0  0  0   Pedroia D, 2b         3  0  1  1   
+Granderson C, cf      2  0  0  0   Gonzalez A, 1b        5  0  0  0   
+Teixeira M, 1b        4  0  1  0   Youkilis K, 3b        4  1  0  0   
+Cano R, 2b            5  0  1  0   Ortiz D, dh           4  0  2  0   
+Swisher N, rf         5  0  0  0   McDonald D, pr        0  1  0  0   
+Chavez E, dh          4  0  0  0   Crawford C, lf        4  0  3  0   
+Martin R, c           4  0  2  0   Reddick J, rf         5  0  1  1   
+Nunez E, 3b           4  1  1  1   Varitek J, c          3  0  0  0   
+                                   Scutaro M, ss         4  1  4  1   
+                     -- -- -- --                        -- -- -- --
+                     37  2  8  2                        36  3 11  3
+
+New York         000 010 100 0 --  2
+Boston           010 000 001 1 --  3
+  1 out when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Garcia F              5.0  5  1  1  3  1
+Logan B               0.1  1  0  0  1  0
+Wade C                0.2  1  0  0  0  0
+Soriano R             1.0  0  0  0  0  1
+Robertson D           1.0  1  0  0  0  2
+Rivera M              1.0  1  1  1  0  0
+Hughes P (L)          0.1  2  1  1  1  0
+
+  Boston               IP  H  R ER BB SO
+Beckett J             6.0  6  1  1  2  5
+Albers M              0.2  1  1  1  0  1
+Morales F             0.1  0  0  0  2  0
+Wheeler D             1.0  0  0  0  0  3
+Papelbon J            1.0  1  0  0  0  0
+Bard D (W)            1.0  0  0  0  0  2
+
+LOB -- New York 10, Boston 12
+2B -- Scutaro M, Ortiz D
+HR -- Nunez E, Gardner B
+SB -- Granderson C, Gardner B 2
+CS -- Pedroia D
+SH -- Ellsbury J
+SF -- Pedroia D
+HBP -- by Albers M (Jeter D)
+WP -- Robertson D 2
+T -- 4:15
+A -- 38189
+     Game of 8/16/2011, game 1 -- Tampa Bay at Boston (D)
+
+  Tampa Bay          AB  R  H RBI    Boston             AB  R  H RBI
+Jennings D, lf-rf     4  1  1  0   Ellsbury J, cf        4  1  1  3   
+Fuld S, rf            4  0  0  0   Pedroia D, 2b         3  0  0  0   
+Shields J, p-p        0  0  0  0   Gonzalez A, 1b        3  0  0  0   
+Longoria E, 3b        4  0  1  1   Youkilis K, 3b        2  0  0  0   
+Zobrist B, dh-2b      4  0  1  0   Crawford C, lf        3  0  0  0   
+Upton B, cf           4  0  0  0   Saltalamacchia J, c   3  0  0  0   
+Kotchman C, 1b        3  0  0  0   Reddick J, rf         3  1  1  0   
+Rodriguez S, 2b-ss    2  0  0  0   Lowrie J, dh          3  0  0  0   
+Shoppach K, c         2  0  0  0   Aviles M, ss          3  1  1  0   
+Johnson E, ss         2  0  0  0                                      
+Damon J, ph-lf        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  3  1                        27  3  3  3
+
+Tampa Bay        100 000 000 --  1
+Boston           003 000 00x --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Shields J (L)         8.0  3  3  3  1  6
+
+  Boston               IP  H  R ER BB SO
+Lester J (W)          7.0  3  1  1  1  8
+Bard D                1.0  0  0  0  0  2
+Papelbon J (S)        1.0  0  0  0  0  0
+
+LOB -- Tampa Bay 4, Boston 1
+2B -- Jennings D, Zobrist B
+HR -- Ellsbury J
+SB -- Jennings D, Rodriguez S
+HBP -- by Lester J (Rodriguez S)
+T -- 2:24
+A -- 38525
+     Game of 8/16/2011, game 2 -- Tampa Bay at Boston (N)
+
+  Tampa Bay          AB  R  H RBI    Boston             AB  R  H RBI
+Jennings D, lf        5  1  2  1   Ellsbury J, cf        4  1  1  1   
+Damon J, dh           5  0  2  0   Lowrie J, 3b          4  0  1  0   
+Longoria E, 3b        5  1  0  0   Gonzalez A, 1b        3  0  0  0   
+Zobrist B, 2b         4  2  3  0   Pedroia D, 2b         4  0  0  0   
+Upton B, cf           4  2  3  1   Reddick J, rf         3  0  0  0   
+Kotchman C, 1b        4  0  2  1   Crawford C, dh        3  0  0  0   
+Rodriguez S, ss       3  0  0  0   Aviles M, ss          3  0  0  0   
+Joyce M, rf           4  0  0  1   Varitek J, c          3  1  1  1   
+Chirinos R, c         4  0  0  0   McDonald D, lf        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 12  4                        30  2  3  2
+
+Tampa Bay        020 010 030 --  6
+Boston           001 001 000 --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Niemann J (W)         9.0  3  2  2  1 10
+
+  Boston               IP  H  R ER BB SO
+Bedard E (L)          6.0  7  3  1  0  6
+Albers M              1.1  3  3  3  0  0
+Morales F             0.2  1  0  0  0  1
+Wheeler D             1.0  1  0  0  0  0
+
+E -- Lowrie J
+TP -- Boston 1
+LOB -- Tampa Bay 6, Boston 2
+2B -- Damon J
+HR -- Varitek J, Jennings D, Ellsbury J
+SB -- Zobrist B 2, Upton B
+HBP -- by Albers M (Rodriguez S)
+WP -- Morales F
+T -- 3:02
+A -- 38278
+     Game of 8/17/2011 -- Tampa Bay at Boston (D)
+
+  Tampa Bay          AB  R  H RBI    Boston             AB  R  H RBI
+Jennings D, lf        4  0  0  0   Ellsbury J, cf        3  0  1  0   
+Damon J, dh           5  1  2  0   Pedroia D, 2b         3  0  1  0   
+Longoria E, 3b        3  1  1  1   Gonzalez A, dh        3  0  0  0   
+Zobrist B, 2b         4  0  2  2   Youkilis K, 1b        4  0  1  0   
+Kotchman C, 1b        3  0  0  0   Lowrie J, 3b          4  0  0  0   
+Upton B, cf           4  1  2  1   McDonald D, rf        2  0  0  0   
+Joyce M, rf           4  0  0  0   Reddick J, ph         1  0  0  0   
+Brignac R, ss         4  0  0  0   Crawford C, lf        3  0  0  0   
+Shoppach K, c         2  1  0  0   Saltalamacchia J, c   3  0  0  0   
+                                   Aviles M, ss          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  4                        29  0  3  0
+
+Tampa Bay        100 110 100 --  4
+Boston           000 000 000 --  0
+
+  Tampa Bay            IP  H  R ER BB SO
+Price D (W)           8.0  3  0  0  3  6
+Farnsworth K          1.0  0  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Lackey J (L)          6.2  6  4  3  3  7
+Aceves A              1.1  1  0  0  0  3
+Wheeler D             1.0  0  0  0  0  0
+
+E -- McDonald D
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 8, Boston 6
+2B -- Damon J, Zobrist B 2, Upton B
+3B -- Ellsbury J
+HR -- Upton B, Longoria E
+SB -- Ellsbury J
+SH -- Jennings D
+HBP -- by Lackey J (Shoppach K) 2, by Price D (McDonald D)
+WP -- Lackey J
+T -- 3:00
+A -- 37747
+     Game of 8/26/2011 -- Oakland at Boston (N)
+
+  Oakland            AB  R  H RBI    Boston             AB  R  H RBI
+Weeks J, 2b           5  3  3  0   Ellsbury J, cf        5  2  2  0   
+Crisp C, cf           4  1  0  0   Scutaro M, ss         5  1  1  1   
+Sweeney R, ph-cf      1  0  0  0   Gonzalez A, 1b        5  0  1  1   
+Matsui H, lf          6  1  1  2   Pedroia D, 2b         3  1  2  1   
+Willingham J, dh      5  2  2  4   Ortiz D, dh           4  1  3  1   
+Allen B, 1b           6  2  2  1   Reddick J, rf         1  0  1  1   
+DeJesus D, rf         5  2  2  3   Lowrie J, 3b          5  0  0  0   
+Suzuki K, c           4  2  2  1   Aviles M, lf          4  0  1  0   
+Pennington C, ss      5  0  3  2   Saltalamacchia J, c   3  0  0  0   
+Sogard E, ss          0  0  0  0   McDonald D, rf-p      4  0  0  0   
+Sizemore S, 3b        4  2  1  2                                      
+                     -- -- -- --                        -- -- -- --
+                     45 15 16 15                        39  5 11  5
+
+Oakland          020 600 142 -- 15
+Boston           100 210 001 --  5
+
+  Oakland              IP  H  R ER BB SO
+Gonzalez G (W)        5.2  7  4  4  3  5
+Fuentes B             1.0  1  0  0  1  0
+Balfour G             0.1  0  0  0  0  1
+Breslow C             1.0  0  0  0  0  0
+Blevins J             1.0  3  1  1  0  2
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (L)       4.0  8  8  4  2  3
+Atchison S            3.0  3  1  1  0  0
+Albers M              1.0  4  4  4  1  1
+McDonald D            1.0  1  2  2  2  0
+
+E -- Lowrie J, Allen B
+LOB -- Oakland 8, Boston 11
+2B -- Weeks J 2, Ellsbury J, Allen B 2, Matsui H, Pennington C, Ortiz D, DeJesus D, Willingham J, Reddick J
+3B -- Ellsbury J
+HR -- Sizemore S, Willingham J, Pedroia D, Ortiz D
+SB -- Ellsbury J, Aviles M
+WP -- Wakefield T, Atchison S
+PB -- Saltalamacchia J
+T -- 3:36
+A -- 38239
+     Game of 8/27/2011, game 1 -- Oakland at Boston (D)
+
+  Oakland            AB  R  H RBI    Boston             AB  R  H RBI
+Weeks J, 2b           4  1  1  0   Ellsbury J, cf        4  0  1  1   
+Pennington C, ss      4  0  2  1   Scutaro M, ss         5  1  2  1   
+Crisp C, cf           4  0  1  1   Gonzalez A, 1b        4  1  2  0   
+Willingham J, dh      4  0  1  0   Pedroia D, 2b         3  1  1  1   
+Allen B, 1b           4  1  1  1   Ortiz D, dh           4  2  2  2   
+Jackson C, lf         4  0  0  0   Crawford C, lf        3  0  0  1   
+Suzuki K, c           4  1  1  0   Reddick J, rf         3  1  0  0   
+Sweeney R, rf         4  0  0  0   Varitek J, c          4  1  2  3   
+Sizemore S, 3b        3  0  1  0   Aviles M, 3b          4  2  3  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        34  9 13  9
+
+Oakland          011 000 001 --  3
+Boston           133 110 00x --  9
+
+  Oakland              IP  H  R ER BB SO
+Moscoso G (L)         4.0  9  8  7  2  0
+Breslow C             1.0  3  1  1  1  0
+Blevins J             2.0  1  0  0  0  1
+De Los Santos F       1.0  0  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Lester J (W)          6.0  3  2  1  2  4
+Wheeler D             1.0  1  0  0  0  0
+Bowden M              2.0  4  1  1  1  1
+
+E -- Scutaro M, Pennington C
+DP -- Oakland 1
+LOB -- Oakland 9, Boston 5
+2B -- Scutaro M, Ellsbury J, Gonzalez A, Ortiz D 2, Suzuki K
+HR -- Allen B, Varitek J
+SB -- Weeks J 3, Pennington C, Aviles M
+SF -- Crisp C, Crawford C
+T -- 3:06
+A -- 37314
+     Game of 8/27/2011, game 2 -- Oakland at Boston (N)
+
+  Oakland            AB  R  H RBI    Boston             AB  R  H RBI
+Weeks J, 2b           3  0  1  0   Ellsbury J, cf        4  0  1  0   
+Crisp C, cf           4  0  0  0   Scutaro M, ss         3  0  0  0   
+Matsui H, dh          4  0  1  0   Gonzalez A, 1b        4  0  0  0   
+Willingham J, lf      3  0  0  0   Pedroia D, 2b         4  2  2  0   
+Allen B, 1b           3  0  0  0   Ortiz D, dh           4  1  3  2   
+Sizemore S, 3b        4  0  0  0   McDonald D, pr        0  0  0  0   
+DeJesus D, rf         2  0  0  0   Lowrie J, 3b          3  1  1  0   
+Pennington C, ss      4  0  0  0   Crawford C, lf        4  0  0  0   
+Recker A, c           3  0  1  0   Saltalamacchia J, c   4  0  2  2   
+                                   Reddick J, rf         3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  3  0                        33  4  9  4
+
+Oakland          000 000 000 --  0
+Boston           020 101 00x --  4
+
+  Oakland              IP  H  R ER BB SO
+Godfrey G (L)         4.0  6  3  3  0  1
+Outman J              4.0  3  1  0  1  7
+
+  Boston               IP  H  R ER BB SO
+Bedard E*             4.0  2  0  0  4  5
+Aceves A (W)          3.0  0  0  0  1  3
+Bard D                1.0  1  0  0  0  0
+Papelbon J            1.0  0  0  0  0  2
+  * Pitched to 1 batter in 5th
+
+E -- Sizemore S
+LOB -- Oakland 8, Boston 7
+2B -- Pedroia D, Ellsbury J, Saltalamacchia J
+HR -- Ortiz D
+SH -- Scutaro M
+WP -- Outman J
+T -- 3:06
+A -- 37039
+     Game of 8/30/2011 -- New York at Boston (N)
+
+  New York           AB  R  H RBI    Boston             AB  R  H RBI
+Gardner B, lf         5  0  1  0   Ellsbury J, cf        3  0  1  0   
+Jeter D, ss           5  0  0  0   Scutaro M, ss         5  0  2  1   
+Granderson C, cf      3  1  0  0   Gonzalez A, 1b        5  0  0  0   
+Teixeira M, 1b        4  0  0  0   Pedroia D, 2b         5  0  1  0   
+Cano R, 2b            3  2  2  1   Ortiz D, dh           4  0  2  0   
+Swisher N, rf         3  0  3  0   Lowrie J, 3b          5  0  3  0   
+Chavez E, 3b          3  0  2  2   Crawford C, lf        4  1  2  1   
+Nunez E, ph-3b        1  0  0  0   Saltalamacchia J, c   4  1  1  0   
+Posada J, dh          3  0  0  0   McDonald D, rf        3  0  1  0   
+Cervelli F, c         3  2  1  1   Reddick J, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  9  4                        39  2 13  2
+
+New York         010 210 100 --  5
+Boston           000 200 000 --  2
+
+  New York             IP  H  R ER BB SO
+Sabathia C (W)        6.0 10  2  2  2 10
+Wade C                0.1  1  0  0  1  0
+Logan B               0.2  1  0  0  0  2
+Soriano R             1.0  0  0  0  1  0
+Rivera M (S)          1.0  1  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Lackey J (L)          7.0  7  5  4  4  3
+Morales F             0.1  2  0  0  0  0
+Albers M              0.2  0  0  0  0  0
+Aceves A              1.0  0  0  0  0  0
+
+DP -- Boston 3
+LOB -- New York 7, Boston 16
+2B -- Cano R, Scutaro M, Lowrie J, Ortiz D
+HR -- Crawford C, Cervelli F
+HBP -- by Sabathia C (Ellsbury J), by Lackey J (Cervelli F), by Albers M (Posada J), by Rivera M (Saltalamacchia J)
+WP -- Sabathia C
+PB -- Saltalamacchia J
+T -- 3:59
+A -- 37773
+     Game of 8/31/2011 -- New York at Boston (N)
+
+  New York           AB  R  H RBI    Boston             AB  R  H RBI
+Gardner B, lf         5  0  1  0   Ellsbury J, cf        5  2  2  2   
+Jeter D, ss           3  0  2  1   Pedroia D, 2b         5  0  2  1   
+Granderson C, cf      3  0  0  0   Gonzalez A, 1b        4  1  1  0   
+Teixeira M, 1b        3  1  0  0   Ortiz D, dh           3  1  1  2   
+Cano R, 2b            4  1  1  1   Lowrie J, 3b          3  0  1  1   
+Swisher N, rf         3  1  0  0   Crawford C, lf        4  0  1  0   
+Chavez E, dh          3  1  1  1   Reddick J, rf         3  2  1  0   
+Nunez E, 3b           3  1  1  1   Varitek J, c          4  2  2  3   
+Cervelli F, c         4  0  0  0   Scutaro M, ss         4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  5  6  4                        35  9 12  9
+
+New York         001 004 000 --  5
+Boston           002 023 02x --  9
+
+  New York             IP  H  R ER BB SO
+Hughes P (L)          5.2  8  6  6  2  4
+Logan B               0.2  2  1  1  0  1
+Ayala L               1.2  2  2  2  1  1
+
+  Boston               IP  H  R ER BB SO
+Beckett J (W)         7.0  6  5  4  3  8
+Bard D                1.0  0  0  0  0  1
+Papelbon J            1.0  0  0  0  0  2
+
+E -- Reddick J
+DP -- New York 1
+LOB -- New York 5, Boston 5
+2B -- Crawford C, Nunez E, Ellsbury J, Cano R, Chavez E, Varitek J, Reddick J
+HR -- Ortiz D, Ellsbury J, Varitek J
+SB -- Jeter D
+SH -- Jeter D
+SF -- Nunez E
+HBP -- by Beckett J (Teixeira M)
+WP -- Beckett J, Logan B
+T -- 3:16
+A -- 38021
+     Game of 9/1/2011 -- New York at Boston (N)
+
+  New York           AB  R  H RBI    Boston             AB  R  H RBI
+Jeter D, ss           4  0  2  0   Ellsbury J, cf        3  0  1  0   
+Granderson C, cf      4  1  2  0   Scutaro M, ss         5  0  1  0   
+Teixeira M, 1b        3  0  1  0   Gonzalez A, 1b        3  1  1  0   
+Gardner B, lf         0  0  0  0   Pedroia D, 2b         4  1  2  2   
+Cano R, 2b            5  0  2  1   Ortiz D, dh           3  0  1  0   
+Swisher N, rf-1b      4  0  1  0   Crawford C, lf        4  0  0  0   
+Jones A, lf           1  0  0  0   Lowrie J, 3b          3  0  0  0   
+Dickerson C, pr-rf    1  1  0  0   Reddick J, rf         4  0  0  0   
+Montero J, dh         4  1  0  0   Saltalamacchia J, c   4  0  0  0   
+Martin R, c           5  1  2  2                                      
+Nunez E, 3b           3  0  0  0                                      
+Chavez E, ph-3b       1  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4 11  4                        33  2  6  2
+
+New York         100 000 300 --  4
+Boston           000 200 000 --  2
+
+  New York             IP  H  R ER BB SO
+Burnett A             5.1  5  2  2  2  4
+Logan B               0.1  0  0  0  0  1
+Wade C (W)            0.1  0  0  0  0  0
+Soriano R             1.0  0  0  0  1  2
+Robertson D           1.0  0  0  0  1  1
+Rivera M (S)          1.0  1  0  0  2  2
+
+  Boston               IP  H  R ER BB SO
+Lester J              5.0  7  1  1  3  6
+Aceves A (L)          1.1  2  2  2  2  1
+Bard D                0.2  2  1  1  0  1
+Doubront F            1.1  0  0  0  1  2
+Wheeler D             0.2  0  0  0  0  0
+
+DP -- Boston 1
+LOB -- New York 13, Boston 10
+2B -- Cano R 2, Gonzalez A, Martin R
+HR -- Pedroia D
+SB -- Pedroia D
+CS -- Gardner B
+SH -- Swisher N
+HBP -- by Aceves A (Teixeira M), by Aceves A (Montero J)
+WP -- Robertson D
+T -- 4:21
+A -- 38074
+     Game of 9/2/2011 -- Texas at Boston (N)
+
+  Texas              AB  R  H RBI    Boston             AB  R  H RBI
+Kinsler I, 2b         4  2  1  3   Ellsbury J, cf        4  0  1  0   
+Andrus E, ss          2  4  2  2   Pedroia D, 2b         2  0  0  0   
+Blanco A, ph-ss       1  0  0  0   Aviles M, 2b          1  0  0  0   
+Hamilton J, lf        4  0  1  0   Gonzalez A, 1b        2  0  1  0   
+Martin L, ph-cf       1  0  1  0   Reddick J, lf         1  0  0  0   
+Young M, 1b           3  0  1  1   Youkilis K, 3b        3  0  0  0   
+Moreland M, ph-1b     1  0  0  0   Ortiz D, dh           3  0  0  0   
+Beltre A, 3b          4  0  1  2   Lowrie J, ss          3  0  0  0   
+German E, 3b          0  0  0  0   Jackson C, lf-1b      3  0  0  0   
+Napoli M, c           3  0  0  1   Varitek J, c          3  0  0  0   
+Treanor M, c          1  0  0  0   McDonald D, rf        3  0  0  0   
+Torrealba Y, dh       5  1  1  0                                      
+Murphy D, rf          5  2  4  1                                      
+Gentry C, cf-lf       4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38 10 13 10                        28  0  2  0
+
+Texas            240 130 000 -- 10
+Boston           000 000 000 --  0
+
+  Texas                IP  H  R ER BB SO
+Holland D (W)         7.0  2  0  0  0  6
+Valdez M              1.0  0  0  0  0  1
+Gonzalez M            1.0  0  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Miller A (L)          1.1  5  6  6  4  1
+Bowden M              2.2  2  1  1  1  5
+Albers M              1.0  3  3  3  0  1
+Wakefield T           4.0  3  0  0  0  3
+
+LOB -- Texas 8, Boston 1
+HR -- Kinsler I, Murphy D, Andrus E
+SB -- Andrus E
+CS -- Ellsbury J
+SH -- Gentry C
+SF -- Beltre A
+Balk -- Miller A
+PB -- Varitek J
+T -- 2:48
+A -- 38083
+     Game of 9/3/2011 -- Texas at Boston (D)
+
+  Texas              AB  R  H RBI    Boston             AB  R  H RBI
+Kinsler I, 2b         4  1  0  0   Ellsbury J, cf        3  1  1  1   
+Andrus E, ss          4  2  2  0   McDonald D, cf        1  0  0  0   
+Hamilton J, lf        5  1  3  1   Pedroia D, 2b         5  1  2  3   
+Young M, 1b           4  1  2  1   Gonzalez A, 1b        3  2  1  0   
+Beltre A, 3b          3  1  1  2   Jackson C, 1b         0  0  0  0   
+Napoli M, dh          2  0  0  1   Youkilis K, 3b        5  0  0  0   
+Torrealba Y, c        3  0  1  0   Ortiz D, dh           3  1  1  0   
+Treanor M, c          1  0  0  0   Lowrie J, ss          2  0  1  1   
+Murphy D, rf          4  0  1  1   Aviles M, ph-ss-rf    3  1  2  1   
+Gentry C, cf          2  0  0  0   Crawford C, lf        5  2  2  4   
+Martin L, ph-cf       1  0  0  0   Reddick J, rf         4  3  4  0   
+German E, ph          1  1  1  1   Scutaro M, ss         0  0  0  0   
+                                   Saltalamacchia J, c   5  1  2  2   
+                     -- -- -- --                        -- -- -- --
+                     34  7 11  7                        39 12 16 12
+
+Texas            012 000 031 --  7
+Boston           001 803 00x -- 12
+
+  Texas                IP  H  R ER BB SO
+Lewis C (L)           3.1  7  4  4  3  3
+Tateyama Y            0.1  2  4  4  2  0
+Valdez M              0.1  3  1  1  0  0
+Hamburger M           2.0  3  3  3  1  3
+Lowe M                1.0  1  0  0  0  1
+Oliver D              1.0  0  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Bedard E (W)          6.0  5  3  3  4  6
+Wheeler D             1.2  4  3  3  0  1
+Morales F             1.1  2  1  1  0  0
+
+E -- Saltalamacchia J
+DP -- Texas 1, Boston 2
+LOB -- Texas 5, Boston 10
+2B -- Reddick J, Torrealba Y, Crawford C, Pedroia D, Aviles M, Andrus E
+HR -- Saltalamacchia J, Crawford C, German E
+SB -- Saltalamacchia J
+SF -- Napoli M
+HBP -- by Oliver D (Reddick J)
+WP -- Tateyama Y, Hamburger M
+PB -- Torrealba Y
+T -- 3:44
+A -- 37806
+     Game of 9/4/2011 -- Texas at Boston (D)
+
+  Texas              AB  R  H RBI    Boston             AB  R  H RBI
+Kinsler I, 2b         5  1  3  3   Ellsbury J, cf        5  0  1  0   
+Andrus E, ss          4  1  0  0   Pedroia D, 2b         3  0  0  0   
+Hamilton J, lf        5  0  1  3   Aviles M, 2b          2  0  0  0   
+Young M, 3b           3  1  1  0   Gonzalez A, 1b        3  1  0  0   
+Beltre A, dh          5  1  1  0   Youkilis K, 3b        4  1  2  0   
+Murphy D, rf          5  2  2  1   Ortiz D, dh           3  0  2  1   
+Napoli M, c           3  2  2  2   Jackson C, rf         1  0  0  0   
+Moreland M, 1b        5  1  2  1   McDonald D, rf        2  0  1  1   
+Chavez E, cf          2  1  2  0   Crawford C, lf        4  1  1  0   
+German E, ph          0  1  0  1   Saltalamacchia J, c   4  1  1  0   
+Gentry C, cf          2  0  1  0   Scutaro M, ss         3  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     39 11 15 11                        34  4  9  4
+
+Texas            011 007 002 -- 11
+Boston           000 000 220 --  4
+
+  Texas                IP  H  R ER BB SO
+Harrison M (W)        7.0  7  2  2  2  5
+Gonzalez M            1.0  2  2  2  1  0
+Uehara K              1.0  0  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Lackey J (L)*         5.0  8  6  6  3  1
+Doubront F            0.1  2  3  3  2  0
+Albers M              1.2  3  0  0  1  4
+Bowden M              2.0  2  2  2  1  2
+  * Pitched to 4 batters in 6th
+
+E -- Pedroia D, Lackey J
+DP -- Texas 1, Boston 2
+LOB -- Texas 10, Boston 7
+2B -- Chavez E, Ellsbury J, Saltalamacchia J, Youkilis K
+3B -- Murphy D, Kinsler I, Hamilton J
+HR -- Napoli M, Kinsler I
+SF -- Kinsler I, McDonald D
+HBP -- by Lackey J (Hamilton J)
+WP -- Harrison M, Lackey J
+T -- 3:28
+A -- 37744
+     Game of 9/13/2011 -- Toronto at Boston (N)
+
+  Toronto            AB  R  H RBI    Boston             AB  R  H RBI
+McCoy M, ss           5  0  0  0   Ellsbury J, cf        5  4  4  3   
+Thames E, lf          4  2  2  0   Gathright J, pr-lf    0  0  0  0   
+Bautista J, rf        4  1  1  2   Pedroia D, 2b         5  4  4  5   
+Encarnacion E, dh     3  0  1  0   Gonzalez A, 1b        4  1  2  1   
+Cooper D, 1b          5  1  3  1   Anderson L, pr-1b     0  1  0  0   
+Lawrie B, 3b          5  1  1  0   Ortiz D, dh           0  0  0  0   
+Arencibia J, c        4  1  2  3   Lowrie J, ph          4  0  0  0   
+Loewen A, cf          4  0  0  0   Jackson C, ph         0  0  0  1   
+Woodward C, 2b        3  0  0  0   Youkilis K, 3b        3  0  0  0   
+Teahen M, ph          1  0  0  0   Aviles M, 3b          1  1  1  0   
+Johnson K, 2b         0  0  0  0   Reddick J, rf         5  0  1  0   
+                                   Crawford C, lf        4  3  2  0   
+                                   McDonald D, cf        0  0  0  0   
+                                   Scutaro M, ss         3  1  2  2   
+                                   Iglesias J, pr-ss     0  1  0  0   
+                                   Saltalamacchia J, c   5  2  2  4   
+                                   Lavarnway R, c        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 10  6                        39 18 18 16
+
+Toronto          032 000 001 --  6
+Boston           220 204 17x -- 18
+
+  Toronto              IP  H  R ER BB SO
+Morrow B (L)          5.1  7  7  5  1  2
+Perez L*              0.0  4  3  3  0  0
+Carreno J             1.2  2  1  1  0  1
+Mills B+              0.0  2  3  3  1  0
+Farquhar D            0.2  3  4  3  2  0
+Beck C                0.1  0  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (W)       6.0  6  5  5  2  6
+Aceves A              2.0  2  0  0  0  1
+Tazawa J              1.0  2  1  1  1  2
+  * Pitched to 4 batters in 6th
+  + Pitched to 3 batters in 8th
+
+E -- Cooper D, Youkilis K
+DP -- Toronto 1
+LOB -- Toronto 9, Boston 5
+2B -- Pedroia D 2, Cooper D 2, Ellsbury J, Crawford C, Scutaro M, Saltalamacchia J, Thames E
+HR -- Arencibia J, Bautista J, Ellsbury J, Pedroia D 2
+SH -- Scutaro M
+SF -- Pedroia D, Jackson C
+HBP -- by Wakefield T (Thames E), by Morrow B (Youkilis K)
+WP -- Morrow B
+Balk -- Morrow B
+PB -- Saltalamacchia J 2, Arencibia J
+T -- 3:07
+A -- 38020
+     Game of 9/14/2011 -- Toronto at Boston (D)
+
+  Toronto            AB  R  H RBI    Boston             AB  R  H RBI
+McCoy M, ss           5  0  0  0   Ellsbury J, cf        4  1  1  0   
+Thames E, lf          5  1  1  0   Scutaro M, ss         3  0  1  1   
+Bautista J, rf        3  1  1  0   Gonzalez A, 1b        3  1  1  1   
+Lind A, 1b            5  0  1  0   Anderson L, 1b        1  0  0  0   
+Encarnacion E, dh     3  1  2  1   Pedroia D, 2b         4  1  1  0   
+Johnson K, 2b         3  1  1  1   Youkilis K, 3b        3  1  1  0   
+Lawrie B, 3b          2  0  0  0   Lavarnway R, dh       3  0  0  1   
+Teahen M, 3b          0  1  0  0   Reddick J, ph         1  0  0  0   
+Arencibia J, c        4  0  0  1   Crawford C, lf        4  0  0  0   
+Loewen A, cf          4  0  2  2   Varitek J, c          3  0  0  1   
+                                   McDonald D, rf        3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5  8  5                        32  4  6  4
+
+Toronto          200 000 030 --  5
+Boston           021 001 000 --  4
+
+  Toronto              IP  H  R ER BB SO
+Romero R (W)          8.0  6  4  3  1  4
+Francisco F (S)       1.0  0  0  0  0  2
+
+  Boston               IP  H  R ER BB SO
+Lackey J              5.1  7  2  2  1  4
+Morales F             0.2  0  0  0  0  0
+Aceves A              1.0  0  0  0  1  0
+Bard D (L)            1.0  1  3  2  2  0
+Papelbon J            1.0  0  0  0  0  2
+
+E -- Loewen A, Lawrie B 2, Scutaro M, Varitek J, Bard D
+DP -- Toronto 2, Boston 1
+LOB -- Toronto 8, Boston 3
+2B -- Scutaro M
+3B -- Ellsbury J
+HR -- Gonzalez A
+SB -- Lawrie B
+SH -- Teahen M
+SF -- Scutaro M
+HBP -- by Lackey J (Lawrie B)
+WP -- Romero R
+T -- 2:57
+A -- 37087
+     Game of 9/15/2011 -- Tampa Bay at Boston (N)
+
+  Tampa Bay          AB  R  H RBI    Boston             AB  R  H RBI
+Jennings D, lf        3  2  0  0   Ellsbury J, cf        4  0  0  0   
+Upton B, cf           5  2  2  3   McDonald D, cf        1  0  1  1   
+Longoria E, 3b        5  1  2  3   Pedroia D, 2b         3  0  0  0   
+Zobrist B, 2b         3  1  1  0   Jackson C, 3b         1  0  0  0   
+Johnson E, 2b         1  0  0  0   Gonzalez A, 1b        3  0  0  1   
+Damon J, dh           2  1  1  0   Anderson L, 1b        1  0  0  0   
+Canzler R, ph         0  0  0  0   Ortiz D, dh           2  0  2  0   
+Joyce M, rf           5  0  0  0   Lavarnway R, ph       1  0  0  0   
+Kotchman C, 1b        4  1  2  3   Youkilis K, 3b        3  0  0  0   
+Johnson D, 1b         0  0  0  0   Aviles M, 3b-2b       1  0  0  0   
+Jaso J, c             3  1  1  0   Reddick J, rf         3  0  0  0   
+Brignac R, ss         4  0  0  0   Crawford C, lf        3  0  0  0   
+                                   Gathright J, lf       0  1  0  0   
+                                   Saltalamacchia J, c   3  1  0  0   
+                                   Scutaro M, ss         3  0  2  0   
+                                   Iglesias J, pr-ss     1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  9  9  9                        33  2  6  2
+
+Tampa Bay        004 002 300 --  9
+Boston           001 000 001 --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Hellickson J (W)      5.2  3  1  1  4  4
+McGee J               0.1  0  0  0  0  0
+Cruz J                1.0  1  0  0  0  1
+Ramos C               1.0  0  0  0  0  0
+Torres A              1.0  2  1  1  1  2
+
+  Boston               IP  H  R ER BB SO
+Weiland K (L)*        3.0  3  4  4  2  1
+Miller T              1.0  0  0  0  0  0
+Atchison S            1.0  1  0  0  0  0
+Morales F             1.0  2  2  2  1  1
+Albers M              0.1  1  3  3  2  0
+Miller A              1.2  2  0  0  0  4
+Bowden M              1.0  0  0  0  1  1
+  * Pitched to 2 batters in 4th
+
+E -- Pedroia D
+LOB -- Tampa Bay 6, Boston 9
+2B -- Jaso J
+HR -- Longoria E, Kotchman C, Upton B
+CS -- Longoria E
+HBP -- by Morales F (Damon J)
+WP -- Hellickson J 2
+Balk -- Hellickson J
+T -- 3:25
+A -- 38071
+     Game of 9/16/2011 -- Tampa Bay at Boston (N)
+
+  Tampa Bay          AB  R  H RBI    Boston             AB  R  H RBI
+Jennings D, lf        4  2  3  0   Ellsbury J, cf        4  1  1  0   
+Upton B, cf           5  0  1  0   Pedroia D, 2b         4  2  2  1   
+Longoria E, 3b        3  1  2  3   Gonzalez A, 1b        3  0  0  0   
+Kotchman C, 1b        4  0  1  0   Ortiz D, dh           4  0  2  2   
+Damon J, dh           3  0  1  0   Reddick J, rf         3  0  0  0   
+Zobrist B, 2b         3  0  0  0   Jackson C, ph         1  0  1  0   
+Joyce M, rf           4  0  0  0   McDonald D, pr-rf     0  0  0  0   
+Jaso J, c             4  0  0  0   Scutaro M, ss         4  0  0  0   
+Brignac R, ss         3  0  0  0   Crawford C, lf        3  0  2  0   
+Johnson D, ph         1  0  0  0   Varitek J, c          1  0  0  0   
+                                   Saltalamacchia, ph-c  1  0  0  0   
+                                   Aviles M, 3b          3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        31  4  9  4
+
+Tampa Bay        201 000 000 --  3
+Boston           201 100 00x --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Shields J (L)*        7.0  7  4  4  3  4
+Ramos C               0.1  0  0  0  0  0
+Gomes B               0.1  1  0  0  0  0
+Howell J              0.1  1  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Beckett J (W)         6.0  7  3  2  1  7
+Aceves A              1.0  0  0  0  2  2
+Bard D                1.0  0  0  0  1  3
+Papelbon J (S)        1.0  1  0  0  0  3
+  * Pitched to 1 batter in 8th
+
+E -- Beckett J, Varitek J, Shields J
+DP -- Tampa Bay 2, Boston 1
+LOB -- Tampa Bay 9, Boston 6
+2B -- Ellsbury J, Ortiz D
+HR -- Longoria E, Aviles M
+SB -- Kotchman C, Jennings D 2, Pedroia D, Damon J 3, Crawford C, Upton B
+HBP -- by Beckett J (Damon J)
+WP -- Shields J 2
+T -- 3:32
+A -- 38019
+     Game of 9/17/2011 -- Tampa Bay at Boston (D)
+
+  Tampa Bay          AB  R  H RBI    Boston             AB  R  H RBI
+Jennings D, lf        3  2  1  0   Ellsbury J, cf        3  0  1  2   
+Upton B, cf           3  0  1  0   Pedroia D, 2b         4  0  0  0   
+Longoria E, 3b        3  0  1  1   Gonzalez A, 1b        2  0  0  0   
+Zobrist B, 2b         4  1  1  2   Ortiz D, dh           3  0  0  0   
+Damon J, dh           3  0  1  0   Reddick J, rf         2  0  1  0   
+Rodriguez S, ss       2  0  0  0   Jackson C, ph         1  0  0  0   
+Brignac R, ss         1  0  0  0   McDonald D, rf        0  0  0  0   
+Kotchman C, 1b        4  0  0  0   Saltalamacchia J, c   4  0  0  0   
+Guyer B, rf           4  1  1  0   Crawford C, lf        4  2  2  0   
+Fuld S, rf            0  0  0  0   Aviles M, 3b          4  1  3  1   
+Lobaton J, c          3  0  0  0   Gathright J, pr       0  0  0  0   
+                                   Scutaro M, ss         3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  4  6  3                        30  3  7  3
+
+Tampa Bay        201 010 000 --  4
+Boston           002 000 100 --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Niemann J (W)         5.0  4  2  2  2  6
+Moore M               3.0  2  1  1  2  2
+Peralta J (S)         1.0  1  0  0  0  2
+
+  Boston               IP  H  R ER BB SO
+Lester J (L)          7.0  5  4  4  4  5
+Bard D                1.0  0  0  0  0  0
+Morales F             1.0  1  0  0  0  0
+
+DP -- Tampa Bay 1, Boston 1
+LOB -- Tampa Bay 4, Boston 6
+2B -- Jennings D, Aviles M
+HR -- Zobrist B
+SB -- Ellsbury J, Gathright J
+CS -- Damon J, Ellsbury J
+SH -- Upton B, Scutaro M
+SF -- Ellsbury J
+WP -- Lester J, Moore M
+Balk -- Morales F
+T -- 3:12
+A -- 37682
+     Game of 9/18/2011 -- Tampa Bay at Boston (D)
+
+  Tampa Bay          AB  R  H RBI    Boston             AB  R  H RBI
+Jennings D, lf        5  1  2  1   Ellsbury J, cf        5  1  2  0   
+Upton B, cf           5  0  0  0   Aviles M, 3b          5  1  2  3   
+Longoria E, 3b        4  2  1  0   Gonzalez A, 1b        4  0  0  0   
+Kotchman C, 1b        4  1  0  0   Pedroia D, 2b         4  1  1  0   
+Damon J, dh           5  1  1  1   Ortiz D, dh           3  1  0  0   
+Zobrist B, 2b         3  1  0  0   Jackson C, lf         2  0  0  0   
+Joyce M, rf           4  2  3  3   Crawford C, ph-lf     1  0  1  0   
+Rodriguez S, ss       0  0  0  1   McDonald D, rf        3  0  1  2   
+Brignac R, ss         1  0  0  0   Saltalamacchia J, c   4  0  0  0   
+Shoppach K, c         3  0  0  0   Scutaro M, ss         4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  8  7  6                        35  5  8  5
+
+Tampa Bay        030 120 200 --  8
+Boston           000 200 300 --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Price D               4.0  3  2  2  3  2
+McGee J (W)           2.2  1  1  1  0  2
+Ramos C               0.1  2  2  2  0  1
+Gomes B               0.2  0  0  0  0  1
+Howell J*             0.0  1  0  0  0  0
+Peralta J (S)         1.1  1  0  0  0  1
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (L)       5.0  6  6  2  1  5
+Atchison S            1.0  0  0  0  1  1
+Miller A              1.0  1  2  2  2  2
+Albers M              1.1  0  0  0  0  0
+Miller T              0.2  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Aviles M 2
+LOB -- Tampa Bay 6, Boston 6
+2B -- Aviles M, Damon J, Joyce M, McDonald D, Crawford C, Ellsbury J
+HR -- Aviles M
+SB -- Joyce M, Jennings D, Longoria E, Zobrist B
+CS -- Upton B
+SH -- Shoppach K
+SF -- Rodriguez S
+HBP -- by Wakefield T (Rodriguez S)
+WP -- Wakefield T, Miller A
+PB -- Saltalamacchia J 4
+T -- 3:53
+A -- 37613
+     Game of 9/19/2011, game 1 -- Baltimore at Boston (D)
+
+  Baltimore          AB  R  H RBI    Boston             AB  R  H RBI
+Angle M, cf-lf        4  0  1  2   Ellsbury J, cf        5  0  1  0   
+Hardy J, ss           5  1  2  1   Scutaro M, ss         3  2  3  0   
+Markakis N, rf        4  0  0  0   Gonzalez A, 1b        4  1  2  2   
+Guerrero V, dh        5  0  1  0   Pedroia D, 2b         4  0  1  1   
+Wieters M, c          2  0  1  0   Ortiz D, dh           4  1  1  0   
+Davis C, 1b           4  1  0  0   Reddick J, rf         3  0  1  0   
+Andino R, 2b          4  1  1  2   Lavarnway R, ph       1  0  0  0   
+Reimold N, lf         4  2  2  1   Gathright J, lf       0  0  0  0   
+Jones A, cf           0  0  0  0   Saltalamacchia J, c   4  0  1  1   
+Bell J, 3b            4  1  0  0   Aviles M, 3b          4  0  0  0   
+                                   McDonald D, lf-rf     4  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     36  6  8  6                        36  5 12  5
+
+Baltimore        002 310 000 --  6
+Boston           001 120 100 --  5
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J (W)*        6.0 10  4  4  1  3
+Patton T              0.2  2  1  1  0  0
+Eyre W                0.1  0  0  0  0  0
+Rapada C              0.1  0  0  0  0  0
+Strop P               0.2  0  0  0  0  1
+Johnson J (S)         1.0  0  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Weiland K (L)         4.2  5  6  5  2  5
+Doubront F            1.1  0  0  0  0  1
+Aceves A              3.0  3  0  0  1  4
+  * Pitched to 1 batter in 7th
+
+E -- McDonald D
+DP -- Baltimore 3
+LOB -- Baltimore 7, Boston 5
+2B -- Reddick J, Angle M, Gonzalez A, Scutaro M, Wieters M
+3B -- Saltalamacchia J, Pedroia D
+HR -- McDonald D, Andino R, Reimold N, Hardy J
+HBP -- by Weiland K (Markakis N)
+T -- 2:50
+A -- 37885
+     Game of 9/19/2011, game 2 -- Baltimore at Boston (N)
+
+  Baltimore          AB  R  H RBI    Boston             AB  R  H RBI
+Angle M, cf-rf        4  2  2  0   Ellsbury J, cf        6  3  3  2   
+Hardy J, ss           3  1  0  0   Scutaro M, ss         5  3  3  2   
+Fox J, ph-1b          1  0  0  0   Iglesias J, ss        1  0  1  0   
+Markakis N, rf        3  2  2  2   Gonzalez A, 1b        3  1  3  0   
+Bell J, 3b            1  0  0  0   Anderson L, pr-1b     1  1  0  0   
+Guerrero V, dh        4  1  2  2   Pedroia D, 2b         4  2  3  4   
+Jones A, pr           0  0  0  0   Aviles M, ph-2b       1  0  0  0   
+Davis C, 1b           4  2  3  1   Ortiz D, dh           4  2  2  1   
+Hudson K, cf          1  0  0  0   Reddick J, pr         0  0  0  0   
+Andino R, 3b          3  1  1  0   Lowrie J, 3b          5  3  2  4   
+Florimon P, ss        1  0  0  0   Jackson C, lf         4  1  1  4   
+Reimold N, lf         4  0  1  3   Gathright J, lf       0  0  0  0   
+Adams R, 2b           4  0  2  1   Varitek J, c          4  1  0  0   
+Tatum C, c            4  0  0  0   McDonald D, rf        5  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     37  9 13  9                        43 18 20 17
+
+Baltimore        302 121 000 --  9
+Boston           425 000 70x -- 18
+
+  Baltimore            IP  H  R ER BB SO
+Matusz B (L)          1.2  6  6  6  2  0
+Jakubauskas C         1.0  5  5  5  1  1
+Berken J              1.2  2  0  0  3  2
+Phillips Z            0.2  0  0  0  0  0
+Accardo J*            1.0  4  4  4  0  1
+Rapada C+             0.0  0  1  1  1  0
+Bergesen B            1.0  2  2  2  0  1
+Gregg K               1.0  1  0  0  1  1
+
+  Boston               IP  H  R ER BB SO
+Lackey J              4.1 11  8  8  2  3
+Atchison S (W)        1.1  0  0  0  0  0
+Morales F             0.2  1  1  1  1  1
+Albers M              0.2  0  0  0  0  2
+Bowden M              2.0  1  0  0  1  2
+  * Pitched to 4 batters in 7th
+  + Pitched to 1 batter in 7th
+
+E -- Varitek J, Hardy J, Atchison S, Anderson L
+DP -- Boston 3
+LOB -- Baltimore 7, Boston 9
+2B -- Ortiz D, Scutaro M, Ellsbury J, Davis C, Guerrero V
+3B -- Markakis N
+HR -- Lowrie J, Ellsbury J, Jackson C
+SB -- Angle M 2, Markakis N, Lowrie J, Andino R
+SF -- Guerrero V, Reimold N
+WP -- Lackey J
+T -- 3:55
+A -- 37261
+     Game of 9/20/2011 -- Baltimore at Boston (N)
+
+  Baltimore          AB  R  H RBI    Boston             AB  R  H RBI
+Andino R, 2b          5  1  3  3   Ellsbury J, cf        4  0  1  0   
+Hardy J, ss           5  0  0  0   Pedroia D, 2b         5  2  2  0   
+Markakis N, rf        5  1  3  1   Gonzalez A, 1b        5  1  3  3   
+Guerrero V, dh        5  1  1  0   Ortiz D, dh           3  0  0  0   
+Wieters M, c          3  2  1  0   Reddick J, rf         3  0  0  0   
+Jones A, cf           4  0  3  0   Lowrie J, ph          1  0  0  0   
+Reynolds M, 1b        5  1  2  2   McDonald D, rf        0  0  0  0   
+Davis C, 3b           4  0  0  0   Crawford C, lf        4  0  1  0   
+Reimold N, lf         3  1  1  0   Scutaro M, ss         3  1  0  0   
+Angle M, lf           0  0  0  0   Saltalamacchia J, c   4  0  1  0   
+                                   Aviles M, 3b          3  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     39  7 14  6                        35  5 10  4
+
+Baltimore        004 000 030 --  7
+Boston           102 200 000 --  5
+
+  Baltimore            IP  H  R ER BB SO
+VandenHurk R*         3.0  7  5  4  3  4
+Reyes J+              3.0  3  0  0  0  5
+Rapada C              0.1  0  0  0  0  0
+Eyre W (W)            0.2  0  0  0  0  0
+Strop P               1.0  0  0  0  0  2
+Johnson J (S)         1.0  0  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Bedard E              2.2  5  4  1  2  0
+Atchison S            2.1  3  0  0  0  2
+Albers M              1.0  0  0  0  0  2
+Bard D (L)            1.1  2  2  2  0  2
+Papelbon J            0.2  2  1  1  0  1
+Doubront F            0.2  2  0  0  1  0
+Tazawa J              0.1  0  0  0  0  0
+  * Pitched to 3 batters in 4th
+  + Pitched to 1 batter in 7th
+
+E -- Reddick J, Reynolds M, Wieters M
+DP -- Baltimore 2, Boston 2
+LOB -- Baltimore 9, Boston 7
+2B -- Pedroia D 2, Gonzalez A, Markakis N, Aviles M, Andino R
+HR -- Gonzalez A
+SB -- Reimold N, Andino R
+CS -- Guerrero V, Jones A
+HBP -- by Albers M (Reimold N)
+WP -- Atchison S
+T -- 3:36
+A -- 37414
+     Game of 9/21/2011 -- Baltimore at Boston (N)
+
+  Baltimore          AB  R  H RBI    Boston             AB  R  H RBI
+Andino R, 2b          5  1  1  0   Ellsbury J, cf        4  0  1  0   
+Hardy J, ss           4  1  2  1   Aviles M, 3b          4  1  1  0   
+Markakis N, rf        3  1  1  0   Gonzalez A, 1b        4  1  2  0   
+Guerrero V, dh        4  0  1  2   Ortiz D, dh           4  0  1  1   
+Wieters M, c          4  0  1  0   Pedroia D, 2b         4  1  1  0   
+Jones A, cf           4  1  1  0   Reddick J, rf         4  0  0  0   
+Reynolds M, 1b        4  2  2  3   Crawford C, lf        4  1  3  2   
+Davis C, 3b           4  0  1  0   Scutaro M, ss         3  0  0  0   
+Angle M, lf           4  0  0  0   Varitek J, c          3  0  0  1   
+                                   Lowrie J, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6 10  6                        35  4  9  4
+
+Baltimore        010 001 220 --  6
+Boston           001 210 000 --  4
+
+  Baltimore            IP  H  R ER BB SO
+Hunter T              6.2  9  4  4  1  4
+Rapada C (W)          0.2  0  0  0  0  1
+Eyre W                0.2  0  0  0  0  0
+Johnson J (S)         1.0  0  0  0  0  0
+
+  Boston               IP  H  R ER BB SO
+Beckett J (L)         7.1  7  6  6  1  8
+Aceves A              1.2  3  0  0  0  1
+
+E -- Gonzalez A
+DP -- Baltimore 1, Boston 1
+LOB -- Baltimore 4, Boston 5
+2B -- Pedroia D, Crawford C, Markakis N
+3B -- Crawford C
+HR -- Reynolds M 2
+SB -- Andino R, Angle M
+T -- 2:59
+A -- 38004
+

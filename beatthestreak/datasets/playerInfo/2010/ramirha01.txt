@@ -3,7 +3,7 @@ date,hitVal,otherInfo,opPitcherEra
 4/7,True,n/a,inf
 4/8,False,n/a,inf
 4/9,True,n/a,inf
-4/10,False,n/a,14.55
+4/10,True,n/a,14.55
 4/11,False,n/a,inf
 4/12,True,n/a,3.0
 4/13,True,n/a,1.13

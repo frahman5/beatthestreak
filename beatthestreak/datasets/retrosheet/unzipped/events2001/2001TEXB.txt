@@ -1,0 +1,3479 @@
+     Game of 4/3/2001 -- Anaheim at Texas (D)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Erstad D, cf          4  0  3  2   Greer R, lf           3  0  0  1   
+Gil B, ss             3  0  0  0   Velarde R, 2b         4  0  1  0   
+Palmeiro O, ph        1  0  0  0   Rodriguez A, ss       4  0  1  0   
+Nieves J, ss          0  0  0  0   Palmeiro R, 1b        2  0  0  0   
+Salmon T, rf          4  0  1  0   Rodriguez I, c        4  1  2  0   
+Glaus T, 3b           4  0  1  0   Galarraga A, dh       3  1  1  1   
+Anderson G, lf        3  0  1  0   Caminiti K, 3b        2  0  1  0   
+Hill G, dh            4  0  0  0   Curtis C, cf          2  1  1  0   
+Molina B, c           4  1  1  0   Mateo R, rf           3  0  1  0   
+Spiezio S, 1b         3  1  1  0                                      
+Eckstein D, 2b        3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  9  2                        27  3  8  2
+
+Anaheim          001 000 010 --  2
+Texas            020 000 10x --  3
+
+  Anaheim              IP  H  R ER BB SO
+Schoeneweis S (L)     7.0  8  3  3  3  5
+Weber B               1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Rogers K (W)          7.1  7  2  2  0  5
+Zimmerman J           0.2  0  0  0  0  0
+Crabtree T (S)        1.0  2  0  0  1  0
+
+DP -- Anaheim 3, Texas 3
+LOB -- Anaheim 5, Texas 5
+2B -- Erstad D 2, Velarde R, Rodriguez I, Galarraga A, Spiezio S, Molina B, Glaus T
+SB -- Rodriguez A
+SF -- Greer R
+HBP -- by Schoeneweis S (Curtis C)
+T -- 2:31
+A -- 49512
+     Game of 4/4/2001 -- Anaheim at Texas (N)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Erstad D, cf          4  0  0  0   Greer R, lf           3  1  1  0   
+Gil B, ss             4  0  2  0   Velarde R, 2b         4  1  2  0   
+Nieves J, 2b          0  0  0  0   Rodriguez A, ss       4  1  1  0   
+Palmeiro O, ph        1  1  1  2   Palmeiro R, 1b        2  1  0  1   
+Salmon T, rf          5  1  1  1   Rodriguez I, c        4  1  2  2   
+Glaus T, 3b           2  0  1  0   Galarraga A, dh       4  1  1  3   
+Anderson G, lf        5  0  0  0   Caminiti K, 3b        3  1  0  0   
+Hill G, dh            4  0  0  0   Curtis C, cf          3  0  1  0   
+Molina B, c           3  0  0  0   Mateo R, rf           3  0  0  1   
+Spiezio S, 1b         3  1  2  0                                      
+Eckstein D, 2b-ss     3  0  1  0                                      
+Joyner W, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        30  7  8  7
+
+Anaheim          000 000 003 --  3
+Texas            111 030 10x --  7
+
+  Anaheim              IP  H  R ER BB SO
+Rapp P (L)            5.0  6  6  6  4  2
+Levine A              1.0  1  0  0  0  1
+Pote L                2.0  1  1  1  0  2
+
+  Texas                IP  H  R ER BB SO
+Oliver D (W)          5.0  3  0  0  5  6
+Mahomes P             1.0  0  0  0  1  1
+Petkovsek M           2.2  5  3  3  0  1
+Zimmerman J           0.1  0  0  0  0  0
+
+E -- Caminiti K
+DP -- Texas 1
+LOB -- Anaheim 11, Texas 5
+2B -- Velarde R 2, Greer R, Glaus T
+HR -- Galarraga A, Rodriguez I, Palmeiro O, Salmon T
+SF -- Palmeiro R, Mateo R
+T -- 2:57
+A -- 34321
+     Game of 4/5/2001 -- Anaheim at Texas (N)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Erstad D, cf          4  1  1  0   Greer R, lf           4  0  1  0   
+Palmeiro O, rf        5  1  1  1   Velarde R, 2b         4  1  2  1   
+Glaus T, 3b           4  2  2  2   Rodriguez A, ss       4  0  0  0   
+Anderson G, lf        5  1  2  2   Palmeiro R, 1b        4  0  0  0   
+Joyner W, 1b          4  2  2  2   Rodriguez I, c        3  0  0  0   
+Wooten S, ph-1b       1  0  0  0   Galarraga A, dh       4  0  0  0   
+Hill G, dh            5  1  2  0   Caminiti K, 3b        2  1  0  0   
+Fabregas J, c         4  1  2  3   Curtis C, cf          4  1  1  2   
+Eckstein D, 2b        4  1  1  0   Mateo R, rf           4  0  1  0   
+Nieves J, ss          3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39 10 13 10                        33  3  5  3
+
+Anaheim          000 204 103 -- 10
+Texas            020 000 010 --  3
+
+  Anaheim              IP  H  R ER BB SO
+Ortiz R (W)           7.0  4  2  2  2 10
+Weber B               1.0  1  1  1  0  0
+Hasegawa S            1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Glynn R (L)           5.1  8  5  5  0  2
+Brantley J            1.2  2  2  2  0  2
+Johnson J             2.0  3  3  3  2  3
+
+E -- Ortiz R, Nieves J
+LOB -- Anaheim 5, Texas 6
+2B -- Velarde R
+3B -- Anderson G
+HR -- Curtis C, Glaus T 2, Joyner W, Fabregas J, Velarde R
+SB -- Rodriguez I
+CS -- Rodriguez A
+SH -- Nieves J
+HBP -- by Ortiz R (Rodriguez I)
+T -- 2:53
+A -- 34120
+     Game of 4/6/2001 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Suzuki I, rf          6  2  4  2   Greer R, lf           5  0  2  0   
+McLemore M, 2b        4  2  1  2   Velarde R, 2b         5  1  1  0   
+Martinez E, dh        5  2  1  0   Rodriguez A, ss       4  2  1  0   
+Olerud J, 1b          5  1  3  1   Palmeiro R, 1b        4  2  3  5   
+Cameron M, cf         3  0  0  1   Rodriguez I, c        4  0  1  0   
+Martin A, lf          3  0  0  0   Galarraga A, dh       3  0  1  0   
+Sanders A, lf         0  0  0  0   Porter B, pr          0  1  0  0   
+Javier S, ph-lf       1  0  0  0   Catalanotto F, ph     1  0  0  0   
+Guillen C, ss         5  0  0  1   Caminiti K, 3b        4  0  0  1   
+Lampkin T, c          4  1  2  2   Curtis C, cf          3  0  0  0   
+Gipson C, pr          0  1  0  0   Mateo R, rf           3  1  0  1   
+Wilson D, c           0  0  0  0                                      
+Bell D, 3b            5  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  9 12  9                        36  7  9  7
+
+Seattle          401 200 000 2 --  9
+Texas            010 001 410 0 --  7
+
+  Seattle              IP  H  R ER BB SO
+Moyer J*              5.0  6  2  2  3  3
+Nelson J              1.2  1  3  3  1  2
+Charlton N+           0.0  1  1  1  0  0
+Paniagua J            1.0  0  1  1  1  0
+Rhodes A (W)          1.1  1  0  0  0  1
+Sasaki K (S)          1.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Helling R#            3.0  9  7  7  3  3
+Mahomes P             4.2  1  0  0  0  1
+Venafro M**           0.0  1  0  0  1  0
+Zimmerman J (L)       2.1  1  2  2  2  0
+  * Pitched to 3 batters in 6th
+  + Pitched to 1 batter in 7th
+  # Pitched to 2 batters in 4th
+  ** Pitched to 2 batters in 8th
+
+E -- Palmeiro R, McLemore M
+DP -- Seattle 2, Texas 1
+LOB -- Seattle 9, Texas 6
+2B -- Suzuki I, Rodriguez I, Martinez E, Olerud J, Palmeiro R
+HR -- McLemore M, Lampkin T, Palmeiro R, Suzuki I
+SF -- Caminiti K, Cameron M
+HBP -- by Nelson J (Mateo R)
+T -- 3:43
+A -- 34684
+     Game of 4/7/2001 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Suzuki I, rf          5  1  2  0   Greer R, lf           3  0  1  0   
+Cameron M, cf         5  2  2  0   Velarde R, 2b         5  1  2  0   
+Martinez E, dh        3  2  2  1   Rodriguez A, ss       5  1  3  2   
+Olerud J, 1b          4  1  2  1   Palmeiro R, 1b        3  0  0  0   
+Boone B, 2b           4  0  3  3   Porter B, pr          0  0  0  0   
+Sanders A, lf         2  0  0  0   Galarraga A, dh       5  1  2  2   
+Javier S, ph-lf       3  0  1  1   Caminiti K, 3b        5  1  1  1   
+Bell D, 3b            5  0  0  0   Curtis C, cf          4  0  1  0   
+Wilson D, c           4  0  0  0   Mateo R, rf           4  0  1  0   
+Guillen C, ss         4  0  0  0   Mirabelli D, c        3  0  0  0   
+                                   Catalanotto F, ph     1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 12  6                        38  5 12  5
+
+Seattle          000 130 002 --  6
+Texas            000 300 002 --  5
+
+  Seattle              IP  H  R ER BB SO
+Tomko B               3.1  7  3  3  0  1
+Franklin R (W)        3.0  2  0  0  3  3
+Nelson J              0.2  0  0  0  0  0
+Paniagua J            1.0  0  0  0  0  1
+Sasaki K (S)          1.0  3  2  2  1  2
+
+  Texas                IP  H  R ER BB SO
+Davis D (L)           4.2  7  4  4  2  2
+Petkovsek M           2.1  1  0  0  2  0
+Brantley J            1.0  0  0  0  0  0
+Crabtree T            1.0  4  2  2  0  0
+
+E -- Olerud J
+DP -- Seattle 1
+LOB -- Seattle 10, Texas 10
+2B -- Martinez E, Rodriguez A 3, Cameron M, Boone B, Velarde R
+HR -- Galarraga A, Caminiti K
+T -- 3:27
+A -- 41651
+     Game of 4/8/2001 -- Seattle at Texas (D)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Suzuki I, rf          5  0  1  0   Greer R, lf           4  2  3  1   
+Javier S, 1b-lf       3  0  0  0   Catalanotto F, 2b     4  0  1  1   
+Martinez E, dh        4  0  0  0   Velarde R, 2b         1  1  1  1   
+Cameron M, cf         4  0  2  0   Rodriguez A, ss       2  0  0  0   
+Boone B, 2b           4  2  2  1   Palmeiro R, dh        3  0  1  1   
+Sanders A, lf         2  0  0  0   Rodriguez I, c        4  0  0  0   
+Olerud J, 1b          1  0  0  0   Galarraga A, 1b       3  1  2  1   
+Bell D, 3b            4  1  1  1   Mateo R, rf           4  0  1  0   
+Wilson D, c           3  0  1  0   Porter B, cf          4  1  2  0   
+McLemore M, ph        1  1  1  2   Sheldon S, 3b         3  0  0  0   
+Lampkin T, c          0  0  0  0                                      
+Guillen C, ss         4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  4                        32  5 11  5
+
+Seattle          010 010 020 --  4
+Texas            100 002 11x --  5
+
+  Seattle              IP  H  R ER BB SO
+Garcia F              6.0  8  3  3  5  3
+Charlton N            1.1  2  1  1  0  2
+Paniagua J (L)        0.2  1  1  1  1  0
+
+  Texas                IP  H  R ER BB SO
+Rogers K              6.2  6  2  2  3  1
+Zimmerman J           1.0  1  1  1  1  1
+Venafro M (W)         0.2  1  1  1  0  0
+Crabtree T (S)        0.2  0  0  0  0  1
+
+E -- Guillen C, Catalanotto F
+DP -- Seattle 2, Texas 1
+LOB -- Seattle 8, Texas 12
+2B -- Greer R 2, Palmeiro R, Catalanotto F
+HR -- Boone B, Bell D, Galarraga A, McLemore M, Velarde R
+SB -- Rodriguez A
+CS -- Porter B
+SH -- Sheldon S
+HBP -- by Garcia F (Rodriguez A), by Garcia F (Galarraga A)
+WP -- Rogers K
+T -- 3:18
+A -- 44306
+     Game of 4/19/2001 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Damon J, lf           5  2  2  4   Curtis C, lf          5  0  3  1   
+Menechino F, 2b       5  2  2  1   Velarde R, 2b         3  1  2  0   
+Giambi J, 1b          4  2  2  2   Rodriguez A, ss       4  1  1  2   
+Saenz O, dh           4  0  2  1   Rodriguez I, dh       5  1  2  0   
+Piatt A, rf           3  0  1  1   Galarraga A, 1b       4  1  0  0   
+Long T, cf            4  0  1  0   Mateo R, rf           5  1  1  0   
+Tejada M, ss          5  1  3  0   Porter B, cf          2  0  1  1   
+Chavez E, 3b          5  1  2  0   Greer R, ph           1  0  0  0   
+Hernandez R, c        4  1  0  0   Mirabelli D, c        4  0  0  0   
+                                   Sheldon S, 3b         2  0  0  0   
+                                   Catalanotto F, ph-3b  1  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     39  9 15  9                        36  5 11  5
+
+Oakland          102 103 020 --  9
+Texas            002 000 030 --  5
+
+  Oakland              IP  H  R ER BB SO
+Zito B (W)            6.0  5  2  2  2 10
+Tam J                 1.0  1  0  0  2  2
+Vizcaino L            0.2  4  3  3  1  1
+Magnante M*           0.0  0  0  0  1  0
+Mathews T (S)         1.1  1  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Rogers K (L)          6.0 11  7  7  1  5
+Johnson J             2.0  4  2  2  2  1
+Brantley J            1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Rodriguez A
+DP -- Oakland 1, Texas 1
+LOB -- Oakland 9, Texas 11
+2B -- Chavez E 2, Saenz O
+3B -- Menechino F
+HR -- Giambi J, Rodriguez A, Damon J, Menechino F
+SB -- Curtis C
+CS -- Porter B, Tejada M
+SF -- Saenz O, Piatt A, Porter B
+HBP -- by Rogers K (Hernandez R)
+WP -- Zito B
+T -- 3:44
+A -- 33311
+     Game of 4/20/2001 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Damon J, lf           5  0  1  0   Greer R, lf           5  1  1  4   
+Menechino F, 2b       3  0  0  0   Catalanotto F, 2b     5  1  2  1   
+Giambi J, 1b          5  2  3  2   Rodriguez A, ss       4  1  1  1   
+Saenz O, dh           2  0  0  0   Palmeiro R, 1b        5  0  1  0   
+Valdez M, ph          2  0  0  0   Rodriguez I, c        5  2  2  1   
+Piatt A, rf           4  1  1  0   Galarraga A, dh       2  1  1  0   
+Long T, cf            4  1  3  3   Caminiti K, 3b        3  1  1  1   
+Tejada M, ss          4  0  0  0   Sheldon S, 3b         0  0  0  0   
+Chavez E, 3b          3  1  0  0   Curtis C, cf          4  1  2  1   
+Hernandez R, c        4  1  1  0   Mateo R, rf           3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  6  9  5                        36  9 12  9
+
+Oakland          100 102 002 --  6
+Texas            120 050 01x --  9
+
+  Oakland              IP  H  R ER BB SO
+Heredia G (L)         4.1  9  6  6  3  5
+Guthrie M             2.2  2  2  2  1  2
+Vizcaino L            1.0  1  1  1  0  2
+
+  Texas                IP  H  R ER BB SO
+Oliver D (W)          6.2  6  4  4  2  7
+Petkovsek M*          1.1  1  2  2  0  2
+Venafro M             1.0  2  0  0  0  1
+  * Pitched to 2 batters in 9th
+
+E -- Catalanotto F, Greer R
+DP -- Texas 1
+LOB -- Oakland 7, Texas 8
+2B -- Giambi J, Long T, Curtis C
+3B -- Rodriguez I
+HR -- Giambi J, Rodriguez A, Rodriguez I, Greer R, Long T, Catalanotto F
+SB -- Curtis C
+HBP -- by Heredia G (Galarraga A), by Oliver D (Menechino F), by Petkovsek M (Chavez E)
+T -- 2:59
+A -- 39041
+     Game of 4/21/2001 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Damon J, lf           6  1  3  0   Greer R, lf           3  0  0  1   
+Menechino F, 2b       5  2  2  4   Velarde R, 2b         2  0  1  0   
+Giambi J, 1b          1  0  0  0   Rodriguez A, ss       3  0  1  0   
+Long T, cf            3  0  0  0   Palmeiro R, dh        5  0  0  0   
+Giambi J, rf          5  1  3  1   Rodriguez I, c        5  1  1  1   
+Tejada M, ss          5  1  1  0   Galarraga A, 1b       5  1  1  0   
+Chavez E, 3b          5  1  2  2   Curtis C, cf          1  1  1  1   
+Valdez M, dh          5  0  1  0   Porter B, cf          4  2  2  0   
+Hernandez R, c        4  1  1  0   Mateo R, rf           3  1  1  1   
+                                   Sheldon S, 3b         3  0  3  2   
+                                   Catalanotto F, ph-3b  1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  7 13  7                        35  6 11  6
+
+Oakland          001 300 300 --  7
+Texas            030 101 100 --  6
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          6.0  9  5  5  5  5
+Tam J                 1.0  1  1  1  0  1
+Magnante M            0.2  1  0  0  0  1
+Mecir J               0.1  0  0  0  1  0
+Isringhausen J (S)    1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Glynn R               3.2  6  4  4  6  1
+Mahomes P (L)         3.1  4  3  2  1  5
+Brantley J            1.0  2  0  0  0  1
+Zimmerman J           1.0  1  0  0  0  1
+
+E -- Menechino F, Sheldon S
+DP -- Oakland 1, Texas 1
+LOB -- Oakland 12, Texas 10
+2B -- Damon J 2, Chavez E, Galarraga A, Sheldon S 2, Hernandez R
+HR -- Menechino F 2, Giambi J, Chavez E, Rodriguez I
+SB -- Curtis C
+CS -- Damon J
+SH -- Greer R
+SF -- Greer R
+PB -- Rodriguez I
+T -- 3:18
+A -- 45174
+     Game of 4/22/2001 -- Oakland at Texas (D)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Damon J, lf           4  0  0  0   Greer R, lf           5  0  1  1   
+Valdez M, 1b          1  0  0  0   Velarde R, 2b         4  1  1  0   
+Menechino F, 2b       2  1  1  0   Rodriguez A, ss       4  3  3  0   
+Giambi J, 1b          3  1  2  2   Palmeiro R, 1b        5  1  1  3   
+Piatt A, rf           0  0  0  0   Rodriguez I, c        4  2  2  2   
+Long T, cf            4  0  0  0   Galarraga A, dh       4  2  2  2   
+Giambi J, rf-lf       3  0  0  0   Catalanotto F, 3b     4  1  2  2   
+Tejada M, ss          4  0  1  0   Sheldon S, 3b         0  0  0  0   
+Chavez E, dh          3  0  1  0   Mateo R, rf           3  0  0  0   
+Saenz O, ph           1  0  0  0   Kapler G, cf          3  1  1  0   
+Bellhorn M, 3b        4  0  1  0                                      
+Fasano S, c           4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  6  2                        36 11 13 10
+
+Oakland          002 000 000 --  2
+Texas            014 011 40x -- 11
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (L)          5.2  8  7  7  4  3
+Mathews T             1.0  5  4  4  1  0
+Vizcaino L            0.1  0  0  0  0  0
+Mecir J               1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Helling R (W)         6.2  6  2  2  3  8
+Venafro M             1.1  0  0  0  0  0
+Dickey R              1.0  0  0  0  0  0
+
+E -- Rodriguez A, Greer R
+DP -- Texas 2
+LOB -- Oakland 8, Texas 6
+2B -- Chavez E, Galarraga A 2, Catalanotto F, Rodriguez A
+HR -- Rodriguez I, Giambi J, Palmeiro R
+SB -- Kapler G
+CS -- Velarde R
+HBP -- by Helling R (Menechino F)
+WP -- Hudson T
+T -- 3:15
+A -- 32527
+     Game of 5/1/2001 -- Detroit at Texas (N)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Cedeno R, rf          5  0  1  0   Greer R, lf           4  0  2  0   
+Macias J, 3b          5  0  3  0   Velarde R, 2b         5  0  1  0   
+Higginson B, lf       4  1  1  0   Rodriguez A, ss       5  2  2  2   
+Clark T, 1b           4  1  1  0   Palmeiro R, 1b        5  0  1  0   
+Jackson R, pr-1b      0  1  0  0   Rodriguez I, c        4  0  2  0   
+Palmer D, dh          4  1  1  0   Porter B, pr          0  0  0  0   
+Cruz D, ss            5  1  1  3   Mirabelli D, c        0  0  0  0   
+Encarnacion J, cf     4  1  1  1   Catalanotto F, ph     1  0  0  0   
+Easley D, 2b          3  0  1  1   Galarraga A, dh       4  1  1  0   
+Cardona J, c          3  0  0  0   Caminiti K, 3b        4  0  0  0   
+Fick R, ph            1  0  0  0   Kapler G, cf          3  0  2  1   
+Inge B, c             0  0  0  0   Mateo R, rf           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 10  5                        38  3 11  3
+
+Detroit          010 200 000 3 --  6
+Texas            010 001 010 0 --  3
+
+  Detroit              IP  H  R ER BB SO
+Sparks S              6.1  9  2  2  1  3
+Murray H              0.1  0  0  0  0  1
+Anderson M            0.1  0  0  0  0  0
+Patterson D (W)       2.0  2  1  1  1  0
+Jones T (S)           1.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Rogers K              7.0  8  3  2  4  3
+Brantley J            1.0  0  0  0  0  1
+Zimmerman J (L)       2.0  2  3  3  1  2
+
+E -- Rogers K, Macias J
+DP -- Detroit 2, Texas 2
+LOB -- Detroit 7, Texas 8
+2B -- Kapler G 2, Easley D, Galarraga A, Higginson B
+HR -- Rodriguez A 2, Cruz D
+SH -- Mateo R
+WP -- Rogers K
+T -- 3:01
+A -- 25638
+     Game of 5/2/2001 -- Detroit at Texas (N)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Cedeno R, rf          5  1  2  0   Greer R, lf           3  0  1  1   
+Macias J, 3b          5  1  3  0   Velarde R, 2b         5  0  2  0   
+Halter S, 3b          0  0  0  0   Rodriguez A, ss       5  1  1  0   
+Higginson B, lf       4  2  1  1   Palmeiro R, 1b        4  1  2  2   
+Clark T, 1b           3  2  1  1   Galarraga A, dh       4  0  1  0   
+Jackson R, pr-1b      0  0  0  0   Kapler G, cf          4  1  1  1   
+Palmer D, dh          5  0  1  2   Caminiti K, 3b        4  0  1  0   
+Cruz D, ss            5  2  2  1   Curtis C, rf          2  0  0  0   
+Encarnacion J, cf     4  0  2  2   Porter B, rf          2  0  0  0   
+Easley D, 2b          5  0  2  1   Mirabelli D, c        1  0  0  0   
+Inge B, c             4  0  0  0   Catalanotto F, ph     1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     40  8 14  8                        35  4 10  4
+
+Detroit          430 000 100 --  8
+Texas            012 000 001 --  4
+
+  Detroit              IP  H  R ER BB SO
+Holt C (W)*           6.0  6  3  3  5  3
+Anderson M (S)        3.0  4  1  1  0  2
+
+  Texas                IP  H  R ER BB SO
+Oliver D (L)          2.1  8  7  6  1  2
+Dickey R              4.1  4  1  1  1  2
+Petkovsek M           2.1  2  0  0  1  0
+  * Pitched to 1 batter in 7th
+
+E -- Rodriguez A, Mirabelli D
+DP -- Detroit 2
+LOB -- Detroit 9, Texas 9
+2B -- Encarnacion J 2, Palmer D, Easley D, Rodriguez A, Galarraga A, Palmeiro R, Cruz D, Caminiti K, Greer R
+3B -- Catalanotto F
+HR -- Kapler G, Palmeiro R
+SB -- Cedeno R, Higginson B
+CS -- Cedeno R
+WP -- Dickey R, Anderson M
+PB -- Inge B
+T -- 3:00
+A -- 33825
+     Game of 5/3/2001 -- Detroit at Texas (D)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Cedeno R, rf          5  2  3  3   Greer R, lf           4  1  1  0   
+Macias J, 3b          5  0  1  0   Kapler G, cf          4  2  2  0   
+Halter S, 3b          0  0  0  0   Rodriguez A, ss       4  0  1  1   
+Higginson B, lf       5  0  1  0   Palmeiro R, dh        3  0  1  2   
+Clark T, 1b           2  1  0  0   Galarraga A, 1b       4  0  1  0   
+Jackson R, 1b         1  0  0  0   Catalanotto F, 2b     3  0  0  0   
+Palmer D, dh          5  2  2  3   Sheldon S, ph         1  0  0  0   
+Cruz D, ss            5  1  2  1   Caminiti K, 3b        3  0  0  0   
+Encarnacion J, cf     2  2  1  2   Porter B, rf          4  0  0  0   
+Easley D, 2b          4  1  1  0   Mirabelli D, c        4  1  1  1   
+Inge B, c             4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  9 12  9                        34  4  7  4
+
+Detroit          500 010 030 --  9
+Texas            201 100 000 --  4
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (W)          8.0  7  4  4  1  9
+Nitkowski C           1.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Helling R (L)         7.0  9  6  6  3  2
+Brantley J            0.2  3  3  3  1  1
+Venafro M             1.1  0  0  0  0  1
+
+E -- Rodriguez A, Helling R
+DP -- Texas 1
+LOB -- Detroit 6, Texas 5
+2B -- Palmeiro R, Kapler G, Cruz D
+3B -- Cruz D
+HR -- Palmer D, Encarnacion J, Mirabelli D, Cedeno R
+SB -- Higginson B
+HBP -- by Nitkowski C (Caminiti K)
+WP -- Mlicki D 2
+T -- 2:48
+A -- 34051
+     Game of 5/5/2001 -- Chicago at Texas (N)
+
+  Chicago            AB  R  H RBI    Texas              AB  R  H RBI
+Durham R, 2b          4  0  3  0   Greer R, lf           4  1  1  1   
+Clayton R, ss         3  0  0  0   Velarde R, 2b         2  0  2  0   
+Ordonez M, ph         1  0  0  0   Rodriguez A, ss       3  0  1  1   
+Valentin J, 3b        4  0  0  0   Palmeiro R, dh        4  0  0  0   
+Konerko P, 1b         3  0  0  0   Galarraga A, 1b       4  0  0  0   
+Lee C, lf             3  0  0  0   Kapler G, cf          4  0  1  0   
+Baines H, dh          3  0  0  0   Caminiti K, 3b        4  0  0  0   
+Alomar S, c           3  0  0  0   Mateo R, rf           2  1  1  0   
+Singleton C, rf       3  0  1  0   Mirabelli D, c        2  0  0  0   
+Ramirez J, cf         2  0  0  0                                      
+Graffanino T, ph      1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        29  2  6  2
+
+Chicago          000 000 000 --  0
+Texas            000 010 10x --  2
+
+  Chicago              IP  H  R ER BB SO
+Biddle R (L)*         6.0  4  2  2  3  2
+Glover G              0.2  2  0  0  0  1
+Wunsch K              0.1  0  0  0  0  0
+Barcelo L             1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Glynn R (W)           8.0  3  0  0  0  3
+Zimmerman J (S)       1.0  2  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+DP -- Texas 1
+LOB -- Chicago 3, Texas 8
+2B -- Mateo R, Greer R
+SB -- Graffanino T
+CS -- Singleton C
+HBP -- by Biddle R (Rodriguez A), by Biddle R (Mateo R)
+T -- 2:28
+A -- 47674
+     Game of 5/6/2001 -- Chicago at Texas (D)
+
+  Chicago            AB  R  H RBI    Texas              AB  R  H RBI
+Durham R, 2b          4  2  2  1   Greer R, lf           4  0  0  0   
+Singleton C, pr-cf    0  1  0  0   Velarde R, 2b         4  1  1  0   
+Valentin J, 3b-cf-3b  5  2  2  1   Rodriguez A, ss       4  3  2  2   
+Ordonez M, rf         4  2  1  3   Palmeiro R, 1b        3  0  0  0   
+Konerko P, 1b         4  1  1  3   Galarraga A, dh       4  0  1  1   
+Lee C, lf             5  0  2  0   Kapler G, cf          4  0  1  0   
+Perry H, dh           5  0  2  1   Caminiti K, 3b        4  0  0  0   
+Clayton R, ss         2  1  0  0   Mateo R, rf           3  1  3  0   
+Paul J, c             5  0  1  0   Catalanotto F, ph     1  0  0  0   
+Ramirez J, cf         2  0  0  0   Hubbard M, c          3  0  1  0   
+Graffanino, ph-3b-2b  2  1  1  0   Sierra R, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38 10 12  9                        35  5  9  3
+
+Chicago          200 001 403 -- 10
+Texas            210 001 010 --  5
+
+  Chicago              IP  H  R ER BB SO
+Wells D (W)           7.0  8  4  2  0  2
+Howry B               0.1  1  1  1  1  0
+Foulke K (S)          1.2  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Rogers K (L)          6.1  7  6  6  2  3
+Petkovsek M           1.2  2  1  0  0  0
+Mahomes P             1.0  3  3  3  2  2
+
+E -- Paul J, Clayton R, Lee C, Palmeiro R 2, Caminiti K
+DP -- Chicago 1
+LOB -- Chicago 7, Texas 4
+2B -- Valentin J, Rodriguez A, Galarraga A, Ordonez M, Durham R, Konerko P
+HR -- Rodriguez A
+SB -- Perry H, Lee C 2, Velarde R, Ordonez M
+SF -- Konerko P
+HBP -- by Rogers K (Durham R)
+WP -- Wells D, Foulke K, Mahomes P
+PB -- Paul J
+T -- 3:05
+A -- 34871
+     Game of 5/7/2001 -- Chicago at Texas (D)
+
+  Chicago            AB  R  H RBI    Texas              AB  R  H RBI
+Graffanino T, 2b      4  0  1  0   Greer R, lf           3  0  2  0   
+Valentin J, 3b        4  0  0  0   Velarde R, 2b         4  1  0  0   
+Ordonez M, rf         3  2  1  0   Rodriguez A, ss       4  0  0  0   
+Konerko P, 1b         3  2  1  2   Palmeiro R, 1b        4  2  3  1   
+Lee C, lf             4  2  3  3   Galarraga A, dh       3  0  0  0   
+Ramirez J, cf         0  0  0  0   Kapler G, cf          5  0  3  2   
+Perry H, dh           3  1  1  0   Catalanotto F, rf     5  1  1  0   
+Alomar S, c           3  0  0  0   Caminiti K, 3b        3  0  1  1   
+Singleton C, cf-lf    4  0  1  2   Mirabelli D, c        3  0  0  0   
+Clayton R, ss         4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  7  9  7                        34  4 10  4
+
+Chicago          200 230 000 --  7
+Texas            201 000 010 --  4
+
+  Chicago              IP  H  R ER BB SO
+Garland J (W)         5.0  7  3  3  2  3
+Wells K               0.2  1  0  0  2  0
+Barcelo L             1.2  1  1  1  2  1
+Wunsch K*             0.0  0  0  0  1  0
+Foulke K (S)          1.2  1  0  0  2  1
+
+  Texas                IP  H  R ER BB SO
+Oliver D+             0.0  1  1  1  0  0
+Dickey R (L)          4.2  7  6  6  4  2
+Mahomes P             3.1  0  0  0  0  1
+Brantley J            1.0  1  0  0  0  0
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 1st
+
+DP -- Chicago 2, Texas 1
+LOB -- Chicago 2, Texas 13
+2B -- Lee C 2, Singleton C, Kapler G
+3B -- Catalanotto F
+HR -- Palmeiro R, Konerko P, Lee C
+SB -- Ordonez M
+CS -- Ordonez M, Perry H, Clayton R
+SF -- Caminiti K
+WP -- Garland J
+T -- 3:20
+A -- 30073
+     Game of 5/15/2001 -- Cleveland at Texas (N)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Lofton K, cf          4  0  1  0   Greer R, lf           5  1  1  0   
+Branyan R, pr-3b      0  1  0  0   Velarde R, 2b         3  1  2  0   
+Vizquel O, ss         4  0  2  0   Rodriguez A, ss       4  0  2  1   
+Alomar R, 2b          4  0  1  2   Palmeiro R, 1b        5  0  1  1   
+Gonzalez J, rf        5  0  1  0   Galarraga A, dh       4  0  0  0   
+Burks E, dh           3  0  0  0   Kapler G, cf          3  1  0  0   
+Thome J, ph           2  1  1  1   Caminiti K, 3b        4  1  1  0   
+Cordova M, lf         4  2  2  0   Mateo R, rf           4  0  1  1   
+Cordero W, 1b         5  2  3  0   Mirabelli D, c        2  0  0  0   
+Diaz E, c             3  2  3  1   Sierra R, ph          1  1  1  2   
+Cabrera J, 3b-cf      4  0  2  4   Hubbard M, c          0  0  0  0   
+                                   Catalanotto F, ph     1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 16  8                        36  6 10  5
+
+Cleveland        030 300 110 --  8
+Texas            200 102 001 --  6
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        5.0  6  3  3  3  5
+Reed S                0.2  2  2  2  0  1
+Rodriguez R           0.1  0  0  0  0  0
+Karsay S              2.0  0  0  0  1  3
+Wickman B (S)         1.0  2  1  1  0  1
+
+  Texas                IP  H  R ER BB SO
+Davis D (L)           3.1  8  6  6  2  1
+Petkovsek M           3.2  4  1  1  0  0
+Brantley J            2.0  4  1  1  1  1
+
+DP -- Cleveland 1, Texas 3
+LOB -- Cleveland 8, Texas 7
+2B -- Diaz E
+3B -- Cabrera J
+HR -- Sierra R, Thome J
+SB -- Velarde R, Vizquel O
+SH -- Lofton K
+SF -- Alomar R
+WP -- Sabathia C
+T -- 3:11
+A -- 39348
+     Game of 5/16/2001 -- Cleveland at Texas (N)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Cabrera J, cf         5  0  1  1   Greer R, lf           3  0  0  0   
+Vizquel O, ss         4  1  1  0   Velarde R, 2b         4  0  0  0   
+Alomar R, 2b          4  0  1  1   Rodriguez A, ss       4  3  3  1   
+Gonzalez J, rf        4  0  2  0   Palmeiro R, 1b        4  0  1  0   
+Thome J, dh           3  0  1  0   Sierra R, dh          3  0  1  2   
+Cordova M, lf         4  1  2  0   Kapler G, cf          4  0  1  0   
+Cordero W, 1b         4  1  1  2   Catalanotto F, rf     3  0  0  0   
+Branyan R, 3b         4  1  1  0   Mateo R, rf           1  0  0  0   
+Diaz E, c             3  0  1  0   Caminiti K, 3b        4  0  0  0   
+                                   Mirabelli D, c        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 11  4                        32  3  6  3
+
+Cleveland        000 001 003 --  4
+Texas            100 101 000 --  3
+
+  Cleveland            IP  H  R ER BB SO
+Colon B               7.1  5  3  3  2 10
+Shuey P (W)           0.2  0  0  0  0  0
+Wickman B (S)         1.0  1  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Glynn R*              3.0  3  0  0  2  1
+Mahomes P             3.2  4  1  1  0  2
+Venafro M             0.1  0  0  0  0  0
+Zimmerman J           1.0  0  0  0  0  1
+Crabtree T (L)        1.0  4  3  3  0  1
+  * Pitched to 1 batter in 4th
+
+E -- Branyan R, Velarde R
+DP -- Cleveland 1, Texas 1
+LOB -- Cleveland 7, Texas 5
+2B -- Rodriguez A, Vizquel O, Kapler G
+3B -- Rodriguez A
+HR -- Rodriguez A, Cordero W
+CS -- Cabrera J
+SH -- Diaz E
+SF -- Sierra R
+WP -- Glynn R
+T -- 3:16
+A -- 33695
+     Game of 5/17/2001 -- Cleveland at Texas (D)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Cabrera J, cf-ss      5  1  1  0   Greer R, lf           4  2  2  2   
+Vizquel O, ss         2  1  1  0   Velarde R, 2b         5  1  2  1   
+Cruz J, cf            3  1  1  0   Rodriguez A, ss       5  2  3  3   
+Alomar R, 2b          2  0  1  2   Palmeiro R, dh        5  1  2  2   
+Branyan R, 3b         2  2  1  2   Rodriguez I, c        4  1  1  1   
+Gonzalez J, dh        5  1  2  2   Galarraga A, 1b       4  1  0  0   
+Cordova M, rf         4  0  1  0   Kapler G, cf          3  2  2  1   
+Cordero W, lf         5  1  2  0   Mateo R, rf           4  1  2  0   
+Thome J, 1b           3  0  1  1   Sheldon S, 3b         4  1  2  2   
+Lewis M, 3b-2b        4  0  0  0                                      
+Diaz E, c             4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  7 12  7                        38 12 16 12
+
+Cleveland        002 120 200 --  7
+Texas            2(10)0 000 00x -- 12
+
+  Cleveland            IP  H  R ER BB SO
+Finley C (L)*         1.0  9  8  8  0  2
+Speier J              4.2  6  4  4  1  1
+Baez D                2.1  1  0  0  1  2
+
+  Texas                IP  H  R ER BB SO
+Rogers K (W)+         6.0 10  7  7  2  3
+Brantley J            1.0  2  0  0  1  1
+Moreno J              1.0  0  0  0  0  0
+Smart J               1.0  0  0  0  0  0
+  * Pitched to 6 batters in 2nd
+  + Pitched to 2 batters in 7th
+
+E -- Cabrera J
+LOB -- Cleveland 8, Texas 8
+2B -- Greer R, Palmeiro R, Kapler G, Cabrera J, Alomar R, Cordero W 2, Velarde R
+HR -- Rodriguez A, Palmeiro R, Gonzalez J, Branyan R
+SF -- Rodriguez I, Greer R
+HBP -- by Speier J (Galarraga A), by Speier J (Mateo R)
+WP -- Rogers K
+T -- 3:06
+A -- 37191
+     Game of 5/18/2001 -- Toronto at Texas (N)
+
+  Toronto            AB  R  H RBI    Texas              AB  R  H RBI
+Stewart S, lf         5  1  1  3   Greer R, lf           4  0  1  0   
+Gonzalez A, ss        4  2  2  3   Velarde R, 2b         4  1  1  0   
+Delgado C, 1b         5  0  2  1   Rodriguez A, ss       3  0  0  0   
+Mondesi R, rf         5  0  0  1   Palmeiro R, 1b        4  1  1  1   
+Fullmer B, dh         4  0  0  0   Rodriguez I, c        4  0  0  0   
+Batista T, 3b         3  1  0  0   Kapler G, cf          3  1  1  1   
+Wells V, cf           4  2  2  0   Galarraga A, dh       3  0  0  0   
+Bush H, 2b            4  2  3  1   Caminiti K, 3b        3  0  1  1   
+Castillo A, c         3  1  1  0   Mateo R, rf           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  9 11  9                        31  3  5  3
+
+Toronto          003 400 110 --  9
+Texas            010 100 100 --  3
+
+  Toronto              IP  H  R ER BB SO
+Carpenter C (W)       7.0  5  3  3  1  4
+Plesac D              1.0  0  0  0  0  1
+Koch B                1.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Myette A (L)          3.2  6  7  7  2  1
+Smart J               2.1  1  0  0  0  1
+Venafro M             1.0  2  1  1  0  0
+Crabtree T            2.0  2  1  1  0  1
+
+DP -- Toronto 1, Texas 1
+LOB -- Toronto 4, Texas 3
+2B -- Wells V, Stewart S, Bush H, Gonzalez A, Palmeiro R
+3B -- Velarde R
+HR -- Kapler G, Gonzalez A, Bush H
+HBP -- by Myette A (Castillo A), by Carpenter C (Rodriguez A)
+T -- 2:35
+A -- 35368
+     Game of 5/19/2001 -- Toronto at Texas (N)
+
+  Toronto            AB  R  H RBI    Texas              AB  R  H RBI
+Stewart S, lf         4  1  2  0   Greer R, lf           3  1  1  0   
+Gonzalez A, ss        5  0  2  2   Velarde R, 2b         4  1  2  0   
+Delgado C, 1b         4  0  1  0   Rodriguez A, ss       4  2  2  2   
+Mondesi R, rf         3  1  0  0   Palmeiro R, 1b        4  1  2  0   
+Fullmer B, dh         5  2  2  1   Rodriguez I, c        4  0  1  2   
+Batista T, 3b         5  0  2  2   Kapler G, cf          4  0  0  0   
+Fletcher D, c         3  0  0  0   Galarraga A, dh       4  0  0  0   
+Simmons B, ph         1  0  1  0   Caminiti K, 3b        3  0  1  0   
+Castillo A, c         0  0  0  0   Mateo R, rf           3  0  0  0   
+Wells V, cf           5  1  1  0                                      
+Bush H, 2b            3  1  2  1                                      
+                     -- -- -- --                        -- -- -- --
+                     38  6 13  6                        33  5  9  4
+
+Toronto          011 021 010 --  6
+Texas            000 401 000 --  5
+
+  Toronto              IP  H  R ER BB SO
+Loaiza E              6.0  8  5  5  1  3
+Quantrill P (W)       1.2  1  0  0  0  1
+Plesac D              0.1  0  0  0  0  1
+Koch B (S)            1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Helling R             6.0  9  5  4  3  1
+Moreno J              1.1  0  0  0  1  0
+Brantley J (L)        0.2  3  1  1  1  0
+Venafro M             0.2  0  0  0  0  0
+Zimmerman J           0.1  1  0  0  0  0
+
+E -- Rodriguez I
+DP -- Toronto 3, Texas 1
+LOB -- Toronto 11, Texas 2
+2B -- Delgado C, Fullmer B, Batista T, Stewart S, Gonzalez A 2, Greer R
+3B -- Fullmer B
+HR -- Rodriguez A
+SB -- Wells V
+CS -- Palmeiro R
+SF -- Bush H
+T -- 2:53
+A -- 48336
+     Game of 5/20/2001 -- Toronto at Texas (D)
+
+  Toronto            AB  R  H RBI    Texas              AB  R  H RBI
+Stewart S, lf         4  0  1  1   Velarde R, 2b         4  0  3  0   
+Gonzalez A, ss        4  0  0  0   Rodriguez I, c        4  0  0  0   
+Delgado C, 1b         4  0  0  0   Rodriguez A, ss       3  0  0  0   
+Mondesi R, rf         3  0  2  0   Palmeiro R, dh        4  1  1  0   
+Fullmer B, dh         4  0  1  0   Kapler G, cf          2  1  1  1   
+Batista T, 3b         3  1  2  0   Galarraga A, 1b       4  0  1  0   
+Fletcher D, c         2  1  1  1   Sierra R, lf          4  1  1  1   
+Woodward C, pr        0  0  0  0   Greer R, lf           0  0  0  0   
+Castillo A, c         0  0  0  0   Caminiti K, 3b        2  0  1  1   
+Wells V, cf           3  0  0  0   Mateo R, rf           2  0  0  0   
+Simmons B, ph         1  0  0  0                                      
+Bush H, 2b            4  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  9  2                        29  3  8  3
+
+Toronto          000 020 000 --  2
+Texas            020 100 00x --  3
+
+  Toronto              IP  H  R ER BB SO
+Michalak C (L)        5.0  7  3  2  2  3
+File B                2.0  1  0  0  2  1
+Escobar K             1.0  0  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Mahomes P (W)         5.0  6  2  2  1  2
+Moreno J*             1.0  1  0  0  1  1
+Petkovsek M           1.1  1  0  0  0  2
+Venafro M             0.1  0  0  0  0  1
+Zimmerman J (S)       1.1  1  0  0  0  2
+  * Pitched to 1 batter in 7th
+
+E -- Michalak C
+DP -- Toronto 2, Texas 1
+LOB -- Toronto 7, Texas 7
+2B -- Palmeiro R, Batista T, Fletcher D, Fullmer B
+HR -- Kapler G
+SB -- Kapler G 2
+CS -- Woodward C
+SH -- Castillo A
+HBP -- by Zimmerman J (Batista T)
+T -- 2:58
+A -- 33272
+     Game of 5/29/2001 -- Kansas City at Texas (N)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Beltran C, dh         4  0  0  0   Greer R, lf           3  1  0  0   
+Sanchez R, ss         4  0  1  0   Rodriguez I, c        4  1  0  0   
+Sweeney M, 1b         4  1  1  0   Rodriguez A, ss       2  2  0  0   
+Dye J, rf             3  0  2  0   Palmeiro R, 1b        2  2  2  4   
+Brown D, lf           4  0  0  1   Kapler G, cf          4  1  2  2   
+Randa J, 3b           4  1  1  0   Catalanotto F, rf     3  0  0  0   
+Delgado W, 2b         2  0  0  0   Galarraga A, dh       2  0  1  1   
+Alicea L, ph-2b       2  0  1  0   Caminiti K, 3b        4  1  1  0   
+Ortiz H, c            2  0  1  0   Young M, 2b           3  0  1  1   
+Ibanez R, ph          1  0  0  0                                      
+Chavez E, cf          4  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        27  8  7  8
+
+Kansas City      000 100 100 --  2
+Texas            200 024 00x --  8
+
+  Kansas City          IP  H  R ER BB SO
+Suzuki M (L)          4.0  2  2  2  5  4
+Henry D               1.1  4  4  4  1  1
+Bailey C              2.2  1  2  2  3  2
+
+  Texas                IP  H  R ER BB SO
+Helling R (W)         7.0  7  2  2  0  5
+Petkovsek M           1.0  0  0  0  1  1
+Judd M                1.0  1  0  0  0  1
+
+DP -- Kansas City 1
+LOB -- Kansas City 7, Texas 7
+2B -- Dye J 2, Galarraga A, Randa J
+3B -- Caminiti K
+HR -- Palmeiro R 2
+CS -- Ortiz H, Rodriguez A
+SF -- Young M
+HBP -- by Suzuki M (Catalanotto F), by Suzuki M (Galarraga A), by Helling R (Ortiz H)
+T -- 3:02
+A -- 28606
+     Game of 5/30/2001 -- Kansas City at Texas (N)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Beltran C, cf         6  1  3  3   Greer R, lf           3  0  2  0   
+Sanchez R, ss         4  1  1  0   Brumbaugh C, lf       2  0  0  0   
+Delgado W, ph-ss      2  0  0  0   Rodriguez I, c        2  0  1  0   
+Sweeney M, 1b         5  1  2  0   Mirabelli D, c        2  0  0  0   
+Dye J, rf             3  1  3  1   Rodriguez A, ss       3  0  0  0   
+Ibanez R, rf          1  0  0  0   Sheldon S, ss         2  0  0  0   
+Randa J, 3b           5  1  1  1   Palmeiro R, 1b        3  0  0  0   
+Brown D, dh           5  1  2  3   Sierra R, rf          0  0  0  0   
+Alicea L, 2b          4  2  2  0   Kapler G, cf          2  1  1  0   
+Ortiz H, c            5  2  2  1   Catalanotto F, rf-1b  3  0  2  0   
+Chavez E, lf          4  1  3  2   Galarraga A, dh       4  0  1  0   
+                                   Caminiti K, 3b        3  1  2  2   
+                                   Young M, 2b           4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     44 11 19 11                        33  2  9  2
+
+Kansas City      614 000 000 -- 11
+Texas            010 010 000 --  2
+
+  Kansas City          IP  H  R ER BB SO
+Reichert D (W)        7.1  9  2  2  6  3
+Grimsley J            1.2  0  0  0  0  3
+
+  Texas                IP  H  R ER BB SO
+Mahomes P (L)*        1.0  8  7  7  0  0
+Judd M                2.0  5  4  4  1  0
+Myette A              5.0  5  0  0  1  2
+Crabtree T            1.0  1  0  0  1  1
+  * Pitched to 2 batters in 2nd
+
+E -- Caminiti K
+DP -- Kansas City 3, Texas 3
+LOB -- Kansas City 9, Texas 10
+2B -- Randa J, Chavez E, Greer R, Sweeney M
+3B -- Alicea L
+HR -- Brown D, Beltran C, Caminiti K
+WP -- Mahomes P
+PB -- Ortiz H
+T -- 3:01
+A -- 31290
+     Game of 5/31/2001 -- Kansas City at Texas (D)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Beltran C, cf         5  0  0  0   Greer R, lf           3  0  0  0   
+Chavez E, cf          0  0  0  0   Rodriguez I, c        3  0  1  0   
+Sanchez R, ss         5  3  4  0   Rodriguez A, ss       4  1  1  0   
+Sweeney M, dh         4  2  2  1   Palmeiro R, dh        2  0  0  0   
+Dye J, rf             4  0  3  2   Kapler G, cf          2  1  0  1   
+Randa J, 3b           2  1  1  1   Catalanotto F, rf     4  0  2  1   
+Delgado W, 3b         0  0  0  0   Galarraga A, 1b       4  0  1  0   
+McCarty D, 1b         4  1  1  2   Caminiti K, 3b        4  0  0  0   
+Brown D, lf           4  0  1  0   Young M, 2b           4  0  1  0   
+Hinch A, c            5  0  1  2                                      
+Alicea L, 2b          5  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  8 15  8                        30  2  6  2
+
+Kansas City      000 030 410 --  8
+Texas            000 101 000 --  2
+
+  Kansas City          IP  H  R ER BB SO
+Stein B (W)*          5.0  3  2  2  6  4
+Wilson K (S)          4.0  3  0  0  0  4
+
+  Texas                IP  H  R ER BB SO
+Davis D (L)           4.1  8  3  3  3  1
+Petkovsek M           2.0  3  4  4  3  1
+Smart J               0.2  1  0  0  0  2
+Crabtree T            2.0  3  1  1  0  3
+  * Pitched to 2 batters in 6th
+
+E -- Rodriguez A
+DP -- Kansas City 1, Texas 2
+LOB -- Kansas City 10, Texas 8
+2B -- Young M, Rodriguez A, McCarty D, Hinch A, Rodriguez I, Sanchez R
+SB -- Rodriguez I, Kapler G, Sweeney M
+CS -- Dye J, Catalanotto F
+SH -- Dye J
+SF -- Kapler G
+WP -- Davis D 2, Petkovsek M, Stein B
+T -- 3:06
+A -- 31472
+     Game of 6/1/2001 -- Minnesota at Texas (N)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Guzman C, ss          5  2  1  0   Greer R, lf           5  1  1  1   
+Hocking D, 2b         4  2  1  0   Rodriguez I, c        4  1  2  2   
+Mientkiewicz D, 1b    3  1  1  2   Rodriguez A, ss       4  1  2  1   
+Hunter T, cf          5  1  3  2   Palmeiro R, 1b        4  0  0  0   
+Koskie C, 3b          4  1  1  1   Kapler G, cf          4  0  0  0   
+Allen C, rf           4  1  0  0   Galarraga A, dh       3  1  1  0   
+Jones J, lf           4  1  1  1   Caminiti K, 3b        3  0  0  0   
+Buchanan B, dh        4  1  1  2   Brumbaugh C, rf       1  1  0  0   
+Pierzynski A, c       4  0  3  2   Sierra R, ph-rf       2  1  1  1   
+                                   Young M, 2b           2  1  0  0   
+                                   Catalanotto F, ph     0  0  0  0   
+                                   Sheldon S, ph         0  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     37 10 12 10                        32  7  7  6
+
+Minnesota        500 050 000 -- 10
+Texas            200 030 101 --  7
+
+  Minnesota            IP  H  R ER BB SO
+Santana J*            4.0  6  5  5  2  4
+Cressend J (W)+       4.0  1  2  2  1  1
+Hawkins L             0.1  0  0  0  1  0
+Guardado E (S)        0.2  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Glynn R (L)           0.2  5  5  5  2  1
+Judd M                3.1  2  0  0  1  2
+Mahomes P             0.2  1  5  5  4  0
+Venafro M             2.1  2  0  0  1  3
+Moreno J              1.0  0  0  0  0  1
+Zimmerman J           1.0  2  0  0  0  0
+  * Pitched to 4 batters in 5th
+  + Pitched to 1 batter in 9th
+
+DP -- Minnesota 1, Texas 1
+LOB -- Minnesota 9, Texas 3
+2B -- Pierzynski A
+HR -- Rodriguez I, Rodriguez A, Sierra R
+SF -- Pierzynski A, Sheldon S
+WP -- Santana J
+T -- 3:05
+A -- 37617
+     Game of 6/2/2001 -- Minnesota at Texas (N)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Guzman C, ss          4  0  1  0   Greer R, lf           5  0  0  0   
+Hocking D, 2b         5  0  2  0   Rodriguez I, c        5  1  2  1   
+Mientkiewicz D, 1b    4  0  1  0   Rodriguez A, ss       4  1  3  0   
+Hunter T, cf          5  0  0  0   Palmeiro R, 1b        3  0  0  0   
+Lawton M, rf          4  1  0  0   Kapler G, cf          5  0  0  0   
+Allen C, lf           4  0  2  0   Catalanotto F, rf     2  1  0  0   
+Koskie C, 3b          3  0  0  1   Caminiti K, ph-3b     1  0  0  0   
+Buchanan B, dh        3  1  1  1   Sierra R, dh          4  0  2  1   
+Pierzynski A, c       4  0  1  0   Sheldon S, 3b-rf      3  0  1  0   
+                                   Young M, 2b           3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     36  2  8  2                        35  3  9  3
+
+Minnesota        020 000 000 0 --  2
+Texas            100 010 000 1 --  3
+  2 outs when winning run was scored.
+
+  Minnesota            IP  H  R ER BB SO
+Radke B               7.0  5  2  2  3  1
+Carrasco H*           0.0  1  0  0  1  0
+Miller T              2.0  1  0  0  0  1
+Hawkins L (L)         0.2  2  1  1  2  0
+
+  Texas                IP  H  R ER BB SO
+Rogers K              6.0  7  2  0  2  4
+Moreno J              2.1  0  0  0  0  4
+Zimmerman J (W)       1.2  1  0  0  0  2
+  * Pitched to 2 batters in 8th
+
+E -- Sheldon S
+DP -- Minnesota 1, Texas 2
+LOB -- Minnesota 8, Texas 11
+2B -- Guzman C, Allen C 2, Pierzynski A, Sheldon S
+HR -- Rodriguez I, Buchanan B
+SH -- Sheldon S
+SF -- Koskie C, Young M
+HBP -- by Rogers K (Mientkiewicz D)
+T -- 3:17
+A -- 46098
+     Game of 6/3/2001 -- Minnesota at Texas (D)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Jones J, lf           5  0  1  0   Greer R, lf           4  0  0  0   
+Guzman C, ss          5  1  3  1   Young M, 2b           3  0  0  0   
+Mientkiewicz D, 1b    5  0  1  0   Catalanotto F, ph-2b  1  0  0  0   
+Koskie C, 3b          4  0  0  0   Rodriguez A, ss       4  2  2  0   
+Hunter T, cf          4  1  1  1   Kapler G, cf          4  1  2  3   
+Lawton M, rf          5  2  4  1   Galarraga A, 1b       3  0  0  0   
+Allen C, dh           1  1  1  0   Caminiti K, 3b        4  0  1  0   
+Hocking D, ph         3  0  0  0   Sierra R, dh          4  0  1  0   
+Maxwell J, 2b         4  1  3  2   Brumbaugh C, rf       3  0  0  0   
+Prince T, c           4  0  1  1   Palmeiro R, ph        1  0  0  0   
+                                   Mirabelli D, c        3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  6 15  6                        34  3  6  3
+
+Minnesota        031 000 101 --  6
+Texas            102 000 000 --  3
+
+  Minnesota            IP  H  R ER BB SO
+Milton E (W)          7.0  6  3  3  0  7
+Wells B               1.2  0  0  0  0  1
+Guardado E (S)        0.1  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Helling R (L)         7.0 13  5  3  2  5
+Crabtree T*           1.0  1  1  1  0  0
+Venafro M             0.2  0  0  0  0  1
+Petkovsek M           0.1  1  0  0  1  1
+  * Pitched to 1 batter in 9th
+
+E -- Galarraga A, Guzman C
+DP -- Texas 1
+LOB -- Minnesota 10, Texas 5
+2B -- Kapler G, Allen C, Lawton M, Maxwell J, Mientkiewicz D, Sierra R, Guzman C
+HR -- Kapler G, Hunter T
+CS -- Guzman C
+HBP -- by Wells B (Galarraga A)
+WP -- Helling R 2
+T -- 3:02
+A -- 29649
+     Game of 6/8/2001 -- Houston at Texas (N)
+
+  Houston            AB  R  H RBI    Texas              AB  R  H RBI
+Biggio C, 2b          5  0  1  1   Greer R, lf           6  2  2  2   
+Vizcaino J, ss        5  1  2  0   Rodriguez I, c        5  1  1  1   
+Bagwell J, 1b         5  0  0  0   Rodriguez A, ss       3  0  2  1   
+Berkman L, lf         4  1  1  0   Palmeiro R, 1b        4  0  0  0   
+Alou M, dh            5  1  3  1   Kapler G, cf          5  0  0  0   
+Hidalgo R, rf-cf      4  0  3  2   Catalanotto F, rf     5  0  2  0   
+Castilla V, 3b        4  0  0  0   Sierra R, dh          4  0  0  0   
+Barker G, cf          2  1  0  0   Caminiti K, 3b        3  1  0  0   
+Merced O, ph-rf       1  0  1  0   Sheldon S, pr         0  0  0  0   
+Lugo J, ph-rf         1  0  0  0   Young M, 2b           3  0  0  0   
+Ausmus B, c           4  1  0  0   Galarraga A, ph       1  0  1  0   
+                                   Brumbaugh C, pr       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  5 11  4                        39  4  8  4
+
+Houston          000 200 200 01 --  5
+Texas            100 030 000 00 --  4
+
+  Houston              IP  H  R ER BB SO
+Oswalt R              5.0  7  4  4  3  4
+Cruz N                2.0  0  0  0  0  0
+Powell J              2.0  0  0  0  1  0
+Dotel O (W)           1.2  1  0  0  1  2
+Jackson M (S)         0.1  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Rogers K*             6.0  5  4  4  2  4
+Petkovsek M           2.0  2  0  0  0  1
+Zimmerman J           2.0  2  0  0  0  3
+Crabtree T (L)+       0.0  2  1  1  1  0
+Venafro M             1.0  0  0  0  0  0
+  * Pitched to 2 batters in 7th
+  + Pitched to 3 batters in 11th
+
+DP -- Houston 1, Texas 4
+LOB -- Houston 7, Texas 9
+2B -- Rodriguez A 2, Berkman L
+HR -- Greer R, Rodriguez I, Alou M
+CS -- Vizcaino J
+SH -- Young M
+HBP -- by Rogers K (Berkman L), by Rogers K (Barker G), by Cruz N (Rodriguez A)
+WP -- Rogers K
+T -- 3:35
+A -- 47120
+     Game of 6/9/2001 -- Houston at Texas (N)
+
+  Houston            AB  R  H RBI    Texas              AB  R  H RBI
+Biggio C, 2b          3  1  1  1   Greer R, lf           4  2  1  0   
+Lugo J, ss            1  0  1  0   Brumbaugh C, lf       0  0  0  0   
+Vizcaino J, ss-2b     4  1  1  0   Rodriguez I, c        5  2  2  5   
+Bagwell J, 1b         3  0  1  0   Mirabelli D, c        0  0  0  0   
+Merced O, 3b          2  0  0  0   Rodriguez A, ss       3  2  2  1   
+Berkman L, lf         3  0  1  1   Sheldon S, ph-ss      1  0  0  0   
+Alou M, dh            3  1  3  1   Palmeiro R, 1b        3  2  2  1   
+Hidalgo R, cf         4  0  1  0   Kapler G, cf          5  2  1  2   
+Barker G, pr-cf       1  1  0  0   Caminiti K, 3b        4  1  1  2   
+Ward D, rf            2  0  0  1   Catalanotto F, rf     5  2  4  2   
+Castilla V, 3b        3  0  0  0   Sierra R, dh          5  3  3  2   
+Hayes C, 1b           1  0  0  0   Young M, 2b           4  0  1  1   
+Ausmus B, c           4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        39 16 17 16
+
+Houston          001 010 020 --  4
+Texas            424 002 04x -- 16
+
+  Houston              IP  H  R ER BB SO
+Bottenfield K (L)     1.2  6  6  6  2  1
+Lima J                3.1  5  4  4  1  0
+Slusarski J           3.0  6  6  6  2  0
+
+  Texas                IP  H  R ER BB SO
+Helling R (W)         7.0  7  2  2  3  7
+Smart J               1.0  2  2  2  0  1
+Moreno J              1.0  0  0  0  3  0
+
+DP -- Houston 1
+LOB -- Houston 11, Texas 5
+2B -- Rodriguez A, Palmeiro R 2, Hidalgo R
+3B -- Sierra R
+HR -- Kapler G, Rodriguez I 2, Biggio C, Alou M, Caminiti K, Sierra R
+SF -- Young M, Berkman L, Ward D
+WP -- Smart J
+T -- 3:01
+A -- 49603
+     Game of 6/10/2001 -- Houston at Texas (N)
+
+  Houston            AB  R  H RBI    Texas              AB  R  H RBI
+Biggio C, 2b          4  0  1  0   Greer R, lf           4  0  0  0   
+Lugo J, ss            4  0  1  0   Rodriguez I, c        5  1  2  1   
+Bagwell J, 1b         3  1  0  0   Rodriguez A, ss       5  1  2  0   
+Berkman L, lf         4  1  1  0   Palmeiro R, dh        3  1  1  0   
+Alou M, dh            4  0  0  0   Kapler G, cf          3  2  3  0   
+Hidalgo R, rf         2  2  1  1   Caminiti K, 3b        4  0  0  0   
+Castilla V, 3b        3  0  1  0   Sierra R, rf          4  0  1  3   
+Merced O, ph          1  1  1  3   Porter B, rf          0  0  0  0   
+Vizcaino J, 3b        0  0  0  0   Galarraga A, 1b       4  0  1  1   
+Eusebio T, c          4  1  1  2   Catalanotto F, 2b     3  0  0  0   
+Barker G, cf          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  6  7  6                        35  5 10  5
+
+Houston          010 020 003 --  6
+Texas            000 200 021 --  5
+
+  Houston              IP  H  R ER BB SO
+Miller W*             7.0  7  3  2  4  4
+Powell J (W)          1.0  2  1  1  0  1
+Jackson M (S)         1.0  1  1  1  0  2
+
+  Texas                IP  H  R ER BB SO
+Davis D               8.0  6  3  3  1  6
+Zimmerman J (L)       1.0  1  3  3  2  3
+  * Pitched to 1 batter in 8th
+
+E -- Miller W
+DP -- Houston 3, Texas 1
+LOB -- Houston 2, Texas 7
+2B -- Berkman L, Sierra R
+HR -- Eusebio T, Merced O, Rodriguez I
+SB -- Bagwell J
+CS -- Barker G 2
+SF -- Hidalgo R
+HBP -- by Davis D (Barker G)
+T -- 3:07
+A -- 41936
+     Game of 6/19/2001 -- Anaheim at Texas (N)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Eckstein D, ss        4  1  1  0   Porter B, lf          3  0  1  0   
+Kennedy A, 2b         4  1  1  2   Catalanotto F, ph-lf  1  0  0  0   
+Erstad D, cf          5  0  2  0   Rodriguez I, c        5  2  3  3   
+Glaus T, 3b           4  1  1  0   Rodriguez A, ss       4  2  2  0   
+Anderson G, lf        5  2  2  2   Palmeiro R, dh        5  1  3  0   
+Salmon T, dh          3  0  2  1   Kapler G, cf          3  0  0  0   
+Barnes L, 1b          2  0  0  0   Galarraga A, 1b       2  1  0  1   
+Gil B, ph-1b          1  0  0  0   Ledee R, rf           4  1  1  2   
+Fabregas J, c         3  0  0  0   Young M, 2b           4  0  0  0   
+Wooten S, ph          0  0  0  0   Lamb M, 3b            4  0  1  1   
+Palmeiro O, pr        0  0  0  0                                      
+Burke J, c            0  0  0  0                                      
+DaVanon J, rf         4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  5 10  5                        35  7 11  7
+
+Anaheim          300 020 000 --  5
+Texas            000 105 01x --  7
+
+  Anaheim              IP  H  R ER BB SO
+Schoeneweis S (L)     5.2  7  6  6  3  9
+Weber B               0.2  2  0  0  1  1
+Holtz M               1.1  0  0  0  0  0
+Pote L                0.1  2  1  1  0  0
+
+  Texas                IP  H  R ER BB SO
+Bell R                4.2  7  5  5  3  3
+Moreno J (W)          1.1  1  0  0  1  1
+Petkovsek M           1.0  0  0  0  1  0
+Venafro M             1.0  1  0  0  0  0
+Zimmerman J (S)       1.0  1  0  0  0  1
+
+E -- Glaus T
+DP -- Texas 2
+LOB -- Anaheim 9, Texas 9
+2B -- Anderson G, Erstad D, Palmeiro R 2, Glaus T
+HR -- Kennedy A, Anderson G, Rodriguez I 2
+SF -- Galarraga A
+HBP -- by Venafro M (Wooten S)
+WP -- Bell R, Schoeneweis S, Moreno J
+Balk -- Moreno J
+T -- 3:20
+A -- 31158
+     Game of 6/20/2001 -- Anaheim at Texas (N)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Eckstein D, dh        5  0  2  1   Catalanotto F, lf     5  0  2  1   
+Kennedy A, 2b         3  1  1  0   Rodriguez I, c        5  0  1  0   
+Erstad D, cf          4  1  1  0   Rodriguez A, ss       4  0  2  1   
+Glaus T, 3b           4  1  1  0   Palmeiro R, 1b        3  0  0  0   
+Anderson G, lf        4  0  1  0   Porter B, pr          0  0  0  0   
+Salmon T, rf          4  0  0  0   Sierra R, dh          5  0  1  0   
+Wooten S, c           5  0  2  1   Kapler G, cf          4  1  1  0   
+Spiezio S, 1b         4  0  2  1   Ledee R, rf           4  0  1  0   
+Gil B, ss             3  1  3  0   Lamb M, 3b            4  1  1  1   
+                                   Young M, 2b           3  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4 13  3                        37  3 11  3
+
+Anaheim          000 210 100 --  4
+Texas            020 000 001 --  3
+
+  Anaheim              IP  H  R ER BB SO
+Ortiz R (W)           7.0  9  2  2  2  0
+Levine A              1.0  1  0  0  0  1
+Percival T (S)        1.0  1  1  0  1  1
+
+  Texas                IP  H  R ER BB SO
+Rogers K (L)          6.2 10  4  4  4  4
+Crabtree T            1.0  2  0  0  0  2
+Moreno J              0.1  0  0  0  1  0
+Mahomes P             1.0  1  0  0  0  2
+
+E -- Ortiz R
+DP -- Anaheim 1, Texas 3
+LOB -- Anaheim 12, Texas 11
+2B -- Catalanotto F, Spiezio S, Kennedy A, Anderson G
+3B -- Gil B
+SB -- Rodriguez A
+CS -- Young M
+SH -- Kennedy A
+HBP -- by Ortiz R (Rodriguez A), by Rogers K (Erstad D)
+WP -- Moreno J
+PB -- Wooten S 2
+T -- 3:03
+A -- 31789
+     Game of 6/21/2001 -- Anaheim at Texas (N)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Eckstein D, ss        5  1  2  1   Catalanotto F, lf     4  0  1  0   
+Kennedy A, dh         4  0  1  1   Porter B, lf          0  0  0  0   
+Erstad D, cf          4  0  1  1   Rodriguez I, c        3  0  0  0   
+Glaus T, 3b           4  0  0  0   Rodriguez A, ss       4  1  2  1   
+Anderson G, lf        4  0  0  0   Palmeiro R, 1b        4  0  0  0   
+Salmon T, rf          3  0  0  0   Sierra R, dh          4  2  3  2   
+Spiezio S, 1b         4  0  1  0   Kapler G, cf          4  1  1  1   
+Fabregas J, c         3  0  0  0   Ledee R, rf           4  0  0  0   
+Palmeiro O, ph        1  1  1  0   Lamb M, 3b            2  0  0  0   
+Gil B, 2b             3  1  2  0   Young M, 2b           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        31  4  7  4
+
+Anaheim          000 020 001 --  3
+Texas            000 022 00x --  4
+
+  Anaheim              IP  H  R ER BB SO
+Wise M (L)            6.0  5  4  4  2  9
+Lukasiewicz M         0.2  1  0  0  1  0
+Weber B               1.0  1  0  0  0  1
+Holtz M               0.1  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Helling R (W)         6.0  6  2  2  4  6
+Venafro M             2.0  0  0  0  0  2
+Zimmerman J (S)       1.0  2  1  1  0  1
+
+E -- Ledee R
+DP -- Anaheim 1
+LOB -- Anaheim 9, Texas 6
+2B -- Kennedy A, Gil B, Erstad D, Rodriguez A, Palmeiro O
+HR -- Sierra R 2, Kapler G, Rodriguez A
+SB -- Eckstein D
+WP -- Helling R
+T -- 2:53
+A -- 30337
+     Game of 6/29/2001 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Damon J, cf           5  0  0  0   Catalanotto F, lf     4  1  1  1   
+Menechino F, 2b       5  0  0  0   Sheldon S, lf         0  0  0  0   
+Giambi J, dh          2  1  0  0   Rodriguez I, c        4  2  2  0   
+Saenz O, 1b           4  1  1  0   Rodriguez A, ss       4  1  2  2   
+Long T, rf            4  0  1  1   Palmeiro R, 1b        4  1  1  1   
+Tejada M, ss          4  1  2  1   Sierra R, dh          4  2  2  1   
+Giambi J, lf          2  2  1  1   Kapler G, cf          3  2  1  0   
+Chavez E, 3b          4  1  1  2   Ledee R, rf           3  0  1  0   
+Hernandez R, c        3  0  1  1   Galarraga A, ph       1  0  0  0   
+McMillon B, ph        1  0  0  0   Porter B, rf          0  0  0  0   
+                                   Lamb M, 3b            4  0  0  0   
+                                   Young M, 2b           4  0  2  1   
+                     -- -- -- --                        -- -- -- --
+                     34  6  7  6                        35  9 12  6
+
+Oakland          030 120 000 --  6
+Texas            301 100 40x --  9
+
+  Oakland              IP  H  R ER BB SO
+Lidle C               6.0  9  5  4  1  2
+Tam J                 0.1  1  1  1  0  0
+Magnante M (L)        1.1  2  3  1  1  2
+Bradford C            0.1  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Bell R                4.2  7  6  6  3  2
+Mahomes P (W)         2.1  0  0  0  0  2
+Moreno J              1.0  0  0  0  1  1
+Zimmerman J (S)       1.0  0  0  0  0  1
+
+E -- Giambi J, Hernandez R
+DP -- Oakland 2
+LOB -- Oakland 5, Texas 5
+2B -- Chavez E, Sierra R
+HR -- Rodriguez A, Sierra R, Catalanotto F, Giambi J
+HBP -- by Lidle C (Catalanotto F)
+WP -- Magnante M
+T -- 3:05
+A -- 40025
+     Game of 6/30/2001 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Damon J, cf           6  2  2  1   Ledee R, rf           5  0  2  1   
+Menechino F, 2b       6  2  2  0   Rodriguez I, c        1  1  0  0   
+Giambi J, dh          4  1  3  2   Haselman B, c         3  0  1  1   
+Myers G, ph           1  0  0  0   Rodriguez A, ss       3  0  1  0   
+Giambi J, 1b          5  1  1  1   Sheldon S, ss         2  0  0  0   
+Saenz O, 1b           1  0  0  0   Palmeiro R, 1b        3  1  2  1   
+Tejada M, ss          5  4  4  8   Sierra R, dh          4  0  0  0   
+Long T, rf            3  1  2  0   Kapler G, cf          4  0  1  1   
+McMillon B, lf        0  0  0  0   Lamb M, 3b            4  0  1  0   
+Hernandez R, c        5  0  1  0   Porter B, lf          3  0  0  0   
+Chavez E, 3b          3  1  1  1   Young M, 2b           4  2  0  0   
+Bellhorn M, 3b        2  0  0  0                                      
+Byrnes E, lf-rf       3  3  2  2                                      
+                     -- -- -- --                        -- -- -- --
+                     44 15 18 15                        36  4  8  4
+
+Oakland          451 202 001 -- 15
+Texas            000 110 110 --  4
+
+  Oakland              IP  H  R ER BB SO
+Hiljus E (W)          7.0  6  3  2  2 10
+Bradford C            2.0  2  1  1  1  1
+
+  Texas                IP  H  R ER BB SO
+Rogers K (L)          1.1  7  8  7  1  3
+Petkovsek M           2.2  6  4  4  1  2
+Smart J               2.0  4  2  2  2  0
+Moreno J              1.0  0  0  0  1  0
+Venafro M             1.0  0  0  0  1  1
+Mahomes P             1.0  1  1  1  1  2
+
+E -- Lamb M 3, Giambi J
+DP -- Texas 2
+LOB -- Oakland 11, Texas 8
+2B -- Damon J, Kapler G, Chavez E, Giambi J, Ledee R
+HR -- Tejada M 3, Byrnes E, Palmeiro R
+SF -- Chavez E
+HBP -- by Petkovsek M (Hernandez R)
+WP -- Hiljus E
+T -- 3:13
+A -- 42553
+     Game of 7/1/2001 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Damon J, cf           4  0  1  0   Porter B, lf          4  1  1  3   
+Menechino F, 2b       2  0  1  0   Rodriguez I, c        1  0  0  0   
+Giambi J, dh          3  0  0  0   Haselman B, c         3  0  1  0   
+Saenz O, ph           1  0  0  0   Rodriguez A, ss       4  0  0  0   
+Giambi J, 1b          4  0  2  0   Palmeiro R, dh        3  0  1  0   
+Tejada M, ss          4  0  1  0   Sierra R, rf          3  0  0  0   
+Long T, rf            3  0  1  0   Ledee R, rf           0  0  0  0   
+Chavez E, 3b          4  1  1  0   Galarraga A, 1b       3  0  2  0   
+Myers G, c            4  0  1  0   Kapler G, cf          3  1  1  0   
+McMillon B, lf        2  0  1  1   Sheldon S, 3b         3  0  0  0   
+Byrnes E, lf          0  0  0  0   Young M, 2b           3  1  0  0   
+Bellhorn M, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  9  1                        30  3  6  3
+
+Oakland          000 010 000 --  1
+Texas            000 000 03x --  3
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (L)          7.2  6  3  3  0  6
+Mecir J               0.1  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Helling R             6.2  6  1  1  3  1
+Venafro M (W)         1.1  1  0  0  0  1
+Zimmerman J (S)       1.0  2  0  0  0  2
+
+DP -- Texas 3
+LOB -- Oakland 8, Texas 3
+2B -- Giambi J, Palmeiro R, Chavez E, Damon J, Galarraga A, McMillon B, Long T
+HR -- Porter B
+SF -- McMillon B
+WP -- Helling R
+T -- 2:44
+A -- 26547
+     Game of 7/2/2001 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Cameron M, cf         6  0  2  2   Catalanotto F, lf     6  0  2  2   
+Javier S, rf          1  1  1  0   Rodriguez I, c        6  0  3  0   
+Gipson C, ph-rf       1  0  0  0   Rodriguez A, ss       5  0  1  0   
+Suzuki I, ph-rf       2  1  1  2   Palmeiro R, 1b        4  0  0  0   
+Martinez E, dh        3  0  0  1   Sierra R, dh          5  1  2  1   
+Olerud J, 1b          4  1  1  0   Kapler G, cf          3  2  1  0   
+Boone B, 2b           5  1  1  0   Ledee R, rf           3  1  0  0   
+Sprague E, lf         3  0  0  0   Lamb M, 3b            4  2  2  2   
+Martin A, lf          2  0  1  1   Young M, 2b           5  1  1  2   
+Bell D, 3b            5  1  1  0                                      
+Wilson D, c           3  2  2  2                                      
+Lampkin T, ph-c       0  1  0  0                                      
+McLemore M, ss        3  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     38  9 11  9                        41  7 12  7
+
+Seattle          120 100 102 2 --  9
+Texas            031 000 300 0 --  7
+
+  Seattle              IP  H  R ER BB SO
+Abbott P              6.0  8  4  4  5  5
+Franklin R            1.1  3  3  3  1  0
+Fuentes B             1.1  1  0  0  1  1
+Nelson J (W)          0.1  0  0  0  0  1
+Sasaki K (S)          1.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Davis D*              6.0  6  5  4  4  2
+Mahomes P             2.0  0  0  0  0  1
+Zimmerman J           1.0  2  2  2  0  2
+Petkovsek M (L)       1.0  3  2  2  1  0
+  * Pitched to 2 batters in 7th
+
+E -- Ledee R
+DP -- Seattle 1
+LOB -- Seattle 7, Texas 11
+2B -- Javier S, Rodriguez I 2, Young M, Kapler G, Cameron M, Lamb M, Olerud J
+3B -- Cameron M
+HR -- Wilson D, Sierra R, Suzuki I
+CS -- McLemore M
+SF -- Martinez E, McLemore M
+HBP -- by Zimmerman J (Lampkin T)
+T -- 3:51
+A -- 28487
+     Game of 7/3/2001 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Suzuki I, rf          5  1  3  1   Catalanotto F, lf     4  0  0  0   
+Guillen C, ss         5  1  1  0   Rodriguez I, c        4  2  2  1   
+Martinez E, dh        5  1  2  1   Rodriguez A, ss       2  2  1  2   
+Boone B, 2b           4  2  2  2   Palmeiro R, 1b        3  0  0  0   
+Cameron M, cf         3  1  1  3   Sierra R, dh          4  0  1  1   
+Sprague E, 1b         5  0  0  0   Kapler G, cf          4  0  0  0   
+Wilson D, c           5  0  1  0   Ledee R, rf           3  0  1  0   
+Bell D, 3b            4  2  3  1   Porter B, ph          1  0  0  0   
+Gipson C, lf          4  0  0  0   Lamb M, 3b            2  0  2  0   
+                                   Sheldon S, ph         1  0  0  0   
+                                   Young M, 2b           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  8 13  8                        31  4  7  4
+
+Seattle          301 101 110 --  8
+Texas            100 200 010 --  4
+
+  Seattle              IP  H  R ER BB SO
+Sele A (W)            6.2  6  3  3  3  4
+Nelson J              1.1  1  1  1  2  2
+Rhodes A              1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Oliver D (L)          6.0  9  6  6  3  1
+Glynn R               3.0  4  2  2  0  0
+
+E -- Rodriguez I
+DP -- Seattle 2
+LOB -- Seattle 8, Texas 5
+2B -- Guillen C, Martinez E 2, Boone B, Lamb M, Bell D, Suzuki I
+3B -- Rodriguez I, Suzuki I
+HR -- Cameron M, Bell D, Rodriguez I, Rodriguez A, Boone B
+SB -- Cameron M, Suzuki I
+T -- 2:58
+A -- 41849
+     Game of 7/4/2001 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Suzuki I, rf          5  1  1  0   Porter B, lf          4  0  0  0   
+McLemore M, ss        4  0  2  0   Rodriguez I, c        4  0  1  0   
+Martinez E, dh        2  0  0  1   Rodriguez A, ss       4  1  3  0   
+Olerud J, 1b          4  0  1  0   Palmeiro R, dh        4  2  2  2   
+Boone B, 2b           4  1  1  0   Sierra R, rf          4  1  2  1   
+Cameron M, cf         4  0  3  1   Ledee R, rf           0  0  0  0   
+Martin A, lf          3  0  0  0   Galarraga A, 1b       3  1  2  1   
+Lampkin T, c          2  1  1  1   Kapler G, cf          3  0  0  1   
+Wilson D, ph-c        1  0  0  0   Lamb M, 3b            4  1  2  1   
+Guillen C, ph         1  0  0  0   Young M, 2b           4  0  1  0   
+Bell D, 3b            4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3 10  3                        34  6 13  6
+
+Seattle          000 021 000 --  3
+Texas            310 010 01x --  6
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (L)           6.0 11  5  5  1  4
+Franklin R            2.0  2  1  1  0  1
+
+  Texas                IP  H  R ER BB SO
+Bell R (W)            6.1  6  3  3  1  4
+Moreno J              1.1  2  0  0  0  2
+Zimmerman J           1.0  2  0  0  0  2
+Venafro M (S)         0.1  0  0  0  0  0
+
+E -- Young M
+DP -- Texas 1
+LOB -- Seattle 7, Texas 6
+2B -- Palmeiro R, Sierra R 2, Galarraga A 2, Rodriguez A, Boone B, Cameron M
+HR -- Lamb M, Lampkin T, Palmeiro R
+SB -- Rodriguez A, Galarraga A
+CS -- Rodriguez I, Martin A, Lamb M
+SF -- Martinez E, Kapler G
+HBP -- by Bell R (Martinez E)
+T -- 2:50
+A -- 49103
+     Game of 7/5/2001 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Suzuki I, rf          3  0  0  0   Catalanotto F, lf-1b  3  2  1  0   
+Lampkin T, rf         1  0  0  0   Ledee R, rf           4  2  1  3   
+Guillen C, ss         4  1  1  0   Rodriguez A, ss       4  1  1  4   
+Martinez E, dh        3  1  1  1   Sheldon S, ss         1  0  0  0   
+Olerud J, 1b          2  0  1  1   Palmeiro R, 1b        2  3  2  3   
+Sprague E, 1b-c       1  0  0  0   Porter B, lf          1  0  0  0   
+Boone B, 2b           3  0  2  0   Sierra R, dh          5  1  1  2   
+McLemore M, lf        1  0  0  0   Kapler G, cf          4  1  1  0   
+Cameron M, cf         3  0  0  0   Lamb M, 3b            4  1  2  1   
+Martin A, cf          1  0  0  0   Haselman B, c         4  1  1  1   
+Bell D, 3b            4  0  1  0   Young M, 2b           4  2  3  0   
+Wilson D, c-1b        4  0  1  0                                      
+Gipson C, lf-2b       3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        36 14 13 14
+
+Seattle          100 000 010 --  2
+Texas            014 900 00x -- 14
+
+  Seattle              IP  H  R ER BB SO
+Stark D (L)*          3.0  9  9  9  0  1
+Fuentes B             1.2  4  5  5  1  0
+Pineiro J             2.1  0  0  0  2  1
+Paniagua J            1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Rogers K (W)          7.0  6  1  1  1  3
+Myette A              2.0  1  1  1  0  2
+  * Pitched to 4 batters in 4th
+
+E -- Lamb M
+DP -- Seattle 1, Texas 2
+LOB -- Seattle 6, Texas 3
+2B -- Guillen C, Bell D, Wilson D, Lamb M, Haselman B, Young M
+3B -- Ledee R
+HR -- Palmeiro R 2, Rodriguez A, Sierra R, Martinez E
+SB -- Martinez E
+HBP -- by Rogers K (Martinez E), by Fuentes B (Catalanotto F), by Fuentes B (Palmeiro R)
+T -- 2:52
+A -- 29797
+     Game of 7/12/2001 -- Colorado at Texas (N)
+
+  Colorado           AB  R  H RBI    Texas              AB  R  H RBI
+Pierre J, cf          4  0  1  0   Catalanotto F, lf     4  1  1  1   
+Perez N, ss           4  0  0  0   Lamb M, 3b            4  0  1  1   
+Walker L, dh          3  1  0  0   Rodriguez A, ss       4  0  2  0   
+Cirillo J, 3b         4  1  1  0   Palmeiro R, 1b        2  1  0  0   
+Helton T, 1b          2  0  1  0   Rodriguez I, c        4  1  3  1   
+Norton G, pr-1b       2  1  1  0   Sierra R, dh          4  0  0  0   
+Brumbaugh C, rf       4  0  1  1   Ledee R, rf           4  1  1  0   
+Shumpert T, lf        3  0  1  1   Kapler G, cf          4  1  2  0   
+Walker T, ph          1  0  0  0   Young M, 2b           4  1  1  2   
+Petrick B, c          2  0  0  0                                      
+Melhuse A, ph         1  0  0  0                                      
+Butler B, 2b          3  0  0  0                                      
+Cruz J, ph            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  6  2                        34  6 11  5
+
+Colorado         000 201 000 --  3
+Texas            020 300 01x --  6
+
+  Colorado             IP  H  R ER BB SO
+Astacio P (L)*        7.0 11  6  5  2  4
+Myers M               0.2  0  0  0  0  1
+Miceli D              0.1  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Rogers K (W)          7.0  6  3  2  2  4
+Venafro M             1.0  0  0  0  0  0
+Zimmerman J (S)       1.0  0  0  0  0  3
+  * Pitched to 2 batters in 8th
+
+E -- Rodriguez A 2, Young M
+DP -- Colorado 1, Texas 1
+LOB -- Colorado 6, Texas 6
+2B -- Shumpert T, Catalanotto F
+HR -- Rodriguez I
+SB -- Kapler G
+CS -- Rodriguez A
+WP -- Miceli D
+PB -- Petrick B
+T -- 2:43
+A -- 29322
+     Game of 7/13/2001 -- Colorado at Texas (N)
+
+  Colorado           AB  R  H RBI    Texas              AB  R  H RBI
+Pierre J, cf          4  0  0  0   Young M, 2b           5  3  3  4   
+Perez N, ss           3  0  0  0   Velarde R, 3b         4  0  1  2   
+Walker L, dh          4  0  0  0   Rodriguez A, ss       4  1  3  0   
+Norton G, 1b          3  1  1  0   Palmeiro R, dh        4  1  2  2   
+Cirillo J, 3b         3  0  0  1   Rodriguez I, c        4  0  0  0   
+Walker T, 2b          3  1  2  1   Sierra R, rf          4  2  2  0   
+Kieschnick B, rf      4  0  0  0   Galarraga A, 1b       4  1  1  2   
+Cruz J, lf            3  0  0  0   Kapler G, cf          3  1  0  0   
+Melhuse A, c          3  0  1  0   Ledee R, lf           4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  2                        36 10 13 10
+
+Colorado         000 000 101 --  2
+Texas            040 300 03x -- 10
+
+  Colorado             IP  H  R ER BB SO
+Hampton M (L)         4.0 10  7  6  1  2
+White G               2.0  0  0  0  0  1
+Powell J              1.0  1  0  0  0  0
+Acevedo J             1.0  2  3  3  1  2
+
+  Texas                IP  H  R ER BB SO
+Helling R (W)         7.0  3  1  1  3  6
+Moreno J              1.0  0  0  0  0  1
+Mahomes P             1.0  1  1  1  0  0
+
+E -- Pierre J
+DP -- Colorado 1
+LOB -- Colorado 5, Texas 4
+3B -- Walker T, Norton G
+HR -- Galarraga A, Young M 2, Palmeiro R, Walker T
+SF -- Cirillo J
+T -- 2:41
+A -- 37812
+     Game of 7/14/2001 -- Colorado at Texas (D)
+
+  Colorado           AB  R  H RBI    Texas              AB  R  H RBI
+Perez N, ss           6  1  1  0   Catalanotto F, lf     4  0  1  0   
+Bartee K, lf          4  0  0  1   Lamb M, 3b            3  0  0  0   
+Walker L, dh          5  1  3  1   Rodriguez A, ss       2  0  1  0   
+Cirillo J, 3b         5  1  2  1   Sheldon S, ss         1  0  0  0   
+Norton G, 1b          4  2  2  1   Palmeiro R, 1b        4  1  1  0   
+Brumbaugh C, rf       5  2  2  0   Sierra R, dh          4  1  1  0   
+Petrick B, c          5  1  2  2   Kapler G, cf          4  0  2  2   
+Butler B, 2b          5  2  2  2   Ledee R, rf           4  0  0  0   
+Pierre J, cf          4  1  4  3   Haselman B, c         4  0  0  0   
+                                   Young M, 2b           3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     43 11 18 11                        33  2  7  2
+
+Colorado         100 012 502 -- 11
+Texas            000 000 002 --  2
+
+  Colorado             IP  H  R ER BB SO
+Chacon S (W)*         8.0  7  2  2  3  6
+Powell J              1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Davis D (L)           6.0  9  4  3  1  5
+Myette A              1.0  6  5  5  0  0
+Petkovsek M           1.0  0  0  0  0  0
+Foster K              1.0  3  2  2  0  2
+  * Pitched to 3 batters in 9th
+
+E -- Lamb M
+DP -- Colorado 1
+LOB -- Colorado 8, Texas 7
+2B -- Walker L 3, Petrick B, Butler B, Sierra R, Kapler G
+3B -- Pierre J 2, Butler B
+HR -- Norton G
+CS -- Pierre J
+SF -- Bartee K, Pierre J
+T -- 2:56
+A -- 38009
+     Game of 7/15/2001 -- San Francisco at Texas (N)
+
+  San Francisco      AB  R  H RBI    Texas              AB  R  H RBI
+Murray C, cf          5  0  1  1   Catalanotto F, lf     4  1  2  0   
+Aurilia R, ss         5  1  1  0   Velarde R, 2b         5  1  2  2   
+Bonds B, lf           4  1  0  0   Rodriguez A, ss       5  2  3  3   
+Kent J, 2b            4  1  3  2   Palmeiro R, 1b        4  0  0  0   
+Davis E, dh           4  1  0  0   Young M, pr           0  0  0  0   
+Dunston S, rf         4  1  1  3   Rodriguez I, c        5  0  1  1   
+Santiago B, c         4  1  1  0   Sierra R, dh          4  0  2  0   
+Snow J, 1b            3  1  1  0   Lamb M, 3b            4  1  0  0   
+Martinez R, 3b        3  0  1  1   Kapler G, cf          4  1  1  0   
+                                   Ledee R, rf           4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7  9  7                        39  6 12  6
+
+San Francisco    030 022 000 --  7
+Texas            301 200 000 --  6
+
+  San Francisco        IP  H  R ER BB SO
+Hernandez L (W)       7.0 10  6  6  3  6
+Rodriguez F           1.0  1  0  0  0  2
+Nen R (S)             1.0  1  0  0  1  2
+
+  Texas                IP  H  R ER BB SO
+Oliver D (L)          5.1  8  7  6  2  5
+Mahomes P             2.2  1  0  0  0  0
+Venafro M             1.0  0  0  0  0  1
+
+E -- Velarde R, Dunston S
+DP -- Texas 1
+LOB -- San Francisco 5, Texas 10
+2B -- Rodriguez A, Kent J, Martinez R
+HR -- Dunston S, Rodriguez A
+SB -- Rodriguez A
+CS -- Ledee R
+HBP -- by Oliver D (Snow J)
+WP -- Hernandez L
+PB -- Santiago B
+T -- 3:21
+A -- 42082
+     Game of 7/16/2001 -- San Francisco at Texas (N)
+
+  San Francisco      AB  R  H RBI    Texas              AB  R  H RBI
+Murray C, cf          4  0  0  0   Catalanotto F, lf     4  0  1  0   
+Aurilia R, ss         4  0  2  0   Lamb M, 3b            3  1  3  1   
+Bonds B, dh           1  0  0  0   Rodriguez A, ss       4  0  1  0   
+Kent J, 2b            4  0  0  0   Palmeiro R, dh        2  0  1  1   
+Rios A, rf            3  0  1  0   Rodriguez I, c        4  0  1  0   
+Martinez R, 3b        4  0  0  0   Sierra R, rf          4  0  1  0   
+Snow J, 1b            4  0  2  0   Ledee R, rf           0  0  0  0   
+Benard M, lf          2  0  0  0   Galarraga A, 1b       4  0  2  0   
+Guzman E, c           4  0  1  0   Kapler G, cf          3  0  0  0   
+                                   Young M, 2b           4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  6  0                        32  2 11  2
+
+San Francisco    000 000 000 --  0
+Texas            000 010 10x --  2
+
+  San Francisco        IP  H  R ER BB SO
+Jensen R (L)          4.1  9  1  1  2  1
+Boehringer B          1.2  0  0  0  0  1
+Fultz A               1.1  2  1  1  0  0
+Vogelsong R           0.2  0  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Bell R (W)            8.2  6  0  0  5  5
+Zimmerman J (S)       0.1  0  0  0  0  0
+
+E -- Guzman E
+DP -- San Francisco 2, Texas 2
+LOB -- San Francisco 9, Texas 10
+2B -- Galarraga A, Guzman E, Young M, Snow J
+SB -- Rodriguez I
+CS -- Rios A
+HBP -- by Fultz A (Lamb M), by Zimmerman J (Benard M)
+T -- 2:46
+A -- 32682
+     Game of 7/17/2001 -- San Francisco at Texas (N)
+
+  San Francisco      AB  R  H RBI    Texas              AB  R  H RBI
+Murray C, cf          5  1  2  1   Young M, 2b           4  1  1  0   
+Aurilia R, ss         5  1  1  2   Velarde R, 3b         4  0  0  0   
+Bonds B, dh           2  2  1  0   Rodriguez A, ss       4  0  1  1   
+Feliz P, ph           1  0  0  0   Palmeiro R, dh        4  0  0  0   
+Kent J, 2b            4  2  2  0   Rodriguez I, c        4  0  2  0   
+Rios A, lf            4  1  0  0   Galarraga A, 1b       4  1  1  1   
+Davis E, rf           4  1  2  5   Sierra R, rf          4  0  1  0   
+Santiago B, c         3  0  0  1   Kapler G, cf          4  0  1  0   
+Snow J, 1b            3  1  2  0   Sheldon S, lf         4  0  1  0   
+Martinez R, 3b        4  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35 10 12  9                        36  2  8  2
+
+San Francisco    401 030 020 -- 10
+Texas            110 000 000 --  2
+
+  San Francisco        IP  H  R ER BB SO
+Rueter K (W)          6.2  6  2  2  1  1
+Boehringer B          0.1  0  0  0  0  0
+Vogelsong R           2.0  2  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Rogers K (L)          5.0  9  8  8  5  0
+Foster K              4.0  3  2  1  0  4
+
+E -- Velarde R, Aurilia R, Sierra R, Murray C
+DP -- Texas 2
+LOB -- San Francisco 4, Texas 8
+2B -- Bonds B, Young M, Rodriguez A, Kent J, Rodriguez I, Davis E, Sierra R
+HR -- Aurilia R, Davis E, Galarraga A
+CS -- Martinez R
+SF -- Santiago B
+T -- 2:49
+A -- 31162
+     Game of 7/24/2001 -- Baltimore at Texas (N)
+
+  Baltimore          AB  R  H RBI    Texas              AB  R  H RBI
+Roberts B, ss         5  0  1  1   Catalanotto F, lf     3  1  1  0   
+Mora M, cf            3  0  0  0   Lamb M, 3b            4  1  2  1   
+Richard C, rf         5  2  2  0   Rodriguez A, ss       4  1  1  2   
+Conine J, 1b          4  1  2  1   Palmeiro R, 1b        3  1  1  0   
+Gibbons J, lf         3  1  2  3   Rodriguez I, c        4  0  0  0   
+Kinkade M, ph-lf      1  1  1  0   Sierra R, dh          3  1  2  1   
+Anderson B, ph        1  0  0  0   Kapler G, cf          4  1  0  0   
+Ripken C, 3b          4  0  1  1   Ledee R, rf           3  1  1  0   
+Batista T, dh         3  1  1  1   Velarde R, ph-rf      1  0  1  1   
+Lunar F, c            4  0  0  0   Young M, 2b           4  1  1  1   
+Hairston J, 2b        4  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  7 12  7                        33  8 10  6
+
+Baltimore        022 100 020 --  7
+Texas            010 003 22x --  8
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S              7.0  8  6  5  2  2
+Ryan B                0.1  0  0  0  0  0
+Trombley M (L)        0.1  1  2  0  0  0
+Groom B               0.1  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Helling R             7.0  8  5  5  1  3
+Venafro M (W)         1.0  3  2  2  0  0
+Zimmerman J (S)       1.0  1  0  0  2  1
+
+E -- Catalanotto F, Hairston J, Kinkade M
+DP -- Baltimore 1
+LOB -- Baltimore 7, Texas 4
+2B -- Palmeiro R, Hairston J, Gibbons J, Catalanotto F, Batista T, Lamb M, Ledee R, Young M, Velarde R
+HR -- Gibbons J
+SB -- Rodriguez A
+SF -- Sierra R, Batista T
+T -- 2:50
+A -- 35517
+     Game of 7/25/2001, game 1 -- Baltimore at Texas (N)
+
+  Baltimore          AB  R  H RBI    Texas              AB  R  H RBI
+Anderson B, lf        4  0  0  0   Velarde R, 1b         3  1  1  0   
+Roberts B, ss         4  2  2  1   Young M, 2b           3  1  2  2   
+Richard C, rf         4  1  1  2   Rodriguez A, ss       2  1  1  0   
+Conine J, 1b          3  0  1  0   Palmeiro R, dh        4  1  2  0   
+Gibbons J, dh         4  0  0  0   Rodriguez I, c        4  1  0  0   
+Batista T, 3b         4  1  1  0   Sierra R, rf          4  0  0  0   
+Mora M, cf            3  0  0  0   Ledee R, rf           0  0  0  0   
+Fordyce B, c          3  1  1  2   Kapler G, cf          4  0  1  2   
+Ripken C, ph          1  0  1  0   Sheldon S, 3b         4  0  0  0   
+Bigbie L, pr          0  0  0  0   Porter B, lf          4  1  1  0   
+Hairston J, 2b        4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  5  8  5                        32  6  8  4
+
+Baltimore        200 000 210 --  5
+Texas            500 001 00x --  6
+
+  Baltimore            IP  H  R ER BB SO
+Parrish J (L)         6.0  6  6  4  2  4
+Mills A               2.0  2  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Duchscherer J (W)     6.2  6  4  4  1  5
+Moreno J              1.1  1  1  1  0  0
+Zimmerman J (S)       1.0  1  0  0  1  0
+
+E -- Roberts B 2, Conine J, Sheldon S
+DP -- Baltimore 2, Texas 1
+LOB -- Baltimore 4, Texas 6
+2B -- Kapler G, Porter B
+HR -- Richard C, Young M, Fordyce B, Roberts B
+CS -- Mora M
+HBP -- by Parrish J (Velarde R), by Parrish J (Rodriguez A)
+WP -- Parrish J
+T -- 2:37
+A -- 0
+     Game of 7/25/2001, game 2 -- Baltimore at Texas (N)
+
+  Baltimore          AB  R  H RBI    Texas              AB  R  H RBI
+Anderson B, rf        4  0  0  1   Catalanotto F, lf     4  0  0  0   
+Mora M, ss            4  0  1  0   Porter B, lf          0  0  0  0   
+Richard C, cf         3  0  1  0   Lamb M, 3b            4  1  2  1   
+Conine J, 1b          3  0  0  0   Rodriguez A, ss       3  1  1  1   
+Kinkade M, lf         3  1  1  0   Palmeiro R, 1b        3  2  1  1   
+Ripken C, 3b          4  1  1  0   Sierra R, dh          4  0  2  1   
+Batista T, dh         4  0  0  0   Kapler G, cf          4  0  0  1   
+Lunar F, c            2  0  0  1   Ledee R, rf           2  0  0  0   
+Gibbons J, ph         1  0  0  0   Haselman B, c         3  0  0  0   
+Hairston J, 2b        2  0  0  0   Young M, 2b           3  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  2                        30  5  8  5
+
+Baltimore        000 020 000 --  2
+Texas            000 000 23x --  5
+
+  Baltimore            IP  H  R ER BB SO
+Maduro C              6.2  4  2  2  1  3
+Ryan B*               0.0  0  0  0  1  0
+Roberts W             0.1  0  0  0  0  0
+Mercedes J (L)        1.0  4  3  3  0  1
+
+  Texas                IP  H  R ER BB SO
+Davis D               7.0  4  2  1  4  4
+Venafro M (W)         1.0  0  0  0  1  0
+Zimmerman J (S)       1.0  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+E -- Davis D, Lamb M
+DP -- Texas 2
+LOB -- Baltimore 6, Texas 4
+2B -- Sierra R, Lamb M
+HR -- Palmeiro R
+SB -- Sierra R
+CS -- Richard C
+SF -- Rodriguez A
+T -- 2:42
+A -- 37822
+     Game of 7/26/2001 -- Baltimore at Texas (N)
+
+  Baltimore          AB  R  H RBI    Texas              AB  R  H RBI
+Anderson B, rf        4  1  2  3   Catalanotto F, lf     4  2  2  1   
+Roberts B, dh         4  1  1  1   Lamb M, 3b            4  1  2  0   
+Mora M, ss            3  1  0  0   Rodriguez A, ss       3  1  1  1   
+Conine J, 1b          5  0  2  1   Palmeiro R, 1b        4  1  1  1   
+Kinkade M, lf         4  0  0  0   Rodriguez I, c        4  2  3  0   
+Ripken C, 3b          4  1  1  1   Sierra R, dh          3  0  2  0   
+Richard C, cf         4  1  1  0   Porter B, pr          1  1  0  0   
+Lunar F, c            3  0  2  0   Ledee R, rf           4  1  1  3   
+Bigbie L, ph          1  1  1  0   Kapler G, cf          4  0  1  1   
+Hairston J, 2b        4  1  1  0   Young M, 2b           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 11  6                        34  9 13  7
+
+Baltimore        100 010 203 --  7
+Texas            100 015 11x --  9
+
+  Baltimore            IP  H  R ER BB SO
+Towers J (L)          6.0 10  7  7  0  2
+Wasdin J              2.0  3  2  1  0  3
+
+  Texas                IP  H  R ER BB SO
+Oliver D (W)          6.1  8  4  3  1  4
+Mahomes P             2.1  2  3  3  3  0
+Venafro M (S)         0.1  1  0  0  0  0
+
+E -- Lamb M, Ripken C, Kinkade M, Lunar F
+DP -- Baltimore 3, Texas 2
+LOB -- Baltimore 7, Texas 2
+2B -- Lamb M, Palmeiro R, Hairston J, Conine J
+HR -- Catalanotto F, Anderson B, Ledee R, Ripken C
+SB -- Kapler G, Rodriguez I 2
+CS -- Anderson B
+SF -- Rodriguez A, Roberts B
+WP -- Oliver D 2
+T -- 2:54
+A -- 41668
+     Game of 7/27/2001 -- Tampa Bay at Texas (N)
+
+  Tampa Bay          AB  R  H RBI    Texas              AB  R  H RBI
+Tyner J, cf           5  1  1  0   Catalanotto F, lf     4  1  1  1   
+Grieve B, lf          5  1  3  5   Porter B, ph-lf       1  0  0  0   
+Vaughn G, dh          3  0  0  0   Velarde R, dh         5  3  3  1   
+Cox S, 1b             3  1  1  1   Rodriguez A, ss       4  3  3  2   
+Winn R, rf            4  0  1  0   Palmeiro R, 1b        4  1  2  1   
+Huff A, 3b            4  0  0  0   Rodriguez I, c        4  2  1  1   
+Hall T, c             4  1  1  1   Lamb M, 3b            5  1  3  2   
+Abernathy B, 2b       2  1  0  0   Kapler G, cf          3  0  0  0   
+Martinez F, ss        3  2  2  0   Ledee R, rf           3  1  2  2   
+                                   Young M, 2b           4  1  2  1   
+                     -- -- -- --                        -- -- -- --
+                     33  7  9  7                        37 13 17 11
+
+Tampa Bay        014 100 100 --  7
+Texas            106 003 03x -- 13
+
+  Tampa Bay            IP  H  R ER BB SO
+Sturtze T (L)         5.0 10  7  7  4  2
+Phelps T              2.0  5  3  3  0  0
+Creek D               1.0  2  3  1  2  2
+
+  Texas                IP  H  R ER BB SO
+Bell R (W)            7.0  9  7  7  3  3
+Moreno J              1.0  0  0  0  0  0
+Villafuerte B         1.0  0  0  0  2  1
+
+E -- Creek D
+DP -- Tampa Bay 1, Texas 3
+LOB -- Tampa Bay 4, Texas 6
+2B -- Velarde R
+3B -- Young M
+HR -- Velarde R, Cox S, Grieve B, Hall T, Rodriguez A
+SB -- Rodriguez I, Young M, Kapler G
+Balk -- Phelps T
+T -- 2:54
+A -- 38213
+     Game of 7/28/2001 -- Tampa Bay at Texas (N)
+
+  Tampa Bay          AB  R  H RBI    Texas              AB  R  H RBI
+Tyner J, cf           5  0  1  0   Velarde R, 1b         5  0  0  0   
+Grieve B, lf          5  0  1  1   Young M, 2b           4  0  1  0   
+Vaughn G, dh          5  0  2  2   Rodriguez A, ss       5  0  0  0   
+Cox S, 1b             4  2  1  0   Palmeiro R, dh        5  0  0  0   
+Winn R, rf            5  0  1  0   Rodriguez I, c        1  0  0  0   
+Huff A, 3b            2  0  1  0   Haselman B, c         2  1  2  0   
+Johnson R, ph-3b      0  1  0  0   Kapler G, cf          3  1  1  0   
+Gomez C, ss           3  2  2  3   Sheldon S, 3b         3  1  1  1   
+Hall T, c             5  1  2  1   Lamb M, ph-3b         1  0  0  0   
+Abernathy B, 2b       4  1  0  0   Monroe C, rf-lf       3  0  0  0   
+                                   Catalanotto F, ph-lf  1  0  1  1   
+                                   Porter B, lf          2  0  1  0   
+                                   Ledee R, ph-rf        1  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     38  7 11  7                        36  3  8  3
+
+Tampa Bay        010 100 010 4 --  7
+Texas            000 100 002 0 --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Bierbrodt N           6.0  4  1  1  3  5
+Zambrano V            2.0  1  0  0  0  4
+Yan E (W)             2.0  3  2  1  0  1
+
+  Texas                IP  H  R ER BB SO
+Myette A              6.0  5  2  2  3  4
+Petkovsek M           2.0  2  1  1  2  1
+Moreno J              1.1  0  0  0  1  1
+Foster K (L)          0.1  4  4  4  2  1
+Villafuerte B         0.1  0  0  0  0  1
+
+E -- Winn R 2
+LOB -- Tampa Bay 13, Texas 7
+2B -- Winn R, Cox S
+3B -- Young M
+HR -- Gomez C, Sheldon S
+SB -- Tyner J, Huff A, Vaughn G
+CS -- Rodriguez I
+SH -- Winn R
+SF -- Gomez C 2, Ledee R
+HBP -- by Villafuerte B (Cox S)
+T -- 3:19
+A -- 39023
+     Game of 7/29/2001 -- Tampa Bay at Texas (N)
+
+  Tampa Bay          AB  R  H RBI    Texas              AB  R  H RBI
+Tyner J, cf           4  0  1  0   Young M, 2b           3  0  0  0   
+Grieve B, rf          4  0  0  0   Velarde R, dh         3  0  0  0   
+Vaughn G, lf          4  0  0  0   Rodriguez A, ss       4  0  0  0   
+Cox S, 1b             3  0  1  0   Palmeiro R, 1b        4  1  1  0   
+Winn R, dh            3  0  0  0   Rodriguez I, c        4  0  2  0   
+Huff A, 3b            3  0  2  0   Kapler G, cf          3  0  0  0   
+Gomez C, ss           3  0  0  0   Lamb M, 3b            4  0  1  1   
+Hall T, c             3  0  0  0   Monroe C, rf          3  1  1  1   
+Martinez F, 2b        2  0  0  0   Porter B, lf          3  0  1  0   
+Johnson R, ph-2b      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        31  2  6  2
+
+Tampa Bay        000 000 000 --  0
+Texas            010 010 00x --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Kennedy J (L)         6.2  5  2  2  1  5
+Colome J              0.2  0  0  0  1  1
+Creek D               0.1  0  0  0  0  0
+Standridge J          0.1  1  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Helling R (W)         9.0  4  0  0  0  4
+
+E -- Gomez C, Huff A
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 4, Texas 8
+2B -- Cox S
+HR -- Monroe C
+SB -- Rodriguez A
+HBP -- by Helling R (Cox S)
+WP -- Kennedy J
+T -- 2:26
+A -- 28084
+     Game of 8/7/2001 -- Detroit at Texas (N)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Macias J, cf          5  0  0  0   Velarde R, 2b         4  0  0  0   
+Fick R, c             5  1  1  0   Monroe C, rf          4  1  1  0   
+Higginson B, lf       3  2  2  0   Rodriguez A, ss       4  1  1  2   
+Clark T, dh           5  1  2  1   Rodriguez I, dh       4  0  1  0   
+Simon R, 1b           3  1  1  1   Palmeiro R, 1b        4  0  0  0   
+Halter S, ss-3b       4  1  2  2   Kapler G, cf          3  1  1  1   
+Easley D, 2b          4  1  1  1   Haselman B, c         3  0  2  0   
+Cruz D, 3b-ss         4  0  0  0   Lamb M, ph            1  0  0  0   
+Encarnacion J, rf     3  0  2  0   Sheldon S, 3b         3  0  0  0   
+                                   Catalanotto F, ph     1  0  0  0   
+                                   Porter B, lf          3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 11  5                        34  3  7  3
+
+Detroit          100 100 140 --  7
+Texas            200 000 100 --  3
+
+  Detroit              IP  H  R ER BB SO
+Pettyjohn A           6.2  5  3  3  0  3
+Perisho M (W)*        1.1  2  0  0  0  1
+Anderson M            1.0  0  0  0  1  1
+
+  Texas                IP  H  R ER BB SO
+Myette A              7.0  7  3  3  0  4
+Venafro M (L)+        0.0  3  4  3  0  0
+Villafuerte B         1.0  1  0  0  0  2
+Moreno J              1.0  0  0  0  1  1
+  * Pitched to 1 batter in 9th
+  + Pitched to 4 batters in 8th
+
+E -- Venafro M
+DP -- Texas 2
+LOB -- Detroit 6, Texas 5
+2B -- Fick R, Halter S
+3B -- Halter S
+HR -- Rodriguez A, Easley D, Kapler G
+SB -- Encarnacion J
+SH -- Simon R
+HBP -- by Myette A (Higginson B), by Myette A (Encarnacion J)
+WP -- Myette A, Villafuerte B
+T -- 2:44
+A -- 26621
+     Game of 8/8/2001 -- Detroit at Texas (N)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Cedeno R, cf          4  2  1  1   Catalanotto F, lf     3  1  1  2   
+Cardona J, c          0  0  0  0   Velarde R, 2b         4  2  1  1   
+Fick R, c             4  1  1  1   Rodriguez A, ss       5  1  4  1   
+Macias J, pr-cf       1  1  0  0   Palmeiro R, 1b        5  0  3  1   
+Higginson B, lf       5  1  1  0   Rodriguez I, c        5  0  1  0   
+Jackson R, ph-lf      1  1  1  1   Ledee R, cf           5  0  1  1   
+Clark T, dh           4  1  2  1   Kapler G, dh          3  0  0  0   
+Magee W, ph           0  1  0  0   Lamb M, 3b            5  1  1  0   
+Simon R, 1b           5  3  3  5   Monroe C, rf          5  1  1  0   
+Halter S, ss-3b       5  3  2  5                                      
+Easley D, 2b          6  3  6  3                                      
+Cruz D, 3b-ss         6  1  3  2                                      
+Encarnacion J, rf     6  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     47 19 21 19                        40  6 13  6
+
+Detroit          101 130 00(13) -- 19
+Texas            312 000 000 --  6
+
+  Detroit              IP  H  R ER BB SO
+Cornejo N             3.0  9  6  6  1  3
+Santos V              4.1  4  0  0  1  4
+Perisho M             0.1  0  0  0  0  1
+Patterson D (W)       0.1  0  0  0  0  0
+Nitkowski C           1.0  0  0  0  1  2
+
+  Texas                IP  H  R ER BB SO
+Benoit J              5.0  8  6  6  3  4
+Mahomes P             3.0  2  0  0  0  1
+Venafro M (L)*        0.0  4  6  6  1  0
+Villafuerte B         0.1  6  7  7  1  0
+Petkovsek M           0.2  1  0  0  0  0
+  * Pitched to 6 batters in 9th
+
+E -- Cruz D
+LOB -- Detroit 8, Texas 12
+2B -- Clark T, Catalanotto F, Higginson B, Halter S, Encarnacion J
+3B -- Velarde R, Simon R
+HR -- Fick R, Simon R, Easley D, Cruz D, Halter S
+SB -- Cedeno R
+SF -- Cedeno R
+HBP -- by Cornejo N (Velarde R), by Santos V (Catalanotto F), by Venafro M (Fick R)
+WP -- Venafro M
+T -- 3:26
+A -- 30016
+     Game of 8/9/2001 -- Detroit at Texas (N)
+
+  Detroit            AB  R  H RBI    Texas              AB  R  H RBI
+Cedeno R, cf          4  1  2  0   Catalanotto F, dh     5  2  4  0   
+Fick R, c             3  0  0  1   Velarde R, 2b         5  0  3  2   
+Higginson B, lf       4  0  1  1   Rodriguez A, ss       5  0  1  1   
+Clark T, dh           4  0  0  0   Palmeiro R, 1b        5  0  1  1   
+Simon R, 1b           4  0  1  0   Rodriguez I, c        5  2  2  1   
+Halter S, ss-3b       4  0  1  0   Ledee R, rf           4  1  2  0   
+Easley D, 2b          4  2  2  1   Kapler G, cf          2  0  0  1   
+Cruz D, 3b-ss         4  0  2  0   Lamb M, 3b            3  1  2  1   
+Encarnacion J, rf     4  0  0  0   Curtis C, lf          2  1  0  0   
+                                   Monroe C, lf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  3                        36  7 15  7
+
+Detroit          001 000 101 --  3
+Texas            001 320 01x --  7
+
+  Detroit              IP  H  R ER BB SO
+Sparks S (L)          4.2 11  6  6  2  4
+Pineda L              3.0  3  1  1  2  1
+Nitkowski C           0.1  1  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Helling R (W)         6.2  8  2  1  2  3
+Moreno J              1.1  0  0  0  0  3
+Zimmerman J           1.0  1  1  1  0  0
+
+E -- Rodriguez I, Fick R
+DP -- Detroit 1
+LOB -- Detroit 7, Texas 10
+2B -- Velarde R, Simon R, Rodriguez I, Lamb M, Cruz D, Ledee R
+HR -- Rodriguez I, Easley D
+SB -- Velarde R, Ledee R, Catalanotto F
+CS -- Higginson B
+SF -- Kapler G
+Balk -- Sparks S
+T -- 3:08
+A -- 27652
+     Game of 8/10/2001 -- Cleveland at Texas (N)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Cabrera J, cf         4  0  0  0   Catalanotto F, lf     4  1  3  1   
+Vizquel O, ss         4  0  0  0   Velarde R, 2b         4  0  0  0   
+Alomar R, 2b          4  0  0  0   Rodriguez A, ss       4  0  1  0   
+Gonzalez J, rf        3  1  1  0   Palmeiro R, 1b        4  0  0  0   
+Burks E, dh           3  1  0  0   Rodriguez I, c        3  1  0  0   
+Cordova M, lf         4  0  3  1   Ledee R, rf           3  1  1  1   
+Fryman T, 3b          3  0  2  0   Kapler G, cf          3  2  2  2   
+Cordero W, 1b         2  0  0  1   Lamb M, 3b            3  1  1  1   
+Diaz E, c             3  0  0  0   Curtis C, dh          3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  6  2                        31  7  9  5
+
+Cleveland        000 000 200 --  2
+Texas            004 000 30x --  7
+
+  Cleveland            IP  H  R ER BB SO
+Woodard S (L)*        6.0  6  5  4  0  3
+Rodriguez R           0.2  3  2  2  0  1
+Baez D                0.1  0  0  0  0  1
+Riske D               1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Davis D (W)           8.0  6  2  1  2  3
+Mahomes P             1.0  0  0  0  0  2
+  * Pitched to 1 batter in 7th
+
+E -- Alomar R, Lamb M
+DP -- Cleveland 1, Texas 2
+LOB -- Cleveland 4, Texas 1
+2B -- Kapler G, Lamb M, Catalanotto F
+HR -- Kapler G
+CS -- Catalanotto F
+SF -- Cordero W
+HBP -- by Woodard S (Rodriguez I)
+WP -- Rodriguez R
+T -- 2:40
+A -- 47242
+     Game of 8/11/2001 -- Cleveland at Texas (N)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Lofton K, cf          4  0  1  0   Catalanotto F, lf     3  1  2  0   
+Vizquel O, ss         4  0  0  0   Curtis C, ph          0  1  0  0   
+Alomar R, 2b          3  1  1  1   Monroe C, lf          0  0  0  0   
+Gonzalez J, rf        4  0  1  0   Lamb M, 3b            3  0  1  0   
+Burks E, dh           3  1  0  0   Velarde R, ph-3b      0  1  0  0   
+Thome J, 1b           4  2  3  1   Rodriguez A, ss       3  1  0  0   
+Cordova M, lf         4  1  1  1   Palmeiro R, 1b        3  2  2  2   
+Fryman T, 3b          4  0  1  1   Rodriguez I, c        4  0  1  1   
+Diaz E, c             2  0  1  1   Sierra R, dh          4  0  1  0   
+Branyan R, ph         1  0  0  0   Ledee R, rf           4  0  1  1   
+                                   Kapler G, cf          4  0  0  0   
+                                   Young M, 2b           3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  9  5                        31  6  9  4
+
+Cleveland        100 300 001 --  5
+Texas            000 002 04x --  6
+
+  Cleveland            IP  H  R ER BB SO
+Nagy C                5.2  7  2  2  1  1
+Baez D                1.1  0  0  0  0  1
+Rocker J (L)*         0.0  1  4  3  2  0
+Wickman B             1.0  1  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Oliver D              7.1  7  4  4  3  5
+Petkovsek M (W)       0.2  1  0  0  0  0
+Zimmerman J (S)       1.0  1  1  1  0  2
+  * Pitched to 4 batters in 8th
+
+E -- Fryman T
+DP -- Cleveland 3, Texas 2
+LOB -- Cleveland 4, Texas 5
+2B -- Thome J, Sierra R, Palmeiro R
+HR -- Alomar R, Thome J
+CS -- Diaz E
+HBP -- by Rocker J (Rodriguez A)
+WP -- Nagy C
+Balk -- Rocker J
+PB -- Diaz E
+T -- 3:02
+A -- 43145
+     Game of 8/12/2001 -- Cleveland at Texas (N)
+
+  Cleveland          AB  R  H RBI    Texas              AB  R  H RBI
+Lofton K, cf          4  3  2  2   Curtis C, lf          4  0  0  0   
+Vizquel O, ss         4  2  2  1   Velarde R, 3b         3  1  0  0   
+Alomar R, 2b          5  3  3  4   Rodriguez A, ss       3  0  1  1   
+Cabrera J, 2b         0  0  0  0   Catalanotto F, ph-1b  1  0  0  0   
+Gonzalez J, rf        5  1  2  3   Palmeiro R, 1b        3  0  0  0   
+Cordero W, pr-lf      1  0  0  0   Sheldon S, ph-ss      1  0  0  0   
+Thome J, 1b           3  0  1  0   Sierra R, dh          4  1  1  0   
+Burks E, dh           3  0  1  1   Kapler G, cf          1  0  0  0   
+Cordova M, lf-rf      4  0  0  0   Monroe C, rf          2  0  1  0   
+Fryman T, 3b          3  1  1  1   Haselman B, c         4  0  1  0   
+Branyan R, ph-3b      1  1  1  0   Young M, 2b           3  0  0  1   
+Diaz E, c             3  2  1  1                                      
+Taubensee E, c        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36 13 14 13                        29  2  4  2
+
+Cleveland        210 000 532 -- 13
+Texas            001 100 000 --  2
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        6.0  3  2  2  4  7
+Baez D                1.0  1  0  0  0  0
+Riske D               1.0  0  0  0  0  2
+Rocker J              1.0  0  0  0  2  1
+
+  Texas                IP  H  R ER BB SO
+Bell R (L)*           6.0  7  7  6  3  4
+Petkovsek M+          0.0  1  1  1  0  0
+Moreno J              0.1  1  0  0  0  1
+Foster K              1.2  3  3  3  3  1
+Venafro M             1.0  2  2  2  0  0
+  * Pitched to 4 batters in 7th
+  + Pitched to 1 batter in 7th
+
+E -- Young M
+DP -- Cleveland 1, Texas 1
+LOB -- Cleveland 9, Texas 7
+2B -- Lofton K, Fryman T, Thome J, Rodriguez A, Alomar R
+3B -- Vizquel O 2, Alomar R, Diaz E
+SB -- Monroe C, Kapler G
+SH -- Vizquel O, Diaz E
+SF -- Burks E, Lofton K, Young M, Fryman T
+HBP -- by Bell R (Diaz E), by Venafro M (Cabrera J)
+T -- 3:14
+A -- 28765
+     Game of 8/20/2001 -- New York at Texas (N)
+
+  New York           AB  R  H RBI    Texas              AB  R  H RBI
+Jeter D, ss           5  0  1  1   Catalanotto F, lf     4  0  1  0   
+O'Neill P, rf         5  1  1  1   Lamb M, 3b            5  1  1  1   
+Williams B, cf        5  1  1  0   Rodriguez A, ss       3  1  2  0   
+Martinez T, 1b        5  2  3  2   Palmeiro R, 1b        4  0  0  1   
+Sojo L, 1b            0  0  0  0   Rodriguez I, c        4  1  3  2   
+Justice D, dh         4  2  2  2   Sierra R, dh          4  0  0  0   
+Posada J, c           2  1  1  1   Ledee R, rf           4  0  1  0   
+Spencer S, lf         4  0  0  0   Kapler G, cf          3  1  2  0   
+Soriano A, 2b         4  2  2  1   Young M, 2b           4  1  2  1   
+Bellinger C, 3b       2  0  0  0                                      
+Knoblauch C, ph       1  0  0  0                                      
+Wilson E, 3b          1  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     38  9 12  9                        35  5 12  5
+
+New York         010 012 050 --  9
+Texas            002 030 000 --  5
+
+  New York             IP  H  R ER BB SO
+Clemens R             6.0  9  5  5  1  2
+Stanton M (W)*        1.0  0  0  0  2  0
+Mendoza R             1.0  1  0  0  0  0
+Rivera M              1.0  2  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Helling R             5.1  7  4  4  0  6
+Kolb D                1.2  0  0  0  0  3
+Moreno J (L)          0.1  3  4  4  1  1
+Petkovsek M           0.2  2  1  1  0  0
+Mahomes P             1.0  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Williams B, Young M
+DP -- New York 2
+LOB -- New York 4, Texas 8
+2B -- Ledee R, Rodriguez A, Soriano A
+3B -- Justice D
+HR -- Justice D, Rodriguez I, O'Neill P, Martinez T
+SB -- Kapler G, Soriano A
+CS -- Kapler G
+SF -- Posada J
+HBP -- by Clemens R (Kapler G)
+T -- 3:24
+A -- 35125
+     Game of 8/21/2001 -- New York at Texas (N)
+
+  New York           AB  R  H RBI    Texas              AB  R  H RBI
+Jeter D, ss           3  0  0  0   Catalanotto F, lf     5  2  2  2   
+Wilson E, ph-ss       2  0  0  0   Lamb M, 3b            4  2  2  3   
+O'Neill P, rf         2  0  0  0   Rodriguez A, ss       4  1  1  2   
+Sojo L, 3b            1  0  0  0   Sheldon S, ph-ss      1  0  0  0   
+Williams B, cf        2  0  1  0   Palmeiro R, 1b        3  3  2  1   
+Williams G, cf        1  1  0  0   Velarde R, 1b         1  0  0  0   
+Justice D, dh         4  1  2  2   Rodriguez I, c        4  0  1  1   
+Posada J, c           3  0  0  0   Haselman B, c         1  0  0  0   
+Greene T, c           1  0  0  0   Sierra R, dh          5  2  5  3   
+Spencer S, lf         3  1  1  0   Ledee R, rf           5  0  2  1   
+Johnson N, 1b         4  0  2  1   Kapler G, cf          4  0  0  0   
+Soriano A, 2b         3  0  0  0   Young M, 2b           3  3  2  0   
+Bellinger C, 3b-rf    3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  7  3                        40 13 17 13
+
+New York         010 000 020 --  3
+Texas            322 013 11x -- 13
+
+  New York             IP  H  R ER BB SO
+Hernandez O (L)       5.0 11  8  8  1  1
+Witasick J            2.0  5  4  4  1  2
+Wohlers M             1.0  1  1  1  0  2
+
+  Texas                IP  H  R ER BB SO
+Davis D (W)           7.0  6  1  1  3  1
+Petkovsek M           1.0  1  2  1  0  1
+Foster K              1.0  0  0  0  2  0
+
+E -- Sheldon S
+DP -- Texas 3
+LOB -- New York 7, Texas 6
+2B -- Williams B, Sierra R, Young M
+HR -- Rodriguez A, Catalanotto F, Palmeiro R, Sierra R 2, Justice D
+SF -- Lamb M
+WP -- Davis D, Witasick J
+T -- 2:57
+A -- 34940
+     Game of 8/22/2001 -- New York at Texas (N)
+
+  New York           AB  R  H RBI    Texas              AB  R  H RBI
+Knoblauch C, lf       4  0  2  0   Catalanotto F, lf     5  1  2  0   
+Jeter D, ss           5  0  0  0   Velarde R, 2b         5  1  1  2   
+Williams B, cf        3  0  1  0   Rodriguez A, ss       2  2  0  0   
+Justice D, dh         3  1  0  0   Palmeiro R, 1b        2  1  0  0   
+Posada J, c           4  0  1  0   Rodriguez I, c        0  0  0  0   
+O'Neill P, rf         4  0  1  0   Haselman B, ph-c      4  1  2  2   
+Soriano A, 2b         2  0  0  0   Sierra R, dh          4  0  0  0   
+Johnson N, 1b         3  0  0  0   Lamb M, 3b            3  1  2  1   
+Sojo L, 3b            2  0  0  0   Ledee R, rf           3  0  0  0   
+Wilson E, ph-3b       1  0  0  0   Curtis C, cf          4  1  3  1   
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  0                        32  8 10  6
+
+New York         000 001 000 --  1
+Texas            000 300 50x --  8
+
+  New York             IP  H  R ER BB SO
+Mussina M (L)         6.0  4  3  3  3  8
+Stanton M             0.2  3  5  4  3  0
+Wohlers M             1.1  3  0  0  1  2
+
+  Texas                IP  H  R ER BB SO
+Oliver D (W)          6.0  4  1  1  4  3
+Kolb D                0.1  1  0  0  2  1
+Venafro M             1.2  0  0  0  1  0
+Mahomes P             1.0  0  0  0  0  1
+
+E -- Sojo L, Jeter D
+DP -- New York 3, Texas 2
+LOB -- New York 11, Texas 7
+2B -- O'Neill P, Catalanotto F, Velarde R
+SB -- Knoblauch C 2, Soriano A
+CS -- Curtis C
+HBP -- by Venafro M (Johnson N)
+WP -- Mussina M 2, Oliver D, Stanton M, Wohlers M
+T -- 3:34
+A -- 33442
+     Game of 8/23/2001 -- New York at Texas (N)
+
+  New York           AB  R  H RBI    Texas              AB  R  H RBI
+Knoblauch C, lf       5  1  1  1   Catalanotto F, lf     5  0  3  0   
+Jeter D, ss           5  1  2  1   Velarde R, 1b         5  0  2  0   
+O'Neill P, rf         5  0  0  0   Rodriguez A, ss       3  0  0  0   
+Williams B, cf        5  1  4  0   Palmeiro R, dh        4  1  1  1   
+Justice D, dh         2  0  0  0   Curtis C, rf          4  0  0  0   
+Johnson N, 1b         3  1  1  0   Kapler G, cf          4  0  1  0   
+Soriano A, 2b         4  1  1  1   Lamb M, 3b            3  1  1  0   
+Greene T, c           4  0  1  1   Haselman B, c         3  0  1  1   
+Wilson E, 3b          3  0  0  1   Ledee R, ph           1  0  0  0   
+                                   Young M, 2b           4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 10  5                        36  2 10  2
+
+New York         011 300 000 --  5
+Texas            000 200 000 --  2
+
+  New York             IP  H  R ER BB SO
+Hitchcock S (W)       6.1  8  2  2  2  5
+Mendoza R             1.2  0  0  0  0  3
+Rivera M (S)          1.0  2  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Bell R (L)            6.1 10  5  5  2  5
+Moreno J              0.1  0  0  0  1  1
+Petkovsek M           1.1  0  0  0  0  0
+Zimmerman J           1.0  0  0  0  0  0
+
+LOB -- New York 8, Texas 9
+2B -- Kapler G, Williams B 2, Velarde R, Soriano A, Haselman B
+HR -- Jeter D, Knoblauch C, Palmeiro R
+SB -- Jeter D
+SF -- Wilson E
+WP -- Bell R
+T -- 3:01
+A -- 36158
+     Game of 8/24/2001 -- Boston at Texas (N)
+
+  Boston             AB  R  H RBI    Texas              AB  R  H RBI
+Nixon T, cf           4  2  2  4   Catalanotto F, lf     4  1  3  0   
+Offerman J, 1b        4  1  1  2   Lamb M, 3b            3  0  0  1   
+Garciaparra N, ss     4  0  2  0   Rodriguez A, ss       2  0  0  0   
+Everett C, dh         5  0  0  0   Palmeiro R, 1b        4  0  0  0   
+Bichette D, lf        5  0  1  0   Rodriguez I, c        3  1  2  1   
+Lewis D, lf           0  0  0  0   Sierra R, dh          3  0  0  0   
+O'Leary T, rf         5  1  1  0   Ledee R, rf           4  1  1  1   
+Hillenbrand S, 3b     4  2  2  0   Kapler G, cf          4  0  1  1   
+Lansing M, 2b         5  0  1  1   Young M, 2b           3  1  0  0   
+Mirabelli D, c        2  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  7 11  7                        30  4  7  4
+
+Boston           002 001 040 --  7
+Texas            000 001 210 --  4
+
+  Boston               IP  H  R ER BB SO
+Nomo H*               6.0  3  2  2  4  5
+Beck R (W)            1.0  2  1  1  0  0
+McDill A              0.2  1  1  1  0  2
+Lowe D                0.1  1  0  0  0  0
+Urbina U (S)          1.0  0  0  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Myette A              5.1  6  3  3  3  6
+Michalak C (L)+       1.2  2  1  1  0  0
+Kolb D                0.1  2  3  3  1  1
+Mahomes P             1.2  1  0  0  1  2
+  * Pitched to 2 batters in 7th
+  + Pitched to 1 batter in 8th
+
+E -- Rodriguez A, Young M
+DP -- Boston 1
+LOB -- Boston 10, Texas 5
+2B -- Hillenbrand S, Lansing M, Rodriguez I, Ledee R
+HR -- Offerman J, Nixon T
+SB -- Catalanotto F
+CS -- Catalanotto F, Garciaparra N
+SH -- Offerman J
+SF -- Lamb M
+HBP -- by McDill A (Rodriguez A)
+T -- 3:27
+A -- 45378
+     Game of 8/25/2001 -- Boston at Texas (N)
+
+  Boston             AB  R  H RBI    Texas              AB  R  H RBI
+Nixon T, cf           7  1  0  0   Catalanotto F, lf     9  1  1  1   
+Offerman J, 1b        7  1  1  2   Lamb M, 3b            6  0  2  0   
+Stynes C, 2b          9  1  4  0   Curtis C, pr-rf       2  1  0  0   
+Everett C, dh         7  1  1  2   Rodriguez A, ss       6  1  2  3   
+Bichette D, lf        8  0  3  0   Palmeiro R, 1b        6  1  1  1   
+O'Leary T, rf         7  0  1  1   Rodriguez I, c        8  0  2  0   
+Hillenbrand S, 3b     7  1  2  0   Haselman B, c         1  0  0  1   
+Hatteberg S, c        6  1  2  0   Sierra R, dh          7  0  0  0   
+Lewis D, pr           0  0  0  0   Ledee R, rf           3  1  0  0   
+Mirabelli D, c        0  0  0  0   Sheldon S, 3b         0  0  0  0   
+Lansing M, ss         6  1  2  0   Velarde R, ph-3b      2  0  0  0   
+                                   Kapler G, cf          7  1  2  1   
+                                   Young M, 2b           6  2  3  1   
+                     -- -- -- --                        -- -- -- --
+                     64  7 16  5                        63  8 13  8
+
+Boston           010 110 310 000 000 000 --  7
+Texas            101 002 300 000 000 001 --  8
+  2 outs when winning run was scored.
+
+  Boston               IP  H  R ER BB SO
+Castillo F            5.1  5  4  4  1  6
+Garces R              0.2  0  0  0  0  0
+Wakefield T*          0.0  2  3  3  1  0
+McDill A              0.2  0  0  0  0  0
+Erdos T               1.1  2  0  0  1  0
+Kim S                 3.2  4  0  0  4  1
+Urbina U              2.1  0  0  0  0  3
+Beck R                3.0  0  0  0  0  3
+Lowe D (L)            0.2  0  1  0  2  0
+
+  Texas                IP  H  R ER BB SO
+Helling R             6.1  8  4  4  2  6
+Moreno J+             0.0  0  2  0  2  0
+Petkovsek M           0.2  0  0  0  1  1
+Venafro M             0.2  2  1  1  1  1
+Zimmerman J           2.1  1  0  0  1  3
+Kolb D                1.0  0  0  0  0  1
+Mahomes P             4.0  2  0  0  3  3
+Michalak C (W)        3.0  3  0  0  1  1
+  * Pitched to 3 batters in 7th
+  + Pitched to 2 batters in 7th
+
+E -- Lamb M, Lansing M 2, Rodriguez I
+DP -- Boston 2, Texas 2
+LOB -- Boston 16, Texas 16
+2B -- Lamb M, O'Leary T, Hillenbrand S, Kapler G, Young M, Stynes C, Lansing M
+3B -- Stynes C
+HR -- Everett C, Young M, Rodriguez A, Palmeiro R
+SB -- Rodriguez A, Curtis C
+CS -- Lansing M
+SH -- Young M
+SF -- Rodriguez A, Offerman J
+HBP -- by Erdos T (Ledee R), by Erdos T (Kapler G), by Kim S (Ledee R), by Michalak C (Bichette D)
+WP -- Kim S, Lowe D
+T -- 6:35
+A -- 43775
+     Game of 8/26/2001 -- Boston at Texas (N)
+
+  Boston             AB  R  H RBI    Texas              AB  R  H RBI
+Nixon T, cf           5  1  3  0   Catalanotto F, lf     4  0  1  0   
+Lansing M, 2b         5  1  0  0   Lamb M, 3b            4  0  1  2   
+Garciaparra N, ss     4  0  0  0   Rodriguez A, ss       4  1  2  0   
+Everett C, dh         4  0  1  0   Palmeiro R, 1b        3  0  0  0   
+Bichette D, lf        3  0  1  0   Sierra R, dh          4  0  1  1   
+Hillenbrand S, 1b     4  0  1  1   Kapler G, cf          4  1  1  0   
+O'Leary T, rf         4  1  1  0   Ledee R, rf           4  0  1  1   
+Stynes C, 3b          4  1  2  1   Haselman B, c         4  1  1  0   
+Mirabelli D, c        4  0  0  0   Rodriguez I, c        0  0  0  0   
+                                   Young M, 2b           3  2  1  1   
+                     -- -- -- --                        -- -- -- --
+                     37  4  9  2                        34  5  9  5
+
+Boston           000 030 100 --  4
+Texas            011 102 00x --  5
+
+  Boston               IP  H  R ER BB SO
+Martinez P            4.0  6  3  2  1  4
+Wakefield T (L)       3.0  3  2  1  0  2
+McDill A              0.1  0  0  0  0  0
+Garces R              0.2  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Davis D (W)*          6.0  9  4  1  2  5
+Petkovsek M           0.2  0  0  0  0  1
+Venafro M             1.1  0  0  0  0  0
+Zimmerman J (S)       1.0  0  0  0  0  3
+  * Pitched to 1 batter in 7th
+
+E -- Garciaparra N, Mirabelli D, Lamb M, Rodriguez A, Young M
+LOB -- Boston 9, Texas 7
+2B -- Everett C
+3B -- Kapler G, O'Leary T
+HR -- Young M
+SB -- Rodriguez A 2
+CS -- Bichette D, Hillenbrand S
+HBP -- by Wakefield T (Young M), by Petkovsek M (Everett C)
+PB -- Mirabelli D
+T -- 3:07
+A -- 26208
+     Game of 9/4/2001 -- Minnesota at Texas (N)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Jones J, lf           4  0  0  0   Curtis C, lf-rf       4  1  2  0   
+Guzman C, ss          4  2  2  0   Young M, 2b           4  2  2  3   
+Mientkiewicz D, 1b    3  2  1  1   Rodriguez A, ss       4  0  0  0   
+Koskie C, 3b          4  0  1  2   Palmeiro R, 1b        4  0  1  0   
+Ortiz D, dh           4  1  1  1   Magruder C, pr        0  1  0  0   
+Hunter T, cf          3  0  1  1   Sierra R, dh          4  1  1  0   
+Pierzynski A, c       3  0  1  0   Kapler G, cf          4  1  2  3   
+Kielty B, rf          4  0  0  0   Lamb M, 3b            3  0  0  0   
+Rivas L, 2b           4  0  2  0   Haselman B, c         3  0  1  0   
+                                   Monroe C, rf          2  0  0  0   
+                                   Catalanotto F, ph-lf  0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5  9  5                        32  6  9  6
+
+Minnesota        000 201 020 --  5
+Texas            200 000 112 --  6
+  0 outs when winning run was scored.
+
+  Minnesota            IP  H  R ER BB SO
+Milton E              7.0  5  3  3  0  7
+Jones T               0.2  1  1  1  1  0
+Guardado E*           0.1  1  1  1  0  0
+Hawkins L (L)         0.0  2  1  1  0  0
+
+  Texas                IP  H  R ER BB SO
+Bell R+               7.0  8  4  4  2  5
+Venafro M (W)         2.0  1  1  1  1  0
+  * Pitched to 1 batter in 9th
+  + Pitched to 1 batter in 8th
+
+DP -- Minnesota 1, Texas 3
+LOB -- Minnesota 4, Texas 3
+2B -- Mientkiewicz D, Haselman B, Pierzynski A, Guzman C, Koskie C, Kapler G
+HR -- Young M 2, Ortiz D, Kapler G
+SB -- Koskie C
+T -- 2:41
+A -- 22045
+     Game of 9/5/2001 -- Minnesota at Texas (N)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Jones J, lf           6  3  3  1   Catalanotto F, lf     4  0  2  0   
+Guzman C, ss          5  2  4  3   Lamb M, 3b            4  0  0  0   
+Hocking D, ss         1  0  0  0   Rodriguez A, ss       3  0  0  0   
+Mientkiewicz D, 1b    4  0  0  0   Magruder C, cf        1  0  0  0   
+LeCroy M, ph-1b       1  1  1  0   Palmeiro R, dh        3  0  0  0   
+Koskie C, 3b          4  1  2  1   Monroe C, ph          1  0  0  0   
+Maxwell J, ph-3b      1  0  0  0   Kapler G, cf          3  0  1  0   
+Ortiz D, dh           4  2  3  3   Sheldon S, ss         1  0  0  0   
+Mohr D, ph            1  0  0  0   Ledee R, rf           4  1  2  0   
+Buchanan B, rf        4  1  1  0   Haselman B, c         3  1  1  0   
+Kielty B, rf          1  0  1  1   Jensen M, c           1  0  0  0   
+Hunter T, cf          5  1  3  2   Pena C, 1b            3  0  0  1   
+Pierzynski A, c       5  0  1  0   Young M, 2b           3  0  1  1   
+Prince T, c           0  0  0  0                                      
+Rivas L, 2b           5  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     47 12 20 12                        34  2  7  2
+
+Minnesota        013 112 310 -- 12
+Texas            000 020 000 --  2
+
+  Minnesota            IP  H  R ER BB SO
+Mays J (W)            7.0  5  2  2  0  4
+Duvall M              1.0  1  0  0  0  2
+Carrasco H            1.0  1  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Myette A (L)          2.2  8  4  4  0  4
+Michalak C            2.1  3  2  2  0  1
+Duchscherer J         2.0  6  5  5  0  1
+Petkovsek M           2.0  3  1  1  0  2
+
+E -- Koskie C
+LOB -- Minnesota 8, Texas 5
+2B -- Hunter T 2, Kapler G, Buchanan B, Kielty B
+3B -- Guzman C, Rivas L
+HR -- Ortiz D 2, Guzman C, Jones J
+T -- 3:01
+A -- 29853
+     Game of 9/6/2001 -- Minnesota at Texas (N)
+
+  Minnesota          AB  R  H RBI    Texas              AB  R  H RBI
+Jones J, lf           3  0  1  0   Catalanotto F, lf     4  0  1  0   
+LeCroy M, ph          1  0  0  0   Young M, 2b           4  0  0  0   
+Mohr D, lf            0  0  0  0   Rodriguez A, ss       4  1  1  1   
+Guzman C, ss          4  0  1  0   Palmeiro R, dh        4  0  1  0   
+Mientkiewicz D, 1b    3  0  0  1   Lamb M, 3b            4  2  3  0   
+Koskie C, 3b          4  0  1  1   Kapler G, cf          4  1  2  0   
+Ortiz D, dh           4  1  1  0   Ledee R, rf           3  0  1  1   
+Buchanan B, rf        4  0  1  1   Pena C, 1b            2  0  0  0   
+Hunter T, cf          4  0  1  0   Haselman B, c         3  0  2  2   
+Pierzynski A, c       4  1  1  0                                      
+Maxwell J, 2b         3  1  1  0                                      
+Hocking D, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        32  4 11  4
+
+Minnesota        010 020 000 --  3
+Texas            010 210 00x --  4
+
+  Minnesota            IP  H  R ER BB SO
+Radke B (L)           7.0 11  4  4  1  3
+Guardado E            0.2  0  0  0  0  0
+Wells B               0.1  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Helling R (W)         6.0  7  3  1  0  6
+Venafro M             1.2  1  0  0  0  1
+Zimmerman J (S)       1.1  0  0  0  0  2
+
+E -- Pena C
+LOB -- Minnesota 6, Texas 5
+2B -- Ortiz D, Jones J, Lamb M, Palmeiro R, Ledee R
+HR -- Rodriguez A
+SB -- Kapler G
+CS -- Haselman B
+SF -- Mientkiewicz D
+T -- 2:48
+A -- 26192
+     Game of 9/7/2001 -- Kansas City at Texas (N)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Febles C, 2b          4  1  1  0   Catalanotto F, lf     4  0  1  1   
+Perez N, ss           3  0  0  0   Lamb M, 3b            4  0  0  1   
+Sadler D, ss          0  0  0  0   Rodriguez A, ss       3  2  1  1   
+Beltran C, cf         4  1  1  1   Palmeiro R, dh        3  1  2  3   
+Sweeney M, 1b         3  0  1  0   Sierra R, rf          4  1  1  0   
+Randa J, dh           4  0  1  1   Monroe C, rf          0  0  0  0   
+Quinn M, rf           4  0  1  0   Kapler G, cf          4  1  2  0   
+Alicea L, 3b          3  0  1  0   Pena C, 1b            3  1  1  0   
+Brown D, lf           3  0  0  0   Haselman B, c         4  1  1  1   
+Ortiz H, c            3  0  0  0   Young M, 2b           2  1  0  1   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        31  8  9  8
+
+Kansas City      200 000 000 --  2
+Texas            100 700 00x --  8
+
+  Kansas City          IP  H  R ER BB SO
+Wilson K (L)*         3.0  6  5  5  1  0
+Stein B               3.0  3  3  3  4  3
+Austin J              1.0  0  0  0  0  1
+Reichert D            1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Davis D (W)           7.0  6  2  2  0  8
+Kolb D                1.0  0  0  0  0  0
+Mahomes P             1.0  0  0  0  1  0
+  * Pitched to 4 batters in 4th
+
+E -- Sadler D
+DP -- Kansas City 2, Texas 2
+LOB -- Kansas City 4, Texas 6
+2B -- Febles C, Beltran C, Randa J, Palmeiro R, Sierra R
+HR -- Rodriguez A, Palmeiro R
+SH -- Perez N
+SF -- Palmeiro R
+HBP -- by Reichert D (Young M)
+WP -- Davis D
+T -- 2:48
+A -- 29954
+     Game of 9/8/2001 -- Kansas City at Texas (N)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Febles C, 2b          5  1  2  1   Catalanotto F, lf     4  1  2  0   
+Perez N, ss           4  1  1  0   Curtis C, dh          3  0  0  0   
+Beltran C, cf         5  1  2  1   Sierra R, ph          1  0  0  0   
+Sweeney M, 1b         4  2  2  2   Rodriguez A, ss       4  1  1  2   
+Randa J, 3b           5  0  3  1   Palmeiro R, 1b        4  0  0  0   
+Quinn M, rf           5  0  1  0   Kapler G, cf          4  0  1  0   
+Zaun G, c             4  0  0  0   Lamb M, 3b            4  0  0  0   
+McCarty D, dh         2  1  1  1   Haselman B, c         2  1  1  1   
+Alicea L, ph          1  1  1  1   Pena C, ph            0  0  0  0   
+Brown D, lf           4  1  1  1   Magruder C, rf        4  0  2  0   
+                                   Young M, 2b           2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  8 14  8                        32  3  8  3
+
+Kansas City      221 010 011 --  8
+Texas            200 000 100 --  3
+
+  Kansas City          IP  H  R ER BB SO
+George C (W)          6.1  8  3  3  1  3
+Bailey C              0.1  0  0  0  1  0
+Grimsley J            1.1  0  0  0  0  0
+Voyles B              1.0  0  0  0  1  0
+
+  Texas                IP  H  R ER BB SO
+Oliver D (L)          5.0 11  6  6  1  0
+Mahomes P             3.0  2  1  1  0  1
+Moreno J              0.2  0  1  0  1  0
+Petkovsek M           0.1  1  0  0  0  0
+
+E -- Rodriguez A
+DP -- Kansas City 3, Texas 1
+LOB -- Kansas City 7, Texas 5
+2B -- Febles C 2, McCarty D, Beltran C
+3B -- Beltran C, Catalanotto F
+HR -- Rodriguez A, Sweeney M, Haselman B, Alicea L
+SF -- McCarty D
+T -- 2:38
+A -- 37501
+     Game of 9/9/2001 -- Kansas City at Texas (D)
+
+  Kansas City        AB  R  H RBI    Texas              AB  R  H RBI
+Febles C, 2b          5  0  0  0   Catalanotto F, lf-1b  5  0  2  0   
+Perez N, ss           5  0  1  0   Lamb M, 3b            5  0  1  0   
+Beltran C, cf         5  1  2  1   Monroe C, pr          0  0  0  0   
+Sweeney M, dh         4  0  1  0   Sheldon S, 3b         1  0  0  0   
+Berger B, pr          1  0  0  0   Rodriguez A, ss       5  0  1  0   
+Alicea L, 3b          5  0  1  0   Palmeiro R, dh        6  2  2  2   
+Ibanez R, 1b          3  1  1  0   Sierra R, rf          5  2  2  1   
+McCarty D, ph-1b      2  0  0  0   Ledee R, cf-lf        5  0  2  1   
+Quinn M, rf           5  1  1  1   Pena C, 1b            4  0  0  0   
+Brown D, lf           5  0  0  0   Magruder C, pr        0  0  0  0   
+Mayne B, c            2  0  0  1   Haselman B, c         0  0  0  0   
+Zaun G, ph-c          1  0  0  0   Young M, 2b           3  0  2  0   
+                                   Jensen M, c           4  0  0  0   
+                                   Kapler G, ph-cf       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     43  3  7  3                        44  4 12  4
+
+Kansas City      010 011 000 000 --  3
+Texas            000 101 010 001 --  4
+  1 out when winning run was scored.
+
+  Kansas City          IP  H  R ER BB SO
+Suppan J              6.1  9  2  2  1  1
+Grimsley J            1.2  1  1  1  1  1
+Mullen S              0.1  1  0  0  0  0
+Bailey C              2.0  0  0  0  1  1
+Hernandez R (L)       1.0  1  1  1  1  2
+
+  Texas                IP  H  R ER BB SO
+Bell R                8.0  6  3  2  0  4
+Venafro M             2.0  1  0  0  1  1
+Zimmerman J (W)       2.0  0  0  0  0  0
+
+E -- Perez N, Ibanez R, Lamb M, Pena C, Venafro M
+DP -- Kansas City 1, Texas 2
+LOB -- Kansas City 6, Texas 11
+2B -- Ibanez R, Sierra R, Sweeney M
+HR -- Beltran C, Palmeiro R 2, Sierra R
+SB -- Beltran C
+SH -- Young M
+SF -- Mayne B
+T -- 3:44
+A -- 24057
+     Game of 9/18/2001 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Damon J, cf           3  2  1  0   Catalanotto F, lf-1b  4  1  1  0   
+Tejada M, ss          5  1  2  1   Curtis C, rf          2  2  1  0   
+Giambi J, 1b          5  0  2  1   Ledee R, ph-rf        1  0  0  0   
+Dye J, rf             3  0  2  0   Rodriguez A, ss       4  2  3  2   
+Chavez E, 3b          5  1  1  1   Palmeiro R, 1b        2  0  0  1   
+Myers G, dh           3  0  0  0   Magruder C, pr-lf     0  0  0  0   
+Saenz O, ph           2  0  0  0   Sierra R, dh          4  0  0  1   
+Long T, lf            4  0  1  0   Kapler G, cf          3  0  0  0   
+Hernandez R, c        4  1  2  1   Lamb M, 3b            4  0  1  0   
+Menechino F, 2b       3  1  0  0   Haselman B, c         3  0  1  0   
+                                   Pena C, ph            1  0  0  0   
+                                   Young M, 2b           4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 11  4                        32  5  7  4
+
+Oakland          001 101 300 --  6
+Texas            200 002 010 --  5
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)*         6.0  6  4  4  2  3
+Tam J                 1.1  1  1  1  0  1
+Mecir J               0.2  0  0  0  1  0
+Isringhausen J (S)    1.0  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Helling R             6.0  7  3  3  1  4
+Kolb D                0.1  0  1  1  1  0
+Venafro M (L)         0.1  2  2  2  2  0
+Mahomes P             1.1  1  0  0  0  3
+Zimmerman J           1.0  1  0  0  1  1
+  * Pitched to 1 batter in 7th
+
+E -- Venafro M
+DP -- Oakland 2, Texas 1
+LOB -- Oakland 9, Texas 4
+2B -- Hernandez R, Damon J, Giambi J, Rodriguez A
+HR -- Hernandez R, Chavez E, Rodriguez A
+SB -- Rodriguez A
+HBP -- by Mulder M (Palmeiro R)
+WP -- Venafro M
+T -- 3:23
+A -- 21517
+     Game of 9/19/2001 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Damon J, cf           3  1  1  1   Catalanotto F, lf     4  1  0  0   
+Byrnes E, ph          1  0  1  0   Young M, 2b           5  0  0  0   
+Hernandez R, c        5  0  1  0   Rodriguez A, ss       5  2  4  2   
+Giambi J, 1b          4  0  1  1   Palmeiro R, dh        4  1  1  0   
+Saenz O, ph           1  0  0  0   Lamb M, 3b            4  1  1  1   
+Dye J, rf             4  0  0  0   Kapler G, cf          3  2  2  1   
+Gant R, dh            4  0  1  0   Ledee R, rf           2  0  0  0   
+Long T, lf            4  1  1  0   Haselman B, c         4  1  2  2   
+Tejada M, ss          2  1  1  2   Pena C, 1b            4  2  2  2   
+Chavez E, 3b          4  0  1  0                                      
+Santangelo F, 2b      4  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4 10  4                        35 10 12  8
+
+Oakland          000 220 000 --  4
+Texas            303 110 02x -- 10
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (L)          3.0  5  6  4  4  1
+Heredia G             1.0  2  1  1  0  0
+Guthrie M             1.0  2  1  1  1  1
+Fyhrie M              1.0  0  0  0  0  2
+Harville C            1.0  0  0  0  0  1
+Vizcaino L            1.0  3  2  2  0  1
+
+  Texas                IP  H  R ER BB SO
+Davis D (W)           6.0  7  4  4  2  6
+Michalak C (S)        3.0  3  0  0  1  1
+
+E -- Hernandez R, Long T
+DP -- Texas 1
+LOB -- Oakland 8, Texas 6
+2B -- Palmeiro R, Santangelo F, Lamb M, Damon J
+HR -- Rodriguez A, Tejada M, Pena C 2, Haselman B
+SB -- Catalanotto F, Kapler G, Rodriguez A
+T -- 3:11
+A -- 25013
+     Game of 9/20/2001 -- Oakland at Texas (N)
+
+  Oakland            AB  R  H RBI    Texas              AB  R  H RBI
+Damon J, cf           4  1  1  0   Curtis C, lf          2  0  0  0   
+Tejada M, ss          4  1  1  2   Young M, 2b           4  1  3  0   
+Giambi J, dh          4  0  1  0   Rodriguez A, ss       3  0  0  0   
+Dye J, rf             4  0  0  1   Palmeiro R, dh        4  1  1  1   
+Long T, lf            5  1  3  0   Sierra R, rf          4  0  2  1   
+Saenz O, 1b           3  1  1  0   Kapler G, cf          4  0  2  0   
+Giambi J, ph-1b       1  0  0  0   Haselman B, c         3  0  0  0   
+Hernandez R, c        4  1  1  0   Magruder C, ph        1  0  0  0   
+Chavez E, 3b          4  1  3  4   Sheldon S, 3b         2  0  0  0   
+Santangelo F, 2b      3  1  1  0   Ledee R, ph           1  0  0  0   
+                                   Pena C, 1b            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 12  7                        31  2  8  2
+
+Oakland          100 021 030 --  7
+Texas            010 100 000 --  2
+
+  Oakland              IP  H  R ER BB SO
+Zito B (W)            6.0  6  2  2  4  5
+Magnante M            1.0  0  0  0  0  1
+Mecir J               2.0  2  0  0  0  3
+
+  Texas                IP  H  R ER BB SO
+Oliver D (L)          6.0  8  4  4  2  4
+Kolb D                1.0  0  0  0  1  1
+Petkovsek M           1.0  4  3  3  1  0
+Moreno J              1.0  0  0  0  1  0
+
+DP -- Oakland 3
+LOB -- Oakland 9, Texas 6
+2B -- Young M, Damon J, Saenz O
+HR -- Palmeiro R, Chavez E
+SB -- Long T, Curtis C, Chavez E
+CS -- Kapler G, Long T, Tejada M, Sheldon S
+SF -- Dye J
+HBP -- by Oliver D (Santangelo F)
+WP -- Kolb D
+T -- 3:00
+A -- 22219
+     Game of 9/21/2001 -- Anaheim at Texas (N)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Erstad D, cf          4  2  2  2   Catalanotto F, lf     5  0  2  0   
+Eckstein D, ss        4  1  1  0   Young M, 2b           5  0  0  0   
+Anderson G, lf        4  0  1  1   Rodriguez A, ss       5  1  3  1   
+Spiezio S, 1b         5  0  2  1   Palmeiro R, dh        5  1  2  0   
+Glaus T, 3b           2  2  1  0   Sierra R, rf          3  3  1  2   
+Salmon T, rf          4  2  2  2   Monroe C, rf          0  0  0  0   
+Kennedy A, 2b         4  1  1  0   Lamb M, 3b            5  1  2  0   
+Molina B, c           4  0  1  2   Kapler G, cf          2  2  0  0   
+Gil B, pr             0  0  0  0   Pena C, 1b            4  1  4  5   
+Fabregas J, c         0  0  0  0   Haselman B, c         3  0  1  1   
+Palmeiro O, dh        3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  8 11  8                        37  9 15  9
+
+Anaheim          101 002 130 --  8
+Texas            010 430 10x --  9
+
+  Anaheim              IP  H  R ER BB SO
+Valdes I (L)*         4.0  9  7  7  3  3
+Rapp P                2.0  2  1  1  0  1
+Holtz M               0.2  2  1  1  1  1
+Miadich B             0.1  0  0  0  1  0
+Levine A              1.0  2  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Bell R (W)            6.2  8  5  5  2  2
+Venafro M+            0.1  1  3  3  2  0
+Zimmerman J (S)       2.0  2  0  0  1  0
+  * Pitched to 2 batters in 5th
+  + Pitched to 3 batters in 8th
+
+E -- Rodriguez A
+DP -- Anaheim 1, Texas 1
+LOB -- Anaheim 8, Texas 9
+2B -- Erstad D, Spiezio S 2, Kennedy A, Pena C 2, Haselman B, Glaus T
+3B -- Pena C
+HR -- Rodriguez A, Sierra R, Salmon T, Erstad D
+SB -- Eckstein D
+CS -- Glaus T, Catalanotto F
+SH -- Eckstein D, Palmeiro O
+SF -- Erstad D
+HBP -- by Venafro M (Kennedy A)
+T -- 3:18
+A -- 37291
+     Game of 9/22/2001 -- Anaheim at Texas (N)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Erstad D, cf          4  0  0  0   Catalanotto F, lf     4  1  1  0   
+Eckstein D, ss        4  1  3  1   Young M, 2b           4  0  0  0   
+Anderson G, lf        4  0  0  0   Rodriguez A, ss       4  1  2  1   
+Spiezio S, 1b         4  1  2  0   Palmeiro R, dh        4  2  2  3   
+Glaus T, 3b           2  1  1  2   Sierra R, rf          4  1  1  1   
+Salmon T, rf          4  0  0  0   Monroe C, rf          0  0  0  0   
+Kennedy A, dh         4  0  1  0   Lamb M, 3b            3  0  1  0   
+Fabregas J, c         4  1  1  0   Kapler G, cf          3  0  0  0   
+Nieves J, 2b          2  0  1  0   Pena C, 1b            3  0  1  0   
+                                   Haselman B, c         2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  9  3                        31  5  8  5
+
+Anaheim          300 010 000 --  4
+Texas            102 001 01x --  5
+
+  Anaheim              IP  H  R ER BB SO
+Wise M*               5.0  7  4  4  2  3
+Hasegawa S            2.0  0  0  0  0  1
+Holtz M (L)           0.2  1  1  1  0  0
+Pote L                0.1  0  0  0  0  1
+
+  Texas                IP  H  R ER BB SO
+Myette A              7.0  7  4  4  0  3
+Michalak C            0.2  1  0  0  0  0
+Mahomes P (W)         1.1  1  0  0  1  1
+  * Pitched to 2 batters in 6th
+
+DP -- Texas 3
+LOB -- Anaheim 5, Texas 5
+2B -- Rodriguez A, Spiezio S, Eckstein D
+HR -- Glaus T, Palmeiro R 2, Sierra R
+SH -- Nieves J, Kapler G
+HBP -- by Myette A (Glaus T), by Myette A (Nieves J)
+WP -- Myette A
+T -- 2:43
+A -- 38781
+     Game of 9/23/2001 -- Anaheim at Texas (D)
+
+  Anaheim            AB  R  H RBI    Texas              AB  R  H RBI
+Erstad D, dh          4  0  0  0   Catalanotto F, lf     4  1  1  1   
+Eckstein D, ss        5  1  2  0   Young M, 2b           4  0  1  0   
+Anderson G, lf        5  0  3  0   Rodriguez A, ss       4  1  2  1   
+Spiezio S, 1b         4  0  0  1   Palmeiro R, dh        3  1  1  1   
+Glaus T, 3b           4  1  3  0   Sierra R, rf          4  0  2  1   
+Salmon T, rf          4  0  1  0   Monroe C, rf          0  0  0  0   
+Kennedy A, 2b         2  0  0  1   Pena C, 1b            3  1  0  0   
+Fernandez J, ph       1  0  0  0   Ledee R, cf           3  1  1  0   
+Gil B, 2b             0  0  0  0   Sheldon S, 3b         4  0  1  0   
+Molina B, c           3  0  1  0   Jensen M, c           4  0  1  0   
+DaVanon J, cf         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  2 10  2                        33  5 10  4
+
+Anaheim          010 000 010 --  2
+Texas            102 020 00x --  5
+
+  Anaheim              IP  H  R ER BB SO
+Ortiz R (L)           4.2  8  5  5  5  3
+Pote L                3.1  2  0  0  0  4
+
+  Texas                IP  H  R ER BB SO
+Helling R (W)         7.0  6  1  1  1  4
+Kolb D                0.2  3  1  1  0  0
+Moreno J              0.1  0  0  0  0  1
+Zimmerman J (S)       1.0  1  0  0  1  2
+
+DP -- Texas 1
+LOB -- Anaheim 10, Texas 11
+2B -- Anderson G 2, Glaus T 2, Molina B
+HR -- Rodriguez A, Palmeiro R
+SB -- Rodriguez A, Catalanotto F, Ledee R
+SH -- Young M
+SF -- Kennedy A
+HBP -- by Helling R (Molina B), by Ortiz R (Rodriguez A)
+WP -- Kolb D
+T -- 2:58
+A -- 34542
+     Game of 9/24/2001 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Suzuki I, rf          5  1  2  0   Catalanotto F, lf     5  1  2  0   
+Guillen C, ss         4  1  1  0   Young M, 2b           4  1  2  1   
+Vazquez R, ss         0  0  0  0   Rodriguez A, ss       4  0  1  0   
+Boone B, 2b           5  2  3  0   Palmeiro R, 1b        4  0  2  0   
+Martinez E, dh        4  1  1  1   Sierra R, rf          3  0  2  2   
+Cameron M, cf         4  1  2  2   Kapler G, cf          5  0  1  0   
+Olerud J, 1b          4  1  2  2   Pena C, dh            5  0  0  0   
+Buhner J, lf          3  0  0  0   Haselman B, c         3  1  1  0   
+Gipson C, pr-lf       1  1  0  0   Sheldon S, 3b         4  0  1  0   
+Sprague E, 3b         2  0  0  0                                      
+McLemore M, 3b        3  1  1  3                                      
+Wilson D, c           5  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     40  9 13  9                        37  3 12  3
+
+Seattle          003 020 400 --  9
+Texas            100 010 010 --  3
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (W)           5.0  8  2  2  2  5
+Nelson J*             1.0  0  0  0  1  1
+Charlton N            1.0  1  0  0  0  0
+Franklin R            2.0  3  1  0  0  2
+
+  Texas                IP  H  R ER BB SO
+Davis D (L)+          4.0  8  5  5  2  3
+Mahomes P             2.1  1  3  3  4  1
+Venafro M             1.2  3  1  1  0  1
+Petkovsek M           1.0  1  0  0  0  2
+  * Pitched to 1 batter in 7th
+  + Pitched to 4 batters in 5th
+
+E -- Rodriguez A, Sprague E, Guillen C
+DP -- Texas 1
+LOB -- Seattle 11, Texas 13
+2B -- Boone B 2, Olerud J, McLemore M, Wilson D, Cameron M
+3B -- Young M, Martinez E
+SB -- Suzuki I
+SF -- Sierra R 2
+HBP -- by Venafro M (Guillen C), by Nelson J (Rodriguez A)
+T -- 3:38
+A -- 22765
+     Game of 9/25/2001 -- Seattle at Texas (N)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Suzuki I, rf          5  1  2  0   Catalanotto F, lf     3  0  0  0   
+Kingsale E, rf        1  0  0  0   Magruder C, lf        2  0  0  0   
+McLemore M, 3b-2b-cf  5  1  2  1   Young M, 2b           5  1  2  0   
+Martin A, ph          1  1  1  2   Rodriguez A, ss       4  0  2  1   
+Wilson D, 1b          0  0  0  0   Dransfeldt K, ss      1  0  0  0   
+Boone B, 2b           4  1  3  4   Palmeiro R, dh        3  0  0  0   
+Gipson C, 3b-cf       2  0  1  0   Sierra R, rf          4  0  2  0   
+Martinez E, dh        6  0  0  0   Kapler G, cf          4  1  0  0   
+Olerud J, 1b          2  1  1  2   Pena C, 1b            3  0  1  0   
+Sprague E, ph-1b-3b   2  0  0  0   Haselman B, c         4  0  1  1   
+Cameron M, cf         3  1  0  0   Sheldon S, 3b         4  0  0  0   
+Vazquez R, 2b         0  0  0  0                                      
+Javier S, lf          5  2  2  1                                      
+Guillen C, ss         4  3  3  2                                      
+Lampkin T, c          4  2  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     44 13 16 13                        37  2  8  2
+
+Seattle          040 212 004 -- 13
+Texas            001 100 000 --  2
+
+  Seattle              IP  H  R ER BB SO
+Sele A (W)            7.0  6  2  1  1  3
+Paniagua J            1.0  2  0  0  1  2
+Halama J              1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Duchscherer J (L)     3.2  7  6  6  1  3
+Michalak C            2.1  4  3  3  2  3
+Kolb D                1.0  0  0  0  0  2
+Moreno J              1.0  0  0  0  0  0
+Petkovsek M           1.0  5  4  4  0  1
+
+E -- McLemore M, Olerud J, Boone B, Lampkin T
+DP -- Seattle 1
+LOB -- Seattle 10, Texas 10
+2B -- Boone B, Gipson C
+3B -- Javier S, Guillen C
+HR -- Guillen C, Olerud J, Martin A
+SB -- Suzuki I 2, Cameron M, Guillen C, McLemore M
+HBP -- by Duchscherer J (Cameron M), by Duchscherer J (Lampkin T), by Duchscherer J (Olerud J)
+WP -- Michalak C
+T -- 3:08
+A -- 27781
+     Game of 9/26/2001 -- Seattle at Texas (D)
+
+  Seattle            AB  R  H RBI    Texas              AB  R  H RBI
+Suzuki I, rf          6  1  2  0   Catalanotto F, lf-3b  3  1  2  1   
+McLemore M, 3b        3  1  1  0   Young M, 2b           4  0  0  0   
+Vazquez R, pr-3b-ss   1  0  0  0   Rodriguez A, ss       5  1  1  2   
+Boone B, 2b           4  2  2  2   Palmeiro R, 1b        4  0  1  0   
+Olerud J, 1b          3  0  1  0   Sierra R, dh          4  0  0  0   
+Cameron M, cf         3  1  1  1   Kapler G, cf          4  2  3  2   
+Martin A, dh          4  0  0  0   Ledee R, rf           3  0  0  0   
+Javier S, lf          4  1  1  2   Curtis C, ph-rf       1  0  0  0   
+Gipson C, lf-3b       0  0  0  0   Haselman B, c         2  1  1  0   
+Guillen C, ss         4  0  1  1   Magruder C, ph-lf     1  0  1  0   
+Kingsale E, lf        0  0  0  0   Sheldon S, 3b         3  0  0  0   
+Wilson D, c           4  1  1  1   Pena C, ph            1  0  0  0   
+                                   Jensen M, c           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 10  7                        35  5  9  5
+
+Seattle          100 050 100 --  7
+Texas            002 200 100 --  5
+
+  Seattle              IP  H  R ER BB SO
+Abbott P (W)          5.0  6  4  4  3  5
+Pineiro J             1.0  1  0  0  1  1
+Rhodes A              1.0  1  1  1  0  1
+Nelson J              1.0  1  0  0  1  1
+Sasaki K (S)          1.0  0  0  0  0  0
+
+  Texas                IP  H  R ER BB SO
+Bell R (L)            4.2  7  6  6  5  5
+Mahomes P             1.1  1  0  0  3  0
+Moreno J              1.0  1  1  1  0  0
+Kolb D                1.0  1  0  0  1  0
+Zimmerman J           1.0  0  0  0  0  0
+
+DP -- Seattle 1
+LOB -- Seattle 12, Texas 9
+2B -- Haselman B, Javier S, McLemore M, Catalanotto F, Boone B
+HR -- Rodriguez A, Kapler G 2, Wilson D
+SB -- Suzuki I 3, McLemore M, Cameron M
+CS -- Javier S
+HBP -- by Bell R (Boone B), by Abbott P (Catalanotto F)
+WP -- Abbott P
+T -- 3:26
+A -- 24712
+

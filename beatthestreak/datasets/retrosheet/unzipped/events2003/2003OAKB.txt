@@ -1,0 +1,3256 @@
+     Game of 4/1/2003 -- Seattle at Oakland (N)
+
+  Seattle            AB  R  H RBI    Oakland            AB  R  H RBI
+Suzuki I, rf          4  0  0  0   Ellis M, 2b           3  0  0  0   
+Winn R, lf            4  0  3  0   Hatteberg S, 1b       4  0  1  0   
+Martinez E, dh        3  0  0  0   Tejada M, ss          4  1  0  0   
+Olerud J, 1b          4  0  0  0   Chavez E, 3b          3  2  1  0   
+Boone B, 2b           4  0  1  0   Dye J, rf             3  1  0  0   
+Cameron M, cf         4  0  1  0   Durazo E, dh          4  1  2  5   
+Cirillo J, 3b         3  0  0  0   Long T, lf            4  0  2  0   
+Davis B, c            3  0  0  0   Hernandez R, c        4  0  2  0   
+McLemore M, ss        2  0  0  0   Singleton C, cf       3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  5  0                        32  5  8  5
+
+Seattle          000 000 000 --  0
+Oakland          020 030 00x --  5
+
+  Seattle              IP  H  R ER BB SO
+Garcia F (L)          4.2  8  5  5  2  4
+Hasegawa S            1.1  0  0  0  1  1
+Mateo J               1.0  0  0  0  0  0
+Carrara G             1.0  0  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (W)          8.0  5  0  0  2  4
+Rincon R              1.0  0  0  0  0  2
+
+DP -- Oakland 1
+LOB -- Seattle 6, Oakland 6
+2B -- Winn R, Durazo E
+HR -- Durazo E
+WP -- Garcia F
+T -- 2:39
+A -- 41723
+     Game of 4/2/2003 -- Seattle at Oakland (N)
+
+  Seattle            AB  R  H RBI    Oakland            AB  R  H RBI
+Suzuki I, rf          4  1  2  0   Ellis M, 2b           5  1  2  2   
+Winn R, lf            4  0  0  0   Hatteberg S, 1b       4  1  1  0   
+Martinez E, dh        2  1  1  0   Tejada M, ss          4  1  1  3   
+Boone B, 2b           4  1  1  0   Menechino F, ph-ss    1  0  0  0   
+Olerud J, 1b          4  0  2  2   Chavez E, 3b          3  2  1  1   
+Cameron M, cf         3  0  0  0   Dye J, rf             4  1  2  0   
+Cirillo J, 3b         4  0  0  0   Byrnes E, ph-rf       1  0  0  0   
+Guillen C, ss         4  0  0  1   Durazo E, dh          2  0  0  0   
+Davis B, c            2  0  0  0   Long T, lf            3  1  1  1   
+Mabry J, ph           1  0  0  0   Hernandez R, c        3  1  1  1   
+Borders P, c          1  0  0  0   Singleton C, cf       4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        34  8  9  8
+
+Seattle          100 000 002 --  3
+Oakland          004 220 00x --  8
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (L)           4.1  7  8  6  4  3
+Mateo J               2.2  2  0  0  2  1
+Rhodes A              0.2  0  0  0  1  1
+Nelson J              0.1  0  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Zito B (W)            6.0  3  1  1  2  3
+Fikac J               2.0  0  0  0  0  1
+Bradford C            1.0  3  2  2  1  1
+
+E -- Guillen C
+LOB -- Seattle 6, Oakland 9
+2B -- Ellis M 2
+HR -- Tejada M, Chavez E
+PB -- Hernandez R
+T -- 2:58
+A -- 17033
+     Game of 4/3/2003 -- Seattle at Oakland (D)
+
+  Seattle            AB  R  H RBI    Oakland            AB  R  H RBI
+Suzuki I, rf          6  1  3  1   Ellis M, 2b           3  2  1  0   
+Winn R, lf            5  2  2  0   Hatteberg S, 1b       4  0  1  1   
+Martinez E, dh        3  0  1  2   Tejada M, ss          6  0  1  0   
+McLemore M, pr        1  1  1  1   Chavez E, 3b          4  1  1  1   
+Boone B, 2b           5  0  1  1   Dye J, rf             5  1  2  2   
+Cameron M, cf         4  0  1  1   Durazo E, dh          3  0  1  1   
+Colbrunn G, 1b        2  1  0  0   Piatt A, ph           3  0  0  0   
+Olerud J, 1b          2  0  1  0   Long T, lf            4  1  1  1   
+Cirillo J, 3b         5  0  1  0   Hernandez R, c        5  0  1  0   
+Davis B, c            5  1  1  1   Byrnes E, cf          2  0  0  0   
+Bloomquist W, ss      3  1  0  0   Singleton C, ph-cf    2  1  1  0   
+Guillen C, ss         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42  7 12  7                        41  6 10  6
+
+Seattle          200 200 000 12 --  7
+Oakland          100 200 001 11 --  6
+
+  Seattle              IP  H  R ER BB SO
+Pineiro J             6.0  5  3  3  3  3
+Hasegawa S*           0.0  0  0  0  1  0
+Rhodes A              2.0  1  0  0  1  1
+Sasaki K              1.0  2  1  1  1  1
+Nelson J (W)          2.0  2  2  1  1  3
+
+  Oakland              IP  H  R ER BB SO
+Mulder M              6.0  8  4  4  4  1
+Bowie M               2.0  0  0  0  0  2
+Foulke K              2.0  2  1  1  0  1
+Rincon R (L)          1.0  2  2  2  1  0
+  * Pitched to 1 batter in 7th
+
+E -- Bloomquist W, Olerud J
+DP -- Seattle 1, Oakland 1
+LOB -- Seattle 9, Oakland 12
+2B -- Winn R, Boone B, Chavez E, Dye J, Suzuki I, Martinez E, Olerud J, McLemore M
+HR -- Long T, Davis B
+SB -- Winn R
+SH -- Hatteberg S, Ellis M, Boone B
+SF -- Cameron M, Dye J
+WP -- Sasaki K
+T -- 3:42
+A -- 6295
+     Game of 4/4/2003 -- Anaheim at Oakland (N)
+
+  Anaheim            AB  R  H RBI    Oakland            AB  R  H RBI
+Eckstein D, ss        3  1  0  0   Ellis M, 2b           5  0  0  0   
+Erstad D, cf          3  0  0  0   Singleton C, cf       4  2  2  0   
+Salmon T, rf          3  1  1  1   Tejada M, ss          5  2  3  1   
+Anderson G, lf        4  0  3  2   Chavez E, 3b          4  1  2  1   
+Glaus T, 3b           4  0  0  0   Dye J, rf             3  1  1  1   
+Spiezio S, 1b         4  0  0  0   Durazo E, 1b          3  1  2  4   
+Wooten S, dh          3  0  0  0   Long T, lf            3  0  0  0   
+Kennedy A, ph         0  0  0  0   Gant R, dh            4  0  0  0   
+Molina J, c           2  0  0  0   Johnson M, c          4  0  0  0   
+Owens E, ph           0  1  0  0                                      
+Molina B, c           1  0  0  0                                      
+Gil B, 2b             3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  3  4  3                        35  7 10  7
+
+Anaheim          000 100 020 --  3
+Oakland          301 120 00x --  7
+
+  Anaheim              IP  H  R ER BB SO
+Appier K (L)*         4.0  8  7  7  3  3
+Shields S             3.0  1  0  0  1  4
+Weber B               1.0  1  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Lilly T (W)           7.1  3  2  2  2  3
+Fikac J               0.1  1  1  1  2  0
+Bradford C (S)        1.1  0  0  0  1  0
+  * Pitched to 2 batters in 5th
+
+E -- Glaus T
+DP -- Oakland 1
+LOB -- Anaheim 5, Oakland 8
+2B -- Anderson G 2, Tejada M, Dye J, Chavez E, Singleton C
+HR -- Salmon T, Durazo E
+SB -- Chavez E, Tejada M, Singleton C, Owens E
+T -- 3:05
+A -- 18138
+     Game of 4/5/2003 -- Anaheim at Oakland (D)
+
+  Anaheim            AB  R  H RBI    Oakland            AB  R  H RBI
+Eckstein D, ss        5  0  1  0   Ellis M, 2b           4  0  1  0   
+Erstad D, cf          4  0  1  0   Piatt A, lf           3  1  2  1   
+Salmon T, dh          4  0  1  0   Hatteberg S, ph-1b    1  0  0  0   
+Anderson G, lf        3  0  0  0   Tejada M, ss          4  0  0  1   
+Glaus T, 3b           3  1  2  1   Chavez E, 3b          4  0  0  0   
+Spiezio S, 1b         4  0  0  0   Dye J, rf             4  1  2  0   
+Gil B, 2b             2  1  0  0   Durazo E, 1b          3  0  1  1   
+Fullmer B, ph         0  0  0  0   Singleton C, pr-cf    0  1  0  0   
+Wooten S, ph          1  0  1  0   Gant R, dh            3  0  0  0   
+Kennedy A, 2b         0  0  0  0   Byrnes E, cf-lf       3  0  1  0   
+Molina B, c           4  0  0  0   Long T, lf            0  0  0  0   
+Owens E, rf           4  0  1  1   Hernandez R, c        2  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  2  7  2                        31  4  8  4
+
+Anaheim          010 000 010 --  2
+Oakland          101 000 20x --  4
+
+  Anaheim              IP  H  R ER BB SO
+Washburn J (L)        6.2  8  4  4  0  3
+Donnelly B            0.2  0  0  0  0  0
+Schoeneweis S         0.2  0  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Halama J (W)          5.2  5  1  0  2  3
+Fikac J               2.0  1  1  1  0  0
+Rincon R              0.1  1  0  0  0  0
+Foulke K (S)          1.0  0  0  0  0  0
+
+E -- Tejada M, Durazo E
+LOB -- Anaheim 8, Oakland 4
+2B -- Salmon T, Piatt A, Dye J, Durazo E
+HR -- Piatt A, Glaus T
+SB -- Gil B, Owens E
+SH -- Gil B
+SF -- Hernandez R
+T -- 2:33
+A -- 23436
+     Game of 4/6/2003 -- Anaheim at Oakland (N)
+
+  Anaheim            AB  R  H RBI    Oakland            AB  R  H RBI
+Eckstein D, ss        3  1  0  0   Ellis M, 2b           4  1  4  2   
+Erstad D, cf          5  0  0  0   Hatteberg S, 1b       5  0  1  0   
+Salmon T, rf          4  3  3  2   Tejada M, ss          4  0  0  1   
+Anderson G, lf        4  1  3  1   Chavez E, 3b          5  0  2  0   
+Glaus T, 3b           4  0  1  0   Dye J, rf             4  1  0  0   
+Fullmer B, dh         3  0  1  3   Durazo E, dh          2  2  1  0   
+Spiezio S, 1b         4  0  0  0   Long T, lf            2  1  0  0   
+Molina B, c           4  1  1  0   Hernandez R, c        4  2  1  0   
+Kennedy A, 2b         4  0  0  0   Singleton C, cf       4  0  2  3   
+                     -- -- -- --                        -- -- -- --
+                     35  6  9  6                        34  7 11  6
+
+Anaheim          201 100 101 --  6
+Oakland          100 300 30x --  7
+
+  Anaheim              IP  H  R ER BB SO
+Lackey J              5.0  9  4  4  2  4
+Schoeneweis S         1.0  1  0  0  1  0
+Rodriguez F (L)       1.0  1  3  3  2  1
+Donnelly B            1.0  0  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Hudson T              5.0  6  4  4  6  1
+Bowie M               1.2  2  1  1  0  1
+Bradford C (W)        1.1  0  0  0  0  0
+Foulke K (S)          1.0  1  1  1  0  2
+
+LOB -- Anaheim 8, Oakland 10
+2B -- Ellis M 2, Durazo E, Singleton C, Anderson G
+HR -- Salmon T
+CS -- Fullmer B
+SF -- Ellis M
+HBP -- by Lackey J (Long T)
+WP -- Lackey J, Rodriguez F 2
+T -- 3:20
+A -- 30140
+     Game of 4/18/2003 -- Texas at Oakland (N)
+
+  Texas              AB  R  H RBI    Oakland            AB  R  H RBI
+Christenson R, cf     4  0  0  0   Ellis M, 2b           5  0  0  0   
+Mench K, lf           4  0  1  0   Hatteberg S, 1b       4  2  2  0   
+Rodriguez A, ss       4  0  1  0   Tejada M, ss          4  1  1  0   
+Gonzalez J, rf        4  0  2  0   Chavez E, 3b          4  1  1  1   
+Sierra R, dh          3  0  1  0   Dye J, rf             3  0  0  0   
+Palmeiro R, 1b        4  0  0  0   Piatt A, ph-rf        1  0  0  0   
+Greene T, c           4  0  0  0   Durazo E, dh          4  2  2  3   
+Teixeira M, 3b        3  0  1  0   Long T, lf            3  2  2  2   
+Young M, 2b           3  0  0  0   Gant R, lf            1  0  1  0   
+                                   Hernandez R, c        4  1  3  2   
+                                   Byrnes E, cf          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  0  6  0                        37  9 12  8
+
+Texas            000 000 000 --  0
+Oakland          500 310 00x --  9
+
+  Texas                IP  H  R ER BB SO
+Thomson J (L)         3.2  8  8  3  0  3
+Yan E                 3.1  2  1  1  0  6
+Shouse B              1.0  2  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Zito B (W)            9.0  6  0  0  1  6
+
+E -- Teixeira M, Thomson J, Yan E
+DP -- Texas 1
+LOB -- Texas 7, Oakland 4
+2B -- Hatteberg S 2, Chavez E, Durazo E, Hernandez R, Sierra R
+HR -- Long T, Hernandez R, Durazo E
+T -- 2:18
+A -- 15285
+     Game of 4/19/2003 -- Texas at Oakland (D)
+
+  Texas              AB  R  H RBI    Oakland            AB  R  H RBI
+Christenson R, cf     3  0  0  0   Ellis M, 2b           5  1  1  0   
+Everett C, rf         3  1  1  1   Hatteberg S, 1b       3  3  2  2   
+Rodriguez A, ss       3  0  0  0   Tejada M, ss          5  1  1  2   
+Gonzalez J, dh        4  0  1  0   Chavez E, 3b          5  2  3  0   
+Palmeiro R, 1b        3  1  1  1   Durazo E, dh          5  1  2  2   
+Blalock H, ph         1  0  0  0   Hernandez R, c        2  2  2  0   
+Mench K, lf           4  0  1  0   Long T, rf            4  1  2  2   
+Teixeira M, 3b        3  0  1  0   Gant R, lf            4  1  0  1   
+Young M, 2b           3  0  0  0   Singleton C, cf       4  0  2  1   
+Diaz E, c             2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  2  5  2                        37 12 15 10
+
+Texas            000 101 000 --  2
+Oakland          022 212 12x -- 12
+
+  Texas                IP  H  R ER BB SO
+Valdes I (L)          3.2  7  6  4  2  1
+Shouse B              1.1  2  1  1  0  2
+Garcia R              2.2  5  5  5  0  1
+Fultz A               0.1  1  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          7.0  5  2  2  2  5
+Bradford C            1.0  0  0  0  0  1
+Foulke K              1.0  0  0  0  0  0
+
+E -- Valdes I, Palmeiro R
+DP -- Texas 2, Oakland 2
+LOB -- Texas 5, Oakland 5
+2B -- Mench K, Durazo E, Teixeira M, Ellis M, Hernandez R, Chavez E
+HR -- Palmeiro R, Tejada M, Everett C, Hatteberg S
+SH -- Everett C
+HBP -- by Valdes I (Hernandez R) 2, by Mulder M (Diaz E), by Bradford C (Rodriguez A)
+T -- 2:30
+A -- 25792
+     Game of 4/20/2003 -- Texas at Oakland (N)
+
+  Texas              AB  R  H RBI    Oakland            AB  R  H RBI
+Young M, 2b           5  0  2  0   Ellis M, 2b           3  0  0  0   
+Everett C, rf         5  1  1  1   Hatteberg S, 1b       2  1  1  0   
+Rodriguez A, ss       2  0  1  0   Tejada M, ss          3  0  0  0   
+Gonzalez J, dh        5  0  0  0   Chavez E, 3b          3  0  0  0   
+Mench K, lf           5  0  0  0   Durazo E, dh          4  0  1  1   
+Teixeira M, 1b        2  0  1  0   Dye J, rf-cf          4  0  0  0   
+Blalock H, 3b         4  1  2  0   Long T, lf-rf         4  0  1  0   
+Christenson R, cf     4  0  1  1   Singleton C, cf       2  0  1  0   
+Diaz E, c             3  0  0  0   Gant R, ph-lf         2  0  0  0   
+                                   Johnson M, c          2  0  1  0   
+                                   Hernandez R, ph-c     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2  8  2                        30  1  5  1
+
+Texas            000 100 100 --  2
+Oakland          100 000 000 --  1
+
+  Texas                IP  H  R ER BB SO
+Lewis C (W)           6.0  4  1  1  4  3
+Fultz A               0.1  0  0  0  0  1
+Cordero F             1.2  0  0  0  1  1
+Urbina U (S)          1.0  1  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Lilly T               5.2  7  1  0  1  4
+Bradford C (L)        1.0  1  1  1  1  1
+Rincon R              1.1  0  0  0  0  2
+Foulke K              1.0  0  0  0  2  1
+
+E -- Tejada M 2
+DP -- Texas 1
+LOB -- Texas 15, Oakland 7
+2B -- Young M, Long T
+HR -- Everett C
+SB -- Young M, Rodriguez A
+CS -- Chavez E
+SH -- Diaz E
+HBP -- by Lilly T (Teixeira M), by Bradford C (Teixeira M), by Rincon R (Christenson R), by Foulke K (Rodriguez A)
+T -- 3:10
+A -- 17613
+     Game of 4/22/2003 -- Detroit at Oakland (N)
+
+  Detroit            AB  R  H RBI    Oakland            AB  R  H RBI
+Higginson B, rf       5  1  0  0   Ellis M, 2b           5  1  3  2   
+Kingsale E, cf        3  1  1  1   Hatteberg S, 1b       3  0  1  1   
+Pena C, 1b            5  0  0  0   Tejada M, ss          6  1  1  1   
+Young D, lf           4  1  1  3   Durazo E, dh          3  0  1  1   
+Palmer D, dh          5  0  0  0   Dye J, rf             5  0  0  0   
+Munson E, 3b          4  0  0  0   Long T, lf            4  1  1  0   
+Infante O, ss         5  1  3  0   Hernandez R, c        4  1  3  1   
+Inge B, c             3  0  0  0   Singleton C, cf       5  2  2  0   
+Halter S, ph          1  0  1  1   Menechino F, 3b       3  0  1  0   
+Monroe C, pr          0  1  0  0                                      
+Walbeck M, c          1  0  0  0                                      
+Santiago R, 2b        3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  5  6  5                        38  6 13  6
+
+Detroit          000 000 032 00 --  5
+Oakland          100 020 110 01 --  6
+  0 outs when winning run was scored.
+
+  Detroit              IP  H  R ER BB SO
+Bernero A*            6.0 10  4  4  1  4
+Walker J+             0.0  0  0  0  1  0
+Roney M#              1.0  2  1  1  1  1
+German F              1.2  0  0  0  3  4
+Anderson M            1.1  0  0  0  1  0
+Ledezma W (L)         0.0  1  1  1  0  0
+
+  Oakland              IP  H  R ER BB SO
+Hudson T              7.2  3  3  3  4  6
+Bradford C            0.1  0  0  0  0  1
+Foulke K              1.0  3  2  1  0  3
+Rincon R (W)          2.0  0  0  0  1  1
+  * Pitched to 3 batters in 7th
+  + Pitched to 1 batter in 7th
+  # Pitched to 2 batters in 8th
+
+E -- Tejada M
+DP -- Detroit 4, Oakland 1
+LOB -- Detroit 8, Oakland 12
+2B -- Singleton C, Ellis M, Hernandez R, Infante O
+HR -- Young D, Tejada M
+SH -- Santiago R
+SF -- Hatteberg S
+HBP -- by Bernero A (Menechino F), by Hudson T (Young D), by German F (Menechino F)
+T -- 3:41
+A -- 11559
+     Game of 4/23/2003 -- Detroit at Oakland (N)
+
+  Detroit            AB  R  H RBI    Oakland            AB  R  H RBI
+Higginson B, rf       5  0  0  0   Ellis M, 2b           3  0  0  0   
+Kingsale E, cf        5  0  0  0   Hatteberg S, 1b       4  0  0  0   
+Paquette C, 1b        4  1  1  0   Tejada M, ss          4  0  0  0   
+Young D, 3b           3  1  1  0   Chavez E, 3b          4  0  0  0   
+Monroe C, lf          3  2  1  2   Durazo E, dh          3  0  0  0   
+Palmer D, dh          4  0  2  2   Dye J, rf             3  0  1  0   
+Halter S, 2b          2  0  0  0   Long T, lf            3  1  2  0   
+Inge B, c             3  0  1  0   Hernandez R, c        3  0  0  1   
+Infante O, ss         4  0  1  0   Singleton C, cf       3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  4                        30  1  3  1
+
+Detroit          000 200 020 --  4
+Oakland          000 000 010 --  1
+
+  Detroit              IP  H  R ER BB SO
+Bonderman J (W)       8.0  3  1  1  0  5
+Anderson M (S)        1.0  0  0  0  1  0
+
+  Oakland              IP  H  R ER BB SO
+Zito B (L)            7.0  5  2  2  3  2
+Mecir J               1.0  2  2  2  1  0
+Neu M                 1.0  0  0  0  0  0
+
+LOB -- Detroit 7, Oakland 3
+2B -- Palmer D
+3B -- Long T
+HR -- Monroe C
+SH -- Halter S
+T -- 2:20
+A -- 23558
+     Game of 4/24/2003 -- Detroit at Oakland (D)
+
+  Detroit            AB  R  H RBI    Oakland            AB  R  H RBI
+Kingsale E, cf        4  0  0  0   Ellis M, 2b           3  0  1  1   
+Halter S, 3b          3  0  0  0   Hatteberg S, 1b       3  0  1  0   
+Paquette C, 1b        4  0  0  0   Tejada M, ss          4  0  0  0   
+Young D, lf           4  0  0  0   Chavez E, 3b          4  0  1  0   
+Monroe C, rf          3  0  1  0   Durazo E, dh          3  0  1  0   
+Palmer D, dh          3  0  2  0   Dye J, rf             1  0  0  0   
+Santiago R, 2b        3  0  0  0   Byrnes E, lf          3  1  2  0   
+Inge B, c             3  0  0  0   Long T, lf-rf         4  0  2  0   
+Infante O, ss         3  0  0  0   Hernandez R, c        3  1  0  0   
+                                   Singleton C, cf       2  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     30  0  3  0                        30  2  8  2
+
+Detroit          000 000 000 --  0
+Oakland          000 010 10x --  2
+
+  Detroit              IP  H  R ER BB SO
+Cornejo N (L)         6.0  5  1  1  2  0
+Sparks S              1.0  1  1  0  0  0
+Spurling C            1.0  2  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          9.0  3  0  0  1  5
+
+E -- Infante O 2
+DP -- Detroit 1
+LOB -- Detroit 4, Oakland 8
+2B -- Chavez E, Palmer D
+SF -- Singleton C, Ellis M
+T -- 2:06
+A -- 11843
+     Game of 4/25/2003 -- Cleveland at Oakland (N)
+
+  Cleveland          AB  R  H RBI    Oakland            AB  R  H RBI
+Vizquel O, ss         4  0  0  0   Ellis M, 2b           4  2  3  1   
+Blake C, 3b           4  1  2  1   Hatteberg S, 1b       4  0  1  1   
+Burks E, dh           4  0  0  0   Tejada M, ss          3  0  0  0   
+Garcia K, cf          4  0  0  0   Chavez E, 3b          4  0  2  0   
+Spencer S, rf         3  1  1  1   Durazo E, dh          4  0  0  0   
+Lawton M, lf          3  0  1  0   Hernandez R, c        4  2  2  1   
+Bard J, c             3  0  0  0   Long T, rf            3  1  0  0   
+Hafner T, 1b          3  0  1  0   Byrnes E, lf          4  0  1  1   
+McDonald J, 2b        3  0  1  0   Singleton C, cf       4  0  2  1   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        34  5 11  5
+
+Cleveland        001 000 100 --  2
+Oakland          120 000 11x --  5
+
+  Cleveland            IP  H  R ER BB SO
+Davis J (L)           6.1 10  4  4  2  3
+Sadler C              0.2  0  0  0  0  0
+Riske D               1.0  1  1  1  0  2
+
+  Oakland              IP  H  R ER BB SO
+Lilly T (W)           7.2  6  2  2  1  2
+Bradford C            0.1  0  0  0  0  0
+Foulke K (S)          1.0  0  0  0  0  2
+
+E -- Davis J
+DP -- Cleveland 1, Oakland 1
+LOB -- Cleveland 3, Oakland 7
+2B -- Chavez E, Hafner T, Ellis M, Hatteberg S
+HR -- Ellis M, Blake C, Spencer S, Hernandez R
+SB -- Spencer S
+CS -- Singleton C
+WP -- Davis J
+T -- 2:04
+A -- 11178
+     Game of 4/26/2003 -- Cleveland at Oakland (D)
+
+  Cleveland          AB  R  H RBI    Oakland            AB  R  H RBI
+Vizquel O, ss         3  0  0  0   Ellis M, 2b           5  0  2  2   
+Blake C, 1b           3  0  0  0   Hatteberg S, 1b       4  1  2  0   
+Selby B, ph           1  0  0  1   Tejada M, ss          4  0  2  1   
+Hafner T, 1b          1  0  0  0   Chavez E, 3b          4  0  0  0   
+Burks E, dh           3  0  0  0   Durazo E, dh          2  1  1  1   
+Garcia K, rf          3  0  0  0   Long T, rf            4  1  1  0   
+Spencer S, lf         3  0  0  0   Byrnes E, lf          4  0  2  1   
+Gerut J, cf           4  0  0  0   Singleton C, cf       4  2  3  1   
+Laker T, c            3  0  0  0   Johnson M, c          3  1  1  0   
+Phillips B, 2b        4  1  1  0                                      
+McDonald J, 3b        3  2  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  3  1                        34  6 14  6
+
+Cleveland        001 000 200 --  3
+Oakland          000 012 12x --  6
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J           5.2  7  3  3  3  1
+Mulholland T (L)*     0.1  2  1  0  1  0
+Sadler C              1.1  2  2  2  0  1
+Santiago J            0.2  3  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Halama J              6.1  2  3  1  4  4
+Rincon R+             0.0  0  0  0  1  0
+Bradford C (W)        1.2  0  0  0  0  1
+Foulke K (S)          1.0  1  0  0  0  1
+  * Pitched to 2 batters in 7th
+  + Pitched to 1 batter in 7th
+
+E -- Hatteberg S, Bradford C, Laker T
+DP -- Cleveland 4
+LOB -- Cleveland 9, Oakland 10
+2B -- Singleton C 2, Byrnes E
+SH -- Vizquel O
+SF -- Durazo E
+HBP -- by Halama J (McDonald J), by Westbrook J (Tejada M), by Bradford C (Garcia K)
+Balk -- Halama J
+T -- 3:00
+A -- 36346
+     Game of 4/27/2003 -- Cleveland at Oakland (D)
+
+  Cleveland          AB  R  H RBI    Oakland            AB  R  H RBI
+Vizquel O, ss         4  0  1  0   Ellis M, 2b           4  1  1  0   
+Gerut J, cf           5  2  3  1   Hatteberg S, 1b       3  2  2  0   
+Spencer S, rf         4  0  1  0   Tejada M, ss          3  0  0  0   
+Garcia K, dh          4  0  1  1   Durazo E, dh          4  1  3  2   
+Selby B, 3b           4  0  0  0   Hernandez R, c        3  0  0  0   
+Lawton M, lf          3  0  0  1   Byrnes E, cf          4  0  1  0   
+Bard J, c             4  0  1  0   Long T, rf            4  0  1  1   
+Hafner T, 1b          3  0  0  0   Gant R, lf            3  0  0  0   
+Phillips B, 2b        4  1  1  0   Menechino F, 3b       3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  8  3                        31  4  8  3
+
+Cleveland        002 010 000 --  3
+Oakland          000 102 001 --  4
+  2 outs when winning run was scored.
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C            7.0  6  3  2  2  5
+Riske D               1.0  0  0  0  1  0
+Baez D (L)            0.2  2  1  1  0  0
+
+  Oakland              IP  H  R ER BB SO
+Hudson T              7.0  7  3  3  4  6
+Rincon R (W)          2.0  1  0  0  0  4
+
+E -- Sabathia C, Menechino F
+DP -- Cleveland 2
+LOB -- Cleveland 10, Oakland 4
+2B -- Phillips B, Long T
+SH -- Vizquel O
+WP -- Hudson T
+T -- 2:41
+A -- 26414
+     Game of 5/6/2003 -- Chicago at Oakland (N)
+
+  Chicago            AB  R  H RBI    Oakland            AB  R  H RBI
+Jimenez D, 2b         4  0  1  0   Ellis M, 2b           4  1  2  0   
+Valentin J, ss        4  0  1  0   Hatteberg S, 1b       4  0  0  0   
+Thomas F, dh          3  0  0  0   Chavez E, 3b          4  0  0  0   
+Ordonez M, rf         3  0  1  0   Tejada M, ss          3  2  0  0   
+Konerko P, 1b         3  0  0  0   Durazo E, dh          3  2  1  2   
+Lee C, lf             3  0  0  0   Hernandez R, c        4  0  0  0   
+Crede J, 3b           3  0  1  0   Byrnes E, cf          4  1  2  0   
+Alomar S, c           3  0  1  0   Long T, rf            3  0  2  0   
+Harris W, cf          3  0  0  0   Piatt A, lf           2  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     29  0  5  0                        31  6  7  3
+
+Chicago          000 000 000 --  0
+Oakland          300 100 02x --  6
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (L)         7.1  7  6  2  2  2
+Gordon T              0.2  0  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          9.0  5  0  0  2  4
+
+E -- Jimenez D, Valentin J
+DP -- Oakland 3
+LOB -- Chicago 4, Oakland 4
+2B -- Ordonez M, Jimenez D
+HR -- Durazo E
+SF -- Piatt A
+T -- 1:49
+A -- 10695
+     Game of 5/7/2003 -- Chicago at Oakland (N)
+
+  Chicago            AB  R  H RBI    Oakland            AB  R  H RBI
+Graffanino T, 2b      2  2  2  0   Ellis M, 2b           4  0  1  0   
+Thomas F, dh          6  1  4  1   Hatteberg S, 1b       5  0  2  1   
+Ordonez M, rf         6  1  1  2   Chavez E, 3b          4  0  0  0   
+Konerko P, 1b         5  2  0  1   Tejada M, ss          3  2  1  1   
+Crede J, 3b           4  0  1  1   Durazo E, dh          3  1  0  0   
+Lee C, lf             5  0  2  1   Hernandez R, c        2  0  0  0   
+Olivo M, c            4  2  3  1   Long T, rf            2  0  1  2   
+Valentin J, ss        5  0  1  1   Byrnes E, lf          4  0  0  0   
+Harris W, cf          4  0  0  0   Singleton C, cf       3  1  0  0   
+                                   Piatt A, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  8 14  8                        31  4  5  4
+
+Chicago          014 011 001 --  8
+Oakland          010 010 020 --  4
+
+  Chicago              IP  H  R ER BB SO
+Loaiza E (W)          6.0  4  2  2  3  1
+Wunsch K              1.2  0  0  0  0  3
+Gordon T*             0.0  0  2  2  3  0
+Marte D (S)           1.1  1  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Lilly T (L)           3.1  8  5  5  2  1
+Fikac J               1.2  2  1  1  2  2
+Neu M                 2.0  3  1  0  1  0
+Bradford C            1.0  0  0  0  0  1
+Rincon R              1.0  1  1  1  1  1
+  * Pitched to 3 batters in 8th
+
+E -- Ellis M 2, Tejada M 2
+DP -- Chicago 1, Oakland 1
+LOB -- Chicago 13, Oakland 7
+2B -- Graffanino T, Ellis M, Thomas F 2, Valentin J
+3B -- Ordonez M
+HR -- Olivo M, Tejada M
+SB -- Graffanino T
+CS -- Harris W, Crede J
+HBP -- by Fikac J (Crede J), by Wunsch K (Long T)
+WP -- Neu M
+T -- 3:23
+A -- 20715
+     Game of 5/8/2003 -- Chicago at Oakland (D)
+
+  Chicago            AB  R  H RBI    Oakland            AB  R  H RBI
+Graffanino T, ss      5  0  0  0   Ellis M, 2b           5  0  1  0   
+Thomas F, dh          4  2  1  1   Hatteberg S, 1b       4  1  1  1   
+Ordonez M, rf-cf      4  1  2  2   Chavez E, 3b          4  2  2  1   
+Konerko P, 1b         5  0  2  0   Tejada M, ss          4  3  3  3   
+Crede J, 3b           5  1  2  0   Durazo E, dh          4  1  1  1   
+Lee C, lf             5  1  2  0   Hernandez R, c        4  0  1  1   
+Olivo M, c            3  0  1  0   Long T, rf            4  0  1  1   
+Jimenez D, 2b         3  0  0  1   Byrnes E, lf          4  1  2  0   
+Harris W, cf          3  0  1  0   Singleton C, cf       4  0  2  0   
+Daubach B, ph-rf      0  0  0  1                                      
+                     -- -- -- --                        -- -- -- --
+                     37  5 11  5                        37  8 14  8
+
+Chicago          002 000 021 --  5
+Oakland          001 130 30x --  8
+
+  Chicago              IP  H  R ER BB SO
+Garland J (L)         5.0  8  5  5  1  2
+White R               1.2  4  3  1  0  1
+Sanders D             0.1  1  0  0  0  0
+Koch B                1.0  1  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Halama J (W)          6.1  7  2  2  2  4
+Mecir J               1.1  2  2  2  0  3
+Fikac J*              0.0  0  0  0  1  0
+Foulke K (S)          1.1  2  1  1  1  1
+  * Pitched to 2 batters in 8th
+
+E -- Crede J
+DP -- Chicago 1, Oakland 1
+LOB -- Chicago 10, Oakland 6
+2B -- Konerko P, Byrnes E, Tejada M, Hernandez R, Durazo E, Long T
+HR -- Ordonez M, Tejada M, Chavez E, Thomas F
+CS -- Ellis M
+HBP -- by Fikac J (Olivo M)
+T -- 3:00
+A -- 12329
+     Game of 5/9/2003 -- New York at Oakland (N)
+
+  New York           AB  R  H RBI    Oakland            AB  R  H RBI
+Soriano A, 2b         4  0  0  0   Ellis M, 2b           4  1  1  0   
+Johnson N, 1b         3  1  1  0   Hatteberg S, 1b       3  0  0  0   
+Giambi J, dh          4  1  1  2   Chavez E, 3b          4  0  2  1   
+Williams B, cf        4  0  1  0   Tejada M, ss          4  1  0  0   
+Matsui H, lf          3  0  2  0   Durazo E, dh          3  1  0  0   
+Posada J, c           3  0  0  0   Hernandez R, c        4  1  2  2   
+Ventura R, 3b         3  0  0  0   Long T, rf            4  2  2  2   
+Mondesi R, rf         3  0  0  0   Byrnes E, lf          2  1  1  1   
+Wilson E, ss          3  0  0  0   Singleton C, cf       3  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        31  7  8  7
+
+New York         000 200 000 --  2
+Oakland          002 000 05x --  7
+
+  New York             IP  H  R ER BB SO
+Weaver J (L)          7.2  7  6  6  3  5
+Hammond C             0.1  1  1  1  0  1
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (W)          8.0  5  2  2  1  5
+Rincon R              1.0  0  0  0  0  2
+
+DP -- Oakland 2
+LOB -- New York 2, Oakland 4
+2B -- Chavez E, Hernandez R
+3B -- Byrnes E
+HR -- Giambi J, Long T
+SH -- Hatteberg S
+T -- 2:19
+A -- 40317
+     Game of 5/10/2003 -- New York at Oakland (D)
+
+  New York           AB  R  H RBI    Oakland            AB  R  H RBI
+Soriano A, 2b         4  0  0  0   Ellis M, 2b           3  0  0  0   
+Zeile T, 3b           4  1  0  0   Hatteberg S, dh       5  0  0  0   
+Posada J, c           5  2  3  3   Chavez E, 3b          3  0  1  0   
+Williams B, cf        5  1  3  2   Grabowski J, 3b       0  0  0  0   
+Matsui H, lf          3  0  0  0   Menechino F, ph-3b    1  0  0  0   
+Mondesi R, rf         3  0  0  0   Tejada M, ss          4  1  2  0   
+Trammell B, dh        3  0  0  0   Durazo E, 1b          4  0  1  1   
+Ventura R, ph         1  0  0  0   Long T, rf            4  0  0  0   
+Johnson N, 1b         3  0  1  0   Byrnes E, lf          4  1  2  0   
+Almonte E, ss         3  1  0  0   Singleton C, cf       4  0  2  0   
+                                   Johnson M, c          3  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     34  5  7  5                        35  2  8  2
+
+New York         000 130 100 --  5
+Oakland          000 000 110 --  2
+
+  New York             IP  H  R ER BB SO
+Clemens R (W)         6.2  6  1  1  1  5
+Hitchcock S           1.0  2  1  0  0  0
+Acevedo J             0.1  0  0  0  0  0
+Rivera M (S)          1.0  0  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Zito B (L)            6.0  5  4  4  4  7
+Bradford C            1.0  2  1  1  2  1
+Neu M                 2.0  0  0  0  0  3
+
+E -- Zeile T
+LOB -- New York 9, Oakland 9
+2B -- Posada J 2, Singleton C, Byrnes E 2
+HR -- Williams B, Posada J
+HBP -- by Clemens R (Johnson M), by Neu M (Soriano A), by Rivera M (Ellis M)
+T -- 2:54
+A -- 44486
+     Game of 5/11/2003 -- New York at Oakland (D)
+
+  New York           AB  R  H RBI    Oakland            AB  R  H RBI
+Soriano A, 2b         4  1  1  0   Ellis M, 2b           4  1  2  0   
+Johnson N, 1b         3  0  1  0   Byrnes E, cf          4  1  1  2   
+Williams B, dh        3  0  0  0   Tejada M, ss          3  1  2  1   
+Mondesi R, rf         4  0  1  0   Durazo E, 1b          3  0  1  1   
+Matsui H, lf          4  0  0  0   Hernandez R, c        4  0  0  0   
+Zeile T, 3b           3  0  0  0   Piatt A, lf           3  0  0  0   
+Flaherty J, c         3  0  0  0   Gant R, dh            4  1  1  1   
+Gipson C, cf          3  0  0  0   Long T, rf            3  1  1  0   
+Wilson E, ss          3  1  1  1   Menechino F, 3b       2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  1                        30  5  8  5
+
+New York         100 001 000 --  2
+Oakland          110 010 20x --  5
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        6.2  8  5  5  2  3
+Acevedo J             1.1  0  0  0  1  2
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          8.0  3  2  2  2  8
+Foulke K (S)          1.0  1  0  0  0  0
+
+DP -- Oakland 1
+LOB -- New York 3, Oakland 5
+2B -- Ellis M
+HR -- Gant R, Tejada M, Wilson E, Byrnes E
+SH -- Menechino F
+WP -- Mulder M
+T -- 2:25
+A -- 45390
+     Game of 5/20/2003 -- Minnesota at Oakland (N)
+
+  Minnesota          AB  R  H RBI    Oakland            AB  R  H RBI
+Jones J, lf           4  0  1  0   Byrnes E, lf          5  2  3  1   
+Guzman C, ss          4  1  1  0   Hatteberg S, 1b       5  0  3  2   
+Koskie C, 3b          4  0  0  0   Chavez E, 3b          4  0  1  0   
+Kielty B, dh          3  0  1  0   Tejada M, ss          3  0  1  1   
+Hunter T, cf          4  0  1  1   Durazo E, dh          4  0  0  0   
+Sears T, 1b           4  0  0  0   Hernandez R, c        3  0  1  0   
+Mohr D, rf            3  0  1  0   Long T, rf            4  0  1  0   
+Pierzynski A, c       3  0  0  0   Ellis M, 2b           4  0  1  0   
+Rivas L, 2b           3  0  1  0   Singleton C, cf       4  2  2  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        36  4 13  4
+
+Minnesota        000 100 000 --  1
+Oakland          000 201 01x --  4
+
+  Minnesota            IP  H  R ER BB SO
+Reed R (L)            6.0 11  3  3  2  3
+Santana J             2.0  2  1  1  1  1
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (W)          8.0  5  1  1  0  5
+Foulke K (S)          1.0  1  0  0  0  0
+
+E -- Koskie C
+DP -- Oakland 1
+LOB -- Minnesota 5, Oakland 13
+2B -- Rivas L, Tejada M, Guzman C, Singleton C, Byrnes E 2, Long T, Hatteberg S
+SF -- Tejada M
+HBP -- by Reed R (Hernandez R), by Hudson T (Kielty B)
+T -- 2:28
+A -- 13340
+     Game of 5/21/2003 -- Minnesota at Oakland (D)
+
+  Minnesota          AB  R  H RBI    Oakland            AB  R  H RBI
+Jones J, lf           5  0  1  0   Byrnes E, cf          4  1  2  0   
+Guzman C, ss          5  1  1  0   Hatteberg S, 1b       4  1  1  0   
+Koskie C, 3b          4  0  1  0   Tejada M, ss          4  0  2  0   
+LeCroy M, 1b          3  1  2  1   Chavez E, 3b          4  0  1  1   
+Rivas L, pr-2b        1  1  0  0   Durazo E, dh          4  0  1  1   
+Hunter T, cf          4  1  1  2   Hernandez R, c        4  0  0  0   
+Kielty B, dh          1  0  0  0   Ellis M, 2b           3  1  1  0   
+Mohr D, rf            4  0  3  1   Long T, rf            4  0  1  0   
+Prince T, c           3  0  0  0   Piatt A, lf           4  0  1  0   
+Hocking D, 2b-1b      4  0  0  0   Singleton C, pr       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        35  3 10  2
+
+Minnesota        000 200 020 --  4
+Oakland          101 100 000 --  3
+
+  Minnesota            IP  H  R ER BB SO
+Rogers K              6.0  9  3  3  2  3
+Hawkins L (W)         1.0  0  0  0  0  1
+Romero J              1.0  0  0  0  0  0
+Guardado E (S)        1.0  1  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Zito B                7.0  5  2  2  3  1
+Rincon R              0.1  1  1  1  0  0
+Bradford C (L)        1.2  3  1  1  1  2
+
+E -- Piatt A
+DP -- Minnesota 1, Oakland 1
+LOB -- Minnesota 9, Oakland 7
+2B -- Koskie C
+HR -- Hunter T
+SB -- Koskie C
+SH -- Prince T
+HBP -- by Bradford C (Koskie C)
+WP -- Rogers K
+T -- 2:55
+A -- 27189
+     Game of 5/22/2003 -- Minnesota at Oakland (D)
+
+  Minnesota          AB  R  H RBI    Oakland            AB  R  H RBI
+Jones J, lf           5  1  2  0   Byrnes E, lf          3  1  1  2   
+Guzman C, ss          4  1  0  0   Hatteberg S, 1b       4  1  1  0   
+Kielty B, dh          3  1  1  3   Chavez E, 3b          4  0  1  2   
+LeCroy M, 1b          1  0  0  0   Tejada M, ss          4  0  1  0   
+Hocking D, 1b         4  0  1  0   Durazo E, dh          4  0  0  0   
+Hunter T, cf          4  0  3  1   Hernandez R, c        3  0  0  0   
+Mohr D, rf            5  0  1  0   Long T, rf            4  0  0  0   
+Gomez C, 3b           5  2  2  0   Ellis M, 2b           2  2  1  1   
+Pierzynski A, c       4  1  3  1   Singleton C, cf       3  1  1  0   
+Rivas L, 2b           5  0  1  1   Piatt A, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  6 14  6                        32  5  6  5
+
+Minnesota        002 300 001 --  6
+Oakland          003 010 001 --  5
+
+  Minnesota            IP  H  R ER BB SO
+Mays J (W)            5.0  5  4  4  3  2
+Rincon J              1.2  0  0  0  0  0
+Romero J              0.2  0  0  0  0  0
+Hawkins L             0.2  0  0  0  0  0
+Guardado E (S)        1.0  1  1  1  0  1
+
+  Oakland              IP  H  R ER BB SO
+Halama J (L)          6.0  8  5  5  4  3
+Neu M                 1.2  4  0  0  1  1
+Bowie M               1.1  2  1  1  0  1
+
+E -- Chavez E
+DP -- Oakland 1
+LOB -- Minnesota 12, Oakland 4
+2B -- Jones J, Singleton C, Gomez C, Pierzynski A, Hunter T
+3B -- Chavez E, Gomez C
+HR -- Kielty B, Byrnes E, Ellis M
+CS -- Rivas L
+SF -- Byrnes E
+Balk -- Halama J
+T -- 2:54
+A -- 27684
+     Game of 5/23/2003 -- Kansas City at Oakland (N)
+
+  Kansas City        AB  R  H RBI    Oakland            AB  R  H RBI
+Tucker M, rf          3  0  1  0   Byrnes E, lf          3  0  2  1   
+Randa J, 3b           4  0  0  0   Hatteberg S, 1b       4  0  0  0   
+Sweeney M, 1b         4  0  1  0   Chavez E, 3b          4  2  2  1   
+Ibanez R, lf          4  0  0  0   Tejada M, ss          4  0  2  0   
+Beltran C, cf         4  1  1  0   Durazo E, dh          4  0  1  1   
+Harvey K, dh          4  0  2  0   Hernandez R, c        4  0  1  0   
+Mayne B, c            3  0  1  1   Long T, rf            3  1  2  0   
+Berroa A, ss          4  0  2  0   Ellis M, 2b           3  1  1  1   
+Febles C, 2b          3  0  0  0   Singleton C, cf       3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  8  1                        32  4 12  4
+
+Kansas City      000 000 001 --  1
+Oakland          002 001 01x --  4
+
+  Kansas City          IP  H  R ER BB SO
+Snyder K (L)          7.0 10  3  2  1  6
+Carrasco D            1.0  2  1  1  0  0
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          9.0  8  1  1  2  6
+
+E -- Berroa A
+DP -- Kansas City 3
+LOB -- Kansas City 7, Oakland 5
+2B -- Harvey K 2
+HR -- Chavez E
+SB -- Byrnes E, Chavez E
+CS -- Tucker M
+T -- 2:05
+A -- 32682
+     Game of 5/24/2003 -- Kansas City at Oakland (D)
+
+  Kansas City        AB  R  H RBI    Oakland            AB  R  H RBI
+Relaford D, 2b        4  0  0  0   Byrnes E, lf          5  0  2  0   
+Randa J, 3b           4  1  1  1   Hatteberg S, 1b       5  0  0  0   
+Sweeney M, dh         2  1  1  1   Chavez E, 3b          3  0  1  0   
+Ibanez R, lf          4  0  0  0   Tejada M, ss          4  0  1  0   
+Beltran C, cf         3  1  0  0   Durazo E, dh          3  1  1  1   
+Harvey K, 1b          4  0  0  0   Long T, rf            4  0  2  0   
+Tucker M, rf          2  0  1  1   Ellis M, 2b           4  0  0  0   
+Berroa A, ss          3  0  0  0   Singleton C, cf       4  0  0  0   
+DiFelice M, c         3  0  0  0   Johnson M, c          2  0  0  0   
+                                   Melhuse A, ph-c       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  3  3  3                        35  1  7  1
+
+Kansas City      101 000 100 --  3
+Oakland          010 000 000 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Wilson K (W)          5.0  4  1  1  0  1
+Lowe S                2.0  1  0  0  2  1
+Grimsley J            1.0  1  0  0  0  0
+MacDougal M (S)       1.0  1  0  0  1  2
+
+  Oakland              IP  H  R ER BB SO
+Lilly T (L)           6.1  3  3  3  3  7
+Bradford C            1.2  0  0  0  0  2
+Foulke K              1.0  0  0  0  1  1
+
+E -- Chavez E, Lowe S
+DP -- Oakland 1
+LOB -- Kansas City 3, Oakland 10
+2B -- Long T
+HR -- Sweeney M, Durazo E, Randa J
+SB -- Long T, Sweeney M
+CS -- Tucker M
+WP -- Lilly T 2
+Balk -- Lilly T
+PB -- DiFelice M
+T -- 2:35
+A -- 24099
+     Game of 5/25/2003 -- Kansas City at Oakland (D)
+
+  Kansas City        AB  R  H RBI    Oakland            AB  R  H RBI
+Relaford D, 2b        5  0  0  0   Byrnes E, cf          4  0  1  0   
+Randa J, 3b           5  1  1  0   Ellis M, 2b           5  0  1  1   
+Sweeney M, 1b         5  0  3  0   Chavez E, 3b          4  0  0  0   
+Ibanez R, lf          5  1  2  1   Tejada M, ss          4  1  1  0   
+Beltran C, cf         4  1  1  1   Durazo E, 1b          4  1  2  2   
+Tucker M, rf          3  0  1  1   Hernandez R, c        4  1  1  1   
+Harvey K, dh          4  0  0  0   Gant R, dh            3  0  0  0   
+Mayne B, c            4  0  0  0   Hatteberg S, ph       1  0  0  0   
+Berroa A, ss          3  0  0  0   Long T, rf            4  1  0  0   
+                                   Piatt A, lf           3  0  1  0   
+                                   Singleton C, ph       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  3  8  3                        36  4  7  4
+
+Kansas City      012 000 000 0 --  3
+Oakland          000 000 102 1 --  4
+  1 out when winning run was scored.
+
+  Kansas City          IP  H  R ER BB SO
+May D                 9.0  6  3  3  0  4
+Carrasco D (L)        0.1  1  1  0  2  0
+
+  Oakland              IP  H  R ER BB SO
+Hudson T              7.0  5  3  2  1  4
+Mecir J               0.2  2  0  0  0  1
+Rincon R              0.1  0  0  0  0  1
+Foulke K (W)          2.0  1  0  0  1  1
+
+E -- Durazo E, Berroa A
+DP -- Oakland 1
+LOB -- Kansas City 7, Oakland 6
+2B -- Tucker M, Ibanez R, Piatt A, Tejada M, Sweeney M
+HR -- Hernandez R, Durazo E
+SB -- Beltran C
+WP -- Hudson T
+T -- 2:41
+A -- 37705
+     Game of 6/10/2003 -- Atlanta at Oakland (N)
+
+  Atlanta            AB  R  H RBI    Oakland            AB  R  H RBI
+Furcal R, ss          5  1  1  0   Byrnes E, cf          5  1  2  0   
+Giles M, 2b           5  1  3  0   Hatteberg S, 1b       5  0  1  1   
+Sheffield G, rf       5  0  1  1   Tejada M, ss          5  0  0  0   
+Jones C, lf           4  0  1  1   Durazo E, dh          5  1  2  0   
+Jones A, cf           4  0  0  0   Dye J, rf             5  1  2  2   
+Fick R, 1b            5  1  1  1   Chavez E, 3b          3  1  1  1   
+Lopez J, dh           5  0  0  0   Hernandez R, c        4  0  1  0   
+Castilla V, 3b        5  0  0  0   McMillon B, lf        3  0  0  0   
+Blanco H, c           4  0  0  0   Long T, lf            1  0  0  0   
+                                   Ellis M, 2b           4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42  3  7  3                        40  4  9  4
+
+Atlanta          000 002 001 000 --  3
+Oakland          011 100 000 001 --  4
+  1 out when winning run was scored.
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G              7.0  7  3  3  1  2
+Holmes D              1.0  1  0  0  0  1
+King R                1.0  0  0  0  0  2
+Gryboski K            1.0  0  0  0  0  2
+Bong J (L)            1.1  1  1  1  0  2
+
+  Oakland              IP  H  R ER BB SO
+Hudson T              8.0  6  2  2  2  2
+Foulke K              2.0  1  1  1  0  3
+Bradford C (W)        2.0  0  0  0  0  0
+
+DP -- Atlanta 3, Oakland 1
+LOB -- Atlanta 5, Oakland 3
+2B -- Giles M 3, Hatteberg S, Durazo E
+HR -- Chavez E, Fick R, Dye J
+T -- 2:59
+A -- 22088
+     Game of 6/11/2003 -- Atlanta at Oakland (N)
+
+  Atlanta            AB  R  H RBI    Oakland            AB  R  H RBI
+Furcal R, ss          5  1  1  1   Byrnes E, cf          4  0  2  0   
+Giles M, 2b           3  3  2  1   Hatteberg S, 1b       5  0  1  0   
+Sheffield G, rf       5  0  0  0   Tejada M, ss          5  0  0  0   
+Jones A, cf           4  3  2  1   Durazo E, dh          4  1  1  0   
+Lopez J, c            5  2  3  4   Dye J, rf             4  1  2  0   
+De Rosa M, dh         3  1  1  1   Chavez E, 3b          5  1  3  1   
+Franco J, 1b          5  0  2  1   Hernandez R, c        3  2  1  2   
+Castilla V, 3b        5  1  2  1   Piatt A, lf           2  0  0  0   
+Bragg D, lf           4  0  0  0   McMillon B, ph-lf     1  0  0  0   
+                                   Menechino F, 2b       3  1  2  3   
+                                   Ellis M, 2b           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 11 13 10                        36  6 12  6
+
+Atlanta          402 110 021 -- 11
+Oakland          001 022 100 --  6
+
+  Atlanta              IP  H  R ER BB SO
+Ramirez H (W)         5.2  9  5  5  2  1
+Hodges T*             0.0  1  0  0  2  0
+King R                0.1  0  0  0  0  1
+Holmes D              1.0  1  1  1  1  1
+Hernandez R           1.2  1  0  0  0  2
+Smoltz J              0.1  0  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Lilly T (L)           4.0  5  7  7  1  2
+Halama J              3.0  2  1  1  1  0
+Rincon R              0.2  3  2  2  1  0
+Neu M                 1.1  3  1  1  1  1
+  * Pitched to 3 batters in 6th
+
+E -- Byrnes E
+DP -- Atlanta 3
+LOB -- Atlanta 7, Oakland 9
+2B -- Chavez E 2
+3B -- Jones A
+HR -- Furcal R, Lopez J, Giles M, Jones A, Menechino F, Castilla V, Hernandez R
+SH -- Bragg D
+HBP -- by Lilly T (Jones A), by Hernandez R (Ellis M)
+T -- 3:13
+A -- 35618
+     Game of 6/12/2003 -- Atlanta at Oakland (D)
+
+  Atlanta            AB  R  H RBI    Oakland            AB  R  H RBI
+De Rosa M, ss         4  0  0  0   Byrnes E, cf          4  0  1  2   
+Giles M, 2b           4  0  1  0   Hatteberg S, 1b       4  0  0  0   
+Sheffield G, rf       3  2  1  1   Tejada M, ss          4  0  1  0   
+Jones A, cf           4  1  2  1   Durazo E, dh          3  0  0  0   
+Lopez J, dh           4  0  1  1   Dye J, rf             4  0  0  0   
+Franco J, 1b          4  1  1  0   Chavez E, 3b          4  0  0  0   
+Castilla V, 3b        4  0  1  0   Hernandez R, c        4  1  1  0   
+Blanco H, c           2  0  0  1   Long T, lf            4  1  2  0   
+Bragg D, lf           4  0  0  0   Ellis M, 2b           2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  4                        33  2  6  2
+
+Atlanta          100 001 110 --  4
+Oakland          000 000 200 --  2
+
+  Atlanta              IP  H  R ER BB SO
+Reynolds S (W)        6.2  6  2  2  2  0
+King R                0.1  0  0  0  0  0
+Holmes D              1.0  0  0  0  0  1
+Smoltz J (S)          1.0  0  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Zito B (L)            7.0  5  3  3  2  3
+Bradford C            1.0  2  1  0  0  3
+Mecir J               1.0  0  0  0  0  1
+
+E -- Franco J, Chavez E 2
+DP -- Atlanta 1, Oakland 1
+LOB -- Atlanta 5, Oakland 6
+2B -- Franco J, Long T
+HR -- Sheffield G, Jones A
+SH -- Blanco H
+T -- 2:33
+A -- 21173
+     Game of 6/13/2003 -- Montreal at Oakland (N)
+
+  Montreal           AB  R  H RBI    Oakland            AB  R  H RBI
+Wilkerson B, cf       3  1  2  0   Byrnes E, lf          5  1  1  1   
+Mateo H, dh           4  0  1  0   Singleton C, cf       4  0  0  0   
+Vidro J, 2b           4  1  1  1   Tejada M, ss          4  1  2  0   
+Cabrera O, ss         4  1  2  2   Durazo E, 1b          2  1  1  1   
+Cordero W, 1b         4  0  0  0   Dye J, dh             3  2  0  0   
+Barrett M, c          3  1  1  0   Chavez E, 3b          4  2  1  1   
+Tatis F, 3b           4  0  1  0   Hernandez R, c        4  1  2  4   
+Calloway R, rf        4  0  0  0   Long T, rf            4  0  0  1   
+Macias J, lf          4  0  2  1   Ellis M, 2b           4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4 10  4                        34  8  8  8
+
+Montreal         000 111 010 --  4
+Oakland          025 001 00x --  8
+
+  Montreal             IP  H  R ER BB SO
+Ohka T (L)            2.1  6  7  6  1  2
+Smith D               2.2  1  0  0  1  3
+Ferrari A             2.0  1  1  1  1  0
+Stewart S             1.0  0  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          7.0  8  3  3  2  8
+Mecir J               1.0  1  1  1  0  1
+Foulke K              1.0  1  0  0  0  1
+
+E -- Tatis F, Long T
+DP -- Oakland 1
+LOB -- Montreal 5, Oakland 6
+2B -- Tejada M, Durazo E
+HR -- Hernandez R, Vidro J, Byrnes E, Cabrera O
+CS -- Wilkerson B
+HBP -- by Ferrari A (Durazo E)
+WP -- Mulder M
+T -- 2:27
+A -- 14186
+     Game of 6/14/2003 -- Montreal at Oakland (D)
+
+  Montreal           AB  R  H RBI    Oakland            AB  R  H RBI
+Chavez E, cf          3  0  1  1   Byrnes E, lf          4  2  2  1   
+Mateo H, 2b           5  0  1  0   Hatteberg S, 1b       4  1  2  3   
+Cabrera O, ss         4  3  3  0   Tejada M, ss          4  0  0  0   
+Wilkerson B, lf       3  0  1  0   Durazo E, dh          3  0  2  0   
+Guzman E, 1b          4  0  2  2   Dye J, rf             4  0  0  0   
+Macias J, dh          5  0  2  1   Chavez E, 3b          3  0  0  0   
+Schneider B, c        4  0  0  0   Melhuse A, c          3  1  1  0   
+Vidro J, ph           1  0  1  0   Ellis M, 2b           2  1  1  1   
+Barrett M, pr         0  0  0  0   Singleton C, cf       2  0  0  0   
+Calloway R, rf        5  1  2  0                                      
+Carroll J, 3b         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  4 13  4                        29  5  8  5
+
+Montreal         111 000 001 --  4
+Oakland          000 011 03x --  5
+
+  Montreal             IP  H  R ER BB SO
+Tucker T              3.0  1  0  0  0  2
+Eischen J             2.0  3  1  1  0  1
+Manon J               2.0  2  1  1  0  0
+Ayala L (L)           1.0  2  3  3  1  0
+
+  Oakland              IP  H  R ER BB SO
+Harang A              3.2  8  3  2  2  0
+Halama J              3.1  1  0  0  2  2
+Rincon R (W)          1.0  0  0  0  0  2
+Foulke K (S)          1.0  4  1  1  0  1
+
+E -- Tejada M, Singleton C
+DP -- Oakland 1
+LOB -- Montreal 13, Oakland 3
+2B -- Cabrera O 2, Hatteberg S, Calloway R, Melhuse A
+HR -- Byrnes E, Hatteberg S
+SB -- Cabrera O
+CS -- Macias J, Ellis M
+SH -- Guzman E, Chavez E, Singleton C
+SF -- Chavez E
+HBP -- by Ayala L (Ellis M)
+WP -- Halama J
+T -- 2:47
+A -- 26447
+     Game of 6/15/2003 -- Montreal at Oakland (D)
+
+  Montreal           AB  R  H RBI    Oakland            AB  R  H RBI
+Chavez E, cf          4  1  2  0   Byrnes E, cf-lf       4  2  2  3   
+Cabrera O, ss         3  0  1  0   Hatteberg S, 1b       4  1  2  0   
+Carroll J, ss         0  0  0  0   Tejada M, ss          4  0  0  1   
+Vidro J, 2b           3  0  0  0   Durazo E, dh          4  1  1  1   
+Mateo H, 2b           0  0  0  0   Chavez E, 3b          3  1  1  1   
+Wilkerson B, lf       4  0  1  0   Hernandez R, c        4  1  1  2   
+Cordero W, 1b         4  0  0  0   Long T, rf            3  1  0  0   
+Guzman E, dh          4  0  1  0   McMillon B, lf        3  0  1  0   
+Tatis F, 3b           4  0  0  0   Singleton C, pr-cf    1  1  0  0   
+Calloway R, rf        3  0  0  0   Ellis M, 2b           3  1  1  0   
+Barrett M, c          3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  0                        33  9  9  8
+
+Montreal         100 000 000 --  1
+Oakland          000 200 52x --  9
+
+  Montreal             IP  H  R ER BB SO
+Vazquez J (L)         6.1  5  5  5  4  5
+Smith D               0.1  1  1  1  0  0
+Stewart S             0.1  2  1  1  0  0
+Ferrari A             1.0  1  2  2  3  1
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (W)          7.0  6  1  1  1  5
+Bradford C            1.0  0  0  0  0  2
+Mecir J               1.0  0  0  0  0  0
+
+E -- McMillon B
+DP -- Oakland 1
+LOB -- Montreal 6, Oakland 7
+2B -- Hatteberg S, Durazo E, Ellis M
+HR -- Hernandez R, Byrnes E
+HBP -- by Hudson T (Vidro J)
+WP -- Vazquez J, Ferrari A
+T -- 2:43
+A -- 31024
+     Game of 6/17/2003 -- Texas at Oakland (N)
+
+  Texas              AB  R  H RBI    Oakland            AB  R  H RBI
+Young M, 2b           3  1  1  0   Byrnes E, cf          3  1  0  0   
+Everett C, lf         3  0  1  1   Hatteberg S, 1b       4  1  2  2   
+Rodriguez A, ss       4  0  0  0   Tejada M, ss          4  1  1  1   
+Palmeiro R, dh        3  1  1  1   Durazo E, dh          3  0  1  0   
+Gonzalez J, rf        4  0  1  1   Dye J, rf             3  0  0  0   
+Teixeira M, 1b        3  0  0  0   Chavez E, 3b          3  0  0  0   
+Blalock H, 3b         4  0  0  0   Hernandez R, c        2  0  0  0   
+Glanville D, cf       4  1  1  0   Long T, lf            3  0  0  0   
+Diaz E, c             3  0  1  0   Ellis M, 2b           3  1  2  1   
+Lamb M, ph            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        28  4  6  4
+
+Texas            100 010 010 --  3
+Oakland          200 002 00x --  4
+
+  Texas                IP  H  R ER BB SO
+Santos V (L)          5.2  5  4  3  1  3
+Ramirez E             1.1  0  0  0  0  1
+Garcia R              1.0  1  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Lilly T (W)           6.0  5  2  2  2  4
+Bradford C            2.0  1  1  1  1  1
+Foulke K (S)          1.0  0  0  0  0  0
+
+E -- Diaz E, Blalock H
+DP -- Texas 3
+LOB -- Texas 6, Oakland 2
+2B -- Young M, Diaz E
+3B -- Gonzalez J
+HR -- Hatteberg S, Ellis M, Tejada M
+SF -- Everett C
+T -- 2:22
+A -- 14608
+     Game of 6/18/2003 -- Texas at Oakland (N)
+
+  Texas              AB  R  H RBI    Oakland            AB  R  H RBI
+Young M, 2b           6  0  0  0   Byrnes E, cf          4  1  1  0   
+Mench K, lf           6  2  3  0   Hatteberg S, 1b       4  0  1  2   
+Rodriguez A, ss       4  1  3  2   Tejada M, ss          5  0  0  1   
+Gonzalez J, rf        4  0  0  0   Durazo E, dh          3  1  2  0   
+Blalock H, 3b         2  0  0  0   Dye J, rf             5  0  1  0   
+Palmeiro R, dh        4  0  0  0   Chavez E, 3b          5  0  1  1   
+Teixeira M, 1b        3  0  1  0   Hernandez R, c        4  0  1  0   
+Glanville D, cf       3  0  0  1   Singleton C, pr-lf    1  1  1  0   
+Everett C, ph-rf      1  0  0  0   Piatt A, lf           2  0  1  0   
+Sadler D, 3b-rf-cf    5  0  1  0   McMillon B, ph-lf     1  0  1  0   
+Diaz E, c             4  0  1  0   Melhuse A, c          1  0  0  0   
+                                   Ellis M, 2b           4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     42  3  9  3                        39  4 11  4
+
+Texas            000 001 200 00 --  3
+Oakland          000 100 011 01 --  4
+  2 outs when winning run was scored.
+
+  Texas                IP  H  R ER BB SO
+Mounce T              5.2  4  1  1  2  3
+Garcia R              0.1  0  0  0  0  0
+Cordero F             1.2  3  1  1  1  1
+Fultz A               0.1  0  0  0  0  1
+Urbina U              2.0  1  1  1  2  2
+Dickey R (L)          0.2  3  1  1  1  0
+
+  Oakland              IP  H  R ER BB SO
+Zito B                6.0  4  1  1  3  4
+Bradford C            1.0  2  2  2  0  0
+Rincon R              1.0  1  0  0  0  1
+Mecir J               1.0  0  0  0  0  0
+Foulke K (W)          2.0  2  0  0  3  1
+
+DP -- Texas 1
+LOB -- Texas 13, Oakland 11
+2B -- Rodriguez A, Durazo E, Mench K 2, Teixeira M, Byrnes E
+HR -- Rodriguez A
+SH -- Ellis M
+SF -- Hatteberg S
+HBP -- by Zito B (Teixeira M)
+WP -- Mounce T
+T -- 3:41
+A -- 25368
+     Game of 6/19/2003 -- Texas at Oakland (D)
+
+  Texas              AB  R  H RBI    Oakland            AB  R  H RBI
+Young M, 2b           5  0  2  1   Byrnes E, cf          5  2  2  3   
+Teixeira M, 1b        4  0  2  1   Hatteberg S, 1b       4  0  0  0   
+Rodriguez A, ss       4  0  1  0   Tejada M, ss          5  2  5  2   
+Lamb M, 3b            0  0  0  0   Durazo E, dh          3  1  1  1   
+Palmeiro R, dh        4  0  1  0   Hernandez R, c        5  1  3  0   
+Mench K, lf           4  0  2  0   Chavez E, 3b          5  1  1  3   
+Everett C, rf         3  0  0  0   Long T, lf            5  1  2  0   
+Glanville D, cf       4  1  1  0   Ellis M, 2b           2  0  0  0   
+Greene T, c           4  0  1  0   Singleton C, rf       4  1  0  0   
+Sadler D, 3b-ss       4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  2 11  2                        38  9 14  9
+
+Texas            000 000 200 --  2
+Oakland          001 301 04x --  9
+
+  Texas                IP  H  R ER BB SO
+Ramos M (L)           3.2  5  4  4  4  4
+Shouse B              1.1  1  0  0  1  0
+Powell J              1.2  3  1  1  3  1
+Ramirez E             1.1  5  4  4  0  1
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          7.0 10  2  2  0  3
+Rincon R              1.0  0  0  0  0  0
+Neu M                 1.0  1  0  0  0  0
+
+E -- Sadler D, Singleton C
+LOB -- Texas 8, Oakland 13
+2B -- Hernandez R, Tejada M
+HR -- Tejada M, Byrnes E, Chavez E
+SB -- Young M, Byrnes E, Ellis M
+SH -- Everett C
+WP -- Mulder M
+PB -- Greene T
+T -- 3:01
+A -- 15231
+     Game of 6/20/2003 -- San Francisco at Oakland (N)
+
+  San Francisco      AB  R  H RBI    Oakland            AB  R  H RBI
+Durham R, 2b          4  0  1  1   Byrnes E, cf          4  1  2  0   
+Alfonzo E, 3b         4  0  1  0   Hatteberg S, 1b       4  2  2  0   
+Grissom M, cf         4  0  0  0   Tejada M, ss          3  1  1  3   
+Bonds B, lf           4  1  1  1   Durazo E, dh          2  0  0  0   
+Santiago B, c         3  1  2  0   Dye J, rf             4  0  1  2   
+Galarraga A, dh       4  0  2  1   Chavez E, 3b          3  0  1  0   
+Aurilia R, ss         4  0  1  0   Melhuse A, c          4  0  0  0   
+Cruz J, rf            4  0  0  0   McMillon B, lf        3  0  1  0   
+Santos F, 1b          3  1  1  0   Long T, lf            1  0  0  0   
+Feliz P, ph           1  0  0  0   Menechino F, 2b       3  1  1  0   
+                                   Ellis M, 2b           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  3                        31  5  9  5
+
+San Francisco    000 011 010 --  3
+Oakland          200 020 10x --  5
+
+  San Francisco        IP  H  R ER BB SO
+Moss D (L)            6.0  7  4  4  2  3
+Brower J              0.1  1  1  1  1  0
+Eyre S                0.2  0  0  0  1  1
+Rodriguez F           1.0  1  0  0  1  1
+
+  Oakland              IP  H  R ER BB SO
+Harang A (W)          5.2  7  2  2  1  5
+Bradford C            2.1  2  1  1  0  1
+Foulke K (S)          1.0  0  0  0  0  1
+
+E -- Alfonzo E
+DP -- San Francisco 2, Oakland 1
+LOB -- San Francisco 6, Oakland 9
+2B -- Santos F, Durham R, Galarraga A
+HR -- Tejada M, Bonds B
+SF -- Tejada M
+HBP -- by Moss D (Hatteberg S)
+WP -- Moss D
+T -- 2:56
+A -- 47074
+     Game of 6/21/2003 -- San Francisco at Oakland (D)
+
+  San Francisco      AB  R  H RBI    Oakland            AB  R  H RBI
+Durham R, 2b          5  1  1  0   Byrnes E, cf          4  1  1  2   
+Alfonzo E, 3b         4  2  1  1   Hatteberg S, 1b       5  0  2  0   
+Feliz P, lf           5  2  3  3   Tejada M, ss          4  0  0  1   
+Grissom M, cf         0  0  0  0   Durazo E, dh          4  0  0  0   
+Bonds B, dh           3  1  2  0   Dye J, rf             2  0  0  0   
+Santiago B, c         4  0  1  1   Chavez E, 3b          4  1  1  0   
+Galarraga A, 1b       4  0  1  0   Hernandez R, c        4  1  3  0   
+Perez N, ss           4  0  1  0   Long T, lf            4  1  1  1   
+Cruz J, rf            4  0  0  0   Ellis M, 2b           2  0  0  0   
+Valderrama C, cf-lf   4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6 11  5                        33  4  8  4
+
+San Francisco    203 000 100 --  6
+Oakland          000 001 300 --  4
+
+  San Francisco        IP  H  R ER BB SO
+Williams J (W)        6.1  4  3  3  3  3
+Eyre S*               0.0  1  1  1  0  0
+Rodriguez F+          0.0  1  0  0  0  0
+Christiansen J#       0.0  1  0  0  0  0
+Nathan J**            0.2  0  0  0  0  0
+Worrell T (S)         2.0  1  0  0  1  1
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (L)          7.0 11  6  5  2  5
+Mecir J               1.0  0  0  0  0  0
+Rincon R              1.0  0  0  0  0  0
+  * Pitched to 1 batter in 7th
+  + Pitched to 2 batters in 7th
+  # Pitched to 1 batter in 7th
+  ** Pitched to 1 batter in 8th
+
+E -- Tejada M, Hernandez R
+DP -- San Francisco 1, Oakland 1
+LOB -- San Francisco 6, Oakland 9
+2B -- Alfonzo E, Hernandez R
+HR -- Feliz P 2
+CS -- Feliz P
+SF -- Tejada M
+HBP -- by Rodriguez F (Ellis M), by Nathan J (Dye J)
+T -- 2:57
+A -- 52888
+     Game of 6/22/2003 -- San Francisco at Oakland (D)
+
+  San Francisco      AB  R  H RBI    Oakland            AB  R  H RBI
+Durham R, 2b          5  0  1  0   Byrnes E, cf          3  2  1  0   
+Alfonzo E, 3b         5  0  0  0   Hatteberg S, 1b       3  1  2  0   
+Grissom M, cf         5  2  3  0   Tejada M, ss          4  2  1  3   
+Bonds B, dh           3  0  1  1   Durazo E, dh          4  1  1  1   
+Valderrama C, pr      0  0  0  0   Chavez E, 3b          3  0  1  2   
+Galarraga A, 1b       2  1  1  0   Hernandez R, c        4  0  0  0   
+Feliz P, lf           4  1  1  3   McMillon B, lf        2  0  0  0   
+Aurilia R, ss         4  1  1  0   Long T, lf            0  0  0  0   
+Cruz J, rf            4  0  1  1   Ellis M, 2b           3  0  0  0   
+Torrealba Y, c        4  0  0  0   Singleton C, rf       3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5  9  5                        29  6  7  6
+
+San Francisco    113 000 000 --  5
+Oakland          204 000 00x --  6
+
+  San Francisco        IP  H  R ER BB SO
+Foppert J*            2.0  4  5  5  3  1
+Zerbe C (L)           3.0  2  1  1  1  1
+Nathan J              2.0  1  0  0  0  1
+Christiansen J        1.0  0  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Lilly T (W)           5.0  9  5  5  1  3
+Halama J              1.0  0  0  0  0  0
+Bradford C            1.0  0  0  0  2  0
+Mecir J               1.0  0  0  0  0  2
+Foulke K (S)          1.0  0  0  0  1  1
+  * Pitched to 3 batters in 3rd
+
+LOB -- San Francisco 9, Oakland 3
+2B -- Chavez E, Aurilia R, Byrnes E, Singleton C, Galarraga A
+3B -- Grissom M
+HR -- Feliz P, Tejada M, Durazo E
+SB -- Bonds B, Grissom M, Valderrama C
+CS -- Chavez E
+HBP -- by Lilly T (Galarraga A)
+T -- 2:39
+A -- 55413
+     Game of 6/30/2003 -- Seattle at Oakland (N)
+
+  Seattle            AB  R  H RBI    Oakland            AB  R  H RBI
+Suzuki I, rf          4  0  0  0   Byrnes E, cf          4  0  1  0   
+Guillen C, ss         4  0  0  0   Hatteberg S, 1b       4  0  1  0   
+Boone B, 2b           4  0  0  0   Durazo E, dh          2  1  1  0   
+Martinez E, dh        4  0  1  0   Tejada M, ss          4  0  1  0   
+Olerud J, 1b          3  1  1  0   Chavez E, 3b          4  0  1  0   
+Colbrunn G, ph        1  1  1  1   Piatt A, lf           2  0  0  1   
+Mabry J, 1b           0  0  0  0   McMillon B, ph        1  0  0  0   
+Cameron M, cf         4  1  2  0   Melhuse A, c          2  0  0  0   
+Winn R, lf            3  0  1  1   Hernandez R, ph-c     2  0  0  0   
+Cirillo J, 3b         2  0  0  1   Long T, rf            4  0  1  0   
+McLemore M, 3b        0  0  0  0   Ellis M, 2b           4  0  0  0   
+Wilson D, c           3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  7  3                        33  1  6  1
+
+Seattle          000 000 201 --  3
+Oakland          000 000 100 --  1
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (W)           7.1  4  1  1  2  2
+Rhodes A              0.2  1  0  0  1  0
+Nelson J (S)          1.0  1  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Harang A (L)          7.0  6  2  2  0  2
+Rincon R              2.0  1  1  1  0  0
+
+LOB -- Seattle 4, Oakland 8
+2B -- Byrnes E
+HR -- Colbrunn G
+SH -- Winn R, Cirillo J
+Balk -- Harang A
+T -- 2:27
+A -- 24831
+     Game of 7/1/2003 -- Seattle at Oakland (N)
+
+  Seattle            AB  R  H RBI    Oakland            AB  R  H RBI
+Suzuki I, rf          4  1  2  0   Byrnes E, cf          5  0  0  0   
+Winn R, lf            3  0  0  0   Hatteberg S, 1b       5  0  2  0   
+Boone B, 2b           5  0  1  1   Tejada M, ss          5  0  1  0   
+Martinez E, dh        3  0  1  0   Durazo E, dh          5  1  2  0   
+Mabry J, 1b           4  0  0  0   Hernandez R, c        2  0  1  0   
+Cameron M, cf         4  0  0  0   Singleton C, pr-lf    0  0  0  0   
+Guillen C, ss         3  1  2  0   Piatt A, ph           0  0  0  0   
+McLemore M, 3b        4  0  0  0   Long T, ph            1  1  1  1   
+Cirillo J, 3b         0  0  0  0   Chavez E, 3b          3  1  0  0   
+Davis B, c            4  0  2  1   Menechino F, 3b       1  0  0  0   
+                                   Dye J, rf             4  0  1  1   
+                                   McMillon B, lf        2  0  0  0   
+                                   Melhuse A, c          0  0  0  0   
+                                   Ellis M, 2b           4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        37  3  9  3
+
+Seattle          000 100 000 01 --  2
+Oakland          010 000 000 02 --  3
+  2 outs when winning run was scored.
+
+  Seattle              IP  H  R ER BB SO
+Meche G               7.0  5  1  1  3  2
+Hasegawa S            2.0  1  0  0  1  0
+Soriano R             1.0  1  0  0  0  1
+Rhodes A*             0.0  1  1  1  0  0
+Nelson J (L)          0.2  1  1  1  0  0
+
+  Oakland              IP  H  R ER BB SO
+Hudson T              8.0  5  1  1  2  5
+Rincon R              0.1  1  0  0  0  0
+Foulke K (W)          2.2  2  1  1  1  3
+  * Pitched to 1 batter in 11th
+
+E -- Hatteberg S, Guillen C
+DP -- Seattle 2, Oakland 4
+LOB -- Seattle 4, Oakland 8
+2B -- Suzuki I, Davis B, Durazo E, Guillen C
+3B -- Boone B
+CS -- Guillen C 2, Suzuki I
+SH -- Suzuki I, Winn R, Menechino F
+SF -- Dye J
+WP -- Nelson J
+T -- 3:20
+A -- 20233
+     Game of 7/2/2003 -- Seattle at Oakland (N)
+
+  Seattle            AB  R  H RBI    Oakland            AB  R  H RBI
+Suzuki I, rf          5  1  2  0   Byrnes E, cf          2  0  0  0   
+Winn R, lf            4  3  2  2   Piatt A, ph-lf        1  0  0  0   
+Boone B, 2b           5  1  2  2   Hatteberg S, 1b       3  0  0  0   
+Martinez E, dh        6  3  3  2   Tejada M, ss          2  0  1  0   
+Cameron M, cf         6  1  3  3   Melhuse A, ph-3b      1  0  0  0   
+Colbrunn G, 1b        6  0  2  1   Durazo E, dh          4  0  0  0   
+Bloomquist W, ss      4  1  1  1   Hernandez R, c        3  0  1  0   
+Cirillo J, 3b         5  1  1  0   Dye J, rf             4  0  0  0   
+Wilson D, c           5  2  4  1   Singleton C, lf-cf    4  0  0  0   
+                                   Menechino F, 3b-ss    3  0  0  0   
+                                   Ellis M, 2b           3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     46 13 20 12                        30  0  3  0
+
+Seattle          210 021 034 -- 13
+Oakland          000 000 000 --  0
+
+  Seattle              IP  H  R ER BB SO
+Pineiro J (W)         8.0  3  0  0  3  6
+Mateo J               1.0  0  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Lilly T (L)           4.2 10  5  5  3  9
+Halama J              2.2  6  4  4  1  0
+Neu M                 1.2  4  4  4  2  0
+
+E -- Menechino F
+DP -- Oakland 1
+LOB -- Seattle 13, Oakland 7
+2B -- Boone B, Hernandez R, Bloomquist W, Martinez E, Winn R 2, Colbrunn G, Cameron M
+HR -- Martinez E
+HBP -- by Lilly T (Suzuki I), by Mateo J (Hernandez R)
+PB -- Hernandez R
+T -- 3:02
+A -- 33420
+     Game of 7/3/2003 -- Seattle at Oakland (D)
+
+  Seattle            AB  R  H RBI    Oakland            AB  R  H RBI
+Suzuki I, rf          4  1  2  0   Byrnes E, cf          5  0  1  0   
+Winn R, lf            4  0  1  0   Hatteberg S, 1b       4  1  1  1   
+Boone B, 2b           4  0  3  1   Tejada M, ss          4  1  2  0   
+Martinez E, dh        4  1  1  1   Durazo E, dh          4  1  2  1   
+Cameron M, cf         4  0  1  0   Hernandez R, c        4  0  0  0   
+Colbrunn G, 1b        4  0  0  0   McMillon B, lf        4  1  2  1   
+Bloomquist W, ss      4  0  1  0   Singleton C, rf       0  0  0  0   
+Cirillo J, 3b         3  0  0  0   Menechino F, 3b       2  0  1  1   
+Mabry J, ph           1  0  0  0   Long T, rf-lf         4  0  1  1   
+Davis B, c            3  0  1  0   Ellis M, 2b           4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2 10  2                        35  5 11  5
+
+Seattle          000 100 010 --  2
+Oakland          100 121 00x --  5
+
+  Seattle              IP  H  R ER BB SO
+Franklin R (L)        5.1 10  5  4  1  1
+Taylor A              1.2  0  0  0  0  1
+Soriano R             1.0  1  0  0  0  2
+
+  Oakland              IP  H  R ER BB SO
+Zito B (W)            7.1 10  2  2  0  5
+Bradford C            0.1  0  0  0  0  0
+Foulke K (S)          1.1  0  0  0  0  2
+
+E -- Cirillo J, Boone B
+DP -- Oakland 2
+LOB -- Seattle 6, Oakland 9
+2B -- Byrnes E
+HR -- Martinez E
+SB -- Boone B, Ellis M
+SF -- Menechino F
+HBP -- by Franklin R (Menechino F)
+PB -- Davis B
+T -- 2:43
+A -- 19612
+     Game of 7/4/2003 -- Anaheim at Oakland (N)
+
+  Anaheim            AB  R  H RBI    Oakland            AB  R  H RBI
+Eckstein D, ss        3  0  0  1   Byrnes E, lf          4  0  0  0   
+Erstad D, cf          4  0  0  0   Hatteberg S, 1b       4  0  1  0   
+Salmon T, rf          4  0  0  0   Tejada M, ss          4  0  1  0   
+Owens E, rf           0  0  0  0   Durazo E, dh          2  0  0  0   
+Anderson G, lf        3  0  0  0   Dye J, rf             3  0  0  0   
+Wooten S, dh          3  0  1  0   Chavez E, 3b          3  0  0  0   
+Glaus T, 3b           1  0  0  0   Hernandez R, c        3  0  0  0   
+Kennedy A, 2b         2  0  0  0   Singleton C, cf       3  0  0  0   
+Spiezio S, 1b-3b      3  0  0  0   Ellis M, 2b           2  0  0  0   
+Gil B, 2b-1b          3  1  2  0   McMillon B, ph        1  0  0  0   
+Molina J, c           2  0  0  0   Menechino F, 2b       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  1  3  1                        29  0  2  0
+
+Anaheim          000 001 000 --  1
+Oakland          000 000 000 --  0
+
+  Anaheim              IP  H  R ER BB SO
+Sele A (W)            5.0  1  0  0  2  2
+Rodriguez F           2.0  1  0  0  1  2
+Donnelly B            1.0  0  0  0  0  2
+Percival T (S)        1.0  0  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (L)          9.0  3  1  1  0  5
+
+LOB -- Anaheim 2, Oakland 5
+2B -- Gil B, Tejada M
+SB -- Gil B
+SH -- Molina J, Eckstein D
+T -- 2:10
+A -- 33134
+     Game of 7/5/2003 -- Anaheim at Oakland (N)
+
+  Anaheim            AB  R  H RBI    Oakland            AB  R  H RBI
+Eckstein D, ss        5  1  2  0   Byrnes E, cf          4  0  0  0   
+DaVanon J, rf         4  1  1  1   McMillon B, dh        4  1  2  1   
+Salmon T, dh          5  2  2  4   Durazo E, 1b          4  0  0  0   
+Anderson G, lf        4  0  2  1   Tejada M, ss          4  0  0  0   
+Spiezio S, 1b         4  0  1  0   Chavez E, 3b          4  1  2  1   
+Glaus T, 3b           4  0  1  0   Dye J, rf             4  0  0  0   
+Kennedy A, 2b         4  0  0  0   Long T, lf            3  1  1  0   
+Owens E, cf           4  0  0  0   Hernandez R, c        3  0  0  0   
+Molina J, c           4  2  2  0   Menechino F, 2b       2  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     38  6 11  6                        32  3  6  3
+
+Anaheim          310 010 001 --  6
+Oakland          000 021 000 --  3
+
+  Anaheim              IP  H  R ER BB SO
+Ortiz R (W)           6.0  6  3  3  0  2
+Weber B               1.0  0  0  0  0  0
+Donnelly B            1.0  0  0  0  1  1
+Percival T (S)        1.0  0  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Harang A (L)          1.2  7  4  4  1  2
+Halama J              3.1  2  1  1  0  2
+Bradford C            2.0  0  0  0  0  3
+Mecir J               1.0  0  0  0  0  1
+Rincon R              1.0  2  1  1  0  0
+
+E -- Menechino F
+DP -- Anaheim 1, Oakland 1
+LOB -- Anaheim 6, Oakland 3
+2B -- Long T, Molina J
+HR -- Salmon T 2, Chavez E, McMillon B
+SB -- Eckstein D
+PB -- Molina J
+T -- 2:43
+A -- 55601
+     Game of 7/6/2003 -- Anaheim at Oakland (D)
+
+  Anaheim            AB  R  H RBI    Oakland            AB  R  H RBI
+Eckstein D, ss        3  0  0  0   Byrnes E, cf          4  1  1  0   
+Gil B, ss             1  1  1  0   Hatteberg S, 1b       2  1  0  0   
+Erstad D, cf          4  0  2  0   Tejada M, ss          5  0  0  0   
+Spiezio S, 1b         4  1  2  2   Durazo E, dh          2  1  0  1   
+Anderson G, lf        4  0  1  0   Hernandez R, c        4  2  3  2   
+Glaus T, 3b           4  0  0  0   Chavez E, 3b          4  1  1  1   
+DaVanon J, rf         4  2  0  0   Dye J, rf             2  0  2  0   
+Molina B, c           4  1  2  3   Long T, rf            2  0  0  0   
+Kennedy A, 2b         3  0  0  0   Piatt A, lf           4  0  1  0   
+Figgins C, dh         4  0  0  0   Ellis M, 2b           4  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     35  5  8  5                        33  6  9  6
+
+Anaheim          010 000 022 --  5
+Oakland          000 301 101 --  6
+  2 outs when winning run was scored.
+
+  Anaheim              IP  H  R ER BB SO
+Washburn J            6.0  7  4  4  3  3
+Shields S             0.2  1  1  1  2  0
+Schoeneweis S (L)     1.2  1  1  0  0  1
+Rodriguez F           0.1  0  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Hudson T              6.2  4  1  1  4  5
+Rincon R              0.1  0  0  0  2  0
+Bradford C            1.0  1  2  2  1  0
+Foulke K (W)          1.0  3  2  2  0  1
+
+E -- Glaus T
+DP -- Anaheim 1
+LOB -- Anaheim 10, Oakland 8
+2B -- Molina B, Erstad D, Chavez E, Ellis M, Byrnes E
+HR -- Hernandez R, Molina B, Spiezio S
+SB -- Gil B
+SH -- Hatteberg S
+SF -- Durazo E
+T -- 3:08
+A -- 25084
+     Game of 7/8/2003 -- Tampa Bay at Oakland (N)
+
+  Tampa Bay          AB  R  H RBI    Oakland            AB  R  H RBI
+Crawford C, lf        6  2  2  0   Byrnes E, cf          4  0  0  0   
+Perez A, 2b           5  1  3  0   Hatteberg S, 1b       4  0  0  0   
+Baldelli R, cf        5  1  2  2   Durazo E, dh          3  2  2  1   
+Huff A, rf            5  0  2  0   Tejada M, ss          4  1  1  0   
+Rolls D, 3b           4  2  2  1   Chavez E, 3b          2  0  0  0   
+Lee T, 1b             5  1  3  3   Hernandez R, c        3  0  0  1   
+Hall T, c             5  1  2  0   Long T, rf            4  0  2  1   
+Grieve B, dh          3  1  2  2   Ellis M, 2b           3  0  1  0   
+Lugo J, ss            5  0  1  1   McMillon B, lf        4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     43  9 19  9                        31  3  6  3
+
+Tampa Bay        031 102 011 --  9
+Oakland          000 210 000 --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Bell R (W)            6.0  4  3  3  3  3
+Backe B               1.0  0  0  0  1  0
+Seay B                0.2  1  0  0  1  1
+Harper T              1.1  1  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Zito B (L)            5.1 15  7  7  2  2
+Halama J              2.2  3  1  0  0  1
+Neu M                 1.0  1  1  1  2  0
+
+E -- Ellis M
+DP -- Tampa Bay 1, Oakland 1
+LOB -- Tampa Bay 13, Oakland 7
+2B -- Grieve B, Lee T, Ellis M, Durazo E
+HR -- Durazo E
+SB -- Perez A, Crawford C
+CS -- Hall T
+SF -- Baldelli R, Hernandez R
+HBP -- by Zito B (Huff A)
+T -- 2:45
+A -- 13162
+     Game of 7/9/2003 -- Tampa Bay at Oakland (D)
+
+  Tampa Bay          AB  R  H RBI    Oakland            AB  R  H RBI
+Crawford C, lf        5  0  1  0   Byrnes E, cf          4  0  1  1   
+Perez A, ss           1  0  1  0   Menechino F, 2b       4  0  1  0   
+Martin A, ph          0  0  0  0   Durazo E, dh          4  1  1  0   
+Lugo J, ss            1  0  0  0   Tejada M, ss          4  1  1  0   
+Baldelli R, cf        5  0  1  0   McCarty D, 1b         3  1  2  1   
+Huff A, rf            5  0  0  0   Chavez E, 3b          2  1  0  0   
+Rolls D, 3b           4  0  0  0   Piatt A, lf           4  0  2  3   
+Lee T, 1b             4  1  2  0   Long T, rf            4  1  1  1   
+Hall T, c             4  1  2  2   Melhuse A, c          4  1  2  0   
+Grieve B, dh          3  0  1  0                                      
+Anderson M, 2b        4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  3  9  2                        33  6 11  6
+
+Tampa Bay        020 001 000 --  3
+Oakland          000 102 30x --  6
+
+  Tampa Bay            IP  H  R ER BB SO
+Kennedy J             5.0  6  1  1  2  1
+Levine A              0.2  2  2  2  0  0
+Colome J (L)          0.2  3  3  3  2  0
+Seay B                0.2  0  0  0  0  0
+Carter L              1.0  0  0  0  1  0
+
+  Oakland              IP  H  R ER BB SO
+Lilly T               5.2  8  3  2  2  1
+Bradford C            0.1  0  0  0  1  1
+Rincon R (W)          1.0  0  0  0  0  1
+Mecir J               1.0  1  0  0  0  0
+Foulke K (S)          1.0  0  0  0  0  1
+
+E -- Melhuse A, McCarty D
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 10, Oakland 9
+2B -- Lee T, Anderson M, McCarty D 2, Melhuse A 2, Crawford C, Tejada M, Piatt A
+HR -- Hall T, Long T
+SB -- Crawford C, Anderson M, Perez A, Piatt A
+SF -- McCarty D
+HBP -- by Lilly T (Grieve B)
+T -- 2:42
+A -- 21036
+     Game of 7/10/2003 -- Tampa Bay at Oakland (D)
+
+  Tampa Bay          AB  R  H RBI    Oakland            AB  R  H RBI
+Lugo J, ss            4  0  0  0   Long T, rf            5  1  1  0   
+Perez A, 2b           4  0  1  1   Hatteberg S, 1b       5  1  3  1   
+Baldelli R, cf        4  1  1  1   Tejada M, ss          4  1  2  1   
+Huff A, dh            4  0  1  0   Durazo E, dh          3  2  1  0   
+Hall T, c             3  0  0  0   Chavez E, 3b          2  0  1  2   
+Lee T, 1b             3  0  1  0   Hernandez R, c        4  0  1  1   
+Rolls D, 3b           3  0  0  0   McMillon B, lf        2  0  1  0   
+Shumpert T, rf        3  0  0  0   Piatt A, pr-lf        0  0  0  0   
+Crawford C, lf        2  1  1  0   Singleton C, cf       4  0  0  0   
+                                   Ellis M, 2b           4  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        33  5 12  5
+
+Tampa Bay        100 000 001 --  2
+Oakland          400 010 00x --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Sosa J (L)*           6.0 11  5  4  2  1
+Levine A              1.0  0  0  0  1  0
+Colome J              1.0  1  0  0  1  0
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          9.0  5  2  2  1  5
+  * Pitched to 2 batters in 7th
+
+E -- Shumpert T, Rolls D
+DP -- Tampa Bay 3, Oakland 1
+LOB -- Tampa Bay 2, Oakland 9
+2B -- Hatteberg S, Huff A, Crawford C
+HR -- Baldelli R
+CS -- Crawford C
+SF -- Chavez E
+Balk -- Sosa J
+T -- 2:16
+A -- 14299
+     Game of 7/11/2003 -- Baltimore at Oakland (N)
+
+  Baltimore          AB  R  H RBI    Oakland            AB  R  H RBI
+Roberts B, 2b         4  0  1  0   Byrnes E, cf          4  0  1  0   
+Matos L, cf           3  0  1  0   Hatteberg S, 1b       4  0  0  0   
+Mora M, lf            3  0  1  0   Durazo E, dh          3  0  0  0   
+Conine J, 1b          4  0  0  0   Tejada M, ss          4  0  1  0   
+Gibbons J, rf         2  0  0  0   Chavez E, 3b          2  0  1  0   
+Batista T, 3b         3  0  0  0   Hernandez R, c        2  1  0  0   
+Segui D, dh           3  0  0  0   Long T, lf            3  1  1  1   
+Cruz D, ss            3  0  0  0   Ellis M, 2b           3  0  1  0   
+Gil G, c              3  0  0  0   Singleton C, rf       3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  0  3  0                        28  2  5  1
+
+Baltimore        000 000 000 --  0
+Oakland          000 000 20x --  2
+
+  Baltimore            IP  H  R ER BB SO
+Lopez R (L)           8.0  5  2  2  2  5
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (W)          9.0  3  0  0  1  9
+
+E -- Cruz D, Gibbons J
+DP -- Baltimore 1
+LOB -- Baltimore 4, Oakland 5
+2B -- Tejada M, Long T, Byrnes E
+SB -- Chavez E, Tejada M
+SH -- Matos L, Mora M
+HBP -- by Lopez R (Hernandez R)
+T -- 2:19
+A -- 16198
+     Game of 7/12/2003 -- Baltimore at Oakland (D)
+
+  Baltimore          AB  R  H RBI    Oakland            AB  R  H RBI
+Roberts B, 2b         4  1  1  0   Byrnes E, cf          4  0  0  0   
+Matos L, cf           4  1  3  0   Hatteberg S, 1b       4  1  1  2   
+Mora M, lf            4  1  1  0   Durazo E, dh          4  0  1  0   
+Conine J, 1b          4  0  0  0   Tejada M, ss          4  1  1  0   
+Gibbons J, rf         4  0  1  1   Chavez E, 3b          3  0  0  0   
+Batista T, 3b         4  0  0  0   McCarty D, lf         3  0  0  0   
+Segui D, dh           4  0  1  0   Singleton C, rf       0  0  0  0   
+Cruz D, ss            3  0  0  0   Hernandez R, c        2  1  0  0   
+Fordyce B, c          3  0  1  0   Long T, rf-lf         3  1  1  3   
+                                   Ellis M, 2b           3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  1                        30  5  5  5
+
+Baltimore        003 000 000 --  3
+Oakland          030 000 02x --  5
+
+  Baltimore            IP  H  R ER BB SO
+Hentgen P             7.0  3  3  3  1  3
+Carrasco H (L)        0.1  1  1  1  0  0
+Groom B               0.2  1  1  1  0  0
+
+  Oakland              IP  H  R ER BB SO
+Halama J              5.0  6  3  1  0  3
+Bradford C            2.0  1  0  0  0  1
+Mecir J (W)           1.0  1  0  0  0  0
+Foulke K (S)          1.0  0  0  0  0  1
+
+E -- Chavez E, Batista T
+DP -- Oakland 1
+LOB -- Baltimore 4, Oakland 2
+2B -- Tejada M
+HR -- Long T, Hatteberg S
+T -- 2:13
+A -- 44807
+     Game of 7/13/2003 -- Baltimore at Oakland (D)
+
+  Baltimore          AB  R  H RBI    Oakland            AB  R  H RBI
+Roberts B, 2b         3  0  1  0   Byrnes E, cf          4  0  0  0   
+Matos L, cf           3  0  0  0   Hatteberg S, 1b       4  0  0  0   
+Mora M, lf            4  0  0  0   Durazo E, dh          3  0  1  0   
+Conine J, 1b          3  0  0  0   Tejada M, ss          3  0  0  0   
+Gibbons J, rf         4  0  1  0   Chavez E, 3b          4  0  2  0   
+Batista T, 3b         4  0  0  0   Long T, rf            4  0  0  0   
+Segui D, dh           3  0  1  0   Ellis M, 2b           4  1  1  0   
+Cruz D, ss            3  0  0  0   McMillon B, lf        3  0  1  0   
+Fordyce B, c          3  0  1  0   Melhuse A, c          3  0  1  0   
+                                   Singleton C, pr       0  0  0  0   
+                                   Hernandez R, c        1  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        33  1  6  1
+
+Baltimore        000 000 000 --  0
+Oakland          000 000 001 --  1
+  1 out when winning run was scored.
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J             7.2  5  0  0  1  7
+Ryan B                0.1  0  0  0  0  1
+Carrasco H (L)        0.1  1  1  1  1  0
+
+  Oakland              IP  H  R ER BB SO
+Zito B                8.0  4  0  0  2  2
+Foulke K (W)          1.0  0  0  0  0  1
+
+E -- Roberts B
+LOB -- Baltimore 6, Oakland 10
+2B -- Chavez E, Melhuse A
+3B -- Ellis M
+SB -- Roberts B, Singleton C
+SH -- Roberts B
+HBP -- by Johnson J (Tejada M)
+T -- 2:29
+A -- 24162
+     Game of 7/29/2003 -- Cleveland at Oakland (N)
+
+  Cleveland          AB  R  H RBI    Oakland            AB  R  H RBI
+Crisp C, cf           5  0  1  0   Ellis M, 2b           4  1  1  0   
+Blake C, 3b           4  0  1  0   Hatteberg S, dh       4  0  2  0   
+Gerut J, lf           4  0  1  0   Tejada M, ss          3  1  0  1   
+Bradley M, dh         4  1  2  1   Durazo E, 1b          3  1  1  0   
+Ludwick R, rf         3  1  1  1   McCarty D, lf         4  1  1  0   
+Broussard B, 1b       4  0  2  0   Chavez E, 3b          4  1  2  1   
+Laker T, c            4  0  0  0   Hernandez R, c        2  1  1  2   
+Sorensen Z, 2b        3  0  0  0   Piatt A, rf           2  0  0  0   
+McDonald J, 2b        1  0  0  0   McMillon B, ph        1  0  0  0   
+Peralta J, ss         3  0  0  0   Singleton C, cf       0  0  0  1   
+Hafner T, ph          0  0  0  0   Byrnes E, cf          2  0  0  0   
+                                   Long T, ph-rf         2  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  2  8  2                        31  6  9  6
+
+Cleveland        010 001 000 --  2
+Oakland          001 000 32x --  6
+
+  Cleveland            IP  H  R ER BB SO
+Anderson B (L)*       6.0  6  3  3  1  6
+Boyd J                0.1  1  1  1  0  0
+Stanford J            0.2  1  0  0  0  1
+Betancourt R          0.1  1  2  0  2  0
+Mulholland T          0.2  0  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          7.2  7  2  2  1 11
+Foulke K (S)          1.1  1  0  0  1  1
+  * Pitched to 2 batters in 7th
+
+E -- McDonald J
+LOB -- Cleveland 8, Oakland 6
+2B -- Hatteberg S, Hernandez R, Gerut J, Chavez E, Broussard B
+HR -- Ludwick R, Bradley M
+SB -- Crisp C
+SF -- Tejada M, Singleton C
+T -- 2:39
+A -- 19260
+     Game of 7/30/2003 -- Cleveland at Oakland (N)
+
+  Cleveland          AB  R  H RBI    Oakland            AB  R  H RBI
+Crisp C, lf           4  0  2  0   Ellis M, 2b           5  1  1  0   
+Blake C, 3b           3  1  1  0   Hatteberg S, dh       4  0  2  1   
+Gerut J, dh           4  2  2  0   Tejada M, ss          4  0  2  0   
+Bradley M, cf         2  0  0  1   Durazo E, 1b          3  0  0  1   
+Ludwick R, rf         4  0  1  1   Hernandez R, c        4  0  1  0   
+Martinez V, c         4  0  1  1   Long T, rf            4  0  1  0   
+Hafner T, 1b          3  0  0  0   Piatt A, lf           3  0  1  0   
+Broussard B, 1b       1  0  0  0   McMillon B, ph        1  0  0  0   
+McDonald J, ss        4  0  0  0   Menechino F, 3b       3  0  1  0   
+Santos A, 2b          3  1  1  1   Singleton C, ph       1  0  1  0   
+                                   Byrnes E, cf          2  1  1  0   
+                                   Chavez E, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  8  4                        35  2 11  2
+
+Cleveland        000 210 010 --  4
+Oakland          100 010 000 --  2
+
+  Cleveland            IP  H  R ER BB SO
+Sabathia C (W)        7.0  9  2  2  1  1
+Riske D               1.0  1  0  0  0  1
+Baez D (S)            1.0  1  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Lilly T (L)           7.0  6  3  3  0  5
+Bradford C            1.0  2  1  1  1  0
+Rincon R              1.0  0  0  0  0  1
+
+LOB -- Cleveland 4, Oakland 8
+2B -- Long T, Tejada M, Blake C, Hatteberg S, Crisp C, Singleton C
+HR -- Santos A
+CS -- Piatt A
+SH -- Blake C
+SF -- Durazo E, Bradley M
+WP -- Sabathia C
+T -- 2:38
+A -- 29792
+     Game of 7/31/2003 -- Cleveland at Oakland (D)
+
+  Cleveland          AB  R  H RBI    Oakland            AB  R  H RBI
+Crisp C, lf           4  0  1  0   McMillon B, lf        2  1  0  0   
+Blake C, 3b           4  0  0  0   Piatt A, lf           0  0  0  0   
+Gerut J, rf           3  1  1  0   Hatteberg S, dh       3  0  0  0   
+Bradley M, cf         3  0  1  1   Tejada M, ss          4  0  1  2   
+Broussard B, 1b       4  0  0  0   Durazo E, 1b          4  0  2  0   
+Laker T, c            4  0  2  0   Chavez E, 3b          4  1  1  1   
+Hafner T, dh          2  0  0  0   Long T, rf            2  0  0  0   
+McDonald J, ss-2b     4  0  1  0   Ellis M, 2b           3  0  1  0   
+Santos A, 2b          2  0  0  0   Melhuse A, c          3  0  0  0   
+Martinez V, ph        1  0  0  0   Singleton C, cf       3  1  0  0   
+Peralta J, ss         0  0  0  0                                      
+Ludwick R, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        28  3  5  3
+
+Cleveland        000 000 010 --  1
+Oakland          010 020 00x --  3
+
+  Cleveland            IP  H  R ER BB SO
+Westbrook J (L)       4.2  4  3  3  4  0
+Stanford J            3.1  1  0  0  0  2
+
+  Oakland              IP  H  R ER BB SO
+Harden R (W)          7.0  3  0  0  4  9
+Bradford C            1.0  2  1  1  0  1
+Foulke K (S)          1.0  1  0  0  0  1
+
+E -- Laker T
+DP -- Cleveland 1
+LOB -- Cleveland 8, Oakland 5
+2B -- Laker T, Gerut J, Bradley M, McDonald J
+HR -- Chavez E
+SB -- Bradley M
+CS -- Crisp C
+T -- 2:26
+A -- 25011
+     Game of 8/1/2003 -- New York at Oakland (N)
+
+  New York           AB  R  H RBI    Oakland            AB  R  H RBI
+Jeter D, ss           4  0  1  1   Ellis M, 2b           5  2  2  0   
+Williams B, cf        5  0  0  0   Hatteberg S, dh       4  0  2  0   
+Giambi J, 1b          2  0  0  0   Tejada M, ss          4  1  1  2   
+Posada J, c           5  0  1  1   Durazo E, 1b          4  0  0  0   
+Matsui H, lf          4  0  0  0   Guillen J, rf         4  0  0  0   
+Boone A, 3b           4  0  1  0   Chavez E, 3b          3  0  1  0   
+Johnson N, dh         3  0  0  0   Hernandez R, c        4  0  1  0   
+Soriano A, 2b         3  0  0  0   Long T, lf            4  0  1  0   
+Dellucci D, rf        4  2  2  0   Byrnes E, cf          2  0  0  0   
+                                   McMillon B, ph        1  0  0  0   
+                                   Singleton C, cf       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  5  2                        36  3  8  2
+
+New York         001 010 000 0 --  2
+Oakland          100 000 010 1 --  3
+  2 outs when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Mussina M             7.0  4  1  1  1  9
+Orosco J              0.1  0  0  0  0  0
+Benitez A             0.1  1  1  0  1  1
+Rivera M              1.1  2  0  0  0  1
+Osuna A (L)           0.2  1  1  1  0  1
+
+  Oakland              IP  H  R ER BB SO
+Hudson T              7.0  4  2  2  3  5
+Rincon R              1.0  0  0  0  0  1
+Foulke K (W)          2.0  1  0  0  0  1
+
+E -- Soriano A
+LOB -- New York 8, Oakland 7
+2B -- Ellis M, Jeter D, Hatteberg S
+HR -- Tejada M
+SB -- Dellucci D, Boone A
+SH -- Jeter D
+SF -- Tejada M
+HBP -- by Hudson T (Giambi J), by Foulke K (Soriano A)
+T -- 3:25
+A -- 41407
+     Game of 8/2/2003 -- New York at Oakland (D)
+
+  New York           AB  R  H RBI    Oakland            AB  R  H RBI
+Jeter D, ss           5  2  2  1   McMillon B, lf        5  1  1  0   
+Williams B, cf        5  2  4  2   Guillen J, cf         5  1  1  0   
+Giambi J, 1b          4  1  1  3   Chavez E, 3b          4  2  4  1   
+Boone A, 3b           4  0  0  1   Tejada M, ss          4  1  2  2   
+Matsui H, lf          4  1  1  1   Durazo E, 1b          4  0  1  3   
+Sierra R, rf          3  1  0  0   Hatteberg S, dh       3  0  0  0   
+Dellucci D, rf        0  0  0  0   Ellis M, 2b           4  1  1  0   
+Soriano A, 2b         4  1  1  0   Long T, rf            4  0  1  1   
+Flaherty J, c         4  1  1  2   Melhuse A, c          4  1  2  0   
+Zeile T, dh           4  1  2  0                                      
+Garcia K, pr          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37 10 12 10                        37  7 13  7
+
+New York         152 010 100 -- 10
+Oakland          211 000 201 --  7
+
+  New York             IP  H  R ER BB SO
+Weaver J (W)          6.1 10  6  4  2  5
+Orosco J              0.2  0  0  0  0  1
+Hammond C*            1.0  3  1  0  0  1
+Rivera M (S)          1.0  0  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Zito B (L)            3.0  8  8  3  2  1
+Halama J              4.0  2  2  2  0  3
+Harville C            1.0  0  0  0  0  2
+Neu M                 1.0  2  0  0  0  0
+  * Pitched to 2 batters in 9th
+
+E -- Chavez E, Matsui H 2, Jeter D
+DP -- New York 1, Oakland 2
+LOB -- New York 2, Oakland 7
+2B -- Chavez E, Long T
+3B -- Chavez E
+HR -- Giambi J, Flaherty J, Matsui H, Williams B
+SB -- Williams B, Tejada M
+CS -- Soriano A
+SF -- Durazo E, Tejada M
+T -- 2:44
+A -- 44234
+     Game of 8/3/2003 -- New York at Oakland (D)
+
+  New York           AB  R  H RBI    Oakland            AB  R  H RBI
+Jeter D, ss           4  0  1  0   Ellis M, 2b           2  1  0  0   
+Williams B, cf        4  0  0  0   Guillen J, rf         4  0  1  0   
+Giambi J, dh          4  0  0  0   Chavez E, 3b          4  1  1  0   
+Posada J, c           4  0  0  0   Tejada M, ss          4  0  1  2   
+Matsui H, lf          3  0  1  0   Durazo E, 1b          3  0  0  0   
+Boone A, 3b           3  1  1  0   Hernandez R, c        3  0  0  0   
+Soriano A, 2b         3  0  2  1   Byrnes E, cf          3  0  0  0   
+Zeile T, 1b           2  0  0  0   Long T, lf            3  0  0  0   
+Garcia K, rf          2  0  0  0   Piatt A, dh           3  0  0  0   
+Sierra R, ph          1  0  0  0                                      
+Dellucci D, rf        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        29  2  3  2
+
+New York         000 010 000 --  1
+Oakland          000 000 002 --  2
+  1 out when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Pettitte A*           8.0  1  1  1  2  6
+Rivera M (L)          0.1  2  1  1  0  1
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (W)          9.0  5  1  1  2  7
+  * Pitched to 1 batter in 9th
+
+E -- Soriano A
+DP -- Oakland 1
+LOB -- New York 4, Oakland 4
+2B -- Boone A, Tejada M
+CS -- Matsui H
+WP -- Pettitte A
+T -- 2:25
+A -- 44528
+     Game of 8/11/2003 -- Boston at Oakland (N)
+
+  Boston             AB  R  H RBI    Oakland            AB  R  H RBI
+Damon J, cf           4  0  0  0   Hatteberg S, 1b       4  0  0  0   
+Mueller B, 3b         3  0  0  0   Guillen J, rf         3  0  1  1   
+Garciaparra N, ss     2  0  1  0   Chavez E, 3b          3  0  0  0   
+Ramirez M, lf         3  0  1  0   Tejada M, ss          4  0  1  0   
+Ortiz D, dh           3  0  0  0   Durazo E, dh          4  0  0  0   
+Millar K, 1b          3  0  0  0   Hernandez R, c        3  1  0  0   
+Nixon T, rf           3  0  0  0   Long T, lf            4  1  1  2   
+Walker T, 2b          3  0  0  0   Ellis M, 2b           2  1  2  0   
+Varitek J, c          3  0  0  0   Singleton C, cf       3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     27  0  2  0                        30  4  6  4
+
+Boston           000 000 000 --  0
+Oakland          002 002 00x --  4
+
+  Boston               IP  H  R ER BB SO
+Martinez P (L)        5.0  5  2  2  2  7
+Fossum C              1.0  1  2  2  1  1
+Jones T               1.0  0  0  0  0  2
+Williamson S          1.0  0  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (W)          9.0  2  0  0  1  7
+
+DP -- Oakland 2
+LOB -- Boston 1, Oakland 6
+2B -- Ellis M, Singleton C
+HR -- Long T
+HBP -- by Fossum C (Hernandez R)
+T -- 2:24
+A -- 33504
+     Game of 8/12/2003 -- Boston at Oakland (N)
+
+  Boston             AB  R  H RBI    Oakland            AB  R  H RBI
+Damon J, cf           4  0  3  0   Hatteberg S, 1b       4  0  0  0   
+Mueller B, 3b         4  0  1  0   Guillen J, rf         4  1  2  0   
+Garciaparra N, ss     4  0  1  0   Chavez E, 3b          4  1  1  2   
+Ramirez M, lf         4  0  0  0   Tejada M, ss          3  0  1  0   
+Millar K, dh          3  1  0  0   Durazo E, dh          3  1  1  0   
+McCarty D, 1b         2  0  0  0   Hernandez R, c        3  1  1  1   
+Ortiz D, ph-1b        2  0  0  0   Long T, lf            3  1  1  2   
+Kapler G, rf          2  1  1  0   Ellis M, 2b           3  0  0  0   
+Nixon T, ph           1  0  0  0   Singleton C, cf       3  0  0  0   
+Jackson D, rf         1  0  0  0                                      
+Walker T, 2b          2  1  0  0                                      
+Varitek J, c          3  0  2  3                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  8  3                        30  5  7  5
+
+Boston           000 030 000 --  3
+Oakland          500 000 00x --  5
+
+  Boston               IP  H  R ER BB SO
+Burkett J (L)         6.0  7  5  5  0  3
+Sauerbeck S           1.0  0  0  0  0  1
+Embree A              1.0  0  0  0  0  2
+
+  Oakland              IP  H  R ER BB SO
+Zito B (W)            5.1  6  3  3  2  4
+Bradford C*           1.2  2  0  0  0  2
+Foulke K (S)          2.0  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+DP -- Boston 1, Oakland 2
+LOB -- Boston 4, Oakland 1
+2B -- Durazo E, Kapler G, Varitek J, Guillen J, Damon J
+HR -- Chavez E, Long T
+CS -- Damon J
+T -- 2:38
+A -- 26823
+     Game of 8/13/2003 -- Boston at Oakland (N)
+
+  Boston             AB  R  H RBI    Oakland            AB  R  H RBI
+Damon J, cf           3  1  1  0   Hatteberg S, 1b       3  0  0  0   
+Mueller B, 3b         5  1  3  1   Guillen J, rf-cf      4  2  2  1   
+Garciaparra N, ss     5  1  1  0   Chavez E, 3b          5  0  1  0   
+Ramirez M, lf         4  1  2  3   Tejada M, ss          3  0  3  1   
+Millar K, dh          4  1  2  3   Durazo E, dh          4  0  0  0   
+McCarty D, 1b         5  0  0  0   Hernandez R, c        4  1  1  0   
+Varitek J, c          4  0  0  0   Long T, lf-rf         4  0  2  0   
+Kapler G, rf          4  0  1  0   Ellis M, 2b           3  0  0  0   
+Jackson D, 2b         4  2  1  0   Singleton C, cf       1  0  0  1   
+                                   Byrnes E, ph-cf       1  0  0  0   
+                                   McMillon B, ph-lf     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 11  7                        33  3  9  3
+
+Boston           003 100 300 --  7
+Oakland          110 000 100 --  3
+
+  Boston               IP  H  R ER BB SO
+Lowe D (W)            5.0  5  2  2  2  3
+Williamson S          1.0  0  0  0  0  1
+Sauerbeck S           1.0  3  1  1  0  2
+Timlin M              1.0  1  0  0  0  1
+Kim B                 1.0  0  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (L)          6.1  9  6  5  3  6
+Harville C            2.1  2  1  1  2  1
+Neu M                 0.1  0  0  0  0  1
+
+E -- Hatteberg S, Kapler G
+DP -- Boston 1
+LOB -- Boston 9, Oakland 9
+2B -- Kapler G, Long T
+HR -- Ramirez M, Millar K, Guillen J
+SB -- Jackson D
+CS -- Garciaparra N
+SH -- Ellis M
+SF -- Singleton C
+HBP -- by Lowe D (Guillen J), by Kim B (Hatteberg S)
+T -- 2:55
+A -- 44868
+     Game of 8/14/2003 -- Boston at Oakland (D)
+
+  Boston             AB  R  H RBI    Oakland            AB  R  H RBI
+Damon J, cf           5  1  1  0   McMillon B, dh        3  0  0  0   
+Mueller B, 3b         4  1  1  2   Guillen J, rf         5  1  1  0   
+Garciaparra N, ss     5  0  0  0   Chavez E, 3b          4  1  2  0   
+Ramirez M, lf         4  1  3  1   Tejada M, ss          5  0  1  2   
+Ortiz D, dh           4  0  0  0   Long T, lf            4  0  0  0   
+Millar K, 1b          3  0  0  0   Hernandez R, c        5  0  1  0   
+Mirabelli D, c        2  0  0  0   Hatteberg S, 1b       5  0  2  0   
+Varitek J, ph-c       1  0  0  0   Menechino F, 2b       3  0  0  0   
+Nixon T, rf           2  0  0  0   Byrnes E, cf          4  0  0  0   
+Kapler G, ph-rf       1  1  1  0                                      
+Jackson D, 2b         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  6  3                        38  2  7  2
+
+Boston           000 001 001 2 --  4
+Oakland          000 020 000 0 --  2
+
+  Boston               IP  H  R ER BB SO
+Wakefield T           6.0  5  2  2  4  8
+Williamson S          1.0  0  0  0  1  0
+Embree A              1.0  2  0  0  0  2
+Kim B (W)             2.0  0  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Lilly T               6.0  3  1  1  2  5
+Bradford C            0.1  0  0  0  0  0
+Rincon R              1.0  0  0  0  1  1
+Foulke K              1.2  1  1  1  0  4
+Mecir J (L)           0.2  2  2  1  1  0
+Halama J              0.1  0  0  0  0  0
+
+E -- Mueller B, Ramirez M, Chavez E
+DP -- Oakland 1
+LOB -- Boston 7, Oakland 11
+2B -- Hatteberg S, Chavez E
+HR -- Mueller B, Ramirez M
+SB -- Ramirez M, Tejada M
+SH -- Jackson D
+SF -- Mueller B
+HBP -- by Bradford C (Varitek J)
+Balk -- Lilly T
+T -- 3:33
+A -- 37293
+     Game of 8/15/2003 -- Toronto at Oakland (N)
+
+  Toronto            AB  R  H RBI    Oakland            AB  R  H RBI
+Johnson R, rf-lf      5  2  2  0   Long T, lf            4  2  3  1   
+Hinske E, 3b          5  2  2  4   Guillen J, rf         3  0  0  1   
+Wells V, cf           5  1  3  0   Chavez E, 3b          4  0  2  0   
+Delgado C, 1b         3  0  0  0   Tejada M, ss          4  0  0  0   
+Myers G, dh           5  1  1  0   Durazo E, dh          4  1  2  1   
+Catalanotto F, lf     3  0  0  0   Ellis M, 2b           4  1  0  0   
+Kielty B, rf          0  0  0  0   Hatteberg S, 1b       4  0  1  1   
+Wilson T, c           3  0  0  1   Melhuse A, c          4  1  2  0   
+Hudson O, 2b          4  1  2  1   Singleton C, cf       3  0  0  0   
+Woodward C, ss        4  1  1  2   Hernandez R, ph       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  8 11  8                        35  5 10  4
+
+Toronto          004 220 000 --  8
+Oakland          011 110 100 --  5
+
+  Toronto              IP  H  R ER BB SO
+Towers J (W)          5.0  7  4  4  0  1
+Kershner J            2.0  2  1  1  0  1
+Politte C             1.0  0  0  0  0  2
+Miller T (S)          1.0  1  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Harden R (L)          4.0  8  6  6  2  6
+Halama J              4.0  3  2  2  1  2
+Harville C            1.0  0  0  0  0  1
+
+E -- Delgado C
+DP -- Toronto 1
+LOB -- Toronto 6, Oakland 4
+2B -- Wells V 2, Johnson R, Melhuse A
+3B -- Long T
+HR -- Hinske E 2, Long T, Durazo E, Woodward C
+SB -- Ellis M
+CS -- Myers G
+SF -- Guillen J
+HBP -- by Harden R (Catalanotto F)
+WP -- Harden R
+T -- 2:45
+A -- 17446
+     Game of 8/16/2003 -- Toronto at Oakland (D)
+
+  Toronto            AB  R  H RBI    Oakland            AB  R  H RBI
+Johnson R, rf         4  0  0  0   Long T, lf            4  0  0  0   
+Catalanotto F, lf     4  1  1  0   Guillen J, rf         3  2  2  2   
+Wells V, cf           4  0  1  0   Chavez E, 3b          3  0  0  0   
+Delgado C, dh         3  0  0  0   Tejada M, ss          4  0  0  0   
+Hinske E, 3b          4  0  0  0   Durazo E, dh          3  1  1  0   
+Berg D, 1b            3  2  0  0   Hernandez R, c        4  1  1  0   
+Hudson O, 2b          3  1  3  0   Hatteberg S, 1b       4  1  2  1   
+Bordick M, ss         4  0  2  3   Ellis M, 2b           4  1  1  3   
+Cash K, c             3  0  0  0   Singleton C, cf       3  0  1  0   
+Myers G, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  3                        32  6  8  6
+
+Toronto          010 000 012 --  4
+Oakland          140 000 10x --  6
+
+  Toronto              IP  H  R ER BB SO
+Hendrickson M (L)     6.0  7  5  5  2  2
+Bowles B              2.0  1  1  1  1  0
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (W)          6.1  2  1  1  3  6
+Bradford C            1.0  3  1  0  0  2
+Rincon R              0.2  0  0  0  0  1
+Mecir J*              0.0  1  2  2  1  0
+Foulke K (S)          1.0  1  0  0  0  1
+  * Pitched to 2 batters in 9th
+
+E -- Hinske E, Tejada M, Bowles B, Singleton C
+DP -- Toronto 2, Oakland 1
+LOB -- Toronto 7, Oakland 5
+2B -- Hatteberg S, Hudson O 2
+HR -- Guillen J 2, Ellis M
+SB -- Singleton C, Ellis M
+HBP -- by Hudson T (Johnson R)
+T -- 2:43
+A -- 31045
+     Game of 8/17/2003 -- Toronto at Oakland (D)
+
+  Toronto            AB  R  H RBI    Oakland            AB  R  H RBI
+Johnson R, lf         4  0  0  0   Long T, lf            5  0  2  3   
+Bordick M, ss         4  1  1  0   Guillen J, rf         5  0  0  0   
+Wells V, cf           4  0  0  0   Chavez E, 3b          5  1  2  0   
+Delgado C, dh         4  0  1  1   Tejada M, ss          4  1  2  0   
+Wilson T, c           3  1  1  0   Durazo E, 1b          2  1  1  0   
+Hinske E, 3b          4  0  0  0   Hernandez R, c        4  2  2  2   
+Kielty B, rf          2  1  1  1   Hatteberg S, dh       4  0  0  1   
+Phelps J, 1b          2  0  1  1   Ellis M, 2b           4  1  1  0   
+Catalanotto F, pr-1b  0  0  0  0   Singleton C, cf       3  1  2  1   
+Berg D, ph            0  0  0  0                                      
+Myers G, ph           0  0  0  0                                      
+Woodward C, pr        0  0  0  0                                      
+Hudson O, 2b          4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  5  3                        36  7 12  7
+
+Toronto          100 000 200 --  3
+Oakland          025 000 00x --  7
+
+  Toronto              IP  H  R ER BB SO
+Halladay R (L)        3.0 10  7  5  1  3
+Sturtze T             3.0  2  0  0  2  4
+Reichert D            1.0  0  0  0  0  1
+Politte C             1.0  0  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Zito B (W)            7.0  4  3  3  3  6
+Bradford C            1.0  0  0  0  0  1
+Rincon R              0.2  1  0  0  1  0
+Foulke K (S)          0.1  0  0  0  1  0
+
+E -- Phelps J, Johnson R
+DP -- Oakland 1
+LOB -- Toronto 6, Oakland 8
+2B -- Bordick M, Long T, Singleton C, Tejada M, Kielty B
+SB -- Singleton C
+WP -- Sturtze T
+T -- 2:39
+A -- 32488
+     Game of 8/26/2003 -- Baltimore at Oakland (N)
+
+  Baltimore          AB  R  H RBI    Oakland            AB  R  H RBI
+Roberts B, 2b         4  0  0  0   McMillon B, dh        3  0  0  0   
+Matos L, cf           3  0  0  0   Byrnes E, ph          2  0  0  0   
+Raines T, cf          0  0  0  0   Hatteberg S, ph       1  0  1  1   
+Surhoff B, dh         4  0  2  0   Guillen J, rf         5  0  2  0   
+Morban J, pr          0  0  0  0   Chavez E, 3b          4  0  1  0   
+Conine J, 1b          5  0  0  1   Tejada M, ss          4  0  1  0   
+Gibbons J, rf         6  0  0  0   Durazo E, 1b          5  0  0  0   
+Batista T, 3b         4  0  0  0   Hernandez R, c        5  0  1  0   
+Bigbie L, lf          4  0  1  0   Long T, lf            5  1  1  0   
+Cruz D, ss            5  0  1  0   Ellis M, 2b           4  1  1  1   
+Fordyce B, c          5  1  1  0   Singleton C, cf       4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     40  1  5  1                        42  2  9  2
+
+Baltimore        000 010 000 000 --  1
+Oakland          000 000 100 001 --  2
+  0 outs when winning run was scored.
+
+  Baltimore            IP  H  R ER BB SO
+Johnson J             7.0  5  1  1  1  5
+Groom B               0.2  1  0  0  0  1
+Ligtenberg K          0.1  0  0  0  0  0
+Ryan B                3.0  1  0  0  1  2
+Parrish J (L)*        0.0  1  1  1  2  0
+Carrasco H            0.0  1  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Harden R              5.0  3  1  1  6  5
+Bradford C            1.2  2  0  0  0  0
+Rincon R              0.1  0  0  0  0  0
+Harville C            2.0  0  0  0  0  4
+Foulke K              2.0  0  0  0  0  1
+Wood M (W)            1.0  0  0  0  1  1
+  * Pitched to 3 batters in 12th
+
+E -- Wood M, Raines T
+DP -- Oakland 1
+LOB -- Baltimore 13, Oakland 11
+2B -- Fordyce B, Surhoff B, Long T
+HR -- Ellis M
+SB -- Batista T
+HBP -- by Bradford C (Conine J), by Harville C (Matos L), by Wood M (Matos L)
+T -- 4:05
+A -- 14081
+     Game of 8/27/2003 -- Baltimore at Oakland (N)
+
+  Baltimore          AB  R  H RBI    Oakland            AB  R  H RBI
+Roberts B, 2b         4  0  1  1   Hatteberg S, 1b       5  0  0  0   
+Cruz D, ss            4  1  1  1   Guillen J, rf         4  1  1  0   
+Surhoff B, dh         4  0  0  0   Chavez E, 3b          4  1  1  1   
+Conine J, 1b          4  0  2  0   Tejada M, ss          3  2  2  3   
+Gibbons J, rf         3  0  0  0   Durazo E, dh          2  1  0  0   
+Batista T, 3b         4  0  0  0   Hernandez R, c        4  0  2  0   
+Fordyce B, c          2  1  1  0   Long T, lf            4  0  1  0   
+Bigbie L, lf          3  0  0  0   Byrnes E, lf          0  0  0  0   
+Raines T, cf          3  0  0  0   Ellis M, 2b           3  1  1  0   
+                                   Singleton C, cf       3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        32  6  9  5
+
+Baltimore        000 100 010 --  2
+Oakland          010 121 10x --  6
+
+  Baltimore            IP  H  R ER BB SO
+Hentgen P (L)         4.2  6  4  4  4  5
+Bauer R               1.1  2  1  1  0  0
+Carrasco H            1.0  1  1  1  1  0
+Julio J               1.0  0  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Zito B (W)            8.0  4  2  2  2  3
+Bradford C            1.0  1  0  0  0  0
+
+DP -- Baltimore 1, Oakland 1
+LOB -- Baltimore 4, Oakland 7
+2B -- Fordyce B
+HR -- Tejada M 2, Cruz D, Chavez E
+T -- 2:31
+A -- 23368
+     Game of 8/28/2003 -- Baltimore at Oakland (D)
+
+  Baltimore          AB  R  H RBI    Oakland            AB  R  H RBI
+Roberts B, 2b         4  1  2  1   Hatteberg S, 1b       3  1  1  1   
+Cruz D, ss            4  0  2  1   Guillen J, rf         4  0  1  0   
+Surhoff B, dh         3  0  0  0   Chavez E, 3b          3  1  0  0   
+Conine J, 1b          4  0  0  0   Tejada M, ss          2  2  1  0   
+Gibbons J, rf         3  0  0  0   Durazo E, dh          4  0  0  0   
+Batista T, 3b         4  0  1  0   Melhuse A, c          3  1  1  3   
+Fordyce B, c          4  1  2  0   Hernandez R, c        1  0  0  0   
+Bigbie L, lf          4  1  1  1   Long T, lf            4  1  2  1   
+Raines T, cf          4  1  1  1   Ellis M, 2b           4  0  2  1   
+                                   Singleton C, cf       3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        31  6  8  6
+
+Baltimore        001 000 201 --  4
+Oakland          402 000 00x --  6
+
+  Baltimore            IP  H  R ER BB SO
+Lopez R (L)           3.0  8  6  6  2  1
+Bauer R               2.0  0  0  0  0  0
+Parrish J             3.0  0  0  0  1  4
+
+  Oakland              IP  H  R ER BB SO
+Halama J (W)          6.2  6  2  2  2  0
+Harville C*           0.0  2  1  1  1  0
+Rincon R              1.0  0  0  0  0  0
+Mecir J               0.1  0  0  0  0  0
+Foulke K (S)          1.0  1  1  1  0  1
+  * Pitched to 3 batters in 7th
+
+E -- Batista T
+DP -- Baltimore 2, Oakland 2
+LOB -- Baltimore 6, Oakland 5
+2B -- Roberts B, Fordyce B
+3B -- Ellis M, Raines T
+HR -- Hatteberg S, Melhuse A, Roberts B, Bigbie L
+SB -- Tejada M
+HBP -- by Bauer R (Hatteberg S)
+WP -- Harville C
+PB -- Melhuse A
+T -- 2:33
+A -- 15299
+     Game of 8/29/2003 -- Tampa Bay at Oakland (N)
+
+  Tampa Bay          AB  R  H RBI    Oakland            AB  R  H RBI
+Crawford C, lf        4  1  2  0   Ellis M, 2b           4  2  2  1   
+Lugo J, ss            4  0  0  0   Hatteberg S, 1b       3  0  0  0   
+Huff A, rf            3  0  2  2   Tejada M, ss          4  1  1  0   
+Baldelli R, cf        3  0  1  0   Chavez E, 3b          4  0  2  3   
+Lee T, 1b             4  0  0  0   Guillen J, rf         4  0  1  0   
+Martin A, dh          3  0  0  0   Durazo E, dh          4  1  1  0   
+Anderson M, 2b        3  0  1  0   Hernandez R, c        3  0  0  0   
+Hall T, c             3  0  0  0   Long T, lf            1  1  0  0   
+Rolls D, 3b           3  1  1  0   Byrnes E, cf          2  0  0  0   
+                                   Singleton C, ph-cf    1  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     30  2  7  2                        30  5  7  5
+
+Tampa Bay        100 001 000 --  2
+Oakland          201 110 00x --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Kennedy J (L)         4.2  7  5  5  5  2
+Backe B               3.1  0  0  0  1  2
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (W)          8.0  6  2  2  1  7
+Foulke K (S)          1.0  1  0  0  0  0
+
+DP -- Tampa Bay 1, Oakland 1
+LOB -- Tampa Bay 3, Oakland 8
+2B -- Chavez E, Ellis M, Baldelli R
+3B -- Crawford C
+CS -- Lee T
+SF -- Huff A
+HBP -- by Kennedy J (Hatteberg S)
+T -- 2:32
+A -- 20052
+     Game of 8/30/2003 -- Tampa Bay at Oakland (N)
+
+  Tampa Bay          AB  R  H RBI    Oakland            AB  R  H RBI
+Crawford C, lf        4  0  0  0   Ellis M, 2b           4  1  1  0   
+Lugo J, ss            3  0  0  0   Hatteberg S, 1b       4  2  2  1   
+Baldelli R, cf        4  0  0  0   Tejada M, ss          4  0  0  0   
+Huff A, dh            3  0  1  0   Chavez E, 3b          4  0  2  2   
+Piatt A, rf           4  1  1  0   Guillen J, rf         4  0  0  0   
+Lee T, 1b             4  0  1  1   Durazo E, dh          3  0  0  0   
+Hall T, c             4  0  0  0   Hernandez R, c        1  1  0  0   
+Sandberg J, 3b        2  0  0  0   Long T, lf            3  0  0  0   
+Anderson M, ph-2b     1  1  1  1   Singleton C, cf       3  0  1  1   
+Perez A, 2b           1  0  0  0                                      
+Martin A, ph          0  0  0  0                                      
+Rolls D, ph-3b        1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        30  4  6  4
+
+Tampa Bay        000 000 110 --  2
+Oakland          002 000 11x --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Bell R (L)            6.2  5  3  3  1  1
+Gaudin C              0.1  0  0  0  0  1
+Carter L              1.0  1  1  1  0  0
+
+  Oakland              IP  H  R ER BB SO
+Lilly T (W)           6.2  3  1  1  1  7
+Bradford C*           0.1  1  1  1  0  1
+Rincon R              0.1  1  0  0  0  1
+Mecir J               0.2  0  0  0  1  1
+Foulke K (S)          1.0  0  0  0  1  1
+  * Pitched to 1 batter in 8th
+
+LOB -- Tampa Bay 5, Oakland 4
+2B -- Chavez E 2, Piatt A, Singleton C
+HR -- Anderson M, Hatteberg S
+CS -- Rolls D
+HBP -- by Bell R (Hernandez R)
+WP -- Gaudin C
+T -- 2:27
+A -- 45150
+     Game of 8/31/2003 -- Tampa Bay at Oakland (D)
+
+  Tampa Bay          AB  R  H RBI    Oakland            AB  R  H RBI
+Crawford C, lf        4  1  2  0   Hatteberg S, 1b       4  0  0  0   
+Baldelli R, cf        4  1  1  0   Guillen J, rf         4  0  1  1   
+Huff A, rf            4  1  2  3   Chavez E, 3b          4  0  0  0   
+Lee T, 1b             4  0  0  0   Tejada M, ss          3  1  1  1   
+Martin A, dh          3  0  0  0   Durazo E, dh          2  1  0  0   
+Piatt A, ph           1  0  0  0   Hernandez R, c        2  1  0  0   
+Lugo J, ss            3  0  0  0   Long T, lf            3  1  1  0   
+Anderson M, 2b        3  0  0  0   Menechino F, 2b       3  0  1  1   
+Valentin J, c         3  0  1  0   Singleton C, cf       2  0  0  1   
+Rolls D, 3b           3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        27  4  4  4
+
+Tampa Bay        102 000 000 --  3
+Oakland          010 030 00x --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Gonzalez J (L)        8.0  4  4  4  2  3
+
+  Oakland              IP  H  R ER BB SO
+Harden R (W)          7.0  5  3  3  1 10
+Rincon R              1.1  1  0  0  0  0
+Bradford C (S)        0.2  0  0  0  0  1
+
+DP -- Oakland 1
+LOB -- Tampa Bay 3, Oakland 2
+2B -- Guillen J
+HR -- Tejada M, Huff A
+SB -- Crawford C 2
+SF -- Singleton C
+WP -- Harden R
+T -- 2:14
+A -- 27541
+     Game of 9/8/2003 -- Anaheim at Oakland (N)
+
+  Anaheim            AB  R  H RBI    Oakland            AB  R  H RBI
+Figgins C, cf         5  0  1  0   McMillon B, lf        4  0  1  0   
+Kennedy A, 2b         5  1  1  0   Singleton C, pr-cf    1  0  0  0   
+Anderson G, lf        5  0  3  1   Ellis M, 2b           3  0  0  0   
+Spiezio S, 1b         4  0  2  0   Chavez E, 3b          3  1  2  0   
+DaVanon J, rf         3  1  1  0   Tejada M, ss          4  0  0  0   
+Wooten S, 3b          4  1  1  1   Hatteberg S, 1b       4  0  2  1   
+Quinlan R, dh         4  0  1  0   Guillen J, rf-lf      2  0  0  0   
+Delgado W, ss         3  0  0  1   Durazo E, dh          3  0  1  0   
+Molina J, c           4  0  1  0   Dye J, cf-rf          4  0  1  0   
+                                   Hernandez R, c        4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  3 11  3                        32  1  7  1
+
+Anaheim          000 000 120 --  3
+Oakland          000 010 000 --  1
+
+  Anaheim              IP  H  R ER BB SO
+Sele A                5.0  4  1  1  3  1
+Weber B               1.1  2  0  0  1  1
+Rodriguez F (W)       1.2  1  0  0  0  2
+Percival T (S)        1.0  0  0  0  0  2
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (L)          7.2  9  3  3  4  7
+Bradford C            0.1  0  0  0  0  0
+Halama J              0.2  2  0  0  1  0
+Harville C            0.1  0  0  0  0  1
+
+DP -- Oakland 1
+LOB -- Anaheim 12, Oakland 11
+2B -- Chavez E, Hatteberg S 2, Anderson G, McMillon B, Kennedy A, DaVanon J
+HR -- Wooten S
+SB -- Spiezio S
+CS -- Durazo E
+SH -- Ellis M
+HBP -- by Sele A (Guillen J), by Sele A (Ellis M)
+PB -- Hernandez R
+T -- 2:58
+A -- 20760
+     Game of 9/9/2003 -- Anaheim at Oakland (N)
+
+  Anaheim            AB  R  H RBI    Oakland            AB  R  H RBI
+Figgins C, cf         3  0  1  0   Ellis M, 2b           4  1  1  0   
+DaVanon J, rf         3  0  0  0   Durazo E, dh          2  1  1  0   
+Anderson G, lf        3  0  0  0   Chavez E, 3b          4  0  1  3   
+Riggs A, lf-2b        1  0  0  0   Menechino F, 3b       0  0  0  0   
+Salmon T, dh          4  0  1  0   Tejada M, ss          3  1  1  3   
+Spiezio S, 1b         3  0  0  0   Crosby B, ss          0  0  0  0   
+Quinlan R, 1b         1  1  1  0   Hatteberg S, 1b       3  0  0  0   
+Wooten S, 3b          3  0  0  0   Guillen J, lf         4  0  0  0   
+Durrington T, 3b      1  0  0  0   Hernandez R, c        3  1  1  1   
+Kennedy A, 2b         3  0  2  0   Melhuse A, ph-c       1  0  0  0   
+Wesson B, lf          1  0  0  1   Dye J, rf             4  2  2  1   
+Delgado W, ss         4  0  1  0   Byrnes E, cf          3  2  1  0   
+Gregorio T, c         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        31  8  8  8
+
+Anaheim          000 000 001 --  1
+Oakland          004 400 00x --  8
+
+  Anaheim              IP  H  R ER BB SO
+Bootcheck C (L)       3.1  7  8  8  3  3
+Jones G               1.2  1  0  0  2  1
+Turnbow D             2.0  0  0  0  0  3
+Glover G              1.0  0  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Duchscherer J (W)     7.0  4  0  0  2  6
+Sparks S              1.0  1  0  0  0  0
+Foulke K              1.0  1  1  1  0  1
+
+DP -- Anaheim 1
+LOB -- Anaheim 7, Oakland 4
+2B -- Durazo E, Chavez E
+3B -- Quinlan R
+HR -- Tejada M, Hernandez R, Dye J
+SB -- Kennedy A
+T -- 2:31
+A -- 17253
+     Game of 9/10/2003 -- Anaheim at Oakland (N)
+
+  Anaheim            AB  R  H RBI    Oakland            AB  R  H RBI
+Figgins C, cf         4  0  0  0   Ellis M, 2b           4  0  0  0   
+Owens E, rf           4  0  3  0   Durazo E, dh          4  1  3  0   
+Gregorio T, c         0  0  0  0   Chavez E, 3b          4  1  1  1   
+Anderson G, lf        4  0  0  0   Tejada M, ss          4  1  2  1   
+Salmon T, dh          4  0  0  0   Hatteberg S, 1b       4  0  0  0   
+Spiezio S, 1b         4  0  1  0   Guillen J, lf         4  0  1  1   
+Wooten S, 3b          4  0  1  0   Hernandez R, c        3  0  0  0   
+Eckstein D, ss        2  0  0  0   Dye J, rf             2  0  1  0   
+Kennedy A, 2b         2  0  1  0   Byrnes E, cf          3  0  0  0   
+Molina J, c           2  0  0  0                                      
+Delgado W, ph         1  0  1  0                                      
+Wesson B, rf          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  7  0                        32  3  8  3
+
+Anaheim          000 000 000 --  0
+Oakland          000 300 00x --  3
+
+  Anaheim              IP  H  R ER BB SO
+Washburn J (L)        7.0  7  3  3  0  7
+Turnbow D             1.0  1  0  0  0  0
+
+  Oakland              IP  H  R ER BB SO
+Lilly T (W)           5.1  4  0  0  1  5
+Bradford C            1.1  0  0  0  1  0
+Halama J              0.1  0  0  0  0  0
+Mecir J               1.0  2  0  0  0  0
+Foulke K (S)          1.0  1  0  0  0  0
+
+E -- Hernandez R, Eckstein D
+DP -- Anaheim 1, Oakland 3
+LOB -- Anaheim 6, Oakland 6
+2B -- Tejada M, Guillen J, Durazo E
+3B -- Chavez E
+SB -- Kennedy A 2, Owens E
+HBP -- by Washburn J (Dye J)
+T -- 2:30
+A -- 31359
+     Game of 9/11/2003 -- Anaheim at Oakland (D)
+
+  Anaheim            AB  R  H RBI    Oakland            AB  R  H RBI
+Figgins C, cf         5  1  2  0   Ellis M, 2b           3  2  1  1   
+Owens E, rf           3  1  2  0   Menechino F, ph-2b    0  1  0  0   
+Quinlan R, 1b         1  0  0  0   Durazo E, dh          4  1  1  0   
+Anderson G, dh        4  0  2  0   McMillon B, ph        1  1  1  3   
+Spiezio S, 1b         4  2  1  2   Chavez E, 3b          4  3  2  3   
+Wesson B, rf          0  0  0  0   Tejada M, ss          4  0  1  1   
+Kennedy A, 2b         4  0  1  0   Crosby B, ph-ss       1  0  0  0   
+Gregorio T, c         0  0  0  0   Hatteberg S, 1b       1  1  0  0   
+Riggs A, lf           3  0  0  0   Guillen J, lf         4  1  2  1   
+Delgado W, 3b         3  0  1  0   Hernandez R, c        4  1  2  2   
+Molina J, c           2  0  0  1   Melhuse A, c          0  0  0  0   
+Durrington T, ph-2b   1  0  0  0   Dye J, rf             3  2  0  0   
+Amezaga A, ss         4  0  0  0   Byrnes E, cf          4  1  1  3   
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  3                        33 14 11 14
+
+Anaheim          200 001 100 --  4
+Oakland          121 320 23x -- 14
+
+  Anaheim              IP  H  R ER BB SO
+Shields S (L)         4.0  5  7  4  2  2
+Glover G              2.1  4  4  4  1  0
+Jones G               1.2  2  3  3  3  1
+
+  Oakland              IP  H  R ER BB SO
+Harden R (W)          5.1  7  3  3  3  3
+Sparks S              2.2  2  1  1  0  1
+Neu M                 1.0  0  0  0  0  1
+
+E -- Hatteberg S, Delgado W
+DP -- Anaheim 3
+LOB -- Anaheim 7, Oakland 2
+2B -- Figgins C
+HR -- Chavez E 2, Hernandez R, Ellis M, Byrnes E, McMillon B
+SB -- Figgins C
+CS -- Kennedy A
+SF -- Molina J
+HBP -- by Glover G (Ellis M)
+T -- 2:33
+A -- 26755
+     Game of 9/19/2003 -- Seattle at Oakland (N)
+
+  Seattle            AB  R  H RBI    Oakland            AB  R  H RBI
+Suzuki I, rf          5  1  2  0   Ellis M, 2b           4  0  0  0   
+Guillen C, 3b         3  0  1  0   Durazo E, dh          3  1  1  1   
+Boone B, 2b           4  1  1  1   Chavez E, 3b          4  0  0  0   
+Martinez E, dh        4  2  4  1   Tejada M, ss          3  0  1  0   
+Ugueto L, pr          0  0  0  0   Hatteberg S, 1b       2  0  0  0   
+Olerud J, 1b          3  1  1  2   Hernandez R, c        4  0  1  0   
+Winn R, lf            5  0  2  1   Dye J, rf             3  0  0  0   
+Cameron M, cf         3  0  1  1   McMillon B, lf        3  0  0  0   
+McLemore M, ss        3  0  1  0   Byrnes E, cf          3  0  1  0   
+Sanchez R, ss         2  0  0  0                                      
+Wilson D, c           4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  6 14  6                        29  1  4  1
+
+Seattle          000 040 101 --  6
+Oakland          100 000 000 --  1
+
+  Seattle              IP  H  R ER BB SO
+Franklin R (W)        8.0  4  1  1  4  7
+Soriano R             1.0  0  0  0  0  1
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (L)          6.0  8  4  4  3  7
+Harville C            1.0  2  1  1  2  2
+Sparks S              2.0  4  1  1  1  1
+
+DP -- Seattle 1, Oakland 3
+LOB -- Seattle 11, Oakland 5
+2B -- Guillen C, Martinez E 2, Byrnes E, Tejada M
+HR -- Durazo E, Olerud J
+SB -- Suzuki I
+CS -- Hatteberg S, Guillen C
+SH -- Guillen C
+SF -- Boone B
+T -- 2:49
+A -- 41035
+     Game of 9/20/2003 -- Seattle at Oakland (D)
+
+  Seattle            AB  R  H RBI    Oakland            AB  R  H RBI
+Suzuki I, rf          6  1  4  5   McMillon B, lf        2  1  1  0   
+Guillen C, 3b         6  1  2  0   Edwards M, ph-lf      1  0  0  0   
+Boone B, 2b           5  0  3  2   Durazo E, dh          2  1  0  0   
+Martinez E, dh        4  0  1  1   Tejada M, ss          4  0  2  1   
+Olerud J, 1b          4  0  1  0   Chavez E, 3b          4  0  1  1   
+Winn R, lf            4  2  1  0   Hatteberg S, 1b       3  0  0  0   
+Cameron M, cf         4  3  2  0   Grabowski J, ph       1  0  0  0   
+Sanchez R, ss         3  1  2  0   Hernandez R, c        3  0  0  0   
+Davis B, c            5  1  1  0   Melhuse A, c          0  1  0  0   
+                                   Dye J, rf             3  0  0  0   
+                                   Koonce G, ph          1  0  0  0   
+                                   Ellis M, 2b           4  0  1  1   
+                                   Byrnes E, cf          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     41  9 17  8                        32  3  6  3
+
+Seattle          001 202 022 --  9
+Oakland          200 000 001 --  3
+
+  Seattle              IP  H  R ER BB SO
+Pineiro J (W)         7.0  4  2  2  3  5
+Rhodes A              1.0  1  0  0  0  1
+Benitez A             1.0  1  1  1  1  2
+
+  Oakland              IP  H  R ER BB SO
+Duchscherer J (L)     4.0  6  3  3  1  5
+Wood M                3.2  7  4  4  2  3
+Fikac J               0.1  1  0  0  0  0
+Neu M                 1.0  3  2  2  1  1
+
+DP -- Seattle 1, Oakland 1
+LOB -- Seattle 12, Oakland 6
+2B -- Boone B, Suzuki I 3, McMillon B, Cameron M, Ellis M
+SB -- Boone B, Byrnes E
+SH -- Sanchez R 2
+HBP -- by Duchscherer J (Martinez E)
+WP -- Wood M
+T -- 3:00
+A -- 40226
+     Game of 9/21/2003 -- Seattle at Oakland (D)
+
+  Seattle            AB  R  H RBI    Oakland            AB  R  H RBI
+Suzuki I, rf          3  0  1  0   McMillon B, lf        4  0  3  2   
+Strong J, cf          1  0  0  0   Long T, lf            0  0  0  0   
+Guillen C, 3b         1  0  0  0   Durazo E, dh          3  0  0  1   
+Ugueto L, 2b          1  0  1  0   Guillen J, ph         1  0  0  0   
+Boone B, 2b           3  0  0  0   Tejada M, ss          5  0  0  0   
+Bloomquist W, 3b      1  0  0  0   German E, 2b          0  0  0  0   
+Martinez E, dh        1  0  0  0   Chavez E, 3b          3  3  2  0   
+Davis B, ph           1  0  0  0   Menechino F, 3b       1  0  0  0   
+Olerud J, 1b          3  0  1  0   Hatteberg S, 1b       4  2  2  0   
+Cirillo J, 1b         0  0  0  0   Koonce G, 1b          1  0  0  0   
+Winn R, lf            3  0  1  0   Hernandez R, c        2  2  2  0   
+Meyers C, lf          1  0  0  0   Melhuse A, ph-c       2  0  2  2   
+Cameron M, cf         3  0  0  0   Dye J, rf             1  2  1  1   
+Mabry J, rf           1  0  0  0   Singleton C, rf       1  0  0  0   
+Sanchez R, ss         4  0  0  0   Ellis M, 2b           4  1  2  5   
+Wilson D, c           2  0  0  0   Crosby B, ss          0  0  0  0   
+Borders P, ph-c       1  0  0  0   Byrnes E, cf          3  2  1  1   
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        35 12 15 12
+
+Seattle          000 000 000 --  0
+Oakland          050 142 00x -- 12
+
+  Seattle              IP  H  R ER BB SO
+Meche G (L)*          1.0  4  5  5  1  0
+Mateo J               3.1  6  4  4  1  0
+Sasaki K              0.2  2  1  1  0  0
+Putz J                1.0  2  2  2  2  1
+Looper A              1.0  0  0  0  1  0
+Sweeney B             1.0  1  0  0  0  2
+
+  Oakland              IP  H  R ER BB SO
+Lilly T (W)           6.0  3  0  0  3  7
+Bradford C            1.0  0  0  0  0  2
+Rincon R              1.0  1  0  0  0  1
+Foulke K              1.0  0  0  0  0  0
+  * Pitched to 6 batters in 2nd
+
+E -- Tejada M
+DP -- Seattle 2
+LOB -- Seattle 8, Oakland 7
+2B -- Winn R, McMillon B 2, Hernandez R, Byrnes E, Hatteberg S
+HR -- Ellis M
+SB -- Winn R
+SH -- Guillen C
+SF -- Durazo E
+HBP -- by Meche G (Hernandez R), by Mateo J (Dye J), by Foulke K (Cirillo J)
+T -- 2:59
+A -- 40643
+     Game of 9/22/2003 -- Texas at Oakland (N)
+
+  Texas              AB  R  H RBI    Oakland            AB  R  H RBI
+Young M, 2b-ss        4  0  1  1   Ellis M, 2b           3  1  1  1   
+Blalock H, 3b         4  0  1  0   Durazo E, dh          3  1  1  0   
+Rodriguez A, ss       3  0  0  0   Chavez E, 3b          4  2  2  2   
+Thames M, lf          0  0  0  0   Tejada M, ss          4  0  2  3   
+Palmeiro R, dh        3  1  1  1   Hatteberg S, 1b       4  0  0  0   
+Teixeira M, 1b        4  1  2  0   Hernandez R, c        4  0  1  0   
+Spencer S, lf-rf      3  0  1  0   Guillen J, lf         4  0  1  0   
+Nix L, rf             2  0  0  0   Dye J, rf             4  1  1  1   
+Clark J, ph-lf-2b     0  0  0  1   Byrnes E, cf          3  2  2  0   
+Laird G, c            4  1  0  0                                      
+Christenson R, cf     4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  6  3                        33  7 11  7
+
+Texas            000 010 002 --  3
+Oakland          301 201 00x --  7
+
+  Texas                IP  H  R ER BB SO
+Mounce T (L)*         3.0  7  5  5  2  1
+Callaway M            4.0  4  2  1  0  4
+Garcia R              1.0  0  0  0  1  1
+
+  Oakland              IP  H  R ER BB SO
+Zito B (W)            6.0  3  1  0  3  4
+Bradford C            2.0  0  0  0  1  1
+Mecir J               1.0  3  2  2  0  0
+  * Pitched to 1 batter in 4th
+
+E -- Tejada M
+DP -- Texas 1, Oakland 2
+LOB -- Texas 6, Oakland 6
+2B -- Chavez E, Tejada M, Byrnes E, Spencer S
+HR -- Chavez E, Dye J, Palmeiro R
+SF -- Ellis M, Clark J
+WP -- Zito B
+PB -- Laird G
+T -- 2:38
+A -- 15110
+     Game of 9/23/2003 -- Texas at Oakland (N)
+
+  Texas              AB  R  H RBI    Oakland            AB  R  H RBI
+Young M, 2b           5  0  2  1   Ellis M, 2b           5  0  0  0   
+Blalock H, 3b         5  0  0  0   Durazo E, dh          5  2  4  0   
+Rodriguez A, ss       4  0  0  0   Chavez E, 3b          4  0  1  1   
+Palmeiro R, dh        4  0  1  0   Tejada M, ss          4  1  1  0   
+Thames M, pr          0  0  0  0   Hatteberg S, 1b       4  0  1  0   
+Teixeira M, 1b        5  0  1  0   Hernandez R, c        4  0  2  1   
+Spencer S, rf         3  1  0  0   Singleton C, pr       0  1  0  0   
+Greene T, c           4  1  1  1   Melhuse A, c          1  0  1  1   
+Christenson R, cf     3  1  2  0   McMillon B, lf        4  0  1  0   
+Clark J, lf           3  0  2  1   Dye J, rf             4  0  1  1   
+                                   Byrnes E, cf          4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3  9  3                        39  4 12  4
+
+Texas            000 010 101 0 --  3
+Oakland          100 100 001 1 --  4
+  2 outs when winning run was scored.
+
+  Texas                IP  H  R ER BB SO
+Drese R               7.1  7  2  1  0  2
+Shouse B              0.2  1  0  0  1  0
+Cordero F (L)         1.2  4  2  2  2  2
+
+  Oakland              IP  H  R ER BB SO
+Harden R              6.2  6  2  2  3  4
+Rincon R              1.0  0  0  0  1  0
+Bradford C            0.1  0  0  0  0  1
+Foulke K (W)          2.0  3  1  1  0  1
+
+E -- Rodriguez A, Hernandez R
+DP -- Texas 2, Oakland 1
+LOB -- Texas 8, Oakland 9
+2B -- Chavez E, Christenson R, Clark J, Dye J
+HR -- Greene T
+SB -- Clark J, Durazo E
+CS -- Thames M
+SH -- Clark J
+T -- 2:51
+A -- 23211
+     Game of 9/24/2003 -- Texas at Oakland (D)
+
+  Texas              AB  R  H RBI    Oakland            AB  R  H RBI
+Young M, ss           4  1  1  0   Singleton C, cf       5  2  2  0   
+Blalock H, 3b         4  1  1  1   Guillen J, rf         3  1  2  3   
+Teixeira M, 1b        4  1  2  1   Chavez E, 3b          2  0  0  0   
+Palmeiro R, dh        4  0  0  1   German E, ph-2b       2  0  1  1   
+Spencer S, rf         3  0  0  0   Tejada M, ss          2  0  0  0   
+Jones J, lf           4  0  2  0   Crosby B, ss          1  0  0  0   
+Diaz E, c             4  0  1  0   Long T, lf            3  0  0  0   
+Christenson R, cf     3  0  0  0   Melhuse A, c          2  1  1  1   
+Clark J, 2b           3  0  0  0   Koonce G, 1b          4  0  0  0   
+                                   Menechino F, 2b-3b    2  1  0  0   
+                                   Grabowski J, dh       1  0  0  0   
+                                   Edwards M, ph         2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        29  5  7  5
+
+Texas            000 101 010 --  3
+Oakland          200 000 21x --  5
+
+  Texas                IP  H  R ER BB SO
+Benoit J              4.0  2  2  2  5  5
+Ramirez E             2.0  1  0  0  0  2
+Mahay R (L)           0.1  1  2  2  1  0
+Garcia R              0.1  1  0  0  0  0
+Fultz A               1.1  2  1  1  0  2
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (W)          7.0  5  2  1  1  5
+Halama J              1.0  1  1  1  0  1
+Harville C (S)        1.0  1  0  0  0  0
+
+E -- Crosby B
+DP -- Texas 1, Oakland 2
+LOB -- Texas 4, Oakland 8
+HR -- Guillen J, Blalock H, Teixeira M, Melhuse A
+SH -- Guillen J
+HBP -- by Garcia R (Crosby B)
+WP -- Hudson T
+T -- 2:44
+A -- 27373
+

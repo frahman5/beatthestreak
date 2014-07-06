@@ -1,0 +1,3384 @@
+     Game of 4/11/2000 -- Seattle at Detroit (D)
+
+  Seattle            AB  R  H RBI    Detroit            AB  R  H RBI
+McLemore M, lf-2b     5  0  0  0   Polonia L, dh         4  2  1  0   
+Cameron M, cf         4  0  0  0   Jefferies G, 2b       4  1  2  2   
+Rodriguez A, ss       4  0  2  0   Halter S, 2b          1  0  0  0   
+Olerud J, 1b          5  1  3  0   Higginson B, lf       4  0  1  2   
+Martinez E, dh        5  0  0  0   Clark T, 1b           4  0  1  0   
+Buhner J, rf          5  0  3  0   Ausmus B, c           3  0  0  0   
+Bell D, 2b            3  0  0  0   Palmer D, 3b          2  0  0  0   
+Mabry J, ph-lf        1  0  0  0   Garcia K, rf          4  0  0  0   
+Wilson D, c           4  1  3  0   Encarnacion J, cf     3  2  2  0   
+Guillen C, 3b         3  0  1  1   Cruz D, ss            1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  2 12  1                        30  5  8  4
+
+Seattle          000 110 000 --  2
+Detroit          220 001 00x --  5
+
+  Seattle              IP  H  R ER BB SO
+Garcia F (L)          6.0  6  5  5  5  4
+Paniagua J            2.0  2  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Moehler B (W)         6.0 10  2  1  1  3
+Patterson D           0.2  1  0  0  1  0
+Brocail D             1.1  0  0  0  0  1
+Jones T (S)           1.0  1  0  0  1  2
+
+E -- Cruz D, Palmer D, Wilson D, Encarnacion J, Cameron M
+DP -- Detroit 1
+LOB -- Seattle 13, Detroit 9
+2B -- Olerud J, Wilson D, Guillen C, Cruz D, Encarnacion J
+3B -- Polonia L, Higginson B
+SH -- Cruz D 3
+Balk -- Garcia F
+T -- 3:12
+A -- 39168
+     Game of 4/12/2000 -- Seattle at Detroit (N)
+
+  Seattle            AB  R  H RBI    Detroit            AB  R  H RBI
+McLemore M, lf-2b     5  1  2  0   Polonia L, dh         3  0  0  0   
+Bell D, 2b-3b         5  0  0  0   Jefferies G, 2b       4  0  0  0   
+Rodriguez A, ss       4  2  2  0   Higginson B, lf       4  0  1  0   
+Olerud J, 1b          3  1  2  1   Clark T, 1b           3  0  0  0   
+Martinez E, dh        4  0  1  1   Ausmus B, c           3  0  0  0   
+Buhner J, rf          4  0  0  0   Palmer D, 3b          3  0  0  0   
+Gipson C, rf          0  0  0  0   Encarnacion J, cf     3  0  0  0   
+Guillen C, 3b         2  0  0  0   Garcia K, rf          3  0  2  0   
+Ibanez R, lf          2  0  1  2   Cruz D, ss            3  0  0  0   
+Wilson D, c           3  0  1  0                                      
+Cameron M, cf         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        29  0  3  0
+
+Seattle          200 002 000 --  4
+Detroit          000 000 000 --  0
+
+  Seattle              IP  H  R ER BB SO
+Sele A (W)            9.0  3  0  0  1  1
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (L)          6.0  7  4  4  1  4
+Anderson M            1.2  2  0  0  0  2
+Poole J               0.1  0  0  0  0  0
+Johnson M             1.0  0  0  0  1  1
+
+E -- Cruz D, Rodriguez A, Wilson D
+DP -- Seattle 2, Detroit 1
+LOB -- Seattle 7, Detroit 3
+2B -- Olerud J, Wilson D
+SB -- McLemore M
+SH -- Cameron M
+WP -- Mlicki D
+T -- 2:24
+A -- 21405
+     Game of 4/13/2000 -- Seattle at Detroit (N)
+
+  Seattle            AB  R  H RBI    Detroit            AB  R  H RBI
+McLemore M, 2b        3  0  2  0   Polonia L, rf         3  0  1  0   
+Bell D, 3b            5  0  2  0   Magee W, ph-rf        1  0  0  0   
+Rodriguez A, ss       2  0  0  0   Ausmus B, c           4  0  1  0   
+Olerud J, 1b          4  0  1  0   Jefferies G, 2b       3  0  1  0   
+Martinez E, dh        4  0  1  0   Halter S, 2b          0  1  0  0   
+Buhner J, rf          2  0  0  0   Gonzalez J, dh        4  0  2  1   
+Gipson C, pr-rf       0  0  0  0   Garcia K, pr          0  1  0  0   
+Javier S, ph-rf       1  0  0  0   Higginson B, lf       4  0  1  0   
+Ibanez R, lf          4  0  0  0   Palmer D, 3b          2  0  1  1   
+Oliver J, c           2  0  1  0   Clark T, 1b           4  0  0  0   
+Mabry J, ph           1  0  1  0   Encarnacion J, cf     3  0  2  0   
+Wilson D, c           1  0  0  0   Cruz D, ss            3  0  0  0   
+Cameron M, cf         4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  0  9  0                        31  2  9  2
+
+Seattle          000 000 000 --  0
+Detroit          000 000 02x --  2
+
+  Seattle              IP  H  R ER BB SO
+Meche G               6.1  6  0  0  2  6
+Rhodes A (L)*         0.2  0  1  1  1  1
+Mesa J                1.0  3  1  1  0  0
+
+  Detroit              IP  H  R ER BB SO
+Nomo H+               6.0  4  0  0  4  4
+Poole J               0.1  0  0  0  0  1
+Patterson D           0.2  1  0  0  1  0
+Brocail D (W)         1.0  2  0  0  0  1
+Jones T (S)           1.0  2  0  0  0  0
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 7th
+
+E -- Ibanez R, Javier S
+DP -- Detroit 2
+LOB -- Seattle 11, Detroit 10
+2B -- Jefferies G, Bell D, Gonzalez J
+CS -- McLemore M, Rodriguez A
+SH -- Cruz D
+SF -- Palmer D
+WP -- Meche G, Nomo H 2
+T -- 2:58
+A -- 20781
+     Game of 4/14/2000 -- Tampa Bay at Detroit (N)
+
+  Tampa Bay          AB  R  H RBI    Detroit            AB  R  H RBI
+Williams G, cf        4  1  1  3   Polonia L, rf         4  1  0  0   
+Cairo M, 2b           5  0  0  0   Ausmus B, c           4  2  3  1   
+Canseco J, dh         5  1  2  0   Jefferies G, 2b       4  1  1  0   
+McGriff F, 1b         5  0  2  1   Halter S, pr-2b       0  1  0  0   
+Vaughn G, lf          5  0  3  0   Gonzalez J, dh        3  2  3  3   
+Castilla V, 3b        4  0  1  1   Higginson B, lf       2  0  0  1   
+Trammell B, rf        4  0  2  0   Magee W, lf           0  0  0  0   
+Flaherty J, c         4  1  1  0   Palmer D, 3b          3  1  2  2   
+Stocker K, ss         4  2  2  0   Clark T, 1b           4  1  1  2   
+                                   Encarnacion J, cf     4  1  1  0   
+                                   Cruz D, ss            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  5 14  5                        31 10 11  9
+
+Tampa Bay        000 100 301 --  5
+Detroit          004 220 20x -- 10
+
+  Tampa Bay            IP  H  R ER BB SO
+Rupe R (L)            4.1  8  8  8  2  5
+Sparks J              1.2  0  0  0  0  2
+Lidle C               0.1  2  2  2  0  0
+Morris J*             0.0  0  0  0  1  0
+Eiland D              1.2  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Nitkowski C (W)       7.0  9  4  4  1  2
+Patterson D           1.0  1  0  0  0  0
+Blair W               1.0  4  1  1  0  0
+  * Pitched to 1 batter in 7th
+
+DP -- Tampa Bay 2
+LOB -- Tampa Bay 10, Detroit 3
+2B -- Gonzalez J 2, Encarnacion J, Palmer D
+HR -- Gonzalez J, Clark T, Williams G
+CS -- Palmer D
+SH -- Cruz D
+SF -- Castilla V, Higginson B
+HBP -- by Sparks J (Palmer D)
+WP -- Rupe R
+T -- 2:47
+A -- 25043
+     Game of 4/15/2000 -- Tampa Bay at Detroit (N)
+
+  Tampa Bay          AB  R  H RBI    Detroit            AB  R  H RBI
+Williams G, cf        4  0  0  0   Jefferies G, 2b       4  0  2  0   
+Martinez D, rf        3  2  3  1   Fick R, c             4  0  0  0   
+Canseco J, dh         4  0  1  0   Encarnacion J, cf     3  0  0  0   
+McGriff F, 1b         2  1  0  1   Gonzalez J, dh        4  0  1  0   
+Vaughn G, lf          4  1  1  2   Higginson B, lf       3  0  0  0   
+Castilla V, 3b        4  0  1  1   Palmer D, 3b          4  0  2  0   
+Flaherty J, c         4  0  1  0   Clark T, 1b           3  0  0  0   
+Stocker K, ss         4  1  1  0   Garcia K, rf          3  0  1  0   
+Cairo M, 2b           4  2  3  1   Cruz D, ss            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  7 11  6                        31  0  6  0
+
+Tampa Bay        101 000 050 --  7
+Detroit          000 000 000 --  0
+
+  Tampa Bay            IP  H  R ER BB SO
+Gooden D (W)          6.0  4  0  0  2  3
+Mecir J               2.0  2  0  0  0  1
+Sparks J              1.0  0  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (L)*         7.0  8  4  3  0  6
+Anderson M            1.0  3  3  3  1  1
+Johnson M             1.0  0  0  0  0  0
+  * Pitched to 2 batters in 8th
+
+E -- Fick R, Castilla V, Higginson B
+DP -- Tampa Bay 3, Detroit 1
+LOB -- Tampa Bay 2, Detroit 6
+2B -- Gonzalez J, Vaughn G
+3B -- Stocker K
+SB -- Cairo M
+CS -- Martinez D, Castilla V
+SF -- McGriff F, Martinez D
+T -- 2:38
+A -- 25969
+     Game of 4/16/2000 -- Tampa Bay at Detroit (D)
+
+  Tampa Bay          AB  R  H RBI    Detroit            AB  R  H RBI
+Williams G, cf        5  1  3  3   Jefferies G, 2b       4  0  1  0   
+Martinez D, rf        5  1  2  1   Halter S, 2b          0  0  0  0   
+Canseco J, dh         5  0  1  0   Ausmus B, c           5  0  0  0   
+McGriff F, 1b         5  0  1  0   Fick R, 1b            4  1  1  0   
+Graffanino T, pr      0  1  0  0   Gonzalez J, dh        3  2  1  0   
+Cox S, 1b             0  0  0  0   Higginson B, lf       1  1  0  0   
+Vaughn G, lf          4  1  3  0   Palmer D, 3b          4  2  2  3   
+Castilla V, 3b        5  0  2  2   Encarnacion J, cf     4  0  2  2   
+DiFelice M, c         5  1  2  1   Garcia K, rf          2  0  0  0   
+Stocker K, ss         4  2  1  0   Magee W, ph-rf        2  0  0  0   
+Cairo M, 2b           4  0  1  0   Cruz D, ss            3  0  1  1   
+                                   Polonia L, pr         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42  7 16  7                        32  6  8  6
+
+Tampa Bay        001 000 303 --  7
+Detroit          033 000 000 --  6
+
+  Tampa Bay            IP  H  R ER BB SO
+Yan E*                5.0  7  6  6  4  3
+Morris J              1.0  0  0  0  0  0
+Lopez A               1.2  0  0  0  1  1
+Hernandez R (W)       1.1  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Moehler B             6.1 10  4  4  1  2
+Brocail D             1.2  1  0  0  1  1
+Jones T (L)           1.0  5  3  3  0  0
+  * Pitched to 1 batter in 6th
+
+E -- Palmer D
+DP -- Tampa Bay 1, Detroit 2
+LOB -- Tampa Bay 10, Detroit 6
+2B -- Gonzalez J, Fick R, Jefferies G, Vaughn G, Encarnacion J
+HR -- Palmer D, Williams G
+SB -- Higginson B
+SH -- Halter S
+SF -- Cruz D
+Balk -- Yan E
+T -- 3:01
+A -- 24686
+     Game of 4/18/2000 -- Boston at Detroit (N)
+
+  Boston             AB  R  H RBI    Detroit            AB  R  H RBI
+Offerman J, 2b        5  0  1  1   Jefferies G, 2b       3  0  1  0   
+Nixon T, rf           5  1  2  1   Ausmus B, c           3  0  0  0   
+Daubach B, dh         4  0  0  1   Higginson B, lf       4  0  1  0   
+Garciaparra N, ss     4  1  2  0   Gonzalez J, dh        4  0  0  0   
+O'Leary T, lf         5  1  1  0   Palmer D, 3b          4  0  0  0   
+Everett C, cf         3  1  1  0   Encarnacion J, cf     4  0  2  0   
+Stanley M, 1b         2  1  1  1   Clark T, 1b           3  0  0  0   
+Hatteberg S, c        2  1  1  2   Magee W, rf           3  0  1  0   
+Veras W, 3b           4  1  1  1   Cruz D, ss            2  0  1  0   
+                                   Fick R, ph            1  0  0  0   
+                                   Halter S, ss          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  7 10  7                        31  0  6  0
+
+Boston           100 200 004 --  7
+Detroit          000 000 000 --  0
+
+  Boston               IP  H  R ER BB SO
+Schourek P (W)        7.0  6  0  0  1  4
+Lowe D (S)            2.0  0  0  0  1  2
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (L)*         8.0  5  4  4  3  6
+Patterson D+          0.0  3  3  3  0  0
+Poole J               0.2  1  0  0  0  0
+Blair W               0.1  1  0  0  0  0
+  * Pitched to 1 batter in 9th
+  + Pitched to 3 batters in 9th
+
+DP -- Boston 1
+LOB -- Boston 7, Detroit 6
+2B -- Nixon T, O'Leary T, Higginson B
+HR -- Nixon T
+CS -- Jefferies G
+SF -- Stanley M, Hatteberg S, Daubach B
+HBP -- by Mlicki D (Everett C)
+WP -- Mlicki D
+T -- 2:34
+A -- 21632
+     Game of 4/19/2000 -- Boston at Detroit (N)
+
+  Boston             AB  R  H RBI    Detroit            AB  R  H RBI
+Offerman J, 2b        4  2  1  1   Jefferies G, 2b       4  0  1  0   
+Frye J, 2b            1  0  0  0   Ausmus B, c           3  0  0  0   
+Nixon T, rf           5  1  4  5   Fick R, c             1  0  0  0   
+Daubach B, 1b         3  0  1  0   Encarnacion J, cf     3  0  1  0   
+Garciaparra N, ss     5  2  1  1   Garcia K, rf          1  0  0  0   
+Sheets A, ss          1  0  0  0   Gonzalez J, dh        3  0  1  0   
+O'Leary T, lf         6  1  1  2   Higginson B, lf       3  0  1  0   
+Everett C, cf         5  0  1  0   Palmer D, 3b          3  0  0  0   
+Stanley M, dh         5  1  4  1   Halter S, 3b          1  0  0  0   
+Varitek J, c          2  1  0  0   Magee W, rf-cf        4  0  0  0   
+Alexander M, 3b       5  2  2  0   Clark T, 1b           3  0  1  0   
+                                   Cruz D, ss            4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     42 10 15 10                        33  0  6  0
+
+Boston           001 026 100 -- 10
+Detroit          000 000 000 --  0
+
+  Boston               IP  H  R ER BB SO
+Rose B (W)            6.0  3  0  0  3  4
+Garces R              1.0  1  0  0  0  0
+Stanifer R            1.0  2  0  0  0  0
+Wasdin J              1.0  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Nomo H (L)*           5.0  5  4  4  5  4
+Anderson M+           0.0  1  3  3  2  0
+Poole J               0.2  3  2  2  0  0
+Blair W               0.1  1  0  0  0  0
+Johnson M             3.0  5  1  1  1  1
+  * Pitched to 1 batter in 6th
+  + Pitched to 3 batters in 6th
+
+LOB -- Boston 13, Detroit 9
+2B -- Alexander M, Stanley M, Higginson B
+HR -- Offerman J, O'Leary T, Stanley M, Nixon T, Garciaparra N
+SB -- Nixon T
+WP -- Nomo H
+T -- 3:00
+A -- 20526
+     Game of 4/28/2000 -- Chicago at Detroit (N)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Durham R, 2b          4  0  1  1   Polonia L, dh         3  1  3  1   
+Valentin J, ss        4  1  2  2   Magee W, ph           1  0  0  0   
+Thomas F, 1b          4  0  1  0   Jefferies G, 3b       4  0  0  0   
+Wilson C, 3b          0  0  0  0   Encarnacion J, cf     4  1  2  1   
+Ordonez M, rf         4  0  0  0   Gonzalez J, rf        3  0  0  0   
+Konerko P, dh         4  0  1  0   Higginson B, lf       4  0  1  0   
+Singleton C, cf       4  0  0  0   Easley D, 2b          3  0  0  0   
+Abbott J, lf          3  0  1  0   Ausmus B, c           2  0  0  0   
+Norton G, 3b-1b       4  1  3  0   Clark T, 1b           3  0  0  0   
+Johnson M, c          3  1  1  0   Cruz D, ss            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3 10  3                        30  2  6  2
+
+Chicago          003 000 000 --  3
+Detroit          100 100 000 --  2
+
+  Chicago              IP  H  R ER BB SO
+Baldwin J (W)         7.1  6  2  2  2  3
+Wunsch K              0.1  0  0  0  0  0
+Foulke K (S)          1.1  0  0  0  0  3
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (L)          9.0 10  3  3  1  4
+
+E -- Cruz D, Valentin J
+DP -- Chicago 1, Detroit 2
+LOB -- Chicago 5, Detroit 3
+3B -- Norton G
+HR -- Polonia L, Valentin J, Encarnacion J
+CS -- Polonia L, Johnson M
+WP -- Baldwin J
+T -- 2:24
+A -- 26916
+     Game of 4/29/2000 -- Chicago at Detroit (D)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Durham R, 2b          2  0  0  0   Polonia L, dh         5  0  1  0   
+Valentin J, ss        3  0  1  1   Jefferies G, 3b       4  0  0  0   
+Thomas F, dh          3  0  0  0   Halter S, 3b          0  0  0  0   
+Ordonez M, rf         4  0  1  0   Encarnacion J, cf     4  0  1  0   
+Konerko P, 1b         4  0  0  0   Gonzalez J, rf        4  0  0  0   
+Singleton C, cf       4  0  0  0   Higginson B, lf       4  1  2  0   
+Abbott J, lf          4  1  2  0   Easley D, 2b          3  0  0  0   
+Norton G, 3b          3  1  1  1   Ausmus B, c           2  0  1  1   
+Paul J, c             3  0  0  0   Fick R, 1b            4  0  1  0   
+                                   Cruz D, ss            2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        32  1  6  1
+
+Chicago          000 020 000 --  2
+Detroit          010 000 000 --  1
+
+  Chicago              IP  H  R ER BB SO
+Eldred C (W)          7.0  4  1  1  3  1
+Simas B               0.2  0  0  0  0  0
+Wunsch K*             0.0  1  0  0  0  0
+Foulke K (S)          1.1  1  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (L)          7.0  4  2  2  2  3
+Poole J               0.1  0  0  0  0  0
+Anderson M            1.2  1  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+LOB -- Chicago 5, Detroit 9
+2B -- Higginson B, Fick R, Abbott J, Norton G, Valentin J
+CS -- Durham R
+SH -- Valentin J
+SF -- Ausmus B
+HBP -- by Eldred C (Easley D), by Poole J (Durham R)
+WP -- Eldred C
+T -- 2:37
+A -- 28393
+     Game of 4/30/2000 -- Chicago at Detroit (D)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Durham R, 2b          6  0  3  1   Jefferies G, 1b-3b    5  0  0  0   
+Valentin J, ss        6  0  1  0   Ausmus B, c           4  1  2  0   
+Thomas F, dh          4  0  1  0   Encarnacion J, cf     6  0  2  0   
+Perry H, pr           2  1  0  0   Gonzalez J, dh        6  0  1  0   
+Ordonez M, rf         4  1  1  1   Higginson B, lf       6  0  2  1   
+Konerko P, 1b         5  0  2  0   Easley D, 2b          5  1  2  0   
+Singleton C, cf       5  0  1  1   Magee W, rf           3  1  1  0   
+Abbott J, lf          5  0  0  0   Polonia L, ph-rf      1  1  1  0   
+Norton G, 3b          2  1  1  0   Halter S, 3b-ss       4  0  2  0   
+Johnson M, c          4  0  0  0   Cruz D, ss            3  0  1  1   
+                                   Fick R, ph-1b         2  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     43  3 10  3                        45  4 15  4
+
+Chicago          010 000 011 000 --  3
+Detroit          000 000 102 001 --  4
+  1 out when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Sirotka M             7.0  8  1  0  1  2
+Lowe S                0.2  1  0  0  0  1
+Wunsch K              0.1  0  0  0  0  0
+Simas B               1.0  4  2  2  1  0
+Eyre S (L)            2.1  2  1  1  2  1
+
+  Detroit              IP  H  R ER BB SO
+Nomo H                7.2  8  2  2  3  9
+Jones T               1.1  1  1  1  1  1
+Patterson D           2.0  1  0  0  0  3
+Poole J               0.2  0  0  0  0  0
+Anderson M (W)        0.1  0  0  0  0  0
+
+E -- Valentin J 2
+DP -- Chicago 2
+LOB -- Chicago 9, Detroit 12
+2B -- Konerko P, Cruz D, Fick R
+HR -- Ordonez M
+CS -- Durham R, Polonia L
+SH -- Johnson M, Halter S
+WP -- Nomo H
+T -- 3:36
+A -- 28435
+     Game of 5/8/2000 -- Kansas City at Detroit (N)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+Damon J, lf           4  0  0  0   Polonia L, rf         5  0  1  0   
+Febles C, 2b          5  0  0  0   Ausmus B, c           4  0  0  0   
+Sweeney M, 1b         5  2  3  1   Encarnacion J, cf     5  0  0  0   
+McCarty D, 1b         0  0  0  0   Gonzalez J, dh        3  0  0  0   
+Dye J, rf             4  1  1  2   Macias J, pr          1  0  0  0   
+Quinn M, dh           5  0  1  1   Higginson B, lf       3  0  0  0   
+Beltran C, cf         5  0  0  0   Palmer D, 3b          4  0  0  0   
+Fabregas J, c         4  0  0  0   Clark T, 1b           3  1  2  1   
+Reboulet J, 3b        4  0  1  0   Jefferies G, 2b       3  0  0  0   
+Sanchez R, ss         3  1  2  0   Easley D, 2b          0  0  0  0   
+                                   Fick R, ph            1  0  0  0   
+                                   Halter S, 2b          0  0  0  0   
+                                   Cruz D, ss            4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  4  8  4                        36  1  3  1
+
+Kansas City      000 001 000 03 --  4
+Detroit          000 010 000 00 --  1
+
+  Kansas City          IP  H  R ER BB SO
+Suppan J              9.0  3  1  1  4  2
+Santiago J (W)        2.0  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Weaver J              9.0  4  1  1  2  4
+Brocail D (L)         1.2  3  3  3  0  0
+Patterson D           0.1  1  0  0  0  0
+
+E -- Febles C, Reboulet J
+DP -- Kansas City 2
+LOB -- Kansas City 5, Detroit 6
+2B -- Sweeney M, Dye J
+HR -- Clark T, Sweeney M
+CS -- Sanchez R
+SH -- Damon J
+T -- 2:47
+A -- 20340
+     Game of 5/10/2000 -- Kansas City at Detroit (D)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+Damon J, lf           5  1  2  0   Polonia L, lf         3  0  0  0   
+Febles C, 2b          5  1  1  1   Ausmus B, c           3  0  0  0   
+Sweeney M, 1b         4  0  2  1   Encarnacion J, cf     4  0  2  0   
+McCarty D, pr-1b      0  0  0  0   Gonzalez J, rf        3  0  0  0   
+Dye J, rf             3  0  0  1   Clark T, 1b           4  0  2  0   
+Beltran C, cf         3  0  0  1   Palmer D, 3b          3  0  0  0   
+Randa J, 3b           4  1  1  0   Fick R, dh            2  0  0  0   
+Quinn M, dh           4  0  0  0   Jefferies G, 2b       3  0  0  0   
+Fabregas J, c         3  2  2  1   Cruz D, ss            3  0  0  0   
+Ordaz L, ss           2  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  6  9  5                        28  0  4  0
+
+Kansas City      002 000 400 --  6
+Detroit          000 000 000 --  0
+
+  Kansas City          IP  H  R ER BB SO
+Fussell C (W)         6.0  2  0  0  4  4
+Spradlin J            2.0  0  0  0  0  1
+Witasick J            1.0  2  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Nomo H (L)            6.2  8  6  6  3  3
+Anderson M*           0.0  0  0  0  2  0
+Kida M                2.0  1  0  0  0  0
+Jones T               0.1  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Nomo H
+DP -- Kansas City 1, Detroit 1
+LOB -- Kansas City 7, Detroit 6
+2B -- Randa J
+SB -- Febles C
+CS -- Ausmus B
+SH -- Ordaz L 2
+HBP -- by Fussell C (Ausmus B)
+T -- 2:49
+A -- 31529
+     Game of 5/12/2000 -- New York at Detroit (N)
+
+  New York           AB  R  H RBI    Detroit            AB  R  H RBI
+Knoblauch C, 2b       5  1  1  0   Polonia L, dh         4  1  2  1   
+Brosius S, 3b         5  0  1  0   Becker R, lf          3  0  1  1   
+O'Neill P, rf         4  2  1  2   Encarnacion J, cf     5  0  2  3   
+Williams B, cf        4  1  3  0   Gonzalez J, rf        4  0  2  1   
+Posada J, c           5  1  1  1   Clark T, 1b           4  0  0  0   
+Martinez T, 1b        3  1  2  2   Jefferies G, ph-1b    0  1  0  0   
+Spencer S, lf         4  1  1  0   Palmer D, 3b          5  2  2  1   
+Leyritz J, dh         3  0  2  2   Fick R, c             4  1  1  0   
+Ledee R, ph           1  0  0  0   Macias J, 2b          5  2  2  0   
+Bellinger C, ss       3  0  0  0   Cruz D, ss            5  2  4  2   
+Johnson L, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  7 12  7                        39  9 16  9
+
+New York         000 020 032 --  7
+Detroit          001 410 21x --  9
+
+  New York             IP  H  R ER BB SO
+Clemens R (L)         4.2 10  6  6  5  3
+Erdos T               1.2  4  2  2  1  3
+Einertson D           1.1  1  1  1  1  0
+Grimsley J            0.1  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Nitkowski C (W)       5.1  6  2  2  2  1
+Blair W               2.0  1  2  2  1  1
+Poole J*              0.0  2  1  1  0  0
+Brocail D             1.1  2  2  2  0  1
+Jones T (S)           0.1  1  0  0  0  0
+  * Pitched to 2 batters in 8th
+
+E -- Knoblauch C
+DP -- New York 1, Detroit 1
+LOB -- New York 7, Detroit 13
+2B -- Gonzalez J, Spencer S, Martinez T
+3B -- Cruz D, Williams B
+HR -- Palmer D, O'Neill P
+CS -- Polonia L
+WP -- Clemens R, Erdos T, Brocail D
+T -- 3:26
+A -- 33326
+     Game of 5/13/2000 -- New York at Detroit (D)
+
+  New York           AB  R  H RBI    Detroit            AB  R  H RBI
+Knoblauch C, 2b       4  0  1  1   Polonia L, dh         4  0  2  1   
+Ledee R, lf           3  0  0  0   Ausmus B, c           5  0  1  1   
+O'Neill P, rf         3  1  1  0   Encarnacion J, cf     5  1  1  0   
+Williams B, cf        4  0  1  0   Gonzalez J, rf        4  0  1  0   
+Martinez T, 1b        4  1  2  1   Palmer D, 3b          4  1  2  1   
+Posada J, c           4  0  1  0   Becker R, lf          4  0  0  0   
+Spencer S, dh         4  0  0  0   Jefferies G, 1b       2  2  2  0   
+Brosius S, 3b         4  0  1  1   Macias J, 2b          4  1  3  2   
+Bellinger C, ss       3  1  1  0   Halter S, ss          3  1  1  0   
+Johnson L, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        35  6 13  5
+
+New York         010 001 100 --  3
+Detroit          040 110 00x --  6
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        4.2 10  6  5  3  3
+Grimsley J            2.1  3  0  0  0  1
+Nelson J              1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (W)          6.2  7  3  1  2  5
+Anderson M            0.1  0  0  0  0  0
+Brocail D             1.0  1  0  0  0  1
+Jones T (S)           1.0  0  0  0  0  0
+
+E -- Pettitte A 2, Palmer D 2, Becker R
+DP -- New York 1, Detroit 3
+LOB -- New York 6, Detroit 10
+2B -- Palmer D, Ausmus B, Macias J, Gonzalez J
+3B -- Macias J
+CS -- Williams B
+SH -- Halter S
+SF -- Polonia L
+T -- 2:42
+A -- 36520
+     Game of 5/14/2000 -- New York at Detroit (D)
+
+  New York           AB  R  H RBI    Detroit            AB  R  H RBI
+Knoblauch C, 2b       4  0  1  0   Becker R, lf          4  0  0  0   
+Ledee R, dh           4  0  0  0   Ausmus B, c           3  1  2  0   
+O'Neill P, rf         4  0  0  0   Encarnacion J, cf     4  0  2  1   
+Williams B, cf        4  0  1  0   Gonzalez J, rf        4  0  1  1   
+Martinez T, 1b        3  1  0  0   Polonia L, dh         4  0  0  0   
+Posada J, c           2  0  0  0   Palmer D, 3b          3  0  0  0   
+Spencer S, lf         4  0  3  1   Jefferies G, 1b       3  0  1  0   
+Brosius S, 3b         4  0  0  0   Macias J, 2b          3  0  1  0   
+Bellinger C, ss       2  0  0  0   Cruz D, ss            4  1  1  0   
+Johnson L, ph         1  0  0  0                                      
+Delgado W, ss         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  5  1                        32  2  8  2
+
+New York         000 000 001 --  1
+Detroit          001 010 00x --  2
+
+  New York             IP  H  R ER BB SO
+Cone D (L)            7.0  8  2  2  2  2
+Nelson J              0.2  0  0  0  2  0
+Stanton M             0.1  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (W)          8.2  4  1  1  3  4
+Jones T (S)           0.1  1  0  0  0  0
+
+E -- Knoblauch C
+LOB -- New York 7, Detroit 11
+2B -- Ausmus B, Cruz D, Jefferies G
+HBP -- by Cone D (Ausmus B)
+PB -- Posada J
+T -- 2:34
+A -- 31313
+     Game of 5/23/2000 -- Cleveland at Detroit (N)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Lofton K, cf          5  0  2  0   Polonia L, dh         5  0  1  0   
+Wilson E, ss          5  1  2  1   Becker R, cf          5  1  3  2   
+Alomar R, 2b          5  1  3  1   Jefferies G, 1b       5  1  2  1   
+Ramirez M, rf         3  0  0  0   Gonzalez J, rf        5  2  2  0   
+Fryman T, 3b          3  0  0  0   Higginson B, lf       4  2  2  4   
+Thome J, dh           3  0  0  0   Palmer D, 3b          3  1  1  1   
+Sexson R, 1b          4  0  0  0   Ausmus B, c           4  1  2  0   
+Ramirez A, lf         4  2  2  1   Macias J, 2b          3  1  1  1   
+Alomar S, c           3  0  2  0   Cruz D, ss            4  1  2  1   
+Diaz E, pr-c          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4 11  3                        38 10 16 10
+
+Cleveland        000 111 001 --  4
+Detroit          012 060 10x -- 10
+
+  Cleveland            IP  H  R ER BB SO
+Colon B (L)           4.1  9  6  6  3  5
+Brower J*             0.0  3  3  3  1  0
+Martin T              1.2  2  0  0  1  0
+Kamieniecki S         1.0  2  1  1  0  0
+Karsay S              1.0  0  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Nitkowski C           4.1  6  2  1  3  3
+Blair W (W)           3.2  3  1  1  1  2
+McDill A              0.2  2  1  1  0  1
+Villafuerte B         0.1  0  0  0  0  0
+  * Pitched to 4 batters in 5th
+
+E -- Cruz D, Macias J
+DP -- Cleveland 1, Detroit 2
+LOB -- Cleveland 9, Detroit 9
+2B -- Alomar R, Higginson B, Jefferies G, Wilson E
+HR -- Higginson B, Palmer D, Ramirez A
+T -- 3:29
+A -- 27039
+     Game of 5/24/2000 -- Cleveland at Detroit (N)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Lofton K, cf          6  0  1  0   Polonia L, dh         4  1  1  0   
+Vizquel O, ss         3  2  2  1   Becker R, cf          4  3  2  1   
+Alomar R, 2b          4  1  2  3   Jefferies G, 1b       3  3  2  0   
+Ramirez M, rf         4  0  1  1   Gonzalez J, rf        5  1  2  2   
+Thome J, 1b           5  2  2  1   Higginson B, lf       4  1  2  4   
+Justice D, dh         5  0  1  0   Palmer D, 3b          1  0  0  0   
+Sexson R, lf          5  2  2  3   Halter S, 3b          3  0  0  0   
+Wilson E, 3b          1  0  0  0   Ausmus B, c           3  0  0  1   
+Fryman T, 3b          4  1  3  0   Macias J, 2b          5  0  2  2   
+Diaz E, c             4  1  2  0   Cruz D, ss            4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     41  9 16  9                        36 10 12 10
+
+Cleveland        012 300 102 --  9
+Detroit          230 004 10x -- 10
+
+  Cleveland            IP  H  R ER BB SO
+Drew T*               1.0  4  5  3  2  0
+Brower J              4.0  3  0  0  1  1
+Watson M (L)+         0.0  2  3  3  1  0
+DePaula S             1.1  3  2  2  3  1
+Martin T              0.2  0  0  0  0  0
+Reed S                1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Weaver J              4.0  8  6  6  2  3
+Patterson D (W)       2.0  2  0  0  0  2
+McDill A#             0.0  2  1  1  0  0
+Anderson M            1.0  1  0  0  0  1
+Brocail D             1.0  0  0  0  1  1
+Jones T (S)           1.0  3  2  2  0  1
+  * Pitched to 3 batters in 2nd
+  + Pitched to 3 batters in 6th
+  # Pitched to 2 batters in 7th
+
+E -- Drew T
+DP -- Cleveland 1, Detroit 1
+LOB -- Cleveland 10, Detroit 10
+2B -- Gonzalez J, Higginson B 2, Jefferies G, Lofton K, Justice D, Thome J
+HR -- Sexson R 2, Alomar R, Thome J
+SH -- Vizquel O
+HBP -- by Drew T (Palmer D), by Weaver J (Diaz E)
+WP -- Brower J
+T -- 3:44
+A -- 27274
+     Game of 5/25/2000 -- Cleveland at Detroit (N)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Alomar R, 2b          4  0  1  0   Polonia L, dh         4  1  2  0   
+Vizquel O, ss         4  0  1  0   Halter S, cf          3  0  1  0   
+Justice D, dh         4  1  1  1   Jefferies G, 1b       3  0  1  1   
+Ramirez M, rf         4  2  2  0   Gonzalez J, rf        3  0  0  0   
+Thome J, 1b           3  1  1  2   Higginson B, lf       3  0  1  0   
+Sexson R, lf          3  0  1  1   Palmer D, 3b          4  0  0  0   
+Fryman T, 3b          3  0  2  0   Ausmus B, c           3  0  0  0   
+Diaz E, c             4  0  0  0   Macias J, 2b          4  0  0  0   
+Cabrera J, cf         3  0  0  0   Cruz D, ss            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  9  4                        30  1  5  1
+
+Cleveland        100 000 201 --  4
+Detroit          000 000 010 --  1
+
+  Cleveland            IP  H  R ER BB SO
+Burba D (W)           7.1  4  1  1  5  7
+Karsay S (S)          1.2  1  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Moehler B (L)         7.1  8  3  3  0  3
+McDill A              0.2  0  0  0  0  0
+Anderson M            0.1  1  1  1  1  0
+Patterson D           0.2  0  0  0  0  0
+
+DP -- Cleveland 1, Detroit 3
+LOB -- Cleveland 4, Detroit 7
+2B -- Ramirez M, Fryman T
+3B -- Ramirez M
+HR -- Justice D, Thome J
+SB -- Halter S, Higginson B
+CS -- Jefferies G
+SF -- Sexson R
+HBP -- by Anderson M (Fryman T)
+WP -- Burba D
+T -- 2:51
+A -- 30103
+     Game of 5/26/2000 -- Toronto at Detroit (N)
+
+  Toronto            AB  R  H RBI    Detroit            AB  R  H RBI
+Stewart S, lf         5  0  2  0   Polonia L, dh         5  0  0  0   
+Grebeck C, 2b         3  0  0  0   Halter S, cf          5  0  0  0   
+Mondesi R, rf         5  1  2  1   Jefferies G, 1b       4  0  1  0   
+Delgado C, 1b         5  2  2  1   Gonzalez J, rf        5  2  2  1   
+Fullmer B, dh         4  1  1  0   Higginson B, lf       3  0  1  1   
+Batista T, 3b         3  1  1  1   Palmer D, 3b          4  0  1  0   
+Fletcher D, c         5  1  2  4   Ausmus B, c           3  0  0  0   
+Cruz J, cf            3  1  1  0   Macias J, 2b          3  0  0  0   
+Gonzalez A, ss        3  1  1  0   Cruz D, ss            3  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     36  8 12  7                        35  2  7  2
+
+Toronto          000 100 070 --  8
+Detroit          010 000 100 --  2
+
+  Toronto              IP  H  R ER BB SO
+Castillo F            6.2  6  2  2  4  6
+Frascatore J (W)      2.1  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D*             7.0  8  2  2  2  5
+Brocail D (L)+        0.0  3  5  4  1  0
+Villafuerte B         2.0  1  1  1  2  0
+  * Pitched to 1 batter in 8th
+  + Pitched to 5 batters in 8th
+
+E -- Gonzalez A, Jefferies G
+DP -- Toronto 1, Detroit 2
+LOB -- Toronto 8, Detroit 11
+2B -- Gonzalez J, Higginson B, Fletcher D, Palmer D, Mondesi R, Cruz D
+HR -- Gonzalez J, Fletcher D
+SB -- Ausmus B
+SH -- Ausmus B, Gonzalez A
+SF -- Batista T
+WP -- Villafuerte B
+T -- 3:07
+A -- 33068
+     Game of 5/27/2000 -- Toronto at Detroit (N)
+
+  Toronto            AB  R  H RBI    Detroit            AB  R  H RBI
+Stewart S, lf         4  0  2  2   Polonia L, dh         2  0  1  0   
+Grebeck C, 2b         4  1  1  0   Becker R, cf          3  0  0  1   
+Mondesi R, rf         3  0  1  0   Jefferies G, 1b       4  0  0  0   
+Delgado C, 1b         4  0  1  1   Gonzalez J, rf        3  0  2  0   
+Fullmer B, dh         3  1  1  0   Halter S, rf          0  0  0  0   
+Batista T, 3b         4  0  1  0   Higginson B, lf       3  1  0  0   
+Fletcher D, c         4  0  0  0   Palmer D, 3b          4  1  1  2   
+Cruz J, cf            2  1  0  0   Ausmus B, c           2  1  0  0   
+Gonzalez A, ss        3  0  0  0   Macias J, 2b          3  1  1  0   
+                                   Cruz D, ss            4  0  2  1   
+                     -- -- -- --                        -- -- -- --
+                     31  3  7  3                        28  4  7  4
+
+Toronto          000 020 010 --  3
+Detroit          020 010 001 --  4
+  1 out when winning run was scored.
+
+  Toronto              IP  H  R ER BB SO
+Munro P               6.0  6  3  3  3  1
+Borbon P              1.0  0  0  0  1  1
+Quantrill P (L)       1.1  1  1  1  2  0
+
+  Detroit              IP  H  R ER BB SO
+Nomo H                7.1  7  3  3  5  8
+Brocail D (W)         1.2  0  0  0  0  1
+
+DP -- Toronto 2, Detroit 2
+LOB -- Toronto 6, Detroit 7
+2B -- Fullmer B, Gonzalez J
+HR -- Palmer D
+SB -- Polonia L, Mondesi R
+CS -- Fullmer B, Cruz J
+SH -- Macias J
+HBP -- by Munro P (Ausmus B)
+WP -- Nomo H
+T -- 2:45
+A -- 29584
+     Game of 5/28/2000 -- Toronto at Detroit (D)
+
+  Toronto            AB  R  H RBI    Detroit            AB  R  H RBI
+Stewart S, lf         4  0  2  1   Polonia L, rf         5  2  2  1   
+Gonzalez A, ss        5  0  1  1   Becker R, cf          3  1  1  0   
+Mondesi R, rf         5  2  1  0   Halter S, ph-cf       2  0  0  0   
+Delgado C, 1b         5  2  2  5   Jefferies G, 1b       4  1  1  0   
+Batista T, 3b         4  1  0  0   Gonzalez J, dh        5  0  0  0   
+Cordova M, dh         5  2  4  0   Higginson B, lf       4  1  1  1   
+Cruz J, cf            5  2  2  1   Palmer D, 3b          4  2  3  3   
+Woodward C, 2b        4  2  2  3   Fick R, c             4  0  2  2   
+Castillo A, c         5  1  1  1   Macias J, 2b          4  0  0  0   
+                                   Cruz D, ss            4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     42 12 15 12                        39  7 11  7
+
+Toronto          030 321 030 -- 12
+Detroit          411 000 010 --  7
+
+  Toronto              IP  H  R ER BB SO
+Carpenter C           3.0  7  6  6  1  4
+Andrews C (W)         4.0  0  0  0  0  0
+Koch B                2.0  4  1  1  0  2
+
+  Detroit              IP  H  R ER BB SO
+Nitkowski C*          3.0  7  6  6  0  3
+Blair W (L)           4.2  6  5  5  1  0
+McDill A              0.2  2  1  1  0  0
+Jones T               0.2  0  0  0  0  1
+  * Pitched to 3 batters in 4th
+
+E -- Higginson B, Cruz D
+LOB -- Toronto 6, Detroit 6
+2B -- Fick R 2, Woodward C 2
+HR -- Polonia L, Palmer D, Delgado C 2, Higginson B
+SB -- Mondesi R
+SF -- Stewart S
+HBP -- by Nitkowski C (Batista T)
+WP -- Carpenter C
+T -- 3:00
+A -- 29105
+     Game of 5/29/2000 -- Texas at Detroit (N)
+
+  Texas              AB  R  H RBI    Detroit            AB  R  H RBI
+Alicea L, 2b          3  1  2  2   Macias J, 2b          4  0  2  0   
+Greer R, lf           4  0  1  0   Ausmus B, c           4  0  1  0   
+Rodriguez I, c        4  0  1  0   Jefferies G, 1b       3  0  1  0   
+Palmeiro R, 1b        3  1  1  1   Becker R, pr-rf       1  0  0  0   
+Segui D, dh           4  0  0  0   Palmer D, 3b          4  0  1  0   
+Mateo R, cf           4  0  0  0   Higginson B, lf       4  1  2  0   
+Lamb M, 3b            4  0  2  0   Magee W, cf           3  1  2  0   
+Clayton R, ss         4  0  0  0   Polonia L, ph         0  0  0  0   
+Green S, rf           3  1  0  0   Fick R, dh            3  0  1  1   
+                                   Cruz D, ss            4  0  0  0   
+                                   Halter S, rf-1b       3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        33  2 11  1
+
+Texas            002 100 000 --  3
+Detroit          020 000 000 --  2
+
+  Texas                IP  H  R ER BB SO
+Rogers K (W)          8.0  9  2  2  0  4
+Wetteland J (S)       1.0  2  0  0  1  0
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (L)          8.0  7  3  3  2  6
+Anderson M            1.0  0  0  0  0  1
+
+DP -- Texas 4, Detroit 1
+LOB -- Texas 5, Detroit 6
+2B -- Higginson B, Rodriguez I, Halter S
+HR -- Alicea L, Palmeiro R
+SH -- Polonia L
+T -- 2:45
+A -- 31915
+     Game of 5/30/2000 -- Texas at Detroit (N)
+
+  Texas              AB  R  H RBI    Detroit            AB  R  H RBI
+Alicea L, 2b          4  1  1  2   Polonia L, dh         5  0  0  0   
+Greer R, lf           4  0  0  0   Becker R, rf          3  1  3  0   
+Rodriguez I, c        3  0  0  1   Magee W, rf           2  1  1  0   
+Palmeiro R, 1b        4  0  2  0   Encarnacion J, cf     4  2  2  0   
+Segui D, dh           4  1  1  0   Higginson B, lf       3  2  2  1   
+Curtis C, rf          3  0  1  1   Palmer D, 3b          3  1  2  5   
+Mateo R, cf           4  0  1  0   Ausmus B, c           3  0  1  0   
+Lamb M, 3b            3  1  1  0   Fick R, 1b            2  0  1  1   
+Clayton R, ss         3  1  2  0   Macias J, 2b          4  0  0  0   
+                                   Cruz D, ss            4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  9  4                        33  7 13  7
+
+Texas            000 003 001 --  4
+Detroit          203 000 20x --  7
+
+  Texas                IP  H  R ER BB SO
+Loaiza E (L)*         5.0 10  5  5  1  3
+Cordero F             1.1  3  2  2  2  0
+Venafro M             0.2  0  0  0  0  0
+Crabtree T            1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Moehler B (W)         5.2  7  3  3  0  4
+Nitkowski C           0.1  0  0  0  0  0
+Patterson D           2.2  2  1  1  1  0
+Jones T (S)           0.1  0  0  0  0  0
+  * Pitched to 1 batter in 6th
+
+DP -- Texas 1, Detroit 3
+LOB -- Texas 3, Detroit 7
+2B -- Clayton R, Higginson B, Lamb M, Alicea L, Segui D
+3B -- Magee W
+HR -- Palmer D
+SF -- Palmer D, Rodriguez I, Fick R
+T -- 2:48
+A -- 21053
+     Game of 5/31/2000 -- Texas at Detroit (N)
+
+  Texas              AB  R  H RBI    Detroit            AB  R  H RBI
+Alicea L, 2b          4  4  3  2   Polonia L, dh         6  0  2  0   
+Greer R, lf           5  1  1  4   Macias J, 2b          4  2  2  0   
+Rodriguez I, c        4  0  1  2   Encarnacion J, cf     4  0  0  0   
+Catalanotto F, ph     0  0  0  0   Palmer D, 3b          3  1  1  0   
+Haselman B, c         0  0  0  0   Halter S, 3b          1  0  0  0   
+Palmeiro R, dh        6  1  3  4   Higginson B, lf       4  1  1  0   
+Segui D, 1b           5  0  1  0   Ausmus B, c           3  1  2  3   
+Curtis C, rf          4  0  0  0   Cardona J, c          1  0  0  0   
+Green S, ph-rf        1  0  0  0   Magee W, rf           4  0  1  1   
+Mateo R, cf           5  1  3  0   Fick R, 1b            4  0  2  1   
+Lamb M, 3b            5  3  2  0   Cruz D, ss            5  0  0  0   
+Clayton R, ss         3  3  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42 13 16 12                        39  5 11  5
+
+Texas            220 240 300 -- 13
+Detroit          100 022 000 --  5
+
+  Texas                IP  H  R ER BB SO
+Oliver D (W)          5.2  8  5  5  5  2
+Crabtree T            1.1  2  0  0  0  0
+Perisho M             2.0  1  0  0  1  2
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (L)          3.2  9  6  5  2  1
+McDill A              0.1  0  0  0  0  0
+Villafuerte B         2.0  3  4  4  2  1
+Anderson M            2.0  3  3  2  1  4
+Brocail D             1.0  1  0  0  0  0
+
+E -- Cruz D, Alicea L, Macias J
+DP -- Detroit 1
+LOB -- Texas 9, Detroit 14
+2B -- Alicea L 2, Mateo R, Lamb M, Rodriguez I, Higginson B
+3B -- Alicea L
+HR -- Palmeiro R
+SF -- Greer R
+HBP -- by Oliver D (Encarnacion J), by Brocail D (Catalanotto F)
+WP -- Mlicki D
+Balk -- Oliver D
+T -- 3:17
+A -- 22425
+     Game of 6/9/2000 -- St. Louis at Detroit (N)
+
+  St. Louis          AB  R  H RBI    Detroit            AB  R  H RBI
+Vina F, 2b            4  0  0  0   Polonia L, dh         4  0  0  0   
+Renteria E, ss        4  0  0  0   Easley D, 2b          3  0  0  0   
+Edmonds J, cf         4  1  1  0   Encarnacion J, cf     3  0  0  0   
+McGwire M, 1b         4  0  0  0   Gonzalez J, rf        4  1  1  0   
+Howard T, dh          3  1  1  2   Higginson B, lf       4  0  1  1   
+Sutton L, rf          3  0  1  0   Palmer D, 3b          4  2  2  1   
+Drew J, lf            3  0  0  0   Halter S, 3b          0  0  0  0   
+Marrero E, c          3  0  0  0   Fick R, 1b            2  1  1  0   
+Polanco P, 3b         3  0  1  0   Ausmus B, c           3  0  1  1   
+                                   Cruz D, ss            3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     31  2  4  2                        30  4  7  4
+
+St. Louis        000 000 200 --  2
+Detroit          011 101 00x --  4
+
+  St. Louis            IP  H  R ER BB SO
+Stephenson G (L)      6.0  7  4  4  1  3
+Benes A               2.0  0  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (W)          8.0  4  2  2  0  5
+Jones T (S)           1.0  0  0  0  0  1
+
+E -- Halter S
+DP -- Detroit 1
+LOB -- St. Louis 3, Detroit 5
+2B -- Higginson B
+3B -- Fick R
+HR -- Palmer D, Howard T
+CS -- Fick R
+HBP -- by Weaver J (Howard T), by Stephenson G (Encarnacion J), by Stephenson G (Fick R)
+T -- 2:22
+A -- 39081
+     Game of 6/10/2000 -- St. Louis at Detroit (N)
+
+  St. Louis          AB  R  H RBI    Detroit            AB  R  H RBI
+Vina F, 2b            4  0  1  0   Easley D, 2b          5  3  3  2   
+Renteria E, ss        4  0  1  0   Macias J, 2b          0  0  0  0   
+Edmonds J, cf         4  0  0  0   Ausmus B, c           4  2  2  5   
+McGwire M, 1b         4  0  2  0   Cardona J, c          0  0  0  0   
+Howard T, dh          4  0  0  0   Encarnacion J, cf     4  1  0  0   
+Davis E, rf           3  0  0  0   Gonzalez J, dh        4  0  2  1   
+Drew J, lf            4  1  1  1   Higginson B, lf       4  0  1  0   
+Matheny M, c          4  0  2  0   Palmer D, 3b          3  1  1  1   
+Paquette C, 3b        3  0  0  0   Halter S, 3b          0  0  0  0   
+                                   Magee W, rf           3  0  1  0   
+                                   Fick R, 1b            4  1  1  0   
+                                   Cruz D, ss            4  2  2  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  7  1                        35 10 13  9
+
+St. Louis        000 000 100 --  1
+Detroit          002 020 15x -- 10
+
+  St. Louis            IP  H  R ER BB SO
+Ankiel R (L)          6.0  7  4  2  4  3
+Slocumb H             1.0  1  1  1  0  2
+Matthews M            0.2  5  5  5  1  0
+Veres D               0.1  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Moehler B (W)         7.0  5  1  1  1  4
+Brocail D             1.0  2  0  0  0  2
+McDill A              1.0  0  0  0  0  1
+
+E -- Ankiel R
+DP -- St. Louis 2
+LOB -- St. Louis 7, Detroit 6
+2B -- Higginson B, Easley D, Gonzalez J
+HR -- Drew J, Easley D, Palmer D, Ausmus B
+SB -- McGwire M
+T -- 2:41
+A -- 39053
+     Game of 6/11/2000 -- St. Louis at Detroit (D)
+
+  St. Louis          AB  R  H RBI    Detroit            AB  R  H RBI
+Vina F, 2b            4  0  0  0   Polonia L, dh         4  0  1  0   
+Renteria E, ss        5  1  3  1   Becker R, cf          3  0  0  0   
+Edmonds J, cf         5  2  2  3   Higginson B, lf       3  1  1  0   
+McGwire M, 1b         4  1  2  2   Gonzalez J, rf        4  1  1  0   
+Lankford R, dh        2  1  1  0   Palmer D, 3b          4  0  1  0   
+Davis E, ph           2  0  0  0   Ausmus B, c           4  1  1  1   
+Dunston S, lf         4  0  1  1   Easley D, 2b          4  0  1  2   
+Drew J, rf            4  0  0  0   Fick R, 1b            3  0  0  0   
+Matheny M, c          4  1  1  0   Halter S, ss          3  0  0  0   
+Polanco P, 3b         4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  7 11  7                        32  3  6  3
+
+St. Louis        340 000 000 --  7
+Detroit          000 000 300 --  3
+
+  St. Louis            IP  H  R ER BB SO
+Hentgen P (W)         7.0  4  3  3  1  3
+Morris M              2.0  2  0  0  1  0
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (L)          1.1  9  7  7  0  1
+McDill A              2.2  0  0  0  0  4
+Blair W               1.0  0  0  0  0  1
+Nitkowski C           1.2  1  0  0  1  1
+Anderson M            2.1  1  0  0  1  4
+
+E -- Renteria E
+DP -- St. Louis 2
+LOB -- St. Louis 6, Detroit 4
+2B -- Lankford R, Matheny M, McGwire M, Renteria E, Easley D, Polonia L
+HR -- McGwire M, Edmonds J
+T -- 2:38
+A -- 38139
+     Game of 6/12/2000 -- Toronto at Detroit (N)
+
+  Toronto            AB  R  H RBI    Detroit            AB  R  H RBI
+Stewart S, lf         5  1  2  2   Polonia L, dh         4  0  0  0   
+Bush H, 2b            5  0  1  0   Ausmus B, c           4  0  1  0   
+Batista T, 3b         4  0  1  1   Higginson B, lf       4  1  2  2   
+Delgado C, 1b         4  0  1  0   Gonzalez J, rf        4  0  1  0   
+Fullmer B, dh         4  1  2  1   Palmer D, 3b          4  0  1  0   
+Cruz J, cf            4  0  0  0   Easley D, 2b          4  0  1  0   
+Cordova M, rf         3  0  0  0   Encarnacion J, cf     4  0  1  0   
+Mondesi R, ph-rf      1  0  0  0   Clark T, 1b           3  0  0  0   
+Gonzalez A, ss        4  1  2  0   Cruz D, ss            2  1  1  0   
+Castillo A, c         3  1  1  0   Becker R, ph          1  0  0  0   
+                                   Halter S, ss          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4 10  4                        34  2  8  2
+
+Toronto          003 100 000 --  4
+Detroit          000 002 000 --  2
+
+  Toronto              IP  H  R ER BB SO
+Castillo F (W)        7.0  5  2  2  0  4
+Quantrill P           0.2  1  0  0  0  1
+Borbon P*             0.0  1  0  0  0  0
+Koch B (S)            1.1  1  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Nomo H (L)            7.2  7  4  4  1  8
+Nitkowski C           0.1  1  0  0  0  0
+Patterson D           1.0  2  0  0  0  2
+  * Pitched to 1 batter in 8th
+
+DP -- Toronto 1
+LOB -- Toronto 7, Detroit 5
+2B -- Gonzalez J, Gonzalez A 2, Stewart S, Cruz D, Fullmer B
+HR -- Fullmer B, Higginson B
+SB -- Encarnacion J
+WP -- Nomo H 2
+T -- 2:55
+A -- 21779
+     Game of 6/13/2000 -- Toronto at Detroit (N)
+
+  Toronto            AB  R  H RBI    Detroit            AB  R  H RBI
+Stewart S, lf         4  0  0  0   Easley D, 2b          4  3  2  3   
+Bush H, 2b            4  0  0  0   Macias J, pr-2b       0  0  0  0   
+Mondesi R, rf         4  0  1  0   Ausmus B, c           5  4  4  2   
+Delgado C, 1b         2  0  1  0   Fick R, c             0  0  0  0   
+Woodward C, 1b        1  0  0  0   Higginson B, lf       4  2  4  7   
+Fullmer B, dh         4  1  2  0   Becker R, pr-lf       1  0  0  0   
+Batista T, 3b         4  2  3  2   Gonzalez J, rf        4  1  1  1   
+Cruz J, cf            4  0  0  0   Magee W, rf           1  1  1  0   
+Gonzalez A, ss        3  0  1  1   Palmer D, dh          3  1  1  1   
+Grebeck C, ss         1  0  0  0   Encarnacion J, cf     5  0  1  1   
+Castillo A, c         2  0  0  0   Clark T, 1b           5  0  1  0   
+Phelps J, c           1  0  0  0   Halter S, 3b          5  2  4  1   
+                                   Cruz D, ss            5  2  2  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        42 16 21 16
+
+Toronto          000 010 200 --  3
+Detroit          510 540 01x -- 16
+
+  Toronto              IP  H  R ER BB SO
+Andrews C (L)         1.1  8  6  6  1  1
+Cubillan D            2.2  5  5  5  2  2
+Frascatore J          3.0  5  4  4  0  0
+Painter L             1.0  3  1  1  0  1
+
+  Detroit              IP  H  R ER BB SO
+Blair W (W)           7.0  6  3  3  1  2
+Brocail D             1.0  1  0  0  0  2
+Jones T               1.0  1  0  0  0  1
+
+E -- Mondesi R
+DP -- Toronto 4, Detroit 1
+LOB -- Toronto 5, Detroit 5
+2B -- Palmer D, Easley D, Gonzalez A, Ausmus B, Fullmer B
+HR -- Higginson B 2, Gonzalez J, Ausmus B, Batista T
+CS -- Higginson B
+T -- 2:41
+A -- 23314
+     Game of 6/14/2000 -- Toronto at Detroit (N)
+
+  Toronto            AB  R  H RBI    Detroit            AB  R  H RBI
+Stewart S, lf         3  1  1  0   Easley D, 2b          3  0  3  1   
+Cordova M, lf         2  1  1  0   Ausmus B, c           5  0  1  0   
+Bush H, 2b            3  0  0  0   Higginson B, lf       3  0  1  0   
+Mondesi R, rf         4  1  1  1   Gonzalez J, rf        5  0  0  0   
+Delgado C, 1b         3  1  2  1   Palmer D, 3b          4  0  0  0   
+Fullmer B, dh         4  1  1  3   Clark T, 1b           4  0  1  0   
+Batista T, 3b         4  1  1  0   Encarnacion J, cf     4  0  0  0   
+Cruz J, cf            3  2  1  1   Polonia L, dh         2  1  1  0   
+Gonzalez A, ss        3  0  0  0   Cruz D, ss            4  0  2  0   
+Castillo A, c         4  0  1  2                                      
+                     -- -- -- --                        -- -- -- --
+                     33  8  9  8                        34  1  9  1
+
+Toronto          031 210 001 --  8
+Detroit          000 000 010 --  1
+
+  Toronto              IP  H  R ER BB SO
+Carpenter C (W)       8.0  9  1  1  6  7
+Borbon P*             0.0  0  0  0  1  0
+Quantrill P           1.0  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (L)          4.0  6  6  6  2  4
+McDill A              1.0  2  1  1  0  0
+Mlicki D              3.0  0  0  0  1  3
+Anderson M            0.2  1  1  1  1  2
+Nitkowski C           0.1  0  0  0  1  0
+  * Pitched to 1 batter in 9th
+
+E -- Gonzalez A
+DP -- Toronto 2
+LOB -- Toronto 7, Detroit 13
+2B -- Stewart S, Mondesi R, Delgado C, Easley D
+HR -- Fullmer B, Cruz J
+CS -- Easley D
+SH -- Bush H, Gonzalez A
+SF -- Mondesi R
+HBP -- by Nitkowski C (Fullmer B)
+WP -- Carpenter C
+PB -- Castillo A
+T -- 2:50
+A -- 27479
+     Game of 6/16/2000 -- Cleveland at Detroit (N)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Lofton K, cf          4  0  1  0   Easley D, 2b          4  0  1  0   
+Vizquel O, ss         2  0  0  0   Ausmus B, c           5  0  1  0   
+Alomar R, 2b          4  0  0  0   Higginson B, lf       3  2  2  1   
+Justice D, rf         4  1  2  1   Gonzalez J, rf        4  1  1  1   
+Thome J, 1b           4  0  1  0   Palmer D, 3b          2  1  1  1   
+Fryman T, 3b          3  1  2  1   Halter S, 3b          0  0  0  0   
+Branyan R, dh         4  0  0  0   Clark T, 1b           2  1  1  2   
+Sexson R, lf          3  0  0  0   Encarnacion J, cf     4  0  0  0   
+Diaz E, c             3  0  0  0   Polonia L, dh         4  0  0  0   
+Wilson E, ph          1  0  0  0   Cruz D, ss            4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  6  2                        32  5  8  5
+
+Cleveland        010 001 000 --  2
+Detroit          002 020 10x --  5
+
+  Cleveland            IP  H  R ER BB SO
+Burba D (L)           6.2  7  5  5  6  6
+Williams B            1.1  1  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Moehler B (W)         6.0  5  2  2  1  5
+Patterson D           1.0  0  0  0  1  1
+Brocail D             1.0  1  0  0  1  2
+Jones T (S)           1.0  0  0  0  1  1
+
+E -- Palmer D 2
+DP -- Detroit 2
+LOB -- Cleveland 7, Detroit 9
+2B -- Ausmus B, Lofton K
+HR -- Fryman T, Higginson B, Gonzalez J, Clark T, Justice D, Palmer D
+WP -- Moehler B
+T -- 2:50
+A -- 39072
+     Game of 6/17/2000 -- Cleveland at Detroit (D)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Lofton K, cf          5  0  0  0   Easley D, 2b          4  0  0  0   
+Vizquel O, ss         4  2  2  0   Ausmus B, c           5  1  2  0   
+Alomar R, 2b          3  1  1  2   Higginson B, lf       4  3  2  2   
+Justice D, rf         2  1  1  0   Gonzalez J, dh        5  1  2  3   
+Thome J, 1b           4  0  0  0   Palmer D, 3b          4  1  1  0   
+Fryman T, 3b          2  1  0  0   Magee W, rf           3  1  1  2   
+Branyan R, dh         4  1  1  4   Becker R, ph-cf       0  1  0  0   
+Sexson R, lf          4  0  1  0   Encarnacion J, cf     2  0  0  0   
+Alomar S, c           4  0  0  0   Fick R, ph            1  0  1  0   
+                                   Polonia L, pr-rf      0  0  0  0   
+                                   Clark T, 1b           4  0  1  1   
+                                   Cruz D, ss            4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  6  6  6                        36  8 10  8
+
+Cleveland        000 420 000 --  6
+Detroit          000 300 212 --  8
+  1 out when winning run was scored.
+
+  Cleveland            IP  H  R ER BB SO
+Finley C              6.2  7  5  5  2  7
+Reed S                0.2  1  1  1  1  1
+Karsay S (L)          1.0  2  2  2  1  0
+
+  Detroit              IP  H  R ER BB SO
+Nomo H                4.2  6  6  6  4  6
+Nitkowski C           3.1  0  0  0  0  5
+Brocail D (W)         1.0  0  0  0  0  0
+
+E -- Alomar R
+LOB -- Cleveland 4, Detroit 7
+2B -- Higginson B, Clark T
+3B -- Justice D
+HR -- Branyan R, Magee W, Alomar R, Higginson B, Gonzalez J
+SH -- Alomar R
+T -- 3:03
+A -- 39569
+     Game of 6/18/2000 -- Cleveland at Detroit (D)
+
+  Cleveland          AB  R  H RBI    Detroit            AB  R  H RBI
+Lofton K, cf          4  1  2  1   Easley D, 2b          4  0  0  0   
+Vizquel O, ss         4  1  1  0   Macias J, ph          1  0  0  0   
+Alomar R, 2b          4  1  2  4   Ausmus B, c           4  0  1  0   
+Justice D, rf         5  0  0  0   Higginson B, lf       4  1  1  0   
+Thome J, 1b           4  1  1  1   Gonzalez J, rf        3  0  0  0   
+Fryman T, 3b          5  0  2  0   Clark T, 1b           3  1  1  0   
+Branyan R, dh         5  1  1  0   Becker R, cf          3  1  1  3   
+Sexson R, lf          4  2  2  0   Polonia L, dh         4  1  1  0   
+Alomar S, c           4  2  2  1   Cruz D, ss            4  0  2  1   
+                                   Halter S, 3b          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     39  9 13  7                        34  4  8  4
+
+Cleveland        000 001 350 --  9
+Detroit          021 001 000 --  4
+
+  Cleveland            IP  H  R ER BB SO
+Navarro J             5.1  8  4  4  2  4
+Speier J (W)          3.2  0  0  0  0  7
+
+  Detroit              IP  H  R ER BB SO
+Blair W               5.2  4  1  1  1  6
+Anderson M            0.2  4  3  3  0  2
+Patterson D (L)       1.0  4  3  3  0  0
+McDill A              0.2  1  2  1  1  0
+Mlicki D              1.0  0  0  0  1  0
+
+E -- Justice D, Higginson B, Ausmus B
+DP -- Detroit 1
+LOB -- Cleveland 7, Detroit 6
+2B -- Fryman T, Polonia L, Alomar S, Alomar R
+3B -- Cruz D
+HR -- Becker R, Thome J
+SB -- Lofton K, Alomar R
+SF -- Becker R
+HBP -- by Blair W (Alomar R)
+T -- 3:04
+A -- 39123
+     Game of 6/27/2000 -- New York at Detroit (N)
+
+  New York           AB  R  H RBI    Detroit            AB  R  H RBI
+Knoblauch C, 2b       6  1  3  0   Polonia L, rf         4  1  3  0   
+Jeter D, ss           6  0  2  1   Becker R, rf          2  0  0  0   
+O'Neill P, rf         5  0  1  1   Ausmus B, c           6  1  1  0   
+Williams B, cf        5  1  2  0   Higginson B, lf       6  2  4  1   
+Martinez T, 1b        4  2  2  0   Gonzalez J, dh        6  0  0  0   
+Spencer S, lf         4  1  0  1   Clark T, 1b           3  2  2  1   
+Ledee R, dh           3  0  1  0   Halter S, pr-3b       1  0  0  0   
+Posada J, ph          1  0  1  0   Palmer D, 3b          5  1  2  4   
+Turner C, c           4  0  1  1   Fick R, 1b            1  0  0  1   
+Vizcaino J, 3b        5  1  2  1   Easley D, 2b          4  0  3  0   
+                                   Encarnacion J, cf     5  0  2  0   
+                                   Cruz D, ss            5  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     43  6 15  5                        48  7 17  7
+
+New York         000 300 210 00 --  6
+Detroit          000 150 000 01 --  7
+  1 out when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Cone D                4.1 11  6  6  1  4
+Grimsley J            2.2  5  0  0  0  1
+Stanton M             1.0  0  0  0  0  0
+Nelson J              2.0  0  0  0  2  2
+Rivera M (L)          0.1  1  1  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Nomo H                5.1  9  3  3  5  3
+Nitkowski C           1.0  2  2  1  1  2
+Anderson M            0.2  0  0  0  0  1
+Brocail D             1.1  3  1  1  1  0
+Jones T               1.2  0  0  0  0  1
+Cruz N (W)            1.0  1  0  0  0  1
+
+E -- Higginson B, Jeter D
+DP -- New York 1, Detroit 3
+LOB -- New York 12, Detroit 13
+2B -- Higginson B, Polonia L, Easley D 2, Knoblauch C
+HR -- Clark T, Palmer D
+SB -- Higginson B, Ausmus B, Halter S
+CS -- Williams B
+SF -- O'Neill P
+T -- 4:16
+A -- 37512
+     Game of 6/28/2000 -- New York at Detroit (N)
+
+  New York           AB  R  H RBI    Detroit            AB  R  H RBI
+Knoblauch C, 2b       5  0  2  1   Polonia L, dh         5  1  1  2   
+Jeter D, ss           5  1  2  1   Becker R, rf          4  1  1  1   
+O'Neill P, rf         5  1  1  0   Higginson B, lf       3  1  0  0   
+Williams B, cf        4  1  2  3   Magee W, lf           0  0  0  0   
+Martinez T, 1b        4  0  0  0   Clark T, 1b           5  1  2  3   
+Posada J, c           3  0  0  0   Palmer D, 3b          2  1  0  0   
+Spencer S, dh         4  1  1  0   Halter S, 3b          2  0  1  0   
+Ledee R, lf           4  1  1  0   Easley D, 2b          5  0  0  0   
+Brosius S, 3b         2  0  1  1   Ausmus B, c           3  2  1  0   
+Vizcaino J, pr-3b     2  1  1  0   Fick R, c             0  0  0  0   
+                                   Encarnacion J, cf     3  3  3  4   
+                                   Cruz D, ss            4  3  3  3   
+                     -- -- -- --                        -- -- -- --
+                     38  6 11  6                        36 13 12 13
+
+New York         001 021 020 --  6
+Detroit          236 020 00x -- 13
+
+  New York             IP  H  R ER BB SO
+Ford B (L)*           2.0  6  7  7  2  0
+Watson A              4.0  5  6  6  3  2
+Erdos T               2.0  1  0  0  1  1
+
+  Detroit              IP  H  R ER BB SO
+Blair W (W)           6.0  7  4  4  0  3
+Sparks S (S)          3.0  4  2  2  1  0
+  * Pitched to 2 batters in 3rd
+
+E -- Knoblauch C, Halter S
+DP -- New York 1, Detroit 1
+LOB -- New York 6, Detroit 5
+2B -- Becker R, Clark T, Knoblauch C, Brosius S, Williams B
+3B -- Ausmus B, Cruz D
+HR -- Clark T, Encarnacion J, Polonia L, Cruz D, Williams B
+WP -- Sparks S
+T -- 2:45
+A -- 39212
+     Game of 6/29/2000 -- New York at Detroit (N)
+
+  New York           AB  R  H RBI    Detroit            AB  R  H RBI
+Knoblauch C, dh       5  1  3  1   Polonia L, dh         4  0  0  0   
+Jeter D, ss           5  1  3  2   Ausmus B, c           4  0  1  0   
+O'Neill P, rf         5  1  2  0   Higginson B, lf       4  0  0  0   
+Williams B, cf        4  1  1  2   Palmer D, 3b          3  0  1  0   
+Martinez T, 1b        3  0  0  1   Magee W, rf           4  0  0  0   
+Spencer S, lf         5  1  2  0   Easley D, 2b          4  0  1  0   
+Brosius S, 3b         4  1  1  0   Encarnacion J, cf     2  0  1  0   
+Turner C, c           4  1  2  1   Fick R, 1b            3  0  0  0   
+Vizcaino J, 2b        3  1  0  1   Cruz D, ss            3  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 14  8                        31  0  6  0
+
+New York         000 800 000 --  8
+Detroit          000 000 000 --  0
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        9.0  6  0  0  2  5
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (L)          3.1  9  7  6  0  0
+Cruz N                4.1  4  1  1  1  3
+Brocail D             0.1  1  0  0  0  0
+Anderson M            1.0  0  0  0  0  0
+
+E -- Higginson B
+DP -- New York 2, Detroit 1
+LOB -- New York 7, Detroit 6
+2B -- Knoblauch C, Turner C, Jeter D
+3B -- Williams B
+SF -- Martinez T, Vizcaino J, Williams B
+WP -- Cruz N
+T -- 2:39
+A -- 39586
+     Game of 7/13/2000 -- Houston at Detroit (N)
+
+  Houston            AB  R  H RBI    Detroit            AB  R  H RBI
+Lugo J, ss            5  0  2  0   Polonia L, dh         3  1  1  2   
+Biggio C, 2b          3  0  1  0   Becker R, rf          3  3  2  1   
+Bagwell J, 1b         3  0  0  0   Higginson B, lf       4  0  1  1   
+Berkman L, rf         4  1  2  0   Palmer D, 3b          4  0  3  3   
+Alou M, lf            4  0  2  0   Clark T, 1b           4  0  1  0   
+Hidalgo R, cf         4  1  1  1   Halter S, 1b          0  0  0  0   
+Meluskey M, c         3  0  1  0   Easley D, 2b          4  0  0  0   
+Ward D, dh            4  0  2  1   Ausmus B, c           3  2  1  0   
+Truby C, 3b           4  0  0  0   Encarnacion J, cf     4  1  1  0   
+                                   Cruz D, ss            4  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2 11  2                        33  8 12  7
+
+Houston          000 100 010 --  2
+Detroit          201 400 01x --  8
+
+  Houston              IP  H  R ER BB SO
+Reynolds S (L)        3.1  7  7  7  2  2
+Slusarski J           3.2  3  0  0  0  2
+Cabrera J             1.0  2  1  1  1  2
+
+  Detroit              IP  H  R ER BB SO
+Moehler B (W)         9.0 11  2  2  2  1
+
+E -- Truby C, Cruz D, Berkman L
+DP -- Houston 2, Detroit 3
+LOB -- Houston 8, Detroit 7
+2B -- Lugo J, Becker R 2, Berkman L, Cruz D
+SB -- Hidalgo R
+SH -- Biggio C
+SF -- Polonia L 2
+HBP -- by Reynolds S (Ausmus B)
+T -- 2:35
+A -- 30226
+     Game of 7/14/2000 -- Houston at Detroit (N)
+
+  Houston            AB  R  H RBI    Detroit            AB  R  H RBI
+Spiers B, 3b          5  1  1  0   Polonia L, dh         4  1  2  0   
+Biggio C, 2b          5  1  3  1   Becker R, rf          2  1  1  1   
+Bagwell J, 1b         2  1  0  0   Higginson B, lf       4  1  3  2   
+Berkman L, rf         5  1  2  1   Palmer D, 3b          4  0  1  1   
+Barker G, cf          0  0  0  0   Clark T, 1b           3  0  0  0   
+Alou M, lf            4  1  2  1   Halter S, 1b          1  0  1  0   
+Hidalgo R, cf-rf      5  3  3  2   Easley D, 2b          4  0  0  0   
+Meluskey M, c         4  1  2  2   Ausmus B, c           2  0  0  0   
+Ward D, dh            4  0  0  0   Cardona J, c          1  0  1  0   
+Lugo J, ss            4  0  0  0   Encarnacion J, cf     4  0  0  0   
+Bogar T, ss           0  0  0  0   Cruz D, ss            3  1  1  0   
+                                   Magee W, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 13  7                        33  4 10  4
+
+Houston          001 430 100 --  9
+Detroit          200 000 020 --  4
+
+  Houston              IP  H  R ER BB SO
+Holt C (W)            7.2  9  4  4  2  5
+Valdes M              1.1  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Nomo H (L)            4.2  9  8  6  1  5
+Nitkowski C           1.1  2  0  0  1  2
+Anderson M            1.1  1  1  1  0  2
+Brocail D             0.2  0  0  0  0  0
+Jones T               1.0  1  0  0  1  1
+
+E -- Bagwell J, Palmer D
+DP -- Houston 3, Detroit 1
+LOB -- Houston 6, Detroit 5
+2B -- Becker R, Higginson B, Spiers B, Biggio C, Polonia L
+3B -- Biggio C
+HR -- Berkman L, Meluskey M, Hidalgo R
+CS -- Ausmus B
+SF -- Alou M, Becker R
+WP -- Nomo H
+T -- 2:57
+A -- 38119
+     Game of 7/15/2000 -- Houston at Detroit (D)
+
+  Houston            AB  R  H RBI    Detroit            AB  R  H RBI
+Spiers B, 3b-2b       4  0  1  0   Polonia L, dh         5  2  3  2   
+Biggio C, 2b          4  0  0  0   Becker R, rf          4  1  1  1   
+Truby C, 3b           1  0  0  0   Higginson B, lf       5  1  2  0   
+Bagwell J, dh         3  1  1  0   Palmer D, 3b          4  2  2  1   
+Berkman L, rf         5  1  2  0   Cruz D, ss            4  1  2  2   
+Alou M, lf            4  1  2  1   Encarnacion J, cf     4  1  0  0   
+Barker G, cf          0  0  0  0   Ausmus B, c           3  2  3  3   
+Hidalgo R, cf-lf      3  1  1  2   Easley D, 2b          4  1  2  1   
+Ward D, 1b            4  1  2  1   Halter S, 1b          3  0  0  1   
+Eusebio T, c          4  1  1  2                                      
+Bogar T, ss           4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  6 11  6                        36 11 15 11
+
+Houston          000 401 010 --  6
+Detroit          010 021 70x -- 11
+
+  Houston              IP  H  R ER BB SO
+Lima J                6.0 10  4  4  1  1
+Perez Y*              0.0  1  1  1  0  0
+Henry D (L)+          0.0  1  3  3  2  0
+Valdes M#             0.0  2  2  2  0  0
+Cabrera J             2.0  1  1  1  0  1
+
+  Detroit              IP  H  R ER BB SO
+Blair W               5.1  7  5  5  2  3
+Nitkowski C**         0.2  1  0  0  1  1
+Patterson D (W)       2.0  2  1  1  0  1
+Cruz N                1.0  1  0  0  0  2
+  * Pitched to 1 batter in 7th
+  + Pitched to 3 batters in 7th
+  # Pitched to 2 batters in 7th
+  ** Pitched to 1 batter in 7th
+
+E -- Becker R
+DP -- Detroit 1
+LOB -- Houston 7, Detroit 7
+2B -- Bagwell J, Palmer D, Alou M, Ward D, Ausmus B, Higginson B
+3B -- Polonia L
+HR -- Eusebio T, Hidalgo R
+SF -- Hidalgo R, Cruz D, Halter S, Becker R
+T -- 3:01
+A -- 39189
+     Game of 7/16/2000 -- Cincinnati at Detroit (D)
+
+  Cincinnati         AB  R  H RBI    Detroit            AB  R  H RBI
+Stynes C, 3b          4  2  2  0   Polonia L, dh         4  0  0  0   
+Larkin B, ss          5  0  3  1   Becker R, rf          4  0  0  0   
+Griffey K, cf         5  0  0  1   Higginson B, lf       4  2  3  1   
+Bichette D, rf        5  0  1  0   Palmer D, 3b          4  0  1  0   
+Casey S, 1b           4  0  1  0   Cruz D, ss            4  2  2  1   
+Young D, dh           3  0  2  0   Encarnacion J, cf     3  1  2  2   
+Tucker M, lf          2  0  0  0   Ausmus B, c           4  0  1  0   
+Ochoa A, ph-lf        1  0  0  0   Easley D, 2b          3  1  0  0   
+Reese P, 2b           4  0  1  0   Halter S, 1b          3  0  1  2   
+Taubensee E, c        4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  2 10  2                        33  6 10  6
+
+Cincinnati       001 010 000 --  2
+Detroit          000 420 00x --  6
+
+  Cincinnati           IP  H  R ER BB SO
+Parris S (L)          4.2  7  6  6  2  4
+Larkin A              0.2  1  0  0  1  0
+Villone R             1.2  1  0  0  0  2
+Winchester S          1.0  1  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (W)          5.1  9  2  2  3  2
+Nitkowski C           1.2  0  0  0  0  2
+Anderson M            1.0  0  0  0  0  0
+Brocail D             1.0  1  0  0  0  0
+
+E -- Tucker M, Brocail D
+DP -- Cincinnati 1, Detroit 1
+LOB -- Cincinnati 12, Detroit 6
+2B -- Young D 2, Higginson B, Encarnacion J 2, Halter S, Stynes C, Cruz D
+HR -- Higginson B
+SB -- Encarnacion J, Easley D, Ausmus B
+HBP -- by Weaver J (Casey S)
+T -- 2:57
+A -- 40637
+     Game of 7/17/2000 -- Cincinnati at Detroit (N)
+
+  Cincinnati         AB  R  H RBI    Detroit            AB  R  H RBI
+Stynes C, 3b          5  0  2  0   Polonia L, dh         3  1  2  0   
+Larkin B, ss          4  0  2  0   Becker R, rf          2  0  1  2   
+Griffey K, cf         4  0  0  0   Magee W, ph-rf        1  0  1  0   
+Bichette D, rf        4  1  1  0   Higginson B, lf       4  0  0  0   
+Casey S, 1b           4  0  2  0   Palmer D, 3b          3  0  1  0   
+Young D, lf           4  0  2  1   Cruz D, ss            4  0  0  0   
+Morris H, dh          4  0  0  0   Encarnacion J, cf     4  0  0  0   
+Reese P, 2b           4  0  0  0   Ausmus B, c           3  0  0  0   
+Santiago B, c         0  0  0  0   Easley D, 2b          3  1  2  0   
+Taubensee E, c        3  0  1  0   Halter S, 1b          3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     36  1 10  1                        30  3  8  3
+
+Cincinnati       000 001 000 --  1
+Detroit          030 000 00x --  3
+
+  Cincinnati           IP  H  R ER BB SO
+Luebbers L (L)        6.2  7  3  3  3  1
+Reyes D               0.1  1  0  0  0  0
+Sullivan S            1.0  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (W)          6.1  8  1  1  2  3
+Nitkowski C           0.2  0  0  0  0  0
+Brocail D             1.0  1  0  0  0  2
+Jones T (S)           1.0  1  0  0  0  0
+
+DP -- Cincinnati 1, Detroit 1
+LOB -- Cincinnati 10, Detroit 6
+2B -- Polonia L, Larkin B, Bichette D
+3B -- Easley D, Palmer D
+SB -- Easley D
+WP -- Luebbers L
+T -- 2:23
+A -- 35217
+     Game of 7/18/2000 -- Cincinnati at Detroit (N)
+
+  Cincinnati         AB  R  H RBI    Detroit            AB  R  H RBI
+Stynes C, 3b          5  1  3  1   Polonia L, dh         4  1  2  1   
+Castro J, 3b          0  0  0  0   Becker R, rf          4  0  0  0   
+Larkin B, ss          5  0  2  0   Higginson B, lf       5  0  2  1   
+Griffey K, cf         5  0  1  0   Palmer D, 3b          5  0  0  0   
+Bichette D, rf        4  1  2  1   Cruz D, ss            4  0  2  0   
+Casey S, 1b           4  0  1  0   Encarnacion J, cf     3  1  1  0   
+Young D, dh           4  2  3  2   Ausmus B, c           3  2  2  1   
+Ochoa A, lf           3  0  1  0   Easley D, 2b          4  0  1  1   
+Taubensee E, c        4  0  1  0   Halter S, 1b          3  0  0  0   
+Reese P, 2b           4  1  1  1   Macias J, ph          1  0  0  0   
+                                   Munson E, 1b          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  5 15  5                        36  4 10  4
+
+Cincinnati       201 002 000 --  5
+Detroit          001 201 000 --  4
+
+  Cincinnati           IP  H  R ER BB SO
+Dessens E (W)         5.2  7  4  4  3  0
+Reyes D               0.2  1  0  0  0  2
+Sullivan S            1.2  1  0  0  0  4
+Graves D (S)          1.0  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Moehler B (L)         6.0 12  5  5  0  4
+Patterson D           2.0  3  0  0  1  0
+Anderson M            1.0  0  0  0  0  0
+
+E -- Bichette D
+DP -- Cincinnati 1, Detroit 3
+LOB -- Cincinnati 7, Detroit 9
+2B -- Stynes C, Higginson B, Ausmus B, Reese P, Polonia L
+HR -- Young D
+HBP -- by Dessens E (Encarnacion J)
+T -- 3:04
+A -- 38255
+     Game of 7/21/2000 -- Kansas City at Detroit (N)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+Damon J, cf           5  1  3  0   Easley D, 2b          3  0  0  0   
+Sanchez R, ss         4  0  0  1   Becker R, rf          4  0  1  0   
+Sweeney M, 1b         4  1  0  0   Higginson B, lf       4  0  1  0   
+Dye J, rf             4  1  2  1   Palmer D, 3b          4  0  1  0   
+Randa J, 3b           4  1  3  0   Polonia L, dh         4  0  2  0   
+Quinn M, dh           3  0  0  0   Cruz D, ss            4  0  0  0   
+Dunwoody T, lf        2  0  0  1   Ausmus B, c           3  0  0  0   
+Zaun G, c             4  0  1  1   Encarnacion J, cf     3  0  0  0   
+Febles C, 2b          4  0  0  0   Morris H, 1b          3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        32  0  6  0
+
+Kansas City      101 002 000 --  4
+Detroit          000 000 000 --  0
+
+  Kansas City          IP  H  R ER BB SO
+Reichert D (W)        9.0  6  0  0  2  7
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (L)          8.2  9  4  3  2  5
+Anderson M            0.1  0  0  0  1  1
+
+E -- Weaver J, Becker R, Easley D
+DP -- Kansas City 1
+LOB -- Kansas City 8, Detroit 7
+2B -- Randa J, Damon J
+3B -- Dye J
+SB -- Easley D, Polonia L
+CS -- Zaun G
+SH -- Quinn M
+SF -- Dunwoody T
+Balk -- Weaver J
+T -- 2:40
+A -- 38738
+     Game of 7/22/2000, game 1 -- Kansas City at Detroit (D)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+Damon J, cf           5  0  0  0   Easley D, 2b          4  0  0  0   
+Febles C, 2b          5  0  1  1   Becker R, rf          4  2  1  0   
+Sweeney M, 1b         3  1  1  0   Higginson B, lf       3  1  2  1   
+Dye J, rf             5  1  2  0   Palmer D, dh          4  0  2  1   
+Randa J, 3b           3  2  1  0   Cruz D, ss            5  0  1  1   
+Quinn M, lf           4  1  2  2   Encarnacion J, cf     4  2  3  0   
+Dunwoody T, dh        4  1  0  0   Ausmus B, c           3  0  0  0   
+Zaun G, c             5  1  2  3   Halter S, 3b          2  0  0  0   
+Ordaz L, ss           4  1  2  2   Macias J, ph-3b       1  0  0  1   
+                                   Munson E, 1b          3  0  0  1   
+                                   Morris H, ph-1b       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 11  8                        34  5  9  5
+
+Kansas City      000 114 101 --  8
+Detroit          000 120 011 --  5
+
+  Kansas City          IP  H  R ER BB SO
+Witasick J (W)        7.0  6  3  3  6  5
+Spradlin J            1.1  3  2  2  1  0
+Bottalico R (S)       0.2  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (L)*         5.0  6  5  5  3  1
+Patterson D           1.0  2  1  1  1  2
+Anderson M            2.1  3  2  1  1  1
+Cruz N                0.2  0  0  0  0  0
+  * Pitched to 3 batters in 6th
+
+E -- Munson E
+DP -- Kansas City 1, Detroit 1
+LOB -- Kansas City 9, Detroit 10
+2B -- Higginson B, Zaun G, Quinn M
+3B -- Encarnacion J
+SB -- Encarnacion J, Easley D, Higginson B, Ordaz L
+SH -- Halter S
+HBP -- by Mlicki D (Quinn M)
+WP -- Witasick J, Anderson M
+T -- 3:24
+A -- 36917
+     Game of 7/22/2000, game 2 -- Kansas City at Detroit (N)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+Damon J, cf           2  1  2  2   Polonia L, rf         3  1  1  0   
+Sanchez R, ss         4  0  0  0   Ausmus B, ph-c        0  1  0  0   
+Sweeney M, dh         3  0  0  0   Macias J, 2b          4  2  2  4   
+Dye J, rf             4  0  0  0   Higginson B, dh       3  1  1  2   
+Randa J, 3b           4  0  2  0   Palmer D, 3b          5  1  1  0   
+Quinn M, lf           4  0  0  0   Cruz D, ss            5  1  3  2   
+McCarty D, 1b         4  0  0  0   Magee W, lf           5  0  2  0   
+Ortiz H, c            4  3  3  0   Encarnacion J, cf     5  1  2  1   
+Reboulet J, 2b        2  2  1  1   Morris H, 1b          3  1  1  0   
+Pose S, ph            1  0  0  0   Cardona J, c          3  0  0  0   
+                                   Becker R, ph-rf       1  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     32  6  8  3                        37 10 14 10
+
+Kansas City      003 020 100 --  6
+Detroit          000 140 50x -- 10
+
+  Kansas City          IP  H  R ER BB SO
+Durbin C              4.1  8  5  5  2  2
+Bochtler D (L)        2.1  5  3  3  2  0
+Byrdak T*             0.0  1  2  2  2  0
+Larkin A              1.1  0  0  0  0  3
+
+  Detroit              IP  H  R ER BB SO
+Sparks S+             5.0  6  5  2  2  3
+Blair W               1.0  0  0  0  0  0
+Cruz N (W)            3.0  2  1  1  0  5
+  * Pitched to 3 batters in 7th
+  + Pitched to 1 batter in 6th
+
+E -- Sparks S
+DP -- Kansas City 1, Detroit 2
+LOB -- Kansas City 3, Detroit 9
+2B -- Cruz D 2, Ortiz H 2, Macias J
+HR -- Macias J
+SB -- Higginson B, Polonia L
+SH -- Damon J
+SF -- Damon J
+WP -- Durbin C, Sparks S
+PB -- Cardona J
+T -- 3:08
+A -- 35046
+     Game of 7/23/2000 -- Kansas City at Detroit (D)
+
+  Kansas City        AB  R  H RBI    Detroit            AB  R  H RBI
+Damon J, cf           5  2  2  1   Polonia L, dh         6  0  2  3   
+Sanchez R, ss         4  0  1  1   Becker R, rf          2  1  0  0   
+Sweeney M, 1b         4  2  2  1   Macias J, ph-rf       1  1  0  0   
+Dye J, dh             4  1  2  1   Magee W, rf           0  0  0  0   
+Quinn M, lf           5  1  2  2   Higginson B, lf       4  1  2  2   
+Dunwoody T, rf        5  0  1  1   Palmer D, 3b          4  0  1  1   
+Zaun G, c             5  1  2  2   Halter S, 3b          0  0  0  0   
+Reboulet J, 3b        3  0  0  0   Cruz D, ss            4  1  0  0   
+Randa J, ph           1  0  0  0   Encarnacion J, cf     5  2  2  0   
+Febles C, 2b          3  2  1  0   Ausmus B, c           4  3  3  3   
+                                   Easley D, 2b          5  2  2  1   
+                                   Morris H, 1b          4  1  2  2   
+                     -- -- -- --                        -- -- -- --
+                     39  9 13  9                        39 12 14 12
+
+Kansas City      300 105 000 --  9
+Detroit          000 211 62x -- 12
+
+  Kansas City          IP  H  R ER BB SO
+Stein B               5.1  6  4  4  4  6
+Larkin A              0.2  1  0  0  1  0
+Spradlin J            0.1  4  5  5  1  0
+Byrdak T (L)          0.1  1  1  1  0  0
+Bottalico R           1.1  2  2  2  1  1
+
+  Detroit              IP  H  R ER BB SO
+Moehler B             5.2  8  7  4  3  3
+Hiljus E              0.2  3  2  2  1  0
+Brocail D (W)         1.1  1  0  0  0  1
+Jones T (S)           1.1  1  0  0  0  1
+
+E -- Palmer D 2
+DP -- Detroit 1
+LOB -- Kansas City 8, Detroit 10
+2B -- Zaun G, Damon J, Ausmus B, Dye J, Easley D, Morris H
+3B -- Polonia L
+HR -- Zaun G, Ausmus B, Higginson B
+SB -- Polonia L
+CS -- Febles C
+SF -- Sanchez R
+WP -- Stein B 2
+T -- 3:40
+A -- 36413
+     Game of 7/24/2000 -- Tampa Bay at Detroit (N)
+
+  Tampa Bay          AB  R  H RBI    Detroit            AB  R  H RBI
+Williams G, cf        3  1  1  1   Polonia L, dh         4  0  1  0   
+Johnson R, 3b         4  1  1  0   Becker R, rf          4  0  0  0   
+Vaughn G, lf          5  0  3  2   Encarnacion J, cf     4  1  1  0   
+McGriff F, 1b         5  0  2  0   Higginson B, lf       4  0  0  1   
+Canseco J, dh         3  0  0  0   Cruz D, ss            4  0  1  0   
+Cox S, rf             2  0  1  0   Morris H, 1b          3  1  1  0   
+Guillen J, ph-rf      2  0  0  0   Ausmus B, c           3  0  1  1   
+Flaherty J, c         4  0  1  0   Easley D, 2b          2  0  0  0   
+Cairo M, 2b           3  1  1  0   Halter S, 3b          2  0  0  0   
+Martinez F, ss        1  1  0  0   Macias J, ph-3b       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4 10  3                        31  2  5  2
+
+Tampa Bay        003 000 010 --  4
+Detroit          000 200 000 --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Lopez A (W)           7.0  5  2  2  2  1
+Mecir J               1.0  0  0  0  0  1
+Hernandez R (S)       1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Nomo H (L)            6.1  8  3  3  5  3
+Nitkowski C           1.2  1  1  1  2  1
+Anderson M            1.0  1  0  0  0  1
+
+DP -- Detroit 3
+LOB -- Tampa Bay 11, Detroit 4
+2B -- McGriff F
+3B -- Encarnacion J, Ausmus B
+SB -- Martinez F, Cairo M 2
+CS -- Cruz D, Cairo M
+SH -- Johnson R, Martinez F
+HBP -- by Nomo H (Martinez F)
+WP -- Nomo H
+T -- 2:52
+A -- 28102
+     Game of 7/25/2000 -- Tampa Bay at Detroit (N)
+
+  Tampa Bay          AB  R  H RBI    Detroit            AB  R  H RBI
+Williams G, cf        5  0  2  1   Polonia L, dh         3  0  0  1   
+Johnson R, 3b         5  0  0  0   Palmer D, ph          0  1  0  0   
+Vaughn G, lf          4  1  1  0   Becker R, rf          3  1  1  0   
+McGriff F, 1b         3  1  2  0   Magee W, ph-rf        1  0  1  0   
+Canseco J, dh         3  1  2  1   Higginson B, lf       2  1  1  1   
+Trammell B, pr        0  0  0  0   Cruz D, ss            4  0  2  2   
+Cox S, rf             3  0  1  2   Ausmus B, c           3  0  0  0   
+Flaherty J, c         4  0  0  0   Encarnacion J, cf     3  1  0  0   
+Cairo M, 2b           4  1  1  0   Morris H, 1b          4  1  2  0   
+Martinez F, ss        3  0  0  0   Easley D, 2b          4  1  2  1   
+Guillen J, ph         0  0  0  0   Halter S, 3b          4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  4  9  4                        31  6 10  6
+
+Tampa Bay        010 011 010 --  4
+Detroit          210 100 11x --  6
+
+  Tampa Bay            IP  H  R ER BB SO
+Trachsel S (L)        4.2  7  4  4  3  4
+White R               1.1  1  0  0  0  0
+Creek D               2.0  2  2  2  1  0
+
+  Detroit              IP  H  R ER BB SO
+Blair W (W)           6.0  8  3  3  1  1
+Cruz N                1.0  0  0  0  0  0
+Brocail D             1.0  1  1  1  2  1
+Jones T (S)           1.0  0  0  0  0  1
+
+E -- Williams G
+DP -- Tampa Bay 2, Detroit 2
+LOB -- Tampa Bay 7, Detroit 6
+2B -- Becker R, Canseco J 2, Easley D, Higginson B, Vaughn G
+3B -- Cruz D
+HR -- Easley D
+SB -- Encarnacion J, Higginson B
+SF -- Higginson B
+HBP -- by Jones T (Guillen J)
+T -- 3:06
+A -- 26271
+     Game of 7/26/2000 -- Tampa Bay at Detroit (N)
+
+  Tampa Bay          AB  R  H RBI    Detroit            AB  R  H RBI
+Williams G, cf        5  1  2  1   Easley D, 2b          4  1  2  1   
+Guillen O, 2b         4  1  0  0   Becker R, rf          3  0  0  0   
+Cairo M, 2b           1  0  0  0   Magee W, ph-rf        1  0  0  0   
+Vaughn G, lf          4  0  0  0   Higginson B, lf       4  0  0  0   
+McGriff F, 1b         4  1  2  2   Gonzalez J, dh        3  1  1  0   
+Canseco J, dh         4  0  1  0   Cruz D, ss            4  0  2  1   
+Cox S, rf             3  1  2  2   Morris H, 1b          2  0  0  0   
+Guillen J, ph-rf      1  0  0  0   Palmer D, ph          1  0  0  0   
+Castilla V, 3b        4  0  1  0   Encarnacion J, cf     4  0  0  0   
+DiFelice M, c         4  0  1  0   Halter S, 3b          2  0  0  0   
+Martinez F, ss        3  2  1  0   Macias J, ph-3b       1  0  0  0   
+                                   Cardona J, c          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 10  5                        32  2  5  2
+
+Tampa Bay        000 012 300 --  6
+Detroit          200 000 000 --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Yan E (W)             6.0  3  2  2  1  7
+White R               1.2  1  0  0  0  0
+Guthrie M             0.2  1  0  0  1  0
+Hernandez R (S)       0.2  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (L)          6.0  8  3  3  0  4
+Anderson M            0.1  1  3  2  2  0
+Nitkowski C           1.2  1  0  0  0  3
+Sparks S              1.0  0  0  0  0  0
+
+E -- Morris H
+DP -- Detroit 1
+LOB -- Tampa Bay 6, Detroit 5
+2B -- Gonzalez J, DiFelice M, Martinez F
+HR -- Easley D, Cox S
+SB -- Guillen O, Williams G
+WP -- Anderson M
+T -- 3:03
+A -- 32884
+     Game of 8/4/2000 -- Minnesota at Detroit (N)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Guzman C, ss          5  0  1  0   Easley D, 2b          4  0  1  0   
+Canizaro J, 2b        5  0  1  0   Ausmus B, c           4  0  0  0   
+Cummings M, rf        3  1  1  0   Higginson B, lf       4  0  0  0   
+Hocking D, ph-rf      2  0  0  0   Gonzalez J, dh        4  0  0  0   
+Coomer R, 1b          5  0  1  0   Palmer D, 1b          4  1  1  0   
+Ortiz D, dh           2  1  1  1   Magee W, rf           3  0  1  0   
+Koskie C, 3b          4  0  1  0   Encarnacion J, cf     2  0  0  1   
+Hunter T, cf          3  1  1  0   Cruz D, ss            3  0  1  0   
+Jones J, lf           4  0  1  0   Halter S, 3b          2  0  0  0   
+Moeller C, c          3  0  1  0                                      
+Lawton M, ph          1  0  1  2                                      
+Ardoin D, pr-c        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  3 10  3                        30  1  4  1
+
+Minnesota        000 100 020 --  3
+Detroit          000 010 000 --  1
+
+  Minnesota            IP  H  R ER BB SO
+Milton E (W)          7.0  4  1  1  1  3
+Wells B (S)           2.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Blair W               6.2  8  1  1  1  5
+Nitkowski C (L)       1.0  1  2  0  1  2
+Cruz N                0.1  1  0  0  0  0
+Anderson M            1.0  0  0  0  0  0
+
+E -- Palmer D, Halter S
+LOB -- Minnesota 10, Detroit 4
+2B -- Cummings M, Hunter T, Ortiz D
+SB -- Canizaro J
+SF -- Ortiz D, Encarnacion J
+T -- 2:42
+A -- 39745
+     Game of 8/5/2000 -- Minnesota at Detroit (N)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Hocking D, 3b         3  1  1  2   McMillon B, dh        3  2  2  2   
+Guzman C, ss          5  0  1  0   Macias J, 2b          3  0  0  0   
+Cummings M, rf        4  0  1  0   Higginson B, lf       4  1  2  0   
+Coomer R, 1b          4  0  0  0   Gonzalez J, rf        4  0  0  0   
+Ortiz D, dh           4  1  1  0   Palmer D, 3b          3  0  0  0   
+Hunter T, cf          3  1  1  0   Morris H, 1b          3  0  0  0   
+Jones J, lf           4  0  1  1   Encarnacion J, cf     3  0  1  1   
+Canizaro J, 2b        3  0  1  0   Cruz D, ss            3  0  0  0   
+Lawton M, ph          1  0  0  0   Cardona J, c          2  1  1  1   
+Moeller C, c          3  0  1  0   Becker R, ph          0  0  0  0   
+Koskie C, ph          1  0  1  0   Ausmus B, c           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  3                        28  4  6  4
+
+Minnesota        010 011 000 --  3
+Detroit          001 021 00x --  4
+
+  Minnesota            IP  H  R ER BB SO
+Mays J (L)            5.2  6  4  4  2  2
+Carrasco H            1.1  0  0  0  1  0
+Hawkins L             1.0  0  0  0  1  2
+
+  Detroit              IP  H  R ER BB SO
+Sparks S (W)          6.0  7  3  3  2  1
+Nitkowski C           0.2  1  0  0  0  1
+Anderson M            0.1  0  0  0  0  0
+Brocail D             1.0  0  0  0  0  1
+Jones T (S)           1.0  1  0  0  1  1
+
+E -- Cardona J
+DP -- Minnesota 1, Detroit 1
+LOB -- Minnesota 8, Detroit 5
+3B -- Jones J
+HR -- McMillon B 2, Hocking D, Cardona J
+SB -- Guzman C
+CS -- Koskie C
+SH -- McMillon B
+PB -- Cardona J
+T -- 2:30
+A -- 39592
+     Game of 8/6/2000 -- Minnesota at Detroit (D)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Hocking D, 2b         5  0  2  2   Easley D, 2b          5  1  2  0   
+Guzman C, ss          4  0  1  0   Ausmus B, c           5  0  2  0   
+Cummings M, rf        5  0  0  0   Higginson B, lf       5  0  0  0   
+Coomer R, dh          5  2  3  0   Gonzalez J, dh        4  0  1  1   
+Ortiz D, 1b           4  2  1  0   Palmer D, 1b-3b       4  1  2  0   
+Koskie C, 3b          3  2  1  2   Magee W, rf           2  0  1  0   
+Hunter T, cf          3  0  2  3   McMillon B, ph-rf     0  1  0  0   
+Jones J, lf           3  1  0  0   Encarnacion J, cf     4  0  1  1   
+Ardoin D, c           3  0  0  0   Cruz D, ss            4  0  1  1   
+                                   Halter S, 3b          1  0  0  0   
+                                   Morris H, ph-1b       2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7 10  7                        36  3 10  3
+
+Minnesota        023 020 000 --  7
+Detroit          100 000 020 --  3
+
+  Minnesota            IP  H  R ER BB SO
+Romero J (W)          6.0  6  1  1  2  4
+Ryan J                1.2  3  2  2  1  0
+Guardado E            1.0  1  0  0  0  0
+Hawkins L             0.1  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (L)          4.1  8  7  6  2  5
+Nitkowski C           2.2  0  0  0  0  2
+Anderson M            2.0  2  0  0  2  2
+
+E -- Hocking D, Ausmus B
+DP -- Detroit 1
+LOB -- Minnesota 8, Detroit 10
+2B -- Koskie C, Hocking D, Encarnacion J
+3B -- Guzman C
+SF -- Gonzalez J, Hunter T
+HBP -- by Weaver J (Koskie C)
+T -- 2:56
+A -- 34290
+     Game of 8/7/2000 -- Baltimore at Detroit (N)
+
+  Baltimore          AB  R  H RBI    Detroit            AB  R  H RBI
+Anderson B, lf        1  2  1  1   Easley D, 2b          4  0  2  0   
+Mora M, ss            4  0  1  0   Ausmus B, c           4  0  1  1   
+DeShields D, 2b       4  0  1  1   Higginson B, dh       3  1  1  0   
+Belle A, rf           4  0  0  0   Gonzalez J, rf        5  0  0  0   
+Hubbard T, rf         0  0  0  0   Palmer D, 3b-1b       4  1  2  1   
+Conine J, dh          4  1  1  0   Magee W, lf           3  0  1  0   
+Richard C, 1b         4  1  1  0   McMillon B, ph-lf     2  0  1  1   
+Fordyce B, c          3  0  1  1   Encarnacion J, cf     4  0  0  0   
+Coffie I, 3b          3  0  0  1   Cruz D, ss            4  0  1  0   
+Matos L, cf           4  0  1  0   Morris H, 1b          2  1  2  0   
+                                   Halter S, pr-3b       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  7  4                        35  3 11  3
+
+Baltimore        001 110 001 --  4
+Detroit          001 001 100 --  3
+
+  Baltimore            IP  H  R ER BB SO
+Parrish J             5.1  8  2  2  5  2
+Trombley M            2.1  3  1  1  1  1
+Groom B (W)           0.1  0  0  0  0  1
+Kohlmeier R (S)       1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Bernero A             6.2  6  3  3  3  2
+Patterson D           1.1  0  0  0  0  0
+Brocail D (L)         1.0  1  1  1  0  1
+
+E -- Encarnacion J
+DP -- Detroit 1
+LOB -- Baltimore 5, Detroit 12
+2B -- Palmer D, Mora M, Cruz D, McMillon B, Richard C
+3B -- Conine J
+HR -- Anderson B, Palmer D
+CS -- Easley D
+SH -- Easley D
+SF -- Fordyce B, Coffie I
+T -- 2:57
+A -- 27392
+     Game of 8/8/2000 -- Baltimore at Detroit (N)
+
+  Baltimore          AB  R  H RBI    Detroit            AB  R  H RBI
+Anderson B, lf        3  0  0  0   Easley D, 2b          2  2  1  1   
+Mora M, ss            4  1  4  0   McMillon B, dh        3  1  0  0   
+DeShields D, 2b       4  0  1  0   Higginson B, lf       3  0  1  0   
+Belle A, rf           4  0  0  1   Gonzalez J, rf        3  0  1  2   
+Conine J, dh          4  0  0  0   Palmer D, 3b-1b       3  0  1  1   
+Richard C, 1b         4  0  0  0   Morris H, 1b          2  0  0  0   
+Fordyce B, c          4  0  2  0   Magee W, ph           1  0  0  0   
+Minor R, 3b           4  0  1  0   Halter S, 3b          0  0  0  0   
+Matos L, cf           3  0  0  0   Encarnacion J, cf     4  0  1  0   
+                                   Ausmus B, c           4  0  1  0   
+                                   Cruz D, ss            3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  8  1                        28  4  7  4
+
+Baltimore        001 000 000 --  1
+Detroit          000 030 10x --  4
+
+  Baltimore            IP  H  R ER BB SO
+Rapp P (L)            7.0  6  4  3  4  5
+McElroy C             1.0  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Moehler B (W)         9.0  8  1  1  1  7
+
+E -- Fordyce B
+DP -- Baltimore 2, Detroit 1
+LOB -- Baltimore 7, Detroit 7
+2B -- Mora M, Palmer D, Gonzalez J
+HR -- Easley D
+SF -- Palmer D
+HBP -- by Rapp P (Easley D)
+WP -- Rapp P
+T -- 2:32
+A -- 30190
+     Game of 8/9/2000 -- Baltimore at Detroit (N)
+
+  Baltimore          AB  R  H RBI    Detroit            AB  R  H RBI
+Anderson B, lf        2  1  0  1   Easley D, 2b          4  1  2  0   
+Mora M, ss            4  0  2  0   McMillon B, dh        2  0  0  0   
+DeShields D, dh       4  1  2  1   Magee W, ph           1  0  0  0   
+Belle A, rf           4  1  1  1   Higginson B, lf       4  0  0  0   
+Hubbard T, rf         0  0  0  0   Gonzalez J, rf        4  0  1  0   
+Richard C, 1b         4  0  0  0   Cruz D, ss            4  0  1  0   
+Fordyce B, c          4  0  3  1   Ausmus B, c           4  0  0  0   
+Lewis M, 2b           4  0  0  0   Encarnacion J, cf     4  0  1  0   
+Minor R, 3b           4  1  2  0   Macias J, 3b          4  1  2  1   
+Matos L, cf           4  1  1  1   Halter S, 1b          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5 11  5                        34  2  7  1
+
+Baltimore        002 003 000 --  5
+Detroit          100 000 100 --  2
+
+  Baltimore            IP  H  R ER BB SO
+Mercedes J (W)*       7.0  6  2  2  1  6
+Groom B               1.0  0  0  0  0  1
+Kohlmeier R (S)       1.0  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Blair W (L)+          7.0 10  5  5  1  1
+Patterson D           1.0  0  0  0  0  1
+Anderson M            1.0  1  0  0  0  1
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 8th
+
+E -- Mora M, Minor R
+DP -- Detroit 3
+LOB -- Baltimore 4, Detroit 6
+2B -- Cruz D, Minor R, Gonzalez J, Fordyce B
+3B -- Matos L, Mora M
+HR -- Macias J
+SF -- Anderson B
+T -- 2:37
+A -- 28041
+     Game of 8/10/2000 -- Baltimore at Detroit (D)
+
+  Baltimore          AB  R  H RBI    Detroit            AB  R  H RBI
+Anderson B, lf        3  0  1  0   Becker R, cf          3  4  2  1   
+Hubbard T, lf         1  0  0  0   McMillon B, rf        5  2  1  0   
+Mora M, ss            3  1  0  0   Higginson B, lf       4  1  3  4   
+Coffie I, ss          1  0  0  0   Magee W, pr-lf        0  1  0  0   
+DeShields D, 2b       3  1  2  2   Gonzalez J, dh        5  2  3  2   
+Lewis M, 2b           1  1  1  0   Cruz D, ss            4  0  0  1   
+Belle A, dh           4  0  0  0   Easley D, 2b          3  2  3  2   
+Conine J, rf          3  0  1  0   Macias J, 3b          5  1  2  1   
+Richard C, 1b         3  0  1  1   Halter S, 1b          3  1  0  1   
+Myers G, c            4  0  0  0   Allen D, 1b           1  0  0  0   
+Minor R, 3b           3  0  0  0   Cardona J, c          5  0  0  0   
+Matos L, cf           3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        38 14 14 12
+
+Baltimore        002 000 001 --  3
+Detroit          104 140 40x -- 14
+
+  Baltimore            IP  H  R ER BB SO
+Ponson S (L)          4.0  8  6  6  3  4
+Johnson J             2.0  4  4  2  2  2
+Ryan B                1.0  2  4  4  2  1
+McElroy C             1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Sparks S (W)          7.2  4  2  2  1  4
+Nitkowski C           0.1  0  0  0  0  0
+Jones T               0.2  2  1  1  0  0
+Cruz N                0.1  0  0  0  0  0
+
+E -- Mora M, Minor R, Macias J, Hubbard T
+DP -- Detroit 1
+LOB -- Baltimore 4, Detroit 8
+2B -- Gonzalez J, Higginson B, Easley D, Lewis M
+HR -- DeShields D, Easley D
+SB -- Easley D 2
+SF -- Cruz D, Richard C
+T -- 2:51
+A -- 40093
+     Game of 8/18/2000 -- Oakland at Detroit (N)
+
+  Oakland            AB  R  H RBI    Detroit            AB  R  H RBI
+Menechino F, 2b       4  0  1  0   Becker R, rf-lf-cf    4  3  3  3   
+Long T, cf            4  0  0  0   Encarnacion J, cf     4  1  2  1   
+Giambi J, dh          2  0  0  0   Magee W, pr-lf        0  0  0  0   
+Giambi J, ph          1  0  0  0   Higginson B, lf       3  1  1  1   
+Stanley M, 1b         4  0  0  0   McMillon B, rf        1  0  1  1   
+Grieve B, lf          3  1  2  1   Gonzalez J, dh        4  1  3  1   
+Christenson R, lf     0  0  0  0   Palmer D, 1b          4  1  0  0   
+Tejada M, ss          3  0  0  0   Allen D, 1b           1  0  0  0   
+Stairs M, rf          3  0  0  0   Easley D, 2b          5  0  3  2   
+Piatt A, rf           0  0  0  0   Cruz D, ss            4  0  0  0   
+Chavez E, 3b          3  0  0  0   Ausmus B, c           3  2  3  0   
+Hernandez R, c        3  0  0  0   Cardona J, ph-c       1  0  1  0   
+                                   Macias J, 3b          4  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  3  1                        38 10 17  9
+
+Oakland          000 000 100 --  1
+Detroit          131 112 10x -- 10
+
+  Oakland              IP  H  R ER BB SO
+Hudson T (L)          3.2  7  6  5  2  3
+Olivares O            4.1 10  4  4  3  2
+
+  Detroit              IP  H  R ER BB SO
+Nomo H (W)            7.0  2  1  1  1  8
+Bernero A             1.0  0  0  0  0  2
+Cruz N                1.0  1  0  0  0  1
+
+E -- Hernandez R 2, Menechino F, Stanley M, Piatt A
+DP -- Oakland 3
+LOB -- Oakland 3, Detroit 11
+2B -- Easley D 2, Grieve B, Gonzalez J, Encarnacion J, Menechino F
+HR -- Higginson B, Becker R, Grieve B
+SB -- Palmer D, Ausmus B
+SF -- Encarnacion J
+HBP -- by Olivares O (Cardona J)
+WP -- Hudson T
+T -- 3:03
+A -- 39277
+     Game of 8/19/2000 -- Oakland at Detroit (N)
+
+  Oakland            AB  R  H RBI    Detroit            AB  R  H RBI
+Christenson R, lf     5  1  2  0   Easley D, 2b          3  0  0  0   
+Long T, cf            5  0  1  0   Encarnacion J, cf     4  0  1  0   
+Grieve B, dh          4  1  1  0   Higginson B, dh       4  1  2  0   
+Stanley M, 1b         2  1  2  2   Gonzalez J, rf        4  1  1  0   
+Stairs M, rf          3  0  0  0   Palmer D, 3b          3  1  0  0   
+Piatt A, ph-3b        1  0  1  0   Magee W, lf           4  1  1  3   
+Tejada M, ss          4  0  2  1   Cruz D, ss            3  0  3  1   
+Chavez E, 3b          3  0  1  0   Ausmus B, c           3  0  0  0   
+Hernandez R, ph-c     1  0  0  0   Halter S, 1b          3  0  1  0   
+Menechino F, 2b       4  0  0  0                                      
+Fasano S, c           3  0  0  0                                      
+Giambi J, ph-rf       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  3 10  3                        31  4  9  4
+
+Oakland          000 010 020 --  3
+Detroit          400 000 00x --  4
+
+  Oakland              IP  H  R ER BB SO
+Zito B (L)*           6.0  9  4  4  1  5
+Tam J                 0.2  0  0  0  0  0
+Magnante M            0.1  0  0  0  0  0
+Mecir J               1.0  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Moehler B (W)+        7.0  7  2  2  3  5
+Cruz N#               0.0  1  1  1  0  0
+Nitkowski C**         0.0  2  0  0  0  0
+Patterson D           1.0  0  0  0  0  1
+Jones T (S)           1.0  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 8th
+  # Pitched to 1 batter in 8th
+  ** Pitched to 2 batters in 8th
+
+DP -- Detroit 1
+LOB -- Oakland 9, Detroit 5
+2B -- Cruz D 3, Higginson B, Stanley M
+3B -- Magee W
+CS -- Encarnacion J
+SH -- Easley D
+T -- 2:55
+A -- 38628
+     Game of 8/20/2000 -- Oakland at Detroit (D)
+
+  Oakland            AB  R  H RBI    Detroit            AB  R  H RBI
+Long T, cf            6  1  1  0   McMillon B, rf        6  1  2  0   
+Tejada M, ss          6  0  1  0   Encarnacion J, cf     4  0  1  0   
+Grieve B, dh          5  1  3  1   Magee W, pr-cf        2  1  0  0   
+Giambi J, pr          0  1  0  0   Higginson B, lf       4  0  1  0   
+Stanley M, 1b         6  0  2  1   Gonzalez J, dh        5  0  1  0   
+Stairs M, rf          5  0  1  0   Palmer D, 1b          4  1  1  3   
+Piatt A, lf           4  0  1  0   Easley D, 2b          4  1  1  0   
+Christenson R, lf     2  0  0  0   Cruz D, ss            5  0  1  1   
+Chavez E, 3b          4  1  1  0   Macias J, 3b          3  0  1  0   
+Menechino F, 2b       5  1  1  0   Cardona J, c          2  0  0  0   
+Hernandez R, c        5  0  3  2   Becker R, ph          1  0  0  0   
+                                   Ausmus B, c           2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     48  5 14  4                        42  4 10  4
+
+Oakland          002 200 000 01 --  5
+Detroit          010 000 030 00 --  4
+
+  Oakland              IP  H  R ER BB SO
+Appier K              7.0  3  1  1  3  4
+Mecir J               1.0  4  3  3  0  1
+Isringhausen J (W)    2.0  2  0  0  2  0
+Magnante M            0.2  1  0  0  0  0
+Tam J (S)             0.1  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Blair W               6.1 11  4  4  0  2
+Anderson M            1.2  0  0  0  1  2
+Nitkowski C           0.1  0  0  0  1  0
+Jones T               1.2  1  0  0  1  1
+Cruz N (L)            1.0  2  1  1  2  2
+
+E -- Stanley M, Chavez E, Easley D
+DP -- Oakland 2
+LOB -- Oakland 15, Detroit 10
+2B -- Tejada M, Cruz D, Grieve B 2, Stanley M, Hernandez R, Easley D
+HR -- Palmer D
+SB -- Macias J
+WP -- Cruz N
+T -- 4:11
+A -- 39442
+     Game of 8/21/2000 -- Oakland at Detroit (N)
+
+  Oakland            AB  R  H RBI    Detroit            AB  R  H RBI
+Long T, cf            4  0  0  0   Easley D, 2b          3  0  2  0   
+Tejada M, ss          4  0  1  0   Encarnacion J, cf     4  0  0  0   
+Grieve B, dh          4  0  0  0   Higginson B, lf       4  1  0  0   
+Stanley M, 1b         4  0  1  0   Gonzalez J, dh        3  0  2  0   
+Stairs M, rf          4  0  0  0   Palmer D, 3b          4  0  1  1   
+Giambi J, lf          3  0  1  0   Magee W, rf           4  1  1  0   
+Christenson R, pr-lf  0  0  0  0   Cruz D, ss            4  1  1  1   
+Hernandez R, c        3  0  0  0   Ausmus B, c           3  0  1  1   
+Chavez E, 3b          3  1  2  0   Halter S, 1b          3  0  0  0   
+Menechino F, 2b       3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  5  0                        32  3  8  3
+
+Oakland          000 001 000 --  1
+Detroit          100 002 00x --  3
+
+  Oakland              IP  H  R ER BB SO
+Mulder M (L)          5.2  6  3  3  2  5
+Jones D               2.1  2  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Sparks S (W)          6.2  4  1  0  0  7
+Patterson D           1.1  0  0  0  0  1
+Jones T (S)           1.0  1  0  0  0  2
+
+E -- Menechino F
+DP -- Oakland 1, Detroit 1
+LOB -- Oakland 4, Detroit 7
+2B -- Chavez E, Cruz D
+PB -- Ausmus B
+T -- 2:40
+A -- 30135
+     Game of 8/22/2000 -- Seattle at Detroit (N)
+
+  Seattle            AB  R  H RBI    Detroit            AB  R  H RBI
+Henderson R, lf       3  2  0  0   McMillon B, dh        4  0  3  0   
+Olerud J, 1b          4  1  2  0   Encarnacion J, cf     5  0  1  1   
+Rodriguez A, ss       4  2  1  4   Higginson B, lf       3  1  1  1   
+Martinez E, dh        4  1  2  0   Gonzalez J, rf        4  0  0  0   
+Martin A, rf          5  0  0  0   Palmer D, 1b          4  1  0  0   
+Cameron M, cf         4  1  2  2   Easley D, 2b          3  1  0  0   
+Guillen C, 3b         4  0  1  1   Cruz D, ss            4  0  1  1   
+Oliver J, c           4  1  1  0   Macias J, 3b          2  1  0  0   
+McLemore M, 2b        4  0  1  1   Cardona J, c          3  0  0  0   
+                                   Becker R, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  8 10  8                        33  4  6  3
+
+Seattle          011 100 023 --  8
+Detroit          021 000 001 --  4
+
+  Seattle              IP  H  R ER BB SO
+Garcia F              6.2  5  3  3  5  2
+Rhodes A*             0.0  0  0  0  1  0
+Paniagua J (W)        1.2  1  1  1  1  2
+Sasaki K (S)          0.2  0  0  0  1  1
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (L)+         7.0  6  4  4  2  3
+Patterson D           1.0  2  1  1  0  0
+Anderson M            1.0  2  3  3  2  0
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 8th
+
+E -- Rodriguez A
+DP -- Seattle 1
+LOB -- Seattle 6, Detroit 10
+2B -- Oliver J, McLemore M, McMillon B, Cameron M
+HR -- Higginson B, Rodriguez A
+SB -- Cameron M, Henderson R
+SF -- Rodriguez A
+WP -- Garcia F
+T -- 3:23
+A -- 30991
+     Game of 8/23/2000 -- Seattle at Detroit (N)
+
+  Seattle            AB  R  H RBI    Detroit            AB  R  H RBI
+Henderson R, lf       5  1  3  0   McMillon B, dh        3  1  1  0   
+Olerud J, 1b          4  0  0  1   Magee W, ph           1  1  1  0   
+Rodriguez A, ss       3  0  2  1   Encarnacion J, cf     4  1  3  3   
+Martinez E, dh        4  1  1  1   Higginson B, lf       4  1  1  1   
+Martin A, rf          4  0  0  0   Gonzalez J, rf        4  0  2  0   
+Cameron M, cf         4  1  1  1   Palmer D, 1b          2  0  0  1   
+Guillen C, 3b         4  1  1  0   Easley D, 2b          4  0  0  0   
+Wilson D, c           2  1  2  1   Cruz D, ss            4  1  1  0   
+Javier S, ph          1  0  0  0   Ausmus B, c           4  0  1  0   
+McLemore M, 2b        4  0  1  0   Macias J, 3b          4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  5 11  5                        34  6 11  6
+
+Seattle          012 000 110 --  5
+Detroit          000 001 50x --  6
+
+  Seattle              IP  H  R ER BB SO
+Abbott P              6.1  6  2  2  1  4
+Rhodes A (L)*         0.0  4  4  4  0  0
+Mesa J                1.2  1  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Nomo H                6.1  9  4  4  2  6
+Nitkowski C           0.1  0  0  0  0  0
+Cruz N (W)            1.1  1  1  1  0  1
+Jones T (S)           1.0  1  0  0  0  0
+  * Pitched to 4 batters in 7th
+
+E -- Wilson D
+DP -- Detroit 1
+LOB -- Seattle 5, Detroit 6
+2B -- Guillen C, Wilson D 2, Rodriguez A, Henderson R, McMillon B, Cruz D
+3B -- Encarnacion J
+HR -- Martinez E, Cameron M
+SB -- Henderson R, Encarnacion J
+CS -- Rodriguez A, Wilson D
+SF -- Palmer D
+T -- 3:07
+A -- 32356
+     Game of 8/24/2000 -- Seattle at Detroit (D)
+
+  Seattle            AB  R  H RBI    Detroit            AB  R  H RBI
+Martin A, lf          4  1  1  0   Easley D, 2b          4  1  1  2   
+Guillen C, 3b         4  1  3  0   Encarnacion J, cf     5  2  1  1   
+Rodriguez A, ss       4  0  0  0   Higginson B, lf       5  2  3  1   
+Martinez E, dh        4  1  2  2   McMillon B, rf        0  0  0  0   
+Olerud J, 1b          2  0  1  1   Gonzalez J, dh        5  2  2  1   
+Cameron M, cf         3  0  0  0   Palmer D, 3b          2  1  1  2   
+Ibanez R, rf          4  0  0  0   Magee W, rf           3  0  0  0   
+Oliver J, c           3  0  0  0   Becker R, ph-lf       0  0  0  0   
+Bell D, 2b            4  0  1  0   Cruz D, ss            5  0  3  3   
+                                   Allen D, pr-1b        0  0  0  0   
+                                   Ausmus B, c           4  1  1  0   
+                                   Cardona J, c          0  0  0  0   
+                                   Halter S, 1b-ss       3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  8  3                        36 10 12 10
+
+Seattle          200 000 010 --  3
+Detroit          300 010 15x -- 10
+
+  Seattle              IP  H  R ER BB SO
+Moyer J (L)           6.0  8  4  4  4  3
+Tomko B               1.2  4  6  4  3  2
+Mesa J                0.1  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Moehler B (W)         5.2  6  2  2  2  3
+Anderson M            1.1  0  0  0  0  1
+Patterson D           0.1  2  1  1  0  0
+Nitkowski C           0.2  0  0  0  0  1
+Bernero A             1.0  0  0  0  1  0
+
+E -- Martin A, Oliver J, Guillen C
+DP -- Detroit 2
+LOB -- Seattle 6, Detroit 10
+2B -- Guillen C, Easley D
+HR -- Martinez E, Encarnacion J, Palmer D
+SB -- Higginson B
+SF -- Palmer D, Olerud J
+T -- 3:29
+A -- 36885
+     Game of 9/1/2000 -- Texas at Detroit (N)
+
+  Texas              AB  R  H RBI    Detroit            AB  R  H RBI
+Alicea L, 2b          5  1  2  1   McMillon B, dh        2  3  1  1   
+Curtis C, dh          4  0  2  0   Encarnacion J, cf     5  0  1  0   
+Greer R, lf           3  1  0  0   Higginson B, lf       4  1  2  0   
+Palmeiro R, 1b        4  1  1  0   Gonzalez J, rf        4  1  2  3   
+Green S, pr           0  0  0  0   Palmer D, 3b          2  0  0  1   
+Kapler G, cf          5  0  0  0   Clark T, 1b           3  0  1  2   
+Ledee R, rf           5  0  2  1   Allen D, 1b           0  0  0  0   
+Haselman B, c         2  2  1  0   Fick R, ph-1b         1  0  0  0   
+Catalanotto F, ph     1  0  1  1   Cruz D, ss            3  0  1  0   
+Waszgis B, c          0  0  0  0   Easley D, 2b          3  1  1  0   
+Lamb M, 3b            3  0  2  1   Ausmus B, c           4  1  1  0   
+Clayton R, ss         4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5 11  4                        31  7 10  7
+
+Texas            010 000 121 --  5
+Detroit          300 301 00x --  7
+
+  Texas                IP  H  R ER BB SO
+Helling R (L)         3.1  7  6  6  6  2
+Johnson J             3.2  3  1  1  1  4
+Cordero F             1.0  0  0  0  0  2
+
+  Detroit              IP  H  R ER BB SO
+Sparks S (W)          7.1  6  3  3  2  0
+Runyan S*             0.0  1  1  1  0  0
+Cruz N                0.2  2  0  0  0  0
+Jones T (S)           1.0  2  1  1  2  3
+  * Pitched to 1 batter in 8th
+
+DP -- Texas 2, Detroit 2
+LOB -- Texas 10, Detroit 9
+2B -- Curtis C, Higginson B, Clark T, Lamb M, Ledee R, Ausmus B, Haselman B
+3B -- Cruz D
+HR -- Alicea L
+SF -- Palmer D
+HBP -- by Helling R (Easley D), by Sparks S (Haselman B), by Sparks S (Curtis C)
+WP -- Sparks S
+T -- 3:20
+A -- 31471
+     Game of 9/2/2000 -- Texas at Detroit (N)
+
+  Texas              AB  R  H RBI    Detroit            AB  R  H RBI
+Alicea L, 2b          5  0  0  1   Easley D, 2b          5  1  2  0   
+Curtis C, dh          4  0  2  0   Encarnacion J, cf     2  2  2  1   
+Greer R, lf           3  0  0  0   Magee W, lf           3  0  1  1   
+Palmeiro R, 1b        3  1  2  0   Becker R, ph-lf       0  0  0  0   
+Kapler G, cf          4  0  2  0   Gonzalez J, rf        3  1  1  1   
+Ledee R, rf           4  0  0  0   Palmer D, dh          3  0  0  1   
+Haselman B, c         4  0  0  0   Clark T, 1b           3  0  1  0   
+Lamb M, 3b            4  1  2  0   Macias J, 3b          0  1  0  0   
+Clayton R, ss         4  1  2  0   Cruz D, ss            4  0  2  0   
+                                   Ausmus B, c           4  0  0  0   
+                                   Halter S, 3b-1b       2  0  0  0   
+                                   McMillon B, ph        1  0  1  1   
+                                   Lindsey R, pr         0  0  0  0   
+                                   Fick R, 1b            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3 10  1                        30  5 10  5
+
+Texas            000 100 200 --  3
+Detroit          200 020 01x --  5
+
+  Texas                IP  H  R ER BB SO
+Rogers K (L)*         6.0  8  4  4  4  0
+Crabtree T            1.2  1  1  1  2  1
+Venafro M+            0.0  1  0  0  0  0
+Zimmerman J           0.1  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Blair W (W)           6.1  8  3  2  1  3
+Patterson D           0.1  1  0  0  0  0
+Nitkowski C#          0.1  0  0  0  1  0
+Cruz N                1.0  1  0  0  0  1
+Anderson M (S)        1.0  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+  + Pitched to 1 batter in 8th
+  # Pitched to 1 batter in 8th
+
+E -- Ausmus B
+DP -- Texas 2, Detroit 2
+LOB -- Texas 7, Detroit 8
+2B -- Palmeiro R, Clark T, Cruz D, Easley D, Magee W, Clayton R
+3B -- Palmeiro R
+HR -- Encarnacion J, Gonzalez J
+SB -- Easley D
+CS -- Encarnacion J
+SH -- Encarnacion J
+WP -- Patterson D
+T -- 2:56
+A -- 35060
+     Game of 9/3/2000 -- Texas at Detroit (D)
+
+  Texas              AB  R  H RBI    Detroit            AB  R  H RBI
+Alicea L, 2b          4  1  2  1   Becker R, cf          4  0  2  0   
+Catalanotto F, 1b     4  0  1  1   McMillon B, rf        4  0  1  0   
+Greer R, lf           5  1  1  0   Higginson B, lf       3  0  1  0   
+Palmeiro R, dh        4  0  1  0   Gonzalez J, dh        4  0  0  0   
+Ledee R, rf           4  0  2  1   Clark T, 1b           2  1  2  0   
+Lamb M, 3b            4  1  2  0   Halter S, pr-1b       0  0  0  0   
+Clayton R, ss         4  1  1  0   Fick R, ph-1b         1  0  0  0   
+Green S, cf           4  0  0  0   Cruz D, ss            4  0  1  0   
+Waszgis B, c          4  0  1  1   Easley D, 2b          4  0  0  1   
+                                   Macias J, 3b          4  0  0  0   
+                                   Cardona J, c          2  0  0  0   
+                                   Ausmus B, ph-c        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4 11  4                        34  1  7  1
+
+Texas            021 100 000 --  4
+Detroit          000 100 000 --  1
+
+  Texas                IP  H  R ER BB SO
+Glynn R (W)           6.1  7  1  1  1  2
+Venafro M             0.1  0  0  0  2  0
+Zimmerman J           1.1  0  0  0  0  1
+Wetteland J (S)       1.0  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (L)          3.1  9  4  4  1  0
+Runyan S              2.2  0  0  0  1  1
+Bernero A             3.0  2  0  0  0  4
+
+E -- Clark T
+LOB -- Texas 8, Detroit 9
+2B -- Greer R, Catalanotto F, Cruz D
+CS -- Alicea L
+PB -- Waszgis B
+T -- 2:49
+A -- 30242
+     Game of 9/4/2000 -- Anaheim at Detroit (N)
+
+  Anaheim            AB  R  H RBI    Detroit            AB  R  H RBI
+Erstad D, dh          3  0  1  0   Easley D, 2b          5  1  3  3   
+Stocker K, ss         3  0  0  0   Encarnacion J, cf     4  0  0  0   
+Vaughn M, 1b          4  0  1  0   Higginson B, lf       5  0  1  1   
+Salmon T, rf          4  0  0  0   Gonzalez J, dh        3  0  1  0   
+Anderson G, cf        4  0  2  0   Palmer D, 3b          4  0  1  0   
+Glaus T, 3b           3  0  0  0   Clark T, 1b           3  1  0  0   
+Gant R, lf            3  0  0  0   Fick R, 1b            1  0  0  0   
+Kennedy A, 2b         3  0  1  0   Magee W, rf           3  0  0  0   
+Molina B, c           3  0  0  0   Cruz D, ss            4  1  2  1   
+                                   Ausmus B, c           3  2  3  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        35  5 11  5
+
+Anaheim          000 000 000 --  0
+Detroit          010 202 00x --  5
+
+  Anaheim              IP  H  R ER BB SO
+Karl S (L)            5.2  9  5  4  2  4
+Fyhrie M              0.1  1  0  0  1  0
+Pote L                1.0  0  0  0  1  1
+Percival T            1.0  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Nomo H (W)            8.0  5  0  0  2  7
+Patterson D           1.0  0  0  0  0  2
+
+E -- Glaus T, Kennedy A
+DP -- Detroit 2
+LOB -- Anaheim 5, Detroit 10
+2B -- Kennedy A, Easley D 2
+SB -- Easley D, Kennedy A
+CS -- Cruz D
+T -- 3:00
+A -- 26364
+     Game of 9/5/2000 -- Anaheim at Detroit (N)
+
+  Anaheim            AB  R  H RBI    Detroit            AB  R  H RBI
+Erstad D, lf          5  0  2  0   Becker R, rf          4  1  1  0   
+Stocker K, ss         4  1  1  0   Encarnacion J, cf     3  0  0  1   
+Vaughn M, 1b          5  0  0  0   Higginson B, lf       4  1  3  0   
+Salmon T, rf          3  1  1  1   Palmer D, 3b          4  2  2  1   
+Anderson G, cf        4  1  2  0   Clark T, 1b           2  2  1  2   
+Glaus T, dh           4  1  1  0   Fick R, 1b            1  0  0  0   
+Spiezio S, 3b         3  1  1  2   McMillon B, dh        3  0  1  2   
+Kennedy A, 2b         4  0  2  2   Cruz D, ss            3  0  1  1   
+Walbeck M, c          3  0  0  0   Easley D, 2b          4  0  0  0   
+Palmeiro O, ph        0  0  0  0   Ausmus B, c           3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5 10  5                        31  7 10  7
+
+Anaheim          100 003 010 --  5
+Detroit          025 000 00x --  7
+
+  Anaheim              IP  H  R ER BB SO
+Wise M (L)            2.1  7  7  7  1  1
+Alvarez J*            0.0  1  0  0  0  0
+Pote L                1.2  0  0  0  0  0
+Ward B                0.2  1  0  0  1  1
+Weber B               2.1  1  0  0  0  3
+Petkovsek M           1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Moehler B (W)         6.0  8  4  4  0  3
+Nitkowski C           1.0  1  0  0  0  1
+Anderson M            1.0  1  1  1  2  2
+Jones T (S)           1.0  0  0  0  1  1
+  * Pitched to 1 batter in 3rd
+
+DP -- Anaheim 1, Detroit 1
+LOB -- Anaheim 7, Detroit 4
+2B -- Anderson G, Palmer D, Erstad D, Ausmus B, McMillon B, Kennedy A
+3B -- Stocker K, Spiezio S
+HR -- Clark T
+SB -- Palmer D, Higginson B 2
+SF -- Encarnacion J, Cruz D
+HBP -- by Moehler B (Stocker K)
+T -- 2:47
+A -- 20322
+     Game of 9/6/2000 -- Anaheim at Detroit (N)
+
+  Anaheim            AB  R  H RBI    Detroit            AB  R  H RBI
+Erstad D, lf          4  0  0  0   Easley D, 2b          2  0  0  0   
+Spiezio S, 1b         4  0  2  0   Encarnacion J, cf     3  0  0  0   
+Vaughn M, dh          3  0  0  1   Higginson B, lf       4  0  1  0   
+Salmon T, rf          4  0  0  0   Palmer D, dh          3  0  0  0   
+Anderson G, cf        4  0  2  0   Magee W, rf           3  0  0  0   
+Glaus T, 3b           4  0  3  0   Cruz D, ss            3  0  0  0   
+Kennedy A, 2b         3  0  1  0   Ausmus B, c           3  0  1  0   
+Molina B, c           4  0  1  0   Macias J, 3b          3  0  0  0   
+Stocker K, ss         3  1  0  0   Halter S, 1b          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  9  1                        27  0  2  0
+
+Anaheim          001 000 000 --  1
+Detroit          000 000 000 --  0
+
+  Anaheim              IP  H  R ER BB SO
+Schoeneweis S (W)     8.0  2  0  0  2  6
+Percival T (S)        1.0  0  0  0  1  1
+
+  Detroit              IP  H  R ER BB SO
+Sparks S (L)          8.0  7  1  1  2  3
+Patterson D           1.0  2  0  0  0  0
+
+DP -- Anaheim 1
+LOB -- Anaheim 8, Detroit 4
+2B -- Glaus T 3, Spiezio S
+CS -- Anderson G, Glaus T
+SH -- Kennedy A, Encarnacion J
+T -- 2:32
+A -- 20937
+     Game of 9/7/2000 -- Anaheim at Detroit (N)
+
+  Anaheim            AB  R  H RBI    Detroit            AB  R  H RBI
+Erstad D, lf          3  0  0  1   Becker R, cf          4  0  1  0   
+Spiezio S, 1b         4  1  1  1   McMillon B, dh        3  0  0  1   
+Vaughn M, dh          4  0  1  0   Higginson B, lf       4  0  1  0   
+Salmon T, rf          4  1  2  1   Palmer D, 3b          4  0  0  0   
+Anderson G, cf        4  1  2  0   Clark T, 1b           4  1  1  0   
+Glaus T, 3b           3  2  1  1   Cruz D, ss            4  0  2  0   
+Kennedy A, 2b         4  0  0  0   Easley D, 2b          4  0  1  1   
+Molina B, c           4  1  4  2   Ausmus B, c           4  1  1  0   
+Stocker K, ss         4  0  0  0   Magee W, rf           3  2  2  2   
+                     -- -- -- --                        -- -- -- --
+                     34  6 11  6                        34  4  9  4
+
+Anaheim          012 200 010 --  6
+Detroit          010 020 100 --  4
+
+  Anaheim              IP  H  R ER BB SO
+Belcher T (W)         6.0  7  3  3  0  3
+Petkovsek M           1.0  1  1  1  0  0
+Hasegawa S (S)        2.0  1  0  0  0  3
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (L)*         3.0  5  5  5  1  1
+Blair W               5.0  5  1  1  0  2
+Brocail D             0.2  1  0  0  0  1
+Anderson M            0.1  0  0  0  0  1
+  * Pitched to 3 batters in 4th
+
+E -- Glaus T
+DP -- Anaheim 1, Detroit 3
+LOB -- Anaheim 3, Detroit 4
+2B -- Higginson B, Clark T, Molina B, Magee W
+3B -- Molina B
+HR -- Glaus T, Spiezio S, Magee W, Salmon T
+SF -- Erstad D, McMillon B
+T -- 2:47
+A -- 27513
+     Game of 9/15/2000 -- Boston at Detroit (N)
+
+  Boston             AB  R  H RBI    Detroit            AB  R  H RBI
+Nixon T, rf           4  0  1  2   McMillon B, dh        4  0  1  0   
+Gilkey B, ph          1  0  0  0   Magee W, ph           0  0  0  0   
+Lansing M, 2b         0  0  0  0   Becker R, ph          1  0  0  0   
+Offerman J, 2b-1b     2  1  0  0   Encarnacion J, cf     3  1  0  0   
+Everett C, cf         5  0  0  0   Higginson B, lf       5  0  1  1   
+Garciaparra N, ss     5  2  3  0   Gonzalez J, rf        4  1  1  1   
+O'Leary T, lf         4  1  3  1   Palmer D, 3b          3  1  0  0   
+Daubach B, dh         2  1  1  1   Morris H, 1b          4  0  0  0   
+Bichette D, ph        1  0  1  0   Cruz D, ss            4  2  2  0   
+Sadler D, pr          0  1  0  0   Easley D, 2b          3  1  3  1   
+Burkhart M, ph        1  0  0  0   Ausmus B, c           4  0  1  2   
+Hatteberg S, c        4  1  1  1                                      
+Brogna R, 1b          3  0  0  0                                      
+Varitek J, ph         1  0  1  1                                      
+Lewis D, pr-rf        1  0  0  0                                      
+Alexander M, 3b       2  0  0  0                                      
+Cummings M, ph        1  0  1  1                                      
+Merloni L, 3b         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  7 12  7                        35  6  9  5
+
+Boston           030 010 021 --  7
+Detroit          021 001 200 --  6
+
+  Boston               IP  H  R ER BB SO
+Wakefield T           5.0  5  3  2  3  6
+Carrasco H            0.1  2  1  1  0  0
+Fassero J             1.1  2  2  2  2  2
+Cormier R             0.1  0  0  0  0  0
+Beck R (W)            1.0  0  0  0  0  1
+Lowe D (S)            1.0  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Sparks S              4.1  6  4  4  4  2
+Nitkowski C*          2.2  1  1  1  1  1
+Anderson M            0.1  0  1  1  1  0
+Blair W+              0.0  2  0  0  0  0
+Tolar K               0.1  0  0  0  0  0
+Cruz N (L)#           0.1  2  1  1  1  1
+Jones T               1.0  1  0  0  0  1
+  * Pitched to 1 batter in 8th
+  + Pitched to 2 batters in 8th
+  # Pitched to 2 batters in 9th
+
+E -- Everett C
+DP -- Detroit 1
+LOB -- Boston 10, Detroit 9
+2B -- Garciaparra N, Higginson B, Cruz D
+HR -- Gonzalez J
+SB -- McMillon B, Nixon T, Encarnacion J
+CS -- Gonzalez J
+SH -- Morris H
+HBP -- by Wakefield T (Encarnacion J)
+WP -- Wakefield T
+PB -- Hatteberg S
+T -- 3:49
+A -- 33785
+     Game of 9/16/2000, game 1 -- Boston at Detroit (D)
+
+  Boston             AB  R  H RBI    Detroit            AB  R  H RBI
+Nixon T, rf           4  3  2  1   Becker R, cf-rf       5  1  1  2   
+Offerman J, 2b        3  1  1  0   McMillon B, rf        4  1  2  1   
+Lansing M, 2b         0  0  0  0   Lindsey R, pr-cf      0  0  0  0   
+Daubach B, 1b         3  0  1  1   Palmer D, ph          1  0  0  0   
+Everett C, ph-cf      2  1  2  2   Higginson B, lf       4  0  1  0   
+Garciaparra N, ss     5  1  3  3   Gonzalez J, dh        3  0  0  0   
+O'Leary T, lf         3  0  0  0   Morris H, 1b          3  1  2  0   
+Gilkey B, ph          1  0  0  0   Cruz D, ss            4  0  0  0   
+Brogna R, 1b          1  0  0  0   Fick R, c             3  1  2  1   
+Bichette D, dh        4  0  1  1   Ausmus B, c           1  0  0  0   
+Varitek J, c          4  0  0  0   Easley D, 2b          3  0  1  1   
+Merloni L, 3b         3  0  1  0   Macias J, 3b          4  1  2  0   
+Cummings M, ph        1  0  1  0                                      
+Sadler D, pr-lf       0  1  0  0                                      
+Lewis D, cf-lf        3  0  0  0                                      
+Hatteberg S, ph       1  0  1  0                                      
+Alexander M, pr-3b    0  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  8 13  8                        35  5 11  5
+
+Boston           101 000 033 --  8
+Detroit          100 010 120 --  5
+
+  Boston               IP  H  R ER BB SO
+Arrojo R              7.0  7  3  3  1  4
+Beck R*               0.0  3  2  2  0  0
+Cormier R             0.1  0  0  0  0  0
+Pichardo H (W)        0.2  0  0  0  1  0
+Lowe D (S)            1.0  1  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Moehler B             7.1  6  3  3  2  2
+Nitkowski C           0.1  2  2  2  0  0
+Anderson M (L)        0.2  2  1  1  0  0
+Jones T               0.2  3  2  2  1  1
+  * Pitched to 3 batters in 8th
+
+E -- Becker R
+DP -- Boston 2
+LOB -- Boston 6, Detroit 6
+2B -- Merloni L, Daubach B, Morris H, Bichette D
+3B -- Fick R, Nixon T
+HR -- Nixon T, McMillon B, Becker R
+SB -- Fick R, Higginson B
+HBP -- by Lowe D (Easley D)
+WP -- Nitkowski C 2
+T -- 3:16
+A -- 34822
+     Game of 9/16/2000, game 2 -- Boston at Detroit (N)
+
+  Boston             AB  R  H RBI    Detroit            AB  R  H RBI
+Nixon T, rf           3  0  1  0   McMillon B, lf-rf     4  1  1  2   
+Alcantara I, rf       1  1  1  1   Magee W, rf           0  1  0  0   
+Daubach B, 1b         3  1  2  1   Easley D, 2b          2  2  1  1   
+Burkhart M, 1b        1  0  0  0   Lindsey R, lf         0  1  0  0   
+Everett C, cf         3  0  0  0   Higginson B, dh       4  1  2  1   
+Cummings M, cf        0  0  0  0   Fick R, ph            0  0  0  1   
+Bichette D, dh        4  0  1  0   Gonzalez J, rf        4  2  2  3   
+O'Leary T, lf         3  0  1  0   Allen D, 1b           1  0  0  0   
+Gilkey B, lf          1  0  0  0   Palmer D, 3b          5  0  2  1   
+Merloni L, 3b         3  0  0  0   Cruz D, ss            4  0  1  1   
+Sadler D, ss          1  0  0  0   Macias J, 2b          1  0  0  0   
+Hatteberg S, c        4  0  1  0   Ausmus B, c           2  1  1  1   
+Lansing M, 2b         4  0  1  0   Cardona J, ph-c       1  0  0  0   
+Alexander M, ss-3b    3  0  0  0   Encarnacion J, cf     4  1  2  1   
+                                   Halter S, 1b-ss       2  2  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  2  8  2                        34 12 13 12
+
+Boston           001 000 010 --  2
+Detroit          270 010 02x -- 12
+
+  Boston               IP  H  R ER BB SO
+Ontiveros S (L)*      1.0  5  6  6  2  1
+Crawford P            4.0  6  4  4  2  3
+Lee S                 2.0  1  0  0  0  0
+Croushore R           1.0  1  2  2  1  2
+
+  Detroit              IP  H  R ER BB SO
+Nomo H (W)            8.0  8  2  2  1  7
+Bernero A             1.0  0  0  0  0  1
+  * Pitched to 4 batters in 2nd
+
+E -- Hatteberg S
+DP -- Boston 2, Detroit 1
+LOB -- Boston 6, Detroit 7
+2B -- Palmer D 2, Encarnacion J, Halter S
+3B -- McMillon B
+HR -- Gonzalez J, Daubach B, Alcantara I
+SB -- Ausmus B, Encarnacion J
+SF -- Easley D, Fick R
+HBP -- by Crawford P (Easley D), by Croushore R (Lindsey R)
+WP -- Ontiveros S 2, Croushore R
+T -- 3:01
+A -- 24216
+     Game of 9/17/2000 -- Boston at Detroit (D)
+
+  Boston             AB  R  H RBI    Detroit            AB  R  H RBI
+Nixon T, rf           3  0  1  0   McMillon B, dh        4  0  0  0   
+Offerman J, 2b        4  1  1  0   Easley D, 2b          3  0  1  0   
+Everett C, cf         2  0  1  0   Higginson B, lf       4  0  1  0   
+Lewis D, pr-cf        1  0  0  0   Gonzalez J, rf        4  1  1  0   
+Hatteberg S, ph       1  1  1  2   Palmer D, 3b          4  1  1  2   
+Sadler D, cf          0  0  0  0   Clark T, 1b           3  1  2  0   
+Garciaparra N, ss     4  1  1  0   Morris H, pr-1b       0  1  0  0   
+O'Leary T, lf         4  1  1  0   Magee W, ph           1  0  0  0   
+Bichette D, dh        4  0  0  0   Allen D, 1b           0  0  0  0   
+Daubach B, 1b         4  0  1  1   Ausmus B, c           3  1  2  1   
+Varitek J, c          4  0  1  1   Encarnacion J, cf     4  0  0  0   
+Alexander M, 3b       1  0  0  0   Halter S, ss          3  0  1  0   
+Cummings M, ph        1  0  0  0                                      
+Merloni L, 3b         0  0  0  0                                      
+Gilkey B, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  8  4                        33  5  9  3
+
+Boston           000 000 121 --  4
+Detroit          010 202 00x --  5
+
+  Boston               IP  H  R ER BB SO
+Martinez R (L)*       5.0  8  5  3  2  3
+Fassero J             1.1  1  0  0  0  1
+Wakefield T           0.2  0  0  0  0  1
+Cormier R             1.0  0  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Mlicki D (W)          7.0  4  1  1  1  2
+Patterson D           1.0  2  2  2  0  0
+Jones T (S)           1.0  2  1  1  0  2
+  * Pitched to 2 batters in 6th
+
+E -- Lewis D, Higginson B
+LOB -- Boston 5, Detroit 6
+2B -- Clark T, Easley D, Everett C, Gonzalez J, Garciaparra N, Daubach B, O'Leary T
+HR -- Palmer D, Hatteberg S
+SB -- Higginson B
+SH -- Nixon T
+T -- 2:47
+A -- 33174
+     Game of 9/18/2000 -- Chicago at Detroit (N)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Durham R, 2b          4  0  0  0   Easley D, 2b          5  0  2  2   
+Valentin J, ss        4  0  0  0   Encarnacion J, cf     4  1  2  0   
+Thomas F, dh          4  0  1  0   Higginson B, lf       4  1  0  0   
+Ordonez M, rf         4  0  0  0   Gonzalez J, dh        4  1  2  1   
+Lee C, lf             2  1  0  0   Palmer D, 3b          3  0  1  0   
+Konerko P, 1b         3  1  1  2   Cruz D, ss            3  0  0  0   
+Perry H, 3b           3  0  1  0   Magee W, rf           2  0  1  1   
+Singleton C, cf       3  0  0  0   Becker R, ph-rf       1  0  0  0   
+Johnson C, c          3  0  0  0   Ausmus B, c           3  1  2  0   
+                                   Allen D, 1b           3  0  1  0   
+                                   McMillon B, ph        1  0  1  0   
+                                   Lindsey R, pr         0  1  0  0   
+                                   Morris H, 1b          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  3  2                        33  5 12  4
+
+Chicago          000 020 000 --  2
+Detroit          000 100 22x --  5
+
+  Chicago              IP  H  R ER BB SO
+Parque J              6.0  7  1  1  3  4
+Barcelo L (L)         1.0  2  2  1  1  2
+Howry B               1.0  3  2  2  0  1
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (W)          8.0  3  2  2  1  6
+Jones T (S)           1.0  0  0  0  0  0
+
+E -- Johnson C
+DP -- Chicago 2
+LOB -- Chicago 2, Detroit 10
+2B -- Allen D, Thomas F, Encarnacion J
+3B -- Encarnacion J, Easley D
+HR -- Konerko P
+SF -- Magee W
+HBP -- by Parque J (Cruz D)
+Balk -- Weaver J
+T -- 2:42
+A -- 22718
+     Game of 9/19/2000 -- Chicago at Detroit (N)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Durham R, 2b          5  1  2  1   McMillon B, dh        5  0  1  1   
+Valentin J, ss        5  1  0  0   Encarnacion J, cf     5  0  0  0   
+Thomas F, dh          4  1  3  1   Higginson B, lf       3  0  0  0   
+Ordonez M, rf         4  0  1  0   Gonzalez J, rf        2  0  0  0   
+Lee C, lf             4  0  0  1   Becker R, rf          1  0  0  0   
+Christensen M, cf     0  0  0  0   Magee W, ph-rf        1  0  0  0   
+Konerko P, 1b         4  0  2  1   Palmer D, 3b          3  0  0  0   
+Perry H, 3b           4  1  1  0   Morris H, 1b          3  0  1  0   
+Singleton C, cf-lf    4  2  2  2   Cruz D, ss            4  0  3  0   
+Johnson C, c          4  0  2  0   Easley D, 2b          4  1  1  0   
+                                   Macias J, 2b          0  0  0  0   
+                                   Ausmus B, c           4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 13  6                        35  2  7  1
+
+Chicago          222 000 000 --  6
+Detroit          000 000 200 --  2
+
+  Chicago              IP  H  R ER BB SO
+Lowe S (W)            5.0  3  0  0  2  4
+Buehrle M             1.2  3  2  1  0  1
+Wunsch K              1.0  0  0  0  1  0
+Bradford C            0.1  1  0  0  0  0
+Foulke K              1.0  0  0  0  0  1
+
+  Detroit              IP  H  R ER BB SO
+Sparks S (L)          3.1 10  6  4  0  0
+Bernero A             4.2  2  0  0  0  3
+Tolar K               1.0  1  0  0  0  0
+
+E -- Easley D, Buehrle M
+DP -- Detroit 2
+LOB -- Chicago 5, Detroit 9
+2B -- Durham R, Ausmus B
+HR -- Singleton C
+PB -- Johnson C
+T -- 2:32
+A -- 24951
+     Game of 9/20/2000 -- Chicago at Detroit (N)
+
+  Chicago            AB  R  H RBI    Detroit            AB  R  H RBI
+Durham R, 2b          5  2  3  4   Becker R, rf          1  0  0  1   
+Valentin J, ss        5  1  1  0   Magee W, ph-rf        2  0  0  0   
+Thomas F, dh          4  1  1  1   McMillon B, dh        3  0  1  0   
+Ordonez M, rf         5  1  1  1   Higginson B, lf       4  2  1  1   
+Lee C, lf             4  1  2  0   Allen D, ph           1  0  1  0   
+Christensen M, cf     0  1  0  0   Palmer D, 3b          5  2  2  2   
+Konerko P, 1b         4  3  3  5   Morris H, 1b          3  0  0  0   
+Perry H, 3b           5  0  1  1   Cruz D, ss            4  1  1  0   
+Singleton C, cf-lf    4  1  1  0   Fick R, c             1  0  0  0   
+Johnson C, c          3  2  2  1   Easley D, 2b          4  1  1  1   
+                                   Macias J, 2b          0  0  0  0   
+                                   Encarnacion J, cf     4  0  2  0   
+                                   Ausmus B, c           3  0  1  1   
+                                   Halter S, ss          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 13 15 13                        35  6 10  6
+
+Chicago          106 000 042 -- 13
+Detroit          021 000 210 --  6
+
+  Chicago              IP  H  R ER BB SO
+Garland J (W)         6.0  5  3  3  5  4
+Wunsch K              1.0  1  2  2  1  0
+Howry B               1.0  3  1  1  0  0
+Barcelo L             1.0  1  0  0  1  2
+
+  Detroit              IP  H  R ER BB SO
+Moehler B (L)         2.1  7  7  7  1  1
+Blair W               5.1  5  1  1  1  2
+Nitkowski C*          0.0  1  1  1  0  0
+Anderson M            1.1  2  4  4  1  3
+  * Pitched to 1 batter in 8th
+
+DP -- Chicago 2, Detroit 3
+LOB -- Chicago 3, Detroit 9
+2B -- Palmer D, Konerko P, Encarnacion J
+3B -- Durham R
+HR -- Johnson C, Higginson B, Palmer D, Durham R, Konerko P
+HBP -- by Anderson M (Christensen M)
+WP -- Garland J
+T -- 3:00
+A -- 28422
+     Game of 9/29/2000 -- Minnesota at Detroit (N)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Hocking D, 2b         4  0  0  0   Becker R, rf          4  0  1  0   
+Guzman C, ss          4  0  0  0   Lindsey R, pr-rf      0  0  0  0   
+Lawton M, dh          4  0  0  0   Encarnacion J, cf     4  1  1  0   
+Koskie C, 3b          4  0  1  0   Higginson B, lf       3  0  1  0   
+Mientkiewicz D, 1b    4  0  2  0   Palmer D, 3b          2  0  0  1   
+Rivas L, pr           0  0  0  0   McMillon B, dh        3  0  1  0   
+Hunter T, cf          4  0  2  0   Cruz D, ss            3  0  1  0   
+Jones J, lf           3  0  0  0   Morris H, 1b          3  0  2  0   
+Barnes J, rf          3  0  2  0   Easley D, 2b          3  0  0  0   
+Pierzynski A, c       1  0  0  0   Ausmus B, c           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  7  0                        28  1  7  1
+
+Minnesota        000 000 000 --  0
+Detroit          100 000 00x --  1
+
+  Minnesota            IP  H  R ER BB SO
+Mays J (L)            8.0  7  1  1  0  5
+
+  Detroit              IP  H  R ER BB SO
+Weaver J (W)          8.2  6  0  0  2  6
+Jones T (S)           0.1  1  0  0  0  0
+
+DP -- Minnesota 1, Detroit 2
+LOB -- Minnesota 7, Detroit 4
+2B -- Higginson B
+SB -- Lindsey R
+CS -- Cruz D, Jones J
+SF -- Palmer D
+HBP -- by Weaver J (Pierzynski A)
+T -- 2:28
+A -- 28604
+     Game of 9/30/2000 -- Minnesota at Detroit (N)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Rivas L, 2b           5  3  3  1   Becker R, cf          3  0  0  0   
+Guzman C, ss          5  0  2  1   Macias J, ph-cf-2b    2  1  0  0   
+Mientkiewicz D, 1b    5  0  2  2   Morris H, 1b          3  1  1  0   
+LeCroy M, dh          4  0  1  1   Magee W, ph-cf-rf     2  0  0  0   
+Lawton M, ph          2  0  0  0   Higginson B, lf       5  0  2  0   
+Jones J, lf           6  0  0  0   Palmer D, 3b          6  0  2  1   
+Hunter T, cf          5  0  0  0   McMillon B, rf        3  1  1  1   
+Blake C, 3b           4  0  0  0   Encarnacion J, cf     0  0  0  0   
+Hocking D, ph-3b      0  0  0  0   Cruz D, ss            5  1  2  0   
+Barnes J, rf          5  1  3  0   Fick R, dh            4  1  2  1   
+Pierzynski A, c       5  1  2  0   Easley D, 2b          4  0  1  0   
+                                   Lindsey R, pr-cf      0  1  0  0   
+                                   Halter S, 1b          1  0  0  0   
+                                   Ausmus B, c           5  0  2  2   
+                     -- -- -- --                        -- -- -- --
+                     46  5 13  5                        43  6 13  5
+
+Minnesota        001 030 100 00 --  5
+Detroit          011 000 030 01 --  6
+  2 outs when winning run was scored.
+
+  Minnesota            IP  H  R ER BB SO
+Kinney M              6.0  6  2  2  3  6
+Miller T              1.0  0  0  0  0  1
+Wells B               0.2  4  3  3  0  1
+Guardado E            0.1  0  0  0  0  0
+Hawkins L (L)         2.2  3  1  1  1  0
+
+  Detroit              IP  H  R ER BB SO
+Sparks S*             6.0 11  5  5  0  4
+Tolar K               0.2  0  0  0  0  1
+Blair W               1.1  1  0  0  1  2
+Jones T (W)           3.0  1  0  0  2  0
+  * Pitched to 1 batter in 7th
+
+E -- Guzman C 2, Morris H, Ausmus B, Hawkins L
+DP -- Minnesota 1
+LOB -- Minnesota 12, Detroit 11
+2B -- McMillon B, Guzman C, Morris H, Higginson B, Barnes J 2, Rivas L, Ausmus B
+SB -- Guzman C
+SH -- Macias J
+SF -- McMillon B, Mientkiewicz D
+WP -- Blair W, Jones T
+T -- 3:52
+A -- 29321
+     Game of 10/1/2000 -- Minnesota at Detroit (D)
+
+  Minnesota          AB  R  H RBI    Detroit            AB  R  H RBI
+Rivas L, 2b           5  1  2  0   Easley D, 2b          4  1  1  1   
+Hocking D, ss         5  2  2  2   Cardona J, c          0  0  0  0   
+Lawton M, rf          2  1  0  0   Morris H, ph          1  0  1  1   
+Maxwell J, ph-3b      2  1  1  0   Encarnacion J, cf     2  0  1  1   
+Ortiz D, dh           3  0  0  0   Lindsey R, pr-rf-cf   2  2  1  0   
+Blake C, ph           1  1  0  1   Higginson B, dh-lf    4  1  3  3   
+Koskie C, 3b          2  1  1  1   Palmer D, 3b-1b-3b    4  1  1  1   
+Buchanan B, ph-rf     2  1  1  2   Macias J, ss          0  0  0  0   
+Hunter T, cf          5  0  3  2   Magee W, lf-rf        4  2  2  1   
+Mientkiewicz D, 1b    5  0  2  2   Ausmus B, c-3b-2b-1b  4  0  1  0   
+LeCroy M, c           4  1  1  0   Allen D, rf,...       4  2  2  1   
+Jones J, lf           4  2  2  0   Halter S, 1b,...      5  2  4  3   
+                                   Cruz D, ss            1  0  1  0   
+                                   Becker R, pr          0  1  0  0   
+                                   Fick R, ph-1b         2  0  0  0   
+                                   Anderson M, p         0  0  0  0   
+                                   Jones T, p            0  0  0  0   
+                                   McMillon B, ph        1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     40 11 15 10                        38 12 19 12
+
+Minnesota        001 025 300 -- 11
+Detroit          002 060 112 -- 12
+  0 outs when winning run was scored.
+
+  Minnesota            IP  H  R ER BB SO
+Romero J*             4.0  8  6  6  2  2
+Cressend J            0.1  3  2  2  1  1
+Miller T              1.2  0  0  0  1  2
+Ryan J                0.1  2  1  1  1  0
+Wells B+              0.2  1  1  1  0  0
+Guardado E (L)#       1.0  4  2  2  0  0
+Mota D                0.0  1  0  0  0  0
+
+  Detroit              IP  H  R ER BB SO
+Moehler B             5.0  7  3  3  2  2
+Bernero A**           0.0  3  4  2  1  0
+Nitkowski C           0.2  1  1  0  1  0
+Patterson D           1.0  1  3  3  1  0
+Cruz N                0.1  2  0  0  0  0
+Halter S++            0.0  0  0  0  1  0
+Anderson M            1.2  1  0  0  0  0
+Jones T (W)           0.1  0  0  0  0  0
+  * Pitched to 4 batters in 5th
+  + Pitched to 1 batter in 8th
+  # Pitched to 3 batters in 9th
+  ** Pitched to 4 batters in 6th
+  ++ Pitched to 1 batter in 8th
+
+E -- Palmer D 2
+DP -- Minnesota 3, Detroit 2
+LOB -- Minnesota 12, Detroit 10
+2B -- Jones J, Hocking D, Koskie C, Hunter T, Higginson B, Lindsey R, Halter S
+HR -- Allen D
+SB -- Rivas L, Maxwell J
+CS -- Ausmus B
+SH -- Rivas L, Cruz D, Lindsey R, Macias J
+SF -- Blake C
+HBP -- by Moehler B (Koskie C), by Patterson D (Blake C)
+T -- 3:59
+A -- 28293
+

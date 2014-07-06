@@ -1,4 +1,0 @@
-date,hitVal,otherInfo
-9/19,True,n/a
-9/26,True,n/a
-10/1,True,n/a

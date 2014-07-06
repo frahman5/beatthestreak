@@ -1,12 +1,13 @@
 /* Faiyam: Default */
-// #define pInfoDir "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak\
-// /datasets/playerInfo"
+#define pInfoDir "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak\
+/datasets/playerInfo"
+#define rootDir "/Users/faiyamrahman/programming/Python/beatthestreak/beatthestreak"
 
 /* Faiyam: secondary: for devving while simming */
-#define pInfoDir "/Users/faiyamrahman/programming/Python/beatthestreak2/\
-beatthestreak/beatthestreak/datasets/playerInfo"
-#define rootDir "/Users/faiyamrahman/programming/Python/beatthestreak2/\
-beatthestreak/beatthestreak/"
+// #define pInfoDir "/Users/faiyamrahman/programming/Python/beatthestreak2/\
+// beatthestreak/beatthestreak/datasets/playerInfo"
+// #define rootDir "/Users/faiyamrahman/programming/Python/beatthestreak2/\
+// beatthestreak/beatthestreak/"
 
 /* Faiyam: Vagrant Linux Box */
 // #define pInfoDir "/home/vagrant/programming/Python/beatthestreak/datasets/playerInfo"

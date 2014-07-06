@@ -1,0 +1,783 @@
+     Game of 4/9/2012 -- San Francisco at Colorado (D)
+
+  San Francisco      AB  R  H RBI    Colorado           AB  R  H RBI
+Blanco G, rf          4  0  0  0   Scutaro M, 2b         4  0  1  0   
+Cabrera M, lf         4  2  2  0   Fowler D, cf          4  0  0  0   
+Sandoval P, 3b        4  2  1  2   Gonzalez C, lf        4  0  0  0   
+Huff A, 1b            3  1  1  0   Tulowitzki T, ss      4  0  1  0   
+Sanchez H, c          5  1  2  1   Helton T, 1b          4  0  0  0   
+Pagan A, cf           4  1  1  1   Cuddyer M, rf         3  0  0  0   
+Crawford B, ss        4  0  1  3   Hernandez R, c        3  0  1  0   
+Theriot R, 2b         5  0  1  0   Nelson C, 3b          3  0  0  0   
+Zito B, p             4  0  1  0   Roenicke J, p         0  0  0  0   
+                                   Chacin J, p           1  0  1  0   
+                                   Reynolds M, p         0  0  0  0   
+                                   Young E, ph           1  0  0  0   
+                                   Rogers E, p           0  0  0  0   
+                                   Pacheco J, 3b         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 10  7                        32  0  4  0
+
+San Francisco    202 030 000 --  7
+Colorado         000 000 000 --  0
+
+  San Francisco        IP  H  R ER BB SO
+Zito B (W)            9.0  4  0  0  0  4
+
+  Colorado             IP  H  R ER BB SO
+Chacin J (L)          4.0  4  4  4  5  3
+Reynolds M            1.0  2  3  1  0  0
+Rogers E              2.0  3  0  0  2  1
+Roenicke J            2.0  1  0  0  0  2
+
+E -- Gonzalez C, Tulowitzki T, Pagan A
+DP -- Colorado 2
+LOB -- San Francisco 10, Colorado 5
+2B -- Huff A, Crawford B, Hernandez R, Pagan A
+HR -- Sandoval P
+CS -- Cabrera M
+T -- 2:52
+A -- 49282
+     Game of 4/11/2012 -- San Francisco at Colorado (N)
+
+  San Francisco      AB  R  H RBI    Colorado           AB  R  H RBI
+Pagan A, cf           4  1  0  0   Scutaro M, 2b         4  3  1  1   
+Cabrera M, lf         4  1  2  1   Fowler D, cf          5  2  3  0   
+Hensley C, p          0  0  0  0   Gonzalez C, lf        5  4  3  4   
+Posey B, ph           1  0  0  0   Colvin T, lf          0  0  0  0   
+Wilson B, p           0  0  0  0   Tulowitzki T, ss      6  2  2  2   
+Sandoval P, 3b        5  1  2  1   Herrera J, ss         0  0  0  0   
+Huff A, 1b            1  0  0  0   Helton T, 1b          6  1  3  1   
+Otero D, p            0  0  0  0   Cuddyer M, rf         5  2  3  2   
+Blanco G, ph          0  1  0  0   Hernandez R, c        6  1  2  2   
+Mota G, p             0  0  0  0   Nelson C, 3b          4  1  3  2   
+Pill B, 1b            2  0  0  0   Guthrie J, p          2  0  0  0   
+Sanchez H, c          5  0  1  2   Reynolds M, p         0  0  0  0   
+Schierholtz N, rf     4  2  2  3   Young E, ph           2  1  2  1   
+Crawford B, ss        4  1  2  1   Belisle M, p          0  0  0  0   
+Burriss E, 2b         4  1  3  0   Chatwood T, p         0  0  0  0   
+Lincecum T, p         1  0  0  0                                      
+Belt B, 1b            1  0  0  0                                      
+Affeldt J, p          0  0  0  0                                      
+Theriot R, ph-lf      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  8 12  8                        45 17 22 15
+
+San Francisco    000 700 100 --  8
+Colorado         213 370 01x -- 17
+
+  San Francisco        IP  H  R ER BB SO
+Lincecum T            2.1  8  6  6  2  3
+Otero D               0.2  0  0  0  0  0
+Mota G (L)*           1.0  6  5  4  0  0
+Affeldt J             2.0  6  5  2  1  1
+Hensley C             1.0  1  0  0  1  0
+Wilson B              1.0  1  1  1  1  1
+
+  Colorado             IP  H  R ER BB SO
+Guthrie J             3.1  9  6  6  2  1
+Reynolds M (W)        1.2  1  1  1  2  1
+Belisle M             1.0  0  0  0  0  1
+Chatwood T (S)        3.0  2  1  1  0  0
+  * Pitched to 2 batters in 5th
+
+E -- Burriss E, Pill B 2
+DP -- San Francisco 1, Colorado 1
+LOB -- San Francisco 7, Colorado 11
+2B -- Cabrera M, Cuddyer M 3, Sandoval P 2, Fowler D 2, Scutaro M, Helton T, Nelson C
+3B -- Gonzalez C 2, Young E
+HR -- Schierholtz N 2, Crawford B
+SB -- Scutaro M, Burriss E, Young E
+SH -- Fowler D
+SF -- Schierholtz N
+HBP -- by Hensley C (Scutaro M)
+WP -- Lincecum T 2, Wilson B
+T -- 3:43
+A -- 30337
+     Game of 4/12/2012 -- San Francisco at Colorado (D)
+
+  San Francisco      AB  R  H RBI    Colorado           AB  R  H RBI
+Pagan A, cf           5  1  1  1   Scutaro M, 2b         5  0  0  0   
+Cabrera M, lf         4  0  2  2   Fowler D, cf          2  0  1  1   
+Sandoval P, 3b        5  1  1  0   Gonzalez C, lf        4  0  1  0   
+Posey B, c            4  0  1  0   Tulowitzki T, ss      3  1  1  0   
+Pill B, 1b            3  0  1  1   Cuddyer M, rf         4  0  1  0   
+Schierholtz N, rf     4  0  0  0   Rosario W, c          4  0  0  0   
+Theriot R, 2b         4  1  0  0   Pacheco J, 1b         2  0  0  0   
+Burriss E, 2b         0  0  0  0   Rogers E, p           0  0  0  0   
+Crawford B, ss        4  1  2  0   Young E, ph           1  0  0  0   
+Bumgarner M, p        4  0  0  0   Brothers R, p         0  0  0  0   
+Romo S, p             0  0  0  0   Betancourt R, p       0  0  0  0   
+Lopez J, p            0  0  0  0   Giambi J, ph          1  0  1  0   
+Wilson B, p           0  0  0  0   Herrera J, pr         0  0  0  0   
+                                   Nelson C, 3b          3  0  1  0   
+                                   Helton T, ph          1  0  0  0   
+                                   Moyer J, p            1  0  0  0   
+                                   Colvin T, 1b          2  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     37  4  8  4                        33  2  7  2
+
+San Francisco    001 102 000 --  4
+Colorado         000 001 001 --  2
+
+  San Francisco        IP  H  R ER BB SO
+Bumgarner M (W)       7.1  4  1  1  2  2
+Romo S                0.1  0  0  0  1  0
+Lopez J               0.1  0  0  0  0  0
+Wilson B (S)          1.0  3  1  1  1  1
+
+  Colorado             IP  H  R ER BB SO
+Moyer J (L)           5.2  8  4  2  1  3
+Rogers E              1.1  0  0  0  0  2
+Brothers R            1.0  0  0  0  0  1
+Betancourt R          1.0  0  0  0  0  1
+
+E -- Nelson C, Fowler D
+DP -- San Francisco 1
+LOB -- San Francisco 8, Colorado 8
+2B -- Crawford B, Cabrera M, Tulowitzki T
+3B -- Colvin T
+HBP -- by Moyer J (Pill B)
+T -- 3:20
+A -- 25860
+     Game of 4/13/2012 -- Arizona at Colorado (N)
+
+  Arizona            AB  R  H RBI    Colorado           AB  R  H RBI
+Bloomquist W, ss      5  0  0  0   Scutaro M, 2b         5  0  1  0   
+Kubel J, lf           5  0  1  0   Fowler D, cf          5  1  1  1   
+Upton J, rf           4  2  2  0   Gonzalez C, lf        5  2  2  0   
+Montero M, c          4  2  2  2   Tulowitzki T, ss      4  2  3  0   
+Parra G, pr           0  0  0  0   Helton T, 1b          5  0  3  3   
+Young C, cf           3  1  0  0   Cuddyer M, rf         4  1  1  0   
+Goldschmidt P, 1b     5  1  2  2   Hernandez R, c        4  1  2  3   
+Blum G, 3b            3  0  0  1   Nelson C, 3b          3  0  1  0   
+Roberts R, 2b         3  0  1  1   Nicasio J, p          0  0  0  0   
+Hudson D, p           1  0  0  0   Rogers E, p           1  0  0  0   
+Ziegler B, p          1  0  0  0   Young E, ph           1  0  0  0   
+Breslow C, p          0  0  0  0   Belisle M, p          0  0  0  0   
+Hill A, ph            1  0  1  0   Pacheco J, ph         0  0  0  0   
+Shaw B, p             0  0  0  0   Brothers R, p         0  0  0  0   
+                                   Betancourt R, p       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6  9  6                        37  7 14  7
+
+Arizona          204 000 000 --  6
+Colorado         112 200 01x --  7
+
+  Arizona              IP  H  R ER BB SO
+Hudson D              3.2 10  6  6  3  3
+Ziegler B             1.1  1  0  0  0  1
+Breslow C             2.0  1  0  0  2  1
+Shaw B (L)            1.0  2  1  0  0  2
+
+  Colorado             IP  H  R ER BB SO
+Nicasio J             2.2  5  6  6  5  3
+Rogers E              2.1  2  0  0  0  3
+Belisle M             2.0  0  0  0  0  1
+Brothers R (W)        1.0  1  0  0  1  0
+Betancourt R (S)      1.0  1  0  0  0  0
+
+E -- Cuddyer M, Goldschmidt P
+DP -- Arizona 1
+LOB -- Arizona 9, Colorado 11
+2B -- Roberts R, Tulowitzki T, Hernandez R, Upton J, Helton T
+HR -- Fowler D, Hernandez R, Montero M
+SF -- Blum G
+WP -- Nicasio J, Hudson D
+T -- 3:39
+A -- 30642
+     Game of 4/14/2012 -- Arizona at Colorado (N)
+
+  Arizona            AB  R  H RBI    Colorado           AB  R  H RBI
+Roberts R, 3b         4  2  1  0   Scutaro M, 2b         3  1  0  0   
+Parra G, lf           4  0  3  1   Fowler D, cf          3  1  0  0   
+Upton J, rf           5  2  1  0   Chatwood T, p         0  0  0  0   
+Montero M, c          4  1  1  3   Giambi J, ph          1  0  0  0   
+Young C, cf           4  0  2  1   Tulowitzki T, ss      4  0  0  0   
+Overbay L, 1b         3  0  0  0   Helton T, 1b          4  1  1  2   
+Goldschmidt P, ph-1b  1  0  0  1   Cuddyer M, rf         4  1  3  1   
+Hill A, 2b            4  1  0  0   Colvin T, lf-cf       4  2  2  2   
+McDonald J, ss        4  1  2  1   Hernandez R, c        4  1  1  1   
+Collmenter J, p       1  0  0  0   Pacheco J, 3b         3  1  1  0   
+Blum G, ph            0  0  0  0   Brothers R, p         0  0  0  0   
+Miley W, p            2  0  1  0   Young E, lf           1  0  1  1   
+Hernandez D, p        0  0  0  0   Chacin J, p           2  0  0  1   
+Putz J, p             0  0  0  0   Roenicke J, p         0  0  0  0   
+                                   Reynolds M, p         0  0  0  0   
+                                   Belisle M, p          0  0  0  0   
+                                   Nelson C, ph-3b       2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 11  7                        35  8 10  8
+
+Arizona          100 031 110 --  7
+Colorado         031 100 012 --  8
+  2 outs when winning run was scored.
+
+  Arizona              IP  H  R ER BB SO
+Collmenter J          4.0  5  5  5  3  2
+Miley W               3.0  2  0  0  1  0
+Hernandez D           1.0  2  1  1  0  2
+Putz J (L)            0.2  1  2  2  0  1
+
+  Colorado             IP  H  R ER BB SO
+Chacin J              4.0  4  1  1  3  5
+Roenicke J            1.0  2  3  3  1  0
+Reynolds M            0.1  0  0  0  0  0
+Belisle M             0.2  1  1  0  0  0
+Brothers R            1.0  2  1  1  0  0
+Chatwood T (W)        2.0  2  1  1  1  3
+
+E -- Chacin J, Tulowitzki T 2
+DP -- Arizona 1, Colorado 3
+LOB -- Arizona 9, Colorado 6
+2B -- McDonald J 2, Young E
+3B -- Pacheco J, Cuddyer M
+HR -- Colvin T, Hernandez R, Montero M, Helton T
+SB -- Scutaro M, Young C
+CS -- Hill A
+SH -- Parra G
+SF -- Goldschmidt P
+HBP -- by Putz J (Scutaro M)
+WP -- Chacin J
+T -- 3:19
+A -- 29856
+     Game of 4/15/2012 -- Arizona at Colorado (D)
+
+  Arizona            AB  R  H RBI    Colorado           AB  R  H RBI
+Roberts R, 3b         5  0  2  0   Young E, lf           4  0  1  0   
+Parra G, lf           5  2  1  0   Colvin T, cf-rf       4  0  0  1   
+Upton J, rf           5  2  2  0   Tulowitzki T, ss      3  0  1  1   
+Young C, cf           4  1  2  3   Giambi J, 1b          3  0  0  0   
+Goldschmidt P, 1b     4  0  1  0   Guthrie J, pr         0  0  0  0   
+Hill A, 2b            2  0  1  2   Betancourt R, p       0  0  0  0   
+McDonald J, ss        4  0  0  0   Cuddyer M, rf         3  0  0  0   
+Blanco H, c           4  0  1  0   Reynolds M, p         0  0  0  0   
+Cahill T, p           4  0  0  0   Hernandez R, ph-1b    1  0  0  0   
+Paterson J, p         0  0  0  0   Rosario W, c          3  0  1  0   
+Ziegler B, p          0  0  0  0   Nelson C, 3b          4  0  0  0   
+Breslow C, p          0  0  0  0   Herrera J, 2b         4  1  3  0   
+Shaw B, p             0  0  0  0   Pomeranz D, p         1  0  0  0   
+                                   Roenicke J, p         1  0  0  0   
+                                   Fowler D, cf          0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 10  5                        31  2  6  2
+
+Arizona          201 020 000 --  5
+Colorado         000 000 020 --  2
+
+  Arizona              IP  H  R ER BB SO
+Cahill T (W)          7.1  4  1  1  2  6
+Paterson J            0.1  1  1  1  1  0
+Ziegler B*            0.0  1  0  0  0  0
+Breslow C+            0.0  0  0  0  1  0
+Shaw B (S)            1.1  0  0  0  0  1
+
+  Colorado             IP  H  R ER BB SO
+Pomeranz D (L)        4.1  9  5  5  2  3
+Roenicke J            2.2  1  0  0  1  5
+Reynolds M            1.0  0  0  0  0  2
+Betancourt R          1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 8th
+
+E -- Upton J
+DP -- Arizona 2
+LOB -- Arizona 8, Colorado 6
+2B -- Goldschmidt P
+HR -- Young C
+SB -- Parra G 2, Young C, Upton J
+Balk -- Pomeranz D
+PB -- Rosario W
+T -- 3:19
+A -- 26952
+     Game of 4/16/2012 -- San Diego at Colorado (N)
+
+  San Diego          AB  R  H RBI    Colorado           AB  R  H RBI
+Maybin C, cf          3  0  1  2   Scutaro M, 2b         3  0  2  0   
+Venable W, lf         4  1  1  0   Fowler D, cf          3  0  0  0   
+Headley C, 3b         5  3  3  1   Tulowitzki T, ss      4  0  0  0   
+Hermida J, rf         5  0  0  0   Helton T, 1b          4  0  0  0   
+Hundley N, c          5  0  3  3   Cuddyer M, rf         4  1  1  0   
+Alonso Y, 1b          5  1  2  0   Hernandez R, c        4  0  0  0   
+Parrino A, 2b         5  1  2  0   Colvin T, lf          4  0  2  1   
+Bartlett J, ss        3  1  1  0   Nelson C, 3b          4  0  2  0   
+Luebke C, p           2  0  0  0   Guthrie J, p          1  0  0  0   
+Guzman J, ph          1  0  1  0   Giambi J, ph          1  0  0  0   
+Cashner A, p          0  0  0  0   Reynolds M, p         0  0  0  0   
+Owings M, p           0  0  0  0   Chatwood T, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 14  6                        32  1  7  1
+
+San Diego        210 200 101 --  7
+Colorado         010 000 000 --  1
+
+  San Diego            IP  H  R ER BB SO
+Luebke C (W)          7.0  6  1  1  1  4
+Cashner A             1.0  1  0  0  1  1
+Owings M              1.0  0  0  0  0  2
+
+  Colorado             IP  H  R ER BB SO
+Guthrie J (L)         7.0  9  6  6  2  1
+Reynolds M            1.0  2  0  0  0  1
+Chatwood T            1.0  3  1  1  0  1
+
+E -- Tulowitzki T
+DP -- San Diego 1, Colorado 1
+LOB -- San Diego 9, Colorado 7
+2B -- Venable W, Headley C 3, Hundley N, Parrino A, Cuddyer M, Bartlett J
+SB -- Nelson C
+SH -- Luebke C, Guthrie J
+SF -- Maybin C
+HBP -- by Guthrie J (Venable W)
+T -- 2:42
+A -- 21547
+     Game of 4/17/2012 -- San Diego at Colorado (N)
+
+  San Diego          AB  R  H RBI    Colorado           AB  R  H RBI
+Maybin C, cf          4  0  0  0   Scutaro M, 2b         3  1  1  0   
+Kotsay M, lf          3  0  2  0   Fowler D, cf          4  1  1  2   
+Street H, p           0  0  0  0   Gonzalez C, lf        2  0  0  0   
+Headley C, 3b         4  0  0  0   Tulowitzki T, ss      3  1  0  0   
+Guzman J, 1b-lf       3  1  1  0   Helton T, 1b          4  1  0  0   
+Hundley N, c          4  1  1  1   Cuddyer M, rf         4  1  2  1   
+Denorfia C, rf        4  1  4  0   Rosario W, c          3  0  1  2   
+Parrino A, 2b         3  0  1  0   Nelson C, 3b          3  0  1  0   
+Bartlett J, ss        3  0  0  1   Moyer J, p            2  0  0  0   
+Bass A, p             1  0  0  0   Young E, ph           1  0  1  0   
+Venable W, ph         1  0  0  0   Brothers R, p         0  0  0  0   
+Frieri E, p           0  0  0  0   Colvin T, ph          1  0  0  0   
+Hermida J, ph         1  0  0  0   Betancourt R, p       0  0  0  0   
+Gregerson L, p        0  0  0  0                                      
+Thatcher J, p         0  0  0  0                                      
+Alonso Y, 1b          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  9  2                        30  5  7  5
+
+San Diego        000 000 201 --  3
+Colorado         002 100 02x --  5
+
+  San Diego            IP  H  R ER BB SO
+Bass A (L)            5.0  4  3  3  3  7
+Frieri E              1.0  0  0  0  0  2
+Gregerson L           0.2  2  0  0  0  1
+Thatcher J*           0.1  0  2  1  1  0
+Street H              1.0  1  0  0  0  2
+
+  Colorado             IP  H  R ER BB SO
+Moyer J (W)           7.0  6  2  0  2  1
+Brothers R            1.0  0  0  0  1  1
+Betancourt R (S)      1.0  3  1  1  0  1
+  * Pitched to 2 batters in 8th
+
+E -- Tulowitzki T 2, Kotsay M
+DP -- Colorado 4
+LOB -- San Diego 6, Colorado 7
+2B -- Rosario W, Cuddyer M
+HR -- Fowler D, Hundley N
+SB -- Cuddyer M
+CS -- Denorfia C
+SH -- Scutaro M
+SF -- Bartlett J, Rosario W
+T -- 2:48
+A -- 24525
+     Game of 4/18/2012 -- San Diego at Colorado (N)
+
+  San Diego          AB  R  H RBI    Colorado           AB  R  H RBI
+Venable W, cf         4  1  2  0   Scutaro M, ss         4  1  1  0   
+Denorfia C, rf        4  0  0  0   Fowler D, cf          4  0  1  1   
+Headley C, 3b         4  2  3  3   Gonzalez C, lf        3  1  0  0   
+Guzman J, lf          3  0  0  0   Cuddyer M, rf         3  1  1  2   
+Spence J, p           0  0  0  0   Colvin T, rf          1  0  1  0   
+Kotsay M, ph          1  0  0  0   Helton T, 1b          3  1  1  0   
+Owings M, p           0  0  0  0   Rosario W, c          4  1  2  0   
+Alonso Y, 1b          4  0  0  0   Nelson C, 3b          3  2  2  2   
+Hundley N, c          4  1  2  0   Herrera J, 2b         4  1  2  2   
+Bartlett J, ss        4  0  0  0   Nicasio J, p          3  0  1  1   
+Hudson O, 2b          4  0  1  0   Rogers E, p           0  0  0  0   
+Richard C, p          2  0  0  0   Young E, ph           1  0  0  0   
+Hermida J, lf         0  0  0  0   Belisle M, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  8  3                        33  8 12  8
+
+San Diego        100 002 100 --  4
+Colorado         050 021 00x --  8
+
+  San Diego            IP  H  R ER BB SO
+Richard C (L)         5.1 10  8  8  2  2
+Spence J              1.2  1  0  0  1  3
+Owings M              1.0  1  0  0  1  1
+
+  Colorado             IP  H  R ER BB SO
+Nicasio J (W)         6.1  7  4  4  0  5
+Rogers E              1.2  1  0  0  1  3
+Belisle M             1.0  0  0  0  0  1
+
+DP -- Colorado 1
+LOB -- San Diego 4, Colorado 5
+2B -- Rosario W, Nelson C 2, Scutaro M, Fowler D, Helton T, Venable W, Herrera J
+HR -- Headley C 2, Herrera J, Cuddyer M
+CS -- Venable W, Rosario W, Colvin T, Nelson C
+WP -- Rogers E
+T -- 2:34
+A -- 24762
+     Game of 4/27/2012 -- New York at Colorado (N)
+
+  New York           AB  R  H RBI    Colorado           AB  R  H RBI
+Nieuwenhuis K, cf     5  1  1  0   Scutaro M, 2b         5  4  4  0   
+Tejada R, ss          6  2  4  0   Herrera J, 3b         4  3  1  1   
+Murphy D, 2b          5  0  0  0   Gonzalez C, lf        6  1  3  6   
+Wright D, 3b          3  1  1  0   Tulowitzki T, ss      6  2  2  1   
+Hairston S, lf        5  3  4  4   Helton T, 1b          5  1  3  1   
+Parnell B, p          0  0  0  0   Cuddyer M, rf         3  2  1  0   
+Byrdak T, p           0  0  0  0   Hernandez R, c        5  2  1  5   
+Duda L, rf            4  1  2  2   Fowler D, cf          5  1  3  3   
+Lutz Z, 1b            5  1  1  0   Pomeranz D, p         1  0  1  0   
+Nickeas M, c          2  0  2  1   Rogers E, p           0  0  0  0   
+Thole J, ph-c         2  0  1  0   Young E, ph           1  2  0  0   
+Schwinden C, p        3  0  1  1   Roenicke J, p         0  0  0  0   
+Acosta M, p           0  0  0  0   Reynolds M, p         1  0  0  0   
+Batista M, p          0  0  0  0   Belisle M, p          1  0  0  0   
+Turner J, ph          1  0  0  0   Brothers R, p         0  0  0  0   
+Ramirez R, p          0  0  0  0                                      
+Baxter M, lf          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     42  9 17  8                        43 18 19 17
+
+New York         100 143 000 --  9
+Colorado         200 0(11)0 50x -- 18
+
+  New York             IP  H  R ER BB SO
+Schwinden C*          4.0  7  6  5  1  0
+Acosta M (L)          0.1  5  7  7  2  0
+Batista M             0.2  0  0  0  0  0
+Ramirez R             1.2  4  4  3  1  2
+Parnell B             0.2  3  1  1  0  0
+Byrdak T              0.2  0  0  0  0  0
+
+  Colorado             IP  H  R ER BB SO
+Pomeranz D            4.0  5  2  1  3  4
+Rogers E              1.0  6  4  4  0  3
+Roenicke J            0.2  3  3  3  1  0
+Reynolds M (W)        1.0  2  0  0  0  1
+Belisle M             1.1  1  0  0  0  2
+Brothers R            1.0  0  0  0  0  2
+  * Pitched to 4 batters in 5th
+
+E -- Fowler D, Schwinden C, Nickeas M, Tejada R, Lutz Z, Thole J, Murphy D
+LOB -- New York 11, Colorado 7
+2B -- Hairston S
+3B -- Scutaro M, Helton T, Hairston S
+HR -- Tulowitzki T, Hairston S, Gonzalez C, Fowler D, Hernandez R
+SB -- Young E
+CS -- Wright D
+HBP -- by Pomeranz D (Duda L), by Acosta M (Herrera J)
+WP -- Pomeranz D
+T -- 3:47
+A -- 35103
+     Game of 4/28/2012 -- New York at Colorado (N)
+
+  New York           AB  R  H RBI    Colorado           AB  R  H RBI
+Nieuwenhuis K, cf     5  0  0  0   Scutaro M, 2b         4  1  1  0   
+Tejada R, ss          5  2  3  0   Giambi J, ph          1  0  0  0   
+Murphy D, 2b          5  1  3  0   Herrera J, 3b         4  0  0  0   
+Wright D, 3b          4  2  3  2   Gonzalez C, lf        3  1  1  0   
+Duda L, rf            4  1  2  4   Tulowitzki T, ss      4  1  2  1   
+Hairston S, lf        4  0  0  0   Helton T, 1b          3  0  1  1   
+Davis I, 1b           3  0  1  0   Cuddyer M, rf         4  1  1  1   
+Thole J, c            4  0  0  0   Rosario W, c          4  0  0  0   
+Gee D, p              2  0  0  0   Fowler D, cf          4  1  1  1   
+Byrdak T, p           0  0  0  0   Moscoso G, p          2  0  1  1   
+Baxter M, ph          1  1  1  0   Reynolds M, p         0  0  0  0   
+Francisco F, p        0  0  0  0   Roenicke J, p         0  0  0  0   
+                                   Young E, ph           1  0  0  0   
+                                   Rogers E, p           0  0  0  0   
+                                   Escalona E, p         0  0  0  0   
+                                   Colvin T, ph          1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 13  6                        35  5  9  5
+
+New York         021 030 001 --  7
+Colorado         100 300 001 --  5
+
+  New York             IP  H  R ER BB SO
+Gee D (W)             7.0  7  4  3  2  7
+Byrdak T              1.0  0  0  0  0  1
+Francisco F (S)       1.0  2  1  1  0  1
+
+  Colorado             IP  H  R ER BB SO
+Moscoso G (L)         5.0  9  6  6  1  5
+Reynolds M*           1.0  3  0  0  0  1
+Roenicke J            1.0  0  0  0  0  0
+Rogers E              1.0  0  0  0  0  0
+Escalona E            1.0  1  1  1  0  0
+  * Pitched to 2 batters in 7th
+
+E -- Thole J
+DP -- Colorado 2
+LOB -- New York 5, Colorado 5
+2B -- Wright D, Helton T, Baxter M
+3B -- Colvin T
+HR -- Duda L, Fowler D
+SB -- Scutaro M, Wright D
+CS -- Tulowitzki T
+SH -- Gee D
+WP -- Escalona E
+T -- 2:58
+A -- 38798
+     Game of 4/29/2012 -- New York at Colorado (D)
+
+  New York           AB  R  H RBI    Colorado           AB  R  H RBI
+Nieuwenhuis K, cf     6  1  3  1   Scutaro M, 2b         6  0  0  0   
+Tejada R, ss          6  1  3  0   Fowler D, cf          5  1  1  0   
+Murphy D, 2b-1b       6  0  2  0   Gonzalez C, lf        3  2  2  1   
+Wright D, 3b          3  2  2  2   Tulowitzki T, ss      5  0  1  0   
+Duda L, rf            5  0  1  0   Cuddyer M, rf         3  1  0  0   
+Hairston S, lf        6  0  2  1   Giambi J, 1b          3  0  0  0   
+Davis I, 1b           6  0  3  1   Brothers R, p         0  0  0  0   
+Ramirez R, p          0  0  0  0   Escalona E, p         0  0  0  0   
+Thole J, c            6  1  1  1   Helton T, ph-1b       1  1  1  4   
+Santana J, p          3  0  0  0   Hernandez R, c        5  0  0  0   
+Batista M, p          0  0  0  0   Nelson C, 3b          4  0  1  0   
+Lutz Z, ph            1  0  0  0   Moyer J, p            0  0  0  0   
+Rauch J, p            0  0  0  0   Herrera J, ph         1  0  0  0   
+Byrdak T, p           0  0  0  0   Roenicke J, p         0  0  0  0   
+Parnell B, p          0  0  0  0   Colvin T, 1b          1  0  0  0   
+Baxter M, ph          1  1  1  0   Betancourt R, p       0  0  0  0   
+Francisco F, p        0  0  0  0   Young E, ph           1  0  0  0   
+Valdespin J, 2b       0  0  0  0   Belisle M, p          0  0  0  0   
+                                   Rosario W, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     49  6 18  6                        39  5  6  5
+
+New York         300 010 000 11 --  6
+Colorado         000 000 040 10 --  5
+
+  New York             IP  H  R ER BB SO
+Santana J             6.0  2  0  0  3  5
+Batista M             1.0  0  0  0  0  2
+Rauch J               0.2  1  3  3  2  0
+Byrdak T*             0.0  1  1  1  0  0
+Parnell B             1.1  0  0  0  0  1
+Francisco F (W)       1.0  2  1  1  1  1
+Ramirez R (S)         1.0  0  0  0  0  1
+
+  Colorado             IP  H  R ER BB SO
+Moyer J               5.0 11  4  4  2  7
+Roenicke J            1.2  1  0  0  1  0
+Brothers R            1.0  1  0  0  0  3
+Escalona E            0.1  0  0  0  0  1
+Betancourt R          1.0  0  0  0  1  1
+Belisle M (L)         2.0  5  2  2  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Murphy D, Nelson C
+DP -- Colorado 2
+LOB -- New York 14, Colorado 8
+2B -- Wright D, Davis I, Murphy D, Nelson C, Nieuwenhuis K
+HR -- Thole J, Helton T, Gonzalez C
+SB -- Wright D, Gonzalez C 2
+CS -- Tejada R
+SH -- Moyer J
+Balk -- Betancourt R
+T -- 4:01
+A -- 36690
+     Game of 4/30/2012 -- Los Angeles at Colorado (N)
+
+  Los Angeles        AB  R  H RBI    Colorado           AB  R  H RBI
+Gordon D, ss          5  0  1  0   Scutaro M, 2b         4  1  2  0   
+Ellis M, 2b           4  0  1  0   Herrera J, 3b         4  1  1  0   
+Kemp M, cf            4  1  1  1   Gonzalez C, lf        3  2  2  2   
+Ethier A, rf          4  0  1  0   Tulowitzki T, ss      4  1  1  2   
+Loney J, 1b           3  1  1  0   Helton T, 1b          4  0  0  0   
+Rivera J, ph          1  0  0  0   Hernandez R, c        3  0  1  2   
+MacDougal M, p        0  0  0  0   Colvin T, rf          3  0  1  0   
+Coffey T, p           0  0  0  0   Escalona E, p         0  0  0  0   
+Uribe J, 3b           4  0  1  1   Young E, ph           1  0  0  0   
+Gwynn T, lf           3  0  1  0   Betancourt R, p       0  0  0  0   
+Elbert S, p           0  0  0  0   Fowler D, cf          3  0  0  0   
+Kennedy A, 1b         0  0  0  0   Nicasio J, p          2  0  1  0   
+Ellis A, c            3  0  1  0   Rogers E, p           0  0  0  0   
+Harang A, p           2  0  0  0   Brothers R, p         0  0  0  0   
+Hairston J, lf        2  0  1  0   Cuddyer M, rf         1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2  9  2                        32  6 10  6
+
+Los Angeles      100 001 000 --  2
+Colorado         100 301 10x --  6
+
+  Los Angeles          IP  H  R ER BB SO
+Harang A (L)          5.2  6  5  5  1  5
+Elbert S              0.1  1  0  0  0  0
+MacDougal M           1.0  2  1  1  1  0
+Coffey T              1.0  1  0  0  1  1
+
+  Colorado             IP  H  R ER BB SO
+Nicasio J (W)*        6.0  9  2  2  2  4
+Rogers E              0.1  0  0  0  1  1
+Brothers R            0.1  0  0  0  0  1
+Escalona E            1.1  0  0  0  1  2
+Betancourt R          1.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+DP -- Colorado 1
+LOB -- Los Angeles 10, Colorado 6
+2B -- Scutaro M, Tulowitzki T, Loney J, Hernandez R, Cuddyer M
+HR -- Kemp M
+SF -- Hernandez R
+T -- 3:13
+A -- 25227
+     Game of 5/1/2012 -- Los Angeles at Colorado (N)
+
+  Los Angeles        AB  R  H RBI    Colorado           AB  R  H RBI
+Gordon D, ss          4  1  1  1   Young E, cf           4  1  1  0   
+Ellis M, 2b           5  1  4  0   Belisle M, p          0  0  0  0   
+Kemp M, cf            4  1  1  0   Reynolds M, p         0  0  0  0   
+Ethier A, rf          3  1  2  3   Rosario W, ph         1  0  1  0   
+Loney J, 1b           5  0  1  0   Scutaro M, 2b         5  0  2  0   
+Gwynn T, lf           5  2  2  0   Gonzalez C, lf        4  1  1  2   
+Kennedy A, 3b         4  0  1  0   Tulowitzki T, ss      4  1  1  0   
+Guerra J, p           0  0  0  0   Helton T, 1b          2  0  0  1   
+Ellis A, c            4  1  2  3   Cuddyer M, rf         4  0  0  0   
+Lilly T, p            3  0  0  0   Hernandez R, c        4  1  3  0   
+Rivera J, ph          1  0  0  0   Nelson C, 3b          3  1  1  1   
+Lindblom J, p         0  0  0  0   Giambi J, ph          1  0  0  0   
+Elbert S, p           0  0  0  0   Herrera J, 3b         0  0  0  0   
+Jansen K, p           0  0  0  0   Chacin J, p           1  0  0  0   
+Sellers J, 3b         0  0  0  0   Roenicke J, p         1  0  0  0   
+                                   Colvin T, ph-cf       2  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     38  7 14  7                        36  6 11  6
+
+Los Angeles      401 020 000 --  7
+Colorado         000 002 310 --  6
+
+  Los Angeles          IP  H  R ER BB SO
+Lilly T (W)           6.0  4  2  2  1  4
+Lindblom J            0.2  4  3  3  0  0
+Elbert S              0.1  0  0  0  0  0
+Jansen K              1.0  2  1  1  0  1
+Guerra J (S)          1.0  1  0  0  0  2
+
+  Colorado             IP  H  R ER BB SO
+Chacin J (L)          4.2 11  7  7  4  3
+Roenicke J            2.1  1  0  0  1  1
+Belisle M             0.2  1  0  0  0  0
+Reynolds M            1.1  1  0  0  0  2
+
+E -- Chacin J
+DP -- Los Angeles 1, Colorado 2
+LOB -- Los Angeles 9, Colorado 6
+2B -- Scutaro M, Ellis A, Gwynn T, Hernandez R, Nelson C
+3B -- Tulowitzki T
+HR -- Gordon D, Ethier A, Ellis A, Gonzalez C, Colvin T
+SB -- Gwynn T
+CS -- Kemp M
+SF -- Helton T
+HBP -- by Lilly T (Gonzalez C)
+PB -- Ellis A
+T -- 3:22
+A -- 26211
+     Game of 5/2/2012 -- Los Angeles at Colorado (D)
+
+  Los Angeles        AB  R  H RBI    Colorado           AB  R  H RBI
+Gwynn T, lf           4  0  1  0   Herrera J, 2b-3b      3  0  0  0   
+Ellis M, 2b           5  0  1  1   Fowler D, cf          4  1  1  1   
+Kemp M, cf            2  2  1  0   Giambi J, ph          1  1  1  3   
+Rivera J, 1b          4  0  1  0   Gonzalez C, lf        4  2  2  3   
+Gordon D, ss          1  0  1  2   Tulowitzki T, ss      4  0  1  0   
+Ethier A, rf          4  1  1  0   Helton T, 1b          3  0  0  0   
+Hairston J, 3b        5  0  1  2   Cuddyer M, rf         4  0  1  0   
+Sellers J, ss         3  0  0  0   Rosario W, c          4  1  1  1   
+Loney J, ph-1b        1  0  0  0   Nelson C, 3b          2  0  0  0   
+Wright J, p           0  0  0  0   Rogers E, p           0  0  0  0   
+Elbert S, p           0  0  0  0   Betancourt R, p       0  0  0  0   
+Ellis A, c            3  1  1  0   Young E, ph           0  1  0  0   
+Kershaw C, p          1  0  0  0   Pomeranz D, p         1  0  1  0   
+Kennedy A, 1b         1  1  1  0   Belisle M, p          0  0  0  0   
+                                   Brothers R, p         0  0  0  0   
+                                   Scutaro M, 2b         1  2  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  5  9  5                        31  8  9  8
+
+Los Angeles      001 000 022 --  5
+Colorado         000 110 033 --  8
+  1 out when winning run was scored.
+
+  Los Angeles          IP  H  R ER BB SO
+Kershaw C             7.1  7  5  5  1  6
+Wright J (L)          1.0  1  2  2  3  2
+Elbert S              0.0  1  1  1  0  0
+
+  Colorado             IP  H  R ER BB SO
+Pomeranz D            6.2  4  1  1  4  5
+Belisle M             0.2  1  1  1  0  0
+Brothers R*           0.0  2  1  1  0  0
+Rogers E              0.2  0  0  0  0  1
+Betancourt R (W)      1.0  2  2  2  2  3
+  * Pitched to 2 batters in 8th
+
+LOB -- Los Angeles 10, Colorado 5
+2B -- Hairston J, Gordon D
+HR -- Gonzalez C 2, Rosario W, Giambi J
+SH -- Kershaw C 2, Pomeranz D, Herrera J 2
+WP -- Pomeranz D, Brothers R
+PB -- Ellis A
+T -- 3:28
+A -- 30276
+     Game of 5/4/2012 -- Atlanta at Colorado (N)
+
+  Atlanta            AB  R  H RBI    Colorado           AB  R  H RBI
+Bourn M, cf           6  1  3  0   Scutaro M, 2b         5  0  1  0   
+Jones C, 3b           5  3  3  2   Young E, pr           0  0  0  0   
+Freeman F, 1b         6  2  4  2   Roenicke J, p         0  0  0  0   
+McCann B, c           6  0  1  2   Rosario W, ph-3b      1  0  0  0   
+Uggla D, 2b           4  1  1  0   Herrera J, 3b-2b      3  3  2  1   
+Heyward J, rf         4  0  1  0   Gonzalez C, lf        5  1  0  0   
+O'Flaherty E, p       0  0  0  0   Tulowitzki T, ss      4  1  1  0   
+Durbin C, p           0  0  0  0   Helton T, 1b          6  2  2  3   
+Pastornicky T, ph     1  1  1  0   Cuddyer M, rf         6  1  1  1   
+Kimbrel C, p          0  0  0  0   Hernandez R, c        3  0  0  0   
+Hinske E, lf          6  1  4  3   Fowler D, cf          3  0  1  2   
+Wilson J, ss          5  0  1  0   Moscoso G, p          2  0  0  0   
+Hudson T, p           4  0  0  0   Reynolds M, p         0  0  0  0   
+Medlen K, p           0  0  0  0   Colvin T, ph          1  0  0  1   
+Diaz M, rf            2  0  0  0   Belisle M, p          0  0  0  0   
+                                   Brothers R, p         0  0  0  0   
+                                   Giambi J, ph          1  0  0  0   
+                                   Betancourt R, p       0  0  0  0   
+                                   Nelson C, 3b          0  0  0  0   
+                                   Escalona E, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     49  9 19  9                        40  8  8  8
+
+Atlanta          002 041 000 02 --  9
+Colorado         500 011 000 01 --  8
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T              6.0  6  7  6  3  6
+Medlen K              1.2  0  0  0  2  1
+O'Flaherty E          1.1  1  0  0  1  2
+Durbin C (W)          1.0  0  0  0  2  0
+Kimbrel C (S)         1.0  1  1  1  1  1
+
+  Colorado             IP  H  R ER BB SO
+Moscoso G             4.1  7  6  6  3  5
+Reynolds M            1.2  4  1  1  2  2
+Belisle M             1.0  2  0  0  0  1
+Brothers R            1.0  2  0  0  0  1
+Betancourt R          1.0  1  0  0  0  0
+Roenicke J            1.0  1  0  0  1  1
+Escalona E (L)        1.0  2  2  2  0  1
+
+E -- Hernandez R, Jones C
+DP -- Colorado 1
+LOB -- Atlanta 13, Colorado 10
+2B -- Herrera J, Hinske E, Freeman F, Helton T, Bourn M 2, Uggla D
+HR -- Freeman F, Herrera J, Jones C, Hinske E
+SB -- Bourn M 2, Heyward J
+CS -- Heyward J
+SH -- Hernandez R, Herrera J
+WP -- Moscoso G
+T -- 4:00
+A -- 33184
+

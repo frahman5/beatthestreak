@@ -1,0 +1,3284 @@
+     Game of 4/26/1995 -- Chicago at Cincinnati (D)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+McRae B, cf           5  0  3  1   Sanders D, cf         4  0  1  0   
+Sanchez R, 2b         4  1  1  0   Larkin B, ss          3  1  2  1   
+Sosa S, rf            4  1  1  0   Morris H, 1b          3  0  0  0   
+Grace M, 1b           5  1  3  1   Gant R, lf            3  0  1  0   
+Wilkins R, c          3  2  1  0   Hernandez X, p        0  0  0  0   
+Dunston S, ss         4  0  0  0   Harris L, ph          1  0  0  0   
+Buechele S, 3b        4  1  1  2   Ruffin J, p           0  0  0  0   
+Bullett S, lf         2  0  0  0   Boone B, 2b           4  0  1  0   
+Timmons O, ph-lf      0  1  0  1   Santiago B, c         4  0  0  0   
+Bullinger J, p        1  0  0  1   Sanders R, rf         4  0  1  0   
+Perez M, p            0  0  0  0   Greene W, 3b          4  0  1  0   
+                                   Rijo J, p             2  0  0  0   
+                                   McElroy C, p          0  0  0  0   
+                                   Howard T, lf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  7 10  6                        33  1  7  1
+
+Chicago          010 004 110 --  7
+Cincinnati       000 000 010 --  1
+
+  Chicago              IP  H  R ER BB SO
+Bullinger J (W)       6.0  5  0  0  2  2
+Perez M (S)           3.0  2  1  1  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Rijo J (L)            5.1  6  5  4  2  4
+McElroy C             0.2  1  0  0  1  0
+Hernandez X           2.0  2  2  2  2  0
+Ruffin J              1.0  1  0  0  1  1
+
+E -- Morris H
+DP -- Chicago 1, Cincinnati 2
+LOB -- Chicago 8, Cincinnati 7
+2B -- McRae B
+3B -- McRae B
+HR -- Larkin B
+SB -- Sosa S, Larkin B 2, Sanders D
+SH -- Dunston S, Sanchez R
+SF -- Bullinger J
+HBP -- by Hernandez X (Wilkins R)
+WP -- Hernandez X 2, Ruffin J
+PB -- Wilkins R
+T -- 2:58
+A -- 51033
+     Game of 4/27/1995 -- Chicago at Cincinnati (D)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+McRae B, cf           6  0  0  0   Sanders D, cf         6  0  1  0   
+Sanchez R, 2b         6  1  3  1   Larkin B, ss          5  1  3  0   
+Grace M, 1b           5  1  1  2   Morris H, 1b          5  1  1  0   
+Sosa S, rf            5  1  2  0   Howard T, rf          2  0  1  0   
+Dunston S, ss         5  0  1  0   Walton J, ph-rf       1  0  0  1   
+Buechele S, 3b        3  0  0  0   Hunter B, lf          6  0  0  1   
+Edens T, p            0  0  0  0   Boone B, 2b           5  0  1  0   
+Myers R, p            0  0  0  0   Santiago B, c         5  1  3  1   
+Wilkins R, c          4  1  1  0   Greene W, 3b          2  0  0  0   
+Timmons O, lf         3  0  1  1   Gant R, ph            1  0  0  0   
+Rhodes K, ph-lf       2  1  0  0   Brantley J, p         0  0  0  0   
+Trachsel S, p         1  0  0  0   Harris L, ph          1  0  0  0   
+Roberson K, ph        0  1  0  0   Carrasco H, p         0  0  0  0   
+Banks W, p            1  0  0  0   Sanders R, ph         1  0  0  0   
+Nabholz C, p          0  0  0  0   McElroy C, p          0  0  0  0   
+Walker M, p           0  0  0  0   Smiley J, p           1  1  1  1   
+Bullett S, ph         1  0  1  0   Branson J, ph         1  0  0  0   
+Hickerson B, p        0  0  0  0   Smith P, p            0  0  0  0   
+Hernandez J, 3b       1  0  1  2   Lewis M, 3b           3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     43  6 11  6                        45  5 12  4
+
+Chicago          010 030 000 02 --  6
+Cincinnati       002 002 000 01 --  5
+
+  Chicago              IP  H  R ER BB SO
+Trachsel S            4.0  4  2  2  0  3
+Banks W               1.2  3  2  1  0  1
+Nabholz C             1.0  0  0  0  2  1
+Walker M              1.1  0  0  0  0  0
+Hickerson B           1.0  1  0  0  0  0
+Edens T (W)           1.0  2  0  0  0  1
+Myers R (S)           1.0  2  1  1  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Smiley J              5.0  6  4  4  3  3
+Smith P               1.0  0  0  0  1  1
+Brantley J            2.0  0  0  0  0  0
+Carrasco H            2.0  3  0  0  0  0
+McElroy C (L)         1.0  2  2  0  0  0
+
+E -- Dunston S, Timmons O, Sanchez R, Santiago B
+DP -- Cincinnati 1
+LOB -- Chicago 8, Cincinnati 12
+2B -- Sanchez R, Larkin B, Santiago B, Sanders D
+3B -- Larkin B
+HR -- Santiago B, Smiley J, Grace M
+SB -- Sosa S, Howard T
+CS -- Larkin B
+SH -- Howard T
+SF -- Walton J
+WP -- Smith P, Nabholz C
+T -- 3:46
+A -- 17702
+     Game of 5/2/1995 -- Philadelphia at Cincinnati (N)
+
+  Philadelphia       AB  R  H RBI    Cincinnati         AB  R  H RBI
+Dykstra L, cf         5  0  2  0   Sanders D, cf         4  0  1  0   
+Morandini M, 2b       5  0  1  0   Sanders R, rf         3  0  0  0   
+Jefferies G, lf       5  1  1  0   Larkin B, ss          4  0  1  0   
+Hollins D, 1b         4  2  2  1   Morris H, 1b          4  0  0  0   
+Daulton D, c          5  1  1  1   Boone B, 2b           3  0  1  0   
+Eisenreich J, rf      4  1  3  0   Howard T, lf          2  0  0  0   
+Hayes C, 3b           3  1  1  2   Smith P, p            0  0  0  0   
+Stocker K, ss         4  0  2  2   Branson J, ph         1  0  0  0   
+Schilling C, p        2  0  0  0   Ruffin J, p           0  0  0  0   
+Longmire T, ph        1  0  0  0   Santiago B, c         3  0  2  0   
+Harris G, p           0  0  0  0   Greene W, 3b          3  0  0  0   
+                                   Rijo J, p             1  0  0  0   
+                                   Hunter B, lf          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  6 13  6                        30  0  5  0
+
+Philadelphia     040 020 000 --  6
+Cincinnati       000 000 000 --  0
+
+  Philadelphia         IP  H  R ER BB SO
+Schilling C (W)       7.0  3  0  0  0  4
+Harris G              2.0  2  0  0  1  0
+
+  Cincinnati           IP  H  R ER BB SO
+Rijo J (L)            4.1  8  6  6  1  4
+Smith P               2.2  3  0  0  1  3
+Ruffin J              2.0  2  0  0  0  1
+
+DP -- Philadelphia 1, Cincinnati 1
+LOB -- Philadelphia 8, Cincinnati 4
+2B -- Daulton D, Dykstra L, Eisenreich J, Jefferies G, Hollins D
+3B -- Hayes C
+CS -- Sanders R
+SH -- Schilling C
+T -- 2:35
+A -- 19389
+     Game of 5/3/1995 -- Philadelphia at Cincinnati (N)
+
+  Philadelphia       AB  R  H RBI    Cincinnati         AB  R  H RBI
+Dykstra L, cf         3  0  0  0   Sanders D, cf         4  1  1  1   
+Duncan M, 2b          4  1  1  1   Boone B, 2b           4  2  1  1   
+Jefferies G, lf       4  0  0  0   Larkin B, ss          4  0  2  2   
+Hollins D, 1b         3  1  0  0   Gant R, lf            3  1  2  3   
+Daulton D, c          3  0  1  1   Brantley J, p         1  0  0  0   
+Hayes C, 3b           4  0  0  0   Sanders R, rf         2  0  0  0   
+Gallagher D, rf       2  0  2  0   Morris H, 1b          4  1  1  0   
+Eisenreich J, ph-rf   2  0  0  0   Santiago B, c         2  0  0  0   
+Stocker K, ss         3  0  1  0   Hernandez X, p        0  0  0  0   
+West D, p             1  0  0  0   Walton J, lf          0  0  0  0   
+Borland T, p          0  0  0  0   Lewis M, 3b           3  0  0  0   
+Varsho G, ph          1  0  0  0   Greene W, ph          0  0  0  0   
+Charlton N, p         0  0  0  0   Hunter B, ph          0  1  0  0   
+Bottalico R, p        0  0  0  0   Branson J, 3b         0  0  0  0   
+Carter A, p           0  0  0  0   Smiley J, p           2  0  1  0   
+Williams M, p         0  0  0  0   Taubensee E, c        1  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        30  7  8  7
+
+Philadelphia     000 100 010 --  2
+Cincinnati       000 100 24x --  7
+
+  Philadelphia         IP  H  R ER BB SO
+West D                5.0  2  1  1  3  7
+Borland T             1.0  1  0  0  1  2
+Charlton N (L)        0.2  1  2  2  2  0
+Bottalico R           0.2  2  1  1  0  1
+Carter A              0.1  0  2  2  1  0
+Williams M            0.1  2  1  1  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Smiley J              6.0  3  1  1  2  3
+Hernandez X (W)       1.1  1  0  0  1  0
+Brantley J (S)        1.2  1  1  1  0  2
+
+DP -- Cincinnati 1
+LOB -- Philadelphia 5, Cincinnati 9
+2B -- Daulton D
+3B -- Larkin B
+HR -- Gant R, Duncan M
+SB -- Gant R, Sanders R, Sanders D 2
+SH -- West D, Walton J
+SF -- Sanders D
+HBP -- by Carter A (Taubensee E)
+WP -- Borland T 2
+T -- 3:02
+A -- 17480
+     Game of 5/4/1995 -- Philadelphia at Cincinnati (N)
+
+  Philadelphia       AB  R  H RBI    Cincinnati         AB  R  H RBI
+Dykstra L, cf         5  1  2  0   Sanders D, cf         4  1  1  0   
+Morandini M, 2b       4  1  2  0   Boone B, 2b           4  1  3  0   
+Jefferies G, lf       4  1  1  0   Larkin B, ss          4  1  1  1   
+Varsho G, lf          0  0  0  1   Gant R, lf            4  1  2  3   
+Hollins D, 1b         2  2  0  0   Walton J, pr          0  0  0  0   
+Daulton D, c          2  1  0  0   Morris H, 1b          3  0  0  0   
+Eisenreich J, rf      4  0  1  1   Sanders R, rf         4  0  0  0   
+Hayes C, 3b           3  0  1  1   Santiago B, c         4  0  0  0   
+Stocker K, ss         2  0  0  1   Greene W, 3b          3  0  0  0   
+Quantrill P, p        2  0  0  0   Carrasco H, p         0  0  0  0   
+Longmire T, ph        0  0  0  0   Jarvis K, p           2  0  0  0   
+Duncan M, ph          1  0  1  2   Ruffin J, p           0  0  0  0   
+Harris G, p           0  0  0  0   Grott M, p            0  0  0  0   
+Slocumb H, p          1  0  0  0   Branson J, 3b         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  6  8  6                        33  4  7  4
+
+Philadelphia     010 000 221 --  6
+Cincinnati       400 000 000 --  4
+
+  Philadelphia         IP  H  R ER BB SO
+Quantrill P           6.0  5  4  4  0  4
+Harris G (W)          1.0  0  0  0  0  0
+Slocumb H (S)         2.0  2  0  0  1  0
+
+  Cincinnati           IP  H  R ER BB SO
+Jarvis K*             6.0  2  2  2  4  1
+Ruffin J              0.2  0  1  1  2  0
+Grott M               0.1  1  0  0  0  0
+Carrasco H (L)        2.0  5  3  3  1  1
+  * Pitched to 1 batter in 7th
+
+E -- Gant R, Santiago B
+DP -- Philadelphia 1, Cincinnati 2
+LOB -- Philadelphia 7, Cincinnati 3
+2B -- Jefferies G
+HR -- Gant R
+SF -- Stocker K, Hayes C, Varsho G
+T -- 2:45
+A -- 17675
+     Game of 5/5/1995 -- New York at Cincinnati (N)
+
+  New York           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Otero R, cf           5  1  1  0   Sanders D, cf         4  0  0  0   
+Alfonzo E, 3b         4  0  2  2   Boone B, 2b           3  0  0  0   
+Kent J, 2b            4  0  0  0   Larkin B, ss          4  0  2  0   
+Bonilla B, 1b         3  1  1  1   Gant R, lf            3  0  1  0   
+Everett C, rf         3  0  0  0   Morris H, 1b          3  0  2  0   
+Segui D, lf           3  0  0  0   Hunter B, ph          1  0  0  0   
+Orsulak J, lf         0  0  0  0   Sanders R, rf         3  0  0  0   
+Hundley T, c          4  0  0  0   Berryhill D, c        3  0  0  0   
+Bogar T, ss           4  0  1  0   Santiago B, ph        1  0  0  0   
+Jones B, p            3  0  1  0   Branson J, 3b         3  0  0  0   
+Spiers B, ph          1  1  1  0   Schourek P, p         1  0  0  0   
+Franco J, p           0  0  0  0   Pugh T, p             1  0  0  0   
+                                   Harris L, ph          1  0  0  0   
+                                   Hernandez X, p        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  7  3                        31  0  5  0
+
+New York         001 010 001 --  3
+Cincinnati       000 000 000 --  0
+
+  New York             IP  H  R ER BB SO
+Jones B (W)           8.0  3  0  0  2  4
+Franco J (S)          1.0  2  0  0  1  0
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (L)        4.2  5  2  2  4  4
+Pugh T                3.1  0  0  0  0  1
+Hernandez X           1.0  2  1  1  0  0
+
+E -- Hundley T
+DP -- New York 1
+LOB -- New York 9, Cincinnati 7
+2B -- Morris H, Otero R, Alfonzo E 2, Larkin B, Gant R
+HR -- Bonilla B
+HBP -- by Schourek P (Bonilla B)
+Balk -- Schourek P
+T -- 2:39
+A -- 23788
+     Game of 5/6/1995 -- New York at Cincinnati (D)
+
+  New York           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Butler B, cf          5  1  2  1   Sanders D, cf         4  1  1  1   
+Vizcaino J, ss        4  2  1  0   Courtright J, p       0  0  0  0   
+Brogna R, 1b          4  2  3  3   Harris L, ph          0  0  0  1   
+Bonilla B, 3b         3  3  2  1   Hernandez X, p        0  0  0  0   
+DiPoto J, p           0  0  0  0   Boone B, 2b           5  2  2  0   
+Gunderson E, p        0  0  0  0   Larkin B, ss          4  3  2  1   
+Henry D, p            0  0  0  0   Gant R, lf            5  1  1  3   
+Orsulak J, lf         5  0  1  2   Morris H, 1b          5  2  2  3   
+Alfonzo E, 2b         5  2  3  2   Sanders R, rf         2  0  0  0   
+Everett C, rf         5  0  1  1   Grott M, p            0  0  0  0   
+Hundley T, c          3  1  1  0   Sullivan S, p         1  0  0  0   
+Mlicki D, p           2  0  0  0   Walton J, cf          2  2  2  2   
+Fordyce B, ph         1  0  0  0   Santiago B, c         4  1  3  0   
+Bogar T, 3b           2  0  0  1   Branson J, 3b         3  0  0  0   
+                                   Lewis M, ph-3b        1  1  1  1   
+                                   Smith P, p            1  0  0  0   
+                                   Howard T, rf          3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     39 11 14 11                        40 13 15 13
+
+New York         200 142 110 -- 11
+Cincinnati       011 002 063 -- 13
+  1 out when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Mlicki D              5.0  3  2  2  0  6
+DiPoto J*             2.0  5  5  5  1  2
+Gunderson E           0.1  3  3  3  0  0
+Henry D (L)           1.0  4  3  3  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Smith P               4.1  5  5  5  4  2
+Grott M               1.1  5  4  4  0  2
+Sullivan S            1.1  2  1  1  1  0
+Courtright J          1.0  2  1  1  0  0
+Hernandez X (W)       1.0  0  0  0  0  1
+  * Pitched to 3 batters in 8th
+
+E -- Bonilla B
+DP -- Cincinnati 1
+LOB -- New York 7, Cincinnati 4
+2B -- Bonilla B, Santiago B, Hundley T, Butler B, Boone B, Lewis M
+3B -- Bonilla B
+HR -- Morris H, Sanders D, Brogna R, Alfonzo E, Gant R, Walton J
+SH -- DiPoto J
+SF -- Harris L
+WP -- DiPoto J
+T -- 3:18
+A -- 21220
+     Game of 5/7/1995 -- New York at Cincinnati (D)
+
+  New York           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Butler B, cf          5  0  2  0   Walton J, cf-lf       4  1  1  1   
+Vizcaino J, ss        4  1  1  1   Boone B, 2b           3  2  1  0   
+Brogna R, 1b          4  1  2  0   Larkin B, ss          3  1  1  0   
+Bonilla B, 3b         3  0  1  0   Gant R, lf            3  1  0  0   
+Kent J, 2b            3  1  1  0   Sanders D, cf         1  0  0  0   
+Alfonzo E, 2b         0  0  0  0   Sanders R, rf         3  1  2  2   
+Orsulak J, rf         4  0  1  1   Morris H, 1b          4  1  2  3   
+Segui D, lf           3  0  1  0   Santiago B, c         3  0  1  0   
+Otero R, lf           1  0  0  0   Lewis M, 3b           2  0  1  0   
+Hundley T, c          4  1  2  2   Branson J, ph-3b      2  1  2  2   
+Jacome J, p           2  0  0  0   Rijo J, p             2  0  0  0   
+Manzanillo J, p       0  0  0  0   McElroy C, p          1  0  0  0   
+Stinnett K, ph        1  0  0  0   Hunter B, ph          1  0  0  0   
+Lomon K, p            0  0  0  0   Brantley J, p         0  0  0  0   
+Minor B, p            0  0  0  0                                      
+Remlinger M, p        0  0  0  0                                      
+Everett C, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4 11  4                        32  8 11  8
+
+New York         000 101 011 --  4
+Cincinnati       101 021 30x --  8
+
+  New York             IP  H  R ER BB SO
+Jacome J (L)          4.1  6  4  4  7  2
+Manzanillo J          1.2  1  1  1  0  1
+Lomon K               0.1  3  3  3  0  0
+Minor B*              0.0  0  0  0  1  0
+Remlinger M           1.2  1  0  0  0  3
+
+  Cincinnati           IP  H  R ER BB SO
+Rijo J (W)            5.1  7  2  2  2  6
+McElroy C             1.2  1  0  0  0  0
+Brantley J            2.0  3  2  2  0  3
+  * Pitched to 1 batter in 7th
+
+E -- Bonilla B
+DP -- New York 1, Cincinnati 2
+LOB -- New York 6, Cincinnati 8
+2B -- Brogna R, Sanders R, Lewis M, Orsulak J
+3B -- Morris H
+HR -- Walton J, Branson J, Vizcaino J, Hundley T
+SB -- Segui D, Walton J, Kent J, Sanders R, Larkin B 2
+CS -- Walton J, Sanders R
+WP -- Rijo J
+T -- 3:09
+A -- 24759
+     Game of 5/19/1995 -- Colorado at Cincinnati (N)
+
+  Colorado           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Burks E, cf           4  0  0  0   Harris L, 1b          4  0  1  0   
+Weiss W, ss           4  0  2  0   Sanders D, cf         4  1  1  0   
+Walker L, rf          4  0  2  0   Larkin B, ss          3  0  0  0   
+Galarraga A, 1b       3  0  1  0   Lewis M, 3b           1  0  0  0   
+Bichette D, lf        4  0  0  0   Gant R, lf            4  0  0  0   
+Girardi J, c          4  0  0  0   Brantley J, p         0  0  0  0   
+Castilla V, 3b        3  0  1  0   Sanders R, rf         4  1  2  1   
+Mejia R, 2b           3  0  0  0   Boone B, 2b           3  0  1  1   
+Ritz K, p             1  0  0  0   Branson J, 3b-ss      3  0  0  0   
+Young E, ph           1  0  0  0   Taubensee E, c        2  0  1  0   
+Reed S, p             0  0  0  0   Schourek P, p         1  0  1  0   
+                                   Walton J, lf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  6  0                        29  2  7  2
+
+Colorado         000 000 000 --  0
+Cincinnati       000 200 00x --  2
+
+  Colorado             IP  H  R ER BB SO
+Ritz K (L)            7.0  7  2  2  1  6
+Reed S                1.0  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (W)        8.0  6  0  0  2  8
+Brantley J (S)        1.0  0  0  0  0  1
+
+E -- Burks E
+DP -- Cincinnati 1
+LOB -- Colorado 6, Cincinnati 6
+2B -- Walker L, Sanders R 2
+CS -- Castilla V
+SH -- Schourek P 2
+WP -- Schourek P
+PB -- Taubensee E
+T -- 2:29
+A -- 24688
+     Game of 5/20/1995 -- Colorado at Cincinnati (N)
+
+  Colorado           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Weiss W, ss           4  1  1  1   Harris L, 1b-3b       4  2  2  0   
+Ruffin B, p           0  0  0  0   Sanders D, cf         4  3  2  1   
+Girardi J, c          6  1  2  0   Larkin B, ss          3  1  2  3   
+Bichette D, lf        3  1  0  1   Gant R, lf            6  0  4  5   
+Bailey R, p           0  0  0  0   Sanders R, rf         4  0  3  0   
+Mejia R, 2b           0  0  0  0   Boone B, 2b           3  0  0  0   
+Walker L, rf          3  3  2  1   Branson J, 3b         2  1  0  0   
+Galarraga A, 1b       5  2  2  2   Lewis M, ph-3b        2  0  1  0   
+Burks E, cf           3  0  1  1   Smith P, p            0  0  0  0   
+Leskanic C, p         0  0  0  0   Taubensee E, c        2  0  0  0   
+Vanderwal J, ph       1  0  0  1   Berryhill D, ph-c     1  0  0  0   
+Holmes D, p           0  0  0  0   Smiley J, p           0  1  0  0   
+Munoz M, p            0  0  0  0   Hernandez X, p        1  0  0  0   
+Young E, lf           1  0  0  0   Howard T, ph          0  1  0  0   
+Castilla V, 3b-ss     5  0  2  0   Carrasco H, p         0  0  0  0   
+Bates J, 2b-3b        5  0  1  1   Walton J, ph          1  0  0  0   
+Olivares O, p         2  0  0  0   Brantley J, p         0  0  0  0   
+Kingery M, cf         3  1  2  0   Remlinger M, p        0  0  0  0   
+                                   Hunter B, 1b          0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  9 13  8                        33 10 14  9
+
+Colorado         020 121 201 0 --  9
+Cincinnati       102 032 010 1 -- 10
+  2 outs when winning run was scored.
+
+  Colorado             IP  H  R ER BB SO
+Olivares O            4.2  7  6  5  5  1
+Leskanic C            1.1  2  2  2  2  0
+Holmes D              0.1  2  0  0  0  0
+Munoz M               1.0  0  1  1  2  2
+Bailey R (L)*         1.2  2  1  1  2  0
+Ruffin B              0.2  1  0  0  1  0
+
+  Cincinnati           IP  H  R ER BB SO
+Smiley J              4.1  8  5  5  2  1
+Hernandez X           1.2  2  1  1  0  0
+Carrasco H            1.0  0  2  1  2  1
+Brantley J            2.0  2  1  1  0  1
+Remlinger M           0.1  1  0  0  1  1
+Smith P (W)           0.2  0  0  0  0  0
+  * Pitched to 1 batter in 10th
+
+E -- Galarraga A, Larkin B, Girardi J
+DP -- Colorado 3, Cincinnati 2
+LOB -- Colorado 8, Cincinnati 10
+2B -- Galarraga A, Harris L, Girardi J, Walker L, Kingery M 2, Weiss W
+3B -- Sanders R, Gant R
+HR -- Galarraga A
+SB -- Sanders D 2, Walker L, Bichette D, Kingery M
+CS -- Harris L
+SH -- Taubensee E, Boone B, Harris L
+SF -- Bichette D, Sanders D
+PB -- Taubensee E
+T -- 4:02
+A -- 29401
+     Game of 5/21/1995 -- Colorado at Cincinnati (D)
+
+  Colorado           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Weiss W, ss           3  1  0  0   Harris L, 1b-3b       5  1  0  0   
+Bates J, 2b           4  0  2  0   Sanders D, cf         2  0  1  0   
+Bichette D, rf        4  1  0  1   Larkin B, ss          4  1  1  0   
+Galarraga A, 1b       4  0  0  0   Gant R, lf            2  0  1  1   
+Burks E, lf           4  0  1  1   Sanders R, rf         2  0  0  1   
+Kingery M, cf         4  1  2  1   Boone B, 2b           3  0  0  0   
+Castilla V, 3b        4  1  1  1   Morris H, ph          1  0  0  0   
+Brito J, c            4  0  1  0   Smith P, p            0  0  0  0   
+Acevedo J, p          2  0  0  0   Branson J, 3b-2b      3  0  1  0   
+Young E, ph           1  0  0  0   Berryhill D, c        4  0  1  0   
+Grahe J, p            0  0  0  0   Jarvis K, p           2  0  0  0   
+Reed S, p             0  0  0  0   Carrasco H, p         0  0  0  0   
+Vanderwal J, ph       1  1  1  1   Howard T, ph          1  0  1  0   
+Holmes D, p           0  0  0  0   Walton J, 1b          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5  8  5                        30  2  6  2
+
+Colorado         200 000 102 --  5
+Cincinnati       000 001 010 --  2
+
+  Colorado             IP  H  R ER BB SO
+Acevedo J (W)         6.0  5  1  1  3  4
+Grahe J               1.1  1  1  1  0  1
+Reed S                0.2  0  0  0  2  0
+Holmes D (S)          1.0  0  0  0  1  0
+
+  Cincinnati           IP  H  R ER BB SO
+Jarvis K (L)          7.0  6  3  3  1  5
+Carrasco H            1.0  0  0  0  0  0
+Smith P               1.0  2  2  2  0  0
+
+E -- Branson J
+DP -- Colorado 1, Cincinnati 1
+LOB -- Colorado 5, Cincinnati 8
+2B -- Burks E, Branson J, Kingery M, Gant R
+HR -- Castilla V, Kingery M, Vanderwal J
+SB -- Kingery M 2, Sanders D 2
+CS -- Sanders D
+HBP -- by Jarvis K (Weiss W), by Grahe J (Sanders D)
+Balk -- Holmes D
+T -- 3:01
+A -- 23629
+     Game of 5/22/1995 -- Houston at Cincinnati (N)
+
+  Houston            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Biggio C, 2b          5  0  1  0   Sanders D, cf         4  0  2  0   
+Thompson M, rf        4  0  1  0   Boone B, 2b           5  0  0  0   
+Bagwell J, 1b         4  0  1  0   Larkin B, ss          5  0  1  0   
+Bell D, cf            4  1  1  0   Gant R, lf            4  2  2  2   
+Gonzalez L, lf        4  1  1  0   Sanders R, rf         3  0  0  0   
+Donnels C, 3b         3  0  2  2   Taubensee E, c        4  0  1  0   
+Shipley C, ph         1  0  0  0   Hunter B, 1b          3  0  0  0   
+Veres D, p            0  0  0  0   Howard T, ph          0  0  0  0   
+Servais S, c          4  0  1  0   McElroy C, p          0  0  0  0   
+Miller O, ss          4  0  1  0   Brantley J, p         0  0  0  0   
+Drabek D, p           2  0  0  0   Branson J, 3b         2  1  2  1   
+Mouton J, ph          1  0  0  0   Walton J, ph          1  0  0  0   
+Martinez P, p         0  0  0  0   Carrasco H, p         0  0  0  0   
+Dougherty J, p        0  0  0  0   Harris L, ph-1b       1  0  0  0   
+Hartgraves D, p       0  0  0  0   Rijo J, p             2  0  0  0   
+Magadan D, 3b         1  0  0  0   Lewis M, ph-3b        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  2  9  2                        36  3  8  3
+
+Houston          000 200 000 0 --  2
+Cincinnati       000 011 000 1 --  3
+  0 outs when winning run was scored.
+
+  Houston              IP  H  R ER BB SO
+Drabek D              6.0  5  2  2  1  6
+Martinez P            0.2  0  0  0  1  0
+Dougherty J           1.0  1  0  0  2  0
+Hartgraves D          0.1  0  0  0  0  0
+Veres D (L)           1.0  2  1  1  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Rijo J                7.0  9  2  2  0  6
+Carrasco H            1.0  0  0  0  0  1
+McElroy C             0.1  0  0  0  0  0
+Brantley J (W)        1.2  0  0  0  0  1
+
+E -- Donnels C
+DP -- Cincinnati 2
+LOB -- Houston 5, Cincinnati 10
+2B -- Miller O
+HR -- Branson J, Gant R 2
+SB -- Sanders D 3
+T -- 3:08
+A -- 19072
+     Game of 5/23/1995 -- Houston at Cincinnati (N)
+
+  Houston            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Mouton J, rf          3  0  1  1   Sanders D, cf         3  2  2  0   
+Biggio C, 2b          4  1  0  0   Harris L, 1b          5  1  1  1   
+Bagwell J, 1b         5  1  1  0   Larkin B, ss          3  2  0  0   
+Bell D, cf            5  2  5  2   Gant R, lf            1  3  1  0   
+Gonzalez L, lf        4  0  1  1   Walton J, lf          0  0  0  0   
+Magadan D, 3b         3  0  1  1   Sanders R, rf         4  1  2  2   
+Eusebio T, c          5  1  2  0   Taubensee E, c        2  1  0  1   
+Miller O, ss          4  0  1  0   Carrasco H, p         1  0  0  0   
+Kile D, p             1  0  0  0   Boone B, 2b           3  0  1  4   
+Martinez P, p         0  0  0  0   Branson J, 3b         2  0  1  1   
+Cangelosi J, ph       1  0  1  0   Pugh T, p             2  0  0  0   
+Dougherty J, p        0  0  0  0   Hernandez X, p        1  0  0  0   
+Thompson M, ph        1  0  0  0   Ruffin J, p           0  0  0  0   
+Hartgraves D, p       0  0  0  0   Berryhill D, c        1  0  0  0   
+Jones T, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5 13  5                        28 10  8  9
+
+Houston          200 110 100 --  5
+Cincinnati       202 400 02x -- 10
+
+  Houston              IP  H  R ER BB SO
+Kile D (L)            3.2  4  7  7  7  1
+Martinez P            1.1  1  1  1  1  2
+Dougherty J           2.0  0  0  0  2  2
+Hartgraves D*         0.0  2  2  2  0  0
+Jones T               1.0  1  0  0  1  0
+
+  Cincinnati           IP  H  R ER BB SO
+Pugh T                4.0  6  3  3  3  1
+Hernandez X (W)       2.0  3  1  1  0  3
+Ruffin J              0.1  1  1  0  1  0
+Carrasco H (S)        2.2  3  0  0  1  1
+  * Pitched to 2 batters in 8th
+
+E -- Larkin B, Taubensee E
+DP -- Houston 3, Cincinnati 3
+LOB -- Houston 11, Cincinnati 8
+2B -- Bell D 2, Mouton J, Boone B, Magadan D, Harris L
+3B -- Sanders D
+SB -- Sanders R, Bell D 2
+CS -- Mouton J
+SH -- Kile D
+SF -- Branson J
+HBP -- by Pugh T (Mouton J), by Kile D (Taubensee E), by Kile D (Sanders R)
+WP -- Kile D 2, Pugh T
+T -- 3:16
+A -- 21708
+     Game of 5/24/1995 -- Houston at Cincinnati (N)
+
+  Houston            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Mouton J, rf          3  1  1  0   Sanders D, cf         4  0  0  0   
+Thompson M, ph        1  0  0  0   Larkin B, ss          3  0  1  0   
+Biggio C, 2b          2  1  0  0   Lewis M, pr-3b        0  1  0  0   
+Bagwell J, 1b         4  0  1  0   Morris H, 1b          4  2  4  2   
+Bell D, cf            4  0  2  2   Gant R, lf            4  0  0  0   
+Shipley C, 3b         3  0  0  0   Brantley J, p         0  0  0  0   
+Magadan D, ph         1  0  0  0   Sanders R, rf         4  1  2  1   
+Gonzalez L, lf        3  0  0  0   Taubensee E, c        4  0  1  0   
+Jones T, p            0  0  0  0   Boone B, 2b           4  0  1  1   
+Eusebio T, c          3  0  0  0   Branson J, 3b-ss      1  0  0  0   
+Miller O, ss          3  0  1  0   Schourek P, p         3  0  0  0   
+Reynolds S, p         2  0  0  0   Walton J, lf          1  0  0  0   
+Cangelosi J, lf       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        32  4  9  4
+
+Houston          100 000 001 --  2
+Cincinnati       000 200 20x --  4
+
+  Houston              IP  H  R ER BB SO
+Reynolds S (L)        6.0  8  2  2  2  6
+Jones T               2.0  1  2  2  2  1
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (W)        7.0  4  1  1  1  7
+Brantley J (S)        2.0  1  1  1  1  1
+
+DP -- Houston 1, Cincinnati 1
+LOB -- Houston 3, Cincinnati 8
+2B -- Mouton J, Boone B, Bell D
+3B -- Sanders R
+HR -- Morris H
+SB -- Mouton J
+CS -- Bell D
+T -- 2:47
+A -- 20316
+     Game of 6/2/1995 -- St. Louis at Cincinnati (N)
+
+  St. Louis          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Pena G, 2b            4  2  2  0   Walton J, cf          3  2  1  0   
+Gilkey B, lf          5  1  3  3   Howard T, ph-rf       2  0  0  0   
+Lankford R, cf        4  2  2  2   Larkin B, ss          2  2  0  0   
+Zeile T, 1b           4  1  1  0   Gant R, lf            4  2  1  0   
+Jordan B, rf          4  2  2  2   Sanders R, rf-cf      5  0  2  3   
+Cooper S, 3b          4  0  1  1   Boone B, 2b           3  0  1  2   
+Pagnozzi T, c         3  1  1  0   Hunter B, 1b          4  0  1  1   
+Sheaffer D, c         2  0  1  0   Lewis M, 3b           2  0  0  0   
+Cromer T, ss          4  0  0  1   Branson J, ph-3b      2  1  1  1   
+Jackson D, p          2  0  1  1   Berryhill D, c        4  0  0  0   
+Parrett J, p          1  0  1  0   Jarvis K, p           1  0  0  0   
+Coles D, ph           1  1  1  0   Smith P, p            0  0  0  0   
+Arocha R, p           0  0  0  0   Harris L, ph          1  0  1  0   
+Perry G, ph           1  0  0  0   Hernandez X, p        0  0  0  0   
+Henke T, p            0  0  0  0   McElroy C, p          0  0  0  0   
+                                   Gibralter S, ph       1  0  0  0   
+                                   Carrasco H, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 10 16 10                        34  7  8  7
+
+St. Louis        002 222 011 -- 10
+Cincinnati       300 030 010 --  7
+
+  St. Louis            IP  H  R ER BB SO
+Jackson D             4.1  4  6  5  5  3
+Parrett J (W)         2.2  2  0  0  0  5
+Arocha R              1.0  1  1  1  0  0
+Henke T (S)           1.0  1  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Jarvis K*             4.0  8  6  6  2  1
+Smith P (L)           2.0  4  2  2  0  1
+Hernandez X           1.0  0  0  0  1  1
+McElroy C             1.0  2  1  1  0  1
+Carrasco H            1.0  2  1  1  0  1
+  * Pitched to 2 batters in 5th
+
+E -- Cooper S
+DP -- St. Louis 1, Cincinnati 1
+LOB -- St. Louis 8, Cincinnati 6
+2B -- Hunter B, Pagnozzi T, Coles D
+HR -- Lankford R, Jordan B, Gilkey B, Branson J
+SB -- Gilkey B, Pena G, Walton J
+SH -- Pena G
+SF -- Boone B, Jordan B, Cromer T
+WP -- Jackson D, Parrett J
+T -- 3:12
+A -- 23631
+     Game of 6/3/1995 -- St. Louis at Cincinnati (N)
+
+  St. Louis          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Gilkey B, lf          5  0  2  2   Walton J, cf          4  0  1  1   
+Oquendo J, 2b         5  1  0  0   Carrasco H, p         0  0  0  0   
+Lankford R, cf        4  1  1  0   Hunter B, ph          0  0  0  0   
+Zeile T, 1b           5  0  2  1   Brantley J, p         0  0  0  0   
+Jordan B, rf          5  0  3  1   Harris L, 1b          5  1  1  0   
+Cooper S, 3b          4  0  1  0   Larkin B, ss          3  1  2  0   
+Hemond S, c           2  1  0  0   Gant R, lf            4  2  1  0   
+Cromer T, ss          4  1  3  0   Sanders R, rf         3  2  2  4   
+DeLucia R, p          1  0  0  0   Taubensee E, c        4  1  1  0   
+Palacios V, p         0  0  0  0   Boone B, 2b           4  0  3  2   
+Mabry J, ph           1  0  0  0   Branson J, 3b         3  1  1  0   
+Habyan J, p           0  0  0  0   Lewis M, 3b           1  0  0  0   
+Perry G, ph           0  0  0  0   Pugh T, p             1  0  0  0   
+Fossas T, p           0  0  0  0   Howard T, ph          1  0  0  0   
+                                   Hernandez X, p        0  0  0  0   
+                                   Nitkowski C, p        0  0  0  0   
+                                   Gibralter S, cf       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4 12  4                        34  8 12  7
+
+St. Louis        100 011 010 --  4
+Cincinnati       021 130 10x --  8
+
+  St. Louis            IP  H  R ER BB SO
+DeLucia R (L)         3.1  7  4  3  1  3
+Palacios V            1.2  3  3  3  1  2
+Habyan J              2.0  1  1  1  1  1
+Fossas T              1.0  1  0  0  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Pugh T (W)            5.0  8  2  2  3  3
+Hernandez X           1.0  2  1  1  0  2
+Nitkowski C           1.0  1  0  0  0  0
+Carrasco H            1.0  1  1  1  2  0
+Brantley J            1.0  0  0  0  0  1
+
+E -- Zeile T
+DP -- Cincinnati 2
+LOB -- St. Louis 10, Cincinnati 8
+2B -- Jordan B, Taubensee E, Zeile T, Harris L, Cromer T, Boone B
+3B -- Branson J
+HR -- Sanders R
+SB -- Lankford R, Gilkey B, Gant R
+CS -- Walton J
+SH -- Pugh T
+SF -- Sanders R
+WP -- Palacios V
+Balk -- Habyan J
+T -- 3:04
+A -- 28817
+     Game of 6/4/1995 -- St. Louis at Cincinnati (D)
+
+  St. Louis          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Gilkey B, lf          4  0  0  0   Howard T, rf          4  0  0  0   
+Cromer T, ss          4  0  1  0   Gibralter S, cf       0  0  0  0   
+Lankford R, cf        4  0  0  0   Harris L, 1b          4  0  1  0   
+Zeile T, 1b           3  0  0  0   Larkin B, ss          3  1  1  0   
+Jordan B, rf          3  0  0  0   Gant R, lf            4  0  0  0   
+Coles D, 3b           3  0  1  0   Sanders R, cf-rf      3  1  1  1   
+Sheaffer D, c         3  0  0  0   Taubensee E, c        3  1  1  1   
+Oquendo J, 2b         2  0  0  0   Boone B, 2b           2  1  1  2   
+Hill K, p             2  0  0  0   Lewis M, 3b           3  0  0  0   
+Cooper S, ph          1  0  0  0   Schourek P, p         2  0  0  0   
+Parrett J, p          0  0  0  0   Brantley J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  0  2  0                        28  4  5  4
+
+St. Louis        000 000 000 --  0
+Cincinnati       000 300 10x --  4
+
+  St. Louis            IP  H  R ER BB SO
+Hill K (L)            7.0  5  4  4  2  5
+Parrett J             1.0  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (W)        7.2  1  0  0  2 10
+Brantley J            1.1  1  0  0  0  1
+
+E -- Cromer T
+DP -- St. Louis 1
+LOB -- St. Louis 5, Cincinnati 3
+2B -- Coles D, Sanders R
+HR -- Boone B, Taubensee E
+SB -- Harris L, Larkin B, Boone B
+SH -- Schourek P
+HBP -- by Schourek P (Jordan B)
+WP -- Brantley J
+T -- 2:22
+A -- 23385
+     Game of 6/5/1995 -- Pittsburgh at Cincinnati (N)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Brumfield J, cf       5  0  2  0   Walton J, cf          4  0  0  0   
+Bell J, ss            3  0  2  1   Howard T, lf          4  0  0  0   
+Merced O, rf-1b       4  0  0  0   Larkin B, ss          3  1  1  1   
+King J, 3b            4  0  1  0   Sanders R, rf         4  0  2  0   
+Aude R, 1b            3  0  0  0   Boone B, 2b           3  0  0  0   
+Martin A, ph-lf       1  0  0  0   Hunter B, 1b          4  2  3  0   
+Pegues S, lf-rf       4  1  3  0   Lewis M, 3b           3  0  3  1   
+Parent M, c           3  0  0  0   Harris L, ph-3b       1  0  0  0   
+Garcia C, 2b          3  1  1  1   Berryhill D, c        2  0  0  0   
+Liriano N, ph         1  0  0  0   Smiley J, p           2  0  0  0   
+Neagle D, p           3  0  0  0   Pugh T, ph            1  0  0  0   
+McCurry J, p          0  0  0  0   Hernandez X, p        0  0  0  0   
+Plesac D, p           0  0  0  0   Brantley J, p         0  0  0  0   
+Clark D, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  2  9  2                        31  3  9  2
+
+Pittsburgh       000 020 000 --  2
+Cincinnati       100 101 00x --  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D (L)          7.0  8  3  2  1  7
+McCurry J             0.2  1  0  0  2  0
+Plesac D              0.1  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Smiley J (W)          7.0  8  2  2  2  9
+Hernandez X           1.0  1  0  0  0  2
+Brantley J (S)        1.0  0  0  0  0  1
+
+E -- Garcia C
+DP -- Cincinnati 1
+LOB -- Pittsburgh 8, Cincinnati 7
+2B -- King J, Pegues S, Lewis M
+HR -- Larkin B
+SB -- Hunter B, Pegues S
+CS -- Sanders R
+T -- 2:45
+A -- 23233
+     Game of 6/6/1995 -- Pittsburgh at Cincinnati (N)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Brumfield J, cf       3  0  0  0   Walton J, cf          4  0  0  0   
+White R, p            0  0  0  0   Harris L, 3b-1b       4  0  0  0   
+Christiansen J, p     0  0  0  0   Larkin B, ss          2  1  1  0   
+Johnson M, 1b         1  0  0  0   Sanders R, rf         4  0  0  0   
+Bell J, ss            3  0  1  0   Taubensee E, c        3  0  0  0   
+Merced O, rf-1b-rf    4  0  0  0   Boone B, 2b           3  0  0  0   
+King J, 3b            3  0  1  0   Hunter B, 1b          3  0  1  0   
+Aude R, 1b            2  0  0  0   Carrasco H, p         0  0  0  0   
+Martin A, ph-lf-cf    2  0  0  0   Morris H, ph          1  0  0  0   
+Pegues S, lf-rf       3  0  1  0   McElroy C, p          0  0  0  0   
+Miceli D, p           0  0  0  0   Howard T, lf          3  1  1  0   
+Parent M, c           4  0  0  0   Nitkowski C, p        1  0  0  0   
+Garcia C, 2b          4  1  1  0   Branson J, ph         1  0  0  0   
+Loaiza E, p           2  0  1  0   Jackson M, p          0  0  0  0   
+Clark D, ph-lf        2  0  1  0   Owens E, 3b           1  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  0                        30  2  4  1
+
+Pittsburgh       000 000 010 0 --  1
+Cincinnati       000 000 100 1 --  2
+  0 outs when winning run was scored.
+
+  Pittsburgh           IP  H  R ER BB SO
+Loaiza E              7.0  1  1  0  2  4
+White R               0.2  0  0  0  1  0
+Christiansen J        0.1  0  0  0  0  0
+Miceli D (L)          1.0  3  1  1  1  0
+
+  Cincinnati           IP  H  R ER BB SO
+Nitkowski C           6.0  3  0  0  3  1
+Jackson M             1.0  0  0  0  0  2
+Carrasco H            2.0  3  1  1  1  0
+McElroy C (W)         1.0  0  0  0  0  0
+
+E -- King J
+DP -- Pittsburgh 1, Cincinnati 2
+LOB -- Pittsburgh 6, Cincinnati 7
+2B -- King J, Hunter B, Howard T
+SB -- Larkin B 2
+CS -- Bell J
+SH -- Owens E
+HBP -- by Loaiza E (Boone B)
+T -- 2:43
+A -- 21399
+     Game of 6/7/1995 -- Pittsburgh at Cincinnati (D)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Brumfield J, cf       3  1  0  0   Walton J, cf          4  0  0  0   
+Bell J, ss            4  1  2  1   Harris L, 3b          3  0  1  0   
+Clark D, rf           4  0  2  2   Lewis M, ph           1  0  0  0   
+King J, 3b            4  0  1  0   Smith P, p            0  0  0  0   
+Martin A, lf          4  1  1  0   Larkin B, ss          4  1  1  0   
+Johnson M, 1b         4  2  2  2   Sanders R, rf         4  1  1  1   
+Encarnacion A, c      4  0  0  1   Taubensee E, c        4  1  2  1   
+Garcia C, 2b          4  1  1  1   Boone B, 2b           4  0  1  0   
+Lieber J, p           2  0  0  0   Hunter B, 1b          2  0  0  1   
+Liriano N, ph         1  1  1  0   Howard T, lf          3  0  0  0   
+Plesac D, p           1  0  0  0   Jarvis K, p           2  0  0  0   
+                                   Hernandez X, p        0  0  0  0   
+                                   Owens E, ph-3b        1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7 10  7                        32  3  7  3
+
+Pittsburgh       010 010 131 --  7
+Cincinnati       010 000 200 --  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Lieber J (W)          7.0  6  3  3  0  4
+Plesac D (S)          2.0  1  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Jarvis K (L)          7.1  7  5  4  1  1
+Hernandez X           0.2  2  1  1  0  0
+Smith P               1.0  1  1  1  0  2
+
+E -- Jarvis K
+DP -- Pittsburgh 1, Cincinnati 2
+LOB -- Pittsburgh 2, Cincinnati 3
+2B -- Martin A, Larkin B, Sanders R, Taubensee E, Clark D
+HR -- Garcia C, Johnson M 2
+SF -- Hunter B
+T -- 2:31
+A -- 22610
+     Game of 6/16/1995 -- Montreal at Cincinnati (N)
+
+  Montreal           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Grudzielanek M, 3b    5  1  3  0   Walton J, cf          4  0  1  0   
+Segui D, 1b           4  0  2  0   Harris L, ph          1  0  0  0   
+Cordero W, ss         4  1  1  0   Larkin B, ss          5  1  1  0   
+Alou M, lf            4  1  2  2   Gant R, lf            3  1  0  0   
+White R, cf           4  1  3  1   Sanders R, rf         3  1  1  1   
+Lansing M, 2b         4  1  1  1   Boone B, 2b           4  0  2  1   
+Tarasco T, rf         4  1  2  2   Hunter B, 1b          3  0  1  0   
+Laker T, c            3  0  0  0   Morris H, ph-1b       1  0  1  1   
+Shaw J, p             0  0  0  0   Lewis M, 3b           3  0  1  0   
+Rojas M, p            0  0  0  0   Branson J, ph-3b      1  0  0  0   
+Henry B, p            2  0  0  0   Berryhill D, c        2  0  0  0   
+Spehr T, c            1  0  0  0   Anthony E, ph         1  0  0  0   
+                                   Taubensee E, c        0  0  0  0   
+                                   Smiley J, p           3  0  0  0   
+                                   Hernandez X, p        0  0  0  0   
+                                   Howard T, ph          1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6 14  6                        35  3  9  3
+
+Montreal         100 000 050 --  6
+Cincinnati       000 100 020 --  3
+
+  Montreal             IP  H  R ER BB SO
+Henry B (W)           7.0  5  1  1  3  3
+Shaw J*               0.0  1  2  2  1  0
+Rojas M               2.0  3  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Smiley J (L)          7.2 14  6  6  1  4
+Hernandez X           1.1  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+DP -- Montreal 1, Cincinnati 1
+LOB -- Montreal 5, Cincinnati 9
+2B -- White R 2, Boone B, Howard T
+HR -- Sanders R, Alou M, Tarasco T
+SB -- Gant R, Larkin B
+CS -- Tarasco T
+SH -- Henry B, Segui D
+T -- 2:44
+A -- 28033
+     Game of 6/17/1995 -- Montreal at Cincinnati (N)
+
+  Montreal           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Tarasco T, rf         4  0  0  0   Anthony E, rf         4  0  0  0   
+Segui D, 1b           4  0  0  0   Walton J, ph-cf       1  0  0  0   
+Cordero W, ss         4  0  0  0   Larkin B, ss          4  1  1  0   
+Alou M, lf            4  1  1  1   Gant R, lf            2  1  1  0   
+White R, cf           4  1  2  0   Sanders R, cf-rf      3  2  1  0   
+Lansing M, 2b         4  1  1  0   Morris H, 1b          4  0  2  2   
+Fletcher D, c         4  0  0  0   Taubensee E, c        2  1  2  1   
+Grudzielanek M, 3b    4  1  2  1   Boone B, 2b           4  0  1  0   
+Heredia G, p          1  0  0  0   Branson J, 3b         4  0  1  1   
+Harris G, p           0  0  0  0   Rijo J, p             0  0  0  0   
+Berry S, ph           1  0  1  1   Pugh T, p             3  0  0  0   
+Aquino L, p           0  0  0  0   Nitkowski C, p        0  0  0  0   
+White G, p            0  0  0  0   Carrasco H, p         0  0  0  0   
+                                   Howard T, ph          1  0  0  0   
+                                   Brantley J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  4  7  3                        32  5  9  4
+
+Montreal         000 100 300 --  4
+Cincinnati       003 010 01x --  5
+
+  Montreal             IP  H  R ER BB SO
+Heredia G             4.2  5  4  3  4  6
+Harris G              1.1  2  0  0  0  3
+Aquino L (L)          1.1  2  1  1  1  2
+White G               0.2  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Rijo J                1.0  0  0  0  0  0
+Pugh T                5.2  7  4  3  0  1
+Nitkowski C*          0.0  0  0  0  0  0
+Carrasco H (W)        1.1  0  0  0  0  0
+Brantley J (S)        1.0  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Fletcher D, Nitkowski C
+LOB -- Montreal 4, Cincinnati 8
+2B -- Taubensee E
+HR -- Alou M
+SB -- Larkin B, Sanders R
+CS -- Gant R
+SH -- Heredia G
+T -- 2:38
+A -- 31804
+     Game of 6/18/1995 -- Montreal at Cincinnati (D)
+
+  Montreal           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Grudzielanek M, ss    4  0  2  1   Walton J, cf          5  0  2  1   
+Segui D, 1b           5  2  2  2   Larkin B, ss          3  0  0  1   
+Aquino L, p           0  0  0  0   Gant R, lf            3  1  0  0   
+White R, cf           5  0  2  0   Sanders R, rf         4  2  2  2   
+Alou M, lf            4  0  1  2   Boone B, 2b           5  0  0  0   
+Tarasco T, rf         4  0  0  0   Brantley J, p         0  0  0  0   
+Scott T, p            0  0  0  0   Hunter B, 1b          1  1  1  0   
+Berry S, 3b           1  0  0  0   Anthony E, 1b         3  1  1  0   
+Lansing M, 2b         4  1  1  0   Lewis M, 3b           4  2  4  3   
+Andrews S, 3b-1b      4  2  2  0   Berryhill D, c        4  2  1  2   
+Laker T, c            3  1  2  1   Jarvis K, p           1  1  0  0   
+Perez C, p            0  0  0  0   Hernandez X, p        0  0  0  0   
+Shaw J, p             1  0  0  0   Jackson M, p          1  0  0  0   
+Pride C, ph           1  1  1  1   Harris L, ph          0  0  0  0   
+White G, p            0  0  0  0   Carrasco H, p         0  0  0  0   
+Harris G, p           0  0  0  0   Branson J, 2b         0  0  0  0   
+Frazier L, rf         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  7 13  7                        34 10 11  9
+
+Montreal         100 050 010 --  7
+Cincinnati       230 002 30x -- 10
+
+  Montreal             IP  H  R ER BB SO
+Perez C               1.2  4  5  5  2  0
+Shaw J                2.1  1  0  0  0  1
+White G (L)           1.2  3  2  2  0  3
+Harris G              0.1  0  0  0  1  1
+Scott T               1.0  2  3  3  2  0
+Aquino L              1.0  1  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Jarvis K              4.1  9  6  6  0  2
+Hernandez X           1.1  3  0  0  1  1
+Jackson M (W)         1.1  0  0  0  0  2
+Carrasco H            1.0  1  1  0  1  0
+Brantley J (S)        1.0  0  0  0  0  1
+
+E -- Sanders R
+DP -- Cincinnati 3
+LOB -- Montreal 8, Cincinnati 7
+2B -- White R, Lansing M, Sanders R
+HR -- Sanders R, Lewis M, Berryhill D
+SB -- Walton J 2, Larkin B, Sanders R, Harris L
+SH -- White G
+SF -- Alou M, Larkin B
+HBP -- by Perez C (Jarvis K), by Hernandez X (Grudzielanek M), by Carrasco H (Frazier L)
+WP -- Perez C, Hernandez X
+T -- 3:22
+A -- 25566
+     Game of 6/19/1995 -- Atlanta at Cincinnati (N)
+
+  Atlanta            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Grissom M, cf         4  1  1  1   Harris L, 1b-3b       4  0  0  0   
+Blauser J, ss         4  1  0  0   Larkin B, ss          3  0  0  0   
+Belliard R, ss        1  0  0  0   Walton J, cf          1  0  1  0   
+Jones C, 3b           5  0  0  0   Gant R, lf            3  0  0  0   
+McGriff F, 1b         4  3  2  3   Howard T, lf          1  0  0  0   
+Justice D, rf         4  2  2  1   Sanders R, cf-rf      4  0  1  0   
+Lopez J, c            4  0  1  0   Taubensee E, c        4  0  0  0   
+Kelly M, lf           4  1  2  1   Anthony E, rf-1b      3  0  1  0   
+Lemke M, 2b           4  1  1  2   Boone B, 2b           2  0  0  0   
+Smoltz J, p           3  1  1  0   Lewis M, 2b           1  0  0  0   
+                                   Branson J, 3b-ss      3  0  1  0   
+                                   Schourek P, p         1  0  0  0   
+                                   Worthington C, ph     1  0  1  0   
+                                   Pennington B, p       0  0  0  0   
+                                   Pugh T, p             1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37 10 10  8                        32  0  5  0
+
+Atlanta          010 400 401 -- 10
+Cincinnati       000 000 000 --  0
+
+  Atlanta              IP  H  R ER BB SO
+Smoltz J (W)          9.0  5  0  0  0  7
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (L)        6.0  8  5  5  0  5
+Pennington B          0.2  0  4  2  4  1
+Pugh T                2.1  2  1  1  0  3
+
+E -- Pennington B, Jones C
+DP -- Atlanta 1
+LOB -- Atlanta 5, Cincinnati 5
+2B -- Walton J
+3B -- Lemke M
+HR -- McGriff F 2
+SB -- Larkin B
+CS -- Sanders R
+SF -- Justice D
+WP -- Pennington B 3
+T -- 2:37
+A -- 23262
+     Game of 6/20/1995 -- Atlanta at Cincinnati (N)
+
+  Atlanta            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Grissom M, cf         6  2  3  0   Harris L, 1b          5  0  0  1   
+Blauser J, ss         4  2  3  1   Larkin B, ss          3  0  0  0   
+Jones C, 3b           6  1  4  3   Hernandez X, p        0  0  0  0   
+McGriff F, 1b         4  0  0  1   Gant R, lf            4  1  3  0   
+Justice D, rf         5  1  2  2   Sanders R, cf         4  0  2  0   
+O'Brien C, c          5  1  1  1   Taubensee E, c        4  0  1  0   
+Kelly M, lf           5  0  2  1   Anthony E, rf         3  0  1  1   
+Lemke M, 2b           4  2  2  0   Boone B, 2b           4  0  0  0   
+Maddux G, p           2  0  0  0   Branson J, 3b-ss      4  1  2  0   
+Oliva J, ph           1  0  1  0   Nitkowski C, p        1  0  0  0   
+McMichael G, p        0  0  0  0   Sullivan S, p         0  0  0  0   
+Stanton M, p          0  0  0  0   Howard T, ph          1  0  0  0   
+Smith D, ph           0  1  0  0   Pennington B, p       0  0  0  0   
+Wohlers M, p          0  0  0  0   Worthington C, ph-3b  1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42 10 18  9                        34  2  9  2
+
+Atlanta          400 210 003 -- 10
+Cincinnati       000 000 110 --  2
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)          6.0  6  0  0  0  8
+McMichael G           1.1  3  2  1  2  0
+Stanton M             0.2  0  0  0  0  0
+Wohlers M             1.0  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Nitkowski C (L)       3.2 10  6  6  2  3
+Sullivan S            1.1  2  1  1  1  1
+Pennington B          2.0  3  0  0  2  1
+Hernandez X           2.0  3  3  3  2  3
+
+E -- Grissom M, Taubensee E
+LOB -- Atlanta 14, Cincinnati 8
+2B -- O'Brien C, Branson J, Taubensee E
+HR -- Jones C
+SB -- Justice D
+SH -- Maddux G
+SF -- McGriff F, Anthony E
+Balk -- Nitkowski C
+T -- 3:14
+A -- 23418
+     Game of 6/21/1995 -- Atlanta at Cincinnati (N)
+
+  Atlanta            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Grissom M, cf         4  0  0  0   Walton J, cf          1  1  1  1   
+Blauser J, ss         4  0  1  0   Larkin B, ss          4  0  0  0   
+Jones C, 3b           4  0  0  0   Gant R, lf            3  1  1  1   
+McGriff F, 1b         3  1  1  1   Sanders R, rf         4  0  0  0   
+Justice D, rf         3  0  0  0   Boone B, 2b           3  0  0  1   
+Lopez J, c            3  0  0  0   Lewis M, 3b           3  0  0  0   
+Kelly M, lf           3  0  0  0   Anthony E, 1b         3  0  0  0   
+Lemke M, 2b           2  0  1  0   Berryhill D, c        3  1  1  0   
+Glavine T, p          1  0  0  0   Smiley J, p           2  0  0  0   
+Smith D, ph           1  0  0  0   Worthington C, ph     1  0  1  0   
+Bedrosian S, p        0  0  0  0   Carrasco H, p         0  0  0  0   
+                                   Brantley J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     28  1  3  1                        27  3  4  3
+
+Atlanta          000 000 001 --  1
+Cincinnati       100 001 10x --  3
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (L)         7.0  4  3  2  2  3
+Bedrosian S           1.0  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Smiley J (W)          7.0  1  0  0  3  4
+Carrasco H            0.2  1  0  0  0  1
+Brantley J (S)        1.1  1  1  1  0  4
+
+E -- Lewis M, Justice D
+DP -- Cincinnati 2
+LOB -- Atlanta 4, Cincinnati 5
+2B -- Walton J, Gant R
+HR -- McGriff F
+SB -- Walton J 2
+SH -- Glavine T
+SF -- Boone B, Walton J
+HBP -- by Glavine T (Walton J)
+WP -- Carrasco H
+T -- 2:22
+A -- 23571
+     Game of 6/22/1995 -- Atlanta at Cincinnati (D)
+
+  Atlanta            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Grissom M, cf         5  0  2  1   Walton J, cf          4  1  1  1   
+Blauser J, ss         4  1  0  0   Larkin B, ss          4  0  0  0   
+Jones C, 3b           5  1  1  2   Gant R, lf            4  1  3  0   
+McGriff F, 1b         3  1  1  0   Sanders R, rf         4  2  2  2   
+Justice D, rf         3  2  1  1   Boone B, 2b           4  1  1  0   
+Klesko R, lf          4  1  2  2   Lewis M, 3b           3  1  1  1   
+Kelly M, lf           0  0  0  0   Worthington C, 1b     3  0  0  0   
+Smith D, ph           1  0  0  0   Anthony E, ph-1b      1  1  1  3   
+O'Brien C, c          4  1  2  2   Berryhill D, c        3  0  1  0   
+Lemke M, 2b           3  0  1  0   Harris L, pr          0  1  0  0   
+Belliard R, pr-2b     0  1  0  0   Brantley J, p         0  0  0  0   
+Avery S, p            2  0  0  0   Roper J, p            1  0  0  0   
+McMichael G, p        1  0  0  0   Pugh T, p             0  0  0  0   
+Wohlers M, p          0  0  0  0   Howard T, ph          1  0  1  0   
+Borbon P, p           0  0  0  0   Hernandez X, p        0  0  0  0   
+                                   Taubensee E, ph-c     1  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     35  8 10  8                        33  9 12  9
+
+Atlanta          032 020 010 --  8
+Cincinnati       100 102 05x --  9
+
+  Atlanta              IP  H  R ER BB SO
+Avery S               6.1  8  4  4  2  5
+McMichael G           1.1  1  2  2  1  0
+Wohlers M*            0.0  2  2  2  0  0
+Borbon P (L)          0.1  1  1  1  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Roper J               4.0  5  5  5  3  3
+Pugh T                3.0  3  2  2  2  1
+Hernandez X (W)       1.0  2  1  1  0  2
+Brantley J (S)        1.0  0  0  0  1  0
+  * Pitched to 2 batters in 8th
+
+DP -- Cincinnati 1
+LOB -- Atlanta 7, Cincinnati 4
+2B -- Klesko R 2, Boone B, Lewis M, Howard T, Grissom M, Berryhill D
+HR -- Walton J, Justice D, O'Brien C, Jones C, Sanders R, Anthony E, Taubensee E
+SB -- Belliard R, Sanders R
+CS -- Gant R, McGriff F, Walton J
+SH -- Avery S, Pugh T
+Balk -- Roper J
+T -- 2:47
+A -- 30497
+     Game of 6/23/1995 -- Florida at Cincinnati (N)
+
+  Florida            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Veras Q, 2b           4  1  2  0   Harris L, 1b-rf       3  3  1  0   
+Carr C, cf            1  1  0  0   Larkin B, ss          2  1  1  0   
+Gregg T, cf           3  0  1  1   Worthington C, 3b     2  0  1  0   
+Conine J, lf          4  1  1  2   Gant R, lf            3  0  2  1   
+Pendleton T, 3b       5  2  2  2   Walton J, cf          1  0  0  0   
+Arias A, ph-3b        1  0  0  0   Sanders R, rf         3  0  0  2   
+Colbrunn G, 1b        5  2  2  1   Berryhill D, 1b       0  0  0  0   
+Nen R, p              0  0  0  0   Taubensee E, c        4  0  0  1   
+Dawson A, rf          4  3  3  2   Boone B, 2b           3  0  0  0   
+Perez Y, p            0  0  0  0   Jackson M, p          0  0  0  0   
+Mantei M, p           0  0  0  0   Pennington B, p       1  0  0  0   
+Decker S, ph-1b       0  0  0  0   Howard T, cf-lf       4  0  1  0   
+Abbott K, ss          5  3  2  2   Branson J, 3b-2b-ss   4  0  1  0   
+Johnson C, c          5  3  4  6   Jarvis K, p           1  0  0  0   
+Burkett J, p          4  0  0  0   Hernandez X, p        0  0  0  0   
+Morman R, rf          1  0  0  0   McElroy C, p          0  0  0  0   
+                                   Lewis M, 3b-2b        2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42 16 17 16                        33  4  7  4
+
+Florida          061 007 020 -- 16
+Cincinnati       102 000 100 --  4
+
+  Florida              IP  H  R ER BB SO
+Burkett J (W)         6.0  6  3  3  2  4
+Perez Y               1.0  1  1  0  1  2
+Mantei M              1.0  0  0  0  0  1
+Nen R                 1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Jarvis K (L)          4.1  8  7  7  4  1
+Hernandez X           0.2  0  0  0  0  2
+McElroy C             0.1  2  3  3  1  0
+Jackson M             0.1  4  4  4  2  1
+Pennington B          3.1  3  2  2  2  1
+
+E -- Veras Q, Pendleton T, Morman R
+DP -- Cincinnati 1
+LOB -- Florida 9, Cincinnati 7
+2B -- Johnson C 2, Gant R, Abbott K 2, Gregg T
+HR -- Pendleton T, Dawson A, Johnson C
+SB -- Harris L, Carr C, Conine J, Veras Q
+SH -- Jarvis K
+SF -- Sanders R
+HBP -- by Jarvis K (Dawson A)
+T -- 3:08
+A -- 25672
+     Game of 6/24/1995 -- Florida at Cincinnati (N)
+
+  Florida            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Veras Q, 2b           4  0  0  0   Walton J, cf          4  1  1  1   
+Abbott K, ss          4  0  0  0   Larkin B, ss          4  1  1  2   
+Conine J, lf          4  1  2  1   Gant R, lf            4  1  1  1   
+Colbrunn G, 1b        4  0  0  0   Sanders R, rf         4  0  2  0   
+Dawson A, rf          4  1  1  0   Boone B, 2b           4  0  0  0   
+Pendleton T, 3b       3  0  2  1   Lewis M, 3b           4  1  2  0   
+Gregg T, cf           3  0  0  0   Worthington C, 1b     4  0  1  1   
+Johnson C, c          2  0  0  0   Berryhill D, c        2  0  0  0   
+Hammond C, p          2  0  0  0   Schourek P, p         1  0  0  0   
+Mathews T, p          0  0  0  0   Anthony E, ph         1  1  1  0   
+Arias A, ph           1  0  0  0   Carrasco H, p         0  0  0  0   
+Veres R, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        32  5  9  5
+
+Florida          000 110 000 --  2
+Cincinnati       110 000 30x --  5
+
+  Florida              IP  H  R ER BB SO
+Hammond C (L)         6.2  9  5  5  1  3
+Mathews T             0.1  0  0  0  0  1
+Veres R               1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (W)        7.0  4  2  2  1  6
+Carrasco H (S)        2.0  1  0  0  0  0
+
+DP -- Cincinnati 1
+LOB -- Florida 3, Cincinnati 5
+2B -- Worthington C, Dawson A
+3B -- Sanders R
+HR -- Walton J, Conine J, Larkin B, Gant R
+SB -- Gregg T
+SH -- Schourek P
+WP -- Carrasco H
+T -- 2:08
+A -- 34555
+     Game of 6/25/1995 -- Florida at Cincinnati (D)
+
+  Florida            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Veras Q, 2b           5  1  1  0   Howard T, cf-lf       3  0  1  0   
+Abbott K, ss          3  2  1  0   Larkin B, ss          2  0  0  0   
+Conine J, lf          3  0  1  2   Gant R, lf            4  0  0  0   
+Pendleton T, 3b       4  0  2  0   Jackson M, p          0  0  0  0   
+Colbrunn G, 1b        2  0  0  1   Sanders R, rf         4  0  1  0   
+Gregg T, cf-rf        4  0  0  0   Anthony E, 1b         4  1  1  1   
+Morman R, rf          4  2  2  1   Taubensee E, c        4  0  0  0   
+Carr C, cf            0  0  0  0   Boone B, 2b           3  0  0  0   
+Johnson C, c          4  0  2  0   Branson J, 3b         3  0  0  0   
+Weathers D, p         2  0  1  1   Rijo J, p             1  0  0  0   
+Mathews T, ph-p       2  0  0  0   Pugh T, p             0  0  0  0   
+                                   Harris L, ph          1  0  0  0   
+                                   Hernandez X, p        0  0  0  0   
+                                   Walton J, ph-cf       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5 10  5                        30  1  3  1
+
+Florida          201 101 000 --  5
+Cincinnati       000 000 001 --  1
+
+  Florida              IP  H  R ER BB SO
+Weathers D (W)        5.0  0  0  0  2  2
+Mathews T (S)         4.0  3  1  1  2  1
+
+  Cincinnati           IP  H  R ER BB SO
+Rijo J (L)            4.0  7  4  4  1  5
+Pugh T                2.0  2  1  1  0  1
+Hernandez X           2.0  0  0  0  1  2
+Jackson M             1.0  1  0  0  0  0
+
+E -- Gant R, Abbott K
+DP -- Cincinnati 2
+LOB -- Florida 5, Cincinnati 6
+2B -- Veras Q, Abbott K
+HR -- Morman R, Anthony E
+SB -- Abbott K, Veras Q
+CS -- Larkin B
+SF -- Conine J, Colbrunn G
+WP -- Rijo J
+T -- 2:29
+A -- 25601
+     Game of 7/3/1995 -- San Francisco at Cincinnati (N)
+
+  San Francisco      AB  R  H RBI    Cincinnati         AB  R  H RBI
+Lewis D, cf           4  1  1  0   Larkin B, ss          4  3  2  0   
+Thompson R, 2b        4  0  0  0   Howard T, cf          5  1  1  1   
+Bonds B, lf           3  2  2  2   Gant R, lf            5  0  2  2   
+Carreon M, 1b         5  1  1  0   Sanders R, rf         4  1  1  0   
+Phillips J, 1b        0  0  0  0   Anthony E, 1b         3  1  1  2   
+Hill G, rf            5  1  2  2   Berryhill D, c        0  0  0  0   
+Clayton R, ss         5  1  2  1   Taubensee E, c        3  0  0  0   
+Scarsone S, 3b        4  1  1  1   Lewis M, ph           0  0  0  0   
+Beck R, p             0  0  0  0   Hernandez X, p        0  0  0  0   
+Manwaring K, c        3  1  1  1   Boone B, 2b           4  0  1  1   
+Portugal M, p         2  0  1  1   Branson J, 3b         4  0  1  0   
+Patterson J, ph       1  0  0  0   Nitkowski C, p        0  0  0  0   
+Hook C, p             0  0  0  0   Jarvis K, p           1  0  0  0   
+Barton S, p           0  0  0  0   Harris L, ph          1  0  0  0   
+Burba D, p            0  0  0  0   Jackson M, p          0  0  0  0   
+Benjamin M, 3b        0  0  0  0   Walton J, ph-1b       2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  8 11  8                        36  7 10  6
+
+San Francisco    501 010 010 --  8
+Cincinnati       101 002 300 --  7
+
+  San Francisco        IP  H  R ER BB SO
+Portugal M            6.0  7  4  3  1  2
+Hook C                0.1  3  3  3  1  1
+Barton S              0.1  0  0  0  0  0
+Burba D (W)           1.1  0  0  0  1  1
+Beck R (S)            1.0  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Nitkowski C           0.1  5  5  5  1  0
+Jarvis K              4.2  4  2  2  3  2
+Jackson M             2.0  1  0  0  1  3
+Hernandez X (L)       2.0  1  1  1  0  3
+
+E -- Portugal M, Scarsone S, Anthony E
+DP -- San Francisco 1
+LOB -- San Francisco 8, Cincinnati 6
+2B -- Hill G, Clayton R, Scarsone S, Branson J, Portugal M, Larkin B, Anthony E, Boone B
+HR -- Bonds B
+SB -- Lewis D, Clayton R, Scarsone S, Sanders R 2, Hill G, Howard T, Larkin B, Gant R
+SH -- Thompson R, Portugal M
+SF -- Anthony E
+T -- 3:13
+A -- 30235
+     Game of 7/4/1995 -- San Francisco at Cincinnati (N)
+
+  San Francisco      AB  R  H RBI    Cincinnati         AB  R  H RBI
+Lewis D, cf           4  0  0  0   Walton J, cf          4  0  1  0   
+Thompson R, 2b        5  1  1  0   Howard T, cf          0  0  0  0   
+Bonds B, lf           3  1  1  0   Larkin B, ss          4  2  3  0   
+Carreon M, 1b         5  1  3  2   Gant R, lf            4  3  1  1   
+Hill G, rf            5  1  1  0   Sanders R, rf         5  1  1  0   
+Clayton R, ss         4  1  3  1   Boone B, 2b           5  1  2  1   
+Hook C, p             0  0  0  0   Brantley J, p         0  0  0  0   
+Scarsone S, 3b        4  0  2  1   Santiago B, c         5  1  3  2   
+Manwaring K, c        3  1  0  0   Anthony E, 1b         3  0  0  1   
+Mulholland T, p       2  0  0  0   Lewis M, 3b           3  1  1  0   
+Greer K, p            0  0  0  0   Schourek P, p         2  0  0  0   
+Faneyte R, ph         1  0  1  1   Carrasco H, p         0  0  0  0   
+Bautista J, p         0  0  0  0   Berryhill D, ph       1  1  1  3   
+Benjamin M, ss        1  0  0  0   Hernandez X, p        0  0  0  0   
+                                   Branson J, 2b         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 12  5                        36 10 13  8
+
+San Francisco    010 111 200 --  6
+Cincinnati       202 030 30x -- 10
+
+  San Francisco        IP  H  R ER BB SO
+Mulholland T (L)      4.1  9  7  4  2  3
+Greer K               0.2  0  0  0  0  0
+Bautista J            1.2  3  3  3  2  0
+Hook C                1.1  1  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (W)        5.2  8  4  3  2  7
+Carrasco H            1.1  2  2  2  1  1
+Hernandez X           1.0  1  0  0  0  1
+Brantley J            1.0  1  0  0  0  1
+
+E -- Scarsone S 2, Hill G, Anthony E
+DP -- San Francisco 1, Cincinnati 2
+LOB -- San Francisco 8, Cincinnati 8
+2B -- Larkin B, Hill G, Walton J, Santiago B
+HR -- Gant R, Berryhill D
+SB -- Clayton R
+SH -- Schourek P, Lewis D
+SF -- Anthony E
+WP -- Carrasco H
+T -- 3:10
+A -- 21862
+     Game of 7/5/1995 -- San Francisco at Cincinnati (N)
+
+  San Francisco      AB  R  H RBI    Cincinnati         AB  R  H RBI
+Lewis D, cf           3  0  0  0   Howard T, cf-lf       4  0  1  0   
+Thompson R, 2b        4  0  1  0   Larkin B, ss          4  1  1  0   
+Bonds B, lf           2  0  0  0   Gant R, lf            4  1  1  0   
+Faneyte R, lf         0  0  0  0   Walton J, cf          0  0  0  0   
+Carreon M, rf         4  0  0  0   Sanders R, rf         4  2  1  0   
+Clayton R, ss         4  0  1  0   Anthony E, 1b         4  1  1  1   
+Phillips J, 1b        3  0  1  0   Santiago B, c         4  3  2  3   
+Manwaring K, c        3  0  0  0   Boone B, 2b           3  1  2  1   
+Benjamin M, ph        1  0  0  0   Branson J, 3b         3  0  1  1   
+Scarsone S, 3b        3  0  1  0   Rijo J, p             1  0  0  0   
+Leiter M, p           3  0  0  0   Carrasco H, p         1  0  0  0   
+Barton S, p           0  0  0  0   Harris L, ph          1  0  0  0   
+Greer K, p            0  0  0  0   Jackson M, p          1  0  0  0   
+                                   Pennington B, p       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        34  9 10  6
+
+San Francisco    000 000 000 --  0
+Cincinnati       010 000 44x --  9
+
+  San Francisco        IP  H  R ER BB SO
+Leiter M (L)*         6.0  5  3  2  1  2
+Barton S+             0.0  1  1  0  0  0
+Greer K               2.0  4  5  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Rijo J (W)            5.0  4  0  0  2  6
+Carrasco H            2.0  0  0  0  1  3
+Jackson M             1.1  0  0  0  1  2
+Pennington B          0.2  0  0  0  0  0
+  * Pitched to 2 batters in 7th
+  + Pitched to 1 batter in 7th
+
+E -- Manwaring K, Scarsone S, Faneyte R, Branson J
+DP -- San Francisco 1, Cincinnati 1
+LOB -- San Francisco 7, Cincinnati 3
+2B -- Sanders R, Larkin B
+HR -- Santiago B 2, Boone B
+SF -- Branson J
+T -- 3:10
+A -- 22025
+     Game of 7/6/1995 -- San Francisco at Cincinnati (N)
+
+  San Francisco      AB  R  H RBI    Cincinnati         AB  R  H RBI
+Lewis D, cf           5  2  2  0   Howard T, cf          3  1  3  2   
+Benjamin M, 3b        4  1  2  1   Walton J, ph-cf       1  0  0  0   
+Hill G, ph            1  0  1  0   Larkin B, ss          5  0  1  0   
+Scarsone S, pr-3b     0  1  0  0   Gant R, lf            4  0  1  0   
+Bonds B, lf           5  1  2  4   Sanders R, rf         3  0  1  1   
+Carreon M, rf         5  0  0  0   Anthony E, 1b         5  1  1  1   
+Clayton R, ss         4  2  2  0   Santiago B, c         3  0  0  0   
+Patterson J, 2b       4  0  2  1   Boone B, 2b           3  1  0  0   
+Phillips J, 1b        5  0  2  0   Brantley J, p         0  0  0  0   
+Reed J, c             3  0  0  0   Branson J, 3b-2b      4  2  2  1   
+VanLandingham B, p    3  0  1  1   Pugh T, p             1  0  0  0   
+Burba D, p            0  0  0  0   McElroy C, p          0  0  0  0   
+Lampkin T, ph         1  0  0  0   Harris L, ph          1  0  0  0   
+Barton S, p           0  0  0  0   Hernandez X, p        0  0  0  0   
+Beck R, p             0  0  0  0   Lewis M, 3b           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  7 14  7                        34  5  9  5
+
+San Francisco    001 120 003 --  7
+Cincinnati       001 112 000 --  5
+
+  San Francisco        IP  H  R ER BB SO
+VanLandingham B       6.1  8  5  4  5  5
+Burba D               0.2  0  0  0  1  0
+Barton S (W)          1.0  0  0  0  0  1
+Beck R (S)            1.0  1  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Pugh T                4.2  9  4  4  2  2
+McElroy C             1.1  0  0  0  0  2
+Hernandez X           1.2  1  0  0  1  3
+Brantley J (L)        1.1  4  3  3  1  1
+
+E -- Carreon M
+DP -- San Francisco 1, Cincinnati 1
+LOB -- San Francisco 10, Cincinnati 9
+2B -- Branson J 2, Clayton R, Phillips J
+3B -- Patterson J
+HR -- Benjamin M, Anthony E, Bonds B
+SB -- Howard T, Lewis D, Sanders R, Clayton R
+SF -- Howard T
+T -- 3:20
+A -- 27784
+     Game of 7/7/1995 -- Los Angeles at Cincinnati (N)
+
+  Los Angeles        AB  R  H RBI    Cincinnati         AB  R  H RBI
+Offerman J, ss        4  0  2  1   Howard T, cf          4  0  1  0   
+Mondesi R, rf         4  0  0  0   Larkin B, ss          3  0  0  0   
+Piazza M, c           4  0  1  0   Gant R, lf            4  0  0  0   
+Karros E, 1b          4  0  0  0   Sanders R, rf         3  1  1  0   
+Wallach T, 3b         4  0  1  0   Anthony E, 1b         2  0  1  0   
+Fonville C, pr        0  0  0  0   Harris L, pr-1b       2  1  0  0   
+Kelly R, cf           4  1  3  0   Boone B, 2b           2  1  1  1   
+Ashley B, lf          4  0  1  0   Branson J, 3b         3  1  1  2   
+DeShields D, 2b       2  1  1  0   Berryhill D, c        2  0  1  0   
+Banks W, p            1  0  0  0   Smiley J, p           3  0  0  0   
+Webster M, ph         1  0  0  1   Jackson M, p          0  0  0  0   
+Parra J, p            0  0  0  0                                      
+Hernandez C, ph       1  0  0  0                                      
+Worrell T, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  9  2                        28  4  6  3
+
+Los Angeles      000 010 010 --  2
+Cincinnati       000 202 00x --  4
+
+  Los Angeles          IP  H  R ER BB SO
+Banks W (L)           4.0  4  2  2  3  4
+Parra J               3.0  2  2  2  0  3
+Worrell T             1.0  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Smiley J (W)          7.1  6  2  2  1  4
+Jackson M (S)         1.2  3  0  0  0  2
+
+DP -- Los Angeles 1, Cincinnati 1
+LOB -- Los Angeles 5, Cincinnati 4
+2B -- Berryhill D, DeShields D
+HR -- Branson J
+SB -- Howard T, DeShields D
+CS -- Howard T
+SF -- Boone B
+WP -- Banks W 3
+Balk -- Banks W
+T -- 2:31
+A -- 31046
+     Game of 7/8/1995 -- Los Angeles at Cincinnati (N)
+
+  Los Angeles        AB  R  H RBI    Cincinnati         AB  R  H RBI
+Fonville C, 2b        6  1  1  0   Harris L, 1b-lf       4  0  1  0   
+Offerman J, ss        5  2  1  0   Larkin B, ss          3  0  0  0   
+Kelly R, cf           5  2  3  2   Lewis M, ph-3b        2  0  0  0   
+Astacio P, p          1  0  0  0   Gant R, lf            3  1  1  1   
+Eischen J, p          0  0  0  0   Pennington B, p       1  0  0  0   
+Karros E, 1b          5  2  2  2   McElroy C, p          0  0  0  0   
+Mondesi R, rf         5  2  2  1   Sanders R, rf         4  0  0  0   
+Wallach T, 3b         3  1  2  1   Howard T, cf          3  0  1  0   
+Hansen D, 3b          0  0  0  1   Santiago B, c-1b      4  0  0  0   
+Ashley B, lf          2  1  0  0   Boone B, 2b           2  1  0  0   
+Hollandsworth, ph-lf  2  0  0  0   Branson J, 3b-ss      3  0  2  0   
+Hernandez C, c        5  1  3  5   Nitkowski C, p        1  0  1  1   
+Martinez R, p         3  0  1  0   Taubensee E, ph       1  0  0  0   
+Webster M, ph-cf      0  0  0  0   Jarvis K, p           0  0  0  0   
+                                   Hernandez X, p        0  0  0  0   
+                                   Berryhill D, ph-c     1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42 12 15 12                        32  2  6  2
+
+Los Angeles      100 342 020 -- 12
+Cincinnati       110 000 000 --  2
+
+  Los Angeles          IP  H  R ER BB SO
+Martinez R (W)        6.0  5  2  2  4  4
+Astacio P             2.0  1  0  0  0  0
+Eischen J             1.0  0  0  0  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Nitkowski C (L)       4.0  4  4  4  3  2
+Jarvis K*             1.0  7  6  6  1  2
+Hernandez X           1.0  1  0  0  0  2
+Pennington B          2.0  3  2  2  2  4
+McElroy C             1.0  0  0  0  0  0
+  * Pitched to 2 batters in 6th
+
+E -- Fonville C, Boone B
+DP -- Los Angeles 1
+LOB -- Los Angeles 10, Cincinnati 9
+2B -- Kelly R 2, Wallach T, Martinez R, Mondesi R, Hernandez C
+3B -- Karros E
+HR -- Gant R, Hernandez C
+SB -- Fonville C, Mondesi R
+CS -- Branson J
+SF -- Hansen D
+HBP -- by Astacio P (Howard T)
+WP -- Jarvis K
+PB -- Berryhill D
+T -- 3:24
+A -- 37830
+     Game of 7/9/1995 -- Los Angeles at Cincinnati (D)
+
+  Los Angeles        AB  R  H RBI    Cincinnati         AB  R  H RBI
+Offerman J, ss        4  0  1  0   Howard T, cf-lf       5  2  2  0   
+Kelly R, cf           4  0  1  0   Larkin B, ss          4  2  3  0   
+Seanez R, p           0  0  0  0   Gant R, lf            4  0  1  1   
+Piazza M, c           4  0  0  0   Brantley J, p         0  0  0  0   
+Karros E, 1b          4  0  1  0   Sanders R, rf         5  2  2  4   
+Mondesi R, rf         4  0  1  0   Taubensee E, 1b-c     5  1  2  2   
+Wallach T, 3b         3  0  0  0   Santiago B, c-1b      4  0  3  1   
+Ashley B, lf          2  0  0  0   Boone B, 2b           2  0  0  0   
+DeShields D, 2b       3  0  2  0   Branson J, 3b         4  0  1  0   
+Valdes I, p           1  0  0  0   Schourek P, p         3  1  1  0   
+Parra J, p            0  0  0  0   Lewis M, ph           0  0  0  0   
+Fonville C, ph        1  0  0  0   Carrasco H, p         0  0  0  0   
+Cummings J, p         0  0  0  0   Walton J, cf          0  0  0  0   
+Hollandsworth, ph-cf  1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  0  6  0                        36  8 15  8
+
+Los Angeles      000 000 000 --  0
+Cincinnati       003 500 00x --  8
+
+  Los Angeles          IP  H  R ER BB SO
+Valdes I (L)          3.2 10  8  8  2  2
+Parra J               0.1  1  0  0  1  0
+Cummings J            3.0  2  0  0  1  1
+Seanez R              1.0  2  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (W)        7.0  5  0  0  1  6
+Carrasco H            1.0  1  0  0  0  0
+Brantley J            1.0  0  0  0  0  1
+
+E -- Piazza M, Offerman J
+DP -- Los Angeles 3, Cincinnati 1
+LOB -- Los Angeles 5, Cincinnati 9
+2B -- Howard T, Santiago B, Karros E, Sanders R, Taubensee E, Branson J
+HR -- Sanders R
+SB -- Larkin B 2
+CS -- DeShields D
+SF -- Gant R
+T -- 2:29
+A -- 29589
+     Game of 7/21/1995 -- Chicago at Cincinnati (N)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+McRae B, cf           4  0  1  0   Walton J, cf          5  0  2  0   
+Sanchez R, 2b         3  0  1  1   Howard T, lf          3  2  1  1   
+Grace M, 1b           3  0  0  0   Larkin B, ss          5  2  2  3   
+Sosa S, rf            4  0  0  0   Sanders R, rf         4  0  1  2   
+Zeile T, 3b           4  0  0  0   Morris H, 1b          4  1  2  0   
+Dunston S, ss         4  0  0  0   Santiago B, c         3  2  2  3   
+Gonzalez L, lf        3  0  0  0   Boone B, 2b           4  1  2  1   
+Hubbard M, c          2  0  0  0   Branson J, 3b         4  1  1  0   
+Foster K, p           1  0  1  0   Schourek P, p         3  1  1  0   
+Hernandez J, ph       1  1  1  0   Ruffin J, p           1  0  0  0   
+Wendell T, p          0  0  0  0                                      
+Garces R, p           0  0  0  0                                      
+Bullett S, ph         1  0  0  0                                      
+Perez M, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        36 10 14 10
+
+Chicago          000 001 000 --  1
+Cincinnati       203 003 02x -- 10
+
+  Chicago              IP  H  R ER BB SO
+Foster K (L)          5.0  7  5  5  1  7
+Wendell T             0.2  5  3  3  1  0
+Garces R              1.1  0  0  0  0  0
+Perez M               1.0  2  2  2  1  0
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (W)        7.0  4  1  1  0  5
+Ruffin J              2.0  0  0  0  2  3
+
+LOB -- Chicago 5, Cincinnati 6
+2B -- Morris H 2, Hernandez J, Sanders R
+HR -- Larkin B, Santiago B 2, Boone B
+SB -- McRae B, Howard T
+CS -- Walton J
+SH -- Sanchez R
+HBP -- by Foster K (Santiago B)
+T -- 2:44
+A -- 34049
+     Game of 7/22/1995 -- Chicago at Cincinnati (N)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+McRae B, cf           4  0  0  0   Lewis D, cf           4  1  1  0   
+Dunston S, ss         4  1  1  0   Larkin B, ss          4  1  2  0   
+Grace M, 1b           3  1  1  0   Gant R, lf            4  1  2  2   
+Sosa S, rf            4  0  1  1   Brantley J, p         0  0  0  0   
+Zeile T, 3b           4  1  1  1   Sanders R, rf         4  0  2  1   
+Gonzalez L, lf        3  0  1  0   Morris H, 1b          4  1  1  1   
+Sanchez R, 2b         3  0  0  0   Santiago B, c         3  0  0  0   
+Kmak J, c             3  0  0  0   Boone B, 2b           3  0  1  0   
+Castillo F, p         2  0  0  0   Branson J, 3b         3  0  0  0   
+Bullett S, ph         1  0  1  0   Reed R, p             2  0  0  0   
+Young A, p            0  0  0  0   Jackson M, p          0  0  0  0   
+Nabholz C, p          0  0  0  0   Harris L, ph          1  0  0  0   
+                                   Walton J, lf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  6  2                        32  4  9  4
+
+Chicago          000 000 201 --  3
+Cincinnati       100 000 12x --  4
+
+  Chicago              IP  H  R ER BB SO
+Castillo F            7.0  6  2  2  0  2
+Young A (L)           0.2  3  2  2  0  0
+Nabholz C             0.1  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Reed R                7.0  3  2  1  1  6
+Jackson M (W)         1.0  1  0  0  0  2
+Brantley J (S)        1.0  2  1  1  0  0
+
+E -- Branson J, Dunston S
+DP -- Chicago 1, Cincinnati 1
+LOB -- Chicago 2, Cincinnati 4
+2B -- Sanders R 2, Zeile T, Dunston S
+3B -- Bullett S
+HR -- Morris H, Gant R
+CS -- Sanders R, Gonzalez L
+T -- 2:24
+A -- 38183
+     Game of 7/23/1995 -- Chicago at Cincinnati (D)
+
+  Chicago            AB  R  H RBI    Cincinnati         AB  R  H RBI
+McRae B, cf           5  0  0  0   Howard T, cf          3  0  1  0   
+Dunston S, ss         4  2  2  0   Lewis D, ph-cf        1  0  0  0   
+Grace M, 1b           4  1  3  3   Hernandez X, p        0  0  0  0   
+Sosa S, rf            5  1  2  0   Larkin B, ss          5  0  2  0   
+Zeile T, 3b           4  0  0  1   Gant R, lf            4  0  0  0   
+Timmons O, lf         5  1  1  0   Sanders R, rf         4  1  1  0   
+Hernandez J, 2b       3  0  1  0   Morris H, 1b          5  0  1  1   
+Kmak J, c             2  0  1  1   Taubensee E, pr       0  1  0  0   
+Bullett S, ph         1  0  1  0   Santiago B, c         5  2  3  0   
+Hubbard M, c          0  0  0  0   Boone B, 2b           4  2  2  5   
+Trachsel S, p         2  0  1  0   Branson J, 3b         3  1  2  1   
+Nabholz C, p          0  0  0  0   Walton J, ph-cf       1  0  0  0   
+Sanchez R, ph         1  0  0  0   Smiley J, p           1  0  0  0   
+Perez M, p            0  0  0  0   Burba D, p            0  0  0  0   
+Johnson H, ph         1  0  0  0   Harris L, ph          1  0  0  0   
+Myers R, p            0  0  0  0   Carrasco H, p         1  0  0  0   
+                                   Jackson M, p          0  0  0  0   
+                                   McElroy C, p          0  0  0  0   
+                                   Lewis M, ph-3b        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  5 12  5                        39  7 12  7
+
+Chicago          100 200 000 2 --  5
+Cincinnati       000 003 000 4 --  7
+  2 outs when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Trachsel S            5.2  8  3  3  2  6
+Nabholz C             0.1  0  0  0  0  0
+Perez M               2.0  0  0  0  0  4
+Myers R (L)           1.2  4  4  4  2  0
+
+  Cincinnati           IP  H  R ER BB SO
+Smiley J              4.1  8  3  3  1  6
+Burba D               0.2  0  0  0  0  0
+Carrasco H            3.0  0  0  0  1  3
+Jackson M             0.2  1  0  0  0  0
+McElroy C             0.1  0  0  0  0  1
+Hernandez X (W)       1.0  3  2  2  0  1
+
+E -- Zeile T
+DP -- Chicago 2, Cincinnati 1
+LOB -- Chicago 7, Cincinnati 7
+2B -- Hernandez J, Santiago B, Sosa S, Timmons O, Morris H
+3B -- Dunston S
+HR -- Boone B 2, Branson J, Grace M
+CS -- Lewis D
+SF -- Grace M, Zeile T
+HBP -- by Smiley J (Dunston S)
+T -- 3:26
+A -- 33258
+     Game of 7/24/1995 -- San Diego at Cincinnati (N)
+
+  San Diego          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Finley S, cf          4  3  2  1   Lewis D, cf           4  1  1  1   
+Reed J, 2b            5  1  2  2   Larkin B, ss          5  1  1  1   
+Gwynn T, rf           4  1  1  1   Gant R, lf            1  0  0  0   
+Caminiti K, 3b        4  2  3  1   Walton J, pr-lf-rf    2  2  1  1   
+Plantier P, lf        5  1  2  1   Taubensee E, 1b-c     5  0  2  1   
+Williams E, 1b        4  0  1  2   Boone B, 2b           5  2  2  1   
+Cianfrocco A, 1b      1  0  0  0   Santiago B, c-1b      4  1  2  1   
+Johnson B, c          4  1  2  2   Hunter B, rf          3  0  0  0   
+Cedeno A, ss          4  0  0  0   Howard T, lf          1  0  0  0   
+Benes A, p            4  1  1  0   Branson J, 3b         3  1  1  1   
+Blair W, p            0  0  0  0   Portugal M, p         1  0  1  1   
+Hoffman T, p          0  0  0  0   Burba D, p            1  0  0  0   
+                                   Harris L, ph          1  0  0  0   
+                                   Hernandez X, p        0  0  0  0   
+                                   Lewis M, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 10 14 10                        37  8 11  8
+
+San Diego        300 600 010 -- 10
+Cincinnati       020 002 103 --  8
+
+  San Diego            IP  H  R ER BB SO
+Benes A (W)           6.1  7  5  5  2  8
+Blair W               2.1  3  3  3  1  2
+Hoffman T (S)         0.1  1  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Portugal M (L)        3.1 11  9  7  1  3
+Burba D               3.2  1  0  0  2  3
+Hernandez X           2.0  2  1  1  1  0
+
+E -- Branson J
+DP -- Cincinnati 1
+LOB -- San Diego 7, Cincinnati 6
+2B -- Santiago B 2, Caminiti K, Johnson B, Branson J
+3B -- Boone B, Walton J
+SB -- Finley S
+SF -- Branson J, Gwynn T
+WP -- Portugal M, Blair W
+T -- 3:09
+A -- 25691
+     Game of 7/25/1995 -- San Diego at Cincinnati (D)
+
+  San Diego          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Finley S, cf          4  3  3  0   Lewis D, cf           3  0  1  0   
+Reed J, 2b            2  0  0  1   Larkin B, ss          4  0  2  0   
+Gwynn T, rf           5  0  2  1   Gant R, lf            2  0  0  0   
+Caminiti K, 3b        2  0  0  0   Sanders R, rf         3  1  1  0   
+Plantier P, lf        4  0  1  1   Taubensee E, c        4  0  0  0   
+Williams E, 1b        3  1  1  1   Santiago B, 1b        4  0  2  1   
+Cianfrocco A, 1b      0  0  0  0   Boone B, 2b           4  1  1  1   
+Cedeno A, ss          4  0  0  0   Branson J, 3b         4  0  0  0   
+Hoffman T, p          0  0  0  0   Pugh T, p             2  0  0  0   
+Ausmus B, c           4  0  1  0   McElroy C, p          0  0  0  0   
+Williams B, p         2  0  0  0   Jackson M, p          0  0  0  0   
+Bochtler D, p         1  0  0  0   Harris L, ph          1  0  0  0   
+Holbert R, ss         1  0  0  0   Carrasco H, p         0  0  0  0   
+                                   Howard T, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  4  8  4                        32  2  7  2
+
+San Diego        100 011 100 --  4
+Cincinnati       000 100 001 --  2
+
+  San Diego            IP  H  R ER BB SO
+Williams B (W)        5.0  4  1  1  2  6
+Bochtler D            2.2  2  0  0  1  2
+Hoffman T (S)         1.1  1  1  1  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Pugh T (L)            6.0  6  3  3  2  1
+McElroy C             0.2  1  1  1  2  0
+Jackson M             1.1  0  0  0  1  0
+Carrasco H            1.0  1  0  0  1  1
+
+DP -- San Diego 1, Cincinnati 1
+LOB -- San Diego 8, Cincinnati 7
+2B -- Sanders R
+HR -- Williams E, Boone B
+SB -- Gant R, Finley S, Larkin B 2
+CS -- Lewis D
+SF -- Reed J
+WP -- Pugh T
+T -- 2:51
+A -- 26525
+     Game of 8/1/1995 -- New York at Cincinnati (N)
+
+  New York           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Butler B, cf          4  0  1  0   Howard T, cf          4  2  2  1   
+Alfonzo E, 3b         4  0  1  1   Jackson M, p          0  0  0  0   
+Everett C, rf         3  1  0  0   Walton J, lf          0  0  0  0   
+Kent J, 2b            4  0  1  0   Larkin B, ss          4  2  2  0   
+Jones C, lf           4  0  0  1   Gant R, lf            3  0  1  2   
+Stinnett K, c         2  0  0  0   Brantley J, p         0  0  0  0   
+Orsulak J, ph         1  0  0  0   Sanders R, rf         3  0  0  0   
+Bogar T, 1b           3  0  1  0   Morris H, 1b          3  0  1  1   
+Brogna R, ph          1  0  0  0   Boone B, 2b           3  0  0  0   
+Vizcaino J, ss        3  1  1  0   Santiago B, c         3  0  0  0   
+Harnisch P, p         1  0  0  0   Branson J, 3b         3  0  0  0   
+Buford D, ph          1  1  1  0   Schourek P, p         2  0  0  0   
+Mlicki D, p           0  0  0  0   Harris L, ph          1  0  0  0   
+Spiers B, ph          1  0  0  0   Lewis D, cf           0  0  0  0   
+Byrd P, p             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  2                        29  4  6  4
+
+New York         000 002 001 --  3
+Cincinnati       102 010 00x --  4
+
+  New York             IP  H  R ER BB SO
+Harnisch P (L)        5.0  6  4  4  2  2
+Mlicki D              2.0  0  0  0  0  0
+Byrd P                1.0  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (W)        7.0  5  2  2  0  4
+Jackson M             1.0  0  0  0  0  0
+Brantley J (S)        1.0  1  1  1  1  0
+
+E -- Harnisch P
+DP -- New York 1, Cincinnati 1
+LOB -- New York 4, Cincinnati 3
+2B -- Gant R
+HR -- Howard T
+SB -- Larkin B
+CS -- Gant R
+HBP -- by Schourek P (Stinnett K)
+WP -- Brantley J
+T -- 2:23
+A -- 23439
+     Game of 8/2/1995 -- New York at Cincinnati (N)
+
+  New York           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Butler B, cf          4  0  0  0   Howard T, cf          2  1  2  0   
+Buford D, cf          1  0  0  0   Lewis D, ph-cf        1  0  1  1   
+Alfonzo E, 3b         4  0  0  0   Larkin B, ss          4  0  0  1   
+Everett C, rf         4  0  1  0   Gant R, lf            4  0  0  0   
+Kent J, 2b            4  1  3  0   Walton J, lf          0  0  0  0   
+Jones C, lf           4  1  2  2   Sanders R, rf         3  2  2  0   
+Stinnett K, c         3  0  0  0   Morris H, 1b          4  1  2  1   
+Orsulak J, ph         1  0  1  0   Boone B, 2b           4  1  2  2   
+Bogar T, 1b           3  0  1  0   Santiago B, c         4  1  1  0   
+DiPoto J, p           0  0  0  0   Branson J, 3b         1  0  0  0   
+Henry D, p            0  0  0  0   Lewis M, ph-3b        2  0  1  1   
+Brogna R, ph          1  0  0  0   Wells D, p            3  0  0  0   
+Vizcaino J, ss        4  0  2  0   Carrasco H, p         1  0  0  0   
+Jones B, p            2  0  0  0                                      
+Gunderson E, p        0  0  0  0                                      
+Ledesma A, 1b         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  2 10  2                        33  6 11  6
+
+New York         020 000 000 --  2
+Cincinnati       011 103 00x --  6
+
+  New York             IP  H  R ER BB SO
+Jones B (L)           5.1  8  6  6  2  0
+Gunderson E           0.1  1  0  0  0  1
+DiPoto J              1.1  2  0  0  0  0
+Henry D               1.0  0  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Wells D (W)           7.1  9  2  2  0  6
+Carrasco H            1.2  1  0  0  1  2
+
+E -- Stinnett K
+DP -- New York 2, Cincinnati 1
+LOB -- New York 8, Cincinnati 6
+2B -- Kent J, Vizcaino J, Boone B, Lewis M, Orsulak J
+HR -- Jones C, Morris H
+SB -- Sanders R 2, Branson J, Boone B, Howard T
+HBP -- by Jones B (Sanders R)
+T -- 2:37
+A -- 22142
+     Game of 8/3/1995 -- New York at Cincinnati (N)
+
+  New York           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Butler B, cf          4  0  1  0   Howard T, cf          4  0  1  0   
+Alfonzo E, 3b         4  0  1  0   Jackson M, p          0  0  0  0   
+Everett C, rf         3  1  1  0   Walton J, lf          0  0  0  0   
+Kent J, 2b            4  1  1  1   Larkin B, ss          4  0  0  0   
+Brogna R, 1b          4  0  1  0   Gant R, lf            2  1  0  0   
+Orsulak J, lf         3  0  0  1   Brantley J, p         0  0  0  0   
+Vizcaino J, ss        4  0  0  0   Sanders R, rf         3  1  2  0   
+Castillo A, c         3  0  1  0   Morris H, 1b          4  1  2  0   
+Spiers B, ph          1  0  0  0   Boone B, 2b           2  0  0  0   
+Cornelius R, p        2  0  0  0   Santiago B, c         1  0  0  1   
+Ledesma A, ph         1  0  0  0   Branson J, 3b         3  0  0  0   
+Byrd P, p             0  0  0  0   Burba D, p            1  0  0  0   
+                                   Harris L, ph          1  0  1  1   
+                                   McElroy C, p          0  0  0  0   
+                                   Hernandez X, p        0  0  0  0   
+                                   Lewis D, ph-cf        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  6  2                        26  3  6  2
+
+New York         000 002 000 --  2
+Cincinnati       000 021 00x --  3
+
+  New York             IP  H  R ER BB SO
+Cornelius R (L)       6.0  4  3  3  5  3
+Byrd P                2.0  2  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Burba D               5.0  2  0  0  0  4
+McElroy C (W)         1.0  3  2  2  0  0
+Hernandez X           1.0  0  0  0  0  2
+Jackson M             1.0  1  0  0  1  1
+Brantley J (S)        1.0  0  0  0  0  0
+
+E -- Morris H, Branson J, Larkin B, Castillo A
+DP -- New York 1, Cincinnati 1
+LOB -- New York 6, Cincinnati 6
+2B -- Sanders R, Butler B, Everett C, Brogna R
+SB -- Castillo A
+CS -- Gant R, Sanders R
+SF -- Santiago B, Orsulak J
+WP -- Jackson M
+Balk -- Cornelius R
+PB -- Santiago B, Castillo A
+T -- 2:37
+A -- 22323
+     Game of 8/4/1995 -- Philadelphia at Cincinnati (N)
+
+  Philadelphia       AB  R  H RBI    Cincinnati         AB  R  H RBI
+Morandini M, 2b       4  0  0  0   Lewis D, cf           3  0  1  0   
+Jefferies G, 1b       4  0  2  0   Larkin B, ss          4  1  2  0   
+Marsh T, lf           2  0  0  0   Morris H, 1b          4  0  2  0   
+Longmire T, ph-lf     2  0  0  0   Sanders R, rf         2  0  0  1   
+Daulton D, c          2  0  0  0   Gant R, lf            4  0  1  0   
+Whiten M, rf          4  0  2  0   Walton J, pr-lf       0  0  0  0   
+Hayes C, 3b           3  0  0  0   Boone B, 2b           2  0  0  0   
+Gallagher D, cf       2  0  1  0   Santiago B, c         3  0  0  0   
+Eisenreich J, ph      0  0  0  0   Lewis M, 3b           1  0  0  0   
+Duncan M, ph          1  0  0  0   Branson J, 3b         0  0  0  0   
+Borland T, p          0  0  0  0   Smiley J, p           1  0  0  0   
+Webster L, ph         1  0  0  0   Carrasco H, p         0  0  0  0   
+Stocker K, ss         3  0  0  0   McElroy C, p          1  0  0  0   
+Juden J, p            1  0  0  0   Brantley J, p         0  0  0  0   
+VanSlyke A, cf        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        25  1  6  1
+
+Philadelphia     000 000 000 --  0
+Cincinnati       100 000 00x --  1
+
+  Philadelphia         IP  H  R ER BB SO
+Juden J (L)           6.0  4  1  1  3  3
+Borland T             2.0  2  0  0  3  0
+
+  Cincinnati           IP  H  R ER BB SO
+Smiley J (W)          6.0  2  0  0  0  4
+Carrasco H            0.1  1  0  0  2  1
+McElroy C             1.2  1  0  0  0  0
+Brantley J (S)        1.0  1  0  0  0  0
+
+DP -- Philadelphia 2, Cincinnati 1
+LOB -- Philadelphia 7, Cincinnati 8
+2B -- Whiten M
+SB -- Larkin B
+CS -- Jefferies G, Lewis D
+SH -- Juden J, Smiley J
+SF -- Sanders R
+HBP -- by Smiley J (Daulton D)
+Balk -- Juden J
+T -- 2:20
+A -- 30668
+     Game of 8/6/1995, game 1 -- Philadelphia at Cincinnati (D)
+
+  Philadelphia       AB  R  H RBI    Cincinnati         AB  R  H RBI
+Gallagher D, cf       4  0  0  0   Howard T, cf-lf       3  0  1  0   
+Jefferies G, 1b       4  0  0  0   Larkin B, ss          4  1  1  1   
+Duncan M, 2b          4  0  0  0   Morris H, 1b          4  1  3  1   
+Whiten M, rf          3  0  0  0   Sanders R, rf         3  0  0  1   
+Hayes C, 3b           3  1  1  0   Gant R, lf            3  1  0  0   
+Marsh T, lf           3  0  2  1   Lewis D, cf           0  0  0  0   
+Webster L, c          2  0  0  0   Taubensee E, c        4  1  1  0   
+Elster K, ss          3  0  0  0   Boone B, 2b           3  0  0  0   
+Greene T, p           1  0  0  0   Branson J, 3b         3  2  1  3   
+Mimbs M, p            0  0  0  0   Schourek P, p         2  0  0  0   
+Longmire T, ph        1  0  0  0                                      
+Williams M, p         0  0  0  0                                      
+Eisenreich J, ph      1  0  0  0                                      
+Quantrill P, p        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  1  3  1                        29  6  7  6
+
+Philadelphia     010 000 000 --  1
+Cincinnati       031 200 00x --  6
+
+  Philadelphia         IP  H  R ER BB SO
+Greene T (L)          2.1  4  4  4  2  1
+Mimbs M               1.2  2  2  2  1  2
+Williams M            3.0  1  0  0  1  0
+Quantrill P           1.0  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (W)        9.0  3  1  1  2  7
+
+E -- Hayes C
+DP -- Philadelphia 1, Cincinnati 1
+LOB -- Philadelphia 3, Cincinnati 5
+2B -- Howard T, Morris H 2, Marsh T
+3B -- Hayes C
+HR -- Branson J
+SB -- Howard T, Taubensee E, Gant R
+SH -- Schourek P
+SF -- Sanders R
+WP -- Greene T
+T -- 2:18
+A -- 0
+     Game of 8/6/1995, game 2 -- Philadelphia at Cincinnati (D)
+
+  Philadelphia       AB  R  H RBI    Cincinnati         AB  R  H RBI
+Morandini M, 2b       2  1  0  0   Walton J, lf          3  0  0  0   
+Jefferies G, 1b       5  0  0  0   Lewis D, cf           4  0  1  0   
+VanSlyke A, cf        5  0  2  0   Gant R, ph            0  0  0  0   
+Daulton D, c          4  0  1  1   Larkin B, ss          5  0  3  1   
+Longmire T, lf        2  0  0  0   Sanders R, rf         5  0  1  1   
+Whiten M, rf          1  0  0  0   Boone B, 2b           4  0  0  0   
+Eisenreich J, rf-lf   4  0  2  0   Santiago B, c         4  0  2  0   
+Hayes C, 3b           4  0  0  0   Hunter B, 1b          2  0  0  0   
+Stocker K, ss         4  0  1  0   Branson J, ph-3b      1  0  0  0   
+Fernandez S, p        2  0  1  0   Lewis M, 3b           2  0  0  0   
+Marsh T, ph           1  0  0  0   Morris H, ph-1b       1  0  0  0   
+Bottalico R, p        0  0  0  0   Portugal M, p         2  1  1  0   
+Duncan M, ph          1  0  0  0   Harris L, ph          1  0  0  0   
+Slocumb H, p          0  0  0  0   McElroy C, p          0  0  0  0   
+                                   Jackson M, p          0  0  0  0   
+                                   Howard T, ph          1  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  1  7  1                        35  2  9  2
+
+Philadelphia     000 000 010 0 --  1
+Cincinnati       001 000 000 1 --  2
+  1 out when winning run was scored.
+
+  Philadelphia         IP  H  R ER BB SO
+Fernandez S           6.0  6  1  1  2 11
+Bottalico R           2.0  0  0  0  0  0
+Slocumb H (L)         1.1  3  1  1  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Portugal M            7.0  4  0  0  3  4
+McElroy C             1.0  1  1  1  1  0
+Jackson M (W)         2.0  2  0  0  0  1
+
+E -- Boone B
+DP -- Cincinnati 3
+LOB -- Philadelphia 8, Cincinnati 10
+2B -- Portugal M, Larkin B
+SB -- Lewis D 2, Santiago B, Morandini M
+SH -- Walton J
+HBP -- by Fernandez S (Walton J)
+T -- 2:53
+A -- 34784
+     Game of 8/14/1995 -- Colorado at Cincinnati (N)
+
+  Colorado           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Young E, 2b           4  0  3  0   Larkin B, ss          3  2  1  0   
+Girardi J, c          4  0  0  0   Morris H, 1b          4  1  1  1   
+Walker L, rf          3  0  0  0   Gant R, lf            4  1  1  3   
+Galarraga A, 1b       4  0  2  0   Brantley J, p         0  0  0  0   
+Bichette D, lf        4  0  1  0   Sanders R, cf-rf      3  0  1  0   
+Burks E, cf           4  0  0  0   Anthony E, rf         3  0  2  0   
+Castilla V, 3b        3  0  0  0   Lewis D, pr-cf        0  0  0  0   
+Bates J, ss           3  0  2  0   Boone B, 2b           4  0  0  0   
+Ritz K, p             2  0  0  0   Santiago B, c         3  0  1  0   
+Leskanic C, p         0  0  0  0   Branson J, 3b         2  0  0  0   
+Vanderwal J, ph       1  0  0  0   Burba D, p            1  0  0  0   
+Reed S, p             0  0  0  0   Jackson M, p          1  0  0  0   
+Kingery M, ph         1  0  0  0   Walton J, lf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  0  8  0                        28  4  7  4
+
+Colorado         000 000 000 --  0
+Cincinnati       100 030 00x --  4
+
+  Colorado             IP  H  R ER BB SO
+Ritz K (L)            5.0  6  4  4  4  4
+Leskanic C            1.0  0  0  0  0  2
+Reed S                2.0  1  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Burba D (W)           6.0  5  0  0  2  7
+Jackson M             2.0  1  0  0  1  2
+Brantley J            1.0  2  0  0  0  1
+
+DP -- Colorado 1, Cincinnati 2
+LOB -- Colorado 9, Cincinnati 5
+2B -- Morris H
+HR -- Gant R
+SB -- Larkin B, Sanders R 2, Galarraga A, Young E
+SH -- Burba D
+WP -- Burba D, Ritz K
+Balk -- Brantley J
+T -- 2:32
+A -- 23945
+     Game of 8/15/1995 -- Colorado at Cincinnati (N)
+
+  Colorado           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Young E, 2b           5  0  0  0   Larkin B, ss          3  2  3  3   
+Weiss W, ss           4  0  1  0   Lewis M, ph-ss        0  0  0  0   
+Galarraga A, 1b       4  0  1  0   Morris H, 1b          4  1  1  3   
+Walker L, rf          3  0  0  0   Duncan M, 1b          1  0  1  0   
+Hickerson B, p        0  0  0  0   Gant R, lf            4  0  0  0   
+Tatum J, ph           1  0  0  0   Lewis D, cf           1  0  0  0   
+Munoz M, p            0  0  0  0   Sanders R, cf-rf      5  3  3  4   
+Bichette D, lf        3  2  2  1   McElroy C, p          0  0  0  0   
+Girardi J, c          2  0  1  0   Anthony E, rf         3  0  2  0   
+Nied D, p             0  0  0  0   Walton J, lf          1  1  1  0   
+Vanderwal J, ph-rf    2  0  0  0   Boone B, 2b           5  0  0  0   
+Kingery M, cf         4  1  2  0   Taubensee E, c        4  2  2  1   
+Bates J, 3b           4  0  1  0   Harris L, 3b          4  2  2  0   
+Rekar B, p            1  0  0  0   Portugal M, p         4  0  0  0   
+Owens J, c            3  0  1  2   Howard T, rf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3  9  3                        39 11 15 11
+
+Colorado         000 000 102 --  3
+Cincinnati       221 320 01x -- 11
+
+  Colorado             IP  H  R ER BB SO
+Rekar B (L)           3.0  7  5  5  2  4
+Nied D                3.0  5  5  5  2  2
+Hickerson B           1.0  1  0  0  1  0
+Munoz M               1.0  2  1  1  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Portugal M (W)        8.0  7  1  1  0  3
+McElroy C             1.0  2  2  2  1  2
+
+LOB -- Colorado 7, Cincinnati 9
+2B -- Larkin B 2, Girardi J, Walton J, Owens J
+HR -- Sanders R 3, Morris H, Bichette D
+Balk -- Rekar B
+T -- 2:34
+A -- 24506
+     Game of 8/16/1995 -- Colorado at Cincinnati (D)
+
+  Colorado           AB  R  H RBI    Cincinnati         AB  R  H RBI
+Young E, lf           3  0  1  0   Larkin B, ss          5  0  2  0   
+Kingery M, cf         1  0  0  0   Morris H, 1b          5  0  0  0   
+Weiss W, ss           3  2  1  0   Gant R, lf            4  0  1  0   
+Bichette D, rf        5  2  2  2   Sanders R, cf         4  1  1  0   
+Galarraga A, 1b       4  1  2  0   Anthony E, rf         4  0  2  1   
+Burks E, cf-lf        4  0  0  1   Santiago B, c         3  1  0  0   
+Castilla V, 3b        3  1  0  0   Duncan M, 2b          4  1  2  2   
+Owens J, c            3  0  0  0   Harris L, 3b          3  1  0  0   
+Bates J, 2b           4  0  1  0   Smiley J, p           1  0  0  0   
+Reynoso A, p          3  0  0  0   Carrasco H, p         0  0  0  0   
+Leskanic C, p         1  0  0  0   Howard T, ph          1  0  1  0   
+Holmes D, p           0  0  0  0   Hernandez X, p        0  0  0  0   
+Painter L, p          0  0  0  0   Taubensee E, ph       1  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  6  7  3                        35  4 10  4
+
+Colorado         000 003 201 --  6
+Cincinnati       000 000 211 --  4
+
+  Colorado             IP  H  R ER BB SO
+Reynoso A (W)         6.2  7  2  2  1  3
+Leskanic C            1.1  2  1  1  0  1
+Holmes D              0.2  1  1  1  1  2
+Painter L (S)         0.1  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Smiley J (L)          6.0  5  3  1  4  6
+Carrasco H            1.0  1  2  2  1  1
+Hernandez X           2.0  1  1  1  0  2
+
+E -- Larkin B
+LOB -- Colorado 7, Cincinnati 7
+2B -- Young E, Larkin B, Galarraga A, Bichette D, Sanders R, Anthony E, Taubensee E
+3B -- Weiss W
+HR -- Bichette D, Duncan M
+SB -- Castilla V, Galarraga A
+SH -- Weiss W, Smiley J
+WP -- Hernandez X
+T -- 2:56
+A -- 25024
+     Game of 8/17/1995 -- Los Angeles at Cincinnati (N)
+
+  Los Angeles        AB  R  H RBI    Cincinnati         AB  R  H RBI
+Fonville C, 2b        4  1  1  0   Larkin B, ss          3  1  1  0   
+Offerman J, ss        4  0  2  1   Morris H, 1b          4  2  2  1   
+Piazza M, c           4  0  0  0   Gant R, lf            4  0  1  1   
+Karros E, 1b          4  1  1  0   Walton J, lf          0  0  0  0   
+Mondesi R, rf         3  0  0  1   Sanders R, cf-rf      4  0  4  1   
+Kelly R, lf           3  0  0  0   Anthony E, rf         1  0  0  0   
+Wallach T, 3b         3  0  0  0   Howard T, cf          2  1  0  0   
+Cedeno R, cf          3  0  1  0   Lewis D, cf           1  0  1  0   
+Tapani K, p           1  0  1  0   Santiago B, c         4  1  0  0   
+Ingram G, ph          1  0  1  0   Boone B, 2b           2  0  0  1   
+Seanez R, p           0  0  0  0   Branson J, 3b         3  1  1  2   
+Parker R, ph          1  0  0  0   Schourek P, p         3  0  0  0   
+Astacio P, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  7  2                        31  6 10  6
+
+Los Angeles      100 100 000 --  2
+Cincinnati       101 310 00x --  6
+
+  Los Angeles          IP  H  R ER BB SO
+Tapani K (L)          4.0  6  5  2  0  0
+Seanez R              3.0  2  1  1  2  1
+Astacio P             1.0  2  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (W)        9.0  7  2  2  0  6
+
+E -- Offerman J
+DP -- Los Angeles 1, Cincinnati 2
+LOB -- Los Angeles 3, Cincinnati 4
+2B -- Fonville C, Morris H 2, Sanders R
+3B -- Karros E
+HR -- Branson J
+SB -- Fonville C, Larkin B
+CS -- Fonville C, Sanders R
+SF -- Mondesi R, Boone B
+T -- 2:15
+A -- 25005
+     Game of 8/18/1995 -- Houston at Cincinnati (N)
+
+  Houston            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Hunter B, cf          4  0  1  0   Walton J, cf          2  1  0  0   
+Thompson M, ph        1  0  0  0   Howard T, ph-lf       2  1  2  1   
+Mouton J, lf          4  0  0  0   Larkin B, ss          4  0  2  1   
+Biggio C, 2b          5  0  0  0   Gant R, lf            4  1  2  3   
+Bell D, rf            3  2  3  0   Jackson M, p          0  0  0  0   
+Eusebio T, c          3  0  1  0   Carrasco H, p         0  0  0  0   
+Simms M, 1b           4  1  2  2   Branson J, ph         0  0  0  0   
+Shipley C, 3b         3  0  1  0   Duncan M, ph          1  0  0  0   
+Magadan D, ph-3b      1  0  0  0   Hernandez X, p        0  0  0  0   
+Gutierrez R, ss       4  0  1  1   Sanders R, rf         5  0  0  0   
+Hampton M, p          2  0  0  0   Santiago B, c         3  2  1  0   
+McMurtry C, p         0  0  0  0   Boone B, 2b           4  1  2  1   
+Cangelosi J, ph       1  0  0  0   Morris H, 1b          3  0  1  1   
+Veres D, p            0  0  0  0   Lewis M, 3b           3  1  1  1   
+Tabaka J, p           0  0  0  0   Wells D, p            2  0  1  0   
+Jones T, p            0  0  0  0   Harris L, ph          1  0  0  0   
+May D, ph             1  0  1  0   Lewis D, cf           0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  3 10  3                        34  8 12  8
+
+Houston          000 102 000 --  3
+Cincinnati       020 032 01x --  8
+
+  Houston              IP  H  R ER BB SO
+Hampton M (L)         5.0  7  5  5  4  5
+McMurtry C            1.0  3  2  2  0  0
+Veres D*              1.0  2  1  1  2  0
+Tabaka J              0.2  0  0  0  0  0
+Jones T               0.1  0  0  0  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Wells D (W)           6.0  7  3  3  2  4
+Jackson M+            1.0  2  0  0  1  0
+Carrasco H            1.0  0  0  0  0  0
+Hernandez X           1.0  1  0  0  0  1
+  * Pitched to 3 batters in 8th
+  + Pitched to 2 batters in 8th
+
+E -- Hunter B
+DP -- Houston 3
+LOB -- Houston 9, Cincinnati 8
+2B -- Boone B, Lewis M, Hunter B, May D
+HR -- Gant R, Simms M
+WP -- Hampton M
+T -- 2:57
+A -- 30293
+     Game of 8/19/1995 -- Houston at Cincinnati (N)
+
+  Houston            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Hunter B, cf          3  0  1  0   Larkin B, ss          5  1  2  1   
+Biggio C, 2b          4  0  0  0   Morris H, 1b          4  3  3  1   
+Bell D, rf            4  0  0  0   Gant R, lf            4  0  2  1   
+May D, lf             4  0  1  0   Walton J, pr-lf       0  1  0  0   
+Eusebio T, c          1  0  0  0   Sanders R, rf         3  1  0  0   
+Magadan D, 3b         3  0  0  0   Howard T, cf          3  0  1  1   
+Simms M, 1b           2  0  0  0   Lewis D, cf           1  0  1  2   
+Gutierrez R, ss       3  0  0  0   Taubensee E, c        2  0  1  0   
+Reynolds S, p         2  0  0  0   Santiago B, ph-c      2  0  0  0   
+Hartgraves D, p       0  0  0  0   Boone B, 2b           3  0  0  0   
+McMurtry C, p         0  0  0  0   Branson J, 3b         3  1  1  0   
+Thompson M, ph        1  0  0  0   Burba D, p            3  1  1  0   
+Tabaka J, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     27  0  2  0                        33  8 12  6
+
+Houston          000 000 000 --  0
+Cincinnati       200 001 50x --  8
+
+  Houston              IP  H  R ER BB SO
+Reynolds S (L)        5.1  6  3  2  1  3
+Hartgraves D          1.0  2  2  2  0  1
+McMurtry C            0.2  4  3  3  1  0
+Tabaka J              1.0  0  0  0  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Burba D (W)           9.0  2  0  0  4  3
+
+E -- Bell D, Magadan D, Lewis D
+DP -- Houston 2, Cincinnati 2
+LOB -- Houston 4, Cincinnati 5
+2B -- May D, Branson J, Gant R, Lewis D
+SB -- Sanders R
+SH -- Burba D
+T -- 2:41
+A -- 32567
+     Game of 8/20/1995 -- Houston at Cincinnati (D)
+
+  Houston            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Cangelosi J, cf       4  1  2  0   Larkin B, ss          3  3  3  2   
+Biggio C, 2b          3  0  1  0   Branson J, ph-ss      1  0  1  0   
+Shipley C, 2b         2  0  1  2   Lewis D, cf           6  3  3  0   
+May D, 1b             2  0  0  0   Gant R, lf            2  1  2  5   
+Veres D, p            0  0  0  0   Howard T, lf          2  0  0  0   
+Mouton J, ph          1  0  0  0   Sanders R, rf         3  0  3  2   
+Jones T, p            0  0  0  0   Walton J, rf          0  0  0  0   
+Miller O, ph          1  0  0  0   Boone B, 2b           4  1  0  0   
+Hartgraves D, p       0  0  0  0   Santiago B, c-1b      4  0  1  0   
+Tabaka J, p           0  0  0  0   Duncan M, ph-1b       1  0  0  0   
+Hunter B, ph          1  0  1  0   Morris H, 1b          2  1  0  0   
+Bell D, rf            5  1  2  0   Taubensee E, c        1  0  0  0   
+Magadan D, 3b         5  0  2  0   Lewis M, 3b           5  1  3  2   
+Thompson M, lf        4  0  0  0   Portugal M, p         3  1  1  0   
+Gutierrez R, ss       4  1  2  1   McElroy C, p          0  0  0  0   
+Borders P, c          4  0  1  0   Harris L, ph          1  0  0  0   
+Swindell G, p         1  0  0  0   Hernandez X, p        0  0  0  0   
+Simms M, 1b           2  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     39  4 13  4                        38 11 17 11
+
+Houston          010 000 210 --  4
+Cincinnati       232 040 00x -- 11
+
+  Houston              IP  H  R ER BB SO
+Swindell G (L)        2.1  8  7  5  2  1
+Veres D               1.2  3  0  0  1  1
+Jones T               2.0  4  4  4  3  2
+Hartgraves D          1.0  0  0  0  2  2
+Tabaka J              1.0  2  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Portugal M (W)        7.0  9  3  3  2  3
+McElroy C             1.0  3  1  1  0  0
+Hernandez X           1.0  1  0  0  0  0
+
+E -- Magadan D, Gutierrez R, Lewis M
+DP -- Houston 1, Cincinnati 2
+LOB -- Houston 10, Cincinnati 13
+2B -- Sanders R, Gutierrez R, Lewis M, Magadan D, Portugal M, Shipley C, Hunter B
+HR -- Larkin B, Gant R
+CS -- Larkin B
+SH -- Portugal M
+SF -- Gant R
+T -- 2:56
+A -- 28271
+     Game of 8/28/1995 -- St. Louis at Cincinnati (N)
+
+  St. Louis          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Battle A, rf          4  1  3  0   Walton J, lf          3  1  1  0   
+Smith O, ss           3  0  1  0   Lewis D, cf           3  2  2  0   
+Lankford R, cf        4  0  0  0   Larkin B, ss          4  1  2  4   
+Gilkey B, lf          4  0  1  1   Sanders R, rf         3  0  1  1   
+Mabry J, 1b           4  1  1  1   Santiago B, c         2  0  0  0   
+Bell D, 2b            3  0  0  0   Boone B, 2b           3  0  0  0   
+Cooper S, 3b          3  0  0  0   Morris H, 1b          4  0  1  0   
+Hemond S, c           2  0  0  0   Lewis M, 3b           4  0  1  0   
+Sheaffer D, ph-c      1  0  0  0   Wells D, p            4  1  1  0   
+Watson A, p           2  0  0  0                                      
+Oliva J, ph           1  0  0  0                                      
+DeLucia R, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        30  5  9  5
+
+St. Louis        100 000 100 --  2
+Cincinnati       100 030 10x --  5
+
+  St. Louis            IP  H  R ER BB SO
+Watson A (L)          7.0  8  5  5  4  2
+DeLucia R             1.0  1  0  0  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Wells D (W)           9.0  6  2  2  0  7
+
+DP -- St. Louis 1
+LOB -- St. Louis 3, Cincinnati 7
+2B -- Larkin B
+3B -- Sanders R
+HR -- Mabry J, Larkin B
+SB -- Larkin B
+CS -- Walton J, Smith O, Lewis D
+SH -- Smith O
+HBP -- by Watson A (Lewis D)
+T -- 2:25
+A -- 19520
+     Game of 8/29/1995 -- St. Louis at Cincinnati (N)
+
+  St. Louis          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Gilkey B, lf          4  0  1  0   Walton J, rf          4  1  2  0   
+Smith O, ss           4  0  0  0   Lewis D, cf           3  0  1  0   
+Mabry J, 1b           4  1  2  1   Larkin B, ss          4  1  1  0   
+Jordan B, rf          4  0  1  0   Duncan M, lf          3  2  1  2   
+Lankford R, cf        4  0  2  0   Santiago B, c         4  0  1  2   
+Bell D, 2b            4  0  0  0   Boone B, 2b           3  0  1  0   
+Oliva J, 3b           3  0  0  0   Morris H, 1b          3  0  2  0   
+Pagnozzi T, c         3  0  0  0   Lewis M, 3b           3  0  0  0   
+Osborne D, p          2  0  0  0   Burba D, p            2  0  0  0   
+Urbani T, p           0  0  0  0   Brantley J, p         0  0  0  0   
+Sweeney M, ph         0  0  0  0                                      
+Mathews T, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  1  6  1                        29  4  9  4
+
+St. Louis        000 000 001 --  1
+Cincinnati       200 002 00x --  4
+
+  St. Louis            IP  H  R ER BB SO
+Osborne D (L)*        6.0  8  4  4  1  3
+Urbani T              1.0  0  0  0  0  2
+Mathews T             1.0  1  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Burba D (W)           8.0  5  0  0  1  7
+Brantley J            1.0  1  1  1  0  1
+  * Pitched to 1 batter in 7th
+
+DP -- St. Louis 1, Cincinnati 1
+LOB -- St. Louis 5, Cincinnati 4
+2B -- Jordan B, Morris H, Santiago B
+HR -- Duncan M, Mabry J
+SB -- Lewis D 2
+CS -- Walton J
+SH -- Lewis D, Burba D
+WP -- Burba D
+T -- 2:17
+A -- 19653
+     Game of 8/30/1995 -- St. Louis at Cincinnati (N)
+
+  St. Louis          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Gilkey B, lf          3  0  1  0   Walton J, lf          5  1  1  0   
+Smith O, ss           4  0  1  0   Harris L, rf          3  0  1  0   
+Mabry J, 1b           3  0  0  0   Larkin B, ss          4  0  1  1   
+Jordan B, rf          4  1  1  0   Morris H, 1b          4  2  2  1   
+Lankford R, cf        4  1  1  0   Santiago B, c         3  0  2  1   
+Bell D, 2b            4  1  2  2   Boone B, 2b           1  0  1  0   
+Oliva J, 3b           4  1  1  2   Branson J, 3b         4  0  0  0   
+Mathews T, p          0  0  0  0   Lewis D, cf           3  0  0  0   
+Henke T, p            0  0  0  0   Portugal M, p         2  0  0  0   
+Pagnozzi T, c         2  0  0  0   Taubensee E, ph       1  0  0  0   
+Sheaffer D, c         1  0  0  0   Hernandez X, p        0  0  0  0   
+Hemond S, c           0  0  0  0   Carrasco H, p         0  0  0  0   
+Morgan M, p           3  0  0  0   Howard T, ph          1  0  0  0   
+Parrett J, p          0  0  0  0                                      
+Fossas T, p           0  0  0  0                                      
+Cooper S, 3b          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  4                        31  3  8  3
+
+St. Louis        020 002 000 --  4
+Cincinnati       100 101 000 --  3
+
+  St. Louis            IP  H  R ER BB SO
+Morgan M (W)*         5.0  8  3  3  3  1
+Parrett J             1.2  0  0  0  1  1
+Fossas T              0.1  0  0  0  0  0
+Mathews T             1.0  0  0  0  1  1
+Henke T (S)           1.0  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Portugal M (L)        6.0  6  4  4  4  2
+Hernandez X           2.0  1  0  0  0  3
+Carrasco H            1.0  0  0  0  1  0
+  * Pitched to 3 batters in 6th
+
+E -- Sheaffer D
+DP -- St. Louis 2
+LOB -- St. Louis 7, Cincinnati 8
+2B -- Walton J, Bell D, Morris H, Gilkey B, Santiago B
+HR -- Oliva J, Bell D, Morris H
+SB -- Gilkey B, Harris L
+SH -- Harris L, Boone B
+WP -- Parrett J
+T -- 2:41
+A -- 26395
+     Game of 8/31/1995 -- Pittsburgh at Cincinnati (N)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Brumfield J, cf       4  0  0  1   Walton J, rf          4  0  1  0   
+Bell J, ss            5  1  1  0   Lewis D, cf           3  1  1  0   
+Merced O, rf          4  1  2  0   Taubensee E, ph       1  0  0  0   
+King J, 1b            5  2  4  3   Larkin B, ss          4  1  1  0   
+Garcia C, 2b          5  1  1  0   Duncan M, lf          3  0  0  1   
+Young K, 3b           4  0  0  1   Santiago B, c         4  1  2  2   
+Pegues S, lf          3  0  2  1   Boone B, 2b           4  0  0  0   
+Cummings M, ph-lf     2  0  1  0   Morris H, 1b          4  1  2  0   
+Miceli D, p           0  0  0  0   Lewis M, 3b           2  0  0  0   
+Encarnacion A, c      4  1  1  0   Branson J, ph-3b      2  0  1  0   
+Neagle D, p           2  0  0  0   Viola F, p            2  0  0  0   
+Martin A, ph          1  0  0  0   Ruffin J, p           0  0  0  0   
+Dyer M, p             0  0  0  0   Howard T, ph          1  0  0  1   
+Liriano N, ph         1  0  1  0   Harris L, pr          0  0  0  0   
+Plesac D, p           0  0  0  0   Hernandez X, p        0  0  0  0   
+Wehner J, lf          0  0  0  0   Brantley J, p         0  0  0  0   
+                                   Sanders R, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  6 13  6                        35  4  8  4
+
+Pittsburgh       001 002 001 2 --  6
+Cincinnati       010 002 100 0 --  4
+
+  Pittsburgh           IP  H  R ER BB SO
+Neagle D              6.0  6  3  3  0  3
+Dyer M                2.0  2  1  1  1  1
+Plesac D (W)          1.1  0  0  0  0  1
+Miceli D (S)          0.2  0  0  0  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Viola F               5.2  8  3  3  0  1
+Ruffin J              1.1  0  0  0  0  1
+Hernandez X           1.0  2  0  0  0  0
+Brantley J (L)        2.0  3  3  3  1  0
+
+DP -- Cincinnati 1
+LOB -- Pittsburgh 7, Cincinnati 4
+2B -- Larkin B, Merced O
+HR -- Santiago B, King J
+SB -- Garcia C, Lewis D
+CS -- Santiago B, Lewis D
+SF -- Young K, Duncan M, Brumfield J
+T -- 2:55
+A -- 19509
+     Game of 9/1/1995 -- Pittsburgh at Cincinnati (N)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Brumfield J, cf       4  0  2  0   Howard T, lf          3  0  1  0   
+Bell J, ss            3  1  1  0   Walton J, lf          1  0  0  0   
+Garcia C, 2b          3  0  0  0   Lewis D, cf           4  0  1  1   
+Merced O, ph          1  0  0  0   Larkin B, ss          4  0  0  0   
+Christiansen J, p     0  0  0  0   Sanders R, rf         4  2  2  1   
+King J, 1b            3  0  0  0   Morris H, 1b          4  0  0  0   
+Wehner J, lf          4  0  1  1   Santiago B, c         2  2  1  0   
+Pegues S, rf          4  0  0  0   Boone B, 2b           3  2  3  2   
+Young K, 3b           3  0  1  0   Branson J, 3b         3  0  0  1   
+Encarnacion A, c      3  0  0  0   Schourek P, p         3  1  0  0   
+Loaiza E, p           2  0  0  0   Carrasco H, p         0  0  0  0   
+Liriano N, ph-2b      1  0  0  0   Hunter B, ph          0  0  0  1   
+                                   McElroy C, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        31  7  8  6
+
+Pittsburgh       100 000 000 --  1
+Cincinnati       002 002 03x --  7
+
+  Pittsburgh           IP  H  R ER BB SO
+Loaiza E (L)          7.0  6  4  2  4  5
+Christiansen J        1.0  2  3  3  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (W)        7.2  5  1  1  2  4
+Carrasco H            0.1  0  0  0  0  0
+McElroy C             1.0  0  0  0  0  0
+
+E -- Encarnacion A 2
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 5, Cincinnati 6
+2B -- Howard T, Boone B 2
+HR -- Sanders R
+SB -- Boone B, Howard T, Sanders R
+CS -- Young K, Lewis D
+SF -- Hunter B
+T -- 2:41
+A -- 28205
+     Game of 9/2/1995 -- Pittsburgh at Cincinnati (N)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Brumfield J, cf       5  2  2  0   Howard T, lf          3  0  0  0   
+Bell J, ss            6  2  4  1   Lewis D, ph-cf        2  0  0  0   
+Merced O, rf          5  2  3  3   Morris H, 1b          3  0  1  0   
+Plesac D, p           0  0  0  0   Duncan M, ph-2b       1  2  1  0   
+Cummings M, ph        1  0  0  0   Larkin B, ss          2  0  0  0   
+Dyer M, p             0  0  0  0   Lewis M, ph-3b        2  1  1  1   
+Powell R, p           0  0  0  0   Sanders R, cf         3  0  0  0   
+King J, 1b            4  1  0  0   Walton J, cf-lf       1  1  1  1   
+Garcia C, 2b          6  0  2  3   Anthony E, rf         5  1  1  0   
+Wehner J, lf          0  0  0  0   Boone B, 2b           4  1  2  0   
+Martin A, ph-lf       3  1  2  1   Pugh T, p             0  0  0  0   
+Young K, 3b           5  0  0  0   Berryhill D, ph       0  1  0  0   
+Encarnacion A, c      4  2  3  1   Taubensee E, c        5  1  2  3   
+White R, p            3  1  1  1   Branson J, 3b-ss      4  0  1  1   
+Pegues S, rf          1  0  1  0   Wells D, p            1  0  0  0   
+                                   Harris L, ph          1  0  1  0   
+                                   Jarvis K, p           0  0  0  0   
+                                   Hunter B, ph          1  0  0  0   
+                                   Hernandez X, p        0  0  0  0   
+                                   McElroy C, p          0  0  0  0   
+                                   Santiago B, 1b        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     43 11 18 10                        39  8 11  6
+
+Pittsburgh       002 200 700 -- 11
+Cincinnati       020 000 105 --  8
+
+  Pittsburgh           IP  H  R ER BB SO
+White R (W)           6.0  7  2  2  2  4
+Plesac D              2.0  0  1  0  2  3
+Dyer M                0.2  3  4  4  1  0
+Powell R              0.1  1  1  1  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Wells D (L)           4.0  8  4  4  3  3
+Jarvis K              2.0  2  0  0  1  3
+Hernandez X           0.1  4  5  5  1  1
+McElroy C             0.2  3  2  2  1  1
+Pugh T                2.0  1  0  0  0  0
+
+E -- Young K 2, Larkin B
+DP -- Pittsburgh 1, Cincinnati 1
+LOB -- Pittsburgh 12, Cincinnati 9
+2B -- Bell J, Taubensee E, Encarnacion A 2, White R, Lewis M, Walton J
+3B -- Merced O
+HR -- Taubensee E
+SB -- Wehner J, Garcia C, Brumfield J 2
+SH -- White R
+WP -- McElroy C, Powell R
+T -- 3:22
+A -- 35897
+     Game of 9/3/1995 -- Pittsburgh at Cincinnati (D)
+
+  Pittsburgh         AB  R  H RBI    Cincinnati         AB  R  H RBI
+Martin A, lf          4  2  1  0   Howard T, lf          5  1  1  0   
+Bell J, ss            4  0  3  0   Lewis D, cf           2  1  1  0   
+Merced O, rf          5  1  2  3   Larkin B, ss          5  0  1  0   
+King J, 1b            3  2  1  0   Anthony E, rf         5  0  1  2   
+Liriano N, 2b         5  1  2  2   Morris H, 1b          4  0  0  0   
+Miceli D, p           0  0  0  0   Santiago B, c         4  1  1  0   
+Cummings M, cf        4  0  1  1   Boone B, 2b           2  0  1  0   
+Wehner J, 3b          5  0  0  0   Branson J, 3b         2  0  1  0   
+Encarnacion A, c      5  0  1  0   McElroy C, p          0  0  0  0   
+Wagner P, p           3  1  0  0   Berryhill D, ph       1  0  0  0   
+Hancock L, p          0  0  0  0   Jarvis K, p           0  0  0  0   
+Garcia C, 2b          0  0  0  0   Taubensee E, ph       0  0  0  0   
+                                   Hunter B, ph          1  0  1  1   
+                                   Carrasco H, p         0  0  0  0   
+                                   Burba D, p            1  0  0  0   
+                                   Harris L, 3b          2  0  0  0   
+                                   Lewis M, ph-3b        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 11  6                        35  3  8  3
+
+Pittsburgh       002 500 000 --  7
+Cincinnati       101 000 010 --  3
+
+  Pittsburgh           IP  H  R ER BB SO
+Wagner P (W)          7.1  7  3  2  4  6
+Hancock L*            0.0  1  0  0  0  0
+Miceli D (S)          1.2  0  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Burba D (L)           4.0  8  7  6  6  0
+McElroy C             2.0  1  0  0  0  2
+Jarvis K              2.0  2  0  0  0  2
+Carrasco H            1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+
+E -- Branson J, Encarnacion A
+DP -- Cincinnati 1
+LOB -- Pittsburgh 10, Cincinnati 10
+2B -- Encarnacion A, Martin A, Liriano N, King J, Boone B, Lewis D, Hunter B
+HR -- Merced O
+SB -- Howard T 2, Lewis D
+HBP -- by Wagner P (Boone B)
+WP -- Burba D
+PB -- Encarnacion A
+T -- 2:58
+A -- 28516
+     Game of 9/11/1995 -- Florida at Cincinnati (N)
+
+  Florida            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Veras Q, 2b           4  0  2  0   Howard T, cf          5  0  1  0   
+Arias A, ss           4  0  1  0   Morris H, 1b          5  1  2  0   
+Sheffield G, rf       4  0  0  0   Larkin B, ss          2  0  1  0   
+Conine J, lf          5  0  1  0   Sanders R, rf         4  0  0  0   
+Pendleton T, 3b       5  0  0  0   Anthony E, lf         3  0  0  0   
+Colbrunn G, 1b        4  1  1  0   Walton J, ph-lf       3  0  1  1   
+Johnson C, c          4  0  1  0   Boone B, 2b           5  0  1  0   
+Tavarez J, cf         4  0  1  0   Santiago B, c         3  1  0  0   
+Banks W, p            2  0  2  1   Branson J, 3b         4  0  1  1   
+Gregg T, ph           1  0  0  0   Portugal M, p         1  0  0  0   
+Powell J, p           0  0  0  0   Harris L, ph          1  0  0  0   
+Perez Y, p            0  0  0  0   Hernandez X, p        0  0  0  0   
+Lewis R, p            0  0  0  0   Wilson N, ph          1  0  0  0   
+Small A, p            0  0  0  0   Brantley J, p         0  0  0  0   
+Browne J, ph          0  0  0  0   Taubensee E, ph       1  0  0  0   
+Garces R, p           0  0  0  0   Jackson M, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  1  9  1                        38  2  7  2
+
+Florida          000 010 000 00 --  1
+Cincinnati       010 000 000 01 --  2
+  2 outs when winning run was scored.
+
+  Florida              IP  H  R ER BB SO
+Banks W               6.0  2  1  1  7  3
+Powell J              0.1  2  0  0  0  0
+Perez Y               0.1  0  0  0  0  0
+Lewis R               1.2  0  0  0  2  2
+Small A               0.2  0  0  0  0  0
+Garces R (L)          1.2  3  1  1  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Portugal M            6.0  6  1  1  2  1
+Hernandez X           2.0  2  0  0  0  2
+Brantley J            2.0  1  0  0  0  1
+Jackson M (W)         1.0  0  0  0  0  1
+
+DP -- Cincinnati 2
+LOB -- Florida 7, Cincinnati 16
+2B -- Banks W, Howard T, Boone B
+CS -- Veras Q
+SH -- Arias A, Browne J
+SF -- Branson J
+HBP -- by Powell J (Sanders R)
+WP -- Banks W
+T -- 3:26
+A -- 18248
+     Game of 9/12/1995 -- Florida at Cincinnati (N)
+
+  Florida            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Veras Q, 2b           5  1  3  2   Lewis D, cf           3  1  1  1   
+Carr C, cf            5  0  0  0   Howard T, ph          1  0  0  0   
+Sheffield G, rf       2  1  1  2   Morris H, 1b          4  0  1  1   
+Conine J, lf          4  0  1  0   Larkin B, ss          4  1  1  0   
+Pendleton T, 3b       4  1  1  0   Sanders R, rf         3  0  0  0   
+Colbrunn G, 1b        4  1  2  0   Anthony E, lf         4  0  0  0   
+Johnson C, c          3  1  3  1   Boone B, 2b           4  1  2  0   
+Arias A, ss           3  0  0  0   Santiago B, c         3  0  0  0   
+Mathews T, p          0  0  0  0   Branson J, 3b         4  1  1  1   
+Nen R, p              0  0  0  0   Smiley J, p           1  0  1  0   
+Rapp P, p             1  0  0  0   Pugh T, p             0  0  0  0   
+Gregg T, ph           1  0  0  0   Taubensee E, ph       0  0  0  0   
+Veres R, p            0  0  0  0   Carrasco H, p         0  0  0  0   
+Abbott K, ss          1  0  0  0   Duncan M, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  5 11  5                        32  4  7  3
+
+Florida          020 120 000 --  5
+Cincinnati       011 101 000 --  4
+
+  Florida              IP  H  R ER BB SO
+Rapp P (W)            5.0  6  3  3  3  1
+Veres R               2.0  1  1  1  1  1
+Mathews T             1.0  0  0  0  0  0
+Nen R (S)             1.0  0  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Smiley J (L)          4.1  8  4  4  2  3
+Pugh T                1.2  2  1  1  1  1
+Carrasco H            3.0  1  0  0  1  3
+
+DP -- Florida 1, Cincinnati 1
+TP -- Cincinnati 1
+LOB -- Florida 6, Cincinnati 6
+2B -- Colbrunn G, Larkin B, Morris H, Veras Q
+3B -- Veras Q
+HR -- Sheffield G, Branson J
+SB -- Veras Q 2
+SH -- Rapp P
+HBP -- by Rapp P (Santiago B)
+PB -- Johnson C
+T -- 2:40
+A -- 18908
+     Game of 9/13/1995 -- Florida at Cincinnati (N)
+
+  Florida            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Veras Q, 2b           3  0  0  0   Duncan M, lf          3  1  2  2   
+Carr C, cf            2  0  0  0   Lewis D, cf           3  0  0  0   
+Sheffield G, rf       4  0  0  0   Larkin B, ss          3  2  2  2   
+Conine J, lf          4  0  0  0   Sanders R, rf         4  0  0  0   
+Pendleton T, 3b       3  0  0  0   Boone B, 2b           4  0  2  1   
+Colbrunn G, 1b        3  0  0  0   Morris H, 1b          4  1  1  0   
+Abbott K, ss          3  0  1  0   Santiago B, c         4  1  2  1   
+Johnson C, c          3  0  1  0   Jackson M, p          0  0  0  0   
+Hammond C, p          1  0  0  0   Lewis M, 3b           4  0  1  0   
+Morman R, ph          1  0  0  0   Schourek P, p         2  1  1  0   
+Bowen R, p            0  0  0  0   Taubensee E, c        1  0  0  0   
+Lewis R, p            0  0  0  0                                      
+Groom B, p            0  0  0  0                                      
+Hernandez J, p        0  0  0  0                                      
+Gregg T, ph           1  0  0  0                                      
+Powell J, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  0  2  0                        32  6 11  6
+
+Florida          000 000 000 --  0
+Cincinnati       010 031 10x --  6
+
+  Florida              IP  H  R ER BB SO
+Hammond C (L)         5.0  8  4  4  2  2
+Bowen R*              1.0  2  2  1  0  1
+Lewis R               0.1  1  0  0  0  0
+Groom B               0.1  0  0  0  0  1
+Hernandez J           0.1  0  0  0  0  0
+Powell J              1.0  0  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (W)        7.0  1  0  0  2  6
+Jackson M             2.0  1  0  0  1  2
+  * Pitched to 1 batter in 7th
+
+E -- Sheffield G, Pendleton T, Conine J
+DP -- Florida 1
+LOB -- Florida 4, Cincinnati 7
+2B -- Morris H, Santiago B, Duncan M, Boone B 2, Larkin B
+3B -- Abbott K
+HR -- Larkin B
+CS -- Carr C
+SH -- Lewis D, Schourek P
+SF -- Duncan M
+T -- 2:28
+A -- 18963
+     Game of 9/14/1995 -- San Diego at Cincinnati (D)
+
+  San Diego          AB  R  H RBI    Cincinnati         AB  R  H RBI
+Finley S, cf          3  1  1  0   Howard T, lf          4  1  1  2   
+McDavid R, cf         1  0  0  0   Lewis D, cf           4  0  1  1   
+Reed J, 2b            2  0  1  1   Larkin B, ss          3  0  0  0   
+Holbert R, 2b         1  0  0  0   Lewis M, 3b           1  0  0  0   
+Gwynn T, rf           3  0  1  0   Sanders R, rf         3  1  1  0   
+Clark P, rf           1  0  0  0   Morris H, 1b          3  1  0  0   
+Caminiti K, 3b        3  0  0  0   Taubensee E, c        2  2  1  2   
+Hermanson D, p        0  0  0  0   Boone B, 2b           4  0  1  1   
+Plantier P, ph        1  0  0  0   Branson J, 3b-ss      3  2  2  2   
+Newfield M, lf        3  0  1  0   Wells D, p            4  1  1  0   
+Williams E, 1b        2  0  0  0                                      
+Berumen A, p          0  0  0  0                                      
+Cianfrocco A, ph-3b   1  0  0  0                                      
+Johnson B, c          3  0  0  0                                      
+Cedeno A, ss          3  0  0  0                                      
+Blair W, p            1  0  0  0                                      
+Nieves M, 1b          2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  4  1                        31  8  8  8
+
+San Diego        100 000 000 --  1
+Cincinnati       020 501 00x --  8
+
+  San Diego            IP  H  R ER BB SO
+Blair W (L)           3.2  5  7  7  3  3
+Berumen A             2.1  3  1  1  0  1
+Hermanson D           2.0  0  0  0  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Wells D (W)           9.0  4  1  1  1  5
+
+DP -- Cincinnati 1
+LOB -- San Diego 3, Cincinnati 4
+2B -- Reed J
+3B -- Finley S, Howard T
+HR -- Taubensee E, Branson J
+SB -- Sanders R 3
+HBP -- by Blair W (Sanders R)
+T -- 2:22
+A -- 18672
+     Game of 9/15/1995 -- Atlanta at Cincinnati (N)
+
+  Atlanta            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Polonia L, lf         3  0  1  0   Larkin B, ss          4  1  2  1   
+Mordecai M, 2b        4  0  2  0   Lewis D, cf           3  0  0  0   
+Jones C, 3b           3  1  0  0   Howard T, ph-cf       1  0  0  0   
+McGriff F, 1b         3  0  1  0   Gant R, lf            4  0  1  0   
+Justice D, rf         4  1  1  1   Sanders R, rf         4  0  1  0   
+Devereaux M, cf       4  0  0  0   Morris H, 1b          3  0  2  0   
+Perez E, c            4  1  2  2   Santiago B, c         3  0  0  0   
+Blauser J, ss         3  0  0  0   Jackson M, p          0  0  0  0   
+Smoltz J, p           3  0  0  0   Hernandez X, p        0  0  0  0   
+Smith D, ph           1  0  0  0   Brantley J, p         0  0  0  0   
+McMichael G, p        0  0  0  0   Anthony E, ph         1  0  0  0   
+                                   Boone B, 2b           4  0  0  0   
+                                   Branson J, 3b         3  0  1  0   
+                                   Pugh T, p             2  0  0  0   
+                                   McElroy C, p          0  0  0  0   
+                                   Taubensee E, c        1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  7  3                        33  1  7  1
+
+Atlanta          000 000 300 --  3
+Cincinnati       000 010 000 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Smoltz J (W)          8.0  6  1  1  1 11
+McMichael G (S)       1.0  1  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Pugh T                6.0  2  0  0  2  3
+McElroy C (L)         0.1  1  2  2  1  0
+Jackson M             0.2  1  1  1  0  1
+Hernandez X           1.0  1  0  0  0  0
+Brantley J            1.0  2  0  0  1  2
+
+E -- Smoltz J
+DP -- Atlanta 2, Cincinnati 2
+LOB -- Atlanta 6, Cincinnati 6
+2B -- Morris H 2, Larkin B, Gant R
+HR -- Larkin B, Perez E
+WP -- McMichael G
+T -- 2:22
+A -- 31882
+     Game of 9/16/1995 -- Atlanta at Cincinnati (D)
+
+  Atlanta            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Grissom M, cf         4  3  3  1   Howard T, cf          4  0  3  1   
+Lemke M, 2b           4  1  2  1   Larkin B, ss          2  0  0  0   
+Jones C, 3b           5  0  0  0   Lewis M, pr-3b        1  0  0  0   
+McGriff F, 1b         3  0  0  0   Gant R, lf            4  0  0  0   
+Justice D, rf         4  1  3  3   Sanders R, rf         3  0  1  0   
+Klesko R, lf          4  1  1  1   Morris H, 1b          4  0  0  0   
+Devereaux M, lf       1  0  0  0   Taubensee E, c        3  0  1  0   
+O'Brien C, c          4  0  1  0   Duncan M, 2b          4  0  1  0   
+Belliard R, ss        4  0  0  0   Branson J, 3b-ss      4  1  2  0   
+Maddux G, p           3  0  0  0   Portugal M, p         1  0  0  0   
+Clontz B, p           0  0  0  0   Anthony E, ph         1  0  0  0   
+Smith D, ph           1  0  0  0   Jarvis K, p           0  0  0  0   
+Wohlers M, p          0  0  0  0   McElroy C, p          0  0  0  0   
+                                   Harris L, ph          1  0  0  0   
+                                   Carrasco H, p         0  0  0  0   
+                                   Wilson N, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 10  6                        33  1  8  1
+
+Atlanta          100 011 012 --  6
+Cincinnati       000 000 010 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Maddux G (W)          7.0  4  0  0  1  8
+Clontz B              1.0  2  1  1  0  1
+Wohlers M             1.0  2  0  0  1  2
+
+  Cincinnati           IP  H  R ER BB SO
+Portugal M (L)        5.0  4  2  2  3  2
+Jarvis K              1.2  3  1  1  0  0
+McElroy C             1.1  1  1  1  0  1
+Carrasco H            1.0  2  2  2  1  2
+
+E -- Duncan M
+DP -- Atlanta 1, Cincinnati 1
+LOB -- Atlanta 9, Cincinnati 8
+2B -- Branson J, Lemke M
+HR -- Grissom M, Justice D, Klesko R
+CS -- Sanders R, Howard T
+HBP -- by Maddux G (Larkin B), by Carrasco H (Grissom M)
+T -- 2:45
+A -- 37821
+     Game of 9/17/1995 -- Atlanta at Cincinnati (N)
+
+  Atlanta            AB  R  H RBI    Cincinnati         AB  R  H RBI
+Grissom M, cf         4  0  0  0   Lewis D, cf           4  0  1  0   
+Lemke M, 2b           5  1  3  1   Boone B, 2b           4  0  0  0   
+Blauser J, ss         4  0  0  0   Gant R, lf            3  0  1  0   
+McGriff F, 1b         4  0  0  0   Sanders R, rf         3  0  0  0   
+Devereaux M, rf       4  1  1  0   Santiago B, c         4  1  2  1   
+Klesko R, lf          3  1  1  0   Morris H, 1b          4  0  1  0   
+Kelly M, lf           0  0  0  0   Lewis M, 3b           3  0  1  0   
+Mordecai M, 3b        4  1  2  2   Branson J, ss         4  0  0  0   
+O'Brien C, c          4  0  1  1   Smiley J, p           1  0  0  0   
+Glavine T, p          2  0  1  0   Walton J, ph          1  0  0  0   
+Smith D, ph           1  0  0  0   Jackson M, p          0  0  0  0   
+Pena A, p             0  0  0  0   Carrasco H, p         0  0  0  0   
+Wohlers M, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        31  1  6  1
+
+Atlanta          000 201 100 --  4
+Cincinnati       000 001 000 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Glavine T (W)         7.0  4  1  1  4  8
+Pena A                1.0  1  0  0  0  2
+Wohlers M (S)         1.0  1  0  0  0  2
+
+  Cincinnati           IP  H  R ER BB SO
+Smiley J (L)          7.0  8  4  4  2  8
+Jackson M             1.0  1  0  0  0  0
+Carrasco H            1.0  0  0  0  0  1
+
+DP -- Atlanta 2
+LOB -- Atlanta 8, Cincinnati 7
+2B -- Mordecai M
+HR -- Mordecai M, Santiago B, Lemke M
+SH -- Glavine T
+HBP -- by Smiley J (Blauser J)
+T -- 2:29
+A -- 19797
+     Game of 9/18/1995 -- Montreal at Cincinnati (N)
+
+  Montreal           AB  R  H RBI    Cincinnati         AB  R  H RBI
+White R, cf           5  1  2  1   Howard T, cf          4  1  2  1   
+Grudzielanek M, ss    4  0  2  1   Jackson M, p          0  0  0  0   
+Benitez Y, rf         3  1  1  1   Duncan M, ph          1  1  1  1   
+Rodriguez H, ph-rf    1  0  0  0   Walton J, lf          0  0  0  0   
+Berry S, 3b           3  0  0  0   Harris L, 3b          3  0  1  0   
+Cordero W, lf         4  0  1  0   Lewis M, ph-3b        2  0  1  1   
+Lansing M, 2b         4  1  1  0   Gant R, lf            3  1  1  0   
+Andrews S, 1b         3  0  0  0   Brantley J, p         0  0  0  0   
+Tarasco T, ph         1  0  1  1   Sanders R, rf         5  1  2  1   
+Fletcher D, c         4  1  1  0   Morris H, 1b          3  1  0  0   
+Alvarez T, p          2  0  0  0   Taubensee E, c        3  0  1  1   
+Heredia G, p          0  0  0  0   Santiago B, ph-c      1  0  1  1   
+Eversgerd B, p        0  0  0  0   Boone B, 2b           4  0  0  0   
+Silvestri D, ph       0  0  0  0   Branson J, ss         4  0  1  1   
+DeLeon J, p           0  0  0  0   Schourek P, p         3  1  2  0   
+Leiper D, p           0  0  0  0   Lewis D, cf           1  1  1  0   
+Harris G, p           0  0  0  0                                      
+White G, p            0  0  0  0                                      
+Thobe J, p            0  0  0  0                                      
+Santangelo F, ph      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        37  7 14  7
+
+Montreal         101 010 001 --  4
+Cincinnati       020 020 12x --  7
+
+  Montreal             IP  H  R ER BB SO
+Alvarez T (L)         4.1  8  4  4  2  1
+Heredia G             1.1  2  0  0  0  1
+Eversgerd B           0.1  0  0  0  0  0
+DeLeon J              0.1  0  1  1  1  1
+Leiper D              0.1  1  0  0  0  0
+Harris G              0.1  0  0  0  0  0
+White G               0.1  1  1  1  0  1
+Thobe J               0.2  2  1  1  0  0
+
+  Cincinnati           IP  H  R ER BB SO
+Schourek P (W)        7.0  7  3  2  2  5
+Jackson M             1.0  0  0  0  0  0
+Brantley J            1.0  2  1  1  0  0
+
+E -- Morris H, Harris L, Thobe J
+DP -- Cincinnati 2
+LOB -- Montreal 6, Cincinnati 9
+2B -- Schourek P 2, Santiago B
+3B -- Sanders R, Gant R
+HR -- Benitez Y, White R
+SB -- Gant R, Lewis D
+WP -- Thobe J
+Balk -- Brantley J
+T -- 2:54
+A -- 19191
+     Game of 9/19/1995 -- Montreal at Cincinnati (N)
+
+  Montreal           AB  R  H RBI    Cincinnati         AB  R  H RBI
+White R, cf           3  1  0  0   Duncan M, ss          4  0  1  0   
+Grudzielanek M, ss    5  1  2  0   Lewis D, cf           3  0  0  0   
+Benitez Y, rf         4  0  2  1   Howard T, ph-cf       1  0  0  0   
+Berry S, 3b           3  1  1  1   Gant R, lf            3  0  1  0   
+Rodriguez H, 1b       4  0  1  0   Sanders R, rf         4  0  0  0   
+Scott T, p            0  0  0  0   Santiago B, c         4  1  2  0   
+Rojas M, p            0  0  0  0   Morris H, 1b          4  0  2  1   
+Lansing M, 2b         4  0  0  0   Boone B, 2b           4  0  0  0   
+Cordero W, lf         4  1  2  1   Lewis M, 3b           3  0  1  0   
+Fletcher D, c         4  0  2  0   Wells D, p            2  0  0  0   
+Rueter K, p           3  0  0  0   Carrasco H, p         0  0  0  0   
+Segui D, 1b           1  0  0  0   Anthony E, ph         1  0  0  0   
+                                   Brantley J, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 10  3                        33  1  7  1
+
+Montreal         000 102 100 --  4
+Cincinnati       000 000 100 --  1
+
+  Montreal             IP  H  R ER BB SO
+Rueter K (W)          6.0  4  0  0  1  4
+Scott T               2.0  2  1  1  0  2
+Rojas M (S)           1.0  1  0  0  0  1
+
+  Cincinnati           IP  H  R ER BB SO
+Wells D (L)           6.0  8  3  2  3  4
+Carrasco H            1.0  2  1  1  0  0
+Brantley J            2.0  0  0  0  0  1
+
+E -- Sanders R
+DP -- Montreal 1, Cincinnati 2
+LOB -- Montreal 7, Cincinnati 6
+2B -- Berry S, Santiago B, Fletcher D, Morris H
+SB -- Grudzielanek M
+T -- 2:28
+A -- 20528
+     Game of 9/20/1995 -- Montreal at Cincinnati (D)
+
+  Montreal           AB  R  H RBI    Cincinnati         AB  R  H RBI
+White R, cf           4  0  1  0   Larkin B, ss          4  2  1  0   
+Grudzielanek M, ss    4  0  1  0   Lewis D, cf           3  0  0  0   
+Segui D, 1b           4  1  1  0   Gant R, lf            3  0  0  0   
+Berry S, 3b           4  0  1  1   Sanders R, rf         4  0  2  1   
+Fletcher D, c         4  1  2  1   Duncan M, 1b          3  2  2  0   
+Lansing M, 2b         3  0  0  0   Harris L, ph          0  0  0  0   
+Tarasco T, rf         4  0  0  0   Hunter B, ph-1b       0  0  0  0   
+Floyd C, lf           3  0  0  0   Jackson M, p          0  0  0  0   
+Heredia G, p          0  0  0  0   Santiago B, c         3  1  2  2   
+Eversgerd B, p        0  0  0  0   Boone B, 2b           3  0  0  0   
+Harris G, p           0  0  0  0   Lewis M, 3b           2  0  2  1   
+Fassero J, p          2  0  0  0   Branson J, ph-3b      1  0  0  0   
+Rodriguez H, lf       1  0  0  0   Portugal M, p         3  0  0  0   
+                                   Morris H, ph-1b       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  6  2                        29  5  9  4
+
+Montreal         010 001 000 --  2
+Cincinnati       110 002 10x --  5
+
+  Montreal             IP  H  R ER BB SO
+Fassero J (L)         6.0  8  4  4  3  0
+Heredia G             0.2  1  1  1  1  0
+Eversgerd B*          0.0  0  0  0  1  0
+Harris G              1.1  0  0  0  1  1
+
+  Cincinnati           IP  H  R ER BB SO
+Portugal M (W)        8.0  5  2  2  0  3
+Jackson M (S)         1.0  1  0  0  0  0
+  * Pitched to 1 batter in 7th
+
+LOB -- Montreal 5, Cincinnati 8
+2B -- Duncan M, Santiago B 2, Segui D, Berry S, Grudzielanek M, Fletcher D
+HR -- Fletcher D
+SB -- Lansing M, Sanders R, Santiago B, Gant R, Larkin B, Hunter B
+SH -- Boone B, Lewis D
+HBP -- by Portugal M (Lansing M)
+WP -- Heredia G
+T -- 2:38
+A -- 20352
+

@@ -525,20 +525,7 @@ class Researcher(object):
 
         Returns the date of opening day in year year
         """
-        #assert type(year) == int 
-
-        Utilities.ensure_gamelog_files_exist(year)
- 
-        # get first item in gamelog for year year, which is opening day
-        with open(Filepath.get_retrosheet_file(folder='unzipped', 
-            fileF='gamelog', year=year), "r") as f:
-            date_string = f.readline().split(',')[0]
-
-        # format and return the date
-        year = int(date_string[1:5])
-        month = int(date_string[5:7])
-        day = int(date_string[7:9])
-        return date(year, month, day)
+        return self.openAndCloseDays[year][0]
 
     @classmethod
     def get_closing_day(self, year):
@@ -547,21 +534,7 @@ class Researcher(object):
 
        Returns the date of closing day (of regular season) in year year
        """
-       #assert type(year) == int
-
-       Utilities.ensure_gamelog_files_exist(year)
- 
-       # get last element in first column (the date column) of gamelog file
-       df = pd.read_csv(Filepath.get_retrosheet_file(folder='unzipped', 
-          fileF='gamelog', year=year), header=None)
-       date_string = str(df[0].ravel()[-1])
-       # date_string = '20101003' #debugging on linux
-
-       # format and return the date
-       year = int(date_string[0:4])
-       month = int(date_string[4:6])
-       day = int(date_string[6:8])
-       return date(year, month, day)
+       return self.openAndCloseDays[year][1]
 
     @classmethod
     # @profile

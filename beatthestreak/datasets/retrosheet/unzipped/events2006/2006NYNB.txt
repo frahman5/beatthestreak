@@ -1,0 +1,3767 @@
+     Game of 4/3/2006 -- Washington at New York (D)
+
+  Washington         AB  R  H RBI    New York           AB  R  H RBI
+Watson B, cf          4  0  1  0   Reyes J, ss           5  0  0  0   
+LeCroy M, ph          1  0  0  0   Lo Duca P, c          4  0  2  1   
+Vidro J, 2b           5  0  3  1   Beltran C, cf         4  0  0  0   
+Guillen J, rf         4  0  1  0   Delgado C, 1b         3  0  0  0   
+Johnson N, 1b         3  1  0  0   Wright D, 3b          4  1  2  1   
+Soriano A, lf         3  0  2  0   Floyd C, lf           3  1  0  0   
+Zimmerman R, 3b       3  0  2  0   Nady X, rf            4  1  4  1   
+Clayton R, ss         3  0  1  1   Hernandez A, 2b       4  0  0  0   
+Schneider B, c        4  0  0  0   Glavine T, p          2  0  2  0   
+Hernandez L, p        2  0  1  0   Valentin J, ph        1  0  0  0   
+Anderson M, ph        1  1  1  0   Heilman A, p          0  0  0  0   
+Rodriguez F, p        0  0  0  0   Franco J, ph          1  0  0  0   
+Eischen J, p          0  0  0  0   Wagner B, p           0  0  0  0   
+Majewski G, p         0  0  0  0                                      
+Byrd M, ph            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  2 12  2                        35  3 10  3
+
+Washington       000 100 100 --  2
+New York         001 101 00x --  3
+
+  Washington           IP  H  R ER BB SO
+Hernandez L (L)       6.0  8  3  3  1  4
+Rodriguez F           0.2  1  0  0  1  1
+Eischen J             0.1  0  0  0  0  0
+Majewski G            1.0  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Glavine T (W)         6.0  6  1  1  3  5
+Heilman A             2.0  5  1  1  0  1
+Wagner B (S)          1.0  1  0  0  0  1
+
+E -- Hernandez L
+DP -- New York 2
+LOB -- Washington 9, New York 10
+2B -- Nady X 2, Guillen J, Lo Duca P, Zimmerman R
+HR -- Wright D
+SB -- Soriano A
+SF -- Clayton R
+T -- 2:49
+A -- 54371
+     Game of 4/5/2006 -- Washington at New York (N)
+
+  Washington         AB  R  H RBI    New York           AB  R  H RBI
+Watson B, cf          3  0  0  0   Reyes J, ss           4  1  1  0   
+Stanton M, p          0  0  0  0   Lo Duca P, c          4  0  0  0   
+Majewski G, p         0  0  0  0   Beltran C, cf         2  2  0  0   
+Cordero C, p          0  0  0  0   Delgado C, 1b         4  1  2  2   
+LeCroy M, ph          2  0  0  0   Wright D, 3b          5  0  1  1   
+Rodriguez F, p        0  0  0  0   Floyd C, lf           4  0  1  0   
+Vidro J, 2b           5  2  2  0   Nady X, rf            5  1  1  1   
+Guillen J, rf         4  2  2  2   Hernandez A, 2b       4  0  0  0   
+Johnson N, 1b         4  2  1  3   Bannister B, p        2  0  0  0   
+Soriano A, lf         2  0  0  0   Sanchez D, p          0  0  0  0   
+Byrd M, lf-cf         2  1  0  0   Diaz V, ph            1  0  0  0   
+Zimmerman R, 3b       3  2  1  1   Heilman A, p          0  0  0  0   
+Clayton R, ss         5  0  1  2   Wagner B, p           0  0  0  0   
+Schneider B, c        4  0  0  0   Franco J, ph          1  0  1  0   
+Patterson J, p        1  0  0  0   Julio J, p            0  0  0  0   
+Anderson M, ph        1  0  0  0   Bradford C, p         0  0  0  0   
+Rauch J, p            0  0  0  0                                      
+Ward D, ph            1  0  0  0                                      
+Jackson D, lf         2  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     39  9  8  9                        36  5  7  4
+
+Washington       000 003 001 5 --  9
+New York         112 000 000 1 --  5
+
+  Washington           IP  H  R ER BB SO
+Patterson J           4.0  4  4  4  3  7
+Rauch J               2.0  0  0  0  2  2
+Stanton M             1.2  0  0  0  0  0
+Majewski G            0.1  0  0  0  0  0
+Cordero C (W)         1.0  2  0  0  1  1
+Rodriguez F           1.0  1  1  1  1  0
+
+  New York             IP  H  R ER BB SO
+Bannister B           6.0  2  3  3  4  4
+Sanchez D             1.0  0  0  0  0  0
+Heilman A             1.0  1  0  0  0  1
+Wagner B              1.0  1  1  1  0  0
+Julio J (L)           0.2  4  5  2  1  2
+Bradford C            0.1  0  0  0  0  0
+
+E -- Lo Duca P
+DP -- Washington 1
+LOB -- Washington 7, New York 8
+2B -- Vidro J, Jackson D
+HR -- Nady X, Delgado C, Johnson N, Zimmerman R, Guillen J
+SB -- Reyes J, Wright D, Floyd C, Zimmerman R
+CS -- Watson B
+HBP -- by Bannister B (Soriano A), by Bannister B (Guillen J)
+WP -- Bannister B
+Balk -- Rodriguez F
+PB -- Lo Duca P
+T -- 3:37
+A -- 19557
+     Game of 4/6/2006 -- Washington at New York (N)
+
+  Washington         AB  R  H RBI    New York           AB  R  H RBI
+Watson B, cf          5  0  0  0   Reyes J, ss           5  2  3  2   
+Vidro J, 2b           3  1  1  0   Lo Duca P, c          3  1  2  0   
+Guillen J, rf         3  1  0  0   Beltran C, cf         4  2  1  4   
+Johnson N, 1b         3  2  2  3   Delgado C, 1b         5  1  1  1   
+Soriano A, lf         5  1  2  0   Wright D, 3b          4  2  3  1   
+Zimmerman R, 3b       5  0  0  0   Floyd C, lf           5  1  2  1   
+Clayton R, ss         3  0  0  0   Bradford C, p         0  0  0  0   
+Anderson M, ph        0  0  0  0   Nady X, rf            3  1  2  0   
+Jackson D, ss         0  0  0  0   Hernandez A, 2b       4  0  0  0   
+Schneider B, c        3  0  0  0   Martinez P, p         2  0  1  1   
+Rodriguez F, p        0  0  0  0   Valentin J, ph        1  0  0  0   
+Rauch J, p            0  0  0  0   Sanchez D, p          1  0  0  0   
+Ortiz R, p            1  0  1  1   Chavez E, lf          0  0  0  0   
+Ward D, ph            0  0  0  0                                      
+Bergmann J, p         0  0  0  0                                      
+Eischen J, p          0  0  0  0                                      
+Gonzalez W, ph-c      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  5  6  4                        37 10 15 10
+
+Washington       020 030 000 --  5
+New York         200 310 31x -- 10
+
+  Washington           IP  H  R ER BB SO
+Ortiz R (L)           5.0 10  6  6  0  1
+Bergmann J            0.2  1  0  0  0  1
+Eischen J             1.1  2  3  3  3  3
+Rodriguez F*          0.0  1  1  1  0  0
+Rauch J               1.0  1  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Martinez P (W)        6.0  4  5  4  5  6
+Sanchez D             2.0  1  0  0  1  4
+Bradford C            1.0  1  0  0  0  2
+  * Pitched to 2 batters in 8th
+
+E -- Martinez P, Schneider B
+DP -- Washington 1, New York 1
+LOB -- Washington 10, New York 8
+2B -- Nady X, Floyd C
+3B -- Reyes J
+HR -- Johnson N, Delgado C, Beltran C
+SB -- Beltran C
+SF -- Beltran C
+HBP -- by Martinez P (Johnson N), by Martinez P (Guillen J) 2, by Sanchez D (Johnson N), by Rodriguez F (Lo Duca P)
+T -- 3:33
+A -- 25839
+     Game of 4/7/2006 -- Florida at New York (N)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Ramirez H, ss         4  1  2  0   Reyes J, ss           5  2  3  3   
+Hermida J, rf         2  0  1  0   Lo Duca P, c          3  1  0  0   
+Cabrera M, 3b         4  0  0  0   Beltran C, cf         4  1  1  1   
+Jacobs M, 1b          4  1  2  3   Delgado C, 1b         4  1  2  1   
+Willingham J, lf      4  0  0  0   Wright D, 3b          3  1  2  3   
+Uggla D, 2b           4  0  0  0   Floyd C, lf           3  0  0  0   
+Olivo M, c            3  0  0  0   Nady X, rf            4  1  2  0   
+Resop C, p            0  0  0  0   Hernandez A, 2b       4  0  1  0   
+Herges M, p           0  0  0  0   Trachsel S, p         3  1  1  1   
+Helms W, ph           1  0  0  0   Bradford C, p         0  0  0  0   
+Reed E, cf            3  1  1  0   Chavez E, ph          1  1  1  0   
+Vargas J, p           2  0  0  0   Julio J, p            0  0  0  0   
+Wellemeyer T, p       0  0  0  0   Oliver D, p           0  0  0  0   
+Treanor M, c          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        34  9 13  9
+
+Florida          000 100 020 --  3
+New York         200 212 20x --  9
+
+  Florida              IP  H  R ER BB SO
+Vargas J (L)          5.0  8  5  5  3  4
+Wellemeyer T          1.0  2  2  2  0  0
+Resop C               1.0  2  2  2  0  1
+Herges M              1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        6.0  3  1  1  1  6
+Bradford C            1.0  0  0  0  0  0
+Julio J               1.0  3  2  2  1  2
+Oliver D              1.0  0  0  0  0  0
+
+DP -- Florida 1
+LOB -- Florida 4, New York 8
+2B -- Reyes J, Trachsel S, Delgado C, Chavez E
+HR -- Jacobs M, Wright D, Reyes J
+SB -- Ramirez H, Beltran C, Reyes J
+SH -- Lo Duca P
+SF -- Wright D
+HBP -- by Vargas J (Delgado C), by Wellemeyer T (Lo Duca P)
+WP -- Wellemeyer T
+T -- 2:51
+A -- 39761
+     Game of 4/9/2006 -- Florida at New York (D)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Ramirez H, ss         4  1  1  0   Reyes J, ss           4  0  1  0   
+Hermida J, rf         3  0  0  0   Lo Duca P, c          4  1  1  0   
+Cabrera M, 3b         3  1  0  0   Beltran C, cf         3  2  1  0   
+Reed E, pr            0  0  0  0   Delgado C, 1b         4  0  2  0   
+Helms W, 3b           0  0  0  0   Wright D, 3b          3  0  1  3   
+Willingham J, lf      4  0  2  2   Nady X, rf            3  0  0  0   
+Jacobs M, 1b          4  0  1  0   Diaz V, lf            3  0  0  0   
+Uggla D, 2b           3  0  1  0   Hernandez A, 2b       3  0  2  0   
+Olivo M, c            4  0  0  0   Glavine T, p          0  0  0  0   
+Abercrombie R, cf     4  0  0  0   Woodward C, ph        1  0  0  0   
+Willis D, p           3  0  0  0   Sanchez D, p          0  0  0  0   
+Aguila C, ph          0  0  0  0   Valentin J, ph        1  0  0  0   
+Martinez C, p         0  0  0  0   Wagner B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  5  2                        29  3  8  3
+
+Florida          000 002 000 --  2
+New York         000 000 201 --  3
+  1 out when winning run was scored.
+
+  Florida              IP  H  R ER BB SO
+Willis D              8.0  7  2  2  0  4
+Martinez C (L)        0.1  1  1  1  1  0
+
+  New York             IP  H  R ER BB SO
+Glavine T             6.0  5  2  2  2  5
+Sanchez D             2.0  0  0  0  1  2
+Wagner B (W)          1.0  0  0  0  1  0
+
+E -- Reyes J 2
+DP -- Florida 1
+LOB -- Florida 9, New York 4
+2B -- Jacobs M, Ramirez H, Willingham J
+3B -- Wright D
+SB -- Ramirez H, Aguila C
+CS -- Reyes J
+SH -- Glavine T, Hermida J
+SF -- Wright D
+HBP -- by Glavine T (Uggla D)
+T -- 2:29
+A -- 55255
+     Game of 4/14/2006 -- Milwaukee at New York (N)
+
+  Milwaukee          AB  R  H RBI    New York           AB  R  H RBI
+Clark B, cf           4  0  1  0   Reyes J, ss           4  2  1  0   
+Hardy J, ss           5  0  1  1   Lo Duca P, c          4  1  1  1   
+Jenkins G, rf         4  0  0  1   Beltran C, cf         2  0  0  0   
+Lee C, lf             4  0  1  0   Delgado C, 1b         4  0  1  2   
+Hall B, 3b            3  0  0  0   Wright D, 3b          3  0  0  0   
+Weeks R, 2b           4  0  1  0   Nady X, rf            3  1  1  1   
+Fielder P, 1b         4  0  2  0   Diaz V, lf            3  0  1  0   
+Miller D, c           3  1  1  0   Heilman A, p          0  0  0  0   
+Capuano C, p          2  1  1  0   Sanchez D, p          0  0  0  0   
+Gross G, ph           1  1  1  0   Wagner B, p           0  0  0  0   
+Lehr J, p             0  0  0  0   Hernandez A, 2b       3  0  0  0   
+Koskie C, ph          1  0  0  0   Glavine T, p          2  0  1  0   
+DeLaRosa J, p         0  0  0  0   Chavez E, lf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  2                        29  4  6  4
+
+Milwaukee        000 010 200 --  3
+New York         012 010 00x --  4
+
+  Milwaukee            IP  H  R ER BB SO
+Capuano C (L)         6.0  6  4  3  2  6
+Lehr J                1.0  0  0  0  0  2
+DeLaRosa J            1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Glavine T (W)         6.0  6  1  0  1 11
+Heilman A*            0.0  2  2  2  1  0
+Sanchez D             2.0  1  0  0  2  2
+Wagner B (S)          1.0  0  0  0  0  1
+  * Pitched to 3 batters in 7th
+
+E -- Diaz V, Hall B
+DP -- Milwaukee 2
+LOB -- Milwaukee 10, New York 3
+2B -- Lo Duca P
+HR -- Nady X
+SB -- Weeks R
+SF -- Jenkins G
+WP -- Heilman A
+T -- 2:51
+A -- 37489
+     Game of 4/15/2006 -- Milwaukee at New York (D)
+
+  Milwaukee          AB  R  H RBI    New York           AB  R  H RBI
+Clark B, cf           4  0  1  0   Reyes J, ss           3  0  0  0   
+Hardy J, ss           4  1  3  2   Hernandez A, 2b       4  0  1  0   
+Jenkins G, rf         5  1  1  2   Beltran C, cf         4  1  1  0   
+Lee C, lf             4  1  1  1   Bradford C, p         0  0  0  0   
+Koskie C, 3b          5  0  1  0   Delgado C, 1b         4  1  1  0   
+Weeks R, 2b           4  2  1  0   Wright D, 3b          3  0  1  1   
+Fielder P, 1b         5  1  3  1   Floyd C, lf           3  0  0  0   
+Moeller C, c          4  2  2  1   Nady X, rf            4  0  1  0   
+Ohka T, p             3  0  1  1   Castro R, c           3  0  1  1   
+Gross G, ph           1  0  0  0   Trachsel S, p         1  0  0  0   
+Wise M, p             0  0  0  0   Valentin J, ph        1  0  0  0   
+                                   Oliver D, p           0  0  0  0   
+                                   Franco J, ph          1  0  0  0   
+                                   Julio J, p            0  0  0  0   
+                                   Chavez E, cf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  8 14  8                        31  2  6  2
+
+Milwaukee        010 210 130 --  8
+New York         010 001 000 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Ohka T (W)            7.0  5  2  1  2  5
+Wise M                2.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Trachsel S (L)        5.0  9  4  4  1  4
+Oliver D              2.0  2  1  1  0  2
+Julio J               1.0  2  3  3  0  0
+Bradford C            1.0  1  0  0  0  2
+
+E -- Weeks R, Ohka T
+DP -- Milwaukee 2
+LOB -- Milwaukee 9, New York 6
+2B -- Hardy J, Ohka T, Weeks R, Beltran C, Castro R, Koskie C
+HR -- Lee C, Jenkins G
+SB -- Reyes J
+CS -- Clark B
+SF -- Castro R, Hardy J, Wright D
+HBP -- by Trachsel S (Weeks R), by Trachsel S (Clark B), by Julio J (Moeller C)
+T -- 2:52
+A -- 55831
+     Game of 4/16/2006 -- Milwaukee at New York (D)
+
+  Milwaukee          AB  R  H RBI    New York           AB  R  H RBI
+Gross G, cf           4  1  1  0   Reyes J, ss           4  2  1  0   
+Hardy J, ss           5  0  1  1   Lo Duca P, c          3  1  2  1   
+Jenkins G, rf         5  1  3  2   Delgado C, 1b         4  1  1  3   
+Lee C, lf             4  0  0  0   Wright D, 3b          4  2  2  0   
+Koskie C, 3b          5  0  1  0   Floyd C, lf           3  0  0  0   
+Hall B, 2b            4  0  2  0   Heilman A, p          0  0  0  0   
+Fielder P, 1b         2  0  0  0   Franco J, ph          0  0  0  0   
+Miller D, c           4  0  0  0   Julio J, p            0  0  0  0   
+Sheets B, p           2  0  0  0   Nady X, rf            3  2  2  3   
+Hart C, ph            1  1  1  0   Chavez E, cf          3  1  0  0   
+Capellan J, p         0  0  0  0   Hernandez A, 2b       4  0  0  0   
+Cirillo J, ph         1  0  1  0   Bannister B, p        1  0  0  0   
+DeLaRosa J, p         0  0  0  0   Valentin J, ph        1  0  0  0   
+Fernandez J, p        0  0  0  0   Oliver D, p           0  0  0  0   
+                                   Bradford C, p         0  0  0  0   
+                                   Diaz V, lf            2  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     37  3 10  3                        32  9  9  9
+
+Milwaukee        000 102 000 --  3
+New York         020 110 05x --  9
+
+  Milwaukee            IP  H  R ER BB SO
+Sheets B (L)          5.0  6  4  4  0  6
+Capellan J            2.0  0  0  0  0  2
+DeLaRosa J            0.1  1  4  4  3  0
+Fernandez J           0.2  2  1  1  1  0
+
+  New York             IP  H  R ER BB SO
+Bannister B (W)       5.0  6  1  1  5  4
+Oliver D              0.2  2  2  2  0  1
+Bradford C            0.1  0  0  0  0  0
+Heilman A             2.0  1  0  0  2  2
+Julio J               1.0  1  0  0  0  1
+
+E -- Delgado C
+LOB -- Milwaukee 14, New York 4
+2B -- Hall B 2, Gross G, Jenkins G, Wright D, Diaz V
+HR -- Nady X, Jenkins G, Delgado C
+SB -- Reyes J, Lo Duca P, Hart C, Fielder P
+SF -- Nady X
+WP -- Bannister B, Sheets B, Julio J
+T -- 3:14
+A -- 38119
+     Game of 4/17/2006 -- Atlanta at New York (N)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Orr P, 3b             4  0  1  0   Reyes J, ss           3  0  0  0   
+Giles M, 2b           3  2  1  0   Lo Duca P, c          4  1  3  0   
+Langerhans R, lf      4  0  2  1   Delgado C, 1b         3  1  2  2   
+Jones A, cf           3  1  1  2   Wright D, 3b          4  0  0  0   
+LaRoche A, 1b         4  0  0  0   Floyd C, lf           2  1  1  0   
+Francoeur J, rf       4  0  1  0   Valentin J, lf        2  0  0  0   
+McCann B, c           3  0  0  0   Nady X, rf            4  1  3  2   
+Diaz M, ph            0  0  0  0   Chavez E, cf          3  0  0  0   
+Betemit W, ss         3  0  0  0   Hernandez A, 2b       3  0  0  0   
+Sosa J, p             2  0  0  0   Martinez P, p         3  0  0  0   
+James C, p            0  0  0  0   Sanchez D, p          0  0  0  0   
+Jordan B, ph          1  0  0  0   Wagner B, p           0  0  0  0   
+Cormier L, p          0  0  0  0                                      
+Pratt T, ph           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        31  4  9  4
+
+Atlanta          101 001 000 --  3
+New York         012 100 00x --  4
+
+  Atlanta              IP  H  R ER BB SO
+Sosa J (L)*           4.0  8  4  4  1  1
+James C               2.0  1  0  0  0  2
+Cormier L             2.0  0  0  0  1  1
+
+  New York             IP  H  R ER BB SO
+Martinez P (W)        6.2  6  3  3  2  8
+Sanchez D             1.1  0  0  0  0  2
+Wagner B (S)          1.0  0  0  0  0  2
+  * Pitched to 2 batters in 5th
+
+E -- Nady X
+DP -- Atlanta 1
+LOB -- Atlanta 6, New York 6
+2B -- Giles M, Lo Duca P, Francoeur J, Floyd C
+HR -- Nady X, Delgado C, Jones A
+SB -- Betemit W, Orr P
+SH -- Chavez E
+SF -- Jones A
+HBP -- by Wagner B (Diaz M)
+T -- 2:27
+A -- 36867
+     Game of 4/18/2006 -- Atlanta at New York (N)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Giles M, 2b           2  1  0  0   Reyes J, ss           4  0  0  0   
+Pena T, ph-ss         1  0  0  0   Lo Duca P, c          4  0  1  0   
+Betemit W, ss-3b      4  2  1  0   Delgado C, 1b         4  0  0  0   
+Langerhans R, lf      5  1  1  0   Wright D, 3b          2  0  0  0   
+Jones A, cf           5  2  3  4   Nady X, rf            3  0  1  0   
+LaRoche A, 1b         4  1  3  3   Valentin J, lf        3  0  0  0   
+Francoeur J, rf       4  0  0  0   Woodward C, 2b        3  1  1  1   
+McCann B, c           4  0  1  0   Chavez E, cf          3  0  0  0   
+Orr P, 3b-2b          4  0  1  0   Zambrano V, p         1  0  0  0   
+Davies K, p           4  0  0  0   Feliciano P, p        1  0  0  0   
+                                   Franco J, ph          1  0  0  0   
+                                   Julio J, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  7 10  7                        29  1  3  1
+
+Atlanta          203 020 000 --  7
+New York         001 000 000 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Davies K (W)          9.0  3  1  1  1  6
+
+  New York             IP  H  R ER BB SO
+Zambrano V (L)        5.0  7  7  7  2  4
+Feliciano P           3.0  3  0  0  1  2
+Julio J               1.0  0  0  0  0  2
+
+E -- Betemit W, Delgado C
+DP -- Atlanta 2, New York 1
+LOB -- Atlanta 6, New York 2
+2B -- Langerhans R, LaRoche A
+HR -- Jones A 2, LaRoche A, Woodward C
+SB -- Giles M
+T -- 2:09
+A -- 30322
+     Game of 4/19/2006 -- Atlanta at New York (D)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Orr P, 2b             4  0  0  0   Reyes J, ss           4  1  1  0   
+Betemit W, 3b         4  0  0  0   Woodward C, 2b        4  0  1  1   
+Diaz M, lf            4  0  0  0   Delgado C, 1b         3  0  0  0   
+Langerhans R, lf      0  0  0  0   Wright D, 3b          3  0  0  0   
+Jones A, cf           4  1  1  1   Nady X, rf            3  0  0  0   
+Francoeur J, rf       4  0  2  0   Valentin J, lf        3  0  0  0   
+Jordan B, 1b          3  0  1  0   Castro R, c           3  0  1  0   
+LaRoche A, ph-1b      1  0  0  0   Chavez E, cf          3  0  0  0   
+Pratt T, c            3  0  0  0   Glavine T, p          1  0  0  0   
+Pena T, ss            3  1  0  0   Heilman A, p          0  0  0  0   
+Hudson T, p           2  0  0  0   Franco J, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  4  1                        28  1  3  1
+
+Atlanta          000 000 110 --  2
+New York         000 000 001 --  1
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (W)          9.0  3  1  1  1  6
+
+  New York             IP  H  R ER BB SO
+Glavine T (L)         8.0  4  2  1  0  5
+Heilman A             1.0  0  0  0  0  0
+
+E -- Jordan B, Wright D 3
+DP -- Atlanta 2
+LOB -- Atlanta 4, New York 3
+2B -- Reyes J
+HR -- Jones A
+CS -- Francoeur J
+SH -- Glavine T, Hudson T
+HBP -- by Hudson T (Wright D)
+T -- 1:59
+A -- 40861
+     Game of 5/1/2006 -- Washington at New York (N)
+
+  Washington         AB  R  H RBI    New York           AB  R  H RBI
+Byrd M, cf            4  0  2  0   Reyes J, ss           5  0  2  0   
+Vidro J, 2b           3  0  0  0   Lo Duca P, c          5  0  1  0   
+Soriano A, lf         4  0  1  0   Beltran C, cf         3  0  0  0   
+Johnson N, 1b         3  1  0  0   Delgado C, 1b         3  1  1  1   
+Guillen J, rf         4  0  0  0   Wright D, 3b          4  0  0  0   
+Schneider B, c        4  0  1  1   Floyd C, lf           4  0  1  0   
+Clayton R, ss         2  0  0  0   Nady X, rf            3  0  2  0   
+Jackson D, 3b         3  0  1  0   Matsui K, 2b          4  0  1  0   
+Ortiz R, p            2  0  0  0   Zambrano V, p         1  0  0  0   
+Hernandez L, ph       1  0  0  0   Valentin J, ph        1  0  0  0   
+Rauch J, p            0  0  0  0   Feliciano P, p        0  0  0  0   
+Stanton M, p          0  0  0  0   Sanchez D, p          0  0  0  0   
+Majewski G, p         0  0  0  0   Wagner B, p           0  0  0  0   
+                                   Franco J, ph          0  0  0  0   
+                                   Chavez E, pr          0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        33  2  8  1
+
+Washington       000 100 000 --  1
+New York         000 001 001 --  2
+  1 out when winning run was scored.
+
+  Washington           IP  H  R ER BB SO
+Ortiz R               6.0  7  1  1  2  2
+Rauch J               0.2  0  0  0  0  0
+Stanton M             1.0  0  0  0  0  0
+Majewski G (L)        0.2  1  1  0  1  1
+
+  New York             IP  H  R ER BB SO
+Zambrano V            6.0  5  1  1  2  4
+Feliciano P           1.0  0  0  0  1  1
+Sanchez D             1.0  0  0  0  0  1
+Wagner B (W)          1.0  0  0  0  0  2
+
+E -- Majewski G
+LOB -- Washington 5, New York 11
+2B -- Nady X, Reyes J, Lo Duca P, Matsui K
+HR -- Delgado C
+SB -- Johnson N
+CS -- Jackson D
+HBP -- by Ortiz R (Zambrano V), by Stanton M (Delgado C)
+PB -- Schneider B
+T -- 2:42
+A -- 28310
+     Game of 5/2/2006 -- Washington at New York (N)
+
+  Washington         AB  R  H RBI    New York           AB  R  H RBI
+Byrd M, cf            4  3  3  0   Reyes J, ss           4  0  0  0   
+Anderson M, 2b        3  0  1  1   Lo Duca P, c          4  1  2  1   
+Jackson D, ph-2b      1  1  1  2   Beltran C, cf         3  1  1  1   
+Soriano A, lf         4  1  1  2   Delgado C, 1b         4  0  0  0   
+Johnson N, 1b         4  1  1  0   Wright D, 3b          3  0  0  0   
+Zimmerman R, 3b       4  0  0  0   Floyd C, lf           3  0  0  0   
+Ward D, rf            1  0  1  0   Nady X, rf            3  0  0  0   
+Guillen J, ph-rf      2  0  0  1   Matsui K, 2b          3  0  0  0   
+Clayton R, ss         4  0  0  0   Julio J, p            0  0  0  0   
+Schneider B, c        3  0  0  0   Maine J, p            2  0  0  0   
+O'Connor M, p         3  0  0  0   Oliver D, p           0  0  0  0   
+Stanton M, p          0  0  0  0   Woodward C, 2b        1  0  0  0   
+Church R, ph          1  0  0  0                                      
+Cordero C, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  6  8  6                        30  2  3  2
+
+Washington       102 001 200 --  6
+New York         100 000 001 --  2
+
+  Washington           IP  H  R ER BB SO
+O'Connor M (W)        7.0  2  1  1  2  6
+Stanton M             1.0  0  0  0  0  0
+Cordero C             1.0  1  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Maine J (L)           5.1  6  4  4  2  6
+Oliver D              2.0  2  2  2  0  0
+Julio J               1.2  0  0  0  0  2
+
+LOB -- Washington 3, New York 4
+2B -- Byrd M 2, Anderson M, Ward D
+HR -- Lo Duca P, Soriano A, Jackson D, Beltran C
+SB -- Wright D, Beltran C, Johnson N
+CS -- Ward D
+HBP -- by O'Connor M (Floyd C)
+T -- 2:32
+A -- 34046
+     Game of 5/3/2006 -- Pittsburgh at New York (N)
+
+  Pittsburgh         AB  R  H RBI    New York           AB  R  H RBI
+Duffy C, cf           5  0  1  0   Reyes J, ss           6  0  1  1   
+Wilson J, ss          3  1  0  0   Matsui K, 2b          6  1  1  0   
+Sanchez F, 3b         5  1  1  1   Beltran C, cf         5  0  0  0   
+Bay J, lf             4  1  0  0   Delgado C, 1b         4  1  2  2   
+Burnitz J, rf         3  0  0  0   Wright D, 3b          5  0  1  0   
+Wilson C, ph-1b       2  0  1  0   Floyd C, lf           5  1  1  0   
+Hernandez J, 1b-rf    4  0  1  1   Castro R, c           2  0  0  0   
+Paulino R, c          5  0  2  1   Chavez E, rf          5  1  4  1   
+Castillo J, 2b        5  0  0  0   Martinez P, p         2  0  0  0   
+Snell I, p            2  0  0  0   Valentin J, ph        1  0  0  0   
+Grabow J, p           0  0  0  0   Heilman A, p          0  0  0  0   
+Capps M, p            0  0  0  0   Woodward C, ph        0  0  0  0   
+McLouth N, ph         1  0  0  0   Wagner B, p           0  0  0  0   
+Marte D, p            0  0  0  0   Sanchez D, p          0  0  0  0   
+Torres S, p           0  0  0  0   Franco J, ph          1  0  0  0   
+Doumit R, ph          1  0  0  0   Bradford C, p         0  0  0  0   
+Hernandez R, p        0  0  0  0                                      
+Gonzalez M, p         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  3  6  3                        42  4 10  4
+
+Pittsburgh       100 000 002 000 --  3
+New York         100 002 000 001 --  4
+  0 outs when winning run was scored.
+
+  Pittsburgh           IP  H  R ER BB SO
+Snell I               5.2  7  3  3  4  9
+Grabow J              1.0  1  0  0  0  1
+Capps M               0.1  0  0  0  0  1
+Marte D               1.0  1  0  0  0  1
+Torres S              1.0  0  0  0  0  1
+Hernandez R           1.0  0  0  0  0  1
+Gonzalez M (L)        1.0  1  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Martinez P            6.0  3  1  1  1  9
+Heilman A             2.0  0  0  0  0  2
+Wagner B              1.0  2  2  2  2  1
+Sanchez D             1.0  0  0  0  0  1
+Bradford C (W)        2.0  1  0  0  0  1
+
+E -- Matsui K, Wilson J
+LOB -- Pittsburgh 6, New York 12
+2B -- Matsui K, Delgado C, Chavez E 2
+3B -- Reyes J
+HR -- Sanchez F, Delgado C
+SH -- Wilson J, Castro R, Woodward C
+HBP -- by Grabow J (Delgado C)
+T -- 3:36
+A -- 33668
+     Game of 5/4/2006 -- Pittsburgh at New York (N)
+
+  Pittsburgh         AB  R  H RBI    New York           AB  R  H RBI
+Duffy C, cf           4  0  1  0   Reyes J, ss           5  0  1  0   
+Wilson J, ss          4  0  0  0   Lo Duca P, c          5  2  1  0   
+Sanchez F, 3b         4  0  1  0   Beltran C, cf         4  1  2  0   
+Bay J, lf             3  0  1  0   Wright D, 3b          5  1  4  1   
+Burnitz J, rf         4  0  0  0   Nady X, rf            4  1  1  4   
+Wilson C, 1b          4  0  1  0   Floyd C, lf           3  1  0  0   
+Paulino R, c          4  0  0  0   Franco J, 1b          4  0  0  0   
+Castillo J, 2b        2  0  0  0   Woodward C, 2b        4  0  2  0   
+Maholm P, p           2  0  0  0   Glavine T, p          2  0  1  0   
+McLouth N, ph         1  0  0  0   Valentin J, ph        1  0  1  1   
+Torres S, p           0  0  0  0   Sanchez D, p          0  0  0  0   
+Capps M, p            0  0  0  0   Julio J, p            0  0  0  0   
+Vogelsong R, p        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  0  4  0                        37  6 13  6
+
+Pittsburgh       000 000 000 --  0
+New York         001 000 50x --  6
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (L)          6.0  8  1  1  2  2
+Torres S*             0.0  3  5  3  0  0
+Capps M               1.0  1  0  0  0  1
+Vogelsong R           1.0  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Glavine T (W)         7.0  3  0  0  1 10
+Sanchez D             1.0  1  0  0  0  1
+Julio J               1.0  0  0  0  1  3
+  * Pitched to 5 batters in 7th
+
+E -- Maholm P, Sanchez F 2, Wright D, Woodward C
+DP -- New York 1
+LOB -- Pittsburgh 7, New York 11
+2B -- Wright D
+HR -- Nady X
+SH -- Glavine T
+HBP -- by Torres S (Floyd C)
+WP -- Vogelsong R
+T -- 2:30
+A -- 30756
+     Game of 5/5/2006 -- Atlanta at New York (N)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Giles M, 2b           7  2  3  0   Reyes J, ss           7  2  5  0   
+Renteria E, ss        5  0  1  0   Lo Duca P, c          7  1  1  0   
+Jones C, 3b           6  1  2  1   Beltran C, cf         6  3  2  2   
+Jones A, cf           6  0  2  1   Delgado C, 1b         6  1  1  1   
+Francoeur J, rf       7  0  2  1   Wright D, 3b          5  0  3  2   
+Jordan B, 1b          4  2  2  0   Floyd C, lf           6  1  2  2   
+LaRoche A, 1b         2  0  0  0   Nady X, rf            4  0  0  0   
+McCann B, c           6  1  2  2   Matsui K, 2b          5  0  1  1   
+Diaz M, lf            3  0  1  1   Trachsel S, p         2  0  1  0   
+Langerhans R, lf      3  0  0  0   Valentin J, ph        1  0  0  0   
+Davies K, p           3  0  0  0   Bradford C, p         0  0  0  0   
+McBride M, p          0  0  0  0   Feliciano P, p        0  0  0  0   
+Ray K, p              0  0  0  0   Franco J, ph          1  0  0  0   
+Orr P, ph             1  0  0  0   Heilman A, p          0  0  0  0   
+Villarreal O, p       0  0  0  0   Woodward C, ph        1  0  0  0   
+Remlinger M, p        0  0  0  0   Wagner B, p           0  0  0  0   
+James C, p            0  0  0  0   Chavez E, ph          1  0  0  0   
+Moylan P, p           0  0  0  0   Sanchez D, p          0  0  0  0   
+Betemit W, ph         1  1  1  1   Castro R, ph          1  0  0  0   
+Reitsma C, p          0  0  0  0   Julio J, p            0  0  0  0   
+Pratt T, ph           1  0  0  0                                      
+Sosa J, p             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     55  7 16  7                        53  8 16  8
+
+Atlanta          110 002 200 010 00 --  7
+New York         101 000 400 010 01 --  8
+  2 outs when winning run was scored.
+
+  Atlanta              IP  H  R ER BB SO
+Davies K*             6.0  9  4  4  4  2
+McBride M+            0.0  1  2  1  0  0
+Ray K                 1.0  2  0  0  1  0
+Villarreal O          0.1  1  0  0  1  0
+Remlinger M           0.2  0  0  0  1  0
+James C               0.1  0  0  0  1  0
+Moylan P              1.2  0  0  0  1  3
+Reitsma C             2.0  2  1  1  2  0
+Sosa J (L)            1.2  1  1  0  2  0
+
+  New York             IP  H  R ER BB SO
+Trachsel S            6.0  9  4  4  1  4
+Bradford C            0.2  3  2  2  1  0
+Feliciano P           0.1  0  0  0  0  0
+Heilman A             2.0  1  0  0  0  1
+Wagner B              2.0  2  1  1  1  1
+Sanchez D             2.0  0  0  0  1  1
+Julio J (W)           1.0  1  0  0  0  1
+  * Pitched to 2 batters in 7th
+  + Pitched to 2 batters in 7th
+
+E -- Renteria E
+DP -- Atlanta 3, New York 1
+LOB -- Atlanta 11, New York 19
+2B -- Giles M 2, McCann B, Francoeur J, Jordan B, Lo Duca P, Beltran C, Wright D
+3B -- Reyes J
+HR -- Beltran C, Betemit W, Floyd C
+SB -- Renteria E, McCann B, Giles M, Jones C
+CS -- Francoeur J
+SH -- Renteria E, Matsui K 2
+WP -- Davies K
+PB -- McCann B 2
+T -- 4:47
+A -- 47720
+     Game of 5/6/2006 -- Atlanta at New York (D)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Giles M, 2b           5  1  1  0   Reyes J, ss           5  2  3  1   
+Renteria E, ss        3  1  1  0   Matsui K, 2b          5  1  1  2   
+Jones C, 3b           4  0  1  1   Beltran C, cf         2  1  1  1   
+Jones A, cf           3  0  0  0   Delgado C, 1b         4  0  2  1   
+Jordan B, lf          1  0  1  1   Wright D, 3b          3  0  0  0   
+LaRoche A, 1b         4  1  1  1   Floyd C, lf           2  0  0  1   
+Francoeur J, rf       4  1  1  1   Nady X, rf            4  1  1  0   
+Langerhans R, lf-cf   3  1  1  0   Bradford C, p         0  0  0  0   
+Pratt T, c            3  0  0  0   Feliciano P, p        0  0  0  0   
+McCann B, ph          1  0  1  0   Julio J, p            0  0  0  0   
+Hudson T, p           2  0  0  0   Castro R, c           4  0  0  0   
+Remlinger M, p        0  0  0  0   Zambrano V, p         0  0  0  0   
+Moylan P, p           0  0  0  0   Oliver D, p           2  0  1  0   
+Betemit W, ph         1  0  0  0   Fortunato B, p        0  0  0  0   
+Villarreal O, p       0  0  0  0   Valentin J, ph        1  1  1  0   
+Diaz M, ph            1  0  1  1   Chavez E, rf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  5                        33  6 10  6
+
+Atlanta          010 001 111 --  5
+New York         101 000 40x --  6
+
+  Atlanta              IP  H  R ER BB SO
+Hudson T (L)          6.1  9  6  6  3  2
+Remlinger M           0.1  0  0  0  0  0
+Moylan P              0.1  0  0  0  2  1
+Villarreal O          1.0  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Zambrano V            1.1  0  0  0  0  3
+Oliver D              4.0  4  2  2  1  6
+Fortunato B (W)       1.2  1  1  1  0  0
+Bradford C            0.1  1  1  1  1  1
+Feliciano P           0.2  1  0  0  0  2
+Julio J (S)           1.0  2  1  1  1  1
+
+E -- Jones C, Pratt T
+DP -- Atlanta 1, New York 1
+LOB -- Atlanta 6, New York 8
+2B -- Reyes J 2, Oliver D, Renteria E, Matsui K
+HR -- Francoeur J, Beltran C, LaRoche A
+SB -- Beltran C, Matsui K
+T -- 3:07
+A -- 48369
+     Game of 5/7/2006 -- Atlanta at New York (D)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Giles M, 2b           5  0  0  0   Reyes J, ss           4  0  0  0   
+Orr P, 2b             1  0  0  0   Lo Duca P, c          1  0  0  0   
+Renteria E, ss        5  1  2  1   Castro R, c           3  1  0  0   
+Betemit W, ss         0  0  0  0   Beltran C, cf         4  1  2  1   
+Jones C, 3b           4  2  2  1   Delgado C, 1b         2  0  0  0   
+LaRoche A, 1b         3  2  0  0   Franco J, ph-1b       1  0  0  0   
+Francoeur J, rf       6  3  3  4   Wright D, 3b          4  0  1  1   
+McCann B, c           4  1  3  3   Floyd C, lf           2  0  0  0   
+Jordan B, lf          3  2  1  2   Bradford C, p         0  0  0  0   
+Ray K, p              0  0  0  0   Nady X, rf            3  0  0  0   
+McBride M, p          0  0  0  0   Feliciano P, p        0  0  0  0   
+Langerhans R, cf      5  1  2  0   Woodward C, lf        1  0  0  0   
+Smoltz J, p           2  1  1  2   Matsui K, 2b          3  0  1  0   
+Diaz M, lf            1  0  0  0   Lima J, p             1  0  0  0   
+                                   Valentin J, ph        1  0  0  0   
+                                   Fortunato B, p        0  0  0  0   
+                                   Chavez E, rf          2  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39 13 14 13                        32  3  4  2
+
+Atlanta          021 023 500 -- 13
+New York         001 000 011 --  3
+
+  Atlanta              IP  H  R ER BB SO
+Smoltz J (W)          6.0  3  1  1  2  8
+Ray K                 1.0  0  0  0  0  0
+McBride M             2.0  1  2  1  3  1
+
+  New York             IP  H  R ER BB SO
+Lima J (L)            5.0  7  5  5  4  5
+Fortunato B           1.1  6  8  8  2  0
+Feliciano P           1.2  1  0  0  0  1
+Bradford C            1.0  0  0  0  0  1
+
+E -- Lo Duca P, Betemit W
+LOB -- Atlanta 10, New York 9
+2B -- Jones C, Smoltz J, McCann B, Wright D
+3B -- Francoeur J
+HR -- Jordan B, Beltran C, Francoeur J
+SH -- Smoltz J
+SF -- McCann B, Jordan B
+HBP -- by Smoltz J (Floyd C) 2, by Lima J (Jordan B), by Fortunato B (Renteria E)
+WP -- Lima J
+Balk -- Lima J
+T -- 3:04
+A -- 48100
+     Game of 5/19/2006 -- New York at New York (N)
+
+  New York           AB  R  H RBI    New York           AB  R  H RBI
+Damon J, cf           5  1  1  0   Reyes J, ss           3  1  1  0   
+Jeter D, ss           5  2  2  1   Lo Duca P, c          4  2  2  0   
+Giambi J, 1b          3  1  0  0   Beltran C, cf         5  1  1  3   
+Rivera M, p           0  0  0  0   Delgado C, 1b         4  0  1  0   
+Rodriguez A, 3b       4  1  1  1   Wright D, 3b          5  2  3  1   
+Posada J, c           1  0  0  0   Nady X, rf            4  1  1  2   
+Stinnett K, c         4  0  2  1   Matsui K, 2b          4  0  1  1   
+Cano R, 2b            3  1  1  2   Valentin J, lf        3  0  0  0   
+Williams B, lf        4  0  2  1   Gonzalez G, p         0  0  0  0   
+Cabrera M, rf         3  0  1  0   Oliver D, p           1  0  0  0   
+Johnson R, p          3  0  1  0   Woodward C, ph        1  0  0  0   
+Proctor S, p          0  0  0  0   Heilman A, p          0  0  0  0   
+Reese K, ph           1  0  0  0   Floyd C, ph           1  0  0  0   
+Farnsworth K, p       0  0  0  0   Wagner B, p           0  0  0  0   
+Cairo M, 1b           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  6 11  6                        35  7 10  7
+
+New York         401 100 000 --  6
+New York         302 010 001 --  7
+  2 outs when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Johnson R             5.0  8  6  6  3  5
+Proctor S             2.0  0  0  0  1  1
+Farnsworth K          1.0  0  0  0  0  0
+Rivera M (L)          0.2  2  1  1  1  1
+
+  New York             IP  H  R ER BB SO
+Gonzalez G*           3.0  9  6  6  3  3
+Oliver D              2.0  2  0  0  0  2
+Heilman A             3.0  0  0  0  0  3
+Wagner B (W)          1.0  0  0  0  0  3
+  * Pitched to 1 batter in 4th
+
+E -- Rodriguez A
+LOB -- New York 8, New York 8
+2B -- Damon J, Cano R, Williams B, Jeter D, Lo Duca P
+HR -- Beltran C, Nady X
+SB -- Jeter D, Valentin J, Reyes J
+CS -- Reyes J
+SH -- Gonzalez G
+SF -- Cano R
+HBP -- by Oliver D (Giambi J)
+T -- 3:07
+A -- 56289
+     Game of 5/20/2006 -- New York at New York (D)
+
+  New York           AB  R  H RBI    New York           AB  R  H RBI
+Damon J, cf           5  0  0  1   Reyes J, ss           5  1  0  0   
+Jeter D, ss           5  0  1  0   Matsui K, 2b          4  0  1  0   
+Giambi J, 1b          4  1  1  0   Beltran C, cf         5  1  1  1   
+Rivera M, p           0  0  0  0   Delgado C, 1b         5  1  1  1   
+Rodriguez A, 3b       4  1  2  0   Wright D, 3b          4  0  1  1   
+Cano R, 2b            5  1  1  1   Floyd C, lf           5  1  1  1   
+Cairo M, lf           4  1  0  0   Nady X, rf            5  0  0  0   
+Cabrera M, rf         4  1  1  0   Castro R, c           4  0  0  0   
+Stinnett K, c         4  0  0  1   Martinez P, p         2  0  0  0   
+Mussina M, p          2  0  0  0   Franco J, ph          1  0  1  0   
+Reese K, ph           1  0  1  0   Sanchez D, p          0  0  0  0   
+Villone R, p          0  0  0  0   Wagner B, p           0  0  0  0   
+Williams B, ph        0  0  0  1   Feliciano P, p        0  0  0  0   
+Proctor S, p          0  0  0  0   Bradford C, p         0  0  0  0   
+Phillips A, 1b        1  0  1  1   Valentin J, ph        1  0  0  0   
+                                   Julio J, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  5  8  5                        41  4  6  4
+
+New York         000 000 004 01 --  5
+New York         200 100 100 00 --  4
+
+  New York             IP  H  R ER BB SO
+Mussina M             7.0  5  4  2  0  7
+Villone R             1.0  0  0  0  2  1
+Proctor S             1.0  0  0  0  0  2
+Rivera M (W)          2.0  1  0  0  0  4
+
+  New York             IP  H  R ER BB SO
+Martinez P            7.0  4  0  0  1  8
+Sanchez D             1.0  1  0  0  0  0
+Wagner B              0.1  2  4  4  3  0
+Feliciano P           0.1  0  0  0  0  0
+Bradford C            0.1  0  0  0  0  0
+Julio J (L)           2.0  1  1  1  2  2
+
+E -- Floyd C, Rodriguez A, Stinnett K, Castro R, Giambi J, Martinez P, Villone R
+DP -- New York 3
+LOB -- New York 8, New York 6
+2B -- Beltran C, Wright D, Franco J
+HR -- Delgado C, Floyd C
+SB -- Reyes J, Damon J, Cabrera M, Cairo M 2
+HBP -- by Wagner B (Williams B)
+T -- 3:36
+A -- 56185
+     Game of 5/21/2006 -- New York at New York (N)
+
+  New York           AB  R  H RBI    New York           AB  R  H RBI
+Damon J, cf           4  0  3  0   Reyes J, ss           4  0  1  0   
+Jeter D, ss           5  0  3  2   Lo Duca P, c          3  1  1  0   
+Giambi J, 1b          3  0  1  1   Beltran C, cf         4  1  1  0   
+Rodriguez A, 3b       4  0  0  0   Delgado C, 1b         4  1  1  3   
+Erickson S, p         0  0  0  0   Wright D, 3b          4  1  1  1   
+Cano R, 2b            5  0  1  0   Floyd C, lf           3  0  1  0   
+Williams B, lf        3  1  3  0   Chavez E, lf          1  0  0  0   
+Cabrera M, rf         4  0  1  0   Nady X, rf            2  0  1  0   
+Stinnett K, c         4  1  0  0   Matsui K, 2b          3  0  0  0   
+Small A, p            1  0  0  0   Glavine T, p          2  0  0  0   
+Myers M, p            0  0  0  0   Heilman A, p          0  0  0  0   
+Reese K, ph           0  0  0  0   Valentin J, ph        0  0  0  0   
+Bean C, p             0  0  0  0   Sanchez D, p          0  0  0  0   
+Villone R, p          0  0  0  0   Wagner B, p           0  0  0  0   
+Cairo M, ph-3b        1  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  3 12  3                        30  4  7  4
+
+New York         000 200 010 --  3
+New York         000 400 00x --  4
+
+  New York             IP  H  R ER BB SO
+Small A (L)           4.1  7  4  4  1  2
+Myers M               0.2  0  0  0  0  1
+Bean C*               1.0  0  0  0  1  1
+Villone R             1.0  0  0  0  0  1
+Erickson S            1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Glavine T (W)         6.0  7  2  2  4  4
+Heilman A             1.0  1  0  0  2  0
+Sanchez D             1.0  2  1  1  1  0
+Wagner B (S)          1.0  2  0  0  0  2
+  * Pitched to 1 batter in 7th
+
+DP -- New York 1, New York 3
+LOB -- New York 15, New York 5
+2B -- Williams B 2
+3B -- Floyd C
+HR -- Delgado C, Wright D
+SB -- Damon J, Reyes J, Beltran C, Nady X
+SH -- Small A
+SF -- Giambi J
+HBP -- by Glavine T (Damon J), by Glavine T (Reese K), by Bean C (Nady X)
+WP -- Heilman A, Villone R
+T -- 3:08
+A -- 56205
+     Game of 5/23/2006 -- Philadelphia at New York (N)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Rollins J, ss         7  0  1  0   Reyes J, ss           7  1  1  2   
+Utley C, 2b           6  1  3  0   Lo Duca P, c          7  0  2  0   
+Abreu B, rf           7  1  1  0   Beltran C, cf         7  1  3  2   
+Burrell P, lf         3  1  2  1   Delgado C, 1b         6  0  0  0   
+Roberson C, pr-lf     3  0  0  0   Wright D, 3b          7  1  2  1   
+Howard R, 1b          4  2  0  1   Floyd C, lf           5  2  2  1   
+Victorino S, cf       6  2  2  1   Matsui K, 2b          7  1  1  1   
+Bell D, 3b            5  1  2  5   Chavez E, rf          7  2  2  0   
+Madson R, p           2  0  0  0   Trachsel S, p         1  0  0  0   
+Fasano S, c           7  0  1  0   Valentin J, ph        0  0  0  0   
+Ruiz C, pr-c          0  0  0  0   Feliciano P, p        0  0  0  0   
+Floyd G, p            3  0  0  0   Franco J, ph          1  0  1  1   
+Fultz A, p            0  0  0  0   Heilman A, p          0  0  0  0   
+Geary G, p            0  0  0  0   Julio J, p            0  0  0  0   
+Dellucci D, ph        1  0  0  0   Woodward C, ph        1  1  1  1   
+Rhodes A, p           0  0  0  0   Sanchez D, p          0  0  0  0   
+Franklin R, p         0  0  0  0   Nady X, ph            1  0  0  0   
+Nunez A, 3b           3  0  0  0   Wagner B, p           0  0  0  0   
+                                   Bradford C, p         0  0  0  0   
+                                   Castro R, ph          1  0  0  0   
+                                   Oliver D, p           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     57  8 12  8                        59  9 15  9
+
+Philadelphia     200 040 200 000 000 0 --  8
+New York         010 112 030 000 000 1 --  9
+  0 outs when winning run was scored.
+
+  Philadelphia         IP  H  R ER BB SO
+Floyd G*              5.0  7  5  5  3  5
+Fultz A               0.2  1  0  0  0  0
+Geary G               0.1  0  0  0  0  0
+Rhodes A              1.0  0  0  0  0  1
+Franklin R            1.0  3  3  3  0  1
+Madson R (L)          7.0  4  1  1  4  6
+
+  New York             IP  H  R ER BB SO
+Trachsel S            5.0  7  6  6  4  2
+Feliciano P           1.0  0  0  0  1  1
+Heilman A             1.0  1  2  2  2  3
+Julio J               1.0  0  0  0  0  1
+Sanchez D             2.0  2  0  0  0  3
+Wagner B              1.0  0  0  0  0  2
+Bradford C            1.0  0  0  0  0  0
+Oliver D (W)          4.0  2  0  0  1  3
+  * Pitched to 2 batters in 6th
+
+E -- Floyd G
+DP -- New York 1
+LOB -- Philadelphia 11, New York 12
+2B -- Utley C, Floyd C, Matsui K, Franco J, Bell D, Woodward C
+HR -- Wright D, Floyd C, Bell D, Reyes J, Beltran C
+SB -- Chavez E, Beltran C, Reyes J, Wright D
+CS -- Utley C
+SF -- Howard R
+HBP -- by Oliver D (Utley C)
+WP -- Trachsel S
+T -- 5:22
+A -- 28958
+     Game of 5/24/2006 -- Philadelphia at New York (N)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Rollins J, ss         4  1  1  0   Reyes J, ss           5  1  1  0   
+Utley C, 2b           4  1  1  0   Valentin J, rf        4  0  0  1   
+Abreu B, rf           4  1  0  0   Wagner B, p           0  0  0  0   
+Burrell P, lf         4  1  2  2   Beltran C, cf         4  2  2  1   
+Howard R, 1b          4  0  1  1   Delgado C, 1b         3  0  1  0   
+Victorino S, cf       4  0  1  0   Wright D, 3b          4  1  3  2   
+Bell D, 3b            3  0  0  0   Floyd C, lf           3  1  1  0   
+Fasano S, c           3  0  1  0   Castro R, c           2  0  1  0   
+Nunez A, ph           1  0  0  0   Woodward C, 2b        2  0  1  1   
+Ruiz C, c             0  0  0  0   Feliciano P, p        0  0  0  0   
+Lieber J, p           1  0  0  0   Franco J, ph          1  0  0  0   
+Cormier R, p          0  0  0  0   Heilman A, p          0  0  0  0   
+Franklin R, p         0  0  0  0   Chavez E, rf          0  0  0  0   
+Dellucci D, ph        1  0  0  0   Soler A, p            2  0  0  0   
+Fultz A, p            0  0  0  0   Matsui K, ph-2b       2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  3                        32  5 10  5
+
+Philadelphia     300 000 100 --  4
+New York         102 100 10x --  5
+
+  Philadelphia         IP  H  R ER BB SO
+Lieber J              6.0  7  4  4  4  3
+Cormier R (L)         0.2  3  1  1  0  0
+Franklin R            0.1  0  0  0  0  1
+Fultz A               1.0  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Soler A               6.0  5  3  2  4  5
+Feliciano P (W)       1.0  1  1  1  0  2
+Heilman A             1.0  1  0  0  0  0
+Wagner B (S)          1.0  0  0  0  0  0
+
+E -- Woodward C
+LOB -- Philadelphia 8, New York 9
+3B -- Reyes J
+HR -- Beltran C, Wright D, Burrell P
+SH -- Lieber J, Bell D
+SF -- Valentin J
+HBP -- by Franklin R (Castro R)
+T -- 2:50
+A -- 32094
+     Game of 5/25/2006 -- Philadelphia at New York (D)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Victorino S, cf       4  1  1  0   Reyes J, ss           5  1  3  3   
+Utley C, 2b           5  2  4  1   Lo Duca P, c          5  0  1  0   
+Abreu B, rf           3  1  1  2   Beltran C, cf         5  0  0  0   
+Burrell P, lf         3  0  0  0   Delgado C, 1b         2  0  0  0   
+Roberson C, lf        0  0  0  0   Wright D, 3b          4  0  0  0   
+Howard R, 1b          4  1  2  2   Floyd C, lf           3  1  2  0   
+Rollins J, ss         4  0  0  0   Nady X, rf            3  1  2  0   
+Bell D, 3b            2  0  0  0   Matsui K, 2b          4  0  0  0   
+Ruiz C, c             3  0  1  0   Gonzalez G, p         1  0  0  0   
+Myers B, p            2  0  0  0   Valentin J, ph        1  0  0  0   
+Dellucci D, ph        1  0  0  0   Feliciano P, p        0  0  0  0   
+Rhodes A, p           0  0  0  0   Bell H, p             0  0  0  0   
+Gordon T, p           0  0  0  0   Chavez E, ph          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  5  9  5                        33  3  8  3
+
+Philadelphia     300 000 200 --  5
+New York         030 000 000 --  3
+
+  Philadelphia         IP  H  R ER BB SO
+Myers B (W)           7.0  8  3  3  2  6
+Rhodes A              0.2  0  0  0  1  1
+Gordon T (S)          1.1  0  0  0  2  1
+
+  New York             IP  H  R ER BB SO
+Gonzalez G            6.0  7  3  3  3  1
+Feliciano P (L)       0.1  1  2  2  1  1
+Bell H                2.2  1  0  0  3  2
+
+DP -- New York 2
+LOB -- Philadelphia 8, New York 9
+2B -- Reyes J, Floyd C, Utley C
+HR -- Abreu B, Howard R, Reyes J
+SB -- Utley C
+CS -- Abreu B
+SH -- Gonzalez G, Myers B, Ruiz C
+WP -- Myers B, Gordon T
+T -- 2:58
+A -- 51365
+     Game of 5/29/2006 -- Arizona at New York (N)
+
+  Arizona            AB  R  H RBI    New York           AB  R  H RBI
+Counsell C, ss        5  1  2  0   Reyes J, ss           5  1  1  2   
+Byrnes E, cf          5  2  2  2   Lo Duca P, c          5  0  4  1   
+Tracy C, 3b           4  1  2  3   Beltran C, cf         4  0  1  0   
+Gonzalez L, lf        3  0  0  0   Delgado C, 1b         5  0  0  0   
+Jackson C, 1b         4  1  1  0   Wright D, 3b          4  1  1  1   
+Clark T, 1b           0  0  0  0   Floyd C, lf           3  2  2  1   
+Green S, rf           4  1  1  0   Nady X, rf            2  1  0  0   
+Estrada J, c          3  0  0  1   Sanchez D, p          0  0  0  0   
+Hudson O, 2b          3  0  0  1   Valentin J, 2b        4  2  2  3   
+Vargas C, p           2  0  1  0   Trachsel S, p         1  0  0  0   
+DaVanon J, ph         0  1  0  0   Matsui K, ph          1  0  0  0   
+Medders B, p          0  0  0  0   Heilman A, p          0  0  0  0   
+Vizcaino L, p         0  0  0  0   Chavez E, rf          1  1  1  0   
+Easley D, ph          1  0  0  0                                      
+Valverde J, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  7  9  7                        35  8 12  8
+
+Arizona          100 210 300 --  7
+New York         040 002 002 --  8
+  1 out when winning run was scored.
+
+  Arizona              IP  H  R ER BB SO
+Vargas C              6.0  7  6  6  3  0
+Medders B             1.0  1  0  0  0  0
+Vizcaino L            1.0  0  0  0  0  2
+Valverde J (L)        0.1  4  2  2  1  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S            6.0  7  4  4  1  4
+Heilman A             2.0  2  3  3  1  1
+Sanchez D (W)         1.0  0  0  0  0  0
+
+DP -- Arizona 1
+LOB -- Arizona 4, New York 8
+2B -- Lo Duca P 2, Floyd C, Counsell C, Green S, Vargas C, Beltran C, Chavez E
+HR -- Byrnes E 2, Floyd C, Valentin J, Tracy C
+SB -- Floyd C, DaVanon J
+CS -- Nady X
+SH -- Trachsel S
+SF -- Estrada J, Hudson O
+HBP -- by Vizcaino L (Nady X)
+T -- 3:00
+A -- 39826
+     Game of 5/30/2006 -- Arizona at New York (N)
+
+  Arizona            AB  R  H RBI    New York           AB  R  H RBI
+Counsell C, ss        5  1  1  0   Reyes J, ss           5  0  1  0   
+Byrnes E, cf          4  2  1  1   Lo Duca P, c          4  0  0  0   
+Tracy C, 3b           5  1  2  0   Beltran C, cf         3  0  1  0   
+Gonzalez L, lf        3  1  0  1   Delgado C, 1b         4  0  1  0   
+Jackson C, 1b         4  1  1  3   Wright D, 3b          4  0  0  0   
+Green S, rf           3  0  1  0   Floyd C, lf           4  1  2  0   
+Estrada J, c          4  1  2  0   Valentin J, 2b        4  1  2  1   
+Hudson O, 2b          3  0  1  1   Milledge L, rf        4  0  1  0   
+Batista M, p          4  0  0  0   Soler A, p            1  0  0  0   
+                                   Oliver D, p           1  0  0  0   
+                                   Chavez E, ph          1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7  9  6                        35  2  9  1
+
+Arizona          200 140 000 --  7
+New York         010 000 001 --  2
+
+  Arizona              IP  H  R ER BB SO
+Batista M (W)         9.0  9  2  1  1  3
+
+  New York             IP  H  R ER BB SO
+Soler A (L)           5.0  8  7  7  3  1
+Oliver D              4.0  1  0  0  2  3
+
+E -- Valentin J, Tracy C, Lo Duca P
+DP -- Arizona 1
+LOB -- Arizona 7, New York 8
+2B -- Beltran C, Floyd C, Delgado C, Milledge L
+3B -- Hudson O
+HR -- Byrnes E, Jackson C, Valentin J
+SB -- Counsell C, Reyes J
+SH -- Soler A
+SF -- Gonzalez L
+WP -- Soler A 2
+T -- 2:33
+A -- 35448
+     Game of 5/31/2006 -- Arizona at New York (N)
+
+  Arizona            AB  R  H RBI    New York           AB  R  H RBI
+Counsell C, ss        6  0  2  0   Reyes J, ss           4  0  0  0   
+Byrnes E, cf          6  0  1  0   Lo Duca P, c          5  0  1  0   
+Tracy C, 3b           5  0  1  0   Beltran C, cf         4  0  0  0   
+Gonzalez L, lf        5  0  0  0   Woodward C, rf        0  0  0  0   
+Clark T, 1b           5  0  1  0   Delgado C, 1b         5  0  0  0   
+Green S, rf           5  0  1  0   Wright D, 3b          5  0  1  0   
+Estrada J, c          5  0  1  0   Floyd C, lf           5  0  1  0   
+Hudson O, 2b          5  0  1  0   Valentin J, 2b        5  1  2  0   
+Webb B, p             2  0  0  0   Milledge L, rf        4  0  0  0   
+DaVanon J, ph         1  0  0  0   Sanchez D, p          0  0  0  0   
+Vizcaino L, p         0  0  0  0   Castro R, ph          1  0  0  0   
+Lyon B, p             0  0  0  0   Martinez P, p         1  0  0  0   
+Jackson C, ph         0  0  0  0   Franco J, ph          1  0  1  0   
+Medders B, p          0  0  0  0   Matsui K, pr          0  0  0  0   
+Julio J, p            0  0  0  0   Wagner B, p           0  0  0  0   
+Green A, ph           1  0  0  0   Chavez E, rf-cf       2  0  2  1   
+Grimsley J, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     46  0  8  0                        42  1  8  1
+
+Arizona          000 000 000 000 0 --  0
+New York         000 000 000 000 1 --  1
+  1 out when winning run was scored.
+
+  Arizona              IP  H  R ER BB SO
+Webb B                7.0  4  0  0  1  5
+Vizcaino L            1.0  1  0  0  0  0
+Lyon B                1.0  0  0  0  0  3
+Medders B             2.0  1  0  0  0  2
+Julio J               1.0  0  0  0  0  1
+Grimsley J (L)        0.1  2  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Martinez P            8.0  5  0  0  0  8
+Wagner B              2.0  1  0  0  1  2
+Sanchez D (W)         3.0  2  0  0  0  2
+
+E -- Milledge L
+DP -- New York 1
+LOB -- Arizona 8, New York 7
+2B -- Counsell C, Valentin J
+SB -- Byrnes E, Floyd C, Green S
+CS -- Beltran C
+SH -- Martinez P, Reyes J
+T -- 3:19
+A -- 37735
+     Game of 6/3/2006, game 1 -- San Francisco at New York (D)
+
+  San Francisco      AB  R  H RBI    New York           AB  R  H RBI
+Winn R, rf            4  3  1  0   Reyes J, ss           4  2  1  0   
+Vizquel O, ss         5  0  0  0   Chavez E, cf          4  0  0  1   
+Finley S, cf          4  0  2  2   Delgado C, 1b         4  0  0  0   
+Bonds B, lf           3  1  2  1   Wright D, 3b          4  1  3  1   
+Ellison J, pr-lf      0  0  0  0   Floyd C, lf           4  1  1  1   
+Durham R, 2b          4  0  0  0   Valentin J, 2b        2  0  1  0   
+Niekro L, 1b          4  0  0  0   Castro R, c           4  0  0  0   
+Feliz P, 3b           4  1  2  1   Milledge L, rf        3  0  0  0   
+Alfonzo E, c          4  1  1  2   Beltran C, ph         0  0  0  0   
+Cain M, p             2  0  1  0   Hernandez O, p        2  0  0  0   
+Vizcaino J, ph        1  0  1  0   Feliciano P, p        0  0  0  0   
+Correia K, p          0  0  0  0   Matsui K, ph          1  0  0  0   
+Kline S, p            0  0  0  0   Bradford C, p         0  0  0  0   
+Accardo J, p          0  0  0  0   Oliver D, p           0  0  0  0   
+Sweeney M, ph         1  0  0  0   Franco J, ph          1  0  0  0   
+Benitez A, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  6 10  6                        33  4  6  3
+
+San Francisco    101 003 001 --  6
+New York         001 210 000 --  4
+
+  San Francisco        IP  H  R ER BB SO
+Cain M (W)            5.0  6  4  3  1  6
+Correia K             1.0  0  0  0  0  3
+Kline S               1.1  0  0  0  0  1
+Accardo J             0.2  0  0  0  0  0
+Benitez A (S)         1.0  0  0  0  2  1
+
+  New York             IP  H  R ER BB SO
+Hernandez O (L)       6.0  8  5  5  3  5
+Feliciano P           1.0  0  0  0  0  1
+Bradford C            1.0  1  0  0  0  0
+Oliver D              1.0  1  1  1  1  0
+
+E -- Durham R
+DP -- San Francisco 1, New York 1
+LOB -- San Francisco 8, New York 6
+2B -- Winn R, Finley S, Wright D 2, Floyd C, Vizcaino J
+3B -- Reyes J, Feliz P
+HR -- Alfonzo E
+SB -- Winn R
+HBP -- by Cain M (Reyes J), by Oliver D (Winn R)
+WP -- Cain M
+Balk -- Hernandez O
+T -- 3:12
+A -- 0
+     Game of 6/3/2006, game 2 -- San Francisco at New York (N)
+
+  San Francisco      AB  R  H RBI    New York           AB  R  H RBI
+Winn R, rf            5  1  1  1   Reyes J, ss           4  1  1  1   
+Ellison J, lf         5  0  1  0   Lo Duca P, c          5  0  2  1   
+Finley S, cf          5  0  1  0   Milledge L, pr        0  1  0  0   
+Greene T, c           4  0  1  0   Delgado C, 1b         5  0  1  0   
+Frandsen K, pr        0  0  0  0   Wright D, 3b          4  0  1  0   
+Alfonzo E, c          0  0  0  0   Floyd C, lf           5  0  1  0   
+Durham R, 2b          4  0  0  0   Woodward C, rf        4  0  0  1   
+Feliz P, 3b           5  0  2  0   Matsui K, 2b          4  0  0  0   
+Niekro L, 1b          4  0  0  0   Chavez E, cf          3  1  1  0   
+Vizcaino J, ss        3  1  2  1   Glavine T, p          1  0  0  0   
+Wright J, p           3  0  0  0   Valentin J, ph        1  0  0  0   
+Kline S, p            0  0  0  0   Heilman A, p          0  0  0  0   
+Bonds B, ph           1  0  0  0   Wagner B, p           0  0  0  0   
+Accardo J, p          0  0  0  0   Beltran C, ph         1  0  0  0   
+Wilson B, p           0  0  0  0   Sanchez D, p          0  0  0  0   
+Sanchez J, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  2  8  2                        37  3  7  3
+
+San Francisco    001 001 000 00 --  2
+New York         002 000 000 01 --  3
+  2 outs when winning run was scored.
+
+  San Francisco        IP  H  R ER BB SO
+Wright J              8.0  5  2  2  2  3
+Kline S               1.0  0  0  0  0  0
+Accardo J             1.0  0  0  0  0  1
+Wilson B (L)*         0.0  2  1  1  1  0
+Sanchez J             0.2  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Glavine T             7.0  7  2  2  1  3
+Heilman A             2.0  1  0  0  0  0
+Wagner B              1.0  0  0  0  0  1
+Sanchez D (W)         1.0  0  0  0  1  0
+  * Pitched to 3 batters in 11th
+
+DP -- New York 1
+LOB -- San Francisco 7, New York 7
+2B -- Delgado C
+HR -- Vizcaino J, Winn R
+SB -- Reyes J 2
+CS -- Ellison J
+SH -- Glavine T
+SF -- Woodward C
+HBP -- by Sanchez D (Greene T)
+T -- 2:53
+A -- 45576
+     Game of 6/4/2006 -- San Francisco at New York (D)
+
+  San Francisco      AB  R  H RBI    New York           AB  R  H RBI
+Winn R, rf            6  2  2  0   Reyes J, ss           6  0  1  0   
+Vizquel O, ss         5  1  2  0   Lo Duca P, c          6  0  1  0   
+Niekro L, 1b          5  1  2  1   Beltran C, cf         6  0  1  0   
+Bonds B, lf           3  0  0  1   Delgado C, 1b         6  1  1  0   
+Ellison J, pr-lf      2  2  1  0   Wright D, 3b          5  3  2  2   
+Finley S, cf          5  1  3  1   Valentin J, 2b        6  1  3  1   
+Feliz P, 3b           5  0  1  1   Chavez E, lf          4  0  1  0   
+Frandsen K, 2b        3  0  1  0   Milledge L, rf        4  1  3  3   
+Durham R, ph-2b       2  0  2  2   Trachsel S, p         3  0  0  0   
+Alfonzo E, c          5  0  1  1   Sanchez D, p          0  0  0  0   
+Morris M, p           2  0  0  0   Bradford C, p         0  0  0  0   
+Vizcaino J, ph        1  0  0  0   Franco J, ph          1  0  0  0   
+Correia K, p          0  0  0  0   Wagner B, p           0  0  0  0   
+Kline S, p            0  0  0  0   Heilman A, p          0  0  0  0   
+Wilson B, p           0  0  0  0   Floyd C, ph           1  0  0  0   
+Greene T, ph          1  0  0  0   Feliciano P, p        0  0  0  0   
+Hennessey B, p        0  0  0  0   Bell H, p             0  0  0  0   
+Benitez A, p          0  0  0  0                                      
+Sweeney M, ph         1  0  0  0                                      
+Sanchez J, p          0  0  0  0                                      
+Wright J, ph          1  0  0  0                                      
+Accardo J, p          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     47  7 15  7                        48  6 13  6
+
+San Francisco    000 001 030 201 --  7
+New York         010 002 010 200 --  6
+
+  San Francisco        IP  H  R ER BB SO
+Morris M              6.0  7  3  3  2  4
+Correia K*            1.0  2  1  1  0  0
+Kline S               0.2  1  0  0  0  0
+Wilson B              0.1  0  0  0  0  1
+Hennessey B           1.0  1  0  0  0  1
+Benitez A             1.0  2  2  2  0  2
+Sanchez J (W)         1.0  0  0  0  0  0
+Accardo J (S)         1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Trachsel S            7.0  6  1  1  1  3
+Sanchez D             0.1  2  3  2  3  0
+Bradford C            0.2  0  0  0  0  0
+Wagner B              1.0  0  0  0  0  0
+Heilman A             1.0  4  2  2  0  1
+Feliciano P (L)       1.1  1  1  0  0  1
+Bell H                0.2  2  0  0  1  1
+  * Pitched to 1 batter in 8th
+
+E -- Reyes J, Feliciano P
+DP -- New York 2
+LOB -- San Francisco 11, New York 9
+2B -- Delgado C, Milledge L, Finley S, Valentin J, Durham R
+3B -- Chavez E
+HR -- Wright D 2, Valentin J, Milledge L
+SB -- Reyes J, Lo Duca P
+SH -- Chavez E, Finley S
+HBP -- by Trachsel S (Bonds B)
+WP -- Morris M
+T -- 4:08
+A -- 48791
+     Game of 6/16/2006 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         5  1  1  1   Reyes J, ss           4  0  2  2   
+Fahey B, lf           5  2  2  2   Lo Duca P, c          4  0  0  0   
+Mora M, 3b            4  1  2  3   Beltran C, cf         4  0  0  0   
+Tejada M, ss          4  0  0  0   Delgado C, 1b         3  1  0  0   
+Hernandez R, c        2  0  0  0   Wright D, 3b          3  0  1  0   
+Lopez J, c            2  0  0  0   Valentin J, 2b        3  1  1  0   
+Patterson C, cf       4  0  1  0   Woodward C, lf        3  1  0  1   
+Millar K, 1b          3  1  1  0   Milledge L, rf        3  0  0  0   
+Conine J, 1b          0  0  0  0   Soler A, p            1  0  0  0   
+Markakis N, rf        2  1  1  0   Heilman A, p          0  0  0  0   
+Bedard E, p           2  0  0  0   Chavez E, ph          1  0  0  0   
+Clark H, ph           0  0  0  0   Bell H, p             0  0  0  0   
+Britton C, p          0  0  0  0                                      
+Matos L, ph           1  0  0  0                                      
+Hawkins L, p          0  0  0  0                                      
+Ray C, p              0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  6  8  6                        29  3  4  3
+
+Baltimore        002 000 400 --  6
+New York         010 020 000 --  3
+
+  Baltimore            IP  H  R ER BB SO
+Bedard E (W)          6.0  3  3  3  3  6
+Britton C             1.0  0  0  0  0  0
+Hawkins L             1.0  1  0  0  0  1
+Ray C (S)             1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Soler A               6.0  4  2  1  2  4
+Heilman A (L)         1.0  2  4  4  2  0
+Bell H                2.0  2  0  0  0  1
+
+E -- Delgado C
+DP -- New York 1
+LOB -- Baltimore 6, New York 4
+2B -- Roberts B, Reyes J 2
+3B -- Fahey B
+HR -- Mora M
+SB -- Patterson C, Mora M, Reyes J, Fahey B
+SH -- Valentin J, Soler A, Clark H
+WP -- Heilman A
+T -- 2:47
+A -- 45967
+     Game of 6/17/2006 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         5  2  3  1   Reyes J, ss           4  1  1  0   
+Fahey B, lf           5  0  2  1   Lo Duca P, c          2  1  0  0   
+Ray C, p              0  0  0  0   Beltran C, cf         4  0  0  0   
+Mora M, 3b            3  0  0  0   Delgado C, 1b         4  0  2  1   
+Tejada M, ss          4  0  0  1   Wright D, 3b          4  0  0  0   
+Hernandez R, c        4  0  0  0   Valentin J, 2b        4  0  0  0   
+Patterson C, cf       4  0  0  0   Chavez E, rf          4  0  1  0   
+Millar K, 1b          4  0  0  0   Milledge L, lf        4  0  3  0   
+Conine J, 1b          0  0  0  0   Martinez P, p         0  0  0  0   
+Markakis N, rf        3  1  2  0   Woodward C, ph        1  0  0  0   
+Benson K, p           3  1  1  1   Feliciano P, p        0  0  0  0   
+Matos L, ph-lf        0  0  0  0   Bradford C, p         0  0  0  0   
+                                   Franco J, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  4                        32  2  7  1
+
+Baltimore        101 020 000 --  4
+New York         200 000 000 --  2
+
+  Baltimore            IP  H  R ER BB SO
+Benson K (W)          8.0  6  2  1  1  3
+Ray C (S)             1.0  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Martinez P (L)        7.0  8  4  3  1  5
+Feliciano P           1.2  0  0  0  0  1
+Bradford C            0.1  0  0  0  0  0
+
+E -- Benson K, Valentin J, Martinez P, Feliciano P
+LOB -- Baltimore 8, New York 7
+2B -- Reyes J, Delgado C, Roberts B
+HR -- Benson K
+SB -- Roberts B, Fahey B
+SH -- Lo Duca P, Martinez P 2, Matos L
+HBP -- by Martinez P (Mora M), by Feliciano P (Markakis N)
+PB -- Lo Duca P
+T -- 2:32
+A -- 52320
+     Game of 6/18/2006 -- Baltimore at New York (D)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Roberts B, 2b         4  0  1  1   Reyes J, ss           5  2  2  0   
+Conine J, 1b          4  1  1  0   Marrero E, rf         2  1  1  0   
+Mora M, 3b            4  1  2  0   Beltran C, cf         2  2  0  0   
+Fahey B, lf           0  0  0  0   Wright D, 3b          4  2  3  5   
+Tejada M, ss          4  1  1  0   Franco J, 1b          4  1  1  1   
+Lopez J, c            4  0  2  1   Woodward C, 2b        3  0  0  0   
+Patterson C, cf       4  0  1  2   Castro R, c           4  1  2  2   
+Matos L, lf           2  0  0  0   Milledge L, lf        4  0  0  0   
+Rogers E, lf-3b       2  0  0  0   Glavine T, p          3  0  0  0   
+Markakis N, rf        4  1  1  0   Feliciano P, p        0  0  0  0   
+Loewen A, p           2  0  0  0   Bradford C, p         0  0  0  0   
+Britton C, p          0  0  0  0   Sanchez D, p          0  0  0  0   
+Clark H, ph           1  0  1  0   Chavez E, ph          1  0  0  0   
+Birkins K, p          0  0  0  0   Heilman A, p          0  0  0  0   
+Williams T, p         0  0  0  0                                      
+Rleal S, p            0  0  0  0                                      
+Millar K, ph          1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4 10  4                        32  9  9  8
+
+Baltimore        010 002 100 --  4
+New York         000 041 40x --  9
+
+  Baltimore            IP  H  R ER BB SO
+Loewen A (L)          4.2  4  4  4  3  4
+Britton C             1.1  1  1  1  0  3
+Birkins K             0.1  1  2  1  0  0
+Williams T            0.2  3  2  1  0  1
+Rleal S               1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Glavine T (W)*        6.0  9  4  4  0  6
+Feliciano P           0.1  1  0  0  0  0
+Bradford C            0.2  0  0  0  0  1
+Sanchez D             1.0  0  0  0  0  1
+Heilman A             1.0  0  0  0  0  2
+  * Pitched to 1 batter in 7th
+
+E -- Mora M, Tejada M, Rogers E
+LOB -- Baltimore 5, New York 5
+2B -- Tejada M, Roberts B, Markakis N
+HR -- Wright D, Castro R
+SB -- Marrero E 2, Reyes J, Franco J
+CS -- Patterson C, Woodward C
+SH -- Marrero E
+HBP -- by Loewen A (Marrero E), by Loewen A (Beltran C)
+T -- 2:58
+A -- 43393
+     Game of 6/19/2006 -- Cincinnati at New York (N)
+
+  Cincinnati         AB  R  H RBI    New York           AB  R  H RBI
+Freel R, 3b-lf        5  0  3  0   Reyes J, ss           4  1  2  0   
+Lopez F, ss           4  0  1  0   Lo Duca P, c          3  0  0  0   
+Griffey K, cf         5  1  1  1   Beltran C, cf         4  1  1  2   
+Dunn A, lf            4  1  1  0   Delgado C, 1b         4  0  0  0   
+Castro J, 3b          1  0  0  0   Wright D, 3b          4  0  1  0   
+Kearns A, rf          4  2  2  0   Valentin J, 2b        4  0  2  0   
+Hatteberg S, 1b       3  0  0  0   Nady X, rf            4  0  0  0   
+Phillips B, 2b        3  0  2  2   Chavez E, lf          2  0  1  0   
+Ross D, c             4  0  1  1   Hernandez O, p        1  0  0  0   
+Arroyo B, p           4  0  1  0   Feliciano P, p        0  0  0  0   
+                                   Bradford C, p         0  0  0  0   
+                                   Marrero E, ph         1  0  0  0   
+                                   Wagner B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4 12  4                        31  2  7  2
+
+Cincinnati       010 001 020 --  4
+New York         100 000 001 --  2
+
+  Cincinnati           IP  H  R ER BB SO
+Arroyo B (W)          9.0  7  2  2  1  5
+
+  New York             IP  H  R ER BB SO
+Hernandez O (L)       7.0  8  2  2  2  7
+Feliciano P           0.1  2  2  2  0  0
+Bradford C            0.2  1  0  0  0  1
+Wagner B              1.0  1  0  0  0  1
+
+DP -- Cincinnati 1, New York 2
+LOB -- Cincinnati 9, New York 5
+2B -- Reyes J, Valentin J, Lopez F, Phillips B
+HR -- Griffey K, Beltran C
+SB -- Freel R 2, Kearns A
+SH -- Lo Duca P, Hernandez O
+HBP -- by Feliciano P (Hatteberg S)
+T -- 2:38
+A -- 41874
+     Game of 6/20/2006 -- Cincinnati at New York (N)
+
+  Cincinnati         AB  R  H RBI    New York           AB  R  H RBI
+Freel R, 3b           4  0  3  0   Reyes J, ss           4  1  2  0   
+Lopez F, ss           4  0  0  0   Lo Duca P, c          4  1  2  3   
+Griffey K, cf         4  0  0  0   Beltran C, cf         2  0  0  0   
+Dunn A, lf            4  0  0  0   Delgado C, 1b         4  1  1  2   
+Kearns A, rf          4  1  2  0   Wright D, 3b          4  0  0  0   
+Hatteberg S, 1b       3  0  1  0   Valentin J, 2b        3  1  2  0   
+Phillips B, 2b        3  1  2  0   Nady X, rf            4  2  2  3   
+Valentin J, c         3  0  0  1   Milledge L, lf        4  1  1  0   
+Ramirez E, p          2  0  0  1   Trachsel S, p         2  1  1  1   
+Aurilia R, ph         1  0  0  0   Sanchez D, p          0  1  0  0   
+Weathers D, p         0  0  0  0   Heilman A, p          0  0  0  0   
+Mercker K, p          0  0  0  0   Chavez E, ph          1  0  0  0   
+Coffey T, p           0  0  0  0   Oliver D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  8  2                        32  9 11  9
+
+Cincinnati       000 010 100 --  2
+New York         300 010 41x --  9
+
+  Cincinnati           IP  H  R ER BB SO
+Ramirez E (L)         6.0  6  4  4  1  2
+Weathers D            0.1  3  4  4  2  0
+Mercker K             0.2  0  0  0  0  0
+Coffey T              1.0  2  1  1  0  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)*       6.0  6  2  2  2  1
+Sanchez D             1.0  0  0  0  0  0
+Heilman A             1.0  1  0  0  0  0
+Oliver D              1.0  1  0  0  0  0
+  * Pitched to 3 batters in 7th
+
+DP -- Cincinnati 2, New York 1
+LOB -- Cincinnati 6, New York 3
+2B -- Reyes J, Lo Duca P 2, Kearns A, Phillips B, Hatteberg S
+3B -- Valentin J
+HR -- Delgado C, Trachsel S, Nady X 2
+SF -- Valentin J
+HBP -- by Weathers D (Sanchez D)
+T -- 2:34
+A -- 38991
+     Game of 6/21/2006 -- Cincinnati at New York (N)
+
+  Cincinnati         AB  R  H RBI    New York           AB  R  H RBI
+Freel R, 3b-lf        5  2  3  0   Reyes J, ss           5  2  4  1   
+Lopez F, ss           4  1  1  0   Lo Duca P, c          5  0  0  0   
+Griffey K, cf         4  0  1  3   Wagner B, p           0  0  0  0   
+Kearns A, rf          4  2  1  0   Beltran C, cf         4  1  2  0   
+Dunn A, lf            3  0  0  0   Delgado C, 1b         4  0  0  0   
+Hammond C, p          0  0  0  0   Wright D, 3b          5  1  3  1   
+Standridge J, p       0  0  0  0   Valentin J, 2b        3  1  3  2   
+Ross D, ph            0  0  0  0   Nady X, rf            4  0  0  0   
+McCracken Q, pr       0  1  0  0   Chavez E, lf          4  0  0  0   
+Coffey T, p           0  0  0  0   Soler A, p            2  0  0  0   
+Hatteberg S, 1b       4  0  2  1   Bell H, p             0  0  0  0   
+Aurilia R, ph-1b      1  0  1  0   Marrero E, ph         1  0  0  0   
+Phillips B, 2b        4  0  1  2   Oliver D, p           0  0  0  0   
+LaRue J, c            3  0  0  0   Heilman A, p          0  0  0  0   
+Valentin J, ph-c      2  0  0  0   Franco J, ph          0  0  0  0   
+Mays J, p             3  0  1  0   Castro R, c           0  0  0  0   
+Castro J, 3b          1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  6 12  6                        37  5 12  4
+
+Cincinnati       102 010 002 --  6
+New York         100 010 300 --  5
+
+  Cincinnati           IP  H  R ER BB SO
+Mays J                6.0  8  2  2  2  5
+Hammond C             1.0  3  3  3  0  0
+Standridge J (W)      1.0  1  0  0  1  0
+Coffey T (S)          1.0  0  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Soler A               5.0  8  4  3  2  4
+Bell H                1.0  0  0  0  0  2
+Oliver D              1.0  1  0  0  0  0
+Heilman A             1.0  1  0  0  0  2
+Wagner B (L)          1.0  2  2  2  2  2
+
+E -- Wright D, Phillips B
+DP -- Cincinnati 2
+LOB -- Cincinnati 11, New York 9
+2B -- Griffey K, Reyes J, Hatteberg S, Wright D, Beltran C
+3B -- Reyes J
+HR -- Reyes J, Valentin J
+SB -- Valentin J
+SH -- Lopez F
+SF -- Griffey K
+WP -- Soler A, Mays J, Heilman A
+PB -- Lo Duca P
+T -- 2:59
+A -- 49758
+     Game of 6/22/2006 -- Cincinnati at New York (D)
+
+  Cincinnati         AB  R  H RBI    New York           AB  R  H RBI
+Freel R, cf           5  0  0  0   Reyes J, ss           4  1  2  0   
+Lopez F, ss           3  0  0  0   Woodward C, 2b        4  0  1  0   
+Hatteberg S, 1b       2  1  0  0   Beltran C, cf         3  2  1  1   
+Kearns A, rf          3  1  1  0   Wright D, 3b          3  2  2  4   
+Dunn A, lf            3  0  2  0   Franco J, 1b          4  1  2  0   
+Phillips B, 2b        2  0  1  1   Nady X, rf            4  0  2  1   
+Ross D, c             3  0  0  1   Castro R, c           4  0  0  0   
+Castro J, 3b          4  0  1  0   Milledge L, lf        4  0  2  0   
+Milton E, p           2  0  0  0   Martinez P, p         2  0  0  0   
+Standridge J, p       0  0  0  0   Marrero E, ph         1  0  0  0   
+Yan E, p              0  0  0  0   Bell H, p             0  0  0  0   
+McCracken Q, ph       1  0  1  0   Feliciano P, p        0  0  0  0   
+Burns M, p            0  0  0  0   Bradford C, p         0  0  0  0   
+Valentin J, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  2  6  2                        33  6 12  6
+
+Cincinnati       010 100 000 --  2
+New York         000 330 00x --  6
+
+  Cincinnati           IP  H  R ER BB SO
+Milton E (L)          4.1  9  6  6  2  3
+Standridge J          0.2  0  0  0  0  1
+Yan E                 1.0  1  0  0  0  1
+Burns M               2.0  2  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Martinez P (W)        6.0  2  2  2  5  8
+Bell H                1.0  2  0  0  0  0
+Feliciano P           0.2  2  0  0  0  1
+Bradford C (S)        1.1  0  0  0  0  3
+
+DP -- Cincinnati 1, New York 1
+LOB -- Cincinnati 8, New York 5
+2B -- Franco J, Phillips B, Nady X
+HR -- Wright D 2
+SB -- Reyes J 2, Wright D, Lopez F 2, Franco J
+CS -- Milledge L
+SH -- Phillips B
+SF -- Ross D, Phillips B
+T -- 2:44
+A -- 46767
+     Game of 7/3/2006 -- Pittsburgh at New York (N)
+
+  Pittsburgh         AB  R  H RBI    New York           AB  R  H RBI
+Bautista J, cf        3  2  1  2   Reyes J, ss           5  1  3  0   
+Wilson J, ss          4  0  1  1   Lo Duca P, c          4  0  2  0   
+Casey S, 1b           4  1  2  0   Beltran C, cf         3  0  0  1   
+Bay J, lf             5  1  2  3   Delgado C, 1b         2  0  0  0   
+Sanchez F, 3b         4  0  1  1   Wright D, 3b          4  0  0  0   
+Burnitz J, rf         3  1  2  1   Floyd C, lf           3  0  2  0   
+Marte D, p            1  0  0  0   Nady X, rf            4  0  1  0   
+Capps M, p            0  0  0  0   Valentin J, 2b        4  0  0  0   
+Castillo J, 2b        5  0  1  0   Maine J, p            2  0  0  0   
+Paulino R, c          5  3  3  1   Oliver D, p           0  0  0  0   
+Maholm P, p           1  1  0  0   Marrero E, ph         1  0  0  0   
+Randa J, ph           1  1  1  0   Bradford C, p         0  0  0  0   
+McLouth N, rf         2  1  1  1   Feliciano P, p        0  0  0  0   
+                                   Sanchez D, p          0  0  0  0   
+                                   Chavez E, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38 11 15 10                        33  1  8  1
+
+Pittsburgh       000 030 530 -- 11
+New York         001 000 000 --  1
+
+  Pittsburgh           IP  H  R ER BB SO
+Maholm P (W)          6.0  7  1  1  3  3
+Marte D               2.0  1  0  0  0  0
+Capps M               1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Maine J (L)           4.2  3  3  2  3  7
+Oliver D              1.1  1  0  0  0  1
+Bradford C            0.2  4  5  5  1  0
+Feliciano P           1.1  6  3  3  1  0
+Sanchez D             1.0  1  0  0  0  0
+
+E -- Floyd C
+DP -- Pittsburgh 1, New York 1
+LOB -- Pittsburgh 7, New York 9
+2B -- Casey S, Bay J
+HR -- Paulino R, McLouth N
+SB -- Reyes J, Floyd C
+SH -- Wilson J
+SF -- Beltran C, Sanchez F
+T -- 3:06
+A -- 54111
+     Game of 7/4/2006 -- Pittsburgh at New York (D)
+
+  Pittsburgh         AB  R  H RBI    New York           AB  R  H RBI
+Bautista J, cf        4  2  2  0   Reyes J, ss           5  1  3  0   
+Wilson J, ss          5  0  2  0   Woodward C, 2b        4  1  1  0   
+Casey S, 1b           4  1  0  1   Sanchez D, p          0  0  0  0   
+Bay J, lf             5  0  2  2   Wagner B, p           0  0  0  0   
+Sanchez F, 2b         5  1  2  1   Beltran C, cf         4  0  0  0   
+Randa J, 3b           5  0  3  1   Delgado C, 1b         3  2  1  0   
+Wilson C, rf          4  0  2  1   Wright D, 3b          3  2  1  2   
+Torres S, p           0  0  0  0   Floyd C, lf           2  0  0  0   
+Hernandez R, p        0  0  0  0   Chavez E, lf          1  1  1  1   
+Castillo J, ph        1  0  0  0   Nady X, rf            4  0  3  3   
+Paulino R, c          3  1  0  0   Castro R, c           3  0  1  1   
+Duke Z, p             2  1  1  0   Glavine T, p          2  0  0  0   
+Capps M, p            0  0  0  0   Heilman A, p          0  0  0  0   
+McLouth N, ph-rf      1  0  0  0   Valentin J, ph-2b     2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     39  6 14  6                        33  7 11  7
+
+Pittsburgh       011 013 000 --  6
+New York         000 400 03x --  7
+
+  Pittsburgh           IP  H  R ER BB SO
+Duke Z                5.1  8  4  4  1  4
+Capps M               0.2  0  0  0  0  0
+Torres S              1.1  1  2  2  2  1
+Hernandez R (L)       0.2  2  1  1  1  1
+
+  New York             IP  H  R ER BB SO
+Glavine T*            5.0 11  5  3  1  3
+Heilman A             2.0  1  1  1  1  1
+Sanchez D (W)         1.0  1  0  0  0  0
+Wagner B (S)          1.0  1  0  0  0  1
+  * Pitched to 2 batters in 6th
+
+E -- Paulino R 2, Glavine T
+DP -- Pittsburgh 2, New York 1
+LOB -- Pittsburgh 10, New York 6
+2B -- Sanchez F, Duke Z, Chavez E
+SB -- Reyes J 2
+SH -- Duke Z
+HBP -- by Heilman A (Bautista J)
+T -- 3:05
+A -- 38487
+     Game of 7/5/2006 -- Pittsburgh at New York (N)
+
+  Pittsburgh         AB  R  H RBI    New York           AB  R  H RBI
+Bautista J, cf        3  0  1  0   Reyes J, ss           4  1  1  0   
+Wilson J, ss          4  0  0  0   Lo Duca P, c          4  1  1  1   
+Casey S, 1b           4  0  2  0   Beltran C, cf         2  1  0  0   
+Bay J, lf             4  0  0  0   Delgado C, 1b         3  0  0  0   
+Sanchez F, 3b         3  0  0  0   Floyd C, lf           2  1  0  0   
+Burnitz J, rf         4  0  0  0   Valentin J, 2b        3  1  1  2   
+Castillo J, 2b        4  0  2  0   Chavez E, rf          3  0  1  1   
+Paulino R, c          4  0  2  0   Woodward C, 3b        3  0  0  0   
+Wells K, p            1  0  0  0   Hernandez O, p        2  0  0  0   
+McLouth N, ph         1  0  0  0   Marrero E, ph         1  0  0  0   
+Grabow J, p           0  0  0  0   Bradford C, p         0  0  0  0   
+Randa J, ph           1  0  0  0   Sanchez D, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  0  7  0                        27  5  4  4
+
+Pittsburgh       000 000 000 --  0
+New York         500 000 00x --  5
+
+  Pittsburgh           IP  H  R ER BB SO
+Wells K (L)           6.0  4  5  5  3  3
+Grabow J              2.0  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Hernandez O (W)       7.0  4  0  0  2  7
+Bradford C            1.0  1  0  0  0  1
+Sanchez D             1.0  2  0  0  0  0
+
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 9, New York 2
+2B -- Valentin J
+3B -- Reyes J
+CS -- Chavez E
+SH -- Wells K
+HBP -- by Wells K (Floyd C)
+WP -- Wells K
+T -- 2:26
+A -- 40360
+     Game of 7/6/2006 -- Pittsburgh at New York (N)
+
+  Pittsburgh         AB  R  H RBI    New York           AB  R  H RBI
+Bautista J, cf        5  0  0  0   Reyes J, ss           3  1  1  2   
+Sanchez F, ss         3  2  3  1   Lo Duca P, c          3  0  1  0   
+Casey S, 1b           5  0  1  0   Delgado C, 1b         3  1  0  1   
+Bay J, lf             4  0  1  1   Wright D, 3b          4  2  2  2   
+Randa J, 3b           5  1  2  2   Nady X, rf            3  1  0  0   
+Burnitz J, rf         3  0  1  0   Floyd C, lf           3  1  1  2   
+Bayliss J, p          0  0  0  0   Woodward C, 2b        3  0  1  0   
+Wilson C, ph          1  0  0  0   Marrero E, cf         3  1  0  0   
+Capps M, p            0  0  0  0   Trachsel S, p         1  0  0  0   
+Marte D, p            0  0  0  0   Heilman A, p          0  0  0  0   
+Wilson J, ph          1  0  1  0   Franco J, ph          1  0  0  0   
+Castillo J, 2b        4  0  0  1   Wagner B, p           0  0  0  0   
+Paulino R, c          4  0  0  0                                      
+Gorzelanny T, p       1  0  0  0                                      
+McLouth N, ph-rf      3  2  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  5 11  5                        27  7  6  7
+
+Pittsburgh       000 020 111 --  5
+New York         021 220 00x --  7
+
+  Pittsburgh           IP  H  R ER BB SO
+Gorzelanny T (L)      4.0  4  5  5  4  0
+Bayliss J             2.0  2  2  2  1  5
+Capps M               1.0  0  0  0  0  1
+Marte D               1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        6.1  7  3  3  4  4
+Heilman A             1.2  3  1  1  0  0
+Wagner B (S)          1.0  1  1  0  0  1
+
+E -- Marrero E
+DP -- Pittsburgh 1
+LOB -- Pittsburgh 12, New York 5
+2B -- Sanchez F 2, Wright D, Floyd C, McLouth N, Randa J
+3B -- McLouth N
+HR -- Wright D
+SB -- Reyes J 2
+SH -- Woodward C, Trachsel S
+HBP -- by Trachsel S (Sanchez F), by Gorzelanny T (Floyd C), by Bayliss J (Trachsel S)
+WP -- Gorzelanny T 2
+PB -- Lo Duca P
+T -- 3:03
+A -- 39743
+     Game of 7/7/2006 -- Florida at New York (N)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Amezaga A, cf-lf      5  1  2  0   Reyes J, ss           3  0  1  0   
+Ramirez H, ss         5  0  0  0   Valentin J, 2b        1  0  0  0   
+Uggla D, 2b           4  0  0  0   Woodward C, 2b-ss     4  1  1  1   
+Cabrera M, 3b         2  1  0  0   Beltran C, cf         5  0  0  0   
+Jacobs M, 1b          4  1  1  0   Wright D, 3b          4  1  1  0   
+Helms W, 1b           0  0  0  0   Franco J, 1b          5  1  1  0   
+Willingham J, lf      4  1  1  0   Nady X, rf            4  0  2  2   
+Abercrombie R, cf     0  0  0  0   Marrero E, lf         2  0  1  0   
+Hermida J, rf         3  1  1  1   Castro R, c           4  0  1  0   
+Treanor M, c          4  1  2  1   Lima J, p             0  0  0  0   
+Willis D, p           4  1  1  4   Oliver D, p           2  0  0  0   
+Messenger R, p        0  0  0  0   Lo Duca P, ph         1  0  1  0   
+Borowski J, p         0  0  0  0   Owens H, p            0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7  8  6                        35  3  9  3
+
+Florida          100 600 000 --  7
+New York         000 030 000 --  3
+
+  Florida              IP  H  R ER BB SO
+Willis D (W)          7.1  9  3  3  5  9
+Messenger R           0.2  0  0  0  0  1
+Borowski J            1.0  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Lima J (L)*           3.0  7  7  5  2  2
+Oliver D              5.0  1  0  0  2  4
+Owens H               1.0  0  0  0  0  1
+  * Pitched to 7 batters in 4th
+
+E -- Franco J, Wright D
+DP -- New York 1
+LOB -- Florida 5, New York 11
+2B -- Nady X 2, Jacobs M, Castro R
+HR -- Willis D, Woodward C
+SH -- Lima J
+T -- 2:36
+A -- 41276
+     Game of 7/8/2006, game 1 -- Florida at New York (D)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Amezaga A, cf-3b      4  0  1  0   Valentin J, 2b        4  0  0  0   
+Ramirez H, ss         4  1  1  1   Woodward C, ss        4  0  1  0   
+Uggla D, 2b           4  0  1  0   Beltran C, cf         3  0  0  1   
+Cabrera M, 3b         3  1  1  1   Delgado C, 1b         1  0  0  0   
+Borowski J, p         0  0  0  0   Franco J, ph-1b       1  0  1  1   
+Jacobs M, 1b          3  0  1  0   Reyes J, pr           0  0  0  0   
+Helms W, pr-1b        0  0  0  0   Marrero E, 1b         0  0  0  0   
+Willingham J, lf      4  1  1  1   Wright D, 3b          4  0  0  0   
+Hermida J, rf         3  0  2  0   Floyd C, lf           3  0  1  0   
+Olivo M, c            4  0  0  0   Nady X, rf            3  0  0  0   
+Johnson J, p          2  0  0  0   Bradford C, p         0  0  0  0   
+Herges M, p           0  0  0  0   Lo Duca P, ph         1  0  0  0   
+Borchard J, ph        1  0  0  0   Sanchez D, p          0  0  0  0   
+Tankersley T, p       0  0  0  0   Castro R, c           2  1  0  0   
+Kensing L, p          0  0  0  0   Maine J, p            2  1  0  0   
+Abercrombie R, cf     0  0  0  0   Feliciano P, p        0  0  0  0   
+                                   Chavez E, rf          2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  8  3                        30  2  3  2
+
+Florida          010 011 000 --  3
+New York         000 020 000 --  2
+
+  Florida              IP  H  R ER BB SO
+Johnson J (W)         5.0  2  2  0  5  5
+Herges M              1.0  0  0  0  0  0
+Tankersley T          1.0  0  0  0  1  2
+Kensing L             1.0  1  0  0  0  1
+Borowski J (S)        1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Maine J (L)           6.0  6  3  3  0  3
+Feliciano P           0.1  2  0  0  0  0
+Bradford C            1.2  0  0  0  0  1
+Sanchez D             1.0  0  0  0  1  2
+
+E -- Uggla D
+DP -- Florida 1, New York 1
+LOB -- Florida 5, New York 9
+2B -- Jacobs M
+HR -- Cabrera M, Willingham J, Ramirez H
+CS -- Uggla D
+SH -- Helms W
+HBP -- by Johnson J (Delgado C), by Kensing L (Floyd C), by Sanchez D (Cabrera M)
+T -- 2:56
+A -- 0
+     Game of 7/8/2006, game 2 -- Florida at New York (D)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Amezaga A, cf-2b      5  0  2  0   Chavez E, rf          5  2  3  0   
+Ramirez H, ss         5  0  0  0   Lo Duca P, c          4  3  2  3   
+Uggla D, 2b           2  1  1  0   Feliciano P, p        0  0  0  0   
+Ross C, lf            2  0  0  0   Heilman A, p          0  0  0  0   
+Cabrera M, 3b         2  0  0  0   Beltran C, cf         3  4  2  1   
+Helms W, 3b           1  0  0  0   Wright D, 3b          4  2  1  1   
+Jacobs M, 1b          4  1  2  1   Floyd C, lf           4  3  3  5   
+Willingham J, pr-1b   0  0  0  0   Valentin J, 2b        5  1  2  7   
+Borchard J, lf-rf     3  0  0  0   Franco J, 1b          4  0  0  0   
+Hermida J, rf         1  1  0  0   Owens H, p            0  0  0  0   
+Abercrombie R, cf     1  0  1  0   Marrero E, c          1  0  0  0   
+Treanor M, c          2  0  1  0   Woodward C, ss        5  1  2  0   
+Olivo M, c            1  0  0  0   Pelfrey M, p          2  0  0  0   
+Nolasco R, p          0  0  0  1   Nady X, ph-1b         3  1  1  0   
+Vargas J, p           2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  7  2                        40 17 16 17
+
+Florida          021 000 000 --  3
+New York         540 250 10x -- 17
+
+  Florida              IP  H  R ER BB SO
+Nolasco R (L)         1.2  6  9  9  3  1
+Vargas J              6.1 10  8  8  1  3
+
+  New York             IP  H  R ER BB SO
+Pelfrey M (W)         5.0  5  3  2  4  3
+Owens H               2.0  0  0  0  2  0
+Feliciano P           1.0  2  0  0  0  0
+Heilman A             1.0  0  0  0  0  1
+
+E -- Wright D
+DP -- New York 2
+LOB -- Florida 9, New York 4
+2B -- Uggla D, Wright D, Floyd C, Jacobs M
+3B -- Chavez E, Valentin J
+HR -- Valentin J, Floyd C, Beltran C
+SB -- Amezaga A
+SH -- Nolasco R
+HBP -- by Pelfrey M (Uggla D), by Nolasco R (Lo Duca P)
+WP -- Pelfrey M
+T -- 2:59
+A -- 41477
+     Game of 7/9/2006 -- Florida at New York (D)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Ramirez H, ss         4  2  3  1   Valentin J, 2b        3  2  1  0   
+Uggla D, 2b           3  0  1  1   Lo Duca P, c          4  0  3  1   
+Cabrera M, 3b         3  0  0  0   Reyes J, pr           0  1  0  0   
+Willingham J, lf      4  0  2  0   Castro R, c           0  0  0  0   
+Jacobs M, 1b          4  0  1  2   Beltran C, cf         4  1  1  1   
+Helms W, 1b           0  0  0  0   Delgado C, 1b         4  0  1  0   
+Ross C, rf            3  0  0  0   Wright D, 3b          4  1  1  3   
+Tankersley T, p       0  0  0  0   Floyd C, lf           3  1  1  0   
+Messenger R, p        0  0  0  0   Bradford C, p         0  0  0  0   
+Hermida J, ph         1  0  0  0   Feliciano P, p        0  0  0  0   
+Kensing L, p          0  0  0  0   Franco J, ph          1  0  0  0   
+Abercrombie R, cf     4  1  2  0   Wagner B, p           0  0  0  0   
+Treanor M, c          2  0  0  0   Nady X, rf            4  1  1  2   
+Olivo M, ph-c         2  1  1  1   Woodward C, ss        3  0  0  0   
+Olsen S, p            1  0  0  0   Glavine T, p          2  0  0  0   
+Borchard J, ph-rf     3  2  2  0   Chavez E, lf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6 12  5                        33  7  9  7
+
+Florida          000 002 301 --  6
+New York         000 030 04x --  7
+
+  Florida              IP  H  R ER BB SO
+Olsen S               5.0  6  3  3  0  5
+Tankersley T          1.0  0  0  0  0  0
+Messenger R           1.0  0  0  0  0  2
+Kensing L (L)         1.0  3  4  4  1  2
+
+  New York             IP  H  R ER BB SO
+Glavine T             6.1  9  4  3  2  4
+Bradford C*           0.2  2  1  0  0  0
+Feliciano P (W)       1.0  0  0  0  0  1
+Wagner B (S)          1.0  1  1  1  0  2
+  * Pitched to 1 batter in 8th
+
+E -- Nady X, Lo Duca P
+DP -- New York 2
+LOB -- Florida 4, New York 3
+2B -- Willingham J, Ramirez H, Delgado C, Valentin J, Lo Duca P, Borchard J 2
+HR -- Nady X, Wright D, Olivo M
+SB -- Ramirez H
+CS -- Ramirez H
+SF -- Uggla D
+T -- 2:47
+A -- 39829
+     Game of 7/21/2006 -- Houston at New York (N)
+
+  Houston            AB  R  H RBI    New York           AB  R  H RBI
+Biggio C, 2b          4  0  0  0   Reyes J, ss           4  0  1  0   
+Lamb M, 1b            4  0  1  0   Lo Duca P, c          4  1  1  0   
+Burke C, cf           4  0  0  0   Beltran C, cf         3  1  1  0   
+Berkman L, rf         4  0  1  0   Delgado C, 1b         2  2  1  3   
+Huff A, 3b            3  0  1  0   Wright D, 3b          4  1  1  0   
+Wilson P, lf          3  0  0  0   Floyd C, lf           4  1  0  0   
+Munson E, c           2  0  0  0   Chavez E, lf          0  0  0  0   
+Everett A, ss         3  0  1  0   Valentin J, 2b        4  1  1  4   
+Buchholz T, p         1  0  0  0   Nady X, rf            3  0  2  0   
+Taveras W, ph         1  0  0  0   Maine J, p            3  0  0  0   
+Nieve F, p            0  0  0  0                                      
+Palmeiro O, ph        1  0  0  0                                      
+Springer R, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        31  7  8  7
+
+Houston          000 000 000 --  0
+New York         041 020 00x --  7
+
+  Houston              IP  H  R ER BB SO
+Buchholz T (L)        5.0  6  7  6  1  4
+Nieve F               2.0  2  0  0  1  2
+Springer R            1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Maine J (W)           9.0  4  0  0  1  4
+
+E -- Lamb M, Berkman L
+DP -- Houston 1, New York 1
+LOB -- Houston 4, New York 3
+2B -- Lo Duca P, Nady X, Beltran C, Everett A
+HR -- Valentin J, Delgado C
+SF -- Delgado C
+WP -- Maine J
+T -- 2:14
+A -- 46228
+     Game of 7/22/2006 -- Houston at New York (D)
+
+  Houston            AB  R  H RBI    New York           AB  R  H RBI
+Biggio C, 2b          3  1  0  0   Reyes J, ss           4  0  1  0   
+Lamb M, 1b            4  0  1  0   Valentin J, 2b        2  1  1  0   
+Berkman L, rf         4  1  1  2   Beltran C, cf         4  0  1  0   
+Huff A, 3b            4  0  0  0   Delgado C, 1b         2  1  1  1   
+Wilson P, cf          4  1  1  1   Floyd C, lf           4  1  1  0   
+Scott L, lf           4  0  1  0   Nady X, rf            3  1  1  3   
+Ausmus B, c           4  0  1  0   Sanchez D, p          0  0  0  0   
+Everett A, ss         3  0  1  0   Franco J, ph          0  0  0  0   
+Backe B, p            1  0  0  0   Wagner B, p           0  0  0  0   
+Taveras W, ph         1  0  0  0   Woodward C, 3b        3  0  0  0   
+Borkowski D, p        0  0  0  0   Castro R, c           3  0  0  0   
+Palmeiro O, ph        1  0  0  0   Hernandez O, p        1  0  0  0   
+Qualls C, p           0  0  0  0   Chavez E, ph-rf       1  0  0  0   
+Miller T, p           0  0  0  0                                      
+Springer R, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        27  4  6  4
+
+Houston          300 000 000 --  3
+New York         100 300 00x --  4
+
+  Houston              IP  H  R ER BB SO
+Backe B (L)           4.0  4  4  4  4  3
+Borkowski D           2.0  0  0  0  0  2
+Qualls C              1.1  1  0  0  0  2
+Miller T              0.1  1  0  0  0  1
+Springer R            0.1  0  0  0  1  1
+
+  New York             IP  H  R ER BB SO
+Hernandez O (W)       7.0  4  3  3  2  8
+Sanchez D             1.0  1  0  0  0  1
+Wagner B (S)          1.0  1  0  0  0  1
+
+E -- Reyes J
+DP -- New York 1
+LOB -- Houston 5, New York 6
+2B -- Everett A
+HR -- Berkman L, Wilson P, Nady X
+CS -- Reyes J
+SH -- Hernandez O
+SF -- Delgado C
+T -- 2:45
+A -- 46574
+     Game of 7/23/2006 -- Houston at New York (D)
+
+  Houston            AB  R  H RBI    New York           AB  R  H RBI
+Taveras W, cf         5  2  2  2   Reyes J, ss           5  0  1  0   
+Lamb M, 1b            5  1  1  2   Lo Duca P, c          5  2  2  0   
+Burke C, 2b           5  0  2  1   Beltran C, cf         4  1  0  0   
+Berkman L, rf         2  0  1  1   Delgado C, 1b         2  1  2  3   
+Scott L, pr-rf        2  1  1  0   Wright D, 3b          4  0  1  0   
+Huff A, 3b            5  1  2  0   Floyd C, lf           3  0  2  1   
+Wilson P, lf          4  0  1  1   Feliciano P, p        0  0  0  0   
+Ausmus B, c           4  0  1  0   Valentin J, 2b        4  0  0  0   
+Everett A, ss         4  2  2  1   Nady X, rf            4  0  0  0   
+Oswalt R, p           3  1  2  0   Pelfrey M, p          2  0  0  0   
+Wheeler D, p          0  0  0  0   Oliver D, p           0  0  0  0   
+Miller T, p           0  0  0  0   Marrero E, ph         1  0  0  0   
+Palmeiro O, ph        1  0  0  0   Heilman A, p          0  0  0  0   
+Qualls C, p           0  0  0  0   Chavez E, lf          1  0  0  0   
+Biggio C, ph          1  0  1  0                                      
+Lidge B, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  8 16  8                        35  4  8  4
+
+Houston          001 040 021 --  8
+New York         300 010 000 --  4
+
+  Houston              IP  H  R ER BB SO
+Oswalt R (W)          5.2  8  4  4  3  4
+Wheeler D             1.0  0  0  0  1  1
+Miller T              0.1  0  0  0  0  0
+Qualls C              1.0  0  0  0  0  0
+Lidge B               1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pelfrey M (L)         4.1  6  5  5  1  3
+Oliver D              1.2  2  0  0  0  0
+Heilman A             1.2  5  2  2  0  1
+Feliciano P           1.1  3  1  1  1  0
+
+E -- Lo Duca P
+LOB -- Houston 11, New York 8
+2B -- Lo Duca P 2, Taveras W, Berkman L, Reyes J, Scott L
+HR -- Delgado C
+SB -- Everett A, Taveras W
+SF -- Taveras W
+HBP -- by Pelfrey M (Everett A), by Pelfrey M (Berkman L)
+T -- 3:19
+A -- 46375
+     Game of 7/24/2006 -- Chicago at New York (N)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Pierre J, cf          4  0  1  2   Reyes J, ss           4  1  0  0   
+Cedeno R, ss          5  0  0  0   Lo Duca P, c          5  1  2  1   
+Barrett M, c          5  2  2  1   Beltran C, cf         4  1  1  1   
+Ramirez A, 3b         3  2  1  2   Delgado C, 1b         3  1  2  2   
+Jones J, rf           5  2  2  1   Wright D, 3b          4  0  2  1   
+Nevin P, 1b           5  1  2  2   Floyd C, lf           4  1  1  1   
+Murton M, lf          4  0  2  0   Nady X, rf            4  0  1  1   
+Perez N, 2b           4  1  2  0   Woodward C, 2b        3  1  1  0   
+Maddux G, p           3  0  0  0   Bradford C, p         0  0  0  0   
+Wuertz M, p           0  0  0  0   Chavez E, ph          1  0  0  0   
+Eyre S, p             0  0  0  0   Sanchez D, p          0  0  0  0   
+Howry B, p            0  0  0  0   Trachsel S, p         2  0  0  0   
+Dempster R, p         0  0  0  0   Bell H, p             0  0  0  0   
+                                   Valentin J, ph-2b     2  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  8 12  8                        36  7 11  7
+
+Chicago          300 050 000 --  8
+New York         300 100 300 --  7
+
+  Chicago              IP  H  R ER BB SO
+Maddux G (W)*         6.0 10  7  7  1  4
+Wuertz M              0.1  0  0  0  0  0
+Eyre S                0.1  0  0  0  1  0
+Howry B               1.1  1  0  0  0  1
+Dempster R (S)        1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S (L)        4.2 10  8  8  3  3
+Bell H                2.1  2  0  0  0  2
+Bradford C            1.0  0  0  0  0  1
+Sanchez D             1.0  0  0  0  0  0
+  * Pitched to 3 batters in 7th
+
+DP -- Chicago 1
+LOB -- Chicago 7, New York 5
+2B -- Jones J, Nevin P 2, Beltran C, Floyd C, Nady X
+HR -- Barrett M, Ramirez A, Jones J
+SB -- Pierre J
+SH -- Maddux G
+SF -- Beltran C
+WP -- Trachsel S
+T -- 3:09
+A -- 45631
+     Game of 7/25/2006 -- Chicago at New York (N)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Pierre J, cf          4  2  1  0   Reyes J, ss           4  1  1  0   
+Walker T, 2b          4  0  1  0   Lo Duca P, c          5  0  2  0   
+Perez N, 2b           1  0  1  0   Beltran C, cf         4  1  1  2   
+Ramirez A, 3b         4  1  2  3   Delgado C, 1b         3  0  0  0   
+Nevin P, 1b           4  2  1  1   Wright D, 3b          4  1  1  0   
+Murton M, lf          3  1  1  0   Floyd C, lf           4  1  1  0   
+Aardsma D, p          0  0  0  0   Valentin J, 2b        4  1  2  0   
+Eyre S, p             0  0  0  0   Chavez E, rf          3  1  2  3   
+Dempster R, p         0  0  0  0   Glavine T, p          2  0  0  0   
+Howry B, p            0  0  0  0   Bradford C, p         0  0  0  0   
+Jones J, rf           4  1  0  0   Marrero E, ph         1  0  0  0   
+Blanco H, c           4  0  2  3   Heilman A, p          0  0  0  0   
+Cedeno R, ss          3  0  0  0   Wagner B, p           0  0  0  0   
+Zambrano C, p         3  1  1  1   Franco J, ph          1  0  0  1   
+Pagan A, lf           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  8 10  8                        35  6 10  6
+
+Chicago          204 000 200 --  8
+New York         130 010 001 --  6
+
+  Chicago              IP  H  R ER BB SO
+Zambrano C (W)        7.0  8  5  5  1  6
+Aardsma D             0.1  0  0  0  0  0
+Eyre S                0.2  0  0  0  0  0
+Dempster R            0.2  2  1  1  2  1
+Howry B (S)           0.1  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Glavine T (L)         6.1  7  8  5  2  2
+Bradford C            0.2  1  0  0  0  1
+Heilman A             1.0  1  0  0  0  0
+Wagner B              1.0  1  0  0  0  0
+
+E -- Glavine T
+DP -- Chicago 2
+LOB -- Chicago 4, New York 5
+2B -- Blanco H, Pierre J, Perez N
+HR -- Ramirez A, Nevin P, Beltran C, Chavez E, Zambrano C
+SH -- Cedeno R
+SF -- Ramirez A
+WP -- Wagner B
+T -- 2:45
+A -- 47686
+     Game of 7/26/2006 -- Chicago at New York (D)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Pierre J, cf          4  0  1  0   Reyes J, ss           5  0  1  0   
+Walker T, 2b          3  0  0  0   Chavez E, lf          4  0  0  0   
+Eyre S, p             0  0  0  0   Beltran C, cf         3  1  2  0   
+Wuertz M, p           0  0  0  0   Delgado C, 1b         5  0  1  0   
+Rusch G, p            0  0  0  0   Wright D, 3b          2  0  0  0   
+Ramirez A, 3b         4  0  2  0   Valentin J, 2b        5  0  2  1   
+Jones J, rf           4  0  0  0   Nady X, rf            4  0  0  0   
+Barrett M, c          4  0  0  0   Castro R, c           3  0  1  0   
+Mabry J, 1b           3  0  0  0   Maine J, p            2  0  0  0   
+Pagan A, lf           2  0  0  0   Sanchez D, p          0  0  0  0   
+Cedeno R, ss          4  0  1  0   Franco J, ph          1  0  0  0   
+Prior M, p            2  0  0  0   Wagner B, p           0  0  0  0   
+Ohman W, p            0  0  0  0   Floyd C, ph           1  0  0  0   
+Novoa R, p            0  0  0  0   Heilman A, p          0  0  0  0   
+Nevin P, ph           1  0  0  0                                      
+Perez N, 2b           1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  0  4  0                        35  1  7  1
+
+Chicago          000 000 000 0 --  0
+New York         000 000 000 1 --  1
+  2 outs when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Prior M               5.2  0  0  0  5  3
+Ohman W               0.1  0  0  0  0  0
+Novoa R               1.0  1  0  0  0  0
+Eyre S                1.0  2  0  0  0  2
+Wuertz M              0.2  1  0  0  1  0
+Rusch G (L)           1.0  3  1  1  1  0
+
+  New York             IP  H  R ER BB SO
+Maine J               7.0  3  0  0  3  7
+Sanchez D             1.0  0  0  0  0  0
+Wagner B              1.0  0  0  0  0  1
+Heilman A (W)         1.0  1  0  0  1  0
+
+LOB -- Chicago 7, New York 12
+2B -- Delgado C
+SB -- Reyes J, Beltran C 2
+CS -- Pierre J, Wright D
+SH -- Pagan A
+T -- 3:25
+A -- 40299
+     Game of 8/4/2006 -- Philadelphia at New York (N)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Rollins J, ss         3  0  0  0   Reyes J, ss           5  1  3  1   
+Dellucci D, lf        4  2  2  1   Lo Duca P, c          4  1  2  0   
+Utley C, 2b           5  0  0  0   Beltran C, cf         4  0  1  1   
+Howard R, 1b          5  1  3  2   Delgado C, 1b         4  0  1  1   
+Rowand A, cf          5  0  0  0   Wright D, 3b          2  0  0  0   
+Victorino S, rf       5  2  2  0   Floyd C, lf           4  0  0  0   
+Lieberthal M, c       2  0  0  0   Woodward C, 2b        3  0  1  0   
+Nunez A, 3b           4  0  2  0   Oliver D, p           0  0  0  0   
+Wolf R, p             1  0  0  1   Franco J, ph          1  0  0  0   
+Fultz A, p            0  0  0  0   Feliciano P, p        0  0  0  0   
+Sandoval D, ph        0  0  0  0   Milledge L, rf        3  0  0  0   
+Madson R, p           0  0  0  0   Hernandez O, p        2  1  1  0   
+Burrell P, ph         0  0  0  0   Valentin J, ph-2b     2  0  1  0   
+Rhodes A, p           0  0  0  0                                      
+Gordon T, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  5  9  4                        34  3 10  3
+
+Philadelphia     010 110 101 --  5
+New York         002 100 000 --  3
+
+  Philadelphia         IP  H  R ER BB SO
+Wolf R                4.0  7  3  3  3  4
+Fultz A               1.0  0  0  0  1  0
+Madson R (W)          2.0  3  0  0  0  4
+Rhodes A              1.0  0  0  0  1  0
+Gordon T (S)          1.0  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Hernandez O           6.0  7  3  3  3  7
+Oliver D (L)          1.0  1  1  1  0  1
+Feliciano P           2.0  1  1  1  1  2
+
+E -- Wright D
+DP -- Philadelphia 2
+LOB -- Philadelphia 10, New York 10
+2B -- Beltran C, Victorino S, Howard R, Delgado C
+3B -- Hernandez O
+HR -- Dellucci D, Howard R
+SB -- Rollins J 2, Dellucci D, Nunez A, Reyes J
+SH -- Lieberthal M 2
+SF -- Wolf R, Delgado C
+HBP -- by Feliciano P (Rollins J)
+Balk -- Hernandez O 2
+T -- 3:17
+A -- 43209
+     Game of 8/5/2006 -- Philadelphia at New York (D)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Victorino S, rf-cf    4  0  1  0   Reyes J, ss           4  1  1  0   
+Rowand A, cf          2  1  1  0   Milledge L, rf        4  0  1  1   
+Dellucci D, ph-rf     1  0  0  0   Beltran C, cf         4  1  1  0   
+Rollins J, ss         4  1  1  0   Delgado C, 1b         4  1  1  0   
+Howard R, 1b          3  1  2  3   Wright D, 3b          3  1  1  1   
+Burrell P, lf         4  0  1  0   Floyd C, lf           0  0  0  0   
+Coste C, c            4  0  0  0   Chavez E, ph-lf       3  0  1  2   
+Nunez A, 3b           3  0  0  0   Valentin J, 2b        3  0  0  0   
+Utley C, ph           1  0  1  0   DiFelice M, c         3  0  0  0   
+Sandoval D, 2b        3  0  0  0   Glavine T, p          2  0  0  0   
+Lieberthal M, ph      1  0  0  0   Marrero E, ph         1  0  0  0   
+Lieber J, p           3  0  0  0   Heilman A, p          0  0  0  0   
+                                   Wagner B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        31  4  6  4
+
+Philadelphia     300 000 000 --  3
+New York         100 003 00x --  4
+
+  Philadelphia         IP  H  R ER BB SO
+Lieber J (L)          8.0  6  4  1  0  6
+
+  New York             IP  H  R ER BB SO
+Glavine T (W)         7.0  5  3  3  2  2
+Heilman A             1.0  0  0  0  0  2
+Wagner B (S)          1.0  2  0  0  0  2
+
+E -- Lieber J
+DP -- New York 1
+LOB -- Philadelphia 5, New York 3
+2B -- Reyes J, Rowand A, Victorino S, Chavez E
+HR -- Howard R
+T -- 2:11
+A -- 44829
+     Game of 8/6/2006 -- Philadelphia at New York (N)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Rollins J, ss         4  0  1  0   Reyes J, ss           4  1  1  4   
+Castro F, p           0  0  0  0   Lo Duca P, c          4  1  3  0   
+Dellucci D, rf        4  0  2  0   Beltran C, cf         4  0  0  0   
+Utley C, 2b           4  0  2  0   Delgado C, 1b         3  1  0  0   
+Howard R, 1b          3  0  0  0   Wright D, 3b          4  1  1  1   
+Burrell P, lf         4  0  0  0   Valentin J, 2b        4  2  2  1   
+Rowand A, cf          4  0  0  0   Chavez E, lf          3  1  0  0   
+Lieberthal M, c       3  1  1  1   Milledge L, rf        4  1  1  1   
+Nunez A, 3b           3  0  0  0   Maine J, p            2  0  0  0   
+Mathieson S, p        1  0  0  0   Marrero E, ph         1  0  0  0   
+White R, p            0  0  0  0   Ring R, p             0  0  0  0   
+Roberson C, ph        1  0  0  0   Bradford C, p         0  0  0  0   
+Sanches B, p          0  0  0  0   Oliver D, p           0  0  0  0   
+Sandoval D, ph-ss     2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        33  8  8  7
+
+Philadelphia     000 000 100 --  1
+New York         000 710 00x --  8
+
+  Philadelphia         IP  H  R ER BB SO
+Mathieson S (L)       3.2  6  7  2  2  3
+White R               0.1  0  0  0  0  0
+Sanches B             2.0  1  1  1  0  3
+Castro F              2.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Maine J (W)           6.0  3  0  0  3  4
+Ring R                1.1  3  1  1  0  2
+Bradford C            0.2  0  0  0  0  1
+Oliver D              1.0  0  0  0  0  1
+
+E -- Mathieson S
+LOB -- Philadelphia 8, New York 3
+2B -- Dellucci D, Valentin J, Lo Duca P, Wright D
+HR -- Reyes J, Valentin J, Lieberthal M
+Balk -- Castro F
+T -- 2:33
+A -- 39144
+     Game of 8/8/2006 -- San Diego at New York (N)
+
+  San Diego          AB  R  H RBI    New York           AB  R  H RBI
+Roberts D, lf         5  0  0  0   Reyes J, ss           4  0  1  0   
+Giles B, rf           2  0  0  0   Lo Duca P, c          4  1  1  0   
+Cameron M, cf         3  0  1  0   Beltran C, cf         4  1  3  0   
+Piazza M, c           4  0  1  0   Delgado C, 1b         2  0  0  0   
+Williamson S, p       0  0  0  0   Wright D, 3b          4  1  3  2   
+Gonzalez A, 1b        4  0  1  0   Valentin J, 2b        3  0  0  0   
+Walker T, 3b          2  1  1  0   Chavez E, lf          3  0  1  0   
+Bellhorn M, ph        1  0  0  0   Milledge L, rf        4  0  0  0   
+Blum G, ss            3  1  1  2   Trachsel S, p         2  0  0  0   
+Barfield J, 2b        4  0  0  0   Ring R, p             0  0  0  0   
+Williams W, p         2  0  1  0   Marrero E, ph         1  0  0  0   
+Johnson B, ph         1  0  0  0   Oliver D, p           0  0  0  0   
+Brocail D, p          0  0  0  0   Hernandez R, p        0  0  0  0   
+Bard J, c             1  0  1  0   Feliciano P, p        0  0  0  0   
+                                   Floyd C, ph           1  0  0  0   
+                                   Wagner B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        32  3  9  2
+
+San Diego        020 000 000 --  2
+New York         011 010 00x --  3
+
+  San Diego            IP  H  R ER BB SO
+Williams W (L)        6.0  8  3  3  3  5
+Brocail D             1.0  0  0  0  0  1
+Williamson S          1.0  1  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        5.2  5  2  2  2  3
+Ring R                0.1  1  0  0  1  0
+Oliver D              1.1  0  0  0  1  1
+Hernandez R           0.1  0  0  0  0  0
+Feliciano P           0.1  0  0  0  0  0
+Wagner B (S)          1.0  1  0  0  1  2
+
+E -- Williams W
+DP -- San Diego 1, New York 1
+LOB -- San Diego 8, New York 9
+2B -- Beltran C 3, Cameron M, Gonzalez A, Chavez E
+HR -- Blum G
+SB -- Wright D, Reyes J 2, Cameron M, Chavez E
+CS -- Giles B
+SH -- Chavez E
+T -- 3:02
+A -- 46167
+     Game of 8/9/2006 -- San Diego at New York (N)
+
+  San Diego          AB  R  H RBI    New York           AB  R  H RBI
+Roberts D, lf         3  0  0  0   Reyes J, ss           5  1  2  1   
+Johnson B, ph         1  0  0  0   Lo Duca P, c          5  0  1  0   
+Giles B, rf           3  0  0  0   Beltran C, cf         3  0  0  0   
+Cameron M, cf         3  0  0  0   Delgado C, 1b         4  0  1  1   
+Piazza M, c           4  2  2  2   Wright D, 3b          4  1  1  0   
+Gonzalez A, 1b        3  0  0  0   Valentin J, 2b        3  1  2  1   
+Walker T, 3b          4  0  0  0   Chavez E, lf          3  0  3  1   
+Blum G, ss            4  0  1  0   Milledge L, rf        2  1  0  0   
+Barfield J, 2b        3  1  1  1   Martinez P, p         2  0  0  0   
+Hensley C, p          0  0  0  0   Heilman A, p          0  0  0  0   
+Bowen R, ph           1  0  0  0   Ledee R, ph           1  0  0  0   
+Embree A, p           0  0  0  0   Wagner B, p           0  0  0  0   
+Meredith C, p         0  0  0  0                                      
+Bard J, ph            1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  3  4  3                        32  4 10  4
+
+San Diego        000 101 001 --  3
+New York         112 000 00x --  4
+
+  San Diego            IP  H  R ER BB SO
+Hensley C (L)         6.0  9  4  4  4  6
+Embree A              0.2  1  0  0  1  2
+Meredith C            1.1  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Martinez P (W)        7.1  3  2  2  4  2
+Heilman A             0.2  0  0  0  1  0
+Wagner B (S)          1.0  1  1  1  0  1
+
+E -- Wright D
+LOB -- San Diego 7, New York 10
+2B -- Reyes J, Wright D, Valentin J
+HR -- Piazza M 2, Barfield J
+SB -- Reyes J, Valentin J
+CS -- Chavez E
+SH -- Martinez P, Hensley C 2
+T -- 2:39
+A -- 49979
+     Game of 8/10/2006 -- San Diego at New York (D)
+
+  San Diego          AB  R  H RBI    New York           AB  R  H RBI
+Roberts D, lf         4  0  1  0   Reyes J, ss           5  2  2  2   
+Walker T, 3b          3  1  0  0   Chavez E, cf          4  1  2  1   
+Giles B, rf           4  1  1  0   Wright D, 3b          3  1  2  1   
+Gonzalez A, 1b        4  1  1  2   Delgado C, 1b         3  1  0  0   
+Bard J, c             4  0  2  1   Valentin J, 2b        2  0  1  2   
+Blum G, ss            4  0  0  0   Tucker M, lf          4  0  1  1   
+Barfield J, 2b        3  0  0  0   Ledee R, rf           4  0  1  0   
+Johnson B, cf         3  0  0  0   DiFelice M, c         2  1  0  0   
+Young C, p            1  0  0  0   Hernandez O, p        3  1  1  0   
+Bowen R, ph           1  0  0  0   Franco J, ph          1  0  0  0   
+Adkins J, p           0  0  0  0   Heilman A, p          0  0  0  0   
+Brocail D, p          0  0  0  0   Feliciano P, p        0  0  0  0   
+Embree A, p           0  0  0  0                                      
+Williamson S, p       0  0  0  0                                      
+Bellhorn M, ph        0  0  0  0                                      
+Thompson M, p         0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  5  3                        31  7 10  7
+
+San Diego        200 000 100 --  3
+New York         030 000 40x --  7
+
+  San Diego            IP  H  R ER BB SO
+Young C               5.0  4  3  3  6  4
+Adkins J              1.0  0  0  0  0  1
+Brocail D (L)*        0.0  4  4  4  1  0
+Embree A              0.1  1  0  0  1  1
+Williamson S          0.2  0  0  0  0  0
+Thompson M            1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Hernandez O (W)       7.0  4  3  3  1  4
+Heilman A             1.0  0  0  0  1  2
+Feliciano P           1.0  1  0  0  0  2
+  * Pitched to 5 batters in 7th
+
+DP -- San Diego 2
+LOB -- San Diego 3, New York 9
+2B -- Giles B, Bard J, Wright D 2, Tucker M
+3B -- Reyes J
+HR -- Gonzalez A
+SB -- Chavez E 2, Wright D 2
+SF -- Chavez E
+WP -- Young C
+T -- 2:52
+A -- 39649
+     Game of 8/18/2006 -- Colorado at New York (N)
+
+  Colorado           AB  R  H RBI    New York           AB  R  H RBI
+Carroll J, 2b         5  0  1  0   Reyes J, ss           5  0  1  0   
+Sullivan C, cf        3  0  1  0   Lo Duca P, c          5  0  0  0   
+Helton T, 1b          4  0  0  0   Beltran C, cf         3  2  2  0   
+Holliday M, lf        4  1  1  0   Delgado C, 1b         2  1  1  0   
+Atkins G, 3b          4  1  3  2   Wright D, 3b          4  1  2  2   
+Hawpe B, rf           3  0  0  0   Tucker M, lf          4  0  1  1   
+Torrealba Y, c        3  1  2  0   Woodward C, 2b        2  1  2  1   
+Barmes C, ss          3  0  0  0   Chavez E, rf          4  1  2  2   
+Kim B, p              2  0  1  1   Trachsel S, p         3  0  0  0   
+Martin T, p           0  0  0  0   Ledee R, ph           1  0  0  0   
+Gonzalez L, ph        1  0  0  0   Bradford C, p         0  0  0  0   
+Mesa J, p             0  0  0  0   Wagner B, p           0  0  0  0   
+Spilborghs R, ph      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  9  3                        33  6 11  6
+
+Colorado         000 300 000 --  3
+New York         001 230 00x --  6
+
+  Colorado             IP  H  R ER BB SO
+Kim B (L)             4.1  8  6  6  3  1
+Martin T              1.2  1  0  0  1  1
+Mesa J                2.0  2  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        7.0  7  3  3  3  6
+Bradford C            1.0  1  0  0  0  0
+Wagner B (S)          1.0  1  0  0  0  2
+
+DP -- Colorado 1, New York 1
+LOB -- Colorado 7, New York 9
+2B -- Carroll J, Wright D, Torrealba Y, Tucker M, Beltran C
+HR -- Atkins G, Chavez E
+SB -- Beltran C
+SH -- Sullivan C
+SF -- Woodward C
+HBP -- by Kim B (Woodward C)
+T -- 2:43
+A -- 35325
+     Game of 8/19/2006 -- Colorado at New York (N)
+
+  Colorado           AB  R  H RBI    New York           AB  R  H RBI
+Carroll J, 2b         4  1  1  0   Reyes J, ss           3  0  0  1   
+Spilborghs R, rf      4  0  0  0   Lo Duca P, c          4  1  1  0   
+Helton T, 1b          4  0  1  0   Beltran C, cf         3  1  0  1   
+Holliday M, lf        4  1  2  0   Delgado C, 1b         4  1  2  1   
+Atkins G, 3b          4  1  1  3   Wright D, 3b          3  1  0  0   
+Torrealba Y, c        4  1  2  1   Woodward C, 2b        4  0  0  0   
+Barmes C, ss          4  0  1  0   Milledge L, rf        3  2  3  2   
+Freeman C, cf         1  0  0  0   Chavez E, lf          2  0  0  0   
+Sullivan C, ph-cf     1  0  1  0   Hernandez R, p        0  0  0  0   
+Francis J, p          2  0  0  0   Franco J, ph          0  0  0  0   
+Ramirez R, p          0  0  0  0   Heilman A, p          0  0  0  0   
+Hawpe B, ph           0  0  0  0   Ledee R, ph           1  0  0  0   
+King R, p             0  0  0  0   Wagner B, p           0  0  0  0   
+Corpas M, p           0  0  0  0   Williams D, p         1  0  0  0   
+                                   Tucker M, lf          2  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     32  4  9  4                        30  7  7  6
+
+Colorado         000 013 000 --  4
+New York         000 006 01x --  7
+
+  Colorado             IP  H  R ER BB SO
+Francis J (L)         5.2  5  6  2  3  2
+Ramirez R             0.1  0  0  0  1  0
+King R                1.0  1  0  0  0  0
+Corpas M              1.0  1  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Williams D            5.2  6  3  3  0  2
+Hernandez R           0.1  2  1  1  0  0
+Heilman A (W)         2.0  1  0  0  1  0
+Wagner B (S)          1.0  0  0  0  0  0
+
+E -- Holliday M, Atkins G
+DP -- Colorado 1, New York 2
+LOB -- Colorado 3, New York 5
+2B -- Lo Duca P, Delgado C
+HR -- Torrealba Y, Atkins G, Milledge L
+CS -- Freeman C
+SF -- Beltran C
+HBP -- by Williams D (Freeman C), by Francis J (Milledge L)
+PB -- Torrealba Y
+T -- 2:49
+A -- 55085
+     Game of 8/20/2006 -- Colorado at New York (D)
+
+  Colorado           AB  R  H RBI    New York           AB  R  H RBI
+Carroll J, 2b         4  0  0  0   Reyes J, ss           4  0  0  0   
+Sullivan C, cf        3  0  0  0   Milledge L, rf        4  0  1  0   
+Helton T, 1b          4  0  1  0   Chavez E, rf          0  0  0  0   
+Holliday M, lf        4  0  1  0   Beltran C, cf         4  1  1  1   
+Atkins G, 3b          4  0  0  0   Delgado C, 1b         4  1  1  1   
+Hawpe B, rf           3  0  2  0   Wright D, 3b          3  0  0  0   
+Torrealba Y, c        2  0  1  0   Tucker M, lf          1  0  0  0   
+Barmes C, ss          3  0  0  0   Woodward C, 2b        3  0  0  0   
+Jennings J, p         2  0  0  0   DiFelice M, c         3  0  0  0   
+Mesa J, p             0  0  0  0   Hernandez O, p        2  0  1  0   
+Smith J, ph           1  0  0  0   Bradford C, p         0  0  0  0   
+Fuentes B, p          0  0  0  0   Ledee R, ph           1  0  0  0   
+                                   Heilman A, p          0  0  0  0   
+                                   Wagner B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        29  2  4  2
+
+Colorado         000 000 000 --  0
+New York         010 001 00x --  2
+
+  Colorado             IP  H  R ER BB SO
+Jennings J (L)        6.0  4  2  2  2  5
+Mesa J                1.0  0  0  0  0  0
+Fuentes B             1.0  0  0  0  0  3
+
+  New York             IP  H  R ER BB SO
+Hernandez O (W)       6.0  5  0  0  1  8
+Bradford C            1.0  0  0  0  1  0
+Heilman A             1.0  0  0  0  0  2
+Wagner B (S)          1.0  0  0  0  0  1
+
+E -- Torrealba Y
+DP -- New York 1
+LOB -- Colorado 5, New York 5
+2B -- Torrealba Y, Holliday M
+HR -- Delgado C, Beltran C
+SB -- Hernandez O, Tucker M
+CS -- Sullivan C
+T -- 2:33
+A -- 40654
+     Game of 8/22/2006 -- St. Louis at New York (N)
+
+  St. Louis          AB  R  H RBI    New York           AB  R  H RBI
+Miles A, ss           3  2  1  0   Reyes J, ss           5  1  0  1   
+Duncan C, lf          2  2  1  0   Lo Duca P, c          5  2  3  0   
+Pujols A, 1b          4  2  2  7   Beltran C, cf         5  2  1  2   
+Rolen S, 3b           4  0  0  0   Delgado C, 1b         4  2  2  5   
+Encarnacion J, cf-rf  4  0  2  0   Wright D, 3b          4  0  0  0   
+Wilson P, rf          3  0  0  0   Tucker M, lf          2  0  1  0   
+Wainwright A, p       0  0  0  0   Chavez E, rf          3  1  1  0   
+Flores R, p           0  0  0  0   Woodward C, 2b        3  0  0  0   
+Perez T, ph           0  0  0  0   Maine J, p            1  0  0  0   
+Johnson T, p          0  0  0  0   Ledee R, ph           0  0  0  0   
+Looper B, p           0  0  0  0   Mota G, p             0  0  0  0   
+Isringhausen J, p     0  0  0  0   Valentin J, ph        0  0  0  0   
+Belliard R, 2b        4  0  1  0   Feliciano P, p        0  0  0  0   
+Molina Y, c           4  1  1  0   Bradford C, p         0  0  0  0   
+Weaver J, p           2  0  0  0   Franco J, ph          1  0  0  0   
+Taguchi S, cf         2  0  0  0   Heilman A, p          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  7  8  7                        33  8  8  8
+
+St. Louis        000 340 000 --  7
+New York         010 041 002 --  8
+  1 out when winning run was scored.
+
+  St. Louis            IP  H  R ER BB SO
+Weaver J              5.0  5  5  4  2  4
+Wainwright A          1.0  1  1  1  1  0
+Flores R              1.0  0  0  0  0  0
+Johnson T             0.1  0  0  0  0  0
+Looper B              0.2  0  0  0  0  1
+Isringhausen J (L)    0.1  2  2  2  0  0
+
+  New York             IP  H  R ER BB SO
+Maine J               5.0  6  7  7  2  5
+Mota G                1.0  1  0  0  0  2
+Feliciano P           0.1  0  0  0  2  0
+Bradford C            1.2  1  0  0  1  0
+Heilman A (W)         1.0  0  0  0  0  2
+
+E -- Belliard R, Duncan C
+DP -- New York 2
+LOB -- St. Louis 3, New York 6
+2B -- Duncan C, Molina Y, Encarnacion J
+HR -- Delgado C 2, Pujols A 2, Beltran C
+SB -- Encarnacion J
+SH -- Valentin J, Chavez E
+HBP -- by Johnson T (Tucker M)
+PB -- Molina Y
+T -- 2:36
+A -- 49661
+     Game of 8/23/2006 -- St. Louis at New York (N)
+
+  St. Louis          AB  R  H RBI    New York           AB  R  H RBI
+Vizcaino J, ss        5  1  1  2   Reyes J, ss           4  2  3  3   
+Duncan C, lf          3  0  0  0   Lo Duca P, c          5  0  1  0   
+Taguchi S, ph         1  0  0  0   Beltran C, cf         3  2  0  0   
+Pujols A, 1b          5  0  2  2   Delgado C, 1b         5  2  2  1   
+Rolen S, 3b           5  2  2  1   Wright D, 3b          4  2  1  2   
+Wilson P, rf          4  2  2  2   Woodward C, 2b        5  1  2  3   
+Encarnacion J, cf     3  0  0  0   Milledge L, rf        4  0  1  1   
+Belliard R, 2b        4  1  2  1   Feliciano P, p        0  0  0  0   
+Molina Y, c           3  1  1  0   Bradford C, p         0  0  0  0   
+Bennett G, c          1  0  0  0   Heilman A, p          0  0  0  0   
+Mulder M, p           0  1  0  0   Wagner B, p           0  0  0  0   
+Hancock J, p          0  0  0  0   Chavez E, lf-rf       3  1  2  0   
+Edmonds J, ph         0  0  0  0   Trachsel S, p         2  0  0  0   
+Sosa J, p             0  0  0  0   Hernandez R, p        0  0  0  0   
+Spiezio S, ph         1  0  0  0   Tucker M, lf          1  0  0  0   
+Flores R, p           0  0  0  0                                      
+Looper B, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  8 10  8                        36 10 12 10
+
+St. Louis        002 022 020 --  8
+New York         403 300 00x -- 10
+
+  St. Louis            IP  H  R ER BB SO
+Mulder M (L)*         3.0  9  9  9  4  1
+Hancock J             3.0  3  1  1  0  2
+Sosa J                1.0  0  0  0  1  2
+Flores R              0.1  0  0  0  0  0
+Looper B              0.2  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)+       5.0  6  6  6  3  1
+Hernandez R           1.1  0  0  0  1  0
+Feliciano P           0.1  0  0  0  0  1
+Bradford C            1.0  3  2  2  0  0
+Heilman A             0.1  0  0  0  0  1
+Wagner B (S)          1.0  1  0  0  0  1
+  * Pitched to 2 batters in 4th
+  + Pitched to 3 batters in 6th
+
+E -- Pujols A
+DP -- New York 1
+LOB -- St. Louis 5, New York 8
+2B -- Delgado C 2, Woodward C, Belliard R, Wright D, Chavez E, Rolen S, Wilson P
+HR -- Reyes J, Vizcaino J, Rolen S, Wilson P
+SB -- Reyes J 2
+SH -- Trachsel S, Hancock J
+T -- 3:21
+A -- 49329
+     Game of 8/24/2006 -- St. Louis at New York (N)
+
+  St. Louis          AB  R  H RBI    New York           AB  R  H RBI
+Belliard R, 2b        3  0  0  0   Reyes J, ss           5  1  3  1   
+Taguchi S, lf         4  0  1  0   Lo Duca P, c          4  1  2  1   
+Johnson T, p          0  0  0  0   Beltran C, cf         3  2  0  0   
+Sosa J, p             0  0  0  0   Delgado C, 1b         2  1  1  2   
+Pujols A, 1b          4  0  1  0   Wright D, 3b          3  0  1  1   
+Rolen S, 3b           4  0  0  0   Green S, rf           3  0  1  1   
+Encarnacion J, cf     4  0  0  0   Valentin J, 2b        2  1  0  0   
+Wilson P, rf          4  0  0  0   Chavez E, lf          4  0  1  0   
+Miles A, ss           4  1  2  0   Williams D, p         3  0  0  0   
+Bennett G, c          3  1  2  2   Hernandez R, p        0  0  0  0   
+Duncan C, ph          1  0  0  0   Franco J, ph          1  0  0  0   
+Marquis J, p          1  0  0  0   Mota G, p             0  0  0  0   
+Spiezio S, ph-lf      1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        30  6  9  6
+
+St. Louis        000 020 000 --  2
+New York         003 020 01x --  6
+
+  St. Louis            IP  H  R ER BB SO
+Marquis J (L)         6.0  7  5  5  4  4
+Johnson T             1.2  2  1  1  2  3
+Sosa J                0.1  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Williams D (W)        6.1  7  2  2  1  4
+Hernandez R           1.2  0  0  0  0  1
+Mota G                1.0  0  0  0  0  2
+
+DP -- St. Louis 2
+LOB -- St. Louis 6, New York 8
+2B -- Taguchi S, Spiezio S
+3B -- Lo Duca P
+HR -- Bennett G, Delgado C
+SB -- Reyes J
+SH -- Marquis J
+SF -- Wright D
+HBP -- by Marquis J (Lo Duca P)
+T -- 2:34
+A -- 45497
+     Game of 8/25/2006 -- Philadelphia at New York (N)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Rollins J, ss         5  1  1  0   Reyes J, ss           5  1  1  0   
+Victorino S, cf       5  1  2  0   Lo Duca P, c          4  1  2  0   
+Utley C, 2b           4  1  2  1   Beltran C, cf         4  1  2  3   
+Howard R, 1b          2  1  1  3   Delgado C, 1b         3  0  0  0   
+Dellucci D, rf        2  0  0  0   Wright D, 3b          3  0  0  0   
+Hernandez J, ph-rf    1  0  0  0   Green S, rf           4  0  0  0   
+Thurston J, lf        3  0  0  0   Woodward C, 2b        3  0  1  0   
+Madson R, p           0  0  0  0   Chavez E, lf          3  0  0  0   
+Lieberthal M, c       3  0  0  0   Bannister B, p        2  0  0  0   
+Nunez A, 3b           4  0  0  0   Tucker M, ph          1  0  0  0   
+Wolf R, p             2  0  0  0   Feliciano P, p        0  0  0  0   
+Sandoval D, ph        1  0  0  0   Bradford C, p         0  0  0  0   
+Geary G, p            0  0  0  0   Heilman A, p          0  0  0  0   
+Rhodes A, p           0  0  0  0   Franco J, ph          1  0  1  0   
+Roberson C, ph-lf     1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  4                        33  3  7  3
+
+Philadelphia     202 000 000 --  4
+New York         001 020 000 --  3
+
+  Philadelphia         IP  H  R ER BB SO
+Wolf R (W)            5.0  5  3  3  4  4
+Geary G               2.0  1  0  0  0  0
+Rhodes A              1.0  0  0  0  0  0
+Madson R (S)          1.0  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Bannister B (L)       6.0  6  4  4  3  4
+Feliciano P           1.1  0  0  0  0  2
+Bradford C            0.2  0  0  0  1  1
+Heilman A             1.0  1  0  0  0  1
+
+DP -- Philadelphia 1
+LOB -- Philadelphia 7, New York 7
+2B -- Lo Duca P, Beltran C
+3B -- Victorino S
+HR -- Howard R, Beltran C
+SB -- Reyes J, Roberson C
+SF -- Howard R
+T -- 2:42
+A -- 41707
+     Game of 8/26/2006 -- Philadelphia at New York (N)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Rollins J, ss         5  1  0  0   Reyes J, ss           5  2  2  0   
+Victorino S, cf       3  1  2  1   Lo Duca P, c          5  1  2  0   
+Utley C, 2b           2  1  0  0   Beltran C, cf         3  3  1  2   
+Howard R, 1b          4  1  1  4   Delgado C, 1b         4  1  2  3   
+Burrell P, lf         3  0  0  0   Wright D, 3b          4  1  0  0   
+Hernandez J, rf       3  0  0  0   Green S, rf           4  1  2  2   
+Thurston J, ph-rf     1  0  0  0   Valentin J, 2b        3  1  1  0   
+Coste C, c            3  0  1  0   Chavez E, lf          4  1  4  2   
+Nunez A, 3b           4  1  0  0   Perez O, p            1  0  0  0   
+Lieber J, p           2  0  0  0   Tucker M, ph          0  0  0  0   
+White R, p            0  0  0  0   Oliver D, p           0  0  0  0   
+Fultz A, p            0  0  0  0   Franco J, ph          1  0  0  0   
+Smith M, p            0  0  0  0   Feliciano P, p        0  0  0  0   
+Dellucci D, ph        1  0  0  0   Woodward C, ph        1  0  1  2   
+                                   Mota G, p             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  5  4  5                        35 11 15 11
+
+Philadelphia     000 050 000 --  5
+New York         200 002 70x -- 11
+
+  Philadelphia         IP  H  R ER BB SO
+Lieber J              6.0 10  4  4  2  0
+White R (L)*          0.0  2  3  3  0  0
+Fultz A               1.0  3  4  4  2  0
+Smith M               1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Perez O               5.0  2  5  5  5  7
+Oliver D              1.0  1  0  0  0  1
+Feliciano P (W)       1.0  1  0  0  0  0
+Mota G                2.0  0  0  0  0  2
+  * Pitched to 3 batters in 7th
+
+DP -- Philadelphia 3
+LOB -- Philadelphia 5, New York 6
+2B -- Reyes J, Coste C, Green S, Chavez E
+HR -- Beltran C, Howard R, Delgado C
+SF -- Delgado C
+HBP -- by Perez O (Utley C), by White R (Beltran C)
+T -- 2:26
+A -- 47019
+     Game of 8/28/2006 -- Philadelphia at New York (D)
+
+  Philadelphia       AB  R  H RBI    New York           AB  R  H RBI
+Rollins J, ss         4  0  1  0   Reyes J, ss           5  2  2  0   
+Victorino S, cf       4  0  1  0   Lo Duca P, c          4  1  2  2   
+Utley C, 2b           3  0  0  0   Beltran C, cf         4  2  1  0   
+Howard R, 1b          4  2  2  1   Delgado C, 1b         3  1  2  2   
+Burrell P, lf         4  1  1  2   Wright D, 3b          3  1  1  2   
+Dellucci D, rf        3  0  0  0   Green S, rf           4  0  1  1   
+Hernandez J, ph       1  0  0  0   Woodward C, 2b        3  0  0  1   
+Coste C, c            4  0  1  0   Chavez E, lf          4  1  2  0   
+Nunez A, 3b           3  0  0  0   Maine J, p            3  0  0  0   
+Moyer J, p            2  0  0  0   Hernandez R, p        0  0  0  0   
+Thurston J, ph        1  0  0  0   Mota G, p             0  0  0  0   
+Castro F, p           0  0  0  0   Franco J, ph          1  0  0  0   
+Smith M, p            0  0  0  0   Wagner B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  6  3                        34  8 11  8
+
+Philadelphia     000 200 010 --  3
+New York         006 100 10x --  8
+
+  Philadelphia         IP  H  R ER BB SO
+Moyer J (L)           6.0  9  7  5  0  4
+Castro F              1.0  1  1  1  1  0
+Smith M               1.0  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Maine J (W)           6.1  5  2  2  2  2
+Hernandez R           0.2  0  0  0  0  0
+Mota G                1.0  1  1  1  0  2
+Wagner B              1.0  0  0  0  0  3
+
+E -- Coste C
+LOB -- Philadelphia 5, New York 5
+2B -- Rollins J, Delgado C, Green S, Coste C, Beltran C
+3B -- Reyes J
+HR -- Burrell P, Howard R
+SB -- Beltran C
+SF -- Woodward C, Wright D
+T -- 2:34
+A -- 45868
+     Game of 9/4/2006 -- Atlanta at New York (N)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Orr P, 2b             4  0  2  0   Reyes J, ss           3  0  0  0   
+Renteria E, ss        3  1  2  2   Lo Duca P, c          4  0  0  0   
+LaRoche A, 1b         3  0  1  2   Delgado C, 1b         3  0  0  0   
+Jones A, cf           3  0  0  0   Wright D, 3b          3  0  1  0   
+McCann B, c           3  0  0  1   Green S, rf           3  0  0  0   
+Francoeur J, rf       3  0  0  0   Valentin J, 2b        3  0  0  0   
+Diaz M, lf            4  0  0  0   Tucker M, lf          2  0  0  0   
+Langerhans R, lf      0  0  0  0   Chavez E, cf          3  0  0  0   
+Aybar W, 3b           4  1  0  0   Trachsel S, p         1  0  0  0   
+James C, p            2  2  1  0   Bell H, p             0  0  0  0   
+Ward D, ph            1  0  1  0   Woodward C, ph        0  0  0  0   
+Pena T, pr            0  1  0  0   Ring R, p             0  0  0  0   
+McBride M, p          0  0  0  0   Hernandez R, p        0  0  0  0   
+                                   Franco J, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  5  7  5                        26  0  1  0
+
+Atlanta          002 020 001 --  5
+New York         000 000 000 --  0
+
+  Atlanta              IP  H  R ER BB SO
+James C (W)           8.0  1  0  0  3  1
+McBride M             1.0  0  0  0  0  3
+
+  New York             IP  H  R ER BB SO
+Trachsel S (L)        4.1  4  4  3  7  1
+Bell H                1.2  1  0  0  0  1
+Ring R                2.0  0  0  0  0  0
+Hernandez R           1.0  2  1  1  1  0
+
+E -- Delgado C
+DP -- Atlanta 1, New York 3
+LOB -- Atlanta 8, New York 2
+2B -- Renteria E
+SB -- Reyes J
+SH -- Orr P
+SF -- LaRoche A
+WP -- Trachsel S
+PB -- Lo Duca P
+T -- 2:30
+A -- 42428
+     Game of 9/6/2006, game 1 -- Atlanta at New York (D)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Aybar W, 3b           4  0  3  0   Reyes J, ss           4  0  2  0   
+Renteria E, ss        4  0  0  0   Lo Duca P, c          4  1  1  0   
+Francoeur J, rf       4  0  0  0   Delgado C, 1b         4  1  1  2   
+Jones A, cf           3  0  0  0   Wright D, 3b          4  0  0  0   
+Diaz M, lf            4  0  2  0   Green S, rf           4  2  3  1   
+McCann B, c           3  1  1  1   Valentin J, 2b        3  0  1  1   
+LaRoche A, 1b         3  0  0  0   Tucker M, lf          4  0  1  0   
+Prado M, 2b           2  0  1  0   Chavez E, cf          3  0  1  0   
+Orr P, ph-2b          1  0  0  0   Williams D, p         2  0  0  0   
+Smoltz J, p           1  0  0  0   Ledee R, ph           1  0  0  0   
+Yates T, p            0  0  0  0   Feliciano P, p        0  0  0  0   
+Ward D, ph            1  0  0  0   Mota G, p             0  0  0  0   
+McBride M, p          0  0  0  0   Wagner B, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  1  7  1                        33  4 10  4
+
+Atlanta          010 000 000 --  1
+New York         010 002 01x --  4
+
+  Atlanta              IP  H  R ER BB SO
+Smoltz J (L)          6.0  8  3  3  2  5
+Yates T               1.0  0  0  0  0  0
+McBride M             1.0  2  1  1  0  1
+
+  New York             IP  H  R ER BB SO
+Williams D (W)        6.0  5  1  1  0  4
+Feliciano P           1.0  1  0  0  0  0
+Mota G                1.0  1  0  0  0  1
+Wagner B (S)          1.0  0  0  0  0  1
+
+DP -- Atlanta 1, New York 2
+LOB -- Atlanta 4, New York 7
+2B -- Valentin J, Chavez E, Green S, Aybar W, Tucker M
+HR -- McCann B, Delgado C, Green S
+CS -- Aybar W
+SH -- Smoltz J
+HBP -- by Williams D (Jones A)
+WP -- Smoltz J 2
+T -- 2:24
+A -- 0
+     Game of 9/6/2006, game 2 -- Atlanta at New York (D)
+
+  Atlanta            AB  R  H RBI    New York           AB  R  H RBI
+Giles M, 2b           4  0  2  0   Reyes J, ss           4  1  2  1   
+Renteria E, ss        3  0  1  0   Hernandez A, 2b       5  0  0  0   
+Pena T, ss            1  0  0  0   Beltran C, cf         2  2  0  0   
+Francoeur J, rf       3  0  0  0   Milledge L, ph-lf     1  0  0  0   
+Jones A, cf           3  0  0  0   Floyd C, lf           3  1  1  0   
+Barry K, p            0  0  0  0   Stinnett K, c         1  0  0  0   
+Pena B, ph            1  0  0  0   Green S, rf           4  2  3  2   
+Diaz M, lf            3  0  0  0   Tucker M, rf          0  0  0  0   
+Aybar W, 3b           3  0  1  0   Franco J, 1b          2  1  1  1   
+LaRoche A, 1b         3  0  0  0   Woodward C, 3b        4  1  1  2   
+Pratt T, c            3  0  1  0   DiFelice M, c         2  0  0  0   
+Davies K, p           2  0  0  0   Chavez E, ph-lf-cf    2  0  2  2   
+Paronto C, p          0  0  0  0   Perez O, p            3  0  0  0   
+Ray K, p              0  0  0  0                                      
+Devine J, p           0  0  0  0                                      
+Jordan B, ph          1  0  0  0                                      
+Langerhans R, cf      0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        33  8 10  8
+
+Atlanta          000 000 000 --  0
+New York         200 004 20x --  8
+
+  Atlanta              IP  H  R ER BB SO
+Davies K (L)*         5.0  7  6  6  4  5
+Paronto C             1.0  1  0  0  0  1
+Ray K                 0.1  1  2  2  1  1
+Devine J              0.2  1  0  0  0  1
+Barry K               1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Perez O (W)           9.0  5  0  0  1  6
+  * Pitched to 4 batters in 6th
+
+DP -- New York 2
+LOB -- Atlanta 4, New York 7
+2B -- Pratt T, Woodward C
+3B -- Chavez E
+HR -- Reyes J, Green S
+SB -- Beltran C, Renteria E
+CS -- Reyes J
+HBP -- by Devine J (Franco J)
+T -- 2:30
+A -- 40536
+     Game of 9/7/2006 -- Los Angeles at New York (N)
+
+  Los Angeles        AB  R  H RBI    New York           AB  R  H RBI
+Furcal R, ss          4  0  2  0   Reyes J, ss           5  2  2  3   
+Lugo J, 3b            5  0  1  0   Lo Duca P, c          4  0  1  0   
+Garciaparra N, 1b     4  0  1  0   Beltran C, cf         4  1  2  1   
+Drew J, rf            4  0  0  0   Delgado C, 1b         4  0  1  0   
+Kent J, 2b            4  0  2  0   Wright D, 3b          2  1  2  1   
+Ethier A, lf          3  0  0  0   Floyd C, lf           4  0  0  0   
+Kemp M, cf            4  0  0  0   Hernandez R, p        0  0  0  0   
+Hall T, c             3  0  1  0   Heilman A, p          0  0  0  0   
+Young D, ph           1  0  0  0   Green S, rf           3  1  2  0   
+Penny B, p            2  0  0  0   Valentin J, 2b        4  2  1  2   
+Beimel J, p           0  0  0  0   Glavine T, p          2  0  1  0   
+Repko J, ph           0  0  0  0   Mota G, p             0  0  0  0   
+Loney J, ph           1  0  0  0   Chavez E, lf          1  0  0  0   
+Hamulack T, p         0  0  0  0                                      
+Anderson M, ph        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  0  7  0                        33  7 12  7
+
+Los Angeles      000 000 000 --  0
+New York         210 004 00x --  7
+
+  Los Angeles          IP  H  R ER BB SO
+Penny B (L)           5.2 10  7  7  1  4
+Beimel J              0.1  0  0  0  0  0
+Hamulack T            2.0  2  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Glavine T (W)         6.1  5  0  0  0  5
+Mota G                0.2  0  0  0  1  0
+Hernandez R           1.0  1  0  0  0  1
+Heilman A             1.0  1  0  0  0  0
+
+E -- Reyes J, Hernandez R
+DP -- Los Angeles 1
+LOB -- Los Angeles 11, New York 6
+2B -- Delgado C, Kent J, Green S 2, Furcal R, Wright D
+HR -- Valentin J, Reyes J
+SH -- Glavine T
+SF -- Wright D
+HBP -- by Glavine T (Ethier A)
+WP -- Penny B
+T -- 2:41
+A -- 48583
+     Game of 9/8/2006 -- Los Angeles at New York (N)
+
+  Los Angeles        AB  R  H RBI    New York           AB  R  H RBI
+Furcal R, ss          5  2  2  1   Reyes J, ss           3  0  0  0   
+Lofton K, cf          5  0  2  1   Lo Duca P, c          4  0  1  0   
+Garciaparra N, 1b     4  2  2  1   Beltran C, cf         2  0  0  0   
+Drew J, rf            4  0  0  0   Delgado C, 1b         4  0  0  0   
+Kent J, 2b            3  0  1  0   Wright D, 3b          3  0  2  0   
+Saito T, p            0  0  0  0   Green S, rf           3  0  1  0   
+Anderson M, lf        4  0  1  0   Woodward C, 2b        3  0  0  0   
+Tomko B, p            0  0  0  0   Milledge L, lf        3  0  0  0   
+Broxton J, p          0  0  0  0   Maine J, p            1  0  0  0   
+Lugo J, 2b            0  0  0  0   Oliver D, p           0  0  0  0   
+Betemit W, 3b         4  0  0  0   Valentin J, ph        1  0  0  0   
+Martin R, c           4  1  1  0   Bell H, p             0  0  0  0   
+Kuo H, p              2  0  0  0   Ledee R, ph           0  0  0  0   
+Repko J, lf           1  0  0  0   Bradford C, p         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5  9  3                        27  0  4  0
+
+Los Angeles      200 021 000 --  5
+New York         000 000 000 --  0
+
+  Los Angeles          IP  H  R ER BB SO
+Kuo H (W)             6.0  3  0  0  3  7
+Tomko B               1.0  1  0  0  0  0
+Broxton J             1.0  0  0  0  1  0
+Saito T               1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Maine J (L)           5.0  6  4  2  3  4
+Oliver D              1.0  2  1  1  1  0
+Bell H                2.0  0  0  0  0  1
+Bradford C            1.0  1  0  0  0  1
+
+E -- Wright D, Green S
+DP -- Los Angeles 3
+LOB -- Los Angeles 9, New York 4
+2B -- Martin R, Lofton K, Wright D
+HR -- Furcal R, Garciaparra N
+CS -- Reyes J
+SH -- Kuo H
+T -- 2:26
+A -- 52077
+     Game of 9/9/2006 -- Los Angeles at New York (D)
+
+  Los Angeles        AB  R  H RBI    New York           AB  R  H RBI
+Furcal R, ss          3  0  1  0   Reyes J, ss           4  0  1  0   
+Lofton K, cf          3  1  1  1   Valentin J, 2b        4  1  1  0   
+Garciaparra N, 1b     4  0  0  0   Beltran C, cf         2  1  0  0   
+Drew J, rf            4  0  1  1   Delgado C, 1b         4  1  1  1   
+Kent J, 2b            4  0  1  0   Wright D, 3b          3  0  3  2   
+Repko J, pr           0  0  0  0   Green S, rf           3  0  0  0   
+Ethier A, lf          2  0  0  0   Floyd C, lf           3  0  0  0   
+Saenz O, ph           1  0  0  0   Chavez E, lf          0  0  0  0   
+Betemit W, 3b         3  0  0  0   Stinnett K, c         3  0  1  0   
+Martin R, c           3  1  1  0   Hernandez O, p        1  0  0  0   
+Maddux G, p           2  0  0  0   Milledge L, ph        1  0  0  0   
+Hamulack T, p         0  0  0  0   Heilman A, p          0  0  0  0   
+Tomko B, p            0  0  0  0   Wagner B, p           0  0  0  0   
+Anderson M, ph        1  0  0  0                                      
+Beimel J, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  2  5  2                        28  3  7  3
+
+Los Angeles      000 002 000 --  2
+New York         010 002 00x --  3
+
+  Los Angeles          IP  H  R ER BB SO
+Maddux G (L)          5.1  5  3  3  1  3
+Hamulack T            0.1  0  0  0  0  0
+Tomko B               0.1  1  0  0  0  1
+Beimel J              2.0  1  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Hernandez O (W)       7.0  4  2  1  1  6
+Heilman A             1.0  0  0  0  0  0
+Wagner B (S)          1.0  1  0  0  0  1
+
+E -- Reyes J, Kent J
+DP -- Los Angeles 2, New York 1
+LOB -- Los Angeles 4, New York 4
+2B -- Furcal R, Wright D, Valentin J, Reyes J
+HR -- Delgado C
+SB -- Reyes J
+CS -- Milledge L, Repko J
+SH -- Lofton K, Hernandez O, Furcal R
+T -- 2:25
+A -- 47062
+     Game of 9/10/2006 -- Los Angeles at New York (D)
+
+  Los Angeles        AB  R  H RBI    New York           AB  R  H RBI
+Furcal R, ss          4  2  3  1   Reyes J, ss           3  1  1  1   
+Martinez R, ph-2b     1  0  0  0   Oliver D, p           0  0  0  0   
+Lofton K, cf          4  1  1  3   Ledee R, ph           1  0  0  0   
+Kemp M, cf            1  0  0  0   Bradford C, p         0  0  0  0   
+Garciaparra N, 1b     3  1  2  4   Chavez E, cf          4  0  1  0   
+Loney J, 1b           1  0  1  0   Lo Duca P, c          3  0  0  0   
+Drew J, rf            3  0  1  0   Franco J, 3b          1  0  0  0   
+Repko J, rf           1  0  0  0   Delgado C, 1b         3  0  0  0   
+Kent J, 2b            4  1  1  0   Green S, 1b           1  0  0  0   
+Lugo J, 2b-ss         1  0  0  0   Wright D, 3b          1  0  0  0   
+Anderson M, lf        3  0  0  0   DiFelice M, c         1  0  0  0   
+Young D, lf           1  0  0  0   Valentin J, 2b        3  0  1  0   
+Betemit W, 3b         4  1  1  1   Tucker M, rf          2  0  0  0   
+Martin R, c           2  2  1  0   Milledge L, lf        3  0  0  0   
+Hall T, ph-c          2  0  1  0   Trachsel S, p         0  0  0  0   
+Stults E, p           2  1  1  0   Ring R, p             0  0  0  0   
+Saenz O, ph           1  0  1  0   Woodward C, ph        0  0  0  0   
+Dessens E, p          0  0  0  0   Bannister B, p        0  0  0  0   
+Hendrickson M, p      0  0  0  0   Hernandez A, ph-ss    2  0  0  0   
+Robles O, ph          1  0  0  0                                      
+Sele A, p             0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  9 14  9                        28  1  3  1
+
+Los Angeles      004 113 000 --  9
+New York         000 001 000 --  1
+
+  Los Angeles          IP  H  R ER BB SO
+Stults E (W)          6.0  2  1  1  2  3
+Dessens E             1.0  1  0  0  2  2
+Hendrickson M         1.0  0  0  0  0  0
+Sele A                1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Trachsel S (L)        2.2  5  4  4  2  1
+Ring R                0.1  0  0  0  0  0
+Bannister B           3.0  6  5  5  2  1
+Oliver D              2.0  2  0  0  0  2
+Bradford C            1.0  1  0  0  0  1
+
+DP -- Los Angeles 2
+LOB -- Los Angeles 9, New York 4
+3B -- Lofton K, Kent J
+HR -- Garciaparra N, Reyes J
+SB -- Martin R, Furcal R
+SH -- Stults E
+SF -- Betemit W
+T -- 2:50
+A -- 48760
+     Game of 9/18/2006 -- Florida at New York (N)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Ramirez H, ss         4  0  0  0   Reyes J, ss           4  0  2  0   
+Uggla D, 2b           4  0  0  0   Lo Duca P, c          4  0  0  0   
+Cabrera M, 3b         3  0  1  0   Beltran C, cf         3  1  1  0   
+Willingham J, lf      4  0  1  0   Delgado C, 1b         4  0  0  0   
+Jacobs M, 1b          3  0  1  0   Wright D, 3b          4  0  1  0   
+Ross C, rf            3  0  0  0   Floyd C, lf           4  0  1  1   
+Amezaga A, cf         3  0  0  0   Green S, rf           2  1  0  0   
+Olivo M, c            3  0  1  0   Valentin J, 2b        3  2  2  3   
+Moehler B, p          1  0  0  0   Trachsel S, p         2  0  1  0   
+Wood J, ph            1  0  0  0   Mota G, p             0  0  0  0   
+Pinto R, p            0  0  0  0   Ledee R, ph           1  0  0  0   
+Messenger R, p        0  0  0  0   Heilman A, p          0  0  0  0   
+Borchard J, ph        1  0  0  0   Wagner B, p           0  0  0  0   
+Resop C, p            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  4  0                        31  4  8  4
+
+Florida          000 000 000 --  0
+New York         002 011 00x --  4
+
+  Florida              IP  H  R ER BB SO
+Moehler B (L)         5.0  5  3  3  0  4
+Pinto R               1.0  1  1  0  1  1
+Messenger R           1.0  1  0  0  0  1
+Resop C               1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Trachsel S (W)        6.1  3  0  0  1  3
+Mota G                0.2  0  0  0  0  0
+Heilman A             1.0  1  0  0  0  1
+Wagner B              1.0  0  0  0  0  0
+
+E -- Moehler B, Cabrera M
+DP -- Florida 1, New York 1
+LOB -- Florida 4, New York 5
+2B -- Willingham J, Beltran C
+HR -- Valentin J 2
+CS -- Reyes J
+HBP -- by Moehler B (Green S)
+T -- 2:29
+A -- 46729
+     Game of 9/19/2006 -- Florida at New York (N)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Ramirez H, ss         4  0  0  0   Hernandez A, ss       3  2  2  1   
+Uggla D, 2b           4  0  0  0   Chavez E, cf          3  1  1  0   
+Cabrera M, 3b         4  0  0  0   Milledge L, lf        3  0  1  1   
+Willingham J, lf      2  1  1  0   Franco J, 3b          3  0  1  0   
+Reed E, cf            0  0  0  0   Tucker M, 1b          4  0  2  1   
+Helms W, 1b           4  1  1  2   Woodward C, 2b        3  0  1  0   
+Ross C, rf            4  0  0  0   Valentin J, ph-2b     1  0  0  0   
+Olivo M, c            4  0  2  0   Ledee R, rf           4  0  0  0   
+Abercrombie R, pr     0  0  0  0   DiFelice M, c         3  0  0  0   
+Amezaga A, cf-lf      3  0  1  0   Glavine T, p          2  0  0  0   
+Aguila C, ph          1  0  0  0   Reyes J, ph           1  0  0  0   
+Olsen S, p            3  0  0  0   Wagner B, p           0  0  0  0   
+Resop C, p            0  0  0  0                                      
+Herges M, p           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  5  2                        30  3  8  3
+
+Florida          020 000 000 --  2
+New York         001 000 02x --  3
+
+  Florida              IP  H  R ER BB SO
+Olsen S               7.0  5  1  1  2  6
+Resop C (L)           0.1  2  2  2  2  0
+Herges M              0.2  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Glavine T (W)         8.0  4  2  2  2  3
+Wagner B (S)          1.0  1  0  0  0  3
+
+E -- Woodward C
+DP -- Florida 2
+LOB -- Florida 6, New York 7
+2B -- Woodward C, Olivo M
+HR -- Helms W, Hernandez A
+T -- 2:25
+A -- 42407
+     Game of 9/20/2006 -- Florida at New York (N)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Ramirez H, ss         5  1  1  1   Reyes J, ss           5  2  2  0   
+Uggla D, 2b           4  0  0  0   Lo Duca P, c          4  1  3  1   
+Willingham J, lf      4  0  2  0   Stinnett K, c         0  0  0  0   
+Reed E, pr-cf         0  0  0  0   Delgado C, 1b         4  0  0  1   
+Helms W, 3b           4  0  1  0   Wright D, 3b          4  0  1  0   
+Ross C, rf            5  0  1  0   Valentin J, 2b        2  0  0  1   
+Jacobs M, 1b          3  1  0  0   Milledge L, lf        3  0  0  0   
+Abercrombie R, pr     0  0  0  0   Green S, rf           3  0  1  0   
+Wood J, 1b            0  0  0  0   Chavez E, cf          4  0  0  0   
+Treanor M, c          5  1  2  1   Perez O, p            2  0  0  0   
+Amezaga A, cf-lf      3  1  1  0   Bradford C, p         0  0  0  0   
+Willis D, p           4  2  3  3   Feliciano P, p        0  0  0  0   
+Borowski J, p         0  0  0  0   Woodward C, ph        1  0  0  0   
+                                   Hernandez R, p        0  0  0  0   
+                                   Bell H, p             0  0  0  0   
+                                   Tucker M, ph          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  6 11  5                        32  3  7  3
+
+Florida          000 013 020 --  6
+New York         100 002 000 --  3
+
+  Florida              IP  H  R ER BB SO
+Willis D (W)          8.1  7  3  3  3  4
+Borowski J (S)        0.2  0  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Perez O (L)           5.1  5  3  3  3  6
+Bradford C            1.0  3  1  1  1  1
+Feliciano P           0.2  0  0  0  0  0
+Hernandez R           1.0  3  2  2  1  0
+Bell H                1.0  0  0  0  1  0
+
+DP -- Florida 1
+LOB -- Florida 11, New York 7
+2B -- Reyes J, Treanor M, Lo Duca P
+HR -- Willis D 2
+SB -- Wright D, Ramirez H
+CS -- Amezaga A
+SF -- Valentin J
+HBP -- by Perez O (Helms W)
+WP -- Perez O, Hernandez R
+PB -- Treanor M
+T -- 3:04
+A -- 37911
+     Game of 9/21/2006 -- Florida at New York (N)
+
+  Florida            AB  R  H RBI    New York           AB  R  H RBI
+Ramirez H, ss         4  0  1  2   Reyes J, ss           4  0  0  0   
+Andino R, ss          1  0  0  0   Chavez E, cf          4  1  2  1   
+Uggla D, 2b           4  0  0  0   Green S, rf           4  0  0  0   
+Willingham J, lf      4  0  1  0   Delgado C, 1b         3  0  3  1   
+Reed E, pr-cf         0  1  0  0   Wright D, 3b          3  0  1  0   
+Jacobs M, 1b          3  1  2  0   Floyd C, lf           4  0  0  0   
+Tankersley T, p       0  0  0  0   Valentin J, 2b        4  0  1  0   
+Borowski J, p         0  0  0  0   Stinnett K, c         3  0  0  0   
+Helms W, 3b           4  0  2  1   Franco J, ph          1  0  0  0   
+Borchard J, rf        2  1  1  0   Martinez P, p         1  0  0  0   
+Ross C, ph-rf         2  0  0  0   Ledee R, ph           1  1  0  0   
+Amezaga A, cf-lf      3  1  0  0   Feliciano P, p        0  0  0  0   
+Olivo M, c            4  1  1  2   Bradford C, p         0  0  0  0   
+Sanchez A, p          3  0  0  0   Tucker M, ph          1  0  0  0   
+Wood J, 1b            1  0  1  0   Oliver D, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5  9  5                        33  2  7  2
+
+Florida          000 040 010 --  5
+New York         000 110 000 --  2
+
+  Florida              IP  H  R ER BB SO
+Sanchez A (W)         7.0  7  2  1  1  5
+Tankersley T          1.0  0  0  0  1  1
+Borowski J (S)        1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Martinez P (L)        5.0  4  4  3  1  7
+Feliciano P           1.0  2  0  0  0  1
+Bradford C            1.0  0  0  0  0  1
+Oliver D              2.0  3  1  1  0  3
+
+E -- Green S, Ramirez H, Valentin J
+DP -- Florida 1, New York 1
+LOB -- Florida 5, New York 6
+2B -- Ramirez H, Helms W
+HBP -- by Martinez P (Amezaga A)
+WP -- Sanchez A, Tankersley T
+Balk -- Sanchez A
+T -- 2:35
+A -- 44966
+     Game of 9/22/2006 -- Washington at New York (N)
+
+  Washington         AB  R  H RBI    New York           AB  R  H RBI
+Soriano A, lf         4  1  1  0   Chavez E, cf          5  0  3  1   
+Lopez F, ss           5  1  1  1   Valentin J, 2b        4  0  0  0   
+Zimmerman R, 3b       4  0  1  1   Delgado C, 1b         3  0  0  0   
+Johnson N, 1b         4  0  1  0   Wright D, 3b          4  0  1  0   
+Kearns A, rf          2  1  1  1   Floyd C, lf           4  0  2  0   
+Vidro J, 2b           3  0  1  0   Green S, rf           4  0  1  0   
+Schneider B, c        4  0  0  0   Woodward C, ss        4  1  1  0   
+Logan N, cf           4  0  1  0   DiFelice M, c         0  0  0  0   
+Astacio P, p          3  0  0  0   Tucker M, ph          1  0  0  0   
+Rivera S, p           0  0  0  0   Stinnett K, c         0  0  0  0   
+Rauch J, p            0  0  0  0   Reyes J, ph           1  0  0  0   
+Castro B, ph          1  0  0  0   Hernandez O, p        1  0  0  0   
+Cordero C, p          0  0  0  0   Ledee R, ph           1  1  1  1   
+                                   Mota G, p             0  0  0  0   
+                                   Heilman A, p          0  0  0  0   
+                                   Franco J, ph          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  3  7  3                        33  2  9  2
+
+Washington       002 001 000 --  3
+New York         000 010 100 --  2
+
+  Washington           IP  H  R ER BB SO
+Astacio P (W)         6.1  9  2  2  2  4
+Rivera S              0.2  0  0  0  1  1
+Rauch J               1.0  0  0  0  0  1
+Cordero C (S)         1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Hernandez O (L)       7.0  6  3  3  1  8
+Mota G                1.0  1  0  0  1  0
+Heilman A             1.0  0  0  0  0  0
+
+E -- DiFelice M
+DP -- Washington 2
+LOB -- Washington 8, New York 8
+2B -- Johnson N, Soriano A, Woodward C, Vidro J
+HR -- Kearns A, Ledee R
+SB -- Soriano A, Lopez F, Chavez E
+SH -- Hernandez O
+HBP -- by Hernandez O (Soriano A), by Hernandez O (Kearns A)
+T -- 2:51
+A -- 42788
+     Game of 9/23/2006 -- Washington at New York (D)
+
+  Washington         AB  R  H RBI    New York           AB  R  H RBI
+Lopez F, ss           5  1  1  0   Reyes J, ss           3  1  3  3   
+Johnson N, 1b         3  1  0  0   Wagner B, p           0  0  0  0   
+Fick R, 1b            1  0  0  1   Chavez E, cf          5  1  1  1   
+Soriano A, lf         4  2  2  1   Lo Duca P, c          5  1  2  1   
+Zimmerman R, 3b       4  1  1  0   Wright D, 3b          5  3  3  3   
+Castro B, ph          1  0  1  0   Franco J, 1b          5  1  2  1   
+Kearns A, rf          2  0  0  1   Green S, rf           4  1  2  0   
+Lombard G, rf         1  0  0  0   Milledge L, lf        5  2  2  2   
+Vidro J, 2b           3  0  1  2   Woodward C, 2b        5  2  2  1   
+Schneider B, c        2  0  0  1   Maine J, p            1  0  0  0   
+Logan N, cf           4  0  1  0   Valentin J, ph        1  0  0  0   
+O'Connor M, p         1  0  0  0   Ring R, p             0  0  0  0   
+Wagner R, p           0  0  0  0   Ledee R, ph           0  0  0  0   
+Mateo H, ph           1  0  0  0   Mota G, p             0  0  0  0   
+Schroder C, p         0  0  0  0   Tucker M, ph          0  0  0  0   
+Rodriguez F, p        0  0  0  0   Heilman A, p          0  0  0  0   
+Bergmann J, p         0  0  0  0   Hernandez A, ph-ss    1  0  0  0   
+Dorta M, ph           1  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  6  8  6                        40 12 17 12
+
+Washington       000 130 101 --  6
+New York         000 060 33x -- 12
+
+  Washington           IP  H  R ER BB SO
+O'Connor M (L)        4.2  8  6  6  1  5
+Wagner R              0.1  2  0  0  0  0
+Schroder C            1.0  0  0  0  2  2
+Rodriguez F           1.0  3  3  3  2  0
+Bergmann J            1.0  4  3  3  0  2
+
+  New York             IP  H  R ER BB SO
+Maine J (W)           5.0  3  4  4  5  7
+Ring R                1.0  1  0  0  0  0
+Mota G                1.0  1  1  1  0  2
+Heilman A             1.0  0  0  0  0  1
+Wagner B              1.0  3  1  1  0  1
+
+DP -- Washington 1
+LOB -- Washington 8, New York 9
+2B -- Lo Duca P, Zimmerman R, Green S, Woodward C, Logan N, Reyes J, Franco J, Milledge L, Dorta M
+3B -- Wright D
+HR -- Wright D, Soriano A, Lo Duca P
+SB -- Lopez F, Chavez E, Reyes J
+SH -- O'Connor M
+HBP -- by Maine J (Kearns A), by Maine J (Soriano A)
+WP -- Maine J
+T -- 3:14
+A -- 45247
+     Game of 9/24/2006 -- Washington at New York (D)
+
+  Washington         AB  R  H RBI    New York           AB  R  H RBI
+Castro B, 2b          1  1  0  0   Reyes J, ss           3  0  1  0   
+Lopez F, ss           5  0  2  1   Chavez E, cf          4  0  0  0   
+Soriano A, lf         3  1  1  1   Green S, rf           4  0  1  0   
+Zimmerman R, 3b       4  0  2  1   Delgado C, 1b         4  0  0  0   
+Fick R, 1b            4  0  1  0   Floyd C, lf           3  0  1  0   
+Church R, cf          4  1  2  0   Valentin J, 2b        4  1  1  1   
+Rivera S, p           0  0  0  0   Woodward C, 3b        4  0  0  0   
+Lombard G, rf         4  0  1  0   Stinnett K, c         2  0  0  0   
+Harper B, c           3  1  1  0   Tucker M, ph          0  0  0  0   
+Armas T, p            2  0  0  0   DiFelice M, c         0  0  0  0   
+Mateo H, ph           1  1  1  1   Trachsel S, p         2  0  1  0   
+Traber B, p           0  0  0  0   Feliciano P, p        0  0  0  0   
+Rauch J, p            0  0  0  0   Oliver D, p           0  0  0  0   
+Logan N, ph-cf        1  0  0  0   Bradford C, p         0  0  0  0   
+                                   Ring R, p             0  0  0  0   
+                                   Ledee R, ph           1  0  0  0   
+                                   Humber P, p           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  5 11  4                        31  1  5  1
+
+Washington       110 001 200 --  5
+New York         000 010 000 --  1
+
+  Washington           IP  H  R ER BB SO
+Armas T (W)           6.0  5  1  1  0  4
+Traber B              1.0  0  0  0  0  1
+Rauch J               1.0  0  0  0  2  0
+Rivera S              1.0  0  0  0  1  2
+
+  New York             IP  H  R ER BB SO
+Trachsel S (L)*       5.0  8  3  3  3  1
+Feliciano P           1.0  0  0  0  0  2
+Oliver D              0.1  3  2  2  0  0
+Bradford C            0.2  0  0  0  0  1
+Ring R                1.0  0  0  0  0  2
+Humber P              1.0  0  0  0  1  1
+  * Pitched to 2 batters in 6th
+
+DP -- New York 2
+LOB -- Washington 6, New York 6
+2B -- Zimmerman R 2, Soriano A, Harper B, Mateo H
+HR -- Valentin J
+SB -- Reyes J 2, Castro B
+CS -- Lopez F, Castro B
+SH -- Castro B
+SF -- Soriano A
+T -- 3:15
+A -- 44543
+     Game of 9/25/2006 -- Washington at New York (N)
+
+  Washington         AB  R  H RBI    New York           AB  R  H RBI
+Castro B, 2b          5  1  1  2   Reyes J, ss           5  0  2  0   
+Lopez F, ss           4  1  2  0   Lo Duca P, c          3  1  0  0   
+Soriano A, lf         4  1  0  0   Beltran C, cf         1  0  0  0   
+Zimmerman R, 3b       5  0  1  3   Wright D, 3b          4  1  1  0   
+Vidro J, 1b           3  1  3  0   Floyd C, lf           4  0  1  1   
+Dorta M, pr           0  1  0  0   Green S, rf           4  1  1  2   
+Wagner R, p           0  0  0  0   Franco J, 1b          4  0  1  0   
+Mateo H, ph           1  0  0  0   Valentin J, 2b        3  0  0  0   
+Cordero C, p          0  0  0  0   Glavine T, p          1  0  0  0   
+Schneider B, c        5  1  4  0   Hernandez R, p        0  0  0  0   
+Logan N, cf           5  1  2  1   Tucker M, ph          0  0  0  0   
+Church R, rf          3  0  0  0   Feliciano P, p        0  0  0  0   
+Perez B, p            3  0  1  0   Mota G, p             0  0  0  0   
+Traber B, p           0  0  0  0   Williams D, p         0  0  0  0   
+Fick R, ph-1b         0  0  0  0   Ledee R, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  7 14  6                        30  3  6  3
+
+Washington       003 001 030 --  7
+New York         011 000 010 --  3
+
+  Washington           IP  H  R ER BB SO
+Perez B (W)           6.1  4  2  2  6  2
+Traber B              0.2  0  0  0  0  0
+Wagner R              1.0  2  1  1  0  0
+Cordero C             1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Glavine T (L)         6.0  8  4  3  3  6
+Hernandez R           1.0  1  0  0  0  1
+Feliciano P           0.1  3  3  3  1  0
+Mota G                0.2  1  0  0  0  1
+Williams D            1.0  1  0  0  0  0
+
+E -- Lo Duca P
+DP -- Washington 1, New York 1
+LOB -- Washington 9, New York 7
+2B -- Vidro J 2, Zimmerman R, Logan N, Floyd C
+HR -- Green S
+SB -- Reyes J 2, Castro B, Schneider B
+CS -- Schneider B, Zimmerman R, Franco J
+SH -- Glavine T, Church R
+PB -- Lo Duca P
+T -- 2:59
+A -- 34027
+

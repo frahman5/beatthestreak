@@ -1,0 +1,2961 @@
+     Game of 4/26/1995 -- Texas at New York (D)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Nixon O, cf           4  1  2  2   Boggs W, 3b           4  1  1  1   
+Frye J, 2b            5  1  1  0   Leyritz J, dh         5  1  2  0   
+Clark W, 1b           4  0  1  2   O'Neill P, lf-rf      3  1  1  0   
+Tettleton M, dh       4  0  1  0   Tartabull D, rf       3  1  2  3   
+Hare S, pr            0  0  0  0   Williams G, pr-lf     0  0  0  0   
+Rodriguez I, c        4  0  1  0   Mattingly D, 1b       5  0  0  1   
+Palmer D, 3b          2  1  0  0   Stanley M, c          4  0  2  1   
+Greer R, rf           3  1  2  0   Williams B, cf        3  1  1  1   
+Fox E, ph-rf          0  0  0  0   Fernandez T, ss       4  2  2  0   
+Hatcher B, lf         2  1  1  0   Kelly P, 2b           4  1  3  0   
+McLemore M, ph-lf     2  1  1  2                                      
+Gil B, ss             2  0  0  0                                      
+Pagliarulo M, ph      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  6 10  6                        35  8 14  7
+
+Texas            001 002 300 --  6
+New York         013 102 01x --  8
+
+  Texas                IP  H  R ER BB SO
+Rogers K (L)          3.0  5  4  4  2  3
+Dettmer J             0.1  2  1  1  0  0
+Burrows T             2.1  5  2  2  1  1
+Whiteside M           2.0  1  1  1  1  2
+Oliver D*             0.0  0  0  0  1  0
+McDowell R            0.1  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Key J (W)+            5.0  7  3  3  0  3
+Wickman B             2.0  2  3  3  0  0
+Howe S                1.0  1  0  0  2  1
+Wetteland J (S)       1.0  0  0  0  0  1
+  * Pitched to 1 batter in 8th
+  + Pitched to 3 batters in 6th
+
+E -- Greer R
+DP -- Texas 3, New York 1
+LOB -- Texas 5, New York 9
+2B -- Rodriguez I, Hatcher B, Frye J, Fernandez T, Greer R
+HR -- Tartabull D, Williams B
+CS -- Nixon O
+SH -- Gil B, Nixon O
+SF -- Boggs W
+HBP -- by Wickman B (Palmer D)
+WP -- Wickman B, Oliver D
+T -- 3:10
+A -- 50425
+     Game of 5/1/1995 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Alicea L, 2b          4  0  1  0   Polonia L, lf         4  0  0  0   
+Valentin J, ss        3  0  1  0   Boggs W, 3b           4  0  0  0   
+Canseco J, dh         3  0  1  0   O'Neill P, rf         4  3  3  1   
+Vaughn M, 1b          4  0  0  0   Tartabull D, dh       4  0  2  0   
+Whiten M, rf          4  1  2  0   Mattingly D, 1b       3  1  2  1   
+Greenwell M, lf       4  1  1  0   Leyritz J, c          4  1  1  1   
+MacFarlane M, c       4  1  1  3   Williams B, cf        4  0  1  1   
+Naehring T, 3b        4  0  1  0   Fernandez T, ss       3  0  1  0   
+Tinsley L, cf         3  0  1  0   Kelly P, 2b           4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  9  3                        34  5 11  4
+
+Boston           000 300 000 --  3
+New York         101 010 02x --  5
+
+  Boston               IP  H  R ER BB SO
+Sele A                5.0  8  3  2  1  3
+Johnston J            1.0  0  0  0  0  1
+Lilliquist D (L)*     1.0  1  1  1  0  0
+Pierce J              1.0  2  1  1  0  1
+
+  New York             IP  H  R ER BB SO
+Key J                 7.0  8  3  3  0  6
+Wickman B             0.1  1  0  0  1  0
+Howe S (W)            1.0  0  0  0  0  0
+Wetteland J (S)       0.2  0  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+E -- Valentin J
+DP -- Boston 1, New York 2
+LOB -- Boston 5, New York 7
+2B -- O'Neill P, Mattingly D, Leyritz J
+HR -- O'Neill P, MacFarlane M
+SH -- Valentin J
+SF -- Mattingly D
+T -- 2:30
+A -- 17412
+     Game of 5/2/1995 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Alicea L, 2b          3  2  0  0   Williams B, cf        4  0  1  0   
+Valentin J, ss        3  2  1  4   Velarde R, 3b         3  0  1  0   
+Vaughn M, 1b          5  1  1  4   James D, ph           1  0  0  0   
+Canseco J, dh         1  0  1  0   Leyritz J, c          4  0  0  0   
+Chamberlain W, pr     2  0  0  0   Tartabull D, rf       3  0  0  0   
+Jefferson R, ph       2  0  0  0   Stanley M, dh         3  0  0  0   
+Whiten M, rf          4  0  1  0   Mattingly D, 1b       3  0  0  0   
+Greenwell M, lf       4  0  1  0   Fernandez T, ss       2  0  0  0   
+MacFarlane M, c       3  0  0  0   Silvestri D, ss       0  0  0  0   
+Naehring T, 3b        4  1  1  0   Williams G, lf        2  0  1  0   
+Tinsley L, cf         4  2  2  0   Polonia L, ph-lf      1  0  0  0   
+                                   Kelly P, 2b           2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  8  8  8                        28  0  3  0
+
+Boston           004 400 000 --  8
+New York         000 000 000 --  0
+
+  Boston               IP  H  R ER BB SO
+Eshelman V (W)        6.0  3  0  0  2  1
+Johnston J            2.0  0  0  0  0  2
+Ryan K                1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Hitchcock S (L)       2.2  6  4  4  2  0
+Boehringer B          3.1  2  4  4  2  3
+Ausanio J             2.0  0  0  0  0  4
+Patterson J           1.0  0  0  0  0  1
+
+DP -- Boston 2
+LOB -- Boston 5, New York 3
+2B -- Tinsley L
+3B -- Williams G
+HR -- Valentin J, Vaughn M
+SB -- Canseco J
+HBP -- by Boehringer B (Valentin J)
+WP -- Boehringer B
+T -- 2:25
+A -- 13694
+     Game of 5/3/1995 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Alicea L, 2b          4  1  1  0   Boggs W, 3b           6  1  2  0   
+Valentin J, ss        5  1  1  2   Leyritz J, c          6  1  3  0   
+Vaughn M, 1b          3  0  0  0   O'Neill P, lf-rf      4  0  2  2   
+Whiten M, rf          6  0  0  0   Tartabull D, rf       5  1  2  0   
+Greenwell M, lf       6  0  0  0   Velarde R, 2b         1  0  1  0   
+MacFarlane M, c       4  0  1  0   Williams G, pr        0  1  0  0   
+Shumpert T, pr        0  0  0  0   Mattingly D, 1b       5  0  2  1   
+Rowland R, c          2  0  0  0   Stanley M, dh         5  0  1  0   
+Jefferson R, dh       3  0  0  0   Williams B, cf        5  0  1  1   
+Chamberlain W, ph     1  0  1  0   Fernandez T, ss       5  0  1  0   
+O'Leary T, ph         1  0  1  0   Kelly P, 2b           3  0  1  0   
+Naehring T, 3b        5  1  1  0   Polonia L, ph-lf      2  0  0  0   
+Tinsley L, cf         4  0  2  1                                      
+                     -- -- -- --                        -- -- -- --
+                     44  3  8  3                        47  4 16  4
+
+Boston           002 010 000 000 0 --  3
+New York         002 001 000 000 1 --  4
+  1 out when winning run was scored.
+
+  Boston               IP  H  R ER BB SO
+Cormier R             5.1  8  3  3  0  2
+Pena A                2.0  3  0  0  0  1
+Lilliquist D          0.2  0  0  0  0  0
+Ryan K                2.0  2  0  0  1  1
+Pierce J (L)*         2.0  3  1  1  3  0
+Hartley M             0.1  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+McDowell J            8.0  4  3  3  3  5
+Howe S                0.2  2  0  0  0  0
+Wetteland J           1.1  1  0  0  1  2
+Wickman B (W)         3.0  1  0  0  2  2
+  * Pitched to 3 batters in 13th
+
+E -- Naehring T, Rowland R
+DP -- Boston 4, New York 1
+LOB -- Boston 9, New York 11
+2B -- O'Neill P, Naehring T, Tinsley L 2, Mattingly D, Velarde R
+HR -- Valentin J
+SB -- Alicea L 2, Vaughn M, Tinsley L
+CS -- Mattingly D, O'Neill P
+SH -- Alicea L
+SF -- Williams B
+T -- 4:06
+A -- 19990
+     Game of 5/4/1995 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+Alicea L, 2b          3  0  0  0   Polonia L, lf         3  0  0  0   
+O'Leary T, ph         1  0  0  0   Velarde R, ph-lf      1  0  0  0   
+Valentin J, ss        3  1  0  0   Williams G, lf        0  0  0  0   
+Vaughn M, 1b          3  1  1  2   Boggs W, 3b           4  2  2  0   
+Whiten M, rf          4  0  0  0   O'Neill P, rf         4  1  2  1   
+Greenwell M, lf       3  0  2  0   Tartabull D, dh       4  0  1  1   
+MacFarlane M, c       4  0  0  0   Mattingly D, 1b       4  1  2  2   
+Jefferson R, dh       4  0  1  0   Stanley M, c          3  1  1  0   
+Naehring T, 3b        3  1  1  1   Williams B, cf        4  0  0  0   
+Tinsley L, cf         4  0  1  0   Fernandez T, ss       3  0  2  1   
+                                   Kelly P, 2b           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  6  3                        33  5 10  5
+
+Boston           200 100 000 --  3
+New York         101 000 03x --  5
+
+  Boston               IP  H  R ER BB SO
+Hanson E              6.1  7  2  1  0  6
+Lilliquist D*         0.2  1  1  1  0  0
+Johnston J (L)        0.1  1  2  2  1  1
+Pena A                0.2  1  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Perez M               7.0  5  3  3  3  6
+Howe S                0.2  1  0  0  0  0
+Ausanio J (W)         0.1  0  0  0  0  0
+Wetteland J (S)       1.0  0  0  0  1  1
+  * Pitched to 1 batter in 8th
+
+E -- Vaughn M, Kelly P
+DP -- Boston 1, New York 2
+LOB -- Boston 7, New York 7
+2B -- Greenwell M, Tartabull D, Stanley M
+HR -- Vaughn M, Naehring T, O'Neill P, Mattingly D
+SB -- Boggs W, Fernandez T 2
+CS -- O'Neill P, Greenwell M
+SH -- Kelly P
+HBP -- by Hanson E (Fernandez T), by Perez M (Vaughn M)
+PB -- MacFarlane M
+T -- 3:01
+A -- 18994
+     Game of 5/5/1995 -- Milwaukee at New York (N)
+
+  Milwaukee          AB  R  H RBI    New York           AB  R  H RBI
+Listach P, 2b         5  0  1  0   Polonia L, lf         4  0  0  1   
+Hamilton D, cf        4  1  1  0   Boggs W, 3b           4  0  2  1   
+Seitzer K, 3b         5  0  0  0   O'Neill P, rf         4  1  2  1   
+Vaughn G, dh          4  2  2  2   Tartabull D, dh       3  0  0  0   
+May D, lf             4  0  1  0   Mattingly D, 1b       1  0  1  0   
+Jaha J, 1b            4  0  1  1   Leyritz J, 1b         2  1  0  0   
+Ward T, rf            3  1  1  0   Stanley M, c          3  2  2  2   
+Oliver J, c           4  0  2  1   Williams B, cf        4  1  1  0   
+Valentin J, ss        3  0  0  0   Fernandez T, ss       4  0  1  0   
+Surhoff B, ph         0  0  0  0   Kelly P, 2b           1  1  0  1   
+                     -- -- -- --                        -- -- -- --
+                     36  4  9  4                        30  6  9  6
+
+Milwaukee        000 100 021 --  4
+New York         101 202 00x --  6
+
+  Milwaukee            IP  H  R ER BB SO
+Wegman B (L)          5.0  5  4  4  4  0
+Sparks S              3.0  4  2  2  1  4
+
+  New York             IP  H  R ER BB SO
+Kamieniecki S         1.0  0  0  0  0  0
+Bankhead S (W)        4.0  3  1  1  2  2
+Wickman B             3.0  4  2  2  0  2
+Wetteland J (S)       1.0  2  1  1  1  0
+
+DP -- Milwaukee 1
+LOB -- Milwaukee 8, New York 7
+2B -- Mattingly D, Vaughn G, Williams B, Oliver J 2
+HR -- O'Neill P, Stanley M, Vaughn G
+SF -- Kelly P, Polonia L
+T -- 2:37
+A -- 15395
+     Game of 5/6/1995 -- Milwaukee at New York (D)
+
+  Milwaukee          AB  R  H RBI    New York           AB  R  H RBI
+Listach P, 2b         4  0  0  0   Polonia L, lf         3  0  0  0   
+Cirillo J, 3b         4  1  1  0   Boggs W, 3b           4  0  3  0   
+Ward T, lf            4  0  0  0   O'Neill P, rf         4  0  1  0   
+Vaughn G, dh          4  1  2  2   Tartabull D, dh       3  1  1  0   
+Oliver J, c           4  0  1  0   Stanley M, c          3  0  0  0   
+Jaha J, 1b            3  0  0  0   Fernandez T, ss       4  0  0  0   
+Surhoff B, 1b         1  1  1  0   Leyritz J, 1b         4  1  1  2   
+Mieske M, rf          4  2  2  0   Williams B, cf        4  0  1  0   
+Hulse D, cf           4  0  3  2   Kelly P, 2b           3  0  1  0   
+Valentin J, ss        2  0  0  1                                      
+                     -- -- -- --                        -- -- -- --
+                     34  5 10  5                        32  2  8  2
+
+Milwaukee        000 110 012 --  5
+New York         000 000 002 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Bones R (W)           7.2  7  0  0  1  6
+Lloyd G (S)           1.1  1  2  2  1  0
+
+  New York             IP  H  R ER BB SO
+Key J (L)             7.0  6  2  2  1  1
+Ausanio J             1.0  1  1  1  0  1
+Pettitte A            1.0  3  2  2  0  0
+
+E -- Williams B
+DP -- Milwaukee 3, New York 1
+LOB -- Milwaukee 5, New York 6
+2B -- Oliver J, Cirillo J, Williams B
+3B -- Mieske M
+HR -- Vaughn G, Leyritz J
+SH -- Valentin J
+SF -- Valentin J
+HBP -- by Bones R (Stanley M)
+WP -- Bones R
+T -- 2:51
+A -- 23580
+     Game of 5/7/1995 -- Milwaukee at New York (D)
+
+  Milwaukee          AB  R  H RBI    New York           AB  R  H RBI
+Listach P, 2b         4  2  1  0   Williams B, cf        5  1  1  0   
+Vina F, 2b            0  0  0  0   Velarde R, 3b         4  0  2  0   
+Cirillo J, 3b         4  2  3  0   Leyritz J, 1b         3  0  2  1   
+Seitzer K, 1b         4  2  2  4   Tartabull D, rf       4  0  0  0   
+Vaughn G, dh          5  1  2  2   Stanley M, c          4  0  0  0   
+Oliver J, c           3  1  0  0   Fernandez T, ss       3  0  0  0   
+Matheny M, c          0  0  0  0   Elster K, ss          1  0  0  0   
+Ward T, lf            4  0  1  1   Silvestri D, dh       2  0  0  0   
+Mieske M, rf          4  1  3  2   James D, ph           1  0  1  0   
+Hulse D, cf           5  0  2  0   Williams G, lf        4  0  1  0   
+Valentin J, ss        5  0  0  0   Kelly P, 2b           2  0  0  0   
+                                   Davis R, ph           0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 14  9                        33  1  7  1
+
+Milwaukee        013 010 040 --  9
+New York         001 000 000 --  1
+
+  Milwaukee            IP  H  R ER BB SO
+Miranda A*            4.0  5  1  1  2  3
+Ignasiak M (W)        4.0  1  0  0  1  4
+Reyes A               1.0  1  0  0  1  3
+
+  New York             IP  H  R ER BB SO
+Hitchcock S (L)+      4.0  9  5  5  2  3
+Ausanio J             2.0  1  0  0  0  2
+Boehringer B          1.2  1  3  3  4  1
+Patterson J           1.1  3  1  1  0  1
+  * Pitched to 1 batter in 5th
+  + Pitched to 3 batters in 5th
+
+E -- Mieske M
+DP -- Milwaukee 2, New York 1
+LOB -- Milwaukee 9, New York 9
+2B -- Williams B, Leyritz J, Hulse D
+HR -- Seitzer K
+SF -- Ward T
+WP -- Miranda A, Boehringer B
+T -- 3:10
+A -- 21821
+     Game of 5/16/1995 -- Cleveland at New York (N)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Kirby W, cf           5  1  1  0   Polonia L, lf         5  0  0  1   
+Vizquel O, ss         5  0  1  2   Fernandez T, ss       5  0  1  1   
+Baerga C, 2b          5  2  2  0   Boggs W, 3b           4  0  0  0   
+Belle A, lf           4  4  3  2   Stanley M, c          4  1  2  1   
+Murray E, 1b          4  0  2  1   Mattingly D, 1b       4  0  2  0   
+Sorrento P, 1b        1  1  1  2   Tartabull D, dh       4  0  0  0   
+Ramirez M, rf         5  1  2  1   James D, rf           1  0  0  0   
+Winfield D, dh        4  0  1  0   Williams G, ph-rf     2  1  1  0   
+Espinoza A, 3b        4  0  1  1   Williams B, cf        2  2  1  1   
+Pena T, c             4  1  1  0   Kelly P, 2b           3  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     41 10 15  9                        34  5  8  5
+
+Cleveland        012 022 102 -- 10
+New York         000 100 202 --  5
+
+  Cleveland            IP  H  R ER BB SO
+Nagy C (W)            5.0  2  1  1  3  1
+Cook D                2.0  2  2  2  1  1
+Plunk E               1.0  2  0  0  0  1
+Mesa J                1.0  2  2  2  1  1
+
+  New York             IP  H  R ER BB SO
+Key J (L)             5.1 11  7  6  2  2
+Bankhead S            2.2  2  1  1  0  0
+Wetteland J           1.0  2  2  2  0  0
+
+E -- Stanley M, Ramirez M
+DP -- Cleveland 1, New York 1
+LOB -- Cleveland 7, New York 7
+2B -- Espinoza A, Baerga C, Murray E, Kirby W, Belle A
+HR -- Belle A, Stanley M, Ramirez M, Williams B, Kelly P, Sorrento P
+SF -- Espinoza A
+WP -- Key J, Nagy C, Bankhead S, Mesa J
+T -- 3:00
+A -- 18246
+     Game of 5/19/1995 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Anderson B, cf-lf     4  2  2  3   Boggs W, 3b           4  0  0  0   
+Bass K, lf-rf         4  0  1  0   Fernandez T, ss       4  0  0  0   
+Palmeiro R, 1b        4  1  2  2   Leyritz J, 1b         4  1  1  0   
+Ripken C, ss          4  0  0  0   Stanley M, c          5  2  2  1   
+Baines H, dh          2  1  1  1   Tartabull D, dh       4  0  0  0   
+Gomez L, ph           1  1  1  0   Williams B, cf        3  0  0  1   
+Hoiles C, c           3  0  0  0   Velarde R, lf         3  1  1  0   
+Obando S, rf          3  0  1  0   Polonia L, ph-lf      1  0  0  0   
+Nokes M, ph           1  0  1  0   Williams G, rf        4  1  1  2   
+Buford D, pr-cf       0  1  0  0   Kelly P, 2b           1  0  0  0   
+Manto J, 3b           4  1  1  1                                      
+Alexander M, 2b       2  0  0  0                                      
+Barberie B, ph-2b     2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  7 10  7                        33  5  5  4
+
+Baltimore        200 001 004 --  7
+New York         022 000 100 --  5
+
+  Baltimore            IP  H  R ER BB SO
+Rhodes A              3.0  4  4  3  3  2
+Moyer J               3.1  1  1  1  3  3
+Mills A (W)           1.2  0  0  0  1  0
+Jones D (S)           1.0  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+McDowell J            8.0  6  3  3  3  9
+Howe S*               0.0  1  1  1  0  0
+Wetteland J (L)       1.0  3  3  3  1  0
+  * Pitched to 1 batter in 9th
+
+E -- Rhodes A, Alexander M 2
+DP -- New York 2
+LOB -- Baltimore 4, New York 8
+HR -- Palmeiro R, Williams G, Baines H, Stanley M, Anderson B
+SB -- Williams B, Kelly P
+CS -- Bass K
+Balk -- Rhodes A
+T -- 3:33
+A -- 18842
+     Game of 5/20/1995 -- Baltimore at New York (D)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Anderson B, cf        5  0  1  0   Williams B, cf        4  2  0  0   
+Bass K, lf            3  0  0  0   Velarde R, lf         4  1  1  1   
+Palmeiro R, 1b        1  1  0  0   Leyritz J, 1b         3  1  1  2   
+Ripken C, ss          4  1  0  0   Stanley M, c          4  1  1  2   
+Baines H, dh          2  0  0  0   Tartabull D, dh       4  0  1  2   
+Gomez L, ph           1  0  0  0   Williams G, rf        3  0  1  0   
+Nokes M, c            3  0  0  1   Fernandez T, ss       4  0  0  0   
+Obando S, rf          3  0  1  0   Davis R, 3b           2  0  0  0   
+Manto J, 3b           4  0  1  1   Boggs W, 3b           1  0  0  0   
+Barberie B, 2b        4  0  1  0   Kelly P, 2b           3  2  2  0   
+                     -- -- -- --                        -- -- -- --
+                     30  2  4  2                        32  7  7  7
+
+Baltimore        000 200 000 --  2
+New York         005 000 20x --  7
+
+  Baltimore            IP  H  R ER BB SO
+Fernandez S (L)       2.1  5  5  5  2  2
+Oquist M              4.2  2  2  2  0  4
+Pennington B          1.0  0  0  0  3  2
+
+  New York             IP  H  R ER BB SO
+Perez M (W)           6.0  4  2  0  5  4
+MacDonald B           1.2  0  0  0  1  2
+Wickman B             1.1  0  0  0  0  0
+
+E -- Fernandez T
+DP -- New York 1
+LOB -- Baltimore 8, New York 6
+2B -- Kelly P, Stanley M, Tartabull D, Leyritz J
+3B -- Williams G
+SB -- Kelly P, Williams G
+SF -- Nokes M
+T -- 2:55
+A -- 25237
+     Game of 5/21/1995 -- Baltimore at New York (D)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Anderson B, lf        4  0  0  0   Polonia L, lf         5  1  3  1   
+Bass K, rf            4  0  0  0   Velarde R, 3b         5  2  2  2   
+Palmeiro R, 1b        4  0  2  0   Boggs W, 1b           3  1  1  0   
+Ripken C, ss          3  0  0  0   Stanley M, dh         3  0  1  1   
+Hoiles C, c           4  0  0  0   James D, rf           4  0  1  1   
+Obando S, dh          3  0  0  0   Williams G, rf        0  0  0  0   
+Manto J, 3b           3  0  2  0   Leyritz J, c          4  0  1  0   
+Barberie B, 2b        3  0  0  0   Williams B, cf        4  0  1  0   
+Buford D, cf          3  0  0  0   Elster K, ss          3  1  0  0   
+                                   Kelly P, 2b           4  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  4  0                        35  5 12  5
+
+Baltimore        000 000 000 --  0
+New York         000 131 00x --  5
+
+  Baltimore            IP  H  R ER BB SO
+McDonald B (L)        5.2 10  5  5  2  2
+Benitez A             2.1  2  0  0  1  3
+
+  New York             IP  H  R ER BB SO
+Hitchcock S (W)       9.0  4  0  0  1  8
+
+LOB -- Baltimore 5, New York 9
+2B -- Leyritz J, Manto J 2, Boggs W, Polonia L
+HR -- Velarde R
+CS -- Kelly P
+T -- 2:47
+A -- 25887
+     Game of 6/2/1995 -- California at New York (N)
+
+  California         AB  R  H RBI    New York           AB  R  H RBI
+Phillips T, lf        3  1  1  0   Boggs W, 3b           4  0  1  0   
+Easley D, 2b          4  0  1  2   Velarde R, 2b-lf      4  1  1  1   
+Salmon T, rf          2  0  0  0   O'Neill P, rf         3  0  0  0   
+Davis C, dh           4  0  1  0   Silvestri D, 2b       0  0  0  0   
+Snow J, 1b            4  0  1  0   James D, ph           1  0  1  1   
+Martinez C, 3b        4  0  1  0   Polonia L, pr         0  0  0  0   
+Edmonds J, cf         3  1  0  0   Stanley M, c          3  0  2  0   
+Allanson A, c         4  0  1  0   Leyritz J, dh         3  0  0  0   
+DiSarcina G, ss       2  1  1  1   Mattingly D, 1b       3  0  0  0   
+                                   Williams B, cf        3  0  0  0   
+                                   Williams G, lf-rf     2  1  0  0   
+                                   Jeter D, ss           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     30  3  7  3                        29  2  5  2
+
+California       101 000 100 --  3
+New York         000 000 002 --  2
+
+  California           IP  H  R ER BB SO
+Finley C (W)          8.2  4  2  2  1  8
+Smith L (S)           0.1  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)        9.0  7  3  3  4  3
+
+DP -- California 2, New York 2
+LOB -- California 5, New York 1
+2B -- Phillips T, DiSarcina G, Velarde R
+CS -- Polonia L
+SF -- DiSarcina G
+T -- 2:24
+A -- 16959
+     Game of 6/3/1995 -- California at New York (D)
+
+  California         AB  R  H RBI    New York           AB  R  H RBI
+Phillips T, lf        3  1  0  0   Polonia L, lf         2  0  1  0   
+Easley D, 2b          2  2  2  2   Tartabull D, ph-rf    2  0  0  0   
+Salmon T, rf          4  0  1  0   Boggs W, 3b           4  0  0  0   
+Davis C, dh           4  0  0  1   O'Neill P, rf-lf      4  0  2  0   
+Snow J, 1b            4  1  1  0   Leyritz J, c          4  0  1  0   
+Edmonds J, cf         4  0  0  0   Mattingly D, 1b       4  0  0  0   
+Owen S, 3b            4  0  0  0   James D, dh           4  0  0  0   
+Allanson A, c         3  0  1  1   Williams B, cf        3  1  2  0   
+Dalesandro M, c       0  0  0  0   Velarde R, 2b         4  1  1  1   
+DiSarcina G, ss       3  0  0  0   Jeter D, ss           4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     31  4  5  4                        35  2  8  2
+
+California       100 021 000 --  4
+New York         000 200 000 --  2
+
+  California           IP  H  R ER BB SO
+Boskie S (W)          5.2  7  2  2  3  2
+Williams M*           0.1  1  0  0  1  1
+Percival T            2.0  0  0  0  0  4
+Smith L (S)           1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+McDowell J (L)        9.0  5  4  3  4  4
+  * Pitched to 2 batters in 7th
+
+E -- O'Neill P
+LOB -- California 6, New York 10
+2B -- Williams B, Jeter D
+HR -- Easley D
+SB -- Phillips T
+CS -- Allanson A
+SH -- Easley D
+HBP -- by McDowell J (Easley D)
+WP -- Boskie S
+T -- 3:04
+A -- 17768
+     Game of 6/4/1995 -- California at New York (D)
+
+  California         AB  R  H RBI    New York           AB  R  H RBI
+Phillips T, lf        4  0  2  1   Williams B, cf        3  1  1  0   
+Hudler R, 2b          5  0  0  0   Velarde R, 3b         4  1  2  0   
+Salmon T, rf          5  0  2  0   O'Neill P, rf         4  2  3  3   
+Davis C, dh           4  1  2  0   James D, ph-lf        0  0  0  0   
+Snow J, 1b            4  1  2  0   Stanley M, c          5  1  1  2   
+Edmonds J, cf         4  0  3  1   Leyritz J, dh         3  2  1  0   
+Owen S, 3b            4  0  1  1   Silvestri D, 1b       4  0  0  0   
+Dalesandro M, c       4  1  1  0   Williams G, lf-rf     5  2  1  1   
+DiSarcina G, ss       4  0  0  0   Jeter D, ss           4  1  2  3   
+                                   Eenhoorn R, 2b        4  1  2  2   
+                     -- -- -- --                        -- -- -- --
+                     38  3 13  3                        36 11 13 11
+
+California       000 010 020 --  3
+New York         821 000 00x -- 11
+
+  California           IP  H  R ER BB SO
+Langston M (L)        0.1  6  8  8  2  0
+Edenfield K           4.2  6  3  3  3  2
+James M               2.0  1  0  0  0  1
+Butcher M             1.0  0  0  0  2  2
+
+  New York             IP  H  R ER BB SO
+Perez M (W)           6.0  8  1  1  1  2
+Wickman B             1.0  0  0  0  1  1
+Howe S                1.0  4  2  2  0  0
+Wetteland J           1.0  1  0  0  0  2
+
+DP -- California 1, New York 2
+LOB -- California 10, New York 8
+2B -- Salmon T, O'Neill P, Jeter D, Eenhoorn R, Edmonds J 2, Williams G, Dalesandro M, Velarde R
+HR -- O'Neill P
+T -- 2:57
+A -- 22833
+     Game of 6/5/1995 -- Oakland at New York (N)
+
+  Oakland            AB  R  H RBI    New York           AB  R  H RBI
+Henderson R, lf       3  2  1  0   Polonia L, lf         5  2  2  1   
+Tomberlin A, cf       1  1  1  0   Boggs W, 3b           5  0  2  0   
+Berroa G, dh          5  1  2  2   O'Neill P, rf         4  1  1  1   
+Sierra R, rf          5  1  2  3   Leyritz J, c          4  0  1  1   
+Javier S, rf          0  0  0  0   Mattingly D, 1b       3  1  1  0   
+McGwire M, 1b         4  2  2  3   Tartabull D, dh       4  1  2  0   
+Steinbach T, c        4  1  1  0   Williams B, cf        4  0  0  0   
+Gates B, 2b           5  0  1  0   Velarde R, 2b         3  0  1  2   
+Brosius S, cf-lf      3  0  0  1   Jeter D, ss           4  0  0  0   
+Paquette C, 3b        5  1  1  0                                      
+Bordick M, ss         4  2  2  2                                      
+                     -- -- -- --                        -- -- -- --
+                     39 11 13 11                        36  5 10  5
+
+Oakland          041 200 130 -- 11
+New York         010 110 200 --  5
+
+  Oakland              IP  H  R ER BB SO
+Darling R (W)         6.0  8  3  3  1  2
+Leiper D              0.1  2  2  2  0  0
+Corsi J               0.2  0  0  0  1  0
+Acre M                2.0  0  0  0  1  2
+
+  New York             IP  H  R ER BB SO
+Hitchcock S (L)*      3.0  7  7  7  3  4
+Bankhead S            3.2  2  1  1  2  4
+Ausanio J             2.1  4  3  3  2  2
+  * Pitched to 2 batters in 4th
+
+LOB -- Oakland 9, New York 8
+2B -- Berroa G, Bordick M, Tartabull D, Gates B, Leyritz J, Sierra R, McGwire M
+3B -- Berroa G
+HR -- McGwire M, Polonia L, O'Neill P
+SB -- Henderson R
+SF -- Brosius S, Velarde R
+WP -- Darling R, Ausanio J
+T -- 3:16
+A -- 14197
+     Game of 6/6/1995 -- Oakland at New York (N)
+
+  Oakland            AB  R  H RBI    New York           AB  R  H RBI
+Henderson R, lf       3  1  0  0   Polonia L, lf         5  1  1  1   
+Tomberlin A, rf       1  0  0  1   Boggs W, 3b           4  1  1  0   
+Berroa G, dh          5  2  2  4   O'Neill P, rf         4  0  2  1   
+Sierra R, rf          3  2  2  2   Leyritz J, c          5  1  2  1   
+Paquette C, lf        1  0  0  0   Mattingly D, 1b       5  1  2  1   
+McGwire M, 1b         5  0  0  0   James D, dh           4  0  0  0   
+Steinbach T, c        4  0  0  0   Velarde R, 2b         4  1  1  0   
+Gates B, 2b           4  0  2  1   Williams B, cf        5  1  3  2   
+Brosius S, 3b         3  1  0  0   Jeter D, ss           4  0  1  0   
+Javier S, cf          4  1  2  0   Tartabull D, ph       1  0  1  0   
+Bordick M, ss         2  1  1  0   Williams G, pr        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  8  9  8                        41  6 14  6
+
+Oakland          005 020 010 --  8
+New York         020 020 101 --  6
+
+  Oakland              IP  H  R ER BB SO
+Stottlemyre T (W)*    5.0  6  4  4  5  6
+Honeycutt R           1.2  2  1  1  0  0
+Reyes C               1.0  3  0  0  0  1
+Eckersley D (S)       1.1  3  1  1  0  1
+
+  New York             IP  H  R ER BB SO
+Rivera M (L)+         4.0  7  7  7  1  3
+Manzanillo J          2.0  2  0  0  0  0
+Wickman B             2.0  0  1  1  2  0
+Wetteland J           1.0  0  0  0  0  1
+  * Pitched to 1 batter in 6th
+  + Pitched to 2 batters in 5th
+
+E -- Bordick M, Wickman B
+DP -- Oakland 1
+LOB -- Oakland 6, New York 13
+2B -- Williams B, Polonia L, Mattingly D
+HR -- Berroa G, Sierra R, Leyritz J
+SB -- Javier S, Bordick M, Brosius S
+SH -- Bordick M
+HBP -- by Rivera M (Henderson R), by Wickman B (Bordick M)
+WP -- Stottlemyre T
+T -- 3:29
+A -- 15358
+     Game of 6/7/1995 -- Oakland at New York (N)
+
+  Oakland            AB  R  H RBI    New York           AB  R  H RBI
+Henderson R, lf       3  0  0  0   Polonia L, lf         5  0  2  1   
+Berroa G, dh          3  0  0  1   Boggs W, 3b           4  2  3  1   
+Sierra R, rf          4  0  1  0   O'Neill P, rf         2  0  0  0   
+McGwire M, 1b         4  0  0  0   Williams G, pr-rf     2  0  0  0   
+Steinbach T, c        4  0  1  0   Leyritz J, c          4  0  2  0   
+Gates B, 2b           4  0  0  0   Mattingly D, 1b       3  1  2  1   
+Brosius S, 3b         4  0  2  0   Tartabull D, dh       4  2  2  2   
+Javier S, cf          3  1  0  0   Velarde R, 2b         4  0  1  0   
+Bordick M, ss         3  0  1  0   Williams B, cf        4  1  1  1   
+                                   Jeter D, ss           3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     32  1  5  1                        35  6 14  6
+
+Oakland          001 000 000 --  1
+New York         010 010 13x --  6
+
+  Oakland              IP  H  R ER BB SO
+Ontiveros S (L)*      7.0 12  5  5  2  3
+VanPoppel T           1.0  2  1  1  1  1
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        7.0  4  1  1  1  3
+Wickman B             1.0  1  0  0  0  0
+Howe S                1.0  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+E -- Pettitte A
+DP -- Oakland 1
+LOB -- Oakland 6, New York 9
+2B -- Tartabull D, Mattingly D
+HR -- Boggs W, Tartabull D
+SB -- Williams B, Polonia L
+SF -- Berroa G, Mattingly D
+WP -- VanPoppel T
+T -- 2:47
+A -- 16550
+     Game of 6/8/1995 -- Oakland at New York (N)
+
+  Oakland            AB  R  H RBI    New York           AB  R  H RBI
+Henderson R, lf       5  0  2  1   Polonia L, lf         3  1  0  0   
+Paquette C, ph-lf     1  0  1  0   Boggs W, 3b           4  0  2  0   
+Javier S, cf          6  2  2  0   O'Neill P, dh         4  0  0  0   
+Berroa G, dh          5  2  2  3   Stanley M, c          4  1  4  1   
+Sierra R, rf          4  2  3  2   Mattingly D, 1b       4  0  1  0   
+Tomberlin A, pr-rf    0  0  0  0   Tartabull D, rf       4  0  0  1   
+Aldrete M, 1b         4  0  0  0   Fernandez T, 2b       4  0  0  0   
+McGwire M, 1b         0  0  0  0   Williams B, cf        4  1  1  0   
+Brosius S, 3b         3  1  0  0   Jeter D, ss           4  0  1  1   
+Gates B, 2b           5  0  1  0                                      
+Bordick M, ss         5  0  1  0                                      
+Helfand E, c          4  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     42  8 13  7                        35  3  9  3
+
+Oakland          221 010 020 --  8
+New York         100 100 010 --  3
+
+  Oakland              IP  H  R ER BB SO
+Harkey M (W)          6.0  7  2  2  2  4
+Honeycutt R           1.0  1  0  0  0  1
+Corsi J               1.0  1  1  1  0  0
+Reyes C               1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+McDowell J (L)        7.0  8  6  6  4 11
+MacDonald B           0.2  3  2  2  0  0
+Manzanillo J          1.1  2  0  0  1  1
+
+E -- Mattingly D 2, Jeter D
+DP -- Oakland 1, New York 1
+LOB -- Oakland 12, New York 7
+2B -- Helfand E, Stanley M 2
+3B -- Jeter D
+HR -- Berroa G, Sierra R 2
+SB -- Polonia L, Javier S
+CS -- Sierra R
+WP -- McDowell J
+PB -- Stanley M
+T -- 3:14
+A -- 15792
+     Game of 6/9/1995 -- Seattle at New York (N)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Cora J, 2b            5  1  2  1   Polonia L, lf         4  1  2  0   
+Diaz A, cf            5  1  2  0   Boggs W, 3b           3  0  2  0   
+Martinez E, dh        4  2  1  2   O'Neill P, dh         3  0  1  1   
+Martinez T, 1b        5  2  2  4   Stanley M, c          4  0  0  0   
+Newfield M, lf        4  0  1  1   Mattingly D, 1b       3  0  1  0   
+Amaral R, lf          1  1  1  0   Williams G, ph        1  0  0  0   
+Bragg D, rf           4  2  2  2   James D, rf           3  0  0  0   
+Blowers M, 3b         5  0  1  0   Silvestri D, ph       1  0  0  0   
+Kreuter C, c          4  1  1  0   Fernandez T, 2b       4  0  1  0   
+Rodriguez A, ss       4  1  1  1   Williams B, cf        3  0  0  0   
+                                   Jeter D, ss           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41 11 14 11                        32  1  7  1
+
+Seattle          010 060 004 -- 11
+New York         000 001 000 --  1
+
+  Seattle              IP  H  R ER BB SO
+Belcher T (W)         7.0  6  1  1  1  5
+Villone R             2.0  1  0  0  1  2
+
+  New York             IP  H  R ER BB SO
+Perez M (L)           4.2  8  7  7  1  5
+MacDonald B           2.1  2  0  0  1  5
+Bankhead S            2.0  4  4  4  0  0
+
+DP -- Seattle 1
+LOB -- Seattle 5, New York 6
+2B -- Kreuter C, Martinez T, Mattingly D
+HR -- Martinez T, Martinez E, Bragg D
+T -- 2:49
+A -- 19650
+     Game of 6/10/1995 -- Seattle at New York (D)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Amaral R, rf-lf       5  0  0  0   Williams B, cf        4  1  1  0   
+Diaz A, cf            4  1  1  0   Velarde R, 3b         4  1  0  0   
+Martinez E, dh        3  0  0  1   O'Neill P, ph         0  0  0  0   
+Newfield M, lf        4  0  0  0   Leyritz J, c          4  0  0  0   
+Bragg D, rf           0  0  0  0   Stanley M, dh         5  0  2  0   
+Blowers M, 3b         2  0  0  0   Tartabull D, rf       3  0  0  1   
+Strange D, ph-3b      1  0  0  0   Polonia L, lf         0  0  0  0   
+Pirkl G, 1b           3  1  2  0   Williams G, lf-rf     3  0  1  1   
+Martinez T, ph-1b     1  0  0  0   James D, ph-rf        1  0  0  0   
+Fermin F, 2b-ss       4  0  2  0   Silvestri D, 1b       2  0  0  0   
+Wilson D, c           4  0  1  0   Mattingly D, ph-1b    1  0  0  0   
+Cora J, pr-2b         0  1  0  0   Fernandez T, 2b       4  0  1  0   
+Rodriguez A, ss       3  0  0  0   Jeter D, ss           3  0  1  0   
+Kreuter C, ph-c       1  0  1  1   Boggs W, ph           1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  7  2                        35  2  6  2
+
+Seattle          000 000 111 --  3
+New York         200 000 000 --  2
+
+  Seattle              IP  H  R ER BB SO
+Johnson R             7.0  5  2  2  4 12
+Nelson J (W)          1.0  0  0  0  0  0
+Ayala B (S)           1.0  1  0  0  1  2
+
+  New York             IP  H  R ER BB SO
+Hitchcock S           7.0  4  1  1  2  5
+Wickman B             1.0  1  1  0  0  1
+Howe S (L)            0.2  1  1  1  0  0
+Wetteland J           0.1  1  0  0  0  0
+
+E -- Fermin F, Jeter D, Leyritz J
+DP -- New York 1
+LOB -- Seattle 7, New York 11
+2B -- Jeter D, Fernandez T
+SB -- Williams G, Diaz A, Cora J
+PB -- Leyritz J 2
+T -- 3:03
+A -- 25279
+     Game of 6/11/1995 -- Seattle at New York (D)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Cora J, 2b            5  1  3  0   Williams B, cf        4  2  3  2   
+Diaz A, cf            5  1  1  0   Velarde R, lf         4  0  0  0   
+Martinez E, dh        4  2  2  3   Boggs W, 3b           4  2  2  0   
+Martinez T, 1b        5  2  2  1   Leyritz J, c          5  1  4  2   
+Strange D, 3b         2  0  0  0   Mattingly D, 1b       5  0  2  0   
+Blowers M, ph-3b      2  0  0  0   Silvestri D, dh       1  1  0  0   
+Newfield M, lf        3  0  1  2   O'Neill P, ph         1  0  0  1   
+Amaral R, pr-lf       0  0  0  0   Fernandez T, 2b       4  1  0  1   
+Bragg D, rf           2  0  2  0   Williams G, rf        2  1  1  3   
+Kreuter C, c          4  1  1  1   James D, ph-rf        0  0  0  0   
+Rodriguez A, ss       4  0  0  0   Tartabull D, ph-rf    0  1  0  0   
+                                   Jeter D, ss           4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  7 12  7                        34 10 13  9
+
+Seattle          302 110 000 --  7
+New York         040 010 05x -- 10
+
+  Seattle              IP  H  R ER BB SO
+Fleming D             1.1  4  4  4  2  0
+Wells B               3.0  4  1  1  0  2
+Villone R             0.1  0  0  0  1  0
+Nelson J              1.1  0  0  0  1  3
+Frey S (L)            1.1  3  4  4  2  1
+Ayala B               0.2  2  1  0  0  0
+
+  New York             IP  H  R ER BB SO
+Rivera M              2.1  7  5  4  1  0
+MacDonald B           2.1  3  2  2  0  0
+Manzanillo J*         1.1  1  0  0  1  0
+Howe S (W)            2.0  1  0  0  1  1
+Wetteland J (S)       1.0  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+E -- Mattingly D
+DP -- Seattle 1, New York 1
+LOB -- Seattle 7, New York 9
+2B -- Leyritz J, Williams B
+HR -- Martinez E, Williams G, Williams B, Kreuter C, Martinez T
+SB -- Bragg D
+CS -- Strange D 2
+SH -- Velarde R
+SF -- O'Neill P
+HBP -- by Nelson J (Williams B), by Manzanillo J (Martinez E), by Howe S (Bragg D)
+PB -- Kreuter C
+T -- 3:33
+A -- 26037
+     Game of 6/23/1995 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Gonzalez A, ss        5  0  2  0   Polonia L, lf         4  1  1  2   
+Huff M, cf            4  1  1  1   Boggs W, 3b           3  0  1  0   
+Molitor P, dh         3  0  0  0   James D, dh           2  0  0  0   
+Carter J, lf          4  0  1  0   Tartabull D, ph       1  1  1  0   
+Olerud J, 1b          3  0  0  0   O'Neill P, rf         4  1  2  3   
+Sprague E, 3b         3  1  1  0   Mattingly D, 1b       4  0  0  0   
+Green S, rf           4  0  2  1   Fernandez T, ss       4  0  2  0   
+Parrish L, c          2  0  0  0   Stanley M, c          2  1  0  0   
+Cedeno D, 2b          4  0  0  0   Williams B, cf        4  1  1  1   
+                                   Velarde R, 2b         3  1  3  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        31  6 11  6
+
+Toronto          010 000 100 --  2
+New York         001 201 20x --  6
+
+  Toronto              IP  H  R ER BB SO
+Cone D (L)            6.0  6  4  4  6  3
+Jordan R              1.2  4  2  2  4  0
+Crabtree T            0.1  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+McDowell J (W)        6.1  7  2  2  4  4
+Howe S                0.1  0  0  0  0  0
+Wickman B             1.1  0  0  0  0  1
+Ausanio J             1.0  0  0  0  1  0
+
+DP -- Toronto 2, New York 1
+LOB -- Toronto 10, New York 12
+2B -- Green S 2, O'Neill P, Polonia L
+HR -- Huff M, O'Neill P
+SB -- Fernandez T, Stanley M
+CS -- Fernandez T
+SH -- Parrish L
+SF -- Polonia L
+HBP -- by McDowell J (Sprague E)
+T -- 3:23
+A -- 24499
+     Game of 6/24/1995 -- Toronto at New York (D)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Huff M, cf            3  0  1  0   Polonia L, lf         4  2  2  0   
+Molitor P, dh         4  0  0  0   Boggs W, 3b           4  2  2  3   
+Alomar R, 2b          4  1  2  0   James D, dh           5  2  2  2   
+Carter J, lf          3  1  1  1   O'Neill P, rf         4  0  1  2   
+Olerud J, 1b          4  0  0  0   Mattingly D, 1b       5  0  1  1   
+Sprague E, 3b         2  0  0  1   Silvestri D, pr-1b    0  0  0  0   
+Green S, rf           4  0  0  0   Fernandez T, ss       3  1  1  0   
+Gonzalez A, ss        3  0  0  0   Stanley M, c          4  0  1  1   
+Martinez A, c         4  0  1  0   Williams B, cf        3  2  1  0   
+                                   Velarde R, 2b         3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  2                        35 10 11  9
+
+Toronto          010 001 000 --  2
+New York         004 310 02x -- 10
+
+  Toronto              IP  H  R ER BB SO
+Guzman J (L)          6.0  8  8  6  5  2
+Crabtree T            1.0  0  0  0  1  0
+Williams W            1.0  3  2  2  0  0
+
+  New York             IP  H  R ER BB SO
+Perez M (W)           6.0  3  2  2  4  0
+Manzanillo J          1.1  2  0  0  0  0
+MacDonald B           0.2  0  0  0  0  1
+Bankhead S            1.0  0  0  0  0  0
+
+E -- Guzman J, Carter J
+DP -- Toronto 1
+LOB -- Toronto 7, New York 8
+2B -- O'Neill P, Alomar R 2, Boggs W 2, Stanley M, James D
+HR -- Carter J
+SF -- Sprague E
+HBP -- by Guzman J (Velarde R)
+WP -- Guzman J
+T -- 3:00
+A -- 28950
+     Game of 6/25/1995 -- Toronto at New York (D)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Huff M, cf            3  0  1  0   Polonia L, lf         3  0  1  0   
+Molitor P, dh         4  0  0  0   Williams G, ph-lf     1  1  1  0   
+Alomar R, 2b          4  1  1  0   Boggs W, 3b           5  2  2  1   
+Carter J, lf          3  1  1  2   James D, dh           4  1  1  0   
+Green S, rf           1  0  0  0   Tartabull D, ph       1  0  1  1   
+Sprague E, 3b         4  0  0  0   O'Neill P, rf         4  1  2  2   
+Maldonado C, rf-lf    3  0  2  0   Mattingly D, 1b       4  1  2  1   
+Olerud J, 1b          3  0  0  0   Fernandez T, ss       2  0  0  1   
+Parrish L, c          3  0  1  0   Leyritz J, c          5  0  1  0   
+Gonzalez A, ss        3  0  0  0   Williams B, cf        3  1  1  0   
+                                   Velarde R, 2b         2  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  2                        34  8 13  7
+
+Toronto          200 000 000 --  2
+New York         001 220 03x --  8
+
+  Toronto              IP  H  R ER BB SO
+Hentgen P (L)         6.0  8  5  4  7  6
+Cox D                 1.0  0  0  0  1  0
+Castillo T            1.0  5  3  3  0  1
+
+  New York             IP  H  R ER BB SO
+Hitchcock S (W)       6.2  6  2  2  1  5
+Wickman B             1.1  0  0  0  0  1
+Wetteland J           1.0  0  0  0  0  1
+
+E -- Gonzalez A
+DP -- Toronto 1, New York 1
+LOB -- Toronto 3, New York 11
+2B -- Huff M, Boggs W, Williams G
+3B -- Alomar R, O'Neill P
+HR -- Carter J
+SB -- Polonia L
+CS -- Maldonado C, Fernandez T
+SF -- Fernandez T
+T -- 3:03
+A -- 26340
+     Game of 6/26/1995 -- Detroit at New York (N)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Curtis C, cf          5  0  1  1   Polonia L, lf         4  2  2  0   
+Gomez C, 2b           3  1  1  0   Boggs W, 3b           5  0  3  1   
+Fryman T, 3b          4  0  0  0   James D, dh           4  0  1  2   
+Fielder C, dh         3  1  2  2   O'Neill P, rf         3  1  1  0   
+Samuel J, 1b          4  0  1  0   Mattingly D, 1b       4  1  2  1   
+Trammell A, ss        4  0  2  0   Fernandez T, ss       5  0  0  0   
+Hall J, lf            4  0  1  0   Stanley M, c          3  0  0  1   
+Flaherty J, c         3  1  0  0   Williams B, cf        3  1  1  0   
+Bautista D, rf        4  0  0  0   Velarde R, 2b         3  2  3  2   
+                     -- -- -- --                        -- -- -- --
+                     34  3  8  3                        34  7 13  7
+
+Detroit          000 000 021 --  3
+New York         001 202 02x --  7
+
+  Detroit              IP  H  R ER BB SO
+Lira F (L)            5.2  8  5  5  4  4
+Ahearne P             0.1  1  0  0  1  0
+Gardiner M            2.0  4  2  2  0  0
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        7.0  5  0  0  2  4
+Manzanillo J          0.2  2  2  2  1  1
+Wickman B             0.1  0  0  0  0  0
+Howe S                1.0  1  1  1  1  2
+
+DP -- New York 1
+LOB -- Detroit 8, New York 11
+2B -- Velarde R, Trammell A, Mattingly D
+HR -- Fielder C
+SF -- Stanley M, James D, Mattingly D
+WP -- Ahearne P
+T -- 2:48
+A -- 18353
+     Game of 6/27/1995 -- Detroit at New York (N)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Curtis C, cf          5  0  1  0   Williams B, cf        5  0  0  0   
+Whitaker L, 2b        5  0  1  0   Leyritz J, 1b         3  1  0  0   
+Fryman T, 3b          4  0  0  0   O'Neill P, rf         4  2  3  0   
+Fielder C, 1b         4  0  1  0   Stanley M, c          3  1  1  0   
+Gibson K, dh          3  1  1  1   Tartabull D, dh       2  1  1  2   
+Higginson B, rf       4  0  3  0   Velarde R, 2b         4  1  1  0   
+Stubbs F, lf          3  0  0  0   Fernandez T, ss       4  1  3  4   
+Flaherty J, c         4  0  0  0   Davis R, 3b           4  0  0  0   
+Gomez C, ss           2  0  0  0   Williams G, lf        4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  1  7  1                        33  7 10  7
+
+Detroit          000 100 000 --  1
+New York         000 140 20x --  7
+
+  Detroit              IP  H  R ER BB SO
+Bohanon B (L)         4.2  6  4  4  3  4
+Boever J              2.1  4  3  3  0  2
+Maxcy B               1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Bankhead S            3.2  4  1  1  0  1
+MacDonald B (W)       2.1  1  0  0  2  3
+Ausanio J (S)         3.0  2  0  0  2  3
+
+E -- Whitaker L, Stubbs F
+LOB -- Detroit 10, New York 7
+2B -- Higginson B, Tartabull D, Fernandez T
+HR -- Gibson K, Fernandez T
+SB -- Curtis C
+SF -- Tartabull D 2
+T -- 2:53
+A -- 19765
+     Game of 6/28/1995 -- Detroit at New York (D)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Curtis C, cf          5  1  1  1   Williams B, cf        5  0  2  0   
+Whitaker L, 2b        3  0  0  1   Mattingly D, 1b       5  1  1  0   
+Trammell A, ss        1  0  0  0   Williams G, lf        2  2  1  1   
+Fryman T, 3b          4  1  4  2   Tartabull D, rf       3  0  0  0   
+Fielder C, 1b         4  0  0  0   Stanley M, c          4  0  2  2   
+Gibson K, dh          5  1  1  0   Fernandez T, ss       4  0  0  0   
+Higginson B, lf       5  3  3  1   Davis R, 3b           3  1  2  1   
+Flaherty J, c         5  1  2  2   Boggs W, ph-3b        1  0  0  0   
+Gomez C, ss-2b        4  0  1  0   Leyritz J, dh         3  0  0  0   
+Bautista D, rf        4  1  2  1   O'Neill P, ph         1  0  0  0   
+                                   Velarde R, 2b         3  0  1  0   
+                                   Polonia L, ph         1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  8 14  8                        35  4  9  4
+
+Detroit          051 110 000 --  8
+New York         001 100 020 --  4
+
+  Detroit              IP  H  R ER BB SO
+Wells D (W)*          7.0  8  4  4  2 10
+Doherty J             0.1  1  0  0  1  1
+Wickander K           0.1  0  0  0  0  0
+Boever J              0.1  0  0  0  0  0
+Henneman M            1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+McDowell J (L)        4.2 13  8  8  0  4
+Manzanillo J          3.0  1  0  0  2  4
+Howe S                0.2  0  0  0  0  1
+Wetteland J           0.2  0  0  0  0  1
+  * Pitched to 2 batters in 8th
+
+LOB -- Detroit 9, New York 7
+2B -- Fryman T 2, Higginson B, Stanley M, Bautista D
+HR -- Higginson B, Davis R, Fryman T, Williams G
+SB -- Curtis C
+CS -- Williams B
+SH -- Gomez C
+SF -- Whitaker L
+WP -- Manzanillo J, Wells D
+T -- 3:09
+A -- 24673
+     Game of 7/12/1995 -- Kansas City at New York (N)
+
+  Kansas City        AB  R  H RBI    New York           AB  R  H RBI
+Coleman V, lf         4  0  0  0   Williams B, cf        3  2  3  0   
+Joyner W, 1b          2  0  1  0   Leyritz J, c          4  1  2  4   
+Hamelin B, 1b         1  1  1  0   O'Neill P, rf         4  0  1  1   
+James C, dh           4  0  1  0   Tartabull D, dh       4  0  0  0   
+Gaetti G, 3b          4  0  0  1   Williams G, lf        2  1  0  0   
+Hiatt P, rf           4  0  1  0   Mattingly D, 1b       3  1  2  0   
+Caceres E, ss         4  0  0  0   Fernandez T, ss       4  0  0  0   
+Stynes C, 2b          3  0  0  0   Davis R, 3b           3  2  1  3   
+Lockhart K, ph        1  0  0  0   Kelly P, 2b           4  2  2  0   
+Howard D, cf          3  0  1  0                                      
+Borders P, c          3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        31  9 11  8
+
+Kansas City      000 000 001 --  1
+New York         060 300 00x --  9
+
+  Kansas City          IP  H  R ER BB SO
+Haney C (L)           2.0  6  6  6  3  1
+Fleming D             2.0  2  3  3  2  0
+Torres D              2.0  1  0  0  1  0
+Magnante M            1.0  1  0  0  1  1
+Pichardo H            1.0  1  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        8.1  6  1  1  1  7
+Bankhead S            0.2  0  0  0  0  0
+
+DP -- Kansas City 2
+LOB -- Kansas City 6, New York 5
+2B -- Mattingly D, Williams B 2, Leyritz J, Kelly P
+HR -- Davis R
+CS -- Williams B
+WP -- Fleming D, Magnante M
+T -- 2:26
+A -- 23252
+     Game of 7/13/1995 -- Minnesota at New York (N)
+
+  Minnesota          AB  R  H RBI    New York           AB  R  H RBI
+Knoblauch C, 2b       3  1  2  1   Polonia L, lf         5  0  1  1   
+Becker R, cf          3  0  0  0   Boggs W, 3b           4  2  3  0   
+Hale C, dh            4  0  0  0   James D, dh           5  0  2  0   
+Cordova M, lf         4  0  1  0   O'Neill P, rf         2  0  1  2   
+Masteller D, rf       3  0  1  0   Williams G, rf        0  0  0  0   
+Leius S, 3b           4  0  0  0   Mattingly D, 1b       4  0  1  0   
+Stahoviak S, 1b       3  0  0  0   Fernandez T, ss       4  1  2  0   
+Munoz P, ph           1  1  1  1   Stanley M, c          3  1  0  0   
+Walbeck M, c          4  0  0  0   Williams B, cf        4  3  2  3   
+Reboulet J, ss        2  0  0  0   Kelly P, 2b           3  0  2  1   
+Merullo M, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     32  2  5  2                        34  7 14  7
+
+Minnesota        100 000 001 --  2
+New York         011 200 12x --  7
+
+  Minnesota            IP  H  R ER BB SO
+Tapani K (L)          6.1 11  5  4  2  3
+Guardado E            1.2  3  2  2  1  1
+
+  New York             IP  H  R ER BB SO
+McDowell J (W)*       7.0  4  1  1  3  5
+Wickman B             1.0  0  0  0  0  2
+Howe S                0.2  1  1  1  0  1
+Wetteland J           0.1  0  0  0  0  0
+  * Pitched to 3 batters in 8th
+
+E -- O'Neill P
+DP -- Minnesota 2
+LOB -- Minnesota 7, New York 8
+2B -- Kelly P, Fernandez T, James D
+HR -- Knoblauch C, Williams B, Munoz P
+SF -- O'Neill P 2
+HBP -- by McDowell J (Knoblauch C)
+PB -- Walbeck M
+T -- 2:38
+A -- 17627
+     Game of 7/14/1995 -- Minnesota at New York (N)
+
+  Minnesota          AB  R  H RBI    New York           AB  R  H RBI
+Knoblauch C, 2b       4  2  2  0   Polonia L, lf         4  1  2  0   
+Reboulet J, ss        4  4  2  0   Boggs W, 3b           5  1  1  0   
+Puckett K, rf         5  1  2  1   James D, dh           3  1  1  1   
+Munoz P, dh           4  1  3  4   Stanley M, ph         1  0  0  0   
+Cordova M, lf         5  1  3  3   O'Neill P, rf         2  0  1  2   
+Leius S, 3b           5  1  1  0   Mattingly D, 1b       4  0  2  0   
+Walbeck M, c          5  1  2  0   Williams B, cf        4  0  0  0   
+Masteller D, 1b       4  0  2  2   Leyritz J, c          4  1  2  1   
+Becker R, cf          5  0  0  0   Fernandez T, ss       3  0  0  0   
+                                   Kelly P, 2b           4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     41 11 17 10                        34  4 10  4
+
+Minnesota        110 125 010 -- 11
+New York         210 010 000 --  4
+
+  Minnesota            IP  H  R ER BB SO
+Radke B (W)           5.0  9  4  4  1  0
+Guthrie M             3.0  1  0  0  1  2
+Stevens D             1.0  0  0  0  1  1
+
+  New York             IP  H  R ER BB SO
+Hitchcock S (L)*      4.0  7  5  4  0  0
+Bankhead S            1.2  4  4  4  1  0
+Pavlas D              2.1  6  2  2  0  2
+MacDonald B           1.0  0  0  0  0  0
+  * Pitched to 2 batters in 5th
+
+E -- Boggs W, Mattingly D
+DP -- Minnesota 2, New York 1
+LOB -- Minnesota 7, New York 7
+2B -- James D, Cordova M 2, Munoz P, Boggs W, Puckett K
+3B -- Knoblauch C
+HR -- Leyritz J
+SB -- Puckett K, Knoblauch C, Fernandez T
+SF -- Munoz P, O'Neill P, Masteller D
+HBP -- by Hitchcock S (Reboulet J)
+WP -- Hitchcock S, Radke B
+T -- 2:54
+A -- 19849
+     Game of 7/15/1995 -- Minnesota at New York (N)
+
+  Minnesota          AB  R  H RBI    New York           AB  R  H RBI
+Knoblauch C, 2b       3  1  1  0   Polonia L, lf         5  2  2  0   
+Becker R, cf          5  1  3  1   Boggs W, 3b           4  1  2  1   
+Puckett K, rf         5  2  2  3   James D, dh           3  1  1  1   
+Munoz P, dh           4  2  2  1   Leyritz J, ph         1  0  0  0   
+Cordova M, lf         5  0  2  2   O'Neill P, rf         4  0  1  2   
+Masteller D, 1b       5  0  1  0   Mattingly D, 1b       4  1  1  0   
+Leius S, 3b           4  0  1  0   Williams B, cf        3  0  1  0   
+Merullo M, c          5  1  2  0   Stanley M, c          3  0  1  0   
+Reboulet J, ss        2  0  1  1   Fernandez T, ss       3  0  0  1   
+Meares P, ss          2  1  1  0   Kelly P, 2b           4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     40  8 16  8                        34  5  9  5
+
+Minnesota        301 100 210 --  8
+New York         310 000 001 --  5
+
+  Minnesota            IP  H  R ER BB SO
+Rodriguez F           4.0  7  4  4  1  2
+Guardado E (W)*       4.0  1  1  1  0  4
+Stevens D             1.0  1  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Kamieniecki S (L)     3.1  7  5  5  2  1
+Bankhead S            1.0  1  0  0  1  0
+MacDonald B           1.2  1  0  0  0  1
+Wickman B             2.0  6  3  3  1  2
+Howe S                1.0  1  0  0  0  0
+  * Pitched to 1 batter in 9th
+
+E -- Merullo M
+DP -- New York 2
+LOB -- Minnesota 9, New York 5
+2B -- Masteller D, Merullo M
+HR -- Puckett K, Munoz P
+SB -- Polonia L
+CS -- Williams B
+SF -- Fernandez T
+WP -- Rodriguez F
+T -- 3:16
+A -- 20594
+     Game of 7/16/1995 -- Minnesota at New York (D)
+
+  Minnesota          AB  R  H RBI    New York           AB  R  H RBI
+Knoblauch C, 2b       4  0  1  0   Polonia L, lf         3  0  1  0   
+Becker R, cf          4  0  0  0   Williams G, ph-lf     1  0  0  0   
+Puckett K, dh         4  0  1  0   Boggs W, 3b           4  0  3  2   
+Cordova M, lf         3  0  0  0   James D, dh           2  0  1  0   
+Masteller D, rf       3  0  0  0   Davis R, ph           1  0  0  0   
+Munoz P, ph-rf        1  0  0  0   O'Neill P, rf         5  0  0  0   
+Leius S, 3b           3  1  1  0   Mattingly D, 1b       4  2  1  0   
+Stahoviak S, 1b       3  0  0  0   Williams B, cf        3  2  2  0   
+Walbeck M, c          4  0  1  0   Stanley M, c          1  0  1  2   
+Meares P, ss          4  0  3  1   Fernandez T, ss       4  1  1  1   
+                                   Kelly P, 2b           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  7  1                        31  5 10  5
+
+Minnesota        000 000 100 --  1
+New York         021 010 10x --  5
+
+  Minnesota            IP  H  R ER BB SO
+Trombley M (L)        5.0  7  4  3  4  1
+Klingenbeck S         1.2  3  1  1  1  1
+Robertson R           1.1  0  0  0  1  1
+
+  New York             IP  H  R ER BB SO
+Rivera M (W)*         6.0  6  1  1  1  5
+Wickman B             1.1  1  0  0  1  2
+Howe S                0.2  0  0  0  1  0
+Wetteland J           1.0  0  0  0  0  0
+  * Pitched to 2 batters in 7th
+
+E -- Meares P
+DP -- Minnesota 2
+LOB -- Minnesota 9, New York 11
+2B -- Knoblauch C, Puckett K, Mattingly D, Meares P, Stanley M
+SH -- Williams B
+SF -- Stanley M
+HBP -- by Rivera M (Cordova M), by Klingenbeck S (Kelly P)
+WP -- Klingenbeck S
+T -- 2:57
+A -- 23549
+     Game of 7/17/1995 -- Chicago at New York (N)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Durham R, 2b          4  1  2  0   Williams B, cf        2  0  0  0   
+Johnson L, cf         4  0  1  0   Fernandez T, ss       3  0  0  0   
+Thomas F, 1b          2  0  0  0   Leyritz J, dh         3  0  0  0   
+Devereaux M, rf       4  0  1  1   Stanley M, c          3  1  1  1   
+Kruk J, dh            2  0  1  0   Williams G, rf        3  0  0  0   
+Grebeck C, 3b         3  0  0  0   Mattingly D, 1b       2  0  1  0   
+Martin N, lf          3  0  1  0   Velarde R, lf         1  0  0  0   
+Martinez D, lf        0  0  0  0   Davis R, 3b           2  0  0  0   
+Karkovice R, c        2  0  2  0   Kelly P, 2b           1  0  0  0   
+Guillen O, ss         3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     27  1  9  1                        20  1  2  1
+
+Chicago          001 000 0 --  1
+New York         000 100 0 --  1
+  0 outs when game ended.
+
+  Chicago              IP  H  R ER BB SO
+Alvarez W             6.0  2  1  1  5  6
+
+  New York             IP  H  R ER BB SO
+Pettitte A            7.0  9  1  1  4  3
+
+DP -- New York 1
+LOB -- Chicago 9, New York 6
+2B -- Mattingly D
+3B -- Durham R
+HR -- Stanley M
+CS -- Durham R, Karkovice R
+T -- 2:16
+A -- 22707
+     Game of 7/18/1995, game 1 -- Chicago at New York (D)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Johnson L, cf         6  2  4  2   Williams B, cf        5  0  1  0   
+Raines T, lf          5  1  3  2   Boggs W, 3b           5  1  2  1   
+Thomas F, dh          4  0  3  1   O'Neill P, rf         4  1  1  1   
+Ventura R, 3b         5  0  1  1   Stanley M, c          4  1  2  0   
+Martinez D, 1b        5  0  0  0   Williams G, lf        3  0  2  2   
+Devereaux M, rf       5  2  3  0   Mattingly D, 1b       4  0  3  0   
+Durham R, 2b          5  2  3  1   Fernandez T, ss       4  0  0  0   
+Karkovice R, c        2  1  1  2   Davis R, dh           4  1  2  0   
+Grebeck C, ss         3  1  0  0   Kelly P, 2b           4  0  0  0   
+Guillen O, ph-ss      1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     41  9 18  9                        37  4 13  4
+
+Chicago          010 403 001 --  9
+New York         210 010 000 --  4
+
+  Chicago              IP  H  R ER BB SO
+Abbott J (W)          9.0 13  4  4  0  4
+
+  New York             IP  H  R ER BB SO
+Boehringer B (L)      3.2  9  5  5  2  1
+Bankhead S            2.0  3  3  3  1  0
+MacDonald B*          2.1  5  1  1  1  0
+Wickman B             1.0  1  0  0  0  0
+  * Pitched to 2 batters in 9th
+
+DP -- Chicago 2, New York 1
+LOB -- Chicago 11, New York 7
+2B -- Raines T, O'Neill P, Devereaux M 2, Davis R, Durham R, Stanley M
+SB -- Karkovice R, Johnson L, Raines T
+SH -- Karkovice R
+SF -- Williams G, Karkovice R
+T -- 2:57
+A -- 0
+     Game of 7/18/1995, game 2 -- Chicago at New York (N)
+
+  Chicago            AB  R  H RBI    New York           AB  R  H RBI
+Johnson L, cf         6  0  2  0   Williams B, cf        5  1  2  0   
+Raines T, lf          5  1  1  1   Leyritz J, c          5  1  2  0   
+Thomas F, 1b          6  3  4  1   O'Neill P, rf         4  1  1  3   
+Ventura R, 3b         5  0  1  1   James D, lf           1  0  1  0   
+Kruk J, dh            4  2  2  0   Stanley M, dh         4  0  1  0   
+Martinez D, rf        5  4  4  3   Williams G, lf-rf     3  0  1  0   
+Martin N, 2b          5  1  3  2   Mattingly D, 1b       4  0  0  0   
+LaValliere M, c       4  0  1  2   Kelly P, 2b           0  0  0  0   
+Guillen O, ss         5  0  1  0   Davis R, 3b-1b        4  0  2  0   
+                                   Fernandez T, ss       4  1  0  0   
+                                   Velarde R, 2b-3b      3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     45 11 19 10                        37  4 11  4
+
+Chicago          403 020 020 -- 11
+New York         310 000 000 --  4
+
+  Chicago              IP  H  R ER BB SO
+Righetti D (W)        6.2  9  4  4  3  1
+McCaskill K           1.1  1  0  0  1  1
+Karchner M            1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+McDowell J (L)        4.2 13  9  9  2  4
+Ausanio J             2.1  2  0  0  1  3
+Howe S                1.0  4  2  2  0  2
+Wetteland J           1.0  0  0  0  0  0
+
+E -- McDowell J
+DP -- Chicago 1
+LOB -- Chicago 10, New York 10
+2B -- Velarde R, Thomas F, Ventura R
+3B -- Martin N
+HR -- Raines T, Thomas F, O'Neill P, Martinez D
+SB -- Martinez D
+CS -- Johnson L
+WP -- McDowell J, Ausanio J, McCaskill K 2
+T -- 3:16
+A -- 21188
+     Game of 7/19/1995 -- Kansas City at New York (D)
+
+  Kansas City        AB  R  H RBI    New York           AB  R  H RBI
+Stynes C, 2b          3  0  0  0   Polonia L, lf         4  1  2  0   
+Joyner W, 1b          4  0  0  0   Boggs W, 3b           4  1  1  1   
+Gagne G, ss           4  0  1  0   James D, dh           4  0  2  1   
+Gaetti G, 3b          3  0  0  0   O'Neill P, rf         4  0  0  0   
+James C, dh           3  1  1  1   Mattingly D, 1b       3  0  0  0   
+Lockhart K, ph        1  0  1  0   Williams B, cf        2  1  0  0   
+Borders P, c          3  1  1  0   Stanley M, c          3  0  1  1   
+Nunnally J, ph        1  0  0  0   Fernandez T, ss       3  1  1  1   
+Hiatt P, rf           3  0  1  0   Kelly P, 2b           3  1  1  0   
+Hamelin B, ph         0  0  0  0                                      
+Coleman V, pr         0  0  0  0                                      
+Howard D, lf          3  0  0  0                                      
+Goodwin T, cf         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  5  1                        30  5  8  4
+
+Kansas City      010 100 000 --  2
+New York         004 100 00x --  5
+
+  Kansas City          IP  H  R ER BB SO
+Torres D (L)          3.1  7  5  5  1  2
+Magnante M            4.2  1  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Hitchcock S (W)       7.2  4  2  1  3  3
+Wickman B             0.1  0  0  0  0  0
+Wetteland J (S)       1.0  1  0  0  2  1
+
+E -- Fernandez T
+DP -- Kansas City 2, New York 2
+LOB -- Kansas City 7, New York 2
+2B -- Borders P, Stanley M
+HR -- Fernandez T, James C
+PB -- Borders P
+T -- 2:28
+A -- 23688
+     Game of 7/20/1995 -- Kansas City at New York (N)
+
+  Kansas City        AB  R  H RBI    New York           AB  R  H RBI
+Lockhart K, 2b        3  0  0  0   Polonia L, lf         5  0  1  0   
+Borders P, ph-c       2  0  0  0   Boggs W, 3b           5  0  1  0   
+Goodwin T, cf         5  1  1  0   James D, dh           4  0  0  0   
+Joyner W, 1b          3  1  1  0   O'Neill P, rf         2  2  1  0   
+Hamelin B, dh         3  1  1  0   Mattingly D, 1b       5  3  3  2   
+Gaetti G, 3b          4  1  1  1   Williams B, cf        3  1  1  2   
+Nunnally J, rf        3  0  3  3   Stanley M, c          3  2  1  1   
+Gagne G, ss           4  0  0  0   Fernandez T, ss       3  0  2  1   
+Howard D, lf          4  0  1  0   Kelly P, 2b           4  0  1  2   
+Mayne B, c            2  0  0  0                                      
+Stynes C, ph-2b       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  4  8  4                        34  8 11  8
+
+Kansas City      000 003 010 --  4
+New York         000 104 30x --  8
+
+  Kansas City          IP  H  R ER BB SO
+Appier K              5.0  4  1  1  3  4
+Brewer B (L)*         0.0  4  4  4  0  0
+Pichardo H            1.2  2  3  3  2  0
+Meacham R             1.1  1  0  0  2  1
+
+  New York             IP  H  R ER BB SO
+Kamieniecki S         5.2  4  3  3  3  1
+Howe S (W)            1.2  3  1  1  0  0
+Wickman B             1.2  1  0  0  1  1
+  * Pitched to 4 batters in 6th
+
+DP -- Kansas City 1, New York 1
+LOB -- Kansas City 7, New York 9
+2B -- Hamelin B, Fernandez T, Nunnally J 2, Howard D
+3B -- Polonia L, O'Neill P
+HR -- Mattingly D, Williams B, Stanley M
+SB -- Goodwin T, Polonia L
+T -- 3:15
+A -- 17061
+     Game of 7/21/1995 -- Texas at New York (N)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Nixon O, cf           4  0  2  1   Boggs W, 3b           4  1  1  1   
+McLemore M, lf        4  1  1  0   Velarde R, ss         4  0  0  2   
+Clark W, 1b           3  1  2  1   Williams B, cf        4  0  1  1   
+Tettleton M, dh       3  0  1  0   O'Neill P, rf         3  0  1  0   
+Gonzalez J, ph        1  0  0  0   Stanley M, c          3  1  1  0   
+Rodriguez I, c        3  0  0  1   Williams G, lf        4  0  0  0   
+Greer R, rf           4  0  0  0   Leyritz J, 1b         3  1  2  0   
+Pagliarulo M, 3b      4  0  1  0   Mattingly D, ph-1b    0  1  0  0   
+Beltre E, 2b          3  1  1  0   Davis R, dh           3  2  1  0   
+Gil B, ss             3  0  1  0   Kelly P, 2b           2  2  1  2   
+                     -- -- -- --                        -- -- -- --
+                     32  3  9  3                        30  8  8  6
+
+Texas            001 002 000 --  3
+New York         000 040 04x --  8
+
+  Texas                IP  H  R ER BB SO
+Rogers K (L)          4.1  6  4  4  3  2
+Whiteside M           3.0  2  1  1  1  2
+Vosberg E             0.2  0  3  3  4  0
+
+  New York             IP  H  R ER BB SO
+Eiland D (W)          5.1  7  3  3  1  4
+MacDonald B           1.2  0  0  0  0  0
+Howe S                0.2  2  0  0  0  0
+Wetteland J (S)       1.1  0  0  0  0  0
+
+DP -- Texas 1, New York 2
+LOB -- Texas 4, New York 7
+2B -- Pagliarulo M, Davis R, McLemore M, Clark W
+SF -- Rodriguez I, Velarde R
+WP -- Vosberg E 3
+T -- 2:59
+A -- 19733
+     Game of 7/22/1995 -- Texas at New York (D)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Nixon O, cf           4  2  3  0   Polonia L, lf         3  0  0  0   
+McLemore M, lf        4  1  0  0   Williams G, ph-lf     1  0  1  0   
+Clark W, 1b           3  1  1  2   Boggs W, 3b           3  1  1  2   
+Gonzalez J, dh        4  0  1  1   James D, dh           4  1  2  0   
+Rodriguez I, c        4  0  1  0   O'Neill P, rf         3  1  0  0   
+Buechele S, 3b        4  0  0  0   Mattingly D, 1b       4  2  2  0   
+Voigt J, rf           3  0  0  0   Williams B, cf        3  0  0  0   
+Greer R, ph           1  0  0  0   Leyritz J, c          2  1  1  1   
+Beltre E, 2b          3  0  0  0   Fernandez T, ss       4  1  1  1   
+Gil B, ss             2  0  1  0   Kelly P, 2b           4  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     32  4  7  3                        31  7  9  6
+
+Texas            003 010 000 --  4
+New York         010 006 00x --  7
+
+  Texas                IP  H  R ER BB SO
+Tewksbury B (L)       5.1  8  7  7  2  6
+Cook D                1.2  1  0  0  0  3
+Russell J             1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        8.0  7  4  4  1  3
+Wetteland J (S)       1.0  0  0  0  0  1
+
+DP -- Texas 1
+LOB -- Texas 3, New York 5
+2B -- Mattingly D, Gil B, Clark W, Nixon O
+HR -- Boggs W
+SB -- Nixon O
+CS -- Gil B
+SF -- Clark W, Boggs W
+HBP -- by Tewksbury B (Leyritz J) 2
+WP -- Pettitte A
+T -- 2:23
+A -- 34571
+     Game of 7/23/1995 -- Texas at New York (D)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Nixon O, cf           5  0  1  0   Polonia L, lf         4  1  2  1   
+McLemore M, 2b        5  0  2  0   Boggs W, 3b           6  1  3  2   
+Clark W, 1b           5  0  1  0   James D, dh           3  0  0  0   
+Gonzalez J, dh        5  0  1  0   Leyritz J, ph         2  1  0  0   
+Tettleton M, rf       3  1  0  0   O'Neill P, rf         6  1  3  1   
+Rodriguez I, c        4  1  2  0   Mattingly D, 1b       4  3  2  2   
+Valle D, c            0  0  0  0   Williams B, cf        4  1  3  1   
+Greer R, lf           3  2  1  0   Stanley M, c          3  2  3  2   
+Pagliarulo M, 3b      3  0  0  1   Fernandez T, ss       2  1  2  2   
+Gil B, ss             4  0  3  3   Kelly P, 2b           5  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  4 11  4                        39 11 18 11
+
+Texas            030 100 000 --  4
+New York         301 015 01x -- 11
+
+  Texas                IP  H  R ER BB SO
+Pavlik R*             2.0  6  4  4  4  2
+Burrows T (L)         3.1  5  4  4  3  0
+McDowell R            2.2  7  3  3  3  1
+
+  New York             IP  H  R ER BB SO
+McDowell J (W)        6.0  8  4  4  2  6
+Wickman B             2.0  1  0  0  0  0
+Ausanio J             1.0  2  0  0  0  1
+  * Pitched to 3 batters in 3rd
+
+E -- Fernandez T, O'Neill P
+DP -- Texas 2
+LOB -- Texas 9, New York 14
+2B -- O'Neill P 2, Polonia L
+3B -- Gil B, Greer R
+HR -- Polonia L, Stanley M, Mattingly D
+SB -- McLemore M
+CS -- Nixon O
+SF -- Pagliarulo M
+T -- 3:19
+A -- 32765
+     Game of 7/24/1995 -- Texas at New York (N)
+
+  Texas              AB  R  H RBI    New York           AB  R  H RBI
+Nixon O, cf           5  1  2  0   Polonia L, lf         4  0  2  0   
+McLemore M, 2b        4  1  0  0   Boggs W, 3b           2  2  1  0   
+Clark W, 1b           3  1  1  2   Velarde R, 3b         1  0  0  0   
+Gonzalez J, dh        4  0  0  0   James D, dh           5  1  4  0   
+Tettleton M, rf       4  1  1  2   Williams G, pr        0  1  0  0   
+Rodriguez I, c        4  0  2  0   O'Neill P, rf         5  0  0  0   
+Greer R, lf           4  0  1  0   Mattingly D, 1b       2  1  2  3   
+Buechele S, 3b        4  0  1  0   Williams B, cf        5  0  3  0   
+Gil B, ss             3  0  0  0   Stanley M, c          5  0  1  1   
+                                   Fernandez T, ss       3  0  2  0   
+                                   Kelly P, 2b           4  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  4                        36  5 15  4
+
+Texas            000 000 040 --  4
+New York         011 020 001 --  5
+  1 out when winning run was scored.
+
+  Texas                IP  H  R ER BB SO
+Gross K               7.0 10  4  2  4  6
+Whiteside M (L)*      1.0  2  1  1  1  3
+Vosberg E             0.1  1  0  0  0  1
+Russell J             0.0  2  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Hitchcock S           7.1  7  3  3  2  7
+Wickman B             0.2  1  1  1  0  2
+Howe S (W)            1.0  0  0  0  1  0
+  * Pitched to 1 batter in 9th
+
+E -- Boggs W, Clark W, Kelly P
+DP -- Texas 1, New York 2
+LOB -- Texas 7, New York 13
+2B -- Fernandez T 2, Nixon O, Clark W
+HR -- Mattingly D, Tettleton M
+SB -- James D
+CS -- Polonia L
+SF -- Mattingly D 2
+T -- 3:27
+A -- 22525
+     Game of 8/1/1995 -- Milwaukee at New York (N)
+
+  Milwaukee          AB  R  H RBI    New York           AB  R  H RBI
+Listach P, ss         4  1  0  0   Williams B, cf        5  2  3  1   
+Cirillo J, 2b-3b      3  1  1  1   Velarde R, lf         4  1  1  0   
+Seitzer K, 3b-1b      3  0  0  0   Leyritz J, 1b         4  0  1  1   
+Nilsson D, lf         5  0  1  1   Mattingly D, 1b       1  0  0  0   
+Vaughn G, dh          3  1  1  1   Sierra R, dh          3  0  0  1   
+Mieske M, rf          4  1  2  0   Stanley M, c          2  1  0  0   
+Jaha J, 1b            4  0  0  0   Williams G, rf        3  1  1  1   
+Vina F, 2b            1  0  0  0   Fernandez T, ss       4  0  2  2   
+Hulse D, cf           4  1  1  2   Davis R, 3b           4  1  2  1   
+Matheny M, c          4  0  1  0   Kelly P, 2b           4  1  2  0   
+                     -- -- -- --                        -- -- -- --
+                     35  5  7  5                        34  7 12  7
+
+Milwaukee        000 111 200 --  5
+New York         002 011 30x --  7
+
+  Milwaukee            IP  H  R ER BB SO
+Givens B              6.0  8  4  4  2  4
+Miranda A (L)         1.0  3  3  3  2  1
+Bronkey J             1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pettitte A            5.0  4  2  2  6  4
+Rivera M (W)          2.0  3  3  3  2  2
+Wickman B             1.0  0  0  0  0  0
+Wetteland J (S)       1.0  0  0  0  0  1
+
+E -- Fernandez T
+DP -- Milwaukee 1
+LOB -- Milwaukee 11, New York 8
+2B -- Williams B, Kelly P, Nilsson D, Williams G
+HR -- Vaughn G, Cirillo J, Hulse D
+SB -- Mieske M, Kelly P
+SF -- Sierra R
+T -- 3:04
+A -- 27106
+     Game of 8/2/1995 -- Milwaukee at New York (D)
+
+  Milwaukee          AB  R  H RBI    New York           AB  R  H RBI
+Vina F, 2b            4  0  0  0   Polonia L, lf         4  0  0  0   
+Seitzer K, 3b         4  0  3  1   Boggs W, 3b           4  1  1  1   
+Cirillo J, pr-3b      1  1  0  0   O'Neill P, rf         4  0  2  0   
+Surhoff B, c-1b       3  1  2  1   Sierra R, dh          3  0  0  0   
+Nilsson D, lf         3  1  1  2   Mattingly D, 1b       4  0  0  0   
+Vaughn G, dh          4  1  1  0   Williams B, cf        4  0  1  0   
+Mieske M, rf          4  0  1  0   Stanley M, c          4  1  1  1   
+Jaha J, 1b            4  0  2  1   Fernandez T, ss       3  0  0  0   
+Matheny M, c          0  0  0  0   Kelly P, 2b           3  0  2  0   
+Hulse D, cf           3  0  0  0                                      
+Valentin J, ss        4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     34  5 11  5                        33  2  7  2
+
+Milwaukee        101 000 030 --  5
+New York         000 110 000 --  2
+
+  Milwaukee            IP  H  R ER BB SO
+Sparks S (W)*         7.0  5  2  2  1  3
+Rightnowar R          1.0  0  0  0  0  0
+Fetters M (S)         1.0  2  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+McDowell J (L)+       7.0  7  3  3  2  2
+Howe S                1.0  4  2  2  0  0
+MacDonald B           1.0  0  0  0  0  2
+  * Pitched to 1 batter in 8th
+  + Pitched to 1 batter in 8th
+
+DP -- Milwaukee 1
+LOB -- Milwaukee 6, New York 5
+2B -- Valentin J, Seitzer K 2, Vaughn G
+HR -- Surhoff B, Boggs W, Stanley M, Nilsson D
+SB -- Kelly P
+CS -- Vina F
+SH -- Hulse D, Surhoff B
+T -- 2:45
+A -- 22191
+     Game of 8/3/1995 -- Milwaukee at New York (N)
+
+  Milwaukee          AB  R  H RBI    New York           AB  R  H RBI
+Vina F, 2b            4  0  1  0   Polonia L, lf         3  1  1  0   
+Seitzer K, 3b         4  0  1  0   Williams G, ph-lf     0  0  0  1   
+Surhoff B, c          3  1  1  0   Boggs W, 3b           4  0  0  0   
+Nilsson D, lf         3  1  0  0   O'Neill P, rf         4  1  2  1   
+Vaughn G, dh          4  0  1  2   Sierra R, dh          3  0  1  3   
+Jaha J, 1b            2  1  1  1   Mattingly D, 1b       3  0  0  0   
+Hulse D, cf           3  0  0  0   Williams B, cf        4  0  0  0   
+Mieske M, rf          4  0  0  0   Stanley M, c          3  1  2  0   
+Valentin J, ss        4  1  1  1   Fernandez T, ss       3  1  1  0   
+                                   Kelly P, 2b           2  0  0  0   
+                                   James D, ph           0  0  0  0   
+                                   Velarde R, ph-2b      0  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  4  6  4                        29  5  7  5
+
+Milwaukee        000 003 001 --  4
+New York         000 100 04x --  5
+
+  Milwaukee            IP  H  R ER BB SO
+Bones R*              7.0  5  3  3  0  4
+Miranda A (L)+        0.0  0  1  1  1  0
+Rightnowar R          1.0  2  1  1  1  1
+
+  New York             IP  H  R ER BB SO
+Cone D (W)            8.0  5  3  3  5  5
+Wetteland J (S)       1.0  1  1  1  1  1
+  * Pitched to 2 batters in 8th
+  + Pitched to 1 batter in 8th
+
+DP -- New York 1
+LOB -- Milwaukee 6, New York 4
+2B -- Stanley M, Vaughn G, Sierra R
+HR -- Valentin J, Jaha J
+SB -- Hulse D
+SF -- Sierra R, Williams G
+T -- 2:54
+A -- 25391
+     Game of 8/7/1995 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Anderson B, cf        3  0  0  0   Boggs W, 3b           4  0  0  0   
+Barberie B, 2b        4  0  0  0   Williams B, cf        4  0  1  0   
+Palmeiro R, 1b        4  0  1  0   O'Neill P, lf-rf      3  0  0  0   
+Bonilla B, rf         3  0  0  0   Sierra R, rf          3  1  0  0   
+Ripken C, ss          3  0  1  0   Williams G, lf        0  0  0  0   
+Baines H, dh          2  0  0  0   Mattingly D, 1b       3  0  0  0   
+Hoiles C, c           3  0  1  0   Strawberry D, dh      3  0  0  0   
+Bass K, lf            3  0  0  0   Stanley M, c          2  1  0  0   
+Manto J, 3b           2  0  0  0   Fernandez T, ss       3  1  1  0   
+Huson J, ph           0  0  0  0   Kelly P, 2b           3  0  1  2   
+                     -- -- -- --                        -- -- -- --
+                     27  0  3  0                        28  3  3  2
+
+Baltimore        000 000 000 --  0
+New York         000 000 30x --  3
+
+  Baltimore            IP  H  R ER BB SO
+Mussina M (L)         7.0  3  3  0  3  6
+Lee M                 1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+McDowell J (W)        9.0  3  0  0  3  5
+
+E -- Mussina M
+DP -- New York 3
+LOB -- Baltimore 3, New York 4
+2B -- Kelly P
+SB -- Sierra R
+T -- 2:24
+A -- 31313
+     Game of 8/8/1995 -- Baltimore at New York (N)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Anderson B, cf        4  1  1  2   Boggs W, 3b           4  2  1  1   
+Barberie B, 2b        4  0  0  0   Williams B, cf        4  2  2  2   
+Palmeiro R, 1b        5  1  2  0   O'Neill P, rf         2  1  0  0   
+Bonilla B, rf         4  1  1  0   Sierra R, dh          5  1  3  7   
+Ripken C, ss          4  0  0  0   Stanley M, c          3  0  1  0   
+Baines H, dh          3  0  0  0   Leyritz J, pr-c       2  0  0  0   
+Manto J, ph           1  0  0  0   Mattingly D, 1b       4  0  1  0   
+Hoiles C, c           3  0  1  2   Williams G, lf        4  1  1  0   
+Bass K, lf            3  0  1  0   Fernandez T, ss       3  2  1  0   
+Huson J, 3b           3  1  1  0   Velarde R, 2b         2  2  1  1   
+Alexander M, ph       1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  4  8  4                        33 11 11 11
+
+Baltimore        000 002 020 --  4
+New York         000 003 53x -- 11
+
+  Baltimore            IP  H  R ER BB SO
+Krivda R (L)          6.0  5  3  3  2  5
+Benitez A             0.1  0  2  2  2  0
+Lee M*                0.0  1  2  2  1  0
+Orosco J              0.2  1  1  1  1  0
+Jones D               1.0  4  3  3  1  1
+
+  New York             IP  H  R ER BB SO
+Cone D (W)            7.0  4  2  2  4  8
+Howe S                2.0  4  2  2  1  1
+  * Pitched to 2 batters in 7th
+
+E -- Stanley M
+DP -- Baltimore 1
+LOB -- Baltimore 9, New York 6
+2B -- Mattingly D, Williams B, Sierra R, Hoiles C, Williams G, Velarde R
+3B -- Palmeiro R
+HR -- Anderson B, Sierra R
+SB -- Bass K
+HBP -- by Krivda R (Williams B)
+WP -- Benitez A
+T -- 3:34
+A -- 33078
+     Game of 8/9/1995 -- Baltimore at New York (D)
+
+  Baltimore          AB  R  H RBI    New York           AB  R  H RBI
+Goodwin C, cf         5  1  2  0   Boggs W, 3b           4  1  3  1   
+Anderson B, lf        3  2  0  0   Williams B, cf        4  1  1  0   
+Huson J, 3b           0  0  0  0   Stanley M, c          4  0  1  0   
+Palmeiro R, 1b        4  1  2  2   Sierra R, rf          3  0  0  0   
+Bonilla B, 3b-rf      4  2  2  0   Mattingly D, 1b       4  0  1  1   
+Ripken C, ss          5  1  3  4   Williams G, lf        4  0  0  0   
+Baines H, dh          2  0  0  0   Strawberry D, dh      3  0  0  0   
+Manto J, ph           1  0  1  0   Fernandez T, ss       3  0  0  0   
+Bass K, rf-lf         3  0  0  0   Velarde R, 2b         3  0  0  0   
+Zaun G, c             4  0  0  0                                      
+Barberie B, 2b        4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  7 10  6                        32  2  6  2
+
+Baltimore        012 020 020 --  7
+New York         100 000 001 --  2
+
+  Baltimore            IP  H  R ER BB SO
+Moyer J (W)           8.1  6  2  2  1  7
+Orosco J              0.2  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Kamieniecki S (L)     4.1  6  5  4  4  0
+MacDonald B           4.1  4  2  2  2  5
+Wetteland J           0.1  0  0  0  0  0
+
+E -- Mattingly D
+DP -- Baltimore 1, New York 2
+LOB -- Baltimore 7, New York 4
+2B -- Ripken C 2, Palmeiro R 2
+3B -- Bonilla B
+HR -- Boggs W, Ripken C
+SB -- Goodwin C
+CS -- Ripken C
+T -- 2:59
+A -- 36333
+     Game of 8/10/1995, game 1 -- Cleveland at New York (D)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Lofton K, cf          4  1  1  3   Boggs W, 3b           5  1  2  0   
+Vizquel O, ss         5  1  1  0   Williams B, cf        5  0  2  1   
+Baerga C, 2b          5  2  2  1   O'Neill P, lf         5  1  2  0   
+Belle A, lf           4  1  2  1   Williams G, pr        0  0  0  0   
+Murray E, dh          3  0  0  0   Sierra R, rf          4  1  3  0   
+Kirby W, pr           0  0  0  0   Mattingly D, 1b       5  1  1  1   
+Thome J, 3b           2  1  0  1   Strawberry D, dh      3  2  1  0   
+Ramirez M, rf         4  1  1  1   Stanley M, c          4  3  3  7   
+Sorrento P, 1b        4  2  4  1   Fernandez T, ss       4  0  0  0   
+Alomar Jr. S, c       4  1  2  1   Kelly P, 2b           4  0  2  0   
+                     -- -- -- --                        -- -- -- --
+                     35 10 13  9                        39  9 16  9
+
+Cleveland        001 004 005 -- 10
+New York         000 214 020 --  9
+
+  Cleveland            IP  H  R ER BB SO
+Nagy C                5.2 11  7  7  1  1
+Poole J (W)           2.1  3  2  2  0  3
+Mesa J (S)            1.0  2  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Rivera M              5.2  7  5  4  3  3
+Wickman B*            2.1  2  2  2  1  1
+Wetteland J (L)       1.0  4  3  3  1  0
+  * Pitched to 2 batters in 9th
+
+E -- Sierra R
+DP -- Cleveland 3, New York 2
+LOB -- Cleveland 6, New York 5
+2B -- Boggs W, Sierra R, Sorrento P, O'Neill P, Alomar Jr. S, Belle A
+3B -- Lofton K
+HR -- Stanley M 3
+SF -- Lofton K, Ramirez M, Thome J
+HBP -- by Nagy C (Strawberry D)
+PB -- Stanley M
+T -- 2:58
+A -- 0
+     Game of 8/10/1995, game 2 -- Cleveland at New York (N)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Lofton K, cf          5  1  3  1   Boggs W, 3b           5  0  1  0   
+Vizquel O, ss         3  0  0  1   Williams B, cf        3  0  1  0   
+Baerga C, 2b          3  0  0  1   O'Neill P, lf         3  0  0  0   
+Belle A, lf           5  0  1  0   Sierra R, rf          4  0  0  0   
+Ramirez M, rf         3  0  0  0   Mattingly D, 1b       4  0  1  0   
+Kirby W, rf           0  0  0  0   Strawberry D, dh      4  1  1  1   
+Thome J, 3b           2  0  0  0   Leyritz J, c          3  1  2  0   
+Espinoza A, 3b        1  0  0  0   Fernandez T, ss       4  0  1  1   
+Winfield D, dh        4  1  1  0   Velarde R, 2b         3  0  1  0   
+Perry H, 1b           3  3  3  1   James D, ph           1  0  0  0   
+Pena T, c             3  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     32  5  9  5                        34  2  8  2
+
+Cleveland        010 010 120 --  5
+New York         000 200 000 --  2
+
+  Cleveland            IP  H  R ER BB SO
+Ogea C (W)            6.0  6  2  2  3  3
+Assenmacher P         2.0  2  0  0  1  1
+Mesa J (S)            1.0  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Hitchcock S (L)       7.0  6  3  3  3  6
+Eiland D              0.2  3  2  2  0  1
+Howe S                0.1  0  0  0  0  0
+Ausanio J             1.0  0  0  0  0  0
+
+E -- Fernandez T
+DP -- New York 1
+LOB -- Cleveland 8, New York 9
+2B -- Perry H 2, Leyritz J, Lofton K, Winfield D
+HR -- Strawberry D
+SB -- Vizquel O 2, Baerga C, Lofton K
+CS -- Thome J
+SH -- Vizquel O
+SF -- Baerga C, Vizquel O
+HBP -- by Hitchcock S (Thome J), by Hitchcock S (Pena T)
+T -- 3:09
+A -- 48115
+     Game of 8/11/1995 -- Cleveland at New York (N)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Lofton K, cf          5  2  3  1   Boggs W, 3b           6  1  3  0   
+Vizquel O, ss         3  0  0  0   Williams B, cf        4  1  2  0   
+Sorrento P, 1b        2  0  0  0   O'Neill P, lf-rf      4  1  1  0   
+Baerga C, 2b          6  1  3  2   Sierra R, dh          5  1  1  4   
+Belle A, lf           5  1  2  1   Mattingly D, 1b       5  0  2  0   
+Ramirez M, rf         5  0  2  1   Strawberry D, rf      3  0  1  0   
+Kirby W, rf           0  0  0  0   Williams G, ph-lf     2  0  0  0   
+Winfield D, dh        3  0  0  0   Stanley M, c          5  0  1  0   
+Murray E, ph          2  0  1  0   Fernandez T, ss       5  0  2  0   
+Perry H, 1b-3b        5  0  1  0   Kelly P, 2b           2  0  0  0   
+Espinoza A, 3b-ss     5  1  3  0   James D, ph           1  0  0  0   
+Pena T, c             3  0  0  0   Velarde R, 2b         1  0  0  0   
+Alomar Jr. S, ph-c    1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     45  5 15  5                        43  4 13  4
+
+Cleveland        100 000 021 01 --  5
+New York         000 004 000 00 --  4
+
+  Cleveland            IP  H  R ER BB SO
+Hershiser O           7.0  9  4  4  2  4
+Assenmacher P         0.2  0  0  0  0  1
+Plunk E               1.0  2  0  0  1  1
+Poole J               0.2  1  0  0  0  0
+Tavarez J (W)         0.2  1  0  0  0  1
+Mesa J (S)            1.0  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Pettitte A*           7.0 10  3  3  0  8
+Wickman B             1.0  2  0  0  0  1
+Wetteland J (L)       2.1  2  2  2  2  0
+Howe S                0.2  1  0  0  0  0
+  * Pitched to 2 batters in 8th
+
+DP -- Cleveland 1, New York 1
+LOB -- Cleveland 10, New York 10
+2B -- Baerga C, Belle A, Murray E, Lofton K
+HR -- Sierra R
+SB -- Belle A, Baerga C
+CS -- Fernandez T
+SH -- Kelly P, Alomar Jr. S
+T -- 3:59
+A -- 33739
+     Game of 8/12/1995 -- Cleveland at New York (N)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Lofton K, cf          4  0  1  0   Boggs W, 3b           3  1  1  0   
+Vizquel O, ss         4  0  1  0   Williams B, cf        4  1  2  2   
+Baerga C, 2b          3  1  1  0   O'Neill P, lf-rf      4  1  2  1   
+Belle A, lf           4  0  1  0   Sierra R, dh          2  0  0  0   
+Murray E, dh          4  1  1  1   Mattingly D, 1b       4  0  0  0   
+Sorrento P, 1b        3  0  0  0   Strawberry D, rf      3  0  0  0   
+Espinoza A, 3b        3  0  1  1   Williams G, lf        0  0  0  0   
+Thome J, ph           0  0  0  0   Stanley M, c          3  0  0  0   
+Pena T, c             3  0  1  0   Fernandez T, ss       3  0  1  0   
+Alomar Jr. S, ph      1  0  0  0   Kelly P, 2b           3  0  0  0   
+Kirby W, rf           3  0  0  0                                      
+Ramirez M, ph         1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        29  3  6  3
+
+Cleveland        000 002 000 --  2
+New York         000 101 10x --  3
+
+  Cleveland            IP  H  R ER BB SO
+Martinez D (L)        7.0  6  3  3  4  5
+Embree A              1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+McDowell J (W)        9.0  7  2  2  3  4
+
+DP -- Cleveland 1, New York 1
+LOB -- Cleveland 7, New York 6
+2B -- O'Neill P, Lofton K, Fernandez T, Murray E, Boggs W, Belle A
+HR -- O'Neill P, Williams B
+T -- 2:53
+A -- 35795
+     Game of 8/13/1995 -- Cleveland at New York (D)
+
+  Cleveland          AB  R  H RBI    New York           AB  R  H RBI
+Lofton K, cf          4  0  0  0   Boggs W, 3b           3  0  1  0   
+Vizquel O, ss         4  0  1  0   Williams B, cf        4  1  0  0   
+Baerga C, 2b          4  0  1  0   O'Neill P, lf-rf      3  1  1  2   
+Belle A, lf           3  1  1  1   Sierra R, dh          4  0  0  0   
+Murray E, dh          4  0  2  0   Mattingly D, 1b       4  1  2  0   
+Thome J, 3b           3  0  1  0   Strawberry D, rf      4  1  3  0   
+Ramirez M, rf         3  0  0  0   Williams G, pr-lf     0  0  0  0   
+Sorrento P, 1b        4  0  0  0   Leyritz J, c          4  0  0  0   
+Alomar Jr. S, c       4  0  0  0   Velarde R, ss         4  0  3  2   
+                                   Kelly P, 2b           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        33  4 10  4
+
+Cleveland        000 001 000 --  1
+New York         200 101 00x --  4
+
+  Cleveland            IP  H  R ER BB SO
+Clark M (L)           6.0  9  4  4  0  3
+Embree A*             1.0  1  0  0  2  0
+Tavarez J             1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Cone D (W)            9.0  6  1  1  3  9
+  * Pitched to 1 batter in 8th
+
+DP -- Cleveland 1
+LOB -- Cleveland 8, New York 7
+2B -- Vizquel O, Mattingly D 2, Strawberry D
+HR -- O'Neill P, Belle A
+SB -- Murray E, Williams G
+WP -- Cone D
+T -- 2:27
+A -- 45866
+     Game of 8/28/1995 -- Kansas City at New York (N)
+
+  Kansas City        AB  R  H RBI    New York           AB  R  H RBI
+Damon J, cf           5  0  1  0   Boggs W, 1b-3b        3  1  3  0   
+Goodwin T, lf         4  1  1  1   Williams B, cf        4  0  2  0   
+Nunnally J, rf        0  0  0  0   O'Neill P, rf-lf      4  0  0  0   
+Joyner W, 1b          4  0  1  1   Sierra R, dh          5  1  2  2   
+Gaetti G, 3b          4  0  0  0   Stanley M, c          4  0  0  0   
+Lockhart K, 2b        4  0  2  0   Velarde R, ss         3  1  1  1   
+Gagne G, ss           4  1  1  1   Williams G, lf        2  0  0  0   
+Tucker M, dh          4  1  2  1   Strawberry D, ph-rf   0  0  0  0   
+Howard D, rf-lf       3  1  1  0   Davis R, 3b           3  0  1  0   
+Mayne B, c            3  0  0  0   James D, ph-1b        1  0  0  0   
+                                   Kelly P, 2b           3  0  0  0   
+                                   Fernandez T, ph       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        32  3  9  3
+
+Kansas City      000 100 300 --  4
+New York         000 111 000 --  3
+
+  Kansas City          IP  H  R ER BB SO
+Fleming D             3.2  3  1  1  3  2
+Converse J            1.1  2  1  1  1  1
+Torres D (W)*         1.0  3  1  1  0  1
+Magnante M            0.2  0  0  0  0  0
+Olson G               1.1  0  0  0  1  2
+Montgomery J (S)      1.0  1  0  0  2  0
+
+  New York             IP  H  R ER BB SO
+McDowell J (L)        9.0  9  4  4  1  7
+  * Pitched to 2 batters in 7th
+
+DP -- Kansas City 3
+LOB -- Kansas City 6, New York 10
+2B -- Joyner W
+HR -- Gagne G, Sierra R, Velarde R, Tucker M
+SB -- Damon J, Howard D, Goodwin T
+SH -- Mayne B, Williams B
+T -- 2:49
+A -- 23595
+     Game of 8/29/1995 -- California at New York (N)
+
+  California         AB  R  H RBI    New York           AB  R  H RBI
+Phillips T, 3b        4  1  1  1   Boggs W, 1b           4  1  2  2   
+Owen S, ss            3  0  0  0   Williams B, cf        3  1  3  3   
+Edmonds J, cf         3  0  0  0   O'Neill P, rf         4  1  0  0   
+Myers G, c            1  0  0  0   Sierra R, dh          5  1  2  1   
+Davis C, dh           3  1  0  0   Stanley M, c          5  2  2  3   
+Salmon T, rf          3  1  1  1   Velarde R, 3b         4  1  1  0   
+Snow J, 1b            3  1  1  1   Williams G, lf        4  1  1  1   
+Anderson G, lf-cf     4  0  0  1   Fernandez T, ss       2  3  1  0   
+Fabregas J, c         3  0  1  0   Kelly P, 2b           2  1  1  1   
+Hudler R, 2b          1  0  0  0                                      
+Lind J, 2b            2  0  0  0                                      
+Aldrete M, ph-lf      1  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  4  5  4                        33 12 13 11
+
+California       011 200 000 --  4
+New York         500 201 40x -- 12
+
+  California           IP  H  R ER BB SO
+Finley C (L)          5.2 10  8  8  3  1
+Habyan J              0.2  2  3  3  2  0
+Butcher M*            0.0  1  1  1  3  0
+Patterson B           1.2  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Cone D (W)            8.0  5  4  4  4  6
+MacDonald B           1.0  0  0  0  0  0
+  * Pitched to 4 batters in 7th
+
+E -- Kelly P
+DP -- California 2, New York 1
+LOB -- California 4, New York 6
+2B -- Velarde R, Fernandez T, Stanley M, Williams G
+3B -- Williams B
+HR -- Stanley M, Phillips T, Salmon T, Snow J
+CS -- Fabregas J
+SH -- Kelly P
+WP -- Habyan J 2
+T -- 2:53
+A -- 24233
+     Game of 8/30/1995 -- California at New York (D)
+
+  California         AB  R  H RBI    New York           AB  R  H RBI
+Phillips T, 3b        3  0  0  0   Boggs W, 3b           5  1  1  1   
+Easley D, ss          3  0  0  0   Williams B, cf        4  1  3  0   
+Owen S, ph-ss         1  0  0  0   O'Neill P, rf         4  1  0  0   
+Edmonds J, cf         4  0  0  0   Sierra R, dh          4  0  3  2   
+Davis C, dh           3  0  0  0   Leyritz J, c          2  0  1  1   
+Salmon T, rf          4  0  2  0   Mattingly D, 1b       4  0  1  0   
+Snow J, 1b            3  0  0  0   Williams G, lf        4  1  1  0   
+Anderson G, lf        3  0  1  0   Fernandez T, ss       3  0  1  0   
+Hudler R, 2b          3  1  1  0   Velarde R, 2b         4  0  1  0   
+Fabregas J, c         2  0  0  0                                      
+Gonzales R, ph        1  0  1  1                                      
+Myers G, c            0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  1  5  1                        34  4 12  4
+
+California       000 000 010 --  1
+New York         101 011 00x --  4
+
+  California           IP  H  R ER BB SO
+Abbott J (L)          5.2 11  4  3  1  1
+James M               1.1  1  0  0  1  2
+Smith L               1.0  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        9.0  5  1  1  2  8
+
+E -- Easley D
+DP -- California 2, New York 1
+LOB -- California 4, New York 9
+2B -- Williams B, Salmon T, Williams G, Boggs W, Hudler R
+SH -- Fernandez T
+WP -- Pettitte A
+T -- 2:34
+A -- 22244
+     Game of 8/31/1995 -- California at New York (N)
+
+  California         AB  R  H RBI    New York           AB  R  H RBI
+Phillips T, 3b        4  0  1  0   Boggs W, 3b           5  2  3  0   
+Hudler R, 2b-cf       5  0  1  1   Williams B, cf        4  2  1  0   
+Edmonds J, cf         3  0  1  0   O'Neill P, rf         5  4  4  8   
+Gonzales R, pr-2b     0  0  0  0   Sierra R, dh          5  0  2  0   
+Aldrete M, ph         1  0  0  0   Stanley M, c          4  1  2  2   
+Davis C, dh           3  1  0  0   Mattingly D, 1b       3  0  0  1   
+Salmon T, rf          5  2  3  0   Williams G, lf        4  0  0  0   
+Snow J, 1b            3  0  1  0   Velarde R, ss         4  1  1  0   
+Anderson G, lf        5  1  2  1   Kelly P, 2b           4  1  2  0   
+Easley D, ss          2  0  0  0                                      
+Owen S, ph-ss         3  1  2  1                                      
+Myers G, c            4  1  3  1                                      
+                     -- -- -- --                        -- -- -- --
+                     38  6 14  4                        38 11 15 11
+
+California       001 003 011 --  6
+New York         430 013 00x -- 11
+
+  California           IP  H  R ER BB SO
+Anderson B (L)        1.2  6  7  7  1  1
+Harkey M              3.2  5  2  2  0  0
+Patterson B           0.1  3  2  2  0  0
+Butcher M             0.1  0  0  0  2  0
+Habyan J              1.0  1  0  0  0  0
+Percival T            1.0  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Hitchcock S (W)       5.2  6  4  4  4  2
+Wickman B             1.0  3  0  0  1  1
+Howe S                1.1  2  1  1  1  0
+Wetteland J           1.0  3  1  1  0  2
+
+E -- Kelly P
+DP -- California 1, New York 3
+LOB -- California 11, New York 6
+2B -- Velarde R, Myers G, Owen S
+HR -- O'Neill P 3, Stanley M
+T -- 3:21
+A -- 25633
+     Game of 9/1/1995 -- Oakland at New York (N)
+
+  Oakland            AB  R  H RBI    New York           AB  R  H RBI
+Henderson R, lf       4  1  1  2   Boggs W, 3b           4  1  1  0   
+Berroa G, rf          4  1  1  2   Williams B, cf        3  2  0  0   
+Gates B, 2b           4  1  1  1   O'Neill P, rf         5  1  2  2   
+McGwire M, dh         3  1  2  2   Sierra R, dh          4  1  0  0   
+Giambi J, 1b          4  0  0  0   James D, lf           2  2  1  2   
+Steinbach T, c        4  0  0  0   Williams G, lf        0  0  0  0   
+Javier S, cf          4  1  1  0   Strawberry D, ph      0  0  0  0   
+Paquette C, 3b        4  1  1  0   Kelly P, pr-2b        0  0  0  0   
+Bordick M, ss         3  1  0  0   Mattingly D, 1b       4  0  2  1   
+                                   Stanley M, c          4  0  2  2   
+                                   Fernandez T, ss       3  0  0  1   
+                                   Velarde R, 2b-lf      1  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  7  7  7                        30  8  8  8
+
+Oakland          010 140 100 --  7
+New York         320 020 01x --  8
+
+  Oakland              IP  H  R ER BB SO
+VanPoppel T           4.1  5  7  7  7  5
+Briscoe J             2.1  1  0  0  4  2
+Mohler M (L)          0.2  1  1  1  0  1
+Wengert D             0.2  1  0  0  2  1
+
+  New York             IP  H  R ER BB SO
+Kamieniecki S         4.1  7  6  6  0  4
+Rivera M (W)          3.2  0  1  1  3  5
+Wetteland J (S)       1.0  0  0  0  0  2
+
+DP -- Oakland 1
+LOB -- Oakland 3, New York 12
+2B -- Boggs W, O'Neill P 2, Stanley M
+3B -- James D
+HR -- McGwire M, Berroa G
+SB -- Paquette C, Javier S, Henderson R
+SF -- Fernandez T
+WP -- Kamieniecki S
+T -- 3:23
+A -- 17646
+     Game of 9/2/1995 -- Oakland at New York (D)
+
+  Oakland            AB  R  H RBI    New York           AB  R  H RBI
+Henderson R, lf       3  0  0  0   Boggs W, 3b           4  1  1  0   
+Javier S, cf          4  0  1  0   Williams B, cf        2  0  2  2   
+Gates B, 2b           3  0  0  0   O'Neill P, rf         4  0  1  1   
+McGwire M, dh         3  0  0  0   Sierra R, dh          4  1  1  0   
+Herrera J, ph         1  0  0  0   Stanley M, c          4  0  1  1   
+Berroa G, rf          3  0  0  0   Williams G, lf        3  1  1  0   
+Paquette C, 3b        3  0  0  0   Mattingly D, 1b       4  1  1  0   
+Brosius S, 1b         4  0  0  0   Velarde R, ss         4  1  1  1   
+Bordick M, ss         3  0  1  0   Kelly P, 2b           2  0  0  0   
+Helfand E, c          3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  2  0                        31  5  9  5
+
+Oakland          000 000 000 --  0
+New York         000 001 31x --  5
+
+  Oakland              IP  H  R ER BB SO
+Wojciechowski S (L)*  5.0  3  1  1  2  0
+Reyes C               2.0  4  3  3  0  1
+Acre M                1.0  2  1  1  0  2
+
+  New York             IP  H  R ER BB SO
+McDowell J (W)        8.0  2  0  0  3  9
+Wickman B             1.0  0  0  0  0  1
+  * Pitched to 3 batters in 6th
+
+E -- Williams B
+DP -- Oakland 1
+LOB -- Oakland 7, New York 6
+2B -- Sierra R
+SB -- Williams G, Javier S, Henderson R
+CS -- Henderson R
+SH -- Kelly P
+HBP -- by Wojciechowski S (Williams B), by McDowell J (Paquette C)
+PB -- Stanley M 2
+T -- 2:55
+A -- 22552
+     Game of 9/3/1995 -- Oakland at New York (D)
+
+  Oakland            AB  R  H RBI    New York           AB  R  H RBI
+Henderson R, dh       6  2  2  2   Boggs W, 3b           4  1  3  2   
+Javier S, lf          4  3  2  1   Williams B, cf        5  1  2  1   
+Gates B, 2b           6  0  2  2   O'Neill P, rf         5  1  2  0   
+Berroa G, rf          5  1  3  2   Rivera R, pr-lf       1  0  0  0   
+Steinbach T, c        5  1  1  0   Strawberry D, dh      4  1  1  1   
+Herrera J, cf         4  1  2  0   Leyritz J, ph         0  0  0  0   
+Paquette C, 3b-1b     4  1  2  1   Kelly P, ph           2  0  0  0   
+Bordick M, ss         5  1  1  1   James D, lf           2  0  0  0   
+Brosius S, 1b         3  0  0  0   Williams G, lf        1  0  0  0   
+McGwire M, ph         0  0  0  0   Sierra R, ph-rf       2  0  1  0   
+Gallego M, pr-3b      1  0  0  0   Mattingly D, 1b       6  1  3  0   
+                                   Stanley M, c          5  1  1  2   
+                                   Fernandez T, ss       5  3  4  3   
+                                   Velarde R, 2b         2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     43 10 15  9                        44  9 18  9
+
+Oakland          110 211 030 1 -- 10
+New York         200 240 001 0 --  9
+
+  Oakland              IP  H  R ER BB SO
+Ontiveros S           4.2 11  8  8  4  1
+Honeycutt R           1.1  2  0  0  0  0
+Corsi J               1.0  1  0  0  1  1
+Mohler M*             0.0  1  0  0  0  0
+Eckersley D (W)       3.0  3  1  1  0  4
+
+  New York             IP  H  R ER BB SO
+Cone D                6.1  9  6  6  4  4
+Wickman B             1.1  4  3  3  0  1
+Pavlas D              1.1  1  0  0  0  1
+Wetteland J (L)       1.0  1  1  1  0  0
+  * Pitched to 1 batter in 8th
+
+DP -- Oakland 2, New York 1
+LOB -- Oakland 9, New York 12
+2B -- Williams B, Steinbach T, Boggs W, Stanley M, Berroa G, Fernandez T
+3B -- Boggs W, Fernandez T
+HR -- Bordick M, Berroa G, Fernandez T, Henderson R
+SB -- Javier S 2, Henderson R, Paquette C
+SH -- Velarde R
+SF -- Paquette C, Boggs W
+HBP -- by Wickman B (McGwire M)
+WP -- Cone D
+T -- 4:27
+A -- 25542
+     Game of 9/4/1995 -- Seattle at New York (D)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Coleman V, lf         2  0  0  0   Boggs W, 3b           5  3  3  1   
+Diaz A, lf            3  0  0  0   Davis R, 3b           0  0  0  0   
+Sojo L, ss            2  1  2  0   Williams B, cf        6  3  3  4   
+Rodriguez A, ss       2  0  0  0   O'Neill P, rf         5  2  3  3   
+Griffey Jr. K, cf     3  0  1  0   Rivera R, pr-lf       0  0  0  0   
+Amaral R, cf          1  0  0  0   Sierra R, dh          5  2  2  1   
+Martinez E, dh        3  1  1  2   James D, lf-1b        5  0  3  1   
+Strange D, ph         1  1  1  0   Mattingly D, 1b       5  0  1  0   
+Buhner J, rf          2  0  0  0   Williams G, rf        0  0  0  0   
+Newson W, rf          1  0  1  1   Leyritz J, c          4  0  1  1   
+Blowers M, 3b         4  0  0  0   Posada J, c           0  0  0  0   
+Martinez T, 1b        1  0  1  0   Fernandez T, ss       4  1  2  0   
+Pirkl G, ph-1b        3  0  1  0   Jeter D, ss           0  0  0  0   
+Widger C, c           4  0  0  0   Velarde R, 2b         4  2  1  0   
+Fermin F, 2b          4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  3  9  3                        43 13 19 11
+
+Seattle          200 000 010 --  3
+New York         342 100 03x -- 13
+
+  Seattle              IP  H  R ER BB SO
+Torres S (L)*         1.0  7  6  6  2  2
+Ayala B+              1.0  3  3  3  2  1
+Mecir J               3.2  4  1  0  1  2
+Davison S             2.1  5  3  3  1  1
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        8.0  8  3  3  1  6
+Ausanio J             1.0  1  0  0  0  1
+  * Pitched to 3 batters in 2nd
+  + Pitched to 2 batters in 3rd
+
+E -- Griffey Jr. K, Diaz A
+DP -- Seattle 1
+LOB -- Seattle 7, New York 12
+2B -- O'Neill P, James D, Sojo L, Boggs W, Strange D
+3B -- Williams B, Fernandez T
+HR -- Martinez E, Williams B
+WP -- Ayala B
+T -- 3:00
+A -- 24885
+     Game of 9/5/1995 -- Seattle at New York (N)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Coleman V, lf         4  0  0  0   Boggs W, 3b           5  0  2  1   
+Cora J, 2b            5  1  1  0   Williams B, cf        5  1  2  0   
+Griffey Jr. K, cf     2  2  1  1   O'Neill P, rf         3  0  1  1   
+Martinez E, dh        4  1  2  1   Sierra R, dh          5  1  1  0   
+Martinez T, 1b        4  0  0  0   James D, lf           3  1  2  1   
+Buhner J, rf          4  1  1  3   Williams G, lf        1  0  0  0   
+Strange D, 3b         4  0  2  0   Mattingly D, 1b       5  1  2  1   
+Wilson D, c           4  0  0  0   Stanley M, c          4  0  1  1   
+Sojo L, ss            3  1  1  1   Fernandez T, ss       3  1  1  0   
+                                   Velarde R, 2b         3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     34  6  8  6                        37  5 12  5
+
+Seattle          002 040 000 --  6
+New York         000 012 101 --  5
+
+  Seattle              IP  H  R ER BB SO
+Wolcott B (W)         5.2  8  3  3  1  4
+Risley B              0.2  2  1  1  2  1
+Guetterman L*         0.0  1  0  0  0  0
+Nelson J              0.2  0  0  0  0  1
+Charlton N (S)        2.0  1  1  1  1  3
+
+  New York             IP  H  R ER BB SO
+Rivera M (L)          4.1  7  5  5  3  5
+MacDonald B           2.0  1  1  1  1  1
+Kamieniecki S         2.2  0  0  0  0  1
+  * Pitched to 1 batter in 7th
+
+LOB -- Seattle 5, New York 12
+2B -- Boggs W, Strange D, Martinez E, O'Neill P
+3B -- Williams B
+HR -- Sojo L, Griffey Jr. K, Buhner J, James D, Mattingly D
+CS -- Coleman V
+SF -- O'Neill P, Stanley M
+HBP -- by Nelson J (Fernandez T)
+T -- 3:08
+A -- 15340
+     Game of 9/6/1995 -- Seattle at New York (N)
+
+  Seattle            AB  R  H RBI    New York           AB  R  H RBI
+Coleman V, lf         4  0  0  0   Boggs W, 3b           3  0  1  0   
+Cora J, 2b            4  0  0  0   Williams B, cf        4  0  1  0   
+Griffey Jr. K, cf     3  1  1  0   O'Neill P, rf         4  0  1  1   
+Martinez E, dh        3  1  0  0   Sierra R, dh          4  0  0  0   
+Martinez T, 1b        4  1  3  2   James D, lf           2  1  0  0   
+Buhner J, rf          3  0  0  1   Williams G, lf        1  0  0  0   
+Strange D, 3b         4  0  0  0   Mattingly D, 1b       4  1  1  0   
+Wilson D, c           3  0  1  0   Stanley M, c          3  0  1  0   
+Diaz A, ph            1  0  0  0   Fernandez T, ss       4  1  1  1   
+Sojo L, ss            2  0  1  0   Velarde R, 2b         4  1  1  2   
+                     -- -- -- --                        -- -- -- --
+                     31  3  6  3                        33  4  7  4
+
+Seattle          010 002 000 --  3
+New York         000 004 00x --  4
+
+  Seattle              IP  H  R ER BB SO
+Belcher T (L)         5.1  6  4  2  4  1
+Guetterman L          0.2  1  0  0  1  0
+Nelson J              2.0  0  0  0  1  3
+
+  New York             IP  H  R ER BB SO
+McDowell J (W)        9.0  6  3  3  3  9
+
+E -- Strange D, Cora J
+DP -- New York 1
+LOB -- Seattle 5, New York 11
+2B -- Velarde R
+HR -- Martinez T
+SF -- Buhner J
+T -- 2:38
+A -- 15426
+     Game of 9/8/1995 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+McGee W, cf           3  0  1  0   Boggs W, 3b           2  2  1  1   
+Tinsley L, ph-cf      2  1  1  1   Williams B, cf        3  1  1  0   
+Valentin J, ss        3  0  0  0   O'Neill P, rf         2  1  1  3   
+Rodriguez C, ph-ss    1  1  1  1   Strawberry D, dh      3  1  1  3   
+Vaughn M, 1b          2  0  0  0   Leyritz J, ph         0  0  0  0   
+Donnels C, ph-1b      1  0  1  1   James D, lf           3  0  0  0   
+Canseco J, dh         4  0  1  1   Williams G, ph-lf     1  0  0  0   
+Greenwell M, lf       4  0  1  0   Mattingly D, 1b       4  0  0  0   
+Hosey D, lf           0  0  0  0   Stanley M, c          4  1  1  1   
+O'Leary T, rf         4  0  0  0   Fernandez T, ss       3  0  0  0   
+Naehring T, 3b        4  0  0  0   Velarde R, 2b         1  2  0  0   
+Haselman B, c         2  0  0  0                                      
+Hatteberg S, ph-c     2  1  1  0                                      
+Alicea L, 2b          4  1  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  4  7  4                        26  8  5  8
+
+Boston           000 000 040 --  4
+New York         320 000 30x --  8
+
+  Boston               IP  H  R ER BB SO
+Wakefield T (L)       6.0  2  5  5  7  5
+Murray M*             0.0  3  3  3  1  0
+Bark B                1.0  0  0  0  1  0
+Suppan J              1.0  0  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+Cone D (W)            7.1  7  4  4  0 10
+Howe S (S)            1.2  0  0  0  0  1
+  * Pitched to 4 batters in 7th
+
+E -- Williams B, Fernandez T 2
+DP -- Boston 1, New York 1
+LOB -- Boston 6, New York 4
+2B -- Boggs W, O'Neill P
+HR -- Strawberry D, Stanley M
+SB -- Velarde R
+CS -- Fernandez T
+SF -- O'Neill P
+HBP -- by Cone D (Vaughn M)
+T -- 2:40
+A -- 35896
+     Game of 9/9/1995 -- Boston at New York (D)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+McGee W, rf           4  1  2  0   Boggs W, 3b           4  0  1  1   
+Valentin J, ss        4  0  1  1   Williams B, cf        4  0  0  0   
+Vaughn M, 1b          4  0  0  0   O'Neill P, rf         4  2  2  0   
+Canseco J, dh         4  0  1  0   Sierra R, dh          4  2  3  2   
+Naehring T, 3b        4  0  2  0   Leyritz J, c          4  1  1  0   
+Greenwell M, lf       3  0  1  0   Velarde R, ss         4  1  1  1   
+Haselman B, c         3  0  0  0   Mattingly D, 1b       4  1  1  2   
+Stairs M, ph          1  0  0  0   Williams G, lf        4  2  2  2   
+Tinsley L, cf         3  0  0  0   Kelly P, 2b           4  0  0  1   
+Alicea L, 2b          3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  7  1                        36  9 11  9
+
+Boston           001 000 000 --  1
+New York         041 000 04x --  9
+
+  Boston               IP  H  R ER BB SO
+Smith Z (L)*          2.0  7  5  5  0  0
+Maddux M              5.0  0  0  0  0  4
+Gunderson E+          0.0  2  2  2  0  0
+Hudson J              0.1  1  1  1  0  0
+Stanton M             0.2  1  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        8.2  7  1  1  1  7
+Wickman B             0.1  0  0  0  0  0
+  * Pitched to 2 batters in 3rd
+  + Pitched to 2 batters in 8th
+
+E -- Alicea L
+DP -- New York 1
+LOB -- Boston 6, New York 3
+2B -- Valentin J, Sierra R 2, O'Neill P
+3B -- Boggs W, McGee W
+HR -- Williams G
+T -- 2:39
+A -- 47719
+     Game of 9/10/1995 -- Boston at New York (N)
+
+  Boston             AB  R  H RBI    New York           AB  R  H RBI
+McGee W, rf           4  0  0  0   Boggs W, 3b           4  2  1  1   
+Valentin J, ss        4  1  1  0   Williams B, cf        4  1  3  2   
+Vaughn M, 1b          4  1  2  2   O'Neill P, rf         4  1  1  1   
+Canseco J, dh         4  1  1  1   Strawberry D, dh      2  1  1  2   
+Naehring T, 3b        4  0  1  0   Sierra R, ph          1  0  1  2   
+Greenwell M, lf       3  0  1  0   James D, lf           3  0  0  0   
+Hosey D, ph           1  0  0  0   Williams G, lf        1  0  0  0   
+MacFarlane M, c       3  0  0  0   Mattingly D, 1b       4  0  0  0   
+Tinsley L, cf         4  0  0  0   Stanley M, c          4  1  1  0   
+Alicea L, 2b          3  0  1  0   Fernandez T, ss       4  1  1  0   
+                                   Velarde R, 2b         3  2  1  1   
+                     -- -- -- --                        -- -- -- --
+                     34  3  7  3                        34  9 10  9
+
+Boston           000 003 000 --  3
+New York         230 004 00x --  9
+
+  Boston               IP  H  R ER BB SO
+Hanson E (L)          5.2  7  7  7  3  4
+Gunderson E*          0.0  1  2  2  2  0
+Hudson J              0.1  1  0  0  0  0
+Eshelman V            1.0  0  0  0  0  0
+Aguilera R            1.0  1  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Hitchcock S (W)       6.0  7  3  3  1  8
+Rivera M              2.0  0  0  0  0  1
+MacDonald B           0.1  0  0  0  0  1
+Wetteland J           0.2  0  0  0  0  1
+  * Pitched to 3 batters in 6th
+
+E -- Greenwell M, Alicea L, Naehring T
+DP -- Boston 1, New York 1
+LOB -- Boston 5, New York 6
+2B -- Williams B, Vaughn M
+3B -- O'Neill P
+HR -- Strawberry D, Vaughn M, Canseco J
+WP -- Hitchcock S, Eshelman V
+T -- 2:47
+A -- 27527
+     Game of 9/18/1995 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Alomar R, 2b          5  0  1  0   Boggs W, 3b           4  1  2  2   
+Molitor P, dh         4  0  1  0   Davis R, pr-3b        0  1  0  0   
+Carter J, cf          4  0  1  0   Williams B, cf        4  2  3  1   
+Olerud J, 1b          3  0  0  0   O'Neill P, rf         4  0  1  2   
+Sprague E, 3b         3  1  1  0   Sierra R, dh          4  1  1  1   
+Green S, rf           4  1  2  1   James D, lf           3  0  0  1   
+Delgado C, lf         4  0  0  0   Williams G, lf        0  0  0  0   
+Martinez A, c         4  0  2  1   Strawberry D, ph      1  0  1  1   
+Perez T, ss           4  0  1  0   Rivera R, pr-lf       0  0  0  0   
+                                   Mattingly D, 1b       5  0  2  0   
+                                   Stanley M, c          2  1  1  0   
+                                   Velarde R, ss         4  1  1  0   
+                                   Kelly P, 2b           3  2  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  2  9  2                        34  9 12  8
+
+Toronto          000 000 101 --  2
+New York         000 000 36x --  9
+
+  Toronto              IP  H  R ER BB SO
+Ware J                6.0  5  0  0  6  5
+Cox D (L)*            1.0  5  8  6  2  1
+Crabtree T            1.0  2  1  1  0  0
+
+  New York             IP  H  R ER BB SO
+Cone D (W)            8.0  6  1  1  2  5
+Howe S                1.0  3  1  1  0  1
+  * Pitched to 5 batters in 8th
+
+E -- Cox D 2, Sprague E
+DP -- Toronto 2, New York 1
+LOB -- Toronto 8, New York 11
+2B -- Mattingly D, Boggs W, Stanley M, Sierra R, Strawberry D
+HR -- Green S
+SF -- James D, O'Neill P
+WP -- Ware J, Cone D
+PB -- Martinez A 2
+T -- 3:17
+A -- 15224
+     Game of 9/19/1995 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Gonzalez A, ss        4  1  1  1   Boggs W, 3b           4  1  1  1   
+Molitor P, dh         4  0  0  0   Williams B, cf        2  0  0  1   
+Carter J, lf          4  1  2  1   O'Neill P, rf         2  0  0  1   
+Olerud J, 1b          4  0  1  0   Strawberry D, dh      2  0  0  0   
+Sprague E, 3b         3  1  0  0   James D, lf           3  1  1  1   
+Huff M, cf            2  0  0  0   Williams G, lf        0  0  0  0   
+Green S, ph           1  0  0  0   Mattingly D, 1b       3  0  0  0   
+Perez R, rf           3  0  0  0   Leyritz J, c          3  1  0  0   
+Delgado C, ph         1  0  0  0   Velarde R, ss         4  1  1  1   
+Cedeno D, 2b          2  0  0  0   Kelly P, 2b           3  1  0  0   
+Parrish L, c          3  0  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     31  3  5  3                        26  5  3  5
+
+Toronto          100 001 100 --  3
+New York         050 000 00x --  5
+
+  Toronto              IP  H  R ER BB SO
+Guzman J (L)          1.1  2  5  5  6  1
+Robinson K            4.2  1  0  0  2  5
+Rogers J              1.0  0  0  0  2  0
+Timlin M              1.0  0  0  0  0  1
+
+  New York             IP  H  R ER BB SO
+Pettitte A (W)        8.0  5  3  3  3  5
+Wetteland J (S)       1.0  0  0  0  0  2
+
+DP -- New York 1
+LOB -- Toronto 4, New York 8
+2B -- Olerud J
+HR -- Gonzalez A, Carter J
+CS -- Williams B
+HBP -- by Guzman J (Kelly P)
+PB -- Leyritz J
+T -- 2:52
+A -- 15772
+     Game of 9/20/1995 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Gonzalez A, ss        4  0  0  0   Boggs W, 3b           4  0  0  0   
+Molitor P, dh         4  0  1  0   Williams B, cf        4  1  1  0   
+Carter J, lf          4  1  0  0   O'Neill P, rf         2  1  0  0   
+Olerud J, 1b          3  0  1  0   Strawberry D, dh      3  0  1  0   
+Sprague E, 3b         4  0  2  1   Leyritz J, ph         1  0  0  0   
+Battle H, pr          0  0  0  0   James D, lf           3  0  0  1   
+Huff M, cf            4  0  0  0   Williams G, lf        0  0  0  0   
+Perez R, rf           4  0  1  0   Mattingly D, 1b       3  0  2  1   
+Cedeno D, 2b          3  0  1  0   Stanley M, c          2  0  0  0   
+Knorr R, c            3  0  0  0   Velarde R, ss         2  0  1  0   
+                                   Kelly P, 2b           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        27  2  5  2
+
+Toronto          100 000 000 --  1
+New York         200 000 00x --  2
+
+  Toronto              IP  H  R ER BB SO
+Hentgen P (L)         7.0  5  2  2  3  7
+Castillo T            1.0  0  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Hitchcock S (W)       9.0  6  1  1  1  3
+
+DP -- Toronto 1
+LOB -- Toronto 6, New York 5
+2B -- Olerud J
+SB -- Carter J
+T -- 2:16
+A -- 20541
+     Game of 9/21/1995 -- Toronto at New York (N)
+
+  Toronto            AB  R  H RBI    New York           AB  R  H RBI
+Alomar R, 2b          5  2  2  0   Boggs W, 3b           4  0  2  0   
+Molitor P, dh         4  0  0  0   Williams B, cf        4  1  1  1   
+Carter J, cf-lf       4  0  1  0   O'Neill P, rf         2  1  1  0   
+Olerud J, 1b          3  1  2  3   Sierra R, dh          4  1  2  3   
+Sprague E, 3b         3  0  0  0   James D, lf           4  0  1  0   
+Green S, rf           4  0  3  1   Williams G, pr-lf     0  1  0  0   
+Delgado C, lf         2  0  0  0   Mattingly D, 1b       4  1  1  0   
+Huff M, ph-cf         2  0  0  0   Stanley M, c          4  0  1  0   
+Martinez A, c         4  0  0  0   Velarde R, ss         3  1  2  1   
+Perez T, ss           4  1  1  0   Kelly P, 2b           4  0  0  1   
+                     -- -- -- --                        -- -- -- --
+                     35  4  9  4                        33  6 11  6
+
+Toronto          100 120 000 --  4
+New York         000 010 05x --  6
+
+  Toronto              IP  H  R ER BB SO
+Menhart P (L)*        7.0 10  6  6  3  2
+Timlin M              1.0  1  0  0  0  2
+
+  New York             IP  H  R ER BB SO
+McDowell J            5.0  7  4  4  2  3
+MacDonald B           1.1  0  0  0  0  2
+Wickman B             1.0  1  0  0  0  0
+Howe S (W)            0.2  1  0  0  0  0
+Wetteland J (S)       1.0  0  0  0  0  1
+  * Pitched to 5 batters in 8th
+
+DP -- Toronto 2
+LOB -- Toronto 7, New York 7
+2B -- Alomar R, Green S 3, Stanley M, Sierra R, Velarde R, Mattingly D
+HR -- Sierra R
+SH -- Molitor P
+HBP -- by Menhart P (Velarde R)
+WP -- Menhart P, McDowell J
+T -- 3:03
+A -- 17766
+     Game of 9/23/1995, game 1 -- Detroit at New York (D)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Curtis C, cf          3  0  0  0   Boggs W, 3b           3  1  2  0   
+Gomez C, ss           4  0  0  0   Williams B, cf        4  2  2  0   
+Fryman T, 3b          1  2  1  0   O'Neill P, rf         3  0  0  0   
+Fielder C, dh         3  0  1  1   Sierra R, dh          4  1  1  2   
+White D, pr           0  0  0  0   James D, lf           3  0  0  0   
+Clark T, 1b           4  0  0  0   Williams G, lf        0  0  0  0   
+Higginson B, rf       3  0  1  1   Strawberry D, ph      1  0  0  0   
+Nevin P, lf           4  0  1  0   Rivera R, lf          0  0  0  0   
+Flaherty J, c         2  0  0  0   Mattingly D, 1b       3  0  1  1   
+Stubbs F, ph          1  0  0  0   Stanley M, c          2  0  0  1   
+Tingley R, c          1  0  0  0   Velarde R, ss         4  0  0  0   
+Rodriguez S, 2b       2  0  0  0   Kelly P, 2b           2  1  0  0   
+Whitaker L, ph-2b     1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  2  4  2                        29  5  6  4
+
+Detroit          000 101 000 --  2
+New York         200 010 02x --  5
+
+  Detroit              IP  H  R ER BB SO
+Lima J (L)            6.0  4  3  2  1  3
+Gohr G                1.0  1  0  0  1  0
+Henry D               0.2  1  2  2  4  1
+Blomdahl B            0.1  0  0  0  0  0
+
+  New York             IP  H  R ER BB SO
+Cone D (W)            8.0  4  2  2  6 10
+Wetteland J (S)       1.0  0  0  0  0  3
+
+E -- Higginson B
+DP -- Detroit 1, New York 1
+LOB -- Detroit 6, New York 6
+2B -- Williams B 2, Boggs W, Fielder C
+3B -- Fryman T
+HR -- Sierra R
+T -- 2:44
+A -- 0
+     Game of 9/23/1995, game 2 -- Detroit at New York (D)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Curtis C, cf          3  0  2  1   Boggs W, 3b           2  0  0  0   
+Trammell A, ss        4  0  1  0   Williams B, cf        5  0  0  0   
+Fryman T, 3b          4  0  1  0   O'Neill P, lf-rf      3  2  1  0   
+Fielder C, dh         4  0  0  0   Sierra R, dh          3  1  1  0   
+Clark T, 1b           4  0  0  0   Strawberry D, rf      3  0  1  0   
+Higginson B, rf       4  0  0  0   Williams G, pr-lf     1  0  1  0   
+Nevin P, lf           3  0  1  0   Mattingly D, 1b       3  0  1  1   
+Fletcher S, 2b        2  1  0  0   Leyritz J, c          3  0  0  1   
+Tingley R, c          3  0  0  0   Velarde R, ss         4  0  2  0   
+                                   Kelly P, 2b           3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     31  1  5  1                        30  3  8  2
+
+Detroit          000 010 000 --  1
+New York         101 010 00x --  3
+
+  Detroit              IP  H  R ER BB SO
+Lira F (L)            5.0  5  3  2  5  4
+Bohanon B             2.0  1  0  0  0  1
+Maxcy B               0.1  2  0  0  0  0
+Myers M               0.2  0  0  0  1  0
+
+  New York             IP  H  R ER BB SO
+Kamieniecki S (W)     8.0  5  1  0  2  4
+Wetteland J (S)       1.0  0  0  0  0  2
+
+E -- Clark T, Strawberry D
+DP -- Detroit 2, New York 1
+LOB -- Detroit 5, New York 11
+2B -- O'Neill P, Velarde R, Strawberry D, Williams G
+3B -- Mattingly D
+SF -- Leyritz J
+HBP -- by Lira F (Kelly P)
+WP -- Lira F 2
+T -- 2:38
+A -- 36248
+     Game of 9/24/1995 -- Detroit at New York (D)
+
+  Detroit            AB  R  H RBI    New York           AB  R  H RBI
+Curtis C, cf          5  1  2  0   Boggs W, 3b           3  1  2  1   
+Gomez C, ss           3  1  1  0   Williams B, cf        5  1  1  0   
+Fryman T, 3b          5  1  1  2   O'Neill P, rf         5  0  1  1   
+Fielder C, dh         4  1  2  0   Sierra R, dh          3  0  0  0   
+Nevin P, lf           3  0  1  1   James D, lf           2  0  1  0   
+Higginson B, ph       0  0  0  0   Williams G, pr-lf     1  0  0  0   
+Trammell A, ph        1  1  1  2   Mattingly D, 1b       4  0  1  0   
+Steverson T, lf       0  0  0  0   Leyritz J, c          4  0  0  0   
+Clark T, 1b           4  1  1  2   Velarde R, ss         4  1  1  0   
+Bautista D, rf        4  1  2  1   Kelly P, 2b           3  0  2  0   
+Fletcher S, 2b        4  0  0  0                                      
+Flaherty J, c         4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  8 12  8                        34  3  9  2
+
+Detroit          000 000 170 --  8
+New York         000 030 000 --  3
+
+  Detroit              IP  H  R ER BB SO
+Bergman S             4.2  6  3  3  3  2
+Christopher M (W)*    3.1  3  0  0  0  0
+Bohanon B             1.0  0  0  0  1  1
+
+  New York             IP  H  R ER BB SO
+Pettitte A (L)+       7.0  8  4  4  2  3
+Wickman B             0.1  1  1  1  0  0
+Howe S#               0.0  3  3  3  0  0
+Rivera M              1.2  0  0  0  0  0
+  * Pitched to 1 batter in 9th
+  + Pitched to 3 batters in 8th
+  # Pitched to 3 batters in 8th
+
+E -- Gomez C
+DP -- Detroit 1
+LOB -- Detroit 4, New York 9
+2B -- Trammell A, Mattingly D, Kelly P
+3B -- Fielder C
+HR -- Clark T, Bautista D
+SH -- Kelly P
+T -- 2:53
+A -- 34848
+

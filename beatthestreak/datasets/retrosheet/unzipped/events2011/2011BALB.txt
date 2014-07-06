@@ -1,0 +1,3316 @@
+     Game of 4/4/2011 -- Detroit at Baltimore (D)
+
+  Detroit            AB  R  H RBI    Baltimore          AB  R  H RBI
+Jackson A, cf         4  0  1  0   Roberts B, 2b         4  1  1  3   
+Rhymes W, 2b          3  0  2  1   Markakis N, rf        4  1  3  0   
+Ordonez M, rf         4  0  1  0   Lee D, 1b             3  0  1  0   
+Cabrera M, 1b         4  0  0  0   Guerrero V, dh        4  0  0  0   
+Martinez V, dh        4  0  0  0   Wieters M, c          3  1  2  1   
+Boesch B, lf          4  0  1  0   Jones A, cf           4  0  0  0   
+Peralta J, ss         4  0  1  0   Reynolds M, 3b        4  0  0  0   
+Avila A, c            3  0  0  0   Pie F, lf             3  1  1  0   
+Inge B, 3b            4  1  1  0   Hardy J, ss           3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     34  1  7  1                        32  5  9  4
+
+Detroit          001 000 000 --  1
+Baltimore        010 040 00x --  5
+
+  Detroit              IP  H  R ER BB SO
+Porcello R (L)        5.0  9  5  5  1  4
+Villarreal B          2.0  0  0  0  1  2
+Perry R               1.0  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Arrieta J (W)         6.0  6  1  1  2  3
+Berken J              2.0  1  0  0  0  3
+Uehara K              1.0  0  0  0  0  0
+
+DP -- Detroit 1
+LOB -- Detroit 8, Baltimore 5
+2B -- Wieters M, Inge B, Peralta J, Hardy J, Markakis N, Boesch B
+HR -- Roberts B
+SB -- Rhymes W, Lee D
+WP -- Porcello R
+T -- 2:37
+A -- 46593
+     Game of 4/6/2011 -- Detroit at Baltimore (N)
+
+  Detroit            AB  R  H RBI    Baltimore          AB  R  H RBI
+Jackson A, cf         5  0  0  0   Roberts B, 2b         3  1  0  0   
+Rhymes W, 2b          4  0  0  0   Markakis N, rf        3  1  0  0   
+Ordonez M, rf         4  0  2  0   Lee D, 1b             4  1  1  2   
+Wells C, pr-rf        1  0  0  0   Guerrero V, dh        4  0  2  1   
+Cabrera M, 1b         4  1  2  1   Wieters M, c          4  0  0  0   
+Martinez V, dh        5  2  3  1   Jones A, cf           3  0  0  0   
+Boesch B, lf          3  1  0  0   Reynolds M, 3b        3  0  0  0   
+Raburn R, lf          2  1  1  0   Pie F, lf             3  0  1  0   
+Peralta J, ss         3  1  0  0   Hardy J, ss           3  0  0  0   
+Avila A, c            4  1  3  5                                      
+Inge B, 3b            4  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  7 12  7                        30  3  4  3
+
+Detroit          020 220 010 --  7
+Baltimore        000 201 000 --  3
+
+  Detroit              IP  H  R ER BB SO
+Verlander J (W)       8.0  4  3  3  2  9
+Benoit J              1.0  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Bergesen B (L)        3.2  5  4  2  2  2
+Rupe J                3.0  3  2  2  1  1
+Gonzalez M            1.1  2  1  1  0  1
+Gregg K               1.0  2  0  0  0  1
+
+E -- Roberts B, Bergesen B
+DP -- Baltimore 1
+LOB -- Detroit 8, Baltimore 2
+2B -- Avila A, Inge B, Raburn R, Martinez V
+HR -- Avila A, Lee D, Cabrera M, Martinez V
+SB -- Roberts B, Avila A
+T -- 2:51
+A -- 12451
+     Game of 4/7/2011 -- Detroit at Baltimore (N)
+
+  Detroit            AB  R  H RBI    Baltimore          AB  R  H RBI
+Jackson A, cf         5  1  2  1   Roberts B, 2b         5  1  2  0   
+Rhymes W, 2b          4  1  0  0   Markakis N, rf        3  1  0  0   
+Boesch B, rf          4  1  2  1   Lee D, 1b             4  0  0  0   
+Inge B, 3b            0  0  0  0   Guerrero V, dh        5  2  2  2   
+Cabrera M, 1b         2  0  1  1   Scott L, lf           3  1  1  0   
+Martinez V, dh        4  0  1  1   Pie F, pr-lf          0  1  0  0   
+Kelly D, 3b-rf        4  0  1  0   Jones A, cf           3  2  2  3   
+Raburn R, lf          4  0  0  0   Reynolds M, 3b        3  1  2  3   
+Avila A, c            3  2  1  1   Wieters M, c          3  0  0  0   
+Santiago R, ss        3  0  0  0   Izturis C, ss         3  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     33  5  8  5                        32  9 10  9
+
+Detroit          200 020 100 --  5
+Baltimore        020 002 50x --  9
+
+  Detroit              IP  H  R ER BB SO
+Penny B               5.1  6  4  4  3  3
+Villarreal B          0.2  0  0  0  1  1
+Thomas B (L)*         0.0  1  2  2  1  0
+Gonzalez E            0.2  2  3  3  1  1
+Schlereth D           1.1  1  0  0  1  1
+
+  Baltimore            IP  H  R ER BB SO
+Tillman C             4.2  6  4  4  2  4
+Accardo J             1.2  1  1  1  1  1
+Johnson J (W)         1.2  1  0  0  1  3
+Uehara K              1.0  0  0  0  0  1
+  * Pitched to 2 batters in 7th
+
+E -- Kelly D
+DP -- Detroit 1, Baltimore 1
+LOB -- Detroit 6, Baltimore 7
+2B -- Boesch B, Roberts B, Scott L, Jackson A, Reynolds M, Kelly D
+HR -- Guerrero V, Avila A, Jones A
+SB -- Jones A
+SH -- Santiago R
+SF -- Jones A
+T -- 3:25
+A -- 11648
+     Game of 4/9/2011, game 1 -- Texas at Baltimore (D)
+
+  Texas              AB  R  H RBI    Baltimore          AB  R  H RBI
+Kinsler I, 2b         4  0  0  0   Roberts B, 2b         4  0  0  0   
+Andrus E, ss          3  0  0  0   Markakis N, rf        4  1  1  1   
+Hamilton J, lf        4  0  2  0   Lee D, 1b             4  0  1  0   
+Beltre A, 3b          4  0  0  0   Guerrero V, dh        4  1  1  0   
+Young M, dh           4  0  0  0   Scott L, lf           1  1  1  0   
+Cruz N, rf            2  0  1  0   Pie F, pr-lf          0  0  0  0   
+Napoli M, 1b          2  0  0  0   Jones A, cf           4  1  1  1   
+Torrealba Y, c        3  0  1  0   Reynolds M, 3b        3  1  2  3   
+Borbon J, cf          3  0  1  0   Wieters M, c          3  0  0  0   
+                                   Izturis C, ss         3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  0  5  0                        30  5  7  5
+
+Texas            000 000 000 --  0
+Baltimore        131 000 00x --  5
+
+  Texas                IP  H  R ER BB SO
+Lewis C (L)           6.0  6  5  4  1  4
+Tobin M               2.0  1  0  0  1  0
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z (W)         7.2  4  0  0  3  2
+Berken J              1.1  1  0  0  0  1
+
+E -- Napoli M
+DP -- Texas 2, Baltimore 3
+LOB -- Texas 5, Baltimore 4
+2B -- Torrealba Y
+HR -- Markakis N, Reynolds M
+CS -- Scott L
+HBP -- by Lewis C (Scott L)
+WP -- Lewis C
+T -- 2:22
+A -- 0
+     Game of 4/9/2011, game 2 -- Texas at Baltimore (N)
+
+  Texas              AB  R  H RBI    Baltimore          AB  R  H RBI
+Kinsler I, dh         4  1  1  1   Roberts B, 2b         3  0  0  0   
+Andrus E, ss          5  1  1  2   Izturis C, ss         0  0  0  0   
+Hamilton J, cf        5  2  2  2   Markakis N, rf        3  0  0  0   
+Beltre A, 3b          5  3  3  3   Lee D, 1b             3  0  0  0   
+Young M, 2b           5  1  2  0   Guerrero V, dh        4  0  1  0   
+Cruz N, rf            3  1  1  4   Fox J, c              4  0  0  0   
+Murphy D, lf          3  0  0  0   Jones A, cf           4  1  2  1   
+Napoli M, c           4  2  2  1   Reynolds M, 3b        3  0  0  0   
+Moreland M, 1b        3  2  1  0   Andino R, lf-ss-2b    4  0  0  0   
+                                   Hardy J, ss           1  0  0  0   
+                                   Pie F, lf             2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     37 13 13 13                        31  1  4  1
+
+Texas            006 200 104 -- 13
+Baltimore        010 000 000 --  1
+
+  Texas                IP  H  R ER BB SO
+Harrison M (W)        7.0  2  1  1  1  3
+Strop P               1.0  1  0  0  2  3
+Lowe M                1.0  1  0  0  1  0
+
+  Baltimore            IP  H  R ER BB SO
+Arrieta J (L)         3.1  6  8  8  2  5
+Rupe J                2.2  1  0  0  3  1
+Jakubauskas C         3.0  6  5  5  2  2
+
+E -- Roberts B
+DP -- Baltimore 3
+LOB -- Texas 5, Baltimore 7
+2B -- Kinsler I, Beltre A
+HR -- Jones A, Beltre A, Napoli M, Cruz N
+SB -- Murphy D, Andrus E
+SF -- Cruz N
+Balk -- Strop P 2
+T -- 2:47
+A -- 36243
+     Game of 4/10/2011 -- Texas at Baltimore (D)
+
+  Texas              AB  R  H RBI    Baltimore          AB  R  H RBI
+Kinsler I, 2b         4  1  2  2   Roberts B, 2b         5  0  0  0   
+Young M, dh           3  0  1  0   Markakis N, rf        5  0  1  0   
+Hamilton J, lf        4  0  1  0   Lee D, 1b             3  0  2  0   
+Beltre A, 3b          4  1  1  1   Guerrero V, dh        4  0  2  0   
+Cruz N, rf            4  0  0  0   Reynolds M, 3b        2  0  0  0   
+Moreland M, 1b        4  0  1  0   Jones A, cf           3  0  0  0   
+Torrealba Y, c        4  1  1  0   Fox J, lf             3  0  0  0   
+Blanco A, ss          2  0  0  0   Scott L, ph           1  0  0  0   
+Borbon J, cf          4  0  0  0   Izturis C, ss         0  0  0  0   
+                                   Wieters M, c          3  0  0  0   
+                                   Andino R, ss-lf       3  0  0  0   
+                                   Pie F, ph             1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  3                        33  0  6  0
+
+Texas            000 100 200 --  3
+Baltimore        000 000 000 --  0
+
+  Texas                IP  H  R ER BB SO
+Holland D (W)         6.0  5  0  0  2  6
+Oliver D              1.0  0  0  0  0  0
+O'Day D               0.2  0  0  0  2  0
+Feliz N (S)           1.1  1  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J (L)         6.0  4  1  1  1  1
+Johnson J             1.0  2  2  2  0  0
+Gonzalez M            1.0  0  0  0  0  0
+Gregg K               1.0  1  0  0  1  0
+
+E -- Reynolds M
+DP -- Baltimore 1
+LOB -- Texas 6, Baltimore 11
+2B -- Guerrero V, Lee D
+HR -- Beltre A, Kinsler I
+SH -- Blanco A
+HBP -- by Holland D (Reynolds M)
+WP -- Johnson J
+T -- 2:42
+A -- 21452
+     Game of 4/18/2011 -- Minnesota at Baltimore (N)
+
+  Minnesota          AB  R  H RBI    Baltimore          AB  R  H RBI
+Span D, cf            5  0  0  0   Roberts B, 2b         4  0  1  0   
+Tolbert M, 2b         5  0  0  0   Markakis N, rf        3  0  0  0   
+Kubel J, rf           4  0  1  0   Lee D, 1b             2  0  0  0   
+Thome J, dh           4  0  0  0   Guerrero V, dh        4  0  0  0   
+Young D, lf           3  1  1  0   Reynolds M, 3b        3  0  0  0   
+Repko J, pr-lf        0  1  0  0   Jones A, cf           4  1  1  1   
+Cuddyer M, 1b         4  1  2  0   Fox J, lf             3  0  0  0   
+Valencia D, 3b        4  2  2  1   Wieters M, c          4  1  1  1   
+Butera D, c           4  0  2  3   Andino R, ss          3  0  2  0   
+Casilla A, ss         3  0  0  0   Scott L, ph           1  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     36  5  8  4                        31  3  6  3
+
+Minnesota        020 100 002 --  5
+Baltimore        000 000 201 --  3
+
+  Minnesota            IP  H  R ER BB SO
+Liriano F (W)         6.1  5  2  2  5  2
+Mijares J             0.1  0  0  0  0  0
+Hoey J                1.1  0  0  0  0  1
+Capps M (S)           1.0  1  1  1  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Tillman C (L)         6.2  6  3  3  0  5
+Rapada C              1.1  0  0  0  0  3
+Gregg K               1.0  2  2  2  2  1
+
+E -- Andino R
+DP -- Minnesota 2
+LOB -- Minnesota 6, Baltimore 7
+2B -- Butera D, Cuddyer M
+HR -- Jones A, Wieters M, Scott L
+HBP -- by Mijares J (Markakis N)
+WP -- Gregg K
+T -- 2:50
+A -- 13138
+     Game of 4/19/2011 -- Minnesota at Baltimore (N)
+
+  Minnesota          AB  R  H RBI    Baltimore          AB  R  H RBI
+Span D, cf            3  0  1  0   Roberts B, 2b         5  0  2  3   
+Tolbert M, 2b         3  0  1  0   Izturis C, ss         0  0  0  0   
+Kubel J, lf           4  0  1  0   Markakis N, rf        4  1  0  0   
+Thome J, dh           2  0  0  0   Lee D, 1b             5  1  2  0   
+Repko J, ph           1  0  0  0   Guerrero V, dh        5  2  2  3   
+Cuddyer M, rf         3  0  2  0   Scott L, lf           4  0  0  0   
+Valencia D, 3b        4  0  0  0   Pie F, lf             1  0  0  0   
+Hughes L, 1b          4  0  1  0   Jones A, cf           3  2  2  0   
+Butera D, c           4  0  0  0   Reynolds M, 3b        3  1  0  0   
+Casilla A, ss         3  0  0  0   Wieters M, c          3  3  2  4   
+                                   Andino R, ss-2b       3  1  3  0   
+                     -- -- -- --                        -- -- -- --
+                     31  0  6  0                        36 11 13 10
+
+Minnesota        000 000 000 --  0
+Baltimore        030 140 03x -- 11
+
+  Minnesota            IP  H  R ER BB SO
+Pavano C (L)          4.2  8  8  7  3  3
+Hughes D              0.1  1  0  0  0  0
+Hacker E              2.0  2  0  0  0  0
+Nathan J              1.0  2  3  3  1  0
+
+  Baltimore            IP  H  R ER BB SO
+Arrieta J (W)         6.0  4  0  0  3  4
+Berken J              2.0  2  0  0  1  2
+Rupe J                1.0  0  0  0  0  1
+
+E -- Casilla A
+DP -- Minnesota 1, Baltimore 1
+LOB -- Minnesota 9, Baltimore 6
+2B -- Hughes L, Roberts B, Wieters M, Kubel J
+HR -- Guerrero V
+SH -- Tolbert M
+HBP -- by Pavano C (Wieters M)
+T -- 2:50
+A -- 12045
+     Game of 4/20/2011 -- Minnesota at Baltimore (N)
+
+  Minnesota          AB  R  H RBI    Baltimore          AB  R  H RBI
+Span D, cf            5  0  1  0   Roberts B, 2b         4  0  1  0   
+Repko J, lf           3  1  0  0   Markakis N, rf        4  0  2  0   
+Kubel J, rf           4  1  2  0   Lee D, 1b             4  0  0  0   
+Cuddyer M, 1b         3  2  1  1   Guerrero V, dh        4  2  2  1   
+Thome J, dh           2  0  0  0   Scott L, lf           3  1  1  0   
+Casilla A, pr         0  0  0  0   Pie F, lf             0  0  0  0   
+Valencia D, 3b        4  0  2  3   Jones A, cf           3  1  1  2   
+Hughes L, 2b          4  0  1  0   Reynolds M, 3b        3  0  0  0   
+Holm S, c             4  0  0  0   Wieters M, c          2  1  1  2   
+Tolbert M, ss         4  0  0  0   Andino R, ss          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  4                        30  5  8  5
+
+Minnesota        010 002 010 --  4
+Baltimore        041 000 00x --  5
+
+  Minnesota            IP  H  R ER BB SO
+Blackburn N (L)       7.0  7  5  5  1  4
+Perkins G             1.0  1  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z (W)         6.0  5  3  3  3  3
+Johnson J             1.0  0  0  0  0  1
+Uehara K              1.0  2  1  1  1  1
+Gregg K (S)           1.0  0  0  0  0  1
+
+DP -- Minnesota 2, Baltimore 1
+LOB -- Minnesota 6, Baltimore 2
+2B -- Jones A
+HR -- Cuddyer M, Wieters M, Guerrero V
+WP -- Blackburn N
+T -- 2:18
+A -- 13825
+     Game of 4/21/2011 -- Minnesota at Baltimore (N)
+
+  Minnesota          AB  R  H RBI    Baltimore          AB  R  H RBI
+Span D, cf            5  0  2  0   Roberts B, 2b         2  1  1  0   
+Casilla A, ss         4  1  1  0   Markakis N, rf        4  0  0  0   
+Kubel J, rf           4  0  1  0   Lee D, 1b             4  0  1  0   
+Cuddyer M, 1b         3  1  1  1   Guerrero V, dh        4  0  2  1   
+Thome J, dh           4  1  2  2   Pie F, pr             0  0  0  0   
+Valencia D, 3b        4  0  1  0   Scott L, lf           4  0  0  0   
+Hughes L, 2b          4  0  1  0   Jones A, cf           4  0  0  0   
+Butera D, c           3  0  0  0   Reynolds M, 3b        4  0  0  0   
+Repko J, lf           4  0  0  0   Wieters M, c          4  0  2  0   
+                                   Andino R, ss          4  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  3                        34  1  7  1
+
+Minnesota        010 001 010 --  3
+Baltimore        000 000 010 --  1
+
+  Minnesota            IP  H  R ER BB SO
+Baker S (W)           7.0  4  0  0  1  9
+Mijares J             0.2  0  1  1  1  0
+Hoey J*               0.0  2  0  0  0  0
+Perkins G             0.1  0  0  0  0  0
+Capps M (S)           1.0  1  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J (L)         7.0  7  2  2  0  4
+Gonzalez M            0.2  2  1  1  0  1
+Accardo J             1.1  0  0  0  0  0
+  * Pitched to 2 batters in 8th
+
+DP -- Baltimore 1
+LOB -- Minnesota 7, Baltimore 8
+2B -- Guerrero V, Wieters M, Span D, Lee D
+HR -- Thome J, Cuddyer M
+SB -- Valencia D
+HBP -- by Guthrie J (Butera D), by Guthrie J (Cuddyer M)
+T -- 2:41
+A -- 16769
+     Game of 4/23/2011 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Jeter D, ss           4  2  1  0   Roberts B, 2b         4  0  1  0   
+Nunez E, ss           1  0  0  0   Izturis C, pr-ss      0  0  0  0   
+Granderson C, cf      5  1  1  0   Markakis N, rf        3  1  1  0   
+Teixeira M, 1b        3  2  2  0   Lee D, 1b             4  1  2  0   
+Rodriguez A, 3b       5  2  2  6   Guerrero V, dh        4  0  0  0   
+Chavez E, 3b          0  0  0  0   Jones A, cf           4  1  1  3   
+Cano R, 2b            5  2  3  1   Reynolds M, 3b        3  0  0  0   
+Swisher N, rf         4  1  0  0   Wieters M, c          3  0  0  0   
+Posada J, dh          5  1  1  2   Pie F, lf             1  0  0  0   
+Martin R, c           3  3  2  4   Fox J, lf-c           3  0  0  0   
+Gardner B, lf         5  1  2  2   Andino R, ss-2b       3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     40 15 14 15                        32  3  6  3
+
+New York         300 003 072 -- 15
+Baltimore        000 000 300 --  3
+
+  New York             IP  H  R ER BB SO
+Sabathia C (W)        8.0  6  3  3  1  7
+Carlyle B             1.0  0  0  0  1  0
+
+  Baltimore            IP  H  R ER BB SO
+Bergesen B (L)        6.0  8  6  6  2  4
+Berken J              1.1  3  3  3  1  0
+Rapada C              0.1  1  3  3  2  0
+Rupe J                1.1  2  3  3  0  2
+
+DP -- New York 1, Baltimore 1
+LOB -- New York 4, Baltimore 4
+2B -- Teixeira M, Rodriguez A, Gardner B
+HR -- Martin R 2, Jones A, Posada J, Rodriguez A, Gardner B
+HBP -- by Rupe J (Martin R)
+T -- 2:43
+A -- 39054
+     Game of 4/24/2011 -- New York at Baltimore (D)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Jeter D, ss           6  1  4  1   Roberts B, 2b         5  0  1  1   
+Granderson C, cf      5  2  3  3   Markakis N, rf        5  0  1  0   
+Teixeira M, 1b        5  0  1  0   Lee D, 1b             5  0  0  0   
+Rodriguez A, 3b       2  0  0  1   Guerrero V, dh        4  0  1  0   
+Cano R, 2b            5  1  1  0   Pie F, pr             1  0  0  0   
+Swisher N, rf         5  0  0  0   Scott L, lf           5  0  2  0   
+Posada J, dh          4  0  0  0   Jones A, cf           3  2  1  0   
+Nunez E, pr           0  0  0  0   Reynolds M, 3b        5  1  1  2   
+Chavez E, ph          0  1  0  0   Wieters M, c          3  0  0  0   
+Martin R, c           4  1  1  1   Izturis C, ss         3  0  0  0   
+Gardner B, lf         5  0  0  0   Fox J, ph             1  0  1  0   
+                                   Andino R, pr-ss       0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     41  6 10  6                        40  3  8  3
+
+New York         200 010 000 03 --  6
+Baltimore        000 000 201 00 --  3
+
+  New York             IP  H  R ER BB SO
+Garcia F              6.0  2  0  0  2  7
+Chamberlain J         1.0  2  2  2  0  2
+Robertson D           0.2  2  0  0  0  0
+Rivera M              1.1  2  1  1  1  2
+Logan B (W)           1.1  0  0  0  0  0
+Carlyle B             0.2  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Arrieta J             6.0  5  3  3  3  9
+Uehara K              1.0  0  0  0  0  2
+Johnson J             1.0  0  0  0  1  0
+Gregg K               1.0  0  0  0  1  1
+Accardo J             1.0  1  0  0  1  0
+Berken J (L)          1.0  4  3  2  1  2
+
+E -- Jones A, Andino R, Reynolds M
+DP -- Baltimore 2
+LOB -- New York 9, Baltimore 7
+2B -- Jeter D, Granderson C, Roberts B, Cano R
+HR -- Granderson C, Reynolds M
+SB -- Cano R
+CS -- Nunez E
+T -- 3:45
+A -- 25051
+     Game of 4/26/2011 -- Boston at Baltimore (N)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Ellsbury J, cf        4  0  1  0   Roberts B, 2b         5  0  1  0   
+Pedroia D, 2b         3  1  1  0   Markakis N, rf        5  0  1  0   
+Gonzalez A, 1b        4  0  1  0   Lee D, 1b             5  2  2  0   
+Youkilis K, 3b        3  0  0  1   Guerrero V, dh        4  1  3  0   
+Ortiz D, dh           3  0  1  0   Scott L, lf           3  1  2  0   
+Lowrie J, ss          4  0  0  0   Pie F, pr-lf          0  0  0  0   
+Drew J, rf            4  0  1  0   Jones A, cf           1  0  0  2   
+Crawford C, lf        4  0  0  0   Reynolds M, 3b        3  0  1  1   
+Varitek J, c          3  0  1  0   Wieters M, c          4  0  2  1   
+Scutaro M, ph         1  0  0  0   Andino R, ss          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  1  6  1                        33  4 12  4
+
+Boston           000 100 000 --  1
+Baltimore        011 010 10x --  4
+
+  Boston               IP  H  R ER BB SO
+Buchholz C (L)        6.2 12  4  4  2  5
+Okajima H             0.1  0  0  0  0  0
+Albers M              1.0  0  0  0  1  1
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z (W)         6.0  5  1  1  2  2
+Johnson J             2.0  1  0  0  0  4
+Gregg K (S)           1.0  0  0  0  0  1
+
+E -- Roberts B
+LOB -- Boston 8, Baltimore 11
+2B -- Reynolds M, Ellsbury J, Scott L, Gonzalez A
+SB -- Pedroia D
+SF -- Jones A 2, Youkilis K, Reynolds M
+T -- 2:48
+A -- 18938
+     Game of 4/27/2011 -- Boston at Baltimore (N)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Ellsbury J, cf        5  1  3  0   Roberts B, 2b         3  0  0  1   
+Pedroia D, 2b         4  1  0  0   Markakis N, rf        4  0  1  0   
+Gonzalez A, 1b        4  1  2  1   Lee D, 1b             4  2  3  0   
+Youkilis K, 3b        4  1  1  3   Guerrero V, dh        4  0  1  1   
+Ortiz D, dh           4  0  2  0   Scott L, lf           4  1  1  2   
+Drew J, rf            2  0  1  0   Pie F, lf             0  0  0  0   
+Lowrie J, ss          4  0  1  0   Jones A, cf           4  1  2  1   
+Crawford C, lf        4  0  0  0   Reynolds M, 3b        3  0  0  0   
+Varitek J, c          3  0  0  0   Wieters M, c          3  1  1  0   
+Scutaro M, ph         1  0  0  0   Andino R, ss          3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  4 10  4                        32  5 10  5
+
+Boston           000 000 040 --  4
+Baltimore        000 310 01x --  5
+
+  Boston               IP  H  R ER BB SO
+Beckett J             6.0  7  4  4  0  4
+Wakefield T           1.0  0  0  0  0  1
+Bard D (L)            1.0  3  1  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J             6.0  7  0  0  1  6
+Accardo J*            1.0  1  2  2  1  1
+Rapada C+             0.0  1  1  1  0  0
+Uehara K (W)          1.0  1  1  1  1  1
+Gregg K (S)           1.0  0  0  0  0  0
+  * Pitched to 2 batters in 8th
+  + Pitched to 1 batter in 8th
+
+DP -- Baltimore 1
+LOB -- Boston 7, Baltimore 4
+2B -- Gonzalez A, Lee D, Ellsbury J, Jones A
+HR -- Scott L, Jones A, Youkilis K
+SF -- Roberts B
+WP -- Beckett J
+PB -- Varitek J
+T -- 2:45
+A -- 15514
+     Game of 4/28/2011 -- Boston at Baltimore (N)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Ellsbury J, cf        5  2  3  2   Roberts B, 2b         3  1  0  0   
+Pedroia D, 2b         5  0  2  1   Markakis N, rf        4  0  1  0   
+Gonzalez A, 1b        5  0  3  2   Lee D, 1b             4  0  1  1   
+Youkilis K, 3b        2  1  0  0   Guerrero V, dh        4  1  1  1   
+Lowrie J, 3b          1  0  1  0   Jones A, cf           3  0  0  0   
+Ortiz D, dh           5  1  2  0   Wieters M, c          3  0  0  0   
+Drew J, rf            2  0  0  0   Reynolds M, 3b        3  0  0  0   
+Cameron M, ph-rf      1  1  0  0   Fox J, lf             3  0  0  0   
+Saltalamacchia J, c   4  0  1  1   Andino R, ss          3  0  1  0   
+Crawford C, lf        4  1  1  0                                      
+Scutaro M, ss         4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  6 13  6                        30  2  4  2
+
+Boston           101 000 130 --  6
+Baltimore        100 001 000 --  2
+
+  Boston               IP  H  R ER BB SO
+Lester J (W)          8.0  4  2  2  3  5
+Papelbon J            1.0  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Bergesen B            6.0  6  2  2  2  5
+Johnson J (L)*        1.0  2  2  2  1  0
+Gonzalez M            0.1  2  2  2  1  1
+Berken J              0.2  1  0  0  0  0
+Rupe J                1.0  2  0  0  0  0
+  * Pitched to 1 batter in 8th
+
+DP -- Boston 1, Baltimore 2
+LOB -- Boston 9, Baltimore 4
+2B -- Ellsbury J, Gonzalez A 2, Crawford C, Andino R
+HR -- Guerrero V
+SB -- Roberts B
+T -- 2:39
+A -- 21209
+     Game of 5/6/2011 -- Tampa Bay at Baltimore (N)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Rodriguez S, 2b       5  0  0  0   Roberts B, 2b         4  0  0  0   
+Zobrist B, rf         3  1  1  0   Markakis N, rf        4  0  0  0   
+Damon J, dh           5  1  1  2   Lee D, 1b             3  1  1  1   
+Longoria E, 3b        4  2  2  0   Guerrero V, dh        4  1  2  0   
+Upton B, cf           5  1  2  1   Scott L, lf           4  0  1  1   
+Guyer B, lf           3  1  1  2   Jones A, cf           4  0  1  0   
+Joyce M, ph-lf        1  0  0  0   Wieters M, c          3  0  0  0   
+Shoppach K, c         3  0  0  0   Reynolds M, 3b        2  0  0  0   
+Johnson D, 1b         2  0  0  0   Andino R, ss          2  0  0  0   
+Kotchman C, 1b        2  0  2  1                                      
+Johnson E, ss         3  0  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  6 10  6                        30  2  5  2
+
+Tampa Bay        030 000 012 --  6
+Baltimore        000 001 001 --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Shields J (W)         7.1  3  1  1  3  5
+Peralta J             1.1  2  1  1  0  1
+Gomes B               0.1  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z (L)         5.1  4  3  3  1  4
+Berken J              1.1  3  0  0  1  2
+Rapada C              0.1  0  0  0  0  1
+Accardo J             1.0  1  1  1  2  2
+Uehara K              1.0  2  2  2  0  2
+
+E -- Longoria E, Britton Z
+DP -- Tampa Bay 2, Baltimore 1
+LOB -- Tampa Bay 8, Baltimore 4
+2B -- Longoria E, Upton B, Guerrero V 2, Scott L
+HR -- Guyer B, Lee D, Damon J
+SB -- Johnson E
+SH -- Johnson E
+WP -- Berken J
+T -- 3:11
+A -- 20694
+     Game of 5/7/2011 -- Tampa Bay at Baltimore (D)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Fuld S, lf            5  0  0  0   Roberts B, 2b         3  0  0  0   
+Zobrist B, 2b         5  3  4  0   Fox J, c              1  0  1  0   
+Damon J, dh           5  1  1  1   Markakis N, rf        4  0  3  2   
+Longoria E, 3b        5  1  2  4   Lee D, 1b             5  0  0  0   
+Joyce M, rf           5  1  2  0   Guerrero V, dh        3  0  0  0   
+Upton B, cf           5  1  3  3   Scott L, lf           3  0  0  0   
+Kotchman C, 1b        4  0  3  0   Pie F, lf             1  0  0  0   
+Brignac R, ss         5  0  0  0   Jones A, cf           4  0  1  0   
+Jaso J, c             3  1  0  0   Wieters M, c          2  0  0  0   
+                                   Izturis C, ss         0  0  0  0   
+                                   Reynolds M, 3b        2  1  0  0   
+                                   Andino R, ss-2b       2  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     42  8 15  8                        30  2  5  2
+
+Tampa Bay        103 031 000 --  8
+Baltimore        000 000 101 --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Hellickson J (W)      5.0  3  0  0  5  4
+Ramos C               1.0  0  0  0  0  0
+Cruz J                1.0  1  1  1  2  0
+Russell A*            1.0  1  1  1  2  1
+Gomes B               1.0  0  0  0  1  2
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J (L)         5.0 10  7  7  1  4
+Accardo J             1.0  2  1  1  0  0
+Gonzalez M            1.0  2  0  0  0  2
+Johnson J             1.0  0  0  0  0  1
+Gregg K               1.0  1  0  0  1  0
+  * Pitched to 2 batters in 9th
+
+E -- Guthrie J
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 9, Baltimore 12
+2B -- Longoria E, Zobrist B, Kotchman C, Damon J, Upton B 2, Fox J
+HR -- Longoria E, Upton B
+SF -- Markakis N
+WP -- Hellickson J 2, Gomes B
+T -- 3:17
+A -- 18961
+     Game of 5/8/2011 -- Tampa Bay at Baltimore (D)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Fuld S, lf            5  0  1  0   Roberts B, 2b         3  0  0  0   
+Zobrist B, 2b         5  1  2  0   Markakis N, rf        4  0  0  0   
+Damon J, dh           5  1  1  0   Lee D, 1b             5  1  1  1   
+Longoria E, 3b        3  1  1  1   Guerrero V, dh        4  0  1  0   
+Joyce M, rf           4  2  2  0   Scott L, lf           3  1  1  0   
+Upton B, cf           4  0  2  4   Jones A, cf           3  1  0  0   
+Kotchman C, 1b        3  0  0  0   Wieters M, c          4  0  2  2   
+Brignac R, ss         4  0  1  0   Reynolds M, 3b        2  0  0  0   
+Jaso J, c             3  0  1  0   Izturis C, ss         2  0  0  0   
+                                   Pie F, ph             1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 11  5                        31  3  6  3
+
+Tampa Bay        000 320 000 --  5
+Baltimore        000 210 000 --  3
+
+  Tampa Bay            IP  H  R ER BB SO
+Davis W (W)           5.0  4  3  3  5  3
+Delaney R             1.0  0  0  0  0  1
+Peralta J             1.2  1  0  0  0  0
+Farnsworth K (S)      1.1  1  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Bergesen B (L)        4.2  9  5  5  2  1
+Rapada C              1.1  1  0  0  1  2
+Johnson J             1.0  0  0  0  0  0
+Gonzalez M            1.0  1  0  0  0  0
+Uehara K              1.0  0  0  0  0  1
+
+DP -- Tampa Bay 1, Baltimore 1
+LOB -- Tampa Bay 7, Baltimore 9
+2B -- Fuld S, Damon J, Joyce M 2, Scott L, Wieters M, Zobrist B, Pie F
+HR -- Lee D
+CS -- Roberts B
+SH -- Izturis C
+HBP -- by Davis W (Jones A), by Farnsworth K (Markakis N)
+WP -- Davis W
+T -- 2:49
+A -- 16359
+     Game of 5/10/2011 -- Seattle at Baltimore (N)
+
+  Seattle            AB  R  H RBI    Baltimore          AB  R  H RBI
+Suzuki I, rf          6  1  2  0   Roberts B, 2b         5  0  0  0   
+Figgins C, 3b         7  0  2  1   Markakis N, rf        6  1  3  0   
+Smoak J, 1b           4  0  1  1   Lee D, 1b             4  1  0  0   
+Olivo M, c            4  1  1  1   Guerrero V, dh        4  1  3  0   
+Cust J, dh            5  0  2  0   Izturis C, pr         0  1  0  0   
+Kennedy A, 2b         4  1  1  2   Fox J, ph             3  0  1  0   
+Wilson J, 2b          2  1  1  0   Scott L, lf           4  1  2  1   
+Peguero C, lf         2  0  0  0   Pie F, pr-lf          3  1  2  1   
+Wilson M, ph-lf       4  0  1  1   Jones A, cf           6  0  3  3   
+Ryan B, ss            5  0  1  0   Wieters M, c          7  0  2  1   
+Saunders M, cf        6  2  2  0   Reynolds M, 3b        6  0  0  0   
+                                   Hardy J, ss           5  1  4  1   
+                     -- -- -- --                        -- -- -- --
+                     49  6 14  6                        53  7 20  7
+
+Seattle          020 000 201 000 1 --  6
+Baltimore        001 002 020 000 2 --  7
+  2 outs when winning run was scored.
+
+  Seattle              IP  H  R ER BB SO
+Pineda M              6.0  7  3  3  1  6
+Pauley D              1.0  1  0  0  0  0
+Wright J              1.0  3  2  2  1  0
+Laffey A*             3.0  4  0  0  4  2
+Ray C                 1.0  1  0  0  0  2
+League B (L)          0.2  4  2  2  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Arrieta J             6.0  4  2  2  3  6
+Gonzalez M            0.2  3  2  2  1  0
+Uehara K              1.1  1  0  0  0  1
+Gregg K               1.0  2  1  1  0  0
+Johnson J             2.0  0  0  0  0  1
+Accardo J (W)         2.0  4  1  1  2  0
+  * Pitched to 2 batters in 12th
+
+DP -- Seattle 2, Baltimore 1
+LOB -- Seattle 11, Baltimore 16
+2B -- Suzuki I, Jones A 2, Figgins C, Cust J, Pie F, Wilson J
+HR -- Kennedy A, Hardy J
+SH -- Roberts B 2, Ryan B
+T -- 4:08
+A -- 11485
+     Game of 5/11/2011 -- Seattle at Baltimore (N)
+
+  Seattle            AB  R  H RBI    Baltimore          AB  R  H RBI
+Suzuki I, rf          5  0  2  0   Roberts B, 2b         3  1  0  0   
+Figgins C, 3b         4  0  2  1   Pie F, rf             4  0  1  0   
+Smoak J, 1b           3  0  0  0   Lee D, 1b             3  1  1  1   
+Olivo M, c            4  0  0  0   Guerrero V, dh        3  1  1  0   
+Cust J, dh            3  0  1  0   Scott L, lf           4  1  1  1   
+Kennedy A, 2b         4  0  1  0   Jones A, cf           4  0  4  2   
+Peguero C, lf         4  0  0  0   Wieters M, c          3  0  1  0   
+Ryan B, ss            3  1  0  0   Hardy J, ss           3  0  1  0   
+Saunders M, cf        3  1  1  1   Andino R, 3b          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        30  4 10  4
+
+Seattle          001 000 100 --  2
+Baltimore        001 030 00x --  4
+
+  Seattle              IP  H  R ER BB SO
+Hernandez F (L)       5.0  7  4  4  3  4
+Pauley D              3.0  3  0  0  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Tillman C (W)         6.0  3  1  1  3  5
+Berken J              1.0  3  1  1  0  0
+Uehara K              1.0  1  0  0  0  2
+Gregg K (S)           1.0  0  0  0  0  2
+
+DP -- Seattle 3
+LOB -- Seattle 8, Baltimore 7
+2B -- Cust J
+3B -- Jones A
+HR -- Saunders M
+SB -- Figgins C, Pie F
+CS -- Suzuki I
+SF -- Lee D
+HBP -- by Tillman C (Ryan B), by Hernandez F (Guerrero V)
+T -- 2:44
+A -- 11561
+     Game of 5/12/2011 -- Seattle at Baltimore (N)
+
+  Seattle            AB  R  H RBI    Baltimore          AB  R  H RBI
+Suzuki I, rf          5  1  1  0   Roberts B, 2b         5  0  2  0   
+Figgins C, 3b         5  0  0  0   Markakis N, rf        5  0  0  0   
+Smoak J, 1b           3  0  1  0   Lee D, 1b             5  1  1  0   
+Kennedy A, pr-1b      1  0  0  0   Guerrero V, dh        4  0  0  0   
+Olivo M, c            4  0  1  1   Fox J, pr             0  1  0  0   
+Cust J, dh            4  0  1  0   Jones A, cf           4  0  1  0   
+Wilson M, lf          4  0  0  0   Wieters M, c          5  0  2  0   
+Wilson J, 2b          4  0  1  0   Hardy J, ss           5  0  2  2   
+Rodriguez L, ss       4  0  0  0   Reynolds M, 3b        2  0  0  0   
+Saunders M, cf        4  0  0  0   Pie F, pr-lf          1  0  0  0   
+                                   Andino R, lf-3b       2  0  2  0   
+                                   Scott L, ph           1  0  0  0   
+                                   Izturis C, 3b         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  1  5  1                        39  2 10  2
+
+Seattle          000 000 000 001 --  1
+Baltimore        000 000 000 002 --  2
+  1 out when winning run was scored.
+
+  Seattle              IP  H  R ER BB SO
+Vargas J              9.0  7  0  0  1  4
+Wright J              2.0  1  0  0  0  2
+League B (L)          0.1  2  2  2  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z             9.0  3  0  0  0  5
+Gregg K               1.0  0  0  0  2  0
+Johnson J (W)         2.0  2  1  1  0  2
+
+DP -- Seattle 4, Baltimore 1
+LOB -- Seattle 4, Baltimore 7
+CS -- Rodriguez L
+SH -- Andino R, Olivo M
+HBP -- by League B (Guerrero V), by League B (Jones A)
+PB -- Olivo M
+T -- 2:52
+A -- 19082
+     Game of 5/18/2011 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Jeter D, dh-ss        7  0  2  0   Pie F, lf             7  0  2  0   
+Granderson C, cf      6  0  1  0   Jones A, cf           5  1  2  0   
+Teixeira M, 1b        6  1  2  0   Markakis N, rf        6  0  2  0   
+Rodriguez A, 3b       7  2  4  0   Guerrero V, dh        5  0  2  1   
+Cano R, 2b            6  1  2  2   Snyder B, pr          0  0  0  0   
+Swisher N, rf         2  0  0  1   Scott L, 1b           7  0  1  0   
+Dickerson C, rf       2  0  1  0   Wieters M, c          7  0  3  0   
+Burnett A, pr         0  0  0  0   Hardy J, ss           6  0  0  0   
+Noesi H, p-p          0  0  0  0   Reynolds M, 3b        5  0  0  0   
+Jones A, lf           2  0  0  0   Andino R, 2b          5  0  0  0   
+Gardner B, pr-lf      2  0  0  1                                      
+Nunez E, ss-rf        6  0  1  0                                      
+Cervelli F, c         3  0  0  0                                      
+Martin R, ph-c        4  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     53  4 15  4                        53  1 12  1
+
+New York         000 100 000 000 003 --  4
+Baltimore        000 000 001 000 000 --  1
+
+  New York             IP  H  R ER BB SO
+Colon B               8.0  3  0  0  1  7
+Rivera M              1.0  2  1  1  0  0
+Ayala L               1.1  3  0  0  1  0
+Logan B               0.2  0  0  0  0  1
+Noesi H (W)           4.0  4  0  0  4  4
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z             7.0  6  1  0  3  4
+Rapada C              0.1  0  0  0  0  0
+Berken J              0.2  0  0  0  1  0
+Gregg K               1.0  0  0  0  0  2
+Uehara K              1.0  1  0  0  0  3
+Johnson J             2.0  2  0  0  0  1
+Accardo J (L)*        2.0  5  2  2  1  2
+Gonzalez M+           0.0  1  1  0  0  0
+Guthrie J             1.0  0  0  0  0  0
+  * Pitched to 2 batters in 15th
+  + Pitched to 2 batters in 15th
+
+E -- Andino R, Cervelli F, Jones A
+DP -- New York 1, Baltimore 2
+LOB -- New York 14, Baltimore 15
+2B -- Scott L, Cano R
+SB -- Reynolds M, Martin R, Nunez E
+SH -- Nunez E, Jones A, Gardner B
+SF -- Swisher N, Guerrero V, Gardner B
+HBP -- by Gonzalez M (Dickerson C)
+WP -- Britton Z
+T -- 4:56
+A -- 20589
+     Game of 5/19/2011 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Jeter D, ss           6  2  2  1   Andino R, 2b          5  0  2  0   
+Granderson C, cf      5  1  2  1   Hardy J, ss           5  0  0  0   
+Nunez E, 3b-2b        1  1  1  2   Markakis N, rf        4  0  1  0   
+Teixeira M, dh        6  1  1  3   Guerrero V, dh        4  0  2  0   
+Rodriguez A, 3b       3  0  0  0   Jones A, cf           4  1  2  0   
+Jones A, ph-lf        1  0  0  0   Pie F, lf             4  1  1  0   
+Cano R, 2b            3  3  1  0   Reynolds M, 3b        4  0  1  1   
+Cervelli F, c         0  0  0  0   Fox J, c              4  0  1  1   
+Martin R, c-3b        4  1  2  0   Snyder B, 1b          3  0  0  0   
+Posada J, 1b          3  1  1  1                                      
+Swisher N, rf         4  1  2  4                                      
+Gardner B, lf-cf      5  2  2  1                                      
+                     -- -- -- --                        -- -- -- --
+                     41 13 14 13                        37  2 10  2
+
+New York         500 411 002 -- 13
+Baltimore        000 000 002 --  2
+
+  New York             IP  H  R ER BB SO
+Sabathia C (W)        8.0  7  0  0  0  9
+Sanit A               1.0  3  2  2  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Bergesen B (L)        3.1  5  8  8  3  2
+Jakubauskas C         3.1  7  3  3  2  1
+Patton T              2.1  2  2  2  1  3
+
+E -- Jeter D, Martin R
+DP -- New York 1
+LOB -- New York 8, Baltimore 10
+2B -- Jeter D, Swisher N, Fox J, Posada J, Jones A, Reynolds M
+3B -- Granderson C, Gardner B, Jeter D
+HR -- Teixeira M, Nunez E
+HBP -- by Bergesen B (Cano R), by Sabathia C (Markakis N), by Sanit A (Snyder B)
+WP -- Bergesen B
+T -- 3:00
+A -- 24939
+     Game of 5/20/2011 -- Washington at Baltimore (N)
+
+  Washington         AB  R  H RBI    Baltimore          AB  R  H RBI
+Bernadina R, cf       6  1  2  2   Pie F, lf-cf          5  0  1  1   
+Desmond I, ss         6  2  2  0   Jones A, cf           3  0  1  1   
+Nix L, lf             5  1  2  2   Reimold N, rf         1  0  1  0   
+Werth J, rf           4  2  3  4   Markakis N, rf        3  1  2  0   
+Bixler B, rf          1  0  0  0   Fox J, c              1  0  1  0   
+Stairs M, dh          4  0  0  0   Guerrero V, dh        5  1  2  0   
+Morse M, ph           2  0  1  0   Wieters M, c          4  1  1  2   
+LaRoche A, 1b         3  2  0  0   Snyder B, 1b          0  0  0  0   
+Cora A, ph-1b         1  0  1  0   Scott L, 1b-lf        4  0  1  1   
+Ramos W, c            4  5  3  2   Hardy J, ss           4  0  0  0   
+Espinosa D, 2b        4  3  3  5   Andino R, ss          0  0  0  0   
+Hairston J, 3b        5  1  2  2   Reynolds M, 3b        2  1  1  0   
+                                   Adams R, 2b           4  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     45 17 19 17                        36  5 12  5
+
+Washington       030 361 112 -- 17
+Baltimore        003 200 000 --  5
+
+  Washington           IP  H  R ER BB SO
+Marquis J             4.0  8  5  5  3  2
+Rodriguez H (W)       3.0  2  0  0  0  3
+Coffey T              1.0  0  0  0  0  0
+Slaten D              1.0  2  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Arrieta J (L)         3.2  6  6  6  3  3
+Berken J              1.0  5  6  6  1  2
+Rapada C              1.1  2  1  1  1  2
+Gonzalez M            2.0  2  2  2  0  2
+Gregg K               1.0  4  2  2  0  0
+
+DP -- Washington 1, Baltimore 1
+LOB -- Washington 8, Baltimore 8
+2B -- Wieters M, Pie F, Reynolds M
+3B -- Espinosa D, Ramos W
+HR -- Espinosa D, Bernadina R, Werth J 2, Ramos W, Nix L
+SF -- Jones A
+HBP -- by Arrieta J (Ramos W), by Berken J (Werth J)
+WP -- Berken J, Rodriguez H
+T -- 3:31
+A -- 24442
+     Game of 5/21/2011 -- Washington at Baltimore (D)
+
+  Washington         AB  R  H RBI    Baltimore          AB  R  H RBI
+Bernadina R, cf       4  0  0  0   Andino R, 2b          5  1  1  1   
+Desmond I, ss         4  1  2  0   Jones A, cf           5  1  2  0   
+Nix L, lf             3  0  0  0   Markakis N, rf        5  2  2  1   
+Werth J, rf           4  0  1  0   Guerrero V, dh        4  1  2  1   
+Stairs M, dh          4  1  1  0   Wieters M, c          4  0  2  1   
+LaRoche A, 1b         3  0  1  0   Hardy J, ss           4  0  1  1   
+Morse M, 1b           1  0  0  0   Reynolds M, 3b        3  1  1  0   
+Ramos W, c            3  0  0  1   Reimold N, lf         4  1  1  2   
+Espinosa D, 2b        4  0  1  0   Snyder B, 1b          4  1  2  0   
+Hairston J, 3b        3  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  3  7  1                        38  8 14  7
+
+Washington       002 000 001 --  3
+Baltimore        004 000 40x --  8
+
+  Washington           IP  H  R ER BB SO
+Lannan J (L)*         6.0  9  6  6  1  6
+Kimball C             1.0  4  2  2  0  1
+Clippard T            1.0  1  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J (W)         7.0  5  2  0  1  4
+Johnson J             1.0  1  0  0  0  0
+Uehara K              1.0  1  1  1  0  0
+  * Pitched to 2 batters in 7th
+
+E -- Snyder B, Nix L
+DP -- Baltimore 1
+LOB -- Washington 5, Baltimore 7
+2B -- Desmond I, Reynolds M, Espinosa D, Snyder B, Andino R, Jones A, Stairs M
+HR -- Reimold N
+SF -- Ramos W
+T -- 2:35
+A -- 33107
+     Game of 5/22/2011 -- Washington at Baltimore (D)
+
+  Washington         AB  R  H RBI    Baltimore          AB  R  H RBI
+Bernadina R, cf       5  0  1  0   Pie F, lf             4  0  0  0   
+Desmond I, ss         4  0  2  0   Jones A, cf           4  0  0  0   
+Nix L, lf             4  0  1  0   Markakis N, rf        4  1  1  0   
+Werth J, rf           4  1  1  0   Guerrero V, dh        4  1  1  2   
+Ramos W, dh           3  0  0  0   Wieters M, c          3  0  0  0   
+Morse M, 1b           4  0  2  0   Scott L, 1b           2  0  1  0   
+Espinosa D, 2b        3  0  0  0   Reynolds M, 3b        3  0  1  0   
+Rodriguez I, c        4  0  0  0   Hardy J, ss           2  0  0  0   
+Cora A, 3b            2  0  1  1   Andino R, 2b          2  0  0  0   
+Stairs M, ph          0  0  0  0                                      
+Bixler B, pr          0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  1  8  1                        28  2  4  2
+
+Washington       000 100 000 --  1
+Baltimore        000 000 20x --  2
+
+  Washington           IP  H  R ER BB SO
+Zimmermann J (L)      6.1  4  2  2  1  5
+Clippard T            0.2  0  0  0  2  1
+Coffey T              1.0  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Tillman C             5.0  6  1  1  2  4
+Accardo J             1.0  1  0  0  0  1
+Johnson J (W)         1.0  1  0  0  0  0
+Uehara K              1.0  0  0  0  0  1
+Gregg K (S)           1.0  0  0  0  1  1
+
+DP -- Baltimore 2
+LOB -- Washington 9, Baltimore 5
+2B -- Desmond I, Reynolds M, Bernadina R, Werth J
+HR -- Guerrero V
+CS -- Morse M, Bixler B
+HBP -- by Tillman C (Espinosa D)
+T -- 2:49
+A -- 33626
+     Game of 5/24/2011 -- Kansas City at Baltimore (N)
+
+  Kansas City        AB  R  H RBI    Baltimore          AB  R  H RBI
+Gordon A, lf          5  2  2  1   Andino R, 2b          4  0  1  0   
+Cabrera M, cf         5  0  2  0   Jones A, cf           5  1  2  2   
+Hosmer E, 1b          5  0  1  0   Markakis N, rf        4  1  1  0   
+Francoeur J, rf       5  1  2  1   Guerrero V, dh        4  0  1  0   
+Butler B, dh          4  0  2  1   Wieters M, c          4  1  1  1   
+Betemit W, 3b         2  0  0  0   Reimold N, lf         2  0  0  0   
+Aviles M, 2b          4  0  1  0   Scott L, ph-lf        2  0  1  1   
+Pena B, c             4  0  1  0   Reynolds M, 3b        4  0  0  0   
+Escobar A, ss         3  0  0  0   Hardy J, ss           3  1  2  0   
+                                   Snyder B, 1b          2  0  0  0   
+                                   Pie F, ph             1  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     37  3 11  3                        35  5 10  5
+
+Kansas City      101 001 000 --  3
+Baltimore        000 002 003 --  5
+  2 outs when winning run was scored.
+
+  Kansas City          IP  H  R ER BB SO
+Duffy D               5.1  5  2  2  3  6
+Coleman L             0.2  1  0  0  0  1
+Wood B                1.0  1  0  0  0  2
+Crow A                1.0  0  0  0  0  1
+Soria J (L)           0.2  3  3  3  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z             6.0  9  3  3  2  2
+Accardo J             1.2  2  0  0  1  1
+Rapada C              0.1  0  0  0  0  0
+Simon A (W)           1.0  0  0  0  0  1
+
+DP -- Kansas City 1, Baltimore 1
+LOB -- Kansas City 10, Baltimore 7
+2B -- Hardy J 2, Aviles M, Wieters M, Jones A, Pie F
+HR -- Gordon A, Jones A
+SB -- Andino R, Francoeur J, Markakis N
+WP -- Coleman L
+T -- 3:04
+A -- 14077
+     Game of 5/25/2011 -- Kansas City at Baltimore (N)
+
+  Kansas City        AB  R  H RBI    Baltimore          AB  R  H RBI
+Gordon A, lf          5  0  1  0   Pie F, lf             4  1  1  1   
+Cabrera M, cf         3  1  2  2   Jones A, cf           4  1  2  2   
+Hosmer E, 1b          4  0  1  0   Markakis N, rf        4  1  1  0   
+Francoeur J, rf       4  0  0  0   Guerrero V, dh        4  0  1  1   
+Butler B, dh          3  0  2  0   Wieters M, c          3  1  0  0   
+Betemit W, 3b         4  0  1  0   Scott L, 1b           4  1  2  1   
+Treanor M, c          4  0  0  0   Reynolds M, 3b        3  2  1  1   
+Getz C, 2b            2  1  0  0   Hardy J, ss           4  1  1  1   
+Escobar A, ss         4  0  0  0   Adams R, 2b           3  1  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        33  9  9  7
+
+Kansas City      000 020 000 --  2
+Baltimore        000 800 01x --  9
+
+  Kansas City          IP  H  R ER BB SO
+Hochevar L (L)        7.0  8  8  7  3  1
+Tejeda R              1.0  1  1  1  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Arrieta J (W)         6.0  5  2  2  3  7
+Johnson J             2.0  2  0  0  0  2
+Gonzalez M            1.0  0  0  0  0  1
+
+E -- Reynolds M, Escobar A
+DP -- Kansas City 1, Baltimore 1
+LOB -- Kansas City 8, Baltimore 3
+2B -- Gordon A, Jones A, Scott L
+HR -- Cabrera M, Reynolds M
+SH -- Cabrera M
+WP -- Hochevar L
+T -- 2:29
+A -- 15740
+     Game of 5/26/2011 -- Kansas City at Baltimore (D)
+
+  Kansas City        AB  R  H RBI    Baltimore          AB  R  H RBI
+Gordon A, lf          5  0  2  1   Andino R, 2b          6  2  2  0   
+Cabrera M, cf         5  0  1  2   Jones A, cf           6  1  1  0   
+Hosmer E, 1b          6  0  0  0   Markakis N, rf        5  0  1  0   
+Francoeur J, rf       4  1  2  0   Guerrero V, dh        6  0  1  1   
+Butler B, dh          4  0  0  0   Reynolds M, 3b        5  1  2  1   
+Betemit W, 3b         4  0  2  0   Reimold N, lf         4  2  4  4   
+Escobar A, pr-ss      1  0  0  0   Hardy J, ss           3  0  1  0   
+Aviles M, ss-3b       5  1  0  1   Fox J, 1b             3  0  1  0   
+Pena B, c             5  1  1  0   Scott L, ph-1b        2  0  0  0   
+Getz C, 2b            5  2  3  1   Tatum C, c            4  0  1  0   
+                                   Wieters M, ph-c       1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     44  5 11  5                        45  6 14  6
+
+Kansas City      040 100 000 000 --  5
+Baltimore        014 000 000 001 --  6
+  1 out when winning run was scored.
+
+  Kansas City          IP  H  R ER BB SO
+Francis J             6.0  9  5  5  1  4
+Holland G             2.0  1  0  0  1  2
+Crow A                2.0  0  0  0  0  2
+Wood B*               0.0  2  0  0  1  0
+Teaford E             1.0  0  0  0  0  0
+Coleman L (L)         0.1  2  1  1  1  0
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J             7.0  9  5  4  0  4
+Rapada C              0.1  0  0  0  0  0
+Uehara K              1.2  1  0  0  0  3
+Gregg K               1.0  1  0  0  2  0
+Accardo J (W)         2.0  0  0  0  0  0
+  * Pitched to 3 batters in 11th
+
+E -- Tatum C, Guthrie J, Jones A
+DP -- Kansas City 2, Baltimore 2
+LOB -- Kansas City 7, Baltimore 9
+2B -- Getz C, Gordon A, Reimold N, Andino R
+HR -- Reimold N 2
+CS -- Reimold N
+SH -- Cabrera M
+T -- 3:30
+A -- 22720
+     Game of 6/3/2011 -- Toronto at Baltimore (N)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Escobar Y, ss         4  2  2  1   Pie F, lf             4  0  1  0   
+Patterson C, lf       4  0  0  0   Adams R, ph           1  0  1  0   
+Bautista J, rf        3  1  1  0   Jones A, cf           4  0  2  1   
+Rivera J, 1b          3  2  2  1   Markakis N, rf        5  0  0  0   
+Arencibia J, c        5  2  1  4   Guerrero V, dh        3  0  1  0   
+Hill A, 2b            4  0  1  1   Wieters M, c          4  1  1  0   
+Encarnacion E, dh     4  0  0  0   Hardy J, ss           4  2  3  2   
+Davis R, cf           4  1  3  0   Scott L, 1b           4  0  0  0   
+Nix J, 3b             4  0  0  0   Reynolds M, 3b        2  0  0  0   
+                                   Andino R, 2b          4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  8 10  7                        35  4 10  4
+
+Toronto          021 041 000 --  8
+Baltimore        000 020 020 --  4
+
+  Toronto              IP  H  R ER BB SO
+Villanueva C (W)      5.1  6  2  2  1  0
+Perez L               1.2  1  0  0  1  2
+Frasor J              1.0  2  2  2  0  0
+Rzepczynski M         1.0  1  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z (L)         5.0  6  7  5  3  3
+Accardo J             2.0  2  1  1  1  3
+Jakubauskas C         2.0  2  0  0  0  2
+
+E -- Reynolds M
+DP -- Toronto 2, Baltimore 1
+LOB -- Toronto 6, Baltimore 8
+2B -- Davis R 2, Escobar Y
+HR -- Arencibia J, Hardy J
+SB -- Davis R
+SH -- Patterson C
+SF -- Rivera J
+HBP -- by Villanueva C (Jones A), by Villanueva C (Guerrero V)
+WP -- Britton Z 2, Jakubauskas C
+PB -- Arencibia J
+T -- 3:01
+A -- 18587
+     Game of 6/4/2011 -- Toronto at Baltimore (N)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Escobar Y, ss         5  0  0  0   Andino R, 2b          5  0  1  0   
+Patterson C, lf       4  1  3  1   Markakis N, rf        4  0  2  0   
+Bautista J, rf        3  0  0  0   Jones A, cf           4  0  1  0   
+Lind A, dh            3  0  0  0   Guerrero V, dh        4  0  1  0   
+Rivera J, 1b          4  1  1  0   Lee D, 1b             4  2  2  0   
+Arencibia J, c        3  0  0  0   Wieters M, c          4  1  2  0   
+Hill A, 2b            4  0  2  0   Hardy J, ss           3  1  1  1   
+Davis R, cf           3  1  1  1   Reynolds M, 3b        4  1  1  4   
+McCoy M, 3b           2  0  1  1   Reimold N, lf         2  0  0  0   
+Encarnacion E, ph     1  0  0  0   Pie F, pr-lf          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  3  8  3                        34  5 11  5
+
+Toronto          110 100 000 --  3
+Baltimore        010 004 00x --  5
+
+  Toronto              IP  H  R ER BB SO
+Romero R (L)          7.2 11  5  5  3  5
+Dotel O               0.1  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Arrieta J (W)         6.0  5  3  3  4  1
+Johnson J             1.0  0  0  0  0  0
+Uehara K              1.0  1  0  0  0  3
+Gregg K (S)           1.0  2  0  0  0  2
+
+E -- Arrieta J
+DP -- Baltimore 1
+LOB -- Toronto 7, Baltimore 8
+2B -- Wieters M
+HR -- Patterson C, Reynolds M
+SB -- Davis R 2
+CS -- Markakis N, McCoy M
+SF -- Davis R
+T -- 2:32
+A -- 20086
+     Game of 6/5/2011 -- Toronto at Baltimore (D)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Escobar Y, ss         5  1  1  3   Andino R, 2b          5  1  2  0   
+Patterson C, lf       5  1  1  0   Markakis N, rf        3  0  0  1   
+Bautista J, rf        3  1  0  0   Jones A, cf           4  1  1  0   
+Lind A, 1b            4  2  4  3   Guerrero V, dh        3  0  1  1   
+Hill A, 2b            4  0  1  1   Lee D, 1b             4  0  0  1   
+Encarnacion E, dh     4  1  3  0   Hardy J, ss           3  0  0  0   
+Davis R, cf           4  0  0  0   Reynolds M, 3b        4  1  1  1   
+Molina J, c           2  1  1  0   Reimold N, lf         2  0  0  0   
+Nix J, 3b             4  0  0  0   Pie F, ph             1  0  0  0   
+                                   Tatum C, c            2  1  1  0   
+                                   Wieters M, ph         0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  7 11  7                        31  4  6  4
+
+Toronto          101 310 100 --  7
+Baltimore        200 010 001 --  4
+
+  Toronto              IP  H  R ER BB SO
+Reyes J (W)           6.1  5  3  3  4  3
+Janssen C             0.2  0  0  0  0  0
+Frasor J              1.0  0  0  0  0  1
+Rauch J               1.0  1  1  1  1  1
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J (L)         5.0  9  6  6  3  3
+Simon A               3.0  2  1  1  1  3
+Gonzalez M            1.0  0  0  0  0  1
+
+DP -- Toronto 1, Baltimore 2
+LOB -- Toronto 5, Baltimore 6
+2B -- Guerrero V, Encarnacion E 2, Andino R
+HR -- Escobar Y, Lind A 2, Reynolds M
+SB -- Molina J
+SF -- Markakis N
+T -- 2:36
+A -- 25431
+     Game of 6/6/2011 -- Oakland at Baltimore (N)
+
+  Oakland            AB  R  H RBI    Baltimore          AB  R  H RBI
+Crisp C, cf           4  0  0  0   Andino R, 2b          4  1  2  0   
+Barton D, 1b          4  0  1  0   Markakis N, rf        4  0  1  1   
+Jackson C, lf         4  0  2  0   Jones A, cf           4  0  0  0   
+Willingham J, dh      4  0  0  0   Guerrero V, dh        4  0  1  1   
+Suzuki K, c           2  0  1  0   Lee D, 1b             4  1  1  0   
+Ellis M, 2b           2  1  0  0   Wieters M, c          4  1  2  1   
+Sizemore S, ph-2b     2  0  1  0   Hardy J, ss           3  1  2  0   
+Rosales A, 3b         4  1  1  2   Reynolds M, 3b        2  0  0  0   
+Sweeney R, rf         3  0  0  0   Reimold N, lf         2  0  0  1   
+Pennington C, ss      3  0  1  0   Pie F, lf             0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  7  2                        31  4  9  4
+
+Oakland          000 200 000 --  2
+Baltimore        130 000 00x --  4
+
+  Oakland              IP  H  R ER BB SO
+Gonzalez G (L)        7.0  9  4  3  1  3
+Balfour G             1.0  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Matusz B (W)          5.1  7  2  2  2  3
+Johnson J             1.2  0  0  0  0  0
+Uehara K              1.0  0  0  0  0  1
+Gregg K (S)           1.0  0  0  0  0  2
+
+E -- Pennington C, Suzuki K
+DP -- Oakland 1, Baltimore 1
+LOB -- Oakland 5, Baltimore 5
+HR -- Rosales A
+SB -- Lee D
+SF -- Reimold N
+WP -- Gonzalez G
+T -- 2:19
+A -- 10556
+     Game of 6/7/2011 -- Oakland at Baltimore (N)
+
+  Oakland            AB  R  H RBI    Baltimore          AB  R  H RBI
+Weeks J, 2b           4  0  0  0   Hardy J, ss           4  1  1  1   
+Barton D, 1b          3  0  0  0   Markakis N, rf        4  0  0  0   
+DeJesus D, rf         4  0  0  0   Jones A, cf           4  1  3  1   
+Willingham J, lf      4  0  1  0   Guerrero V, dh        4  0  1  0   
+Sweeney R, cf         4  0  1  0   Lee D, 1b             4  0  0  0   
+Suzuki K, c           4  0  1  0   Wieters M, c          3  0  1  0   
+Matsui H, dh          3  0  0  0   Scott L, lf           3  1  2  1   
+Sizemore S, 3b        3  0  1  0   Pie F, pr-lf          0  1  0  0   
+Pennington C, ss      3  0  1  0   Reynolds M, 3b        2  0  1  1   
+                                   Adams R, 2b           3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  0  5  0                        31  4  9  4
+
+Oakland          000 000 000 --  0
+Baltimore        100 011 10x --  4
+
+  Oakland              IP  H  R ER BB SO
+Moscoso G (L)         5.0  5  2  2  1  2
+Wuertz M              1.0  1  1  1  0  0
+Breslow C             1.0  2  1  1  0  3
+Cramer B              1.0  1  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Jakubauskas C (W)     5.0  3  0  0  1  5
+Rapada C              0.2  0  0  0  0  0
+Accardo J             2.1  2  0  0  0  1
+Uehara K              1.0  0  0  0  0  1
+
+DP -- Oakland 2
+LOB -- Oakland 6, Baltimore 4
+2B -- Suzuki K, Scott L, Reynolds M
+HR -- Hardy J, Scott L, Jones A
+T -- 2:25
+A -- 13652
+     Game of 6/8/2011 -- Oakland at Baltimore (N)
+
+  Oakland            AB  R  H RBI    Baltimore          AB  R  H RBI
+Crisp C, cf           3  0  1  1   Andino R, 2b          4  0  0  0   
+Barton D, 1b          4  0  0  0   Markakis N, rf        3  0  1  0   
+Jackson C, lf         3  0  2  0   Jones A, cf           3  0  0  0   
+Willingham J, dh      4  0  0  0   Guerrero V, dh        3  1  1  0   
+Suzuki K, c           3  0  0  0   Lee D, 1b             3  0  1  0   
+DeJesus D, rf         4  0  0  0   Wieters M, c          3  0  0  0   
+Rosales A, 3b         3  0  0  0   Hardy J, ss           3  1  1  1   
+Sweeney R, ph         1  0  0  0   Reynolds M, 3b        3  1  2  2   
+Pennington C, ss      3  0  0  0   Reimold N, lf         2  0  0  0   
+Weeks J, 2b           3  2  3  0   Pie F, ph-lf          1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  2  6  1                        28  3  6  3
+
+Oakland          000 001 010 --  2
+Baltimore        000 030 00x --  3
+
+  Oakland              IP  H  R ER BB SO
+Outman J (L)          6.0  5  3  3  0  4
+Devine J              1.0  0  0  0  0  1
+Bailey A              1.0  1  0  0  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z (W)         6.1  4  1  1  2  6
+Johnson J             1.2  2  1  1  0  1
+Gregg K (S)           1.0  0  0  0  0  0
+
+DP -- Oakland 2, Baltimore 1
+LOB -- Oakland 5, Baltimore 1
+2B -- Weeks J
+3B -- Weeks J
+HR -- Reynolds M
+SB -- Reynolds M
+SF -- Crisp C
+WP -- Outman J
+T -- 2:16
+A -- 11760
+     Game of 6/10/2011 -- Tampa Bay at Baltimore (N)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Damon J, dh           3  0  0  0   Hardy J, ss           2  3  2  1   
+Zobrist B, 2b         1  0  0  0   Markakis N, rf        5  1  2  6   
+Longoria E, 3b        4  0  0  0   Jones A, cf           5  0  2  0   
+Kotchman C, 1b        4  0  0  0   Guerrero V, dh        4  0  1  0   
+Upton B, cf           3  0  0  0   Wieters M, c          4  0  0  0   
+Jaso J, c             3  0  0  0   Scott L, 1b           3  1  0  0   
+Rodriguez S, ph       1  0  0  0   Reynolds M, 3b        4  1  1  0   
+Fuld S, lf            3  0  1  0   Pie F, lf             4  0  1  0   
+Ruggiano J, rf        3  0  2  0   Andino R, 2b          4  1  2  0   
+Brignac R, ss         3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     28  0  3  0                        35  7 11  7
+
+Tampa Bay        000 000 000 --  0
+Baltimore        140 000 02x --  7
+
+  Tampa Bay            IP  H  R ER BB SO
+Hellickson J (L)      5.2  7  5  5  3  2
+Russell A             1.1  1  0  0  0  0
+Sonnanstine A         1.0  3  2  2  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Arrieta J (W)         7.0  2  0  0  3  4
+Uehara K              1.0  1  0  0  0  1
+Gonzalez M            1.0  0  0  0  2  1
+
+E -- Reynolds M
+DP -- Baltimore 2
+LOB -- Tampa Bay 6, Baltimore 8
+2B -- Reynolds M, Andino R 2, Fuld S, Markakis N
+HR -- Hardy J, Markakis N
+CS -- Damon J
+HBP -- by Russell A (Hardy J)
+WP -- Hellickson J
+T -- 2:47
+A -- 17900
+     Game of 6/11/2011 -- Tampa Bay at Baltimore (N)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Damon J, dh           6  2  2  0   Hardy J, ss           6  0  1  0   
+Zobrist B, 2b         6  4  4  1   Markakis N, rf        6  0  2  0   
+Joyce M, rf           5  0  0  0   Jones A, cf           5  0  1  1   
+Longoria E, 3b        5  1  3  3   Guerrero V, dh        5  0  0  0   
+Kotchman C, 1b        6  0  4  2   Wieters M, c          4  1  3  0   
+Upton B, cf           6  0  0  0   Pie F, pr-lf          1  1  0  0   
+Jaso J, c             4  0  1  0   Reimold N, lf         2  0  0  0   
+Ruggiano J, lf        4  0  1  0   Scott L, ph           1  0  1  0   
+Brignac R, ss         5  0  0  0   Tatum C, c            1  0  0  0   
+                                   Reynolds M, 3b        5  2  2  3   
+                                   Andino R, 2b          4  0  0  0   
+                                   Snyder B, 1b          4  1  1  1   
+                     -- -- -- --                        -- -- -- --
+                     47  7 15  6                        44  5 11  5
+
+Tampa Bay        100 020 101 02 --  7
+Baltimore        000 022 010 00 --  5
+
+  Tampa Bay            IP  H  R ER BB SO
+Price D               6.0  8  4  4  1  6
+Howell J              1.0  0  0  0  0  1
+Peralta J             1.0  2  1  1  2  1
+Ramos C               1.1  0  0  0  0  1
+Cruz J (W)            0.2  0  0  0  0  1
+Farnsworth K (S)      1.0  1  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J             6.0  8  3  3  2  2
+Johnson J             2.0  2  1  0  0  0
+Gregg K               1.0  2  1  1  1  1
+Uehara K              1.0  0  0  0  1  0
+Accardo J (L)         1.0  3  2  2  0  0
+
+E -- Andino R
+LOB -- Tampa Bay 12, Baltimore 9
+2B -- Longoria E, Wieters M, Damon J, Zobrist B 3, Jones A, Kotchman C
+3B -- Zobrist B
+HR -- Reynolds M 2
+SB -- Scott L
+SH -- Ruggiano J
+T -- 3:48
+A -- 25541
+     Game of 6/12/2011 -- Tampa Bay at Baltimore (D)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Damon J, dh           5  1  2  2   Hardy J, ss           5  0  2  0   
+Zobrist B, rf         4  3  2  0   Markakis N, rf        5  0  1  1   
+Ruggiano J, lf        5  1  3  0   Jones A, cf           4  2  2  2   
+Longoria E, 3b        3  1  1  3   Guerrero V, dh        4  1  1  1   
+Upton B, cf           4  1  1  1   Scott L, 1b           4  1  2  1   
+Rodriguez S, 2b       5  1  2  1   Reynolds M, 3b        2  0  0  0   
+Kotchman C, 1b        4  1  1  0   Andino R, 3b          1  0  1  0   
+Johnson E, ss         3  0  0  0   Pie F, lf             4  0  0  0   
+Brignac R, ss         1  0  0  0   Adams R, 2b           3  1  1  0   
+Shoppach K, c         4  0  2  2   Tatum C, c            3  1  1  0   
+                                   Wieters M, ph         1  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     38  9 14  9                        36  6 12  5
+
+Tampa Bay        311 000 220 --  9
+Baltimore        201 000 210 --  6
+
+  Tampa Bay            IP  H  R ER BB SO
+Davis W (W)*          6.0  8  5  4  1  3
+Russell A             1.0  1  0  0  0  0
+Ramos C               0.1  2  1  1  0  0
+Cruz J+               0.2  1  0  0  0  1
+Howell J (S)          1.0  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Matusz B (L)          1.1  5  4  4  4  0
+Simon A#              4.2  5  3  1  2  3
+Gonzalez M            1.1  2  1  1  0  2
+Accardo J             0.2  1  1  1  0  1
+Rapada C              1.0  1  0  0  0  1
+  * Pitched to 2 batters in 7th
+  + Pitched to 1 batter in 9th
+  # Pitched to 2 batters in 7th
+
+E -- Reynolds M 2, Rodriguez S
+DP -- Tampa Bay 2
+LOB -- Tampa Bay 10, Baltimore 5
+2B -- Kotchman C, Jones A, Rodriguez S
+HR -- Damon J, Jones A, Guerrero V, Longoria E, Scott L
+SB -- Ruggiano J, Upton B 2, Rodriguez S
+CS -- Damon J, Rodriguez S, Pie F
+SF -- Longoria E, Upton B
+HBP -- by Davis W (Adams R)
+T -- 3:30
+A -- 22032
+     Game of 6/24/2011 -- Cincinnati at Baltimore (N)
+
+  Cincinnati         AB  R  H RBI    Baltimore          AB  R  H RBI
+Heisey C, lf          5  1  1  0   Hardy J, ss           5  0  2  1   
+Phillips B, 2b        6  1  2  2   Markakis N, rf        5  0  1  0   
+Votto J, 1b           6  0  1  1   Jones A, cf           6  1  1  1   
+Rolen S, 3b           6  0  2  0   Guerrero V, dh        4  0  0  0   
+Bruce J, rf           5  0  2  0   Scott L, lf           3  0  0  0   
+Gomes J, dh           4  1  1  0   Pie F, lf             1  0  0  0   
+Stubbs D, cf          5  0  0  0   Lee D, 1b             5  2  3  1   
+Hernandez R, c        4  1  2  0   Wieters M, c          5  2  2  0   
+Janish P, ss          5  0  1  1   Reynolds M, 3b        3  0  0  0   
+                                   Davis B, 2b           5  0  2  2   
+                     -- -- -- --                        -- -- -- --
+                     46  4 12  4                        42  5 11  5
+
+Cincinnati       000 031 000 000 --  4
+Baltimore        021 100 000 001 --  5
+  0 outs when winning run was scored.
+
+  Cincinnati           IP  H  R ER BB SO
+Volquez E             4.1  7  4  4  5  4
+LeCure S              1.2  0  0  0  1  3
+Ondrusek L            1.2  2  0  0  0  0
+Bray B                0.1  0  0  0  0  0
+Masset N              2.0  0  0  0  2  1
+Arredondo J (L)       1.0  2  1  1  1  0
+
+  Baltimore            IP  H  R ER BB SO
+Jakubauskas C         5.0  5  3  3  3  3
+Berken J              1.0  2  1  1  1  2
+Johnson J             2.0  2  0  0  0  1
+Gregg K               1.0  0  0  0  0  1
+Uehara K              2.0  1  0  0  0  3
+Gonzalez M (W)        1.0  2  0  0  0  0
+
+DP -- Cincinnati 2
+LOB -- Cincinnati 10, Baltimore 13
+2B -- Wieters M 2, Hernandez R, Phillips B, Votto J, Lee D, Gomes J, Bruce J 2, Hardy J
+3B -- Davis B
+HR -- Jones A, Lee D
+SB -- Markakis N
+CS -- Bruce J
+WP -- Berken J
+T -- 3:55
+A -- 45382
+     Game of 6/25/2011 -- Cincinnati at Baltimore (N)
+
+  Cincinnati         AB  R  H RBI    Baltimore          AB  R  H RBI
+Heisey C, lf          5  1  1  0   Hardy J, ss           4  2  2  1   
+Phillips B, 2b        5  2  3  1   Markakis N, rf        4  1  2  2   
+Votto J, 1b           4  3  3  5   Jones A, cf           3  1  1  1   
+Rolen S, 3b           5  1  2  2   Guerrero V, dh        4  0  1  0   
+Bruce J, rf           5  0  0  0   Scott L, lf           4  0  1  0   
+Gomes J, dh           3  1  1  1   Lee D, 1b             4  0  0  0   
+Stubbs D, cf          5  1  2  1   Wieters M, c          4  1  1  1   
+Renteria E, ss        2  1  1  0   Reynolds M, 3b        2  0  0  0   
+Janish P, ss          1  0  0  0   Andino R, 2b          4  0  1  0   
+Hanigan R, c          4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39 10 13 10                        33  5  9  5
+
+Cincinnati       013 020 220 -- 10
+Baltimore        102 100 100 --  5
+
+  Cincinnati           IP  H  R ER BB SO
+Arroyo B (W)          6.1  9  5  5  3  6
+Bray B                0.2  0  0  0  0  2
+Ondrusek L            1.0  0  0  0  0  1
+Chapman A             1.0  0  0  0  0  3
+
+  Baltimore            IP  H  R ER BB SO
+Matusz B (L)          4.2  9  6  6  1  5
+Bergesen B            3.0  3  4  4  3  3
+Gonzalez M            1.1  1  0  0  1  1
+
+E -- Jones A
+DP -- Cincinnati 3
+LOB -- Cincinnati 7, Baltimore 4
+2B -- Scott L, Heisey C, Phillips B
+HR -- Jones A, Gomes J, Votto J 2, Markakis N, Wieters M, Rolen S, Hardy J, Stubbs D
+SB -- Reynolds M
+CS -- Stubbs D
+WP -- Gonzalez M
+T -- 2:59
+A -- 38976
+     Game of 6/26/2011 -- Cincinnati at Baltimore (D)
+
+  Cincinnati         AB  R  H RBI    Baltimore          AB  R  H RBI
+Heisey C, rf          6  1  2  1   Hardy J, ss           4  0  0  0   
+Phillips B, 2b        4  2  2  1   Markakis N, rf        5  0  3  2   
+Votto J, 1b           2  0  0  0   Jones A, cf           4  1  2  0   
+Gomes J, dh           3  0  0  1   Guerrero V, dh        4  1  1  0   
+Lewis F, lf           3  0  0  1   Lee D, 1b             4  1  1  3   
+Stubbs D, cf          5  0  1  0   Scott L, lf           3  1  1  1   
+Hernandez R, c        5  1  2  1   Pie F, lf             0  0  0  0   
+Cairo M, 3b           5  1  2  0   Reynolds M, 3b        3  1  1  1   
+Janish P, ss          4  0  0  0   Davis B, 2b           2  2  2  0   
+Rolen S, ph           1  0  0  0   Andino R, ph-2b       1  0  0  0   
+                                   Tatum C, c            2  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     38  5  9  5                        32  7 11  7
+
+Cincinnati       000 013 001 --  5
+Baltimore        001 401 10x --  7
+
+  Cincinnati           IP  H  R ER BB SO
+Bailey H (L)          5.0  9  5  5  2  5
+Arredondo J           1.0  1  1  1  1  1
+Chapman A             1.0  1  1  1  1  2
+Cordero F             1.0  0  0  0  1  0
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J (W)         5.2  6  4  4  4  5
+Rapada C*             0.0  0  0  0  1  0
+Johnson J             1.1  2  0  0  2  1
+Uehara K              1.0  0  0  0  1  1
+Gregg K (S)           1.0  1  1  1  0  0
+  * Pitched to 1 batter in 6th
+
+E -- Reynolds M 2
+LOB -- Cincinnati 14, Baltimore 7
+2B -- Jones A, Cairo M
+HR -- Lee D, Reynolds M, Phillips B, Scott L, Hernandez R
+SB -- Davis B, Markakis N
+CS -- Reynolds M
+SH -- Tatum C
+WP -- Arredondo J
+T -- 3:10
+A -- 27809
+     Game of 6/28/2011 -- St. Louis at Baltimore (N)
+
+  St. Louis          AB  R  H RBI    Baltimore          AB  R  H RBI
+Theriot R, ss         5  0  1  1   Hardy J, ss           4  1  1  1   
+Jay J, rf             4  0  1  1   Markakis N, rf        4  1  2  0   
+Holliday M, lf        5  1  2  1   Jones A, cf           3  0  1  1   
+Berkman L, 1b         2  0  0  0   Guerrero V, dh        4  0  1  0   
+Freese D, 3b          4  1  2  0   Wieters M, c          4  0  1  0   
+Descalso D, 3b        0  0  0  0   Lee D, 1b             4  0  1  0   
+Rasmus C, cf          3  2  1  1   Scott L, lf           3  0  0  0   
+Molina Y, c           4  0  0  0   Davis B, ph           1  0  0  0   
+Hamilton M, dh        4  1  1  1   Reynolds M, 3b        3  0  0  0   
+Punto N, 2b           4  1  2  1   Andino R, 2b          3  0  1  0   
+                                   Pie F, ph             1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6 10  6                        34  2  8  2
+
+St. Louis        030 001 200 --  6
+Baltimore        000 000 020 --  2
+
+  St. Louis            IP  H  R ER BB SO
+Lohse K (W)           5.0  4  0  0  1  2
+Lynn L                2.0  1  0  0  0  5
+Franklin R            0.1  3  2  2  0  0
+Salas F               1.2  0  0  0  1  2
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z (L)         5.2  7  4  4  2  3
+Rapada C              1.0  1  1  1  0  1
+Berken J              2.1  2  1  1  1  1
+
+E -- Theriot R
+DP -- St. Louis 2, Baltimore 1
+LOB -- St. Louis 6, Baltimore 7
+2B -- Markakis N, Jones A
+3B -- Punto N
+HR -- Rasmus C, Holliday M, Hardy J
+SF -- Jay J
+T -- 2:39
+A -- 20556
+     Game of 6/29/2011 -- St. Louis at Baltimore (N)
+
+  St. Louis          AB  R  H RBI    Baltimore          AB  R  H RBI
+Schumaker S, 2b       5  2  2  1   Hardy J, ss           4  1  2  0   
+Jay J, rf             4  0  1  0   Markakis N, rf        4  0  2  1   
+Holliday M, lf        3  0  0  0   Jones A, cf           4  0  0  0   
+Berkman L, 1b         1  1  0  1   Guerrero V, dh        4  0  1  0   
+Freese D, 3b          4  0  1  1   Lee D, 1b             3  0  0  0   
+Descalso D, 3b        0  0  0  0   Wieters M, c          4  0  0  0   
+Rasmus C, cf          3  1  1  2   Reynolds M, 3b        4  0  0  0   
+Molina Y, c           4  0  0  0   Pie F, lf             4  0  1  0   
+Hamilton M, dh        3  0  1  0   Davis B, 2b           4  0  1  0   
+Punto N, ss           4  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  5  8  5                        35  1  7  1
+
+St. Louis        022 010 000 --  5
+Baltimore        001 000 000 --  1
+
+  St. Louis            IP  H  R ER BB SO
+Carpenter C (W)       9.0  7  1  1  1  5
+
+  Baltimore            IP  H  R ER BB SO
+Jakubauskas C (L)     5.0  7  5  5  3  2
+Bergesen B            3.0  0  0  0  0  0
+Gregg K               1.0  1  0  0  1  1
+
+E -- Holliday M
+DP -- Baltimore 1
+LOB -- St. Louis 6, Baltimore 8
+2B -- Punto N, Markakis N, Schumaker S
+HR -- Rasmus C
+CS -- Rasmus C
+SH -- Jay J
+SF -- Berkman L
+HBP -- by Jakubauskas C (Holliday M)
+T -- 2:32
+A -- 17405
+     Game of 6/30/2011 -- St. Louis at Baltimore (N)
+
+  St. Louis          AB  R  H RBI    Baltimore          AB  R  H RBI
+Theriot R, ss         5  1  2  1   Hardy J, ss           5  0  1  0   
+Jay J, rf             5  1  3  3   Markakis N, rf        5  0  2  0   
+Holliday M, lf        4  1  1  0   Jones A, cf           5  0  0  0   
+Berkman L, dh         5  2  2  3   Guerrero V, dh        5  0  1  0   
+Freese D, 3b          4  1  2  0   Lee D, 1b             4  1  2  0   
+Descalso D, pr-3b     1  0  1  0   Wieters M, c          3  2  2  0   
+Rasmus C, cf          4  0  0  0   Reynolds M, 3b        4  2  2  2   
+Molina Y, c           3  1  0  0   Reimold N, lf         4  1  2  4   
+Cruz T, 1b            4  1  2  1   Andino R, 2b          4  0  3  0   
+Schumaker S, 2b       3  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     38  9 14  9                        39  6 15  6
+
+St. Louis        022 400 100 --  9
+Baltimore        000 302 010 --  6
+
+  St. Louis            IP  H  R ER BB SO
+Garcia J (W)          5.1 10  5  5  1  3
+Motte J               0.2  1  0  0  0  2
+Miller T              0.1  0  0  0  0  0
+Boggs M               1.2  3  1  1  0  1
+Salas F (S)           1.0  1  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Matusz B (L)          3.1  9  8  8  1  2
+Simon A*              2.2  3  1  1  1  2
+Gonzalez M            2.0  1  0  0  1  1
+Johnson J             1.0  1  0  0  0  0
+  * Pitched to 2 batters in 7th
+
+E -- Freese D
+DP -- St. Louis 4, Baltimore 2
+LOB -- St. Louis 6, Baltimore 7
+2B -- Holliday M, Cruz T, Freese D
+HR -- Berkman L 2, Jay J, Reimold N, Reynolds M
+SF -- Schumaker S
+WP -- Simon A
+T -- 3:00
+A -- 28340
+     Game of 7/14/2011 -- Cleveland at Baltimore (N)
+
+  Cleveland          AB  R  H RBI    Baltimore          AB  R  H RBI
+Brantley M, lf        5  2  2  1   Hardy J, ss           5  0  1  0   
+Cabrera A, ss         5  1  2  2   Markakis N, rf        3  0  1  2   
+Hafner T, dh          2  1  2  1   Jones A, cf           4  0  0  0   
+Valbuena L, pr        0  0  0  0   Wieters M, dh         4  1  1  0   
+Santana C, c          5  1  2  3   Lee D, 1b             4  1  1  1   
+Sizemore G, cf        3  1  1  0   Pie F, lf             4  0  1  0   
+Cabrera O, 2b         5  1  1  0   Reynolds M, 3b        4  0  0  0   
+Buck T, rf            3  0  0  1   Davis B, 2b           2  1  1  1   
+Carrera E, rf         0  0  0  0   Andino R, ph          1  0  0  0   
+LaPorta M, 1b         4  1  1  0   Tatum C, c            4  1  2  0   
+Chisenhall L, 3b      3  0  0  0                                      
+Hannahan J, 3b        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     36  8 11  8                        35  4  8  4
+
+Cleveland        301 004 000 --  8
+Baltimore        002 002 000 --  4
+
+  Cleveland            IP  H  R ER BB SO
+Masterson J (W)       6.0  8  4  4  1  8
+Smith J               1.0  0  0  0  1  0
+Pestano V             1.0  0  0  0  0  2
+Sipp T                1.0  0  0  0  0  3
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J (L)*        5.0  5  6  6  4  2
+Hendrickson M         0.2  2  2  2  0  1
+Berken J              1.1  2  0  0  0  3
+Gonzalez M            1.0  0  0  0  0  1
+Gregg K               1.0  2  0  0  0  1
+  * Pitched to 2 batters in 6th
+
+DP -- Baltimore 1
+LOB -- Cleveland 7, Baltimore 6
+2B -- Brantley M, Santana C, Pie F, Hardy J, Wieters M, Lee D
+HR -- Cabrera A, Santana C
+SB -- Cabrera O
+SF -- Buck T
+HBP -- by Guthrie J (Hafner T)
+WP -- Masterson J
+T -- 2:54
+A -- 22780
+     Game of 7/15/2011 -- Cleveland at Baltimore (N)
+
+  Cleveland          AB  R  H RBI    Baltimore          AB  R  H RBI
+Brantley M, lf        5  1  3  0   Hardy J, ss           5  1  1  0   
+Cabrera A, ss         5  1  2  2   Markakis N, rf        3  1  1  0   
+Hafner T, dh          3  1  0  0   Jones A, cf           4  1  2  3   
+Santana C, c          4  0  0  0   Wieters M, c          3  1  1  1   
+Sizemore G, cf        5  2  2  2   Lee D, 1b             4  0  0  0   
+Cabrera O, 2b         3  0  1  0   Reynolds M, 3b        4  0  0  0   
+Buck T, rf            4  0  0  0   Reimold N, dh         2  1  1  1   
+Carrera E, rf         0  0  0  0   Pie F, lf             3  0  0  0   
+LaPorta M, 1b         4  1  2  1   Andino R, 2b          3  0  0  0   
+Chisenhall L, 3b      4  0  2  1   Davis B, ph           1  0  0  0   
+Hannahan J, 3b        0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  6 12  6                        32  5  6  5
+
+Cleveland        012 021 000 --  6
+Baltimore        021 020 000 --  5
+
+  Cleveland            IP  H  R ER BB SO
+Tomlin J (W)          5.0  6  5  5  1  3
+Durbin C              0.2  0  0  0  1  0
+Perez R               0.1  0  0  0  0  0
+Smith J               1.0  0  0  0  1  2
+Pestano V             1.0  0  0  0  0  2
+Perez C (S)           1.0  0  0  0  1  0
+
+  Baltimore            IP  H  R ER BB SO
+Arrieta J             5.0  8  5  5  3  4
+Johnson J (L)         2.0  3  1  1  1  2
+Uehara K              2.0  1  0  0  0  3
+
+E -- Cabrera A
+DP -- Baltimore 1
+LOB -- Cleveland 8, Baltimore 5
+2B -- Sizemore G, Jones A, LaPorta M, Chisenhall L
+HR -- Wieters M, Reimold N, Cabrera A, Sizemore G, Jones A
+CS -- Reynolds M, Cabrera O
+SH -- Pie F
+T -- 3:00
+A -- 27372
+     Game of 7/16/2011 -- Cleveland at Baltimore (N)
+
+  Cleveland          AB  R  H RBI    Baltimore          AB  R  H RBI
+Brantley M, lf        4  0  2  2   Hardy J, ss           4  1  1  0   
+Cabrera A, ss         3  1  0  0   Markakis N, rf        4  3  3  1   
+Hafner T, dh          3  1  0  0   Jones A, cf           3  1  1  2   
+Santana C, 1b-c       3  1  0  0   Wieters M, c          2  1  0  0   
+Chisenhall L, 3b      4  0  0  0   Lee D, 1b             4  0  1  1   
+Cabrera O, 2b         4  0  1  3   Reynolds M, 3b        3  0  1  0   
+Kearns A, rf          2  1  1  0   Pie F, lf             4  0  1  2   
+Sizemore G, ph-cf     2  0  0  0   Reimold N, dh         3  0  0  0   
+Marson L, c           1  1  0  0   Davis B, 2b           3  0  0  0   
+LaPorta M, ph-1b      1  0  0  0   Andino R, 2b          0  0  0  0   
+Carrera E, cf-rf      3  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  5  4  5                        30  6  8  6
+
+Cleveland        000 002 003 --  5
+Baltimore        100 101 03x --  6
+
+  Cleveland            IP  H  R ER BB SO
+Carrasco C (L)        7.0  5  3  3  2  6
+Perez R               0.1  2  2  2  0  0
+Herrmann F            0.2  1  1  1  2  0
+
+  Baltimore            IP  H  R ER BB SO
+Simon A (W)           7.0  3  2  2  1  5
+Uehara K              1.0  0  0  0  0  2
+Gregg K               0.2  1  3  3  3  2
+Gonzalez M (S)        0.1  0  0  0  0  0
+
+DP -- Baltimore 1
+LOB -- Cleveland 2, Baltimore 5
+2B -- Hardy J, Markakis N 2, Reynolds M, Brantley M, Jones A, Pie F, Cabrera O
+HR -- Markakis N
+SF -- Jones A
+T -- 2:34
+A -- 24835
+     Game of 7/17/2011 -- Cleveland at Baltimore (D)
+
+  Cleveland          AB  R  H RBI    Baltimore          AB  R  H RBI
+Brantley M, lf        5  0  0  0   Angle M, lf           3  0  0  0   
+Cabrera A, ss         5  0  0  0   Hardy J, ss           4  0  2  1   
+Hafner T, dh          4  1  1  1   Markakis N, rf        4  1  1  1   
+Santana C, c          4  1  2  1   Jones A, cf           4  1  1  1   
+Sizemore G, cf        1  0  1  0   Wieters M, dh         4  2  2  1   
+Carrera E, pr-cf      3  1  1  0   Lee D, 1b             4  1  2  0   
+LaPorta M, 1b         2  0  1  0   Reynolds M, 3b        4  1  1  0   
+Buck T, rf            4  0  2  1   Andino R, 2b          3  2  1  4   
+Chisenhall L, 3b      3  0  0  0   Tatum C, c            3  0  0  0   
+Valbuena L, 2b        4  0  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3 10  3                        33  8 10  8
+
+Cleveland        300 000 000 --  3
+Baltimore        010 031 21x --  8
+
+  Cleveland            IP  H  R ER BB SO
+Gomez J (L)           5.1  6  5  5  0  2
+Durbin C              0.2  0  0  0  0  0
+Smith J               1.0  2  2  2  1  0
+Herrmann F            1.0  2  1  1  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Atkins M              3.0  6  3  3  2  3
+Hendrickson M (W)     3.0  1  0  0  2  0
+Gonzalez M            0.1  2  0  0  0  0
+Johnson J             1.2  1  0  0  0  1
+Uehara K              1.0  0  0  0  0  1
+
+E -- LaPorta M
+DP -- Cleveland 1, Baltimore 1
+LOB -- Cleveland 11, Baltimore 3
+2B -- Sizemore G, Buck T, Lee D
+HR -- Hafner T, Santana C, Jones A, Andino R, Markakis N, Wieters M
+SH -- Carrera E, Andino R
+HBP -- by Atkins M (LaPorta M)
+T -- 2:58
+A -- 17754
+     Game of 7/18/2011 -- Boston at Baltimore (N)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Ellsbury J, dh        4  3  3  1   Hardy J, ss           5  2  2  3   
+Pedroia D, 2b         5  1  2  3   Markakis N, rf        5  0  1  2   
+Gonzalez A, 1b        5  1  1  1   Jones A, cf           5  2  2  1   
+Youkilis K, 3b        6  1  2  3   Wieters M, c          5  2  2  0   
+Reddick J, cf         4  2  1  1   Lee D, 1b             4  1  2  2   
+Crawford C, lf        5  2  2  1   Reynolds M, 3b        4  0  0  0   
+Saltalamacchia J, c   5  2  2  1   Reimold N, dh         5  0  1  2   
+Drew J, rf            3  0  0  0   Pie F, lf             2  1  0  0   
+McDonald D, ph-rf     1  1  1  3   Bell J, ph-lf         1  1  1  0   
+Scutaro M, ss         5  2  2  0   Andino R, 2b          3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     43 15 16 14                        39 10 12 10
+
+Boston           003 210 180 -- 15
+Baltimore        200 050 030 -- 10
+
+  Boston               IP  H  R ER BB SO
+Wakefield T           4.2  9  7  3  2  3
+Wheeler D (W)         2.1  0  0  0  1  3
+Williams R            1.0  3  3  3  1  1
+Morales F             1.0  0  0  0  0  3
+
+  Baltimore            IP  H  R ER BB SO
+Bergesen B            5.0  8  6  4  0  3
+Patton T              1.1  1  1  1  1  2
+Berken J*             0.0  1  0  0  0  0
+Gonzalez M (L)        1.0  1  3  3  2  0
+Worrell M+            0.0  2  3  3  1  0
+Jakubauskas C         1.2  3  2  2  1  1
+  * Pitched to 1 batter in 7th
+  + Pitched to 3 batters in 8th
+
+E -- Lee D
+LOB -- Boston 7, Baltimore 6
+2B -- Reimold N, Pedroia D, McDonald D
+3B -- Lee D
+HR -- Saltalamacchia J, Reddick J, Hardy J, Jones A
+CS -- Pie F
+SF -- Ellsbury J
+WP -- Williams R
+PB -- Saltalamacchia J 2
+T -- 3:37
+A -- 27924
+     Game of 7/19/2011 -- Boston at Baltimore (N)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Ellsbury J, cf        4  0  1  0   Angle M, lf           4  0  0  0   
+Pedroia D, 2b         4  0  1  0   Hardy J, ss           3  0  0  0   
+Gonzalez A, 1b        4  0  0  0   Markakis N, rf        3  1  0  0   
+Youkilis K, 3b        4  0  0  0   Jones A, cf           4  1  2  0   
+Reddick J, lf         4  1  3  0   Wieters M, c          3  2  2  1   
+Crawford C, dh        4  0  0  0   Lee D, 1b             4  1  1  2   
+Saltalamacchia J, c   3  1  1  2   Reynolds M, 3b        4  1  3  2   
+Drew J, rf            3  0  1  0   Reimold N, dh         3  0  0  1   
+Scutaro M, ss         2  0  1  0   Davis B, 2b           3  0  0  0   
+                                   Andino R, 2b          0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     32  2  8  2                        31  6  8  6
+
+Boston           000 020 000 --  2
+Baltimore        021 000 03x --  6
+
+  Boston               IP  H  R ER BB SO
+Weiland K (L)         6.0  6  3  3  3  2
+Aceves A              2.0  2  3  3  1  1
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J (W)         7.0  8  2  2  1  4
+Johnson J (S)         2.0  0  0  0  0  0
+
+DP -- Boston 1, Baltimore 2
+LOB -- Boston 4, Baltimore 5
+2B -- Reynolds M, Reddick J
+HR -- Saltalamacchia J, Lee D, Reynolds M
+SB -- Crawford C
+CS -- Scutaro M
+T -- 2:37
+A -- 32314
+     Game of 7/20/2011 -- Boston at Baltimore (D)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Ellsbury J, cf        4  2  2  2   Hardy J, ss           4  0  0  0   
+Pedroia D, 2b         5  0  1  0   Markakis N, rf        4  0  0  0   
+Gonzalez A, dh        5  1  4  0   Jones A, cf           2  0  0  0   
+Youkilis K, 1b        4  0  1  0   Wieters M, dh         4  0  0  0   
+Reddick J, rf         3  1  2  0   Lee D, 1b             4  0  1  0   
+Crawford C, lf        3  0  2  1   Reynolds M, 3b        2  0  0  0   
+Scutaro M, ss         4  0  0  0   Reimold N, lf         3  0  0  0   
+Varitek J, c          4  0  0  1   Andino R, 2b          2  0  0  0   
+Navarro Y, 3b         4  0  0  0   Tatum C, c            3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     36  4 12  4                        28  0  2  0
+
+Boston           001 100 110 --  4
+Baltimore        000 000 000 --  0
+
+  Boston               IP  H  R ER BB SO
+Miller A (W)          5.2  2  0  0  6  3
+Albers M              1.1  0  0  0  0  2
+Bard D                1.0  0  0  0  0  0
+Papelbon J            1.0  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Arrieta J (L)         7.0  9  3  3  0  4
+Hendrickson M*        0.0  2  1  1  2  0
+Worrell M             1.0  0  0  0  0  2
+Berken J              1.0  1  0  0  1  0
+  * Pitched to 4 batters in 8th
+
+DP -- Boston 1, Baltimore 2
+LOB -- Boston 8, Baltimore 7
+2B -- Crawford C, Youkilis K
+HR -- Ellsbury J 2
+SB -- Crawford C, Pedroia D
+T -- 3:05
+A -- 35174
+     Game of 7/22/2011 -- Anaheim at Baltimore (N)
+
+  Anaheim            AB  R  H RBI    Baltimore          AB  R  H RBI
+Izturis M, 2b         4  2  1  1   Hardy J, ss           4  0  1  1   
+Hunter T, rf          3  0  1  1   Markakis N, rf        4  0  0  0   
+Abreu B, dh           4  1  0  0   Jones A, cf           4  0  0  0   
+Wells V, lf           5  1  3  4   Wieters M, c          4  0  0  0   
+Callaspo A, 3b        5  0  1  0   Lee D, 1b             4  0  0  0   
+Aybar E, ss           4  0  1  0   Scott L, dh           3  0  0  0   
+Trumbo M, 1b          4  0  0  0   Reynolds M, 3b        2  1  0  0   
+Trout M, cf           4  2  2  0   Pie F, lf             3  0  1  0   
+Mathis J, c           2  0  0  0   Davis B, 2b           3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     35  6  9  6                        31  1  3  1
+
+Anaheim          000 000 204 --  6
+Baltimore        000 000 010 --  1
+
+  Anaheim              IP  H  R ER BB SO
+Santana E (W)         7.2  3  1  1  1  1
+Takahashi H (S)       1.1  0  0  0  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Simon A (L)           6.2  6  2  2  1  3
+Berken J*             0.0  1  0  0  0  0
+Gonzalez M            1.0  1  0  0  0  0
+Worrell M             0.1  0  0  0  0  1
+Gregg K               1.0  1  4  0  2  1
+  * Pitched to 1 batter in 7th
+
+E -- Izturis M, Simon A, Lee D
+DP -- Baltimore 1
+LOB -- Anaheim 8, Baltimore 4
+2B -- Davis B, Trout M, Izturis M, Hunter T
+HR -- Wells V
+SB -- Wells V, Izturis M, Trout M
+CS -- Hunter T
+SH -- Mathis J 2
+HBP -- by Simon A (Hunter T)
+T -- 2:49
+A -- 24823
+     Game of 7/23/2011 -- Anaheim at Baltimore (N)
+
+  Anaheim            AB  R  H RBI    Baltimore          AB  R  H RBI
+Aybar E, ss           4  0  3  0   Hardy J, ss           4  0  3  0   
+Hunter T, dh          3  0  0  0   Markakis N, rf        4  0  1  1   
+Abreu B, rf           3  1  0  0   Jones A, cf           3  1  1  2   
+Wells V, lf           4  1  1  2   Reynolds M, 3b        4  0  1  0   
+Callaspo A, 3b        4  0  2  0   Lee D, 1b             4  0  1  0   
+Trout M, pr           0  0  0  0   Reimold N, lf         3  0  2  0   
+Kendrick H, 2b        4  0  2  0   Bell J, dh            3  0  0  0   
+Branyan R, 1b         3  0  0  0   Andino R, 2b          3  1  2  0   
+Bourjos P, cf         3  0  0  0   Tatum C, c            3  1  2  0   
+Mathis J, c           2  0  0  0                                      
+Izturis M, ph         1  0  0  0                                      
+Wilson B, c           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     31  2  8  2                        31  3 13  3
+
+Anaheim          200 000 000 --  2
+Baltimore        000 120 00x --  3
+
+  Anaheim              IP  H  R ER BB SO
+Pineiro J (L)         5.1 11  3  3  0  0
+Thompson R            1.0  2  0  0  0  0
+Ramirez H             0.2  0  0  0  0  0
+Rodney F              1.0  0  0  0  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Bergesen B (W)        6.0  6  2  2  2  3
+Johnson J             1.0  1  0  0  0  0
+Uehara K              1.0  0  0  0  0  1
+Gregg K (S)           1.0  1  0  0  0  1
+
+DP -- Anaheim 4, Baltimore 2
+LOB -- Anaheim 4, Baltimore 5
+2B -- Callaspo A 2, Aybar E, Reimold N
+HR -- Wells V, Jones A
+CS -- Kendrick H, Aybar E
+SF -- Jones A
+T -- 2:21
+A -- 20311
+     Game of 7/24/2011 -- Anaheim at Baltimore (D)
+
+  Anaheim            AB  R  H RBI    Baltimore          AB  R  H RBI
+Izturis M, ss         4  1  2  1   Hardy J, ss           4  0  0  0   
+Hunter T, rf          5  2  2  2   Markakis N, rf        4  2  3  1   
+Abreu B, dh           4  0  1  1   Jones A, cf           4  1  2  2   
+Wells V, lf           5  0  0  0   Reynolds M, 3b        4  0  0  0   
+Bourjos P, cf         0  0  0  0   Wieters M, c          4  0  0  0   
+Callaspo A, 3b        4  3  3  0   Lee D, 1b             3  0  1  0   
+Kendrick H, 2b        5  2  3  0   Reimold N, lf         3  0  0  0   
+Trumbo M, 1b          4  0  1  2   Bell J, dh            3  0  1  0   
+Trout M, cf-lf        5  1  1  3   Andino R, 2b          3  0  0  0   
+Wilson B, c           2  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  9 13  9                        32  3  7  3
+
+Anaheim          001 200 051 --  9
+Baltimore        000 002 001 --  3
+
+  Anaheim              IP  H  R ER BB SO
+Chatwood T (W)        7.0  6  2  2  0  5
+Cassevah B            2.0  1  1  1  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J (L)         7.0  6  3  3  4  1
+Worrell M             0.2  4  5  5  1  0
+Patton T              0.1  0  0  0  0  0
+Jakubauskas C         1.0  3  1  1  0  1
+
+DP -- Anaheim 2
+LOB -- Anaheim 8, Baltimore 2
+2B -- Hunter T, Kendrick H, Izturis M, Markakis N
+HR -- Jones A, Trout M, Hunter T, Markakis N
+SB -- Jones A
+SF -- Trumbo M
+T -- 2:29
+A -- 15676
+     Game of 8/5/2011 -- Toronto at Baltimore (N)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Escobar Y, ss         5  0  2  1   Andino R, ss          4  1  1  0   
+Thames E, lf          5  0  1  0   Markakis N, rf        4  1  2  1   
+Bautista J, rf        5  1  1  0   Jones A, cf           5  1  1  2   
+Lind A, 1b            4  1  1  0   Guerrero V, dh        3  1  0  0   
+Encarnacion E, dh     2  2  1  0   Reynolds M, 1b        3  0  1  0   
+Rasmus C, cf          4  0  2  1   Wieters M, c          4  0  1  1   
+Davis R, cf           0  0  0  0   Reimold N, lf         4  0  0  0   
+Hill A, 2b            3  1  1  2   Bell J, 3b            4  0  0  0   
+Arencibia J, c        4  0  0  0   Izturis C, 2b         3  0  1  0   
+Lawrie B, 3b          4  0  2  1   Pie F, ph             1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     36  5 11  5                        35  4  7  4
+
+Toronto          022 000 010 --  5
+Baltimore        200 001 001 --  4
+
+  Toronto              IP  H  R ER BB SO
+Mills B (W)           5.1  4  3  3  4  5
+Perez L               1.0  1  0  0  0  1
+Litsch J              0.2  0  0  0  0  1
+Francisco F           1.0  0  0  0  0  2
+Rauch J (S)           1.0  2  1  1  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Hunter T (L)          4.0  8  4  4  0  1
+Patton T*             3.0  2  1  1  1  1
+Jakubauskas C         2.0  1  0  0  0  1
+  * Pitched to 3 batters in 8th
+
+E -- Lawrie B, Perez L
+DP -- Toronto 1
+LOB -- Toronto 7, Baltimore 8
+2B -- Escobar Y, Markakis N
+HR -- Jones A
+SB -- Hill A
+SF -- Hill A
+HBP -- by Hunter T (Encarnacion E)
+PB -- Arencibia J
+T -- 2:57
+A -- 18770
+     Game of 8/6/2011 -- Toronto at Baltimore (N)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Escobar Y, ss         3  0  0  0   Andino R, ss          3  2  0  1   
+Thames E, lf          4  0  0  0   Markakis N, rf        4  0  0  0   
+Bautista J, rf        3  0  0  1   Jones A, cf           4  1  2  4   
+Lind A, 1b            4  0  1  0   Guerrero V, dh        3  0  0  0   
+Encarnacion E, dh     3  0  1  0   Wieters M, c          3  0  0  0   
+Rasmus C, cf          3  1  1  1   Reynolds M, 1b        3  0  0  0   
+Hill A, 2b            3  0  0  0   Reimold N, lf         3  1  1  0   
+Molina J, c           2  1  0  0   Bell J, 3b            2  1  0  0   
+Lawrie B, 3b          3  0  1  0   Davis B, 2b           3  1  1  0   
+                     -- -- -- --                        -- -- -- --
+                     28  2  4  2                        28  6  4  5
+
+Toronto          010 001 000 --  2
+Baltimore        000 004 02x --  6
+
+  Toronto              IP  H  R ER BB SO
+Morrow B (L)          7.2  4  6  3  1  6
+Camp S                0.1  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Tillman C (W)         7.0  4  2  2  1  5
+Johnson J             1.0  0  0  0  0  2
+Gregg K               1.0  0  0  0  0  0
+
+E -- Escobar Y, Rasmus C
+DP -- Baltimore 2
+LOB -- Toronto 2, Baltimore 0
+HR -- Rasmus C, Jones A
+SF -- Bautista J
+HBP -- by Tillman C (Escobar Y), by Morrow B (Andino R)
+T -- 2:09
+A -- 19396
+     Game of 8/7/2011 -- Toronto at Baltimore (D)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Davis R, lf           5  1  0  0   Andino R, ss          4  0  1  0   
+Escobar Y, ss         5  0  1  0   Markakis N, rf        3  0  1  0   
+Bautista J, rf        5  0  1  2   Jones A, cf           4  0  0  0   
+Lind A, dh            5  0  0  0   Guerrero V, dh        4  0  0  0   
+Encarnacion E, 1b     4  2  3  0   Reynolds M, 1b        3  2  2  2   
+Rasmus C, cf          4  1  2  0   Reimold N, lf         3  0  0  0   
+Arencibia J, c        4  1  1  2   Tatum C, c            3  0  0  0   
+McDonald J, 2b        4  0  3  2   Bell J, 3b            3  0  0  0   
+Lawrie B, 3b          4  2  2  1   Izturis C, 2b         1  0  0  0   
+                                   Davis B, 2b           2  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     40  7 13  7                        30  2  5  2
+
+Toronto          002 301 010 --  7
+Baltimore        000 010 100 --  2
+
+  Toronto              IP  H  R ER BB SO
+Romero R (W)          8.0  4  2  2  0  5
+Janssen C             1.0  1  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Simon A (L)           5.2 10  6  4  0  3
+Bergesen B            3.0  3  1  1  0  4
+Gonzalez M            0.1  0  0  0  0  0
+
+E -- Bell J
+DP -- Toronto 2
+LOB -- Toronto 6, Baltimore 2
+2B -- Bautista J, Rasmus C, Arencibia J, McDonald J, Andino R, Encarnacion E, Davis B
+HR -- Reynolds M 2, Lawrie B
+SB -- Davis R
+CS -- McDonald J
+HBP -- by Romero R (Markakis N)
+T -- 2:25
+A -- 13824
+     Game of 8/8/2011 -- Chicago at Baltimore (N)
+
+  Chicago            AB  R  H RBI    Baltimore          AB  R  H RBI
+Pierre J, lf          5  0  1  0   Hardy J, ss           5  1  3  4   
+Ramirez A, ss         5  0  0  0   Markakis N, rf        4  0  1  1   
+Konerko P, dh         3  0  1  0   Jones A, cf           5  0  0  0   
+Lillibridge B, pr-1b  0  1  0  0   Guerrero V, dh        4  0  0  0   
+Quentin C, rf         4  2  2  0   Reynolds M, 1b        4  0  0  0   
+Pierzynski A, c       3  1  2  3   Reimold N, lf         4  0  1  0   
+Rios A, cf            4  1  2  1   Wieters M, c          3  2  3  0   
+Dunn A, 1b            3  1  1  1   Andino R, 2b          4  2  0  0   
+Santos S, p           0  0  0  0   Bell J, 3b            4  1  2  1   
+Beckham G, 2b         4  1  1  2                                      
+Morel B, 3b           4  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  7 10  7                        37  6 10  6
+
+Chicago          040 001 020 --  7
+Baltimore        002 010 300 --  6
+
+  Chicago              IP  H  R ER BB SO
+Danks J               6.1  7  5  4  0  7
+Crain J (W)           1.1  3  1  1  1  1
+Thornton M            0.1  0  0  0  0  0
+Santos S (S)          1.0  0  0  0  0  3
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J             7.0  8  5  4  0  2
+Johnson J (L)         1.0  2  2  2  2  0
+Gregg K               1.0  0  0  0  0  0
+
+E -- Bell J, Morel B
+LOB -- Chicago 4, Baltimore 6
+2B -- Konerko P, Rios A, Pierre J, Wieters M 2, Hardy J 2
+HR -- Pierzynski A, Beckham G, Hardy J
+SB -- Andino R, Rios A
+SF -- Markakis N, Pierzynski A
+T -- 2:38
+A -- 17498
+     Game of 8/9/2011 -- Chicago at Baltimore (N)
+
+  Chicago            AB  R  H RBI    Baltimore          AB  R  H RBI
+Pierre J, lf          5  0  0  0   Hardy J, ss           4  1  0  1   
+Ramirez A, ss         3  1  0  0   Markakis N, rf        4  0  2  1   
+Konerko P, dh         4  0  1  0   Jones A, cf           3  0  0  1   
+Quentin C, rf         4  1  1  1   Guerrero V, dh        4  0  1  0   
+Pierzynski A, c       4  0  2  1   Davis C, 1b           4  0  0  0   
+Rios A, cf            4  0  0  0   Reynolds M, 3b        4  0  0  0   
+Lillibridge B, 1b     2  1  0  0   Wieters M, c          4  1  1  0   
+Beckham G, 2b         3  0  1  0   Pie F, lf             2  1  2  0   
+Morel B, 3b           4  1  2  2   Bell J, ph            1  0  0  0   
+                                   Andino R, 2b          3  0  1  0   
+                     -- -- -- --                        -- -- -- --
+                     33  4  7  4                        33  3  7  3
+
+Chicago          021 100 000 --  4
+Baltimore        000 030 000 --  3
+
+  Chicago              IP  H  R ER BB SO
+Floyd G (W)           6.2  7  3  3  1  4
+Ohman W               0.1  0  0  0  0  1
+Frasor J              0.1  0  0  0  1  1
+Sale C                1.1  0  0  0  0  2
+Santos S (S)          0.1  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Reyes J (L)           4.0  5  4  4  2  0
+Jakubauskas C*        4.0  2  0  0  2  1
+Berken J              1.0  0  0  0  0  0
+  * Pitched to 1 batter in 9th
+
+E -- Ramirez A
+DP -- Baltimore 1
+LOB -- Chicago 6, Baltimore 6
+2B -- Pierzynski A, Markakis N, Pie F
+HR -- Quentin C, Morel B
+SB -- Ramirez A
+CS -- Markakis N
+SH -- Andino R
+WP -- Jakubauskas C
+T -- 2:42
+A -- 14177
+     Game of 8/10/2011 -- Chicago at Baltimore (N)
+
+  Chicago            AB  R  H RBI    Baltimore          AB  R  H RBI
+Pierre J, lf          5  1  2  2   Pie F, lf             4  0  1  0   
+Vizquel O, ss         5  0  1  0   Hardy J, ss           5  1  4  1   
+Konerko P, dh         5  0  1  1   Markakis N, rf        4  0  1  1   
+Quentin C, rf         3  0  0  0   Jones A, cf           5  1  3  1   
+de Aza A, pr-rf       1  0  0  0   Wieters M, c          5  0  1  0   
+Pierzynski A, c       5  0  3  0   Reynolds M, 3b        5  0  0  0   
+Rios A, cf            5  1  2  0   Davis C, 1b           4  2  2  0   
+Dunn A, 1b            4  0  0  0   Reimold N, dh         5  1  1  2   
+Beckham G, 2b         4  1  1  0   Andino R, 2b          4  1  1  1   
+Morel B, 3b           4  1  1  1                                      
+                     -- -- -- --                        -- -- -- --
+                     41  4 11  4                        41  6 14  6
+
+Chicago          000 001 300 0 --  4
+Baltimore        120 010 000 2 --  6
+  1 out when winning run was scored.
+
+  Chicago              IP  H  R ER BB SO
+Humber P              6.0 11  4  4  1  3
+Crain J               2.0  1  0  0  1  3
+Ohman W               0.1  0  0  0  0  0
+Frasor J (L)          1.0  2  2  2  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Hunter T              6.2  7  4  4  0  2
+Berken J              0.1  2  0  0  0  0
+Johnson J             1.0  1  0  0  0  2
+Gregg K               1.0  0  0  0  0  0
+Gonzalez M (W)        1.0  1  0  0  0  2
+
+LOB -- Chicago 8, Baltimore 10
+2B -- Rios A, Pierre J, Morel B, Jones A, Pierzynski A
+HR -- Hardy J, Jones A, Reimold N
+SF -- Markakis N
+HBP -- by Johnson J (Quentin C)
+WP -- Johnson J
+T -- 3:00
+A -- 18747
+     Game of 8/11/2011 -- Chicago at Baltimore (N)
+
+  Chicago            AB  R  H RBI    Baltimore          AB  R  H RBI
+Pierre J, lf          5  1  3  2   Hardy J, ss           4  1  1  1   
+Ramirez A, ss         4  1  2  2   Markakis N, rf        4  1  1  2   
+Konerko P, dh         4  1  2  0   Jones A, cf           4  0  0  0   
+de Aza A, pr          0  0  0  0   Guerrero V, dh        4  0  0  0   
+Quentin C, rf         5  1  1  1   Wieters M, c          4  0  0  0   
+Pierzynski A, c       5  0  3  1   Reynolds M, 3b        4  0  0  0   
+Rios A, cf            5  0  0  0   Davis C, 1b           3  0  1  0   
+Dunn A, 1b            3  1  0  0   Reimold N, lf         3  1  2  0   
+Lillibridge B, 1b     0  0  0  0   Andino R, 2b          3  0  1  0   
+Beckham G, 2b         4  0  0  0                                      
+Morel B, 3b           4  1  2  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39  6 13  6                        33  3  6  3
+
+Chicago          402 000 000 --  6
+Baltimore        003 000 000 --  3
+
+  Chicago              IP  H  R ER BB SO
+Buehrle M (W)         8.0  6  3  3  0  6
+Santos S (S)          1.0  0  0  0  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Tillman C (L)         2.2  8  6  6  3  3
+Bergesen B            4.1  2  0  0  1  0
+Berken J              1.1  2  0  0  0  0
+Gonzalez M            0.2  1  0  0  0  1
+
+DP -- Baltimore 1
+LOB -- Chicago 10, Baltimore 3
+2B -- Konerko P 2, Quentin C, Pierzynski A, Pierre J, Reimold N
+HR -- Ramirez A, Markakis N
+SB -- Pierre J
+T -- 2:32
+A -- 21040
+     Game of 8/12/2011 -- Detroit at Baltimore (N)
+
+  Detroit            AB  R  H RBI    Baltimore          AB  R  H RBI
+Jackson A, cf         3  1  2  1   Reimold N, lf         4  1  0  0   
+Dirks A, lf           4  1  4  1   Hardy J, ss           4  2  2  3   
+Ordonez M, rf         5  0  1  0   Markakis N, rf        4  0  0  0   
+Kelly D, rf           0  0  0  0   Jones A, cf           4  1  2  0   
+Cabrera M, 1b         4  0  2  1   Guerrero V, dh        4  0  2  1   
+Martinez V, dh        5  0  1  0   Reynolds M, 3b        4  0  1  0   
+Peralta J, ss         5  0  0  0   Wieters M, c          3  0  1  0   
+Guillen C, 2b         4  0  0  0   Pie F, pr             0  0  0  0   
+Santiago R, 2b        0  0  0  0   Davis C, 1b           4  0  0  0   
+Avila A, c            4  2  2  0   Andino R, 2b          4  0  0  0   
+Betemit W, 3b         4  1  3  2                                      
+                     -- -- -- --                        -- -- -- --
+                     38  5 15  5                        35  4  8  4
+
+Detroit          110 201 000 --  5
+Baltimore        200 020 000 --  4
+
+  Detroit              IP  H  R ER BB SO
+Penny B (W)           5.1  7  4  4  1  2
+Coke P                1.2  0  0  0  0  3
+Benoit J              1.0  1  0  0  0  0
+Valverde J (S)        1.0  0  0  0  1  2
+
+  Baltimore            IP  H  R ER BB SO
+Simon A               4.2 11  4  4  3  1
+Patton T (L)          2.2  4  1  1  0  1
+Eyre W                1.2  0  0  0  1  1
+
+E -- Betemit W, Jones A
+DP -- Detroit 1, Baltimore 2
+LOB -- Detroit 12, Baltimore 6
+2B -- Dirks A, Wieters M, Avila A, Jones A, Jackson A
+HR -- Hardy J 2, Betemit W
+SB -- Pie F
+SH -- Jackson A
+SF -- Jackson A
+T -- 3:13
+A -- 21465
+     Game of 8/13/2011 -- Detroit at Baltimore (N)
+
+  Detroit            AB  R  H RBI    Baltimore          AB  R  H RBI
+Jackson A, cf         5  0  0  0   Pie F, lf             4  0  0  0   
+Dirks A, lf           5  1  1  0   Hardy J, ss           4  0  0  0   
+Ordonez M, rf         4  1  2  0   Markakis N, rf        4  0  0  0   
+Kelly D, pr-rf        0  0  0  0   Jones A, cf           4  1  1  0   
+Cabrera M, 1b         2  1  1  3   Guerrero V, dh        4  1  2  2   
+Martinez V, dh        3  1  2  0   Wieters M, c          4  1  1  0   
+Peralta J, ss         4  1  1  0   Davis C, 1b           4  1  2  0   
+Avila A, c            3  1  1  1   Reimold N, pr         0  0  0  0   
+Raburn R, 2b          4  0  1  2   Bell J, 3b            3  0  0  0   
+Santiago R, 2b        0  0  0  0   Reynolds M, ph        1  0  0  0   
+Betemit W, 3b         4  0  0  0   Davis B, 2b           4  1  2  3   
+                     -- -- -- --                        -- -- -- --
+                     34  6  9  6                        36  5  8  5
+
+Detroit          000 105 000 --  6
+Baltimore        050 000 000 --  5
+
+  Detroit              IP  H  R ER BB SO
+Scherzer M (W)        7.0  7  5  4  0 10
+Coke P                1.0  0  0  0  0  2
+Valverde J (S)        1.0  1  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J (L)         5.2  8  6  6  2  1
+Jakubauskas C         2.1  1  0  0  1  1
+Gonzalez M            1.0  0  0  0  0  1
+
+E -- Raburn R
+DP -- Baltimore 1
+LOB -- Detroit 5, Baltimore 4
+2B -- Dirks A, Ordonez M, Avila A
+HR -- Guerrero V, Davis B, Cabrera M
+SF -- Cabrera M
+T -- 2:48
+A -- 24114
+     Game of 8/14/2011 -- Detroit at Baltimore (D)
+
+  Detroit            AB  R  H RBI    Baltimore          AB  R  H RBI
+Jackson A, cf         5  0  3  1   Reimold N, lf         4  3  3  0   
+Dirks A, lf           5  0  0  0   Hardy J, ss           5  0  0  0   
+Ordonez M, rf         5  0  0  1   Markakis N, rf        5  2  3  4   
+Cabrera M, 1b         4  0  1  0   Jones A, cf           3  1  3  1   
+Martinez V, dh        4  0  2  0   Guerrero V, dh        4  0  1  2   
+Rhymes W, pr          0  1  0  0   Reynolds M, 3b        4  0  0  0   
+Boesch B, ph          1  0  0  0   Davis C, 1b           4  1  1  0   
+Peralta J, ss         3  1  1  0   Tatum C, c            4  1  2  0   
+Raburn R, 3b          4  1  2  0   Andino R, 2b          4  0  1  1   
+Avila A, c            2  1  0  1                                      
+Santiago R, 2b        3  1  1  2                                      
+                     -- -- -- --                        -- -- -- --
+                     36  5 10  5                        37  8 14  8
+
+Detroit          001 000 004 --  5
+Baltimore        210 032 00x --  8
+
+  Detroit              IP  H  R ER BB SO
+Fister D (L)          5.2 12  8  6  1  5
+Pauley D              1.1  1  0  0  0  2
+Perry R               1.0  1  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Reyes J (W)           6.0  4  1  1  2  4
+Eyre W                2.0  2  0  0  0  2
+Gregg K*              0.0  4  4  4  2  0
+Johnson J (S)         1.0  0  0  0  1  1
+  * Pitched to 6 batters in 9th
+
+E -- Raburn R, Reynolds M 2
+DP -- Detroit 2, Baltimore 3
+LOB -- Detroit 9, Baltimore 7
+2B -- Tatum C, Reimold N 2
+HR -- Markakis N, Santiago R
+SB -- Tatum C
+HBP -- by Fister D (Jones A)
+T -- 2:38
+A -- 18348
+     Game of 8/26/2011 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Jeter D, ss           4  1  1  0   Andino R, 3b          4  1  1  1   
+Granderson C, cf      3  0  0  0   Hardy J, ss           5  1  1  3   
+Teixeira M, 1b        3  0  0  1   Markakis N, rf        4  1  1  0   
+Rodriguez A, 3b       4  1  1  1   Guerrero V, dh        5  1  1  0   
+Cano R, 2b            4  1  1  0   Wieters M, c          4  2  2  3   
+Swisher N, rf         4  1  2  2   Reynolds M, 1b        4  1  1  1   
+Posada J, dh          4  1  1  1   Adams R, 2b           3  2  1  0   
+Martin R, c           3  0  0  0   Reimold N, lf         4  1  2  3   
+Gardner B, lf         3  0  0  0   Angle M, cf           4  2  1  1   
+                     -- -- -- --                        -- -- -- --
+                     32  5  6  5                        37 12 11 12
+
+New York         000 010 310 --  5
+Baltimore        060 123 00x -- 12
+
+  New York             IP  H  R ER BB SO
+Burnett A (L)         5.0  9  9  9  2  5
+Ayala L               1.0  1  3  0  1  1
+Wade C                1.2  0  0  0  0  1
+Soriano R             0.1  1  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Hunter T (W)          7.0  5  4  4  0  4
+Eyre W                1.0  1  1  1  0  0
+Johnson J             1.0  0  0  0  0  0
+
+E -- Rodriguez A, Martin R, Burnett A, Cano R
+DP -- New York 1
+LOB -- New York 2, Baltimore 4
+2B -- Adams R, Reimold N, Angle M, Andino R, Wieters M, Jeter D
+3B -- Reimold N
+HR -- Reynolds M, Hardy J, Posada J, Wieters M, Rodriguez A, Swisher N
+SB -- Andino R, Angle M
+SF -- Teixeira M
+HBP -- by Hunter T (Granderson C)
+WP -- Burnett A 3
+T -- 2:52
+A -- 32762
+     Game of 8/28/2011, game 1 -- New York at Baltimore (D)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Jeter D, dh           4  0  0  0   Hardy J, ss           4  0  1  1   
+Granderson C, cf      4  0  0  0   Markakis N, rf        4  1  1  0   
+Teixeira M, 1b        4  0  3  0   Jones A, cf           3  0  0  0   
+Rodriguez A, 3b       4  0  0  0   Guerrero V, dh        3  0  1  1   
+Cano R, 2b            3  0  0  0   Wieters M, c          3  0  0  0   
+Swisher N, rf         2  0  0  0   Reynolds M, 1b        3  1  3  0   
+Jones A, lf           3  0  1  0   Adams R, 2b           3  0  1  0   
+Nunez E, ss           3  0  0  0   Reimold N, lf         3  0  0  0   
+Cervelli F, c         2  0  1  0   Andino R, 3b          3  0  0  0   
+Martin R, ph-c        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     30  0  5  0                        29  2  7  2
+
+New York         000 000 000 --  0
+Baltimore        000 000 11x --  2
+
+  New York             IP  H  R ER BB SO
+Colon B (L)           7.2  7  2  2  0  4
+Logan B               0.1  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z (W)         7.0  4  0  0  1  5
+Johnson J             1.0  0  0  0  0  1
+Gregg K (S)           1.0  1  0  0  0  1
+
+DP -- New York 1, Baltimore 2
+LOB -- New York 4, Baltimore 3
+2B -- Reynolds M, Markakis N
+T -- 2:28
+A -- 28751
+     Game of 8/28/2011, game 2 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Gardner B, lf         4  1  0  0   Hardy J, ss           4  1  2  0   
+Granderson C, cf      5  2  3  4   Markakis N, rf        2  1  1  0   
+Teixeira M, 1b        4  1  2  0   Jones A, cf           2  0  1  2   
+Cano R, 2b            5  1  2  2   Guerrero V, dh        4  0  1  0   
+Swisher N, rf         3  1  1  1   Reynolds M, 1b        4  1  1  0   
+Jones A, dh           4  1  1  1   Adams R, 2b           4  0  1  1   
+Martin R, c           4  0  1  0   Reimold N, lf         4  0  1  0   
+Chavez E, 3b          4  1  1  0   Andino R, 3b          4  0  0  0   
+Nunez E, ss           4  0  0  0   Tatum C, c            3  0  0  0   
+                                   Fox J, ph             1  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     37  8 11  8                        32  3  8  3
+
+New York         003 004 100 --  8
+Baltimore        111 000 000 --  3
+
+  New York             IP  H  R ER BB SO
+Nova I (W)*           7.0  7  3  3  2  7
+Robertson D           1.0  1  0  0  0  3
+Noesi H               1.0  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Matusz B (L)          5.1  6  6  6  2  5
+Jakubauskas C         0.2  2  1  1  0  2
+Hendrickson M         1.0  2  1  1  0  0
+Bergesen B            2.0  1  0  0  1  2
+  * Pitched to 2 batters in 8th
+
+DP -- New York 1, Baltimore 1
+LOB -- New York 5, Baltimore 6
+2B -- Teixeira M, Markakis N, Adams R, Hardy J, Cano R
+HR -- Granderson C 2, Cano R, Swisher N, Jones A
+SF -- Jones A 2
+WP -- Nova I
+T -- 2:53
+A -- 37528
+     Game of 8/29/2011 -- New York at Baltimore (N)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Gardner B, lf         3  0  0  0   Hardy J, ss           4  1  1  1   
+Granderson C, cf      3  1  0  0   Markakis N, rf        2  0  0  0   
+Teixeira M, 1b        4  0  1  1   Jones A, cf           4  0  1  0   
+Cano R, 2b            4  1  2  0   Guerrero V, dh        4  0  0  0   
+Swisher N, rf         4  1  1  2   Wieters M, c          3  0  0  0   
+Posada J, dh          4  0  0  0   Reynolds M, 1b        4  1  1  1   
+Chavez E, 3b          3  0  1  0   Adams R, 2b           3  0  0  0   
+Martin R, c           3  0  0  0   Reimold N, lf         3  0  0  0   
+Nunez E, ss           3  0  0  0   Andino R, 3b          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     31  3  5  3                        30  2  3  2
+
+New York         100 200 000 --  3
+Baltimore        000 010 010 --  2
+
+  New York             IP  H  R ER BB SO
+Garcia F (W)          6.0  2  1  1  1  4
+Soriano R             1.0  0  0  0  1  2
+Robertson D           1.0  1  1  1  1  2
+Rivera M (S)          1.0  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Simon A (L)           7.0  4  3  3  2  6
+Gonzalez M            2.0  1  0  0  0  1
+
+DP -- Baltimore 1
+LOB -- New York 3, Baltimore 4
+2B -- Teixeira M, Jones A, Chavez E
+HR -- Swisher N, Reynolds M, Hardy J
+SB -- Gardner B, Markakis N
+T -- 2:32
+A -- 18223
+     Game of 8/30/2011 -- Toronto at Baltimore (N)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Escobar Y, ss         4  0  1  1   Hardy J, ss           5  0  1  0   
+Thames E, lf          5  0  2  0   Markakis N, rf        3  0  0  0   
+Bautista J, rf        4  0  1  0   Jones A, cf           4  1  0  0   
+Lind A, 1b            4  0  1  0   Guerrero V, dh        5  1  2  1   
+Encarnacion E, dh     4  1  0  0   Wieters M, c          4  2  2  2   
+Johnson K, 2b         4  2  1  0   Reynolds M, 1b        3  1  1  0   
+Lawrie B, 3b          4  1  1  3   Andino R, 3b          4  1  1  0   
+Arencibia J, c        4  0  2  0   Reimold N, lf         3  0  2  0   
+Wise D, pr            0  1  0  0   Angle M, lf           0  0  0  0   
+Molina J, c           0  0  0  0   Fox J, ph             1  0  1  1   
+McCoy M, cf           4  0  0  0   Adams R, 2b           5  0  2  1   
+                     -- -- -- --                        -- -- -- --
+                     37  5  9  4                        37  6 12  5
+
+Toronto          030 000 001 1 --  5
+Baltimore        020 110 000 2 --  6
+  1 out when winning run was scored.
+
+  Toronto              IP  H  R ER BB SO
+Cecil B               6.0  8  4  4  2  4
+Carreno J             1.0  1  0  0  1  0
+Camp S                1.0  1  0  0  2  0
+Janssen C             1.0  0  0  0  1  0
+Tallet B (L)          0.1  2  2  2  2  1
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J             6.0  6  3  3  2  5
+Johnson J             2.0  1  0  0  0  1
+Gregg K               1.0  1  1  1  3  0
+Eyre W (W)            1.0  1  1  1  1  0
+
+E -- Cecil B, Wieters M
+DP -- Toronto 2, Baltimore 1
+LOB -- Toronto 10, Baltimore 11
+2B -- Andino R, Thames E 2, Guerrero V, Hardy J
+3B -- Johnson K
+HR -- Lawrie B, Wieters M
+SB -- McCoy M, Wise D
+CS -- McCoy M
+SF -- Escobar Y
+HBP -- by Guthrie J (Lawrie B)
+WP -- Eyre W
+T -- 3:18
+A -- 10756
+     Game of 8/31/2011 -- Toronto at Baltimore (N)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Escobar Y, ss         6  2  4  0   Hardy J, ss           2  0  0  0   
+Thames E, lf          5  3  4  1   Angle M, ph-lf        2  0  1  0   
+Bautista J, rf        4  1  1  3   Markakis N, rf        2  0  0  0   
+Wise D, ph-rf         2  0  1  0   Fox J, ph-1b          2  0  0  0   
+Lind A, 1b            4  2  2  2   Jones A, cf           4  0  0  0   
+Teahen M, ph-1b       2  0  0  0   Guerrero V, dh        3  0  1  0   
+Encarnacion E, dh     5  3  4  2   Reynolds M, 1b-3b     3  0  0  0   
+Johnson K, 2b         5  1  2  3   Andino R, 3b-ss       3  0  1  0   
+Lawrie B, 3b          4  0  1  1   Reimold N, lf-rf      3  0  0  0   
+Molina J, c           5  1  1  1   Adams R, 2b           3  0  1  0   
+McCoy M, cf           4  0  0  0   Tatum C, c            3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     46 13 20 13                        30  0  4  0
+
+Toronto          016 402 000 -- 13
+Baltimore        000 000 000 --  0
+
+  Toronto              IP  H  R ER BB SO
+Alvarez H (W)         8.0  3  0  0  0  5
+Lewis R               1.0  1  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Reyes J (L)           2.2  8  7  7  1  2
+Bergesen B            2.1  4  4  4  1  1
+Patton T              2.0  4  2  2  0  2
+Phillips Z            1.0  2  0  0  1  1
+Jakubauskas C         1.0  2  0  0  0  1
+
+E -- Escobar Y, Reynolds M
+DP -- Toronto 2, Baltimore 1
+LOB -- Toronto 9, Baltimore 3
+2B -- Encarnacion E 2, Lawrie B, Thames E 2, Lind A, Angle M
+HR -- Johnson K, Molina J, Encarnacion E, Bautista J
+SB -- Thames E
+T -- 2:26
+A -- 14211
+     Game of 9/1/2011 -- Toronto at Baltimore (D)
+
+  Toronto            AB  R  H RBI    Baltimore          AB  R  H RBI
+Escobar Y, ss         5  1  4  2   Andino R, 3b          5  1  2  0   
+Thames E, lf          5  0  0  1   Hardy J, ss           5  0  0  0   
+Wise D, lf            0  0  0  0   Markakis N, rf        3  1  0  0   
+Bautista J, rf        5  0  1  1   Jones A, cf           2  1  0  0   
+Lind A, 1b            4  0  0  0   Guerrero V, dh        4  2  3  4   
+Encarnacion E, dh     5  0  0  0   Wieters M, c          3  1  2  2   
+Johnson K, 2b         4  2  3  1   Reynolds M, 1b        4  0  0  0   
+Lawrie B, 3b          5  2  3  2   Reimold N, lf         4  0  0  0   
+Arencibia J, c        4  1  1  1   Adams R, 2b           4  0  0  0   
+McCoy M, cf           3  2  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     40  8 13  8                        34  6  7  6
+
+Toronto          002 202 020 --  8
+Baltimore        010 202 100 --  6
+
+  Toronto              IP  H  R ER BB SO
+Perez L*              5.0  6  5  5  3  6
+Litsch J              1.1  1  1  1  1  0
+Camp S (W)            0.2  0  0  0  0  0
+Rauch J               1.0  0  0  0  0  1
+Francisco F (S)       1.0  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Hunter T              6.0  9  6  5  1  3
+Eyre W (L)            1.1  3  2  2  1  1
+Phillips Z            0.1  0  0  0  0  1
+VandenHurk R          1.1  1  0  0  1  1
+  * Pitched to 4 batters in 6th
+
+E -- Andino R, Litsch J
+DP -- Baltimore 1
+LOB -- Toronto 8, Baltimore 6
+2B -- Guerrero V 2, Wieters M, Escobar Y 2, Lawrie B, Arencibia J, Andino R, Johnson K
+HR -- Guerrero V, Wieters M, Johnson K, Lawrie B
+SB -- Lawrie B
+HBP -- by Camp S (Jones A)
+T -- 3:01
+A -- 11617
+     Game of 9/8/2011 -- New York at Baltimore (D)
+
+  New York           AB  R  H RBI    Baltimore          AB  R  H RBI
+Jeter D, ss           4  0  1  2   Hardy J, ss           5  0  0  0   
+Granderson C, cf      3  0  0  0   Markakis N, rf        3  0  2  0   
+Teixeira M, 1b        5  1  2  0   Jones A, cf           4  0  0  0   
+Rodriguez A, dh       3  1  0  0   Guerrero V, dh        5  2  3  1   
+Cano R, 2b            5  1  1  0   Wieters M, c          5  0  0  0   
+Swisher N, rf         2  0  0  0   Reynolds M, 1b        4  0  1  1   
+Dickerson C, rf-lf    0  0  0  0   Reimold N, lf         4  2  2  0   
+Chavez E, 3b          4  1  2  2   Davis C, 3b           4  1  3  1   
+Cervelli F, c         4  0  0  0   Andino R, 2b          5  0  2  2   
+Gardner B, lf         2  0  0  0                                      
+Jones A, ph-rf        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     33  4  6  4                        39  5 13  5
+
+New York         031 000 000 0 --  4
+Baltimore        010 101 010 1 --  5
+  1 out when winning run was scored.
+
+  New York             IP  H  R ER BB SO
+Nova I                5.1  5  3  3  3  2
+Logan B*              0.0  1  0  0  0  0
+Ayala L               0.2  0  0  0  0  0
+Laffey A+             0.0  0  0  0  1  0
+Wade C                1.0  1  0  0  0  1
+Soriano R             1.0  3  1  1  0  0
+Proctor S (L)         1.1  3  1  1  2  1
+
+  Baltimore            IP  H  R ER BB SO
+Simon A               4.0  6  4  4  6  3
+Reyes J               2.1  0  0  0  0  2
+Accardo J             0.2  0  0  0  0  0
+Patton T              1.1  0  0  0  0  2
+Gregg K               1.1  0  0  0  1  4
+Rapada C (W)          0.1  0  0  0  0  0
+  * Pitched to 1 batter in 6th
+  + Pitched to 1 batter in 7th
+
+E -- Cervelli F, Gardner B
+DP -- Baltimore 2
+LOB -- New York 7, Baltimore 12
+2B -- Guerrero V 2, Reimold N, Davis C
+HR -- Guerrero V
+SB -- Teixeira M
+CS -- Jeter D, Andino R
+HBP -- by Reyes J (Granderson C)
+WP -- Nova I
+T -- 3:39
+A -- 33841
+     Game of 9/12/2011 -- Tampa Bay at Baltimore (N)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Jennings D, lf        5  0  1  0   Angle M, cf           4  0  0  0   
+Upton B, cf           3  3  2  0   Hardy J, ss           4  0  2  0   
+Longoria E, 3b        5  0  0  0   Markakis N, rf        3  0  0  0   
+Zobrist B, 2b         5  1  3  3   Guerrero V, dh        4  0  1  0   
+Damon J, dh           3  0  1  1   Wieters M, c          4  1  1  1   
+Rodriguez S, ss       5  0  2  1   Davis C, 3b           4  0  0  0   
+Kotchman C, 1b        4  0  1  0   Reynolds M, 1b        3  1  0  0   
+Lobaton J, c          4  0  0  0   Hudson K, lf          3  0  1  0   
+Guyer B, rf           3  1  1  0   Andino R, 2b          3  0  1  1   
+Joyce M, ph-rf        1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     38  5 11  5                        32  2  6  2
+
+Tampa Bay        003 010 100 --  5
+Baltimore        000 011 000 --  2
+
+  Tampa Bay            IP  H  R ER BB SO
+Niemann J (W)         7.2  6  2  2  2  5
+Howell J              0.1  0  0  0  0  0
+Peralta J (S)         1.0  0  0  0  0  3
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z (L)         5.0  5  4  4  4  2
+Accardo J             1.1  2  1  1  1  1
+Phillips Z            0.2  1  0  0  0  0
+Berken J              1.0  1  0  0  0  2
+Jakubauskas C         1.0  2  0  0  0  0
+
+E -- Davis C
+DP -- Tampa Bay 1
+LOB -- Tampa Bay 12, Baltimore 5
+2B -- Guyer B, Zobrist B, Upton B 2, Andino R
+HR -- Wieters M
+SB -- Zobrist B
+SF -- Damon J
+T -- 3:01
+A -- 11924
+     Game of 9/13/2011 -- Tampa Bay at Baltimore (N)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Jennings D, lf        4  0  0  0   Andino R, 3b-2b       4  0  1  0   
+Upton B, cf           3  1  1  0   Hardy J, ss           4  1  2  0   
+Longoria E, 3b        4  1  2  2   Markakis N, rf        3  0  0  0   
+Zobrist B, 2b         4  0  0  0   Guerrero V, dh        4  0  1  0   
+Damon J, dh           4  0  1  0   Jones A, pr           0  1  0  0   
+Joyce M, rf           3  0  0  0   Wieters M, c          3  1  1  2   
+Kotchman C, 1b        4  0  1  0   Reynolds M, 1b        4  0  0  0   
+Jaso J, c             3  0  1  0   Reimold N, lf         2  1  0  0   
+Lobaton J, ph         1  0  0  0   Adams R, 2b           3  0  0  0   
+Rodriguez S, ss       3  0  1  0   Bell J, 3b            0  0  0  0   
+                                   Hudson K, cf          2  0  0  0   
+                                   Fox J, ph             1  0  1  1   
+                                   Angle M, pr-cf        0  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     33  2  7  2                        30  4  6  3
+
+Tampa Bay        000 002 000 --  2
+Baltimore        100 000 12x --  4
+
+  Tampa Bay            IP  H  R ER BB SO
+Price D               6.2  4  2  1  3  6
+Cruz J                0.1  0  0  0  0  0
+Howell J (L)          0.2  2  2  2  0  0
+Gomes B               0.1  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Simon A               7.0  6  2  2  2  9
+Strop P               0.2  1  0  0  0  1
+Patton T (W)          1.0  0  0  0  0  1
+Johnson J (S)         0.1  0  0  0  0  0
+
+E -- Rodriguez S
+DP -- Tampa Bay 1, Baltimore 1
+LOB -- Tampa Bay 6, Baltimore 5
+2B -- Longoria E, Hardy J, Fox J
+HR -- Longoria E, Wieters M
+SB -- Damon J, Upton B 2, Reimold N
+T -- 2:41
+A -- 13262
+     Game of 9/14/2011 -- Tampa Bay at Baltimore (N)
+
+  Tampa Bay          AB  R  H RBI    Baltimore          AB  R  H RBI
+Fuld S, lf            2  0  0  0   Angle M, cf-lf        4  0  2  0   
+Rodriguez S, ph-2b    2  0  0  0   Hardy J, ss           3  0  0  0   
+Upton B, cf           2  1  0  0   Markakis N, rf        4  0  0  0   
+Longoria E, 3b        4  0  0  0   Guerrero V, dh        4  2  3  0   
+Zobrist B, 2b-rf      3  1  0  0   Wieters M, c          4  2  2  2   
+Damon J, dh           3  0  0  0   Davis C, 3b           4  1  2  3   
+Joyce M, rf-lf        4  0  2  2   Reynolds M, 1b        4  0  0  0   
+Kotchman C, 1b        3  0  0  0   Reimold N, lf         2  1  1  1   
+Jaso J, c             3  0  0  0   Jones A, cf           0  0  0  0   
+Brignac R, ss         3  0  1  0   Andino R, 2b          3  0  0  0   
+                     -- -- -- --                        -- -- -- --
+                     29  2  3  2                        32  6 10  6
+
+Tampa Bay        000 200 000 --  2
+Baltimore        001 300 02x --  6
+
+  Tampa Bay            IP  H  R ER BB SO
+Davis W (L)           6.1  7  4  4  2  3
+Moore M               1.1  3  2  2  0  2
+De La Rosa D          0.1  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Guthrie J (W)         7.0  3  2  2  3 10
+Johnson J (S)         2.0  0  0  0  1  0
+
+DP -- Tampa Bay 2, Baltimore 1
+LOB -- Tampa Bay 4, Baltimore 4
+2B -- Joyce M, Wieters M, Angle M, Davis C
+HR -- Reimold N, Davis C, Wieters M
+T -- 2:22
+A -- 14669
+     Game of 9/16/2011 -- Anaheim at Baltimore (N)
+
+  Anaheim            AB  R  H RBI    Baltimore          AB  R  H RBI
+Aybar E, ss           4  0  2  0   Angle M, cf           3  1  0  0   
+Amarista A, lf        1  0  1  1   Hardy J, ss           4  0  2  3   
+Kendrick H, 2b        3  0  0  0   Markakis N, rf        3  0  0  0   
+Trout M, cf           2  0  0  0   Hudson K, lf          0  0  0  0   
+Abreu B, dh           4  0  1  0   Guerrero V, dh        4  0  2  0   
+Hunter T, rf          3  0  2  0   Wieters M, c          4  0  0  0   
+Moore J, rf           1  0  0  0   Davis C, 3b-1b        4  1  1  0   
+Trumbo M, 1b          3  0  0  0   Reynolds M, 1b        4  2  2  1   
+Navarro E, 1b         0  1  0  0   Bell J, 3b            0  0  0  0   
+Callaspo A, 3b        3  0  2  0   Reimold N, lf-rf      3  2  1  2   
+Wells V, lf           3  0  0  0   Andino R, 2b          3  2  2  1   
+Conger H, c           1  1  1  2                                      
+Bourjos P, cf         2  0  0  0                                      
+Romine A, ss          1  1  0  0                                      
+Mathis J, c           2  0  0  0                                      
+Izturis M, ph         1  0  0  0                                      
+Velazquez G, 2b       1  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     35  3  9  3                        32  8 10  7
+
+Anaheim          000 000 003 --  3
+Baltimore        002 033 00x --  8
+
+  Anaheim              IP  H  R ER BB SO
+Haren D (L)*          5.0  7  7  6  2  4
+Chatwood T            2.0  3  1  1  1  1
+Bell T                1.0  0  0  0  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Hunter T (W)          7.0  7  0  0  2  5
+Eyre W                1.0  0  0  0  0  0
+Gregg K               1.0  2  3  2  1  2
+  * Pitched to 2 batters in 6th
+
+E -- Callaspo A, Andino R
+DP -- Anaheim 2, Baltimore 1
+LOB -- Anaheim 8, Baltimore 4
+2B -- Aybar E, Hardy J, Reynolds M, Amarista A
+HR -- Reynolds M, Reimold N, Conger H
+SB -- Reimold N
+CS -- Abreu B
+SH -- Angle M
+WP -- Haren D, Chatwood T
+T -- 2:51
+A -- 24022
+     Game of 9/17/2011 -- Anaheim at Baltimore (N)
+
+  Anaheim            AB  R  H RBI    Baltimore          AB  R  H RBI
+Izturis M, 3b         4  0  0  0   Angle M, cf           2  1  0  0   
+Bourjos P, cf         4  0  0  0   Hardy J, ss           4  1  1  2   
+Kendrick H, 2b        3  1  0  0   Markakis N, rf        4  0  0  0   
+Hunter T, dh          3  0  0  0   Guerrero V, dh        4  1  1  0   
+Trumbo M, 1b          4  0  1  0   Wieters M, c          2  2  1  0   
+Wells V, lf           4  0  1  1   Davis C, 3b-1b        4  0  1  0   
+Trout M, rf           4  1  1  0   Reynolds M, 1b        1  1  1  3   
+Aybar E, ss           3  0  1  0   Bell J, 3b            2  0  1  0   
+Wilson B, c           0  0  0  1   Reimold N, lf         3  0  0  0   
+Callaspo A, ph        0  0  0  0   Andino R, 2b          4  0  1  0   
+Mathis J, c           0  0  0  0                                      
+                     -- -- -- --                        -- -- -- --
+                     29  2  4  2                        30  6  7  5
+
+Anaheim          000 010 001 --  2
+Baltimore        500 000 01x --  6
+
+  Anaheim              IP  H  R ER BB SO
+Santana E (L)         7.0  5  5  5  3  3
+Richards G            1.0  2  1  1  1  1
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z (W)         7.0  3  1  1  2  7
+Strop P               1.0  0  0  0  1  0
+Johnson J             1.0  1  1  1  1  2
+
+E -- Trout M
+DP -- Anaheim 1, Baltimore 1
+LOB -- Anaheim 5, Baltimore 6
+2B -- Wieters M, Davis C
+3B -- Wells V
+HR -- Hardy J, Reynolds M
+SB -- Angle M
+SF -- Wilson B
+HBP -- by Santana E (Reimold N), by Santana E (Reynolds M)
+T -- 2:22
+A -- 31099
+     Game of 9/18/2011 -- Anaheim at Baltimore (D)
+
+  Anaheim            AB  R  H RBI    Baltimore          AB  R  H RBI
+Aybar E, ss           4  5  4  4   Angle M, cf           3  0  0  0   
+Moore J, rf           0  0  0  0   Hardy J, ss           3  0  0  0   
+Kendrick H, 2b        5  1  3  3   Florimon P, ph-ss     1  0  0  0   
+Abreu B, dh           5  0  1  1   Markakis N, rf        3  1  2  0   
+Hunter T, rf          5  0  1  1   Fox J, ph-lf          1  0  0  0   
+Romine A, ss          0  0  0  0   Guerrero V, dh        3  1  2  2   
+Trumbo M, 1b          3  0  2  0   Davis C, 1b           4  0  2  0   
+Navarro E, ph-1b      1  0  0  0   Bell J, 3b            4  0  0  0   
+Callaspo A, 3b        4  1  1  0   Andino R, 2b          2  0  0  0   
+Amarista A, ph-lf     1  0  0  0   Adams R, 2b           1  0  0  0   
+Wells V, lf           4  1  2  2   Hudson K, lf          1  0  0  0   
+Velazquez G, ph-3b    1  0  0  0   Reimold N, ph-lf-rf   2  0  0  0   
+Bourjos P, cf         3  1  0  0   Tatum C, c            3  0  0  0   
+Mathis J, c           3  2  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     39 11 15 11                        31  2  6  2
+
+Anaheim          101 402 030 -- 11
+Baltimore        100 001 000 --  2
+
+  Anaheim              IP  H  R ER BB SO
+Weaver J (W)          6.0  6  2  2  1  2
+Takahashi H           1.0  0  0  0  0  2
+Cassevah B            1.0  0  0  0  2  2
+Thompson R            1.0  0  0  0  0  1
+
+  Baltimore            IP  H  R ER BB SO
+Simon A (L)           5.0  8  6  6  1  5
+Bergesen B            0.2  3  2  2  0  0
+Phillips Z            0.1  0  0  0  0  0
+Berken J              1.0  1  0  0  0  0
+Reyes J               1.0  3  3  3  1  1
+Accardo J             1.0  0  0  0  0  0
+
+DP -- Anaheim 1
+LOB -- Anaheim 5, Baltimore 6
+2B -- Abreu B, Trumbo M 2, Aybar E 2, Kendrick H
+3B -- Guerrero V
+HR -- Aybar E 2, Wells V, Guerrero V
+SB -- Bourjos P
+CS -- Kendrick H, Wells V
+SH -- Hudson K
+HBP -- by Simon A (Trumbo M), by Bergesen B (Mathis J)
+WP -- Simon A
+T -- 2:51
+A -- 27471
+     Game of 9/26/2011 -- Boston at Baltimore (N)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Ellsbury J, cf        4  1  2  0   Angle M, lf           3  0  1  0   
+Crawford C, lf        5  0  0  0   Hardy J, ss           4  0  0  0   
+Pedroia D, 2b         4  0  2  1   Markakis N, rf        3  0  1  0   
+Ortiz D, dh           5  0  2  0   Guerrero V, dh        4  1  1  0   
+Gonzalez A, 1b        3  0  1  0   Wieters M, c          4  1  1  1   
+Lowrie J, 3b          4  1  1  1   Jones A, cf           4  1  1  0   
+Drew J, rf            4  0  2  0   Reynolds M, 1b        2  1  0  0   
+Saltalamacchia J, c   4  0  0  0   Davis C, 3b           4  1  2  2   
+Lavarnway R, c        0  0  0  0   Andino R, 2b          2  1  1  3   
+Scutaro M, ss         4  1  1  0                                      
+                     -- -- -- --                        -- -- -- --
+                     37  3 11  2                        30  6  8  6
+
+Boston           010 100 001 --  3
+Baltimore        010 014 00x --  6
+
+  Boston               IP  H  R ER BB SO
+Beckett J (L)         6.0  7  6  6  4  5
+Aceves A              1.0  1  0  0  0  1
+Weiland K             1.0  0  0  0  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Hunter T              5.0  7  2  1  3  2
+Patton T (W)          1.2  0  0  0  0  1
+Eyre W                0.1  0  0  0  0  1
+Rapada C              0.1  1  0  0  0  1
+Strop P               0.2  1  0  0  1  1
+Johnson J             1.0  2  1  1  0  1
+
+E -- Angle M
+DP -- Boston 1, Baltimore 1
+LOB -- Boston 12, Baltimore 5
+2B -- Ortiz D, Ellsbury J, Davis C, Markakis N
+HR -- Wieters M, Lowrie J, Andino R
+SB -- Angle M, Guerrero V
+CS -- Pedroia D
+SH -- Andino R
+HBP -- by Johnson J (Ellsbury J)
+Balk -- Johnson J
+T -- 3:17
+A -- 21786
+     Game of 9/27/2011 -- Boston at Baltimore (N)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Ellsbury J, cf        5  1  1  2   Andino R, 2b          5  0  0  0   
+Pedroia D, 2b         4  0  2  0   Hardy J, ss           4  1  2  0   
+Ortiz D, dh           4  1  1  0   Markakis N, rf        4  1  1  0   
+Lowrie J, 3b          5  0  0  0   Guerrero V, dh        5  1  3  1   
+Gonzalez A, 1b        3  1  1  0   Angle M, pr           0  0  0  0   
+Lavarnway R, c        4  2  2  4   Wieters M, c          5  2  2  3   
+McDonald D, rf        2  0  1  0   Jones A, cf           5  1  2  1   
+Drew J, ph-rf         2  0  0  0   Reynolds M, 1b        3  0  0  0   
+Crawford C, lf        4  1  1  0   Davis C, 3b           4  1  2  1   
+Scutaro M, ss         4  2  2  2   Reimold N, lf         4  0  1  1   
+                     -- -- -- --                        -- -- -- --
+                     37  8 11  8                        39  7 13  7
+
+Boston           002 302 010 --  8
+Baltimore        100 201 021 --  7
+
+  Boston               IP  H  R ER BB SO
+Bedard E              3.1  5  3  3  3  6
+Aceves A (W)          3.2  3  1  1  0  1
+Bard D                1.0  3  2  2  0  1
+Papelbon J (S)        1.0  2  1  1  0  0
+
+  Baltimore            IP  H  R ER BB SO
+Britton Z (L)         4.1  7  5  5  2  2
+Berken J              1.0  2  2  2  1  1
+Phillips Z            2.1  1  1  1  0  2
+Accardo J             0.1  0  0  0  0  0
+Gregg K               1.0  1  0  0  0  1
+
+DP -- Baltimore 1
+LOB -- Boston 5, Baltimore 8
+2B -- Guerrero V, Jones A, Scutaro M, McDonald D, Markakis N
+3B -- Crawford C, Reimold N
+HR -- Ellsbury J, Lavarnway R 2, Wieters M, Scutaro M, Jones A
+CS -- Jones A
+WP -- Britton Z
+T -- 3:37
+A -- 22123
+     Game of 9/28/2011 -- Boston at Baltimore (N)
+
+  Boston             AB  R  H RBI    Baltimore          AB  R  H RBI
+Ellsbury J, cf        5  0  1  0   Andino R, 2b          5  0  1  1   
+Pedroia D, 2b         4  1  3  2   Hardy J, ss           3  1  2  2   
+Ortiz D, dh           4  0  2  0   Markakis N, rf        3  0  0  0   
+Gathright J, pr       0  0  0  0   Angle M, lf           0  0  0  0   
+Gonzalez A, 1b        2  0  1  0   Guerrero V, dh        4  0  0  0   
+Lavarnway R, c        5  0  0  0   Wieters M, c          3  0  0  0   
+Drew J, rf            4  0  1  0   Jones A, cf           4  0  1  0   
+Scutaro M, ss         4  1  2  0   Reynolds M, 1b        3  0  1  0   
+Crawford C, lf        4  0  1  0   Davis C, 3b           3  0  1  0   
+Aviles M, 3b          3  1  0  0   Hudson K, pr          0  1  0  0   
+                                   Reimold N, lf-rf      3  2  1  1   
+                     -- -- -- --                        -- -- -- --
+                     35  3 11  2                        31  4  7  4
+
+Boston           001 110 000 --  3
+Baltimore        002 000 002 --  4
+  2 outs when winning run was scored.
+
+  Boston               IP  H  R ER BB SO
+Lester J              6.0  4  2  2  4  5
+Aceves A              1.0  0  0  0  0  1
+Bard D                1.0  0  0  0  0  0
+Papelbon J (L)        0.2  3  2  2  0  2
+
+  Baltimore            IP  H  R ER BB SO
+Simon A               4.1  6  3  3  3  2
+Patton T              2.1  2  0  0  2  0
+Eyre W                0.1  0  0  0  0  0
+Strop P               1.0  2  0  0  0  0
+Johnson J (W)         1.0  1  0  0  1  0
+
+E -- Davis C, Reynolds M
+DP -- Boston 2, Baltimore 2
+LOB -- Boston 11, Baltimore 7
+2B -- Hardy J, Scutaro M, Reynolds M, Crawford C, Davis C, Reimold N
+HR -- Hardy J, Pedroia D
+SB -- Ellsbury J
+CS -- Aviles M
+HBP -- by Aceves A (Reynolds M), by Aceves A (Reimold N)
+Balk -- Simon A
+T -- 3:26
+A -- 29749
+
