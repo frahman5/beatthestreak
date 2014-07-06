@@ -146,15 +146,5 @@ Notes:
      -> Try removing unnecessary attributes from objects (like player, from bot)
      -> Consider running multiple N with the same P in parallel
      -> See if player's are redundantly calculating batting averages
-4.1) Do one "code cleanup" for every optimization you do
-     -> Have simulations for the same year all report to the same excel file
-         -> SEVERELY slowed down the simulation (200% slowdown on benchmark -d 2010 2009 20 20)
-         -> Instead, write a aggregate_results function that will combine
-            all the individual sim results at the end (Or maybe not, this info wil lbe in mass_simulate results file)
-     -> Clean up the startDate attribute
-          Should NOT be an initialization factor. SHOULD be a parameter tp
-          simulate and mass_simulate
-5) ToDo after some mass simulations already done:
-     -> Make it read results from indiv sim files if the indiv sim
-           has already been done
-     -> Allow yourself to var minPA as well as singleDown and DoubleDown
+4) Google Cloud $500 credit: https://cloud.google.com/developers/starterpack/
+   -> code: garysguide

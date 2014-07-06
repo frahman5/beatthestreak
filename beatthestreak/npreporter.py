@@ -127,7 +127,7 @@ class NPReporter(object):
         ## construct dataframe
         df = concat([simYearS, batAveYearS, nS, pS, minPAS, minBatAveS], axis=1)
         if len(minERAS) > 0:
-            df = concat([df, minERAs], axis=1) 
+            df = concat([df, minERAS], axis=1) 
         df = concat([ df, successesS, perSuccessS, failureS, perFailureS, 
                       percUniqueBotsS, doubleDownS, topStreakAveS, oneStreakS, 
                       twoStreakS, threeStreakS, fourStreakS, fiveStreakS, 
@@ -136,14 +136,20 @@ class NPReporter(object):
         ## Write the info to an excel spreadsheet
         if self.test == True: # debugging code
             writer = ExcelWriter(Filepath.get_mass_results_file(
-                kwargs['simYearRange'], kwargs['simMinBatRange'], 
-                kwargs['NRange'], kwargs['PRange'], kwargs['minPARange'], 
-                kwargs['minERARange'], method=npsim.method, test=True))
+                simYearRange=kwargs['simYearRange'], 
+                sMBRange=kwargs['simMinBatRange'], 
+                NRange=kwargs['NRange'], PRange=kwargs['PRange'], 
+                minPARange=kwargs['minPARange'], 
+                minERARange=kwargs['minERARange'], 
+                method=npsim.method, test=True))
         else:
             writer = ExcelWriter(Filepath.get_mass_results_file(
-                kwargs['simYearRange'], kwargs['simMinBatRange'], 
-                kwargs['NRange'], kwargs['PRange'], kwargs['minPARange'], 
-                kwargs['minERARange'], method=npsim.method))
+                simYearRange=kwargs['simYearRange'], 
+                sMBRange=kwargs['simMinBatRange'], 
+                NRange=kwargs['NRange'], PRange=kwargs['PRange'], 
+                minPARange=kwargs['minPARange'], 
+                minERARange=kwargs['minERARange'], 
+                method=npsim.method))
         df.to_excel(writer, index=False, sheet_name='Meta')
 
         writer.save()

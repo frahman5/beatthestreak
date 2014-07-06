@@ -101,15 +101,15 @@ class NPSimulation(Simulation):
         back a variable number of top bots, inluding their player histories. 
         """
         ## initalize relevant date variables and setup the simulation
-        if self.startDate == 'default':
-            self.currentDate = Researcher.get_opening_day(self.simYear)
-        else:
-            #assert type(self.startDate) == datetime.date
-            Researcher.check_date(self.startDate, startDate.year)
-            self.currentDate = self.startDate
-        startDate = self.currentDate
-        self.currentDate = startDate
-        # self.currentDate = date(self.simYear, 7, 7) # for actual production simulations
+        # if self.startDate == 'default':
+        #     self.currentDate = Researcher.get_opening_day(self.simYear)
+        # else:
+        #     #assert type(self.startDate) == datetime.date
+        #     Researcher.check_date(self.startDate, startDate.year)
+        #     self.currentDate = self.startDate
+        # startDate = self.currentDate
+        # self.currentDate = startDate
+        self.currentDate = date(self.simYear, 7, 7) # for actual production simulations
         startDate = self.currentDate
         lastDate = Researcher.get_closing_day(self.simYear)
         Reporter = NPReporter(self)
@@ -182,8 +182,10 @@ class NPSimulation(Simulation):
         Simulates the next day
         """
         if doubleDown:
+            # print "SIMMED DOUBLE DOWN"
             self.__sim_next_day_double()
         else:
+            # print "SIMMED SINGLE DOWN"
             self.__sim_next_day_single()
        
     def __sim_next_day_single(self):
@@ -197,14 +199,16 @@ class NPSimulation(Simulation):
 
         # Retrieve list of players qualifying today
         if self.method in (1, 2):
+            # print "SELECTION: DID_START"
             qualifyingPlayers = [ player for player in self.players if \
                                   cdid_start(today, player.get_lahman_id()) ]
         elif self.method in (3, 4): 
+            # print "SELECTION: DID_START and ERA > minERA"
             minERA = self.minERA
             qualifyingPlayers = [ 
                 player for player in self.players if
                 cdid_start(today, player.get_lahman_id()) and
-                copposing_pitcher_era(player, today) > minERA] 
+                copposing_pitcher_era(player.get_lahman_id(), today) > minERA] 
         else:
             raise InvalidMethodException("Method: {} is not valid".format(
                         self.method))
@@ -217,11 +221,13 @@ class NPSimulation(Simulation):
             return
             # deterministic distribution of players
         if self.method in (1, 3): 
+            # print "DISTRIBUTION: DETERMINISTIC"
             for i, bot in enumerate(self.bots):
                 player = qualifyingPlayers[i % modFactor]
                 bot.update_history(p1=player, date=today)
             # random distribution of players
         elif self.method in (2, 4):
+            # print "DISTRIBUTION: RANDOM"
             for bot in self.bots:
                 player = random.choice(qualifyingPlayers)
                 bot.update_history(p1=player, date=today)
@@ -244,9 +250,11 @@ class NPSimulation(Simulation):
 
         ## Retrieve list of players qualifying today
         if self.method in (1, 2):
+            # print "SELECTION: DID_START"
             qualifyingPlayers = [ player for player in self.players if \
                                   cdid_start(today, player.get_lahman_id()) ]
         elif self.method in (3, 4): 
+            # print "SELECTION: DID_START and ERA > minERA"
             minERA = self.minERA
             qualifyingPlayers = [ 
                 player for player in self.players if
@@ -264,6 +272,7 @@ class NPSimulation(Simulation):
             return 
             # deterministic distribution
         if self.method in (1, 3):
+            # print "DISTRIBUTION: DETERMINISTIC"
             for i, bot in enumerate(self.bots):
                 if modFactor == 1: # can't double down if only 1 active player!
                     p1 = qualifyingPlayers[0]
@@ -281,6 +290,7 @@ class NPSimulation(Simulation):
 
             # random selection
         elif self.method in (2, 4):
+            # print "DISTRIBUTION: RANDOM"
             for bot in self.bots:
                 if modFactor == 1: # can't double down if only 1 active player!
                     p1 = random.choice(qualifyingPlayers)
@@ -340,17 +350,22 @@ class NPSimulation(Simulation):
         percUniqueBotsL, startDateL, endDateL, minERAL = [], [], [], []
 
         # Get a tuple of tuples of simulation parameters
-        paramTupl, numParams = self.__create_mass_sim_param_generator(
+        params, numParams = self.__create_mass_sim_param_generator(
             simYearRange, simMinBatRange, NRange, PRange, minPARange, 
             minERARange=minERARange, method=method)
 
         # initialize a progressbar for the simulation
+        minERAString = ''
+        if method in (3,4):
+            minERAString = 'minERA: ({}, {}) '.format( minERARange[0], 
+                                                      minERARange[1])
         widgets = ['\nMassSim: simYear:({0}, {1}), '.format(
             simYearRange[0], simYearRange[1]) + 'simMinBatRange({0}, {1}),'.format(
                 simMinBatRange[0], simMinBatRange[1]) + ' N:({0}, {1}),'.format(
                 NRange[0], NRange[1]) + ' P:({0}, {1}) '.format(
                 PRange[0], PRange[1]) + 'minPA:({0}, {1}) '.format(
-                fullMinPARange[0], fullMinPARange[-1]), Timer(), ' ', Percentage()]
+                minPARange[0], minPARange[-1]) + minERAString + \
+                ' Method: {} '.format(method) , Timer(), ' ', Percentage()]
         pbar = ProgressBar(maxval=numParams, widgets=widgets).start()
         
         Reporter = NPReporter(self, test=test)
@@ -358,11 +373,11 @@ class NPSimulation(Simulation):
         # run all the simulations, saving individual simulation results to file
         i = 0
         minERA = None
-        for paramTuple in paramTuple:
+        for paramTuple in params:
             if method in (1,2):
-                simYear, batAveYear, N, P, minPA, dDown = paramTuple
+                simYear, batAveYear, N, P, minPA, doubleDown = paramTuple
             elif method in (3,4):
-                simYear, batAveYear, N, P, minPA, minERA, dDown = paramTuple
+                simYear, batAveYear, N, P, minPA, minERA, doubleDown = paramTuple
             else:
                 raise ValueError("Invalid Method: {}\n".format(method))
 
@@ -374,8 +389,8 @@ class NPSimulation(Simulation):
             self.doubleDown = doubleDown
             self.minPA = minPA
             self.method = method
-            startDate, endDate = self.simulate(anotherSim=True, prbar=False)
             self.minERA = minERA
+            startDate, endDate = self.simulate(anotherSim=True, prbar=False)
 
             # get 5 top streaks
             self.get_bots().sort(key=lambda bot: bot.get_max_streak_length(), 
