@@ -77,7 +77,7 @@ class TestFilepath(unittest.TestCase):
     def test_get_lahman_file(self):
         # test master.csv
         self.assertEqual(Filepath.get_lahman_file("master"), 
-            self.rootDir + '/datasets/lahman/unzipped/lahman2013-csv/master.csv')
+            self.rootDir + '/datasets/lahman/unzipped/lahman2013-csv/Master.csv')
 
     def test_get_results_folder(self):
         # test in non-testing environment

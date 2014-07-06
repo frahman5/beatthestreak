@@ -115,7 +115,7 @@ class Filepath(object):
         Returns the filepath of the lahman csv corresponding to fileF
         """
         return self.get_datasets() + "/lahman/unzipped/lahman2013-csv/" + \
-                  fileF + ".csv"
+                  fileF.capitalize() + ".csv"
 
     @classmethod
     def get_results_folder(self,year, test=False):
