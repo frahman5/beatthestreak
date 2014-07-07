@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! pyvenv/bin/python
 import sys
 import os
 import pandas as pd
@@ -730,7 +730,7 @@ def main(*args): # pragma: no cover
         """, re.VERBOSE)
     matches = [pMinPA.match(option) for option in options if pMinPA.match(option)]
     if len(matches) == 1:
-        minPA = int(matches[0].string[3:])
+        minPA = int(matches[0].string[4:])
         options.remove(matches[0].string)
     elif len(matches) != 0:
         print "can only use the -m option once!"
