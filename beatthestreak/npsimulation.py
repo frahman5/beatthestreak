@@ -133,10 +133,10 @@ class NPSimulation(Simulation):
         doubleDown = self.doubleDown
         while True:
             if (numDays=='max') and (self.currentDate >= lastDate): # pragma: no cover
-                Reporter.report_results(test=test, method=self.method)
+                #Reporter.report_results(test=test, method=self.method)
                 break
             if (type(numDays) == int) and elapsedDays >= numDays:
-                Reporter.report_results(test=test, method=self.method)
+                #Reporter.report_results(test=test, method=self.method)
                 break
             sim_next_day(doubleDown=doubleDown)
             elapsedDays += 1
@@ -730,7 +730,7 @@ def main(*args): # pragma: no cover
         """, re.VERBOSE)
     matches = [pMinPA.match(option) for option in options if pMinPA.match(option)]
     if len(matches) == 1:
-        minPA = int(matches[0].string[3:])
+        minPA = int(matches[0].string[4:])
         options.remove(matches[0].string)
     elif len(matches) != 0:
         print "can only use the -m option once!"
