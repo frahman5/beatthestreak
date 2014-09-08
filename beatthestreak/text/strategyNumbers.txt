@@ -79,6 +79,13 @@
 
     Example: See above (method 3), except randomly distribute playres to bots
 
+5) N P:MLB-Recommended Random Random
+     Parameters: Production strategy
+     N: N Accounts are created
+     P:MLB-Recommended: Which P players are "recommended" by the MLB
+        BTS website are elected to be the eligible players
+     Random: Each day, qualifying players are distributed to the N accounts randomly
+     Random: Each day, it is randomly decided whether or not a bot will double down
 
 
 

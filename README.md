@@ -1,27 +1,9 @@
-# Go Developer Virtual Machine
+This project relies on data from the Lahman and Retrosheet baseball
+data repositories to simulate different beat the streak strategies. 
 
-A provisioned development box using VirtualBox and Vagrant. This will install the full stack of tools you need to run a Go micro-service.
+MLB's beat the streak is a fantasy game that challenges users to 
+correctly predict players who will get a hit 57 times in a row (with some
+caveats). 
 
-## Dependencies
-
-1. Upgrade to Mac OS Mavericks 
-2. Install Oracle VirtualBox (http://virtualbox.org)
-3. Install Vagrant (http://vagrantup.com)
-
-## Getting Started
-
-Clone the repo, cd into the directory and run:
-
-```
-vagrant up
-```
-
-## Provisioning
-
-The first time you run this, it will also provision the box. If you don't know what that means, read the docs at vagrantup.com. After the first time, you will have to explicitly run `vagrant provision` if you change the `bootstrap.sh` file.
-
-## Contributing
-
-Before updating this repo, you must be familiar with the Vagrant documentation.
-
-The provisioning for this box is a shell script called `bootstrap.sh`. This is essentially just a shell script. Add whichever dependencies you need at the end of the file.
+I built this simulation purely for personal use, and as such there may be
+some bugs. 
