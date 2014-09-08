@@ -8,11 +8,10 @@ caveats).
 I built this simulation purely for personal use, and as such there may be
 some bugs. 
 
-USAGE:
+USAGE: runs a single simulation with given parameters and options
 
 ./npsimulation.py [OPTIONS] simYear batAveYear N P
    
-   -> runs a single simulation with given parameters and options
 
 Options:
 
@@ -27,6 +26,6 @@ Options:
    -mP=[minPlateAppearnces]: Indicate minimum number of plate appearances
                              that a player must have had to qualify for the sim
                              If not provided, defaults to 502
-                             
+
    -t : indicates results should be printed to test results folder
 
